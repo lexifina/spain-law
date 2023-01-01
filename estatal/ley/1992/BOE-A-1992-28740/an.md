@@ -40,33 +40,33 @@ A los efectos de esta Ley se consideran extractores las personas o entidades que
 
 Las personas o entidades extractoras deberán hallarse inscritas en el Registro de extractores. Los titulares de los depósitos fiscales deberán verificar que las personas o entidades que realizan las operaciones que determinan su inclusión están incluidas en el Registro de extractores de depósitos fiscales de productos comprendidos en los ámbitos objetivos de los Impuestos sobre el Alcohol y Bebidas Derivadas o sobre Hidrocarburos.
 
-Sexto. Liquidación del impuesto en los casos comprendidos en el artículo 19, número 5º, párrafo segundo, de esta Ley.
+Sexto. Liquidación del Impuesto en los casos comprendidos en el artículo 19, número 5.º, párrafo segundo, de esta ley:
 
-La liquidación del impuesto en los casos comprendidos en el artículo 19, número 5º, párrafo segundo de esta Ley, se ajustará a las siguientes normas:
+La liquidación del Impuesto en los casos comprendidos en el artículo 19, número 5.º, párrafo segundo, de esta ley, se ajustará a las siguientes normas:
 
-1.º Cuando los bienes salgan de las áreas o abandonen los regímenes comprendidos en los artículos 23 y 24 se producirá la obligación de liquidar el impuesto correspondiente a las operaciones que se hubiesen beneficiado previamente de la exención por su entrada en las áreas o vinculación a los regímenes indicados, de acuerdo con las siguientes reglas:
+1.º Cuando cesen las situaciones o se ultimen los regímenes comprendidos en los artículos 23 y 24, se producirá la obligación de liquidar el Impuesto correspondiente a las operaciones que se hubiesen beneficiado previamente de la exención por su colocación en las situaciones o vinculación a los regímenes indicados, de acuerdo con las siguientes reglas:
 
-a) Si los bienes hubiesen sido objeto de una o varias entregas exentas previas, el impuesto a ingresar será el que hubiere correspondido a la última entrega exenta efectuada.
+a) Si los bienes hubiesen sido objeto de una o varias entregas exentas previas, el Impuesto a ingresar será el que hubiere correspondido a la última entrega exenta efectuada.
 
-b) Si los bienes hubiesen sido objeto de una adquisición intracomunitaria exenta por haberse introducido en las áreas o vinculado a los regímenes indicados y no hubiesen sido objeto de una posterior entrega exenta, el impuesto a ingresar será el que hubiere correspondido a aquella operación de no haberse beneficiado de la exención.
+b) Si los bienes hubiesen sido objeto de una adquisición intracomunitaria exenta por haberse colocado en las situaciones o vinculado a los regímenes indicados y no hubiesen sido objeto de una posterior entrega exenta, el Impuesto a ingresar será el que hubiere correspondido a aquella operación de no haberse beneficiado de la exención.
 
-c) Si los bienes hubiesen sido objeto de operaciones exentas realizadas con posterioridad a las indicadas en las letras a) o b) anteriores o no se hubiesen realizado estas últimas operaciones, el impuesto a ingresar será el que, en su caso, resulte de lo dispuesto en dichas letras, incrementado en el que hubiere correspondido a las citadas operaciones posteriores exentas.
+c) Si los bienes hubiesen sido objeto de operaciones exentas realizadas con posterioridad a las indicadas en las letras a) o b) anteriores o no se hubiesen realizado estas últimas operaciones, el Impuesto a ingresar será el que, en su caso, resulte de lo dispuesto en dichas letras, incrementado en el que hubiere correspondido a las citadas operaciones posteriores exentas.
 
-d) Si los bienes hubiesen sido objeto de una importación exenta por haberse vinculado al régimen de depósito distinto de los aduaneros y hubiesen sido objeto de operaciones exentas realizadas con posterioridad a dicha importación, el impuesto a ingresar será el que hubiera correspondido a la citada importación de no haberse beneficiado de la exención, incrementado en el correspondiente a las citadas operaciones exentas.
+d) Si los bienes hubiesen sido objeto de una importación exenta por haberse vinculado al régimen de depósito distinto de los aduaneros y hubiesen sido objeto de operaciones exentas realizadas con posterioridad a dicha importación, el Impuesto a ingresar será el que hubiera correspondido a la citada importación de no haberse beneficiado de la exención, incrementado en el correspondiente a las citadas operaciones exentas.
 
-2.º La persona obligada a la liquidación e ingreso de las cuotas correspondientes a la salida de las áreas o abandono de los regímenes mencionados será el propietario de los bienes en ese momento, que tendrá la condición de sujeto pasivo y deberá presentar la declaración-liquidación relativa a las operaciones a que se refiere el artículo 167, apartado uno, de esta Ley.
+2.º La persona obligada a la liquidación e ingreso de las cuotas correspondientes al cese de las situaciones o la ultimación de los regímenes mencionados será el propietario de los bienes en ese momento, que tendrá la condición de sujeto pasivo y deberá presentar la declaración-liquidación relativa a las operaciones a que se refiere el artículo 167, apartado uno, de esta ley.
 
-El obligado a ingresar las cuotas indicadas podrá deducirlas de acuerdo con lo previsto en la Ley para los supuestos contemplados en su artículo 84, apartado uno, número 2.o
+El obligado a ingresar las cuotas indicadas podrá deducirlas de acuerdo con lo previsto en la Ley para los supuestos contemplados en su artículo 84, apartado uno, número 2.º
 
-Los empresarios o profesionales no establecidos en el territorio de aplicación del impuesto que resulten ser sujetos pasivos del mismo, de acuerdo con lo dispuesto en este número, podrán deducir las cuotas liquidadas por esta causa en las mismas condiciones y forma que los establecidos en dicho territorio.
+Los empresarios o profesionales no establecidos en el territorio de aplicación del Impuesto que resulten ser sujetos pasivos del mismo, de acuerdo con lo dispuesto en este número, podrán deducir las cuotas liquidadas por esta causa en las mismas condiciones y forma que los establecidos en dicho territorio.
 
-3.º Los titulares de las áreas o depósitos a que se refiere este precepto serán responsables solidarios del pago de la deuda tributaria que corresponda, según lo dispuesto en los números anteriores de este apartado sexto, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del impuesto.
+3.º Los titulares de los depósitos a que se refiere este precepto serán responsables solidarios del pago de la deuda tributaria que corresponda, según lo dispuesto en los números anteriores de este apartado sexto, independientemente de que puedan actuar como representantes fiscales de los empresarios o profesionales no establecidos en el ámbito espacial del Impuesto.
 
 Séptimo. Desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones.
 
 Se considerarán desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones los comprendidos en las partidas siguientes del Arancel de Aduanas:
 
-| Códi. NCE | Designación de la mercancía |
+| Cód. NCE | Designación de la Mercancía |
 | --- | --- |
 | 7204 | Desperdicios y desechos de fundición de hierro o acero (chatarra y lingotes). |
 
@@ -74,37 +74,40 @@ Los desperdicios y desechos de los metales férricos comprenden:
 
 a) Desperdicios obtenidos durante la fabricación o el mecanizado de la fundición del hierro o del acero, tales como las torneaduras, limaduras, despuntes de lingotes, de palanquillas, de barras o de perfiles.
 
-b) Las manufacturas de fundición de hierro o acero definitivamente inutilizables como tales por roturas, cortes, desgaste u otros motivos, así como sus desechos, incluso si alguna de sus partes o piezas son reutilizables.
+b) Las manufacturas de fundición de hierro o acero definitivamente inutilizables como tales por roturas, cortes, desgaste u otros motivos, así como sus desechos, incluso si algunas de sus partes o piezas son reutilizables.
 
 No se comprenden los productos susceptibles de utilizarse para su uso primitivo tal cual o después de repararlos.
 
 Los lingotes de chatarra son generalmente de hierro o acero muy aleado, toscamente colados, obtenidos a partir de desperdicios y desechos finos refundidos (polvos de amolado o torneaduras finas) y su superficie es rugosa e irregular.
 
-| Cód. NCE | Designación de la mercancía |
+| Cod. NCE | Designación de la mercancía |
 | --- | --- |
 | 7402 | Cobre sin refinar; ánodos de cobre para refinado. |
 | 7403 | Cobre refinado en forma de cátodos y secciones de cátodo. |
 | 7404 | Desperdicios y desechos de cobre. |
 | 7407 | Barras y perfiles de cobre. |
-| 7408.11.00 | Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea T6 mm. |
-| 7408.19.10 | Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea de T 05 mm, pero R= 6 mm. |
-| 7502 | Níquel |
+| 7408.11.00 | Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea > 6 mm. |
+| 7408.19.10 | Alambre de cobre refinado, en el que la mayor dimensión de la sección transversal sea de > 0,5 mm, pero <= 6 mm. |
+| 7502 | Níquel. |
 | 7503 | Desperdicios y desechos de níquel. |
 | 7601 | Aluminio en bruto. |
 | 7602 | Desperdicios y desechos de aluminio. |
-| 7605.11 | Alambre de aluminio sin alear. |
+| 7605 11 | Alambre de aluminio sin alear. |
 | 7605.21 | Alambre de aluminio aleado. |
-| 7801 | Plomo |
+| 7801 | Plomo. |
 | 7802 | Desperdicios y desechos de plomo. |
 | 7901 | Zinc. |
 | 7902 | Desperdicios y desechos de cinc (calamina). |
-| 8001 | Estaño |
+| 8001 | Estaño. |
 | 8002 | Desperdicios y desechos de estaño. |
 | 2618 | Escorias granuladas (arena de escorias) de la siderurgia. |
 | 2619 | Escorias (excepto granulados), batiduras y demás desperdicios de la siderurgia. |
 | 2620 | Cenizas y residuos (excepto siderurgia) que contenga metal o compuestos de metal. |
+| 3915 | Desechos, desperdicios y recortes, de plástico. |
 | 47.07 | Desperdicios o desechos de papel o cartón. Los desperdicios de papel o cartón comprenden las raspaduras, recortes, hojas rotas, periódicos viejos y publicaciones, maculaturas y pruebas de imprenta y artículos similares. La definición comprende también las manufacturas viejas de papel o de cartón vendidas para su reciclaje. |
-| 70.01 | Desperdicios o desechos de vidrio. Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio, así como los producidos por su uso o consumo. Se caracterizan generalmente por sus aristas cortantes. Baterias de plomo recuperadas. |
+| 6310 | Trapos, cordeles, cuerdas y cordajes, de materia textil, en desperdicios o en artículos inservibles. |
+| 70.01 | Desperdicios o desechos de vidrio. Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio, así como los producidos por su uso o consumo. Se caracterizan generalmente por sus aristas cortantes. |
+|  | Baterías de plomo recuperadas. |
 
 Octavo. Relación de bienes a que se refiere el artículo 91.Uno.1.6.ºc) de esta Ley.
 
@@ -185,6 +188,8 @@ Décimo. Entregas de plata, platino, paladio, así como la entrega de teléfonos
 | 8517 12 | Teléfonos móviles (celulares) y los de otras redes inalámbricas. Exclusivamente por lo que se refiere a los teléfonos móviles |
 | 9504 50 | Videoconsolas y máquinas de videojuego excepto las de la subpartida 950430. Exclusivamente por lo que se refiere a las consolas de videojuego |
 | 8471 30 | Máquinas automáticas para tratamiento o procesamiento de datos, portátiles, de peso inferior a 10 kg, que estén constituidas, al menos, por una unidad central de proceso, un teclado y un visualizador. Exclusivamente por lo que se refiere a ordenadores portátiles y tabletas digitales. |
+
+> Se modifican los apartados sexto y séptimo por el art. 74.9 y el art. 75.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-6
 
 > Se modifica el último párrafo y se añaden tres párrafos al apartado quinto por el art. 8.3 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ao
 

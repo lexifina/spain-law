@@ -26,7 +26,7 @@ c) Las condiciones del préstamo serán las siguientes:
 
 2.ª El plazo será el que reste de la vigencia de la concesión.
 
-3.ª El reembolso del principal se realizará, mediante un único pago, seis meses antes de la finalización del período concesional, salvo que por el Ministerio de Fomento, previo informe del Ministerio de Economía y Hacienda, se autorice la amortización anticipada.
+3.ª El reembolso del principal se realizará, mediante un único pago, seis meses antes de la finalización del período concesional, salvo que por el Ministerio de Transportes, Movilidad y Agenda Urbana, previo informe del Ministerio de Hacienda y Función Pública, se autorice la amortización anticipada. A efectos de dicha amortización anticipada no será de aplicación el artículo 20 en su apartado Uno b) del Real Decreto Ley 7/1996 de 7 de junio, sobre medidas urgentes de carácter fiscal y de fomento y liberalización de la actividad económica, salvo que, como consecuencia de la amortización, la sociedad concesionaria quede incursa en las causas de obligación de reducción del capital social del artículo 327 del Texto refundido de la Ley de Sociedades de Capital aprobada por Real Decreto Legislativo 1/2010, de 2 de julio o en las causas de disolución de la Sociedad del artículo 363 de la citada Ley.
 
 4.ª El Estado percibirá como remuneración del préstamo, con devengo a 31 de diciembre de cada año, desde la fecha de su desembolso, la mayor de las cantidades siguientes:
 
@@ -77,6 +77,8 @@ La actualización de la tarifa se realizará anualmente, con el Índice de Preci
 Seis. Recursos propios de la sociedad concesionaria.
 
 El capital social de la sociedad concesionaria deberá quedar íntegramente desembolsado en el plazo máximo de tres años desde su constitución.
+
+> Se modifica el apartado Tres.c) 3ª por la disposición final 18 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-18
 
 > Se añade el apartado Tres.c) 8ª por la disposición final 22 de la Ley 11/2020, de 30 de diciembre. Ref. BOE-A-2020-17339#df-23
 

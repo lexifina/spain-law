@@ -1,5 +1,7 @@
 ## Artículo 58 terdecies. Efectos de la renuncia o exclusión del régimen especial del criterio de caja.
 
-La renuncia o exclusión de la aplicación del régimen especial del criterio de caja determinará el mantenimiento de las normas reguladas en el mismo respecto de las operaciones efectuadas durante su vigencia en los términos señalados en el artículo anterior.
+(Sin contenido)
+
+> Se deja sin contenido por la disposición final 6.7 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
 
 > Se añade por el art. 24 de la Ley 14/2013, de 27 de septiembre. Ref. BOE-A-2013-10074.

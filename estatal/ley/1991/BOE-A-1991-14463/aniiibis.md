@@ -1,6 +1,6 @@
 ## ANEXO III bis.
 
-Desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones.
+## Desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones
 
 Se considerarán desperdicios o desechos de fundición, de hierro o acero, chatarra o lingotes de chatarra de hierro o acero, desperdicios o desechos de metales no férricos o sus aleaciones, escorias, cenizas y residuos de la industria que contengan metales o sus aleaciones los comprendidos en las partidas siguientes del Arancel de Aduanas:
 
@@ -41,9 +41,13 @@ Los lingotes de chatarra son generalmente de hierro o acero muy aleado, toscamen
 | 2618 | Escorias granuladas (arena de escorias) de la siderurgia. |
 | 2619 | Escorias (excepto granulados), batiduras y demás desperdicios de la siderurgia. |
 | 2620 | Cenizas y residuos (excepto siderurgia) que contenga metal o compuestos de metal. |
-| 47.07 | Desperdicios o desechos de papel o cartón. Los deperdicios de papel o cartón comprenden las raspaduras, recortes, hojas rotas, periódicos viejos y publicaciones, maculaturas y pruebas de imprenta y artículos similares. La difinición comprende también las manufacturas viejas de papel o de cartón vendidas para su reciclaje. |
-| 70.01 | Desperdicios o desechos de vidrio, Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio, así como los producidos por uso o consumo. Se caracterizan generalmente por sus aristas cortantes. |
-|  | Baterias de plomo recuperadas. |
+| 3915 | Desechos, desperdicios y recortes, de plástico. |
+| 47.07 | Desperdicios o desechos de papel o cartón. Los desperdicios de papel o cartón comprenden las raspaduras, recortes, hojas rotas, periódicos viejos y publicaciones, maculaturas y pruebas de imprenta y artículos similares. La definición comprende también las manufacturas viejas de papel o de cartón vendidas para su reciclaje. |
+| 6310 | Trapos, cordeles, cuerdas y cordajes, de materia textil, en desperdicios o en artículos inservibles. |
+| 70.01 | Desperdicios o desechos de vidrio. Los desperdicios o desechos de vidrio comprenden los residuos de la fabricación de objetos de vidrio, así como los producidos por uso o consumo. Se caracterizan generalmente por sus aristas cortantes. |
+|  | Baterías de plomo recuperadas. |
+
+> Se modifica por la disposición final 6.8 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#df-6
 
 > Se modifica por el art. 12.3.3 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936.
 

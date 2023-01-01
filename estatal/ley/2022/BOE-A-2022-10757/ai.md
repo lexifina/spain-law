@@ -95,6 +95,8 @@ En este caso, en los supuestos de carácter excepcional en que así esté previs
 
 3. Tasa por reserva del dominio público radioeléctrico
 
+> Véase el art. 85 de la Ley 31/2022, de 23 de diciembre, redactada conforme a la corrección de errores publicada en BOE núm. 52, de 2 de marzo de 2023, en cuanto a la forma de calcular la tasa por reserva de dominio público radioeléctrico establecida en este apartado. Ref. BOE-A-2022-22128#a8-7
+
 1. La reserva para uso privativo o para uso especial por operadores de cualquier frecuencia del dominio público radioeléctrico a favor de una o varias personas o entidades se gravará con una tasa anual, en los términos que se establecen en este apartado.
 
 Para la fijación del importe a satisfacer en concepto de esta tasa por los sujetos obligados, se tendrá en cuenta el valor de mercado del uso de la frecuencia reservada y la rentabilidad que de él pudiera obtener el beneficiario.

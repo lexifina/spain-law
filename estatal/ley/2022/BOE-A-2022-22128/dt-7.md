@@ -1,0 +1,5 @@
+## Disposición transitoria séptima. Plazo para la modificación de la base imponible del Impuesto General Indirecto Canario por créditos incobrables.
+
+En los supuestos de modificación de la base imponible de créditos total o parcialmente incobrables, cuando a la fecha de entrada en vigor de esta ley no hubieran trascurrido el plazo de tres meses desde la finalización del periodo de seis meses o un año a que se refiere la condición 1.ª de la letra A) del apartado 7 del artículo 22 de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, el plazo para modificar la base imponible referido en la letra B) de dicho apartado 7 será de seis meses desde la finalización del referido periodo de seis meses o un año.
+
+En el caso de operaciones a las que sea de aplicación el régimen especial del criterio de caja, la modificación de la base imponible podrá realizarse dentro de los 6 meses siguientes a partir de la fecha límite del 31 de diciembre a que se refiere el artículo 105 de la Ley, de la Comunidad Autónoma de Canarias, 4/2012, de 25 de junio, de medidas administrativas y fiscales.

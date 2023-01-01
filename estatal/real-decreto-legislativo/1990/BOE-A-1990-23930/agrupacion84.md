@@ -80,6 +80,16 @@ Notas:
 
 2.ª Podrá realizarse, sin pago de cuota adicional alguna, la actividad relativa a la emisión y distribución de sellos de correos y demás signos de franqueo.
 
+## Grupo 848. Servicios de oficina flexible, “coworking” y centros de negocios.
+
+Cuota mínima municipal de: 202 euros.
+
+Cuota provincial de: 20.000 euros.
+
+Cuota nacional de: 35.000 euros.
+
+Nota: Este grupo comprende los servicios prestados por las oficinas flexibles, “coworking” y centros de negocios, que ofrecen a sus clientes (empresas y profesionales) la infraestructura necesaria para desarrollar su actividad: espacios de trabajo, oficinas y salas de reuniones, de formación o de conferencias completamente equipadas, eventos, puestos de trabajo flexibles o fijos, servicio de comunicaciones, videoconferencia y conexión a Internet, oficinas virtuales, gestión de documentaciones y correspondencia, servicios de secretariado, ‘‘catering’’, ofimática, etc.
+
 ## Grupo 849. Otros servicios prestados a las empresas n.c.o.p.
 
 Epígrafe 849.1 Cobros de deudas y confección de facturas.
@@ -125,6 +135,8 @@ Nota: Este epígrafe comprende la prestación por un mismo sujeto pasivo de una 
 Epígrafe 849.9 Otros servicios independientes n.c.o.p.
 
 Cuota de: 33.638 pesetas. (202,17 euros)
+
+> Se añade el Grupo 848 por el art. 70.2 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
 
 > Se suprime la nota 3ª del epígrafe 847 por el art. 74.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-70
 

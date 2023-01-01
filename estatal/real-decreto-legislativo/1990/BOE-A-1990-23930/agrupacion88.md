@@ -32,6 +32,12 @@ Cuota de: 17.906 pesetas. (107,62 euros)
 
 Cuota de: 19.044 pesetas. (114,46 euros)
 
+## Grupo 889. Guías de montaña. .
+
+Cuota de: 126 euros.
+
+> Se añade el Grupo 889 por el art. 70.4 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
+
 > Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
 
 > Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.

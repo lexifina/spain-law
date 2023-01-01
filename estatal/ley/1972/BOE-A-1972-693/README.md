@@ -59,6 +59,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPITULO IX](cix.md)
 - [Artículo treinta y seis](atreintayseis.md)
 - [Disposición adicional](da.md)
+- [Disposición adicional primera](da-2.md)
+- [Disposición adicional segunda](da-3.md)
 - [Disposición final primera](primera.md)
 - [Disposición final segunda](segunda.md)
 - [Disposición final tercera](tercera.md)
