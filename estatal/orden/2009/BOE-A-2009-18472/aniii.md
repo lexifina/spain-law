@@ -1,19 +1,7 @@
 ## ANEXO III
 
-390. IVA Resumen anual. Ejercicio: NNNN
+## (Suprimido)
 
-NÚMERO IDENTIFICATIVO
+> Téngase en cuenta que la supresión de este anexo, establecida por el art. 3.4 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. Ref. BOE-A-2022-19290, entra en vigor el 1 de enero de 2023 según determina su disposición final única.
 
-IDENTIFICACIÓN DEL SUJETO PASIVO
-
-– NIF: XNNNNNNNX
-
-– APELLIDOS Y NOMBRE O RAZÓN SOCIAL
-
-IMPORTE DE LA CASILLA 86:
-
-(Resultado de la liquidación)
-
-IMPORTE DE LA CASILLA 94:
-
-(Resultado de la liquidación anual atribuible a territorio común)
+> Se suprime, con efectos de 1 de enero de 2023, por el art. 3.4 de la Orden HFP/1124/2022, de 18 de noviembre de 2022. Ref. BOE-A-2022-19290

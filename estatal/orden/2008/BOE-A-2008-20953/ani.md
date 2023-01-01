@@ -2,17 +2,23 @@
 
 ## Modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_5.png)
+> Téngase en cuenta que este modelo, modificado por el art. 2.2 de la Orden HFP/1124/2022, de 18 de noviembre, Ref. BOE-A-2022-19290, se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece la disposición final única de la citada Orden.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_8.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_9.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/10509_9750038_10.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_9.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_10.png)
+
+> Se sustituye por el que figura como anexo II de la Orden HFP/1124/2022, de 18 de noviembre, según establece su art. 2.2. Ref. BOE-A-2022-19290.
+
+> Téngase en cuenta que se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece la disposición final única de la citada Orden.
 
 > Se sustituye por el art. 2 y anexo II de la Orden HAC/646/2021, de 22 de junio. Ref. BOE-A-2021-10509
 
