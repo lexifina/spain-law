@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Tratamiento de la información.
+
+La información gestionada como consecuencia de la aplicación del presente real decreto, deberá hacerse de acuerdo con las indicaciones del Esquema nacional de seguridad, el Esquema nacional de interoperabilidad y las directrices fijadas por la Oficina del dato de la Secretaría de Estado de Digitalización e Inteligencia Artificial del Ministerio de Asuntos Económicos y Transformación Digital, garantizándose así su interoperabilidad con el espacio de datos de agricultura. Toda información no sujeta a consideraciones de privacidad o sometida a propiedad intelectual o secreto comercial, deberá ser publicada como datos abiertos.

@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 1 de enero de 2023, por la disposición derogatoria única del Real Decreto 1048/2022, de 27 de diciembre, Ref. BOE-A-2022-23048, redactada conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. Ref. BOE-A-2023-2253
