@@ -11,8 +11,11 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [(preambulo)](pr.md)
+- [Artículo primero](ap.md)
 - [Artículo segundo](as.md)
+- [Artículo tercero](at.md)
 - [Artículo cuarto](ac.md)
+- [Artículo quinto](aq.md)
 - [Artículo sexto](as-2.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
@@ -21,6 +24,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposición transitoria tercera](dt-3.md)
 - [Disposición transitoria cuarta](dt-4.md)
+- [Disposición transitoria quinta](dt-5.md)
 - [Disposición transitoria sexta](dt-6.md)
 - [Disposición transitoria séptima](dt-7.md)
 - [Disposición derogatoria única](dd.md)

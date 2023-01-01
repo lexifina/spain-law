@@ -69,6 +69,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición final séptima](df-7.md)
 - [Disposición final octava](df-8.md)
 - [Disposición final novena](df-9.md)
+- [Disposición final décima](df-10.md)
 - [Disposición final decimoprimera](df-11.md)
 - [Disposición final decimosegunda](df-12.md)
 - [Disposición final decimotercera](df-13.md)
