@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2023-01-01. The recorded cause is disposición derogatoria única del Real Decreto 1048/2022, de 27 de diciembre, Ref. BOE-A-2022-23048, redactada conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023 (BOE-A-2023-2253). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
