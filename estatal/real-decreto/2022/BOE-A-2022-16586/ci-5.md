@@ -1,3 +1,5 @@
 ## CAPÍTULO IX
 
 ## Controles
+
+> Se deroga por la disposición derogatoria única.2.a) del Real Decreto 1047/2022, de 27 de diciembre de 2022. Ref. BOE-A-2022-23047#dd
