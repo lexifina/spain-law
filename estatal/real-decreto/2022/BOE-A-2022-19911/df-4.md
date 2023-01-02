@@ -1,0 +1,5 @@
+## Disposición final cuarta. Modificación del Real Decreto 637/2021, de 27 de julio, por el que se establecen las normas básicas de ordenación de las granjas avícolas.
+
+El apartado 1 del artículo 13 del Real Decreto 637/2021, de 27 de julio, por el que se establecen las normas básicas de ordenación de las granjas avícolas, queda modificado como sigue:
+
+> «1. Para garantizar el cumplimiento de los requisitos para la reducción de emisiones establecidos en el artículo 12, se utilizará el Registro de Mejores Técnicas Disponibles en Explotaciones creado por el Real Decreto 306/2020, de 11 de febrero, por el que se establecen normas básicas de ordenación de las granjas porcinas intensivas, y se modifica la normativa básica de ordenación de las explotaciones de ganado porcino extensivo, de acuerdo con el Real Decreto 988/2022, de 29 de noviembre, por el que se regula el Registro General de las Mejores Técnicas Disponibles en Explotaciones y el soporte para el cálculo, seguimiento y notificación de las emisiones en ganadería, y se modifican diversas normas en materia agraria.»
