@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados, desde el día 2 de enero de 2023, el Real Decreto 930/2017, de 22 de febrero, por el que se regula el régimen de ayudas a la apicultura en el marco de los programas nacionales anuales, y se modifica el Real Decreto 209/2002, de 22 de febrero, por el que se establecen normas de ordenación de las explotaciones apícolas, así como la Orden AAA/2571/2015, de 19 de noviembre por la que se establecen las bases reguladoras de la concesión de las subvenciones para la realización de proyectos de investigación aplicada en el sector apícola y sus productos, dentro del Programa nacional de medidas de ayuda a la apicultura.
