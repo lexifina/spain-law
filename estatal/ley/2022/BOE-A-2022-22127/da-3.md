@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Cobertura del riesgo de sequía hidrológica en la agricultura de regadío.
+
+El Ministerio de Agricultura, Pesca y Alimentación, a través de ENESA y en el marco de las actuaciones a desarrollar para la revisión y perfeccionamiento de las líneas de seguro dentro del Cuadragésimo Cuarto Plan de Seguros Agrarios Combinados, estudiará la incorporación al Plan de una nueva línea de seguro para la cobertura de sequía hidrológica en las superficies de regadío para indemnizar las pérdidas producidas por pérdidas de rendimiento atribuibles a minoraciones de las dotaciones de riego no achacable al asegurado.

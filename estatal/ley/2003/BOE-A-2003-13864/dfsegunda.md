@@ -16,12 +16,16 @@ b) Del título II, los preceptos siguientes:
 
 c) Del título III, los preceptos siguientes:
 
-1.º El artículo 37.
+1.º El artículo 33
 
-2.º El apartado 1 del artículo 38.
+2.º El artículo 37.
 
-3.º Los apartados 1 y 3 del artículo 39.
+3.º El apartado 1 del artículo 38.
 
-4.º Del artículo 40, los apartados 1, 3 y 4 íntegros; y del apartado 2, los párrafos a) y b).
+4.º Los apartados 1 y 3 del artículo 39.
 
-5.º Los artículos 41, 42, 44 y 45.
+5.º Del artículo 40, los apartados 1, 3 y 4 íntegros; y del apartado 2, los párrafos a) y b).
+
+6.º Los artículos 41, 42, 44 y 45.
+
+> Se modifica la letra c) por la disposición final 4.10 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-4
