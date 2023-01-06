@@ -12,6 +12,8 @@ b) En los globos esféricos que no sean globos libres no tripulados, las marcas 
 
 c) En los globos no esféricos que no sean globos libres no tripulados, las marcas deberán aparecer en cada lado, y deberán colocarse cerca de la máxima sección transversal del globo, por encima de la banda de cordaje o de los puntos de conexión de los cables de suspensión de la barquilla y lo más cerca posible de los mismos.
 
+d) Con relación al emplazamiento de las marcas de nacionalidad y matrícula será preferentemente horizontal; aceptándose la ubicación de manera vertical siempre que la disposición de las letras sea horizontal, en este último caso la matrícula se escribirá de arriba a abajo.
+
 En todo caso, las marcas laterales deberán ser visibles desde los lados y desde el suelo.
 
 2. En los aerodinos las marcas se ostentarán, una sola vez, en el intradós del ala. Se colocarán en la mitad izquierda del intradós del ala, a no ser que se extiendan sobre la totalidad de dicho intradós. Las marcas se colocarán, siempre que sea posible, a igual distancia de los bordes de ataque y de salida de las alas. La parte superior de las letras y números deberá orientarse hacia el borde de ataque del ala.
@@ -36,6 +38,16 @@ C) Tipo de los caracteres empleados.
 
 3. Cada uno de los caracteres estará separado, del que inmediatamente le preceda o siga, por un espacio por lo menos igual a la cuarta parte de la anchura de un carácter. A este fin, el guion se considerará como un carácter.
 
-D) Colores de la bandera de España.
+D) Colocación y dimensiones de los colores de la bandera de España.
 
-En el fuselaje de la aeronave o, alternativamente, a través de toda la superficie vertical de cola, por encima de la parte superior de las marcas de nacionalidad y matrícula y paralela a las mismas y a la línea de vuelo, se pintará o una franja con los colores de la bandera nacional, o la propia bandera nacional, que podrá colocarse en cualquier superficie exterior, a ambos lados de la aeronave.
+1. En la aeronave se pintará o se fijará de cualquier otra forma que le dé una permanencia similar una franja con los colores de la bandera nacional, o la propia bandera nacional, que deberá colocarse:
+
+(i) En los aerostatos que no sean globos libres no tripulados, junto a las marcas de nacionalidad y matrícula o justo encima o debajo de ella. Como alternativa, se permite la colocación de la bandera nacional en el cabo de corona, preferiblemente en su tercio inferior.
+
+(ii) En los aerodinos, cuando se exhiba la franja con los colores de la bandera, en el fuselaje de la aeronave o, alternativamente, a través de toda la superficie vertical de cola, por encima de la parte superior de las marcas de nacionalidad y matrícula y paralela a las mismas y a la línea de vuelo. Cuando se exhiba la propia bandera, podrá colocarse en cualquier superficie exterior, a ambos lados de la aeronave.
+
+2. La altura de la franja con los colores de la bandera o la propia bandera, será, al menos, la que corresponda a las marcas de nacionalidad y matrícula según el apartado B de este anexo, incluida la reducción del tamaño cuando proceda conforme a dicho apartado.
+
+3. Si la superficie sobre la que se pinta o fija la bandera nacional es de uno de los colores de la propia bandera, o si tiene un diseño que dificulta su identificación, la bandera se enmarcará en un recuadro de otro color, de suficiente grosor para facilitar su distinción.
+
+> Se añade la letra d) al apartado A).1 y se modifica el apartado D) por el art. único.5 y 6 de la Orden TMA/1354/2022, de 16 de diciembre. Ref. BOE-A-2023-159
