@@ -14,7 +14,7 @@ a) La Secretaría de Estado de Comercio, de la que dependen los siguientes órga
 
 1.º La Dirección General de Comercio Internacional e Inversiones.
 
-2.º La Dirección General de Política Comercial y Competitividad.
+2.º La Dirección General de Política Comercial.
 
 b) La Secretaría de Estado de Turismo.
 
@@ -22,4 +22,10 @@ c) La Secretaría General de Industria y de la Pequeña y Mediana Empresa, con r
 
 d) La Subsecretaría de Industria, Comercio y Turismo de la que depende la Secretaría General Técnica.
 
+e) El Comisionado especial para el PERTE Agroalimentario, con rango de Subsecretaría.
+
+f) El Comisionado especial para el PERTE de Descarbonización Industrial, con rango de Subsecretaría.
+
 5. Como órgano de asistencia inmediata a la persona titular del Ministerio de Industria, Comercio y Turismo, existe un Gabinete, cuyo Director ostenta el rango de Director General, conforme a la estructura que se establece en el artículo 18.2 del Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+> Se modifica el apartado 4 por el art. 2.1 del Real Decreto 1/2023, de 10 de enero. Ref. BOE-A-2023-626
