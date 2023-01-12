@@ -56,4 +56,6 @@ b) Restantes especificaciones: les serán de aplicación al menos las establecid
 
 Parte C. Criterios de pureza del anhídrido carbónico
 
-El anhídrido carbónico utilizado para reforzar o gasificar las aguas que se comercialicen envasadas deberá reunir las condiciones que se fijan en el Real Decreto 1466/2009, de 18 de septiembre, por el que se establecen las Normas de Identidad y Pureza de los Aditivos Alimentarios distintos de los Colorantes y Edulcorantes utilizados en los productos alimenticios.
+El anhídrido carbónico utilizado para reforzar o gasificar las aguas que se comercialicen envasadas deberá reunir las condiciones que se fijan en el Reglamento (UE) n.º 231/2012 de la Comisión, de 9 de marzo de 2012, por el que se establecen especificaciones para los aditivos alimentarios que figuran en los anexos II y III del Reglamento (CE) n.º 1333/2008 del Parlamento Europeo y del Consejo.
+
+> Se modifica la parte C por el art. 1.5 del Real Decreto 2/2023, de 10 de enero. Ref. BOE-A-2023-627
