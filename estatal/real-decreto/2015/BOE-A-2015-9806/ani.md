@@ -230,25 +230,31 @@ Los programas de control de vigilancia y operativo a los que están sometidas la
 
 C.1) Control de aguas destinadas al abastecimiento.
 
-Objeto. Este control está integrado por el conjunto de puntos de muestreo que permiten el seguimiento de las zonas protegidas por estar destinadas a la captación de agua para la producción de agua de consumo humano.
+Objeto. Este control está integrado por el conjunto de puntos de muestreo, en aguas superficiales o subterráneas, que permiten el seguimiento de las zonas protegidas por estar destinadas a la captación de agua destinada a la producción de agua de consumo.
 
 Selección de los puntos de muestreo:
 
-Se controlarán las masas de agua que proporcionan un promedio de más de 100 metros cúbicos diarios destinados al abastecimiento de población.
+Se controlarán las masas de agua, superficiales y subterráneas, que proporcionan un promedio de más de 100 metros cúbicos diarios destinados al abastecimiento de población.
 
 Se elegirá un número suficiente de puntos de muestreo en las masas de agua con objeto de evaluar la magnitud y el impacto de las presiones a las que está sometida.
 
 Elementos de calidad y frecuencias de muestreo:
 
-El control sobre las sustancias prioritarias vertidas y sobre los contaminantes vertidos en cantidades significativas se realizará prestando especial atención a las sustancias que afecten al estado y que se regulan en el anexo I del Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad de agua de consumo humano.
+Se deben controlar los parámetros, sustancias o contaminantes, que puedan constituir un riesgo para la salud humana a través del consumo de agua, o dar lugar a un deterioro inaceptable de la calidad del agua de consumo. La selección de los parámetros, sustancias o contaminantes se realiza a partir de la evaluación de riesgos de las zonas de captación de agua destinada a la producción de agua de consumo prevista en el capítulo VII del Real Decreto 10/2023, de 10 de enero, por el que se establecen los criterios técnico-sanitarios de la calidad del agua de consumo, su control y su suministro.
+
+En todo caso se garantizará el control de las sustancias prioritarias vertidas y los contaminantes vertidos en cantidades significativas que puedan suponer un riesgo para las zonas de captación de agua destinada a la producción de agua de consumo.
 
 Los controles adicionales se llevarán a cabo con la periodicidad que se expone a continuación:
 
 | Población abastecida | Periodicidad |
 | --- | --- |
-| < 10000 habitantes | Trimestral |
-| de 10000 a 30000 habitantes | 8 veces al año |
-| > 30000 habitantes | Mensual |
+| < 10.000 habitantes. | Trimestral. |
+| de 10.000 a 30.000 habitantes. | 8 veces al año. |
+| > 30.000 habitantes. | Mensual. |
+
+La frecuencia de muestreo de cada parámetro, sustancia o contaminante seleccionado se determinará conforme a los criterios y frecuencias señaladas en el Apartado B de este anexo, una vez se hayan clasificado como elemento de calidad biológico, químico o fisicoquímico general, contaminante específico o sustancias prioritaria.
+
+En caso de que se hayan seleccionado parámetros microbiológicos, la frecuencia de control será mensual, trimestral o semestral y se fijará atendiendo a la tabla de frecuencias del anexo II.C.2 del Real Decreto 3/2023, de 10 de enero, por el que se establecen los criterios técnico-sanitarios de la calidad del agua de consumo, su control y su suministro. En todo caso la frecuencia máxima de control es mensual.
 
 C.2) Control de aguas en zonas de protección de hábitats o especies.
 
@@ -318,3 +324,7 @@ T: Tendencias. Frecuencia trienal.
 B: NCA en biota. Frecuencia anual.
 
 U: PBT ubicua. Frecuencia trienal.
+
+> Se modifica el apartado C.1) por la disposición final 2.3 del Real Decreto 3/2023, de 10 de enero. Ref. BOE-A-2023-628#df-2
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 14 de febrero de 2023. Ref. BOE-A-2023-3843
