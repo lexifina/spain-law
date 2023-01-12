@@ -54,9 +54,11 @@ d) Que la reducción de la jornada de trabajo del jubilado parcial se halle comp
 
 e) Que exista una correspondencia entre las bases de cotización del trabajador relevista y del jubilado parcial, de modo que la del trabajador relevista no podrá ser inferior al 65 por ciento del promedio de las bases de cotización correspondientes a los seis últimos meses del período de base reguladora de la pensión de jubilación parcial.
 
-f) Que se acredite un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, solo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, con el límite máximo de un año.
+f) Que se acredite un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, solo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, o del servicio social femenino obligatorio, con el límite máximo de un año.
 
 En el supuesto de personas con discapacidad en grado igual o superior al 33 por ciento, el período de cotización exigido será de veinticinco años.
+
+> Se modifica el apartado 6 por el art. 84 del Real Decreto-ley 20/2022, de 27 de diciembre, en la redacción dada por la disposición final 6.2 del Real Decreto-ley 1/2023, de 10 de enero. Ref. BOE-A-2023-625#df-6
 
 > Se modifica el apartado 6 por el art. 84 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a8-6
 
