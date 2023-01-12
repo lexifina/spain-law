@@ -16,6 +16,16 @@
 
 3. Los delitos de terrorismo a los que se refiere el apartado 2 del artículo anterior se castigarán con la pena superior en grado a la respectivamente prevista en los correspondientes artículos.
 
-4. El delito de desórdenes públicos previsto en el artículo 557 bis, así como los delitos de rebelión y sedición, cuando se cometan por una organización o grupo terrorista o individualmente pero amparados en ellos, se castigarán con la pena superior en grado a las previstas para tales delitos.
+4. El delito de desórdenes públicos previsto en los apartados 2 y 3 del artículo 557, así como el delito de rebelión, cuando se cometan por una organización o grupo terrorista o individualmente pero amparados en ellos, se castigarán con la pena superior en grado a las previstas para tales delitos.
+
+> Téngase en cuenta que esta ultima actualización del apartado 4 establecida por el art. 1.25 de la Ley Orgánica 14/2022, de 22 de diciembre. Ref. BOE-A-2022-21800#ap, entra en vigor el 12 de enero de 2023, según determina su disposición final 6.
+
+> Redacción anterior:
+
+> "4. El delito de desórdenes públicos previsto en el artículo 557 bis, así como los delitos de rebelión y sedición, cuando se cometan por una organización o grupo terrorista o individualmente pero amparados en ellos, se castigarán con la pena superior en grado a las previstas para tales delitos."
+
+> Se modifica el apartado 4 por el art. 1.25 de la Ley Orgánica 14/2022, de 22 de diciembre. Ref. BOE-A-2022-21800#ap
+
+> Téngase en cuenta, para su aplicación, lo dispuesto en la disposiciones transitorias primera a tercera de la citada Ley Orgánica.
 
 > Se añade por el art. único de la Ley Orgánica 2/2015, de 30 de marzo. Ref. BOE-A-2015-3440.
