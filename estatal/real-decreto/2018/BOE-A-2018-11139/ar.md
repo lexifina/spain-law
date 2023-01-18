@@ -20,12 +20,16 @@ b) La Secretaría de Estado de Turismo.
 
 c) La Secretaría General de Industria y de la Pequeña y Mediana Empresa, con rango de Subsecretaría, de la que depende la Dirección General de Industria y de la Pequeña y Mediana Empresa.
 
-d) La Subsecretaría de Industria, Comercio y Turismo de la que depende la Secretaría General Técnica.
+d) La Subsecretaría de Industria, Comercio y Turismo, de la que depende la Secretaría General Técnica.
 
 e) El Comisionado especial para el PERTE Agroalimentario, con rango de Subsecretaría.
 
 f) El Comisionado especial para el PERTE de Descarbonización Industrial, con rango de Subsecretaría.
 
+g) El Comisionado especial para el PERTE para el desarrollo de un ecosistema para la fabricación del Vehículo Eléctrico y Conectado, con rango de Subsecretaría.
+
 5. Como órgano de asistencia inmediata a la persona titular del Ministerio de Industria, Comercio y Turismo, existe un Gabinete, cuyo Director ostenta el rango de Director General, conforme a la estructura que se establece en el artículo 18.2 del Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los departamentos ministeriales.
+
+> Se modifica el apartado 4 por el art. 2.1 del Real Decreto 13/2023, de 17 de enero. Ref. BOE-A-2023-1189
 
 > Se modifica el apartado 4 por el art. 2.1 del Real Decreto 1/2023, de 10 de enero. Ref. BOE-A-2023-626
