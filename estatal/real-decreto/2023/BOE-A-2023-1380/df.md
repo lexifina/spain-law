@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+El presente real decreto se dicta al amparo de la habilitación contenida en la cláusula 13.ª del artículo 149.1 de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica. Así mismo, se dicta también en virtud del artículo 149.1.23.ª, que reserva al Estado la competencia en materia de legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las comunidades autónomas de establecer normas adicionales de protección.

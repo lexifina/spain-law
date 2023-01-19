@@ -1,0 +1,3 @@
+## Disposición derogatoria única.
+
+A la entrada en vigor del presente real decreto quedan sin efectos el Real Decreto 18/2016, de 15 de enero, por el que se aprueban los Planes de gestión del riesgo de inundación de las demarcaciones hidrográficas del Guadalquivir, Segura, Júcar y de la parte española de las demarcaciones hidrográficas del Miño-Sil, Duero, Tajo, Guadiana, Ebro, Ceuta y Melilla, y el artículo 1 del Real Decreto 20/2016, de 15 de enero, por el que se aprueban los Planes de gestión del riesgo de inundación de la demarcación hidrográfica del Cantábrico Occidental y de la parte española de la demarcación hidrográfica del Cantábrico Oriental.
