@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 19 de enero de 2023, con la excepción del anexo en que se regulan las Cláusulas de Acción Colectiva normalizadas, por la disposición derogatoria única de la Orden ETD/37/2023, de 17 de enero. Ref. BOE-A-2023-1401
