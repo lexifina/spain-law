@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Publicidad.
+
+Dado el carácter público de los planes de gestión del riesgo de inundación, conforme a lo dispuesto en el artículo 16 del Real Decreto 903/2010, de 9 de julio, el contenido íntegro del Plan se encuentra en la sede electrónica de la Xunta de Galicia (https://augasdegalicia.xunta.gal) resto de administraciones competentes, a los que se accederá desde, al menos, las del Ministerio para la Transición Ecológica y el Reto Demográfico (www.miteco.gob.es) y del Ministerio del Interior (www.interior.gob.es/).
+
+Asimismo, se podrán obtener copias o certificados de los extremos del mismo de acuerdo con lo dispuesto en el artículo 13 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y acceder a su contenido en los términos previstos en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente (incorpora las Directivas 2003/4/CE y 2003/35/CE) y la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
