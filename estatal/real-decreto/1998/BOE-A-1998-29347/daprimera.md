@@ -12,8 +12,10 @@ d) Archivo General Militar de Ávila.
 
 e) Archivo Cartográfico y de Estudios Geográficos del Servicio Geográfico del Ejército.
 
-f) Archivo General de la Marina «Alvaro de Bazán».
+f) Archivo Histórico de la Armada.
 
-g) Archivo del Museo Naval.
+g) Archivo Histórico del Ejército del Aire y del Espacio.
 
-h) Archivo Histórico del Ejército del Aire.
+h) Archivo General e Histórico de Defensa.
+
+> Se modifican las letras f), g) y h) por la disposición final 1 del Real Decreto 33/2023, de 24 de enero. Ref. BOE-A-2023-2025#df
