@@ -15,112 +15,168 @@ Anexo III.a) Tabla salarial 2019
 
 * Sin componentes de antigüedad.
 
-Anexo III.b) Complementos singulares de puesto (artículo 59.5.1 IV Convenio único)
+Anexo III.b) Complementos singulares de puesto (artículo 59.5.1 IV Convenio Único)
 
 Anexo III.b).1 Cuantías anuales en euros
 
-| Grupo profesional | Modalidad |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| A1 | AR | AR1 | AR2 | AR3 | A/Idiomas |
-| M3 | 1.847,40 | 1.955,28 | 3.802,20 | 3.362,40 | 2.834,64 | 893,64 |
-| M2 | 1.540,92 | 1.638,12 | 3.178,80 | 2.811,96 | 2.371,68 |
-| M1 | 1.260,72 | 983,76 | 2.244,24 | 1.944,12 | 1.584,00 |
-| E2 | 1.260,72 | 983,76 | 2.244,24 | 1.944,12 | 1.584,00 |
-| E1 | 1.033,32 |  |  |  |  |
-| E0 | 910,68 |  |  |  |  |  |
+| MJ | RCT |
+| M3 | 2.048,48 | 2.124,05 |
+| M2 | 1.719,29 | 1.755,78 |
+| M1 | 1.482,24 | 1.317,44 |
+| E2 | 1.360,09 | 1.074,83 |
+| E1 | 1.174,08 |  |
+| E0 | 1.042,39 |  |
+| G1 | 2.048,48 | 2.124,05 |
+| G2 | 1.719,29 | 1.755,78 |
+| G3 | 1.482,24 | 1.317,44 |
+| G4 | 1.360,09 | 1.074,83 |
 
 Anexo III.b).2 Cuantías anuales en euros
 
-| Grupo profesional | Modalidad |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| B | C | D1 | D2 | D3 | D4 | D5 | D6 |
-| M3 | 912,72 | 692,64 | 758,64 | 1.659,48 |  | 1.143,60 | 568,80 | 1.874,88 |
-| M2 | 1.054,32 | 492,84 | 1.624,44 |
-| M1 | 1.016,04 | 468,60 | 1.544,64 |
-| E2 | 1.016,04 | 468,60 | 1.544,64 |
-| E1 | 938,76 | 430,44 | 1.418,28 |
-| E0 | 1.442,64 | 883,92 | 401,40 | 1.323,24 |
+| E1 | E2 | E3 | E4 | E6 |
+| M3 | 898,43 |  | 1.694,75 | 675,14 | 350,00 |
+| M2 | 1.552,39 | 621,18 |
+| M1 | 1.484,50 | 582,52 |
+| E2 | 1.386,88 | 544,21 |
+| E1 | 1.613,73 | 1.336,26 | 526,52 |
+| E0 | 1.255,24 | 495,33 |
+| G1 | 898,43 |  | 1.694,75 | 675,14 | 350,00 |
+| G2 | 1.552,39 | 621,18 |
+| G3 | 1.484,50 | 582,52 |
+| G4 | 1.386,88 | 544,21 |
 
 Anexo III.b).3 Cuantías anuales en euros
 
-| Grupo profesional | Modalidad |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| D7 1 | D7 1.1 | D7 1.1 I | D7 2 | D7 2.1 | D7 2.2 | D7 2.2 I | D7 2I | D7 E | D7 H |
-| M3 | 4.529,16 | 4.575,84 | 5.269,20 | 3.645,36 | 4.087,80 | 3.844,68 | 4.290,12 | 4.075,80 | 5.115,96 | 4.383,84 |
+| E5 1 | E5 1.1 | E5 1.1 I | E5 2 | E5 2.1 | E5 2.2 | E5 2.2 I | E5 2I | E5 E | E5 H |
+| M3 | 4.928,96 | 4.979,10 | 5.723,84 | 3.979,67 | 4.454,89 | 4.193,76 | 4.672,21 | 4.442,00 | 5.559,24 | 4.772,87 |
 | M2 |
 | M1 |
 | E2 |
 | E1 |
 | E0 |
+| G1 | 4.928,96 | 4.979,10 | 5.723,84 | 3.979,67 | 4.454,89 | 4.193,76 | 4.672,21 | 4.442,00 | 5.559,24 | 4.772,87 |
+| G2 |
+| G3 |
+| G4 |
 
-Anexo III.c) Complementos por el desempeño de trabajo en horario o jornada distinta de la habitual (artículo 56.5.2 IV Convenio único)
+Anexo III.c) Complementos por el desempeño de trabajo en horario o jornada distinta de la habitual (artículo 59.5.2 IV Convenio Único)
 
-Anexo III.c).1 Complemento de nocturnidad. Cuantías anuales en euros
+Anexo III.c).1 Complemento de Nocturnidad. Cuantías anuales en euros
 
-| Grupo profesional | Modalidad |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| A | A1 | B | B1 | C | C1 |
-| M3 | 1.227,72 | 1.798,20 | 1.772,40 | 2.628,36 | 2.541,36 | 3.967,80 |
-| M2 | 1.102,56 | 1.614,72 | 1.591,68 | 2.360,28 | 2.282,28 | 3.563,16 |
-| M1 | 980,40 | 1.436,16 | 1.415,64 | 2.099,04 | 2.029,68 | 3.168,84 |
-| E2 | 980,40 | 1.436,16 | 1.415,64 | 2.099,04 | 2.029,68 | 3.168,84 |
-| E1 | 870,00 | 1.274,40 | 1.255,92 | 1.862,40 | 1.800,84 | 2.811,84 |
-| E0 | 810,48 | 1.186,80 | 1.170,00 | 1.734,72 | 1.677,36 | 2.618,76 |
+| NP | NT |
+| M3 | 1.499,89 | 2.793,86 |
+| M2 | 1.353,52 | 2.515,59 |
+| M1 | 1.242,75 | 2.303,61 |
+| E2 | 1.161,02 | 2.152,12 |
+| E1 | 1.081,56 | 1.998,47 |
+| E0 | 1.011,96 | 1.865,84 |
+| G1 | 1.499,89 | 2.793,86 |
+| G2 | 1.353,52 | 2.515,59 |
+| G3 | 1.242,75 | 2.303,61 |
+| G4 | 1.161,02 | 2.152,12 |
 
-Anexo III.c).2 Complemento de turnicidad. Cuantías anuales en euros
+Anexo III.c).2 Complemento de Turnicidad. Cuantías anuales en euros
 
-| Grupo profesional | Modalidad |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| A | A1 | B | B1 | C | C1 |
-| M3 | 2.266,56 | 3.144,24 | 1.842,96 | 2.534,88 | 1.382,28 | 2.280,84 |
-| M2 | 2.035,32 | 2.823,72 | 1.655,28 | 2.276,40 | 1.241,52 | 2.048,40 |
-| M1 | 1.810,20 | 2.511,12 | 1.472,04 | 2.024,64 | 1.104,12 | 1.821,36 |
-| E2 | 1.810,20 | 2.511,12 | 1.472,04 | 2.024,64 | 1.104,12 | 1.821,36 |
-| E1 | 1.606,08 | 2.227,92 | 1.305,96 | 1.796,28 | 979,56 | 1.616,16 |
-| E0 | 1.496,04 | 2.075,28 | 1.216,56 | 1.673,28 | 912,48 | 1.505,28 |
+| T12 | T24 |
+| M3 | 1.702,18 | 2.498,70 |
+| M2 | 1.535,38 | 2.250,33 |
+| M1 | 1.408,84 | 2.061,63 |
+| E2 | 1.316,19 | 1.926,06 |
+| E1 | 1.224,94 | 1.789,28 |
+| E0 | 1.145,46 | 1.671,08 |
+| G1 | 1.702,18 | 2.498,70 |
+| G2 | 1.535,38 | 2.250,33 |
+| G3 | 1.408,84 | 2.061,63 |
+| G4 | 1.316,19 | 1.926,06 |
 
-Anexo III.c).3 Complemento de disponibilidad horaria. Cuantías anuales en euros
+Anexo III.c).3 Complemento de Disponibilidad Horaria. Cuantías anuales en euros
 
-| Grupo profesional | Modalidad |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| A | A1 | A2 | A3 | B | B1 | B2 | B3 |
-| M3 | 1.054,20 | 1.149,84 | 1.293,48 | 1.373,40 | 2.107,56 | 2.299,20 | 2.586,60 | 2.746,32 |
-| M2 | 946,44 | 1.032,60 | 1.161,60 | 1.233,24 | 1.892,40 | 2.064,72 | 2.322,72 | 2.466,24 |
-| M1 | 841,68 | 918,36 | 1.033,08 | 1.096,68 | 1.683,12 | 1.836,12 | 2.065,80 | 2.193,24 |
-| E2 | 841,68 | 918,36 | 1.033,08 | 1.096,68 | 1.683,12 | 1.836,12 | 2.065,80 | 2.193,24 |
-| E1 | 746,76 | 814,68 | 916,44 | 973,20 | 1.493,16 | 1.629,12 | 1.832,76 | 1.945,80 |
-| E0 | 695,64 | 758,88 | 853,80 | 906,60 | 1.391,04 | 1.517,40 | 1.707,24 | 1.812,48 |
+| DH1 | DH2 |
+| M3 | 1.196,50 | 2.327,92 |
+| M2 | 1.080,76 | 2.096,82 |
+| M1 | 993,84 | 1.921,53 |
+| E2 | 928,48 | 1.795,17 |
+| E1 | 866,28 | 1.667,99 |
+| E0 | 811,38 | 1.558,30 |
+| G1 | 1.196,50 | 2.327,92 |
+| G2 | 1.080,76 | 2.096,82 |
+| G3 | 993,84 | 1.921,53 |
+| G4 | 928,48 | 1.795,17 |
 
-Anexo III.c).4 Complemento de jornada partida. Cuantías anuales en euros
+Anexo III.c).4 Complemento de Jornada Partida. Cuantías anuales en euros
 
-| Grupo profesional | Modalidad |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| Jornada partida A | Jornada partida B |
-| M3 | 1.015,32 | 2.030,28 |
-| M2 | 911,88 | 1.823,28 |
-| M1 | 811,08 | 1.621,44 |
-| E2 | 811,08 | 1.621,44 |
-| E1 | 719,52 | 1.438,56 |
-| E0 | 670,20 | 1.340,04 |
+| JP2 | JP4 |
+| M3 | 1.154,74 | 2.244,91 |
+| M2 | 1.043,64 | 2.022,57 |
+| M1 | 960,10 | 1.853,52 |
+| E2 | 896,97 | 1.731,64 |
+| E1 | 837,02 | 1.609,35 |
+| E0 | 784,05 | 1.503,53 |
+| G1 | 1.154,74 | 2.244,91 |
+| G2 | 1.043,64 | 2.022,57 |
+| G3 | 960,10 | 1.853,52 |
+| G4 | 896,97 | 1.731,64 |
 
-Anexo III.c).5 Complemento de prolongación de jornada. Cuantías anuales en euros
+Anexo III.c).5 Complemento de Prolongación de Jornada. Cuantías anuales en euros
 
-| Grupo profesional | Prolongación jornada |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| M3 | 1.393,20 |
-| M2 | 1.161,36 |
-| M1 | 952,92 |
-| E2 | 952,92 |
-| E1 | 776,04 |
-| E0 | 686,16 |
+| PRJ |
+| M3 | 1.560,62 |
+| M2 | 1.311,60 |
+| M1 | 1.136,73 |
+| E2 | 1.043,06 |
+| E1 | 897,73 |
+| E0 | 801,19 |
+| G1 | 1.560,62 |
+| G2 | 1.311,60 |
+| G3 | 1.136,73 |
+| G4 | 1.043,06 |
 
-Anexo III.c).6 Complemento de obra. Cuantías anuales en euros
+Anexo III.c).6 Realización de trabajo en domingos y festivos. Cuantías anuales en euros
 
-| Grupo profesional | Obra |
+| Grupo Profesional | Modalidad |
 | --- | --- |
-| M3 | 2.945,40 |
-| M2 | 2.691,24 |
-| M1 | 2.510,28 |
-| E2 | 2.510,28 |
-| E1 | 2.352,24 |
-| E0 | 2.267,04 |
+| FP | FT |
+| M3 | 818,96 | 1.014,65 |
+| M2 | 734,33 | 911,39 |
+| M1 | 687,40 | 827,07 |
+| E2 | 645,95 | 784,31 |
+| E1 | 595,52 | 719,09 |
+| E0 | 554,65 | 669,56 |
+| G1 | 818,96 | 1.014,65 |
+| G2 | 734,33 | 911,39 |
+| G3 | 687,40 | 827,07 |
+| G4 | 645,95 | 784,31 |
+
+Anexo III.c).7 Complemento de Obra. Cuantías anuales en euros
+
+| Grupo Profesional | Modalidad |
+| --- | --- |
+| Obra |
+| M3 | 3.227,84 |
+| M2 | 3.009,87 |
+| M1 | 2.833,47 |
+| E2 | 2.647,14 |
+| E1 | 2.590,73 |
+| E0 | 2.499,22 |
+| G1 | 3.227,84 |
+| G2 | 3.009,87 |
+| G3 | 2.833,47 |
+| G4 | 2.647,14 |
+
+> Se modifican las letras b) y c) por Acuerdo de la Comisión Negociadora publicado por Resolución de 16 de enero de 2023. Ref. BOE-A-2023-2142

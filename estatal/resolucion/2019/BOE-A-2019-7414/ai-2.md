@@ -69,13 +69,15 @@ d) Retribuciones 2019
 
 * Sin componentes de antigüedad.
 
-Los complementos salariales que corresponda percibir al personal contemplado en este anexo mantendrán las mismas cuantías vigentes en el año 2018 con las actualizaciones retributivas que correspondan conforme a los mecanismos previstos en el presente Convenio.
+Los complementos de puesto de trabajo del artículo 59.5 que corresponda percibir al personal contemplado en este anexo tendrán las cuantías fijadas en el anexo III para cada grupo profesional. El resto de complementos salariales que corresponda percibir a este personal mantendrán las mismas cuantías vigentes en el año 2018 con las actualizaciones retributivas que correspondan conforme a los mecanismos previstos en el presente convenio.
 
 e) Provisión de puestos de trabajo
 
 Las vacantes de necesaria provisión, dotadas presupuestariamente, que se generen como consecuencia de la baja de los efectivos que son objeto de clasificación en el presente anexo serán provistas a través de los procedimientos descritos en el título VII de este Convenio, aplicando los criterios y requisitos establecidos en la regulación de cada uno de ellos.
 
 La cobertura de dichas vacantes se efectuará en los términos que corresponda, según el procedimiento de provisión y movilidad de que se trate, y estará dirigida únicamente al personal laboral fijo que a la fecha de entrada en vigor esté ocupando puestos de trabajo clasificados en el referido anexo II.
+
+> Se modifica la letra d) por Acuerdo de la Comisión Negociadora publicado por Resolución de 16 de enero de 2023. Ref. BOE-A-2023-2142
 
 > Se modifica la letra a) por Acuerdo de la Comisión Negociadora publicado por Resolución de 18 de marzo de 2021. Ref. BOE-A-2021-4611
 
