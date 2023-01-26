@@ -22,29 +22,29 @@ Kb: la suma de la capacidad de carga útil (en kilogramos) de los vehículos en 
 
 1.2 Instalaciones donde se vayan a desarrollar operaciones de tratamiento, incluido el almacenamiento de residuos en espera de tratamiento.
 
-a) La cuantía de la fianza en instalaciones, tanto fijas como móviles, se determinará según la tipología del residuo y atendiendo a su peligrosidad, de acuerdo con la siguiente fórmula, con el importe mínimo que seguidamente se indica, en función de la superficie de la instalación.
+a) La cuantía de la fianza en instalaciones, tanto fijas como móviles, se determinará según la tipología del residuo, para el que exista obligación de constituir una fianza, y atendiendo a su peligrosidad, de acuerdo con la siguiente fórmula, con el importe mínimo que seguidamente se indica, en función de la superficie de la instalación.
 
 Todo tipo de residuos:
 
-Importe de la fianza (en euros) = [Qm (t) x 10 (€/t)] + [Qnp (t) x 50 (€/t)] + [Qrp (t) x 500 (€/t)] + [Qtp (t) x 10.000 (€/t)]
+Importe de la fianza (en euros) = [Qm (t) x 10 (€/t)] + [Qnp (t) x 50 (€/t)] + [Qrp (t) x 500 (€/t)]
 
 Siendo:
 
-Qm: la capacidad máxima (en toneladas) de almacenamiento de residuos metálicos no peligrosos.
+Qm: La capacidad máxima (en toneladas) de almacenamiento de residuos metálicos no peligrosos.
 
-Qnp: la capacidad máxima (en toneladas) de almacenamiento de residuos no peligrosos y no metálicos.
+Qnp: La capacidad máxima (en toneladas) de almacenamiento de residuos no peligrosos y no metálicos.
 
-Qrp: la capacidad máxima (en toneladas) de almacenamiento de residuos peligrosos.
+Qrp: La capacidad máxima (en toneladas) de almacenamiento de residuos peligrosos.
 
-Qtp: la capacidad máxima (en toneladas/día) de tratamiento de residuos peligrosos.
+Los importes mínimos (*), serán los siguientes:
 
-Los importes mínimos, serán los siguientes:
-
-| Superficie total de la instalación | Residuos peligrosos – Euros | Residuos no peligrosos – Euros |
+| Superficie total de la instalación | Residuos peligrosos | Residuos no peligrosos |
 | --- | --- | --- |
-| Menor de 200 m2. | 15.000 | 7.000 |
-| Mayor o igual a 200 m2 y menor de 500 m2. | 25.000 | 15.000 |
-| Mayor o igual a 500 m2. | 45.000 | 20.000 |
+| Menor de 200 m2. | 15.000 € | 3.500 € |
+| Mayor o igual a 200 m2 y menor de 500 m2. | 25.000 € | 7.500 € |
+| Mayor o igual a 500 m2. | 45.000 € | 10.000 € |
+
+(*) En el caso de que, para una misma instalación, el sujeto estuviera obligado a la constitución de una fianza para residuos peligrosos y para residuos no peligrosos, la fianza será única y el importe mínimo a aplicar a la instalación será el correspondiente a los residuos peligrosos.
 
 b) Para el caso de los puntos limpios municipales, que no estuvieran exentos de la constitución de garantías financieras, en virtud de lo señalado en el artículo 2.2, así como para otras instalaciones de almacenamiento para las que se establezca la obligación de su constitución: 20.000 €.
 
@@ -56,7 +56,7 @@ Donde:
 
 F = Fianza en euros.
 
-C = Capacidad máxima de almacenamiento de residuos de la instalación (en toneladas).
+C = Capacidad anual de gestión de residuos de la instalación (en toneladas).
 
 1.3 Gestores de vehículos al final de su vida útil.
 
@@ -163,3 +163,5 @@ El montante mínimo de la suma garantizada por el seguro de responsabilidad civi
 – Gestores de residuos peligrosos y gestores de vehículos al final de su vida útil, con instalaciones de superficie menor o igual a 5.000m2 o capacidad de almacenamiento menor o igual a 200t: 600.000 €.
 
 – Gestores de residuos peligrosos y gestores de vehículos al final de su vida útil, con instalaciones de superficie mayor a 5.000m2 o capacidad de almacenamiento mayor a 200t: 1.000.000 €.
+
+> Se modifican las letras a) y c) del apartado 1.2 por el art. 3.2 y 3 del Real Decreto 34/2023, de 24 de enero. Ref. BOE-A-2023-2026
