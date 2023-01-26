@@ -1,1 +1,1 @@
-Norma derogada, con efectos de 27 de octubre de 2022, por la disposición derogatoria única del Real Decreto 905/2022, de 25 de octubre. Ref. BOE-A-2022-17475#dd
+Norma derogada, con efectos de 27 de octubre de 2022, por la disposición derogatoria única del Real Decreto 905/2022, de 25 de octubre. Ref. BOE-A-2022-17475#dd, sin perjuicio de la sección 5.ª relativa a la Cosecha en verde, que seguirá en vigor hasta el 15 de octubre de 2023, según establece la disposición final 1 del Real Decreto 32/2023, de 24 de enero. Ref. BOE-A-2023-2024

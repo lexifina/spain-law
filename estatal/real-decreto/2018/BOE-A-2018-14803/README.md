@@ -56,6 +56,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 34](a3-6.md)
 - [Artículo 35](a3-7.md)
 - [Artículo 36](a3-8.md)
+- [Artículo 37](a3-9.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
 - [Disposición transitoria única](dt.md)

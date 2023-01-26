@@ -1,34 +1,5 @@
 ## ANEXO XIII
 
-## Autorizaciones concedidas de conversión de derechos de plantación concedidos antes del 31 de diciembre de 2015
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/21/2024_12700784_1.png)
 
-| Comunidad Autónoma: |  |
-| --- | --- |
-| Fecha de comunicación: |  |
-| Campaña vitícola: |  |
-| Provincia | Número de hectáreas efectivamente concedidas situadas en superficies admisibles a la producción de***: |
-| Vino con DOP* | Vino con IGP** | Vino sin DOP/IGP | Total |
-| (1) | (2) | (3) | (4) | (5) |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| Provincia origen de la autorización (a) | Vino con DOP* | Vino con IGP** | Vino sin DOP/IGP | Total |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| TOTAL |  |  |  |  |
-| Código DOP(b) | Vino con Denominación de Origen Protegida (DOP) |
-|  |  |
-|  |  |
-| TOTAL |  |
-
-* Estas superficies también pueden ser admisibles para la producción de vino con IGP o vino sin IG; ninguna de las superficies comunicadas en la columna (2) debe ser incluida en la columna (3).
-
-** Estas superficies también pueden ser admisibles para la producción de vino sin IG pero no de vino DOP; ninguna de las superficies comunicadas en la columna (3) debe ser incluida en la columna (4).
-
-*** Datos referidos a la campaña vitícola anterior a la comunicación.
-
-(a) Se indicará la provincia de origen de la autorización cuando los derechos de replantación o arranques que originaron la misma provengan de otra comunidad autónoma, detallando la superficie concedida a partir de los mismos (vino con DOP, vino con IGP, vino sin DOP/IGP).
-
-(b) Se indicará el nombre de la DOP, identificada por su código, y el número de hectáreas del total recogido en la columna (2) que se localizan en la zona geográfica de esa DOP.
-
-Fecha límite de la comunicación: 1 octubre.
+> Se modifica por el art. único.24 del Real Decreto 32/2023, de 24 de enero. Ref. BOE-A-2023-2024
