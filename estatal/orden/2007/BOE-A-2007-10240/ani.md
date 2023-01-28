@@ -87,8 +87,8 @@
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 % |
 | Ucrania |
-| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 % |
-| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 % |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 100 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 100 % |
 | República Centroafricana |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80% de la dieta, de resto del mundo según R.D. 462/2002, de 24 de mayo. | 80 % |
@@ -116,6 +116,8 @@
 | Guinea Conakry |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales | 80 % | 80 % de la dieta, según R.D. 462/2002. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según R.D. 462/2002. | 80 % |
+
+> Se modifica la misión de Ucrania por el art. único.2 de la Orden INT/62/2023, de 25 de enero. Ref. BOE-A-2023-2158
 
 > Se modifica por el art. único.2 de la Orden INT/300/2019, de 11 de marzo. Ref. BOE-A-2019-3859
 
