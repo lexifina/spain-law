@@ -1,0 +1,1 @@
+Téngase en cuenta que, con fecha 30 de enero de 2024, se ha publicado la Orden PJC/51/2024, de 29 de enero, por la que se desarrollan las normas legales de cotización a la Seguridad Social, desempleo, protección por cese de actividad, Fondo de Garantía Salarial y formación profesional para el ejercicio 2024, con efectos desde el día 1 de enero de 2024. Ref. BOE-A-2024-1691
