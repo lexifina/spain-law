@@ -67,12 +67,20 @@
 | 770 | AUTOLIQUIDACIÓN DE INTERESES DE DEMORA Y RECARGOS PARA LA REGULARIZACIÓN VOLUNTARIA PREVISTA EN EL ARTÍCULO 252 DE LA LEY GENERAL TRIBUTARIA | 0A |
 | 771 | AUTOLIQUIDACIÓN DE CUOTAS DE CONCEPTOS Y EJERCICIOS SIN MODELO DISPONIBLE EN LA SEDE ELECTRÓNICA DE LA AEAT PARA LA REGULARIZACIÓN VOLUNTARIA PREVISTA EN EL ARTÍCULO 252 DE LA LEY GENERAL TRIBUTARIA | 0A |
 | 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
+| 795 | GRAVAMEN TEMPORAL ENERGÉTICO. DECLARACIÓN DEL INGRESO DE LA PRESTACIÓN. | 0A |
+| 796 | GRAVAMEN TEMPORAL ENERGÉTICO. PAGO ANTICIPADO. | 0A |
+| 797 | GRAVAMEN TEMPORAL DE ENTIDADES DE CRÉDITO Y ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO. DECLARACIÓN DEL INGRESO DE LA PRESTACIÓN. | 0A |
+| 798 | GRAVAMEN TEMPORAL DE ENTIDADES DE CRÉDITO Y ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO. PAGO ANTICIPADO. | 0A |
 
 (1) Sólo en algunas Comunidades.
 
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añaden los modelos 795, 796, 797 y 798 por la disposición final 1 de la Orden HFP/94/2023, de 2 de febrero. Ref. BOE-A-2023-2832
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio 2023, según establece la disposición final 4 de la citada Orden.
 
 > Se añade el modelo 237, con efectos para los períodos impositivos iniciados a partir del 1 de enero de 2021, por la disposición final 2 de la Orden HFP/1430/2021, de 20 de diciembre. Ref. BOE-A-2021-21217#df-2
 

@@ -50,10 +50,18 @@
 | 593 | Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos. Autoliquidación. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
+| 795 | Gravamen temporal energético. Declaración del ingreso de la prestación. |
+| 796 | Gravamen temporal energético. Pago anticipado. |
+| 797 | Gravamen temporal de entidades de crédito y establecimientos financieros de crédito. Declaración del ingreso de la prestación. |
+| 798 | Gravamen temporal de entidades de crédito y establecimientos financieros de crédito. Pago anticipado. |
 
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+> Se añaden los modelos 795 a 798 por la disposición final 2.1 de la Orden HFP/94/2023, de 2 de febrero. Ref. BOE-A-2023-2832
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio de 2023, según establece la disposición final 4 de la citada Orden.
 
 > Se añaden los modelos 592 y 593 por las disposiciones finales 3.1 de las Òrdenes; HFP/1314/2022, de 28 de diciembre. Ref. BOE-A-2022-23749 y HFP/1337/2022, de 28 de diciembre. Ref. BOE-A-2022-24387
 
