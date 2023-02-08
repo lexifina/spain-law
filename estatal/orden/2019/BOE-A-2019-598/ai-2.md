@@ -14,8 +14,10 @@ Secretarías Generales
 
 | Cuantía | Competencia propia | Quién firma | Causa |
 | --- | --- | --- | --- |
-| > 4,5 M | Ministro. | Ministro. | Artículo 61 i) Ley 40/2015. |
-| > 2 M y ≤ 4,5 M | Ministro. | Secretario General. | Por delegación Capítulo II y anexo I. |
+| > 5 M | Ministro. | Ministro. | Artículo 61 i) Ley 40/2015. |
+| > 2 M y ≤ 5 M | Ministro. | Secretario General. | Por delegación Capítulo II y anexo I. |
 | ≤ 2 M | Ministro. | DG. | Por delegación Capítulo II y anexo I. |
 
 (M = millones de euros).
+
+> Se modifica el apartado de Secretarías Generales por el apartado primero.12 de la Orden APA/102/2023, de 30 de enero. Ref. BOE-A-2023-3275
