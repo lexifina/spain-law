@@ -4,4 +4,6 @@
 
 2. Previo acuerdo con el Centro de Sistemas y Tecnologías de la Información y las Comunicaciones, la Dirección General de Protección Civil y Emergencias del Ministerio del Interior podrá hacer uso, en situaciones de emergencia, de las redes dirigidas y gestionadas por el citado centro.
 
-3. Las redes y sistemas de información y telecomunicaciones del Centro Nacional de Inteligencia, de conformidad con su régimen jurídico, mantendrán su propia dirección y gestión, no siendo de aplicación lo previsto en el artículo 4.4.
+3. Las redes y sistemas de información y telecomunicaciones del Centro Nacional de Inteligencia, de conformidad con su régimen jurídico, mantendrán su propia dirección y gestión, no siendo de aplicación lo previsto en el artículo 7 bis.
+
+> Se modifica el apartado 3 por el art. 2.4 del Real Decreto 63/2023, de 8 de febrero. Ref. BOE-A-2023-3342

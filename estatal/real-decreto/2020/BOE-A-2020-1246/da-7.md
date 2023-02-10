@@ -52,6 +52,8 @@ w) La Dirección General de Derechos de las Personas con Discapacidad.
 
 x) Dirección General de Gestión del Sistema de Acogida de Protección Internacional y Temporal.
 
+y) La Dirección General de Política de Defensa.
+
 2. De conformidad con lo previsto en el segundo párrafo del artículo 100.1 en relación con el artículo 66.2 de la Ley 40/2015, de 1 de octubre, no será preciso que las personas titulares de los máximos órganos de dirección de los organismos autónomos y entidad gestora de la Seguridad Social que se relacionan a continuación, ostenten la condición de funcionario, en atención a sus características específicas:
 
 a) Dirección General del Instituto de Turismo de España (TURESPAÑA) (O.A.).
@@ -69,6 +71,8 @@ f) Dirección General del Instituto para la Transición Justa.
 g) Dirección General de Deportes del Consejo Superior de Deportes.
 
 h) Dirección del Centro Universitario de Formación de la Policía Nacional, O.A.
+
+> Se añade la letra y) al apartado 1 por el art. 1.2 del Real Decreto 63/2023, de 8 de febrero. Ref. BOE-A-2023-3342
 
 > Se añade la letra h) al apartado 2 por la disposición final 2 del Real Decreto 666/2022, de 1 de agosto. Ref. BOE-A-2022-12930#df-2
 
