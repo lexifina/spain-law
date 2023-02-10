@@ -1,0 +1,13 @@
+## Disposición transitoria primera. Régimen transitorio aplicable a los profesionales de la abogacía y de la procura a la entrada en vigor de la exigencia del nuevo título profesional regulado en la Ley 34/2006, de 30 de octubre.
+
+1. De conformidad con lo dispuesto en el apartado 1 de la disposición transitoria primera de la ley 15/2021, de 23 de octubre, los abogados ya incorporados a un colegio de abogados o en condiciones de incorporarse por cumplir todas las condiciones necesarias para ello, podrán ejercer como procuradores en los términos establecidos en el artículo 1 de la Ley 34/2006, de 30 de octubre.
+
+2. De conformidad con lo dispuesto en el apartado 2 de la disposición transitoria primera de la ley 15/2021, de 23 de octubre, por la que se modifica la Ley 34/2006, de 30 de octubre, sobre el acceso a las profesiones de Abogado y Procurador de los Tribunales, así como la Ley 2/2007, de 15 de marzo, de sociedades profesionales, el Real Decreto-ley 5/2010, de 31 de marzo, por el que se amplía la vigencia de determinadas medidas económicas de carácter temporal, y la Ley 9/2014, de 9 de mayo, General de Telecomunicaciones, quienes, a la fecha de entrada en vigor de la exigencia del nuevo título habilitante para el ejercicio de la abogacía y de la procura regulado en la Ley 34/2006, de 30 de octubre, hubiesen obtenido el título de procurador de los tribunales, estén en posesión de una Licenciatura o Grado en Derecho y estuvieran incorporados a un colegio de procuradores o en condiciones de incorporarse por cumplir todas las condiciones necesarias para ello, podrán ejercer como profesionales de la abogacía, en los términos establecidos en el artículo 1 de dicha ley siempre que cumplan los siguientes requisitos:
+
+a) Superación del curso de capacitación profesional a que se refiere el artículo 3 de la Ley 34/2006, de 30 de octubre, sin perjuicio de que se reconozcan y convaliden los créditos que se corresponden con la adquisición de competencias específicas de la procura y con las prácticas externas.
+
+b) Superación de la prueba de evaluación de la aptitud profesional que tiene por objeto acreditar, de modo objetivo, formación suficiente para el acceso al ejercicio profesional de la abogacía.
+
+3. El curso y la prueba de evaluación referidos en el apartado anterior deberán superarse dentro de los dos años académicos siguientes a la fecha de entrada en vigor del presente real decreto.
+
+4. La prueba de evaluación referida en el apartado 2.b) se desarrollará en los mismos términos y condiciones previstos en el artículo 7 de la Ley 34/2006, de 30 de octubre, y en su reglamento de desarrollo.
