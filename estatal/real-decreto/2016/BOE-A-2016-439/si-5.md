@@ -1,1 +1,0 @@
-## Sección III. Zonas Protegidas
