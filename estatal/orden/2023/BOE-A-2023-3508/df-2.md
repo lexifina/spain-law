@@ -1,0 +1,5 @@
+## Disposición final segunda. Entrada en vigor.
+
+La presente orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado» y será de aplicación a los tributos sin período impositivo devengados a partir de su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento.
+
+No obstante, para los países o territorios incluidos en la lista del artículo único que no estuvieran previstos en el Real Decreto 1080/1991, de 5 de julio, por el que se determinan los países o territorios a que se refieren los artículos 2.º, apartado 3, número 4, de la Ley 17/1991, de 27 de mayo, de Medidas Fiscales Urgentes, y 62 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, la orden entrará en vigor a los seis meses desde el día siguiente a su publicación en el «Boletín Oficial del Estado» y será de aplicación a los tributos sin período impositivo devengados a partir de su entrada en vigor, y a los demás tributos cuyo período impositivo se inicie desde ese momento.
