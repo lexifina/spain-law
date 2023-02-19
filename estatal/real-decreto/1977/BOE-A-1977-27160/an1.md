@@ -45,6 +45,8 @@
 | 38 |  | 2-(4-bromo-2,5-dimetoxifenilo)-n-[(2-metoxifenil)metil]etanamina (25B-NBOMe, 2C-B-NBOMe) |
 | 39 |  | 2-(4-cloro-2,5-dimetoxifenilo)-n-[(2-metoxifenilo) metil]etanamina (25C-NBOMe, 2C-C-NBOMe) |
 | 40 | DOC | (2,5-dimetoxi-4-cloroanfetamina, 4-cloro-2,5-DMA) (1-(4-cloro-2,5-dimetoxifenil)propan-2-amina) |
+| 41 |  | 2-(metilamino)-1-(3-metilfenil)propan-1-ona (3-metilmetcatinona, 3-MMC) |
+| 42 |  | 1-(3-clorofenil)-2-(metilamino)propan-1-ona (3-clorometcatinona, 3-CMC) |
 | Sustancias de la lista II |
 | 1 AMINEPTINA |  | Ácido 7-[10,11-dihidro-5H-dibenzo[a,d]ciclohepten-5-il)amino]heptanoico |
 | 2 ANFETAMINA |  | (±)-α-metilfenetilamina |
@@ -103,6 +105,7 @@
 | 55 4F-MDMB-BICA |  | (metilo 2-{[1-4-fluorobutil)-1H-indol3- carbonil]amino}-3,3-dimetilbutanoato) |
 | 56 3-metoxifenciclidina |  | (1-(1-(3-metoxifenil)ciclohexil)piperidina) |
 | 57 difenidina |  | (1-(1,2-difeniletil)piperidina) |
+| 58 eutilona |  |  |
 | Sustancias de la lista III |
 | 1 AMOBARBITAL |  | Ácido 5-etil-5-isopentilbarbitúrico |
 | 2 BUPRENORFINA |  | 2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina |
@@ -183,108 +186,112 @@
 | 67 DICLAZEPAM |  | (7-cloro-5-(2-clorofenil)-1-metil-1,3-dihidro-2H-benzo[e][1,4]diazepin2ona) |
 | 68 FLUBROMAZOLAM |  | (8-bromo-6-(2-fluorofenil)-1-metil-4H-enzo[f][1,2,4]triazolo[4,3- a][1,4]diazepina) |
 
-> Véase el art. único de la Orden SND/1248/2021, de 5 de noviembre, en relación a la inclusión de nuevas sustancias en las listas II y IV. Ref. BOE-A-2021-18707
+> Se añaden dos sustancias en la lista I y una sustancia en la lista II por el art. único de la Orden SND/136/2023, de 17 de febrero de 2023. Ref. BOE-A-2023-4325
+
+> Téngase en cuenta para su aplicación la disposición adicional única de la citada Orden.
+
+> Se añaden nuevas sustancias en las listas II y IV por el art. único de la Orden SND/1248/2021, de 5 de noviembre. Ref. BOE-A-2021-18707
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véase el art. único de la Orden SND/473/2021, de 11 de mayo, en relación a la inclusión de nuevas sustancias en las listas I, II y IV. Ref. BOE-A-2021-8188
+> Se añaden nuevas sustancias en las listas I, II y IV por el art. único de la Orden SND/473/2021, de 11 de mayo. Ref. BOE-A-2021-8188
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véase el art. único de la Orden SCB/1079/2019, de 29 de octubre. Ref. BOE-A-2019-15727, en relación a la inclusión de cinco nuevas sustancias en la lista II.
+> Se añaden cinco nuevas sustancias en la lista II por el art. único de la Orden SCB/1079/2019, de 29 de octubre. Ref. BOE-A-2019-15727
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véase el art. único de la Orden SCB/387/2019, de 25 de marzo. Ref. BOE-A-2019-4952, en relación a la inclusión de seis nuevas sustancias en la lista II.
+> Se añaden seis nuevas sustancias en la lista II por el art. único de la Orden SCB/387/2019, de 25 de marzo. Ref. BOE-A-2019-4952
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véase el art. único de la Orden SCB/770/2018, de 12 de julio. Ref. BOE-A-2018-10185, en relación a la inclusión de ocho nuevas sustancias en la lista II.
+> Se añaden ocho nuevas sustancias en la lista II por el art. único de la Orden SCB/770/2018, de 12 de julio. Ref. BOE-A-2018-10185
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véanse los arts. 1 y 2 de la Orden SSI/1070/2017, de 31 de octubre. Ref. BOE-A-2017-12842, en relación a la inclusión de sustancias en las listas II y IV.
+> Se añaden sustancias en las listas II y IV por los arts. 1 y 2 de la Orden SSI/1070/2017, de 31 de octubre. Ref. BOE-A-2017-12842
 
-> Véanse los arts. 1 a 3 de la Orden SSI/748/2016, de 11 de mayo Ref. BOE-A-2016-4737. en relación a la inclusión de sustancias en las listas I y II y la transferencia de una sustancia de la lista IV a la lista II.
-
-> Téngase en cuenta para su aplicación la disposición adicional única.
-
-> Véanse los arts. 1 y 2 de la Orden SSI/1091/2015, de 2 de junio Ref. BOE-A-2015-6496. en relación a la inclusión de sustancias en las listas I y II.
+> Se añaden sustancias en las listas I y II y se transfiere una sustancia de la lista IV a la lista II por los arts. 1 a 3 de la Orden SSI/748/2016, de 11 de mayo Ref. BOE-A-2016-4737
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véase el art. 1 de la Orden SSI/1478/2014, de 1 de agosto Ref. BOE-A-2014-8521, en relación a la inclusión de sustancias en la lista I.
+> Se añaden sustancias en las listas I y II por los arts. 1 y 2 de la Orden SSI/1091/2015, de 2 de junio Ref. BOE-A-2015-6496
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véanse los arts. 1 y 2 de la Orden SSI/806/2014, de 8 de mayo Ref. BOE-A-2014-5265, en relación a la inclusión de sustancias en la lista I y a la transferencia de determinadas sustancias de la lista IV a la lista II.
+> Se añaden sustancias en la lista I por el art. 1 de la Orden SSI/1478/2014, de 1 de agosto Ref. BOE-A-2014-8521
 
 > Téngase en cuenta para su aplicación la disposición adicional única.
 
-> Véase el art. 1 de la Orden SPI/201/2011, de 3 de febrero Ref. BOE-A-2011-2490, en relación a la inclusión de sustancias en la lista I.
+> Se añaden sustancias en la lista I y se transfieren determinadas sustancias de la lista IV a la lista II, por los arts. 1 y 2 de la Orden SSI/806/2014, de 8 de mayo Ref. BOE-A-2014-5265
+
+> Téngase en cuenta para su aplicación la disposición adicional única.
+
+> Se añaden sustancias en la lista I por el art. 1 de la Orden SPI/201/2011, de 3 de febrero Ref. BOE-A-2011-2490
 
 > Téngase en cuenta para su aplicación el art. 2.
 
-> Véase el art. 1 de la Orden SAS/2712/2010, de 13 de octubre Ref. BOE-A-2010-16025, en relación a la inclusión de sustancias en la lista IV.
+> Se añaden sustancias en la lista IV por el art. 1 de la Orden SAS/2712/2010, de 13 de octubre Ref. BOE-A-2010-16025
 
 > Téngase en cuenta para su aplicación el art. 2.
 
-> Véase el art. 1 de la Orden SAS/1916/2009, de 8 de julio Ref. BOE-A-2009-11877, en relación a la inclusión de sustancias en la lista IV.
+> Se añaden sustancias en la lista IV por el art. 1 de la Orden SAS/1916/2009, de 8 de julio Ref. BOE-A-2009-11877
 
 > Téngase en cuenta para su aplicación el art. 2.
 
-> Véase el art. único de la Orden SCO/2004/2006, de 19 de junio, por el que se modifica el apartado 2 de la Orden SCO/469/2002, de 19 de febrero, en relación a la inclusión de sustancias en la lista IV. Ref. BOE-A-2006-11291.
+> Se añaden sustancias en la lista IV por el art. único de la Orden SCO/2004/2006, de 19 de junio, por el que se modifica el apartado 2 de la Orden SCO/469/2002, de 19 de febrero. Ref. BOE-A-2006-11291.
 
-> Véase el apartado 1 de la Orden SCO/2359/2004, de 2 de julio Ref. BOE-A-2004-13290, en relación a la inclusión de sustancias en la lista I.
+> Se añaden sustancias en la lista I por el apartado 1 de la Orden SCO/2359/2004, de 2 de julio Ref. BOE-A-2004-13290
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3.
 
-> Véase el apartado 1 de la Orden SCO/3685/2003, de 22 de diciembre Ref. BOE-A-2004-52, en relación a la inclusión de sustancias en la lista II.
+> Se añaden sustancias en la lista II por el apartado 1 de la Orden SCO/3685/2003, de 22 de diciembre Ref. BOE-A-2004-52
 
 > Téngase en cuenta para su aplicación el apartado 2.
 
-> Véase el apartado 1 de la Orden SCO/1906/2002, de 15 de julio Ref. BOE-A-2002-15093, en relación a la inclusión de sustancias en la lista I.
+> Se añaden sustancias en la lista I por el apartado 1 de la Orden SCO/1906/2002, de 15 de julio Ref. BOE-A-2002-15093
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3.
 
-> Véanse los apartados 1 a 3 de la Orden SCO/469/2002, de 19 de febrero Ref. BOE-A-2002-4457, en la redacción dada por la Orden SCO/2004/2006, de 19 de junio Ref. BOE-A-2006-11291, en relación a la inclusión de sustancias en las listas II y IV.
+> Se añaden sustancias en las listas II y IV por los apartados 1 a 3 de la Orden SCO/469/2002, de 19 de febrero Ref. BOE-A-2002-4457, en la redacción dada por la Orden SCO/2004/2006, de 19 de junio Ref. BOE-A-2006-11291
 
 > Téngase en cuenta para su aplicación los apartados 4 y 5.
 
-> Véase el apartado 1 de la Orden de 31 de enero de 2000 Ref. BOE-A-2000-2553, en relación a la inclusión de sustancia en la lista I.
+> Se añaden sustancias en la lista I por el apartado 1 de la Orden de 31 de enero de 2000 Ref. BOE-A-2000-2553
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3.
 
-> Véanse los apartados 1, 2 y 3 de la Orden de 27 de diciembre de 1995 Ref. BOE-A-1996-1865, en relación a la inclusión de sustancias en las listas I, II y IV, y a la transferencia de sustancias de la lista IV a la lista III.
+> Se añaden sustancias en las listas I, II y IV y se transfieren sustancias de la lista IV a la lista III por los apartados 1, 2 y 3 de la Orden de 27 de diciembre de 1995 Ref. BOE-A-1996-1865
 
 > Téngase en cuenta para su aplicación los apartados 5 y 6.
 
-> Véase el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6246, en relación a la exclusión de sustancias de la lista I, y el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6247, en relación con la transferencia de determinadas sustancias de la lista I a la lista II.
+> Se excluyen sustancias de la lista I por el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6246, y se transfieren determinadas sustancias de la lista I a la lista II, por el apartado 1 de la Orden de 27 de febrero de 1992 Ref. BOE-A-1992-6247
 
 > Téngase en cuenta para su aplicación los apartados 2 y 3 de ambas Órdenes.
 
-> Véanse los apartados 1.1 y 2 de la Orden de 19 de octubre de 1990 Ref. BOE-A-1990-26177, en relación a la inclusión de sustancias en las listas I y IV.
+> Se añaden sustancias en las listas I y IV por los apartados 1.1 y 2 de la Orden de 19 de octubre de 1990 Ref. BOE-A-1990-26177
 
 > Téngase en cuenta para su aplicación los apartados 1.2, 3, 4 y 5.
 
-> Véase el apartado 1 de la Orden de 20 de diciembre de 1988 Ref. BOE-A-1989-543, en relación a la inclusión de sustancias en la lista II, y el art. 1 de la Orden de 28 de septiembre de 1989 Ref. BOE-A-1989-23803, en relación a la inclusión de sustancias en la lista III.
+> Se añaden sustancias en la lista II por el apartado 1 de la Orden de 20 de diciembre de 1988 Ref. BOE-A-1989-543, y se añaden sustancias en la lista III por el art. 1 de la Orden de 28 de septiembre de 1989 Ref. BOE-A-1989-23803
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4 de la Orden de 20 de diciembre y arts. 2 a 4 de la Orden de 28 de septiembre de 1989.
 
-> Véanse los apartados 1 y 2 de la Orden de 6 de octubre de 1987 Ref. BOE-A-1987-24340, en relación a la inclusión de sustancias en las listas III y IV.
+> Se añaden sustancias en las listas III y IV por los apartados 1 y 2 de la Orden de 6 de octubre de 1987 Ref. BOE-A-1987-24340
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4.
 
-> Véanse los apartados 1 a 3 de la Orden de 30 de mayo de 1986 Ref. BOE-A-1986-14543, en relación a la inclusión de sustancias en las listas I, II, III y IV.
+> Se añaden sustancias en las listas I, II, III y IV por los apartados 1 a 3 de la Orden de 30 de mayo de 1986 Ref. BOE-A-1986-14543
 
 > Téngase en cuenta para su aplicación los apartados 4 a 6.
 
-> Véase el apartado 1 de la Orden de 12 de julio de 1985 Ref. BOE-A-1985-15521, en relación a la inclusión de sustancias en la lista I.
+> Se añaden sustancias en la lista I por el apartado 1 de la Orden de 12 de julio de 1985 Ref. BOE-A-1985-15521
 
-> Véanse los apartados 1 de las Órdenes de 30 de mayo de 1984 Ref. BOE-A-1984-12894 y Ref. BOE-A-1984-12895, en relación a la inclusión de sustancias en las listas III y IV.
+> Se añaden sustancias en las listas III y IV por los apartados 1 de las Órdenes de 30 de mayo de 1984 Ref. BOE-A-1984-12894 y Ref. BOE-A-1984-12895
 
 > Téngase en cuenta para su aplicación los apartados 2 a 4.
 
-> Véanse los apartados 1 de las Órdenes de 22 de julio de 1983 Ref. BOE-A-1983-21199. , Ref. BOE-A-1983-21200. y Ref. BOE-A-1983-21201.
+> Se modifica por los apartados 1 de las Órdenes de 22 de julio de 1983 Ref. BOE-A-1983-21199. , Ref. BOE-A-1983-21200. y Ref. BOE-A-1983-21201.
 
 > Ténganse en cuenta para su aplicación el apartado 2.
