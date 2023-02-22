@@ -8,4 +8,8 @@ b) A los periodistas españoles acreditados individual y específicamente por el
 
 c) Los españoles que, integrados en un programa o acción desarrollada por organizaciones internacionales u organismos de seguridad regional, sean autorizados individual y específicamente por el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación para desplazarse y participar en el ámbito de las operaciones a que se refiere el artículo 1.
 
+d) A las personas cooperantes españolas que tengan esta condición, de acuerdo con el estatuto de las personas cooperantes, y que hayan sido acreditadas individual y específicamente por el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación para el desarrollo de su actividad profesional en el ámbito de las operaciones a que se refiere el artículo 1.
+
+> Se añade la letra d) por la disposición final 2 de la Ley 1/2023, de 20 de febrero. Ref. BOE-A-2023-4512#df-2
+
 > Se añade la letra c) por la disposición final 7 del Real Decreto-ley 3/2022, de 1 de marzo. Ref. BOE-A-2022-3290#df-7

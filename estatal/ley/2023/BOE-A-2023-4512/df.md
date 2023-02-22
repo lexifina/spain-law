@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Esta ley se dicta en cumplimiento del principio proclamado en el preámbulo de la Constitución Española de colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooperación entre todos los pueblos de la Tierra y al amparo de lo establecido en el artículo 149.1.3.ª de la Constitución Española, que atribuye al Estado la competencia en materia de relaciones internacionales, y sin perjuicio de la capacidad de actuación reconocida a las Comunidades Autónomas en el ámbito de la cooperación para el desarrollo sostenible, en virtud del ordenamiento jurídico español.
