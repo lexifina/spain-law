@@ -4,8 +4,10 @@
 
 a) Títulos: Estar en posesión de la titulación universitaria requerida para cada cuerpo conforme a lo indicado en el artículo 16 del reglamento que se aprueba.
 
-b) Límites de edad: No cumplir ni haber cumplido en el año que se publique la correspondiente convocatoria la edad máxima de cuarenta años.
+b) (Suprimida)
 
 c) Los sistemas de selección y el resto de condiciones para el acceso son las que se determinan en el reglamento que se aprueba.
 
 2. En la provisión anual se reservarán plazas específicas para personal militar de complemento que posea las titulaciones requeridas, para el ingreso en los centros docentes militares de formación para el acceso a las diferentes escalas de oficiales de los Cuerpos Comunes de las Fuerzas Armadas y de los Cuerpos de Intendencia e Ingenieros de los Ejércitos.
+
+> Se suprime la letra b) del apartado 1 por el art. 1 del Real Decreto 113/2023, de 21 de febrero. Ref. BOE-A-2023-4648
