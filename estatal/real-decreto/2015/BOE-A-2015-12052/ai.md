@@ -34,9 +34,9 @@ No serán susceptibles de apoyo la maquinaria y equipos de segunda mano existent
 
 13. Las edificaciones destinadas a vivienda.
 
-14. Vehículos, de manera específica no serán subvencionables las sustituciones. Sin embargo sí serán subvencionables:
+14. Vehículos, de manera específica no serán subvencionables las sustituciones. Sin embargo, sí serán subvencionables:
 
-Vehículos o aparatos de los de transporte interno en las instalaciones.
+Vehículos o aparatos, nuevos, de los de transporte interno en las instalaciones.
 
 Vehículos de nueva adquisición (flota) destinados al transporte de productos agroalimentarios objeto de transformación y/o comercialización, por parte de la empresa solicitante.
 
@@ -68,9 +68,13 @@ b) Evaluación ambiental.
 
 26. No tendrán la consideración de gastos subvencionables los impuestos, las tasas, las contribuciones, a excepción de lo establecido en los puntos 12 y 24.a) de este anexo.
 
-27. Inversiones relacionadas con medidas de seguridad tales como alarmas, sistemas antirrobo, barreras de seguridad y similares.
+27. Inversiones relacionadas con medidas de seguridad tales como alarmas, sistemas antirrobo, barreras de seguridad y similares, así como elementos de ciberseguridad.
 
 28. Inversiones relativas exclusivamente a la promoción y publicidad, salvo las previsiones de publicidad mencionadas en los artículos 8.1.d) y 23.
+
+29. Sistemas antincendios, o modificación de instalaciones por motivos de seguridad laboral, salvo cuando se encuentren asociados a instalaciones de nueva construcción o ampliación de instalaciones existentes.
+
+> Se modifican los apartados 14 y 27 y se añade el 29, por el art. único.12 del Real Decreto 116/2023, de 21 de febrero. Ref. BOE-A-2023-4651
 
 > Se modifican los apartados 11, 16 y 28 por el art. 2.13 del Real Decreto 1056/2021, de 30 de noviembre de 2021. Ref. BOE-A-2021-19800
 
