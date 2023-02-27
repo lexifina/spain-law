@@ -1,0 +1,25 @@
+## V. Colaboración entre la Agencia Tributaria y las Administraciones tributarias de las Comunidades Autónomas
+
+En cuanto a las Comunidades Autónomas de Régimen Común y Ciudades con Estatuto de Autonomía (en adelante, Comunidades Autónomas), la colaboración entre la Agencia Tributaria y las anteriores resulta esencial para el adecuado control de los tributos cedidos, sean gestionados por la Agencia Tributaria o por las Comunidades Autónomas por delegación del Estado.
+
+Así, continuarán los intercambios de información sobre los datos censales más relevantes de los obligados tributarios a través del Censo Único Compartido, base de datos consolidada de información censal obtenida por las Administraciones tributarias autonómicas y estatal.
+
+En 2023, continuará el suministro por las Comunidades Autónomas a la Agencia Tributaria de la información de las familias numerosas y de los grados de discapacidad.
+
+Asimismo, continuará el suministro por parte de las CCAA a la Agencia Tributaria de información sobre fianzas derivadas del arrendamiento de inmuebles a que se refiere el artículo 36 de la Ley de Arrendamiento Urbanos (LAU). Continuará también el intercambio de información respecto a los certificados de eficiencia energética registrados en el 2022 y las resoluciones definitivas de ayuda que hayan sido concedidas por obras de mejora de la eficiencia energética de viviendas, junto con la relación de números de referencia catastrales a los que se refieran.
+
+Además de estos intercambios de información generales, se potenciarán los intercambios de información específicos sobre determinados hechos, operaciones, valores, bienes o rentas con trascendencia tributaria que resulten relevantes para la gestión tributaria de cualquiera de las Administraciones, especialmente para la lucha contra el fraude.
+
+Del mismo modo, se potenciará la remisión de información por parte de las Comunidades Autónomas sobre la constitución de rentas vitalicias, operaciones de disolución de sociedades y de reducción del capital social con atribución de bienes o derechos de la sociedad a sus socios, préstamos entre particulares y pagos presupuestarios antes de su realización, a efectos de proceder al embargo del correspondiente derecho de crédito en caso de que el acreedor mantenga deudas pendientes de pago con la Agencia Tributaria.
+
+Finalmente, en materia de intercambio de información, se continuará potenciando la colaboración entre la Agencia Tributaria y las Administraciones tributarias autonómicas en la transmisión de la información obtenida en los procedimientos de control desarrollados por cada una de ellas que resulte relevante para la tributación por otras figuras impositivas gestionadas por otra Administración.
+
+La planificación coordinada y la colaboración en la selección de los contribuyentes que serán objeto de actuaciones de control será otra área de atención preferente y se promoverá que, por parte de la Agencia Tributaria se dé la información correspondiente a través de los Consejos Territoriales. En este ámbito, destacan, entre otros, el control global de las deducciones sobre el tramo autonómico del IRPF, partiendo de la información suministrada por dichas Comunidades, el control del Impuesto sobre el Patrimonio y su relación con el Impuesto sobre Sucesiones y Donaciones mediante el cruce de información sobre titularidad de bienes y derechos, la comprobación de las operaciones inmobiliarias, de las operaciones societarias más relevantes, la comprobación del domicilio declarado y la comprobación del disfrute de la exención o bonificación del Impuesto Especial sobre Determinados Medios de Transporte por adquisición de vehículos por discapacitados y familias numerosas.
+
+Por lo que se refiere a las Comunidades de régimen foral, tanto el Concierto Económico con la Comunidad Autónoma del País Vasco (aprobado por Ley 12/2002, de 23 de mayo), como el Convenio Económico entre el Estado y la Comunidad Foral de Navarra (aprobado por Ley 28/1990, de 26 de diciembre), contemplan entre sus principios esenciales los de coordinación y colaboración mutua con el Estado en la aplicación de sus respectivos regímenes tributarios.
+
+La línea fundamental de colaboración entre el Estado y la Comunidad Foral de Navarra y las Diputaciones Forales del País Vasco vendrá constituida en primer lugar por el intercambio de la información necesaria para facilitar a los contribuyentes el cumplimiento de sus obligaciones tributarias y para luchar contra el fraude fiscal, especialmente el que utiliza fórmulas de deslocalización o planificaciones fiscales abusivas.
+
+Pero, además, será también necesaria la colaboración entre dichas Administraciones para el adecuado cumplimiento de los Tratados y Convenios internacionales en materia de intercambio de información internacional.
+
+Por último, se aplicarán medidas que puedan disminuir la litigiosidad en las Juntas Arbitrales del Concierto y el Convenio Económico con la finalidad de aumentar la seguridad jurídica a los contribuyentes, y de evitar posteriores recursos ante el Tribunal Supremo.

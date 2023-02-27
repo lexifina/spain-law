@@ -1,0 +1,1 @@
+Aprobar las directrices generales del Plan Anual de Control Tributario y Aduanero de 2023 que a continuación se enuncian y ordenar su publicación en el «Boletín Oficial del Estado», así como su difusión por cualquier medio que resulte adecuado para su general conocimiento.
