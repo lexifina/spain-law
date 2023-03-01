@@ -33,6 +33,7 @@ L2-Periodo
 | 2T | Segundo trimestre. |
 | 3T | Tercer trimestre. |
 | 4T | Cuarto trimestre. |
+| OA | Anual. |
 
 L3-Clave de declarado
 
@@ -137,3 +138,5 @@ L9-Tipo de numeración (domicilio)
 | KM | Kilómetro. |
 | S/N | Sin número. |
 | OTR | Otro |
+
+> Se modifica la lista L2-Período por el art. 2.4 de la Orden HFP/188/2023, de 27 de febrero. Ref. BOE-A-2023-5260
