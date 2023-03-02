@@ -47,6 +47,6 @@
 | Comunidad Valenciana. | Alicante/Alacant. | 301 | VINALOPÓ. |
 | C. Valenciana. | Alicante/Alacant. | 304 | CENTRAL. |
 | C. Valenciana. | Alicante/Alacant. | 305 | MERIDIONAL. |
-| C. Valenciana. | Castellón/Castelló. | 1201 | ALT MAESTRAT. |
-| C. Valenciana. | Valencia/València. | 4609 | GANDÍA. |
 |  |
+
+> Se modifica por la disposición final 7.13 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-7

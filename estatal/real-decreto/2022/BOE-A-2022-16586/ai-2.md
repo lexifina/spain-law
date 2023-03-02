@@ -118,7 +118,7 @@ iii. Cómo se ha calculado el valor de la producción comercializada, cálculo d
 
 C) En el caso de que el valor de un producto haya experimentado una reducción por motivos ajenos a la responsabilidad y control de la organización: la documentación que justifique este hecho, y que demuestre, en particular, que dicho descenso no se ha debido a disminuciones de los efectivos productivos.
 
-D) Una declaración responsable de cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, de que no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto para las ayudas medioambientales que complementen los eco-regímenes.
+D) Una única declaración responsable que acredite que cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto para las ayudas medioambientales que complementen los eco-regímenes.
 
 E) La documentación específica que requiera cada acción, actuación, inversión y concepto de gasto.
 
@@ -127,5 +127,7 @@ F) Certificado en el que figure el acuerdo adoptado por la asamblea general de l
 G) Declaración responsable en la que la entidad se compromete a cumplir las disposiciones establecidas en la norma vigente que regula los programas y fondos operativos de las organizaciones de productores del sector de frutas y hortalizas.
 
 H) Declaración responsable relativa a la información mencionada en el segundo guion de la Parte I, letra B.i, del presente anexo.
+
+> Se modifica el apartado II.D) por la disposición final 3.3 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 54, de 4 de marzo de 2023. Ref. BOE-A-2023-5698

@@ -40,6 +40,7 @@
 | Castilla y León. | Burgos. | 903 | DEMANDA. |
 | Castilla y León. | Burgos. | 907 | PÁRAMOS. |
 | Castilla y León. | Burgos. | * | CONDADO DE TREVIÑO. |
+| Castilla y León. | Burgos. | * | LA PUEBLA DE ARGANZÓN |
 | Castilla y León. | León. | 2401 | BIERZO. |
 | Castilla y León. | León. | 2402 | LA MONTAÑA DE LUNA. |
 | Castilla y León. | León. | 2403 | LA MONTAÑA DE RIAÑO. |
@@ -100,3 +101,5 @@
 | La Rioja. | La Rioja. | 2602 | SIERRA RIOJA ALTA. |
 | La Rioja. | La Rioja. | 2604 | SIERRA RIOJA MEDIA. |
 | * No se incluye comarca completa, sólo municipio. |
+
+> Se modifica por la disposición final 7.11 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-7

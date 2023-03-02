@@ -108,7 +108,7 @@ b) Respecto al pago específico al cultivo del algodón a que se refiere la subs
 
 3.º A más tardar el 15 de abril del año de presentación de la solicitud, los nombres de las organizaciones interprofesionales autorizadas, así como la superficie que agrupan, sus potenciales de producción, nombre de los productores y desmotadores que la componen y su capacidad de desmotado.
 
-4.º A más tardar el 15 de julio del año de solicitud, la producción de algodón sin desmotar contratada el año previo y el precio medio pagado a los productores por la misma, y antes del 15 de septiembre la estimación la producción de algodón sin desmotar que prevén contratar en el año en curso.
+4.º A más tardar el 15 de septiembre del año de solicitud, la producción de algodón sin desmotar contratada el año previo y el precio medio pagado a los productores por la misma, y la estimación de la producción de algodón sin desmotar que prevén contratar en el año en curso.
 
 6. Información sobre estadísticas de control.
 
@@ -122,7 +122,7 @@ a) A más tardar el 30 de noviembre del año previo al de presentación de la so
 
 b) A más tardar el 30 de noviembre del año previo al de presentación de la solicitud, decisión sobre si la base de datos del SIGPAC residirá en el servidor del Ministerio de Agricultura, Pesca y Alimentación o de la comunidad autónoma.
 
-c) A más tardar el 30 de noviembre del año anterior a la realización del vuelo fotogramétrico, aquellas comunidades autónomas que, de conformidad con los apartados 2 y 3 del artículo 134, deseen aportar las ortofotografías generadas en el marco del PNOA, así como, a partir de 2024, las mejoras que las CCAA deseen realizar en los productos relacionados, deberán enviar su solicitud aportando la información justificativa que les sea requerida, de conformidad con el apartado 4 del artículo 134.
+c) A más tardar el 30 de noviembre del año anterior a la realización del vuelo fotogramétrico, aquellas comunidades autónomas que, de conformidad con los apartados 2 y 3 del artículo 134, deseen aportar las ortofotografías generadas en el marco del PNOA, así como, a partir de 2024, las mejoras que las comunidades autónomas deseen realizar en los productos relacionados, deberán enviar su solicitud aportando la información justificativa que les sea requerida.
 
 d) A más tardar el 15 de enero del año de presentación de solicitud, requisitos legales de gestión y buenas condiciones agrarias y medioambientales que se controlarán mediante monitorización.
 
@@ -135,3 +135,5 @@ g) A más tardar el 15 de octubre al año anterior al de la realización de la e
 h) A más tardar el último día del plazo de modificación de la solicitud única, los planes regionales de control a los que se hace referencia en el artículo 31.
 
 i) A más tardar el 15 de diciembre del año de solicitud, los registros de los resultados referentes al contenido de THC en las muestras de cáñamo analizadas.
+
+> Se modifican los apartados 7.c) y 5.b) por la disposición final 6.5 y 6 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-6

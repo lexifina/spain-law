@@ -22,7 +22,7 @@ Cumple criterio de prioridad agricultura ecológica:
 
 Cumple criterio de prioridad agricultura integrada:
 
-Criterio de prioridad gestión mediante ATRIA:
+Criterio de prioridad gestión mediante ATRIA u entidad equivalente, según lo especificado en el artículo 9.1.c):
 
 Cumple criterio de prioridad de tener seguro agrario:
 
@@ -129,3 +129,5 @@ Superficie reestructurada:
 % Superficie ejecutada respecto de la aprobada o modificada:
 
 Penalización por superficie:
+
+> Se modifica por la disposición final 4.10 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-4

@@ -43,7 +43,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.2.2 Vehículos. | La titular de los vehículos será la organización de productores y deberán llevar el anagrama de dicha organización de productores. |
 | Vehículos para: Transporte interno de producto de la OP entre centros de trabajo de una OP y desde las explotaciones hasta las instalaciones de la OP; acceso a las explotaciones; quads para trabajo en explotaciones; Otros. | Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación. |
 | A.2.3 Plantones y gastos de plantación. | Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario. |
-| Plantones, reinjertos, elementos para injertos nuevas plantaciones y royalties asociados a la utilización de variedades protegidas. | Se podrá incluir la mano de obra de plantación o injertos siempre y cuando no se lleve a cabo con medios propios. |
+| Plantones, patrones, reinjertos, elementos para injertos nuevas plantaciones y royalties asociados a la utilización de variedades protegidas. | – Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario. – Se podrá incluir la mano de obra de plantación o injertos siempre y cuando no se lleve a cabo con medios propios. – Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente. |
 | Patrones | Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente. |
 | A.2.4 Otros medios de producción. |  |
 | – GPS, Medios informáticos, robóticos, de inteligencia artificial, cámaras digitales, drones, tensiómetros, sensores de humedad, sondas de humedad y otros medios digitales o de agricultura de Precisión, etc. |
@@ -113,9 +113,9 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.i.10 Coste específico de abonos orgánicos y bioestimulantes |  |
 | A.i.11 Enmiendas orgánicas previas a la implantación de cultivos plurianuales |  |
 | A.i.12 Uso de microalgas como mejorantes del suelo y mejorantes del enraizamiento. |  |
-| A.i.13 Polímeros y mejorantes del suelo, que aumentan el poder de retención del agua del suelo, con la consiguiente reducción de productos fitosanitarios y la reducción de otros insumos fertilizantes, agua, etc., utilizados en agricultura de precisión. |  |
+| A.i.13 (Suprimido) |  |
 | A.i.14 Coste específico de la asociación de cultivos para la activación de microorganismos del suelo la fertilización natural del cultivo, movilización de nutrientes, mejora de la estructura del suelo y favorecer la retención de agua: Pimiento+Judía; Melón+Judía; Brócoli+Haba |  |
-| A.i.15 Productos Bioestimulantes con o sin microorganismos |
+| A.i.15 (Suprimido) |
 | ii) la mejora del uso y la gestión del agua, en particular el ahorro de agua, la conservación del agua y el saneamiento, |  |
 | A.ii.1 Instalaciones o mejoras de sistemas de depuración del agua. |  |
 | A.ii.2 Transformación de invernaderos con suelo en invernaderos sin suelo con recirculación de solución nutritiva. |  |
@@ -125,7 +125,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.ii.6 Mejora de sistemas de riego por otros más eficientes (modernización de regadíos) | La instalación debe contar con un sistema de contadores que permita medir el uso del agua de la superficie a la que afecte las inversiones. Deben registrarse las lecturas de los contadores. Se debe hacer una evaluación ex ante del potencial de ahorro de agua que refleje los parámetros técnicos de las instalaciones o infraestructuras existentes. El porcentaje mínimo de ahorro potencial estará comprendido entre el 5 y el 10 % según las características técnicas del proyecto de modernización. Si la inversión afecta a masas de agua cuyo estado se haya determinado como inferior a bueno en el plan hidrológico de cuenca pertinente por motivos relativos a la cantidad de agua, se conseguirá una reducción efectiva del consumo de agua, de manera que se contribuya a la consecución del buen estado de estas masas de agua. En las inversiones que tengan como resultado un incremento neto de la superficie de riego, las masas de agua afectadas deberán no haber sido calificadas como inferior a bueno por motivos relativos a la cantidad de agua y demostrarse, que no se producirá ningún efecto medioambiental negativo significativo a raíz de la inversión. Si fruto de esta inversión se consigue una reducción efectiva del consumo de agua se considerará que contribuye a la consecución del objetivo contemplado en la letra e) del artículo 46 del Reglamento (UE) n.º 2021/2115. La misma inversión en riego no puede ser incluida en el ámbito de miembro y dentro de una misma anualidad en dos acciones simultáneamente La justificación de la inversión irá acompañada de la documentación técnica que permita una evaluación de la situación de partida y de la eficiencia de la nueva instalación. Se establecerán medidas de control de la captación de aguas dulces superficiales y subterráneas y de embalse de aguas dulces superficiales con inclusión de un registro o registros de las captaciones de agua y un requisito de autorización previa para la captación y el embalse. En las parcelas de regadío de los miembros de una organización de productores que hayan sido sancionados en firme por la autoridad competente en materia de agua por hacer un uso ilegal de este recurso, no podrán realizarse inversiones financiadas con un programa operativo. Además, la producción que se obtenga de las explotaciones anteriormente indicadas no podrá computar en el VPC ni a efectos de reconocimiento ni a efectos de la ayuda del programa operativo. A las inversiones realizadas sobre sistemas de riego que tengan como objetivos otros diferentes de la gestión del agua, como puede ser sustituir el sistema de alimentación de energía por otro más eficiente medioambientalmente, no estarán obligados a establecer reducciones de consumo de agua, ni potencial, ni efectiva. Otras inversiones diferentes de las de regadíos que se realicen sobre parcelas que se rieguen no estarán sometidas a reducciones en el consumo de agua. |
 | A.ii.7 Recarga de acuíferos. |  |
 | A.ii.8 Acondicionamiento desagües. |  |
-| A.ii.9 Instalaciones o mejoras de depuración del agua |  |
+| A.ii.9 (Suprimido) |  |
 | A.ii.10 Sistema de drenaje. |  |
 | A.ii.11 Sistemas de recirculación de agua y solución nutritiva en invernadero con suelo y al aire libre. |  |
 | A.ii.12 Utilización de la técnica de sombreo de embalses y cultivos para frenar la evaporación de los recursos hídricos. |  |
@@ -148,7 +148,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.iv.4 Cogeneración [producción combinada de calor y energía] de energía a partir de residuos derivados de la producción, transformación, acondicionamiento del producto para su expedición o comercialización de frutas y hortalizas |  |
 | A.iv.5 Utilización de medios de maquinaria y aperos eléctricos para la explotación, incluidos los puntos de recarga en las propias explotaciones. |  |
 | A.iv.6 Reducción del consumo de combustible y emisión de CO2 con la utilización de maquinaria dotada con sistemas de posicionamiento. |  |
-| A.iv.7 Instalación solar fotovoltaica para fomentar autoconsumo en almacenes o instalaciones agroalimentarios. |  |
+| A.iv.7 (Suprimido) |  |
 | A.iv.8 Desarrollo del hidrógeno verde: inversiones en instalaciones de generación, transporte y consumo de hidrógeno verde (producido por electrólisis del agua a partir de electricidad proveniente de fuentes renovables, sin producción de CO2) |  |
 | v) envases ecológicos sólo en el campo de la investigación y la producción experimental |  |
 | vi) la bioseguridad y la salud |  |
@@ -175,8 +175,8 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.ix.1 Coste específico en trampas, mosqueros, depredadores naturales, feromonas, extractos vegetales, microorganismos, plantas repelentes, tratamientos preventivos o cualquier otro material de protección vegetal, excluyendo productos químicos, respetuosos con el medio ambiente, derivados de la implantación de sistemas de calidad distintos de producción integrada y ecológica. | – Esta actuación será incompatible con las acciones D.1 y D.3 en superficie cuando se encuentren contemplados como práctica obligatoria en los módulos de producción ecológica o integrada. – Se realizará un estudio por un organismo independiente para establecer un importe a tanto alzado con base en el segundo párrafo del apartado 1 del artículo 21 del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, para establecer un importe a tanto alzado, que cubrirá el coste adicional y las pérdidas de ingresos. |
 | A.ix.2 Empleo de técnicas de solarización o biosolarización |  |
 | A.ix.3 Utilización de métodos de lucha biológica y/o biotecnológica, alternativos a los convencionales, utilizados en agricultura convencional, en cultivos hortofrutícolas |  |
-| A.ix.4 Inversiones y gastos de funcionamiento en insectarios e instalaciones para control biológico de plagas |  |
-| A.ix.5 Utilización de planta injertada o de variedades resistentes en hortícolas de invernadero para reducir el uso de productos químicos. | Se ha de presentar un informe técnico que acredite que la variedad utilizada es resistente y permite reducir en consecuencia el uso de productos químicos. |
+| A.ix4 Inversiones y gastos de funcionamiento en insectarios e instalaciones para control biológico de plagas |  |
+| A.ix.5 (Suprimido) |  |
 | A.ix.6 Utilización de la técnica de embolsado de melocotón como barrera física frente a plagas para reducir el uso de productos químicos |  |
 | A.ix.7 Utilización de la técnica de descortezado en uva de mesa para reducir el uso de productos químicos. |  |
 | A.ix.8 Utilización de la técnica de embolsado de uva de mesa como barrera física frente a plagas para reducir el uso de productos químicos |  |
@@ -274,7 +274,7 @@ Tipo de intervención 1.e) Acciones para aumentar la sostenibilidad y la eficien
 | – Sistema Smartfresh, catalizador de etileno, retardador, kit de conservación para frutas, a base de SO2 (anhídrido sulfuroso), y otros activos de acción similar |
 | E.3 Vehículos eléctricos o híbridos o que utilicen energía renovable (para los técnicos de campo y para el transporte de las frutas y hortalizas desde la explotación del agricultor hasta el almacén de manipulación y envasado, también para el transporte de productos dentro del almacén de la OP en el proceso de manipulación y envasado). |  |
 | E.4 Accesorios para medios de transporte frigorífico o en atmósfera controlada (equipo de atmósfera controlada, equipo de control de temperatura) | No se podrá incluir la cabina tractora ni ningún otro elemento que no sea específico de frío o atmósfera controlada |
-| E.5 Infraestructura de repostaje para vehículos eléctricos e híbridos |  |
+| E.5 (Suprimido) |  |
 | E.6 Gastos derivados de transporte de residuos a plantas de tratamiento para fomentar la economía circular mediante la utilización de residuos para elaboración de productos comercializables |  |
 | E.7 Sistemas de ahorro energético en almacén (aislamiento térmico, sistemas de control de temperatura, ahorro lumínico, etc.) |  |
 | Otros |  |
@@ -346,8 +346,8 @@ Tipo de intervención 1.i) Acciones para mitigar el cambio climático y adaptars
 | I.8 Certificación de la huella de carbono |  |
 | I.9 Certificación de la huella hídrica |  |
 | I.10 Certificación de la huella de nitrógeno y nitratos |  |
-| I.11 Vehículos eléctricos o híbridos o que utilicen energía renovable (para los técnicos de campo y para el transporte de las frutas y hortalizas desde la explotación del agricultor hasta el almacén de manipulación y envasado, también para el transporte interno de productos dentro del almacén de la OP en el proceso de manipulación y envasado). |  |
-| I.12 Instalaciones de energía renovable. | La energía generada no superará la cantidad de energía que puede utilizarse anualmente para las actividades normales de la OPFH o la AOPFH y sus miembros productores. Se permitirá compensar la producción de energía sobrante que puede verterse a la red de distribución en momentos de exceso de producción de energía con consumo procedente de esa red general de distribución en momentos de déficit de producción de energía. |
+| I.11 (Suprimido) |  |
+| I.12 (Suprimido) |  |
 | Otros |  |
 
 Tipo de intervención 2.a) Creación, dotación y reposición de mutualidades por parte de organizaciones de productores y asociaciones de organizaciones de productores reconocidas.
@@ -419,5 +419,7 @@ Podrá incluir actuaciones realizadas como consecuencia de:
 – Precios anormalmente bajos en momentos puntuales que puedan afectar al comportamiento de la campaña.
 
 – Otras motivaciones, como la disminución coyuntural del consumo debido a condiciones climáticas desfavorables
+
+> Se modifica por la disposición final 3.2 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 54, de 4 de marzo de 2023. Ref. BOE-A-2023-5698

@@ -61,3 +61,7 @@
 | ENDRINO O ARAÑÓN. |
 | FRAMBUESA. |
 | FRUTOS DEL BOSQUE. |
+| FRUTOS DE CÁSCARA. |
+| BAYAS GOJI. |
+
+> Se modifica por la disposición final 7.14 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-7

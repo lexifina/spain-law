@@ -34,9 +34,12 @@
 | Nabo, nabicol y chirivía. | 27,96 | 20,97 |
 | Níspero. | 74,02 | 55,52 |
 | Papaya. | 32,38 | 24,28 |
-| Paraguaya. | 39,53 | 29,65 |
+| Paraguaya, platerina y melocotón plano. | 39,53 | 29,65 |
 | Pepino. | 24,83 | 18,62 |
 | Pimiento. | 37,56 | 28,17 |
 | Puerro. | 36,57 | 27,43 |
 | Repollo, col. | 22,84 | 17,13 |
 | Zanahoria. | 18,63 | 13,97 |
+| Mora. | 260,04 | 195,03 |
+
+> Se modifica por la disposición final 3.5 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3

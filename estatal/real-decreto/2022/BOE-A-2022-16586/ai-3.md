@@ -45,7 +45,7 @@ Parte A) Recolección normal
 | Lechuga. | 3.225 | 6.473 | 6.754 |
 | Nabo, nabicol, chirivía. | 2.284 | 4.786 | – |
 | Níspero. | 600 | 6.455 | – |
-| Paraguaya. | 1.278 | 5.796 | – |
+| Paraguaya, platerina y melocotón plano. | 1.278 | 5.796 | – |
 | Puerro. | 2.429 | 7.368 | 4.691 |
 | Repollo, col. | 5.413 | 5.181 | 2.677 |
 | Zanahoria. | 629 | 7.470 | – |
@@ -126,3 +126,5 @@ Tabla 2. Importes a efectos del cálculo de la compensación por recolección pa
 El importe de compensación por hectárea se calculará multiplicando (A) x (B), siendo:
 
 (A) El porcentaje que queda por cosechar, en función de la semana de cultivo que figura en la tabla 1 de este anexo y que se calculará sumando los porcentajes de las seis semanas siguientes desde que se ha efectuado la operación de prevención de crisis. En el caso de que la operación se realice entre el lunes y el miércoles de la semana esa será la primera semana de cálculo del porcentaje de cosecha restante. En caso de que se realice entre el jueves y el domingo, esa semana se considerará como cosechada y, a efectos de cálculo del porcentaje que queda por cosechar, la primera semana será la siguiente, y (B) el importe (€/ha) correspondiente por producto fijado en la tabla 2.
+
+> Se modifica la parte A) por la disposición final 3.4 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3

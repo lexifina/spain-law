@@ -156,17 +156,21 @@ Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos d
 
 – Energía solar:
 
-• Térmica
+● Térmica.
 
-• Fotovoltaica
+● Fotovoltaica.
 
 – Bioenergía:
 
-• Biomasa
+● Biomasa.
+
+● Biogás.
 
 – Energía Geotérmica.
 
 – Energía eólica.
+
+– Energía ambiente.
 
 IV. Priorización de las operaciones de inversión destinados a la transformación digital de la industria (industria conectada)
 
@@ -185,3 +189,5 @@ Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos d
 – Soluciones de negocio interempresa.
 
 4. Robótica, sensórica y sistemas embebidos.
+
+> Se modifica el apartado III por la disposición final 4.11 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-4

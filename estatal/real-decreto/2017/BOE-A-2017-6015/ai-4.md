@@ -53,7 +53,7 @@ b) Categoría (v):
 | --- | --- |
 | Veinticinco. | 1.250 t |
 
-c) Categorías (iv), (vii), (viii), (ix), (x) y (xi):
+c) Categorías (iv), (vii), (ix), (x) y (xi):
 
 – Para todo el territorio nacional:
 
@@ -74,6 +74,16 @@ d) Categoría (vi):
 | Número mínimo de miembros | Mínimo valor producción comercializable |
 | --- | --- |
 | Diez. | 125.000 € |
+
+e) Categoría (viii):
+
+– Para todo el territorio nacional:
+
+| Número mínimo de miembros | Mínimo valor producción comercializable – Euros |
+| --- | --- |
+| Cinco. | 250.000 |
+
+> Se modifica la letra c) y se añade la e) por la disposición final 1.2 y 3 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df
 
 > Se sustituye por el art. único.3 del Real Decreto 855/2022, de 11 de octubre. Ref. BOE-A-2022-16584
 
