@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 2 de marzo de 2023, excepto sus artículos 15 a 18, que se derogarán con la entrada en funcionamiento efectivo de la Agencia Española de Empleo, según establece la disposición derogatoria única.1.a) de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#dd

@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Régimen competencial, presupuestario y de rendición de cuentas transitorio.
+
+1. Hasta la entrada en funcionamiento efectivo de la Agencia Española de Empleo, el actual Servicio Público de Empleo Estatal, O.A., asumirá el ejercicio de las funciones recogidas en el artículo 22 de esta ley que se adecúen al contenido de las funciones encomendadas por el artículo 18 del texto refundido de la Ley de Empleo, aprobado por el Real Decreto Legislativo 3/2015, de 23 de octubre, por el artículo 2 del Real Decreto 1383/2008, de 1 de agosto, por el que se aprueba la estructura orgánica y de participación institucional del Servicio Público de Empleo Estatal o por las que le otorgue cualquier otra norma.
+
+2. En tanto en cuanto la Agencia Española de Empleo no disponga de presupuesto propio aprobado mediante norma con rango de ley, sus gastos se imputarán en la forma y con cargo a los créditos previstos para el Servicio Público de Empleo Estatal.
+
+Mientras la Agencia Española de Empleo no disponga de presupuesto propio, no se alterará la estructura presupuestaria vigente, desarrollando la Agencia su actuación de acuerdo con el régimen presupuestario, de contabilidad y control y de rendición de cuentas aplicable al Servicio Público de Empleo Estatal, en los términos previstos en las leyes de presupuestos generales del Estado anuales y en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
