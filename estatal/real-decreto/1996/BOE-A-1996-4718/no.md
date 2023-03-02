@@ -1,1 +1,1 @@
-Norma derogada, en cuanto se oponga, por la disposición derogatoria única del Real Decreto 1451/2005, de 7 diciembre. Ref. BOE-A-2005-21264#ddunica.
+Norma derogada, con efectos desde el 2 de marzo de 2023, por la disposición derogatoria única del Real Decreto 144/2023, de 28 de febrero. Ref. BOE-A-2023-5368#dd
