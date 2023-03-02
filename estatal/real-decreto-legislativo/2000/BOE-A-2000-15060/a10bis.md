@@ -20,8 +20,10 @@ b) Las acciones u omisiones que impidan el funcionamiento de la comisión negoci
 
 c) Las acciones u omisiones que impidan el ejercicio efectivo de los derechos de información, consulta y participación de los trabajadores en la sociedad europea, o en la sociedad cooperativa europea, incluido el abuso en el establecimiento de la obligación de confidencialidad en la información proporcionada o en el recurso a la dispensa de la obligación de comunicar aquellas informaciones de carácter secreto.
 
-d) Las decisiones adoptadas en aplicación de la Ley sobre implicación de los trabajadores en las sociedades anónimas y cooperativas europeas, que contengan o supongan cualquier tipo de discriminaciones directas o indirectas desfavorables por razón de edad o discapacidad o favorables o adversas por razón de sexo, nacionalidad, origen, incluido el racial o étnico, estado civil, religión o convicciones, ideas políticas, orientación sexual, adhesión o no a un sindicato, a sus acuerdos o al ejercicio, en general, de las actividades sindicales, o lengua.
+d) Las decisiones adoptadas en aplicación de la Ley sobre implicación de los trabajadores en las sociedades anónimas y cooperativas europeas, que contengan o supongan cualquier tipo de discriminaciones directas o indirectas desfavorables por razón de edad o discapacidad o favorables o adversas por razón de sexo, nacionalidad, origen, incluido el racial o étnico, estado civil, religión o convicciones, ideas políticas, orientación e identidad sexual, expresión de género, características sexuales, adhesión o no a un sindicato, a sus acuerdos o al ejercicio, en general, de las actividades sindicales, o lengua.
 
 e) El recurso indebido a la constitución de una sociedad europea o de una sociedad cooperativa europea con el propósito de privar a los trabajadores de los derechos de información, consulta y participación que tuviesen, o de hacerlos ineficaces.
+
+> Se modifica la letra d) del apartado 2 por la disposición final 6.3 de la Ley 4/2023, de 28 de febrero. Ref. BOE-A-2023-5366#df-6
 
 > Se añade por la disposición final 1.3 de la Ley 31/2006, de 18 de octubre. Ref. BOE-A-2006-18204
