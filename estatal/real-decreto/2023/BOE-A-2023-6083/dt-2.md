@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Plazo para disponer del Plan de bienestar animal del artículo 3.c) del Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas.
+
+El plazo para disponer del Plan de bienestar animal recogido en el artículo 3.c) del Real Decreto 348/2000, de 10 de marzo, por el que se incorpora al ordenamiento jurídico la Directiva 98/58/CE, relativa a la protección de los animales en las explotaciones ganaderas, será de cuatro años, a contar desde la fecha de publicación de este real decreto.
