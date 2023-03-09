@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación del Real Decreto 1055/2021, de 30 de noviembre, por el que se establecen las bases reguladoras para la concesión directa de las subvenciones estatales para la renovación del parque nacional de maquinaria agraria.
+
+Se añade un nuevo párrafo al final del apartado 6 del artículo 8 del Real Decreto 1055/2021, de 30 de noviembre, por el que se establecen las bases reguladoras para la concesión directa de las subvenciones estatales para la renovación del parque nacional de maquinaria agraria, con la siguiente redacción:
+
+> «En cualesquiera modelos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con el interesado, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN, o las representaciones gráficas que se determinen, conforme al modelo que se establezca.»
