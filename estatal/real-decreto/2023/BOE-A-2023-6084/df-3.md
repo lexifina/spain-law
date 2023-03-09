@@ -1,0 +1,3 @@
+## Disposición final tercera. Entrada en vigor.
+
+Este real decreto entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», salvo lo previsto en el artículo 9.1, letra m), apartados 1.º, en relación con los aeropuertos de interés general, 2.º y 3.º del Estatuto de la Agencia Estatal de Seguridad Aérea, en la redacción dada por este real decreto, que entrará en vigor a los tres meses de su publicación, sin perjuicio de lo dispuesto en el Real Decreto 310/2022, de 3 de mayo, respecto a las funciones como órgano sustantivo de los proyectos de clasificación y estructuración del espacio aéreo que requieran evaluación ambiental.

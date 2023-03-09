@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 187, de 6 de agosto de 1991. Ref. BOE-A-1991-19978.
+Norma derogada, con efectos de 9 de marzo de 2023, por la disposición derogatoria única del Real Decreto 160/2023, de 7 de marzo. Ref. BOE-A-2023-6084#dd
