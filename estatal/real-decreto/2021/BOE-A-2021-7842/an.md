@@ -196,7 +196,7 @@ I. Aparato de la visión
 
 2. Pérdida o atrofia de un globo ocular. Cuerpos extraños intraoculares. Cualquier tipo de cirugía intraocular.
 
-> Téngase en cuenta que se suspende cautelarmente el punto "Cuerpos extraños intraoculares" por Auto del TS de 28 de septiembre de 2021. Ref. BOE-A-2021-16060
+> Téngase en cuenta que se declara la nulidad del inciso destacado del apartado 2 por Sentencia del TS de 16 de febrero de 2023. Ref. BOE-A-2023-6376
 
 3. Exoftalmos.
 
@@ -214,7 +214,7 @@ I. Aparato de la visión
 
 10. Técnicas de corrección refractiva: se deberá considerar este apartado en función del resultado de la cirugía refractiva corneal, y habiéndose realizado la cirugía al menos 60 días antes del reconocimiento. No se admitirán lentes fáquicas.
 
-> Téngase en cuenta que se suspende cautelarmente el punto "No se admitirán lentes fáquicas" por Auto del TS de 28 de septiembre de 2021. Ref. BOE-A-2021-16060
+> Téngase en cuenta que se declara la nulidad del inciso destacado del apartado 10 por Sentencia del TS de 16 de febrero de 2023. Ref. BOE-A-2023-6376
 
 11. Uveítis. Iridociclitis.
 
@@ -305,5 +305,7 @@ L. Sangre y órganos hematopoyéticos
 8. Inmunodeficiencias que menoscaben la capacidad para el normal desarrollo de las funciones policiales, evaluados de forma individualizada y con informe emitido por la persona asesora médica designada.
 
 9. Alteraciones analíticas significativas en sangre.
+
+> Se declara la nulidad de los incisos destacados de los apartados 2 y 10 por Sentencia del TS de 16 de febrero de 2023. Ref. BOE-A-2023-6376
 
 > Se suspenden cautelarmente los puntos 2 (''Cuerpos extraños intraoculares'') y 10 (''No se admitirán lentes fáquicas'') del Apartado I, por Auto de 28 de septiembre de 2021. Ref. BOE-A-2021-16060
