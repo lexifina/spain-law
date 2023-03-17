@@ -1,3 +1,11 @@
 ## Disposición transitoria primera. Autorizaciones.
 
-Hasta la elaboración de los censos a que hace referencia el artículo 8 de la presente Orden, la actividad pesquera profesional, en el ámbito de las reservas, se realizará por las mismas embarcaciones y en las modalidades que hasta ahora se viene ejerciendo.
+1. Hasta la elaboración de los censos a que hace referencia el artículo 8 de la presente orden, la actividad pesquera profesional en las modalidades de palangre de fondo, artes menores, cerco y palangre de superficie será realizada por los mismos buques que hasta ahora la vienen llevando a cabo, para lo cual deberán obtener la correspondiente autorización de la Secretaría General de Pesca.
+
+2. Para ello, los interesados dirigirán una solicitud de autorización por medios electrónicos a la Secretaría General de Pesca. Dicha Secretaría General dictará y notificará resolución de autorización, en su caso, en el plazo máximo de un mes desde la fecha en que la solicitud haya tenido entrada en el registro electrónico de la Administración competente para su tramitación, y será notificada por medios electrónicos en los términos previstos en los artículos 40 y 43 de la Ley 39/2015, de 1 de octubre, momento en el que la autorización será efectiva. De conformidad con lo dispuesto en el artículo 42.5 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo, esa notificación se practicará mediante la puesta a disposición del interesado a través de la Dirección Electrónica Habilitada Única (DEHú), pudiendo, de forma complementaria a lo anterior, notificarse en la sede electrónica asociada del Ministerio de Agricultura, Pesca y Alimentación.
+
+3. Si en el plazo de un mes no se hubiera dictado y notificado la resolución, la solicitud podrá entenderse desestimada con arreglo a lo dispuesto en la disposición adicional sexta de la Ley 3/2001, de 26 de marzo.
+
+4. Contra la resolución del procedimiento, que no agota la vía administrativa, podrá interponerse recurso de alzada ante el Ministro de Agricultura, Pesca y Alimentación, en el plazo máximo de un mes, contado a partir del día siguiente al de su notificación, o en cualquier momento a partir del día siguiente a aquel en que transcurriera el plazo para resolver y notificar, de acuerdo con dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre.
+
+> Se modifica por el art. único.8 de la Orden APA/177/2023, de 21 de febrero. Ref. BOE-A-2023-5058
