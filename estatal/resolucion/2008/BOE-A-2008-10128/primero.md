@@ -10,21 +10,21 @@ En los casos en los que se trate de contraer compromisos de gastos de carácter 
 
 b) Que los gastos u obligaciones se proponen al órgano competente para la aprobación, compromiso del gasto o reconocimiento de la obligación.
 
-c) La competencia del órgano de contratación y en general del que dicte el acto administrativo, cuando dicho órgano no tenga atribuida la facultad de aprobación, compromiso del gasto o reconocimiento de la obligación de que se trate.
+c) La competencia del órgano que dicte el acto administrativo o suscriba el negocio jurídico, cuando dicho órgano no tenga atribuida la facultad de aprobación, compromiso del gasto o reconocimiento de la obligación de que se trate.
 
 d) Que los expedientes de compromiso de gasto responden a gastos aprobados y, en su caso, fiscalizados favorablemente.
 
-Asimismo, en los expedientes de reconocimiento de obligaciones, que los mismos responden a gastos aprobados y comprometidos y, en su caso, fiscalizados favorablemente. En caso de que haya designación de Interventor para la comprobación material de una inversión, que se ha producido la intervención de la citada comprobación material de la inversión y su carácter favorable, sin perjuicio de lo dispuesto en distintos puntos del presente Acuerdo en los casos en que resulte de aplicación el segundo párrafo del artículo 198.2 de la Ley de Contratos del Sector Público y no hubiese llegado el momento de efectuar la correspondiente comprobación material de la inversión.
+Asimismo, en los expedientes de reconocimiento de obligaciones, que los mismos responden a gastos aprobados y comprometidos y, en su caso, fiscalizados favorablemente.
 
 e) La existencia de autorización del Consejo de Ministros, en aquellos tipos de gastos incluidos en el presente Acuerdo en los que su normativa específica lo exija.
 
-f) La existencia de autorización del titular del Departamento ministerial o del Secretario de Estado correspondiente en los supuestos que, conforme al artículo 324.5 de la Ley de Contratos del Sector Público, lo requieran.
+f) Aquellos extremos adicionales que, atendiendo a la naturaleza de los distintos actos, documentos o expedientes, se contienen en el presente Acuerdo.
 
-g) Aquellos extremos adicionales que, atendiendo a la naturaleza de los distintos actos, documentos o expedientes, se contienen en el presente Acuerdo.
-
-2. En los expedientes en que, de conformidad con el presente Acuerdo, deba verificarse la existencia de dictamen de Consejo de Estado, se comprobarán, con anterioridad al mismo, los extremos contemplados en los correspondientes apartados de este Acuerdo y, con posterioridad a su emisión, únicamente se constatará su existencia material y carácter favorable, en cumplimiento del artículo 13.1 del Real Decreto 2188/1995, de 28 de diciembre, y del Real Decreto 706/1997, de 16 de mayo.
+2. En los expedientes en que de conformidad con el presente Acuerdo deba verificarse como extremo adicional la existencia de dictamen de Consejo de Estado, así como en aquellos otros expedientes que correspondan a un tipo de gasto incluido en este Acuerdo para los que de conformidad con la normativa aplicable sea preceptivo el citado dictamen, se comprobarán, con anterioridad al mismo, los extremos contemplados en los correspondientes apartados de este Acuerdo y, con posterioridad a su emisión, únicamente se constatará su existencia material y carácter favorable, en cumplimiento del artículo 13.1 del Real Decreto 2188/1995, de 28 de diciembre, y del Real Decreto 706/1997, de 16 de mayo.
 
 3. Cuando de los informes preceptivos a los que se hace referencia en los diferentes apartados de este Acuerdo se dedujera que se han omitido requisitos o trámites que sean esenciales o que la continuación de la gestión administrativa pudiera causar quebrantos económicos al Tesoro Público, a la Seguridad Social o a un tercero, se procederá al examen exhaustivo del documento o documentos objeto de informe y si, a juicio del Interventor, se dan las mencionadas circunstancias, habrá de actuar conforme a lo preceptuado en el artículo 154.1 de la Ley General Presupuestaria.
+
+> Se modifica por el apartado primero del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se sustituye por el apartado 1 del acuerdo publicado por Resolución de 25 de julio de 2018. Ref. BOE-A-2018-10994#pr-2
 

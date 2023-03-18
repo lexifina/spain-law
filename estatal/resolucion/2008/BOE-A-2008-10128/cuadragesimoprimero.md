@@ -1,6 +1,6 @@
 ## Cuadragésimo primero.
 
-En los expedientes de reconocimiento del derecho a otras prestaciones, ayudas y otros gastos en el ámbito de las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado Primero.1.g) del presente acuerdo serán los siguientes:
+En los expedientes de reconocimiento del derecho a otras prestaciones, ayudas y otros gastos en el ámbito de las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado Primero.1.f) del presente acuerdo serán los siguientes:
 
 1. A organizaciones sindicales y empresariales, en compensación por participación en Consejos Generales y Comisiones Ejecutivas:
 
@@ -63,6 +63,8 @@ Solo se comprobarán los requisitos generales establecidos en el apartado Primer
 11. Expedientes de reintegro del exceso de aportación farmacéutica a los usuarios que ostenten la condición de asegurados y sus beneficiarios:
 
 Solo se comprobarán los requisitos generales establecidos en el apartado Primero de este acuerdo, que resulten de aplicación.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado 5 del acuerdo publicado por Resolución de 18 de noviembre de 2019. Ref. BOE-A-2019-16786
 

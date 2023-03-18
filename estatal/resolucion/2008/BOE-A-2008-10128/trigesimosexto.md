@@ -1,6 +1,6 @@
 ## Trigésimo sexto.
 
-En los expedientes de prestaciones generales del Régimen Especial de la Seguridad Social de las Fuerzas Armadas, así como de las específicas para los mutualistas de las Mutualidades integradas en el Instituto Social de las Fuerzas Armadas, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo, serán los siguientes:
+En los expedientes de prestaciones generales del Régimen Especial de la Seguridad Social de las Fuerzas Armadas, así como de las específicas para los mutualistas de las Mutualidades integradas en el Instituto Social de las Fuerzas Armadas, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo, serán los siguientes:
 
 1. Reconocimiento de obligaciones derivadas de conciertos o contratos suscritos con entidades públicas o privadas para la prestación de servicios sanitarios y farmacéuticos, asistencia socio sanitaria a domicilio y teleasistencia del mecanismo de la Seguridad Social que gestiona ISFAS:
 
@@ -29,3 +29,5 @@ a) Que las nóminas están firmadas por los responsables de su formación y se p
 b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulta del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
 
 c) Comprobación de que las altas en nómina responden a acuerdos, reconociendo el derecho a la pensión o prestación, fiscalizados de conformidad.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054

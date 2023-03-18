@@ -1,6 +1,6 @@
 ## Trigésimo segundo.
 
-En los expedientes de reconocimiento del derecho a las pensiones de Clases Pasivas del Estado y de las pensiones extraordinarias de terrorismo a que se refiere el título II del Real Decreto 851/1992, su liquidación e inclusión en nómina, así como la liquidación e inclusión en nómina de las ayudas a los afectados por el VIH, recogidas en el Real Decreto-ley 9/1993, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes.
+En los expedientes de reconocimiento del derecho a las pensiones de Clases Pasivas del Estado y de las pensiones extraordinarias de terrorismo a que se refiere el título II del Real Decreto 851/1992, su liquidación e inclusión en nómina, así como la liquidación e inclusión en nómina de las ayudas a los afectados por el VIH, recogidas en el Real Decreto-ley 9/1993, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes.
 
 I. Requisitos comunes:
 
@@ -237,3 +237,5 @@ d) Idéntica comprobación de las altas que en la nómina de pago directo.
 4. Los certificados de baja, alta o no alta en nómina que se citan en los números anteriores, podrán efectuarse mediante información extraída del sistema informático de nóminas de Clases Pasivas.
 
 5. En los expedientes en que el reconocimiento del derecho y su liquidación se tramiten de forma conjunta, se comprobará si se cumplen los requisitos específicos señalados para cada uno de dichos actos.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054

@@ -1,6 +1,6 @@
 ## Cuadragésimo tercero.
 
-En los expedientes de conciertos de asistencia sanitaria gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
+En los expedientes de conciertos de asistencia sanitaria gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
 
 1. Expediente inicial:
 
@@ -91,5 +91,7 @@ a) Que, en su caso, existe informe del Servicio Jurídico.
 b) Que, en su caso, existe dictamen del Consejo de Estado.
 
 9. Pago de primas o compensaciones a los candidatos o licitadores en el caso de renuncia a la celebración del contrato o desistimiento del procedimiento: Que, en su caso, esta circunstancia está prevista en el pliego o anuncio.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado 18 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.

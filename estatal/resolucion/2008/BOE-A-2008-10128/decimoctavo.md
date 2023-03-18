@@ -1,6 +1,6 @@
 ## Decimoctavo.
 
-Para los expedientes de subvenciones y ayudas públicas a los que resulte de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
+Para los expedientes de subvenciones y ayudas públicas a los que resulte de aplicación la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
 
 1. Subvenciones a conceder en régimen de concurrencia competitiva:
 
@@ -12,7 +12,7 @@ b) Que en la convocatoria figuran los créditos presupuestarios a los que se imp
 
 c) Que en la convocatoria figuran los criterios de valoración de las solicitudes y que éstos son conformes con los establecidos en las correspondientes bases reguladoras.
 
-d) Cuando se trate de expedientes de aprobación de gasto por la cuantía adicional del artículo 58 del Reglamento de la Ley General de Subvenciones, una vez obtenida la financiación adicional, se verificará como extremo adicional a los previstos en el apartado primero.1.g), que no se supera el importe establecido en la convocatoria.
+d) Cuando se trate de expedientes de aprobación de gasto por la cuantía adicional del artículo 58 del Reglamento de la Ley General de Subvenciones, una vez obtenida la financiación adicional, se verificará como extremo adicional a los previstos en el apartado primero.1.f), que no se supera el importe establecido en la convocatoria.
 
 e) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 58 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
 
@@ -47,6 +47,8 @@ b) Acreditación en la forma establecida en la normativa reguladora de la subven
 c) Que existe, en su caso, el informe favorable del Ministerio de Economía y Hacienda a que se refiere el artículo 58 de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
 
 B) Reconocimiento de obligaciones.–Se comprobarán los mismos extremos previstos en el apartado relativo al reconocimiento de la obligación de las subvenciones concedidas en régimen de concurrencia competitiva.
+
+> Se modifican las referencias hechas al apartado primero.1.g) por las hechas al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado 11 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.
 

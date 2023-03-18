@@ -1,6 +1,6 @@
 ## Trigésimo cuarto.
 
-En los expedientes de prestaciones del Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado, así como de las específicas del Fondo especial de la MUFACE, y de su liquidación e inclusión en nómina, en su caso, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo, serán los siguientes:
+En los expedientes de prestaciones del Régimen Especial de la Seguridad Social de los Funcionarios Civiles del Estado, así como de las específicas del Fondo especial de la MUFACE, y de su liquidación e inclusión en nómina, en su caso, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo, serán los siguientes:
 
 1. Reconocimiento de obligaciones derivadas de conciertos suscritos con entidades públicas o privadas para la prestación de servicios sanitarios y farmacéuticos:
 
@@ -35,3 +35,5 @@ a) Que las nóminas están firmadas por los responsables de su formación y se p
 b) Comprobación aritmética, que se realizará efectuando el cuadre del total de la nómina con el que resulta del mes anterior más la suma algebraica de las variaciones incluidas en la nómina del mes de que se trate.
 
 c) Comprobación de que las altas en nómina responden a acuerdos, reconociendo el derecho a la pensión o prestación, fiscalizados de conformidad.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054

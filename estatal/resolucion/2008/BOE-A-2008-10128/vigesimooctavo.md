@@ -1,6 +1,6 @@
 ## Vigésimo octavo.
 
-En los expedientes de prestaciones a víctimas del terrorismo, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes:
+En los expedientes de prestaciones a víctimas del terrorismo, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes:
 
 1. Prestaciones concedidas al amparo del artículo 94 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social y normas de desarrollo.
 
@@ -37,3 +37,5 @@ d) En las indemnizaciones no fijadas en sentencia:
 2) Indemnizaciones por incapacidad permanente. Se verificará que el peticionario tiene reconocida a su favor una indemnización o pensión extraordinaria por incapacidad permanente como víctima del terrorismo en virtud de resolución administrativa previa o que está acreditado el grado de incapacidad.
 
 3) Indemnizaciones por lesiones permanentes no invalidantes. Que en el informe médico quedan acreditadas las secuelas padecidas a consecuencia del acto terrorista.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054

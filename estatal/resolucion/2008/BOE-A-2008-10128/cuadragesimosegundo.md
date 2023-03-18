@@ -1,6 +1,6 @@
 ## Cuadragésimo segundo.
 
-En los expedientes de reconocimiento de prestaciones sociales y otros expedientes relacionados con las mismas, gestionados por el Instituto de Mayores y Servicios Sociales, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes:
+En los expedientes de reconocimiento de prestaciones sociales y otros expedientes relacionados con las mismas, gestionados por el Instituto de Mayores y Servicios Sociales, los extremos adicionales a que se refiere el apartado primero.1. f) del presente Acuerdo serán los siguientes:
 
 1. Expedientes de reconocimiento de pensiones en su modalidad no contributiva.
 
@@ -64,12 +64,16 @@ Que se acompaña liquidación con detalle del número de perceptores y los impor
 
 6.5. Resto de nóminas: Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
 
-7. Transferencia a las Comunidades Autónomas de los importes correspondientes al nivel mínimo de protección garantizado para cada uno de los beneficiarios del Sistema para la autonomía y atención a la dependencia.
+7. Transferencias a las Comunidades Autónomas de los importes correspondientes al nivel mínimo de protección previsto en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.
 
 Que se aporta certificación emitida por el órgano gestor en la que se recojan los datos comunicados por las Comunidades Autónomas, informando de las resoluciones de reconocimiento adoptadas, así como del grado y nivel, y el importe a abonar a cada una de ellas.
 
-8. Transferencia a las Comunidades Autónomas de los importes correspondientes al nivel acordado de protección previsto en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia: se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
+8. Transferencias a las Comunidades Autónomas de los importes correspondientes al nivel acordado de protección previsto en la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia:
+
+En los convenios a suscribir se comprobarán los extremos que resulten de aplicación previstos en el Acuerdo del Consejo de Ministros de 15 de junio de 2021, respecto al ejercicio de la función interventora en régimen de requisitos básicos en el ámbito de convenios y trasferencias a comunidades autónomas realizadas de conformidad con el artículo 86 de la Ley General Presupuestaria.
 
 9. Abono de las cotizaciones asumidas por la Administración General del Estado de los cuidadores no profesionales de las personas en situación de dependencia. Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo.
 
 10. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica el primer párrafo y los apartados 7 y 8 por el apartado cuarto del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054

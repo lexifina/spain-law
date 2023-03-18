@@ -1,6 +1,6 @@
 ## Trigésimo octavo.
 
-En los expedientes de prestaciones complementarias a que se refiere la disposición transitoria sexta de la Ley 21/1986, de 23 de diciembre, de Presupuestos Generales del Estado para 1987, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes:
+En los expedientes de prestaciones complementarias a que se refiere la disposición transitoria sexta de la Ley 21/1986, de 23 de diciembre, de Presupuestos Generales del Estado para 1987, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes:
 
 1. Expedientes de reconocimiento de pensiones:
 
@@ -91,5 +91,7 @@ Comprobación aritmética, efectuando el cuadre del total de la nómina con el q
 Se comprobarán exclusivamente los extremos contenidos en el apartado Primero del presente acuerdo.
 
 4. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado 2 del acuerdo publicado por Resolución de 18 de noviembre de 2019. Ref. BOE-A-2019-16786

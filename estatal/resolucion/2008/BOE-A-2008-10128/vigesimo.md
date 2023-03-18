@@ -1,6 +1,6 @@
 ## Vigésimo.
 
-Para los expedientes de convenios celebrados con Entidades Colaboradoras en el marco de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.g) del presente acuerdo serán los siguientes:
+Para los expedientes de convenios celebrados con Entidades Colaboradoras en el marco de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los extremos adicionales a que se refiere el apartado primero.1.f) del presente acuerdo serán los siguientes:
 
 1. Suscripción de convenios con Entidades Colaboradoras:
 
@@ -29,6 +29,8 @@ d) Que existe, en su caso, el informe favorable del Ministerio de Economía y Ha
 a) Para aquellas subvenciones en que su normativa reguladora prevea que las entidades colaboradoras deben aportar garantías, que se acredita la existencia de dichas garantías.
 
 b) En su caso, acreditación, en la forma prevista en el artículo 58.Dos de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, de que los beneficiarios de préstamos y anticipos se encuentran al corriente del pago de las obligaciones de reembolso de cualesquiera otros préstamos o anticipos concedidos anteriormente con cargo a los Presupuestos Generales del Estado.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado 13 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.
 

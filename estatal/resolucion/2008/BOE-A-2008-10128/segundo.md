@@ -1,6 +1,6 @@
 ## Segundo.
 
-En los expedientes de contratación de personal laboral, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
+En los expedientes de contratación de personal laboral, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
 
 1. Propuesta de contratación de personal laboral fijo:
 
@@ -43,5 +43,7 @@ c) La existencia de certificado expedido por órgano competente en el que se det
 a) Autorización conjunta de los Ministerios de Economía y Hacienda y de Política Territorial y Administración Pública.
 
 b) Que la duración del contrato no supera el plazo previsto en la legislación vigente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-705
 
 > Se modifica por el apartado 2 del acuerdo publicado por Resolución de 4 de julio de 2011. Ref. BOE-A-2011-11643.

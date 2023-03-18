@@ -1,6 +1,6 @@
 ## Trigésimo séptimo.
 
-En los expedientes de prestaciones económicas y otros expedientes relacionados con las mismas, gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
+En los expedientes de prestaciones económicas y otros expedientes relacionados con las mismas, gestionados por las Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
 
 I. Requisitos comunes
 
@@ -507,6 +507,8 @@ b) Que se aporta por cada régimen y prestación relación nominal de las altas,
 Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente Acuerdo, que resulten de aplicación.
 
 7. El resto de las obligaciones reflejadas en las nóminas, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado primero del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. Ref. BOE-A-2021-10414#pr
 

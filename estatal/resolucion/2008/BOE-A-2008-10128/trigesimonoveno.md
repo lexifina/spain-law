@@ -1,6 +1,6 @@
 ## Trigésimo noveno.
 
-En los expedientes de prestaciones gestionadas por la Oficina de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico, los extremos adicionales a que se refiere el apartado Primero.1.g) del presente acuerdo serán los siguientes:
+En los expedientes de prestaciones gestionadas por la Oficina de Gestión de Prestaciones Económicas y Sociales del Síndrome Tóxico, los extremos adicionales a que se refiere el apartado Primero.1.f) del presente acuerdo serán los siguientes:
 
 1. Expedientes de reconocimiento de las prestaciones:
 
@@ -31,5 +31,7 @@ Que el causante tiene la condición de afectado por el Síndrome Tóxico.
 2. Nóminas de las prestaciones anteriores:
 
 Se comprobarán exclusivamente los extremos contenidos en el apartado Primero del presente acuerdo, que sean de aplicación.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado 3 del acuerdo publicado por Resolución de 18 de noviembre de 2019. Ref. BOE-A-2019-16786

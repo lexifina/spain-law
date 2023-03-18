@@ -1,6 +1,6 @@
 ## Tercero.
 
-En las nóminas de retribuciones del personal al servicio de la Administración del Estado y sus organismos autónomos y Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
+En las nóminas de retribuciones del personal al servicio de la Administración del Estado y sus organismos autónomos y Entidades gestoras y Servicios comunes de la Seguridad Social, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
 
 1. Que las nóminas estén firmadas por el Habilitado u órgano responsable de su formación en el caso de la Seguridad Social y se proponen para su autorización al órgano competente.
 
@@ -15,3 +15,5 @@ b) Personal en régimen estatutario de nuevo ingreso: Acuerdo de nombramiento, d
 c) Personal laboral de nuevo ingreso: copia del plan o del expediente de contratación sobre el que fue ejercida la fiscalización del gasto, y del contrato formalizado en todo caso.
 
 d) El resto de las obligaciones reflejadas en la nómina, así como los actos que las generen, se incluirán en el ámbito de las actuaciones propias del control financiero permanente.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054

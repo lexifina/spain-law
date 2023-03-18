@@ -1,6 +1,6 @@
 ## Cuadragésimo.
 
-En los expedientes del Seguro Escolar, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo serán los siguientes:
+En los expedientes del Seguro Escolar, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo serán los siguientes:
 
 1. Requisitos comunes a los expedientes de prestaciones del Seguro Escolar:
 
@@ -65,6 +65,8 @@ b) Que la cuantía de los servicios y prestaciones a abonar al centro sanitario 
 3. Expedientes relativos al premio de cobranza del Seguro Escolar:
 
 Se comprobarán exclusivamente los extremos contenidos en el apartado primero del presente acuerdo, que resulten de aplicación.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica por el apartado segundo del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. Ref. BOE-A-2021-10414#se
 

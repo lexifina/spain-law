@@ -1,6 +1,6 @@
 ## Decimoséptimo.
 
-En los expedientes relativos a negocios patrimoniales, los extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo, serán los siguientes:
+En los expedientes relativos a negocios patrimoniales, los extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo, serán los siguientes:
 
 1. Adquisición de bienes inmuebles por la Administración General del Estado:
 
@@ -30,7 +30,7 @@ c) En caso de adquisición por concurso, cuando no se adjudique el contrato de a
 
 B.2 Aprobación del compromiso de gasto por el Departamento interesado. Que existe acuerdo de adquisición del Ministro de Economía y Hacienda o autoridad en quien tenga delegada la competencia, fiscalizado de conformidad por la Intervención Delegada en el Ministerio de Economía y Hacienda.
 
-2. Adquisición por la Administración General del Estado de bienes inmuebles sitos en el extranjero con cargo al Presupuesto del Ministerio de Asuntos Exteriores y de Cooperación. La fiscalización se llevará a cabo por la Intervención Delegada en dicho Departamento y consistirá en comprobar, como extremos adicionales a que se refiere el apartado primero.1.g) del presente Acuerdo, los siguientes:
+2. Adquisición por la Administración General del Estado de bienes inmuebles sitos en el extranjero con cargo al Presupuesto del Ministerio de Asuntos Exteriores y de Cooperación. La fiscalización se llevará a cabo por la Intervención Delegada en dicho Departamento y consistirá en comprobar, como extremos adicionales a que se refiere el apartado primero.1.f) del presente Acuerdo, los siguientes:
 
 A) Aprobación del gasto.
 
@@ -138,7 +138,7 @@ c) En el caso de que se refiera a edificios administrativos, que existe informe 
 
 5.3 Reconocimiento de la obligación. Iguales requisitos que los exigidos para la Administración General del Estado.
 
-6. En las aportaciones de capital con cargo a los Presupuestos Generales del Estado a sociedades mercantiles estatales, así como a entidades públicas empresariales y demás entidades y fondos del sector público, se comprobará, en el momento del compromiso de gasto, como extremo adicional a que se refiere el apartado primero.1.g) del presente Acuerdo, que existe el informe de la Secretaría de Estado de Presupuestos y Gastos a que se refiere el artículo 66 de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
+6. En las aportaciones de capital con cargo a los Presupuestos Generales del Estado a sociedades mercantiles estatales, así como a entidades públicas empresariales y demás entidades y fondos del sector público, se comprobará, en el momento del compromiso de gasto, como extremo adicional a que se refiere el apartado primero.1.f) del presente Acuerdo, que existe el informe de la Secretaría de Estado de Presupuestos y Gastos a que se refiere el artículo 66 de la Ley 62/2003, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
 
 7. En los expedientes de adquisición de bienes inmuebles pertenecientes al Patrimonio Sindical Acumulado de acuerdo con la Ley 4/1986, de 8 de enero:
 
@@ -158,7 +158,7 @@ b) Cuando se proponga como procedimiento de adquisición del bien inmueble la ad
 
 c) En caso de adquisición por concurso, cuando no se adjudique el contrato de acuerdo con la propuesta formulada por la Mesa, que existe decisión motivada del órgano competente para la adjudicación.
 
-8. En los expedientes relativos a negocios patrimoniales de la Seguridad Social, los extremos adicionales a que se refiere al apartado primero.1.g) del presente acuerdo, serán los siguientes:
+8. En los expedientes relativos a negocios patrimoniales de la Seguridad Social, los extremos adicionales a que se refiere al apartado primero.1.f) del presente acuerdo, serán los siguientes:
 
 8.1 Adquisición de bienes inmuebles a título oneroso por las Entidades gestoras y Servicios comunes de la Seguridad Social (salvo Instituto Nacional de Gestión Sanitaria).
 
@@ -275,6 +275,8 @@ b) Que, en su caso, existe informe del servicio Jurídico sobre los aspectos jur
 Que se aporta factura por el arrendador de acuerdo con lo previsto en el Real Decreto 1496/2003, de 28 de noviembre, por el que se aprueba el Reglamento que regula las obligaciones de facturación y se modifica el Reglamento del Impuesto sobre el Valor Añadido.
 
 8.5 Propuesta de adquisición de activos financieros mediante materialización de los fondos depositados en la cuenta especial del Fondo de Prevención y Rehabilitación: Que existe Acuerdo del Consejo de Ministros autorizando la adquisición.
+
+> Se modifican la referencias hechas al apartado primero.1.g) por las hechas al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
 
 > Se modifica el punto 6 por el apartado cuarto del Acuerdo del Consejo de Ministros de 15 de junio de 2021, publicado por Resolución de 16 de junio de 2021. Ref. BOE-A-2021-10415#cu
 

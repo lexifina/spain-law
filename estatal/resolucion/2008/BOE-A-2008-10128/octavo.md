@@ -1,6 +1,6 @@
 ## Octavo.
 
-En los expedientes de gasto derivados de expropiaciones forzosas, los extremos adicionales a los que se refiere el apartado primero. 1.g) del presente acuerdo serán los siguientes:
+En los expedientes de gasto derivados de expropiaciones forzosas, los extremos adicionales a los que se refiere el apartado primero. 1.f) del presente acuerdo serán los siguientes:
 
 1. Depósitos previos:
 
@@ -27,3 +27,5 @@ b) Que existe informe de los servicios técnicos correspondientes en relación c
 4. En los expedientes de gasto en los que el justiprecio haya sido fijado por el Jurado Provincial de Expropiación u órgano de análoga naturaleza, no se efectuará la comprobación de ningún extremo adicional.
 
 5. Pago de intereses de demora por retrasos en la determinación del justiprecio y en el pago del mismo, no se efectuará la comprobación de ningún extremo adicional.
+
+> Se modifica la referencia hecha al apartado primero.1.g) por la hecha al apartado primero.1.f), por el apartado séptimo del Acuerdo del Consejo de Ministros de 14 de marzo de 2023, publicado por Resolución de 15 de marzo de 2023. Ref. BOE-A-2023-7054
