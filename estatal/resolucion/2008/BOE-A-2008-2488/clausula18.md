@@ -1,3 +1,7 @@
-## Cláusula 18. Fuerza mayor.
+## Cláusula 18. Ley aplicable y fuero.
 
-El Banco de España no asume ninguna responsabilidad por los daños y perjuicios que las entidades que se adhieran a estas cláusulas generales pudieran sufrir como consecuencia de hechos o acontecimientos constitutivos de fuerza mayor o caso fortuito, incluidos huelgas (sean del personal propio o no), guerras, actos terroristas, revuelta social, incendio, inundación, escasez de combustible, de energía eléctrica, imposibilidad de transporte, desastre que afecte a la disponibilidad de medios informáticos, actos o resoluciones de autoridades públicas o cualquier otra causa que escape al control razonable del Banco de España.
+La Ley aplicable a las presentes cláusulas generales es la española. Para cuantas acciones y reclamaciones puedan derivarse de dichas cláusulas generales, serán competentes los juzgados y tribunales de Madrid (capital), renunciando tanto el Banco de España como la entidad miembro a cualquier otro fuero que pudiera corresponderles, y pactando como lugar del cumplimiento de las obligaciones el domicilio de Banco de España, sito en el número 48 de la calle de Alcalá, de Madrid.
+
+> Se renumera por el apartado primero.12 de la Resolución de 7 de marzo de 2023. Ref. BOE-A-2023-6455
+
+> Su anterior numeración era cláusula 19.

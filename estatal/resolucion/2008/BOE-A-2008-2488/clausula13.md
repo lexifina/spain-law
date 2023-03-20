@@ -10,27 +10,27 @@
 
 a) Admisión a trámite de la solicitud de concurso de acreedores de la entidad o adopción del auto de declaración del mismo.
 
-b) La entidad no cumple los criterios establecidos para ser miembro del Servicio, por haberse terminado o suspendido su participación (directa o indirecta) en TARGET2 o no disponer ya del nivel de solvencia y capacidad técnica o jurídica suficiente a juicio del Banco de España.
+b) La entidad no cumple los criterios establecidos para ser miembro del Servicio por haberse terminado o suspendido su participación en TARGET-Banco de España o en otro sistema integrante de TARGET; por haberse cerrado la DCA RTGS que hubiera designado; por carecer de la oportuna autorización para que se puedan liquidar en la DCA RTGS que hubiera designado las posiciones de efectivo resultantes de la liquidación de sus operaciones registradas en el Servicio, incluyendo, entre otras, por haber dejado de tener acceso a la DCA RTGS que hubiera designado como titular de BIC accesible o mediante acceso de cuenta múltiple; o por no disponer del nivel de solvencia y capacidad técnica o jurídica suficiente a juicio del Banco de España.
 
-c) Revocación de la autorización concedida a la entidad, de acuerdo con lo previsto en el artículo 57.bis de la Ley de 31 de diciembre de 1946, de ordenación bancaria.
+c) Revocación de la autorización concedida a la entidad o prohibición de iniciar nuevas operaciones en territorio español, de acuerdo con lo previsto en el artículo 8 de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito, o, en su caso, de acuerdo con lo previsto en la normativa de la correspondiente jurisdicción.
 
 d) Adopción, con arreglo a la legislación de otro Estado, de una medida de naturaleza universal dirigida al saneamiento o liquidación de la entidad o revocación o suspensión de la autorización que tenga concedida la misma para la realización de su actividad.
 
 e) Incumplimiento por parte de la entidad miembro del Servicio de alguna de las obligaciones previstas en estas Cláusulas Generales o en las correspondientes aplicaciones técnicas de desarrollo.
 
-f) Declaración escrita del participante sobre su incapacidad para pagar todas o parte de sus deudas o para cumplir sus obligaciones.
+f) Declaración escrita de la entidad miembro sobre su incapacidad para pagar todas o parte de sus deudas o para cumplir sus obligaciones.
 
-g) Celebración por el participante de un acuerdo o convenio general voluntario con sus acreedores.
+g) Celebración por la entidad miembro de un acuerdo o convenio general voluntario con sus acreedores.
 
-h) Que el participante sea insolvente o incapaz de pagar sus deudas a juicio del Banco de España.
+h) Que la entidad miembro sea insolvente o incapaz de pagar sus deudas a juicio del Banco de España.
 
-i) Que el saldo acreedor de la cuenta del módulo de pagos donde se asientan las posiciones de efectivo o todos o buena parte de los activos de la entidad miembro estén sujetos a una orden de bloqueo, embargo, ejecución o cualquier otro procedimiento destinado a proteger el interés público o los derechos de los acreedores de la entidad.
+i) Que el saldo acreedor de la DCA RTGS donde se asientan las posiciones de efectivo o todos o buena parte de los activos de la entidad miembro estén sujetos a una orden de bloqueo, embargo, ejecución o cualquier otro procedimiento destinado a proteger el interés público o los derechos de los acreedores de la entidad.
 
 j) Que sean incorrectas o falsas cualesquiera aseveraciones sustanciales o manifestaciones precontractuales que la entidad ha formulado o se presume que ha formulado en virtud de la ley aplicable.
 
 k) La cesión por la entidad de todos o una parte sustancial de sus activos.
 
-l) Si se produce cualquier otra circunstancia relacionada con la entidad miembro que, a juicio del Banco de España, pone en peligro la estabilidad, fiabilidad y seguridad generales del Servicio, de TARGET2-Banco de España o de otro sistema integrante de TARGET2, o el desempeño por el Banco de España de sus funciones conforme a la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, y a los estatutos del Sistema Europeo de Bancos Centrales y del Banco Central Europeo.
+l) Si se produce cualquier otra circunstancia relacionada con la entidad miembro que, a juicio del Banco de España, pone en peligro la estabilidad, fiabilidad y seguridad generales del Servicio, de TARGET-Banco de España o de otro sistema integrante de TARGET, o el desempeño por el Banco de España de sus funciones conforme a la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, y a los Estatutos del Sistema Europeo de Bancos Centrales y del Banco Central Europeo.
 
 5. Terminada o suspendida la participación de una entidad en el Servicio, el Banco de España no casará ni registrará nuevas operaciones de la misma. En caso de que existieran operaciones casadas y registradas con anterioridad a la terminación o suspensión de la participación y aún pendientes de liquidación, el Banco de España podrá optar entre:
 
@@ -41,3 +41,5 @@ Liquidar tales operaciones de conformidad con lo previsto en las presentes Cláu
 6. Si el Banco de España suspende o pone término a la participación de una entidad en el Servicio conforme a lo dispuesto en los apartados anteriores, informará de ello inmediatamente a dicha entidad y a las demás entidades miembros del Servicio.
 
 7. Al terminar la participación, los deberes de confidencialidad que se establecen en la cláusula 16 siguiente seguirán vigentes durante los cinco años posteriores a la fecha de terminación.
+
+> Se modifica el apartado 4 por el apartado primero.9 de la Resolución de 7 de marzo de 2023. Ref. BOE-A-2023-6455

@@ -1,3 +1,7 @@
-## Cláusula 19. Ley aplicable y fuero.
+## Cláusula 19. Domicilio.
 
-La Ley aplicable a las presentes cláusulas generales es la española. Para cuantas acciones y reclamaciones puedan derivarse de dichas cláusulas generales, serán competentes los juzgados y tribunales de Madrid (capital), renunciando tanto el Banco de España como la entidad miembro a cualquier otro fuero que pudiera corresponderles, y pactando como lugar del cumplimiento de las obligaciones el domicilio de Banco de España, sito en el número 48 de la calle de Alcalá, de Madrid.
+Para todos los efectos de notificaciones y requerimientos, se considerará como domicilio de la entidad el que figure en los registros oficiales que mantiene el Banco de España en relación con la misma.
+
+> Se renumera por el apartado primero.12 de la Resolución de 7 de marzo de 2023. Ref. BOE-A-2023-6455
+
+> Su anterior numeración era cláusula 20.
