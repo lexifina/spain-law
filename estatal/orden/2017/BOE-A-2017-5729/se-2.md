@@ -10,4 +10,6 @@ c) Los currículos de los cursos de actualización para el desempeño de los com
 
 d) Los currículos de los cursos para la obtención del diploma de estado mayor y de los cursos militares que se realicen en función de lo establecido en el artículo 20.2 del Real Decreto 339/2015, de 30 de abril, tendrán, con carácter general, al menos 60 ECTS, de los que entre 6 y 30 ECTS podrán dedicarse a la elaboración y defensa pública de un trabajo de fin de curso.
 
-e) Los resultados de aprendizaje de estos deberán ajustarse a lo dispuesto en el artículo 7 del Real Decreto 1027/2011, de 15 de julio.
+e) Las competencias generales de éstos deberán ajustarse a lo dispuesto en el artículo 7 del Real Decreto 1027/2011, de 15 de julio.
+
+> Se modifica la letra e) por el art. 1.4 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259

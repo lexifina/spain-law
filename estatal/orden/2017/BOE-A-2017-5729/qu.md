@@ -6,4 +6,6 @@ a) Estas enseñanzas se orientan tanto a los profesionales de las Fuerzas Armada
 
 b) Como unidad de medida que representa el cumplimiento de los objetivos previstos en los currículos que conforman los cursos de Altos Estudios de la Defensa Nacional, se utilizará el Sistema Europeo de Transferencia de Créditos (ECTS).
 
-c) Los resultados de aprendizaje de estos deberán ajustarse a lo dispuesto en el artículo 7 del Real Decreto 1027/2011, de 15 de julio, por el que se establece el Marco Español de Cualificaciones para la Educación Superior.
+c) Las competencias generales de éstos deberán ajustarse a lo dispuesto en el artículo 7 del Real Decreto 1027/2011, de 15 de julio, por el que se establece el Marco Español de Cualificaciones para la Educación Superior.
+
+> Se modifica la letra c) por el art. 1.3 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259

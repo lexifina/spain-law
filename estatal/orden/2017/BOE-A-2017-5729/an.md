@@ -10,17 +10,19 @@
 
 – Denominación.
 
-– Tipo de curso atendiendo a su finalidad.
+– Objetivo u objetivos del curso.
 
-– Objetivos del curso.
+– Tipo de curso atendiendo a su finalidad.
 
 – Categoría a la que pertenece A, B, C, D o E (cuando proceda).
 
-– Duración expresada en créditos ECTS u horas (en los cursos indistintos la unidad de medida será la correspondiente al perfil de ingreso con el menor empleo).
+– Duración expresada en créditos ECTS u horas con su equivalente en ECTS en los casos que esta conversión sea posible (en los cursos indistintos la unidad de medida será la correspondiente al perfil de ingreso con el menor empleo).
 
 – Idioma en el que se imparte el curso.
 
-– Centro Docente Militar responsable del desarrollo del curso.
+– Centro docente militar responsable del desarrollo del curso.
+
+– Centro docente militar o unidad, centro u organismo en el que se desarrolla el curso.
 
 – Modalidad de enseñanza, presencial, semipresencial, o no presencial.
 
@@ -28,19 +30,23 @@
 
 2. Justificación del curso basada en la necesidad organizativa u operativa o en los intereses de la defensa nacional.
 
-3. El perfil de egreso, expresado en competencias o resultados de aprendizaje que el alumno debe adquirir al finalizar el proceso formativo.
+3. El perfil de egreso, expresado en competencias y/o resultados de aprendizaje que el alumno debe adquirir al finalizar el proceso formativo.
 
-4. Sistema de admisión al curso: perfil de ingreso y los sistemas de selección. Expresado en las competencias previas que debe reunir el alumno de nuevo ingreso.
+4. Sistema de admisión al curso:
 
-– Categoría y empleo militar.
+– Perfil de ingreso y los sistemas de selección de alumnos, incluyendo los requisitos del personal militar o civil al que va dirigido.
 
-– Formación previa incluido nivel de idiomas (cuando proceda).
+– Empleo o categoría (en el caso de personal civil).
 
-– Condiciones físicas necesarias así como, la posibilidad y condiciones de asistencia del personal «Apto con limitaciones» (cuando proceda).
+– Formación previa (incluido nivel de idiomas, cuando proceda) y experiencia.
 
-– Sistema de Selección: Concurso, Concurso-oposición, antigüedad, o designación directa.
+– Condiciones físicas necesarias (si las hubiera), así como la posibilidad de asistencia de personal «Apto con limitaciones» (cuando proceda).
 
-– Apoyo y orientación al alumnado.
+– Sistema de selección.
+
+– Apoyo y orientación al alumno.
+
+– Reconocimientos, convalidaciones y homologaciones.
 
 5. Plan de estudios.
 
@@ -80,6 +86,10 @@ Estructura general del Plan de Estudios.
 
 – Mecanismos de publicidad del curso.
 
+– Necesidad de evaluación de las competencias profesionales adquiridas.
+
+En los centros docentes militares que tengan implantado un sistema de aseguramiento interno de la calidad según lo establecido en el Real Decreto 93/2022, de 1 de febrero, por el que se aprueba el Reglamento de la calidad de la enseñanza militar y de su evaluación, no será necesario incluir los puntos anteriores, sino que bastará con hacer referencia a la existencia de dicho sistema de aseguramiento interno de la calidad.
+
 10. Calendario de implantación.
 
 Cronograma del proceso de puesta en marcha del nuevo plan de estudio con indicaciones, referidas al número de alumnos y trayectorias o itinerarios con respecto al tiempo en que se implanten.
@@ -91,3 +101,7 @@ Anexos:
 – Diligencia de verificación por parte de la Subdirección General de Enseñanza Militar.
 
 – Otros.
+
+11. Modelo de documento acreditativo de superación del curso.
+
+> Se modifican los apartados 1, 3, 4 y 9 y se añade el 11 por el art. 1.15 y 16 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259

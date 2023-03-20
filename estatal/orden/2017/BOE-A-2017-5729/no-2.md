@@ -8,8 +8,10 @@ b) Como unidad de medida que representa el cumplimiento de los objetivos previst
 
 c) Con carácter general, para cada especialidad fundamental que conforman las escalas de tropa y marinería, se diseñarán y redactarán los distintos módulos, de forma similar o lo más parecida posible a los módulos correspondientes al Título de Técnico de grado medio de Formación Profesional que más se adecue a la especialidad fundamental.
 
-d) Los resultados de aprendizaje deberán, en todo caso, ajustarse a lo dispuesto para los ciclos formativos de grado medio en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+d) Las competencias generales deberán, en todo caso, ajustarse a lo dispuesto para los ciclos formativos de grado medio en el Real Decreto 1147/2011, de 29 de julio, por el que se establece la ordenación general de la formación profesional del sistema educativo.
 
 e) Los currículos de los cursos de actualización para el ascenso no superarán las 600 horas.
 
 f) Determinados cursos específicos cuya finalidad sea cubrir necesidades derivadas de la preparación de la fuerza para su empleo en operaciones podrán tener menor duración de la indicada en esta norma.
+
+> Se modifica la letra d) por el art. 1.7 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259

@@ -22,13 +22,13 @@ b) En la enseñanza de perfeccionamiento de suboficiales y de tropa y marinería
 
 3.º También podrán ser evaluadas y acreditadas las competencias profesionales adquiridas por los militares a través de la experiencia profesional asociada a la instrucción y el adiestramiento. En este supuesto, no podrá convalidarse más del 20% de los contenidos totales del curso.
 
-4.º Los módulos convalidados se calificarán con un 5, a efectos de obtención de la nota media.
+4.º Cada módulo convalidado se calificará con arreglo al expediente académico aportado en la documentación acreditativa de haberlo superado.
 
 c) En la enseñanza de Altos Estudios de la Defensa Nacional, lo especificado en el punto 2.a) para la enseñanza de perfeccionamiento de oficiales.
 
 3. El procedimiento para el reconocimiento de créditos o convalidaciones de módulos, materias y asignaturas será el siguiente:
 
-a) Con la solicitud del curso se remitirá la correspondiente petición adjuntando certificación académica personal de los estudios cursados y los programas docentes correspondientes a los créditos superados siempre que dichos estudios no hayan sido cursados en el mismo centro docente militar responsable del desarrollo del curso.
+a) Una vez nombrado alumno, el interesado remitirá la correspondiente petición adjuntando certificación académica personal de los estudios cursados y los programas docentes correspondientes a los créditos superados siempre que dichos estudios no hayan sido cursados en el mismo centro docente militar responsable del desarrollo del curso.
 
 b) El impreso de solicitud se incluirá en la publicación de la convocatoria y estará disponible en Intranet. Su cumplimentación y envío podrá efectuarse por medios telemáticos debiendo indicarse entonces la dirección de correo electrónico.
 
@@ -39,3 +39,5 @@ d) Las resoluciones podrán ser recurridas en alzada ante el Director General de
 e) El resultado será comunicado al interesado antes del inicio del curso y especificará la denominación del módulo, materia o asignatura objeto de reconocimiento o convalidación.
 
 f) Cuando el reconocimiento afecte a una parte de un módulo o materia, la resolución deberá indicar expresamente las asignaturas o unidades formativas pertenecientes al módulo o materia que el interesado deberá cursar tras el reconocimiento propuesto.
+
+> Se modifica el apartado 2.b).4º y el apartado 3.a) por el art. 1.14 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259

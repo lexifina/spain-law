@@ -8,8 +8,10 @@ b) Como unidad de medida que representa el cumplimiento de los objetivos previst
 
 c) Los currículos de los cursos de actualización para el ascenso no superarán los 48 ECTS, y podrán concluir con la elaboración y defensa pública de un trabajo de fin de curso, que tendrá entre un 10% y un 25% de la carga de trabajo.
 
-d) Los currículos de los cursos de especialización no superarán los 120 ECTS y podrán concluir con la elaboración y defensa pública de un trabajo de fin de curso, que tendrá entre un 10% y un 25% de la carga de trabajo.
+d) Los currículos de los cursos de especialización no superarán, como norma general, los 120 ECTS y podrán concluir con la elaboración y defensa pública de un trabajo de fin de curso, que tendrá entre un 10 % y un 25 % de la carga de trabajo.
 
 e) Los currículos de los cursos informativos tendrán, con carácter general, entre 5 y 20 ECTS.
 
 f) Determinados cursos específicos cuya finalidad sea cubrir necesidades derivadas de la preparación de la fuerza para su empleo en operaciones podrán tener menor duración de la indicada en esta norma.
+
+> Se modifica la letra d) por el art. 1.5 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259

@@ -18,10 +18,12 @@ Cuando se considere necesario, se incorporará:
 
 e) Los currículos de los cursos de actualización para el ascenso no superarán las 600 horas.
 
-f) Los currículos de los cursos de especialización no superarán las 1000 horas.
+f) Los currículos de los cursos de especialización no superarán, como norma general, las 1.000 horas.
 
-g) Los resultados de aprendizaje de estos deberán ajustarse a lo dispuesto en el artículo 5 del Real Decreto 1027/2011, de 15 de julio.
+g) Las competencias generales de éstos deberán ajustarse a lo dispuesto en el artículo 5 del Real Decreto 1027/2011, de 15 de julio.
 
 h) Los currículos de los cursos informativos tendrán, con carácter general, entre 100 y 400 horas.
 
 i) Determinados cursos específicos cuya finalidad sea cubrir necesidades derivadas de la preparación de la fuerza para su empleo en operaciones podrán tener menor duración de la indicada en esta norma.
+
+> Se modifica las letras f) y g) por el art. 1.6 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259
