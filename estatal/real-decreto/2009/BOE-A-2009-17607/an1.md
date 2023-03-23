@@ -2,6 +2,8 @@
 
 ## Requisitos esenciales
 
+> Téngase en cuenta que las obligaciones relativas a la vigilancia y las investigaciones clínicas previstas en los correspondientes anexos se derogan con efectos a partir de la fecha posterior de las mencionadas en el apartado 3.d) del artículo 123, del Reglamento (UE) 2017/745 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, y la notificación de certificados previstas en los correspondientes anexos se derogan con efectos a partir de los dieciocho meses después de la fecha posterior de las mencionadas en el apartado 3.d) del artículo 123, del Reglamento (UE) 2017/745 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, según establece la disposición derogatoria única.1.b) del Real Decreto 192/2023, de 21 de marzo. Ref. BOE-A-2023-7416#dd
+
 I. Requisitos generales
 
 1. Los productos deberán diseñarse y fabricarse de forma tal que su utilización no comprometa el estado clínico ni la seguridad de los pacientes cuando se implanten en las condiciones y con las finalidades previstas.

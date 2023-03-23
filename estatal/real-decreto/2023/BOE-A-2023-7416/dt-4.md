@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Validez de los procedimientos de autorización, certificación y comunicación.
+
+Los procedimientos de autorización, certificación y comunicación realizados con arreglo al Real Decreto 634/1993, de 3 de mayo, sobre productos sanitarios implantables activos, al Real Decreto 414/1996, de 1 de marzo, por el que se regulan los productos sanitarios, al Real Decreto 1591/2009, de 16 de octubre, por el que se regulan los productos sanitarios, y al Real Decreto 1616/2009, de 26 de octubre, por el que se regulan los productos sanitarios implantables activos, conservan su validez.

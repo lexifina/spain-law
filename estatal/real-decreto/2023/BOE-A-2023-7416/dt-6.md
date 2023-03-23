@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Eudamed.
+
+De acuerdo con el artículo 123.3.d) del Reglamento (UE) 2017/745 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, hasta que Eudamed sea plenamente operativa conforme a lo dispuesto en el artículo 34.3, las correspondientes disposiciones del Real Decreto 1591/2009, de 16 de octubre, y del Real Decreto 1616/2009, de 26 de octubre, seguirán siendo de aplicación a efectos de cumplir las obligaciones establecidas y, en particular, la información referente a la comunicación de comercialización y puesta en servicio, registro de responsables de la puesta en el mercado, investigaciones clínicas, notificaciones de certificados y notificaciones de vigilancia.
