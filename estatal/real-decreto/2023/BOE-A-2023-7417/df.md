@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del Reglamento General de Policía de Espectáculos Públicos y Actividades Recreativas, aprobado por el Real Decreto 2816/1982, de 27 de agosto.
+
+Se añade una nueva letra f) al artículo 51 del Reglamento General de Policía de Espectáculos Públicos y Actividades Recreativas, aprobado por el Real Decreto 2816/1982, de 27 de agosto, con la siguiente redacción:
+
+> «f) No discriminar a las personas usuarias por razón de raza, lugar de procedencia, sexo, discapacidad, edad, orientación sexual, religión, opinión o cualquier otra circunstancia personal o social. Por discriminación por motivos de discapacidad se entenderá cualquier distinción, exclusión o restricción que tenga el propósito o el efecto de obstaculizar o dejar sin efecto el reconocimiento, goce o ejercicio, en igualdad de condiciones, de todos los derechos reconocidos a las personas usuarias. En concreto, el ejercicio del derecho de admisión no puede utilizarse para impedir, restringir o condicionar el acceso de nadie por motivo de discapacidad o cualquier otra discriminación.»
