@@ -45,17 +45,39 @@ Las claves 01 y 07, deben utilizarse exclusivamente en las operaciones descritas
 
 * Al régimen de depósito distinto del aduanero pueden vincularse exclusivamente las mercancías importadas previstas en el artículo 65 de la Ley del IVA. Como excepción, no se utilizará el régimen 07 sino el 49 con la clave de exención 112 cuando se trate de mercancías procedente de territorios fiscales especiales y la importación esté exenta por vinculación a DDA aduanero.
 
-C) Vinculación a DDA de mercancía distinta de la del ámbito objetivo delos Impuestos Especiales.
+C) Depósito distinto del aduanero de mercancía distinta de la del ámbito objetivo de los impuestos especiales.
+
+C.1) Vinculación a DDA.
 
 | Descripción | Tipo | Régimen |
 | --- | --- | --- |
-| Mercancía perteneciente a la Unión que es objeto de vinculación al DDA por realizarse una entrega de bienes o una adquisición intracomunitaria de bienes exentos por el artículo 24.Uno de la Ley 37/1992, reguladora del IVA. | DVD | 73 |
-| Mercancía perteneciente a la Unión procedente de territorios fiscales especiales y que están exentos de IVA por vincularse al DDA (art. 65 b) LIVA). Ejemplo: vinculación de mercancía de Canarias a un DDA de Península (no del ámbito de los IIEE). | DUA | 49xx 112 |
-| Mercancía no perteneciente a la Unión cuya importación está exenta por vinculación al DDA (supuestos del artículo 65 LIVA salvo el previsto en el apartado anterior). | DUA | 07 |
+| Mercancía perteneciente a la Unión que es objeto de vinculación al DDA por realizarse una entrega de bienes o una adquisición intracomunitaria de bienes exenta por el artículo 24.Uno de la Ley 37/1992 reguladora del IVA. | DVD | 95 |
+| Mercancía perteneciente a la Unión procedente de territorios fiscales especiales que es objeto de vinculación al DDA por realizarse una importación a efectos de IVA exenta por el artículo 65 b) de la Ley 37/1992 reguladora del IVA. Ejemplo: vinculación de mercancía de Canarias a un DDA de Península (no del ámbito de los IIEE). | DUA | 49xx 112 |
+| Mercancía no perteneciente a la Unión cuya importación está exenta por vinculación al DDA (supuestos del artículo 65 LIVA). | DUA | 07 |
 | Reimportación de mercancía tras exportación temporal con vinculación a DDA por tratarse de mercancía cuya importación está exenta por el artículo 65 LIVA. | DUA | 61xx 112 |
 | Mercancía en RPA (materia prima modalidad exportación anticipada) con vinculación a DDA por tratarse de mercancía cuya importación está exenta por el artículo 65 LIVA. | DUA | 5111 112 |
 
-En caso de exportación de mercancía vinculada a un DDA con el código 112, deberá declararse el régimen 1007.
+En caso de exportación de mercancía vinculada a un DDA con el código 112, deberá declararse el régimen 10.07.
+
+C.2) Despacho a consumo de mercancía previamente despachada a libre práctica y vinculada a DDA (artículo 18.tres LIVA).
+
+De conformidad con lo dispuesto en el artículo 18 apartados dos y tres de la LIVA, la ultimación del régimen de depósito distinto del aduanero de los bienes que no sean objeto de impuestos especiales previamente importados y vinculados a dicho régimen, a cuya importación se haya aplicado la exención prevista en el artículo 65 de la LIVA, determinará el hecho imponible importación de bienes a efectos de IVA salvo que resulte aplicable alguna de las exenciones establecidas en los artículos 21, 22 o 25 de la LIVA (exportación, operación asimilada a exportación o entrega intracomunitaria).
+
+Por tanto, la salida del DDA con destino península o Baleares de mercancías incluidas en dicho régimen previo despacho a libre práctica (régimen 07) deberá declararse mediante la presentación de un DUA que se cumplimentará conforme a las instrucciones siguientes:
+
+– La declaración de importación deberá presentarse antes de la salida de la mercancía del depósito distinto del aduanero.
+
+No obstante, las ultimaciones que se hayan producido entre el 1 de enero de 2023 y la fecha de publicación de la presente resolución y que no hubieran sido objeto de declaración deberán ser liquidadas por la aduana de control del depósito previa solicitud del titular de las mercancías.
+
+– Las siguientes casillas se cumplimentarán tal y como se indica a continuación:
+
+Casilla 1.1: CO.
+
+Casilla 37 Régimen solicitado: 82.
+
+Casilla 37 Régimen precedente: 07, 49, 95 o 73. El régimen 95 se declarará como precedente únicamente en aquellos casos en los que se hubiera despachado mercancía a libre práctica con inclusión en el régimen de DDA y, durante su permanencia en dicho régimen, la mercancía hubiera sido objeto de una entrega.
+
+Casilla 40: se indicará el MRN del DUA de vinculación a DDA o DVD generado por la venta dentro del DDA.
 
 D) Declaración de exportación.
 
@@ -88,6 +110,8 @@ c) En cuanto en la casilla de destinatario (casilla 8) deberá ir el destinatari
 D.3) Servicios sobre mercancías adquiridas para la exportación
 
 En el caso de los servicios previstos en el artículo 21.3.º de la Ley del IVA, deberá identificarse mediante el código de documento «5008», en la casilla 44 al proveedor establecido en la Unión que ha realizado tales servicios (NIF) y la referencia de la factura expedida por él y exenta por dicho artículo.
+
+> Se modifica el apartado C por el apartado primero.4 de la Resolución de 17 de marzo de 2023. Ref. BOE-A-2023-7502
 
 > Se añade por el que figura en el anexo 7º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.12. Ref. BOE-A-2019-12996
 

@@ -1,6 +1,8 @@
 ## APÉNDICE VIII
 
-## Importación/exportación en Ceuta y Melilla, procedimientos simplificados
+## Importación/exportación en Ceuta y Melilla, procedimientos simplificados para los intercambios comerciales nacionales.
+
+La presente resolución se aplica íntegramente en Ceuta y Melilla sin perjuicio de los procedimientos simplificados previstos en el presente apéndice aplicables exclusivamente a los intercambios comerciales nacionales con dichas ciudades, entendiendo como tales las transacciones comerciales cuyo objeto sea un bien en libre circulación en el territorio aduanero nacional.
 
 A. Importación en Ceuta y Melilla de mercancía que ha sido previamente objeto de declaración de exportación admitida en el resto del territorio nacional con destino a estas ciudades.
 
@@ -135,5 +137,7 @@ Deberá presentarse un DUA completo de acuerdo con las instrucciones del apartad
 – Casilla 1.2: deberá indicarse el código Y.
 
 – Casilla 44: además de las indicaciones habituales, debe figurar el número de la autorización y la referencia de los documentos soporte de la declaración inicial.
+
+> Se modifica el título y se añade a continuación un párrafo, por el apartado primero.3 de la Resolución de 17 de marzo de 2023. Ref. BOE-A-2023-7502
 
 > Se sustituye por el que figura como anexo 5º de la Resolución de 2 de septiembre de 2019, según establece su apartado primero.9. Ref. BOE-A-2019-12996
