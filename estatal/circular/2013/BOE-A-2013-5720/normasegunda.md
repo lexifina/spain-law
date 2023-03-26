@@ -50,13 +50,13 @@ b) Riesgos indirectos: Los riesgos contraídos con los garantes, vendedores de p
 
 3. Los riesgos declarables se deben declarar de forma individualizada a la CIR, es decir, operación a operación. Para ello, las entidades declarantes asignarán a cada operación –o a cada parte en la que se tenga que dividir conforme a lo dispuesto en la norma tercera, apartado 3– un código único, que se debe mantener invariable durante su vida. Dicho código no se podrá reutilizar en el futuro para declarar otras operaciones. Cuando, por motivos de gestión interna, resulte estrictamente necesario, el Banco de España podrá permitir un cambio de código. En este caso, las entidades se atendrán a lo dispuesto en la norma undécima, letra A).
 
-No obstante lo indicado en el párrafo anterior, no se declararán de forma individualizada las operaciones cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a veinticuatro meses), factoring sin recurso cuyo límite acumulado por deudor no supere los 3.000 euros, tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas, o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
+No obstante lo indicado en el párrafo anterior, no se declararán las operaciones cuando se trate de préstamos a plazo (siempre que su finalidad sea el consumo, su importe al inicio de la operación no supere los 3.000 euros y su plazo original sea igual o inferior a veinticuatro meses), factoring sin recurso, tarjetas de crédito, descubiertos, anticipos de pensiones o nóminas o resto de préstamos a la vista, y, además, todos los titulares cumplan los siguientes criterios:
 
-a) pertenezcan al sector institucional hogares o sean sociedades no financieras, o instituciones sin fines de lucro al servicio de los hogares, en las que no participen, en su capital o vía derechos de voto, entidades que tengan la consideración de sector público español, conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera;
+a) Pertenezcan al sector institucional hogares o sean sociedades no financieras, o instituciones sin fines de lucro al servicio de los hogares, en las que no participen, en su capital o vía derechos de voto, entidades que tengan la consideración de sector público español, conforme a lo dispuesto en el artículo 2 de la Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera;
 
 b) no tengan otro tipo de operaciones declarables a la CIR;
 
-c) su riesgo acumulado, directo e indirecto, en la entidad declarante sea inferior a 6.000 euros, y
+c) su riesgo acumulado, directo e indirecto, en la entidad declarante sea inferior a 3.000 euros, y
 
 d) no tengan importes calificados como normales en vigilancia especial o dudosos, o el importe total de las operaciones con dichas calificaciones sea inferior a 100 euros.
 
@@ -67,6 +67,8 @@ d) no tengan importes calificados como normales en vigilancia especial o dudosos
 Por su parte, las sociedades de reafianzamiento no declararán las operaciones en las que reafiancen las garantías financieras y los avales y otras cauciones no financieros prestados por otras entidades declarantes a la CIR.
 
 6. Los préstamos y valores representativos de deuda impagados continuarán declarándose a la CIR hasta la extinción de todos los derechos de la entidad (por prescripción, por condonación o por otras causas) o hasta su recuperación.
+
+> Se modifica el apartado 3 por la norma única.1 de la Circular de 17 de marzo de 2023. Ref. BOE-A-2023-7662
 
 > Se modifica el apartado 1.a).iii) por la norma 2.a) de la Circular de 21 de diciembre de 2018. Ref. BOE-A-2018-17880
 
