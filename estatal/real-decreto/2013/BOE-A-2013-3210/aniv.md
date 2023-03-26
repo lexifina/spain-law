@@ -30,7 +30,7 @@ Sensores, detectores y electrodos:
 
 1d. Mercurio en electrodos de referencia: cloruro de mercurio de bajo contenido en cloruro, sulfato de mercurio y óxido de mercurio.
 
-Otros.
+Otros:
 
 9. Cadmio en láseres de helio y cadmio.
 
@@ -86,13 +86,21 @@ a) soldaduras,
 
 b) revestimientos de terminaciones de componentes eléctricos y electrónicos y de circuitos impresos,
 
-c) conexiones de cables eléctricos, pantallas y conectores cerrados utilizados en:
+c) conexiones de cables eléctricos, pantallas y conectores cerrados
+
+utilizados en:
 
 1) campos magnéticos situados en una esfera de 1 m de radio alrededor del isocentro del imán de los equipos médicos de imagen por resonancia magnética, incluidos los monitores de paciente diseñados para su uso dentro de esa esfera, o
 
 2) campos magnéticos situados como máximo a 1 m de distancia de las superficies externas de los imanes ciclotrónicos y de los imanes para el transporte de los haces y el control de la dirección de estos, utilizados en terapia de partículas.
 
 Expira el 30 de junio de 2020.
+
+3) bobinas para IRM no integradas en relación con las cuales la declaración de conformidad de este modelo se expida por primera vez antes del 23 de septiembre de 2022, o
+
+4) dispositivos de IRM con bobinas integradas, que se utilicen en campos magnéticos situados en una esfera de 1 m de radio alrededor del isocentro del imán de los equipos médicos de imagen por resonancia magnética, en relación con los cuales la declaración de conformidad se expida por primera vez antes del 30 de junio de 2024.
+
+Expira el 30 de junio de 2027.
 
 28. Plomo en soldaduras de montaje de detectores digitales de telururo de cadmio y telururo de cadmio-zinc en circuitos impresos. Expira el 31 de diciembre de 2017.
 
@@ -112,7 +120,7 @@ c) 21 de julio de 2024 para los microscópicos electrónicos y sus accesorios.
 
 32. Plomo en soldaduras en los circuitos impresos de detectores y unidades de adquisición de datos para tomógrafos de emisión de positrones integrados en equipos de imagen por resonancia magnética. Expira el 31 de diciembre de 2019.
 
-33. Plomo en soldaduras sobre circuitos impresos, con componentes electrónicos montados, utilizados en productos sanitarios móviles de las clases IIa y Iib de la Directiva 93/42/CEE del Consejo, de 14 de junio de 1993, relativa a los productos sanitarios, distintos de los desfibriladores portátiles de emergencia. Expira el 30 de junio de 2016 para los productos de la clase Iia y el 31 de diciembre de 2020 para los productos de la clase Iib.
+33. Plomo en soldaduras sobre circuitos impresos, con componentes electrónicos montados, utilizados en productos sanitarios móviles de las clases IIa y IIb de la Directiva 93/42/CEE del Consejo, de 14 de junio de 1993, relativa a los productos sanitarios, distintos de los desfibriladores portátiles de emergencia. Expira el 30 de junio de 2016 para los productos de la clase IIa y el 31 de diciembre de 2020 para los productos de la clase IIb.
 
 34. Plomo empleado como activador en el polvo fluorescente de las lámparas de descarga utilizadas como lámparas de fotoféresis extracorpórea que contengan fósforos del tipo BSP (BaSi2O5:Pb). Expira el 22 de julio de 2021.
 
@@ -124,7 +132,7 @@ c) 21 de julio de 2024 para los microscópicos electrónicos y sus accesorios.
 
 a) mediciones de amplia gama con una gama de conductividad que cubra más de 1 orden de magnitud (por ejemplo, entre 0,1 mS/m y 5 mS/m) en aplicaciones de laboratorio de concentraciones desconocidas;
 
-b) mediciones de soluciones que requieran una precisión de ± 1 % de la gama de muestra y una gran resistencia a la corrosión del electrodo, para cualquiera de lo siguiente:
+b) mediciones de soluciones que requieran una precisión de ±1 % de la gama de muestra y una gran resistencia a la corrosión del electrodo, para cualquiera de lo siguiente:
 
 1.º soluciones con una acidez < pH 1,
 
@@ -176,9 +184,13 @@ La exención expira en las fechas siguientes:
 
 45. Ftalato de bis (2-etilhexilo) (DEHP) en electrodos selectivos de iones aplicados en el análisis de diagnóstico inmediato de sustancias iónicas presentes en los líquidos corporales humanos y/o líquidos de diálisis. Expira el 21 de julio de 2028.
 
-46. Ftalato de bis(2-etilhexilo) (DEHP) en componentes de plástico de bobinas detectoras para IRM. Expira el 1 de enero de 2024.
+46. Ftalato de bis (2-etilhexilo) (DEHP) en componentes de plástico de bobinas detectoras para IRM. Expira el 1 de enero de 2024.
 
 47. Ftalato de bis(2-etilhexilo) (DEHP), ftalato de bencilo y butilo (BBP), ftalato de dibutilo (DBP) y ftalato de diisobutilo (DIBP) en piezas de repuesto recuperadas de productos sanitarios, incluidos los de diagnóstico in vitro y sus accesorios, y utilizadas para la reparación o reacondicionamiento de tales productos, siempre que la reutilización se enmarque en sistemas de recuperación interempresas de circuito cerrado que puedan ser objeto de control y que cada reutilización de dichas piezas se notifique al consumidor. Expira el 21 de julio de 2028.
+
+48. Plomo en cables e hilos superconductores de óxido de bismuto, estroncio, calcio y cobre (BSCCO), y plomo en conexiones eléctricas a dichos hilos. Expira el 30 de junio de 2027.
+
+> Se modifica por el art. único de la Orden PCM/285/2023, de 23 de marzo. Ref. BOE-A-2023-7659
 
 > Se modifica por el art. único de la Orden PCM/399/2022, de 5 de mayo. Ref. BOE-A-2022-7420
 
