@@ -76,4 +76,14 @@ En caso de que la contabilidad de la entidad no haya sido aprobada por el órgan
 
 7.º La documentación específica para cada acción, actuación, inversión y concepto de gasto, exigida por el Reglamento Delegado (UE) n.º 2017/891, el Reglamento de Ejecución (UE) n.º 2017/892, el presente real decreto o las Directrices Nacionales para la Elaboración de los Pliegos de Condiciones referentes a las Acciones Medioambientales.
 
+8.º Certificación en relación con el cumplimiento del artículo 13.3 bis de la Ley 38/2003, de 17 de noviembre, según los casos:
+
+a) Para las sociedades que, de acuerdo con la normativa contable, no puedan presentar cuenta de pérdidas y ganancias abreviada, certificación emitida por un auditor inscrito en el Registro Oficial de Auditores de Cuentas que acredite su cumplimiento por la organización de productores, con independencia de cualquier financiación para el cobro anticipado de la empresa proveedora. A tal efecto, si del informe de auditoría de las últimas cuentas anuales se deduce un cumplimiento del 100 % de los plazos de pago a proveedores por parte de la organización de productores, bastará un certificado emitido por el auditor que indique que en su trabajo de auditoría ha realizado procedimientos para obtener evidencia de la corrección del contenido de la memoria de las cuentas anuales como certificación de cumplimiento del requisito del artículo 13.3 bis. En caso de que no sea posible emitir tal certificado (por no existir cuentas anuales auditadas o porque éstas reflejen un porcentaje de cumplimiento de plazos de pago a proveedores inferior al 100 %), se presentará certificación, basada en un "Informe de Procedimientos Acordados", de que el requisito se cumple en el momento de solicitud de presentación de la comunicación establecida en el artículo 7 de este real decreto, certificado que tendrá una validez de seis meses.
+
+b) En el resto de casos, de conformidad con lo previsto en el artículo 26 del Real Decreto 887/2006, de 21 de julio, declaración responsable de no hallarse incurso en ninguno de los supuestos del artículo 13.3.bis. de la ley 38/2003, del 17 de noviembre.
+
+> Se añade el punto 8º en la letra B) por la disposición final 1 del Real Decreto 206/2023, de 28 de marzo. Ref. BOE-A-2023-7940
+
+> Téngase en cuenta, para la verificación de su cumplimiento, lo dispuesto en la disposición transitoria 2 del citado Real Decreto.
+
 > Se modifica la letra e) del apartado B.2º por el art. único.4 del Real Decreto 501/2019, de 30 de agosto. Ref. BOE-A-2019-12638
