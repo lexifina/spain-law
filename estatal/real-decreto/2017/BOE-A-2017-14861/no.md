@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 309, de 21 de diciembre de 2017. Ref. BOE-A-2017-15191
+Norma derogada, con efectos de 31 de marzo de 2023, por la disposición derogatoria única.2 del Real Decreto 1044/2022, de 27 de diciembre. Ref. BOE-A-2022-23044#dd
