@@ -58,6 +58,18 @@ f) Que se acredite un período de cotización de treinta y tres años en la fech
 
 En el supuesto de personas con discapacidad en grado igual o superior al 33 por ciento, el período de cotización exigido será de veinticinco años.
 
+7. A los solos efectos del cálculo de la base reguladora de la pensión de jubilación, cuando el hecho causante se produzca con posterioridad al 31 de diciembre de 2025 y antes de 31 de diciembre de 2040, la entidad gestora aplicará en su integridad lo previsto en el artículo 209.1 en su redacción vigente el día 1 de enero de 2023 cuando dicho cálculo resulte más favorable que el vigente en la fecha en que se cause la pensión.
+
+Para los hechos causantes que se produzcan durante el año 2041, la entidad gestora aplicará, en su integridad, lo previsto en el artículo 209.1, en su redacción vigente el día 1 de enero de 2023, con una la base reguladora que comprenderá las bases de cotización de los últimos 306 meses entre 357, cuando dicho cálculo resulte más favorable que el vigente en la fecha en que se cause la pensión.
+
+En 2042, la entidad gestora aplicará, en su integridad, lo previsto en el artículo 209.1 en su redacción vigente el día 1 de enero de 2023, con una base reguladora que comprenderá las bases de cotización de los últimos 312 meses entre 364, cuando dicho cálculo resulte más favorable que el vigente en la fecha en que se cause la pensión.
+
+En 2043, la entidad gestora aplicará, en su integridad, lo previsto en el artículo 209.1 en su redacción vigente el día 1 de enero de 2023, con una base reguladora que comprenderá las bases de cotización de los últimos 318 meses entre 371, cuando dicho cálculo resulte más favorable que el vigente en la fecha en que se cause la pensión.
+
+A partir de 2044, se aplicará lo previsto en el artículo 209.1 en la redacción vigente desde el 1 de enero de 2026.
+
+> Se añade el apartado 7 por el art. único.36 del Real Decreto-ley 2/2023, de 16 de marzo. Ref. BOE-A-2023-6967#au
+
 > Se modifica el apartado 6 por el art. 84 del Real Decreto-ley 20/2022, de 27 de diciembre, en la redacción dada por la disposición final 6.2 del Real Decreto-ley 1/2023, de 10 de enero. Ref. BOE-A-2023-625#df-6
 
 > Se modifica el apartado 6 por el art. 84 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685#a8-6

@@ -1,5 +1,7 @@
 ## Disposición final segunda. Compatibilidad de la pensión de jubilación y la actividad de creación artística.
 
-El Gobierno, en el plazo máximo de 6 meses desde la publicación del presente real decreto-ley, procederá a la aprobación de una norma reglamentaria que, en desarrollo del artículo 213 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, regule la compatibilidad de la pensión de jubilación con la actividades de aquellos profesionales dedicados a la creación artística que perciban por esa actividad derechos de propiedad intelectual.
+(Derogada)
 
-Ese reconocimiento de compatibilidad llevará aparejada una cotización de solidaridad del 8 por ciento, que en caso de tratarse de trabajadores por cuenta ajena será a cargo del empresario el 6 por ciento y del trabajador el 2 por ciento.
+> Se deroga, con efectos de 1 de abril de 2023, por la disposición derogatoria única.k) del Real Decreto-ley 1/2023, de 10 de enero. Ref. BOE-A-2023-625#dd, en la redacción dada por la disposición final 7.2 del Real Decreto-ley 2/2023, de 16 de marzo.Ref. BOE-A-2023-6967#df-7
+
+> Se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.k) del Real Decreto-ley 1/2023, de 10 de enero. Ref. BOE-A-2023-625#dd

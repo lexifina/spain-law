@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Incremento del complemento de brecha de género en el período 2024-2025.
+
+El importe del complemento de brecha de género establecido en el artículo 60 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, y en la disposición adicional decimoctava del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril, será objeto de un incremento adicional del 10 por ciento sobre la revalorización prevista en el artículo 58.2 en el bienio 2024-2025, que se distribuirá entre ambos ejercicios según determinen las respectivas leyes de presupuestos generales del Estado.
