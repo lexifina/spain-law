@@ -1,20 +1,26 @@
 ## ANEXO II
 
-## Formato electrónico (Parte 1)
+## Formato electrónico
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/157/10854_11826756_1.png)
+(Parte 1)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/157/10854_11826756_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_5.png)
 
-## (Parte 2)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/157/10854_11826756_3.png)
+(Parte 2)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/157/10854_11826756_4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_7.png)
 
-## (Parte 3)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/157/10854_11826756_5.png)
+(Parte 3)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_9.png)
+
+> Se sustituye por el art. único.2 de la Orden HFP/312/2023, de 28 de marzo, en la forma recogida en su anexo II. Ref. BOE-A-2023-8120
+
+> Téngase en cuenta que los nuevos modelos serán aplicables por primera vez para las autoliquidaciones de pagos fraccionados cuyo plazo de presentación comienza en abril de 2023, segun establece su disposición final 2.
 
 > Se sustutuye por el art. único y anexo de la Orden HFP/604/2022, de 30 de junio. Ref. BOE-A-2022-10854
 
