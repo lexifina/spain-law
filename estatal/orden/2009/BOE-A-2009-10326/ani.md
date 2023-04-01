@@ -30,6 +30,7 @@
 | 222 | Pago fraccionado. Régimen de consolidación fiscal. |
 | 230 | Impuesto sobre la Renta de las Personas Físicas e Impuesto sobre la Renta de no Residentes: Retenciones e ingresos a cuenta del Gravamen Especial sobre los premios de determinadas loterías y apuestas; Impuesto sobre Sociedades: Retenciones e ingresos a cuenta sobre los premios de determinadas loterías y apuestas. Autoliquidación. Período de ingreso: M. |
 | 303 | Impuesto sobre el Valor Añadido. Autoliquidación. |
+| 309 (***) | Declaración-liquidación no periódica del Impuesto sobre el Valor Añadido. |
 | 353 | Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo agregado. Autoliquidación mensual. |
 | 410 | Pago a cuenta del Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
 | 411 | Impuesto sobre los Depósitos en las Entidades de Crédito. Autoliquidación. |
@@ -50,6 +51,8 @@
 | 593 | Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos. Autoliquidación. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
+| 792 | Autoliquidación de la aportación a realizar por los prestadores del servicio de comunicación audiovisual televisivo y por los prestadores del servicio de intercambio de vídeos a través de plataforma de ámbito geográfico estatal o superior al de una Comunidad Autónoma. |
+| 793 | Pagos a cuenta de la aportación a realizar por los prestadores del servicio de comunicación audiovisual televisivo y por los prestadores del servicio de intercambio de vídeos a través de plataforma de ámbito geográfico estatal o superior al de una Comunidad Autónoma. |
 | 795 | Gravamen temporal energético. Declaración del ingreso de la prestación. |
 | 796 | Gravamen temporal energético. Pago anticipado. |
 | 797 | Gravamen temporal de entidades de crédito y establecimientos financieros de crédito. Declaración del ingreso de la prestación. |
@@ -58,6 +61,12 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
+
+(***) Sólo cuando el periodo sea trimestral.
+
+> Se añaden los modelos 792 y 793 por la disposición final 2.1 de la Orden HFP/309/2023, de 28 de marzo, Ref. BOE-A-2023-8117 y el modelo 309, con la nota a pie de tabla (***), por la disposición final 1.1 y 2 de la Orden HFP/312/2023, de 28 de marzo. Ref. BOE-A-2023-8120
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio de 2023, según establece la disposición final 4 de la Orden HFP/309/2023 y a las autoliquidaciones del modelo 309 correspondientes al primer trimestre de 2023, según establece la disposición final 2 de la Orden HFP/312/2023.
 
 > Se añaden los modelos 795 a 798 por la disposición final 2.1 de la Orden HFP/94/2023, de 2 de febrero. Ref. BOE-A-2023-2832
 

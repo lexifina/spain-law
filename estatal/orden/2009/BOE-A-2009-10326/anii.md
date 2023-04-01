@@ -34,6 +34,7 @@
 | 222 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre. |
 | 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
 | 303 | Plazo: Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
+| 309 (***) | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 353 | Plazo: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero salvo, en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
 | 410 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
 | 411 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
@@ -55,6 +56,8 @@
 | 593 | Plazo: el plazo será desde el día 1 hasta el día 25 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
+| 792 | Desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
+| 793 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre. |
 | 795 | Desde el día 1 hasta el día 15 del mes de septiembre. |
 | 796 | Desde el día 1 hasta el 15 del mes de febrero. |
 | 797 | Desde el día 1 hasta el día 15 del mes de septiembre. |
@@ -63,6 +66,12 @@
 (*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
 
 (**) Solo cuando el periodo impositivo finalice el día 31 de diciembre.
+
+(***) Sólo cuando el periodo sea trimestral.
+
+> Se añaden los modelos 792 y 793 por la disposición final 2.2 de la Orden HFP/309/2023, de 28 de marzo, Ref. BOE-A-2023-8117 y el modelo 309, con la nota a pie de tabla (***), por la disposición final 1.3 y 4 de la Orden HFP/312/2023, de 28 de marzo. Ref. BOE-A-2023-8120
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio de 2023, según establece la disposición final 4 de la Orden HFP/309/2023 y a las autoliquidaciones del modelo 309 correspondientes al primer trimestre de 2023, según establece la disposición final 2 de la Orden HFP/312/2023.
 
 > Se añaden los modelos 795 a 798 por la disposición final 2.2 de la Orden HFP/94/2023, de 2 de febrero. Ref. BOE-A-2023-2832
 
