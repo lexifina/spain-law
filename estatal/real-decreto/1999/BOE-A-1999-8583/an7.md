@@ -1,6 +1,6 @@
 ## ANEXO 7
 
-## MODELOS DE IMPRESOS PARA DESIGNACIONES Y NOMBRAMIENTOS
+## Modelos de impresos para designaciones y nombramientos
 
 N.1 Nombramiento de miembro de Mesa (impreso de 4 hojas).
 
@@ -10,9 +10,9 @@ N.1.b Acuse de recibo.
 
 N.1.c Comunicación datos identificación.
 
-N.1.d Comunicación datos identificación –copia–.
+N.1.d Comunicación datos identificación ‒copia‒.
 
-N.2 Comunicación de la composición de las Mesas a la Junta Electoral de Zona y al Juez de Primera Instancia o de Paz.
+N.2 Comunicación de la composición de las mesas a la Junta Electoral de Zona y al Juez de Primera Instancia o de Paz.
 
 N.3 Nombramiento de interventor (impreso de 4 hojas).
 
@@ -36,21 +36,23 @@ N.5.a Credencial.
 
 N.5.b Copia.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_048.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image56.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_049.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image57.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_050.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image58.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_051.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image59.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_052.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image60.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_053.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image61.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_054.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image62.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_055.png)
+> Se modifica por el art. único y se sustituye por el anexo 7 de la Orden INT/316/2023, de 29 de marzo. Ref. BOE-A-2023-8225
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
 
 > Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 

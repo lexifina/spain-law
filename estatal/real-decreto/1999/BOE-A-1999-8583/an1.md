@@ -1,20 +1,22 @@
 ## ANEXO 1
 
-## URNA ELECTORAL
+## Urna electoral
 
-## A) PARA MESAS ELECTORALES
+A) Para mesas electorales
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image1.png)
 
 Serán de un material resistente y transparente, y ocuparán, una vez desmontadas o plegadas, el menor espacio posible para su almacenamiento. Contarán con el menor número de piezas separables posibles para facilitar su montaje y desmontaje.
 
 Las medidas interiores, aproximadas, serán las siguientes: 42 centímetros (largo) por 31 centímetros (alto) por 29 centímetros (ancho).
 
-Las medidas exteriores no excederán en más de 3 centímetros de las medidas interiores. La tapa de la urna llevará una ranura en el centro de 18 centímetros y 0,5 centímetros de abertura (medidas aproximadas).
+Las medidas exteriores no excederán en más de 3 centímetros de las medidas interiores.
+
+La tapa de la urna llevará una ranura en el centro de 18 centímetros y 0,5 centímetros de abertura (medidas aproximadas).
 
 A los efectos del oportuno precinto de la urna se dispondrán los correspondientes orificios que, permitiendo mecanismos de sellado adecuados, no sobresalgan de la parte lateral de la urna. La tapa cerrará completamente la urna.
 
-## B) PARA DEPÓSITO CONSULAR
+B) Para depósito consular
 
 La urna permitirá su precintado por cualquier medio al finalizar cada jornada.
 
@@ -22,11 +24,15 @@ Asimismo, habrá de ser inviolable o permitir la aplicación de cualquier mecani
 
 Por otra parte, siempre que ello sea posible, reunirá preferentemente las siguientes características:
 
-• Tendrá la mayor capacidad posible.
+‒ Tendrá la mayor capacidad posible.
 
-• Será reutilizable o al menos reciclable.
+‒ Será reutilizable o al menos reciclable.
 
-• Será de material transparente.
+‒ Será de material transparente.
+
+> Se modifica por el art. único y se sustituye por el anexo 1 de la Orden INT/316/2023, de 29 de marzo. Ref. BOE-A-2023-8225
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
 
 > Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 

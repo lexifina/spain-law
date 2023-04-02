@@ -1,14 +1,14 @@
 ## ANEXO 3
 
-## MODELOS DE PAPELETAS DE VOTACIÓN
+## Modelos de papeletas de votación
 
 P.1 Modelo de papeletas para las elecciones al Congreso de los Diputados.
 
-P.2 Modelo de papeleta para las elecciones al Senado.
+P.2 Modelo de papeletas para las elecciones al Senado.
 
-P.3 Modelos de papeletas para elección de Concejales y Concejalas.
+P.3 Modelo de papeletas para elección de Concejales y Concejalas.
 
-P.3.1 En municipios superiores a 250 habitantes.
+P.3.1 En municipios de más de 250 habitantes.
 
 P.3.1 bis Modelo para residentes temporalmente en el extranjero.
 
@@ -18,7 +18,7 @@ P.3.2 bis Modelo para residentes temporalmente en el extranjero.
 
 P.3.3 En municipios de hasta 100 habitantes.
 
-P.3.3 bis. Modelo para residentes temporalmente en el extranjero.
+P.3.2 bis Modelo para residentes temporalmente en el extranjero.
 
 P.4 Modelos de papeletas para elección de Alcaldes y Alcaldesas.
 
@@ -30,237 +30,229 @@ P.4.2 Alcaldes y Alcaldesas Pedáneos en Entidades Locales Menores.
 
 P.4.2 bis Modelo para residentes temporalmente en el extranjero.
 
-P.5 Modelo de papeletas para las elecciones a Cabildos Insulares de Canarias.
+P.5 Modelo de papeleta para las elecciones a Cabildos Insulares de Canarias.
 
 P.6 Modelo de papeleta para las elecciones al Parlamento Europeo.
 
-## CARACTERÍSTICAS GENERALES DE LAS PAPELETAS
+## Características generales de las papeletas
 
-• El color de las papeletas será el determinado en el artículo 4.2 del presente Real Decreto.
+‒ El color de las papeletas será el determinado en el artículo 4.2 del presente Real Decreto.
 
-• Impresión en tinta negra.
+‒ Impresión en tinta negra.
 
-• Los tipos y tamaño de letra deberán ser idénticos para cada candidato/a o candidatura.
+‒ Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
 
-• Símbolo, en su caso, en recuadro de 20 × 20 mm.
+‒ Símbolo, en su caso, en recuadro de 20 x 20 mm.
 
-P.1
+‒ Para el voto de las personas que viven en el extranjero y están inscritas en el CERA, además de los tamaños indicados expresamente para cada modelo, serán válidas también las papeletas obtenidas desde la página web oficial de cada convocatoria, impresas en una hoja tamaño DIN-A4, o cualquier otro análogo, con la excepción de la papeleta modelo P.2, de votación al Senado, cuando por el número de candidaturas ésta requiera su impresión en tamaño DIN-A3.
 
-Modelo de papeleta para el Congreso de los Diputados.
+P.1 Modelo de papeleta para el Congreso de los Diputados.
 
 Especificaciones:
 
 Tamaños aproximados, dependiendo del número de candidatos/as:
 
-105 × 148 mm.
+105 x 148 mm.
 
-105 × 223 mm.
+105 x 223 mm.
 
-105 × 297 mm.
+105 x 297 mm.
 
-Impresión por una cara.
+Impreso por una cara en tinta negra.
 
-Símbolo en recuadro de 20 × 20 mm.
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_003.png)
+Símbolo en recuadro de 20 x 20 mm.
 
-Modelo para el Senado
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image2.png)
+
+P.2 Modelo de papeleta para el Senado.
 
 Especificaciones:
 
 Uno. Las candidaturas se distribuirán de la siguiente forma:
 
-• Hasta 10 candidaturas: dos cuerpos, cinco candidaturas por cuerpo, DIN A-4 impresión por una cara.
+‒ Hasta 10 candidaturas: dos cuerpos, cinco candidaturas por cuerpo, DIN-A4 impresión por una cara.
 
-• De 11 a 14 candidaturas: dos cuerpos, siete candidaturas por cuerpo, DIN A-4 impresión por una cara.
+‒ De 11 a 14 candidaturas: dos cuerpos, siete candidaturas por cuerpo, DIN-A4 impresión por una cara.
 
-• De 15 a 20 candidaturas: cuatro cuerpos (dos en cada cara), cinco candidaturas por cuerpo, DIN A-4 impresión por ambas caras.
+‒ De 15 a 20 candidaturas: cuatro cuerpos (dos en cada cara), cinco candidaturas por cuerpo, DIN-A4 impresión por ambas caras.
 
-• De 21 a 28 candidaturas: cuatro cuerpos (dos en cada cara), siete candidaturas por cuerpo, DIN A-4 impresión por ambas caras.
+‒ De 21 a 28 candidaturas: cuatro cuerpos (dos en cada cara), siete candidaturas por cuerpo, DIN-A4 impresión por ambas caras.
 
-• De 29 a 40 candidaturas: ocho cuerpos (cuatro en cada cara), cinco candidaturas por cuerpo, DIN A-3 impresión por ambas caras.
+‒ De 29 a 40 candidaturas: ocho cuerpos (cuatro en cada cara), cinco candidaturas por cuerpo, DIN-A3 impresión por ambas caras.
 
-• A partir de 41 candidaturas: ocho cuerpos (cuatro en cada cara), siete candidaturas por cuerpo, DIN A-3 impresión por ambas caras.
+‒ A partir de 41 candidaturas: ocho cuerpos (cuatro en cada cara), siete candidaturas por cuerpo, DIN-A3 impresión por ambas caras.
 
 Dos. Las candidaturas se ordenarán en cada cara, utilizando todos los cuerpos, de izquierda a derecha, de conformidad con el artículo 172.3 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General.
 
-Tres. Se incluirá la denominación, sigla y símbolo de la formación política que presenta al candidato y, debajo, los nombres de los candidatos en el orden que establezca cada una de las formaciones políticas.
+Tres. Se incluirá la denominación, sigla y símbolo de la formación política que presenta al candidato y, debajo, los nombres de los candidatos en el orden que establezca cada una de las formaciones políticas. Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura. Símbolo en recuadro de 20 x 20 mm.
 
 Cuatro. El espacio destinado a cada candidatura en la papeleta será el necesario para contener a cuatro candidatos; en él sólo aparecerán los recuadros correspondientes a los candidatos efectivamente proclamados, por lo que, en el caso de haber resultado proclamados menos de cuatro candidatos, quedaría en blanco el resto del espacio correspondiente a la candidatura.
 
-P.2
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_004.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_005.png)
-
-P.3.1
-
-Modelo de papeleta para municipios de más de 250 habitantes.
+P.3.1 Modelo de papeleta para municipios de más de 250 habitantes.
 
 Especificaciones:
 
 Tamaños aproximados, dependiendo del número de candidatos/as:
 
-105 × 148 mm.
+105 x 148 mm.
 
-105 × 223 mm.
+105 x 223 mm.
 
-105 × 297 mm.
+105 x 297 mm.
 
-Impresión por una cara.
+Impreso por una cara en tinta negra.
 
-Símbolo en recuadro de 20 × 20 mm.
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_006.png)
+Símbolo en recuadro de 20 x 20 mm.
 
-P.3.1 bis
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image5.png)
 
-Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios de más de 250 habitantes, así como para electores residentes permanentemente en el extranjero (CERA), en el caso de las Ciudades Autónomas de Ceuta y Melilla.
-
-Especificaciones:
-
-Tamaño 105 × 148 mm.
-
-Impresión por una cara.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_007.png)
-
-P.3.2
-
-Modelo de papeleta para municipios entre 101 y 250 habitantes.
+P.3.1 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios de más de 250 habitantes y en las Ciudades Autónomas de Ceuta y Melilla.
 
 Especificaciones:
 
-Tamaño 105 × 297 mm.
+Tamaño aproximado 105 x 148 mm.
 
-Impresión por una cara.
+Impreso por una cara en tinta negra.
 
-Símbolo en recuadro de 20 × 20 mm.
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_008.png)
-
-P.3.2 bis
-
-Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios entre 101 y 250 habitantes.
+P.3.2 Modelo de papeleta para municipios entre 101 y 250 habitantes.
 
 Especificaciones:
 
-Tamaño 105 × 148 mm.
+Tamaño aproximado 105 x 297 mm.
 
-Impresión por una cara.
+Impreso por una cara en tinta negra.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_009.png)
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
 
-P.3.3
+Símbolos en recuadros de 20 x 20 mm.
 
-Modelo de papeleta para municipios de hasta 100 habitantes.
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image7.png)
 
-Especificaciones:
-
-Tamaño 105 × 223 mm.
-
-Impresión por una cara.
-
-Símbolo en recuadro de 20 × 20 mm.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_010.png)
-
-P.3.3 bis
-
-Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios de hasta 100 habitantes.
+P.3.2 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios entre 101 y 250 habitantes.
 
 Especificaciones:
 
-Tamaño 105 × 148 mm.
+Tamaño aproximado 105 x 148 mm.
 
-Impresión por una cara.
+Impreso por una cara en tinta negra.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image8.png)
 
-P.4.1
-
-Modelo de papeleta para Alcaldes/Alcaldesas de municipios que funcionen en régimen de Concejo Abierto.
+P.3.3 Modelo de papeleta para municipios de hasta 100 habitantes.
 
 Especificaciones:
 
-Tamaño aproximado 105 × 148 mm.
+Tamaño aproximado 105 x 223 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Símbolo en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image9.png)
+
+P.3.3 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en municipios de hasta 100 habitantes.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image10.png)
+
+P.4.1 Modelo de papeleta para Alcaldes/Alcaldesas de municipios que funcionen en régimen de Concejo Abierto.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
+
+Bajo el nombre de cada candidato/a se especificará la denominación o sigla del Partido, Federación, Coalición o Agrupación de Electores que le presente, o en su caso la condición de independiente.
+
+En el margen derecho, el símbolo en su caso, en recuadro de 20 x 20 mm.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image11.png)
+
+P.4.1 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en la elección de Alcaldes/Alcaldesas de municipios que funcionen en régimen de Concejo Abierto.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
+
+Impreso por una cara en tinta negra.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image12.png)
+
+P.4.2 Modelo de papeleta para la elección de Alcalde/Alcaldesa Pedáneo/a en Entidades Locales Menores.
+
+Especificaciones:
+
+Tamaño aproximado 105 x 148 mm.
 
 Impresión por una cara.
 
 Bajo el nombre de cada candidato/a se especificará la denominación o sigla del Partido, Federación, Coalición o Agrupación de Electores que le presente, o en su caso la condición de independiente.
 
-En el margen derecho, el símbolo en su caso, en recuadro de 20 × 20 mm.
+En el margen derecho, el símbolo en su caso, en recuadro de 20 x 20 mm.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image13.png)
 
-P.4.1 bis
-
-Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en la elección de Alcaldes/Alcaldesas de municipios que funcionen en régimen de Concejo Abierto.
+P.4.2 bis Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en la elección de Alcalde/Alcaldesa Pedáneo/a en Entidades Locales Menores.
 
 Especificaciones:
 
-Tamaño aproximado 105 × 148 mm.
+Tamaño aproximado 105 x 148 mm.
 
 Impresión por una cara.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image14.png)
 
-P.4.2
-
-Modelo de papeleta para la elección de Alcalde/Alcaldesa Pedáneo/a en Entidades Locales Menores.
+P.5 Modelo de papeleta para Consejeros/as de Cabildos Insulares de Canarias.
 
 Especificaciones:
 
-Tamaño aproximado 105 × 148 mm.
+Tamaño aproximado 105 x 223 mm.
 
-Impresión por una cara.
+Impreso por una cara en tinta negra.
 
-Bajo el nombre de cada candidato/a se especificará la denominación o sigla del Partido, Federación, Coalición o Agrupación de Electores que le presente, o en su caso la condición de independiente.
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
 
-En el margen derecho, el símbolo en su caso, en recuadro de 20 × 20 mm.
+Símbolo en recuadro de 20 x 20 mm.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_014.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image15.png)
 
-P.4.2 bis
-
-Modelo de papeleta para votación de los electores residentes temporalmente en el extranjero en la elección de Alcalde/Alcaldesa Pedáneo/a en Entidades Locales Menores.
+P.6 Modelo de papeleta para elecciones al Parlamento Europeo.
 
 Especificaciones:
 
-Tamaño aproximado 105 × 148 mm.
+Tamaño aproximado 105 x 297 mm.
 
-Impresión por una cara.
+Impreso por una cara en tinta negra.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_015.png)
+Los tipos de letra deberán ser idénticos para cada candidato/a o candidatura.
 
-P.5
+Símbolo en recuadro de 20 x 20 mm.
 
-Modelo de papeleta para Consejeros/as de Cabildos Insulares de Canarias.
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image16.png)
 
-Especificaciones:
+> Se modifica por el art. único y se sustituye por el anexo 3 de la Orden INT/316/2023, de 29 de marzo. Ref. BOE-A-2023-8225
 
-Tamaño aproximado 105 × 223 mm.
-
-Impresión por una cara.
-
-Símbolo en recuadro de 20 × 20 mm.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_016.png)
-
-P.6
-
-Modelo de papeleta para elecciones al Parlamento Europeo.
-
-Especificaciones:
-
-Tamaño aproximado 105 × 297 mm.
-
-Impresión por una cara.
-
-Símbolo en recuadro de 20 × 20 mm.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/82/03597_017.png)
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
 
 > Se modifica por el art. único de la Orden INT/529/2014, de 18 de marzo. Ref. BOE-A-2014-3597.
 

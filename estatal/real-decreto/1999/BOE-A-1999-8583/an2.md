@@ -1,6 +1,6 @@
 ## ANEXO 2
 
-## CABINA DE VOTACIÓN
+## Cabina de votación
 
 La cabina electoral garantizará en todo momento la privacidad del elector en el ejercicio de su derecho de sufragio activo.
 
@@ -10,11 +10,15 @@ La cabina ocupará, una vez desmontada o plegada, el menor espacio posible para 
 
 Las medidas aproximadas de la cabina serán las siguientes: 2 metros de altura por 1 metro de anchura por 1 metro de fondo.
 
-La cabina electoral deberá ser plenamente accesible y contendrá, necesariamente una repisa unida a la estructura de la cabina a una altura aproximada de 1 metro del suelo.
+La cabina electoral deberá ser plenamente accesible y contendrá, necesariamente, una repisa unida a la estructura de la cabina a una altura aproximada de 1 metro del suelo.
 
 El diseño de la cabina garantizará el secreto de la votación del elector, para lo cual contará con elementos tales como cortinas o similares.
 
-Con la finalidad de obtener un mejor aprovechamiento del espacio, de abaratar los costes, y de garantizar un mayor número de cabinas en cada local, se habilita la posibilidad de utilizar cabinas electorales dobles, que habrán de tener idénticas características que las detalladas en este anexo.
+Con la finalidad de obtener un mejor aprovechamiento del espacio, de abaratar los costes y de garantizar un mayor número de cabinas en cada local, se habilita la posibilidad de utilizar cabinas electorales dobles, que habrán de tener idénticas características que las detalladas en este anexo.
+
+> Se modifica por el art. único y se sustituye por el anexo 2 de la Orden INT/316/2023, de 29 de marzo. Ref. BOE-A-2023-8225
+
+> Téngase en cuenta, sobre coexistencia de modelos, lo establecido en la disposición transitoria única de la citada Orden.
 
 > Se sustituye por el figura como anexo de la Orden INT/511/2022, de 3 de junio, según establece su art. único. Ref. BOE-A-2022-9377
 
