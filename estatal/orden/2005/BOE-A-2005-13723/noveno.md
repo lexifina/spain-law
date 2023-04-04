@@ -3,3 +3,7 @@
 Los cursos de sensibilización y reeducación vial, tanto para la recuperación parcial de puntos como los dirigidos a la obtención de un nuevo permiso o licencia de conducción tras la pérdida total de aquéllos, o a la recuperación del derecho a conducir tras haber sido condenado por sentencia firme por la comisión de un delito castigado con la privación del derecho a conducir un vehículo a motor o un ciclomotor, correrán a cargo del interesado. El pliego de prescripciones técnicas del contrato de concesión por el que se adjudiquen los Centros que impartirán los cursos determinará el precio máximo de éstos y su actualización periódica.
 
 La realización de estos cursos se llevará a cabo por Centros cuya gestión se realizará mediante concesión por el Ministerio del Interior. El contrato de concesión establecerá el número de Centros que, atendidas las circunstancias, sean necesarios para el correcto desarrollo de los cursos. En todo caso, la ubicación de dichos Centros se realizará teniendo en cuenta el censo de conductores y la distribución geográfica de la población dentro de cada provincia.
+
+> Téngase en cuenta que se declara la nulidad del inciso destacado, por Sentencia del TS de 9 de marzo de 2023. Ref. BOE-A-2023-8461
+
+> Se declara la nulidad del inciso destacado, por Sentencia del TS de 9 de marzo de 2023. Ref. BOE-A-2023-8461
