@@ -6,15 +6,15 @@
 
 a) Identificación de las IIC que la gestora pretende comercializar, así como dónde se encuentran establecidas estas IIC.
 
-b) Disposiciones y modalidades de comercialización de las acciones o participaciones en España, y cuando proceda, sobre las clases de éstas o sobre las series de aquéllas.
+b) Disposiciones y modalidades de comercialización de las acciones o participaciones en España, y cuando proceda, sobre las clases de estas o sobre las series de aquellas.
 
 c) Reglamento del fondo de inversión o los documentos constitutivos de la sociedad.
 
-d) Folleto informativo y el documento con los datos fundamentales para el inversor o documento equivalente, que deberán ser aprobados por la Comisión Nacional del Mercado de Valores, así como su publicación.
+d) Folleto informativo, que deberá ser aprobado por la Comisión Nacional del Mercado de Valores, así como su publicación y el documento con los datos fundamentales para el inversor o documento equivalente.
 
 e) Identificación del depositario de la IIC.
 
-f) Descripción de la IIC, o cualquier información sobre ésta, a disposición de los inversores.
+f) Descripción de la IIC, o cualquier información sobre esta, a disposición de los inversores.
 
 g) Información sobre el lugar en que se encuentra establecida la IIC principal si la IIC que se pretende comercializar es una IIC subordinada.
 
@@ -22,7 +22,9 @@ h) Los documentos que acrediten la sujeción de la gestora establecida en un Est
 
 i) Los estados financieros de la IIC y su correspondiente informe de auditoría de cuentas, preparados de acuerdo con la legislación aplicable a dicha IIC.
 
-3. Todos los documentos a los que se refiere este artículo deberán presentarse acompañados de su traducción al castellano o en otra lengua admitida por la Comisión Nacional del Mercado de Valores.
+3. En caso de modificación de la información comunicada en el escrito de notificación de conformidad con el apartado 1, o de modificaciones en relación con las clases de acciones que se vayan a comercializar, la IIC informará de ello por escrito a la CNMV y a las autoridades competentes del Estado miembro de origen, como mínimo un mes antes de que dicha modificación sea efectiva.
+
+La IIC comunicará a la CNMV cualquier modificación de los documentos a que se refiere el primer párrafo del apartado primero e indicará el sitio en que pueden obtenerse en formato electrónico.
 
 4. Para que las acciones o participaciones de la Institución de Inversión Colectiva puedan ser comercializadas en España será preciso que sea expresamente autorizada a tal fin por la Comisión Nacional del Mercado de Valores y que tanto las gestoras como las IIC que pretenda comercializar queden inscritas en sus registros.
 
@@ -35,5 +37,7 @@ Las IIC y sus gestoras deberán respetar las disposiciones normativas vigentes e
 6. El intermediario facultado deberá entregar gratuitamente a los accionistas o partícipes residentes en España de la IIC extranjera, de conformidad con lo dispuesto en el capítulo III del título II, el folleto, el documento con los datos fundamentales para el inversor, o documento similar, y los informes anual y semestral de las IIC, así como el reglamento de gestión del fondo o, en su caso, los estatutos de la sociedad. Estos documentos se facilitarán en su traducción al castellano o en otra lengua admitida por la Comisión Nacional del Mercado de Valores.
 
 7. Reglamentariamente se podrán determinar requisitos adicionales para la comercialización de las acciones y participaciones de las IIC a que se refiere el artículo 2.1.f).
+
+> Se modifican los apartados 2 y 3 por la disposición final 4.5 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df-4
 
 > Se añade por la disposición final 1.7 de la Ley 22/2014, de 12 de noviembre. Ref. BOE-A-2014-11714.

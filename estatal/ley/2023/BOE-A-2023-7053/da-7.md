@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Disposiciones específicas relativas a organismos públicos que tengan entre sus objetivos principalmente la mejora de la economía nacional e inviertan exclusivamente por cuenta propia.
+
+Las disposiciones de esta ley sobre servicios de inversión no serán de aplicación a aquellos organismos públicos que tengan entre sus objetivos principalmente la mejora de la economía nacional e inviertan exclusivamente por cuenta propia, entre ellos el Instituto de Crédito Oficial (E.P.E.). Estos organismos quedarán sujetos a las obligaciones derivadas de la regulación de los diferentes mercados que se prevén en la presente norma.

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Mandato de la persona titular de la presidencia, de la persona titular de la vicepresidencia y de los consejeros y consejeras de la CNMV.
+
+Las personas que, a la entrada en vigor de esta ley, ejerzan la titularidad de la presidencia, de la vicepresidencia y de las consejerías del Consejo de la CNMV, y se encuentren en su primer período de mandato, podrán ser renovados al término de sus mandatos una única vez y por un periodo total que, incluyendo el tiempo transcurrido con antelación a la entrada en vigor de esta ley, no podrá exceder del plazo de seis años previsto en el artículo 28 de la presente ley.

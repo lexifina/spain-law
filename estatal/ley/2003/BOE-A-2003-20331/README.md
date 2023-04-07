@@ -126,6 +126,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 62 bis](a62bis.md)
 - [Artículo 63](a63.md)
 - [Artículo 64](a64.md)
+- [Artículo 64 bis](a6-2.md)
 - [TÍTULO VI](tvi.md)
 - [CAPÍTULO I](ci-5.md)
 - [Artículo 65](a65.md)

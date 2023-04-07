@@ -103,6 +103,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 69](a69.md)
 - [Artículo 70](a70.md)
 - [Artículo 71](a71.md)
+- [Artículo 71 bis](a7-5.md)
 - [CAPÍTULO III](ciii-2.md)
 - [Artículo 72](a72.md)
 - [Artículo 73](a73.md)
