@@ -66,6 +66,7 @@
 | Leucaena leucocephala (Lam.) De wit. | Canarias. | Aromo blanco. |
 | Ludwigia spp. [Excepto L. palustris (L.) Elliott]. |  | Duraznillo de agua. |
 | Maireana brevifolia (R. Br.) P. G. Wilson. | Canarias. | Mato azul. |
+| Myoporum laetum G. Forst. |  | Mióporo. |
 | Myriophyllum aquaticum (Vell.) Verdc. |  |  |
 | Nassella neesiana (Trin, & Rupr.) Barkworth. | Canarias. | Flechilla. |
 | Nicotiana glauca. | Canarias. | Tabaco moruno, aciculito, calenturero, gandul, bobo, venenero. |
@@ -110,6 +111,7 @@
 | Limnoperna securis (Lamarck, 1819). |  | Mejillón pequeño marrón. |
 | Artrópodos no crustáceos |
 | Aedes albopictus (Skuse, 1895). |  | Mosquito tigre. |
+| Diocalandra frumenti Fabricius, 1801. |  | Picudo de las palmeras, Picudo de cuatro manchas. |
 | Dysdera crocata C. L. Koch, 1838. | Canarias. | Araña roja, Disdera invasora. |
 | Harmonia axyridis (Pallas, 1773). |  | Mariquita asiática. |
 | Lasius neglectus (Van Loon, Boomsma & Andrásfalvy, 1990). |  | Hormiga invasora de jardines. |
@@ -117,11 +119,14 @@
 | Linepithema humile (Mayr, 1868). |  | Hormiga argentina. |
 | Monochamus spp. (especies no europeas). |  |  |
 | Monomorium destructor (Jerdon, 1851). |  | Hormiga de Singapur. |
+| Monomorium pharaonis (Linnaeus, 1758). |  | Hormiga faraón. |
+| Nylanderia jaegerskioeldi (Mayr, 1904). |  | Hormiga loca. |
 | Ommatoiulus moreletii (Lucas, 1860). | Canarias. | Milpiés portugués, milpiés cardador, milpiés invasor. |
 | Paratrechina longicornis (Latreille, 1802). |  | Hormiga loca. |
 | Paysandisia archon (Burmeister, 1880). |  | Oruga perforadora de palmeras. |
 | Reticulitermes flavipes Kollar, 1837 |  | Termita subterránea oriental. |
 | Rhynchophorus ferrugineus (Olivier, 1790). |  | Picudo rojo, gorgojo de las palmeras. |
+| Solenopsis invicta Buren, 1972. |  | Hormiga roja de fuego. |
 | Tapinoma melanocephalum (Fabricius, 1793). |  | Hormiga fantasma. |
 | Vespa spp. (especies no europeas ). |  |  |
 | Crustáceos |
@@ -151,6 +156,7 @@
 | Micropterus salmoides (Lacépède, 1802). |  | Perca americana. |
 | Misgurnus anguillicaudatus (Cantor, 1842). |  | Dojo. |
 | Oncorhynchus mykiss |  | Trucha Arco Iris. |
+| Paramisgurnus dabryanus Dabry de Thiersant, 1872. |  |  |
 | Perca fluviatilis Linnaeus, 1758. |  | Perca de río. |
 | Pseudorasbora parva (Temminck et Schlegel, 1846). |  | Pseudorasbora. |
 | Pterois volitans (Linnaeus, 1758). |  | Pez escorpión, pez león. |
@@ -195,6 +201,7 @@
 | Atelerix albiventris (Wagner, 1841). |  | Erizo pigmeo africano. |
 | Hemiechinus auritus (Gmelin, 1770). |  | Erizo egipcio u orejudo. |
 | Herpestes javanicus (É. Geoffroy Saint-Hilaire, 1818). |  | Mangosta pequeña asiática. |
+| Familia Herpestidae Bonaparte, 1845 (1). (1) Excepto Herpestes ichneumon. |  |  |
 | Mustela (Neovison) vison Schreber, 1777. |  | Visón americano. |
 | Myocastor coypus (Molina, 1782). |  | Coipú. |
 | Nasua spp. |  | Coatí. |
@@ -205,14 +212,14 @@
 | Rousettus aegyptiacus (Geoffroy, 1810). |  | Murciélago frugívoro egipcio. |
 | Rattus norvegicus (Berkenhout, 1769). | Canarias. | Rata parda. |
 | Rattus rattus (Linnaeus, 1758). | Canarias. | Rata negra. |
-| Familia Sciuridae Hemprich, 18201. |  |  |
+| Familia Sciuridae Hemprich, 18201. 1 Excepto Sciurus vulgaris y Marmota marmota. |  |  |
 | Sus scrofa var. domestica raza VIETNAMITA. |  | Cerdo vietnamita. |
 
 – Cuando en el ámbito de aplicación no se especifica nada, se refiere a todo el territorio español.
 
 – spp. Se refiere a todos los niveles taxonómicos infra-genéricos.
 
-1 Excepto Sciurus vulgaris y Marmota marmota.
+> Se modifica por el art. 2 de la Orden TED/339/2023, de 30 de marzo. Ref. BOE-A-2023-8751
 
 > Se modifica por el art. 2 de la Orden TED/1126/2020, de 20 de noviembre. Ref. BOE-A-2020-15296
 

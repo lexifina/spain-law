@@ -65,6 +65,8 @@
 | Caraluma burchardii | Cuernúa |  |  |
 | Ceropegia chrysantha |  |  |  |
 | Ceropegia dichotoma subsp.krainzii | Cardoncillo gomero |  |  |
+| Asparagaceae |  |  |  |
+| Asparagus macrorrhizus Pedrol, Regalado et López-Encina (2013) | Esparraguera del Mar Menor. |  | En peligro de extinción |
 | Asteraceae |  |  |  |
 | Avellara fistulosa (Brot.) Blanca & C. Díaz. | Chicoria hueca |  | En peligro de extinción |
 | Boraginaceae |  |  |  |
@@ -330,6 +332,7 @@
 | Primulaceae |  |  |  |
 | Androsace cylindrica |  |  |  |
 | Androsace pyrenaica |  |  | Vulnerable |
+| Androsace rioxana, A. Segura, 1973 | Androsela riojana |  | En peligro de extinción |
 | Lysimachia minoricensis | Lisimaquia menorquina |  | En peligro de extinción |
 | Soldanela villosa |  |  |  |
 | Ranunculaceae |  |  |  |
@@ -702,7 +705,7 @@
 | Dermochelyidae |  |  |  |
 | Dermochelys coriacea | Tortuga laúd |  |  |
 | Emydidae |  |  |  |
-| Emys orbicularis | Galápago europeo |  |  |
+| Emys orbicularis (Linnaeus, 1758) | Galápago europeo |  | Vulnerable |
 | Bataguridae |  |  |  |
 | Mauremys leprosa | Galápago leproso |  |  |
 | SAURIA |  |  |  |
@@ -879,8 +882,7 @@
 | Perdix perdix hispaniensis Reichenow, 1892. | Perdiz pardilla. | Sistema Ibérico | En peligro de extinción |
 | Tetraonidae |  |  |  |
 | Lagopus muta | Lagópodo alpino |  | Vulnerable |
-| Tetrao urogalus aquitanicus | Urogallo pirenaico |  | Vulnerable |
-| Tetrao urogalus cantabricus | Urogallo cantábrico |  | En peligro de extinción |
+| Tetrao urogallus (Linnaeus 1758) | Urogallo común u occidental (antes Urogallo pirenaico y Urogallo cantábrico). |  | En peligro de extinción |
 | GRUIFORMES |  |  |  |
 | Turnicidae |  |  |  |
 | Turnix sylvatica | Torillo |  | En peligro de extinción |
@@ -893,10 +895,10 @@
 | Porzana parva | Polluela bastarda |  |  |
 | Porzana porzana | Polluela pintoja |  |  |
 | Porzana pusilla | Polluela chica |  |  |
-| Otitidae |  |  |  |
+| Otididae |  |  |  |
 | Chlamydotis undulata | Avutarda hubara |  | En peligro de extinción |
 | Otis tarda | Avutarda común |  |  |
-| Tetrax tetrax | Sisón común |  | Vulnerable |
+| Tetrax tetrax (Linnaeus, 1758) | Sisón común |  | En peligro de extinción |
 | CHARADRIIFORMES |  |  |  |
 | Hematopodidae |  |  |  |
 | Haematopus ostralegus | Ostrero euroasiático |  |  |
@@ -1029,7 +1031,7 @@
 | Alaudidae |  |  |  |
 | Calandrella brachydactyla | Terrera común |  |  |
 | Calandrela rufescens | Terrera marismeña |  |  |
-| Chersophilus duponti | Alondra de Dupont o ricotí |  | Vulnerable |
+| Chersophilus duponti (Vieillot, 1820) | Alondra de Dupont o ricotí |  | En peligro de extinción |
 | Galerida cristata | Cogujada común |  |  |
 | Galerida theklae | Cogujada montesina |  |  |
 | Lullula arborea | Totovía |  |  |
@@ -1272,6 +1274,8 @@
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
+
+> Se modifica por el art. 1 de la Orden TED/339/2023, de 30 de marzo. Ref. BOE-A-2023-8751
 
 > Se modifica por el art. único de la Orden TED/980/2021, de 20 de septiembre. Ref. BOE-A-2021-15244
 
