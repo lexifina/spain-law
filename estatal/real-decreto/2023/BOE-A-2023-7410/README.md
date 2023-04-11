@@ -1,0 +1,66 @@
+# Real Decreto 186/2023, de 21 de marzo, por el que se aprueba el Reglamento de Ordenación de la Navegación Marítima.
+
+- Identificador: BOE-A-2023-7410
+- Rango: Real Decreto
+- Fecha de disposición: 2023-03-21
+- Publicación: 2023-03-22
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2023-7410
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [Artículo único](au.md)
+- [Disposición transitoria primera](dt.md)
+- [Disposición transitoria segunda](dt-2.md)
+- [Disposición derogatoria única](dd.md)
+- [Disposición final primera](df.md)
+- [Disposición final segunda](df-2.md)
+- [Disposición final tercera](df-3.md)
+- [Disposición final cuarta](df-4.md)
+- [Disposición final quinta](df-5.md)
+- [Disposición final sexta](df-6.md)
+- [(firma)](fi.md)
+- [REGLAMENTO](re.md)
+- [CAPÍTULO I](ci.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
+- [Artículo 4](a4.md)
+- [Artículo 10](a1-2.md)
+- [Artículo 22](a2-4.md)
+- [CAPÍTULO V](cv.md)
+- [Artículo 27](a2-9.md)
+- [Artículo 28](a2-10.md)
+- [Artículo 29](a2-11.md)
+- [Artículo 30](a3-2.md)
+- [CAPÍTULO VI](cv-2.md)
+- [Artículo 31](a3-3.md)
+- [Artículo 32](a3-4.md)
+- [Artículo 33](a3-5.md)
+- [Artículo 34](a3-6.md)
+- [Artículo 35](a3-7.md)
+- [Artículo 36](a3-8.md)
+- [Artículo 37](a3-9.md)
+- [Artículo 38](a3-10.md)
+- [Artículo 39](a3-11.md)
+- [CAPÍTULO VII](cv-3.md)
+- [Artículo 40](a4-2.md)
+- [Artículo 41](a4-3.md)
+- [Artículo 42](a4-4.md)
+- [CAPÍTULO VIII](cv-4.md)
+- [Artículo 43](a4-5.md)
+- [Artículo 44](a4-6.md)
+- [Artículo 45](a4-7.md)
+- [Artículo 46](a4-8.md)
+- [CAPÍTULO IX](ci-5.md)
+- [Artículo 47](a4-9.md)
+- [Artículo 48](a4-10.md)
+- [Artículo 49](a4-11.md)
+- [Artículo 50](a5-2.md)
+- [Artículo 51](a5-3.md)
+- [Artículo 52](a5-4.md)
+- [Artículo 53](a5-5.md)
+- [Artículo 54](a5-6.md)
+- [Artículo 55](a5-7.md)
