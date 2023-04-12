@@ -1,1 +1,3 @@
+Norma derogada, con efectos de 12 de abril de 2023, por la disposición derogatoria única.1.a) de la Ley Orgánica 2/2023, de 22 de marzo. Ref. BOE-A-2023-7500#dd
+
 Téngase en cuenta que quedan derogadas, con efectos de 30 de marzo de 2022, las disposiciones referidas a los contratos temporales previstos en el artículo 15.1.a) del texto refundido de la Ley del Estatuto de los Trabajadores, según la redacción del precepto previa a la entrada en vigor del apartado tres del artículo primero, contenidas en la presente norma, según establece la disposición derogatoria única.3 del Real Decreto-ley 32/2021, de 28 de diciembre. Ref. BOE-A-2021-21788#dd

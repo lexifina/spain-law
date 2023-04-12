@@ -12,6 +12,8 @@
 
 6. Durante la vigencia de la autorización de residencia para la búsqueda de empleo o para emprender un proyecto empresarial, en caso de encontrar un empleo adecuado en relación con el nivel de los estudios finalizados o de haber emprendido un proyecto empresarial, se deberá solicitar la autorización correspondiente de entre las reguladas en la Ley Orgánica 4/2000, de 11 de enero, o en la Ley 14/2013, de 27 de septiembre.
 
+> Se modifica el apartado 1 por la disposición final 5.1 de la Ley Orgánica 2/2023, de 22 de marzo. Ref. BOE-A-2023-7500#df-5
+
 > Se modifica el apartado 1 por la disposición final 5.10 de la Ley 28/2022, de 21 de diciembre. Ref. BOE-A-2022-21739#df-5
 
 > Se añade por el art. 3.4 del Real Decreto-ley 11/2018, de 31 de agosto. Ref. BOE-A-2018-12131#at
