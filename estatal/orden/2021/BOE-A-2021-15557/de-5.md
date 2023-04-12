@@ -2,7 +2,7 @@
 
 1. Se delega el ejercicio de las siguientes competencias atribuidas al titular del Departamento en materia de planificación, proyecto, construcción y explotación de las carreteras del Estado:
 
-A) En el titular de la Secretaría General de Infraestructuras:
+A) En el titular de la Secretaría de Estado de Transportes, Movilidad y Agenda Urbana:
 
 a) La aprobación de los expedientes de información pública a que se refiere el artículo 12 de la Ley 37/2015, de 29 de septiembre, de Carreteras.
 
@@ -14,7 +14,7 @@ d) La resolución de los expedientes de contratación y el otorgamiento de conce
 
 e) Ejercitar las facultades establecidas en el apartado 3 del artículo 33 de la Ley 37/2015, de 29 de septiembre, en materia de establecimiento de la línea de edificación, así como aprobar los expedientes para el establecimiento de la línea límite de edificación a una distancia inferior a la fijada con carácter general, a los que se refiere el artículo 85.4 del Reglamento General de Carreteras.
 
-f) La resolución de los expedientes de cesión de carreteras del Estado o de tramos determinados de ellas, o de su viario anexo, a los respectivos ayuntamientos u otras administraciones públicas, cuando exista acuerdo entre el órgano cedente y el cesionario, conforme a lo previsto en los artículos 5 y 49.1 de la Ley 37/2015, de 29 de septiembre.
+f) La resolución de los expedientes de cesión de carreteras del Estado o de tramos determinados de ellas a los respectivos ayuntamientos u otras administraciones públicas, cuando exista acuerdo entre el órgano cedente y el cesionario, conforme a lo previsto en los artículos 5 y 49.1 de la Ley 37/2015, de 29 de septiembre.
 
 B) En el Delegado del Gobierno en las Sociedades Concesionarias de Autopistas Nacionales de Peaje, acordar, en casos de urgencia, conforme a lo previsto en el párrafo segundo del artículo 38.2 de la Ley 37/2015, de 29 de septiembre, el desvío del tráfico de los vehículos que se determine por la totalidad o parte de una autopista explotada en régimen de concesión, por un plazo máximo de un mes, y sin perjuicio de la compensación a que pueda tener derecho el concesionario.
 
@@ -84,9 +84,9 @@ k) La aprobación del programa de trabajos inicial presentado por el contratista
 
 3. El titular de la Dirección General de Carreteras delega el ejercicio de las siguientes competencias:
 
-A) En el titular de la Subdirección General de Explotación:
+A) En el titular de la Subdirección General de Planificación y Explotación:
 
-a) La aceptación de los directores de explotación de carreteras del Estado en régimen de concesión con pago directo del usuario.
+a) La aceptación de los directores de explotación de carreteras del Estado en régimen de concesión u otro modo de gestión indirecta.
 
 b) La aprobación de estudios y proyectos de áreas de servicio en las carreteras del Estado que no requieran el trámite de información pública y que no estén incluidos en los respectivos estudios y proyectos de carreteras, así como la aprobación provisional de estudios de áreas de servicio cuando requieran el trámite de información pública.
 
@@ -104,31 +104,29 @@ h) La aprobación provisional de los estudios de delimitación de tramos urbanos
 
 i) La emisión de los informes, previos, preceptivos y vinculantes, para la autorización de vehículos y transportes especiales, a los efectos previstos en el artículo 38 de la Ley 37/2015, de 29 de septiembre, y en el artículo 108.3 del Reglamento General de Carreteras, aprobado por Real Decreto 1812/1994, de 2 de septiembre, así como la gestión de fianzas asociadas a los mismos.
 
-B) En el titular de la Subdirección General de Proyectos, con la salvedad prevista en la letra C) siguiente:
+j) La emisión del informe de alegaciones en los expedientes de información pública de estudios previos e informativos de carreteras del Estado, en el ámbito de sus competencias.
 
-a) La emisión de órdenes de estudio de realización de estudios previos y anteproyectos, así como las modificaciones y anulaciones de las mismas, correspondientes a actuaciones a promover en el ámbito de la Dirección General de Carreteras, salvo las indicadas en la letra C).a) siguiente.
+B) En el titular de la Subdirección General de Proyectos y Obras, con la salvedad prevista en la letra C) siguiente:
 
-b) La aprobación provisional de estudios previos y anteproyectos cuando éstos requieran ser sometidos a información pública.
+a) La emisión del informe de alegaciones en los expedientes de información pública de anteproyectos y proyectos de carreteras del Estado, en el ámbito de sus competencias.
 
-c) La aprobación definitiva de estudios previos y anteproyectos, en los casos en que, reglamentariamente, no se exija información pública.
+b) La aceptación de los directores de proyectos redactados por sociedades concesionarias así como la de los directores de construcción en obras ejecutadas por las sociedades concesionarias en el caso de carreteras en régimen de concesión u otro modo de gestión indirecta.
 
-d) La emisión del informe de alegaciones en los expedientes de información pública de estudios y proyectos de carreteras del Estado, en el ámbito de sus competencias.
+C) En el titular de la Subdirección General de Conservación y Gestión de Activos, con la salvedad prevista en la letra E).g):
 
-e) La aceptación de los directores de proyectos redactados por sociedades concesionarias en el caso de carreteras en régimen de concesión.
-
-C) En el titular de la Subdirección General de Conservación, con la salvedad prevista en la letra E).g):
-
-a) La emisión de las órdenes de estudio, sus modificaciones y anulaciones, y la aprobación de estudios, anteproyectos y proyectos de construcción de obras conservación en las carreteras del Estado, cuyo valor estimado no exceda de 1.000.000 de euros.
+a) La emisión de las órdenes de estudio, sus modificaciones y anulaciones, y la aprobación de estudios y proyectos de conservación en las carreteras del Estado, cuyo valor estimado no exceda de 1.000.000 de euros.
 
 b) La aprobación provisional de los estudios y proyectos de conservación en las carreteras del Estado cuando éstos requieran ser sometidos a información pública.
 
 c) La emisión del informe de alegaciones en los expedientes de información pública especificados en el apartado anterior.
 
-d) La aceptación de los directores de explotación de la Red Estatal en régimen de concesión sin pago directo del usuario.
+d) La aceptación de los directores de proyectos de conservación redactados por sociedades concesionarias así como la de los directores de construcción en obras de conservación ejecutadas por las sociedades concesionarias en el caso de carreteras en régimen de concesión u otro modo de gestión indirecta.
 
-e) La aceptación de los directores de proyectos de conservación redactados por sociedades concesionarias en el caso de carreteras en régimen de concesión sin pago directo del usuario.
+D) En el titular de la Subdirección General de Sostenibilidad e Innovación, con la salvedad prevista en la letra E).g):
 
-D) En el titular de la Subdirección General de Construcción, la aceptación de los directores de construcción en obras ejecutadas por las sociedades concesionarias en el caso de carreteras en régimen de concesión.
+a) La emisión de las órdenes de estudio, así como sus modificaciones y anulaciones, para los estudios y proyectos relacionados con las iniciativas de movilidad ciclista, de eficiencia energética, de sostenibilidad, descarbonización, resiliencia y adaptación al cambio climático en las carreteras del Estado, cuyo valor estimado no exceda de 1.000.000 de euros.
+
+b) La aprobación de estudios y proyectos relacionados con el análisis de la movilidad, innovación y digitalización en las carreteras del Estado, cuyo valor estimado no exceda de 1.000.000 de euros.
 
 E) En los Jefes de las Demarcaciones de Carreteras:
 
@@ -145,5 +143,7 @@ e) La autorización de las ocupaciones del dominio público en carreteras de un 
 f) Las resoluciones y actuaciones en el ámbito de su competencia territorial, en el resto de materias de gestión, tutela, protección y defensa del servicio público viario, de la correcta explotación de la carretera o de las zonas de protección de las carreteras de titularidad estatal y su zona de influencia.
 
 g) La emisión de las órdenes de estudio, así como sus modificaciones y anulaciones y la aprobación de los estudios y proyectos que correspondan a actuaciones en las que tienen delegadas las competencias como órgano de contratación, salvo que sean actuaciones que afecten a la estabilidad, seguridad o estanqueidad de la obra.
+
+> Se modifica por el apartado 1.8 de la Orden TMA/355/2023, de 10 de abril. Ref. BOE-A-2023-9018
 
 > Se modifican los puntos 1.A) y 2 por el apartado 1.8 de la Orden TMA/221/2022, de 21 de marzo. Ref. BOE-A-2022-4623
