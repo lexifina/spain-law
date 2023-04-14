@@ -6,7 +6,7 @@
 
 2. Accesos distintos para la entrada y salida de los vehículos al centro.
 
-3. En centros con una autorización vigente en el momento de la publicación de este real decreto y, únicamente en caso de que técnica o estructuralmente no pueda disponer de accesos distintos de entrada y salida, este dispondrá de un sistema eficaz de limpieza y desinfección de ruedas y bajos del vehículo con biocida de uso ganadero para que actúe sobre las ruedas y bajos del vehículo.
+3. En centros de obra antigua en el momento de la publicación de este real decreto, y únicamente en caso de que técnica o estructuralmente no puedan disponer de accesos distintos de entrada y salida, estos dispondrán de un sistema eficaz de limpieza y desinfección de ruedas y bajos del vehículo con biocida de uso ganadero para que actúe sobre las ruedas y bajos del vehículo.
 
 4. El recinto debe estar cerrado exteriormente y la superficie del mismo será hormigonada o asfaltada, al menos en la superficie donde se realizan las tareas de limpieza y desinfección, así como el acceso y la salida del vehículo.
 
@@ -37,3 +37,5 @@ b) En aquellos centros en los que el detergente utilizado para la limpieza así 
 15. Espacio reservado para el material, herramientas, maquinaria, almacenamiento de productos químicos, etc.
 
 16. Instalación o instalaciones destinadas a la realización de las funciones administrativas del centro.
+
+> Se modifica el apartado 3 por el art. único.9 del Real Decreto 208/2023, de 28 de marzo. Ref. BOE-A-2023-9095
