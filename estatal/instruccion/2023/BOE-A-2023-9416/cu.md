@@ -1,0 +1,3 @@
+## Cuarto.
+
+El Secretario de la Junta Electoral de Zona será el responsable del tratamiento de los datos personales necesarios para el cumplimiento de las funciones que le corresponden, conforme a lo establecido en la Ley Orgánica del Régimen Electoral General, en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personal y garantía de los derechos digitales y, subsidiariamente, en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos).

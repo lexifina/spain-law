@@ -1,0 +1,3 @@
+## Tercero.
+
+La utilización de esta aplicación supondrá el uso del «sello electrónico la Junta Electoral de Zona», creado mediante resolución de la Presidencia de la Junta Electoral Central de 28 de febrero de 2023 y publicado en el BOE el día 3 de marzo de 2023. La titularidad de ese sello corresponde a la Junta Electoral Central, pero la responsabilidad tanto de su utilización como a efectos de impugnaciones corresponderá a cada una de las Juntas Electorales de Zona constituidas con motivo de la convocatoria de las elecciones. La programación y mantenimiento de la aplicación corresponde al órgano competente del Ministerio del Interior.
