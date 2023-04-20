@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 302, de 13 de diciembre de 2017. Ref. BOE-A-2017-14672
+Norma derogada, con efectos de 20 de abril de 2023, por la disposición derogatoria única de la Orden APA/379/2023, de 8 de abril. Ref. BOE-A-2023-9624#dd
