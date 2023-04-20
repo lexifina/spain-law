@@ -1,1 +1,3 @@
+Norma derogada, con efectos desde el 20 de abril de 2023, por la disposición derogatoria única del Real Decreto 888/2022, de 18 de octubre. Ref. BOE-A-2022-17105#dd
+
 Esta norma pasa a denominarse "Real Decreto 1971/1999, de 23 de diciembre, de procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad", según establece el art. único.1 del Real Decreto 1856/2009, de 4 de diciembre. Ref. BOE-A-2009-20891.
