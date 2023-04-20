@@ -2,29 +2,11 @@
 
 ## Asignación de materias de la Educación Secundaria Obligatoria a las especialidades docentes de los cuerpos de catedráticos de enseñanza secundaria y de profesores de enseñanza secundaria
 
-| Especialidades de los cuerpos | Materias de la Educación Secundaria Obligatoria |
-| --- | --- |
-| Alemán. | Primera Lengua Extranjera Alemán. Segunda Lengua Extranjera Alemán. |
-| Biología y geología. | Biología y Geología. Cultura Científica. |
-| Dibujo. | Educación Plástica, Visual y Audiovisual. |
-| Economía. | Economía. Iniciación a la Actividad Emprendedora y Empresarial. (En los centros en los que exista profesorado de la especialidad de Economía, Formación y Orientación Laboral, y Organización y Gestión Comercial, se seguirá este orden de prelación para impartir las materias Economía e Iniciación a la Actividad Emprendedora y Empresarial.). |
-| Educación física. | Educación Física. |
-| Filosofía. | Filosofía Valores Éticos. |
-| Física y química. | Ciencias Aplicadas a la Actividad Profesional Física y Química. |
-| Formación y orientación laboral. | Iniciación a la Actividad Emprendedora y Empresarial. |
-| Francés. | Primera Lengua Extranjera Francés. Segunda Lengua Extranjera Francés. |
-| Geografía e historia. | Geografía e Historia. |
-| Griego. | Cultura Clásica. |
-| Informática. | Tecnologías de la Información y la Comunicación. (En los centros en los que exista profesorado de la especialidad de Informática, este tendrá preferencia sobre el de la especialidad de Tecnología para impartir la materia Tecnologías de la Información y la Comunicación.). |
-| Inglés. | Primera Lengua Extranjera Inglés. Segunda Lengua Extranjera Inglés. |
-| Italiano. | Primera Lengua Extranjera Italiano. Segunda Lengua Extranjera Italiano. |
-| Lengua castellana y literatura. | Lengua Castellana y Literatura. Artes Escénicas y Danza. |
-| Latín. | Latín. Cultura Clásica. |
-| Matemáticas. | Matemáticas Orientadas a las Enseñanzas Académicas. Matemáticas Orientadas a las Enseñanzas Aplicadas. Matemáticas. |
-| Música. | Música. Artes Escénicas y Danza. (Para impartir la materia Artes Escénicas y Danza tendrá preferencia el profesorado de la especialidad de Música.). |
-| Organización y gestión comercial. | Iniciación a la Actividad Emprendedora y Empresarial. |
-| Portugués. | Primera Lengua Extranjera Portugués. Segunda Lengua Extranjera Portugués. |
-| Tecnología. | Tecnología. Tecnologías de la Información y la Comunicación. |
+(Derogado).
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 286/2023, de 18 de abril. Ref. BOE-A-2023-9553#dd
+
+> Téngase en cuenta para su aplicación, las disposiciones transitoria única.1 y final 9 del citado decreto.
 
 > Se modifica por el art. 1.4 del Real Decreto 665/2015, de 17 de julio. Ref. BOE-A-2015-8043.
 

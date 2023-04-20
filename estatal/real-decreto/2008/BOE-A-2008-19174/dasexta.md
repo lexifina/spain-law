@@ -1,3 +1,7 @@
 ## Disposición adicional sexta. Especialidades sin asignación de funciones.
 
-El profesorado de las especialidades de los diferentes cuerpos a los que se refiere este real decreto para el que no se haya establecido ninguna correspondencia, continuará desempeñando las mismas funciones que tuviera asignadas a la entrada en vigor del presente real decreto.
+(Derogada).
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 286/2023, de 18 de abril. Ref. BOE-A-2023-9553#dd
+
+> Téngase en cuenta para su aplicación, las disposiciones transitoria única.1 y final 9 del citado decreto.

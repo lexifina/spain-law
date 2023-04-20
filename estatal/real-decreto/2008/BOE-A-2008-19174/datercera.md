@@ -1,3 +1,7 @@
 ## Disposición adicional tercera. Atribución docente para la materia de Cultura audiovisual.
 
-La materia de Cultura audiovisual del bachillerato estará a cargo de catedráticos y profesores que, cualquiera que sea su especialidad, acrediten una formación superior adecuada para impartir el currículo de la materia.
+(Derogada).
+
+> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 286/2023, de 18 de abril. Ref. BOE-A-2023-9553#dd
+
+> Téngase en cuenta para su aplicación, las disposiciones transitoria única.1 y final 9 del citado decreto.

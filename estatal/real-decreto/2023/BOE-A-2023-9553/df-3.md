@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria.
+
+Se modifica el apartado 1 del artículo 1 del Real Decreto 1834/2008, de 8 de noviembre, por el que se definen las condiciones de formación para el ejercicio de la docencia en la educación secundaria obligatoria, el bachillerato, la formación profesional y las enseñanzas de régimen especial y se establecen las especialidades de los cuerpos docentes de enseñanza secundaria, que queda redactado como sigue:
+
+> «1. Este real decreto tiene por objeto establecer las especialidades docentes de los cuerpos de funcionarios que tienen a su cargo la enseñanza en la educación secundaria obligatoria, el bachillerato y la formación profesional.»
