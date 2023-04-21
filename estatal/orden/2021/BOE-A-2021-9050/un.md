@@ -20,7 +20,7 @@ a) Para los contratos de cualquier cuantía relativos a obras, suministros y ser
 
 2.º La realización del replanteo previo de la obra y suscripción de su correspondiente acta, así como la expedición de la certificación acreditativa de la plena posesión y de la disposición real de los terrenos necesarios para la normal ejecución del contrato y para la viabilidad del proyecto.
 
-3.º La incoación y tramitación de los expedientes de información pública que se requieran en los procedimientos de contratación, de acuerdo con el artículo 247.3 y 4 de la Ley 9/2017, de 8 de noviembre, incluidos los correspondientes a actuaciones encomendadas a las sociedades estatales que se desarrollen en el ámbito de la cuenca, cuando resulte necesaria.
+3.º La incoación y tramitación de los expedientes de información pública que se requieran en los procedimientos de contratación, de acuerdo con el artículo 247.3 y 4 de la Ley 9/2017, de 8 de noviembre.
 
 4.º La suscripción del acta de comprobación del replanteo.
 
@@ -44,6 +44,8 @@ b) Para los contratos de obras y suministros cuyo presupuesto no exceda de 2.000
 
 4. La persona titular de la Dirección General del Agua delega en las personas titulares de las presidencias de las Confederaciones Hidrográficas y de la Dirección de la Mancomunidad de los Canales del Taibilla la competencia para realizar la información pública de los expedientes expropiatorios prevista en el artículo 18.1 de la Ley de Expropiación Forzosa de 16 de diciembre de 1954.
 
-5. La persona titular de la Subdirección General de Dominio Público Hidráulico e Infraestructuras, de la Dirección General del Agua, delega la competencia para la realización, supervisión y control de estudios y proyectos en las personas titulares de las oficinas de supervisión de proyectos de obra de las Confederaciones Hidrográficas, para aquellos proyectos cuya aprobación haya sido delegada en los Presidentes de las mismas, así como las que realicen las sociedades estatales en el ámbito territorial de cada una de ellas en virtud de un convenio de gestión directa.
+5. La persona titular de la Subdirección General de Dominio Público Hidráulico e Infraestructuras, de la Dirección General del Agua, delega la competencia para la realización, supervisión y control de estudios y proyectos en las personas titulares de las oficinas de supervisión de proyectos de obra de las Confederaciones Hidrográficas, para aquellos proyectos cuya aprobación haya sido delegada en los Presidentes de las mismas.
 
 6. Las delegaciones en materia de recursos humanos son las contenidas en el apartado vigésimo séptimo.
+
+> Se modifican los apartados 3 y 5 por el art. único.6 y 7 de la Orden TED/386/2023, de 18 de abril. Ref. BOE-A-2023-9700

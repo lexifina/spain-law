@@ -14,11 +14,13 @@ e) Los acuerdos de cancelación de garantías prestadas por los beneficiarios de
 
 f) La resolución desestimatoria de las solicitudes y la resolución en casos de prescripción, renuncia del derecho, caducidad del procedimiento o desistimiento de la solicitud, en el ámbito de la Secretaría de Estado de Energía, así como la desaparición sobrevenida del objeto del procedimiento, cuando, en este ámbito, correspondan a la persona titular del ministerio.
 
-g) La aprobación de gastos y su compromiso.
+g) La aprobación de gastos y su compromiso, así como el reconocimiento de las obligaciones y propuestas de pago que no afecten al ámbito material de ninguna subdirección general.
 
 Cuando en un mismo acto se apruebe o comprometa gasto y se reconozca la obligación, la competencia se determinará conforme a lo establecido en este apartado.
 
 Las delegaciones establecidas en este párrafo se entienden sin perjuicio de las delegaciones realizadas en otros apartados de esta orden cuyo ejercicio comprenda la de aprobar, comprometer o reconocer obligaciones, que tendrán preferencia sobre lo dispuesto en este párrafo.
+
+h) La autorización de los documentos contables que no afecten al ámbito material de ninguna subdirección general.»
 
 2. La persona titular de la Secretaría de Estado de Energía ejercerá, por delegación de la persona titular del ministerio, las competencias siguientes:
 
@@ -50,6 +52,8 @@ d) La resolución de procedimientos de revisión en vía administrativa de los a
 
 e) La adopción de los acuerdos administrativos de ejecución de sentencias recaídas en la jurisdicción contencioso-administrativa, cuando los actos o disposiciones objeto de recurso fueron dictados por la persona titular del ministerio.
 
+f) La imposición de las sanciones por infracciones muy graves atribuidas a la competencia de la persona titular del ministerio por la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+
 3. La persona titular de la Secretaría de Estado de Energía ejercerá por delegación de la persona titular del ministerio, la aprobación y el compromiso del gasto, así como el reconocimiento y propuesta de pago de las obligaciones económicas que se financien con cargo a los créditos consignados en el servicio 50 y en los programas presupuestarios correspondientes al ámbito material de sus competencias. Asimismo, se delega la competencia administrativa de cualquier acto realizado en su ámbito material de competencias y cuya financiación se realice con cargo a los créditos consignados en el citado servicio, salvo en aquellos casos en los que el órgano delegado tenga competencia originaria.
 
 4. La persona titular de la Secretaría de Estado de Energía ejerce por delegación de la persona titular de la Subsecretaría:
@@ -57,5 +61,7 @@ e) La adopción de los acuerdos administrativos de ejecución de sentencias reca
 a) La certificación en los contratos de servicios y en los encargos a medios propios del ámbito de actuación de la secretaría de Estado, de la insuficiencia, falta de adecuación o conveniencia de no ampliación de los medios personales y materiales con que cuenta la Administración para cubrir las necesidades que se trata de satisfacer a través del contrato de servicios.
 
 b) La designación de las comisiones de servicio con derecho a indemnización, respecto de la persona titular de la Dirección General de Política Energética y Minas, así como respecto de la persona titular de la Dirección de su Gabinete y de la persona titular de la Subdirección General de Prospectiva, Estrategia y Normativa en Materia de Energía.
+
+> Se modifican los apartados 1.g) y 2.h) y se añade el 2.f) por el art. único.1 a 3 de la Orden TED/386/2023, de 18 de abril. Ref. BOE-A-2023-9700
 
 > Se modifica por la disposición 3 de la Orden TED/346/2022, de 20 de abril. Ref. BOE-A-2022-6597

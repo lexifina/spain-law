@@ -40,7 +40,17 @@ d) La aprobación de los reajustes de anualidades de los contratos y la fijació
 
 e) Todos los demás actos de tramitación en materia de contratación administrativa no delegados en las personas titulares de las subdirecciones generales u otros órganos administrativos.
 
-3. Se delegan por la persona titular del ministerio en la persona titular de la Dirección General de Política Energética y Minas, las facultades en materia de expropiación forzosa que le atribuye la legislación en la materia.
+3. Se delegan por la persona titular del ministerio en la persona titular de la Dirección General de Política Energética y Minas las siguientes competencias:
+
+a) Las correspondientes a la expropiación forzosa que le atribuye a la persona titular del ministerio la legislación en la materia.
+
+b) La imposición de las sanciones por infracciones graves cometidas por titulares de instalaciones nucleares o radiactivas de primera categoría, así como de las sanciones por infracciones muy graves cometidas por los titulares de instalaciones radiactivas de segunda y tercera categoría y restantes actividades reguladas por la Ley 25/1964, de 29 de abril, sobre energía nuclear o sus normas de desarrollo, atribuidas a la competencia de la persona titular del Ministerio por la citada Ley.
+
+c) La imposición de las sanciones por infracciones muy graves atribuidas a la competencia de la persona titular del ministerio por la Ley 22/1973, de 21 de julio, de Minas.
+
+d) La imposición de las sanciones por infracciones graves atribuidas a la competencia de la persona titular del ministerio por la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos.
+
+e) El traspaso a un comercializador de referencia de los clientes de un comercializador de energía eléctrica que haya sido inhabilitado por incumplir alguno de los requisitos exigidos para el ejercicio de su actividad, de conformidad con lo establecido en el artículo 47.2 de la Ley 24/2013, de 26 de diciembre, así como las condiciones de suministro de dichos clientes.
 
 4. Se delegan por la persona titular del ministerio en la persona titular de la Dirección General de Política Energética y Minas, las actuaciones en materia del gasto relativo a las transferencias a las Cámaras Oficiales Mineras por su participación en la recaudación de la tasa 072, en el ámbito del servicio presupuestario de la dirección general, la aprobación, compromiso, reconocimiento de la obligación y propuesta de pago, y la autorización de los documentos contables.
 
@@ -49,5 +59,9 @@ e) Todos los demás actos de tramitación en materia de contratación administra
 a) La certificación en los contratos de servicios y en los encargos a medios propios del ámbito de actuación de la dirección general, de la insuficiencia, falta de adecuación o conveniencia de no ampliación de los medios personales y materiales con que cuenta la Administración para cubrir las necesidades que se trata de satisfacer a través del contrato de servicios.
 
 b) En materia de indemnizaciones por razón de servicio, la designación de comisiones de servicio con derecho a indemnización de las personas titulares de las subdirecciones generales adscritas a la dirección general o a la unidad de apoyo de la dirección general.
+
+6. Se delega por la persona titular de la Secretaría de Estado de Energía en la persona titular de la Dirección General de Política Energética y Minas la imposición de las sanciones graves atribuidas a la competencia de la persona titular de la Secretaría de Estado por la Ley 24/2013, de 26 de diciembre.
+
+> Se modifica el apartado 3 y se añade el 6 por el art. único.4 y 5 de la Orden TED/386/2023, de 18 de abril. Ref. BOE-A-2023-9700
 
 > Se modifica el apartado 1.i) por la disposición 4 de la Orden TED/346/2022, de 20 de abril. Ref. BOE-A-2022-6597
