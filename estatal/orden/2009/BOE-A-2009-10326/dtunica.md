@@ -4,7 +4,7 @@ Durante la vigencia de aquellos aplazamientos y fraccionamientos concedidos con 
 
 En estos casos, la domiciliación deberá ordenarse obligatoriamente mediante alguno de los siguientes procedimientos:
 
-a) Por vía telemática a través de la Oficina Virtual de la dirección electrónica de la Agencia Estatal de Administración Tributaria, indicando la codificación de la cuenta en la que se desean domiciliar los pagos, utilizando el sistema de firma electrónica.
+a) Por vía telemática a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, indicando la codificación de la cuenta en la que se desean domiciliar los pagos, utilizando el sistema de firma electrónica.
 
 La Agencia Estatal de Administración Tributaria mostrará en pantalla la información acerca de la aceptación o rechazo de la orden de domiciliación.
 
@@ -17,3 +17,5 @@ b) Telefónicamente, mediante llamada al Centro de Atención Telefónica de la A
 Cuando la orden de domiciliación hubiera sido transmitida y aceptada entre los días 1 y 15 del mes, surtirá efectos respecto de los plazos o fracciones que venzan desde el día 5 del mes siguiente. Si hubiese sido transmitida y aceptada desde el día 16 al último del mes, surtirán efectos respecto de los plazos y fracciones que venzan desde el día 20 del mes siguiente.
 
 Aquellas órdenes de domiciliación que no se ajusten a los procedimientos y condiciones establecidos en el presente apartado no surtirán efectos ante la Agencia Estatal de Administración Tributaria, por lo que el obligado deberá continuar realizando, presencial o telemáticamente, el pago de los plazos que vencieran a través de cualquiera de las Entidades de crédito que actúan como colaboradoras en la gestión recaudatoria.
+
+> Se sustituye en la letra a) la referencia a la "Oficina Virtual de la dirección electrónica de la Agencia Estatal de Administración Tributaria" por la "Sede electrónica de la Agencia Estatal de Administración Tributaria", según establece la disposición final primera de la Orden HFP/387/2023, de 18 de abril. Ref. BOE-A-2023-9704
