@@ -1,48 +1,52 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_1.png)
+Declaración censal de alta, modificación y baja en el Censo de Empresarios, Profesionales y Retenedores
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_5.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_8.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_9.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_10.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_11.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_12.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_13.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_14.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_13.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_15.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_14.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_16.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_15.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_17.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_16.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_18.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_17.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_19.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_18.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_20.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_19.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_21.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_20.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_22.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_21.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_22.png)
+
+> Se modifica por el art. 1.2 y se sustituye por el anexo de la Orden HFP/381/2023, de 26 de abril. Ref. BOE-A-2023-9634
 
 > Se sustituye por el Anexo I de la Orden HAC/609/2021, de 16 de junio, según establece su art. 1.4. Ref. BOE-A-2021-10160
 
