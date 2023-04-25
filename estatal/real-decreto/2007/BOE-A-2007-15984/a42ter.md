@@ -36,7 +36,13 @@ La obligación de información regulada en este apartado 2 se extiende a cualqui
 
 a) Los seguros de vida o invalidez de los que resulten tomadores a 31 de diciembre de cada año cuando la entidad aseguradora se encuentre situada en el extranjero, con indicación de su valor de rescate a dicha fecha.
 
+No obstante, cuando el tomador no tenga la facultad de ejercer el derecho de rescate total a 31 de diciembre, se indicará el valor de la provisión matemática a dicha fecha.
+
+Lo dispuesto en el párrafo anterior no se aplicará a los seguros temporales que únicamente incluyan prestaciones en caso de fallecimiento o invalidez u otras garantías complementarias de riesgo.
+
 b) Las rentas temporales o vitalicias de las que sean beneficiarios a 31 de diciembre, como consecuencia de la entrega de un capital en dinero, de derechos de contenido económico o de bienes muebles o inmuebles, a entidades situadas en el extranjero, con indicación de su valor de capitalización a dicha fecha.
+
+No obstante, cuando las citadas rentas procedan de un seguro de vida, se indicará el valor establecido en la letra a) anterior. En caso de que el tomador del seguro sea persona distinta del beneficiario de la renta y conserve el derecho de rescate, será dicho tomador el que suministrará a la Administración tributaria la citada información.
 
 En los casos señalados en los párrafos a) y b) anteriores, se deberá identificar a la entidad aseguradora indicando la razón social o denominación completa y su domicilio.
 
@@ -46,7 +52,7 @@ a) Cuando el obligado tributario sea una de las entidades a que se refiere el ar
 
 b) Cuando el obligado tributario sea una persona jurídica o entidad residente en territorio español o cuando sea un establecimiento permanente en España de no residentes, que tengan registrados en su contabilidad de forma individualizada los valores, derechos, seguros y rentas a que se refiere este artículo.
 
-c) Cuando los valores a los que se refieren cada uno de los apartados 1.b), 1.c) y 1.d), el valor liquidativo a que se refiere el apartado 2, el valor de rescate a que se refiere el apartado 3.a) y el valor de capitalización señalado en el apartado 3.b), no superen, conjuntamente, el importe de 50.000 euros. En caso de superarse dicho límite conjunto deberá informarse sobre todos los títulos, activos, valores, derechos, seguros o rentas.
+c) Cuando los valores a los que se refieren cada uno de los apartados 1.b), 1.c) y 1.d), el valor liquidativo a que se refiere el apartado 2, el valor de rescate o de la provisión matemática a que se refiere el apartado 3.a) y el valor de capitalización señalado en el apartado 3.b), no superen, conjuntamente, el importe de 50.000 euros. En caso de superarse dicho límite conjunto deberá informarse sobre todos los títulos, activos, valores, derechos, seguros o rentas.
 
 5. Esta obligación deberá cumplirse entre el 1 de enero y el 31 de marzo del año siguiente a aquel al que se refiera la información a suministrar.
 
@@ -75,6 +81,8 @@ e) En el apartado 3.a), por cada seguro de vida.
 f) En el apartado 3.b), por cada renta temporal o vitalicia.
 
 También tendrá la consideración de dato cada uno de los saldos a que se refieren el último párrafo del apartado 1, por cada clase de valor, y el último párrafo del apartado 2, por cada clase de acción y participación.
+
+> Se modifica el apartado 3 y la letra c) del apartado 4 por el art. 3.8 del Real Decreto 249/2023, de 4 de abril. Ref. BOE-A-2023-8576#a3
 
 > Se añade por el art. 2.3 del Real Decreto 1558/2012, de 15 de noviembre. Ref. BOE-A-2012-14452.
 
