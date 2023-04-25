@@ -9,3 +9,5 @@ El rendimiento neto de módulos, así calculado, se tendrá en cuenta para la ap
 3. Esta reducción se tendrá en cuenta para cuantificar el rendimiento neto a efectos de los pagos fraccionados correspondientes a 2022.
 
 > Téngase en cuenta que la reducción prevista en esta disposición será del 15 por 100 para cuantificar el rendimiento neto a efectos del pago fraccionado correspondientes al cuarto trimestre de 2022, según establece la disposición adicional 8 de la Orden HFP/1172/2022, de 29 de noviembre. Ref. BOE-A-2022-20025#da-8
+
+> La reducción en 2022 del rendimiento neto calculado por el método de estimación objetiva prevista en esta disposición será del 25 por ciento para las actividades agrícolas, ganaderas y forestales incluidas en el anexo I de esta orden, según establece el art. 2 de la Orden HFP/405/2023, de 18 de abril de 2023. Ref. BOE-A-2023-9955
