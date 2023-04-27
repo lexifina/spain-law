@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 1237/2011, de 8 de septiembre, por el que se establece la aplicación de exenciones por razones de defensa, en materia de registro, evaluación, autorización y restricción de sustancias y mezclas químicas, de acuerdo con lo establecido en el Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y del Consejo, de 18 de diciembre de 2006, y en materia de clasificación, etiquetado y envasado de sustancias y mezclas, de acuerdo con el Reglamento (CE) n.º 1272/2008 del Parlamento Europeo y del Consejo, de 16 de diciembre de 2008.
