@@ -34,11 +34,9 @@ g) 28º 23 ’ N, 14º 25 ’ W.
 
 a) Artes de cerco:
 
-1.º Traiña o sardinal (en la Isla de El Hierro, exclusivamente se podrá usar este arte para la captura de jurel (Trachurus spp), caballa (Scomber colias) y sardina de ley (Sardina pilchardus), con un tope de 200 kg por embarcación y día y para la captura de cebo vivo y muerto).
+1.° Traiña o sardinal (en la isla de El Hierro, exclusivamente se podrá usar este arte para la captura de jurel (Trachurus spp), caballa del Atlántico (Scomber colias) y sardina de ley (Sardina pilchardus), con un tope de 200 kg por embarcación y día y para la captura de cebo vivo y muerto).
 
-2.º Chinchorro de aire o hamaca (exclusivamente en la Isla de Fuerteventura).
-
-3.º Salemera. En la Isla de Fuerteventura, exclusivamente para la captura de salema (Sarpa salpa) en determinadas fechas con preaviso. En la Isla de El Hierro sólo se podrá usar este arte entre la Caleta hasta la Baja Nacón por la zona sur de la isla, y exclusivamente en los meses de marzo, abril, mayo, septiembre, octubre y noviembre.
+2.° Chinchorro de aire o hamaca (exclusivamente en la isla de Fuerteventura).
 
 b) Aparejos de anzuelo:
 
@@ -59,3 +57,5 @@ c) Trampas:
 d) Útiles: Vara para peto.
 
 3. Si cualquiera de las zonas o islas definidas en este anexo está incluida en todo o parte en una reserva marina, primarán las limitaciones que en esa reserva haya para el ejercicio pesquero con respecto de cualquiera de las artes aquí incluidas.
+
+> Se modifca el apartado 2.a) por el art. único.15 de la Orden APA/441/2019, de 9 de abril. Ref. BOE-A-2019-5732
