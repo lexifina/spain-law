@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Comisiones de Acreditación y áreas de conocimiento asignadas a cada una de ellas
+## Comisiones de Acreditación y Áreas de Conocimiento asignadas a cada una de ellas
 
 A. Ciencias
 
@@ -46,7 +46,7 @@ A3. Química.
 
 765. Química Orgánica.
 
-A4. Ciencias de la Naturaleza.
+A4. Ciencias de la Naturaleza
 
 028. Antropología Física.
 
@@ -80,15 +80,17 @@ A5. Biología Celular y Molecular.
 
 420. Genética.
 
+630. Microbiología.
+
 B. Ciencias de Salud
 
-B6. Ciencias Biomédicas.
-
-020. Anatomía Patológica.
-
-025. Anatomía y Anatomía Patológica Comparadas.
+B6. Ciencias Biomédicas y Especialidades Clínicas afines.
 
 027. Anatomía y Embriología Humana.
+
+310. Farmacia y Tecnología Farmacéutica.
+
+315. Farmacología.
 
 410. Fisiología.
 
@@ -96,19 +98,21 @@ B6. Ciencias Biomédicas.
 
 566. Inmunología.
 
+615. Medicina Preventiva y Salud Pública.
+
 630. Microbiología.
 
 660. Parasitología.
 
 807. Toxicología.
 
-B7. Medicina Clínica y Especialidades Clínicas.
+B7. Medicina Clínica y Especialidades Médico-Quirúrgicas.
+
+020. Anatomía Patológica.
 
 090. Cirugía.
 
 183. Dermatología.
-
-275. Estomatología.
 
 610. Medicina.
 
@@ -132,17 +136,15 @@ B7. Medicina Clínica y Especialidades Clínicas.
 
 B8. Especialidades Sanitarias.
 
+025. Anatomía y Anatomía Patológica Comparadas.
+
 255. Enfermería.
+
+275. Estomatología.
 
 413. Fisioterapia.
 
-310. Farmacia y Tecnología Farmacéutica.
-
-315. Farmacología.
-
 640. Nutrición y Bromatología.
-
-615. Medicina Preventiva y Salud Pública.
 
 617. Medicina y Cirugía Animal.
 
@@ -194,7 +196,7 @@ C10. Ingeniería Mecánica y de la Navegación.
 
 720. Proyectos de Ingeniería.
 
-C11. Ingeniería Eléctrica y de Telecomunicaciones.
+C11. Ingeniería Eléctrica y de Telecomunicaciones
 
 250. Electrónica.
 
@@ -208,7 +210,7 @@ C11. Ingeniería Eléctrica y de Telecomunicaciones.
 
 800. Teoría de la Señal y Comunicaciones.
 
-C12. Ingeniería Informática.
+C12. Ingeniería Informática
 
 035. Arquitectura y Tecnología de Computadores.
 
@@ -216,7 +218,7 @@ C12. Ingeniería Informática.
 
 570. Lenguajes y Sistemas Informáticos.
 
-C13. Arquitectura, Ingeniería Civil, Construcción y Urbanismo.
+C13. Arquitectura, Ingeniería Civil, Construcción y Urbanismo
 
 295. Explotación de las Minas.
 
@@ -242,7 +244,7 @@ C13. Arquitectura, Ingeniería Civil, Construcción y Urbanismo.
 
 D. Ciencias Sociales y Jurídicas
 
-D14. Derecho.
+D14. Derecho
 
 125. Derecho Administrativo.
 
@@ -272,7 +274,7 @@ D14. Derecho.
 
 470. Historia del Derecho y de las Instituciones.
 
-D15. Ciencias Económicas.
+D15. Ciencias Económicas
 
 225. Economía Aplicada.
 
@@ -282,9 +284,9 @@ D15. Ciencias Económicas.
 
 480. Historia e Instituciones Económicas.
 
-623. Métodos Cuantitativos para la Economía y la Empresa.
+623. Métodos Cuantitativos para la Economía y la Empresa
 
-D16. Ciencias Empresariales.
+D16. Ciencias Empresariales
 
 095. Comercialización e Investigación de Mercados.
 
@@ -292,7 +294,7 @@ D16. Ciencias Empresariales.
 
 650. Organización de Empresas.
 
-D17. Ciencias de la Educación.
+D17. Ciencias de la Educación
 
 187. Didáctica de la Expresión Corporal.
 
@@ -316,7 +318,7 @@ D17. Ciencias de la Educación.
 
 805. Teoría e Historia de la Educación.
 
-D18. Ciencias del Comportamiento.
+D18. Ciencias del Comportamiento
 
 620. Metodología de las Ciencias del Comportamiento.
 
@@ -330,7 +332,7 @@ D18. Ciencias del Comportamiento.
 
 740. Psicología Social.
 
-D19. Ciencias Sociales.
+D19. Ciencias Sociales
 
 030. Antropología Social.
 
@@ -352,7 +354,7 @@ D19. Ciencias Sociales.
 
 E. Arte y Humanidades
 
-E20. Historia, Filosofía y Arte.
+E20. Historia, Filosofía y Arte
 
 010. Análisis Geográfico Regional.
 
@@ -374,6 +376,8 @@ E20. Historia, Filosofía y Arte.
 
 460. Historia de la Ciencia.
 
+475. Historia del Pensamiento y de los Movimientos Sociales y Políticos.
+
 485. Historia Medieval.
 
 490. Historia Moderna.
@@ -394,7 +398,7 @@ E20. Historia, Filosofía y Arte.
 
 690. Pintura.
 
-E21. Filología y Lingüística.
+E21. Filología y Lingüística
 
 285. Estudios Árabes e Islámicos.
 
@@ -435,6 +439,10 @@ E21. Filología y Lingüística.
 796. Teoría de la Literatura y Literatura Comparada.
 
 814. Traducción e Interpretación.
+
+> Se sustituye por el art. único de la Orden UNI/419/2023, de 17 de abril. Ref. BOE-A-2023-10215
+
+> Téngase en cuenta la disposición transitoria única de la citada Orden, en cuanto a la eficacia de la sustitución de este anexo.
 
 > Se sustituye por el art. único y anexo de la Orden UNI/1191/2020, de 3 de diciembre. Ref. BOE-A-2020-16147
 
