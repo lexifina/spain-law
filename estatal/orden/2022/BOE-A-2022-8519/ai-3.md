@@ -45,7 +45,7 @@ a) Cuerpo de Ingenieros Politécnicos del Ejército de Tierra
 
 b) Cuerpo de Ingenieros de la Armada
 
-| Profesión regulada | Armada(1) |
+| Profesión regulada | Armada (1) |
 | --- | --- |
 | EOF | EOT |
 | Arquitecto. | X |  |
@@ -62,14 +62,22 @@ b) Cuerpo de Ingenieros de la Armada
 | Ingeniero Técnico de Obras Públicas. |  | X |
 | Ingeniero Técnico de Telecomunicación. |  | X |
 | Ingeniero Técnico Naval. |  | X |
-| Profesión con recomendaciones(2) | Armada(1) |
+| Profesión con recomendaciones (2) | Armada (1) |
 | --- | --- |
 | EOF | EOT |
 | Ingeniero Químico. | X |  |
-| Profesión regulada bajo régimen específico(3) | Armada(1) |
+| Ingeniero en Informática. | X |  |
+| Ingeniero Técnico en Informática. |  | X |
+| Ingeniería del Software. | X |  |
+| Ingeniería de computadores. | X |  |
+| Profesión regulada bajo régimen específico (3) | Armada (1) |
 | --- | --- |
 | EOF | EOT |
 | Ingeniero de Armas Navales. | X |  |
+| Titulación Universitaria Oficial | Armada (1) |
+| --- | --- |
+| EOF | EOT |
+| Graduado o Graduada en Ciencia e Ingeniería de Datos. |  | X |
 
 (1) EOF: Escala de Oficiales. EOT: Escala Técnica.
 
@@ -99,3 +107,5 @@ c) Cuerpo de Ingenieros del Ejército del Aire
 (1) EOF: Escala de Oficiales. EOT: Escala Técnica.
 
 Los títulos correspondientes serán válidos para la escala de oficiales o para la escala técnica de los Cuerpos de Ingenieros de los Ejércitos y la Armada, según se indica en los cuadros anteriores. En las titulaciones que puedan tener diferentes especialidades o perfiles, la que se requiera, se determinará en la convocatoria del proceso de selección.
+
+> Se modifica la letra b) por el art. único.2 de la Orden DEF/436/2023, de 26 de abril. Ref. BOE-A-2023-10392
