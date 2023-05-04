@@ -16,7 +16,7 @@ A. Parámetros biológicos, enfermedades y causas generales.
 
 Parámetros biológicos:
 
-1. Talla: En bipedestación: Inferior a 155 cm en mujeres y 160 cm en hombres, o superior a 203 cm.
+1. Talla: en bipedestación: sin límite, sin perjuicio de lo establecido en la disposición final primera de esta orden ministerial.
 
 2. El índice de masa corporal (IMC): No sobrepasará 30 ni será inferior a 17.
 
@@ -391,6 +391,8 @@ K. Sangre y órganos hematopoyéticos.
 8. Inmunodeficiencias incompatibles con la profesión militar, motivándolo de forma individual por informe técnico emitido por el servicio médico correspondiente.
 
 9. Alteraciones analíticas significativas de la sangre aunque no respondan a una entidad nosológica objetivable.
+
+> Se modifica el apartado 1 de la letra A por el art. único.1 de la Orden PCM/444/2023, de 30 de abril. Ref. BOE-A-2023-10705
 
 > Se modifican las letras A) apartados 5, 6 y 11; B) apartado 1 y K) apartado 8 por el art. único de la Orden PCM/79/2020, de 29 de enero. Ref. BOE-A-2020-1446
 
