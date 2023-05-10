@@ -1,0 +1,59 @@
+# Ley 11/2023, de 8 de mayo, de trasposición de Directivas de la Unión Europea en materia de accesibilidad de determinados productos y servicios, migración de personas altamente cualificadas, tributaria y digitalización de actuaciones notariales y registrales; y por la que se modifica la Ley 12/2011, de 27 de mayo, sobre responsabilidad civil por daños nucleares o producidos por materiales radiactivos.
+
+- Identificador: BOE-A-2023-11022
+- Rango: Ley
+- Fecha de disposición: 2023-05-08
+- Publicación: 2023-05-09
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2023-11022
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [TÍTULO II](ti-2.md)
+- [Artículo 32](a3-4.md)
+- [TÍTULO IV](ti-4.md)
+- [Artículo 39](a3-11.md)
+- [TÍTULO V](tv.md)
+- [Artículo 40](a4-2.md)
+- [Artículo 41](a4-3.md)
+- [TÍTULO VI](tv-2.md)
+- [Artículo 42](a4-4.md)
+- [Disposición adicional segunda](da-2.md)
+- [Disposición adicional tercera](da-3.md)
+- [Disposición adicional quinta](da-5.md)
+- [Disposición adicional sexta](da-6.md)
+- [Disposición adicional séptima](da-7.md)
+- [Disposición adicional octava](da-8.md)
+- [Disposición adicional novena](da-9.md)
+- [Disposición adicional décima](da-10.md)
+- [Disposición adicional undécima](da-11.md)
+- [Disposición adicional duodécima](da-12.md)
+- [Disposición transitoria única](dt.md)
+- [Disposición derogatoria única](dd.md)
+- [Disposición final primera](df.md)
+- [Disposición final tercera](df-3.md)
+- [Disposición final cuarta](df-4.md)
+- [Disposición final quinta](df-5.md)
+- [Disposición final sexta](df-6.md)
+- [Disposición final séptima](df-7.md)
+- [Disposición final octava](df-8.md)
+- [Disposición final novena](df-9.md)
+- [Disposición final décima](df-10.md)
+- [Disposición final undécima](df-11.md)
+- [Disposición final duodécima](df-12.md)
+- [Disposición final decimotercera](df-13.md)
+- [Disposición final decimocuarta](df-14.md)
+- [Disposición final decimoquinta](df-15.md)
+- [Disposición final decimosexta](df-16.md)
+- [Disposición final decimoséptima](df-17.md)
+- [Disposición final decimoctava](df-18.md)
+- [(firma)](fi.md)
+- [ANEXO I](ai.md)
+- [ANEXO II](ai-2.md)
+- [ANEXO III](ai-3.md)
+- [ANEXO IV](ai-4.md)
+- [ANEXO V](av.md)
+- [ANEXO VI](av-2.md)
+- [ANEXO VII](av-3.md)

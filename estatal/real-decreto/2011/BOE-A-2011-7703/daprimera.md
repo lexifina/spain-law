@@ -4,7 +4,7 @@
 
 2. Cuando se trate de supuestos en los que se vaya a realizar una actividad laboral en distintas provincias, la competencia para la concesión de las autorizaciones para residir y trabajar corresponderá a la autoridad competente de acuerdo con el apartado anterior de la provincia en la que se vaya a iniciar la actividad laboral.
 
-3. No obstante lo anterior, corresponde al titular de la Dirección General de Inmigración la competencia para tramitar y resolver sobre las autorizaciones de residencia temporal y trabajo por cuenta ajena, de acuerdo con lo previsto en el artículo 67 de este Reglamento, cuando las solicitudes sean presentadas por empresas que, teniendo diversos centros de trabajo en distintas provincias, cuenten con una plantilla superior a 500 trabajadores.
+3. (Derogado).
 
 Igualmente, el titular de la Dirección General de Inmigración será el competente para resolver sobre las autorizaciones de residencia temporal y trabajo por cuenta ajena de duración determinada en los supuestos previstos en el artículo 98.2.a) y b) cuando el número de puestos de trabajo ofertado en su conjunto supere una cifra que se determinará mediante Orden del titular del Ministerio de Trabajo e Inmigración.
 
@@ -17,5 +17,7 @@ En estos casos, la Dirección General de Inmigración decidirá sobre la concesi
 4. Cuando circunstancias de naturaleza económica, social o laboral lo aconsejen y en supuestos no regulados de especial relevancia, a propuesta del titular de la Secretaría de Estado de Inmigración y Emigración, previo informe del titular de la Secretaría de Estado de Seguridad y, en su caso, de los titulares de las Subsecretarías de Asuntos Exteriores y de Cooperación y de Política Territorial y Administración Pública, el Consejo de Ministros podrá dictar, previa información y consulta a la Comisión Laboral Tripartita de Inmigración, instrucciones que determinen la concesión de autorizaciones de residencia temporal y/o trabajo, que podrán quedar vinculadas temporal, por ocupación laboral o territorialmente en los términos que se fijen en aquéllas, o de autorizaciones de estancia. Las instrucciones establecerán la forma, los requisitos y los plazos para la concesión de dichas autorizaciones. Asimismo, el titular de la Secretaría de Estado de Inmigración y Emigración, previo informe del titular de la Secretaría de Estado de Seguridad, podrá otorgar autorizaciones individuales de residencia temporal cuando concurran circunstancias excepcionales no previstas en este Reglamento.
 
 5. En el ejercicio de las competencias de coordinación que tiene atribuidas, el titular de la Secretaría de Estado de Inmigración y Emigración podrá proponer al Consejo de Ministros la aprobación de las instrucciones a las que haya de ajustarse la actuación de los diferentes departamentos ministeriales en cuanto ejerciten funciones relacionadas con los ámbitos de la extranjería y la inmigración.
+
+> Se deroga el primer párrafo del apartado 3 por la disposición deogatoria única.b) de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#dd
 
 > Se declara la nulidad del párrafo segundo del apartado 1 por Sentencia del TS de 12 de marzo de 2013. Ref. BOE-A-2013-4337.

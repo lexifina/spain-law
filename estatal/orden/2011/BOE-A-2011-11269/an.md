@@ -17,7 +17,7 @@
 |  | 3. Tramitación de autorizaciones de los familiares reagrupados, independientes del reagrupante (artículo 59 del Reglamento de la Ley Orgánica 4/2000). | 15,30 |
 |  | 4. Tramitación de autorizaciones de residencia y trabajo de mujeres víctimas de violencia de género y de víctimas de la trata de seres humanos (artículos 132 y 144 del Reglamento de la Ley Orgánica 4/2000). | 10,20 |
 |  | 5. Tramitación de autorizaciones de trabajo para un periodo igual o superior a seis meses. |  |
-|  | 5.1 Autorizaciones de trabajo. I. Autorizaciones de trabajo por cuenta ajena (incluye la autorización para trabajadores transfronterizos). II. Autorizaciones de trabajo para investigación. III. Autorizaciones de trabajo de profesionales altamente cualificados titulares de una Tarjeta azul-UE. IV. Autorizaciones de trabajo por cuenta propia (incluye la autorización para trabajadores transfronterizos). |  |
+|  | 5.1 Autorizaciones de trabajo. I. Autorizaciones de trabajo por cuenta ajena (incluye la autorización para trabajadores transfronterizos). II. Autorizaciones de trabajo para investigación. III. (Derogada). IV. Autorizaciones de trabajo por cuenta propia (incluye la autorización para trabajadores transfronterizos). |  |
 |  | A) Autorización inicial de trabajo. |  |
 | 5.1.A.1 | Retribución inferior a 2 veces S.M.I. en autorizaciones de los puntos I-III. Autorizaciones de trabajo por cuenta propia. | 190,12 |
 | 5.1.A.2 | Retribución igual o superior a 2 veces S.M.I. en autorizaciones de los puntos I-III. | 380,27 |
@@ -69,3 +69,5 @@
 |  | 8. Tramitación de la solicitud de autorización o visado de tránsito en frontera, y de visado de estancia en frontera (Según lo establecido en la Decisión 2006/440/CE del Consejo de la Unión Europea, de 1 de junio de 2006, la Autoridad competente para resolver sobre la solicitud podrá, atendiendo al interés del Estado y a la aplicación de los compromisos internacionales asumidos por el Reino de España en la materia, decidir la gratuidad del visado en frontera). |  |
 | 8.1 | 8.1 Tramitación de la solicitud de autorización o visado de tránsito en frontera. | 60,00 |
 | 8.2 | 8.2 Tramitación de la solicitud del visado de estancia en frontera. | 60,00 |
+
+> Se deroga la tasa 5.1.III por la disposición derogatoria única.d) de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#dd

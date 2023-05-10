@@ -1,3 +1,5 @@
 ## CAPÍTULO V
 
 ## Residencia temporal y trabajo de profesionales altamente cualificados titulares de una Tarjeta azul-UE
+
+> Se deroga por la disposición deogatoria única.b) de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#dd

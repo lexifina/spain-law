@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Promoción para las microempresas.
+
+Las administraciones públicas, a través de los centros de referencia estatales especializados en accesibilidad regulados en el artículo 6, y los centros de referencia autonómicos proporcionarán orientaciones y herramientas a las microempresas, elaboradas en concertación con las partes interesadas pertinentes para facilitar que fabriquen, importen y distribuyan productos, y presten servicios que cumplan los requisitos de accesibilidad, con el fin de aumentar la competitividad y el crecimiento potencial de dichas empresas en el mercado interior de la Unión Europea.

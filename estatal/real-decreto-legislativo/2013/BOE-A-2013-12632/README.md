@@ -170,6 +170,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional décima](dadecima.md)
 - [Disposición adicional undécima](daundecima.md)
 - [Disposición adicional duodécima](daduodecima.md)
+- [Disposición adicional decimotercera](da.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

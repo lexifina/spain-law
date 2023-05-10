@@ -35,6 +35,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [TÍTULO V](tv.md)
 - [Artículo 18](a1-10.md)
 - [Artículo 19](a1-11.md)
+- [Artículo 19 bis](a1-12.md)
 - [Artículo 20](a2-2.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
