@@ -30,6 +30,8 @@ El sistema de ventilación empleado y, en particular, la distribución de las en
 
 4. A efectos de la aplicación de lo establecido en el apartado anterior deberán tenerse en cuenta las limitaciones o condicionantes que puedan imponer, en cada caso, las características particulares del propio lugar de trabajo, de los procesos u operaciones que se desarrollen en él y del clima de la zona en la que esté ubicado. En cualquier caso, el aislamiento térmico de los locales cerrados debe adecuarse a las condiciones climáticas propias del lugar.
 
-5. En los lugares de trabajo al aire libre y en los locales de trabajo que, por la actividad desarrollada, no puedan quedar cerrados, deberán tomarse medidas para que los trabajadores puedan protegerse, en la medida de lo posible, de las inclemencias del tiempo.
+5. (Suprimido).
 
 6. Las condiciones ambientales de los locales de descanso, de los locales para el personal de guardia, de los servicios higiénicos, de los comedores y de los locales de primeros auxilios deberán responder al uso específico de estos locales y ajustarse, en todo caso, a lo dispuesto en el apartado 3.
+
+> Se suprime el apartado 5 por la disposición final 1.1 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#df

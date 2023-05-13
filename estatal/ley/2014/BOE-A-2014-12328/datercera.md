@@ -18,6 +18,8 @@ a) La percepción de las siguientes ayudas de la política agraria comunitaria:
 
 7.ª Abandono definitivo del cultivo de la remolacha azucarera y de la caña de azúcar.
 
+8.ª Ayudas a los regímenes en favor del clima y del medio ambiente (ecorregímenes).
+
 b) La percepción de las siguientes ayudas de la política pesquera comunitaria: por la paralización definitiva de la actividad pesquera de un buque y por su transmisión para la constitución de sociedades mixtas en terceros países, así como por el abandono definitivo de la actividad pesquera.
 
 c) La percepción de ayudas públicas que tengan por objeto reparar la destrucción por incendio, inundación, hundimiento, erupción volcánica u otras causas naturales de elementos patrimoniales afectos al ejercicio de actividades económicas.
@@ -27,5 +29,7 @@ d) La percepción de las ayudas al abandono de la actividad de transporte por ca
 e) La percepción de indemnizaciones públicas, a causa del sacrificio obligatorio de la cabaña ganadera, en el marco de actuaciones destinadas a la erradicación de epidemias o enfermedades. Esta disposición sólo afectará a los animales destinados a la reproducción.
 
 2. Para calcular la renta que no se integrará en la base imponible se tendrá en cuenta tanto el importe de las ayudas percibidas como las pérdidas patrimoniales que, en su caso, se produzcan en los elementos afectos a las actividades. Cuando el importe de estas ayudas sea inferior al de las pérdidas producidas en los citados elementos, podrá integrarse en la base imponible la diferencia negativa. Cuando no existan pérdidas, sólo se excluirá de gravamen el importe de las ayudas.
+
+> Se modifica la letra a) del apartado 1 por el art. 13 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#a1-5
 
 > Se modifica, con efectos para los períodos impositivos que se inicien a partir del 1 de enero de 2021, el apartado 1.c) por el art. 4.2 del Real Decreto-ley 25/2021, de 8 de noviembre. Ref. BOE-A-2021-18275#a4
