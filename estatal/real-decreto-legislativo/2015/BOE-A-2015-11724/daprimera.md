@@ -10,19 +10,19 @@ a) A los trabajadores por cuenta ajena, lo dispuesto en los artículos 146.4; 15
 
 b) A los trabajadores por cuenta propia, lo dispuesto en los artículos 306.2; 308; 309; 310; 311 y 313, así como en el capítulo XV del título II.
 
-> Téngase en cuenta que la modificación del apartado 2, establecida por el art. 1.26 del Real Decreto-ley 13/2022, de 26 de julio. Ref. BOE-A-2022-12482#ap, entra en vigor el 1 de enero de 2023, según determina su disposición final 5.
+3. No obstante lo indicado en los apartados anteriores, lo dispuesto en el artículo 210.3, en lo que se refiere a la reducción del 0,50 por 100 prevista en su segundo inciso, así como el requisito de edad previsto en el artículo 215.2.a) y la escala de edades incluida en la disposición transitoria décima, no será de aplicación a los trabajadores a que se refiere la disposición transitoria primera de la Ley 47/2015, de 21 de octubre, reguladora de la protección social de las personas trabajadoras del sector marítimo-pesquero.
+
+4. El Instituto Nacional de la Seguridad Social ejercerá a través de su inspección médica las competencias previstas en el artículo 170, apartados 1, 2 y 3, y en el artículo 174, apartado 1, tanto respecto de los trabajadores incluidos en el Régimen General como de los comprendidos en alguno de los regímenes especiales del sistema de la Seguridad Social.
+
+> Téngase en cuenta que esta actualización, establecida por el art. único.30 del Real Decreto-ley 2/2023, de 16 de marzo, Ref. BOE-A-2023-6967#au, entra en vigor el 17 de mayo de 2023, según establece su disposición final 10.
 
 > Redacción anterior:
 
-> "2. Sin perjuicio de lo previsto en la Ley 47/2015, de 21 de octubre, reguladora de la protección social de las personas trabajadoras del sector marítimo-pesquero, y en particular respecto de la acción protectora en el capítulo IV del título I de dicha ley, serán de aplicación al Régimen Especial de la Seguridad Social de los Trabajadores del Mar las siguientes disposiciones de esta ley:
+> "4. El Instituto Nacional de la Seguridad Social, a través de los inspectores médicos adscritos al mismo, ejercerá las competencias previstas en el artículo 170.1, tanto respecto de los trabajadores incluidos en el Régimen General como de los comprendidos en alguno de los regímenes especiales del sistema de la Seguridad Social, excepto de los incluidos en el campo de aplicación del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, respecto de los cuales dichas competencias serán ejercidas, en los términos previstos en el referido artículo y apartado, por el Instituto Social de la Marina, a través de los inspectores médicos adscritos a esta entidad."
 
-> a) A los trabajadores por cuenta ajena, lo dispuesto en los artículos 146.4; 151; 152; 153 y capítulos XV y XVII del título II.
+> Se modifica el apartado 4 por el art. único.30 del Real Decreto-ley 2/2023, de 16 de marzo. Ref. BOE-A-2023-6967#au
 
-> b) A los trabajadores por cuenta propia, lo dispuesto en los artículos 306.2; 308.2; 309; 310; 311 y capítulo XV del título II."
-
-3. No obstante lo indicado en los apartados anteriores, lo dispuesto en el artículo 210.3, en lo que se refiere a la reducción del 0,50 por 100 prevista en su segundo inciso, así como el requisito de edad previsto en el artículo 215.2.a) y la escala de edades incluida en la disposición transitoria décima, no será de aplicación a los trabajadores a que se refiere la disposición transitoria primera de la Ley 47/2015, de 21 de octubre, reguladora de la protección social de las personas trabajadoras del sector marítimo-pesquero.
-
-4. El Instituto Nacional de la Seguridad Social, a través de los inspectores médicos adscritos al mismo, ejercerá las competencias previstas en el artículo 170.1, tanto respecto de los trabajadores incluidos en el Régimen General como de los comprendidos en alguno de los regímenes especiales del sistema de la Seguridad Social, excepto de los incluidos en el campo de aplicación del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, respecto de los cuales dichas competencias serán ejercidas, en los términos previstos en el referido artículo y apartado, por el Instituto Social de la Marina, a través de los inspectores médicos adscritos a esta entidad.
+> Esta modificación entra en vigor el 17 de mayo de 2023, según establece la disposición final 10 del citado Real Decreto-ley. Ref. BOE-A-2023-6967#df-10. Véase la disposición transitoria 4 en cuanto a la vigencia transitoria de la normativa anterior.
 
 > Se modifica el apartado 2, con efectos de 1 de enero de 2023, por el art. 1.26 del Real Decreto-ley 13/2022, de 26 de julio. Ref. BOE-A-2022-12482#ap
 

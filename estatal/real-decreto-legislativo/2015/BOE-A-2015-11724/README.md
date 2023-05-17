@@ -606,6 +606,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria trigésima cuarta](dt-5.md)
 - [Disposición transitoria trigésima quinta](dt-6.md)
 - [Disposición transitoria trigésima quinta (sic)](dt-7.md)
+- [Disposición transitoria trigésima séptima](dt-8.md)
 - [Disposición transitoria trigésima octava](dt-9.md)
 - [Disposición transitoria trigésima novena](dt-10.md)
 - [Disposición transitoria cuadragésima](dt-11.md)
