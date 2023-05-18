@@ -54,17 +54,19 @@ El redimensionamiento de la capacidad de almacenamiento de estiércoles en granj
 
 – Para reducir el coeficiente entre la superficie de emisión y el volumen del depósito las dimensiones de los depósitos/balsas se ajustarán a las condiciones siguientes:
 
-i. Profundidad (altura) mínima 2 metros, debiendo establecer un «margen libre» o distancia entre la superficie de estiércoles y el borde superior de la balsa de 0.5-0.75 m. En los depósitos rectangulares, la proporción entre altura y superficie será de 1:30 a 1:50. En los depósitos circulares, la relación altura-diámetro será de 1:3 a 1:4. Puede aumentarse la altura de las paredes laterales.
+i. Profundidad (altura) mínima 2 metros, debiendo establecer un “margen libre” o distancia entre la superficie de estiércoles y el borde superior de la balsa de 0.5-0.75 m. En los depósitos rectangulares, la proporción entre altura y superficie sea de 1:30 a 1:50. En los depósitos circulares, la relación altura-diámetro sea de 1:3 a 1:4. Puede aumentarse la altura de las paredes laterales.
 
 ii. Inclinación mínima talud 50 %.
 
 iii. En el caso de que la profundidad no supere los 3 metros, la relación será de:
 
-– Profundidad-superficie 1:50 si altura < 3m.
+a) Profundidad-superficie 1:50 si altura <3m.
 
-– Profundidad-diámetro 1:4 si altura < 3m.
+b) Profundidad-diámetro 1:4 si altura <3m.
 
 iv. En el caso de las bolsas de estiércol tendrán las dimensiones adecuadas al volumen que sea necesario almacenar.
+
+Se exceptuará del cumplimiento de los apartados i) y iii) de este guion a los depósitos y balsas que estén totalmente cubiertos con una cubierta, rígida o flexible, que reduzca la emisión de amoníaco en al menos un 80 % con respecto a la referencia del depósito o balsa sin ningún tipo de cubierta.
 
 – Los depósitos tendrán que:
 
@@ -80,4 +82,6 @@ iv. En el caso de las bolsas de estiércol tendrán las dimensiones adecuadas al
 
 Cuando esta técnica suponga el cubrimiento del depósito y cuando este cubrimiento pueda implicar la acumulación de gas metano, se adoptarán sistemas de gestión de dicho gas que eliminen los riesgos relativos a su acumulación o emisión a la atmósfera.
 
-> Redactado el apartado F conforme a la corrección de errores publicada en BOE núm. 186, de 4 de agosto de 2022. Ref. BOE-A-2022-13109
+> Se modifica el tercer guión del apartado F por el art. 1.16 del Real Decreto 367/2023, de 16 de mayo. Ref. BOE-A-2023-11642
+
+> Redactado el apartado F conforme a la corrección de errores publicada en BOE núm. 186, de 4 de agosoto de 2022. Ref. BOE-A-2022-13109
