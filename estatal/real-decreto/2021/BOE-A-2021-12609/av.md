@@ -4,21 +4,15 @@
 
 1. Identificación del veterinario de la explotación.
 
-2. Plan de limpieza y desinfección, desinsectación y desratización de las instalaciones documentado (trabajadores encargados, productos utilizados –incluidos biocidas–, almacenamiento de los mismos, registro de actividades, monitorización de eficacia…).
+2. Plan sanitario integral de acuerdo con el Real Decreto 364/2023, de 16 de mayo, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación y al Plan sanitario integral de las explotaciones ganaderas, y por el que se modifican varias normas de ordenación ganaderas.
 
 3. Plan de mantenimiento de las instalaciones.
 
-4. Plan de higiene en el almacenamiento y gestión de la alimentación animal en la explotación, incluido el control de las fuentes de suministro de agua.
+4. Plan de formación en materia de bienestar animal, medio ambiente, bioseguridad, sanidad, higiene, manejo de los animales y prevención de resistencias antimicrobianas y sus consecuencias.
 
-5. Valoración de los promedios de antibióticos utilizados en la granja con periodicidad adecuada según el tamaño de la explotación. Se definirá un límite de consumo total a partir del cual se deberá evaluar establecer medidas correctoras.
+5. Plan de gestión de los residuos no sanitarios.
 
-6. Plan de formación en materia de bienestar animal, medioambiente, bioseguridad, sanidad, higiene, manejo de los animales y prevención de resistencias antimicrobianas y sus consecuencias.
-
-7. Plan de recogida y almacenamiento de cadáveres y otros subproductos de origen animal no destinados a consumo humano, con vistas a su retirada y eliminación.
-
-8. Sistema de gestión de los residuos generados en la explotación, peligrosos y no peligrosos (medicamentos, piensos medicamentosos no utilizados, envases, material sanitario fungible…), incluyendo la identificación de los gestores autorizados en materia de residuos de destino.
-
-9. Plan de gestión ambiental:
+6. Plan de gestión ambiental:
 
 a) Medidas para la optimización del uso de agua y energía.
 
@@ -34,12 +28,12 @@ iii. Descripción de la gestión prevista para los estiércoles, señalando la c
 
 iv. Superficie agrícola o forestal para la utilización de los estiércoles por el productor e identificación de las parcelas destinatarias, así como la identificación de los operadores autorizados a los que se haya entregado el estiércol o, en su caso, las instalaciones de tratamiento autorizadas de destino de los estiércoles.
 
-10. Plan sanitario encaminado al control de enfermedades, tanto de declaración obligatoria como aquéllas que sean de interés para la propia explotación, para la comarca, provincia o comunidad autónoma. Este programa debe incluir también un bloque de medidas encuadradas en un Plan de higiene y bioseguridad y un Plan de racionalización del uso de antibióticos, en el que se incluyan indicadores de seguimiento.
-
-11. Plan de bienestar animal, con el siguiente contenido mínimo:
+7. Plan de bienestar animal, con el siguiente contenido mínimo:
 
 a) Descripción de las condiciones estructurales y ambientales de la explotación.
 
 b) Evaluación de factores de riesgo para el bienestar de los animales incluyendo el riesgo de desastres naturales (tales como inundaciones, terremotos o incendios) de acuerdo con las características del lugar donde se encuentra la explotación.
 
 c) Plan de contingencia en caso de corte de suministro de agua para garantizar el acceso libre al agua.
+
+> Se modifica por la disposición final 5.5 del Real Decreto 364/2023, de 16 de mayo. Ref. BOE-A-2023-11639#df-5

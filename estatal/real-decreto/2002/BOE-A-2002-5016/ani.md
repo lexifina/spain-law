@@ -18,10 +18,12 @@ g) Espacios para la actualización y diligencia, como mínimo anual, del veterin
 
 h) Fecha de actualización del libro y firma del apicultor.
 
-i) Datos sanitarios: enfermedades diagnosticadas, tratamientos realizados, con fechas de los diagnósticos y fecha y lugar de los tratamientos, en su caso.
+i) (Suprimida)
 
-j) Análisis en laboratorios: fecha y tipo de análisis, identificación del laboratorio actuante y dictamen o resultado emitido por el laboratorio.
+j) (Suprimida)
 
 k) Traslados de colmenas (sólo en el caso de apicultores trashumantes): número de colmenas trasladadas, origen y destino del desplazamiento y fecha de los traslados.
+
+> Se suprimen las letras i) y j) por la disposición final 1.2 del Real Decreto 364/2023, de 16 de mayo. Ref. BOE-A-2023-11639#df
 
 > Se modifica por el art. 2.11 y anexo II del Real Decreto 448/2005, de 22 de abril. Ref. BOE-A-2005-7427.
