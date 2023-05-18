@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Autorización de la concesión de la subvención.
+
+De acuerdo con lo dispuesto en el artículo 10.2 de la Ley 38/2003, de 17 de noviembre, según el cual para autorizar la concesión de subvenciones de cuantía superior a 12 millones de euros será necesario acuerdo del Consejo de Ministros o, en el caso de que así lo establezca la normativa reguladora de la subvención, de la Comisión Delegada del Gobierno para Asuntos Económicos, la aprobación de este real decreto conlleva la autorización de la concesión de la subvención por el Consejo de Ministros para la convocatoria de 2023.

@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Sin perjuicio de su aplicación a las convocatorias en curso, quedan derogados el Real Decreto 253/2016, de 10 de junio, por el que se establecen las bases reguladoras para la concesión de subvenciones para la creación de grupos operativos supraautonómicos en relación con la Asociación Europea para la Innovación en materia de productividad y sostenibilidad agrícolas, y el Real Decreto 169/2018, de 23 de marzo, por el que se establecen las bases reguladoras para la concesión de subvenciones a la ejecución de proyectos de innovación de interés general por grupos operativos de la Asociación Europea para la Innovación en materia de productividad y sostenibilidad agrícolas.
