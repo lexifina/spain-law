@@ -1,0 +1,3 @@
+## Disposición adicional primera. Cuantía complementaria establecida en el Real Decreto-ley 14/2022, de 1 de agosto, de medidas de sostenibilidad económica en el ámbito del transporte, en materia de becas y ayudas al estudio, así como de medidas de ahorro, eficiencia energética y de reducción de la dependencia energética del gas natural.
+
+Las cuantías complementarias abonadas por adelantado, recogidas en el apartado 2 del artículo 25 del Real Decreto-ley 14/2022, de 1 de agosto, se considerarán abonadas con carácter definitivo, sin que proceda regularizar su situación, y no será exigible su restitución.

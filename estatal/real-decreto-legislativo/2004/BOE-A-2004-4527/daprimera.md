@@ -2,7 +2,7 @@
 
 1. Los conflictos que pudieran surgir con Administraciones de otros Estados en la aplicación de los convenios y tratados internacionales se resolverán de acuerdo con los procedimientos amistosos previstos en los propios convenios o tratados sin perjuicio del derecho a interponer los recursos o reclamaciones que pudieran resultar procedentes.
 
-2. Lo establecido en esta disposición adicional resulta igualmente de aplicación a los mecanismos de resolución de aquellos litigios con otros Estados miembros de la Unión Europea que se deriven de los convenios y tratados internacionales por los que se dispone la eliminación de la doble imposición de la renta y, en su caso, del patrimonio a que se refiere la Directiva (UE) 2017/1852 del Consejo, de 10 de octubre de 2017, relativa a los mecanismos de resolución de litigios fiscales en la Unión Europea.
+2. Lo establecido en esta disposición adicional resulta igualmente de aplicación a los mecanismos de resolución de aquellos litigios con otros Estados miembros de la Unión Europea que se deriven de los convenios y tratados internacionales por los que se dispone la eliminación de la doble imposición de la renta y, en su caso, del patrimonio a que se refiere la Directiva (UE) 2017/1852 del Consejo, de 10 de octubre de 2017, relativa a los mecanismos de resolución de litigios fiscales en la Unión Europea. El acuerdo alcanzado se aplicará independientemente de los plazos previstos en el Derecho interno.
 
 3. La aplicación del acuerdo alcanzado entre ambas Administraciones en el ámbito de un procedimiento amistoso se realizará una vez que el acuerdo adquiera firmeza.
 
@@ -46,9 +46,11 @@ No obstante lo establecido en la letra c), no tendrá la consideración de sanci
 
 12. El Tribunal Económico-Administrativo Central será competente para el ejercicio de las funciones relativas a la constitución y funcionamiento de la comisión consultiva que se determinen reglamentariamente.
 
-13. Los miembros de la comisión consultiva o de la comisión de resolución alternativa constituida en el marco de un procedimiento amistoso estarán obligados al más estricto y completo sigilo respecto de los datos tributarios que conocieran en su condición de tales de conformidad con lo dispuesto en el artículo 95 de la Ley 58/2003, de 17 de diciembre, General Tributaria. La infracción de dicho deber podrá dar lugar a las responsabilidades legales que pudieran derivarse conforme a la normativa española.
+13. Los miembros de la comisión consultiva o de la comisión de resolución alternativa constituida en el marco de un procedimiento amistoso estarán obligados al más estricto y completo sigilo respecto de los datos tributarios que conocieran en su condición de tales, de conformidad con lo dispuesto en el artículo 95 de la Ley 58/2003, de 17 de diciembre, General Tributaria. La infracción de dicho deber podrá dar lugar a las responsabilidades legales que pudieran derivarse conforme a la normativa española y, a estos efectos, los miembros de estas comisiones tendrán la consideración de autoridad.
 
 Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de la aplicación, en su caso, de la normativa interna de los otros Estados afectados en el ámbito propio de su jurisdicción.
+
+> Se modifican los apartados 2 y 13 por la disposición final 3.1 de la Ley 13/2023, de 24 de mayo. Ref. BOE-A-2023-12204#df-3
 
 > Se modifica por el art. 217 del Real Decreto-ley 3/2020, de 4 de febrero. Ref. BOE-A-2020-1651#a2-29
 

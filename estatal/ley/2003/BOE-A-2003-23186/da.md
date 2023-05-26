@@ -1,20 +1,22 @@
 ## Disposición adicional vigésima tercera. Obligación de información sobre mecanismos transfronterizos de planificación fiscal.
 
-1. Las personas o entidades que tengan la consideración de intermediarios o de obligados tributarios interesados a los efectos de esta obligación, según el artículo 3, apartados 21 y 22, de la Directiva 2011/16/UE del Consejo, de 15 de febrero de 2011, relativa a la cooperación administrativa en el ámbito de la fiscalidad y por la que se deroga la Directiva 77/799/CEE, deberán suministrar a la Administración tributaria, conforme a lo dispuesto en los artículos 29, 29 bis y 93 de esta Ley y en los términos que reglamentariamente se establezcan, la siguiente información:
+1. Las personas o entidades que tengan la consideración de intermediarios o de obligados tributarios interesados a los efectos de esta obligación, según el artículo 3, apartados 21 y 22, de la Directiva 2011/16/UE del Consejo, de 15 de febrero de 2011, relativa a la cooperación administrativa en el ámbito de la fiscalidad y por la que se deroga la Directiva 77/799/CEE, así como según el Acuerdo Multilateral entre Autoridades Competentes sobre intercambio automático de información relativa a los mecanismos de elusión del Estándar común de comunicación de información y las estructuras extraterritoriales opacas y sus Normas tipo de comunicación obligatoria de información para abordar mecanismos de elusión del Estándar común de comunicación de información y estructuras extraterritoriales opacas, y otros acuerdos internacionales suscritos con el mismo objetivo, deberán suministrar a la Administración tributaria, conforme a lo dispuesto en los artículos 29, 29 bis y 93 de esta Ley y en los términos que reglamentariamente se establezcan la siguiente información:
 
-a) Información de mecanismos transfronterizos definidos en el artículo 3.18 de la Directiva 2011/16/UE del Consejo en los que intervengan o participen cuando concurran alguna de las señas distintivas determinadas en el Anexo IV de la citada Directiva.
+a) Información de mecanismos transfronterizos definidos en el artículo 3.18 de la Directiva 2011/16/UE del Consejo, de 15 de febrero de 2011, en los que intervengan o participen cuando concurran alguna de las señas distintivas determinadas en el Anexo IV de la citada Directiva.
 
-b) Información de actualización de los mecanismos transfronterizos comercializables a los que se refiere el artículo 3.24 de la Directiva 2011/16/UE del Consejo.
+b) Información de actualización de los mecanismos transfronterizos comercializables a los que se refiere el artículo 3.24 de la Directiva 2011/16/UE del Consejo, de 15 de febrero de 2011.
 
 c) Información de la utilización en España de los mecanismos transfronterizos de planificación fiscal a que se refieren las letras a) y b) anteriores.
 
+d) Información de mecanismos transfronterizos definidos en el Acuerdo Multilateral entre Autoridades Competentes sobre intercambio automático de información relativa a los mecanismos de elusión del Estándar común de comunicación de información y las estructuras extraterritoriales opacas, y en otros acuerdos internacionales suscritos con el mismo objetivo.
+
 A los efectos de esta obligación de información, no tendrán la consideración de mecanismo transfronterizo de planificación fiscal objeto de declaración aquellos acuerdos, negocios jurídicos, esquemas u operaciones transfronterizas basadas en regímenes fiscales comunicados y expresamente autorizados por una decisión de la Comisión Europea.
 
-2. Estarán dispensados de la obligación de información por el deber de secreto profesional al que se refiere el apartado 5 del artículo 8 bis ter de la Directiva 2011/16/UE del Consejo, los que tuvieran la consideración de intermediarios conforme a dicha Directiva, con independencia de la actividad desarrollada, y hayan asesorado con respecto al diseño, comercialización, organización, puesta a disposición para su ejecución o gestión de la ejecución de un mecanismo transfronterizo de los definidos en la Directiva, con el único objeto de evaluar la adecuación de dicho mecanismo a la normativa aplicable y sin procurar ni facilitar la implantación del mismo.
+2. Estarán dispensados de la obligación de información por el deber de secreto profesional al que se refieren el apartado 5 del artículo 8 bis ter de la Directiva 2011/16/UE del Consejo y las Normas tipo citadas, los que tuvieran la consideración de intermediarios, con independencia de la actividad desarrollada, y hayan asesorado con respecto al diseño, comercialización, organización, puesta a disposición para su ejecución o gestión de la ejecución de un mecanismo transfronterizo, con el único objeto de evaluar la adecuación de dicho mecanismo a la normativa aplicable y sin procurar ni facilitar la implantación del mismo.
 
 El intermediario obligado por el deber de secreto profesional podrá quedar liberado del mismo mediante autorización comunicada de forma fehaciente por el obligado tributario interesado.
 
-3. El cumplimiento por los intermediarios de la obligación de información de mecanismos de planificación fiscal a que se refiere la Directiva 2011/16/UE del Consejo, en los términos legalmente exigibles, no constituirá, conforme al régimen jurídico aplicable, violación de las restricciones sobre divulgación de información impuestas por vía contractual o normativa, no implicando para los sujetos obligados ningún tipo de responsabilidad respecto del obligado tributario interesado titular de dicha información.
+3. El cumplimiento por los intermediarios de la obligación de información de mecanismos de planificación fiscal a que se refiere la Directiva 2011/16/UE del Consejo y el Acuerdo Multilateral citado, en los términos legalmente exigibles, no constituirá, conforme al régimen jurídico aplicable, violación de las restricciones sobre divulgación de información impuestas por vía contractual o normativa, no implicando para los sujetos obligados ningún tipo de responsabilidad respecto del obligado tributario interesado titular de dicha información.
 
 4. Constituyen infracciones tributarias:
 
@@ -47,5 +49,11 @@ c) La presentación de las declaraciones informativas a que se refiere esta disp
 La infracción será grave y la sanción consistirá en multa pecuniaria fija de 250 euros por dato o conjunto de datos referidos a un mismo mecanismo que hubiera debido incluirse en la declaración con un mínimo de 750 euros y un máximo de 1.500 euros.
 
 d) Las infracciones y sanciones reguladas en esta disposición adicional serán incompatibles con las establecidas en los artículos 198 y 199 de esta Ley.
+
+5. Todo intermediario obligado a suministrar la información conforme a lo dispuesto en la presente disposición, deberá comunicar a cada obligado tributario interesado que sea persona física sujeto a comunicación de información, que la información requerida sobre dicho obligado, será suministrada a la Administración tributaria y transferida con arreglo a la Directiva 2011/16/UE y los acuerdos internacionales indicados en la presente disposición. Asimismo, el intermediario facilitará a la persona física con suficiente antelación toda la información que esta tenga derecho a recibir para que pueda ejercer su derecho a la protección de sus datos personales y, en cualquier caso, antes de que la información por él recopilada sea suministrada a la Administración tributaria.
+
+> Se modifican los apartados 1, 2 y 3 y se añade el 5 por el art. único.11 de la Ley 13/2023, de 24 de mayo. Ref. BOE-A-2023-12204#au
+
+> El apartado 5 se aplicará a partir del 1 de enero de 2023, según establece la disposición final 8.b) de la citada Ley.
 
 > Se añade por el art. único.1 de la Ley 10/2020, de 29 de diciembre. Ref. BOE-A-2020-17265#au

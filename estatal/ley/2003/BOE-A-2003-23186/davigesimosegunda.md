@@ -18,11 +18,15 @@ La infracción tributaria señalada en el segundo párrafo del apartado anterior
 
 6. Las pruebas documentales, las declaraciones que resulten exigibles a las personas que ostenten la titularidad o el control de las cuentas financieras y demás información utilizada en cumplimiento de las obligaciones de información y de diligencia debida a que se refiere esta disposición adicional deberán estar a disposición de la Administración Tributaria hasta la finalización del quinto año siguiente a aquel en el que se deba suministrar la información respecto de las citadas cuentas.
 
-7. Toda institución financiera obligada a comunicar información conforme a la Directiva 2011/16/UE deberá comunicar a cada persona física sujeta a comunicación de información, que la información sobre ella a que se refiere el apartado 3 bis del artículo 8 de la Directiva 2011/16/UE será comunicada a la Administración Tributaria y transferida al Estado miembro que corresponda con arreglo a la citada Directiva. Dicha comunicación debe realizarse antes del 31 de enero del año natural siguiente al primer año en que la cuenta sea una cuenta sujeta a comunicación de información.
+7. Toda institución financiera obligada a comunicar información conforme a lo dispuesto en la presente disposición deberá comunicar a cada persona física sujeta a comunicación de información, que la información sobre ella objeto de dicha obligación de comunicación será comunicada a la Administración tributaria y transferida al Estado miembro que corresponda con arreglo a la Directiva 2011/16/UE y los acuerdos internacionales indicados en la presente disposición. Dicha comunicación debe realizarse antes del 31 de enero del año natural siguiente al primer año en que la cuenta sea una cuenta sujeta a comunicación de información. Asimismo, la institución financiera facilitará a la persona física con suficiente antelación toda la información que esta tenga derecho a recibir para que pueda ejercer su derecho a la protección de sus datos personales y, en cualquier caso, antes de que la información por ella recopilada sea suministrada a la Administración tributaria.
 
 8. Lo dispuesto en los apartados 5 y 6 será igualmente de aplicación en relación con las obligaciones de información y de diligencia debida relativas a cuentas financieras conforme a lo dispuesto en el Acuerdo entre los Estados Unidos de América y el Reino de España para la mejora del cumplimiento fiscal internacional y la implementación de la Foreign Account Tax Compliance Act - FATCA.
 
 Asimismo, en el caso de cuentas abiertas durante el año 2015 respecto de las que a 1 de enero de 2016 no se hubiesen aportado las declaraciones a que se refiere el apartado 5, su falta de aportación a la institución financiera en el plazo de 60 días desde dicha fecha determinará que ésta no realice cargos, abonos, ni cualesquiera otras operaciones en la misma hasta el momento de su aportación.
+
+> Se modifica el apartado 7 por el art. único.10 de la Ley 13/2023, de 24 de mayo. Ref. BOE-A-2023-12204#au
+
+> Esta modificación se aplicará a partir del 1 de enero de 2023, según establece la disposición final 8.b) de la citada Ley.
 
 > Se modifica el apartado 6 por el art. 13.28 de la Ley 11/2021, de 9 de julio. Ref. BOE-A-2021-11473#ad-3
 
