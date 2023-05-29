@@ -308,6 +308,8 @@ J) Enfermedades del aparato de la visión.
 
 9. Queratitis. Leucomas corneales centrales o periféricos con alteraciones de la agudeza visual. Estafilomas de córnea y esclera. Degeneraciones y distrofias corneales. Ectasias corneales. Trasplante de córnea y anillos intraestromales corneales. Queratocono. En ningún caso se admitirán lentes fáquicas.
 
+> Téngase en cuenta que se declara la nulidad del inciso destacado del apartado 9 por Sentencia del TS de 21 de febrero de 2023. Ref. BOE-A-2023-12417
+
 10. Iris, cuerpo ciliar: Inflamaciones del tracto uveal en fase aguda y secuelas definitivas de uveitis antiguas. Trastornos pupilares con importante repercusión funcional.
 
 11. Vítreo. Hemorragias, vitritis. Organización fibrosa del vítreo. Hematoma traumático de vítreo. Cualquier tipo de cirugía vitreorretiniana.
@@ -429,5 +431,7 @@ M) Aparato urogenital.
 32. Endometriosis incapacitante.
 
 33. Cualquier hallazgo, lesión o enfermedad del aparato genital femenino que, bien por sí mismo, su evolución o por el tratamiento requerido (continuo o de larga duración), limite o dificulte el correcto desempeño de las funciones profesionales o puedan verse agravadas por las mismas.
+
+> Se declara la nulidad del inciso destacado del apartado 9 de la letra J) por Sentencia del TS de 21 de febrero de 2023. Ref. BOE-A-2023-12417
 
 > Se modifican los párrafos primero y segundo y los apartados A), B), E), F) y L) por al art. único.6 a 11 de la Orden PCM/521/2021, de 27 de mayo. Ref. BOE-A-2021-8977
