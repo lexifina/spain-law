@@ -2,37 +2,37 @@
 
 ## Modelo de contrato de línea de crédito
 
-De una parte, ..............................................................., (en adelante el Acreditante), (Incluir datos de identificación del Acreditante y de sus apoderados).
+De una parte, ..............................................................., (en adelante, el Acreditante), (Incluir datos de identificación del Acreditante y de sus apoderados).
 
-y
+y de otra parte, .................................................. (Incluir datos de identificación de la/s entidad/es fiadora/s y de sus apoderados).
 
-De otra parte, (Incluir datos de identificación de la/s entidad/es fiadora/s y de sus apoderados)
-
-Todas las sociedades indicadas, (designadas en lo sucesivo en el presente contrato como la/s Acreditada/s, con referencia genérica a todas ellas indistintamente y por igual) y además a la sociedad……....................…., se la denominará también como la Sociedad Titular de Cuenta de Garantías. (A añadir en caso de pluralidad de Entidades Acreditadas)
+Todas las sociedades indicadas, (designadas en lo sucesivo en el presente contrato como la/s Acreditada/s, con referencia genérica a todas ellas indistintamente y por igual) y además a la sociedad ……....................…., se la denominará también como la Sociedad Titular de Cuenta de Garantías. (A añadir en caso de pluralidad de Entidades Acreditadas).
 
 Todas las partes, en la representación con que respectivamente intervienen, se reconocen la capacidad suficiente para formalizar el presente contrato de apertura de crédito, a cuyo efecto
 
 EXPONEN
 
-I.–Que la/s Acreditada/s ha/n solicitado del Acreditante la apertura de una línea de Crédito por importe de ................................. de euros ............................. euros), como línea de cobertura en garantía para responder del cumplimiento de todas y cada una de las obligaciones económicas contraídas por su participación y operaciones en el sistema gasista, de conformidad con lo establecido en las Normas de Gestión de Garantías del Sistema Gasista, incluyendo cuantos impuestos vigentes, intereses de demora, penalizaciones y cuotas que fueran exigibles en el momento del pago, y habiendo éste accedido a lo solicitado, ambas partes.
+I. Que la/s Acreditada/s ha/n solicitado del Acreditante la apertura de una línea de Crédito por importe de ................................. de euros (............................. euros), como línea de cobertura en garantía para responder del cumplimiento de todas y cada una de las obligaciones económicas contraídas por su participación y operaciones en el sistema gasista, de conformidad con lo establecido en las Normas de Gestión de Garantías del Sistema Gasista, incluyendo cuantos impuestos vigentes, intereses de demora, penalizaciones y cuotas que fueran exigibles en el momento del pago, y habiendo éste accedido a lo solicitado.
 
-II.–Que la entidad fiadora garantiza solidariamente con el Acreditado todas las obligaciones contraídas por este último resultantes del presente contrato.
+II. Que la entidad fiadora garantiza solidariamente con el Acreditado todas las obligaciones contraídas por este último, resultantes del presente contrato.
+
+Ambas partes
 
 CONVIENEN
 
-Celebrar el presente contrato de crédito en virtud del cual el Acreditante concede a la/s sociedad/es mencionada/s en la comparecencia de este documento como Acreditada/s, un crédito con un límite máximo de….....………… Euros (…………....…….., Euros), obligándose la/s Acreditada/s, en la forma que después se dirá, a reembolsar las cantidades que a cuenta del mismo éstas dispongan, así como intereses, comisiones, impuestos y gastos, incluso los de carácter judicial, que se generen como consecuencia de este contrato, hasta su total pago, con arreglo a las siguientes
+Celebrar el presente contrato de crédito en virtud del cual el Acreditante concede a la/s sociedad/es mencionada/s en la comparecencia de este documento como Acreditada/s, un crédito con un límite máximo de ............. euros (............. euros), obligándose la/s Acreditada/s, en la forma que después se dirá, a reembolsar las cantidades que a cuenta del mismo éstas dispongan, así como intereses, comisiones, impuestos y gastos, incluso los de carácter judicial, que se generen como consecuencia de este contrato, hasta su total pago, con arreglo a las siguientes
 
 CLÁUSULAS
 
 ## Primera. Límite.
 
-El límite máximo del importe del crédito será de …………………………. euros (…………, euros), durante la duración del mismo, aceptando la/s Acreditada/s la puesta a disposición que a su favor efectúa el Acreditante, con el compromiso de reintegrar el importe de las cantidades dispuestas en los plazos, forma y condiciones pactados en este documento.
+El límite máximo del importe del crédito será de ............. euros (............. euros), durante la duración del mismo, aceptando la/s Acreditada/s la puesta a disposición que a su favor efectúa el Acreditante, con el compromiso de reintegrar el importe de las cantidades dispuestas en los plazos, forma y condiciones pactados en este documento.
 
 ## Segunda. Duración.
 
 Este crédito tendrá una duración comprendida entre la fecha del presente contrato y ……........................................ (Redacción a convenir libremente por las partes)
 
-Las prórrogas del contrato serán puestas en conocimiento del Gestor de Garantías como Gestor de Garantías.
+Las prórrogas del contrato serán puestas en conocimiento del Gestor de Garantías.
 
 No obstante la duración pactada, el Acreditante podrá considerar vencido de pleno derecho el crédito, lo que pondrá en conocimiento de la Acreditada/Sociedad Titular de Cuenta de Garantías y del Gestor de Garantías con al menos cinco días de antelación a la fecha que el Acreditante fije como vencimiento anticipado del crédito, siendo exigibles desde ese momento la totalidad de las obligaciones de pago que tenga/n contraídas la/s Acreditada/s cuando concurra alguna de las circunstancias siguientes: ……………….
 
@@ -44,19 +44,19 @@ En este sentido el Gestor de Garantías podrá antes del vencimiento, y conforme
 
 El límite del importe del crédito podrá ser dispuesto, indistintamente e individualmente, por la Acreditada/una, varias o todas las Acreditadas, estableciéndose únicamente que el importe total a utilizar autorizado por la Acreditada/cada Acreditada al Gestor de Garantías, más lo realmente dispuesto por el Gestor de Garantías por cuenta de la Acreditada/cada Acreditada y no reintegrado al Acreditante, no podrá exceder el importe total del Crédito.
 
-## Cuarta. Cuentas (A añadir en caso de pluralidad de Entidades Acreditadas)
+## Cuarta. Cuentas (a añadir en caso de pluralidad de Entidades Acreditadas).
 
 El importe del Crédito dispuesto por cada Acreditada se reflejará, respectivamente, en las cuentas de crédito abiertas por el Acreditante, relacionadas a continuación, a nombre de cada una de las Acreditadas según el siguiente detalle:
 
-– Sociedad A., cta. nº 10-xxxxxx-x
+Sociedad A., cta. n.º 10-xxxxxx-x
 
-– Sociedad B., cta. nº 10-xxxxxx-x
+Sociedad B., cta. n.º 10-xxxxxx-x
 
-– Sociedad C., cta. nº 10-xxxxxx-x. etc. …
+Sociedad C., cta. n.º 10-xxxxxx-x. etc.
 
 En cada cuenta, serán partidas de adeudo y abono, respectivamente, por un lado, las cantidades dispuestas con cargo a dicho crédito si las hubiese, los intereses que se devenguen de conformidad con lo pactado en este contrato y las comisiones y gastos que las Acreditadas deben satisfacer a tenor del mismo, y por otro, las que se entreguen para el pago del saldo resultante.
 
-(Las Acreditadas consienten expresamente desde ahora en que por el Acreditante pueda ser modificado el número de las cuentas operativas a la que se ha hecho antes referencia, siempre que dichas modificaciones tengan su causa en razones operativas, contables u organizativas internas del Acreditante, o por cambio de la oficina en la que opere cada una de las Acreditadas, sin que tal modificación suponga novación alguna del resto de condiciones contractuales ni de las obligaciones de todo tipo asumidas en el presente contrato por las partes contratantes) Inclusión a elección del Participante.
+(Las Acreditadas consienten expresamente desde ahora en que por el Acreditante pueda ser modificado el número de las cuentas operativas a la que se ha hecho antes referencia, siempre que dichas modificaciones tengan su causa en razones operativas, contables u organizativas internas del Acreditante, o por cambio de la oficina en la que opere cada una de las Acreditadas, sin que tal modificación suponga novación alguna del resto de condiciones contractuales ni de las obligaciones de todo tipo asumidas en el presente contrato por las partes contratantes). (Inclusión a elección del Participante).
 
 La mencionada modificación, que en ningún caso supondrá coste alguno para las Acreditadas, será comunicada por el Acreditante a la Acreditada a la que afecte y al Titular de Cuenta de Garantías mediante notificación por cualquier medio, siempre que exista constancia de su recepción, en la que se especifique el nuevo número de cuenta y la fecha a partir de la cual resulte operativo dicho número.
 
@@ -64,7 +64,7 @@ Cada Acreditada responderá frente al Acreditante por los importes que hayan sid
 
 Ninguna de las Acreditadas será responsable frente al Acreditante de reintegrar el saldo que presenten las cuentas de las otras Acreditadas.
 
-## Quinta. Disposiciones (Redacción en función de una o más Entidades Acreditadas).
+## Quinta. Disposiciones (redacción en función de una o más entidades acreditadas).
 
 Teniendo en cuenta el destino del crédito, la Acreditada/cada Acreditada autoriza de forma irrevocable, únicamente al Gestor de Garantías para que disponga del crédito, a través de las personas y cumpliendo las condiciones que más adelante se detallan.
 
@@ -84,39 +84,39 @@ Asimismo, y previo consentimiento del Gestor de Garantías, se podrá modificar 
 
 Si el Gestor de Garantías dispusiese de la línea de crédito, una vez cumplidas las circunstancias expuestas para poder realizar dicha disposición y anteriormente relacionadas, o según lo previsto en la cláusula «Garantía de Vencimiento», la/s Acreditada/s estará/n obligada/s a reponer los fondos dispuestos por el Gestor de Garantías al Acreditante en el plazo de 5 días hábiles contados a partir de la fecha en que la disposición haya sido efectiva, o bien en la fecha de vencimiento del contrato, si esta fuera anterior. Igual plazo tendrá la Acreditada/cada Acreditada para reintegrar al Acreditante cualquier otro cargo que de conformidad con lo pactado haya sido realizado en su cuenta.
 
-## Sexta.
+## Sexta. Devengo, cálculo y pago de intereses.
 
-Devengo, cálculo y pago de intereses (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Séptima.
+## Séptima. Cómputo de plazos.
 
-Cómputo de plazos (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Octava.
+## Octava. Intereses moratorios.
 
-Intereses moratorios (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Novena.
+## Novena. Comisiones.
 
-Comisiones (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Décima.
+## Décima. Seguro.
 
-Seguro (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Undécima.
+## Undécima. Imputación de pagos y Compensación.
 
-Imputación de pagos y Compensación (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Duodécima.
+## Duodécima. Gastos e impuestos.
 
-Gastos e impuestos (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Decimotercera.
+## Decimotercera. Fuerza ejecutiva.
 
-Fuerza ejecutiva (Redacción a convenir libremente por las partes).
+(Redacción a convenir libremente por las partes).
 
-## Decimocuarta. Garantía de vencimiento. (Redacción en función de una o más Entidades Acreditadas).
+## Decimocuarta. Garantía de vencimiento (Redacción en función de una o más Entidades Acreditadas).
 
 Antes del quinto día hábil anterior al del vencimiento del contrato, tanto si éste se produce por comunicación de no prórroga, como por vencimiento definitivo o por vencimiento anticipado, y especialmente cuando concurran las circunstancias expuestas en la cláusula segunda, la/s Acreditada/s deberá/n sustituir las autorizaciones en vigor por cualquier otra garantía ante el Gestor de Garantías contempladas en las Normas de Gestión de Garantías del Sistema Gasista. Si antes del quinto día hábil anterior al vencimiento o no renovación del presente contrato, la Acreditada/alguna Acreditada no hubiese sustituido las autorizaciones en vigor por otras garantías contempladas en las Normas de Gestión de Garantías del Sistema Gasista, el Acreditante, previo requerimiento del Gestor de Garantías, en la forma relacionada en el Anexo C, deberá depositar el importe solicitado por el Gestor de Garantías, con un máximo del importe de las autorizaciones en vigor menos las disposiciones que contra dichas autorizaciones hayan podido ser realizadas, en la cuenta que el Gestor de Garantías designe en su comunicación.
 
@@ -126,19 +126,19 @@ Estos depósitos constituirán de esta forma una garantía de la Acreditada ante
 
 Siempre que el Acreditante haya tenido que depositar el importe de las autorizaciones en vigor debido a las causas expuestas en este apartado, la Acreditada a cuyo nombre haya sido hecho el depósito ante el Gestor de Garantías deberá reintegrar en la misma fecha en que dicho depósito haya sido hecho efectivo el importe del mismo al Acreditante en la cuenta que se cita en la estipulación PRIMERA o la que la sustituya.
 
-## Decimoquinta. Tiempo y lugar de pago y cumplimiento (Redacción en función de una o más Entidades Acreditadas).
+## Decimoquinta. Tiempo y lugar de pago y cumplimiento (redacción en función de una o más entidades acreditadas).
 
-La/s Acreditada/s reintegrará/n al Acreditante cualquier cantidad pagada al Gestor de Garantías, así como los importes de los intereses, comisiones y gastos pactados en un plazo no superior a … días hábiles contados desde su cargo en la cuenta especial de crédito o, en su caso, al vencimiento del contrato, y ello sin necesidad de previo requerimiento.
+La/s Acreditada/s reintegrará/n al Acreditante cualquier cantidad pagada al Gestor de Garantías, así como los importes de los intereses, comisiones y gastos pactados en un plazo no superior a ........... días hábiles contados desde su cargo en la cuenta especial de crédito o, en su caso, al vencimiento del contrato, y ello sin necesidad de previo requerimiento.
 
-A estos efectos la/s Acreditada/s autoriza/n expresamente al Acreditante a cargar estos importes en la/s cuenta/s corriente/s que tenga/n abierta/s en el Acreditante en la Oficina ...................................................................…...
+A estos efectos la/s Acreditada/s autoriza/n expresamente al Acreditante a cargar estos importes en la/s cuenta/s corriente/s que tenga/n abierta/s en el Acreditante en la Oficina .................................................
 
-Se declara expresamente que el lugar de pago y cumplimiento de cuantas obligaciones deriven del presente contrato es la Sucursal del Acreditante ………..................…………… (Oficina …………..), sita en ……………………………..........................................................
+Se declara expresamente que el lugar de pago y cumplimiento de cuantas obligaciones deriven del presente contrato es la Sucursal del Acreditante ..................…………… (Oficina .................), sita en ...............................
 
 La/s Acreditada/s consienten expresamente que por razones operativas y de organización del Acreditante, éste pueda modificar el número de oficina y la ubicación de la misma, siempre dentro de la misma ciudad en la que encontrara situada la oficina inicial, aceptando las partes, en este sentido, la nueva ubicación como lugar de pago y cumplimiento de las obligaciones derivadas del contrato, sin que esta modificación suponga novación alguna del resto de las condiciones contractuales, ni de las obligaciones de todo tipo, asumidas en el presente contrato por ambas partes contratantes.
 
-La mencionada modificación será comunicada por el Acreditante a la Acreditada/Sociedad Titular de Cuenta de Garantías mediante notificación por cualquier medio, siempre que exista constancia de su recepción, en la que se deberá especificar: el nuevo número de la oficina y, en su caso, el domicilio si hubiera variado, y la fecha a partir de la cual resultará operativo dicho cambio.
+La mencionada modificación será comunicada por el Acreditante a la Acreditada/ Sociedad Titular de Cuenta de Garantías mediante notificación por cualquier medio, siempre que exista constancia de su recepción, en la que se deberá especificar: el nuevo número de la oficina y, en su caso, el domicilio si hubiera variado, y la fecha a partir de la cual resultará operativo dicho cambio.
 
-## Decimosexta. Sociedad Titular de Cuenta de Garantías (Redacción a incluir en caso de pluralidad de Entidades Acreditadas).
+## Decimosexta. Sociedad Titular de Cuenta de Garantías (redacción a incluir en caso de pluralidad de entidades acreditadas).
 
 Sin perjuicio alguno del carácter mancomunado de las obligaciones de las Acreditadas bajo el presente contrato, se estipula que el desenvolvimiento y operatoria de este contrato, el Titular de Cuenta de Garantías actúa, además de por sí, como mandatario especial con carácter irrevocable de todas las demás Acreditadas para las funciones, que como tal, se le atribuyen en este contrato, debiendo en consecuencia entenderse, en este sentido, las decisiones y actuaciones del Titular de Cuenta de Garantías como si hubiesen sido tomadas y realizadas por todas las Acreditadas.
 
@@ -150,9 +150,9 @@ Las Sociedades firmantes por unanimidad nombran Sociedad Titular de Cuenta de Ga
 
 La Sociedad Titular de Cuenta de Garantías para todos los efectos de notificaciones, requerimientos y comunicaciones a que dé lugar el presente contrato, designa como domicilio el indicado en la cláusula siguiente.
 
-## Decimoséptima. Notificaciones, forma y domicilios (Redacción en función de una o más Entidades Acreditadas).
+## Decimoséptima. Notificaciones, forma y domicilios (redacción en función de una o más entidades acreditadas).
 
-A efectos de comunicaciones entre el Acreditante, la/s Acreditada/s y el Gestor de Garantías, las partes acuerdan que, salvo que otra cosa se disponga expresamente en el contrato, podrá emplearse cualquier medio que permita tener constancia de su envío o recepción, considerándose cumplido el deber de notificación mediante el envío, con la antelación necesaria en cada caso, de un correo electrónico dirigido a ................................, constituyendo prueba fehaciente el original del telefax, en el que conste su recepción en los indicativos señalados.
+A efectos de comunicaciones entre el Acreditante, la/s Acreditada/s y el Gestor de Garantías, las partes acuerdan que, salvo que otra cosa se disponga expresamente en el contrato, podrá emplearse cualquier medio que permita tener constancia de su envío o recepción, considerándose cumplido el deber de notificación mediante el envío, con la antelación necesaria en cada caso, de un correo electrónico dirigido a................................, constituyendo prueba fehaciente el original del telefax, en el que conste su recepción en los indicativos señalados.
 
 Las Acreditadas designan y autorizan expresamente a la Sociedad Titular de Cuenta de Garantías para que pueda recibir y remitir en su nombre las comunicaciones relativas a este crédito (A añadir en caso de pluralidad de Entidades Acreditadas).
 
@@ -166,33 +166,37 @@ A efectos de notificaciones se consideran días inhábiles los sábados, domingo
 
 A efectos de la práctica de requerimientos y de enviar o recibir notificaciones o comunicaciones, ya sean éstas judiciales o extrajudiciales, se señalan como domicilios e indicativos de telefax de las partes los siguientes:
 
-1. ACREDITANTE:
+1. Acreditante.
 
-• Domicilio:
+Domicilio:
 
-• Telefax:
+Teléfono:
 
-• Ciudad:
+Correo electrónico:
 
-2. LA SOCIEDAD TITULAR DE CUENTA DE GARANTÍAS:
+Ciudad:
 
-• Domicilio:
+2. La sociedad titular de cuenta de garantías.
 
-• Telefax:
+Domicilio:
 
-• Ciudad:
+Teléfono:
 
-(A añadir en caso de pluralidad de Entidades Acreditadas)
+Correo electrónico:
 
-3. AUTORIZADA: Gestor de Garantías.
+Ciudad:
 
-Persona: D. ....................................................................................................................
+(a añadir en caso de pluralidad de entidades acreditadas)
 
-Domicilio: C/ Alfonso, XI,6, 4.ª planta
+3. Autorizada: Gestor de garantías.
+
+Persona: Don/doña ..............................................................................................................
+
+Domicilio: C/ Alfonso, XI, 6, 4.ª planta.
 
 Teléfono: .............................................
 
-Telefax: ...............................................
+Correo electrónico: ...............................................
 
 Ciudad: 28014 Madrid.
 
@@ -210,25 +214,21 @@ Las partes contratantes acuerdan someterse, con renuncia expresa a su propio fue
 
 Tanto el Acreditante como la/s Acreditada/s y la Sociedad Titular de Cuenta de Garantías (A añadir en caso de pluralidad de Entidades Acreditadas) aceptan el presente contrato en los términos, condiciones y responsabilidades que se establece en la presente póliza, y en prueba de ello y para cumplimiento de lo convenido, firman por triplicado este contrato, de los que uno quedará en poder del Acreditante, otro para la/s Acreditada/s, que se entrega a la Sociedad Titular de Cuenta de Garantías y otro que se entregará al Gestor de Garantías, para su conocimiento. (Redacción en función de una o más Entidades Acreditadas)
 
-En ……................., a …......... de …........… de 20 ..........
+……................., …......... de …........… de 20..........
 
-EL ACREDITANTE
+EL ACREDITANTE LA/S ACREDITADA/S
 
-P.p.
+P.p. P.p.
 
-LA/S ACREDITADA/S
+## ANEXO A
 
-P.p.
+## (Redacción en función de una o más entidades acreditadas)
 
-ANEXO A
-
-(Redacción en función de una o más Entidades Acreditadas)
-
-……………, ….. de …… de ……
+................, ....... de ................. de ......
 
 Muy Sres. Nuestros:
 
-En virtud del Crédito que con fecha ……. de ……. suscribieron ……… y el Acreditante ……………………., éste, de conformidad con la comunicación cursadas por la/s Acreditadas a través de la sociedad Titular de Cuenta de Garantías en los términos contemplados en la Cláusula Quinta del Contrato de Crédito, y siempre que concurran las condiciones y requisitos establecidos en la citada cláusula Quinta, autoriza al Gestor de Garantías a disponer, a partir de la fecha del presente documento, por cada sociedad (A añadir en caso de pluralidad de Entidades Acreditadas) la cantidad que a continuación se indica:
+En virtud del Crédito que con fecha ……. de ……. suscribieron ……… y el Acreditante……………………., éste, de conformidad con la comunicación cursadas por la/s Acreditadas a través de la sociedad Titular de Cuenta de Garantías en los términos contemplados en la Cláusula Quinta del Contrato de Crédito, y siempre que concurran las condiciones y requisitos establecidos en la citada cláusula Quinta, autoriza al Gestor de Garantías a disponer, a partir de la fecha del presente documento, por cada sociedad (A añadir en caso de pluralidad de Entidades Acreditadas) la cantidad que a continuación se indica:
 
 Sociedad A………………………… euros
 
@@ -240,40 +240,44 @@ Sociedad C………………………… euros
 
 El plazo para realizar la disposición cuya autorización se comunica, terminará en todo caso al vencimiento del citado crédito, o caso de haberse emitido por el Acreditante una nueva autorización, a la recepción y aceptación por el citado Gestor de Garantías de la nueva autorización.
 
-Atentamente
+Atentamente,
 
-Fdo ……………..
+Fdo ..........................
 
-ANEXO B
+## ANEXO B
 
-……………, ….. de …… de ……
+................, ....... de ................. de ......
 
 Muy Sres. Nuestros:
 
-Por la presente les comunicamos que de conformidad con la documentación que obra en poder de esta sociedad, a la presente fecha se ha constatado el incumplimiento de obligaciones por parte de ……........................................................................................................……, ascendiendo este importe a la cantidad de Euros ………..................................
+Por la presente les comunicamos que de conformidad con la documentación que obra en poder de esta sociedad, a la presente fecha se ha constatado el incumplimiento de obligaciones por parte de ……............................................................................……, ascendiendo este importe a la cantidad de euros ………...................................................
 
-En virtud de lo anterior y de conformidad con lo expuesto en la estipulación…del Contrato de Crédito de … de…. de…, concedido por …………………………. y suscrito por el Titular de Cuenta de Garantías del mercado incumplidor, y en la autorización de disposición de fecha … de … de …, se cursa la presente orden de disposición, para que …………. proceda al pago inmediato de la cantidad de Euros, .……….. mediante su ingreso en la cuenta corriente núm. ...................................... abierta a nombre del Gestor de Garantías en Banco ………....................................................................……
+En virtud de lo anterior y de conformidad con lo expuesto en la estipulación…del Contrato de Crédito de … de…. de…, concedido por …………………………. y suscrito por el Titular de Cuenta de Garantías del mercado incumplidor, y en la autorización de disposición de fecha ….. de …............... de .....…, se cursa la presente orden de disposición, para que proceda al pago inmediato de la cantidad de euros .............. mediante su ingreso en la cuenta corriente núm. ...................................... abierta a nombre del Gestor de Garantías en Banco ......................................................
 
 De conformidad con los términos expuestos en el contrato mencionado, dicho ingreso deberá producirse en el plazo máximo del siguiente día hábil a aquél en que requiera el pago del acreditante.
 
-Atentamente.
+Atentamente,
 
-Fdo…………….
+Fdo ..........................
 
-Anexo. - Comunicación de Banco ……………. sobre movimientos de la cuenta núm. ….......................…………, en el día de valor ...... de …… de 20….
+## ANEXO
 
-ANEXO C
+Comunicación de Banco ……................................. sobre movimientos de la cuenta núm. ….......................…………, en el día de valor ...... de …..........… de 20….
 
-……………, ….. de …… de ……
+## ANEXO C
+
+................, ....... de ................. de ......
 
 Muy Sres. Nuestros:
 
-Por la presente les comunicamos que el Titular de Cuenta de Garantías….…. mantiene a la fecha autorizaciones de disposición en vigor (menos disposiciones realizadas contra dichas autorizaciones) por un importe total de Euros. ……, autorizaciones emitidas para garantizar la cobertura del incumplimiento de obligaciones, en virtud del Contrato de crédito de … de … de …, concedido por …..................… y suscrito por ……....…………...
+Por la presente les comunicamos que el Titular de Cuenta de Garantías .............., mantiene a la fecha autorizaciones de disposición en vigor (menos disposiciones realizadas contra dichas autorizaciones) por un importe total de euros .........., autorizaciones emitidas para garantizar la cobertura del incumplimiento de obligaciones, en virtud del Contrato de crédito de ......... de …........................... de ........., concedido por …..................… y suscrito por .........................................................
 
-Ante el vencimiento del contrato de crédito mencionado en el apartado anterior y que se producirá el día … de … de … tal y como ha sido comunicado por…………, en virtud del cual fueron emitidas las autorizaciones de disposición en vigor, y dado que dichas autorizaciones no han sido sustituidas por cualquier otra garantía de las permitidas por las Normas de Gestión de Garantías del Sistema Gasista, se cursa la presente orden de disposición para que se proceda a depositar la cantidad de Euros. -….. en la fecha de valor … de … de … en virtud y de conformidad con lo expuesto en la cláusula Garantía de Vencimiento del contrato de crédito anteriormente citado, mediante su ingreso en la cuenta corriente núm ....................... abierta a nombre del Gestor de Garantías en el Banco ……………….
+Ante el vencimiento del contrato de crédito mencionado en el apartado anterior y que se producirá el día … de … de … tal y como ha sido comunicado por …………, en virtud del cual fueron emitidas las autorizaciones de disposición en vigor, y dado que dichas autorizaciones no han sido sustituidas por cualquier otra garantía de las permitidas por las Normas de Gestión de Garantías del Sistema Gasista, se cursa la presente orden de disposición para que se proceda a depositar la cantidad de euros ............. en la fecha de valor … de … de … en virtud y de conformidad con lo expuesto en la cláusula Garantía de Vencimiento del contrato de crédito anteriormente citado, mediante su ingreso en la cuenta corriente núm ....................... abierta a nombre del Gestor de Garantías en el Banco ……………………………………….
 
-El importe del ingreso sustituirá como garantía de esta forma a la autorización de disposición en vigor, que se podrá considerar de esta forma definitivamente vencida por la constitución de un depósito en efectivo de garantía del agente ….......... ante el Gestor de Garantías, garantía contemplada en las Normas de Gestión de Garantías del Sistema Gasista.
+El importe del ingreso sustituirá como garantía de esta forma a la autorización de disposición en vigor, que se podrá considerar de esta forma definitivamente vencida por la constitución de un depósito en efectivo de garantía del agente .................. ante el Gestor de Garantías, garantía contemplada en las Normas de Gestión de Garantías del Sistema Gasista.
 
 Atentamente.
 
-Fdo…………………….
+Fdo. …………………….
+
+> Se sustituye por el modelo que figura en el anejo II de la Resolución de 11 de mayo de 2023, según establece su apartado segundo. Ref. BOE-A-2023-13071
