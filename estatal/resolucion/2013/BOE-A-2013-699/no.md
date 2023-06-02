@@ -1,1 +1,1 @@
-Norma derogada, con efectos de 17 de junio de 2022, por la disposición derogatoria de la Resolución de 14 de junio de 2022. Ref. BOE-A-2022-9983#dd
+Norma derogada, con efectos de 2 de junio de 2023, por la disposición derogatoria única de la Resolución de 27 de mayo de 2023. Ref. BOE-A-2023-12914#dd
