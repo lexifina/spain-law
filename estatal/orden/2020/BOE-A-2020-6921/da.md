@@ -1,6 +1,6 @@
 ## Disposición adicional primera. Certificado cultural para la aplicación de incentivos fiscales.
 
-1. Para la aplicación de los incentivos fiscales por inversiones en producciones cinematográficas y series audiovisuales que establece el artículo 36 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, las obras deberán contar con un certificado cultural expedido por el Instituto de la Cinematografía y de las Artes Audiovisuales o por el órgano correspondiente de la Comunidad Autónoma con competencia en la materia.
+1. Para la aplicación de los incentivos fiscales por inversiones en producciones cinematográficas y series audiovisuales que establece el artículo 36 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, las obras deberán contar con un certificado cultural expedido por el Instituto de la Cinematografía y de las Artes Audiovisuales O.A. o por el órgano correspondiente de la Comunidad Autónoma con competencia en la materia. En el caso de las series audiovisuales, la expedición del certificado se efectuará por cada temporada, para lo cual en la solicitud deberá especificarse el número de episodios que la integran.
 
 2. En el supuesto de las inversiones a las que se refiere el artículo 36.1 de la Ley 27/2014, de 27 de noviembre, cuando se trate de la producción de una obra para la que no se solicite ayuda a la producción, el procedimiento de solicitud y los requisitos para la obtención del certificado serán los siguientes:
 
@@ -22,15 +22,11 @@ a) La solicitud se efectuará a través de la sede electrónica asociada del Min
 
 b) El certificado se expedirá cuando se obtenga la puntuación mínima requerida, de acuerdo con el baremo que se establece en el anexo de esta orden.
 
-> Téngase en cuenta que esta última actualización del apartado 3 establecida por el art.único.3 de la Orden CUD/464/2021, de 10 de mayo. Ref. BOE-A-2021-7949, entra en vigor el 1 de septiembre de 2021, según determina su disposición final única.
-
-> Redacción anterior:
-
-> "3. En el ámbito de actuación del Instituto de la Cinematografía y de las Artes Audiovisuales la resolución por la que se expida o deniegue el certificado cultural, pondrá fin a la vía administrativa y se notificará a la persona interesada en el plazo máximo de un mes desde su solicitud. Transcurrido este plazo sin notificar la resolución, la solicitud se entenderá estimada."
-
 4. En el ámbito de actuación del Instituto de la Cinematografía y de las Artes Audiovisuales la resolución por la que se expida o deniegue el certificado cultural pondrá fin a la vía administrativa y se notificará a la persona interesada en el plazo máximo de un mes desde su solicitud. Transcurrido este plazo sin notificar la resolución, la solicitud se entenderá estimada.
 
 5. La persona titular de la Dirección General del Instituto de la Cinematografía y de las Artes Audiovisuales podrá revocar el certificado cultural expedido si se comprueba que finalmente no se cumplen los criterios que justificaron su otorgamiento bien sea en los procedimientos de obtención del certificado de nacionalidad o calificación de la producción, cuando dichos procedimientos deban realizarse, o, en otro caso, en el proceso de comprobación del cumplimiento de las obligaciones correspondientes que pueda llevarse a cabo.
+
+> Se modifica el apartado 1 por el art. 2.23 de la Orden CUD/553/2023, de 31 de mayo. Ref. BOE-A-2023-13188
 
 > Se modifica por el art. único.3 de la Orden CUD/464/2021, de 10 de mayo. Ref. BOE-A-2021-7949
 
