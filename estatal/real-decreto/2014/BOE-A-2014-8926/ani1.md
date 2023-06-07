@@ -8,7 +8,7 @@ Nota 2: En algunos casos, los productos químicos se listan por nombre y número
 
 Nota 3: Todas las referencias a otros artículos o subartículos que aparecen en este anexo I.1 se entenderán de este anexo I.1 salvo referencia expresa a otro anexo o lista de productos.
 
-## 1. ARMAS CON CAÑÓN DE ÁNIMA LISA CON UN CALIBRE INFERIOR A 20 MM, OTRAS ARMAS DE FUEGO Y ARMAS AUTOMÁTICAS CON UN CALIBRE DE 12,7 MM (CALIBRE DE 0,50 PULGADAS) O INFERIOR Y ACCESORIOS, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLAS:
+ML1 Armas con cañón de ánima lisa con un calibre inferior a 20 mm, otras armas de fuego y armas automáticas con un calibre de 12,7 mm (calibre de 0,50 pulgadas) o inferior y accesorios, según se indica, y componentes diseñados especialmente para ellas:
 
 Nota: El artículo 1 no se aplica a lo siguiente:
 
@@ -18,7 +18,11 @@ b. Las armas de fuego diseñadas especialmente para el lanzamiento de proyectile
 
 c. Las armas que utilicen municiones con casquillo de percusión no central y que no sean totalmente automáticas;
 
-d. “Armas inutilizadas”.
+d. “armas desactivadas”.
+
+Nota técnica:
+
+Un “arma desactivada” es un arma que ha sido privada de la capacidad de disparar proyectil alguno mediante los procesos definidos por la autoridad nacional de los Estados participantes en el Arreglo de Wassenaar. Estos procesos modifican de manera irreversible las piezas esenciales del arma de fuego. De conformidad con las disposiciones legales y reglamentarias nacionales, la desactivación del arma de fuego puede acreditarse mediante certificado expedido por una autoridad nacional y puede indicarse en el arma mediante marcado en una de las piezas esenciales.
 
 a. Fusiles y armas combinadas, armas cortas, ametralladoras, fusiles ametralladores y armas multitubo;
 
@@ -80,7 +84,7 @@ d. Accesorios diseñados para las armas contempladas en los subartículos 1.a, 1
 
 2. Supresores o moderadores del ruido;
 
-3. Montajes especiales de cañón;
+3. Montajes de cañón;
 
 4. Apagafogonazos;
 
@@ -88,13 +92,17 @@ d. Accesorios diseñados para las armas contempladas en los subartículos 1.a, 1
 
 6. Visores ópticos diseñados especialmente para uso militar.
 
+Nota técnica:
+
+A efectos del subartículo 1.d.3, un “montaje de cañón” es un dispositivo diseñado para montar un cañón en un vehículo terreno, una “aeronave”, un buque o una estructura.
+
 Nota: El subartículo 1.d no se aplica a los visores ópticos para armas sin procesado electrónico de imagen, con una ampliación de 9 o inferior, siempre que no estén diseñados especialmente o modificados para uso militar, o que no incorporen retículos diseñados especialmente para uso militar.
 
 NOTA ACLARATORIA:
 
 Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II del presente Reglamento.
 
-## 2. ARMAS CON CAÑÓN DE ÁNIMA LISA CON UN CALIBRE IGUAL O SUPERIOR A 20 MM, OTRAS ARMAS O ARMAMENTO CON UN CALIBRE SUPERIOR A 12,7 MM (CALIBRE DE 0,50 PULGADAS), PROYECTORES DISEÑADOS ESPECIALMENTE O MODIFICADOS PARA USO MILITAR Y ACCESORIOS, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML2 Armas con cañón de ánima lisa con un calibre igual o superior a 20 mm, otras armas o armamento con un calibre superior a 12,7 mm (calibre de 0,50 pulgadas), proyectores diseñados especialmente o modificados para uso militar y accesorios, según se indica, y componentes diseñados especialmente para ellos:
 
 a) Armas de fuego (incluidas las piezas de artillería), obuses, cañones, morteros, armas contracarro, lanzaproyectiles, lanzallamas, fusiles, fusiles sin retroceso y armas de ánima lisa.
 
@@ -148,7 +156,7 @@ c) Accesorios diseñados especialmente para las armas especificadas en el subart
 
 d) Sin uso desde 2019.
 
-## 3. MUNICIONES Y DISPOSITIVOS PARA EL ARMADO DE LOS CEBOS, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS.
+ML3 Municiones y dispositivos para el armado de los cebos, según se indica, y componentes diseñados especialmente para ellos:
 
 a. Munición para las armas especificadas por los artículos 1, 2 o 12;
 
@@ -184,7 +192,7 @@ b. Para espantar pájaros; o
 
 c. Encendido de antorchas de gas en pozos de petróleo.
 
-## 4. BOMBAS, TORPEDOS, COHETES, MISILES, OTROS DISPOSITIVOS Y CARGAS EXPLOSIVAS, EQUIPO RELACIONADO Y ACCESORIOS, SEGÚN SE INDICA, Y LOS COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML4 Bombas, torpedos, cohetes, misiles, otros dispositivos y cargas explosivas, equipo relacionado y accesorios, según se indica, y los componentes diseñados especialmente para ellos:
 
 N.B.1 Para equipos de guiado y navegación, véase el artículo 11.
 
@@ -250,7 +258,7 @@ NOTA ACLARATORIA:
 
 Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II del presente Reglamento.
 
-## 5. SISTEMAS DE DIRECCIÓN DE TIRO, EQUIPO RELACIONADO DE ALERTA Y AVISO, Y SISTEMAS RELACIONADOS, EQUIPO DE ENSAYO Y DE ALINEACIÓN Y DE CONTRAMEDIDAS, SEGÚN SE INDICA, DISEÑADOS ESPECIALMENTE PARA USO MILITAR, ASÍ COMO LOS COMPONENTES Y ACCESORIOS DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML5 Sistemas de dirección de tiro, vigilancia y aviso, y sistemas relacionados, equipo de ensayo y de alineación y de contramedidas, según se indica, diseñados especialmente para uso militar, así como los componentes y accesorios diseñados especialmente para ellos:
 
 a. Visores de armas, ordenadores de bombardeo, equipo de puntería para cañones y sistemas de control para armas;
 
@@ -272,7 +280,7 @@ NOTA ACLARATORIA:
 
 Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II de este Reglamento.
 
-## 6. VEHÍCULOS TERRENOS Y COMPONENTES, SEGÚN SE INDICA:
+ML6 Vehículos terrenos y componentes, según se indica:
 
 N.B. Para equipos de guiado y navegación, véase el artículo 11.
 
@@ -330,7 +338,7 @@ b. Que no incluyan artículos especificados en la Lista Común Militar de la UE 
 
 c. Que no incorporen armas especificadas en los artículos 1., 2. o 4., a menos que no funcionen ni puedan disparar proyectiles.
 
-## 7. AGENTES QUÍMICOS, “AGENTES BIOLÓGICOS”, “AGENTES ANTIDISTURBIOS”, MATERIALES RADIACTIVOS, EQUIPO RELACIONADO, COMPONENTES Y MATERIALES, SEGÚN SE INDICA:
+ML7 Agentes químicos, “agentes biológicos”, “agentes antidisturbios”, materiales radiactivos, equipo relacionado, componentes y materiales, según se indica:
 
 a. “Agentes biológicos” o materiales radiactivos seleccionados o modificados a fin de aumentar su eficacia para producir bajas en la población o en los animales, degradar equipos o dañar las cosechas o el medio ambiente;
 
@@ -351,6 +359,8 @@ Tabún (GA): N, N-dimetilfosforamidocianidato de O-etilo (CAS 77-81-6);
 c. Fosfonotiolatos de O-alquilo (H iguales o inferiores a C10, incluyendo los cicloalquilos) y de S-2-dialquil (metil, etil, n-propil o isopropil) aminoetilalquilo (metilo, etilo, n-propiol o isopropilo) y sales alquiladas y protonadas correspondientes, tales como:
 
 VX: Metilfosfonotiolato de O-etilo y de S-2-diisopropilaminoetilo de O-etilo (CAS 50782-69-9);
+
+d. Amitón: fosforotiolato de O,Odietilo y S[ 2 (dietilamino) etilo] (CAS 78-53-5) y las sales alquiladas o protonadas correspondientes.
 
 2. Agentes vesicantes para guerra química:
 
@@ -514,7 +524,7 @@ NOTA ACLARATORIA:
 
 Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II del presente Reglamento.
 
-## 8. “MATERIALES ENERGÉTICOS”, Y SUSTANCIAS RELACIONADAS, SEGÚN SE INDICA:
+ML8 “Materiales energéticos”, y sustancias relacionadas, según se indica:
 
 N.B.1: Véase también el artículo 1C011 de la Lista de Productos de Doble Uso de la UE.
 
@@ -1120,7 +1130,7 @@ d. Con una cantidad igual o inferior a 4 g de NTO (8.a.18); y
 
 6. Con una cantidad igual o inferior a 1 g de catoceno (8.f.4.b).
 
-## 9. BUQUES DE GUERRA (DE SUPERFICIE O SUBACUÁTICOS), EQUIPOS NAVALES ESPECIALES, ACCESORIOS, COMPONENTES Y OTROS BUQUES DE SUPERFICIE, SEGÚN SE INDICA:
+ML9 Buques de guerra (de superficie o subacuáticos), equipos navales especiales, accesorios, componentes y otros buques de superficie, según se indica:
 
 N.B. Para equipos de guiado y navegación, véase el artículo 11.
 
@@ -1218,7 +1228,7 @@ A efectos del subartículo 9.h., “modificación” significa un cambio estruct
 
 Nota: El subartículo 9.h. incluye los “reactores nucleares”.
 
-## 10. “AERONAVES”, “VEHÍCULOS MÁS LIGEROS QUE EL AIRE”, “VEHÍCULOS AÉREOS NO TRIPULADOS” (“UAVs”), MOTORES DE AVIACIÓN Y EQUIPO PARA “AERONAVES”, EQUIPOS ASOCIADOS, Y COMPONENTES, SEGÚN SE INDICA, DISEÑADOS ESPECIALMENTE O MODIFICADOS PARA USO MILITAR:
+ML10 “Aeronaves”, “vehículos más ligeros que el aire”, “vehículos aéreos no tripulados” (“VANT”), motores de aviación y equipo para “aeronaves”, equipos asociados, y componentes, según se indica, diseñados especialmente o modificados para uso militar:
 
 N.B. Para equipos de guiado y navegación, véase el artículo 11.
 
@@ -1242,11 +1252,11 @@ e. Equipos aerotransportados para el abastecimiento de carburante diseñados esp
 
 2. “Aeronaves” no tripuladas especificadas en el subartículo 10.c;
 
-f. ‘Equipo de tierra’ diseñado especialmente para las “aeronaves” especificadas en el subartículo 10.a o los motores aeronáuticos especificados en el subartículo 10.d;
+f. Equipo de tierra diseñado especialmente para las “aeronaves” especificadas en el subartículo 10.a o los motores aeronáuticos especificados en el subartículo 10.d;
 
-Nota técnica:
+Nota:
 
-El ‘equipo de tierra’ incluye el equipo para el abastecimiento de carburante a presión y el equipo diseñado para facilitar operaciones en áreas restringidas.
+El subartículo 10.f. incluye el equipo para el abastecimiento de carburante a presión y el equipo diseñado para facilitar operaciones en áreas restringidas, incluido el equipo situado a bordo de un buque.
 
 g. Equipo de supervivencia para tripulaciones aéreas, equipo de seguridad para tripulaciones aéreas y otros dispositivos de salida de emergencia, no especificados en el subartículo 10.a, diseñados para “aeronaves” especificadas en el subartículo 10.a;
 
@@ -1292,7 +1302,7 @@ c. No incorporar armas especificadas en el presente anexo, a menos que sean inse
 
 Nota 6: El subartículo 10.d no se aplica a los motores aeronáuticos de propulsión manufacturados por primera vez con anterioridad a 1946.
 
-## 11. EQUIPOS ELECTRÓNICOS, “VEHÍCULO ESPACIAL” Y COMPONENTES, NO ESPECIFICADOS EN NINGUNA OTRA PARTE DE ESTE ANEXO I.1, SEGÚN SE INDICA:
+ML11 Equipos electrónicos, “vehículos espaciales” y componentes no especificados en ninguna otra parte de este anexo, según se indica:
 
 a. Equipo electrónico diseñado especialmente para uso militar y componentes diseñados especialmente para él;
 
@@ -1324,7 +1334,7 @@ b. Equipo para interferencia intencionada de “sistemas de navegación por sat�
 
 c. “Vehículos espaciales” diseñados especialmente o modificados para uso militar, y componentes de “vehículos espaciales” diseñados especialmente para uso militar.
 
-## 12. SISTEMAS DE ARMAS DE ENERGÍA CINÉTICA DE ALTA VELOCIDAD Y EQUIPO RELACIONADO, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML12 Sistemas de armas de energía cinética de alta velocidad y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
 
 a. Sistemas de armas de energía cinética diseñados especialmente para destruir un objetivo o hacer abortar la misión del objetivo;
 
@@ -1356,7 +1366,7 @@ d. De gas ligero; o
 
 e. Química (cuando se utilice en combinación con otro cualquiera de los demás métodos indicados).
 
-## 13. EQUIPOS Y CONSTRUCCIONES BLINDADAS O DE PROTECCIÓN, Y COMPONENTES, SEGÚN SE INDICA:
+ML13 Equipos blindados o de protección, construcciones, componentes y accesorios, según se indica:
 
 a. Planchas de blindaje metálicas o no que tengan cualquiera de las características siguientes:
 
@@ -1368,9 +1378,15 @@ N.B. Para las placas de trajes blindados, véase 13.d.2.
 
 b. Construcciones de materiales metálicos o no, y combinaciones de ellas, diseñadas especialmente para ofrecer una protección balística a los sistemas militares, y los componentes diseñados especialmente para ellas;
 
-c. Cascos manufacturados de acuerdo con estándares o especificaciones militares, o con normas nacionales comparables, y armazones, forros y acolchados del casco diseñados especialmente para ellos;
+c. Cascos y componentes y accesorios diseñados especialmente para ellos, según se indica:
 
-N.B.Véase el artículo pertinente para otros componentes o accesorios del casco para militares.
+1. Cascos manufacturados de acuerdo con estándares o especificaciones militares, o con normas nacionales comparables;
+
+2. Armazones, forros y acolchados diseñados especialmente para los cascos que se especifican en el subartículo 13.c.1.;
+
+3. Complementos de protección balística diseñados especialmente para los cascos que se especifican en el subartículo 13.c.1.;
+
+N. B.: Véase la entrada correspondiente de este anexo para otros componentes o accesorios del casco para militares.
 
 d. Trajes blindados o prendas de protección, y componentes para ellos, según se indica:
 
@@ -1382,7 +1398,11 @@ Nota: A los efectos del subartículo 13.d.1., los estándares o especificaciones
 
 Nota 1: El subartículo 13.b incluye los materiales diseñados especialmente para constituir blindajes explosivos reactivos o para construir refugios militares.
 
-Nota 2: El subartículo 13.c no se aplica a los cascos de acero convencionales no equipados con ningún tipo de dispositivo accesorio, ni diseñados o modificados para ser equipados con tal dispositivo.
+Nota 2: El subartículo 13.c. no se aplica a los cascos que tengan todas las características siguientes:
+
+a. Haber sido manufacturados por primera vez con anterioridad a 1970; y
+
+b. No estar diseñados ni modificados para aceptar material especificado en la Lista Común Militar de la UE ni estar equipados con dicho material.
 
 Nota 3: Los subartículos 13.c y 13.d no se aplican a los cascos, trajes blindados ni prendas de protección, cuando acompañen a su usuario para su protección personal.
 
@@ -1392,7 +1412,7 @@ N.B.1: Véase también el artículo 1A005 de la Lista de Productos de Doble Uso 
 
 N.B.2: Para los “materiales fibrosos o filamentosos” utilizados en la manufactura del los trajes blindados y de los cascos, véase el artículo 1C010 de la Lista de Productos de Doble Uso de la UE.
 
-## 14. ‘EQUIPOS ESPECIALIZADOS PARA EL ENTRENAMIENTO MILITAR’ O LA SIMULACIÓN DE ESCENARIOS MILITARES, SIMULADORES DISEÑADOS ESPECIALMENTE PARA EL APRENDIZAJE DEL MANEJO DE ARMAS DE FUEGO U OTRAS ARMAS ESPECIFICADAS EN LOS ARTÍCULOS 1 O 2, Y COMPONENTES Y ACCESORIOS DISEÑADOS ESPECIALMENTE PARA ELLOS.
+ML14 “Equipos especializados para el entrenamiento militar” o la simulación de escenarios militares, simuladores diseñados especialmente para el aprendizaje del manejo de armas de fuego u otras armas especificados en los artículos ML1 o ML2, y componentes y accesorios diseñados especialmente para ellos.
 
 Nota Técnica
 
@@ -1402,7 +1422,7 @@ Nota 1: El artículo 14 incluye los sistemas de generación de imágenes y los s
 
 Nota 2: El artículo 14 no se aplica al equipo diseñado especialmente para el entrenamiento en el uso de armas de caza o tiro deportivo.
 
-## 15. EQUIPOS DE FORMACIÓN DE IMAGEN O DE CONTRAMEDIDA, SEGÚN SE INDICA, DISEÑADOS ESPECIALMENTE PARA USO MILITAR Y COMPONENTES Y ACCESORIOS DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML15 Equipos de formación de imagen o de contramedida, según se indica, diseñados especialmente para uso militar y componentes y accesorios diseñados especialmente para ellos:
 
 a. Registradores y equipos de proceso de imagen;
 
@@ -1424,11 +1444,11 @@ N.B.: Para la clasificación de los visores que incorporen “tubos intensificad
 
 N.B.: Véanse también los subartículos 6A002.a.2 y 6A002.b de la Lista de Productos de Doble Uso de la UE.
 
-## 16. PIEZAS DE FORJA, PIEZAS DE FUNDICIÓN Y PRODUCTOS SEMIELABORADOS, DISEÑADOS ESPECIALMENTE PARA LOS PRODUCTOS ESPECIFICDOS EN LOS ARTÍCULOS 1, 2, 3, 4, 6, 9, 10, 12 O 19.
+ML16 Piezas de forja, piezas de fundición y productos semielaborados, diseñados especialmente para los productos especificados en los artículos ML1, ML2, ML3, ML4, ML6, ML9, ML10, ML12 o ML19.
 
 Nota El artículo 16 se aplica a los productos semielaborados que sean identificables por la composición del material, geometría o función.
 
-## 17. EQUIPOS MISCELÁNEOS, MATERIALES Y “BIBLIOTECAS”, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML17 Equipos misceláneos, materiales y “bibliotecas”, según se indica, y componentes diseñados especialmente para ellos:
 
 a. Equipos de buceo y natación subacuática, diseñados especialmente o modificados para uso militar, según se indica:
 
@@ -1486,11 +1506,11 @@ Notas Técnicas
 
 2. A efectos del artículo 17, ‘modificación’ significa un cambio estructural, eléctrico, mecánico u otro que confiera a un material no militar capacidades militares equivalentes a las de un material diseñado especialmente para uso militar.
 
-## 18. EQUIPO DE "PRODUCCIÓN", INSTALACIONES DE ENSAYO AMBIENTAL Y COMPONENTES, SEGÚN SE INDICA:
+ML18 Equipo de ‘producción’, instalaciones de ensayo ambiental y componentes, según se indica:
 
 a. Equipos de ‘producción’ diseñados especialmente o modificados para la ‘producción’ de los productos especificados en este anexo I.1, y componentes diseñados especialmente para ellos;
 
-b. Instalaciones de ensayo ambiental diseñadas especialmente y equipos diseñados especialmente para ellas, para la certificación, calificación o ensayo de productos especificados en este anexo I.1.
+b. Instalaciones de ensayo ambiental diseñadas especialmente y equipos diseñados especialmente para ellas, que no se especifiquen en otro sitio, para la certificación, calificación o ensayo de productos especificados en este anexo.
 
 Nota Técnica
 
@@ -1524,7 +1544,7 @@ i. Equipos para obtener a la vez la esfericidad y uniformidad de tamaño de las 
 
 j. Convertidores de corriente de convección para la conversión de los materiales incluidos en el subartículo 8.c.3.
 
-## 19. SISTEMAS DE ARMAS DE ENERGÍA DIRIGIDA (), EQUIPOS RELACIONADOS O DE CONTRAMEDIDA Y MODELOS DE ENSAYO, SEGÚN SE INDICA, Y COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML19 Sistemas de Armas de Energía Dirigida, equipos relacionados o de contramedida y modelos de ensayo, según se indica, y componentes diseñados especialmente para ellos:
 
 a. Sistemas “láser” diseñados especialmente para destruir un objetivo o hacer abortar la misión de un objetivo;
 
@@ -1570,7 +1590,7 @@ j. Equipos para el control y la orientación de un haz de iones de alta energía
 
 k. Láminas “calificadas para uso espacial” para la neutralización de haces de isótopos de hidrógeno negativos.
 
-## 20. EQUIPOS CRIOGÉNICOS Y “SUPERCONDUCTORES”, SEGÚN SE INDICA, COMPONENTES Y ACCESORIOS DISEÑADOS ESPECIALMENTE PARA ELLOS:
+ML20 Equipos criogénicos y "superconductores", según se indica, componentes y accesorios diseñados especialmente para ellos:
 
 a. Equipos diseñados especialmente o configurados para ser instalados en vehículos para aplicaciones militares terrestres, marítimas, aeronáuticas o espaciales, capaces de funcionar en movimiento y de producir o mantener temperaturas inferiores a 103 K (-170 ºC);
 
@@ -1580,7 +1600,7 @@ b. Equipos eléctricos “superconductores” (máquinas rotativas y transformad
 
 Nota: El subartículo 20.b no se aplica a los generadores homopolares híbridos de corriente continua que tengan armaduras metálicas normales de un solo polo girando en un campo magnético producido por bobinados superconductores, a condición de que estos bobinados sean el único elemento superconductor en el generador.
 
-## 21. “EQUIPO LÓGICO” (), SEGÚN SE INDICA:
+ML21 “Equipo lógico”, según se indica:
 
 a. “Equipo lógico” () diseñado especialmente o modificado para cualquiera de lo siguiente:
 
@@ -1610,7 +1630,7 @@ c. “Equipo lógico”, no especificado en los subartículos 21.a o 21.b., dise
 
 N. B.: Véanse los sistemas, equipos o componentes especificados en el presente anexo como “ordenadores digitales” de uso general que lleven instalado un “equipo lógico” especificado en el subartículo 21.c.
 
-## 22. “TECNOLOGÍA”, SEGÚN SE INDICA:
+ML22 “Tecnología”, según se indica:
 
 a. “Tecnología”, distinta de la especificada en el subartículo 22.b, “necesaria” para el “desarrollo”, la “producción”, el funcionamiento, la instalación, el mantenimiento (), la reparación, la revisión o la restauración de los materiales especificados en este anexo I.1.
 
@@ -1639,6 +1659,8 @@ a. La “tecnología” mínima necesaria para la instalación, el funcionamient
 b. La “tecnología” que sea “de conocimiento público”, de “investigación científica básica” o la información mínima necesaria para solicitudes de patentes.
 
 c. La “tecnología” para la inducción magnética para la propulsión continua de dispositivos de transporte civil.
+
+> Se modifica por el art. único.1 a 22 de la Orden ICT/534/2023, de 26 de mayo. Ref. BOE-A-2023-12785
 
 > Se modifica la categoría 2 por el art. único.12 del Real Decreto 414/2022, de 31 de mayo. Ref. BOE-A-2022-10514
 

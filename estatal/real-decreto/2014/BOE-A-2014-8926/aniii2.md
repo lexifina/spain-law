@@ -1,6 +1,6 @@
 ## ANEXO III.2
 
-## OTRO MATERIAL REFERIDO A ARMAS DE FUEGO, SUS PIEZAS Y COMPONENTES ESENCIALES Y MUNICIONES PARA USO CIVIL Y VISORES, MIRAS Y EQUIPOS DE VISIÓN NOCTURNA SOMETIDOS A CONTROL EN LA IMPORTACIÓN
+## OTRO MATERIAL REFERIDO A ARMAS DE FUEGO, SUS PIEZAS Y COMPONENTES ESENCIALES Y MUNICIONES PARA USO CIVIL Y VISORES, MIRAS Y EQUIPOS DE VISIÓN NOCTURNA SOMETIDOS A CONTROL EN LA IMPORTACIÓN Y/O INTRODUCCIÓN.
 
 1. Aquellas armas de fuego, así como sus partes y componentes esenciales y municiones, definidas en el anexo I del Reglamento (UE) Nº 258/2012 del Parlamento Europeo y del Consejo, de 14 de marzo de 2012, por el que se aplica el artículo 10 del Protocolo de las Naciones Unidas contra la fabricación y el tráfico ilícitos de armas de fuego, sus piezas y componentes y municiones, que complementa la Convención de las Naciones Unidas contra la delincuencia transnacional organizada, y por el que se establecen autorizaciones de exportación y medidas de importación y tránsito para las armas de fuego, sus piezas y componentes y municiones.
 
@@ -13,6 +13,8 @@ Nota 1: Este artículo no somete a control los tubos intensificadores de primera
 Nota 2: Este artículo somete a control aquellos sistemas de visión nocturna o térmica adaptables a armas de fuego de uso civil o a sus miras.
 
 Nota 3: Este artículo no somete a control los visores ópticos telescópicos.
+
+> Se modifica el título por el art. único.23 de la Orden ICT/534/2023, de 26 de mayo. Ref. BOE-A-2023-12785
 
 > Se sustituyen los apartados 2 y 3 por un único apartado 2, por el art. único.14 del Real Decreto 414/2022, de 31 de mayo. Ref. BOE-A-2022-10514
 
