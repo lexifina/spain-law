@@ -305,10 +305,10 @@ Los informes complementarios que sean requeridos por este apartado, deberán ser
 | Hipo e hiper - aldosteronismo controlado con tratamiento y sin descompensación en el tiempo | Se admite + (2) + valoración cardiaca y hipertensión arterial | Se admite + (2) + valoración cardiaca y hipertensión arterial | No se admite |
 | Hipo e hiper - aldosteronismo mal controlado con tratamiento y con descompensación en el tiempo | No se admite | No se admite | No se admite |
 | Enfermedades de la médula adrenal | Feocromocitoma | No se admite | No se admite | No se admite |
-| Diabetes mellitus | No insulinodependiente controlada con tratamiento y sin descompensación en el tiempo | Se admite | Se admite | Se admite + (2) + (4) |
-| No insulinodependiente mal controlada con tratamiento y con descompensación en el tiempo | Se admite + (3) + valoración oftalmológica, renal y neurológica | Se admite + (3) + valoración oftalmológica, renal y neurológica | No se admite |
-| Insulinodependiente controlada con tratamiento y sin descompesación en el tiempo | Se admite + (2) + valoración oftalmológica, renal y neurológica | Se admite + (2) + valoración oftalmológica, renal y neurológica | No se admite |
-| Insulinodependiente mal controlada con tratamiento y con descompensación en el tiempo | No se admite | No se admite | No se admite |
+| Diabetes mellitus | No insulinodependiente controlada con tratamiento y sin descompensación en el tiempo. | Se admite. | Se admite | Se admite + (2) + (4). |
+| No insulinodependiente mal controlada con tratamiento y con descompensación en el tiempo. | Se admite + (3) + valoración oftalmológica, renal y neurológica. | Se admite + (3) + valoración oftalmológica, renal y neurológica. | No se admite |
+| Insulinodependiente controlada con tratamiento y sin descompensación en el tiempo. | Se admite + (2) + valoración oftalmológica, renal y neurológica. | Se admite + (2) + valoración oftalmológica, renal y neurológica. | Se admite + (2) + valoración oftalmológica, renal y neurológica. |
+| Insulinodependiente mal controlada con tratamiento y con descompensación en el tiempo. | No se admite. | No se admite. | No se admite. |
 | Tumores de las células de los islotes pancreáticos | Insulinoma sin clínica y/o controlado con tratamiento y sin descompensación en el tiempo | Se admite + (3) | Se admite + (3) | Se admite + (3) |
 | Insulinoma, vipoma, glucagonoma o somatostatinoma mal controlados con tratamiento y con descompensación en el tiempo | No se admiten | No se admiten | No se admiten |
 | Vipoma controlado con tratamiento y sin descompensación en el tiempo | Se admite + (3) + valoración cardíaca y renal | Se admite + (3) + valoración cardíaca y renal | No se admite |
@@ -358,8 +358,8 @@ Los informes complementarios que sean requeridos por este apartado, deberán ser
 | Antecedentes de infecciones del aparato digestivo | Se admite + Valoración motilidad, neurológica y cardiológica | Se admite + Valoración motilidad, neurológica y cardiológica | Se admite + Valoración motilidad, neurológica y cardiológica |
 | Antecedentes de enfermedades de transmisión sexual y de infecciones del S .N. C. | Se admite + Valoración motilidad, neurológica, cardiológica y oftalmológica | Se admite + Valoración motilidad, neurológica, cardiológica y oftalmológica | Se admite + Valoración motilidad, neurológica, cardiológico y oftalmológica |
 | Antecedentes de infecciones del aparato cardiovascular | Se admite + Valoración cardiológica | Se admite + Valoración cardiológica | Se admite + Valoración cardiológica |
-| V.H.I. (virus de la inmunodeficiencia humana) | Categorías clínicas Al, A2, B1 y B2 | Se admite + (2) + valoración general | Se admite + (2) + valoración general | No se admite |
-| Categorías clínicas A3, B3, Cl, C2 y C3 | Se admite + (3) + valoración general | Se admite + (3) + valoración general | No se admite |
+| VIH (virus de la inmunodeficiencia humana). | Categorías clínicas Al, A2, B1 y B2. | Se admite + (2) + valoración general. | Se admite + (2) + valoración general. | Se admite + (2) + valoración general. |
+| Categorías clínicas A3, B3, Cl, C2 y C3. | Se admite + (3) + valoración general. | Se admite + (3) + valoración general. | Se admite + (3) + valoración general. |
 | Antecedentes de infección por leptospira | Se admite + valoración hematológica | Se admite + valoración hematológica | Se admite + valoración hematológica |
 | Antecedentes de infección por rickettsias | Se admite + valoración hematológica, respiratoria y cardiológica | Se admite + valoración hematológica, respiratoria y cardiológica | Se admite + valoración hematológica, respiratoria y cardiológica |
 | Antecedentes de infección palúdica | Se admite + valoración hematológica, respiratoria, cardiológica, renal y endocrina | Se admite + valoración hematológica, respiratoria, cardiológica, renal y endocrina | Se admite + valoración hematológica, respiratoria, cardiológica, renal y endocrina |
@@ -482,3 +482,5 @@ A.V. = Agudeza visual.
 C.V. = Campo visual.
 
 Cuando deba acreditarse el correcto manejo del arma, o se presente duda acerca del mismo, se hará constar en el informe, deberá acreditarse ante el órgano administrativo corresponiente, de la Dirección General de la Guardia Civil o de la Dirección General de la Policía, según se trate de reconocimientos tipo M,L o S.
+
+> Se modifican los apartados IX y XI por el art. único del Real Decreto 426/2023, de 6 de junio. Ref. BOE-A-2023-13535
