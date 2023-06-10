@@ -10,4 +10,6 @@ El aviso de recibo acreditativo de la recepción de la documentación a que alud
 
 4. El Servicio de Correos conservará hasta el día de la votación toda la correspondencia dirigida a las Mesas Electorales y la trasladará a dichas Mesas a las nueve de la mañana. Asimismo, seguirá dando traslado de la que pueda recibirse en dicho día, hasta las veinte horas del mismo. El Servicio de Correos llevará un registro de toda la documentación recibida, que estará a disposición de las Juntas Electorales. Los sobres recibidos después de las veinte horas del día fijado para la votación se remitirán a la Junta Electoral de Zona.
 
+> Véase, para la interpretación del apartado 3, la Instrucción 5/2023, de 8 de junio, de la Junta Electoral Central, en lo que se refiere a la exigencia de la identificación personal del elector en la entrega de la documentación del voto por correspondencia en las oficinas de Correos. Ref. BOE-A-2023-13667
+
 > Se modifica por el art. único.2 de la Ley Orgánica 6/1992, de 2 de noviembre. Ref. BOE-A-1992-24305.
