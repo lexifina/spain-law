@@ -56,6 +56,7 @@
 | 593 | Plazo: el plazo será desde el día 1 hasta el día 25 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
+| 718 | Desde el día 1 hasta el día 26 del mes de julio. |
 | 792 | Desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
 | 793 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre. |
 | 795 | Desde el día 1 hasta el día 15 del mes de septiembre. |
@@ -68,6 +69,10 @@
 (**) Solo cuando el periodo impositivo finalice el día 31 de diciembre.
 
 (***) Sólo cuando el periodo sea trimestral.
+
+> Se añade el modelo 718 y el plazo correspondiente, por la disposición final 2.2 de la Orden HFP/587/2023, de 9 de junio. Ref. BOE-A-2023-13800
+
+> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez al ejercicio 2022, según establece la disposición final 4 de la citada Orden.
 
 > Se añaden los modelos 792 y 793 por la disposición final 2.2 de la Orden HFP/309/2023, de 28 de marzo, Ref. BOE-A-2023-8117 y el modelo 309, con la nota a pie de tabla (***), por la disposición final 1.3 y 4 de la Orden HFP/312/2023, de 28 de marzo. Ref. BOE-A-2023-8120
 

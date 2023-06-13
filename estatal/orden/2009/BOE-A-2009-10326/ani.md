@@ -51,6 +51,7 @@
 | 593 | Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos. Autoliquidación. |
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
+| 718 | Impuesto Temporal de Solidaridad de las Grandes Fortunas. |
 | 792 | Autoliquidación de la aportación a realizar por los prestadores del servicio de comunicación audiovisual televisivo y por los prestadores del servicio de intercambio de vídeos a través de plataforma de ámbito geográfico estatal o superior al de una Comunidad Autónoma. |
 | 793 | Pagos a cuenta de la aportación a realizar por los prestadores del servicio de comunicación audiovisual televisivo y por los prestadores del servicio de intercambio de vídeos a través de plataforma de ámbito geográfico estatal o superior al de una Comunidad Autónoma. |
 | 795 | Gravamen temporal energético. Declaración del ingreso de la prestación. |
@@ -63,6 +64,10 @@
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
 
 (***) Sólo cuando el periodo sea trimestral.
+
+> Se añade el modelo 718 por la disposición final 2.1 de la Orden HFP/587/2023, de 9 de junio. Ref. BOE-A-2023-13800
+
+> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez al ejercicio 2022, según establece la disposición final 4 de la citada Orden.
 
 > Se añaden los modelos 792 y 793 por la disposición final 2.1 de la Orden HFP/309/2023, de 28 de marzo, Ref. BOE-A-2023-8117 y el modelo 309, con la nota a pie de tabla (***), por la disposición final 1.1 y 2 de la Orden HFP/312/2023, de 28 de marzo. Ref. BOE-A-2023-8120
 
