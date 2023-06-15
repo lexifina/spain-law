@@ -105,6 +105,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 56 bis](a56bis.md)
 - [Artículo 57](a57.md)
 - [Artículo 57 bis](a57bis.md)
+- [Artículo 57 ter](a5-2.md)
 - [CAPITULO III](ciii.md)
 - [Artículo 58](a58.md)
 - [Artículo 59](a59.md)
