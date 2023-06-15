@@ -2,11 +2,15 @@
 
 ## Información a publicar por el operador del sistema para el cálculo del precio voluntario para el pequeño consumidor
 
-Los valores que el operador del sistema calculará y publicará en su página web de acuerdo al artículo 7.7 del presente real decreto son los siguientes:
+1. Los valores que el operador del sistema calculará y publicará en su página web, conforme al artículo 7.7 de este real decreto, son los siguientes:
 
 a) Los valores de todos y cada uno de los componentes del término del coste de producción de energía CPh del precio voluntario para el pequeño consumidor:
 
 Pmh: Con el desglose de cada una de las referencias de precio utilizadas.
+
+TaE: Con el desglose de los términos Pfanualn, Pftrimestralt y Pfmensualm que resulten de aplicación.
+
+FCh: Con el desglose del volumen de aprovisionamiento esperado de energía de producto mensual, trimestral y anual del término AprovMPlazo, así como el valor de DemandaPVPCh.
 
 SAh: Con el desglose de cada uno de los valores de los servicios de ajuste que componen el término PMASh, así como el valor de CDSVh.
 
@@ -35,3 +39,5 @@ b) El método de estimación de los componentes de los siguientes términos:
 – OCh: se determinará el mecanismo de cálculo del término INTh.
 
 c) Cualquier otro aspecto necesario para la estimación de los componentes del precio voluntario para el pequeño consumidor.
+
+> Se modifica el primer párrafo y la letra a) por el art. único.9 del Real Decreto 446/2023, de 13 de junio. Ref. BOE-A-2023-14048
