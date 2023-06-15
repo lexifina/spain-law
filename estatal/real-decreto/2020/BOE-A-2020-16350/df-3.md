@@ -4,4 +4,8 @@
 
 2. A partir del 1 de enero de 2021, conforme a lo previsto en la disposición adicional sexta de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, el Gobierno mediante real decreto establecerá el mecanismo de compensación de costes de emisiones indirectas de gases de efecto invernadero en los términos y para los sectores que establezca la normativa de la Unión Europea.
 
-3. A partir de la fecha de modificación de las «Directrices sobre ayudas estatales en materia de protección del medio ambiente y energía 2014-2020», aprobadas por Comunicación de la Comisión Europea 2014/C 200/01, el Gobierno, mediante real decreto, adaptará los mecanismos de compensación a los consumidores electrointensivos por la financiación de apoyo para la electricidad procedente de fuentes renovables, cogeneración de alta eficiencia o compensación del extracoste en los territorios no peninsulares, en los términos y para los sectores que establezca la normativa de la Unión Europea.
+3. A partir de la fecha de modificación de las "Directrices sobre ayudas estatales en materia de clima, protección del medio ambiente y energía 2022", aprobadas por Comunicación de la Comisión Europea 2022/C 80/01, el Gobierno, mediante real decreto, adaptará los mecanismos de compensación a los consumidores electrointensivos por la financiación de apoyo para la electricidad procedente de fuentes renovables, cogeneración de alta eficiencia o compensación del extracoste en los territorios no peninsulares, en los términos y para los sectores que establezca la normativa de la Unión Europea.
+
+> Se modifica el apartado 3 por el art. único.20 del Real Decreto 444/2023, de 13 de junio. Ref. BOE-A-2023-14046
+
+> Esta modificación será de aplicación para los consumos efectuados a partir del 1 de enero de 2022, según establece la disposición final 2 del citado Real Decreto.
