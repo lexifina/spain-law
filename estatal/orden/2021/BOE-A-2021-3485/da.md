@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Delegación de competencias.
 
-Las correspondientes Juntas de Contratación delegan la facultad de celebrar los contratos basados en los acuerdos marco, definidos en el PACC correspondiente, que hayan concluido tales Juntas de Contratación, en aquellos órganos de contratación del Ministerio de Defensa con competencias o responsabilidades en las materias objeto del contrato.
+Las correspondientes Juntas de Contratación delegan, en los órganos de contratación del Ministerio de Defensa, la facultad de celebrar los contratos consecuencia de la implantación de los sistemas para la racionalización de la contratación que aquellas hayan concluido.
+
+> Se modifica por el art. 2.3 de la Orden DEF/609/2023, de 29 de mayo. Ref. BOE-A-2023-14215
