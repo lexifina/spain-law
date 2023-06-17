@@ -1,0 +1,147 @@
+## Cuarto. Competencias en materia de recaudación de los titulares de las Delegaciones Especiales, Delegados Especiales Adjuntos, Delegados de la Agencia Tributaria, Administradores e Inspectores Coordinadores.
+
+1. Competencias de los titulares de las Delegaciones Especiales de la Agencia Tributaria en materia de recaudación.
+
+1.1 Aplazamientos. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, resolver o inadmitir los aplazamientos y fraccionamientos de pago cuyo importe conjunto exceda de 1.000.000 € y adoptar medidas cautelares en sustitución de garantías cuando sea competente para resolver la citada solicitud. A efectos de la determinación de la cuantía señalada se acumularán tanto las deudas a que se refiere la propia solicitud como cualesquiera otras del mismo deudor para las que se haya solicitado y no resuelto el aplazamiento o fraccionamiento, así como el importe de los vencimientos pendientes de ingreso de las deudas aplazadas o fraccionadas.
+
+1.2 Enajenaciones. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, en materia de enajenaciones de bienes y derechos:
+
+a) Autorizar la enajenación mediante concurso de los bienes o derechos embargados de acuerdo con el artículo 106 del Reglamento General de Recaudación.
+
+b) Acordar la adjudicación de bienes y derechos a la Hacienda pública en pago de deudas no cubiertas en el curso del procedimiento de apremio, así como solicitar los informes y efectuar la consulta a la Dirección General de Patrimonio del Estado, previstos en el artículo 109 del Reglamento General de Recaudación.
+
+c) Acordar, mediante resolución, la adjudicación directa de los bienes o derechos embargados, en los supuestos contemplados en el artículo 107.1.b) y c) del Reglamento General de Recaudación.
+
+1.3 Procesos concursales. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, en materia de procesos concursales que afecten a personas o entidades con deudas cuya gestión recaudatoria corresponda a órganos de recaudación de la Delegación Especial, salvo que la competencia esté atribuida al titular del Departamento de Recaudación:
+
+a) Aceptar o rechazar el nombramiento de la Agencia Tributaria como administrador concursal.
+
+b) Suscribir los acuerdos por los que se establecen condiciones singulares de pago.
+
+c) Autorizar la suscripción de los convenios.
+
+d) Autorizar, en los concursos regidos por el Real Decreto Legislativo 1/2020, de 5 de mayo, por el que se aprueba el texto refundido de la Ley Concursal (en adelante, T. R. de la Ley Concursal), la presentación por la Agencia de las propuestas de convenio previstas en sus artículos 338 y 339.
+
+e) Autorizar, en los concursos regidos por el T. R. de la Ley Concursal, la adhesión a las propuestas de convenio previstas en sus artículos 351.1, 354, 355 y 357, a las propuestas anticipadas de convenio reguladas en sus artículos 351, 358.2 y 359, y, por el crédito privilegiado, a convenios ya aceptados por los acreedores o aprobados por el Juez en los términos previstos en el artículo 397.1.
+
+f) Autorizar, en relación con los concursos regidos por el T. R. de la Ley Concursal, el voto favorable en las juntas de acreedores de las propuestas de convenio.
+
+g) Autorizar, en relación con los concursos regidos por el T. R. de la Ley Concursal, la abstención en las juntas de acreedores respecto a los créditos de naturaleza pública calificados como ordinarios.
+
+Para ejercer la competencia recogida en la letra a) anterior aceptando el nombramiento será necesario solicitar autorización previa del titular de la Subdirección General de Recaudación Ejecutiva y para ejercer las competencias recogidas en las letras b) a g) será necesario solicitar autorización previa del titular del Departamento de Recaudación.
+
+1.4 Medidas cautelares. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria:
+
+a) Adoptar medidas cautelares para asegurar el cobro de las deudas o de las sanciones, si procede, cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Especial, así como acordar la ampliación del plazo de efectos de dichas medidas, salvo en los casos en que corresponda a otra Delegación Especial de acuerdo con lo dispuesto en el artículo 6.2 g) de la Orden PRE/3581/2007, o bien corresponda al titular del Equipo Nacional de Embargos.
+
+b) Acordar las medidas cautelares referidas en el artículo 81.9 de la LGT, respecto del patrimonio de las personas o entidades contra las que se haya presentado denuncia o querella por delito contra la Hacienda pública o se dirija un proceso judicial por dicho delito.
+
+c) Adoptar medidas cautelares una vez iniciado un procedimiento de declaración de responsabilidad cuando la gestión recaudatoria de las deudas del deudor principal corresponda o fuera a corresponder a la Delegación Especial, así como acordar la ampliación del plazo de efectos de dichas medidas, salvo en los casos en que corresponda a otra Delegación Especial de acuerdo con lo dispuesto en el artículo 6.2 g) de la Orden PRE/3581/2007, o bien corresponda al titular del Equipo Nacional de Embargos.
+
+1.5 Tercerías. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, en materia de tercerías:
+
+a) Resolver en vía administrativa las reclamaciones de tercería en los supuestos en que la competencia no corresponda al titular del Departamento de Recaudación o del Equipo Nacional de Embargos.
+
+b) Autorizar la interposición de tercerías de mejor derecho a favor de la Hacienda pública cuando se refieran a bienes o derechos embargados en el curso de un procedimiento de apremio.
+
+1.6 Acciones judiciales. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria, en materia de Acciones judiciales:
+
+Autorizar el ejercicio de acciones civiles en defensa del crédito público así como informar los actos de disposición de la acción procesal en el ámbito civil, y proponer al titular del Departamento de Recaudación la autorización para el ejercicio de acciones penales en defensa de los derechos de la Hacienda pública, la formulación de denuncia en nombre de la Agencia Tributaria así como la personación en los procesos penales ya iniciados, de acuerdo con lo dispuesto en el artículo 6.2.d) de la Orden PRE/3581/2007, cuando la gestión recaudatoria de las deudas corresponda a los órganos de recaudación del ámbito territorial de la Delegación Especial.
+
+1.7 Otras competencias. Corresponde a los titulares de las Delegaciones Especiales de la Agencia Tributaria:
+
+a) En materia de embargos, cuando se trate de deudas cuya gestión recaudatoria se realice por la Dependencia Regional de Recaudación, contratar los servicios de empresas especializadas para practicar el deslinde en caso de embargo de bienes inmuebles o de derechos sobre éstos.
+
+b) Designar al perito tercero en tasaciones periciales contradictorias promovidas frente a las actuaciones de comprobación de valor desarrolladas por los órganos integrados en la Delegación Especial.
+
+c) Autorizar la subrogación en derechos anotados o inscritos con anterioridad al de la Hacienda pública mediante el abono a los acreedores del importe de sus créditos, en los términos previstos en el artículo 77.2 del Reglamento General de Recaudación.
+
+d) Acordar la ejecución subsidiaria de las resoluciones o requerimientos formulados por órganos de recaudación en el ejercicio de las facultades que les reconoce la Ley General Tributaria.
+
+e) La solicitud de declaración de heredero que proceda cuando conste que no existen herederos o los conocidos hayan renunciado a la herencia o no la hayan aceptado expresa o tácitamente, en relación con las deudas cuya gestión recaudatoria esté encomendada a la Delegación Especial, cuando sea necesario para continuar su recaudación frente a los sucesores.
+
+f) Dar traslado de lo actuado al Servicio Jurídico de la Agencia Tributaria en los casos de inobservancia de la obligación de prestar al personal integrado en la Delegación Especial el apoyo, concurso, auxilio y protección que les sea necesario para el ejercicio de sus funciones, por las autoridades, titulares de los órganos del Estado, de las Comunidades Autónomas y entidades locales y, en general, por quienes ejerzan funciones públicas.
+
+g) Resolver los recursos de reposición contra actos dictados de forma automatizada cuando así se disponga en la Resolución por la que se aprueben las aplicaciones informáticas para las actuaciones administrativas automatizadas correspondientes.
+
+h) Dictar, en relación con los actos que hubiese acordado previamente en el ejercicio de sus competencias o aquellos otros que hubiesen sido dictados por los titulares de las Delegaciones de la Agencia Tributaria, las resoluciones que procedan en el seno de los procedimientos de recuperación de ayudas de Estado, relativos a los contribuyentes que estén adscritos a la Delegación Especial, cuando tengan su origen exclusivamente en actos de recaudación a los que sea de aplicación lo dispuesto en el capítulo III del título VII de la Ley General Tributaria, a propuesta del Jefe de Equipo Regional de Recaudación al que se atribuya la tramitación, salvo que se trate de actos que hubiesen sido dictados por el titular del Departamento de Recaudación o que la competencia corresponda al titular de la Dependencia Regional de Recaudación.
+
+El Delegado Especial recabará la autorización previa del titular del Departamento de Recaudación cuando el acto de recaudación originario hubiera estado sujeto a autorización.
+
+i) Cualesquiera otras funciones y competencias que les atribuyan la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
+
+2. Competencias de los Delegados Especiales Adjuntos y de los titulares de las Delegaciones de la Agencia Tributaria en materia de recaudación.
+
+Los Delegados Especiales Adjuntos previstos en el apartado cuarto.2 de la Resolución de 13 de enero de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se establece la estructura y organización territorial de la Agencia Estatal de Administración Tributaria, a los que de acuerdo con su apartado sexto le sean atribuidas las funciones de dirección, coordinación, planificación y control de la Dependencia Regional de Recaudación, podrán ejercer, por delegación de competencias, las atribuidas a los Delegados Especiales en el apartado cuarto.1 anterior -excepto la del epígrafe 1.7 Otras competencias, letra h)- así como las atribuidas a los Delegados Especiales en los artículos 56, 57.1, 172 y 182.2.b) del Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos (en adelante Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos), respecto de las personas o entidades asignadas a los Equipos y Grupos Regionales de Recaudación o a funcionarios con competencias de recaudación en todo el ámbito territorial de la Delegación Especial o en el de alguna de las sedes que lo integran.
+
+Del mismo modo, también los titulares de las Delegaciones de la Agencia Tributaria podrán ejercer, por delegación de competencias, las atribuidas a los Delegados Especiales en el apartado cuarto.1 anterior –excepto la del epígrafe 1.7 Otras competencias, letra h)–, así como las atribuidas a los Delegados Especiales en los artículos 56, 57.1, 172 y 182.2.b) del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, respecto de las personas o entidades asignadas a los Equipos y Grupos Regionales de Recaudación o a funcionarios con competencias de recaudación, en todo el ámbito territorial de la Delegación Especial o en el de alguna de las sedes que lo integran.
+
+En todo caso, con carácter previo a la delegación de competencias, los Delegados Especiales deberán proceder a su comunicación al Departamento de Recaudación.
+
+3. Competencias de los titulares de las Administraciones de la Agencia Tributaria y de los Inspectores Coordinadores en materia de recaudación.
+
+Los titulares de las Administraciones de la Agencia Tributaria planificarán, dirigirán, supervisarán, coordinarán y controlarán las actuaciones de los Equipos y Grupos Regionales de Recaudación de la Dependencia Regional que les asigne el titular de la misma a tales efectos.
+
+Los titulares de las Administraciones de la Agencia Tributaria podrán asignar los expedientes de las personas o entidades que les hayan sido adscritas a los Equipos y Grupos Regionales de Recaudación dependientes de los mismos.
+
+Los titulares de las Administraciones, ejercerán exclusivamente respecto de las personas o entidades asignadas a los Equipos o Grupos Regionales de Recaudación de la Administración de que se trate las siguientes competencias:
+
+a) Resolver o inadmitir los aplazamientos y fraccionamientos de pago solicitados por las personas o entidades asignadas a los órganos de recaudación de su Administración y adoptar las medidas cautelares en sustitución de garantías cuando sean competentes para la resolución de la correspondiente solicitud de aplazamiento o fraccionamiento, salvo que la citada competencia, en uno u otro caso, corresponda al titular de la Delegación Especial.
+
+b) Acordar la resolución de los expedientes de compensación de oficio y a instancia del obligado al pago, respecto de deudas a favor de la Hacienda pública gestionadas por la Agencia Tributaria con créditos tributarios y no tributarios.
+
+c) Acordar la prescripción del derecho a exigir el pago a los responsables.
+
+d) Acordar la declaración de créditos incobrables.
+
+Asimismo, les corresponderá resolver los recursos de reposición contra actos dictados de forma automatizada cuando así se disponga en la Resolución por la que se aprueben las aplicaciones informáticas para las actuaciones administrativas automatizadas correspondientes.
+
+Además, cuando las personas o entidades no resulten asignadas a los Equipos y Grupos Regionales de Recaudación dependientes de los mismos, sino que su gestión se realice directamente por los titulares de las Administraciones, ejercerán las siguientes competencias:
+
+1) Acordar el archivo de las solicitudes de aplazamiento o fraccionamiento en las circunstancias determinadas reglamentariamente.
+
+2) Acordar el establecimiento de calendarios provisionales de pagos previstos en el artículo 51.2 del Reglamento General de Recaudación.
+
+3) Acordar los requerimientos de información o de otra naturaleza que fueran necesarios para el ejercicio de sus funciones.
+
+4) Acordar el embargo y promover la enajenación de otros bienes o derechos con anterioridad a la ejecución de las garantías constituidas.
+
+5) Acordar el embargo de bienes y derechos mediante las correspondientes diligencias, en el orden que resulte procedente, así como acordar el levantamiento de los embargos en los supuestos en que proceda, respecto de las personas y entidades cuya gestión recaudatoria hubiera sido asignada a los diferentes órganos de ellos dependientes.
+
+6) Acordar la ejecución de garantías que no consistan en hipoteca, prenda u otra de carácter real constituida por o sobre bienes o derechos del obligado al pago.
+
+7) En el caso de embargo de la recaudación de cajas, taquillas o similares de empresas o entidades en funcionamiento, acordar los pagos que deban realizarse con cargo a dicha recaudación, en la cuantía necesaria para evitar la paralización de aquéllas.
+
+8) En el caso de embargo de valores, indicar a la entidad depositaria los valores que quedan definitivamente embargados y los que quedan liberados y acordar, si procede, el embargo de los rendimientos de toda clase y, en su caso, reintegros derivados de los mismos, en lugar de su enajenación.
+
+9) Expedir la orden para la captura, depósito y precinto de vehículos a las autoridades que tengan a su cargo la vigilancia de la circulación y a las demás que proceda.
+
+10) Acordar el nombramiento de depositario, la designación del lugar en el que los bienes embargados deben ser depositados hasta su realización, ordenar la rendición de cuentas al depositario y acordar medidas para la mejor administración y conservación de los bienes, salvo en los supuestos en que sea necesario la contratación externa del depósito o el bien embargado sea un establecimiento mercantil o industrial.
+
+11) Acordar las cuantías a ingresar como consecuencia de la ejecución del embargo del derecho a las prestaciones del partícipe en un plan de pensiones.
+
+12) Solicitar a los notarios o funcionarios la expedición de copias auténticas de documentos en los supuestos previstos en el artículo 84.3.c) del Reglamento General de Recaudación.
+
+13) Acordar la expedición de los mandamientos y demás documentos, dirigidos a los Registros Públicos, necesarios para las actuaciones recaudatorias de las que son competentes.
+
+14) Ordenar la enajenación de valores a través de un mercado secundario oficial.
+
+15) Otorgar de oficio las escrituras de venta de los bienes enajenados en caso de no otorgarlas los obligados al pago.
+
+16) Diligenciar la inexistencia de bienes embargables conocidos por la Administración cuya ejecución permita el cobro de la deuda a que se refiere el artículo 76.6 del Reglamento General de Recaudación.
+
+17) Acordar la declaración y rehabilitación del deudor fallido. Asimismo, le corresponde la rehabilitación del crédito incobrable cuando fuese procedente y acordar la expedición de los mandamientos y demás documentos, dirigidos a los Registros Públicos, cuando se realice en ejecución de las competencias de este apartado.
+
+18) Acordar la devolución de ingresos indebidos, de conformidad con lo dispuesto en los artículos 17 a 19 del Reglamento General de Revisión en Vía Administrativa en los supuestos previstos en el artículo 221.1 de la Ley General Tributaria, cuando el importe a acordar no sea superior a 150.000 €.
+
+19) Acordar el inicio y la instrucción del procedimiento de declaración de responsabilidad solidaria y subsidiaria.
+
+20) Requerir el pago de la deuda a los sucesores de personas físicas o jurídicas en los términos señalados en el artículo 127 del Reglamento General de Recaudación, así como a los responsables una vez transcurrido el período voluntario de pago de la deuda que se deriva, cuando la responsabilidad haya sido declarada y notificada en cualquier momento anterior al vencimiento de dicho período.
+
+21) Acordar todos los actos que correspondan a los Jefes de Equipo Regional, a los Técnicos Jefes de Grupo Regional de Recaudación y a los Técnicos de Hacienda cuando se emitan mediante los correspondientes sistemas informáticos o telemáticos de forma masiva y se refieran a obligados al pago cuya gestión recaudatoria hubiera sido asignada a diferentes órganos de ellos dependientes.
+
+22) Proponer al órgano competente la prohibición de disponer sobre los bienes inmuebles de una sociedad en los términos previstos en el artículo 170.6 de la Ley General Tributaria, cuando no sea competente otro órgano.
+
+En aquellas Administraciones donde existan, los Inspectores Coordinadores planificarán, dirigirán, supervisarán, coordinarán y controlarán las actuaciones de los Equipos y Grupos Regionales de Recaudación que les sean encomendados por el titular de la Administración dentro de los asignados a la Administración por el titular de la Dependencia Regional de Recaudación.
+
+Los Inspectores Coordinadores ejercerán respecto de las personas o entidades asignadas a los referidos Equipos y Grupos Regionales de Recaudación las competencias reconocidas al titular de la Administración en este apartado con excepción de las identificadas con las letras a) y b).

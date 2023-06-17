@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Personal de Recaudación.
+
+Los Inspectores de Hacienda del Estado, Técnicos de Hacienda y Agentes de la Hacienda Pública que desempeñen puestos de trabajo en los órganos con competencias recaudatorias tendrán las atribuciones y facultades a que se refiere el artículo 162 de la Ley General Tributaria.
+
+Asímismo, de acuerdo con lo establecido en el artículo 61 del Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, también tendrán la consideración de personal de recaudación los funcionarios que desempeñen puestos de trabajo en otros órganos y que intervengan en las actuaciones y procedimientos de recaudación en virtud de las autorizaciones de colaboración otorgadas por los titulares de las Delegaciones Especiales o Departamentos en los que dicho personal esté destinado.
