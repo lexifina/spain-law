@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Oferta a distancia de los módulos de enseñanza deportiva del presente título.
+
+Los módulos de enseñanza deportiva que se establecen en el anexo XIII podrán ofertarse a distancia, siempre que se garantice que el alumnado puede conseguir los resultados de aprendizaje de los mismos, de acuerdo con lo dispuesto en el presente real decreto. Para ello, las administraciones educativas, en el ámbito de sus respectivas competencias, adoptarán las medidas que estimen necesarias y dictarán las instrucciones precisas, entre las que se establecerán los resultados de aprendizaje y criterios de evaluación susceptibles de ser impartidos a distancia y aquellos que deben ser impartidos de manera presencial.
