@@ -34,11 +34,11 @@ Modelo DDE. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. 
 
 Modelo RBRC. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero.
 
-Modelo 504. Impuestos Especiales de Fabricación. Solicitud de autorización de recepción de productos del resto de la Unión Europea.
+Modelo 504. Solicitud de autorización de expedición o recepción de productos objeto de los impuestos especiales de fabricación con destino a o procedentes del resto de la Unión Europea.
 
 Modelo 506. Impuestos Especiales de Fabricación. Solicitud de devolución por introducción en depósito fiscal.
 
-Modelo 507. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de envíos garantizados.
+Modelo 507. Impuestos especiales de Fabricación. Solicitud de devolución en el sistema de envíos garantizados.
 
 Modelo 508. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de ventas a distancia.
 
@@ -141,6 +141,8 @@ Modelo A22. Impuesto especial sobre los envases de plástico no reutilizables. S
 Modelo A23. Impuesto sobre los Gases Fluorados de Efecto Invernadero. Solicitud de devolución.
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifican los modelos 504 y 507 del apartado 2 por la disposición final 1 de la Orden HFP/626/2023, de 14 de junio. Ref. BOE-A-2023-14425
 
 > Se modifica el apartado 2 por las disposiciones finales 1 de las Órdenes; HFP/1314/2022, de 28 de diciembre. Ref. BOE-A-2022-23749 y HFP/1337/2022, de 28 de diciembre. Ref. BOE-A-2022-24387
 
