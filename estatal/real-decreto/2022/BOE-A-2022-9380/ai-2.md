@@ -26,6 +26,7 @@ Codificación Razas Bovinas Catálogo
 | Lidia. | BLI |
 | Limiá. | BLM |
 | Mallorquina. | BML |
+| Mantequera Leonesa. | BMT |
 | Marismeña. | BMR |
 | Menorquina. | BMN |
 | Monchina. | BMC |
@@ -34,7 +35,7 @@ Codificación Razas Bovinas Catálogo
 | Murciana-Levantina. | BMU |
 | Negra Andaluza. | BNA |
 | Pajuna. | BPJ |
-| Pallaresa. |  |
+| Pallaresa. | BPL |
 | Palmera. | BPM |
 | Parda de Montaña. | BSM |
 | Pasiega. | BPS |
@@ -131,7 +132,6 @@ Codificación Razas Caprinas Catálogo
 | Del Guadarrama. | CGU |
 | Eivissenca. | CIB |
 | Florida. | CFL |
-| Jurdana. | CJU |
 | Majorera. | CMJ |
 | Malagueña. | CMA |
 | Mallorquina. | CML |
@@ -143,6 +143,7 @@ Codificación Razas Caprinas Catálogo
 | Pirenaica. | CPI |
 | Retinta. | CRE |
 | Tinerfeña. | CTI |
+| Verata | CVE |
 
 Codificación Razas Porcinas Catálogo
 
@@ -246,3 +247,5 @@ Codificación Razas Otras Especies Catálogo
 | Camello Canario. | XCC |
 | Conejo Antiguo Pardo Español. | XCP |
 | Conejo Gigante de España. | XCG |
+
+> Se modifica por el art. 2.2 y 3 del Real Decreto 527/2023, de 20 de junio. Ref. BOE-A-2023-14682
