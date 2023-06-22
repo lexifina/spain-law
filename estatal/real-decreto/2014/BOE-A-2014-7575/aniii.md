@@ -2,4 +2,6 @@
 
 ## Modelo declaración compromiso
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07575_5285.png)
+(Suprimido)
+
+> Se suprime por el art. único.9 del Real Decreto 526/2023, de 20 de junio. Ref. BOE-A-2023-14681

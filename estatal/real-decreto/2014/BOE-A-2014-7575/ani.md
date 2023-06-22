@@ -2,11 +2,15 @@
 
 ## Volúmenes mínimos de facturación requeridos para el reconocimiento
 
-a) Volúmenes mínimos para el reconocimiento por producto:
+a) Volúmenes mínimos para el reconocimiento por producto1:
 
-| Reconocimiento por producto | Facturación total de la entidad2 (millones de euros) |
+1 Los sectores que no se encuentran específicamente recogidos en el apartado a) del presente anexo, han de considerarse incluidos en el apartado b) «reconocimiento genérico».
+
+|  |
+| --- |
+| Reconocimiento por producto | Facturación total de la entidad3 (millones de euros) |
 | --- | --- |
-| Productos | CNAE 20091 | Descripción CNAE |
+| Productos | CNAE 20092 | Descripción CNAE |
 | Fabricación de productos para la alimentación de animales de compañía. | 1092 | Piensos para animales de compañía. | 8 |
 | Apícola. | 0149 | Otras explotaciones de ganado. | 10 |
 | Arroz. | 0112 | Cultivo de arroz. | 60 |
@@ -17,7 +21,7 @@ a) Volúmenes mínimos para el reconocimiento por producto:
 | Flores y plantas de vivero. | 0130 | Propagación de plantas. | 25 |
 | 0128 | Cultivo de especias, plantas aromáticas, medicinales y farmacéuticas. |
 | Forrajes deshidratados. | 0119 | Otros cultivos no perennes. | 17 |
-| Frutas de hueso. | 0124 | Cultivo de frutos con hueso y pepitas. | 50 |
+| Frutas de hueso y pepitas. | 0124 | Cultivo de frutos con hueso y pepitas. | 50 |
 | Frutas tropicales y subtropicales y plátanos. | 0122 | Cultivo de frutos tropicales y subtropicales. | 100 |
 | Frutos secos. | 0125 | Cultivo de otros árboles y arbustos frutales y frutos secos. | 40 |
 | Mostos, vinos y alcoholes. | 1101 | Destilación, rectificación y mezcla de bebidas alcohólicas. | 100 |
@@ -39,18 +43,22 @@ a) Volúmenes mínimos para el reconocimiento por producto:
 | 1085 | Elaboración de platos y comidas preparadas. |
 | 1089 | Elaboración de otros productos alimenticios ncop. |
 | Vacuno de carne. | 0142 | Explotación de otro ganado bovino y búfalos. | 35 |
-| 1 Incluidos en cada apartado los códigos CNAE en materia de transformación y comercialización correspondientes a los productos objeto de reconocimiento. 2 Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios). Los valores de facturación se reducirán un 30 % cuando la entidad solicitante sea una sociedad cooperativa agroalimentaria de primer grado. |
+| 2 Incluidos en cada apartado los códigos CNAE en materia de transformación y comercialización correspondientes a los productos objeto de reconocimiento. 3 Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios). Los valores de facturación se reducirán un 30 % cuando la entidad solicitante sea una sociedad cooperativa agroalimentaria de primer grado. |
 
 b) Volúmenes mínimos para un reconocimiento genérico:
 
-| Reconocimiento genérico | Facturación total de la entidad3 (millones de euros) |
+| Reconocimiento genérico | Facturación total de la entidad4 (millones de euros) |
 | --- | --- |
 | Conjunto de productos comercializados por la entidad. | 150 |
-| 3 Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios) Los valores de facturación se reducirán un 30 % cuando la entidad solicitante sea una cooperativa agroalimentaria de primer grado. |
+| 4 Facturación total de la entidad y de sus entidades participadas (importe neto cifra de negocios) Los valores de facturación se reducirán un 30% cuando la entidad solicitante sea una cooperativa agroalimentaria de primer grado. |
 
 c) Volúmenes mínimos para las integraciones verticales en el reconocimiento por producto:
 
 En aquellas entidades asociativas de carácter agroalimentario, cuyas actividades cooperativizadas estén referidas a varias y distintas producciones de las mencionadas en el apartado a) del anexo I y en las que se lleve a cabo una integración vertical en la cadena de suministro, el volumen mínimo exigido para el reconocimiento será el 50 % de la facturación establecida por los distintos subsectores para los que se solicita el reconocimiento.
+
+> Se sustituye por el art. único.7 del Real Decreto 526/2023, de 20 de junio. Ref. BOE-A-2023-14681
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 35, de 9 de febrero de 2024. Ref. BOE-A-2024-2386
 
 > Se sustituye por el art. único de la Orden APA/1056/2022, de 4 de noviembre. Ref. BOE-A-2022-18149
 
