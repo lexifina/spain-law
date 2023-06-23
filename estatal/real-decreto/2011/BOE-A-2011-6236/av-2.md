@@ -11,6 +11,8 @@
 | 0812. Gestión cinegética. | UC1499_3: Gestionar los trabajos derivados de la planificación del hábitat de las especies cinegéticas. |
 | 0813. Gestión de la pesca continental. | UC1498_3: Gestionar los trabajos derivados de la planificación y seguimiento del hábitat acuícola continental. |
 | 0812. Gestión cinegética. 0813. Gestión de la pesca continental. | UC0085_3: Controlar el aprovechamiento de los recursos cinegéticos y piscícolas. |
-| 0814. Gestión de montes. | UC0728_3: Gestionar las operaciones de repoblación forestal y de corrección hidrológico–forestal. UC0729_3: Gestionar los tratamientos selvícolas. |
-| 0816. Defensa contra incendios fores-tales. | UC0729_3: Gestionar los tratamientos selvícolas. UC0086_3: Vigilar y colaborar en las operaciones de restauración, mantenimiento, ordenación y defensa de los recursos naturales. |
+| 0814. Gestión de montes. | UC0728_3: Gestionar las operaciones de repoblación forestal y de corrección hidrológico-forestal. UC0729_3: Gestionar los tratamientos silvícolas |
+| 0816. Defensa contra incendios forestales. | UC0729_3: Gestionar los tratamientos silvícolas UC0086_3: Vigilar y colaborar en las operaciones de restauración, mantenimiento, ordenación y defensa de los recursos naturales. |
 | 0815. Gestión de la conservación del medio natural. | UC0083_3: Controlar y vigilar los espacios naturales y su uso público. UC1486_3: Organizar y supervisar las operaciones de inventario y seguimiento del hábitat natural. |
+
+> Se modifica por el art. 2.8 del Real Decreto 403/2023, de 29 de mayo. Ref. BOE-A-2023-13219

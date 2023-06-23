@@ -2,7 +2,7 @@
 
 ## Módulos Profesionales
 
-Módulo Profesional: Botánica agronómica.
+Módulo profesional: Botánica agronómica.
 
 Equivalencia en créditos ECTS: 6.
 
@@ -34,9 +34,27 @@ i) Se ha encuadrado la planta dentro de la clasificación.
 
 j) Se han acondicionado las plantas y sus partes para su conservación.
 
-k) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
+k) Se ha aplicado la normativa y criterios de sostenibilidad ambiental, y la de prevención de riesgos laborales.
 
-2. Ubica geográficamente las diferentes especies vegetales, interpretando los documentos de distribución biogeográfica.
+2. Analiza los componentes y los procesos ecológicos que caracterizan los medios natural y agrario, y destaca su relevancia para dichos medios.
+
+Criterios de evaluación:
+
+a) Se ha descrito el concepto de ecología, su historia y sus divisiones.
+
+b) Se ha reconocido la organización y la función de los elementos y de los sistemas abióticos.
+
+c) Se ha analizado la composición, la estructura y el funcionamiento de los ecosistemas y de los agrosistemas.
+
+d) Se han definido y se han caracterizado los niveles de diversidad biológica.
+
+e) Se han aplicado los índices de diversidad biológica.
+
+f) Se ha analizado la biodiversidad vegetal de España.
+
+g) Se han definido los componentes del paisaje y se ha analizado su implicación en la valoración de este.
+
+3. Ubica geográficamente las diferentes especies vegetales, interpretando los documentos de distribución biogeográfica.
 
 Criterios de evaluación:
 
@@ -52,7 +70,7 @@ e) Se ha utilizado cartografía, documentación y las tecnologías de la informa
 
 f) Se han definido los patrones globales y locales de riqueza florística y endemismo.
 
-3. Caracteriza las plantas cultivadas, analizando la morfología, aprovechamientos y variedades.
+4. Caracteriza las plantas cultivadas, analizando la morfología, aprovechamientos y variedades.
 
 Criterios de evaluación:
 
@@ -70,13 +88,13 @@ f) Se ha descrito la biología de las especies vegetales cultivadas.
 
 g) Se ha relacionado la especie vegetal con sus variedades y patrones.
 
-4. Caracteriza las plantas de jardín, analizando los parámetros biométricos y el valor ornamental.
+5. Caracteriza las plantas ornamentales y de jardín, analizando los parámetros biométricos y el valor ornamental.
 
 Criterios de evaluación:
 
-a) Se ha descrito la diversidad de plantas ornamentales en jardinería, revegetación del medio natural y restauración del paisaje.
+a) Se ha descrito la diversidad de plantas ornamentales y de jardinería, revegetación del medio natural y restauración del paisaje.
 
-b) Se han clasificado las plantas ornamentales.
+b) Se han clasificado las plantas ornamentales y de jardín.
 
 c) Se han distinguido las especies botánicas más frecuentes utilizadas en jardines.
 
@@ -90,7 +108,9 @@ g) Se ha valorado la forma y el tamaño de las especies ornamentales.
 
 h) Se ha realizado una prospección de especies autóctonas o de bajos requerimientos ecológicos para su utilización en jardinería.
 
-5. Identifica los caracteres culturales de las especies forestales analizando los factores ecológicos y morfológicos.
+i) Se ha analizado el papel de la flora invasora en el medio natural.
+
+6. Caracteriza las especies forestales analizando los factores ecológicos y morfológicos.
 
 Criterios de evaluación:
 
@@ -102,13 +122,15 @@ c) Se ha caracterizado la estación de las especies forestales.
 
 d) Se han clasificado las especies forestales en función del temperamento y de la reproducción.
 
-e) Se ha caracterizado el porte de las especies forestales.
+e) Se ha realizado la identificación de visu de las principales especies forestales.
 
-f) Se ha descrito el sistema radical de las especies forestales.
+f) Se ha caracterizado el porte de las especies forestales.
 
-g) Se ha concretado el crecimiento de las especies forestales.
+g) Se ha descrito el sistema radical de las especies forestales.
 
-h) Se ha concretado la longevidad de las especies forestales.
+h) Se ha concretado el crecimiento de las especies forestales.
+
+i) Se ha concretado la longevidad de las especies forestales.
 
 Duración: 50 horas.
 
@@ -116,85 +138,101 @@ Contenidos básicos:
 
 Identificación de las plantas:
 
-– Sistemática y taxonomía.
+− Sistemática y taxonomía.
 
-– Principales familias.
+− Principales familias.
 
-– Recolección.
+− Recolección.
 
-– Aspectos que hay observar en la identificación.
+− Aspectos que hay observar en la identificación.
 
-– Claves sistemáticas para la identificación de plantas. Encuadre taxonómico.
+− Claves sistemáticas para la identificación de plantas. Encuadre taxonómico.
 
-– Instrumental y equipos ópticos utilizados en la identificación.
+− Instrumental y equipos ópticos utilizados en la identificación.
 
-– Acondicionamiento de las plantas y partes de las mismas. Conservación. Elaboración de herbarios.
+− Acondicionamiento de las plantas y partes de las mismas. Conservación. Elaboración de herbarios.
 
-– Normativa ambiental y de prevención de riesgos laborales.
+− Normativa y criterios de sostenibilidad ambiental y de prevención de riesgos laborales.
+
+Análisis de los componentes y procesos ecológicos:
+
+− Ecología. Historia de la ecología.
+
+− Litosfera, hidrosfera y atmósfera.
+
+− Biosfera. Ecosistema y agrosistema, hábitat y nicho.
+
+− Ecología de comunidades. Diversidad y biodiversidad.
+
+− Paisaje: tipos y componentes. Ecología del paisaje.
 
 Ubicación geográfica de las diferentes especies vegetales:
 
-– Áreas biogeográficas. Clasificación.
+− Áreas biogeográficas. Clasificación.
 
-– Factores ecológicos que determinan la configuración de las áreas.
+− Factores ecológicos que determinan la configuración de las áreas.
 
-– Áreas fitogeográficas en España. Especies características.
+− Áreas fitogeográficas en España. Especies características.
 
-– Fuentes de información: datos, cartografía, tecnologías de la información y de la comunicación y otras.
+− Fuentes de información: datos, cartografía, tecnologías de la información y de la comunicación y otras.
 
-– Patrones globales y locales de riqueza florística.
+− Patrones globales y locales de riqueza florística.
 
 Caracterización de las plantas cultivadas:
 
-– Domesticación de los vegetales. Proceso.
+− Domesticación de los vegetales. Proceso.
 
-– Procedencia de las plantas cultivadas. Especies naturales.
+− Procedencia de las plantas cultivadas. Especies naturales.
 
-– Aprovechamientos de las plantas cultivadas. Clasificación.
+− Aprovechamientos de las plantas cultivadas. Clasificación.
 
-– Aspectos morfológicos y fisiológicos más relevantes para la identificación del cultivo.
+− Aspectos morfológicos y fisiológicos más relevantes para la identificación del cultivo.
 
-– Principales especies vegetales cultivadas.
+− Principales especies vegetales cultivadas.
 
-– Biología de las especies vegetales cultivadas.
+− Biología de las especies vegetales cultivadas.
 
-– Variedades y patrones.
+− Variedades y patrones.
 
-Caracterización de las plantas de jardín:
+Caracterización de las plantas ornamentales y de jardín:
 
-– Planta ornamental. Concepto. Orígenes. Diversidad.
+− Planta ornamental y de jardín. Concepto. Orígenes. Diversidad.
 
-– Clasificación de las plantas ornamentales.
+− Clasificación de las plantas ornamentales y de jardín.
 
-– Especies botánicas más frecuentes utilizadas en jardines.
+− Especies botánicas más frecuentes utilizadas en jardines.
 
-– Aspectos morfológicos y fisiológicos más relevantes para la identificación de las plantas de jardín.
+− Aspectos morfológicos y fisiológicos más relevantes para la identificación de las plantas ornamentales y de jardín.
 
-– Características ecológicas y biogeográficas de las plantas ornamentales. Distribución.
+− Características ecológicas y biogeográficas de las plantas ornamentales y de jardín. Distribución.
 
-– Valor ornamental. Concepto.
+− Valor ornamental. Concepto.
 
-– Características morfológicas y de crecimiento.
+− Características morfológicas y de crecimiento.
 
-– Especies autóctonas.
+− Especies autóctonas.
 
-Identificación de los caracteres culturales de las especies forestales:
+− Flora invasora.
 
-– Factores ecológicos: factores abióticos y bióticos. Clima, suelo, fisiografía y coacciones entre especies.
+Caracterización de las especies forestales:
 
-– Habitación. Concepto.
+− Factores ecológicos: factores abióticos y bióticos. Clima, suelo, fisiografía y coacciones entre especies.
 
-– Estación. Calidad de estación e influencia sobre las especies forestales.
+− Habitación. Concepto.
 
-– Temperamento de las especies forestales. Reproducción. Consecuencias sobre la regeneración de las especies forestales, la poda natural y la morfología. Clasificaciones.
+− Estación. Calidad de estación e influencia sobre las especies forestales.
 
-– Porte.
+− Temperamento de las especies forestales. Reproducción. Consecuencias sobre la regeneración de las especies forestales, la poda natural y la morfología. Clasificaciones.
 
-– Sistema radical de las especies forestales. Morfología.
+− Especies botánicas más frecuentes en el medio forestal.
 
-– Crecimiento de las especies forestales.
+− Porte.
 
-– Longevidad de las especies forestales.
+− Sistema radical de las especies forestales. Morfología.
+
+− Crecimiento de las especies forestales.
+
+− Longevidad de las especies forestales.
 
 Orientaciones pedagógicas.
 
@@ -204,13 +242,15 @@ La planificación y organización de los trabajos de jardinería, agrícolas y f
 
 – La clasificación de las plantas.
 
+– El análisis de componentes y procesos ecológicos.
+
 – La ubicación geográfica de las diferentes especies vegetales.
 
 – La descripción de las características de las plantas cultivadas.
 
-– La caracterización de las plantas de jardín.
+– La caracterización de las plantas ornamentales y de jardín.
 
-– La identificación de especies de plantas forestales.
+– La caracterización de especies de plantas forestales.
 
 Las actividades profesionales asociadas a esta función se aplican en:
 
@@ -224,7 +264,7 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Desarrollo de programas de educación ambiental.
 
-La formación del módulo contribuye a alcanzar los objetivos generales d), e), f), g), h), i), l), p) y s) del ciclo formativo, y las competencias d), e), f), g), h), i), l), o) y q) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales d), e), f), g), h), i), l), q) y t) del ciclo formativo, y las competencias profesionales, personales y sociales d), e), f), g), h), i), l), p) y r) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
@@ -232,17 +272,21 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Recolección y conservación de plantas.
 
+– Comprensión de los procesos ecológicos y su relevancia para el medio natural y agrario.
+
 – Caracterización de las áreas de distribución biogeográficas.
 
 – Descripción de los usos y biología de las plantas cultivadas.
 
 – Identificación y caracterización de las plantas de jardín.
 
-– Definición de la biología de las especies forestales.
+– Identificación y caracterización de las especies forestales.
 
 – Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de protección ambiental.
 
-Módulo Profesional: Fitopatología.
+El módulo profesional 0692. Fitopatología queda redactado como sigue:
+
+Módulo profesional: Fitopatología.
 
 Equivalencia en créditos ECTS: 7.
 
@@ -260,37 +304,41 @@ b) Se ha valorado la presencia de la vegetación espontánea no deseada.
 
 c) Se han identificado los principales síntomas y daños que aparecen en las plantas.
 
-d) Se han planificado los métodos de captura y conteo.
+d) Se han descrito los métodos de detección de plagas y enfermedades.
 
-e) Se han establecido los puntos de control en los planos de parcelas y en las plantas.
+e) Se han planificado los métodos de detección, captura y conteo.
 
-f) Se han interpretado los resultados del conteo de poblaciones potencialmente perjudiciales y beneficiosas.
+f) Se han establecido los puntos de control en los planos de parcelas y en las plantas.
 
-g) Se ha supervisado que los procedimientos de detección y control se aplican conforme al protocolo establecido.
+g) Se han interpretado los resultados del conteo de poblaciones potencialmente perjudiciales y beneficiosas.
 
-h) Se ha aplicado la normativa ambiental, la de producción integrada y la de prevención de riesgos laborales.
+h) Se ha supervisado que los procedimientos de detección y control se aplican conforme al protocolo establecido.
+
+i) Se ha aplicado la normativa ambiental, la de producción integrada y la de prevención de riesgos laborales.
 
 2. Programa el control fitosanitario, analizando los métodos, técnicas y protocolos de actuación, así como las características del medio.
 
 Criterios de evaluación:
 
-a) Se han descrito los métodos de control fitosanitario.
+a) Se han descrito los métodos de prevención y control fitosanitario.
 
 b) Se han valorado los factores que hay tener en cuenta en la lucha integrada.
 
-c) Se han coordinado y organizado los recursos humanos y materiales en la programación del control fitosanitario.
+c) Se han elegido los métodos de control fitosanitario más adecuados para combatir una determinada plaga o enfermedad.
 
-d) Se han organizado los métodos de control fitosanitario en lucha integrada.
+d) Se han coordinado y organizado los recursos humanos y materiales en la programación del control fitosanitario.
 
-e) Se han realizado las acciones para reducir los daños económicos.
+e) Se han organizado los métodos de control fitosanitario en lucha integrada.
 
-f) Se ha aplicado la normativa ambiental, la de producción integrada y la de prevención de riesgos laborales.
+f) Se han realizado las acciones para reducir los daños económicos.
+
+g) Se ha aplicado la normativa ambiental, la de producción integrada y la de prevención de riesgos laborales.
 
 3. Supervisa el almacenamiento y manipulación de productos fitosanitarios, interpretando las normas y protocolos establecidos.
 
 Criterios de evaluación:
 
-a) Se han analizado las condiciones que deben cumplir el transporte y el almacenamiento de los productos fitosanitarios.
+a) Se han analizado las condiciones que deben cumplir la adquisición, el transporte y el almacenamiento de los productos fitosanitarios.
 
 b) Se han coordinado y organizado los recursos humanos y materiales en el almacenamiento y manipulación de productos fitosanitarios.
 
@@ -406,17 +454,19 @@ Organización del seguimiento del estado sanitario de las plantas:
 
 – Concepto de enfermedad, plaga y fisiopatía. Enfermedad: transmisión. Enfermedad de origen biótico: síntomas y daños. Plagas polífagas y específicas: síntomas y daños. Fisiopatía: síntomas.
 
+– Métodos de detección de plagas y enfermedades. Clasificación.
+
 – Toma de muestras: representación en planos y croquis. Procedimiento. Métodos de conteo. Concepto de umbral.
 
 – Normativa ambiental y de prevención de riesgos laborales.
 
 Programación del control fitosanitario:
 
-– Definición y clasificación de los métodos de control fitosanitario.
+– Definición y clasificación de los métodos de prevención y control fitosanitario.
 
 – Interés de la producción integrada. Factores que se deben tener en cuenta en la lucha integrada. Métodos de control fitosanitario en lucha integrada.
 
-– Coordinación y organización de los recursos humanos y materiales en la programación del control fitosanitario.
+– Selección, coordinación y organización de los recursos humanos y materiales en la programación del control fitosanitario.
 
 – Acciones que reducen los daños económicos. Nivel de tolerancia. Umbral económico.
 
@@ -424,7 +474,7 @@ Programación del control fitosanitario:
 
 Supervisión del almacenamiento y manipulación de productos fitosanitarios:
 
-– Normativa general de transporte de productos fitosanitarios.
+– Normativa general de adquisición y transporte de productos fitosanitarios.
 
 – Manipulación de productos fitosanitarios.
 
@@ -448,7 +498,7 @@ Establecimiento de las medidas de protección en la preparación y aplicación d
 
 – Factores de riesgo. Riesgos que dependen del producto, del manipulador, del ambiente de trabajo, del tipo de aplicación.
 
-– Riesgos a medio y largo plazo, para el ser humano, para la flora y fauna y para el medio ambiente
+– Riesgos a medio y largo plazo, para el ser humano, para la flora y fauna y para el medio ambiente.
 
 – Situación de la parcela.
 
@@ -550,13 +600,13 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Céspedes de campos deportivos.
 
-La formación del módulo contribuye a alcanzar los objetivos generales e), k), l), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias e), k), l), m), n), ñ), o), p), q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales e), k), l), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales e), k), l), n), ñ), o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
 – Identificación de las plagas, vegetación espontánea, enfermedades y fisiopatías.
 
-– Metodología de conteo, control y captura.
+– Metodología de detección, conteo, control y captura.
 
 – Clasificación de control fitosanitario.
 
@@ -574,7 +624,9 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y medioambientales.
 
-Módulo Profesional: Topografía agraria.
+El módulo profesional 0693. Topografía agraria queda redactado como sigue:
+
+Módulo profesional: Topografía agraria.
 
 Equivalencia en créditos ECTS: 6.
 
@@ -582,95 +634,91 @@ Código: 0693.
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Interpreta planos, fotografías aéreas o mapas, analizando curvas de nivel, escalas y símbolos topográficos.
+1. Interpreta planos, fotografías aéreas, mapas y cartografía digital, analizando curvas de nivel, escalas y simbología topográfica.
 
 Criterios de evaluación:
 
-a) Se ha orientado el plano.
+a) Se ha orientado el plano y caracterizado los símbolos, las leyendas y los rótulos normalizados en la cartografía.
 
-b) Se han caracterizado los símbolos, rótulos y leyendas de los mapas y planos.
+b) Se han localizado las vías de comunicación.
 
-c) Se han localizado los caminos y las vías.
+c) Se han aplicado las escalas y unidades de medida topográficas.
 
-d) Se han aplicado las escalas y unidades de medida topográficas.
+d) Se han diferenciado y se han interpretado las curvas de nivel sobre la cartografía.
 
-e) Se ha utilizado el curvímetro y el planímetro.
+e) Se ha determinado la cota de dos puntos, la pendiente y su distancia natural, geométrica y reducida.
 
-f) Se han diferenciado las curvas de nivel sobre el plano.
+f) Se han identificado elementos singulares a través de fotografías aéreas e imágenes de satélite.
 
-g) Se ha determinado la cota de dos puntos, la pendiente y su distancia natural y reducida.
+g) Se han leído las coordenadas geográficas y UTM de puntos sobre la cartografía.
 
-h) Se han identificado elementos singulares a través de fotografías aéreas.
+h) Se ha establecido el rumbo entre dos puntos de la cartografía.
 
-i) Se han leído las coordenadas geográficas y UTM de puntos sobre plano.
+i) Se ha interpretado el plano topográfico.
 
-j) Se ha establecido el rumbo entre dos puntos del plano.
+j) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
 
-k) Se han diferenciado vaguadas y divisorias.
-
-l) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
-
-2. Organiza la recogida de datos en campo, describiendo las operaciones que va a realizar y el método y los medios de trabajo.
+2. Organiza la recogida de datos en campo, describiendo las operaciones que va a realizar y los métodos y medios topográficos.
 
 Criterios de evaluación:
 
 a) Se ha reconocido el terreno sobre el que se van a realizar las mediciones.
 
-b) Se han coordinado y organizado los recursos humanos y materiales en los trabajos de la recogida de datos en campo.
+b) Se ha realizado un croquis para organizar la toma de datos.
 
-c) Se ha determinado el método de medición.
+c) Se han coordinado y organizado los recursos humanos y materiales en los trabajos de la recogida de datos en campo.
 
-d) Se ha realizado un croquis para organizar la toma de datos.
+d) Se ha determinado el método de medición y el aparato a emplear.
 
-e) Se han clasificado los aparatos e instrumentos topográficos.
+e) Se han seleccionado los aparatos y medios para la toma de datos.
 
-f) Se han seleccionado los aparatos y medios para la toma de datos.
+f) Se han analizado los procedimientos de estacionamiento y orientación.
 
-g) Se han especificado las funciones de cada aparato y equipo topográfico.
+g) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
 
-h) Se han analizado los procedimientos de estacionamiento y orientación.
-
-i) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
-
-3. Maneja aparatos y medios topográficos, explicando sus características y funcionamiento y analizando el procedimiento preestablecido.
+3. Maneja aparatos y medios topográficos, explicando sus características y funcionamiento, analizando los procedimientos preestablecidos.
 
 Criterios de evaluación:
 
-a) Se ha descrito el funcionamiento de los aparatos y sus componentes.
+a) Se han clasificado los aparatos y los instrumentos topográficos.
 
-b) Se ha interpretado el manual de instrucciones.
+b) Se ha descrito el funcionamiento de los aparatos topográficos y sus componentes.
 
-c) Se han coordinado y organizado los recursos humanos y materiales en los trabajos de medición.
+c) Se ha interpretado el manual de instrucciones.
 
-d) Se han estacionado y orientado los aparatos.
+d) Se han coordinado y organizado los recursos humanos y materiales en los trabajos de medición.
 
-e) Se han tomado mediciones con GPS, nivel, taquímetro y estación total.
+e) Se han estacionado y orientado los aparatos.
 
-f) Se ha aplicado la normativa de protección ambiental y la de prevención de riesgos laborales.
+f) Se han tomado mediciones con GPS, nivel, taquímetro, estación total y drones.
+
+g) Se ha aplicado la normativa de protección ambiental y la de prevención de riesgos laborales.
 
 4. Representa mapas y planos, describiendo las técnicas de representación y las mediciones de agrimensura.
 
 Criterios de evaluación:
 
-a) Se han volcado los datos obtenidos en campo.
+a) Se han volcado los datos obtenidos en campo empleando las extensiones más adecuadas.
 
-b) Se han revisado los datos y, en su caso, corregido los errores.
+b) Se han revisado los datos y, en su caso, se han corregido los errores mediante la corrección diferencial.
 
-c) Se han calculado las coordenadas por radiación.
+c) Se han calculado las coordenadas en el sistema local empleado, así como en los distintos sistemas de referencia.
 
-d) Se han descrito las principales razones trigonométricas para la triangulación.
+d) Se ha realizado el curvado en base a los datos obtenidos empleando sistemas de información geográfica o de representación asistidos por ordenador.
 
-e) Se ha dibujado un plano a escala utilizando la simbología normalizada.
+e) Se ha realizado el modelado digital del terreno empleando sistemas de información geográfica o de representación asistidos por ordenador.
 
-f) Se han empleado sistemas de representación asistidos por ordenador.
+f) Se ha realizado el perimetrado de los puntos y el cálculo de superficies empleando sistemas de información geográfica o de representación asistidos por ordenador.
 
-g) Se han trazado viales sobre el plano que no superen una pendiente determinada.
+g) Se ha representado un plano a escala utilizando los formatos y la simbología normalizada.
 
-h) Se ha dibujado un perfil longitudinal entre dos puntos del plano o mapa topográfico.
+h) Se han empleado sistemas de información geográfica y de representación asistidos por ordenador.
 
-i) Se han trazado los límites de una cuenca hidrográfica en el plano o mapa topográfico.
+i) Se han trazado viales sobre el plano o sobre los datos obtenidos, que no superen una pendiente determinada.
 
-j) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
+j) Se ha dibujado un perfil longitudinal entre dos puntos del plano o mapa topográfico.
+
+k) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
 
 5. Replantea puntos y figuras interpretando la información del plano.
 
@@ -678,49 +726,41 @@ Criterios de evaluación:
 
 a) Se ha interpretado el plano topográfico.
 
-b) Se ha realizado un croquis de replanteo.
+b) Se han utilizado los métodos y aparatos topográficos adecuados.
 
-c) Se han utilizado los métodos y aparatos topográficos.
+c) Se han localizado, se han señalado o se han amojonado los puntos sobre el terreno.
 
-d) Se han localizado los puntos de referencia sobre el terreno.
+d) Se han coordinado los medios materiales y humanos para el replanteo.
 
-e) Se han señalado y amojonado los elementos.
+e) Se han supervisado las labores de desmonte, terraplenado y nivelación.
 
-f) Se han coordinado los medios materiales y humanos para el replanteo.
-
-g) Se han supervisado las labores de desmonte, terraplenado y nivelación.
-
-h) Se ha aplicado la normativa de protección ambiental y la de prevención de riesgos laborales.
+f) Se ha aplicado la normativa de protección ambiental y la de prevención de riesgos laborales.
 
 Duración: 50 horas.
 
 Contenidos básicos:
 
-Interpretación de planos, fotografías aéreas o mapas:
+Interpretación de planos, fotografías aéreas y cartografía:
 
 – Orientación del plano.
 
 – Simbología y leyendas.
 
-– Caminos y vías. Interpretación.
+– Vías de comunicación. Interpretación.
 
 – Unidades de medida en topografía.
 
-– El curvímetro y el planímetro.
-
-– Curvas de nivel.
+– Curvas de nivel. Tipología.
 
 – Cota. Desnivel. Pendiente. Distancia natural, geométrica y reducida.
 
-– Esteroscopio. Manejo.
+– Estereoscopio y aplicaciones informáticas. Manejo.
 
-– Elementos singulares en fotografía aérea.
+– Elementos singulares en las fotografías aéreas e imágenes de satélite.
 
 – Sistemas de coordenadas geométricas y UTM. Lectura.
 
 – Rumbo.
-
-– Vaguadas y divisorias.
 
 – Normativa ambiental y de prevención de riesgos laborales.
 
@@ -728,17 +768,17 @@ Organización de la recogida de datos en campo:
 
 – Reconocimiento del terreno.
 
-– Coordinación y organización de los recursos humanos y materiales en la organización de la recogida de datos.
-
 – Croquis, esquemas y dibujos. Realización, interpretación y detección de fallos.
 
-– Equipos topográficos. Tipos. Partes y componentes.
+– Coordinación y organización de los recursos humanos y materiales en la organización de la recogida de datos.
 
-– Instrumentos topográficos. Útiles de topografía. Elementos de señalización. Partes y principios de funcionamiento. Precisión y aplicación.
+– Instrumentos topográficos. Útiles de topografía. Elementos de señalización. Precisión y aplicación.
 
 – Normativa ambiental y de prevención de riesgos laborales.
 
 Manejo de aparatos y medios topográficos:
+
+– Equipos topográficos. Tipos. Partes y componentes.
 
 – Funcionamiento de aparatos y sus componentes.
 
@@ -750,39 +790,45 @@ Manejo de aparatos y medios topográficos:
 
 – Métodos de medición. Selección.
 
+– Manejo básico de drones.
+
 – Normativa ambiental y de prevención de riesgos laborales.
 
 Representación de mapas y planos:
 
 – Volcado de datos. Revisión de datos y corrección de errores.
 
-– Plano a escala con simbología normalizada. Realización. Útiles y técnicas de dibujo.
+– Extensiones más empleadas en cartografía.
 
-– Sistemas de representación asistidos por ordenador.
+– Plano a escala con simbología normalizada. Realización. Técnicas de representación digital.
 
-– Razones trigonométricas para la triangulación. Radiación por coordenadas polares. Cálculo.
+– Sistemas de información geográfica y de representación asistidos por ordenador.
+
+– Representación de las curvas de nivel. Representación digital.
+
+– Modelos digitales del terreno con sistemas de información geográfica y de representación asistidos por ordenador.
+
+– Perimetrado y cálculo de superficies con sistemas de información geográfica y de representación asistidos por ordenador.
 
 – Viales. Trazado sin superar una determinada pendiente.
 
 – Perfiles longitudinales. Escalas horizontales y verticales.
 
-– Límites de cuenca hidrográfica.
-
 – Normativa ambiental y de prevención de riesgos laborales.
 
 Replanteo de puntos y figuras:
 
-– Interpretación del plano topográfico.
+− Interpretación del plano topográfico.
 
-– Utilización de métodos y aparatos topográficos. Técnicas de medida directa, posicionamiento por satélite, fotogrametría.
+− Utilización de métodos y aparatos topográficos. Técnicas de medida directa, posicionamiento por satélite, fotogrametría.
 
-– Replanteo sobre el terreno y señalado y amojonado de elementos.
+− Replanteo sobre el terreno y señalado o amojonado de elementos.
 
-– Coordinación y organización de los recursos humanos y materiales en las operaciones topográficas.
+− Coordinación y organización de los recursos humanos y materiales en las operaciones topográficas.
 
-– Labores de desmonte, terraplenado y nivelación.
+− Labores de desmonte, terraplenado y nivelación.
 
-– Normativa ambiental y de prevención de riesgos laborales.
+− Normativa ambiental y de prevención de riesgos laborales.
 
 Orientaciones pedagógicas.
 
@@ -790,39 +836,41 @@ Este módulo profesional contiene la formación necesaria para desempeñar la fu
 
 La programación de las operaciones topográficas incluye aspectos como:
 
-– Interpretación del relieve del terreno sobre un plano, fotografía aérea o mapa.
+− Interpretación del relieve del terreno sobre un plano, fotografía aérea, imagen de satélite o mapa.
 
-– Organización de la recogida de datos en campo.
+− Organización de la recogida de datos en campo.
 
-– Operación con aparatos y medios topográficos.
+− Operación con aparatos y medios topográficos.
 
-– Representación de mapas y planos.
+− Representación de mapas y planos empleando sistemas de información geográfica y de representación asistidos por ordenador.
 
-– Replanteo de puntos y figuras.
+− Replanteo de puntos y figuras.
 
 Las actividades profesionales asociadas a esta función se aplican en:
 
-– Explotaciones agrícolas convencionales y ecológicas, en empresas de jardinería, forestales, así como en instituciones de investigación y experimentación en agricultura y en empresas de servicios agrarios.
+− Explotaciones agrícolas convencionales y ecológicas, en empresas de jardinería, forestales, así como en instituciones de investigación y experimentación en agricultura y en empresas de servicios agrarios.
 
-La formación del módulo contribuye a alcanzar los objetivos generales b), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias b), m), n), ñ), o), p), q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales b), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales b), n), ñ), o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
-– La identificación de las curvas de nivel, escalas y símbolos empleados en topografía.
+− La identificación y representación de las curvas de nivel, escalas y símbolos empleados en topografía.
 
-– La descripción del funcionamiento de los aparatos y equipos de topografía.
+− La descripción del funcionamiento de los aparatos y equipos de topografía.
 
-– La realización de trabajos de agrimensura por medidas directas y de nivelación simple.
+− La realización de trabajos de agrimensura por medidas directas y de nivelación simple.
 
-– La descripción de las técnicas de dibujo de planos y cálculo de superficies y pendientes.
+− La descripción de las técnicas representación de planos mediante sistemas de información geográfica y de representación asistidos por ordenador, y cálculo de superficies y pendientes.
 
-– El replanteo de los trabajos en agricultura, jardinería y montes.
+− El replanteo de los trabajos en agricultura, jardinería y montes.
 
-– La coordinación y supervisión de los recursos humanos y materiales.
+− La coordinación y supervisión de los recursos humanos y materiales.
 
-– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
+− Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
 
-Módulo Profesional: Maquinaria e instalaciones agroforestales.
+El módulo profesional 0694. Maquinaria e instalaciones agroforestales queda redactado como sigue:
+
+Módulo profesional: Maquinaria e instalaciones agroforestales.
 
 Equivalencia en créditos ECTS: 12.
 
@@ -848,29 +896,39 @@ f) Se han descrito los trámites para la adquisición de equipos, herramientas, 
 
 g) Se han detallado los procedimientos establecidos para la gestión de los residuos generados en el taller.
 
-h) Se ha establecido el sistema de registro de las operaciones realizadas en el taller.
-
-i) Se han coordinado y organizado los recursos humanos y materiales en los procesos de instalación y gestión del taller agrario.
-
 2. Supervisa y realiza las operaciones de mecanizado básico y de soldadura, analizando las técnicas y comprobando la calidad del producto final.
 
 Criterios de evaluación:
 
 a) Se han detallado las propiedades de los materiales mecanizables.
 
-b) Se han caracterizado las operaciones de mecanizado básico.
+b) Se han caracterizado las operaciones de mecanizado básico propias del taller agrario como son el lijado, el taladrado, el escarificado, el roscado y el atornillado.
 
-c) Se han identificado las características de la pieza que se desea obtener en el plano de fabricación.
+c) Se han practicado operaciones de mecanizado básico empleando técnicas de lijado.
 
-d) Se han seleccionado y utilizado las herramientas para el mecanizado.
+d) Se han practicado operaciones de mecanizado básico empleando técnicas de taladrado.
 
-e) Se han caracterizado los métodos de soldadura.
+e) Se han practicado operaciones de mecanizado básico empleando técnicas de escarificado.
 
-f) Se ha determinado el tipo de soldadura en función de los materiales que se van a unir.
+f) Se han practicado operaciones de mecanizado básico empleando técnicas de roscado.
 
-g) Se ha controlado la calidad de los productos finales.
+g) Se han practicado operaciones de mecanizado básico empleando técnicas de atornillado.
 
-h) Se han coordinado y organizado los recursos humanos y materiales en los procesos de mecanizado básico y de soldadura.
+h) Se han identificado las características de la pieza que se desea obtener en el plano de fabricación.
+
+i) Se han seleccionado y utilizado las herramientas para el mecanizado.
+
+j) Se han ejecutado piezas utilizando las diferentes técnicas de mecanizado.
+
+k) Se han caracterizado los métodos de soldadura.
+
+l) Se ha determinado el tipo de soldadura en función de los materiales que se van a unir.
+
+m) Se han realizado uniones entre piezas metálicas mediante técnicas de soldadura.
+
+n) Se ha controlado la calidad de los productos finales ejecutados mediante técnicas de mecanizado y soldadura en el taller agrario.
+
+ñ) Se han coordinado y organizado los recursos humanos y materiales en los procesos de mecanizado básico y de soldadura.
 
 3. Controla el funcionamiento de la maquinaria y equipos agroforestales y de jardinería, analizando los manuales y planes de uso.
 
@@ -888,9 +946,9 @@ e) Se han descrito los requisitos que debe cumplir la maquinaria que tiene que c
 
 f) Se han coordinado y organizado los recursos humanos y materiales en los procesos de control del funcionamiento de la maquinaria y equipos.
 
-g) Se ha manejado el tractor.
+g) Se ha manejado el tractor y otras máquinas agrícolas, forestales y de jardinería.
 
-h) Se ha aplicado la normativa específica forestal, de agricultura y la de jardinería.
+h) Se ha aplicado la normativa específica forestal, de agricultura y la de jardinería y se han tenido en cuenta criterios de sostenibilidad ambiental.
 
 4. Programa el funcionamiento y mantenimiento de las instalaciones analizando sus características e interpretando los manuales y planes de uso.
 
@@ -914,7 +972,7 @@ h) Se ha programado la limpieza, desinfección, desinsectación y desratización
 
 i) Se han valorado las innovaciones tecnológicas aplicables a la programación del funcionamiento de las instalaciones.
 
-j) Se ha aplicado la normativa específica forestal, la de agricultura y la de jardinería.
+j) Se ha aplicado la normativa específica forestal, la de agricultura y la de jardinería, y se han tenido en cuenta criterios de sostenibilidad ambiental.
 
 5. Evalúa las averías y supervisa las reparaciones y puesta a punto de instalaciones, maquinaria y equipos, analizando su alcance, el coste de las intervenciones y los trabajos realizados.
 
@@ -958,7 +1016,7 @@ i) Se han coordinado y organizado los recursos humanos y materiales en los proce
 
 j) Se han descrito las obligaciones administrativas que debe cumplir la maquinaria.
 
-k) Se ha aplicado la normativa específica forestal, la de agricultura y la de jardinería.
+k) Se ha aplicado la normativa específica forestal, la de agricultura y la de jardinería, y se han tenido en cuenta criterios de sostenibilidad ambiental.
 
 7. Elabora planes de adquisición, sustitución o desecho de maquinaria, equipos e instalaciones, analizando criterios técnicos, económicos y el plan de producción de la explotación.
 
@@ -978,7 +1036,7 @@ f) Se han realizado informes técnico–económicos para establecer el plan de a
 
 g) Se han coordinado y organizado los recursos humanos y materiales en los procesos de adquisición, sustitución o desecho de maquinaria, equipos e instalaciones.
 
-h) Se ha aplicado la normativa de producción ecológica.
+h) Se ha aplicado la normativa de producción ecológica y se han tenido en cuenta criterios de sostenibilidad ambiental.
 
 8. Aplica las medidas de prevención de riesgos, de seguridad personal y de protección ambiental valorando las condiciones de trabajo y los factores de riesgo.
 
@@ -994,7 +1052,7 @@ d) Se han manipulado materiales, herramientas, máquinas y equipos de trabajo, e
 
 e) Se han elaborado organigramas de clasificación de los residuos atendiendo a su toxicidad, impacto medioambiental y posterior retirada selectiva.
 
-f) Se ha aplicado la normativa de prevención de riesgos laborales y de protección medioambiental en las operaciones realizadas.
+f) Se ha aplicado la normativa de prevención de riesgos laborales y de protección medioambiental y sostenibilidad en las operaciones realizadas.
 
 Duración: 110 horas.
 
@@ -1024,7 +1082,7 @@ Supervisión de las operaciones de mecanizado básico y de soldadura:
 
 – Materiales mecanizables: metales, plásticos y cerámicos. Propiedades y características.
 
-– Operaciones de mecanización básica. Mecanizado manual.
+– Operaciones de mecanización básica. Mecanizado manual. Técnicas de lijado, taladrado, escarificado, roscado y atornillado.
 
 – Planos de fabricación. Interpretación.
 
@@ -1068,25 +1126,25 @@ Control del funcionamiento de la maquinaria y equipos agroforestales y de jardin
 
 – Coordinación y organización de los recursos humanos y materiales en el control del funcionamiento y utilización de la maquinaria y equipos. Métodos de programación y planificación de los trabajos. Reducción del impacto en el uso de máquinas. Partes de trabajo: diseño y registro.
 
-– Normativa específica forestal, de agricultura y de jardinería.
+– Normativa específica forestal, de agricultura y de jardinería y criterios de sostenibilidad ambiental.
 
 Programación del funcionamiento y mantenimiento de las instalaciones:
 
 – Tipos de instalaciones. Características. Usos y aplicaciones:
 
-○ Instalaciones para forzado de cultivos. Invernaderos: tipos. Estructura y cubierta. Materiales empleados: vidrio, plásticos y otros. Normas de calidad. Sistemas de calefacción. Necesidades de calefacción. Instalaciones de ventilación, climatización y acondicionamiento ambiental. Instalaciones de gas. Calefactores. Otros.
+• Instalaciones para forzado de cultivos. Invernaderos: tipos. Estructura y cubierta. Materiales empleados: vidrio, plásticos y otros. Normas de calidad. Sistemas de calefacción. Necesidades de calefacción. Instalaciones de ventilación, climatización y acondicionamiento ambiental. Instalaciones de gas. Calefactores. Otros.
 
-○ Instalaciones de riego. Riego localizado y riego por aspersión. Cabezal de riego, tuberías de conducción y distribución. Filtrado. Aparatos de manejo, control, medida y seguridad. Emisores de agua: de bajo caudal, de alto caudal. Instalaciones de abastecimiento de agua. Captación, grupos de bombeo. Tuberías y conducciones. Materiales empleados. Timbrado. Cálculo hidráulico en conducciones cerradas. Hidroponía y fertirrigación. Esquema del proceso de fertirrigación. Cabezal de riego. Filtrado. Inyección de fertilizantes. Programación del riego. Elementos, medios y métodos.
+• Instalaciones de riego. Riego localizado y riego por aspersión. Cabezal de riego, tuberías de conducción y distribución. Filtrado. Aparatos de manejo, control, medida y seguridad. Emisores de agua: de bajo caudal, de alto caudal. Instalaciones de abastecimiento de agua. Captación, grupos de bombeo. Tuberías y conducciones. Materiales empleados. Timbrado. Cálculo hidráulico en conducciones cerradas. Hidroponía y fertirrigación. Esquema del proceso de fertirrigación. Cabezal de riego. Filtrado. Inyección de fertilizantes. Programación del riego. Elementos, medios y métodos.
 
-○ Instalaciones para el drenaje y saneamiento.
+• Instalaciones para el drenaje y saneamiento.
 
-○ Equipos de abonado.
+• Equipos de abonado.
 
-○ Instalaciones eléctricas. Elementos de protección y medida.
+• Instalaciones eléctricas. Elementos de protección y medida.
 
-○ Instalaciones de almacenaje y conservación. Graneros. Graneros con muros de gravedad. Silos metálicos para grano. Silos para forraje. Silo zanja. Silo trinchera. Silo torre. Almacén de maquinaria. Almacén de forrajes secos. Cámaras frigoríficas de conservación. Instalaciones para aprovechamiento de subproductos y eliminación de residuos. Otras instalaciones.
+• Instalaciones de almacenaje y conservación. Graneros. Graneros con muros de gravedad. Silos metálicos para grano. Silos para forraje. Silo zanja. Silo trinchero. Silo torre. Almacén de maquinaria. Almacén de forrajes secos. Cámaras frigoríficas de conservación. Instalaciones para aprovechamiento de subproductos y eliminación de residuos. Otras instalaciones.
 
-○ Instalaciones forestales.
+• Instalaciones forestales.
 
 – Revisión y diagnosis del funcionamiento de las instalaciones. Mantenimiento y conservación.
 
@@ -1100,7 +1158,7 @@ Programación del funcionamiento y mantenimiento de las instalaciones:
 
 – Innovaciones utilizables en la explotación.
 
-– Normativa específica forestal, de agricultura y de jardinería.
+– Normativa específica forestal, de agricultura y de jardinería y criterios de sostenibilidad ambiental.
 
 Evaluación de averías y supervisión de reparaciones y puesta a punto de instalaciones, maquinaria y equipos:
 
@@ -1120,7 +1178,7 @@ Programación y supervisión del mantenimiento de la maquinaria y equipos:
 
 – Operaciones de mantenimiento. Tipos.
 
-– Mantenimiento del tractor y equipos de tracción. Mantenimiento del motor diesel. Procedimientos.
+– Mantenimiento del tractor y equipos de tracción. Mantenimiento del motor diésel. Procedimientos.
 
 – Sistemas y elementos del tractor para detectar anomalías o averías.
 
@@ -1144,7 +1202,7 @@ Programación y supervisión del mantenimiento de la maquinaria y equipos:
 
 – Obligaciones administrativas. Documentación. Revisiones.
 
-– Normativa específica forestal, de agricultura y de jardinería.
+– Normativa específica forestal, de agricultura y de jardinería y criterios de sostenibilidad ambiental.
 
 Elaboración de planes de adquisición, renovación o desecho de maquinaria, equipos, e instalaciones agrícolas, forestales y de jardinería:
 
@@ -1162,7 +1220,7 @@ Elaboración de planes de adquisición, renovación o desecho de maquinaria, equ
 
 – Coordinación y organización de los recursos humanos y materiales en los procesos de adquisición, sustitución (renovación) o desecho de maquinaria, equipos e instalaciones agroforestales y de jardinería.
 
-– Normativa de producción ecológica.
+– Normativa de producción ecológica y criterios de sostenibilidad ambiental.
 
 Prevención de riesgos laborales y protección medioambiental:
 
@@ -1208,9 +1266,9 @@ Las funciones de planificación y organización de la maquinaria, equipos e inst
 
 Las actividades profesionales asociadas a esta función se aplican en:
 
-– Explotaciones agrícolas convencionales y ecológicas, empresas forestales y de jardinería, así como en instituciones de investigación y experimentación en agricultura y en empresas de suministros y servicios agrarios.
+– Explotaciones agrícolas convencionales y ecológicas, empresas forestales y de jardinería, así como en instituciones de investigación y experimentación en agricultura, en empresas de suministros y servicios agrarios, y talleres de reparación de equipos agrarios, forestales y de jardinería.
 
-La formación del módulo contribuye a alcanzar los objetivos generales d), e), f), h), i), j), l), m), n), ñ), o), p), q), r), s) y t) del ciclo formativo, y las competencias d), e), f), h), i), j), l), m), n), ñ), o), p), q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales d), e), f), h), i), j), l), n), ñ), o), p), q), r), s), t) y u) del ciclo formativo, y las competencias profesionales, personales y sociales d), e), f), h), i), j), l), n), ñ), o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
@@ -1219,6 +1277,10 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 – La elaboración de programas de mantenimiento.
 
 – El manejo de las máquinas y equipos.
+
+– La regulación, la calibración y la puesta a punto de las máquinas y de los equipos para garantizar sus óptimas condiciones de funcionamiento.
+
+– El mantenimiento y la revisión de las máquinas y de los equipos agroforestales para garantizar sus óptimas condiciones de trabajo y la seguridad del/de la operario/a lo largo de toda su vida útil.
 
 – La elaboración de planes de actuación ante situaciones de emergencia.
 
@@ -1242,7 +1304,9 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Cumplimiento de la normativa ambiental y de prevención de riesgos laborales.
 
-Módulo Profesional: Técnicas de educación ambiental.
+El módulo profesional 0790. Técnicas de educación ambiental queda redactado como sigue:
+
+Módulo profesional: Técnicas de educación ambiental.
 
 Equivalencia en créditos ECTS: 6.
 
@@ -1436,7 +1500,7 @@ La información e interpretación ambiental incluyen aspectos como:
 
 – Diseño de proyectos de interpretación ambiental.
 
-– Difusión ambiental (derecho del público a la información en materia ambiental, Ley 38/95 acceso a la información).
+– Difusión ambiental (derecho del público a la información en materia ambiental, según la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente).
 
 Las actividades profesionales asociadas a esta función se aplican en:
 
@@ -1448,7 +1512,7 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Centros de visitantes de centros de procesos tecnológicos (vertederos y depuradoras, entre otros).
 
-La formación del módulo contribuye a alcanzar los objetivos generales m), n), ñ), o), q), r), s) y u) del ciclo formativo, y las competencias m), n), ñ), p), q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales m), n), ñ), o), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales m), n), ñ), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
@@ -1462,7 +1526,9 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – La interpretación del medio a través del diseño de recursos y actividades sobre lugares de interés medioambiental.
 
-Módulo Profesional: Gestión de los aprovechamientos del medio forestal.
+El módulo profesional 0810. Gestión de los aprovechamientos del medio forestal queda redactado como sigue:
+
+Módulo profesional: Gestión de los aprovechamientos del medio forestal.
 
 Equivalencia en créditos ECTS: 8.
 
@@ -1478,21 +1544,23 @@ a) Se han interpretado los proyectos o planes técnicos.
 
 b) Se han analizado las características orográficas de las parcelas «in situ».
 
-c) Se ha caracterizado el proceso de evaluación del impacto ambiental.
+c) Se han analizado las licencias administrativas.
 
-d) Se han secuenciado los trabajos.
+d) Se ha caracterizado el proceso de evaluación del impacto ambiental.
 
-e) Se ha seleccionado la maquinaria, los aperos y los equipos.
+e) Se han secuenciado los trabajos.
 
-f) Se han coordinado y organizado los recursos humanos y materiales en la organización de los trabajos de aprovechamiento forestal.
+f) Se ha seleccionado la maquinaria, los aperos y los equipos.
 
-g) Se han realizado los informes referidos a los trabajos y a los rendimientos.
+g) Se han coordinado y organizado los recursos humanos y materiales en la organización de los trabajos de aprovechamiento forestal.
 
-h) Se han aplicado criterios técnico–económicos, de calidad y de sostenibilidad.
+h) Se han realizado los informes referidos a los trabajos y a los rendimientos.
 
-i) Se ha aplicado la normativa específica de aprovechamientos forestales.
+i) Se han aplicado criterios técnico-económicos, de calidad y de sostenibilidad.
 
-2. Gestiona los aprovechamientos forestales madereros relacionando las técnicas y los métodos con el plan de aprovechamiento.
+j) Se ha aplicado la normativa específica de aprovechamientos forestales.
+
+2. Gestiona los aprovechamientos forestales madereros relacionando las técnicas y los métodos con el plan de aprovechamiento y la gestión de la biomasa.
 
 Criterios de evaluación:
 
@@ -1504,13 +1572,21 @@ c) Se han replanteado las vías de saca.
 
 d) Se han controlado las operaciones de apeo.
 
-e) Se ha supervisado el procesado de los árboles en campo, la agrupación y la clasificación de las trozas.
+e) Se ha supervisado el procesado de los árboles, la agrupación y la clasificación de las trozas.
 
 f) Se han supervisado las operaciones de arrastre, carga y apilado.
 
 g) Se han controlado los trabajos de desembosque minimizando los daños al ecosistema.
 
-h) Se ha aplicado la normativa de certificación forestal.
+h) Se han supervisado los métodos de gestión de restos de corta.
+
+i) Se ha aplicado la normativa de certificación forestal y la normativa sectorial europea.
+
+j) Se ha determinado la cantidad de material vegetal que se tiene que retirar para el aprovechamiento sostenible de la biomasa forestal.
+
+k) Se ha planificado el aprovechamiento de la biomasa forestal.
+
+l) Se han controlado los trabajos de desembosque del material forestal.
 
 3. Gestiona la extracción del corcho caracterizando las técnicas, los procesos y los factores implicados.
 
@@ -1520,7 +1596,7 @@ a) Se han seleccionado y marcado los árboles que se van a descorchar.
 
 b) Se ha determinado el momento adecuado para la extracción, en función del estado vegetativo del árbol y de la meteorología.
 
-c) Se han controlado las operaciones de desbroce de ruedo y acceso a los alcornocales.
+c) Se han controlado y se han realizado las operaciones de desbroce de ruedo y acceso a los alcornocales.
 
 d) Se han supervisado las operaciones de descorche.
 
@@ -1538,17 +1614,17 @@ b) Se ha determinado el momento adecuado para la extracción en función del est
 
 c) Se han supervisado las operaciones de resinación, recogida, medición y desembosque de la miera.
 
-d) Se ha supervisado la extracción de piñas, castañas y otros frutos y semillas.
+d) Se ha supervisado la extracción de piñas, castañas y otros frutos y semillas forestales.
 
-e) Se ha organizado la recolección de plantas aromáticas, medicinales y de materiales ornamentales de floristería.
+e) Se ha organizado la recolección de plantas aromáticas, medicinales, condimentarias y de materiales ornamentales de floristería.
 
 f) Se han identificado los hongos comestibles silvestres y supervisado su recolección.
 
-g) Se ha supervisado el proceso de producción apícola.
+g) Se ha supervisado el proceso de producción apícola y productos derivados.
 
 h) Se han organizado los trabajos de acopio, aforado y transporte de los productos forestales.
 
-i) Se ha aplicado la normativa de seguridad alimentaria.
+i) Se ha aplicado la normativa específica de aprovechamientos forestales y de seguridad alimentaria.
 
 5. Supervisa el aprovechamiento de los pastos naturales y la obtención de biomasa, relacionando los procedimientos con las características del entorno.
 
@@ -1594,6 +1670,8 @@ Organización de los trabajos de aprovechamiento forestal:
 
 – Análisis de las características orográficas.
 
+– Licencias administrativas.
+
 – Proceso de evaluación de impacto ambiental. Licencia ambiental.
 
 – Organización del trabajo.
@@ -1608,7 +1686,7 @@ Organización de los trabajos de aprovechamiento forestal:
 
 – Normativa específica de los aprovechamientos.
 
-Gestión de los aprovechamientos forestales madereros:
+Gestión de los aprovechamientos forestales madereros y de la biomasa forestal:
 
 – Sistemas de explotación maderera. Evaluación de la sostenibilidad.
 
@@ -1622,7 +1700,15 @@ Gestión de los aprovechamientos forestales madereros:
 
 – Operaciones de arrastre, carga y apilado. Saca y desembosque.
 
-– Normativa de certificación forestal.
+– Gestión de residuos de corta.
+
+– Normativa de certificación forestal y sectorial europea.
+
+– Determinación del material vegetal forestal aprovechable.
+
+– Planificación del corte de biomasa forestal.
+
+– Desembosque del material forestal.
 
 Gestión de la extracción del corcho:
 
@@ -1646,17 +1732,17 @@ Planificación de la recolección de otros productos forestales:
 
 – Extracción de frutos y semillas forestales.
 
-– Recolección de plantas aromáticas, medicinales u ornamentales.
+– Recolección de plantas aromáticas, medicinales, condimentarias y ornamentales.
 
 – Hongos comestibles. Identificación y recolección.
 
-– Producción apícola. Manejo del colmenar. Efectos de la actividad apícola en el medio natural.
+– Producción apícola. Manejo del colmenar. Efectos de la actividad apícola en el medio natural. Productos derivados de la actividad apícola.
 
 – Organización del transporte de productos forestales.
 
-– Normativa de seguridad alimentaria.
+– Normativa específica de aprovechamientos forestales y de seguridad alimentaria.
 
-Supervisión del aprovechamiento de pastos naturales y obtención de biomasa.
+Supervisión del aprovechamiento de pastos naturales y obtención de biomasa:
 
 – Caracterización de pastos y sistemas de pastoreo.
 
@@ -1674,7 +1760,7 @@ Supervisión del aprovechamiento de pastos naturales y obtención de biomasa.
 
 Prevención de riesgos laborales y protección medioambiental:
 
-– Normativa de prevención de riesgos laborales en las operaciones aprovechamiento laboral.
+– Normativa de prevención de riesgos laborales en las operaciones aprovechamiento forestal sostenible.
 
 – Factores y situaciones de riesgo.
 
@@ -1700,37 +1786,37 @@ La planificación y organización de aprovechamientos forestales incluyen aspect
 
 – Organización de la extracción del corcho.
 
+– Organización de la extracción de la resina.
+
 – Planificación de la recolección de productos forestales.
 
 – Aprovechamiento de pastos.
-
-– Supervisión de la obtención de biomasa.
 
 – Coordinación y supervisión de los recursos humanos y materiales.
 
 Las actividades profesionales asociadas a esta función se aplican en:
 
-– Explotaciones y empresas forestales, montes públicos o privados susceptibles de aprovechamiento, administraciones públicas con competencias en el ámbito forestal, centros de desarrollo, investigación o experimentación forestal.
+– Consultoras, empresas de servicios forestales y explotaciones, montes públicos o privados susceptibles de aprovechamiento, administraciones públicas con competencias en el ámbito forestal, centros de desarrollo, investigación o experimentación forestal.
 
-La formación del módulo contribuye a alcanzar los objetivos generales a), f), l), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias a), f), l), m), n), ñ), o), p), q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales a), f), l), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales a), f), l), n), ñ), o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
 – La interpretación de proyectos o planes técnicos forestales.
 
-– La organización de las operaciones para la explotación maderera.
+– La organización de las operaciones para la explotación maderera y del aprovechamiento de la biomasa.
 
 – La supervisión del proceso de extracción del corcho.
 
-– La recolección de frutos y plantas silvestres.
+– La supervisión del proceso de extracción de la resina.
 
-– La supervisión del proceso de resinación.
+– La recolección de frutos silvestres y plantas medicinales.
 
 – El reconocimiento y aprovechamiento de los hongos comestibles silvestres.
 
 – La evaluación del pasto y la determinación de las medidas de mejora.
 
-– El corte y desembosque de la biomasa.
+– La supervisión del proceso de producción apícola.
 
 – La selección y manejo de equipos, máquinas, útiles y herramientas empleados para el aprovechamiento forestal.
 
@@ -1738,7 +1824,9 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La interpretación de la legislación forestal.
 
-Módulo Profesional: Gestión y organización del vivero forestal.
+El módulo profesional 0811. Gestión y organización del vivero forestal queda redactado como sigue:
+
+Módulo profesional: Gestión y organización del vivero forestal.
 
 Equivalencia en créditos ECTS: 7.
 
@@ -1754,17 +1842,19 @@ a) Se han recabado los datos de la superficie que se va a repoblar.
 
 b) Se ha caracterizado el vivero forestal.
 
-c) Se ha seleccionado el método de producción.
+c) Se ha realizado un estudio edafológico y climatológico.
 
-d) Se han dimensionado las distintas áreas del vivero forestal.
+d) Se ha seleccionado el método de producción de planta.
 
-e) Se ha organizado la obtención de semilla selecta en los huertos semilleros.
+e) Se han dimensionado las áreas del vivero forestal.
 
-f) Se ha calculado el número de plantas que se desean producir.
+f) Se ha organizado la obtención de semilla selecta en los huertos semilleros.
 
-g) Se han aplicado criterios técnico–económicos, de calidad y de sostenibilidad.
+g) Se ha calculado el número de plantas que se desean producir.
 
-h) Se ha aplicado la normativa ambiental, la de producción en vivero forestal y la de prevención de riesgos laborales.
+h) Se han aplicado criterios técnico–económicos, de calidad y de sostenibilidad.
+
+i) Se ha aplicado la normativa ambiental, la de producción en vivero forestal y la de prevención de riesgos laborales.
 
 2. Organiza los procesos de obtención y preparación de frutos, semillas y material vegetal relacionando las técnicas con los parámetros ecológicos y bioclimáticos.
 
@@ -1776,7 +1866,7 @@ b) Se han realizado labores selvícolas de fructificación.
 
 c) Se han caracterizado los métodos y las épocas de recolección.
 
-d) Se han descrito las operaciones de separación, obtención y acondicionamiento de semillas y material vegetal de propagación.
+d) Se han descrito y se han realizado operaciones de separación, obtención y acondicionamiento de semillas y material vegetal de propagación.
 
 e) Se han clasificado los lotes de semillas según el hábitat.
 
@@ -1790,7 +1880,7 @@ i) Se ha seleccionado y utilizado la maquinaria, los aperos y los equipos.
 
 j) Se ha aplicado la normativa ambiental, de calidad, de producción en vivero forestal y la de prevención de riesgos laborales.
 
-3. Coordina el proceso de implantación del material vegetal en viveros forestales analizando las técnicas de preparación del medio de cultivo, de siembra y de colocación de propágulos.
+3. Planifica y coordina el proceso de implantación del material vegetal en viveros forestales analizando las técnicas de preparación del medio de cultivo, de siembra y de colocación de propágulos.
 
 Criterios de evaluación:
 
@@ -1802,9 +1892,9 @@ c) Se han programado y preparado las tablas para la siembra o colocación de pro
 
 d) Se han caracterizado y seleccionado los envases y contenedores forestales.
 
-e) Se han organizado y realizado las mezclas de sustratos y la inoculación de hongos micorríticos.
+e) Se han organizado y realizado las mezclas de sustratos.
 
-f) Se han descrito los sistemas de propagación vegetativa.
+f) Se han descrito y se han realizado los sistemas de propagación vegetativa.
 
 g) Se ha descrito y secuenciado el proceso de siembra y colocación de propágulos.
 
@@ -1838,25 +1928,27 @@ h) Se ha aplicado la normativa ambiental, de producción en vivero forestal y la
 
 Criterios de evaluación:
 
-a) Se ha seleccionado el método de endurecimiento de la planta de vivero.
+a) Se han recabado datos de la superficie que se va a repoblar.
 
-b) Se han descrito las modificaciones de parámetros para conseguir el endurecimiento.
+b) Se ha seleccionado el método de endurecimiento de la planta de vivero.
 
-c) Se ha establecido el orden de carga de las diferentes partidas.
+c) Se han descrito las modificaciones de parámetros para conseguir el endurecimiento.
 
-d) Se han realizado las operaciones de adaptación de la planta al lugar de la repoblación.
+d) Se ha establecido el orden de carga de las diferentes partidas.
 
-e) Se han secuenciado las operaciones de preparación de plantas para repoblación.
+e) Se han realizado las operaciones de adaptación de la planta al lugar de la repoblación.
 
-f) Se ha realizado el almacenamiento de brinzales.
+f) Se han secuenciado las operaciones de preparación de plantas para repoblación.
 
-g) Se han coordinado y organizado los recursos humanos y materiales en las operaciones culturales.
+g) Se ha realizado el almacenamiento de brinzales.
 
-h) Se ha seleccionado y utilizado la maquinaria, los aperos, los útiles y los equipos.
+h) Se han coordinado y organizado los recursos humanos y materiales en las operaciones culturales.
 
-i) Se ha aplicado la normativa ambiental, la de calidad, la de producción en vivero forestal y la de prevención de riesgos laborales.
+i) Se ha seleccionado y utilizado la maquinaria, los aperos, los útiles y los equipos.
 
-Duración: 65 horas
+j) Se ha aplicado la normativa ambiental, la de calidad, la de producción en vivero forestal y la de prevención de riesgos laborales.
+
+Duración: 65 horas.
 
 Contenidos básicos:
 
@@ -1982,7 +2074,11 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Viveros forestales.
 
-La formación del módulo contribuye a alcanzar los objetivos generales a), c), i), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias a), c), i), m), n), ñ), o), p), q) y s) del título.
+– Laboratorio de producción de planta.
+
+– Empresas de servicios y explotaciones forestales.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), c), i), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales a), c), i), n), ñ), o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
@@ -2000,7 +2096,9 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – El cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
 
-Módulo Profesional: Gestión cinegética.
+El módulo profesional 0812. Gestión cinegética queda redactado como sigue:
+
+Módulo profesional: Gestión cinegética.
 
 Equivalencia en créditos ECTS: 5.
 
@@ -2018,7 +2116,7 @@ b) Se han determinado los parámetros poblacionales.
 
 c) Se ha seleccionado el método de censo y el protocolo de actuación, según las características del hábitat y de la población.
 
-d) Se han establecido, sobre mapa o plano, itinerarios, áreas de muestreo y puntos de censo y control.
+d) Se han establecido, sobre mapa o plano, mediante el empleo de sistemas de información geográfica y/o con sistemas de representación asistidos por ordenador, itinerarios, áreas de muestreo y puntos de censo y control.
 
 e) Se han recogido y procesado los datos de campo.
 
@@ -2078,21 +2176,25 @@ b) Se ha descrito el protocolo de recepción y de expedición de animales.
 
 c) Se ha establecido el plan de alimentación, reproducción y cría.
 
-d) Se han descrito las técnicas de captura y manejo de animales en vivo.
+d) Se ha establecido el plan de sanidad y el protocolo sanitario.
 
-e) Se han detallado los métodos para realizar introducciones, repoblaciones, translocaciones y sueltas.
+e) Se ha descrito el procedimiento administrativo para la realización de sueltas y repoblaciones.
 
-f) Se ha valorado el impacto de las repoblaciones en el medio natural.
+f) Se han descrito las técnicas de captura y manejo de animales en vivo.
 
-g) Se han organizado los recursos humanos y materiales para la producción y repoblación de especies cinegéticas.
+g) Se han detallado los métodos para realizar introducciones, repoblaciones, translocaciones y sueltas.
 
-h) Se ha aplicado la normativa ambiental, la específica de caza, la de bienestar animal y la de prevención de riesgos laborales.
+h) Se ha valorado el impacto de las repoblaciones en el medio natural.
+
+i) Se han organizado los recursos humanos y materiales para la producción y repoblación de especies cinegéticas.
+
+j) Se ha aplicado la normativa ambiental, la específica de caza, la de sanidad animal, la de transporte de animales vivos, la de bienestar animal y la de prevención de riesgos laborales.
 
 5. Planifica y organiza el aprovechamiento sostenible de un espacio cinegético, analizando el plan de ordenación y relacionando las modalidades de caza con las características del medio y las especies.
 
 Criterios de evaluación:
 
-a) Se han interpretado planes de ordenación y aprovechamiento cinegético.
+a) Se han interpretado planes de ordenación y aprovechamiento cinegético, empleando sistemas de información geográfica y/o sistemas de representación asistidos por ordenador.
 
 b) Se han definido los tipos de terrenos según su aprovechamiento cinegético.
 
@@ -2106,7 +2208,7 @@ f) Se ha programado la celebración y el desarrollo de las acciones cinegéticas
 
 g) Se han coordinado los recursos humanos y materiales necesarios para la planificación y organización de un aprovechamiento cinegético.
 
-h) Se ha aplicado la normativa ambiental, la específica de caza y la de prevención de riesgos laborales.
+h) Se ha aplicado la normativa ambiental, la de bienestar animal, la específica de caza y la de prevención de riesgos laborales.
 
 Duración: 50 horas.
 
@@ -2158,7 +2260,7 @@ Realización de tareas de vigilancia, seguimiento y control de las poblaciones d
 
 – Procedimiento de inspección, ordenación e instrucción de expedientes sancionadores.
 
-– Enfermedades y epizootias (epizoootías) más comunes. Métodos de detección y control. Toma de muestras. Procedimiento de informe a los técnicos sanitarios.
+– Enfermedades y epizootias (epizootías) más comunes. Métodos de detección y control. Toma de muestras. Procedimiento de informe a los técnicos sanitarios.
 
 – Detección de presencia y estimación de abundancia de predadores: observación directa o localización de nidos, madrigueras, huellas y rastros. Registro de localización. Elaboración de informes. Umbral de actuación.
 
@@ -2172,25 +2274,29 @@ Realización de tareas de vigilancia, seguimiento y control de las poblaciones d
 
 Organización y supervisión de la producción y repoblación de especies cinegéticas:
 
-− Explotaciones intensivas de ungulados, aves y lagomormos con fines cinegéticos. Características específicas. Infraestructuras, instalaciones y dependencias. Medios, equipos, máquinas y herramientas: selección y manejo. Inspección de granjas cinegéticas.
+– Explotaciones intensivas de ungulados, aves y lagomorfos con fines cinegéticos. Características específicas. Infraestructuras, instalaciones y dependencias. Medios, equipos, máquinas y herramientas: selección y manejo. Inspección de granjas cinegéticas.
 
-− Recepción y expedición de animales. Protocolo de actuación. Documentación de origen y sanidad. Aislamiento y cuarentena. Distribución por lotes.
+– Recepción y expedición de animales. Protocolo de actuación. Documentación de origen y sanidad. Aislamiento y cuarentena. Distribución por lotes.
 
-− Plan de alimentación: cálculo de consumo y sistemas de distribución. Productos utilizados en la alimentación (materias primas, correctores vitamínico–minerales y otros). Plan de reproducción y cría: calendario de celos, cubriciones, gestaciones y partos; programa de cría. Fichas de control y elaboración de informes.
+– Plan de alimentación: cálculo de consumo y sistemas de distribución. Productos utilizados en la alimentación (materias primas, correctores vitamínico–minerales y otros). Plan de reproducción y cría: calendario de celos, cubriciones, gestaciones y partos; programa de cría. Fichas de control y elaboración de informes.
 
-− Técnicas de captura y manejo de especies cinegéticas en vivo. Adecuación a las condiciones del medio y a la especie. Transporte de especies cinegéticas: condiciones y documentación.
+– Plan de sanidad. Detección y tratamiento de enfermedades, calendario de vacunas y tratamientos. Saneamiento y vaciado sanitario.
 
-− Introducciones, repoblaciones y traslocaciones: métodos según finalidad perseguida. Autorización administrativa. Determinación del número de ejemplares, edades y relación de sexos. Técnicas y época de suelta. Manejo previo, profilaxis y seguimiento.
+– Procedimiento administrativo para llevar a cabo las sueltas y repoblaciones.
 
-− Impacto de las repoblaciones: contaminación genética de las poblaciones naturales.
+– Técnicas de captura y manejo de especies cinegéticas en vivo. Adecuación a las condiciones del medio y a la especie. Transporte de especies cinegéticas: condiciones y documentación.
 
-− Organización de recursos humanos y materiales para la producción y repoblación de especies cinegéticas. Distribución de tareas y previsión de medios.
+– Introducciones, repoblaciones y traslocaciones: métodos según finalidad perseguida. Autorización administrativa. Determinación del número de ejemplares, edades y relación de sexos. Técnicas y época de suelta. Manejo previo, profilaxis y seguimiento.
 
-− Normativa ambiental, específica de caza, de bienestar animal y de prevención de riesgos laborales.
+– Impacto de las repoblaciones: contaminación genética de las poblaciones naturales.
+
+– Organización de recursos humanos y materiales para la producción y repoblación de especies cinegéticas. Distribución de tareas y previsión de medios.
+
+– Normativa ambiental, específica de caza, de bienestar animal, la de sanidad animal, de transporte de animales vivos y de prevención de riesgos laborales.
 
 Planificación y organización de aprovechamientos cinegéticos:
 
-− Planes de ordenación y aprovechamiento cinegético. Apartados. Elaboración. Interpretación y aplicación.
+− Planes de ordenación y aprovechamiento cinegético. Apartados. Elaboración. Interpretación y aplicación. Sistemas de información geográfica y/o sistemas de representación asistidos por ordenador.
 
 − Terrenos de aprovechamiento cinegético. Concesión administrativa. Registro. Señalización.
 
@@ -2200,7 +2306,7 @@ Planificación y organización de aprovechamientos cinegéticos:
 
 − Plan de caza: objetivos. Adecuación al potencial cinegético del terreno.
 
-− Valoración de trofeos. Normas C.I.C. Valoración en campo y en mano. Procedimiento de homologación.
+− Valoración de trofeos. Normas CIC. Valoración en campo y en mano. Procedimiento de homologación.
 
 − Programación de actividades cinegéticas. Determinación de fechas y lugares. Procedimiento administrativo: solicitudes y autorizaciones.
 
@@ -2208,7 +2314,7 @@ Planificación y organización de aprovechamientos cinegéticos:
 
 − Coordinación de recursos humanos y materiales en la planificación y organización de aprovechamientos cinegéticos.
 
-− Normativa ambiental, específica de caza y de prevención de riesgos laborales.
+− Normativa ambiental, específica de caza, de bienestar animal y de prevención de riesgos laborales.
 
 Orientaciones pedagógicas.
 
@@ -2232,51 +2338,53 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Espacios cinegéticos, públicos o privados, instituciones de investigación y experimentación en aspectos relacionados con el aprovechamiento de recursos del medio natural, así como empresas relacionadas con las actividades de caza y pesca.
 
-La formación del módulo contribuye a alcanzar los objetivos generales f), g), h), l), m), n), ñ), p), q), r) y s) del ciclo formativo, y las competencias h), l), m), n), ñ), o), p) y q) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales f), g), h), l), n), ñ), p), q), r), s) y t) del ciclo formativo, y las competencias profesionales, personales y sociales h), l), n), ñ), o), p), q) y r) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
-− La identificación de especies de un espacio cinegético.
+– La identificación de especies de un espacio cinegético.
 
-− La valuación del estado del hábitat.
+– La evaluación del estado del hábitat.
 
-− Los trabajos de conservación y mejora del hábitat.
+– Los trabajos de conservación y mejora del hábitat.
 
-− La determinación de la capacidad de acogida del medio.
+– La determinación de la capacidad de acogida del medio.
 
-− La elaboración de inventarios de fauna.
+– La elaboración de inventarios de fauna.
 
-− El muestreo y censo de especies cinegéticas y asociadas.
+– El muestreo y censo de especies cinegéticas y asociadas.
 
-− Las técnicas y medios para la captura, inmovilización, marcado y seguimiento de especies.
+– Las técnicas y medios para la captura, inmovilización, marcado y seguimiento de especies.
 
-− Los métodos de vigilancia y control de un espacio cinegético.
+– Los métodos de vigilancia y control de un espacio cinegético.
 
-− Las prohibiciones, infracciones y sanciones en materia de caza.
+– Las prohibiciones, infracciones y sanciones en materia de caza.
 
-− El procedimiento de ordenación, instrucción y resolución de expedientes sancionadores.
+– El procedimiento de ordenación, instrucción y resolución de expedientes sancionadores.
 
-− El control de depredadores de especies cinegéticas.
+– El control de depredadores de especies cinegéticas.
 
-− La producción de especies cinegéticas.
+– La producción de especies cinegéticas.
 
-− La captura de animales en vivo.
+– La captura de animales en vivo.
 
-− Las introducciones, repoblaciones, translocaciones y sueltas de especies cinegéticas.
+– Las introducciones, repoblaciones, translocaciones y sueltas de especies cinegéticas.
 
-− La elaboración, interpretación y aplicación de planes de ordenación y aprovechamiento cinegético.
+– La elaboración, interpretación y aplicación de planes de ordenación y aprovechamiento cinegético.
 
-− La elaboración de informes y cumplimentación de documentación.
+– La elaboración de informes y cumplimentación de documentación.
 
-− La organización y seguimiento de actividades de caza.
+– La organización y seguimiento de actividades de caza.
 
-− La valoración de trofeos de caza.
+– La valoración de trofeos de caza.
 
-− La recogida de datos morfométricos.
+– La recogida de datos morfométricos.
 
-− La selección y manejo de equipos, máquinas, útiles y herramientas utilizados en la planificación y organización de un espacio cinegético.
+– La selección y manejo de equipos, máquinas, útiles y herramientas utilizados en la planificación y organización de un espacio cinegético.
 
-Módulo Profesional: Gestión de la pesca continental.
+El módulo profesional 0813. Gestión de la pesca continental queda redactado como sigue:
+
+Módulo profesional: Gestión de la pesca continental.
 
 Equivalencia en créditos ECTS: 5.
 
@@ -2474,7 +2582,7 @@ Realización de los trabajos de gestión de la protección del medio fluvial y l
 
 Realización del control del aprovechamiento de las especies de aguas continentales:
 
-– Modalidades y técnicas de pesca. El equipo de pesca y del pescador: Manejo de un pez tras su captura. Valoración de las capturas. Nociones de fisiografía fluvial aplicadas a la pesca. Medidas de seguridad en el desplazamiento por el medio natural.
+– Modalidades y técnicas de pesca. Equipo de pesca y del pescador. Manejo de un pez tras su captura. Valoración de las capturas. Nociones de fisiografía fluvial aplicadas a la pesca. Medidas de seguridad en el desplazamiento por el medio natural.
 
 – Espacios piscícolas. Clasificación. Tramos de pesca.
 
@@ -2490,7 +2598,7 @@ Realización del control del aprovechamiento de las especies de aguas continenta
 
 Supervisión del funcionamiento de una piscifactoría y una astacifactoría:
 
-– Unidades que componen una instalación: unidad de depuración de agua. Unidad de filtrado grueso y fino. Balsa de decantación. Unidad de clarificación. Unidad de esterilización. Unidad de incubación. Tipos. Unidades de alevinaje y engorde. Tanques para jóvenes y adultos. Tipos. Unidad de estabulación de reproductores. Tipos. Otros elementos.
+– Unidades que componen una instalación; unidad de depuración de agua. Unidad de filtrado grueso y fino. Balsa de decantación. Unidad de clarificación. Unidad de esterilización. Unidad de incubación. Tipos. Unidades de alevinaje y engorde. Tanques para jóvenes y adultos. Tipos. Unidad de estabulación de reproductores. Tipos. Otros elementos.
 
 – El agua como medio de vida. Calidad de agua. Controles de calidad de agua: pH; oxígeno disuelto; materias en suspensión en el agua de cultivo. Determinación de estos parámetros. Factores que intervienen en el consumo de oxígeno.
 
@@ -2534,7 +2642,7 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Piscifactorías y astacifactorías de aguas continentales
 
-La formación del módulo contribuye a alcanzar los objetivos generales a), g), h), l), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias a), g), h), l), m), n), ñ), o), p), q), r) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales a), g), h), l), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias a), g), h), l), n), ñ), o), p), q), r), s) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
@@ -2572,7 +2680,9 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Los trabajos de supervisión del funcionamiento de una piscifactoría y una astacifactoría.
 
-Módulo Profesional: Gestión de montes.
+El módulo profesional 0814.Gestión de montes queda redactado como sigue:
+
+Módulo profesional: Gestión de montes.
 
 Equivalencia en créditos ECTS: 10.
 
@@ -2592,17 +2702,19 @@ c) Se ha replanteado la parcela objeto del inventario.
 
 d) Se han medido las variables utilizando los aparatos dasométricos.
 
-e) Se han calculado las áreas basimétricas, crecimiento de árboles y masas forestales.
+e) Se han calculado las áreas basimétricas, de crecimiento de árboles y masas forestales.
 
-f) Se han cubicado árboles, masas forestales, maderas delgadas, cortezas y biomasa.
+f) Se han cubicado árboles, masas forestales, cortezas y biomasa.
 
-g) Se han coordinado y organizado los recursos humanos y materiales en los trabajos de inventario forestal y de medición de árboles y de masas forestales.
+g) Se han analizado nuevas tecnologías para cubicación de masas forestales.
 
-h) Se han caracterizado las bases de la ordenación de montes y los proyectos y planes técnicos.
+h) Se han coordinado y organizado los recursos humanos y materiales en los trabajos de inventario forestal y de medición de árboles y de masas forestales.
 
-i) Se han analizado las instrucciones para la ordenación de los montes.
+i) Se han caracterizado las bases de la ordenación de montes y los proyectos y planes técnicos.
 
-j) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
+j) Se han analizado las instrucciones para la ordenación de los montes.
+
+k) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
 
 2. Supervisa los tratamientos selvícolas de las masas forestales caracterizando los procedimientos de ejecución.
 
@@ -2616,13 +2728,13 @@ c) Se han realizado y controlado los trabajos de mejora de las especies implanta
 
 d) Se han concretado y vigilado las labores culturales sobre las masas forestales.
 
-e) Se ha determinado la superficie y el momento de corta en los tratamientos selvícolas sobre el vuelo.
+e) Se ha zonificado y se ha determinado el momento de realización de los tratamientos selvícolas en las masas forestales.
 
 f) Se han marcado los pies y los renuevos que se tienen que cortar en los tratamientos selvícolas sobre el vuelo.
 
 g) Se ha realizado y verificado la poda de los árboles.
 
-h) Se han descrito los tratamientos selvícolas específicos sobre dehesas, alcornoques (para la producción de corcho), pinos piñoneros (para la producción de piñas) y masas para resinación.
+h) Se han descrito los tratamientos selvícolas específicos sobre dehesas, alcornoques (para la producción de corcho), pinos piñoneros (para la producción de piñas), sotos (para la producción de castaña y madera), robledales (para la producción de leñas y madera) y masas para resinación.
 
 i) Se ha regulado y manejado la maquinaria, aperos, equipos y herramientas para los tratamientos selvícolas.
 
@@ -2640,7 +2752,7 @@ c) Se ha supervisado la preparación del terreno y la eliminación de la vegetac
 
 d) Se ha comprobado la calidad de las plantas que se van a utilizar y su almacenamiento o distribución en el monte.
 
-e) Se han realizado y comprobado los trabajos de siembra, plantación y reposición de marras.
+e) Se han realizado y comprobado los trabajos de siembra, plantación, abonado y reposición de marras.
 
 f) Se han realizado y supervisado los trabajos de protección de las plantas contra la fauna.
 
@@ -2658,7 +2770,7 @@ b) Se ha relacionado el relieve, el clima y la cubierta vegetal con la erosión 
 
 c) Se han organizado y supervisado los trabajos de control de matorrales en áreas críticas.
 
-d) Se han realizado y supervisado la estabilización de cauces con trabajos de restauración de vegetación riparia.
+d) Se han realizado y supervisado la estabilización de cauces con trabajos de restauración de vegetación riparia, y se ha determinado el caudal mínimo ecológico.
 
 e) Se ha desarrollado y supervisado la construcción de las defensas contra aludes.
 
@@ -2670,29 +2782,31 @@ h) Se ha regulado y manejado la maquinaria, aperos, equipos y herramientas para 
 
 i) Se ha aplicado la normativa ambiental, la específica de los trabajos de corrección hidrológico forestal y la de prevención de riesgos laborales.
 
-5. Programa los trabajos selvícolas, de repoblación y de restauración hidrológico forestal a partir de un proyecto, analizando los factores técnicos y las actuaciones de dichos trabajos.
+5. Programa los trabajos selvícolas, de repoblación y de restauración hidrológico forestal a partir de un proyecto o instrumento de gestión, analizando los factores técnicos y las actuaciones de dichos trabajos.
 
 Criterios de evaluación:
 
-a) Se han descrito las partes de un proyecto o un plan técnico de trabajos selvícolas, de repoblación y de restauración hidrológico forestal.
+a) Se han descrito las partes de un instrumento de gestión de trabajos selvícolas, de repoblación y de restauración hidrológico forestal.
 
-b) Se han interpretado las exigencias de un Pliego de Condiciones Técnicas.
+b) Se ha interpretado el pliego de condiciones técnicas.
 
 c) Se han analizado los apartados de un presupuesto.
 
 d) Se han descrito las partes de un Estudio de Impacto Ambiental en trabajos selvícolas, de repoblación y de restauración hidrológico forestal.
 
-e) Se ha elaborado un calendario de actuaciones.
+e) Se han representado los trabajos establecidos en los proyectos, planes técnicos o instrumentos de gestión, tras su interpretación, empleando sistemas de información geográfica o sistemas de representación asistidos por ordenador.
 
-f) Se ha seleccionado la maquinaria, los aperos y los equipos.
+f) Se ha elaborado un calendario de actuaciones.
 
-g) Se han coordinado y organizado los recursos humanos y materiales en la programación de los trabajos selvícolas, de repoblación y de restauración hidrológico forestal.
+g) Se ha seleccionado la maquinaria, los aperos y los equipos.
 
-h) Se han realizado los informes referidos a los trabajos, a los rendimientos y a la viabilidad legal.
+h) Se han coordinado y organizado los recursos humanos y materiales en la programación de los trabajos selvícolas, de repoblación y de restauración hidrológico forestal.
 
-i) Se han aplicado criterios técnico–económicos, de calidad y de sostenibilidad.
+i) Se han realizado los informes referidos a los trabajos, a los rendimientos y a la viabilidad legal.
 
-j) Se ha aplicado la normativa ambiental, la específica de trabajos forestales y la de prevención de riesgos laborales.
+j) Se han aplicado criterios técnico–económicos, de calidad y de sostenibilidad.
+
+k) Se ha aplicado la normativa ambiental, la específica de trabajos forestales y la de prevención de riesgos laborales.
 
 6. Coordina y controla los trabajos de apertura y mantenimiento de caminos forestales analizando las técnicas básicas de construcción.
 
@@ -2700,7 +2814,7 @@ Criterios de evaluación:
 
 a) Se han detallado las fases de construcción de un camino forestal.
 
-b) Se han analizado planos de trazados de caminos.
+b) Se han analizado y se han realizado planos de trazados de caminos empleando sistemas de información geográfica o sistemas de representación asistidos por ordenador.
 
 c) Se han organizado los recursos humanos y materiales en los trabajos de apertura y mantenimiento de caminos forestales.
 
@@ -2724,11 +2838,13 @@ Coordinación y realización de trabajos de inventario y de medición de árbole
 
 – Medición de variables dasométricas. Instrumentos y aparatos de medición.
 
-– Diámetros normales y áreas basimétricas. Crecimientos y densidad de las masas forestales. Cálculo.
+– Diámetros normales, alturas y áreas basimétricas. Crecimientos y densidad de las masas forestales. Cálculo.
 
 – Cubicación teórica del árbol. Cubicación y pesada de leñas. Biomasas. Cubicación de cortezas.
 
 – Cubicación de la masa.
+
+– Aplicación de nuevas tecnologías a la cubicación de masas forestales.
 
 – Organización de recursos humanos y materiales necesarios para coordinar y realizar los trabajos de inventario forestal y de medición de árboles y de masas forestales.
 
@@ -2738,11 +2854,7 @@ Coordinación y realización de trabajos de inventario y de medición de árbole
 
 – Masas forestales y tipos de montes. Montes, terrenos forestales, bosques y sistemas forestales.
 
-– Métodos de división de montes.
-
-– Instrucciones para la ordenación de montes. Origen y evolución de las Instrucciones de Ordenación. Los objetivos de la ordenación de montes según las instrucciones de 1970.
-
-– Métodos de ordenación de montes.
+– Métodos de división y ordenación de montes.
 
 – Normativa ambiental, la específica de las actividades que van a realizar y de prevención de riesgos laborales.
 
@@ -2750,7 +2862,7 @@ Supervisión de los tratamientos selvícolas de las masas forestales:
 
 – Bases de la selvicultura. Principios de la selvicultura.
 
-– Identificación de los turnos de corta. Diámetros de cortabilidad en masas regulares e irregulares de distintas especies.
+– Ubicación del turno o superficie de corta.
 
 – Tratamientos selvícolas. Tipos y objetivos. Labores culturales. Concreción y vigilancia.
 
@@ -2764,7 +2876,7 @@ Supervisión de los tratamientos selvícolas de las masas forestales:
 
 – La realización y el control de la poda.
 
-– Tratamientos selvícolas específicos. Sobre alcornocal para producción de corcho, pino piñonero para producción de piñas, masas para resinación.
+– Tratamientos selvícolas específicos: sobre alcornocal para producción de corcho, pino piñonero para producción de piñas, sobre los sotos para la producción de castaña, sobre los robledales para la producción de leñas y madera y masas para resinación.
 
 – Medios, equipos, máquinas y herramientas. Uso. Regulación.
 
@@ -2780,7 +2892,7 @@ Coordinación y control de los trabajos de reforestación y forestación:
 
 – Calidad de las plantas que se van a repoblar. Comprobación. Almacenamiento. Condiciones. Distribución.
 
-– Siembra y plantación. Realización y supervisión de la repoblación y de la reposición de marras.
+– Siembra y plantación. Abonado. Realización y supervisión de la repoblación y de la reposición de marras.
 
 – Protección de la repoblación contra la fauna.
 
@@ -2816,6 +2928,8 @@ Programación de los trabajos selvícolas, de repoblación y de restauración hi
 
 – Impacto ambiental. Tipos. Clasificación.
 
+– Interpretación y representación de los trabajos establecidos en los instrumentos de gestión con medios informáticos.
+
 – Calendario de actuaciones. Elaboración.
 
 – Selección de la maquinaria, aperos y equipos de los diferentes trabajos.
@@ -2826,13 +2940,15 @@ Programación de los trabajos selvícolas, de repoblación y de restauración hi
 
 – Criterios técnicos, económicos y de sostenibilidad.
 
+– Sistemas de gestión forestal sostenible.
+
 – Normativa ambiental, la específica de las actividades que se van a realizar y la de prevención de riesgos laborales.
 
 Coordinación y control de los trabajos de apertura y mantenimiento de caminos forestales:
 
 – Fases de construcción.
 
-– Planos de caminos. Análisis.
+– Planos de caminos. Análisis. Representación gráfica de los resultados con medios informáticos.
 
 – Organización de los recursos humanos y materiales en los trabajos de apertura y mantenimiento de caminos forestales.
 
@@ -2866,13 +2982,13 @@ La planificación y organización de los trabajos de repoblación, de correcció
 
 Las actividades profesionales asociadas a esta función se aplican en:
 
-– Montes públicos o privados, así como en Instituciones de Investigación y Experimentación en aspectos relacionados con los inventarios forestales y de medición de árboles, las repoblaciones, las correcciones hidrológico forestales, la selvicultura y la construcción de caminos forestales.
+– Consultoras y empresas de servicios forestales, montes públicos o privados, administraciones públicas con competencias en el ámbito forestal, así como en instituciones de investigación y experimentación en aspectos relacionados con los inventarios forestales y de medición de árboles, las repoblaciones, las correcciones hidrológico forestales, la selvicultura y la construcción de caminos forestales.
 
-La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), e), g), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias a), b), c), d), e), g), m), n), ñ), o), p) ,q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), e), g), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales a), b), c), d), e), g), n), ñ), o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
-– El replanteo de la parcela que se va a inventariar.
+– La representación y el replanteo de la parcela que se va a inventariar.
 
 – Los trabajos de medición de árboles y de masas forestales.
 
@@ -2882,7 +2998,7 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La descripción de los tipos de montes y de las masas forestales.
 
-– La identificación de los métodos de ordenación de montes y la interpretación de proyectos de ordenación.
+– La identificación de los métodos de ordenación de montes y la interpretación los instrumentos de gestión forestal.
 
 – Los tratamientos selvícolas.
 
@@ -2892,7 +3008,7 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La construcción de defensas contra aludes y de corrección hidrológico–forestal.
 
-– La interpretación de proyectos de trabajos selvícolas, de repoblación y de restauración hidrológico–forestal.
+– La interpretación de proyectos de trabajos selvícolas, de repoblación y de restauración hidrológico–forestal y su representación cartográfica.
 
 – El estudio de impacto ambiental.
 
@@ -2904,9 +3020,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Los trabajos de apertura y mantenimiento de caminos forestales.
 
-– La selección y manejo de equipos, máquinas, útiles y herramientas utilizados en la planificación y organización de trabajos de selvicultura.
+– La selección y manejo de equipos, máquinas, útiles y herramientas utilizados en la planificación y organización de trabajos de selvicultura, de reforestación y forestación y de restauración hidrológico forestal.
 
-Módulo Profesional: Gestión de la conservación del medio natural.
+El módulo profesional 0815.Gestión de la conservación del medio natural queda redactado como sigue:
+
+Módulo profesional: Gestión de la conservación del medio natural.
 
 Equivalencia en créditos ECTS: 7.
 
@@ -2936,7 +3054,7 @@ g) Se ha aplicado la normativa ambiental, la normativa específica de uso públi
 
 Criterios de evaluación:
 
-a) Se ha caracterizado el dominio público forestal, el hidráulico y el marítimo–terrestre.
+a) Se ha caracterizado el dominio público forestal, el hidráulico y el marítimo– terrestre.
 
 b) Se han caracterizado las vías pecuarias.
 
@@ -2946,7 +3064,7 @@ d) Se ha supervisado la ocupación o aprovechamiento del dominio público hidrá
 
 e) Se han controlado los trámites para obtener autorizaciones y concesiones, se ha descrito el procedimiento de denuncia.
 
-f) Se han identificado los puntos que se van a seguir en la realización de informes sobre los hallazgos paleontológicos.
+f) Se han identificado los puntos que se van a seguir en la realización de informes sobre los hallazgos históricos y paleontológicos.
 
 g) Se han establecido las pautas para evitar la recolección no autorizada de restos históricos o paleontológicos y la desubicación, deterioro o destrucción de los mismos.
 
@@ -2962,13 +3080,15 @@ b) Se han analizado los niveles de protección de las especies vegetales y anima
 
 c) Se ha vigilado el estado sanitario de las especies animales del espacio natural.
 
-d) Se han descrito los métodos de localización y eliminación de ejemplares de especies exóticas de flora y de fauna.
+d) Se han descrito los métodos de localización y eliminación de ejemplares de especies exóticas invasoras.
 
-e) Se han detallado los procedimientos de denuncia y adopción de las medidas cautelares en caso de expolio, tenencia no autorizada y otros.
+e) Se han descrito los principales hábitats de interés comunitario.
 
-f) Se han descrito los trabajos en los Centros de Recuperación, Jardines Botánicos y Centros de Cría en cautividad.
+f) Se han detallado los procedimientos de denuncia y adopción de las medidas cautelares en caso de expolio, tenencia no autorizada y otros.
 
-g) Se ha aplicado la normativa ambiental, la de bienestar animal, la de montes y la de prevención de riesgos laborales.
+g) Se han descrito los trabajos en los centros de recuperación, jardines botánicos y centros de cría en cautividad.
+
+h) Se ha aplicado la normativa ambiental, la de bienestar animal, la de conservación de especies, la de montes y la de prevención de riesgos laborales.
 
 4. Supervisa el equipamiento y la realización de obras en el medio natural, describiendo las técnicas de dirección de obras.
 
@@ -3018,15 +3138,15 @@ Control del uso público del medio natural:
 
 – Espacios naturales. Características de los diferentes usos. Tipología.
 
-– Instrumentos de protección de los espacios naturales. Inventario Español del Patrimonio Natural y de la Biodiversidad, Plan Estratégico Estatal del Patrimonio Natural y de la Biodiversidad, Planes de Ordenación de los Recursos Naturales (P.O.R.N.): instrumentos.
+– Instrumentos de protección de los espacios naturales. Inventario Español del Patrimonio Natural y de la Biodiversidad, Plan Estratégico Estatal del Patrimonio Natural y de la Biodiversidad, Planes de ordenación de los recursos naturales (PORN), Planes rectores de uso y gestión (PRUG): instrumentos.
 
 – Gestión del flujo de visitantes. Objetivos de planificación. Objetivos para el visitante.
 
-– Programas de uso público. Uso y disfrute. Recursos naturales (habitat, fauna, etc.) y culturales.
+– Programas de uso público. Uso y disfrute. Recursos naturales (hábitat, fauna, etc.) y culturales.
 
 – Información y asesoramiento a los visitantes.
 
-– Impactos y daños producidos por las actividades de los visitantes. Precauciones y medidas que se deben adoptar para evitar o minimizar los daños. Corrección del impacto y de los daños causados.
+– Impactos y daños producidos por las actividades de los visitantes. Evaluación y gestión de los impactos del uso público.
 
 – Normativa ambiental, de montes, de patrimonio y de prevención de riesgos laborales.
 
@@ -3042,25 +3162,27 @@ Vigilancia del dominio público:
 
 – Autorizaciones y concesiones. Procedimientos de denuncia. Medidas cautelares.
 
-– Hallazgos paleontológicos. Procedimiento de extracción. Informes.
+– Hallazgos históricos y paleontológicos. Procedimiento de extracción. Informes.
 
-– Pautas para evitar la recolección no autorizada, desubicación, deterioro o destrucción de los mismos.
+– Pautas para evitar la recolección no autorizada, desubicación, deterioro o destrucción de hallazgos históricos y paleontológicos.
 
 – Normativa ambiental, de bienestar animal, de montes y de prevención de riesgos laborales.
 
 Control de las especies de flora y fauna del medio natural:
 
-– Organización de recursos humanos y materiales necesarios para realizar los trabajos de planificación y realización de las operaciones de inventariación y seguimiento del hábitat natural.
+– Organización de recursos humanos y materiales necesarios para realizar los trabajos de planificación y realización de las operaciones de inventariado y seguimiento del hábitat natural.
 
 – Niveles de protección de las especies vegetales y animales.
 
 – Estado sanitario de las especies animales del espacio natural. Informes sobre las diferentes especies y el estado de sus poblaciones.
 
-– Especies exóticas que amenazan las autóctonas. Localización y eliminación: métodos.
+– Localización y eliminación de especies exóticas invasoras que amenazan las autóctonas: métodos; estrategias y planes. Catálogo español de especies exóticas invasoras.
 
 – Expolio, tenencia no autorizada. Denuncia. Medidas cautelares.
 
-– Trabajos en Centros de Recuperación, Jardines Botánicos y Centros de Cría en cautividad.
+– Hábitats de interés comunitario.
+
+– Trabajos en centros de recuperación, jardines botánicos y centros de cría en cautividad.
 
 – Normativa ambiental, de bienestar animal, de montes y de prevención de riesgos laborales.
 
@@ -3080,13 +3202,15 @@ Supervisión del equipamiento y de la realización de obras en el medio natural:
 
 – Maquinaria, herramientas y equipos. Selección y regulación.
 
-– Normativa ambiental, de montes, de obras y de prevención de riesgos laborales.
+– Normativa ambiental, de montes, de contaminación en el medio natural, de obras y de prevención de riesgos laborales.
 
 Control de los residuos y vertidos en el medio natural:
 
 – Fuentes de contaminación. Contaminantes en el medio físico de espacios naturales.
 
-– Procesos de contaminación. Alteraciones en el agua indicativas de contaminación. Consecuencias para el equilibrio del medio natural.
+– Procesos de contaminación. Alteraciones en el agua indicativas de contaminación.
+
+Consecuencias para el equilibrio del medio natural.
 
 – Toma de muestras de residuos y/o vertido de vegetales o animales al medio natural.
 
@@ -3104,7 +3228,7 @@ Orientaciones pedagógicas.
 
 Este módulo profesional contiene la formación necesaria para desempeñar las funciones de programación del uso público, así como la de programación, protección y conservación del medio natural.
 
-La programación del uso público así como la programación de la protección y conservación del medio natural incluyen aspectos como:
+La programación del uso público, así como la programación de la protección y conservación del medio natural incluyen aspectos como:
 
 – Control del uso público.
 
@@ -3122,11 +3246,11 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Espacios naturales protegidos.
 
-– Centros de Recuperación, Jardines Botánicos y Centros de Cría en cautividad.
+– Centros de recuperación, jardines botánicos y centros de cría en cautividad.
 
 – Medio natural.
 
-La formación del módulo contribuye a alcanzar los objetivos generales g), h), l), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias g), h), l), m), n), ñ), o), p), q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales g), h), l), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales g), h), l), n), ñ), o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
@@ -3140,11 +3264,13 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La supervisión de la gestión de residuos en el medio natural.
 
-– La protección del Patrimonio Paleontológico e histórico emplazado en el medio natural.
+– La protección del patrimonio paleontológico e histórico emplazado en el medio natural.
 
-– Cumplimiento de las normas ambientales, de montes, de bienestar animal, de construcciones en el medio natural, de patrimonio y de riesgos laborales.
+– Cumplimiento de las normas ambientales, de montes, de bienestar animal, de construcciones en el medio natural, de contaminación en el medio natural, de patrimonio y de riesgos laborales.
 
-Módulo Profesional: Defensa contra incendios forestales.
+El módulo profesional 0816.Defensa contra incendios forestales queda redactado como sigue:
+
+Módulo profesional: Defensa contra incendios forestales.
 
 Equivalencia en créditos ECTS: 5.
 
@@ -3168,13 +3294,11 @@ e) Se han organizado los recursos humanos y materiales en los trabajos selvícol
 
 f) Se han seleccionado y manejado las herramientas, la maquinaria y los equipos.
 
-g) Se ha valorado la eficacia de las campañas de sensibilización y las medidas legales en la prevención de incendios forestales.
+g) Se han realizado los informes necesarios relativos a los trabajos, a los rendimientos y a la viabilidad legal.
 
-h) Se han realizado los informes necesarios relativos a los trabajos, a los rendimientos y a la viabilidad legal.
+h) Se ha cumplimentado la documentación administrativa para la ejecución de los tratamientos selvícolas preventivos.
 
-i) Se ha cumplimentado la documentación administrativa para la ejecución de los tratamientos selvícolas preventivos.
-
-j) Se ha aplicado la normativa específica de prevención de incendios forestales.
+i) Se ha aplicado la normativa específica de prevención de incendios forestales.
 
 2. Supervisa y realiza la vigilancia y la detección de incendios forestales, analizando los métodos y las técnicas.
 
@@ -3287,8 +3411,6 @@ Supervisión y organización de la prevención de incendios forestales:
 – Organización de los recursos humanos y materiales. Tipos de trabajos selvícolas de prevención. Procedimientos. Recursos humanos.
 
 – Herramientas, maquinaria y equipos. Criterios de selección. Sistemas de organización y distribución de equipos.
-
-– Campañas de prevención y sensibilización sobre el uso seguro del fuego en espacios naturales y rurales. Concepto. Tipos. Efectos.
 
 – Documentación sobre trabajos, rendimientos y viabilidad legal de las actividades de prevención de incendios forestales. Trámites administrativos. Informes. Mantenimiento de infraestructuras.
 
@@ -3404,7 +3526,7 @@ Las actividades profesionales asociadas a esta función se aplican en:
 
 – Administraciones públicas y privadas relacionadas con la prevención, vigilancia, detección y control y extinción de incendios forestales.
 
-La formación del módulo contribuye a alcanzar los objetivos generales j), l), m), n), ñ), o), p), q), r), s) y u) del ciclo formativo, y las competencias j), l), m), n), ñ) o), p), q) y s) del título.
+La formación del módulo contribuye a alcanzar los objetivos generales j), l), n), ñ), o), p), q), r), s), t) y v) del ciclo formativo, y las competencias profesionales, personales y sociales j), l), n), ñ) o), p), q), r) y t) del título.
 
 Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
 
@@ -3542,672 +3664,6 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 − El uso de las Tecnologías de la Información y de la Comunicación.
 
-Módulo Profesional: Formación y orientación laboral.
-
-Equivalencia en créditos ECTS: 5.
-
-Código: 0818.
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Selecciona oportunidades de empleo, identificando las diferentes posibilidades de inserción y las alternativas de aprendizaje a lo largo de la vida.
-
-Criterios de evaluación:
-
-a) Se ha valorado la importancia de la formación permanente como factor clave para la empleabilidad y la adaptación a las exigencias del proceso productivo.
-
-b) Se han identificado los itinerarios formativo–profesionales relacionados con el perfil profesional del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-c) Se han determinado las aptitudes y actitudes requeridas para la actividad profesional relacionada con el perfil del título.
-
-d) Se han identificado los principales yacimientos de empleo y de inserción laboral para el Técnico Superior en Gestión Forestal y del Medio Natural.
-
-e) Se han determinado las técnicas utilizadas en el proceso de búsqueda de empleo.
-
-f) Se han previsto las alternativas de autoempleo en los sectores profesionales relacionados con el título.
-
-g) Se ha realizado la valoración de la personalidad, aspiraciones, actitudes y formación propia para la toma de decisiones.
-
-2. Aplica las estrategias del trabajo en equipo, valorando su eficacia y eficiencia para la consecución de los objetivos de la organización.
-
-Criterios de evaluación:
-
-a) Se han valorado las ventajas de trabajo en equipo en situaciones de trabajo relacionadas con el perfil del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-b) Se han identificado los equipos de trabajo que pueden constituirse en una situación real de trabajo.
-
-c) Se han determinado las características del equipo de trabajo eficaz frente a los equipos ineficaces.
-
-d) Se ha valorado positivamente la necesaria existencia de diversidad de roles y opiniones asumidos por los miembros de un equipo.
-
-e) Se ha reconocido la posible existencia de conflicto entre los miembros de un grupo como un aspecto característico de las organizaciones.
-
-f) Se han identificado los tipos de conflictos y sus fuentes.
-
-g) Se han determinado procedimientos para la resolución del conflicto.
-
-3. Ejerce los derechos y cumple las obligaciones que se derivan de las relaciones laborales, reconociéndolas en los diferentes contratos de trabajo.
-
-Criterios de evaluación:
-
-a) Se han identificado los conceptos básicos del derecho del trabajo.
-
-b) Se han distinguido los principales organismos que intervienen en las relaciones entre empresarios y trabajadores.
-
-c) Se han determinado los derechos y obligaciones derivados de la relación laboral.
-
-d) Se han clasificado las principales modalidades de contratación, identificando las medidas de fomento de la contratación para determinados colectivos.
-
-e) Se han valorado las medidas establecidas por la legislación vigente para la conciliación de la vida laboral y familiar.
-
-f) Se han identificado las causas y efectos de la modificación, suspensión y extinción de la relación laboral.
-
-g) Se ha analizado el recibo de salarios identificando los principales elementos que lo integran.
-
-h) Se han analizado las diferentes medidas de conflicto colectivo y los procedimientos de solución de conflictos.
-
-i) Se han determinado las condiciones de trabajo pactadas en un convenio colectivo aplicable al sector relacionado con el título de Técnico Superior en Gestión Forestal y del Medio Natural.
-
-j) Se han identificado las características definitorias de los nuevos entornos de organización del trabajo.
-
-4. Determina la acción protectora del sistema de la Seguridad Social ante las distintas contingencias cubiertas, identificando las distintas clases de prestaciones.
-
-Criterios de evaluación:
-
-a) Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos.
-
-b) Se han enumerado las diversas contingencias que cubre el sistema de Seguridad Social.
-
-c) Se han identificado los regímenes existentes en el sistema de Seguridad Social.
-
-d) Se han identificado las obligaciones de empresario y trabajador dentro del sistema de Seguridad Social.
-
-e) Se han identificado, en un supuesto sencillo, las bases de cotización de un trabajador y las cuotas correspondientes a trabajador y empresario.
-
-f) Se han clasificado las prestaciones del sistema de Seguridad Social, identificando los requisitos.
-
-g) Se han determinado las posibles situaciones legales de desempleo.
-
-h) Se ha realizado el cálculo de la duración y cuantía de una prestación por desempleo de nivel contributivo básico.
-
-5. Evalúa los riesgos derivados de su actividad, analizando las condiciones de trabajo y los factores de riesgo presentes en su entorno laboral.
-
-Criterios de evaluación:
-
-a) Se ha valorado la importancia de la cultura preventiva en todos los ámbitos y actividades de la empresa.
-
-b) Se han relacionado las condiciones laborales con la salud del trabajador.
-
-c) Se han clasificado los factores de riesgo en la actividad y los daños derivados de los mismos.
-
-d) Se han identificado las situaciones de riesgo más habituales en los entornos de trabajo del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-e) Se ha determinado la evaluación de riesgos en la empresa.
-
-f) Se han determinado las condiciones de trabajo con significación para la prevención en los entornos de trabajo relacionados con el perfil profesional del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-g) Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a accidentes de trabajo y enfermedades profesionales, relacionados con el perfil profesional del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-6. Participa en la elaboración de un plan de prevención de riesgos en una pequeña empresa, identificando las responsabilidades de todos los agentes implicados.
-
-Criterios de evaluación:
-
-a) Se han determinado los principales derechos y deberes en materia de prevención de riesgos laborales.
-
-b) Se han clasificado las distintas formas de gestión de la prevención en la empresa, en función de los distintos criterios establecidos en la normativa sobre prevención de riesgos laborales.
-
-c) Se han determinado las formas de representación de los trabajadores en la empresa en materia de prevención de riesgos.
-
-d) Se han identificado los organismos públicos relacionados con la prevención de riesgos laborales.
-
-e) Se ha valorado la importancia de la existencia de un plan preventivo en la empresa que incluya la secuenciación de actuaciones que se deben realizar en caso de emergencia.
-
-f) Se ha definido el contenido del plan de prevención en un centro de trabajo relacionado con el sector profesional del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-g) Se ha proyectado un plan de emergencia y evacuación de una empresa del sector.
-
-7. Aplica las medidas de prevención y protección, analizando las situaciones de riesgo en el entorno laboral del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-Criterios de evaluación:
-
-a) Se han definido las técnicas de prevención y de protección individual y colectiva que deben aplicarse para evitar los daños en su origen y minimizar sus consecuencias en caso de que sean inevitables.
-
-b) Se ha analizado el significado y alcance de los distintos tipos de señalización de seguridad.
-
-c) Se han analizado los protocolos de actuación en caso de emergencia.
-
-d) Se han identificado las técnicas de clasificación de heridos en caso de emergencia donde existan víctimas de diversa gravedad.
-
-e) Se han identificado las técnicas básicas de primeros auxilios que deben ser aplicadas en el lugar del accidente ante distintos tipos de daños y la composición y uso del botiquín.
-
-f) Se han determinado los requisitos y condiciones para la vigilancia de la salud del trabajador y su importancia como medida de prevención.
-
-Duración: 50 horas.
-
-Contenidos básicos:
-
-Búsqueda activa de empleo:
-
-− Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-− Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
-
-− Identificación de los itinerarios formativos relacionados con el Técnico Superior en Gestión Forestal y del Medio Natural.
-
-− Definición y análisis del sector profesional del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-− Proceso de búsqueda de empleo en empresas del sector.
-
-− Oportunidades de aprendizaje y empleo en Europa.
-
-− Técnicas e instrumentos de búsqueda de empleo.
-
-− El proceso de toma de decisiones.
-
-Gestión del conflicto y equipos de trabajo:
-
-− Métodos para la resolución o supresión del conflicto. Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia de la organización.
-
-− Equipos en el sector forestal según las funciones que desempeñan.
-
-− La participación en el equipo de trabajo.
-
-− Conflicto: características, fuentes y etapas.
-
-Contrato de trabajo:
-
-− El derecho del trabajo.
-
-− Análisis de la relación laboral individual.
-
-− Modalidades de contrato de trabajo y medidas de fomento de la contratación.
-
-− Derechos y deberes derivados de la relación laboral.
-
-− Modificación, suspensión y extinción del contrato de trabajo.
-
-− Representación de los trabajadores.
-
-− Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico Superior en Gestión Forestal y del Medio Natural.
-
-− Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y beneficios sociales, entre otros.
-
-Seguridad Social, empleo y desempleo:
-
-− Estructura del Sistema de la Seguridad Social.
-
-− Determinación de las principales obligaciones de empresarios y trabajadores en materia de Seguridad Social: afiliación, altas, bajas y cotización.
-
-− Situaciones protegibles en la protección por desempleo.
-
-Evaluación de riesgos profesionales:
-
-− Valoración de la relación entre trabajo y salud.
-
-− Análisis de factores de riesgo.
-
-− La evaluación de riesgos en la empresa como elemento básico de la actividad preventiva.
-
-− Análisis de riesgos ligados a las condiciones de seguridad.
-
-− Análisis de riesgos ligados a las condiciones ambientales.
-
-− Análisis de riesgos ligados a las condiciones ergonómicas y psico–sociales.
-
-− Riesgos específicos en el sector forestal.
-
-− Determinación de los posibles daños a la salud del trabajador que pueden derivarse de las situaciones de riesgo detectadas.
-
-Planificación de la prevención de riesgos en la empresa:
-
-− Derechos y deberes en materia de prevención de riesgos laborales.
-
-− Gestión de la prevención en la empresa.
-
-− Organismos públicos relacionados con la prevención de riesgos laborales.
-
-− Planificación de la prevención en la empresa.
-
-− Planes de emergencia y de evacuación en entornos de trabajo.
-
-− Elaboración de un plan de emergencia en una empresa del sector.
-
-Aplicación de medidas de prevención y protección en la empresa:
-
-− Determinación de las medidas de prevención y protección individual y colectiva.
-
-− Protocolo de actuación ante una situación de emergencia.
-
-− Primeros auxilios.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector.
-
-La formación de este módulo contribuye a alcanzar los objetivos generales n), ñ), o), p), q), r), s), t), u) y v) del ciclo formativo, y las competencias n), ñ), o), p), q), r), s) y t) del título.
-
-Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-− El manejo de las fuentes de información sobre el sistema educativo y laboral, en especial en lo referente a las empresas.
-
-− La realización de pruebas de orientación y dinámicas sobre la propia personalidad y el desarrollo de las habilidades sociales.
-
-− La preparación y realización de modelos de currículum vitae (CV), y entrevistas de trabajo.
-
-− Identificación de la normativa laboral que afecta a los trabajadores del sector, manejo de los contratos más comúnmente utilizados, lectura comprensiva de los convenios colectivos de aplicación.
-
-− La cumplimentación de recibos de salario de diferentes características y otros documentos relacionados.
-
-− El análisis de la ley de Prevención de Riesgos Laborales, que le permita la evaluación de los riesgos derivados de las actividades desarrolladas en su sector productivo y que le permita colaborar en la definición de un plan de prevención para una pequeña empresa, así como en la elaboración de las medidas necesarias para su puesta en funcionamiento.
-
-Módulo Profesional: Empresa e iniciativa emprendedora.
-
-Equivalencia en créditos ECTS: 4.
-
-Código: 0819.
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Reconoce las capacidades asociadas a la iniciativa emprendedora, analizando los requerimientos derivados de los puestos de trabajo y de las actividades empresariales.
-
-Criterios de evaluación:
-
-a) Se ha identificado el concepto de innovación y su relación con el progreso de la sociedad y el aumento en el bienestar de los individuos.
-
-b) Se ha analizado el concepto de cultura emprendedora y su importancia como fuente de creación de empleo y bienestar social.
-
-c) Se ha valorado la importancia de la iniciativa individual, la creatividad, la formación y la colaboración como requisitos indispensables para tener éxito en la actividad emprendedora.
-
-d) Se ha analizado la capacidad de iniciativa en el trabajo de una persona empleada en una pequeña y mediana explotación forestal.
-
-e) Se ha analizado el desarrollo de la actividad emprendedora de un empresario que se inicie en el sector forestal.
-
-f) Se ha analizado el concepto de riesgo como elemento inevitable de toda actividad emprendedora.
-
-g) Se ha analizado el concepto de empresario y los requisitos y actitudes necesarios para desarrollar la actividad empresarial.
-
-h) Se ha descrito la estrategia empresarial relacionándola con los objetivos de la empresa.
-
-i) Se ha definido una determinada idea de negocio en el ámbito forestal, que sirva de punto de partida para la elaboración de un plan de empresa.
-
-2. Define la oportunidad de creación de una pequeña empresa, valorando el impacto sobre el entorno de actuación e incorporando valores éticos.
-
-Criterios de evaluación:
-
-a) Se han descrito las funciones básicas que se realizan en una empresa y se ha analizado el concepto de sistema aplicado a la empresa.
-
-b) Se han identificado los principales componentes del entorno general que rodea a la empresa, en especial el entorno económico, social, demográfico y cultural.
-
-c) Se ha analizado la influencia en la actividad empresarial de las relaciones con los clientes, con los proveedores y con la competencia, como principales integrantes del entorno específico.
-
-d) Se han identificado los elementos del entorno de una pequeña y mediana explotación forestal.
-
-e) Se han analizado los conceptos de cultura empresarial e imagen corporativa y su relación con los objetivos empresariales.
-
-f) Se ha analizado el fenómeno de la responsabilidad social de las empresas y su importancia como un elemento de la estrategia empresarial.
-
-g) Se ha elaborado el balance social de una empresa relacionada con una explotación forestal y se han descrito los principales costes sociales en que incurren estas empresas, así como los beneficios sociales que producen.
-
-h) Se han identificado, en empresas relacionadas con explotaciones forestales, prácticas que incorporan valores éticos y sociales.
-
-i) Se ha llevado a cabo un estudio de viabilidad económica y financiera de una pyme relacionada con una explotación forestal.
-
-3. Realiza actividades para la constitución y puesta en marcha de una empresa, seleccionando la forma jurídica e identificando las obligaciones legales asociadas.
-
-Criterios de evaluación:
-
-a) Se han analizado las diferentes formas jurídicas de la empresa.
-
-b) Se ha especificado el grado de responsabilidad legal de los propietarios de la empresa, en función de la forma jurídica elegida.
-
-c) Se ha diferenciado el tratamiento fiscal establecido para las diferentes formas jurídicas de la empresa.
-
-d) Se han analizado los trámites exigidos por la legislación vigente para la constitución de una empresa.
-
-e) Se ha realizado una búsqueda exhaustiva de las diferentes ayudas para la creación de empresas relacionadas con explotaciones forestales en la localidad de referencia.
-
-f) Se ha incluido en el plan de empresa todo lo relativo a la elección de la forma jurídica, estudio de viabilidad económico–financiera, trámites administrativos, ayudas y subvenciones.
-
-g) Se han identificado las vías de asesoramiento y gestión administrativa externas existentes a la hora de poner en marcha una pyme.
-
-4. Realiza actividades de gestión administrativa y financiera de una pyme, identificando las principales obligaciones contables y fiscales y cumplimentando la documentación.
-
-Criterios de evaluación:
-
-a) Se han analizado los conceptos básicos de contabilidad, así como las técnicas de registro de la información contable.
-
-b) Se han descrito las técnicas básicas de análisis de la información contable, en especial en lo referente a la solvencia, liquidez y rentabilidad de la empresa.
-
-c) Se han definido las obligaciones fiscales de una empresa relacionada con una explotación forestal.
-
-d) Se han diferenciado los tipos de impuestos en el calendario fiscal.
-
-e) Se ha cumplimentado la documentación básica de carácter comercial y contable (facturas, albaranes, notas de pedido, letras de cambio, cheques, etc.) para una pequeña y mediana explotación forestal, y se han descrito los circuitos que dicha documentación recorre en la empresa.
-
-f) Se han identificado los principales instrumentos de financiación bancaria.
-
-g) Se ha incluido toda la documentación citada en el plan de empresa.
-
-Duración: 35 horas
-
-Contenidos básicos:
-
-Iniciativa emprendedora:
-
-− Innovación y desarrollo económico. Principales características de la innovación en explotaciones forestales (materiales, tecnología y organización de la producción, entre otros).
-
-− Factores claves de los emprendedores: iniciativa, creatividad y formación.
-
-− La actuación de los emprendedores como empleados de una pyme relacionada con una explotación forestal.
-
-− La actuación de los emprendedores como empresarios en el sector forestal.
-
-− El empresario. Requisitos para el ejercicio de la actividad empresarial.
-
-− Plan de empresa: la idea de negocio en el ámbito forestal.
-
-La empresa y su entorno:
-
-− Funciones básicas de la empresa.
-
-− La empresa como sistema.
-
-− Análisis del entorno general de una pyme relacionada con una explotación forestal.
-
-− Análisis del entorno específico de una pyme relacionada con una explotación forestal.
-
-− Relaciones de una pequeña y mediana explotación forestal con su entorno.
-
-− Relaciones de una pequeña y mediana explotación forestal con el conjunto de la sociedad.
-
-Creación y puesta en marcha de una empresa:
-
-− Tipos de empresa.
-
-− La fiscalidad en las empresas.
-
-− Elección de la forma jurídica.
-
-− Trámites administrativos para la constitución de una empresa.
-
-− Viabilidad económica y viabilidad financiera de una pyme relacionada con una explotación forestal.
-
-− Plan de empresa: elección de la forma jurídica, estudio de la viabilidad económica y financiera, trámites administrativos y gestión de ayudas y subvenciones.
-
-Función administrativa:
-
-− Concepto de contabilidad y nociones básicas.
-
-− Análisis de la información contable.
-
-− Obligaciones fiscales de las empresas.
-
-− Gestión administrativa de una explotación forestal.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para desarrollar la propia iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de responsabilidades y funciones en el empleo por cuenta ajena.
-
-La formación de este módulo contribuye a alcanzar los objetivos generales n), ñ), o), p), q), r), s), t), u) y v) del ciclo formativo, y las competencias n), ñ), o), p), q), r), s) y t) del título.
-
-Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-− El manejo de las fuentes de información sobre el sector forestal, incluyendo el análisis de los procesos de innovación sectorial en marcha.
-
-− La realización de casos y dinámicas de grupo que permitan comprender y valorar las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector de los servicios relacionado con los procesos forestales.
-
-− La utilización de programas de gestión administrativa para pymes del sector.
-
-− La realización de un proyecto de plan de empresa relacionada con una explotación forestal, que incluya todas las facetas de puesta en marcha de un negocio, así como la justificación de su responsabilidad social.
-
-Módulo Profesional: Formación en centros de trabajo.
-
-Equivalencia en créditos ECTS: 22.
-
-Código: 0820.
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Identifica la estructura y organización de la empresa, relacionándolas con la producción y comercialización de los productos que obtiene.
-
-Criterios de evaluación:
-
-a) Se han identificado la estructura organizativa de la empresa y las funciones de cada área de la misma.
-
-b) Se ha comparado la estructura de la empresa con las organizaciones empresariales tipo existentes en el sector.
-
-c) Se han identificado los elementos que constituyen la red logística de la empresa: proveedores, clientes, sistemas de producción y almacenaje, entre otros.
-
-d) Se han identificado los procedimientos de trabajo en el desarrollo de la prestación de servicio.
-
-e) Se han valorado las competencias necesarias de los recursos humanos para el desarrollo óptimo de la actividad.
-
-f) Se ha valorado la idoneidad de los canales de difusión más frecuentes en esta actividad.
-
-2. Aplica hábitos éticos y laborales en el desarrollo de su actividad profesional, de acuerdo con las características del puesto de trabajo y con los procedimientos establecidos en la empresa.
-
-Criterios de evaluación:
-
-a) Se han reconocido y justificado:
-
-○ La disponibilidad personal y temporal necesarias en el puesto de trabajo.
-
-○ Las actitudes personales (puntualidad y empatía, entre otras) y profesionales (orden, limpieza y responsabilidad, entre otras) necesarias para el puesto de trabajo.
-
-○ Los requerimientos actitudinales ante la prevención de riesgos en la actividad profesional.
-
-○ Los requerimientos actitudinales referidos a la calidad en la actividad profesional.
-
-○ Las actitudes relacionadas con el propio equipo de trabajo y con las jerarquías establecidas en la empresa.
-
-○ Las actitudes relacionadas con la documentación de las actividades realizadas en el ámbito laboral.
-
-○ Las necesidades formativas para la inserción y reinserción laboral en el ámbito científico y técnico del buen hacer del profesional.
-
-a) Se han identificado las normas de prevención de riesgos laborales y los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales de aplicación en la actividad profesional.
-
-b) Se han puesto en marcha los equipos de protección individual según los riesgos de la actividad profesional y las normas de la empresa.
-
-c) Se ha mantenido una actitud de respeto al medio ambiente en las actividades desarrolladas.
-
-d) Se ha mantenido organizado, limpio y libre de obstáculos el puesto de trabajo o el área correspondiente al desarrollo de la actividad.
-
-e) Se ha responsabilizado del trabajo asignado, interpretando y cumpliendo las instrucciones recibidas.
-
-f) Se ha establecido una comunicación eficaz con la persona responsable en cada situación y con los miembros del equipo.
-
-g) Se ha coordinado con el resto del equipo, comunicando las incidencias relevantes que se presenten.
-
-h) Se ha valorado la importancia de su actividad y la necesidad de adaptación a los cambios de tareas.
-
-i) Se ha responsabilizado de la aplicación de las normas y procedimientos en el desarrollo de su trabajo.
-
-3. Organiza y realiza los trabajos de producción de planta forestal aplicando los métodos y técnicas de vivero forestal.
-
-Criterios de evaluación:
-
-a) Se han dimensionado las distintas áreas del vivero forestal.
-
-b) Se ha calculado el número de plantas que se tiene que producir.
-
-c) Se han controlado las operaciones de obtención y acondicionamiento de frutos, semillas y material vegetal de propagación.
-
-d) Se ha realizado el almacenamiento y la conservación del material de propagación.
-
-e) Se han organizado y realizado las mezclas de sustratos y la inoculación de hongos micorríticos.
-
-f) Se han determinado las necesidades nutritivas de las plantas en vivero.
-
-g) Se ha realizado el control sanitario de las plantas.
-
-h) Se han coordinado los recursos humanos y materiales en los trabajos de producción de planta forestal.
-
-i) Se ha aplicado la normativa ambiental, de prevención de riesgos laborales, así como la específica de vivero forestal.
-
-4. Realiza operaciones topográficas describiendo el método y los medios de trabajo.
-
-Criterios de evaluación:
-
-a) Se han interpretado planos, fotografías aéreas y mapas.
-
-b) Se ha realizado la recogida de datos en campo.
-
-c) Se han seleccionado los aparatos y medios para la toma de datos.
-
-d) Se han tomado mediciones con GPS, nivel, taquímetro y estación total.
-
-e) Se han volcado los datos obtenidos en campo.
-
-f) Se han empleado sistemas de representación asistidos por ordenador.
-
-g) Se ha realizado un croquis de replanteo.
-
-h) Se han coordinado y organizado los recursos humanos y materiales en los trabajos de medición.
-
-i) Se ha aplicado la normativa ambiental y la de prevención de riesgos laborales.
-
-5. Coordina y supervisa los trabajos de gestión de las masas forestales analizando los factores técnicos y las actuaciones.
-
-Criterios de evaluación:
-
-a) Se han replanteado parcelas.
-
-b) Se han utilizado los aparatos dasométricos.
-
-c) Se han cubicado árboles, masas forestales y biomasa.
-
-d) Se han supervisado las labores culturales sobre las masas forestales.
-
-e) Se ha supervisado la preparación del terreno y la eliminación de la vegetación de la zona que se va a reforestar o forestar.
-
-f) Se han realizado y comprobado los trabajos de siembra, plantación y reposición de marras.
-
-g) Se han organizado los trabajos de control de matorrales en áreas críticas.
-
-h) Se han comprobado los trabajos de mantenimiento de cunetas, pasos de agua y capa de rodadura de caminos forestales.
-
-i) Se han supervisado y manejado instalaciones, maquinaria, equipos y herramientas.
-
-j) Se ha aplicado la normativa ambiental, la específica de trabajos forestales y la de prevención de riesgos laborales.
-
-6. Controla y vigila el medio natural y el dominio público, interpretando los métodos y las técnicas.
-
-Criterios de evaluación:
-
-a) Se han interpretado programas de uso público.
-
-b) Se han supervisado las actividades de los visitantes.
-
-c) Se ha supervisado la ocupación o aprovechamiento del dominio público hidráulico y marítimo–terrestre.
-
-d) Se ha controlado el estado sanitario de las especies animales del medio natural.
-
-e) Se han supervisado los equipamientos para la conservación del medio natural.
-
-f) Se han interpretado proyectos de obra en el medio natural.
-
-g) Se han seguido los protocolos de actuación ante un episodio de contaminación en el medio físico de espacios naturales.
-
-h) Se ha comprobado el funcionamiento de los equipos automáticos dispuestos por las empresas generadoras de residuos.
-
-i) Se ha aplicado la normativa ambiental, la específica de dominio público, la de montes, la de patrimonio, la de bienestar animal, la de contaminación en el medio natural, la de obras y la de prevención de riesgos laborales.
-
-7. Organiza y gestiona los aprovechamientos forestales, relacionando las técnicas y los métodos con el plan de aprovechamiento.
-
-Criterios de evaluación:
-
-a) Se han coordinado los recursos humanos y materiales en la organización de los trabajos de aprovechamiento forestal.
-
-b) Se han supervisado las operaciones de apeo, procesado de los árboles en campo y desembosque.
-
-c) Se han planificado las operaciones de descorche.
-
-d) Se han supervisado las operaciones de resinación, recogida, medición y desembosque de la miera.
-
-e) Se ha controlado la extracción de piñas, castañas y otros frutos y semillas.
-
-f) Se ha organizado la recolección de plantas aromáticas, medicinales y de materiales ornamentales de floristería.
-
-g) Se ha supervisado la recolección de los hongos comestibles silvestres.
-
-h) Se han supervisado los trabajos de mejora y conservación de los pastizales.
-
-i) Se ha planificado el corte de la biomasa.
-
-j) Se ha aplicado la normativa específica de aprovechamientos forestales, la de certificación forestal y la de prevención de riesgos laborales.
-
-8. Planifica los trabajos de gestión cinegética y piscícola, analizando las técnicas, los medios y los procedimientos.
-
-Criterios de evaluación:
-
-a) Se han supervisado los trabajos de conservación y mejora del hábitat.
-
-b) Se han establecido itinerarios, áreas de muestreo y puntos de censo y control.
-
-c) Se han seleccionado los métodos para realizar introducciones, repoblaciones, translocaciones y sueltas de especies cinegéticas.
-
-d) Se ha programado y establecido el protocolo de actuación en el desarrollo de acciones cinegéticas.
-
-e) Se han supervisado los trabajos de selección, extracción, marcaje, transporte y liberación de peces.
-
-f) Se ha supervisado el funcionamiento de una piscifactoría.
-
-g) Se han supervisado los trabajos de mantenimiento que se desarrollan en el cauce y en la ribera.
-
-h) Se han realizado trabajos de vigilancia y control de espacios destinados a las actividades de caza y pesca.
-
-i) Se han establecido los métodos para el control de especies predadoras.
-
-j) Se han elaborado informes para llevar el control y seguimiento de las actividades de pesca.
-
-k) Se han coordinado los recursos humanos y materiales en los trabajos de gestión cinegética y gestión de la pesca continental.
-
-l) Se ha aplicado la normativa ambiental, la específica de las actividades que se van a realizar, la de bienestar animal y la de prevención de riesgos laborales.
-
-9. Organiza y realiza los trabajos de protección sanitaria de las masas forestales aplicando los métodos y técnicas establecidas.
-
-Criterios de evaluación:
-
-a) Se ha supervisado que los procedimientos de detección y control se aplican conforme al protocolo establecido.
-
-b) Se han coordinado y organizado los recursos humanos y materiales en la programación y aplicación del control fitosanitario.
-
-c) Se han manipulado los productos fitosanitarios siguiendo el protocolo establecido.
-
-d) Se ha calculado la cantidad de producto fitosanitario.
-
-e) Se ha supervisado el funcionamiento del equipo de aplicación.
-
-f) Se ha cumplimentado el cuaderno de control de recogida de residuos.
-
-g) Se han supervisado y aplicado los métodos físicos y biológicos para mantener el equilibrio del agrosistema.
-
-h) Se ha aplicado la normativa ambiental, la de producción integrada, ecológica, la específica de las actividades que se van a realizar y la de prevención de riesgos laborales.
-
-10. Organiza y supervisa los trabajos de prevención, vigilancia, detección y extinción de incendios forestales siguiendo los métodos y técnicas.
-
-Criterios de evaluación:
-
-a) Se han efectuado los trámites administrativos para la realización de las actividades de prevención de incendios forestales.
-
-b) Se han manejado los equipos y herramientas en las actividades de vigilancia y detección de incendios forestales.
-
-c) Se han elaborado los informes para el control de las situaciones de riesgo que puedan ser origen de incendios forestales.
-
-d) Se ha manejado un equipo radiotransmisor.
-
-e) Se han utilizado las herramientas y los medios terrestres en la extinción de incendios forestales.
-
-f) Se han realizado las actividades de investigación de causas que provocan los incendios forestales.
-
-g) Se han organizado los recursos humanos y materiales necesarios para los trabajos de prevención y extinción.
-
-h) Se han aplicado las medidas de seguridad y de protección personal y colectiva en las operaciones de prevención y extinción de incendios forestales.
-
-i) Se ha aplicado la normativa ambiental, la específica de las actividades que se van a realizar y la de prevención de riesgos laborales.
-
-Duración: 220 horas
-
-Este módulo profesional contribuye a completar las competencias y objetivos generales, propios de este título, que se han alcanzado en el centro educativo o a desarrollar competencias características difíciles de conseguir en el mismo.
+> Se modifica por el art. 2.7 del Real Decreto 403/2023, de 29 de mayo. Ref. BOE-A-2023-13219
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 118, de 18 de mayo de 2011. Ref. BOE-A-2011-8628
