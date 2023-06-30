@@ -16,4 +16,4 @@ b) Los cursos de sensibilización y reeducación vial para aquellos conductores 
 
 3. Contenido de los cursos. El contenido de los cursos de sensibilización y reeducación vial versará, principalmente, sobre aquellas materias relacionadas con los accidentes de tráfico, sus causas, consecuencias y los comportamientos adecuados para evitarlos.
 
-4. Centros de reeducación vial. Los centros que vayan a gestionar estos cursos se contratarán de acuerdo con lo establecido en la legislación de contratos del sector público.
+> Se suprime el apartado 4 por el art. 147.6 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a1-59

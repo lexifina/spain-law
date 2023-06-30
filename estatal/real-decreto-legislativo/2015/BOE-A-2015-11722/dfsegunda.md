@@ -28,6 +28,8 @@ k) para regular el procedimiento por el que se certifique que un vehículo dotad
 
 l) para regular los estatutos del organismo autónomo Jefatura Central de Tráfico, creado por la Ley 47/1959, de 30 de julio, sobre regulación de la competencia en materia de tráfico en el territorio nacional, con la denominación que en el Real Decreto se establezca, con objeto de su adecuación a la Ley 40/2015 de 1 de octubre, de Régimen Jurídico del Sector Público.
 
-> Téngase en cuenta que las letras j), k) y l), añadidas por el art. único.43 de la Ley 18/2021, de 20 de diciembre, Ref. BOE-A-2021-21006#au, entran en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
+m) para modificar, mediante real decreto, el contenido del anexo IX, excepto lo previsto en su apartado 3 (Incompatibilidades).
+
+> Se añade la letra m) al apartado 2 por el art. 147.5 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a1-59
 
 > Se añaden las letras j), k) y l), con efectos de 21 de marzo de 2022, por el art. único.43 de la Ley 18/2021, de 20 de diciembre. Ref. BOE-A-2021-21006#au

@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Régimen aplicable a las operaciones de transformación, fusión, escisión y cesión global o parcial de activos y pasivos entre entidades de crédito y entre entidades aseguradoras.
+
+1. Las operaciones de fusión entre entidades de crédito de la misma naturaleza, así como las de escisión y cesión global de activos y pasivos entre entidades de crédito de idéntica o distinta naturaleza se regirán por las normas establecidas para dichas operaciones en el libro primero del presente real decreto-ley, sin perjuicio de lo previsto en la legislación específica aplicable a estas entidades.
+
+2. Las operaciones de fusión, transformación, escisión y cesión de cartera entre entidades aseguradoras se regirán por las normas establecidas para dichas operaciones en el libro primero del presente real decreto-ley, sin perjuicio de lo previsto en la legislación específica aplicable a estas entidades.
+
+3. Cuando la operación consista en el traspaso por sucesión universal de una o varias partes del patrimonio de una entidad de crédito, cualquiera que sea su naturaleza, que formen una unidad económica, a otra entidad de crédito de igual o distinta naturaleza a cambio de una contraprestación que no consista en acciones, participaciones o cuotas de la entidad cesionaria, resultará de aplicación a la misma el régimen de la cesión global de activos y pasivos previsto en el libro primero de este real decreto-ley, sin perjuicio de lo previsto en su legislación específica.

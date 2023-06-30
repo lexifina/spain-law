@@ -10,7 +10,7 @@ En ningún caso, las personas jurídicas que no tengan la condición de Sociedad
 
 4. Las aportaciones serán reembolsadas a los socios en las condiciones que se señalen reglamentariamente y siempre que lo autorice el Consejo Rector. En todo caso, no podrá aprobarse dicho reembolso cuando ocasione una cobertura insuficiente del capital social obligatorio, reservas y coeficiente de solvencia.
 
-Las aportaciones no podrán presentar entre sí privilegio alguno en su prelación en caso de concurso o liquidación de la cooperativa.
+Las aportaciones, incluso cuando su reembolso hubiese sido rehusado, no podrán presentar entre sí privilegio alguno, y en particular, ni de orden ni de importe, en su prelación en caso de concurso o liquidación de la cooperativa, y la adjudicación del haber social, una vez que se hayan satisfecho íntegramente las deudas sociales, deberá hacerse en proporción al valor nominal de las aportaciones al capital suscritas por los socios.
 
 5. Los límites mencionados en el apartado 3 no se tendrán en cuenta en el caso de la participación por cualquier medio en el capital social de una Cooperativa de Crédito por parte del fondo de garantía privado constituido ex ante en el marco de un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento (UE) 575/2013, de 26 de junio, del Parlamento Europeo y del Consejo, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012.
 
@@ -83,6 +83,10 @@ A estos efectos, se entenderá por actividad publicitaria toda forma de comunica
 9. La valoración de la adecuación del socio o potencial socio no tendrá carácter obligatorio para las entidades que comercialicen aportaciones, cuando el valor nominal de las aportaciones que sean objeto de suscripción por parte del socio o potencial socio en una misma cooperativa de crédito no exceda de 2000 euros. Las entidades no podrán fraccionar la suscripción de aportaciones para eludir lo previsto en esta disposición.
 
 10. La supervisión y sanción de lo previsto en los apartados 6 a 8 del presente artículo corresponderá al Banco de España, conforme a lo previsto en la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito.
+
+11. La remuneración de las aportaciones cuyo reembolso hubiera sido rehusado por el Consejo Rector no gozará de ninguna preferencia, ni de orden ni de importe, frente a la remuneración de las aportaciones de las demás aportaciones de la cooperativa.
+
+> Se modifica el párrafo segundo del apartado 4 y se añade el 11 por el art. 182.1 y 2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a1-94
 
 > Se añaden los apartados 6 a 10 por la disposición final 1 de la Ley 6/2023, de 17 de marzo. Ref. BOE-A-2023-7053#df
 

@@ -12,116 +12,118 @@
 
 5. Cólera.
 
-6. Criptosporidiosis.
+6. COVID-19.
 
-7. Dengue.
+7. Criptosporidiosis.
 
-8. Difteria.
+8. Dengue.
 
-9. Encefalitis transmitida por garrapatas.
+9. Difteria.
 
-10. Encefalopatías espongiformes transmisibles humanas (incluye vECJ).
+10. Encefalitis transmitida por garrapatas.
 
-11. Enfermedad invasora por Haemophilus influenzae.
+11. Encefalopatías espongiformes transmisibles humanas (incluye vECJ).
 
-12. Enfermedad meningocócica.
+12. Enfermedad invasora por Haemophilus influenzae.
 
-13. Enfermedad neumocócica invasora.
+13. Enfermedad meningocócica.
 
-14. Enfermedad por virus Chikungunya.
+14. Enfermedad neumocócica invasora.
 
-15. Fiebre amarilla.
+15. Enfermedad por virus Chikungunya.
 
-16. Fiebre del Nilo occidental.
+16. Fiebre amarilla.
 
-17. Fiebre exantemática mediterránea.
+17. Fiebre del Nilo occidental.
 
-18. Fiebre Q.
+18. Fiebre exantemática mediterránea.
 
-19. Fiebre recurrente transmitida por garrapatas.
+19. Fiebre Q.
 
-20. Fiebre tifoidea/Fiebre paratifoidea.
+20. Fiebre recurrente transmitida por garrapatas.
 
-21. Fiebres hemorrágicas víricas (Ébola, Marburg y Lassa entre otras).
+21. Fiebre tifoidea/Fiebre paratifoidea.
 
-22. Giardiasis.
+22. Fiebres hemorrágicas víricas (Ébola, Marburg y Lassa entre otras).
 
-23. Gripe/Gripe humana por un nuevo subtipo de virus.
+23. Giardiasis.
 
-24. Hepatitis A.
+24. Gripe/Gripe humana por un nuevo subtipo de virus.
 
-25. Hepatitis B.
+25. Hepatitis A.
 
-26. Hepatitis C.
+26. Hepatitis B.
 
-27. Herpes zóster.
+27. Hepatitis C.
 
-28. Hidatidosis.
+28. Herpes zóster.
 
-29. Infección por Chlamydia trachomatis (excluye el linfogranuloma venéreo).
+29. Hidatidosis.
 
-30. Infección por cepas de Escherichia coli productoras de toxina Shiga o Vero.
+30. Infección por Chlamydia trachomatis (excluye el linfogranuloma venéreo).
 
-31. Infección gonocócica.
+31. Infección por cepas de Escherichia coli productoras de toxina Shiga o Vero.
 
-32. Infección por el Virus de la Inmunodeficiencia Humana/Síndrome de Inmunodeficiencia Adquirida (VIH/SIDA).
+32. Infección gonocócica.
 
-33. Legionelosis.
+33. Infección por el Virus de la Inmunodeficiencia Humana/Síndrome de Inmunodeficiencia Adquirida (VIH/SIDA).
 
-34. Leishmaniasis.
+34. Legionelosis.
 
-35. Lepra.
+35. Leishmaniasis.
 
-36. Leptospirosis.
+36. Lepra.
 
-37. Linfogranuloma venéreo.
+37. Leptospirosis.
 
-38. Listeriosis.
+38. Linfogranuloma venéreo.
 
-39. Paludismo.
+39. Listeriosis.
 
-40. Parotiditis.
+40. Paludismo.
 
-41. Peste.
+41. Parotiditis.
 
-42. Poliomielitis/parálisis flácida aguda en menores de 15 años.
+42. Peste.
 
-43. Rabia.
+43. Poliomielitis/parálisis flácida aguda en menores de 15 años.
 
-44. Rubéola.
+44. Rabia.
 
-45. Rubéola congénita.
+45. Rubéola.
 
-46. Salmonelosis.
+46. Rubéola congénita.
 
-47. Sarampión.
+47. Salmonelosis.
 
-48. SARS (en español: Síndrome Respiratorio Agudo Grave).
+48. Sarampión.
 
-> Téngase en cuenta que el COVID-19, enfermedad producida por la infección por el virus SARS-CoV-2, es una enfermedad de declaración obligatoria urgente, a efectos de lo previsto en el presente Real Decreto, según establece el art. 22 del Real Decreto-ley 21/2020, de 9 de junio. Ref. BOE-A-2020-5895#a2-4
+49. SARS (en español: Síndrome Respiratorio Agudo Grave)
 
-49. Shigellosis.
+50. Shigellosis.
 
-50. Sífilis.
+51. Sífilis.
 
-51. Sífilis congénita.
+52. Sífilis congénita.
 
-52. Tétanos/Tétanos neonatal.
+53. Tétanos/Tétanos neonatal.
 
-53. Tos ferina.
+54. Tos ferina.
 
-54. Toxoplasmosis congénita.
+55. Toxoplasmosis congénita.
 
-55. Triquinosis.
+56. Triquinosis.
 
-56. Tuberculosis.
+57. Tuberculosis.
 
-57. Tularemia.
+58. Tularemia.
 
-58. Varicela.
+59. Varicela.
 
-59. Viruela.
+60. Viruela.
 
-60. Yersiniosis.
+61. Yersiniosis.
+
+> Se modifica por el art. 208.2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-20
 
 > Se modifica por el art. único y anexo de la Orden SSI/445/2015, de 9 de marzo. Ref. BOE-A-2015-2837.

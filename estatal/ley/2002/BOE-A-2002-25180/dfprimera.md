@@ -4,8 +4,10 @@
 
 2. a) Los artículos 6; 7 y 37.4 son de aplicación general al amparo de lo previsto en el artículo 149.1.1.ª y 8.ª de la Constitución.
 
-b) Los artículos 5, 8, 9, 10, 11, 12, 13, 17.1 y 2, 18.1.2. y 4, 19.1, 22,1 y 2, excepto el último inciso 29.1, 2, 3 y 5, 30.1, 3 y 4, 32 y 42 constituyen legislación civil y son de aplicación general al amparo de lo previsto en el artículo 149.1.8.ª de la Constitución, sin perjuicio de la aplicabilidad preferente del Derecho Civil Foral o Especial, allí donde exista.
+b) Los artículos 5, 8, 9, 10, 11, 12, 13, 17.1 y 2, 18.1.2. y 4, 19.1, 22,1 y 2, excepto el último inciso 29.1, 2, 3 y 5, 30.1, 3 y 4, 32, 32 bis y 42 constituyen legislación civil y son de aplicación general al amparo de lo previsto en el artículo 149.1.8.ª de la Constitución, sin perjuicio de la aplicabilidad preferente del Derecho Civil Foral o Especial, allí donde exista.
 
 3. Los artículos 17.3; 18.3; 21.3, segundo párrafo; 22.2, último inciso; 35.2 y 43, constituyen legislación procesal, y son de aplicación general al amparo del artículo 149.1.6.ª de la Constitución.
 
 4. Los restantes preceptos de la Ley serán de aplicación a las fundaciones de competencia estatal.
+
+> Se modifica el apartado 1.b) por el art. 222.3 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a2-34

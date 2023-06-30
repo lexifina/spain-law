@@ -8,10 +8,12 @@
 
 a) A los actuales derechos de implicación de los trabajadores distintos de los de participación en los órganos de la SE de que gocen los trabajadores de la SE y de sus centros de trabajo y empresas filiales de conformidad con las legislaciones y prácticas nacionales de los Estados miembros.
 
-Tampoco afectará a los derechos de implicación de los trabajadores distintos de los de participación en los órganos de la sociedad resultante de la fusión transfronteriza intracomunitaria de que gocen los trabajadores de la sociedad y de sus centros de trabajo de conformidad con las legislaciones y prácticas nacionales de los Estados miembros.
+Tampoco afectará a los derechos de implicación de los trabajadores distintos de los de participación en los órganos de la sociedad o sociedades resultantes de las modificaciones estructurales transfronterizas intraeuropeas de que gocen los trabajadores de la sociedad y de sus centros de trabajo de conformidad con las legislaciones y prácticas nacionales de los Estados miembros.
 
 b) A los derechos en materia de participación en los órganos de que gocen los trabajadores de las filiales de la SE de conformidad con las legislaciones y prácticas nacionales.
 
 4. Para salvaguardar los derechos mencionados en el apartado 3, el registro de la sociedad no extinguirá por sí mismo el mandato de los representantes legales de los trabajadores de las sociedades participantes que dejen de existir como entidades jurídicas diferenciadas, que seguirán ejerciendo sus funciones en los mismos términos y bajo las mismas condiciones que regían con anterioridad.
+
+> Se modifica el apartado 3.a) por la disposición final 2.2 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#df-2
 
 > Se modifican los apartados 3 y 4 por la disposición final 3.2 de la Ley 3/2009, de 3 de abril. Ref. BOE-A-2009-5614
