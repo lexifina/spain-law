@@ -83,7 +83,6 @@
 |  | Pratylenchus vulnus Allen & Jensen [PRATVU] |
 |  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
 |  | Candidatus Phytoplasma asteris Lee et al. [PHYPAS] |
-|  | Candidatus Phytoplasma australiense Davis et al. [PHYPAU] |
 |  | Candidatus Phytoplasma fragariae Valiunas, Staniulis & Davis [PHYPFG] |
 |  | Candidatus Phytoplasma pruni [PHYPPN] |
 |  | Candidatus Phytoplasma solani Quaglino et al. [PHYPSO] |
@@ -169,6 +168,8 @@
 |  | Agrobacterium spp. Conn [1AGRBG] Rhodococcus fascians Tilford [CORBFA] Hongos y oomicetos Peronospora rubi Rabenhorst [PERORU] Insectos y ácaros Resseliella theobaldi Barnes [THOMTE] |
 | Vaccinium L. | Bacterias |
 |  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Hongos y oomicetos Diaporthe vaccinii Shear [DIAPVA] Exobasidium vaccinii (Fuckel) Woronin [EXOBVA] Godronia cassandrae (anamorfo Topospora myrtilli) Peck [GODRCA] |
+
+> Se modifica por el art. 1.6 del Real Decreto 525/2023, de 20 de junio. Ref. BOE-A-2023-14680
 
 > Se modifica por el art. 1.12 del Real Decreto 541/2020, de 26 de mayo. Ref. BOE-A-2020-5321
 

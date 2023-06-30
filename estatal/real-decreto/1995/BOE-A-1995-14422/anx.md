@@ -26,7 +26,7 @@ Pistacia vera L.
 
 Poncirus Raf.
 
-Prunus amygdalus Batsch.
+Prunus dulcis (Mill.) D. A. Webb.
 
 Prunus armeniaca L.
 
@@ -61,6 +61,8 @@ Punica granatum L.
 Musa.
 
 Persea.
+
+> Se modifica la parte A por el art. 1.11 del Real Decreto 525/2023, de 20 de junio. Ref. BOE-A-2023-14680
 
 > Se sustituye por el que figura en el art. único.3 del Real Decreto 428/2020, de 3 de marzo. Ref. BOE-A-2020-4264
 

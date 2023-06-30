@@ -4,6 +4,8 @@
 
 | Género o especie | Plagas reguladas no cuarentenarias |
 | --- | --- |
+| Castanea sativa Mill. | Hongos y oomicetos |
+| Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld [PHYTRA] |
 | Citrus L., Fortunella Swingle y Poncirus Raf. | Bacterias |
 |  | Spiroplasma citri Saglio et al. [SPIRCI] |
 |  | Hongos y oomicetos |
@@ -30,7 +32,9 @@
 | Ribes L. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas Virus del mosaico del Arabis [ARMV00] Virus de la reversión virótica del grosellero [BRAV00] Virus del mosaico del pepino [CMV000] Virus asociado a la necrosis de las venas de la grosella espinosa [GOVB00] Virus de las manchas anulares del frambueso [RPRSV0] Virus latente de las manchas anulares de la fresa [SLRSV0] |
 | Rubus L. | Hongos y oomicetos Phytophthora spp. de Bary [1PHYTG] Virus, viroides, enfermedades similares a las víricas y fitoplasmas Virus del mosaico del manzano [APMV00] Virus del mosaico del Arabis [ARMV00] Virus de la necrosis del frambueso negro [BRNV00] Candidatus Phytoplasma rubi Malembic-Maher et al. [PHYPRU] Virus del mosaico del pepino [CMV000] Virus del enanismo arbustivo del frambueso [RBDV00] |
 |  | Virus del moteado de la hoja del frambueso [RLMV00] Virus de las manchas anulares del frambueso [RPRSV0] Virus de la clorosis de los nervios del frambueso [RVCV00] Mancha amarilla del frambueso [RYS000] Virus de la mancha amarilla de Rubus [RYNV00] Virus latente de las manchas anulares de la fresa [SLRSV0] Virus de la mancha negra del tomate [TBRV00] |
-| Vaccinium L. | Virus, viroides, enfermedades similares a las víricas y fitoplasmas Ophiovirus asociado al mosaico del arándano [BLMAV0] Virus de las manchas anulares rojas del arándano [BRRV00] Virus de la bruñidura necrótica del arándano [BLSCV0] Virus del choque del arándano [BLSHV0] Virus formador de cordoncillos del arándano [BSSV00] Candidatus Phytoplasma asteris Lee et al. [PHYPAS] Candidatus Phytoplasma pruni [PHYPPN] Candidatus Phytoplasma solani Quaglino et al. [PHYPSO] Fitoplasma de la floración falsa del arándano rojo [PHYPFB] |
+| Vaccinium L. | Hongos y oomicetos. Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld [PHYTRA]. Virus, viroides, enfermedades similares a las víricas y fitoplasmas Ophiovirus asociado al mosaico del arándano [BLMAV0] Virus de las manchas anulares rojas del arándano [BRRV00] Virus de la bruñidura necrótica del arándano [BLSCV0] Virus del choque del arándano [BLSHV0] Virus formador de cordoncillos del arándano [BSSV00] Candidatus Phytoplasma asteris Lee et al. [PHYPAS] Candidatus Phytoplasma pruni [PHYPPN] Candidatus Phytoplasma solani Quaglino et al. [PHYPSO] Fitoplasma de la floración falsa del arándano rojo [PHYPFB] |
+
+> Se modifica por el art. 1.8 del Real Decreto 525/2023, de 20 de junio. Ref. BOE-A-2023-14680
 
 > Se modifica por el art. 1.12 del Real Decreto 541/2020, de 26 de mayo. Ref. BOE-A-2020-5321
 

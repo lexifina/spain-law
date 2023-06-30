@@ -62,7 +62,7 @@ Categoría de base.
 
 Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de una generación.
 
-Prunus amygdalus, P. armeniaca, P. domestica, P. persica y P. salicina:
+Prunus armeniaca L., Prunus domestica L., Prunus dulcis (Mill.) D. A. Webb, Prunus persica (L.) Batsch y Prunus salicina Lindl:
 
 Categoría de base.
 
@@ -99,5 +99,7 @@ Vaccinium L.:
 Categoría de base.
 
 Una planta madre de base producida a partir de materiales iniciales podrá multiplicarse por un máximo de dos generaciones.
+
+> Se modifica por el art. 1.10 del Real Decreto 525/2023, de 20 de junio. Ref. BOE-A-2023-14680
 
 > Se añade por el art. único.24 del Real Decreto 744/2016, de 30 de diciembre. Ref. BOE-A-2016-12603
