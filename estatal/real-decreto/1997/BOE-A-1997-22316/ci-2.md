@@ -162,7 +162,9 @@ La tierra para el camión se unirá a la red general de tierras si ésta es de h
 
 10.2 Controles. Antes de enterrar las tuberías se controlará, al menos visualmente, la protección contra la corrosión, y la formación de bolsas o puntos bajos.
 
-11. Reparación de tanques de acero instalados
+11. Reparación de tanques y transformación de tanques enterrados de simple a doble pared.
+
+11.1 Reparación de tanques de acero instalados.
 
 La reparación de tanques de acero para combustibles y carburantes sólo podrá realizarse si se cumplen los requisitos especificados en el informe UNE 53.991.
 
@@ -172,13 +174,41 @@ Las reparaciones e intervenciones, según el procedimiento o sistema, sólo podr
 
 Una vez terminadas las obras de reparación de los tanques e instalaciones afectadas y antes de ponerlas en servicio se someterán a una prueba de estanqueidad certificada por un organismo de control autorizado, levantando el acta correspondiente, que podrá ser suscrita conjuntamente con el responsable de la empresa instaladora-reparadora y por el titular de la instalación o representante autorizado por éste. El sistema para realizar la prueba cumplirá lo establecido en el punto 38.2 de esta ITC.
 
-Dicho certificado, será remitido al órgano competente en materia de Industria de la Comunidad Autónoma para unirla a su expediente, sirviendo éste como autorización para la reanudación de las actividades y el funcionamiento de las instalaciones afectadas por la reparación.
+Dicho certificado, será remitido al órgano competente en materia de Industria de la comunidad autónoma para unirla a su expediente, sirviendo éste como autorización para la reanudación de las actividades y el funcionamiento de las instalaciones afectadas por la reparación.
 
 En el supuesto de que para la reparación haya que transportarse el tanque sin desgasificar, se deberán cumplir las normas establecidas en el Acuerdo europeo sobre el transporte internacional de mercancías peligrosas por carretera (ADR), o, en su caso, el Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril (RID).
+
+11.2 Transformación de tanques enterrados de simple a doble pared.
+
+La reparación transformación de tanques enterrados de simple a doble pared solo podrá realizarse si se cumplen los requisitos especificados en la norma UNE 62422 o en la norma UNE 53935.
+
+Los procedimientos de construcción de tanques de doble pared por transformación in situ, de tanques de acero de simple pared o tanques de plástico reforzados con fibra de vidrio de simple pared, deberán estar amparados por un estudio-proyecto genérico que deberá estar suscrito por técnico titulado competente y ser presentado ante el órgano territorial competente. El mismo comprenderá todas las fases de actuación, ensayos y pruebas obligatorias, según describe, dependiendo del material del tanque de simple pared, en las citadas normas UNE 62422 o UNE 53935.
+
+A los tanques así transformados no tendrán que realizar las pruebas periódicas de estanqueidad previa comunicación, al órgano territorial competente, de la reforma efectuada en la instalación. Cuando se detecte una fuga se procederá a la reparación o sustitución del tanque.
+
+> Téngase en cuenta que esta última actualización del apartado 11 por la disposición final 2.2 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df-2, entrará en vigor el 1 de julio de 2023, según se establece en su disposición final 5.
+
+> Redacción anterior:
+
+> "11. Reparación de tanques de acero instalados
+
+> La reparación de tanques de acero para combustibles y carburantes sólo podrá realizarse si se cumplen los requisitos especificados en el informe UNE 53.991.
+
+> Los procedimientos o sistemas para realizarla deberán estar amparados por un estudio-proyecto genérico que deberá estar suscrito por técnico titulado competente, el cual deberá ser presentado ante el órgano competente en materia de industria de la comunidad autónoma. El mismo comprenderá todas las fases de actuación, ensayos, pruebas obligatorias, según describe el referido informe UNE 53.991.
+
+> Las reparaciones e intervenciones, según el procedimiento o sistema, sólo podrán realizarlas las empresas habilitadas para tal fin según lo establecido en la Instrucción Técnica Complementaria MI-IP05 «Instaladores o reparadores y empresas instaladoras o reparadoras de productos petrolíferos líquidos», aprobada por Real Decreto 365/2005, de 8 de abril, siempre bajo la supervisión de un reparador de P.P.L. de la empresa.
+
+> Una vez terminadas las obras de reparación de los tanques e instalaciones afectadas y antes de ponerlas en servicio se someterán a una prueba de estanqueidad certificada por un organismo de control autorizado, levantando el acta correspondiente, que podrá ser suscrita conjuntamente con el responsable de la empresa instaladora-reparadora y por el titular de la instalación o representante autorizado por éste. El sistema para realizar la prueba cumplirá lo establecido en el punto 38.2 de esta ITC.
+
+> Dicho certificado, será remitido al órgano competente en materia de Industria de la Comunidad Autónoma para unirla a su expediente, sirviendo éste como autorización para la reanudación de las actividades y el funcionamiento de las instalaciones afectadas por la reparación.
+
+> En el supuesto de que para la reparación haya que transportarse el tanque sin desgasificar, se deberán cumplir las normas establecidas en el Acuerdo europeo sobre el transporte internacional de mercancías peligrosas por carretera (ADR), o, en su caso, el Reglamento relativo al transporte internacional de mercancías peligrosas por ferrocarril (RID)."
 
 12. Calentamiento del combustible
 
 Los combustibles de las clases C y D, se podrán someter a calentamiento de acuerdo con sus propiedades físicas y con las características de la instalación.
+
+> Se modifica el apartado 11 por la disposición final 2.2 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df-2
 
 > Se modifican el segundo y tercer párrafo del apartado 11 por el art. 6.2 del Real Decreto 560/2010, de 7 de mayo. Ref. BOE-A-2010-8190#asexto
 

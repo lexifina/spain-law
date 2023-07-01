@@ -14,9 +14,21 @@ En caso de equipos cuya temperatura del metal no permita la realización de dich
 
 Consistirá, al menos, en una completa inspección visual interna y comprobación de espesores de todas las partes sometidas a presión. Si de esta inspección resultase que hay motivos razonables para aumentar el control, se aplicarán los ensayos no destructivos que se consideren necesarios.
 
-Cuando una inspección interior no se pueda llevar a cabo por imposibilidad física o razones técnicas justificables, se sustituirá por los ensayos no destructivos necesarios que garanticen una seguridad equivalente o por una prueba de presión.
+Cuando una inspección interior no se pueda llevar a cabo por imposibilidad física o razones técnicas justificables, se sustituirá por los ensayos no destructivos necesarios que garanticen una seguridad equivalente, por una prueba de presión o por una prueba de emisiones acústicas en los casos que expresamente recoge esta ITC.
 
 En el caso de tuberías, no será necesario realizar la inspección interna ni dejarlas fuera de servicio, salvo que sea preciso para la realización de los ensayos necesarios.
+
+> Téngase en cuenta que esta última actualización del apartado 2, establecida por la disposición final 1.8 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> "2. Nivel de inspección B (Inspección interior fuera de servicio).
+
+> Consistirá, al menos, en una completa inspección visual interna y comprobación de espesores de todas las partes sometidas a presión. Si de esta inspección resultase que hay motivos razonables para aumentar el control, se aplicarán los ensayos no destructivos que se consideren necesarios.
+
+> Cuando una inspección interior no se pueda llevar a cabo por imposibilidad física o razones técnicas justificables, se sustituirá por los ensayos no destructivos necesarios que garanticen una seguridad equivalente o por una prueba de presión.
+
+> En el caso de tuberías, no será necesario realizar la inspección interna ni dejarlas fuera de servicio, salvo que sea preciso para la realización de los ensayos necesarios."
 
 3. Nivel de inspección C (Prueba de presión).
 
@@ -92,7 +104,15 @@ El equipo de ensayo utilizado debe ser el indicado en la norma UNE-EN 13477-1, y
 
 5.2 Fluido de la prueba.
 
-Para le realización de la prueba podrá utilizarse el fluido del proceso siempre que este sea susceptible de vaporización (como el GLP) o, en su caso, gas inerte (como el Nitrógeno) o aire comprimido siempre que la introducción del mismo en el equipo no suponga la formación de una atmosfera explosiva y que no se generen riesgos añadidos.
+Para la realización de la prueba podrá utilizarse el fluido del proceso siempre que este sea susceptible de vaporización (como el GLP) o, en su caso, gas inerte (como el Nitrógeno) o aire comprimido siempre que la introducción del mismo en el equipo no suponga la formación de una atmósfera explosiva y que no se generen riesgos añadidos. La aplicación de la tensión al equipo para la realización del ensayo también se podrá realizar con agua.
+
+> Téngase en cuenta que esta última actualización del apartado 5.2, establecida por la disposición final 1.9 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> "5.2 Fluido de la prueba.
+
+> Para le realización de la prueba podrá utilizarse el fluido del proceso siempre que este sea susceptible de vaporización (como el GLP) o, en su caso, gas inerte (como el Nitrógeno) o aire comprimido siempre que la introducción del mismo en el equipo no suponga la formación de una atmosfera explosiva y que no se generen riesgos añadidos."
 
 5.3 Presión de prueba.
 
@@ -167,3 +187,5 @@ Las comprobaciones de tarado y precintado serán certificadas por un organismo d
 Todas las comprobaciones y pruebas correspondientes a este apartado que se realicen por organismo de control, deberán quedar reflejadas en el correspondiente certificado.
 
 Las inspecciones realizadas por la inspectora o inspector propio deberán anotarse en el Registro de la usuaria o usuario a que se hace referencia en el artículo 9.7 del Reglamento de equipos a presión.
+
+> Se modifican, con efectos desde el 1 de julio de 2023, los apartados 2 y 5.2 por la disposición final 1.8 y 9 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df

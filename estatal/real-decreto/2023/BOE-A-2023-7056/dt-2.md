@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Aplicación de los cambios realizados en el anexo del Real Decreto 1313/1988, de 28 de octubre, por el que se declara obligatoria la homologación de los cementos para la fabricación de hormigones y morteros para todo tipo de obras y productos prefabricados.
+
+Las modificaciones en las referencias a normas introducidas por la disposición final tercera en el Real Decreto 1313/1988, de 28 de octubre, serán de aplicación a partir de la entrada en vigor del presente real decreto, existiendo un periodo de coexistencia de un año desde la citada entrada en vigor en las que serán válidas tanto las referencias anteriores como las que se introducen por el presente real decreto.

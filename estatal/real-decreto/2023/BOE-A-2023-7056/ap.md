@@ -1,0 +1,7 @@
+## Artículo primero. Modificación del Reglamento de Instalaciones Petrolíferas, aprobado por el Real Decreto 2085/1994, de 20 de octubre.
+
+El apartado 1 del artículo 10 queda redactado como sigue:
+
+> «1. Las referencias a normas que se realicen en el presente reglamento y sus ITCS se entenderá sin perjuicio del reconocimiento de las normas correspondientes admitidas por los Estados miembros de la Unión Europea, o por los países miembros de la Asociación Europea de Libre Comercio, firmantes del Acuerdo sobre el Espacio Económico Europeo, siempre que las mismas supongan un nivel de seguridad de las personas, los bienes o el medio ambiente equivalente, al menos, al que proporcionan aquellas.
+
+> Se considerarán conformes con este reglamento los productos comercializados legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializados legalmente en él, siempre que garanticen un nivel equivalente al exigido en el presente reglamento en cuanto a su seguridad y al uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) n.º 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.»

@@ -20,7 +20,13 @@ Notas:
 
 1.ª Los extintores de incendios, como excepción, se someterán exclusivamente a las pruebas de nivel C cada cinco años por empresas mantenedoras habilitadas por el Reglamento de instalaciones de protección contra incendios, aprobado por Real Decreto 513/2017, de 22 de mayo, por el que se aprueba el Reglamento de instalaciones de protección contra incendios, y tendrán una vida útil de veinte años a partir de la fecha de fabricación.
 
-2.ª Los recipientes frigoríficos, como excepción, al no tener regulación expresa sobre inspecciones periódicas de los equipos a presión, serán inspeccionados por empresas instaladoras frigoristas habilitadas de acuerdo con el Reglamento de seguridad para instalaciones frigoríficas, aprobado por Real Decreto 552/2019, de 27 de septiembre, y no requieren la realización de inspecciones de nivel C, a no ser que el equipo haya sufrido daños, haya estado fuera de servicio por un tiempo superior a dos años, se cambie el fluido por otro de mayor riesgo o haya sufrido una reparación.
+2.ª (Suprimida).
+
+> Téngase en cuenta que queda suprimida la nota 2ª de la tabla 1, establecida por la disposición final 1.4 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, con efectos desde el 1 de julio de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> "2.ª Los recipientes frigoríficos, como excepción, al no tener regulación expresa sobre inspecciones periódicas de los equipos a presión, serán inspeccionados por empresas instaladoras frigoristas habilitadas de acuerdo con el Reglamento de seguridad para instalaciones frigoríficas, aprobado por Real Decreto 552/2019, de 27 de septiembre, y no requieren la realización de inspecciones de nivel C, a no ser que el equipo haya sufrido daños, haya estado fuera de servicio por un tiempo superior a dos años, se cambie el fluido por otro de mayor riesgo o haya sufrido una reparación."
 
 3.ª En los recipientes de aire comprimido o nitrógeno cuyo producto de la presión máxima de servicio en bar por el volumen en litros sea menor de 5.000 podrán realizarse por las empresas instaladoras de equipos a presión.
 
@@ -118,12 +124,23 @@ La placa podrá ser adhesiva, y tendrá unas dimensiones de 70 x 35 mm.
 
 En la cumplimentación de las placas se indicarán los datos siguientes:
 
-| N° de fabricación. | El número de fabricación del extintor. |
+| N.° de fabricación. | El número de fabricación del extintor. |
 | --- | --- |
 | Presión máxima admisible. | La presión máxima admisible de diseño del extintor. |
 | Fecha. | La primera fecha corresponderá a la de fabricación del extintor. Las siguientes fechas serán las de realización de las correspondientes inspecciones periódicas de nivel C. |
-| Empresa. | N.° de inscripción en el Registro de establecimientos industriales de la empresa autorizada para realizar las inspecciones. |
+| Empresa. | N.° de inscripción en el Registro integrado industrial de la empresa habilitada para realizar las inspecciones. |
 | Presión de prueba. | La presión de la prueba hidrostática periódica. |
+
+> Téngase en cuenta que esta última actualización de la tabla, establecida por la disposición final 1.5 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> | N° de fabricación. | El número de fabricación del extintor. |
+> | --- | --- |
+> | Presión máxima admisible. | La presión máxima admisible de diseño del extintor. |
+> | Fecha. | La primera fecha corresponderá a la de fabricación del extintor. Las siguientes fechas serán las de realización de las correspondientes inspecciones periódicas de nivel C. |
+> | Empresa. | N.° de inscripción en el Registro de establecimientos industriales de la empresa autorizada para realizar las inspecciones. |
+> | Presión de prueba. | La presión de la prueba hidrostática periódica. |
 
 b) Modelo de placa de inspecciones periódicas de otros equipos.
 
@@ -133,9 +150,23 @@ La placa podrá ser adhesiva y tendrá unas dimensiones de 70 x 35 mm.
 
 En la cumplimentación de las placas se indicarán los datos siguientes:
 
-| Presión máxima. | La presión máxima admisible del equipo a presión. |
+| N.° Identificación | El número de fabricación del equipo a presión. |
 | --- | --- |
+| Presión máxima. | La presión máxima admisible del equipo a presión. |
 | Fecha. | La primera fecha corresponderá a la de fabricación del equipo a presión o conjunto. Las siguientes fechas serán las de realización de las correspondientes inspecciones periódicas de nivel B y C. |
 | Nivel/Sello. | Indicación del nivel de inspección B o C y el punzón del Agente que realice la inspección periódica. |
 | Presión de prueba. | La presión de la prueba hidrostática del equipo a presión o conjunto. |
 | Categoría y grupo. | Categoría del aparato, equipo a presión o conjunto y grupo de fluido, de acuerdo con el Real Decreto 709/2015, de 24 de julio. |
+
+> Téngase en cuenta que esta última actualización de la tabla, establecida por la disposición final 1.6 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> | Presión máxima. | La presión máxima admisible del equipo a presión. |
+> | --- | --- |
+> | Fecha. | La primera fecha corresponderá a la de fabricación del equipo a presión o conjunto. Las siguientes fechas serán las de realización de las correspondientes inspecciones periódicas de nivel B y C. |
+> | Nivel/Sello. | Indicación del nivel de inspección B o C y el punzón del Agente que realice la inspección periódica. |
+> | Presión de prueba. | La presión de la prueba hidrostática del equipo a presión o conjunto. |
+> | Categoría y grupo. | Categoría del aparato, equipo a presión o conjunto y grupo de fluido, de acuerdo con el Real Decreto 709/2015, de 24 de julio. |
+
+> Se suprime la nota 2ª de la tabla 1 del apartado 1 y se modifican las tablas de las letras a) y b) del apartado 5, con efectos desde el 1 de julio de 2023, por la disposición final 1.4 a 6 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df

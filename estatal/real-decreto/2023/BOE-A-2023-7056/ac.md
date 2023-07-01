@@ -1,0 +1,7 @@
+## Artículo cuarto. Modificación del Reglamento de seguridad contra incendios en los establecimientos industriales, aprobado por el Real Decreto 2267/2004, de 3 de diciembre.
+
+Se modifica el apartado 2 del artículo 15, que queda redactado como sigue:
+
+> «2. Se considerarán conformes con este reglamento los productos comercializados legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializados legalmente en él, siempre que garanticen un nivel equivalente al exigido en el presente reglamento en cuanto a su seguridad y al uso al que están destinados. La aplicación de la presente medida está sujeta al Reglamento (UE) n.º 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.
+
+> Los productos de construcción que se incorporen con carácter permanente a los edificios, en función de su uso previsto, llevarán el marcado “CE” siempre que se haya establecido su entrada en vigor, todo ello de conformidad con el Reglamento (UE) n.º 305/2011 del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, por el que se establecen condiciones armonizadas para la comercialización de productos de construcción y se deroga la Directiva 89/106/CEE del Consejo.»

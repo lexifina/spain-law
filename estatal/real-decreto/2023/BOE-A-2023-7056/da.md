@@ -1,0 +1,17 @@
+## Disposición adicional única. Reconocimiento mutuo de grifería sanitaria para su utilización en locales de higiene corporal, cocinas y lavaderos, armaduras activas de acero para hormigón pretensado, equipos detectores de la concentración de monóxido de carbono, recubrimientos galvanizados en caliente sobre productos, piezas y artículos diversos construidos o fabricados con acero u otros materiales férreos, alambres trefilados lisos y corrugados empleados en la fabricación de mallas electrosoldadas y viguetas semirresistentes de hormigón armado, tubos de acero soldado con diámetros nominales comprendidos entre 8 milímetros y 220 milímetros y sus perfiles derivados correspondientes, destinados a conducción de fluidos, aplicaciones mecánicas, estructurales y otros usos, tanto en negro como galvanizado y cementos para la fabricación de hormigones y morteros para todo tipo de obras y productos prefabricados.
+
+A los efectos de la aplicación del principio de reconocimiento mutuo, se regirá por la disposición adicional sexta del Real Decreto 2200/1995, de 28 de diciembre, por el que se aprueba el Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, la comercialización en territorio nacional de los productos regulados en la siguiente normativa y comercializados legalmente en otro Estado miembro de la Unión Europea, en Turquía, u originarios de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializadas legalmente en él:
+
+1. Real Decreto 358/1985, de 23 de enero, por el que se establece la sujeción a normas técnicas de las griferías sanitarias para su utilización en locales de higiene corporal, cocinas y lavaderos y su homologación por el Ministerio de Industria y Energía.
+
+2. Real Decreto 2365/1985, de 20 de noviembre, por el que se homologan las armaduras activas de acero para hormigón pretensado, por el Ministerio de Industria y Energía.
+
+3. Real Decreto 2367/1985, de 20 de noviembre, por el que se establece la sujeción a especificaciones técnicas de los equipos detectores de la concentración de monóxido de carbono.
+
+4. Real Decreto 2531/1985, de 18 de diciembre, por el que se declaran de obligado cumplimiento las especificaciones técnicas de los recubrimientos galvanizados en caliente sobre productos, piezas y artículos diversos construidos o fabricados con acero u otros materiales férreos y su homologación por el Ministerio de Industria y Energía.
+
+5. Real Decreto 2702/1985, de 18 de diciembre, por el que se homologan los alambres trefilados lisos y corrugados empleados en la fabricación de mallas electrosoldadas y viguetas semirresistentes de hormigón armado (viguetas en celosía) por el Ministerio de Industria y Energía.
+
+6. Real Decreto 2704/1985, de 27 de diciembre, por el que se declaran de obligada observancia las especificaciones técnicas que figuran como anexo de este Real Decreto para los tubos de acero soldado, con diámetros nominales comprendidos entre 8 mm y 220 mm y sus perfiles derivados correspondientes, destinados a conducción de fluidos, aplicaciones mecánicas, estructurales y otros usos, tanto en negro como galvanizado y su homologación por el Ministerio de Industria y Energía.
+
+7. Real Decreto 1313/1988, de 28 de octubre, por el que se declara obligatoria la homologación de los cementos para la fabricación de hormigones y morteros para todo tipo de obras y productos prefabricados.

@@ -40,7 +40,13 @@ Las empresas instaladoras de equipos a presión cumplirán lo siguiente:
 
 a) Disponer de la documentación que identifique a la empresa instaladora, que, en el caso de persona jurídica, deberá estar constituida legalmente.
 
-b) Disponer de las acreditaciones del personal para la realización de uniones permanentes y de los correspondientes procedimientos de actuación. En caso de utilizar exclusivamente sistemas de unión no permanentes, en la acreditación de la empresa deberá figurar esta limitación.
+b) Disponer de las certificaciones del personal para la realización de uniones permanentes y de los correspondientes procedimientos de actuación. En caso de utilizar exclusivamente sistemas de unión no permanentes, en la declaración responsable de la empresa deberá figurar esta limitación.
+
+> Téngase en cuenta que esta última actualización de la letra b) del apartado 1.1.9, establecida por la disposición final 1.2 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> "b) Disponer de las acreditaciones del personal para la realización de uniones permanentes y de los correspondientes procedimientos de actuación. En caso de utilizar exclusivamente sistemas de unión no permanentes, en la acreditación de la empresa deberá figurar esta limitación."
 
 c) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
 
@@ -80,7 +86,13 @@ Para la acreditación del cumplimiento del requisito de personal cualificado la 
 
 a) Indicación, en su caso, de la disponibilidad de acreditaciones de la empresa (sistema de calidad o autorizaciones de fabricantes, entre otras).
 
-b) En caso de que vaya a realizar inspecciones de nivel B o C, indicación de la marca del punzón o tenaza para el precintado de válvulas de seguridad u otros medios de identificación equivalente.
+b) Indicación de la marca del punzón o tenaza para el precintado de válvulas de seguridad u otros medios de identificación equivalente.
+
+> Téngase en cuenta que esta última actualización de la letra b) del apartado 2.2.3, establecida por la disposición final 1.3 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
+
+> Redacción anterior:
+
+> "b) En caso de que vaya a realizar inspecciones de nivel B o C, indicación de la marca del punzón o tenaza para el precintado de válvulas de seguridad u otros medios de identificación equivalente."
 
 2.4 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
 
@@ -127,3 +139,5 @@ ii. Usuaria/Usuario.
 iii. Tipo de actuación.
 
 iv. Identificación o características de equipo o instalación.
+
+> Se modifican, con efectos desde el 1 de julio de 2023, los apartados 1.1.9, letra b) y 2.2.3, letra b) por la disposición final 1.2 y 3 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df
