@@ -2,7 +2,13 @@
 
 A) Datos básicos que relacionan a las personas con las operaciones:
 
-1. El módulo B.1, «Datos básicos que relacionan a las personas con las operaciones», se enviará para vincular las operaciones que se han de declarar de forma individualizada, conforme a lo dispuesto en la norma segunda, apartado 3, con todos sus titulares, por riesgo tanto directo como indirecto, así como con el resto de las personas que intervengan en ellas, excepto con las contrapartes que vendan protección crediticia en titulizaciones sintéticas, que se vincularán con las operaciones en el módulo F, “Datos de transferencias y titulizaciones sintéticas de activos financieros”, y con las contrapartes que sean proveedores de garantías, que se vincularán con las garantías en los módulos D.2, “Datos básicos de los inmuebles recibidos en garantía”, D.3, “Datos básicos de los activos financieros recibidos en garantía”, y D.6, “Datos básicos del resto de las garantías recibidas distintas de inmuebles y activos financieros de préstamos a personas jurídicas”.
+1. El módulo B.1, "Datos básicos que relacionan a las personas con las operaciones", se enviará para vincular las operaciones que se han de declarar de forma individualizada, conforme a lo dispuesto en la norma segunda, apartado 3, con todos sus titulares, por riesgo tanto directo como indirecto, así como con el resto de las personas que intervengan en ellas, excepto con las contrapartes que vendan protección crediticia en titulizaciones sintéticas, que se vincularán con las operaciones en el módulo F, "Datos de transferencias y titulizaciones sintéticas de activos financieros", y con las contrapartes que sean proveedores de garantías, que se vincularán con las garantías en el módulo D.1.1, "Datos básicos de las garantías recibidas".
+
+> Téngase en cuenta que esta actualización del apartado 1, establecida por la norma única.4 de la Circular de 17 de marzo de 2023, Ref. BOE-A-2023-7662, entra en vigor el 1 de julio de 2023, según determina su disposición final única.
+
+> Redacción anterior:
+
+> «1. El módulo B.1, «Datos básicos que relacionan a las personas con las operaciones», se enviará para vincular las operaciones que se han de declarar de forma individualizada, conforme a lo dispuesto en la norma segunda, apartado 3, con todos sus titulares, por riesgo tanto directo como indirecto, así como con el resto de las personas que intervengan en ellas, excepto con las contrapartes que vendan protección crediticia en titulizaciones sintéticas, que se vincularán con las operaciones en el módulo F, “Datos de transferencias y titulizaciones sintéticas de activos financieros”, y con las contrapartes que sean proveedores de garantías, que se vincularán con las garantías en los módulos D.2, “Datos básicos de los inmuebles recibidos en garantía”, D.3, “Datos básicos de los activos financieros recibidos en garantía”, y D.6, “Datos básicos del resto de las garantías recibidas distintas de inmuebles y activos financieros de préstamos a personas jurídicas”.»
 
 1 bis) El módulo B.1 tiene las siguientes partes:
 
@@ -41,6 +47,10 @@ C) Datos básicos complementarios de los préstamos a personas jurídicas:
 8. El módulo B.3, Datos básicos complementarios de los préstamos a personas jurídicas, se declarará para informar sobre las características específicas de los préstamos en los que al menos un deudor es una persona jurídica o entidad sin personalidad jurídica.
 
 Los importes que se han de informar en este módulo se corresponderán tanto con el riesgo asumido por la entidad como con el gestionado por cuenta de terceros en los que el acreedor sea una persona jurídica distinta de un agente observado residente en un Estado miembro informador.
+
+> Se modifica el apartado 1 por la norma única.4 de la Circular de 17 de marzo de 2023. Ref. BOE-A-2023-7662
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
 
 > Se modifica el apartado 7, párrafo segundo por la norma única.e) de la Circular 1/2020, de 28 de enero. Ref. BOE-A-2020-1653
 

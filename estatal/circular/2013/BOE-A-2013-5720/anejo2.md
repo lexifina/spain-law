@@ -1,176 +1,376 @@
 ## ANEJO 2
 
-## INSTRUCCIONES PARA ELABORAR LOS MÓDULOS DE DATOS
+## Instrucciones para elaborar los módulos de datos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16028.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16143.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16176.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16290.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16366.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16401.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16518.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16591.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16624.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16737.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16811.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16864.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16978.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_13.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17067.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_14.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17118.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_15.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17250.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_16.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17324.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_17.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17359.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_18.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17473.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_19.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17546.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_20.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17579.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_21.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17693.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_22.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17770.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_23.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17804.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_24.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17918.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_25.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17992.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_26.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_27.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18141.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_28.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18217.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_29.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18250.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_30.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18363.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_31.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18436.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_32.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18470.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_33.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18585.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_34.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18669.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_35.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18711.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_36.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18834.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_37.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18908.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_38.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18944.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_39.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19059.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_40.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19132.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_41.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19165.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_42.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19309.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_43.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19423.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_44.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19459.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_45.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19574.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_46.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19647.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_47.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19680.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_48.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19794.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_49.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19871.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_50.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19909.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_51.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20026.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_52.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20099.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_53.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20132.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_54.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20247.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_55.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20323.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_56.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20357.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_57.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20472.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_58.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20546.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_59.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20581.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_60.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20696.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_61.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20772.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_62.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20805.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_63.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20918.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_64.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20992.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_65.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21027.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_66.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21142.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_67.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21216.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_68.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21249.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_69.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21446.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_70.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21520.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_71.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21554.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_72.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21669.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_73.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21742.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_74.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21776.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_75.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21889.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_76.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21963.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_77.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21998.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_78.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22114.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_79.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22187.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_80.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22220.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_81.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22334.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_82.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22408.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_83.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22443.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_84.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22557.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_85.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_86.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_87.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_88.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_89.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_90.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_91.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_92.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_93.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/72/7662_12976654_94.png)
+
+> Téngase en cuenta que esta actualización del Anejo 2, establecida por la norma única.11 de la Circular de 17 de marzo de 2023, Ref. BOE-A-2023-7662, entra en vigor el 1 de julio de 2023, según determina su disposición final única.
+
+> Redacción anterior:
+
+> ANEJO 2
+
+> INSTRUCCIONES PARA ELABORAR LOS MÓDULOS DE DATOS
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16028.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16143.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16176.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16290.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16366.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16401.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16518.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16591.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16624.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16737.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16811.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16864.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_16978.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17067.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17118.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17250.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17324.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17359.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17473.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17546.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17579.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17693.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17770.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17804.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17918.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_17992.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18026.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18141.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18217.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18250.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18363.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18436.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18470.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18585.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18669.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18711.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18834.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18908.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_18944.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19059.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19132.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19165.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19309.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19423.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19459.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19574.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19647.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19680.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19794.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19871.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_19909.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20026.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20099.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20132.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20247.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20323.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20357.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20472.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20546.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20581.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20696.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20772.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20805.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20918.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_20992.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21027.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21142.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21216.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21249.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21446.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21520.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21554.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21669.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21742.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21776.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21889.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21963.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_21998.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22114.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22187.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22220.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22334.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22408.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22443.png)
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/26/01352_22557.png)
+
+> Se sustituye por el que se incluye como Anejo 2 según establece la norma única.11 de la Circular de 17 de marzo de 2023. Ref. BOE-A-2023-7662
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
 
 > Se sustituye por el que se incluye como Anejo 2 según establece la norma 1.h) de la Circular 1/2021, de 28 de enero. Ref. BOE-A-2021-1352
 

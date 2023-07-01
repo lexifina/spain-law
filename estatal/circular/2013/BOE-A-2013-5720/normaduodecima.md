@@ -1,22 +1,48 @@
 ## Norma duodécima. Información prudencial complementaria.
 
-A) Datos contables de los préstamos a personas jurídicas:
+A) Datos contables de los préstamos.
 
-1. El módulo H.1, Datos contables de los préstamos a personas jurídicas, se declarará para informar sobre datos contables de los préstamos a personas jurídicas o entidades sin personalidad jurídica.
+1. El módulo H.1, Datos contables de los préstamos, se declarará para informar sobre datos contables de los préstamos.
 
-Los importes que se han de informar, en su caso, serán exclusivamente los que correspondan al riesgo asumido por la entidad.
+Los importes que se han informar, en su caso, serán exclusivamente los que correspondan al riesgo asumido por la entidad.
 
-B) Datos sobre el riesgo de las personas jurídicas que sean contrapartes en préstamos:
+B) Datos sobre el riesgo de las personas jurídicas que sean contrapartes en préstamos.
 
-2. El módulo H.2, Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas, se enviará para informar sobre la probabilidad de impago (default) de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR.
+2. El módulo H.2, Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas, se enviará para informar sobre la probabilidad de impago (default) de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR, excepto para aquellos titulares de riesgo indirecto que intervengan en la operación en calidad de tercero comprometido a pagar importes en una operación de arrendamiento financiero.
 
 Este módulo lo enviarán las entidades exclusivamente cuando estimen dicha probabilidad para las contrapartes conforme a los artículos 160, 163, 179 y 180 del Reglamento (UE) n.º 575/2013.
 
-C) Datos sobre la situación de impago de las personas jurídicas que sean contrapartes en préstamos:
+C) Datos sobre la situación de impago de las personas jurídicas que sean contrapartes en préstamos.
 
-3. El módulo H.3, Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas, se enviará para informar sobre la situación de impago de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR.
+3. El módulo H.3, Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas, se enviará para informar sobre la situación de impago de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR, excepto para aquellos titulares de riesgo indirecto que intervengan en la operación en calidad de tercero comprometido a pagar importes en una operación de arrendamiento financiero.
 
 En este módulo se declararán exclusivamente las contrapartes para las que la entidad haya determinado su situación de impago en base a sus obligaciones totales conforme al artículo 178 del Reglamento (UE) n.º 575/2013.
+
+> Téngase en cuenta que esta actualización, establecida por la norma única.6 de la Circular de 17 de marzo de 2023, Ref. BOE-A-2023-7662, entra en vigor el 1 de julio de 2023, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "A) Datos contables de los préstamos a personas jurídicas:
+
+> 1. El módulo H.1, Datos contables de los préstamos a personas jurídicas, se declarará para informar sobre datos contables de los préstamos a personas jurídicas o entidades sin personalidad jurídica.
+
+> Los importes que se han de informar, en su caso, serán exclusivamente los que correspondan al riesgo asumido por la entidad.
+
+> B) Datos sobre el riesgo de las personas jurídicas que sean contrapartes en préstamos:
+
+> 2. El módulo H.2, Datos sobre el riesgo de los titulares de los préstamos que sean personas jurídicas, se enviará para informar sobre la probabilidad de impago (default) de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR.
+
+> Este módulo lo enviarán las entidades exclusivamente cuando estimen dicha probabilidad para las contrapartes conforme a los artículos 160, 163, 179 y 180 del Reglamento (UE) n.º 575/2013.
+
+> C) Datos sobre la situación de impago de las personas jurídicas que sean contrapartes en préstamos:
+
+> 3. El módulo H.3, Datos sobre la situación de impago (default) de los titulares de riesgo de los préstamos que sean personas jurídicas, se enviará para informar sobre la situación de impago de las personas jurídicas y entidades sin personalidad jurídica que sean titulares de riesgo directo e indirecto de los préstamos declarados a la CIR.
+
+> En este módulo se declararán exclusivamente las contrapartes para las que la entidad haya determinado su situación de impago en base a sus obligaciones totales conforme al artículo 178 del Reglamento (UE) n.º 575/2013."
+
+> Se modifica por la norma única.6 de la Circular de 17 de marzo de 2023. Ref. BOE-A-2023-7662
+
+> Esta modificación entra en vigor el 1 de julio de 2023, según establece la disposición final única de la citada Circular.
 
 > Se añade por la norma única.11 de la Circular de 30 de junio de 2017. Ref. BOE-A-2017-7985
 
