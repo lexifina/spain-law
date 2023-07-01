@@ -58,7 +58,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14277.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14310.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/14775_14310.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2021/150/14775_14345.png)
 
@@ -73,6 +73,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14514.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2020/308/14775_14549.png)
+
+> Se incluye, con efectos desde el 1 de julio de 2023, una nueva clave(AJ) y denominacion (Ajuste del margen de beneficio) dentro del apartado 1.2, L2_EMI – Tipo de Facturas Emitidas, por el art. 2 de la Orden HFP/381/2023, de 26 de abril. Ref. BOE-A-2023-9634
 
 > Se incluye una nueva clave de régimen especial en la tabla L 3.1 por el art. 4 de la Orden HAC/646/2021, de 22 de junio. Ref. BOE-A-2021-10509
 
