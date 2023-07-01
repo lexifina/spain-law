@@ -43,6 +43,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 22](a2-4.md)
 - [Sección 7](s7.md)
 - [Artículo 23](a2-5.md)
+- [Sección 7 bis](s7-2.md)
+- [Artículo 23 bis](a2-12.md)
 - [Sección 8](s8.md)
 - [Artículo 24](a2-6.md)
 - [Sección 9](s9.md)
