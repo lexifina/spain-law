@@ -1,0 +1,5 @@
+## Disposición transitoria única. Equipos, aparatos y soportes materiales de reproducción adquiridos con anterioridad a la entrada en vigor de este real decreto.
+
+1. A los equipos, aparatos y soportes materiales de reproducción adquiridos con anterioridad a la fecha de entrada en vigor de este real decreto y que sean comercializados con posterioridad a dicha fecha, les resultará de aplicación el importe previsto en la disposición transitoria segunda apartado 1 del Real Decreto-ley 12/2017, de 3 de julio, siempre que esta circunstancia sea acreditable de manera individualizada mediante los correspondientes documentos y facturas de adquisición, venta y entrega. Quedan excluidos de esta regla los fabricantes en tanto actúen como distribuidores y los adquirentes de equipos, aparatos y soportes materiales fuera del territorio español con destino a su distribución comercial en este, quienes se sujetarán al artículo 25, apartado 6, letra a), del texto refundido de la Ley de Propiedad Intelectual.
+
+2. Lo previsto en el apartado anterior será aplicable únicamente durante los treinta días naturales siguientes a la entrada en vigor del presente real decreto.
