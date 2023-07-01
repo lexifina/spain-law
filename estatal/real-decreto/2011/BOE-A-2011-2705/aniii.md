@@ -74,6 +74,26 @@ Sorgo: contenido en proteínas, taninos y materia seca en variedades forrajeras.
 
 Pasto del Sudán e híbridos de Sorgo por Pasto del Sudán: contenido en materia seca.
 
+No obstante lo dispuesto en los párrafos anteriores, en lo que se refiere al valor agronómico o de utilización, las variedades ecológicas adecuadas para la producción ecológica, que pertenecen a las especies de maíz, pueden optar por cumplir en su lugar las condiciones siguientes.
+
+El examen de cultivo y uso se llevará a cabo en condiciones ecológicas de conformidad con lo dispuesto en el Reglamento (UE) 2018/848 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018, sobre producción ecológica y etiquetado de los productos ecológicos y por el que se deroga el Reglamento (CE) n.º 834/2007 del Consejo y, en concreto, con los principios generales del artículo 5, letras d), e), f), y g), y con las normas de producción vegetal del artículo 12.
+
+Se tendrán en cuenta las necesidades y objetivos específicos de la agricultura ecológica al examinar las variedades y al evaluar los resultados de los exámenes. Se examinarán la resistencia o la tolerancia a las enfermedades y la adaptación a distintas condiciones edafológicas y climáticas locales.
+
+Cuando los ensayos de valor agronómico o de utilización no puedan realizarse en condiciones ecológicas, o el examen de determinadas características no pueda realizarse en condiciones ecológicas, incluida la propensión a enfermedades, las pruebas podrán hacerse con arreglo a uno de los siguientes puntos:
+
+a) En los locales de los obtentores ecológicos o en explotaciones ecológicas bajo la supervisión de los técnicos de la Oficina Española de Variedades Vegetales (OEVV).
+
+b) En condiciones de bajos insumos y con tratamientos mínimos.
+
+c) En otro Estado miembro, si se acuerda con la autoridad competente del mismo llevar a cabo las pruebas en condiciones ecológicas.
+
+Se considerará que el valor agronómico o de utilización de una variedad es satisfactorio si, al compararla con otras variedades ecológicas adecuadas para la producción ecológica admitidas en el Registro de Variedades Comerciales, representase, por el conjunto de sus cualidades, al menos para la producción en una región determinada, una clara mejora, bien para el cultivo, bien para la explotación de las cosechas o el uso de productos derivados de ellas. Se considerarán especialmente valiosas para estos exámenes las características superiores para la producción agrícola y de producción de alimentos y piensos que presenten ventajas para la agricultura ecológica.
+
+La OEVV facilitará distintas condiciones de examen adaptadas a las necesidades específicas de la agricultura ecológica y, cuando se disponga de métodos reproducibles y a petición del solicitante, examinará en la medida en que se capacidad lo permita rasgos y características específicos.
+
+> Téngase en cuenta que esta actualización del apartado 5, que añade los últimos 6 párrafos, estalecida por el art. único.3 de la Orden APA/380/2023, de 4 de abril. Ref. BOE-A-2023-9625, entra en vigor el 1 de julio de 2023, según determina su disposición final 2.
+
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
 Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2023, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
@@ -89,23 +109,37 @@ Especies que cumplen con los protocolos de examen de la OCVV (1):
 
 (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
-> Téngase en cuenta que esta actualización del apartado 6, establecida por el art. único.3 de la Orden APA/1141/2022, de 17 de noviembre. Ref. BOE-A-2022-19561, entra en vigor el 1 de enero de 2023, según determina su disposición final 2.
+Para las variedades ecológicas de la especie maíz, en cuanto a la homogeneidad, se observarán y describirán todos los caracteres del protocolo y las directrices que tiene asignado en este apartado.
 
-> Redacción anterior:
+No obstante lo dispuesto en el párrafo anterior, en lo que se refiere a la homogeneidad, las variedades ecológicas de la especie citada, pueden optar por cumplir en lugar de las condiciones del protocolo asignado las condiciones enumeradas a continuación.
 
-> "6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
+Se aplicará a los caracteres enumerados en el apartado “Excepción a los protocolos técnicos” lo siguiente:
 
-> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2022, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Dichos caracteres podrán ser evaluados de forma menos estricta, sin embargo, el nivel de homogeneidad dentro de la variedad será similar al nivel de homogeneidad de variedades comparables, comúnmente conocidas en la Unión.
 
-> Especies que cumplen con los protocolos de examen de la OCVV(1):
+Excepción a los protocolos técnicos:
 
-> | Nombre científico | Denominación común | Protocolo |
-> | --- | --- | --- |
-> | Zea mays L. (partim). | Maíz. | TP 2/3 de 11.03.2010. |
-> | Sorghum bicolor (L.) Moench. Subsp. bicolor. | Sorgo. | TP 122/1 de 19.3.2019. |
-> | Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse. | Pasto del Sudán. | TP 122/1 de 19.3.2019. |
-> | Sorghum bicolor (L.) Moench subsp. Bicolor × Sorghum bicolor (L.) Moench. Subsp. drummondii (Steud.) de Wet ex Davidse. | Híbridos resultantes del cruce entre Sorghum bicolor subsp. Bicolor y Sorghum bicolor subsp. drummondii. | TP 122/1 de 19.3.2019. |
-> | (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu)." |
+Maíz: En el caso de las variedades pertenecientes a la especie maíz (Zea mays L.), las siguientes características DHE del protocolo de la OCVV CPVO-TP/002/3 de la variedad examinada pueden apartarse de los siguientes requisitos DHE de homogeneidad:
+
+| Carácter | Descripción |
+| --- | --- |
+| OCVV n.º 1. | Primera hoja: coloración de antocianina de la vaina. |
+| OCVV n.º 2. | Primera hoja: forma del ápice. |
+| OCVV n.º 8. | Inflorescencia masculina: coloración de antocianina de las glumas excepto la base. |
+| OCVV n.º 9. | Inflorescencia masculina: coloración de antocianina de las anteras. |
+| OCVV n.º 10. | Inflorescencia masculina: ángulo entre el eje principal y las ramas laterales. |
+| OCVV n.º 11. | Inflorescencia masculina: curvatura de las ramas laterales. |
+| OCVV n.º 15. | Tallo: coloración de antocianina de las raíces adventicias. |
+| OCVV n.º 16. | Inflorescencia masculina: densidad de las espiguillas. |
+| OCVV n.º 17. | Hoja: coloración de antocianina de la vaina. |
+| OCVV n.º 18. | Tallo: coloración de antocianina de los entrenudos. |
+| OCVV n.º 19. | Inflorescencia masculina: longitud del eje principal por encima de la rama lateral más baja. |
+| OCVV n.º 20. | Inflorescencia masculina: longitud del eje principal por encima de la rama lateral más alta. |
+| OCVV n.º 21. | Inflorescencia masculina: longitud de la rama lateral. |
+
+> Téngase en cuenta que esta actualización del apartado 6, que añade los últimos 5 párrafos, estalecida por el art. único.4 de la Orden APA/380/2023, de 4 de abril. Ref. BOE-A-2023-9625, entra en vigor el 1 de julio de 2023, según determina su disposición final 2.
+
+> Se modifican los apartados 5 y 6, con efectos de 1 de julio de 2023, por el art. único.1 y 2 de la Orden APA/380/2023, de 4 de abril. Ref. BOE-A-2023-9625
 
 > Se modifica el apartado 6, con efectos de 1 de enero de 2023, por el art. único.3 de la Orden APA/1141/2022, de 17 de noviembre. Ref. BOE-A-2022-19561
 
