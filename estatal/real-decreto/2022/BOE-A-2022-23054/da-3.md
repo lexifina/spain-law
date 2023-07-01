@@ -22,7 +22,7 @@ i) En el Registro Nacional de Organizaciones de Productores y de Asociaciones de
 
 j) En el Registro estatal de organizaciones y asociaciones de organizaciones de productores de tabaco crudo contemplado en el Real Decreto 969/2014, de 21 de noviembre, por el que se regula el reconocimiento de las organizaciones de productores, la extensión de las normas, las relaciones contractuales y la comunicación de información en el sector del tabaco crudo.
 
-k) (Suprimido)
+k) En el Registro nacional de organizaciones y asociaciones de organizaciones de productores de leche regulado en el Real Decreto 95/2019, de 1 de marzo.
 
 l) En el Registro nacional de organizaciones y asociaciones de organizaciones de productores previsto en el Real Decreto 541/2016, de 25 de noviembre, por el que se regula el reconocimiento de las organizaciones de productores y sus asociaciones en el sector cunícola.
 
@@ -55,5 +55,3 @@ x) Los datos del Real Decreto 760/2021, de 31 de agosto, por el que se aprueba l
 y) Los datos relativos a espacios protegidos definidos y regulados por la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad.
 
 Cualquier alta, baja o modificación se realizará según lo establecido en la normativa citada.
-
-> Se suprime el apartado k) por la disposición final 9.2 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-9

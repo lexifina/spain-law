@@ -1,0 +1,5 @@
+## Disposición final séptima. Habilitación de aplicación.
+
+1. Se faculta al Ministro de Agricultura, Pesca y Alimentación a desarrollar mediante orden el contenido necesario del REA y del CUE que deba actualizarse en el sistema informático central del Ministerio de Agricultura, Pesca y Alimentación mencionado en los artículos 6.5 y 9.2 y el alcance y la cronología para la integración de los conjuntos de datos previstos en los registros dela disposición adicional tercera en el SIEX conforme al artículo 4, sin perjuicio de que la referida orden pueda remitir a una resolución del Secretario General de Agricultura y Alimentación en que se especifiquen detalles técnicos que no conlleven la imposición de nuevas obligaciones de comunicación a los titulares de las explotaciones agrarias y empresas conexas ni afecte a su estatuto jurídico de otro modo.
+
+2. Se faculta a la persona titular de la Secretaría General de Agricultura y Alimentación, para desarrollar mediante resolución los aspectos técnicos e informáticos, así como de seguridad de la información, de las interfaces a las que se hace referencia en los artículos 5.2 y 10.3.
