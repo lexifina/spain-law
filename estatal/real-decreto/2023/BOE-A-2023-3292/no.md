@@ -1,0 +1,1 @@
+Téngase en cuenta que se declara el fin de la vigencia del uso obligatorio de las mascarillas contemplado en el presente Real Decreto por Acuerdo del Consejo de Ministros de 4 de julio de 2023, por el que se declara la finalización de la situación de crisis sanitaria ocasionada por la COVID-19, publicado por Orden SND/726/2023, de 4 de julio. Ref. BOE-A-2023-15552
