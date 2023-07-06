@@ -1,158 +1,191 @@
 ## ANEXO V
 
-## CONJUNTO DE DATOS DEL INFORME DE RESULTADOS DE PRUEBAS DE LABORATORIO
+## Informe clínico de atención primaria
 
-| Variable | Formato | Valores | Aclaraciones | CM/R5 |
-| --- | --- | --- | --- | --- |
+| Variable | Formato | Fuente | Valores | Comentarios | CM/R |
+| --- | --- | --- | --- | --- | --- |
 | DATOS DEL DOCUMENTO |
-| Tipo de documento | Texto | Informe de Resultados de Pruebas de Laboratorio |  | CM |
-| Fecha de firma | dd/mm/aaaa | Libre | Es común a ambos pies del informe | CM |
-| Nombre Responsable 1 | Texto | Libre (nombre+2 apellidos) |  | CM |
-| Categorías profesional 1 | Texto | Médico Residente |  | CM |
-|  |  | Facultativo Especialista de Área | Es parte del primer pie de firma del informe |  |
-|  |  | Farmacéutico Residente |  |  |
-|  |  | Biólogo Residente |  |  |
-|  |  | Jefe de Sección |  |  |
-|  |  | Jefe de Servicio |  |  |
-|  |  | Texto libre |  |  |
-| Nombre Responsable 2 | Texto | Libre (nombre+2 apellidos) |  | CM |
-| Categorías profesional 2 | Texto | Facultativo Especialista de Área |  | CM |
-|  |  | Jefe de Sección | Es parte del segundo pie de firma, que suele supervisar al primer firmante |  |
-|  |  | Jefe de Servicio |  |  |
-|  |  | Texto libre |  |  |
-| Servicio | Texto | Análisis Clínicos | RD 1277/2003 y normativa en vigor en cada momento | CM |
-|  |  | Anatomía Patológica |  |  |
-|  |  | Bioquímica Clínica |  |  |
-|  |  | Hematología y Hemoterapia |  |  |
-|  |  | Genética |  |  |
-|  |  | Inmunología |  |  |
-|  |  | Microbiología y parasitología |  |  |
-| Unidad | Texto | Libre |  | CM |
+| Tipo de documento. | TEXTO LIBRE. | CMDIC. | Tipos de informes listados en el anexo I de este real decreto. |  | CM |
+| Fecha de inicio de periodo. | FECHA. |  |  | Fecha en la que se inicia el periodo de seguimiento referido en el informe. | R |
+| Fecha de fin de periodo. | FECHA. |  |  | Fecha en la que finaliza el periodo de seguimiento referido en el informe. | R |
+| Fecha y hora de firma. | FECHA-HORA. |  |  |  | CM |
+| Datos del (de los) profesional/es responsable/s. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. Podrán ir en el pie de página. | CM |
+| ● Nombre del profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad asistencial responsable. | TEXTO LIBRE. |  |  |  | R |
+| ● Área de gestión clínica. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DE LA INSTITUCIÓN EMISORA |
-| Denominación del Servicio de Salud | Texto + Logo | SAS. Servicio Andaluz de Salud. |  | CM |
-|  |  | SALUD. Servicio Aragonés de Salud |  |  |
-|  |  | SESPA. Servicio de Salud del Principado de Asturias. Servicio Canario de Salud |  |  |
-|  |  | SCS. Servicio Cántabro de Salud. |  |  |
-|  |  | SESCAM. Servicio de Salud de Castilla-La Mancha |  |  |
-|  |  | SACyL .Gerencia Regional de Salud de Castilla y León. |  |  |
-|  |  | DdS-GC. Departament de Salut de la Generalitat de Catalunya |  |  |
-|  |  | SES. Servicio Extremeño de Salud. |  |  |
-|  |  | SERGAS. Servizo Galego de Saúde. |  |  |
-|  |  | INGESA. Instituto Nadonal de Gestión Sanitaria. |  |  |
-|  |  | IB-SALUT. Servicio de Salud de Illes Balears. |  |  |
-|  |  | RIOJASALUD. Servicio Riojano de Salud. |  |  |
-|  |  | Servicio Madrileño de Salud. |  |  |
-|  |  | Servicio Murciano de Salud |  |  |
-|  |  | SNS-O. Servicio Navarro de Salud-OSASUNBIDEA. |  |  |
-|  |  | Agència Valenciana de Salut |  |  |
-|  |  | OSAKIDETZA-Servicio Vasco de Salud. |  |  |
-| Denominación del provisor de servicios. | Texto + Logo | Libre |  | R |
-| Denominación del Centro | Texto + Logo | CNH y posteriormente RECESS cuando esté disponible + texto Libre | Existirá un campo adicional de texto libre para aquellos centros no recogidos en el inventario en vigor por ser de reciente apertura | CM |
-| Dirección del Centro |  |  |  |
-| Tipo de Vía | Texto | CNH y posteriormente RECESS cuando esté disponible + texto libre | CM |
-| Nombre de vía | Texto | CM |
-| Número de vía | Texto | CM |
-| Código Postal | Texto | CM |
-| Municipio | Texto | CM |
-| Provincia | Texto | CM |
-| País | Texto | CM |
-| Teléfono | Texto | CM |
-| Dirección Web/Correo electrónico | Texto | Libre | Se incluirá la dirección Web sólo si contiene información de interés para el ususario | R |
+| Datos de la Institución emisora. | Se consignará la información existente en el Registro General de centros, servicios y establecimientos sanitarios (REGCESS). | CM |
+| Servicio de Salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de Servicios. | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos de contacto del centro. |  | CM |
+| Dirección del centro. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | NÚMERO. |  |  |  | CM |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Dirección Web. | URL. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Teléfono. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DEL PACIENTE |
-| Nombre | Texto | Dato que figure en la BD de la TSI de la CA |  | CM |
-| Primer Apellido | Texto | CM |
-| Segundo Apellido | Texto | CM |
-| Fecha nacimiento | dd/mm/aaaa | CM |
-| Sexo | Texto | H/M | CM |
-| DNI/T. Residencia/Pasaporte | Texto |  | R |
-| NASS | Texto | CM |
-| CIP de C. Autónoma | Texto | CM |
-| Código SNS | Texto | R |
-| CIP Europeo | Texto | Se reserva este espacio en previsión de que, en el futuro, exista un código europeo/internacional de identificación | R |
-| N.º Historia Clínica | Texto | Libre |  | CM |
-| N.º Cama/N.º Consulta | Texto | Libre |  | R |
-| DATOS DEL SOLICITANTE |
-| Denominación del Servicio de Salud | Texto + Logo | SAS. Servicio Andaluz de Salud. |  | CM |
-|  |  | SALUD. Servicio Aragonés de Salud |  |  |
-|  |  | SESPA. Servicio de Salud del Principado de Asturias. Servicio Canario de Salud |  |  |
-|  |  | SCS. Servicio Cántabro de Salud. |  |  |
-|  |  | SESCAM. Servicio de Salud de Castilla-La Mancha |  |  |
-|  |  | SACyL .Gerencia Regional de Salud de Castilla y León. |  |  |
-|  |  | DdS-GC. Departament de Salut de la Generalitat de Catalunya |  |  |
-|  |  | SES. Servicio Extremeño de Salud. |  |  |
-|  |  | SERGAS. Servizo Galego de Saúde. |  |  |
-|  |  | INGESA. Instituto Nadonal de Gestión Sanitaria. |  |  |
-|  |  | IB-SALUT. Servicio de Salud de Illes Balears. |  |  |
-|  |  | RIOJASALUD. Servicio Riojano de Salud. |  |  |
-|  |  | Servicio Madrileño de Salud. |  |  |
-|  |  | Servicio Murciano de Salud |  |  |
-|  |  | SNS-O. Servicio Navarro de Salud-OSASUNBIDEA. |  |  |
-|  |  | Agència Valenciana de Salut |  |  |
-|  |  | OSAKIDETZA-Servicio Vasco de Salud. |  |  |
-| Denominación del provisor de servicios | Texto + Logo | Libre |  | R |
-| Denominación del Centro | Texto + Logo | CNH6 y posteriormente RECESS7 cuando esté disponible + texto libre | Existirá un campo adicional de texto libre para aquellos centros no recogidos en el inventado en vigor por ser de reciente apertura | CM |
-| Servicio | Texto | Según normativa en vigor en cada momento | Actualmente clasificación de Servicios del CMBD/SIFCO | CM |
-| Unidad | Texto | Libre |  | CM |
-| Nombre del solicitante | Texto | Libre (nombre + 2 apellidos) |  | CM |
-| Categoría profesional | Texto | Médico Residente |  | CM |
-|  |  | Facultativo Especialista de Área |  |  |
-|  |  | Jefe de Sección |  |  |
-|  |  | Jefe de Servicio |  |  |
-|  |  | Médico de Familia |  |  |
-|  |  | Pediatra de AP |  |  |
-|  |  | Texto libre |  |  |
+| Datos del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Nombre. | TEXTO LIBRE. |  |  |  | CM |
+| Primer apellido. | TEXTO LIBRE. |  |  |  | CM |
+| Segundo apellido. | TEXTO LIBRE. |  |  |  | R |
+| Fecha de nacimiento. | FECHA. |  |  |  | CM |
+| Sexo. | TEXTO LIBRE. |  |  |  | CM |
+| Identificadores del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Tipo de documento de identificación. | TEXTO LIBRE. |  |  |  | CM |
+| Número de documento. | TEXTO LIBRE. |  |  |  | CM |
+| Número de afiliado a la Seguridad Social (NASS). | TEXTO LIBRE. |  |  |  | R |
+| Código de Identificación Personal Autonómico (CIP-AUT). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal SNS (CIP-SNS). | TEXTO LIBRE. |  |  |  | CM |
+| CIP-europeo. | TEXTO LIBRE. |  |  |  | R |
+| Historia clínica. | TEXTO LIBRE. |  |  |  | R |
+| Datos del contacto del paciente. |  | CM |
+| Domicilio. |  |  |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Portal. | TEXTO LIBRE. |  |  |  | R |
+| ○ Piso. | TEXTO LIBRE. |  |  |  | R |
+| ○ Letra. | TEXTO LIBRE. |  |  |  | R |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Teléfono móvil. | TEXTO LIBRE. |  |  |  | R |
+| Otros teléfonos. | TEXTO LIBRE. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Centro de Atención Primaria. |  |  |  |  | R |
+| ● Centro de Atención Primaria. | TEXTO CODIFICADO. | REGCESS. |  |  | R |
+| ● Teléfono. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| ● Correo electrónico. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| Datos sociales del paciente. |
+| Cuidador principal. |  | R |
+| ○ Nombre y apellidos. | TEXTO LIBRE. |  |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| ○ Relación con el paciente. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| Tutor legal. |  | R |
+| ○ Nombre y apellidos. | TEXTO LIBRE. |  |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| Contacto de emergencia. |  | R |
+| ● Nombre y apellidos. | TEXTO LIBRE. |  |  |  | CM |
+| ● Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| ● Relación con el paciente. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
 | DATOS DEL PROCESO ASISTENCIAL |
-| DATOS DE LA MUESTRA |  |  |  |  |
-| Fecha de toma de muestra | dd/mm/aaaa | Libre |  | CM |
-| Número de muestra | Texto | Libre |  | CM |
-| Tipo de muestra | Texto + Código | Libre |  | CM |
-|  |  | Bioquímica: LOINC |  | R |
-|  |  | Hematología: LOINC |
-|  |  | Inmunología: LOINC |
-|  |  | Genética: LOINC |
-|  |  | Microbiología: Vocabulario local a partir de LOINC |
-|  |  | A. Patológica Sn:med-CT |
-| Grupo de determinación | Texto | Bioquímica general | Bioquímica General: | CM |
-|  |  | Sistemático orina | • Metabolitos (ej. glucosa, urea, creatinina, etc.) |  |
-|  |  | Hormonas | • Enzimas (AST, ALT, LDH, etc.) |  |
-|  |  | Marcadores tumorales | • Iones (Na, K, Cl, Ca, P, Mg, etc.) |  |
-|  |  | Niveles de fármacos y tóxicos | • Otras proteínas (Marcadores cardíacos, etc.) |  |
-|  |  | Gasometría Hematología | • Líquido Biológicos |  |
-|  |  | Hemostasia (Coagulación) | • Espermiogramas y estudios semen |  |
-|  |  | Hemoterapia | • Estudios en heces |  |
-|  |  | Hematología-Coagulación: Pruebas especiales | • Elementos traza (Cu, Se, etc.) |  |
-|  |  | Inmunología - Alergia | • Proteínas (Transferrína, Ceruloplasmina, Complemento, etc.) |  |
-|  |  | Microbiología Genética | • Electroferesis de proteínas |  |
-|  |  | Anatomía Patológica - Biopsias | • Inmunofijación/Inmunosubstracción |  |
-|  |  | Anatomía Patológica. Citologías | • Inmunoglobinas y Cadenas ligeras |  |
-|  |  |  | Sistemático orina: |  |
-|  |  |  | • Urianálisis |  |
-|  |  |  | • Sedimento |  |
-|  |  |  | Hormonas: |  |
-|  |  |  | • Hormonas |  |
-|  |  |  | • Vitaminas |  |
-|  |  |  | • Otros inmunoensayos relacionados (ej PAPPA) |  |
-|  |  |  | Marcadores tumorales: |  |
-|  |  |  | • Marcadores tumorales séricos |  |
-|  |  |  | • Patología Molecular enfermedades neoplásicas hemotológicas |  |
-|  |  |  | • Patología Molecular enfermedades neoplásicas, tumores sólidos Niveles de fármacos y tóxicos: • Monitorización de Fármacos • Detección Drogas de abuso • Detección de otros tóxicos (metales pesados, tóxicos laborales, etc.) • Farmacogenómica Gasometría Hematología: • Hematimetría manual y automatizada (incluye el Hemograma, el diferencial leucocitario automatizado y manual, la morfología eritrocitaria, la VSG, la viscosidad plasmática, etc.) Hemostasia (coagulación): • Pruebas de Hemostasia básicas (Tiempo de Protrombina, Tiempo de Tromboplastina Pardal Activada y Fibrinógeno) Hemoterapia: • Estudios de Inmunohematología (detección de Anticuerpos irregulares) • Pruebas de compatibilidad transfusional Hematoloqía-Coagulación: Pruebas especiales: • Citoquímica, Citometría, Citogenética y Biología Molecular de sangre periférica y médula ósea (incluye todos los marcadores diagnósticos) • Aspirado medular y Biopsia de Médula Ósea (incluye todos los estudios de médula ósea) • Estudios de Eritropatología • Pruebas para estudio de Diátesis Hemorrágicas • Pruebas para estudio de Trombosis • Biología Molecular de alteraciones congénitas o adquiridas de la Hemostasia Inmunología-Alergia: • Autoinmunidad • Inmunoquímica • Histocompatibilidad • Inmunobiología • Microbiología: • Bacteriología • Virología • Parasitología |  |
-|  |  |  | • Micología • Serología infecciosa • Biología molecular infecciosa Genética: • Citogenética • Patología/Genética molecular Anatomía Patológica-Biopsias • Biopsias y piezas quirúrgicas • Inmunohistoquímica • Anatomía Patológica molecular • Microscopía electrónica • Citometría de flujo |  |
-|  |  |  | Anatomía Patológica-Citologías: • Citologías y PAAF • Inmunocitoquímica • Anatomía Patológica molecular • Microscopía electrónica • Colometría de flujo |  |
-| Modelo TIPO A |  |  | Este modelo puede recoger todos aquellos resultados de pruebas diagnósticas que se expresan con una denominación de determinación, un resultado (generalmente expresado en cifras), las unidades de medida utilizadas y un rango de valores de referencia que se toman como estándar de normalidad. |  |
-| Determinación | Texto | Libre |  | CM |
-| Resultado | Texto | Libre |  | CM |
-| Unidades | Texto | Libre |  | CM |
-| Rango | Texto | Libre |  | CM |
-| Comentarios | Texto | Libre |  | R |
-| Modelo TIPO B |  |  | Este modelo puede recoger todos aquellos resultados de pruebas diagnósticas que requieran una descripción y una conclusión en texto libre. Ej. Estudio de médula ósea. |  |
-| Determinación | Texto | Libre |  | CM |
-| Técnica | Texto |  |  | CM |
-| Descripción | Texto | Libre |  | CM |
-| Conclusión | Texto + | Libre |  | CM |
-|  | Código | SNOMED |  | R |
+| Datos del episodio. |  | CM |
+| Motivo de consulta. | TEXTO CODIFICADO. | SNOMED CT. CIE 10 ES. |  |  | CM |
+| Antecedentes personales. | Se consignará sólo la información que se considere necesaria para el informe. El orden de las diferentes subsecciones será flexible, primando siempre la lógica clínica y legibilidad del informe. | CM |
+| Enfermedades previas. |  |  | CM |
+| ● Enfermedad. | TEXTO CODIFICADO. | CIE. SNOMED CT. |  |  | CM |
+| ● Edad de inicio. | TEXTO LIBRE. |  |  |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Año de inicio. | TEXTO LIBRE. |  |  |  | R |
+| Antecedentes neonatales. | TEXTO CODIFICADO. | CIE. SNOMED CT. |  |  | R |
+| Antecedentes obstétricos. | TEXTO CODIFICADO. | CIE. SNOMED CT. |  |  | R |
+| Antecedentes quirúrgicos. |  |  | CM |
+| ● Procedimiento. | TEXTO CODIFICADO. | CIE PCS. SNOMED CT. |  |  | CM |
+| ● Edad en momento procedimiento. | TEXTO LIBRE. |  |  |  | R |
+| ● Fecha del procedimiento. | FECHA. |  |  |  | R |
+| ● Año del procedimiento. | TEXTO LIBRE. |  |  |  | R |
+| Dispositivos médicos. |  |  | CM |
+| ● Dispositivo médico. | TEXTO CODIFICADO. | EMDN. SNOMED CT. |  |  | CM |
+| ● Fecha implantación. | FECHA. |  |  |  | R |
+| ● Fecha de retirada. | FECHA. |  |  |  | R |
+| ● Identificador del dispositivo. | TEXTO LIBRE. |  |  |  | R |
+| Vacunaciones e inmunizaciones. |  |  | CM |
+| ● Vacuna/Inmunización. | TEXTO CODIFICADO. | SNOMED CT. |  |  | CM |
+| ● Fecha administración. | FECHA. |  |  |  | CM |
+| ● Nombre comercial. | TEXTO CODIFICADO. | Nomenclátor. SNOMED CT. |  |  | R |
+| ● Lote. | TEXTO LIBRE. |  |  |  | R |
+| Alergias e intolerancias. |  |  | CM |
+| ● Tipo de reacción. | TEXTO CODIFICADO. | eHDSI. | eHDSIAdverseEventType. |  | CM |
+| ● Agente causal. | TEXTO CODIFICADO. | SNOMED CT. |  |  | CM |
+| ● Manifestación clínica. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | R |
+| ● Gravedad. | TEXTO CODIFICADO. | eHDSI. | eHDSISeverity. |  | R |
+| ● Criticidad. | TEXTO CODIFICADO. | eHDSI. | eHDSICriticality. |  | R |
+| ● Nivel de certeza. | TEXTO CODIFICADO. | eHDSI. | eHDSICertainty. |  | R |
+| ● Estado. | TEXTO CODIFICADO. | eHDSI. | eHDSIStatusCode. |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Fecha de fin. | FECHA. |  |  |  | R |
+| Hábitos tóxicos. |  |  | R |
+| ● Sustancia. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Dosis. | TEXTO LIBRE. |  |  |  | R |
+| ● Edad de inicio del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de inicio del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Edad de fin del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de fin del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Patrón del consumo. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| Hábitos no saludables. |  |  | R |
+| ● Hábito no saludable. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Edad de inicio. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de inicio. | TEXTO LIBRE. |  |  |  | R |
+| ● Edad de fin. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de fin. | TEXTO LIBRE. |  |  |  | R |
+| Situación funcional. |  |  | R |
+| ● Escalas. |  |  | R |
+| ● Escala. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Resultado. | TEXTO LIBRE. |  |  |  | R |
+| ● Interpretación. | TEXTO LIBRE. |  |  |  | R |
+| ● Situación funcional. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| Antecedentes familiares. |  |  | R |
+| ● Antecedente familiar. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | R |
+| ● Grado de parentesco. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Edad de inicio. | TEXTO LIBRE. |  |  |  | R |
+| Antecedentes sociales. |  |  | R |
+| ● Antecedente social. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Fecha de fin. | FECHA. |  |  |  | R |
+| Antecedentes profesionales. |  |  | R |
+| ● Antecedente profesional. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Fecha de fin. | FECHA. |  |  |  | R |
+| Enfermedad actual. |  | R |
+| Exploración física. | TEXTO LIBRE. |  |  |  | R |
+| Hallazgos. | TEXTO LIBRE. |  |  |  | R |
+| Signos vitales. | Se podrán añadir más variables si se estima oportuno. | R |
+| ○ Presión arterial sistólica. | TEXTO LIBRE. |  |  |  | R |
+| ○ Presión arterial diastólica. | TEXTO LIBRE. |  |  |  | R |
+| ○ Frecuencia cardiaca. | TEXTO LIBRE. |  |  |  | R |
+| ○ Frecuencia respiratoria. | TEXTO LIBRE. |  |  |  | R |
+| ○ Temperatura. | TEXTO LIBRE. |  |  |  | R |
+| ○ Saturación O2. | TEXTO LIBRE. |  |  |  | R |
+| Pruebas complementarias. | R |
+| ○ Resumen pruebas complementarias. | TEXTO LIBRE. |  |  |  | R |
+| ○ Pruebas de laboratorio. | TEXTO LIBRE. |  |  |  | R |
+| ○ Pruebas de imagen. | TEXTO LIBRE. |  |  |  | R |
+| ○ Otras pruebas. | TEXTO LIBRE. |  |  |  | R |
+| Evolución y comentarios. | TEXTO LIBRE. |  |  |  | R |
+| Resumen de episodios atendidos. | TEXTO CODIFICADO. | SNOMED CT. CIE. CIAP. |  |  | R |
+| Diagnósticos. | TEXTO CODIFICADO. | SNOMED CT. CIE. CIAP. |  |  | R |
+| Procedimientos realizados. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | R |
+| Tratamiento y recomendaciones. |
+| Medicamentos. |  | La información de esta sección procederá preferentemente de los sistemas de prescripción. | CM |
+| ● Fármaco. | TEXTO CODIFICADO. | Nomenclátor. |  | Denominación del/los principio/s activo/s . | CM |
+| ● Fecha inicio tratamiento. | FECHA. |  |  |  | CM |
+| ● Fecha fin de tratamiento. | FECHA. |  |  |  | CM |
+| ● Vía de administración. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Dosis del medicamento. | TEXTO CODIFICADO. | EDQM Nomenclátor. |  | El contenido de principio activo, expresado en cantidad por unidad de toma, por unidad de volumen o de peso en función de la presentación Ej: 500 mg (por comprimido); 1mg/ml; 10mg/g . | R |
+| ● Nombre comercial. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Posología. | TEXTO LIBRE. |  |  | Ej: 1 comprimido cada 8 horas durante 1 mes. | CM |
+| Fórmulas magistrales. |  | La información de esta sección procederá preferentemente de los sistemas de prescripción. | R |
+| ● Fórmula magistral. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Fecha inicio tratamiento. | FECHA. |  |  |  | R |
+| ● Fecha fin de tratamiento. | FECHA. |  |  |  | R |
+| ● Vía de administración. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Dosis. | TEXTO LIBRE. |  |  |  | R |
+| ● Frecuencia de las tomas. | TEXTO LIBRE. |  |  |  | R |
+| Tratamiento no farmacológico. | TEXTO LIBRE. |  |  |  | CM |
+| Recomendaciones. | TEXTO LIBRE. |  |  |  | CM |
 
-5 Se puede clasificar cada campo según se considere que su presencia en esencial (aunque la cumplimentación del valor no sea obligatoria) y por ello debo formar parte del conjunto mínimo del SNS (CM) o por el contrario es aconsejable su presencia pero no imprescindible como parte del conjunto mínimo de datos (R).
-
-6 CNH: Catálogo Nacional de Hospitales.
-
-7 RECESS: Registro General de Establecimientos, Centros y Servicios Sanitarios del MSPS.
+> Se sustituye por el art. único.10 del Real Decreto 572/2023, de 4 de julio. Ref. BOE-A-2023-15551

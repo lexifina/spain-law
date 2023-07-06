@@ -1,74 +1,98 @@
 ## ANEXO VII
 
-## CONJUNTO DE DATOS DEL INFORME DE CUIDADOS DE ENFERMERÍA
+## Informe de resultados de pruebas de imagen
 
-| Variable | Formato | Valores | Aclaraciones | CM/R 11 |
-| --- | --- | --- | --- | --- |
+| Variable | Formato | Fuente | Valores | Comentarios | CM/R |
+| --- | --- | --- | --- | --- | --- |
 | DATOS DEL DOCUMENTO |
-| Tipo de documento | Texto | Informe de Cuidados de Enfermería |  | CM |
-| Fecha de firma | dd/mm/aaaa | Libre | Es común a ambos pies de firma del informe | CM |
-| Fecha Valoración de Enfermería | dd/mm/aaaa | Libre |  | CM |
-| Fecha Alta de Enfermería/Fecha de Derivación Enfermera | dd/mm/aaaa | Libre |  | CM |
-| Enfermera Responsable 1 | Texto | Libre (nombre+2 apellidos) | Es parte del primer pie de firma del informe | CM |
-| Categoría profesional Enfermera Responsable 1 | Texto | Enfermera Enfermera Especialista Enfermera Residente (EIR) | CM |
-| Enfermera Responsable 2 | Texto | Libre (nombre+2 apellidos) | Es parte del segundo pie de firma, que suele supervisar al primer firmante | CM |
-| Categoría profesional Enfermera Responsable 2 | Texto | Enfermera Enfermera Especialista | CM |
-| Dispositivo Asistencial | Texto | Centro de Salud Hospital Urgencias Hospitalarias Urgencias Extrahospitalanas Centro Sociosanitario Otros |  | CM |
+| Tipo de documento. | TEXTO LIBRE. | CMDIC. | Tipos de informes listados en el anexo I de este real decreto. |  | CM |
+| Fecha y hora de petición. | FECHA-HORA. |  |  |  | R |
+| Fecha y hora de firma. | FECHA-HORA. |  |  |  | CM |
+| Datos del (de los) profesional/es responsable/s. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. Podrán ir en el pie de página. | CM |
+| ● Nombre responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad asistencial responsable. | TEXTO LIBRE. |  |  |  | R |
+| ● Área de gestión clínica. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DE LA INSTITUCIÓN EMISORA |
-| Denominación del Servicio de Salud | Texto + Logo | SAS. Servicio Andaluz de Salud. SALUD. Servicio Aragonés de Salud SESPA. Servicio de Salud del Principado de Asturias. Servicio Canario de Salud SCS. Servicio Cántabro de Salud. SESCAM. Servicio de Salud de Castilla-La Mancha. SACyL .Gerencia Regional de Salud de Castilla y León. DdS-GC. Departament de Salut de la Generalitat de Catalunya SES. Servicio Extremeño de Salud. SERGAS. Servizo Galego de Saúde. INGESA. Instituto Nacional de Gestión Sanitaria. IB-SALUT. Servicio de Salud de Illes Balears. RIOJASALUD. Servicio Riojano de Salud. Servicio Madrileño de Salud. Servicio Murciano de Salud SNS-O. Servicio Navarro de Salud-OSASUNBIDEA. Agència Valenciana de Salut OSAKIDETZA-Servicio Vasco de Salud. |  | CM |
-| Denominación del provisor de servicios | Texto + Logo | Libre |  | R |
-| Denominación del Centro | Texto + Logo | CNH12 para Centros de Atención Especializada, Inventario para Centros de Primaria y posteriormente RECESS13 cuando esté disponible + texto libre | Existirá un campo adicional de texto libre para aquellos centros no recogidos en el inventario en vigor por ser de reciente apertura | CM |
-| Dirección del Centro |  |  |  |
-| Tipo de vía | Texto | CNH y posteriormente RECESS cuando esté disponible+texto libre | CM |
-| Nombre de la vía | Texto | CM |
-| Número de la vía | Texto | CM |
-| Código Postal | Texto | CM |
-| Municipio | Texto | CM |
-| Provincia | Texto | CM |
-| País | Texto | CM |
-| Teléfono | Texto | CM |
-| Dirección Web/Correo electrónico | Texto | Libre | Se incluirá la dirección Web sólo si contiene información de interés para el usuario | R |
+| Datos de la institución emisora. | Se consignará la información existente en el Registro General de centros, servicios y establecimientos sanitarios (REGCESS). | CM |
+| Servicio de salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de servicios. |  | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. |  | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos de contacto del centro. |  | CM |
+| Dirección del centro. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | NÚMERO. |  |  |  | CM |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Dirección web. | URL. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Teléfono. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DEL PACIENTE |
-| Nombre | Texto | Dato que figure en la BD de la TSI de la CA |  | CM |
-| Primer Apellido | Texto | CM |
-| Segundo Apellido | Texto | CM |
-| Fecha nacimiento | dd/mm/aaaa | CM |
-| Sexo | Texto | H/M | CM |
-| DNI/T. Residencia/Pasaporte | Texto |  | R |
-| NASS | Texto | CM |
-| CIP de C Autónoma | Texto | CM |
-| Código SNS | Texto | R |
-| CIP Europeo | Texto | Se reserva este espacio en previsión de que, en el futuro, exista un código europeo/intemacional de identificación. | R |
-| N.° Historia Clínica | Texto | Libre |  | CM |
-| Domicilio |  |  |  |
-| Tipo de vía | Texto | Dato que figure en la BD de la TSI de la CA | CM |
-| Nombre de la vía | Texto | CM |
-| Número de la vía | Texto | CM |
-| Piso | Texto | CM |
-| Letra | Texto | CM |
-| Código Postal | Texto | CM |
-| Municipio | Texto | CM |
-| Provincia | Texto | CM |
-| Teléfono | Texto | Dato que figure en la BD de la TSI de la CA+texto libre | Existirá texto libre para añadir un segundo número de teléfono | R |
-| Persona de Referencia | Texto | Libre (nombre + 2 apellidos) | Se trata de la persona que representa los intereses del paciente. | CM |
-| Teléfono de Referencia | Texto | Libre |  | CM |
+| Datos del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). |  |
+| Nombre. | TEXTO LIBRE. |  |  |  | CM |
+| Primer apellido. | TEXTO LIBRE. |  |  |  | CM |
+| Segundo apellido. | TEXTO LIBRE. |  |  |  | R |
+| Fecha de nacimiento. | FECHA. |  |  |  | CM |
+| Sexo. | TEXTO LIBRE. |  |  |  | CM |
+| Identificadores del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). |  |
+| Tipo de documento de identificación. | TEXTO LIBRE. |  |  |  | CM |
+| Número de documento. | TEXTO LIBRE. |  |  |  | CM |
+| Número de afiliado a la Seguridad Social (NASS). | TEXTO LIBRE. |  |  |  | R |
+| Código de Identificación Personal Autonómico (CIP-AUT). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal SNS (CIP-SNS). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal europeo (CIP europeo). | TEXTO LIBRE. |  |  |  | R |
+| Número de historia clínica. | TEXTO LIBRE. |  |  |  | R |
+| Datos de contacto del paciente. |  | CM |
+| Domicilio. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Portal. | TEXTO LIBRE. |  |  |  | R |
+| ○ Piso. | TEXTO LIBRE. |  |  |  | R |
+| ○ Letra. | TEXTO LIBRE. |  |  |  | R |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Teléfono móvil. | TEXTO LIBRE. |  |  |  | R |
+| Otros teléfonos. | TEXTO LIBRE. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Centro de atención primaria. |  |  | R |
+| ○ Centro de atención primaria. | TEXTO CODIFICADO. | REGCESS. |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| ○ Correo electrónico. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| DATOS DEL SOLICITANTE |
+| Datos de la institución solicitante. | Aplicando el criterio de legibilidad del informe, no se duplicará información. Por ejemplo, en el caso de que la institución solicitante sea la misma que la emisora, podrá obviarse, aunque esté marcada como CM. | CM |
+| Servicio de salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de servicios. |  | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. |  | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos del solicitante. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. | CM |
+| ● Nombre del responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio solicitante. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad solicitante. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DEL PROCESO ASISTENCIAL |
-| Causas que generan la actuación enfermera | Texto | Libre |  | CM |
-| Motivo de Alta/Derivación Enfermera | Texto | Ingreso Traslado a domicilio Traslado de Servicio Traslado a centro hospitalario Traslado a un centro sociosanitano Alta voluntaria Fallecimiento Otros |  | CM |
-| Antecedentes y entorno | Texto | Libre | Destacar solamente la información relevante | CM |
-| Enfermedades Previas Intervenciones quirúrgicas Tratamientos farmacológicos Alergias Actuaciones preventivas (1) Factores personales, familiares, sociales, culturales y laborales destacables (2). | Texto | Libre | (1) Vacunaciones y su estado (2) El conjunto de factores reseñados se refiere a aquellos elementos (personales, familiares, sociales o profesionales) que, formando parte de su entorno, pueden influir o condicionar la evolución de su estado de salud. Tienen cabida también aquellos acontecimientos puntuales (pérdida de familiar, evento laboral,...) que puedan influir en su respuesta ante diferentes situaciones de salud. | R |
-| Diagnósticos Enfermeros resueltos | Texto + código | Literal NANDA + Código NANDA | Se trata de destacar aquellos diagnósticos, ya resueltos, que puedan resultar de interés para prever posteriores apariciones | CM R |
-| Protocolos asistenciales en los que está incluido | Texto | Libre | Tienen cabida todos los procesos asistenciales y programas de salud en los que se encuentre incluido, tanto programas preventivos como de seguimiento, rehabilitación o educación sanitaria entre otros. Así como la relación de problemas interdependientes y/o de colaboración si fuera el caso. | CM |
-| Valoración activa | Texto | Libre |  | CM |
-| Modelo de referencia utilizado Resultados destacables | Texto | Libre | Deberá reflejarse la información relativa a la valoración enfermera más reciente. Se recomienda especificar otras escalas o tests aplicados y ajenos al modelo utilizado en la valoración general. | CM CM |
-| Diagnósticos Enfermeros activos | Texto + código | Literal NANDA + Código NANDA | Aquellos diagnósticos presentes en el momento de la elaboración del informe, tanto reales como potenciales | CM R |
-| Resultados de Enfermería | Texto + código | Literal NOC + Código NOC | Aquellos resultados seleccionados para identificar la evolución del paciente, como resultado de las intervenciones planificadas | CM R |
-| Intervenciones de Enfermería | Texto + código | Literal NIC + Código NIC | Las intervenciones que se están llevando a cabo en el momento de elaboración del informe | CM R |
-| Cuidador principal | Texto | Libre (nombre + 2 apellidos) + Vinculación con el usuario | Deberá indicarse tanto el nombre como la relación que tiene con él (familiar, cuidador externo...) | CM R |
-| Información complementaria/Observaciones | Texto | Libre | Puede incluirse información relativa a la presencia de catéteres, prótesis, dietas especiales, así como destacar algún aspecto de especial relevancia relativo a la aplicación de las intervenciones activas. | R |
+| Información clínica. | TEXTO LIBRE. |  |  |  | CM |
+| Exploración realizada. | TEXTO CODIFICADO. | SNOMED CT. SERAM. SEMNIM. |  | La opción preferente es consignar información codificada, pero se aceptará excepcionalmente el uso de texto libre bajo circunstancias convenientemente justificadas. Se consignarán tantas exploraciones como sea necesario. En caso de haber más de una, la etiqueta de la variable será «Exploraciones realizadas». Cardinalidad [1..n]. | CM |
+| Fecha y hora de exploración. | FECHA-HORA. |  |  |  | CM |
+| Descripción de la exploración. | TEXTO LIBRE. |  |  | Se consignarán los detalles relevantes de la exploración, incluyendo posibles complicaciones durante el procedimiento. | R |
+| Datos dosimétricos. | TEXTO LIBRE. | SEFM. |  |  | R |
+| Trazabilidad de productos radioactivos utilizados. | TEXTO LIBRE. |  |  |  | R |
+| Hallazgos. | TEXTO LIBRE. |  |  |  | CM |
+| Diagnósticos. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  | La opción preferente es consignar información codificada, pero se aceptará excepcionalmente el uso de texto libre bajo circunstancias convenientemente justificadas. Se consignarán tantos diagnósticos como sea necesario. Cardinalidad [1..n]. | CM |
+| Recomendaciones. | TEXTO LIBRE. |  |  |  | R |
+| Imágenes relevantes. | IMAGEN. |  |  | Cardinalidad [0..n]. | R |
 
-11 Se puede clasificar cada campo según se considere que su presencia es esencial (aunque la cumplimentación del valor no sea obligatoria) y por ello debo formar parte del conjunto mínimo del SNS (CM) o por el contrario es aconsejable su presencia pero no imprescindible como parte del conjunto mínimo de datos (R).
-
-12 CNH: Catálogo Nacional de Hospitales.
-
-13 RECESS: Registro General de Establecimientos, Centros y Servicios Sanitarios del MSPS.
+> Se sustituye por el art. único.12 del Real Decreto 572/2023, de 4 de julio. Ref. BOE-A-2023-15551

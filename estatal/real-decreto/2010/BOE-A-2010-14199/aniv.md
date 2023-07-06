@@ -1,71 +1,214 @@
 ## ANEXO IV
 
-## CONJUNTO DE DATOS DEL INFORME CLÍNICO DE ATENCIÓN PRIMARIA
+## Informe clínico de urgencias
 
-| Variable | Formato | Valores | Aclaraciones | CM/R4 |
-| --- | --- | --- | --- | --- |
+| Variable | Formato | Fuente | Valores | Comentarios | CM/R |
+| --- | --- | --- | --- | --- | --- |
 | DATOS DEL DOCUMENTO |
-| Tipo de documento | Texto | Informe Clínico de Atención Primaria |  | CM |
-| Fecha de firma | dd/mm/aaaa | Libre | Fecha en la cual se emite el informe. Es común a ambos pies de firma. | CM |
-| Fecha inicio periodo | dd/mm/aaaa | Libre | Fecha en la que se inicia el periodo de seguimiento en el que se inscriben los diferentes episodios y actuaciones que se describen. | CM |
-| Fecha fin periodo | dd/mm/aaaa | Libre | Fecha en la que finaliza el periodo de seguimiento en el que se inscriben los diferentes episodios y actuaciones que se describen. | CM |
-| Nombre Responsable 1 | Texto | Libre (nombre + 2 apellidos) | Es parte del primer pie de firma del informe. | CM |
-| Categoría profesional 1 | Texto | Médico Residente Médico de Familia Pediatra de AP Texto Libre | CM |
-| Nombre Responsable 2 | Texto | Libre (nombre + 2 apellidos) | Es parte del segundo pie de firma, que suele supervisar el primer firmante. | CM |
-| Categoría responsable 2 | Texto | Médico de Familia Pediatra de AP Texto Libre | CM |
+| Tipo de documento. | TEXTO LIBRE. | CMDIC. | Tipos de informes listados en el anexo I de este real decreto. |  | CM |
+| Fecha y hora de ingreso. | FECHA-HORA. |  |  |  | CM |
+| Fecha y hora de activación del recurso. | FECHA-HORA. |  |  |  | R |
+| Fecha y hora de alta. | FECHA-HORA. |  |  |  | CM |
+| Fecha y hora de firma. | FECHA-HORA. |  |  |  | CM |
+| Datos del (de los) profesional/es responsable/s. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. Podrán ir en el pie de página. | CM |
+| ● Nombre responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad asistencial responsable. | TEXTO LIBRE. |  |  |  | R |
+| ● Área de gestión clínica. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DE LA INSTITUCIÓN EMISORA |
-| Denominación del Servicio de Salud | Texto + logo | SAS. Servicio Andaluz de Salud. SALUD. Servicio Aragonés de Salud. SESPA. Servicio de Salud del Principado de Asturias. Servicio Canario de Salud. SCS. Servicio Cántabro de Salud. SESCAM. Servicio de Salud de Castilla-La Mancha. SACyL .Gerencia Regional de Salud de Castilla y León. DdS-GC. Departament de Salut de la Generalitat de Catalunya. SES. Servicio Extremeño de Salud. SERGAS. Servizo Galego de Saúde. INGESA. Instituto Nacional de Gestión Sanitaria. IB-SALUT. Servicio de Salud de Illes Balears. RIOJASALUD. Servicio Riojano de Salud. Servicio Madrileño de Salud. Servicio Murciano de Salud. SNS-O. Servicio Navarro de Salud-OSASUNBIDEA. Agència Valenciana de Salut. OSAKIDETZA-Servicio Vasco de Salud. |  | CM |
-| Denominación del provisor de servicios | Texto +logo | Libre |  | R |
-| Denominación del Centro | Texto + Logo | Inventario de Centros de Atención Primaria y posteriormente RECESS cuando esté disponible + texto libre | Existirá un campo adicional de texto libre para aquellos centros no recogidos en el inventario en vigor por ser de reciente apertura. | CM |
-| Dirección del Centro |  |  |  |
-| Tipo de vía | Texto | Inventario de Centros de Atención Primaria y posteriormente RECESS cuando esté disponible + texto libre | CM |
-| Nombre de la vía | Texto | CM |
-| Número de la vía | Texto | CM |
-| Piso | Texto | CM |
-| Letra | Texto | CM |
-| Código Postal | Texto | CM |
-| Municipio | Texto | CM |
-| Provincia | Texto | CM |
-| País | Texto | CM |
-| Teléfono | Texto | CM |
-| Dirección Web/Correo Electrónico | Texto | Libre | Se incluirá la dirección Web sólo si contiene información de interés para el usuario. | R |
-| DATOS DEL USUARIO/PACIENTE |
-| Nombre | Texto | Dato que figure en BD de la TSI de la CA |  | CM |
-| Primer Apellido | Texto | CM |
-| Segundo Apellido | Texto | CM |
-| Fecha de nacimiento | dd/mm/aaaa | CM |
-| Sexo | Texto | H/M | CM |
-| DNI/T.Residencia/Pasaporte | Texto |  | R |
-| NASS | Texto | CM |
-| CIP de la C. Autónoma | Texto | CM |
-| Código SNS | Texto | R |
-| CIP Europeo |  |  | Se reserva este espacio en previsión de que en el futuro, exista un código europeo/internacional de identificación. | R |
-| N.º Historia Clínica | Texto | Libre |  | CM |
-| Domicilio |  |  |  |  |
-| Tipo de vía | Texto | Dato que figure en la BD de TSI de la CA |  | CM |
-| Nombre de la vía | Texto | CM |
-| Número de la vía | Texto | CM |
-| Piso | Texto | CM |
-| Letra | Texto | CM |
-| Código Postal | Texto | CM |
-| Municipio | Texto | CM |
-| Provincia | Texto | CM |
-| País | Texto |  |
-| Teléfono | Texto | R |
-| Persona de Referencia | Texto | Libre (nombre + 2 apellidos) | Se trata de la persona que representa los intereses del paciente. | R |
-| Teléfono de Referencia | Texto | Libre |  | R |
-| DATOS DE SALUD |
-| Antecedentes | Texto | Libre | Se recomienda su clasificación en subapartados. | CM |
-| Enfermedades familiares hereditarias Enfermedades previas Antecedentes neonatales, obstétricos y quirúrgicos Alergias Hábitos tóxicos Actuaciones preventivas (1) Medicación previa Situación funcional (2) Antecedentes sociales y profesionales |  |  | (1) Vacunaciones infantiles, del adulto, quimioprofilaxis realizadas, etc. (2) Se refiere a la valoración del impacto funcional de los problemas activos o enfermedades y se podrán utilizar una o varias escalas (Escalas de dependencia, clasificación funcional de la insuficiencia cardíaca, valoraciones del grado de demencia, escalas de calidad de vida, etc.). | R |
-| Resumen pruebas complementarias | Texto | Libre |  | CM |
-| Laboratorio Imagen Otras pruebas | Texto | Libre | Se recomienda la clasificación en subapartados. | R |
-| Resumen de Episodios Atendidos | Texto + código | Libre Código CIE 9 MC/CIE 10/CIAP2 definida/SNOMED-CT | Los sistemas de codificación serán sustituidos por versiones posteriores si así se acordara en el Consejo Interterritorial del SNS. | CM R |
-| Evolución y comentarios | Texto | Libre | Se pueden realizar comentarios del seguimiento evolutivo. También es el lugar adecuado para describir reacciones adversas a fármacos utilizados o describir complicaciones evolutivas de la/las enfermedades, realizar valoraciones diagnósticas o comentarios adicionales. | CM |
-| Diagnósticos | Texto + código | Libre Código CIE 9 MC/CIE 10/CIAP2 definida/SNOMED-CT | Los sistemas de codificación serán sustituidos por versiones posteriores si así se acordara en el Consejo Interterritorial del SNS. | CM R |
-| Procedimientos | Texto + código | Libre Código CIE 9 MC/CIE 10/CIAP2 definida/SNOMED-CT | Los sistemas de codificación serán sustituidos por versiones posteriores si así se acordara en el Consejo Interterritorial del SNS. | CM R |
-| Tratamiento | Texto | Libre | Se refiera al último tratamiento que esté activo. | CM |
-| Recomendaciones | Texto | Libre | Se trata de recomendaciones terapéuticas que no incluyen fármacos (oxigenoterapia, dieta, reposo o limitaciones de esfuerzo físico, etc.). | R |
-| Fármacos | Texto +código | Libre (Especialidad+principio activo+ dosis/unidad+ n.º unidades/dosis+ intervalo de dosis+ vía administración+ duración) nomenclator oficial MSPS (código nacional)/Snomed- CT | Prescripciones activas al final del período de seguimiento. En la medida en que la implantación de las aplicaciones informáticas de HCE, que incluyen módulos de prescripción lo permitan, el texto libre, será reemplazado progresivamente por el vocabulario del catálogo de medicamentos autorizados (Nomenclator Oficial/ Snomed-CT). | CM R |
-| Otras Recomendaciones | Texto | Libre | Se refiere a los planes de actuación previstos que no son propiamente medidas terapéuticas. Por ejemplo: fecha de próxima cita, conveniencia de una nueva revisión, petición de pruebas, etc... | R |
+| Datos de la institución emisora. | Se consignará la información existente en el Registro General de centros, servicios y establecimientos sanitarios (REGCESS). | CM |
+| Servicio de salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de servicios. |  | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. |  | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos de contacto del centro. |  | CM |
+| Dirección del centro. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | NÚMERO. |  |  |  | CM |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Dirección web. | URL. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| DATOS DEL PACIENTE |
+| Datos del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Nombre. | TEXTO LIBRE. |  |  |  | CM |
+| Primer apellido. | TEXTO LIBRE. |  |  |  | CM |
+| Segundo apellido. | TEXTO LIBRE. |  |  |  | R |
+| Fecha de nacimiento. | FECHA. |  |  |  | CM |
+| Sexo. | TEXTO LIBRE. |  |  |  | CM |
+| Identificadores del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Tipo de documento de identificación. | TEXTO LIBRE. |  |  |  | CM |
+| Número de documento. | TEXTO LIBRE. |  |  |  | CM |
+| Número de afiliado a la Seguridad Social (NASS). | TEXTO LIBRE. |  |  |  | R |
+| Código de Identificación Personal Autonómico (CIP-AUT). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal SNS (CIP-SNS). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal europeo (CIP europeo). | TEXTO LIBRE. |  |  |  | R |
+| Número de historia clínica. | TEXTO LIBRE. |  |  |  | R |
+| Datos de contacto del paciente. |  | CM |
+| Domicilio. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Portal. | TEXTO LIBRE. |  |  |  | R |
+| ○ Piso. | TEXTO LIBRE. |  |  |  | R |
+| ○ Letra. | TEXTO LIBRE. |  |  |  | R |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Teléfono móvil. | TEXTO LIBRE. |  |  |  | R |
+| Otros teléfonos. | TEXTO LIBRE. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Centro de atención primaria. |  |  | R |
+| ○ Centro de atención primaria. | TEXTO CODIFICADO. | REGCESS. |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| ○ Correo electrónico. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| Datos sociales del paciente. |  | R |
+| Cuidador principal. |  |  | R |
+| ○ Nombre y apellidos. | TEXTO LIBRE. |  |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| ○ Relación con el paciente. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| Tutor legal. |  |  | R |
+| ○ Nombre y apellidos. | TEXTO LIBRE. |  |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| Contacto de emergencia. |  |  | R |
+| ○ Nombre y apellidos. | TEXTO LIBRE. |  |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| ○ Relación con el paciente. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| DATOS DEL PROCESO ASISTENCIAL |
+| Datos del episodio. |  | CM |
+| Procedencia. | TEXTO CODIFICADO. | CMBD. |  |  | R |
+| Tipo de consulta. | TEXTO CODIFICADO. | CMBD. |  |  | R |
+| Motivo de consulta. | TEXTO CODIFICADO. | CIE. SNOMED CT. |  |  | CM |
+| Motivo de alta. | TEXTO CODIFICADO. | CMBD. |  |  | CM |
+| Antecedentes personales. | El orden de las diferentes subsecciones será flexible, primando siempre la lógica clínica y legibilidad del informe. | CM |
+| Enfermedades previas. |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). | CM |
+| ● Enfermedad. | TEXTO CODIFICADO. | CIE. SNOMED CT. |  |  | CM |
+| ● Edad de inicio. | TEXTO LIBRE. |  |  |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Año de inicio. | TEXTO LIBRE. |  |  |  | R |
+| Antecedentes neonatales. | TEXTO CODIFICADO. | CIE. SNOMED CT. |  | Se consignarán tantos antecedentes como se considere oportuno. Cardinalidad [0..n]. | R |
+| Antecedentes obstétricos. | TEXTO CODIFICADO. | CIE. SNOMED CT. |  | Se consignarán tantos antecedentes como se considere oportuno. Cardinalidad [0..n]. | R |
+| Antecedentes quirúrgicos. |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). | CM |
+| ● Procedimiento. | TEXTO CODIFICADO. | CIE PCS. SNOMED CT. |  |  | CM |
+| ● Edad en momento procedimiento. | TEXTO LIBRE. |  |  |  | R |
+| ● Fecha del procedimiento. | FECHA. |  |  |  | R |
+| ● Año del procedimiento. | TEXTO LIBRE. |  |  |  | R |
+| Dispositivos médicos. |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). | CM |
+| ● Dispositivo médico. | TEXTO CODIFICADO. | EMDN. SNOMED CT. |  |  | CM |
+| ● Fecha implantación. | FECHA. |  |  |  | R |
+| ● Fecha de retirada. | FECHA. |  |  |  | R |
+| ● Identificador del dispositivo. | TEXTO LIBRE. |  |  |  | R |
+| Vacunaciones e inmunizaciones. |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). | CM |
+| ● Vacuna/ Inmunización. | TEXTO CODIFICADO. | SNOMED CT. |  |  | CM |
+| ● Fecha administración. | FECHA. |  |  |  | CM |
+| ● Nombre comercial. | TEXTO CODIFICADO. | Nomenclátor. SNOMED CT. |  |  | R |
+| ● Lote. | TEXTO LIBRE. |  |  |  | R |
+| Alergias e intolerancias. |  |  | CM |
+| ● Tipo de reacción. | TEXTO CODIFICADO. | eHDSI. | eHDSIAdverseEventType. |  | CM |
+| ● Agente causal. | TEXTO CODIFICADO. | SNOMED CT. |  |  | CM |
+| ● Manifestación clínica. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | R |
+| ● Gravedad. | TEXTO CODIFICADO. | eHDSI. | eHDSISeverity. |  | R |
+| ● Criticidad. |  | eHDSI. | eHDSICriticality. |  | R |
+| ● Nivel de certeza. | TEXTO CODIFICADO. | eHDSI. | eHDSICertainty. |  | R |
+| ● Estado. | TEXTO CODIFICADO. | eHDSI. | eHDSIStatusCode. |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Fecha de fin. | FECHA. |  |  |  | R |
+| Hábitos tóxicos. |  |  | R |
+| ● Sustancia. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Dosis. | TEXTO LIBRE. |  |  |  | R |
+| ● Edad de inicio del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de inicio del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Edad de fin del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de fin del consumo. | TEXTO LIBRE. |  |  |  | R |
+| ● Patrón del consumo. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| Hábitos no saludables. |  |  | R |
+| ● Hábito no saludable. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Edad de inicio. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de inicio. | TEXTO LIBRE. |  |  |  | R |
+| ● Edad de fin. | TEXTO LIBRE. |  |  |  | R |
+| ● Año de fin. | TEXTO LIBRE. |  |  |  | R |
+| Situación funcional. |  |  | R |
+| ● Escalas. |  |  | R |
+| ● Escala. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Resultado. | TEXTO LIBRE. |  |  |  | R |
+| ● Interpretación. | TEXTO LIBRE. |  |  |  | R |
+| ● Situación funcional. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| Antecedentes familiares. |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). | CM |
+| ● Antecedente familiar. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | CM |
+| ● Grado de parentesco. | TEXTO CODIFICADO. | SNOMED CT. |  |  | CM |
+| ● Edad de inicio. | TEXTO LIBRE. |  |  |  | R |
+| Antecedentes sociales. |  |  | R |
+| ● Antecedente social. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Fecha de fin. | FECHA. |  |  |  | R |
+| Antecedentes profesionales. |  |  | R |
+| ● Antecedente profesional. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | R |
+| ● Fecha de inicio. | FECHA. |  |  |  | R |
+| ● Fecha de fin. | FECHA. |  |  |  | R |
+| Tratamiento previo al ingreso. |  | CM |
+| Medicamentos. |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). La información de esta sección procederá preferentemente de los sistemas de prescripción. | CM |
+| ● Fármaco. | TEXTO CODIFICADO. | Nomenclátor. |  | Denominación del/los principio/s activo/s | CM |
+| ● Fecha inicio tratamiento. | FECHA. |  |  |  | CM |
+| ● Fecha fin de tratamiento. | FECHA. |  |  |  | R |
+| ● Vía de administración. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Dosis del medicamento. | TEXTO CODIFICADO. | EDQM Nomenclátor. |  | El contenido de principio activo, expresado en cantidad por unidad de toma, por unidad de volumen o de peso en función de la presentación Ej: 500 mg (por comprimido); 1mg/ml; 10mg/g | CM |
+| ● Nombre comercial. | TEXTO CODIFICADO. | Nomenclátor. |  | Nombre del medicamento | R |
+| ● Posología. | TEXTO LIBRE. |  |  | Ej: 1 comprimido cada 8 horas durante 1 mes | CM |
+| Fórmulas magistrales. |  | La información de esta sección procederá preferentemente de los sistemas de prescripción. | R |
+| ● Fórmula magistral. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Fecha inicio tratamiento. | FECHA. |  |  |  | R |
+| ● Fecha fin de tratamiento. | FECHA. |  |  |  | R |
+| ● Vía de administración. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Dosis. | TEXTO LIBRE. |  |  |  | R |
+| ● Frecuencia de las tomas. | TEXTO LIBRE. |  |  |  | R |
+| Enfermedad actual. |  | CM |
+| Historia actual. | TEXTO LIBRE. |  |  |  | CM |
+| Exploración física. | TEXTO LIBRE. |  |  |  | CM |
+| Signos vitales. | Se consignarán más variables si se estima oportuno. | R |
+| ○ Fecha y hora de registro. | FECHA-HORA. |  |  |  | R |
+| ○ Presión arterial sistólica. | TEXTO LIBRE. |  |  |  | R |
+| ○ Presión arterial diastólica. | TEXTO LIBRE. |  |  |  | R |
+| ○ Frecuencia cardiaca. | TEXTO LIBRE. |  |  |  | R |
+| ○ Frecuencia respiratoria. | TEXTO LIBRE. |  |  |  | R |
+| ○ Temperatura. | TEXTO LIBRE. |  |  |  | R |
+| ○ Saturación O2. | TEXTO LIBRE. |  |  |  | R |
+| ○ Glucemia. | TEXTO LIBRE. |  |  |  | R |
+| Pruebas complementarias. |  | R |
+| ○ Pruebas de laboratorio. | TEXTO LIBRE. |  |  |  | R |
+| ○ Pruebas de imagen. | TEXTO LIBRE. |  |  |  | R |
+| ○ Otras pruebas. | TEXTO LIBRE. |  |  |  | R |
+| Evolución y comentarios. | TEXTO LIBRE. |  |  |  | CM |
+| Diagnóstico principal. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  |  | CM |
+| Otros diagnósticos. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  | Cardinalidad [0..n]. | R |
+| Procedimientos realizados. | TEXTO CODIFICADO. | SNOMED CT. CIE CPS. |  |  | CM |
+| Tratamiento al alta. |  | CM |
+| Tratamiento farmacológico. |  | CM |
+| Medicamentos. |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). La información de esta sección procederá preferentemente de los sistemas de prescripción. | CM |
+| ● Fármaco. | TEXTO CODIFICADO. | Nomenclátor. |  | Denominación del/los principio/s activo/s | CM |
+| ● Fecha inicio tratamiento. | FECHA. |  |  |  | CM |
+| ● Fecha fin de tratamiento. | FECHA. |  |  |  | R |
+| ● Vía de administración. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Dosis del medicamento. | TEXTO CODIFICADO. | EDQM Nomenclátor. |  | El contenido de principio activo, expresado en cantidad por unidad de toma, por unidad de volumen o de peso en función de la presentación Ej: 500 mg (por comprimido); 1mg/ml; 10mg/g | CM |
+| ● Nombre comercial. | TEXTO CODIFICADO. | Nomenclátor. |  | Nombre del medicamento | R |
+| ● Posología. | TEXTO LIBRE. |  |  | Ej: 1 comprimido cada 8 horas durante 1 mes | CM |
+| Fórmulas magistrales. |  | La información de esta sección procederá preferentemente de los sistemas de prescripción. | R |
+| ● Fórmula magistral. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Fecha inicio tratamiento. | FECHA. |  |  |  | R |
+| ● Fecha fin de tratamiento. | FECHA. |  |  |  | R |
+| ● Vía de administración. | TEXTO CODIFICADO. | Nomenclátor. |  |  | R |
+| ● Dosis. | TEXTO LIBRE. |  |  |  | R |
+| ● Frecuencia de las tomas. | TEXTO LIBRE. |  |  |  | R |
+| Vacunas individualizadas. | TEXTO CODIFICADO. | SNOMED CT. |  | En este apartado se incluirán vacunas individualizadas antialérgicas | R |
+| Tratamiento no farmacológico. | TEXTO LIBRE. |  |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). | CM |
+| Plan de actuación. | TEXTO LIBRE. |  |  | La subsección es obligatoria. En caso de no contener información, deberá consignarse un valor nulo (NullFlavor). | CM |
 
-4 Se puede clasificar cada campo según se considere que su presencia es esencial (aunque la cumplimentación del valor no sea obligatoria) y por ello debe formar parte del conjunto mínimo del SNS /CM) o por el contrario es aconsejable su presencia pero no imprescindible como parte del conjunto mínimo de datos (R)
+> Se sustituye por el art. único.9 del Real Decreto 572/2023, de 4 de julio. Ref. BOE-A-2023-15551

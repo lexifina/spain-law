@@ -1,62 +1,98 @@
 ## ANEXO VIII
 
-## CONJUNTO DE DATOS DE LA HISTORIA CLÍNICA RESUMIDA
+## Informe de resultados de otras pruebas diagnósticas
 
-| Variable | Formato | Valores | Aclaraciones | CM/R14 | Volcado de Datos15 | Acceso 16 |
-| --- | --- | --- | --- | --- | --- | --- |
+| Variable | Formato | Terminologías / Clasificaciones / Catálogos | Valores / Conjuntos de referencia | Comentarios | CM / R |
+| --- | --- | --- | --- | --- | --- |
 | DATOS DEL DOCUMENTO |
-| Tipo de documento | Texto | Historia Clínica Resumida |  | CM | A | P/C |
-| Fecha de creación | dd/mm/aaaa | Libre |  | CM | A | P/C |
-| Fecha de última actualización | dd/mm/aaaa | Libre | La fecha en la que fue modificado alguno de los componentes del registro por última vez | CM | A | P/C |
-| DATOS DE LA INSTITUCIÓN EMISORA |
-| Denominación del Servicio de Salud | Texto + logo | SAS. Servicio Andaluz de Salud. SALUD. Servicio Aragonés de Salud SESPA. Servicio de Salud del Principado de Asturias. Servicio Canario de Salud SCS. Servicio Cántabro de Salud. SESCAM. Servicio de Salud de Castilla-La Mancha. SACyL .Gerencia Regional de Salud de Castilla y León. DdS-GC. Departament de Salut de la Generalitat de Catalunya SES. Servicio Extremeño de Salud. SERGAS.Servizo Galego de Saúde INGESA. Instituto Nacional de Gestión Sanitaria. IB-SALUT. Servicio de Salud de Illes Balears. RIOJASALUD. Servicio Riojano de Salud. Servicio Madrileño de Salud. Servicio Murciano de Salud SNS-O. Servicio Navarro de Salud-OSASUNBIDEA. Agència Valenciana de Salut OSAKIDETZA-Servicio Vasco de Salud. |  | CM | A | P/C |
-| Denominación del provisor de servicios | Texto+logo | Libre |  | R |  |  |
-| DATOS DEL USUARIO/PACIENTE |
-| Nombre | Texto | Dato que figure en BD de TSI de la CA |  | CM | A | P/C |
-| Primer Apellido | Texto | CM | A | P/C |
-| Segundo Apellido | Texto | CM | A | P/C |
-| Fecha de nacimiento | dd/mm/aaaa | CM | A | P/C |
-| Sexo | Texto | H/M | CM | A | P/C |
-| DNI/T.Residencia/Pasaporte | Texto |  | R | A | P/C |
-| NASS | Texto | CM | A | P/C |
-| CIP de C. Autónoma | Texto | CM | A | P/C |
-| Código SNS | Texto | R | A | P/C |
-| CIP Europeo |  |  | Se reserva este espacio en previsión de que en el futuro exista un código europeo/internacional de identificación. | R | A | P/C |
-| N.° Historia Clínica | Texto | Libre |  | CM | A | P/C |
-| Tipo de vía | Texto | Dato que figure en la BD de TSI de la CA |  | CM | A | P/C |
-| Nombre de la vía | Texto | CM | A | P/C |
-| Número de la vía | Texto | CM | A | P/C |
-| Piso | Texto | CM | A | P/C |
-| Letra | Texto | CM | A | P/C |
-| Código Postal | Texto | CM | A | P/C |
-| Municipio | Texto | CM | A | P/C |
-| Provincia | Texto | CM | A | P/C |
-| Teléfono | Texto | R | A | P/C |
-| Persona de referencia | Texto | Libre (nombre + 2 apellidos) | Se trata de la persona que representa los intereses del paciente. | R | A/M | P/C |
-| Teléfono de referencia | Texto | Libre |  | R | A/M | P/C |
-| Cuidador Principal | Texto | Libre (nombre + 2 apellidos) |  | R | A/M | P/C |
-| DATOS DE SALUD |
-| Existe información reservada por decisión del paciente | Botón s/n | SI NO | Este campo informa al profesional de que existe algún dato clínico que no figura en la HC por decisión del propio paciente. | CM | A | P/C |
-| Existe documento de instrucciones previas | Botón s/n | SI NO | Informa al profesional de que existe este documento que está disponible en el Registro de Últimas Voluntades. | CM | A/M | P/C |
-| Está incluido en protocolo de investigación clínica | Botón s/n | SI NO | Informa de la inclusión en un protocolo de investigación en la fecha de última actualización. | R | M | P/C |
-| Alergias | Texto | Libre |  | CM | A | P/C |
-| Vacunaciones | Texto | Libre |  | CM | A | P/C |
-| Problemas Resueltos, Cerrados o Inactivos | Texto | Fecha + Texto Libre | Se especificará la fecha de cierre y el motivo | R | A | P/C |
-| Problemas y Episodios Activos | Texto + Código | Fecha + Texto libre Sistema de Codificación CIE 9 MC/CIE 10/CIAP 2 Definida/SNOMED-CT | Los que figuren en la historia a la fecha de última actualización. Los sistemas de codificación serán sustituidos por versiones posteriores si así se acordara en el Consejo Interterritorial del SNS | CM R | A | P/C |
-| Tratamiento | Texto | Libre |  | CM |  | P/C |
-| Recomendaciones | Texto | Libre | Se trata de recomendaciones terapéuticas que no incluyen fármacos (oxigenoterapia, dieta, limitaciones de esfuerzo físico, etc.) | CM | A | P1C |
-| Fármacos | Texto + código | Libre (Especialidad + principio activo + dosis/unidad+ n° unidades/dosis+ intervalo de dosis+ vía administración+ duración) nomenclator oficial MSPS (código nacional)/Snomed-CT | Prescripciones activas a la fecha de actualización. En la medida en que la implantación de las aplicaciones informáticas de HCE, que incluyen módulos de prescripción lo permitan, el texto libre, será reemplazado progresivamente por el vocabulario del catálogo de medicamentos autorizados (Nomenclator Oficial/Snomed-CT) | CM | A | P1C |
-| Diagnósticos Enfermeros activos | Texto + Código | Literal NANDA +Código NANDA | Los que figuren en la historia a la fecha de última actualización | CM R | A | P1C |
-| Resultados de Enfermería | Texto + Código | Literal NOC +Código NOC | Aquellos resultados seleccionados para identificar la evolución del paciente, como resultado de las intervenciones planificadas. Los que figuren en la historia a la fecha de última actualización | CM R | A | P1C |
-| Intervenciones de Enfermería | Texto + código | Literal NIC +Código NIC | Los que figuren en la historia a la fecha de última actualización | CM R | A | P1C |
-| ALERTAS | Texto | Libre | Su contenido deben ser advertencias clave de carácter objetivo que por su especial trascendencia deban ser resaltadas para ser tenidas en cuenta por cualquier profesional que deba prestar atención (Ej: Angioedema desencadenado por IECAS, Dispositivo IV con reservorio) | CM | M | P1C |
-| Observaciones Subjetivas del Profesional | Texto | Libre | La única justificación de este campo es recoger valoraciones del profesional, siempre que sean de auténtico interés para el manejo de los problemas de salud por otro profesional. Sólo deberán ser reseñadas aquellas observaciones que sean encuadrables en algunos de los siguientes apartados: • VALORACIONES SOBRE HIPÓTESIS DIAGNÓSTICAS NO DEMOSTRADAS • SOSPECHA ACERCA DE INCUMPLIMIENTOS TERAPÉUTICOS • SOSPECHA DE TRATAMIENTOS NO DECLARADOS | R | M | P |
-|  |  |  | • SOSPECHA DE HÁBITOS NO RECONOCIDOS |  |  |  |
-|  |  |  | • SOSPECHA DE HABER SIDO VÍCTIMA DE MALOS TRATOS |  |  |  |
-|  |  |  | • COMPORTAMIENTOS INSÓLITOS |  |  |  |
+| Tipo de documento. | TEXTO LIBRE. | CMDIC. | Tipos de informes listados en el anexo I de este real decreto. |  | CM |
+| Fecha y hora de petición. | FECHA-HORA. |  |  |  | R |
+| Fecha y hora de firma. | FECHA-HORA. |  |  |  | CM |
+| Datos del (de los) profesional/es responsable/s. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Podrán ir en el pie de página. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. | CM |
+| ● Nombre responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad asistencial responsable. | TEXTO LIBRE. |  |  |  | R |
+| ● Área de gestión clínica. | TEXTO LIBRE. |  |  |  | R |
+| DATOS DE LA INSTITUCIÓN EMISORA |  |
+| Datos de la institución emisora. | Se consignará la información existente en el Registro General de centros, servicios y establecimientos sanitarios (REGCESS). | CM |
+| Servicio de salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de servicios. |  | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. |  | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos de contacto del centro. | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| Dirección del centro. |  |  | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | NÚMERO. |  |  |  | CM |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Dirección web. | URL. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Teléfono. | TEXTO LIBRE. |  |  |  | R |
+| DATOS DEL PACIENTE |  |
+| Datos del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Nombre. | TEXTO LIBRE. |  |  |  | CM |
+| Primer apellido. | TEXTO LIBRE. |  |  |  | CM |
+| Segundo apellido. | TEXTO LIBRE. |  |  |  | R |
+| Fecha de nacimiento. | DATE. |  |  |  | CM |
+| Sexo. | TEXTO LIBRE. |  |  |  | CM |
+| Identificadores del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Tipo de documento de identificación. | TEXTO LIBRE. |  |  |  | CM |
+| Número de documento. | TEXTO LIBRE. |  |  |  | CM |
+| Número de afiliado a la Seguridad Social (NASS). | TEXTO LIBRE. |  |  |  | R |
+| Código de Identificación Personal Autonómico (CIP-AUT). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal SNS (CIP-SNS). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal europeo (CIP europeo). | TEXTO LIBRE. |  |  |  | R |
+| Número de historia clínica. | TEXTO LIBRE. |  |  |  | R |
+| Datos de contacto del paciente. |  | CM |
+| Domicilio. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Portal. | TEXTO LIBRE. |  |  |  | R |
+| ○ Piso. | TEXTO LIBRE. |  |  |  | R |
+| ○ Letra. | TEXTO LIBRE. |  |  |  | R |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Teléfono móvil. | TEXTO LIBRE. |  |  |  | R |
+| Otros teléfonos. | TEXTO LIBRE. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Centro de atención primaria. |  |  | R |
+| ○ Centro de atención primaria. | TEXTO CODIFICADO. | REGCESS. |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| ○ Correo electrónico. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| DATOS DEL SOLICITANTE |
+| Datos de la institución solicitante. | Aplicando el criterio de legibilidad del informe, no se duplicará información. Por ejemplo, en el caso de que la institución solicitante sea la misma que la emisora, podrá obviarse, aunque esté marcada como CM. | CM |
+| Servicio de salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de servicios. |  | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. |  | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos del solicitante. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. | CM |
+| ● Nombre del responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio solicitante. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad solicitante. | TEXTO LIBRE. |  |  |  | R |
+| ● Área de gestión sanitaria. | TEXTO LIBRE. |  |  |  |  |
+| DATOS DEL PROCESO ASISTENCIAL |
+| Información clínica de la solicitud. | TEXTO LIBRE. |  |  |  | CM |
+| Procedimiento realizado. | TEXTO CODIFICADO. | SNOMED CT. CIE PCS. SERAM. SEMNIM. |  | La opción preferente es consignar información codificada, pero se aceptará excepcionalmente el uso de texto libre bajo circunstancias convenientemente justificadas. Se consignarán tantos procedimientos como sea necesario. En caso de haber más de uno, la etiqueta de la variable será «Procedimientos realizados». Cardinalidad [1..n]. | CM |
+| Fecha y hora del procedimiento. | FECHA-HORA. |  |  |  | CM |
+| Descripción del procedimiento. | TEXTO LIBRE. |  |  |  | R |
+| Hallazgos. | TEXTO LIBRE. |  |  |  | CM |
+| Diagnósticos. | TEXTO CODIFICADO. | SNOMED CT. CIE. |  | La opción preferente es consignar información codificada, pero se aceptará excepcionalmente el uso de texto libre bajo circunstancias convenientemente justificadas. Se consignarán tantos diagnósticos como sea necesario. Cardinalidad [1..n]. | CM |
+| Recomendaciones. | TEXTO LIBRE. |  |  |  | R |
+| Informe complementario. | ARCHIVO. |  |  | Se incluirán documentos que por su naturaleza incluyan información relevante que no pueda incorporarse en las secciones previas. Se establecerán los mecanismos oportunos para que el acceso al mismo sea lo más sencillo posible. Estos mecanismos se valorarán en las auditorías realizadas por el Ministerio de Sanidad. | R |
+| Imágenes relevantes. | IMAGEN. |  |  | Cardinalidad [0..n]. | R |
 
-14 Se puede clasificar cada campo según se considere que su presencia en esencial (aunque la cumplimentación del valor no sea obligatoria) y por ello debe formar parte del conjunto mínimo del SNS (CM), o por el contrario es aconsejable su presencia, pero no imprescindible como parte del conjunto mínimo de datos (R).
-
-15 Los datos de los campos de la Historia Clínica Resumida deben alimentarse de forma automática A, a partir de la historia de salud digital, excepto un número muy reducido de ellos que tendrá que alimentar manualmente M el profesional, en aquellos casos en que éste lo considere conveniente.
-
-16 El campo puede estar accesible, según la naturaleza de su contenido (anotaciones subjetivas o datos ojbetivos), a los profesionales P o al ciudadano C.
+> Se sustituye por el art. único.13 del Real Decreto 572/2023, de 4 de julio. Ref. BOE-A-2023-15551

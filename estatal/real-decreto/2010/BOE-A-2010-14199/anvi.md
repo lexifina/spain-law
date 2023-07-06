@@ -1,66 +1,107 @@
 ## ANEXO VI
 
-## CONJUNTO DE DATOS DEL INFORME DE RESULTADOS DE PRUEBAS DE IMAGEN
+## Informe de resultados de pruebas de laboratorio
 
-| Variable | Formato | Valores | Adaraciones | CM/R8 |
-| --- | --- | --- | --- | --- |
+| Variable | Formato | Fuente | Valores | Comentarios | CM/R |
+| --- | --- | --- | --- | --- | --- |
 | DATOS DEL DOCUMENTO |
-| Tipo de documento | Texto | Informe de resultados de pruebas de imagen |  | CM |
-| Fecha de firma | dd/mm/aaaa | Libre | Es común a ambos pies de firma del informe | CM |
-| Nombre Responsable 1 | Texto | Libre (nombre+2 apellidos) | Es parte del primer pie de firma del informe | CM |
-| Categoría profesional 1 | Texto | Médico Residente Facultativo Especialista de Área Jefe de Sección Jefe de Servicio | CM |
-| Nombre Responsable 2 | Texto | Libre (nombre+2 apellidos) | Es parte del segundo pie de firma, que suele supervisar al primer firmante | CM |
-| Categoría profesional 2 | Texto | Facultativo Especialista de Área Jefe de Sección Jefe de Servicio |  |
-| Servicio | Texto | Radiodiagnóstico Medicina Nuclear |  | CM |
-| Unidad | Texto | Libre |  | CM |
-| DATOS DE LA INSTITUCIÓN EMISORA |
-| Denominadón del Servicio de Salud | Texto + Logo | SAS. Servicio Andaluz de Salud. SALUD. Servicio Aragonés de Salud SESPA. Servicio de Salud del Principado de Asturias. Servicio Canario de Salud SCS. Servicio Cántabro de Salud. SESCAM. Servicio de Salud de Castilla-La Mancha. SACyL .Gerencia Regional de Salud de Castilla y León. DdS-GC. Departament de Salut de la Generalitat de Catalunya SES. Servicio Extremeño de Salud. SERGAS. Servio Galego de Saúde. INGESA. Instituto Nacional de Gestión Sanitaria. IB-SALUT. Servicio de Salud de Illes Balears. RIOJASALUD. Servicio Riojano de Salud. Servicio Madrileño de Salud. Servicio Murciano de Salud SNS-0. Servicio Navarro de SaludOSASUNBIDEA. Agència Valenciana de Salut OSAKIDETZA-Servicio Vasco de Salud. |  | CM |
-| Denominación del provisor de servicios | Texto + Logo | Libre |  | R |
-| Denominadón del Centro | Texto + Logo | CNH y posteriormente RECESS cuando esté disponible+texto libre | Existirá un campo adicional de texto libre para aquellos centros no recogidos en el inventario en vigor por ser de reciente apertura | CM |
-| Dirección del Centro |  |  |  |
-| Tipo de vía | Texto | CNH y posteriormente RECESS cuando esté disponible+texto libre | CM |
-| Nombre de la vía | Texto | CM |
-| Número de la vía | Texto | CM |
-| Código Postal | Texto | CM |
-| Municipio | Texto | CM |
-| Provincia | Texto | CM |
-| País | Texto | CM |
-| Teléfono | Texto | CM |
-| Dirección Web/Correo electrónico | Texto | Libre | Se incluirá la dirección Web sólo si contiene información de interés para el usuario | R |
+| Tipo de documento. | TEXTO LIBRE. | CMDIC. | Tipos de informes listados en el anexo I de este real decreto. |  | CM |
+| Número de petición. | TEXTO LIBRE. |  |  |  | CM |
+| Fecha y hora de petición. | FECHA-HORA. |  |  |  | R |
+| Fecha y hora de firma. | FECHA-HORA. |  |  |  | CM |
+| DATOS DE LA INSTITUCIÓN EMISORA |  |
+| Datos de la institución emisora. | Se consignará la información existente en el Registro General de centros, servicios y establecimientos sanitarios (REGCESS). | CM |
+| Servicio de salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de servicios. |  | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. |  | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos de contacto del centro. |  | CM |
+| Dirección del centro. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | NÚMERO. |  |  |  | CM |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Dirección web. | URL. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Teléfono. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DEL PACIENTE |
-| Nombre | Texto | Dato que figure en la BD de la TSI de la CA |  | CM |
-| Primer Apellido | Texto | CM |
-| Segundo Apellido | Texto | CM |
-| Fecha nacimiento | dd/mm/aaaa | CM |
-| Sexo | Texto | H/M | CM |
-| DNI/T. Residencia/Pasaporte | Texto |  | R |
-| NASS | Texto | CM |
-| CIP de C Autónoma | Texto | CM |
-| Código SNS | Texto | R |
-| CIP Europeo | Texto | Se reserva este espacio en previsión de que, en el futuro, exista un código europeo/internacional de identificación | R |
-| N.° Historia Clínica | Texto | Libre |  | CM |
-| N.° Cama / N.° Consulta | Texto | Libre |  | R |
+| Datos del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Nombre. | TEXTO LIBRE. |  |  |  | CM |
+| Primer apellido. | TEXTO LIBRE. |  |  |  | CM |
+| Segundo apellido. | TEXTO LIBRE. |  |  |  | R |
+| Fecha de nacimiento. | FECHA. |  |  |  | CM |
+| Sexo. | TEXTO LIBRE. |  |  |  | CM |
+| Identificadores del paciente. | Se consignará la información que figure en la base de datos de tarjeta sanitaria individual (TSI). | CM |
+| Tipo de documento de identificación. | TEXTO LIBRE. |  |  |  | CM |
+| Número de documento. | TEXTO LIBRE. |  |  |  | CM |
+| Número de afiliado a la Seguridad Social (NASS). | TEXTO LIBRE. |  |  |  | R |
+| Código de Identificación Personal Autonómico (CIP-AUT). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal SNS (CIP-SNS). | TEXTO LIBRE. |  |  |  | CM |
+| Código de Identificación Personal europeo (CIP europeo). | TEXTO LIBRE. |  |  |  | R |
+| Número de historia clínica. | TEXTO LIBRE. |  |  |  | R |
+| Datos de contacto del paciente. |  | CM |
+| Domicilio. |  | En caso de no poder proporcionarse la dirección en el formato estructurado propuesto, se admitirá el envío de un único campo de texto libre que contenga, como mínimo, la información de los campos marcados como obligatorios. | CM |
+| ○ Tipo de vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Nombre de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Número de la vía. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Portal. | TEXTO LIBRE. |  |  |  | R |
+| ○ Piso. | TEXTO LIBRE. |  |  |  | R |
+| ○ Letra. | TEXTO LIBRE. |  |  |  | R |
+| ○ Código postal. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Municipio. | TEXTO LIBRE. |  |  |  | CM |
+| ○ Provincia. | TEXTO LIBRE. |  |  |  | CM |
+| ○ País. | TEXTO CODIFICADO. | ISO 3166-1. |  |  | CM |
+| Teléfono móvil. | TEXTO LIBRE. |  |  |  | R |
+| Otros teléfonos. | TEXTO LIBRE. |  |  |  | R |
+| Correo electrónico. | TEXTO LIBRE. |  |  |  | R |
+| Centro de atención primaria. |  |  | R |
+| ○ Centro de atención primaria. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| ○ Teléfono. | TEXTO LIBRE. | REGCESS. |  |  | R |
+| ○ Correo electrónico. | TEXTO LIBRE. | REGCESS. |  |  | R |
 | DATOS DEL SOLICITANTE |
-| Denominadón del Servicio de Salud | Texto + Logo | SAS. Servicio Andaluz de Salud. SALUD. Servicio Aragonés de Salud SESPA. Servicio de Salud del Principado de Asturias. Servicio Canario de Salud SCS. Servicio Cántabro de Salud. SESCAM. Servicio de Salud de Castilla-La Mancha. |  | CM |
-|  |  | SACyL .Gerencia Regional de Salud de Castilla y León. DdS-GC. Departament de Salut de la Generalitat de Catalunya SES. Servicio Extremeño de Salud. SERGAS. Servio Galego de Saúde. INGESA. Instituto Nacional de Gestión Sanitaria. IB-SALUT. Servicio de Salud de Illes Balears. RIOJASALUD. Servicio Riojano de Salud. Servicio Madrileño de Salud. Servicio Murciano de Salud SNS-0. Servicio Navarro de SaludOSASUNBIDEA. Agència Valenciana de Salut OSAKIDETZA-Servicio Vasco de Salud. |  |  |
-| Denominación del provisor de servicios | Texto + Logo | Libre |  | R |
-| Denominación del Centro | Texto + Logo | CNH9 y posteriormente RECESS10 cuando esté disponible+texto libre | Existirá un campo adicional de texto libre para aquellos centros no recogidos en el inventario en vigor por ser de reciente apertura | CM |
-| Servicio | Texto | Según normativa en vigor en cada momento | Actualmente clasificación de Servicios del CMBD/SIFCO | CM |
-| Unidad | Texto | Libre |  | CM |
-| Nombre del solicitante | Texto | Libre (nombre+2 apellidos) |  | CM |
-| Categoría profesional | Texto | Médico Residente Facultativo Especialista de Área Jefe de Sección Jefe de Servicio Médico de Familia Facultativo Pediatra de AP Texto Libre |  | CM |
+| Datos de la institución solicitante. | Aplicando el criterio de legibilidad del informe, no se duplicará información. Por ejemplo, en el caso de que la institución solicitante sea la misma que la emisora, podrá obviarse aunque esté marcada como CM. | CM |
+| Servicio de salud. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Logo del servicio de salud. | IMAGEN. |  |  |  | CM |
+| Provisor de servicios. |  | R |
+| Denominación del provisor de servicios. | TEXTO LIBRE. |  |  |  | R |
+| Logo provisor de servicios. | IMAGEN. |  |  |  | R |
+| Centro. |  | CM |
+| Denominación del centro. | TEXTO LIBRE. | REGCESS. |  |  | CM |
+| Datos del solicitante. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. | CM |
+| ● Nombre del profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio solicitante. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad solicitante. | TEXTO LIBRE. |  |  |  | R |
+| ● Área de gestión clínica. | TEXTO LIBRE. |  |  |  | R |
 | DATOS DEL PROCESO ASISTENCIAL |
-| Información Clínica | Texto | Libre | Reflejará el mismo contenido que el volante de petición de la exploración. Es el lugar para detallar los datos clínicos que justifican la realización de la prueba y establecen las sospechas diagnósticas | CM |
-| Exploración | Texto + Código (cadena numérica+ cadena de texto) | Libre Catálogo SERAM en vigor Catálogo SEMN en vigor |  | CM R |
-| Fecha de Exploración | dd/mm/aaaa | Libre |  | CM |
-| Descripción de la exploración | Texto | Libre | Es una descripción detallada de la exploración realizada, en la que podrán concretarse además: • Prioridad (normal, urgente) • Medios de contraste (tipo, dosis y velocidad de inyección • Reacciones adversas • Otros incidentes (falta de colaboración, ansiedad, claustrofobia...) y abordaje de los mismos. • Limitaciones técnicas • Exploración con la que se compara y fecha de la misma | R |
-| Hallazgos | Texto | Libre | Es una descripción detallada de los hallazgos, en la que podrán concretarse además: • Hallazgos negativos | CM |
-|  |  |  | • Comparación con estudios previos • Limitaciones diagnósticas |  |
-| Diagnóstico | Texto + Código | Libre Cadena de texto (Nombre del catálogo utilizado) + Código asignado |  | CM R |
-| Recomendaciones | Texto | Libre | Es el lugar para recoger: Cuidados o tratamientos que se deben seguir después de la realización de la exploración diagnóstica o intervencionista. Indicación de otras exploraciones que se deben realizar para completar el estudio del paciente o el plazo en el que se debe realizar un control de la exploración | CM |
+| Datos de la muestra. |  |  | CM |
+| ● Fecha y hora de toma de la muestra. | FECHA-HORA. |  |  |  | CM |
+| ● Número de muestra. | TEXTO LIBRE. |  |  |  | CM |
+| ● Tipo de muestra. | TEXTO CODIFICADO. | SNOMED CT. LOINC. |  |  | CM |
+| ● Comentario. | TEXTO LIBRE. |  |  | Se refiere a posibles comentarios generales sobre la muestra. | R |
+| Nombre de sección/laboratorio/unidad. | TEXTO LIBRE. |  |  |  | CM |
+| Resultados de la muestra. |  | Se utilizarán los campos pertinentes dependiente del tipo de muestra. | CM |
+| ● Determinación. | TEXTO CODIFICADO. | LOINC. |  |  | CM |
+| ● Resultado. | TEXTO LIBRE. |  |  |  | R |
+| ● Unidades. | TEXTO CODIFICADO. | UCUM. |  |  | R |
+| ● Rango. | TEXTO LIBRE. |  |  |  | R |
+| ● Interpretación. | TEXTO CODIFICADO. | HL7. | AbnormalFlags. |  | R |
+| ● Técnica. | TEXTO CODIFICADO. | SNOMED CT. |  |  | R |
+| ● Descripción. | TEXTO LIBRE. |  |  |  | R |
+| ● Conclusión. | TEXTO LIBRE. |  |  |  | R |
+| ● Comentarios. | TEXTO LIBRE. |  |  |  | R |
+| Datos del (de los) profesional/es responsable/s. |  | Se consignarán tantos profesionales como sea necesario. Cardinalidad [1..n]. Se atenderá a la normativa vigente en la denominación de categorías profesionales, servicios y unidades. Podrán ir en el pie de página. | CM |
+| ● Nombre responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Categoría profesional. | TEXTO LIBRE. |  |  |  | CM |
+| ● Servicio responsable. | TEXTO LIBRE. |  |  |  | CM |
+| ● Unidad asistencial responsable. | TEXTO LIBRE. |  |  |  | R |
+| ● Área de gestión clínica. | TEXTO LIBRE. |  |  |  | R |
+| ● Fecha y hora de firma. | FECHA-HORA. |  |  |  | CM |
 
-8 Se puede clasificar cada campo según se considere que su presencia en esencial (aunque la cumplimentación del valor no sea obligatoria) y por ello debo formar parte del conjunto mínimo del SNS (CM) o por el contrario es aconsejable su presencia pero no imprescindible como parte del conjunto mínimo de datos (R).
-
-9 CNH: Catálogo Nacional de Hospitales.
-
-10 RECESS: Registro General de Establecimientos, Centros y Servicios Sanitarios del MSPS.
+> Se sustituye por el art. único.11 del Real Decreto 572/2023, de 4 de julio. Ref. BOE-A-2023-15551
