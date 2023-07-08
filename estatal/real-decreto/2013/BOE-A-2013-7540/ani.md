@@ -173,7 +173,7 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 | N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo de los micronutrientes (porcentaje en masa del abono) | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse. Formas y solubilidad de los nutrientes Otros criterios |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 2 | 3 | 4 | 5 | 6 |
-| 01 | Mezcla sólida de micronutrientes minerales. | Producto obtenido por mezcla de dos o más micronutrientes, en forma mineral exclusivamente. | Boro (B) 0,2 Cobalto (Co) 0,02 Cobre (Cu) 0,5 Hierro(Fe) 2,0 Manganeso (Mn) 0,5 Molibdeno (Mo) 0,02 Zinc (Zn) 0,5 Expresados en forma soluble en agua. – En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono. – En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono. | Nombre de los aniones minerales. | – Porcentaje de cada uno de los micronutrientes presentes solubles en agua. |
+| 01 | Mezcla sólida de micronutrientes minerales. | Producto obtenido por mezcla de dos o más micronutrientes, en forma mineral exclusivamente, de los tipos de abonos 1.3.1 y 1.4.5.1. | Boro (B) 0,2 Cobalto (Co) 0,02 Cobre (Cu) 0,5 Hierro(Fe) 2,0 Manganeso (Mn) 0,5 Molibdeno (Mo) 0,02 Zinc (Zn) 0,5 Expresados en forma soluble en agua. – En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono. – En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono. | Nombre de los aniones minerales. | – Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua. Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total. Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua. |
 | 02 | Mezcla líquida de micronutrientes minerales. |
 
 1.3.3 Mezcla de nutrientes quelados o complejados
@@ -191,6 +191,19 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 | Molibdeno (Mo). | 0,02 |  |
 | Zinc (Zn) . | 0,5 | 0,1 |
 | 02 | Mezcla líquida de micronutrientes complejados. | – En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono. – En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono. |
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo de los micronutrientes (porcentaje en masa del abono) | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse. Formas y solubilidad de los nutrientes Otros criterios |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|  |  |  | Cuando el nutriente es presentado en forma |  |  |
+|  | Solo mineral (soluble en agua) | Quelado |
+| 03 | Mezcla sólida de micronutrientes quelados. | Producto obtenido por mezcla de dos o más micronutrientes, uno de ellos, al menos, en forma quelada, sin presencia de micronutrientes complejados. | Boro (B). | 0,2 |  | Nombre de los aniones minerales si existen y de los agentes quelantes autorizados. | – Porcentaje de cada uno de los micronutrientes presentes solubles en agua. – Porcentaje de cada uno de los micronutrientes en forma quelada. |
+| Cobalto (Co). | 0,02 |  |
+| Cobre (Cu). | 0,5 | 0,1 |
+| Hierro(Fe). | 2,0 | 0,3 |
+| Manganeso (Mn). | 0,5 | 0,1 |
+| Molibdeno (Mo). | 0,02 |  |
+| Zinc (Zn). | 0,5 | 0,1 |
+| 04 | Mezcla líquida de micronutrientes quelados. | – En la mezcla sólida, la suma mínima de todos los micronutrientes: 5% de la masa del abono. – En la mezcla líquida, la suma mínima de todos los micronutrientes: 2% de la masa del abono. |
 
 1.3.4 abonos con nutrientes principales y/o secundarios que contienen micronutrientes (contenidos mínimos expresados en porcentaje de la masa del abono).
 
@@ -227,7 +240,7 @@ Nota 3. Si un nutriente está presente en forma complejada, habrá que indicar e
 
 ## 1.4.1 Abonos inorgánicos simples con elementos nutrientes primarios
 
-1.4.1.1 Abonos nitrogenados Los abonos nitrogenados simples que utilicen como ingrediente nitrato amónico, no podrán tener un contenido en nitrógeno debido al nitrato amónico igual o superior al 28%, sin que se admitan tolerancias positivas en este valor.
+1.4.1.1 Abonos nitrogenados
 
 | N.o | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo en elementos nutrientes (porcentaje en masa) Informaciones sobre la evaluación de los elementos nutrientes Otros requisitos | Otras informaciones sobre la denominación del tipo | Contenido en elementos nutrientes que debe declararse Formas y solubilidades de los elementos nutrientes Otros criterios |
 | --- | --- | --- | --- | --- | --- |
@@ -575,6 +588,13 @@ Nota 3: Si un micronutriente está presente en forma quelada, habrá que indicar
 | 7(e) | Solución de abono a base de zinc | Solución acuosa de los tipos 7(a) y/o 7(b) o 1.3.1.08 | 2 % Zn soluble en agua Cuando los tipos 7(a) y 1.3.1.08 estén mezclados, la fracción complejada deberá ser al menos el 40 % del Zn soluble en agua | La denominación deberá incluir: 1) el nombre del anión o aniones minerales, si están presentes; 2) el nombre de cada agente quelante autorizado presente que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea, o el nombre del agente complejante autorizado que pueda ser identificado por una norma europea | Zinc (Zn) soluble en agua Zinc (Zn) quelado por cada agente quelante autorizado que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea Zinc (Zn) complejado por el agente complejante autorizado que pueda ser identificado por una norma europea Facultativamente: Zinc (Zn) total quelado por agentes quelantes autorizados |
 | 7(f) | Suspensión de abono a base de zinc | Producto obtenido por suspensión en agua de los tipos 7(a), 7(c) y/o 7(b) | 20 % de zinc total | La denominación deberá incluir: 1) los nombres de los aniones, 2) el nombre de todo agente quelante autorizado presente que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea. | Zinc (Zn) total Zinc (Zn) soluble en agua, si está presente Zinc (Zn) quelado por cada agente quelante autorizado que quele al menos un 1 % del zinc soluble en agua y que pueda ser identificado y cuantificado por una norma europea |
 
+1.4.5.1.8 Mezclas sólidas o líquidas de abonos con micronutrientes
+
+| N.º | Denominación del tipo | Informaciones sobre la forma de obtención y los componentes esenciales | Contenido mínimo de los micronutrientes (porcentaje en masa del abono) | Otras informaciones sobre la denominación del tipo o del etiquetado | Contenido en nutrientes que debe declararse y garantizarse. Formas y solubilidad de los nutrientes Otros criterios |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 2 | 3 | 4 | 5 | 6 |
+| 01 | Mezcla de micronutrientes. | Producto obtenido mediante la mezcla de dos o más tipos de abono E.1 u obtenido por la disolución y/o la suspensión en agua de dos o más tipos de abono de los grupos 1.3 y 1.4.5. | 1) 5 % del contenido total de una mezcla sólida, o 2) 2 % del contenido total de una mezcla líquida Micronutrientes conforme a la siguiente tabla. Cuando el micronutriente está presente en forma: Micronutriente Solo mineral Quelado/complejado Boro (B). 0,2 0,2 Cobalto (Co). 0,02 0,02 Cobre (Cu). 0,5 0,1 Hierro (Fe). 2,0 0,3 Manganeso (Mn). 0,5 0,1 Molibdeno (Mo). 0,02 _ Zinc (Zn). 0,5 0,1 | Nombre de cada micronutriente y su símbolo químico, por orden alfabético de los símbolos químicos, seguidos de sus contra-iones inmediatamente después de la denominación de tipo. | – Contenido total de cada micronutriente expresado en porcentaje del abono en masa, excepto si un micronutriente es totalmente soluble en agua. – Contenido soluble en agua de cada micronutriente, expresado en porcentaje en masa del abono, cuando el contenido soluble alcance como mínimo la mitad del contenido total. Cuando un micronutriente sea totalmente soluble en agua, solo se declarará el contenido soluble en agua. – Cuando un micronutriente esté ligado químicamente a una molécula orgánica, el contenido del micronutriente se declarará inmediatamente a continuación del contenido soluble en agua, en porcentaje en masa del producto, seguido por las expresiones «quelado por» o "complejado por" y el nombre de cada agente quelante o complejante tal y como figura en la letra E.3. El nombre de la molécula orgánica podrá ser substituido por su abreviatura. Debajo de las declaraciones obligatoria y facultativa, se añadirá la siguiente indicación: "Utilícese solamente en caso de reconocida necesidad. No sobrepasar las dosis recomendadas". |
+
 1.4.5.2 Lista de agentes orgánicos autorizados quelantes para micronutrientes Las siguientes sustancias están autorizadas siempre que el correspondiente quelato del nutriente haya cumplido los requisitos de la Directiva 67/548/CEE del Consejo (1).(2) Ácidos o sales de sodio, potasio o amonio de:
 
 | N.o | Denominación | Denominación alternativa | Fórmula química | Número CAS del ácido (1) |
@@ -914,6 +934,8 @@ Polvo: al menos el 98% ha de pasar por el tamiz de 1 mm, y el 80% por el de 0,25
 Molido: al menos el 80% ha de pasar por el tamiz de 5 mm.
 
 Granulado: producto en polvo, granulado artificialmente. La granulometría específica del producto deberá ser dada por el fabricante, sin que pueda superar los 5 mm.
+
+> Se modifican las tablas 1.3.2, 1.3.3 1.4.1.1 y se añade la 1.4.5.1.8 en el grupo 1 por el art. único.8 del Real Decreto 529/2023, de 20 de junio. Ref. BOE-A-2023-15736
 
 > Se modifican las referencias a «abonos CE» por «abonos del grupo 1.4» y el nombre del cuadro 1.3.3 y se añade el cuadro 1.4 en el grupo 1, se añade una lista en la tabla A y se sustituye la tabla B en el apartado 4.2 del grupo 4 y se modifican el cuadro y nota del grupo 5, por el art. único.1 a 6 de la Orden APA/104/2022, de 11 de febrero. Ref. BOE-A-2022-2621
 

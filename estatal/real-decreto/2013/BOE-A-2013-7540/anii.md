@@ -76,7 +76,7 @@ iii) El óxido de potasio (K2O) soluble en agua.
 
 2.2. Expresión de los nutrientes secundarios.-
 
-a) Tanto en los productos del grupo 1.2 como en los de los grupos 1.1, 2, 3, 4 y 6 del anexo I que contengan nutrientes secundarios, deberá declararse el contenido en calcio, magnesio, sodio y azufre, siempre que estos elementos estén presentes, al menos, en las cantidades mínimas siguientes, salvo que en los requisitos específicos del tipo, se dispongan otros valores:
+a) Tanto en los productos del grupo 1.2 como en los de los grupos 1.1, 1.4, 2, 3, 4 y 6 del anexo I que contengan nutrientes secundarios, deberá declararse el contenido en calcio, magnesio, sodio y azufre, siempre que estos elementos estén presentes, al menos, en las cantidades mínimas siguientes, salvo que, en los requisitos específicos del tipo, se dispongan otros valores:
 
 2 % de óxido de calcio (CaO),
 
@@ -98,7 +98,13 @@ el contenido total y el contenido soluble en agua, cuando dicha solubilidad alca
 
 cuando un elemento sea completamente soluble en agua, únicamente se declarará el contenido soluble en agua.
 
-e) En cuanto al contenido en calcio y magnesio, salvo que en la denominación del tipo del Anexo I se disponga lo contrario, únicamente deberá declararse el porcentaje soluble en agua.
+e) En cuanto al contenido en calcio y magnesio, salvo que en la denominación del tipo del anexo I se disponga lo contrario, únicamente deberá declararse el porcentaje soluble en agua. No obstante, en los productos del grupo 1.4, el contenido en magnesio se podrá expresar de una de las siguientes maneras:
+
+i) El contenido total expresado en porcentaje en masa del abono;
+
+ii) El contenido total y el contenido soluble en agua, expresado en porcentaje en masa del abono cuando dicha solubilidad alcance al menos una cuarta parte del contenido total;
+
+iii) Cuando un elemento sea completamente soluble en agua, únicamente se declarará el contenido soluble en agua como porcentaje en masa.
 
 f) Cuando un nutriente secundario esté ligado químicamente a alguna molécula orgánica, a continuación del contenido soluble en agua, se declarará inmediatamente este contenido del nutriente, seguido por las expresiones «quelado por» o «complejado por» y el nombre de la o las moléculas orgánicas, tal y como figuran en los apartados 1.2.3 ó 1.2.4 del Anexo I. El nombre de las moléculas orgánicas podrá ser sustituido por sus abreviaturas.
 
@@ -106,11 +112,11 @@ g) Las indicaciones que figuran con carácter general como notas en el apartado 
 
 2.3. Expresión de los micronutrientes.
 
-a) El contenido de los micronutrientes cobalto (Co), cobre (Cu), hierro (Fe), manganeso (Mn), molibdeno (Mo) y zinc (Zn) se declarará en los abonos de los grupos 1.1, 1.2, 3 y 4, siempre que cumplan las dos condiciones siguientes:
+a) El contenido de los micronutrientes cobalto (Co), cobre (Cu), hierro (Fe), manganeso (Mn), molibdeno (Mo) y zinc (Zn) se declarará en los abonos de los grupos 1.1, 1.2, 1.4, 3 y 4, siempre que cumplan las dos condiciones siguientes:
 
-que dichos micronutrientes se añadan como abono mineral al producto fertilizante, en cantidades por lo menos iguales a los contenidos mínimos que figuran en el apartado 1.3.4 del Anexo I
+Que dichos micronutrientes se añadan como abono mineral al producto fertilizante, en cantidades por lo menos iguales a los contenidos mínimos que figuran en el apartado 1.3.4 del anexo I.
 
-que el producto siga cumpliendo los requisitos indicados en su grupo correspondiente del Anexo I.
+Que el producto siga cumpliendo los requisitos indicados en su grupo correspondiente del anexo I.
 
 b) El contenido en boro (B) se declarará siempre que esté presente en cantidades iguales o superiores a los contenidos mínimos que figuran en el apartado 1.3.4 del Anexo I, independientemente de si se ha añadido como abono mineral o si es ingrediente normal de la materia prima destinada a aportar nutrientes principales y secundarios.
 
@@ -231,6 +237,8 @@ k) Las instrucciones de almacenamiento y manipulación para los productos sólid
 l) La indicación «pobre en cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 2 %. Así mismo, la indicación «libre de cloruro» sólo podrá incluirse cuando el contenido en cloruro sea inferior al 0,3%.
 
 m) Valor del pH en aquellos productos que no sea obligatoria su mención.
+
+> Se modifican las letras a) y e) del apartado A.2.2 y la letra a) del apartado A.2.3 por el art. único.9 del Real Decreto 529/2023, de 20 de junio. Ref. BOE-A-2023-15736
 
 > Se modifican las letras e) y g) del apartado 2.3 y se añade la letra k) al apartado 5 de la Sección A y se modifica la letra c) de la Sección B, por el art. único.7 a 10 de la Orden APA/104/2022, de 11 de febrero. Ref. BOE-A-2022-2621
 
