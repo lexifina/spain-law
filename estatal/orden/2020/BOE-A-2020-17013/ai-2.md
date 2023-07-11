@@ -16,11 +16,11 @@ b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Bi
 
 2. En la Comunidad Autónoma de Cataluña:
 
-a) En la provincia de Barcelona: las comarcas veterinarias de l’Anoia, Bages, Baix Llobregat, Barcelonès, Berguedà, Maresme, Moianès, Osona, Vallès Occidental y Vallès Oriental.
+a) En la provincia de Barcelona: las comarcas veterinarias de l'Anoia, Bages, Baix Llobregat, Barcelonès, Berguedà, Maresme, Moianès, Osona, Vallès Occidental y Vallès Oriental.
 
 b) La provincia de Girona.
 
-c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Ribagorça, Noguera, Pallars Jussà, Pallars Sobirà, Pla d’Urgell, Segarra, Segrià, Solsonès, Urgell y Vall d’Aran, así como los municipios de la provincia pertenecientes a la comarca veterinaria de Cerdanya.
+c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Ribagorça, Noguera, Pallars Jussà, Pallars Sobirà, Pla d'Urgell, Segarra, Segrià, Solsonès, Urgell y Vall d'Aran, así como los municipios de la provincia pertenecientes a la comarca veterinaria de Cerdanya.
 
 3. La Comunidad Foral de Navarra.
 
@@ -37,6 +37,12 @@ c) En la provincia de Ciudad Real, las comarcas de Malagón, Manzanares, Tomello
 6. En la Comunidad Autónoma de Castilla y León:
 
 a) En la provincia de Zamora: la comarca de Zamora.
+
+7. En la Comunidad Autónoma de Galicia:
+
+a) La provincia de A Coruña.
+
+b) En la provincia de Lugo: las comarcas de A Mariña Central, A Mariña Oriental, A Mariña Occidental, Terra Cha Guitiriz, Terra Cha Castro, Terra Cha Vilalba, Meira, Lugo, A Ulloa, Os Ancares y Fonsagrada.
 
 Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
 
@@ -59,6 +65,8 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 3. La Comunidad Foral de Navarra.
 
 4. La Comunidad Autónoma del País Vasco.
+
+> Se modifica la parte B por Resolución de 5 de julio de 2023. Ref. BOE-A-2023-16020
 
 > Se modifica la parte B por Resolución de 20 de febrero de 2023. Ref. BOE-A-2023-5573
 
