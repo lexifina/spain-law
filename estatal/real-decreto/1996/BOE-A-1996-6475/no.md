@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 11 de julio de 2023, por la disposición derogatoria única.2.a) del Real Decreto 524/2023, de 20 de junio. Ref. BOE-A-2023-14679#dd. No obstante, la Directriz Básica de Planificación continuará aplicándose hasta tanto sea aprobado el nuevo instrumento de planificación que la sustituya, según establece el apartado 3 de la citada disposición.
