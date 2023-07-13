@@ -6,7 +6,7 @@
 
 3. Los administradores de infraestructura deberán tener finalizada la señalización de las velocidades máximas en las líneas, dentro del plazo de dieciocho meses desde la entrada en vigor de este real decreto.
 
-4. La adecuación al nuevo marco reglamentario de las señales de los trenes deberá realizarse durante las intervenciones de mantenimiento de los vehículos de nivel 3 o superior, y como máximo dentro del plazo de ocho años desde la entrada en vigor de este real decreto.
+4. La adecuación al nuevo marco reglamentario de las señales de los trenes podrá realizarse preferentemente durante las intervenciones de mantenimiento de los vehículos, y como máximo dentro de los plazos requeridos en el punto 4.2.2.1.2 "Visibilidad del tren. Cabecera" de la Especificación técnica de interoperabilidad correspondiente al subsistema "explotación y gestión del tráfico" del sistema ferroviario de la Unión Europea, aprobada mediante el Reglamento de Ejecución (UE) n.º 2019/773 de la Comisión, de 16 de mayo de 2019.
 
 En el caso de las señales portátiles de los trenes, su adaptación deberá realizarse en el plazo de seis meses desde la entrada en vigor de este real decreto, excepto para los trenes en la red de ancho métrico, en que el plazo de adaptación será de tres años desde la entrada en vigor de este real decreto.
 
@@ -22,21 +22,33 @@ La obligación de disponer equipos embarcados con el sistema ASFA digital no ser
 
 9. Los administradores de infraestructuras, con excepción de los puertos, deberán elaborar y llevar a cabo un Plan de Mejora de los Equipamientos de Seguridad en la red, consistente en la supresión de bloqueos telefónicos y en la dotación de un equipamiento mínimo en cuanto a sistemas de protección de tren, con objeto de minimizar progresivamente los riesgos derivados del factor humano en los procesos de circulación. Dicho Plan deberá ser presentado a la AESF antes del 15 de septiembre de 2018.
 
-El Plan contemplará la supresión progresiva de los BT en las líneas donde se utilicen como bloqueo nominal y su sustitución por otros con menor intervención del factor humano. Asimismo, y en función de las características de la explotación de cada tramo, se determinarán las prioridades para su sustitución. En las líneas con tráfico mixto inferior a 50 circulaciones semanales y en las de tráfico exclusivo de mercancías inferior a 90 circulaciones semanales, se valorará la conveniencia y oportunidad de eliminación del BT en función de sus características particulares y previsiones de evolución del tráfico.
+El Plan contemplará la supresión progresiva de los BT en las líneas donde se utilicen como bloqueo nominal y su sustitución por otros con menor intervención del factor humano. Asimismo, y en función de las características de la explotación de cada tramo, se determinarán las prioridades para su sustitución. En las líneas con tráfico mixto inferior a cincuenta circulaciones semanales y en las de tráfico exclusivo de mercancías inferior a noventa circulaciones semanales, se valorará la conveniencia y oportunidad de eliminación del BT en función de sus características particulares y previsiones de evolución del tráfico.
 
 Para todos los tramos en los que se prevea la supresión del BT, así como para aquellos otros en los que por su bajo nivel de tráfico no sea previsible la supresión de dicho BT a corto o medio plazo, el Plan deberá fijar unos criterios para dotar a la vía de un equipamiento mínimo en cuanto a sistema de protección del tren, adaptado a las características técnicas y necesidades de explotación de cada tramo.
 
 El Plan incluirá un programa de las actuaciones conforme a los plazos siguientes:
 
-– En los tramos con tráfico igual o superior a 90 circulaciones semanales, las obras de sustitución de los BT y de dotación de equipamiento mínimo en cuanto a sistema de protección de tren deberán estar contratadas antes del 15 de enero de 2021.
+a) En los tramos con tráfico igual o superior a noventa circulaciones semanales, las obras de sustitución de los BT y de dotación de equipamiento mínimo en cuanto a sistema de protección de tren deberán estar contratadas antes del 15 de enero de 2021.
 
-– En los tramos con tráfico mixto entre 50 y 89 circulaciones semanales, las obras de sustitución de los BT y de dotación de equipamiento mínimo en cuanto a sistema de protección de tren deberán estar contratadas antes del 15 de enero de 2023.
+b) En los tramos con tráfico mixto entre cincuenta y ochenta y nueve circulaciones semanales, las obras de sustitución de los BT y de dotación de equipamiento mínimo en cuanto a sistema de protección de tren deberán estar contratadas antes del 15 de enero de 2023.
 
-– Todas las líneas deberán tener finalizada la instalación del equipamiento mínimo en cuanto a sistema de protección del tren antes del 15 de enero de 2024.
+c) Todas las líneas deberán tener finalizada la instalación del equipamiento mínimo en cuanto a sistema de protección del tren antes del 15 de enero de 2024.
+
+Los plazos anteriores serán de obligado cumplimiento, salvo en aquellas líneas, o tramos de líneas, donde se estén llevando a cabo otras actuaciones de mejora que afecten a otros subsistemas y que condicionen la finalización de las obras de sustitución de los BT o de dotación de equipamiento mínimo. Asimismo, tampoco serán de aplicación en aquellos casos en los que se haya producido, o esté previsto que se produzca, un cambio sustancial en la explotación de la línea que condicione el alcance de las obras. En todos estos casos, el administrador de infraestructuras remitirá a la Agencia Estatal de Seguridad Ferroviaria un informe justificativo que incluya los plazos alternativos previstos.
 
 10. Los administradores de infraestructuras, con excepción de los puertos, deberán realizar un estudio-diagnóstico de las comunicaciones en su red, con identificación de aquellos tramos significativos de sus líneas donde no se disponga de medios de comunicación propios (radiotelefonía u otros). Incluirá además información sobre la disponibilidad o no de cobertura a través de la red de radiotelefonía pública. Dicho Estudio deberá ser presentado a la AESF antes del 15 de septiembre de 2018.
 
 A partir de dicho estudio elaborarán un Plan de Mejora de las Comunicaciones entre cualquier punto de sus líneas y los centros de regulación de tráfico correspondientes. Este Plan deberá ser presentado a la AESF antes del 15 de septiembre de 2019.
+
+11. La Agencia Estatal de Seguridad Ferroviaria elaborará un estudio sobre la viabilidad de la reducción progresiva de las señales de parada con aspecto FF7B, que contendrá:
+
+a) Análisis de las repercusiones que podría tener dicha reducción, como, entre otras, las actuaciones que se requerirían sobre las instalaciones, adaptación de recursos humanos o cambios reglamentarios.
+
+b) Criterios y prioridades para su supresión en aquellos casos en los que esta fuera recomendable, atendiendo a parámetros como la densidad de circulación, tipología de los trenes que circulen, proximidad de estaciones y apeaderos, orografía y trazado, equipamiento de la línea, dotación de medios humanos, etc.
+
+c) Recomendaciones sobre otras medidas complementarias que podrían implantarse por todos los actores relacionadas con la circulación en tramos de la red con este tipo de señalización.
+
+> Se modifica el primer párrafo del apartado 4, el apartado 9 y añade el 11 por el art. 1.2 del Real Decreto 606/2023, de 11 de julio. Ref. BOE-A-2023-16156
 
 > Se modifica el apartado 8 por el art. único del Real Decreto 469/2021, de 29 de junio. Ref. BOE-A-2021-10822
 
