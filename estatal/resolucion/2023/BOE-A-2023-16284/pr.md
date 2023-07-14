@@ -1,0 +1,3 @@
+El Consejo de Ministros en su reunión del día 27 de junio de 2023, ha adoptado un Acuerdo por el que se determinan los supuestos de validez de sistemas de identificación y firma electrónica en la administración del Estado cuya verificación se lleve a cabo por medio de un sistema de tecnología de registro distribuido.
+
+A los efectos de dar publicidad al mencionado Acuerdo del Consejo de Ministros de 27 de junio de 2023, y de cumplir con el apartado tercero. Entrada en Vigor, esta Secretaría de Estado de Digitalización e Inteligencia Artificial ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente Resolución.
