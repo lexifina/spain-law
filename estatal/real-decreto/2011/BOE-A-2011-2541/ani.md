@@ -34,7 +34,7 @@ Actuaciones y criterios de movilidad.
 
 Relación de actividades previstas para fomentar la dirección de tesis doctorales y existencia de una guía de buenas prácticas para su dirección.
 
-Relación de actividades previstas que fomenten la supervisión múltiple en casos justificados académicamente (co-dirección de tesis por parte de un director experimentado y un director novel, co-tutela de tesis interdisciplinares, en colaboración, internacional, etc.) y presencia de expertos internacionales en las comisiones de seguimiento, informes previos y en los tribunales de tesis.
+Relación de actividades previstas que fomenten la supervisión múltiple en casos justificados académicamente y presencia de expertos internacionales en las comisiones de seguimiento, informes previos y en los tribunales de tesis.
 
 5.2 Seguimiento del doctorando.
 
@@ -81,3 +81,5 @@ En el caso de programas en los que participen más de una universidad, se deber�
 Descripción del procedimiento para el seguimiento de doctores egresados.
 
 Datos relativos a los últimos 5 años o estimación prevista en los próximos 6 años (en el caso de programas de nueva creación) sobre: tesis producidas, tasa de éxito en la realización de tesis doctorales, calidad de las tesis y contribuciones resultantes. Justificación de los datos aportados.
+
+> Se modifica el apartado 5.1 por el art. 1.21 del Real Decreto 576/2023, de 4 de julio. Ref. BOE-A-2023-16573

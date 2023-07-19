@@ -1,13 +1,15 @@
-## Artículo 15 bis. Mención Industrial en el título de Doctor.
+## Artículo 15 bis. Mención Industrial en el título de Doctora o Doctor.
 
-1. Se otorgará la mención “Doctorado Industrial” siempre que concurran las siguientes circunstancias:
+1. Esta mención se obtendrá al realizar los estudios de doctorado con la colaboración del tejido social y económico con el fin de fomentar la colaboración y la transferencia e intercambio de conocimiento entre el mundo académico y el mundo social y económico, ya sea éste del ámbito público o privado. Se podrá otorgar la mención "Doctorado Industrial" siempre que concurran las siguientes circunstancias:
 
-a) La existencia de un contrato laboral o mercantil con el doctorando. El contrato se podrá celebrar por una empresa del sector privado o del sector público, así como por una Administración Pública.
+a) Que la tesis haya desarrollado un proyecto de investigación de interés industrial, comercial, social o cultural de una entidad, empresa pública o privada o administración pública. Quedan excluidas las universidades, los organismos públicos de investigación (nacionales o autonómicos) y los hospitales universitarios. De manera excepcional, se podrá realizar esta mención en cualquiera de estas instituciones, excepto en las universidades, siempre que el contenido de la tesis sea eminentemente aplicado. La relación directa entre la tesis doctoral y la labor desarrollada por la doctoranda o el doctorando en la entidad o empresa deberá formalizarse en una memoria científico-técnica que deberá ser aprobada por la universidad.
 
-b) El doctorando deberá participar en un proyecto de investigación industrial o de desarrollo experimental que se desarrolle en la empresa o Administración Pública en la que se preste el servicio, que no podrá ser una Universidad. El proyecto de investigación industrial o de desarrollo experimental en el que participe el doctorando tiene que tener relación directa con la tesis que realiza. Esta relación directa se acreditará mediante una memoria que tendrá que ser visada por la Universidad.
+b) Que se haya suscrito un convenio entre la entidad, empresa o administración pública y la universidad para el desarrollo académico de la tesis doctoral, que establecerá, como mínimo, las obligaciones de las partes y los derechos de propiedad industrial que se puedan generar.
 
-2. En el caso de que el proyecto de investigación industrial o de desarrollo experimental se ejecute en colaboración entre la Universidad y la empresa o Administración Pública en la que preste servicio el doctorando, se suscribirá un convenio de colaboración marco con entre las partes. En este convenio se indicarán las obligaciones de la Universidad y las obligaciones de la empresa o Administración Pública, así como el procedimiento de selección de los doctorandos.
+c) Que la doctoranda o el doctorando haya estado contratada o contratado por la entidad, empresa o administración pública donde desarrolle el proyecto de investigación al menos un año durante el desarrollo de la tesis, siendo necesario que una parte sustancial de la misma se desarrolle en la entidad, empresa o administración pública.
 
-El doctorando tendrá un tutor de tesis designado por la Universidad y un responsable designado por la empresa o Administración Pública, que podrá ser, en su caso, Director de la tesis de acuerdo con la normativa propia de Doctorado.
+2. La doctoranda o el doctorando tendrá una persona tutora de la tesis designada por la universidad y una persona responsable designada por la entidad, empresa o administración pública, que podrá ser, en su caso, Directora o Director de la tesis de acuerdo con lo establecido en este real decreto. En ningún caso el responsable designado por la empresa podrá formar parte del tribunal evaluador de la tesis.
+
+> Se modifica por el art. 1.16 del Real Decreto 576/2023, de 4 de julio. Ref. BOE-A-2023-16573
 
 > Se añade por la disposición final 3.6 del Real Decreto 195/2016, de 13 de mayo. Ref. BOE-A-2016-5339#df-3.
