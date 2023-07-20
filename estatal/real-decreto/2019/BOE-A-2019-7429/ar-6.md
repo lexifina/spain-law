@@ -32,7 +32,7 @@ b) Programa de formación, de acuerdo con lo determinado en los artículos 4 y 5
 
 5.º Justificación de que la actividad desarrollada por la entidad solicitante está estrechamente relacionada con los sectores agrario, ganadero, forestal o agroalimentario, según el modelo oficial que se recogerá en la respectiva convocatoria.
 
-6.º Relación de actividades, detallando para cada una: objetivo perseguido a que se refiere el artículo 5, modalidad de impartición, duración, número de alumnos previsto, provincia, trimestre del año en que se llevarán a cabo y coste previsto de la actividad.
+6.º Relación de actividades, detallando para cada una: objetivo perseguido a que se refiere el artículo 5, modalidad de impartición, duración, número de alumnos previsto, provincia, trimestre del año en que se llevarán a cabo y subvención prevista por actividad.
 
 7.º Descripción del plan de difusión y publicidad.
 
@@ -63,6 +63,8 @@ La presentación de la solicitud de subvención por parte del beneficiario conll
 En el caso de que el beneficiario de la ayuda expresamente se oponga a que se recaben los datos a la Seguridad Social, deberá presentar él mismo la documentación a que se hace referencia y acreditar el cumplimiento del resto de obligaciones con la Seguridad Social según lo dispuesto en el artículo 22 del Reglamento de la Ley 38/2003, de 17 de noviembre.
 
 Asimismo, el órgano gestor comprobará las facultades o poderes de la persona representante de la entidad, salvo oposición expresa del solicitante, en cuyo caso deberá aportar junto con la solicitud la certificación acreditativa de dichas facultades o poderes.
+
+> Se modifica el punto 6º del apartado 4.b) por la disposición final 1.1 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
 
 > Se modifica el apartado 4 por el art. único.5 del Real Decreto 206/2023, de 28 de marzo. Ref. BOE-A-2023-7940
 

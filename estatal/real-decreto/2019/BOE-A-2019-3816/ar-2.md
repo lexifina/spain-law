@@ -14,7 +14,7 @@ Entidad beneficiaria: Organización que haya de realizar la actividad que fundam
 
 Gasto imputado: El importe que indica el beneficiario que se ha gastado en el proyecto.
 
-Gasto real/justificado: El resultante de la comprobación del gasto imputado de acuerdo con la documentación que aporta el beneficiario y la normativa de aplicación.
+Gasto real/justificado: el importe validado o verificado resultante de la comprobación del gasto imputado por el órgano instructor de acuerdo con la documentación que aporta la entidad beneficiaria y la normativa de aplicación.
 
 Jornada: Reunión concebida para impartir información específica, identificar problemas, despertar interés o promover cambios deseables dentro de los ámbitos de actuación establecidos en el artículo 1, que deberá realizarse en 1 o 2 días consecutivos.
 
@@ -27,5 +27,7 @@ Presupuesto financiable: El que se indica en la resolución de concesión o, en 
 Programa: Distribución de las temáticas y contenidos a lo largo de la jornada, con la duración de los mismos.
 
 Proyecto: Conjunto de jornadas que comprende la subvención.
+
+> Se modifica el párrafo séptimo por el art. único.2 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
 
 > Se modifica por el art. 1.2 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap

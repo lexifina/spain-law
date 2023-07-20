@@ -6,7 +6,7 @@
 
 a) Estar legalmente constituidas como entidades asociativas de mujeres del medio rural.
 
-b) Estar inscritas en el Registro Nacional de Asociaciones del Ministerio del Interior.
+b) Estar inscritas en el Registro Nacional de Asociaciones del Ministerio del Interior al menos con un año de antelación a la fecha de publicación del extracto de cada convocatoria en el “Boletín Oficial del Estado”.
 
 c) Tener expresamente consignado en su título constitutivo un ámbito de actuación estatal y realizar actividades en al menos tres comunidades autónomas.
 
@@ -19,3 +19,5 @@ f) Tener entre sus actividades habituales la realización de proyectos para la p
 g) Tener personalidad jurídica propia, capacidad de obrar y no encontrarse incursas en los supuestos contemplados en los apartados 2 y 3 del artículo 13 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y en el artículo 21 del Reglamento de la Ley General de Subvenciones, aprobado por Real Decreto 887/2006, de 21 de julio.
 
 h) No haber sido sancionado mediante resolución firme con la pérdida de la posibilidad de obtener subvenciones conforme a la Ley 38/2003, de 17 de noviembre, General de Subvenciones u otras leyes que así lo establezcan.
+
+> Se modifica la letra b) del apartado 2 por el art. único.3 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646

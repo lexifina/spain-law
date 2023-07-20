@@ -6,4 +6,8 @@
 
 3. Los criterios de valoración y su ponderación, que regirán el otorgamiento de subvenciones, son los indicados en el anexo I.
 
-4. No serán consideradas, a efectos de obtención de la subvención, aquellos proyectos que no obtengan una puntuación mínima de 50 puntos.
+En los criterios de valoración 2 y 3 recogidos en el anexo I solo se tendrán en cuenta las actividades de carácter presencial.
+
+4. No serán considerados, a efectos de obtención de la subvención, aquellos proyectos que no obtengan una puntuación mínima de 50 puntos.
+
+> Se modifican los apartados 3 y 4 por el art. único.6 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646

@@ -1,37 +1,49 @@
 ## Artículo 5. Contenidos y requisitos de las actividades subvencionables.
 
-1. Las entidades solicitantes de las ayudas deberán presentar un único proyecto, que incluya la propuesta de actividades a realizar, de acuerdo con los objetivos que se establecen en el artículo 1 y los límites del importe total solicitado según lo establecido en el artículo 4.
+1. Las entidades solicitantes de las ayudas deberán presentar un único proyecto, que incluya la propuesta de actividades a realizar, de acuerdo con las temáticas establecidas en el artículo 1 y los límites del importe total solicitado según lo establecido en el artículo 4.
 
-2. Las actividades subvencionables consistirán en la celebración de jornadas. En el proyecto presentado por cada entidad solicitante, deberán abordarse todos los objetivos recogidos en el artículo 1.2.
+2. Las actividades subvencionables deberán atender a los siguientes requisitos:
 
-3. Las actividades subvencionables deberán atender a los siguientes requisitos:
+a) Sólo podrán subvencionarse las actividades de carácter presencial o telemático mediante “aula virtual” o en régimen mixto (combinado de presencial y telemático). La duración mínima de las actividades presenciales o mixtas será de 4 horas, teóricas o prácticas, por día, mientras que en el caso de las actividades telemáticas mediante “aula virtual”, así como las actividades que se impartan en centros educativos oficiales dirigidas a estudiantes y las actividades de temática libre a las que se refiere el apartado 4 del artículo 1, la duración mínima será de 2 horas.
 
-a) Sólo podrán subvencionarse los gastos de realización de actividades que tengan carácter presencial, telemático mediante “aula virtual” o mixto y cuya duración mínima sea de 4 horas lectivas, teóricas o prácticas, por día, en el caso de actividades presenciales o mixtas, y de 2 horas lectivas de duración mínima en las actividades telemáticas mediante “aula virtual” o en las que se impartan en centros educativos oficiales dirigidas a estudiantes.
+b) El número de asistentes por actividad no podrá ser inferior a lo indicado a continuación, en función de las cifras oficiales de población del municipio en el que tenga lugar la actividad a fecha de publicación de cada convocatoria:
 
-b) Al menos el 70 % de las actividades programadas deberán realizarse de lunes a viernes no festivo. En caso de que la jornada sea de 2 días, al menos uno de ellos será de lunes a viernes no festivo.
+1.º Municipios de hasta 5.000 habitantes: 10 asistentes.
 
-c) Los programas de las actividades podrán incluir, con carácter general, la realización de visitas de carácter técnico y/o actividades prácticas, en territorio nacional, cuya duración no será superior al 50 % del tiempo programado de horas lectivas totales.
+2.º Municipios de más de 5.000 habitantes: 15 asistentes.
 
-d) El número de asistentes por actividad no podrá ser inferior de 15.
+c) Se deberá cumplir el programa que haya sido aprobado en la resolución de concesión para cada actividad, con especial atención tanto a la duración como al contenido.
 
-e) Se establece un porcentaje máximo del 30 % de mujeres mayores de 65 años, respecto al número total de mujeres asistentes para la totalidad del proyecto. Para poder verificar este requisito las entidades solicitantes deberán aportar para cada jornada realizada el listado de firmas de los asistentes, que incluirá el DNI, la fecha de nacimiento y la autorización expresa de los asistentes para que el órgano instructor pueda verificar estos datos. En caso de no aportarse esta autorización, se deberá aportar copia de los DNI de los asistentes.
+d) Las actividades serán totalmente gratuitas para quienes asistan y podrán ser subvencionables los gastos de desplazamiento y manutención de las personas que asistan a las actividades de carácter presencial o mixtas (en la parte que sea presencial) previstas en estas bases reguladoras.
 
-f) Al menos el 80 % de las asistentes del proyecto serán mujeres.
+e) Los ponentes que participen en las actividades deberán disponer de titulación universitaria o formación profesional de grado superior o experiencia laboral demostrable y reciente, relacionadas con la materia impartida. En la orden de convocatoria se podrán establecer especificaciones relativas a los requisitos sobre su titulación o experiencia laboral.
 
-g) El gasto máximo por asistente y hora lectiva media de las jornadas del proyecto no podrá superar los 20 €, en el cómputo global a del proyecto. El coste máximo se calculara multiplicando este valor de 20 euros por el n.º total de asistentes al proyecto y por las horas lectivas de duración media de las jornadas del proyecto.
+f) Se deberá dar publicidad y difusión a cada actividad del proyecto aprobado por la resolución de concesión, con una antelación mínima de siete días respecto a la fecha de inicio de la misma, y según los términos que se establezcan en la convocatoria.
 
-h) Se deberá cumplir el programa que haya sido aprobado por la resolución de concesión para cada actividad, con especial atención tanto a la duración como al contenido.
-
-i) Las actividades serán totalmente gratuitas para los asistentes y podrán ser subvencionables los gastos de desplazamiento y manutención derivados de la asistencia de las personas que asistan a las actividades de carácter presencial o mixtas (en la parte que sea presencial) previstas en estas bases reguladoras, teniendo en cuenta los límites establecidos en el Real Decreto 462/2002, de 24 de mayo, correspondientes como máximo al grupo 2 y en el artículo 7 y anexo II de estas bases reguladoras.
-
-4. Adicionalmente, la organización de las actividades mediante “aula virtual” deberá cumplir los siguientes requisitos:
+3. La organización de las actividades mediante “aula virtual” deberá cumplir los siguientes requisitos:
 
 a) Garantizar en todo momento que exista conectividad sincronizada entre ponentes y asistentes, así como la bidireccionalidad en las comunicaciones.
 
-b) Contar con un registro de conexiones generado por la aplicación informática que sirva de soporte al aula virtual, en el que se identifique, para cada actividad realizada a través de este medio, los asistentes a la misma, así como sus fechas y tiempos de conexión. Cuando ello no sea posible, la participación se podrá constatar mediante declaración responsable del asistente o, de forma excepcional, mediante cualquier medio que acredite el número e identidad de los asistentes, como capturas de pantalla realizadas durante la actividad.
+b) Contar con un registro de conexiones generado por la aplicación informática que sirva de soporte al aula virtual, en el que se identifique, para cada actividad realizada a través de este medio, quienes asistan a la misma, así como sus fechas y tiempos de conexión. Cuando ello no sea posible, la participación se podrá constatar mediante declaración responsable del asistente o, de forma excepcional, mediante cualquier medio que acredite el número e identidad de las personas asistentes, como capturas de pantalla realizadas durante la actividad.
 
 c) Contar con un mecanismo que posibilite la conexión durante el tiempo de celebración del aula que pueda seguirse por los órganos de control, con el fin de realizar las actuaciones de seguimiento descritas en el artículo 17.
 
-d) Poner a disposición de los asistentes en cada actividad un número de teléfono y una dirección de correo electrónico destinados a la resolución de dudas en el manejo e incidencias técnicas relacionadas con el aula virtual. Se proporcionará a ponentes y asistentes unas instrucciones de manejo relacionadas con el aula virtual, con anterioridad al desarrollo de la actividad.
+d) Poner a disposición de las personas asistentes de cada actividad un número de teléfono y una dirección de correo electrónico destinados a la resolución de dudas en el manejo e incidencias técnicas relacionadas con el aula virtual. Se proporcionará a ponentes, asistentes y órgano de control, en su caso, unas instrucciones de manejo relacionadas con el aula virtual, con anterioridad al desarrollo de la actividad.
+
+e) Las actividades telemáticas en “aula virtual” se deberán grabar y conservar en formato digital, para lo que previamente se deberá recabar el consentimiento de todas las personas participantes.
+
+4. Adicionalmente, se deberán respetar los siguientes requisitos relacionados con el conjunto del proyecto:
+
+a) Las actividades programadas de ámbito presencial deberán desarrollarse al menos en cinco comunidades autónomas.
+
+b) Al menos el 70 % de las actividades programadas deberán realizarse de lunes a viernes no festivo. En caso de que la jornada sea de dos días, al menos uno de ellos será de lunes a viernes no festivo.
+
+c) Los programas de las actividades podrán incluir, con carácter general, la realización de visitas de carácter técnico y actividades prácticas, en territorio nacional, cuya duración no será superior al 50 % del tiempo programado de horas totales.
+
+d) Se establece un porcentaje máximo del 35 % de personas mayores de sesenta y cinco años, respecto al número total de asistentes para la totalidad del proyecto. Para poder verificar este requisito las entidades solicitantes deberán aportar para cada jornada realizada el listado de firmas de las personas asistentes, que incluirá el número del DNI/NIE y la fecha de nacimiento. El órgano instructor podrá verificar estos datos conforme al Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes.
+
+e) Al menos el 80 % de quienes asistan a las actividades del proyecto serán mujeres.
+
+> Se modifica por el art. único.5 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
 
 > Se modifican las letras a) e i) del apartado 3 y se añade el apartado 4 por el art. 1.3 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap

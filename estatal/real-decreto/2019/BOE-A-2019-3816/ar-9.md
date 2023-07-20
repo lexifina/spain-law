@@ -24,11 +24,13 @@ c) Declaración responsable de la persona representante de la entidad solicitant
 
 d) Declaración responsable de tener reconocido el derecho de exención del Impuesto sobre el Valor Añadido (IVA) o Impuesto general Indirecto Canario (IGIC), o, en su caso, la última declaración del mismo.
 
-e) Declaración responsable de que la entidad solicitante no es deudora por resolución de procedencia de reintegro de subvenciones, según el artículo 25 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+e) Declaración responsable de que la entidad solicitante no es deudora por resolución de procedencia de reintegro de subvenciones, en cumplimiento del artículo 25 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, junto con el compromiso a seguir cumpliendo este requisito durante el tiempo en que se desarrolle el procedimiento.
 
 f) Declaración responsable de que no se trate de entidades sujetas a una orden de recuperación pendiente tras una decisión previa de la Comisión que haya declarado una ayuda ilegal e incompatible con el mercado interior
 
 g) Declaración responsable de que no se trate de entidades calificadas como empresa en crisis de acuerdo con la normativa europea.
+
+h) Declaración responsable de que la entidad no está incursa en las prohibiciones para obtener la condición de beneficiaria, de acuerdo con el artículo 13 de la Ley 38/2003, de 17 de noviembre, excepto en lo que respecta a la letra e) de dicho artículo, cuya acreditación se realizará conforme a lo previsto en los artículos 9.4 y 10.2 del presente real decreto.
 
 4. La presentación de la solicitud conllevará la autorización de la entidad solicitante para que el órgano concedente obtenga de forma directa la acreditación de las circunstancias previstas en los artículos 18 y 19 del Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones a través de certificados electrónicos, en cuyo caso la solicitante no deberá aportar la correspondiente certificación.
 
@@ -43,3 +45,5 @@ Asimismo, el órgano gestor comprobará las facultades o poderes de la persona r
 6. En caso de subsanación de errores o no aportación de documentación presentada, la persona interesada dispondrá de un plazo de 10 días hábiles para realizar dicha subsanación, de conformidad con lo dispuesto en el artículo 68 de la Ley 39/2015, de 1 de octubre. En el requerimiento para la subsanación se indicará que si el interesado no subsana o acompaña los documentos preceptivos en el plazo indicado, se le tendrá por desistido en su petición, previa resolución que deberá ser dictada en los términos previstos en el artículo 21 de la Ley 39/2015, de 1 de octubre.
 
 7. Si alguno de estos sujetos obligados a la relación electrónica presentase una solicitud presencialmente, se les requerirá para que la subsanen a través de su presentación electrónica, de conformidad con el artículo 68.4 de la Ley 39/2015, de 1 de octubre, y se considerará como fecha de presentación de la solicitud aquella en que haya sido realizada la subsanación.
+
+> Se modifica la letra e) y se añade la letra h) al apartado 3 por el art. único.8 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
