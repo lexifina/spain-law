@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 196, de 16 de agosto de 2012. Ref. BOE-A-2012-10935.
+Norma derogada, con efectos de 20 de julio de 2023, por la disposición derogatoria única de la Orden ISM/810/2023, de 14 de julio. Ref. BOE-A-2023-16713 y por la disposición derogatoria única de la Orden ISM/820/2023, de 18 de julio. Ref. BOE-A-2023-16807
