@@ -2,8 +2,10 @@
 
 ## Intensidad del servicio de ayuda a domicilio según grado de dependencia
 
-– Grado III. Gran dependencia: Entre 46 y 70 horas mensuales.
+– Grado I: De 20 a 37 horas mensuales.
 
-– Grado II. Dependencia severa: Entre 21 y 45 horas mensuales.
+– Grado II: De 38 a 64 horas mensuales.
 
-– Grado I. Dependencia moderada: Máximo 20 horas mensuales.
+– Grado III: De 65 a 94 horas mensuales.
+
+> Se modifica por art. único.7 del Real Decreto 675/2023, de 18 de julio. Ref. BOE-A-2023-16651
