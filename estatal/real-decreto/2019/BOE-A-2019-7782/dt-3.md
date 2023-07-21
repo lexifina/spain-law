@@ -1,0 +1,5 @@
+## Disposición transitoria transitoria tercera. Aplicación de las modificaciones realizadas en el componente por méritos investigadores del complemento específico.
+
+De forma excepcional, los períodos y méritos para el reconocimiento del componente por méritos investigadores del complemento específico, regulado en el artículo 5.3 del Real Decreto 310/2019, de 26 de abril, que no hayan sido sometidos a evaluación, hayan sido valorados con resultado no favorable, no hayan sido valorados o lo hayan sido de forma parcial, por no haber sido desarrollada la actividad en los Organismos Públicos de Investigación de la Administración General del Estado y que, de conformidad con la redacción vigente del artículo 25.5 de la Ley 14/2011, de 1 de junio, se refieran a méritos investigadores o de transferencia de conocimiento susceptibles de ser sometidos a evaluación, podrán ser objeto de una nueva solicitud de evaluación.
+
+> Se añade por la disposición final 1 del Real Decreto 669/2023, de 18 de julio. Ref. BOE-A-2023-16729#df
