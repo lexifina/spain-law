@@ -2,7 +2,7 @@
 
 ## Aplicaciones exentas de la restricción del artículo 6.1
 
-45 [sic]. Mercurio en lámparas fluorescentes de casquillo único (compactas) sin sobrepasar (por quemador):
+1. Mercurio en lámparas fluorescentes de casquillo único (compactas) sin sobrepasar (por quemador):
 
 1.a) Para usos generales de alumbrado < 30 W: 2,5 mg. Expira el 24 de febrero de 2023.
 
@@ -30,7 +30,7 @@
 
 2.a).4.º Fósforo de tres bandas con vida útil normal y diámetro del tubo > 28 mm (por ejemplo, T12): 3,5 mg. Expira el 24 de febrero de 2023.
 
-2.a).5.º Fósforo de tres bandas con vida útil larga (≥ 25 000 h): 5 mg. Expira el 24 de febrero de 2023.
+2.a).5.º Fósforo de tres bandas con vida útil larga (≥ 25000 h): 5 mg. Expira el 24 de febrero de 2023.
 
 2.b) Mercurio en otras lámparas fluorescentes sin sobrepasar (por lámpara):
 
@@ -50,15 +50,17 @@
 
 3.a) Longitud pequeña (≤ 500 mm): 3,5 mg. Expira el 24 de febrero de 2025.
 
-3.b) Longitud media (> 500 mm y ≤ 1500 mm): 5 mg. Expira el 24 de febrero de 2025.
+3.b) Longitud media (> 500 mm y ≤ 1 500 mm): 5 mg. Expira el 24 de febrero de 2025.
 
-3.c) Longitud grande (> 1500 mm): 13 mg. Expira el 24 de febrero de 2025.
+3.c) Longitud grande (> 1 500 mm): 13 mg. Expira el 24 de febrero de 2025.
 
 4.a) Mercurio en otras lámparas de descarga de baja presión (por lámpara): 15 mg. Expira el 24 de febrero de 2023.
 
 4.a).1.º Mercurio en lámparas de descarga de baja presión sin recubrimiento de fósforo, cuando la aplicación requiere que la parte principal del rango espectral de la lámpara se encuentre en el espectro ultravioleta: podrán utilizarse hasta 15 mg de mercurio por lámpara. Expira el 24 de febrero de 2027.
 
 4.b) Mercurio en lámparas de (vapor de) sodio de alta presión para usos generales de alumbrado, en lámparas con índice de rendimiento de color mejorado (Ra > 80), sin sobrepasar (por quemador): P ≤ 105 W: podrán utilizarse 16 mg por quemador. Expira el 24 de febrero de 2027.
+
+65012
 
 4.b).1.º Mercurio en lámparas de (vapor de) sodio de alta presión para usos generales de alumbrado, en lámparas con índice de rendimiento de color mejorado (Ra > 60), sin sobrepasar (por quemador): P ≤ 155 W: podrán utilizarse 30 mg por quemador. Expira el 24 de febrero de 2023.
 
@@ -88,7 +90,7 @@
 
 4.g) Mercurio en tubos luminosos de descarga de fabricación artesanal utilizados en rótulos, dispositivos de iluminación decorativa o arquitectónica y especializada y creaciones de iluminación artística, sin sobrepasar las cantidades siguientes:
 
-4.g).1.º 20 mg por par de electrodos + 0,3 mg por cm de longitud del tubo, pero no más de 80 mg, para aplicaciones de exterior y para aplicaciones de interior expuestas a temperaturas inferiores a 20 °C.
+4.g).1.º 20 mg por par de electrodos + 0,3 mg por cm de longitud del tubo, pero no más de 80 mg, para aplicaciones de exterior y para aplicaciones de interior expuestas a temperaturas inferiores a 20 ºC.
 
 4.g).2.º 15 mg por par de electrodos + 0,24 mg por cm de longitud del tubo, pero no más de 80 mg, para todas las demás aplicaciones de interior. Expira el 31 de diciembre de 2018.
 
@@ -112,7 +114,7 @@
 
 – 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8.
 
-– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+− 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
 
 6.b).2.º Plomo como elemento de aleación en aluminio que contenga hasta un 0,4 % de su peso en plomo, a condición de que proceda de reciclado de chatarra de aluminio con plomo. Expira el 21 de julio de 2021 para las categorías 1 a 7 y 10.
 
@@ -182,9 +184,9 @@ Con respecto a los instrumentos industriales de vigilancia y control de la categ
 
 – interruptores de CA para intensidades nominales:
 
-• iguales o superiores a 6 A a una tensión igual o superior a 250 V CA, o
+● iguales o superiores a 6 A a una tensión igual o superior a 250 V CA, o
 
-• iguales o superiores a 12 A a una tensión igual o superior a 125 V CA,
+● iguales o superiores a 12 A a una tensión igual o superior a 125 V CA,
 
 – interruptores de CC para intensidades nominales iguales o superiores a 20 A a una tensión igual superior a 18 V CC, e
 
@@ -208,11 +210,13 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 5 de marzo de 2021.
 
 9.a).2.º Hasta un 0,75 % de cromo hexavalente, en peso, utilizado como protección anticorrosiva en la solución refrigerante de los sistemas de refrigeración de acero al carbono en frigoríficos de absorción:
 
-– diseñados para funcionar total o parcialmente con calefactores eléctricos, con una potencia de entrada media ≥ 75 W en condiciones de funcionamiento constante;
+− diseñados para funcionar total o parcialmente con calefactores eléctricos, con una potencia de entrada media ≥ 75 W en condiciones de funcionamiento constante;
 
-– diseñados para funcionar totalmente con calefactores no eléctricos.
+− diseñados para funcionar totalmente con calefactores no eléctricos.
 
 Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
+
+9.a).3.º Hasta un 0,7 % de cromo hexavalente en peso, utilizado como protector contra la corrosión en el fluido de trabajo del circuito sellado de acero al carbono de las bombas de calor de absorción impulsadas por gas para calefacción de espacios y producción de agua caliente. Se aplica a la categoría 1 y expira el 31 de diciembre de 2026.
 
 9.b).1.º Plomo en cojinetes y pistones para compresores que contienen refrigerante para aplicaciones de calefacción, ventilación, acondicionamiento de aire y refrigeración (HVACR). Se aplica a las categorías 8, 9 y 11; expira el:
 
@@ -228,7 +232,7 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
 11.b) Plomo utilizado en aplicaciones distintas de los sistemas de conectores de pines del tipo C-press que se ajusten a las normas: Expira el 1 de enero de 2013 y tras esta fecha podrá utilizarse en piezas de repuesto para AEE comercializados antes del 1 de enero de 2013.
 
-12. Plomo como material de recubrimiento del anillo en “c” (c-ring) de los módulos de conducción térmica: Puede utilizarse en las piezas de repuesto para AEE comercializados antes del 24 de septiembre de 2010.
+12. Plomo como material de recubrimiento del anillo en «c» (c-ring) de los módulos de conducción térmica: Puede utilizarse en las piezas de repuesto para AEE comercializados antes del 24 de septiembre de 2010.
 
 13.a) Plomo en vidrios blancos utilizados para aplicaciones ópticas. Se aplica a todas las categorías y expira el:
 
@@ -266,9 +270,9 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
 – un nodo tecnológico semiconductor de 90 nm o más,
 
-– un cubo único de 300 mm2 o mayor en cualquier nodo tecnológico semiconductor,
+– un cubo único de 300 mm² o mayor en cualquier nodo tecnológico semiconductor,
 
-– cápsulas de cubos apilados con cubo de 300 mm2 o mayor, o interponedores de silicio de 300 mm2 o mayores.
+– cápsulas de cubos apilados con cubo de 300 mm² o mayor, o interponedores de silicio de 300 mm² o mayores.
 
 Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
@@ -276,9 +280,7 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
 17. Haluro de plomo empleado como agente radiante en lámparas de descarga de alta intensidad (HID) utilizadas en aplicaciones de reprografía profesionales.
 
-18.a) Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga utilizadas como lámparas para usos especiales, como la reprografía con impresión diazoica, la litografía, las trampas para insectos y los procesos fotoquímicos y de curado, que contengan fósforos tales como SMS [(Sr,Ba)2MgSi2O7:Pb]: Expiró el 1 de enero de 2011.
-
-18.b) Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga utilizadas como lámparas de bronceado que contengan fósforos tales como BSP (BaSi2O5:Pb). Expira el:
+18.a) Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga utilizadas como lámparas para usos especiales, como la reprografía con impresión diazoica, la litografía, las trampas para insectos y los procesos fotoquímicos y de curado, que contengan fósforos tales como SMS [(Sr,Ba)2MgSi2O7:Pb]: Expiró el 1 de enero de 2011. 18.b) Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga utilizadas como lámparas de bronceado que contengan fósforos tales como BSP (BaSi2O5: Pb). Expira el:
 
 – 21 de julio de 2021 para las categorías 1 a 7 y 10,
 
@@ -288,7 +290,7 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
 – 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
 
-18.b).1.º Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga que contengan fósforos tales como BSP (BaSi2O5:Pb) cuando se utilicen en equipos médicos de fototerapia. Se aplica a las categorías 5 y 8, salvo las aplicaciones contempladas en la entrada 34 del anexo IV, y expira el 21 de julio de 2021.
+18.b).1.º Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga que contengan fósforos tales como BSP (BaSi2O5: Pb) cuando se utilicen en equipos médicos de fototerapia. Se aplica a las categorías 5 y 8, salvo las aplicaciones contempladas en la entrada 34 del anexo IV, y expira el 21 de julio de 2021.
 
 19. Plomo con PbBiSn-Hg y PbInSn-Hg en composiciones específicas como amalgama principal y con PbSn-Hg como amalgama auxiliar en lámparas de bajo consumo energético (ESL) muy compactas. Expira el 1 de junio de 2011.
 
@@ -384,13 +386,13 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
 Se aplica a todas las categorías; expira el:
 
-– 31 de marzo de 2022 en el caso de las categorías 1 a 7, 10 y 11;
+− 31 de marzo de 2022 en el caso de las categorías 1 a 7, 10 y 11;
 
-– 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control;
+− 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control;
 
-– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8;
+− 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8;
 
-– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control.
+− 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control.
 
 42. Plomo en cojinetes y pistones de motores de combustión interna propulsados por diésel o combustible gaseoso, utilizados en equipos no viales de uso profesional:
 
@@ -406,7 +408,7 @@ a) el 30 % en peso del caucho para i) recubrimientos de juntas, ii) juntas de ca
 
 b) el 10 % en peso del caucho de los componentes que contengan caucho no mencionados en la letra a).
 
-A efectos de la presente entrada, se entenderá por “contacto prolongado con la piel humana” el contacto continuo de una duración superior a 10 minutos o el contacto intermitente durante un período de 30 minutos, al día.
+A efectos de la presente entrada, se entenderá por «contacto prolongado con la piel humana» el contacto continuo de una duración superior a 10 minutos o el contacto intermitente durante un período de 30 minutos, al día.
 
 Se aplica a la categoría 11 y expira el 21 de julio de 2024.
 
@@ -417,6 +419,8 @@ Se aplica a la categoría 11 y expira el 21 de julio de 2024.
 45. Diazida de plomo, trinitrorresorcinato de plomo, dipicramato de plomo, minio anaranjado (tetraóxido de plomo), dióxido de plomo para iniciadores eléctricos y electrónicos de explosivos destinados a uso civil (profesional) y cromato de bario para cargas de retardo pirotécnico de los iniciadores eléctricos y electrónicos destinados a uso civil (profesional).
 
 Se aplica a la categoría 11 y expira el 20 de abril de 2026.
+
+> Se añade el punto 3º al apartado 9.a) por el art. único de la Orden PCM/811/2023, de 18 de julio. Ref. BOE-A-2023-16730
 
 > Se modifican los apartados 1, 2, 3 y 4 por el art. único de la Orden PCM/956/2022, de 6 de octubre. Ref. BOE-A-2022-16403
 
