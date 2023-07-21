@@ -48,7 +48,7 @@ b) Valoración del promedio trimestral y consumo habitual del uso de antibiótic
 
 c) Medidas para el almacenamiento y conservación de los medicamentos veterinarios de los tratamientos en curso y de los sobrantes de los tratamientos anteriores.
 
-d) Registro de los tratamientos con medicamentos veterinarios, conforme a lo dispuesto en el Real Decreto por el que se regula la distribución, prescripción, dispensación y uso de medicamentos veterinarios.
+d) Registro de los tratamientos con medicamentos veterinarios, conforme a lo dispuesto en el Real Decreto 666/2023, de 18 de julio, por el que se regula la distribución, prescripción, dispensación y uso de medicamentos veterinarios.
 
 e) Plan de la explotación ganadera para la gestión de los residuos de medicamentos veterinarios generados por dicha explotación.
 
@@ -57,3 +57,5 @@ e) Plan de la explotación ganadera para la gestión de los residuos de medicame
 8. Plan sanitario de la ADSG (en el caso en que el veterinario de explotación designado sea distinto al veterinario de la ADSG).
 
 B. Registro de actuaciones y recomendaciones.
+
+> Se modifica el apartado 6.d) de la letra A por la disposición final 2 del Real Decreto 666/2023, de 18 de julio. Ref. BOE-A-2023-16727#df-2

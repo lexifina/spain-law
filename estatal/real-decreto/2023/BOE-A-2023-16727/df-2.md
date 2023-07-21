@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación del Real Decreto 364/2023, de 16 de mayo, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación y al plan sanitario integral de las explotaciones ganaderas, y por el que se modifican varias normas de ordenación ganaderas.
+
+La letra d) del apartado 6 de la parte A del anexo IV del Real Decreto 364/2023, de 16 de mayo, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación y al plan sanitario integral de las explotaciones ganaderas, y por el que se modifican varias normas de ordenación ganaderas, queda redactada como sigue:
+
+> «d) Registro de los tratamientos con medicamentos veterinarios, conforme a lo dispuesto en el Real Decreto 666/2023, de 18 de julio, por el que se regula la distribución, prescripción, dispensación y uso de medicamentos veterinarios.»
