@@ -10,13 +10,15 @@
 
 5. La función de auditoría interna será ejercida por personal con suficiente conocimiento y experiencia, que garantice, en el ejercicio de sus funciones, plena independencia respecto a las distintas áreas de la entidad gestora, correspondiendo al consejo de administración de la misma garantizar los recursos precisos para el adecuado cumplimiento de las funciones que tienen encomendadas.
 
-Anualmente la entidad gestora elaborará un informe sobre la efectividad de sus procedimientos de control interno, incidiendo en las deficiencias significativas detectadas, sus implicaciones y proponiendo, en su caso, las medidas que se consideren adecuadas para su subsanación. El referido informe será aprobado por el consejo de administración de la entidad gestora y remitido a la Dirección General de Seguros y Fondos de Pensiones junto con la documentación estadístico contable anual en los plazos establecidos al efecto.
+Anualmente la entidad gestora elaborará un informe sobre la efectividad de sus procedimientos de control interno, incidiendo en las deficiencias significativas detectadas, sus implicaciones y proponiendo, en su caso, las medidas que se consideren adecuadas para su subsanación. Conforme a lo previsto en el artículo 30 ter del texto refundido de la Ley de Regulación de Planes y Fondos de Pensiones, dicho informe será aprobado por el consejo de administración de la entidad gestora y remitido a la Dirección General de Seguros y Fondos de Pensiones junto con las cuentas anuales en los plazos establecidos en el artículo 19.1 del citado texto refundido.
 
 6. Los requerimientos establecidos en este artículo, de aplicación a todas las entidades gestoras, podrán implementarse por las mismas de acuerdo con el principio de proporcionalidad, de manera que, exigiéndose los mismos principios y elementos de control, su ejecución pueda llevarse a cabo atendiendo a la dimensión de la entidad y a las características y nivel de riesgos de los fondos de pensiones gestionados. En ningún caso, la aplicación de este apartado podrá suponer una menor protección para el partícipe o beneficiario de los planes de pensiones integrados en los fondos de pensiones gestionados.
 
 7. Los procedimientos de control interno se extenderán, en aquellas entidades que externalicen cualesquiera de sus funciones o actuaciones, a las actividades externalizadas. En ningún supuesto la externalización de funciones implicará que la entidad gestora transfiera o deje de asumir las responsabilidades derivadas de tales funciones.
 
 8. La persona titular del Ministerio de Asuntos Económicos y Transformación Digital podrá establecer normas específicas de desarrollo de lo previsto en este artículo.
+
+> Se modifica el apartado 5 por el art. único.38 del Real Decreto 668/2023, de 18 de julio. Ref. BOE-A-2023-16728
 
 > Se modifica por el art. 2.15 del Real Decreto 738/2020, de 4 de agosto. Ref. BOE-A-2020-9340
 

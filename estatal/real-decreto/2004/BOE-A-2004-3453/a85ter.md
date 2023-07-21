@@ -50,6 +50,10 @@ e) Una vez celebrada la votación y proclamado el resultado, será válido hacer
 
 La Dirección General de Seguros y Fondos de Pensiones deberá determinar qué se entenderá, a efectos de este artículo, por volumen de negocio significativo atendiendo a la dimensión de la entidad gestora, el patrimonio administrado y la cuantía y características de la operación vinculada.
 
+5. Las operaciones vinculadas que correspondan a las inversiones del artículo 70.3.d) y 70.9.b) deberán ser aprobadas por el Órgano de seguimiento del Reglamento Interno de Conducta conforme al procedimiento que para esta operativa se establezca en el citado Reglamento Interno de Conducta.
+
+> Se añade el apartado 5 por el art. único.42 del Real Decreto 668/2023, de 18 de julio. Ref. BOE-A-2023-16728
+
 > Se modifica el apartado 3.b) por el art. 2.18 del Real Decreto 738/2020, de 4 de agosto. Ref. BOE-A-2020-9340
 
 > Se modifican los apartados 1 y 2 por el art. 2.18 del Real Decreto 62/2018, de 9 de febrero. Ref. BOE-A-2018-1832

@@ -16,11 +16,13 @@ b) La dirección efectiva de la sociedad gestora por personas independientes del
 
 c) La dirección efectiva de la sociedad depositaria por personas independientes de la entidad gestora.
 
-d) Que la entidad gestora y el depositario tengan domicilios diferentes y separación física de sus centros de actividad.
+d) La adecuada separación funcional y jerárquica en el desempeño de sus funciones.
 
 Las mencionadas medidas de separación deberán cumplirse igualmente en aquellos supuestos en que las entidades gestoras y depositarias hubieran delegado sus funciones en terceras entidades en los términos establecidos en este reglamento.
 
 4. La entidad gestora deberá manifestar en la información trimestral a facilitar a partícipes y beneficiarios, cualquiera que sea la modalidad de plan de pensiones al que pertenezcan, el tipo exacto de relación que le vincula al depositario, tomando como referencia, en su caso, la enumeración de circunstancias contenidas en el artículo 42 del Código de Comercio.
+
+> Se modifica la letra d) del apartado 3 por el art. único.43 del Real Decreto 668/2023, de 18 de julio. Ref. BOE-A-2023-16728
 
 > Se modifica el apartado 4 por el art. 2.19 del Real Decreto 738/2020, de 4 de agosto. Ref. BOE-A-2020-9340
 
