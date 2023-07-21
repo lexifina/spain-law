@@ -12,6 +12,6 @@ El plazo para que la Dirección General de Ordenación Pesquera del Ministerio d
 
 5. El registro constará de seis secciones, donde se inscribirán las OPP de ámbito nacional, las OPP de ámbito autonómico, las OPP de ámbito transnacional, las AOP de ámbito nacional, las AOP de ámbito autonómico y las AOP de ámbito transnacional.
 
-6. El registro asignará un número de orden correlativo, encuadrándose por segmentos, y se inscribirán los datos de reconocimiento.
+6. El registro asignará un número de orden correlativo, encuadrándose dentro de una modalidad, y se inscribirán los datos de reconocimiento.
 
-7. En el caso de OIP, su registro se regirá por lo dispuesto en el artículo 14 de la Ley 38/1994, de 30 de diciembre, y en el Real Decreto 705/1997, de 16 de mayo, por el que se aprueba el Reglamento de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones Interprofesionales Agroalimentarias.
+> Se modifica el apartado 6 y se suprime el apartado 7 por el art. único.8 del Real Decreto 664/2023, de 18 de julio. Ref. BOE-A-2023-16726
