@@ -46,11 +46,9 @@ Para asegurar la plena efectividad y garantizar las mismas posibilidades de obte
 
 La entidad colaboradora será seleccionada mediante un procedimiento sometido a los principios de publicidad, concurrencia, igualdad y no discriminación, según estas bases reguladoras, junto con las condiciones de solvencia, experiencia y eficacia.
 
-Estas subvenciones se ajustan y están condicionadas a lo dispuesto en el Reglamento (UE) número 702/2014, de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea y su actualización por la normativa comunitaria.
+Estas subvenciones se ajustan y están condicionadas a lo dispuesto en el Reglamento (UE) número 2022/2472, de la Comisión, de 14 de diciembre de 2022, por el que se declaran determinadas categorías de ayuda a los sectores agrícolas y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
 
-La presente disposición es la continuación de las subvenciones previstas en la Orden APA/3181/2007, de 30 de octubre, por la que se establecen las bases reguladoras de las subvenciones destinadas a las organizaciones y asociaciones de criadores para la conservación, mejora y fomento de las razas de ganado de producción (notificada a la UE con el número SA.40316), en el Real Decreto 368/2005, de 8 de abril, por el que se regula el control oficial del rendimiento lechero para la evaluación genética en las especies bovina, ovina y caprina (notificado a la UE con el número SA.40315) y en el Real Decreto 1625/2011, de 14 de noviembre, por el que se establecen las bases reguladoras de las subvenciones destinadas al fomento de las razas autóctonas españolas (notificado a la UE con el número SA.40300), hasta el plazo que admita el marco comunitario de ayudas estatales a partir del 1 de enero de 2023 o 30 de junio de 2023.
-
-Estas subvenciones han sido notificadas a la Unión Europea con el número SA.64134, de acuerdo con el citado Reglamento (UE) número 702/2014, de la Comisión, de 25 de junio de 2014.
+Este régimen de ayudas será publicado y comunicado a la Comisión de acuerdo con lo recogido, respectivamente en los artículos 9.1 y 11.1 del Reglamento número (UE) 2022/2472, de la Comisión, de 14 de diciembre de 2022.
 
 El presente real decreto se dicta al amparo de lo dispuesto en la regla 13.ª del artículo 149.1 de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica.
 
@@ -71,3 +69,5 @@ En su tramitación han sido consultadas las comunidades autónomas y las entidad
 En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa del Ministro de Política Territorial y Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 14 de septiembre de 2021,
 
 DISPONGO:
+
+> Se modifican los párrafos vigésimo quinto, vigésimo séptimo y se suprime el vigésimo sexto por la disposición final 2.1 a 3 del Real Decreto 663/2023, de 18 de julio. Ref. BOE-A-2023-16725#df-2

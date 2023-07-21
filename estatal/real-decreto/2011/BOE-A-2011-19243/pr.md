@@ -8,10 +8,12 @@ Este real decreto tiene la finalidad de garantizar la continuidad del progreso y
 
 Con el fin de posibilitar la correcta gestión de la raza, la adecuada aplicación de la reglamentación de los libros genealógicos y el desarrollo de los programas de mejora, así como mejorar la eficacia en la utilización de medios sin duplicidades, se considera oportuno que en el caso de existir varias asociaciones reconocidas oficialmente para la gestión de un libro genealógico deban integrarse en una asociación de segundo grado para acceder a estas ayudas.
 
-Las ayudas reseñadas en el presente real decreto se ajustan a lo establecido en el Reglamento (CE) n.º 1857/2006, de la Comisión, de 15 de diciembre de 2006, sobre la aplicación de los artículos 87 y 88 del Tratado a las ayudas estatales para las pequeñas y medianas empresas dedicadas a la producción de productos agrícolas y por el que se modifica el Reglamento (CE) n.º 70/2001, publicado en el Diario Oficial de la Unión Europea de fecha 16/12/2006, habiéndose comunicado a la misma de acuerdo con lo estipulado en el citado reglamento.
+Este régimen de ayudas será publicado y comunicado a la Comisión de acuerdo con lo recogido, respectivamente en los artículos 9.1 y 11.1 del Reglamento (UE) 2022/2472, de la Comisión, de 14 de diciembre de 2022, por el que se declaran determinadas categorías de ayuda a los sectores agrícolas y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
 
 En la elaboración de esta disposición han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados.
 
 En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino, y previa deliberación del Consejo de Ministros en su reunión del día 11 de noviembre de 2011,
 
 DISPONGO:
+
+> Se modifica el párrafo sexto por la disposición final 1.1 del Real Decreto 663/2023, de 18 de julio. Ref. BOE-A-2023-16725#df

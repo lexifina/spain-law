@@ -36,7 +36,7 @@ Declaración responsable de que:
 
 – Cumple los requisitos exigidos para obtener la condición de beneficiaria, y se compromete a aportar, en el trámite de audiencia, la documentación exigida en las bases reguladoras.
 
-– Que cumple la condición de condición de PYME, según el anexo I del Reglamento (CE) 702/2014, de la Comisión, de 25 de junio de 2014 (y sus futuras modificaciones)
+– Que cumple la condición de PYME, según de acuerdo con lo establecido en el artículo 2.52 y anexo I del Reglamento (UE) 2022/2472, de la Comisión, de 14 de diciembre de 2022.
 
 – Que no tiene consideración de empresa en crisis ni tiene órdenes de recuperación pendiente tras una decisión previa de la Comisión Europea que haya declarado una ayuda ilegal e incompatible con el mercado interior.
 
@@ -83,3 +83,5 @@ Delegado de Protección de datos: bzn-delegadosPD@mapama.es.
 4. Destinatarios de los datos: no se llevan a cabo cesiones de datos ni transferencias internacionales de datos, salvo las previstas legalmente (otros Ministerios u organismos dependientes de los mismos, como la Agencia Estatal de Administración Tributaria o el Instituto Nacional de la Seguridad Social, comunidades autónomas, Fuerzas y Cuerpos de Seguridad, y autoridades judiciales).
 
 5. Derechos sobre el tratamiento de datos: Conforme a lo previsto en el RGPD podrá solicitar al Ministerio de Agricultura, Pesca y Alimentación, a través de su sede electrónica (https://sede.mapa.gob.es/), el acceso, rectificación y supresión de sus datos personales, la limitación y oposición al tratamiento de sus datos y a no ser objeto de decisiones automatizadas. Asimismo, si considera vulnerados sus derechos, podrá presentar una reclamación de tutela ante la Agencia Española de Protección de Datos (https://sedeagpd.gob.es/).
+
+> Se modifica por la disposición final 2.10 del Real Decreto 663/2023, de 18 de julio. Ref. BOE-A-2023-16725#df-2
