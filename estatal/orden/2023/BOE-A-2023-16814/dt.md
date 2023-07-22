@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicabilidad de la Orden ECD/2596/2002, de 16 de octubre, por la que se establece la prueba libre para la obtención del título de Graduado en Educación Secundaria para mayores de dieciocho años en el ámbito de gestión del Ministerio de Educación, Cultura y Deporte.
+
+Las características y estructura de las pruebas para la obtención del título de Graduado en Educación Secundaria para mayores de dieciocho años que se realicen hasta el final del curso 2023-2024 se ajustarán a lo regulado en la ECD/2596/2002, de 16 de octubre, por la que se establece la prueba libre para la obtención del título de graduado en Educación Secundaria para mayores de dieciocho años en el ámbito de gestión del Ministerio de Educación, Cultura y Deporte.
