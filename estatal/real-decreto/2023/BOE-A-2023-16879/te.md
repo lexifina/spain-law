@@ -1,0 +1,5 @@
+## Tercero. Publicidad.
+
+1. Dado el carácter público de los planes hidrológicos, conforme a lo dispuesto en el artículo 40.4 del texto refundido de la Ley de Aguas, cualquier persona podrá consultar el contenido íntegro de los planes hidrológicos de las demarcaciones hidrográficas intracomunitarias de Andalucía en el portal corporativo de la Consejería de la Junta de Andalucía competente en materia de aguas (https://www.juntadeandalucia.es/medioambiente/portal/areas-tematicas/agua/planificacion-hidrologica), sin perjuicio de la publicación de las correspondientes partes normativas en el «Boletín Oficial de la Junta de Andalucía».
+
+2. Se podrán obtener copias o certificados de los contenidos de estos planes hidrológicos y acceder a su contenido en los términos previstos en la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, así como en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.
