@@ -1,0 +1,7 @@
+## Artículo único. Aprobación de la revisión y actualización de los Planes de gestión del riesgo de inundación de las cuencas internas de Andalucía: demarcaciones hidrográficas del Tinto, Odiel y Piedras; del Guadalete y Barbate; y de las Cuencas Mediterráneas Andaluzas.
+
+Según lo dispuesto en el artículo 13.4 del Real Decreto 903/2010, de 9 de julio, de evaluación y gestión de riesgos de inundación, se aprueba la revisión y actualización de los Planes de gestión del riesgo de inundación de las cuencas internas de Andalucía: demarcaciones hidrográficas del Tinto, Odiel y Piedras; del Guadalete y Barbate; y de las Cuencas Mediterráneas Andaluzas.
+
+1. El ámbito territorial de cada plan se corresponde con lo indicado en el artículo 3 del Decreto 357/2009, de 20 de octubre, por el que se fija el ámbito territorial de las demarcaciones hidrográficas de las cuencas intracomunitarias situadas en Andalucía.
+
+2. La estructura de la revisión y actualización de los planes, de acuerdo con el Real Decreto 903/2010, consiste en una memoria con trece capítulos y cinco anejos con los siguientes títulos: Anejo 1: Caracterización de las áreas de riesgo potencial significativo de inundación (ARPSI). Anejo 2: Programa de medidas. Anejo 3: Justificación de las medidas estructurales del Plan. Anejo 4: Resumen de los procesos de participación, información pública y consultas y sus resultados. Anejo 5: Listado de autoridades competentes.
