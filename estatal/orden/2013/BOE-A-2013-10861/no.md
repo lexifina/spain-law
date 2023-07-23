@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 307, de 24 de diciembre de 2013. Ref. BOE-A-2013-13512
+Téngase en cuenta que quedan derogados todos aquellos aspectos de esta Orden que contradigan o queden regulados por el Real Decreto 659/2023, de 18 de julio. Ref. BOE-A-2023-16889#dd-2, según se establece en la disposición derogatoria única.5 del citado Real Decreto.

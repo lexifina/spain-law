@@ -27,18 +27,20 @@
 | Administración y gestión de un gabinete audioprotésico. Ciclo Audioprótesis. (Sanidad) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
 | Organización y gestión de una empresa agraria. Ciclo Gestión y Organización de los Recursos Naturales y Paisajísticos. (Agraria) Ciclo Gestión y Organización de Empresas Agropecuarias. (Agraria) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
 | Ciclo completo de Administración y finanzas. (RD 1659/1994, de 22 de julio) (Administración y Gestión) | Empresa e Iniciativa Emprendedora. (Cualquier ciclo formativo) |
-| Convalidaciones de los módulos profesionales de Inglés |
-| --- |
+
+Convalidaciones de los módulos profesionales de Inglés
+
 | Formación aportada | Formación a convalidar |
-| Módulos Profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006 |
-| GRADO MEDIO |
-| Lengua Extranjera (duración de 65 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas) Cuando la lengua extranjera cursada y superada sea inglés. | 0156. Inglés. |
-| Lengua Extranjera o de la C.A. Cuando la lengua extranjera cursada y superada sea inglés. | 0156. Inglés. |
-| Módulos Profesionales de Lengua Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar. | 0156. Inglés. |
-| GRADO SUPERIOR |
-| Lengua Extranjera (Inglés). | 0179. Inglés. |
-| Lengua Extranjera (duración de 90 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas) Cuando la lengua extranjera cursada y superada sea inglés. | 0179. Inglés. |
-| Lengua Extranjera en Comercio Internacional. Cuando la lengua extranjera cursada y superada sea inglés. | 0179. Inglés. |
+| --- | --- |
+| Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 1/1990 | Módulos profesionales de inglés de diferentes títulos regulados por la Ley Orgánica 2/2006 |
+| Grado Medio |
+| Lengua Extranjera (duración de 65 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas). Cuando la lengua extranjera cursada y superada sea inglés. | 0156. Inglés Profesional. |
+| Lengua Extranjera o de la C.A. Cuando la lengua extranjera cursada y superada sea inglés. | 0156. Inglés Profesional. |
+| Módulos Profesionales de Lengua. Extranjera de ciclos formativos de Grado Superior, en cualquiera de sus denominaciones, siempre que sea la misma que la que se desea convalidar. | 0156. Inglés Profesional. |
+| Grado Superior |
+| Lengua Extranjera (Inglés). | 0179. Inglés Profesional. |
+| Lengua Extranjera (duración de 90 horas, según reales decretos por los que se establecen los títulos de formación profesional y sus enseñanzas mínimas). Cuando la lengua extranjera cursada y superada sea inglés. | 0179. Inglés Profesional. |
+| Lengua Extranjera en Comercio Internacional. Cuando la lengua extranjera cursada y superada sea inglés. | 0179 Inglés Profesional. |
 | Convalidaciones de los módulos profesionales de Segunda Lengua Extranjera |
 | --- |
 | Formación aportada | Formación a convalidar |
@@ -1427,3 +1429,5 @@
 | Gestión de calidad en industrias cerámicas. | 0165. Gestión de la calidad, prevención de riesgos laborales y protección ambiental. 0308. Control de procesos de fabricación de productos cerámicos. |
 | Organización de la producción en industrias cerámicas. | 0163. Programación de la producción. |
 | Cerámicas avanzadas. | 0311. Cerámicas avanzadas. |
+
+> Se modifica el cuadro tercero por la disposición final 4.2 del Real Decreto 659/2023, de 18 de julio. Ref. BOE-A-2023-16889#df-4

@@ -24,16 +24,18 @@
 | Ciclo completo. | Empresa e iniciativa emprendedora. |
 | Técnico en Emergencias Sanitarias. | Para cualquier ciclo formativo |
 | Ciclo completo. | 0020 Primeros auxilios. |
-| Para todos los ciclos formativos con inglés |
-| --- |
+
+Para todos los ciclos formativos con inglés
+
 | Formación aportada | Formación a convalidar |
+| --- | --- |
 | Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
-| 0179 Inglés. | 0156 Inglés. |
-| Certificado del Ciclo Elemental, de Inglés, de la Escuela Oficial de Idiomas. (RD 967/1988, de 2 de septiembre). | 0156 Inglés. |
-| Certificado de Nivel Intermedio (B1), de Inglés, de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre). | 0156 Inglés. |
-| Certificado de Aptitud de Inglés de la Escuela Oficial de Idiomas. (RD 967/1988, de 2 de septiembre). | 0156 Inglés. 0179 Inglés. |
-| Certificado de Nivel Avanzado (B2), o superior, de Inglés de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre). | 0156 Inglés. 0179 Inglés. |
-| Título de Grado, o equivalente, en Filología Inglesa o en Traducción e Interpretación (Inglés). | 0156 Inglés. 0179 Inglés. |
+| 0179 Inglés Profesional. | 0156 Inglés Profesional. |
+| Certificado del Ciclo Elemental, de Inglés, de la Escuela Oficial de Idiomas. (RD 967/1988, de 2 de septiembre). | 0156 Inglés Profesional. |
+| Certificado de Nivel Intermedio (B1), de Inglés, de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre). | 0156 Inglés Profesional. |
+| Certificado de Aptitud de Inglés de la Escuela Oficial de Idiomas. (RD 967/1988, de 2 de septiembre). | 0156 Inglés Profesional. 0179 Inglés Profesional. |
+| Certificado de Nivel Avanzado (B2), o superior, de Inglés de la Escuela Oficial de Idiomas. (RD 1629/2006, de 29 de diciembre). | 0156 Inglés Profesional. 0179 Inglés Profesional. |
+| Título de Grado, o equivalente, en Filología Inglesa o en Traducción e Interpretación (Inglés). | 0156 Inglés Profesional. 0179 Inglés Profesional. |
 | Para todos los ciclos formativos con segunda lengua extranjera |
 | --- |
 | Formación aportada | Formación a convalidar |
@@ -751,6 +753,8 @@
 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
 | Técnico en Mantenimiento de Material Rodante Ferroviario (RD 1145/2012, de 27 de julio) (Transporte y Mantenimiento de Vehículos) | Técnico en Fabricación de Productos Cerámicos (RD 454/2010, de 16 de abril) |
 | Ciclo completo. | 0116. Principios de mantenimiento electromecánico. |
+
+> Se modifica el cuadro cuarto por la disposición final 4.3 del Real Decreto 659/2023, de 18 de julio. Ref. BOE-A-2023-16889#df-4
 
 > Se modifica la convalidación para los ciclos con empresa e iniciativa emprendedora por la disposición final 2 del Real Decreto 393/2022, de 24 de mayo de 2022. Ref. BOE-A-2022-9846
 

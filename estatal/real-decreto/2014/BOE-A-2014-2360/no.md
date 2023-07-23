@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 23 de julio de 2023, a excepción del apartado b) del artículo 1 y de los anexos I a XIV, por la disposición derogatoria única.3 del Real Decreto 659/2023, de 18 de julio. Ref. BOE-A-2023-16889#dd-2
