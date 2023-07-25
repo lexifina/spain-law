@@ -1,1 +1,1 @@
-Queda prorrogado, para las modalidades de cerco y artes fijos y menores, el plan de gestión integral establecido en la presente Orden, con efectos de 1 de enero de 2021, hasta la aprobación de un nuevo plan de gestión o, en todo caso, hasta el 31 de diciembre de 2021, por el art. único de la Orden APA/1211/2020, de 10 de diciembre. Ref. BOE-A-2020-16631
+Norma derogada, con efectos desde el 25 de julio de 2023, por la disposición derogatoria única.b) de la Orden APA/852/2023, de 13 de julio. Ref. BOE-A-2023-17046#dd

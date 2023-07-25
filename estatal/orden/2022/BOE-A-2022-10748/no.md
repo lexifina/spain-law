@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada por Orden APA/973/2022, de 4 de octubre. Ref. BOE-A-2022-16817
+Norma derogada, con efectos desde el 25 de julio de 2023, salvo las letras f), g) y h) del artículo 1, que se derogan con efectos de 1 de febrero de 2024, por la disposición derogatoria única.d) de la Orden APA/852/2023, de 13 de julio. Ref. BOE-A-2023-17046#dd
