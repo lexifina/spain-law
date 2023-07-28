@@ -1,0 +1,15 @@
+## Noveno bis. Facturación.
+
+1. Los operadores que presten servicios de comunicaciones vocales deberán ofrecer a los prestadores del servicio de consulta telefónica sobre números de abonado un servicio de facturación y cobro de los precios que éstos hayan establecido para sus usuarios. El servicio de facturación y cobro dará derecho a una contraprestación económica razonable y proporcionada a los costes de su prestación.
+
+2. La factura que el operador que presta servicios de comunicaciones vocales presente al cobro al usuario final deberá desglosarse en conceptos independientes por cada uno de los servicios facturados, en los términos establecidos en el artículo 65.1 j) de la Ley 11/2022, de 28 de junio, General de Telecomunicaciones y en el artículo 23 del Real Decreto 899/2009, de 22 de mayo, por el que se aprueba la carta de derechos del usuario de los servicios de comunicaciones electrónicas. Dicho desglose deberá separar y reflejar fielmente la parte correspondiente al servicio de comunicaciones vocales, cuya prestación corresponde a los operadores que prestan servicios de comunicaciones vocales, de la parte relativa a la remuneración que corresponde al prestador de servicios de consulta telefónica sobre números de abonado por el servicio de información prestado. En caso de disconformidad con la factura, los usuarios finales tendrán derecho, previa petición, a la obtención de facturas independientes para cada servicio.
+
+En la parte del desglose correspondiente al servicio de consulta telefónica sobre números de abonado deberá figurar la identificación de la persona física o jurídica titular del número telefónico llamado, su número de identificación fiscal, el número telefónico del prestador y el precio de su servicio.
+
+En caso de incumplimiento de la presentación al usuario final de factura desglosada entre el servicio de comunicaciones vocales y el servicio de consulta telefónica sobre números de abonado, el usuario final tendrá derecho a que no se produzca la suspensión o interrupción del servicio de comunicaciones vocales por impago y a la devolución de la totalidad del importe de la factura, si la hubiere pagado, hasta que dicho desglose se efectúe y se le permita ejercer la opción de abonar de manera independiente, en misma factura o en facturas separadas, el importe desglosado relativo al servicio de comunicaciones vocales.
+
+3. La disconformidad o desacuerdo de un usuario final con la facturación de los servicios de consulta telefónica sobre números de abonado no podrá dar lugar a la suspensión o interrupción del servicio de comunicaciones vocales si el usuario final paga el importe del mismo, excluida la remuneración que corresponda a los prestadores del servicio de consulta telefónica sobre números de abonado y sin perjuicio de la deuda que pueda subsistir por el importe impagado por el servicio de consulta telefónica sobre números de abonado.
+
+> Se añade por el art. único.3 de la Orden ETD/878/2023, de 22 de julio. Ref. BOE-A-2023-17289
+
+> Téngase en cuenta, para el plazo de adecuación a las nuevas condiciones establecidas, la disposición transitoria única de la citada Orden.
