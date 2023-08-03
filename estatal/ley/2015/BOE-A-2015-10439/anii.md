@@ -102,7 +102,7 @@ Asimismo, las antiguas nacionales que han sido sustituidas por nuevas carreteras
 | AB-20 | Circunvalación Sur de Albacete. | Conexión A-32 / A-30. |
 | AC-10 | Túnel de Eirís. | AC-11 / AC-12. |
 | AC-11 | Alfonso Molina. | Avda. Alfonso Molina de A Coruña. |
-| AC-12 | Pasaje. | O Carballo / Puerto de A Coruña. |
+| AC-12 | Pasaje. | A Coruña / O Carballo. |
 | AC-14 | Tercera Ronda A Coruña. | A-6 / A Coruña. |
 | AC-15 |  | Acceso al Puerto exterior de A Coruña. |
 | AI-81 |  | Acceso Este a Avilés. |
@@ -418,6 +418,8 @@ Asimismo, las antiguas nacionales que han sido sustituidas por nuevas carreteras
 | ZA-12 |  | Acceso Este a Zamora. |
 | ZA-13 |  | Acceso Sur a Zamora. |
 | ZA-20 |  | Circunvalación de Zamora. |
+
+> Se modifica por el art. 3 del Real Decreto 596/2023, de 4 de julio. Ref. BOE-A-2023-17763
 
 > Se modifica por el art. 2 del Real Decreto 299/2019, de 26 de abril. Ref. BOE-A-2019-6660
 
