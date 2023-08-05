@@ -1,12 +1,12 @@
 ## ANEXO III
 
-## Propuesta técnica de adecuación del actual «Procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad» a la «Clasificación internacional del funcionamiento, la discapacidad y la salud» (CIF-OMS12001)
+## Propuesta técnica de adecuación del actual "Procedimiento para el reconocimiento, declaración y calificación del grado de discapacidad" a la "Clasificación internacional del funcionamiento, la discapacidad y la salud" (CIF-OMS12001)
 
 Segundo nivel
 
 Contenido:
 
-Normas para la evaluación de las funciones y estructuras corporales / «deficiencia global de la persona».
+Normas para la evaluación de las funciones y estructuras corporales / "deficiencia global de la persona".
 
 1. Consideraciones generales para la evaluación de la deficiencia permanente.
 
@@ -22,7 +22,7 @@ Normas para la evaluación de las funciones y estructuras corporales / «deficie
 
 7. Capítulos de funciones y estructuras corporales de los distintos órganos y sistemas del BDGP.
 
-Capítulo 1. Deficiencia intelectual, trastornos del neurodesarrollo y trastornos del comportamiento y las emociones de inicio en la infancia y adolescencia.
+Capítulo 1. Capacidad intelectual límite, discapacidad intelectual, trastornos del desarrollo psicológico y trastornos del comportamiento y las emociones de inicio en la infancia y adolescencia.
 
 Capítulo 2. Otros trastornos mentales y del comportamiento.
 
@@ -62,23 +62,23 @@ Apéndice B. Carga de cumplimiento (adherencia) del tratamiento CCT.
 
 Apéndice C. Perfil del baremo de evaluación de las funciones y estructuras corporales / Deficiencia de la Persona (BDGP).
 
-Plantilla de evaluación de los «problemas de funcionamiento de la persona» y del «grado final de discapacidad».
+Plantilla de evaluación de los "problemas de funcionamiento de la persona" y del "grado final de discapacidad".
 
-BAREMO DE EVALUACIÓN DE LAS FUNCIONES Y ESTRUCTURAS CORPORALES / «DEFICIENCIA GLOBAL DE LA PERSONA» (BDGP)
+BAREMO DE EVALUACIÓN DE LAS FUNCIONES Y ESTRUCTURAS CORPORALES / "DEFICIENCIA GLOBAL DE LA PERSONA" (BDGP)
 
 Segundo nivel
 
-Normas para la evaluación de las funciones y estructuras corporales / «deficiencia global de la persona»:
+Normas para la evaluación de las funciones y estructuras corporales / "deficiencia global de la persona":
 
 1. Consideraciones generales para la evaluación de la deficiencia permanente.
 
-Según las normas de carácter general para proceder a la determinación del grado de discapacidad, tal y como se ha explicado en el apartado introductorio del Anexo I, estas se estructuran en primer lugar en la evaluación de la «deficiencia previsiblemente permanente» como «Criterio Principal» que determina la clase de gravedad de los problemas de funcionamiento / discapacidad de la persona.
+Según las normas de carácter general para proceder a la determinación del grado de discapacidad, tal y como se ha explicado en el apartado introductorio del Anexo I, estas se estructuran en primer lugar en la evaluación de la "deficiencia previsiblemente permanente" como "Criterio Principal" que determina la clase de gravedad de los problemas de funcionamiento / discapacidad de la persona.
 
 La evaluación de las deficiencias se fundamentará, siempre que sea posible, en la evidencia de los hallazgos clínicos específicos asociados a los diagnósticos de las enfermedades, lesiones o trastornos que conforman la condición de salud, y en concreto: en la historia clínica (HC), la exploración clínica (EC) y las pruebas complementarias (PC). Se requiere que estos hallazgos estén documentados y fundamentados mediante los informes clínicos correspondientes.
 
-Siguiendo la metodología de las Guías AMA 6.ª edición, en función del aparato o sistema afectado, se identificará entre los hallazgos anteriores el Criterio Principal (CP) que determinará la inclusión en un «intervalo de grado» (0, 1, 2, 3, 4) según la gravedad de la deficiencia correspondiente.
+Siguiendo la metodología de las Guías AMA 6.ª edición, en función del aparato o sistema afectado, se identificará entre los hallazgos anteriores el Criterio Principal (CP) que determinará la inclusión en un "intervalo de grado" (0, 1, 2, 3, 4) según la gravedad de la deficiencia correspondiente.
 
-Cada intervalo de grado de deficiencia a su vez contiene unos valores intermedios (A, B, C, D, E) que permiten ajustar el grado de deficiencia, al alza o a la baja, mediante criterios «secundarios» de ajuste (CSA) o modificadores del grado (MG), que pueden incluir, además de los hallazgos anteriores (HC, EC y PC), en algunos casos, la historia sobre funcionamiento para realizar actividades informada por la persona (HF), y la carga de adherencia al tratamiento (CCT).
+Cada intervalo de grado de deficiencia a su vez contiene unos valores intermedios (A, B, C, D, E) que permiten ajustar el grado de deficiencia, al alza o a la baja, mediante criterios "secundarios" de ajuste (CSA) o modificadores del grado (MG), que pueden incluir, además de los hallazgos anteriores (HC, EC y PC), en algunos casos, la historia sobre funcionamiento para realizar actividades informada por la persona (HF), y la carga de adherencia al tratamiento (CCT).
 
 En la evaluación de las deficiencias permanentes se tendrán en cuenta las siguientes consideraciones previas:
 
@@ -94,7 +94,7 @@ En la evaluación de las deficiencias permanentes se tendrán en cuenta las sigu
 
 2. Graduación de la deficiencia global de la persona: Clases de deficiencia.
 
-Los porcentajes resultantes de la evaluación se encuadran posteriormente en una «Clase de gravedad global de la deficiencia».
+Los porcentajes resultantes de la evaluación se encuadran posteriormente en una "Clase de gravedad global de la deficiencia".
 
 Clases de deficiencia
 
@@ -198,7 +198,7 @@ En caso de enfermedades que clínicamente cursen de forma episódica o en brotes
 
 En general, una prueba, estudio o procedimiento objetivo se describe como:
 
-‒ Mínimamente alterado: Se objetiva alguna anomalía en la escala o prueba, pero en todo caso de menos de un 4% de deficiencia estructural o funcional de lo considerado normal para el órgano o sistema objeto de estudio. Esta situación cursa habitualmente de manera asintomática.
+‒ Mínimamente alterado: Se objetiva alguna anomalía en la escala o prueba, pero en todo caso de menos de un 5% de deficiencia estructural o funcional de lo considerado normal para el órgano o sistema objeto de estudio. Esta situación cursa habitualmente de manera asintomática.
 
 ‒ Leve: Es aquella alteración de la prueba o escala que objetiva anomalías de entre un 5% y un 24% de deficiencia estructural o funcional y/o confirman una condición de salud leve del órgano o sistema estudiado.
 
@@ -212,9 +212,9 @@ En general, una prueba, estudio o procedimiento objetivo se describe como:
 
 4.2.1 Antecedentes funcionales (funcionamiento en AVD):
 
-El Criterio evaluativo de «Antecedentes funcionales», también denominado como «historia funcional» (HF), introduce como criterio secundario de graduación de la deficiencia, en algunos capítulos, los hallazgos en el «funcionamiento en las AVD». Teniendo en cuenta, de forma más o menos simplificada, y en ocasiones mediante cuestionarios autoinformados, la repercusión que la deficiencia evaluada ejerce en la realización de una serie de actividades de manera independiente y autónoma o en caso de no ser así la necesidad de apoyos.
+El Criterio evaluativo de "Antecedentes funcionales", también denominado como "historia funcional" (HF), introduce como criterio secundario de graduación de la deficiencia, en algunos capítulos, los hallazgos en el "funcionamiento en las AVD". Teniendo en cuenta, de forma más o menos simplificada, y en ocasiones mediante cuestionarios autoinformados, la repercusión que la deficiencia evaluada ejerce en la realización de una serie de actividades de manera independiente y autónoma o en caso de no ser así la necesidad de apoyos.
 
-Las actividades de la vida diaria (AVD) se clasifican según los nueve grupos o «dominios» propuestos por la CIF, en:
+Las actividades de la vida diaria (AVD) se clasifican según los nueve grupos o "dominios" propuestos por la CIF, en:
 
 1.º Aprendizaje y aplicación del conocimiento; 2.º Tareas y demandas generales; 3.º Comunicación; 4.º Movilidad; 5.º Autocuidado; 6.º Vida doméstica; 7.º interacciones y relaciones personales; 8.º Áreas principales de la vida (Educación / Trabajo / Economía); 9.º Vida comunitaria social y cívica.
 
@@ -230,11 +230,11 @@ a. Actividades o tareas sencillas: Aquellas que no requieren de importante carga
 
 b. Actividades o tareas complejas: Aquellas que requieren de importante carga, destreza o habilidad física o psíquica para su realización.
 
-El considerar estos hallazgos en la evaluación de la deficiencia supone una primera aproximación a la evaluación de la dificultad para realizar las AVD. Se tomarán como referencia las actividades «especificas» contempladas en los cuestionarios autoinformados o «escalas funcionales» que se proponen en algunos capítulos concretos. También podrán tomarse como referencia de una forma más «general» las actividades «habituales» en relación al ciclo vital consideradas en los baremos de los Anexos IV y V (BLA y BRP-QD) en los que se evalúan las actividades de forma pormenorizada y con mayor profundidad.
+El considerar estos hallazgos en la evaluación de la deficiencia supone una primera aproximación a la evaluación de la dificultad para realizar las AVD. Se tomarán como referencia las actividades "especificas" contempladas en los cuestionarios autoinformados o "escalas funcionales" que se proponen en algunos capítulos concretos. También podrán tomarse como referencia de una forma más "general" las actividades "habituales" en relación al ciclo vital consideradas en los baremos de los Anexos IV y V (BLA y BRP-QD) en los que se evalúan las actividades de forma pormenorizada y con mayor profundidad.
 
 4.2.2 Necesidad de asistencia personal:
 
-La necesidad de asistencia personal se tendrá en cuenta como criterio evaluativo en distintos capítulos y sistemas, fundamentalmente como hallazgo encuadrado en los intervalos de grado 3 y 4. Por «necesidad de asistencia personal», también denominada «nivel de apoyo» o de «independencia o autonomía para las AVD», se entenderán las ayudas o apoyos prestados por otra persona, imprescindibles para la correcta realización de las AVD habituales. Se tendrán en cuenta los apoyos o ayudas de carácter tanto físico como psicológico, como pueden ser: asesoramiento, orientación, supervisión, estímulo, incitación o apoyo verbal o gestual. Existe numerosa terminología y métodos de graduación de estos apoyos. Se tendrá en cuenta la frecuencia y la intensidad y se clasificará y graduará, salvo que se especifique de otra manera, utilizando la terminología de los baremos de referencia de este Anexo III (AMA, AAIDD y CIF), en cinco niveles de gravedad, con los siguientes criterios.
+La necesidad de asistencia personal se tendrá en cuenta como criterio evaluativo en distintos capítulos y sistemas, fundamentalmente como hallazgo encuadrado en los intervalos de grado 3 y 4. Por "necesidad de asistencia personal", también denominada "nivel de apoyo" o de "independencia o autonomía para las AVD", se entenderán las ayudas o apoyos prestados por otra persona, imprescindibles para la correcta realización de las AVD habituales. Se tendrán en cuenta los apoyos o ayudas de carácter tanto físico como psicológico, como pueden ser: asesoramiento, orientación, supervisión, estímulo, incitación o apoyo verbal o gestual. Existe numerosa terminología y métodos de graduación de estos apoyos. Se tendrá en cuenta la frecuencia y la intensidad y se clasificará y graduará, salvo que se especifique de otra manera, utilizando la terminología de los baremos de referencia de este Anexo III (AMA, AAIDD y CIF), en cinco niveles de gravedad, con los siguientes criterios.
 
 A. Frecuencia del apoyo.
 
@@ -278,19 +278,19 @@ Se realizará teniendo en cuenta las definiciones de las dos listas anteriores y
 
 5. Principios y reglas generales para calcular la puntuación del grado de deficiencia.
 
-5.1 Intervalos de grados de deficiencia (IGD): El cálculo del grado de puntuación asignado a la deficiencia estará condicionado por tres criterios evaluativos de inclusión dentro de unos denominados «intervalos de grado de deficiencia» (en adelante IGD). Estos IGD en general son cinco y están numerados como 01234, cuya cifra numérica constituye el denominado «Valor de intervalo de grado de deficiencia» (VIGD). A su vez cada IGD puede subdividirse en un máximo de 5 nuevos valores descritos con las letras ABCDE (ver modelo genérico de evaluación de la deficiencia: Tabla 0.1) que van a conformar finalmente los valores del grado de puntuación de deficiencia. La elección de un determinado IGD se basa en criterios relacionados con los hallazgos asociados al diagnóstico (CIE-10) de las enfermedades, lesiones y trastornos que conforman la condición de salud de la persona a evaluar y, normalmente, son tres:
+5.1 Intervalos de grados de deficiencia (IGD): El cálculo del grado de puntuación asignado a la deficiencia estará condicionado por tres criterios evaluativos de inclusión dentro de unos denominados "intervalos de grado de deficiencia" (en adelante IGD). Estos IGD en general son cinco y están numerados como 01234, cuya cifra numérica constituye el denominado "Valor de intervalo de grado de deficiencia" (VIGD). A su vez cada IGD puede subdividirse en un máximo de 5 nuevos valores descritos con las letras ABCDE (ver modelo genérico de evaluación de la deficiencia: Tabla 0.1) que van a conformar finalmente los valores del grado de puntuación de deficiencia. La elección de un determinado IGD se basa en criterios relacionados con los hallazgos asociados al diagnóstico (CIE-10) de las enfermedades, lesiones y trastornos que conforman la condición de salud de la persona a evaluar y, normalmente, son tres:
 
 1. Hallazgos derivados de la historia clínica (HC) (anamnesis).
 
 2. Hallazgos derivados de la exploración clínica (EC).
 
-3. Hallazgos derivados de los resultados objetivos obtenidos en las «Pruebas complementarias especificas» (PC).
+3. Hallazgos derivados de los resultados objetivos obtenidos en las "Pruebas complementarias específicas" (PC).
 
 5.2 El Criterio Principal (CP) en que se basa la determinación del IGD puede variar de unos órganos o sistemas a otros, y coincide con uno de los tres anteriores y que, según la singularidad de los hallazgos derivados del mismo, incluirá a la misma en el valor central de puntuación de deficiencia de uno de los IGD con una puntuación variable, según lo propuesto en la tabla del capítulo correspondiente a la condición de salud evaluada.
 
-5.3 Criterios secundarios de ajuste (CSA). Los otros dos criterios que no se consideren como criterio principal, se utilizarán como criterios secundarios «de ajuste» o «modificadores de grado» del criterio principal, según la metodología expuesta en el apartado 5.7.
+5.3 Criterios secundarios de ajuste (CSA). Los otros dos criterios que no se consideren como criterio principal, se utilizarán como criterios secundarios "de ajuste" o "modificadores de grado" del criterio principal, según la metodología expuesta en el apartado 5.7.
 
-5.4 Otros criterios secundarios: Si bien los tres criterios basados en el diagnóstico, la clínica y las pruebas objetivas (expuestos en apartado 5.1) van a condicionar normalmente tanto el criterio principal como los secundarios, los criterios de evaluación no son rígidos. En algunos órganos o sistemas pueden no adoptarse todos y en otros se pueden incorporar «otros Criterios secundarios» como son los «Antecedentes funcionales o Historia funcional» (HF) (autoinformada) (o funcionamiento en las AVD)1 basados en la repercusión sobre la realización de actividades de la vida diaria específicas para algunas deficiencias (miembro inferior, columna, dolor, trastornos mentales) y la «carga de cumplimiento del tratamiento» (CCT).
+5.4 Otros criterios secundarios: Si bien los tres criterios basados en el diagnóstico, la clínica y las pruebas objetivas (expuestos en apartado 5.1) van a condicionar normalmente tanto el criterio principal como los secundarios, los criterios de evaluación no son rígidos. En algunos órganos o sistemas pueden no adoptarse todos y en otros se pueden incorporar "otros Criterios secundarios" como son los "Antecedentes funcionales o Historia funcional" (HF) (autoinformada) (o funcionamiento en las AVD)1 basados en la repercusión sobre la realización de actividades de la vida diaria específicas para algunas deficiencias (miembro inferior, columna, dolor, trastornos mentales) y la "carga de cumplimiento del tratamiento" (CCT).
 
 Podremos tener en cuenta, por tanto, además de los tres criterios expuestos en apartado 5.1, otros dos:
 
@@ -300,19 +300,19 @@ Podremos tener en cuenta, por tanto, además de los tres criterios expuestos en 
 
 1 Ocasionalmente en algunos capítulos se realizará una primera aproximación a la repercusión que la deficiencia tiene en el funcionamiento en las AVD, que posteriormente en la implementación del BLA se realizará de forma más pormenorizada;
 
-2 La OMS define la Adherencia al tratamiento prolongado como «El grado en que el comportamiento de una persona ‒tomar medicamentos, seguir un régimen alimentario y ejecutar cambios en el modo de vida‒ se corresponde con las recomendaciones de un prestador de asistencia sanitaria.
+2 La OMS define la Adherencia al tratamiento prolongado como "El grado en que el comportamiento de una persona ‒tomar medicamentos, seguir un régimen alimentario y ejecutar cambios en el modo de vida‒ se corresponde con las recomendaciones de un prestador de asistencia sanitaria.
 
 5.5 Criterios de validez y realización de la historia funcional autoinformada: No podrán utilizarse como criterio principal. Su utilización como criterio secundario modificador de grado estará, a su vez, sujeta a su fiabilidad y a la no existencia de contradicciones con la información recogida en la anamnesis, la exploración clínica, las pruebas complementarias, ni con los resultados obtenidos en el BLA y el BRP-QD.
 
-5.6 Frecuentemente, la evaluación de la Deficiencia Global de la Persona (DGP) responderá a la evaluación diferenciada del grado de deficiencia de más de un órgano o dominio. En estos casos se deberá determinar el «Grado de deficiencia parcial» (GDP) de cada una de las deficiencias del órgano o sistema evaluadas que se convertirá en grado de «Deficiencia total de la persona» (DTP), para posteriormente poder «combinarse» con el grado de otras deficiencias totales de la persona (DTP) evaluadas y obtener así el grado «final» de «Deficiencia global de la persona» (GDGP).
+5.6 Frecuentemente, la evaluación de la Deficiencia Global de la Persona (DGP) responderá a la evaluación diferenciada del grado de deficiencia de más de un órgano o dominio. En estos casos se deberá determinar el "Grado de deficiencia parcial" (GDP) de cada una de las deficiencias del órgano o sistema evaluadas que se convertirá en grado de "Deficiencia total de la persona" (DTP), para posteriormente poder "combinarse" con el grado de otras deficiencias totales de la persona (DTP) evaluadas y obtener así el grado "final" de "Deficiencia global de la persona" (GDGP).
 
-5.7 Cálculo del grado de deficiencia parcial (GDP) según la metodología general del «Grado de puntuación de la deficiencia dentro del intervalo de grado de deficiencia». Se realizará, siguiendo los siguientes pasos:
+5.7 Cálculo del grado de deficiencia parcial (GDP) según la metodología general del "Grado de puntuación de la deficiencia dentro del intervalo de grado de deficiencia". Se realizará, siguiendo los siguientes pasos:
 
 1.º Cálculo del intervalo de grado de deficiencia (IGD) según el criterio principal. Valor Inicial de Ajuste del grado de puntuación de Deficiencia (VIAD):
 
-El criterio principal (CP), en cada deficiencia evaluada es aquel en función del cual se determina la inclusión en un IGD numerados del 0 al 4 (con un valor de intervalo de grado de deficiencia (VIGD) de 01234 respectivamente) según los hallazgos descritos en la tabla de evaluación correspondiente a la deficiencia de la condición de salud evaluada. Cada IGD a su vez, se subdivide habitualmente, en cinco valores intermedios variables según la deficiencia evaluada (ABCDE) denominados «Valores de puntuación del grado de deficiencia» proporcionales en orden creciente, entre un valor mínimo y uno máximo. De estos «valores intermedios» el valor de puntuación de deficiencia central (C) constituirá por defecto el valor inicial de ajuste del grado de puntuación de deficiencia (VIAD).
+El criterio principal (CP), en cada deficiencia evaluada es aquel en función del cual se determina la inclusión en un IGD numerados del 0 al 4 (con un valor de intervalo de grado de deficiencia (VIGD) de 01234 respectivamente) según los hallazgos descritos en la tabla de evaluación correspondiente a la deficiencia de la condición de salud evaluada. Cada IGD a su vez, se subdivide habitualmente, en cinco valores intermedios variables según la deficiencia evaluada (ABCDE) denominados "Valores de puntuación del grado de deficiencia" proporcionales en orden creciente, entre un valor mínimo y uno máximo. De estos "valores intermedios" el valor de puntuación de deficiencia central (C) constituirá por defecto el valor inicial de ajuste del grado de puntuación de deficiencia (VIAD).
 
-2.º Ajuste del grado de puntuación de deficiencia con «Criterios secundarios de ajuste» (CSA) o «Modificadores de grado» (MG). Ajuste neto de grado de deficiencia. Grado de puntuación de deficiencia ajustado. Grado de deficiencia parcial (GDP):
+2.º Ajuste del grado de puntuación de deficiencia con "Criterios secundarios de ajuste" (CSA) o "Modificadores de grado" (MG). Ajuste neto de grado de deficiencia. Grado de puntuación de deficiencia ajustado. Grado de deficiencia parcial (GDP):
 
 El IGD de CSA pueden coincidir o no, con el IGD del CP. En caso de coincidencia, el valor del VIAD representara el valor de puntuación del grado de deficiencia para esa condición de salud. En los casos de no coincidencia, se procederá al ajuste de grado de puntuación de la deficiencia, como se explica a continuación.
 
@@ -320,7 +320,7 @@ En función de estos CSA se puede modificar a la baja o al alza el valor del VIA
 
 Los CSA pueden variar en número según la deficiencia específica de cada órgano o sistema afectado. Si los CSA son dos o más, se establecen cinco valores de puntuación de la deficiencia dentro del IGD (ABCDE). Si solo hay solo uno, se establecen tres valores de puntuación de la deficiencia dentro del IGD (ABC).
 
-2.1 Valor de ajuste neto de grado de deficiencia. Tendremos que calcular en primer lugar el valor del «ajuste neto de grado» mediante la siguiente fórmula:
+2.1 Valor de ajuste neto de grado de deficiencia. Tendremos que calcular en primer lugar el valor del "ajuste neto de grado" mediante la siguiente fórmula:
 
 Valor de ajuste neto de grado deficiencia = (VIGDCSAI ‒ VIADCP) + (VIGDCSA2 ‒ VIADCP)
 
@@ -328,7 +328,7 @@ En el cual, tanto al CP (VIADCP) como a cada uno de los CSA (VIGDCSA), se les as
 
 Los valores máximos y mínimos de esta fórmula se asimilarán al ± 2.
 
-2.2. Grado de puntuación de deficiencia ajustado. Una vez calculado el «valor de ajuste neto de grado» (± 012) tendremos que aplicarlo dentro de los valores asignados al grado de puntuación de deficiencia dentro del IGD (ABCDE) asignado por el CP.
+2.2. Grado de puntuación de deficiencia ajustado. Una vez calculado el "valor de ajuste neto de grado" (± 012) tendremos que aplicarlo dentro de los valores asignados al grado de puntuación de deficiencia dentro del IGD (ABCDE) asignado por el CP.
 
 | ≤ 2 | ‒1 | 0 | +1 | ≥ 2 |
 | --- | --- | --- | --- | --- |
@@ -344,19 +344,19 @@ Se podrán dar dos situaciones:
 
 1. Deficiencia única. Si no existen otras deficiencias, bien sea en el mismo dominio, o en otros órganos, capítulos o dominios a evaluar, el grado de deficiencia parcial (GDP) del órgano dominio o capítulo, se convertirá en la deficiencia total de la persona (DTP) (directamente en unos casos, o mediante una tabla conversora especifica (vista, auditivo, EESS...) en otros) y constituirá el grado de deficiencia global de la persona (GDGP) que se encuadrará dentro de la clase de gravedad global de la deficiencia que le corresponda.
 
-2. Más de una deficiencia. Pero frecuentemente en la evaluación del GDGP se da la coexistencia de más de una deficiencia. Las deficiencias claramente diferenciadas, pertenecientes al mismo o diferente órgano, capítulo o dominio, se puntúan obteniendo un GDP de manera independiente. Estos GDP del órgano, se convertirán también, como lo expuesto en el punto anterior, en DTP, para posteriormente «combinarse» con cada una de las DTP derivadas de las GDP evaluadas en los otros órganos dominio o capítulos. Obteniendo finalmente el grado de deficiencia global de la persona (GDGP) que se encuadrará dentro de la clase de gravedad global de la deficiencia que le corresponda.
+2. Más de una deficiencia. Pero frecuentemente en la evaluación del GDGP se da la coexistencia de más de una deficiencia. Las deficiencias claramente diferenciadas, pertenecientes al mismo o diferente órgano, capítulo o dominio, se puntúan obteniendo un GDP de manera independiente. Estos GDP del órgano, se convertirán también, como lo expuesto en el punto anterior, en DTP, para posteriormente "combinarse" con cada una de las DTP derivadas de las GDP evaluadas en los otros órganos dominio o capítulos. Obteniendo finalmente el grado de deficiencia global de la persona (GDGP) que se encuadrará dentro de la clase de gravedad global de la deficiencia que le corresponda.
 
-5.9 Cuando sea preciso combinar los GDP en diferentes capítulos, órganos o sistemas para establecer bien sea, el porcentaje de Deficiencia Total del Dominio (DTD) o bien el porcentaje final del GDGP, se aplicará la «tabla de valores combinados «Apéndice A». Todos los GDP deben ser expresados usando un denominador común: el de DTP.
+5.9 Cuando sea preciso combinar los GDP en diferentes capítulos, órganos o sistemas para establecer bien sea, el porcentaje de Deficiencia Total del Dominio (DTD) o bien el porcentaje final del GDGP, se aplicará la "tabla de valores combinados "Apéndice A". Todos los GDP deben ser expresados usando un denominador común: el de DTP.
 
-En algunos capítulos el valor de «deficiencia parcial» se expresa ya como de DTP y en otros hay que utilizar la tabla conversora a DTP específica correspondiente. El valor inicial de combinación será el de la deficiencia mayor evaluada, combinando dicho valor con la siguiente mayor, hasta combinar todas ellas. El valor resultante final de la deficiencia siempre será igual o inferior a la suma de todos los valores de los intervalos de gravedad de las deficiencias que se combinan, consideradas individualmente.
+En algunos capítulos el valor de "deficiencia parcial" se expresa ya como de DTP y en otros hay que utilizar la tabla conversora a DTP específica correspondiente. El valor inicial de combinación será el de la deficiencia mayor evaluada, combinando dicho valor con la siguiente mayor, hasta combinar todas ellas. El valor resultante final de la deficiencia siempre será igual o inferior a la suma de todos los valores de los intervalos de gravedad de las deficiencias que se combinan, consideradas individualmente.
 
 5.10 Si en el procedimiento de la evaluación de la deficiencia se señala más de una vía evaluativa para una patología concreta, el evaluador determinará cuál de ellas se ajusta mejor a la deficiencia que afecte a la persona a evaluar, utilizando la más adecuada en cada caso.
 
-5.11 En las deficiencias en las que pueden encontrarse más de una vía evaluativa, bien sea en el mismo o en otros capítulos, habitualmente una de ellas responde a una forma más simplificada (por marcha, por uso de EESS, neoplasias, por alteración de la conciencia y alerta, etc.) Siendo la evaluación en las otras normalmente más pormenorizada. Esta última se realizará preferentemente cuando la deficiencia evaluada se considere como la deficiencia principal, existan dudas o contradicciones en las otras vías y/o requieran de exploraciones o pruebas especificas. En estos casos y para evitar duplicidades en la evaluación, la vía elegida será siempre alternativa a las otras, y sujeta en todo caso a las normas de carácter general para la evaluación de la deficiencia en cuestión.
+5.11 En las deficiencias en las que pueden encontrarse más de una vía evaluativa, bien sea en el mismo o en otros capítulos, habitualmente una de ellas responde a una forma más simplificada (por marcha, por uso de EESS, neoplasias, por alteración de la conciencia y alerta, etc.) Siendo la evaluación en las otras normalmente más pormenorizada. Esta última se realizará preferentemente cuando la deficiencia evaluada se considere como la deficiencia principal, existan dudas o contradicciones en las otras vías y/o requieran de exploraciones o pruebas específicas. En estos casos y para evitar duplicidades en la evaluación, la vía elegida será siempre alternativa a las otras, y sujeta en todo caso a las normas de carácter general para la evaluación de la deficiencia en cuestión.
 
-5.12 Las pautas de evaluación se basan fundamentalmente en hechos objetivos, es decir, en los «signos» clínicos. Los «síntomas» (Ej.: fatiga, dificultad para concentrarse, dificultades para conciliar el sueño y debilidad), cuando no puedan acompañarse de «signos» clínicos objetivos u otros resultados o pruebas que indiquen alteraciones, no reciben, de manera general, puntuaciones de deficiencia independientes. No obstante, hay situaciones en que si es necesario tener en cuenta la información subjetiva, como el caso del dolor.
+5.12 Las pautas de evaluación se basan fundamentalmente en hechos objetivos, es decir, en los "signos" clínicos. Los "síntomas" (Ej.: fatiga, dificultad para concentrarse, dificultades para conciliar el sueño y debilidad), cuando no puedan acompañarse de "signos" clínicos objetivos u otros resultados o pruebas que indiquen alteraciones, no reciben, de manera general, puntuaciones de deficiencia independientes. No obstante, hay situaciones en que si es necesario tener en cuenta la información subjetiva, como el caso del dolor.
 
-5.13 En los casos en los que como criterio evaluativo de la deficiencia se tome en consideración la repercusión de la deficiencia en la capacidad para la realización de las AVD, deberá objetivarse la misma mediante la aplicación del «Baremo de limitaciones en la actividad» (BLA). En los casos en los que la evaluación se realice en dos tiempos, bien sea porque existen varias deficiencias de órganos o sistemas o bien porque intervengan varios profesionales, se deberá, en un primer tiempo, individualizar el BLA desde la perspectiva concreta de la deficiencia evaluada, para en un segundo tiempo realizar el BLA desde una perspectiva global de la discapacidad en la que se recoja su interferencia con el resto de deficiencias.
+5.13 En los casos en los que como criterio evaluativo de la deficiencia se tome en consideración la repercusión de la deficiencia en la capacidad para la realización de las AVD, deberá objetivarse la misma mediante la aplicación del "Baremo de limitaciones en la actividad" (BLA). En los casos en los que la evaluación se realice en dos tiempos, bien sea porque existen varias deficiencias de órganos o sistemas o bien porque intervengan varios profesionales, se deberá, en un primer tiempo, individualizar el BLA desde la perspectiva concreta de la deficiencia evaluada, para en un segundo tiempo realizar el BLA desde una perspectiva global de la discapacidad en la que se recoja su interferencia con el resto de deficiencias.
 
 5.14 Excepcionalmente, en aquellos casos en que, a criterio del evaluador, la metodología de la evaluación de la deficiencia propuesta por el del BDGP, no refleje de forma suficiente la magnitud del problema a evaluar, se podrá utilizar, justificándolo, otros instrumentos de reconocida utilidad, que tengan una correspondencia más cercana al dominio objeto de evaluación y que estén validados por asociaciones científicas reconocidas. En estos casos el resultado de la evaluación, se expresará según el calificador de problemas CIF de O a 100% y como mínimo en los cinco niveles de gravedad (01234)
 
@@ -364,7 +364,7 @@ En algunos capítulos el valor de «deficiencia parcial» se expresa ya como de 
 
 5.16 Las deficiencias claramente diferenciadas, se evalúan de manera independiente y sus puntuaciones se combinan a posteriori, salvo en los casos en que los hallazgos de evaluación relacionados con la segunda deficiencia estén incluidos también en los hallazgos puntuados en la evaluación de la deficiencia primera (como puede ser la repercusión sobre las AVD, la disnea, la astenia, adelgazamiento, etc.) en cuyo caso no se puntúa.
 
-5.17 La puntuación que se asigna a la deficiencia total de la persona (DTP) por la condición de salud evaluada (perdida de un ojo, trastorno de la conducta alimentaria, neoplasias, paraparesia, dolor, epilepsia....) incluye tanto la repercusión física como la psíquica sobre la «totalidad» de la persona, por lo que la afectación psíquica (o física) secundaria o reactiva a las mismas, normalmente, no debe puntuarse independientemente.
+5.17 La puntuación que se asigna a la deficiencia total de la persona (DTP) por la condición de salud evaluada (perdida de un ojo, trastorno de la conducta alimentaria, neoplasias, paraparesia, dolor, epilepsia....) incluye tanto la repercusión física como la psíquica sobre la "totalidad" de la persona, por lo que la afectación psíquica (o física) secundaria o reactiva a las mismas, normalmente, no debe puntuarse independientemente.
 
 5.18 Se redondean todas las puntuaciones decimales de las deficiencias, tanto finales como intermedias, al número entero más próximo.
 
@@ -446,7 +446,7 @@ Capítulos del BDGP.
 
 Dominio 1. Funciones Mentales y estructuras del sistema nervioso.
 
-Capítulo 1: Deficiencia Intelectual, trastornos del desarrollo psicológico y trastornos del comportamiento y las emociones de inicio en la infancia y adolescencia.
+Capítulo 1: Capacidad intelectual límite, discapacidad intelectual, trastornos del desarrollo psicológico y trastornos del comportamiento y las emociones de inicio en la infancia y adolescencia
 
 Capítulo 2: Otros trastornos mentales y del comportamiento.
 
@@ -506,13 +506,13 @@ Apéndice C. Baremo y perfil de funcionamiento de las funciones y estructuras co
 
 Capítulo 1
 
-## Deficiencia intelectual, trastornos del neurodesarrollo y trastornos del comportamiento y las emociones de inicio en la infancia y adolescencia
+## Capacidad intelectual límite, discapacidad intelectual, trastornos del desarrollo psicológico y trastornos del comportamiento y las emociones de inicio en la infancia y adolescencia
 
 Siempre y cuando no haya tabla de clasificación específica los intervalos generales de gravedad de la deficiencia serán: 0 (0-4%), 1 (5-24%), 2 (25-49%), 3 (50-65%), y 4 (66%-85%), de aplicación conforme a lo dispuesto en la siguiente tabla de criterios:
 
-1.1 Criterios generales para la evaluación de la deficiencia intelectual y de los trastornos del comportamiento.
+1.1 Criterios generales para la evaluación de la capacidad intelectual límite, la discapacidad intelectual y de otros trastornos de inicio en la infancia y la adolescencia.
 
-Tabla 1.1 Criterios generales para la evaluación de la deficiencia intelectual y de los trastornos del comportamiento
+Tabla 1.1 Criterios generales para la evaluación de la capacidad intelectual límite, la discapacidad intelectual y de otros trastornos de inicio en la infancia y la adolescencia
 
 | Intervalo de gravedad de la deficiencia | Intervalo 0 (nulo) | Intervalo 1 (leve) | Intervalo 2 (moderado) | Intervalo 3 (grave) | Intervalo 4 (muy grave o total) |
 | --- | --- | --- | --- | --- | --- |
@@ -527,7 +527,7 @@ Tabla 1.1 Criterios generales para la evaluación de la deficiencia intelectual 
 
 1.2 Criterios generales de evaluación.
 
-De acuerdo con las normas generales del «modelo de evaluación de la deficiencia» total de la persona, en dichas condiciones de salud, los criterios que definen la evaluación de las deficiencias asociada son los siguientes:
+De acuerdo con las normas generales del "modelo de evaluación de la deficiencia" total de la persona, en dichas condiciones de salud, los criterios que definen la evaluación de las deficiencias asociada son los siguientes:
 
 1. Anamnesis (Historia Clínica): Presencia de síntomas y signos constituyentes de los criterios diagnósticos establecidos en los sistemas de clasificación internacionalmente aceptados (CIE, DSM y otros).
 
@@ -555,7 +555,7 @@ Las pautas de evaluación de los hallazgos clínicos y en el funcionamiento en a
 
 ‒ Para incluir a la persona en alguno de los intervalos que suponen un grado de deficiencia (0, 1, 2, 3, 4) tendrá que cumplir con los hallazgos clínicos descritos, en el intervalo de grado en cuestión, en los criterios: Anamnesis (Criterio 1) y/o Exploración de Funciones mentales globales y específicas (Criterio 2). Y tener al menos uno de los hallazgos en el funcionamiento en actividades y participación, de los descritos en cada uno del resto de los criterios: Adaptación escolar (Criterio 3E) o Adaptación laboral (Criterio 3L), según ciclo vital, y Actividades de vida diaria (Criterio 4) o Intensidad de apoyo (Criterio 5).
 
-‒ En caso de existir más de una condición de salud o trastorno habrá que evaluar la deficiencia combinada resultante, teniendo en todo caso en cuenta el criterio de evaluación de la «deficiencia cerebral más grave» (capítulo 3.3).
+‒ En caso de existir más de una condición de salud o trastorno habrá que evaluar la deficiencia combinada resultante, teniendo en todo caso en cuenta el criterio de evaluación de la "deficiencia cerebral más grave" (capítulo 3.3).
 
 1.3.2 Inclusión en un intervalo de grado de deficiencia y asignación de % de deficiencia.
 
@@ -577,7 +577,7 @@ d) La repercusión sobre el funcionamiento en las AVDs (HF).
 
 e) Las pruebas psicométricas complementarias (PC), según escalas estandarizadas.
 
-La inclusión en un Intervalo de grado de deficiencia debe cumplir los hallazgos clínicos de los criterios en a) y/o en b) constituyendo el criterio principal (CP) y al menos presentar alguno de los hallazgos en el funcionamiento en actividades y participación de las descritas en el c) y d), que constituirán los criterios secundarios de ajuste. El resultado de la aplicación de este procedimiento, constituye la metodología general de evaluación en este capítulo.
+La inclusión en un Intervalo de grado de deficiencia debe cumplir los hallazgos clínicos de los criterios en a) y/o en b) constituyendo el criterio principal (CP) y al menos presentar alguno de los hallazgos en el funcionamiento en actividades y participación de las descritas en el c), d) y e), que constituirán los criterios secundarios de ajuste. El resultado de la aplicación de este procedimiento, constituye la metodología general de evaluación en este capítulo.
 
 1.4 Criterios específicos para la evaluación en la infancia y la adolescencia.
 
@@ -585,9 +585,9 @@ La especificidad de estos criterios se fundamenta en las características difere
 
 La evaluación de la deficiencia permitirá establecer en primer lugar la inclusión en un intervalo de grado de deficiencia y concluirá en un ajuste de la puntuación, resultado del análisis de los hallazgos en la historia clínica, la exploración, los datos objetivos y la repercusión en el funcionamiento, obtenida mediante lectura de informes, entrevista clínica, observación y aplicación.
 
-1.5 Discapacidad intelectual.
+1.5 Capacidad intelectual límite y discapacidad intelectual.
 
-Según lo propuesto por la AAIDD (American Association on Intellectual and Developmental Disabilities), se adopta el término Discapacidad Intelectual (DI) que se define como: «Una discapacidad caracterizada por limitaciones significativas en el funcionamiento intelectual y en la conducta adaptativa que se manifiesta en habilidades adaptativas conceptuales, sociales, y prácticas».
+Según lo propuesto por la AAIDD (American Association on Intellectual and Developmental Disabilities), se adopta el término Discapacidad Intelectual (DI) que se define como: "Una discapacidad caracterizada por limitaciones significativas en el funcionamiento intelectual y en la conducta adaptativa que se manifiesta en habilidades adaptativas conceptuales, sociales, y prácticas".
 
 La discapacidad Intelectual se origina durante el periodo de desarrollo.
 
@@ -607,24 +607,24 @@ En este apartado se consideran los diagnósticos de:
 
 En la evaluación de la discapacidad intelectual se siguen las siguientes orientaciones:
 
-1. Uso del concepto y codificación de Retraso Madurativo / Retraso Global del Desarrollo
+1. Uso del concepto y codificación de Retraso Madurativo / Retraso Global del Desarrollo.
 
 2. Personas que no solicitan el reconocimiento de su discapacidad hasta muchos años después de haber cumplido los 18 años.
 
 3. Provisionalidad de las evaluaciones y previsión de revisiones. Se aplican los criterios establecidos en el Anexo I: apartado 0.6.4 Criterios específicos de evaluación en la infancia y adolescencia.
 
-Tabla 1.2 Criterios para la puntuación de la deficiencia intelectual y/o retraso madurativo
+Tabla 1.2 Criterios para la puntuación de la capacidad intelectual límite, la discapacidad intelectual y/o retraso madurativo
 
 | Intervalo de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
 | Graduación del % de la gravedad | 0 - 14% 0-4-8-12-14 | 15-29% 15-18-22-25-29 | 30-59% 30 37-45-52-59 | 60-74% 60-64-67-70-74 | 75-95% 75-78-80-82-84 Grave 85-88-90-92-95 Profunda |
 | Indicadores (habilidades adaptativas y nivel de CI / CD): |
 | Diagnostico. |
-|  | I. Normal baja. | Capacidad intelectual límite. | DI Ligera. | DI moderada. | DI Grave. DI Profunda. |
+|  | I. Normal baja. | Capacidad intelectual límite. | DI Leve. | DI moderada. | DI Grave. DI Profunda. |
 | Funcionamiento en actividades y participación (habilidades adaptativas): |
 |  | No presenta dificultades significativas en ninguna de las áreas adaptativa, o supervisión mínima de forma ocasional en utilización de recursos comunitarios, trabajo o salud. | Autonomía personal para el autocuidado. Capacidad para organizar su rutina diaria. Poca habilidad para establecer relaciones sociales. Mantiene relaciones de amistad. Respeta las normas sociales establecidas. Adaptación lenta a lugares ajenos a su entorno social. Independencia en la utilización de su tiempo libre. Necesidad de asesoramiento en áreas relacionadas con utilización de recursos comunitarios, vida doméstica, gestión y uso del dinero y patrimonio, habilidades académicas funcionales, en el trabajo y/o salud. Dificultad en autoprotección-autodefensa. | Afectación en como mínimo dos o más de las siguientes áreas de manera significativa. Necesidad de supervisión indirecta en cuidado de uno mismo, higiene personal. Se desenvuelve por sí solo en lugares habituales de forma rutinaria. Necesidad de acompañamiento en desplazamientos no conocidos. Colabora en tareas del núcleo familiar. Apoyo directo en actividades complejas como planificación y organización de la vida doméstica. Necesidad de supervisión en interrelaciones complejas. Su núcleo de referencia social restringido a la familia, barrio o círculo laboral. Preferencia por relacionarse con personas de menor edad o adultos de referencia. Asesoramiento para realizar actividades no habituales. Asesoramiento en toma de decisiones relacionadas con uso de recursos comunitarios, salud / seguridad, gestión del dinero y patrimonio. Asesoramiento en la utilización de su tiempo libre. Dificultad para anticiparse a los peligros, no existiendo reacción adecuada ante los mismos. | Afectación en como mínimo dos o más de las siguientes áreas de manera significativa. Necesidad de supervisión directa y acompañamiento en cuidado de uno mismo, higiene personal. Colabora en tareas muy sencillas de la casa. Dependiente de otra persona en las actividades complejas tales como planificación y organización de la vida domésticas. Necesidad de supervisión en interrelaciones familiares y/o complejas. Relación social con iguales en edad mental o adultos que le proporcionen seguridad. Sus relaciones interpersonales se limitan al ámbito familiar y ocupacional. Dificultad para entender normas sociales. Necesidad de acompañamiento en desplazamientos conocidos y desconocidos. Dependencia de otra persona en la toma de decisiones relacionadas con atención personal, desplazamientos, ocio, interacción, uso de recursos comunitarios, trabajo, salud / seguridad, gestión del dinero y patrimonio. Sin autonomía en la utilización de su tiempo libre. No existe anticipación ni sentido de peligro en situaciones no habituales. | Afectación de todas las áreas. Persona dependiente en Actividades de autocuidado y la mayoría de las complejas. Dependencia en la toma de decisiones en todas las áreas. Grave: Dependencia en actividades de la vida diaria, aunque pueda realizar alguna de forma incompleta. Parcial control de esfínteres. Desplazamientos con fin utilitario en ambientes controlados. Reconoce a las personas habituales de su entorno y mantiene una interrelación básica. Dependencia de otra persona para la utilización de su tiempo. Profundo: Dependencia total en actividades de la vida diaria. Ausencia de control de esfínteres. Reconocimiento de los miembros de la familia muy habituales. Capacidad de interacción muy básica. |
-| Pruebas psicométricas / escalas (Anexo A1): |
-| Cl / CD según escalas estandarizadas. | > 80. | 80-70. | 69-51. | 50-35. | 34-21 o < 21. |
+| Pruebas psicométricas / escalas (anexo A1): |
+| Cl / CD según escalas estandarizadas. | > 80 | 80-70 | 69-51 | 50-35 | 34-21 o < 21 |
 | Anamnesis: |
 | Antecedentes Personales: Información prenatal, perinatal y postnatal. Desarrollo psicoafectivo y psicomotriz, desarrollo del lenguaje. Vinculación. Antecedentes Familiares. Resultado pruebas diagnósticas. | Puede o no existir información significativa de interés. Desarrollo con evolución positiva y/o mínima repercusión en actividades cotidianas. | Puede observarse en edades tempranas un ligero retraso en la actividad motriz. Pueden observarse retraso en la adquisición del lenguaje. | Retraso evolutivo sensorio-motriz. Las etapas de la actividad motriz se han cubierto en edades tardías. Retraso en la adquisición y evolución del lenguaje. | No llega a desarrollar plenamente las actividades motrices. Adquiere en edad tardía control postural adecuado. El habla aparece tardíamente y presenta abundantes trastornos. | Grave: Adquiere la marcha. Sentido cenestésico poco evolucionado y equilibrio deficiente. El habla aparece tardíamente y presenta abundantes trastornos. Parcial control de esfínteres. Profundo: Puede llegar a adquirir la bipedestación o la marcha. Comunicación muy primaria (gestos, gritos, llantos, sonidos inarticulados). Ausencia de control de esfínteres. |
 | Exploración de la deficiencia en las funciones mentales globales y específicas: |
@@ -644,7 +644,7 @@ Tabla 1.2 Criterios para la puntuación de la deficiencia intelectual y/o retras
 
 1.6. Trastornos del desarrollo psicológico.
 
-Se establecen pautas específicas para los trastornos del habla y del lenguaje, del aprendizaje escolar, y para los trastornos generalizados del desarrollo. En cuanto al resto de trastornos, la evaluación se realizará según las consideraciones generales para la evaluación de los trastornos mentales y del comportamiento, y los intervalos de grado de deficiencia establecidas.
+Se establecen pautas específicas para los trastornos del habla y del lenguaje (criterios del capítulo 7), del aprendizaje escolar, y para los trastornos generalizados del desarrollo. En cuanto al resto de trastornos, la evaluación se realizará según las consideraciones generales para la evaluación de los trastornos mentales y del comportamiento, y los intervalos de grado de deficiencia establecidas.
 
 Tabla 1.3 Criterios para la puntuación de la deficiencia permanente vinculada a los trastornos específicos del desarrollo del aprendizaje
 
@@ -673,10 +673,10 @@ Menores de 6 años.
 | --- | --- | --- | --- | --- | --- |
 | Graduación del % de la gravedad | 0-4% 0-1-2-3-4 | 5%-24% 5-10-15-20-24 | 25%-49% 25-31-37-43-49 | 50%-65% 50-54-58-62-65 | 66%- 85% 66-70-75 80-85 |
 | Anamnesis: |
-|  | Sintomatología aislada no significativa. | Necesidad de tratamiento especializado. | Capaz de realizar algunas de las AVDs, con apoyos de acuerdo a lo esperado para la edad. Necesidad de atención educativa con apoyo, en centro ordinario. | Necesidad de atención educativa con apoyo extenso, en centro específico. Dificultad grave para realizar las AVDs. |  |
-| Criterios Diagnósticos. | Sin sintomatología específica de TGD/TGD/TEA. Rasgos TGD/TGD/TEA, que no supone deficiencia. | Síntomas aislados de TGD/TGD/TEA, sin confirmación diagnóstica o que no implican un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). | Cumple criterios diagnósticos de TGD/TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos; – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). | Cumple criterios diagnósticos de TGD/TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos. – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) que afectan de manera grave el funcionamiento personal. |  |
+|  | Sintomatología aislada no significativa. | Necesidad de tratamiento especializado. | Capaz de realizar algunas de las AVDs, con apoyos de acuerdo a lo esperado para la edad. Necesidad de atención educativa con apoyo, en centro ordinario. | Necesidad de atención educativa con apoyo extenso, en centro específico. Dificultad grave para realizar las AVDs. | Necesidad de atención educativa con apoyo extenso o generalizado, en centro específico. Dificultad muy grave para realizar las AVDs. |
+| Criterios Diagnósticos. | Sin sintomatología específica de TGD/TGD/TEA. Rasgos TGD/TGD/TEA, que no supone deficiencia. | Síntomas aislados de TGD/TGD/TEA, sin confirmación diagnóstica o que no implican un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). | Cumple criterios diagnósticos de TGD/TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos; – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). | Cumple criterios diagnósticos de TGD/TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos. – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) que afectan de manera grave el funcionamiento personal. | Cumple criterios diagnósticos de TGD/TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos. – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente muy grave en aspectos del funcionamiento habitual (social, escolar…).Se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) que afectan de manera muy grave el funcionamiento personal. |
 | Exploración de la deficiencia en las funciones mentales: |
-| Funciones mentales (evaluar movimientos, utilización de objetos o habla estereotipados y/o repetitivos). | Desarrollo del lenguaje adecuado a edad y capacidad evolutiva. Adecuado desarrollo de habilidades sociales y de juego. Sin intereses o comportamientos restringidos o repetitivos. | Alteraciones pragmáticas del Lenguaje leves. Capacidad de comunicación y/o interacción (luego, simbolización...) con el entorno levemente afectada. Inflexibilidad leve del comportamiento y/o pensamiento que no interfiere en el funcionamiento habitual. Hipo y/o hipersensibilidad de carácter leve. | Alteraciones moderadas de la comunicación verbal y no verbal, y/o lenguaje alternativo de comunicación. Dificultades moderadas para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad moderada del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas. Hipo y/o hiper-sensibilidad de carácter moderado. Ocasionalmente conductas disruptivas. Puede existir angustia / sufrimiento ante situaciones nuevas o cambios en las rutinas establecidas. | Alteraciones graves de la comunicación verbal y no verbal, y/o lenguaje alternativo de comunicación. Dificultades graves para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad grave del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas, así como el afrontamiento de los cambios. Ansiedad y/o dificultad para cambiar el foco de acción. Hipo y/o hiper-sensibilidad de carácter grave. Conductas disruptivas persistentes. Conductas auto y/o heteroagresivas. Patrón de sueño y alimentación alterados. |  |
+| Funciones mentales (evaluar movimientos, utilización de objetos o habla estereotipados y/o repetitivos). | Desarrollo del lenguaje adecuado a edad y capacidad evolutiva. Adecuado desarrollo de habilidades sociales y de juego. Sin intereses o comportamientos restringidos o repetitivos. | Alteraciones pragmáticas del Lenguaje leves. Capacidad de comunicación y/o interacción (luego, simbolización...) con el entorno levemente afectada. Inflexibilidad leve del comportamiento y/o pensamiento que no interfiere en el funcionamiento habitual. Hipo y/o hipersensibilidad de carácter leve. | Alteraciones moderadas de la comunicación verbal y no verbal, y/o lenguaje alternativo de comunicación. Dificultades moderadas para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad moderada del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas. Hipo y/o hiper-sensibilidad de carácter moderado. Ocasionalmente conductas disruptivas. Puede existir angustia / sufrimiento ante situaciones nuevas o cambios en las rutinas establecidas. | Alteraciones graves de la comunicación verbal y no verbal, y/o lenguaje alternativo de comunicación. Dificultades graves para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad grave del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas, así como el afrontamiento de los cambios. Ansiedad y/o dificultad para cambiar el foco de acción. Hipo y/o hiper-sensibilidad de carácter grave. Conductas disruptivas persistentes. Conductas auto y/o heteroagresivas. Patrón de sueño y alimentación alterados. | Alteraciones muy graves de la comunicación verbal y no verbal, y/o lenguaje alternativo de comunicación. Dificultades muy graves Alteraciones muy graves de la comunicación verbal y no verbal, y/o lenguaje alternativo de comunicación. Dificultades muy graves para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad muy grave del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas, así como el afrontamiento de los cambios. Ansiedad y/o dificultad muy grave para cambiar el foco de acción. Hipo y/o hiper sensibilidad de carácter muy grave. Conductas disruptivas persistentes. Conductas auto y/o heteroagresivas. Patrón de sueño y alimentación alterados. |
 | Funcionamiento en actividades y participación: |
 | Adaptación escolar. | Sin necesidades de apoyo educativo. Sin dificultades en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Adecuada participación social en el grupo de iguales y en la comunidad educativa. | Necesidades intermitentes de apoyo en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones no significativas. Dificultades leves en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades leves de interacción social que pueden afectar a la participación en el grupo de iguales y la comunidad educativa. | Necesidades de apoyo limitado en el aprendizaje en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones significativas ligeras. Dificultades moderadas en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades moderadas de interacción social que afectan a la participación en el grupo de iguales y la comunidad educativa. | Necesidades de apoyo extenso en el en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones significativas moderadas o la adaptación completa del curriculum. Dificultades graves en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades graves de interacción social que limitan la participación en el grupo de iguales y la comunidad educativa. | Necesidades de apoyo generalizado en el en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones significativas globales o o la adaptación completa del curriculum. Dificultades muy graves o totales en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades muy graves de interacción social que limitan la participación en el grupo de iguales y la comunidad educativa. |
 | Actividades Vida Diaria autónoma (relación con el entorno y autocuidado). | No repercusión en AVDs. Autonomía para autocuidado y actividades de otros dominios con respecto a edad cronológica. | Leve limitación en AVDs. Autonomía para autocuidado y actividades de otros dominios con respecto a edad cronológica. | Limitación moderada en AVDs. Supervisión y necesidad de apoyo en la planificación en alguna tarea aislada de autocuidado y de otros dominios con respecto a edad cronológica. | Limitación Grave en AVDs. Supervisión y necesidad de apoyo en la planificación y leve apoyo en la ejecución física para algunas actividades de autocuidado y/o ayuda física para algunas actividades aisladas de otros dominios con respecto a edad cronológica. | Limitación muy Grave en AVDs. Ayuda física para todas las actividades de autocuidado y de otros dominios, con respecto a la edad cronológica. |
@@ -686,13 +686,13 @@ Menores de 6 años.
 
 Tabla 1.5 Criterios para la puntuación de la deficiencia permanente secundaria a trastorno generalizado del desarrollo
 
-7-15 años.
+7-16 años.
 
 | Intervalo de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
 | Graduacion del % de la gravedad | 0-4% 0-1-2-3-4 | 5%-24% 5-10-15-20-24 | 25%-49% 25-31-37-43-49 | 50%-65% 50-54-58-61-65 | 66%- 85% 66-70-75 80-85 |
 | Anamnesis: |
-|  | Sin sintomatología específica de TGD/TGD/TEA. Rasgos TGD/TGD/TEA, que no supone deficiencia. | Síntomas aislados de TGD/TGD/TEA, sin confirmación diagnóstica o que no implican un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). | Cumple criterios diagnósticos de TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos; – Patrones restrictivos y repetitivos de comportamiento, Intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Las deficiencias en la comunicación social y la inflexibilidad causan problemas importantes en el funcionamiento personal, generando una interferencia significativa en uno o más contextos. Si se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) éstas afectan de manera moderada el funcionamiento personal. | Cumple criterios diagnósticos de TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos; – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Las deficiencias en la comunicación social y la inflexibilidad causan problemas graves en el funcionamiento personal, generando una interferencia notable en diversos contextos. Si se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) éstas afectan de manera grave el funcionamiento personal. | Cumple criterios diagnósticos de TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos. – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Las deficiencias en la comunicación social y la inflexibilidad causan problemas muy graves en el funcionamiento personal, generando una interferencia muy significativa en diversos contextos. Si se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) éstas afectan de manera muy grave el funcionamiento personal. |
+|  | Sin sintomatología específica de TGD/TEA. Rasgos TGD/TEA, que no supone deficiencia. | Síntomas aislados de TGD/TEA, sin confirmación diagnóstica o que no implican un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). | Cumple criterios diagnósticos de TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos; – Patrones restrictivos y repetitivos de comportamiento, Intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Las deficiencias en la comunicación social y la inflexibilidad causan problemas importantes en el funcionamiento personal, generando una interferencia significativa en uno o más contextos. Si se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) éstas afectan de manera moderada el funcionamiento personal. | Cumple criterios diagnósticos de TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos; – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Las deficiencias en la comunicación social y la inflexibilidad causan problemas graves en el funcionamiento personal, generando una interferencia notable en diversos contextos. Si se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) éstas afectan de manera grave el funcionamiento personal. | Cumple criterios diagnósticos de TGD/TEA: – Deficiencias persistentes en la comunicación social y en la interacción social en diversos contextos. – Patrones restrictivos y repetitivos de comportamiento, intereses o actividades. – Los síntomas han de estar presentes en las primeras fases del período de desarrollo (pero pueden no manifestarse totalmente hasta que la demanda social supera las capacidades limitadas, o pueden estar enmascarados por estrategias aprendidas en fases posteriores de la vida). – Los síntomas causan un deterioro clínicamente significativo en aspectos del funcionamiento habitual (social, escolar...). Las deficiencias en la comunicación social y la inflexibilidad causan problemas muy graves en el funcionamiento personal, generando una interferencia muy significativa en diversos contextos. Si se asocia a condiciones comórbidas (discapacidad intelectual, deterioro del lenguaje) éstas afectan de manera muy grave el funcionamiento personal. |
 | Exploración de la deficiencia en las funciones mentales: |
 | Deficiencia en Funciones Mentales Globales y Específicas. | Sin intereses o comportamientos restringidos o repetitivos. | Deficiencia leve en las funciones psicosociales. Globales. Alteraciones pragmáticas del lenguaje leves. Capacidad de comunicación y/o interacción (juego, simbolización...) con el entorno levemente afectada. Inflexibilidad leve del comportamiento y/o pensamiento que no interfiere en el funcionamiento habitual. Hipo y/o hipersensiblidad de carácter leve. | Deficiencia moderada en las funciones psicosociales. Globales. Capacidad Comunicativa y relacional afectada. Alteraciones moderadas de la comunicación verbal y no verbal, con dificultades para mantener una conversación recíproca. Dificultades moderadas para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad moderada del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas. Hipo y/o hipersensibilidad de carácter moderado. Parcial conciencia y/o reacción ante el peligro. Capacidad de interacción con el entorno limitada que condiciona su autonomía. Ocasionalmente conductas disruptivas. Puede existir angustia / sufrimiento ante situaciones nuevas o cambios en las rutinas establecidas. | Deficiencia grave en las funciones psicosociales. Globales. Alteraciones graves de la comunicación verbal y no verbal, con incapacidad para mantener una conversación recíproca. Escaso lenguaje funcional y/o uso de sistema alternativo de comunicación. Dificultades graves para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad grave del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas, así como el afrontamiento de los cambios. Ansiedad y/o dificultad grave para cambiar el foco de acción, afrontar situaciones nuevas o cambios en las rutinas establecidas. Escasa conciencia de peligro. Hipo y/o hipersensibilidad de carácter grave. Estereotipias importantes que dificultan funcionalidad. Conductas disruptivas persistentes. Conductas auto y/o heteroagresivas Patrón de sueño y alimentación alterados. | Deficiencia muy grave o total en las funciones psicosociales. Globales. Ausencia de lenguaje verbal o funcional. Afectación total de todas las funciones del lenguaje. Alteraciones muy graves o totales de la comunicación verbal y no verbal. Dificultades muy graves en la iniciación o mantenimiento de interacciones sociales y/o respuestas mínimas o muy atípicas a la apertura social de otras personas. Inflexibilidad muy grave del comportamiento y/o pensamiento. Extrema dificultad para hacer frente a los cambios. Ansiedad intensa y/o dificultad grave para cambiar el foco de acción, afrontar situaciones nuevas o cambios en las rutinas establecidas. Comportamientos repetitivos impulsivos, sin conciencia de peligro, que pueden resultar lesivos en relación a su persona o a los que le rodean, hecho que implica la necesidad de supervisión constante. Hipo y/o hipersensibilidad de carácter muy grave. Patrón de sueño y alimentación alterados. |
 | Funcionamiento en actividades y participación: |
@@ -715,16 +715,15 @@ Mayores de 16 años.
 | Deficiencia en Funciones Mentales Globales y Específicas. | No Deficiencias Permanentes. No presenta alteraciones del lenguaje, la interacción, o estas son muy leves. Sin intereses o comportamientos restringidos o repetitivos. | Deficiencia leve en las funciones psicosociales Globales Alteraciones pragmáticas del lenguaje leves. Capacidad de comunicación y/o interacción (juego, simbolización...) con el entorno afectada, que limita levemente su participación social. Inflexibilidad leve del comportamiento y/o pensamiento que no interfiere en el funcionamiento habitual. Hipo y/o hipersensibilidad de carácter leve. | Deficiencia moderada en las funciones psicosociales globales. Alteraciones moderadas de la comunicación verbal y no verbal, con dificultades para mantener una conversación recíproca. Dificultades moderadas para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Inflexibilidad moderada del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas. Hipo y/o hipersensibilidad de carácter moderado. Parcial conciencia y/o reacción ante el peligro. Capacidad de interacción con el entorno limitada que condiciona su autonomía. Ocasionalmente conductas disruptivas. Puede existir angustia / sufrimiento ante situaciones nuevas o cambios en las rutinas establecidas. | Deficiencia grave en las funciones psicosociales globales. Alteraciones graves de la comunicación verbal y no verbal, con incapacidad para mantener una conversación recíproca. Escaso lenguaje funcional y/o uso de sistema alternativo de comunicación. Dificultades graves para iniciar y mantener interacciones sociales o respuestas atípicas a la apertura social de otras personas. Escasa conciencia de peligro. Estereotipias importantes que dificultan funcionalidad Inflexibilidad grave del comportamiento y/o pensamiento que dificulta la organización, planificación y ejecución de las actividades cotidianas, así como el afrontamiento de los cambios. Ansiedad y/o dificultad grave para cambiar el foco de acción, afrontar situaciones nuevas o cambios en las rutinas establecidas. Hipo y/o hipersensibilidad de carácter grave. Conductas disruptivas persistentes. Conductas auto y/o heteroagresivas. Patrón de sueño y alimentación alterados. | Deficiencia muy grave en las funciones psicosociales globales. Ausencia de lenguaje verbal o funcional. Alteraciones muy graves o totales de la comunicación verbal y no verbal. Dificultades muy graves en la iniciación o mantenimiento de interacciones sociales y/o respuestas mínimas o muy atípicas a la apertura social de otras personas. Inflexibilidad muy grave del comportamiento y/o pensamiento. Extrema dificultad para hacer frente a los cambios. Ansiedad intensa y/o dificultad grave para cambiar el foco de acción, afrontar situaciones nuevas o cambios en las rutinas establecidas. Sin conciencia de peligro. Comportamientos que pueden resultar lesivos en relación a su persona o a los que le rodean, hecho que implica la necesidad de supervisión constante. Hipo y/o hiper-sensibilidad de carácter grave. Patrón de sueño y alimentación alterados. |
 | Funcionamiento en actividades y participación: |
 | Adaptación escolar. | Sin necesidades de apoyo educativo. Sin dificultades en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Adecuada participación social en el grupo de iguales y en la comunidad educativa. | Necesidades intermitentes de apoyo en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones no significativas. Dificultades leves en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades leves de interacción social que pueden afectar a la participación en el grupo de iguales y la comunidad educativa. | Necesidades de apoyo limitado en el aprendizaje en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones significativas ligeras. Dificultades moderadas en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades moderadas de interacción social que afectan a la participación en el grupo de iguales y la comunidad educativa. | Necesidades de apoyo extenso en el en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones significativas moderadas o la adaptación completa del curriculum. Dificultades graves en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades graves de interacción social que limitan la participación en el grupo de iguales y la comunidad educativa. | Necesidades de apoyo generalizado en el en el desarrollo de aptitudes y conocimientos académicos. Requiere adaptaciones significativas globales o la adaptación completa del curriculum. Dificultades muy graves o totales en el establecimiento y mantenimiento de relaciones interpersonales con iguales. Dificultades muy graves de interacción social que limitan la participación en el grupo de iguales y la comunidad educativa. |
-| Adaptación laboral. | Sin necesidades de apoyo para buscar, acceder o mantener un empleo o actividad productiva / laboral. Sin dificultades en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Adecuado desempeño e inclusión social en el entorno productivo o laboral. Empleo ordinario. | Necesidades intermitentes de apoyo en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades leves en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades leves de desempeño y/o interacción social que pueden afectar a los resultados laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Empleo ordinario con incidencias (bajas laborales...). | Necesidades de apoyo limitado en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades moderadas en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades moderadas de desempeño y/o interacción social que pueden afectar a los resultados laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Empleo ordinario con apoyos / Centros especiales de empleo. | Necesidades de apoyo extensas en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades graves en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades graves de desempeño y/o interacción social que pueden afectar a los resultados laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Centro especial de empleo, bajo rendimiento / Centro ocupacionaI. | Necesidades de apoyo generalizadas en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades leves en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades muy graves o totales de desempeño y/o interacción social que pueden afectar a los resultados ocupacionales o laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Centro ocupacional Centros de atención diurna. |
+| Adaptación laboral. | Sin necesidades de apoyo para buscar, acceder o mantener un empleo o actividad productiva / laboral. Sin dificultades en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Adecuado desempeño e inclusión social en el entorno productivo o laboral. Empleo ordinario. | Necesidades intermitentes de apoyo en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades leves en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades leves de desempeño y/o interacción social que pueden afectar a los resultados laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Empleo ordinario con incidencias (bajas laborales...). | Necesidades de apoyo limitado en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades moderadas en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades moderadas de desempeño y/o interacción social que pueden afectar a los resultados laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Empleo ordinario con apoyos / Centros especiales de empleo. | Necesidades de apoyo extensas en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades graves en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades graves de desempeño y/o interacción social que pueden afectar a los resultados laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Centro especial de empleo, bajo rendimiento / Centro ocupacionaI. | Necesidades de apoyo generalizadas en la búsqueda, acceso o mantenimiento de un empleo o actividad productiva / laboral. Dificultades muy graves en el establecimiento y mantenimiento de relaciones interpersonales en el entorno laboral. Dificultades muy graves o totales de desempeño y/o interacción social que pueden afectar a los resultados ocupacionales o laborales y/o a la inclusión social en el entorno ocupacional, productivo o laboral. Centro ocupacional Centros de atención diurna. |
 | Actividades de Vida Diaria (de acuerdo a lo esperado para su edad cronológica). | No repercusión en AVDs. Autonomía para autocuidado y otros dominios. | Leve limitación en AVDs. Autonomía para autocuidado y otros dominios. | Limitación moderada en AVDs. Supervisión en alguna tarea aislada de autocuidado y de otros dominios. | Limitación grave en AVDs. Supervisión para algunas actividades de autocuidado y/o ayuda física o verbal para algunas actividades aisladas y de otros dominios (planificación, gestión y control de la actividad, etc.). | Limitación muy grave en AVDs. Ayuda física y/o verbal para todas las actividades de autocuidado y de otros dominios (planificación, gestión y control de la actividad, etc.). |
 | Intensidad de Apoyos. | Sin apoyos. | Intermitente. | Intermitente y/o limitado. | Limitado y/o extenso. | Extenso y/o generalizado. |
 | Pruebas psicométricas / Escalas (Anexo A1): |
 | Metodología. | Observación, entrevista clínica y entrevistas a personas significativas., igual que en el resto de tramos de edad. Estudio y valoración de informes de salud mental, educativos. Escalas específicas, etc... |
-| Comorbilidad. |  |
 
-1.7 Trastornos del comportamiento y de las emociones.
+1.7 Trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia.
 
-Tabla 1.7 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia. Trastornos hipercinéticos
+Tabla 1.7 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia. Trastornos por déficit de atención con hiperactividad
 
 | Intervalo de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 |
 | --- | --- | --- |
@@ -741,9 +740,9 @@ Tabla 1.7 Criterios para la puntuación de la deficiencia permanente secundaria 
 | Pruebas psicométricas / escalas (Anexo A1): |
 | Metodología. | Observación, entrevista clínica y opcionalmente, entrevistas a personas significativas, aplicación de pruebas psicodiagnósticas, valoración de los informes aportados y petición de informes específicos si se considera necesario. |
 
-1.8 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia. Trastornos disociales.
+1.8 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia. Trastornos de conducta.
 
-Tabla 1.8 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia. Trastornos disociales
+Tabla 1.8 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia. Trastornos de conducta
 
 | Intervalo de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
 | --- | --- | --- | --- |
@@ -760,9 +759,9 @@ Tabla 1.8 Criterios para la puntuación de la deficiencia permanente secundaria 
 | Pruebas psicométricas / escalas (Anexo A1): |
 | Metodología. | Observación, entrevista clínica y opcionalmente, entrevistas a personas significativas, aplicación de pruebas psicodiagnósticas, valoración de los informes aportados y petición de informes específicos si se considera necesario. |
 
-1.9 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia.
+1.9 Criterios para la puntuación de la deficiencia permanente secundaria a otros trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia.
 
-Tabla 1.9 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia
+Tabla 1.9 Criterios para la puntuación de la deficiencia permanente secundaria a otros trastornos del comportamiento y de las emociones de comienzo habitual en la infancia y adolescencia
 
 | Intervalo de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
 | --- | --- | --- | --- |
@@ -897,7 +896,7 @@ Tabla 2.4 Criterios generales para la puntuación de la deficiencia de los trast
 | Exploración de la deficiencia en las funciones mentales: |
 | Deficiencias en las funciones mentales globales y específicas. | No Deficiencias Permanentes, o estas son muy Leves. | Deficiencia leve en las funciones mentales. Limitaciones leves en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención, psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. | Deficiencia moderada en las funciones mentales. Limitaciones moderadas en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención, psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. Pueden presentarse, ocasionalmente, alteraciones del curso y contenido del pensamiento y/ alteraciones sensoperceptivas. | Deficiencia grave en las funciones mentales. Limitaciones graves en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención, psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. | Deficiencia muy grave en las funciones mentales. Limitaciones muy graves de las funciones del temperamento, de la energía e impulsos, del sueño, atención, psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. |
 | Funcionamiento en actividades y participación: |
-| Adaptación escolar y laboral. |  | Puede mantener Actividades laborales, académicas y actividades complejas normalizadas con leve disminución en rendimiento coincidiendo con acontecimientos no habituales, cambios en su situación vital o incremento de las exigencias ambientales y puede conllevar periodos de baja o reposo. | Dificultad para mantener actividades laborales, académicas y actividades complejas en ámbitos normalizadas con moderada disminución en rendimiento. Puede mantener actividades laborales, ocupacionales, académicas y actividades complejas con apoyos o en ambientes protegidos. | Grave dificultad para mantener actividades laborales, ocupacionales, académicas y actividades complejas con grave disminución en rendimiento y/o requiere de apoyo externos en ambientes protegidos. Presenta dificultades graves para adquirir y desarrollar y aplicar habilidades de tipo académico, tecnológico o de ocio, para centrar atención en sus tareas cotidianas así como, resolver problemas y tomar decisiones. | Imposibilidad de acceso y mantenimiento de actividades laborales normalizadas. |
+| Adaptación escolar y laboral. | Actividad laboral normalizada y productiva. | Puede mantener Actividades laborales, académicas y actividades complejas normalizadas con leve disminución en rendimiento coincidiendo con acontecimientos no habituales, cambios en su situación vital o incremento de las exigencias ambientales y puede conllevar periodos de baja o reposo. | Dificultad para mantener actividades laborales, académicas y actividades complejas en ámbitos normalizadas con moderada disminución en rendimiento. Puede mantener actividades laborales, ocupacionales, académicas y actividades complejas con apoyos o en ambientes protegidos. | Grave dificultad para mantener actividades laborales, ocupacionales, académicas y actividades complejas con grave disminución en rendimiento y/o requiere de apoyo externos en ambientes protegidos. Presenta dificultades graves para adquirir y desarrollar y aplicar habilidades de tipo académico, tecnológico o de ocio, para centrar atención en sus tareas cotidianas así como, resolver problemas y tomar decisiones. | Imposibilidad de acceso y mantenimiento de actividades laborales normalizadas. |
 | Actividades: Vida diaria autónoma (relación con el entorno y autocuidado) y capacidad educativa y laboral (en general). | Autonomía preservada. Alguna limitación muy leve. | Dificultades de interrelación y/o evitación social leves. Autonomía para autocuidado. | Dificultades de interrelación y/o tendencia al aislamiento social moderadas. Dificultad en alguna actividad de autocuidado y en tareas domésticas habituales. | Dificultades graves para varias actividades de autocuidado. Graves dificultades para las tareas domésticas habituales. | Dificultades graves / total para la actividades de autocuidado. |
 | Intensidad de Apoyos. | Sin apoyos. | Precisa apoyo intermitente. En ocasiones apoyos naturales, informales o no especializados. | Precisa apoyos limitados e intermitentes. | Precisa apoyos extensos. | Extenso y/o generalizado. |
 | Pruebas psicométricas / escalas (Anexo A2): |
@@ -909,8 +908,8 @@ Tabla 2.5 Criterios generales para la puntuación de la deficiencia de los trast
 | --- | --- | --- | --- | --- | --- |
 | Graduación del % de la gravedad | 0-4% 0-1-2-3-4 | 5%-24% 5-10-15-20-24 | 25%-49% 25-32-37-42-49 | 50%-65% 50-54-58-62-65 | 66%-85% 66-70-75-80-85 |
 | Anamnesis: |
-| Antecedentes personales, familiares personalidad premórbida, inicio, medidas terapéuticas ensayadas, ingresos, frecuencia de las crisis, evolución general del cuadro. | Presenta sintomatologí a leve o fluctuante, bien controlada con la medicación o sin ella. Recuperación del estilo vital previo. | Seguimiento ambulatorio especializado y/o en atención primaria de 2 años al menos. Presenta sintomatología de carácter leve y/o variable. Pueden haber precisado ingreso psiquiátrico puntual. No consigue recuperación premórbida. | Tratamiento ambulatorio especializado de 2 años al menos. Síntomas moderados persistentes y/o episodios con graves. Crisis agudas recurrentes, que pueden haber requerido varios ingresos psiquiátricos. | Tratamiento ambulatorio especializado de 2 años al menos. Síntomas graves habituales con escasa eficacia en la medidas terapéuticas. | Tratamiento ambulatorio especializado de 2 años al menos. Síntomas muy graves con grave repercusión para la salud. Hospitalizaciones reiteradas en media y larga estancia. |
-| Criterios diagnósticos. | Cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. |
+| Antecedentes personales, familiares personalidad premórbida, inicio, medidas terapéuticas ensayadas, ingresos, frecuencia de las crisis, evolución general del cuadro. | Presenta sintomatología leve o fluctuante, bien controlada con la medicación o sin ella. Recuperación del estilo vital previo. | Seguimiento ambulatorio especializado y/o en atención primaria de 2 años al menos. Presenta sintomatología de carácter leve y/o variable. Pueden haber precisado ingreso psiquiátrico puntual. No consigue recuperación premórbida. | Tratamiento ambulatorio especializado de 2 años al menos. Síntomas moderados persistentes y/o episodios con graves. Crisis agudas recurrentes, que pueden haber requerido varios ingresos psiquiátricos. | Tratamiento ambulatorio especializado de 2 años al menos. Síntomas graves habituales con escasa eficacia en la medidas terapéuticas. | Tratamiento ambulatorio especializado de 2 años al menos. Síntomas muy graves con grave repercusión para la salud. Hospitalizaciones reiteradas en media y larga estancia. |
+| Criterios diagnósticos. | No cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. | Cumple criterio para cualquier Trastorno de ansiedad. |
 | Sintomatología. | Sintomatología leve sin incidencias significativas en el desenvolvimiento de la persona. | Sintomatología activa fluctuante. Con el tratamiento/apoyo especializado, mejoran las dificultades para afrontar acontecimientos no cotidianos, en los que puede aparecer sintomatología o exacerbar la ya existente. | Síntomas de moderada intensidad mantenidos en el tiempo, o episodios graves con recaídas. Desestabilización psicopatológica ante situaciones de estrés laboral y/o demandas del entorno que condicionan moderadamente su desenvolvimiento cotidiano. Más de un episodio con síntomas graves. Conductas ansiosas, disociativas, obsesivas/ Compulsivas, fóbicas de intensidad moderada. Tendencia a ocio solitario o comportamientos sociales inadecuados por perdida de las inhibiciones sociales normales para el carácter del sujeto. | Trastornos fóbicos, obsesivos compulsivos disociativos o somatomorfos con crisis y recaídas frecuentes que impiden el normal desenvolvimiento cotidiano de forma constante. Desestabilización psicopatológica ante situaciones de estrés laboral y/o demandas del entorno que condicionan gravemente su desenvolvimiento cotidiano (+ de dos episodios en un año, o 5 en los últimos 3, + de 8 en los últimos 5 años). Trastorno de personalidad de base o presencia de déficits en Habilidades sociales y de afrontamiento. Seguimiento continuado y/o Necesidad de Ingreso en Unidad de Psiquiatría. | Conductas ansiosas, disociativas, obsesivas / compulsivas, fóbicas de intensidad muy graves que requieren de terceras personas para el desenvolvimiento cotidiano. Hiporreactividad a estímulos. Necesidad de apoyos específicos y continuos. Hospitalizaciones reiteradas por el trastorno. |
 | Exploración de la deficiencia en las funciones mentales: |
 | Defificiencias en las funciones mentales globales y específicas. | No deficiencias permanente o estas son muy leves. | Deficiencias leves en las funciones mentales. Limitaciones leves en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. Quejas subjetivas y/o rendimientos disminuidos en pruebas. Variaciones en cantidad y calidad de los contactos sociales. Abandono de sus actividades de ocio y sociales en algunos periodos. | Deficiencias moderadas en las funciones mentales. Limitaciones moderadas en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. | Deficiencias graves en las funciones mentales. Limitaciones graves en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. | Deficiencias muy graves en las funciones mentales. Limitaciones muy graves en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. Deficiencias muy graves en Integración del Yo, despersonalización, de uno mismo en relación a su cuerpo, el tiempo, el espacio... |
@@ -935,7 +934,7 @@ Los Trastornos persistentes de la Personalidad atribuíbles a lesión o enfermed
 | Exploración de la deficiencia en las funciones mentales: |
 | Defificiencias en las funciones mentales globales y específicas. | No deficiencias permanentes o estas son muy leves. | Deficiencias leves en las funciones mentales. Limitaciones leves en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. Interferencia en los contactos y relaciones sociales no significativa. Abandono de sus actividades de ocio y sociales en algunos periodos. | Deficiencias moderadas en las funciones mentales. Limitaciones moderadas en algunas de las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. Tendencia a inhibirse en situaciones sociales o expansivo, en base al Trastorno. | Deficiencias graves en las funciones mentales. Limitaciones graves en las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. Existen de forma reiterada alteraciones del curso y contenido del pensamiento y del comportamiento anómalos y generalizados, claramente desadaptativos en situaciones individuales y sociales. | Deficiencias muy graves en las funciones mentales. Limitaciones muy graves en las funciones del temperamento, de la energía e impulsos, del sueño, atención. Psicomotoras, emocionales, así como en funciones cognitivas superiores, apreciadas a través de evaluación clínica. Alteración de personalidad de intensidad muy grave que requieren de terceras personas para el desenvolvimiento cotidiano. |
 | Funcionamiento en actividades y participación: |
-| Adaptación escolar o laboral. |  | Mantenimiento del empleo con continuidad. Bajas laborales ocasionales y de corta duración. | Dificultad para mantener actividades laborales, académicas y actividades complejas en ámbitos normalizados con moderada disminución en rendimiento, pueden precisar evitar trabajos que supongan atención directa al público, esfuerzo mental / estrés en grado elevado. Puede mantener actividades laborales, ocupacionales, académicas y actividades complejas con apoyos o en ambientes protegidos. | Grave dificultad para mantener actividades laborales, ocupacionales, académicas y actividades complejas con grave disminución del rendimiento y/o requiere de apoyo externos en ambientes protegidos. | Imposibilidad de acceso y mantenimiento de actividades laborales normalizadas. |
+| Adaptación escolar o laboral. | Actividad laboral normalizada y productiva. | Mantenimiento del empleo con continuidad. Bajas laborales ocasionales y de corta duración. | Dificultad para mantener actividades laborales, académicas y actividades complejas en ámbitos normalizados con moderada disminución en rendimiento, pueden precisar evitar trabajos que supongan atención directa al público, esfuerzo mental / estrés en grado elevado. Puede mantener actividades laborales, ocupacionales, académicas y actividades complejas con apoyos o en ambientes protegidos. | Grave dificultad para mantener actividades laborales, ocupacionales, académicas y actividades complejas con grave disminución del rendimiento y/o requiere de apoyo externos en ambientes protegidos. | Imposibilidad de acceso y mantenimiento de actividades laborales normalizadas. |
 | Actividades: Vida autónoma (relación con el entorno y autocuidado) y capacidad educativa y laboral (en general). | Sin disminución en la capacidad funcional. Actividad laboral normalizada. | Limitación leve en AVDs. Autonomía para el autocuidado. | Limitación moderada en AVDs. Dificultades en alguna actividad de autocuidado y en tareas habituales. Depende de otros para desarrollar actividades de su rol y sociales regularmente. | Limitación grave en AVDS. Dificultades graves para varias actividades de autocuidado. Graves dificultades para las tareas habituales. | Limitación muy grave en AVDs. Dificultades graves / total para las actividades de autocuidado. |
 | Intensidad de Apoyos. | Sin apoyos. | Precisa Apoyo Intermitente. En ocasiones apoyos naturales, informales o no normalizados. | Precisa Apoyos limitados e Intermitente. | Precisa apoyos extensos | Extenso y/o generalizado. |
 | Pruebas psicométricas / escalas (Anexo A2): |
@@ -951,7 +950,7 @@ Tabla 2.7 Criterios generales para la puntuación de la deficiencia de los trast
 | Criterios diagnósticos. | No cumple criterio diagnóstico. | Cumple criterio de Trastorno de la conducta alimentaria. | Cumple criterio de Trastorno de la conducta alimentaria. | Cumple criterio de Trastorno de la conducta alimentaria. | Cumple criterio de Trastorno de la conducta alimentaria. |
 | Sintomatología. | Sintomatología de la esfera de la alimentación sin repercusión funcional. | Sintomatología leve de la conducta alimentaria para mantener el peso corporal en valores normalizados o episodios recurrentes de voracidad por conductas compensatorias con alteración de la percepción y el peso corporal, con leve repercusión en el funcionamiento de la persona. Alteración de la percepción y de la silueta corporal con leve pérdida de peso. En bulimia alteración leve del patrón de conducta alimentaria. | Sintomatología moderada de la conducta alimentaria para mantener el peso corporal en valores normalizados o episodios recurrentes de voracidad por conductas compensatorias con alteración de la percepción y el peso corporal, con moderada repercusión en el funcionamiento de la persona. Alteraciones del índice de masa corporal, así como Imagen Corporal moderadamente distorsionada y síntomas afectivos moderados en situaciones cotidianas que inciden en la salud psicofísica de la persona. Tendencia a inhibirse en situaciones sociales y conductas obsesivas y perfeccionistas con incidencia moderada en el funcionamiento. Alteración moderada de la percepción y de la silueta corporal con moderada pérdida o ganancia de peso. En Bulimia, alteración moderada del patrón de conducta alimentaria. | Trastornos de alimentación con crisis y recaídas frecuentes que impiden el normal desenvolvimiento cotidiano, con enfermedades médicas asociadas y grave repercusión en el funcionamiento de la persona. Seguimiento continuado y/o Necesidad de Ingreso en Unidad de Psiquiatría (+ de dos episodios en un año, o 5 en los últimos 3, + de 8 en los últimos 5 años). Existen de forma reiterada alteraciones del índice de masa corporal, así como Imagen Corporal gravemente distorsionada y/o presencia de síntomas afectivos graves en situaciones cotidianas. Alteración de la conducta alimentaria grave para la salud psicofísica, con grave pérdida o ganancia de peso. | Existen de forma permanente alteraciones del índice de masa corporal, así como Imagen Corporal muy gravemente distorsionada y síntomas afectivos muy graves en situaciones cotidianas. Alteración de la conducta alimentaria muy grave para la salud psicofísica que requieren de terceras personas para el desenvolvimiento cotidiano. Necesidad de apoyos específicos y continuos. Hospitalizaciones reiteradas. |
 | Exploración de la deficiencia en las funciones mentales: |
-| Deficiencias en las funciones mentales globales y específicas. | No deficiencias permanentes o estas son muy leves. | Deficiencias leves en las funciones mentales. Limitaciones leves en las funciones Mentales relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica que interfieren levemente en la salud psicofísica de la persona. | Deficiencias moderadas en las funciones mentales. Limitaciones leves en las funciones mentales relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica que interfieren moderadamente en la salud psicofísica de la persona. | Deficiencias graves en las funciones mentales. Limitaciones graves en las funciones relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica que interfieren gravemente en la salud psicofísica de la persona. | Deficiencias muy graves en las funciones mentales. Limitaciones muy graves en las funciones mentales relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica, que interfieren muy gravemente en la salud psicofísica de la persona. |
+| Deficiencias en las funciones mentales globales y específicas. | No deficiencias permanentes o estas son muy leves. | Deficiencias leves en las funciones mentales. Limitaciones leves en las funciones Mentales relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica que interfieren levemente en la salud psicofísica de la persona. | Deficiencias moderadas en las funciones mentales. Limitaciones moderadas en las funciones mentales relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica que interfieren moderadamente en la salud psicofísica de la persona. | Deficiencias graves en las funciones mentales. Limitaciones graves en las funciones relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica que interfieren gravemente en la salud psicofísica de la persona. | Deficiencias muy graves en las funciones mentales. Limitaciones muy graves en las funciones mentales relacionadas con la predisposición y el funcionamiento intrapersonal, el temperamento y la personalidad, con la energía y los impulsos, y el sueño, la atención, memoria y pensamiento y las relacionadas con uno mismo y con el tiempo, apreciadas a través de la exploración clínica, que interfieren muy gravemente en la salud psicofísica de la persona. |
 | Funcionamiento en actividades y participación: |
 | Adaptación escolar y laboral. | Actividad laboral normalizada y productiva. | Puede mantener actividades laborales, ocupacionales, académicas y actividades complejas normalizadas con leve disminución en rendimiento coincidiendo con acontecimientos no habituales, cambios en su situación vital o incremento de las exigencias ambientales. | Dificultad para mantener actividades laborales, académicas y actividades complejas en ámbitos normalizados con moderada disminución en rendimiento. | Grave dificultad para mantener actividades laborales, ocupacionales, académicas y actividades complejas con grave disminución del rendimiento y/o requiere de apoyo externos en ambientes protegidos. Presenta dificultades graves para adquirir, desarrollar y aplicar habilidades de tipo académico, tecnológico o de ocio, para centrar la atención en sus tareas cotidianas así como resolver problemas y tomar decisiones. | Imposibilidad de acceso y mantenimiento de actividades laborales normalizadas. |
 | Actividades: Vida diaria autónoma (relación con el entorno y autocuidado) y capacidad educativa y laboral (en general). | Autónomo para AVDs. Sin disminución en la capacidad funcional. | Limitación leve en AVDs. Dificultades de interrelación y/o evitación leves. Autonomía para el autocuidado. | Limitación moderada en AVDs. Dificultades en alguna actividad de autocuidado y en tareas habituales. Dificultad moderada para mantener actividades sociales. | Limitación Grave en AVDs. Dificultades graves para varias actividades de autocuidado. Graves dificultades para las tareas habituales. | Limitación muy grave en AVDs. Dificultades graves/total para las actividades de autocuidado. |
@@ -959,7 +958,7 @@ Tabla 2.7 Criterios generales para la puntuación de la deficiencia de los trast
 | Pruebas psicométricas / escalas (Anexo A2): |
 | Metodología | Observación, entrevista clínica personal, entrevistas a personas significativas, informes clínicos y del entorno social/laboral, aplicación de pruebas psicodiagnósticas: pruebas proyectivas, test de personalidad, etc. |
 
-Anexo A2: Pruebas psicométricas / escalas.
+Anexo A2: Pruebas psicométricas/escalas.
 
 En las tablas de criterios de evaluación de la deficiencia no se incluyen pruebas de exploración psicopatológica concreta, ya que quedarían excluidas otras, sin justificación clínica objetiva. Cada profesional, en función de variables como: edad y estado de la persona a valorar, grado de colaboración, tiempo, etc., determinará la conveniencia de su aplicación y elección de la más apropiada.
 
@@ -969,15 +968,15 @@ Capítulo 3
 
 3.1 Principios de evaluación.
 
-Este capítulo no sigue el procedimiento explicado en las normas generales para el cálculo del grado de deficiencia dentro de los «intervalos de grado» de gravedad (diferenciando entre un criterio principal y otros secundarios), sino que la inclusión en el «intervalo de grado» dependerá del cumplimiento de la «descripción» de los criterios de inclusión en dicho intervalo según lo expuesto en la tabla correspondiente.
+Este capítulo no sigue el procedimiento explicado en las normas generales para el cálculo del grado de deficiencia dentro de los "intervalos de grado" de gravedad (diferenciando entre un criterio principal y otros secundarios), sino que la inclusión en el "intervalo de grado" dependerá del cumplimiento de la "descripción" de los criterios de inclusión en dicho intervalo según lo expuesto en la tabla correspondiente.
 
-Habitualmente, en los trastornos neurológicos, se toma como criterio principal de evaluación de la deficiencia la repercusión de la capacidad para la realización de las Actividades de la Vida Diaria (AVD). Como referente de afectación se tendrá en cuenta la repercusión de la deficiencia neurológica en la puntuación obtenida en el «Baremo de Limitaciones en las AVD» (BLA).
+Habitualmente, en los trastornos neurológicos, se toma como criterio principal de evaluación de la deficiencia la repercusión de la capacidad para la realización de las Actividades de la Vida Diaria (AVD). Como referente de afectación se tendrá en cuenta la repercusión de la deficiencia neurológica en la puntuación obtenida en el "Baremo de Limitaciones en las AVD" (BLA).
 
 Con objeto de individualizar esta evaluación, el BLA, en casos de afectación neuropsicológica, se realizará en un primer tiempo, teniendo en cuenta fundamentalmente la repercusión del dominio 1 (Funciones mentales y estructuras del sistema nervioso) en la capacidad para realizar las actividades descritas en el mismo, para en un segundo tiempo, en el caso de existir otras deficiencias en otros órganos o dominios, completar su implementación.
 
 Los criterios de inclusión, cuando sean objetivos (número de crisis, pruebas neuropsicológicas, uso de bastón...), se considerarán como criterio principal, utilizando la repercusión sobre las AVD como factor modificador de grado dentro del intervalo asignado.
 
-En este capítulo en los intervalos de grado solo se establecen tres valores de intervalo de grado. Caso de cumplir los criterios de la «descripción» de criterios de inclusión, se le asignará inicialmente el valor central de intervalo de grado, quedando a criterio del técnico evaluador, según la mayor o menor gravedad de los criterios descritos en el mismo (fundamentalmente la repercusión sobre las AVD) modificar dicho grado al mayor o al menor de los valores.
+En este capítulo en los intervalos de grado solo se establecen tres valores de intervalo de grado. Caso de cumplir los criterios de la "descripción" de criterios de inclusión, se le asignará inicialmente el valor central de intervalo de grado, quedando a criterio del técnico evaluador, según la mayor o menor gravedad de los criterios descritos en el mismo (fundamentalmente la repercusión sobre las AVD) modificar dicho grado al mayor o al menor de los valores.
 
 La graduación de la gravedad o porcentaje (%) dentro de cada intervalo está referida a la Deficiencia Total de la Persona (DTP).
 
@@ -1021,7 +1020,7 @@ En caso de utilizar otro capítulo para la evaluación esta será alternativa a 
 
 Las enfermedades del sistema nervioso pueden afectar a múltiples funciones mentales y corporales. Con el objetivo de que la evaluación de la deficiencia neurológica no resulte redundante, evitar duplicidades y sobreevaluación, se precisa diferenciar y evaluar de forma jerárquica las distintas deficiencias, siguiendo los siguientes pasos.
 
-Paso 1. El primer paso, en la evaluación de la deficiencia del SNC, es la identificación y evaluación de la «deficiencia cerebral más grave», si la hubiere, entre los cuatro grandes grupos (apartados 3.4.1 a 3.4.4) de trastornos neurológicos siguientes:
+Paso 1. El primer paso, en la evaluación de la deficiencia del SNC, es la identificación y evaluación de la "deficiencia cerebral más grave", si la hubiere, entre los cuatro grandes grupos (apartados 3.4.1 a 3.4.4) de trastornos neurológicos siguientes:
 
 Grupo 1. (3.4.1) Identificar si existen trastornos permanentes o intermitentes de las funciones de la conciencia. Que se subdividen en tres apartados:
 
@@ -1037,13 +1036,13 @@ Grupo 3. (3.4.3) Identificar si existen trastornos permanentes en la comprensió
 
 Grupo 4. (3.4.4) Identificar si existen trastornos permanentes de las funciones emocionales o de la conducta, tales como la depresión, ansiedad, irritabilida que pueden modificar la función cerebral.
 
-Se deberá seleccionar entre los cuatro grupos anteriores SOLO UN GRUPO de trastornos por «deficiencia cerebral», el de mayor gravedad, que representará a los otros tres, y que se identificará como «deficiencia cerebral más grave».
+Se deberá seleccionar entre los cuatro grupos anteriores SOLO UN GRUPO de trastornos por "deficiencia cerebral", el de mayor gravedad, que representará a los otros tres, y que se identificará como "deficiencia cerebral más grave".
 
-Paso 2. En segundo lugar, en caso de existir deficiencias por otros trastornos neurológicas descritos en otras secciones de este capítulo (apartados 3.5 a 3.13) no incluidas en los anteriores 4 grupos se combinará la «deficiencia cerebral más grave» con las deficiencias de los trastornos neurológicos que se relacionan a continuación en la Tabla 3.2, utilizando la tabla de valores combinados en el Apéndice, obteniendo la Deficiencia Total de la Persona (DTP) por trastorno neurológico.
+Paso 2. En segundo lugar, en caso de existir deficiencias por otros trastornos neurológicas descritos en otras secciones de este capítulo (apartados 3.5 a 3.14) no incluidas en los anteriores 4 grupos se combinará la "deficiencia cerebral más grave" con las deficiencias de los trastornos neurológicos que se relacionan a continuación en la Tabla 3.2, utilizando la tabla de valores combinados en el Apéndice, obteniendo la Deficiencia Total de la Persona (DTP) por trastorno neurológico.
 
-Paso 3. Finalmente, si existen otras deficiencias en otros órganos o dominios (no incluidas en el capítulo 3 de evaluación de trastornos neurológicos) y cuya puntuación no sea alternativa (cardiovascular, músculo esquelético, trastornos mentales,...) se combinaran, con la tabla de valores combinados, para obtener la «deficiencia global» de la persona.
+Paso 3. Finalmente, si existen otras deficiencias en otros órganos o dominios (no incluidas en el capítulo 3 de evaluación de trastornos neurológicos) y cuya puntuación no sea alternativa (cardiovascular, músculo esquelético, trastornos mentales,...) se combinaran, con la tabla de valores combinados, para obtener la "deficiencia global" de la persona.
 
-Tabla 3.2 Deficiencias de otros trastornos neurológicos incluidos en este capítulo que se combinan con la «deficiencia cerebral más grave»
+Tabla 3.2 Deficiencias de otros trastornos neurológicos incluidos en este capítulo que se combinan con la "deficiencia cerebral más grave"
 
 | 3.5 | Deficiencias de la médula espinal y trastornos del movimiento debido a una disfunción del SNC. |
 | --- | --- |
@@ -1056,7 +1055,7 @@ Tabla 3.2 Deficiencias de otros trastornos neurológicos incluidos en este capí
 | 3.13 | Deficiencias relacionadas con las algias craneofaciales. |
 | 3.14 | Deficiencias de varios nervios periféricos de la cabeza y el tronco. |
 
-3.4 Criterios para la evaluación de los grupos de disfunción del SNC según el criterio de «la deficiencia cerebral más grave.
+3.4 Criterios para la evaluación de los grupos de disfunción del SNC según el criterio de "la deficiencia cerebral más grave.
 
 3.4.1 Grupo 1. Trastornos permanentes o intermitentes de las funciones de la conciencia por disfunción del sistema nervioso central.
 
@@ -1090,11 +1089,11 @@ Tabla 3.5 Criterios de puntuación de la deficiencia debida a los trastornos del
 | Descripción. | El estado de alerta y vigilia durante el día es normal, sin repercusión en las AVD. ESE* < 12. | Reducción insignificante o leve de la alerta y vigilia durante el día, Un patrón de sueño así permite que la persona pueda llevar a cabo las AVD con interferencia insignificante o leve. ESE* > 12. | Reducción leve a moderada de la alerta y vigilia durante el día; que limita deforma leve la capacidad para realizar las AVD (por ejemplo, no puede conducir). ESE* > 16. | Reducción moderada de la alerta y vigilia durante el día; que limita de forma leve a moderada en las AVD. ESE* > 20. | Reducción grave de la alerta y vigilia durante el día; que limita de forma moderada a grave o impide la realización de la mayoría de las AVD. ESE* 24. |
 | * ESE (Escala de Somnolencia de Epworth): Los valores se consideran orientativos. |
 
-3.4.1.d Cálculo de la deficiencia de trastornos de la conciencia: Dentro de los tres apartados de este grupo 3.4.1 de «deficiencia de las funciones de la conciencia», solo se evaluará el que se considere más grave. Una vez realizado lo anterior, se tendrá en cuenta el criterio general de «evaluación de la deficiencia cerebral más grave» (3.3) en relación a las deficiencias neurológicas que se exponen a continuación (si las hubiera).
+3.4.1.d Cálculo de la deficiencia de trastornos de la conciencia: Dentro de los tres apartados de este grupo 3.4.1 de "deficiencia de las funciones de la conciencia", solo se evaluará el que se considere más grave. Una vez realizado lo anterior, se tendrá en cuenta el criterio general de "evaluación de la deficiencia cerebral más grave" (3.3) en relación a las deficiencias neurológicas que se exponen a continuación (si las hubiera).
 
 3.4.2 Grupo 2: Trastornos del estado mental, funciones intelectuales y función superior integradora por disfunción del sistema nervioso central.
 
-Para evaluar de forma simplificada la deficiencia dentro de este capítulo, se debe utilizar la Tabla 3.7. Se tomará como criterio principal de evaluación el resultado obtenido en «Examen ampliado del estado mental de la persona con deficiencia neurológica». Así mismo se podrá tomar como alternativa, como referencia global de evaluación, la puntuación obtenida en otras pruebas de uso corriente realizadas en atención primaria, neurología, geriatría...
+Para evaluar de forma simplificada la deficiencia dentro de este capítulo, se debe utilizar la Tabla 3.7. Se tomará como criterio principal de evaluación el resultado obtenido en "Examen ampliado del estado mental de la persona con deficiencia neurológica". Así mismo se podrá tomar como alternativa, como referencia global de evaluación, la puntuación obtenida en otras pruebas de uso corriente realizadas en atención primaria, neurología, geriatría...
 
 Tabla 3.6 Evaluación del examen ampliado del estado mental de la persona con daño neurológico
 
@@ -1132,11 +1131,11 @@ Ver capítulo 7. Tabla 7.2.
 
 3.4.4 Grupo 4: Trastornos de las emociones y de la conducta debidos a una disfunción del sistema nervioso central.
 
-Los trastornos emocionales secundarios a las alteraciones neurológicas se evalúan con los criterios definidos en el capítulo 1-Deficiencia Intelectual y Trastornos del Desarrollo psicológico, de las emociones y de la conducta, de inicio en la infancia y la adolescencia, y el capítulo 2-Trastornos Mentales y del comportamiento. De forma simplificada se podrá evaluar con los criterios de este capítulo.
+Los trastornos emocionales secundarios a las alteraciones neurológicas se evalúan con los criterios definidos en el capítulo 1- Capacidad intelectual límite, discapacidad intelectual, trastornos del desarrollo psicológico y trastornos del comportamiento y las emociones de inicio en la infancia y adolescencia, y el capítulo 2- Trastornos Mentales y del comportamiento. De forma simplificada se podrá evaluar con los criterios de este capítulo.
 
 Tabla 3.9 Puntuación de la deficiencia de la Escala Evaluación de la Actividad Global (EEAG)
 
-| EEAG | Descripción | Puntuación De la deficiencia EEAG |
+| EEAG | Descripción | Puntuación de la deficiencia EEAG |
 | --- | --- | --- |
 | 91-100 | Sin síntomas, funcionamiento superior en una amplia gama de actividades, los problemas de la vida parecen no írsele nunca de la mano, es valorado por los demás a causa de sus muchas cualidades positivas. | 0% |
 | 81-90 | Síntomas mínimos o ausentes (ej., leve ansiedad antes de un examen), buen funcionamiento en todas las áreas, interesado e implicado en una gran variedad de actividades, eficiente socialmente, generalmente satisfecho con la vida, nada más que los problemas o preocupaciones cotidianas (ej., una discusión ocasional con algún miembro de la familia). | 0% |
@@ -1319,7 +1318,7 @@ Tabla 3.20 Cuestionario MIDAS
 | 3. ¿Cuántos días en los últimos tres meses no ha podido realizar sus labores de hogar a causa del dolor de cabeza? |  |
 | 4. ¿Cuántos días en los últimos tres meses, su rendimiento en las labores de hogar se ha visto reducido a la mitad o más a causa del dolor de cabeza? (No incluya los días que usted contabiliza en la pregunta 3, en los cuales no podía realizar las tareas del hogar). |  |
 | 5. ¿Cuántos días en los últimos tres meses no ha podido asistir a actividades familiares, sociales o de ocio, a causa del dolor de cabeza? |  |
-| TOTAL. |  |
+| Total. |  |
 
 Se suma la puntuación de las cinco preguntas anteriores y se utiliza la Tabla 3.21 para determinar la deficiencia por migraña. Se deberá valorar el cumplimiento del tratamiento, su eficacia y si la Máxima Mejoría Clínica (MMC) se ha alcanzado antes de proceder a la evaluación. Idealmente el cuestionario ha de haber sido pasado en contexto de consulta clínica (consulta de neurología) y no en el momento de la evaluación de discapacidad.
 
@@ -1447,13 +1446,13 @@ ECF = (3 X ECVAO + ECN/OD + ECV0I) / 5
 
 Tabla 4.3 Deficiencia del campo visual (Escala de campo visual)
 
-| Clasificación por deficiencia de campo visual (Basados en ICD-9-CM) | Condiciones especiales | Grados conservados si la pérdida es concéntrica | Escala del Campo Visual (ECV) | Deficiencia de la función visual | Capacidad estimada para tareas de orientación visual y movilidad («O + M») |
+| Clasificación por deficiencia de campo visual (Basados en ICD-9-CM) | Condiciones especiales | Grados conservados si la pérdida es concéntrica | Escala del Campo Visual (ECV) | Deficiencia de la función visual | Capacidad estimada para tareas de orientación visual y movilidad ("O + M") |
 | --- | --- | --- | --- | --- | --- |
 | Visión (casi) normal. | Rango de visión normal. |  | 60° | 110 | ... 0 | Orientación visual normal. Movilidad normal. |
 | 105 |
 | 100 |
 | Pérdida < 1 cuadrante. |  | 95 | 5 |
-| Visión casi normal o con deficiencia leve. | Pérdida de 1 cuadrante. Cuadrantanopsia homonima. | 50° | 90 | 10 | Ejecución «O + M» normal. Necesita más exploraciones. Ocasionalmente se sorprende por todo lo que proviene por su lado. |
+| Visión casi normal o con deficiencia leve. | Pérdida de 1 cuadrante. Cuadrantanopsia homonima. | 50° | 90 | 10 | Ejecución "O + M" normal. Necesita más exploraciones. Ocasionalmente se sorprende por todo lo que proviene por su lado. |
 | Pérdida > 1 cuadrante. | 45° | 85 | 15 |
 | 40° | 80 | 20 |
 | Deficiencia visual. | Deficiencia visual moderada. | Pérdida de la parte superior del campo. | 35° | 75 | 25 | Rendimiento casi normal. Requiere exploración para obstáculos. |
@@ -1522,7 +1521,7 @@ a. En primer lugar, se calcula la Deficiencia del Sistema Visual (DSV) restando 
 
 DSV = 100 - EVF
 
-b. En segundo lugar, si es pertinente, incluya un «ajuste individual» de los criterios de evaluación visuales que no aparecen reflejados en las escalas de agudeza y campo visual, según las pautas expuestas en el apartado 4.5.
+b. En segundo lugar, si es pertinente, incluya un "ajuste individual" de los criterios de evaluación visuales que no aparecen reflejados en las escalas de agudeza y campo visual, según las pautas expuestas en el apartado 4.5.
 
 DSV = 100 - (EVF - Ajustes)*
 
@@ -1603,9 +1602,9 @@ Tabla 5.1 Deficiencia por hipoacusia monoaural
 
 Se determinará por la formula siguiente*:
 
-![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAowAAAAuCAYAAACieEgaAAAHp0lEQVR4nO3d0bmqOhCG4enFXqjFWuzEKs4tldiG+8I1hzgkMBMSAf3e5+Fiu8SMCfkNyFpbBAAAAGjkcsC2RxG5FX72FJFrn3Kq3OVV01NedadGqa93y749HK2eXnrMh0GO32+/Mr5Re+ZjjbNkJ7n53c6Qeb+gOr8GmSZouu0ViFcRefzVpS7yqmmQV+jdMz8rhaFXy/ee1qgByCQ5h0/Mh0fyuhwXben4LfVri3EdZb6gOaIzZSe5+b3IPJ/D59eRQs8GmsgUaqn0LPSZ2aeWvu7WxYEN4bNdjfhln5oPVyE8W9Ow9eRBi7k+yLHy0zpbdpKb343MW3b4/BqkXWBsNcjrLMS6S/6riXS/Vgdgi0FoddaOz/vkfCA829L+9Gp1cpg7yd1ibPh6Z8pOcvP7kXllp8gvvY8iUmgvD8kfSDZA7Yd6yzP8Vqt2gu+cPjkfCM92LhJfZLUKXGn4OiJtF4xnyk5y8/uReXmnyK/SvVrD0k6G/XrjZh7zTn49kHJFj/J+5TF93i1Yr3WTqdaHrA+Cfb+27YfM+7N01bQ0cbQvSm0s7btWn8i0KLqIb6y21JMuwHL94NHjPeW0mA+RmmvCU4/Xq8yPXZHpKs1a7Z761Fh4Ttr+0vimx4e+VmSh4m1H2yqNeWSuR9oU6bvI2/paR8hOcvN7czPSXk3m6bFxNW2s5c1atpFfk6rMSTs6GiSPpKia+3rusvym0kBJO2hLsNqbPtMP29LCNT3QSwO2dqb8kPJvyNmvkG7meUv7eurTDxA9iK4Lz91aj30sOtG03tbvyat2PniPk2h46hyxoa7HWzoHtY7cnPLWJ/I+vmkf5G6Yzs0dOzZ6hct7HETaWfqwi8x1b5sp7cMWWi4YRfbPTnLz+3OzV+aN8r74sf1i881bB/n1rjq/0g+fmv1uFfuKzD/sPO4ydUDa4R6lK5pLB7qtr3SDquerldzEydWkB8Y98zy7r7c+nYDpAqBHPfax0gKmpMd7iorOh0jNNfWV9sl9qOSO5Uh9ts2h8G/7OrYOfX70qkW0ndK8i8z1aJtKj78WXw+1XjDmfCo7yc14PWfLzb0yzy7CvXWQX3Ob8qt2tbnlzyBEF4yDTB2rZwAirzfsGdjSJFw6Y3wWNu/Ap3KTwHvmUtrXW583JLbUI3+vnztb8+rxnmpE5kOk5j0WjJH6bJvat2tXJG1f1Y5DtJ3SvIvM9WibKnf8eZTGIjI+UZ/MTnIzVo/I+XJzr8yzx4u3DvJrrja/RKS8ol2jZ1E1Vxij++lzc2/UE3qlBWrkEraKfrUiUj6TrA2aSH3ekNhSj/2ZbpEx7vGeakTmQ6TmPRaMkfpsm9q3ekWqdNuG/VntOETbKc27yFyPtqns1Y4tRul7hfGT2UluxuqxPztDbu6VefbqobcO8mtuU35dCwWu0fsg1iZ9aV9vmzeZ3lhuP0/YllbbSwtGb321weftg1JIRfrPExJb6hF5n8zRGqPP771g9NYRqXmvBWN0btsF413mfZ2+fuszdG87S4HrnevRNtWmM/RMO70WjJ/OTnIzVo/I+XJzr8wbzOPeOsivuU35NUp8wZcG0dJKtsT7td9F3j8YbQd7v1YpdWxpwbjUoVfzeG3wLbWRvlZ0X1ufNyS21JMbz2jw9XhPNSLzIVLzHgvGSH22zcH8O7e4yD1eOw7RdkrzLjLXo20q7dcWei0Y98hOcjNWzxlzc6/Ms3POWwf5NefKL125pgVGfgNI2SCq+WpaO2ttkXmX946z9d8cr5HWaDtJ+yR30OWef5V2N28vtbEWNJH6IiFRW4+eNGgbtbcr9HhPJa3mg7fmLeFpj61c35aCxlufbTN9HR3f3Adlaf+ahXukndK8i871SJvpPtHjZOm1eiwY98pOctNfzxlzM9LelszLrTFqx5L8mu+zml/aEekW7RQtLl3s2ZtPvVdnHivPHWQ+8PfksdzPl6QDoZuezY2S74uHeb5tz/48N6D2OTYMltrYsq/I+3jp2NjxWntPnnps3+rY1hxnPd5TTov54K15bRxz7PscZQoZe7zZ1y99zeHpn9yCUeR9PG2gl2peCq2SFu1E57qnzVSuf2r1WDDunZ3k5vfmpre9mswTeb9qtnR8eOtQ5NekZX59jH7Q5WiHLf32T6szfACTLWfYv2Dp6uwRkJ04M/Knr6Pn16KbxO+fBNBP6QojXouw6NeFAPxYMPbzFfmV/gINgH1pYGPu9GELHBwLxn6+Jr/sDdoAPie9xyi91w2Trwlb4KBy9/a1+N+UQH4BaCS9aZr72wAAAAAAAAAAAFDhPzY2NjY2NjY2Njazvdm7GDY2NjY2NjY2tuNtAAAAAAAAAAAAAAAAAAAAAAAAAADgLNL/3ea2cy0AAAA4EF0oskgEAADAzF1ei8Vh70IAAABwPFxZBAAAwCK9XxEAAACYucprsXgXkVGmxeNTRC471gUAAICD0HsX7f2LLBoBAAAgItNVRbswHGS68ggAAIAf9pDylcTn388BAADww0pXGEVYMAIAAECmP6mT+/uLT3ktKAEAAPDDLpK/V1Ef528zAgAA4P+rjNfksVH4OhoAAAAJ/XuMuvFVNAAAAAAAAAAAAAAAANDXP4H9O8YCHhDOAAAAAElFTkSuQmCC)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13476016_1.png)
 
-Derivada de esta fórmula se obtiene la Tabla 5.2, en la que se considera la suma de umbral de las frecuencias antes citadas en el mejor y peor oído.
+Derivada de esta fórmula se obtiene la tabla 5.2, en la que se considera la suma de umbral de las frecuencias antes citadas en el mejor y peor oído.
 
 (*) Fórmula de la Asociación Americana de Habla, Lenguaje y Audición (ASHA).
 
@@ -1615,9 +1614,7 @@ Posteriormente se aplica los valores para la deficiencia auditiva binaural de la
 
 Se evaluará una deficiencia total de la persona por pérdida auditiva de al menos un 33% en los casos de personas que precisen implante coclear o implante de tronco cerebral por pérdida de audición.
 
-Tabla 5.2 Cálculo de la deficiencia auditiva binaurala
-
-Los ejes son la suma en dB de los niveles de audición a 500, 1.000, 2.000, y 4.000 Hz., en la audiometría tonal. La suma del oído peor se lee en el lateral y la suma del oído mejor se lee en el inferior. El valor es la intersección la fila del oído peor y la columna del oído mejor.
+Tabla 5.2 Cálculo de la deficiencia auditiva binaurala Los ejes son la suma en dB de los niveles de audición a 500, 1.000, 2.000, y 4.000 Hz., en la audiometría tonal. La suma del oído peor se lee en el lateral y la suma del oído mejor se lee en el inferior. El valor es la intersección la fila del oído peor y la columna del oído mejor.
 
 | <=100 | 0,0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1766,7 +1763,7 @@ Funcionamiento básico: Oyen cuando se les habla alto y sonidos de intensidad me
 
 Funcionamiento básico: Oyen solo la voz alta cerca del oído y los ruidos fuertes próximos. Se apoyan en la lectura labial. Necesitan prótesis auditivas o implantes auditivos, así como logopedia. Sin prótesis e intervención logopédica especializada, presentan importantes alteraciones y/o retrasos en el desarrollo del lenguaje.
 
-‒ Hipoacusia profunda: Pérdida media de decibelios comprendida entre 1 90 dB y 120 dB (96,5% a 100% de deficiencia binaural).
+‒ Hipoacusia profunda: Pérdida media de decibelios comprendida entre 90 dB y 120 dB (96,5% a 100% de deficiencia binaural).
 
 Funcionamiento básico; No perciben la palabra hablada, solo oyen algún ruido muy fuerte. Precisan lectura labial. Necesitan prótesis auditivas y logopedia. Sin prótesis e intervención especializada presentan importantes alteraciones y/o retrasos en el lenguaje, pudiendo llegar a ausencia de lenguaje oral y, en este caso, con voz distorsionada y poco inteligible.
 
@@ -1780,7 +1777,7 @@ Este capítulo se centra únicamente en las alteraciones del equilibrio debidas 
 
 5.3.3 Evaluación de la deficiencia del sistema vestibular.
 
-La evaluación de la deficiencia vestibular (tabla 5.4) refleja la gravedad de la deficiencia permanente y la capacidad del individuo para la realización de las AVD, teniendo en cuenta el número de crisis y la duración de las mismas, debiendo estar documentadas. Como referente de afectación se tendrá en cuenta la repercusión de la deficiencia por la alteración del equilibrio en la puntuación obtenida en el «Baremo de Limitaciones en las AVD» (BLA).
+La evaluación de la deficiencia vestibular (tabla 5.4) refleja la gravedad de la deficiencia permanente y la capacidad del individuo para la realización de las AVD, teniendo en cuenta el número de crisis y la duración de las mismas, debiendo estar documentadas. Como referente de afectación se tendrá en cuenta la repercusión de la deficiencia por la alteración del equilibrio en la puntuación obtenida en el "Baremo de Limitaciones en las AVD" (BLA).
 
 Tabla 5.4 Criterios para la puntuación de la deficiencia debida a trastornos vestibulares
 
@@ -1855,7 +1852,7 @@ Utilizando el método de puntuación del CDD, el evaluador modifica la puntuaci�
 
 6.2 Pasos para la evaluación.
 
-Tanto el cuestionario de discapacidad asociada al dolor como la escala modificada de impacto de la fatiga tendrán validez obtenidas en contexto clínico (consultas de reumatología, neurología...) y sus resultados serán tenidos en cuenta para categorizar el dolor y/o la fatiga una vez se cumplan los criterios de elección para la puntuación de los mismos:
+Tanto el cuestionario de discapacidad asociada al dolor como la escala modificada de impacto de la fatiga tendrán especial validez las obtenidas en contexto clínico (consultas de reumatología, neurología...) y sus resultados serán tenidos en cuenta para categorizar el dolor y/o la fatiga una vez se cumplan los criterios de elección para la puntuación de los mismos:
 
 1.º El dolor y/o la fatiga queda determinado por una base medica razonable, por ejemplo, puede explicarse por lo que se conoce de los síndromes médicos.
 
@@ -1863,15 +1860,15 @@ Tanto el cuestionario de discapacidad asociada al dolor como la escala modificad
 
 3.º El problema no se puede puntuar según los principios descritos en los demás capítulos.
 
-Asignar un porcentaje de presunción de Deficiencia Total de la Persona (DTP) tras consultar la tabla 6.1 de puntuación de deficiencia relacionada con el dolor (DRD). Tal y como se puede ver, mediante la categorización de las puntuaciones del CDD, descritas en el apartado anterior de dicha tabla. La puntuación expresa la «repercusión global y única» sobre el funcionamiento de la persona (que se verá reflejada así mismo en el BLA) y no podrá ser combinada salvo excepciones justificadas por el evaluador, con otras evaluaciones ni de este ni de otros capítulos que puedan estar relacionados con patologías que puedan cursar con dolor (somático o somatoforme).
+Asignar un porcentaje de presunción de Deficiencia Total de la Persona (DTP) tras consultar la tabla 6.1 de puntuación de deficiencia relacionada con el dolor (DRD). Tal y como se puede ver, mediante la categorización de las puntuaciones del CDD, descritas en el apartado anterior de dicha tabla. La puntuación expresa la "repercusión global y única" sobre el funcionamiento de la persona (que se verá reflejada así mismo en el BLA) y no podrá ser combinada salvo excepciones justificadas por el evaluador, con otras evaluaciones ni de este ni de otros capítulos que puedan estar relacionados con patologías que puedan cursar con dolor (somático o somatoforme).
 
 Elaborar un juicio clínico sobre la fiabilidad y la credibilidad de la información que facilite la persona y modificar la puntuación de presunción en consecuencia, dentro del rango permitido para la DRD. Normalmente, la modificación se establece a la baja en las personas con escasa credibilidad. Sin embargo, el evaluador tiene la opción de incrementar la puntuación inicial (dentro de los límites permitidos) si concluye que estas subestiman la carga de la enfermedad.
 
 6.3 Evaluación en casos de fatiga crónica como síntoma principal.
 
-En casos excepcionales podremos encontrarnos con el síntoma de «fatiga» identificado como el principal y/o único (Síndrome de Fatiga Crónica, Esclerosis Múltiple...), en estos casos, y cumpliendo los mismos criterios expuestos anteriormente para la elección de la puntuación de la Deficiencia Relacionada con el Dolor, pero aplicados a la fatiga, podremos utilizar la graduación de la Tabla 6.1. Se tomará como referencia de graduación del problema, la puntuación del cuestionario «Escala Modificada del Impacto de la Fatiga» que aparece en el Anexo 6B. En estos casos, y al igual que en la evaluación del dolor, la puntuación expresa la «repercusión global y única» sobre el funcionamiento de la persona (que se verá reflejada así mismo en el BLA) y no podrá ser combinada con otras evaluaciones ni de este ni de otros capítulos que puedan estar relacionados con patologías que puedan cursar con fatiga (somático o somatoforme). Se aplicarán los mismos criterios temporales que a la evaluación del dolor crónico.
+En casos excepcionales podremos encontrarnos con el síntoma de "fatiga" identificado como el principal y/o único (Síndrome de Fatiga Crónica, Esclerosis Múltiple...), en estos casos, y cumpliendo los mismos criterios expuestos anteriormente para la elección de la puntuación de la Deficiencia Relacionada con el Dolor, pero aplicados a la fatiga, podremos utilizar la graduación de la Tabla 6.1. Se tomará como referencia de graduación del problema, la puntuación del cuestionario "Escala Modificada del Impacto de la Fatiga" que aparece en el Anexo 6B. En estos casos, y al igual que en la evaluación del dolor, la puntuación expresa la "repercusión global y única" sobre el funcionamiento de la persona (que se verá reflejada así mismo en el BLA) y no podrá ser combinada con otras evaluaciones ni de este ni de otros capítulos que puedan estar relacionados con patologías que puedan cursar con fatiga (somático o somatoforme). Se aplicarán los mismos criterios temporales que a la evaluación del dolor crónico.
 
-Tabla 6.1 Puntuación de la Deficiencia Relacionada con el Dolor (DRD) y Deficiencia Total de la Persona (DTP) según el Cuestionario de Discapacidad asociado al Dolor (CDD)
+Tabla 6.1 Puntuación de la Deficiencia Relacionada con el Dolor (DRD), la Fatiga y Deficiencia Total de la Persona (DTP) según el Cuestionario de Discapacidad asociado al Dolor (CDD) y la puntuacuón MFIS
 
 | Intervalo de deficiencia relacionada con el dolor y la fatiga crónica | Puntuación cuestionario discapacidad asociada al dolor (CDD) | Deficiencia total de la persona | Puntuación MFIS |
 | --- | --- | --- | --- |
@@ -1885,7 +1882,7 @@ Anexo 6A. Cuestionario de Discapacidad asociada al Dolor (CDD) [Pain Disabilitie
 
 NOMBRE: FECHA:
 
-Por favor, lea lo siguiente: Este cuestionario le pregunta acerca de sus sensaciones sobre cómo le afecta el dolor que padece y cómo se desenvuelve para las actividades cotidianas. Esta información le ayudará, a usted y a su terapeuta, a conocer cómo se siente y en qué grado es capaz de realizar sus tareas cotidianas en el momento actual. Por favor, responda cada pregunta marcando con una «X» la posición sobre la línea que refleje el grado en que le afecta el dolor (desde la ausencia de problemas hasta la presencia de los problemas más graves que usted puede imaginar).
+Por favor, lea lo siguiente: Este cuestionario le pregunta acerca de sus sensaciones sobre cómo le afecta el dolor que padece y cómo se desenvuelve para las actividades cotidianas. Esta información le ayudará, a usted y a su terapeuta, a conocer cómo se siente y en qué grado es capaz de realizar sus tareas cotidianas en el momento actual. Por favor, responda cada pregunta marcando con una "X" la posición sobre la línea que refleje el grado en que le afecta el dolor (desde la ausencia de problemas hasta la presencia de los problemas más graves que usted puede imaginar).
 
 – Asegúrese de responder a todas las preguntas:
 
@@ -2002,7 +1999,7 @@ Cada 1,5 cm = 1 unidad de incremento.
 
 0____1____2____3____4____5____6____7____8____9____10
 
-Si la «X» se sitúa exactamente sobre la línea entre un número y el siguiente, entonces se puntúa como el número más bajo. Si la «X» se sitúa una «milimicra» por encima del siguiente incremento, entonces se puntúa al alza. Puntúe un valor para cada línea y sume el total de las quince líneas. Si la persona ha indicado dos «X» en la línea, utilice como puntuación la posición media entre los dos puntos. Por ejemplo, si una «X» está representada en el 2 y la otra, en el 6, ese ítem concreto se puntuaría como 4.
+Si la "X" se sitúa exactamente sobre la línea entre un número y el siguiente, entonces se puntúa como el número más bajo. Si la "X" se sitúa una "milimicra" por encima del siguiente incremento, entonces se puntúa al alza. Puntúe un valor para cada línea y sume el total de las quince líneas. Si la persona ha indicado dos "X" en la línea, utilice como puntuación la posición media entre los dos puntos. Por ejemplo, si una "X" está representada en el 2 y la otra, en el 6, ese ítem concreto se puntuaría como 4.
 
 El CDD se compone de dos factores: un componente de estado funcional y un componente psicosocial. Para distinguir estos dos componentes, se deben diferenciar las puntuaciones.
 
@@ -2064,7 +2061,7 @@ Capítulo 7
 
 En este capítulo se proporcionan criterios para la evaluación de la deficiencia producida por los trastornos del lenguaje y su repercusión en la comunicación.
 
-Se establecen las normas sobre cómo y en qué supuestos debe realizarse la evaluación de cada trastorno especifico, y se determinan los criterios para la asignación del grado de deficiencia para la comunicación y su correspondiente porcentaje.
+Se establecen las normas sobre cómo y en qué supuestos debe realizarse la evaluación de cada trastorno específico, y se determinan los criterios para la asignación del grado de deficiencia para la comunicación y su correspondiente porcentaje.
 
 En el caso de que coexistan limitaciones a varios niveles (lenguaje, habla y voz) deberá existir una única evaluación de deficiencia total de la persona para la comunicación ocasionada por el conjunto de deficiencias que presente un sujeto.
 
@@ -2072,7 +2069,7 @@ En el caso de que coexistan limitaciones a varios niveles (lenguaje, habla y voz
 
 1. Las dislalias y el retraso leve del habla no se considerarán causas de deficiencia permanente del lenguaje.
 
-2. En el caso de retraso moderado del habla o retraso moderado del lenguaje, la evaluación será provisional. En el caso del retraso moderado del lenguaje se confirmará el diagnóstico a los seis meses de la primera evaluación.
+2. En el caso de retraso moderado del habla o retraso moderado del lenguaje, la evaluación será provisional.
 
 3. En general, las secuelas permanentes de estos trastornos deberán ser evaluados a partir de los catorce años.
 
@@ -2100,7 +2097,7 @@ En general, el inicio tardío de la hipoacusia y la existencia de restos auditiv
 
 5. Entorno socio-familiar y comunicativo:
 
-Debido a la influencia de tantas variables, es imposible considerar de forma global e indiferenciada la evaluación de la deficiencia comunicativa asociada a hipoacusias, por lo que se hará individualizadamente. La deficiencia derivada del deficiente desarrollo lingüístico deberá combinarse la derivada de la hipoacusia.
+Debido a la influencia de tantas variables, es imposible considerar de forma global e indiferenciada la evaluación de la deficiencia comunicativa asociada a hipoacusias, por lo que se hará individualizadamente. La deficiencia derivada del deficiente desarrollo lingüístico deberá combinarse con la derivada de la hipoacusia.
 
 7.3.2 Secundario a hipoacusia congénita, prelocutiva y perilocutiva combinada con déficit visual congénito o adquirido (sordoceguera).
 
@@ -2112,9 +2109,9 @@ La gravedad del trastorno depende, además de los factores señalados en el apar
 
 3. Tipo de déficit visual: Dependiendo de que lo afectado sea la agudeza visual, el campo visual o ambos.
 
-En el caso de personas con deficiencia visual y deficiencia auditiva, que evolucionan desarrollando una sordoceguera a lo largo de su vida se valorarán aplicando la Tabla 7.3 Criterios de evaluación de la deficiencia para la comunicación en sorderas postlocutivas. Igualmente deberá combinarse con la deficiencia derivada de la hipoacusia y de la deficiencia visual. (Ver apartado 7.5.4.)
+En el caso de personas con deficiencia visual y deficiencia auditiva, que evolucionan desarrollando una sordoceguera a lo largo de su vida se valorarán aplicando la Tabla 7.3 criterios de evaluación de la deficiencia para la comunicación en sorderas postlocutivas. Igualmente deberá combinarse con la deficiencia derivada de la hipoacusia y de la deficiencia visual. (Ver apartado 7.5.4.)
 
-7.3.3 Secundario a Deficiencia intelectual.
+7.3.3 Secundario a capacidad intelectual límite o a discapacidad intelectual.
 
 Dado que en el capítulo de evaluación de la Deficiencia intelectual se ha tenido en cuenta el nivel de eficiencia lingüística para incluir a la persona en una u otra clase valorativa, no se deberá combinar los trastornos del desarrollo del lenguaje que se den en el marco de un retraso mental.
 
@@ -2122,13 +2119,13 @@ Dado que en el capítulo de evaluación de la Deficiencia intelectual se ha teni
 
 Se evaluará según los criterios del capítulo dedicado a la evaluación de los Trastornos mentales y del comportamiento, en las mismas condiciones del punto anterior.
 
-7.3.5 Secundario a alteración neurológica (encefalogatía): disartria del desarrollo.
+7.3.5 Secundario a alteración neurológica (encefalopatía): disartria del desarrollo.
 
-La evaluación de la deficiencia derivada de la disartria en la persona menor se efectuará aplicando la tabla.
+La evaluación de la deficiencia derivada de la disartria en la persona menor se efectuará aplicando la tabla 7.1.
 
 7.3.6 Secundario a alteración morfológica: disglosia.
 
-Para la evaluación en adultos, se aplicarán los criterios descritos en la Tabla 7.4 Criterios de evaluación de la deficiencia de la voz y del habla. En el caso de la personas menores se evaluará el trastorno según los criterios señalados en Tabla 7.1.
+Para la evaluación en adultos, se aplicarán los criterios descritos en la tabla 7.4 Criterios de evaluación de la deficiencia de la voz y del habla. En el caso de la personas menores se evaluará el trastorno según los criterios señalados en tabla 7.1.
 
 7.3.7 Trastorno del lenguaje escrito.
 
@@ -2138,53 +2135,53 @@ Los trastornos adquiridos del lenguaje escrito suelen acompañar a las afasias y
 
 7.4.1 Afasias.
 
-Para la evaluación en adultos, se aplicarán los criterios descritos en la Tabla 7.2 Criterios de evaluación de la deficiencia para la comunicación verbal secundarios a afasias. En el caso de los menores se evaluará el trastorno según los criterios señalados en Tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje, hasta los 10 años.
+Para la evaluación en adultos, se aplicarán los criterios descritos en la tabla 7.2 Criterios de evaluación de la deficiencia para la comunicación verbal secundarios a afasias. En el caso de los menores se evaluará el trastorno según los criterios señalados en tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje, hasta los 10 años.
 
 7.4.2 Afasia infantil.
 
-La evaluación se hará siguiendo los criterios de trastornos del desarrollo del lenguaje hasta la edad de 10 años, Tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje. Si el cuadro se inicia con posterioridad a esa edad, se aplicarán los criterios de afasia en el adulto Tabla 7.2.
+La evaluación se hará siguiendo los criterios de trastornos del desarrollo del lenguaje hasta la edad de 10 años, tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje. Si el cuadro se inicia con posterioridad a esa edad, se aplicarán los criterios de afasia en el adulto tabla 7.2.
 
 7.4.3 Sordera postlocutiva.
 
-Aunque el periodo sensible para el desarrollo del lenguaje se sitúa en torno a los cinco años, consideraremos que la sordera profunda postlocutiva aparecida antes de los catorce años se evaluará siguiendo los criterios Tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje. Por encima de esa edad se aplicará la Tabla 7.3 Criterios de evaluación de la deficiencia para la comunicación en sorderas postlocutivas.
+Aunque el periodo sensible para el desarrollo del lenguaje se sitúa en torno a los cinco años, consideraremos que la sordera profunda postlocutiva aparecida antes de los catorce años se evaluará siguiendo los criterios tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje. Por encima de esa edad se aplicará la tabla 7.3 Criterios de evaluación de la deficiencia para la comunicación en sorderas postlocutivas.
 
 7.4.4 Hipoacusias postlocutivas y déficit visual (sordoceguera).
 
-Las personas cuya sordera postlocutiva sea profunda, haya aparecido antes de los catorce años y esté asociada a una deficiencia visual, serán valoradas siguiendo los criterios de la Tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje.
+Las personas cuya sordera postlocutiva sea profunda, haya aparecido antes de los catorce años y esté asociada a una deficiencia visual, serán valoradas siguiendo los criterios de la tabla 7.1 Criterios de evaluación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje.
 
-Los casos de deficiencia visual y deficiencia auditiva, que evolucionan desarrollando una sordoceguera a lo largo de su vida se valorarán aplicando la Tabla 7.3 Criterios de evaluación de la deficiencia para la comunicación en sorderas postlocutivas. La deficiencia comunicativa deberá combinarse con la deficiencia derivada de la hipoacusia y de la deficiencia visual.
+Los casos de deficiencia visual y deficiencia auditiva, que evolucionan desarrollando una sordoceguera a lo largo de su vida se valorarán aplicando la tabla 7.3 Criterios de evaluación de la deficiencia para la comunicación en sorderas postlocutivas. La deficiencia comunicativa deberá combinarse con la deficiencia derivada de la hipoacusia y de la deficiencia visual.
 
 7.4.5 Trastornos del lenguaje asociados a síndromes psiquiátricos, neurológicos o neuropsicológicos.
 
-En estos casos la evaluación se hará según los criterios de los capítulos «Trastornos mentales y del comportamiento» y «Enfermedades del sistema nervioso central», en las mismas condiciones del punto 7.3.3.
+En estos casos la evaluación se hará según los criterios de los capítulos "Trastornos mentales y del comportamiento" y "Enfermedades del sistema nervioso central", en las mismas condiciones del punto 7.3.3.
 
 7.5 Normas para la evaluación de la deficiencia por trastornos que afectan al habla o la voz.
 
 7.5.1 Disfonías.
 
-La evaluación de la disfonía se hará siguiendo los criterios de la Tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
+La evaluación de la disfonía se hará siguiendo los criterios de la tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
 
-7.5.2 Trastornos de la fluidez: disfemia / tartamudez.
+7.5.2 Trastornos de la fluidez: disfemia/tartamudez.
 
-En el caso de tartamudez muy grave, se situará en la clase de gravedad 4 deficiencia (25- 35%) Tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
+En el caso de tartamudez muy grave, se situará en la clase de gravedad 4 deficiencia (25- 35 %) tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
 
 7.5.3 Disartrias del adulto.
 
-La evaluación se hará siguiendo los criterios de la Tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
+La evaluación se hará siguiendo los criterios de la tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
 
-7.5.4 Disqlosias del adulto.
+7.5.4 Disglosias del adulto.
 
-La evaluación de la deficiencia secundaria a disglosias se hará siguiendo los criterios que se exponen en la Tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
+La evaluación de la deficiencia secundaria a disglosias se hará siguiendo los criterios que se exponen en la tabla 7.4: Criterios de evaluación de la deficiencia de la voz y del habla.
 
 7.6. Criterios y tablas de evaluación.
 
 La evaluación se hará siempre de forma individualizada, ya que cada persona tiene una propia adaptación a su deficiencia, teniendo ésta diferente repercusión sobre la capacidad de comunicación.
 
-Tabla 7.1 Criterios para la puntuación de la deficiencia para la comunicación en los Trastornos del desarrollo del lenguaje
+Tabla 7.1 Criterios para la puntuación de la deficiencia para la comunicación en los trastornos del desarrollo del lenguaje
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 Nulo | Intervalo 1 Leve | Intervalo 2 Moderado | Intervalo 3 Grave | Intervalo 4 Muy grave |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0% | 1%-16% 1-8-16 | 17%-33% 17--25--33 | 34%-49% 34-42-49 | 50%-65%-65 |
+| Graduación de la gravedad DTP (%) | 0 % | 1 %-16 % 1-8-16 | 17 %-33 % 17--25--33 | 34 %-49 % 34-42-49 | 50 %-65 %-65 |
 | Capacidad de comprensión y expresión (CP). | Puede comprender y expresarse, resolviendo adecuadamente la demanda de la vida diaria. Puede tener ocasionalmente leve dificultad en la comprensión de expresiones complejas. Puede tener de forma ocasional limitación en la precisión de un vocablo o sintaxis. | Puede comprender y expresarse, resolviendo adecuadamente la demanda de la vida diaria. Puede tener leve dificultad en la comprensión de expresiones complejas. Puede tener limitación en la precisión de un vocablo o sintaxis. | Puede comprender y expresarse, resolviendo con poca ayuda la demanda de la vida diaria. Puede presentar errores fonológicos y/o fonéticos. Puede tener una reducción sintáctica y/o semántica. Dificultad para referirse a temas específicos. | Puede comprender y expresarse, resolviendo con ayuda y cierta limitación la demanda de la vida diaria. Presenta errores fonológicos y/o fonéticos importantes. La comprensión de las demandas de la vida diaria está limitada por la pérdida de información a causa de una visión disminuida, en el entorno comunicativo oral o gestual. Tiene una reducción sintáctica y/o semántica importante. Dificultad marcada para referirse a temas específicos. | Existe una completa limitación para comprender y expresarse en la vida normal, tanto a nivel oral como gestual. Existe una completa limitación para comprender en la vida normal si no se recurre al tacto tanto a nivel oral como gestual, aunque sea capaz de expresarse. |
 | Inteligibilidad. | Puede desarrollar la mayoría de los actos articulatorios necesarios para el habla cotidiana. Ocasionalmente puede presentar errores en la articulación. | Puede presentar discontinuidad, duda, lentitud. Puede tener dificultades para la articulación. El habla puede ser ininteligible para extraños en temas descontextualizados. | Puede comunicarse en el entorno lingüístico que le es afín, si el lenguaje es gestual, pero tiene dificultades relevantes para comunicarse en medios exclusivos de lenguaje oral. El habla puede ser ininteligible para extraños e incluso para personas cercanas en temas fuera de contexto. | Puede comunicarse mal, usar estereotipias o repeticiones ecolalicas y expresar ideas sin relación con el contexto. Si utiliza el gesto solo le sirve para referirse a aspectos concretos y en el entorno afín. El habla es ininteligible para extraños e incluso difícil de entender para personas cercanas en temas coloquiales. | Puede tratar de comunicarse con expresiones incompletas e ininteligibles y que obligan al oyente a inferir o a realizar preguntas para extraer el contenido comunicativo e incluso adivinar. |
 
@@ -2192,12 +2189,12 @@ Tabla 7.2 Criterios para la puntuación de la deficiencia debida a afasia o disf
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad (%) (DTP) | 0%-4% | 5%-12%-20% | 21%-28%-35% | 36%-43%- 50% | 51- 65%-75% |
+| Graduación de la gravedad (%) (DTP) | 0 %-4 % | 5 %-12 %-20 % | 21 %-28 %-35 % | 36 %-43 %- 50 % | 51 %- 65 %-75 % |
 | Descripción (CP). | Mínimos deterioros observables en el habla. Ocasionalmente manifiesta insignificantes alteraciones en la articulación, vocablos poco precisos, pequeñas, alteraciones de la sintaxis o leve dificultad de comprensión de expresiones complejas. Puede presentar dificultades subjetivas no evidentes para el oyente. EIAB 5*. | Hay alguna pérdida evidente en la fluidez del habla o facilidad de comprensión sin limitación significativa de las ideas expresadas o su forma de expresión. Tiene dificultades para encontrar la palabra adecuada, haciendo un discurso impreciso, presentando a veces una articulación lenta, torpe y distorsionada. A veces, las dificultades de comprensión se hacen patentes. Los problemas que se presentan pueden ser compensados con la ayuda del interlocutor y las diferentes estrategias utilizadas por la persona. EIAB 4*. | La persona puede referirse a todos los problemas de la vida diaria con muy pequeña ayuda o sin ella, sin embargo la reducción del habla y/o la comprensión hacen sumamente difícil o imposible la conversación sobre cierto tipo de temas. Toda conversación que se aleje de temas familiares o muy contextualizados será imposible de mantener. La comunicación está severamente alterada con interlocutores no familiarizados con su problemática EIAB 3*. | La persona puede, con la ayuda del examinador, mantener una conversación sobre temas familiares. Hay frecuente fracaso al intentar expresar una idea, pero comparte el peso de la comunicación con el examinador. Su lenguaje puede estar reducido a palabras aisladas mal emitidas, bien por problemas articulatorios o por la existencia de parafrasias que pueden dar lugar a una jerga. La comprensión en estos casos está muy limitada, reduciéndose a tareas de designación y comprensión de órdenes de un elemento. EIAB 2*. | La comunicación se efectúa totalmente a partir de expresiones incompletas; necesidad de inferencia, preguntas y adivinación por parte del oyente. El caudal de información que puede ser intercambiado es mínimo y el peso recae sobre el oyente. En ocasiones ausencia total de habla o producción de estereotipias verbales. En otros casos se da una jerga logorreica con nula comprensión auditiva. La persona es incapaz de realizar órdenes sencillas o designar partes del cuerpo, objetos o imágenes. EIAB 1 y 0*. |
-| Alteraciones en la escritura y comprensión lectora. | La escritura puede estar deformada, pero es legible. La organización del relato escrito se limita a varias ideas descriptivas conexas con frases identificables, aun con errores gramaticales y paragráficos. Muestra dificultades para la comprensión de oraciones o textos de relativa complejidad integrados por al menos dos frases compuestas menos complejas (yuxtapuestas y copulativas). | La escritura se limita a una o más frases en las que se observa una combinación de palabras formando un núcleo sintáctico, o consigue una lista extensa (cinco o más) de palabras de significado (sustantivo y verbos). Muestra dificultades para la comprensión en lectura de oraciones simples. | La grafía apenas es legible y la escritura se limita a palabras mal deletreadas, aisladas y sin estructuración en la frase, pero se identifican uno o más sustantivos o verbos. Muestra dificultades para la comprensión de lectura de palabras aisladas (asociación palabra-imagen). | Total limitación para comprender o expresar mensajes escritos. |  |
-| * EIAB: Escala de Intensidad de la Afasia de Boston: Uno de los referentes de graduación de la intensidad de la afasia es la Escala de Intensidad de la Afasia de Boston (EIAB) ampliamente utilizada en la clínica, (ver Anexo 7.2). |
+| Alteraciones en la escritura y comprensión lectora. | La escritura puede estar deformada, pero es legible. La organización del relato escrito se limita a varias ideas descriptivas conexas con frases identificables, aun con errores gramaticales y paragráficos. Muestra dificultades para la comprensión de oraciones o textos de relativa complejidad integrados por al menos dos frases compuestas menos complejas (yuxtapuestas y copulativas). | La escritura se limita a una o más frases en las que se observa una combinación de palabras formando un núcleo sintáctico, o consigue una lista extensa (cinco o más) de palabras de significado (sustantivo y verbos). Muestra dificultades para la comprensión en lectura de oraciones simples. | La grafía apenas es legible y la escritura se limita a palabras mal deletreadas, aisladas y sin estructuración en la frase, pero se identifican uno o más sustantivos o verbos. Muestra dificultades para la comprensión de lectura de palabras aisladas (asociación palabra-imagen). | Total limitación muy grave para comprender o expresar mensajes escritos. | Total limitación para comprender o expresar mensajes escritos. |
+| * EIAB: Escala de Intensidad de la Afasia de Boston: Uno de los referentes de graduación de la intensidad de la afasia es la Escala de Intensidad de la Afasia de Boston (EIAB) ampliamente utilizada en la clínica, (ver anexo 7.2). |
 
-En la Afasia muy grave y total (65%-75%):
+En la Afasia muy grave y total (65 %-75 %):
 
 ‒ La comunicación se efectúa totalmente a partir de expresiones incompletas; necesidad de inferencia, preguntas y adivinación por parte del oyente. El caudal de información que puede ser intercambiado es mínimo y el peso recae sobre el oyente.
 
@@ -2207,19 +2204,30 @@ Tabla 7.3 Criterios para la puntuación de la deficiencia para la comunicación 
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 Nulo | Intervalo 1 Leve | Intervalo 2 Moderado | Intervalo 3 Grave | Intervalo 4 Muy grave |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DCT (%) | 0% | 1%-4% 1-3-4 | 5%-14% 5-9-14 | 15%-24% 15-19-24 | 25%-35% 25-29-45 |
+| Graduación de la gravedad DTP (%) | 0 % | 1 %-4 % 1-3-4 | 5 %-14 % 5-9-14 | 15 %-24 % 15-19-24 | 25 %-35 % 25-29-35 |
 | Capacidad de comprensión y expresion (CP). | Es capaz de expresar y comunicarse con claridad y de comprender los mensajes en CASI TODAS las situaciones normales de comunicación de cada día con lenguaje oral. | La persona es capaz de expresar con claridad y comunicarse y de comprender los mensajes en LA MAYORIA de las situaciones normales de comunicación de cada día con el lenguaje oral. Aprovecha la ayuda protésica convencional y puede mantener una conversación con propios y extraños si se tiene en cuenta su situación. | La persona puede expresar con claridad y comunicarse y comprender los mensajes en MUCHAS de las situaciones normales de cada día con lenguaje oral o gestual. Complementa con lectura labial y otras estrategias de tal manera que es capaz de mantener con esfuerzo una conversación con propios y extraños sobre temas conocidos, siempre que el hablante tenga en cuenta su situación. | Puede expresar y comunicarse y comprender los mensajes en POCAS situaciones normales de comunicación de cada día con con lenguaje oral o gestual. Tiene limitaciones para comprender los mensajes en bastantes situaciones normales de comunicación de cada día, precisando adaptaciones del habla del interlocutor y de la iluminación y sonido del entorno aunque pueda expresarse con claridad oralmente. Si su lenguaje es gestual, puede comunicarse plenamente en el entorno lingüístico que le es afín, pero encuentra dificultades relevantes para comunicarse en medios exclusivos de lenguaje oral. | La persona solo es capaz de expresar con claridad o de comprender los mensajes en MUY POCAS O NINGUNA de las situaciones normales de comunicación de cada día, con lenguaje oral o gestual. Si su lenguaje es gestual, puede comunicarse con limitaciones en el entorno lingüístico que le es afín, pero encuentra dificultades graves para comunicarse en medios exclusivos de lenguaje oral. |
+| Inteligibilidad. | El habla puede presentar leves alteraciones en la articulación o en la prosodia, pero no llega a determinar limitaciones relevantes en la inteligibilidad. | El habla puede presentar alteraciones en la articulación y en la prosodia, pero no llega a determinar limitaciones relevantes en la inteligibilidad. | El habla presenta alteraciones en la articulación y en la prosodia que dificultan levemente la inteligibilidad. | El habla presenta alteraciones en la articulación y la prosodia que dificultan de forma moderada a grave la inteligibilidad en circunstancias desfavorables. | El habla presenta alteraciones en la articulación y la prosodia que dificultan de forma grave a total la inteligibilidad. |
 
 Tabla 7.4 Criterios para la puntuación la deficiencia de la voz y del habla.
 
-| Clase de gravedad de la deficiencia | Clase 0 Nulo | Clase 1 leve | Clase 2 moderado | Clase 3 grave | Clase 4 muy grave |
+| Clase de gravedad de la deficiencia | Intervalo 0 Nulo | Intervalo 1 Leve | Intervalo 2 Moderado | Intervalo 3 Grave | Intervalo 4 Muy grave |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DCT (%) | 0% | 1%-5% 1 3 5 | 6%-10% 6 7 8 9 10 | 11%-24% 11 14 17 20 24 | 25%-35% 25 27 30 33 35 |
+| Graduación de la gravedad DTP (%) | 0% | 1 %-5 % 1 3 5 | 6 %-10 % 6 7 8 9 10 | 11 %-24 % 11 14 17 20 24 | 25 %-35 % 25 27 30 33 35 |
 | Medidas de la capacidad de voz/habla. | Audibilidad: Puede producir voz con una intensidad suficiente para la mayoría de las necesidades del habla cotidianas, aunque ello requiera a veces un esfuerzo y ocasionalmente pueda superar a la capacidad del individuo. | Audibilidad: Puede producir voz con una intensidad suficiente para muchas de las necesidades del habla cotidianas, y en condiciones normales se le oye; sin embargo puede resultar difícil oírle en lugares ruidosos, como estaciones de tren o autobuses o restaurantes. | Audibilidad: Puede producir voz con una intensidad suficiente para algunas de las necesidades del habla cotidianas como una conversación a corta distancia; sin embargo, tiene una dificultad considerable en la distancia o en lugares ruidosos, como estaciones de tren o autobuses o restaurantes, ya que la voz se cansa fácilmente y se hace inaudible en pocos segundos. | Audibilidad: Puede producir habla con una intensidad suficiente para pocas de las necesidades del habla cotidianas, pero apenas puede ser oído por un oyente cercano o a través del teléfono y puede susurrar de forma audible pero no con voz más alta. | Audibilidad: No puede producir habla con una intensidad suficiente para las necesidades del habla cotidianas. |
 | Inteligibilidad: Puede desarrollar la mayoría de los actos articulatorios necesarios para el habla cotidiana, pero de vez en cuando se le puede pedir que repita y puede ser difícil o imposible producir algunas unidades fonéticas. | Inteligibilidad: Puede desarrollar muchos de los actos articulatorios necesarios para el habla cotidiana y ser entendido por alguien extraño, pero puede cometer numerosas incorrecciones y en ocasiones parece que tiene dificultades para la articulación. | Inteligibilidad: Puede desarrollar algunas de los actos articulatorios necesarios para el habla cotidiana y puede conversar generalmente con la familia y los amigos, puede ser entendido por extraños con dificultad y a menudo le pedirán que repita. | Inteligibilidad: Puede desarrollar pocos de los actos articulatorios necesarios para el habla cotidiana, puede producir algunas unidades fonéticas, y puede realizar aproximaciones para algunas palabras como los nombres de miembros de su familia, pero es ininteligible fuera de contexto. | Inteligibilidad: No puede realizar las articulaciones necesarias para el habla cotidiana. |
 | Eficiencia funcional: Puede alcanzar la mayoría de las demandas de articulación y fonación para el habla cotidiana con discurso fácil y adecuado, pero de vez en cuando puede titubear o hablar más lentamente. | Eficiencia funcional: Puede alcanzar muchas de las demandas de articulación y fonación para el habla cotidiana con discurso fácil y adecuado, pero de vez en cuando habla con dificultad y el habla puede ser discontinua, interrumpida, vacilante o lenta. | Eficiencia funcional: Puede alcanzar alguna de las demandas de articulación y fonación para el habla cotidiana con discurso fácil y adecuado, pero mantiene el discurso únicamente durante periodos breves y puede dar la impresión de que se fatiga fácilmente. | Eficiencia funcional: Puede alcanzar pocas de las demandas de articulación y fonación para el habla cotidiana con velocidad y facilidad adecuadas (como palabras sueltas o frases simples), pero no puede mantener un flujo de habla ininterrumpido; el habla es dificultosa y muy lenta. Voz erigmofónica y métodos alternativos de voz. | Eficiencia funcional: No puede alcanzar las demandas de articulación y fonación para las necesidades cotidianas con la velocidad y la facilidad adecuadas. (sería el caso de una laringuectomía total que no consigue emisión de monosílabos y no puede usar electrolaringe por empastamiento y edemas. |
 | Pruebas objetivas. | Ninguna requerida. Videoestroboscopia laríngea, medidas objetivas de la voz y el habla, y VHIa) deberían ser normales o prácticamente normales. | Videoestroboscopia laríngea, medidas objetivas de la voz y el habla, y VHI son ligeramente anormales. | Videoestroboscopia laríngea, medidas objetivas de la voz y el habla, y VHI son de ligera a moderadamente anormales. | Videoestroboscopia laríngea, medidas objetivas de la voz y el habla, y VHI son de moderada a gravemente anormales. | Videoestroboscopia laríngea, medidas objetivas de la voz y el habla, en VHI son de grave a muy gravemente anormales. |
 | a) VHI:Voice Handicap Index (índice de discapacidad vocal abreviado). |
+
+La metodología de ajuste de esta tabla, al tener tres grupos de hallazgos diferenciados en el criterio principal (CP) presenta un ajuste particular:
+
+Primero, se debe elegir de entre los tres grupos de hallazgos del CP (audibilidad, inteligibilidad y eficiencia funcional) el que se sitúa en la clase mayor, situándose en el valor central del intervalo.
+
+Segundo, ajustaríamos el valor con el criterio secundario de pruebas objetivas.
+
+Si las pruebas objetivas se encontrasen en un intervalo de grado de deficiencia superior, se aumentaría al valor superior de puntuación del intervalo marcado por el CP y finalizaría la evaluación.
+
+Pero en el caso de que las pruebas objetivas se encontrasen en un intervalo de grado de deficiencia inferior al del CP, en un primer tiempo, se bajaría la puntuación al valor menor de dicho intervalo, pero a continuación, tendríamos que volver a ajustar con los otros dos grupos de hallazgos del CP (audibilidad, inteligibilidad y eficiencia funcional) que no hallamos utilizado para obtener el CP. De tal forma que si uno, de los otros grupos de intervalos, fuera igual que el que nos ha llevado al CP se subiría nuevamente un valor, y si esto ocurriera en los tres grupos de hallazgos del CP (audibilidad, inteligibilidad y eficiencia funcional) la deficiencia se evaluará con el valor mayor dentro del intervalo.
 
 Capítulo 8
 
@@ -2231,7 +2239,7 @@ Capítulo 8
 
 2. Cuando esté indicado el tratamiento quirúrgico, la evaluación se realizará a partir de los seis meses del postoperatorio. Si el enfermo rechaza dicho tratamiento sin motivo justificado, no será evaluable.
 
-3. En el caso de enfermos sometidos a trasplante cardiaco, la evaluación se efectuará seis meses después del mismo, de acuerdo con la función residual. Durante esos seis meses se mantendrá la evaluación que previamente tuviera el enfermo. Se combinarán a ésta los efectos del tratamiento inmunosupresor, si los hubiere, siguiendo los criterios del capítulo correspondiente.
+3. En el caso de enfermos sometidos a trasplante cardiaco, la evaluación se efectuará seis meses después del mismo, de acuerdo con la función residual. Durante esos seis meses se mantendrá la evaluación que previamente tuviera el enfermo. Se combinarán a ésta los efectos del tratamiento inmunosupresor, si los hubiere, siguiendo los criterios del capítulo correspondiente. En los casos de trasplante exitoso con buena función residual, se aplicará como mínimo el criterio de “persona trasplantada”, en cuyo caso se incluirá la CCT y posibles complicaciones de la inmunosupresión.
 
 4. En determinadas patologías, por ejemplo, cardiopatía isquémica se tendrá en cuenta el riesgo de empeoramiento súbito de la situación clínica del enfermo a pesar del tratamiento adecuado de la enfermedad base. La mayor o menor frecuencia con que aparecen los episodios agudos condiciona el grado de limitación para realizar las actividades de la vida diaria, por lo que ha de incluirse como criterio de evaluación. Los episodios deberán estar documentados médicamente.
 
@@ -2243,7 +2251,7 @@ Capítulo 8
 
 Tabla 8.1 Clasificación funcional de la disnea de la NYHA
 
-| NYHA | Funcionamiento de la persona |
+| NYHA | Funcionamiento de la personas |
 | --- | --- |
 | Clase I. | Personas sin limitación de sus actividades; no refieren síntomas durante las actividades cotidianas. |
 | Clase II. | Personas con limitación ligera o moderada de su actividad; sin síntomas en reposo ni durante el esfuerzo moderado. |
@@ -2254,7 +2262,7 @@ Fuente: New York Heart Association. Heart Failure Society of America
 
 Tabla 8.2 Relación de los Mets y del grado funcional según cinco protocolos con tapiz rodante
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_Anexo_III_pag_183.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13472041_1.png)
 
 Adaptado de: Fox SM III, Naughton JP, Haskell WI, Physical activity and the prevention of coronary heart disease, Ann Clin Res, 1971; 3:404-432,
 
@@ -2266,7 +2274,7 @@ Tabla 8.3 Criterios para la puntuación de la deficiencia permanente secundaria 
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 2%-10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %-10 % 2 4 6 8 10 | 11 %-2 3% 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. | Asintomático y sin medicación. | Sin tratamiento persistente, a excepción de profilaxis antibiótica. No profilaxis. Clase I NYHA. | Cambios dietéticos moderados o fármacos para mantenerse sin clínica de IC, síncope, dolor torácico o embolia. Clase II NYHA | Insuficiencia cardíaca y/u otros síntomas moderados que precisan tratamiento o síntomas intermitentes de IC grave. Clase III NYHA. | Insuficiencia cardíaca y/u otros síntomas en reposo a pesar de tratamiento. Descompensaciones intermitentes de los síntomas de IC. Clase IV NYHA. |
 | Exploración física. | Sin alteraciones por auscultación. | Soplo de estenosis o murmullo de regurgitación. | Soplo de estenosis o murmullo de regurgitación. Signos de IC leve. | Soplo de estenosis o murmullo de regurgitación. Signosc de IC moderada. | Soplo de estenosis o murmullo de regurgitación. Signosc de IC grave. |
 | Resultados de las pruebas objetivas (CP). | Sin alteración de la función ventricular ni dilatación o Señales de regurgitación o prolapso leve de la válvula mitral con insuficiencia mínima en ecocardiograma (eco). | Sin alteración de la función ventricular ni dilatación o Leve estenosis o regurgitación en eco y como mínimo uno de los siguientes: MET > 7 y < 10; protocolo de Bruce ≥ 6 min; VO2 max > 20 y < 32 o Funcionamiento normal de válvula protésica. | Leve disfunción ventricular o dilatación de la cámara o Moderada estenosis o regurgitación en eco y como mínimo uno de los siguientes: MET < 7 y ≥ 5 protocolo de Bruce > 3 min; VO2 max > 16-20 tras cirugía valvular y reúne los criterios mencionados más arriba. BNP < 100e; AVA > 1,5; AVG < 25; MVA > 1,5; MVG < 5. | Moderada disfunción ventricular o dilatación de la cámara o Moderada o grave estenosis o regurgitación en eco y como mínimo uno de los siguientes: Imposibilidad de corrección quirúrgica. MET ≥ 2 pero < 5; protocolo de Bruce ≥ 1 min pero < 3 min tras cirugía valvular y reúne los criterios mencionados más arriba; VO2 max 10-15. BNP > 100 pero < 500e; AVA 1,0-1,5; AVG 25-50; MVA > 1,0-1,5; MVG = 5-10. | Grave disfunción ventricular o dilatación de la cámara o Moderada o grave estenosis o regurgitación en eco y como mínimo uno de los siguientes: El área valvular < 1 cm2 se considera severa tanto para la estenosis mitral como para la estenosis aórtica. Imposibilidad de corrección quirúrgica. MET < 2; protocolo de Bruce < 1 min; V02 max <10. BNP >500e; AVA < 1,0; AVG > 50; MVA < 1,0; MVG > 10. |
@@ -2280,14 +2288,14 @@ Criterios de la Canadian Cardiovascular Society (CCS):
 | --- |
 | Clase I. | La actividad física ordinaria, como caminar o subir escaleras, no causa angina. La angina aparece ante esfuerzos extenuantes, rápidos o prolongados en el trabajo o tiempo libre. |
 | Clase II. | Ligera limitación de la actividad física ordinaria. La angina aparece al caminar o subir escaleras rápido, subir cuestas o escaleras después de las comidas, o con frío o viento, o bajo estrés emocional o sólo en las horas siguientes a levantarse por la mañana. Puede caminar más de 2 manzanas y subir un piso de escaleras a un ritmo y condiciones normales. |
-| Clase III. | Marcada limitación de la actividad física ordinaria. La angina aparece al caminar 1 ó 2 manzanas y al subir un piso de escaleras a un ritmo y condiciones normales. |
-| Clase IV. | Incapacidad para realizar ninguna actividad sin angina. Ésta puede aparecer en reposo. |
+| Clase III. | Marcada limitación de la actividad física ordinaria. La angina aparece al caminar 1 o 2 manzanas y al subir un piso de escaleras a un ritmo y condiciones normales. |
+| Clase IV. | Incapacidad para realizar ninguna actividad sin angina. Esta puede aparecer en reposo. |
 
 Tabla 8.4 Criterios para la puntuación de la deficiencia secundaria a cardiopatía coronaria
 
 | Graduación de la gravedad DTP (%) | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| 0 | 2%10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
+| 0 | 2 %10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. | Asintomático. No precisa medicación. | Historia dudosa de dolor torácico. Puede precisar algún tipo de medicación. Clase I de la CCS. Exploración física normal. | Antecedente de IM o angina de esfuerzo. Precisa medicación para control de síntomas. Clase II de la CCS (Canadian Cardiovascular Society). Presenta sintomatología con esfuerzo máximo. | Antecedente de IM, angina de esfuerzo o Limitación moderada en las AVD para prevenir la angina frecuente y/o la IC. Clase III de la CCS. Síntomas de insuficiencia coronaria con esfuerzo moderado. | Antecedente de IM, puede producirse angina de reposo. Limitación grave en las AVD y tratamiento para mantenerse asintomático en reposo. Clase IV de la CCS. Síntomas de insuficiencia coronaria con esfuerzo mínimo. |
 | Exploración física. | Exploración física normal. | Exploración física normal. | Presenta sintomatología con esfuerzo máximo. | Síntomas de insuficiencia coronaria con esfuerzo moderado. | Síntomas de insuficiencia coronaria con esfuerzo mínimo. |
 | Resultados de las pruebas objetivas (CP). | Angiografía coronaria normal o Ecocardiografía normal o Gammagrafí a miocárdica de perfusióno eco de esfuerzo dudosa o de bajo riesgo (defecto leve reversible o defecto fijo con FE normal) o TCHE entre 0 y 100. | Angiografía coronaria con irregularidades de la luz (< 50% de estenosis) o Ecocardiografía normal y como mínimo uno de los siguientes: Gammagrafía miocárdica de perfusión o eco de esfuerzo de bajo riesgo (defecto leve reversible o defecto fijo con FE normal). En caso de resultado no concluyente deberá valorarse la necesidad de confirmación anatómica mediante TAC coronario o coronariografía. TCHE >100. MET ≥ 17 y <10; protocolo de Bruce ≥ 16 min. | FC no alcanza el 90% de la máxima teórica, sin cambios del segmento ST, o taquicardia ventricular o alteración de la tensión arterial o Angiografía coronaria que muestra ≥ 50% y < 70% de obstrucción fija y como mínimo uno de los siguientes: MET < 7 y ≥ 5 protocolo de Bruce > 3 min; Gammagrafía miocárdica de perfusión o eco de esfuerzo sin alteraciones o con defectos leves irreversibles (<25%) y Ha sido sometido a CRC o ICP y requiere tratamiento continuado o Persona trasplantada. | Prueba de esfuerzo que muestra cambios en el segmento ST de 1-2 mm o Angiografía coronaria que muestra ≥70% de obstrucción fija y como mínimo uno de los siguientes: MET ≥ 2 pero < 5; protocolo de Bruce ≥ 1 min pero < 3; Gammagrafía miocárdica de perfusión o eco de esfuerzo con alteraciones moderadas (25%-50%) irreversibles y Ha sido sometido a CRC o ICP y requiere tratamiento continuado. | Prueba de esfuerzo que muestra cambios en el segmento ST > 2 mm o Angiografía coronaria que muestra ≥ 70% de obstrucción fija y como mínimo uno de los siguientes: MET < 2; protocolo de Bruce < 1 min; Gammagrafía miocárdica de perfusión o eco de esfuerzo con alteraciones graves (> 50%) irreversibles y Ha sido sometido a CRC o ICP con resultado subóptimo y requiere tratamiento farmacológico continuado. |
@@ -2303,10 +2311,10 @@ Tabla 8.5 Criterios para la puntuación de la deficiencia permanente secundaria 
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | O | 2%-10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %-10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. | Asintomático. | Síntomas al realizar ejercicio físico moderado. Precisa tratamiento continuado. | Presenta limitación ligera de su actividad. Sin síntomas en reposo pero si con el ejercicio físico moderado. Precisa tratamiento continuado. | Presenta limitación moderada al realizar las actividades de la vida diaria; sin síntomas en reposo ni durante el esfuerzo leve. Precisa tratamiento continuado. | Experimenta síntomas al realizar las actividades de la vida diaria, debiendo permanecer en reposo la mayor parte del tiempo. Los síntomas pueden incluso aparecer en reposo. Precisa tratamiento dietético y medicamentoso continuado, pese a lo cual está sintomático de continuo. |
 | Exploración física. |  | Clase I NYHA modificada. | Clase II NYHA modificada. | Clase III NYHA modificada. | Clase IV NYHA modificada. |
-| Resultados de las pruebas objetivas (CP). FE en los casos en los que el VD es el sistémico). |  | Existe dilatación de las cámaras cardiacas sin datos de cortocircuito derecha-izquierda; o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs < 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada hasta un máximo de la mitad de la sistémica o. La afectación valvular es leve a moderada. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. | Existen datos de cortocircuito derecha-izquierda o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs > 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada por encima de la mitad de la sistémica o Leve disfunción ventricular o dilatación de la cámara o La afectación valvular (estenosis o regurgitación) es moderada. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. Persona trasplantada. | Existen datos de cortocircuito derecha-izquierda o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs > 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada por encima de la mitad de la sistémica o Moderada disfunción ventricular o dilatación de la cámara o La afectación valvular (estenosis o regurgitación) es moderada o grave. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. | Existen datos de cortocircuito derecha-izquierda o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs > 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada por encima de la mitad de la sistémica o grave disfunción ventricular o dilatación de la cámara o La afectación valvular (estenosis o regurgitación) es grave. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. |
+| Resultados de las pruebas objetivas (CP). FE en los casos en los que el VD es el sistémico). |  | Existe dilatación de las cámaras cardiacas sin datos de cortocircuito derecha-izquierda; o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs < 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada hasta un máximo de la mitad de la sistémica o. La afectación valvular es leve a moderada. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. | Existen datos de cortocircuito derecha-izquierda o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs > 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada por encima de la mitad de la sistémica y Leve disfunción ventricular o dilatación de la cámara o La afectación valvular (estenosis o regurgitación) es moderada. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. Persona trasplantada. | Existen datos de cortocircuito derecha-izquierda o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs > 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada por encima de la mitad de la sistémica y Moderada disfunción ventricular o dilatación de la cámara o La afectación valvular (estenosis o regurgitación) es moderada o grave. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. | Existen datos de cortocircuito derecha-izquierda o Hay evidencia de cortocircuito izquierda-derecha con Qp/Qs > 2:1 y como mínimo uno de los siguientes: La resistencia vascular pulmonar está elevada por encima de la mitad de la sistémica y grave disfunción ventricular o dilatación de la cámara o La afectación valvular (estenosis o regurgitación) es grave. Se incluirá en esta clase de gravedad a la persona que haya sido sometida a cirugía y cumpla los criterios anteriores. |
 
 8.2.4 Miocardiopatías.
 
@@ -2314,11 +2322,11 @@ Tabla 8.6 Criterios para la puntuación de la deficiencia permanente secundaria 
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 Nulo | Intervalo 1 Leve | Intervalo 2 Moderado | Intervalo 3 Grave | Intervalo 4 Muy grave |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 2%10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. | Asintomático. No precisa medicación. | Asintomático bajo tratamiento continuado o puntual, síntomas leves de IC bajo tratamiento. Clase I NYHA. | Síntomas leves de IC en tratamiento o síntomas moderados intermitentes de IC bajo tratamiento. Clase II NYHA. | Síntomas moderados de IC en tratamiento o síntomas graves intermitentes de IC bajo tratamiento. Clase III NYHA. | Síntomas graves de IC en reposo o descompensación es intermitentes de IC bajo tratamiento. Clase IV NYHA. |
 | Exploración física. | Exploración física normal. | Signos mínimos de IC. | Signos leves de IC. | Signos moderados de IC. | Signos graves de IC. |
 | Resultados de las pruebas objetivas (CP). | Ecocardiograma normal. Concentración de PNB normal. | Mínima deficiencia de la función del VI, mínima hipertrofia septal (<1,1 cm) o evidencia de enfermedad restrictiva mínima en ecocardiografía (eco) presente bajo tratamiento y como mínimo uno de los siguientes: Concentración de BNP normal. V02máx. > 20. MET > 7 y < 10. | Leve deficiencia de la función del VI (FE 41-50%) o ligera hipertrofia septal (1,1-1,2 cm), evidencia de restricción o alteración diastólica leve (E>A)* en eco presente bajo tratamiento y como mínimo uno de los siguientes: BNP < 100. VO2max 16-20. MET > 5 y < 7 o Persona trasplantada*. | Moderada deficiencia de la función del VI (FE 30-40%) o moderada hipertrofia septal (1,3-1,4 cm) con gradiente moderado o evidencia de restricción o alteración diastólica moderada (E=A)* en eco presente bajo tratamiento y como mínimo uno de los siguientes: BNP 100 - 500. VO2max. 11-15 MET > 2 y < 5. Arritmias ventriculares malignas (tras la implantación de un DAI o un marcapasos biventricular) y algún criterio anterior. | Grave deficiencia de la función del VI. (FE < 30%) o gradiente grave a través de hipertrofia septal (> 1,4 cm), evidencia de restricción o alteración diastólica grave (E < A)* en eco presente bajo tratamiento y como mínimo uno de los siguientes: BNP > 500. VO2max <10. MET < 2. Arritmias ventriculares malignas (tras la implantación de un DAI o un marcapasos biventricular) y algún criterio anterior. |
-| ‒ IC: insuficiencia cardíaca; BNP: péptido natriurético tipo B (en pg/ml); VI: ventrículo izquierdo; FE: fracción de eyección, VO2max: consumo de oxígeno máximo (en ml/min/kg), DAI: desfibrilador automático implantable. ‒ Si los tres factores pertenecen al Clase 4, la puntuación de la deficiencia es 65%. ‒ Signos de IC por ejemplo, estertores, ingurgitación venosa yugular, S3 o edema periférico ‒ E y A son las formas de las ondas detectadas en la ecocardiografía. Cuando la afectación es muy severa, que es cuando tiene relevancia clínica, la relación E/A es mayor de 2, situación denominada «patrón restrictivo» por ser típico de las miocardiopatías restrictivas. ‒ Los valores de BNP deben ajustarse en su caso a los de proBNP según punto 17 de 8.1 Normas generales. * La puntuación de la deficiencia en las personas trasplantadas incluirá la CCT y las posibles complicaciones por la inmunosupresión. |
+| ‒ IC: insuficiencia cardíaca; BNP: péptido natriurético tipo B (en pg/ml); VI: ventrículo izquierdo; FE: fracción de eyección, VO2max: consumo de oxígeno máximo (en ml/min/kg), DAI: desfibrilador automático implantable. ‒ Si los tres factores pertenecen al Clase 4, la puntuación de la deficiencia es 65%. ‒ Signos de IC por ejemplo, estertores, ingurgitación venosa yugular, S3 o edema periférico ‒ E y A son las formas de las ondas detectadas en la ecocardiografía. Cuando la afectación es muy severa, que es cuando tiene relevancia clínica, la relación E/A es mayor de 2, situación denominada "patrón restrictivo" por ser típico de las miocardiopatías restrictivas. ‒ Los valores de BNP deben ajustarse en su caso a los de proBNP según punto 17 de 8.1 Normas generales. * La puntuación de la deficiencia en las personas trasplantadas incluirá la CCT y las posibles complicaciones por la inmunosupresión. |
 
 8.2.5 Cardiopatías mixtas.
 
@@ -2330,7 +2338,7 @@ Tabla 8.7 Criterios para la puntuación de la deficiencia permanente secundaria 
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (lo) | 0 | 2%-10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %-10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. | Asintomático. No precisa medicación. | Asintomático para la actividad cotidiana bajo tratamiento con AINE o diurético o síntomas leves de dolor torácico o IC intermitentes sin tratamiento. Clase I NYHA. | Síntomas de dolor torácico o IC en tratamiento crónico con AINE o diurético. Síntomas con actividad moderada. Clase II NYHA. | Dolor torácico o síntomas de IC con la actividad leve. Tratamiento de larga evolución con AINE o tratamiento para la IC. Clase III NYHA. | Dolor torácico o síntomas de IC en reposo a pesar de tratamiento con AINE. Clase IV NYHA. |
 | Exploración física. | Exploración física normal. | Signos mínimos de IC. | Signos leves de IC. | Signos moderados de IC. Presencia de roce pericárdico. | Signos graves de IC. Presencia de roce pericárdico. |
 | Resultados de las pruebas objetivas (CP). | Ecocardiografía y ECG normal. VSG normal. | Uno o más de los siguientes: Pequeño derrame pericárdico, evidencia de pericarditis en el ECG, mínima elevación VSG (< 30) y como mínimo uno de los siguientes: Concentración de BNP normal. VO2máx. > 20. MET > 7 y < 10 o situación tras pericardiectomía o ventana pericárdica quirúrgica. | Uno o más de los siguientes: Leve derrame pericárdico o evidencia de pericarditis constrictiva en ecocardiografía, evidencia de pericarditis en el ECG, leve elevación VSG (30-50) y como mínimo uno de los siguientes: BNP < 100. VO2max. 16-20. MET > 5 y < 7 o situación tras pericardiectomía o ventana pericárdica quirúrgica o Persona transplantada*. | Uno o más de los siguientes: Moderado derrame pericárdico o evidencia de pericarditis constrictiva en ecocardiografía, evidencia de pericarditis en el ECG, moderada elevación VSG (51-70) y como mínimo uno de los siguientes: BNP 100-500. VO2max. 11-15. MET > 2 pero < 5 y fracaso de intento quirúrgico o ausencia de respuesta a la cirugía y criterios anteriores. | Uno o más de los siguientes: Derrame pericárdico grave, evidencia de taponamiento o de pericarditis constrictiva con alteración grave del VI en ecocardiografía, evidencia de pericarditis en el ECG, elevación notable de la VSG (> 71) y como mínimo uno de los siguientes: BNP 100-500. VO2max. < 10. MET < 2 y fracaso de intento quirúrgico o ausencia de respuesta a la cirugía y criterios anteriores. |
@@ -2342,7 +2350,7 @@ Tabla 8.8 Criterios para la puntuación de la deficiencia permanente secundaria 
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 2%-10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %-10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. | Asintomático. No precisa medicación. | Asintomático o palpitaciones ocasionales o episodios sincopales aislados. Puede precisar algún tipo de medicación. Clase I NYHA. | Asintomático o síntomas leves intermitentes para las actividades diarias, palpitaciones o síncopes aislados. Precisa tratamiento farmacológico para el control de los síntomas o marcapasos o DAI. Clase II NYHA | Síntomas moderados a pesar del tratamiento farmacológico o marcapasos con actividad leve o bien síntomas graves intermitentes Clase III NYHA | Síntomas moderados a graves en reposo a pesar del tratamiento, especialmente síncopes recurrentes Clase IV NYHA |
 | Exploración física. | Exploración física normal. | Exploración física normal o extrasístoles ocasionales durante la auscultación. | Auscultación arrítmica a menos que se trate de una persona portador de marcapasos. | Auscultación arrítmica a menos que se trate de una persona portador de marcapasos. | Auscultación arrítmica a menos que se trate de una persona portador de marcapasos. |
 | Resultados de las pruebas objetivas (CP). | Ecocardiografía normal o ECG normal ESV o EV ocasionales. | Ecocardiografía normal o arritmia documentada por ECG pero sin que se evidencien ≥ 3 latidos ectópicos consecutivos o pausas > 2s ni el ECG ni en el Holter y Frecuencia auricular y ventricular entre 50-100 latidos por minuto. Tras ablación o marcapasos que reúnan los criterios establecidos más arriba. | Ecocardiografía anómala con pequeñas CIA o CIV, deficiencia leve de la función del VI o del VD, alteración de la función diastólica, leve agrandamiento cameral o estenosis o insuficiencia valvular leve y Documentación por ECG o Holter de arritmia maligna. Tras ablación, marcapasos, o DAI que reúnan los criterios establecidos más arriba o Persona transplanted. | Ecocardiografía anómala con moderadas CIA o CIV, deficiencia moderada de la función del VI o del VD, alteración de la función diastólica, moderado agrandamiento cameral o estenosis o insuficiencia valvular moderada y Documentación por ECG o Holter de arritmia maligna. Tras ablación, marcapasos, o DAI que reúnan los criterios establecidos más arriba. | Ecocardiografía anómala con grandes CIA o CIV, deficiencia grave de la función del VI o del VD, alteración de la función diastólica, grave agrandamiento cameral o estenosis o insuficiencia valvular grave y Documentación por ECG o Holter de arritmia maligna. Tras ablación, marcapasos, o DAI que reúnan los criterios establecidos más arriba. |
@@ -2358,13 +2366,14 @@ Tabla 8.9 Clasificación funcional de la NYHA adaptada a la Hipertensión arteri
 | Clase II. | Pacientes con hipertensión pulmonar con ligera limitación de la actividad física, sin síntomas en reposo. La actividad física común origina disnea, fatiga, dolor precordial o presíncope |
 | Clase III. | Pacientes con hipertensión pulmonar con marcada limitación de la actividad física, sin síntomas en reposo. La actividad física ligera origina síntomas. |
 | Clase IV. | Pacientes con hipertensión pulmonar que presentan síntomas con cualquier actividad física. Estos pacientes manifiestan síntomas de fallo derecho, y en reposo pueden presentar disnea y/o fatiga. La sintomatología se incrementa con cualquier actividad física y pueden presentar presíncope o síncope. |
-| Fuente: OMS documento de consenso Evian 1998. |
+
+Fuente: OMS documento de consenso Evian 1998.
 
 Tabla 8.10 Criterios para la puntuación de la deficiencia permanente secundaria a enfermedades de la arteria pulmonar
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 2%-10% 2 4 6 810 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %-10 % 2 4 6 810 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. | Asintomático. | Disnea leve intermitente que no precisa tratamiento. Clasificación funcional HAP en Clase I. | Disnea leve y/u otros síntomas de insuficiencia cardíaca derecha en tratamiento o disnea moderada intermitente. Clasificación funcional HAP en Clase II. | Disnea moderada u otros síntomas de insuficiencia cardíaca derecha en tratamiento o disnea grave intermitente. Clasificación funcional HAP en Clase IIIa y IIIb*. | Disnea grave u otros síntomas de insuficiencia cardíaca derecha en reposo o síntomas intermitentes extremos. Clasificación funcional HAP en Clase IIIb* y IV. |
 | Exploración física. | Exploración física normal ausencia de signos de insuficiencia cardíaca derecha. | Signos mínimos de insuficiencia cardíaca derecha. | Signos leves de insuficiencia cardíaca derecha (edema periférico). | Signos moderados de insuficiencia cardíaca derecha (edema periférico, ascitis). | Signos graves de insuficiencia cardíaca derecha (edema grave, ascitis, edema pulmonar). |
 | Resultados de las pruebas objetivas (CP). | PAP normal por ecocardiografía Doppler. | Hipertensión pulmonar leve (PAP 40-50) y como mínimo uno de los siguientes: Concentración de PNB normal. VO2max >20 MET > 7 y < 10. | Hipertensión pulmonar moderada (PAP 51-75) y como mínimo uno de los siguientes: BPN < 100. VO2max 16-20. MET > 5 y < 7. | Hipertensión pulmonar grave (PAP >75) y aumento moderado del VD por eco (3-4 cm) y como mínimo uno de los siguientes: BPN 100-500. VO2max 10-15. MET > 2 pero < 5. | Hipertensión pulmonar grave (PAP > 75) y aumento grave del VD por eco > 4cm y como mínimo uno de los siguientes: BPN > 500. VO2max < 10. MET < 2. |
@@ -2378,7 +2387,7 @@ Tabla 8.12 Clasificación de la tensión arterial para adultos
 
 | Clasificación | Sistólica | Diastólica |
 | --- | --- | --- |
-| Normal. | < 120 | < 80% |
+| Normal. | < 120 | < 80 % |
 | Pre-hipertensión. | 120-139 | 80-89 |
 | Grado 1 de hipertensión. | 140-159 | 90-99 |
 | Grado 2 de hipertensión. | > 160 | > 100 |
@@ -2387,11 +2396,11 @@ Tabla 8.13 Criterios para la puntuación de la deficiencia permanente secundaria
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 2%-10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %-10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 |
 | Anamnesis. | Asintomático Clase I NYHA. | Asintomático con tratamiento. Clase I NYHA. | Dolor torácico u otros síntomas. Clase II NYHA. | Síntomas de IC u otros síntomas. Clase III y IV NYHA. |
 | Exploración física. | TA normal tratada con un único fármaco o prehipertensión sin tratamiento. Exploración física normal, fondo de ojo incluido. | Pre-hipertensión o fase 1 con tratamiento farmacológico múltiple. Posibles cambios hipertensivos en el fondo de ojoc. | Grado 1 de hipertensión a pesar de tratamiento farmacológico múltiple. Cambios permanentes hipertensivos en el fondo de ojo. | Grado 2 de hipertensión a pesar de tratamiento farmacológico múltiple. Cambios permanentes hipertensivos en el fondo de ojo. |
 | Resultados de las pruebas objetivas (CP). | Pruebas de laboratorio normales, sin evidencia de lesión de órganos diana. Ecocardiograma y ECG normales. | Nitrógeno ureico en sangre/creatinina normal. Proteinuria(albuminuria) o alteraciones del sedimento urinario y Ecocardiografía normal o en el límite para el diagnóstico de HVI. | Proteinuria (albuminuria) o alteraciones del sedimento urinario. Nitrógeno ureico y creatinina en suero aumentados y Aclaramiento de creatina < 50% sobre el valor normal o Evidencia ecocardiográfica de HVI. | Proteinuria (albuminuria) o alteraciones del sedimento urinario. Nitrógeno ureico y creatinina en suero aumentados y Aclaramiento de creatina < 20% del valor normal o Encefalopatía hipertensiva episódica o Lesión cerebrovascular hipertensiva / ACVA * o Evidencia ecocardiográfica de HVI con alteración de la función diastólica y/o signos de ICe. |
-| ‒ IC: Insuficiencia cardiaca, TA: tensión arterial, TA: tensión arterial, BUN: nitrógeno ureico en suero, HVI: Hipertrofia ventricular izquierda. ‒ Diferenciar clase O y 1, según hallazgos de la exploración física. ‒ Cambios hipertensivos en el fondo de ojo: Arteriolas en hilo de cobre o cruces arteriovenosos patológicos (signo de Gunn) con o sin hemorragias o exudados. * En aquellos casos que se objetive lesión cerebrovascular/ACVA asociada a otro tipo de factores de riesgo, como la diabetes, síndrome metabólico, trastornos de la coagulación, vasculares (aneurismas)... resueltos con escasas secuelas o siendo estas de difícil cuantificación en otros apartados, y siempre en cuando los factores de riesgo originarios sigan manteniéndose en el tiempo, podrán clasificarse excepcionalmente de forma global en esta clase, no pudiéndose combinar, en estos casos, con puntuaciones provenientes de los otros apartados asociados a estos factores de riesgo. |
+| ‒ IC: Insuficiencia cardiaca, TA: tensión arterial, TA: tensión arterial, BUN: nitrógeno ureico en suero, HVI: Hipertrofia ventricular izquierda. ‒ Diferenciar clase 0 y 1, según hallazgos de la exploración física. ‒ Cambios hipertensivos en el fondo de ojo: Arteriolas en hilo de cobre o cruces arteriovenosos patológicos (signo de Gunn) con o sin hemorragias o exudados. * En aquellos casos que se objetive lesión cerebrovascular/ACVA asociada a otro tipo de factores de riesgo, como la diabetes, síndrome metabólico, trastornos de la coagulación, vasculares (aneurismas)... resueltos con escasas secuelas o siendo estas de difícil cuantificación en otros apartados, y siempre en cuando los factores de riesgo originarios sigan manteniéndose en el tiempo, podrán clasificarse excepcionalmente de forma global en esta clase, no pudiéndose combinar, en estos casos, con puntuaciones provenientes de los otros apartados asociados a estos factores de riesgo. |
 
 8.2.10 Sistema vascular periférico.
 
@@ -2403,11 +2412,9 @@ Normas de carácter general para la evaluación de la deficiencia originada por 
 
 3. Las enfermedades de las arterias periféricas se manifiestan con isquemia, cuya intensidad puede llevar a la indicación de amputación. Las enfermedades de las venas y los linfáticos se manifiestan con estasis retrógrada, que puede llegar a causar dermatitis o úlceras de estasis.
 
-4. Las amputaciones que deriven de patología vascular se evaluarán según los criterios del capítulo referido al «Sistema Musculoesquelético». Si después de la intervención persiste el problema vascular, el porcentaje de deficiencia derivado de éste se combinará con el correspondiente a la amputación.
+4. Las amputaciones que deriven de patología vascular se evaluarán según los criterios del capítulo referido al "Sistema Musculoesquelético". Si después de la intervención persiste el problema vascular, el porcentaje de deficiencia derivado de éste se combinará con el correspondiente a la amputación.
 
 5. En el supuesto de que la enfermedad vascular periférica produzca alteraciones cutáneas, el porcentaje de deficiencia originado por la deficiencia vascular no se combinará con el atribuible a la manifestación dermatológica.
-
-6. El porcentaje asignado por las tablas correspondientes se refiere a deficiencia parcial (DP) de extremidad superior (ES) o inferior (El), por lo que el porcentaje obtenido en cada extremidad deberá ser convertido a deficiencia corporal total de la persona (DCT) mediante las tablas 15.9 y 16.9.
 
 Tabla 8.14 Estadios Clínicos de Fontaine
 
@@ -2425,36 +2432,35 @@ Tabla 8.15 Estadios clínicos de la insuficiencia venosa crónica o de éxtasis
 | Estadio | Síntomas |
 | --- | --- |
 | I | Edema, congestión subfascial, flebectasia, varículas. |
-| II | Trastornos tráficos, dermatitis ocre, induración, hiperpigmentación, atrofia blanca perimaleolar, dermatofibroesclerosis, engrosamiento de piel, eccema de éxtasis con prurito, tromboflebitis, pequeñas erosiones o hemorragias. |
+| II | Trastornos tróficos, dermatitis ocre, induración, hiperpigmentación, atrofia blanca perimaleolar, dermatofibroesclerosis, engrosamiento de piel, eccema de éxtasis con prurito, tromboflebitis, pequeñas erosiones o hemorragias. |
 | III | Ulcera activa o ulcera cicatrizada. |
 
 El criterio principal de evaluación serán las pruebas funcionales objetivas y como alternativa de estas, cuando estas no sean posibles, será la anamnesis.
 
-Tabla 8.16 Criterios para la puntuación de la deficiencia permanente secundaria a enfermedad vascular periférica - Extremidad Inferior (DEI)
+Tabla 8.16 Criterios para la puntuación de la deficiencia permanente secundaria a enfermedad vascular periférica - Deficiencia total de la persona (DTP)
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad de la deficiencia unilateral de la extremidad inferior (%)* | 0 DEI | 2%-10% 2 4 6 8 10 DEI | 11%-23% 11 14 17 20 23 DEI | 24%-40% 24 28 32 36 40 DEI | 45%45% 45 50 55 60 65 DEI |
+| Graduación de la gravedad de la deficiencia unilateral de la extremidad inferior (%)* | 0 DTP | 2 %-10 % 2 4 6 8 10 DTP | 11 %-23 % 11 14 17 20 23 DTP | 24 %-40 % 24 28 32 36 40 DTP | 45 %45 % 45 50 55 60 65 DTP |
 | Anamnesis. | Ausencia de claudicación intermitente o dolor en reposo o edema transitorio. | Claudicación intermitente durante ejercicio importante de la extremidad inferior o edema persistente leve. Grado I de Fontaine. Controlado mediante medias elásticas. | Claudicación intermitente tras caminar > 150 metros a paso medio o edema persistente moderado. Grado IIa de Fontaine. Parcialmente controlado con medias elásticas. | Claudicación intermitente tras caminar < 150 metros o dolor intermitente en reposo o edema persistente grave. Grado IIb de Fontaine. No se controla con medias elásticas. | Dolor grave y persistente en reposo. Grados III y IV de Fontaine. |
 | Exploración física. | Ausencia de hallazgos físicos, a excepción de pérdida de pulsos o pérdidas mínimas del tejido subcutáneo o varices venosas. | Lesión vascular (cicatrices, ausencia de sensibilidad dolorosa digital acra). Úlcera cicatricial ISL grado 1. | Lesión vascular (amputación cicatrizada de dos o más dedos o una extremidad con evidencia de enfermedad vascular persistente con dermatitis de estasis o úlcera superficial) ISL grado 2. | Lesión vascular (amputación a nivel de tobillo o por encima o amputación de dos o más dedos con evidencia de enfermedad vascular persistente o enfermedad vascular persistente con dermatitis de estasis diseminada o úlcera profunda localizada en una extremidad) ISL grado 3. | Lesión vascular (amputación a nivel de tobillo o por encima de dos extremidades o amputación de todos los dedos con evidencia de enfermedad vascular persistente con dermatitis de estasis diseminada tipo elefantiasis o úlcera profunda en ambas extremidades) ISL grado 4. |
 | Resultados de las pruebas objetivas (CP). | ITB normal. | ITB normal o con anomalía leve (> 80). | ITB anormal (0,71-0,80) o ecografía doppler con alteraciones leves a moderadas arteriales o venosas o angiogramas periféricos que evidencien EAP leve a moderadas. | ITB moderadamente anormal (0,41-0,70) o ecografía Doppler con alteraciones moderadas a graves arteriales o venosas o angiogramas periféricos que evidencien EAP moderadas a graves. | ITB marcadamente anormal (≤ 0,40) o ecografía doppler con alteraciones graves a muy graves arteriales o venosas o angiogramas periféricos que evidencien EAP grave a muy graves. |
-| ITB: índice tobillo-braquial; EAP: Enfermedad arterial periférica. * El porcentaje asignado se refiere a deficiencia parcial (DP) de extremidad inferior (DEI) por lo que el porcentaje obtenido deberá ser convertido a deficiencia total de la persona (DTP) mediante las tablas 16.9. |
+| ITB: índice tobillo-braquial; EAP: Enfermedad arterial periférica. |
 
-Tabla 8.17 Criterios para la puntuación de la deficiencia permanente secundaria a enfermedad vascular periférica - Extremidad Superior (DES)
+Tabla 8.17 Criterios para la puntuación de la deficiencia permanente secundaria a enfermedad vascular periférica - Deficiencia total de la persona (DTP)
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) puntuación de deficiencia unilateral de extremidad superior (%)* | 0 DES | 2%-10% 2 4 6 8 10 DES | 11%-23% 11 14 17 20 23 DES | 24%-40% 24 28 32 36 40 DES | 45%-65% 45 50 55 60 65 DES |
+| Graduación de la gravedad DTP (%) puntuación de deficiencia unilateral de extremidad superior (%)* | 0 DTP | 2 %-10 % 2 4 6 8 10 DTP | 11 %-2 3% 11 14 17 20 23 DTP | 24 %-40 % 24 28 32 36 40 DTP | 45 %-65 % 45 50 55 60 65 DTP |
 | Anamnesis. | Ausencia de claudicación intermitente o dolor en reposo o edema transitorio. Sin cese de sus actividades. | Claudicación intermitente durante ejercicio importante de la extremidad superior o edema persistente (controlado con compresión elástica) o dolor con la exposición al frío. | Claudicación intermitente durante la actividad leve de la extremidad superior o edema leve persistente (no controlado completamente con compresión elástica). | Claudicación intermitente durante la actividad moderada de la extremidad superior o edema moderado persistente (no controlado con compresión elástica). | Dolor de origen vascular grave y persistente en reposo o edema grave persistente (no controlado con compresión elástica). |
 | Exploración física. | Ausencia de hallazgos físicos, a excepción de pérdida de pulsos o pérdidas mínimas del tejido subcutáneo de las yemas de los dedos. | Evidencia de lesión vascular (cicatriz, muñón no doloroso de dedo amputado con evidencia de enfermedad vascular persistente o úlcera cicatrizada o fenómeno de Raynaud con patofisiología obstructiva que responde de manera parcial al cambio de estilo de vida o tratamiento médico). | Evidencia de lesión vascular (amputación cicatrizada de dos o más dedos de una extremidad con evidencia de enfermedad vascular persistente con dermatitis de estasis o úlcera superficial). | Evidencia de lesión vascular (signos de amputación a nivel de la muñeca o superior o amputación de dos o más dedos de ambas extremidades con evidencia de enfermedad vascular persistente con dermatitis de estasis diseminada o úlcera profunda de una extremidad). | Evidencia de lesión vascular (amputación a nivel de ambas muñecas o superior o amputación de todos los dedos con evidencia de enfermedad vascular con dermatitis de estasis diseminada o úlcera profunda en ambas extremidades superiores). |
 | Resultados de las pruebas objetivas (CP). | Calcificación arterial en la radiografía. | Índice dedo/brazo < 0,8 o hipotermia digital con señales de Doppler disminuidas que no se normalizan al calentar los dedos. | Estudio Doppler con anomalías leves a moderadas arteriales o venosas de la extremidad superior (se excluye amputación). | Estudio Doppler con anomalías moderadas a graves, arteriales o venosas de la extremidad superior (se excluye amputación). | Estudio Doppler con anomalías graves a muy graves arteriales o venosas de la extremidad superior (se excluye amputación). |
-| * El porcentaje asignado se refiere a deficiencia parcial (DP) de extremidad superior (DES) por lo que el porcentaje obtenido deberá ser convertido a deficiencia total de la persona (DTP) mediante las tablas 15.9. |
 
 Capítulo 9
 
 ## Sistema hematologico e inmunologico
 
-Los criterios para la asignación del porcentaje de deficiencia están basados en la repercusión de la deficiencia sobre las limitaciones para realizar las actividades de la vida diaria. Durante el proceso de evaluación se deberán recoger datos objetivos sobre el grado de interferencia de estas limitaciones e integrar los resultados en la información subjetiva para estimar el grado de deficiencia permanente. Como referente de esta interferencia se tendrá en cuenta la puntuación obtenida en el «Baremo de Limitaciones en la actividad» (BLA).
+Los criterios para la asignación del porcentaje de deficiencia están basados en la repercusión de la deficiencia sobre las limitaciones para realizar las actividades de la vida diaria. Durante el proceso de evaluación se deberán recoger datos objetivos sobre el grado de interferencia de estas limitaciones e integrar los resultados en la información subjetiva para estimar el grado de deficiencia permanente. Como referente de esta interferencia se tendrá en cuenta la puntuación obtenida en el "Baremo de Limitaciones en la actividad" (BLA).
 
 Carga de cumplimiento de tratamiento: El tratamiento puede producir efectos secundarios considerables, en este capítulo la Carga de Cumplimiento de Tratamiento se considera frecuentemente como criterio principal, con unos criterios específicos de evaluación. Por tanto y con la finalidad de no duplicar la evaluación, en estos casos, no se aplicarán los criterios generales de CCT del apéndice B.
 
@@ -2466,17 +2472,17 @@ Tabla 9.1 Carga de cumplimiento del tratamiento en sistema hematológico
 
 | Intervención | % de deficiencia |
 | --- | --- |
-| Tratamiento crónico con anticoagulantes. | 5% |
+| Tratamiento crónico con anticoagulantes. | 5 % |
 | Tratamiento crónico con corticoesteroides (discrecional). | Hasta un 3% |
-| Tratamiento crónico con otro inmunosupresor (discrecional). | Hasta un 3% |
-| Quelante de hierro u otro tratamiento sistémico. | Hasta un 3% |
-| Quimioterapia oral crónica (discrecional). | Hasta un 5% |
-| Quimioterapia intravenosa: por ciclo recibido durante los seis meses anteriores (Hasta un total de 6%). | 1% |
-| Radioterapia: por semana recibida durante los seis meses anteriores (Hasta un total de 6%). | 1% |
-| Transfusiones: por unidad mensual. | 1% |
-| Flebotomía: por tratamiento mensual. | 1% |
-| Aféresis: por tratamiento mensual. | 3% |
-| Trasplante de médula ósea. | 10% |
+| Tratamiento crónico con otro inmunosupresor (discrecional). | Hasta un 3 % |
+| Quelante de hierro u otro tratamiento sistémico. | Hasta un 3 % |
+| Quimioterapia oral crónica (discrecional). | Hasta un 5 % |
+| Quimioterapia intravenosa: por ciclo recibido durante los seis meses anteriores (Hasta un total de 6%). | 1 % |
+| Radioterapia: por semana recibida durante los seis meses anteriores (Hasta un total de 6%). | 1 % |
+| Transfusiones: por unidad mensual. | 1 % |
+| Flebotomía: por tratamiento mensual. | 1 % |
+| Aféresis: por tratamiento mensual. | 3 % |
+| Trasplante de médula ósea. | 10 % |
 
 9.2 Anemias crónicas.
 
@@ -2485,11 +2491,11 @@ Tabla 9.2 Criterios para la puntuación de la deficiencia permanente secundaria 
 | Anemias |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 7%-15% 7 11 15 | 25%-45% 25 35 45 | 55%-75% 55 65 75 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 7 %-15 % 7 11 15 | 25 %-45 % 25 35 45 | 55 %-75 % 55 65 75 |
 | Anamnesis (CP). | Antecedentes de anemia, ahora resuelta; no precisa tratamiento. | Antecedentes de anemia crónica; signos y síntomas leves que precisan tratamiento de manera intermitente y sin necesidad de transfusiones. | Antecedentes de anemia crónica con síntomas leves continuos y exacerbacioness moderadas ocasionales o necesidad ocasional de transfusiones | Antecedentes de anemia crónica con síntomas moderados continuos y exacerbaciones graves ocasionales o necesidad de transfusiones de 2 a 3 U cada 4 semanas. | Antecedentes de anemia crónica con síntomas graves continuos y exacerbaciones extremas ocasionales y/o necesidad de transfusiones de 2 a 3 U cada 2 semanas. |
 | Resultados de las pruebas objetivas. | Pruebas normales. | Hemoglobina ≥ 10 pero < 12 g/dl. | Hemoglobina ≥ 8 pero < 10 g/dl. | Hemoglobina ≥ 6 pero < 8 g/dl. | Hemoglobina ≤ 6 g/dl. |
 
-9.3 trastornos mieloproliferativos, incluidos policitemia, mielofibrosis y trombocitosis esencial.
+9.3 trastornos mielop roliferativos, incluidos policitemia, mielofibrosis y trombocitosis esencial.
 
 ‒ La policitemia vera No existe ningún sistema de puntuación específico para la policitemia. La puntuación de la deficiencia se basa en la afectación del órgano diana. A este resultado se añade una puntuación de deficiencia adicional por la flebotomía (en caso de que se utilice para control de la enfermedad) o por la quimioterapia.
 
@@ -2497,7 +2503,7 @@ Tabla 9.2 Criterios para la puntuación de la deficiencia permanente secundaria 
 
 ‒ La trombocitosis esencial es un trastorno de origen desconocido que se manifiesta clínicamente por la sobreproducción de plaquetas sin una causa definible. No existe ningún sistema de puntuación para la trombocitosis esencial, la puntuación debería basarse en los sistemas orgánicos afectados o en el grado en que se producen los fenómenos hemorrágicos o trombóticos.
 
-9.4 Deficiencias de los leucocitos.
+9.4 Defi ciencias de los leucocitos.
 
 9.4.a Granulocitos o neutrófilos.
 
@@ -2506,7 +2512,7 @@ Tabla 9.3 Criterios para la puntuación de la deficiencia permanente secundaria 
 | Neutropenia |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 7%-15% 7 11 15 | 25%-35% 25 30 35 | 40%-50% 40.45 50 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 7 %-15 % 7 11 15 | 25 %-35 % 25 30 35 | 40 %-50 % 40.45 50 |
 | Anamnesis. | No precisa tratamiento. | Tratamiento ocasional con antibióticos por infecciones bacterianas. | Requiere tratamiento crónico intermitente con antibióticos para prevenir las infecciones bacterianas agudas. | Requiere tratamiento crónico intermitente oral con antibióticos asociado a infecciones bacterianas agudas que precisan hospitalización no más de una vez al año. | Requiere tratamiento crónico intermitente oral con antibióticos asociado a infecciones bacterianas agudas que precisan hospitalización al menos dos veces al año o tratamiento antibiótico intravenoso en el domicilio. |
 | Resultados de las pruebas objetivas (CP). | Recuento absoluto de neutrófilos > 1000. | Recuento absoluto de neutrófilos > 750 pero ≤ 1000. | Recuento absoluto de neutrófilos > 500 pero ≤ 750. | Recuento absoluto de neutrófilos > 250 pero ≤ 500. | Recuento absoluto de neutrófilos < 250. |
 
@@ -2514,24 +2520,24 @@ En el intervalo 4, si se presentan las dos características en la anamnesis, se 
 
 9.4.b Linfocitos.
 
-Todas las leucemias, sin importar la estirpe celular, linfomas y mielomas se puntuarán utilizando la Tabla 9.4.
+Todas las leucemias, sin importar la estirpe celular, linfomas y mielomas se puntuarán utilizando la tabla 9.4.
 
 9.4.c Deficiencias secundarias a leucemias, linfomas, mieloma y enfermedad metastásica.
 
 Se debe añadir un 10% de deficiencia si la persona no ha respondido adecuadamente al trasplante de médula ósea, además de un 1% por ciclo de quimioterapia recibido durante seis meses hasta un máximo del 6% y un 1% por unidad de hematíes transfundida mensualmente.
 
-Los criterios para la puntuación de deficiencia permanente secundaria a leucemia, linfoma, mieloma o enfermedad metastásica lo establece la anamnesis como el criterio principal, utilizando la repercusión de la enfermedad sobre las AVD (Se tendrá como referente la puntuación obtenida en el «Baremo de Limitaciones en la Actividad» BLA) como factor modificador de grado, dentro del intervalo asignado.
+Los criterios para la puntuación de deficiencia permanente secundaria a leucemia, linfoma, mieloma o enfermedad metastásica lo establece la anamnesis como el criterio principal, utilizando la repercusión de la enfermedad sobre las AVD (Se tendrá como referente la puntuación obtenida en el "Baremo de Limitaciones en la Actividad" BLA) como factor modificador de grado, dentro del intervalo asignado.
 
 Tabla 9.4 Criterios para la puntuación de la deficiencia permanente secundaria a leucemia, linfoma mieloma o enfermedad metastásica
 
 | Leucemias |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 3%-15% 3 9 15 | 16%-24% 16 20 24 | 25%-49% 25 35 49 | 50%-75% 50 65 75 |
+| Graduación de la gravedad DTP (%) | 0 | 3 %-15 % 3 9 15 | 16 %-24 % 16 20 24 | 25 %-49 % 25 35 49 | 50 %-75 % 50 65 75 |
 | Anamnesis (CP). | No precisa tratamiento; la leucemia se encuentra en remisión 5 años. | Cualquier leucemia en remisión > 1 año pero < 5 años o LLC en fase precoz que no precise tratamiento o Enfermedad tratada con quimioterapia oral. | Tratamiento con quimioterapia intravenosa con frecuencia inferior a 3 veces al año. | Quimioterapia intravenosa entre tres y seis veces al año. | Quimioterapia intravenosa en más de seis ocasiones al año o Personas que no responden al tratamiento o presentan leucemia, linfoma, mieloma o enfermedad metastásica incurable. |
 | Repercusión sobre las AVD. | Sin limitación en las AVD. | Con limitación leve en las AVD. | Con limitación leve en las AVD. | Limitación moderada en las AVD. | Limitada la capacidad de mantener de forma independiente el cuidado personal. Limitación grave a total en las AVD. |
 
-Si la persona presenta enfermedad incurable, con mal pronóstico, y limitación grave en las AVD puntúelo con el máximo grado del intervalo 4 (75%).
+Si la persona presenta enfermedad incurable, con mal pronóstico, y limitación grave en las AVD puntúelo con el máximo grado del intervalo 4 (75 %).
 
 La evaluación por esta sección en todo caso será alternativa a la del capítulo 13: Neoplasias.
 
@@ -2541,11 +2547,11 @@ La evaluación de la deficiencia por mielodisplasias se basa en el grado de la a
 
 9.4.e Monocitos-macrófagos.
 
-En general, las puntuaciones para los monocitos o los macrófagos se establecen tras puntuar los efectos de la enfermedad sobre otros componentes del sistema hematopoyético y/o sobre otros sistemas orgánicos, combinados con los que se obtienen con la tabla para las Leucemias, linfomas y enfermedad metastásica (Tabla 9.4).
+En general, las puntuaciones para los monocitos o los macrófagos se establecen tras puntuar los efectos de la enfermedad sobre otros componentes del sistema hematopoyético y/o sobre otros sistemas orgánicos, combinados con los que se obtienen con la tabla para las Leucemias, linfomas y enfermedad metastásica (tabla 9.4).
 
 9.4.f Bazo y esplenectomía.
 
-Las personas esplenectomizadas no presentan un aumento del riesgo de infecciones víricas. Si una persona presenta infecciones de repetición tras la esplenectomía, se debería asignar un 5% adicional al porcentaje de la deficiencia hematológica. En caso contrario, no se añade puntuación adicional. La esplenomegalia mayor de 5 cm por debajo del reborde costal, ocasiona molestias y habitualmente afecta a la capacidad de alimentarse por la sensación de saciedad precoz. Este hecho, conlleva un porcentaje del 5% adicional que se añade, en caso de estar presente, a la deficiencia hematológica.
+Las personas esplenectomizadas presentan un aumento del riesgo de infecciones víricas. Si una persona presenta infecciones de repetición tras la esplenectomía, documentadas en el último año, se debería asignar un 5% adicional al porcentaje de la deficiencia hematológica. En caso contrario, no se añade puntuación adicional. La esplenomegalia mayor de 5 cm por debajo del reborde costal, ocasiona molestias y habitualmente afecta a la capacidad de alimentarse por la sensación de saciedad precoz. Este hecho, conlleva un porcentaje del 5% adicional que se añade, en caso de estar presente, a la deficiencia hematológica.
 
 9.5 Trastornos hemorrágicos y de las plaquetas.
 
@@ -2555,11 +2561,11 @@ Tabla 9.5 Criterios para la puntuación de la deficiencia permanente secundaria 
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 7%-15% 7 11 15 | 25%-35% 25 30 35 | 45%-65% 45 55 65 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 7%-15% 7 11 15 | 25%-35 % 25 30 35 | 45 %-65 % 45 55 65 |
 | Anamnesis (CP). | Trombocitopenia leve o trastorno de la coagulación que no precisa tratamiento. | Las exacerbaciones agudas de la trombocitopenia requieren tratamiento. | La trombocitopenia precisa tratamiento a consecuencia de traumatismos o cirugías previas. Presenta hematomas con facilidad. | Trombocitopenia grave, precisa transfusión intermitente pero responde al tratamiento con plaquetas y/o presenta hemorragias ocasionales (≤ 2 veces al año). | Trombocitopenia muy grave que no responde a la transfusión de plaquetas y/o presenta tres o más episodios hemorrágicos al año. |
 | Recuento plaquetar. | > 140 x 103/μl. | > 100 pero ≤ 140 x 103/μl. | > 60 - 100 x 103/μl. | 20 - 60 x 103/μl. | < 20 x 103/μl. |
 
-Para el intervalo de gravedad 4, si la persona presenta ambos criterios de la anamnesis así como también el criterio del recuento plaquetar, se utiliza el 65%.
+Para el intervalo de gravedad 4, si la persona presenta ambos criterios de la anamnesis así como también el criterio del recuento plaquetar, se utiliza el 65 %.
 
 9.5.b Criterios para la evaluación de la deficiencia permanente secundaria a trastornos de la coagulación.
 
@@ -2567,23 +2573,23 @@ Tabla 9.6 Criterios para la puntuación de la deficiencia secundaria a Hemofilia
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-9% 1 3 5 7 9 | 10%-30% 10 15 20 25 30 | 35%-65% 35 40 45 55 65 |
+| Graduación de la gravedad DTP (%) | 0 | 1%- 9% 1 3 5 7 9 | 10 %-30 % 10 15 20 25 30 | 35 %-65 % 35 40 45 55 65 |
 | Anamnesis (CP). | No precisa tratamiento. | Precisa tratamiento con vasopresina, crioprecipitados o plasma fresco-congelado tras traumatismos o en la preparación de la cirugía. | Antecedente de algún episodio hemorrágico durante el año anterior. | Antecedente de tres o más episodios hemorrágicos por año. |
 | Requerimientos terapéuticos. | Trastorno leve de la coagulación que no precisa tratamiento. | Tratamiento con factores de la coagulación tras sangrados o traumatismos. | Necesita tratamiento prolongado con factores de coagulación. | Necesita tratamiento con factores de la coagulación con desarrollo de anticuerpos y/o ha necesitado transfusión de hematíes durante los episodios hemorrágicos. |
 | Deficiencia del factor. | Normal. | Leve: > 5% al 30% de factor de coagulación VIII (> 5% al 40% en factor IX). | Moderada: 1% a ≤ 55%. | Grave: menos del 1%. |
 
-En el intervalo de gravedad 3, se asigna el 65% si se reúnen todos los criterios para el intervalo de gravedad y el 55% si se reúne un criterio, aparte del criterio principal.
+En el intervalo de gravedad 3, se asigna el 65 % si se reúnen todos los criterios para el intervalo de gravedad y el 55 % si se reúne un criterio, aparte del criterio principal.
 
-Tabla 9.8 Criterios para la puntuación de la deficiencia secundaria a otros trastornos hemorrágicos
+Tabla 9.7 Criterios para la puntuación de la deficiencia secundaria a otros trastornos hemorrágicos
 
 | Trastornos hemorrágicos |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-9% 1 5 9 | 15%-25% 15 20 25 | 35%-45% 35 40 45 | 55%-65% 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-9 % 1 5 9 | 15 %-25 % 15 20 25 | 35 %-45 % 35 40 45 | 55 %-65 % 55 60 65 |
 | Frecuencia de los episodios hemorrágicos (CP). | Sin antecedentes de hemorragias anormales. | Mucosas sangrantes de manera crónica y/o menstruaciones abundantes y/o sangrado no procedente de mucosas durante el año anterior que no condujo a una limitación grave de la actividad. | Hemorragia no procedente de mucosas que ha condicionado una limitación grave de la actividad y/o ingreso durante el pasado año. | Antecedente de dos o más sangrados no procedentes de mucosas que han condicionado una limitación grave de la actividad y/o ingreso durante el pasado año. | Antecedente de tres o más sangrados no procedentes de mucosas que han condicionado una limitación grave de la actividad y/o ingreso durante el pasado año ‒al menos una de las hemorragias ha supuesto compromiso vital. |
 | Requerimientos terapéuticos. | No precisa tratamiento. | Precisa tratamiento menor (hemostático, ferroterapia o premedicación antes de las intervenciones). | Necesita tratamiento de sustitución de factores de coagulación (si son necesarios) y/o agentes hemostáticos. | Habitualmente precisa menos de dos transfusiones de hematíes con o sin sustitución de factores de coagulación durante las hemorragias. | Precisa transfusión de dos o más unidades de hematíes con o sin sustitución de factores de coagulación. |
 
-Asignar el 65% si la persona reúne todos los criterios para el intervalo de gravedad 4; el 55% si reúne sólo el criterio principal.
+Asignar el 65 % si la persona reúne todos los criterios para el intervalo de gravedad 4; el 55 % si reúne sólo el criterio principal.
 
 9.6 Trastornos trombóticos.
 
@@ -2592,19 +2598,19 @@ Tabla 9.8 Criterios para la puntuación de la deficiencia permanente secundaria 
 | Trastornos trombóticos |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-9% 1 5 9 | 15%-25% 15 20 25 | 35%.40% 35 37 40 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-9 % 1 5 9 | 15 %-25 % 15 20 25 | 35 %.40 % 35 37 40 |
 | Frecuencia de los episodios trombóticos (CP). | Sin antecedentes de anomalías trombóticas. | Un episodio previo de trombosis. | Más de un episodio anterior de trombosis - ninguno en el año anterior. | Uno o más episodios trombóticos al año. |
 | Estado de hipercoagulabilidad. | Anomalías menores que no se espera que provoquen un estado de hipercoagulabilidad. | Mutación heterocigota del factor V de Leiden o Anticoagulante lúpico, anticuerpos anticardiolipina o antifosfolípido, u otro estado de hipercoagulabilidad leve. | Concentración de proteína C o S < 35% del normal o Deficiencia de antitrombina 3 o Mutación homocigotica del factor V de Leiden o Anticoagulante lúpico, anticuerpos anticardiolipina o Antifosfolípido, u otro estado de hipercoagulabilidad moderado. | Dos de los siguientes: Concentración de proteína C o S < 35% del normal y/o Mutación homocigota del factor V de Leiden y/o Anticoagulante lúpico, anticuerpos anticardiolipina o antifosfolípido, u otro estado de hipercoagulabilidad grave. |
 
-Asignar el 40% si la persona reúne los dos criterios para el intervalo de gravedad 3; y el 35% si sólo reúne el criterio principal.
+Asignar el 40 % si la persona reúne los dos criterios para el intervalo de gravedad 3; y el 35 % si sólo reúne el criterio principal.
 
 9.7 Infección por VIH.
 
 9.7.1 Normas para la evaluación de la deficiencia en casos de infección por VIH (Virus de la Inmunodeficiencia Humana).
 
-En la situación de coinfección del VIH y del Virus de la Hepatitis C (VHC) y tras la constatación documentada de fracaso terapéutico en la erradicación de este último, o infección por VHC no tratadas, se evaluará con un mínimo de 33%.
+En la situación de coinfección del VIH y del Virus de la Hepatitis C (VHC) y tras la constatación documentada de fracaso terapéutico en la erradicación de este último, o infección por VHC no tratadas, se evaluará con un mínimo de 33 %.
 
-Los resultados objetivos de las pruebas diagnósticas son el criterio principal.Utilizando la anamnesis y la repercusión de la enfermedad por VIH sobre las AVD (Se tendrá como referente la puntuación obtenida en el «Baremo de Limitaciones en la Actividad» BLA) como factores modificador de grado, dentro del intervalo asignado
+Los resultados objetivos de las pruebas diagnósticas son el criterio principal.Utilizando la anamnesis y la repercusión de la enfermedad por VIH sobre las AVD (Se tendrá como referente la puntuación obtenida en el "Baremo de Limitaciones en la Actividad" BLA) como factores modificador de grado, dentro del intervalo asignado
 
 9.7.2 Criterios generales de evaluación en infección por VIH.
 
@@ -2613,7 +2619,7 @@ Tabla 9.10 Criterios para la puntuación de la deficiencia permanente secundaria
 | Enfermedad por VIH |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 3%-15% 3 6 9 12 15 | 16-24% 16 18 20 22 24 | 25%-49% 25 30 35 40 49 | 50%-75% 50 60 65 70 75 |
+| Graduación de la gravedad DTP (%) | 0 | 3 %-15 % 3 6 9 12 15 | 16 %-24 % 16 18 20 22 24 | 25 %-49 % 25 30 35 40 49 | 50 %-75 % 50 60 65 70 75 |
 | Anamnesis. | No precisa tratamiento. | Precisa tratamiento antirretrovírico para controlar los signos y síntomas de la enfermedad. | Precisa tratamiento antirretrovírico y tratamiento médico constante para prevenir las infecciones oportunistas ‒antecedentes de infecciones previas. | Precisa tratamiento antirretrovírico constante y tratamiento crónico supresor, con al menos una infección oportunista activa o de tres a seis episodios que hayan requerido asistencia médica en el último año. | Precisa tratamiento antirretrovírico constante y tratamiento crónico supresor, con al menos dos infecciones oportunistas activas o más de seis episodios que hayan requerido asistencia médica en el último año y/o infecciones oportunistas que hayan requerido de ingreso hospitalario al menos una vez por año en los últimos años. |
 | Pruebas objetivas (CP). | Recuento de CD4 > 800 o (PCR) para VIH < 50. | Recuento de CD4 > 500 pero ≤ 800 o PCR para VIH > 50.000. | Recuento de CD4 > 200 pero < 500. | Recuento de CD4 < 200 pero > 100*. | Recuento de CD4 ≤ 100. |
 | Repercusión sobre las AVD. | Sin limitación en las AVD, | Con limitación leve en las AVD. | Con limitación leve en las AVD. | Limitación moderada en las AVD. | Limitada la capacidad de mantener de forma independiente el cuidado personal limitación grave a total en las AVD. |
@@ -2625,7 +2631,7 @@ Las personas menores de 13 años en clase C3 (clasificación de 1994) tendrán u
 
 9.8 Enfermedades sistémicas autoinmunes y conectivopatías que cursen en brotes.
 
-Habitualmente en situaciones cronificadas de estas condiciones de salud se podrán objetivar deficiencias permanentes en los órganos diana, como pueden ser las articulaciones, que deberán evaluarse según los criterios de los capítulos correspondientes. Si dichas condiciones de salud no son suficientemente evaluadas en su capítulo de referencia, y con periodos de remisión de la sintomatología variable, podrán evaluarse de forma «global» en esta sección como metodología alternativa a la de los capítulos correspondientes, en cuyo caso no podrá combinarse con las puntuaciones de deficiencia de dichos capítulos. En todo caso la evaluación se realizará con carácter provisional.
+Habitualmente en situaciones cronificadas de estas condiciones de salud se podrán objetivar deficiencias permanentes en los órganos diana, como pueden ser las articulaciones, que deberán evaluarse según los criterios de los capítulos correspondientes. Si dichas condiciones de salud no son suficientemente evaluadas en su capítulo de referencia, y con periodos de remisión de la sintomatología variable, podrán evaluarse de forma "global" en esta sección como metodología alternativa a la de los capítulos correspondientes, en cuyo caso no podrá combinarse con las puntuaciones de deficiencia de dichos capítulos. En todo caso la evaluación se realizará con carácter provisional.
 
 Criterio especial de frecuencia: En los casos de diagnóstico objetivo de enfermedad sistémica autoinmune o conectivopatía en la cual se documente médicamente un número superior a 6 episodios anuales de reactivación o brotes que requieren atención médica e intensificación del tratamiento, dicha situación por si misma podrá considerarse como criterio principal y le incluiría a la persona en el intervalo 3 de gravedad. En todo caso dicha evaluación será provisional y será revisable a los 2 años.
 
@@ -2633,11 +2639,11 @@ Tabla 9.11 Criterios para puntuar la deficiencia en enfermedades sistémicas aut
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-14% 1 4 7 10 14 | 15%-29% 15 18 21 24 29 | 30%.44% 30 33 36 39 44 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-14 % 1 4 7 10 14 | 15 %-29 % 15 18 21 24 29 | 30 %.44 % 30 33 36 39 44 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis* - (CP). | Antecedentes previos de conectivopatía con ausencia de síntomas actuales. | Síntomas o signos de conectivopatía mínimos frecuentes o síntomas leves ocasionales y Si cursa en brotes en remisión en el último año y Precisa tratamiento continuo u ocasional. | Síntomas o signos de conectivopatía leves frecuentes, o bien síntomas o signos moderados ocasionales y Si cursa en brotes su frecuencia de remisiones es superior a seis meses en el último año y Precisa tratamiento continuado***. | Síntomas o signos de conectivopatía moderados frecuentes o bien síntomas o signos graves ocasionales y Si cursa en brotes su frecuencia de remisión inferior seis meses en el último año y Precisa tratamiento continuado***. | Síntomas o signos de conectivopatía graves frecuentes o bien síntomas o signos extremos ocasionales) y Si cursa en brotes su frecuencia de remisión es inferior a un mes en el último año y Precisa tratamiento continuado***. |
 | Exploración física** | Uso de EESS y estática y marcha sin alteración. No se objetivan alteraciones anatómicas residuales en ninguna región corporal. | Uso de EESS y/o estática y marcha con alteración leve y/o alteraciones anatómicas residuales leves en alguna región corporal. | Uso de EESS y/o estática y marcha con alteración leve a moderada y/o alteraciones anatómicas residuales leves a moderadas en varias regiones corporales. | Uso de EESS y/o estática y marcha con alteración moderada a grave y/o alteraciones anatómicas residuales moderadas a graves en varias regiones corporales. | Uso de EESS y/o estática y marcha con alteración grave a total y/o alteraciones anatómicas residuales graves y generalizadas. |
 | Resultados de las pruebas complementarias. | Sin anomalías objetivas. | Se objetivan pruebas o alteraciones analíticas leves. | Se objetivan pruebas o alteraciones analíticas leves a moderadas. | Se objetivan pruebas o alteraciones analíticas moderadas a graves. | Se objetivan pruebas o alteraciones analíticas graves. |
-| * Se toman como referencia las frecuencias y niveles de gravedad de los síntomas y signos expuestos en los «Criterios generales de graduación» en las «Normas generales de valuación de la Deficiencia Global de la Persona». ** Se utilizaran las tablas 3.10 y 3.17 de Alteración funcional de EESS y 3.11 Trastornos de la estática y la marcha. Que se utilizaran en este caso como criterio secundario de ajuste y no como criterio principal. *** A la puntuación se le añadirá la CCT en función del tratamiento que precise. |
+| * Se toman como referencia las frecuencias y niveles de gravedad de los síntomas y signos expuestos en los "Criterios generales de graduación" en las "Normas generales de valuación de la Deficiencia Global de la Persona". ** Se utilizarÁn las tablas 3.10 y 3.17 de Alteración funcional de EESS y 3.11 Trastornos de la estática y la marcha. Que se utilizaran en este caso como criterio secundario de ajuste y no como criterio principal. *** A la puntuación se le añadirá la CCT en función del tratamiento que precise. |
 
 Capítulo 10
 
@@ -2645,7 +2651,7 @@ Capítulo 10
 
 Consideraciones generales en la evaluación del sistema respiratorio:
 
-Sólo serán objeto de evaluación aquellas personas que presenten enfermedades crónicas consideradas no recuperables en cuanto a la función, con un curso clínico no inferior a seis meses desde el diagnóstico e inicio del tratamiento. No deben ser consideradas las alteraciones funcionales transitorias y reversibles.
+Solo serán objeto de evaluación aquellas personas que presenten enfermedades crónicas consideradas no recuperables en cuanto a la función, con un curso clínico no inferior a seis meses desde el diagnóstico e inicio del tratamiento. No deben ser consideradas las alteraciones funcionales transitorias y reversibles.
 
 La evaluación de la deficiencia se fundamentará en el resultado de pruebas funcionales objetivas, como la espirometría forzada, la capacidad de difusión del monóxido de carbono, y la medida de la capacidad de ejercicio, complementada con criterios clínicos.
 
@@ -2680,15 +2686,15 @@ Procedimiento para la evaluación de las deficiencias:
 
 La deficiencia total de la persona (DTP) secundaria a la afectación pulmonar, se basa fundamentalmente en la gravedad de la pérdida de función pulmonar objetivada mediante los resultados de diferentes pruebas objetivas (Criterio Principal (CP) que se utiliza en este capítulo).
 
-Los criterios secundarios de ajuste (CSA), en este caso, son la anamnesis y la exploración física. Los pasos generales para determinar el intervalo de deficiencia y el porcentaje dentro de dicho intervalo, se indican en la Tabla 10.3.
+Los criterios secundarios de ajuste (CSA), en este caso, son la anamnesis y la exploración física. Los pasos generales para determinar el intervalo de deficiencia y el porcentaje dentro de dicho intervalo, se indican en la tabla 10.3.
 
 Tabla 10.3 Criterios evaluación de la deficiencia permanente secundaria a alteración pulmonar
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 Nula | Intervalo 1 Leve | Intervalo 2 Moderada | Intervalo 3 Grave | Intervalo 4 Muy grave |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DCT (%) | 0 | 2%-10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-40% 24 28 32 36 40 | 45%-65% 45 50 55 60 65 |
-| Anamnesis. | Sin síntomas actuales y/o Disnea intermitente que no requiere tratamiento mMCR 0. | Disnea controlada con tratamiento intermitente o continuo o Disnea leve, intermitente, a pesar de tratamiento continuo mMCR 1. | Disnea persistente leve a pesar de tratamiento continuo o Disnea moderada, intermitente, a pesar de tratamiento continuo mMCR 2 o persona trasplantada. | Disnea persistente moderada a pesar de tratamiento continuo o Disnea grave intermitente, a pesar de tratamiento continuo mMCR 3. | Disnea persistente grave a pesar de tratamiento continuo o Disnea extrema, intermitente, a pesar de tratamiento continúo mMCR 4. |
-| Exploración física. | Sin signos actuales de enfermedad. | Signos ausentes con tratamiento continuo o Signos leves intermitentes. | Signos leves persistentes a pesar de tratamiento continuo o Signos moderados intermitentes. | Signos moderados persistentes a pesar de tratamiento continuo o Signos graves intermitentes. | Signos graves persistentes a pesar de tratamiento continuo o Signos extremos intermitentes. |
+| Graduación de la gravedad DCT (%) | 0 | 2 %-10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-40 % 24 28 32 36 40 | 45 %-65 % 45 50 55 60 65 |
+| Anamnesis. | Sin síntomas actuales y/o disnea intermitente que no requiere tratamiento mMCR 0. | Disnea controlada con tratamiento intermitente o continuo o disnea leve, intermitente, a pesar de tratamiento continuo mMCR 1. | Disnea persistente leve a pesar de tratamiento continuo o disnea moderada, intermitente, a pesar de tratamiento continuo mMCR 2 o persona trasplantada. | Disnea persistente moderada a pesar de tratamiento continuo o disnea grave intermitente, a pesar de tratamiento continuo mMCR 3. | Disnea persistente grave a pesar de tratamiento continuo o disnea extrema, intermitente, a pesar de tratamiento continúo mMCR 4. |
+| Exploración física. | Sin signos actuales de enfermedad. | Signos ausentes con tratamiento continuo o signos leves intermitentes. | Signos leves persistentes a pesar de tratamiento continuo o signos moderados intermitentes. | Signos moderados persistentes a pesar de tratamiento continuo o signos graves intermitentes. | Signos graves persistentes a pesar de tratamiento continuo o signos extremos intermitentes. |
 | Pruebas objetivas (CP): |
 | CVF. | CVF ≥ 30% del teórico y | CVF entre el 70% y el 79% del teórico o | CVF entre el 60% y el 69% del teórico o | CVF entre el 50% y el 59% del teórico o | CVF inferior al 50% del teórico o |
 | FEV1 (VEF1 o VEM1 o VEMS). | FEV1 ≥ 80% del teórico y | FEV1 entre el 65% y el 79% del teórico o | FEV1 entre el 64% y el 55% del teórico o | FEV1 entre el 45% y el 54% del teórico o | FEV1 inferior al 45% o |
@@ -2708,7 +2714,7 @@ Tabla 10.4 Criterios para la puntuación de la deficiencia permanente secundaria
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 2%-10% 2 4 6 8 10 | 11%-23% 11 14 17 20 23 | 24%-44% 24 29 34 39 44 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 2 %-10 % 2 4 6 8 10 | 11 %-23 % 11 14 17 20 23 | 24 %-44 % 24 29 34 39 44 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis. Hallazgos clínicos (medicación mínima necesaria, frecuencia de los ataques, etc.) | No precisa medicación. | Uso ocasional de broncodilatador (uso no diario). Asma intermitente o persistente leve o Síntomas < de una vez a la semana. | Inhalación diaria a bajas dosis de esteroides (< 500 mcg/día de beclometasona o equivalente: 1:1 con budesónida y 1:2 con fluticasona). Asma persistente leve o moderada o Síntomas > una vez a la semana. | Inhalación diaria a dosis medias o altas (de 500 a 1000 mcg por día) de esteroides y/o períodos breves de esteroides orales y broncodilatador de vida media larga. Uso diario de esteroides, sistémicos e inhalados y uso diario del máximo tratamiento con broncodilatadores. Asma persistente moderado o grave o Síntomas diarios discontinuos. | Asma no controlada con tratamiento. Asma persistente grave o Síntomas diarios continuos. |
 | Porcentaje teórico máximo del FEV1 tras broncodilatación. | > 80% | 70%-80% | 60%-69% | 50%-59% | < 50% |
 | Pruebas objetivas para graduar la hiperreactividad bronquial (CP) PC20 mg/mlb. | > 6 | 3-5 | 2-0,51 | 0,5-0,25 | < 0,24 |
@@ -2717,15 +2723,15 @@ El criterio PC20 indica y mide el grado de hiperreactividad bronquial. De manera
 
 10.2 Neumonitis por hipersensibilidad y Enfermedades Pulmonares Intersticiales Difusas (EPID).
 
-La evaluación debe realizarse utilizando los hallazgos establecidos en los criterios para la evaluación de la deficiencia de la disfunción pulmonar (Tabla 10.3).
+La evaluación debe realizarse utilizando los hallazgos establecidos en los criterios para la evaluación de la deficiencia de la disfunción pulmonar (tabla 10.3).
 
-Criterio especial de frecuencia para el asma, neumonitis por hipersensibiliad y EPID: En los casos en los que aunque la persona en situación basal intercrisis esté incluido en intervalo de gravedad 0,1 o 2 pero que sufra episodios de agudización documentados cada 2 meses o una media de 6 episodios al año, que requieran tratamiento hospitalario de al menos 24 horas, el criterio de frecuencia se considerará como Criterio Principal (CP) y será evaluado con un porcentaje de discapacidad de 33%. Cuando el paciente cumpla esos mismos criterios de frecuencia y su situación basal esté incluida en el intervalo de gravedad 3 se le asignará un porcentaje de discapacidad de 60 %.
+Criterio especial de frecuencia para el asma, neumonitis por hipersensibiliad y EPID: En los casos en los que aunque la persona en situación basal intercrisis esté incluido en intervalo de gravedad 0,1 o 2 pero que sufra episodios de agudización documentados cada 2 meses o una media de 6 episodios al año, que requieran tratamiento hospitalario de al menos 24 horas, el criterio de frecuencia se considerará como Criterio Principal (CP) y será evaluado con un porcentaje de discapacidad de 33 %. Cuando el paciente cumpla esos mismos criterios de frecuencia y su situación basal esté incluida en el intervalo de gravedad 3 se le asignará un porcentaje de discapacidad de 60 %.
 
 Estas situaciones deberán estar documentadas médicamente, precisándose un año de mantenimiento de la situación clínica para efectuar la evaluación. En todo caso, se realizará una evaluación provisional revisable a los dos años.
 
 10.3 Neumoconiosis.
 
-La evaluación debe realizarse utilizando los hallazgos establecidos en los criterios para la calificación de la deficiencia de la disfunción pulmonar (Tabla 10.3).
+La evaluación debe realizarse utilizando los hallazgos establecidos en los criterios para la calificación de la deficiencia de la disfunción pulmonar (tabla 10.3).
 
 10.4 Trastornos del sueño y otras deficiencias relacionadas con el aparato respiratorio [síndromes de apnea - hipopnea durante el sueño (SAHS)].
 
@@ -2735,7 +2741,7 @@ La presencia de SAHS debidamente tratada y sin complicaciones documentadas, se p
 
 Cuando el paciente, como complicación de las bronquiectasias o EPOC, presente infecciones broncopulmonares que requieran asistencia hospitalaria o de urgencias documentada, con una periodicidad igual o superior a una cada dos meses o una media de seis al año, y la reagudización de su sintomatología suponga un grado de limitación moderado para realizar las AVD, podrá ser considerada esta situación como Criterio Principal (CP) y será incluido en el intervalo de gravedad 3 (24-44%), considerando en estos casos los criterios de Exploración física y Pruebas objetivas como secundarios.
 
-Si el paciente presenta la misma frecuencia de infecciones broncopulmonares con asistencia hospitalaria documentada y/o su grado de limitación para realizar las AVD es grave será incluido en intervalo de gravedad 4 (45-65%).
+Si el paciente presenta la misma frecuencia de infecciones broncopulmonares con asistencia hospitalaria documentada y/o su grado de limitación para realizar las AVD es grave será incluido en intervalo de gravedad 4 (45-65 %).
 
 Estas situaciones deberán estar documentadas médicamente, precisándose un año de mantenimiento de la situación clínica para efectuar la valoración. En todo caso se realizará una evaluación provisional revisable a los dos años.
 
@@ -2753,17 +2759,17 @@ La evaluación será provisional, siendo el evaluador quien establezca el period
 
 En algunos trastornos circulatorios pulmonares, como la hipertensión arterial pulmonar primaria o secundaria a tromboembolismo pulmonar (TEP), las manifestaciones cardíacas pueden ser mucho más importantes que las respiratorias.
 
-Para la evaluación de deficiencias causadas por disfunción pulmonar debida a Tromboembolismo Pulmonar (TEP) se siguen los criterios de la Tabla 10.3 Criterios para la evaluación de la deficiencia permanente secundaria a alteración pulmonar. El porcentaje de deficiencia producido por esta disfunción deberá combinarse con el originado por la insuficiencia cardíaca derecha (tabla 8.14) o con los trastornos trombóticos (Tabla 9.8), en aquellas personas que los presenten.
+Para la evaluación de deficiencias causadas por disfunción pulmonar debida a Tromboembolismo Pulmonar (TEP) se siguen los criterios de la tabla 10.3 Criterios para la evaluación de la deficiencia permanente secundaria a alteración pulmonar. El porcentaje de deficiencia producido por esta disfunción deberá combinarse con el originado por la insuficiencia cardíaca derecha (tabla 8.10) o con los trastornos trombóticos (tabla 9.8), en aquellas personas que los presenten.
 
-Para la evaluación de deficiencias causadas por disfunción pulmonar debida a Hipertensión pulmonar se siguen los criterios del capítulo 8: Deficiencias del Sistema Cardiovascular que figuran en la Tabla 8.14.-Criterios para la puntuación de la deficiencia permanente secundaria a enfermedades de la arteria pulmonar.
+Para la evaluación de deficiencias causadas por disfunción pulmonar debida a Hipertensión pulmonar se siguen los criterios del capítulo 8: Deficiencias del Sistema Cardiovascular que figuran en la Tabla 8.10.-Criterios para la puntuación de la deficiencia permanente secundaria a enfermedades de la arteria pulmonar.
 
 10.9 Cor Pulmonale.
 
-La insuficiencia respiratoria crónica provoca hipertensión pulmonar y fracaso ventricular derecho. Se observa como insuficiencia cardíaca congestiva: ingurgitación yugular, hepatomegalia, edemas con fovea en zonas declives. Su evaluación siguen los criterios del capítulo 8: Deficiencias del Sistema Cardiovascular que figuran en la Tabla 8.14.
+La insuficiencia respiratoria crónica provoca hipertensión pulmonar y fracaso ventricular derecho. Se observa como insuficiencia cardíaca congestiva: ingurgitación yugular, hepatomegalia, edemas con fóvea en zonas declives. Su evaluación siguen los criterios del capítulo 8: Deficiencias del Sistema Cardiovascular que figuran en la tabla 8.14.
 
 10.10 Trasplante de pulmón.
 
-Se evalúa doce meses después del tratamiento, se procede a su evaluación con base en el estado funcional de la persona siguiendo los criterios para la evaluación de la deficiencia de la disfunción pulmonar. En todo caso se le incluirá como mínimo en el intervalo de gravedad 2 de la tabla 10.3 con puntuaciones de 11% a 23%. Dicha puntuación de la deficiencia en las personas trasplantadas incluirá la CCT y las posibles complicaciones por la inmunosupresión.
+Se evalúa doce meses después del tratamiento, se procede a su evaluación con base en el estado funcional de la persona siguiendo los criterios para la evaluación de la deficiencia de la disfunción pulmonar. En todo caso se le incluirá como mínimo en el intervalo de gravedad 2 de la tabla 10.3 con puntuaciones de 11 % a 23 %. Dicha puntuación de la deficiencia en las personas trasplantadas incluirá la CCT y las posibles complicaciones por la inmunosupresión.
 
 Capítulo 11
 
@@ -2775,17 +2781,17 @@ No serán objeto de evaluación aquellas patologías susceptibles de tratamiento
 
 Cuando la enfermedad digestiva produzca manifestaciones extraintestinales no sistémicas (caso de la colangitis esclerosante primaria en la colitis ulcerosa) deberá combinarse el porcentaje de originado por la deficiencia del tubo digestivo, con el porcentaje correspondiente a las otras manifestaciones.
 
-En casos de trastornos de la conducta alimentaria como en la anorexia nerviosa o bulimia, podemos encontramos con importante repercusión sobre el IMC (Índice de Masa Corporal) con caquexia u obesidad así como síntomas y signos clínicos de diferente intensidad, pertenecientes a diversos sistemas: digestivo (dispepsia, colitis..), hematopoyético, (anemia, neutropenia...) endocrino metabólico (amenorrea), osteoarticular (osteoporosis) conductuales y psiquiátricos, entre otros, con una repercusión variable sobre el funcionamiento y la necesidad de ingresos hospitalarios. Como norma general, para evitar duplicidades, y salvo casos excepcionales, la clínica se evaluara conjuntamente según la puntuación de la tabla 2.7: Criterios Generales para la puntuación de la deficiencia de los trastornos de la alimentación, incluido en la sección de trastornos de la conducta alimentaria, del capitulo 2.
+En casos de trastornos de la conducta alimentaria como en la anorexia nerviosa o bulimia, podemos encontrarnos con importante repercusión sobre el IMC (Índice de Masa Corporal) con caquexia u obesidad así como síntomas y signos clínicos de diferente intensidad, pertenecientes a diversos sistemas: digestivo (dispepsia, colitis..), hematopoyético, (anemia, neutropenia...) endocrino metabólico (amenorrea), osteoarticular (osteoporosis) conductuales y psiquiátricos, entre otros, con una repercusión variable sobre el funcionamiento y la necesidad de ingresos hospitalarios. Como norma general, para evitar duplicidades, y salvo casos excepcionales, la clínica se evaluará conjuntamente según la puntuación de la tabla 2.7: Criterios Generales para la puntuación de la deficiencia de los trastornos de la alimentación, incluido en la sección de trastornos de la conducta alimentaria, del capitulo 2.
 
 El concepto de CCT se aplica en este capítulo según lo que se indica en el Apéndice sobre CCT. Debido a la diversidad de la utilización sistémica de corticoides, se asigna un 3% adicional a la puntuación de deficiencia cuando se administra este tratamiento de forma diaria para controlar una enfermedad; no obstante, para su evaluación se requiere la justificación del evaluador.
 
-Los programas de nutrición parenteral domiciliarios, a la vez que mejoran la vida diaria, pueden repercutir en sus AVD; este impacto adicional se tiene en cuenta al añadir puntos al porcentaje, derivados de la «Carga de Cumplimiento del Tratamiento» (CCT) para la puntuación de deficiencia del tracto gastrointestinal (GI), con un porcentaje de deficiencia adicional del 10%.
+Los programas de nutrición parenteral domiciliarios, a la vez que mejoran la vida diaria, pueden repercutir en sus AVD; este impacto adicional se tiene en cuenta al añadir puntos al porcentaje, derivados de la "Carga de Cumplimiento del Tratamiento" (CCT) para la puntuación de deficiencia del tracto gastrointestinal (GI), con un porcentaje de deficiencia adicional del 10%.
 
 La pérdida de peso es un hallazgo fundamental para evaluar la gravedad y las consecuencias de los trastornos del tracto gastrointestinal (GI), y suele ser el hallazgo más significativo de la exploración física. Para evaluar la deficiencia secundaria a los trastornos digestivos, se determina el peso deseable a partir de las Tablas 11.1 y 11.2.
 
 Tabla 11.1 Pesos ideales para hombres en función de la altura y de la constitución corporal
 
-| Altura en cm | Peso en Kg |
+| Altura en cm | Peso en kg |
 | --- | --- |
 | Franja inferior | Franja media | Franja superior |
 | 157 | 58,0-60,7 | 59,2-63,9 | 62,5-67,8 |
@@ -2860,20 +2866,20 @@ Tabla 11.3 Criterios para puntuar la deficiencia del tracto digestivo superior (
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-14% 1 4 7 10 14 | 15%-29% 15 18 21 24 29 | 30%-44% 30 33 36 39 44 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-14 % 1 4 7 10 14 | 15 %-29 % 15 18 21 24 29 | 3 0%-44 % 30 33 36 39 44 | 45 %-6 5% 45 50 55 60 65 |
 | Anamnesis (CP). | Antecedentes previos de enfermedad del tracto digestivo superior; ausencia de síntomas actuales. | Síntomas o signos de enfermedad de tracto digestivo superior, mínimos frecuentes o síntomas leves ocasionales y Precisa tratamiento continuo u ocasional. | Síntomas o signos de enfermedad de tracto digestivo superior, leves frecuentes, o bien síntomas moderados ocasionales y Si cursa en brotes su frecuencia de remisión es superior a seis meses Y Precisa medicación diaria y/o requiere restricciones dietéticas o Persona trasplantada*. | Síntomas o signos de enfermedad de tracto digestivo superior moderados frecuentes o bien síntomas graves ocasionales y Si cursa en brotes su frecuencia de remisión es inferior seis meses y Precisa medicación diaria y/o requiere restricciones dietéticas. | Síntomas o signos de enfermedad de tracto digestivo superior graves frecuentes o bien síntomas extremos ocasionales y Si cursa en brotes su frecuencia de remisión es inferior a un mes y Precisa medicación diaria y/o requiere restricciones dietéticas o Alimentación parenteral. |
 | Exploración física. | Mantiene peso ideal. | Mantiene peso ideal. | Pérdida ponderal inferior al 10% del peso ideal debida a trastorno del tracto digestivo superior. | Pérdida ponderal entre el 10-20% por debajo del peso ideal debida a trastorno del tracto digestivo superior. | Pérdida ponderal superior al 20% por debajo del peso ideal debida a trastorno del tracto digestivo superior. |
 | Resultados de las pruebas objetivas. | Sin anomalías objetivas. | Se objetiva alteración anatómica o deficiencia funcional leve. | Se objetiva alteración anatómica o deficiencia funcional moderada. | Se objetiva alteración anatómica o deficiencia funcional grave. | Se objetiva alteración anatómica o deficiencia funcional extrema o ausencia completa del órgano. |
 | * La puntuación de la deficiencia en las personas trasplantadas incluirá la CCT y las posibles complicaciones por la inmunosupresión. |
 
-En el intervalo 1, como la pérdida de peso no contribuye a la puntuación de la deficiencia, la presencia tanto de los síntomas como de las anomalías objetivadas indica una puntuación del 7%. Los síntomas sin anomalías en las pruebas objetivas justifican sólo el 1% de deficiencia.
+En el intervalo 1, como la pérdida de peso no contribuye a la puntuación de la deficiencia, la presencia tanto de los síntomas como de las anomalías objetivadas indica una puntuación del 7 %. Los síntomas sin anomalías en las pruebas objetivas justifican sólo el 1% de deficiencia.
 
 Tabla 11.4 Criterios para puntuar la deficiencia colónica o rectal
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-14% 1 4 7 10 14 | 15%-29% 15 18 21 24 29 | 30%-44% 30 33 36 39 44 | 45%-65% 45 50 55 60 65 |
-| Anamnesis (CP). | Antecedentes previos de enfermedad del tracto colónico o rectal, no se espera reaparición; sin síntomas activos. | Síntomas o signos de enfermedad colónica o rectal leves ocasionales o síntomas mínimos continuos y Precisa tratamiento continuo u ocasional. | Síntomas o signos de enfermedad colónica o rectal leves frecuentes o signos y síntomas moderados ocasionales a pesar de tratamiento diario y/o restricciones dietéticas adecuadas y Si cursa en brotes su frecuencia de remisión es superior a los seis meses. | Síntomas o signos de enfermedad colónica o rectal moderados frecuentes o signos y síntomas graves ocasionales a pesar de tratamiento diario y/o restricciones dietéticas adecuadas y Si cursa en brotes su frecuencia de remisión es inferior a los seis meses. | Síntomas o signos de enfermedad colónica o rectal graves frecuentes o bien síntomas extremos ocasionales a pesar de tratamiento diario y/o restricciones dietéticas adecuadas y Si cursa en brotes su frecuencia de remisión es inferior a un mes. |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-14 % 1 4 7 10 14 | 15 %-29 % 15 18 21 24 29 | 30 %-44 % 30 33 36 39 44 | 45 %-65 % 45 50 55 60 65 |
+| Anamnesis (CP). | Antecedentes previos de enfermedad del tracto colónico o rectal, no se espera reaparición; sin síntomas activos. | Síntomas o signos de enfermedad colónica o rectal leves ocasionales o síntomas mínimos continuos y precisa tratamiento continuo u ocasional. | Síntomas o signos de enfermedad colónica o rectal leves frecuentes o signos y síntomas moderados ocasionales a pesar de tratamiento diario y/o restricciones dietéticas adecuadas y si cursa en brotes su frecuencia de remisión es superior a los seis meses. | Síntomas o signos de enfermedad colónica o rectal moderados frecuentes o signos y síntomas graves ocasionales a pesar de tratamiento diario y/o restricciones dietéticas adecuadas y si cursa en brotes su frecuencia de remisión es inferior a los seis meses. | Síntomas o signos de enfermedad colónica o rectal graves frecuentes o bien síntomas extremos ocasionales a pesar de tratamiento diario y/o restricciones dietéticas adecuadas y si cursa en brotes su frecuencia de remisión es inferior a un mes. |
 | Exploración física. | Ausencia de signos de enfermedad colónica o rectal. | Signos ocasionales de enfermedad colónica o rectal; nutrición normal. | Manifestaciones constitucionales como fiebre anemia, anorexia..., o pérdida de peso por debajo del peso ideal que no supera el 10%. | Pérdida de peso entre un 10% y 20% por debajo del peso ideal secundaria a trastorno colónico o rectal. | Pérdida de peso superior al 20% respecto al peso ideal secundaria a trastorno colónico o rectal. |
 | Resultados de las pruebas objetivas. | No hay anormalidades objetivas. | Se objetiva alteración anatómica o deficiencia funcional leve. | Se objetiva alteración anatómica o deficiencia funcional moderada. | Se objetiva alteración anatómica o deficiencia funcional grave. | Se objetiva alteración anatómica o deficiencia funcional extrema con posible corrección quirúrgica o ausencia completa del órgano. |
 
@@ -2885,9 +2891,9 @@ Tabla 11.5 Criterios para puntuar la deficiencia permanente secundaria a enferme
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 2 3 4 5 | 6%-10% 6 7 8 9 10 | 12%-20% 12 14 16 18 20 | 22%-30% 22 24 26 28 30 |
-| Anamnesis. | Antecedentes previos de enfermedad anal; ausencia de síntomas actuales. | Síntomas o signos de enfermedad anal mínimos frecuentes o síntomas leves ocasionales y Precisa tratamiento continuo u ocasional. | Síntomas o signos de enfermedad anal leves frecuentes o síntomas moderados ocasionales a pesar del tratamiento diario de la enfermedad y Si cursa en brotes su frecuencia de remisión es superior a los seis meses. | Síntomas o signos de enfermedad anal moderados frecuentes o síntomas graves ocasionales a pesar de la medicación diaria y/u otros tratamientos y Si cursa en brotes su frecuencia de remisión es inferior a los seis meses. | Síntomas o signos de enfermedad anal graves frecuentes o síntomas extremos ocasionales a pesar de la medicación diaria y/u otros tratamientos y Si cursa en brotes su frecuencia de remisión es inferior a un mes. |
-| Exploración física (CP). | Ausencia de signos de enfermedad anal. | Signos de enfermedad orgánica anal leves frecuentes o continuos. | Signos de enfermedad orgánica anal moderados frecuentes o continuos o Pérdida leve del mecanismo del esfínter anal. | Signos de enfermedad orgánica anal graves frecuentes o continuos o Pérdida moderada del mecanismo del esfínter anal. | Signos de enfermedad orgánica anal extremos frecuentes o continuos o Pérdida completa del mecanismo del esfínter anal. |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 2 3 4 5 | 6 %-10 % 6 7 8 9 10 | 12 %-20 % 12 14 16 18 20 | 22 %-30 % 22 24 26 28 30 |
+| Anamnesis. | Antecedentes previos de enfermedad anal; ausencia de síntomas actuales. | Síntomas o signos de enfermedad anal mínimos frecuentes o píntomas leves ocasionales y precisa tratamiento continuo u ocasional. | Síntomas o signos de enfermedad anal leves frecuentes o síntomas moderados ocasionales a pesar del tratamiento diario de la enfermedad y si cursa en brotes su frecuencia de remisión es superior a los seis meses. | Síntomas o signos de enfermedad anal moderados frecuentes o síntomas graves ocasionales a pesar de la medicación diaria y/u otros tratamientos y si cursa en brotes su frecuencia de remisión es inferior a los seis meses. | Síntomas o signos de enfermedad anal graves frecuentes o síntomas extremos ocasionales a pesar de la medicación diaria y/u otros tratamientos y si cursa en brotes su frecuencia de remisión es inferior a un mes. |
+| Exploración física (CP). | Ausencia de signos de enfermedad anal. | Signos de enfermedad orgánica anal leves frecuentes o continuos. | Signos de enfermedad orgánica anal moderados frecuentes o continuos o pérdida leve del mecanismo del esfínter anal. | Signos de enfermedad orgánica anal graves frecuentes o continuos o pérdida moderada del mecanismo del esfínter anal. | Signos de enfermedad orgánica anal extremos frecuentes o continuos o pérdida completa del mecanismo del esfínter anal. |
 | Resultados de las pruebas objetivas. | Pruebas normales. | Se objetiva evidencia mínima de enfermedad anal o rectal. | Se objetiva evidencia leve de enfermedad crónica anal o rectal con alteración anatómica o deficiencia funcional leve. | Se objetiva evidencia moderada de enfermedad crónica anal o rectal con alteración anatómica o deficiencia funcional moderada. | Se objetiva evidencia grave de enfermedad crónica anal o rectal con alteración anatómica o deficiencia funcional grave. |
 
 Tabla 11.6 Deficiencias derivadas de la creación quirúrgica de estomas
@@ -2917,7 +2923,7 @@ Tabla 11.7 Escala de Child-Pugh
 | Encefalopatía. | Ausente | Grado 1-2 | Grado 3-4 |
 | Ascitis. | Ausente | Leve | Moderada |
 | Bilirrubina sérica. | < 2 mg/dl | 2-3 mg/dl | > 3 mg/dl |
-| Albúmina sérica. | > 35 g/I | 28-35 g/I | < 28 g/I |
+| Albúmina sérica. | > 35 g/l | 28-35 g/l | < 28 g/l |
 | INR / Tiempo de protrombina. | < 1,8 | 1,8-2,3 | > 2,3 |
 | Bilirrubina (en cirrosis biliar primaria). | < 4 mg/dl | 4-10 mg/dl | > 10 mg/dl |
 
@@ -2931,10 +2937,10 @@ Tabla 11.8 Criterios para la puntuación de la deficiencia hepática
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-14% 1 4 7 10 14 | 15%-29% 15 18 21 24 29 | 30%-44% 30 33 36 39 44 | 45%-65% 45 50 55 60 65 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-14 % 1 4 7 10 14 | 15 %-29 % 15 18 21 24 29 | 30 %-44 % 30 33 36 39 44 | 45 %-65 % 45 50 55 60 65 |
 | Anamnesis (CP). | Antecedentes de enfermedad hepática resuelta. | Enfermedad hepática persistente sin síntomas y sin antecedentes de ascitis, ictericia o hemorragia por varices esofágicas en los últimos 3 años; poco probable que la enfermedad progrese Child-Pugh: A. | Antecedentes de hepatopatía crónica sin síntomas y sin historia de ascitis, ictericia o hemorragia por varices esofágicas en el último año. Persona trasplantada*. Child-Pugh: A. | Enfermedad hepática crónica progresiva que presenta historia en el último año de manifestaciones ascíticas, ictéricas o hemorragia por varices esofágicas o encefalopatía hepática. Child-Pugh: B. | Enfermedad hepática crónica progresiva con historia presente de ictericia, ascitis o hemorragia esofágica o varices gástricas persistentes, con manifestaciones de insuficiencia hepática sobre el SNC Child-Pugh: C. |
-| Exploración físicab. | Ausencia de signos de enfermedad hepática o del tracto biliar. | Buen estado nutricional. Fuerza conservada. Ausencia de signos de enfermedad hepática o presencia mínima. | Buen estado nutricional. Fuerza conservada. Signos leves de enfermedad hepática. | Signos cutáneos y oculares de enfermedad hepática crónica con afectación moderada del estado nutricional y de la fuerza. | Estado nutricional deficiente. |
-| Resultados de las pruebas objetivasc. | Pruebas normales. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican alteración leve de la función o trastornos primarios del metabolismo de la bilirrubina. Fibrosis 0 a 1. Fibroscan < 7. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican daño hepático moderado o alteración de la función. Fibrosis 2. Fibroscan 7 a 9,4. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican daño hepático grave con repercusión sistémica de la enfermedad tal como alteración de las proteínas, de la albúmina o de los criterios de coagulación. Fibrosis 3. Fibroscan 9,4 a 12. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican daño hepático extremo e irreversible con repercusión sistémica significativa de la enfermedad tal como alteración de las proteínas, de la albúmina o de los criterios de coagulación. Fibrosis 4. Fibroscan > 12. |
+| Exploración físicab. | Ausencia de signos de enfermedad hepática o del tracto biliar. | Buen estado nutricional. Fuerza conservada. Ausencia de signos de enfermedad hepática o presencia mínima. | Buen estado nutricional. Fuerza conservada. Signos leves de enfermedad hepática. | Signos cutáneos y oculares de enfermedad hepática crónica con afectación moderada del estado nutricional y de la fuerza. | Estado nutritional deficient. |
+| Resultados de las pruebas objetivas. | Pruebas normales. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican alteración leve de la función o trastornos primarios del metabolismo de la bilirrubina. Fibrosis 0 a 1. Fibroscan < 7. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican daño hepático moderado o alteración de la función. Fibrosis 2. Fibroscan 7 a 9,4. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican daño hepático grave con repercusión sistémica de la enfermedad tal como alteración de las proteínas, de la albúmina o de los criterios de coagulación. Fibrosis 3. Fibroscan 9,4 a 12. | Las pruebas bioquímicas, de imagen y/o estudios funcionales indican daño hepático extremo e irreversible con repercusión sistémica significativa de la enfermedad tal como alteración de las proteínas, de la albúmina o de los criterios de coagulación. Fibrosis 4. Fibroscan > 12. |
 | ‒ Si no se realiza la exploración física, no considere este factor en la puntuación. ‒ Los hallazgos hematológicos y neurológicos se puntúan según lo indicado para esos sistemas y se combinan con la puntuación de deficiencia hepática. * La puntuación de la deficiencia en las personas trasplantadas incluirá la CCT y las posibles complicaciones por la inmunosupresión. |
 
 Tabla 11.9 Criterios para la puntuación de la deficiencia del tracto biliar
@@ -2942,7 +2948,7 @@ Tabla 11.9 Criterios para la puntuación de la deficiencia del tracto biliar
 | Enfermedad del tracto biliar |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-9% 1 3 5 7 9 | 11%-19% 11 13 15 17 19 | 21%-29% 21 23 25 27 29 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-9 % 1 3 5 7 9 | 11 %-19 % 11 13 15 17 19 | 21 %-29 % 21 23 25 27 29 |
 | Anamnesis (CP). | Antecedentes de enfermedad del tracto biliar. | Deficiencia ocasional del tracto biliar o antecedentes de colecistectomía. | Deficiencia recurrente del tracto biliar con enfermedad reparable entre episodios. | Deficiencia irreparable del tracto biliar con colangitis recurrente y/o Necesidad de endoprotesis biliar permanente. |
 | Exploración físicab. | Ausencia de signos de enfermedad del tracto biliar. | Signos intermitentes de enfermedad del tracto biliar - ausencia de ictericia. | Signos recurrentes de enfermedad del tracto biliar - episodios intermitentes de ictericia. | Episodios recurrentes de dolor en cuadrante abdominal superior derecho e ictericia permanente. |
 | Resultados de las pruebas objetivas. | Pruebas normales. | Las pruebas de laboratorio y los estudios de imagen muestran enfermedad leve del tracto biliar. | Las pruebas de laboratorio y los estudios de imagen indican enfermedad moderada del tracto biliar. | Las pruebas de laboratorio y los estudios de imagen muestran enfermedad crónica grave del tracto biliar. |
@@ -2954,8 +2960,8 @@ Tabla 11.10 Criterios para la puntuación de la deficiencia por hernias de la pa
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 4 | 5% 13% 5 9 13 | 16%-22% 16 19 22 | 25%-30% 25 27 30 |
 | Anamnesis. | Antecedentes de hernia intervenida en la actualidad sin síntomas. | Antecedentes de hernia intervenida con molestia ocasional leve en la localización del defecto que no afecta a la mayoría de las actividades diarias. | Antecedentes de hernia intervenida con molestia frecuente en la localización del defecto que limita el coger peso (mayor de 23 Kg, en el caso de los hombres; 16 Kg, en el caso de las mujeres.) Con limitación leve en las AVD. | Antecedentes de hernia intervenida o irreparable molestia frecuente en la localización del defecto que limita de forma leve a moderada las actividades diarias. | Antecedentes de hernia intervenida o irreparable que presenta limitación de moderada a grave en la mayoría de las actividades diarias por molestia o factores anatómicos. |
-| Exploración física (CP). | Ausencia de signos físicos. | Defecto palpable en las estructuras de soporte de la pared abdominal y Protusión leve en la localización del defecto con aumento de la presión abdominal - fácilmente reducible. | Defecto palpable en las estructuras de soporte de la pared abdominal y Protusión moderada en la localización del defecto con aumento de la presión abdominal - fácilmente reducible. | Defecto palpable en las estructuras de soporte de la pared abdominal y Protusión grave en la localización del defecto persistente e irreducible. | Defecto palpable en las estructuras de soporte de la pared abdominal y Protusión completa e irreductible de la pared abdominal. |
-| Si un individuo se clasifica en la clase 4, tanto por la anamnesis como por la exploración física, se puntúa con un 30%. Si no, se escoge el grado inferior. |
+| Exploración física (CP). | Ausencia de signos físicos. | Defecto palpable en las estructuras de soporte de la pared abdominal y protusión leve en la localización del defecto con aumento de la presión abdominal - fácilmente reducible. | Defecto palpable en las estructuras de soporte de la pared abdominal y protusión moderada en la localización del defecto con aumento de la presión abdominal - fácilmente reducible. | Defecto palpable en las estructuras de soporte de la pared abdominal y protusión grave en la localización del defecto persistente e irreducible. | Defecto palpable en las estructuras de soporte de la pared abdominal y protusión completa e irreductible de la pared abdominal. |
+| Si un individuo se clasifica en la clase 4, tanto por la anamnesis como por la exploración física, se puntúa con un 30 %. Si no, se escoge el grado inferior. |
 
 Capítulo 12
 
@@ -2963,9 +2969,9 @@ Capítulo 12
 
 En este capítulo se evalúan únicamente los hallazgos clínicos no atribuibles a la alteración de otros órganos y sistemas, como serían la fatiga, astenia, debilidad y pérdida de peso etc. Aquellos otros hallazgos debidos a trastornos locales o a distancia se evaluarán siguiendo los criterios del capítulo correspondiente al órgano, sistema o función alterada, debiéndose combinar posteriormente ambos porcentajes.
 
-Evaluación de la obesidad: La obesidad es un trastorno metabólico muy frecuente en cuyo origen nos encontramos múltiples factores: metabólicos, genéticos, culturales, conductuales etc. En general no será considerada como una deficiencia permanente y se evaluara en todo caso la comorbilidad asociada a ella una vez alcanzada la Máxima Mejoría Clínica (MMC), no la obesidad en sí misma. Excepcionalmente, en casos en los que la evaluación no quede lo suficientemente reflejada en otros apartados y cumpliendo criterios: 1°. De obesidad mórbida con IMC > 40; 2°. Después de haber fracasado y agotado todos los intentos terapéuticos médicos y quirúrgicos, y estar estos documentados, podrá evaluarse como deficiencia permanente, tomando como criterio principal para la graduación de la misma, la repercusión de esta sobre las actividades diarias, según la puntuación obtenida en el Baremo de Limitación en la Actividad (BLA).
+Evaluación de la obesidad: La obesidad es un trastorno metabólico muy frecuente en cuyo origen nos encontramos múltiples factores: metabólicos, genéticos, culturales, conductuales etc. En general no será considerada como una deficiencia permanente y se evaluará en todo caso la comorbilidad asociada a ella una vez alcanzada la Máxima Mejoría Clínica (MMC), no la obesidad en sí misma. Excepcionalmente, en casos en los que la evaluación no quede lo suficientemente reflejada en otros apartados y cumpliendo criterios: 1.º. De obesidad mórbida con IMC > 40; 2.º. Después de haber fracasado y agotado todos los intentos terapéuticos médicos y quirúrgicos, y estar estos documentados, podrá evaluarse como deficiencia permanente, tomando como criterio principal para la graduación de la misma, la repercusión de esta sobre las actividades diarias, según la puntuación obtenida en el Baremo de Limitación en la Actividad (BLA).
 
-12.1.a Deficiencias basadas en la carga de cumplimiento del tratamiento. Tablas y Reglas para determinar el total de puntos de la CCT.
+12.1 Deficiencias basadas en la carga de cumplimiento del tratamiento. Tablas y reglas para determinar el total de puntos de la CCT.
 
 1. Tratamiento farmacológico: Los puntos en concepto de CCT se asignan en función de la frecuencia de uso y la vía de administración.
 
@@ -2975,7 +2981,7 @@ Tabla 12.1 Tratamientos farmacológicos enterales, nasales y tópicos
 | --- | --- |
 | Sin pauta (a demanda). | 1 |
 | 1-2 veces por día. | 2 |
-| > 2 veces al día. | 2 |
+| > 2 veces al día. | 3 |
 
 Tabla 12.2 Tratamientos farmacológicos parenterales
 
@@ -2986,7 +2992,7 @@ Tabla 12.2 Tratamientos farmacológicos parenterales
 | 1-2 veces por día. | 4 |
 | > 2 veces por día. | 5 |
 
-2. Modificaciones dietéticas: Los puntos en concepto de CCT se asignan cuando se necesita tratamiento dietético para controlar o modificar el trastorno endocrinológico.
+2. Modificaciones dietéticas: los puntos en concepto de CCT se asignan cuando se necesita tratamiento dietético para controlar o modificar el trastorno endocrinológico.
 
 Tabla 12.3 Puntuaciones asignadas para las modificaciones dietéticas
 
@@ -3013,14 +3019,14 @@ Puntos por tratamiento farmacológico + puntos por modificaciones dietéticas + 
 
 La deficiencia endocrina se reflejará fundamentalmente en su CCT, por tanto y a diferencia de otros capítulos, para la determinación de la deficiencia endocrinológica total de la persona, la puntuación resultante una vez obtenido el CCT, no se sumará al final de dicho capítulo, sino que se utilizará desde un principio para asignar un intervalo concreto de gravedad y como criterio secundario de modificador de grado. En todo caso el porcentaje final asignado tendrá que ser igual o superior a la puntuación CCT.
 
-Deficiencias debidas a enfermedades del sistema endrocrinometabólico:
+12.2 Deficiencias debidas a enfermedades del sistema endrocrinometabólico:
 
 Tabla 12.5 Criterios para la puntuación de la deficiencia secundaria a trastornos del eje hipotálamo-hipofisario
 
 | Eje hipotálamo-hipofisario |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-3% 1 2 3 | 4%-6% 4 5 6 | 7%10% 7 8 9 10 | 11%14% 11 12 14 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-3 % 1 2 3 | 4 %-6 % 4 5 6 | 7 %10 % 7 8 9 10 | 11 %14 % 11 12 14 |
 | Anamnesis (CP). | Presencia de trastorno hipotálamohipofisario. No precisa tratamiento. | Presencia de trastorno hipotálamohipofisario. Precisa tratamiento intermitente. Ausencia de síntomas residuales. | Presencia de trastorno hipotálamohipofisario. Precisa tratamiento diario. Ausencia de síntomas residuales. | Presencia de trastorno hipotálamohipofisario. Precisa tratamiento diario. Síntomas residuales leves. | Presencia de trastorno hipotálamohipofisario. Precisa tratamiento diario. Síntomas residuales moderados a graves. |
 | CCT. | 0 puntos. | 1-2 puntos. | 3-6 puntos. | 7-10 puntos. | > 11 puntos. |
 
@@ -3029,7 +3035,7 @@ Tabla 12.6 Criterios para la puntuación de la deficiencia secundaria a trastorn
 | Trastornos del tiroides |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
-| Graduación de la gravedad DTP (%) | 0 | 1 %-5% 1 2 3 4 5 | 6%-10% 6 7 8 9 10 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 2 3 4 5 | 6 %-10 % 6 7 8 9 10 |
 | Anamnesis (CP). | Presencia de trastorno tiroideo. No requiere tratamiento. Ausencia de síntomas residuales. | Presencia de trastorno tiroideo. Requiere tratamiento. Ausencia de síntomas residuales. | Presencia de trastorno tiroideo. Requiere tratamiento. Se demuestra alteración hormonal a pesar del tratamiento y síntomas residuales. |
 | Exploración física. | Exploración del tiroides normal. | Bocio residual o nódulo destacable estéticamente ≤ 1,5 cm. | Bocio residual o nódulo destacable estéticamente > 1,5 cm. |
 | CCT. | 0 puntos. | 1-3 puntos. | ≥ 4 puntos. |
@@ -3039,7 +3045,7 @@ Tabla 12.7 Criterios para la puntuación de la deficiencia secundaria a trastorn
 | Trastornos de las paratiroides |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
-| Graduación de la gravedad DTP (%) | 0 | 1 %-3% 1 2 3 | 4%-8% 4 5 6 7 8 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-3 % 1 2 3 | 4 %-8 % 4 5 6 7 8 |
 | Anamnesis (CP). | Presencia de trastorno paratiroideo. No requiere tratamiento. Ausencia de síntomas residuales. | Presencia de trastorno paratiroideo. Requiere tratamiento. Ausencia de síntomas residuales. | Presencia de trastorno paratiroideo. Requiere tratamiento. Presencia de signos residuales. |
 | Exploración física. | Exploración física y calcemia normales. | Exploración física y calcemia normales. | Presencia de signos residuales y/o calcemia anómala. |
 | CCT. | 0 puntos. | 1-2 puntos. | ≥ 3 puntos. |
@@ -3049,7 +3055,7 @@ Tabla 12.8 Criterios para la puntuación de la deficiencia secundaria a trastorn
 | Trastornos de la corteza adrenal |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-4% 1 2 3 4 | 5%-9% 5 7 9 | 10%-20% 10 15 20 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-4 % 1 2 3 4 | 5 %-9 % 5 7 9 | 10 %-20 % 10 15 20 |
 | Anamnesis (CP). | Presencia de trastorno adrenal. No requiere tratamiento. Asintomático. | Presencia de trastorno adrenal. Requiere tratamiento. Ausencia de signos y/o síntomas residuales. Ausencia de anomalías bioquímicas. | Presencia de trastorno adrenal. Requiere tratamiento. Presenta síntomas residuales de la enfermedad activa. Ausencia de anomalías bioquímicas. | Presencia de trastorno adrenal. Requiere tratamiento. Presenta síntomas residuales de enfermedad activa. Anomalías bioquímicas. |
 | CCT. | 0 puntos. | 1-4 puntos. | 5-7 puntos. | ≥ 8 puntos. |
 
@@ -3058,11 +3064,11 @@ Tabla 12.9 Criterios para la puntuación de la deficiencia secundaria a alteraci
 | Trastornos de la médula adrenal |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 6%-15% 610 15 | 20%-30% 20 25 30 | 40%-60% 40 50 60 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 6 %-15 % 610 15 | 20 %-30 % 20 25 30 | 40 %-60 % 40 50 60 |
 | Anamnesis. | Presencia de trastorno de médula adrenal. No requiere tratamiento. Asintomático. | Presencia de trastorno de médula adrenal. Requiere tratamiento. No síntomas residuales. | Presencia de trastorno de médula adrenal. Presenta signos y síntomas de exceso de catecolaminas que pueden ser controlados con agentes bloqueantes la mayor parte del tiempo (>50%). | Presencia de trastorno de médula adrenal. Presenta signos y síntomas de exceso de catecolaminas que pueden ser controlados con agentes bloqueantes algunas veces (> 24% y 50%) del tiempo. | Presencia de trastorno de médula adrenal. Presenta signos y síntomas de exceso de catecolaminas que pueden ser controlados con agentes bloqueantes en contadas ocasiones (< 25% del tiempo). |
 | CCT. | 0 puntos. | 1-3 puntos. | 4-6 puntos. | 7-10 puntos. | > 11 puntos. |
 
-12.7 a criterios para la evaluación de la deficiencia secundaria a diabetes mellitus.
+12.3 Criterios para la evaluación de la deficiencia secundaria a diabetes mellitus.
 
 Criterio de situación especial de frecuencia de descompensaciones: En aquellos pacientes que por causa diferente al mal seguimiento del tratamiento y normas higiénicodietéticas, requiera de hospitalizaciones periódicas por descompensaciones agudas de su Diabetes, con una periodicidad de dos o más por año y con una duración de más de 48 horas cada una, se le atribuirá un porcentaje mínimo de deficiencia del 33%. En todo caso la evaluación será provisional y revisable cada dos años.
 
@@ -3073,8 +3079,8 @@ Tabla 12.10 Criterios para la puntuación de la deficiencia permanente secundari
 | Diabetes mellitus |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 2 3 4 5 | 6%-10% 6 7 8 9 10 | 11%-15% 11 12 13 14 15 | 16%-28% 16 19 22 25 28 |
-| Anamnesis (CP). | Antecedentes de intolerancia a la glucosa, diagnosticada a nivel bioquímico, que no requiere tratamiento o modificación dietética. | Diabetes y/o Síndrome metabólico, diagnosticada a nivel bioquímico, con tratamiento único oral relativamente sencillo y régimen dietético; no se utiliza insulina. | Diabetes y/o Síndrome metabólico, diagnosticada generalmente bien controlada a nivel bioquímico, con tratamiento a base de 2-3 fármacos orales o insulina y modificaciones dietéticas. | Diabetes diagnosticada a nivel bioquímico, generalmente no bien controlada con ≥ 4 fármacos orales o insulina y modificaciones dietéticas importantes. Puede haber signos de vasculopatía o polineuropatía diabética como retinopatía o micro albuminuria. | Diabetes diagnosticada a nivel bioquímico, que no se controla de manera adecuada con ningún régimen terapéutico y cumplimiento del mismo y de modificaciones dietéticas intensas. Se objetiva por determinaciones repetidamente anómalas de glucose. Evidencia de vasculopatía o polineuropatía diabética. |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 2 3 4 5 | 6 %-10 % 6 7 8 9 10 | 11 %-15 % 11 12 13 14 15 | 16 %-28 % 16 19 22 25 28 |
+| Anamnesis (CP). | Antecedentes de intolerancia a la glucosa, diagnosticada a nivel bioquímico, que no requiere tratamiento o modificación dietética. | Diabetes y/o Síndrome metabólico, diagnosticada a nivel bioquímico, con tratamiento único oral relativamente sencillo y régimen dietético; no se utiliza insulina. | Diabetes y/o Síndrome metabólico, diagnosticada generalmente bien controlada a nivel bioquímico, con tratamiento a base de 2-3 fármacos orales o insulina y modificaciones dietéticas. | Diabetes diagnosticada a nivel bioquímico, generalmente no bien controlada con 2-3 fármacos orales o insulina y modificaciones dietéticas importantes. Puede haber signos de vasculopatía o polineuropatía diabética como retinopatía o micro albuminuria. | Diabetes diagnosticada a nivel bioquímico, que no se controla de manera adecuada con ningún régimen terapéutico y cumplimiento del mismo y de modificaciones dietéticas intensas. Se objetiva por determinaciones repetidamente anómalas de glucose. Evidencia de vasculopatía o polineuropatía diabética. |
 | Resultados de las pruebas objetivas. | HbA1c normal < 0,06 (< 6%). | HbA1c normal, 0,06-0,065 (6%-6,5%). | HbA1c normal- elevada, 0,06- 0,08 (6,6%-8%). | HbA1c elevada, 0,081-0,10 (8,1%-10%). | HbA1c elevada, > 0,10 (> 10%). |
 | CCT. | 0 puntos. | 1-5 puntos. | 6-10 puntos. | 11-15 puntos. | ≥ 16 puntos. |
 | HbA1c (Hemoglobina glucosilada): Muestra la cantidad promedio de azúcar en su sangre durante tres meses. Los menores que requieran obligatoriamente la ayuda de un adulto más de 3 o cuatro veces por día para la administración de la insulina y control de las glucemias, se clasificaran como criterio principal en el intervalo 4 provisionalmente, hasta adquirir una independencia en su tratamiento. |
@@ -3084,7 +3090,7 @@ Tabla 12.11 Criterios para la puntuación de la deficiencia secundaria a hipoglu
 | Hipoglucemia |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
-| Graduación de la gravedad DTP (%) | 0 | 1 2 3 4 5 | 6 7 8 9 10 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 2 3 4 5 | 6 %-10 % 6 7 8 9 10 |
 | Anamnesis (CP). | Antecedentes de hipoglucemia, demostrada bioquímicamente, que no requiere ningún tratamiento. | Antecedentes de hipoglucemia, demostrada bioquímicamente, controlada con tratamiento. | Antecedentes de hipoglucemia, demostrada bioquímicamente, no controlada con el tratamiento. |
 | Resultado de las pruebas objetivas. | HbA1c normal < 0,06 (< 6%). | HbA1c normal, 0,06-0,065 (6%-6,5%). | HbA1c normal-elevada, 0,06-0,08 (6,6%-8%). |
 | CCT. | 0 puntos. | 1-5 puntos. | ≥ 6 puntos. |
@@ -3094,7 +3100,7 @@ Tabla 12.12 Criterios para la puntuación de la deficiencia secundaria a trastor
 | Trastornos gonadales |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 2 3 4 5 | 6%-10% 6 7 8 9 10 | 11%-15% 11 12 13 14 15 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 2 3 4 5 | 6 %-1 0% 6 7 8 9 10 | 11 %-15 % 11 12 13 14 15 |
 | Anamnesis (CP). | Trastorno gonadal establecido bioquímicamente. Asintomático. | Trastorno gonadal establecido bioquímicamente. Síntomas leves. Tratamiento recomendado pero dependiente de los síntomas. | Trastorno gonadal establecido bioquímicamente. Síntomas moderados o secuelas físicas. Tratamiento muy recomendado. | Trastorno gonadal establecido bioquímicamente. Esterilidad demostrada por la alteración de la función hormonal. |
 | Exploración física. | Ausencia de anomalías secundarias al trastorno gonadal. | Ausencia de anomalías. | Ligera alteración del fenotipo corporal. | Alteración del peso corporal o de la talla secundaria a la anomalía hormonal. |
 | CCT. | 0 puntos. | 1-2 puntos. | 3-4 puntos. | ≥ 5 puntosc. |
@@ -3104,11 +3110,11 @@ Tabla 12.13 Criterios para la puntuación de la deficiencia secundaria a trastor
 | Trastornos mamarios |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-9% 1 5 9 | 1 0%-1 5% 10 12 15 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-9 % 1 5 9 | 10 %-15 % 10 12 15 |
 | Anamnesis (CP). | Asintomático. Mama restaurada estéticamente. | Antecedentes de problemas con la lactancia, galactorrea o desfiguración de la mama; puede requerir tratamiento o no. La deficiencia secundaria a la desfiguración se aplica a cada mama de manera independiente; los resultados se combinan. | Antecedente de mastectomía no tributaria de cirugía estética y/o reparadora. |
 | Signos físicos. | Ninguno. | La capacidad para la lactancia puede estar presente o no. Desfiguración leve a moderada de una o ambas mamas. | Ambas mamas extirpadas quirúrgicamente o Deformidad estética grave en ambas mamas sin capacidad para la lactancia. |
 
-Las anomalías estéticas leves a moderadas se puntúan del 1% al 9% de deficiencia total de la persona y pueden establecerse en ambos sexos. Cada mama se puntúa de manera independiente y la deficiencia para cada mama se combina antes de establecer la deficiencia final mamaria. Se establece un máximo del 9% de deficiencia total de la persona, cuando la desfiguración afecta a ambas mamas.
+Las anomalías estéticas leves a moderadas se puntúan del 1 % al 9 % de deficiencia total de la persona y pueden establecerse en ambos sexos. Cada mama se puntúa de manera independiente y la deficiencia para cada mama se combina antes de establecer la deficiencia final mamaria. Se establece un máximo del 9 % de deficiencia total de la persona, cuando la desfiguración afecta a ambas mamas.
 
 La incapacidad para la lactancia y los problemas asociados con la galactorrea se aplican a ambas mamas simultáneamente. En contraposición a los aspectos estéticos, cada mama no se puntúa de manera independiente de la otra. Por lo tanto, se establece una puntuación máxima del 5% de deficiencia total de la persona para la persona que presente estos problemas.
 
@@ -3119,7 +3125,7 @@ Tabla 12.14 Criterios para la puntuación de la deficiencia secundaria a enferme
 | Enfermedad metabólica ósea |
 | --- |
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
-| Graduación de la gravedad DTP (%) | 0 | 1%-3% 1 2 3 | 4%-6% 4 5 6 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-3 % 1 2 3 | 4 %-6 % 4 5 6 |
 | Anamnesis (CP). | Antecedentes de osteoporosis; no requiere tratamiento. | Antecedentes de osteoporosis; requiere tratamiento. | Antecedentes de osteoporosis grave o refractaria al tratamiento continuado. |
 | Resultados de las pruebas objetivas. | Densitometría anómala en el pasado, actual normal. Puntuación T-score actual ≥ -1. | Densitometría anómala con osteopenia Puntuación T-score actual ≤ 1 pero > -2,5. | Densitometría anómala con osteoporosis. Puntuación T-score actual ≤ –2,5. |
 
@@ -3127,8 +3133,8 @@ Tabla 12.15 Criterios para la puntuación de la deficiencia secundaria a hipocre
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 |
 | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-24% 1 12 24 | 25%-49% 25 34 49 |
-|  | Talla > de 145 cm en adultos o superior a menos 5 desviaciones estándar durante el periodo de crecimiento, y No hay limitación de las actividades relacionadas con la locomoción, disposición del cuerpo y destreza. | Talla entre 135 y 145 cm en adultos o entre menos 5 y menos 7 desviaciones estándar durante el periodo de crecimiento, y Existe limitación leve de las actividades relacionadas con la locomoción, disposición del cuerpo y destreza derivada de su talla. | Talla menor de 134 cm en adultos o de menos 8 desviaciones estándar durante el periodo de crecimiento, y Existe limitación moderada de las actividades relacionadas con la locomoción, disposición del cuerpo y destreza derivada de su talla. |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-2 4% 1 12 24 | 25 %-49 % 25 34 49 |
+|  | Talla > de 145 cm en adultos o superior a menos 5 desviaciones estándar durante el periodo de crecimiento, y No hay limitación de las actividades relacionadas con la locomoción, disposición del cuerpo y destreza. | Talla entre 135 y 145 cm en adultos o entre menos 5 y menos 7 desviaciones estándar durante el periodo de crecimiento, y Existe limitación leve de las actividades relacionadas con la locomoción, disposición del cuerpo y destreza derivada de su talla. | Talla menor de 135 cm en adultos o de menos 7 desviaciones estándar durante el periodo de crecimiento, y Existe limitación moderada de las actividades relacionadas con la locomoción, disposición del cuerpo y destreza derivada de su talla. |
 
 Se incluye la desviación típica o desviación estándar, que es imprescindible para evaluar a los menores que se encuentran fuera de los percentiles 3 y 97 y comparar entre sí sujetos de distintas edades
 
@@ -3140,9 +3146,9 @@ Principios de evaluación:
 
 1. Criterios generales: El grado de deficiencia a que se hace referencia en los criterios para la asignación del intervalo de grado en la enfermedad tumoral está basado en el diagnóstico de extensión tumoral y pronóstico del mismo).
 
-Las pruebas objetivas (clasificación del estadio tumoral) se considerarán como criterio principal que asignará el grado central del intervalo, utilizando la anamnesis y la repercusión de la enfermedad tumoral sobre las AVD (Se tendrá como referente la puntuación obtenida en el «Baremo de Limitaciones en la Actividad» BLA) como factores modificador de grado, dentro del intervalo asignado.
+Las pruebas objetivas (clasificación del estadio tumoral) se considerarán como criterio principal que asignará el grado central del intervalo, utilizando la anamnesis y la repercusión de la enfermedad tumoral sobre las AVD (Se tendrá como referente la puntuación obtenida en el "Baremo de Limitaciones en la Actividad" BLA) como factores modificador de grado, dentro del intervalo asignado.
 
-2. Consideraciones especiales de la metodología de evaluación: La evaluación de la deficiencia causada por neoplasias por este capítulo está más indicada para evaluar la repercusión de las mismas cuando constituyen una deficiencia única o contemplando el diagnóstico como principal o para evaluar globalmente a la persona en los casos más graves, En todo caso, para evitar duplicidad en la evaluación, será «alternativa» a la evaluación de dicha patología tumoral en su capítulo correspondiente...
+2. Consideraciones especiales de la metodología de evaluación: La evaluación de la deficiencia causada por neoplasias por este capítulo está más indicada para evaluar la repercusión de las mismas cuando constituyen una deficiencia única o contemplando el diagnóstico como principal o para evaluar globalmente a la persona en los casos más graves, En todo caso, para evitar duplicidad en la evaluación, será "alternativa" a la evaluación de dicha patología tumoral en su capítulo correspondiente...
 
 3. Evaluación y tratamiento: En el caso de las personas con procesos neoplásicos sometidas a tratamientos potencialmente curativos se deberá evaluar cuando se haya alcanzado la máxima mejoría clínica (MMC). En los casos de tratamiento quirúrgico aislado, la evaluación se hará a los seis meses después de la intervención.
 
@@ -3174,8 +3180,8 @@ Tabla 13.2 Clasificación por estadios
 | Estadio | Carcinoma oculto | I | II | III | IV |
 | --- | --- | --- | --- | --- | --- |
 | Tumor primitivo. | Tx | T1 | T1 | T2 | T2 | T3 | T4 | Cualquier T |
-| Metástasis en ganglios linfáticos. | N0 | N0 | N1 | NO | N2 | N2 N3 | Cualquier N |
-| Metástasis a distancia (enfermedad metastásica). | M0 | M0 | M0 | M0 | M0 | M0 | M1 |
+| Metástasis en ganglios linfáticos. | NO | NO | N1 | NO | N2 | N2 N3 | Cualquier N |
+| Metástasis a distancia (enfermedad metastásica). | MO | MO | MO | MO | MO | MO | M1 |
 
 Criterios para la asignación del porcentaje de deficiencia atribuíble a neoplasias:
 
@@ -3183,8 +3189,8 @@ Tabla 13.3 Evaluación de la deficiencia concerniente a las enfermedades neoplá
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1% al 9% 1 3 5 7 9 | 10% al 24% 10 12 15 17 24 | 25% al 49% 25 35 40 45 49 | 50% al 75% 50 55 60 65 75 |
-| Anamnesis (síntomas y tratamiento). | Sin síntomas en la actualidad. | Después del tratamiento o la remisión espontánea presenta un periodo libre de enfermedad superior a dos años y/o Secuelas residuales leves. | Después del tratamiento o la remisión espontánea presenta un periodo libre de enfermedad inferior a dos años y/o Secuelas residuales leves. | Remisión clínica luego de recaída local o a distancia (dos años) y/o Secuelas residuales moderadas. | Sin respuesta a los tratamientos instituidos o sin posibilidad médica de tratamiento o recidiva posterior a cirugía radical. El tto. es solo sintomático, paliativo o ambos y/o. Secuelas residuales graves. |
+| Graduación de la gravedad DTP (%) | 0 | 1 % al 9 % 1 3 5 7 9 | 10 % al 24 % 10 12 15 17 24 | 25 % al 4 9% 25 35 40 45 49 | 50 % al 75 % 50 55 60 65 75 |
+| Anamnesis (síntomas y tratamiento). | Sin síntomas en la actualidad. | Después del tratamiento o la remisión espontánea presenta un periodo libre de enfermedad superior a dos años y/o Secuelas residuales leves. | Después del tratamiento o la remisión espontánea presenta un periodo libre de enfermedad inferior a dos años y/o Secuelas residuales leves. | Remisión clínica luego de recaída local o a distancia (dos años) y/o Secuelas residuales moderadas. | Sin respuesta a los tratamientos instituidos o sin posibilidad médica de tratamiento o recidiva posterior a cirugía radical. El TTº es solo sintomático, paliativo o ambos y/o. Secuelas residuales graves. |
 | Repercusión sobre AVD (Baremo BLA). | Insignificante. | Leve. | Leve. | Moderada. | Grave o total. |
 | Estudios clínicos o resultados de pruebas objetivas (Clasificación TNM)* CP. | Normales en la actualidad. | Estadio I o Tis (carcinomas in situ). | Estadio II. | Estadio III. | Estadio IV: Evidencia de metástasis a distancia. |
 | * Criterio principal. Estos estadios son definidos por el oncólogo con base en el TNM propio de cada neoplasia o para los casos en que el cáncer no tenga un sistema de calificación definido se tomara el que informe el médico oncólogo tratante... |
@@ -3205,7 +3211,7 @@ En el supuesto de que existan deficiencias cuya sintomatología pueda ser atribu
 
 Tabla 14.1 Clasificación de la Enfermedad Renal Crónica según el FG
 
-| Estadio de la Enfermedad Renal Crónica (ERC) | Filtrado Glomerular FG (ml / min / 1,73 m2) | Graduación del problema |
+| Estadio de la Enfermedad Renal Crónica (ERC) | Filtrado Glomerular FG (ml/min / 1,73 m2) | Graduación del problema |
 | --- | --- | --- |
 | Estadio 1. | ≥ 90 | Lesión renal con FG normal. |
 | Estadio 2. | 60-89 | Lesión renal y ligero descenso del FG. |
@@ -3220,54 +3226,56 @@ Tabla 14.2 Criterios para la puntuación de la deficiencia permanente secundaria
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-13% 1 4 7 10 13 | 16%-32% 16 20 24 28 32 | 36%-52% 36 40 44 48 52 | 55%-75% 55 60 65 70 75 |
+| Graduación de la gravedad DTP (%) | 0 | 1%-13 % 1 4 7 10 13 | 16 %-32 % 16 20 24 28 32 | 36 %-52 % 36 40 44 48 52 | 55 %-7 5% 55 60 65 70 75 |
 | Anamnesis (CP). | Antecedentes de enfermedad del tracto urinario; ausencia de síntomas actuales o síntomas leves ocasionales y No se espera recidiva de la enfermedad. | Sólo existe un riñón funcionante (salvo casos de trasplante) o Síntomas leves frecuentes o Moderados ocasionales de enfermedad de tracto urinario superior a pesar del tratamiento o Precisa atención médica documentada menos de tres veces o durante menos de 30 días al año (ej.: litiasis renal). | Trasplante renal exitoso* o Síntomas leves continuos o Moderados frecuentes y síntomas de enfermedad de tracto urinario superior o alteración que precisa vigilancia habitual y tratamiento frecuente o Precisa atención médica documentada tres o más veces o durante más de 30 días al año. (ej., pielonefritis crónica). | Síntomas moderados continuos o graves ocasionales de enfermedad de tracto urinario superior que no puede controlarse a pesar del tratamiento médico continuado. (Ej.: insuficiencia renal en diálisis intermitente). | Síntomas graves continuos, o bien extremos ocasionales de enfermedad de tracto urinario superior que no puede controlarse a pesar de tratamiento médico continuo o Deterioro de la función renal que precisa de diálisis peritoneal o Hemodiálisis *** durante largos períodos de tiempo. |
 | Resultados de la exploración física y pruebas estáticas. | Ninguno. | Signos intermitentes de enfermedad del tracto urinario superior que no precisan tratamiento continuo o vigilancia. | Signos físicos o pruebas consistentes con enfermedad del tracto urinario superior o Alteración con anomalías leves persistentes, o Bien anomalías moderadas de manera intermitente. | Signos físicos o pruebas consistentes con enfermedad del tracto urinario superior o Alteración con anomalías moderadas persistentes, o Bien anomalías graves de manera intermitente o Signos de progresión de la ERC en el último año. | Signos físicos o pruebas consistentes con enfermedad del tracto urinario superior o Alteración con anomalías graves persistentes, o Bien anomalías extremas de manera intermitente. |
-| Pruebas objetivas de función renal. | Pruebas normales. ERC 1 y 2 ** | Disminución leve de la función del tracto superior: tal como demuestra el aclaramiento de creatinina entre 75-90 I/24h (52-62,5 ml/min). ERC 2 y 3a**. | Disminución ligero-moderada de la función del tracto superior: tal como demuestra el aclaramiento de creatinina entre 60-74 I/24h (40-51 ml/min). ERC 3a y 3b**. | Disminución moderada-grave de la función del tracto superior: tal como demuestra el aclaramiento de creatinina entre 40-50 I/24h (28-39 ml/min). ERC 3b y 4**. | Disminución grave a total de la función del tracto superior: tal como demuestra el aclaramiento de creatinina inferior a 40 I/24h (inferior a 28 ml/min). ERC 5 y 5D**. |
+| Pruebas objetivas de función renal. | Pruebas normales. ERC 1 y 2 ** | Disminución leve de la función del tracto superior: tal como demuestra el aclaramiento de creatinina entre 75-90 I/24h (FG 52-62,5 ml/min). ERC 2 y 3a**. | Disminución ligero-moderada de la función del tracto superior: tal como demuestra el aclaramiento de creatinina entre 60-74 I/24h (FG 40-51 ml/min). ERC 3a y 3b**. | Disminución moderada-grave de la función del tracto superior: tal como demuestra el aclaramiento de creatinina entre 40-50 I/24h (FG 28-39 ml/min). ERC 3b y 4**. | Disminución grave a total de la función del tracto superior: tal como demuestra el aclaramiento de creatinina inferior a 40 I/24h (FG inferior a 28 ml/min). ERC 5 y 5D**. |
 | * La puntuación de la deficiencia en las personas trasplantadas incluirá la CCT y las posibles complicaciones por la inmunosupresión. ** Según clasificación de ERC de tabla 14.1. *** Para el intervalo de gravedad 4, escoja el 55% si se realiza diálisis peritoneal, 65% si se trata mediante modiálisis. |
 
 Ocasionalmente en algunos casos de insuficiencia renal crónica (IRC) grave o rápidamente progresiva, en los que a criterio del evaluador, la anamnesis no refleje suficientemente la gravedad de la deficiencia, podrá tomarse como criterio principal las pruebas objetivas de función renal.
 
 Tabla 14.3 Criterios para la puntuación de la deficiencia permanente secundaria a trastornos de la derivación urinaria
 
-| Tipo de derivación | Porcentaje de deficiencia corporal total (%) |
+| Tipo de derivación | Porcentaje de deficiencia total de la persona % |
 | --- | --- |
 | Ureterointestinal. | 20 |
 | Ureterostomía cutánea. | 20 |
 | Nefrostomía. | 20 |
 
+En tipo de derivación, si existe más de un procedimiento, o bien el procedimiento es bilateral, la puntuación del segundo procedimiento se combina con la del primero.
+
 Este porcentaje será combinado con el correspondiente a la enfermedad causal. En el supuesto de que fuese preciso posponer la cirugía se mantendrá la evaluación que existiera previamente, debiendo ser revisada a los seis meses del acto quirúrgico. Si el enfermo rechaza el tratamiento quirúrgico sin causa justificada, no será evaluado.
 
 Criterios para la asignación del porcentaje de deficiencia atribuible a sondaje uretral permanente:
 
-Los enfermos portadores de sondaje uretral permanente serán evaluados con un porcentaje de deficiencia de 20%, que se combinará con el correspondiente a la enfermedad por la que fue indicada la sonda uretral permanente, excepto en el caso de que se trate de una incontinencia urinaria.
+Los enfermos portadores de sondaje uretral permanente serán evaluados con un porcentaje de deficiencia de 20 %, que se combinará con el correspondiente a la enfermedad por la que fue indicada la sonda uretral permanente, excepto en el caso de que se trate de una incontinencia urinaria.
 
 Tabla 14.4 Criterios para la puntuación de la deficiencia permanente secundaria a enfermedad de la vejiga urinaria
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-9% 1 3 5 7 9 | 10%-19% 10 13 15 17 20 | 21%-30% 21 23 25 27 30% |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-9 % 1 3 5 7 9 | 10 %-19 % 10 13 15 17 20 | 21 %-30 % 21 23 25 27 30% |
 | Anamnesis (CP). | Antecedentes de enfermedad de vejiga urinaria sin secuelas. | Síntomas de intensidad leve frecuente o moderada ocasional (polaquiuria, nicturia o goteo posmiccional), con conservación de la función entre episodios. | Síntomas leves continuos o moderados frecuentes de dolor o de pérdida del control del esfínter urinario a pesar del tratamiento continuo. Incontinencia urinaria parcial por urgencia, esfuerzo o dolor que precisa uso de absorbentes de forma continuada o Síntomas que precisan un procedimiento de derivación urinaria. | Control de esfínter urinario escaso o nulo con autonomía miccional < a 45 minutos o Síntomas moderados continuados o graves ocasionales de dolor u otros a pesar de tratamiento o Uso continuado de pañales. |
 | Exploración física y pruebas de laboratorio. | Ausencia de signos de enfermedad vesical urinaria. | Signos frecuentes de intensidad leve u ocasionales de intensidad moderada que responden al tratamiento, o Alteración anatómica leve. | Signos leves continuos o moderados frecuentes a pesar de tratamiento o Alteración anatómica moderada. | Signos de enfermedad vesical urinaria moderados continuados a pesar del tratamiento o graves ocasionales que responden sólo parcialmente al tratamiento o Alteración anatómica grave. |
 | Resultados de las pruebas funcionales de la vejiga urinaria (EUD y CM3D *). | Pruebas normales. | Las pruebas, en caso de que se realicen, presentan anomalías leves. Capacidad vesical (> 100 ml en CM3D o > 150 ml en EUD). Capacidad vesical bajo anestesia > 200 ml. | Las pruebas, en caso de que se realicen, presentan anomalías moderadas. Capacidad vesical (75-100 ml en CM3D o > 100-150 ml en EUD) o Capacidad vesical bajo anestesia 100-200 ml. | Las pruebas, en caso de que se realicen, presentan anomalías graves. Capacidad vesical disminuida (< 75 ml en CM3D o < 100 ml en EUD) o Capacidad vesical bajo anestesia < 100 ml. |
 | * EUD: Estudio urodinámico CM3D: diario miccional 3 días. Si la persona reúne todos los hallazgos definitorios de la clase de gravedad 3, desplace el grado de puntuación al máximo permitido en este intervalo. |
 
-En los casos de cistectomía con derivación urinaria se evaluará como mínimo en intervalo 2 con una puntuación de 17%, a lo que habrá que añadirse la puntuación según el tipo de derivación (Tabla 14.3).
+En los casos de cistectomía con derivación urinaria se evaluará como mínimo en intervalo 2 con una puntuación de 17 %, a lo que habrá que añadirse la puntuación según el tipo de derivación (tabla 14.3).
 
 Tabla 14.5 Criterios para la puntuación de la deficiencia permanente secundaria a deficiencia uretral
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 6%-15% 6 10 15 | 16%-23% 16 19 23 | 24%-28% 24 26 28 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 6 %-15 % 6 10 15 | 16 %-23 % 16 19 23 | 24 %-28 % 24 26 28 |
 | Anamnesis. | Antecedentes de enfermedad uretral sin secuelas. | Síntomas leves frecuentes de trastorno uretral que responden a tratamiento no invasivo o síntomas que se controlan con tratamiento continuo. | Síntomas leves continuos a pesar del tratamiento continuo o Síntomas moderados frecuentes que responden a tratamiento (si precisa dilataciones, éstas se realizan con frecuencia inferior a una vez al mes). | Síntomas moderados continuos a pesar de tratamiento continuo o Síntomas graves ocasionales que responden a tratamiento (si precisa dilataciones, éstas se realizan con frecuencia superior a una vez al mes), o Bien incontinencia urinaria de esfuerzo. | Síntomas graves continuos a pesar de tratamiento continuo. |
-| Resultados objetivos. | Ninguno o Ausencia de anomalías actuales. | Anomalías físicas mínimas del área uretral o estenosis que mantiene un calibre amplio de la uretra (objetivado por cistoscopia o uretroscopia), o bien cistouretrografía de evacuación que muestra estenosis inferior al 25%. | Estenosis residual uretral del 25%-50% evidenciada por cistoscopia, uretroscopia o cistouretrografía de evacuación. | Fístula en la exploración física o Incontinencia moderada o Estenosis residual uretral del 50-75% evidenciada por cistoscopia, uretroscopia o cistouretrografía de evacuación. | Uretra con alteración física grave o Incontinencia grave o Estenosis residual uretral superior al 75% evidenciada por cistoscopia, uretroscopia ocistouretrografía de evacuación. |
+| Resultados objetivos.CP | Ninguno o Ausencia de anomalías actuales. | Anomalías físicas mínimas del área uretral o estenosis que mantiene un calibre amplio de la uretra (objetivado por cistoscopia o uretroscopia), o bien cistouretrografía de evacuación que muestra estenosis inferior al 25%. | Estenosis residual uretral del 25%-50% evidenciada por cistoscopia, uretroscopia o cistouretrografía de evacuación. | Fístula en la exploración física o Incontinencia moderada o Estenosis residual uretral del 50-75% evidenciada por cistoscopia, uretroscopia o cistouretrografía de evacuación. | Uretra con alteración física grave o Incontinencia grave o Estenosis residual uretral superior al 75% evidenciada por cistoscopia, uretroscopia ocistouretrografía de evacuación. |
 | Se asigna una puntuación superior si se presenta dos criterios de la clase de gravedad 4 o bien la uretra presenta una estenosis superior al 90%. |
 
 Tabla 14.6 Criterios para la puntuación de la deficiencia permanente secundaria a alteración del pene
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 6%-10% 6 8 10 | 11%-15% 11 13 15 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 6 %-10 % 6 8 10 | 11 %-15 % 11 13 15 |
 | Anamnesis (CP). | Antecedentes de enfermedad del pene sin secuelas. | Función sexual factible con grados variables de dificultad para la erección o con la sensibilidad que responden a tratamiento médico. | La función sexual podría ser factible pero con erección insuficiente a pesar del uso de tratamiento. Las personas con implantes peneanos pertenecen a esta categoría si el implante corrige su problema. | Imposibilidad de mantener la función sexual. |
 | Exploración física o tumefacción nocturna del pene. | Pruebas normales. | La exploración física o las pruebas presentan anomalías leves. | La exploración física o las pruebas presentan anomalías moderadas. | La exploración física o las pruebas presentan anomalías graves. |
 | Si la persona reúne todos los hallazgos definitorios de la clase de gravedad 3, desplace el grado de puntuación al máximo permitido en este intervalo. |
@@ -3276,16 +3284,16 @@ Tabla 14.7 Criterios para la puntuación de la deficiencia permanente secundaria
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (% ) | 0 | 1%-5% 1-3-5 | 6%-10% 6-8-10 | 11%-15% 11 13 15 |
+| Graduación de la gravedad DTP (% ) | 0 | 1 %-5 % 1-3-5 | 6 %-10 % 6-8-10 | 11 %-15 % 11 13 15 |
 | Anamnesis. | Antecedentes de enfermedad escrotal. | Dolor leve o molestias con la actividad, sin evidencia de función anómala del testículo. | Dolor moderado o molestias con la actividad ligera. | Síntomas persistentes de enfermedad escrotal que no se controlan por el tratamiento. |
-| Exploración física (CP). | Ausencia de signos de enfermedad escrotal. | Posibilidad de posición anómala de los testículos. | Pérdida escrotal parcial con disminución de la movilidad testicular. | Testículos implantados de manera ectópica para preservar la función testicular o Hallazgos asociados a las limitaciones de la movilidad testicular durante la exploración. |
+| Exploración física (CP). | Ausencia de signos de enfermedad escrotal. | Posibilidad de posición anómala de los testículos. | Pérdida escrotal parcial con disminución de la movilidad testicular. | Testículos implantados de manera ectópica para preservar la función testicular o hallazgos asociados a las limitaciones de la movilidad testicular durante la exploración. |
 | Si la persona reúne los hallazgos físicos de la clase de gravedad 3 y tiene síntomas propios del intervalo de gravedad 3, debería puntuarse con la puntuación máxima de este intervalo. |
 
 Tabla 14.8 Criterios para la puntuación de la deficiencia permanente secundaria a enfermedad del testículo, epidídimo y conducto espermático
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1- 3- 5 | 6%-10% 6-8-10 | 11%-15% 11-13 -15 |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1- 3- 5 | 6 %-10 % 6-8-10 | 11 %-1 5% 11-13 -15 |
 | Anamnesis. | Ausencia de síntomas de enfermedad testicular, del epidídimo o del cordón espermático. | Síntomas ocasionales de enfermedad testicular, del epidídimo o del cordón espermático que responde a tratamiento, tal y como ocurre en la epididimitis o en la orquitis. | Síntomas frecuentes y controlados sólo mediante tratamiento continuado. | Síntomas o signos continuados a pesar de tratamiento continuado. |
 | Resultados de la exploración física o de las pruebas (CP). | Ninguno. Ausencia de anomalías de la función seminal u hormonal. | Signos ocasionales de enfermedad testicular o del epidídimo: dolor y vaso deferente palpable, así como también dolor y edema. La ecografía, en caso de que se realice, informa de edema del epidídimo o de los testículos. | Alteración anatómica persistente o signos físicos en testículos, epidídimo o cordón espermático o Anomalías moderadas del semen o de las hormonas. | Pérdida anatómica bilateral o de los órganos sexuales primarios o Ausencia de la función seminal u hormonal. |
 | El intervalo de gravedad 3 se reserva para aquellos que presenten pérdida anatómica completa de los órganos sexuales o función seminal u hormonal indetectable. |
@@ -3294,10 +3302,10 @@ Tabla 14.9 Criterios para la puntuación de la deficiencia de la próstata
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 6%-10% 6-8-10 | 11%-15% 11-13-15% |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 6 %-10 % 6-8-10 | 11 %-15 % 11-13-15% |
 | Anamnesis. | Ausencia de síntomas de alteración de la función prostática y seminal y sin necesidad de tratamiento. | Signos y síntomas entre leves y moderados de alteración de la función prostática que no precisan tratamiento continuo. IPSS 1-7*. | Síntomas frecuentes y moderados de alteración de la función prostática, a pesar del tratamiento continuo. IPSS 8-19*. | Síntomas frecuentes y graves de alteración de la función prostática que responden sólo parcialmente al tratamiento. IPSS 20-35*. |
 | Anomalías físicas o de las pruebas (cistoscopia y/o TC) (CP). | Ausencia de alteración anatómica. | Anomalías leves frecuentes o moderadas ocasionales o bien alteración anatómica leve. | Anomalías leves continuas o moderadas frecuentes o bien alteración anatómica moderada. | Ablación de la próstata y de las vesículas seminales. |
-| * Valores orientativos según la Escala Internacional de Síntomas Prostáticos IPSS (Anexo 14.2). Si la persona reúne los hallazgos físicos de la clase de gravedad 3 y tiene síntomas propios del intervalo de gravedad 3, debería puntuarse con la puntuación máxima de este intervalo. |
+| * Valores orientativos según la Escala Internacional de Síntomas Prostáticos IPSS. Si la persona reúne los hallazgos físicos de la clase de gravedad 3 y tiene síntomas propios del intervalo de gravedad 3, debería puntuarse con la puntuación máxima de este intervalo. |
 
 Tabla 14.10 Criterios para la puntuación de la deficiencia de vulva y vagina
 
@@ -3314,7 +3322,7 @@ Tabla 14.11 Criterios para la puntuación de la deficiencia del cuello uterino y
 
 | Intervalos de gravedad | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-8% 1 4 8 | 9%-15% 9 12 15 | 16%-20% 16-18-20% |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-8 % 1 4 8 | 9 %-15 % 9 12 15 | 16 %-20 % 16-18-20% |
 | Anamnesis. | Ausencia de signos o síntomas de enfermedad o deformidad del cuello uterino o del útero. | Signos o síntomas de enfermedad o deformidad del cuello uterino o del útero que precisa de tratamiento intermitente o Estenosis cervical que, en caso de existir, no necesita tratamiento. | Signos o síntomas de enfermedad o deformidad del cuello uterino o del útero que precisa tratamiento continuo o Estenosis cervical que en caso de existir, requiera tratamiento periódico. | Signos o síntomas de enfermedad o deformidad del cuello uterino o del útero que no pueden controlarse con tratamiento. |
 | Resultados de la exploración física (CP) * b. | Ausencia de alteraciones patológicas en la anatomía del cuello uterino o del útero. | Defecto anatómico o deformidad moderada del cuello uterino o pérdida anatómica total uterina en el período postmenopáusico. | Estenosis cervical o deformidad o pérdida anatómica grave del cuello uterino o del útero en el período premenopáusico. | Estenosis cervical completa o pérdida funcional o anatómica total del cuello uterino y del útero en el período premenopáusico. |
 | + Criterio principal, ya que tanto la patología anatómica como el periodo reproductivo son los principales condicionantes de la deficiencia. Si una persona se sitúa en el intervalo 2 y presenta síntomas que no pueden controlarse, debería puntuarse con el 15%. Si la persona reúne los hallazgos físicos de la clase de gravedad 3 y tiene síntomas propios del intervalo de gravedad 3, debería puntuarse con la puntuación máxima de este intervalo. La puntuación máxima de una persona en la etapa postmenopáusica es un 8%. |
@@ -3323,7 +3331,7 @@ Tabla 14.12 Criterios para la puntuación de la deficiencia de las trompas de Fa
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 |
 | --- | --- | --- | --- | --- |
-| Graduación de la gravedad DTP (%) | 0 | 1%-5% 1 3 5 | 6%-10% 6 8 10 | 11-13-15% |
+| Graduación de la gravedad DTP (%) | 0 | 1 %-5 % 1 3 5 | 6 %-10 % 6 8 10 | 11-13-15 % |
 | Anamnesis. | Ausencia de signos o síntomas de enfermedad de las trompas de Falopio o de los ovarios. | Signos o síntomas intermitentes de enfermedad de las trompas de Falopio o de los ovarios que no precisan tratamiento continuo. | Signos o síntomas de enfermedad o deformidad de las trompas de Falopio o de los ovarios que precisan tratamiento continuo. | Signos o síntomas de enfermedad o deformidad de las trompas de Falopio o de los ovarios que no responden al tratamiento. |
 | Resultados de pruebas objetivas (CP). | Ausencia de alteraciones anatómicas o funcionales de las trompas de Falopio o de los ovarios. | Sólo una trompa de Falopio u ovario funciona con normalidad en el período premenopáusico. | Enfermedad importante de las trompas de Falopio o de los ovarios, pero la permeabilidad de la trompas aún persiste y es posible la ovulación en el período premenopáusico. | Pérdida bilateral de las trompas de Falopio o de los ovarios en el período premenopáusico. |
 | Si la persona reúne todos los hallazgos definitorios de la clase de gravedad 3, desplace el grado de puntuación al máximo permitido en este intervalo. |
@@ -3360,7 +3368,7 @@ Tabla 15.1 Graduación de los intervalos de grado de gravedad de la deficiencia 
 
 | Intervalos de gravedad | Rango de gravedad de la deficiencia |
 | --- | --- |
-| Intervalos de grado de gravedad | Problema | Deficiencia de extremidad superior (DES) | Deficiencia Total de la Persona (DTP) |
+| Intervalos de grado de gravedad | Problema | Deficiencia de extremidad superior (DES) | Deficiencia total de la persona (DTP) |
 | 0 | Sin hallazgos objetivos | 0 % | 0 % |
 | 1 | Leve | 1 % - 13 % | 1 % - 8 % |
 | 2 | Moderado | 14 % - 25% | 8 % - 15 % |
@@ -3373,11 +3381,11 @@ Tabla 15.1 Graduación de los intervalos de grado de gravedad de la deficiencia 
 
 Se deben seguir los siguientes pasos:
 
-1.º Deficiencia basada en el diagnóstico (DBD): Identificar el diagnóstico y, con base en él, determinar la tabla que se debe utilizar: Tabla 15.2 para dedos, Tabla 15.3 para muñeca, Tabla15.4 para codo, Tabla 15.5 para hombro; De estas tablas obtendremos, según los hallazgos clínicos específicos descritos para cada diagnóstico de la condición de salud evaluada, el Intervalo de grado de deficiencia (IGD) del Criterio Principal (CP) para el inicio del cálculo del grado de puntuación de la deficiencia o valor inicial de ajuste (VIAD).
+1.º Deficiencia basada en el diagnóstico (DBD): Identificar el diagnóstico y, con base en él, determinar la tabla que se debe utilizar: tabla 15.2 para dedos, tabla 15.3 para muñeca, Tabla15.4 para codo, Tabla 15.5 para hombro; De estas tablas obtendremos, según los hallazgos clínicos específicos descritos para cada diagnóstico de la condición de salud evaluada, el Intervalo de grado de deficiencia (IGD) del Criterio Principal (CP) para el inicio del cálculo del grado de puntuación de la deficiencia o valor inicial de ajuste (VIAD).
 
-2.º Valor inicial de ajuste del grado de puntuación de deficiencia (VIAD): En la tabla escogida en el punto 1° (Identificación con DBD), seleccione IGD apropiado para el diagnóstico con valores 01234. Este valor constituirá el Valor Inicial de Ajuste (VIAD).
+2.º Valor inicial de ajuste del grado de puntuación de deficiencia (VIAD): En la tabla escogida en el punto 1.º (Identificación con DBD), seleccione IGD apropiado para el diagnóstico con valores 01234. Este valor constituirá el Valor Inicial de Ajuste (VIAD).
 
-A continuación sitúese en el valor central «C» (En la tabla siguiente, correspondiente al ejemplo 15.1 descrito a continuación, supongamos que el diagnóstico apropiado se sitúa en IGD 3, el VIAD será 3, al que por defecto se le asigna la puntuación de deficiencia central «C» del intervalo 3 que, en este ejemplo, es 21%. Este valor predeterminado por el CP podrá ser modificado según la metodología de ajuste neto de grado, explicado en el punto 4°.
+A continuación sitúese en el valor central "C" (En la tabla siguiente, supongamos que el diagnóstico apropiado se sitúa en IGD 3, el VIAD será 3, al que por defecto se le asigna la puntuación de deficiencia central "C" del intervalo 3 que, en este ejemplo, es 21%. Este valor predeterminado por el CP podrá ser modificado según la metodología de ajuste neto de grado, explicado en el punto 4.º.
 
 | Intervalo de gravedad deficiencia (Tabla DBD) | 0 | 1 | 2 | 3 | 4 |
 | --- | --- | --- | --- | --- | --- |
@@ -3387,7 +3395,7 @@ A continuación sitúese en el valor central «C» (En la tabla siguiente, corre
 
 Se deben seguir los siguientes pasos:
 
-3.º Criterios Secundarios de Ajuste (CSA) modificadores de grado (HF; EF; PC): Mediante las «Tablas de ajuste» para: Historia Funcional (HF) (Tabla 15.6), Examen Físico (EF) (Tabla 15.7) y Pruebas Complementarias (PC) (Tabla 15.8), identifique el intervalo de modificador de grado apropiado (01234). Obtienen los denominados Valores de Intervalo de Grado para los factores secundarios: VIGHF; VIGEF y VIG PC.
+3.º Criterios Secundarios de Ajuste (CSA) modificadores de grado (HF; EF; PC): Mediante las "Tablas de ajuste" para: Historia Funcional (HF) (Tabla 15.6), Examen Físico (EF) (Tabla 15.7) y Pruebas Complementarias (PC) (Tabla 15.8), identifique el intervalo de modificador de grado apropiado (01234). Obtienen los denominados Valores de Intervalo de Grado para los factores secundarios: VIGHF; VIGEF y VIG PC.
 
 4.º Formula de Ajuste neto de grado:
 
@@ -3401,17 +3409,17 @@ Al aplicar la fórmula de ajuste neto, calcule el valor de ajuste neto restando 
 
 15.2.2.a Criterio principal: Criterios basados en el diagnóstico (parrillas regionales).
 
-Deficiencias pulgar / dedo / mano:
+Deficiencias pulgar/dedo/mano:
 
 Tabla 15.2 Parrilla regional digital - Deficiencia de Dedo (DD)
 
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
 | Graduación de la gravedad DEDO (%) | 0 | 1 % -13 % DD | 14 % - 25 % DD | 26 % - 49 % DD | 50 % - 100 % DD |
-| Tejido blando: |
+| Tejido blando |
 | Lesión curada con poca afectación cutánea o de tejidos blandos*. Incluye dolor digital a pesar del movimiento completo, y sin pérdida de tejido. | 0 Curación sin síntomas residuales u otros hallazgos aparte de cicatrices en la piel. | 2 3 4 5 6 Síntomas residuales sin hallazgos objetivos consistentes en MMC (dolor articular postraumático, deformidad de la uña con < 50 % de la uña afectada, cicatriz blanda, cuerpo extraño < 3 mm, ganglión quístico o quiste mucoso)*. |  |  |  |
 | Lesión curada con mayor afectación cutánea o de tejidos blandos*, incluye anormalidades ungueales que afectan a > 50 % de la uña secundarias a trauma, pérdida residual de la pulpa distal en la falange, cuerpo extraño retenido ≥ 3 mm*. | 0 Curación sin síntomas residuales u otros hallazgos como cicatrices en piel. | 6 7 8 9 10 Pérdida de < 50 % del pulpejo, anormalidades ungueales que involucran > 50 % de la uña secundarias a trauma, cuerpo extraño retenido ≥ 3 mm*. | 16 18 20 22 24 Pérdida de > 50 % del pulpejo; complicaciones de osteomielitis. |  |  |
-| Músculo / tendón: |
+| Músculo/tendón |
 | Dolor en dedo*. Dolor inespecífico en mano post lesión aguda o cirugía (no especificado en otra categoría). | 0 No hay resultados objetivos significativos consistentes en la MMC. | 0 0 1 1 1 Historia de lesión dolorosa, síntomas residuales sin hallazgos objetivos consistentes. |  |  |  |
 | Esguince / torcedura*. Incluye diagnósticos iniciales de 1er, 2° y 3er grado, ahora en MMC*. | 0 Sin hallazgos residuales: sin dolor ni residuos. | 4 5 6 7 8 Dolor residual y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Tenosinovitis digital estenosante (dedo en gatillo)*. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 4 5 6 7 8 Dedo en gatillo sintomático tras cirugía o MMC. Engatillamiento persistente con deficiencia funcional con pérdida o no del balance articular. |  |  |  |
@@ -3419,25 +3427,25 @@ Tabla 15.2 Parrilla regional digital - Deficiencia de Dedo (DD)
 | Ruptura / laceración de tendón flexor*, (flexor profundo de los dedos, flexor corto del pulgar). | 0 Sin hallazgos residuales con o sin tratamiento quirúrgico. | 4 5 6 7 8 Síntomas residuales tras cirugía o MMC con deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Ligamento / hueso / articulación: |
 | Enfermedad articular degenerativa*. (Artrosis). | 0 Sin síntomas ni hallazgos residuales. | 4 5 6 7 8 Dolor residual, hallazgos objetivos consistentes y/o deficiencia funcional con pérdida o no del balance articular. |  |  |  |
-| Luxación articular o esguince*: |
-| Pulgar MCF*. | 0 Sin hallazgos residuales (esadiol). | 1 2 3 4 5 < 10° inestabilidad. 3 4 5 6 7 10° - 20 ° inestabilidad. 8 9 10 11 12 > 20° inestabilidad. |  |  |  |
+| Luxación articular o esguince* |
+| Pulgar MCF*. | 0 Sin hallazgos residuales (esadio 1). | 1 2 3 4 5 < 10° inestabilidad. 3 4 5 6 7 10° - 20 ° inestabilidad. 8 9 10 11 12 > 20° inestabilidad. |  |  |  |
 | Pulgar IF*. | 0 Sin hallazgos residuales. | 3 4 5 6 7 < 10° inestabilidad 8 9 10 11 12 10° - 20° inestabilidad. | 141415 1617 > 20° inestabilidad. |  |  |
 | Pulgar CMC* (Rizartrosis). | 0 Sin hallazgos residuales. |  | 141415 16 17 < 10° inestabilidad subluxación < 1/3 disminución del espacio cartilaginoso (estadio 2) 21 23 25 25 25 10° - 20 ° inestabilidad subluxación de 1/3 disminución grave del espacio cartilaginoso (estadio 3). | 29 32 35 38 41 > 20 ° inestabilidad subluxación > 1/3 perdida completa del espacio y del contorno articular (estadio 4). |  |
 | Dedo IFD*. | 0 Sin hallazgos residuales. | 3 4 5 6 7 < 10° inestabilidad. 8 9 10 11 12 10° - 20° inestabilidad. | 14 14 15 16 17 > 20° inestabilidad. |  |  |
 | Dedo IFP* | 0 Sin hallazgos residuales. | 8 9 10 11 12 < 10° inestabilidad. | 14 14 15 16 17 10° - 20° inestabilidad. 21 23 25 25 25 > 20° inestabilidad. |  |  |
 | Dedo MCF*. | 0 Sin hallazgos residuales. |  | 14 14 15 16 17 < 10° inestabilidad. 16 18 20 22 24 10°-20° inestabilidad. 21 23 25 25 25 > 20° inestabilidad. |  |  |
-| Fracturas: |
+| Fracturas |
 | Pulgar metacarpo, intraarticular*. | 0 Sin hallazgos residuales. | 8 9 10 11 12 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Falange distal*. | 0 Sin hallazgos residuales. | 2 3 4 5 6 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Falange proximal, falange media, metacarpo*. | 0 Sin hallazgos residuales. | 4 5 6 7 8 Síntomas residuales, hallazgos objetivos consistentes y/o deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Cabeza del metacarpo*. | 0 Sin hallazgos residuales. | 6 7 8 9 10 Síntomas residuales, hallazgos objetivos consistentes y/o deficiencia funcional con pérdida o no del balance articular. |  |  |  |
-| Anquilosis / Artrodesis: Puntuación en la sección 15.7 de «Evaluación del Balance Articular (BA): |
-| Artroplastia: |
-| Pulgar CMC*. | 8 9 10 11 12 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |  |
-| Dedo IFD*. | 3 4 5 6 7 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |  |
-| Dedo IFP*. | 8 9 10 11 12 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |  |
-| Dedo MCF*. |  | 16 18 20 22 24 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
-| Nota: MMC indica máxima mejoría clínica; IF, interfalángica; MCF, metacarpofalángica; CMC, carpometacarpiana; IFD, interfalángica distal; IFP, interfalángica proximal. La DD (Deficiencia de Dedo), debe ser convertida en DES (Deficiencia de Extremidad Superior) y a DTP (Deficiencia Total de la Persona) con la Tabla 15.9. * Si la pérdida de movimiento está presente, esta deficiencia puede ser evaluada de manera alternativa utilizando la sección de Deficiencia del balance articular (BA). Una deficiencia evaluada por el método del balance articular (BA) es un hallazgo aparte y no se combina con el diagnóstico de deficiencia. En todo caso de realizarse las dos evaluaciones deberá elegirse la de mayor puntuación. |
+| Anquilosis/Artrodesis: Puntuación en la sección 15.7 de “Evaluación del Balance Articular (BA)” |
+| Artroplastia |
+| Pulgar CMC*. |  | 8 9 10 11 12 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
+| Dedo IFD*. |  | 3 4 5 6 7 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
+| Dedo IFP*. |  | 8 9 10 11 12 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
+| Dedo MCF*. |  |  | 16 18 20 22 24 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |
+| Nota: MMC indica máxima mejoría clínica; IF, interfalángica; MCF, metacarpofalángica; CMC, carpometacarpiana; IFD, interfalángica distal; IFP, interfalángica proximal. La DD (Deficiencia de Dedo), debe ser convertida en DES (Deficiencia de Extremidad Superior) y a DTP (Deficiencia Total de la Persona) con la Tabla 15.9. |
 
 Deficiencias muñeca:
 
@@ -3448,22 +3456,15 @@ Tabla 15.3 Parrilla regional de la muñeca - Deficiencia de la Extremidad Superi
 | Graduación de la gravedad ES (%) | 0 | 1 % -13 % DES | 14 %-25% DES | 26 % - 49 % DES | 50 % -100 % DES |
 | Tejido blando |
 | Masa en la muñeca o ganglión quístico*. |  | 1 2 2 2 3 Síntomas residuales y hallazgos objetivos consistentes en la MMC. |  |  |  |
-| Músculo / tendón: |
-| Laceración de la muñeca o ruptura de músculo / tendón*. | 0 Sin hallazgos Residuales con o sin tratamiento quirúrgico. | 3 4 5 6 7 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
-| Esguince / distensión de muñeca*. Incluye diagnósticos iniciales de 1er, 2° y 3er grado, sin inestabilidad residual o pérdida del movimiento, pero con dolor persistente en la MMC (p.ej., Enfermedad de D Quervain, síndrome de tendinitis inespecífico de intersección). | 0 Sin hallazgos objetivos anormales de lesión del músculo o tendón en la MMC. | 0 1 1 2 2 Historia de lesión dolorosa, síntomas residuales sin hallazgos objetivos consistentes. |  |  |  |
-| Ligamento / hueso / articulación: |
-| Esguince de muñeca y/o luxación*. Incluye inestabilidad del carpo. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 6 7 8 9 10 Inestabilidad leve (modificador de grado 1 para estudios radiográficos y criterios en la Tabla 15.9) (pruebas complementarias excluidas del proceso de ajuste). | 14 15 16 17 18 Inestabilidad moderada (modificador de grado 2 para estudios radiográficos y criterios en la Tabla 15.9). 20 22 24 25 25 Inestabilidad grave (modificador de grado 3 para estudios radiográficos y criterios en la Tabla 15.9 8 (pruebas complementarias excluidas del proceso de ajuste) |  |  |
-| Desgarro del complejo del fibrocartílago triangular (DCFT). | 0 Sin hallazgos residuales con o sin tratamiento quirúrgico. | 6 7 8 9 10 Lesión documentada de DCFT tras cirugía o MMC con hallazgos residuales. |  |  |  |
-| Fractura*. | 0 Sin hallazgos residuales con o sin tratamiento quirúrgico. | 1 2 3 4 5 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
-| Necrosis avascular (NAV) del hueso semilunar, Enfermedad de Kienbock. |  | 1 2 2 3 4 Estadio 1 arquitectura normal del hueso en radiografía simple, la RM podría ser normal o mostrar estadios tempranos. 3 4 5 6 7 Estadio 2 arquitectura anormal del hueso en radiografía simple o RM, pero sin colapso del hueso semilunar. | 14 15 16 17 18 Estadio 3 arquitectura anormal del hueso en radiografía simple o RM con fragmentación o colapso del hueso semilunar. 17 18 22 23 25 Estadio 4 arquitectura anormal del hueso en radiografía simple o RM con fragmentación o colapso del hueso semilunar, y huesos adyacentes afectados. Si fue tratado quirúrgicamente, esperar hasta la MMC y puntuar por el tipo de tratamiento quirúrgico. |  |  |
-| Enfermedad articular degenerativa (EAD) (artrosis). Incluye inestabilidad del carpo. | 0 Postraumática. Sin hallazgos residuales con o sin tratamiento quirúrgico. | 1 3 5 7 9 (EAD) Con lesión específica documentada, cambios artrósicos asimétricos observados en el diagnóstico por imagen. | Si hay pérdida de movimiento, puede evaluarse por la Gravedad del balance articular (sección 15.7) (no combinado con el diagnóstico de deficiencia). |  |  |
-| Artrodesis (fusión), Fusión intercarplana*. Escafoides-grande. Grande-ganchoso. Ganchoso-piramidal. |  | 8 9 10 11 12 Fusión exitosa. | Si el posicionamiento no es óptimo, evaluar por medio de la Gravedad del balance articular (sección 15.7). |  |  |
-| Artrodesis de la muñeca (fusión)*. |  |  |  | 26 28 30 32 34 Artrodesis de la muñeca en posición funcional (10° extensión a 10° de flexión, 5° radial a 10° cubital). | Si el posicionamiento no es óptimo, evaluar por medio Gravedad del balance articular (sección 15.7). |
+|  |  | Radiografía simple o RM,pero sin colapso delhueso semilunar. | Anormal del hueso en radiografía simple o RM con fragmentación o colapso del hueso semilunar, y huesos adyacentes afectados. Si fue tratado quirúrgicamente, esperar hasta la MMC y puntuar por el tipo de tratamiento quirúrgico. |  |  |
+| Enfermedad articular degenerativa (EAD) (artrosis). Incluye inestabilidad del carpo. | 0 Postraumática, Sin hallazgos residuales con o sin tratamiento quirúrgico. | 1 3 5 7 9 (EAD) Con lesión específica documentada, cambios artrósicos asimétricos observados en el diagnóstico por imagen. | Si hay pérdida de movimiento, puede evaluarse por la Gravedad del balance articular (sección 15.7) (no combinado con el diagnóstico de deficiencia). |  |  |
+| Artrodesis (fusión), Fusión intercarpiana* Escafoides-grande Grande-ganchoso Ganchoso-piramidal |  | 8 9 10 11 12 Fusión exitosa. | Si el posicionamiento no es óptimo, evaluar por medio de la Gravedad del balance articular (sección 15.7). |  |  |
+| Artrodesis de la muñeca (fusión)*. |  |  |  | 26 28 30 32 34 Artrodesis de la muñeca en posición funcional (10º extensión a 10º de flexión, 5º radial a 10º cubital). | Si el posicionamiento no es óptimo, evaluar por medio Gravedad del balance articular(sección 15.7). |
 | Artroplastia de la muñeca (total)*. |  |  | 20 22 24 25 25 Con pérdida o no del balance articular. | 26 28 30 32 34 Deficiencia funcional grave. Complicada, inestable o infectada. |  |
 | Artroplastia radiocarpiana*. |  |  | 14 15 16 17 18 Con pérdida o no del balance articular. 17 19 21 23 25 Deficiencia funcional grave. Complicada, inestable o infectada. |  |  |
 | Cabeza de cúbito aislada, carpectomía lineal proximal, o hueso del carpo (artroplastia aislada)*. |  | 8 9 10 11 12 Con pérdida o no del balance articular. | 14 14 15 16 17 Deficiencia funcional grave. Complicada, inestables o infectada. |  |  |
 | Estiloides radial (artroplastia aislada). |  | 3 4 5 6 7 Con pérdida o no del balance articular. 8 9 10 11 12 Deficiencia funcional grave Complicada, inestable o infectada. |  |  |  |
-| ES (extremidad superior), MMC (máxima mejoría clínica), RM (resonancia magnética). La DES (Deficiencia de Extremidad Superior) debe ser convertida en a DTP (Deficiencia Total de la Persona) con la Tabla 15.9. * Si la pérdida de movimiento está presente, esta deficiencia puede ser evaluada de manera alternativa utilizando la sección de Deficiencia del balance articular (BA). Una deficiencia evaluada por el método del balance articular (BA) es un hallazgo aparte y no se combina con el diagnóstico de deficiencia. En todo caso de realizarse las dos evaluaciones deberá elegirse la de mayor puntuación. |
+| ES (extremidad superior), MMC (máxima mejoría clínica), RM (resonancia magnética). La DES (Deficiencia de Extremidad Superior) debe ser convertida en a DTP (Deficiencia Total de la Persona) con la Tabla 15.9. |
 
 Deficiencias del codo:
 
@@ -3474,20 +3475,20 @@ Tabla 15.4 Parrilla regional del codo - Deficiencia de la Extremidad Superior (D
 | Graduación de la gravedad ES (%) | 0 | 1 % - 13 % DES | 14%-25% DES | 26 % - 49 % DES | 50 % - 100 % DES |
 | Tejido blando |
 | Contusión de codo o lesión por aplastamiento con lesión curada con poca afectación de tejidos blandos o piel. Bursitis del olecranon*. |  | 1 2 2 2 3 Síntomas residuales y hallazgos objetivos consistentes en la MMC. |  |  |  |
-| Músculo / tendón: |
+| Músculo / tendón |
 | Dolor de codo inespecífico post lesión aguda o cirugía. Esguince / distensión sin inestabilidad residual o pérdida del movimiento, pero con dolor persistente en MMC. | 0 Sin síntomas o signos significativos en la MMC. | 0 0 1 1 1 Historia de lesión dolorosa, síntomas residuales sin los hallazgos objetivos consistentes. |  |  |  |
 | Epicondilitis: lateral o medial*. | 0 Sin hallazgos anormales objetivos importantes en la MMC. | 0 1 1 2 2 Historia de lesión dolorosa, síntomas residuales sin hallazgos objetivos consistentes. 3 4 5 6 7 Historia de lesión dolorosa con liberación quirúrgica en el origen de flexor o extensor con síntomas residuales. |  |  |  |
 | Ruptura del tendón distal del bíceps. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 3 4 5 6 7 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
-| Ligamento / hueso / articulación: |
+| Ligamento / hueso / articulación |
 | Lesión del ligamento colateral: media', cubital o lateral*. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 3 4 5 6 7 Inestabilidad recurrente: ocasional. 8 9 10 11 12 Inestabilidad recurrente: frecuente; que produce limitación funcional. |  |  |  |
-| Subluxación persistente de codo o luxación. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 8 9 10 11 12 Leve: puede ser completamente reducida manualmente. | 16 18 20 22 24 Moderado: no puede ser completamente reducida manualmente. | 34 37 40 43 36 Grave: no puede ser reducida. |  |
+| Subluxación persistente de codo o luxación. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 8 9 10 11 12 Leve: puede ser completamente reducida manualmente. | 16 18 20 22 24 Moderado: no puede ser completamente reducida manualmente. | 34 37 40 43 46 Grave: no puede ser reducida. |  |
 | Fractura*. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 1 2 3 4 5 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Lesión osteocondral o cuerpos extraños. | 0 Sin hallazgos residuales: con o sin tratamiento quirúrgico. |  |  |  |  |
 | Enfermedad articular degenerativa (Artrosis). | 0 Postraumática. Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 1 3 5 7 9 Cambios artrósicos asimétricos observados en el diagnóstico por imagen. |  |  |  |
 | Artrodesis (fusión)*. |  |  |  | 26 28 30 32 34 Artrodesis del codo en posición funcional (70° a 80° flexión, 20° a 30° pronación). | Si el posicionamiento no es óptimo, evaluar por medio de la sección 15.7, Gravedad del balance articular. |
 | Artroplastia total del codo*. |  |  |  | 26 28 30 32 34 Con pérdida o no del balance articular. 34 37 40 43 46 Deficiencia funcional grave. Complicada, inestable o infectada. |  |
 | Cabeza radial (artroplastia aislada)*. |  | 6 7 8 9 10 Con pérdida o no del balance articular. 9 10 11 12 13 Deficiencia funcional grave. Complicada, inestable o infectada. |  |  |  |
-| ES (extremidad superior), MMC (máxima mejoría clínica). ). La DES (Deficiencia de Extremidad Superior) debe ser convertida en a DTP (Deficiencia Total de la Persona) con la Tabla 15.9. * Si la pérdida de movimiento está presente, esta deficiencia puede ser evaluada de manera alternativa utilizando la sección de Deficiencia del balance articular (BA). Una deficiencia evaluada por el método del balance articular (BA) es un hallazgo aparte y no se combina con el diagnóstico de deficiencia. En todo caso de realizarse las dos evaluaciones deberá elegirse la de mayor puntuación. |
+| ES (extremidad superior), MMC (máxima mejoría clínica). ). La DES (Deficiencia de Extremidad Superior) debe ser convertida en a DTP (Deficiencia Total de la Persona) con la Tabla 15.9. |
 
 Deficiencias del hombro:
 
@@ -3496,12 +3497,12 @@ Tabla 15.5 Parrilla regional del hombro: Deficiencia de la Extremidad Superior (
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
 | Graduación de la gravedad ES (%) | 0 | 1 % - 13 % DES | 14 % - 25 % DES | 26 % - 49 % DES | 50 % - 100 % DES |
-| Tejido blando / músculo / tendón: |
+| Tejido blando / músculo / tendón |
 | Contusión del hombro o lesión por aplastamiento* con lesión curada con poca afectación de tejidos blandos o piel. | 0 Sin síntomas o signos significativos en la MMC. | 1 2 2 2 3 Síntomas residuales y hallazgos objetivos consistentes en la MMC. |  |  |  |
 | Dolor de hombro* inespecífico post lesión aguda o cirugía (no especificado de otra manera). | 0 Sin síntomas significativos o signos en la MMC. | 0 0 1 1 1 Historia de lesión dolorosa, síntomas residuales sin consistencia con los hallazgos objetivos. |  |  |  |
 | Esguince / distensión*. Sin inestabilidad residual o pérdida del movimiento, pero con dolor persistente en la MMC. | 0 Sin hallazgos objetivos anormales de lesión en músculo o tendón en la MMC. | 0 1 1 2 2 Historia de lesión dolorosa, síntomas residuales sin hallazgos objetivos consistentes. |  |  |  |
 | Tendinitis. | 0 Sin hallazgos anormales significativos en la MMC. | 0 1 1 2 2 Historia de lesión dolorosa o exposición ocupacional, síntomas residuales sin hallazgos objetivos consistentes. 1 2 3 4 5 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
-| Ligamento / hueso / articulación: |
+| Ligamento / hueso / articulación |
 | Síndrome de pinzamiento. | 0 Sin hallazgos objetivos anormales significativos en la MMC. | 0 1 1 2 2 Historia de lesión dolorosa, síntomas residuales sin hallazgos objetivos consistentes. 1 2 3 4 5 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Lesión del manguito rotador, desgarro parcial. | 0 Sin hallazgos objetivos anormales significativos en la MMC. | 0 1 1 2 2 Historia de lesión dolorosa, síntomas residuales sin hallazgos objetivos consistentes. 1 2 3 4 5 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
 | Lesión del manguito rotador, desgarro total*. | 0 Sin hallazgos objetivos anormales significativos en la MMC. | 1 2 3 4 5 Historia de lesión dolorosa, síntomas residuales sin hallazgos objetivos consistentes. 3 4 5 6 7 Síntomas residuales, hallazgos objetivos consistentes y deficiencia funcional con pérdida o no del balance articular. |  |  |  |
@@ -3513,7 +3514,7 @@ Tabla 15.5 Parrilla regional del hombro: Deficiencia de la Extremidad Superior (
 | Enfermedad articular degenerativa (Artrosis). | 0 Postraumática. Sin hallazgos residuales: con o sin tratamiento quirúrgico. | 1 3 5 7 9 Cambios artrósicos asimétricos observados en el diagnóstico por imagen. | Si hay pérdida de movimiento, puede evaluarse Gravedad del balance articular (no combinado con el diagnóstico de Deficiencia). |  |  |
 | Artrodesis (fusión). |  |  |  | 26 28 30 32 34 Artrodesis del hombro en posición funcional (20° a 40° flexión, 20° a 40 ° abducción, 20° a 50° rotación interna) | Si el posicionamiento no es óptimo, evaluar por medio de /a sección 15.7, Deficiencia del balance articular. |
 | Artroplastia de hombro*. |  |  | 20 22 24 25 25 Implante con pérdida o no del balance articular. | 26 28 30 32 34 Resección con pérdida o no del balance articular. 34 37 40 43 46 Deficiencia funcional grave. Complicada, inestable, o infectada. |  |
-| ES: indica extremidad superior; MMC: Máxima mejoría Clínica; e/p: estado posterior; y SLAP: labrum superior de anterior a posterior). La DES (Deficiencia de Extremidad Superior) debe ser convertida en a DTP (Deficiencia Total de la Persona) con la Tabla 15.9. * Si la pérdida de movimiento está presente, esta deficiencia puede ser evaluada de manera alternativa utilizando la sección de Deficiencia del balance articular (BA). Una deficiencia evaluada por el método del balance articular (BA) es un hallazgo aparte y no se combina con el diagnóstico de deficiencia. En todo caso de realizarse las dos evaluaciones deberá elegirse la de mayor puntuación. |
+| ES: indica extremidad superior; MMC: Máxima mejoría Clínica; e/p: estado posterior; y SLAP: labrum superior de anterior a posterior). La DES (Deficiencia de Extremidad Superior) debe ser convertida en a DTP (Deficiencia Total de la Persona) con la tabla 15.9. |
 
 15.2.2.b Criterios Secundarios de Ajuste (CSA).
 
@@ -3530,7 +3531,7 @@ Tabla 15.6 Ajuste de la historia funcional: Uso de Extremidades superiores
 |  |  | Y capaz de realizar las actividades de la vida diaria con el miembro afectado con dificultad leve y sin ayuda de otra persona. | Y capaz de realizar las actividades de vida diaria con el miembro afectado con dificultad moderada y modificaciones pero sin ayuda de otra persona. | Y capaz de realizar las actividades de vida diaria con el miembro afectado con dificultad grave y requiere alguna ayuda de otra persona para realizar alguna de las actividades de vida diaria. | E incapaz de realizar las actividades de vida diaria con el miembro afectado por lo que requiere siempre la ayuda de otra persona para realizar alguna de las actividades de vida diaria. |
 | Puntuación QuickDASH. | 0-20. | 21-40. | 41-60. | 61-80. | 81-100. |
 
-El evaluador debe considerar la fiabilidad de los datos autoinformados por la persona evaluada, reconociendo la posible influencia de factores conductuales y psicosociales. Si el grado de la historia funcional difiere en 2 o más intervalos del «modificador de grado» de lo descrito por el examen físico o las pruebas complementarias, la historia funcional debe ser asumida como no fiable y se excluye del proceso de graduación.
+El evaluador debe considerar la fiabilidad de los datos autoinformados por la persona evaluada, reconociendo la posible influencia de factores conductuales y psicosociales. Si el grado de la historia funcional difiere en 2 o más intervalos del "modificador de grado" de lo descrito por el examen físico o las pruebas complementarias, la historia funcional debe ser asumida como no fiable y se excluye del proceso de graduación.
 
 La evaluación por el uso de las extremidades superiores, por esta sección (Tabla 15.6) se emplea exclusivamente como criterio secundario de ajuste
 
@@ -3540,7 +3541,7 @@ Modelo alternativo de evaluación de EESS por alteración funcional de EESS: En 
 
 Si se utiliza un hallazgo del examen físico para ubicar un diagnóstico dentro de un intervalo especifico en una parrilla DBD, el mismo hallazgo no puede ser usado como un modificador de grado. Como, por ejemplo: el balance articular de la extremidad superior, como en el caso de artrodesis de muñeca, puede utilizarse como criterio diagnóstico específico dentro de la parrilla regional (DBD), en este caso el balance articular no podrá ser usado como modificador de grado.
 
-Las restricciones en el balance articular en múltiples direcciones aumentan la deficiencia. Los valores de la medición del balance articular para dedos/mano, muñeca, codo o el hombro se comparan con los de los criterios establecidos en la Tabla 15.7 y 15.28 para definir el balance articular como modificador de grado. El deterioro en el balance articular modifica el valor inicial de ajuste, no se combina con la DBD.
+Las restricciones en el balance articular en múltiples direcciones aumentan la deficiencia. Los valores de la medición del balance articular para dedos/mano, muñeca, codo o el hombro se comparan con los de los criterios establecidos en la Tabla 15.7 y 15.22 para definir el balance articular como modificador de grado. El deterioro en el balance articular modifica el valor inicial de ajuste, no se combina con la DBD.
 
 Tabla 15.7 Ajuste de la exploración física: Extremidades superiores
 
@@ -3549,12 +3550,12 @@ Tabla 15.7 Ajuste de la exploración física: Extremidades superiores
 | Sin problema | Problema leve | Problema moderado | Problema grave | Problema muy grave o total |
 | Hallazgos observados y por palpación (puntos de dolor, tumefacción, bulto o crepitación). | Hallazgos inconsistentes. | Hallazgos mínimos a la palpación, documentados consistentemente sin anormalidades observadas. | Hallazgos moderados a la palpación, documentados consistentemente, y apoyados por las anormalidades observadas. | Hallazgos graves a la palpación, documentados consistentemente, y apoyados por anormalidades observadas moderadas o graves. | Hallazgos muy graves a la palpación, documentados consistentemente, y apoyados por anormalidades observadas muy graves. |
 | Estabilidad. | Estable. | Grado 1 (ligera) de inestabilidad. | Grado 2 (moderada) de inestabilidad. | Grado 3 (grave) de inestabilidad. | Inestabilidad muy grave. |
-| Mano / dedos / pulgar. |  | Dolor con tensión, pero de ligamento sin apertura articular por estrés. | Dolor y apertura leve. | Dolor y > 5 mm de apertura articular con estrés. | Inestabilidad grave. |
-| Muñeca. |  | Historia de chasquidos o golpetazos, pero no reproducibles. | Historia de chasquidos o golpetazos, reproducibles al examen físico. |  |  |
+| Mano / dedos / pulgar. |  | Dolor con tensión, de ligamento pero sin apertura articular por estrés. | Dolor y apertura leve. | Dolor y > 5 mm de apertura articular con estrés. | Inestabilidad grave. |
+| Muñeca. |  | Historia de chasquidos o crujidos, pero no reproducibles. | Historia de chasquidos o crujidos, reproducibles al examen físico. |  |  |
 | Grados excesivos de desviación articular mediolateral pasiva / activa de la muñeca en comparación con lo normal. |  | < 10° pasiva. < 20° activa. | 10° - 20° pasiva. 20° - 30° activa. | > 20° pasiva. > 30° activa. |  |
 | Hombro. |  | Grado 1 (ligera) de inestabilidad; subluxable. | Grado 2 (moderado) de inestabilidad; subluxable con facilidad. | Grado 3 (grave) de inestabilidad; dislocable con anestesia o sedación. |  |
 | Alineación / deformidad. | Normal para el individuo con simetría para el lado opuesto. | Ligera. | Moderada. | Grave. | Muy grave. |
-| Balance articular (BA) (en referencia a la tabla 15.28 Sección 15.7). | Ninguno. | Ligera disminución respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia total por balance articular < 20 % de deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular de < 12 % de deficiencia en la extremidad superior. | Disminución moderada respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia total por balance articular del 20 % - 39 % deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular del 12% al 24% en la extremidad superior. | Disminución grave respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia total por balance articular del 40 % - 70 % deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular del 25% al %49% de deficiencia en la extremidad superior. | Disminución muy grave respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia tota por balance articular > 70 % de deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular > 49% de deficiencia en la extremidad superior. |
+| Balance articular (BA) (en referencia a la tabla 15.22 Sección 15.7). | Ninguno. | Ligera disminución respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia total por balance articular < 20 % de deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular de < 12 % de deficiencia en la extremidad superior. | Disminución moderada respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia total por balance articular del 20 % - 39 % deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular del 12% al 24% en la extremidad superior. | Disminución grave respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia total por balance articular del 40 % - 70 % deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular del 25% al %49% de deficiencia en la extremidad superior. | Disminución muy grave respecto al lado opuesto normal o no lesionado. Solo para deficiencia de dedos, esto refleja una deficiencia tota por balance articular > 70 % de deficiencia de dedos. Para muñeca, codo y hombro esto refleja una deficiencia total por balance articular > 49% de deficiencia en la extremidad superior. |
 | Atrofia muscular (asimetría comparada con el lado normal. | < 1 cm. | 1,0 - 1,9 cm. | 2,0 - 2,9 cm. | 3,0 - 3,9 cm. | + de 4,0 cm. |
 
 15.2.2.b.3 Ajuste por las pruebas complementarias (PC).
@@ -3566,7 +3567,7 @@ Tabla 15.8 Ajustes de las pruebas complementarias: Extremidades superiores
 | Estudios de imagen. | Pruebas complementarias o resultados relevantes no disponibles. | Pruebas complementarias confirman el diagnóstico, patología leve. | Pruebas complementarias confirman el diagnóstico, patología moderada. | Pruebas complementarias confirman el diagnóstico, patología grave. | Pruebas complementarias confirman el diagnóstico, patología muy grave. |
 | Hombro. |  |  | Estudios clínicos confirman uno de los siguientes diagnósticos sintomáticos: desgarro del manguito rotador, SLAP u otra lesión labral, patología del tendón del bíceps. |  | Estudios clínicos confirman más de uno de los siguientes diagnósticos sintomáticos: desgarro del manguito rotador, SLAP u otra lesión labral, patología del tendón del bíceps. El diagnóstico más importante es el único que se puntúa. |
 | Rayos X, TAC, RMN: |
-| Artrosis. | Intervalo de cartílago normal. | Intervalo de cartílago normal o estrechamiento leve del espacio articular y/u osteofitos leves en un lado de la articulación. | Intervalo de cartílago: estrechamiento moderado del espacio articular con osteofítos moderados en uno o ambos lados de la articulación; evidencia radiográfica de artrosis o lesión postraumática moderada onecrosis avascular sin colapso. | Intervalo de cartílago: estrechamiento grave del espacio articular con osteofrtos graves en ambos lados de la articulación; evidencia radiográfica de artrosis o lesión postraumática grave o necrosis avascular con colapso/fragmentación ósea. | No existe intervalo de cartílago: evidencia osteofitosis o sindesmosis muy graves; radiográfica de artrosis o lesión postraumática muy grave. |
+| Artrosis. | Intervalo de cartílago normal. | Intervalo de cartílago normal o estrechamiento leve del espacio articular y/u osteofitos leves en un lado de la articulación. | Intervalo de cartílago: estrechamiento moderado del espacio articular con osteofítos moderados en uno o ambos lados de la articulación; evidencia radiográfica de artrosis o lesión postraumática moderada onecrosis avascular sin colapso. | Intervalo de cartílago: estrechamiento grave del espacio articular con osteofitos graves en ambos lados de la articulación; evidencia radiográfica de artrosis o lesión postraumática grave o necrosis avascular con colapso/fragmentación ósea. | No existe intervalo de cartílago: evidencia osteofitosis o sindesmosis muy graves; radiográfica de artrosis o lesión postraumática muy grave. |
 | Estabilidad |
 | Laxitud articular (basada en pruebas de tensión). |  | Inestabilidad < 10°. | Inestabilidad 10° - 20°. | Inestabilidad 20° - 30°. | Inestabilidad > 30°. |
 | Muñeca (ver explicación en el texto). |  | Angulo radiosemilunar 11°-20°. Angulo escafosemilunar 61° - 70°. Brecha escafosemiluna 3 - 5 mm. Salto semilunar Piramidal semilunar > 1 mm. Traslación cubital leve. | Angulo radiosemilunar 21° - 30°. Angulo escafosemilunar 71° - 80°. Brecha escafosemilunar 6 - 8 mm. Salto semilunar Piramidal semilunar > 2 mm. Traslación cubital moderada. | Angulo radiosemilunar > 30°. Angulo escafosemilunar > 80°. Brecha escafosemilunar > 8 mm. Salto semilunar Piramidal semilunar > 3 mm. Traslación cubital severa. |  |
@@ -3581,7 +3582,7 @@ Si hay diversas deficiencias en más de una región de la extremidad superior se
 
 El Gráfico de valores combinados (en el Apéndice al final del libro) se utiliza para determinar el valor combinado de dos o más porcentajes de deficiencia. Todos los porcentajes que se han combinado deben expresarse utilizando un denominador común o una misma unidad de valor relativo el de deficiencia de extremidad superior (DES) En el caso de que diversas deficiencias sean combinadas sucesivamente, se combina en primer lugar la de mayor puntuación con la siguiente de puntuación mayor que queda, y luego se combina con la siguiente puntuación mayor que quede, y luego se repite el proceso hasta que todas las puntuaciones de deficiencia estén combinadas.
 
-La tabla 15.9 en este capítulo muestra así mismo los porcentajes que la deficiencia «parcial» a nivel de la extremidad superior (ES) supone sobre de la deficiencia «total» de la persona, así como de los porcentajes proporcionales entre las diversas regiones de la extremidad (hombro, codo muñeca, mano/dedos). El factor de conversión del 100% de DES a la deficiencia total de la persona (DTP) es el 60%.
+La tabla 15.9 en este capítulo muestra así mismo los porcentajes que la deficiencia "parcial" a nivel de la extremidad superior (ES) supone sobre de la deficiencia "total" de la persona, así como de los porcentajes proporcionales entre las diversas regiones de la extremidad (hombro, codo muñeca, mano/dedos). El factor de conversión del 100% de DES a la deficiencia total de la persona (DTP) es el 60 %.
 
 Tabla 15.9 Valores de deficiencia calculados a partir de deficiencia de la extremidad Relación de la deficiencia de los dedos con la deficiencia de la mano (% de deficiencia)
 
@@ -3609,7 +3610,7 @@ Tabla 15.9 Valores de deficiencia calculados a partir de deficiencia de la extre
 
 Relación de la deficiencia de la mano con la deficiencia de la extremidad superior:
 
-| Mano | Ext. Superior | Mano | Ext. Superior | Mano | Ext. Superior | Mano | Ext. Superior | Mano | Ext. Superior |
+| Mano | Ext. superior | Mano | Ext. superior | Mano | Ext. superior | Mano | Ext. superior | Mano | Ext. superior |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 1 | 22 | 20 | 43 | 39 | 64 | 58 | 83 | 75 |
 | 2 | 2 | 23 | 21 | 44 | 40 | 65 | 59 | 84 | 76 |
@@ -3633,7 +3634,7 @@ Relación de la deficiencia de la mano con la deficiencia de la extremidad super
 
 Relación de la deficiencia de la extremidad superior con la deficiencia total de la persona:
 
-| Ext. Superior | DTP | Ext. Superior | DTP | Ext. Superior | DTP | Ext. Superior | DTP | Ext. Superior | DTP |
+| Ext. superior | DTP | Ext. superior | DTP | Ext. superior | DTP | Ext. superior | DTP | Ext. superior | DTP |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1 | 1 | 22 | 13 | 43 | 26 | 63 | 38 | 83 | 50 |
 | 2 | 1 | 23 | 14 | 44 | 26 | 64 | 38 | 84 | 50 |
@@ -3661,29 +3662,29 @@ Relación de la deficiencia de la extremidad superior con la deficiencia total d
 
 Incluye la pérdida de los nervios de los dedos, el plexo braquial, los nervios periféricos, y los síndromes de atrapamiento o compresión. La deficiencia de los nervios periféricos podrá ser combinada con la DBD a nivel de la extremidad superior, siempre que la DBD no incluya la deficiencia del nervio. Es importante determinar la distribución anatómica y la severidad de la pérdida de la función que resulta del (1) el déficit sensorial o dolor y (2) el déficit motor y la pérdida de fuerza.
 
-Las deformidades características y manifestaciones resultantes de las lesiones de los nervios periféricos, tales como la restricción del movimiento, atrofia y cambios vasomotores, tráficos, y en los reflejos, han sido tomadas en cuenta en la estimación de los valores de puntuación de la deficiencia que aparecen en esta sección, por lo que en ningún caso se tendrán en cuenta puntuaciones adicionales
+Las deformidades características y manifestaciones resultantes de las lesiones de los nervios periféricos, tales como la restricción del movimiento, atrofia y cambios vasomotores, tróficos, y en los reflejos, han sido tomadas en cuenta en la estimación de los valores de puntuación de la deficiencia que aparecen en esta sección, por lo que en ningún caso se tendrán en cuenta puntuaciones adicionales
 
 15.4.a Evaluación clínica y graduación de las deficiencias sensorial y motora Evaluación neurológica y determinación del intervalo de gravedad.
 
-Los resultados del examen sensorial y motor son utilizados para definir la gravedad de las deficiencias. Esto se refleja en cinco intervalos de gravedad (normal, leve, moderado, grave y total) tal como se ilustra en la Tabla 15.10 y que posteriormente serán utilizados como criterio principal de elección de intervalo de gravedad de la deficiencia del nervio periférico y del plexo braquial en tablas 15.5 y 15.16).
+Los resultados del examen sensorial y motor son utilizados para definir la gravedad de las deficiencias. Esto se refleja en cinco intervalos de gravedad (normal, leve, moderado, grave y total) tal como se ilustra en la tabla 15.10 y que posteriormente serán utilizados como criterio principal de elección de intervalo de gravedad de la deficiencia del nervio periférico y del plexo braquial en tablas 15.15 y 15.16).
 
 Tabla 15.10 Intervalos de gravedad de la deficiencia sensorial y motora
 
 | Deficiencia | Intervalos de Gravedad |
 | --- | --- |
 | Normal | Leve | Moderada | Grave | Muy grave o pérdida total |
-| Deficiencia sensorial. | La sensibilidad y sensación normal y discriminación de 2 puntos normales. | Sensibilidad táctil superficial distorsionada. y discriminación de 2 puntos normal (< 6 mm). | Sensibilidad táctil superficial distorsionada con sensación anormal y discriminación de 2 puntos anormal (> 6 mm). | Disminución del dolor cutáneo superficial y sensibilidad táctil. Disminución de sensibilidad orotectora. | Ausencia de dolor cutáneo superficial y sensibilidad táctil. |
+| Deficiencia sensorial. | La sensibilidad y sensación normal y discriminación de 2 puntos normales. | Sensibilidad táctil superficial distorsionada. y discriminación de 2 puntos normal (< 6 mm). | Sensibilidad táctil superficial distorsionada con sensación anormal y discriminación de 2 puntos anormal (> 6 mm). | Disminución del dolor cutáneo superficial y sensibilidad táctil. Disminución de sensibilidad protectora. | Ausencia de dolor cutáneo superficial y sensibilidad táctil. |
 | Deficiencia motora. | Normal (Grado 5). | Grado 4/5 (contra la gravedad y con alguna resistencia). | Grado 3/5 (contra la gravedad solo sin resistencia). | Grado 2/5 (movimiento con gravedad eliminada). | Grado 0-1/5 (sin evidencia de contractilidad ni movimiento articular a leve contracción sin movimiento articular. |
 
-15.4.b Evaluación de la deficiencia del nervio digital.
+15.4.b Evaluación de la deficiencia sensorial del nervio digital.
 
 A diferencia de la mayoría de las secciones en este capítulo, las puntuaciones de la deficiencia por pérdida de sensibilidad en los dedos de las EESS no utilizarán el modelo de graduación en cinco intervalos de gravedad de la CIF. Las lesiones de los nervios pueden ocurrir a cualquier nivel desde la punta del dedo a la articulación MCF.
 
-El porcentaje de longitud digital implicada se deriva de la escala superior de la Figura 15.1 para el pulgar y de la Figura 15.2 para los dedos.
+El porcentaje de longitud digital implicada se deriva de la escala superior de la figura 15.1 para el pulgar y de la figura 15.2 para los dedos.
 
 Tabla 15.11 Clasificación de la deficiencia de la calidad de la sensibilidad
 
-| Discriminación de 15 puntos ‒ mm | Pérdida sensorial | Deficiencia de la calidad sensorial ‒ % |
+| Discriminación de 2 puntos en 15 puntos | Pérdida sensorial | Deficiencia de la calidad sensorial ‒ % |
 | --- | --- | --- |
 | < 6 | Ninguna | 0 |
 | 7-15 | Parcial | 50 |
@@ -3691,7 +3692,7 @@ Tabla 15.11 Clasificación de la deficiencia de la calidad de la sensibilidad
 
 Figura 15.1 Deficiencia del pulgar debido a la amputación en varias longitudes (escala superior) o la pérdida sensorial transversal total (escala inferior)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12398523_image1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13474423_1.png)
 
 Pérdida sensorial transversal total
 
@@ -3701,19 +3702,19 @@ La pérdida sensorial transversal parcial representa el 50% de la pérdida senso
 
 Figura 15.2 Porcentaje de deficiencia digital por amputación de los dedos a varios niveles o la pérdida sensorial transversal total (escala inferior)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12398523_image2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13474422_1.png)
 
 Pérdida sensorial transversal total
 
-La pérdida sensorial transversal total representa el 100% de la pérdida sensorial (discriminación de dos puntos mayor de 15 mm), involucra a ambos nervios digitales y recibe el 50% del valor de la deficiencia por amputación del dedo para el porcentaje correspondiente de longitud digital (Tablas 15.12 y 15.13).
+La pérdida sensorial transversal total representa el 100 % de la pérdida sensorial (discriminación de dos puntos mayor de 15 mm), involucra a ambos nervios digitales y recibe el 50 % del valor de la deficiencia por amputación del dedo para el porcentaje correspondiente de longitud digital (tablas 15.12 y 15.13).
 
-Las deficiencias por pérdida sensorial longitudinal son: el pulgar y el dedo meñique, lado radial 40% y el lado cubital del 60%; índice, medio y anular, lado radial 60%, lado cubital 40%.
+Las deficiencias por pérdida sensorial longitudinal son: el pulgar y el dedo meñique, lado radial 40 % y el lado cubital del 60 %; índice, medio y anular, lado radial 60 %, lado cubital 40 %.
 
-Las superficies utilizadas para la oposición en las funciones de pellizco y el aspecto cubital del dedo meñique se han valorado en más. Si el dedo meñique ha sido amputado, el valor relativo de la parte cubital del dedo anular se convierte en el 60% y la de la parte radial, el 40%, ya que el dedo anular es ahora el borde digital.
+Las superficies utilizadas para la oposición en las funciones de pellizco y el aspecto cubital del dedo meñique se han valorado en más. Si el dedo meñique ha sido amputado, el valor relativo de la parte cubital del dedo anular se convierte en el 60 % y la de la parte radial, el 40 %, ya que el dedo anular es ahora el borde digital.
 
 Tabla 15.12 Deficiencia de dedos para las pérdidas sensoriales transversal y longitudinal en el pulgar y el dedo meñique basado en el porcentaje de longitud digital implicado
 
-| % de longitud dedo | Porcentaje de deficiencia de dedos |
+| % deLongitud dedo | Porcentaje de deficiencia de dedos |
 | --- | --- |
 | Pérdida transversal | Pérdida longitudinal |
 | Ambos nervios digitales | Nervio digital cubital | Nervio digital radial |
@@ -3747,7 +3748,7 @@ Tabla 15.13 Deficiencia de dedos para las pérdidas sensoriales transversal y lo
 | 20 | 10 | 5 | 4 | 2 | 6 | 3 |
 | 10 | 5 | 3 | 2 | 1 | 3 | 2 |
 
-15.4.c Deficiencia solo sensorial por lesión de nervio periférico.
+5.4.c Deficiencia solo sensorial por lesión de nervio periférico.
 
 Los nervios puramente sensoriales (ramas dorsal y palmar del mediano y el nervio cubital, nervio radial superficial; y los nervios medial, lateral y posterior del antebraquial cutáneo, etc.) se clasifican utilizando la Tabla 15.14, Deficiencia sólo sensorial por lesión del nervio periférico.
 
@@ -3831,11 +3832,11 @@ Orígenes y funciones de los nervios periféricos de las EESS:
 
 Figura 15.3 Inervación motora de la extremidad superior
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12398523_image3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475779_1.png)
 
 Figura 15.4 Inervación cutánea de la extremidad superior y nervios periféricos y raíces relacionadas
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12398523_image4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475778_1.png)
 
 Tabla 15.15 Deficiencia del plexo braquial: Deficiencias de la extremidad superior
 
@@ -3857,9 +3858,9 @@ Tabla 15.16 Deficiencia del nervio periférico: Deficiencias de la extremidad su
 | Axilar (circunflejo). |  | 0 0 1 1 1 Déficit sensorial leve o *SRD II leve. 1 2 2 3 3 Déficit sensorial moderado o *SDRC II moderado. 3 3 4 4 4 Déficit sensorial grave o *SDRC II grave. 4 4 5 5 5 Déficit sensorial muy grave o *SDRC II muy grave. 0 2 5 7 9 Déficit motor ligero. 9 11 13 13 13 Déficit motor moderado. | 18 20 22 24 25 Déficit motor grave. | 26 28 31 33 35 Déficit motor muy grave. |  |
 | Escapular dorsal. | 0. | 0 0 1 1 1 Déficit motor leve. 1 2 2 2 3 Déficit motor moderado. 3 3 3 3 4 Déficit motor grave. 4 4 4 3 5 Déficit motor muy grave. |  |  |  |
 | Torácico largo. | 0. | 0 1 2 3 4 Déficit motor ligero. 4 5 6 7 8 Déficit motor moderado. 8 8 9 10 11 Déficit motor grave. 11 12 13 13 13 Déficit motor muy grave. |  |  |  |
-| Braquial cutáneo medial. | 0. | 0 0 1 1 1 Déficit sensorial leve o *SRD II leve. 1 2 2 3 3 Déficit sensorial moderado o *SDRC II moderado. 3 3 4 4 4 Déficit sensorial grave o *SDRC II grave*. 4 4 5 5 5 Déficit sensorial muy grave o SDRC II muy grave. | 18 20 22 24 25 Déficit motor grave. | 26 28 31 33 35 Déficit motor muy grave. |  |
+| Braquial cutáneo interno o medial del antebrazo. | 0. | 0 0 1 1 1 Déficit sensorial leve o *SRD II leve. 1 2 2 3 3 Déficit sensorial moderado o *SDRC II moderado. 3 3 4 4 4 Déficit sensorial grave o *SDRC II grave*. 4 4 5 5 5 Déficit sensorial muy grave o SDRC II muy grave. |  |  |  |
 | Nervio mediano: |
-| Porción por encima del punto medio del antebrazo. | 0. | 0 3 5 8 10 Déficit sensorial ligero o *SDRC II leve. 0 3 6 9 12 Déficit motor ligero. | 0 3 5 8 10 Déficit sensorial moderado o SDRC II moderado. 0 3 6 9 12 Déficit motor moderado. | 26 26 27 29 31 Déficit sensorial grave o *SDRC II grave). 32 33 35 37 39 Déficit sensorial muy grave o *SDRC II muy grave. 26 26 29 32 35 Déficit motor grave. 33 36 40 43 44 Déficit motor muy grave. |  |
+| Porción por encima del punto medio del antebrazo. | 0. | 0 3 5 8 10 Déficit sensorial ligero o *SDRC II leve. 0 3 6 9 12 Déficit motor ligero. | 14 14 17 20 23 Déficit sensorial moderado. 18 20 22 24 25 Déficit motor moderado. | 26 26 27 29 31 Déficit sensorial grave o *SDRC II grave). 32 33 35 37 39 Déficit sensorial muy grave o *SDRC II muy grave. 26 26 29 32 35 Déficit motor grave. 33 36 40 43 44 Déficit motor muy grave. |  |
 | Rama interósea anterior. | 0. | 0 1 2 3 4 Déficit motor ligero. 4 5 6 7 8 Déficit motor moderado. 8 8 9 10 11 Déficit motor grave. 11 12 13 13 13 Déficit motor muy grave. |  |  |  |
 | Por debajo de la mitad del antebrazo - nervio entero (ver tabla 15.17 síndrome de túnel carpiano). | 0. | 0 3 5 8 10 Déficit sensorial ligero o *SDRC II leve. 0 1 1 2 3 Déficit motor ligero. 3 3 4 4 5 Déficit motor moderado. 5 6 6 7 8 Déficit motor grave. 7 8 9 9 10 Déficit motor muy grave. | 14 14 17 20 23 Déficit sensorial moderado o *SDRC II moderado. | 26 26 27 29 31 Déficit sensorial grave o *SDRC II grave. 32 33 35 37 39 Déficit sensorial muy grave o *SDRC II muy grave). |  |
 | Por debajo de la mitad del antebrazo. Palmar radial digital del pulgar. | 0. | 0 0 1 1 2 Déficit sensorial leve o *SDRC II leve. 2 2 3 4 4 Déficit sensorial moderado o *SDRC II moderado. 4 5 5 5 6 Déficit sensorial grave o *SDRC II grave. 6 6 6 7 7 Déficit sensorial muy grave o *SDRC II muy grave. |  |  |  |
@@ -3892,7 +3893,7 @@ Tabla 15.16 Deficiencia del nervio periférico: Deficiencias de la extremidad su
 
 El método de evaluación utilizado para calcular la deficiencia en las neuropatías por compresión difiere ligeramente del método general de DBD para el nervio periférico
 
-La neuropatía por compresión se determina utilizando sólo los métodos descritos en esta sección y será alternativo al de otras secciones de este capítulo. Si los resultados de las pruebas electrofisiológicas diagnosticas excluyen la condición de «atrapamiento», la evaluación podría ser realizada utilizando el método DBD, mediante el diagnóstico regional apropiado (tablas 15.2, 15.3 y 15.4) para «dolor inespecífico» en mano, muñeca o codo.
+La neuropatía por compresión se determina utilizando sólo los métodos descritos en esta sección y será alternativo al de otras secciones de este capítulo. Si los resultados de las pruebas electrofisiológicas diagnosticas excluyen la condición de "atrapamiento", la evaluación podría ser realizada utilizando el método DBD, mediante el diagnóstico regional apropiado (tablas 15.2, 15.3 y 15.4) para "dolor inespecífico" en mano, muñeca o codo.
 
 En ningún caso se tendrán en cuenta puntuaciones adicionales de deficiencia para la disminución de fuerza de agarre, pérdida de movimiento, o dolor, relacionados con la neuropatía.
 
@@ -3910,7 +3911,7 @@ La gravedad de la deficiencia en el nervio y los síntomas depende de la duraci�
 
 15.4.e.2 Evaluación de la deficiencia por neuropatía por compresión o focal.
 
-Los resultados de los hallazgos en las pruebas electrofisiológicas de conducción son por tanto, el «factor clave» o «criterio diagnóstico inicial «necesario, para determinar la deficiencia en esta sección y no en otra.
+Los resultados de los hallazgos en las pruebas electrofisiológicas de conducción son por tanto, el "factor clave" o "criterio diagnóstico inicial "necesario, para determinar la deficiencia en esta sección y no en otra.
 
 Las descripciones de los modificadores de grado por los hallazgos físicos y las pruebas son las siguientes:
 
@@ -3928,7 +3929,7 @@ Modificador de grado 2: El bloqueo de la conducción.
 
 Modificador de grado 3: La pérdida de axones
 
-En presencia de SDRC II (causalgia) asociado con neuropatía focal o tratamiento quirúrgico de la neuropatía focal, el deterioro se evalúa de acuerdo a los principios de SDRC II. Se deben cumplir los criterios diagnósticos especificados en la Sección 15.5, y la deficiencia se obtiene utilizando la Sección 15.4.d, Deficiencia del plexo braquial y nervios periféricos.
+En presencia de SDRC II (causalgia) asociado con neuropatía focal o tratamiento quirúrgico de la neuropatía focal, el deterioro se evalúa de acuerdo con los principios de SDRC II. Se deben cumplir los criterios diagnósticos especificados en la Sección 15.5, y la deficiencia se obtiene utilizando la Sección 15.4.d, Deficiencia del plexo braquial y nervios periféricos.
 
 15.4.e.2.3 Neuropatías focales múltiples simultáneas.
 
@@ -3944,9 +3945,9 @@ Para la puntuación a la deficiencia por compromiso focal del nervio, se utiliza
 
 2. Modificadores de grado: Evaluar los criterios para identificar el grado (intervalo) de los modificadores de grado apropiados, según los resultados de los hallazgos en: 1) La prueba de electrofisiología 2) La anamnesis (síntomas) y 3) Los signos en la exploración física.
 
-3. Cálculo «modificador de grado promedio» (criterio principal): Que determinará el intervalo de gravedad. Determinar el valor medio de los 3 modificadores de grado, del punto 2, utilizando el número (grado) asociado para cada intervalo. Redondee el valor promedio al entero más cercano para determinar el «modificador de grado promedio».
+3. Cálculo "modificador de grado promedio" (criterio principal): Que determinará el intervalo de gravedad. Determinar el valor medio de los 3 modificadores de grado, del punto 2, utilizando el número (grado) asociado para cada intervalo. Redondee el valor promedio al entero más cercano para determinar el "modificador de grado promedio".
 
-4. Valor de intervalo de grado: Identificar la fila «Deficiencias de la extremidad superior (DES)» en la parte inferior de la tabla 15.17. Esta contiene el rango de valores de puntuación o «intervalos de grado» de la deficiencia para el «modificador de grado promedio» obtenido en el paso 3. Cada intervalo de grado a su vez, tiene tres valores de grado, por defecto, el «valor de intervalo de grado», se corresponde con el valor central.
+4. Valor de intervalo de grado: Identificar la fila "Deficiencias de la extremidad superior (DES)" en la parte inferior de la tabla 15.17. Esta contiene el rango de valores de puntuación o "intervalos de grado" de la deficiencia para el "modificador de grado promedio" obtenido en el paso 3. Cada intervalo de grado a su vez, tiene tres valores de grado, por defecto, el "valor de intervalo de grado", se corresponde con el valor central.
 
 5. Ajuste final de grado con la Escala Funcional (QuickDASH):
 
@@ -3970,30 +3971,30 @@ Un consenso internacional formal dio como resultado los criterios mostrados en l
 
 En el SDRC I, los signos clínicos y los síntomas adecuados están presentes en el miembro sin encontrarse una lesión nerviosa, la evaluación de la deficiencia se basa en la Tabla 15.20: Síndrome de dolor regional complejo (Tipo I): deficiencias de la extremidad superior.
 
-El SDRC II se considera cuando los signos y síntomas adecuados están presentes en el ámbito clínico de una lesión inequívoca de un nervio periférico especifico, por lo tanto, la evaluación se basa en la Tabla 15.16 Deficiencia del nervio periférico: deficiencias de la extremidad superior. En estos casos se deberá previamente verificar objetivamente y evaluar la gravedad del SDRC II (leve, moderado, grave o muy grave) mediante la tabla 15.20.
+El SDRC II se considera cuando los signos y síntomas adecuados están presentes en el ámbito clínico de una lesión inequívoca de un nervio periférico específico, por lo tanto, la evaluación se basa en la Tabla 15.16 Deficiencia del nervio periférico: deficiencias de la extremidad superior. En estos casos se deberá previamente verificar objetivamente y evaluar la gravedad del SDRC II (leve, moderado, grave o muy grave) mediante la tabla 15.20.
 
 15.5.1 Metodología de evaluación para el cálculo de la puntuación de la deficiencia por Síndrome de dolor regional complejo.
 
 1. Diagnóstico objetivo (criterio inicial necesario): Determinar si el SDRC es un diagnóstico objetivo evaluable confirmado (Tabla 15.18 Criterios diagnósticos objetivos para el síndrome de dolor regional complejo), si el diagnóstico ha estado presente durante al menos un año, si ha sido verificado por más de un médico y se ha realizado un proceso amplio de diagnóstico diferencial que ha permitido descartar claramente los demás diagnósticos.
 
-2. Puntos de umbral (criterio principal): Determinar el número de «puntos de umbral» en la tabla de los criterios diagnósticos objetivos (Tabla 15.19: Puntos de criterios diagnósticos objetivos para el síndrome de dolor regional complejo).
+2. Puntos de umbral (criterio principal): Determinar el número de "puntos de umbral" en la tabla de los criterios diagnósticos objetivos (Tabla 15.19: Puntos de criterios diagnósticos objetivos para el síndrome de dolor regional complejo).
 
-3.1 En el SDRC tipo II (causalgia): Una vez definida la gravedad mediante la identificación del intervalo de grado (leve, moderado, grave o muy grave) en la tabla 16.13, el proceso de cálculo de la puntuación de deficiencia, en los casos de SDRC tipo II, continua en la Tabla 16.11: Deficiencia del nervio periférico: deficiencias de la extremidad superior. En los casos de SDRC tipo I, se continuará con los pasos siguientes.
+3.1 En el SDRC tipo II (causalgia): Una vez definida la gravedad mediante la identificación del intervalo de grado (leve, moderado, grave o muy grave) en la tabla 15.20, el proceso de cálculo de la puntuación de deficiencia, en los casos de SDRC tipo II, continua en las Tablas 15.15 y 15.16: Deficiencia del nervio periférico: deficiencias de la extremidad superior. En los casos de SDRC tipo I, se continuará con los pasos siguientes.
 
 3.2. Modificadores de grado (en el SDRC tipo I): Evaluar los criterios para identificar el grado (intervalo) de los modificadores de grado de ajuste apropiados, según los resultados de los hallazgos en: 1) Historia Funcional (HF): Utilizando las Tablas de Ajuste de la historia funcional (HF) Tabla 15.6; 2) Exploración Física (EF); utilizando la tabla de: Ajuste de la exploración física (EF) Tabla 15.7; 3) Las Pruebas Complementarias(PC): Utilizando la tabla: Ajuste de las pruebas complementarias (PC) Tabla 15.8; de las extremidades superiores. Identifique el número de modificadores de grado para cada factor de ajuste que se determina como fiable.
 
-4. Cálculo «modificador de grado promedio» (en el SDRC tipo I): Calcular la media de los números de los modificadores de grado anteriores (punto 3) y emplear la información para definir el intervalo de grado de gravedad de la Tabla 15.20 (Síndrome del dolor regional complejo Deficiencias de la extremidad superior). Por defecto se considerará como valor de intervalo de grado el valor central.
+4. Cálculo "modificador de grado promedio" (en el SDRC tipo I): Calcular la media de los números de los modificadores de grado anteriores (punto 3) y emplear la información para definir el intervalo de grado de gravedad de la Tabla 15.20 (Síndrome del dolor regional complejo Deficiencias de la extremidad superior). Por defecto se considerará como valor de intervalo de grado el valor central.
 
-5. Ajuste de grado con el «modificador de grado promedio» (en el SDRC tipo I): Si el intervalo de grado del «modificador de grado promedio» no coincide con el intervalo de grado asignado por los «puntos de umbral» de hallazgos de diagnóstico objetivo (criterio principal) (Tabla 15.19), el valor central del «intervalo de grado inicial», se modificara proporcionalmente, al alta o a la baja.
+5. Ajuste de grado con el "modificador de grado promedio" (en el SDRC tipo I): Si el intervalo de grado del "modificador de grado promedio" no coincide con el intervalo de grado asignado por los "puntos de umbral" de hallazgos de diagnóstico objetivo (criterio principal) (Tabla 15.19), el valor central del "intervalo de grado inicial", se modificará proporcionalmente, al alta o a la baja.
 
-La evaluación para el SDRC es un enfoque «solitario». En el caso de asignarse la deficiencia al SDRC, en concepto de dolor no se asignará ninguna deficiencia adicional del capítulo 6 (Deficiencia relacionada con el Dolor) como tampoco se combinará la deficiencia del SDRC con ningún otro enfoque para la misma extremidad de ese capítulo.
+La evaluación para el SDRC tipo I es un enfoque "solitario". En el caso de asignarse la deficiencia al SDRC tipo I, en concepto de dolor no se asignará ninguna deficiencia adicional del capítulo 6 (Deficiencia relacionada con el Dolor) como tampoco se combinará la deficiencia del SDRC tipo I con ningún otro enfoque para la misma extremidad de ese capítulo.
 
 Tabla 15.18 Criterios diagnósticos objetivos para el síndrome de dolor regional complejo
 
 | Dolor continuo, que es desproporcionado a cualquier evento provocado. |
 | --- |
-| 1) Debe informar al menos de un síntoma en tres de las cuatro categorías siguientes: – Sensorial: informa de hiperestesia y/o alodinia. – Vasomotor: informa de temperatura asimétrica y/o cambios de color en la piel y/o color asimétrico de la piel. – Sudomotor / Edema: informa de edema y/o cambios en la transpiración y/o sudoración asimétrica. – Motor / Trófico: informa de disminución del balance articular y/o disfunción motora (debilidad, temblor, distonía) y/o cambios tróficos (pelo, uña, piel). |
-| 2) Debe manifestar al menos un signoa en el momento de la evaluación en dos o más de las siguientes categorías: – Sensorial: Evidencia de hiperalgesia (pinchazo) y/o alodinia (al tacto ligero y/o presión somática profunda y/o movimiento articular). – Vasomotor: Evidencia de temperatura asimétrica y/o cambios de color en piel y/o asimetría. – Sudomotor / Edema: Evidencia de edema y/o cambios en la transpiración y/o sudoración asimétrica. – Motor / Trófico: Evidencia disminución del balance articular y/o disfunción motora (debilidad, temblor, distonía) y/o cambios tráficos (pelo, uña, piel). |
+| 1) Debe informar al menos de un síntoma en tres de las cuatro categorías siguientes: – Sensorial: informa de hiperestesia y/o alodinia. – Vasomotor: informa de temperatura asimétrica y/o cambios de color en la piel y/o color asimétrico de la piel. – Sudomotor / Edema: informa de edema y/o cambios en la transpiración y/o sudoración asimétrica. – Motor / Trófico: informa de disminución del balance articular y/o disfunción motora (debilidad, temblor, distonia) y/o cambios tróficos (pelo, uña, piel). |
+| 2) Debe manifestar al menos un signoa en el momento de la evaluación en dos o más de las siguientes categorías: – Sensorial: Evidencia de hiperalgesia (pinchazo) y/o alodinia (al tacto ligero y/o presión somática profunda y/o movimiento articular). – Vasomotor: Evidencia de temperatura asimétrica y/o cambios de color en piel y/o asimetría. – Sudomotor / Edema: Evidencia de edema y/o cambios en la transpiración y/o sudoración asimétrica. – Motor / Trófico: Evidencia disminución del balance articular y/o disfunción motora (debilidad, temblor, distonia) y/o cambios tróficos (pelo, uña, piel). |
 | No hay otro diagnóstico que explique mejor los signos y síntomas. Un signo solo cuenta si es observado y documentado en el momento de la evaluación de la deficiencia. |
 
 Tabla 15.19 Puntos de hallazgos diagnósticos objetivos para el síndrome de dolor regional complejo
@@ -4069,9 +4070,9 @@ Tabla 15.21 Deficiencia por amputación de la extremidad superior a varios nivel
 | Mano: |
 | Todos los dedos excepto el pulgar en la articulación MCF. |  | 60 | 54 | 32 |
 | Todos los dedos en la articulación MCF. |  | 100 | 90 | 54 |
-| Antebrazo / mano: |
+| Antebrazo/mano: |
 | Distal desde la inserción bicipital hasta la pérdida transmetacarpofalángica de todos los dedos. |  |  | 94-90 | 56-54 |
-| Brazo / antebrazo: |
+| Brazo/antebrazo: |
 | Distal desde la inserción deltoidea hasta la inserción bicipital. |  |  | 95 | 57 |
 | Brazo: |
 | Inserción deltoidea y proximidades. |  |  | 100 | 60 |
@@ -4247,9 +4248,11 @@ Lado Lesionado ________ Derecho ________ Izquierdo _______ Bilateral
 
 15.10.b Ejemplo de registro de la deficiencia de la extremidad superior.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12398523_image5.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13476594_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12398523_image6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13476594_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13476594_3.png)
 
 15.11 Anexos.
 
@@ -4276,7 +4279,7 @@ Graduación del QuickDASH (Suma de la puntuación x 100/55).
 
 (0-20 Normal; 21-40 Leve; 41-60 Moderado; 60-80 Grave; 81-100 Muy grave.)
 
-Cálculo de la puntuación del «Quick Dash» (Discapacidad / Síntomas) = suma de la puntuación de cada una de las respuestas multiplicado por 100 y dividido por el máximo de puntuación posible.
+Cálculo de la puntuación del "Quick Dash" (Discapacidad / Síntomas) = suma de la puntuación de cada una de las respuestas multiplicado por 100 y dividido por el máximo de puntuación posible.
 
 Capítulo 16
 
@@ -4319,7 +4322,7 @@ Tabla 16.2 Parrilla regional de pie y tobillo - Deficiencia de la Extremidad Inf
 | Tejidos blandos |
 | Uñas, Callos / úlcera plantar recurrente; contusión / lesión por aplastamiento; fascitis plantar; fibromatosis plantar; masa de tejidos blandos (ganglios, etc.) sintomática; bursitis retrocalcánea. | 0 Sin hallazgos anormales, objetivos significativos en la exploración o estudios radiográficos. | 0 1 1 2 2 Hallazgos a la palpación, coherentes, significativos y/o hallazgos radiográficos. |  |  |  |
 | Músculo / tendón: |
-| Desgarrado, tendinitis o ruptura del tendón del tibial posterior, Aquiles, tendón peroneal o tibial anterior (todos los tendones por debajo). | 0 Sin hallazgos anormales objetivos, significativos de lesión de músculo o tendón. | 0 1 1 2 2 Hallazgos a la palpación y/o radiográficos. 3 4 5 6 7 Déficits leves en el movimiento. 7 8 10 12 13 Déficits moderados en el movimiento y/o debilidad importante. | 14 15 16 17 18 Deformidad flexible y pérdida de función específica de tendón. | 28 31 34 37 40 Deformidad rígida y pérdida de función específica de tendón. |  |
+| Desgarrado, tendinitis o ruptura del tendón del tibial posterior, Aquiles, tendón peroneal anterior (todos los tendones por debajo). | 0 Sin hallazgos anormales objetivos, significativos de lesión de músculo o tendón. | 0 1 1 2 2 Hallazgos a la palpación y/o radiográficos. 3 4 5 6 7 Déficits leves en el movimiento. 7 8 10 12 13 Déficits moderados en el movimiento y/o debilidad importante. | 14 15 16 17 18 Deformidad flexible y pérdida de función específica de tendón. | 28 31 34 37 40 Deformidad rígida y pérdida de función específica de tendón. |  |
 | Desgarrado, tendinitis o ruptura del tendón. Todos los demás tendones. | 0 Sin hallazgos anormales objetivos significativos de lesión de musculo o tendón. | 0 1 1 2 2 Hallazgos a la palpación y/o radiográficos. 1 2 2 2 3 Déficits leves en el movimiento. 3 4 5 6 7 Déficits moderados en el movimiento y/o debilidad importante. |  |  |  |
 | Ligamento / hueso / articulación: |
 | Inestabilidad articular. Laxitud ligamentosa / traumática. Tobillo (incluida sindesmosis) (referencia tabla 16.8, ajustes para pruebas complementarias). | 0 Sin hallazgos anormales, objetivos significativos de lesión de músculo o tendón. | 0 1 1 2 2 Inestabilidad clínica. 3 4 5 6 7 Laxitud ligamentosa leve (Radiografía AP de estrés: 2-3 mm de desgarro o 5-9 grados de apertura en varo con respecto al lado normal opuesto). 7 8 10 12 13 Laxitud ligamentosa moderada (RX AP de estrés: 4-6 mm de desgarro o 10-15 grados en varo con respecto al lado opuesto normal; RX lateral de estrés: cajón anterior 4-6-mm apertura en exceso a lado sano opuesto). | 14 15 16 17 18 Laxitud ligamentosa grave en Rx de posición forzada, > 6 mm de desgarro o de 10 -15 grados de apertura en varo con respecto a lado normal opuesto RX lateral de estrés: cajón anterior > 6 mm de apertura en exceso con respecto al lado normal). |  |  |
@@ -4337,7 +4340,7 @@ Tabla 16.2 Parrilla regional de pie y tobillo - Deficiencia de la Extremidad Inf
 | Metatarsiana. | 0 Curada, sin deficiencias objetivas. | 2 3 3 3 4 1° metatarsiano -no desplazada con hallazgos mínimos. 7 8 10 12 13 1° metatarsiano –con angulación y metatarsalgia. 0 1 1 2 2 Otras metatarsianos no desplazadas -con hallazgos de exploración anormales. 3 4 5 6 7 Otras metatarsianos con angulación y metatarsalgia. 7 8 10 12 13 Múltiple metatarsianos con angulación y metatarsalgia. |  |  |  |
 | Deformidad: |
 | Pie medio-cavo. |  | 1 2 2 2 3 Leve. 5 6 7 8 9 Moderado. |  |  |  |
-| Porción media del pie plano-valgo-convexo congénito, o pie en «mecedora». |  | 3 4 5 6 7 Leve. 7 8 10 12 13 Moderada. | 16 18 20 22 24 Grave. |  |  |
+| Porción media del pie plano-valgo-convexo congénito, o pie en "mecedora". |  | 3 4 5 6 7 Leve. 7 8 10 12 13 Moderada. | 16 18 20 22 24 Grave. |  |  |
 | Artrosis: |
 | Pan-Astrágalo (Tibial-astrágalo, astrágalo-calcánea, astrágalo-navicular). |  |  |  | 26 28 30 32 34 1-2 mm de intervalo cartilaginoso en las tres articulaciones. | 52 56 60 64 68 0-1 mm de intervalo cartilaginoso en las tres articulaciones o pérdida grave del movimiento en las tres articulaciones. |
 | Tobillo. | 0 Intervalo de cartílago > 3 mm. | 1 2 2 2 3 Osteofitos leves con invasión, defecto de cartílago en todo el espesor articular, cambios quísticos en un lado de la articulación, foco de necrosis avascular o fractura osteocondral no unida. 3 4 5 6 7 Intervalo de cartílago de 3 mm. | 14 15 16 17 18 Intervalo de cartílago de 2 mm, cambios quísticos en ambos lados de la articulación, área grande de necrosis avascular. 16 18 20 22 24 Intervalo de cartílago del mm. | 26 28 30 32 34 Sin intervalo de cartílago. |  |
@@ -4349,7 +4352,7 @@ Tabla 16.2 Parrilla regional de pie y tobillo - Deficiencia de la Extremidad Inf
 | Articulaciones Interfalángicas. | 0 Lesión osteocondral asintomática. | 0 1 1 2 2 Lesión osteocondral sintomática < 5 mm. 3 4 5 6 7 Lesión osteocondral sintomática ≥ 5 mm o lesiones múltiples. |  |  |  |
 | Artrodesis (anquilosis articular, fusión): |
 | Pan-astrágalo (tibial-astrágalo, astrágalo-calcánea, astrágalo-navicular). |  |  |  |  | 50 56 60 64 64 Posición neutra. 59 67 75 75 75 Alineamiento defectuoso. |
-| Fusión tibio calcánea (tibial-astrágalo, astrágalo-calcánea, astrágalo-navicular). |  |  |  | 37 40 43 46 49 Neutra. | 50 56 60 64 64 Alineamiento defectuoso. |
+| Fusión tibio calcánea (tibial-astrágalo, astrágalo-calcánea). |  |  |  | 37 40 43 46 49 Neutra. | 50 56 60 64 64 Alineamiento defectuoso. |
 | Tobillo |  | 7 8 10 12 13 Posición neutra. | 16 18 20 22 24 Alineamiento defectuoso leve (dorsiflexión 10-19°, flexión plantar 10-19°, posición en varo 5-9°, posición en valgo 5-9°, mal rotación interna, 0-9° o mal rotación externa 15-19°). | 26 28 30 32 34 Alineamiento defectuoso moderado (dorsiflexión > 19°, flexión plantar 20-29°, posición en varo 10-19°, posición en valgo 10-19°, malrotación interna 10-29°, o mal rotación externa 20-39°) o sin unión. | 52 56 60 64 68 Alineamiento defectuoso grave (flexión plantar en varo > 19°, posición en valgo > 19°, mal rotación interna > 29°, o mal rotación externa > 39°) o sin unión infectada. |
 | Subastrágalo |  | 7 8 10 12 13 Posición neutra (igual a la del lado normal opuesto). | 16 18 20 22 24 Alineamiento defectuoso leve (posición en varo, 1°-3° mayor que la del lado opuesto normal o en valgo 5-9° mayor. | 26 28 30 32 34 Alineamiento defectuoso moderado (posición en varo, 4°-6° mayor que la del lado opuesto normal o en valgo 10-14° mayor. | 52 56 60 64 68 Alineamiento defectuoso grave (posición en varo, > 6° mayor que lado opuesto normal o en valgo > 14° mayor. |
 | Artrodesis doble o triple (astrágalo-calcánea, astrágalonavicular, calcáneo-cuboidea). |  | 7 8 10 12 13 Posición neutra. | 14 15 16 17 18 Alineamiento defectuoso leve (posición en varo, 1°-3° mayor que la del lado opuesto normal o en valgo 5-9° de lo normal). | 26 28 30 32 34 Alineamiento defectuoso moderado (posición en varo, 4°-6° mayor que la del lado opuesto normal o en valgo 10-14° de lo normal). | 52 56 60 64 68 Alineamiento defectuoso grave (posición en varo, > 6° mayor que la del lado opuesto normal o en valgo > 14° de lo normal). |
@@ -4413,42 +4416,13 @@ Tabla 16.4 Parrilla regional de la cadera Deficiencia de la Extremidad Inferior 
 | Fractura: |
 | Fractura osteocondral. |  | 3 4 5 6 7 Fractura osteocondral < 1 cm (verificada por artroscopia o por RM). | 14 15 16 17 18 Fractura osteocondral ≥ 1 cm (verificada por artroscopia o por RM). |  |  |
 | Osteocondritis disecante. |  | 3 4 5 6 7 Osteocondritis disecante con fragmento osteocondral estable. 6 7 8 9 10 Osteocondritis disecante con fragmento osteocondral inestable, in situ o eliminado. |  |  |  |
-| Fracturas en tomo a la cadera (acetábulo y parte proximal del fémur). | 0 Sin hallazgos anormales, objetivos, significativos. | 5 6 7 8 9 Fractura del cuello del fémur, intertrocantérea, o subtrocantérea con déficit leve del movimiento y/o alineamiento defectuoso. 5 6 7 8 9 Fractura del acetábulo no desplazada. 7 8 10 12 13 Fractura del trocánter mayor o menor sin unión o con unión defectuosa. | 16 18 20 22 24 Fractura del cuello del fémur, intertrocantérea o subtrocantérea con déficits moderados de movilidad y/o alineamiento defectuoso. 14 15 16 17 18 Fractura del acetábulo con desplazamiento de la superficie articular de 1-2 mm. 19 20 22 24 25 Fractura del acetábulo con desplazamiento de 3-4 mm de la superficie articular. | 26 28 30 32 34 Fractura del cuello del fémur, intertrocantérea o subtrocantérea con déficits graves de movilidad y/o alineamiento defectuoso (unión defectuosa). 31 34 37 40 43 Fractura acetabular con desplazamiento de la superficie articular > 5 mm. | 50 50 50 54 58 Infectada. |
+| Fracturas en tomo a la cadera (acetábulo y parte proximal del fémur). | 0 Sin hallazgos anormales, objetivos, significativos. | 5 6 7 8 9 Fractura del cuello del fémur, intertrocantérea, o subtrocantérea con déficit leve del movimiento y/o alineamiento defectuoso leve. 5 6 7 8 9 Fractura del acetábulo no desplazada. 7 8 10 12 13 Fractura del trocánter mayor o menor sin unión o con unión defectuosa. | 16 18 20 22 24 Fractura del cuello del fémur, intertrocantérea o subtrocantérea con déficits moderados de movilidad y/o alineamiento defectuoso moderado a grave. 14 15 16 17 18 Fractura del acetábulo con desplazamiento de la superficie articular de 1-2 mm. 19 20 22 24 25 Fractura del acetábulo con desplazamiento de 3-4 mm de la superficie articular. | 26 28 30 32 34 Fractura del cuello del fémur, intertrocantérea o subtrocantérea con déficits graves de movilidad y/o alineamiento defectuoso (unión defectuosa). 31 34 37 40 43 Fractura acetabular con desplazamiento de la superficie articular > 5 mm. | 50 50 50 54 58 Infectada. |
 | Artrosis: |
 | Alteraciones degenerativas. | 0 No relacionada y simétrica. | 1 2 2 2 3 Cuerpos extraños que se acompañan de síntomas pero no de hallazgos físicos. 3 4 5 6 7 Cuerpos extraños que se acompañan de síntomas y de hallazgos físicos anormales. |  |  |  |
 | Artrosis de cadera. |  | 5 6 7 8 9 Intervalo de cartílago de 3 mm o defecto en todo el espesor del cartílago articular. | 16 18 20 22 24 Intervalo de cartílago de 2 mm. | 26 28 30 32 34 Intervalo de cartílago de 1 mm. | 50 50 50 54 58 Sin intervalo de cartílago. |
 | Artrodesis: |
 | Artrodesis de articulación de cadera (anquilosis, fusión). |  |  |  |  | 50 50 50 54 58 Fundida en flexión de 25-40° y rotación, aducción y abducción neutra. 67 71 75 79 83 Posición defectuosa moderada. 80 85 90 95 100 Posición defectuosa grave. |
 | s/p Osteotomía femoral. |  |  | 19 20 22 24 25 Resultado regular o bueno. | 31 34 37 40 43 Mal resultado (derrame articular, movilidad limitada, inestabilidad). |  |
-| Sustitución total o parcial de cadera. |  |  | 21 23 25 25 25 Buen resultado (buena posición estable, funcional). | 31 34 37 40 43 Resultado regular (posición regular, inestabilidad y/o déficit leve o moderado en el movimiento). | 59 63 67 61 75 Mal resultado (mala posición, inestabilidad moderada a grave, y/o déficit moderado a grave de la movilidad). 67 71 75 79 83 Mal resultado con infección crónica. |
-| * La DEI (Deficiencia de Extremidad Inferior) deberá convertirse a DTP (Deficiencia Total de la Persona) con la Tabla 16.9. |
-
-Cadera:
-
-Tabla 16.4 Parrilla regional de la cadera. Deficiencia de la Extremidad Inferior (DEI)
-
-| Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
-| --- | --- | --- | --- | --- | --- |
-| Graduación de la gravedad Deficiencia El (%) | 0% DEI | 1% -13% DEI | 14% - 25% DEI | 26% - 49% DEI | 50% - 100% DEI |
-| Tejidos blandos: |
-| Bursitis, contusión y/o, u otra lesión de tejidos blandos. | 0 Sin hallazgos anormales objetivos significativos en la exploración o en los estudios radiográficos. | 0 1 1 2 2 Hallazgos a la palpación, consistentes, significativos y/o hallazgos radiográficos. 1 2 2 2 3 Déficits consistentes en el movimiento. 5 6 7 8 9 Bursitis trocánteres crónica con marcha anormal crónica documentada. |  |  |  |
-| Músculo / tendón: |
-| Tensión, tendinitis; o desgarro de tendón h/o. | 0 Sin hallazgos anormales, objetivos, significativos en lesión de músculo o tendón. | 0 1 1 2 2 Hallazgos a la palpación y/o radiográficos. 1 2 2 2 3 Déficit moderado en el movimiento. 3 4 5 6 7 Déficit moderado en el movimiento y/o debilidad significativa. |  |  |  |
-| Miositis osificante (osificación hipertrófica). |  | 0 1 1 2 2 Pequeña. 3 4 5 6 7 Masa grande, palpable con movimiento disminuido. |  |  |  |
-| Ligamento / hueso / articulación: |
-| Subluxación o luxación de cadera. |  | 3 4 5 6 7 Subluxación o luxación de cadera con traslación del eje, o conflicto femoro acetabular sin necrosis avascular o lesión de superficie articular. 7 8 10 12 13 Dislocación de cadera con movimiento de traslación del eje, o conflicto femoro acetabular y hallazgos de lesión de la superficie articular. | 14 15 16 17 18 Subluxación o luxación de cadera con traslación del eje, o conflicto femoro acetabular y necrosis avascular. | 26 28 30 32 34 Luxación de cadera grave e irreductible. |  |
-| Necrosis avascular. |  | 7 8 10 12 13 Necrosis avascular de cadera con déficit leve en el balance articular. | 14 15 16 17 18 Necrosis avascular de cadera con déficit moderado en el balance articular. | 26 28 30 32 34 Necrosis avascular de cadera con déficit grave balance articular. |  |
-| Desgarro del labrum acetabular. |  | 1 2 2 2 3 Desgarro no operado, desgarro tratado con labrectomía parcial o reparación. 3 4 4 4 5 Desgarro tratado con labrectomía total. |  |  |  |
-| Fractura |
-| Fractura osteocondral. |  | 3 4 5 6 7 Fractura osteocondral < 1 cm (verificada por artroscopia o por RM). | 14 15 16 17 18 Fractura osteocondral ≥ 1 cm (verificada por artroscopia o por RM). |  |  |
-| Osteocondritis disecante. |  | 3 4 5 6 7 Osteocondritis disecante con fragmento osteocondral estable. 6 7 8 910 Osteocondritis disecante con fragmento osteocondral inestable, in situ o eliminado. |  |  |  |
-| Fracturas en tomo a la cadera (acetábulo y parte proximal del fémur). | 0 Sin hallazgos anormales, objetivos, significativos. | 5 6 7 8 9 Fractura del cuello del fémur, intertrocantérea, o subtrocantérea con déficit leve del movimiento y/o alineamiento defectuoso. 5 6 7 8 9 Fractura del acetábulo no desplazada. 7 8 10 12 13 Fractura del trocánter mayor o menor sin unión o con unión defectuosa. | 16 18 20 22 24 Fractura del cuello del fémur, intertrocantérea o subtrocantérea con déficits moderados de movilidad y/o alineamiento defectuoso. 14 15 16 17 18 Fractura del acetábulo con desplazamiento de la superficie articular de 1-2 mm. 19 20 22 24 25 Fractura del acetábulo con desplazamiento de 3-4 mm de la superficie articular. | 26 28 30 32 34 Fractura del cuello del fémur, intertrocantérea o subtrocantérea con déficits graves de movilidad y/o alineamiento defectuoso (unión defectuosa). 31 34 37 40 43 Fractura acetabular con desplazamiento de la superficie articular > 5 mm. | 50 50 50 54 58 Infectada. |
-| Artrosis: |
-| Alteraciones degenerativas. | 0 No relacionada y simétrica. | 1 2 2 2 3 Cuerpos extraños que se acompañan de síntomas pero no de hallazgos físicos. 3 4 5 6 7 Cuerpos extraños que se acompañan de síntomas y de hallazgos físicos anormales. |  |  |  |
-| Artrosis de cadera. |  | 5 6 7 8 9 Intervalo de cartílago de 3 mm o defecto en todo el espesor del cartílago articular. | 16 18 20 22 24 Intervalo de cartílago de 2 mm. | 26 28 30 32 34 Intervalo de cartílago de 1 mm. | 50 50 50 54 58 Sin intervalo de cartílago. |
-| Artrodesis: |
-| Artrodesis de articulación de cadera (anquilosis, fusión). |  |  |  |  | 50 50 50 54 58 Fundida en flexión de 25-40° y rotación, aducción y abducción neutra. 67 71 75 79 83 Posición defectuosa moderada. 80 85 90 95 100 Posición defectuosa grave. |
-| s/p osteotomía femoral. |  |  | 19 20 22 24 25 Resultado regular o bueno. | 31 34 37 40 43 Mal resultado (derrame articular, movilidad limitada, inestabilidad). |  |
 | Sustitución total o parcial de cadera. |  |  | 21 23 25 25 25 Buen resultado (buena posición estable, funcional). | 31 34 37 40 43 Resultado regular (posición regular, inestabilidad y/o déficit leve o moderado en el movimiento). | 59 63 67 61 75 Mal resultado (mala posición, inestabilidad moderada a grave, y/o déficit moderado a grave de la movilidad). 67 71 75 79 83 Mal resultado con infección crónica. |
 | * La DEI (Deficiencia de Extremidad Inferior) deberá convertirse a DTP (Deficiencia Total de la Persona) con la Tabla 16.9. |
 
@@ -4474,7 +4448,7 @@ Tabla 16.6 Ajuste de la historia funcional de bipedestación y marcha. Extremida
 | Aros lower lime instrument (u otro inventario)*. | Normal. | Déficit leve. | Déficit moderado. | Déficit grave. | Déficit total o casi total. |
 | * En Anexo 16.A. |
 
-La alteración de la marcha por esta sección, se emplea solo como criterio de ajuste. Si bien los trastornos de la marcha puede utilizarse alternativamente como criterio principal, en solitario, cuando no es posible aplicar un diagnóstico determinado según el método de DBD. En este caso, se utilizará con la misma puntuación de la gravedad de la deficiencia y los criterios de modificación de grado de la tabla 3.11 de trastornos de la estática y la marcha del capítulo de sistema nervioso (ver Sección 16.7, Evaluación de la deficiencia de EEII por alteración de la marcha).
+La alteración de la marcha por esta sección, se emplea solo como criterio de ajuste. Si bien los trastornos de la marcha pueden utilizarse alternativamente como criterio principal, en solitario, cuando no es posible aplicar un diagnóstico determinado según el método de DBD. En este caso, se utilizará con la misma puntuación de la gravedad de la deficiencia y los criterios de modificación de grado de la tabla 3.11 de trastornos de la estática y la marcha del capítulo de sistema nervioso (ver Sección 16.7, Evaluación de la deficiencia de EEII por alteración de la marcha).
 
 16.2.2.b.2 Ajuste de grado por la exploración física (EF).
 
@@ -4509,7 +4483,7 @@ Tabla 16.8 Ajustes para pruebas complementarias. Extremidades inferiores
 | Nervios pruebas de conducción. | Normal. | Retraso en la conducción (sensorial y/o motora) | Bloqueo en la conducción motora | Pérdida axonal parcial | Pérdida axonal total / denervación |
 | Pruebas electro-fisiológicas (EMG). Nota: Si los resultados de las pruebas cumplen algunos, pero no todos los criterios para un intervalo de grado específico, el intervalo de grado inmediatamente inferior es el intervalo de grado que se utilizará en la puntuación de la deficiencia. | Normal. | La EMG con aguja realizada al menos, 3 semanas, pero menos de 9 meses después de haberse producido la lesión, muestra potenciales de fibrilación de al menos 1+ y ondas positivas en al menos dos de los músculos inervados por el nervio lesionado. Si el estudio de EMG se realiza por primera vez más de 9 meses después de haberse lesionado el nervio, el examen mostrará potenciales musculares polifásicos de gran amplitud en al menos un músculo y el reclutamiento en dicho músculo estará, cuando menos, discretamente reducido. | La EMG con aguja realizada al menos, 3 semanas, pero menos de 9 meses después de haberse producido la lesión, muestra potenciales de fibrilación de al menos 2+ y ondas positivas en al menos dos de los músculos inervados por el nervio lesionado. Si el estudio de EMG se realiza por primera vez más de 9 meses después de haberse lesionado el nervio, el examen mostrará potenciales musculares de gran amplitud, en al menos dos de los músculos y el reclutamiento en dichos músculos estará, cuando menos, moderadamente reducido. | La EMG con aguja realizada al menos, 3 semanas, pero menos de 9 meses después de haberse producido la lesión, muestra potenciales de fibrilación de al menos ☐ 3+ y ondas positivas en al menos tres de los músculos inervados por el nervio lesionado. Si el estudio de EMG se realiza por primera vez más de 9 meses después de haberse lesionado el nervio, el examen mostrará potenciales musculares polifásicos de gran amplitud en al menos tres de los músculos y el reclutamiento de dichos músculos estará, cuando menos, gravemente reducido. | La EMG con aguja realizada al menos, 3 semanas, pero menos de 9 meses después de haberse producido la lesión, muestra potenciales de fibrilación de al menos 4 +y ondas positivas en al menos tres de los músculos inervados por el nervio lesionado. Si el estudio de EMG se realiza por primera vez más de 9 meses después de haberse lesionado el nervio, el examen mostrará la ausencia de unidades motoras (sustitución fibroadiposa del músculo) en al menos, dos de los músculos. |
 
-16.2.2.c Metodología del cálculo de la Deficiencia Basada en el Diagnóstico (DBD).
+16.2.2.c Metodología del cálculo de la deficiencia basada en el Diagnóstico (DBD).
 
 Una vez que se ha establecido el intervalo de grado de gravedad de deficiencia (IGD) de acuerdo con los criterios diagnósticos o valor inicial de ajuste de deficiencia (VIAD), para cada una de las regiones afectadas, el grado final de deficiencia existente de esta región, quedará determinado por los criterios secundarios de ajuste (CSA).
 
@@ -4582,7 +4556,7 @@ Tabla 16.9 Valores de la deficiencia total de la persona (DTP) calculada a parti
 
 16.4 Deficiencia de nervio periférico.
 
-Es importante la determinación de la distribución anatómica y de la pérdida de función que se deriva de (1) los déficits sensoriales o del dolor y (2) de los déficits motores y de pérdida de fuerza. Las deformidades y manifestaciones características que se derivan de las lesiones de nervio periférico, como pueden ser la movilidad limitada, la atrofia, junto con los trastornos vasomotores, tráficos y de reflejos, han sido tenidas en consideración en los valores de puntuación de la deficiencia que se indican en esta sección. Por ello, para evitar la duplicación o el incremento injustificado en la estimación de la deficiencia, cuando ésta se derive estrictamente de una lesión de nervio periférico, no se combinará otro método de puntuación con el de esta sección.
+Es importante la determinación de la distribución anatómica y de la pérdida de función que se deriva de (1) los déficits sensoriales o del dolor y (2) de los déficits motores y de pérdida de fuerza. Las deformidades y manifestaciones características que se derivan de las lesiones de nervio periférico, como pueden ser la movilidad limitada, la atrofia, junto con los trastornos vasomotores, tróficos y de reflejos, han sido tenidas en consideración en los valores de puntuación de la deficiencia que se indican en esta sección. Por ello, para evitar la duplicación o el incremento injustificado en la estimación de la deficiencia, cuando ésta se derive estrictamente de una lesión de nervio periférico, no se combinará otro método de puntuación con el de esta sección.
 
 16.4.a Evaluación clínica y graduación de las deficiencias sensoriales y motoras.
 
@@ -4634,11 +4608,11 @@ Tabla 16.11 Deficiencia de nervio periférico-deficiencias de extremidad inferio
 
 Figura 16.1 Nervios sensitivos de la extremidad inferior
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12420306_image1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475468_1.png)
 
 Figura 16.2 Nervios motores de la extremidad inferior
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12420306_image2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475468_2.png)
 
 16.5 Deficiencia por Síndrome de Dolor Regional Complejo (SDRC).
 
@@ -4656,7 +4630,7 @@ La metodología en la evaluación de la deficiencia por SDRC tipo I y II difiere
 
 Tabla 16.12.a Criterios diagnósticos del síndrome de dolor regional complejo
 
-| ‒ Dolor continuo, que no guarda proporción con ningún suceso desencadenante. ‒ Debe informar de al menos un síntoma en tres de las cuatro categorías siguientes: ● Sensorial: Informe de hiperestesia y/o de alodinia. ● Vasomotor: Informe de asimetría en la temperatura y/o cambios en la coloración de piel y/o asimetría en la coloración de piel. ● Sudomotor / Edema: Informes de edema y/o cambios en la sudoración y/o asimetría de la sudoración. ● Motor / Trófico: Informes de balance articular reducido y/o disfunción motora (debilidad, temblor, distonía) y/o cambios tráficos (pelo, uñas, piel). ‒ Debe exhibir al menos un signo* en el momento de la evaluación en dos o más de las categorías siguientes: ● Sensorial: Evidencia de hiperalgesia (frente al alfilerazo) y/o alodinia (frente al contacto ligero y/o frente a la presión somática profunda y/o frente al movimiento articular). ● Vasomotor: Evidencia de asimetría en la temperatura y/o cambios en la coloración de piel y/o en la simetría. ● Sudomotor / Edema: Evidencia de edema y/o cambios sudorales y/o asimetría en la sudoración. ● Motor / Trófico: Evidencia de disminución en el balance articular y/o disfunción motora (debilidad, temblor, distonía) y/o cambios tróficos (pelo, uñas, piel). ‒ No existe otro diagnóstico que explique mejor los signos y los síntomas. |
+| ‒ Dolor continuo, que no guarda proporción con ningún suceso desencadenante. ‒ Debe informar de al menos un síntoma en tres de las cuatro categorías siguientes: ● Sensorial: Informe de hiperestesia y/o de alodinia. ● Vasomotor: Informe de asimetría en la temperatura y/o cambios en la coloración de piel y/o asimetría en la coloración de piel. ● Sudomotor / Edema: Informes de edema y/o cambios en la sudoración y/o asimetría de la sudoración. ● Motor / Trófico: Informes de balance articular reducido y/o disfunción motora (debilidad, temblor, distonía) y/o cambios tróficos (pelo, uñas, piel). ‒ Debe exhibir al menos un signo* en el momento de la evaluación en dos o más de las categorías siguientes: ● Sensorial: Evidencia de hiperalgesia (frente al alfilerazo) y/o alodinia (frente al contacto ligero y/o frente a la presión somática profunda y/o frente al movimiento articular). ● Vasomotor: Evidencia de asimetría en la temperatura y/o cambios en la coloración de piel y/o en la simetría. ● Sudomotor / Edema: Evidencia de edema y/o cambios sudorales y/o asimetría en la sudoración. ● Motor / Trófico: Evidencia de disminución en el balance articular y/o disfunción motora (debilidad, temblor, distonía) y/o cambios tróficos (pelo, uñas, piel). ‒ No existe otro diagnóstico que explique mejor los signos y los síntomas. |
 | --- |
 | * Un signo solo cuenta si es observado y documentado en el momento de la evaluación. |
 
@@ -4670,7 +4644,7 @@ Tabla 16.12 Puntos de hallazgos diagnósticos objetivos para el síndrome de dol
 | Edema. | 1 |
 | Cambios sudomotores: |  |
 | Piel seca o excesivamente húmeda. | 1 |
-| Cambios tráficos: |  |
+| Cambios tróficos: |  |
 | Textura de piel: suave, no elástica. | 1 |
 | Atrofia de tejidos blandos, especialmente punta de dedos. | 1 |
 | Rigidez articular y movilidad pasiva disminuida. | 1 |
@@ -4699,11 +4673,11 @@ Tabla 16.14 Deficiencia por amputación
 | Intervalos de gravedad de la deficiencia | Intervalo 0 | Intervalo 1 | Intervalo 2 | Intervalo 3 | Intervalo 4 |
 | --- | --- | --- | --- | --- | --- |
 | Graduación de la gravedad Deficiencia EI (%) | 0 % EI | 1% -13% EI | 14% - 25% EI | 26% - 49% EI | 50% -100% EI |
-| Grados. |  | 2 3 4 Dedos pequeños en articulación metatarsofalángica. 5 6 7 Primer dedo en articulación interfalángica Metatarsianos (excepto el primero). 12 13 Primer dedo en articulación metatarsofalángica. | 20 22 24 Primer metatarsiano. 22 24 25 Todos los dedos en articulación metatarsofalángica (MTF). | 45 45 45 47 49 Zona media del pie (Mesopie). 40 42 44 Transmetatarsiana. | 62 63 64 Syme (Retropie). 70 71 72 Debajo de la rodilla > o = 7,5 cm. 80 81 82 Desarticulación de la rodilla. Debajo de la rodilla menor 7,5 cm. 90 92 94 Por encima de rodilla. Muslo medio. 100 100 100 Por encima de la rodilla proximal. Desarticulación de cadera. |
+| Grados. |  | 2 2 2 3 4 Dedos pequeños en articulación metatarsofalángica. 5 5 5 6 7 Primer dedo en articulación interfalángica Metatarsianos (excepto el primero). 12 12 12 13 Primer dedo en articulación metatarsofalángica. | 20 20 20 22 24 Primer metatarsiano. 22 22 22 24 25 Todos los dedos en articulación metatarsofalángica (MTF). | 45 45 45 47 49 Zona media del pie (Mesopie). 40 40 40 42 44 Transmetatarsiana. | 62 62 62 63 64 Syme (Retropie). 70 70 70 71 72 Debajo de la rodilla > o = 7,5 cm. 80 80 80 81 82 Desarticulación de la rodilla. Debajo de la rodilla menor 7,5 cm. 90 90 90 92 94 Por encima de rodilla. Muslo medio. 100 100 100 100 100 Por encima de la rodilla proximal. Desarticulación de cadera. |
 
 16.7 Evaluación de la deficiencia de EEII por el modelo de alteración de la marcha.
 
-La alteración de la marcha debe ser utilizada como una puntuación «solitaria» cuando se remitan a esta sección, bien, porque no sea posible aplicar un diagnóstico determinado según el método de DBD, el basado en el balance articular (BA), o en casos de alteraciones múltiples o complejas que aconsejen la evaluación de las EEII globalmente. Siempre que sea utilizado este método de evaluación no podrá emplearse ningún otro.
+La alteración de la marcha debe ser utilizada como una puntuación "solitaria" cuando se remitan a esta sección, bien, porque no sea posible aplicar un diagnóstico determinado según el método de DBD, el basado en el balance articular (BA), o en casos de alteraciones múltiples o complejas que aconsejen la evaluación de las EEII globalmente. Siempre que sea utilizado este método de evaluación no podrá emplearse ningún otro.
 
 Tabla 16.15 Criterios para la puntuación de la deficiencia debida a trastornos de la estática y de la marcha
 
@@ -4716,11 +4690,11 @@ Tabla 16.15 Criterios para la puntuación de la deficiencia debida a trastornos 
 
 El balance articular (BA) se emplea principalmente como un criterio de ajuste de la exploración física. Se utiliza para registrar los resultados de los movimientos y objetivar las deficiencias.
 
-El balance articular, no obstante, puede ser utilizado excepcionalmente como una puntuación «solitaria», para evaluar patologías que generan alteraciones de la movilidad y que no se encuentran el método de DBD.
+El balance articular, no obstante, puede ser utilizado excepcionalmente como una puntuación "solitaria", para evaluar patologías que generan alteraciones de la movilidad y que no se encuentran el método de DBD.
 
 Tabla 16.24 Intervalos de gravedad de la deficiencia por evaluación del balance articular: Modificadores de grado del balance articular en el método EBD
 
-| Criterios diagnósticos (criterio principal) | Diagnostico de Condición de Salud en Extremidad Inferior (EBD) Tablas 16.2 a 16.4 Categoría 4 |
+| Criterios diagnósticos (criterio principal) | Diagnostico de Condición de Salud en Extremidad Inferior (EBD) Tablas 16.2 a 16.4 |
 | --- | --- |
 | Criterio secundario de ajuste | Modificador de grado 0 | Modificador de grado 1 | Modificador de grado 2 | Modificador de grado 3 | Modificador de grado 4 |
 | Intervalos de gravedad de extremidad inferior por balance articular. | Normal. | Leve. | Moderada. | Grave. | Muy grave o total. |
@@ -4736,11 +4710,11 @@ Las malformaciones congénitas de EEII incluyen las de cadera, de fémur, tibia 
 
 La evaluación de estos trastornos, deberá individualizarse y el evaluador deberá elegir entre los diversos métodos que se proponen en este capítulo el que considere más apropiado.
 
-En las deficiencias transversales su tratamiento será generalmente protésico y su evaluación se hará, normalmente, siguiendo los criterios de la sección 15.6: «Deficiencia por amputación».
+En las deficiencias transversales su tratamiento será generalmente protésico y su evaluación se hará, normalmente, siguiendo los criterios de la sección 15.6: "Deficiencia por amputación".
 
-Las disimetrías, podrán evaluarse, dentro del «modelo de deficiencia basado en el diagnóstico» (DBD) bien sea como criterio diagnostico principal si son mayores de 7cm o bien como criterio secundario de ajuste si son menores de 7cm.
+Las disimetrías, podrán evaluarse, dentro del "modelo de deficiencia basado en el diagnóstico" (DBD) bien sea como criterio diagnostico principal si son mayores de 7cm o bien como criterio secundario de ajuste si son menores de 7 cm.
 
-En las deficiencias longitudinales y malformaciones de los pies habitualmente se realizan osteotomías correctoras y tratamientos ortopédicos para incrementar la funcionalidad del miembro, siendo más apropiado en estos casos, una vez conseguida la MMC aplicar para su evaluación el «modelo de deficiencia basado en el diagnóstico» (DBD). En el caso de que un diagnóstico específico no aparezca enumerado en la parrilla de deficiencia basada en el diagnóstico, se deberá identificar un trastorno similar dentro de la región afectada (pelvis, cadera, rodilla, tobillo, pie) que sirva de guía para el cálculo de la deficiencia. En algunos casos, si lo anterior no fuese posible, puede ser adecuada la utilización de la sección 16.7: «evaluación de la deficiencia por alteración de la marcha» de la sección 16.7 (tabla 16.15) de este capítulo, o en algunos casos modelo de «deficiencia basada en la evaluación del balance articular» (BA) de la sección 16.8.
+En las deficiencias longitudinales y malformaciones de los pies habitualmente se realizan osteotomías correctoras y tratamientos ortopédicos para incrementar la funcionalidad del miembro, siendo más apropiado en estos casos, una vez conseguida la MMC aplicar para su evaluación el "modelo de deficiencia basado en el diagnóstico" (DBD). En el caso de que un diagnóstico específico no aparezca enumerado en la parrilla de deficiencia basada en el diagnóstico, se deberá identificar un trastorno similar dentro de la región afectada (pelvis, cadera, rodilla, tobillo, pie) que sirva de guía para el cálculo de la deficiencia. En algunos casos, si lo anterior no fuese posible, puede ser adecuada la utilización de la sección 16.7: "evaluación de la deficiencia por alteración de la marcha" de la sección 16.7 (tabla 16.15) de este capítulo, o en algunos casos modelo de "deficiencia basada en la evaluación del balance articular" (BA) de la sección 16.8.
 
 En la acondroplasia y otras osteodisplasias, La puntuación correspondiente a lo evaluado en este capítulo, deberá combinarse con la puntuación correspondiente a la existencia de talla baja, según los criterios de la sección 12.11: Hipocrecimientos, del capítulo: Sistema endocrino. Y si están presentes, con alteraciones en la columna vertebral, sección 17.1 o de otras deficiencias permanentes si las hubiera.
 
@@ -4778,7 +4752,7 @@ Finalmente, al igual que en la evaluación de trastornos en la infancia en otros
 
 15. En aquellos casos que no sea posible aplicar un diagnóstico determinado según el método de DBD, ni el basado en el balance articular (BA), como en casos de alteraciones múltiples o complejas que aconsejen la evaluación de las EEII globalmente. Se utilizara el modelo basado en la alteración de la marcha (16.7). Siempre que sea utilizado este método de evaluación no podrá emplearse ningún otro.
 
-16. En el caso de existir otras deficiencias evaluadas en otros miembros o sistemas, constituirá el Grado Deficiencia Parcial (GDP) por Extremidad Inferior, que se combinará con otras deficiencias de otros órganos o dominios, según el modelo expuesto en los «Criterios Generales» de evaluación de las deficiencias.
+16. En el caso de existir otras deficiencias evaluadas en otros miembros o sistemas, constituirá el Grado Deficiencia Parcial (GDP) por Extremidad Inferior, que se combinará con otras deficiencias de otros órganos o dominios, según el modelo expuesto en los "Criterios Generales" de evaluación de las deficiencias.
 
 16.11 Plantilla registro de evaluación de extremidades inferiores.
 
@@ -4821,7 +4795,7 @@ Lado Lesionado ________ Derecho ________ Izquierdo _______ Bilateral
 | Añadir |  |  | % DEI |  | % DEI | % DEI |
 | Cadera |  | Movimiento | Normal | Movimiento | Deficiencia | Movimiento | Deficiencia | Deficiencia |
 |  | Flexión | > 100° |  | % DEI |  | % DEI | % DEI |
-| Extensión | < 10° de contractur |  | % DEI |  | % DEI | % DEI |
+| Extensión | < 10° de contractura en |  | % DEI |  | % DEI | % DEI |
 | Rotación internan | > 20° |  | % DEI |  | % DEI | % DE! |
 | Rotación externa | > 30° |  | % DEI |  | % DEI | % DEI |
 | Abducción | > 25° |  | % DEI |  | % DEI | % DEI |
@@ -4833,10 +4807,22 @@ Lado Lesionado ________ Derecho ________ Izquierdo _______ Bilateral
 
 16.11.b Ejemplo de registro de la evaluación de la deficiencia de las extremidades inferiores.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12420306_image3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475481_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12420306_image4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475481_2.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475480_1.png)
+
+| Amputación |  |  |
+| --- | --- | --- |
+| Nivel | Intervalo asignado | Deficiencia DEI |
+| Amputación del dedo gordo a nivel MTF |  | 0 | 1 | 2 | 3 | 4 |  | 13% |
+| Movimiento |  |  |
+| Articulación | DEI total | intervalo asignada |
+|  |  |  | 0 | 1 | 2 | 3 | 4 |
+|  |  |  | 0 | 1 | 2 | 3 | 4 |
+|  |  |  | 0 | 1 | 2 | 3 | 4 |
+|  |  |  |
 | Resumen | DEI final |
 | --- | --- |
 | Deficiencia basada en el diagnóstico. | 12% |
@@ -4874,19 +4860,19 @@ Instrucciones:
 
 Responda por favor a las siguientes preguntas referente a los problemas que presenta en la extremidad inferior. Si se trata de ambas extremidades inferiores, le rogamos responda a las preguntas refiriéndose a la extremidad más afectado. Todas las preguntas se refieren, en promedio, a lo que usted ha experimentado la semana pasada.
 
-¿Durante la semana pasada, como estuvo de rígida la extremidad inferior? (Rodee con un círculo una respuesta.)
+1. ¿Durante la semana pasada, como estuvo de rígida la extremidad inferior? (Rodee con un círculo una respuesta.)
 
-1 Nada 2 Discretamente 3 Moderadamente 4 Muy rígida
+1 Nada 2 Discretamente 3 Moderadamente
 
-5 Extremadamente rígida.
+4 Muy rígida 5 Extremadamente rígida.
 
-1. ¿Durante la semana pasada como estuvo de inflamada su la extremidad inferior? (Rodee con un círculo una respuesta.)
+2. ¿Durante la semana pasada como estuvo de inflamada su la extremidad inferior? (Rodee con un círculo una respuesta.)
 
 1 Nada 2 Discretamente 3 Moderadamente
 
 4 Muy inflamada 5 Extremadamente inflamada
 
-2. Durante la semana pasada, díganos por favor ¿cuánto dolor experimentó en su la extremidad inferior durante las siguientes actividades? (Rodee con un círculo sólo UNA respuesta que mejor describa su habilidad promedio en cada línea.)
+3. Durante la semana pasada, díganos por favor ¿cuánto dolor experimentó en su la extremidad inferior durante las siguientes actividades? (Rodee con un círculo sólo UNA respuesta que mejor describa su habilidad promedio en cada línea.)
 
 |  | No doloroso | Levemente doloroso | Moderadamente doloroso | Muy doloroso | Extremadamente doloroso | No podía desplazarme por miembro inferior doloroso | No podía desplazarme por otros motivos (No aplicable) |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -4894,7 +4880,7 @@ Responda por favor a las siguientes preguntas referente a los problemas que pres
 | ¿Subir o bajar escaleras? | 1 | 2 | 3 | 4 | 5 | 6 | NA |
 | ¿Reposar en la cama durante la noche? | 1 | 2 | 3 | 4 | 5 | 6 | NA |
 
-3. ¿Cuál de las siguientes afirmaciones describe mejor su capacidad para andar y desplazarse la mayor parte del tiempo durante la semana pasada? (Rodee con un círculo una respuesta.)
+4. ¿Cuál de las siguientes afirmaciones describe mejor su capacidad para andar y desplazarse la mayor parte del tiempo durante la semana pasada? (Rodee con un círculo una respuesta.)
 
 1 No necesito de apoyo o de ayudas técnicas en absoluto.
 
@@ -4910,11 +4896,11 @@ Responda por favor a las siguientes preguntas referente a los problemas que pres
 
 7 Soy absolutamente incapaz de desplazarme y dependo siempre de otra persona.
 
-4. Durante la última semana ¿Cuanta dificultad ha tenido ponerse o quitarse los calcetines / medias? (Rodee con un círculo una respuesta.).
+5. Durante la última semana ¿Cuanta dificultad ha tenido ponerse o quitarse los calcetines/medias? (Rodee con un círculo una respuesta.).
 
-1 En absoluto difícil 2 Algo difícil 3 Moderadamente difícil 4 Muy difícil
+1 En absoluto difícil 2 Algo difícil 3 Moderadamente difícil
 
-5 Extremadamente difícil 6 No pude hacerlo en absoluto
+4 Muy difícil 5 Extremadamente difícil 6 No pude hacerlo en absoluto
 
 Cortesía de AAOS, Rosemont, Illinois:
 
@@ -4934,9 +4920,9 @@ La evaluación de la deficiencia en la columna y la pelvis se basan en la identi
 
 17.1 Principios de evaluación.
 
-La deficiencia basada en el diagnóstico (DBD) cuenta con tablas denominadas «parrillas regionales» proporcionadas para cada una de las cuatro regiones de la columna y pelvis (cervical, torácica, lumbar y pelvis).
+La deficiencia basada en el diagnóstico (DBD) cuenta con tablas denominadas "parrillas regionales" proporcionadas para cada una de las cuatro regiones de la columna y pelvis (cervical, torácica, lumbar y pelvis).
 
-El intervalo de grado de deficiencia se determina inicialmente por los hallazgos descritos para un diagnóstico específico y la existencia de radiculopatía, como criterios principales. Y en un segundo tiempo, se ajusta por «los criterios secundarios de ajuste» (CSA), que pueden incluir la historia funcional basada en lo informado por la persona (HF), los resultados de la exploración física (EF) y las pruebas complementarias relevantes (PC).
+El intervalo de grado de deficiencia se determina inicialmente por los hallazgos descritos para un diagnóstico específico y la existencia de radiculopatía, como criterios principales. Y en un segundo tiempo, se ajusta por "los criterios secundarios de ajuste" (CSA), que pueden incluir la historia funcional basada en lo informado por la persona (HF), los resultados de la exploración física (EF) y las pruebas complementarias relevantes (PC).
 
 Para los diagnósticos específicos la columna y pelvis se diferencian varias categorías de los diagnósticos más relevantes:
 
@@ -4958,7 +4944,7 @@ Los estados comunes relacionados con cambios degenerativos en la columna (artros
 
 Las anomalías congénitas como la espina bífida oculta, segmentación anormal y raíces de los nervios unidas no son evaluadas salvo excepciones razonadas por el evaluador como deficiencias. Las anomalías del desarrollo, incluyendo espondilólisis, algunas formas de espondilolistesis, cifosis y lordosis excesiva o escoliosis leves a moderadas tampoco son evaluables.
 
-En Algunas personas se pueden presentar antecedentes de múltiples asistencias con dolor persistente y dolencias radiculares no verificables, con hallazgos no objetivos y, por lo tanto, reciben frecuentemente un diagnóstico de «distensión / esguince crónico» o dolor en espalda y cuello «no específico». La metodología actual permite que estas personas sean evaluadas en el intervalo 1 de deficiencia, con un rango de puntuación de la deficiencia de 2 % al 9% de deficiencia total de la persona (DTP). El porcentaje de deficiencia en ese intervalo depende fundamentalmente de lo informado en sus antecedentes médicos documentados y la evaluación sobre su funcionamiento (HF) basada en lo informado por el paciente, debido a que no hay una exploración física fiable o hallazgos en pruebas de imagen en este grupo.
+En algunas personas se pueden presentar antecedentes de múltiples asistencias con dolor persistente y dolencias radiculares no verificables, con hallazgos no objetivos y, por lo tanto, reciben frecuentemente un diagnóstico de "distensión / esguince crónico" o dolor en espalda y cuello "no específico". La metodología actual permite que estas personas sean evaluadas en el intervalo 1 de deficiencia, con un rango de puntuación de la deficiencia de 2 % al 9% de deficiencia total de la persona (DTP). El porcentaje de deficiencia en ese intervalo depende fundamentalmente de lo informado en sus antecedentes médicos documentados y la evaluación sobre su funcionamiento (HF) basada en lo informado por el paciente, debido a que no hay una exploración física fiable o hallazgos en pruebas de imagen en este grupo.
 
 Tabla 17.1 Clasificación de los Intervalos de Gravedad de Deficiencia (IGD) de la columna y pelvis que incluyen según región
 
@@ -4987,7 +4973,7 @@ Los criterios evaluativos son similares a los expuestos en otros capítulos.
 
 Figura 17.1 Método de cuatro pasos de ajuste neto de grado
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12420306_image5.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475483_1.png)
 
 Paso 1:
 
@@ -4995,15 +4981,15 @@ Diagnóstico: Establecer el diagnóstico específico para cada región de la col
 
 Paso 2:
 
-Valor de intervalo de grado de deficiencia (IGD) predeterminado por el criterio principal (CP); Valor inicial de ajuste de grado de la deficiencia (VIAD): Utilizar la tabla «parrilla regional» concreta de la región afectada de la columna en la que se encuentre el diagnóstico establecido en el paso 1, para con los hallazgos clínicos especificados en cada IGD para ese diagnóstico y la presencia de radiculopatía con características concretas, determinar el IGD apropiado al diagnóstico de la condición de salud a evaluar y que constituirá el criterio principal (CP) y valor inicial de ajuste de la puntuación de deficiencia (VIAD). Este IGD constituirá la referencia para el cálculo del ajuste neto de grado y del grado de puntuación de deficiencia ajustado.
+Valor de intervalo de grado de deficiencia (IGD) predeterminado por el criterio principal (CP); Valor inicial de ajuste de grado de la deficiencia (VIAD): Utilizar la tabla "parrilla regional" concreta de la región afectada de la columna en la que se encuentre el diagnóstico establecido en el paso 1, para con los hallazgos clínicos especificados en cada IGD para ese diagnóstico y la presencia de radiculopatía con características concretas, determinar el IGD apropiado al diagnóstico de la condición de salud a evaluar y que constituirá el criterio principal (CP) y valor inicial de ajuste de la puntuación de deficiencia (VIAD). Este IGD constituirá la referencia para el cálculo del ajuste neto de grado y del grado de puntuación de deficiencia ajustado.
 
 El VIAD lo utilizaremos por tanto, en dos ajustes:
 
-1. Constituirá uno de los valores 01234, siendo el valor de referencia como «valor de intervalo de grado predeterminado por el criterio principal», en la fórmula del «Grado de deficiencia ajustado» (paso 3).
+1. Constituirá uno de los valores 01234, siendo el valor de referencia como "valor de intervalo de grado predeterminado por el criterio principal", en la fórmula del "Grado de deficiencia ajustado" (paso 3).
 
-2. A su vez el VIAD ocupara el valor central C, dentro de los cinco valores de grado de puntuación de la deficiencia (ABCDE) que forman el IGD y que se utilizara en el «Ajuste neto de grado de deficiencia» (paso 4).
+2. A su vez el VIAD ocupara el valor central C, dentro de los cinco valores de grado de puntuación de la deficiencia (ABCDE) que forman el IGD y que se utilizara en el "Ajuste neto de grado de deficiencia" (paso 4).
 
-Paso 3: Ajuste neto de grado de deficiencia: Tendremos que calcular el valor del «ajuste neto de grado» que aplicaremos dentro del IGD. Se utilizarán las «Tablas especificas de los CSA»: (17.6 HF; 17,7 EF; 17,9 PC).
+Paso 3: Ajuste neto de grado de deficiencia: Tendremos que calcular el valor del "ajuste neto de grado" que aplicaremos dentro del IGD. Se utilizarán las "Tablas especificas de los CSA": (17.6 HF; 17,7 EF; 17,9 PC).
 
 Se elegirán entre las diversas opciones expuestas en cada una de las tablas de CSA la más apropiada entre los hallazgos obtenidos por la historia clínica (HC), la exploración física (EF) y pruebas complementarias (PC). En caso de varias opciones se elegirá siempre la de mayor valor o la que el evaluador considere más objetiva).
 
@@ -5015,7 +5001,7 @@ De la aplicación de estas tablas obtendremos el valor de intervalo de grado de 
 
 3.3 Las Pruebas Complementarias (VIGDPC).
 
-Este valor podrá ser el mismo, o no, que el VIAD, si es diferente tendremos que recalcular el «valor del ajuste neto del intervalo de grado» por los criterios secundarios, siguiendo la fórmula:
+Este valor podrá ser el mismo, o no, que el VIAD, si es diferente tendremos que recalcular el "valor del ajuste neto del intervalo de grado" por los criterios secundarios, siguiendo la fórmula:
 
 Valor del Ajuste neto de grado = (VIGDHF - VIAD) + (VIGEF - VIAD) + (VIGDPC - VIAD)
 
@@ -5023,7 +5009,7 @@ Los valores máximos y mínimos de esta fórmula se asimilarán al ± 2.
 
 Paso 4: Grado de puntuación de deficiencia ajustado.
 
-Una vez calculado el valor del ajuste neto de grado (± 012), tendremos que aplicarlo a un «nuevo» ajuste de grado esta vez dentro del intervalo de grado (con unos valores de grado de puntuación de la deficiencia variables según la deficiencia evaluada (ABCDE)) en la que hemos situado el VIAD en su valor central C (paso 2) pudiendo modificar el valor de este a la alta o a la baja, calculando el que se denominará finalmente Grado de puntuación de deficiencia ajustado según el esquema.
+Una vez calculado el valor del ajuste neto de grado (± 012), tendremos que aplicarlo a un "nuevo" ajuste de grado esta vez dentro del intervalo de grado (con unos valores de grado de puntuación de la deficiencia variables según la deficiencia evaluada (ABCDE)) en la que hemos situado el VIAD en su valor central C (paso 2) pudiendo modificar el valor de este a la alta o a la baja, calculando el que se denominará finalmente Grado de puntuación de deficiencia ajustado según el esquema.
 
 | ≤ 2 | ‒1 | 0 | +1 | ≥ 2 |
 | --- | --- | --- | --- | --- |
@@ -5045,9 +5031,9 @@ Consideraciones especiales sobre la metodología de puntuación de la deficienci
 
 Figura 17.2 Documento de evaluación de la deficiencia de columna y pelvis
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12420306_image6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475484_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/252/17105_12420306_image7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475484_2.png)
 
 17.2.b Deficiencia basada en el diagnostico: Parrillas regionales.
 
@@ -5059,16 +5045,16 @@ Tabla 17.2 Parrilla regional de columna cervical: Deficiencias de la columna. DT
 | Dolor: |
 | Cervicalgia crónica persistente o crónica recurrente inespecífica. Distensión / latigazo / esguince / síndrome postraumático cervical / crónico. Enfermedad discal degenerativa (discartrosis) sintomática. Artrosis radiológica, con dolor en la articulación facetaria, etc. | 0 0 0 1 1 Historia documentada de lesión de tipo distensión / esguince, ya resuelto y quejas de tipo sintomatología dolorosa ocasional de cuello o con hallazgos radiológicos de artrosis y sin signos objetivos en la exploración. | 2 3 4 5 6 Historia documentada de lesión cervical de tipo distensión / esguince con hallazgos radiológicos de artrosis y sintomatología dolorosa cervical continuas acompañada de irradiación radicular axialno verificables; hallazgos similares documentados en exploraciones previa: y presentes en el momento de la evaluación. |  |  |  |
 | Lesiones de segmentos móviles: |
-| Hernia de disco intervertebral y/o AOMSI (alteración de la integridad de un segmento móvil). | 0 0 0 1 1 Hallazgos imagenológicos (RM, TAC, RX) de hernia de disco intervertebral con dolor axial ocasional sin historial de síntomas clínicos o radiculares correlacionados. | 4 5 6 7 8 Hernia de disco intervertebral o AOMSI documentada en uno o en varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Radiculopatía documentada resuelta o dolencias radiculares no verificables o radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 9 10 11 12 14 Hernia de disco intervertebral y/o AOMSI en un nivel con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración.* | 15 17 19 21 24 Hernia de disco intervertebral y/o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas de radiculopatía residual documentada grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* | 25 27 28 29 30 Hernia de disco intervertebral y/o AOMSI en varios niveles, con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave bilateral o de varios niveles documentados en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de exploración*. |
+| Hernia de disco intervertebral y/o AOMSI (alteración de la integridad de un segmento móvil). | 0 0 0 1 1 Hallazgos imagenológicos (RM, TAC, RX) de hernia de disco intervertebral con dolor axial ocasional sin historial de síntomas clínicos o radiculares correlacionados. | 4 5 6 7 8 Hernia de disco intervertebral y/o AOMSI documentada en uno o en varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Radiculopatía documentada resuelta o dolencias radiculares no verificables o radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 9 10 11 12 14 Hernia de disco intervertebral y/o AOMSI en un nivel con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración.* | 15 17 19 21 24 Hernia de disco intervertebral y/o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas de radiculopatía residual documentada grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* | 25 27 28 29 30 Hernia de disco intervertebral y/o AOMSI en varios niveles, con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave bilateral o de varios niveles documentados en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de exploración*. |
 | Escoliosis y anquilosis vertebral. | 0 0 0 1 1 Escoliosis residual inferior a 20° cobb con dolor axial ocasional. | 4 5 6 7 8 Escoliosis residual de 20ª a 29° cobb con clínica actual y hallazgos documentados; | 9 10 11 12 14 Escoliosis residual de 30ª a 59° cobb con clínica actual y hallazgos documentados. | 15 17 19 21 24 Escoliosis residual de 60 a 80° coob con clínica actual y hallazgos documentados. | 25 27 28 29 30 Escoliosis residual mayor de 80° coob o Anquilosis con rigidez cervical total y Con clínica actual y hallazgos documentados. |
-| Nota: AOMSI Incluyen tecnologías quirúrgicas que preservan la movilidad tales como la artropastia discal y las técnicas de estabilización dinámica, tecnologías quirúrgicas que preservan la estabilidad del raquis como artrodesis segmentarías y finalmente los diagnósticos de pseudoartrosis, fracturas escoliosis o espondilolistesis. Puede comprender la combinación de estas situaciones previas así como la afectación a múltiples niveles. Nota: Pseudoartrosis: Movilidad en un segmento raquídeo documentada y objetivada mediante hallazgos radiográficos coherentes o fallo de soporte físico; en ambos casos tras cirugía de columna con la finalidad de fusionar dicho segmento Ángulo (grado) de Cobb Utilizado para medir las curvaturas tanto en el plano frontal así como en el sagital de la columna. Se trazan líneas que pasen por la parte superior e inferior de los cuerpos vertebrales proximal y distal que constituyen la curvatura. Que deben ser las vértebras más inclinadas hacia la concavidad de la curva. Trazamos líneas perpendiculares a las líneas anteriores y medimos el ángulo. Nota: Si los hallazgos para la radiculopatía no cumplen los descritos para un intervalo de grado específico, se utilizará para la puntuación de la deficiencia el intervalo de grado inmediatamente inferior. |
+| Nota: AOMSI Incluyen tecnologías quirúrgicas que preservan la movilidad tales como la artropastia discal y las técnicas de estabilización dinámica, tecnologías quirúrgicas que preservan la estabilidad del raquis como artrodesis segmentarías y finalmente los diagnósticos de pseudoartrosis, fracturas escoliosis o espondilolistesis. Puede comprender la combinación de estas situaciones previas así como la afectación a múltiples niveles. Nota: Pseudoartrosis: Movilidad en un segmento raquídeo documentada y objetivada mediante hallazgos radiográficos coherentes o fallo de soporte físico; en ambos casos tras cirugía de columna con la finalidad de fusionar dicho segmento. Ángulo (grado) de Cobb Utilizado para medir las curvaturas tanto en el plano frontal así como en el sagital de la columna. Se trazan líneas que pasen por la parte superior e inferior de los cuerpos vertebrales proximal y distal que constituyen la curvatura. Que deben ser las vértebras más inclinadas hacia la concavidad de la curva. Trazamos líneas perpendiculares a las líneas anteriores y medimos el ángulo. Nota: Si los hallazgos para la radiculopatía no cumplen los descritos para un intervalo de grado específico, se utilizará para la puntuación de la deficiencia el intervalo de grado inmediatamente inferior. |
 | Estenosis: |
 | Estenosis del canal espinal cervical. Puede incluir AOMSI (alteración de la integridad de un segmento móvil). | 0 0 0 1 1 Estenosis cervical en uno o más niveles con o sin AOMSI con dolor axial ocasional. | 4 5 6 7 8 Estenosis cervical en un nivel o varios con o sin AOMSI con clínica actual y hallazgos objetivados debidamente documentados con o sin cirugía y Radiculopatía documentada resuelta o dolencias radiculares no verificables o radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* En caso de existir signos de lesión en la médula espinal o mielopatía evaluarlas independientemente según capítulo de SNC y periférico. | 9 10 11 12 14 Estenosis cervical en un nivel con o sin AOMSI con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración* y En caso de existir signos de lesión en la médula espinal o mielopatía evaluar según capítulo de SNC y periférico. | 15 17 19 21 24 Estenosis cervical en uno o varios niveles con o sin AOMSI con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas de radiculopatía residual documentada grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* En caso de existir signos de lesión en la médula espinal o mielopatía evaluarlas independientemete según capítulo de SNC y periférico. | 25 27 28 29 30 Estenosis cervical en varios niveles con o sin AOMSI con clínica actual y hallazgos documentados; con o sin cirugía con signos y síntomas documentados de radiculopatía residual grave bilateral o en varios niveles documentados en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de la exploración*. En caso de existir signos de lesión en la médula espinal o mielopatía evaluarlas independientement e según capítulo de SNC y periférico. |
-| * Para graduar la radiculopatía y el intervalo ver el ajuste de grado según las tablas 17.6; 17.7 y 17.8. Nota: AOMSI incluye inestabilidad artrodesis, artrodesis fallida, estabilización dinámica o artroplastia o combinación de ésos en estados de múltiples niveles. Nota: En caso de Mielopatía, calcular la deficiencia adicional según capítulo 3, Sistema Nervioso central y periférico. Nota: La estenosis de canal incluye la de los forámenes y recesos laterales. |
+| * Para graduar la radiculopatía y el intervalo ver el ajuste de grado según las tablas 17.6; 17.7 y 17.9. Nota: AOMSI incluye inestabilidad artrodesis, artrodesis fallida, estabilización dinámica o artroplastia o combinación de ésos en estados de múltiples niveles. Nota: En caso de Mielopatía, calcular la deficiencia adicional según capítulo 3, Sistema Nervioso central y periférico. Nota: La estenosis de canal incluye la de los forámenes y recesos laterales. |
 | Fractura / luxación / espondilolistesis: |
 | Luxación y fractura luxación asociadas o Fracturas de uno o más cuerpos vertebrales. Fractura de un elemento posterior (pedículo, lámina, proceso articular, proceso transverso) y fractura por estallido. | 0 0 0 1 1 Luxación o fractura luxación sin compresiones o mínimas de un cuerpo vertebral; con o sin fractura de pedículo y/o de un elemento posterior sin retropulsión ósea dentro del canal y dolor axial ocasional o Fracturas en uno o más niveles sin compresiones o mínimas de un cuerpo vertebral; con o sin fractura de pedículo y/o de un elemento posterior. Consolidada con o sin intervención quirúrgica; dolor axial ocasional sin síntomas ni signos residuales. | 4 5 6 7 8 Luxación o fractura luxación en un nivel con o sin fractura. Espondilolistesis grado 1 o Fracturas individuales o múltiples con < 25% de compresión de un cuerpo vertebral; con o sin retropulsión ósea dentro del canal, con o sin fractura de pedículo y/o de un elemento posterior. Consolidada con o sin intervención quirúrgica (incluyendo fusión, vertebroplastia o cifoplastia) con deformación residual leve y clínica actual y hallazgos documentados y Radiculopatía documentada resuelta o dolencias radiculares no verificables o radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* En caso de existir signos de lesión en la médula espinal o mielopatía se evalúan independientemente según capítulo de SNC y periférico.** | 9 10 11 12 14 Luxación o fractura luxación en un nivel con o sin fractura. Espondilolistesis grado 2 o Fracturas de uno o múltiples niveles con compresión de 25% - 50% de cualquier cuerpo vertebral; con o sin retropulsión ósea dentro del canal, con o sin fractura de pedículo y/o de un elemento posterior. Consolidada con o sin intervención quirúrgica (incluyendo fusión, vertebroplastia o cifoplastia) con deformación residual moderada con clínica actual y hallazgos documentados y Signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración.* En caso de existir signos de lesión en la médula espinal o mielopatía se evalúan independientemente según capítulo de SNC y periférico.** | 15 17 19 21 24 Luxación o fractura luxación en uno o más niveles con o sin fractura. Espondilolistesis grado 3 o Fracturas individuales o múltiples con > 50% de compresión de un cuerpo vertebral; con o sin retropulsión ósea dentro del canal ósea, con o sin fractura de pedículo y/o de un elemento posterior. Consolidada con o sin intervención quirúrgica (incluyendo fusión, vertebroplastia o cifoplastia); con deformación residual grave con clínica actual y hallazgos documentados y Signos y síntomas de radiculopatía residual documentada grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* En caso de existir signos de lesión en la médula espinal o mielopatía se evalúan independientemente según capítulo de SNC y periférico.** | 25 27 28 29 30 Luxación o fractura luxación en uno o varios niveles con o sin fractura o Espondilolistesis grado 3/4 o Fracturas individuales o múltiples con > 50% de compresión de un cuerpo vertebral; con o sin retropulsión ósea dentro del canal con o sin fractura de pedículo y/o de un elemento posterior. Consolidada con o sin intervención quirúrgica (incluyendo fusión, vertebroplastia o cifoplastia); con deformación residual muy grave, con clínica actual y hallazgos documentados y Signos y síntomas documentados de radiculopatía residual grave bilateral o en varios niveles documentados en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de la exploración.* En caso de existir signos de lesión en la médula espinal o mielopatía se evalúan independientemente según capítulo de SNC y periférico.** |
 | Complicaciones postoperatorias (no neurológicas). |  |  |  |  | Infección profunda de la herida de la columna que requiere antibióticos crónicos; u osteomielitis crónica. |
-| * Para graduar la radiculopatía y el intervalo ver el ajuste de grado según las tablas 17.6; 17.7 y 17.8. ** En caso de existir signos de lesión en la médula espinal (LME) o mielopatía, se evalúan independientemente según normas del Capítulo 3: SNC y Periférico y se obtiene una puntuación de deficiencia adicional Nota: Si los hallazgos para la radiculopatía no cumplen los descritos para un intervalo de grado específico, se utilizará para la puntuación de la deficiencia el intervalo de grado inmediatamente inferior. |
+| * Para graduar la radiculopatía y el intervalo ver el ajuste de grado según las tablas 17.6; 17.7 y 17.9. ** En caso de existir signos de lesión en la médula espinal (LME) o mielopatía, se evalúan independientemente según normas del Capítulo 3: SNC y Periférico y se obtiene una puntuación de deficiencia adicional Nota: Si los hallazgos para la radiculopatía no cumplen los descritos para un intervalo de grado específico, se utilizará para la puntuación de la deficiencia el intervalo de grado inmediatamente inferior. |
 
 Tabla 17.3 Parrilla regional de columna torácica deficiencias de la columna. DTP
 
@@ -5078,7 +5064,7 @@ Tabla 17.3 Parrilla regional de columna torácica deficiencias de la columna. DT
 | Dolor |
 | Dorsalgia, crónica no específica o crónica recurrente, distensión / esguince crónico, artrosis radiológica, etc. | 0 0 0 1 1 Historia documentada de lesión de tipo distensión / esguince, ahora resuelta, o quejas ocasionales de dolor de la espalda media o con hallazgos radiológicos de artrosis sin hallazgos objetivos en la exploración. | 2 3 4 5 6 Historia documentada de lesión de tipo distensión / esguince o con hallazgos radiológicos de artrosis con quejas continuas de dolencias radiculares; hallazgos similares documentados en múltiples ocasiones. |  |  |  |
 | Lesiones de elementos móviles: |
-| Hernia de disco intervertebral y/o AOMSI (alteración de la integridad de un segmento móvil). | 0 0 0 1 1 Hallazgos imagenológicos (RM, TAC, RX) de hernia de disco intervertebral y dolor axial ocasional sin historial de síntomas clínicos o radiculares correlacionados. | 2 3 4 5 6 Hernia de disco intervertebral o AOMSI documentada en uno o en varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Radiculopatía documentada resuelta o dolencias radiculares no verificables en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 7 8 9 10 11 Hernia de disco intervertebral y/o AOMSI en un nivel con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración.* | 12 13 14 15 16 Hernia de disco intervertebral y/o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* | 17 18 19 20 22 Hernia de disco intervertebral y/o AOMSI en varios niveles, con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave bilateral o en varios niveles documentados en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de la exploración*. |
+| Hernia de disco intervertebral y/o AOMSI (alteración de la integridad de un segmento móvil). | 0 0 0 1 1 Hallazgos imagenológicos (RM, TAC, RX) de hernia de disco intervertebral y dolor axial ocasional sin historial de síntomas clínicos o radiculares correlacionados. | 2 3 4 5 6 Hernia de disco intervertebral y/o AOMSI documentada en uno o en varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Radiculopatía documentada resuelta o dolencias radiculares no verificables en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 7 8 9 10 11 Hernia de disco intervertebral y/o AOMSI en un nivel con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración.* | 12 13 14 15 16 Hernia de disco intervertebral y/o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* | 17 18 19 20 22 Hernia de disco intervertebral y/o AOMSI en varios niveles, con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave bilateral o en varios niveles documentados en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de la exploración*. |
 | Escoliosis y anquilosis vertebral. | 0 0 0 1 1 Escoliosis residual inferior a 20° cobb con dolor axial ocasional. | 2 3 4 5 6 Escoliosis residual de 20º a 29° cobb con clínica actual y hallazgos documentados; | 7 8 9 10 11 Escoliosis residual de 30ª a 59° cobb o Anquilosis con rigidez torácica total y con clínica actual y hallazgos documentados. | 12 13 14 15 16 Escoliosis residual de 60 a 80° cobb con clínica actual y hallazgos documentados. | 17 18 19 20 22 Escoliosis residual mayor de 80° cobb con clínica actual y hallazgos documentados. |
 | Nota: AOMSI Incluyen tecnologías quirúrgicas que preservan la movilidad tales como la artroplastia discal y las técnicas de estabilización dinámica, tecnologías quirúrgicas que preservan la estabilidad del raquis como artrodesis segmentarías y finalmente los diagnósticos de pseudoartrosis, fracturas, escoliosis o espondilolistesis. Puede comprender la combinación de estas situaciones previas así como la afectación a múltiples niveles. |
 | Fracturas / luxación / espondilolistesis: |
@@ -5094,14 +5080,14 @@ Tabla 17.4 Parrilla regional de columna lumbar deficiencias de la columna. DTP
 | Dolor: |
 | Dolor en la región lumbosacra de la espalda crónico no específico o crónico recurrente distensión / esguince crónico, enfermedad discal degenerativa sintomática, artrosis radiológica, dolor en la articulación facetaria, disfunción / alteración de la articulación sacroilíaca, etc. | 0 0 0 1 1 Historia documentada de lesión de tipo distensión / esguince, ahora resuelta, o quejas ocasionales de dolor de espalda con hallazgos radiológicos de artrosis sin hallazgos objetivos en la exploración. | 2 3 4 5 6 Historia documentada de lesión de tipo distensión / esguince o hallazgos radiológicos de artrosis con quejas continuas de dolencias radiculares y/o no verificables; hallazgos similares documentados en exploraciones previas y presentes en el tiempo de evaluación. |  |  |  |
 | Lesiones de los segmentos móviles: |
-| Hernia de disco intervertebral y/o AOMSI. Nota: AOMSI incluye estabilidad artrodesis, artrodesis fallida, estabilización dinámica o artroplastia o combinación de ésas en condiciones de múltiples niveles. | 0 0 0 1 1 Imágenes de hernia de disco intervertebral con dolor axial ocasional sin antecedentes de síntomas radiculares clínicamente correlacionados. | 5 6 7 8 9 Hernia discal o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Radiculopatía documentada resuelta o dolencias radiculares no verificables o radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 10 11 12 13 14 Hernia de disco intervertebral o AOMSI en un solo nivel con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel, en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración.* | 15 17 19 21 23 Hemia de disco intervertebral y/o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* | 25 27 29 31 33 Hernia de disco intervertebral o AOMSI en múltiples niveles, con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave bilateral o en varios niveles documentados, en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de la exploración.* |
+| Hernia de disco intervertebral y/o AOMSI. Nota: AOMSI incluye estabilidad artrodesis, artrodesis fallida, estabilización dinámica o artroplastia o combinación de ésas en condiciones de múltiples niveles. | 0 0 0 1 1 Imágenes de hernia de disco intervertebral con dolor axial ocasional sin antecedentes de síntomas radiculares clínicamente correlacionados. | 5 6 7 8 9 Hernia discal y/o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Radiculopatía documentada resuelta o dolencias radiculares no verificables o radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 10 11 12 13 14 Hernia de disco intervertebral y/o AOMSI en un solo nivel con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual leve a moderada en un solo nivel, en el nivel clínicamente apropiado al diagnóstico, y clínica presente en el momento de la exploración.* | 15 17 19 21 23 Hemia de disco intervertebral y/o AOMSI en uno o varios niveles con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* | 25 27 29 31 33 Hernia de disco intervertebral y/o AOMSI en múltiples niveles, con clínica actual y hallazgos documentados; con o sin cirugía y Con signos y síntomas documentados de radiculopatía residual grave bilateral o en varios niveles documentados, en los niveles clínicamente apropiados al diagnóstico y clínica presente en el momento de la exploración.* |
 | Escoliosis y anquilosis vertebral. | 0 0 0 1 1 Escoliosis residual inferior a 20° cobb con dolor axial ocasional. | 5 6 7 8 9 Escoliosis residual de 20ª a 29° cobb con clínica actual y hallazgos documentados. | 10 11 12 13 14 Escoliosis residual de 30ª a 59° cobb con clínica actual y hallazgos documentados. | 15 17 19 21 23 Escoliosis residual de 60 a 80° cobb con clínica actual y hallazgos documentados. | 25 27 29 31 33 Escoliosis residual mayor de 80° coob o Anquilosis con rigidez lumbar (incluida L5-S1) total y Con clínica actual y hallazgos documentados. |
 | Estenosis: |
 | Estenosis espinal y/o recesos lateralesª (puede incluir AOMSI). Nota: AOMSI incluye inestabilidad, artrodesis, artrodesis fallida, estabilización dinámica o artroplastia o pseudoartrosis, o combinación de ésas en estados de múltiples niveles. | 0 0 0 1 1 Estenosis lumbar a uno o más niveles con dolor axial ocasional. | 5 6 7 8 9 Estenosis lumbar en uno o varios niveles (con o sin AOMSI) con clínica actual y hallazgos médicamente documentados; con o sin cirugía (descompresión) o con claudicación neurogénica resuelta y documentada previamente. Radiculopatía documentada resuelta o dolencias radiculares no verificables o radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 10 11 12 13 14 Estenosis lumbar en un nivel con o sin AOMSI con clínica actual y hallazgos documentados; con o sin cirugía (descompresión) y Claudicación neurogénica intermitente documentada paseos de > 10 minutos o Signos y síntomas de radiculopatía leve a moderada documentados en el nivel clínicamente apropiado presentes en el momento de la exploración.* En caso de existir signos de cola de caballo se evaluaran por el capítulo de SNC y periférico. | 15 17 19 21 23 Estenosis lumbar en uno o varios niveles con o sin AOMSI con clínica actual y hallazgos documentados; con o sin cirugía (descompresión) y Claudicación neurogénica documentada, paseos limitados a <10 minutos o signos y síntomas documentados de radiculopatía residual grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración.* En caso de existir signos de cola de caballo se evaluaran por el capítulo de SNC y periférico. | 25 27 29 31 33 Estenosis lumbar en varios niveles con o sin AOMSI con clínica actual y hallazgos documentados; con o sin cirugía (descompresión) y Claudicación neurogénica grave (< de 150 metros) o incapacidad de deambular sin dispositivos de asistencia o Signos y síntomas documentados de radiculopatía grave bilateral o de varios niveles en los niveles clínicamente apropiados presentes en el momento de la exploración.* En caso de existir signos de cola de caballo se evaluaran por el capítulo de SNC y periférico. |
 | Fracturas / luxaciones/ espondilolistesis: |
 | Luxación o fractura luxación en uno solo nivel o múltiples niveles. Fracturas de una o más vértebras incluyendo fracturas por compresión y/o fractura de un elemento posterior (pedículo, lámina, proceso articular, proceso transverso) y fractura por estallido. | 0 0 0 1 1 Luxación o fracturas en uno o más niveles sin compresiones o mínimas de un cuerpo vertebral; sin retropulsión ósea en el canal con o sin fractura de pedículo y/o de un elemento posterior con dolor axial ocasional. | 5 6 7 8 9 Luxación o fractura luxación a uno o varios niveles con clínica actual y hallazgos documentados o Espondilolistesis grado 1 o Fracturas en uno o varios niveles con <25% de compresión de un cuerpo vertebral; con o sin retropulsión ósea leve en el canal, con o sin fractura de pedículo y/o de un elemento posterior. Consolidadas, con o sin cirugía (incluyendo vertebroplastia o cifoplastia) con clínica y hallazgos documentados y Radiculopatía documentada resuelta o dolencias radiculares no verificables o Radiculitis documentada (sin radiculopatía residual cronificada) en los niveles clínicamente apropiados al diagnóstico en el momento de la exploración.* | 10 11 12 13 14 Luxación o fractura luxación en un solo nivel, con clínica actual y hallazgos documentados o Espondilolistesis grado 2 o Fracturas en un sólo nivel o múltiples niveles con 25% - 50% de compresión de un cuerpo vertebral; con o sin retropulsión ósea leve a moderada en el canal, fractura de pedículo y/o de un elemento posterior. Consolidadas, con o sin cirugía (incluyendo vertebroplastia o cifoplastia) con o sin deformación residual con clínica y hallazgos documentados y Signos y síntomas de radiculopatía leve a moderada documentada en el nivel clínicamente apropiado presente en el momento de la exploración* o Claudicación neurogénica intermitente en documentada paseos de > 10 minutos. En caso de existir signos de cola de caballo se evaluaran por el capítulo de SNC y periférico. | 15 17 19 21 23 Luxación o fractura luxación en uno o varios niveles con clínica actual y hallazgos documentados o Espondilolistesis grado 3 o Fracturas en un sólo nivel o múltiples niveles con > 50% de compresión de un cuerpo vertebral; con o sin retropulsión ósea moderada agrave en el canal, fractura de pedículo y/o de un elemento posterior. Consolidadas, con o sin cirugía (incluyendo vertebroplastia o cifoplastia); con o sin deformación residual con clínica y hallazgos documentados y Signos y síntomas documentados de radiculopatía residual grave en un nivel o moderada a grave en varios niveles, en los niveles clínicamente apropiados al diagnóstico, y clínica presente en el momento de la exploración* o Claudicación neurogénica documentada, paseos limitados a <10 minutos. En caso de existir signos de cola de caballo se evaluaran por el capítulo de periférico SNC y periférico. | 25 27 29 31 33 Luxación o fractura luxación en uno o múltiples niveles con clínica actual y hallazgos documentados o Espondilolistesis grado 3/4 o Fracturas en un sólo nivel o múltiples niveles con > 50% de compresión de un cuerpo vertebral; con o sin retropulsión ósea grave a muy grave en el canal, fractura de pedículo y/o de un elemento posterior. Consolidadas, con o sin cirugía (incluyendo vertebroplastia o cifoplastia); con o sin deformación residual con clínica y hallazgos documentados y Signos y síntomas de radiculopatía bilateral grave o en múltiples niveles apropiados presentes en el momento de la exploración* o Claudicación neurogénica grave (< de 150 metros) incapacidad de deambular sin dispositivos de asistencia. En caso de existir signos de cola de caballo se evaluaran por el capítulo de SNC y periférico. |
 | Complicaciones postoperatorias (no neurológicas). Nota: Las complicaciones neurológicas son descritas en el Capítulo 3, Sistema nervioso central y periférico. |  |  |  |  | Infección profunda de la herida de la columna que requiere antibióticos crónicos; u osteomielitis crónica. |
-| * Para graduar la radiculopatía ver el cuadro de ajuste de la tabla 17.6,17.7 y 17.9, para la exploración física. Nota: En caso de existir signos de síndrome de cola de caballo se evaluarán según criterios del Capítulo 3 del SNC y periférico, para obtener una puntuación de deficiencia adicional. Nota: AOMSI Incluyen tecnologías quirúrgicas que preservan la movilidad tales como la artroplastia discal y las técnicas de estabilización dinámica, tecnologías quirúrgicas que preservan la estabilidad del raquis como artrodesis segmentarías y finalmente los diagnósticos de pseudoartrosis, fracturas, escoliosis o espondilolistesis. Puede comprender la combinación de estas situaciones previas así como la afectación a múltiples niveles. Nota: Si los hallazgos para la radiculopatía no cumplen los descritos para un intervalo de grado específico, se utilizará para la puntuación de la deficiencia el intervalo de grado inmediatamente inferior. Nota: La estenosis de canal incluye la de los forámenes y recesos laterales. |
+| * Para graduar la radiculopatía ver el cuadro de ajuste de la tabla 17.6,17.7 y 17.9.. Nota: En caso de existir signos de síndrome de cola de caballo se evaluarán según criterios del Capítulo 3 del SNC y periférico, para obtener una puntuación de deficiencia adicional. Nota: AOMSI Incluyen tecnologías quirúrgicas que preservan la movilidad tales como la artroplastia discal y las técnicas de estabilización dinámica, tecnologías quirúrgicas que preservan la estabilidad del raquis como artrodesis segmentarías y finalmente los diagnósticos de pseudoartrosis, fracturas, escoliosis o espondilolistesis. Puede comprender la combinación de estas situaciones previas así como la afectación a múltiples niveles. Nota: Si los hallazgos para la radiculopatía no cumplen los descritos para un intervalo de grado específico, se utilizará para la puntuación de la deficiencia el intervalo de grado inmediatamente inferior. Nota: La estenosis de canal incluye la de los forámenes y recesos laterales. |
 
 Las siguientes consideraciones se aplican a las parrillas de columna cervical, torácica, y lumbar:
 
@@ -5174,7 +5160,7 @@ Resumen del cálculo de la deficiencia en la columna:
 
 ‒ Dentro del intervalo de grado especificado inicialmente se asigna el valor central o Valor Inicial de Ajuste de la Deficiencia (VIAD). Este valor asignado inicialmente puede ser modificado hacia arriba o hacia abajo dentro de un mismo intervalo dependiendo del ajuste neto, que se calcula usando los modificadores de grado o criterios secundarios de ajuste (CSA).
 
-‒ Se utilizan los criterios secundarios de ajuste (CSA): de la Historia Funcional, la Exploración Física y las Pruebas Complementarias, para identificar el «valor del ajuste».
+‒ Se utilizan los criterios secundarios de ajuste (CSA): de la Historia Funcional, la Exploración Física y las Pruebas Complementarias, para identificar el "valor del ajuste".
 
 ‒ Si hay componentes múltiples de un modificador de grado, como Exploración Física (que puede incluir hallazgos en la palpación, alineamiento, inestabilidad), se elegirá el modificador de grado más elevado o que sea más objetivo y esté asociado con el diagnóstico que se está evaluando. Si un modificador de grado es considerado no fiable o incoherente, debería ser ignorado y eliminado del cálculo. Si un componente particular, como hallazgos en rayos X, fuese utilizado para determinar el intervalo de grado de deficiencia, no debe ser empleado de nuevo para ajustar el grado.
 
@@ -5192,7 +5178,7 @@ Tabla 17.10 Deficiencia basada en el diagnóstico: Pelvis. Deficiencia total de 
 | Fractura del acetábulo. | Fracturas no desplazadas, curadas sin deformación residual estructural; no hay síntomas residuales o dolor ocasional o fractura curada con o sin cirugía, sin síntomas residuales relacionados con la fractura. | Evaluación basada en la movilidad restringida de la articulación de la cadera (Capítulo de Extremidad inferior). |  |  |  |
 | Nota: SI indica sacroilíaca. * Inestabilidad se define como un cambio de posición que ocurre cuando se comparan las radiografías en supino y de pie. |
 
-7.4.a Criterios secundario de ajuste: Historia funcional (Deficiencias pélvicas).
+17.4.a Criterios secundario de ajuste: Historia funcional (Deficiencias pélvicas).
 
 Tabla 17.11 Ajuste de la historia funcional: Pelvis
 
@@ -5209,7 +5195,7 @@ Tabla 17.12 Ajuste de la exploración física: Pelvis
 | --- | --- | --- | --- | --- | --- |
 | Tejido blando. | No dolor. | Dolor leve localizado. | Dolor localizado de moderado a severo. |  |  |
 | Modo de andar. Nota: No aplicable en estenosis espinal o en estados en los cuales se combina la puntuación del sistema nervioso central. | No desorden de la marcha o parada. | Se pone de pie; anda pero tiene dificultad con las subidas, cuestas, escaleras, sillas profundas, y/o distancias largas. | Se pone de pie; anda alguna distancia con dificultad y sin ayuda pero está limitado a nivel de superficies planas. | Se pone de pie y mantiene la posición con dificultad; no puede andar sin ayuda. | No se puede levantar sin ayuda, soporte mecánico y/o dispositivo de asistencia. |
-| Deformidad. | No deformidad. | Deformidad leve detectable u oblicuidad pélvica. | Deformidad moderada u oblicuidad pélvica que afecta a movimientos como sentarse o levantarse, producidos por fractura pélvica desplazada y/o dislocación / luxación. | Deformidad grave u oblicuidad pélvica que afecta a movimientos como la marcha, sentarse y levantarse producidos por fractura pélvica desplazada y/o dislocación / luxación o Discrepancia en la longitud de una pierna postraumática de | Deformidad muy grave u oblicuidad pélvica e inestabilidad que afecta a movimientos como la marcha, sentarse y levantarse producida por pseudoartrosis y otras complicaciones postraumáticas o discrepancia en la |
+| Deformidad. | No deformidad. | Deformidad leve detectable u oblicuidad pélvica. | Deformidad moderada u oblicuidad pélvica que afecta a movimientos como sentarse o levantarse, producidos por fractura pélvica desplazada y/o dislocación / luxación. | Deformidad grave u oblicuidad pélvica que afecta a movimientos como la marcha, sentarse y levantarse producidos por fractura pélvica desplazada y/o dislocación / luxación o Discrepancia en la longitud de una pierna postraumática de postraumática de ≥ 2,5 cm a 4 cm. | Deformidad muy grave u oblicuidad pélvica e inestabilidad que afecta a movimientos como la marcha, sentarse y levantarse producida por pseudoartrosis y otras complicaciones postraumáticas o discrepancia en la longitud de una pierna postraumática ≥ 4 cm. |
 
 17.4.c Criterios secundario de ajuste: Pruebas complementarias (deficiencias pélvicas).
 
@@ -5222,17 +5208,17 @@ Tabla 17.13 Ajuste de pruebas complementarias: pelvis
 
 17.5 Resumen.
 
-1. Obtener la historia médica detallada y llevar a cabo un exploración física, como se explicó en la Sección 17.1.a.
+Obtener la historia médica detallada y llevar a cabo un exploración física, como se explicó en la Sección 17.1.a.
 
-2. Registrar el proceso y los resultados usando el registro de Evaluación de la deficiencia en la columna (Figura 17.1) y usando el registro completo como una guía.
+1. Registrar el proceso y los resultados usando el registro de Evaluación de la deficiencia en la columna (Figura 17.1) y usando el registro completo como una guía.
 
-3. Revisar pruebas complementarias, tal como se explicó en la Sección 17.1.a.
+2. Revisar pruebas complementarias, tal como se explicó en la Sección 17.1.a.
 
-4. Determinar el diagnóstico o diagnósticos a puntuar.
+3. Determinar el diagnóstico o diagnósticos a puntuar.
 
-5. Determinar la DBD para cada diagnóstico puntuable, usando las parrillas regionales, tal como se describió en la Sección 17.4. Esto incluye selección del intervalo de grado de deficiencia apropiada para ese diagnóstico y el valor numérico central del mismo o valor inicial de ajuste de la deficiencia (VIAD).
+4. Determinar la DBD para cada diagnóstico puntuable, usando las parrillas regionales, tal como se describió en la Sección 17.4. Esto incluye selección del intervalo de grado de deficiencia apropiada para ese diagnóstico y el valor numérico central del mismo o valor inicial de ajuste de la deficiencia (VIAD).
 
-6. Usar las parrillas de ajuste para Historia Funcional, Exploración Física, y Pruebas Complementarias, para definir el modificador de grado para cada criterio. El ajuste de la Historia Funcional se realiza solo para el diagnóstico más importante a no ser que se señale de otra manera en la jurisdicción. La puntuación de deficiencia relacionada con la radiculopatía está incluida en el proceso de evaluación, tanto en la elección del intervalo como en el ajuste de grado, en ningún caso se puntuará como un valor adicional.
+5. Usar las parrillas de ajuste para Historia Funcional, Exploración Física, y Pruebas Complementarias, para definir el modificador de grado para cada criterio. El ajuste de la Historia Funcional se realiza solo para el diagnóstico más importante a no ser que se señale de otra manera en la jurisdicción. La puntuación de deficiencia relacionada con la radiculopatía está incluida en el proceso de evaluación, tanto en la elección del intervalo como en el ajuste de grado, en ningún caso se puntuará como un valor adicional.
 
 17.6 Apéndice.
 
@@ -5248,8 +5234,7 @@ Tabla 18.1 Criterios para la puntuación de la deficiencia permanente secundaria
 | --- | --- | --- | --- | --- | --- |
 | Graduación de la gravedad DTP (%) | 0 | 1%-9% 1 3 5 7 9 | 11%-27% 11 15 19 23 27 | 30%-42% 30 33 36 39 42 | 45%-65% 45 50 55 60 65 |
 | Anamnesis (CP). | Los signos del trastorno cutáneo se manifestaron con anterioridad, pero en la actualidad se encuentran presentes 0%-4% del tiempo y no necesitan tratamiento médico y no interfieren con las actividades cotidianas (AVD). | Los signos y síntomas del trastorno cutáneo, se manifiestan entre el 5%-24% del tiempo y pueden precisar tratamiento con medicamentos tópicas de manera intermitente y cuando los signos y síntomas se manifiestan, éstos interfieren mínimamente con las AVD. | Los signos y síntomas del trastorno cutáneo, se manifiestan entre el 25% - 50% del tiempo y a menudo requieren tratamiento con medicamentos tópicos o sistémicos y cuando los signos y síntomas se manifiestan, éstos interfieren levemente con las AVD. | Los signos y síntomas del trastorno cutáneo, se manifiestan entre 51% - 95% del tiempo y requieren tratamiento de manera intermitente o continua con medicamentos tópicos o sistémicos y cuando los signos y síntomas se manifiestan, éstos interfieren moderadamente con las AVD. | Los signos y síntomas del trastorno cutáneo, se manifiestan 96% 00 % del tiempo y requieren tratamiento continuado por vía tópica o sistémica y Afectan de manera grave a la mayoría de las AVD hasta el punto de que pueden requerir el confinamiento. |
-| Resultados de la exploración física. |  | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan cuando lo hacen los síntomas. En este caso, los signos, no afectan al 10% del cuerpo, respetan la cara y/o habitualmente pueden disimularse. | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan cuando lo hacen los síntomas. En este caso, los signos afectan al 10% - 25% del cuerpo pero habitualmente pueden disimularse y/o afectan de manera importante a la cara o a la parte anterior del cuello y/o las manos o ulcera superficial crónica. | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan habitualmente. En este caso, los signos afectan al 25% - 50% del cuerpo y pueden disimularse, al menos parcialmente, en la mayoría de las situaciones sociales y/o afectan por completo a la palma de las manos, la cara o el cuello o ulcera profunda crónica. | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan prácticamente siempre. En este caso, afectan a > 50% del cuerpo y no pueden disimularse en la mayoría de situaciones sociales. Puede desplazar el grado al máximo permitido en este intervalo en función de la extensión y la capacidad para disimularla o ulcera profunda compleja crónica. |
-| Resultados de la exploración física. |  | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan cuando lo hacen los síntomas. En este caso, los signos, no afectan al 10% del cuerpo respetan la cara y/o habitualmente pueden disimularse. | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan cuando lo hacen los síntomas. En este caso, los signos afectan al 10% - 25% del cuerpo pero habitualmente pueden disimularse y/o afectan de manera importante a la cara o a la parte anterior del cuello y/o las manos o ulcera superficial crónica. | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan habitualmente. En este caso, los signos afectan al 25% - 50% del cuerpo y pueden disimularse, al menos parcialmente, en la mayoría de las situaciones sociales y/o afectan por completo a la palma de las manos, la cara o el cuello o ulcera profunda crónica. | Los resultados de la exploración física, acordes con la Tabla 18.3, se manifiestan prácticamente siempre. En este caso, afectan a > 50% del cuerpo y no pueden disimularse en la mayoría de situaciones sociales. Puede desplazar el grado al máximo permitido en este intervalo en función de la extensión y la capacidad para disimularla o ulcera profunda compleja crónica. |
+| Resultados de la exploración física. |  | Los resultados de la exploración física, se manifiestan cuando lo hacen los síntomas. En este caso, los signos, no afectan al 10% del cuerpo, respetan la cara y/o habitualmente pueden disimularse. | Los resultados de la exploración física, se manifiestan cuando lo hacen los síntomas. En este caso, los signos afectan al 10% - 25% del cuerpo pero habitualmente pueden disimularse y/o afectan de manera importante a la cara o a la parte anterior del cuello y/o las manos o ulcera superficial crónica. | Los resultados de la exploración física, se manifiestan habitualmente. En este caso, los signos afectan al 25% - 50% del cuerpo y pueden disimularse, al menos parcialmente, en la mayoría de las situaciones sociales y/o afectan por completo a la palma de las manos, la cara o el cuello o ulcera profunda crónica. | Los resultados de la exploración física, se manifiestan prácticamente siempre. En este caso, afectan a > 50% del cuerpo y no pueden disimularse en la mayoría de situaciones sociales. Puede desplazar el grado al máximo permitido en este intervalo en función de la extensión y la capacidad para disimularla o ulcera profunda compleja crónica. |
 | Resultados de las pruebas diagnósticas. | Los resultados que se esperan positivos son negativos, o bien no se realizaron las pruebas. Por ejemplo, se asignaría en un intervalo 0 para una dermatitis alérgica de contacto si no se obtienen resultados relevantes en las pruebas cutáneas. | Los resultados que se esperan positivos son ambiguos. Por ejemplo, se asignaría un intervalo 1 para una dermatitis alérgica de contacto si se obtienen resultados ambiguos en las pruebas cutáneas, pero que en caso de ser positivos, se considerarían relevantes. | Los resultados que se esperan positivos son positivos y adecuados al rango de valores esperados para un diagnóstico concreto. Por ejemplo, se asignaría un intervalo 2 para una dermatitis alérgica de contacto si se obtiene al menos un resultado positivo en las pruebas cutáneas. | Los resultados que se esperan positivos son positivos y algo superiores al rango de valores esperados para un diagnóstico concreto. Por ejemplo, se asignaría un intervalo 3 para una dermatitis alérgica de contacto si se obtienen múltiples resultados positivos en las pruebas cutáneas. | Los resultados que se esperan positivos son positivos y considerablemente superiores al rango de valores esperados para un diagnóstico concreto. Por ejemplo, se asignaría un intervalo 4 para una dermatitis alérgica de contacto si se obtienen múltiples resultados positivos en las pruebas cutáneas que indiquen que la persona debe evitar la exposición a una gran variedad de sustancias o la exposición laboral a agentes cruciales. |
 
 Apéndice A. Tabla de valores combinados (Guías AMA).
@@ -5260,113 +5245,15 @@ Si se deben de combinar tres o más valores de deficiencia, seleccione dos y cal
 
 Nota: Si las deficiencias de dos o más sistemas orgánicos se combinan para expresar una deficiencia corporal total, cada una debe expresarse previamente como porcentaje de deficiencia corporal total.
 
-| 1 | 2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2 | 3 | 4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 3 | 4 | 5 | 6 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 4 | 5 | 6 | 7 | 8 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 5 | 6 | 7 | 8 | 9 | 10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 6 | 7 | 8 | 9 | 10 | 11 | 12 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 8 | 9 | 10 | 11 | 12 | 13 | 14 | 14 | 15 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 9 | 10 | 11 | 12 | 13 | 14 | 14 | 15 | 16 | 17 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 10 | 11 | 12 | 13 | 14 | 15 | 15 | 16 | 17 | 18 | 19 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 11 | 12 | 13 | 14 | 15 | 15 | 16 | 17 | 18 | 19 | 20 | 21 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 12 | 13 | 14 | 15 | 16 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 13 | 14 | 15 | 16 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 23 | 24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 14 | 15 | 16 | 17 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 23 | 24 | 25 | 26 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 15 | 16 | 17 | 18 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 24 | 25 | 26 | 27 | 28 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 16 | 17 | 18 | 19 | 19 | 20 | 21 | 22 | 23 | 24 | 24 | 25 | 26 | 27 | 28 | 29 | 29 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 17 | 18 | 19 | 19 | 20 | 21 | 22 | 23 | 24 | 24 | 25 | 26 | 27 | 28 | 29 | 29 | 30 | 31 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 18 | 19 | 20 | 20 | 21 | 22 | 23 | 24 | 25 | 25 | 26 | 27 | 28 | 29 | 29 | 30 | 31 | 32 | 33 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 19 | 20 | 21 | 21 | 22 | 23 | 24 | 25 | 25 | 26 | 27 | 28 | 29 | 30 | 30 | 31 | 32 | 33 | 34 | 34 |  |  |  |  |  |  |  |  |  |  |  |
-| 20 | 21 | 22 | 22 | 23 | 24 | 25 | 26 | 26 | 27 | 28 | 29 | 30 | 30 | 31 | 32 | 33 | 34 | 34 | 35 | 36 |  |  |  |  |  |  |  |  |  |  |
-| 21 | 22 | 23 | 23 | 24 | 25 | 26 | 27 | 27 | 28 | 29 | 30 | 30 | 31 | 32 | 33 | 34 | 34 | 35 | 36 | 37 | 38 |  |  |  |  |  |  |  |  |  |
-| 22 | 23 | 24 | 24 | 25 | 26 | 27 | 27 | 28 | 29 | 30 | 31 | 31 | 32 | 33 | 34 | 34 | 35 | 36 | 37 | 38 | 38 | 39 |  |  |  |  |  |  |  |  |
-| 23 | 24 | 25 | 25 | 26 | 27 | 28 | 28 | 29 | 30 | 31 | 31 | 32 | 33 | 34 | 35 | 35 | 36 | 37 | 38 | 38 | 39 | 40 | 41 |  |  |  |  |  |  |  |
-| 24 | 25 | 26 | 26 | 27 | 28 | 29 | 29 | 30 | 31 | 32 | 32 | 33 | 34 | 35 | 35 | 36 | 37 | 38 | 38 | 39 | 40 | 41 | 41 | 42 |  |  |  |  |  |  |
-| 25 | 26 | 27 | 27 | 28 | 29 | 30 | 30 | 31 | 32 | 33 | 33 | 34 | 35 | 36 | 36 | 37 | 38 | 39 | 39 | 40 | 41 | 42 | 42 | 43 | 44 |  |  |  |  |  |
-| 26 | 27 | 27 | 28 | 29 | 30 | 30 | 31 | 32 | 33 | 33 | 34 | 35 | 36 | 36 | 37 | 38 | 39 | 39 | 40 | 41 | 42 | 42 | 43 | 44 | 45 | 45 |  |  |  |  |
-| 27 | 28 | 28 | 29 | 30 | 31 | 31 | 32 | 33 | 34 | 34 | 35 | 36 | 36 | 37 | 38 | 39 | 39 | 40 | 41 | 42 | 42 | 43 | 44 | 45 | 45 | 46 | 47 |  |  |  |
-| 28 | 29 | 29 | 30 | 31 | 32 | 32 | 33 | 34 | 34 | 35 | 36 | 37 | 37 | 38 | 39 | 40 | 40 | 41 | 42 | 42 | 43 | 44 | 45 | 45 | 46 | 47 | 47 | 48 |  |  |
-| 29 | 30 | 30 | 31 | 32 | 33 | 33 | 34 | 35 | 35 | 36 | 37 | 38 | 38 | 39 | 40 | 40 | 41 | 42 | 42 | 43 | 44 | 45 | 45 | 46 | 47 | 47 | 48 | 49 | 50 |  |
-| 30 | 31 | 31 | 32 | 33 | 34 | 34 | 35 | 36 | 36 | 37 | 38 | 38 | 39 | 40 | 41 | 41 | 42 | 43 | 43 | 44 | 45 | 45 | 46 | 47 | 48 | 48 | 49 | 50 | 50 | 51 |
-|  | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 |
-| 31 | 52 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 32 | 53 | 54 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 33 | 54 | 54 | 55 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 34 | 54 | 55 | 56 | 56 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 35 | 55 | 56 | 56 | 57 | 58 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 36 | 56 | 56 | 57 | 58 | 58 | 59 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 37 | 57 | 57 | 58 | 58 | 59 | 60 | 60 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 38 | 57 | 58 | 58 | 59 | 60 | 60 | 61 | 62 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 39 | 58 | 59 | 59 | 60 | 60 | 61 | 62 | 62 | 63 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 40 | 59 | 59 | 60 | 60 | 61 | 62 | 62 | 63 | 63 | 64 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 41 | 59 | 60 | 60 | 61 | 62 | 62 | 63 | 63 | 64 | 65 | 65 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 42 | 60 | 61 | 61 | 62 | 62 | 63 | 63 | 64 | 65 | 65 | 66 | 66 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 43 | 61 | 61 | 62 | 62 | 63 | 64 | 64 | 65 | 65 | 66 | 66 | 67 | 68 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 44 | 61 | 62 | 62 | 63 | 64 | 64 | 65 | 65 | 66 | 66 | 67 | 68 | 68 | 69 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 45 | 62 | 63 | 63 | 64 | 64 | 65 | 65 | 66 | 66 | 67 | 68 | 68 | 69 | 69 | 70 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 46 | 63 | 63 | 64 | 64 | 65 | 65 | 66 | 67 | 67 | 68 | 68 | 69 | 69 | 70 | 70 | 71 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 47 | 63 | 64 | 64 | 65 | 66 | 66 | 67 | 67 | 68 | 68 | 69 | 69 | 70 | 70 | 71 | 71 | 72 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 48 | 64 | 65 | 65 | 66 | 66 | 67 | 67 | 68 | 68 | 69 | 69 | 70 | 70 | 71 | 71 | 72 | 72 | 73 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 49 | 65 | 65 | 66 | 66 | 67 | 67 | 68 | 68 | 69 | 69 | 70 | 70 | 71 | 71 | 72 | 72 | 73 | 73 | 74 |  |  |  |  |  |  |  |  |  |  |  |
-| 50 | 66 | 66 | 67 | 67 | 68 | 68 | 69 | 69 | 70 | 70 | 71 | 71 | 72 | 72 | 73 | 73 | 74 | 74 | 75 | 75 |  |  |  |  |  |  |  |  |  |  |
-| 51 | 66 | 67 | 67 | 68 | 68 | 69 | 69 | 70 | 70 | 71 | 71 | 72 | 72 | 73 | 73 | 74 | 74 | 75 | 75 | 76 | 76 |  |  |  |  |  |  |  |  |  |
-| 52 | 67 | 67 | 68 | 68 | 69 | 69 | 70 | 70 | 71 | 71 | 72 | 72 | 73 | 73 | 74 | 74 | 75 | 75 | 76 | 76 | 76 | 77 |  |  |  |  |  |  |  |  |
-| 53 | 68 | 68 | 69 | 69 | 69 | 70 | 70 | 71 | 71 | 72 | 72 | 73 | 73 | 74 | 74 | 75 | 75 | 76 | 76 | 77 | 77 | 77 | 78 |  |  |  |  |  |  |  |
-| 54 | 68 | 69 | 69 | 70 | 70 | 71 | 71 | 71 | 72 | 72 | 73 | 73 | 74 | 74 | 75 | 75 | 76 | 76 | 77 | 77 | 77 | 78 | 78 | 79 |  |  |  |  |  |  |
-| 55 | 69 | 69 | 70 | 70 | 71 | 71 | 72 | 72 | 73 | 73 | 73 | 74 | 74 | 75 | 75 | 76 | 76 | 77 | 77 | 78 | 78 | 78 | 79 | 79 | 80 |  |  |  |  |  |
-| 56 | 70 | 70 | 71 | 71 | 71 | 72 | 72 | 73 | 73 | 74 | 74 | 74 | 75 | 75 | 76 | 76 | 77 | 77 | 78 | 78 | 78 | 79 | 79 | 80 | 80 | 81 |  |  |  |  |
-| 57 | 70 | 71 | 71 | 72 | 72 | 72 | 73 | 73 | 74 | 74 | 75 | 75 | 75 | 76 | 76 | 77 | 77 | 78 | 78 | 79 | 79 | 79 | 80 | 80 | 81 | 81 | 82 |  |  |  |
-| 58 | 71 | 71 | 72 | 72 | 73 | 73 | 74 | 74 | 74 | 75 | 75 | 76 | 76 | 76 | 77 | 77 | 78 | 78 | 79 | 79 | 79 | 80 | 80 | 81 | 81 | 82 | 82 | 82 |  |  |
-| 59 | 72 | 72 | 73 | 73 | 73 | 74 | 74 | 75 | 75 | 75 | 76 | 76 | 77 | 77 | 77 | 78 | 78 | 79 | 79 | 80 | 80 | 80 | 81 | 81 | 82 | 82 | 82 | 83 | 83 |  |
-| 60 | 72 | 73 | 73 | 74 | 74 | 74 | 75 | 75 | 76 | 76 | 76 | 77 | 77 | 78 | 78 | 78 | 79 | 79 | 80 | 80 | 80 | 81 | 81 | 82 | 82 | 82 | 83 | 83 | 84 | 84 |
-|  | 31 | 32 | 33 | 34 | 35 | 36 | 37 | 38 | 39 | 40 | 41 | 42 | 43 | 44 | 45 | 46 | 47 | 48 | 49 | 50 | 51 | 52 | 53 | 54 | 55 | 56 | 57 | 58 | 59 | 60 |
-| 61 | 85 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 62 | 85 | 86 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 63 | 86 | 86 | 86 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 64 | 86 | 86 | 87 | 87 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 65 | 86 | 87 | 87 | 87 | 88 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 66 | 87 | 87 | 87 | 88 | 88 | 88 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 67 | 87 | 87 | 88 | 88 | 88 | 89 | 89 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 68 | 88 | 88 | 88 | 88 | 89 | 89 | 89 | 90 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 69 | 88 | 88 | 89 | 89 | 89 | 89 | 90 | 90 | 90 |  |  |  |  |  |  |  |  |  |  |  |
-| 70 | 88 | 89 | 89 | 89 | 90 | 90 | 90 | 90 | 91 | 91 |  |  |  |  |  |  |  |  |  |  |
-| 71 | 89 | 89 | 89 | 90 | 90 | 90 | 90 | 91 | 91 | 91 | 92 |  |  |  |  |  |  |  |  |  |
-| 72 | 89 | 89 | 90 | 90 | 90 | 90 | 91 | 91 | 91 | 92 | 92 | 92 |  |  |  |  |  |  |  |  |
-| 73 | 89 | 90 | 90 | 90 | 91 | 91 | 91 | 91 | 92 | 92 | 92 | 92 | 93 |  |  |  |  |  |  |  |
-| 74 | 90 | 90 | 90 | 91 | 91 | 91 | 91 | 92 | 92 | 92 | 92 | 93 | 93 | 93 |  |  |  |  |  |  |
-| 75 | 90 | 91 | 91 | 91 | 91 | 92 | 92 | 92 | 92 | 93 | 93 | 93 | 93 | 94 | 94 |  |  |  |  |  |
-| 76 | 91 | 91 | 91 | 91 | 92 | 92 | 92 | 92 | 93 | 93 | 93 | 93 | 94 | 94 | 94 | 94 |  |  |  |  |
-| 77 | 91 | 91 | 91 | 92 | 92 | 92 | 92 | 93 | 93 | 93 | 93 | 94 | 94 | 94 | 94 | 94 | 95 |  |  |  |
-| 78 | 91 | 92 | 92 | 92 | 92 | 93 | 93 | 93 | 93 | 93 | 94 | 94 | 94 | 94 | 95 | 95 | 95 | 95 |  |  |
-| 79 | 92 | 92 | 92 | 92 | 93 | 93 | 93 | 93 | 93 | 94 | 94 | 94 | 94 | 95 | 95 | 95 | 95 | 95 | 96 |  |
-| 80 | 92 | 92 | 93 | 93 | 93 | 93 | 93 | 94 | 94 | 94 | 94 | 94 | 95 | 95 | 95 | 95 | 95 | 96 | 96 | 96 |
-|  | 61 | 62 | 63 | 64 | 65 | 66 | 67 | 68 | 69 | 70 | 71 | 72 | 73 | 74 | 75 | 76 | 77 | 78 | 79 | 80 |
-| 81 | 96 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 82 | 97 | 97 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 83 | 97 | 97 | 97 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 84 | 97 | 97 | 97 | 97 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 85 | 97 | 97 | 97 | 98 | 98 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 86 | 97 | 97 | 98 | 98 | 98 | 98 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 87 | 98 | 98 | 98 | 98 | 98 | 98 | 98 |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 88 | 98 | 98 | 98 | 98 | 98 | 98 | 98 | 99 |  |  |  |  |  |  |  |  |  |  |  |  |
-| 89 | 98 | 98 | 98 | 98 | 98 | 98 | 99 | 99 | 99 |  |  |  |  |  |  |  |  |  |  |  |
-| 90 | 98 | 98 | 98 | 98 | 99 | 99 | 99 | 99 | 99 | 99 |  |  |  |  |  |  |  |  |  |  |
-| 91 | 98 | 98 | 98 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 |  |  |  |  |  |  |  |  |  |
-| 92 | 98 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 |  |  |  |  |  |  |  |  |
-| 93 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 100 |  |  |  |  |  |  |  |
-| 94 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 100 | 100 | 100 |  |  |  |  |  |  |
-| 95 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 100 | 100 | 100 | 100 | 100 | 100 |  |  |  |  |  |
-| 96 | 99 | 99 | 99 | 99 | 99 | 99 | 99 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |  |  |  |  |
-| 97 | 99 | 99 | 99 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |  |  |  |
-| 98 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |  |  |
-| 99 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 | 100 |  |
-|  | 81 | 82 | 83 | 84 | 85 | 86 | 87 | 88 | 89 | 90 | 91 | 92 | 93 | 94 | 95 | 96 | 97 | 98 | 99 | 100 |
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475498_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475498_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475498_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475498_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/185/17875_13475498_5.png)
 
 Apéndice B. Carga de Cumplimiento (adherencia) del Tratamiento CCT:
 
@@ -5510,9 +5397,9 @@ Baremo de Evaluación de las Funciones y Estructuras Corporales / Deficiencia Gl
 | s | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | Constructos (CIF): b = Funciones corporales: Son las funciones fisiológicas de los sistemas corporales (incluyendo las funciones mentales). El estándar empleado para evaluar estas funciones es la considerada como norma estadística para los seres humanos; s = Estructuras corporales: Son las partes anatómicas o estructurales del cuerpo como órganos o miembros y sus componentes clasificados en relación a los sistemas corporales; Deficiencia: Son Los problemas en las funciones o estructuras corporales como una desviación o una pérdida significativa. Calificadores de Gravedad (CIF): 0 = Insignificante; 1 = Leve; 2 = Moderado; 3 = Grave; 4 = total; 8 = No especificado; 9 = No aplicable. Se tendrá en cuenta la puntuación obtenida en el capítulo correspondiente del BDGP a la categoría o dominio CIF (ver índice del BDGP). |
 
-Plantilla de evaluación de los «Problemas de funcionamiento de la persona» y del «Grado final de discapacidad»
+Plantilla de evaluación de los "Problemas de funcionamiento de la persona" y del "Grado final de discapacidad"
 
-Nombre del interesado: ____________________________________________________
+Nombre del interesado: ____________________________________________
 
 Fecha de valoración: _______________ N.° expediente: ______________
 
@@ -5523,16 +5410,16 @@ Fecha de valoración: _______________ N.° expediente: ______________
 | Princ. | Secun. |
 | 1. BDGP |  |  |  |
 | 2. BLA |  |  |  |
-| 3. BRP-QD |  |  |  | Secundario. |
-| 4. BFCA |  |  | Secundario. |
+| 3. BRP-QD |  |  | Secundario. |
+| 4. BFCA |  | Secundario. |
 
-Si el «Criterio principal» elegido no es la DGP, justificación: _______________
+Si el "Criterio principal" elegido no es la DGP, justificación: _______________
 
 2. Ajustes.
 
 2.1 Valor Inicial de Ajuste (VIA):
 
-Llevar a la tabla siguiente la puntuación del Criterio Principal de evaluación determinado, que constituirá el Valor inicial de ajuste (VIA) situándose en el «valor de intervalo de grado de discapacidad» (VIG) (valores A, B, C, D, E) de la clase de gravedad de discapacidad correspondiente (valor central en rojo).
+Llevar a la tabla siguiente la puntuación del Criterio Principal de evaluación determinado, que constituirá el Valor inicial de ajuste (VIA) situándose en el "valor de intervalo de grado de discapacidad" (VIG) (valores A, B, C, D, E) de la clase de gravedad de discapacidad correspondiente (valor central en rojo).
 
 | Valor | Clase 0 | Clase 1 | Clase 2 | Clase 3 | Clase 4 |
 | --- | --- | --- | --- | --- | --- |
@@ -5542,7 +5429,7 @@ Llevar a la tabla siguiente la puntuación del Criterio Principal de evaluación
 | D | 3 | 18 | 20 | 22 | 38 | 40 | 44 | 80 | 85 | 89 | 96 |
 | E | 4 | 23 | 24 |  | 45 | 49 |  | 90 | 95 |  | 96 |
 
-Valor Inicial de Ajuste (VIA): ________ Clase de discapacidad asignada _______
+Valor Inicial de Ajuste (VIA): _____ Clase de discapacidad asignada _____
 
 Ajuste neto de grado por la repercusión objetivada para realizar actividades: Ajuste de intervalo de grado dentro de la clase de discapacidad asignada, modificando al alza o a la baja el VIA dentro de la misma, por los valores de ajuste de los Criterios Secundarios (VIG) que no se haya elegido como Criterio Principal.
 
@@ -5574,4 +5461,6 @@ Grado de Discapacidad Ajustado (GDA): _______
 
 Baremo de Factores Contextuales Ambientales (BFCA):
 
-GDA: ________ + puntuación resultante BFCA ________ con tope de límite de clase de discapacidad = _________ Grado Final de Discapacidad de la persona (GFD)
+GDA: _____ + puntuación resultante BFCA ______ con tope de límite de clase de discapacidad = _______ Grado Final de Discapacidad de la persona (GFD)
+
+> Se modifica por el art. único.3 de la Orden DSA/934/2023, de 19 de julio. Ref. BOE-A-2023-17875

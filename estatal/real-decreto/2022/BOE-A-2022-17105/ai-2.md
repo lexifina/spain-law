@@ -40,7 +40,7 @@ Anexo V. Baremo de Evaluación de las Restricciones en la Participación (BRP-QD
 
 2. Perfil de evaluación y puntuación final de la restricción.
 
-Anexo VI. Baremo de Evaluación de las Barreras Ambientales (BFCA). Perfil de evaluación y puntuación final de las barreras ambientales, plantilla resumen de evaluación del «Grado final de discapacidad» y perfil global de funcionamiento.
+Anexo VI. Baremo de Evaluación de las Barreras Ambientales (BFCA). Perfil de evaluación y puntuación final de las barreras ambientales, plantilla resumen de evaluación del “Grado final de discapacidad” y perfil global de funcionamiento.
 
 Primer nivel: Resumen básico de los componentes del baremo
 
@@ -60,11 +60,11 @@ Según el modelo biopsicosocial propuesto por la Clasificación Internacional de
 
 6. Restricciones en la Participación: Son los problemas que experimenta una persona para realizar actividades e implicarse socialmente en el contexto o entorno real.
 
-7. Factores contextuales: «A su vez estos componentes interactúan con los factores ambientales y personales, que constituyen el «contexto» de la vida real de un individuo, y determinan el nivel y extensión de su funcionamiento.
+7. Factores contextuales: “A su vez estos componentes interactúan con los factores ambientales y personales, que constituyen el “contexto” de la vida real de un individuo, y determinan el nivel y extensión de su funcionamiento.
 
-Por «discapacidad», se entiende a la resultante de la interacción entre la evaluación de: (1) las deficiencias de las funciones y estructuras corporales (2) las limitaciones para realizar actividades (3) las restricciones en la participación social y (4) las barreras del contexto,
+Por “discapacidad”, se entiende a la resultante de la interacción entre la evaluación de: (1) las deficiencias de las funciones y estructuras corporales (2) las limitaciones para realizar actividades (3) las restricciones en la participación social y (4) las barreras del contexto,
 
-El baremo se estructura en cuatro bloques, conjuntos de ideas o «constructos» diferenciados:
+El baremo se estructura en cuatro bloques, conjuntos de ideas o “constructos” diferenciados:
 
 1.º La deficiencia de las funciones (b) y estructuras (s) corporales.
 
@@ -74,19 +74,19 @@ El baremo se estructura en cuatro bloques, conjuntos de ideas o «constructos» 
 
 4.º Las barreras ambientales (e).
 
-A su vez cada «constructo» estará dividido en varios capítulos denominados «dominios»: 8 para el primero, 9 para los dos segundos y 5 para el tercero. Estos 22 dominios conforman para su correcta interpretación gráfico el «Perfil de funcionamiento global de la persona» en el que pueden visualizarse tanto las interacciones como la magnitud de los problemas evaluados.
+A su vez cada “constructo” estará dividido en varios capítulos denominados “dominios”: 8 para el primero, 9 para los dos segundos y 5 para el tercero. Estos 22 dominios conforman para su correcta interpretación gráfico el “Perfil de funcionamiento global de la persona” en el que pueden visualizarse tanto las interacciones como la magnitud de los problemas evaluados.
 
-Por otra parte, cada «constructo» se evalúa y puntúa como un baremo especifico, generándose cuatro puntuaciones independientes. En un segundo tiempo las cuatro puntuaciones interactúan entre si siguiendo una «metodología de evaluación», y confluyen en una sola puntuación: El «Grado Final de Discapacidad de la Persona».
+Por otra parte, cada “constructo” se evalúa y puntúa como un baremo especifico, generándose cuatro puntuaciones independientes. En un segundo tiempo las cuatro puntuaciones interactúan entre si siguiendo una “metodología de evaluación”, y confluyen en una sola puntuación: El “Grado Final de Discapacidad de la Persona”.
 
 2. Baremos que conforman la evaluación de los cuatro constructos de funcionamiento y la discapacidad.
 
 1.º Anexo III (BDGP): Baremo de evaluación de las funciones y estructuras corporales/Baremo de Deficiencia Global de la Persona.
 
-2.º Anexo IV (BLA): Baremo de evaluación de las capacidades / Baremo de Limitaciones en la Actividad. Parte del mismo constituye un Baremo específico de evaluación del problema de «Limitación grave y total para realizar actividades de autocuidado» (BLGTAA). Y otra parte conforma el denominado Baremo de evaluación de las «Limitaciones en las actividades de movilidad» (BLAM), «Movilidad reducida», que podrán utilizarse independiente.
+2.º Anexo IV (BLA): Baremo de evaluación de las capacidades / Baremo de Limitaciones en la Actividad. Parte del mismo constituye un Baremo específico de evaluación del problema de “Limitación grave y total para realizar actividades de autocuidado” (BLGTAA). Y otra parte conforma el denominado Baremo de evaluación de las “Limitaciones en las actividades de movilidad” (BLAM), “Movilidad reducida”, que podrán utilizarse independiente.
 
-3.º Anexo V (BRP-QD): Baremo de evaluación del desempeño / Baremo de Restricciones en la Participación. En estrecha relación tanto con el BLA como con el BFCA, sirve de «puente» entre ambos y establece criterios para la evaluación del desempeño para la realización de actividades que ha realizado en el último mes, pudiendo ampliarse este plazo a seis meses en las situaciones que así considere el técnico evaluador, tomando en consideración la influencia de los factores contextuales ambientales. Se basa en la información aportada por la persona en el «Cuestionario de desempeño» (QD).
+3.º Anexo V (BRP-QD): Baremo de evaluación del desempeño / Baremo de Restricciones en la Participación. En estrecha relación tanto con el BLA como con el BFCA, sirve de “puente” entre ambos y establece criterios para la evaluación del desempeño para la realización de actividades que ha realizado en el último mes, pudiendo ampliarse este plazo a seis meses en las situaciones que así considere el técnico evaluador, tomando en consideración la influencia de los factores contextuales ambientales. Se basa en la información aportada por la persona en el “Cuestionario de desempeño” (QD).
 
-4.º Anexo VI (BFCA): Baremo de evaluación de los Factores Contextuales Ambientales / Barreras. Se evalúan aquellos factores del entorno real de la persona, que interfieren en su funcionamiento y que pueden actuar como «barreras», incrementando la discapacidad y restringiendo su participación plena en la sociedad.
+4.º Anexo VI (BFCA): Baremo de evaluación de los Factores Contextuales Ambientales / Barreras. Se evalúan aquellos factores del entorno real de la persona, que interfieren en su funcionamiento y que pueden actuar como “barreras”, incrementando la discapacidad y restringiendo su participación plena en la sociedad.
 
 3. Escala genérica de la CIF de cuantificación de los problemas.
 
@@ -99,31 +99,31 @@ Por otra parte, cada «constructo» se evalúa y puntúa como un baremo especifi
 
 4. Graduación de la discapacidad. Clases de discapacidad.
 
-El núcleo central de la evaluación está conformado por las denominadas «Clases de discapacidad», que resultan de la evaluación de los baremos de los tres primeros constructos: BDGP BLA y BRP-QD:
+El núcleo central de la evaluación está conformado por las denominadas “Clases de discapacidad”, que resultan de la evaluación de los baremos de los tres primeros constructos: BDGP BLA y BRP-QD:
 
 Clases de discapacidad
 
-| Clase 0. | Discapacidad nula. | 0% - 4% |
+| Clase 0 | Discapacidad nula | 0% - 4% |
 | --- | --- | --- |
 | El nivel de discapacidad evaluado es insignificante y no justifica una dificultad evaluable en la realización de las actividades de la vida diaria (AVD). Objetivándose: – Entre un 0% y un 4% de los puntos en el BDGP – Menos de 5% de los puntos en el BLA y el BRP-QD. |
-| Clase 1. | Discapacidad leve. | 5% - 24% |
+| Clase 1 | Discapacidad leve | 5% - 24% |
 | El nivel de discapacidad evaluado es leve y justificaría una dificultad leve en la realización de las AVD. Siendo la persona independiente en la práctica totalidad de las mismas. Objetivándose: – Entre un 5% y un 24% de los puntos en el BDGP. – Entre un 5% y un 24% de los puntos en el BLA y el BRP-QD. |
-| Clase 2. | Discapacidad moderada. | 25% - 49% |
+| Clase 2 | Discapacidad moderada | 25% - 49% |
 | El nivel de discapacidad evaluado es moderado y justificaría una dificultad moderada en la realización de las AVD estudiadas. Pudiendo existir una limitación total o imposibilidad para realizar alguna de ellas en cualquier dominio, siendo independiente en las actividades de autocuidado. Objetivándose: – Entre un 25% y un 49% de los puntos en el BDGP. – Entre un 25% y un 49% de los puntos en el BLA y el BRP-QD. – Entre un 0% y un 4% de los puntos en el BLGTAA. |
-| Clase 3. | Discapacidad grave. | 50% - 95% |
+| Clase 3 | Discapacidad grave | 50% - 95% |
 | El nivel de discapacidad evaluado es grave y justificaría una dificultad grave en la realización de las AVD estudiadas. Pudiendo existir una limitación total o imposibilidad en su realización, en cualquier dominio, incluidas las actividades de autocuidado. Objetivándose: – Entre un 50% y un 95%% de los puntos en el BDGP. – Entre un 50% y un 95% de los puntos en el BLA y el BRP-QD. – Entre un 5% y un 74% de los puntos en el BLGTAA. |
-| Clase 4. | Discapacidad total. | 96% - 100% |
+| Clase 4 | Discapacidad total | 96% - 100% |
 | El nivel de discapacidad evaluado es grave o total y justificaría la imposibilidad en la realización de casi todas las AVD estudiadas, incluidas las de autocuidado. Objetivándose: – Un 96% a 100% de los puntos en el BDGP. – Un 96 a 100 % de los puntos en el BLA y el BRP-QD. – Pudiendo obtener una puntuación igual o superior al 75% en el BLGTAA. |
 
 5. Metodología de evaluación/interacción entre los constructos.
 
 Criterios de inclusión de los problemas evaluados en las clases de discapacidad y ajuste de grado:
 
-Uno de los tres primeros baremos descritos (habitualmente el BDGP) se utilizará como criterio principal (CP) que asignará la clase de discapacidad y determinará el «Valor del intervalo de grado de discapacidad» (VIG) (ABCDE) dentro de la clase de discapacidad (en rojo en la siguiente tabla). Sobre dicho valor se establece el punto de partida, al que se denominará «Valor inicial de ajuste» (VIA) a partir del que se va a realizar el proceso de ajuste de grado, mediante una relación jerárquica con el resto de constructos, que funcionarán como «Criterios secundarios de ajuste de grado» (CSA). Obteniendo el Grado de Discapacidad Ajustado (GDA)
+Uno de los tres primeros baremos descritos (habitualmente el BDGP) se utilizará como criterio principal (CP) que asignará la clase de discapacidad y determinará el “Valor del intervalo de grado de discapacidad” (VIG) (ABCDE) dentro de la clase de discapacidad (en rojo en la siguiente tabla). Sobre dicho valor se establece el punto de partida, al que se denominará “Valor inicial de ajuste” (VIA) a partir del que se va a realizar el proceso de ajuste de grado, mediante una relación jerárquica con el resto de constructos, que funcionarán como “Criterios secundarios de ajuste de grado” (CSA). Obteniendo el Grado de Discapacidad Ajustado (GDA)
 
 Plantilla de evaluación del problema de funcionamiento de la persona dentro de las clases de discapacidad:
 
-Tramos de puntuación de los «valores de intervalo de grado de discapacidad» (VIG) de las clases de gravedad de discapacidad:
+Tramos de puntuación de los “valores de intervalo de grado de discapacidad” (VIG) de las clases de gravedad de discapacidad:
 
 | Valor | Clase 0 | Clase 1 | Clase 2 | Clase 3 | Clase 4 |
 | --- | --- | --- | --- | --- | --- |
@@ -135,41 +135,41 @@ Tramos de puntuación de los «valores de intervalo de grado de discapacidad» (
 
 Ajuste de grado por las barreras objetivadas en el BFCA:
 
-Una vez obtenido el GDA, la puntuación obtenida en el baremo del cuarto «constructo» (BFCA) interactúa en la evaluación como última modificadora de grado con las siguientes características:
+Una vez obtenido el GDA, la puntuación obtenida en el baremo del cuarto “constructo” (BFCA) interactúa en la evaluación como última modificadora de grado con las siguientes características:
 
 La puntuación resultante de la realización del BFCA tendrá un máximo de 24 puntos.
 
-Dicha puntuación modifica por adición el GDA desde el valor mínimo hasta el máximo de la clase de discapacidad asignada por el «criterio principal», sin poder cambiar de «clase».
+Dicha puntuación modifica por adición el GDA desde el valor mínimo hasta el máximo de la clase de discapacidad asignada por el “criterio principal”, sin poder cambiar de “clase”.
 
 Grado Final de Discapacidad de la Persona (GFD):
 
-(1) Una vez evaluados los baremos de los cuatro «constructos» (2) Elegido el «criterio principal» (3) Asignada la clase de discapacidad que le corresponda (4) Tras realizar los ajustes de grado en los «intervalos de gravedad» (ABCD) de la clase teniendo en cuenta los «criterios secundarios» (5) La suma de la puntuación del BFCA, determina el final del proceso. Obteniéndose una única puntuación: el «Grado Final de Discapacidad de la persona».
+(1) Una vez evaluados los baremos de los cuatro “constructos” (2) Elegido el “criterio principal” (3) Asignada la clase de discapacidad que le corresponda (4) Tras realizar los ajustes de grado en los “intervalos de gravedad” (ABCD) de la clase teniendo en cuenta los “criterios secundarios” (5) La suma de la puntuación del BFCA, determina el final del proceso. Obteniéndose una única puntuación: el “Grado Final de Discapacidad de la persona”.
 
 Anexo III. Baremo de Evaluación de la Deficiencia Global de la Persona (BDGP).
 
 1. Graduación de la deficiencia. Clases de deficiencia.
 
-Las «clases de deficiencia» se describen en relación a la previsible repercusión de la clínica de la condición de salud sobre la capacidad de la persona a la hora de realizar las AVD habituales, conforme se detalla a continuación:
+Las “clases de deficiencia” se describen en relación a la previsible repercusión de la clínica de la condición de salud sobre la capacidad de la persona a la hora de realizar las AVD habituales, conforme se detalla a continuación:
 
 Clases de deficiencia
 
-| Clase 0. | Deficiencia sin limitación o insignificante. | 0%-4% |
+| Clase 0 | Deficiencia sin limitación o insignificante | 0%-4% |
 | --- | --- | --- |
 | Los síntomas, signos o secuelas, de existir, son mínimos y no justifican una disminución de la capacidad de la persona para realizar las actividades de la vida diaria. Ausencia de síntomas con actividad, esfuerzos o cargas psico-física intensas. |
-| Clase 1. | Deficiencias con limitación leve. | 5%-24% |
+| Clase 1 | Deficiencias con limitación leve | 5%-24% |
 | Los síntomas, signos o secuelas existen y justifican alguna dificultad para llevar a cabo las actividades de la vida diaria, pero son compatibles con la práctica totalidad de las mismas. Los síntomas aparecen con la actividad intensa, grandes esfuerzos o cargas psico-físicas, pero no con la normal. |
-| Clase 2. | Deficiencia con limitación moderada. | 25%-49% |
+| Clase 2 | Deficiencia con limitación moderada | 25%-49% |
 | Los síntomas, signos o secuelas causan una disminución importante de la capacidad de la persona para realizar algunas de las actividades de la vida diaria, pudiendo existir limitación total en alguna de ellas (en todo caso leve en cuanto a su número e importancia), excluidas las de autocuidado, por lo que es previsible encontrar situaciones de necesidad de asistencia de otras personas leves o inexistentes. Síntomas con actividad normal, esfuerzos o cargas psico-física moderadas. |
-| Clase 3. | Deficiencia con limitación grave. | 50%-95% |
+| Clase 3 | Deficiencia con limitación grave | 50%-95% |
 | Los síntomas, signos o secuelas causan una disminución importante de la capacidad de la persona e imposibilidad para realizar la mayoría de las AVD, pudiendo existir limitación total en bastantes actividades, incluidas las de autocuidado, por lo que es previsible encontrar situaciones de necesidad de asistencia de otras personas moderada o grave. Síntomas con actividad menor de la normal, esfuerzos o cargas psico-físicas ligeras. |
-| Clase 4. | Deficiencia con limitación total. | 96-100% |
+| Clase 4 | Deficiencia con limitación total | 96-100% |
 | Los síntomas, signos o secuelas causan una disminución muy importante de la capacidad de la persona e imposibilidad para realizar casi todas las AVD incluidas la mayoría de las de autocuidado, por lo que la necesidad de atención de otras personas para su supervivencia será total. Síntomas en reposo, esfuerzos o cargas psico-física insignificantes. |
 
 2. Principios y reglas generales para calcular la deficiencia:
 
 Se realizará mediante una metodología similar a la del ajuste de grado propuesto para la determinación de la discapacidad, pero con características particulares.
 
-El cálculo del grado de la deficiencia estará condicionado por tres criterios evaluativos de inclusión dentro de unos denominados «intervalos de grado de la deficiencia» (IGD). Se basa en criterios relacionados con los hallazgos asociados al diagnóstico (CIE-10) de la condición de salud de la persona a evaluar y, en general, son tres:
+El cálculo del grado de la deficiencia estará condicionado por tres criterios evaluativos de inclusión dentro de unos denominados “intervalos de grado de la deficiencia” (IGD). Se basa en criterios relacionados con los hallazgos asociados al diagnóstico (CIE-10) de la condición de salud de la persona a evaluar y, en general, son tres:
 
 Hallazgos derivados de la Historia Clínica.
 
@@ -177,7 +177,7 @@ Hallazgos derivados de la Exploración Clínica.
 
 Hallazgos derivados de los resultados objetivos obtenidos en las Pruebas Complementarias.
 
-Uno de los anteriores hallazgos constituirá el Criterio Principal (CP) en que se basa la puntuación de la deficiencia e incluirá a la misma en el valor central de uno de los «Intervalos de grado de la deficiencia» Los otros dos criterios que no se consideren como criterio principal, se utilizarán como criterios secundarios de «ajuste de grado» del criterio principal.
+Uno de los anteriores hallazgos constituirá el Criterio Principal (CP) en que se basa la puntuación de la deficiencia e incluirá a la misma en el valor central de uno de los “Intervalos de grado de la deficiencia” Los otros dos criterios que no se consideren como criterio principal, se utilizarán como criterios secundarios de “ajuste de grado” del criterio principal.
 
 3. Modelo genérico de evaluación de la deficiencia:
 
@@ -197,7 +197,7 @@ Baremo de Evaluación de la Deficiencia de la Persona (BDGP)
 
 Deficiencia: Problemas en las funciones o estructuras corporales como una desviación o una pérdida significativa.
 
-| Funciones y estructuras dominios | Constructos | Graduación |
+| Funciones y estructuras dominios | Constructo | Graduación |
 | --- | --- | --- |
 | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | 1. Funciones mentales y estructuras del sistema nervioso. | b/s |  |  |  |  |  |  |  |
@@ -212,7 +212,7 @@ Deficiencia: Problemas en las funciones o estructuras corporales como una desvia
 
 5. Modelo de informe de síntesis de la evaluación de la deficiencia global de la persona.
 
-Nombre del interesado: ................................................... Edad: ............ Sexo: V ☐ M ☐
+Nombre del interesado: ............................................. Edad: ..... Sexo: V ☐ M ☐
 
 Número de identificación: ................ Fecha de la evaluación: ..............
 
@@ -274,17 +274,17 @@ Se evalúa la capacidad para realizar las actividades habituales en un entorno s
 
 Clases de limitación
 
-| Clase 0. | No hay limitación. | 0% - 4% |
+| Clase 0 | No hay limitación | 0% - 4% |
 | --- | --- | --- |
 | No presenta dificultades en la realización de las tareas, incluidas las más complejas de la actividad evaluada o esta dificultad es insignificante y no requiere generalmente de más tiempo para realizar la actividad. Puede precisar productos de mercado ordinario o pequeñas adaptaciones del entorno que eliminan completa o casi completamente la limitación. |
-| Clase 1. | Limitación leve. | 5% - 24% |
+| Clase 1 | Limitación leve | 5% - 24% |
 | – Realiza la mayoría de las tareas de la actividad con dificultades de carácter leve. – Presenta dificultades graves para la realización de las tareas más complejas. – Precisa del uso de dispositivos de ayuda comerciales o pequeñas adaptaciones, que no eliminan completamente la dificultad. – Requiere de un 25% más de tiempo para realizar las tareas de la actividad. – Presenta dificultades graves o requiere el apoyo de otra persona al menos una vez al mes en alguna de las tareas diarias. |
-| Clase 2. | Limitación moderada. | 25% - 49% |
+| Clase 2 | Limitación moderada | 25% - 49% |
 | – Realiza la mayoría de las tareas de la actividad con dificultades de carácter moderado. – Presenta dificultades graves para la realización de las tareas de moderada complejidad. – Precisa el uso de dispositivos de ayuda específicos o alguna adaptación en el entorno que no eliminan completamente la dificultad. – Requiere de más del 50% de tiempo para realizar la actividad. – Presenta dificultades graves o requiere el apoyo de otra persona al menos una vez a la semana en alguna de las tareas diarias. |
-| Clase 3. | Limitación grave. | 50% - 95% |
+| Clase 3 | Limitación grave | 50% - 95% |
 | – Realiza la mayoría de las tareas de la actividad con mucha dificultad, incluidas las de dificultad moderada. – Precisa de Productos de dispositivos de ayuda específicos y adaptaciones del entorno importantes en la mayoría de las tareas y acciones de la actividad, y se incrementa en más del 50% el tiempo de realización. – Requiere de más del 100% de tiempo para realizar la actividad. – Presenta dificultad completa o requiere el apoyo de otra persona al menos una vez al día en alguna de las tareas diarias. |
-| Clase 4. | Limitación total. | 96% - 100% |
-| Incapacidad completa o casi completa para la realización de la mayoría de las tareas y acciones de la actividad, incluso para las más sencillas. – Requiere de apoyo de otra persona para la mayoría de las tareas de las actividades diarias. |
+| Clase 4 | Limitación total | 96% - 100% |
+| – Incapacidad completa o casi completa para la realización de la mayoría de las tareas y acciones de la actividad, incluso para las más sencillas. – Requiere de apoyo de otra persona para la mayoría de las tareas de las actividades diarias. |
 | 8. | Limitación sin especificar |
 | Existe dificultad significativa para realizar la actividad, pero no hay suficiente información para graduar la dificultad. |
 | 9. | Actividad no aplicable |
@@ -312,7 +312,7 @@ Limitaciones en la actividad: Son las dificultades que una persona puede tener p
 
 Anexo V. Baremo de Evaluación de las Restricciones en la Participación (BRP-QD).
 
-Desempeño según la CIF, «describe lo que la persona hace en su contexto o entorno real en el que vive». Las Restricciones en la Participación, son lo problemas que experimenta una persona para realizar actividades e implicarse en situaciones vitales. Viene determinada por la comparación con la participación esperable de una persona sin discapacidad en esa cultura o sociedad.
+Desempeño según la CIF, “describe lo que la persona hace en su contexto o entorno real en el que vive”. Las Restricciones en la Participación, son lo problemas que experimenta una persona para realizar actividades e implicarse en situaciones vitales. Viene determinada por la comparación con la participación esperable de una persona sin discapacidad en esa cultura o sociedad.
 
 1. Graduación y clases de la restricción en la participación:
 
@@ -358,7 +358,7 @@ Factores ambientales como Barreras (e): Factores en el entorno de una persona qu
 | 5. Sistemas, servicios y políticas. | e | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | Puntuación total de las barreras (BFCA). | ............. % |
 
-Plantilla resumen de evaluación del «grado final de discapacidad» y perfil global de funcionamiento
+Plantilla resumen de evaluación del “grado final de discapacidad” y perfil global de funcionamiento
 
 Nombre del interesado: ...................................................................................
 
@@ -374,13 +374,13 @@ Fecha de evaluación: .................... N.º expediente: ..............
 | 3. BRP-QD |  |  | Secundario |
 | 4. BFCA |  | Secundario |
 
-Si el «Criterio principal» elegido no es la BDGP, justificación: .................
+Si el “Criterio principal” elegido no es la BDGP, justificación: .................
 
 2. Ajustes.
 
 2.1 Valor Inicial de Ajuste (VIA):
 
-Llevar a la tabla siguiente la puntuación del Criterio Principal de evaluación determinado, que constituirá el Valor Inicial de ajuste (VIA) situándose en el «valor de intervalo de grado de discapacidad» (VIG) (valores A, B, C, D, E) de la clase de gravedad de discapacidad correspondiente (valor central en negrita).
+Llevar a la tabla siguiente la puntuación del Criterio Principal de evaluación determinado, que constituirá el Valor Inicial de ajuste (VIA) situándose en el “valor de intervalo de grado de discapacidad” (VIG) (valores A, B, C, D, E) de la clase de gravedad de discapacidad correspondiente (valor central en negrita).
 
 | Valor | Clase 0 | Clase 1 | Clase 2 | Clase 3 | Clase 4 |
 | --- | --- | --- | --- | --- | --- |
@@ -396,7 +396,7 @@ Valor Inicial de Ajuste (VIA): .................. Clase de discapacidad asignada
 
 Ajuste de intervalo de grado dentro de la clase de discapacidad asignada, modificando al alza o a la baja el VIA dentro de la misma, por los valores de ajuste de los Criterios Secundarios (VIG) que no se haya elegido como Criterio Principal.
 
-| Valores de Intervalos de Grado (VIG) dentro de la clase de discapacidad asignada. | VIA BDGP = |
+| Valores de Intervalos de Grado (VIG) dentro de la clase de discapacidad asignada | VIA BDGP = |
 | --- | --- |
 | VIG BLA = VIG BRP = |
 | Ajuste neto | Modificador |
@@ -440,50 +440,52 @@ Constructos: b= funciones corporales; s= estructuras corporales; a= actividad co
 
 | Funciones y estructuras corporales: |
 | --- |
-| 1. Funciones mentales y estructuras del sistema nervioso. | b |  |  |  |  |  |  |  |
-| s |  |  |  |  |  |  |  |
-| 2. Funciones sensoriales y dolor y el ojo, oído y estructuras relacionadas. | b |  |  |  |  |  |  |  |
-| s |  |  |  |  |  |  |  |
-| 3. Funciones y estructuras involucradas en la voz y el habla. | b |  |  |  |  |  |  |  |
-| s |  |  |  |  |  |  |  |
-| 4. Funciones y estructuras de los sistemas cardiovascular, hematológico, inmunológico y respiratorio. | b |  |  |  |  |  |  |  |
-| s |  |  |  |  |  |  |  |
-| 5. Funciones y estructuras de los sistemas digestivo, metabólico y endocrino. | b |  |  |  |  |  |  |  |
-| s |  |  |  |  |  |  |  |
-| 6. Funciones y estructuras genitourinarias y reproductoras. | b |  |  |  |  |  |  |  |
-| S |  |  |  |  |  |  |  |
-| 7. Funciones y estructuras neuromusculares esqueléticas y relacionadas con el movimiento. | b |  |  |  |  |  |  |  |
-| s |  |  |  |  |  |  |  |
-| 8. Funciones y estructuras de la piel y estructuras relacionadas. | b |  |  |  |  |  |  |  |
-| s |  |  |  |  |  |  |  |
+| 1. Funciones mentales y estructuras del sistema nervioso. | b |  |  |  |  |  |  |  |  |
+| s |  |  |  |  |  |  |  |  |
+| 2. Funciones sensoriales y dolor y el ojo, oído y estructuras relacionadas. | b |  |  |  |  |  |  |  |  |
+| s |  |  |  |  |  |  |  |  |
+| 3. Funciones y estructuras involucradas en la voz y el habla. | b |  |  |  |  |  |  |  |  |
+| s |  |  |  |  |  |  |  |  |
+| 4. Funciones y estructuras de los sistemas cardiovascular, hematológico, inmunológico y respiratorio. | b |  |  |  |  |  |  |  |  |
+| s |  |  |  |  |  |  |  |  |
+| 5. Funciones y estructuras de los sistemas digestivo, metabólico y endocrino. | b |  |  |  |  |  |  |  |  |
+| s |  |  |  |  |  |  |  |  |
+| 6. Funciones y estructuras genitourinarias y reproductoras. | b |  |  |  |  |  |  |  |  |
+| S |  |  |  |  |  |  |  |  |
+| 7. Funciones y estructuras neuromusculares esqueléticas y relacionadas con el movimiento. | b |  |  |  |  |  |  |  |  |
+| s |  |  |  |  |  |  |  |  |
+| 8. Funciones y estructuras de la piel y estructuras relacionadas. | b |  |  |  |  |  |  |  |  |
+| s |  |  |  |  |  |  |  |  |
 | Actividades y participación: |
-| Aprendizaje y aplicación del conocimiento. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Tareas y demandas generales. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Comunicación. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Movilidad. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Autocuidado. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Vida doméstica. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Interacciones y relaciones interpersonales. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Áreas principales de la vida. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
-| Vida comunitaria, social y cívica. | a |  |  |  |  |  |  |  |
-| p |  |  |  |  |  |  |  |
+| Aprendizaje y aplicación del conocimiento. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Tareas y demandas generales. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Comunicación. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Movilidad. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Autocuidado. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Vida doméstica. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Interacciones y relaciones interpersonales. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Áreas principales de la vida. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
+| Vida comunitaria, social y cívica. | a |  |  |  |  |  |  |  |  |
+| p |  |  |  |  |  |  |  |  |
 | Factores contextuales: |
-| Productos y tecnología. | e |  |  |  |  |  |  |  |
-| + |  |  |  |  |  |  |  |
-| Entorno natural. | e |  |  |  |  |  |  |  |
-| + |  |  |  |  |  |  |  |
-| Apoyo y relaciones. | e |  |  |  |  |  |  |  |
-| + |  |  |  |  |  |  |  |
-| Actitudes. | e |  |  |  |  |  |  |  |
-| + |  |  |  |  |  |  |  |
-| Sistemas, servicios y políticas. | e |  |  |  |  |  |  |  |
-| + |  |  |  |  |  |  |  |
+| Productos y tecnología. | e |  |  |  |  |  |  |  |  |
+| + |  |  |  |  |  |  |  |  |
+| Entorno natural. | e |  |  |  |  |  |  |  |  |
+| + |  |  |  |  |  |  |  |  |
+| Apoyo y relaciones. | e |  |  |  |  |  |  |  |  |
+| + |  |  |  |  |  |  |  |  |
+| Actitudes. | e |  |  |  |  |  |  |  |  |
+| + |  |  |  |  |  |  |  |  |
+| Sistemas, servicios y políticas. | e |  |  |  |  |  |  |  |  |
+| + |  |  |  |  |  |  |  |  |
 | Grado Final de Discapacidad (GFD). | .............. % |
+
+> Se modifica por el art. único.2 de la Orden DSA/934/2023, de 19 de julio. Ref. BOE-A-2023-17875

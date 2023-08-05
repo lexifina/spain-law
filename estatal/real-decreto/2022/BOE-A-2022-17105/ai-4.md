@@ -1,6 +1,6 @@
 ## ANEXO IV
 
-## Baremo de evaluación de las capacidades / Limitaciones en la Actividad (BLA)
+## Baremo de evaluación de las capacidades/Limitaciones en la Actividad (BLA)
 
 Baremo de segundo nivel
 
@@ -8,13 +8,13 @@ Contenido:
 
 1. Normas generales.
 
-2. Escala general de graduación de las «dificultades para la realización de las tareas / acciones de las actividades de la vida diaria». Clases de limitación. Tabla 1.
+2. Escala general de graduación de las “dificultades para la realización de las tareas/acciones de las actividades de la vida diaria”. Clases de limitación. Tabla 1.
 
 3. Dominios y actividades de la vida diaria que se evalúan y porcentaje asignado, en cada caso, para determinar el grado de limitación.
 
 3.1 Dominios y actividades evaluadas habitualmente.
 
-3.2 Lista de actividades simplificadas o de «primer nivel».
+3.2 Lista de actividades simplificadas o de “primer nivel”.
 
 3.3 Lista de actividades ampliada.
 
@@ -24,35 +24,35 @@ Contenido:
 
 6. Determinación de la limitación grave y total en el dominio de autocuidado (BLGTAA).
 
-7. Perfil de evaluación de las capacidades / limitaciones en la actividad.
+7. Perfil de evaluación de las capacidades/limitaciones en la actividad.
 
-1. normas generales.
+1. Normas generales.
 
 La Capacidad, según la CIF, describe la aptitud de un individuo para realizar una tarea o acción. Indica el máximo nivel probable de funcionamiento que una persona puede alcanzar en un dominio, en un momento dado y un entorno normalizado.
 
-Las Limitaciones en la actividad, según la CIF, «son las dificultades que un individuo puede tener para realizar actividades». Una «limitación en la actividad» abarca desde una desviación leve hasta una grave en términos de cantidad o calidad, en la realización de la actividad, comparándola con la manera, extensión o intensidad en que se espera que la realizaría una persona sin esa condición de salud.
+Las Limitaciones en la actividad, según la CIF, “son las dificultades que un individuo puede tener para realizar actividades”. Una “limitación en la actividad” abarca desde una desviación leve hasta una grave en términos de cantidad o calidad, en la realización de la actividad, comparándola con la manera, extensión o intensidad en que se espera que la realizaría una persona sin esa condición de salud.
 
-Conforme a ello, el grado de las «Limitaciones en la actividad» se determina sobre la base de la gravedad de las dificultades que experimentan las personas, con una condición de salud, para la realización de las actividades y tareas que integran el Baremo, evaluadas mediante la «escala de cuantificación genérica» de la CIF, y con la aplicación de los criterios descritos en la Tabla 1. Escala General de Graduación de las «Dificultades para la realización de las tareas / acciones de las Actividades de la Vida Diaria».
+Conforme a ello, el grado de las “Limitaciones en la actividad” se determina sobre la base de la gravedad de las dificultades que experimentan las personas, con una condición de salud, para la realización de las actividades y tareas que integran el Baremo, evaluadas mediante la “escala de cuantificación genérica” de la CIF, y con la aplicación de los criterios descritos en la Tabla 1. Escala General de Graduación de las “Dificultades para la realización de las tareas/acciones de las Actividades de la Vida Diaria”.
 
-Las actividades / Tareas se evalúan siempre de acuerdo a la definición, criterios de inclusión y exclusión recogidos en la CIF. Las Actividades / Tareas a evaluar y el porcentaje de limitaciones a asignar, en cada uno de los nueve dominios de la CIF, son los recogidos en la Tabla 2: Actividades que se evalúan y porcentaje en cada nivel de dificultad que se les asigna, la Tabla 3: Porcentaje para determinar la limitación en las Actividades en relación al ciclo vital, y la Tabla 4: Pesos de limitación asignados a cada dominio.
+Las actividades/Tareas se evalúan siempre de acuerdo a la definición, criterios de inclusión y exclusión recogidos en la CIF. Las Actividades/Tareas a evaluar y el porcentaje de limitaciones a asignar, en cada uno de los nueve dominios de la CIF, son los recogidos en la Tabla 2: Actividades que se evalúan y porcentaje en cada nivel de dificultad que se les asigna, la Tabla 3: Porcentaje para determinar la limitación en las Actividades en relación al ciclo vital, y la Tabla 4: Pesos de limitación asignados a cada dominio.
 
-El porcentaje de dificultad evaluado, conforme a cada uno de los niveles de graduación de dificultad de la actividad / tarea (Tabla 2), en cada caso, se multiplica por el porcentaje asignado según el ciclo vital de la persona (Tabla 3) y ese es el porcentaje de limitación resultante en cada una de las actividades / tareas, y su suma dentro de cada dominio determina la puntuación total de las «limitaciones de la actividad» de la persona en dicho dominio. Estas puntuaciones se ponderan con los pesos de la Tabla 4 y sus resultados, redondeados al entero más próximo, se combinan entre sí, mediante la Tabla de Combinación de Valores, incluida en el apéndice del anexo III determinando el «Porcentaje de limitación global en la actividad de la persona» o Limitación Global de la Persona (LGP).
+El porcentaje de dificultad evaluado, conforme a cada uno de los niveles de graduación de dificultad de la actividad/tarea (Tabla 2), en cada caso, se multiplica por el porcentaje asignado según el ciclo vital de la persona (Tabla 3) y ese es el porcentaje de limitación resultante en cada una de las actividades/tareas, y su suma dentro de cada dominio determina la puntuación total de las “limitaciones de la actividad” de la persona en dicho dominio. Estas puntuaciones se ponderan con los pesos de la Tabla 4 y sus resultados, redondeados al entero más próximo, se combinan entre sí, mediante la Tabla de Combinación de Valores, incluida en el apéndice del anexo III determinando el “Porcentaje de limitación global en la actividad de la persona” o Limitación Global de la Persona (LGP).
 
 En la evaluación de las limitaciones en la actividad se tendrán en cuenta que esta:
 
 1. Se fundamenta en la recogida de información sobre las condiciones de salud de la persona, la observación y comprobación de su funcionamiento siempre que sea posible, llevadas a cabo por un profesional formado al respecto, miembro del Equipo de Valoración del Grado de Discapacidad, mediante la aplicación de los criterios de las normas generales y con asignación de las puntuaciones establecidas en las referidas tablas.
 
-2. Se basa en la interacción existente entre la condición de salud de la persona y la limitación para la realización de las actividades listadas y únicamente en aquellas situaciones en las que las dificultades sean derivadas de «Deficiencias permanentes», entendiéndose como tal aquellas alteraciones de funciones o estructuras corporales no recuperables, es decir, sin posibilidad razonable de restitución o mejoría de la función del órgano afectado.
+2. Se basa en la interacción existente entre la condición de salud de la persona y la limitación para la realización de las actividades listadas y únicamente en aquellas situaciones en las que las dificultades sean derivadas de “Deficiencias permanentes”, entendiéndose como tal aquellas alteraciones de funciones o estructuras corporales no recuperables, es decir, sin posibilidad razonable de restitución o mejoría de la función del órgano afectado.
 
-3. Se evalúa la «Capacidad con Ayudas» para realizar las actividades en un contexto / entorno normalizado, tomando en consideración los dispositivos de ayuda que le hayan sido prescritos o indicados y/o la necesidad del apoyo de otra u otras personas que pueda requerir y una vez aplicadas todas las medidas terapéuticas y/o los programas de rehabilitación y habilitación.
+3. Se evalúa la “Capacidad con Ayudas” para realizar las actividades en un contexto/entorno normalizado, tomando en consideración los dispositivos de ayuda que le hayan sido prescritos o indicados y/o la necesidad del apoyo de otra u otras personas que pueda requerir y una vez aplicadas todas las medidas terapéuticas y/o los programas de rehabilitación y habilitación.
 
-4. Se evalúa la limitación en la actividad siempre que exista dificultad en la capacidad de la persona para realizar las actividades y que dicha dificultad esté presente previsiblemente en la mayoría de las veces o siempre en que la actividad tenga lugar. Se identificará la frecuencia de las dificultades tomando en consideración el número de ocasiones en que la persona tiene que realizar la actividad / tarea. En las actividades en las que haya tareas que precisan de realizarse con diferentes frecuencias como criterio orientativo se evaluará como limitación grave en el caso de que la dificultad esté presente previsiblemente al menos una vez al día.
+4. Se evalúa la limitación en la actividad siempre que exista dificultad en la capacidad de la persona para realizar las actividades y que dicha dificultad esté presente previsiblemente en la mayoría de las veces o siempre en que la actividad tenga lugar. Se identificará la frecuencia de las dificultades tomando en consideración el número de ocasiones en que la persona tiene que realizar la actividad/tarea. En las actividades en las que haya tareas que precisan de realizarse con diferentes frecuencias como criterio orientativo se evaluará como limitación grave en el caso de que la dificultad esté presente previsiblemente al menos una vez al día.
 
 5. En los casos en los que la evaluación se realice en dos tiempos, bien sea porque existen varias deficiencias de órganos o sistemas o bien porque intervengan varios profesionales, se deberá, en un primer tiempo, individualizar el BLA desde la perspectiva concreta de la deficiencia evaluada, para en un segundo tiempo realizar el BLA desde una perspectiva global de la discapacidad en la que se recoja su interferencia con el resto de deficiencias.
 
 6. Se tomarán en consideración tanto el aumento del esfuerzo que realiza la persona, como el malestar o el dolor que experimenta, la lentitud, o los cambios en el modo en el que debe realizar las actividades, así como la necesidad de apoyo requerido para ello.
 
-7. Se tomarán en consideración las habilidades necesarias que conforman las destrezas de ejecución para satisfacer las exigencias o demandas de la actividad: sensoriales-perceptivas, motoras y de praxis, de regulación emocional, cognitivas, de comunicación / interacción y sociales.
+7. Se tomarán en consideración las habilidades necesarias que conforman las destrezas de ejecución para satisfacer las exigencias o demandas de la actividad: sensoriales-perceptivas, motoras y de praxis, de regulación emocional, cognitivas, de comunicación/interacción y sociales.
 
 8. En aquellas personas que padecen condiciones de salud que cursan en brotes o desestabilizaciones frecuentes y que presentan una limitación variable en su funcionamiento, la evaluación se llevará a cabo cuando la situación de la persona se encuentre estabilizada y en máxima recuperación funcional. No obstante, se tendrá en cuenta estos períodos de variabilidad de limitación en la actividad siempre que estén documentados y tomándose como referencia la situación basal más frecuente en el último año y en el caso en que conlleven una limitación grave en las actividades, bien por estar presente el 50% o más del tiempo o por implicar un riesgo vital para la persona, estableciéndose en su caso los plazos de revisión que se consideren procedentes.
 
@@ -68,7 +68,7 @@ En la evaluación de las limitaciones en la actividad se tendrán en cuenta que 
 
 4. Dificultad completa: 96 a 100% (total).
 
-10. En el caso de las personas menores de edad, de conformidad con la CIF-Infancia y Adolescencia (OMS 2006), también se tomará en consideración el calificador de «Demora en el desarrollo» para determinar la extensión o magnitud de los retrasos o demoras en la realización de las actividades, partiendo de los criterios de normalidad, según los rangos de edad en cuanto al desempeño / realización estándar de la población, en base a la siguiente escala:
+10. En el caso de las personas menores de edad, de conformidad con la CIF-Infancia y Adolescencia (OMS 2006), también se tomará en consideración el calificador de “Demora en el desarrollo” para determinar la extensión o magnitud de los retrasos o demoras en la realización de las actividades, partiendo de los criterios de normalidad, según los rangos de edad en cuanto al desempeño/realización estándar de la población, en base a la siguiente escala:
 
 0. Sin demora (ninguna, insignificante, ...).
 
@@ -80,7 +80,7 @@ En la evaluación de las limitaciones en la actividad se tendrán en cuenta que 
 
 4. Demora completa (total, ...).
 
-Escala general de graduación de las «dificultades para la realización de las tareas / acciones de las actividades de la vida diaria». Clases de limitación. Tabla 1.
+2. Escala general de graduación de las “dificultades para la realización de las tareas/acciones de las actividades de la vida diaria”. Clases de limitación. Tabla 1.
 
 En esta Tabla se establecen los criterios orientativos generales para la graduación de las limitaciones (sin limitación, leve, moderada, grave y total), detallándose más adelante los criterios específicos para las actividades y tareas incluidas en este baremo.
 
@@ -98,7 +98,7 @@ Clases de limitación
 | Clase 3 | Limitación grave: | 50% - 95% |
 | – Realiza la mayoría de las tareas de la actividad con mucha dificultad, incluidas las de dificultad moderada. – Precisa de Productos de dispositivos de ayuda específicos y adaptaciones del entorno importantes en la mayoría de las tareas y acciones de la actividad, y se incrementa en más del 50% el tiempo de realización. – Requiere de más del 100% de tiempo para realizar la actividad. – Presenta dificultad completa o requiere el apoyo de otra persona al menos una vez al día en alguna de las tareas diarias. |
 | Clase 4 | Limitación total | 96% - 100%. |
-| - Incapacidad completa o casi completa para la realización de la mayoría de las tareas y acciones de la actividad, incluso para las más sencillas. – Requiere de apoyo de otra persona para la mayoría de las tareas de las actividades diarias. |
+| – Incapacidad completa o casi completa para la realización de la mayoría de las tareas y acciones de la actividad, incluso para las más sencillas. – Requiere de apoyo de otra persona para la mayoría de las tareas de las actividades diarias. |
 | 8 | Limitación sin especificar |
 | Existe dificultad significativa para realizar la actividad, pero no hay suficiente información para graduar la dificultad. |
 | 9 | Actividad no aplicable. |
@@ -110,17 +110,17 @@ Clases de limitación
 
 El Baremo tiene como referencia un listado de Actividades de la Vida Diaria de segundo nivel de la Check List (Lista breve de comprobación) de la CIF, en cada uno de sus nueve dominios, según se describen en la tabla 2.
 
-En relación al ciclo vital de las personas se determina la aplicabilidad de dichas Actividades, considerando los 4 ciclos vitales esenciales: Vida Escolar, Laboral y Comunitaria, con una ponderación diferenciada en sus resultados (Tabla 3), conforme al siguiente detalle:
+En relación al ciclo vital de las personas se determina la aplicabilidad de dichas Actividades, considerando los 4 ciclos vitales esenciales: Vida Preescolar, Vida Escolar, Laboral y Comunitaria, con una ponderación diferenciada en sus resultados (Tabla 3), conforme al siguiente detalle:
 
-1) BLA de Vida Laboral: a aplicar de forma preferente en la edad comprendida entre los 16 y los 65 años, incluidos aquellos que, aun no participando de la vida laboral, tienen capacidad potencial para hacerlo dentro de cualquiera de los diferentes entornos laborales posibles (ordinario, centro especial de empleo, enclaves o centro ocupacional).
+1. BLA de Vida Laboral: a aplicar de forma preferente en la edad comprendida entre los 16 y los 65 años, incluidos aquellos que, aun no participando de la vida laboral, tienen capacidad potencial para hacerlo dentro de cualquiera de los diferentes entornos laborales posibles (ordinario, centro especial de empleo, enclaves o centro ocupacional).
 
-2) BLA de Vida Comunitaria: a aplicar en la situación de personas adultas que no participen en la vida laboral de forma permanente.
+2. BLA de Vida Comunitaria: a aplicar en la situación de personas adultas que no participen en la vida laboral de forma permanente.
 
-3) BLA de Vida Escolar: a aplicar de forma preferente en la edad comprendida entre los 6 y los 16 años.
+3. BLA de Vida Escolar: a aplicar de forma preferente en la edad comprendida entre los 6 y los 16 años.
 
-4) BLA de Vida Preescolar: a aplicar de forma preferente en la edad de 0 a 6 años. En estos casos de forma generalizada se realizará la valoración del retraso global mediante los instrumentos normalizados que se consideren en función de la edad y deficiencias y solamente en aquellos casos en los que se considere la demora en el desarrollo con una situación previsible estable y permanente.
+4. BLA de Vida Preescolar: a aplicar de forma preferente en la edad de 0 a 6 años. En estos casos de forma generalizada se realizará la valoración del retraso global mediante los instrumentos normalizados que se consideren en función de la edad y deficiencias y solamente en aquellos casos en los que se considere la demora en el desarrollo con una situación previsible estable y permanente.
 
-3.2 Lista de actividades simplificadas o de «primer nivel».
+3.2 Lista de actividades simplificadas o de “primer nivel”.
 
 En situaciones excepcionales se podrá utilizar la evaluación de las limitaciones para la realización de las actividades recogidas en el BLA de primer nivel en los dominios de la CIF (Tabla 4), a excepción de las actividades de Autocuidado y Movilidad, en las cuales se utilizarán necesariamente las actividades de segundo nivel recogidas en el BLA de primer nivel. Entre estas situaciones se pueden indicar las siguientes:
 
@@ -130,7 +130,7 @@ En situaciones excepcionales se podrá utilizar la evaluación de las limitacion
 
 3.3 Lista de actividades ampliada.
 
-En los casos en los que se considere necesario se podrá utilizar de forma completa o parcial el listado de actividades / tareas de segundo nivel de la CIF, de forma más indicada en personas con una participación activa en la comunidad, y en su caso se tendrá la opción de poder utilizar la versión más detallada de tres o cuatro niveles.
+En los casos en los que se considere necesario se podrá utilizar de forma completa o parcial el listado de actividades/tareas de segundo nivel de la CIF, de forma más indicada en personas con una participación en la comunidad, y en su caso se tendrá la opción de poder utilizar la versión más detallada de tres o cuatro niveles.
 
 A este último efecto, se recomiendan como más significativas las Actividades de la Lista de Comprobación de la CIF que no se han incluido en este listado del BLA:
 
@@ -194,7 +194,7 @@ Tabla 2. Actividades y tareas que se evalúan y porcentaje que se les asigna en 
 | a170 Escribir. | 0 | 15% | 40% | 75% | 100% | 30% |  |  |
 | a175 Resolver problemas. | 0 | 15% | 40% | 75% | 100% | 30% |  |  |
 | Limitación Total del Dominio (% LTD) |  |
-| TAREAS Y DEMANDAS GENERALES | 0 | 1 | 2 | 3 | 4 | 8 | 9 | % limitación resultante |
+| Tareas y demandas generales | 0 | 1 | 2 | 3 | 4 | 8 | 9 | % limitación resultante |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | a210 Llevar a cabo una única tarea. | 0 | 15% | 40% | 75% | 100% | 30% |  |  |
 | a230 Llevar a cabo rutinas diarias. | 0 | 15% | 40% | 75% | 100% | 30% |  |  |
@@ -248,7 +248,7 @@ Escala Actividades y tareas específicas Infancia y Adolescencia:
 | a880 Participación en el juego. | 0 | 15% | 40% | 75% | 100% | 30% |  |  |
 | Limitación Total del Dominio (% LTD) |  |
 
-Tabla 3. Porcentaje para determinar la limitación en las Actividades en relación al ciclo vital
+Tabla 3. Porcentaje para determinar la limitación en las Actividades en relación con el ciclo vital
 
 | Autocuidado | Vida Preescolar | Vida Escolar | Vida Laboral | Vida Comunitaria |
 | --- | --- | --- | --- | --- |
@@ -348,11 +348,11 @@ Tabla 4. Porcentaje para determinar la limitación en las Actividades en el list
 
 4. Determinación de la Limitación Global de la Persona (LGP).
 
-La puntuación final de las limitaciones en la actividad se obtiene mediante la «combinación» entre sí de la puntuación resultante de la evaluación de las distintas Actividades consideradas en cada dominio (LTD), redondeadas al entero más cercano, utilizando para ello la Tabla de Combinación de Valores incluida en el apéndice del Anexo III (Tabla de valores combinados del Baremo de evaluación de la Deficiencia Global de la Persona), ponderadas conforme a los pesos que se les asigna en la siguiente Tabla, conformando finalmente la Limitación Global de la Persona (LGP).
+La puntuación final de las limitaciones en la actividad se obtiene mediante la “combinación” entre sí de la puntuación resultante de la evaluación de las distintas Actividades consideradas en cada dominio (LTD), redondeadas al entero más cercano, utilizando para ello la Tabla de Combinación de Valores incluida en el apéndice del Anexo III (Tabla de valores combinados del Baremo de evaluación de la Deficiencia Global de la Persona), ponderadas conforme a los pesos que se les asigna en la siguiente Tabla, conformando finalmente la Limitación Global de la Persona (LGP).
 
 Tabla 5. Pesos de limitación asignados a cada dominio
 
-| Actividades | Vida preescolar | Vida Escolar | Vida Laboral | Vida Comunitaria | Primer nivel | Total |
+| Dominios | Vida preescolar | Vida Escolar | Vida Laboral | Vida Comunitaria | Primer nivel | Total |
 | --- | --- | --- | --- | --- | --- | --- |
 | Aprendizaje y aplicación del conocimiento. | 40% | 40% | 20% | 15% | 15% |  |
 | Tareas y Demandas Generales. | 20% | 20% | 15% | 15% | 15% |  |
@@ -367,23 +367,23 @@ Tabla 5. Pesos de limitación asignados a cada dominio
 
 En el caso de que se evalúen otras actividades de la vida diaria no incluidas en los listados de su ciclo vital, el porcentaje asignado será de un 5% por cada actividad, el cual se combinará con el asignado a las otras actividades pertenecientes a su dominio, mediante la Tabla de Combinación de Valores incluida en el Anexo III (Tabla de valores combinados).
 
-El porcentaje o grado final de las limitaciones en la actividad resultante de la combinación entre sí, de los porcentajes de limitación obtenidos en cada dominio (LTD), constituirá la «limitación global de la persona» (LGP), que ajusta el grado dentro de los intervalos de las clases de discapacidad (Anexo I Tabla 0.3) según el porcentaje de la deficiencia global de la persona (DGP) obtenido tras la aplicación del Baremo de Deficiencia Global de la Persona (Anexo III), que normalmente constituye el criterio principal (CP) de elección de clase.
+El porcentaje o grado final de las limitaciones en la actividad resultante de la combinación entre sí, de los porcentajes de limitación obtenidos en cada dominio (LTD), constituirá la “limitación global de la persona” (LGP), que ajusta el grado dentro de los intervalos de las clases de discapacidad (Anexo I Tabla 0.3) según el porcentaje de la deficiencia global de la persona (DGP) obtenido tras la aplicación del Baremo de Deficiencia Global de la Persona (Anexo III), que normalmente constituye el criterio principal (CP) de elección de clase.
 
-En el supuesto de que la determinación del porcentaje de LGP obtenido asigne directamente el grado de discapacidad como CP, lo hará de conformidad con lo establecido en las «Normas generales para la determinación del grado discapacidad. Anexo I».
+En el supuesto de que la determinación del porcentaje de LGP obtenido asigne directamente el grado de discapacidad como CP, lo hará de conformidad con lo establecido en las “Normas generales para la determinación del grado discapacidad. Anexo I”.
 
 5. Determinación de la limitación de movilidad de las personas mediante el Baremo de Limitaciones en las Actividades de Movilidad (BLAM). Movilidad reducida.
 
-Se evalúa directamente con los datos obtenidos en el dominio de movilidad del BLA manteniendo los «pesos de tareas» asignados en el mismo y su puntuación de limitación en dicho dominio (LTD) expresado de 0 a 100%, obteniéndose el sub-baremo «Baremo de Limitaciones en las Actividades de Movilidad» (BLAM).
+Se evalúa directamente con los datos obtenidos en el dominio de movilidad del BLA manteniendo los “pesos de tareas” asignados en el mismo y su puntuación de limitación en dicho dominio (LTD) expresado de 0 a 100%, obteniéndose el sub-baremo “Baremo de Limitaciones en las Actividades de Movilidad” (BLAM).
 
-El porcentaje asignado a la gravedad en la ejecución de la actividad o tarea, se multiplica por el peso asignado a la tarea dentro del dominio, constituyendo la puntuación de limitación de dicha tarea. La suma de las puntuaciones de todas las tareas dentro del dominio determina la puntuación total de las limitaciones de movilidad de la persona con discapacidad. Se distinguirá en relación al ciclo vital la aplicabilidad de dichas Actividades, con especial consideración al BLA de Vida preescolar en cuanto al calificador de demora y a la necesidad de dispositivos de ayuda específicos para la movilidad.
+El porcentaje asignado a la gravedad en la ejecución de la actividad o tarea, se multiplica por el peso asignado a la tarea dentro del dominio, constituyendo la puntuación de limitación de dicha tarea. La suma de las puntuaciones de todas las tareas dentro del dominio determina la puntuación total de las limitaciones de movilidad de la persona con discapacidad. Se distinguirá en relación con el ciclo vital la aplicabilidad de dichas Actividades, con especial consideración al BLA de Vida preescolar en cuanto al calificador de demora y a la necesidad de dispositivos de ayuda específicos para la movilidad.
 
 Cuando una vez evaluadas todas las actividades, el porcentaje de limitación obtenido en el dominio de movilidad asigne una limitación final de movilidad igual o superior al 25% se determinará que la persona tiene Movilidad reducida y Dificultades de movilidad para utilizar transportes colectivos
 
 6. Determinación de la limitación grave y total en el dominio de autocuidado (BLGTAA).
 
-Las normas generales de graduación de la discapacidad incorporan en su apartado 6.3.1 como criterio objetivo de gravedad de la discapacidad las situaciones que precisen de ayudas significativas de otra persona, y en concreto, mediante el criterio de «ajuste por la repercusión objetivada en la limitación grave o total en el dominio de las actividades de autocuidado» concretado en el baremo BLGTAA.
+Las normas generales de graduación de la discapacidad incorporan en su apartado 6.3.1 como criterio objetivo de gravedad de la discapacidad las situaciones que precisen de ayudas significativas de otra persona, y en concreto, mediante el criterio de “ajuste por la repercusión objetivada en la limitación grave o total en el dominio de las actividades de autocuidado” concretado en el baremo BLGTAA.
 
-Las clases de limitación grave y total (clases 3 y 4) del BLA y por la propia definición de las mismas, podrán incluir situaciones en las cuales se den situaciones de necesidad de ser ayudado por otra persona. La evaluación específica y diferenciada de estas dos clases 3 y 4, exclusivamente en el dominio de autocuidado, intentará identificar estas situaciones y conformará el sub-baremo denominado «Baremo de Limitación Grave y Total para realizar Actividades de Autocuidado» (BLGTAA).
+Las clases de limitación grave y total (clases 3 y 4) del BLA y por la propia definición de estas, podrán incluir situaciones en las cuales se den situaciones de necesidad de ser ayudado por otra persona. La evaluación específica y diferenciada de estas dos clases 3 y 4, exclusivamente en el dominio de autocuidado, intentará identificar estas situaciones y conformará el sub-baremo denominado “Baremo de Limitación Grave y Total para realizar Actividades de Autocuidado” (BLGTAA).
 
 Las puntuaciones del BLGTAA de 25% o más, reflejaran situaciones de necesidad de apoyo de otra persona significativas (por lo menos de grado moderado) en el dominio del autocuidado y se utilizará en el ajuste de grado de la discapacidad en puntuaciones iguales o superiores a 75%.
 
@@ -405,13 +405,13 @@ A efectos del BLGTAA por tanto, se tendrá en cuenta exclusivamente la puntuaci�
 
 – Requiere de apoyo de otra persona para la mayoría de las tareas de las actividades diarias.
 
-A efectos del BLGTAA y en función de que dentro de la puntuación asignada a la clase 3 de limitación grave, según la propia definición de la misma, pueden encontrarse situaciones de no necesidad de ser ayudado por otra persona se le asigna un 60% del valor de la actividad (rebajándose un 15% de lo considerado en el BLA). Considerándose solo el 100% a la puntuación en la clase 4 de limitación total, en la que se presupone que la necesidad de ayuda o apoyo por otra persona se dará en todos los casos.
+A efectos del BLGTAA y en función de que dentro de la puntuación asignada a la clase 3 de limitación grave, según la propia definición de esta, pueden encontrarse situaciones de no necesidad de ser ayudado por otra persona se le asigna un 60% del valor de la actividad (rebajándose un 15% de lo considerado en el BLA). Considerándose solo el 100% a la puntuación en la clase 4 de limitación total, en la que se presupone que la necesidad de ayuda o apoyo por otra persona se dará en todos los casos.
 
-El BLGTAA se expresa en un porcentaje de 0 a 100% y se obtendrá directamente con los datos obtenidos durante la realización del Baremo de Limitación de Actividades, manteniendo los «pesos de tareas» del dominio, con la característica específica del valor de la puntuación en clase 3 de 60% mencionada anteriormente.
+El BLGTAA se expresa en un porcentaje de 0 a 100% y se obtendrá directamente con los datos obtenidos durante la realización del Baremo de Limitación de Actividades, manteniendo los “pesos de tareas” del dominio, con la característica específica del valor de la puntuación en clase 3 de 60% mencionada anteriormente.
 
-7. Perfil de evaluación de las capacidades / limitaciones en la actividad.
+7. Perfil de evaluación de las capacidades/limitaciones en la actividad.
 
-Baremo de evaluacion de las capacidades / limitaciones en la actividad (BLA)
+Baremo de evaluación de las capacidades/limitaciones en la actividad BLA
 
 | Dominios y actividades (CIF) | Constructo | Graduación (CIF) |
 | --- | --- | --- |
@@ -454,7 +454,7 @@ Baremo de evaluacion de las capacidades / limitaciones en la actividad (BLA)
 | a560 Beber. | a | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | a570 Cuidado de la propia salud. | a | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | 6. Vida doméstica: |
-| a620 Comprar. | a | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
+| a6200 Comprar. | a | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | a630 Preparar comidas. | a | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | a640 Realizar los quehaceres de la casa. | a | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | 7. Interacción y relaciones interpersonales: |
@@ -475,6 +475,4 @@ Baremo de evaluacion de las capacidades / limitaciones en la actividad (BLA)
 | a920 Tiempo libre y ocio. | a | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | Constructos (CIF): (a) Capacidad: Describe la aptitud de un individuo para realizar una actividad, tarea o acción. Indica el máximo nivel probable de funcionamiento que una persona puede alcanzar en un dominio, en un momento dado y un entorno normalizado. Limitaciones en la actividad: Son las dificultades que una persona puede tener para realizar actividades, comparándola con la manera, extensión o intensidad que se espera que la realizaría sin esa condición de salud. Calificadores de gravedad (CIF): 0 = Insignificante; 1 = Leve; 2 = Moderado; 3 Grave; 4 = total; 8 = No especificado; 9 = No aplicable. |
 
-3. movilidad reducida y dificultad de movilidad para utilizar transporte colectivo.
-
-Baremo de Limitaciones en el Dominio de las Actividades de Movilidad (BLAM) ______
+> Se modifica por el art. único.4 de la Orden DSA/934/2023, de 19 de julio. Ref. BOE-A-2023-17875

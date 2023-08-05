@@ -1,6 +1,6 @@
 ## ANEXO VI
 
-## Baremo de evaluación de los Factores Contextuales / Barreras Ambientales (BFCA)
+## Baremo de evaluación de los Factores Contextuales/Barreras Ambientales (BFCA)
 
 Baremo de segundo nivel
 
@@ -18,13 +18,15 @@ Según la Clasificación Internacional del Funcionamiento de la Discapacidad y d
 
 1. Los Factores Ambientales constituyen el entorno físico, social y actitudinal en el que las personas viven y desarrollan su proyecto vital. Son factores externos a las personas, y pueden tener una influencia positiva (facilitadores) o negativa (barreras) en la realización de la persona como miembro de la sociedad.
 
-2. Los Factores Personales constituyen el trasfondo particular de la vida de una persona y de su estilo de vida. Están compuestos por las características de la persona, que no forman parte de una condición o estados de salud Estos factores pueden incluir aspectos tales como el sexo, la raza, la edad, los hábitos y estilos de vida, la educación, la profesión, las creencias religiosas o las experiencias vitales, entre otras. Tanto todas ellas en conjunto, como alguna de ellas individualmente, pueden desempeñar un papel en la discapacidad a cualquier nivel, motivo por el que deben ser recogidos y tenidos en cuenta por el/la profesional que realice la evaluación de los 3. Barreras son todos aquellos factores en el entorno de una persona que, cuando están presentes o ausentes, limitan el funcionamiento tanto a nivel físico como psicológico, y generan discapacidad. Entre ellos se incluyen aspectos tales como que el ambiente físico sea inaccesible, la falta de tecnología asistencial adecuada, actitudes negativas de la población respecto a la discapacidad, y también servicios, sistemas y políticas que bien, no existen o dificultan la participación de las personas con una condición de salud en todas las áreas de la vida.
+2. Los Factores Personales constituyen el trasfondo particular de la vida de una persona y de su estilo de vida. Están compuestos por las características de la persona, que no forman parte de una condición o estados de salud Estos factores pueden incluir aspectos tales como el sexo, la raza, la edad, los hábitos y estilos de vida, la educación, la profesión, las creencias religiosas o las experiencias vitales, entre otras. Tanto todas ellas en conjunto, como alguna de ellas individualmente, pueden desempeñar un papel en la discapacidad a cualquier nivel, motivo por el que deben ser recogidos y tenidos en cuenta por el/la profesional que realice la evaluación de los factores contextuales.
+
+3. Barreras son todos aquellos factores en el entorno de una persona que, cuando están presentes o ausentes, limitan el funcionamiento tanto a nivel físico como psicológico, y generan discapacidad. Entre ellos se incluyen aspectos tales como que el ambiente físico sea inaccesible, la falta de tecnología asistencial adecuada, actitudes negativas de la población respecto a la discapacidad, y también servicios, sistemas y políticas que bien, no existen o dificultan la participación de las personas con una condición de salud en todas las áreas de la vida.
 
 4. Facilitadores son todos aquellos factores en el entorno de una persona que, cuando están presentes o ausentes, mejoran el funcionamiento tanto a nivel físico como psicológico, y reducen la discapacidad. Entre ellos se incluyen aspectos tales como que el ambiente físico sea accesible, la disponibilidad de tecnología asistencial adecuada, las actitudes positivas de la población respecto a la discapacidad, y también los servicios sistemas y políticas que intenten aumentar la participación de las personas con una condición de salud en todas las áreas de la vida.
 
-En este sentido, la sociedad puede dificultar el desempeño de una persona tanto porque cree barreras físicas e intangibles (Ej. edificios inaccesibles) o porque no proporcione elementos facilitadores (Ej. baja disponibilidad de dispositivos de apoyo. Por tanto, un entorno con barreras, o sin facilitadores, restringirá la participación social y el desempeño / realización de actividades de la persona, mientras que en otros, los facilitadores pueden incrementarlos.
+En este sentido, la sociedad puede dificultar el desempeño de una persona tanto porque cree barreras físicas e intangibles (Ej. edificios inaccesibles) o porque no proporcione elementos facilitadores (Ej. baja disponibilidad de dispositivos de apoyo. Por tanto, un entorno con barreras, o sin facilitadores, restringirá la participación social y el desempeño/realización de actividades de la persona, mientras que en otros, los facilitadores pueden incrementarlos.
 
-Sobre esta base, se establece el siguiente baremo para evaluar los factores ambientales que una persona con una condición de salud dada puede tener en el contexto / entorno en el que vive, y que le suponen un efecto negativo en su funcionamiento (Barreras), cuyo resultado es una restricción en su participación social y en su desempeño / realización;
+Sobre esta base, se establece el siguiente baremo para evaluar los factores ambientales que una persona con una condición de salud dada puede tener en el contexto/entorno en el que vive, y que le suponen un efecto negativo en su funcionamiento (Barreras), cuyo resultado es una restricción en su participación social y en su desempeño/realización;
 
 La evaluación se lleva a cabo por criterio de los/as profesionales tras el estudio de la situación específica de la persona en el que se describan los Factores Contextuales (Personales y Ambientales) y se delimiten y especificarán las barreras existentes, y se determine si son o no susceptibles de algún ajuste razonable, graduándolas, por la concurrencia de circunstancias que se describen en los apartados en que se estructura el baremo, conforme a la escala de cuantificación universal de los problemas propuesta por la CIF:
 
@@ -69,13 +71,13 @@ En cada capítulo se evalúan todos los ítems recogidos en el baremo, y se suma
 
 A cada uno de los 5 capítulos se le asigna el mismo valor: 8 puntos máximo (20% del total posible: 40 puntos posibles) independientemente del número de ítems que contengan.
 
-Finalmente se sumarán las puntuaciones obtenidas en de cada capítulo afectado que se multiplica por 6 y se divide entre 10, y se redondea al entero más próximo. Total a sumar al grado de discapacidad resultante en la aplicación de las relaciones jerárquicas de los otros constructos evaluados: Anexo III (BDGP) y Anexo IV (BGLA). El máximo de puntos posibles a sumar es 24.
+Finalmente se sumarán las puntuaciones obtenidas en de cada capítulo afectado que se multiplica por 6 y se divide entre 10, y se redondea al entero más próximo. Total a sumar al grado de discapacidad resultante en la aplicación de las relaciones jerárquicas de los otros constructos evaluados: Anexo III (BDGP) y anexo IV (BGLA). El máximo de puntos posibles a sumar es 24.
 
 En aquellos casos que a criterios de los/as profesionales se considere oportuno y siempre de manera argumentada, se podrá aplicar un criterio de provisionalidad al resultado del BCFA.
 
 3. Tabla y perfil de funcionamiento del BFCA: Evaluación de los factores contextuales que actúan como barreras.
 
-Baremo de evaluacion de los factores contextuales que actuan como barrera (BFCA)
+Baremo de evaluación de los factores contextuales que actúan como barrera (BFCA)
 
 | Dominios y barreras del entorno (CIF) | Constructo | Graduación (CIF) |
 | --- | --- | --- |
@@ -123,3 +125,5 @@ Baremo de evaluacion de los factores contextuales que actuan como barrera (BFCA)
 | e590 Servicios, sistemas y políticas de empleo. | e | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | e598 y e599 Servicios, sistemas y políticas otros especificados y no especificados: como: artículos de consumo, de protección civil, legales, de asociación y organización, económicas, de gobierno. | e | 0 | 1 | 2 | 3 | 4 | 8 | 9 |
 | Constructo (CIF): Factores Contextuales como Barreras (e): Factores en el entorno de una persona que, cuando están presentes o ausentes, limitan el funcionamiento y generan discapacidad. Graduación de la barrera: 0 = Ninguna (insignificante); 1 = Poca (ligera); 2 = Mediana (moderada); 3 = Grave (mucho); 4 = Completa (total); 8 = No especificado; 9 = No aplicable. |
+
+> Se modifica por el art. único.6 de la Orden DSA/934/2023, de 19 de julio. Ref. BOE-A-2023-17875
