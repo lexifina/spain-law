@@ -2,7 +2,7 @@
 
 ## Zonas restringidas
 
-Parte A. Zona restringida frente al serotipo 1 del virus de la lengua azul.
+Parte A: Zona restringida frente al serotipo 1 del virus de la lengua azul.
 
 Se considerará zona restringida frente al serotipo 1 del virus de la lengua azul los siguientes territorios:
 
@@ -12,7 +12,7 @@ a) Provincias de Cádiz, Huelva, Sevilla, Málaga, Córdoba y Jaén.
 
 b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granada).
 
-Parte B. Zona restringida frente al serotipo 4 del virus de la lengua azul.
+Parte B: Zona restringida frente al serotipo 4 del virus de la lengua azul.
 
 Se considerará zona restringida frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -22,17 +22,15 @@ a) Provincias de Cádiz, Huelva, Sevilla, Málaga, Córdoba y Jaén.
 
 b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granada).
 
-2) La Comunidad Autónoma de Islas Baleares.
+2. La Comunidad Autónoma de Islas Baleares.
 
-3) La Comunidad Autónoma de Extremadura.
+3. La Comunidad Autónoma de Extremadura.
 
-4) En la Comunidad Autónoma de Castilla-La Mancha:
+4. En la Comunidad Autónoma de Castilla-La Mancha:
 
-a) En la provincia de Ciudad Real, las comarcas de Almadén, Almodóvar del Campo y Piedrabuena.
+a) Las provincias de Toledo, Ciudad Real y Albacete.
 
-b) En la provincia de Toledo, las comarcas de Oropesa, Belvis de la Jara, Talavera de la Reina, Los Navalmorales, Gálvez, Toledo y Torrijos.
-
-5) En la Comunidad Autónoma de Castilla y León:
+5. En la Comunidad Autónoma de Castilla y León:
 
 a) La provincia de Salamanca.
 
@@ -40,15 +38,17 @@ b) En la provincia de Ávila, las comarcas de Candeleda, El Barco de Ávila, Pie
 
 c) En la provincia de Zamora, las comarcas de Bermillo de Sayago, Alcañices y Puebla de Sanabria.
 
-6) En la Comunidad Autónoma de Madrid, las comarcas de Valdeiglesias y Navalcarnero.
+6. En la Comunidad Autónoma de Madrid, las comarcas de Valdeiglesias y Navalcarnero.
 
-7) En la Comunidad Autónoma de Galicia:
+7. En la Comunidad Autónoma de Galicia:
 
 a) Provincias de Pontevedra y Ourense.
 
-b) En la provincia de Lugo: las comarcas de Sarria, Chantada y Terra de Lemos-Quiroga.
+b) En la provincia de Lugo: Las comarcas de Sarria, Chantada y Terra de Lemos-Quiroga.
 
-Parte C. Zona restringida frente al serotipo 8 del virus de la lengua azul.
+Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul.
+
+> Se modifica la parte B por Resolución de 9 de agosto de 2023. Ref. BOE-A-2023-18399
 
 > Se modifica la parte B por Resolución de 20 de febrero de 2023. Ref. BOE-A-2023-5573
 

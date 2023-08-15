@@ -4,7 +4,7 @@
 
 Parte A: Zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul.
 
-Parte B. Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul.
+Parte B: Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul.
 
 Se considerará zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -16,11 +16,11 @@ b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Bi
 
 2. En la Comunidad Autónoma de Cataluña:
 
-a) En la provincia de Barcelona: las comarcas veterinarias de l'Anoia, Bages, Baix Llobregat, Barcelonès, Berguedà, Maresme, Moianès, Osona, Vallès Occidental y Vallès Oriental.
+a) En la provincia de Barcelona: las comarcas veterinarias de l’Anoia, Bages, Baix Llobregat, Barcelonès, Berguedà, Maresme, Moianès, Osona, Vallès Occidental y Vallès Oriental.
 
 b) La provincia de Girona.
 
-c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Ribagorça, Noguera, Pallars Jussà, Pallars Sobirà, Pla d'Urgell, Segarra, Segrià, Solsonès, Urgell y Vall d'Aran, así como los municipios de la provincia pertenecientes a la comarca veterinaria de Cerdanya.
+c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Ribagorça, Noguera, Pallars Jussà, Pallars Sobirà, Pla d’Urgell, Segarra, Segrià, Solsonès, Urgell y Vall d’Aran, así como los municipios de la provincia pertenecientes a la comarca veterinaria de Cerdanya.
 
 3. La Comunidad Foral de Navarra.
 
@@ -28,11 +28,7 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 
 5. En la Comunidad Autónoma de Castilla-La Mancha:
 
-a) En la provincia de Toledo: las comarcas de Mora, Ocaña, Madridejos y Quintanar de la Orden.
-
-b) En la provincia de Albacete: las comarcas veterinarias de Alcaraz, Balazote, Elche de la Sierra, Villarrobledo y Yeste.
-
-c) En la provincia de Ciudad Real, las comarcas de Malagón, Manzanares, Tomelloso, Calzada de Calatrava, Valdepeñas y Villanueva de los Infantes.
+a) En la provincia de Cuenca: las comarcas de Belmonte, San Clemente, Villares del Saz y Motilla del Palancar.
 
 6. En la Comunidad Autónoma de Castilla y León:
 
@@ -44,7 +40,7 @@ a) La provincia de A Coruña.
 
 b) En la provincia de Lugo: las comarcas de A Mariña Central, A Mariña Oriental, A Mariña Occidental, Terra Cha Guitiriz, Terra Cha Castro, Terra Cha Vilalba, Meira, Lugo, A Ulloa, Os Ancares y Fonsagrada.
 
-Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
+Parte C: Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
 
 Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
@@ -65,6 +61,8 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 3. La Comunidad Foral de Navarra.
 
 4. La Comunidad Autónoma del País Vasco.
+
+> Se modifica la parte B por Resolución de 9 de agosto de 2023. Ref. BOE-A-2023-18399
 
 > Se modifica la parte B por Resolución de 5 de julio de 2023. Ref. BOE-A-2023-16020
 
