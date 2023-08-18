@@ -1,1 +1,0 @@
-## I. De carácter general
