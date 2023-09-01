@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de los procedimientos simplificados previstos en la disposición transitoria segunda del Real Decreto-ley 11/2020, de 31 de marzo, por el que se adoptan medidas urgentes complementarias en el ámbito social y económico para hacer frente al COVID-19.
+
+Los procedimientos simplificados establecidos en el apartado 2 de la disposición transitoria segunda del Real Decreto-ley 11/2020, de 31 de marzo, para las solicitudes de autorización administrativa previa de las operaciones de inversión directa extranjera incluidas en el artículo 7 bis de la Ley 19/2003, de 4 de julio, iniciados con anterioridad a la entrada en vigor de este real decreto, se resolverán de acuerdo con la normativa vigente en el momento de su iniciación.
