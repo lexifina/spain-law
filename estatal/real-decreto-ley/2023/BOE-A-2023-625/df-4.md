@@ -74,7 +74,7 @@ Siete. Se introduce un nuevo artículo 249 quater, que queda redactado en los si
 
 > 4. No podrá acogerse a esta modalidad de compatibilidad el beneficiario de una pensión contributiva de jubilación de la Seguridad Social que, además de desarrollar la actividad artística, realice cualquier otro trabajo por cuenta ajena o por cuenta propia diferente a la indicada actividad que dé lugar a su inclusión en el campo de aplicación del Régimen General o de alguno de los regímenes especiales de la Seguridad Social.
 
-> De igual forma, se excluye del ámbito de este artículo cualquier modalidad de jubilación anticipada en tanto su titular no cumpla la edad ordinaria de jubilación que le corresponda de acuerdo con el artículo 205.1.a).
+> De igual forma, se excluye del ámbito de este artículo cualquier modalidad de jubilación anticipada o jubilación parcial.
 
 > 5. Como alternativa al régimen de compatibilidad previsto en este artículo, el beneficiario de una pensión contributiva de jubilación de la Seguridad Social en que concurran las circunstancias previstas en los apartados anteriores podrá optar por la aplicación del régimen jurídico previsto para cualesquiera otras modalidades de compatibilidad entre pensión y trabajo, establecidas legal o reglamentariamente, cuando reúna los requisitos para ello.
 
@@ -225,5 +225,3 @@ Catorce. Se añade una nueva disposición adicional quincuagésima primera, con 
 > 12. Esta prestación será incompatible con el trabajo por cuenta propia, aunque su realización no implique la inclusión obligatoria en alguno de los regímenes de la Seguridad Social, o por cuenta ajena o con cualquier otra prestación, renta mínima, renta de inclusión, salario social o ayudas análogas concedidas por cualquier Administración Pública. No obstante lo anterior, sí será compatible con la percepción de derechos de propiedad intelectual y derechos de imagen.
 
 > En lo no previsto en esta disposición, serán de aplicación a la prestación especial regulada en la misma, las normas contenidas en el título III de este texto refundido, a excepción del capítulo III.»
-
-> Se modifica el apartado 7 en la redacción dada al apartado 4 del art. 249 quater, por la disposición final 7.3 del Real Decreto-ley 2/2023, de 16 de marzo. Ref. BOE-A-2023-6967#df-7

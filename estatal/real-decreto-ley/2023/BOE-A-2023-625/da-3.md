@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Bonificaciones por la contratación de personas en el entorno familiar.
+
+1. La contratación de personas en el entorno familiar dará derecho a las bonificaciones en la cotización establecidas en la disposición adicional primera del Real Decreto-ley 16/2022, de 6 de septiembre, para la mejora de las condiciones de trabajo y de Seguridad Social de las personas trabajadoras al servicio del hogar, sin perjuicio de lo previsto en su disposición transitoria tercera sobre mantenimiento de los beneficios por la contratación de personas cuidadoras en familias numerosas.
+
+2. Asimismo, respecto a las personas trabajadoras incluidas en el Sistema Especial para Empleados de Hogar, podrán resultar de aplicación las bonificaciones en la cotización establecidas en las letras a) y b) del artículo 17.1 y en el artículo 18.1 y en la disposición adicional novena de este real decreto-ley, no resultándoles aplicables las exclusiones que pudieran establecerse para las relaciones laborales de carácter especial.

@@ -22,10 +22,8 @@ i) La disposición adicional vigésima tercera del texto refundido de la Ley Gen
 
 j) La disposición adicional séptima de la Ley 6/2017, de 24 de octubre, de Reformas Urgentes del Trabajo Autónomo.
 
-k) Con efectos 1 de abril del 2023, la disposición final segunda del Real Decreto-ley 26/2018, de 28 de diciembre, por el que se aprueban medidas de urgencia sobre la creación artística y la cinematografía, y el Real Decreto 302/2019, de 26 de abril, por el que se regula la compatibilidad de la pensión contributiva de jubilación y la actividad de creación artística, que desarrolla el citado real decreto-ley.
+k) La disposición final segunda del Real Decreto-ley 26/2018, de 28 de diciembre, por el que se aprueban medidas de urgencia sobre la creación artística y la cinematografía, y el Real Decreto 302/2019, de 26 de abril, por el que se regula la compatibilidad de la pensión contributiva de jubilación y la actividad de creación artística, que desarrolla el citado real decreto-ley.
 
 l) Los artículos 7 a 9 y la disposición adicional tercera del Real Decreto-ley 8/2019, de 8 de marzo, de medidas urgentes de protección social y de lucha contra la precariedad laboral en la jornada de trabajo.
 
 m) Las disposiciones adicionales centésima vigésima segunda y centésima vigésima tercera de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021.
-
-> Se modifica la letra k) por la disposición final 7.2 del Real Decreto-ley 2/2023, de 16 de marzo. Ref. BOE-A-2023-6967#df-7

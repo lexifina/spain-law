@@ -1,0 +1,5 @@
+## Disposición adicional novena. Bonificaciones por los contratos de duración determinada que se celebren para sustitución de trabajadoras víctimas de violencia de género o de violencias sexuales.
+
+Los contratos de duración determinada que se celebren con personas desempleadas para sustitución de trabajadoras víctimas de violencia de género o de violencias sexuales que hayan suspendido su contrato de trabajo o ejercitado su derecho a la movilidad geográfica o al cambio de centro de trabajo darán derecho a las bonificaciones previstas en el artículo 21.3 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, y el artículo 38.2 de la Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual, respectivamente.
+
+Sin perjuicio de lo anterior, a dichas bonificaciones le serán de aplicación el capítulo I de disposiciones generales de este real decreto-ley, así como las normas comunes a las bonificaciones en la cotización previstas en la sección 3.ª del capítulo II del mismo.
