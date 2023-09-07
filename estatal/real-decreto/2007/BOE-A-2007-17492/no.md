@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 7 de septiembre de 2023, salvo el anexo I, que mantendrá su vigencia hasta la entrada en vigor del listado de especialidades de conocimiento al que hace referencia la disposición transitoria 2 del Real Decreto 678/2023, de 18 de julio, según establece su disposición derogatoria única.1.a). Ref. BOE-A-2023-19027#dd
