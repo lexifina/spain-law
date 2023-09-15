@@ -1,0 +1,5 @@
+## Disposición final tercera. Mecanismos de detección de comportamientos de riesgo.
+
+En el plazo de dos años desde la entrada en vigor de este real decreto, en los términos previstos en el apartado 3 del artículo 24, la autoridad encargada de la regulación del juego desarrollará un mecanismo de detección de comportamientos de riesgo que será utilizado por todos los operadores en los términos que determine dicha autoridad.
+
+A estos efectos, la autoridad encargada de la regulación del juego podrá suscribir convenios con entidades del Sistema Nacional de Salud con la finalidad de acceder a datos sobre personas que, habiendo sido diagnosticadas con un trastorno asociado a su conducta de juego, al mismo tiempo hayan tenido abierta una cuenta de juego online con algún operador de juego regulado. En todo caso, el tratamiento de estos datos solo podrá realizarse con el consentimiento previo de las personas mencionadas, que además de reunir las condiciones previstas en el apartado 11 del artículo 4 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, podrá retirarse en cualquier momento.
