@@ -60,25 +60,25 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11734.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11767.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11800.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11833.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11868.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11902.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11936.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_11969.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12036.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12071.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/208/18806_13461468_10.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12109.png)
 
@@ -99,3 +99,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12400.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/268/11411_12434.png)
+
+> Se sustituyen los formularios 5.1 y 5.2 por el art. 4.2 del Real Decreto 665/2023, de 18 de julio. Ref. BOE-A-2023-18806#ac

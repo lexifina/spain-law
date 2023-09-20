@@ -1,32 +1,14 @@
-## Artículo 259 ter. Desbordamientos de sistemas de saneamiento en episodios de lluvia.
+## Artículo 259 ter. Desbordamientos del sistema de saneamiento en episodios de lluvia.
 
-1. En las autorizaciones de vertido de sistemas de saneamiento de zonas urbanas, se tendrán en cuenta los siguientes criterios en relación a desbordamientos en episodios de lluvia:
+1. Los puntos de vertido por desbordamientos del sistema de saneamiento, tanto unitario como separativo, en episodios de lluvia, al dominio público hidráulico requerirán estar incluidos en una autorización de vertido de los organismos de cuenca, de acuerdo con el artículo 245 y siguientes.
 
-a) Los proyectos de nuevos desarrollos urbanos deberán justificar la conveniencia de establecer redes de saneamiento separativas o unitarias para aguas residuales y de escorrentía, así como plantear medidas que limiten la aportación de aguas de lluvia a los colectores.
+2. En los sistemas de saneamiento y, con el fin de reducir la contaminación generada en episodios de lluvia, los titulares de la autorización de vertido de aguas residuales tendrán la obligación de poner en servicio las obras e instalaciones que permitan retener y evacuar adecuadamente hacia la estación depuradora de aguas residuales las primeras aguas de escorrentía generadas en episodios de lluvia de acuerdo con el anexo XI. En el diseño de los elementos e infraestructuras de los sistemas de saneamiento y depuración, se considerará que las aguas recogidas en los episodios de lluvia han recibido un tratamiento adecuado, cuando, al menos, reciban un tratamiento primario en los sistemas de saneamiento unitario o un pretratamiento en sistemas de saneamiento separativo, si bien, los organismos de cuenca podrán exigir medidas adicionales cuando estos vertidos puedan ser una de las causas del incumplimiento de los objetivos ambientales de la masa de agua receptora.
 
-b) En las redes de colectores de aguas residuales urbanas no se admitirá la incorporación de aguas de escorrentía procedentes de zonas exteriores a la aglomeración urbana o de otro tipo de aguas que no sean las propias para las que fueron diseñados, salvo en casos debidamente justificados.
+3. Los organismos de cuenca deberán disponer de un inventario de los puntos de vertido por desbordamiento del sistema de saneamiento en episodios de lluvia, tanto en sistemas unitario como separativos, el cual formará parte del inventario sobre el tipo y la magnitud de las presiones antropogénicas significativas a las que están expuestas las masas de agua, tal como queda definido en el artículo 15 del RPH. Este inventario se almacenará y mantendrá actualizado en un sistema informático convenientemente georreferenciado.
 
-c) En tiempo seco no se admitirán vertidos por los aliviaderos.
+4. En el proceso de tramitación de la autorización de puntos de vertido por desbordamientos de sistemas de saneamiento en episodios de lluvia al dominio público hidráulico, cuyas aguas depuradas se viertan al dominio público marítimo terrestre, se requerirá de informe previo de la comunidad autónoma sobre la suficiencia de la estación depuradora de aguas residuales para el tratamiento del volumen total de agua residual generada en condiciones de normal funcionamiento.
 
-d) Los aliviaderos del sistema colector de saneamiento y los de entrada a la depuradora deberán dotarse de los elementos pertinentes en función de su ubicación, antigüedad y el tamaño del área drenada para limitar la contaminación producida por sólidos gruesos y flotantes. Estos elementos no deben producir una reducción significativa de la capacidad hidráulica de desagüe de los aliviaderos, tanto en su funcionamiento habitual como en caso de fallo.
-
-e) Con el fin de reducir convenientemente la contaminación generada en episodios de lluvia, los titulares de vertidos de aguas residuales urbanas tendrán la obligación de poner en servicio las obras e instalaciones que permitan retener y evacuar adecuadamente hacia la estación depuradora de aguas residuales urbanas las primeras aguas de escorrentía de la red de saneamiento con elevadas concentraciones de contaminantes producidas en dichos episodios.
-
-2. En las autorizaciones de vertido de sistemas de saneamiento de aguas residuales de zonas industriales, se tendrán en cuenta los siguientes criterios en relación a los desbordamientos en episodios de lluvia:
-
-a) Los proyectos de nuevos desarrollos industriales deberán establecer, preferentemente, redes de saneamiento separativas, e incorporar un tratamiento de las aguas de escorrentía, independiente del tratamiento de aguas residuales.
-
-b) En las redes de colectores de aguas residuales de zonas industriales no se admitirá la incorporación de aguas de escorrentía procedentes de zonas exteriores a la implantación de la actividad industrial o de otro tipo de aguas que no sean las propias para las que fueron diseñados, salvo en casos debidamente justificados.
-
-c) No se permitirán aliviaderos en las líneas de recogida y depuración de:
-
-1.º Aguas con sustancias peligrosas.
-
-2.º Aguas de proceso industrial.
-
-3. El Ministerio de Agricultura, Alimentación y Medio Ambiente, en aras del cumplimiento de los objetivos medioambientales del medio receptor, dictará las normas técnicas en las que se especifiquen y desarrollen los procedimientos de diseño de las obras e instalaciones para la gestión de las aguas de escorrentía sin perjuicio de que las comunidades autónomas con competencia sobre cuencas intracomunitarias puedan dictar normas adicionales que garanticen el cumplimiento de dichos objetivos, y teniendo en cuenta los dispuesto en este artículo. Dichas normas se utilizarán en el establecimiento de las condiciones de las autorizaciones de vertido.
-
-4. El deterioro temporal del estado de las masas de agua consecuencia de los desbordamientos de los sistemas de saneamiento en episodios de lluvia, no constituirá infracción de las disposiciones del presente real decreto si se debe a causas naturales o de fuerza mayor o al resultado de circunstancias derivadas de accidentes, que sean excepcionales o que no hayan podido preverse razonablemente, teniendo en cuenta los criterios establecidos en las normas técnicas a las que se hace referencia en el apartado 3. En tales casos el titular de la autorización informará inmediatamente al Organismo de cuenca, especificando las causas, potenciales daños y medidas adoptadas para minimizar los efectos.
+> Se modifica por el art. 1.147 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 
 > Se modifica el apartado 1.d) por el art. 1.20 del Real Decreto 638/2016, de 9 de diciembre. Ref. BOE-A-2016-12466.
 

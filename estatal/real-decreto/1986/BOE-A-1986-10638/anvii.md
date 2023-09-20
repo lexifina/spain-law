@@ -1,12 +1,12 @@
 ## ANEXO VII
 
-## Contenido del Censo Nacional de Vertidos y de los Censos de Vertidos Autorizados de los Organismos de Cuenca
+## Contenido del Censo Nacional de Vertidos y de los Censos de Vertidos Autorizados de los organismos de cuenca
 
 a) Titular y localización del vertido.
 
 Datos del titular del vertido y localización de cada punto de vertido.
 
-Cuando el titular del vertido sea una persona física que no opere en el tráfico mercantil se sustituirá el nombre por «Persona física» sin incluir ningún dato de carácter personal (apellidos, NIF, etc.).
+Cuando el titular del vertido sea una persona física que no opere en el tráfico mercantil se sustituirá el nombre por “Persona física” sin incluir ningún dato de carácter personal (apellidos, NIF y otros).
 
 b) Actividad generadora y características de las aguas residuales.
 
@@ -14,13 +14,13 @@ b.1) Vertidos de procedencia urbana.
 
 Contenido mínimo:
 
-Porcentaje de aguas residuales industriales en las aguas brutas indicando si es mayor o menor del 30 %.
+Porcentaje de aguas residuales industriales en las aguas brutas indicando si es mayor o menor del 30%.
 
-Cuando el vertido proviene de una aglomeración urbana declarada según lo establecido en el Real Decreto-ley 11/1995, de 28 de diciembre, la denominación de la misma (código oficial asociado).
+Cuando el vertido proviene de una aglomeración urbana declarada según lo establecido en el Real Decreto-ley 11/1995, de 28 de diciembre, la denominación de esta (código oficial asociado).
 
 Contenido adicional:
 
-Datos de cada flujo tal como procedencia de las aguas (municipio, pedanía, distrito, etc.), volumen anual, carga contaminante, población (de hecho y estacional), y composición (urbana, escorrentía pluvial, desbordamiento de sistemas de saneamiento).
+Datos de cada flujo tal como procedencia de las aguas (municipio, pedanía, distrito, entre otros), volumen anual, carga contaminante, población (de hecho y estacional), y composición (urbana de red separativa o de red unitaria).
 
 Cuando el titular sea una entidad local o autonómica se identifican los vertidos industriales indirectos con sustancias peligrosas especificando los datos del titular del vertido indirecto, los caudales y volúmenes de vertido evacuados a la red de saneamiento y la concentración de las sustancias peligrosas presentes.
 
@@ -32,7 +32,31 @@ Código de Clasificación Nacional de Actividades Económicas (CNAE).
 
 Contenido adicional:
 
-Composición de cada flujo (aguas de proceso, refrigeración, asimilables a domésticos, escorrentía pluvial, desbordamiento de sistemas de saneamiento).
+Composición de cada flujo (aguas de proceso, refrigeración, asimilables a domésticos, entre otras).
+
+b.3) Vertidos por desbordamientos del sistema de saneamiento en episodios de lluvia.
+
+Contenido mínimo:
+
+Número de punto de vertido por desbordamientos del sistema de saneamiento en episodios de lluvia.
+
+Origen del sistema de saneamiento, unitario o pluviales de una red separativa.
+
+Ubicación del punto de vertido por desbordamiento del sistema de saneamiento en episodios de lluvia.
+
+Tipo de desbordamiento: con o sin infraestructura de regulación de aguas residuales.
+
+Contenido adicional:
+
+Datos de la población (de hecho y estacional) de la que proviene el vertido por desbordamientos del sistema de saneamiento en episodios de lluvia.
+
+Datos descriptivos de las infraestructuras de regulación de aguas residuales.
+
+Características del área drenada asociada al punto de vertido por desbordamientos del sistema de saneamiento en episodios de lluvia.
+
+Cuando el titular sea también titular de un vertido de aguas residuales industriales con sustancias peligrosas especificará si las aguas por desbordamientos del sistema de saneamiento en episodios de lluvia pueden arrastrar estas sustancias presentes en plataformas.
+
+Cuando el titular sea una entidad local o autonómica se especificará si los vertidos por desbordamientos del sistema de saneamiento en episodios de lluvia pueden arrastrar sustancias peligrosas debido a la presencia de instalaciones industriales en las zonas de recogida de aguas pluviales.
 
 c) Características cualitativas y cuantitativas del vertido, con indicación de la presencia de sustancias peligrosas.
 
@@ -74,6 +98,8 @@ f) Programa de reducción de la contaminación.
 
 Aplicable a vertidos cuya autorización está condicionada al cumplimiento de un programa de reducción de la contaminación.
 
+Incluirá el Plan integral de gestión del sistema de saneamiento.
+
 Contenido mínimo:
 
 Fecha de finalización.
@@ -101,5 +127,7 @@ Importe del canon de control de vertidos.
 Contenido adicional:
 
 Para vertidos a dominio público marítimo-terrestre: longitud, diámetro y profundidad de la conducción del vertido.
+
+> Se modifica por el art. 1.224 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 
 > Se añade por el art. único.36 del Real Decreto 638/2016, de 9 de diciembre. Ref. BOE-A-2016-12466.

@@ -14,7 +14,7 @@ Agua residual urbana o asimilable (*).
 
 Agua residual industrial.
 
-2. Características del vertido.
+2. Características del vertido:
 
 Urbanos hasta 1.999 habitantes-equivalentes (**) = 1.
 
@@ -30,11 +30,15 @@ Industrial clase 3 (***) = 1,18.
 
 Clase 1, 2 ó 3 con sustancias peligrosas (****) = 1,28.
 
-3. Grado de contaminación del vertido.
+3. Grado de contaminación del vertido (******).
 
-Urbanos con tratamiento adecuado (**) = 0,5.
+Urbanos con tratamiento adecuado en el sistema de depuración (**) y con tratamiento adecuado en los desbordamientos del sistema de saneamiento = 0,5.
 
-Urbanos sin tratamiento adecuado (**) = 2,5.
+Urbanos con tratamiento adecuado en el sistema de depuración (**) y sin tratamiento adecuado en los desbordamientos del sistema de saneamiento = 1,0.
+
+Urbanos sin tratamiento adecuado en el sistema de depuración (**) y con tratamiento adecuado en los desbordamientos del sistema de saneamiento = 2,5.
+
+Urbanos sin tratamiento adecuado en el sistema de depuración (**) y sin tratamiento adecuado en los desbordamientos del sistema de saneamiento = 3,12.
 
 Industrial con tratamiento adecuado (**) = 0,5.
 
@@ -50,14 +54,15 @@ Vertido en zona de categoría III = 1.
 
 Notas:
 
-(*) Se entiende por agua residual urbana o asimilable aquélla que no contenga un volumen de aguas residuales industriales mayor de un 30%.
+(*) Se entiende por agua residual urbana o asimilable aquélla que no contenga un volumen de aguas residuales industriales mayor de un 30 %.
 
 (**) Las definiciones de habitante-equivalente, y de tratamiento adecuado, son las que se encuentran en el Real Decreto-ley 11/1995. En consecuencia, y a los efectos del cálculo del canon de control de vertidos, se extiende la definición de tratamiento adecuado a los vertidos industriales. Se clasificará el vertido urbano considerando el número total de habitantes de la entidad de población (núcleo) a que pertenece. En el caso de que un vertido reciba las aguas residuales de varios núcleos de población, se clasificará por la suma total de sus habitantes.
 
 (***) Clasificación de los vertidos según la actividad industrial.
 
+| Cuadro de clasificación de los vertidos según la actividad industrial |
+| --- |
 | Clase | Grupo | Descripción |
-| --- | --- | --- |
 | Clase 1. | 0 | Servicios. |
 | 1 | Energía y Agua. |
 | 2 | Metalurgia. |
@@ -79,7 +84,60 @@ Notas:
 | 16 | Tratamiento de superficies. |
 | 17 | Zootecnia. |
 
-Clasificación de los vertidos grupos de actividad clasificación por CNAE
+Las aguas de procedencia urbana no asimilables a aguas urbanas, por contener más de un 30% de volumen de agua industrial, se clasificarán en dos tramos:
+
+– Vertidos con un porcentaje de aguas industriales entre el 30 % y el 70 % del total: el conjunto del vertido se clasificará como industrial de clase 1.
+
+– Vertidos con un porcentaje de aguas industriales superior al 70 % del total: el conjunto del vertido se considerará industrial y se clasificará según las clases industriales de las actividades de que se trate, aplicando los criterios siguientes: en el caso de polígonos industriales u otros vertidos que reúnan los efluentes procedentes de distintas actividades industriales, se aplicará al conjunto del vertido el mayor de los coeficientes que corresponderían a cada una de las actividades si vertieran individualmente. No obstante, si la solicitud de autorización de vertido desglosa los volúmenes de las distintas clases industriales, se ponderará el correspondiente coeficiente que debe aplicarse.
+
+(****) Para la inclusión en esta clase bastará con que se constate en el vertido la presencia de una sustancia peligrosa en concentración superior al límite de cuantificación analítico.
+
+A los solos efectos de la aplicación de este factor, se consideran sustancias peligrosas aquellas definidas en el artículo 245.5.d).
+
+(*****) La calidad ambiental del medio receptor depende de su clasificación en el Registro de Zonas Protegidas de la Demarcación Hidrográfica conforme a las siguientes categorías reguladas en el artículo 99 bis del TRLA.
+
+| Cuadro de categorías del medio receptor del apartado |
+| --- |
+| Categoría I. | Masas de agua en las que se realiza una captación de agua destinada a consumo humano. |
+| Masas de agua declaradas de uso recreativo, incluidas las zonas declaradas aguas de baño. |
+| Zonas declaradas vulnerables en aplicación de las normas sobre protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias. |
+| Zonas declaradas sensibles en aplicación de las normas sobre tratamiento de las aguas residuales urbanas y sus áreas de captación. |
+| Zonas de protección de hábitats o especies en las que el mantenimiento o mejora del estado del agua constituya un factor importante de su protección. |
+| Perímetros de protección de aguas minerales y termales aprobados de acuerdo con su legislación específica. |
+| Reservas hidrológicas declaradas mediante acuerdo del Consejo de Ministros y reservas hidrológicas en las demarcaciones hidrográficas intracomunitarias. |
+| Aguas subterráneas. |
+| Categoría II. | Zonas de protección de especies acuáticas significativas desde el punto de vista económico. |
+| Otras zonas protegidas incluidas en el Registro de Zonas Protegidas. |
+| Categoría III. | Las no incluidas en las categorías anteriores. |
+
+En los supuestos en que el medio receptor esté incluido en más de una categoría se aplicará el factor más elevado. La aplicación de los factores se extiende a las zonas de influencia que contengan los planes hidrológicos siempre que estén efectivamente delimitadas.
+
+(******) Se considera tratamiento no adecuado en los desbordamientos del sistema de saneamiento el incumplimiento de las obligaciones derivadas en el capítulo II y en el anexo XI.
+
+B) Vertido de piscifactorías: en el caso de que los valores de los parámetros característicos de contaminación del vertido sean inferiores a los fijados como objetivo de calidad del medio receptor, el coeficiente será 0,006. De no cumplirse esta condición, el coeficiente se multiplicará por 3
+
+C) Aguas de achique procedentes de actividades mineras y aguas de drenaje de túneles: en el caso de que los valores de los parámetros característicos de contaminación del vertido sean inferiores a los fijados como objetivo de calidad del medio receptor, el coeficiente será 0,006. De no cumplirse esta condición, el coeficiente se multiplicará por 3.
+
+D) Aguas de refrigeración y aguas procedentes de actividades geotérmicas: se aplicarán los coeficientes de la tabla adjunta, siempre que el vertido no ocasione el incumplimiento del objetivo de calidad fijado para la temperatura en el medio receptor y, además, no se altere el valor del resto de parámetros o sustancias del vertido respecto al agua de captación.
+
+Si el río no tiene fijados objetivos de calidad, el incremento de temperatura media de una sección fluvial tras la zona de dispersión no superará los 3 °C.
+
+En lagos o embalses, la temperatura del vertido no superará los 30 °C.
+
+| Volumen Hm³ | Coeficientes de minoración (1) |
+| --- | --- |
+| Menor de 100. | 0,02000 |
+| 100 a 250. | 0,01166 |
+| 250 a 1.000. | 0,00566 |
+| Superior a 1.000. | 0,00125 |
+
+De no cumplirse alguna de las condiciones anteriores, los coeficientes se multiplicarán por 3.
+
+El importe del canon se determinará por adición de los importes parciales que resulten de aplicar los sucesivos tramos de la escala.
+
+(1) En el caso de centrales térmicas, sean convencionales o nucleares, que utilicen el agua como refrigeración, los coeficientes de la tabla corresponden a un funcionamiento tipo de 6.000 horas anuales en el caso de las centrales térmicas convencionales, y 8.000 horas anuales en el caso de las centrales nucleares. Estos coeficientes se multiplicarán por la relación entre el número de horas de funcionamiento realmente habidas en el año y las correspondientes horas de funcionamiento tipo.
+
+E) Clasificación de los vertidos por grupos de actividad industrial por CNAE:
 
 | CNAE | Título | Grupo | Clase |
 | --- | --- | --- | --- |
@@ -426,57 +484,9 @@ Clasificación de los vertidos grupos de actividad clasificación por CNAE
 | 9602 | Peluquería y otros tratamientos de belleza. | 0 | 1 |
 | 9603 | Pompas fúnebres y actividades relacionadas. | 0 | 1 |
 | 9604 | Actividades de mantenimiento físico. | 0 | 1 |
-| 9609 | Otras servicios personales n.c.o.p. | 0 | 1 |
+| 9609 | Otros servicios personales n.c.o.p. | 0 | 1 |
 
-Las aguas de procedencia urbana no asimilables a aguas urbanas, por contener más de un 30 % de volumen de agua industrial, se clasificarán en dos tramos:
-
-– Vertidos con un porcentaje de aguas industriales entre el 30 % y el 70 % del total: el conjunto del vertido se clasificará como industrial de clase 1.
-
-– Vertidos con un porcentaje de aguas industriales superior al 70 % del total: el conjunto del vertido se considerará industrial y se clasificará según las clases industriales de las actividades de que se trate, aplicando los criterios siguientes: en el caso de polígonos industriales u otros vertidos que reúnan los efluentes procedentes de distintas actividades industriales, se aplicará al conjunto del vertido el mayor de los coeficientes que corresponderían a cada una de las actividades si vertieran individualmente. No obstante, si la solicitud de autorización de vertido desglosa los volúmenes de las distintas clases industriales, se ponderará el correspondiente coeficiente que debe aplicarse.
-
-(****) Para la inclusión en esta clase bastará con que se constate en el vertido la presencia de una sustancia peligrosa en concentración superior al límite de cuantificación analítico.
-
-A los solos efectos de la aplicación de este factor, se consideran sustancias peligrosas aquellas definidas en el artículo 245.5.d).
-
-(*****) La calidad ambiental del medio receptor depende de su clasificación en el Registro de Zonas Protegidas de la Demarcación Hidrográfica conforme a las siguientes categorías reguladas en el artículo 99 bis del TRLA.
-
-| Categoría I | Masas de agua en las que se realiza una captación de agua destinada a consumo humano. |
-| --- | --- |
-| Masas de agua declaradas de uso recreativo, incluidas las zonas declaradas aguas de baño. |
-| Zonas declaradas vulnerables en aplicación de las normas sobre protección de las aguas contra la contaminación producida por nitratos procedentes de fuentes agrarias. |
-| Zonas declaradas sensibles en aplicación de las normas sobre tratamiento de las aguas residuales urbanas. |
-| Zonas de protección de hábitats o especies en las que el mantenimiento o mejora del estado del agua constituya un factor importante de su protección. |
-| Perímetros de protección de aguas minerales y termales aprobados de acuerdo con su legislación específica. |
-| Reservas hidrológicas declaradas mediante acuerdo del Consejo de Ministros. |
-| Aguas subterráneas. |
-| Categoría II | Zonas de protección de especies acuáticas significativas desde el punto de vista económico. |
-| Otras zonas protegidas incluidas en el Registro de Zonas Protegidas. |
-| Categoría III | Las no incluidas en las categorías anteriores. |
-
-En los supuestos en que el medio receptor esté incluido en más de una categoría se aplicará el factor más elevado. La aplicación de los factores se extiende a las zonas de influencia que contengan los planes hidrológicos siempre que estén efectivamente delimitadas.
-
-B) Vertido de piscifactorías: en el caso de que los valores de los parámetros característicos de contaminación del vertido sean inferiores a los fijados como objetivo de calidad del medio receptor, el coeficiente será 0,006. De no cumplirse esta condición, el coeficiente se multiplicará por 3.
-
-C) Aguas de achique procedentes de actividades mineras: en el caso de que los valores de los parámetros característicos de contaminación del vertido sean inferiores a los fijados como objetivo de calidad del medio receptor, el coeficiente será 0,006. De no cumplirse esta condición, el coeficiente se multiplicará por 3.
-
-D) Aguas de refrigeración: se aplicarán los coeficientes de la tabla adjunta, siempre que el vertido no ocasione el incumplimiento del objetivo de calidad fijado para la temperatura en el medio receptor y, además, no se altere el valor del resto de parámetros o sustancias del vertido respecto al agua de captación.
-
-Si el río no tiene fijados objetivos de calidad, el incremento de temperatura media de una sección fluvial tras la zona de dispersión no superará los 3 °C.
-
-En lagos o embalses, la temperatura del vertido no superará los 30 °C.
-
-| Volumen Hm³ | Coeficientes de minoración (1) |
-| --- | --- |
-| Menor de 100 | 0,02000 |
-| 100 a 250 | 0,01166 |
-| 250 a 1.000 | 0,00566 |
-| Superior a 1.000 | 0,00125 |
-
-De no cumplirse alguna de las condiciones anteriores, los coeficientes se multiplicarán por 3.
-
-El importe del canon se determinará por adición de los importes parciales que resulten de aplicar los sucesivos tramos de la escala.
-
-(1) En el caso de centrales térmicas, sean convencionales o nucleares, que utilicen el agua como refrigeración, los coeficientes de la tabla corresponden a un funcionamiento tipo de 6.000 horas anuales en el caso de las centrales térmicas convencionales, y 8.000 horas anuales en el caso de las centrales nucleares. Estos coeficientes se multiplicarán por la relación entre el número de horas de funcionamiento realmente habidas en el año y las correspondientes horas de funcionamiento tipo.
+> Se modifica por el art. 1.222 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 
 > Se modifican las notas (***), (****) y (*****) del apartado A) por el art. 1.34 del Real Decreto 638/2016, de 9 de diciembre. Ref. BOE-A-2016-12466.
 

@@ -10,8 +10,14 @@ c) Podrán ser objeto de revisión, de oficio, por el organismo de cuenca, las c
 
 d) Las reservas declaradas deberán ser respetadas por los instrumentos de ordenación urbanística; a tal fin, deberá solicitarse informe al organismo de cuenca de conformidad con el artículo 25 del TRLA.
 
+e) La protección que se otorga a las reservas hidrológicas, y en especial a las reservas naturales fluviales y lacustres, se extiende a todas las actividades que se realicen en la cuenca vertiente de la masa de agua, incluyendo la protección a todos los cauces y manantiales situados aguas arriba del punto final de la reserva hidrológica.
+
+f) Deberán respetarse los perímetros de protección que se establezcan de conformidad con el artículo 243 sexies.
+
 2. En aquellos casos en que, por una intervención humana, se produzca el deterioro del estado o de las características hidromorfológicas de las reservas hidrológicas declaradas, el organismo de cuenca, sin perjuicio de la iniciación del procedimiento sancionador que corresponda, adoptará las medidas precisas para impedir un mayor deterioro y posibilitar la recuperación de esas características y del estado inicial.
 
 A tal efecto se repercutirá a los causantes del deterioro, las responsabilidades que procedan.
+
+> Se añaden las letras e) y f) al apartado 1 por el art. 1.125 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 
 > Se añade por el art. 1.16 del Real Decreto 638/2016, de 9 de diciembre. Ref. BOE-A-2016-12466.

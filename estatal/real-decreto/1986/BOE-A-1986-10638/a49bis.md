@@ -1,4 +1,4 @@
-## Artículo 49 bis. Clasificación del uso del agua.
+## Artículo 49 bis. Orden de preferencia de usos privativos.
 
 1. A los efectos de determinar el procedimiento concesional o de autorización aplicable y teniendo en cuenta lo previsto en el artículo 60.3 del texto refundido de la Ley de Aguas, se establece la siguiente clasificación de los usos de las aguas en ocho categorías:
 
@@ -44,7 +44,11 @@ d) Otros usos industriales.
 
 1.º Industrias productoras de bienes de consumo.
 
-2.º Industrias del ocio y del turismo.
+2.º Industrias del ocio y del turismo. En concreto, las siguientes:
+
+2.1.º Las actividades de ocio que usan el agua en embalses, ríos y parajes naturales de un modo no consuntivo, como los deportes acuáticos en aguas tranquilas (piragüismo, vela, windsurf, remo, barcos de motor, esquí acuático y otros) o bravas (piragüismo, rafting y otros), el baño y la pesca deportiva.
+
+2.2.º Las actividades de ocio relacionadas con el agua de un modo indirecto, utilizada como centro de atracción o punto de referencia para actividades afines, como acampadas, excursiones, ornitología, caza, senderismo y todas aquellas actividades turísticas o recreativas que se efectúan cerca de superficies y cursos de agua.
 
 3.º Industrias extractivas.
 
@@ -56,11 +60,7 @@ e) Acuicultura.
 
 f) Usos recreativos.
 
-En los usos recreativos quedan incluidos los que no estando incluidos en los apartados anteriores tienen un carácter recreativo privado o colectivo sin que exista actividad industrial o comercial, y, en concreto, los siguientes:
-
-1.º Las actividades de ocio que usan el agua en embalses, ríos y parajes naturales de un modo no consuntivo, como los deportes acuáticos en aguas tranquilas (piragüismo, vela, windsurf, remo, barcos de motor, esquí acuático, etc.) o bravas (piragüismo, rafting, etc.), el baño y la pesca deportiva.
-
-2.º Las actividades de ocio relacionadas con el agua de un modo indirecto, utilizada como centro de atracción o punto de referencia para actividades afines, como acampadas, excursiones, ornitología, caza, senderismo y todas aquellas actividades turísticas o recreativas que se efectúan cerca de superficies y cursos de agua.
+En los usos recreativos quedan incluidos los que no estando incluidos en los apartados anteriores tienen un carácter recreativo privado o colectivo sin que exista actividad industrial o comercial, y, en concreto, las actividades de ocio que usan el agua en embalses, ríos y parajes naturales de un modo no consuntivo, como los deportes acuáticos con uso de motor. Queda excluida la navegación recreativa particular.
 
 g) Navegación y transporte acuático, incluyendo navegación de transportes de mercancías y personas.
 
@@ -73,6 +73,8 @@ h) Otros usos:
 Estos usos comprenderán todos aquéllos que no se encuentren en alguna de las categorías anteriores, que en ningún caso implicarán la utilización del agua con fines ambientales que sean condicionantes del estado de las masas de agua, ni se referirán a los supuestos previstos en el artículo 59.7 del texto refundido de la Ley de Aguas.
 
 2. Los aprovechamientos que usen la climatización geotérmica podrán estar asociados a cualquiera de los usos previstos en este artículo.
+
+> Se modifica el título y las letras d) y f) del apartado 1 por el art. 1.16 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 
 > Se añade por el art. único.2 del Real Decreto 670/2013, de 6 de septiembre. Ref. BOE-A-2013-9775.
 
