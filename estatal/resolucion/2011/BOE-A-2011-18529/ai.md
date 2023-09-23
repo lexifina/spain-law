@@ -16,7 +16,9 @@ A) Se eliminan:
 
 B) Se añaden las siguientes cuentas:
 
-114. Reserva de estabilización FRRI.
+114. Reserva de estabilización fondos 2.2 LGP con actividad aseguradora.
+
+1491. Otras provisiones a largo plazo fondos 2.2 LGP con actividad aseguradora
 
 1500. Obligaciones y bonos en euros.
 
@@ -284,7 +286,7 @@ B) Se añaden las siguientes cuentas:
 
 6770. Gastos por bienes muebles e intangibles no activados.
 
-6771. Otros gastos actividad FRRI.
+6771. Otros gastos fondos 2.2 LGP con actividad aseguradora.
 
 6779. Otros.
 
@@ -306,7 +308,7 @@ B) Se añaden las siguientes cuentas:
 
 695. Dotación para otras provisiones.
 
-6951. Dotaciones a las provisiones técnicas FRRI.
+6951. Dotaciones a las provisiones técnicas fondos 2.2 LGP con actividad aseguradora.
 
 7280. Impuesto sobre la renta de no residentes.
 
@@ -333,6 +335,8 @@ B) Se añaden las siguientes cuentas:
 7691. Rendimientos de las operaciones de compraventas dobles de valores.
 
 7699. Otros ingresos financieros.
+
+7773. Ingresos fondos 2.2 LGP con actividad aseguradora.
 
 798. Reversión del deterioro de inversiones militares.
 
@@ -377,6 +381,10 @@ C) Se modifica la denominación de las siguientes cuentas:
 6628. Intereses de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
 
 7628. Ingresos de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
+
+> Se modifica la denominación de las cuentas 114, 1491, 6771, 6951 y 7773 por el art. único.1 de la Resolución de 12 de septiembre de 2023. Ref. BOE-A-2023-19818
+
+> Esta modificación será de aplicación a las cuentas anuales del ejercicio 2022 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica la denominación de la cuenta 6770 por el apartado 1.1 de la Resolución de 18 de diciembre de 2017. Ref. BOE-A-2017-15430
 
