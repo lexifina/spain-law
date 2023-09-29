@@ -1,0 +1,3 @@
+## Disposición transitoria sexta.
+
+Aquellos cetáceos que, en el momento de entrada en vigor de esta ley, sean objeto de tenencia en cautividad fuera de los centros de conservación e investigación referidos en el artículo 32.6, hasta su fallecimiento o hasta que sean cedidos a un centro para finalidades de investigación, podrán permanecer en sus emplazamientos actuales atendidos por sus titulares siempre que no sean reintroducibles en el medio natural, se preserven sus condiciones de bienestar y se respeten los términos recogidos en esta disposición, pudiendo ser utilizados en espectáculos, interacciones comerciales o gratuitas siempre que sea con sus cuidadores o profesionales relacionados.
