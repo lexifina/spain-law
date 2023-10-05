@@ -37,6 +37,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria tercera](tercera-2.md)
 - [Disposición transitoria cuarta](cuaa-2.md)
 - [Disposición transitoria quinta](dt.md)
+- [Disposición transitoria sexta](dt-2.md)
 - [Disposición derogatoria única ](dd.md)
 - [Disposición final primera](primera-3.md)
 - [Disposición final segunda](segunda-3.md)
