@@ -25,6 +25,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 12](a1-4.md)
 - [Artículo 13](a1-5.md)
 - [Artículo 14](a1-6.md)
+- [Disposición adicional única](da.md)
 - [Disposición transitoria única](dt.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)

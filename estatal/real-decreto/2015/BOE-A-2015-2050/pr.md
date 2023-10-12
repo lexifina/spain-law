@@ -8,7 +8,7 @@ Para ello, se aprobó el Real Decreto 864/2010, de 2 de julio, por el que se est
 
 En estos momentos, es preciso actualizar dicha regulación, adaptándola al tiempo a las nuevas normas de la Unión Europea en materia de ayudas al sector agrario. Razones de seguridad jurídica aconsejan la aprobación de un nuevo real decreto, dada la cantidad de modificaciones.
 
-Las ayudas contempladas en la presente disposición, se ajustan a lo dispuesto en el artículo 26 del Reglamento (UE) n.º 702/2014 de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
+Las ayudas contempladas en la presente disposición, se ajustan a lo dispuesto en el artículo 26 del Reglamento (UE) 2022/2472 de la Comisión, de 14 de diciembre de 2022, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
 
 Este real decreto se dicta de conformidad con lo dispuesto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, aprobado mediante Real Decreto 887/2006, de 21 de julio. De conformidad con la distribución de competencias entre el Estado y las comunidades autónomas, se establece la gestión descentralizada de las ayudas, correspondiendo a las comunidades autónomas su instrucción, resolución y pago.
 
@@ -19,3 +19,5 @@ En la elaboración de este real decreto han sido consultadas las comunidades aut
 En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 13 de febrero de 2015,
 
 DISPONGO:
+
+> Se modifica por el art. 2.7 del Real Decreto 780/2023, de 10 de octubre. Ref. BOE-A-2023-20995#as

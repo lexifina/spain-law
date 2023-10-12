@@ -6,7 +6,7 @@ En este sentido, mediante el Real Decreto 784/2009, de 30 de abril, por el que s
 
 En estos momentos, es preciso actualizar dicha regulación, adaptándola al tiempo a las nuevas normas de la Unión Europea en materia de ayudas al sector agrario. Razones de seguridad jurídica aconsejan la aprobación de un nuevo real decreto, dada la cantidad de modificaciones.
 
-Las ayudas contempladas en la presente disposición, se ajustan a lo dispuesto en el Reglamento (UE) n.º 702/2014, de la Comisión, de 25 de junio de 2014, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
+Las ayudas contempladas en la presente disposición, se ajustan a lo dispuesto en el Reglamento (UE) 2022/2472 de la Comisión, de 14 de diciembre de 2022, por el que se declaran determinadas categorías de ayuda en los sectores agrícola y forestal y en zonas rurales compatibles con el mercado interior en aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea.
 
 El presente real decreto constituye normativa básica, sin que se oponga a ello el hecho de que la materia se regule por norma reglamentaria, pues, siguiendo la doctrina del Tribunal Constitucional, cuando se trate de medidas de carácter coyuntural, como es el caso presente, además, de índole evidentemente técnica, queda justificado el uso de norma infralegal.
 
@@ -15,3 +15,5 @@ En la elaboración de este real decreto han sido consultadas las comunidades aut
 En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, y previa deliberación del Consejo de Ministros en su reunión del día 13 de febrero de 2015,
 
 DISPONGO:
+
+> Se modifica por el art. 1.11 del Real Decreto 780/2023, de 10 de octubre. Ref. BOE-A-2023-20995#ap
