@@ -26,19 +26,15 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 
 4. La Comunidad Autónoma del País Vasco.
 
-5. En la Comunidad Autónoma de Castilla-La Mancha:
+5. En la Comunidad Autónoma de Castilla y León: en la provincia de Zamora: la comarca de Zamora.
 
-a) En la provincia de Cuenca: las comarcas de Belmonte, San Clemente, Villares del Saz y Motilla del Palancar.
-
-6. En la Comunidad Autónoma de Castilla y León:
-
-a) En la provincia de Zamora: la comarca de Zamora.
-
-7. En la Comunidad Autónoma de Galicia:
+6. En la Comunidad Autónoma de Galicia:
 
 a) La provincia de A Coruña.
 
 b) En la provincia de Lugo: las comarcas de A Mariña Central, A Mariña Oriental, A Mariña Occidental, Terra Cha Guitiriz, Terra Cha Castro, Terra Cha Vilalba, Meira, Lugo, A Ulloa, Os Ancares y Fonsagrada.
+
+7. En la Comunidad de Madrid: las comarcas de Alcalá de Henares, Aranjuez, Arganda del Rey, Buitrago, Colmenar Viejo, El Escorial, Madrid, Torrelaguna y Villarejo de Salvanés.
 
 Parte C: Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
 
@@ -61,6 +57,8 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 3. La Comunidad Foral de Navarra.
 
 4. La Comunidad Autónoma del País Vasco.
+
+> Se modifica la parte B por Resolución de 11 de octubre de 2023. Ref. BOE-A-2023-21397
 
 > Se modifica la parte B por Resolución de 9 de agosto de 2023. Ref. BOE-A-2023-18399
 

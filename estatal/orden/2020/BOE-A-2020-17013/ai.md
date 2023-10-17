@@ -28,7 +28,7 @@ b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granad
 
 4. En la Comunidad Autónoma de Castilla-La Mancha:
 
-a) Las provincias de Toledo, Ciudad Real y Albacete.
+a) Las provincias de Toledo, Ciudad Real, Albacete y Cuenca.
 
 5. En la Comunidad Autónoma de Castilla y León:
 
@@ -44,9 +44,11 @@ c) En la provincia de Zamora, las comarcas de Bermillo de Sayago, Alcañices y P
 
 a) Provincias de Pontevedra y Ourense.
 
-b) En la provincia de Lugo: Las comarcas de Sarria, Chantada y Terra de Lemos-Quiroga.
+b) En la provincia de Lugo: las comarcas de Sarria, Chantada y Terra de Lemos-Quiroga.
 
 Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul.
+
+> Se modifica la parte B por Resolución de 11 de octubre de 2023. Ref. BOE-A-2023-21397
 
 > Se modifica la parte B por Resolución de 9 de agosto de 2023. Ref. BOE-A-2023-18399
 
