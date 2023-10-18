@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2023-10-18. The recorded cause is disposición derogatoria única.d) de la Orden APA/852/2023, de 13 de julio, Ref. BOE-A-2023-17046#dd, en la redacción dada por el art. único.3 de la Orden APA/1127/2023, de 16 de octubre (BOE-A-2023-21461). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
