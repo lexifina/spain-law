@@ -1,1 +1,1 @@
-Norma derogada, con efectos desde el 25 de julio de 2023, salvo las letras f), g) y h) del artículo 1, que se derogan con efectos de 1 de febrero de 2024, por la disposición derogatoria única.d) de la Orden APA/852/2023, de 13 de julio. Ref. BOE-A-2023-17046#dd
+Norma derogada por la disposición derogatoria única.d) de la Orden APA/852/2023, de 13 de julio, Ref. BOE-A-2023-17046#dd, en la redacción dada por el art. único.3 de la Orden APA/1127/2023, de 16 de octubre. Ref. BOE-A-2023-21461.

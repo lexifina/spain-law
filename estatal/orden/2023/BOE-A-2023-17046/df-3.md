@@ -4,6 +4,6 @@ La presente orden entrará en vigor el día siguiente al de su publicación en e
 
 No obstante lo anterior,
 
-a) los apartados 3 y 4 del artículo 7 entrarán en vigor a los seis meses desde la publicación de la presente orden;
+a) los apartados 3 y 4 del artículo 7 entrarán en vigor a los seis meses desde la publicación de la presente orden.
 
-b) las letras e), f) y g) del anexo entrarán en vigor el 1 de febrero de 2024.
+> Se deroga la letra b) por el art. único.4 de la Orden APA/1127/2023, de 16 de octubre. Ref. BOE-A-2023-21461
