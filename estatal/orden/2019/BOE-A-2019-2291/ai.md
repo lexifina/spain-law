@@ -12,7 +12,7 @@ Además, la determinación de las condiciones psicofísicas del cuadro médico d
 
 A) Parámetros Biológicos, enfermedades y causas generales.
 
-1. Talla. En bipedestación inferior a 160 cm en hombres y 155 cm en mujeres, o superior a 203 cm, en ambos casos.
+1. Talla. En bipedestación: sin límite.
 
 2. Peso. El Índice de Masa Corporal (IMC) estará comprendido entre 17 y 30 [IMC = Peso en kg/(Talla en metros al cuadrado)].
 
@@ -431,6 +431,8 @@ M) Aparato urogenital.
 32. Endometriosis incapacitante.
 
 33. Cualquier hallazgo, lesión o enfermedad del aparato genital femenino que, bien por sí mismo, su evolución o por el tratamiento requerido (continuo o de larga duración), limite o dificulte el correcto desempeño de las funciones profesionales o puedan verse agravadas por las mismas.
+
+> Se modifica el apartado 1 de letra A) por el art. único de la Orden PCM/1133/2023, de 17 de octubre. Ref. BOE-A-2023-21528
 
 > Se declara la nulidad del inciso destacado del apartado 9 de la letra J) por Sentencia del TS de 21 de febrero de 2023. Ref. BOE-A-2023-12417
 
