@@ -76,7 +76,7 @@ Todos los demás pasivos deben clasificarse como no corrientes.
 
 En el caso de las Entidades y Centros Mancomunados, se incluyen en este epígrafe las adscripciones de bienes y derechos realizadas, por las entidades propietarias.
 
-9. Las reservas generadas por la entidad, aparecerán recogidas en el punto 1 «Reservas», dentro del epígrafe A.II «Patrimonio generado», del patrimonio neto del balance.
+9. Las reservas generadas por la entidad, aparecerán recogidas en el punto 1 “Reservas”, dentro del epígrafe A.II “Patrimonio generado”, del patrimonio neto del Balance. En el Balance del Patrimonio Privativo de las Mutuas colaboradoras con la Seguridad Social y en el Balance Integrado de la misma, en el supuesto de que la Mutua dote una reserva de capitalización o cualquier otro tipo de reserva especial y la normativa exija que deba quedar reflejada de forma separada en el Balance, el epígrafe A.II “Patrimonio generado”, del patrimonio neto del Balance deberá adaptarse para recoger la misma en esos términos.
 
 10. Por su parte, las subvenciones pendientes de imputar a resultados, de acuerdo con lo previsto en la norma de reconocimiento y valoración nº 15 «Transferencias y subvenciones», se registrarán en el epígrafe A.IV «Otros incrementos patrimoniales pendientes de imputación a resultados».
 
@@ -2329,13 +2329,13 @@ MUTUA: N.º
 
 INMOVILIZADO INTANGIBLE
 
-MUTUA N.º
+Mutua núm.
 
-RELACIÓN DE BIENES Y OTROS INMOVILIZADOS INTANGIBLES
+Relación de bienes y otros inmovilizados intangibles
 
-| CÓDIGO | DESCRIPCIÓN | VALOR A 31 DE DICIEMBRE | AMORTIZACIÓN ACUMULADA A 31 DE DICIEMBRE |
-| --- | --- | --- | --- |
-|  |  |  |  |
+| Cód. | Descripc. | Valor a 1 de enero | Variaciones y causas | Valor a 31 de diciembre | Amortización acumulada a 31 de diciembre |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
 INMOVILIZADO MATERIAL
 
@@ -2391,6 +2391,10 @@ MUTUA N.º
 
 |  |
 | --- |
+
+> Se modifica el punto 9 del subapartado 5 «Balance» del apartado 1 y el cuadro relativo al «Inmovilizado intangible» del punto 3 de la Nota 27 de la Memoria del apartado 2, por el art. único.Uno de la Resolución de 11 de octubre de 2023. Ref. BOE-A-2023-21527
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2023 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica el modelo de balance y la memoria, por el art. único, apartados cinco a diez, de la Resolución de 10 de enero de 2022. Ref. BOE-A-2022-559
 

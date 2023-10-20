@@ -44,9 +44,17 @@
 
 115. Fondo de Contingencias Profesionales de la Seguridad Social.
 
-116. Fondo de excedentes de contingencias comunes.
+116. Fondo de Reserva de la Seguridad Social.
 
 117. Reservas voluntarias.
+
+118. Reservas especiales.
+
+1180. Reserva de capitalización.
+
+1181. Reserva de nivelación de bases imponibles.
+
+1189. Otras.
 
 119. Fondo patrimonio privativo.
 
@@ -1933,6 +1941,10 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se modifica la cuenta 116 y se añade la 118 con el desglose, por el art. único.Dos de la Resolución de 11 de octubre de 2023. Ref. BOE-A-2023-21527
+
+> Esta modificación será aplicable a las cuentas anuales del ejercicio 2023 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica el subgrupo 18 y las cuentas 401 y 431 y se añaden las cuentas 186 y 417 por el art. único.once de la Resolución de 10 de enero de 2022. Ref. BOE-A-2022-559
 
