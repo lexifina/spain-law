@@ -8,6 +8,12 @@ b) Cuando, de acuerdo con lo dispuesto en los apartados 1 y 5 del artículo 42 t
 
 c) Cuando, según lo dispuesto en los apartados 2 y 5 del artículo 42 ter del Reglamento aprobado por el Real Decreto 1065/2007, de 27 de julio, con las excepciones previstas en el apartado 4 del citado artículo, resulten titulares o titulares reales conforme a lo previsto en el apartado 2 del artículo 4 de la Ley 10/2010, de 28 de abril, de acciones y participaciones en el capital social o fondo patrimonial de instituciones de inversión colectiva situadas en el extranjero.
 
-d) Cuando, según lo dispuesto los apartados 3 y 5 del artículo 42 ter del Reglamento aprobado por el Real Decreto 1065/2007, de 27 de julio, con las excepciones previstas en el apartado 4 del citado artículo, resulten tomadores a 31 de diciembre de cada año de seguros de vida o invalidez cuando la entidad aseguradora se encuentre situada en el extranjero o cuando sean beneficiarios a 31 de diciembre de cada año de rentas temporales o vitalicias como consecuencia de la entrega de un capital en dinero, de derechos de contenido económico o de bienes muebles o inmuebles, a entidades situadas en el extranjero.
+d) Cuando, según lo dispuesto en los apartados 3 y 5 del artículo 42 ter del Reglamento aprobado por el Real Decreto 1065/2007, de 27 de julio, con las excepciones previstas en el apartado 4 del citado artículo, resulten tomadores a 31 de diciembre de cada año de seguros de vida o invalidez cuando la entidad aseguradora se encuentre situada en el extranjero o cuando sean beneficiarios a 31 de diciembre de cada año de rentas temporales o vitalicias como consecuencia de la entrega de un capital en dinero, de derechos de contenido económico o de bienes muebles o inmuebles, a entidades situadas en el extranjero.
+
+En caso de que el tomador del seguro sea persona distinta del beneficiario de la renta y conserve el derecho de rescate, será dicho tomador el obligado a presentar el modelo 720.
 
 e) Cuando, según lo dispuesto en los apartados 1, 5 y 7 del artículo 54 bis del Reglamento aprobado por el Real Decreto 1065/2007, de 27 de julio, con las excepciones previstas en el apartado 6 del citado artículo, sean titulares o tengan la consideración de titular real conforme a lo previsto en el apartado 2 del artículo 4 de la Ley 10/2010, de 28 de abril, respecto de bienes inmuebles y derechos sobre bienes inmuebles situados en el extranjero.
+
+> Se modifica por el art. 2.1 de la Orden HFP/1180/2023, de 26 de octubre. Ref. BOE-A-2023-22221
+
+> Esta modificación será aplicable, por primera vez, a las declaraciones informativas correspondientes al ejercicio 2023 que se presentarán a partir de 1 de enero de 2024, según establece la disposición final única de la citada Orden.
