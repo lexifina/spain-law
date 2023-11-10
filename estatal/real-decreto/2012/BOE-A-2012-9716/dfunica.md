@@ -6,21 +6,19 @@
 
 Esta habilitación afectará, en particular, a las modificaciones que se produzcan respecto a los siguientes aspectos:
 
-a) Composición del accionariado y de las alteraciones que en el mismo se produzcan, sin perjuicio del régimen establecido para los supuestos de adquisición o incremento de participaciones significativas.
+a) Nombramientos y ceses de cargos de administración y dirección.
 
-b) Nombramientos y ceses de cargos de administración y dirección.
+b) Ampliación o reducción de las actividades e instrumentos incluidos en los programas de actividades.
 
-c) Ampliación o reducción de las actividades e instrumentos incluidos en los programas de actividades.
+c) Modificaciones de estatutos sociales.
 
-d) Modificaciones de estatutos sociales.
+d) Apertura y cierre de sucursales o de cualquier otro establecimiento secundario en territorio nacional.
 
-e) Apertura y cierre de sucursales o de cualquier otro establecimiento secundario en territorio nacional.
+e) Relaciones de agencia.
 
-f) Relaciones de agencia.
+f) Delegación de funciones administrativas, de control interno y de análisis y selección de inversiones.
 
-g) Delegación de funciones administrativas, de control interno y de análisis y selección de inversiones.
-
-h) Cualquier otra modificación que suponga variación de las condiciones de la autorización concedida u otros datos del registro que consten en la CNMV, sin perjuicio de los procedimientos de autorización previa cuando sean preceptivos de conformidad con la normativa que resulte de aplicación.
+g) Cualquier otra modificación que suponga variación de las condiciones de la autorización concedida u otros datos del registro que consten en la CNMV, sin perjuicio de los procedimientos de autorización previa cuando sean preceptivos de conformidad con la normativa que resulte de aplicación.
 
 3. Se habilita a la CNMV para que desarrolle el contenido y el modelo al que habrá de ajustarse, en cada caso, el estado de posición y los resguardos mencionados en el artículo 4.3.
 
@@ -31,5 +29,7 @@ a) Desarrollar los aspectos técnicos de la función de vigilancia sobre los ele
 b) Desarrollar el contenido del acuerdo entre la SGIIC y el depositario a que se refiere el artículo 138.
 
 c) Determinar el alcance de la función de depositaría según el tipo de activos y el tipo de cuentas que se utilice, el alcance de los deberes del depositario en relación con el cálculo del valor liquidativo y la valoración de las participaciones, y el alcance del control sobre los flujos de efectivo.
+
+> Se modifica el apartado 2 por el art. único.31 del Real Decreto 816/2023, de 8 de noviembre. Ref. BOE-A-2023-22766
 
 > Se modifica por el art. único.59 del Real Decreto 83/2015, de 13 de febrero. Ref. BOE-A-2015-1454.

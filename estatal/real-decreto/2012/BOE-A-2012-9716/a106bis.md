@@ -4,9 +4,13 @@
 
 2. La CNMV, en el ejercicio de sus facultades de supervisión e inspección, controlará la separación funcional y jerárquica prevista en el apartado anterior. Este control se realizará de conformidad con el principio de proporcionalidad y verificará en especial que las garantías específicas contra los conflictos de interés permiten desempeñar de modo independiente las actividades de gestión del riesgo, y que el proceso de gestión del riesgo resulte consistente y eficaz.
 
-3. Las SGIIC instaurarán sistemas de gestión del riesgo apropiados a fin de determinar, medir, gestionar y controlar adecuadamente todos los riesgos derivados de la estrategia de inversión de cada IIC, y a los que esté o pueda estar expuesta cada entidad de inversión.
+3. Las SGIIC instaurarán una política idónea y documentada y sistemas de gestión del riesgo apropiados a fin de determinar, medir, gestionar y controlar adecuadamente todos los riesgos derivados de la estrategia de inversión de cada IIC, y a los que esté o pueda estar expuesta cada entidad de inversión.
+
+Dicha política determinará los procedimientos que sean necesarios para que las SGIIC puedan evaluar la exposición de cada uno de las IIC por ellas gestionados a los riesgos de mercado, de liquidez, de sostenibilidad y de contraparte y a todos los demás riesgos, incluidos los operativos, que puedan ser importantes para cada organismo.
 
 En particular, las SGIIC, al evaluar la solvencia de los activos de las IIC, no dependerán de manera exclusiva ni automática de las calificaciones crediticias emitidas por las agencias de calificación crediticia definidas en el artículo 3.1.b) del Reglamento (CE) n.º 1060/2009 del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009, sobre las agencias de calificación crediticia.
+
+Las SGIIC tendrán en consideración los riesgos de sostenibilidad definidos en el artículo 2, apartado 22 d, del Reglamento (UE) 2019/2088 del Parlamento Europeo y del Consejo cuando desempeñen las funciones mencionadas en este apartado. A tal afecto deberán disponer en todo momento de los recursos y de la experiencia necesarios para la integración efectiva de estos riesgos de sostenibilidad.
 
 4. Las SGIIC deberán, al menos:
 
@@ -35,5 +39,7 @@ g) La proporción de activos y pasivos.
 h) La escala, la índole y la importancia de la actividad de la sociedad gestora en el mercado en cuestión.
 
 6. Las SGIIC revisarán los sistemas de gestión del riesgo con una frecuencia suficiente, y como mínimo una vez al año, y los adaptarán cuando sea necesario.
+
+> Se modifica el apartado 3 por el art. único.21 del Real Decreto 816/2023, de 8 de noviembre. Ref. BOE-A-2023-22766
 
 > Se añade por el art. único.36 del Real Decreto 83/2015, de 13 de febrero. Ref. BOE-A-2015-1454.
