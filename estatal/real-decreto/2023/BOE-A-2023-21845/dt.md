@@ -1,0 +1,3 @@
+## Disposición transitoria única. Habilitación para la realización de controles.
+
+Quienes dispongan de habilitaciones otorgadas al amparo de lo establecido en el Real Decreto 641/2009, de 17 de abril, por el que se regulan los procesos de control del dopaje y los laboratorios de análisis autorizados, y por el que se establecen medidas complementarias de prevención del dopaje y de protección de la salud en el deporte, seguirán actuando como Agentes de control del dopaje durante el plazo de vigencia de aquellas. Una vez concluido este, su renovación o en su caso la obtención de una nueva habilitación se ajustará a lo previsto en la sección 2.ª del capítulo III del título III del reglamento que se aprueba mediante este real decreto.
