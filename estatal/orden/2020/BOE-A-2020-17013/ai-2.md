@@ -4,7 +4,7 @@
 
 Parte A: Zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul.
 
-Parte B: Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul.
+Parte B. Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul.
 
 Se considerará zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -26,17 +26,11 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 
 4. La Comunidad Autónoma del País Vasco.
 
-5. En la Comunidad Autónoma de Castilla y León: en la provincia de Zamora: la comarca de Zamora.
+5. En la Comunidad Autónoma de Castilla y León:
 
-6. En la Comunidad Autónoma de Galicia:
+En la provincia de Zamora: la comarca de Zamora.
 
-a) La provincia de A Coruña.
-
-b) En la provincia de Lugo: las comarcas de A Mariña Central, A Mariña Oriental, A Mariña Occidental, Terra Cha Guitiriz, Terra Cha Castro, Terra Cha Vilalba, Meira, Lugo, A Ulloa, Os Ancares y Fonsagrada.
-
-7. En la Comunidad de Madrid: las comarcas de Alcalá de Henares, Aranjuez, Arganda del Rey, Buitrago, Colmenar Viejo, El Escorial, Madrid, Torrelaguna y Villarejo de Salvanés.
-
-Parte C: Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
+Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
 
 Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
@@ -57,6 +51,14 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 3. La Comunidad Foral de Navarra.
 
 4. La Comunidad Autónoma del País Vasco.
+
+5. La Comunidad Autónoma de Galicia.
+
+6. El Principado de Asturias.
+
+7. La Comunidad Autónoma de Cantabria.
+
+> Se modifica por Resolución de 13 de noviembre de 2023. Ref. BOE-A-2023-23273
 
 > Se modifica la parte B por Resolución de 11 de octubre de 2023. Ref. BOE-A-2023-21397
 

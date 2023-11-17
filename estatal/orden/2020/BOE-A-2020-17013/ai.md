@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Zonas restringidas
+## Zonas Restringidas
 
 Parte A: Zona restringida frente al serotipo 1 del virus de la lengua azul.
 
@@ -26,27 +26,27 @@ b) En la provincia de Granada: la comarca veterinaria de Motril (Costa de Granad
 
 3. La Comunidad Autónoma de Extremadura.
 
-4. En la Comunidad Autónoma de Castilla-La Mancha:
-
-a) Las provincias de Toledo, Ciudad Real, Albacete y Cuenca.
+4. En la Comunidad Autónoma de Castilla-La Mancha: Las provincias de Toledo, Ciudad Real, Albacete y Cuenca.
 
 5. En la Comunidad Autónoma de Castilla y León:
 
-a) La provincia de Salamanca.
+a) Las provincias de Salamanca y Ávila.
 
-b) En la provincia de Ávila, las comarcas de Candeleda, El Barco de Ávila, Piedrahíta, Navarredonda de Gredos, Arenas de San Pedro, Navaluenga, El Barraco, Sotillo de la Adrada, Ávila, San Pedro del Arroyo y Cebreros.
+b) En la provincia de Zamora, las comarcas de Bermillo de Sayago, Alcañices y Puebla de Sanabria.
 
-c) En la provincia de Zamora, las comarcas de Bermillo de Sayago, Alcañices y Puebla de Sanabria.
+c) En la provincia de Segovia, las comarcas de Santa Maria Real de Nieva, Segovia, Carbonero El Mayor, Cantalejo y Villacastín.
 
-6. En la Comunidad Autónoma de Madrid, las comarcas de Valdeiglesias y Navalcarnero.
+6. La Comunidad Autónoma de Madrid.
 
-7. En la Comunidad Autónoma de Galicia:
+7. La Comunidad Autónoma de Galicia
 
-a) Provincias de Pontevedra y Ourense.
+8. El Principado de Asturias
 
-b) En la provincia de Lugo: las comarcas de Sarria, Chantada y Terra de Lemos-Quiroga.
+9. La Comunidad Autónoma de Cantabria
 
 Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul.
+
+> Se modifica por Resolución de 13 de noviembre de 2023. Ref. BOE-A-2023-23273
 
 > Se modifica la parte B por Resolución de 11 de octubre de 2023. Ref. BOE-A-2023-21397
 
