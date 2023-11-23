@@ -1,0 +1,9 @@
+Constituido el nuevo Gobierno, y tras la aprobación del Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales, se hace necesario proceder a la creación de Subsecretarías en aquellos departamentos de nueva creación.
+
+La norma se adecúa a los principios de buena regulación enumerados en el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En particular, en lo que se refiere a los principios de necesidad y eficacia, la norma atiende al fin de crear las correspondientes Subsecretarías en los departamentos ministeriales de nueva creación, de conformidad con lo dispuesto por el artículo 58.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Cumple con el principio de proporcionalidad, al recoger la regulación imprescindible para atender las necesidades que se busca cubrir. Igualmente, se ajusta al principio de seguridad jurídica, pues resulta plenamente coherente con el resto del ordenamiento jurídico. En cuanto al principio de transparencia, la norma está exenta de los trámites de consulta pública y de audiencia e información públicas, dada su naturaleza organizativa, así como por no imponer obligaciones relevantes a los destinatarios ni afectar a los derechos e intereses legítimos de las personas. Finalmente, la norma se ajusta al principio de eficiencia, ya que su aprobación no generará nuevas cargas administrativas.
+
+El presente real decreto se dicta en ejercicio de la habilitación conferida por el artículo 59.1 de la Ley 40/2015, de 1 de octubre.
+
+En su virtud, a iniciativa de los Ministros interesados, a propuesta de la Vicepresidenta Cuarta del Gobierno y Ministra de Hacienda y Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 22 de noviembre de 2023,
+
+DISPONGO:
