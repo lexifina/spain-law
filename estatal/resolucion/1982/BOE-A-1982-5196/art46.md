@@ -2,7 +2,7 @@
 
 1. Son Comisiones Permanentes Legislativas las siguientes:
 
-1. Constitucional.
+1. Comisión Constitucional.
 
 2. Comisión de Asuntos Exteriores.
 
@@ -16,15 +16,15 @@
 
 7. Comisión de Interior.
 
-8. Comisión de Transportes, Movilidad y Agenda Urbana.
+8. Comisión de Transportes y Movilidad Sostenible.
 
-9. Comisión de Educación y Formación Profesional.
+9. Comisión de Educación, Formación Profesional y Deportes.
 
-10. Comisión de Trabajo, Inclusión, Seguridad Social y Migraciones.
+10. Comisión de Trabajo, Economía Social, Inclusión, Seguridad Social y Migraciones.
 
-11. Comisión de Industria, Comercio y Turismo.
+11. Comisión de Industria y Turismo.
 
-12. Comisión de Derechos Sociales y Políticas Integrales de la Discapacidad.
+12. Comisión de Derechos Sociales y Consumo.
 
 13. Comisión de Agricultura, Pesca y Alimentación.
 
@@ -32,17 +32,21 @@
 
 15. Comisión de Transición Ecológica y Reto Demográfico.
 
-16. Comisión de Cultura y Deporte.
+16. Comisión de Vivienda y Agenda Urbana.
 
-17. Comisión de Asuntos Económicos y Transformación Digital.
+17. Comisión de Cultura.
 
-18. Comisión de Sanidad y Consumo.
+18. Comisión de Economía, Comercio y Transformación Digital.
 
-19. Comisión de Ciencia, Innovación y Universidades.
+19. Comisión de Sanidad.
 
-20. Comisión de Cooperación Internacional para el Desarrollo.
+20. Comisión de Ciencia, Innovación y Universidades.
 
-21. Comisión de Igualdad.
+21. Comisión de Cooperación Internacional para el Desarrollo.
+
+22. Comisión de Igualdad.
+
+23. Comisión de Juventud e Infancia.
 
 2. Son también Comisiones Permanentes aquellas que deban constituirse por disposición legal y las siguientes:
 
@@ -53,6 +57,8 @@
 3ª. Peticiones.
 
 3. Las Comisiones Permanentes a que se refieren los apartados anteriores deberán constituirse dentro de los diez días siguientes a la sesión constitutiva del Congreso.
+
+> Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 28 de noviembre de 2023. Ref. BOE-A-2023-24510
 
 > Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 15 de septiembre de 2021. Ref. BOE-A-2021-15094
 
