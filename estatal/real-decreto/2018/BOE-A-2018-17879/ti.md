@@ -1,3 +1,0 @@
-## TÍTULO I
-
-## Mercados regulados
