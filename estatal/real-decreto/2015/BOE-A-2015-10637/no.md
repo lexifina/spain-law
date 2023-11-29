@@ -1,1 +1,3 @@
+Norma derogada, con efectos de 29 de noviembre de 2023, por la disposición derogatoria única.3 del Real Decreto 814/2023, de 8 de noviembre. Ref. BOE-A-2023-22764#dd
+
 Esta norma pasa a denominarse "Real Decreto 878/2015, de 2 de octubre, sobre registro, compensación y liquidación de valores negociables representados mediante anotaciones en cuenta, sobre el régimen jurídico de los depositarios centrales de valores y de las entidades de contrapartida central y sobre requisitos de transparencia de los emisores de valores admitidos a negociación en un mercado secundario oficial", según establece el art. único.1 del Real Decreto 827/2017, de 1 de septiembre. Ref. BOE-A-2017-10141
