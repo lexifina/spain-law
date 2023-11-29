@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen transitorio relativo a la autorización de las entidades de crédito a que se refiere el artículo 4, apartado 1, punto 1, letra b), del Reglamento (UE) n.º 575/2013.
+
+La CNMV informará al Banco de España cuando el valor total previsto de los activos de una empresa que haya solicitado autorización con arreglo a la normativa aplicable antes del 25 de diciembre de 2019, a fin de realizar las actividades de negociación por cuenta propia y el aseguramiento de instrumentos financieros o colocación de instrumentos financieros sobre la base de un compromiso firme, sea igual o superior a 30.000 millones de euros. La CNMV también se lo notificará a la empresa solicitante.
