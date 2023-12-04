@@ -43,6 +43,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma 23](n2-5.md)
 - [Norma 24](n2-6.md)
 - [Norma 25](n2-7.md)
+- [Norma 25 bis](n2-9.md)
 - [CAPÍTULO 5](c5.md)
 - [Norma 26](n2-8.md)
 - [Disposición transitoria primera](dt.md)

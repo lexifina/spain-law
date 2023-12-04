@@ -100,6 +100,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Norma 62](n6-4.md)
 - [Norma 63](n6-5.md)
 - [Norma 64](n6-6.md)
+- [Norma 64 bis](n6-12.md)
+- [Norma 64 ter](n6-13.md)
 - [Norma 65](n6-7.md)
 - [Norma 66](n6-8.md)
 - [Norma 67](n6-9.md)
