@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Integración de los registros de facturación en los libros registro.
+
+Dentro del plazo señalado en el segundo párrafo de la disposición final cuarta de este real decreto, se desarrollará la posibilidad de integrar los registros de facturación generados y remitidos a la Agencia Estatal de Administración Tributaria por medio de los «Sistemas de emisión de facturas verificables» en el contenido del libro registro de facturas expedidas que se regula en el Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, y, del mismo modo, se podrá desarrollar dicha posibilidad respecto de los libros registros de ventas e ingresos, y de ingresos, a que se refiere el artículo 68 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo.
+
+A los efectos del párrafo anterior, la Agencia Estatal de Administración Tributaria pondrá a disposición de los usuarios de «Sistemas de emisión de facturas verificables», de forma conjunta, la información que le sea remitida de las facturas expedidas y facilitará las herramientas necesarias que permitan completar en la sede electrónica la llevanza de los libros registros mencionados.
+
+Los destinatarios de las facturas cuya información haya sido remitida por «Sistemas de emisión de facturas verificables», además de poder verificar en línea la información de esas facturas recibidas, podrán descargarla para integrarla en sus libros registros.
