@@ -1,0 +1,9 @@
+## Disposición transitoria tercera. Régimen transitorio de los servicios comunes.
+
+1. Los servicios comunes de los ministerios en los que se hayan producido transferencias de actividad a otros departamentos ministeriales que actualmente no cuenten con servicios comunes propios seguirán prestando dichos servicios a los Ministerios a los que correspondan dichas áreas de actividad, hasta tanto se desarrolle la estructura orgánica básica de los ministerios y se establezca la distribución de efectivos, con independencia de las medidas iniciales, transitorias y de carácter inmediato que pueda adoptar la Secretaria de Estado de Función Pública para garantizar el correcto funcionamiento de los nuevos departamentos ministeriales.
+
+2. Los órganos directivos de la suprimida Subsecretaría de Transportes, Movilidad y Agenda Urbana quedan adscritos a la Subsecretaría del Ministerio de Transportes y Movilidad Sostenible. Dichos órganos directivos seguirán prestando servicios al Ministerio de Vivienda y Agenda Urbana, hasta tanto se desarrolle la estructura orgánica básica de los ministerios y se establezca la distribución de efectivos.
+
+3. Los órganos directivos de la suprimida Subsecretaría de Asuntos Económicos y Transformación Digital quedan adscritos a la Subsecretaría del Ministerio de Economía, Comercio y Empresa. Dichos órganos directivos seguirán prestando servicios al Ministerio de Transformación Digital, hasta tanto se desarrolle la estructura orgánica básica de los ministerios y se establezca la distribución de efectivos.
+
+4. Los órganos directivos de la suprimida Subsecretaría de Derechos Sociales y Agenda 2030 quedan adscritos a la Subsecretaría del Ministerio de Derechos Sociales, Consumo y Agenda 2030. Dichos órganos directivos seguirán prestando servicios al Ministerio de Juventud e Infancia, hasta tanto se desarrolle la estructura orgánica básica de los ministerios y se establezca la distribución de efectivos.
