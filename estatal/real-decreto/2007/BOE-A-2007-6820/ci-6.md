@@ -1,6 +1,8 @@
 ## CAPÍTULO I
 
-## Régimen especial aplicable a los trabajadores desplazados a territorio español
+## Régimen especial aplicable a los trabajadores, profesionales, emprendedores e inversores desplazados a territorio español.
+
+> Se modifica por el art. 1.6 del Real Decreto 1008/2023, de 5 de diciembre. Ref. BOE-A-2023-24841
 
 > Se añade por el art. 1.31 del Real Decreto 633/2015, de 10 de julio. Ref. BOE-A-2015-7770.
 

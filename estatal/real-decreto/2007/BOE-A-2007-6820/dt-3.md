@@ -1,0 +1,9 @@
+## Disposición transitoria vigésima. Plazo para el ejercicio de la opción por el régimen especial del artículo 93 de la Ley del Impuesto sobre la Renta de las Personas Físicas.
+
+El plazo para el ejercicio de la opción por el régimen especial previsto en el artículo 93 de la Ley del Impuesto para los contribuyentes que adquieran su residencia fiscal en España en el período impositivo 2023, como consecuencia de un desplazamiento realizado a territorio español en 2022 o en 2023 antes de la entrada en vigor de la Orden por la que la persona titular del Ministerio de Hacienda y Función Pública apruebe el modelo de comunicación de la opción, será de seis meses desde la fecha de entrada en vigor de dicha Orden, salvo cuando el artículo 116 de este reglamento le otorgue un plazo superior.
+
+En el supuesto de que el desplazamiento a que se refiere el párrafo anterior hubiera venido determinado por el inicio de una relación laboral, ordinaria o especial, o estatutaria con un empleador en España, por venir ordenado por su empleador o cuando sin ser ordenado, la actividad laboral se preste a distancia, o como consecuencia de la adquisición de la condición de administrador de una entidad, también podrán ejercer la opción por el citado régimen especial con anterioridad a la fecha de entrada en vigor de la Orden señalada en el párrafo anterior, aplicando a tal efecto el artículo 119 de este reglamento en su redacción vigente a 31 de diciembre de 2022.
+
+No obstante, en el caso de los trabajadores que presten a servicios a distancia a que se refiere el párrafo anterior deberán remitir a la Agencia Estatal de Administración Tributaria la documentación prevista en el artículo 119 de este reglamento, en el plazo establecido en el primer párrafo de este apartado.
+
+> Se añade por el art. 1.15 del Real Decreto 1008/2023, de 5 de diciembre. Ref. BOE-A-2023-24841
