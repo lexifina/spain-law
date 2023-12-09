@@ -30,6 +30,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO IV](ci-4.md)
 - [CAPÍTULO IV bis](ci-5.md)
 - [CAPÍTULO IV ter](ci-6.md)
+- [CAPÍTULO IV quater](ci-7.md)
 - [CAPÍTULO V](cv.md)
 - [CAPÍTULO VI](cv-2.md)
 - [CAPÍTULO VII](cv-3.md)
