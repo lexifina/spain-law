@@ -1,0 +1,1 @@
+Téngase en cuenta que se dejan sin efecto las delegaciones previstas en esta Orden que se opongan a lo establecido en la Orden PJC/1327/2023, de 11 de diciembre, según establece su apartado séptimo. Ref. BOE-A-2023-25247
