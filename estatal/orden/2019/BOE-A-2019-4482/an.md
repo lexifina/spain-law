@@ -112,11 +112,11 @@ Cuando exista diferencia entre la valoración del destino del evaluado o, en su 
 
 D) «Otras situaciones».
 
-1.º Puntuación: Se valorará cada día entre 0,004 y 0,007 puntos.
+1.º Puntuación: Se valorará cada día entre 0,005 y 0,014 puntos.
 
-2.º Normas para la valoración: Se valorará el tiempo permanecido en situación de activo sin ocupación de un puesto de trabajo. No obstante, tendrá una puntuación menor que la anterior cuando sea consecuencia del cese en un destino por alguna de las causas recogidas en los artículos 62 y 63 del Reglamento de destinos del personal de la Guardia Civil, aprobado por Real Decreto 848/2017, de 22 de septiembre.
+2.º Normas para la valoración: Se valorará el tiempo permanecido en situación de activo sin ocupación de un puesto de trabajo.
 
-También se valorará el tiempo permanecido en las situaciones administrativas en que compute como tiempo de servicios, de acuerdo con lo previsto en el artículo 3 a) del Reglamento, pero no puntuará el tiempo transcurrido que no compute como de servicios.
+También se valorará el tiempo permanecido en las situaciones administrativas en que compute como tiempo de servicios, de acuerdo con lo previsto en el artículo 3.a) del Reglamento, pero no puntuará el tiempo transcurrido que no compute como de servicios.
 
 El tiempo permanecido en las situaciones administrativas de excedencia por razón de violencia de género o por la consideración de víctima del terrorismo que compute como tiempo de servicio, en los términos establecidos en el artículo 90, apartados 6 y 8, respectivamente, de la Ley 29/2014, de 28 de noviembre, de Régimen del Personal de la Guardia Civil, se valorará con la misma puntuación del último puesto de trabajo que se hubiera ocupado.
 
@@ -270,35 +270,40 @@ La puntuación de este elemento de valoración se obtendrá a partir de las punt
 
 La valoración específica de cada concepto, así como el valor de los factores de ponderación, y a aplicar, corresponderá al Director General de la Guardia Civil, de acuerdo con los criterios generales establecidos.
 
-1.4 Grupo 4 «Notas desfavorables»: La información correspondiente a este grupo de valoración negativo se obtendrá conforme se detalla a continuación:
+1.4 Grupo 4 “Otros elementos de valoración”: La información correspondiente a este grupo de valoración se obtendrá conforme se detalla a continuación:
 
-1.4.1 «Penas por delitos»: Por cada pena principal impuesta por delito contemplado en el Código Penal Militar que figure anotada en la hoja de servicios en el momento de la evaluación se detraerán los siguientes puntos:
+1.4.1 “Pruebas físicas”: La persona titular de la Dirección General de la Guardia Civil determinará la valoración vinculada a la superación de las pruebas físicas periódicas y voluntarias establecidas para la promoción y mejora de la salud en el Cuerpo.
 
-– Penas graves: 10.
+1.4.2 “Notas desfavorables”:
 
-– Penas menos graves: 8.
+A) “Penas por delitos”: Por cada pena principal impuesta por delito contemplado en el Código Penal Militar que figure anotada en la hoja de servicios en el momento de la evaluación se detraerán los siguientes puntos:
+
+– Penas graves: 10 puntos.
+
+– Penas menos graves: 8 puntos.
 
 Por cada pena principal impuesta por delitos distintos a los del Código Penal Militar que figure anotada en la hoja de servicios en el momento de la evaluación se detraerán los puntos que a continuación se indican, siguiendo la gradación prevista para las penas por el Código Penal Ordinario:
 
-– Penas graves: 10.
+– Penas graves: 10 puntos.
 
-– Penas menos graves: 8.
+– Penas menos graves: 8 puntos.
 
-– Penas leves: 6.
+– Penas leves: 6 puntos.
 
-1.4.2 «Sanciones disciplinarias». Por cada sanción disciplinaria por falta muy grave que figure anotada en la hoja de servicios en el momento de la evaluación se detraerán 5 puntos.
+B) “Sanciones disciplinarias”: Por cada sanción disciplinaria por falta muy grave que figure anotada en la hoja de servicios en el momento de la evaluación se detraerán 5 puntos.
 
 Por cada sanción disciplinaria por falta grave que figure anotada en la hoja de servicios en el momento de la evaluación se detraerán 4 puntos.
 
-1.4.3 Puntuación del grupo 4 de valoración: La puntuación negativa absoluta de este grupo de valoración se obtendrá de la suma de las puntuaciones asignadas a los elementos que lo integran, aplicando la fórmula siguiente:
+1.4.3 Puntuación del grupo 4 de valoración: La puntuación absoluta de este grupo de valoración se obtendrá de la suma de las puntuaciones asignadas a los elementos que lo integran, aplicando la fórmula siguiente:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2019/74/04482_7172.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/297/25285_13882574_1.png)
 
-P4 Puntuación del grupo 4 de valoración.
-
-p41 Puntuación negativa de las penas por delitos.
-
-p42 Puntuación negativa de las sanciones disciplinarias.
+| P4 | Puntuación del grupo 4 de valoración. |
+| --- | --- |
+| p41 | Puntuación del elemento “Pruebas Físicas”. |
+| p42 | Puntuación del elemento “Notas Desfavorables”. |
+| p42A | Puntuación de las penas por delitos. |
+| p42B | Puntuación de las sanciones disciplinarias. |
 
 2. Proceso de normalización
 
@@ -308,11 +313,31 @@ a) La puntuación del grupo 1 «Evaluación del desempeño» se normalizará en 
 
 b) La puntuación del elemento «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español» se normalizará para cada uno de los conceptos que lo integran.
 
-c) No se normalizará la puntuación resultante del grupo 4 «Notas desfavorables».
+c) No se normalizará la puntuación resultante del grupo 4 “Otros elementos de valoración”.
 
 La fórmula a aplicar para la normalización es:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2019/74/04482_7260.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/297/25285_13882574_2.png)
+
+| Pn | Puntuación normalizada del grupo o elemento de valoración. |
+| --- | --- |
+| Pe | Puntuación absoluta del evaluado, donde: |
+|  | para Pe > Usup, Pe = Usup |
+|  | para Pe < Uinf, Pe = Uinf |
+| Uinf | Umbral inferior de normalización |
+| Usup | Umbral superior de normalización. |
+
+d) Cuando una vez ejecutado el proceso de normalización, si como consecuencia de una modificación de las normas de valoración específica de méritos y aptitudes en los procesos de evaluación de la Guardia Civil, el personal que obtiene la puntuación normalizada máxima de 20 en un determinado grupo, elemento o concepto de valoración supere el 20 % del total de personas evaluadas, el órgano de evaluación procederá conforme a las siguientes reglas.
+
+1.º Para la evaluación que corresponda, se calculará la puntuación normalizada media sin limitar en el grupo, elemento o concepto que se trate, durante los cuatro anteriores ciclos de evaluaciones (Pn4).
+
+2.º Posteriormente, se calculará la Pn media sin limitar correspondiente al conjunto del personal evaluado en ese grupo, elemento o concepto (Pnms).
+
+3.º Se calculará el cociente Pn4/Pnms, obteniéndose el valor k correspondiente a un coeficiente de corrección.
+
+4.º Se multiplicarán las puntuaciones normalizadas sin limitar (Pns) de cada evaluado o evaluada por el valor del coeficiente k, obteniéndose unas puntuaciones normalizadas corregidas (Pn´) a las que se aplicarán los límites máximos (20 puntos) y mínimo (10 puntos) que establece la norma.
+
+Pn´i = Pnsi x k.
 
 2.2 Cálculo de umbrales.
 
@@ -320,33 +345,134 @@ La fórmula a aplicar para la normalización es:
 
 Con arreglo a la fórmula prevista, los evaluados cuyas puntuaciones absolutas no alcancen el umbral inferior o coincidan con él, obtendrán una puntuación normalizada de 10. Del mismo modo, los evaluados cuyas puntuaciones alcancen o superen el umbral superior, obtendrán una puntuación normalizada de 20.
 
-2.2.2 Determinación de los umbrales: El Director General de la Guardia Civil determinará el valor de los umbrales de normalización superior (Usup) e inferior (Uinf) para cada grupo y elemento de valoración afectados, así como para los conceptos que integran el elemento de «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español».
+2.2.2 Determinación de umbrales: La persona titular de la Dirección General de la Guardia Civil, determinará el valor de los umbrales de normalización superior (Usup) e inferior (Uinf) para cada grupo y elemento de valoración afectados, así como para los conceptos que integran el elemento de “Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español”.
 
 Los umbrales superiores se fijarán, con periodicidad anual, en un valor entre el percentil 99 y el 70, calculados a partir de las puntuaciones absolutas obtenidas en las evaluaciones realizadas para los cuatro ciclos de ascenso previos, por empleos y Escalas, para cada concepto, elemento o grupo de valoración afectados. Los valores de los umbrales inferiores se concretarán, con igual periodicidad, entre el percentil 20 y el 1 de la misma muestra.
 
 Cuando, como resultado de los cálculos descritos en el párrafo anterior, para el ascenso a un empleo determinado se obtenga un umbral superior igual a cero en alguno de los elementos o conceptos descritos en el capítulo III, y con el fin de poder valorar los méritos y aptitudes afectados, se podrán aplicar umbrales obtenidos para el ascenso al empleo inmediato superior.
 
-En las evaluaciones para la selección de los asistentes a un curso de capacitación para el ascenso, o a los cursos de especialización y de altos estudios que se determinen, se aplicarán los umbrales establecidos para las evaluaciones para el ascenso al empleo inmediatamente superior de los evaluados.
+En las evaluaciones para la selección de los asistentes a un curso de capacitación para el ascenso, se aplicarán los mismos umbrales que se establecen para las evaluaciones para el ascenso al empleo para cuyo desempeño capacita el curso, con la única excepción del Curso de Actualización para el Desempeño de los Cometidos de Oficial General (CADCOG), para el que el valor de los umbrales de normalización se calculará a partir de las puntuaciones absolutas obtenidas en las evaluaciones realizadas para la selección de asistentes a las cuatro ediciones previas del curso.
+
+En las evaluaciones para la selección de asistentes a los cursos de especialización y de altos estudios profesionales que se determinen, se aplicarán los mismos umbrales que se establecen para las evaluaciones para el ascenso al empleo inmediatamente superior del personal evaluado, si ostentara el mismo; y en caso contrario, para el ascenso al empleo al que, preferentemente, vaya dirigido el curso, de acuerdo con la convocatoria. En el caso de la selección de asistentes al Curso de Estado Mayor de las Fuerzas Armadas (CEMFAS), resultarán de aplicación los umbrales de referencia para evaluar el ascenso a comandante de la Escala de Oficiales.
 
 3. Ponderación y puntuación final
 
 3.1 Proceso de ponderación: Una vez normalizada la puntuación de los grupos y elementos de valoración afectados, conforme a las reglas del apartado anterior, se someterá el conjunto al proceso de ponderación que se recoge en el artículo 22.
 
-Los factores de ponderación a aplicar al grupo 1, los resultantes de los grupos 2 y 3, y los factores específicos correspondientes a cada elemento de valoración serán fijados para cada tipo de evaluación por el Director General de la Guardia Civil, dentro de los intervalos fijados en la matriz de ponderación, y de acuerdo con los límites que se establecen en el artículo 22.3.
+Los factores de ponderación a aplicar al grupo 1, los resultantes de los grupos 2 y 3, y los factores específicos correspondientes a cada elemento de valoración serán fijados para cada tipo de evaluación por la persona titular de la Dirección General de la Guardia Civil, dentro de los intervalos fijados en las matrices de ponderación, y de acuerdo con los límites que se establecen en el artículo 22.3.
 
-Matriz de ponderación
+Matrices de ponderación
 
-| Grupos de valoración | Elementos de valoración | Finalidad de las evaluaciones |
+Matriz de ponderación Escala de Oficiales
+
+| Grupos de valoración | Elementos de valoración | Empleo al que se asciende |
 | --- | --- | --- |
-| Ascenso por elección Selección de asistentes a cursos de capacitación – Porcentaje | Ascenso por clasificación – Porcentaje | Selección de asistentes a cursos de especialización y de altos estudios profesionales – Porcentaje |
-| Grupo 1 «Evaluación del desempeño» | «Competencias de carácter profesional y personal». | 25-30 | 22-27 | 20-25 |
+| Comandante – Porcentaje | Teniente Coronel – Porcentaje | Coronel – Porcentaje | General de Brigada – Porcentaje |
+| Grupo 1 «Evaluación del desempeño». | «Competencias de carácter profesional y personal». | 22-27 | 22-27 | 25-30 | 25-30 |
 | «Competencias profesionales directivas». |
 | «Prestigio profesional». |
-| Grupo 2 «Trayectoria profesional» | «Destinos y situaciones». | 35-45 | 40-50 | 35-45 |
+| Grupo 2 «Trayectoria profesional». | «Destinos y situaciones». | 30-50 | 30-50 | 35-50 | 35-50 |
 | «Méritos y recompensas». |
-| Grupo 3 «Perfil académico» | «Enseñanza de formación y cursos de capacitación». | 20-30 | 25-35 | 30-40 |
+| Grupo 3 «Perfil académico». | «Enseñanza de formación y cursos de capacitación». | 25-40 | 25-40 | 20-35 | 20-35 |
 | «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español». |
-| Grupo 4 «Notas desfavorables» | «Penas por delitos». | Sin ponderación |
+| Grupo 4 «Otros elementos de valoración». | «Pruebas físicas». | Sin ponderación |
+| «Penas por delitos». |
+| «Sanciones disciplinarias». |
+
+Matriz de Ponderación Escala Facultativa Superior
+
+| Grupos de valoración | Elementos de valoración | Empleo al que se asciende |
+| --- | --- | --- |
+| Comandante – Porcentaje | Teniente Coronel – Porcentaje | Coronel – Porcentaje |
+| Grupo 1 «Evaluación del desempeño». | «Competencias de carácter profesional y personal». | 22-27 | 22-27 | 25-30 |
+| «Competencias profesionales directivas». |
+| «Prestigio profesional». |
+| Grupo 2 «Trayectoria profesional». | «Destinos y situaciones». | 35-50 | 35-50 | 35-45 |
+| «Méritos y recompensas». |
+| Grupo 3 «Perfil académico». | «Enseñanza de formación y cursos de capacitación». | 25-40 | 25-40 | 20-35 |
+| «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español». |
+| Grupo 4 «Otros elementos de valoración». | «Pruebas físicas». | Sin ponderación. |
+| «Penas por delitos». |
+| «Sanciones disciplinarias». |
+
+Matriz de ponderación Escala de Oficiales Ley 42/1999
+
+| Grupos de valoración | Elementos de valoración | Empleo al que se asciende |
+| --- | --- | --- |
+| Comandante – Porcentaje | Teniente Coronel – Porcentaje |
+| Grupo 1 «Evaluación del desempeño». | «Competencias de carácter profesional y personal». | 22-27 | 25-30 |
+| «Competencias profesionales directivas». |
+| «Prestigio profesional». |
+| Grupo 2 «Trayectoria profesional». | «Destinos y situaciones». | 35-50 | 35-50 |
+| «Méritos y recompensas». |
+| Grupo 3 «Perfil académico». | «Enseñanza de formación y cursos de capacitación». | 25-40 | 20-35 |
+| «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español». |
+| Grupo 4 «Otros elementos de valoración». | «Pruebas físicas». | Sin ponderación. |
+| «Penas por delitos». |
+| «Sanciones disciplinarias». |
+
+Matriz de ponderación Escala Facultativa Técnica
+
+| Grupos de valoración | Elementos de valoración | Empleo al que se asciende |
+| --- | --- | --- |
+| Comandante – Porcentaje | Teniente Coronel – Porcentaje |
+| Grupo 1 «Evaluación del desempeño». | «Competencias de carácter profesional y personal». | 22-27 | 25-30 |
+| «Competencias profesionales directivas». |
+| «Prestigio profesional». |
+| Grupo 2 «Trayectoria profesional». | «Destinos y situaciones». | 35-50 | 35-45 |
+| «Méritos y recompensas». |
+| Grupo 3 «Perfil académico». | «Enseñanza de formación y cursos de capacitación». | 20-35 | 20-35 |
+| «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español». |
+| Grupo 4 «Otros elementos de valoración». | «Pruebas físicas». | Sin ponderación. |
+| «Penas por delitos». |
+| «Sanciones disciplinarias». |
+
+Matriz de ponderación Escala de Suboficiales
+
+| Grupos de valoración | Elementos de valoración | Empleo al que se asciende |
+| --- | --- | --- |
+| Brigada – Porcentaje | Subteniente – Porcentaje | Suboficial Mayor – Porcentaje |
+| Grupo 1 «Evaluación del desempeño». | «Competencias de carácter profesional y personal». | 22-27 | 22-27 | 25-30 |
+| «Competencias profesionales directivas». |
+| «Prestigio profesional». |
+| Grupo 2 «Trayectoria profesional». | «Destinos y situaciones». | 35-50 | 35-50 | 35-45 |
+| «Méritos y recompensas». |
+| Grupo 3 «Perfil académico». | «Enseñanza de formación y cursos de capacitación». | 25-40 | 25-40 | 20-35 |
+| «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español». |
+| Grupo 4 «Otros elementos de valoración». | «Pruebas físicas». | Sin ponderación. |
+| «Penas por delitos». |
+| «Sanciones disciplinarias». |
+
+Matriz de ponderación Escala de Cabos y Guardias
+
+| Grupos de valoración | Elementos de valoración | Empleo al que se asciende |
+| --- | --- | --- |
+| Cabo Mayor – Porcentaje |
+| Grupo 1 «Evaluación del desempeño». | «Competencias de carácter profesional y personal». | 25-30 |
+| «Competencias profesionales directivas». |
+| «Prestigio profesional». |
+| Grupo 2 «Trayectoria profesional». | «Destinos y situaciones». | 35-45 |
+| «Méritos y recompensas». |
+| Grupo 3 «Perfil académico». | «Enseñanza de formación y cursos de capacitación». | 20-35 |
+| «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español». |
+| Grupo 4 «Otros elementos de valoración». | «Pruebas físicas». | Sin ponderación. |
+| «Penas por delitos». |
+| «Sanciones disciplinarias». |
+
+Matriz de ponderación selección de asistentes a cursos
+
+| Grupos de valoración | Elementos de valoración | Tipo de enseñanza |
+| --- | --- | --- |
+| Capacitación – Porcentaje | Especialización y Altos Estudios Profesionales – Porcentaje |
+| Grupo 1 «Evaluación del desempeño». | «Competencias de carácter profesional y personal». | 25-30 | 20-25 |
+| «Competencias profesionales directivas». |
+| «Prestigio profesional». |
+| Grupo 2 «Trayectoria profesional». | «Destinos y situaciones». | 35-45 | 35-45 |
+| «Méritos y recompensas». |
+| Grupo 3 «Perfil académico». | «Enseñanza de formación y cursos de capacitación». | 20-30 | 30-40 |
+| «Cursos de especialización y de altos estudios profesionales, idiomas y titulaciones del sistema educativo español». |
+| Grupo 4 «Otros elementos de valoración». | «Pruebas físicas». | Sin ponderación. |
+| «Penas por delitos». |
 | «Sanciones disciplinarias». |
 
 3.2 Puntuación definitiva: Como resultado de aplicar la ponderación a los grupos y elementos de valoración, se obtendrá la puntuación preliminar de cada evaluado, de acuerdo con la fórmula siguiente:
@@ -370,5 +496,7 @@ Donde la suma de los factores de ponderación es:
 ![imagen](https://www.boe.es/datos/imagenes/disp/2019/74/04482_7408.png)
 
 La puntuación preliminar, tras ser sometida al estudio de detalle reflejado en el artículo 24.3, dará como resultado la puntuación definitiva para cada evaluado, salvo lo recogido en el artículo 24.4 para el ascenso al empleo de General de Brigada. La cifra resultante de la puntuación definitiva, con un máximo de 100 puntos, contendrá tantos decimales como resulten necesarios, tras aplicar las reglas generales de redondeo, para determinar el orden de prelación.
+
+> Se modifica por el art. único.20 a 26 de la Orden PJC/1328/2023, de 11 de diciembre. Ref. BOE-A-2023-25285
 
 > Se modifica la matriz de ponderación del epígrafe 3 por la disposición final 1 de la Orden PCM/62/2022, de 2 de febrero. Ref. BOE-A-2022-1832#df

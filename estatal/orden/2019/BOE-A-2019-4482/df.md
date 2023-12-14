@@ -16,8 +16,12 @@ f) Establecer la valoración del elemento «Cursos de especialización y de alto
 
 g) Determinar el procedimiento para aplicar el estudio de detalle contemplado en el artículo 24.2.
 
-h) Establecer, dentro de los márgenes establecidos en el artículo 24.3, el límite para la variación de la puntuación preliminar que podrá llevar a cabo la Junta de Evaluación en las evaluaciones por clasificación.
+h) Establecer, dentro de los márgenes dispuestos en el artículo 24.3, el límite para la variación de la puntuación preliminar que podrá llevar a cabo el órgano de evaluación en las evaluaciones para el ascenso por clasificación y en las evaluaciones para la selección de asistentes a los cursos de capacitación.
 
 i) Establecer y actualizar los umbrales que determinan la normalización de los grupos y elementos de valoración afectados, de acuerdo con lo que se dispone en esta orden.
 
 j) Definir y desarrollar, en su caso, los informes o encuestas que, con carácter complementario, se consideren necesarios para la valoración del prestigio y capacidad de liderazgo.
+
+k) Determinar la valoración del elemento “Pruebas físicas”.
+
+> Se modifica la letra h) y se añade la letra k) por el art. único.18 y 19 de la Orden PJC/1328/2023, de 11 de diciembre. Ref. BOE-A-2023-25285
