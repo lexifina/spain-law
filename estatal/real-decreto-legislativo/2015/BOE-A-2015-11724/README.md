@@ -573,6 +573,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional quincuagésima primera](da-27.md)
 - [Disposición adicional quincuagésima segunda](da-28.md)
 - [Disposición adicional quincuagésima tercera](da-29.md)
+- [Disposición adicional quincuagésima quinta](da-31.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)

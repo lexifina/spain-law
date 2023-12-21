@@ -1,0 +1,9 @@
+## Artículo tercero. Modificación del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre.
+
+Se modifica el artículo 47 del texto refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por el Real Decreto Legislativo 5/2015, de 30 de octubre, que queda redactado en los siguientes términos:
+
+> «Artículo 47. Jornada de trabajo de los funcionarios públicos.
+
+> 1. Las Administraciones Públicas establecerán la jornada general y las especiales de trabajo de sus funcionarios públicos. La jornada de trabajo podrá ser a tiempo completo o a tiempo parcial.
+
+> 2. Las Administraciones Públicas adoptarán medidas de flexibilización horaria para garantizar la conciliación de la vida familiar y laboral de los empleados públicos que tengan a su cargo a hijos e hijas menores de doce años, así como de los empleados públicos que tengan necesidades de cuidado respecto de los hijos e hijas mayores de doce años, el cónyuge o pareja de hecho, familiares por consanguinidad hasta el segundo grado, así como de otras personas que convivan en el mismo domicilio, y que por razones de edad, accidente o enfermedad no puedan valerse por sí mismos.»

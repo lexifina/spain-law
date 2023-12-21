@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 278 de 20 de noviembre de 2015. Ref. BOE-A-2015-12525.
+Téngase en cuenta el desarrollo de este texto refundido en el ámbito de la Administración del Estado en materia de planificación estratégica de recursos humanos, acceso al empleo público, evaluación del desempeño, carrera profesional y régimen del personal directivo, efectuado por el libro segundo del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#ls

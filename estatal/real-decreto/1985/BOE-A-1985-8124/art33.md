@@ -14,7 +14,13 @@ El plazo máximo para resolver el procedimiento y notificar la resolución será
 
 Cuando la empresa deba de responder de la devolución de las cantidades indebidamente percibidas por la persona trabajadora, en cuanto responsable solidaria o directa, de conformidad con lo dispuesto en los arts. 23.2 y 43.3 del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, se seguirá el procedimiento previsto en los apartados anteriores.
 
+3 bis. En aplicación de los principios de economía y eficacia administrativa, podrá no iniciarse el procedimiento de reintegro previsto en este artículo cuando el importe de una deuda sea inferior a la cantidad que determine el Ministerio de Trabajo y Economía Social como insuficiente para la cobertura del coste que su exacción y recaudación represente, y si tal circunstancia sobreviniese con posterioridad a su inicio, se pondrá fin al procedimiento en los términos y condiciones que aquél establezca, con los efectos previstos en el apartado 2 del artículo 116 del Texto Refundido de la Ley General de la Seguridad Social.
+
 4. Contra la resolución de la Dirección Provincial del Servicio Público de Empleo Estatal que exija el reintegro de las cantidades indebidamente percibidas, el trabajador o el empresario, en su caso, podrán interponer, en el plazo de treinta días contados a partir del día siguiente al de la notificación, reclamación previa en los términos establecidos en el artículo 71 de la Ley reguladora de la jurisdicción social.
+
+> Se añade el apartado 3 bis por la disposición final 2.1 del Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2023-25759#df-2
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 3, de 3 de enero de 2024. Ref. BOE-A-2024-135
 
 > Se modifica por la disposición final 8.1 del Real Decreto-ley 1/2023, de 10 de enero. Ref. BOE-A-2023-625#df-8
 
