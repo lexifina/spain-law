@@ -4,8 +4,10 @@ Para la exclusiva finalidad del ejercicio de las competencias establecidas en la
 
 A fin de asegurar el estricto cumplimiento de la legislación de protección de datos de carácter personal, los accesos se realizarán con las máximas medidas de seguridad. A estos efectos, quedará constancia en la Dirección General de la Policía de cada acceso, la identificación de usuario, fecha y hora en que se realizó, así como de los datos consultados.
 
-Con el fin de mantener actualizados los datos de inscripción padronal de extranjeros en los padrones municipales, la Dirección General de la Policía comunicará mensualmente al Instituto Nacional de Estadística, para el ejercicio de sus competencias, los datos de los extranjeros anotados en el Registro Central de Extranjeros.
+Con el fin de mantener actualizados los datos de inscripción padronal de extranjeros en los padrones municipales, la Dirección General de la Policía, comunicará, al menos mensualmente, al Instituto Nacional de Estadística, para el ejercicio de sus competencias, los datos de los extranjeros anotados en el Registro Central de Extranjeros.
 
 Se habilita a los Ministros de Economía y del Interior para dictar las disposiciones que regulen las comunicaciones de los datos de los extranjeros anotados en el Registro Central de Extranjeros por medios electrónicos, informáticos o telemáticos al Instituto Nacional de Estadística.
+
+> Se modifica el tercer párrafo por el art. 128.8 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-40
 
 > Se añade por el art. 3.5 de la Ley Orgánica 14/2003, de 20 de noviembre. Ref. BOE-A-2003-21187
