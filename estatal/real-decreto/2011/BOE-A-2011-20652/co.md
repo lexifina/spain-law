@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2012. Ref. BOE-A-2012-1314.
+Norma derogada, con efectos de 21 de diciembre de 2023, por la disposición derogatoria única del Real Decreto 1130/2023, de 19 de diciembre. Ref. BOE-A-2023-25766#dd
