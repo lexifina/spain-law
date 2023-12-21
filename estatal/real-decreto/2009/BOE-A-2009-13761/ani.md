@@ -42,15 +42,17 @@ Museo Naval.
 
 Museo de Aeronáutica y Astronáutica.
 
-## Museo adscrito al Ministerio de Vivienda
+## Museo adscrito al Ministerio de Vivienda y Agenda Urbana
 
-Museo Nacional de Arquitectura y Urbanismo.
+La Casa de la Arquitectura.
 
 ## Museos adscritos al Ministerio de Ciencia e Innovación
 
 Museo Nacional de Ciencia y Tecnología.
 
 Museo Nacional de Ciencias Naturales.
+
+> Se modifica por la disposición final 2 del Real Decreto 1125/2023, de 19 de diciembre. Ref. BOE-A-2023-25761#df-2
 
 > Se modifica por la disposición final 1 del Real Decreto 1714/2011, de 18 de noviembre. Ref. BOE-A-2011-19300.
 
