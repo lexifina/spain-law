@@ -1,0 +1,15 @@
+El artículo 32 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo, y el artículo 37 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, establecen que el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido se aplicarán a las actividades que determine el Ministro de Hacienda y Administraciones Públicas, en la actualidad, Ministra de Hacienda y Función Pública. Por tanto, la presente orden tiene por objeto dar cumplimiento para el ejercicio 2024 a los mandatos contenidos en los mencionados preceptos reglamentarios.
+
+Esta orden mantiene la estructura de la Orden HFP/1172/2022, de 29 de noviembre, por la que se desarrollan para el año 2023 el método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y el régimen especial simplificado del Impuesto sobre el Valor Añadido.
+
+En relación con el Impuesto sobre la Renta de las Personas Físicas, se mantienen para el ejercicio 2024 la cuantía de los signos, índices o módulos, así como las instrucciones de aplicación. Asimismo, se establece una reducción del 5 por ciento sobre el rendimiento neto de módulos. Esta medida resulta aplicable a todos los contribuyentes que determinen el rendimiento neto de su actividad económica con arreglo al método de estimación objetiva.
+
+Adicionalmente, para las actividades agrícolas y ganaderas, con la finalidad de compensar el incremento del coste de determinados insumos, se establece para el período impositivo 2024 que el rendimiento neto previo podrá minorarse en el 35 por ciento del precio de adquisición del gasóleo agrícola y en el 15 por ciento del precio de adquisición de los fertilizantes, en ambos casos, necesarios para el desarrollo de dichas actividades. Estas minoraciones ya se aplicaron en 2022 y 2023.
+
+Por último, se mantiene para 2024, debido a las consecuencias de las erupciones volcánicas ocurridas en la isla de la Palma, la reducción especial, que ya se aplicó en 2022 y 2023, para las actividades económicas desarrolladas en dicha isla similar a la establecida para el término municipal de Lorca, a causa del terremoto acontecido en dicho municipio.
+
+Por lo que se refiere al Impuesto sobre el Valor Añadido, la presente orden también mantiene, para 2024, los módulos, así como las instrucciones para su aplicación, aplicables en el régimen especial simplificado en el año inmediato anterior.
+
+En cuanto a su contenido y tramitación, la presente disposición observa los principios de buena regulación conforme a los cuales deben actuar las Administraciones públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, como son los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica y eficiencia.
+
+En su virtud, dispongo:
