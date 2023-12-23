@@ -19,3 +19,7 @@ II. Títulos equivalentes al título oficial de Máster Universitario (habrán d
 Título de Máster en Teología expedido por la Facultad Protestante de Teología UEBE, en Madrid (enseñanza presencial).
 
 Título de Máster en Teología expedido por la Facultad Adventista de Teología, en Valencia (enseñanza presencial).
+
+Título de Máster en Formación Teológica para la Enseñanza Religiosa Evangélica, expedido por el Centro Superior de Enseñanza Evangélica (CSEE) (enseñanza virtual).
+
+> Se añade el último párrafo al apartado II por el art. único de la Orden CNU/1364/2023, de 14 de diciembre. Ref. BOE-A-2023-25993
