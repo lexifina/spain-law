@@ -30,6 +30,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 17](a1-9.md)
 - [Artículo 18](a1-10.md)
 - [Disposición final primera](df.md)
+- [Disposición final segunda](df-2.md)
 - [Disposición final tercera](df-3.md)
 - [Disposición final cuarta](df-4.md)
 - [(firma)](fi.md)
