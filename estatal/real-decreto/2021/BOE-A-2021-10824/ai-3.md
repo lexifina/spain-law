@@ -142,7 +142,7 @@ Para los programas de incentivos 1, 2 y 4, la subvención máxima a percibir se 
 
 Los valores de costes unitarios de instalación de referencia (Cuf), en su caso, y los costes subvencionables unitarios máximos, e intensidades de ayuda o módulos, a aplicar en cada uno de los programas, son los siguientes:
 
-Programas de incentivos 1 y 2: realización de instalaciones de autoconsumo, con fuentes de energía renovables, en el sector servicios y en otros sectores productivos de la economía, con o sin almacenamiento
+Programas de incentivos 1 y 2: Realización de instalaciones de autoconsumo, con fuentes de energía renovables, en el sector servicios y en otros sectores productivos de la economía, con o sin almacenamiento
 
 | Actuaciones de generación | Coste unitario de la instalación de referencia (Cuf, €/kW) | Coste subvencionable unitario máximo de generación (Csumg, €/kW) | % Ayuda gran empresa (aplicable sobre coste subvencionable total de generación) | % Ayuda mediana empresa (aplicable sobre coste subvencionable total de generación) | % Ayuda pequeña empresa (aplicable sobre coste subvencionable total de generación) |
 | --- | --- | --- | --- | --- | --- |
@@ -163,21 +163,21 @@ Los costes subvencionables unitarios máximos aplicables de forma complementaria
 
 El coste subvencionable unitario máximo de almacenamiento, en su caso, e intensidades de ayuda a aplicar en cada uno de los programas son los siguientes:
 
-| Actuaciones de almacenamiento | Coste subvencionable unitario máximo de almacenamiento (Csuma, €/kWh) | % Ayuda gran empresa (aplicable sobre coste subvencionable total de almacenamiento) | % Ayuda mediana empresa (aplicable sobre coste subvencionable total de almacenamiento) | % Ayuda pequeña empresa (aplicable sobre coste subvencionable total de almacenamiento) |
+| Actuaciones de almacenamiento | Coste subvencionable unitario máximo de almacenamiento (Csuma, €/kWh) | Ayuda gran empresa (aplicable sobre coste subvencionable total de almacenamiento) – Porcentaje | Ayuda mediana empresa (aplicable sobre coste subvencionable total de almacenamiento) – Porcentaje | Ayuda pequeña empresa (aplicable sobre coste subvencionable total de almacenamiento) – Porcentaje |
 | --- | --- | --- | --- | --- |
-| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (5.000 kWh < Cap ). | 200 | 45% | 55% | 65% |
-| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (100 kWh < Cap ≤ 5.000 kWh ). | 350 | 45% | 55% | 65% |
-| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (10 kWh < Cap ≤ 100 kWh). | 500 | 45% | 55% | 65% |
-| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (Cap ≤ 10 kWh). | 700 | 45% | 55% | 65% |
+| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (5.000 kWh < Cap). | 260 | 30 | 40 | 50 |
+| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (100 kWh < Cap ≤ 5.000 kWh). | 455 | 30 | 40 | 50 |
+| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (10 kWh < Cap ≤ 100 kWh). | 650 | 30 | 40 | 50 |
+| Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo (Cap ≤ 10 kWh). | 910 | 30 | 40 | 50 |
 
-Programa de incentivos 3: incorporación de almacenamiento en instalaciones de autoconsumo, con fuentes de energía renovable, ya existentes en el sector servicios y otros sectores productivos
+Programa de incentivos 3: Incorporación de almacenamiento en instalaciones de autoconsumo, con fuentes de energía renovable, ya existentes en el sector servicios y otros sectores productivos
 
-| Actuaciones de almacenamiento | Coste subvencionable unitario máximo de almacenamiento (Csuma, €/kWh) | % Ayuda gran empresa (aplicable sobre coste subvencionable total de almacenamiento) | % Ayuda mediana empresa (aplicable sobre coste subvencionable total de almacenamiento) | % Ayuda pequeña empresa (aplicable sobre coste subvencionable total de almacenamiento) |
+| Actuaciones de almacenamiento | Coste subvencionable unitario máximo de almacenamiento (Csuma, €/kWh) | Ayuda gran empresa (aplicable sobre coste subvencionable total de almacenamiento) – Porcentaje | Ayuda mediana empresa (aplicable sobre coste subvencionable total de almacenamiento) – Porcentaje | Ayuda pequeña empresa (aplicable sobre coste subvencionable total de almacenamiento) – Porcentaje |
 | --- | --- | --- | --- | --- |
-| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (5.000 kWh < Cap). | 200 | 45% | 55% | 65% |
-| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (100 kWh < Cap ≤ 5.000 kWh). | 350 | 45% | 55% | 65% |
-| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (10 kWh < Cap ≤ 100 kWh). | 500 | 45% | 55% | 65% |
-| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (Cap ≤ 10 kWh). | 700 | 45% | 55% | 65% |
+| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (5.000 kWh < Cap). | 260 | 30 | 40 | 50 |
+| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (100 kWh < Cap ≤ 5.000 kWh). | 455 | 30 | 40 | 50 |
+| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (10 kWh < Cap ≤ 100 kWh). | 650 | 30 | 40 | 50 |
+| Incorporación de almacenamiento a instalaciones de energía renovable para autoconsumo existentes en el sector servicios y otros sectores productivos (Cap ≤ 10 kWh). | 910 | 30 | 40 | 50 |
 
 Programas de incentivos 4: realización de instalaciones de autoconsumo, con fuentes de energía renovable, en el sector residencial, las Administraciones Públicas y el tercer sector, con o sin almacenamiento
 
@@ -290,5 +290,7 @@ AIII.A4 Ayuda Adicional
 | Actuaciones de almacenamiento | Módulo adicional de almacenamiento [Ayuda adicional por reto demográfico (€/kWh)] |
 | --- | --- |
 | Incorporación de almacenamiento al proyecto de instalación de energía renovable para autoconsumo en el sector residencial, las Administraciones Públicas y el tercer sector. | 15 |
+
+> Se modifica el apartado AIII.A3 por el art. 3.10 del Real Decreto 1178/2023, de 27 de diciembre. Ref. BOE-A-2023-26461
 
 > Se modifica por el art. 1.19 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122

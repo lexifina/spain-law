@@ -6,11 +6,11 @@ Con el fin de realizar un adecuado seguimiento y coordinación de los programas 
 
 Adicionalmente, para el caso de las ayudas concedidas a los destinatarios últimos de los programas de incentivos 1, 2 y 3, sometidas a los requisitos y límites establecidos en el Reglamento (UE) n.º 651/2014 de la Comisión, de 17 de junio de 2014, aplicándose la exención correspondiente a la categoría de ayudas para la protección del medio ambiente (Sección 7), será necesario aportar la información detallada del presupuesto comprometido en cada una de las actuaciones subvencionables.
 
-Del mismo modo se ofrecerá información particularizada respecto al cumplimiento de los límites, condiciones e intensidades de ayuda a otorgar establecidos en cualquier norma o reglamentación que resulte aplicable tanto al Plan de Recuperación, Transformación y Resiliencia como al Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo de 12 de febrero de 2021 por el que se establece el Mecanismo Europeo de Recuperación y Resiliencia.
+Del mismo modo, se ofrecerá información particularizada respecto al cumplimiento de los límites, condiciones e intensidades de ayuda a otorgar establecidos en cualquier norma o reglamentación que resulte aplicable tanto al Plan de Recuperación, Transformación y Resiliencia como al Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo de 12 de febrero de 2021 por el que se establece el Mecanismo Europeo de Recuperación y Resiliencia.
 
-En concreto, se asegurará una trazabilidad particularizada para los fondos y ejecución correspondiente al componente 7 (energías renovables) y al componente 8 (almacenamiento).
+En concreto, se asegurará una trazabilidad particularizada para los fondos y ejecución correspondiente al componente 7 (energías renovables), al componente 8 (almacenamiento) y al componente 31.
 
-A continuación, se detallan los campos mínimos que se podrán requerir con el fin de que se tengan en cuenta en el diseño de las convocatorias que se realicen por parte de las comunidades autónomas y ciudades de Ceuta y Melilla.
+A continuación, y a modo orientativo, se detallan los campos que se podrán requerir con el fin de que se tengan en cuenta en el diseño de las convocatorias que se realicen por parte de las comunidades autónomas y ciudades de Ceuta y Melilla.
 
 A. Información de las solicitudes de ayuda recibidas
 
@@ -271,3 +271,5 @@ f. Tratamiento dado al error encontrado.
 g. Fecha de la verificación sobre el terreno.
 
 p. Justificación del cumplimiento del principio de no causar daño significativo al medio ambiente (DNSH) de la actuación financiada.
+
+> Se modifica la introducción por el art. 3.11 del Real Decreto 1178/2023, de 27 de diciembre. Ref. BOE-A-2023-26461

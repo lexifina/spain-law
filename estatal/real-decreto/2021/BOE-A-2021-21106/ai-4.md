@@ -6,7 +6,7 @@ Con el fin de realizar un adecuado seguimiento y coordinación de los programas,
 
 En concreto, será requerida toda la información necesaria para verificar el cumplimiento de los hitos y objetivos relacionados con la presente iniciativa (objetivo CID 117) incluidos en el anexo a la Propuesta de Decisión de Ejecución del Consejo relativa a la aprobación de la evaluación del plan de recuperación y resiliencia de España {SWD(2021) 147 final} que aprueba las decisiones operativas entre la Comisión Europea y España (ANNEX to the Commission Decision approving the Operational Arrangements between the Commission and Spain pursuant to Regulation (EU) 2021/241). Para el cumplimiento de esta obligación, se prestará especial atención a la información contenida en la columna denominada Mecanismo de verificación (Verification mechanism).
 
-A continuación, en los apartados A, B y C se detallan los campos mínimos que se podrán requerir con el fin de que se tengan en cuenta en el diseño de las convocatorias que se realicen por parte de las comunidades autónomas y ciudades de Ceuta y Melilla. En el caso de inversiones directas, la información requerida se detallada en el apartado D.
+A continuación, y a modo orientativo, en los apartados A, B y C se detallan los campos que se podrán requerir con el fin de que se tengan en cuenta en el diseño de las convocatorias que se realicen por parte de las comunidades autónomas y ciudades de Ceuta y Melilla. En el caso de inversiones directas, la información se detalla en el apartado D.
 
 A. Información de las solicitudes de ayuda recibidas
 
@@ -213,5 +213,9 @@ j. Para las tipologías de biomasa:
 k. Energía térmica estimada aportada (kWh/año) diferenciada en calefacción, refrigeración, climatización de piscina y/o ACS.
 
 3. Documento justificativo de la contribución al objetivo CID 117, incluyendo los criterios de elegibilidad y el cumplimiento del principio DNSH.
+
+> Se modifica el último párrafo de la introducción, por el art. 2.9 del Real Decreto 1178/2023, de 27 de diciembre. Ref. BOE-A-2023-26461
+
+> Téngase en cuenta para su aplicación la disposición transitoria 2 del citado Real Decreto.
 
 > Se modifica el apartado 2.A por el art. 2.5 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122

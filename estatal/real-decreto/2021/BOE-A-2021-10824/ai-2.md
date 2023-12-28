@@ -2,15 +2,11 @@
 
 ## Documentación
 
-La documentación que se relaciona en este anexo tiene por objeto acreditar el cumplimiento de las condiciones exigidas en el programa al que se presenta el proyecto para el que solicita la ayuda.
+La documentación que se relaciona en este anexo tiene por objeto estimar aquella que puede acreditar el cumplimiento del régimen jurídico aplicable y las condiciones exigidas en cada programa.
 
-De esta manera, la documentación requerida para realizar la solicitud de ayuda, que las comunidades autónomas y las ciudades de Ceuta y Melilla soliciten en sus respectivas convocatorias, deberá asegurar que las condiciones exigidas a los proyectos en cada programa se cumplen, tanto para acceder al programa elegido como para recibir la ayuda. Igualmente, la documentación solicitada deberá permitir comprobar que el destinatario último de la ayuda cumple con los requisitos necesarios para acceder a cada uno de los programas de incentivos.
+Esta documentación podrá simplificarse o ser sustituida por otra o por procedimientos alternativos que pudieran establecer expresamente las comunidades autónomas y ciudades de Ceuta y Melilla al respecto en sus respectivas convocatorias, conforme a su propia normativa de aplicación, siempre y cuando quede acreditado que se cumple el régimen jurídico aplicable y las condiciones exigidas en cada programa, sin perjuicio de lo dispuesto en el artículo 16.8 de este real decreto para la justificación mediante la modalidad de módulos.
 
-Del mismo modo, la documentación requerida para justificar las actuaciones realizadas deberá permitir la comprobación de alguno o todos los extremos del proyecto y del beneficiario o destinatario último receptor de la ayuda.
-
-La documentación que se relaciona a continuación, en caso de resultar procedente, podrá ser sustituida por otra o por procedimientos alternativos que pudieran establecer expresamente las comunidades autónomas o las ciudades de Ceuta y Melilla al respecto en sus respectivas convocatorias, conforme a su propia normativa de aplicación siempre y cuando queden acreditados idénticos extremos a los recogidos en tales apartados. Para este fin, podrán habilitar los medios electrónicos o de otro tipo necesarios para realizar por ellos mismos la comprobación de alguno o todos los extremos referidos.
-
-Lo anterior será también aplicable a las inversiones directas que pudieran llevarse a cabo por las comunidades autónomas o las ciudades de Ceuta y Melilla, en la medida que sea compatible con la naturaleza de tales operaciones y en tanto el IDAE no hubiera establecido la exigencia del cumplimiento de condiciones específicas y/o un procedimiento alternativo aplicable conforme a la normativa que resulte de aplicación.
+Lo anterior será también aplicable a las inversiones directas que pudieran llevarse a cabo por las comunidades autónomas y ciudades de Ceuta y Melilla.
 
 AII.A Documentación requerida para realizar la solicitud de ayuda
 
@@ -58,9 +54,9 @@ Cuando el importe del coste subvencionable supere las cuantías establecidas en 
 
 e) Para todos los programas, siempre que se superen los 100 kW de potencia nominal, se aportará un informe que indique:
 
-i. Un plan estratégico donde se indique el origen o lugar de fabricación (nacional, europeo o internacional) de los componentes de la instalación y su impacto medioambiental, incluyendo el almacenamiento, los criterios de calidad o durabilidad utilizados para seleccionar los distintos componentes, la interoperabilidad de la instalación o su potencial para ofrecer servicios al sistema, así como el efecto tractor sobre PYMES y autónomos que se espera que tenga el proyecto. Podrá incluir, además, estimaciones de su impacto sobre el empleo local y sobre la cadena de valor industrial local, regional y nacional. Este documento será publicado por la autoridad convocante de las ayudas.
+i. Opcionalmente, un plan estratégico donde se indique el origen o lugar de fabricación (nacional, europeo o internacional) de los componentes de la instalación y su impacto medioambiental, incluyendo el almacenamiento, los criterios de calidad o durabilidad utilizados para seleccionar los distintos componentes, la interoperabilidad de la instalación o su potencial para ofrecer servicios al sistema, así como el efecto tractor sobre PYMES y autónomos que se espera que tenga el proyecto. Podrá incluir, además, estimaciones de su impacto sobre el empleo local y sobre la cadena de valor industrial local, regional y nacional. Este documento podrá ser publicado por la autoridad convocante de las ayudas.
 
-ii. Justificación del cumplimiento por el proyecto del principio de no causar daño significativo a ninguno de los objetivos medioambientales establecidos en el Reglamento (UE) 2020/852 el Parlamento Europeo y del Consejo de 18 de junio de 2020, relativo al establecimiento de un marco para facilitar las inversiones sostenibles, y por el que se modifica el Reglamento (UE) 2019/2088. En este caso, si la actuación no supera los 100 kW de potencia el solicitante deberá presentar una declaración responsable de este cumplimiento. A estos efectos el IDAE podrá publicar guías que faciliten la elaboración de esta justificación.
+ii. Justificación del cumplimiento por el proyecto del principio de no causar daño significativo (principio do not significant harm-DNSH) a ninguno de los objetivos medioambientales establecidos en el Reglamento (UE) 2020/852 del Parlamento Europeo y del Consejo de 18 de junio de 2020, relativo al establecimiento de un marco para facilitar las inversiones sostenibles, y por el que se modifica el Reglamento (UE) 2019/2088. El solicitante podrá presentar una declaración responsable de este cumplimiento. A estos efectos el IDAE podrá publicar guías que faciliten la elaboración de esta justificación.
 
 iii. Para la correcta acreditación del cumplimiento de la valorización del 70 % de los residuos de construcción y demolición generados en las obras civiles realizadas, se presentará una memoria resumen donde se recoja la cantidad total de residuo generado, clasificados por códigos LER, y los certificados de los gestores de destino, donde se indique el porcentaje de valorización alcanzado. Los residuos peligrosos no valorizables no se tendrán en cuenta para consecución de este objetivo.
 
@@ -198,7 +194,7 @@ En el caso de los programas de incentivos 1, 2 y 4, cuando el solicitante haya i
 
 4. En el caso del programa de incentivos 6, para las solicitudes de tipología de biomasa de potencia menor de 1 MW, en caso de que los equipos finalmente instalados no sean los mismos que se hicieron constar en la solicitud o no lo hicieron constar por tratarse de una entidad pública sujeta a la obligación de realizar una licitación para la ejecución de los proyectos, deberá presentarse, para el equipo definitivamente instalado, una acreditación por parte del fabricante del equipo del cumplimiento de los requisitos de eficiencia energética estacional y emisiones para el combustible que se vaya a utilizar, que no podrán ser menos exigentes que los definidos en el Reglamento de Ecodiseño en vigor (según corresponda, Reglamento (UE) 2015/1185 de la Comisión o Reglamento (UE) 2015/1189 de la Comisión).
 
-5. Para las actuaciones que superen los 100 kW de potencia nominal, documentación actualizada que refleje o confirme, para la actuación finalmente llevada a cabo, lo solicitado en el apartado AII.A.e) en relación con el origen de los componentes y sus características, el impacto del proyecto y el principio de no causar daño significativo. Para las actuaciones menores o iguales a 100 kW, declaración responsable del cumplimiento de esta condición por parte de la actuación finalmente llevada a cabo.
+5. Declaración que confirme que no ha habido modificaciones con respecto a lo declarado en la fase de solicitud sobre el principio de no causar daño significativo y en su caso sobre la valorización de residuos.
 
 6. Los proyectos que hayan declarado ser de autoconsumo colectivo o llevarse a cabo en un edificio plurifamiliar, deberán aportar justificación, aportando bien el acuerdo firmado por todos los participantes que recoja los criterios de reparto, bien el acuerdo de la comunidad de propietarios, bien la justificación de su inclusión en el registro administrativo de autoconsumo que indique este tipo de autoconsumo.
 
@@ -249,5 +245,7 @@ m) Obligatoriamente para los proyectos con un coste elegible superior a 1.000.00
 En todo caso, si realizada la actividad y finalizado el plazo para justificar, se hubiera pagado sólo una parte de los gastos en que se hubiera incurrido, a efectos de pérdida del derecho a la percepción de la ayuda correspondiente, se aplicará el principio de proporcionalidad.
 
 Con independencia de lo anterior, el órgano instructor podrá elaborar instrucciones de acreditación y justificación complementarias para los casos en los que la complejidad de la actuación o el importe elevado de la ayuda así lo requirieran.
+
+> Se modifica por el art. 3.7 a 9 del Real Decreto 1178/2023, de 27 de diciembre. Ref. BOE-A-2023-26461
 
 > Se modifican los apartados AII.A2.a) ii) e iii), AII.A3.b) 1 y 3 y AII.B.b) 3 y l) por el art. 1.14 a 18 del Real Decreto 377/2022, de 17 de mayo. Ref. BOE-A-2022-8122

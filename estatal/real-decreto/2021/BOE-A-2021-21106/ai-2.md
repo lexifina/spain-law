@@ -2,7 +2,11 @@
 
 ## Documentación
 
-La documentación que se relaciona a continuación podrá ser sustituida por otra o por procedimientos alternativos que pudieran establecer expresamente las comunidades autónomas al respecto en sus respectivas convocatorias, conforme a su propia normativa de aplicación siempre y cuando queden acreditados idénticos extremos a los recogidos en tales apartados. Lo anterior será también aplicable a las inversiones directas que pudieran llevarse a cabo por las comunidades autónomas y ciudades de Ceuta y Melilla.
+La documentación que se relaciona en este anexo tiene por objeto estimar aquella que puede acreditar el cumplimiento del régimen jurídico aplicable y las condiciones exigidas en cada programa.
+
+Esta documentación podrá ser sustituida por otra o por procedimientos alternativos que pudieran establecer expresamente las comunidades autónomas al respecto en sus respectivas convocatorias, conforme a su propia normativa de aplicación, siempre y cuando quede acreditado que se cumple el régimen jurídico aplicable y las condiciones exigidas en cada programa.
+
+Lo anterior será también aplicable a las inversiones directas que pudieran llevarse a cabo por las comunidades autónomas y ciudades de Ceuta y Melilla.
 
 AII.1 Documentación requerida para realizar la solicitud de ayuda
 
@@ -34,7 +38,7 @@ No obstante, el solicitante podrá denegar expresamente el consentimiento a esta
 
 2. Declaración de tipo y categoría de empresa según artículo 2 del anexo de la Recomendación de la Comisión de 6 de mayo de 2003 (2003/361/CE) o anexo I de Reglamento (UE) 651/2014, sobre la definición de microempresas, pequeñas y medianas empresas.
 
-c) Justificación del cumplimiento por el proyecto del principio de no causar daño significativo (principio do not significant harm-DNSH) a ninguno de los objetivos medioambientales establecidos en el Reglamento (UE) 2020/852 el Parlamento Europeo y del Consejo de 18 de junio de 2020, relativo al establecimiento de un marco para facilitar las inversiones sostenibles, y por el que se modifica el Reglamento (UE) 2019/2088. Para las actuaciones que no superen los 100 kW de potencia el solicitante deberá presentar una declaración responsable de este cumplimiento. A estos efectos el IDAE podrá publicar guías que faciliten la elaboración de esta justificación.
+c) Justificación del cumplimiento por el proyecto del principio de no causar daño significativo (principio do not significant harm-DNSH) a ninguno de los objetivos medioambientales establecidos en el Reglamento (UE) 2020/852 del Parlamento Europeo y del Consejo de 18 de junio de 2020, relativo al establecimiento de un marco para facilitar las inversiones sostenibles, y por el que se modifica el Reglamento (UE) 2019/2088. El solicitante podrá presentar una declaración responsable de este cumplimiento. A estos efectos el IDAE podrá publicar guías que faciliten la elaboración de esta justificación.
 
 d) La solicitud de ayuda, firmada por el solicitante o, en su caso, por el representante de éste, deberá contener la siguiente información conforme a lo establecido en el anexo III.
 
@@ -57,9 +61,9 @@ e) Presupuesto de la empresa o empresas que realizarán la ejecución de las act
 
 f) Para los programas, siempre que se superen los 100 kW de potencia nominal, se aportará un informe que incluya:
 
-i. Un plan estratégico donde se indique el origen o lugar de fabricación (nacional, europeo o internacional) de los componentes de la instalación, así como el efecto tractor sobre PYMEs y autónomos que se espera que tenga el proyecto. Deberá incluir, además, estimaciones de su impacto sobre el empleo local y sobre la cadena de valor industrial local, regional y nacional; con el objetivo de que los destinatarios últimos de las ayudas fomenten la creación de empleo en España, y también fomenten la adquisición de equipos, componentes, integraciones de sistemas y software asociado a proveedores ubicados en la Unión Europea, para mejorar de este modo la seguridad de la cadena de suministro. Este documento será publicado por la autoridad convocante de las ayudas.
+i. Opcionalmente, un plan estratégico donde se indique el origen o lugar de fabricación (nacional, europeo o internacional) de los componentes de la instalación, así como el efecto tractor sobre Pymes y autónomos que se espera que tenga el proyecto. Podrá incluir, además, estimaciones de su impacto sobre el empleo local y sobre la cadena de valor industrial local, regional y nacional; con el objetivo de que los destinatarios últimos de las ayudas fomenten la creación de empleo en España, y también fomenten la adquisición de equipos, componentes, integraciones de sistemas y software asociado a proveedores ubicados en la Unión Europea, para mejorar de este modo la seguridad de la cadena de suministro. Este documento podrá ser publicado por la autoridad convocante de las ayudas.
 
-ii. La acreditación correcta del cumplimiento de la valorización del 70% de los residuos de construcción y demolición generados en las obras civiles realizadas, en caso que hubiera, mediante la presentación de una memoria resumen donde se recoja la cantidad total de residuo generado, clasificados por códigos LER, y los certificados de los gestores de destino, donde se indique el porcentaje de valorización alcanzado. Los residuos peligrosos no valorizables no se tendrán en cuenta para consecución de este objetivo.
+ii. La acreditación correcta del cumplimiento de la valorización del 70 % de los residuos de construcción y demolición generados en las obras civiles realizadas, en caso de que hubiera, mediante la presentación de una memoria resumen donde se recoja la cantidad total de residuo generado, clasificados por códigos LER, y los certificados de los gestores de destino, donde se indique el porcentaje de valorización alcanzado. Los residuos peligrosos no valorizables no se tendrán en cuenta para consecución de este objetivo.
 
 g) Proyecto o memoria técnica, en el caso de que no se requiera proyecto, donde se describan adecuadamente las actuaciones a realizar y la situación de partida, suscrita por técnico competente o instalador, en su caso. En el proyecto o memoria técnica además se contemplará:
 
@@ -99,7 +103,7 @@ Adicionalmente, se adjuntará, en su caso, copia del proyecto o memoria técnica
 
 4. Para las instalaciones de biomasa de potencia mayor o igual a 1 MW y menor de 50 MW, acreditación de los valores límite de emisión establecidos en el Cuadro I, Parte II del anexo II o el anexo III del Real Decreto 1042/2017. Dicha acreditación se realizará mediante la correspondiente certificación de la entidad de control según los formatos y procedimientos establecidos por la autoridad competente de las comunidades autónomas.
 
-5. Para las actuaciones que superen los 100 kW de potencia, documentación actualizada que refleje o confirme, para la actuación finalmente llevada a cabo, lo solicitado en el apartado AII.1.e) en relación con el origen de los componentes, el impacto del proyecto y el principio de no causar daño significativo.
+5. Declaración que confirme que no ha habido modificaciones con respecto a lo declarado en la fase de solicitud sobre el principio de no causar daño significativo, y documentación actualizada en su caso sobre la valorización de residuos.
 
 6. En el caso de bombas de calor (aerotermia, hidrotermia, geotermia), a efectos de verificar lo previsto en el apartado AI.1, se acreditará el valor del SPF mediante las especificaciones técnicas del fabricante del equipo (a incluir como anexo en el informe que determina el presente apartado) o, en su defecto, se incluirá dicho valor en el informe especificado en este apartado.
 
@@ -144,3 +148,7 @@ n) Obligatoriamente para los proyectos con un coste elegible superior a 1.000.00
 En todo caso, si realizada la actividad y finalizado el plazo para justificar, se hubiera pagado sólo una parte de los gastos en que se hubiera incurrido, a efectos de pérdida del derecho a la percepción de la ayuda correspondiente, se aplicará el principio de proporcionalidad.
 
 Con independencia de lo anterior, el órgano instructor podrá elaborar instrucciones de acreditación y justificación complementarias para los casos en los que la complejidad de la actuación o el importe elevado de la ayuda así lo requirieran.
+
+> Se modifica el párrafo primero, las letras c) y f) del apartado AII.1 y el punto 5 de la letra b) del apartado AII.2, por el art. 2.6 a 8 del Real Decreto 1178/2023, de 27 de diciembre. Ref. BOE-A-2023-26461
+
+> Téngase en cuenta para su aplicación la disposición transitoria 2 del citado Real Decreto.
