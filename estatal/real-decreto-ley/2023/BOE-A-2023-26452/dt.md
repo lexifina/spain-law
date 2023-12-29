@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación de las medidas del artículo 4 sobre obligaciones en materia de gestión del riesgo relacionado con las tecnologías de la información y la comunicación de los operadores de sistemas de pago, de operadores de esquemas de pago, de los operadores de acuerdos de pago electrónico, de los proveedores de pagos y de otros proveedores de servicios tecnológicos o técnicos.
+
+Hasta el 17 de enero de 2025 las entidades deberán establecer e implementar los medios necesarios para cumplir las obligaciones previstas en el artículo 4 apartado 1. Hasta el 18 de enero de 2025 no resultará de aplicación lo dispuesto en el artículo 4 apartado 3.

@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Dotación extraordinaria para incrementar la financiación a las Entidades Locales, con motivo de los saldos globales negativos de las liquidaciones de la participación en tributos del Estado relativas al ejercicio 2020.
+
+Se reconoce una dotación extraordinaria para 2024 destinada a las entidades locales por los saldos globales negativos de las liquidaciones de la participación en tributos del Estado relativas al ejercicio 2020 por el importe que quede pendiente de reintegrar a 1 de enero de 2024. A estos efectos será de aplicación la disposición adicional octogésima segunda de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023, considerando realizadas a 2024 las referencias que aquélla hace a 2023.

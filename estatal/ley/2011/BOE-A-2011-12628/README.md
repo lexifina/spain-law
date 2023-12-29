@@ -165,6 +165,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria octava](dtoctava.md)
 - [Disposición transitoria novena](dtnovena.md)
 - [Disposición transitoria décima](dtdecima.md)
+- [Disposición transitoria décima bis](dt-2.md)
 - [Disposición transitoria undécima](dt.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](dfprimera.md)

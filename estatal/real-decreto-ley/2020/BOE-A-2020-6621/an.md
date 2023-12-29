@@ -26,3 +26,6 @@
 | Velilla 400 kV. |
 | Garoña 400 kV. |
 | Garoña 220 kV. |
+| La Pereda 220 kV. |
+
+> Se añade el nudo de red de transporte de "La Pereda 200 kV" por el art. 43 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a4-5

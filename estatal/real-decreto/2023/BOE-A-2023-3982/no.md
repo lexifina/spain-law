@@ -1,0 +1,3 @@
+Téngase en cuenta que, con fecha 7 de febrero de 2024, se ha publicado el Real Decreto 145/2024, de 6 de febrero, por el que se fija el salario mínimo interprofesional para 2024, con efectos de 1 de enero de 2024. Ref. BOE-A-2024-2251
+
+La vigencia del presente Real Decreto se prorrogó, hasta tanto se aprobara el real decreto por el que se fija el salario mínimo interprofesional para el año 2024 en el marco del diálogo social, en los términos establecidos en aquel, y de acuerdo con lo previsto en el artículo 27 del texto refundido de la Ley del Estatuto de los Trabajadores, por el art. 84 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a8-6

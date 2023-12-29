@@ -1,0 +1,19 @@
+## Disposición adicional primera. Ampliación de plazos de ejecución de proyectos de la línea de ayudas a actuaciones integrales de la cadena industrial del vehículo eléctrico y conectado dentro del Proyecto Estratégico para la Recuperación y Transformación Económica en el sector del Vehículo Eléctrico y Conectado (PERTE VEC), en el marco del Plan de Recuperación, Transformación y Resiliencia.
+
+En las ayudas concedidas en el marco de la Orden ICT/1466/2021, de 23 de diciembre, por la que se establecen las bases reguladoras para la concesión de ayudas a actuaciones integrales de la cadena industrial del vehículo eléctrico y conectado dentro del Proyecto Estratégico para la Recuperación y Transformación Económica en el sector del Vehículo Eléctrico y Conectado (PERTE VEC), en el marco del Plan de Recuperación, Transformación y Resiliencia y convocadas por Orden ICT/209/2022, de 17 de marzo, por la que se efectúa la convocatoria correspondiente al año 2022, y se modifica la Orden ICT/1466/2021, de 23 de diciembre, por la que se establecen las bases reguladoras para la concesión de ayudas a actuaciones integrales de la cadena industrial del vehículo eléctrico y conectado dentro del Proyecto Estratégico para la Recuperación y Transformación Económica en el sector del Vehículo Eléctrico y Conectado (PERTE VEC), en el marco del Plan de Recuperación, Transformación y Resiliencia, se podrán modificar las resoluciones de concesión de subvenciones para ampliar los plazos de ejecución de la actividad subvencionada y, en su caso, de justificación y comprobación de dicha ejecución.
+
+La ampliación de los plazos referidos sólo podrá proceder previa solicitud del beneficiario de las ayudas en la que justifique debidamente la imposibilidad de realizar la actividad subvencionada durante el plazo de ejecución otorgado en la resolución por la que se concedió la ayuda, así como, en su caso, la insuficiencia del plazo que reste tras la finalización de la actividad subvencionada para su justificación o comprobación. La acreditación de esta imposibilidad deberá sustentarse en una de las causas siguientes:
+
+a) Que las modificaciones obedezcan a causas sobrevenidas que no pudieron preverse en el momento de la solicitud, y que no fuesen previsibles con anterioridad, aplicando toda la diligencia requerida de acuerdo con una buena práctica profesional en la elaboración del proyecto o en la redacción de las especificaciones técnicas.
+
+b) Que se justifique la conveniencia de incorporar a la actividad avances técnicos que la mejoren notoriamente, siempre que su disponibilidad en el mercado, de acuerdo con el estado de la técnica, se haya conocido con posterioridad a la concesión de la ayuda.
+
+c) Fuerza mayor que hiciese imposible la ejecución de la actuación o proyecto en los términos inicialmente definidos.
+
+La solicitud de ampliación de plazo se realizará siguiendo las instrucciones de la Guía de Procedimiento que se encontrará disponible en el portal de ayudas del Ministerio de Industria y Turismo.
+
+A la vista de la solicitud, el órgano concedente deberá comprobará la necesidad de la ampliación de los referidos plazos, que no afecte a los objetivos perseguidos con la ayuda, a sus aspectos fundamentales, a la determinación del beneficiario, ni dañe derechos de terceros, que no afecte al cumplimiento del principio de «no causar un perjuicio significativo», y que no comprometa el adecuado cumplimiento de los hitos y objetivos incluidos en la Decisión de Ejecución del Consejo 13 de julio de 2021, relativa a la aprobación de la evaluación del plan de recuperación y resiliencia de España.
+
+Comprobado lo anterior, el órgano concedente resolverá en un plazo máximo de 3 meses, concediendo o denegando la ampliación de plazos solicitada, y estableciendo la que, en su caso, proceda.
+
+En ningún caso, los referidos plazos de ejecución y justificación o comprobación podrán ampliarse, conforme a este precepto, en más de treinta meses.
