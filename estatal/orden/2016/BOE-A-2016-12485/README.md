@@ -8,17 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2023-12-31 by BOE-A-2023-26738. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no-2](no-2.md)
-- [(preambulo)](pr.md)
-- [Artículo único](au.md)
-- [Disposición transitoria única](dt.md)
-- [Disposición derogatoria única](dd.md)
-- [Disposición final única](df.md)
-- [(firma)](fi.md)
-- [NORMAS](no.md)
-- [TÍTULO I](ti.md)
-- [TÍTULO II](ti-2.md)
-- [TÍTULO III](ti-3.md)
-- [TÍTULO IV](ti-4.md)
+- [BOE publisher notice](no-2.md)
