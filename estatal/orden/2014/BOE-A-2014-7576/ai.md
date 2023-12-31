@@ -8,23 +8,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5737.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5771.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5806.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5841.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5875.png)
-
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5910.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5945.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_5979.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_6460.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_6536.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_6570.png)
 
@@ -81,3 +69,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_8465.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_8500.png)
+
+> Se suprimen los mapas relativos a las ZEPA ES0000494 Espacio marino de Cabo Peñas, ES0000495 Espacio marino de Punta de Candelaria-Ría de Ortigueira-Estaca de Bares, ES0000496 Espacio marino de la Costa de Ferrolterra-Valdoviño, ES0000497 Espacio marino de la Costa da Morte, ES0000499 Espacio marino de las Rías Baixas de Galicia y ES0000502 Espacio marino de la Bahía de Cádiz, según establece la disposición final 1.2 de la Orden TED/1416/2023, de 26 de diciembre. Ref. BOE-A-2023-26741
