@@ -2,11 +2,9 @@
 
 ## Modelo 390 de declaración-resumen anual del Impuesto sobre el Valor Añadido
 
-> Téngase en cuenta que este modelo, modificado por el que figura como Anexo III de la Orden HFP/1124/2022, de 18 de noviembre Ref. BOE-A-2022-19290, será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece su disposición final única.
-
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_12.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_35.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_13.png)
 
@@ -19,6 +17,10 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_17.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_18.png)
+
+> Se sustituye la página 2 del modelo 390 por la que figura en el Anexo IV de la Orden HFP/1397/2023, de 26 de diciembre, según establece su art. 3. Ref. BOE-A-2023-26632
+
+> Esta modificación se aplicará por primera vez a las declaraciones informativas modelo 390 correspondiente al ejercicio 2023, según establece la disposición final única de la citada Orden.
 
 > Se sustituye por el que figura como Anexo III de la Orden HFP/1124/2022, de 18 de noviembre, según establece su art. 3.3. Ref. BOE-A-2022-19290
 
