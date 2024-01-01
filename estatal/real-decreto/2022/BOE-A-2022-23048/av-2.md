@@ -30,9 +30,9 @@ I. Información general
 
 13. Declaración expresa de que conoce los usos y delimitaciones que figuran en la base de datos del SIGPAC (visor) para las parcelas agrícolas declaradas y que estos se corresponden con los usos y aprovechamientos que realiza en su explotación, presentando en caso contrario la alegación de cambio de uso SIGPAC o delimitación que corresponda.
 
-14. En el caso de beneficiarios que sean personas físicas, comunidades de bienes, herencias yacentes o comunidades de herederos, sociedades civiles sin objeto mercantil y explotaciones en régimen de titularidad compartida, deberán presentar una autorización para que la autoridad competente recabe de la Tesorería General de la Seguridad Social, así como de la Agencia Tributaria y de los órganos competentes en materia tributaria de los territorios forales, la información de Seguridad Social y fiscal para poder determinar el cumplimiento de los criterios de agricultor activo. Cuando el beneficiario sea una de las agrupaciones de personas físicas indicadas en el párrafo anterior, en la solicitud deberá identificar al socio, partícipe o comunero que cumple el requisito del 25 % de ingresos agrarios o del alta en la seguridad social, e incluirá la autorización indicada. En caso de no presentar dicha autorización, el beneficiario deberá aportar la documentación justificativa, y en caso de ejercer como actividad principal una actividad excluida, la información fiscal correspondiente, en su caso, a sus entidades asociadas.
+14. Los beneficiarios deberán presentar una autorización para que la autoridad competente recabe de la Tesorería General de la Seguridad Social, así como de la Agencia Tributaria y de los órganos competentes en materia tributaria de los territorios forales, la información de Seguridad Social y fiscal para poder determinar el cumplimiento de los criterios de agricultor activo, así como realizar el resto de comprobaciones a las que se hace referencia en el artículo 117.5.
 
-Estas agrupaciones de personas físicas además deberán declarar, en su solicitud única, el dato de ingresos correspondientes a la actividad agrícola y ganadera de la agrupación.
+Cuando el beneficiario sea una comunidad de bienes, herencia yacente o comunidad de herederos, sociedad civil sin objeto mercantil, o explotación en régimen de titularidad compartidas, en la solicitud deberá identificar al socio, partícipe o comunero que cumple el requisito del 25 % de ingresos agrarios o del alta en la seguridad social, e incluirá la autorización indicada. En caso de no presentar dicha autorización, el beneficiario deberá aportar la documentación justificativa, y en caso de ejercer como actividad principal una actividad excluida, la información fiscal correspondiente, en su caso, a sus entidades asociadas. Estas agrupaciones de personas físicas además deberán declarar, en su solicitud única, el dato de ingresos correspondientes a la actividad agrícola y ganadera de la agrupación.
 
 15. En el caso de beneficiarios que sean personas jurídicas distintas de sociedades civiles sin objeto mercantil, o grupos de personas jurídicas, deberán declarar el total de ingresos agrarios y de ingresos totales percibidos en el periodo impositivo disponible más reciente, así como los correspondientes, en su caso, a sus entidades asociadas.
 
@@ -84,6 +84,14 @@ En el caso de las prácticas de cubiertas vegetales e inertes en las superficies
 
 33. En caso de que la solicitud única sea presentada por una entidad habilitada por la comunidad autónoma a tal fin, se deberá detallar la información que permita identificar dicha entidad.
 
+34. Declaración expresa de que autoriza a que la información proporcionada en la Solicitud Única, y en las aplicaciones desarrolladas al efecto para la gestión de la misma, se utilice de oficio para la evaluación y seguimiento del Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027 en cumplimiento de la normativa europea, para su publicación conforme a lo dispuesto el artículo 98 del Reglamento (UE) 2116/2021 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, y para el tratamiento por organismos de auditoría e investigación de la Unión, de la Administración General del Estado y de las comunidades autónomas para proteger los intereses financieros de la Unión y para la lucha contra el fraude y el conflicto de intereses, sin perjuicio de lo dispuesto en el artículo 101 de dicho Reglamento respecto al tratamiento y protección de los datos personales.
+
+35. En cumplimiento de lo indicado en el artículo 44 del Reglamento de Ejecución 2022/128, de la Comisión, de 21 de diciembre de 2021, si el beneficiario forma parte de un grupo empresarial, deberá declarar en la solicitud de ayuda, el nombre de la entidad matriz y número de IVA o de identificación fiscal, la matriz última y número de IVA o de identificación fiscal, así como nombre de la filial o filiales y números de identificación fiscal correspondientes. En relación con la misma información, el beneficiario deberá autorizar el tratamiento de los datos citados a los efectos de los controles requeridos y de la publicación prevista en dicho reglamento.
+
+36. Autorización para que sus datos de contacto sean utilizados por el Ministerio de Agricultura, Pesca y Alimentación para realizar comunicaciones informativas sobre las ayudas de la PAC, ayudas estatales u otras medidas de apoyo al sector agrario, así como otras informaciones que puedan ser de interés.
+
+37. Declaración expresa sobre si el beneficiario se compromete al uso del cuaderno digital de explotación para todas las anotaciones recogidas en el contenido mínimo del anexo II del Real Decreto 1054/2022 de 27 de diciembre.
+
 II. Declaración expresa de lo que solicita
 
 1. Se deberá indicar expresamente la superficie de cada una de las intervenciones por las que solicita el pago.
@@ -98,7 +106,7 @@ Deberán declararse todas las parcelas agrícolas de la explotación, indicándo
 
 3. Las intervenciones para las que se solicita la ayuda.
 
-4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. El cultivo declarado deberá ser alguno de los recogidos en el catálogo citado en el artículo 105.7. Se deberán declarar las fechas previstas de inicio y fin del cultivo.
+4. La utilización de las parcelas, indicándose en todo caso el producto cultivado, los pastos permanentes, otras superficies forrajeras, el barbecho y tipo del mismo, los cultivos permanentes, las superficies plantadas con plantas forestales de ciclo corto, etc. El cultivo declarado deberá ser alguno de los recogidos en el catálogo citado en el artículo 105.7. Se deberán declarar las fechas previstas de inicio y fin del cultivo. Se indicará si la actividad agraria es realizada por un tercero y que, con respecto de ella, el beneficiario no es responsable.
 
 En particular:
 
@@ -127,6 +135,8 @@ e) Cáñamo, deberá incluirse toda la información necesaria para la identifica
 f) Tabaco, la variedad cultivada para proporcionar información estadística requerida por la normativa de notificación de información y documentos a la Comisión.
 
 7. En el caso de la práctica de pastoreo extensivo, y conforme a lo dispuesto en el artículo 30.2, se deberán declarar para cada parcela de pasto, el o los códigos REGA donde se ubiquen los animales que los vayan a pastar. Además, en el momento de solicitud el agricultor que no vaya a realizar el pastoreo con todos los animales de su explotación consignará el número de animales de su explotación, por especie y categoría de acuerdo con el anexo V, con los que tiene previsto realizar esta práctica.
+
+Conforme a lo dispuesto en el artículo 30.2 bis, en el caso de explotaciones ganaderas de tipo “Producción y Reproducción”, se deberán declarar las fechas previstas de inicio y fin de la realización de la actividad de pastoreo por los animales de la explotación en cada grupo de parcelas agrícolas de pasto.
 
 8. Delimitación gráfica de las islas y márgenes de biodiversidad en las superficies de pastos a efectos de la práctica de islas de biodiversidad en dichas superficies.
 
@@ -196,20 +206,24 @@ V. Información y documentación adicional
 
 3. En el caso de la ayuda asociada a la producción sostenible de tomate para transformación a que se refiere la subsección 5.ª de la sección 1.ª del capítulo III del título III:
 
-– Copia del contrato suscrito con la industria o, en el caso de los miembros de figuras asociativas, del compromiso de entrega del producto para transformación. En el caso de agricultores que han vendido su producción como terceros a la figura asociativa a la que pertenecen, certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
+– Copia del contrato suscrito con la industria o, en el caso de los miembros de figuras asociativas, del compromiso de entrega del producto para transformación. En el caso de agricultores que han vendido su producción como terceros a la figura asociativa, certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
 
 – En el supuesto establecido en el artículo 60.4, copia del contrato establecido entre el agricultor y la figura asociativa.
 
 4. En el caso de la ayuda asociada a la producción tradicional de uva pasa a que se refiere la subsección 7.ª de la sección 1.ª del capítulo III del título III:
 
-– Copia del contrato suscrito con la pasificadora o, en el caso de los miembros de figuras asociativas, del compromiso de entrega. En el caso de agricultores que han vendido su producción como terceros a la figura asociativa a la que pertenecen, certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
+– Copia del contrato suscrito con la pasificadora o, en el caso de los miembros de figuras asociativas, del compromiso de entrega. En el caso de agricultores que han vendido su producción como terceros a la figura asociativa, certificado de la figura asociativa con indicación de los agricultores que comercializan como terceros.
 
 – En el supuesto establecido en el artículo 69.4, copia del contrato establecido entre el agricultor y la figura asociativa.
+
+– En el supuesto establecido en el artículo 69.5, declaración responsable firmada por el productor que indique que en su explotación posee las instalaciones adecuadas para la realización de la transformación de la uva, y en la que se compromete a transformar al menos el 75 % de su producción.
 
 5. En el caso del pago específico al cultivo del algodón a que se refiere la subsección 8.ª de la sección 1.ª del capítulo III del título III, copia del contrato de suministro a una desmotadora autorizada.
 
 6. En el caso de las ayudas asociadas para los ganaderos extensivos de vacuno de carne, para la producción sostenible de leche de vaca, para la producción sostenible de leche de oveja y cabra a las que se refieren las subsecciones 2.ª, 5.ª y 7.ª de la sección 2.ª del capítulo III del título III, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
 
 7. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al beneficiario de la necesidad de presentación de dicha documentación, salvo en el caso de que él mismo manifieste su oposición expresa a que la administración acceda a los citados documentos.
+
+> Se modifica por el art. 3.37 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 
 > Redactado el apartado 4 del epígrafe V conforme a la corrección de errores publicada en BOE núm. 24, de 28 de enero de 2023. Ref. BOE-A-2023-2253

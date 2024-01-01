@@ -76,6 +76,8 @@ ii. En su caso, la retirada de los restos de poda.
 
 iii. En su caso, el enterrado de los restos de poda después de su tratamiento
 
+6.º A más tardar, el primer día del plazo de presentación de la solicitud única, adaptación de la fecha máxima de establecimiento de las cubiertas inertes más allá del 15 de abril.
+
 d) Respecto al ecorrégimen de agroecología: espacios de biodiversidad, establecido en la subsección 5.ª, sección 4.ª, capítulo II, título III del Real Decreto 1048//2022, de 27 de diciembre.
 
 1.º A más tardar el 30 de septiembre del año de presentación de la solicitud, autorización para la aplicación de productos fitosanitarios por la autoridad competente en materia de sanidad vegetal por razón de la prevención, control o erradicación de plagas.
@@ -102,7 +104,7 @@ Ambas declaraciones se desglosarán por tipos y variedades de arroz, de acuerdo 
 
 b) Respecto al pago específico al cultivo del algodón a que se refiere la subsección 8.ª, sección 1.ª, capítulo III, título III del Real Decreto 1048//2022, de 27 de diciembre:
 
-1.º A más tardar el de diciembre del año anterior a la presentación de la solicitud, su propuesta sobre las variedades autorizadas, los criterios de superficie subvencionable, la densidad mínima de plantación y las prácticas agronómicas exigidas.
+1.º A más tardar el 15 de diciembre del año anterior a la presentación de la solicitud, su propuesta sobre las variedades autorizadas, los criterios de superficie subvencionable, la densidad mínima de plantación y las prácticas agronómicas exigidas.
 
 2.º A más tardar el 31 de enero del año de la presentación de la solicitud, los criterios adoptados a los que se refiere el artículo 74 del Real Decreto 1048//2022, de 27 de diciembre.
 
@@ -135,5 +137,7 @@ g) A más tardar el 15 de octubre al año anterior al de la realización de la e
 h) A más tardar el último día del plazo de modificación de la solicitud única, los planes regionales de control a los que se hace referencia en el artículo 31.
 
 i) A más tardar el 15 de diciembre del año de solicitud, los registros de los resultados referentes al contenido de THC en las muestras de cáñamo analizadas.
+
+> Se añade el número 6 al apartado 4.c) y se modifica el apartado 5.b).1, por el art. 2.21 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 
 > Se modifican los apartados 7.c) y 5.b) por la disposición final 6.5 y 6 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-6

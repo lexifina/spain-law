@@ -98,33 +98,33 @@ Ayuda Complementaria a la Renta Redistributiva
 | Región 5 umbral 1. | Importe unitario planificado. | 61,58 | 61,7 | 61,82 | 61,94 | 61,94 |
 | Importe unitario mínimo. | 58,5 | 58,61 | 58,73 | 58,84 | 58,84 |
 | Importe unitario máximo. | 64,66 | 64,78 | 64,91 | 65,04 | 65,04 |
-| Región 5 umbral 2. | Importe unitario planificado. | 123,49 | 123,64 | 123,79 | 123,94 | 123,94 |
-| Importe unitario mínimo. | 117,32 | 117,46 | 117,6 | 117,74 | 117,74 |
-| Importe unitario máximo. | 129,66 | 129,82 | 129,98 | 130,13 | 130,13 |
+| Región 5 umbral 2. | Importe unitario planificado. | 123,49 | 123,4 | 123,64 | 123,88 | 123,88 |
+| Importe unitario mínimo. | 117,32 | 117,23 | 117,46 | 117,69 | 117,69 |
+| Importe unitario máximo. | 129,66 | 129,57 | 129,82 | 130,07 | 130,07 |
 | Región 6 umbral 1. | Importe unitario planificado. | 31,57 | 31,63 | 31,69 | 31,76 | 31,76 |
 | Importe unitario mínimo. | 29,99 | 30,05 | 30,11 | 30,17 | 30,17 |
 | Importe unitario máximo. | 33,15 | 33,21 | 33,28 | 33,34 | 33,34 |
-| Región 6 umbral 2. | Importe unitario planificado. | 63,31 | 63,39 | 63,47 | 63,54 | 63,54 |
-| Importe unitario mínimo. | 60,15 | 60,22 | 60,29 | 60,37 | 60,37 |
-| Importe unitario máximo. | 66,48 | 66,56 | 66,64 | 66,72 | 66,72 |
+| Región 6 umbral 2. | Importe unitario planificado. | 63,31 | 63,26 | 63,39 | 63,52 | 63,52 |
+| Importe unitario mínimo. | 60,15 | 60,10 | 60,22 | 60,34 | 60,34 |
+| Importe unitario máximo. | 66,48 | 66,42 | 66,56 | 66,70 | 66,70 |
 | Región 7 umbral 1. | Importe unitario planificado. | 41,09 | 41,17 | 41,26 | 41,34 | 41,34 |
 | Importe unitario mínimo. | 39,04 | 39,12 | 39,19 | 39,27 | 39,27 |
 | Importe unitario máximo. | 43,15 | 43,23 | 43,32 | 43,4 | 43,4 |
-| Región 7 umbral 2. | Importe unitario planificado. | 82,41 | 82,51 | 82,61 | 82,71 | 82,71 |
-| Importe unitario mínimo. | 78,29 | 78,38 | 78,48 | 78,58 | 78,58 |
-| Importe unitario máximo. | 86,53 | 86,64 | 86,74 | 86,85 | 86,85 |
+| Región 7 umbral 2. | Importe unitario planificado. | 82,41 | 82,35 | 82,51 | 82,67 | 82,67 |
+| Importe unitario mínimo. | 78,29 | 78,23 | 78,38 | 78,54 | 78,54 |
+| Importe unitario máximo. | 86,53 | 86,47 | 86,64 | 86,80 | 86,80 |
 | Región 8 umbral 1. | Importe unitario planificado. | 50,34 | 50,44 | 50,54 | 50,64 | 50,64 |
 | Importe unitario mínimo. | 47,83 | 47,92 | 48,01 | 48,11 | 48,11 |
 | Importe unitario máximo. | 52,86 | 52,97 | 53,07 | 53,17 | 53,17 |
-| Región 8 umbral 2. | Importe unitario planificado. | 100,99 | 101,1 | 101,22 | 101,34 | 101,34 |
-| Importe unitario mínimo. | 95,94 | 96,05 | 96,16 | 96,27 | 96,27 |
-| Importe unitario máximo. | 106,04 | 106,16 | 106,28 | 106,4 | 106,4 |
+| Región 8 umbral 2. | Importe unitario planificado. | 100,99 | 100,88 | 101,08 | 101,28 | 101,28 |
+| Importe unitario mínimo. | 95,94 | 95,84 | 96,03 | 96,22 | 96,22 |
+| Importe unitario máximo. | 106,04 | 105,92 | 106,13 | 106,34 | 106,34 |
 | Región 9 umbral 1. | Importe unitario planificado. | 81,44 | 81,6 | 81,76 | 81,92 | 81,92 |
 | Importe unitario mínimo. | 77,37 | 77,52 | 77,67 | 77,83 | 77,83 |
 | Importe unitario máximo. | 85,51 | 85,68 | 85,85 | 86,02 | 86,02 |
-| Región 9 umbral 2. | Importe unitario planificado. | 163,33 | 163,52 | 163,72 | 163,91 | 163,91 |
-| Importe unitario mínimo. | 155,16 | 155,35 | 155,53 | 155,72 | 155,72 |
-| Importe unitario máximo. | 171,49 | 171,7 | 171,9 | 172,11 | 172,11 |
+| Región 9 umbral 2. | Importe unitario planificado. | 163,33 | 163,2 | 163,52 | 163,84 | 163,84 |
+| Importe unitario mínimo. | 155,16 | 155,04 | 155,34 | 155,65 | 155,65 |
+| Importe unitario máximo. | 171,49 | 171,36 | 171,70 | 172,03 | 172,03 |
 | Región 10 umbral 1. | Importe unitario planificado. | 220,72 | 220,72 | 220,72 | 220,72 | 220,72 |
 | Importe unitario mínimo. | 209,68 | 209,68 | 209,68 | 209,68 | 209,68 |
 | Importe unitario máximo. | 220,72 | 220,72 | 220,72 | 220,72 | 220,72 |
@@ -134,63 +134,63 @@ Ayuda Complementaria a la Renta Redistributiva
 | Región 11 umbral 1. | Importe unitario planificado. | 19,68 | 19,72 | 19,76 | 19,8 | 19,8 |
 | Importe unitario mínimo. | 18,7 | 18,74 | 18,77 | 18,81 | 18,81 |
 | Importe unitario máximo. | 20,67 | 20,71 | 20,75 | 20,79 | 20,79 |
-| Región 11 umbral 2. | Importe unitario planificado. | 39,49 | 39,54 | 39,58 | 39,62 | 39,62 |
-| Importe unitario mínimo. | 37,52 | 37,56 | 37,6 | 37,64 | 37,64 |
-| Importe unitario máximo. | 41,47 | 41,51 | 41,56 | 41,61 | 41,61 |
+| Región 11 umbral 2. | Importe unitario planificado. | 39,49 | 39,45 | 39,52 | 39,6 | 39,6 |
+| Importe unitario mínimo. | 37,52 | 37,48 | 37,54 | 37,62 | 37,62 |
+| Importe unitario máximo. | 41,47 | 41,42 | 41,50 | 41,58 | 41,58 |
 | Región 12 umbral 1. | Importe unitario planificado. | 28,4 | 28,46 | 28,51 | 28,57 | 28,57 |
 | Importe unitario mínimo. | 26,98 | 27,03 | 27,09 | 27,14 | 27,14 |
 | Importe unitario máximo. | 29,82 | 29,88 | 29,94 | 30 | 30 |
-| Región 12 umbral 2. | Importe unitario planificado. | 56,98 | 57,05 | 57,11 | 57,17 | 57,17 |
-| Importe unitario mínimo. | 54,13 | 54,19 | 54,25 | 54,31 | 54,31 |
-| Importe unitario máximo. | 59,83 | 59,9 | 59,96 | 60,03 | 60,03 |
+| Región 12 umbral 2. | Importe unitario planificado. | 56,98 | 56,92 | 57,03 | 57,14 | 57,14 |
+| Importe unitario mínimo. | 54,13 | 54,07 | 54,18 | 54,28 | 54,28 |
+| Importe unitario máximo. | 59,83 | 59,77 | 59,88 | 60,00 | 60,00 |
 | Región 13 umbral 1. | Importe unitario planificado. | 52,01 | 52,11 | 52,21 | 52,31 | 52,31 |
 | Importe unitario mínimo. | 49,41 | 49,5 | 49,6 | 49,7 | 49,7 |
 | Importe unitario máximo. | 54,61 | 54,71 | 54,82 | 54,93 | 54,93 |
-| Región 13 umbral 2. | Importe unitario planificado. | 104,31 | 104,43 | 104,55 | 104,68 | 104,68 |
-| Importe unitario mínimo. | 99,1 | 99,21 | 99,33 | 99,44 | 99,44 |
-| Importe unitario máximo. | 109,53 | 109,65 | 109,78 | 109,91 | 109,91 |
+| Región 13 umbral 2. | Importe unitario planificado. | 104,31 | 104,22 | 104,42 | 104,63 | 104,63 |
+| Importe unitario mínimo. | 99,1 | 99,01 | 99,20 | 99,40 | 99,40 |
+| Importe unitario máximo. | 109,53 | 109,43 | 109,64 | 109,86 | 109,86 |
 | Región 14 umbral 1. | Importe unitario planificado. | 73,45 | 73,6 | 73,74 | 73,89 | 73,89 |
 | Importe unitario mínimo. | 69,78 | 69,92 | 70,05 | 70,19 | 70,19 |
 | Importe unitario máximo. | 77,12 | 77,28 | 77,43 | 77,58 | 77,58 |
-| Región 14 umbral 2. | Importe unitario planificado. | 147,32 | 147,49 | 147,67 | 147,84 | 147,84 |
-| Importe unitario mínimo. | 139,96 | 140,12 | 140,28 | 140,45 | 140,45 |
-| Importe unitario máximo. | 154,69 | 154,87 | 155,05 | 155,23 | 155,23 |
+| Región 14 umbral 2. | Importe unitario planificado. | 147,32 | 147,19 | 147,48 | 147,77 | 147,77 |
+| Importe unitario mínimo. | 139,96 | 139,83 | 140,11 | 140,38 | 140,38 |
+| Importe unitario máximo. | 154,69 | 154,55 | 154,85 | 155,16 | 155,16 |
 | Región 15 umbral 1. | Importe unitario planificado. | 11,22 | 11,24 | 11,26 | 11,29 | 11,29 |
 | Importe unitario mínimo. | 10,66 | 10,68 | 10,7 | 10,72 | 10,72 |
 | Importe unitario máximo. | 11,78 | 11,8 | 11,83 | 11,85 | 11,85 |
-| Región 15 umbral 2. | Importe unitario planificado. | 22,52 | 22,54 | 22,56 | 22,59 | 22,59 |
-| Importe unitario mínimo. | 21,39 | 21,41 | 21,44 | 21,46 | 21,46 |
-| Importe unitario máximo. | 23,64 | 23,67 | 23,69 | 23,72 | 23,72 |
+| Región 15 umbral 2. | Importe unitario planificado. | 22,52 | 22,48 | 22,53 | 22,57 | 22,57 |
+| Importe unitario mínimo. | 21,39 | 21,36 | 21,40 | 21,44 | 21,44 |
+| Importe unitario máximo. | 23,64 | 23,60 | 23,66 | 23,70 | 23,70 |
 | Región 16 umbral 1. | Importe unitario planificado. | 14,28 | 14,31 | 14,34 | 14,37 | 14,37 |
 | Importe unitario mínimo. | 13,57 | 13,6 | 13,62 | 13,65 | 13,65 |
 | Importe unitario máximo. | 15 | 15,03 | 15,06 | 15,09 | 15,09 |
-| Región 16 umbral 2. | Importe unitario planificado. | 28,67 | 28,7 | 28,73 | 28,76 | 28,76 |
-| Importe unitario mínimo. | 27,23 | 27,26 | 27,29 | 27,32 | 27,32 |
-| Importe unitario máximo. | 30,1 | 30,13 | 30,16 | 30,19 | 30,19 |
+| Región 16 umbral 2. | Importe unitario planificado. | 28,67 | 28,62 | 28,68 | 28,74 | 28,74 |
+| Importe unitario mínimo. | 27,23 | 27,19 | 27,25 | 27,30 | 27,30 |
+| Importe unitario máximo. | 30,1 | 30,05 | 30,11 | 30,18 | 30,18 |
 | Región 17 umbral 1. | Importe unitario planificado. | 20,59 | 20,63 | 20,67 | 20,71 | 20,71 |
 | Importe unitario mínimo. | 19,56 | 19,59 | 19,63 | 19,67 | 19,67 |
 | Importe unitario máximo. | 21,61 | 21,66 | 21,7 | 21,74 | 21,74 |
-| Región 17 umbral 2. | Importe unitario planificado. | 41,31 | 41,35 | 41,4 | 41,44 | 41,44 |
-| Importe unitario mínimo. | 39,24 | 39,28 | 39,33 | 39,37 | 39,37 |
-| Importe unitario máximo. | 43,37 | 43,42 | 43,46 | 43,51 | 43,51 |
+| Región 17 umbral 2. | Importe unitario planificado. | 41,31 | 41,25 | 41,33 | 41,41 | 41,41 |
+| Importe unitario mínimo. | 39,24 | 39,19 | 39,26 | 39,34 | 39,34 |
+| Importe unitario máximo. | 43,37 | 43,31 | 43,40 | 43,48 | 43,48 |
 | Región 18 umbral 1. | Importe unitario planificado. | 27,46 | 27,51 | 27,57 | 27,62 | 27,62 |
 | Importe unitario mínimo. | 26,09 | 26,14 | 26,19 | 26,24 | 26,24 |
 | Importe unitario máximo. | 28,83 | 28,89 | 28,95 | 29 | 29 |
-| Región 18 umbral 2. | Importe unitario planificado. | 55,11 | 55,17 | 55,22 | 55,28 | 55,28 |
-| Importe unitario mínimo. | 52,36 | 52,41 | 52,46 | 52,51 | 52,51 |
-| Importe unitario máximo. | 57,87 | 57,93 | 57,98 | 58,04 | 58,04 |
+| Región 18 umbral 2. | Importe unitario planificado. | 55,11 | 55,02 | 55,14 | 55,24 | 55,24 |
+| Importe unitario mínimo. | 52,36 | 52,27 | 52,38 | 52,48 | 52,48 |
+| Importe unitario máximo. | 57,87 | 57,77 | 57,90 | 58,00 | 58,00 |
 | Región 19 umbral 1. | Importe unitario planificado. | 39,52 | 39,59 | 39,67 | 39,75 | 39,75 |
 | Importe unitario mínimo. | 37,54 | 37,61 | 37,69 | 37,76 | 37,76 |
 | Importe unitario máximo. | 41,49 | 41,57 | 41,66 | 41,74 | 41,74 |
-| Región 19 umbral 2. | Importe unitario planificado. | 79,32 | 79,4 | 79,47 | 79,55 | 79,55 |
-| Importe unitario mínimo. | 75,36 | 75,43 | 75,5 | 75,57 | 75,57 |
-| Importe unitario máximo. | 83,29 | 83,37 | 83,45 | 83,53 | 83,53 |
+| Región 19 umbral 2. | Importe unitario planificado. | 79,32 | 79,19 | 79,34 | 79,5 | 79,5 |
+| Importe unitario mínimo. | 75,36 | 75,23 | 75,37 | 75,53 | 75,53 |
+| Importe unitario máximo. | 83,29 | 83,15 | 83,31 | 83,48 | 83,48 |
 | Región 20 umbral 1. | Importe unitario planificado. | 37,51 | 37,58 | 37,65 | 37,73 | 37,73 |
 | Importe unitario mínimo. | 35,63 | 35,7 | 35,77 | 35,84 | 35,84 |
 | Importe unitario máximo. | 39,38 | 39,46 | 39,54 | 39,61 | 39,61 |
-| Región 20 umbral 2. | Importe unitario planificado. | 60,94 | 64,03 | 67,11 | 70,19 | 70,19 |
-| Importe unitario mínimo. | 57,9 | 60,83 | 63,75 | 66,68 | 66,68 |
-| Importe unitario máximo. | 63,99 | 67,23 | 70,47 | 73,7 | 73,7 |
+| Región 20 umbral 2. | Importe unitario planificado. | 60,94 | 75,16 | 75,31 | 75,46 | 75,46 |
+| Importe unitario mínimo. | 57,90 | 71,40 | 71,54 | 71,69 | 71,69 |
+| Importe unitario máximo. | 78,76 | 78,92 | 79,08 | 79,23 | 79,23 |
 
 Ayuda Complementaria a la renta para los jóvenes agricultores
 
@@ -316,3 +316,5 @@ Ayuda Complementaria a la renta para los jóvenes agricultores
 | Mujeres región 20. | Importe unitario planificado. | 215,66 | 216,08 | 216,51 | 216,93 | 216,93 |
 | Importe unitario mínimo. | 204,88 | 205,28 | 205,68 | 206,09 | 206,09 |
 | Importe unitario máximo. | 248,01 | 248,5 | 248,98 | 249,47 | 249,47 |
+
+> Se modifica la segunda tabla por el art. 3.39 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460

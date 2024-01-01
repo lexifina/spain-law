@@ -63,5 +63,9 @@
 | FRUTOS DEL BOSQUE. |
 | FRUTOS DE CÁSCARA. |
 | BAYAS GOJI. |
+| ENCINA MICORRIZADA O TRUFA |
+| MANO DE BUDA. |
+
+> Se modifica por el art. 3.43 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 
 > Se modifica por la disposición final 7.14 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-7

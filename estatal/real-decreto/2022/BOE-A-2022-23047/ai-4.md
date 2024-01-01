@@ -7,7 +7,8 @@
 | Tierras de cultivo | IV | Invernaderos y cultivos bajo plástico. |
 | TA | Tierras arables. |
 | TH | Huerta. |
-| Cultivos permanentes | CF | Asociación cítricos-frutales. |
+| Cultivos permanentes | OP | Otros cultivos permanentes. |
+| CF | Asociación cítricos-frutales. |
 | CI | Cítricos. |
 | CS | Asociación cítricos-frutales de cáscara. |
 | CV | Asociación cítricos-viñedo. |
@@ -39,3 +40,5 @@
 | --- | --- | --- |
 |  | ZC | Zona concentrada no incluida en la ortofoto. |
 | ZV | Zona censurada. |
+
+> Se modifica la primera tabla por el art. 2.22 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460

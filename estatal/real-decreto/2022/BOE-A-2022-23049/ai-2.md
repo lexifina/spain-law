@@ -24,11 +24,19 @@ BCAM 2. Protección de humedales y turberas.
 
 A partir del 1 de enero de 2024 se deberá cumplir con las siguientes obligaciones:
 
-– No se podrá realizar desbroce en humedales y turberas con fines agrícolas en las superficies indicadas en la correspondiente capa SIGPAC, a excepción de aquellas superficies ligadas al cultivo tradicional del arroz (arrozales), dado que dicho cultivo contribuye a la protección y mantenimiento de los humedales y la biodiversidad asociada a los mismos.
+– No se podrá realizar desbroce en humedales y turberas con fines agrícolas en las superficies indicadas en la correspondiente capa SIGPAC.
 
-Se entenderán por superficies de cultivo tradicional de arroz, aquellas áreas sembradas de arroz en alguno de los años 2018, 2019 y 2020 de acuerdo con la capa SIGPAC correspondiente.
+La prohibición de realización de desbroce implicará que no se podrá:
 
-– En estas superficies se podrá mantener una actividad agrícola ligada al pastoreo, apta para que dichas tierras sigan manteniendo la consideración de superficie agrícola, debiendo establecerse una carga ganadera máxima de una Unidad de Ganado Mayor (UGM) por hectárea.
+i) Drenar turberas o humedales ni llevar a cabo quema o extracción de turba de las mismas.
+
+ii) Convertir a tierra de cultivo de cualquier superficie situada sobre un humedal y/o turbera, incluidas las de pastos permanentes y de cultivos permanentes.
+
+iii) Labrar los pastos permanentes.
+
+iv) En las tierras de cultivo ya situadas sobre humedales y turberas, no se podrá labrar el suelo salvo con un laboreo superficial, entendiéndose por laboreo superficial aquel en el que la profundidad de la acción es inferior a los 20 cm, con la excepción de aquellas superficies que se destinen en la campaña agrícola en cuestión al cultivo tradicional del arroz (arrozales), sobre las que sí que se podrá realizar cualquier labor dado que dicho cultivo contribuye a la protección y mantenimiento de los humedales y la biodiversidad asociada a los mismos. Se entenderán por superficies de cultivo tradicional de arroz, aquellas áreas sembradas de arroz en alguno de los años 2018, 2019 y 2020.
+
+– Se podrá mantener una actividad agrícola ligada al pastoreo, apta para que dichas tierras sigan manteniendo la consideración de superficie agrícola, debiendo establecerse una carga ganadera máxima de una Unidad de Ganado Mayor (UGM) por hectárea.
 
 BCAM 3: Prohibición de quema de rastrojos, excepto por razones fitosanitarias.
 
@@ -70,13 +78,17 @@ BCAM 5. Gestión de la labranza, reduciendo el riesgo de degradación y erosión
 
 Se establece la siguiente obligación:
 
-– Que en las superficies que se destinen a cultivos herbáceos o cultivos leñosos, no se labre la tierra en la dirección de la máxima pendiente cuando, en los recintos cultivados, la pendiente media sea mayor o igual al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales. En el caso de plantaciones de cultivos leñosos que estuvieran implantadas antes de la entrada en vigor del presente real decreto, cuyo marco de plantación no permita labrar transversalmente a la dirección de máxima pendiente, la autoridad competente podrá permitir excepcionalmente algún tipo de labor vertical en dicha dirección, debiendo quedar todo ello debidamente justificado.
+– Que en las superficies que se destinen a cultivos herbáceos o cultivos leñosos, no se labre la tierra en la dirección a la máxima pendiente cuando, en los recintos cultivados, la pendiente media sea mayor o igual al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales.
 
-En caso de existencia de bancales, será obligatorio evitar cualquier tipo de labores que afecten la estructura de los taludes existentes.
+En caso de existencia de bancales, será obligatorio evitar cualquier tipo de labores que afecten a la estructura de los taludes existentes.
 
-No obstante, las comunidades autónomas podrán autorizar la no aplicación de esta obligación cuando pueda suponer un riesgo de vuelco de la maquinaria y por ende de la vida de los operarios.
+En el caso de plantaciones de cultivos leñosos que estuvieran implantadas antes del 1 de enero de 2023, se tendrá en cuenta lo indicado en el artículo 17 bis. Las autoridades competentes llevarán a cabo un seguimiento de todas las excepciones que autoricen, y en el caso de las autorizaciones colectivas para superficies de viñedo se tendrá en cuenta lo indicado en el artículo 17 bis.
 
-Se entiende por pendiente media de un recinto SIGPAC la inclinación media del terreno comprendido en los límites de un recinto, expresada en tanto por ciento y calculada en base al Modelo Digital de Elevaciones perteneciente a la Información Geoespacial de Referencia del Instituto Geográfico Nacional siguiendo el método de análisis de celdas vecinas.
+Asimismo, como excepción a la BCAM se permite la práctica del aserpiado y el intercepas en las superficies de viñedo, al ser prácticas tradicionales acordes con el objetivo de esta BCAM.
+
+No obstante, las comunidades autónomas podrán autorizar labrar en la dirección de máxima pendiente cuando el labrar transversalmente pueda suponer un riesgo de vuelco de la maquinaria y por ende de la vida de los operarios.
+
+Se entiende por pendiente media de un recinto SIGPAC la inclinación media del terreno comprendido en los límites de un recinto, expresada en tanto por ciento y calculada con base en el Modelo Digital de Elevaciones perteneciente a la Información Geoespacial de Referencia del Instituto Geográfico Nacional siguiendo el método de análisis de celdas vecinas.
 
 BCAM 6. Cobertura mínima del suelo para evitar suelos desnudos en los períodos más sensibles.
 
@@ -93,6 +105,8 @@ Se entiende por labrar la tierra con volteo, invertir la tierra de la capa más 
 – Cultivos leñosos. En el caso de cultivos leñosos en pendiente igual o superior al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales, será necesario mantener una cubierta vegetal que podrá ser sembrada o espontánea, de anchura mínima de 1 metro en las calles transversales a la línea de máxima pendiente o en las calles paralelas a dicha línea, cuando el diseño de la parcela o el sistema de riego impidan su establecimiento en la otra dirección, entre los meses de octubre a marzo, ambos incluidos.
 
 No obstante, en el momento en que pueda competir con el cultivo o imposibilite su recolección, las comunidades autónomas podrán autorizar la eliminación de dicha cubierta, pudiendo ser incorporada mediante una labor superficial, respetando en todo caso lo establecido en el apartado relativo a cultivos leñosos de la BCAM 5. No se podrá arrancar ningún pie de cultivos leñosos situados en recintos de pendiente igual o superior al 10 %, salvo en las zonas en las que así se establezca y sea objeto de reposición autorizada por la autoridad competente. En estos casos hay que respetar las normas destinadas a su reconversión cultural y varietal y a los cambios de cultivo o aprovechamiento. Quedan exceptuados aquellos recintos en los que la pendiente real del recinto esté compensada mediante terrazas de retención o bancales.
+
+No obstante, en las superficies de viñedo se podrá llevar a cabo la práctica del aserpiado como práctica tradicional beneficiosa para los objetivos perseguidos a través de la BCAM, siempre y cuando una vez finalizada la técnica del aserpiado, no se lleven a cabo labores que impidan el desarrollo de una cubierta vegetal hasta la finalización del periodo de duración de la obligación establecida.
 
 – Tierras de barbecho. Se realizarán prácticas tradicionales de manejo del suelo, prácticas de mínimo laboreo o mantenimiento de una cubierta adecuada del suelo.
 
@@ -118,7 +132,7 @@ Esta rotación de cultivos será de obligado cumplimiento desde 1 de enero de 20
 
 Para dar cumplimiento a la diversificación de cultivos, se deberá tener en cuenta lo siguiente:
 
-a) Si la tierra de cultivo de la explotación se encuentra entre 10 y 20 hectáreas (ambos incluidos), se deben cultivar, al menos, dos cultivos diferentes sin que el mayoritario suponga más del 75 % de dicha tierra de cultivo.
+a) Si la tierra de cultivo de la explotación es superior a 10 hectáreas e igual o inferior a 20 hectáreas, se deben cultivar, al menos, dos cultivos diferentes sin que el mayoritario suponga más del 75 % de dicha tierra de cultivo.
 
 b) Si la tierra de cultivo de la explotación es superior a 20 hectáreas e igual o inferior a 30 hectáreas se deben cultivar, al menos, dos cultivos diferentes sin que el mayoritario suponga más del 70 % de dicha tierra de cultivo.
 
@@ -176,22 +190,28 @@ A efectos del cumplimiento del porcentaje mínimo, se considerarán las siguient
 
 Para la determinación de la superficie computable por cada una de las categorías de superficies y elementos no productivos enumeradas en la presente BCAM, en su caso, se utilizarán los factores de conversión, y a continuación se aplicarán a todas las categorías los factores de ponderación que se recogen en la siguiente tabla:
 
-| Tipo de superficie y elemento no productivo | Factor de conversión (m/árbol a m2) | Factor de ponderación | Superficie resultante |
+| Tipo de superficie y elemento no productivo | Factor de conversión (m/árbol a m²) | Factor de ponderación | Superficies y elementos no productivos |
 | --- | --- | --- | --- |
-| Tierras en barbecho (por 1 m2). | No procede | 1 | 1 m2 |
-| Tierras en barbecho de biodiversidad (incluidos los barbechos melíferos) (por 1 m2). | No procede | 1,5 | 1,5 m2 |
-| Franjas de protección (por 1 m). | 6 | 1,5 | 9 m2 |
-| Lindes forestales (por 1 m). | 6 | 1,5 | 9 m2 |
-| Terrazas (terrazas de retención, bancales y ribazos) (por 1 m). | 2 | 1 | 2 m2 |
-| Setos/franjas arboladas (por 1 m). | 5 | 2 | 10 m2 |
-| Árbol aislado (por árbol). | 20 | 1,5 | 30 m2 |
-| Árboles en hilera (por 1 m). | 5 | 2 | 10 m2 |
-| Grupo de árboles (por 1 m2). | No procede | 1,5 | 1,5 m2 |
-| Lindes de campo (por 1 m). | 6 | 1,5 | 9 m2 |
-| Charcas (charcas, lagunas, estanques y abrevaderos naturales) (por 1 m2). | No procede | 1,5 | 1,5 m2 |
-| Islas o enclaves (islas y enclaves de vegetación natural o roca) y majanos (por 1 m2). | No procede | 1 | 1 m2 |
-| Pequeñas construcciones de arquitectura tradicional (por 1 m2). | No procede | 1 | 1 m2 |
-| Muros de piedra (por 1 m). | 1 | 1 | 1 m2 |
+| Tierras en barbecho (por 1 m²). | No procede | 1 | 1 m² |
+| Tierras en barbecho de biodiversidad (incluidos los barbechos melíferos) (por 1 m²). | No procede | 1,5 | 1,5 m² |
+| Franjas de protección (por 1 m²). | No procede | 1,5 | 1,5 m² |
+| Márgenes de biodiversidad (por 1 m). | 6 | 2 | 12 m² |
+| Lindes forestales (por 1 m²). | No procede | 1,5 | 1,5 m² |
+| Terrazas (terrazas de retención, bancales, ribazos) (por 1 m). | 2 | 1 | 2 m² |
+| Setos/franjas arboladas (por 1 m). | 5 | 2 | 10 m² |
+| Árbol aislado (por árbol). | 20 | 1,5 | 30 m² |
+| Árboles en hilera (por 1 m). | 5 | 2 | 10 m² |
+| Grupo de árboles (por 1 m²). | No procede | 1,5 | 1,5 m² |
+| Lindes de campo (por 1 m). | 6 | 1,5 | 9 m² |
+| Charcas (charcas, lagunas, estanques y abrevaderos naturales) (por 1 m²). | No procede | 1,5 | 1,5 m² |
+| Pequeños humedales (por 1 m²). | No procede | 1,5 | 1,5 m² |
+| Islas o enclaves (islas de vegetación natural o roca) y majanos (por 1 m²). | No procede | 1 | 1 m² |
+| Islas de biodiversidad (por 1 m²). | No procede | 1,5 | 1,5 m² |
+| Muros de piedra (por 1m). | 1 | 1 | 1 m² |
+| Pequeñas construcciones de arquitectura tradicional (por 1 m²). | No procede | 1 | 1 m² |
+| Zonas de no cosechado de cereal, oleaginosa y aromáticas (por m²). | No procede | 1 | 1 m² |
+
+Las tierras de cultivo de superficies de humedales y turberas que no estén en producción podrán considerarse bajo la categoría de tierras en barbecho al efecto del cómputo del porcentaje destinado a superficies y elementos no productivos.
 
 Todas aquellas superficies y elementos no productivos válidos para el ecorégimen vinculado a la práctica de establecimiento de espacios de biodiversidad, podrán ser tenidas en cuenta para el cumplimiento de este apartado de la BCAM 8, considerando los factores de conversión y de ponderación establecidos en el Real Decreto 1048/2022 de 27 de diciembre, sobre la aplicación, a partir de 2023, de las intervenciones en forma de pagos directos y el establecimiento de requisitos comunes en el marco del Plan Estratégico de la Política Agrícola Común, y la regulación de la solicitud única del sistema integrado de gestión y control.
 
@@ -245,6 +265,12 @@ Se considerarán cultivos fijadores de nitrógeno las siguientes especies de leg
 
 – veza vellosa (Vicia villosa Roth.)
 
+– alverja húngara (Vicia pannonica L.).
+
+– serradella (Ornithopus sativus Brot.).
+
+– meliloto amarillo [Melilotus officinalis (L.) Pall.].
+
 Se admitirán, asimismo, mezclas de estos cultivos con otros que no tengan capacidad de fijar nitrógeno, siempre que el cultivo fijador de nitrógeno sea predominante en la mezcla.
 
 En todas las superficies de cultivos fijadores de nitrógeno que pretendan computar para cumplir con la presente BCAM, no se podrán utilizar productos fitosanitarios.
@@ -263,9 +289,9 @@ c) La superficie de tierra cultivable es inferior o igual a 10 hectáreas.
 
 – No se podrá efectuar una alteración de las particularidades topográficas o elementos del paisaje, salvo en el caso de contar con autorización expresa de la autoridad competente.
 
-Se consideran particularidades topográficas o elementos del paisaje aquellas características del terreno tales como setos, árboles aislados, en hilera y en grupos, lindes, charcas, lagunas, estanques y abrevaderos naturales, islas y enclaves de vegetación natural o roca, terrazas de retención y, cuando la comunidad autónoma así lo determine, majanos, pequeñas construcciones tales como muretes de piedra seca, antiguos palomares u otros elementos de arquitectura tradicional que puedan servir de cobijo para la flora y la fauna, a excepción de aquellas construcciones que pudieran entrañar algún riesgo sanitario para la cabaña ganadera o para la fauna silvestre.
+Se consideran particularidades topográficas o elementos del paisaje aquellas características del terreno tales como setos, árboles aislados, en hilera y en grupos, lindes, charcas, lagunas, estanques y abrevaderos naturales, islas y enclaves de vegetación natural o roca, pequeños humedales, terrazas de retención y, cuando la comunidad autónoma así lo determine, majanos, pequeñas construcciones tales como muretes de piedra seca, antiguos palomares u otros elementos de arquitectura tradicional que puedan servir de cobijo para la flora y la fauna, a excepción de aquellas construcciones que pudieran entrañar algún riesgo sanitario para la cabaña ganadera o para la fauna silvestre.
 
-En este sentido, se consideran:
+En este sentido se consideran:
 
 – Setos: alineación densa y uniforme de arbustos que se utiliza para cercar, delimitar o cubrir zonas y terrenos.
 
@@ -295,8 +321,6 @@ Las comunidades autónomas establecerán las características descriptivas de lo
 
 No se podrán realizar operaciones de corta y poda de los setos y árboles no cultivados durante la época de cría y reproducción de las aves, salvo autorización expresa de la autoridad medioambiental. Se tomará como referencia el periodo comprendido entre los meses de marzo a agosto, pudiendo ser modificado de forma justificada por las comunidades autónomas.
 
-Asimismo, se prohíbe la recolección mecánica nocturna en los cultivos permanentes que presenten plantaciones intensivas en seto de porte alto, denso follaje y en los que se produzca la anidación o pernoctación de aves, con objeto de proteger a las aves durante la época de cría y reproducción, en las fechas que establezcan las comunidades autónomas.
-
 BCAM 9. Prohibición de convertir o arar los pastos permanentes declarados como pastos permanentes sensibles desde el punto de vista medioambiental en los espacios Natura 2000.
 
 Se deberá cumplir con las siguientes obligaciones:
@@ -316,5 +340,7 @@ Se deberá cumplir con las siguientes obligaciones de acuerdo con el calendario 
 – La explotación, cuando proceda, debe contar con un plan de abonado para cada unidad de producción de la misma.
 
 – Aplicación localizada de purines y enterrado de estiércoles sólidos en las superficies agrícolas.
+
+> Se modifican los apartados 1, 3 y 4 por el art. 4.5 a 9 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 
 > Se modifican los apartados 1 y 4 por la disposición final 8 del Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-8

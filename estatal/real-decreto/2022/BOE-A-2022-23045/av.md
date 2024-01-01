@@ -74,7 +74,7 @@ Nota: se deberá adjuntar toda la documentación que solicite la autoridad compe
 
 En el caso de venta o cesión definitiva de derechos de ayuda básica a la renta para la sostenibilidad sin tierra a un nuevo agricultor, se exigirá una declaración expresa en la que se indique que los familiares de primer grado, tanto por afinidad como por consanguinidad, ya incorporados a la actividad agraria no comparten el uso, de manera simultánea con el cesionario, para las unidades de producción por las que ya se hayan concedido derechos ayuda básica a la renta a dichos familiares.
 
-En el caso de arrendamiento de derechos de ayuda básica a la renta para la sostenibilidad con tierra (hectáreas admisibles), se exigirá una declaración expresa por parte del cesionario, en la que se indique el compromiso de que dichas parcelas serán incluidas en las declaraciones de la PAC hasta la finalización del arrendamiento de los derechos. Y en el caso de que se prorrogue el contrato de arrendamiento en función del artículo 12.3 de la Ley 49/2003, de 26 de noviembre, de arrendamientos rústicos, se presentará una declaración responsable de continuación del arrendamiento de tierras, firmada tanto por el arrendador como por el arrendatario,
+En el caso de arrendamiento de derechos de ayuda básica a la renta para la sostenibilidad con tierra (hectáreas admisibles), se exigirá una declaración expresa por parte del cesionario, en la que se indique el compromiso de que dichas parcelas serán incluidas en su solicitud única de la PAC hasta la finalización del arrendamiento de los derechos. Y en el caso de que se prorrogue el contrato de arrendamiento en virtud del artículo 12.3 de la Ley 49/2003, de 26 de noviembre, de arrendamientos rústicos, se presentará ante la autoridad competente una declaración responsable de continuación del arrendamiento de tierras, firmada tanto por el arrendador como por el arrendatario, a más tardar el último día de modificación de la solicitud única, conforme al artículo 112 del Real Decreto 1048/2022, de 27 de diciembre.
 
 ## Modelo de acuerdo tripartito entre las partes para la cesión de los derechos en el caso de explotaciones con la base territorial arrendada
 
@@ -114,3 +114,5 @@ Documento de finalización de arrendamiento.
 Escritura pública o documento privado liquidado de los impuestos que gravan el arrendamiento de fincas rústicas.
 
 Otros documentos a especificar por los interesados..........................……
+
+> Se modifica por el art. 1.9 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460

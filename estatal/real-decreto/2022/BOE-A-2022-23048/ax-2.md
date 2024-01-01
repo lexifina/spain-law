@@ -12,4 +12,7 @@
 | Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos llanos. | 73.205.212 | 73.316.189 | 73.427.165 | 73.538.141 | 73.538.141 |
 | Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de pendiente media. | 79.390.381 | 79.510.734 | 79.631.086 | 79.751.439 | 79.751.439 |
 | Agricultura de carbono: Cubiertas vegetales y cubiertas inertes en cultivos leñosos en terrenos de elevada pendiente y bancales. | 154.962.683 | 155.197.601 | 155.432.518 | 155.667.435 | 155.667.435 |
-| Agroecología: Espacios de biodiversidad en tierras de cultivo y cultivos permanentes. | 137.687.603 | 137.896.333 | 138.105.061 | 138.313.790 | 138.313.790 |
+| Agroecología: Espacios de biodiversidad en tierras de cultivo y cultivos permanentes. | 123.741.630 | 123.929.218 | 124.116.805 | 124.304.392 | 124.304.392 |
+| Agroecología: Espacios de biodiversidad en tierras de cultivo bajo agua | 13.945.973 | 13.967.115 | 13.988.256 | 14.009.398 | 14.009.398 |
+
+> Se modifica por el art. 3.40 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460

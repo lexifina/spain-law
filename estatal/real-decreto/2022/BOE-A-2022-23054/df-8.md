@@ -2,22 +2,24 @@
 
 El presente real decreto entrará en vigor el día 1 de julio de 2023, con las siguientes salvedades:
 
-1. El artículo 9 entrará en vigor el 1 de septiembre de 2023 para aquellas explotaciones agrarias que cumplan alguna de las siguientes condiciones:
+1. El artículo 9 entrará en vigor de forma progresiva:
 
-a) Superen alguna de las dimensiones máximas siguientes, establecidas por grupo de cultivo.
+a) A partir del 1 de septiembre de 2024 deberán utilizar obligatoriamente un cuaderno digital de explotación los titulares de las explotaciones agrícolas que:
 
-i) 30 hectáreas de tierra de cultivo
+i) Sumando su superficie de cultivos permanentes y tierras de cultivo, excluidos los pastos temporales, sea superior a 30 hectáreas; o
 
-ii) 30 hectáreas de pastos permanentes
+ii) Sobre el total de su superficie de cultivos permanentes y tierras de cultivos, excluidos los pastos temporales tengan más 5 hectáreas de regadío o
 
-iii) 10 hectáreas de cultivos permanentes
+iii) Dispongan de invernaderos con superficie total bajo cubierta superior a 0,1 ha. En caso de los titulares de las explotaciones agrícolas exceptuados conforme al artículo 9.3 del presente real decreto sólo la parte de la superficie agraria con invernadero deberá estar sujeta al cumplimiento del cuaderno digital.
 
-b) Sobre el total de su superficie agraria, tengan más 5 hectáreas de regadío o
+b) A partir del 1 de septiembre de 2025 deberán utilizar obligatoriamente un cuaderno digital de explotación el resto de los titulares de las explotaciones agrícolas distintos de los contemplados en el apartado a) y que no estén exceptuados conforme al artículo 9.3 del presente real decreto.
 
-c) Dispongan de alguna parcela de invernadero.
+2. Las explotaciones deberán mantener los registros en papel que determine la normativa relativa a la PAC, a la nutrición sostenible de los suelos agrarios y al uso sostenible de productos fitosanitarios, a disposición de la autoridad competente hasta las fechas de obligado cumplimiento, pudiendo utilizar voluntariamente el cuaderno digital a partir del 1 de enero de 2024 en lugar de los registros en papel.
 
-Para el resto de las explotaciones el artículo 9 entrará en vigor el 1 de julio de 2024
+3. Asimismo, el artículo 10.1 referido a la herramienta de sostenibilidad agraria para nutrientes a la que se hace referencia en el artículo 15.4.g) del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, entrará en vigor el 1 de enero de 2024.
 
-No obstante lo anterior, las administraciones públicas deberán poner a disposición de todas las explotaciones los sistemas informáticos del Cuaderno Digital de explotación establecidos en el artículo 10 a partir del 1 de julio de 2023 para su utilización voluntaria hasta el 1 de septiembre de 2023 o el 1 de julio de 2024 según el caso.
+> Se modifica por el art. 5.7 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 
-2. Asimismo, el artículo 10.1 referido a la herramienta de sostenibilidad agraria para nutrientes a la que se hace referencia en el artículo 15.4.g) del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021, entrará en vigor el 1 de enero de 2024.
+> Véase, en cuanto a su aplicación, la disposición transitoria única del citado Real Decreto.
+
+> Se modifica el apartado 1 por el art. 16.2 del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#a1-8

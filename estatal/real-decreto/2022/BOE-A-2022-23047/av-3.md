@@ -18,7 +18,7 @@ e) Juicio de experto en gabinete, incluyendo el análisis de las evidencias adic
 
 f) Juicio de experto en campo, incluyendo en caso necesario la medición de las superficies que no cumplen los criterios de subvencionabilidad, compromisos y otras obligaciones objeto de control.
 
-g) Control de requisitos no monitorizables de los regímenes de ayudas directas por superficie, excepto aquellos de tipo documental.
+g) Control de requisitos no monitorizables de los regímenes de ayudas directas por superficie, excepto aquellos de tipo documental y aquellos que exijan preaviso al beneficiario.
 
 h) Comunicación de discrepancias con la información registrada en el SIGPAC derivadas del control por monitorización.
 
@@ -30,7 +30,7 @@ h) Comunicación de discrepancias con la información registrada en el SIGPAC de
 
 B. La comunidad autónoma, por su parte, se compromete a:
 
-1. Realizar el control de los requisitos no monitorizables de carácter documental correspondientes a los regímenes de ayudas directas monitorizados en su ámbito territorial.
+1. Realizar el control de los requisitos no monitorizables de carácter documental y aquellos que exijan un preaviso al beneficiario, correspondientes a los regímenes de ayudas directas monitorizados en su ámbito territorial.
 
 2. Realizar el control de todos los requisitos no monitorizables de las intervenciones de desarrollo rural monitorizadas en su ámbito territorial.
 
@@ -49,3 +49,5 @@ B. La comunidad autónoma, por su parte, se compromete a:
 9. Realizar los respectivos controles internos de calidad respecto a los trabajos realizados por el FEGA, O.A.
 
 10. Colaborar en el mecanismo de financiación de la herramienta, conforme a lo dispuesto en los artículos 132 y 135.
+
+> Se modifican los apartados A.1.g) y B.1 por el art. 2.23 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
