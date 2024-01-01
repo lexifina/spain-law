@@ -21,3 +21,7 @@ Temporalmente y hasta que, conforme a lo previsto en el apartado cuarto se recup
 • Durante el mes de agosto, se requerirán cuatro frecuencias semanales (cuatro vuelos de ida y cuatro de vuelta).
 
 La capacidad mínima ofrecida será de 72 asientos por vuelo, salvo causa justificada.
+
+> Téngase en cuenta que, a partir del 1 de enero de 2024, se dejan sin efecto las modificaciones temporales establecidas en este apartado, recuperándose las condiciones específicas establecidas en el apartado primero de la Orden FOM/2457/2013, de 27 de diciembre, por la que se modifican las condiciones de operación en la ruta aérea Almería-Sevilla, declarada obligación de servicio público por Acuerdo del Consejo de Ministros de 13 de marzo de 2009, según establece el apartado primero de la Orden TRM/267/2024, de 14 de marzo. Ref. BOE-A-2024-5723
+
+> Se dejan sin efecto, desde el 1 de enero de 2024, las modificaciones temporales establecidas en este apartado, según establece el apartado primero de la Orden TRM/267/2024, de 14 de marzo. Ref. BOE-A-2024-5723
