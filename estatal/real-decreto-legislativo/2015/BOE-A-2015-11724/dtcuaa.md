@@ -42,7 +42,7 @@ Será condición indispensable que los indicados acuerdos colectivos de empresa 
 
 c) No obstante, para el reconocimiento del derecho a pensión de las personas a las que se refieren los apartados anteriores, la entidad gestora aplicará la legislación que esté vigente en la fecha del hecho causante de la misma, cuando resulte más favorable a estas personas.
 
-6. Se seguirá aplicando la regulación para la modalidad de jubilación parcial con simultánea celebración de contrato de relevo, vigente con anterioridad a la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del sistema de la Seguridad Social, a pensiones causadas antes del 1 de enero de 2024, siempre y cuando se acredite el cumplimiento de los siguientes requisitos:
+6. Se seguirá aplicando la regulación para la modalidad de jubilación parcial con simultánea celebración de contrato de relevo, vigente con anterioridad a la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del sistema de la Seguridad Social, a pensiones causadas antes del 1 de enero de 2025, siempre y cuando se acredite el cumplimiento de los siguientes requisitos:
 
 a) Que el trabajador que solicite el acceso a la jubilación parcial realice directamente funciones que requieran esfuerzo físico o alto grado de atención en tareas de fabricación, elaboración o transformación, así como en las de montaje, puesta en funcionamiento, mantenimiento y reparación especializados de maquinaria y equipo industrial en empresas clasificadas como industria manufacturera.
 
@@ -67,6 +67,8 @@ En 2042, la entidad gestora aplicará, en su integridad, lo previsto en el artí
 En 2043, la entidad gestora aplicará, en su integridad, lo previsto en el artículo 209.1 en su redacción vigente el día 1 de enero de 2023, con una base reguladora que comprenderá las bases de cotización de los últimos 318 meses entre 371, cuando dicho cálculo resulte más favorable que el vigente en la fecha en que se cause la pensión.
 
 A partir de 2044, se aplicará lo previsto en el artículo 209.1 en la redacción vigente desde el 1 de enero de 2026.
+
+> Se modifica el primer párrafo del apartado 6, por el art. 80.3 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a8-2
 
 > Se añade el apartado 7 por el art. único.36 del Real Decreto-ley 2/2023, de 16 de marzo. Ref. BOE-A-2023-6967#au
 

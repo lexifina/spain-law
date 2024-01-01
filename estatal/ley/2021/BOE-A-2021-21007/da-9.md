@@ -34,4 +34,8 @@ El Instituto Nacional de la Seguridad Social procederá al pago del importe de l
 
 8. La autorización por parte de los interesados, de forma irrevocable, a la aplicación del procedimiento de reintegro previsto en esta disposición conllevará aparejada la renuncia al abono de los intereses previstos en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
 
+9. Lo establecido en esta disposición adicional, salvo los párrafos segundo, tercero y cuarto del apartado 3, será de aplicación en el supuesto previsto en la disposición adicional cuarta de esta ley sobre la gestión de la prestación del ingreso mínimo vital por las Comunidades Autónomas de régimen común.
+
+> Se añade el apartado 9 por el art. 81.2 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a8-3
+
 > Redactados los apartados 1 y 2.d) conforme a la corrección de errores publicada en BOE núm. 101, de 28 de abril de 2022. Ref. BOE-A-2022-6830

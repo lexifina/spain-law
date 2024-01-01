@@ -25,6 +25,8 @@ Los intervalos de retribuciones, así como las bases de cotización se actualiza
 
 4.º A partir del año 2024, las bases de cotización por contingencias comunes y profesionales se determinarán conforme a lo establecido en el artículo 147 de esta ley, sin que la cotización pueda ser inferior a la base mínima que se establezca legalmente.
 
+> Téngase en cuenta que, con efectos desde el 1 de enero de 2024, se suspende lo establecido en el apartado 1.a).4º por la disposición transitoria 8 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#dt-8
+
 b) Tipos de cotización aplicables:
 
 1.º Para la cotización por contingencias comunes, sobre la base de cotización que corresponda según lo indicado en el apartado a) se aplicará, a partir del 1 de enero de 2019, el tipo de cotización y su distribución entre empleador y empleado que se establezca con carácter general, en la respectiva Ley de Presupuestos Generales del Estado, para el Régimen General de la Seguridad Social.
@@ -38,6 +40,8 @@ b) Tipos de cotización aplicables:
 3. Lo previsto en el artículo 251.a) será de aplicación a partir de 1 de enero de 2012.
 
 4. Desde el año 2012 hasta el año 2023, para el cálculo de la base reguladora de las pensiones de incapacidad permanente derivada de contingencias comunes y de jubilación causadas en dicho período por los empleados de hogar respecto de los periodos cotizados en este sistema especial solo se tendrán en cuenta los periodos realmente cotizados, no resultando de aplicación lo previsto en los artículos 197.4 y 209.1.b).
+
+> Se suspende el apartado 1.a).4º por la disposición transitoria 8 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#dt-8
 
 > Se modifica por el art. 3.3 del Real Decreto-ley 16/2022, de 6 de septiembre. Ref. BOE-A-2022-14680#at
 

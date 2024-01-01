@@ -5,3 +5,7 @@
 2. La cuantía de las pensiones del extinguido Seguro Obligatorio de Vejez e Invalidez, concurrentes o no con otras pensiones públicas, será la que se establezca en la correspondiente Ley de Presupuestos Generales del Estado.
 
 3. Cuando concurran la pensión de viudedad y la del Seguro Obligatorio de Vejez e Invalidez, su suma no podrá ser superior al doble del importe de la pensión mínima de viudedad para beneficiarios con sesenta y cinco o más años que esté establecido en cada momento. Caso de superarse dicho límite, se procederá a la minoración de la cuantía de la pensión del Seguro Obligatorio de Vejez e Invalidez, en el importe necesario para no exceder del límite indicado.
+
+4. Lo establecido en la disposición adicional quincuagésima tercera, apartado 4, se aplicará a la revalorización de las pensiones del Seguro Obligatorio de Vejez e Invalidez en los supuestos en que proceda dicha revalorización.
+
+> Se añade el apartado 4 por el art. 80.2 de Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a8-2
