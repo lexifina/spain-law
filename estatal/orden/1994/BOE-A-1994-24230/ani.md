@@ -94,6 +94,10 @@ Citrullus lanatus (Thunb.) Matsum. et Nakai (Sandía):
 
 – Todas las variedades.
 
+Crocus sativus L. (Azafrán).
+
+– Todas las variedades.
+
 Cucumis melo L. (Melón):
 
 – Todas las variedades.
@@ -197,6 +201,8 @@ Zea mays L.:
 – Grupo Maíz dulce.
 
 – Grupo Maíz para palomitas.
+
+> Se modifica, con efectos de 2 de enero de 2024, por el art. único.14 de la Orden APA/1322/2023, de 4 de diciembre. Ref. BOE-A-2023-25113
 
 > Se modifica por el art. 2.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#as
 
