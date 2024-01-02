@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Sobre la licitación de los concursos públicos.
+
+Las administraciones públicas que publiquen licitaciones de concursos públicos para asuntos concernidos por el uso de la lengua de signos española y de los medios de apoyo a la comunicación oral, deberán cumplir con lo dispuesto en la legislación vigente en materia de contratación pública respecto a los criterios de adjudicación que aseguren la calidad de la lengua de signos española y de la lengua oral a través de los medios de apoyo a la comunicación oral, de tal manera que se garantice el acceso a la información de las personas sordas, con discapacidad auditiva y sordociegas, en condiciones de igualdad y no discriminación.
