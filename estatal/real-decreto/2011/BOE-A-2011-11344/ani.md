@@ -60,7 +60,13 @@ Las explotaciones equinas, se clasificarán y registrarán según los siguientes
 
 2.2.10 Pastos: aquellas explotaciones que albergan Équidos de forma permanente u ocasional para el aprovechamiento mediante pastoreo de las producciones vegetales naturales o sembradas del terreno, y declaradas como tal por la autoridad competente.
 
-2.2.11 Explotaciones (poblaciones o áreas) de caballos silvestres o semisilvestres: aquellas determinadas de acuerdo con el artículo 11 del Real Decreto 1515/2009, de 2 de octubre.
+2.2.11 Explotaciones silvestres o semisilvestres de équidos: explotaciones donde se alojen poblaciones definidas de équidos que vivan en condiciones silvestres o semisilvestres y que estén localizadas en determinadas áreas, incluidos espacios naturales protegidos, espacios protegidos u otro tipo de áreas naturales, incluyendo zonas de montaña donde se crían en condiciones de libertad aquellos équidos, siempre y cuando no abandonen dichas áreas.
+
+> Téngase en cuenta que esta última actualización del apartado 2.2.11 establecida por la disposición final 4 del Real Decreto 787/2023, de 17 de octubre, Ref. BOE-A-2023-22499#df-4, entra en vigor el 2 de enero de 2024, según determina su disposición final 8.
+
+> Redacción anterior:
+
+> "2.2.11 Explotaciones (poblaciones o áreas) de caballos silvestres o semisilvestres: aquellas determinadas de acuerdo con el artículo 11 del Real Decreto 1515/2009, de 2 de octubre."
 
 2.2.12 Centros de acogida o recogida de équidos abandonados.
 
@@ -73,3 +79,5 @@ Las explotaciones equinas, se clasificarán y registrarán según los siguientes
 3.3. Explotaciones de reproducción mixtas: aquellas explotaciones que mantienen y crían hembras de razas cárnicas y de silla para su reproducción.
 
 3.4. Explotaciones de cebo: aquellas explotaciones dedicadas al engorde de Équidos procedentes de explotaciones equinas de reproducción y explotaciones contempladas en la presente clasificación cuyo destino es su sacrificio en matadero.
+
+> Se modifica el apartado 2.2.11, con efectos de 2 de enero de 2024, por la disposición final 4 del Real Decreto 787/2023, de 17 de octubre. Ref. BOE-A-2023-22499#df-4

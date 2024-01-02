@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Zonas silvestres o semisilvestres.
+
+A los efectos previstos en el artículo 16.7 no será necesario volver a notificar las explotaciones de équidos silvestres o semisilvestres o las zonas en que se encuentren que ya se hayan notificado por las autoridades competentes en virtud del Real Decreto 1515/2009, de 2 de octubre, por el que se establece un sistema de identificación y registro de los animales de la especie equina, y del Real Decreto 676/2016, de 16 de diciembre, por el que se regula el sistema de identificación y registro de los animales de la especie equina, antes de la entrada en vigor de este real decreto.

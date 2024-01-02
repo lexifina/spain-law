@@ -1,35 +1,43 @@
 ## ANEXO XII
 
-## «ANEXO 2
+(Derogado)
 
-Documento de identificación para bovino
+> Téngase en cuenta que esta derogación establecida por la disposición derogatoria única.e) del Real Decreto 787/2023, de 17 de octubre, Ref. BOE-A-2023-22499#df-3, entra en vigor el 2 de enero de 2024, según determina su disposición final 8.
 
-Características: Papel offset de 120 gramos. Dimensiones: Ancho, 21 cm/alto, 14,75 cm. Simbología de los códigos de barras: Code 128.Set A.
+> Redacción anterior:
 
-Código superior: Lleva el número de identificación (crotal) con letras y números, pero sin espacios ni guiones.
+> «ANEXO 2
 
-Código medio: Lleva el código REGA de la explotación de su propietario, con letras y números.
+> Documento de identificación para bovino
 
-Código inferior: Lleva los datos imprescindibles del animal con el formato CCCCCCCCCCCCCC/DDMMAAAASSRRRR/CCCCCCCCCCCCCC, donde:
+> Características: Papel offset de 120 gramos. Dimensiones: Ancho, 21 cm/alto, 14,75 cm. Simbología de los códigos de barras: Code 128.Set A.
 
-CCCCCCCCCCCCCC es el número de identificación del animal,/es un separador.
+> Código superior: Lleva el número de identificación (crotal) con letras y números, pero sin espacios ni guiones.
 
-DDMMAAAA es la fecha de nacimiento del animal (día, mes, año), sin separadores.
+> Código medio: Lleva el código REGA de la explotación de su propietario, con letras y números.
 
-SS es el código del sexo del animal establecido por los protocolos técnicos acordados en el Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero establecido en el Real Decreto 479/2004.
+> Código inferior: Lleva los datos imprescindibles del animal con el formato CCCCCCCCCCCCCC/DDMMAAAASSRRRR/CCCCCCCCCCCCCC, donde:
 
-RRRR es el código de raza del animal establecido por los protocolos técnicos acordados en el Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero establecido en el Real Decreto 479/2004,/es un separador.
+> CCCCCCCCCCCCCC es el número de identificación del animal,/es un separador.
 
-CCCCCCCCCCCCCC es el código de la madre.
+> DDMMAAAA es la fecha de nacimiento del animal (día, mes, año), sin separadores.
 
-Nota: Como máximo llevará una longitud de 44 caracteres (cuando el crotal de la madre sea de 14 caracteres), pero será menor si el crotal tiene una longitud menor.
+> SS es el código del sexo del animal establecido por los protocolos técnicos acordados en el Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero establecido en el Real Decreto 479/2004.
 
-Contenido: De acuerdo con los siguientes modelos:
+> RRRR es el código de raza del animal establecido por los protocolos técnicos acordados en el Comité nacional de coordinación de identificación del ganado y registro de explotación de las especies de interés ganadero establecido en el Real Decreto 479/2004,/es un separador.
 
-Ejemplar 1. Para el acompañamiento del animal en sus desplazamientos
+> CCCCCCCCCCCCCC es el código de la madre.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/155/12694_001.png)
+> Nota: Como máximo llevará una longitud de 44 caracteres (cuando el crotal de la madre sea de 14 caracteres), pero será menor si el crotal tiene una longitud menor.
 
-Ejemplar 2. Quedará en la explotación de origen del movimiento del animal
+> Contenido: De acuerdo con los siguientes modelos:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/155/12694_002.png)
+> Ejemplar 1. Para el acompañamiento del animal en sus desplazamientos
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2007/155/12694_001.png)
+
+> Ejemplar 2. Quedará en la explotación de origen del movimiento del animal
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2007/155/12694_002.png)
+
+> Se deroga, con efectos de 2 de enero de 2024, por la disposición derogatoria única.e) del Real Decreto 787/2023, de 17 de octubre. Ref. BOE-A-2023-22499#dd
