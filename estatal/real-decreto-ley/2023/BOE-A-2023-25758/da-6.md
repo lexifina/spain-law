@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Instrumentos de desarrollo normativo aprobados por el Comité técnico estatal de la Administración judicial electrónica.
+
+Las guías de interoperabilidad y seguridad de las tecnologías de la información y las comunicaciones que sean aprobadas en el seno del Comité técnico estatal de la Administración judicial electrónica serán obligatorias para cada una de las instituciones y administraciones con competencias en materia de Justicia a través de sus instrumentos normativos, de conformidad con sus competencias, y serán publicadas en sus Boletines o Diarios Oficiales correspondientes para su plena eficacia jurídica.

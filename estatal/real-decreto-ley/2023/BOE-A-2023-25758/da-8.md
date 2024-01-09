@@ -1,0 +1,3 @@
+## Disposición adicional octava. Soluciones tecnológicas para garantizar la efectividad de los servicios y sistemas previstos en el libro primero del presente real decreto-ley.
+
+El Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, las demás administraciones públicas con competencias transferidas de medios materiales y personales de la Administración de Justicia, el Consejo General del Poder Judicial, la fiscalía General del Estado, los Consejos de los Colegios profesionales, y cualesquiera otras administraciones o Instituciones adoptarán todas las medidas necesarias a fin de garantizar la puesta en marcha, para que sean efectivos los servicios y sistemas previstos en el libro primero del presente real decreto-ley.

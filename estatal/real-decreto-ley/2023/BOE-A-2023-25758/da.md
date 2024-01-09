@@ -1,0 +1,3 @@
+## Disposición adicional primera. Interoperabilidad entre las aplicaciones de la Administración de Justicia.
+
+En el plazo de cinco años desde la entrada en vigor del libro primero del presente real decreto-ley, las administraciones públicas con competencias en medios materiales y personales de la Administración de Justicia garantizarán la interoperabilidad entre los sistemas al servicio de la Administración de Justicia, de acuerdo con lo previsto en el presente real decreto-ley, en sus desarrollos reglamentarios y en las especificaciones establecidas por el Comité Técnico Estatal de Administración Judicial Electrónica en el marco institucional de cooperación en materia de administración electrónica.

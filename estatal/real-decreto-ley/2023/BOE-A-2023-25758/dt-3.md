@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Expediente electrónico con valor de copia simple.
+
+Si el estado de la técnica no hiciera posible remitir el expediente administrativo electrónico con los requisitos establecidos en este real decreto-ley y en la normativa técnica de aplicación, y, en todo caso, hasta el plazo máximo de los cinco años siguientes a la entrada en vigor del libro primero del presente real decreto-ley, será admisible la remisión del expediente en otro formato digital que posibilite su descarga y reutilización por el tribunal, oficina judicial u oficina fiscal. El expediente así remitido tendrá valor de copia simple.
