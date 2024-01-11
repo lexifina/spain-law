@@ -6,7 +6,7 @@ La limpieza y desinfección, se considera un pilar fundamental dentro de las med
 
 Por otro lado, con el fin de atenuar el grave perjuicio económico que ha tenido en el sector ganadero la perturbación del mercado ocasionada por la pandemia del coronavirus, se estima necesario por razones de interés público la concesión de una línea de ayudas a inversiones que mejoren la bioseguridad del sector, mejorando los centros de limpieza y desinfección de vehículos de transporte por carretera de ganado existentes, o construyendo nuevos centros.
 
-Es por ello, que se procederá a la concesión, en los años 2021, 2022 y 2023, de subvenciones en bioseguridad que se destinarán a la mejora de las infraestructuras y capacidades de dichos centros ya existentes, a través de mejoras tecnológicas, como la automatización, la robotización, la instalación de nuevos sistemas para la limpieza y desinfección, como puede ser la desinfección por calor o la instalación de sistemas para la verificación de la limpieza y desinfección, y también para la construcción de nuevos centros.
+Es por ello, que se procederá a la concesión, en los años 2021, 2022, 2023 y 2024, de subvenciones en bioseguridad que se destinarán a la mejora de las infraestructuras y capacidades de dichos centros ya existentes, a través de mejoras tecnológicas, como la automatización, la robotización, la instalación de nuevos sistemas para la limpieza y desinfección, como puede ser la desinfección por calor o la instalación de sistemas para la verificación de la limpieza y desinfección, y también para la construcción de nuevos centros.
 
 Los beneficiarios de las ayudas a centros ya existentes serán las personas físicas o jurídicas, o entes sin personalidad jurídica, titulares de los centros de limpieza y desinfección autorizados y registrados por el órgano competente de la comunidad autónoma, en cuyo ámbito territorial estén ubicados, que acrediten la inversión en sus instalaciones y a la que deberán presentar la correspondiente solicitud. En el caso de construcción de nuevos centros, los beneficiarios serán las personas físicas o jurídicas, o entes sin personalidad jurídica, que presenten la solicitud para la construcción del centro acorde a este real decreto, en la comunidad autónoma en que vayan a ubicarse.
 
@@ -20,7 +20,7 @@ HLB o greening de los cítricos, se transmite a través de Trioza erytreae cuya 
 
 Flavescencia dorada de la vid, cuyo principal vector de esta enfermedad es Scaphoideus titanus, el cual se introdujo en Europa desde América del Norte.
 
-Por ello, se considera necesaria, igualmente, la concesión en los años 2021, 2022 y 2023 de una subvención a los productores de determinados MVR que inviertan en instalaciones de protección en viveros frente a insectos vectores que transmitan estas plagas de cuarentena.
+Por ello, se considera necesaria, igualmente, la concesión en los años 2021, 2022, 2023 y 2024 de una subvención a los productores de determinados MVR que inviertan en instalaciones de protección en viveros frente a insectos vectores que transmitan estas plagas de cuarentena.
 
 Los beneficiarios de esta subvención serán operadores profesionales inscritos en el Registro de Operadores Profesionales de Vegetales (ROPVEG) y autorizados por la autoridad competente de la comunidad autónoma donde vayan a realizar dicha inversión en la producción de MVR, o, en su defecto, en los registros correspondientes, que acrediten que la inversión se llevará a cabo en instalaciones de protección frente a insectos vectores.
 
@@ -71,3 +71,5 @@ El real decreto se dicta al amparo del artículo 149.1.13.ª de la Constitución
 En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, y previa deliberación del Consejo de Ministros en su reunión del día 2 de noviembre de 2021,
 
 DISPONGO:
+
+> Se modifica por el art. único.1 del Real Decreto 2/2024, de 9 de enero. Ref. BOE-A-2024-520
