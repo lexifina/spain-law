@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 3, de 3 de enero de 2024. Ref. BOE-A-2024-135
+Norma derogada, así como su corrección de errores, por Acuerdo del Congreso de los Diputados publicado por Resolución de 10 de enero de 2024. Ref. BOE-A-2024-664

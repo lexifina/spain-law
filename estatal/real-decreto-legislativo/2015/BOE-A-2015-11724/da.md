@@ -44,6 +44,12 @@ c) El pago periódico de la ayuda económica se realizará por el Servicio Públ
 
 6. En lo no previsto expresamente en esta disposición se estará a lo dispuesto en el Título III.
 
+> Se deja sin efecto la derogación por Resolución de 10 de enero de 2024, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2024-664
+
+> Se deroga por la disposición derogatoria única.2 del Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2023-25759#dd
+
+> Esta actualización entra en vigor el 1 de junio de 2024, según se establece en la disposición final 9.3 del citado Real Decreto-ley.
+
 > Se modifica el apartado 4 por la disposición final 4.13 de la Ley 3/2023, de 28 de febrero. Ref. BOE-A-2023-5365#df-4
 
 > Se prorroga la suspensión hasta el 31 de mayo de 2021 de la aplicación de lo dispuesto en los párrafos a) y b) del apartado 4, por la disposición adicional 1 del Real Decreto-ley 32/2020, de 3 de noviembre, en la redacción dada por la disposición adicional 4 del Real Decreto-ley 2/2021, de 26 de enero. Ref. BOE-A-2021-1130#da-4
