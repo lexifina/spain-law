@@ -8,11 +8,13 @@ Parte I. Península, Baleares y Canarias
 
 2. Listado de puertos designados para la descarga y despacho de los productos de origen no animal destinados al consumo humano transportados a granel por vía marítima. Las partidas de productos de origen no animal transportados a granel por vía marítima, ya sea en bodega o en cisternas, procedentes de países o territorios terceros, podrán ser descargadas y despachadas a través de los puertos que se encuentren específicamente designados para tal fin y que figuran en el listado publicado en el portal web del Ministerio de Sanidad.
 
-3. Listado de puntos de entrada para el despacho de las materias contumaces, biocidas y otros productos de uso humano. Las partidas de materias contumaces (incluido el cabello humano), los biocidas y otros productos de uso humano procedentes de países o territorios terceros, podrán ser despachadas a través de todos los puntos de entrada que se encuentran habilitados para la práctica de los controles sanitarios de las mercancías de consumo o uso humano a las que se refiere el art 44, apartado 1, y el artículo 47.1 del Reglamento (UE) 2017/625, incluidos en los listados publicados en el portal web del Ministerio de Sanidad.
+3. Las partidas de materias contumaces (incluido el cabello humano), los biocidas y otros productos de uso humano procedentes de países o territorios terceros, podrán ser despachadas a través de todos los puntos de entrada que se encuentran habilitados para la práctica de los controles sanitarios de las mercancías de uso humano incluidos en los listados publicados en el portal web del Ministerio de Sanidad.
 
 En todo caso, cuando estas partidas hubieran sido seleccionadas para llevar a cabo un control físico, deberán posicionarse e inspeccionarse en una zona adecuada y segura, teniendo en cuenta que en ningún caso las mercancías podrán inspeccionarse ni almacenarse en las instalaciones fronterizas específicamente designadas para el control y almacenamiento de productos de consumo humano, ni en un establecimiento en el que se manipulen o almacenen productos alimenticios salvo que dichas operaciones se realicen en zonas o instalaciones totalmente separadas de las destinadas a productos de consumo humano.
 
-4. Listado de instalaciones del operador designado por el Estado para prestar el servicio postal universal («Sociedad Estatal Correos y Telégrafos, Sociedad Anónima») y que han sido designadas para el control oficial de los envíos o paquetes postales que contengan productos de consumo o uso humano.
+4. Listado de instalaciones de servicios postales, paquetería y mensajería que han sido designadas para el control oficial de los envíos o paquetes postales que contengan productos de consumo o uso humano.
+
+Las partidas de productos de consumo o uso humano de origen no animal procedentes de países o territorios terceros que vayan a ser expedidas para personas físicas o jurídicas, se podrán despachar a través de las instalaciones que figuran en un listado específico publicado en el portal web del Ministerio de Sanidad.
 
 | Provincia | Municipio | Recinto | Unidad TRACES | Dirección de las instalaciones |
 | --- | --- | --- | --- | --- |
@@ -39,6 +41,8 @@ Parte II. Ceuta y Melilla
 | --- | --- | --- |
 | Ceuta. | Paquetes postales. | Avenida Cañonero Dato, Estación Marítima, s/n, local 9. 51001 Ceuta. |
 | Melilla. | Paquetes postales. | Avenida de la Marina Española, n.º 3. 52001 Melilla. |
+
+> Se modifican los apartados 3 y 4 de la Parte I, con efectos desde el 15 de enero de 2024, por el apartado primero.5 y 6 de la Resolución de 15 de diciembre de 2023. Ref. BOE-A-2024-280
 
 > Se modifica por el apartado 1 y se sustituye por el anexo II de la Resolución de 4 de enero de 2023. Ref. BOE-A-2023-1013
 
