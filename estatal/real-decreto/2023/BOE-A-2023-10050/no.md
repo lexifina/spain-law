@@ -1,1 +1,1 @@
-> Incluye corrección de errores publicada en BOE núm. 114, de 13 de mayo de 2023. Ref. BOE-A-2023-11335
+Norma derogada, con efectos de 18 de enero de 2024, por la disposición derogatoria única del Real Decreto 46/2024, de 16 de enero de 2024. Ref. BOE-A-2024-811#dd
