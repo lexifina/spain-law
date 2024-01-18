@@ -1,0 +1,3 @@
+## Disposición transitoria única. Normativa aplicable por los centros docentes a los cursos ya iniciados.
+
+Los cursos académicos, de especialización o de formación profesional específica y, en su caso, el módulo de formación práctica en el puesto de trabajo, según el proceso selectivo de que se trate, así como los cursos de formación permanente, de especialización o de altos estudios profesionales, iniciados con anterioridad a la entrada en vigor del reglamento que aprueba este real decreto, se regirán por la normativa vigente en el momento en que se inició el concreto curso o módulo de que se trate.
