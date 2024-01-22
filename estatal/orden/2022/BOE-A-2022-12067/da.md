@@ -1,0 +1,3 @@
+## Disposición adicional primera. Anotaciones contenidas en el historial militar del alumnado procedentes de la Academia General Militar.
+
+Los datos administrativos que obren en el historial militar del alumnado de la Academia General Militar que continúen su formación en la Academia de Oficiales de la Guardia Civil, y que resulten relevantes, de acuerdo con la finalidad y efectos recogidos en el artículo 5, se volcarán de oficio en el expediente de aptitud psicofísica que se abra a su incorporación en el centro docente del Cuerpo. Para ello, los órganos de gestión de personal del Ministerio de Defensa facilitarán a la Jefatura de Personal de la Guardia Civil la información correspondiente.
