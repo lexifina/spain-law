@@ -82,14 +82,15 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.4.4 Envases y palots de campo que se utilicen más de un año. | El gasto correspondiente a los envases y palots de campo estará limitado al 5 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite. |
 | A.4.5 Otras inversiones en infraestructura y equipos para la mejora de la comercialización. |  |
 | A.4.6 Inversiones y gastos relacionados con la transformación de frutas y hortalizas en frutas y hortalizas transformadas. |  |
+|  |
 | A.5 Medidas dirigidas a investigación y producción experimental. |  |
-| A.5.1 Inversiones en instalaciones experimentales o fincas piloto. | – La producción experimental, se determinará mediante coste específico. Sólo podrá aprobarse cuando se disponga de personal cualificado que se encargue de la misma y se presente un protocolo sobre la experimentación a realizar que justifique la novedad del mismo y el riesgo que supone. Dicho protocolo deberá incluir el cálculo de los costes específicos, y ser valorado por un Centro público de investigación u organismo equivalente a juicio del órgano competente. – Las inversiones han de contar con las autorizaciones y licencias necesarias según requiera la naturaleza de la inversión. – Los proyectos de investigación podrán ser proyectos colectivos, promovidos por las OP y/o AOP junto a otras OP, AOP u otras entidades. – Las OP podrán incluir en sus PO las contribuciones a proyectos de centros de investigación. |
+| A.5.1 Inversiones en instalaciones experimentales o fincas piloto. | – La producción experimental, se determinará mediante coste específico. Sólo podrá aprobarse cuando se disponga de personal cualificado que se encargue de la misma y se presente un protocolo sobre la experimentación a realizar que justifique la novedad del mismo y el riesgo que supone. Dicho protocolo deberá incluir el cálculo de los costes específicos, y ser valorado por un Centro público de evaluación en investigación u organismo equivalente a juicio del órgano competente. – Las inversiones han de contar con las autorizaciones y licencias necesarias según requiera la naturaleza de la inversión. – Los proyectos de investigación podrán ser proyectos colectivos, promovidos por las OP y/o AOP junto a otras OP, AOP u otras entidades. – Las OP podrán incluir en sus PO las contribuciones a proyectos de centros de investigación. |
 | A.5.2 Personal propio o externo cualificado dedicado a investigación o producción experimental en exclusiva, o justificado con control horario. |  |
 | A.5.3 Material no fungible de laboratorio. |  |
 | A.5.4 Contrataciones externas con centros de investigación, contribuciones de la OP o la AOP a proyectos de centros de investigación, en el marco de convenios de colaboración. |  |
 | A.5.5 Adquisición de plantas perennes. |  |
 | A.5.6 Otros gastos en función de las características de la acción experimental y del grado de innovación y el riesgo que entrañe la misma. Participación en programa de mejora varietal, campos de ensayo, etc. Participación en proyectos colectivos, promovidos por la OP junto con otras OP, AOP u otras entidades, tales como Centros de Investigación. |  |
-| A.5.7 Estudios dirigidas a investigación y producción experimental | Deberán ser valorados por un centro público de investigación u organismo equivalente a juicio del órgano competente. |
+| A.5.7 Estudios dirigidos a investigación y producción experimental | Deberán ser valorados por un centro público de evaluación en investigación u organismo equivalente a juicio del órgano competente. |
 | A.6 Otras acciones, actuaciones, inversiones y conceptos de gasto. |  |
 | A.6.1 Fusiones, adquisiciones y participaciones. |  |
 | – Compra de terrenos no edificados cuando sea necesaria para efectuar una inversión incluida en el programa y compra de bienes inmuebles, de conformidad con las condiciones establecidas en el anexo III del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, siempre que no hayan sido comprados con ayuda de la Unión Europea o ayuda nacional en los últimos 10 años. | La compra de terrenos no edificados deberá estar motivada en los objetivos que están previstos alcanzar en su PO. |
@@ -270,8 +271,8 @@ Tipo de intervención 1.e) Acciones para aumentar la sostenibilidad y la eficien
 | --- | --- |
 | E.1 Costes adicionales por la utilización del ferrocarril o del transporte marítimo, frente al transporte por carretera. |  |
 | E.2 Cadena de frío y conservación del producto mediante frío y otras formas de conservación: | Técnicas de prolongación de la vida de frutas y hortalizas. |
-| – Técnicas de prolongación de la vida de frutas y hortalizas | No son elegibles los gastos relacionados con el mantenimiento y conservación de consumibles ni los gastos de entrada y salida de producto en las cámaras frigoríficas (gastos de funcionamiento) |
-| – Sistema Smartfresh, catalizador de etileno, retardador, kit de conservación para frutas, a base de SO2 (anhídrido sulfuroso), y otros activos de acción similar |
+| – Técnicas de prolongación de la vida de frutas y hortalizas. | No son elegibles los gastos relacionados con el mantenimiento y conservación de consumibles ni los gastos de entrada y salida de producto en las cámaras frigoríficas (gastos de funcionamiento). |
+| – Fitorreguladores (1-Metilciclopropeno), catalizador de etileno, retardador, kit de conservación para frutas, a base de SO2 (anhídrido sulfuroso), y otros activos de acción similar. |
 | E.3 Vehículos eléctricos o híbridos o que utilicen energía renovable (para los técnicos de campo y para el transporte de las frutas y hortalizas desde la explotación del agricultor hasta el almacén de manipulación y envasado, también para el transporte de productos dentro del almacén de la OP en el proceso de manipulación y envasado). |  |
 | E.4 Accesorios para medios de transporte frigorífico o en atmósfera controlada (equipo de atmósfera controlada, equipo de control de temperatura) | No se podrá incluir la cabina tractora ni ningún otro elemento que no sea específico de frío o atmósfera controlada |
 | E.5 (Suprimido) |  |
@@ -419,6 +420,8 @@ Podrá incluir actuaciones realizadas como consecuencia de:
 – Precios anormalmente bajos en momentos puntuales que puedan afectar al comportamiento de la campaña.
 
 – Otras motivaciones, como la disminución coyuntural del consumo debido a condiciones climáticas desfavorables
+
+> Se modifica por el art. 4.11 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 
 > Se modifica por la disposición final 3.2 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3
 

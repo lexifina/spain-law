@@ -6,7 +6,7 @@ Parte I. Directrices generales
 
 Es obligatorio el cálculo de las necesidades de nitrógeno (N) y fósforo (P2O5), siendo recomendable conocer también las de potasio (K2O).
 
-1. El cálculo de las necesidades de fertilización de los cultivos seguirá las siguientes directrices generales:
+1. Sin perjuicio de normativas autonómicas que regulen este aspecto, el cálculo de las necesidades de fertilización de los cultivos seguirá las siguientes directrices generales:
 
 a) En el caso de los cultivos herbáceos, el plan de abonado se realizará teniendo en cuenta la rotación de cultivos, incluidas las dobles cosechas, y deberá ser descrita en el plan.
 
@@ -51,3 +51,5 @@ Salvo en los supuestos en los que de forma específica se requiera el informe de
 Los programas o aplicaciones informáticas de recomendación de abonado deberán proporcionar al menos la funcionalidad de la herramienta de sostenibilidad agraria para nutrientes a la que se hace referencia en el artículo 15.4.g) del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
 
 Las comunidades autónomas comunicarán al Ministerio de Agricultura, Pesca y Alimentación la lista de aplicaciones que cumplen con estos requisitos mínimos. El Ministerio de Agricultura, Pesca y Alimentación recopilará la información remitida por las comunidades autónomas y la publicará en su página web.
+
+> Se modifica la primera frase del apartado 1 de la parte I por el art. 7.10 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308

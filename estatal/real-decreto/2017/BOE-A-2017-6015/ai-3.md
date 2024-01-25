@@ -32,10 +32,12 @@ Hongos del género Agaricus, trufas, y demás setas y hongos frescos o refrigera
 
 viii) Aromáticas y condimentos.
 
-Azafrán, tomillo, albahaca, melisa, menta, orégano, romero, y salvia, frescos o refrigerados.
+Azafrán, tomillo, albahaca, melisa, menta, orégano, romero, salvia y pimentón, frescos o refrigerados.
 
 ix) Uva de mesa.
 
 x) Melón.
 
 xi) Cebolla.
+
+> Se modifica el apartado viii) por el art. 2.1 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308

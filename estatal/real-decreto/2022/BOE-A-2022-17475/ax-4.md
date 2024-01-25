@@ -40,7 +40,7 @@
 | 2 | 9 |  | Priorización de las operaciones destinadas a la transformación digital de la industria (industria conectada). A los efectos de la valoración de este criterio, se entenderán incluidos prioritariamente los conceptos que se detallan en el subapartado IV de este apartado. Además, el solicitante deberá presentar el informe del análisis de la madurez digital de la empresa a través de la «Herramienta de Autodiagnóstico Digital Avanzada l (HADA)». | 1-8 |
 | 2 | 10 |  | Priorización de operaciones de inversión provenientes del resultado de un grupo operativo de innovación de la Asociación Europea para la Innovación. | 1-8 |
 | 2 | 11 |  | Priorización de inversiones materiales orientadas a la implantación en el seno de la empresa de nuevos productos y nuevas presentaciones. No se considerará una ampliación o mejora de algo ya existente en el establecimiento del solicitante. | 1-13 |
-| (2) Ningún criterio podrá tener una puntuación superior a la de los criterios 2.1, 2.2 y 2.3 (3) Se entenderá por reducción del desperdicio alimentario todo aquello que suponga una disminución de la cantidad de los productos aptos para consumo que se desechan como residuos, ya sea en el manejo de la materia prima, en los productos intermedios o en el producto acabado. |
+| (2) Ningún criterio podrá tener una puntuación superior a la de los criterios 2.1, 2.2 y 2.3 (3) Se entenderá por reducción del desperdicio alimentario todo aquello que suponga una disminución de la cantidad de los productos aptos para consumo humano que se desechan como residuos, ya sea en el manejo de la materia prima, en los productos intermedios o en el producto acabado. |
 
 I. Priorización de las operaciones que se orienten a la comercialización en un porcentaje presupuestario mayor o igual al 30 %
 
@@ -189,5 +189,7 @@ Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos d
 – Soluciones de negocio interempresa.
 
 4. Robótica, sensórica y sistemas embebidos.
+
+> Se modifica el pie de página(3) referenciado en la tabla de priorización de operaciones por el art. 5.10 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 
 > Se modifica el apartado III por la disposición final 4.11 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-4

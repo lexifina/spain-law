@@ -72,11 +72,13 @@ En caso de que la contabilidad de la entidad no haya sido aprobada por el órgan
 
 5.º En su caso, la documentación e información descrita en el apartado 5 del anexo I del presente real decreto.
 
-6.º Un compromiso de los titulares de las acciones, actuaciones, inversiones, y conceptos de gasto, de que no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas.
+6.º Una única declaración responsable que acredite que cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto las ayudas medioambientales que complementen los ecorregímenes.
 
 7.º La documentación específica para cada acción, actuación, inversión y concepto de gasto, exigida por el Reglamento Delegado (UE) n.º 2017/891, el Reglamento de Ejecución (UE) n.º 2017/892, el presente real decreto o las Directrices Nacionales para la Elaboración de los Pliegos de Condiciones referentes a las Acciones Medioambientales.
 
 8.º En el caso de los solicitantes que estén sujetos a lo previsto en el artículo 13.3 bis de la Ley 38/2003, de 17 de noviembre, acreditación de su cumplimiento en los términos dispuestos en dicho artículo.
+
+> Se modifica el punto 6º de la parte B) por el art. 3.3 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 
 > Se modifica el punto 8º de la letra B) por la disposición final 4 del Real Decreto 780/2023, de 10 de octubre. Ref. BOE-A-2023-20995#df-4
 

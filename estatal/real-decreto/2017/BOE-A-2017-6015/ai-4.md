@@ -81,7 +81,9 @@ e) Categoría (viii):
 
 | Número mínimo de miembros | Mínimo valor producción comercializable – Euros |
 | --- | --- |
-| Cinco. | 250.000 |
+| Cinco. | 125.000 |
+
+> Se modifica la letra e) por el art. 2.2 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 
 > Se modifica la letra c) y se añade la e) por la disposición final 1.2 y 3 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df
 

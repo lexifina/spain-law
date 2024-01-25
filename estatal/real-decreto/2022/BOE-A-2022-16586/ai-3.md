@@ -2,11 +2,11 @@
 
 ## Compensaciones económicas por la cosecha en verde y la renuncia a la recolección
 
-Parte A) Recolección normal
+Parte A) Recolección normal:
 
 | Producto | Compensación (€/ha) |
 | --- | --- |
-| secano | regadío al aire libre | regadío protegido |
+| Secano | Regadío al aire libre | Regadío protegido |
 | Productos del anexo V del Reglamento Delegado n.º 2022/126 |
 | Coliflor. | 2.136 | 3.339 | – |
 | Manzana. | 1.418 | 4.730 | – |
@@ -26,7 +26,6 @@ Parte A) Recolección normal
 | Aguacate. | 2.674 | 6.230 | – |
 | Ajo. | 1.941 | 5.327 | 6.075 |
 | Apio. | 828 | 7.038 | – |
-| Arándano. | 7.652 | – | 32.666 |
 | Brócoli. | 2.809 | 3.899 | 3.527 |
 | Calabaza. | 1.824 | 5.524 | 9.161 |
 | Caqui. | 1.693 | 5.815 | – |
@@ -36,7 +35,6 @@ Parte A) Recolección normal
 | Ciruela. | 698 | 3.293 | – |
 | Escarola. | 3.334 | 5.789 | 7.006 |
 | Espinaca. | 4.163 | 6.742 | 5.047 |
-| Frambuesa. | – | 58.025 | – |
 | Granada. | 748 | 5.650 | – |
 | Haba verde. | 1.511 | 3.529 | – |
 | Híbridos de pequeños cítricos. | – | 6.136 | – |
@@ -111,14 +109,17 @@ Tabla 2. Importes a efectos del cálculo de la compensación por recolección pa
 
 | Producto | Compensación (€/ha) |
 | --- | --- |
-| secano | regadío al aire libre | regadío protegido |
+| Secano | Regadío al aire libre | Regadío protegido |
 | Alcachofa. | 841 | 4.120 | – |
+| Arándano | 7.652 | – | 32.666 |
 | Berenjena. | 1.306 | 6.185 | 14.756 |
 | Calabacín. | 1.945 | 6.138 | 9.836 |
 | Espárrago. | 5.756 | 9.065 | 10.457 |
+| Frambuesa | – | 58.025 | – |
 | Fresa. | 2.752 | 9.333 | 27.402 |
 | Judía verde. | 4.812 | 11.512 | 13.595 |
 | Melón. | 1.024 | 6.008 | 5.062 |
+| Mora | – | – | 15.920 |
 | Pepino. | 1.568 | 4.925 | 16.687 |
 | Pimiento. | 1.756 | 9.437 | 19.814 |
 | Tomate. | 1.677 | 14.940 | 17.850 |
@@ -126,5 +127,7 @@ Tabla 2. Importes a efectos del cálculo de la compensación por recolección pa
 El importe de compensación por hectárea se calculará multiplicando (A) x (B), siendo:
 
 (A) El porcentaje que queda por cosechar, en función de la semana de cultivo que figura en la tabla 1 de este anexo y que se calculará sumando los porcentajes de las seis semanas siguientes desde que se ha efectuado la operación de prevención de crisis. En el caso de que la operación se realice entre el lunes y el miércoles de la semana esa será la primera semana de cálculo del porcentaje de cosecha restante. En caso de que se realice entre el jueves y el domingo, esa semana se considerará como cosechada y, a efectos de cálculo del porcentaje que queda por cosechar, la primera semana será la siguiente, y (B) el importe (€/ha) correspondiente por producto fijado en la tabla 2.
+
+> Se modifican las partes A) y B) por el art. 4.13 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 
 > Se modifica la parte A) por la disposición final 3.4 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3

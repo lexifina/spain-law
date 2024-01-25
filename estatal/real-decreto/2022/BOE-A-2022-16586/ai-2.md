@@ -60,17 +60,17 @@ C. Declaración responsable sobre el resultado obtenido de la evaluación ex ant
 
 D. Objetivos, perseguidos por el programa operativo tras llevar a cabo la evaluación ex ante mencionada en el artículo 4.1 y 8.2.a) del presente real decreto.
 
-E. Duración, intervenciones, acciones actuaciones y conceptos de gasto a aplicar para conseguir los objetivos perseguidos por el programa operativo:
+E. Duración, intervenciones, acciones, actuaciones y conceptos de gasto a aplicar para conseguir los objetivos perseguidos por el programa operativo:
 
-i. Descripción detallada de los tipos de intervención, desglosadas en acciones que pretenden realizar en cada anualidad de aplicación del programa, junto con la justificación de la coherencia de su inclusión con el resultado de la evaluación ex ante mencionada en las letras C y D anteriores.
+i. Descripción detallada de los tipos de intervención, desglosadas en acciones que pretenden realizar en cada anualidad de aplicación del programa, junto con la justificación de la coherencia de su inclusión con el resultado de la evaluación ex ante mencionada en las letras C y D anteriores. Podrá presentarse como proyecto único o varios proyectos visados por un técnico competente.
 
 ii. Para cada acción, actuación, inversión y concepto de gasto, excepto para las retiradas del mercado, a realizar en la primera anualidad del programa, deberá indicarse, al menos:
 
 – una descripción detallada de la misma, incluyendo el importe previsto para su ejecución y la justificación de la moderación de costes;
 
-– lugar exacto de ubicación y de la parcela agrícola, indicando la identificación geográfica mediante el sistema SIGPAC. Alternativamente, si así lo considera el órgano competente, esta información podrá aportarse en el momento de presentar la última MAC;
+– lugar exacto de ubicación y de la parcela agrícola, indicando la identificación geográfica mediante el sistema SIGPAC. Esta información se aportará cuando determine el órgano competente y siempre con antelación suficiente para que puedan efectuarse los controles de su ejecución.
 
-– titularidad, indicando nombre o razón social, NIF, y relación con la organización de productores. Alternativamente, si así lo considera el órgano competente, esta información podrá aportarse en el momento de presentar la última MAC;
+– titularidad, indicando nombre o razón social, NIF, y relación con la organización de productores. Alternativamente, si así lo considera el órgano competente, esta información se aportará cuando determine el órgano competente y siempre con antelación suficiente para que puedan efectuarse los controles de su ejecución;
 
 – medios humanos y materiales necesarios para su realización;
 
@@ -127,6 +127,10 @@ F) Certificado en el que figure el acuerdo adoptado por la asamblea general de l
 G) Declaración responsable en la que la entidad se compromete a cumplir las disposiciones establecidas en la norma vigente que regula los programas y fondos operativos de las organizaciones de productores del sector de frutas y hortalizas.
 
 H) Declaración responsable relativa a la información mencionada en el segundo guion de la Parte I, letra B.i, del presente anexo.
+
+> Se modifica la letra E de la parte I por el art. 4.12 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
+
+> Redactado conforme a la corrección de errores publicada en el BOE núm. 28, de 1 de febrero de 2024. Ref. BOE-A-2024-1866
 
 > Se modifica el apartado II.D) por la disposición final 3.3 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3
 

@@ -62,7 +62,7 @@ Este tipo de intervención estará supeditado a que las compras de reinas y/o en
 
 Este tipo de intervención sólo se aplicará a los apicultores/as trashumantes.
 
-2.4.1 Adquisición, conservación, y mejora de los medios de transporte y equipo necesario para facilitar la trashumancia. No serán subvencionables los vehículos de motor, sus piezas y mantenimiento, así como el combustible.
+2.4.1 Adquisición, conservación y mejora de la maquinaria y los equipos necesarios para manipulación de las colmenas y facilitar la trashumancia. No será subvencionable ningún tipo de medio de transporte, específicamente los vehículos de motor, sus piezas y mantenimiento, así como el combustible.
 
 2.5 Inversiones en activos tangibles e intangibles.
 
@@ -70,7 +70,7 @@ En la selección de inversiones de este tipo de intervención se tendrán en cue
 
 2.5.1 Inversiones y acciones destinadas a la mejora de la productividad y del rendimiento de las colmenas: útiles, equipos, sistemas de manejo y cambio de colmenas, sistemas móviles de extracción de miel y/o productos apícolas.
 
-2.5.2 Inversiones para la mejora y acondicionamiento de asentamientos, caminos sendas, que incluyan especies florales beneficiosas para la actividad de las abejas melíferas y otros polinizadores.
+2.5.2 Inversiones para la mejora y acondicionamiento de asentamientos, caminos y sendas, que podrán incluir especies florales beneficiosas para la actividad de las abejas melíferas y otros polinizadores.
 
 2.5.3 Software y equipos para monitorización de colmenas (control de peso, humedad, temperatura interna, sonido…) gestión de explotaciones (registro de medicamentos, registro de movimientos, etc.), incluida electrificación por paneles solares únicamente para dar servicio a los equipos descritos en su caso, y gastos de transmisión de datos.
 
@@ -135,3 +135,7 @@ Este tipo de intervención sólo podrá ser solicitada por parte de agrupaciones
 En relación a las actuaciones de las acciones 7.1 y 7.2 solo serán subvencionables para su implantación por primera vez, y en ningún caso podrán ser objeto de financiación gastos de funcionamiento habitual, a excepción de los gastos por auditorías de seguimiento, siempre que estén efectuadas por un organismo externo independiente y cualificado.
 
 7.3 Seguimiento de la cadena de calidad de mieles en el mercado.
+
+> Se modifica el apartado 2.5.2 por el art. 6.6 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
+
+> Se modifica el apartado 2.4.1 por la disposición final 2.3 del Real Decreto 1047/2022, de 27 de diciembre. Ref. BOE-A-2022-23047#df-2
