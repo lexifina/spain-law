@@ -102,6 +102,16 @@ e) La actividad pesquera de cebo vivo queda exceptuada de las normas que en la p
 
 f) Las sardinas, anchoas, arenques, jureles y caballas que no alcancen la talla mínima reglamentaria capturados para su uso como cebo vivo podrán mantenerse a bordo a condición de que se mantengan vivos, de acuerdo con el artículo 19.5 del mencionado reglamento.
 
-7. Vedas temporales: Podrán establecerse periodos de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca. Estas paradas podrán, en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo y de Pesca.
+7. Vedas temporales.
+
+Podrán establecerse periodos de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca. Estas paradas podrán, en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo de Pesca y de Acuicultura (FEMPA).
+
+8. Veda espacio temporal para la pesquería del jurel oeste (stock JAX/08C).
+
+En los años en que conforme a la normativa de la Unión Europea se fije un TAC para el jurel (stock JAX/08C) limitado a capturas accesorias, se prohibirá el acceso a la zona CIEM VIIIc durante dos periodos de 30 días consecutivos, a elegir entre los meses de enero, febrero y diciembre. Esta prohibición afectará a los buques dependientes de las capturas de jurel (stock JAX/08C) respecto del total de capturas comercializadas.
+
+9. La relación de buques del censo de cerco en el Caladero Nacional del Cantábrico y Noroeste sujetos a la veda espacio temporal descrita en el apartado 8 de este anexo se publicará mediante resolución de la Secretaría General de Pesca en el "Boletín Oficial del Estado" anualmente.
+
+> Se modifica el apartado 7 y se añaden los apartados 8 y 9 por el art. único.1 a 3 de la Orden APA/37/2024, de 23 de enero. Ref. BOE-A-2024-1451
 
 > Se derogan los apartados 1 a 3 por la disposición derogatoria única.2 del Real Decreto 502/2022, de 27 de junio. Ref. BOE-A-2022-10675#dd

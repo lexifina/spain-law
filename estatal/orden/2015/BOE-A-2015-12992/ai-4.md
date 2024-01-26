@@ -1,6 +1,6 @@
 ## ANEXO IV
 
-## Limitaciones al ejercicio de la pesca con determinados artes fijos
+## Limitaciones al ejercicio de la pesca con determinados artes fijos y otras artes menores
 
 1. Volanta y rasco.
 
@@ -99,6 +99,18 @@ c) Queda permitida la pesca con toda clase de anzuelos (palangre, pincho, cordel
 d) Podrán establecerse periodos adicionales de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca. Estas paradas podrán en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo y de Pesca.
 
 Las mencionadas vedas están sujetas a revisión en base a los informes periódicos de los institutos de investigación.
+
+3. Otras artes menores.
+
+a) Podrán establecerse periodos adicionales de paralización temporal de la actividad pesquera, en función de la evolución de la pesquería en cada campaña de pesca. Estas paradas podrán, en su caso, ser objeto de financiación con cargo al Fondo Europeo Marítimo de Pesca y de Acuicultura (FEMPA).
+
+b) Veda espacio temporal para la pesquería del jurel oeste (stock JAX/08C).
+
+En los años en que conforme a la normativa de la Unión Europea se fije un TAC para el jurel (stock JAX/08C) limitado a capturas accesorias, se prohibirá el acceso a la zona CIEM VIIIc durante dos periodos de 30 días consecutivos, a elegir entre los meses de enero, febrero y diciembre. Esta prohibición afectará a los buques dependientes de las capturas de jurel (stock JAX/08C), respecto del total de capturas comercializadas.
+
+c) La relación de buques sujetos a la veda espacio temporal descrita en la letra b) se publicará mediante resolución de la Secretaría General de Pesca en el "Boletín Oficial del Estado" anualmente.
+
+> Se modifica el título y se añade el apartado 3 por el art. único.4 y 5 de la Orden APA/37/2024, de 23 de enero. Ref. BOE-A-2024-1451
 
 > Se modifican los apartados 1, 2.a.1º y 2.b por el art. uno.6 a 8 de la Orden APA/21/2021, de 19 de enero. Ref. BOE-A-2021-838
 
