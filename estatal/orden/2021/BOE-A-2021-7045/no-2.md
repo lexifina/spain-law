@@ -1,0 +1,1 @@
+Véase en relación con las competencias delegadas a la persona titular de la Secretaría General de Objetivos y Políticas de Inclusión y Previsión Social, lo previsto en la Resolución de 20 de diciembre de 2023. Ref. BOE-A-2023-26097
