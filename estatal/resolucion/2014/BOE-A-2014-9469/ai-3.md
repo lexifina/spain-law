@@ -112,6 +112,7 @@
 | 20620 | 4760 | D | T/EG/M | CUOTAS DE SEGURIDAD SOCIAL DE TRABAJADORES Recoge el importe retenido por este concepto al efectuar el pago de las nóminas al personal. |
 | 20621 | 4760 | D | T/EG | DEVOLUCIÓN DE CUOTAS DE SEGURIDAD SOCIAL. Recoge el importe de las cuotas de la Seguridad Social reintegradas por la TGSS a los centros gestores de la nómina, para regularizar el importe de las mismas. |
 | 20630 | 4760 | D | T/EG/M | CUOTAS DEDUCIDAS DE PRESTACIONES Importe de las cuotas pendientes de cobro, cuyo deudor es un perceptor de prestaciones de la Seguridad Social. La retención se efectuará en el documento presupuestario de pago de prestaciones. |
+| 20631 | 4760 | D | EG/SC | DEVOLUCION DE CUOTAS DEDUCIDAS DE SUBSIDIOS Importe de las cuotas de la Seguridad Social deducidas en las nóminas de subsidios de prestaciones del INSS y el ISM, reintegradas por la TGSS a los centros gestores de estas entidades, para regularizar el importe de las mismas. |
 | 20635 | 4760 | D | T/EG/M | CUOTAS OBRERAS DE LA SS DE TRABAJADORES EN SITUACIÓN DE MATERNIDAD, PATERNIDAD, RIESGO DURANTE EL EMBARAZO Y RIESGO DURANTE LA LACTANCIA NATURAL Recoge el importe retenido por este concepto a los beneficiarios de las prestaciones señaladas, que en el caso de las MATEPSS alcanza solamente a las prestaciones de riesgo durante el embarazo y riesgo durante la lactancia natural. |
 | 20641 | 4760 | D | T/EG | AMORTIZACIÓN CAPITAL RENTA-RELIGIOSOS En las EEGG y TGSS, recoge el importe de la amortización que se deduce como descuento en el documento presupuestario de pago de prestaciones a religiosos. |
 | 20642 | 4760 | D | T/EG | AMORTIZACIÓN CAPITAL RENTA-MIEMBROS DE LAS CORPORACIONES LOCALES En las EEGG y TGSS, recoge el importe de la amortización que se deduce como descuento en el documento presupuestario de pago de prestaciones a los miembros de corporaciones locales comprendidos en el ámbito de aplicación del RD 1108/2007. |
@@ -215,6 +216,7 @@
 | 40150 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONES-INSS En la TGSS, recoge este concepto las operaciones financieras de pago centralizado de prestaciones que afecten al INSS. |
 | 40151 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONESIMSERSO En la TGSS, concepto análogo al anterior referido al IMSERSO. |
 | 40152 | 5559 | D | T | ANTICIPOS CENTRALIZADOS DE PAGO DE PRESTACIONES-ISM En la TGSS, concepto análogo al anterior referido al ISM. |
+| 40153 | 5559 | D | T | OTROS ANTICIPOS CENTRALIZADOS PARA PAGOS EXTRAORDINARIOS En la TGSS, recoge este concepto las operaciones financieras de pago centralizado para la realización de pagos extraordinarios. |
 | 40160 | 5559 | D | M | PAGO ACREEDORES OPERACIONES PENDIENTES DE IMPUTACIÓN PRESUPUESTARIA En las MATEPSS, se imputará el importe de los pagos que no pueden aplicarse definitivamente derivados de operaciones pendientes de imputación presupuestaria. |
 | 40170 | 5559 |  | M | RESERVA POR CESE ACTIVIDAD DE LOS TRABAJADORES AUTÓNOMOS EN LA TESORERÍA GENERAL DE LA SEGURIDAD SOCIAL En las MATEPSS, recoge los ingresos efectuados en el Banco de España a favor de la TGSS para la constitución de la Reserva, de acuerdo con lo establecido en el artículo 21.2.b) del Real Decreto 1541/2011, de 31 de octubre. |
 | 40190 | 5559 | D | T | OTRAS ENTREGAS EN EJECUCIÓN DE OPERACIONES En la TGSS, concepto de naturaleza y funcionamiento similar a los indicados en los conceptos 40138 y 40139, que recoge los pagos urgentes que correspondan a otras aplicaciones presupuestarias. |
@@ -256,6 +258,10 @@
 | Código no presupuestario | Definición |
 | --- | --- |
 | 40220 | ANTICIPOS DE DIETAS Y GASTOS DE VIAJE Este concepto recoge los pagos efectuados por fondo de maniobra en concepto de anticipos de dietas y gastos de viaje del personal pendientes de aplicar. Su aplicación se efectuará bien por reintegro o por la imputación presupuestaria de las cantidades anticipadas. |
+
+> Se modifica por el art. 1.5 de la Resolución de 27 de diciembre de 2023 Ref. BOE-A-2024-1775
+
+> Esta modificación tiene efectos a partir de comienzos del año 2024, según establece la disposición final única de la citada Resolución.
 
 > Se modifica por el art. único.doce de la Resolución de 23 de marzo de 2022. Ref. BOE-A-2022-5460
 

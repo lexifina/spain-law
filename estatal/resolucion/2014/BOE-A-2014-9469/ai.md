@@ -62,11 +62,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8508.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8542.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_1.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8576.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_8761.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_2.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2019/51/17774_8836.png)
 
@@ -86,7 +86,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9431.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9464.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_3.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9497.png)
 
@@ -94,7 +94,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9758.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9809.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_4.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9863.png)
 
@@ -114,13 +114,13 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10472.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10626.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_5.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10701.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10736.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10770.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_6.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_10925.png)
 
@@ -142,7 +142,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11592.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11626.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_7.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_11660.png)
 
@@ -166,17 +166,17 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2019/51/17774_12512.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/4/00087_5101.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_8.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12580.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12740.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12814.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12847.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_12881.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_12.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_13035.png)
 
@@ -233,6 +233,10 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15069.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_1.png)
+
+> Se sustituyen los modelos de los documentos contables ADOK.440, ADOK.450, OK.610, KRPG.900, ACPI.050, DROC.150, ABPD.350, OEAD.900, CPAD.900, CPTC.910, JPJ.930 y JPJ.940 por los que se recogen en el anexo de la Resolución de 27 de diciembre de 2023, según establece su art. 1.4. Ref. BOE-A-2024-1775
+
+> Esta modificación tiene efectos a partir de comienzos del año 2024, según establece la disposición final única de la citada Resolución.
 
 > Se añade el modelo de Anexo de información adicional y se sustituyen los modelos de los documentos contables PFM.809 y PFML.839 por los que se recogen en el anexo de la Resolución de 23 de marzo de 2022, según establece su art. único.once. Ref. BOE-A-2022-5460
 
