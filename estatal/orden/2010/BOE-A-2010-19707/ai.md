@@ -6,13 +6,15 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2019/314/18751_4933.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/211/14453_10269068_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1772_14029780_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/211/14453_10269068_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1772_14029780_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/211/14453_10269068_3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1772_14029780_5.png)
 
-> Téngase en cuenta que esta actualizaición del documento de ingreso del modelo 210 de autoliquidación, establecida por la disposición final 1.4, de la Orden HFP/915/2021, de 1 de septiembre. Ref. BOE-A-2021-14453#df, será aplicable a partir del 1 de junio de 2022, según determina su disposición final 3.b).
+> Se sustituye el documento de ingreso o devolución del modelo 210 por el que figura en el anexo III, según establece el art. 4.6 de la Orden HAC/56/2024, de 25 de enero. Ref. BOE-A-2024-1772
+
+> Téngase en cuenta que la agrupación anual de rentas derivadas del arrendamiento o subarrendamiento de inmuebles será aplicable, por primera vez, respecto de los devengos correspondientes a 2024. según determina la disposición final única de la citada Orden.
 
 > Se modifica el documento de ingreso del modelo 210 de autoliquidación, con efectos de 1 de junio de 2022, quedando sustituido por el que figura en el Anexo de la Orden HFP/915/2021, de 1 de septiembre. Ref. BOE-A-2021-14453#df
 
