@@ -1,12 +1,18 @@
 ## ANEXO
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_31.png)
+## Declaración censal de alta en el Censo de obligados tributarios, cambio de domicilio y/o de variación de datos personales
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_32.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_31.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_33.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_32.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/145/10160_9729499_34.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_33.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_34.png)
+
+> Se sustituye por el que figura en el anexo III de la Orden HFP/1397/2023, de 26 de diciembre, según establece su art. 2. Ref. BOE-A-2023-26632
+
+> Esta modificación entra en vigor el 1 de febrero de 2024 y se aplicará por primera vez al modelo 030 que se presente a partir de dicha fecha, así como a las domiciliaciones de aquellas autoliquidaciones presentadas a partir de dicha fecha, según establece la disposición final única de la citada Orden.
 
 > Se sustituye, con efectos de 1 de julio de 2021, por el anexo III de la Orden HAC/609/2021, de 16 de junio, según establece su art. 2. Ref. BOE-A-2021-10160
 

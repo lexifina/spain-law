@@ -1,50 +1,54 @@
 ## ANEXO I
 
-Declaración censal de alta, modificación y baja en el Censo de Empresarios, Profesionales y Retenedores
+## Declaración censal de alta, modificación y baja en el Censo de Empresarios, Profesionales y Retenedores
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_5.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_8.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_9.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_10.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_11.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_12.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_13.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_13.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_14.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_14.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_15.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_15.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_16.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_16.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_17.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_17.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_18.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_18.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_19.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_19.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_20.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_20.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_21.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_21.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/94/9634_13086487_22.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_22.png)
+
+> Se sustituye por el que figura en el anexo I de la Orden HFP/1397/2023, de 26 de diciembre, según establece su art. 1. Ref. BOE-A-2023-26632
+
+> Esta modificación entra en vigor el 1 de febrero de 2024 y se aplicará por primera vez al modelo 036 que se presente a partir de dicha fecha, así como a las domiciliaciones de aquellas autoliquidaciones presentadas a partir de dicha fecha.
 
 > Se modifica por el art. 1.2 y se sustituye por el anexo de la Orden HFP/381/2023, de 26 de abril. Ref. BOE-A-2023-9634
 
