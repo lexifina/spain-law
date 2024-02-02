@@ -1,0 +1,3 @@
+## Cuarto.
+
+Si a la luz de la información remitida la Junta Electoral Central considera que el estudio puede implicar riesgos para la garantía de los principios de objetividad, transparencia o igualdad del proceso electoral, adoptará las medidas que considere necesarias. En todo caso, dicha Junta dará traslado de forma inmediata de la comunicación relativa a la realización de la encuesta a los representantes de las entidades políticas concurrentes a las elecciones en el ámbito territorial de la encuesta, a fin de que éstos puedan solicitar al organismo autor los resultados de la misma, dando cuenta simultáneamente a la Junta Electoral Central de dicha solicitud.
