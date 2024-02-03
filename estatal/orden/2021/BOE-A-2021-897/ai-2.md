@@ -2,6 +2,27 @@
 
 ## Cuadro de limitaciones para la ocupación de destinos por insuficiencia de condiciones psicofísicas
 
-Las limitaciones apreciadas por los órganos de evaluación que se constituyan para determinar la insuficiencia de condiciones psicofísicas de los guardias civiles, serán identificadas de acuerdo con la clasificación prevista en este anexo, a los solos efectos de limitar la ocupación y provisión de aquellos destinos o puestos de trabajo para los que fueran incompatibles, de acuerdo con sus características.
+Las limitaciones apreciadas por los órganos de evaluación que se constituyan para determinar la insuficiencia de condiciones psicofísicas de los guardias civiles, serán identificadas de acuerdo con la clasificación prevista en este anexo, a los solos efectos de limitar la ocupación y la asignación de aquellos destinos o puestos de trabajo para los que fueran incompatibles, de acuerdo con sus características.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/19/00897_7020.png)
+| Categoría | Subcategoría | Observaciones - patologías de origen mas frecuentes/observaciones |
+| --- | --- | --- |
+| I | SENSORIALES. | A. VISUALES. | AFECTAN A LOS ÓRGANOS DE LOS SENTIDOS Y SUPONEN UN MENOSCABO LEVE EN LA CAPACIDAD FÍSICA GENERAL DEL AFECTADO. |
+| B. AUDITIVAS. |
+| II | ENDOCRINO-HORMONAL. | A. TURNICIDAD/NOCTURNIDAD. | SUPONEN RESTRICCIONES EN LA PRESTACIÓN DE TURNOS, PERO NO EN LA CAPACIDAD PSICOFÍSICA DEL INDIVIDUO (DIABETES). |
+| B. SEGUIMIENTO HORARIO REGULAR DE COMIDAS. |
+| III | APARATO LOCOMOTOR O SISTEMA MUSCULO-ESQUELÉTICO. | A. MANIPULACIÓN DE CARGAS. | AFECTAN AL SISTEMA MUSCULOESQUELÉTICO Y SUPONEN UNA LEVE MERMA EN LA CAPACIDAD OPERATIVA DEL INDIVIDUO. HERNIAS DISCALES, CONDROMALACIAS ROTULIANAS, FRACTURAS Y LESIONES OSTEOMUSCULARES CON LIMITACIONES FUNCIONALES PERMANENTES. |
+| B. MARCHAS, BIPEDESTACIÓN PROLONGADA. |
+| C. CONDUCCIÓN PROLONGADA. |
+| IV | CARDIOLÓGICAS. | A. ESFUERZO FÍSICO INTENSO. | CARDIOPATÍA ISQUÉMICA (INFARTOS, ANGINAS). |
+| B. MANIPULACIÓN DE CARGAS. |
+| C. NOCTURNIDAD. |
+| D. ESTRÉS. |
+| V | PSICOVULNERA- BILIDAD. | A. USO DE ARMAS Y CONDUCCIÓN. | TRASTORNOS DE ORIGEN PSIQUIÁTRICO QUE SUPONGAN UNA LIMITACIÓN PARA EL MANEJO DE MEDIOS O MATERIAL POTENCIALMENTE PELIGROSO. TRASTORNOS Y RASGOS ANÓMALOS DE PERSONALIDAD. |
+| B. USO DE ARMAS, CONDUCCIÓN Y FUNCIONES DE MANDO. |
+| C. NOCTURNIDAD. |
+| D. ESTRÉS. |
+| VI | NEURO-PSICOVULNERABILIDAD. | A. USO DE ARMAS Y CONDUCCIÓN. | NEUROPATOLOGÍAS (EPILEPSIA. SÍNDROME SAOS). |
+| B. TURNICIDAD/NOCTURNIDAD. |
+| VII | PLURIPATOLOGÍAS. |  | OTRAS LIMITACIONES NO ESPECIFICADAS EN CATEGORÍAS ANTERIORES, O COMO CONSECUENCIA DE LA AFECTACIÓN DE VARIOS APARATOS O SISTEMAS (MISCELANEA). |
+
+> Se modifica por el art. único.5 de la Orden INT/67/2024, de 29 de enero. Ref. BOE-A-2024-1991
