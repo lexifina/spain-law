@@ -52,7 +52,7 @@ Modelo 512. Impuesto sobre Hidrocarburos. Relación anual de destinatarios de pr
 
 Modelo 513. Impuesto sobre la Electricidad. Declaración anual de actividad.
 
-Modelo 515. Solicitud de marcas fiscales del Impuesto sobre las Labores del Tabaco.
+Modelo 515. Solicitud de entrega de marcas fiscales para las labores del tabaco.
 
 Modelo 517. Solicitud de marcas fiscales del Impuesto sobre el Alcohol y Bebidas Derivadas.
 
@@ -141,6 +141,8 @@ Modelo A22. Impuesto especial sobre los envases de plástico no reutilizables. S
 Modelo A23. Impuesto sobre los Gases Fluorados de Efecto Invernadero. Solicitud de devolución.
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
+
+> Se modifica el modelo 515 del apartado 2 por la disposición final 1 de la Orden HAC/66/2024, de 25 de enero. Ref. BOE-A-2024-1990#df
 
 > Se modifican los modelos 504 y 507 del apartado 2 por la disposición final 1 de la Orden HFP/626/2023, de 14 de junio. Ref. BOE-A-2023-14425
 
