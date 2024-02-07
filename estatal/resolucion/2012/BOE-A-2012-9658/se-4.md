@@ -18,4 +18,10 @@ El operador no podrá volver a intentar validar un número del documento naciona
 
 5. El operador registrará y conservará cuantas consultas realice al Sistema de Verificación de Identidad, dejando constancia de la fecha, hora y minuto de la consulta. Los datos deberán ser conservados, junto con los correspondientes al registro de usuario, durante el período de vigencia del registro de usuario y durante los seis años siguientes a su cancelación o anulación.
 
-6. Mensualmente, a los efectos de evaluación de la eficacia del sistema y para su mejora, el operador remitirá a la Comisión Nacional del Juego un informe en el que comunicará el número total de consultas realizadas y relacionará la totalidad de las consultas que no hubieran recibido respuesta por parte del Sistema de Verificación de Identidad.
+> Téngase en cuenta que el párrafo 6, suprimido por el art. 1.1 de la Resolución de 18 de julio de 2023. Ref. BOE-A-2023-17957, entra en vigor desde el 7 de febrero de 2024, según deternina su disposición final única
+
+> Redacción anterior:
+
+> "6. Mensualmente, a los efectos de evaluación de la eficacia del sistema y para su mejora, el operador remitirá a la Comisión Nacional del Juego un informe en el que comunicará el número total de consultas realizadas y relacionará la totalidad de las consultas que no hubieran recibido respuesta por parte del Sistema de Verificación de Identidad."
+
+> Se suprime el párrafo 6, con efectos desde el 7 de febrero de 2024, por el art. 1.1 de la Resolución de 18 de julio de 2023. Ref. BOE-A-2023-17957

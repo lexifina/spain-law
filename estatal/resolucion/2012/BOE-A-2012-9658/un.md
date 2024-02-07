@@ -20,4 +20,10 @@ En los supuestos en los que los cambios pongan de manifiesto la cancelación de 
 
 El operador de juego quedará eximido de responsabilidad en los supuestos de participación de personas inscritas en el Registro General de Interdicciones de Acceso al Juego en aquellas modalidades de juego en que la Comisión Nacional del Juego hubiera autorizado la participación sin la previa identificación de los participantes y siempre que éstos hubieran sido efectivamente informados de la prohibición.
 
-5. Mensualmente, a los efectos de evaluación de la eficacia del sistema de acceso al Registro General de Interdicciones de Acceso al Juego y para la mejora del mismo, el operador remitirá a la Comisión Nacional del Juego un informe en el que comunicará el número total de consultas realizadas y relacionará la totalidad de las consultas que no hubieran recibido respuesta.
+> Téngase en cuenta que el párrafo 5, suprimido por el art. 1.2 de la Resolución de 18 de julio de 2023. Ref. BOE-A-2023-17957, entra en vigor desde el 7 de febrero de 2024, según deternina su disposición final única
+
+> Redacción anterior:
+
+> "5. Mensualmente, a los efectos de evaluación de la eficacia del sistema de acceso al Registro General de Interdicciones de Acceso al Juego y para la mejora del mismo, el operador remitirá a la Comisión Nacional del Juego un informe en el que comunicará el número total de consultas realizadas y relacionará la totalidad de las consultas que no hubieran recibido respuesta."
+
+> Se suprime el párrafo 5, con efectos desde el 7 de febrero de 2024, por el art. 1.2 de la Resolución de 18 de julio de 2023. Ref. BOE-A-2023-17957

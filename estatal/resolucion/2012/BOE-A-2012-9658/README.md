@@ -33,5 +33,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección cuarta](sc.md)
 - [Duodécimo](du.md)
 - [Decimotercero](de-2.md)
+- [Decimocuarto](de-3.md)
+- [Decimoquinto](de-4.md)
 - [Disposición adicional](da.md)
 - [Disposición transitoria](dt.md)
