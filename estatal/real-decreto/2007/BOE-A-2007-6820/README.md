@@ -223,4 +223,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria decimoctava](dt.md)
 - [Disposición transitoria decimonovena](dt-2.md)
 - [Disposición transitoria vigésima](dt-3.md)
+- [Disposición transitoria vigésimoprimera](dt-4.md)
 - [Disposición final única](dfunica.md)
