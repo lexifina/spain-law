@@ -22,8 +22,12 @@ h) Cuantos otros datos sean necesarios para la elaboración del censo electoral,
 
 a) Designación de las personas que pueden representar a cada inscrito ante la Oficina Consular a efectos padronales.
 
-b) Número de teléfono del domicilio en el país de residencia.
+b) Número de teléfono del domicilio en el país de residencia o teléfono móvil.
 
 c) Domicilio y número de teléfono del municipio de referencia en España.
+
+d) Correo electrónico.
+
+> Se modifica el apartado 2 por el art. único.27 del Real Decreto 141/2024, de 6 de febrero. Ref. BOE-A-2024-2248
 
 > Se añade por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810
