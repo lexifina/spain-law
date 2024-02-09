@@ -14,7 +14,7 @@ d) No obstante lo dispuesto en las letras anteriores, las Dependencias Regionale
 
 2.º Los sucesores de personas físicas fallecidas y de las personas jurídicas y demás entidades disueltas o extinguidas que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o, en su caso, estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Aduanas e Impuestos Especiales con relación a alguno o algunos de los sucesores sobre los que tenga competencia de acuerdo con lo establecido en las letras a) y b).
 
-3.º Los obligados tributarios con domicilio fiscal en el ámbito de otra Delegación Especial, cuando así se haya acordado de conformidad con lo previsto en el artículo 7.2.i) de la Orden PRE/3581/2007, de 10 de diciembre.
+3.º Los obligados tributarios con domicilio fiscal en el ámbito de otra Delegación, cuando así se haya acordado de conformidad con lo previsto en el artículo 7.2.j) de la Orden PRE/3581/2007, de 10 de diciembre.
 
 4.º Cuando el obligado tributario fuese un no residente la competencia corresponderá a la Dependencia Regional en la que se hubiese descubierto la infracción, salvo que tenga representante fiscal en España, que se estará al domicilio fiscal de éste.
 
@@ -31,6 +31,8 @@ a) La competencia territorial en los procedimientos de intervención de impuesto
 b) Salvo disposición expresa, la competencia territorial en los procedimientos de gestión tributaria se determinará en función del lugar en el que se encuentre situado el establecimiento o, en su defecto, en función del domicilio fiscal del obligado tributario.
 
 c) La competencia territorial en relación con el Registro de Operadores de Tabaco Crudo y las actuaciones relativas a los controles previstos en la disposición adicional primera de la Ley 11/2021, de 9 de julio, se determinará por el lugar donde radique el establecimiento o medio de transporte y, en su defecto, por el domicilio fiscal del obligado. Los procedimientos sancionadores que se deriven del régimen sancionador previsto en la disposición anteriormente citada se iniciarán, instruirán y resolverán por los órganos correspondientes al lugar del descubrimiento de las acciones u omisiones susceptibles de calificarse como infracción administrativa.
+
+d) La competencia territorial en relación a las comprobaciones previstas en los apartados 3 y 6 del artículo 5 del Real Decreto 712/2022 por el que se aprueba el Reglamento del Impuesto sobre los Gases de Efecto Invernadero se determinará en función del domicilio de la instalación objeto de solicitud o autorizada como almacenista.
 
 4. En relación con las competencias de las sedes desconcentradas, de los Inspectores Regionales Adjuntos o de los Técnicos Jefes de Gestión Aduanera y de Impuestos Especiales, la competencia territorial se determinará en función del domicilio fiscal de los obligados en los procedimientos de su competencia, salvo en relación con:
 
@@ -60,6 +62,8 @@ c) La competencia para la vigilancia y control de las mercancías se determinar�
 
 d) La competencia para la comprobación de la ultimación del régimen de tránsito se determinará en función del lugar de presentación de la declaración en aduana de la vinculación de la mercancía a este régimen.
 
+> Se modifica el punto 1.d).3º y se añade el 3.d) por la disposición final 2.6 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
+
 > Se modifican los puntos 3, 4 y 5.a) y b) por el apartado único.13 a 16 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742
 
-> Se modifica el apartado 5.b) por la disposición final 1.4 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306
+> Se modifica el punto 5.b) por la disposición final 1.4 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306

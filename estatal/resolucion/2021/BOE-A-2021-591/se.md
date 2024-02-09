@@ -6,9 +6,17 @@ a) Son competencia de la Oficina Nacional de Gestión de Aduanas e Impuestos Esp
 
 1.º Las previstas en el artículo 7.1.e) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias, salvo las indicadas en sus números 13.º, 16.º, 19.º, 30.º, 31.º y, en relación con los números anteriores, las previstas en el número 33.º
 
-2.º La difusión de información y la contestación a solicitudes de información formuladas por escrito, así como la asistencia tributaria y aduanera en el cumplimiento de obligaciones de tal naturaleza, realizándose ambas funciones a través de canales de comunicación no presencial.
+2.º Las siguientes funciones en el ámbito de las atribuidas al Departamento de Aduanas e Impuestos Especiales, sin perjuicio de las funciones de coordinación atribuidas al Servicio de Planificación y Relaciones Institucionales:
 
-En el ámbito de Aduanas e Impuestos Especiales, en el supuesto que todas o parte de las competencias indicadas se desarrollasen a través de los equipos o grupos de las Administraciones de asistencia Digital Integral, las competencias de la Oficina Nacional de Gestión de Aduanas e Impuestos Especiales se limitarán a las de su coordinación y supervisión.
+El diseño, especificación y propuesta de mejora de las herramientas de asistencia al contribuyente. Estas funciones se deberán ajustar a las pautas comunes establecidas por el Servicio de Planificación y Relaciones Institucionales en colaboración con el Departamento de Informática Tributaria.
+
+La remisión de las directrices y de los criterios de actuación en materia de información y asistencia de su competencia, a realizar por las Administraciones de asistencia Digital Integral y por el resto de servicios territoriales.
+
+La formación de los empleados públicos en materia de información y asistencia.
+
+La coordinación de la información y asistencia no presencial con los servicios de información y asistencia presencial que correspondan a las Dependencias Regionales de Aduanas e Impuestos Especiales.
+
+La difusión de información en materia de Aduanas, Impuestos Especiales y Medioambientales y la contestación de solicitudes de información formuladas por escrito.
 
 b) La Oficina Nacional de Gestión de Aduanas e Impuestos Especiales dirigida por su titular, asistido por un Adjunto(a), estará integrada por las Áreas que en cada caso se determinen por el titular del Departamento de Aduanas e Impuestos Especiales.
 
@@ -76,4 +84,6 @@ f) En el desarrollo de las funciones de inspección e investigación, el titular
 
 g) En los casos de ausencia, vacante o enfermedad del titular de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, éste será sustituido, por el Adjunto y, en su defecto, por quien designe el titular del Departamento.
 
-> Se modifica el apartado 1.c) por la disposición final 1.1 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306
+> Se modifica el punto 1.a).2º por la disposición final 2.2 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
+
+> Se modifica el punto 1.c) por la disposición final 1.1 de la Resolución de 25 de febrero de 2021. Ref. BOE-A-2021-3306

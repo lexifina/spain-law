@@ -334,40 +334,10 @@ Delegación Especial de Madrid
 | Ciudad Lineal. | 28604 |
 | Fermín Caballero. | 28606 |
 | María de Molina. | 28612 |
-| San Blas. | 28613 |
 | Sudeste. | 28614 |
 | Guzmán el Bueno. | 28616 |
 
-> Téngase en cuenta que esta actualización de la Delegación Especial de Madrid, establecida por el apartado único.1 de la Resolución de 22 de mayo de 2023, Ref. BOE-A-2023-12913, entra en vigor el 30 de septiembre de 2023, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "Delegación Especial de Madrid
-
-> | Administración | Código |
-> | --- | --- |
-> | Alcalá de Henares | 28005 |
-> | Alcobendas | 28006 |
-> | Alcorcón | 28007 |
-> | Aranjuez | 28013 |
-> | Arganda | 28014 |
-> | Colmenar Viejo | 28045 |
-> | El Escorial | 28054 |
-> | Fuenlabrada | 28058 |
-> | Getafe | 28065 |
-> | Leganés | 28074 |
-> | Móstoles | 28092 |
-> | Pozuelo de Alarcón | 28115 |
-> | Torrejón de Ardoz | 28148 |
-> | Suroeste | 28602 |
-> | Montalbán | 28603 |
-> | Ciudad Lineal | 28604 |
-> | Fermín Caballero | 28606 |
-> | María de Molina | 28612 |
-> | San Blas | 28613 |
-> | Sudeste | 28614 |
-> | Villaverde-Usera | 28615 |
-> | Guzmán el Bueno | 28616" |
+> Téngase en cuenta que esta actualización de la Delegación Especial de Madrid, por la que se integra la Administración de San Blas en la Administración de Sudeste, establecida por la disposición final 1.3 de la Resolución de 5 de febrero de 2024, Ref. BOE-A-2024-2323, entra en vigor el 8 de marzo de 2024, según determina su disposición final 4.
 
 Delegación Especial de Murcia
 
@@ -521,21 +491,9 @@ Valencia-Marítima.
 
 Sagunto/Sagunt.
 
-> Téngase en cuenta que esta actualización de la Delegación Especial de Valencia, establecida por el apartado único.2 de la Resolución de 22 de mayo de 2023, Ref. BOE-A-2023-12913, entra en vigor el 30 de septiembre de 2023, según establece su disposición final única.
+> Se modifica el apartado I, en lo que concierne a la Delegación Especial de Madrid, por la disposición final 1.3 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
 
-> Redacción anterior:
-
-> "Delegación Especial de Valencia
-
-> Administración de Aduanas e Impuestos Especiales
-
-> Aeropuerto de Alicante/Alacant.
-
-> Aeropuerto de Valencia-Manises; con sede en Manises.
-
-> Valencia-Marítima.
-
-> Sagunto/Sagunt."
+> Esta modificación entra en vigor el día 8 de marzo de 2024, según establece la disposición final 4 de la citada Resolución.
 
 > Se modifica el apartado I, en lo que concierne a la Delegación Especial de Madrid, y el apartado II, en lo que concierne a la Delegación Especial de Valencia, por el apartado único.1 y 2 de la Resolución de 22 de mayo de 2023. Ref. BOE-A-2023-12913
 

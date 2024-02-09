@@ -23,3 +23,7 @@ h) Dictar las liquidaciones de los elementos de la obligación tributaria vincul
 En general, ejercerán cualesquiera otras competencias y funciones que les atribuya la normativa legal y reglamentaria y demás disposiciones que sean de aplicación.
 
 3. En el ámbito territorial, tienen la consideración de Inspector Jefe el titular de la Dependencia Regional de Aduanas e Impuestos Especiales, del Área de Control e Investigación y del Área de Gestión e Intervención de los Impuestos Especiales.
+
+4. En los casos en que, por necesidades fundamentadas del servicio, las actuaciones inspectoras deban ser o hayan sido realizadas directamente por los Jefes de Dependencia Regional, los acuerdos derivados de las actas y demás actos administrativos que procedan, deberán ser adoptados por los Inspectores Jefes de las Dependencias Regionales de Aduanas e Impuestos Especiales o quienes tengan dicha consideración según lo dispuesto en el punto 3, que designe la persona titular del Departamento de Aduanas e Impuestos Especiales.
+
+> Se añade el punto 4 por la disposición final 2.7 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323

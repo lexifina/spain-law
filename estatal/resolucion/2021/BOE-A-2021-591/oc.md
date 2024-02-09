@@ -24,7 +24,7 @@ g) La colaboración con el Área Regional de Gestión e Intervención de Impuest
 
 a) Acordar la realización de investigaciones conjuntas con el Área de Control e Investigación, cuando la complejidad de las mismas así lo requiera.
 
-b) Acordar la realización por el Área Regional de Vigilancia Aduanera de actuaciones concretas en el marco de los procedimientos de aplicación de los tributos que se lleven a cabo por el Área de Control e Investigación o por el Área de Gestión, en la medida en que existan razones justificadas que aconsejen dichas actuaciones.
+b) Acordar la realización por el Área Regional de Vigilancia Aduanera de actuaciones concretas en el marco de los procedimientos de aplicación de los tributos que se lleven a cabo por el Área de Control e Investigación, por el Área de Gestión Aduanera o por el Área de Gestión e Intervención de Impuestos Especiales, en la medida en que existan razones justificadas que aconsejen dichas actuaciones.
 
 c) Acordar, con carácter indefinido o temporal, la colaboración de funcionarios del Área Regional de Vigilancia Aduanera para la realización de actuaciones de intervención de Impuestos Especiales de Fabricación.
 
@@ -35,5 +35,7 @@ c) Acordar, con carácter indefinido o temporal, la colaboración de funcionario
 7. Cuando las funciones anteriores se desarrollen en relación con mercancías sujetas a vigilancia aduanera o en establecimientos aduaneros cuyo control corresponde a una sede desconcentrada de la Dependencia Regional o Administración de Aduanas e Impuestos Especiales, aquéllas se realizarán bajo la dirección funcional de los titulares de tales órganos o del titular del equipo o unidad competente o del Inspector Regional adjunto o Técnico Jefe del apartado décimo.3 manteniendo, en todo caso, su dependencia orgánica del titular de este Área Regional, incluso aunque dichas funciones constituyan la actividad principal de los funcionarios de Vigilancia Aduanera que las lleven a cabo.
 
 8. En los casos de ausencia, vacante o enfermedad del titular del Área Regional de Vigilancia Aduanera, será sustituido por el Jefe de la Unidad Regional Operativa o, en su defecto, por quién designe el titular de la Dependencia Regional.
+
+> Se modifica la letra b) del punto 4 por la disposición final 2.4 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
 
 > Se añade la letra g) al punto 1 y se modifica el punto 7 por el apartado único.6 y 7 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742
