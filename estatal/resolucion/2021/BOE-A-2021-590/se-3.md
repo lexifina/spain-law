@@ -2,13 +2,13 @@
 
 1. Para el ejercicio de sus funciones se crearán los Equipos de Gestión Tributaria y los Grupos de Gestión Tributaria que se consideren necesarios en la Oficina Nacional de Gestión Tributaria, en la Unidad Central de Información y Asistencia Digital, en las distintas sedes de las Dependencias Regionales de Gestión Tributaria y en las Administraciones de asistencia Digital Integral.
 
-En el caso de las Dependencias Regionales de Gestión Tributaria solo será necesaria la creación de Equipos o Grupos de Gestión Tributaria para el ejercicio de sus funciones ejecutivas.
+En el caso de las Dependencias Regionales de Gestión Tributaria sólo será necesaria la creación de Equipos o Grupos de Gestión Tributaria para el ejercicio de sus funciones ejecutivas.
 
 Los Grupos de Gestión Tributaria se podrán integrar, a su vez, en un Equipo de Gestión Tributaria.
 
-Los Equipos de Gestión Tributaria estarán dirigidos por un Jefe, Inspector de Hacienda, conforme a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria, y podrán estar integrados por Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por quien corresponda según lo previsto en el número 2 siguiente.
+Los Equipos de Gestión Tributaria estarán dirigidos por un Jefe, Inspector de Hacienda, conforme a las instrucciones que, en su caso, dicte la Dirección General de la Agencia Tributaria, y podrán estar integrados por Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por quien corresponda según lo previsto en el número 2 siguiente.
 
-Las Grupos de Gestión Tributaria estarán dirigidos por un Jefe, Técnico de Hacienda, conforme a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria y podrán estar integrados por Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por quien corresponda según lo previsto en el número 2 siguiente.
+Las Grupos de Gestión Tributaria estarán dirigidos por un Jefe, Técnico de Hacienda, conforme a las instrucciones que, en su caso, dicte la Dirección General de la Agencia Tributaria y podrán estar integrados por Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por quien corresponda según lo previsto en el número 2 siguiente.
 
 Corresponde al Jefe del Equipo o Grupo de Gestión Tributaria la dirección, supervisión y superior coordinación del mismo.
 
@@ -71,3 +71,5 @@ c) Las resoluciones o liquidaciones que procedan como consecuencia de las actuac
 En el caso de actas de disconformidad, el Jefe de la Dependencia Regional, el Inspector Regional Adjunto o el Inspector Coordinador podrá solicitar informe de la Oficina Técnica de la Delegación Especial de la Agencia correspondiente o bien elaborarlo directamente.
 
 d) Las actuaciones derivadas de las funciones propias de órgano de inspección señaladas en esta Resolución se realizarán por los funcionarios que desempeñen los correspondientes puestos de trabajo de los Grupos de Módulos. Estos funcionarios y los Inspectores-Jefes tendrán los derechos, prerrogativas y consideración del personal inspector, así como sus mismos deberes, siendo de aplicación lo previsto en el título V del RGAT.
+
+> Se modifica el apartado 1 por el art. único.6 de la Resolución de 1 de febrero de 2024. Ref. BOE-A-2024-2321

@@ -20,7 +20,7 @@ b) Los obligados tributarios que, sin estar domiciliados en el ámbito territori
 
 a) La información y asistencia al contribuyente y la contestación de las cuestiones que se presenten por escrito, en el marco de las funciones recogidas en este apartado, en los casos en que estas funciones no se realicen por la Unidad Central de Información y Asistencia Digital o por las Administraciones de asistencia Digital Integral.
 
-b) El apoyo a las Administraciones de asistencia Digital Integral, cuando así se solicite por el Director del Departamento de Gestión Tributaria y con la coordinación de los correspondientes Delegados Especiales.
+b) El apoyo a las Administraciones de asistencia Digital Integral, cuando así se solicite por la Dirección del Departamento de Gestión Tributaria y con la coordinación de los correspondientes Delegados Especiales.
 
 c) a emisión de certificados tributarios.
 
@@ -135,3 +135,5 @@ A estos efectos, los Administradores de la Agencia Estatal de Administración Tr
 a) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Gestión Tributaria.
 
 b) El Delegado Especial designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y de los Técnicos Jefes de Gestión Tributaria, a propuesta del Jefe de la Dependencia Regional de Gestión Tributaria.
+
+> Se modifica la letra b) del apartado 2.1 por el art. único.4 de la Resolución de 1 de febrero de 2024. Ref. BOE-A-2024-2321

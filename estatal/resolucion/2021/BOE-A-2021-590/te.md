@@ -2,9 +2,11 @@
 
 1. La Oficina Nacional de Gestión Tributaria ejerce sus competencias sobre todo el territorio nacional, en relación con los procedimientos cuya resolución corresponda a la Dirección del Departamento de Gestión Tributaria y los que especialmente le atribuye esta resolución, organizándose en las dos Áreas siguientes:
 
-Área Ejecutiva General.
+– Área Ejecutiva General.
 
-Área de No Residentes.
+– Área de No Residentes.
+
+Adicionalmente, la Oficina Nacional de Gestión Tributaria contará con una Unidad de Recursos y de Relaciones con los Tribunales, que dependerá del Jefe de la Oficina Nacional de Gestión Tributaria.
 
 1.1 Corresponde al Área Ejecutiva General:
 
@@ -12,7 +14,7 @@ a) La gestión y el control de las retenciones e ingresos a cuenta y de las decl
 
 b) La gestión de los expedientes relativos a exenciones o devoluciones del Impuesto sobre el Valor Añadido a no establecidos, representaciones diplomáticas y consulares y organismos internacionales, sin perjuicio de las competencias atribuidas a los órganos dependientes del Departamento de Aduanas e Impuestos Especiales en relación con la aplicación de las exenciones del Impuesto sobre el Valor Añadido en las importaciones de bienes.
 
-c) Las actuaciones y procedimientos de gestión e inspección en relación con el Impuesto sobre Sucesiones y Donaciones cuando las mismas no se encuentren cedidas a las Comunidades Autónomas, ni corresponda su gestión a las Delegaciones de la Agencia Estatal de Administración Tributaria de Ceuta y Melilla, así como la iniciación, instrucción y resolución de los procedimientos sancionadores que deriven de tales actuaciones o procedimientos, sin perjuicio de las competencias de comprobación e investigación que correspondan a otros órganos en el ámbito de competencias del Departamento de Inspección Financiera y Tributaria o de la Delegación Central de Grandes Contribuyentes. A estos efectos, el Área Ejecutiva de la Oficina Nacional de Gestión Tributaria tendrá el carácter de órgano de inspección y el Jefe de la citada Oficina la consideración de Inspector-Jefe, de acuerdo con lo establecido en los artículos 59.1, 61.2 y 166.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio (en adelante RGAT).
+c) Las actuaciones y procedimientos de gestión e inspección en relación con el Impuesto sobre Sucesiones y Donaciones cuando las mismas no se encuentren cedidas a las Comunidades Autónomas, ni corresponda su gestión a las Delegaciones de la Agencia Estatal de Administración Tributaria de Ceuta y Melilla, así como la iniciación, instrucción y resolución de los procedimientos sancionadores que deriven de tales actuaciones o procedimientos, sin perjuicio de las competencias de comprobación e investigación que correspondan a otros órganos en el ámbito de competencias del Departamento de Inspección Financiera y Tributaria o de la Delegación Central de Grandes Contribuyentes. A estos efectos, el Área Ejecutiva de la Oficina Nacional de Gestión Tributaria tendrá el carácter de órgano de inspección y el Jefe de la citada Oficina la consideración de Inspector-Jefe, de acuerdo con lo establecido en los artículos 59.1, 61.2 y 166.1 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio (en adelante, RGAT).
 
 d) La gestión de los regímenes especiales del Impuesto sobre el Valor Añadido aplicables a las ventas a distancia y a determinadas entregas interiores de bienes y prestaciones de servicios, así como la iniciación, instrucción y resolución de los procedimientos sancionadores que deriven de tales actuaciones y procedimientos, sin perjuicio de las competencias de comprobación e investigación que correspondan a otros órganos en el ámbito de competencias del Departamento de Inspección Financiera y Tributaria o de la Delegación Central de Grandes Contribuyentes.
 
@@ -24,11 +26,11 @@ g) La gestión centralizada de aquellos procedimientos que exijan el tratamiento
 
 h) La práctica de los requerimientos de ratificación de imputaciones que sean procedentes dentro de su ámbito de competencias o a propuesta, petición o solicitud de otros órganos gestores que no sean competentes en el caso concreto, así como la iniciación, instrucción y resolución de los procedimientos sancionadores que pudieran derivar de tales actuaciones. Cuando se requiera la intervención de órganos de competencia nacional adscritos a otros departamentos, canalizará la propuesta de las actuaciones que se consideren oportunas a los mismos.
 
-i) La gestión y control del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados cuando la misma no se encuentre cedida a las Comunidades Autónomas y no corresponda a las Delegaciones de la Agencia Estatal de Administración Tributaria en Ceuta y en Melilla, así como la iniciación, instrucción y resolución de los procedimientos sancionadores que deriven de tales actuaciones y procedimientos.
+i) La gestión y control del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados cuando la misma no se encuentre cedida a las Comunidades Autónomas y no corresponda a las Delegaciones de la Agencia Estatal de Administración Tributaria de Ceuta y de Melilla, así como la iniciación, instrucción y resolución de los procedimientos sancionadores que deriven de tales actuaciones y procedimientos.
 
 1.2 Corresponde al Área de No Residentes:
 
-a) La gestión del régimen opcional para contribuyentes residentes en otros Estados miembros de la Unión Europea, en el Impuesto sobre la Renta de No Residentes.
+a) La gestión del régimen opcional para contribuyentes residentes en otros Estados miembros de la Unión Europea en el Impuesto sobre la Renta de No Residentes.
 
 b) La gestión y control de las autoliquidaciones del Impuesto sobre la Renta de No Residentes cuando la presentación deba realizarse ante la Oficina Nacional de Gestión Tributaria o ante las Delegaciones o Administraciones de la Agencia Estatal de Administración Tributaria, conforme a lo dispuesto en la orden ministerial reguladora de los modelos de autoliquidación para declarar las rentas obtenidas sin mediación de establecimiento permanente.
 
@@ -38,4 +40,18 @@ d) La gestión y control del Impuesto sobre el Patrimonio por obligación real, 
 
 e) La iniciación, instrucción y resolución de los procedimientos sancionadores que pudieran derivar de las actuaciones anteriores.
 
-2. La Oficina Nacional de Gestión Tributaria estará dirigida por el Jefe de la Oficina Nacional de Gestión Tributaria, quien podrá estar asistido por uno o varios Jefes Adjuntos con la ubicación territorial que determine el Director General de la Agencia, a propuesta del Director del Departamento.
+1.3 Corresponden a la Unidad de Recursos y de Relaciones con los Tribunales las siguientes funciones:
+
+a) La tramitación de los recursos de reposición contra actos dictados por la Oficina Nacional de Gestión Tributaria, así como de las rectificaciones de autoliquidaciones que sean competencia de la misma.
+
+b) La tramitación de las suspensiones y custodia de las garantías de los recursos de reposición contra actos dictados por la Oficina Nacional de Gestión Tributaria.
+
+c) La ejecución de sentencias y resoluciones que recaigan sobre actos dictados por la Oficina Nacional de Gestión Tributaria.
+
+d) La formación de los expedientes que se hayan de enviar a los Tribunales.
+
+2. La Oficina Nacional de Gestión Tributaria estará dirigida por el Jefe de la misma, quien podrá estar asistido por uno o varios Jefes Adjuntos con la ubicación territorial que determine la Dirección General de la Agencia Tributaria, a propuesta de la Dirección del Departamento.
+
+Cada una de las Áreas y la Unidad de Recursos y de Relaciones con los Tribunales estarán dirigidas por un Jefe, Inspector de Hacienda, conforme a los criterios que se determinen, y podrán estar integradas por otros Inspectores de Hacienda, por Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine.
+
+> Se modifica por el art. único.2 de la Resolución de 1 de febrero de 2024. Ref. BOE-A-2024-2321
