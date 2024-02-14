@@ -2,25 +2,23 @@
 
 ## Zonas Restringidas
 
-Parte A: Zona restringida frente al serotipo 1 del virus de la lengua azul
+Parte A: zona restringida frente al serotipo 1 del virus de la lengua azul
 
 Se considerará zona restringida frente al serotipo 1 del virus de la lengua azul los siguientes territorios:
 
 1. La Comunidad Autónoma de Andalucía.
 
-Parte B: Zona restringida frente al serotipo 4 del virus de la lengua azul.
+Parte B: zona restringida frente al serotipo 4 del virus de la lengua azul
 
 Se considerará zona restringida frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
 1. La Comunidad Autónoma de Andalucía.
 
-2. La Comunidad Autónoma de las Islas Baleares.
+2. La Comunidad Autónoma de Extremadura.
 
-3. La Comunidad Autónoma de Extremadura.
+3. En la Comunidad Autónoma de Castilla-La Mancha: Las provincias de Toledo, Ciudad Real, Albacete y Cuenca.
 
-4. En la Comunidad Autónoma de Castilla-La Mancha: Las provincias de Toledo, Ciudad Real, Albacete y Cuenca.
-
-5. En la Comunidad de Castilla y León:
+4. En la Comunidad de Castilla y León:
 
 a) Las provincias de Salamanca y Ávila.
 
@@ -28,17 +26,19 @@ b) En la provincia de Zamora, las comarcas de Bermillo de Sayago, Alcañices y P
 
 c) En la provincia de Segovia, las comarcas de Santa María Real de Nieva, Segovia, Carbonero El Mayor, Cantalejo y Villacastín.
 
-6. La Comunidad de Madrid.
+5. La Comunidad de Madrid.
 
-7. La Comunidad Autónoma de Galicia.
+6. La Comunidad Autónoma de Galicia.
 
-8. La Comunidad Autónoma del Principado de Asturias.
+7. La Comunidad Autónoma del Principado de Asturias.
 
-9. La Comunidad Autónoma de Cantabria.
+8. La Comunidad Autónoma de Cantabria.
 
-10. La Comunidad Autónoma de la Región de Murcia.
+9. La Comunidad Autónoma de la Región de Murcia.
 
-Parte C: Zona restringida frente al serotipo 8 del virus de la lengua azul.
+10. En la Comunidat Valenciana: la provincia de Alicante/Alacant.
+
+> Se modifica por Resolución de 8 de febrero de 2024. Ref. BOE-A-2024-2745
 
 > Se modifican las partes A y B por Resolución de 13 de diciembre de 2023. Ref. BOE-A-2023-25963
 

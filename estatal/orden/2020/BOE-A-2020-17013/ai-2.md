@@ -2,9 +2,9 @@
 
 ## Zonas de vacunación voluntaria
 
-Parte A: Zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul.
+Parte A: zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul
 
-Parte B. Zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul.
+Parte B: zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul
 
 Se considerará zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -14,13 +14,7 @@ a) En la provincia de Zaragoza: las comarcas veterinarias de Ejea de los Caballe
 
 b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Binéfar, Boltaña, Castejón de Sos, Grañén, Graus, Huesca, Jaca, Monzón, Sabiñánigo, Sariñena y Tamarite de Litera.
 
-2. En la Comunidad Autónoma de Cataluña:
-
-a) En la provincia de Barcelona: las comarcas veterinarias de l’Anoia, Bages, Baix Llobregat, Barcelonès, Berguedà, Maresme, Moianès, Osona, Vallès Occidental y Vallès Oriental.
-
-b) La provincia de Girona.
-
-c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Ribagorça, Noguera, Pallars Jussà, Pallars Sobirà, Pla d’Urgell, Segarra, Segrià, Solsonès, Urgell y Vall d’Aran, así como los municipios de la provincia pertenecientes a la comarca veterinaria de Cerdanya.
+2. La Comunidad Autónoma de Cataluña.
 
 3. La Comunidad Foral de Navarra.
 
@@ -30,7 +24,7 @@ c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Riba
 
 En la provincia de Zamora: la comarca de Zamora.
 
-Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
+Parte C: zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul
 
 Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
@@ -40,23 +34,13 @@ a) En la provincia de Zaragoza: las comarcas veterinarias de Ejea de los Caballe
 
 b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Binéfar, Boltaña, Castejón de Sos, Grañén, Graus, Huesca, Jaca, Monzón, Sabiñánigo, Sariñena y Tamarite de Litera.
 
-2. En la Comunidad Autónoma de Cataluña:
-
-a) En la provincia de Barcelona: las comarcas veterinarias de l’Anoia, Bages, Baix Llobregat, Barcelonès, Berguedà, Maresme, Moianès, Osona, Vallès Occidental y Vallès Oriental.
-
-b) La provincia de Girona.
-
-c) En la provincia de Lleida: las comarcas veterinarias de Alt Urgell, Alta Ribagorça, Noguera, Pallars Jussà, Pallars Sobirà, Pla d’Urgell, Segarra, Segrià, Solsonès, Urgell y Vall d’Aran, así como los municipios de la provincia pertenecientes a la comarca veterinaria de Cerdanya.
+2. La Comunidad Autónoma de Cataluña.
 
 3. La Comunidad Foral de Navarra.
 
 4. La Comunidad Autónoma del País Vasco.
 
-5. La Comunidad Autónoma de Galicia.
-
-6. El Principado de Asturias.
-
-7. La Comunidad Autónoma de Cantabria.
+> Se modifica por Resolución de 8 de febrero de 2024. Ref. BOE-A-2024-2745
 
 > Se modifica por Resolución de 13 de noviembre de 2023. Ref. BOE-A-2023-23273
 
