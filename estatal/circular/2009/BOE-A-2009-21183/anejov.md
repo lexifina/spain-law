@@ -1,5 +1,5 @@
 ## ANEJO V
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/315/21183_007.png)
+## (Derogado)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/315/21183_008.png)
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. Ref. BOE-A-2024-1867#dd

@@ -1,21 +1,7 @@
 ## Norma primera. Información sobre la estructura de capital
 
-Los bancos, cooperativas de crédito, establecimientos financieros de crédito y entidades de dinero electrónico comunicarán al Banco de España:
+(Derogada)
 
-a) Tan pronto como lo conozcan, y como máximo en el plazo de diez días hábiles desde la anotación en el libro registro de acciones o aportaciones nominativas, las adquisiciones y cesiones de acciones o aportaciones que determinen que el porcentaje de participación o los derechos de voto que queden en poder de una persona física o jurídica o grupo, en el sentido del artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, traspase, de manera directa o indirecta, alguno de los niveles señalados en los artículos 57 y 60 de la Ley 26/1988, de 29 de julio, de Disciplina e intervención de las entidades de crédito, y aquellas que, sin llegar al 10%, permitan ejercer una influencia notable en la entidad. Estas comunicaciones se efectuarán utilizando el modelo recogido en el anejo I.
-
-b) Tan pronto como lo conozcan, y como máximo en el plazo de diez días hábiles desde la anotación en el libro registro de acciones o aportaciones nominativas, las transmisiones de acciones o aportaciones que, sin cumplir los criterios de la letra a) anterior, impliquen la adquisición neta por una persona física o jurídica, en una o varias operaciones, de un porcentaje directo o indirecto igual o superior al 1% del capital social de la entidad. Estas comunicaciones se efectuarán utilizando el modelo recogido en el anejo I.
-
-c) Trimestralmente, dentro del mes siguiente al trimestre natural al que se refieran, y referido al último día del período, una relación de todos los accionistas o tenedores de aportaciones que tengan la consideración de entidades financieras y los que, no siéndolo, tengan inscritas a su nombre acciones o aportaciones que representen un porcentaje del capital social de la entidad igual o superior al 0,25 % en el caso de los bancos, al 1 % en el de las cooperativas de crédito y en el de los establecimientos financieros de crédito, o al 2,5 % en el de las entidades de dinero electrónico. Estas comunicaciones se efectuarán utilizando el modelo incluido en el anejo II.
-
-A efectos de esta norma, como entidades financieras se incluirán, en todo caso, las de nacionalidad española a las que se hace referencia en las letras a) a g) del punto 4 del artículo octavo de la Ley 13/1985, de 25 de mayo, sobre Coeficientes de inversión, recursos propios y obligaciones de información de los intermediarios financieros, las entidades aseguradoras y las reaseguradoras, y aquellas otras entidades extranjeras que le conste a la entidad declarante que tienen una naturaleza similar a las citadas anteriormente.
-
-En la anterior letra a), a los efectos de determinar el porcentaje de participación o los derechos de voto, o lo que se entiende por influencia notable, se estará a lo establecido en el Título VI de la Ley 26/1988, de 29 de julio, y a las normas que lo desarrollen.
-
-> Téngase en cuenta que esta última actualización del párrafo primero de la letra c), establecido por la disposición final 1 de la Circular 1/2022, de 24 de enero de 2022. Ref. BOE-A-2022-1718#df, produce efectos desde el 3 de mayo de 2022, según determina su disposición final 3.
-
-> Redacción anterior:
-
-> "c) Trimestralmente, dentro del mes siguiente al trimestre natural al que se refieran, y referido al último día del período, una relación de todos los accionistas o tenedores de aportaciones que tengan la consideración de entidades financieras y los que, no siéndolo, tengan inscritas a su nombre acciones o aportaciones que representen un porcentaje del capital social de la entidad igual o superior al 0,25% en el caso de los bancos, al 1% en el de las cooperativas de crédito, o al 2,5% en el de los establecimientos financieros de crédito y las entidades de dinero electrónico. Estas comunicaciones se efectuarán utilizando el modelo incluido en el anejo II."
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. Ref. BOE-A-2024-1867#dd
 
 > Se modifica el párrafo primero de la letra c), con efectos desde el 3 de mayo de 2022, por la disposición final 1 de la Circular 1/2022, de 24 de enero de 2022. Ref. BOE-A-2022-1718#df
