@@ -1,0 +1,3 @@
+El Secretario de Estado de Educación y el Secretario General de Universidades han suscrito, con fecha de 11 de febrero de 2024, una resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2023-2024.
+
+Para general conocimiento, dispongo su publicación en el «Boletín Oficial del Estado» como anejo a la presente resolución.
