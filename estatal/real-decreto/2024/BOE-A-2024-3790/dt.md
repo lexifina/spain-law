@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Régimen transitorio aplicable a las unidades y puestos de trabajo suprimidos del extinto Ministerio de Justicia.
+
+1. Las unidades y puestos de trabajo con nivel orgánico inferior al de subdirección general procedentes del extinto Ministerio de Justicia se adscribirán provisionalmente, mediante resolución de la persona titular de la Subsecretaría de la Presidencia, Justicia y Relaciones con las Cortes y hasta que entre en vigor la nueva relación de puestos de trabajo, a los nuevos órganos regulados en este real decreto, en función de las atribuciones que estos tienen asignados.
+
+2. Por resolución conjunta de las Subsecretarías de la Presidencia, Justicia y Relaciones con las Cortes, y de Vivienda y Agenda Urbana se arbitrarán las medidas precisas para distribuir, con arreglo a los criterios de proporcionalidad que resulten de aplicación, las unidades y puestos de trabajo inferiores a subdirección general adscritos a los órganos de los servicios comunes procedentes del extinto Ministerio de Justicia.

@@ -1,0 +1,3 @@
+## Disposición adicional novena. Gestión económico financiera y de régimen interior de la Abogacía General del Estado y apoyo de la Subsecretaría.
+
+Corresponderá a la Abogacía General del Estado su propia gestión económica, patrimonial, financiera, presupuestaria y de régimen interior, así como la administración y gestión del Cuerpo de Abogados del Estado y cualesquiera otras funciones dentro del ámbito económico financiero y de personal que no estén atribuidas a otros órganos superiores o directivos por el ordenamiento jurídico. Para el ejercicio de estas funciones, la Abogacía General del Estado contará con el apoyo y asistencia de la Subsecretaría del Departamento.

@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Suplencia de las personas titulares de los órganos directivos.
+
+En los casos de vacancia, ausencia o enfermedad de la persona titular de un órgano directivo, así como en los supuestos de abstención o recusación, corresponderá la suplencia a las personas titulares de los órganos inmediatamente dependientes, por el orden en que aparecen citados en la estructura establecida en el presente real decreto, salvo que el superior jerárquico inmediato del que dependa dicho órgano establezca otro orden de sustitución.
+
+En el caso de que se trate de titulares de órganos directivos del que no dependan otros órganos, la suplencia, en los mismos supuestos referidos en el apartado anterior, corresponderá, en caso de que existan, a las personas que ocupen el puesto de adjunto de dichos órganos, y, en caso contrario, a las personas titulares de los órganos que dependan del mismo órgano inmediato superior jerárquico común, por el orden en que aquellos aparecen citados en la estructura establecida en el presente real decreto, salvo que el superior jerárquico inmediato común del que dependan dichos órganos establezca otro orden de sustitución.
