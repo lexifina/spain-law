@@ -1,0 +1,15 @@
+El Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales, creó el Ministerio de Juventud e Infancia, al que corresponde la propuesta y ejecución de la política del Gobierno en materia de juventud y de protección del menor. Con posterioridad, mediante el Real Decreto 837/2023, de 22 de noviembre, por el que se crean Subsecretarías en los departamentos ministeriales, fue creada la Subsecretaría de Juventud e Infancia.
+
+Por su parte, mediante el Real Decreto 1009/2023, de 5 de diciembre, se establece la estructura orgánica básica de los departamentos ministeriales, fijándose la estructura básica del Ministerio de Juventud e Infancia y determinándose sus órganos superiores y directivos hasta el nivel orgánico de dirección general, de conformidad con el artículo 59.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+Así, de acuerdo con el artículo 22 del Real Decreto 1009/2023, de 5 de diciembre, los órganos superiores y directivos del Ministerio de Juventud e Infancia son la Secretaría de Estado de Juventud e Infancia, de la que depende la Dirección General de Derechos de la Infancia y la Adolescencia, y la Subsecretaría de Juventud e Infancia, de la que depende la Secretaría General Técnica.
+
+En cumplimiento de la disposición final segunda del Real Decreto 1009/2023, de 5 de diciembre, procede ahora desarrollar la estructura orgánica básica del Ministerio de Juventud e Infancia hasta el nivel orgánico de subdirección general, definiendo asimismo las competencias de cada uno de sus órganos.
+
+Este real decreto se adecua a los principios de buena regulación (necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia) conforme a los cuales deben actuar las Administraciones Públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, según establece el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En concreto, cumple con los principios de necesidad y eficacia, al tratarse del instrumento adecuado para garantizar el interés general y la efectiva ejecución de las políticas públicas del Gobierno en materia de infancia y juventud. También se adecua al principio de proporcionalidad, ya que se utiliza el instrumento normativo idóneo para crear el marco organizativo y de funcionamiento del Departamento. Se ajusta asimismo a los principios de seguridad jurídica y de transparencia, al concretar la estructura de los órganos directivos y superiores que lo conforman y ser coherente con el resto del ordenamiento jurídico. Finalmente, se cumple con el principio de eficiencia, puesto que no se imponen cargas administrativas adicionales o innecesarias.
+
+En su virtud, a iniciativa de la Ministra de Juventud e Infancia, a propuesta del Ministro de Transformación Digital y de la Función Pública, y previa deliberación del Consejo de Ministros en su reunión de 27 de febrero de 2024,
+
+DISPONGO:
