@@ -22,4 +22,8 @@ i) La Dirección General de Atención a las Víctimas y Promoción de la Memoria
 
 j) La Dirección General de Salud Pública y Equidad en Salud.
 
+k) La Dirección General de Planificación y Evaluación.
+
 2. Las razones que justificaron la aplicación de la excepción de las reglas generales de nombramiento a la Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas, la Dirección General de Políticas Palanca para el Cumplimiento de la Agenda 2030, la Dirección General para la Igualdad de Trato y Diversidad Étnico Racial, la Dirección General de Diversidad Sexual y Derechos LGTBI y la Dirección General del Instituto de la Mujer y para la Igualdad de Oportunidades se mantienen en relación con la Dirección General de Trabajo Autónomo, la Dirección General de Agenda 2030, la Dirección General para la Igualdad de Trato y No Discriminación y contra el Racismo, la Dirección General para la Igualdad real y Efectiva de las personas LGTBI+ y la Dirección General del Instituto de las Mujeres que respectivamente las suceden.
+
+> Se añade la letra k) al apartado 1 por la disposición final 1.2 del Real Decreto 208/2024, de 27 de febrero. Ref. BOE-A-2024-3794#df
