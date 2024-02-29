@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Uso de los derechos de emisión entregados por las instalaciones excluidas para el cumplimiento de los compromisos contraídos en el marco de la Unión Europea y del Acuerdo de París.
+
+Los derechos de emisión que hayan sido entregados por las instalaciones excluidas de conformidad con el artículo 8 y 13 de este real decreto podrán ser empleados por el Gobierno para el cumplimiento de los compromisos de reducción de emisiones de gases de efecto invernadero contraídos en el marco de la normativa de la Unión Europea en los sectores no cubiertos por el régimen de comercio de derechos de emisión de la Unión Europea y del Acuerdo de París, de 12 de diciembre de 2015, en vigor para España el 11 de febrero de 2017.
