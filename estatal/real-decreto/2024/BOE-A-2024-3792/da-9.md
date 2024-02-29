@@ -1,0 +1,13 @@
+## Disposición adicional novena. Presidencia de las secciones del Comité de Cooperación en materia de contratación pública.
+
+La presidencia de las secciones del Comité de Cooperación en materia de contratación pública corresponderá a las personas titulares de los siguientes órganos:
+
+a) La Sección relativa a la regulación de la contratación estará presidida por la persona titular de la Secretaría de la Junta Consultiva de Contratación Pública del Estado.
+
+b) La Sección relativa a la información cuantitativa y estadística en materia de contratación pública será presidida por la persona titular de la Subdirección General de Gobernanza y Coordinación de la contratación pública.
+
+c) La Sección relativa a la supervisión de la contratación pública estará presidida por el Vicepresidente del Comité de Cooperación en materia de contratación pública.
+
+d) La Sección de contratación pública electrónica estará presidida por la persona titular de la Subdirección General de Coordinación de la Contratación Electrónica.
+
+e) La Sección relativa a la supervisión del funcionamiento del Registro Oficial de Licitadores y Empresas Clasificadas del Sector Público estará presidida por la persona titular de la Subdirección General de Clasificación de Contratistas y Registro de Contratos.
