@@ -83,4 +83,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 46](a4-5.md)
 - [Artículo 47](a4-6.md)
 - [Artículo 48](a4-7.md)
+- [Disposición adicional única](da.md)
 - [(Información relacionada)](informacionrelacionada.md)

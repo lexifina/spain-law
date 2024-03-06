@@ -1,0 +1,31 @@
+## Artículo segundo. Modificación del Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social, aprobado por el Real Decreto 138/2000, de 4 de febrero.
+
+El Reglamento de Organización y Funcionamiento de la Inspección de Trabajo y Seguridad Social, aprobado por el Real Decreto 138/2000, de 4 de febrero, queda modificado como sigue:
+
+Uno. Se introduce un nuevo artículo 14 bis, con la siguiente redacción:
+
+> «Artículo 14 bis. Principio general de funcionamiento por medios electrónicos.
+
+> 1. La Inspección de Trabajo y Seguridad Social se relacionará con los ciudadanos preferentemente por medios electrónicos, en los términos regulados en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con las especialidades incluidas en este reglamento, en el Reglamento general sobre procedimientos para la imposición de sanciones por infracciones de orden social y para los expedientes liquidatorios de cuotas de la Seguridad Social, aprobado por Real Decreto 928/1998, de 14 de mayo, y en las normas dictadas en su desarrollo.
+
+> 2. La Inspección de Trabajo y Seguridad Social, junto con otros órganos, organismos públicos o entidades de la Administración General del Estado o de las Comunidades Autónomas, podrá desarrollar aplicaciones informáticas dirigidas a la tramitación integrada de procedimientos administrativos. Las administraciones que utilicen estas aplicaciones deberán informar en sus sedes electrónicas de los términos y condiciones sobre el uso de las mismas con antelación suficiente a su puesta en funcionamiento, así como incluir la correspondiente cláusula informativa en materia de protección de datos personales, de conformidad con los artículos 13 y 14 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos) y, en su caso, las previsiones de su artículo 22.
+
+> Los documentos electrónicos transmitidos en estas aplicaciones mediante entornos cerrados de comunicaciones serán considerados válidos a efectos de autenticación e identificación de los emisores y receptores con las condiciones y garantías que se establezcan, de conformidad con lo previsto en el artículo 25 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo. En todo caso, se garantizará la seguridad del entorno cerrado de comunicaciones y la protección de los datos que se transmitan conforme a los requisitos establecidos en el Esquema Nacional de Seguridad, adaptando los criterios de determinación del riesgo en el tratamiento de los datos personales a lo establecido en el artículo 32 del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (Reglamento General de Protección de Datos).»
+
+Dos. Se introducen dos nuevos apartados 4 y 5 en el artículo 21, con la siguiente redacción:
+
+> «4. La representación para actuar ante la Inspección de Trabajo y Seguridad Social se entenderá acreditada mediante apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica en la correspondiente sede electrónica, o a través de la acreditación de su inscripción en el registro electrónico de apoderamientos del Organismo Estatal Inspección de Trabajo y Seguridad Social. Ello sin perjuicio de la posibilidad de acreditar la representación por cualquier otro medio válido en Derecho.
+
+> 5. Se crea el Registro Electrónico de Apoderamientos de la Inspección de Trabajo y Seguridad Social, en el que se inscribirán los apoderamientos relativos a actuaciones de la competencia del Organismo Estatal Inspección de Trabajo y Seguridad Social.
+
+> Cuando la persona poderdante o la apoderada tuvieran condición de personas físicas, el tratamiento automatizado de sus datos que resulte necesario para el adecuado funcionamiento del Registro y su finalidad se fundamenta en el artículo 6.1.e) del Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (Reglamento General de Protección de Datos).
+
+> Mediante orden del Ministerio de Trabajo y Economía Social se regularán los requisitos y condiciones de funcionamiento de dicho registro.»
+
+Tres. Se introduce una disposición adicional cuarta, con la siguiente redacción:
+
+> «Disposición adicional cuarta. Colaboración entre el Organismo Estatal Inspección de Trabajo y Seguridad Social y las comunidades autónomas.
+
+> 1. El Organismo Estatal Inspección de Trabajo y Seguridad Social y las comunidades autónomas podrán articular mediante un convenio la colaboración entre el citado Organismo y las autoridades autonómicas competentes para tramitar y resolver actuaciones inspectoras o procedimientos iniciados por la Inspección de Trabajo y Seguridad Social que dispongan de sus propios Registros Electrónicos de Apoderamientos. Las comunidades autónomas podrán adherirse a las aplicaciones informáticas desarrolladas por el Organismo Estatal Inspección de Trabajo y Seguridad Social como soporte tecnológico de sus propios Registros Electrónicos de Apoderamientos.
+
+> 2. En el caso de que las comunidades autónomas dispongan de aplicaciones informáticas propias dirigidas a la tramitación de los procedimientos sancionadores iniciados por la Inspección de Trabajo y Seguridad Social cuya competencia para resolver ostenten, mediante convenio de colaboración entre el Organismo Estatal Inspección de Trabajo y Seguridad Social y las comunidades autónomas se garantizará la transmisión recíproca de información y datos relativos a los mencionados procedimientos sancionadores.»
