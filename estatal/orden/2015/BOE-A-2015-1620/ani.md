@@ -36,19 +36,23 @@ Se reconocen hasta dos días adicionales de permiso por asuntos particulares des
 
 El militar que no haya podido disfrutar de sus días por asuntos particulares durante el año correspondiente por necesidades del servicio debidamente justificadas y motivadas por razones operativas o de funcionamiento de las unidades, centros y organismos, podrá disfrutar de dichos días durante el primer semestre del año siguiente.
 
-## Tercera. Fallecimiento, accidente, enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario.
+## Tercera. Accidente, enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario.
 
-1. Por fallecimiento, accidente, enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario acreditado de un familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad de destino o residencia autorizada del militar, y cinco días hábiles cuando sea en distinta localidad. Este último plazo se ampliará en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
+Por accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario del cónyuge, pareja de hecho o parientes hasta el primer grado por consanguinidad o afinidad, así como de cualquier otra persona distinta de las anteriores que conviva con el militar en el mismo domicilio y que requiera el cuidado efectivo de aquella, cinco días hábiles. Si el suceso se produce en distinta localidad de destino o residencia autorizada del militar, el plazo se ampliará en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
 
-2. Por fallecimiento, accidente o enfermedad grave, hospitalización o intervención quirúrgica sin hospitalización que precise reposo domiciliario acreditado de un familiar dentro del segundo grado de consanguinidad o afinidad y se produzca en la misma localidad de destino o residencia autorizada del militar, dos días hábiles y de cuatro días hábiles cuando sea en distinta localidad. Este último plazo se ampliará en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
+Cuando se trate de accidente o enfermedad graves, hospitalización o intervención quirúrgica sin hospitalización que precise de reposo domiciliario, de un familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de cuatro días hábiles. Si el suceso se produce en distinta localidad de destino o residencia autorizada del militar, el plazo se ampliará en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
+
+## Tercera bis. Fallecimiento.
+
+Por fallecimiento del cónyuge, pareja de hecho o familiar dentro del primer grado de consanguinidad o afinidad, tres días hábiles cuando el suceso se produzca en la misma localidad del destino o residencia autorizada del militar, y cinco días hábiles, cuando sea en distinta localidad. En el caso de fallecimiento de familiar dentro del segundo grado de consanguinidad o afinidad, el permiso será de dos días hábiles cuando se produzca en la misma localidad y de cuatro días hábiles cuando sea en distinta localidad. Estos plazos se ampliarán en dos días hábiles si el militar debe desplazarse desde el extranjero por encontrarse allí destinado o entre archipiélagos, entre cualquiera de estos y las ciudades de Ceuta o Melilla, entre la península y cualquiera de los archipiélagos o las ciudades de Ceuta o Melilla y entre ambas.
 
 ## Cuarta. Traslado de domicilio.
 
 Por traslado de domicilio sin cambio de localidad de destino, un día. Cuando el traslado de domicilio sea consecuencia de un cambio de destino, se tendrán en cuenta los plazos establecidos en el artículo 24 del Reglamento de destinos del personal militar profesional aprobado por Real Decreto 456/2011, de 1 de abril.
 
-## Quinta. Permiso por matrimonio.
+## Quinta. Matrimonio, registro o constitución formalizada por documento público de pareja de hecho.
 
-Por matrimonio, quince días.
+Por matrimonio o registro o constitución formalizada por documento público de pareja de hecho, quince días.
 
 ## Sexta. Permiso por nacimiento para la madre biológica.
 
@@ -110,14 +114,6 @@ Los supuestos de adopción, guarda con fines de adopción o acogimiento, tanto t
 
 2. En el supuesto de que por necesidades del servicio, el militar comisionado en una misión internacional, no hubiera disfrutado de este permiso, disfrutará del mismo a la vuelta de su comisión en el exterior, sin perjuicio del resto de permisos que le pudieran corresponder.
 
-> Téngase en cuenta que esta última actualización de la norma séptima, establecida por el art. único.25 de la Orden DEF/112/2019, de 9 de febrero. Ref. BOE-A-2019-1786, entrará en vigor el mismo día que entre en vigor la norma que prevea la ampliación del permiso de paternidad hasta dieciséis semanas para el resto del personal al servicio de la Administración General del Estado, según determina su disposición final única, y seguirá vigente, hasta ese momento, la redacción anterior, según establece su disposición transitoria única.
-
-> Redacción anterior:
-
-> "Por el nacimiento, acogimiento, o adopción de un hijo, cuatro semanas a disfrutar por el padre a partir de la fecha del nacimiento, de la decisión administrativa o judicial de acogimiento o de la resolución judicial por la que se constituya la adopción.
-
-> La duración indicada se ampliará en el supuesto de parto, adopción o acogimiento múltiple en dos días más por cada hijo a partir del segundo."
-
 ## Octava. Permiso por lactancia.
 
 1. Por lactancia de un hijo menor de 12 meses, el militar tendrá derecho a una hora diaria de ausencia del trabajo, con posibilidad de fraccionar en media hora al inicio y al final de la jornada.
@@ -135,6 +131,8 @@ En cualquier caso, la exoneración de las guardias, servicios, maniobras o activ
 La militar en estado de gestación tendrá derecho a un permiso desde el día primero de la semana 37 de embarazo, hasta la fecha de parto.
 
 En el supuesto de gestación múltiple este permiso podrá iniciarse el primer día de la semana 35 de embarazo, hasta la fecha de parto.
+
+> Se modifican las normas tercera, quinta y se añade la tercera bis por el art. único.15 a 17 de la Orden DEF/228/2024, de 11 de marzo. Ref. BOE-A-2024-4861
 
 > Se modifican las normas sexta, séptima, octava.2 y se añade la séptima bis por el art. único. 12 a 15 de la Orden DEF/1471/2021, de 21 de diciembre. Ref. BOE-A-2021-21656
 
