@@ -24,7 +24,7 @@ b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Bi
 
 En la provincia de Zamora: la comarca de Zamora.
 
-Parte C: zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul
+Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul
 
 Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
@@ -39,6 +39,12 @@ b) En la provincia de Huesca: las comarcas veterinarias de Ayerbe, Barbastro, Bi
 3. La Comunidad Foral de Navarra.
 
 4. La Comunidad Autónoma del País Vasco.
+
+5. La Comunidad Autónoma de Cantabria.
+
+6. La Comunidad Autónoma del Principado de Asturias.
+
+> Se modifica la parte C por Resolución de 7 de marzo de 2024. Ref. BOE-A-2024-5208
 
 > Se modifica por Resolución de 8 de febrero de 2024. Ref. BOE-A-2024-2745
 
