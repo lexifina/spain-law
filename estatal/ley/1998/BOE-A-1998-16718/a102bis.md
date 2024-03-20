@@ -8,11 +8,19 @@ Si no se cumplieran los requisitos establecidos en el párrafo anterior, se inad
 
 Interpuesto el recurso en tiempo y forma, el Secretario judicial dará traslado de las copias del escrito a las demás partes, por término común de tres días, a fin de que puedan impugnarlo si lo estiman conveniente. Transcurrido dicho plazo, el Secretario judicial resolverá mediante decreto dentro del tercer día.
 
-2. Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión al recurrir, si fuere procedente, la resolución definitiva.
-
-Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
+2. Cabrá recurso de revisión ante el juez, la jueza o el tribunal contra el decreto resolutivo de la reposición y recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dichos recursos carecerán de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
 
 Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea.
+
+> Téngase en cuenta que la modificación del apartado 2, establecida por el art. 102.22 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+
+> Redacción anterior:
+
+> "2. Contra el decreto resolutivo de la reposición no se dará recurso alguno, sin perjuicio de reproducir la cuestión al recurrir, si fuere procedente, la resolución definitiva.
+
+> Cabrá recurso directo de revisión contra los decretos por los que se ponga fin al procedimiento o impidan su continuación. Dicho recurso carecerá de efectos suspensivos sin que, en ningún caso, proceda actuar en sentido contrario a lo que se hubiese resuelto.
+
+> Cabrá interponer igualmente recurso directo de revisión contra los decretos en aquellos casos en que expresamente se prevea."
 
 > Téngase en cuenta que se declara la inconstitucionalidad y nulidad del primer párrafo del apartado 2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
 
@@ -27,6 +35,10 @@ Transcurrido el plazo para impugnación, háyanse presentado o no escritos, el J
 Contra las resoluciones sobre admisión o inadmisión no cabrá recurso alguno.
 
 4. Contra el auto dictado resolviendo el recurso de revisión únicamente cabrá recurso de apelación y de casación en los supuestos previstos en los artículos 80 y 87 de esta Ley, respectivamente.
+
+> Se modifica el apartado 2 por el art. 102.22 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+
+> Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se declara la inconstitucionalidad y nulidad del primer párrafo del apartado 2, en la redacción dada por la Ley 13/2009, de 3 de noviembre, por Sentencia 58/2016, de 17 de marzo. Ref. BOE-A-2016-3911.
 

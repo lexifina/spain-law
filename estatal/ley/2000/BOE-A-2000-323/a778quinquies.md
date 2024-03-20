@@ -40,19 +40,35 @@ En la exploración del menor se garantizará que el mismo pueda ser oído en con
 
 En los demás casos se declararán de oficio las costas del proceso.
 
-11. Contra la resolución que se dicte sólo cabrá recurso de apelación con efectos suspensivos, que tendrá tramitación preferente, debiendo ser resuelto en el improrrogable plazo de veinte días.
+11. Contra la resolución que se dicte sólo cabrá recurso de apelación con efectos suspensivos, que tendrá tramitación preferente, debiendo ser resuelto en el improrrogable plazo de treinta días.
 
 En la tramitación del recurso de apelación se seguirán las siguientes especialidades:
 
-a) Se interpondrá en el plazo de tres días contados desde el día siguiente a la notificación de la resolución, debiendo el órgano judicial acordar su admisión o no dentro de las 24 horas siguientes a la presentación.
+a) Se interpondrá ante el tribunal que haya de resolver el recurso en el plazo de diez días contados desde el día siguiente a la notificación de la resolución, debiendo el órgano judicial acordar su admisión o no dentro de las veinticuatro horas siguientes a la presentación.
 
 b) Admitido el recurso, las demás partes tendrán tres días para presentar escrito de oposición al recurso o, en su caso, de impugnación. En este último supuesto, igualmente el apelante principal dispondrá del plazo de tres días para manifestar lo que tenga por conveniente.
 
-c) Tras ello, el Letrado de la Administración de Justicia ordenará la remisión de los autos en el mismo día al Tribunal competente para resolver la apelación, ante el cual deberán comparecer las partes en el plazo de 24 horas.
+c) Si hubiere de practicarse prueba o si se acordase la celebración de vista, el Letrado de la Administración de Justicia señalará día para dentro de los tres días siguientes.
 
-d) Recibidos los autos, el Tribunal acordará lo que proceda sobre su admisión en el plazo de 24 horas. Si hubiere de practicarse prueba o si se acordase la celebración de vista, el Letrado de la Administración de Justicia señalará día para dentro de los tres días siguientes.
+d) La resolución deberá ser dictada dentro de los tres días siguientes a la terminación de la vista o, en defecto de ésta, a contar desde el día siguiente a aquel en que se hubieran recibido los autos en el tribunal competente para la apelación.
 
-e) La resolución deberá ser dictada dentro de los tres días siguientes a la terminación de la vista o, en defecto de ésta, a contar desde el día siguiente a aquel en que se hubieran recibido los autos en el Tribunal competente para la apelación.
+> Téngase en cuenta que esta actualización del apartado 11, establecida por el art. 103.122 del Real Decreto-ley 6/2023, de 19 de diciembre, Ref. BOE-A-2023-25758#a1-15, entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
+
+> Redacción anterior:
+
+> "11. Contra la resolución que se dicte sólo cabrá recurso de apelación con efectos suspensivos, que tendrá tramitación preferente, debiendo ser resuelto en el improrrogable plazo de veinte días.
+
+> En la tramitación del recurso de apelación se seguirán las siguientes especialidades:
+
+> a) Se interpondrá en el plazo de tres días contados desde el día siguiente a la notificación de la resolución, debiendo el órgano judicial acordar su admisión o no dentro de las 24 horas siguientes a la presentación.
+
+> b) Admitido el recurso, las demás partes tendrán tres días para presentar escrito de oposición al recurso o, en su caso, de impugnación. En este último supuesto, igualmente el apelante principal dispondrá del plazo de tres días para manifestar lo que tenga por conveniente.
+
+> c) Tras ello, el Letrado de la Administración de Justicia ordenará la remisión de los autos en el mismo día al Tribunal competente para resolver la apelación, ante el cual deberán comparecer las partes en el plazo de 24 horas.
+
+> d) Recibidos los autos, el Tribunal acordará lo que proceda sobre su admisión en el plazo de 24 horas. Si hubiere de practicarse prueba o si se acordase la celebración de vista, el Letrado de la Administración de Justicia señalará día para dentro de los tres días siguientes.
+
+> e) La resolución deberá ser dictada dentro de los tres días siguientes a la terminación de la vista o, en defecto de ésta, a contar desde el día siguiente a aquel en que se hubieran recibido los autos en el Tribunal competente para la apelación."
 
 12. En cualquier momento del proceso, ambas partes podrán solicitar la suspensión del mismo de conformidad con lo previsto en el artículo 19.4, para someterse a mediación. También el Juez podrá en cualquier momento, de oficio o a petición de cualquiera de las partes, proponer una solución de mediación si, atendiendo a las circunstancias concurrentes, estima posible que lleguen a un acuerdo, sin que ello deba suponer un retraso injustificado del proceso. En tales casos, el Letrado de la Administración de Justicia acordará la suspensión por el tiempo necesario para tramitar la mediación. La Entidad Publica que tenga las funciones de protección del menor puede intervenir como mediadora si así se solicitase de oficio, por las partes o por el Ministerio Fiscal.
 
@@ -63,6 +79,10 @@ El procedimiento judicial se reanudará si lo solicita cualquiera de las partes 
 13. En la ejecución de la sentencia en la que se acuerde la restitución del menor o su retorno al Estado de procedencia, la Autoridad Central prestará la necesaria asistencia al Juzgado para garantizar que se realice sin peligro, adoptando en cada caso las medidas administrativas precisas.
 
 Si el progenitor que hubiera sido condenado a la restitución del menor o a su retorno se opusiere, impidiera u obstaculizara su cumplimiento, el Juez deberá adoptar las medidas necesarias para la ejecución de la sentencia de forma inmediata, pudiendo ayudarse de la asistencia de los servicios sociales y de las Fuerzas y Cuerpos de Seguridad.
+
+> Se modifica el apartado 11 por el art. 103.122 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-15
+
+> Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 

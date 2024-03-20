@@ -50,7 +50,13 @@ Sin perjuicio de los motivos de oposición a la ejecución previstos en esta ley
 
 5.ª Contestada la demanda o transcurrido el correspondiente plazo, el letrado de la Administración de Justicia citará a las partes a la vista, si así lo solicitan en sus escritos de demanda y contestación. Si en sus escritos no hubieren solicitado la celebración de vista, o cuando la única prueba propuesta sea la de documentos, y éstos ya se hubieran aportado al proceso sin resultar impugnados, o en el caso de los informes periciales no sea necesaria la ratificación, el juez resolverá mediante auto, sin más trámite.
 
-6.ª Contra dicho auto cabe recurso de apelación. Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso extraordinario por infracción procesal y recurso de casación en los términos previstos por esta ley. El órgano judicial que conozca de alguno de estos recursos, podrá suspender el procedimiento si se ha presentado un recurso ordinario contra la resolución en el Estado miembro de origen o si aún no ha expirado el plazo para interponerlo, conforme al artículo 51 del Reglamento (UE) n.º 1215/2012. A estos efectos, cuando la resolución se haya dictado en Irlanda, Chipre o el Reino Unido, cualquier recurso previsto en alguno de estos Estados miembros de origen será considerado recurso ordinario.
+6.ª Contra dicho auto cabe recurso de apelación. Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso de casación en los términos previstos por esta ley. El órgano judicial que conozca de alguno de estos recursos podrá suspender el procedimiento si se ha presentado un recurso ordinario contra la resolución en el Estado miembro de origen o si aún no ha expirado el plazo para interponerlo, conforme al artículo 51 del Reglamento (UE) n.º 1215/2012 del Parlamento Europeo y del Consejo, de 12 de diciembre de 2012, relativo a la competencia judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil. A estos efectos, cuando la resolución se haya dictado en Irlanda, Chipre o el Reino Unido, cualquier recurso previsto en alguno de estos Estados miembros de origen será considerado recurso ordinario.
+
+> Téngase en cuenta que esta actualización de la regla 6ª del apartado 4, establecida el art. 103.133 del Real Decreto-ley 6/2023, de 19 de diciembre, Ref. BOE-A-2023-25758#a1-15, entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
+
+> Redacción anterior:
+
+> "6.ª Contra dicho auto cabe recurso de apelación. Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso extraordinario por infracción procesal y recurso de casación en los términos previstos por esta ley. El órgano judicial que conozca de alguno de estos recursos, podrá suspender el procedimiento si se ha presentado un recurso ordinario contra la resolución en el Estado miembro de origen o si aún no ha expirado el plazo para interponerlo, conforme al artículo 51 del Reglamento (UE) n.º 1215/2012. A estos efectos, cuando la resolución se haya dictado en Irlanda, Chipre o el Reino Unido, cualquier recurso previsto en alguno de estos Estados miembros de origen será considerado recurso ordinario."
 
 5. Expedición del certificado.
 
@@ -75,6 +81,10 @@ A los efectos de aplicación del artículo 54 del Reglamento (UE) n.º 1215/2012
 8. Fuerza ejecutiva de las transacciones judiciales.
 
 Las transacciones judiciales que tengan fuerza ejecutiva en el Estado miembro de origen se ejecutarán en España en las mismas condiciones previstas para los documentos públicos en el apartado anterior.
+
+> Se modifica la regla 6ª del apartado 4 por el art. 103.133 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-15
+
+> Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se modifica por la disposición final 2 de la Ley 29/2015, de 30 de julio. Ref. BOE-A-2015-8564#dfsegunda.
 

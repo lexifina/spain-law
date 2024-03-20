@@ -10,11 +10,21 @@ Serán recurribles:
 
 4. Las resoluciones de la Junta Arbitral regulada por la Ley Orgánica 3/1996, de 27 de diciembre, de Modificación parcial de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
 
-5. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo de Transparencia y Buen Gobierno, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades, Autoridad Independiente de Protección del Informante, A.A.I. y Sección Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+5. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo de Transparencia y Buen Gobierno, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades, Autoridad Independiente de Protección del Informante, A.A.I., y Secciones Primera y Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso- Administrativo de la Audiencia Nacional.
+
+> Téngase en cuenta que esta modificación del apartado 5, establecida por el art. 102.31 del Real Decreto-ley 6/2023, de 19 de diciembre Ref. BOE-A-2023-25758#a1-14, entra en vigor el 20 de marzo de 2024, según determina su disposición final 9.2.
+
+> Redacción anterior:
+
+> "5. Los actos y disposiciones dictados por la Agencia Española de Protección de Datos, Comisión Nacional de los Mercados y la Competencia, Consejo de Transparencia y Buen Gobierno, Consejo Económico y Social, Instituto Cervantes, Consejo de Seguridad Nuclear, Consejo de Universidades, Autoridad Independiente de Protección del Informante, A.A.I. y Sección Segunda de la Comisión de Propiedad Intelectual, directamente, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional."
 
 6. Las resoluciones del Ministro de Economía y Competitividad que resuelvan recursos de alzada contra actos dictados por el Instituto de Contabilidad y Auditoría de Cuentas, así como las resoluciones de carácter normativo dictadas por el Instituto de Contabilidad y Auditoría de Cuentas directamente, en única instancia, ante la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
 
 7. Las resoluciones del Consejo Gestor del Fondo de apoyo a la solvencia de empresas estratégicas directamente, en única instancia, ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional.
+
+> Se modifica el apartado 5 por el art. 102.31 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-14
+
+> Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se modifica el apartado 5 por la disposición final 2.2 de la Ley 2/2023, de 20 de febrero. Ref. BOE-A-2023-4513#df-2
 

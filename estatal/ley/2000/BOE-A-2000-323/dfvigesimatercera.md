@@ -4,7 +4,13 @@
 
 La competencia territorial se determinará con arreglo a lo dispuesto en el Reglamento (CE) n.º 44/2001 del Consejo, de 22 de diciembre de 2000, relativo a la competencia judicial, el reconocimiento y la ejecución de resoluciones judiciales en materia civil y mercantil, y, en lo no previsto, con arreglo a la legislación procesal española.
 
-2. La petición de requerimiento europeo de pago se presentará a través del formulario A que figura en el anexo I del Reglamento (CE) n.º 1896/2006, sin necesidad de aportar documentación alguna, que en su caso será inadmitida.
+2. La petición de requerimiento europeo de pago se presentará a través del formulario que figura en el anexo I del Reglamento (CE) n.º 1896/2006, sin necesidad de aportar documentación alguna, que en su caso será inadmitida, a excepción de las peticiones de requerimiento europeo de pago que se basen en un contrato entre un empresario o profesional y un consumidor o usuario, cuando el juez lo solicite a fin de poder ejercer de oficio el control de abusividad de las cláusulas.
+
+> Téngase en cuenta que esta actualización del apartado 2, establecida el art. 103.132 del Real Decreto-ley 6/2023, de 19 de diciembre, Ref. BOE-A-2023-25758#a1-15, entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
+
+> Redacción anterior:
+
+> "2. La petición de requerimiento europeo de pago se presentará a través del formulario A que figura en el anexo I del Reglamento (CE) n.º 1896/2006, sin necesidad de aportar documentación alguna, que en su caso será inadmitida."
 
 3. Formulada una petición de requerimiento europeo de pago, el Letrado de la Administración de Justicia mediante decreto y en la forma prevista en el formulario B del anexo II del Reglamento (CE) n.º 1896/2006, podrá instar al demandante para que complete o rectifique su petición, salvo que ésta sea manifiestamente infundada o inadmisible, de acuerdo con lo dispuesto en el artículo 9 del citado Reglamento, en cuyo caso resolverá el juez mediante auto.
 
@@ -49,6 +55,10 @@ Igualmente, le corresponderá la denegación de la ejecución del requerimiento 
 La tramitación de la denegación de la ejecución del requerimiento europeo de pago, así como la limitación de la ejecución, su suspensión o la constitución de garantía, se llevarán a cabo con arreglo a lo dispuesto en los artículos 556 y siguientes de esta Ley, y se resolverán mediante auto no susceptible de recurso.
 
 15. Cuando deba ejecutarse en España un requerimiento europeo de pago, el demandante deberá presentar ante el Juzgado competente una traducción oficial al castellano o a la lengua oficial de la Comunidad Autónoma en cuyo territorio tengan lugar las actuaciones judiciales de dicho requerimiento, certificada en la forma prevista en el artículo 21 del Reglamento (CE) n.º 1896/2006.
+
+> Se modifica el apartado 2 por el art. 103.132 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-15
+
+> Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se modifican las referencias a "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 

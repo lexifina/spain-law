@@ -50,7 +50,13 @@ La competencia para conocer del recurso corresponderá a la Audiencia Provincial
 
 2.ª Durante el plazo del recurso contra la declaración de fuerza ejecutiva y hasta que se resuelva sobre el mismo, solamente se podrán adoptar medidas cautelares sobre los bienes de la parte contra la que se haya solicitado la ejecución.
 
-3.ª Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso extraordinario por infracción procesal y recurso de casación en los términos previstos por esta ley.
+3.ª Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso de casación en los términos previstos por esta ley.
+
+> Téngase en cuenta que esta actualización de la regla 3ª del apartado 5, establecida el art. 103.134 del Real Decreto-ley 6/2023, de 19 de diciembre, Ref. BOE-A-2023-25758#a1-15, entra en vigor el 20 de marzo de 2024, según determina la disposición final 9.2 del citado Real Decreto-ley.
+
+> Redacción anterior:
+
+> "3.ª Contra la sentencia dictada en segunda instancia cabrá, en su caso, recurso extraordinario por infracción procesal y recurso de casación en los términos previstos por esta ley."
 
 6. Procedimiento del recurso contra la resolución sobre la solicitud de declaración de fuerza ejecutiva.
 
@@ -135,6 +141,10 @@ Si no fuera posible la incorporación a la matriz, se relacionará, mediante not
 2.ª Si, como consecuencia del recurso resulta acreditado que la negativa a expedir el certificado sucesorio europeo era injustificada, el órgano judicial competente expedirá el certificado o garantizará que el notario emisor vuelva a examinar el caso y tome una nueva decisión acorde con la resolución judicial recaída.
 
 3.ª En todo caso, deberá constar en la matriz de la escritura que sustancie el acto o negocio y en la del acta de protocolización del certificado sucesorio europeo emitido, nota de la rectificación, modificación o anulación realizadas, así como de la interposición del recurso y de la resolución judicial recaída en el mismo.
+
+> Se modifica la regla 3ª del apartado 5 por el art. 103.134 del Real Decreto-ley 6/2023, de 19 de diciembre. Ref. BOE-A-2023-25758#a1-15
+
+> Esta modificación entra en vigor el 20 de marzo de 2024, según establece la disposición final 9.2 del citado Real Decreto-ley.
 
 > Se añade por la disposición final 2 de la Ley 29/2015, de 30 de julio. Ref. BOE-A-2015-8564#dfsegunda.
 
