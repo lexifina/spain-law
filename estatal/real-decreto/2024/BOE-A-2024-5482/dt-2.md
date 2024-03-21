@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de desconcentración de funciones de contratación en las Direcciones Provinciales en Ceuta y Melilla.
+
+Sin perjuicio de lo dispuesto en la disposición derogatoria segunda, continuará siendo de aplicación únicamente para las Direcciones Provinciales del Departamento en Ceuta y en Melilla, el Real Decreto 140/1990, de 26 de enero, de desconcentración de determinadas funciones de contratación en las Direcciones Provinciales del Ministerio de Educación y Ciencia, hasta que se apruebe la nueva orden de delegación de competencias del Ministerio de Educación, Formación Profesional y Deportes.
