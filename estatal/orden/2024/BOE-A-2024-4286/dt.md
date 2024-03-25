@@ -1,0 +1,3 @@
+## Disposición transitoria única. Normativa a aplicar hasta la aprobación de nuevas guías de evaluación.
+
+En tanto no estén aprobadas las nuevas guías de evaluación, se seguirán empleando en los distintos procesos de evaluación las aprobadas según la Instrucción 80/2007, de 5 de junio, de la Subsecretaria de Defensa, por la que se aprueban el modelo y las guías de la evaluación de los centros docentes militares; y la Instrucción 73/2012, de 5 de octubre, de la Subsecretaria de Defensa, por la que se aprueba la guía de evaluación especifica de los planes de estudios de la enseñanza de formación.

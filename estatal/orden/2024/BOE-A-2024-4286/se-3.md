@@ -1,0 +1,3 @@
+## Séptima. Informe de autoevaluación.
+
+Los informes anuales de autoevaluación serán remitidos por los directores de los centros, a los organismos de gestión de la enseñanza de quien dependan, que los harán suyos, resumiéndolos en otro de carácter general, y que trasladarán a los Mandos o Jefaturas de Personal o de Adiestramiento y Doctrina de los Ejércitos y de la Armada o Jefatura de Recursos Humanos del Estado Mayor de la Defensa, quienes para completar dicho informe, le añadirán las resoluciones que hayan adoptado sobre los asuntos tratados, y los elevarán al Director General de Reclutamiento y Enseñanza Militar.
