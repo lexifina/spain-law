@@ -8,40 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2024-03-28 by BOE-A-2024-6084. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [preambulo](preambulo.md)
-- [Artículo único](aunico.md)
-- [Disposición transitoria primera](dtprimera.md)
-- [Disposición transitoria segunda](dtsegunda.md)
-- [Disposición transitoria tercera](dttercera.md)
-- [Disposición transitoria cuarta](dtcuarta.md)
-- [Disposición transitoria quinta](dtquinta.md)
-- [Disposición derogatoria única](ddunica.md)
-- [Disposición final primera](dfprimera.md)
-- [Disposición final segunda](dfsegunda.md)
-- [firma](firma.md)
-- [NORMAS](normas.md)
-- [Primera](primera.md)
-- [Segunda](segunda.md)
-- [Tercera](tercera.md)
-- [Cuarta](cuarta.md)
-- [Quinta](quinta.md)
-- [Sexta](sexta.md)
-- [Séptima](septima.md)
-- [Octava](octava.md)
-- [Novena](novena.md)
-- [Décima](decima.md)
-- [Undécima](undecima.md)
-- [Duodécima](duodecima.md)
-- [Decimotercera](decimotercera.md)
-- [Decimocuarta](decimocuarta.md)
-- [Decimoquinta](decimoquinta.md)
-- [Decimosexta](decimosexta.md)
-- [Decimoséptima](decimoseptima.md)
-- [Decimoctava](decimoctava.md)
-- [ANEXO I](ani.md)
-- [ANEXO II](anii.md)
-- [ANEXO III](aniii.md)
-- [ANEXO IV](aniv.md)
+- [BOE publisher notice](no.md)
