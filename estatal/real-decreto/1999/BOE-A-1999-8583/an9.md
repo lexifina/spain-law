@@ -42,7 +42,9 @@ A.P.J. Acta de proclamación de electos.
 
 A.F.C. Modelo de Acta a utilizar por los funcionarios consulares (voto CERA).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image69.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279788_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/95/7123_14279788_2.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image70.png)
 
@@ -56,9 +58,11 @@ A.F.C. Modelo de Acta a utilizar por los funcionarios consulares (voto CERA).
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image75.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image76.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279787_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image77.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279787_2.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/95/7123_14279787_3.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image78.png)
 
@@ -70,13 +74,19 @@ A.F.C. Modelo de Acta a utilizar por los funcionarios consulares (voto CERA).
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image82.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image83.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image84.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image85.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/78/08225_13025472_image86.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/89/7123_14279789_5.png)
+
+> Se modifica por el art. único de la Orden INT/309/2024, de 9 de abril. Ref. BOE-A-2024-7123
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 95, de 18 de abril de 2024. Ref. BOE-A-2024-7702
 
 > Se modifica por el art. único y se sustituye por el anexo 9 de la Orden INT/316/2023, de 29 de marzo. Ref. BOE-A-2023-8225
 
