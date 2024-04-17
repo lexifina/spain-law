@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Actuaciones en el marco del Fondo Europeo Marítimo y de Pesca (FEMP).
+
+El FEGA, O. A. continuará ejerciendo las funciones previstas en el Estatuto aprobado por Real Decreto 1441/2001, de 21 de diciembre, como Autoridad de Certificación y Organismo Intermedio de certificación del Fondo Europeo, Marítimo y de la Pesca (FEMP) contempladas en el Reglamento (UE) número 1303/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se establecen disposiciones comunes y generales relativas, entre otros Fondos Europeos, al Fondo Europeo Marítimo y de la Pesca y se deroga el Reglamento (CE) número 1083/2006 del Consejo, hasta la finalización de los efectos del programa operativo 2014-2020.
