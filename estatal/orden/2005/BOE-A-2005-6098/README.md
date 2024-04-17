@@ -27,6 +27,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Séptimo](septimo.md)
 - [Dirección General de Política Interior](direccion-3.md)
 - [Octavo](octavo.md)
+- [Octavo bis](ob.md)
 - [Dirección General de Instituciones Penitenciarias](direccion-4.md)
 - [Secretaría General de Instituciones Penitenciarias](secretaria-2.md)
 - [Noveno](noveno.md)
