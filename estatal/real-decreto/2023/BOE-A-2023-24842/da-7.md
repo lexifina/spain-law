@@ -28,7 +28,11 @@ l) La Dirección General de Estrategias de Movilidad.
 
 m) La Dirección General de Derechos Culturales.
 
+n) La Dirección General de Políticas Turísticas.
+
 2. Las razones que justificaron la aplicación de la excepción de las reglas generales de nombramiento a la Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas, la Dirección General de Políticas Palanca para el Cumplimiento de la Agenda 2030, la Dirección General para la Igualdad de Trato y Diversidad Étnico Racial, la Dirección General de Diversidad Sexual y Derechos LGTBI y la Dirección General del Instituto de la Mujer y para la Igualdad de Oportunidades se mantienen en relación con la Dirección General de Trabajo Autónomo, la Dirección General de Agenda 2030, la Dirección General para la Igualdad de Trato y No Discriminación y contra el Racismo, la Dirección General para la Igualdad real y Efectiva de las personas LGTBI+ y la Dirección General del Instituto de las Mujeres que respectivamente las suceden.
+
+> Se añade la letra n) al apartado 1 por la disposición final 1.2 del Real Decreto 409/2024, de 23 de abril. Ref. BOE-A-2024-8193#df
 
 > Se modifica la letra c) y se añade la letra m) en el apartado 1 por la disposición final 4.2 del Real Decreto 323/2024, de 26 de marzo. Ref. BOE-A-2024-6087#df-4
 

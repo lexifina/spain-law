@@ -1,0 +1,9 @@
+## Disposición transitoria primera. Unidades y puestos de trabajo con nivel orgánico inferior a subdirección general.
+
+1. Las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se apruebe la relación de puestos de trabajo adaptada a la estructura orgánica de este real decreto.
+
+2. Hasta tanto entre en vigor la nueva relación de puestos de trabajo, las unidades y puestos de trabajo encuadrados en los órganos suprimidos o cuya dependencia orgánica haya sido modificada por este real decreto se adscribirán provisionalmente a los órganos regulados en éste, en función de las atribuciones que aquellos tengan asignadas.
+
+3. El personal adscrito al Comisionado Especial para el PERTE para el desarrollo de un ecosistema para la fabricación del Vehículo Eléctrico y Conectado se adscribirá a la Dirección General de Programas Industriales.
+
+4. Por resolución conjunta de las Subsecretarías de Industria y Turismo y de Economía, Comercio y Empresa, y en su defecto por resolución de la Secretaría de Estado de Función Pública, de acuerdo con lo previsto por el Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, aprobado por el Real Decreto 364/1995, de 10 de marzo, se arbitrarán las medidas precisas para distribuir, con arreglo a los criterios de proporcionalidad que resulten de aplicación, los puestos de trabajo inferiores a subdirección general adscritos a los órganos de los servicios comunes procedentes de los extintos Ministerios de Industria, Comercio y Turismo y de Asuntos Económicos y Transformación Digital.
