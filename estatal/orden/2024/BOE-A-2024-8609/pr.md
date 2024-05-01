@@ -1,0 +1,19 @@
+PREÁMBULO
+
+Un elemento clave en la concepción de una Administración moderna orientada a la planificación, evaluación y control de las políticas públicas consiste en la figura del personal directivo público profesional, actor protagonista llamado a impulsar y pilotar las actuaciones dirigidas a ejecutar las políticas públicas y a colaborar en la transformación hacia un empleo público altamente capacitado.
+
+La regulación del personal directivo público profesional en la Administración del Estado constituye un elemento esencial para la modernización administrativa, que permitirá avanzar en la reforma y transformación de la Administración.
+
+Por este motivo, el componente 11 sobre la modernización de las Administraciones públicas del Plan de Recuperación, Transformación y Resiliencia (PRTR), aprobado por Acuerdo del Consejo de Ministros de 27 de abril de 2021, incluyó entre las medidas de reforma para la modernización y digitalización de la Administración el Hito número 148 de la Decisión de Ejecución del Consejo (CID, en sus siglas en inglés) del Mecanismo de Recuperación y Resiliencia, entre cuyos elementos se incluye la regulación del acceso a puestos de directivo público profesional.
+
+En este marco, el Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo, en su libro segundo, de medidas legislativas urgentes en materia de función pública, adoptó un modelo de personal directivo público orientado a garantizar que la gestión profesional y su desempeño estén sujetos a estándares de eficacia, eficiencia, responsabilidad y control de resultados basados en los objetivos asignados.
+
+Para ello, se contempla la figura del personal directivo público profesional, determinada por elementos tales como un rol protagonista en el desarrollo de políticas y programas públicos, que actúa de acuerdo con los criterios e instrucciones directas de la capa política, y con responsabilidad por su gestión y control del cumplimiento de los objetivos propuestos en desarrollo de los planes de actuación de la organización en la que desarrollen sus funciones.
+
+El artículo 125.2 del citado real decreto-ley establece que el departamento ministerial competente en materia de función pública dictará las normas necesarias para adaptar los procedimientos de provisión al nombramiento de personal directivo.
+
+Con esta orden ministerial se establecen reglas concretas que, dentro del marco general de provisión de puestos, regulen el acceso a los puestos de personal directivo público, articulando herramientas de gestión de estos puestos y de atracción del talento para el servicio público.
+
+La presente orden ministerial responde a los principios de buena regulación, de conformidad con el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Desde el punto de vista de los principios de necesidad y eficacia, se trata de un instrumento necesario y adecuado, para servir al interés general y a la efectiva ejecución de las políticas públicas del Gobierno en las materias de responsabilidad del departamento ministerial u organismo público correspondiente. De igual modo, la norma garantiza el principio de proporcionalidad, pues no existe otra alternativa para lograr los objetivos propuestos y así como el de seguridad jurídica pues el texto es coherente con el resto del ordenamiento jurídico nacional con el fin de generar un marco normativo integrado y estable. Además, es conforme con las exigencias del principio de transparencia, ya que se definen claramente los objetivos de esta orden ministerial.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:
