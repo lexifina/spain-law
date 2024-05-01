@@ -1,0 +1,11 @@
+## Quinto. Plazos para la gestión de las solicitudes de conexión.
+
+1. El titular de las redes responderá al solicitante en un plazo máximo de 5 días hábiles confirmando la admisión a trámite de su solicitud de conexión o, en su caso, señalando las causas por las que procede la inadmisión, indicando en este último caso la posibilidad de subsanar la solicitud en el plazo de 5 días hábiles. Transcurrido ese plazo sin que el solicitante haya procedido a la subsanación, se le tendrá por desistido de su solicitud.
+
+2. En caso de que el solicitante proceda a la subsanación de la solicitud en los términos del apartado anterior, el titular de las redes resolverá sobre la admisión en un plazo máximo de 5 días hábiles desde la presentación de la subsanación. Si el titular considerase que no procede tener por subsanada la solicitud, informará al solicitante de la inadmisión, indicando las causas de ello.
+
+3. Una vez admitida a trámite la solicitud, el titular de la red debe valorar el caudal máximo admisible o capacidad disponible de inyección según resulta del artículo 12.bis del Real Decreto 1434/2002. Los distribuidores y transportistas desarrollarán los protocolos oportunos para que la aplicación sea transparente, objetiva y no discriminatoria. En tanto no se regulen por circular de la CNMC los criterios para evaluar la capacidad de inyección disponible, el cálculo de la capacidad de inyección disponible en las redes de transporte y distribución se realizará conforme a los criterios de cálculo establecidos en la Resolución de 10 de noviembre de 2022, de la CNMC, por la que se establece la normativa de gestión técnica del sistema gasista sobre programaciones, nominaciones, repartos, balances, la gestión y uso de las conexiones internacionales y los autoconsumos.
+
+El titular de la red consultará al resto de los titulares de las redes situadas aguas arriba y aguas abajo en un plazo de 5 días hábiles, los cuales deberán emitir un informe en un plazo máximo de 15 días hábiles en el que se especifique, en su caso, la existencia de otras solicitudes de conexión que tengan preferencia temporal.
+
+4. La falta de respuesta de otros titulares de redes no podrá dar lugar a la omisión de la contestación a la solicitud de conexión, a la cual se responderá con la mejor información disponible.
