@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Red de Centros Públicos de Orientación, Emprendimiento, Acompañamiento e Innovación para el Empleo.
+
+1. La Red de Centros Públicos de Orientación, Emprendimiento, Acompañamiento e Innovación para el Empleo del Sistema Nacional de Empleo, contemplada en el artículo 8 de la Ley 3/2023, de 28 de febrero, contribuirá al desarrollo de los contenidos de la Cartera Común, de conformidad con lo previsto en el artículo 88 del Real Decreto 818/2021, de 28 de septiembre.
+
+2. Los citados centros constituirán el soporte especializado del Sistema Nacional de Empleo para promover la innovación y la mejora continua de los protocolos, procedimientos, metodologías e instrumentos mediante los que se desarrollen los servicios de la Cartera Común, incorporando en los mismos la perspectiva de género de manera efectiva, en especial respecto de los diversos colectivos de atención prioritaria establecidos en el artículo 50 de la Ley 3/2023, de 28 de febrero y contribuirán al desarrollo de las actuaciones y recursos de información y formación establecidos en la disposición adicional primera.
+
+3. Podrán elaborarse protocolos específicos para los colectivos de atención prioritaria, a partir de los contenidos básicos establecidos en esta norma mediante los que se detallen las personas usuarias de los servicios garantizados, sus requisitos de acceso, las actuaciones preparatorias que conlleven, su modalidad de prestación, así como las actividades mediante las que se desarrollen.
