@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Aplicación del Real Decreto-ley 7/2022, de 29 de marzo, y el Esquema Nacional de Seguridad de las redes y servicios 5G a las sucesivas generaciones de comunicaciones electrónicas.
+
+El Real Decreto-ley 7/2022, de 29 de marzo, sobre requisitos para garantizar la seguridad de las redes y servicios de comunicaciones electrónicas de quinta generación y el Esquema Nacional de Seguridad de las redes y servicios 5G que se aprueba, serán de aplicación a generaciones de comunicaciones electrónicas posteriores a la quinta generación mientras no exista norma específica para las mismas.
