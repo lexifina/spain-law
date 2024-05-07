@@ -1,0 +1,1 @@
+Se dejan sin efecto, desde el 7 de mayo de 2024, las delegaciones contenidas en la presente Resolución, según establece el apartado undécimo de la Resolución de 19 de abril de 2024. Ref. BOE-A-2024-9085#un
