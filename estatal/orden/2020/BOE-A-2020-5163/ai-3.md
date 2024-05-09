@@ -340,6 +340,10 @@ i) El litoral de las provincias de Almería y Granada, y la zona de la reserva d
 
 j) El litoral de la provincia de Málaga y el litoral mediterráneo de la provincia de Cádiz del 1 al 31 de octubre (ambos inclusive).
 
+K) Queda prohibida la pesca con artes de arrastre de fondo a los buques españoles en el Mediterráneo a una profundidad superior a los 800 metros.
+
+> Se añade el apartado K) por el art. único de la Orden APA/412/2024, de 5 de mayo de 2024. Ref. BOE-A-2024-9306
+
 > Se modifica el apartado J) por el art. único de la Orden APA/146/2024, de 19 de febrero. Ref. BOE-A-2024-3434
 
 > Se modifica el apartado H) e I) y se añade el J) por el art. único de la Orden APA/80/2023, de 30 de enero. Ref. BOE-A-2023-2571
