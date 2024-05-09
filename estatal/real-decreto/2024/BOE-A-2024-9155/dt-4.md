@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Actuaciones en materia de gestión de medios y servicios.
+
+El Ministerio de Ciencia, Innovación y Universidades asumirá los servicios relativos a administración digital y tecnologías de la información y comunicaciones correspondientes a la Secretaria General de Universidades y sus organismos públicos adscritos, sin perjuicio del apoyo del Ministerio de Educación, Formación Profesional y Deportes en la completa migración de los mismos y en la prestación de estos servicios hasta completar dicho proceso de asunción, de forma que se garantice la continuidad en la prestación.
