@@ -1,0 +1,3 @@
+## Segundo.
+
+La Administración General del Estado y demás entidades comprendidas en el ámbito subjetivo obligatorio del sistema estatal de contratación centralizada, conforme a lo establecido en el artículo 229.2 de la Ley de Contratos del Sector Público, deberán recabar el informe favorable de la Dirección General de Racionalización y Centralización de la Contratación para tramitar aquellos contratos con duración superior a un año prorrogable por un año adicional, que tengan por objeto los servicios y suministros incluidos en esta Resolución. Asimismo, para acordar la prórroga será necesario informe favorable previo.
