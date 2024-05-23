@@ -1,6 +1,8 @@
 ## Disposición adicional sexta. Cómputo especial de cotizaciones.
 
-(Sin efecto)
+Para completar el número de treinta y cinco jornadas reales cotizadas, establecido en el párrafo d) del apartado 1 del artículo 2 de este real decreto, podrán computarse, en el caso de los trabajadores mayores de treinta y cinco años, o menores de dicha edad si tienen responsabilidades familiares, las cotizaciones efectuadas al Régimen General de la Seguridad Social durante los doce meses inmediatamente anteriores a la situación de desempleo con ocasión del trabajo prestado en obras afectadas al acuerdo para el empleo y la protección social agrarios, siempre que se hayan cotizado, al menos, veinte jornadas reales al Sistema Especial de Trabajadores por Cuenta Ajena Agrarios, si se ha sido perceptor de la renta agraria en el año inmediatamente anterior o siempre que se hayan cotizado, al menos, treinta jornadas reales al Sistema Especial para Trabajadores por Cuenta Ajena Agrarios, si no se ha sido perceptor de la renta agraria en el año inmediatamente anterior.
+
+> Se añade por la disposición final 9 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-9
 
 > Se deja sin efecto por Resolución de 10 de enero de 2024 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2024-664
 

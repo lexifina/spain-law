@@ -1,6 +1,8 @@
 ## Disposición adicional vigesimoctava. Elecciones a órganos de representación en el ámbito de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad.
 
-(Sin efecto)
+Como excepción a lo dispuesto en el artículo 69.2, las personas dedicadas a las actividades artísticas, así como a las actividades técnicas y auxiliares necesarias para su desarrollo, incluidas en el ámbito de aplicación del Real Decreto 1435/1985, de 1 de agosto, por el que se regula la relación laboral especial de las personas artistas que desarrollan su actividad en las artes escénicas, audiovisuales y musicales, así como de las personas que realizan actividades técnicas o auxiliares necesarias para el desarrollo de dicha actividad, serán electoras cuando sean mayores de dieciséis años y elegibles cuando tengan dieciocho años cumplidos y siempre que, en ambos casos, cuenten con una antigüedad en la empresa de, al menos, veinte días.
+
+> Se añade por el art. 1.3 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#ap
 
 > Se deja sin efecto por Resolución de 10 de enero de 2024, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2023, de 19 de diciembre. Ref. BOE-A-2024-664
 

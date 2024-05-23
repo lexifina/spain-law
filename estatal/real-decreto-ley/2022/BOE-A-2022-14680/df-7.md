@@ -6,6 +6,8 @@
 
 3. El apartado 1 de la disposición adicional primera entrará en vigor el día 1 de octubre de 2022.
 
-4. Lo dispuesto en los apartados 2 y 3 y el párrafo segundo del apartado 4 de la disposición adicional primera, así como la letra b) de la disposición derogatoria única, producirán efectos cuando entre en vigor el desarrollo reglamentario previsto en los citados preceptos y, en todo caso, el 1 de abril de 2024.
+4. Lo dispuesto en los apartados 2 y 3 y el párrafo segundo del apartado 4 de la disposición adicional primera, producirán efectos cuando entre en vigor el desarrollo reglamentario previsto en los citados preceptos.
+
+> Se modifica el apartado 4 por la disposición final 5.2 del Real Decreto-ley 2/2024, de 21 de mayo. Ref. BOE-A-2024-10235#df-5
 
 > Se modifica el apartado 4 por la disposición final 11.1 de la Ley 11/2023, de 8 de mayo. Ref. BOE-A-2023-11022#df-11
