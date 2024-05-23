@@ -1,0 +1,3 @@
+## Disposición transitoria única. Establecimientos de piensos que ya cuentan con instalaciones de limpieza en funcionamiento.
+
+Los establecimientos a los que se hace referencia en el artículo 3.1.b) con instalaciones de limpieza en funcionamiento, notificarán la continuidad de su actividad a la autoridad competente de la comunidad autónoma o de las ciudades de Ceuta y Melilla en las que estén ubicados, en el plazo de un mes a partir de la entrada en vigor de este real decreto y en la forma en que ésta determine. Acompañará a esta notificación la documentación detallada en los puntos 1.º al 4.º del apartado b) del punto 1 del artículo 3 de este real decreto.
