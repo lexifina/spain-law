@@ -1,0 +1,5 @@
+## Disposición transitoria única. Procedimiento excepcional de acceso.
+
+1. Sin perjuicio de lo dispuesto en el artículo 3, para la implantación de las nuevas categorías que se crean mediante esta orden, y en los términos previstos en el artículo 34 de la Ley 55/2003, de 16 de diciembre, con carácter excepcional se realizará una única convocatoria de promoción interna, mediante el sistema de concurso, para cada una de las categorías que se determinen, previa negociación en mesa sectorial, que estarán abiertas al personal estatutario fijo del INGESA que posea el título necesario para el acceso a la categoría o especialidad, siendo de aplicación lo dispuesto en el artículo 34.5 de la referida Ley 55/2003, de 16 de diciembre.
+
+2. A los efectos de este procedimiento excepcional de acceso, los servicios prestados a partir de la fecha de obtención del título correspondiente o del título de especialista necesario para el acceso, o el desarrollo de las actividades propias de la nueva categoría o especialidad, debidamente certificados, serán considerados como mérito para el acceso a las nuevas categorías.
