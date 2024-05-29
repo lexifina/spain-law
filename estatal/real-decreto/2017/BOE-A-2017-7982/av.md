@@ -1,6 +1,6 @@
 ## ANEXO V A)
 
-## Correspondencia de las unidades de competencia acreditadas de acuerdo con lo establecido en el artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, con los módulos profesionales para su convalidación
+## Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación
 
 | Unidades de competencia acreditadas | Módulos profesionales convalidables |
 | --- | --- |
@@ -14,3 +14,5 @@
 | UC0722_2: Preparar y acondicionar el ganado equino para su presentación en exhibiciones y concursos. | 1326. Exhibiciones y concursos de ganado equino. |
 | UC1081_2: Guiar y dinamizar a personas por itinerarios a caballo. | 1327. Guía ecuestre. 1328. Atención a grupos. |
 | UC1079_2: Determinar y organizar itinerarios a caballo por terrenos variados. | 1329. Organización de itinerarios. |
+
+> Se modifica por el art. 3.26 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684

@@ -2044,586 +2044,126 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – Control de residuos.
 
-Módulo Profesional: Formación y orientación laboral.
+## 0156. Inglés Profesional (GM)
 
-Código: 0147
+## 1709. Itinerario personal para la empleabilidad I
+
+## 1710. Itinerario personal para la empleabilidad II
+
+## 1664. Digitalización aplicada a los sectores productivos (GM)
+
+## 1708. Sostenibilidad aplicada al sistema productivo
+
+> Téngase en cuenta que el código, duración del currículo básico, resultados de aprendizaje y criterios de evaluación de los módulos profesionales 0156, 1709, 1710,1664 y 1708, figuran como anexos IX, V, VI y VIII del Real Decreto 659/2023, de 18 de julio, según establece el art. 7 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684
+
+## 1713. Proyecto intermodular
+
+## Currículo básico módulo de Proyecto intermodular de grado medio
+
+Módulo Profesional: Proyecto intermodular.
+
+Duración: 50 horas.
+
+Código: 1713.
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Selecciona oportunidades de empleo, identificando las diferentes posibilidades de inserción y las alternativas de aprendizaje a lo largo de la vida.
+1. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
 
 Criterios de evaluación:
 
-a) Se ha valorado la importancia de la formación permanente como factor clave para la empleabilidad y la adaptación a las exigencias del proceso productivo.
+a) Se han identificado las empresas tipo más representativas del sector.
 
-b) Se han identificado los itinerarios formativo-profesionales relacionados con el perfil profesional del elaborador de productos alimenticios.
+b) Se ha descrito la estructura organizativa de las empresas.
 
-c) Se han determinado las aptitudes y actitudes requeridas para la actividad profesional relacionada con el perfil del título.
+c) Se han caracterizado los principales departamentos.
 
-d) Se han identificado los principales yacimientos de empleo y de inserción laboral para el Técnico en Elaboración de Productos Alimenticios.
+d) Se han determinado las funciones de cada departamento.
 
-e) Se han determinado las técnicas utilizadas en el proceso de búsqueda de empleo.
+e) Se ha evaluado el volumen de negocio de acuerdo a las necesidades de los clientes.
 
-f) Se han previsto las alternativas de autoempleo en los sectores profesionales relacionados con el título.
+f) Se ha definido la estrategia para dar respuesta a las demandas.
 
-g) Se ha realizado la valoración de la personalidad, aspiraciones, actitudes y formación propia para la toma de decisiones.
+g) Se han valorado los recursos humanos y materiales necesarios.
 
-2. Aplica las estrategias del trabajo en equipo, valorando su eficacia y eficiencia para la consecución de los objetivos de la organización.
+h) Se ha realizado el seguimiento de los resultados de acuerdo a la estrategia aplicada.
 
-Criterios de evaluación:
+i) Se han relacionado los productos o servicios con su posible contribución a los ODS (Objetivos de Desarrollo Sostenible).
 
-a) Se han valorado las ventajas de trabajo en equipo en situaciones de trabajo relacionadas con el perfil del elaborador de productos alimenticios.
-
-b) Se han identificado los equipos de trabajo que pueden constituirse en una situación real de trabajo.
-
-c) Se han determinado las características del equipo de trabajo eficaz frente a los equipos ineficaces.
-
-d) Se ha valorado positivamente la necesaria existencia de diversidad de roles y opiniones asumidos por los miembros de un equipo.
-
-e) Se ha reconocido la posible existencia de conflicto entre los miembros de un grupo como un aspecto característico de las organizaciones.
-
-f) Se han identificado los tipos de conflictos y sus fuentes.
-
-g) Se han determinado procedimientos para la resolución del conflicto.
-
-3. Ejerce los derechos y cumple las obligaciones que se derivan de las relaciones laborales, reconociéndolas en los diferentes contratos de trabajo.
+2. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
 
 Criterios de evaluación:
 
-a) Se han identificado los conceptos básicos del derecho del trabajo.
+a) Se han identificado las necesidades.
 
-b) Se han distinguido los principales organismos que intervienen en las relaciones entre empresarios y trabajadores.
+b) Se han planteado en grupo posibles soluciones.
 
-c) Se han determinado los derechos y obligaciones derivados de la relación laboral.
+c) Se ha obtenido la información relativa a las soluciones planteadas.
 
-d) Se han clasificado las principales modalidades de contratación, identificando las medidas de fomento de la contratación para determinados colectivos.
+d) Se han identificado aspectos innovadores que puedan ser de aplicación.
 
-e) Se han valorado las medidas establecidas por la legislación vigente para la conciliación de la vida laboral y familiar.
+e) Se ha realizado el estudio de viabilidad técnica.
 
-f) Se han identificado las causas y efectos de la modificación, suspensión y extinción de la relación laboral.
+f) Se han identificado las partes que componen el proyecto.
 
-g) Se ha analizado el recibo de salarios identificando los principales elementos que lo integran.
+g) Se han previsto los recursos materiales y humanos para realizarlo.
 
-h) Se han analizado las diferentes medidas de conflicto colectivo y los procedimientos de solución de conflictos.
+h) Se ha realizado el presupuesto económico correspondiente.
 
-i) Se han determinado las condiciones de trabajo pactadas en un convenio colectivo aplicable a un sector profesional relacionado con el Título de Técnico en Elaboración de Productos Alimenticios.
+i) Se ha definido y elaborado la documentación para su diseño.
 
-j) Se han identificado las características definitorias de los nuevos entornos de organización del trabajo.
+j) Se han identificado los aspectos relacionados con la calidad del proyecto.
 
-4. Determina la acción protectora del sistema de la Seguridad Social ante las distintas contingencias cubiertas, identificando las distintas clases de prestaciones.
+k) Se han presentado en público las ideas más relevantes de los proyectos propuestos.
 
-Criterios de evaluación:
-
-a) Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos.
-
-b) Se han enumerado las diversas contingencias que cubre el sistema de Seguridad Social.
-
-c) Se han identificado los regímenes existentes en el sistema de Seguridad Social.
-
-d) Se han identificado las obligaciones de empresario y trabajador dentro del sistema de Seguridad Social.
-
-e) Se han identificado en un supuesto sencillo las bases de cotización de un trabajador y las cuotas correspondientes a trabajador y empresario.
-
-f) Se han clasificado las prestaciones del sistema de Seguridad Social, identificando los requisitos.
-
-g) Se han determinado las posibles situaciones legales de desempleo.
-
-h) Se ha realizado el cálculo de la duración y cuantía de una prestación por desempleo de nivel contributivo básico.
-
-5. Evalúa los riesgos derivados de su actividad, analizando las condiciones de trabajo y los factores de riesgo presentes en su entorno laboral.
+3. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
 
 Criterios de evaluación:
 
-a) Se ha valorado la importancia de la cultura preventiva en todos los ámbitos y actividades de la empresa.
+a) Se han temporizado las secuencias de las actividades.
 
-b) Se han relacionado las condiciones laborales con la salud del trabajador.
+b) Se han determinado los recursos y la logística de cada actividad.
 
-c) Se han clasificado los factores de riesgo en la actividad y los daños derivados de los mismos.
+c) Se han identificado permisos y autorizaciones en caso de ser necesarios.
 
-d) Se han identificado las situaciones de riesgo más habituales en los entornos de trabajo del Técnico en Elaboración de Productos Alimenticios.
+d) Se han identificado las actividades que implican riesgos en su ejecución.
 
-e) Se ha determinado la evaluación de riesgos en la empresa.
+e) Se ha tenido en cuenta el plan de prevención de riesgos y los medios y equipos necesarios.
 
-f) Se han determinado las condiciones de trabajo con significación para la prevención en los entornos de trabajo relacionados con el perfil profesional del Técnico en Elaboración de Productos Alimenticios.
+f) Se han asignado recursos materiales y humanos a cada actividad.
 
-g) Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a accidentes de trabajo y enfermedades profesionales, relacionados con el perfil profesional del Técnico en Elaboración de Productos Alimenticios.
+g) Se han tenido en cuenta posibles imprevistos.
 
-6. Participa en la elaboración de un plan de prevención de riesgos en una pequeña empresa, identificando las responsabilidades de todos los agentes implicados.
+h) Se han propuesto soluciones a los posibles imprevistos.
 
-Criterios de evaluación:
+i) Se ha elaborado la documentación necesaria.
 
-a) Se han determinado los principales derechos y deberes en materia de prevención de riesgos laborales.
-
-b) Se han clasificado las distintas formas de gestión de la prevención en la empresa, en función de los distintos criterios establecidos en la normativa sobre prevención de riesgos laborales.
-
-c) Se han determinado las formas de representación de los trabajadores en la empresa en materia de prevención de riesgos.
-
-d) Se han identificado los organismos públicos relacionados con la prevención de riesgos laborales.
-
-e) Se ha valorado la importancia de la existencia de un plan preventivo en la empresa que incluya la secuenciación de actuaciones que se deben realizar en caso de emergencia.
-
-f) Se ha definido el contenido del plan de prevención en un centro de trabajo relacionado con el sector profesional del Técnico en Elaboración de Productos Alimenticios.
-
-g) Se ha proyectado un plan de emergencia y evacuación de una empresa alimentaria.
-
-7. Aplica las medidas de prevención y protección, analizando las situaciones de riesgo en el entorno laboral del Técnico en Elaboración de Productos Alimenticios.
+4. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
 
 Criterios de evaluación:
 
-a) Se han definido las técnicas de prevención y de protección individual y colectiva que deben aplicarse para evitar los daños en su origen y minimizar sus consecuencias en caso de que sean inevitables.
+a) Se ha definido el procedimiento de seguimiento de las actividades.
 
-b) Se ha analizado el significado y alcance de los distintos tipos de señalización de seguridad.
+b) Se ha verificado la calidad de los resultados de las actividades.
 
-c) Se han analizado los protocolos de actuación en caso de emergencia.
+c) Se han identificado posibles desviaciones de la planificación y/o los resultados esperados.
 
-d) Se han identificado las técnicas de clasificación de heridos en caso de emergencia donde existan víctimas de diversa gravedad.
+d) Se ha informado de las desviaciones en caso de ser necesario.
 
-e) Se han identificado las técnicas básicas de primeros auxilios que han de ser aplicadas en el lugar del accidente ante distintos tipos de daños y la composición y uso del botiquín.
+e) Se han solucionado las desviaciones y se han documentado las intervenciones.
 
-f) Se han determinado los requisitos y condiciones para la vigilancia de la salud del trabajador y su importancia como medida de prevención.
+f) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto en su conjunto.
 
-Duración: 50 horas
-
-Contenidos básicos:
-
-Búsqueda activa de empleo:
-
-– Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del Técnico en Elaboración de Productos Alimenticios.
-
-– Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
-
-– Identificación de itinerarios formativos relacionados con el Técnico en Elaboración de Productos Alimenticios.
-
-– Definición y análisis del sector profesional del Técnico en Elaboración de Productos Alimenticios.
-
-– Proceso de búsqueda de empleo en empresas del sector.
-
-– Oportunidades de aprendizaje y empleo en Europa.
-
-– Técnicas e instrumentos de búsqueda de empleo.
-
-– El proceso de toma de decisiones.
-
-Gestión del conflicto y equipos de trabajo:
-
-– Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia de la organización.
-
-– Equipos en el sector de la industria alimentaria según las funciones que desempeñan.
-
-– La participación en el equipo de trabajo.
-
-– Conflicto: características, fuentes y etapas.
-
-– Métodos para la resolución o supresión del conflicto.
-
-Contrato de trabajo:
-
-– El derecho del trabajo.
-
-– Análisis de la relación laboral individual.
-
-– Modalidades de contrato de trabajo y medidas de fomento de la contratación.
-
-– Derechos y deberes derivados de la relación laboral.
-
-– Modificación, suspensión y extinción del contrato de trabajo.
-
-– Representación de los trabajadores.
-
-– Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico en Elaboración de Productos Alimenticios.
-
-– Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y beneficios sociales, entre otros.
-
-Seguridad Social, Empleo y Desempleo:
-
-– Estructura del Sistema de la Seguridad Social.
-
-– Determinación de las principales obligaciones de empresarios y trabajadores en materia de Seguridad Social, afiliación, altas, bajas y cotización.
-
-– Situaciones protegibles en la protección por desempleo.
-
-Evaluación de riesgos profesionales:
-
-– Valoración de la relación entre trabajo y salud.
-
-– Análisis de factores de riesgo.
-
-– La evaluación de riesgos en la empresa como elemento básico de la actividad preventiva.
-
-– Análisis de riesgos ligados a las condiciones de seguridad.
-
-– Análisis de riesgos ligados a las condiciones ambientales
-
-– Análisis de riesgos ligados a las condiciones ergonómicas y psico-sociales.
-
-– Riesgos específicos en el sector de la industria alimentaria.
-
-– Determinación de los posibles daños a la salud del trabajador que pueden derivarse de las situaciones de riesgo detectadas.
-
-Planificación de la prevención de riesgos en la empresa:
-
-– Derechos y deberes en materia de prevención de riesgos laborales.
-
-– Gestión de la prevención en la empresa.
-
-– Organismos públicos relacionados con la prevención de riesgos laborales.
-
-– Planificación de la prevención en la empresa.
-
-– Planes de emergencia y de evacuación en entornos de trabajo.
-
-– Elaboración de un plan de emergencia en una empresa alimentaria.
-
-Aplicación de medidas de prevención y protección en la empresa:
-
-– Determinación de las medidas de prevención y protección individual y colectiva.
-
-– Protocolo de actuación ante una situación de emergencia.
-
-– Primeros auxilios.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector de la elaboración de productos alimenticios.
-
-La formación del módulo contribuye a alcanzar los objetivos generales, ñ), o), p), q), r), s), t) y u) del ciclo formativo y las competencias m), n), ñ), o), p), q), r) y s) del título.
-
-Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-– El manejo de las fuentes de información sobre el sistema educativo y laboral, en especial en lo referente al sector de las empresas y las plantas de elaboración de productos alimenticios.
-
-– La realización de pruebas de orientación y dinámicas sobre la propia personalidad y el desarrollo de las habilidades sociales.
-
-– La preparación y realización de currículos (CV) y entrevistas de trabajo.
-
-– Identificación de la normativa laboral que afecta a los trabajadores del sector, manejo de los contratos más comúnmente utilizados, lectura comprensiva de los convenios colectivos de aplicación.
-
-– La cumplimentación de recibos de salario de diferentes características y otros documentos relacionados.
-
-– El análisis de la Ley de Prevención de Riesgos Laborales que le permita la evaluación de los riesgos derivados de las actividades desarrolladas en su sector productivo, y colaborar en la definición de un plan de prevención para una pequeña empresa, así como las medidas necesarias que deban adoptarse para su implementación.
-
-Módulo Profesional: Empresa e iniciativa emprendedora.
-
-Código: 0148
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Reconoce las capacidades asociadas a la iniciativa emprendedora, analizando los requerimientos derivados de los puestos de trabajo y de las actividades empresariales.
+5. Transmite información con claridad, de manera ordenada y estructurada.
 
 Criterios de evaluación:
 
-a) Se ha identificado el concepto de innovación y su relación con el progreso de la sociedad y el aumento en el bienestar de los individuos.
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
 
-b) Se ha analizado el concepto de cultura emprendedora y su importancia como fuente de creación de empleo y bienestar social.
+a) Se ha transmitido información verbal tanto horizontal como verticalmente.
 
-c) Se han valorado la importancia de la iniciativa individual, la creatividad, la formación y la colaboración como requisitos indispensables para tener éxito en la actividad emprendedora.
+b) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
 
-d) Se ha analizado la capacidad de iniciativa en el trabajo de una persona empleada en una pequeña y mediana empresa alimentaria.
+c) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
 
-e) Se ha analizado el desarrollo de la actividad emprendedora de un empresario que se inicie en el sector de la industria alimentaria.
-
-f) Se ha analizado el concepto de riesgo como elemento inevitable de toda actividad emprendedora.
-
-g) Se han analizado el concepto de empresario y los requisitos y actitudes necesarios para desarrollar la actividad empresarial.
-
-h) Se ha descrito la estrategia empresarial relacionándola con los objetivos de la empresa.
-
-i) Se ha definido una determinada idea de negocio del ámbito de la industria alimentaria que servirá de punto de partida para la elaboración de un plan de empresa.
-
-2. Define la oportunidad de creación de una pequeña empresa, valorando el impacto sobre el entorno de actuación e incorporando valores éticos.
-
-Criterios de evaluación:
-
-a) Se han descrito las funciones básicas que se realizan en una empresa y se ha analizado el concepto de sistema aplicado a la empresa.
-
-b) Se han identificado los principales componentes del entorno general que rodea a la empresa, en especial el entorno económico, social, demográfico y cultural.
-
-c) Se ha analizado la influencia en la actividad empresarial de las relaciones con los clientes, con los proveedores y con la competencia, como principales integrantes del entorno específico.
-
-d) Se han identificado los elementos del entorno de una pyme alimentaria.
-
-e) Se han analizado los conceptos de cultura empresarial e imagen corporativa, y su relación con los objetivos empresariales.
-
-f) Se ha analizado el fenómeno de la responsabilidad social de las empresas y su importancia como un elemento de la estrategia empresarial.
-
-g) Se ha elaborado el balance social de una empresa relacionada con la elaboración de productos alimenticios, y se han descrito los principales costes sociales en que incurren estas empresas, así como los beneficios sociales que producen.
-
-h) Se han identificado, en empresas relacionadas con la elaboración de productos alimenticios, prácticas que incorporan valores éticos y sociales.
-
-i) Se ha llevado a cabo un estudio de viabilidad económica y financiera de una pyme relacionada con la elaboración de productos alimenticios.
-
-3. Realiza actividades para la constitución y puesta en marcha de una empresa, seleccionando la forma jurídica e identificando las obligaciones legales asociadas.
-
-Criterios de evaluación:
-
-a) Se han analizado las diferentes formas jurídicas de la empresa.
-
-b) Se ha especificado el grado de responsabilidad legal de los propietarios de la empresa, en función de la forma jurídica elegida.
-
-c) Se ha diferenciado el tratamiento fiscal establecido para las diferentes formas jurídicas de la empresa.
-
-d) Se han analizado los trámites exigidos por la legislación vigente para la constitución de una empresa.
-
-e) Se ha realizado una búsqueda exhaustiva de las diferentes ayudas para la creación de empresas relacionadas con la elaboración de productos alimenticios en la localidad de referencia.
-
-f) Se ha incluido en el plan de empresa todo lo relativo a la elección de la forma jurídica, estudio de viabilidad económico-financiera, trámites administrativos, ayudas y subvenciones.
-
-g) Se han identificado las vías de asesoramiento y gestión administrativa externas existentes a la hora de poner en marcha una pyme.
-
-4. Realiza actividades de gestión administrativa y financiera de una pyme, identificando las principales obligaciones contables y fiscales y cumplimentando la documentación.
-
-Criterios de evaluación:
-
-a) Se han analizado los conceptos básicos de contabilidad, así como las técnicas de registro de la información contable.
-
-b) Se han descrito las técnicas básicas de análisis de la información contable, en especial en lo referente a la solvencia, liquidez y rentabilidad de la empresa.
-
-c) Se han definido las obligaciones fiscales de una empresa alimentaria.
-
-d) Se han diferenciado los tipos de impuestos en el calendario fiscal.
-
-e) Se ha cumplimentado la documentación básica de carácter comercial y contable (facturas, albaranes, notas de pedido, letras de cambio, cheques, entre otros) para una pyme alimentaria, y se han descrito los circuitos que dicha documentación recorre en la empresa.
-
-f) Se han identificado los principales instrumentos de financiación bancaria.
-
-g) Se ha incluido la anterior documentación en el plan de empresa.
-
-Duración: 35 horas
-
-Contenidos básicos:
-
-Iniciativa emprendedora:
-
-– Innovación y desarrollo económico. Principales características de la innovación en la elaboración de productos alimenticios (materiales, tecnología y organización de la producción, entre otros).
-
-– Factores claves de los emprendedores: iniciativa, creatividad y formación.
-
-– La actuación de los emprendedores como empleados de una pyme relacionada con la elaboración de productos alimenticios.
-
-– La actuación de los emprendedores como empresarios en el sector de la elaboración de productos alimenticios.
-
-– El empresario. Requisitos para el ejercicio de la actividad empresarial.
-
-– Plan de empresa: la idea de negocio en el ámbito de la elaboración de productos alimenticios.
-
-La empresa y su entorno:
-
-– Funciones básicas de la empresa.
-
-– La empresa como sistema.
-
-– Análisis del entorno general de una pyme relacionada con la elaboración de productos alimenticios.
-
-– Análisis del entorno específico de una pyme relacionada con la elaboración de productos alimenticios.
-
-– Relaciones de una pyme de elaboración de productos alimenticios con su entorno.
-
-– Relaciones de una pyme de elaboración de productos alimenticios con el conjunto de la sociedad.
-
-Creación y puesta en marcha de una empresa:
-
-– Tipos de empresa.
-
-– La fiscalidad en las empresas.
-
-– Elección de la forma jurídica.
-
-– Trámites administrativos para la constitución de una empresa.
-
-– Viabilidad económica y viabilidad financiera de una pyme relacionada con la elaboración de productos alimenticios.
-
-– Plan de empresa: elección de la forma jurídica, estudio de la viabilidad económica y financiera, trámites administrativos y gestión de ayudas y subvenciones.
-
-Función administrativa:
-
-– Concepto de contabilidad y nociones básicas.
-
-– Análisis de la información contable.
-
-– Obligaciones fiscales de las empresas.
-
-– Gestión administrativa de una empresa alimentaria.
-
-Orientaciones pedagógicas.
-
-Este módulo contiene la formación necesaria para desarrollar la propia iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de responsabilidades y funciones en el empleo por cuenta ajena.
-
-La formación del módulo contribuye a alcanzar los objetivos generales, ñ), o), p), q), r), s), t) y u) del ciclo formativo y las competencias m), n), ñ), o), p), q), r) y s) del título.
-
-Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-– El manejo de las fuentes de información sobre el sector de la elaboración de productos alimenticios, incluyendo el análisis de los procesos de innovación sectorial en marcha.
-
-– La realización de casos y dinámicas de grupo que permitan comprender y valorar las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector industrial relacionado con los procesos de la elaboración de productos alimenticios.
-
-– La utilización de programas de gestión administrativa para pymes del sector.
-
-– La realización de un proyecto de plan de empresa relacionada con la actividad de elaboración de productos alimenticios y que incluya todas las facetas de puesta en marcha de un negocio, así como justificación de su responsabilidad social.
-
-Módulo Profesional: Formación en centros de trabajo.
-
-Código: 0149
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Identifica la estructura y organización de la empresa alimentaria relacionándola con la producción y comercialización de los productos y servicios que ofrecen.
-
-Criterios de evaluación:
-
-a) Se ha identificado la estructura organizativa de la empresa y las funciones de cada área de la misma.
-
-b) Se han identificado los elementos que constituyen la red logística de la empresa: proveedores, clientes, sistemas de producción, almacenaje y otros.
-
-c) Se han identificado los procedimientos de trabajo en el desarrollo del proceso productivo.
-
-d) Se han relacionado las competencias de los recursos humanos con el desarrollo de la actividad productiva.
-
-e) Se ha interpretado la importancia de cada elemento de la red en el desarrollo de la actividad de la empresa.
-
-f) Se han relacionado características del mercado, tipo de clientes y proveedores y su posible influencia en el desarrollo de la actividad empresarial.
-
-g) Se han identificado los canales de comercialización más frecuentes en esta actividad.
-
-h) Se han relacionado ventajas e inconvenientes de la estructura de la empresa, frente a otro tipo de organizaciones empresariales.
-
-2. Aplica hábitos éticos y laborales en el desarrollo de su actividad profesional de acuerdo con las características del puesto de trabajo y los procedimientos establecidos de la empresa.
-
-Criterios de evaluación:
-
-a) Se han reconocido y justificado:
-
-– La disposición personal y temporal que necesita el puesto de trabajo.
-
-– Las actitudes personales (puntualidad, empatía, entre otras) y profesionales (orden, limpieza, seguridad necesarias para el puesto de trabajo, responsabilidad y otras).
-
-– Los requerimientos actitudinales ante la prevención de riesgos en la actividad profesional y las medidas de protección personal.
-
-– Los requerimientos actitudinales referidos a la calidad en la actividad profesional.
-
-– Las actitudes relacionales con el propio equipo de trabajo y con las jerarquías establecidas en la empresa.
-
-– Las actitudes relacionadas con la documentación de las actividades realizadas en el ámbito laboral.
-
-– Las necesidades formativas para la inserción y reinserción laboral en el ámbito científico y técnico del buen hacer del profesional.
-
-b) Se han identificado las normas de prevención de riesgos laborales que hay que aplicar en actividad profesional y los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales.
-
-c) Se han aplicado los equipos de protección individual según los riesgos de la actividad profesional y las normas de la empresa.
-
-d) Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
-
-e) Se ha mantenido organizado, limpio y libre de obstáculos el puesto de trabajo o el área correspondiente al desarrollo de la actividad.
-
-f) Se han interpretado y cumplido las instrucciones recibidas responsabilizándose del trabajo asignado.
-
-g) Se ha establecido una comunicación y relación eficaz con la persona responsable en cada situación y miembros de su equipo, manteniendo un trato fluido y correcto.
-
-h) Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente.
-
-i) Se ha valorado la importancia de su actividad y la adaptación a los cambios de tareas asignados en el desarrollo de los procesos productivos de la empresa, integrándose en las nuevas funciones.
-
-j) Se ha comprometido responsablemente en la aplicación de las normas y procedimientos en el desarrollo de cualquier actividad o tarea.
-
-3. Recepciona y almacena materias primas y auxiliares, según los procedimientos e instrucciones establecidas, realizando los controles básicos e interpretando los resultados obtenidos.
-
-Criterios de evaluación.
-
-a) Se han interpretado los procedimientos, instrucciones, documentación y registros de la recepción, almacenamiento y control de existencias de las materias primas y auxiliares establecidos.
-
-b) Se han identificado los equipos de traslado interno de materias primas y auxiliares.
-
-c) Se ha comprobado que el transporte externo de las materias primas y auxiliares se ha realizado según los procedimientos e instrucciones recibidas.
-
-d) Se ha verificado que los envases y embalajes de las materias primas y auxiliares se encuentran en correcto estado y son los adecuados según las instrucciones recibidas.
-
-e) Se ha controlado la descarga y distribución de las materias primas y auxiliares en almacenes, cámaras y depósitos, empleándose los equipos de traslado interno establecidos.
-
-f) Se han recogido selectivamente los materiales de envasado y embalaje de las materias primas y auxiliares de fabricación, respetando el medio ambiente.
-
-g) Se han realizado los controles básicos y verificaciones de entrada (estado, cantidad y calidad) de las materias primas y auxiliares recibidas según lo establecido en las instrucciones y procedimientos de la empresa.
-
-h) Se han interpretado los resultados de los controles básicos y se han cumplimentado los registros.
-
-i) Se ha comprobado que las condiciones de almacenamiento (ubicación, colocación, temperatura, humedad relativa, luz, aireación) son las establecidas por la empresa.
-
-j) Se ha revisado con la periodicidad establecida el estado y caducidad de lo almacenado.
-
-k) Se han realizado los inventarios según las instrucciones recibidas y se han notificado las desviaciones.
-
-l) Se ha tramitado la documentación según lo especificado en los procedimientos e instrucciones.
-
-4. Prepara equipos y servicios auxiliares, montando y ajustando sus dispositivos y accesorios, según los procedimientos establecidos y aplicando la normativa de prevención de riesgos laborales y protección ambiental.
-
-Criterios de evaluación:
-
-a) Se han identificado los equipos y servicios auxiliares necesarios para la elaboración del producto.
-
-b) Se ha comprobado que la limpieza de los equipos e instalaciones es la indicada en las instrucciones y procedimientos establecidos.
-
-c) Se ha realizado el mantenimiento de primer nivel de los equipos y servicios auxiliares, según las instrucciones y procedimientos establecidos.
-
-d) Se han seleccionado los accesorios, según las especificaciones del proceso que se va a desarrollar.
-
-e) Se ha verificado que el estado de los equipos y servicios auxiliares es el adecuado para realizar las operaciones indicadas en el procedimiento.
-
-f) Se han adaptado los parámetros de control a las especificaciones del proceso.
-
-g) Se han adoptado las medidas estipuladas relativas a prevención de riesgos y protección ambiental, en el desarrollo de las fases de preparación.
-
-5. Realiza operaciones de elaboración de productos según especificaciones de fabricación, aplicando la normativa de seguridad alimentaria, prevención de riesgos laborales y protección ambiental.
-
-Criterios de evaluación:
-
-a) Se han descrito las características del producto a elaborar, el proceso productivo y la secuencia de operaciones.
-
-b) Se han identificado los sistemas de control de procesos empleados en la industria alimentaria.
-
-c) Se han enumerado las materias primas y auxiliares, características y calidades según la ficha de fabricación.
-
-d) Se han calculado las cantidades de cada ingrediente y ajustado la formulación según las especificaciones de fabricación.
-
-e) Se han asignado y regulado los parámetros de control durante todo el proceso productivo.
-
-f) Se han realizado las operaciones de elaboración de los productos, según lo establecido en las instrucciones y procedimientos.
-
-g) Se han realizado las comprobaciones de parámetros de control del proceso y cumplimentado los registros.
-
-h) Se han contrastado las características del producto elaborado con las especificaciones establecidas en las fichas de fabricación.
-
-i) Se han detectado desviaciones del proceso, actuando sobre el mismo o comunicando las incidencias.
-
-j) Se han efectuado las pruebas o ensayos básicos al producto en curso y al elaborado, respetando la técnica de muestreo y aplicando el protocolo analítico.
-
-k) Se ha operado sobre los equipos de tratamiento de la información y de la comunicación (sistemas de control de procesos, ordenadores personales).
-
-l) Se han adoptado las medidas estipuladas de higiene y seguridad alimentaria, de prevención de riesgos y de protección ambiental durante el proceso de elaboración.
-
-m) Se han realizado las operaciones de limpieza y mantenimiento de máquinas, utillajes y accesorios dejándolos en estado óptimo de operatividad.
-
-6. Realiza operaciones de envasado, etiquetado, embalado, almacenamiento y expedición de productos siguiendo las instrucciones establecidas por la empresa.
-
-Criterios de evaluación:
-
-a) Se han interpretado los procedimientos e instrucciones de envasado, etiquetado, embalado, almacenamiento y expedición.
-
-b) Se han seleccionado e identificado los envases y embalajes que se deben emplear según lo establecido en las instrucciones y procedimientos.
-
-c) Se ha envasado y embalado el producto elaborado, aplicando medidas de higiene y seguridad durante el proceso.
-
-d) Se han asignado, controlado y regulado los parámetros de control durante el envasado, etiquetado, embalado, almacenamiento y expedición.
-
-e) Se han corregido las desviaciones del proceso, actuando sobre el mismo o comunicando las incidencias.
-
-f) Se ha ubicado el producto en almacén, aplicando las condiciones adecuadas según las especificaciones establecidas.
-
-g) Se ha comprobado que las características y tipo de transporte externo son los establecidos en los procedimientos e instrucciones.
-
-h) Se ha efectuado la expedición y cumplimentado la documentación y los registros según lo establecido.
-
-i) Se han actualizado las existencias del almacén de productos terminados.
-
-j) Se han realizado las operaciones de limpieza y mantenimiento de máquinas y accesorios de envasado y embalado para dejarlos en estado óptimo de operatividad.
-
-Duración: 220 horas
-
-Este módulo profesional contribuye a completar las competencias y objetivos generales, propios de este título, que se han alcanzado en el centro educativo o a desarrollar competencias características difíciles de conseguir en el mismo.
+> Se modifica por el art. 7 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684

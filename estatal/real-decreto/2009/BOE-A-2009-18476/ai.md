@@ -2860,606 +2860,126 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – Cálculo de costes para la fijación del precio del producto.
 
-Módulo Profesional: Formación y Orientación Laboral.
+## 0156. Inglés Profesional (GM)
 
-Código: 0414.
+## 1709. Itinerario personal para la empleabilidad I
 
-Resultados de aprendizaje y criterios de evaluación.
+## 1710. Itinerario personal para la empleabilidad II
 
-1. Selecciona oportunidades de empleo, identificando las diferentes posibilidades de inserción y las alternativas de aprendizaje a lo largo de la vida.
+## 1664. Digitalización aplicada a los sectores productivos (GM)
 
-Criterios de evaluación:
+## 1708. Sostenibilidad aplicada al sistema productivo
 
-a) Se ha valorado la importancia de la formación permanente como factor clave para la empleabilidad y la adaptación a las exigencias del proceso productivo.
+> Téngase en cuenta que el código, duración del currículo básico, resultados de aprendizaje y criterios de evaluación de los módulos profesionales 0156, 1709, 1710,1664 y 1708, figuran como anexos IX, V, VI y VIII del Real Decreto 659/2023, de 18 de julio, según establece el art. 7 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684
 
-b) Se han identificado los itinerarios formativo-profesionales relacionados con el perfil profesional del productor agroecológico.
+## 1713. Proyecto intermodular
 
-c) Se han determinado las aptitudes y actitudes requeridas para la actividad profesional relacionada con el perfil del título.
+## Currículo básico módulo de Proyecto intermodular de grado medio
 
-d) Se han identificado los principales yacimientos de empleo y de inserción laboral para el Técnico en Producción Agroecológica.
-
-e) Se han determinado las técnicas utilizadas en el proceso de búsqueda de empleo.
-
-f) Se han previsto las alternativas de autoempleo en los sectores profesionales relacionados con el título.
-
-g) Se ha realizado la valoración de la personalidad, aspiraciones, actitudes y formación propia para la toma de decisiones.
-
-2. Aplica las estrategias del trabajo en equipo, valorando su eficacia y eficiencia para la consecución de los objetivos de la organización.
-
-Criterios de evaluación:
-
-a) Se han valorado las ventajas de trabajo en equipo en situaciones de trabajo relacionadas con el perfil del productor agroecológico.
-
-b) Se han identificado los equipos de trabajo que pueden constituirse en una situación real de trabajo.
-
-c) Se han determinado las características del equipo de trabajo eficaz frente a los equipos ineficaces.
-
-d) Se ha valorado positivamente la necesaria existencia de diversidad de roles y opiniones asumidos por los miembros de un equipo.
-
-e) Se ha reconocido la posible existencia de conflicto entre los miembros de un grupo como un aspecto característico de las organizaciones.
-
-f) Se han identificado los tipos de conflictos y sus fuentes.
-
-g) Se han determinado procedimientos para la resolución del conflicto.
-
-3. Ejerce los derechos y cumple las obligaciones que se derivan de las relaciones laborales, reconociéndolas en los diferentes contratos de trabajo.
-
-Criterios de evaluación:
-
-a) Se han identificado los conceptos básicos del derecho del trabajo.
-
-b) Se han distinguido los principales organismos que intervienen en las relaciones entre empresarios y trabajadores.
-
-c) Se han determinado los derechos y obligaciones derivados de la relación laboral.
-
-d) Se han clasificado las principales modalidades de contratación, identificando las medidas de fomento de la contratación para determinados colectivos.
-
-e) Se han valorado las medidas establecidas por la legislación vigente para la conciliación de la vida laboral y familiar.
-
-f) Se han identificado las causas y efectos de la modificación, suspensión y extinción de la relación laboral.
-
-g) Se ha analizado el recibo de salarios identificando los principales elementos que lo integran.
-
-h) Se han analizado las diferentes medidas de conflicto colectivo y los procedimientos de solución de conflictos.
-
-i) Se han determinado las condiciones de trabajo pactadas en un convenio colectivo aplicable a un sector profesional relacionado con el Título de Técnico en Producción Agroecológica.
-
-j) Se han identificado las características definitorias de los nuevos entornos de organización del trabajo.
-
-4. Determina la acción protectora del sistema de la Seguridad Social ante las distintas contingencias cubiertas, identificando las distintas clases de prestaciones.
-
-Criterios de evaluación:
-
-a) Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos.
-
-b) Se han enumerado las diversas contingencias que cubre el sistema de Seguridad Social.
-
-c) Se han identificado los regímenes existentes en el sistema de Seguridad Social.
-
-d) Se han identificado las obligaciones de empresario y trabajador dentro del sistema de Seguridad Social.
-
-e) Se han identificado las bases de cotización de un trabajador y las cuotas correspondientes a trabajador y empresario.
-
-f) Se han clasificado las prestaciones del sistema de Seguridad Social, identificando los requisitos.
-
-g) Se han determinado las posibles situaciones legales de desempleo.
-
-h) Se ha realizado el cálculo de la duración y cuantía de una prestación por desempleo de nivel contributivo básico.
-
-5. Evalúa los riesgos derivados de su actividad, analizando las condiciones de trabajo y los factores de riesgo presentes en su entorno laboral.
-
-Criterios de evaluación:
-
-a) Se ha valorado la importancia de la cultura preventiva en todos los ámbitos y actividades de la empresa.
-
-b) Se han relacionado las condiciones laborales con la salud del trabajador.
-
-c) Se han clasificado los factores de riesgo en la actividad y los daños derivados de los mismos.
-
-d) Se han identificado las situaciones de riesgo más habituales en los entornos de trabajo del Técnico en Producción Agroecológica.
-
-e) Se ha determinado la evaluación de riesgos en la empresa.
-
-f) Se han determinado las condiciones de trabajo con significación para la prevención en los entornos de trabajo relacionados con el perfil profesional del Técnico en Producción Agroecológica.
-
-g) Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a accidentes de trabajo y enfermedades profesionales, relacionados con el perfil profesional del Técnico en Producción Agroecológica.
-
-6. Participa en la elaboración de un plan de prevención de riesgos en una pequeña explotación agroecológica, identificando las responsabilidades de todos los agentes implicados.
-
-Criterios de evaluación:
-
-a) Se han determinado los principales derechos y deberes en materia de prevención de riesgos laborales.
-
-b) Se han clasificado las distintas formas de gestión de la prevención en la empresa, en función de los distintos criterios establecidos en la normativa sobre prevención de riesgos laborales.
-
-c) Se han determinado las formas de representación de los trabajadores en la empresa en materia de prevención de riesgos.
-
-d) Se han identificado los organismos públicos relacionados con la prevención de riesgos laborales.
-
-e) Se ha valorado la importancia de la existencia de un plan preventivo en la empresa que incluya la secuenciación de actuaciones que se deben realizar en caso de emergencia.
-
-f) Se ha definido el contenido del plan de prevención en un centro de trabajo relacionado con el sector profesional del Técnico en Producción Agroecológica.
-
-g) Se ha proyectado un plan de emergencia y evacuación de una explotación agroecológica.
-
-7. Aplica las medidas de prevención y protección, analizando las situaciones de riesgo en el entorno laboral del Técnico en Producción Agroecológica.
-
-Criterios de evaluación:
-
-a) Se han definido las técnicas de prevención y de protección individual y colectiva que deben aplicarse para evitar los daños en su origen y minimizar sus consecuencias en caso de que sean inevitables.
-
-b) Se ha analizado el significado y alcance de los distintos tipos de señalización de seguridad.
-
-c) Se han analizado los protocolos de actuación en caso de emergencia.
-
-d) Se han identificado las técnicas de clasificación de heridos en caso de emergencia donde existan víctimas de diversa gravedad.
-
-e) Se han determinado los requisitos y condiciones para la vigilancia de la salud del trabajador y su importancia como medida de prevención.
+Módulo Profesional: Proyecto intermodular.
 
 Duración: 50 horas.
 
-Contenidos básicos:
-
-Búsqueda activa de empleo:
-
-– Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del Técnico en Producción Agroecológica.
-
-– Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
-
-– Identificación de itinerarios formativos relacionados con el Técnico en Producción Agroecológica.
-
-– Definición y análisis del sector profesional del Técnico en Producción Agroecológica.
-
-– Proceso de búsqueda de empleo en empresas del sector.
-
-– Oportunidades de aprendizaje y empleo en Europa.
-
-– Técnicas e instrumentos de búsqueda de empleo.
-
-– El proceso de toma de decisiones.
-
-Gestión del conflicto y equipos de trabajo:
-
-– Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia de la organización.
-
-– Equipos en el sector de la producción agroecológica según las funciones que desempeñan.
-
-– La participación en el equipo de trabajo.
-
-– Conflicto: características, fuentes y etapas.
-
-– Métodos para la resolución o supresión del conflicto.
-
-Contrato de trabajo:
-
-– El derecho del trabajo.
-
-– Análisis de la relación laboral individual.
-
-– Modalidades de contrato de trabajo y medidas de fomento de la contratación.
-
-– Derechos y deberes derivados de la relación laboral.
-
-– Modificación, suspensión y extinción del contrato de trabajo.
-
-– Representación de los trabajadores.
-
-– Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico en Producción Agroecológica.
-
-– Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y beneficios sociales, entre otros.
-
-Seguridad Social, Empleo y Desempleo:
-
-– Estructura del Sistema de la Seguridad Social.
-
-– Determinación de las principales obligaciones de empresarios y trabajadores en materia de Seguridad Social, afiliación, altas, bajas y cotización.
-
-– Situaciones protegibles en la protección por desempleo.
-
-Evaluación de riesgos profesionales:
-
-– Valoración de la relación entre trabajo y salud.
-
-– Análisis de factores de riesgo.
-
-– La evaluación de riesgos en la empresa como elemento básico de la actividad preventiva.
-
-– Análisis de riesgos ligados a las condiciones de seguridad.
-
-– Análisis de riesgos ligados a las condiciones ambientales.
-
-– Análisis de riesgos ligados a las condiciones ergonómicas y psico-sociales.
-
-– Riesgos específicos en el sector de la producción agroecológica.
-
-– Determinación de los posibles daños a la salud del trabajador que pueden derivarse de las situaciones de riesgo detectadas.
-
-Planificación de la prevención de riesgos en la empresa:
-
-– Derechos y deberes en materia de prevención de riesgos laborales.
-
-– Gestión de la prevención en la empresa.
-
-– Organismos públicos relacionados con la prevención de riesgos laborales.
-
-– Planificación de la prevención en la empresa.
-
-– Planes de emergencia y de evacuación en entornos de trabajo.
-
-– Elaboración de un plan de emergencia en una explotación agroecológica.
-
-Aplicación de medidas de prevención y protección en la empresa:
-
-– Determinación de las medidas de prevención y protección individual y colectiva.
-
-– Protocolo de actuación ante una situación de emergencia.
-
-– Primeros auxilios.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector de la producción agroecológica.
-
-La formación del módulo permite alcanzar los objetivos generales r), s), t), u), v) y w) del ciclo formativo, y las competencias r), s), t), u), v) y w) del título.
-
-Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-– El manejo de las fuentes de información sobre el sistema educativo y laboral, en especial en lo referente a las empresas del sector de la producción agroecológica.
-
-– La realización de pruebas de orientación y dinámicas sobre la propia personalidad y el desarrollo de las habilidades sociales.
-
-– La preparación y realización de currículos (CV), y entrevistas de trabajo.
-
-– Identificación de la normativa laboral que afecta a los trabajadores del sector, manejo de los contratos más comúnmente utilizados, lectura comprensiva de los convenios colectivos de aplicación.
-
-– La cumplimentación de recibos de salario de diferentes características y otros documentos relacionados.
-
-– El análisis de la ley de Prevención de Riesgos Laborales, que le permita la evaluación de los riesgos derivados de las actividades desarrolladas en su sector productivo, y colaborar en la definición de un plan de prevención para una pequeña empresa, así como las medidas necesarias para su implementación.
-
-Módulo Profesional: Empresa e iniciativa Emprendedora.
-
-Código: 0415.
+Código: 1713.
 
 Resultados de aprendizaje y criterios de evaluación.
 
-1. Reconoce las capacidades asociadas a la iniciativa emprendedora, analizando los requerimientos derivados de los puestos de trabajo y de las actividades empresariales.
+1. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
 
 Criterios de evaluación:
 
-a) Se ha identificado el concepto de innovación y su relación con el progreso de la sociedad y el aumento en el bienestar de los individuos.
+a) Se han identificado las empresas tipo más representativas del sector.
 
-b) Se ha analizado el concepto de cultura emprendedora y su importancia como fuente de creación de empleo y bienestar social.
+b) Se ha descrito la estructura organizativa de las empresas.
 
-c) Se ha valorado la importancia de la iniciativa individual, la creatividad, la formación y la colaboración como requisitos indispensables para tener éxito en la actividad emprendedora.
+c) Se han caracterizado los principales departamentos.
 
-d) Se ha analizado la capacidad de iniciativa en el trabajo de una persona empleada en una pequeña y mediana empresa (pyme) relacionada con la producción agroecológica.
+d) Se han determinado las funciones de cada departamento.
 
-e) Se ha analizado el desarrollo de la actividad emprendedora de un empresario que se inicie en el sector de la producción agroecológica.
+e) Se ha evaluado el volumen de negocio de acuerdo a las necesidades de los clientes.
 
-f) Se ha analizado el concepto de riesgo como elemento inevitable de toda actividad emprendedora.
+f) Se ha definido la estrategia para dar respuesta a las demandas.
 
-g) Se ha analizado el concepto de empresario y los requisitos y actitudes necesarios para desarrollar la actividad empresarial.
+g) Se han valorado los recursos humanos y materiales necesarios.
 
-h) Se ha descrito la estrategia empresarial relacionándola con los objetivos de la empresa.
+h) Se ha realizado el seguimiento de los resultados de acuerdo a la estrategia aplicada.
 
-i) Se ha definido una determinada idea de negocio del ámbito de la producción agroecológica que servirá de punto de partida para la elaboración de un plan de empresa.
+i) Se han relacionado los productos o servicios con su posible contribución a los ODS (Objetivos de Desarrollo Sostenible).
 
-2. Define la oportunidad de creación de una pequeña empresa, valorando el impacto sobre el entorno de actuación e incorporando valores éticos.
-
-Criterios de evaluación:
-
-a) Se han descrito las funciones básicas que se realizan en una empresa y se ha analizado el concepto de sistema aplicado a la empresa.
-
-b) Se han identificado los principales componentes del entorno general que rodea a la empresa, en especial el entorno económico, social, demográfico y cultural.
-
-c) Se ha analizado la influencia en la actividad empresarial de las relaciones con los clientes, con los proveedores y con la competencia, como principales integrantes del entorno específico.
-
-d) Se han identificado los elementos del entorno de una pyme relacionada con la producción agroecológica.
-
-e) Se han analizado los conceptos de cultura empresarial e imagen corporativa, y su relación con los objetivos empresariales.
-
-f) Se ha analizado el fenómeno de la responsabilidad social de las empresas y su importancia como un elemento de la estrategia empresarial.
-
-g) Se ha elaborado el balance social de una empresa relacionada con la producción agroecológica, y se han descrito los principales costes sociales en que incurren estas empresas, así como los beneficios sociales que producen.
-
-h) Se han identificado, en empresas relacionadas con la producción agroecológica, prácticas que incorporan valores éticos y sociales.
-
-i) Se ha llevado a cabo un estudio de viabilidad económica y financiera de una pyme relacionada con la producción agroecológica.
-
-3. Realiza actividades para la constitución y puesta en marcha de una empresa, seleccionando la forma jurídica e identificando las obligaciones legales asociadas.
+2. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
 
 Criterios de evaluación:
 
-a) Se han analizado las diferentes formas jurídicas de la empresa.
+a) Se han identificado las necesidades.
 
-b) Se ha especificado el grado de responsabilidad legal de los propietarios de la empresa, en función de la forma jurídica elegida.
+b) Se han planteado en grupo posibles soluciones.
 
-c) Se ha diferenciado el tratamiento fiscal establecido para las diferentes formas jurídicas de la empresa.
+c) Se ha obtenido la información relativa a las soluciones planteadas.
 
-d) Se han analizado los trámites exigidos por la legislación vigente para la constitución de una empresa.
+d) Se han identificado aspectos innovadores que puedan ser de aplicación.
 
-e) Se ha realizado una búsqueda exhaustiva de las diferentes ayudas para la creación de empresas relacionadas con la producción agroecológica en la localidad de referencia.
+e) Se ha realizado el estudio de viabilidad técnica.
 
-f) Se ha incluido en el plan de empresa todo lo relativo a la elección de la forma jurídica, estudio de viabilidad económico-financiera, trámites administrativos, ayudas y subvenciones.
+f) Se han identificado las partes que componen el proyecto.
 
-g) Se han identificado las vías de asesoramiento y gestión administrativa externos existentes a la hora de poner en marcha una pyme.
+g) Se han previsto los recursos materiales y humanos para realizarlo.
 
-4. Realiza actividades de gestión administrativa y financiera de una pyme, identificando las principales obligaciones contables y fiscales y cumplimentando la documentación.
+h) Se ha realizado el presupuesto económico correspondiente.
 
-Criterios de evaluación:
+i) Se ha definido y elaborado la documentación para su diseño.
 
-a) Se han analizado los conceptos básicos de contabilidad, así como las técnicas de registro de la información contable.
+j) Se han identificado los aspectos relacionados con la calidad del proyecto.
 
-b) Se han descrito las técnicas básicas de análisis de la información contable, en especial en lo referente a la solvencia, liquidez y rentabilidad de la empresa.
+k) Se han presentado en público las ideas más relevantes de los proyectos propuestos.
 
-c) Se han definido las obligaciones fiscales de una explotación agroecológica.
-
-d) Se han diferenciado los tipos de impuestos en el calendario fiscal.
-
-e) Se ha cumplimentado la documentación básica de carácter comercial y contable (facturas, albaranes, notas de pedido, letras de cambio, cheques, etc.) para una pyme de producción agroecológica, y se han descrito los circuitos que dicha documentación recorre en la empresa.
-
-f) Se han identificado los principales instrumentos de financiación bancaria.
-
-g) Se ha incluido la anterior documentación en el plan de empresa.
-
-Duración: 35 horas.
-
-Contenidos básicos:
-
-Iniciativa emprendedora:
-
-− Innovación y desarrollo económico. Principales características de la innovación en la producción agroecológica (materiales, tecnología, organización de la producción, etc.).
-
-− Factores claves de los emprendedores: iniciativa, creatividad y formación.
-
-− La actuación de los emprendedores como empleados de una pyme relacionada con la producción agroecológica.
-
-− La actuación de los emprendedores como empresarios de una pequeña empresa en el sector de la producción agroecológica.
-
-− El empresario. Requisitos para el ejercicio de la actividad empresarial.
-
-− Plan de empresa: la idea de negocio en el ámbito de la producción agroecológica.
-
-La empresa y su entorno:
-
-− Funciones básicas de la empresa.
-
-− La empresa como sistema.
-
-− Análisis del entorno general de una pyme relacionada con la producción agroecológica.
-
-− Análisis del entorno específico de una pyme relacionada con la producción agroecológica.
-
-− Relaciones de una pyme de producción agroecológica con su entorno.
-
-− Relaciones de una pyme de producción agroecológica con el conjunto de la sociedad.
-
-Creación y puesta en marcha de una empresa:
-
-− Tipos de empresa.
-
-− La fiscalidad en las empresas.
-
-− Elección de la forma jurídica.
-
-− Trámites administrativos para la constitución de una empresa.
-
-− Viabilidad económica y viabilidad financiera de una pyme relacionada con la producción agroecológica.
-
-− Plan de empresa: elección de la forma jurídica, estudio de la viabilidad económica y financiera, trámites administrativos y gestión de ayudas y subvenciones.
-
-Función administrativa:
-
-− Concepto de contabilidad y nociones básicas.
-
-− Análisis de la información contable.
-
-− Obligaciones fiscales de las empresas.
-
-− Gestión administrativa de una explotación agroecológica.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para desarrollar la propia iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de responsabilidades y funciones en el empleo por cuenta ajena.
-
-La formación del módulo permite alcanzar los objetivos generales r), s), t), u), v) y w) del ciclo formativo, y las competencias r), s), t), u), v) y w) del título.
-
-Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-– El manejo de las fuentes de información sobre explotaciones agroecológicas, incluyendo el análisis de los procesos de innovación sectorial en marcha.
-
-– La realización de casos y dinámicas de grupo que permitan comprender y valorar las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector de los servicios relacionados con los procesos de la producción agroecológica.
-
-– La utilización de programas de gestión administrativa para PYMES del sector.
-
-– La realización de un proyecto de plan de empresa relacionada con la producción agroecológica y que incluya todas las facetas de puesta en marcha de un negocio, así como justificación de su responsabilidad social.
-
-Módulo Profesional: Formación en Centros de Trabajo.
-
-Código: 0416.
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Identifica la estructura y organización de la empresa agroecológica, relacionándolas con la producción y comercialización de los productos y servicios que ofrecen.
+3. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
 
 Criterios de evaluación:
 
-a) Se ha identificado la estructura organizativa de la empresa y las funciones de cada área de la misma.
+a) Se han temporizado las secuencias de las actividades.
 
-b) Se han identificado los elementos que constituyen la red logística de la empresa; proveedores, clientes, sistemas de producción, almacenaje y otros.
+b) Se han determinado los recursos y la logística de cada actividad.
 
-c) Se han identificado los procedimientos de trabajo en el desarrollo del proceso productivo.
+c) Se han identificado permisos y autorizaciones en caso de ser necesarios.
 
-d) Se han relacionado las competencias de los recursos humanos con el desarrollo de la actividad productiva.
+d) Se han identificado las actividades que implican riesgos en su ejecución.
 
-e) Se ha interpretado la importancia de cada elemento de la red en el desarrollo de la actividad de la empresa.
+e) Se ha tenido en cuenta el plan de prevención de riesgos y los medios y equipos necesarios.
 
-f) Se han relacionado características del mercado, tipo de clientes y proveedores y su posible influencia en el desarrollo de la actividad empresarial.
+f) Se han asignado recursos materiales y humanos a cada actividad.
 
-g) Se han identificado los canales de comercialización más frecuentes en esta actividad.
+g) Se han tenido en cuenta posibles imprevistos.
 
-h) Se han relacionado ventajas e inconvenientes de la estructura de la empresa, frente a otro tipo de organizaciones empresariales.
+h) Se han propuesto soluciones a los posibles imprevistos.
 
-2. Aplica hábitos éticos y laborales en el desarrollo de su actividad profesional de acuerdo con las características del puesto de trabajo y los procedimientos establecidos de la empresa.
+i) Se ha elaborado la documentación necesaria.
 
-Criterios de evaluación:
-
-a) Se han reconocido y justificado:
-
-– La disposición personal y temporal que necesita el puesto de trabajo.
-
-– Las actitudes personales (puntualidad y empatía, entre otras) y profesionales (orden, limpieza, seguridad necesarias para el puesto de trabajo, responsabilidad y otras)
-
-– Los requerimientos actitudinales ante la prevención de riesgos en la actividad profesional y las medidas de protección personal.
-
-– Los requerimientos actitudinales referidas a la calidad en la actividad profesional.
-
-– Las actitudes relacionales con el propio equipo de trabajo y con las jerárquicas establecidas en la empresa.
-
-– Las actitudes relacionadas con la documentación de las actividades realizadas en el ámbito laboral.
-
-– Las necesidades formativas para la inserción y reinserción laboral en el ámbito científico y técnico del buen hacer del profesional.
-
-b) Se han identificado las normas de prevención de riesgos laborales que hay que aplicar en actividad profesional y los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales.
-
-c) Se han aplicado los equipos de protección individual según los riesgos de la actividad profesional y las normas de la empresa.
-
-d) Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
-
-e) Se ha mantenido organizado, limpio y libre de obstáculos el puesto de trabajo o el área correspondiente al desarrollo de la actividad.
-
-f) Se han interpretado y cumplido las instrucciones recibidas, responsabilizándose del trabajo asignado.
-
-g) Se ha establecido una comunicación y relación eficaz con la persona responsable en cada situación y miembros de su equipo, manteniendo un trato fluido y correcto.
-
-h) Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente.
-
-i) Se ha valorado la importancia de su actividad y la adaptación a los cambios de tareas asignados en el desarrollo de los procesos productivos de la empresa, integrándose en las nuevas funciones.
-
-j) Se ha comprometido responsablemente en la aplicación de las normas y procedimientos en el desarrollo de cualquier actividad o tarea.
-
-3. Realiza operaciones de implantación de cultivos ecológicos, estableciendo las rotaciones, asociaciones y policultivos y utilizando los equipos y maquinaria de la explotación según instrucciones establecidas.
+4. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
 
 Criterios de evaluación:
 
-a) Se ha valorado el proceso de transformación de cultivo tradicional a ecológico.
+a) Se ha definido el procedimiento de seguimiento de las actividades.
 
-b) Se han interpretado las características edáficas y geológicas del terreno y las medidas tomadas para evitar la erosión y el sistema de drenaje establecido.
+b) Se ha verificado la calidad de los resultados de las actividades.
 
-c) Se ha valorado el diseño de rotaciones y el establecimiento de las asociaciones y policultivos de la explotación y su influencia en el equilibrio del agrosistema.
+c) Se han identificado posibles desviaciones de la planificación y/o los resultados esperados.
 
-d) Se han realizado las labores ecológicas de preparación del terreno y del sustrato de semilleros según cultivos.
+d) Se ha informado de las desviaciones en caso de ser necesario.
 
-e) Se ha realizado la siembra, plantación y trasplante del material vegetal ecológico.
+e) Se han solucionado las desviaciones y se han documentado las intervenciones.
 
-f) Se ha limpiado y mantenido la maquinaria, aperos, herramientas y equipos.
+f) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto en su conjunto.
 
-g) Se han cumplimentado las fichas de control de los trabajos realizados y medios empleados, según instrucciones recibidas.
-
-h) Se han valorado las medidas adoptadas por la empresa relativas a la producción ecológica.
-
-i) Se ha adoptado el plan de prevención de riesgos laborales en la implantación de cultivos ecológicos.
-
-4. Realiza operaciones de cultivo en sembrados y plantaciones ecológicas aplicando criterios de producción y de certificación ecológica.
+5. Transmite información con claridad, de manera ordenada y estructurada.
 
 Criterios de evaluación:
 
-a) Se han realizado operaciones de manejo del suelo de estabilización y optimización de agua.
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
 
-b) Se ha elaborado compost con los restos orgánicos de la explotación.
+a) Se ha transmitido información verbal tanto horizontal como verticalmente.
 
-c) Se han realizado operaciones de conservación o aumento de la fertilidad del suelo.
+b) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
 
-d) Se ha manejado el sistema de riego con criterios ecológicos.
+c) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
 
-e) Se han realizado operaciones culturales que favorezcan la sostenibilidad y sanidad del agrosistema.
-
-f) Se han cosechado los productos vegetales ecológicos.
-
-g) Se han almacenado los productos vegetales ecológicos.
-
-h) Se han comercializado los productos vegetales ecológicos.
-
-i) Se ha limpiado y mantenido la maquinaria, aperos, herramientas y equipos.
-
-j) Se han cumplimentado las fichas de control de los trabajos realizados y medios empleados, según instrucciones recibidas.
-
-k) Se han valorado las medidas adoptadas por la empresa relativas a la producción ecológica.
-
-l) Se ha adoptado el plan de prevención de riesgos laborales en las operaciones de cultivo en sembrados y plantaciones ecológicas.
-
-5. Efectúa operaciones de manejo sanitario del agrosistema identificando y utilizando las técnicas, métodos y equipos de agricultura ecológica.
-
-Criterios de evaluación:
-
-a) Se han realizado las operaciones para establecer y mantener infraestructuras ecológicas.
-
-b) Se han reconocido los distintos métodos de control físico, cultural y biológico de mantenimiento del equilibrio sanitario del agrosistema aplicados por la empresa.
-
-c) Se han colocado trampas y otras barreras físicas en los emplazamientos establecidos y realizado el mantenimiento según instrucciones recibidas.
-
-d) Se ha realizado la suelta de depredadores y parasitoides siguiendo instrucciones previas.
-
-e) Se ha realizado la preparación de extractos de plantas siguiendo instrucciones.
-
-f) Se ha manejado el ganado para el pastoreo de la vegetación espontánea de la explotación.
-
-g) Se han seleccionado los equipos necesarios para la aplicación de tratamientos fitosanitarios ecológicos.
-
-h) Se han preparado, dosificado y aplicado los tratamientos fitosanitarios ecológicos.
-
-i) Se han realizado las operaciones de limpieza de equipos y retirada de residuos después de los tratamientos siguiendo los procedimientos prescritos en la normativa vigente.
-
-j) Se han cumplimentado las fichas de control de los trabajos realizados y medios empleados, según instrucciones recibidas.
-
-k) Se han adoptado las medidas y procedimientos de producción ecológica y de prevención de riesgos laborales en la aplicación de tratamientos fitosanitarios ecológicos.
-
-6. Realiza el manejo ecológico del ganado aplicando procedimientos y técnicas de alimentación, producción, reproducción y sanidad preestablecidos.
-
-Criterios de evaluación:
-
-a) Se han identificado las normas y protocolos establecidos en la empresa para la adaptación del ganado al sistema de producción ecológica.
-
-b) Se han realizado operaciones de marcaje e identificación de las distintas especies siguiendo procedimientos de producción ecológica.
-
-c) Se han realizado las operaciones de aprovisionamiento y alimentación del ganado empleando los medios disponibles de la explotación, siguiendo instrucciones previas.
-
-d) Se ha manejado el pastoreo de los animales de la explotación siguiendo las instrucciones recibidas.
-
-e) Se ha controlado el proceso de reproducción de los animales y valorado el protocolo establecido de parto y puerperio.
-
-f) Se han realizado las operaciones de cría, recría y cebo de las distintas especies de ganadería según las instrucciones recibidas.
-
-g) Se ha realizado el ordeño siguiendo el protocolo establecido.
-
-h) Se han realizado las operaciones de manejo de colmenas y de obtención de productos apícolas.
-
-i) Se han identificado los métodos ecológicos de prevención y control sanitario de la explotación.
-
-j) Se han comercializado los productos ganaderos ecológicos.
-
-k) Se han adoptado las medidas y procedimientos de producción ecológica, sanidad, bienestar animal y prevención de riesgos laborales en el manejo del ganado.
-
-7. Monta y mantiene sistemas de forzado, infraestructuras e instalaciones agropecuarias, interpretando las instrucciones y documentación técnica.
-
-Criterios de evaluación:
-
-a) Se han descrito los sistemas de forzado, infraestructuras e instalaciones de la explotación.
-
-b) Se ha realizado el montaje de la instalación de riego según especificaciones técnicas.
-
-c) Se ha montado la estructura y cubierta de un sistema de protección según instrucciones recibidas.
-
-d) Se han utilizado los instrumentos de control ambiental de la instalación de forzado de acuerdo con las instrucciones o procedimientos establecidos.
-
-e) Se han controlado las condiciones ambientales de las instalaciones ganaderas siguiendo instrucciones.
-
-f) Se ha realizado la limpieza y desinfección de las instalaciones ganaderas según el protocolo de actuación.
-
-g) Se ha realizado el mantenimiento de primer nivel de los sistemas de forzado, infraestructuras e instalaciones agropecuarias según instrucciones y procedimientos establecidos.
-
-h) Se han adoptado las medidas y procedimientos de producción ecológica y de prevención de riesgos laborales en el montaje y mantenimiento de sistemas de forzado, infraestructuras e instalaciones agropecuarias.
-
-Duración: 220 horas.
-
-Este módulo profesional contribuye a completar las competencias y objetivos generales, propios de este título, que se han alcanzado en el centro educativo o a desarrollar competencias características difíciles de conseguir en el mismo.
+> Se modifica por el art. 7 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684

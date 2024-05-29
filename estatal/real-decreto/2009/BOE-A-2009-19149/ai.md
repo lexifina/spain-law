@@ -2716,598 +2716,128 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – Cumplimiento de las normas establecidas sobre utilización de productos químicos fitosanitarios, de seguridad alimentaria, ambiental y de prevención de riesgos laborales.
 
-## Módulo Profesional: Formación y orientación laboral. Código: 0480
+cidentadas y a sus acompañantes.
 
-Resultados de aprendizaje y Criterios de evaluación
+## 0156. Inglés Profesional (GM)
 
-1. Selecciona oportunidades de empleo, identificando las diferentes posibilidades de inserción y las alternativas de aprendizaje a lo largo de la vida.
+## 1709. Itinerario personal para la empleabilidad I
 
-Criterios de evaluación:
+## 1710. Itinerario personal para la empleabilidad II
 
-a) Se ha valorado la importancia de la formación permanente como factor clave para la empleabilidad y la adaptación a las exigencias del proceso productivo.
+## 1664. Digitalización aplicada a los sectores productivos (GM)
 
-b) Se han identificado los itinerarios formativo-profesionales relacionados con el perfil profesional del productor agropecuario.
+## 1708. Sostenibilidad aplicada al sistema productivo
 
-c) Se han determinado las aptitudes y actitudes requeridas para la actividad profesional relacionada con el perfil del título.
+> Téngase en cuenta que el código, duración del currículo básico, resultados de aprendizaje y criterios de evaluación de los módulos profesionales 0156, 1709, 1710,1664 y 1708, figuran como anexos IX, V, VI y VIII del Real Decreto 659/2023, de 18 de julio, según establece el art. 7 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684
 
-d) Se han identificado los principales yacimientos de empleo y de inserción laboral para el Técnico en Producción agropecuaria.
+## 1713. Proyecto intermodular
 
-e) Se han determinado las técnicas utilizadas en el proceso de búsqueda de empleo.
+## Currículo básico módulo de Proyecto intermodular de grado medio
 
-f) Se han previsto las alternativas de autoempleo en los sectores profesionales relacionados con el título.
-
-g) Se ha realizado la valoración de la personalidad, aspiraciones, actitudes y formación propia para la toma de decisiones.
-
-2. Aplica las estrategias del trabajo en equipo, valorando su eficacia y eficiencia para la consecución de los objetivos de la organización.
-
-Criterios de evaluación:
-
-a) Se han valorado las ventajas de trabajo en equipo en situaciones de trabajo relacionadas con el perfil del productor agropecuario.
-
-b) Se han identificado los equipos de trabajo que pueden constituirse en una situación real de trabajo.
-
-c) Se han determinado las características del equipo de trabajo eficaz frente a los equipos ineficaces.
-
-d) Se ha valorado positivamente la necesaria existencia de diversidad de roles y opiniones asumidos por los miembros de un equipo.
-
-e) Se ha reconocido la posible existencia de conflicto entre los miembros de un grupo como un aspecto característico de las organizaciones.
-
-f) Se han identificado los tipos de conflictos y sus fuentes.
-
-g) Se han determinado procedimientos para la resolución del conflicto.
-
-3. Ejerce los derechos y cumple las obligaciones que se derivan de las relaciones laborales, reconociéndolas en los diferentes contratos de trabajo.
-
-Criterios de evaluación:
-
-a) Se han identificado los conceptos básicos del derecho del trabajo.
-
-b) Se han distinguido los principales organismos que intervienen en las relaciones entre empresarios y trabajadores.
-
-c) Se han determinado los derechos y obligaciones derivados de la relación laboral.
-
-d) Se han clasificado las principales modalidades de contratación, identificando las medidas de fomento de la contratación para determinados colectivos.
-
-e) Se han valorado las medidas establecidas por la legislación vigente para la conciliación de la vida laboral y familiar.
-
-f) Se han identificado las causas y efectos de la modificación, suspensión y extinción de la relación laboral.
-
-g) Se ha analizado el recibo de salarios identificando los principales elementos que lo integran.
-
-h) Se han analizado las diferentes medidas de conflicto colectivo y los procedimientos de solución de conflictos.
-
-i) Se han determinado las condiciones de trabajo pactadas en un convenio colectivo aplicable a un sector profesional relacionado con el Título de Técnico en Producción agropecuaria.
-
-j) Se han identificado las características definitorias de los nuevos entornos de organización del trabajo.
-
-4. Determina la acción protectora del sistema de la Seguridad Social ante las distintas contingencias cubiertas, identificando las distintas clases de prestaciones.
-
-Criterios de evaluación:
-
-a) Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos.
-
-b) Se han enumerado las diversas contingencias que cubre el sistema de Seguridad Social.
-
-c) Se han identificado los regímenes existentes en el sistema de Seguridad Social.
-
-d) Se han identificado las obligaciones de empresario y trabajador dentro del sistema de Seguridad Social.
-
-e) Se han identificado las bases de cotización de un trabajador y las cuotas correspondientes a trabajador y empresario.
-
-f) Se han clasificado las prestaciones del sistema de Seguridad Social, identificando los requisitos.
-
-g) Se han determinado las posibles situaciones legales de desempleo.
-
-h) Se ha realizado el cálculo de la duración y cuantía de una prestación por desempleo de nivel contributivo básico.
-
-5. Evalúa los riesgos derivados de su actividad, analizando las condiciones de trabajo y los factores de riesgo presentes en su entorno laboral.
-
-Criterios de evaluación:
-
-a) Se ha valorado la importancia de la cultura preventiva en todos los ámbitos y actividades de la empresa.
-
-b) Se han relacionado las condiciones laborales con la salud del trabajador.
-
-c) Se han clasificado los factores de riesgo en la actividad y los daños derivados de los mismos.
-
-d) Se han identificado las situaciones de riesgo más habituales en los entornos de trabajo del Técnico en Producción Agropecuaria.
-
-e) Se ha determinado la evaluación de riesgos en la empresa.
-
-f) Se han determinado las condiciones de trabajo con significación para la prevención en los entornos de trabajo relacionados con el perfil profesional del Técnico en Producción Agropecuaria.
-
-g) Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a accidentes de trabajo y enfermedades profesionales, relacionados con el perfil profesional del Técnico en Producción Agropecuaria.
-
-6. Participa en la elaboración de un plan de prevención de riesgos en una pequeña explotación agropecuaria, identificando las responsabilidades de todos los agentes implicados.
-
-Criterios de evaluación:
-
-a) Se han determinado los principales derechos y deberes en materia de prevención de riesgos laborales.
-
-b) Se han clasificado las distintas formas de gestión de la prevención en la empresa, en función de los distintos criterios establecidos en la normativa sobre prevención de riesgos laborales.
-
-c) Se han determinado las formas de representación de los trabajadores en la empresa en materia de prevención de riesgos.
-
-d) Se han identificado los organismos públicos relacionados con la prevención de riesgos laborales.
-
-e) Se ha valorado la importancia de la existencia de un plan preventivo en la empresa que incluya la secuenciación de actuaciones que se deben realizar en caso de emergencia.
-
-f) Se ha definido el contenido del plan de prevención en un centro de trabajo relacionado con el sector profesional del Técnico en Producción Agropecuaria.
-
-g) Se ha proyectado un plan de emergencia y evacuación de una explotación agropecuaria.
-
-7. Aplica las medidas de prevención y protección, analizando las situaciones de riesgo en el entorno laboral del Técnico en Producción Agropecuaria.
-
-Criterios de evaluación:
-
-a) Se han definido las técnicas de prevención y de protección individual y colectiva que deben aplicarse para evitar los daños en su origen y minimizar sus consecuencias en caso de que sean inevitables.
-
-b) Se ha analizado el significado y alcance de los distintos tipos de señalización de seguridad.
-
-c) Se han analizado los protocolos de actuación en caso de emergencia.
-
-d) Se han identificado las técnicas de clasificación de heridos en caso de emergencia donde existan víctimas de diversa gravedad.
-
-e) Se han determinado los requisitos y condiciones para la vigilancia de la salud del trabajador y su importancia como medida de prevención.
+Módulo Profesional: Proyecto intermodular.
 
 Duración: 50 horas.
 
-Contenidos básicos
+Código: 1713.
 
-Búsqueda activa de empleo:
+Resultados de aprendizaje y criterios de evaluación.
 
-− Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del Técnico en Producción Agropecuaria.
-
-− Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
-
-− Identificación de itinerarios formativos relacionados con el Técnico en Producción Agropecuaria.
-
-− Definición y análisis del sector profesional del Técnico en Producción Agropecuaria.
-
-− Proceso de búsqueda de empleo en empresas del sector.
-
-− Oportunidades de aprendizaje y empleo en Europa.
-
-− Técnicas e instrumentos de búsqueda de empleo.
-
-− El proceso de toma de decisiones.
-
-Gestión del conflicto y equipos de trabajo:
-
-− Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia de la organización.
-
-− Equipos en el sector de la producción agropecuaria según las funciones que desempeñan.
-
-− La participación en el equipo de trabajo.
-
-− Conflicto: características, fuentes y etapas.
-
-− Métodos para la resolución o supresión del conflicto.
-
-Contrato de trabajo:
-
-− El derecho del trabajo.
-
-− Análisis de la relación laboral individual.
-
-− Modalidades de contrato de trabajo y medidas de fomento de la contratación.
-
-− Derechos y deberes derivados de la relación laboral.
-
-− Modificación, suspensión y extinción del contrato de trabajo.
-
-− Representación de los trabajadores.
-
-− Análisis de un convenio colectivo aplicable al ámbito profesional del Técnico en Producción agropecuaria.
-
-− Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y beneficios sociales, entre otros.
-
-Seguridad Social, Empleo y Desempleo:
-
-− Estructura del Sistema de la Seguridad Social.
-
-− Determinación de las principales obligaciones de empresarios y trabajadores en materias de Seguridad Social, afiliación, altas, bajas y cotización.
-
-− Situaciones protegibles en la protección por desempleo.
-
-Evaluación de riesgos profesionales:
-
-− Valoración de la relación entre trabajo y salud.
-
-− Análisis de factores de riesgo.
-
-− La evaluación de riesgos en la empresa como elemento básico de la actividad preventiva.
-
-− Análisis de riesgos ligados a las condiciones de seguridad.
-
-− Análisis de riesgos ligados a las condiciones ambientales.
-
-− Análisis de riesgos ligados a las condiciones ergonómicas y psico-sociales.
-
-− Riesgos específicos en el sector de la producción agropecuaria.
-
-− Determinación de los posibles daños a la salud del trabajador que pueden derivarse de las situaciones de riesgo detectadas.
-
-Planificación de la prevención de riesgos en la empresa:
-
-− Derechos y deberes en materia de prevención de riesgos laborales.
-
-− Gestión de la prevención en la empresa.
-
-− Organismos públicos relacionados con la prevención de riesgos laborales.
-
-− Planificación de la prevención en la empresa.
-
-− Planes de emergencia y de evacuación en entornos de trabajo.
-
-− Elaboración de un plan de emergencia en una explotación agropecuaria.
-
-Aplicación de medidas de prevención y protección en la empresa:
-
-− Determinación de las medidas de prevención y protección individual y colectiva.
-
-− Protocolo de actuación ante una situación de emergencia.
-
-− Primeros auxilios.
-
-Orientaciones pedagógicas
-
-Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector de la producción agropecuaria.
-
-La formación del módulo permite alcanzar los objetivos generales n), ñ), o), p), q) y r) del ciclo formativo, y las competencias profesionales, personales y sociales n), ñ), o), p), q) y r) del título.
-
-Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-– El manejo de las fuentes de información sobre el sistema educativo y laboral, en especial en lo referente a las empresas del sector de la producción agropecuaria.
-
-– La realización de pruebas de orientación y dinámicas sobre la propia personalidad y el desarrollo de las habilidades sociales.
-
-– La preparación y realización de currículos (CV), y entrevistas de trabajo.
-
-– Identificación de la normativa laboral que afecta a los trabajadores del sector, manejo de los contratos más comúnmente utilizados, lectura comprensiva de los convenios colectivos de aplicación.
-
-– La cumplimentación de recibos de salario de diferentes características y otros documentos relacionados.
-
-– El análisis de la ley de Prevención de Riesgos Laborales, que le permita la evaluación de los riesgos derivados de las actividades desarrolladas en su sector productivo, y colaborar en la definición de un plan de prevención para una pequeña empresa, así como las medidas necesarias para su implementación.
-
-## Módulo Profesional: Empresa e Iniciativa Emprendedora. Código: 0481
-
-Resultados de aprendizaje y Criterios de evaluación
-
-1. Reconoce las capacidades asociadas a la iniciativa emprendedora, analizando los requerimientos derivados de los puestos de trabajo y de las actividades empresariales.
+1. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
 
 Criterios de evaluación:
 
-− Se ha identificado el concepto de innovación y su relación con el progreso de la sociedad y el aumento en el bienestar de los individuos.
+a) Se han identificado las empresas tipo más representativas del sector.
 
-− Se ha analizado el concepto de cultura emprendedora y su importancia como fuente de creación de empleo y bienestar social.
+b) Se ha descrito la estructura organizativa de las empresas.
 
-− Se ha valorado la importancia de la iniciativa individual, la creatividad, la formación y la colaboración como requisitos indispensables para tener éxito en la actividad emprendedora.
+c) Se han caracterizado los principales departamentos.
 
-− Se ha analizado la capacidad de iniciativa en el trabajo de una persona empleada en una pequeña y mediana explotación agropecuaria.
+d) Se han determinado las funciones de cada departamento.
 
-− Se ha analizado el desarrollo de la actividad emprendedora de un empresario que se inicie en el sector de la producción agropecuaria.
+e) Se ha evaluado el volumen de negocio de acuerdo a las necesidades de los clientes.
 
-− Se ha analizado el concepto de riesgo como elemento inevitable de toda actividad emprendedora.
+f) Se ha definido la estrategia para dar respuesta a las demandas.
 
-− Se ha analizado el concepto de empresario y los requisitos y actitudes necesarios para desarrollar la actividad empresarial.
+g) Se han valorado los recursos humanos y materiales necesarios.
 
-− Se ha descrito la estrategia empresarial relacionándola con los objetivos de la empresa.
+h) Se ha realizado el seguimiento de los resultados de acuerdo a la estrategia aplicada.
 
-− Se ha definido una determinada idea de negocio del ámbito de la producción agropecuaria que servirá de punto de partida para la elaboración de un plan de empresa.
+i) Se han relacionado los productos o servicios con su posible contribución a los ODS (Objetivos de Desarrollo Sostenible).
 
-2. Define la oportunidad de creación de una pequeña empresa, valorando el impacto sobre el entorno de actuación e incorporando valores éticos.
-
-Criterios de evaluación:
-
-a) Se han descrito las funciones básicas que se realizan en una empresa y se ha analizado el concepto de sistema aplicado a la empresa.
-
-b) Se han identificado los principales componentes del entorno general que rodea a la empresa, en especial el entorno económico, social, demográfico y cultural.
-
-c) Se ha analizado la influencia en la actividad empresarial de las relaciones con los clientes, con los proveedores y con la competencia, como principales integrantes del entorno específico.
-
-d) Se han identificado los elementos del entorno de una pequeña y mediana explotación agropecuaria.
-
-e) Se han analizado los conceptos de cultura empresarial e imagen corporativa, y su relación con los objetivos empresariales.
-
-f) Se ha analizado el fenómeno de la responsabilidad social de las empresas y su importancia como un elemento de la estrategia empresarial.
-
-g) Se ha elaborado el balance social de una explotación agropecuaria, y se han descrito los principales costes sociales en que incurren estas empresas, así como los beneficios sociales que producen.
-
-h) Se han identificado, en explotaciones agropecuarias, prácticas que incorporan valores éticos y sociales.
-
-i) Se ha llevado a cabo un estudio de viabilidad económica y financiera de una pequeña y mediana explotación agropecuaria.
-
-3. Realiza actividades para la constitución y puesta en marcha de una empresa, seleccionando la forma jurídica e identificando las obligaciones legales asociadas.
+2. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
 
 Criterios de evaluación:
 
-a) Se han analizado las diferentes formas jurídicas de la empresa.
+a) Se han identificado las necesidades.
 
-b) Se ha especificado el grado de responsabilidad legal de los propietarios de la empresa, en función de la forma jurídica elegida.
+b) Se han planteado en grupo posibles soluciones.
 
-c) Se ha diferenciado el tratamiento fiscal establecido para las diferentes formas jurídicas de la empresa.
+c) Se ha obtenido la información relativa a las soluciones planteadas.
 
-d) Se han analizado los trámites exigidos por la legislación vigente para la constitución de una empresa.
+d) Se han identificado aspectos innovadores que puedan ser de aplicación.
 
-e) Se ha realizado una búsqueda exhaustiva de las diferentes ayudas para la creación de explotaciones agropecuaria en la localidad de referencia.
+e) Se ha realizado el estudio de viabilidad técnica.
 
-f) Se ha incluido en el plan de empresa todo lo relativo a la elección de la forma jurídica, estudio de viabilidad económico-financiera, trámites administrativos, ayudas y subvenciones.
+f) Se han identificado las partes que componen el proyecto.
 
-g) Se han identificado las vías de asesoramiento y gestión administrativa externos existentes a la hora de poner en marcha una pyme.
+g) Se han previsto los recursos materiales y humanos para realizarlo.
 
-4. Realiza actividades de gestión administrativa y financiera de una PYME, identificando las principales obligaciones contables y fiscales y cumplimentando la documentación.
+h) Se ha realizado el presupuesto económico correspondiente.
 
-Criterios de evaluación:
+i) Se ha definido y elaborado la documentación para su diseño.
 
-a) Se han analizado los conceptos básicos de contabilidad, así como las técnicas de registro de la información contable.
+j) Se han identificado los aspectos relacionados con la calidad del proyecto.
 
-b) Se han descrito las técnicas básicas de análisis de la información contable, en especial en lo referente a la solvencia, liquidez y rentabilidad de la empresa.
+k) Se han presentado en público las ideas más relevantes de los proyectos propuestos.
 
-c) Se han definido las obligaciones fiscales de una explotación agropecuaria.
-
-d) Se han diferenciado los tipos de impuestos en el calendario fiscal.
-
-e) Se ha cumplimentado la documentación básica de carácter comercial y contable (facturas, albaranes, notas de pedido, letras de cambio, cheques, etc.) para una pequeña y mediana explotación agropecuaria, y se han descrito los circuitos que dicha documentación recorre en la empresa.
-
-f) Se han identificado los principales instrumentos de financiación bancaria.
-
-g) Se ha incluido la anterior documentación en el plan de empresa.
-
-Duración: 35 horas.
-
-Contenidos básicos
-
-Iniciativa emprendedora:
-
-− Innovación y desarrollo económico. Principales características de la innovación en la producción agropecuaria (materiales, tecnología, organización de la producción, etc.).
-
-− Factores claves de los emprendedores: iniciativa, creatividad y formación.
-
-− La actuación de los emprendedores como empleados de una pequeña y mediana explotación agropecuaria.
-
-− La actuación de los emprendedores como empresarios de una pequeña explotación agropecuaria.
-
-− El empresario. Requisitos para el ejercicio de la actividad empresarial.
-
-− Plan de empresa: la idea de negocio en el ámbito de la producción agropecuaria.
-
-La empresa y su entorno:
-
-− Funciones básicas de la empresa.
-
-− La empresa como sistema.
-
-− Análisis del entorno general de una pequeña y mediana explotación agropecuaria.
-
-− Análisis del entorno específico de una pequeña y mediana explotación agropecuaria.
-
-− Relaciones de una pequeña y mediana explotación agropecuaria con su entorno.
-
-− Relaciones de una pequeña y mediana explotación agropecuaria con el conjunto de la sociedad.
-
-Creación y puesta en marcha de una empresa:
-
-− Tipos de empresa.
-
-− La fiscalidad en las empresas.
-
-− Elección de la forma jurídica.
-
-− Trámites administrativos para la constitución de una empresa.
-
-− Viabilidad económica y viabilidad financiera de una pequeña y mediana explotación agropecuaria.
-
-− Plan de empresa: elección de la forma jurídica, estudio de la viabilidad económica y financiera, trámites administrativos y gestión de ayudas y subvenciones.
-
-Función administrativa:
-
-− Concepto de contabilidad y nociones básicas.
-
-− Análisis de la información contable.
-
-− Obligaciones fiscales de las empresas.
-
-− Gestión administrativa de una explotación agropecuaria.
-
-Orientaciones pedagógicas
-
-Este módulo profesional contiene la formación necesaria para desarrollar la propia iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de responsabilidades y funciones en el empleo por cuenta ajena.
-
-La formación del módulo permite alcanzar los objetivos generales n), ñ), o), p), q) y r) del ciclo formativo, y las competencias profesionales, personales y sociales n), ñ), o), p), q) y r) del título.
-
-Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-El manejo de las fuentes de información sobre explotaciones agropecuarias, incluyendo el análisis de los procesos de innovación sectorial en marcha.
-
-– La realización de casos y dinámicas de grupo que permitan comprender y valorar las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector de los servicios relacionados con los procesos de la producción agropecuaria.
-
-– La utilización de programas de gestión administrativa para PYMES del sector.
-
-– La realización de un proyecto de plan de empresa relacionada con la producción agropecuaria y que incluya todas las facetas de puesta en marcha de un negocio, así como justificación de su responsabilidad social.
-
-## Módulo Profesional: Formación en Centros de Trabajo. Código: 0482
-
-Resultados de aprendizaje y criterios de evaluación
-
-1. Identifica la estructura y organización de la empresa agraria, relacionándolas con la producción y comercialización de los productos y servicios que obtiene.
+3. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
 
 Criterios de evaluación:
 
-a) Se han identificado la estructura organizativa de la empresa y las funciones de cada área de la misma.
+a) Se han temporizado las secuencias de las actividades.
 
-b) Se ha comparado la estructura de la empresa con las organizaciones empresariales tipo existentes en el sector.
+b) Se han determinado los recursos y la logística de cada actividad.
 
-c) Se han identificado los elementos que constituyen la red logística de la empresa: proveedores, clientes, sistemas de producción, almacenaje, entre otros.
+c) Se han identificado permisos y autorizaciones en caso de ser necesarios.
 
-d) Se han identificado los procedimientos de trabajo en el desarrollo de la prestación de servicio.
+d) Se han identificado las actividades que implican riesgos en su ejecución.
 
-e) Se han valorado las competencias necesarias de los recursos humanos para el desarrollo óptimo de la actividad.
+e) Se ha tenido en cuenta el plan de prevención de riesgos y los medios y equipos necesarios.
 
-f) Se ha valorado la idoneidad de los canales de difusión más frecuentes en esta actividad.
+f) Se han asignado recursos materiales y humanos a cada actividad.
 
-2. Aplica hábitos éticos y laborales en el desarrollo de su actividad profesional de acuerdo con las características del puesto de trabajo y los procedimientos establecidos de la empresa.
+g) Se han tenido en cuenta posibles imprevistos.
 
-Criterios de evaluación:
+h) Se han propuesto soluciones a los posibles imprevistos.
 
-a) Se han reconocido y justificado:
+i) Se ha elaborado la documentación necesaria.
 
-– La disposición personal y temporal que necesita el puesto de trabajo.
-
-– Las actitudes personales (puntualidad y empatía, entre otras) y profesionales (orden, limpieza, seguridad necesarias para el puesto de trabajo, responsabilidad y otras).
-
-– Los requerimientos actitudinales ante la prevención de riesgos en la actividad profesional y las medidas de protección personal.
-
-– Los requerimientos actitudinales referidas a la calidad en la actividad profesional.
-
-– Las actitudes relacionales con el propio equipo de trabajo y con las jerarquías establecidas en la empresa.
-
-– Las actitudes relacionadas con la documentación de las actividades realizadas en el ámbito laboral.
-
-– Las necesidades formativas para la inserción y reinserción laboral en el ámbito científico y técnico del buen hacer del profesional.
-
-b) Se han identificado las normas de prevención de riesgos laborales que hay que aplicar en actividad profesional y los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales.
-
-c) Se han aplicado los equipos de protección individual según los riesgos de la actividad profesional y las normas de la empresa.
-
-d) Se ha mantenido una actitud clara de respeto al medio ambiente en las actividades desarrolladas y aplicado las normas internas y externas vinculadas a la misma.
-
-e) Se ha mantenido organizado, limpio y libre de obstáculos el puesto de trabajo o el área correspondiente al desarrollo de la actividad.
-
-f) Se han interpretado y cumplido las instrucciones recibidas, responsabilizándose del trabajo asignado.
-
-g) Se ha establecido una comunicación y relación eficaz con la persona responsable en cada situación y miembros de su equipo, manteniendo un trato fluido y correcto.
-
-h) Se ha coordinado con el resto del equipo, informando de cualquier cambio, necesidad relevante o imprevisto que se presente.
-
-i) Se ha valorado la importancia de su actividad y la adaptación a los cambios de tareas asignados en el desarrollo de los procesos productivos de la empresa, integrándose en las nuevas funciones.
-
-j) Se ha comprometido responsablemente en la aplicación de las normas y procedimientos en el desarrollo de cualquier actividad o tarea.
-
-3. Realiza operaciones de implantación de cultivos, preparando el terreno y utilizando los equipos y maquinaria de la explotación según instrucciones establecidas.
+4. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
 
 Criterios de evaluación:
 
-a) Se ha valorado el sistema de rotación de cultivos programados.
+a) Se ha definido el procedimiento de seguimiento de las actividades.
 
-b) Se ha seleccionado la maquinaria, aperos, herramientas y equipos disponibles en la explotación para realizar las labores de implantación de cultivos.
+b) Se ha verificado la calidad de los resultados de las actividades.
 
-c) Se han regulado los medios mecánicos para realizar las operaciones de implantación.
+c) Se han identificado posibles desviaciones de la planificación y/o los resultados esperados.
 
-d) Se ha preparado el terreno utilizando los medios disponibles.
+d) Se ha informado de las desviaciones en caso de ser necesario.
 
-e) Se han realizado las operaciones de siembra, trasplante o plantación.
+e) Se han solucionado las desviaciones y se han documentado las intervenciones.
 
-f) Se ha realizado la limpieza y el mantenimiento de primer nivel de la maquinaria, aperos, herramientas y equipos utilizados en la implantación de cultivos.
+f) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto en su conjunto.
 
-g) Se ha seguido el protocolo de control de los trabajos realizados y los medios empleados.
-
-h) Se ha seguido la normativa ambiental y el plan de prevención de riesgos laborales en las operaciones de implantación de cultivos.
-
-4. Realiza las operaciones de producción de cultivos, identificando las técnicas y utilizando los recursos e instalaciones disponibles.
+5. Transmite información con claridad, de manera ordenada y estructurada.
 
 Criterios de evaluación:
 
-a) Se han recabado los datos históricos de la finca necesarios para valorar la fertilidad del suelo.
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
 
-b) Se ha seleccionado la maquinaria, aperos, herramientas y equipos disponibles en la explotación para realizar las labores de producción de cultivos.
+a) Se ha transmitido información verbal tanto horizontal como verticalmente.
 
-c) Se han regulado los medios mecánicos para realizar las operaciones de producción.
+b) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
 
-d) Se han aplicado los fertilizantes en las dosis calculadas.
+c) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
 
-e) Se han realizado las operaciones de programación del sistema de riego y su puesta en funcionamiento.
-
-f) Se han realizado los riegos ajustando las dosis y la frecuencia a las necesidades del cultivo.
-
-g) Se han realizado las labores culturales en la planta y en el suelo.
-
-h) Se ha determinado el momento de la recolección a través de las diferentes técnicas existentes.
-
-i) Se han realizado las labores de cosecha, transporte, envasado y almacenamiento de los productos agrícolas en la explotación.
-
-j) Se ha realizado la limpieza y el mantenimiento de primer nivel de la maquinaria, aperos, herramientas y equipos utilizados en la producción de cultivos.
-
-k) Se ha seguido el protocolo de control de los trabajos realizados y los medios empleados.
-
-l) Se ha seguido la normativa ambiental y el plan de prevención de riesgos laborales en las operaciones de producción de cultivos.
-
-5. Aplica técnicas de control fitosanitario, utilizando métodos y equipos de acuerdo a los protocolos establecidos.
-
-Criterios de evaluación:
-
-a) Se han identificado los problemas sanitarios de los cultivos.
-
-b) Se han valorado los métodos aplicados por la empresa para controlar los problemas fitosanitarios.
-
-c) Se han transportado y almacenado los productos fitosanitarios en la explotación.
-
-d) Se ha seleccionado la maquinaria, útiles, herramientas y equipos disponibles en la explotación para aplicar las técnicas de control fitosanitario.
-
-e) Se han regulado los medios mecánicos para aplicar las técnicas de control fitosanitario.
-
-f) Se han preparado, dosificado y aplicado los productos fitosanitarios siguiendo los protocolos establecidos.
-
-g) Se han utilizado los medios físicos, biológicos y biotécnicos para el control fitosanitario.
-
-h) Se ha realizado la limpieza, retirada de residuos y mantenimiento de primer nivel de la maquinaria, útiles, herramientas y equipos de control fitosanitario.
-
-i) Se ha seguido el protocolo de control de los trabajos realizados y los medios empleados.
-
-j) Se ha seguido la normativa ambiental y el plan de prevención de riesgos laborales en las operaciones de control fitosanitario.
-
-6. Realiza el manejo del ganado, aplicando procedimientos y técnicas de alimentación, producción, reproducción y sanidad siguiendo instrucciones.
-
-Criterios de evaluación:
-
-a) Se han realizado operaciones de marcaje e identificación de las distintas especies con las técnicas requeridas.
-
-b) Se han realizado las operaciones de aprovisionamiento y de alimentación del ganado empleando los medios disponibles de la explotación.
-
-c) Se ha manejado el pastoreo de los animales de la explotación.
-
-d) Se ha detectado el celo de los animales.
-
-e) Se han preparado las dosis y se han realizado las inseminaciones.
-
-f) Se ha seguido el protocolo establecido para el control de la gestación y las actuaciones en el parto y puerperio.
-
-g) Se han realizado las operaciones de cría, recría y cebo de las distintas especies ganaderas de la explotación.
-
-h) Se ha realizado el ordeño siguiendo el protocolo establecido.
-
-i) Se han realizado las operaciones de manejo de las colmenas y de obtención de productos apícolas.
-
-j) Se han valorado los métodos de prevención y control sanitario de la explotación.
-
-k) Se ha realizado la limpieza y mantenimiento de primer nivel de la maquinaria, útiles, herramientas y equipos utilizados en el manejo del ganado.
-
-l) Se ha seguido el protocolo de control de los trabajos realizados y los medios empleados.
-
-m) Se ha seguido la normativa ambiental, de sanidad, bienestar animal y el plan de prevención de riesgos laborales en las operaciones de manejo del ganado.
-
-7. Monta y mantiene sistemas de forzado, infraestructuras e instalaciones agropecuarias, interpretando las instrucciones y documentación técnica.
-
-Criterios de evaluación:
-
-a) Se han valorado los sistemas de forzado, infraestructuras e instalaciones de la explotación.
-
-b) Se ha realizado el montaje de la instalación de riego, preparando y manejando los componentes y accesorios según especificaciones técnicas.
-
-c) Se ha montado la estructura y cubierta de un sistema de protección según instrucciones recibidas.
-
-d) Se han utilizado los instrumentos de control ambiental de la instalación de forzado de acuerdo con las instrucciones o procedimientos establecidos y las necesidades de los cultivos.
-
-e) Se han controlado las condiciones ambientales de las instalaciones ganaderas siguiendo instrucciones.
-
-f) Se ha realizado el mantenimiento, limpieza y desinfección de las instalaciones ganaderas.
-
-g) Se ha seguido el protocolo de control de los trabajos realizados y los medios empleados.
-
-h) Se ha realizado el mantenimiento de los sistemas de forzado, infraestructuras e instalaciones agrícolas según instrucciones y procedimientos establecidos.
-
-i) Se ha seguido la normativa ambiental, de bienestar animal y el plan de prevención de riesgos laborales en el montaje y mantenimiento de sistemas de forzado, infraestructuras e instalaciones agropecuarias.
-
-Duración: 220 horas.
-
-Este módulo profesional contribuye a completar las competencias y objetivos generales, propios de este título, que se han alcanzado en el centro educativo o a desarrollar competencias características difíciles de conseguir en el mismo.
+> Se modifica por el art. 7 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684
