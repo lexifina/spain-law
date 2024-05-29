@@ -14,6 +14,8 @@ e) Técnico Especialista en Viticultura y Enotecnia, rama Agraria.
 
 2. El título de Técnico Superior en Industria Alimentaria, establecido por el Real Decreto 2050/1995, de 22 de diciembre, tendrá los mismos efectos profesionales y académicos que el título de Técnico Superior en Procesos y Calidad en la Industria Alimentaria establecido en el presente real decreto.
 
-3. La formación establecida en este real decreto en el módulo profesional de Formación y orientación laboral capacita para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, siempre que tenga, al menos, 45 horas lectivas.
+3. La formación establecida en este real decreto en el módulo profesional de Itinerario personal para la empleabilidad I capacita para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de nivel básico en prevención de riesgos laborales, establecidas en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, siempre que tenga, al menos, 45 horas lectivas.
 
 4. La formación establecida en el presente real decreto en el módulo profesional de Nutrición y Seguridad Alimentaria garantiza el nivel de conocimiento necesario para posibilitar unas prácticas correctas de higiene y manipulación de alimentos de acuerdo con la exigencia del artículo 4.6 del Real Decreto 202/2000, de 11 de febrero, por el que se establecen las normas relativas a los manipuladores de alimentos.
+
+> Se modifica la referencia al módulo profesional de Formación y orientación laboral por el módulo de Itinerario personal para la empleabilidad I, según establece la disposición adicional 3 del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685

@@ -2,11 +2,11 @@
 
 ## Módulos Profesionales
 
-Módulo profesional: Botánica agronómica.
+## Módulo profesional: Botánica agronómica.
 
-Equivalencia en créditos ECTS: 6.
+## Equivalencia en créditos ECTS: 6.
 
-Código: 0690.
+## Código: 0690.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -284,13 +284,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de protección ambiental.
 
-El módulo profesional 0692. Fitopatología queda redactado como sigue:
+## Módulo profesional: Fitopatología.
 
-Módulo profesional: Fitopatología.
+## Equivalencia en créditos ECTS: 7.
 
-Equivalencia en créditos ECTS: 7.
-
-Código: 0692.
+## Código: 0692.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -624,13 +622,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y medioambientales.
 
-El módulo profesional 0693. Topografía agraria queda redactado como sigue:
+## Módulo profesional: Topografía agraria.
 
-Módulo profesional: Topografía agraria.
+## Equivalencia en créditos ECTS: 6.
 
-Equivalencia en créditos ECTS: 6.
-
-Código: 0693.
+## Código: 0693.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -868,13 +864,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 − Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
 
-El módulo profesional 0694. Maquinaria e instalaciones agroforestales queda redactado como sigue:
+## Módulo profesional: Maquinaria e instalaciones agroforestales.
 
-Módulo profesional: Maquinaria e instalaciones agroforestales.
+## Equivalencia en créditos ECTS: 12.
 
-Equivalencia en créditos ECTS: 12.
-
-Código: 0694.
+## Código: 0694.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -1304,13 +1298,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Cumplimiento de la normativa ambiental y de prevención de riesgos laborales.
 
-El módulo profesional 0790. Técnicas de educación ambiental queda redactado como sigue:
+## Módulo profesional: Técnicas de educación ambiental.
 
-Módulo profesional: Técnicas de educación ambiental.
+## Equivalencia en créditos ECTS: 6.
 
-Equivalencia en créditos ECTS: 6.
-
-Código: 0790.
+## Código: 0790.
 
 Resultados de aprendizaje y criterios de evaluación:
 
@@ -1526,13 +1518,11 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – La interpretación del medio a través del diseño de recursos y actividades sobre lugares de interés medioambiental.
 
-El módulo profesional 0810. Gestión de los aprovechamientos del medio forestal queda redactado como sigue:
+## Módulo profesional: Gestión de los aprovechamientos del medio forestal.
 
-Módulo profesional: Gestión de los aprovechamientos del medio forestal.
+## Equivalencia en créditos ECTS: 8.
 
-Equivalencia en créditos ECTS: 8.
-
-Código: 0810.
+## Código: 0810.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -1824,13 +1814,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La interpretación de la legislación forestal.
 
-El módulo profesional 0811. Gestión y organización del vivero forestal queda redactado como sigue:
+## Módulo profesional: Gestión y organización del vivero forestal.
 
-Módulo profesional: Gestión y organización del vivero forestal.
+## Equivalencia en créditos ECTS: 7.
 
-Equivalencia en créditos ECTS: 7.
-
-Código: 0811.
+## Código: 0811.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -2096,13 +2084,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – El cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
 
-El módulo profesional 0812. Gestión cinegética queda redactado como sigue:
+## Módulo profesional: Gestión cinegética.
 
-Módulo profesional: Gestión cinegética.
+## Equivalencia en créditos ECTS: 5.
 
-Equivalencia en créditos ECTS: 5.
-
-Código: 0812.
+## Código: 0812.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -2382,13 +2368,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La selección y manejo de equipos, máquinas, útiles y herramientas utilizados en la planificación y organización de un espacio cinegético.
 
-El módulo profesional 0813. Gestión de la pesca continental queda redactado como sigue:
+## Módulo profesional: Gestión de la pesca continental.
 
-Módulo profesional: Gestión de la pesca continental.
+## Equivalencia en créditos ECTS: 5.
 
-Equivalencia en créditos ECTS: 5.
-
-Código: 0813.
+## Código: 0813.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -2680,13 +2664,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Los trabajos de supervisión del funcionamiento de una piscifactoría y una astacifactoría.
 
-El módulo profesional 0814.Gestión de montes queda redactado como sigue:
+## Módulo profesional: Gestión de montes.
 
-Módulo profesional: Gestión de montes.
+## Equivalencia en créditos ECTS: 10.
 
-Equivalencia en créditos ECTS: 10.
-
-Código: 0814.
+## Código: 0814.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -3022,13 +3004,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La selección y manejo de equipos, máquinas, útiles y herramientas utilizados en la planificación y organización de trabajos de selvicultura, de reforestación y forestación y de restauración hidrológico forestal.
 
-El módulo profesional 0815.Gestión de la conservación del medio natural queda redactado como sigue:
+## Módulo profesional: Gestión de la conservación del medio natural.
 
-Módulo profesional: Gestión de la conservación del medio natural.
+## Equivalencia en créditos ECTS: 7.
 
-Equivalencia en créditos ECTS: 7.
-
-Código: 0815.
+## Código: 0815.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -3268,13 +3248,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – Cumplimiento de las normas ambientales, de montes, de bienestar animal, de construcciones en el medio natural, de contaminación en el medio natural, de patrimonio y de riesgos laborales.
 
-El módulo profesional 0816.Defensa contra incendios forestales queda redactado como sigue:
+## Módulo profesional: Defensa contra incendios forestales.
 
-Módulo profesional: Defensa contra incendios forestales.
+## Equivalencia en créditos ECTS: 5.
 
-Equivalencia en créditos ECTS: 5.
-
-Código: 0816.
+## Código: 0816.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -3548,11 +3526,11 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 
 – La prevención de riesgos laborales en los trabajos de prevención, vigilancia, detección, control y extinción de incendios forestales.
 
-Módulo Profesional: Proyecto de gestión forestal y conservación del medio.
+## Módulo Profesional: Proyecto intermodular de gestión forestal y conservación del medio.
 
-Equivalencia en créditos ECTS: 5.
+## Equivalencia en créditos ECTS: 5.
 
-Código: 0817.
+## Código: 0817.
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -3663,6 +3641,32 @@ Las líneas de actuación en el proceso de enseñanza–aprendizaje que permiten
 − La autonomía y la iniciativa personal.
 
 − El uso de las Tecnologías de la Información y de la Comunicación.
+
+## Módulo Profesional: Inglés Profesional (GS)
+
+Código: 0179
+
+## Módulo Profesional: Itinerario personal para la empleabilidad I
+
+Código: 1709
+
+## Módulo Profesional: Itinerario personal para la empleabilidad II
+
+Código: 1710
+
+## Módulo Profesional: Digitalización aplicada a los sectores productivos (GS)
+
+Código: 1665
+
+## Módulo Profesional: Sostenibilidad aplicada al sistema productivo
+
+Código: 1708
+
+> Téngase en cuenta que el código, duración del currículo básico, equivalencia en créditos ECTS, resultados de aprendizaje y criterios de evaluación del módulo profesional 0179 figura como anexo X del Real Decreto 659/2023, de 18 de julio, el de los módulos 1709 y 1710 figuran como anexo V, el del módulo 1665 figura como anexo VII y el del módulo 1708 figura como anexo VIII del mismo Real Decreto, según establece el art. 7.1.b) del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685
+
+> Se modifica por el art. 7.1 del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685
+
+> Téngase en cuenta la disposición adicional 1, respecto a las horas del currículo básico para las comunidades autónomas con lengua cooficial, y la disposición adicional 2, que adapta el número de créditos ECTS de acuerdo con la tabla que figura como anexo XCI del citado Real Decreto.
 
 > Se modifica por el art. 2.7 del Real Decreto 403/2023, de 29 de mayo. Ref. BOE-A-2023-13219
 

@@ -2,11 +2,11 @@
 
 ## Módulos Profesionales
 
-Módulo Profesional: Maniobra y estiba.
+## Módulo Profesional: Maniobra y estiba.
 
-Equivalencia en créditos ECTS: 13
+## Equivalencia en créditos ECTS: 13
 
-Código: 0798
+## Código: 0798
 
 Resultados de aprendizaje y criterios de evaluación:
 
@@ -628,11 +628,11 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – El fomento del trabajo en equipo.
 
-Módulo Profesional: Navegación, gobierno y comunicaciones del buque.
+## Módulo Profesional: Navegación, gobierno y comunicaciones del buque.
 
-Equivalencia en créditos ECTS: 14
+## Equivalencia en créditos ECTS: 14
 
-Código: 0799.
+## Código: 0799.
 
 Resultados de aprendizaje y criterios de evaluación:
 
@@ -1072,11 +1072,11 @@ Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten a
 
 – Este módulo puede ser impartido en inglés.
 
-Módulo Profesional: Control de las emergencias.
+## Módulo Profesional: Control de las emergencias.
 
-Equivalencia en créditos ECTS: 10
+## Equivalencia en créditos ECTS: 10
 
-Código: 0800
+## Código: 0800
 
 Resultados de aprendizaje y criterios de evaluación:
 
@@ -1444,235 +1444,11 @@ Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alca
 
 – El uso de las TIC para la elaboración de listas de comprobación y mantenimiento, así como para la sensibilización sobre las consecuencias de una mala praxis y sus riesgos asociados.
 
-Módulo Profesional: Inglés.
+## Módulo Profesional: Organización de la asistencia sanitaria a bordo.
 
-Equivalencia en créditos ECTS: 7
+## Equivalencia en créditos ECTS: 5
 
-Código: 0179
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Reconoce información profesional y cotidiana contenida en todo tipo de discursos orales emitidos por cualquier medio de comunicación en lengua estándar, interpretando con precisión el contenido del mensaje.
-
-Criterios de evaluación:
-
-a) Se ha identificado la idea principal del mensaje.
-
-b) Se ha reconocido la finalidad de mensajes radiofónicos y de otro material grabado o retransmitido pronunciado en lengua estándar identificando el estado de ánimo y el tono del hablante.
-
-c) Se ha extraído información de grabaciones en lengua estándar, relacionadas con la vida social, profesional o académica.
-
-d) Se han identificado los puntos de vista y las actitudes del hablante.
-
-e) Se han identificado las ideas principales de declaraciones y mensajes sobre temas concretos y abstractos, en lengua estándar y con un ritmo normal.
-
-f) Se ha comprendido con todo detalle lo que se le dice en lengua estándar, incluso en un ambiente con ruido de fondo.
-
-g) Se han extraído las ideas principales de conferencias, charlas e informes, y otras formas de presentación académica y profesional lingüísticamente complejas.
-
-h) Se ha tomado conciencia de la importancia de comprender globalmente un mensaje, sin entender todos y cada uno de los elementos del mismo.
-
-2. Interpreta información profesional contenida en textos escritos complejos, analizando de forma comprensiva sus contenidos.
-
-Criterios de evaluación:
-
-a) Se ha leído con un alto grado de independencia, adaptando el estilo y la velocidad de la lectura a distintos textos y finalidades y utilizando fuentes de referencia apropiadas de forma selectiva.
-
-b) Se ha interpretado la correspondencia relativa a su especialidad, captando fácilmente el significado esencial.
-
-c) Se han interpretado, con todo detalle, textos extensos y de relativa complejidad, relacionados o no con su especialidad, pudiendo releer las secciones más difíciles de los mismos.
-
-d) Se ha relacionado el texto con el ámbito de la actividad profesional a que se refiere.
-
-e) Se ha identificado con rapidez el contenido y la importancia de noticias, artículos e informes sobre una amplia serie de temas profesionales y se ha decidido si es oportuno un análisis más profundo.
-
-f) Se han realizado traducciones de textos complejos utilizando material de apoyo en caso necesario.
-
-g) Se han interpretado mensajes técnicos recibidos a través de soportes telemáticos: e-mail y fax.
-
-h) Se han interpretado instrucciones extensas y complejas, que estén dentro de su especialidad.
-
-3. Emite mensajes orales claros y bien estructurados, analizando el contenido de la situación y adaptándose al registro lingüístico del interlocutor.
-
-Criterios de evaluación:
-
-a) Se han identificado los registros utilizados para la emisión del mensaje.
-
-b) Se ha expresado con fluidez, precisión y eficacia sobre una amplia serie de temas generales, académicos, profesionales o de ocio, marcando con claridad la relación entre las ideas.
-
-c) Se ha comunicado espontáneamente, adoptando un nivel de formalidad adecuado a las circunstancias.
-
-d) Se han utilizado normas de protocolo en presentaciones formales e informales.
-
-e) Se ha utilizado correctamente la terminología de la profesión.
-
-f) Se han expresado y defendido puntos de vista con claridad, proporcionando explicaciones y argumentos adecuados.
-
-g) Se ha descrito y secuenciado un proceso de trabajo de su competencia.
-
-h) Se ha argumentado con todo detalle la elección de una determinada opción o procedimiento de trabajo elegido.
-
-i) Se ha solicitado la reformulación del discurso o parte del mismo cuando se ha considerado necesario.
-
-4. Elabora documentos e informes propios de la actividad profesional o de la vida académica y cotidiana, relacionando los recursos lingüísticos con el propósito del escrito.
-
-Criterios de evaluación:
-
-a) Se han redactado textos claros y detallados sobre una variedad de temas relacionados con su especialidad, sintetizando y evaluando información y argumentos procedentes de varias fuentes.
-
-b) Se ha organizado la información con corrección, precisión y coherencia, solicitando y/ o facilitando información de tipo general o detallada.
-
-c) Se han redactado informes, destacando los aspectos significativos y ofreciendo detalles relevantes que sirvan de apoyo.
-
-d) Se ha cumplimentado documentación específica de su campo profesional.
-
-e) Se han aplicado las fórmulas establecidas y el vocabulario específico en la cumplimentación de documentos.
-
-f) Se han resumido artículos, manuales de instrucciones y otros documentos escritos, utilizando un vocabulario amplio para evitar la repetición frecuente.
-
-g) Se han utilizado las fórmulas de cortesía propias del documento que se ha de elaborar.
-
-5. Aplica actitudes y comportamientos profesionales en situaciones de comunicación, describiendo las relaciones típicas y características del país de la lengua extranjera.
-
-Criterios de evaluación:
-
-a) Se han definido los rasgos más significativos de las costumbres y usos de la comunidad donde se habla la lengua extranjera.
-
-b) Se han descrito los protocolos y normas de relación social propios del país.
-
-c) Se han identificado los valores y creencias propios de la comunidad donde se habla la lengua extranjera.
-
-d) Se ha identificado los aspectos socio-profesionales propios de la actividad profesional, en cualquier tipo de texto.
-
-e) Se han aplicado los protocolos y normas de relación social propios del país de la lengua extranjera.
-
-f) Se han reconocido los marcadores lingüísticos de la procedencia regional.
-
-Duración: 70 horas.
-
-Contenidos básicos:
-
-Análisis de mensajes orales:
-
-– Comprensión de mensajes profesionales y cotidianos:
-
-• Mensajes directos, telefónicos, radiofónicos, grabados.
-
-• Terminología específica de la actividad profesional.
-
-• Ideas principales y secundarias.
-
-• Recursos gramaticales: tiempos verbales, preposiciones, phrasal verbs, locuciones, expresión de la condición y de la duda, uso de la voz pasiva, oraciones de relativo, estilo indirecto y verbos modales.
-
-• Otros recursos lingüísticos: acuerdos y desacuerdos, hipótesis y especulaciones, opiniones y consejos, persuasión y advertencia.
-
-• Diferentes acentos de lengua oral.
-
-Interpretación de mensajes escritos:
-
-– Comprensión de mensajes, textos, artículos básicos profesionales y cotidianos:
-
-• Soportes telemáticos: fax, e-mail, burofax.
-
-• Terminología específica de la actividad profesional. “False friends”.
-
-• Ideas principales y secundarias.
-
-• Recursos gramaticales: tiempos verbales, preposiciones, phrasal verbs, I wish + pasado simple o perfecto, I wish + would, If only; uso de la voz pasiva, oraciones de relativo, estilo indirecto y verbos modales.
-
-– Relaciones lógicas: oposición, concesión, comparación, condición, causa, finalidad y resultado.
-
-– Relaciones temporales: anterioridad, posterioridad y simultaneidad.
-
-Producción de mensajes orales:
-
-– Mensajes orales:
-
-• Registros utilizados en la emisión de mensajes orales.
-
-• Terminología específica de la actividad profesional. “False friends.”
-
-• Recursos gramaticales: tiempos verbales, preposiciones, phrasal verbs, locuciones, expresión de la condición y de la duda, uso de la voz pasiva, oraciones de relativo, estilo indirecto y verbos modales.
-
-• Otros recursos lingüísticos: acuerdos y desacuerdos, hipótesis y especulaciones, opiniones y consejos, persuasión y advertencia.
-
-• Fonética. Sonidos y fonemas vocálicos y sus combinaciones y sonidos y fonemas consonánticos y sus agrupaciones.
-
-• Marcadores lingüísticos de relaciones sociales, normas de cortesía y diferencias de registro.
-
-– Mantenimiento y seguimiento del discurso oral:
-
-• Toma, mantenimiento y cesión del turno de palabra.
-
-• Apoyo, demostración de entendimiento, petición de aclaración, etc.
-
-• Entonación como recurso de cohesión del texto oral: uso de los patrones de entonación.
-
-Emisión de textos escritos:
-
-– Expresión y cumplimentación de mensajes y textos profesionales y cotidianos:
-
-• Currículo vitae y soportes telemáticos: fax, e-mail y burofax, entre otros.
-
-• Terminología específica de la actividad profesional.
-
-• Idea principal e ideas secundarias.
-
-• Recursos gramaticales: tiempos verbales, preposiciones, phrasal verbs, verbos modales, locuciones, uso de la voz pasiva, oraciones de relativo y estilo indirecto.
-
-– Relaciones lógicas: oposición, concesión, comparación, condición, causa, finalidad y resultado.
-
-– Relaciones temporales: anterioridad, posterioridad y simultaneidad.
-
-– Coherencia textual:
-
-• Adecuación del texto al contexto comunicativo.
-
-• Tipo y formato de texto.
-
-• Variedad de lengua. Registro.
-
-• Selección léxica, de estructuras sintácticas y de contenido relevante.
-
-• Inicio del discurso e introducción del tema. Desarrollo y expansión: ejemplificación, conclusión y/o resumen del discurso.
-
-• Uso de los signos de puntuación.
-
-Identificación e interpretación de los elementos culturales más significativos de los países de lengua extranjera (inglesa)
-
-– Valoración de las normas socioculturales y protocolarias en las relaciones internacionales.
-
-– Uso de los recursos formales y funcionales en situaciones que requieren un comportamiento socio-profesional con el fin de proyectar una buena imagen de la empresa.
-
-– Reconocimiento de la lengua extranjera para profundizar en conocimientos que resulten de interés a lo largo de la vida personal y profesional.
-
-– Uso de registros adecuados según el contexto de la comunicación, el interlocutor y la intención de los interlocutores.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para que el alumnado adquiera las competencias que le permitan comunicarse en inglés en el desarrollo de las actividades profesionales propias del nivel formativo de este técnico superior en este sector.
-
-Se trata de un módulo eminentemente procedimental en el que se desarrolla la competencia comunicativa en inglés necesaria en el entorno profesional, tanto a nivel oral como a nivel escrito.
-
-La competencia comunicativa en inglés tiene que ver tanto con las relaciones interpersonales como con el manejo de la documentación propia del sector.
-
-La formación del módulo contribuye a alcanzar los objetivos generales f), h), l), m), t), x) e y) del ciclo formativo, y las competencias f), k), l), q) y w) del título.
-
-Las líneas de actuación en el proceso de enseñanza aprendizaje que permiten alcanzar los objetivos del módulo están relacionadas con:
-
-– La utilización de la lengua inglesa tanto a nivel oral como a nivel escrito, en todo el desarrollo de este módulo.
-
-– La utilización del vocabulario inglés normalizado del ámbito marítimo pesquero, que deberá vehicular la concreción de los contenidos, actividades y ejemplos utilizados en el módulo.
-
-– La selección y ejecución de estrategias didácticas que incorporen el uso del idioma ingles en actividades propias del sector profesional.
-
-– La utilización de las técnicas de comunicación para potenciar el trabajo en equipo.
-
-Módulo Profesional: Organización de la asistencia sanitaria a bordo.
-
-Equivalencia en créditos ECTS: 5
-
-Código: 0802
+## Código: 0802
 
 Resultados de aprendizaje y criterios de evaluación:
 
@@ -1992,11 +1768,11 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – La evaluación de la casuística de usos del material de los botiquines reglamentarios y procedimientos de aplicación habituales a bordo.
 
-Módulo Profesional: Administración y gestión del buque y de la actividad pesquera.
+## Módulo Profesional: Administración y gestión del buque y de la actividad pesquera.
 
-Equivalencia en créditos ECTS: 11
+## Equivalencia en créditos ECTS: 11
 
-Código: 0803
+## Código: 0803
 
 Resultados de aprendizaje y criterios de evaluación:
 
@@ -2380,11 +2156,11 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – La utilización de TIC para la elaboración de documentos.
 
-Módulo Profesional: Guardia de puente.
+## Módulo Profesional: Guardia de puente.
 
-Equivalencia en créditos ECTS: 12
+## Equivalencia en créditos ECTS: 12
 
-Código: 0804
+## Código: 0804
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -2900,11 +2676,11 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – Este módulo puede ser impartido en inglés.
 
-Módulo Profesional: Pesca de altura y gran altura.
+## Módulo Profesional: Pesca de altura y gran altura.
 
-Equivalencia en créditos ECTS: 12
+## Equivalencia en créditos ECTS: 12
 
-Código: 0805
+## Código: 0805
 
 Resultados de aprendizaje y criterios de evaluación:
 
@@ -3406,11 +3182,11 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – Diseño de actividades destinadas a la sensibilización del alumnado para procurar una pesca responsable y para que sea transmisor de valores de respeto al medio ambiente.
 
-Módulo Profesional: Proyecto de implementación de una ruta de transporte marítimo.
+## Módulo Profesional: Proyecto de implementación de una ruta de transporte marítimo.
 
-Equivalencia en créditos ECTS: 5
+## Equivalencia en créditos ECTS: 5
 
-Código: 0808
+## Código: 0808
 
 Resultados de aprendizaje y criterios de evaluación.
 
@@ -3522,562 +3298,28 @@ Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten a
 
 – El uso de las tecnologías de la información y de la comunicación.
 
-Módulo Profesional: Formación y orientación laboral.
+## Módulo Profesional: Inglés Profesional (GS)
 
-Equivalencia en créditos ECTS: 5
+Código: 0179
 
-Código: 0806
+## Módulo Profesional: Itinerario personal para la empleabilidad I
 
-Resultados de aprendizaje y criterios de evaluación
+Código: 1709
 
-1. Selecciona oportunidades de empleo, identificando las diferentes posibilidades de inserción y las alternativas de aprendizaje a lo largo de la vida.
+## Módulo Profesional: Itinerario personal para la empleabilidad II
 
-Criterios de evaluación:
+Código: 1710
 
-a) Se ha valorado la importancia de la formación permanente como factor clave para la empleabilidad y la adaptación a las exigencias del proceso productivo.
+## Módulo Profesional: Digitalización aplicada a los sectores productivos (GS)
 
-b) Se han identificado los itinerarios formativo-profesionales relacionados con el perfil profesional del técnico superior en Transporte Marítimo y Pesca de Altura.
+Código: 1665
 
-c) Se han determinado las aptitudes y actitudes requeridas para la actividad profesional relacionada con el perfil del título.
+## Módulo Profesional: Sostenibilidad aplicada al sistema productivo
 
-d) Se han identificado los principales yacimientos de empleo y de inserción laboral para el técnico superior en Transporte Marítimo y Pesca de Altura.
+Código: 1708
 
-e) Se han determinado las técnicas utilizadas en el proceso de búsqueda de empleo.
+> Téngase en cuenta que el código, duración del currículo básico, equivalencia en créditos ECTS, resultados de aprendizaje y criterios de evaluación del módulo profesional 0179 figura como anexo X del Real Decreto 659/2023, de 18 de julio, el de los módulos 1709 y 1710 figuran como anexo V, el del módulo 1665 figura como anexo VII y el del módulo 1708 figura como anexo VIII del mismo Real Decreto, según establece el art. 7.2.b) del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685
 
-f) Se han previsto las alternativas de autoempleo en los sectores profesionales relacionados con el título.
+> Se modifica por el art. 7.2 del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685
 
-g) Se ha realizado la valoración de la personalidad, aspiraciones, actitudes y formación propia para la toma de decisiones.
-
-2. Aplica las estrategias del trabajo en equipo, valorando su eficacia y eficiencia para la consecución de los objetivos de la organización.
-
-Criterios de evaluación:
-
-a) Se han valorado las ventajas del trabajo en equipo en situaciones de trabajo relacionadas con el perfil del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-b) Se han identificado los equipos de trabajo que pueden constituirse en una situación real de trabajo.
-
-c) Se han determinado las características del equipo de trabajo eficaz frente a los equipos ineficaces.
-
-d) Se ha valorado positivamente la necesaria existencia de diversidad de roles y opiniones asumidos por los miembros de un equipo.
-
-e) Se ha reconocido la posible existencia de conflicto entre los miembros de un grupo como un aspecto característico de las organizaciones.
-
-f) Se han identificado los tipos de conflictos y sus fuentes.
-
-g) Se han determinado procedimientos para la resolución del conflicto.
-
-3. Ejerce los derechos y cumple las obligaciones que se derivan de las relaciones laborales, reconociéndolas en los diferentes contratos de trabajo.
-
-Criterios de evaluación:
-
-a) Se han identificado los conceptos básicos del derecho del trabajo.
-
-b) Se han distinguido los principales organismos que intervienen en las relaciones entre empresarios y trabajadores.
-
-c) Se han determinado los derechos y obligaciones derivados de la relación laboral.
-
-d) Se han clasificado las principales modalidades de contratación, identificando las medidas de fomento de la contratación para determinados colectivos.
-
-e) Se han valorado las medidas establecidas por la legislación vigente para la conciliación de la vida laboral y familiar.
-
-f) Se han identificado las causas y efectos de la modificación, suspensión y extinción de la relación laboral.
-
-g) Se ha analizado el recibo de salarios, identificando los principales elementos que lo integran.
-
-h) Se han analizado las diferentes medidas de conflicto colectivo y los procedimientos de solución de conflictos.
-
-i) Se han determinado las condiciones de trabajo pactadas en un convenio colectivo aplicable al sector relacionado con el título de Técnico Superior en Transporte Marítimo y Pesca de Altura.
-
-j) Se han identificado las características definitorias de los nuevos entornos de organización del trabajo.
-
-4. Determina la acción protectora del sistema de la Seguridad Social ante las distintas contingencias cubiertas, identificando las distintas clases de prestaciones.
-
-Criterios de evaluación:
-
-a) Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad de vida de los ciudadanos.
-
-b) Se han enumerado las diversas contingencias que cubre el sistema de Seguridad Social.
-
-c) Se han identificado los regímenes existentes en el sistema de Seguridad Social.
-
-d) Se han identificado las obligaciones de empresario y trabajador dentro del sistema de Seguridad Social.
-
-e) Se han identificado, en un supuesto sencillo, las bases de cotización de un trabajador y las cuotas correspondientes a trabajador y empresario.
-
-f) Se han clasificado las prestaciones del sistema de Seguridad Social, identificando los requisitos.
-
-g) Se han determinado las posibles situaciones legales de desempleo.
-
-h) Se ha realizado el cálculo de la duración y cuantía de una prestación por desempleo de nivel contributivo básico.
-
-5. Evalúa los riesgos derivados de su actividad, analizando las condiciones de trabajo y los factores de riesgo presentes en su entorno laboral.
-
-Criterios de evaluación:
-
-a) Se ha valorado la importancia de la cultura preventiva en todos los ámbitos y actividades de la empresa.
-
-b) Se han relacionado las condiciones laborales con la salud del trabajador.
-
-c) Se han clasificado los factores de riesgo en la actividad y los daños derivados de los mismos.
-
-d) Se han identificado las situaciones de riesgo más habituales en los entornos de trabajo del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-e) Se ha determinado la evaluación de riesgos en la empresa.
-
-f) Se han determinado las condiciones de trabajo con significación para la prevención en los entornos de trabajo relacionados con el perfil profesional del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-g) Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a accidentes de trabajo y enfermedades profesionales, relacionados con el perfil profesional del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-6. Participa en la elaboración de un plan de prevención de riesgos en una pequeña empresa, identificando las responsabilidades de todos los agentes implicados.
-
-Criterios de evaluación:
-
-a) Se han determinado los principales derechos y deberes en materia de prevención de riesgos laborales.
-
-b) Se han clasificado las distintas formas de gestión de la prevención en la empresa, en función de los distintos criterios establecidos en la normativa sobre prevención de riesgos laborales.
-
-c) Se han determinado las formas de representación de los trabajadores en la empresa en materia de prevención de riesgos.
-
-d) Se han identificado los organismos públicos relacionados con la prevención de riesgos laborales.
-
-e) Se ha valorado la importancia de la existencia de un plan preventivo en la empresa que incluya la secuenciación de actuaciones que se deben realizar en caso de emergencia.
-
-f) Se ha definido el contenido del plan de prevención en un centro de trabajo relacionado con el sector profesional del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-g) Se ha proyectado un plan de emergencia y evacuación de una empresa del sector.
-
-7. Aplica las medidas de prevención y protección, analizando las situaciones de riesgo en el entorno laboral del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-Criterios de evaluación:
-
-a) Se han definido las técnicas de prevención y de protección individual y colectiva que deben aplicarse para evitar los daños en su origen y minimizar sus consecuencias en caso de que sean inevitables.
-
-b) Se ha analizado el significado y alcance de los distintos tipos de señalización de seguridad.
-
-c) Se han analizado los protocolos de actuación en caso de emergencia.
-
-d) Se han identificado las técnicas de clasificación de heridos en caso de emergencia donde existan víctimas de diversa gravedad.
-
-e) Se han identificado las técnicas básicas de primeros auxilios que han de ser aplicadas en el lugar del accidente ante distintos tipos de daños y la composición y uso del botiquín.
-
-f) Se han determinado los requisitos y condiciones para la vigilancia de la salud del trabajador y su importancia como medida de prevención.
-
-Duración: 50 horas.
-
-Contenidos básicos:
-
-Búsqueda activa de empleo:
-
-– Valoración de la importancia de la formación permanente para la trayectoria laboral y profesional del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-– Análisis de los intereses, aptitudes y motivaciones personales para la carrera profesional.
-
-– Identificación de los itinerarios formativos relacionados con el técnico superior en Transporte Marítimo y Pesca de Altura.
-
-– Definición y análisis del sector profesional del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-– Proceso de búsqueda de empleo en empresas del sector.
-
-– Oportunidades de aprendizaje y empleo en Europa.
-
-– Técnicas e instrumentos de búsqueda de empleo.
-
-– El proceso de toma de decisiones.
-
-Gestión del conflicto y equipos de trabajo:
-
-– Valoración de las ventajas e inconvenientes del trabajo de equipo para la eficacia de la organización.
-
-– Equipos en el sector del transporte marítimo según las funciones que desempeñan.
-
-– La participación en el equipo de trabajo.
-
-– Conflicto: características, fuentes y etapas.
-
-– Métodos para la resolución o supresión del conflicto.
-
-Contrato de trabajo:
-
-– El derecho del trabajo.
-
-– Análisis de la relación laboral individual.
-
-– Modalidades de contrato de trabajo y medidas de fomento de la contratación.
-
-– Derechos y deberes derivados de la relación laboral.
-
-– Modificación, suspensión y extinción del contrato de trabajo.
-
-– Representación de los trabajadores.
-
-– Análisis de un convenio colectivo aplicable al ámbito profesional del técnico superior en Transporte Marítimo y Pesca de Altura.
-
-– Beneficios para los trabajadores en las nuevas organizaciones: flexibilidad y beneficios sociales, entre otros.
-
-Seguridad Social, empleo y desempleo:
-
-– Estructura del sistema de la Seguridad Social.
-
-– Determinación de las principales obligaciones de empresarios y trabajadores en materia de Seguridad Social: afiliación, altas, bajas y cotización.
-
-– Situaciones protegibles por desempleo.
-
-Evaluación de riesgos profesionales:
-
-– Valoración de la relación entre trabajo y salud.
-
-– Análisis de factores de riesgo.
-
-– La evaluación de riesgos en la empresa como elemento básico de la actividad preventiva.
-
-– Análisis de riesgos ligados a las condiciones de seguridad.
-
-– Análisis de riesgos ligados a las condiciones ambientales.
-
-– Análisis de riesgos ligados a las condiciones ergonómicas y psicosociales.
-
-– Riesgos específicos en el sector del transporte marítimo y de la pesca de altura y gran altura.
-
-– Determinación de los posibles daños a la salud del trabajador que pueden derivarse de las situaciones de riesgo detectadas.
-
-Planificación de la prevención de riesgos en la empresa:
-
-– Derechos y deberes en materia de prevención de riesgos laborales.
-
-– Gestión de la prevención en la empresa.
-
-– Organismos públicos relacionados con la prevención de riesgos laborales.
-
-– Planificación de la prevención en la empresa.
-
-– Planes de emergencia y de evacuación en entornos de trabajo.
-
-– Elaboración de un plan de emergencia en una empresa del sector.
-
-– Aplicación de medidas de prevención y protección en la empresa:
-
-– Determinación de las medidas de prevención y protección individual y colectiva.
-
-– Protocolo de actuación ante una situación de emergencia.
-
-– Primeros auxilios.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contiene la formación necesaria para que el alumno pueda insertarse laboralmente y desarrollar su carrera profesional en el sector.
-
-La formación de este módulo contribuye a alcanzar los objetivos generales u), x), z), bb) y dd) del ciclo formativo, y las competencias s), t), v), x), z) y aa) del título.
-
-Las líneas de actuación en el proceso enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-– El manejo de las fuentes de información sobre el sistema educativo y laboral, en especial en lo referente a las empresas.
-
-– La realización de pruebas de orientación y dinámicas sobre la propia personalidad y el desarrollo de las habilidades sociales.
-
-– La preparación y realización de modelos de curriculum vitae (CV) y entrevistas de trabajo.
-
-– Identificación de la normativa laboral que afecta a los trabajadores del sector, manejo de los contratos más comúnmente utilizados y lectura comprensiva de los convenios colectivos de aplicación.
-
-– La cumplimentación de recibos de salario de diferentes características y otros documentos relacionados.
-
-– El análisis de la Ley de Prevención de Riesgos Laborales, que le permita evaluar los riesgos derivados de las actividades desarrolladas en su sector productivo y que le permita colaborar en la definición de un plan de prevención para una pequeña empresa, así como en la elaboración de las medidas necesarias para su puesta en funcionamiento.
-
-Módulo Profesional: Empresa e iniciativa emprendedora.
-
-Equivalencia en créditos ECTS: 4
-
-Código: 0807
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Reconoce las capacidades asociadas a la iniciativa emprendedora, analizando los requerimientos derivados de los puestos de trabajo y de las actividades empresariales.
-
-Criterios de evaluación:
-
-a) Se ha identificado el concepto de innovación y su relación con el progreso de la sociedad y el aumento en el bienestar de los individuos.
-
-b) Se ha analizado el concepto de cultura emprendedora y su importancia como fuente de creación de empleo y bienestar social.
-
-c) Se ha valorado la importancia de la iniciativa individual, la creatividad, la formación y la colaboración como requisitos indispensables para tener éxito en la actividad emprendedora.
-
-d) Se ha analizado la capacidad de iniciativa en el trabajo de una persona empleada en una pequeña y mediana empresa relacionada con las actividades marítimo-pesqueras.
-
-e) Se ha analizado el desarrollo de la actividad emprendedora de un empresario que se inicie en el sector de las actividades marítimo-pesqueras.
-
-f) Se ha analizado el concepto de riesgo como elemento inevitable de toda actividad emprendedora.
-
-g) Se ha analizado el concepto de empresario y los requisitos y actitudes necesarios para desarrollar la actividad empresarial.
-
-h) Se ha descrito la estrategia empresarial, relacionándola con los objetivos de la empresa.
-
-i) Se ha definido una determinada idea de negocio en el ámbito de las actividades marítimo-pesqueras que sirva de punto de partida para la elaboración de un plan de empresa.
-
-2. Define la oportunidad de creación de una pequeña empresa, valorando el impacto sobre el entorno de actuación e incorporando valores éticos.
-
-Criterios de evaluación:
-
-a) Se han descrito las funciones básicas que se realizan en una empresa y se ha analizado el concepto de sistema aplicado a la empresa.
-
-b) Se han identificado los principales componentes del entorno general que rodea a la empresa, en especial el entorno económico, social, demográfico y cultural.
-
-c) Se ha analizado la influencia en la actividad empresarial de las relaciones con los clientes, con los proveedores y con la competencia, como principales integrantes del entorno específico.
-
-d) Se han identificado los elementos del entorno de una pyme del sector marítimo-pesquero y del subsector de las embarcaciones de recreo.
-
-e) Se han analizado los conceptos de cultura empresarial e imagen corporativa y su relación con los objetivos empresariales.
-
-f) Se ha analizado el fenómeno de la responsabilidad social de las empresas y su importancia como un elemento de la estrategia empresarial.
-
-g) Se ha elaborado el balance social de una empresa relacionada con las actividades de transporte marítimo y con las embarcaciones de recreo y se han descrito los principales costes sociales en que incurren estas empresas, así como los beneficios sociales que producen.
-
-h) Se han identificado, en empresas relacionadas con las actividades de transporte marítimo y con las embarcaciones de recreo, prácticas que incorporan valores éticos y sociales.
-
-i) Se ha llevado a cabo un estudio de viabilidad económica y financiera de una pyme relacionada con el sector marítimo-pesquero y con el subsector de las embarcaciones de recreo.
-
-3. Realiza actividades para la constitución y puesta en marcha de una empresa, seleccionando la forma jurídica e identificando las obligaciones legales asociadas.
-
-Criterios de evaluación:
-
-a) Se han analizado las diferentes formas jurídicas de la empresa.
-
-b) Se ha especificado el grado de responsabilidad legal de los propietarios de la empresa, en función de la forma jurídica elegida.
-
-c) Se ha diferenciado el tratamiento fiscal establecido para las diferentes formas jurídicas de la empresa.
-
-d) Se han analizado los trámites exigidos por la legislación vigente para la constitución de una empresa.
-
-e) Se ha realizado una búsqueda exhaustiva de las diferentes ayudas para la creación de empresas relacionadas con las actividades de transporte marítimo y con las de embarcaciones de recreo, en la localidad de referencia.
-
-f) Se ha incluido en el plan de empresa todo lo relativo a la elección de la forma jurídica, estudio de viabilidad económico-financiera, trámites administrativos, ayudas y subvenciones.
-
-g) Se han identificado las vías de asesoramiento y gestión administrativa externas existentes a la hora de poner en marcha una pyme.
-
-4. Realiza actividades de gestión administrativa y financiera de una pyme, identificando las principales obligaciones contables y fiscales y cumplimentando la documentación.
-
-Criterios de evaluación:
-
-a) Se han analizado los conceptos básicos de contabilidad, así como las técnicas de registro de la información contable.
-
-b) Se han descrito las técnicas básicas de análisis de la información contable, en especial en lo referente a la solvencia, liquidez y rentabilidad de la empresa.
-
-c) Se han definido las obligaciones fiscales de una empresa relacionada con el transporte marítimo y con las embarcaciones de recreo.
-
-d) Se han diferenciado los tipos de impuestos en el calendario fiscal.
-
-e) Se ha cumplimentado la documentación básica de carácter comercial y contable (facturas, albaranes, notas de pedido, letras de cambio y cheques, entre otros) en una pyme relacionada con el sector marítimo-pesquero y con las embarcaciones de recreo, y se han descrito los circuitos que dicha documentación recorre en la empresa.
-
-f) Se han identificado los principales instrumentos de financiación bancaria.
-
-g) Se ha incluido la anterior documentación en el plan de empresa.
-
-Duración: 35 horas.
-
-Contenidos básicos:
-
-Iniciativa emprendedora:
-
-– Innovación y desarrollo económico. Principales características de la innovación en las actividades de transporte marítimo, pesca de altura, pesca de gran altura y embarcaciones de recreo (materiales, tecnología y organización de la producción, entre otros).
-
-– Factores claves de los emprendedores: iniciativa, creatividad y formación.
-
-– La actuación de los emprendedores como empleados de una pyme relacionada con las actividades de transporte marítimo, pesca de altura, pesca de gran altura y embarcaciones de recreo.
-
-– La actuación de los emprendedores como empresarios en el sector de las actividades de transporte marítimo, pesca de altura, pesca de gran altura y embarcaciones de recreo.
-
-– El empresario. Requisitos para el ejercicio de la actividad empresarial.
-
-– Plan de empresa: la idea de negocio en el ámbito de las actividades de transporte marítimo, pesca de altura, pesca de gran altura y embarcaciones de recreo.
-
-La empresa y su entorno:
-
-– Funciones básicas de la empresa.
-
-– La empresa como sistema.
-
-– Análisis del entorno general de una pyme relacionada con el sector marítimo-pesquero y el subsector de las embarcaciones de recreo.
-
-– Análisis del entorno específico de una pyme relacionada con el sector marítimo-pesquero y el subsector de las embarcaciones de recreo.
-
-– Relaciones de una pyme relacionada con el sector marítimo-pesquero y el subsector de las embarcaciones de recreo con su entorno.
-
-– Relaciones de una pyme relacionada con el sector marítimo-pesquero y el subsector de las embarcaciones de recreo con el conjunto de la sociedad.
-
-Creación y puesta en marcha de una empresa:
-
-– Tipos de empresa.
-
-– La fiscalidad en las empresas.
-
-– Elección de la forma jurídica.
-
-– Trámites administrativos para la constitución de una empresa.
-
-– Viabilidad económica y viabilidad financiera de una pyme relacionada con el sector marítimo-pesquero y el subsector de las embarcaciones de recreo.
-
-– Plan de empresa: elección de la forma jurídica, estudio de la viabilidad económica y financiera, trámites administrativos y gestión de ayudas y subvenciones.
-
-Función administrativa:
-
-– Concepto de contabilidad y nociones básicas.
-
-– Análisis de la información contable.
-
-– Obligaciones fiscales de las empresas.
-
-– Gestión administrativa de una empresa del sector marítimo-pesquero y del subsector de las embarcaciones de recreo.
-
-Orientaciones pedagógicas:
-
-Este módulo profesional contiene la formación necesaria para desarrollar la propia iniciativa en el ámbito empresarial, tanto hacia el autoempleo como hacia la asunción de responsabilidades y funciones en el empleo por cuenta ajena.
-
-La formación del módulo contribuye a alcanzar los objetivos generales u), v), w), x), y), z), aa), cc) y dd) del ciclo formativo, y las competencias t), u), v), w), x), y), z) y aa) del título.
-
-Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
-
-– El manejo de las fuentes de información sobre el sector marítimo pesquero y el subsector de las embarcaciones de recreo, incluyendo el análisis de los procesos de innovación sectorial en marcha.
-
-– La realización de casos y dinámicas de grupo que permitan comprender y valorar las actitudes de los emprendedores y ajustar la necesidad de los mismos al sector de los servicios relacionados con las actividades de transporte marítimo, de pesca de altura, pesca de gran altura y de embarcaciones de recreo.
-
-– La utilización de programas de gestión administrativa para pymes del sector.
-
-– La realización de un proyecto de plan de empresa relacionada con las actividades de transporte marítimo, de pesca de altura, pesca de gran altura y de embarcaciones de recreo, que incluya todas las facetas de puesta en marcha de un negocio, así como la justificación de su responsabilidad social.
-
-Módulo Profesional: Formación en centros de trabajo.
-
-Equivalencia en créditos ECTS: 22
-
-Código: 0809
-
-Resultados de aprendizaje y criterios de evaluación.
-
-1. Identifica la estructura y organización de la empresa, relacionándolas con la producción y comercialización de los productos que obtiene y con el tipo de servicio que presta.
-
-Criterios de evaluación:
-
-a) Se han identificado la estructura organizativa de la empresa y las funciones de cada área de la misma.
-
-b) Se ha comparado la estructura de la empresa con las organizaciones empresariales tipo existentes en el sector.
-
-c) Se han identificado los elementos que constituyen la red logística de la empresa: proveedores, clientes, sistemas de producción y almacenaje, entre otros.
-
-d) Se han relacionado las características del servicio y el tipo de clientes con el desarrollo de la actividad empresarial.
-
-e) Se han identificado los procedimientos de trabajo en el desarrollo de la prestación de servicio.
-
-f) Se han valorado las competencias necesarias de los recursos humanos para el desarrollo óptimo de la actividad.
-
-g) Se ha valorado la idoneidad de los canales de difusión más frecuentes en esta actividad.
-
-2. Aplica hábitos éticos y laborales en el desarrollo de su actividad profesional, de acuerdo con las características del puesto de trabajo y con los procedimientos establecidos en la empresa.
-
-Criterios de evaluación:
-
-a) Se han reconocido y justificado:
-
-• La disponibilidad personal y temporal necesarias en el puesto de trabajo.
-
-• Las actitudes personales (puntualidad y empatía, entre otras) y profesionales (orden, limpieza y responsabilidad, entre otras) necesarias para el puesto de trabajo.
-
-• Los requerimientos actitudinales ante la prevención de riesgos en la actividad profesional.
-
-• Los requerimientos actitudinales referidos a la calidad en la actividad profesional.
-
-• Las actitudes relacionales con el propio equipo de trabajo y con las jerarquías establecidas en la empresa.
-
-• Las actitudes relacionadas con la documentación de las actividades realizadas en el ámbito laboral.
-
-• Las necesidades formativas para la inserción y reinserción laboral en el ámbito científico y técnico del buen hacer del profesional.
-
-b) Se han identificado las normas de prevención de riesgos laborales y los aspectos fundamentales de la Ley de Prevención de Riesgos Laborales de aplicación en la actividad profesional.
-
-c) Se han aplicado los equipos de protección individual según los riesgos de la actividad profesional y las normas de la empresa.
-
-d) Se ha mantenido una actitud de respeto al medio ambiente en las actividades desarrolladas.
-
-e) Se ha mantenido organizado, limpio y libre de obstáculos el puesto de trabajo o el área correspondiente al desarrollo de la actividad.
-
-f) Se ha responsabilizado del trabajo asignado, interpretando y cumpliendo las instrucciones recibidas.
-
-g) Se ha establecido una comunicación eficaz con la persona responsable en cada situación y con los miembros del equipo.
-
-h) Se ha coordinado con el resto del equipo, comunicando las incidencias relevantes que se presenten.
-
-i) Se ha valorado la importancia de su actividad y la necesidad de adaptación a los cambios de tareas.
-
-j) Se ha responsabilizado de la aplicación de las normas y procedimientos en el desarrollo de su trabajo.
-
-3. Colabora en las tareas de preparación del buque para el viaje o marea en condiciones de seguridad, determinando los pertrechos y suministros, la distribución y estiba de pesos, la planificación de la derrota y gestionando la documentación requerida para el despacho.
-
-Criterios de evaluación:
-
-a) Se han efectuado trámites para el despacho de la embarcación.
-
-b) Se ha planificado la distribución de pesos y verificado el cumplimiento de los criterios de estabilidad reglamentarios.
-
-c) Se han tomado y registrado sondas de los tanques de lastre, combustible y agua dulce, observado los calados antes de la salida y determinado las necesidades de suministros para rendir viaje.
-
-d) Se ha comprobado el acondicionamiento de los espacios y la operatividad de los medios de carga y descarga.
-
-e) Se ha comprobado la disponibilidad operativa de los medios de salvamento y contra incendios, la revisión del botiquín reglamentario, el cierre de puertas estancas y los trincajes a son de mar.
-
-f) Se han comprobado los sistemas de gobierno y el alistamiento de la instrumentación del puente de mando.
-
-g) Se ha preparado el cuarto de derrota con todas las publicaciones náuticas actualizadas y ordenadas y los rumbos trazados sobre las cartas.
-
-h) Se han establecido comunicaciones por radio asociadas a la salida, de acuerdo con la fraseología y procedimientos normalizados.
-
-i) Se han cumplimentado los registros de acuerdo con los procedimientos de calidad establecidos por la empresa.
-
-j) Se han relacionado las funciones del consignatario con las modalidades de explotación del buque y con los procedimientos de gestión de la documentación.
-
-k) Se han relacionado los seguros marítimos contratados con la actividad del buque y de las embarcaciones de recreo, con los ámbitos de cobertura y las condiciones particulares de la póliza.
-
-4. Colabora en las operaciones de maniobra en puerto y control de la navegación, cumpliendo con diligencia las tareas asignadas y respetando los protocolos de seguridad y protección medioambiental.
-
-Criterios de evaluación:
-
-a) Se ha asistido a las maniobras de atraque, salida y fondeo, en proa, popa, puente de mando y sala de máquinas.
-
-b) Se han operado, bajo supervisión, los mandos de propulsión y gobierno, actuando conforme a las órdenes recibidas durante las maniobras.
-
-c) Se han efectuado trabajos de cabuyería bajo la supervisión del contramaestre.
-
-d) Se ha efectuado la guardia de puente, colaborando con el oficial responsable en todas las tareas asignadas.
-
-e) Se han efectuado, bajo supervisión, maniobras para prevenir abordajes en la mar.
-
-f) Se ha manejado la instrumentación del puente de mando y de la derrota para controlar la navegación.
-
-g) Se han reconocido los procedimientos y planes de emergencia establecidos en el COICE.
-
-h) Se han recibido y transmitido mensajes por medio de aparatos del SMSSM/GMDSS, de acuerdo con los protocolos establecidos.
-
-i) Se han respetado las normas de seguridad, calidad y protección medioambiental establecidas por la empresa.
-
-j) Se ha efectuado la anotación de las actividades efectuadas en el Registro de Formación.
-
-5. Colabora en las actividades asociadas a la pesca, cumpliendo con diligencia las tareas asignadas y respetando los protocolos de seguridad y protección medioambiental.
-
-Criterios de evaluación:
-
-a) Se ha colaborado en la preparación, mantenimiento y reparación de las instalaciones y sus equipos.
-
-b) Se han manejado los equipos para la detección y localización de bancos de pesca.
-
-c) Se ha participado, bajo supervisión, en las maniobras de calado y virado de las artes, desde el parque de pesca y desde el puente de mando.
-
-d) Se han reconocido las características e interés comercial de las capturas, participando en la valoración del rendimiento sostenible de los caladeros.
-
-e) Se ha colaborado en la supervisión del procesamiento y estiba de las capturas.
-
-f) Se ha contrastado el cumplimiento de la normativa de pesca.
-
-g) Se han respetado las normas de seguridad, calidad y protección medioambiental establecidas por la empresa.
-
-h) Se ha efectuado la anotación de las actividades efectuadas en el registro de formación.
-
-Duración: 220 horas.
-
-Orientaciones pedagógicas.
-
-Este módulo profesional contribuye a completar las competencias de este título y los objetivos generales del ciclo, tanto aquellos que se han alcanzado en el centro educativo, como los que son difíciles de conseguir en el mismo.
+> Téngase en cuenta la disposición adicional 1, respecto a las horas del currículo básico para las comunidades autónomas con lengua cooficial, y la disposición adicional 2, que adapta el número de créditos ECTS de acuerdo con la tabla que figura como anexo XCI del citado Real Decreto.

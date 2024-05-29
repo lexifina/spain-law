@@ -12,16 +12,13 @@
 | Formación aportada | Formación a convalidar |
 | Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
 | Empresa e iniciativa emprendedora. | Empresa e iniciativa emprendedora. |
-| Técnico en Actividades Comerciales | Para cualquier ciclo formativo |
-| 1227. Gestión de un pequeño comercio. | Empresa e iniciativa emprendedora. |
+| Cualquier ciclo de grado medio o superior de las Familias Profesionales Comercio y Marketing o Administración y Gestión | Para cualquier ciclo formativo |
+| Ciclo completo | Empresa e iniciativa emprendedora. |
 | Para determinados ciclos formativos |
 | --- |
 | Formación aportada | Formación a convalidar |
 | Módulos profesionales de diferentes títulos regulados por Ley Orgánica 2/2006 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica2/2006 |
-| Técnico en Gestión Administrativa | Para cualquier ciclo formativo |
-| Ciclo completo. | Empresa e iniciativa emprendedora. |
-| Técnico en Superior en Administración y Finanzas | Para cualquier ciclo formativo |
-| Ciclo completo. | Empresa e iniciativa emprendedora. |
+|  |
 | Técnico en Emergencias Sanitarias. | Para cualquier ciclo formativo |
 | Ciclo completo. | 0020 Primeros auxilios. |
 
@@ -753,6 +750,8 @@ Para todos los ciclos formativos con inglés
 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 | Módulos profesionales de diferentes títulos regulados por la Ley Orgánica 2/2006 |
 | Técnico en Mantenimiento de Material Rodante Ferroviario (RD 1145/2012, de 27 de julio) (Transporte y Mantenimiento de Vehículos) | Técnico en Fabricación de Productos Cerámicos (RD 454/2010, de 16 de abril) |
 | Ciclo completo. | 0116. Principios de mantenimiento electromecánico. |
+
+> Se modifican las tablas segunda y tercera por la disposición final 1.3 a 4 del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685
 
 > Se modifica el cuadro cuarto por la disposición final 4.3 del Real Decreto 659/2023, de 18 de julio. Ref. BOE-A-2023-16889#df-4
 

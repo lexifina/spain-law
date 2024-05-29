@@ -1,6 +1,6 @@
 ## ANEXO V A)
 
-## Correspondencia de las unidades de competencia acreditadas de acuerdo con lo establecido en el artículo 8 de la Ley Orgánica 5/2002, de 19 de junio, con los módulos profesionales para su convalidación
+## Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación
 
 | Unidades de competencia acreditadas | Módulos profesionales convalidables |
 | --- | --- |
@@ -12,8 +12,7 @@
 | UC1962_3: Controlar el funcionamiento y supervisar el mantenimiento de las instalaciones y equipos frigoríficos y de climatización del buque. UC1999_3: Organizar y supervisar el mantenimiento de los sistemas de frío y climatización y de servicio de fluidos de embarcaciones deportivas y de recreo. | 1312. Organización del mantenimiento y montaje de instalaciones frigoríficas y sistemas de climatización de buques y embarcaciones. |
 | UC1963_3: Gestionar el mantenimiento de la planta propulsora, máquinas y equipos auxiliares del buque. UC1993_3: Gestionar el mantenimiento de embarcaciones deportivas y de recreo. | 1313. Planificación del mantenimiento de maquinaria de buques y embarcaciones. |
 | UC1954_2: Desarrollar actividades relacionadas con la seguridad, supervivencia y asistencia sanitaria a bordo. | 0800. Control de las emergencias. 0802. Organización de la asistencia sanitaria a bordo. |
-| UC0808_2: Comunicarse en inglés a nivel de usuario independiente, en el ámbito del mantenimiento naval, seguridad, supervivencia y asistencia sanitaria a bordo. | 0179. Inglés. (*) |
+| UC9999_3: Comunicarse en lengua inglesa con un nivel de usuario independiente (B1), según el marco común europeo de referencia para las lenguas, en el ámbito profesional. | 0179. Inglés profesional (GS). |
+| Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento establecido en el Real Decreto 659/2023, de 18 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, tendrán convalidado el módulo profesional “1314. Organización de la guardia de máquinas”. |
 
-Nota: las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencia incluidas en el título, de acuerdo con el procedimiento establecido en el Real Decreto 1224/2009 de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, tendrán convalidado el módulo profesional 1314. Organización de la guardia de máquinas.
-
-(*) Podrá convalidarse de acuerdo con lo dispuesto en el artículo 66.4 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+> Se modifica por el art. 3.21 del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685
