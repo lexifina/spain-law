@@ -24,10 +24,14 @@ a) Por la infracción prevista en el artículo 17, apartado tres a), una multa p
 
 b) Por la infracción prevista en el artículo 17, apartado tres b), una sanción cuyo importe irá del doble al quíntuplo del exceso del gasto producido, sin que en ningún caso pueda ser inferior a cinco mil euros.
 
+> Téngase en cuenta que se declara inconstitucional y nulo el inciso destacado del apartado Tres.b) y que se extiende, por conexión o consecuencia, esta misma declaración de inconstitucionalidad y nulidad a los incisos destacados de los apartados Uno y Dos.b), por Sentencia del TS 69/2024, de 24 de abril. Ref. BOE-A-2024-10947
+
 Cuatro. El Tribunal de Cuentas vigilará que las sanciones se hagan efectivas antes del libramiento de la siguiente subvención y que se detraiga su importe en el caso de no haber sido satisfechas.
 
 En aquellos casos en que el partido político sancionado no tenga derecho a la percepción de subvenciones, el Tribunal de Cuentas requerirá al citado partido para que proceda al ingreso del importe correspondiente a la sanción en el Tesoro Público.
 
 Cuando un partido político no haga efectivo el pago de la sanción impuesta, el Tribunal de Cuentas dará traslado a la Agencia Estatal de la Administración Tributaria para que ésta proceda a su recaudación en periodo ejecutivo.
+
+> Se declara la inconstitucionalidad y nulidad de los incisos destacados de los apartados 1, 2.b) y 3.b) , por Sentencia del TS 69/2024, de 24 de abril. Ref. BOE-A-2024-10947
 
 > Se añade por el art. 1.14 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
