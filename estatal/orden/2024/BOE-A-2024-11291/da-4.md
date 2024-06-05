@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Informe de evolución del sector de la cogeneración.
+
+El Ministerio para la Transición Ecológica y el Reto Demográfico, en el plazo de dos años desde la entrada en vigor de esta orden, elaborará un informe analizando la evolución del sector de la cogeneración desde el punto de vista energético, de emisiones de CO2 y de descarbonización industrial, que podrá incluir propuestas de mejora de la metodología de actualización de la retribución a la operación. Este informe será actualizado cada dos años y elevado a la Comisión Delegada del Gobierno para Asuntos Económicos.
