@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 13 de junio de 2024, por la disposición derogatoria única.2 del Real Decreto 534/2024, de 11 de junio. Ref. BOE-A-2024-11858#dd. Téngase en cuenta los efectos y alcances indicados en las disposiciones transitoria única y final cuarta del citado Real Decreto.

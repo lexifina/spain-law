@@ -1,0 +1,11 @@
+## Disposición adicional tercera. Alumnado de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat.
+
+1. El alumnado que haya cursado las enseñanzas reguladas mediante el Real Decreto 102/2010, de 5 de febrero, por el que se regula la ordenación de las enseñanzas acogidas al acuerdo entre el Gobierno de España y el Gobierno de Francia relativo a la doble titulación de Bachiller y de Baccalauréat en centros docentes españoles, deberá realizar la prueba externa establecida en su artículo 7 si desea obtener la doble titulación.
+
+2. En este caso, como regla general, los alumnos y alumnas que hayan superado dicha prueba externa y deseen acceder a las enseñanzas universitarias oficiales de grado mediante el título de Bachiller, podrán realizar la prueba de acceso a la universidad en la administración educativa en la que hubieran finalizado sus estudios, si bien no necesitarán realizar los ejercicios correspondientes a las materias de Historia de España y Lengua Extranjera II. La nota de dichas materias será la obtenida en la prueba externa en las materias Historia de España y de Francia y Lengua y Literatura Francesas, respectivamente.
+
+A estos efectos, las administraciones educativas deberán remitir a las universidades de su ámbito territorial una relación del alumnado que, habiendo obtenido la doble titulación, vaya a presentarse a la prueba de acceso a la universidad y desee acogerse a este procedimiento de calificación, junto con una certificación en la que se hará constar la calificación obtenida en la prueba externa en las materias de Historia de España y de Francia y Lengua y Literatura Francesas.
+
+3. Los alumnos y alumnas que no hayan superado la prueba externa o que, habiéndola superado, deseen mejorar su calificación de acceso a la universidad, deberán realizar la prueba regulada en el capítulo III de este real decreto.
+
+4. El alumnado que, tras haber finalizado las enseñanzas de este programa, desee utilizar el título de Baccalauréat para acceder a la universidad, podrá participar en los procedimientos de admisión previstos en el artículo 22 de este real decreto, en el ámbito territorial de la administración educativa en la que haya finalizado sus estudios.
