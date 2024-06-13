@@ -1,8 +1,8 @@
 ## Disposición transitoria cuarta. Reconocimiento de períodos formativos.
 
-Hasta tanto se desarrolle el artículo 19.2 de la Ley 44/2003, de 21 de noviembre, corresponde al Ministerio de Sanidad y Consumo resolver las solicitudes de reconocimiento de períodos formativos previos de residentes en formación conforme en lo previsto en la Orden de 18 de junio de 1993, sobre reconocimiento de periodos formativos previos de los médicos y farmacéuticos residentes en formación.
+(Derogada)
 
-Las referencias que en el apartado segundo de dicha orden se hacen al informe previo de la Dirección General de Ordenación Profesional del Ministerio de Sanidad y Consumo y a la resolución de la Dirección General de Enseñanza Superior del Ministerio de Educación y Ciencia, se entenderán referidas respectivamente, a la Subdirección General de Ordenación Profesional y a la Dirección General de Recursos Humanos y Servicios Económico-Presupuestarios del Ministerio de Sanidad y Consumo.
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 535/2024, de 11 de junio. Ref. BOE-A-2024-11859
 
 > Se declara la nulidad de la disposición derogatoria única.b) del Real Decreto 589/2022, de 19 de julio, que derogaba esta disposición, por Sentencia del TS de 16 de octubre de 2023. Ref. BOE-A-2023-23991
 
