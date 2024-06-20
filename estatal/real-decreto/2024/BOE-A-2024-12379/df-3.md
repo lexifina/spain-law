@@ -1,0 +1,3 @@
+## Disposición final tercera. Sistema de Información de Vacunaciones e Inmunizaciones.
+
+Se crea el Sistema de Información de Vacunaciones e Inmunizaciones dependiente del Ministerio de Sanidad, con la finalidad de recoger la información de las vacunaciones e inmunizaciones de todas las personas que residen en España, cuyo funcionamiento se desarrollará reglamentariamente. Las administraciones sanitarias de las comunidades autónomas y ciudades de Ceuta y Melilla, así como el Ministerio de Sanidad y el Ministerio de Defensa, estarán obligados en el ámbito de sus competencias a proporcionar la información contenida en dicho sistema.
