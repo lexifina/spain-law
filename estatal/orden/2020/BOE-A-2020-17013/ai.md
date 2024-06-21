@@ -38,6 +38,14 @@ c) En la provincia de Segovia, las comarcas de Santa María Real de Nieva, Segov
 
 10. En la Comunidat Valenciana: la provincia de Alicante/Alacant.
 
+Parte C. Zona restringida frente al serotipo 8 del virus de la lengua azul
+
+Se considerará zona restringida frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
+
+1. En la Comunidad Autónoma de Cataluña: Las provincias de Girona y Barcelona.
+
+> Se añade la parte C por Resolución de 17 de junio de 2024. Ref. BOE-A-2024-12539
+
 > Se modifica por Resolución de 8 de febrero de 2024. Ref. BOE-A-2024-2745
 
 > Se modifican las partes A y B por Resolución de 13 de diciembre de 2023. Ref. BOE-A-2023-25963
