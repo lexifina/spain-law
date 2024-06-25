@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Infraestructuras para el uso de UAS.
+
+1. Cuando las administraciones públicas competentes sujeten a autorización la construcción de infraestructuras o la habilitación de zonas destinadas a las operaciones de despegue y aterrizaje de UAS, incluidos los utilizados exclusivamente para exhibiciones aéreas, actividades deportivas, recreativas o de competición, de masa máxima de despegue superior a 150 kilogramos con carácter previo a dicha autorización deberán obtener los informes previstos en el artículo 9.2 de la Ley 21/2003, de 7 de julio.
+
+2. En otro caso, la autorización de la construcción de estas infraestructuras o la habilitación de estas zonas no requerirá la solicitud de dichos informes debiendo respetar en todo caso las servidumbres aeronáuticas existentes, a cuyo efecto deberán atenerse a lo previsto en el Real Decreto 297/2013, de 26 de abril, por el que se modifica el Decreto 584/1972, de 24 de febrero, de Servidumbres Aeronáuticas y por el que se modifica el Real Decreto 2591/1998, de 4 de diciembre, sobre la Ordenación de los Aeropuertos de Interés General y su Zona de Servicio, en ejecución de lo dispuesto por el artículo 166 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+3. Adicionalmente, las instalaciones destinadas a uso de UAS deberán ajustarse a la normativa, autonómica o local de aplicación.

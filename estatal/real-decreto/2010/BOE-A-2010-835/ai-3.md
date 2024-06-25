@@ -2,24 +2,21 @@
 
 ## Zonas y límites de la demostración. Condiciones meteorológicas
 
-1. Aeronaves con motor (aviones, helicópteros, ULM) y planeadores.
+1. Aeronaves con motor (aviones, helicópteros, ULM) y planeadores, con exclusión de las aeronaves no tripuladas
 
 a) Las distancias mínimas de separación entre LDE y LDD según el tipo de demostración y la velocidad son las siguientes:
 
-TABLA 1
-
-Distancia de separación entre LDE y LDD según el tipo de demostración y velocidad para aeronaves con motor y planeadores
+Tabla 1. Distancia de separación entre LDE y LDD según el tipo de demostración y velocidad para aeronaves con motor y planeadores
 
 | Velocidad máxima para la demostración en km/h/h1 | Tipo de demostración |
 | --- | --- |
 | Pasadas paralelas al público | Acrobacias |
-| Menos de 100 nudos (185 km/h) | 50 m | 100 m |
-| 100 - 199 nudos (185 - 370 km/h) | 100 m | 150 m |
-| 200 - 299 nudos (370 - 550 km/h) | 150 m | 200 m |
-| 300 - 399 nudos (550 - 740 km/h) | 200 m | 250 m |
-| Más de 400 nudos (740 km/h) | 200 m | 300 m |
-
-1 Nota: En este anexo, la conversión de nudos a km/h ha sido realizada por aproximación.
+| Menos de 100 nudos (185 km/h). | 50 m | 100 m |
+| 100 - 199 nudos (185 - 370 km/h). | 100 m | 150 m |
+| 200 - 299 nudos (370 - 550 km/h). | 150 m | 200 m |
+| 300 - 399 nudos (550 - 740 km/h). | 200 m | 250 m |
+| Más de 400 nudos (740 km/h). | 200 m | 300 m |
+| 1 Nota: En este anexo, la conversión de nudos a km/h ha sido realizada por aproximación. |
 
 El director de la demostración aérea puede permitir una distancia de separación menor en las demostraciones de helicópteros en vuelo estacionario.
 
@@ -41,7 +38,7 @@ Excepcionalmente la Agencia Estatal de Seguridad Aérea puede autorizar a un pil
 
 2.º La disposición anterior no se aplicará durante el momento en que la aeronave despegue o aterrice en el lugar de la exhibición, a condición de que la fase de demostración no comience por debajo de la altura mínima permitida o haya finalizado antes de que la aeronave alcance dichas alturas. Tampoco se aplicará a los helicópteros cuando estén suspendidos en el aire durante una parte de su exhibición.
 
-3.º Cuando así venga recomendado por razones de seguridad, la Autoridad aeronáutica podrá elevar la altura mínima exigida para la realización de la demostración, incluyendo esta previsión en la Declaración de conformidad aeronáutica.
+3.º Cuando así venga recomendado por razones de seguridad, la Agencia Estatal de Seguridad Aérea podrá elevar la altura mínima exigida para la realización de la demostración, incluyendo esta previsión en la Declaración de conformidad aeronáutica.
 
 4.º Asimismo, por razones de seguridad el director de la demostración aérea puede exigir a un piloto que lleve a cabo su programa, en todo o en parte, a una altura mínima superior a la fijada o, incluso, prohibir total o parcialmente el programa de maniobras previsto.
 
@@ -51,15 +48,13 @@ c) Velocidades máximas.
 
 En una demostración aérea el piloto de demostraciones no deberá volar a velocidades superiores a 600 nudos (1.110 km/h) o Mach 0.9, y por tanto se asegurará de no iniciar ninguna maniobra que pueda producir un estampido sónico imprevisto.
 
-2. Globos y dirigibles.
+2. Globos y dirigibles, con exclusión de las aeronaves no tripuladas
 
 a) Las distancias mínimas de separación entre LDE y LDD según el tipo de demostración y condiciones de sobrevuelo son las siguientes:
 
-TABLA 2
+Tabla 2. Distancia de separación entre LDE y LDD según el tipo de demostración y velocidad para globos tripulados y dirigibles
 
-Distancia de separación entre LDE y LDD según el tipo de demostración y velocidad para globos tripulados y dirigibles
-
-| Tipo de demostración | Separación entre la LDD y la LDE | Altura mínima AGL y condiciones de sobrevuelo del publico |
+| Tipo de demostración | Separación entre la LDD y la LDE | Altura mínima AGL y condiciones de sobrevuelo del público |
 | --- | --- | --- |
 | Vuelo cautivo. | 15 m | – |
 | Vuelo libre, despegues desde la zona de demostración. | 30 m | 10 m para sobrevuelo en ascensión 5 metros sobre obstáculos. |
@@ -75,7 +70,7 @@ Cuando se considere viable la disminución de las distancias de separación, ant
 
 En todo caso, las distancias de separación entre LDD y LDE nunca serán inferiores a 20 y 30 metros para maniobras de despegue y aterrizaje respectivamente.
 
-Con vientos de velocidades superiores a 10 km/h las distancias se incrementarán al menos un 50%.
+Con vientos de velocidades superiores a 10 km/h las distancias se incrementarán al menos un 50 %.
 
 b) Debe delimitarse y señalizarse el área de presentación, no permitiéndose el acceso no controlado del público a los globos o a los vehículos que van con ellos. Salvo para las demostraciones de globos cautivos con acceso del público hasta ellos, el área de demostración y el espacio de separación entre la misma y la LDE debe estar libre de público.
 
@@ -83,11 +78,11 @@ c) El piloto es responsable de garantizar que su globo sea inflado, amarrado y t
 
 1.º Para el inflado de globos de aire caliente se deben mantener las siguientes distancias mínimas de separación del público:
 
-En ambos lados de la vela del globo una distancia no inferior a 20 metros desde el punto medio de un imaginario eje longitudinal que recorriera dicha vela.
+(i) En ambos lados de la vela del globo una distancia no inferior a 20 metros desde el punto medio de un imaginario eje longitudinal que recorriera dicha vela.
 
-A sotavento, 20 metros desde el extremo de la vela.
+(ii) A sotavento, 20 metros desde el extremo de la vela.
 
-En la zona de la barquilla la distancia mínima de separación será de 10 metros con respecto a los quemadores enganchados a la barquilla en la posición tumbada.
+(iii) En la zona de la barquilla la distancia mínima de separación será de 10 metros con respecto a los quemadores enganchados a la barquilla en la posición tumbada.
 
 2.º Cuando se hinchen globos o dirigibles de gas la distancia mínima de separación entre cualquier parte del dirigible y la LDE será de 100 metros.
 
@@ -99,9 +94,9 @@ Debe marcarse y señalizarse previamente el camino de entrada y salida que estar
 
 2.º En el caso de exhibiciones de globos cautivos en las que se prevea realizar ascensiones y suspensiones abiertas al público asistente se requieren las siguientes condiciones complementarias:
 
-La aeronave utilizada para estas ascensiones debe disponer de seguro de pasajeros y cumplir con los requisitos técnicos exigidos para realizar transporte de pasajeros.
+(i) La aeronave utilizada para estas ascensiones debe disponer de seguro de pasajeros y cumplir con los requisitos técnicos exigidos para realizar transporte de pasajeros.
 
-El piloto responsable de las operaciones, o coordinador de estas ascensiones y suspensiones, debe tener una experiencia mínima de 100 horas de vuelo en globo y estar autorizado para transporte de pasajeros. En todas las ascensiones con público a bordo, debe ir siempre en la aeronave un piloto de globo.
+(ii) El piloto responsable de las operaciones, o coordinador de estas ascensiones y suspensiones, debe tener una experiencia mínima de 100 horas de vuelo en globo y estar autorizado para transporte de pasajeros. En todas las ascensiones con público a bordo, debe ir siempre en la aeronave un piloto de globo.
 
 3.º Para cualquiera de las demostraciones anteriores con acceso de público, se cuidará y vigilará especialmente el amarrado seguro del globo en sus tres anclajes. En ningún caso se permitirá que el público se separe del camino señalado, debiendo existir siempre, además de la tripulación necesaria o conveniente para la operación aeronáutica, al menos otra persona de la organización que se ocupe de guiar y controlar la entrada y salida del público al globo.
 
@@ -111,7 +106,7 @@ En el caso de demostraciones de globos cautivos con acceso abierto al público q
 
 Si está previsto efectuar vuelos en globo libre dentro de una demostración aérea debe garantizarse que los mismos se realizarán de forma coordinada, manteniendo la separación adecuada con otros vuelos, tanto en la distancia como en el tiempo.
 
-3. Paracaidismo y parapente sin motor.
+3. Paracaidismo y parapente sin motor
 
 a) El lugar designado para el aterrizaje de los paracaidistas y de los pilotos de parapente sin motor puede estar situado dentro del área de la demostración aérea o en un sitio separado que sea utilizada para las otras exhibiciones en vuelo.
 
@@ -131,40 +126,35 @@ d) Está permitido el sobrevuelo de los espectadores en los siguientes casos:
 
 1.º Las aeronaves que transporten un equipo de paracaidistas cuando se estén situando para el lanzamiento del equipo podrán sobrevolar la zona reservada para los espectadores y la ZAA, pero nunca por debajo de 600 metros sobre el nivel del suelo, según prevé el Reglamento de Circulación Aérea.
 
-2.º Los paracaidistas y parapentistas durante el descenso pueden sobrevolar las zonas de los espectadores o la ZAA pero nunca por debajo de 10 metros AGL/ MSL.
+2.º Los paracaidistas y parapentistas durante el descenso pueden sobrevolar las zonas de los espectadores o la ZAA, pero nunca por debajo de 10 metros AGL/ MSL.
 
-4. Aeromodelismo.
+4. Sistemas de aeronaves no tripuladas (UAS)
 
-Las distancias mínimas de separación entre LDE y LDD según el tipo de demostración y peso del aeromodelo son las siguientes:
+a) Las distancias mínimas de separación entre LDE y LDD se ajustarán a lo establecido en el Reglamento de Ejecución (UE) 2019/947 de la Comisión, de 24 de mayo de 2019, relativo a las normas y los procedimientos aplicables a la utilización de aeronaves no tripuladas (en lo sucesivo, “Reglamento de Ejecución”), para las categorías operacionales en las que se enmarquen las operaciones de UAS que se van a llevar a cabo y para las aeronaves no tripuladas correspondientes.
 
-TABLA 3
+b) La LDE se delimitará de forma segura mediante cuerdas, cintas, vallas o mediante otros métodos que impidan el paso del público.
 
-Distancia de separación entre LDE y LDD según el tipo de demostración y peso del aeromodelo
+c) Los pilotos a distancia que participen en la demostración, además de cumplir con las responsabilidades definidas en la normativa vigente, deberán asegurarse de que los giros y maniobras siempre se lleven a cabo de forma que:
 
-| Aeromodelo | Peso del aeromodelo (kg) | Distancia de separación entre la LDD y la LDE |
-| --- | --- | --- |
-| Vuelo circular. | Todos. | 10 m |
-| Radiocontrolado (motor de pistón). | Menos de 10 kg. | 30 m |
-| Entre 10 kg y 25 kg. | 50 m |
-| Radiocontrolado (turbina de gas). | Todos. | 75 m |
+1.º La aeronave no tripulada no supere las distancias de separación establecidas.
 
-Para exhibición de aeromodelos radiocontrolados de más de 3 metros de envergadura y/o peso superior 25 kg, las distancias de separación previstas en la tabla 3 deberán aumentarse al menos en 25 metros. Igualmente, se aumentarán en esa distancia cuando se vayan a alcanzar velocidades superiores a 200 km/h.
+2.º Se apliquen los márgenes adecuados cuando, durante una exhibición, una aeronave no tripulada tenga un vector velocidad hacia los espectadores.
 
-Con carácter general, en las demostraciones de radio control, para aumentar las condiciones de seguridad y dejar máxima libertad de maniobras a los aeromodelos que realizan la exhibición, la zona reservada a los espectadores se situará en un sólo lado respecto del emplazamiento del área de presentación. En ningún caso podrá haber espectadores en la prolongación de la pista, ni en el sector de aproximación ni en el de despegue.
+3.º Se tenga debidamente en cuenta los efectos de cualquier componente de viento en contra de los espectadores, tiempos de respuesta o procedimientos anormales o de emergencia.
 
-En las demostraciones de aeromodelismo de vuelo circular, el área de presentación debe estar vallada en todo su perímetro con una malla de suficiente resistencia y de al menos 2 metros de altura para evitar que accidentalmente un aeromodelo pueda salirse del área de presentación; la malla coincidirá con la LDD. En las demostraciones de vuelo circular puede preverse la situación del público alrededor de toda el área de presentación, pero siempre a partir de la LDE.
+4.º Cuando las aeronaves no tripuladas vuelen en formación, la distancia mínima de separación vendrá determinada por la aeronave no tripulada que vuele más cerca de la línea de demarcación de los espectadores.
 
-Tanto en vuelo circular como en radio control, la LDE se delimitará de forma segura mediante cuerdas, cintas, vallas o mediante otros métodos que impidan el paso del público.
+d) Con carácter general, la zona reservada a los espectadores se situará en un solo lado respecto del emplazamiento del área de presentación.
 
-Los vuelos de los aeromodelos se deben realizar con la separación adecuada respecto de las otras exhibiciones en vuelo de la demostración, tanto en la distancia como en el tiempo.
+e) Dependiendo del riesgo de la operación y a criterio del director de la demostración, el área de presentación puede estar vallada en todo su perímetro o en una parte del mismo con una malla de suficiente resistencia y, en su caso, con una altura suficiente para evitar que accidentalmente una aeronave no tripulada pueda salirse del área de presentación.
 
-5. Mínimos meteorológicos.
+f) Los vuelos de las aeronaves no tripuladas se deben realizar con la separación adecuada respecto de las otras exhibiciones en vuelo de la demostración, tanto en distancia como el tiempo.
 
-a) Condiciones mínimas meteorológicas para la realización de demostraciones aéreas por aeronaves con motor y planeadores.
+5. Mínimos meteorológicos
 
-TABLA 4
+a) Condiciones mínimas meteorológicas para la realización de demostraciones aéreas por aeronaves tripuladas con motor y planeadores.
 
-Condiciones meteorológicas mínimas
+Tabla 4. Condiciones meteorológicas mínimas
 
 | Aeronaves | Tipo de demostración aérea | Mínimos meteorológicos |
 | --- | --- | --- |
@@ -172,8 +162,8 @@ Condiciones meteorológicas mínimas
 | V/STOL, Aeronaves de ala giratoria, y otras aeronaves con velocidades de pérdida inferiores a 50 nudos (90 km/h). | Pasadas o acrobacias planas. | Aeronave única. | 150 | 1,5 |
 | Formaciones. | 150 | 3 |
 | Exhibiciones acrobáticas completas. | Aeronave única. | 150 | 3 |
-| Formaciones. | 240 | 5 |
-| Otras aeronaves. | Pasadas o acrobacias planas. | Aeronave única. | 150 | 3 |
+| Formaciones | 240 | 5 |
+| Otras aeronaves | Pasadas o acrobacias planas. | Aeronave única. | 150 | 3 |
 | Formaciones. | 240 | 5 |
 | Exhibiciones acrobáticas completas. | Aeronave única. | 300 | 5 |
 | Formaciones motor pistón. | 300 | 5 |
@@ -181,4 +171,6 @@ Condiciones meteorológicas mínimas
 
 b) El director de la demostración se responsabilizará de que las demostraciones de aerostación sólo se realicen en condiciones meteorológicas favorables. Podrá cancelar total o parcialmente las demostraciones con globos y dirigibles cuando la velocidad del viento supere los 18 km/h (10 nudos) y no las permitirá para velocidades superiores a 30 km/h (16 nudos).
 
-c) No está permitido el vuelo de los modelos radiocontrolados en caso de lluvia fuerte o tormenta, o cuando la velocidad del viento supere los 25 nudos (45 km/h), o cuando la visibilidad sea inferior a 500 metros.
+c) En el caso de aeronaves no tripuladas, los operadores de UAS serán los responsables de definir e informar al director de la demostración de las limitaciones operacionales, consideraciones medioambientales y procedimientos de contingencia y de emergencia pertinentes, en función de las categorías operacionales en las que se enmarquen las operaciones de UAS que van a llevar a cabo y de las características técnicas particulares de las aeronaves no tripuladas propias participantes en la demostración.
+
+> Se modifica por la disposición final 2.17 del Real Decreto 517/2024, de 4 de junio. Ref. BOE-A-2024-11377#df-2

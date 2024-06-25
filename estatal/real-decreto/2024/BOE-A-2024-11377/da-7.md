@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Entidad responsable para la puesta a disposición de información sobre zonas geográficas de UAS en un formato digital común único.
+
+La entidad pública empresarial ENAIRE es la entidad responsable de la puesta a disposición, en un formato digital común único, de la información sobre las zonas geográficas de UAS identificadas en territorio y espacio aéreo de soberanía española, de acuerdo con la letra f) del artículo 18 Reglamento de Ejecución, mientras el Ministerio de Transportes y Movilidad Sostenible no designe a otra entidad u organismo para dicha tarea de conformidad con el artículo 60, apartado 5.

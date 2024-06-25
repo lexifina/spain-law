@@ -1,0 +1,3 @@
+## Disposición adicional primera. Notificación de accidentes e incidentes graves.
+
+Los operadores de las actividades o servicios no EASA de LCI o SAR realizados directamente por el organismo investido de autoridad pública o en nombre de éste, ya sean en la categoría «abierta», «específica» o «certificada», están obligados a notificar a la Comisión de Investigación de Accidentes e Incidentes de Aviación Civil los accidentes e incidentes graves definidos en el Reglamento (UE) n.º 996/2010 del Parlamento Europeo y del Consejo, de 20 de octubre, de 2010, sobre investigación y prevención de accidentes e incidentes en la aviación civil y por el que se deroga la Directiva 94/56/CE.

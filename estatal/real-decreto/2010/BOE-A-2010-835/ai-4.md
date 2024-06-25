@@ -4,11 +4,9 @@
 
 I. Documentación que debe acompañar a la solicitud
 
-1. En cumplimiento de lo dispuesto en el artículo único del Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes, será preciso el consentimiento del solicitante para que sus datos de identidad personal puedan ser consultados por el Sistema de Verificación de Datos de Identidad por el órgano instructor, debiendo constar dicho consentimiento en la solicitud de iniciación del procedimiento o en cualquier otra comunicación posterior.
+1. De acuerdo con el artículo 28 de la Ley 39/2015, de 1 de octubre, el solicitante de una declaración de conformidad aeronáutica tiene derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan sido elaborados por cualquier otra Administración. La administración actuante podrá consultar o recabar dichos documentos salvo que el interesado se opusiera a ello.
 
-En caso de no constar dicho consentimiento deberá presentarse una fotocopia del documento que acredite la identidad del organizador o su representante (Documento Nacional de Identidad, o tarjeta equivalente de los extranjeros residentes en territorio español, del organizador si se trata de una persona física, o del código de identificación fiscal para el caso de personas jurídicas junto con la acreditación de la persona física que la represente). Se adjuntará, además, fotocopia del DNI o NIE del director y del director suplente de la demostración.
-
-No será precisa la presentación de esta documentación cuando no haya sufrido modificación y estuvieran en poder de la Administración General del Estado, en cuyo caso el solicitante podrá acogerse a lo establecido en el artículo 35.f) de la Ley 30/1992, de 26 de noviembre, siempre que haga constar, por escrito, la fecha y el órgano o dependencia en que fueron presentados y cuando no hayan transcurrido más de cinco años desde la finalización del procedimiento al que correspondan.
+En caso de constar dicha oposición, junto con la solicitud deberá presentarse una fotocopia del documento que acredite la identidad del organizador o su representante (Documento Nacional de Identidad, o tarjeta equivalente de los extranjeros residentes en territorio español, del organizador si se trata de una persona física, o del código de identificación fiscal para el caso de personas jurídicas junto con la acreditación de la persona física que la represente). Se adjuntará, además, fotocopia del DNI o NIE del director y del director suplente de la demostración.
 
 2. Gráfico de dimensiones y distancias en proporciones reales, de las instalaciones y de la zona afectada por la demostración aérea, que comprenda:
 
@@ -93,3 +91,5 @@ II. Modelo solicitud de declaración de conformidad aeronáutica
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/16/00835_00835-6.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2010/16/00835_00835-7.png)
+
+> Se modifica el apartado 1 por la disposición final 2.18 del Real Decreto 517/2024, de 4 de junio. Ref. BOE-A-2024-11377#df-2
