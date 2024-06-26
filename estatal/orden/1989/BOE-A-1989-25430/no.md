@@ -1,3 +1,1 @@
-Téngase en cuenta que, sin perjuicio de lo previsto en la disposición derogatoria única del Real Decreto 853/2022, de 11 de octubre, por el que se aprueba el Reglamento de procesos selectivos y formación de la Policía Nacional, y hasta tanto entren en vigor las disposiciones necesarias para la ejecución y desarrollo del reglamento que se aprueba por este real decreto, será aplicable, en cuanto sea compatible con el contenido del mismo, la presente Orden, según establece la disposición transitoria segunda del citado Real Decreto. Ref. BOE-A-2022-16582#dt-2.
-
-> Incluye la corrección de errores publicada en BOE núm. 311, de 28 de diciembre de 1989. Ref. BOE-A-1989-30479.
+Norma derogada, con efectos desde el 26 de junio de 2024, por la disposición derogatoria única de la Orden INT/632/2024, de 20 de junio. Ref. BOE-A-2024-12811#dd

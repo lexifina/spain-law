@@ -170,13 +170,21 @@ Estar en posesión de título de:
 
 3.1 Estar en posesión de la titulación en alguna de las artes marciales reconocidas oficialmente: Hasta 1,50.
 
-3.2 Estar en posesión del Grado de Aptitud Física policial acreditado con Diploma vigente:
+3.2 Estar en posesión de Grados de Aptitud Física Policial acreditados: hasta 6,00 puntos.
 
-Grado A: 1,50.
+El Grado de Aptitud Física Policial comprenderá los niveles A, B, C y D, en función de la puntuación obtenida en la realización de las pruebas que se establezcan mediante resolución de la persona titular de la Dirección General de la Policía.
 
-Grado B: 1,00.
+El baremo obtenido anualmente en función del nivel alcanzado será el siguiente:
 
-Grado C: 0,50.
+Nivel A: 0,30 puntos.
+
+Nivel B: 0,20 puntos.
+
+Nivel C: 0,15 puntos.
+
+Nivel D: 0,10 puntos.
+
+Las puntuaciones obtenidas anualmente conforme los niveles indicados se irán acumulando hasta alcanzar el máximo establecido.
 
 ## C. Antigüedad
 
@@ -193,5 +201,7 @@ Por cada año de servicio efectivo prestado en el Cuerpo Nacional de Policía en
 5. Inspector Jefe: 3.
 
 6. Comisario: 3,5.
+
+> Se modifica el punto 3.2 del Apartado B por la disposición final 2.2 de la Orden INT/632/2024, de 20 de junio. Ref. BOE-A-2024-12811#df-2
 
 > Se modifica el punto 2 del Apartado A por el art. único de la Orden INT/575/2012, de 20 de febrero. Ref. BOE-A-2012-4036.

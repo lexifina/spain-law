@@ -1,9 +1,7 @@
 ## ANEXO I
 
-1. Carné profesional de los funcionarios del Cuerpo Nacional de Policía de las Escalas Superior, Ejecutiva, de Subinspección y Básica.
+Carné profesional del personal funcionario de carrera de la Policía Nacional de las escalas Superior, Ejecutiva, de Subinspección y Básica, y del personal facultativo y técnico.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2007/76/06604_001.png)
 
-2. Carné profesional de los funcionarios del Cuerpo Nacional de Policía Facultativos y Técnicos.
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2007/76/06604_002.png)
+> Se modifica por la disposición final 1 de la Orden INT/632/2024, de 20 de junio. Ref. BOE-A-2024-12811#df
