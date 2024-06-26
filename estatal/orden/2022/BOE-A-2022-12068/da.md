@@ -26,14 +26,20 @@ d) En caso de disponer de plazas para personas en situación de vulnerabilidad, 
 
 Cuando no sea posible hacer referencia a plaza ocupada y unidad temporal, y para el caso de servicios adicionales a los de acogida, se establecerán los precios por persona destinataria de los servicios.
 
-7. Para la justificación bimestral, trimestral o cuatrimestral de la actividad desarrollada, la entidad autorizada deberá presentar el certificado emitido por el representante legal de la entidad donde se haga constar el número total de plazas diarias ocupadas y puestas a disposición del órgano de concertación También se indicará el tipo de recurso de acogida y si la plaza es específica para perfiles vulnerables.
+7. Para la justificación periódica de la actividad desarrollada, la entidad autorizada deberá presentar el certificado emitido por el representante legal de la entidad donde se haga constar el número total de plazas diarias ocupadas y puestas a disposición del órgano de concertación. También se indicará el tipo de recurso de acogida y si la plaza es específica para perfiles vulnerables.
 
 Para los servicios adicionales cuyos indicadores se determinan por el número de personas destinatarias, se emitirá otra certificación donde se indique el tipo de servicio y el número final de personas destinatarias atendidas.
 
-Para la justificación del coste efectivamente incurrido, la entidad deberá presentar antes del último día del mes siguiente al periodo a justificar, la siguiente documentación:
+Para la justificación del coste efectivamente incurrido, la entidad deberá presentar la siguiente documentación:
 
-a) La relación de costes efectivamente incurridos en la prestación del servicio con el importe que solicita le sea abonado.
+a) La relación de costes efectivamente incurridos, por cada tipología de plaza o servicio.
 
-b) Documento contable con los gastos e ingresos de la actividad de acción concertada obtenido directamente del sistema informatizado como, por ejemplo, un extracto analítico con los gastos e ingresos originados por la actividad concertada o centro de gasto, firmado electrónicamente por el representante de la entidad autorizada y por el responsable financiero.
+b) La cuenta de pérdidas y ganancias, en la que figuren los ingresos y gastos contabilizados, junto con un certificado indicando el importe de las inversiones realizadas.
 
-8. Las entidades dispondrán de tres meses desde la finalización de cada periodo anual para presentar la justificación del coste efectivamente incurrido por los servicios concertados, llevándose a cabo la presentación de dicha memoria anual según el artículo 17.
+c) Un certificado en el que figuren los ingresos y costes efectivamente incurridos y, si procede, el importe que solicita le sea abonado. Dicho certificado recogerá las fuentes de financiación en el caso de actuaciones, prestaciones y servicios cofinanciadas con fondos europeos.
+
+La justificación periódica de la actividad desarrollada y del coste efectivamente incurrido deberá presentarse en un plazo de un mes desde el final del periodo a justificar.
+
+8. Las entidades dispondrán de tres meses desde el fin del periodo de la asignación para presentar la justificación del coste efectivamente incurrido y pagado por los servicios prestados mediante acción concertada correspondientes al periodo de asignación según el artículo 17.
+
+> Se modifican los apartados 7 y 8 por el art. único.18 de la Orden ISM/535/2024, de 29 de mayo. Ref. BOE-A-2024-11487
