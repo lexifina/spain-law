@@ -46,11 +46,15 @@ Museo de Aeronáutica y Astronáutica.
 
 La Casa de la Arquitectura.
 
-## Museos adscritos al Ministerio de Ciencia e Innovación
+## Museos adscritos al Ministerio de Ciencia, Innovación y Universidades
 
 Museo Nacional de Ciencia y Tecnología.
 
 Museo Nacional de Ciencias Naturales.
+
+Museo Cajal.
+
+> Se modifica por la disposición final 1 del Real Decreto 590/2024, de 25 de junio. Ref. BOE-A-2024-12864#df
 
 > Se modifica por la disposición final 2 del Real Decreto 1125/2023, de 19 de diciembre. Ref. BOE-A-2023-25761#df-2
 
