@@ -1,6 +1,6 @@
 ## Disposición adicional octava. Cuerpos de catedráticos.
 
-1. Los funcionarios de los cuerpos de catedráticos de enseñanza secundaria, de música y artes escénicas, de escuelas oficiales de idiomas y de artes plásticas y diseño realizarán las funciones que se les encomiendan en la presente Ley y las que reglamentariamente se determinen.
+1. El profesorado perteneciente a los Cuerpos de Catedráticos de Enseñanza Secundaria, de Enseñanzas Artísticas Profesionales, de Escuelas Oficiales de idiomas, y de los Cuerpos a extinguir de Catedráticos de Música y Artes Escénicas y de Artes Plásticas y Diseño, realizarán las funciones que se les encomiendan en esta ley y las que reglamentariamente se determinen. Los funcionarios de los Cuerpos de Catedráticos y Catedráticas de Enseñanzas Artísticas Superiores realizarán las funciones que se dispongan en su normativa específica.
 
 2. Con carácter preferente se atribuyen a los funcionarios de los cuerpos citados en el apartado anterior, las siguientes funciones:
 
@@ -18,6 +18,8 @@ e) La presidencia de los tribunales de acceso y en su caso ingreso a los respect
 
 4. La habilitación prevista en la disposición adicional primera de la Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación profesional, se extenderá a los funcionarios de los cuerpos de catedráticos de enseñanza secundaria en las condiciones y con los requisitos establecidos en dicha Ley.
 
-5. Los funcionarios de los correspondientes cuerpos de catedráticos de enseñanza secundaria, escuelas oficiales de idiomas y de artes plásticas y diseño participarán en los concursos de provisión de puestos conjuntamente con los funcionarios de los cuerpos de profesores de los niveles correspondientes, a las mismas vacantes, sin perjuicio de los méritos específicos que les sean de aplicación por su pertenencia a los mencionados cuerpos de catedráticos.
+5. Los funcionarios de los correspondientes Cuerpos de Catedráticos de Enseñanza Secundaria, Enseñanzas Artísticas Superiores, Enseñanzas Artísticas Profesionales, Escuelas Oficiales de Idiomas y de Artes Plásticas y Diseño a extinguir, participarán en los concursos de provisión de puestos conjuntamente con los funcionarios de los cuerpos de profesores de los niveles correspondientes, a las mismas vacantes, sin perjuicio de los méritos específicos que les sean de aplicación por su pertenencia a los mencionados cuerpos de catedráticos.
 
 6. La pertenencia a alguno de los cuerpos de catedráticos se valorará, a todos los efectos, como mérito docente específico.
+
+> Se modifican los apartados 1 y 5 por la disposición final 2.12 de la de la Ley 1/2024, de 7 de junio. Ref. BOE-A-2024-11613#df-2

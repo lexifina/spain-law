@@ -10,11 +10,15 @@ b bis) El cuerpo de profesores especialistas en sectores singulares de formació
 
 c) El cuerpo a extinguir de profesores técnicos de formación profesional, que desempeñará sus funciones en la formación profesional y, excepcionalmente, en las condiciones que se establezcan, en la educación secundaria obligatoria.
 
-d) El cuerpo de profesores de música y artes escénicas, que desempeñará sus funciones en las enseñanzas elementales y profesionales de música y danza, en las enseñanzas de arte dramático y, en su caso, en aquellas materias de las enseñanzas superiores de música y danza o de la modalidad de artes del bachillerato que se determinen.
+d) Los Cuerpos de Profesores y Profesoras y Catedráticos y Catedráticas de Enseñanzas Artísticas Superiores, que desempeñarán sus funciones en los estudios superiores de los centros de enseñanzas artísticas superiores.
 
-e) El cuerpo de catedráticos de música y artes escénicas, que desempeñará sus funciones en las enseñanzas superiores de música y danza y en las de arte dramático.
+d bis) Los Cuerpos de Profesores y Profesoras y Catedráticos y Catedráticas de Enseñanzas Artísticas Profesionales que desempeñarán sus funciones en las enseñanzas artísticas profesionales y, en su caso, elementales, y en las enseñanzas de la modalidad de artes del bachillerato que se determinen.
 
-f) Los cuerpos de catedráticos de artes plásticas y diseño y de profesores de artes plásticas y diseño, que desempeñarán sus funciones en las enseñanzas de artes plásticas y diseño, en las enseñanzas de conservación y restauración de bienes culturales y en las enseñanzas de la modalidad de artes del bachillerato que se determinen.
+e) El Cuerpo a extinguir de Profesores de Música y Artes Escénicas que seguirá desempeñando sus funciones en las enseñanzas elementales y profesionales de música y danza, en las enseñanzas de arte dramático y en su caso en las enseñanzas superiores de música y danza o de la modalidad de artes del bachillerato que se determinen.
+
+e bis) El Cuerpo a extinguir de Catedráticos de Música y Artes Escénicas, que seguirá desempeñando sus funciones en las enseñanzas superiores de música y de danza y en las de arte dramático.
+
+f) Los Cuerpos a extinguir de Catedráticos y de Profesores de Artes Plásticas y Diseño, que seguirán desempeñando sus funciones en las enseñanzas de artes plásticas y diseño, en las enseñanzas de conservación y restauración y en las enseñanzas de la modalidad de artes del Bachillerato que se determinen.
 
 g) El cuerpo de maestros de taller de artes plásticas y diseño, que desempeñará sus funciones en las enseñanzas de artes plásticas y diseño y en las enseñanzas de conservación y restauración de bienes culturales.
 
@@ -31,6 +35,8 @@ Los cuerpos y escalas declarados a extinguir por la presente ley, así como por 
 Asimismo, las Administraciones educativas podrán establecer los requisitos de formación o titulación que deben cumplir los funcionarios de los cuerpos que imparten la educación secundaria obligatoria para impartir enseñanzas de los primeros cursos de esta etapa correspondientes a otra especialidad, de acuerdo con lo establecido en el apartado 3 del artículo 26.
 
 No obstante, los procesos selectivos y concursos de traslados de ámbito estatal tendrán en cuenta únicamente las especialidades docentes.
+
+> Se añaden las letras d bis), e bis) y se modifican las d), e), f) del apartado 1 por la disposición final 2.11 de la de la Ley 1/2024, de 7 de junio. Ref. BOE-A-2024-11613#df-2
 
 > Se añade la letra b bis) al apartado 1 por la disposición final 1.2 de la Ley Orgánica 3/2022, de 31 de marzo. Ref. BOE-A-2022-5139#df
 

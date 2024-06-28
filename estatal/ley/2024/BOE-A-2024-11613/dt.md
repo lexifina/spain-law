@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicabilidad de la organización de las enseñanzas artísticas superiores prevista en la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+En tanto no se lleve a cabo el desarrollo reglamentario relativo a la ordenación de las enseñanzas previsto en el artículo 6.3, seguirá siendo de aplicación lo previsto en los artículos 54, 55, 56 y 57 de la Ley Orgánica 2/2006, de 3 de mayo, con relación a la organización de estudios superiores de música y de danza, las enseñanzas de arte dramático, las enseñanzas de conservación y restauración de bienes culturales y los estudios superiores de artes plásticas y diseño, así como en la normativa de desarrollo.

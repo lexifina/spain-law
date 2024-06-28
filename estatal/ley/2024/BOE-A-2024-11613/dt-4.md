@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Convocatoria de procesos selectivos.
+
+Hasta tanto se complete el desarrollo reglamentario de los nuevos cuerpos que se crean en esta ley, se habilita a las administraciones educativas competentes para que puedan continuar realizando procesos selectivos de ingreso y de acceso de funcionarios de carrera en los cuerpos actualmente existentes, de Catedráticos de Música y Artes Escénicas, de Profesores de Música y Artes Escénicas, de Catedráticos de Artes Plásticas y Diseño, y de Profesores de Artes Plásticas y Diseño, así como para el nombramiento de personal interino en esos cuerpos, con los requisitos que existían para cada uno de ellos.

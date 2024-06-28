@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Registro Estatal de Enseñanzas Artísticas Superiores.
+
+En el Ministerio de Educación, Formación Profesional y Deportes existirá el Registro Estatal de Enseñanzas Artísticas Superiores, sin perjuicio de que puedan establecerse mecanismos que permitan la interoperabilidad de dicho registro con el Registro de Universidades, Centros y Títulos. Este registro tendrá carácter público y en él, a instancias de las administraciones autonómicas competentes, se inscribirán los centros que impartan las enseñanzas a las que se refiere esta ley, así como los títulos oficiales de dichas enseñanzas con validez en todo el Estado. El Gobierno regulará su régimen, organización y funcionamiento.

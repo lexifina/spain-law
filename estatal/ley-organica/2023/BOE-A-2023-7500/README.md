@@ -157,6 +157,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria séptima](dt-7.md)
 - [Disposición transitoria octava](dt-8.md)
 - [Disposición transitoria novena](dt-9.md)
+- [Disposición transitoria novena bis](dt-13.md)
 - [Disposición transitoria décima](dt-10.md)
 - [Disposición transitoria décima primera](dt-11.md)
 - [Disposición transitoria décima segunda](dt-12.md)

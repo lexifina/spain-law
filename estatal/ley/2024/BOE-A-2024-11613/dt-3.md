@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Integración del profesorado que haya impartido simultáneamente enseñanzas profesionales y enseñanzas superiores en el Cuerpo de Profesores y Profesoras de Enseñanzas Artísticas Superiores.
+
+El profesorado perteneciente al Cuerpo de Profesores de Artes Plásticas y Diseño y de Profesores de Música y Artes Escénicas que haya impartido durante cinco años simultáneamente enseñanzas profesionales y enseñanzas superiores a la entrada en vigor de esta ley podrá solicitar su integración en el Cuerpo de Profesores y Profesoras de Enseñanzas Artísticas Superiores en las mismas condiciones que el profesorado al que se refiere el apartado 2 de la disposición anterior.
