@@ -4,22 +4,22 @@
 
 AVI.1 Ensayos de identificación
 
-AVI.1.1 Cementos comunes:
+AVI.1.1 Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5.
 
 | Cementos comunes | Ensayos |
 | --- | --- |
-| CEM I | Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). Determinación de pérdida por calcinación. Determinación de componentes. |
-| CEM II | Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). Determinación de componentes. |
-| CEM III | Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). Determinación de pérdida por calcinación. Determinación de componentes (*). |
-| CEM IV | Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). Ensayo de puzolanicidad a las edades de 8 y/o 15 días. Determinación de componentes. |
-| CEM V | Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). Determinación de componentes.(*) |
+| CEM I | – Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). – Determinación de pérdida por calcinación. – Determinación de componentes. |
+| CEM II | – Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). – Determinación de componentes. – Ensayo de puzolanicidad a las edades de 8 o 15 días (**). |
+| CEM III | – Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). – Determinación de pérdida por calcinación. – Determinación de componentes (*). |
+| CEM IV | – Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). – Ensayo de puzolanicidad a las edades de 8 o 15 días. – Determinación de componentes. |
+| CEM V | – Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). – Determinación de componentes (*). |
+| CEM VI | – Resistencias mecánicas (a las edades de 7 y 28 días para clases resistentes 32,5 N, y a 2 y 28 días para el resto). – Determinación de componentes (*). |
+| (*) La determinación de los componentes para el caso de los cementos CEM III y CEM V, será exclusivamente cualitativa, restringiéndose a comprobar que no se trata de un tipo de cemento diferente del que se ha solicitado. (**) En el caso de cementos CEM II/C-M que no contengan escorias de horno alto se deberá realizar el ensayo de puzolanicidad. |
 | Cementos comunes de bajo calor de hidratación | Ensayos |
 | --- | --- |
-| CEM I a V - LH | Los exigidos para la identificación de los cementos comunes (CEM) con designación homónima (I a V). Determinación del calor de hidratación. |
+| CEM I a VI - LH | – Los exigidos para la identificación de los cementos comunes (CEM) con designación homónima (I a VI). – Determinación del calor de hidratación. |
 
-(*) La determinación de los componentes para el caso de los cementos CEM III y CEM V, será exclusivamente cualitativa, restringiéndose a comprobar que no se trata de un tipo de cemento diferente del que se ha solicitado.
-
-AVI.1.2 Cementos comunes con características adicionales:
+AVI.1.2 Cementos comunes de la norma UNE-EN 197-1 con características adicionales:
 
 | Cementos resistentes a los sulfatos | Ensayos |
 | --- | --- |
@@ -58,43 +58,22 @@ AVI.1.3 Otros cementos:
 
 AVI.2 Ensayos complementarios
 
-AVI.2.1 Cementos comunes:
+AVI.2.1 Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5:
 
 | Cementos comunes | Ensayos aplicables |
 | --- | --- |
-| CEM I | Estabilidad de volumen. |
-| Tiempos de fraguado. |
-| Residuo insoluble. |
-| Contenido de sulfatos. |
-| Contenido de cloruros. |
-| CEM II | Estabilidad de volumen. |
-| Tiempos de fraguado. |
-| Contenido de sulfatos. |
-| Contenido de cloruros. |
-| CEM III | Estabilidad de volumen. |
-| Tiempos de fraguado. |
-| Residuo insoluble. |
-| Contenido de sulfatos. |
-| Contenido de cloruros. |
-| CEM IV | Estabilidad de volumen. |
-| Tiempos de fraguado. |
-| Contenido de sulfatos. |
-| Contenido de cloruros. |
-| CEM V | Estabilidad de volumen. |
-| Tiempos de fraguado. |
-| Contenido de sulfatos. |
-| Contenido de cloruros. |
+| CEM I | – Estabilidad de volumen – Tiempos de fraguado – Residuo insoluble – Contenido de sulfatos – Contenido de cloruros |
+| CEM II | – Estabilidad de volumen – Tiempos de fraguado – Contenido de sulfatos – Contenido de cloruros |
+| CEM III | – Estabilidad de volumen – Tiempos de fraguado – Residuo insoluble – Contenido de sulfatos – Contenido de cloruros |
+| CEM IV | – Estabilidad de volumen – Tiempos de fraguado – Contenido de sulfatos – Contenido de cloruros |
+| CEM V | – Estabilidad de volumen – Tiempos de fraguado – Contenido de sulfatos – Contenido de cloruros |
+| CEM VI | – Estabilidad de volumen – Tiempos de fraguado – Contenido de sulfatos – Contenido de cloruros |
 | Cementos comunes de bajo calor de hidratación | Ensayos aplicables |
 | --- | --- |
-| CEM I a V - LH | Estabilidad de volumen. |
-| Tiempos de fraguado. |
-| Residuo insoluble (*). |
-| Contenido de sulfatos. |
-| Contenido de cloruros. |
+| CEM I a VI - LH | – Estabilidad de volumen – Tiempos de fraguado – Residuo insoluble (*) – Contenido de sulfatos – Contenido de cloruros |
+| (*) Sólo para cementos tipos I y III. |
 
-(*) Sólo para cementos tipos I y III.
-
-AVI.2.2 Cementos comunes con características adicionales:
+AVI.2.2 Cementos comunes de la norma UNE-EN 197-1 con características adicionales:
 
 | Cementos resistentes a los sulfatos | Ensayos aplicables |
 | --- | --- |
@@ -149,3 +128,7 @@ AVI.2.3 Otros cementos:
 | Cementos blancos | Ensayos aplicables |
 | --- | --- |
 | BL | Los exigidos como ensayos complementarios para los cementos comunes (CEM) con designación homónima (I a V). |
+
+> Se modifica por el art. único.46 a 49 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.

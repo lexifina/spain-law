@@ -4,7 +4,7 @@ A los efectos de esta Instrucción, durante la recepción de los cementos, debe 
 
 7.1 Consideraciones generales.
 
-En el caso de que la recepción se efectúe en obra, el plan de control elaborado por el autor del proyecto, de acuerdo con esta Instrucción, deberá establecer pautas y criterios para su ejecución al tiempo que el programa de control aprobado por la Dirección Facultativa (en obras de edificación corresponde al Director de Ejecución), para el desarrollo de dicho plan, deberá posibilitar su cumplimiento y su adecuación a las circunstancias de la obra. Análogamente, en otros casos, la recepción se realizará de acuerdo con el programa de control específico elaborado, de acuerdo con esta Instrucción, para tal fin.
+En el caso de que la recepción se efectúe en obra, el plan de control elaborado por el autor del proyecto, de acuerdo con esta Instrucción, deberá establecer pautas y criterios para su ejecución al tiempo que el programa de control aprobado por la dirección facultativa (en obras de edificación corresponde al director de ejecución), para el desarrollo de dicho plan, deberá posibilitar su cumplimiento y su adecuación a las circunstancias de la obra. Análogamente, en otros casos, la recepción se realizará de acuerdo con el programa de control específico elaborado, de acuerdo con esta Instrucción, para tal fin.
 
 El responsable de la recepción deberá velar por que los cementos, una vez aceptados, sean almacenados y tratados de forma que se garantice el mantenimiento de sus prestaciones hasta el momento de su empleo.
 
@@ -39,3 +39,7 @@ a) En general, se mantendrán los criterios de establecimiento de lotes previame
 b) El responsable de la recepción o persona autorizada podrá fijar un tamaño inferior para la formación de lotes en el caso de que lo estime oportuno.
 
 En el apartado AV.3 de esta Instrucción se establecen criterios para la realización de la toma de muestras.
+
+> Se modifica el primer párrafo del apartado 1 por el art. único.5 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.

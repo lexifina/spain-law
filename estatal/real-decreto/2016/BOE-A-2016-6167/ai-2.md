@@ -1,18 +1,18 @@
 ## ANEJO II
 
-## Cementos sujetos al Real Decreto 1313/1988. Composición, designación, prescripciones y normas de referencia
+## Cementos sujetos al Real Decreto 1313/1988, de 28 de octubre. Composición, designación, prescripciones y normas de referencia
 
-AII.1 Composición, designación y prescripciones de los cementos sujetos al Real Decreto 1313/1988
+AII.1 Composición, designación y prescripciones de los cementos sujetos al Real Decreto 1313/1988, de 28 de octubre
 
-Los cementos sujetos al Real Decreto 1313/1988 son todos aquéllos que presentan características adicionales de resistencia a los sulfatos, resistencia al agua de mar o blancura, así como aquéllos con características especiales, cuyas características no están definidas por ninguna norma europea armonizada.
+Los cementos sujetos al Real Decreto 1313/1988, de 28 de octubre, son todos aquéllos que presentan características adicionales de resistencia a los sulfatos, resistencia al agua de mar o blancura, así como aquéllos con características especiales, cuyas características no están definidas por ninguna norma europea armonizada.
 
-Todos los cementos sujetos al Real Decreto 1313/1988 tienen, a su vez, marcado CE excepto los cementos para usos especiales. Por tanto, deberán tener una designación conforme con el Real Decreto 1313/1988 y otra conforme con el marcado CE definido en el Anejo I. Por simplificación, en determinadas ocasiones y por razones de falta de espacio, podrá aparecer únicamente la designación conforme con la norma UNE correspondiente. Sin embargo, nunca se omitirá el recuadro del marcado CE cuando aplique.
+Todos los cementos sujetos al Real Decreto 1313/1988, de 28 de octubre, tienen, a su vez, marcado CE, excepto los cementos para usos especiales y los cementos CEM II/C-M y CEM VI. En el primero de los casos, deberán tener una designación conforme con el Real Decreto 1313/1988, de 28 de octubre, y otra conforme con el marcado CE definido en el anejo I. Por simplificación, en determinadas ocasiones y por razones de falta de espacio, podrá aparecer únicamente la designación conforme con la norma UNE correspondiente. Sin embargo, nunca se omitirá el recuadro del marcado CE si fuera de aplicación.
 
 Los requisitos para la composición se refieren a la suma de todos los componentes principales y minoritarios adicionales. Se sobreentiende que el cemento final es la suma de los componentes principales y minoritarios adicionales más el sulfato de calcio necesario y cualquier aditivo.
 
 AII.2 Cementos resistentes a los sulfatos
 
-Se consideran cementos resistentes a los sulfatos, además de los definidos en el Anejo I relativos a la norma UNE-EN 197-1 (SR), aquéllos con la característica adicional de resistencia a los sulfatos definidos en las norma UNE 80303-1 (SRC).
+Se consideran cementos resistentes a los sulfatos, además de los definidos en el anejo I relativos a la norma UNE-EN 197-1 (SR), aquéllos con la característica adicional de resistencia a los sulfatos definidos en la norma UNE 80303-1 (SRC).
 
 AII.2.1 Composición y prescripciones.
 
@@ -31,19 +31,20 @@ Tabla AII.2.1 Prescripciones adicionales para los cementos resistentes a los sul
 | II | Con ceniza volante (V) | II/A-V |
 | II | II/B-V |
 | III | Cementos con adiciones, resistentes a sulfatos | Con escoria de horno alto (S) | III/A | ≤ 8,0 | ≤ 25,0 |
+|  |  |
+|  |  |
 | V | Cementos compuestos (S+P+V) | V/A | ≤ 8,0 | ≤ 25,0 |
-
-Las prescripciones sobre C3A y (C3A + C4AF) se refieren a porcentajes en masa de clínker. Los contenidos de C3A y C4AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2.
+| Las prescripciones sobre C3A y (C3A + C4AF) se refieren a porcentajes en masa de clínker. Los contenidos de C3A y C4AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2. |
 
 Los materiales puzolánicos que formen parte de estos cementos (cenizas volantes silíceas, puzolanas naturales y humo de sílice en su caso) cumplirán las siguientes prescripciones:
 
-a) la relación SiO2/(CaO+MgO), en tanto por ciento en masa, debe ser superior a 3,5, siendo CaO el óxido de calcio reactivo definido en la norma UNE-EN 197-1.
+a) La relación SiO2/(CaO+MgO), en tanto por ciento en masa, debe ser superior a 3,5, siendo CaO el óxido de calcio reactivo definido en la norma UNE-EN 197-1.
 
-b) la ceniza volante silícea o puzolana natural molida a finura Blaine equivalente a la del cemento de referencia, con una tolerancia de ± 200 cm2/g, y mezclada con éste en proporción cemento/material puzolánico igual a 75/25 en masa, deberá cumplir el ensayo de puzolanicidad a la edad de 7 días, según la norma UNE-EN 196-5;
+b) La ceniza volante silícea o puzolana natural molida a finura Blaine equivalente a la del cemento de referencia, con una tolerancia de ± 200 cm2/g, y mezclada con éste en proporción cemento/material puzolánico igual a 75/25 en masa, deberá cumplir el ensayo de puzolanicidad a la edad de 8 días o 15 días, según la norma UNE-EN 196-5;
 
-c) la misma mezcla 75/25 en masa deberá presentar una resistencia a compresión a la edad de 28 días igual o superior al 75 por ciento de la resistencia del cemento de referencia a la misma edad (índice de actividad resistente, IAR), según el método de ensayo de la norma UNE-EN 196-1.
+c) La ceniza volante silícea (V) o puzolana natural (P) molida a finura Blaine equivalente a la del cemento de referencia (± 200 cm2/g) y mezclada con éste en proporción cemento/ceniza o puzolana natural igual a 75/25 en masa, deberá presentar una resistencia a compresión a la edad de 28 días igual o superior al 75 por ciento de la resistencia del cemento de referencia a la misma edad (índice de actividad resistente, IAR), según el método de ensayo de la norma UNE-EN 196-1.
 
-El cemento de referencia, tanto para el ensayo de puzolanicidad como para el de resistencia será cualquiera de los cementos pórtland resistente a los sulfatos indicados a continuación y definidos en la norma UNE-EN 197-1: CEM I 42,5 R-SR 0, CEM I 42,5 R-SR 3 y CEM I 42,5 R-SR 5.
+El cemento de referencia, tanto para el ensayo de puzolanicidad como para el de resistencia, será el CEM I con un contenido de C3A ≤ 5,0 % en el clínker.
 
 AII.2.2 Designación.
 
@@ -75,6 +76,8 @@ Se consideran cementos resistentes al agua de mar aquéllos en cuya composición
 
 Los componentes puzolánicos que formen parte de estos cementos (cenizas volantes silíceas, puzolanas naturales y humo de sílice en su caso) cumplirán las prescripciones indicadas en el apartado AII.2.1.
 
+Por otro lado, el cemento de referencia, tanto para el ensayo de puzolanicidad como para el de resistencia, es el CEM I con un contenido de C3A ≤ 9,0 % en el clínker.
+
 Tabla AII.3.1 Prescripciones adicionales para los cementos resistentes al agua de mar
 
 | Tipos | Denominaciones | Designaciones | Especificaciones del clínker de los cementos resistentes a agua de mar (MR) |
@@ -91,11 +94,10 @@ Tabla AII.3.1 Prescripciones adicionales para los cementos resistentes al agua d
 | III | Cementos con adiciones, resistentes a agua de mar | Con escoria de horno alto (S) | III/A | ≤10,0 | ≤ 25,0 |
 | III | III/B | Ninguna |
 | III | III/C | Ninguna |
-| IV | Cementos Puzolánicos (D+P+V) | IV/A | ≤8,0 | ≤ 25,0 |
-| IV | IV/B | ≤10,0 | ≤ 25,0 |
+| IV | Cementos Puzolánicos (D+P+V) | IV/A | ≤9,0 | ≤ 25,0 |
+| IV | IV/B | ≤ 10,0 | ≤ 25,0 |
 | V | Cementos compuestos (S+P+V) | V/A |
-
-Las prescripciones sobre C3A y (C3A + C4AF) se refieren a porcentajes en masa de clínker. Los contenidos de C3A y C4AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2.
+| Las prescripciones sobre C3A y (C3A + C4AF) se refieren a porcentajes en masa de clínker. Los contenidos de C3A y C4AF se determinarán por cálculo, según la norma UNE 80304, a partir de los ensayos realizados sobre el clínker según la norma UNE-EN 196-2. |
 
 AII.3.2 Designación.
 
@@ -252,94 +254,158 @@ Tabla AII.5.4 Prescripciones químicas de los cementos para usos especiales
 | Contenido de sulfatos (como SO3) UNE-EN 196-2 | Contenido de ión cloruro UNE-EN 196-2 |
 | ESP VI-1 | ≤3,5 % | ≤0,10 % |
 
-AII.6 Normas de referencia de cementos sujetos al Real Decreto 1313/1988
+AII.6 Cementos comunes portland compuesto CEM II/C-M y cemento compuesto CEM VI
 
-AII.6.1 Normas de producto:
+Se consideran cementos portland compuestos CEM II/C-M y cementos compuestos CEM VI, los cementos definidos en la norma UNE-EN 197-5.
 
-UNE 80303-1:2013: Cementos con características adicionales. Parte 1: Cementos resistentes a los sulfatos.
+AII.6.1 Clasificación y composición.
 
-UNE 80303-2:2011: Cementos con características adicionales. Parte 2: Cementos resistentes al agua de mar.
+Los constituyentes de los cementos comunes de la norma UNE-EN 197-5 deben cumplir los requisitos que se recogen en el anejo III de este documento.
 
-UNE 80305:2012: Cementos blancos.
+Las proporciones en masa de los componentes de los cementos portland compuestos CEM II/C-M y cementos compuestos CEM VI, se especifican en la tabla AII.6.1. Estos cementos deberán cumplir, además, las prescripciones relativas a su tipo y clase recogidas en el apartado AI.1.
 
-UNE 80307:2001: Cementos para usos especiales.
+No se tiene experiencia en el uso de cementos compuestos con adiciones de cenizas volantes calcáreas (W) y esquistos calcinados (T), por lo que no se contempla su utilización en esta Instrucción.
 
-AII.6.2 Normas relativas a la evaluación de conformidad:
+Tabla AII.6.1 Cementos comunes de la norma UNE-EN 197-5, cemento portland compuesto CEM II/C-M y cemento compuesto CEM VI: composición y proporción en masa
 
-UNE-EN 197-2:2000: Cemento. Parte 2. Evaluación de la conformidad.
+| Tipos principales | Designación de los productos (tipos de cemento) | Composición (% en masaa) |
+| --- | --- | --- |
+| Componentes principales | Componentes adicionales minoritarios |
+| Clínker | Escoria de horno alto | Humo de sílice | Puzolana | Cenizas volantes | Esquistos calcinados | Caliza |
+| natural | natural calcinada | silíceas | calcáreas |
+| Denominación | Designación | K | S | D b | P | Q | V | W | T | L c | LL c |  |
+| CEM II | Cemento portland compuestod | CEM II/C-M | 50-64 | ‹––––––––––––––––––––- 36-50 –––––––––––––-› | 0-5 |
+| CEM VI | Cemento compuesto | CEM VI (S-P) | 35-49 | 31-59 | – | 6-20 | – | – | – | – | – | – | 0-5 |
+| CEM VI (S-V) | 35-49 | 31-59 | – | – | – | 6-20 | – | – | – | – | 0-5 |
+| CEM VI (S-L) | 35-49 | 31-59 | – | – | – | – | – | – | 6-20 | – | 0-5 |
+| CEM VI (S-LL) | 35-49 | 31-59 | – | – | – | – | – | – | – | 6-20 | 0-5 |
+| a Los valores de la tabla son la suma de los componentes mayoritarios y minoritarios. b En el caso del humo de sílice, el contenido de humo de sílice está limitado al 6-10 % en masa. c En el caso de la caliza, el contenido de caliza (suma de L, LL) está limitado al 6-20 % en masa. d El número de constituyentes mayoritarios además del clínker, está limitado a dos, y estos constituyentes mayoritarios deben declararse en la designación del cemento. |
 
-UNE-EN 197-2:2002 ERRATUM: Cemento. Parte 2. Evaluación de la conformidad.
+AII.6.2 Designación.
 
-AII.6.3 Normas relativas a la toma de muestras y a los métodos de ensayo:
+En el caso de los cementos comunes de la norma UNE-EN 197-5, el cemento portland compuesto CEM II/C-M y el cemento compuesto CEM VI, se indicará la designación correspondiente al tipo (CEM), seguida de la relativa a la clase de resistencia (32,5 - 42,5 - 52,5) y, seguidamente, un espacio en blanco y la letra R si se trata de un cemento de alta resistencia inicial, o la letra N en el caso de ser de resistencia inicial normal, o la letra L si es de baja resistencia inicial y, finalmente, de la referencia a la norma de cementos comunes UNE-EN 197-5.
 
-UNE 80117:2012: Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en el cemento y clínker blanco.
+Cuando en una misma fábrica, un fabricante produzca diferentes elementos que cumplen con la misma designación normalizada, estos cementos tendrán una identificación adicional en forma de un número o de dos letras minúsculas, entre paréntesis, con objeto de que se distingan dichos cementos entre sí.
 
-UNE 80216:2010: Métodos de ensayo de cementos. Determinación cuantitativa de los componentes.
+Los cementos de bajo calor de hidratación (según se definen en el apartado AI.1 de esta Instrucción), deben designarse de forma adicional con la notación LH.
 
-UNE 80220:2012: Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.
+Ejemplo 9: UNE-EN 197-5 - CEM VI (S-V) 32,5 N
 
-UNE 80304:2006: Cementos. Cálculo de la composición potencial del clínker pórtland.
+Corresponde con un cemento común compuesto que contiene en total una cantidad entre el 31 % y el 59 % en masa de escoria granulada de horno alto (S) y entre el 6 % y el 20 % en masa de ceniza volante silícea (V), de clase resistente 32,5 y resistencia inicial normal.
 
-UNE 80402:2008: Cementos. Condiciones de suministro.
+Ejemplo 10: UNE-EN 197-5 – CEM II/C-M (V-LL) 32,5 R – LH
 
-UNE 80402:2008/M1:2011: Cementos. Condiciones de suministro.
+Corresponde con un cemento común portland compuesto que contiene en total una cantidad entre el 36 % y el 50 % en masa de cenizas volantes silíceas (V) y de caliza (LL), y con una clase de resistencia 32,5, con una alta resistencia a corta edad y un bajo calor de hidratación.
 
-UNE-EN 196-1:2005: Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.
+Ejemplo 11: UNE-EN 197-5 – CEM VI (S-P) 42,5 L
 
-UNE-EN 196-2:2014: Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.
+Corresponde con un cemento común compuesto que contiene en total una cantidad entre el 31 % y el 59 % en masa de escoria granulada de horno alto (S) y entre el 6 % y el 20 % en masa de puzolana natural (P), de clase resistente 42,5 y baja resistencia inicial.
 
-UNE-EN 196-3:2005+A1:2009: Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.
+AII.6.3 Prescripciones.
 
-UNE-EN 196-5:2011: Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.
+Las prescripciones relativas a las características mecánicas y físicas que deben cumplir el cemento portland compuesto CEM II/C-M y el cemento compuesto CEM VI, relativas a su tipo y clase, son las recogidas en la tabla AII.6.3.1.
 
-UNE-EN 196-6:2010: Métodos de ensayo de cementos. Parte 6: Determinación de la finura.
+Tabla AII.6.3.1 Prescripciones mecánicas y físicas de los cementos comunes
 
-UNE-EN 196-7:2008: Métodos de ensayo de cementos. Parte 7: Métodos de toma y preparación de muestras de cemento.
+| Clase de resistencia | Resistencia a compresión (1) UNE-EN 196-1 (N/mm2) | Tiempo de principio de fraguado UNE-EN 196-3 (min) | Estabilidad de volumen UNE-EN 196-3 (Expansión, mm) | Calor de Hidratación (2) (J/g) |
+| --- | --- | --- | --- | --- |
+| Resistencia inicial | Resistencia nominal | UNE-EN 196-9 | UNE-EN 196-8 |
+| 2 días | 7 días | 28 días | 41 horas | 7 días |
+| 32,5 L | – | ≥12,0 | ≥32,5 | ≤52,5 | ≥75 | ≤10 | ≤270 |
+| 32,5 N | – | ≥16,0 |
+| 32,5 R | ≥10,0 | – |
+| 42,5 L | – | ≥16,0 | ≥42,5 | ≤62,5 | ≥60 |
+| 42,5 N | ≥10,0 | – |
+| 42,5 R | ≥20,0 | – |
+| 52,5 L | ≥10,0 | – | ≥52,5 | – | ≥45 |
+| 52,5 N | ≥20,0 | – |
+| 52,5R | ≥30,0 | – |
+| (1) 1 N/mm2 = 1 MPa. (2) Solo para cementos de bajo calor de hidratación (LH). |
 
-UNE-EN 196-8:2010: Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.
+Las prescripciones relativas a las características químicas que deben cumplir el cemento portland compuesto CEM II/C-M y el cemento compuesto CEM VI, relativas a su tipo y clase, están recogidas en la tabla AII.6.3.2.
 
-UNE-EN 196-9:2011: Método de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semi-adiabático.
+Tabla AII.6.3.2 Prescripciones químicas de los cementos comunes portland compuesto CEM II/C-M y cemento compuesto CEM VI
 
-UNE-EN 196-10:2008: Método de ensayo de cementos. Parte 10: Determinación del contenido de cromo (VI) soluble en agua en cementos.
+| Característica | Norma de ensayo | Tipo de cemento | Clase de resistencia | Prescripción a |
+| --- | --- | --- | --- | --- |
+| Contenido de sulfatos (como SO3). | UNE-EN 196-2 | CEM II/C-M y CEM VI | Todas | ≤ 4,0 % b |
+| Contenido de cloruros (Cl-). | UNE-EN 196-2 | CEM II/C-M y CEM VI | Todas | ≤ 0,10 % c |
+| a Los requisitos se dan en porcentaje en masa del cemento final. b Los cementos portland compuestos con un contenido de T > 20 % pueden contener hasta un 4,5 % de sulfatos (expresados como SO3) para todas las clases de resistencia. c Los cementos compuestos CEM VI pueden contener más de 0,10 % en masa de cloruros. En este caso, el valor de 0,10 % en masa de cloruros se debe reemplazar por el límite superior del contenido de cloruros, expresado como un porcentaje en masa con dos cifras decimales, y este valor límite se debe de colocar en el envase o albarán. |
 
-UNE-EN 413-2:2006: Cementos de albañilería. Parte 2 Métodos de ensayo
+AII.6.4 Durabilidad.
 
-AII.6.4 Otras normas:
+Para muchas aplicaciones, particularmente en condiciones ambientales severas, el tipo, subtipo y clase de resistencia del cemento pueden influir en la durabilidad de los hormigones, morteros y pastas, como por ejemplo en la resistencia a los agresivos químicos, en la resistencia al hielo-deshielo y, en su caso, en la protección de las armaduras.
 
-UNE-EN 450-1:2013: Cenizas volantes para hormigón. Parte 1: Definiciones, especificaciones y criterios de conformidad.
+Los cementos comunes compuestos podrían requerir precauciones adicionales tales como una ampliación del tiempo de retirada del encofrado y un cuidado especial con climatología adversa, todo ello debido a su lento desarrollo de resistencias.
 
-UNE-EN 451-1:2006: Métodos de ensayo de cenizas volantes. Parte 1: Determinación de óxido de cal libre.
+Los cementos CEM II/C-M y CEM VI no están recomendados en hormigones sometidos a ciclos de hielo-deshielo (clase de exposición XF).
 
-UNE-EN 459-1: 2011: Cales para la construcción. Parte 1: Definiciones, especificaciones y criterios de conformidad.
+AII.7 Normas de referencia de cementos sujetos al Real Decreto 1313/1988, de 28 de octubre
 
-UNE-EN 459-2: 2011: Cales para la construcción. Parte 2: Métodos de ensayo.
+AII.7.1 Normas de producto:
 
-UNE-EN 933-9: 2010+A1:2013: Ensayos para determinar las propiedades geométricas de los áridos. Parte 9: Evaluación de los finos. Ensayo de azul de metileno.
+UNE 80303-1:2017 Cementos con características adicionales. Parte 1: Cementos resistentes a los sulfatos.
 
-UNE-EN 934-2: 2010+A1:2012: Aditivos para hormigones, morteros y pastas. Parte 2: Aditivos para hormigones. Definiciones, requisitos, conformidad, marcado y etiquetado.
+UNE 80303-2:2017 Cementos con características adicionales. Parte 2: Cementos resistentes al agua de mar.
 
-UNE-EN 12878:2007: Pigmentos para la coloración de materiales de construcción fabricados a partir de cemento y/o cal. Especificaciones y métodos de ensayo.
+UNE 80305:2012 Cementos blancos.
 
-UNE-EN 12878:2007 ERRATUM:2008: Pigmentos para la coloración de materiales de construcción fabricados a partir de cemento y/o cal. Especificaciones y métodos de ensayo.
+UNE 80307:2001 Cementos para usos especiales.
 
-UNE EN 13639:2002: Determinación del carbono orgánico total en la caliza.
+UNE-EN 197-5:2021 Cemento. Parte 5: Cemento Portland compuesto CEM II/C-M y cemento compuesto CEM VI.
 
-UNE-EN 13639:2002/AC: 2005: Determinación del carbono orgánico total en la caliza.
+AII.7.2 Normas relativas a la evaluación de conformidad:
 
-UNE-EN 45501:2016: Aspectos metrológicos de los instrumentos de pesaje de funcionamiento automático.
+UNE-EN 197-2:2020 Cemento. Parte 2: Evaluación de la conformidad.
 
-UNE-EN ISO/IEC 17065:2012: Evaluación de la conformidad. Requisitos para organismos que certifican productos, procesos y servicios. (ISO/IEC 17065:2012).
+AII.7.3 Normas relativas a la toma de muestras y a los métodos de ensayo:
 
-UNE-EN ISO/IEC 17021: 2015: Evaluación de la conformidad. Requisitos para los organismos que realizan la auditoría y la certificación de sistemas de gestión. (ISO/IEC 17021: 2015).
+UNE 80117:2012 Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en el cemento y clínker blanco.
 
-UNE-EN ISO 9001:2015: Sistemas de gestión de la calidad. Requisitos. (ISO 9001:2015).
+UNE 80216:2010 Métodos de ensayo de cementos. Determinación cuantitativa de los componentes.
 
-UNE-EN ISO 9001:2008/AC:2009: Sistemas de gestión de la calidad. Requisitos. (ISO 9001:2008/Cor 1:2009).
+UNE 80220:2012 Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.
 
-UNE-EN ISO/IEC 17025:2005: Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración.
+UNE 80304:2006 Cementos. Cálculo de la composición potencial del clínker pórtland.
 
-UNE-EN ISO/IEC 17025:2005 ERRATUM: 2006: Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración. (ISO/IEC 17025:2005/Cor 1:2006).
+UNE-EN 196-1:2018 Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.
 
-UNE-ISO 9277: 2009: Determinación del área superficial específica de los sólidos mediante la adsorción de gas utilizando el método BET.
+UNE-EN 196-2:2014 Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.
+
+UNE-EN 196-3:2017 Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.
+
+UNE-EN 196-5:2011 Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.
+
+UNE-EN 196-6:2019 Métodos de ensayo de cementos. Parte 6: Determinación de la finura.
+
+UNE-EN 196-7:2008 Métodos de ensayo de cementos. Parte 7: Métodos de toma y preparación de muestras de cemento.
+
+UNE-EN 196-8:2010 Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.
+
+UNE-EN 196-9:2011 Métodos de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semi-adiabático.
+
+UNE-EN 196-10:2016 Métodos de ensayo de cementos. Parte 10: Determinación del contenido de cromo (VI) soluble en agua en cementos.
+
+UNE-EN 413-2:2017 Cementos de albañilería. Parte 2 Métodos de ensayo.
+
+AII.7.4 Otras normas:
+
+UNE-EN 413-1:2011 Cementos de albañilería. Parte 1: Composición, especificaciones y criterios de conformidad.
+
+UNE-EN 451-1:2017 Métodos de ensayo de cenizas volantes. Parte 1: Determinación de óxido de cal libre.
+
+UNE-EN 933-9:2010+A1:2013 Ensayos para determinar las propiedades geométricas de los áridos. Parte 9: Evaluación de los finos. Ensayo de azul de metileno.
+
+UNE-EN 12878:2014 Pigmentos para la coloración de materiales de construcción fabricados a partir de cemento y/o cal. Especificaciones y métodos de ensayo.
+
+UNE EN 13639:2019 Determinación del carbono orgánico total en la caliza.
+
+UNE-EN 45501:2016 Aspectos metrológicos de los instrumentos de pesaje de funcionamiento automático.
+
+UNE-ISO 9277:2009 Determinación del área superficial específica de los sólidos mediante la adsorción de gas utilizando el método BET.
+
+> Se modifica por el art. único.20 a 27 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 259, de 27 de octubre de 2017. Ref. BOE-A-2017-12282

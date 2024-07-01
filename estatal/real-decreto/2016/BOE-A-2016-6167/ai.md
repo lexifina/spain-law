@@ -2,9 +2,9 @@
 
 ## Cementos sujetos al marcado CE. Composición, designación, prescripciones y normas de referencia
 
-AI.1 Composición, designación, prescripciones y durabilidad de los cementos comunes
+AI.1 Composición, designación, prescripciones y durabilidad de los cementos comunes de la norma UNE-EN 197-1
 
-Se consideran cementos comunes los definidos en la norma UNE-EN 197-1. Incluye 27 cementos comunes, 7 cementos comunes resistentes a los sulfatos, así como 3 cementos de horno alto de baja resistencia inicial de los que 2 de ellos son resistentes a los sulfatos.
+Se consideran cementos comunes sujetos al marcado CE, los definidos en la norma UNE-EN 197-1. Incluye 27 cementos comunes, 7 cementos comunes resistentes a los sulfatos, así como 3 cementos de horno alto de baja resistencia inicial de los que 2 de ellos son resistentes a los sulfatos.
 
 AI.1.1 Composición.
 
@@ -48,7 +48,7 @@ En el caso de los cementos comunes resistentes a los sulfatos se debe añadir la
 
 En el caso de los cementos comunes resistentes a los sulfatos y que además sean de bajo calor de hidratación se debe añadir las letras LH/SR, precedidas por un guion al final de la designación correspondiente (véanse ejemplos 4 y 5).
 
-## TABLA Al.1.1a. Cementos comunes
+## TABLA Al.1.1a. Cementos comunes de la norma UNE-EN 197-1
 
 | Tipos | Denominación | Designación | Composición (proporción en masa 1) 5)) |
 | --- | --- | --- | --- |
@@ -120,9 +120,9 @@ A continuación se presenta una serie de ejemplos de designación de los cemento
 
 Ejemplo 1: EN 197-1- CEM I 42,5 R: corresponde a un cemento pórtland de clase resistente 42,5 y alta resistencia inicial.
 
-Ejemplo 2: EN 197-1- CEM II/A-L 32,5 N: corresponde a un cemento pórtland con un contenido entre 6 % y 20 % en masa de caliza, de clase resistente 32,5 y resistencia inicial normal.
+Ejemplo 2: EN 197-1- CEM II/A-L 32,5 N: corresponde a un cemento portland con un contenido entre 6 % y 20 % en masa de caliza (L), con un contenido de carbono orgánico total inferior a 0,5 % en masa, de clase resistente 32,5 y resistencia inicial normal.
 
-Ejemplo 3: EN 197-1- CEM II/A-M (S-V-L) 32,5 R: corresponde a un cemento pórtland compuesto con un contenido entre 6 % y 20 % en masa de escoria granulada de horno alto (S), ceniza volante silícea (V) y caliza (L), de clase resistente 32,5 y alta resistencia inicial.
+Ejemplo 3: EN 197-1- CEM II/A-M (S-V-L) 32,5 R: corresponde a un cemento portland compuesto con un contenido entre 18 % y 20 % en masa de escoria granulada de horno alto (S), ceniza volante silícea (V) y caliza (L), de clase resistente 32,5 y alta resistencia inicial.
 
 Ejemplo 4: EN 197-1- CEM III/B 32,5 L: corresponde a un cemento de horno alto, con un contenido entre 66 % y 80 % en masa de escoria de horno alto (S), de clase de resistencia 32,5 y baja resistencia inicial.
 
@@ -138,7 +138,7 @@ AI.1.3 Prescripciones mecánicas y físicas.
 
 Las prescripciones relativas a las características mecánicas y físicas que deben cumplir los cementos comunes según sus clases de resistencia figuran en la tabla AI.1.3.
 
-Tabla AI.1.3 Prescripciones mecánicas y físicas de los cementos comunes
+Tabla AI.1.3 Prescripciones mecánicas y físicas de los cementos comunes de la norma UNE-EN 197-1
 
 | Clase de resistencia | Resistencia a compresión (2) UNE-EN 196-1 (N/mm2) | Tiempo de principio de fraguado UNE-EN196-3 (min) | Estabilidad de volumen UNE-EN196-3 (Expansión, mm) | Calor de Hidratación (3) (J/g) |
 | --- | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ Tabla AI.1.3 Prescripciones mecánicas y físicas de los cementos comunes
 
 AI.1.4 Prescripciones químicas: Las prescripciones relativas a las características químicas que deben cumplir los cementos comunes figuran en las tablas AI.1.4a y AI.1.4b.
 
-Tabla AI.1.4a Prescripciones químicas de los cementos comunes
+Tabla AI.1.4a Prescripciones químicas de los cementos comunes de la norma UNE-EN 197-1
 
 | Característica | Norma de ensayo | Tipo de cemento | Clase de resistencia | Prescripción(1) |
 | --- | --- | --- | --- | --- |
@@ -192,7 +192,7 @@ Tabla AI.1.4a Prescripciones químicas de los cementos comunes
 
 (6) Para aplicaciones de pretensado, el cemento puede haber sido fabricado expresamente con valores de cloruros inferiores al máximo admisible. En este caso, se debe expresar dicho valor en los envases y albaranes de entrega.
 
-Tabla AI.1.4b Prescripciones químicas de los cementos comunes resistentes a los sulfatos
+Tabla AI.1.4b Prescripciones químicas de los cementos comunes resistentes a los sulfatos de la norma UNE-EN 197-1
 
 | Característica | Norma de ensayo | Tipo de cemento | Clase de resistencia | Prescripción (1) |
 | --- | --- | --- | --- | --- |
@@ -256,7 +256,7 @@ Ejemplo 9: EN 14216- VLH IV/B (P) 22,5: corresponde a un cemento especial puzol�
 
 AI.2.3 Prescripciones mecánicas y físicas.
 
-Las prescripciones relativas a las características mecánicas y físicas que deben cumplir los cementos especiales de muy bajo calor de hidratación según sus clases de resistencia figuran en la tabla AI.2.3.
+Las prescripciones relativas a las características mecánicas y físicas que deben cumplir los cementos especiales de muy bajo calor de hidratación según su clase de resistencia figuran en la tabla AI.2.3.
 
 Tabla AI.2.3 Prescripciones mecánicas y físicas de los cementos especiales de muy bajo calor de hidratación
 
@@ -292,7 +292,7 @@ AI.2.5 Durabilidad.
 
 Para muchas aplicaciones, particularmente en condiciones ambientales severas, el tipo, subtipo y clase de resistencia del cemento puede influir en la durabilidad de los hormigones, morteros y pastas, como por ejemplo en la resistencia a los agresivos químicos, en la resistencia al hielo-deshielo, en la resistencia química y en la protección de las armaduras.
 
-Los hormigones o morteros fabricados con cementos especiales de muy bajo calor de hidratación necesitan una protección adicional contra la desecación y la carbonatación durante su curado. La resistencia al hielo de los cementos especiales de muy bajo calor de hidratación deberá ser adecuada para las condiciones ambientales en el lugar de su utilización.
+Los hormigones o morteros fabricados con cementos especiales de muy bajo calor de hidratación necesitan una protección adicional contra la desecación y la carbonatación durante su curado. La resistencia al hielo-deshielo de los cementos especiales de muy bajo calor de hidratación deberá ser adecuada para las condiciones ambientales en el lugar de su utilización.
 
 AI.3 Composición, designación, prescripciones y durabilidad del cemento de aluminato de calcio
 
@@ -341,7 +341,7 @@ AI.3.5 Durabilidad.
 
 El cemento de aluminato de calcio desarrolla resistencias a mucha mayor velocidad que el cemento pórtland, alcanzando en pocas horas valores similares a los de éste a 28 días. Con el tiempo las resistencias suelen disminuir al tener lugar el proceso de conversión de los aluminatos de calcio hidratados, desde su estructura hexagonal a primeras edades a una estructura cúbica, termodinámicamente estable. Este proceso es muy dependiente de la relación agua/cemento y de la temperatura durante las primeras 24 horas después de la puesta en obra.
 
-El cemento de aluminato de calcio tiene buena resistencia a los sulfatos, resiste bien algunos medios agresivos siempre que no sean alcalinos. Para asegurar la durabilidad de obras con él elaboradas han de seguirse las prescripciones establecidas en la Instrucción de Hormigón Estructural vigente y las indicaciones de la norma UNE-EN 14647. Con áridos adecuados se pueden fabricar morteros y hormigones refractarios.
+El cemento de aluminato de calcio tiene buena resistencia a los sulfatos, resiste bien algunos medios agresivos siempre que no sean alcalinos. Para asegurar la durabilidad de obras con él elaboradas han de seguirse las prescripciones establecidas en el Código Estructural vigente y las indicaciones de la norma UNE-EN 14647. Con áridos adecuados se pueden fabricar morteros y hormigones refractarios.
 
 AI.4 Composición, designación, prescripciones y durabilidad de los cementos de albañilería
 
@@ -442,96 +442,70 @@ AI.4.5 Durabilidad: Para muchas aplicaciones, particularmente en condiciones amb
 
 AI.5 Normas de referencia para los cementos sujetos al marcado CE
 
+La relación de las versiones correspondientes a las normas aplicables en cada caso, con referencia a su fecha de aprobación, es la que se indica en este apartado, excepto en los siguientes casos:
+
 AI.5.1 Normas de producto:
 
-UNE-EN 197-1:2011: Cemento. Parte 1: Composición, especificaciones y criterios de conformidad de los cementos comunes.
+UNE-EN 197-1 (*) Cemento. Parte 1: Composición, especificaciones y criterios de conformidad de los cementos comunes.
 
-UNE-EN 14216:2015: Cemento. Composición, especificaciones y criterios de conformidad de los cementos especiales de muy bajo calor de hidratación.
+UNE-EN 14216 (*) Cemento. Composición, especificaciones y criterios de conformidad de los cementos especiales de muy bajo calor de hidratación.
 
-UNE-EN 413-1:2011: Cementos de albañilería. Parte 1: Composición, especificaciones y criterios de conformidad.
+UNE-EN 413-1 (*) Cementos de albañilería. Parte 1: Composición, especificaciones y criterios de conformidad.
 
-UNE-EN 14647:2006: Cemento de aluminato de calcio. Composición, especificaciones y criterios de conformidad.
+UNE-EN 14647 (*) Cemento de aluminato de calcio. Composición, especificaciones y criterios de conformidad.
 
 AI.5.2 Normas relativas a la evaluación de conformidad:
 
-UNE-EN 197-2:2000: Cemento. Parte 2. Evaluación de la conformidad.
+UNE-EN 197-2 (**) Cemento. Parte 2: Evaluación de la conformidad.
 
-UNE-EN 197-2:2002 ERRATUM: Cemento. Parte 2. Evaluación de la conformidad.
-
-UNE-EN 197-2:2014: Cemento. Parte 2: Evaluación de la conformidad (*).
-
-(*) Norma aplicable a los cementos de muy bajo calor de hidratación.
+UNE-EN 197-2 (**) ERRATUM Cemento. Parte 2: Evaluación de la conformidad.
 
 AI.5.3 Normas relativas a la toma de muestras y a los métodos de ensayo:
 
-UNE 80117:2012: Métodos de ensayo de cementos. Ensayos físicos. Determinación del color en el cemento y clínker blanco.
+UNE-EN 196-1 (**) Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.
 
-UNE 80216:2010: Métodos de ensayo de cementos. Determinación cuantitativa de los componentes.
+UNE-EN 196-2 (**) Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.
 
-UNE 80220:2012: Métodos de ensayo de cementos. Análisis químico. Determinación de la humedad.
+UNE-EN 196-3 (**) Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.
 
-UNE 80304:2006: Cementos. Cálculo de la composición potencial del clínker pórtland.
+UNE-EN 196-5 (**) Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.
 
-UNE 80402:2008: Cementos. Condiciones de suministro.
+UNE-EN 196-6 (**) Métodos de ensayo de cementos. Parte 6: Determinación de la finura.
 
-UNE 80402:2008/M1:2011: Cementos. Condiciones de suministro.
+UNE-EN 196-7 (**) Métodos de ensayo de cementos. Parte 7: Métodos de toma y preparación de muestras de cemento.
 
-UNE-EN 196-1:2005: Métodos de ensayo de cementos. Parte 1: Determinación de resistencias mecánicas.
+UNE-EN 196-8 (**) Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.
 
-UNE-EN 196-2:2014: Métodos de ensayo de cementos. Parte 2: Análisis químico de cementos.
+UNE-EN 196-9 (**) Métodos de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semi-adiabático.
 
-UNE-EN 196-3:2005+A1:2009: Métodos de ensayo de cementos. Parte 3: Determinación del tiempo de fraguado y de la estabilidad del volumen.
+UNE-EN 196-10:2016 Métodos de ensayo de cementos. Parte 10: Determinación del contenido de cromo (VI) soluble en agua en cementos.
 
-UNE-EN 196-5:2011: Métodos de ensayo de cementos. Parte 5: Ensayo de puzolanicidad para los cementos puzolánicos.
+UNE-EN 413-2 (**) Cementos de albañilería. Parte 2 Métodos de ensayo.
 
-UNE-EN 196-6:2010: Métodos de ensayo de cementos. Parte 6: Determinación de la finura.
+AI.5.4 Otras normas:
 
-UNE-EN 196-7:2008: Métodos de ensayo de cementos. Parte 7: Métodos de toma y preparación de muestras de cemento.
+UNE-EN 451-1 (**) Métodos de ensayo de cenizas volantes. Parte 1: Determinación de óxido de cal libre.
 
-UNE-EN 196-8:2010: Métodos de ensayo de cementos. Parte 8: Determinación del calor de hidratación. Método por disolución.
+UNE-EN 459-1 (*) Cales para la construcción. Parte 1: Definiciones, especificaciones y criterios de conformidad.
 
-UNE-EN 196-9:2011: Método de ensayo de cementos. Parte 9: Determinación del calor de hidratación. Método semi-adiabático.
+UNE-EN 459-2 (**) Cales para la construcción. Parte 2: Métodos de ensayo.
 
-UNE-EN 196-10:2008: Método de ensayo de cementos. Parte 10: Determinación del contenido de cromo (VI) soluble en agua en cementos.
+UNE-EN 933-9 (**) Ensayos para determinar las propiedades geométricas de los áridos. Parte 9: Evaluación de los finos. Ensayo de azul de metileno.
 
-UNE-EN 413-2:2006: Cementos de albañilería. Parte 2 Métodos de ensayo
+UNE-EN 12878 (*) Pigmentos para la coloración de materiales de construcción fabricados a partir de cemento y/o cal. Especificaciones y métodos de ensayo.
 
-AI.5.4 Otras normas.
+UNE EN 13639 (**) Determinación del carbono orgánico total en la caliza.
 
-UNE-EN 450-1:2013: Cenizas volantes para hormigón. Parte 1: Definiciones, especificaciones y criterios de conformidad.
+UNE-EN 45501:2016 Aspectos metrológicos de los instrumentos de pesaje de funcionamiento automático.
 
-UNE-EN 451-1:2006: Métodos de ensayo de cenizas volantes. Parte 1: Determinación de óxido de cal libre.
+UNE-ISO 9277:2009 (**) Determinación del área superficial específica de los sólidos mediante la adsorción de gas utilizando el método BET.
 
-UNE-EN 459-1: 2011: Cales para la construcción. Parte 1: Definiciones, especificaciones y criterios de conformidad.
+(*) Normas armonizadas. Las normas armonizadas recogidas en este apartado se utilizarán en la última versión publicada en el “Diario Oficial de la Unión Europea” (DOUE).
 
-UNE-EN 459-2: 2011: Cales para la construcción. Parte 2: Métodos de ensayo.
+(**) Norma citada en norma armonizada. Se utilizará la versión incluida en la norma armonizada que corresponda.
 
-UNE-EN 933-9: 2010+ A1:2013: Ensayos para determinar las propiedades geométricas de los áridos. Parte 9: Evaluación de los finos. Ensayo de azul de metileno.
+> Se modifica por el art. único.9 a 19 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
 
-UNE-EN 934-2: 2010+ A1:2012: Aditivos para hormigones, morteros y pastas. Parte 2: Aditivos para hormigones. Definiciones, requisitos, conformidad, marcado y etiquetado.
-
-UNE-EN 12878:2007: Pigmentos para la coloración de materiales de construcción fabricados a partir de cemento y/o cal. Especificaciones y métodos de ensayo.
-
-UNE-EN 12878:2007 ERRATUM:2008: Pigmentos para la coloración de materiales de construcción fabricados a partir de cemento y/o cal. Especificaciones y métodos de ensayo.
-
-UNE EN 13639:2002: Determinación del carbono orgánico total en la caliza.
-
-UNE-EN 13639:2002/AC: 2005: Determinación del carbono orgánico total en la caliza.
-
-UNE-EN 45501:2016: Aspectos metrológicos de los instrumentos de pesaje de funcionamiento automático.
-
-UNE-EN ISO/IEC 17065:2012: Evaluación de la conformidad. Requisitos para organismos que certifican productos, procesos y servicios. (ISO/IEC 17065:2012).
-
-UNE-EN ISO/IEC 17021: 2015: Evaluación de la conformidad. Requisitos para los organismos que realizan la auditoría y la certificación de sistemas de gestión. (ISO/IEC 17021: 2015).
-
-UNE-EN ISO 9001:2015: Sistemas de gestión de la calidad. Requisitos. (ISO 9001:2005).
-
-UNE-EN ISO 9001:2008/AC:2009: Sistemas de gestión de la calidad. Requisitos. (ISO 9001:2008/Cor 1:2009).
-
-UNE-EN ISO/IEC 17025:2005: Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración.
-
-UNE-EN ISO/IEC 17025:2005 ERRATUM: 2006: Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración. (ISO/IEC 17025:2005/Cor 1:2006).
-
-UNE-ISO 9277: 2009: Determinación del área superficial específica de los sólidos mediante la adsorción de gas utilizando el método BET.
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 259, de 27 de octubre de 2017. Ref. BOE-A-2017-12282

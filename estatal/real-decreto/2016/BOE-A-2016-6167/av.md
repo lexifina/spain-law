@@ -4,11 +4,11 @@
 
 AV.1 Organización de la recepción mediante la realización ensayos
 
-El objetivo de este Anejo es desarrollar el apartado 8.3 de esta Instrucción, aportando criterios a los Responsables de la recepción de cementos para determinar la conformidad de éstos mediante ensayos, cuando la organización de la recepción los exija.
+El objetivo de este anejo es desarrollar el apartado 8.3 de esta Instrucción, aportando criterios a los responsables de la recepción de cementos para determinar la conformidad de éstos mediante ensayos, cuando la organización de la recepción los exija.
 
 Cuando el responsable de la recepción, considere necesario realizar ensayos éstos se llevarán a cabo ateniéndose preferentemente a lo establecido en esta Instrucción.
 
-En aquellos casos en que el responsable de la recepción lo considere necesario, además de las fases preceptivas de comprobación de la documentación, etiquetado e inspección visual, este Anejo establece criterios para llevar a cabo una tercera fase, potestativa, consistente en la comprobación del tipo, subtipo (en los cementos CEM II, CEM IV y CEM V la referencia al componente principal) y de la clase de resistencia del cemento, y de ensayos complementarios para las demás características químicas y físicas.
+En aquellos casos en que el responsable de la recepción lo considere necesario, además de las fases preceptivas de comprobación de la documentación, etiquetado e inspección visual, este anejo establece criterios para llevar a cabo una tercera fase, potestativa, consistente en la comprobación del tipo, subtipo (en los cementos CEM II, CEM IV, CEM V y CEM VI la referencia al componente principal) y de la clase de resistencia del cemento, y de ensayos complementarios para las demás características químicas y físicas.
 
 En cualquier caso, el suministrador podrá solicitar, si lo considerase oportuno, la realización de contraensayos.
 
@@ -136,7 +136,7 @@ El autor del proyecto o el responsable de la recepción, decidirá qué ensayos 
 
 AV.4.1 Laboratorios de ensayo.
 
-El laboratorio que se escoja para la realización de los ensayos deberá estar acreditado para ensayos de cemento conforme a los criterios del Real Decreto 2200/1995, de 28 de diciembre.
+En ausencia de reglamentación específica, el laboratorio que se escoja para la realización de los ensayos deberá estar acreditado para ensayos de cemento conforme al Reglamento de la Infraestructura para la Calidad y la Seguridad Industrial, aprobado por el Real Decreto 2200/1995, de 28 de diciembre.
 
 AV.4.2 Preparación de la muestra en laboratorio.
 
@@ -152,7 +152,7 @@ Los resultados de los ensayos deberán proporcionarse según lo solicite el resp
 
 AV.5 Conformidad del suministro en la recepción
 
-Para la aceptación de una remesa o lote sometidos a ensayos de recepción es necesario que éstos satisfagan las condiciones definidas en AV.5.1.1 y A.5.5.1.2 para los cementos sujetos al marcado CE y en AV.5.2.1 y AV.5.2.2 para los demás cementos.
+Para la aceptación de una remesa o lote sometidos a ensayos de recepción es necesario que estos satisfagan las condiciones definidas en AV.5.1.1 y A.5.5.1.2 para los cementos sujetos al marcado CE y en AV.5.2.1 y AV.5.2.2 para los demás cementos.
 
 En general, el control se llevará a cabo por variables para la resistencia y por atributos para el resto de las características.
 
@@ -174,7 +174,7 @@ xn el mayor valor de los resultados obtenidos con una muestra de tamaño n;
 
 x1 el menor valor de los resultados obtenidos con una muestra de tamaño n;
 
-σ 3,6 o, si el suministrador lo pusiera a disposición del Responsable de la recepción, el valor de la desviación estándar de la población de procedencia (*);
+σ 3,6 o, si el suministrador lo pusiera a disposición del responsable de la recepción, el valor de la desviación estándar de la población de procedencia (*);
 
 k2 una constante definida en la tabla AV.5.1.1;
 
@@ -224,45 +224,26 @@ AV.5.1.3 Criterios de conformidad para valores individuales.
 
 Además de los criterios de conformidad estadísticos, el cumplimiento de los resultados con los requisitos de esta Instrucción, exige que se verifique que cada resultado de ensayo permanezca dentro de los valores límite especificados en las tablas de este apartado.
 
-Tabla AV.5.1.3a Cementos comunes, incluidos los de bajo calor de hidratación (apartado AI.1 del Anejo I). Valores límite para resultados individuales
+Tabla AV.5.1.3a Cementos comunes de las normas UNE-EN 197-1 y UNE-EN 197-5, incluidos los de bajo calor de hidratación (apartado AI.1 del anejo I). Valores límite para resultados individuales
 
 | Propiedad | Valores límite para los resultados individuales |
 | --- | --- |
 | Clase de resistencia |
 | 32,5 L | 32,5 N | 32,5 R | 42,5 L | 42,5 N | 42,5 R | 52,5 L | 52,5 N | 52,5 R |
 | Resistencia inicial (MPa), valor límite inferior | 2 días | – | – | 8,0 | – | 8,0 | 18,0 | 8,0 | 18,0 | 28,0 |
-| 7 días | 10,0 | 14,0 | – | 14,0 | – | – | – | – | - |
+| 7 días | 10,0 | 14,0 | – | 14,0 | – | – | – | – | – |
 | Resistencia nominal (MPa), valor límite inferior | 28 días | 30,0 | 40,0 | 50,0 |
-| Tiempo de principio de fraguado (mín), valor límite inferior. | 60 | 50 | 40 |
-| Estabilidad de volumen (expansión en mm), valor límite superior. | 10 |
-| Contenido de sulfatos (como % SO3), valor límite superior. | CEM I | – | 4,0 | – | 4,0 | 4,5 | – | 4,5 |
-| CEM II (a) |
-| CEM IV |
-| CEM V |
-| CEM I-SR 0 | – | 3,5 | – | 3,5 | 4,0 | – | 4,0 |
-| CEM I-SR 3 |
-| CEM I-SR 5 (b) |
-| CEM IV/A-SR |
-| CEM IV/B-SR |
-| CEM III/A | 4,5 |
-| CEM III/B |
+| Tiempo de principio de fraguado (mín.), valor límite inferior | 60 | 50 | 40 |
+| Estabilidad de volumen (expansión en mm), valor límite superior | 10 |
+| Contenido de sulfatos (como % SO3), valor límite superior | CEM I CEM II a CEM IV CEM V | – | 4,0 | – | 4,0 | 4,5 | – | 4,5 |
+| CEM I-SR 0 CEM I-SR 3 CEM I-SR 5 b CEM IV/A-SR CEM IV/B-SR | – | 3,5 | – | 3,5 | 4,0 | – | 4,0 |
+| CEM III/A CEM III/B CEM II/C-M CEM VI | 4,5 |
 | CEM III/C | 5,0 |
-| C3A (%), valor límite superior. | CEM I-SR 0 | 1 |
-| CEM I-SR 3 | 4 |
-| CEM I-SR 5 | 6 |
-| CEM IV/A-SR | 10 |
-| CEM IV/B-SR | 10 |
-| Contenido de cloruros (%) (c), valor límite superior. | 0,10 (d) |
-| Puzolanicidad. | – | Cumplir el ensayo a 15 días | – | Cumplir el ensayo a 15 días | – | Cumplir el ensayo a 15 días |
-| Calor de hidratación (J/g), valor límite superior. | LH | 300 |
-
-(a) Los tipos de cemento CEM II/B-T y CEM II/B-M con un contenido de T > 20% pueden contener hasta un 5,0% de sulfatos (como SO3) para todas las clases de resistencia.
-
-(b) El CEM I–SR 5 utilizado en aplicaciones específicas puede producirse con un valor mayor de contenido de sulfatos (véase la tabla 5). En este caso, el valor límite superior es de un 0,5% por encima del valor declarado.
-
-(c) El cemento tipo CEM III puede contener más del 0,10% de cloruros, pero en este caso el contenido máximo de cloruros debe ser declarado.
-
-(d) Para las aplicaciones de pretensado, los cementos se pueden fabricar de acuerdo con un requisito menor. Si es así, se debe reemplazar el valor de 0,10% por dicho menor valor, el cual se debe indicar en el albarán.
+| C3A (%), valor límite superior | CEM I-SR 0 CEM I-SR 3 CEM I-SR 5 CEM IV/A-SR CEM IV/B-SR | 1 4 6 10 10 |
+| Contenido de cloruros (%) c, valor límite superior | 0,10 d |
+| Puzolanicidad | – | Cumplir el ensayo a 15 días | – | Cumplir el ensayo a 15 días | – | Cumplir el ensayo a 15 días |
+| Calor de hidratación (J/g), valor límite superior | LH | 300 |
+| a Los tipos de cemento CEM II/B-T y CEM II/B-M con un contenido de T > 20 % pueden contener hasta un 5,0 % de sulfatos (como SO3) para todas las clases de resistencia. b El CEM I–SR 5 utilizado en aplicaciones específicas puede producirse con un valor mayor de contenido de sulfatos (véase la tabla 5). En este caso, el valor límite superior es de un 0,5 % por encima del valor declarado. c Los cementos tipo CEM III y CEM VI pueden contener más del 0,10 % de cloruros, pero en este caso el contenido máximo de cloruros debe ser declarado. d Para las aplicaciones de pretensado, los cementos se pueden fabricar de acuerdo con un requisito menor. Si es así, se debe reemplazar el valor de 0,10 % por dicho menor valor, el cual se debe indicar en el albarán. |
 
 Tabla AV.5.1.3b Cemento especiales de muy bajo calor de hidratación (Apartado AI.2 del Anejo I). Valores límite para resultados individuales
 
@@ -319,13 +300,13 @@ Tabla AV.5.1.3d. Cementos de albañilería (apartado AI.4 del Anejo I). Valores 
 
 (a) Donde aplique (véase el apartado 5.3.3 Tiempo final de fraguado de la norma UNE-EN 413-1:2011).
 
-AV.5.2 Criterios de conformidad de cementos sujetos al Real Decreto 1313/1988.
+AV.5.2 Criterios de conformidad de cementos sujetos al Real Decreto 1313/1988, de 28 de octubre.
 
 En caso de cementos que no estén sujetos al Marcado CE, el control de recepción se llevará a cabo sobre un mínimo de una muestra de control para cada serie de ensayos, aplicando los criterios de conformidad que se definen en los apartados AV.5.2.1 para los valores individuales, y AV.5.2.2 y AV.5.2.3, para control por variables y control por atributos, respectivamente.
 
 AV.5.2.1 Inspección por variables.
 
-En el caso de control por variables de un lote de un cemento sujeto al Real Decreto 1313/1988, la conformidad se comprobará cuando se cumplan simultáneamente las condiciones (1) y (2) siguientes:
+En el caso de control por variables de un lote de un cemento sujeto al Real Decreto 1313/1988, de 28 de octubre, la conformidad se comprobará cuando se cumplan simultáneamente las condiciones (1) y (2) siguientes:
 
 x1 – k1 . σ ≥ L (3)
 
@@ -337,7 +318,7 @@ xn el mayor valor de los resultados obtenidos con una muestra de tamaño n;
 
 xl el menor valor de los resultados obtenidos con una muestra de tamaño n;
 
-σ 3,6 o, si el suministrador lo pusiera a disposición del Responsable de la recepción, el valor de la desviación estándar de la población de procedencia (*);
+σ 3,6 o, si el suministrador lo pusiera a disposición del responsable de la recepción, el valor de la desviación estándar de la población de procedencia (*);
 
 k1 una constante, definida en la tabla AV.5.2.1;
 
@@ -391,5 +372,9 @@ En caso de decidirse el rechazo definitivo se estará a lo indicado en el aparta
 AV.6 Realización de contraensayos
 
 Cuando se realicen contraensayos, los criterios de conformidad y de actuación en caso de no conformidad serán los indicados en el apartado 8.3.2 de esta Instrucción.
+
+> Se modifica por el art. único.39 a 45 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 259, de 27 de octubre de 2017. Ref. BOE-A-2017-12282

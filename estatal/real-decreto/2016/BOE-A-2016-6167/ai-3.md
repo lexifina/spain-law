@@ -122,7 +122,9 @@ AIII.2.6 Caliza (L, LL).
 
 Las calizas cumplirán con los siguientes requisitos:
 
-a) El contenido de carbonato de calcio (CaCO3), calculado a partir del contenido de óxido de calcio (CaO), no será inferior al 75% en masa.
+a) El contenido de carbonato de calcio (CaCO3), calculado a partir del contenido de óxido de calcio (CaO), no será inferior al 75 % en masa.
+
+En el caso de los cementos portland compuestos CEM II/C-M y cementos compuestos CEM VI, incluidos en el apartado AII.6, el contenido de carbonato de calcio (CaCO3) calculado a partir del contenido de óxido de calcio (CaO) debe ser como mínimo del 40 % en masa y la suma de carbonato de calcio (CaCO3) y de carbonato de magnesio (CaCO3 y MgCO3) calculado a partir del contenido de óxido de calcio y de óxido de magnesio, respectivamente, debe ser como mínimo del 75 % en masa.
 
 b) El contenido de arcilla, determinado por el método del azul de metileno conforme a la norma UNE-EN 933-9, será menor de 1,20 g/100 g. Para este ensayo, la caliza estará molida a una finura aproximada de 5.000 cm2/g, determinada como superficie específica conforme a la norma UNE-EN 196-6.
 
@@ -140,7 +142,7 @@ El humo de sílice cumplirá los siguientes requisitos:
 
 a) la pérdida por calcinación determinada conforme a la norma UNE-EN 196-2, pero empleando un tiempo de calcinación de una hora, no superará el 4% en masa;
 
-b) la superficie específica (BET) del humo de sílice sin tratar, determinada conforme a la norma ISO 9277, será al menos de 15 m2/g.
+b) la superficie específica (BET) del humo de sílice sin tratar, determinada conforme a la norma UNE- ISO 9277, será al menos de 15 m2/g.
 
 Para poder utilizarse en cementos resistentes a los sulfatos (SRC) y en cementos resistentes al agua de mar (MR) –conformes a las normas UNE 80303-1 y UNE 80303-2, respectivamente– el humo de sílice deberá cumplir las especificaciones indicadas en el apartado AII.2.1 relativas a su composición, puzolanicidad e índice de actividad resistente.
 
@@ -166,12 +168,16 @@ La cantidad total de aditivos no excederá del 1% en masa del cemento (a excepci
 
 AIII.5.1 Aditivos en cementos de la norma UNE-EN 197-1.
 
-Cuando en un cemento común de la norma UNE-EN 197-1 se incorporen aditivos para el hormigón, mortero o lechadas conformes a las normas de la serie EN 934, deberá indicarse tal circunstancia declarando la designación normalizada del aditivo utilizado en los sacos y/o albaranes.
+Cuando en un cemento común de la norma UNE-EN 197-1 se incorporen aditivos para el hormigón, mortero o lechadas conformes a las normas de la serie UNE-EN 934, deberá indicarse tal circunstancia declarando la designación normalizada del aditivo utilizado en los sacos y/o albaranes.
 
 AIII.5.2 Aditivos de los cementos de albañilería de la norma UNE-EN 413-1.
 
 En los cementos de albañilería se permite la incorporación de pigmentos inorgánicos, conformes con la norma UNE-EN 12878, con la excepción de negro de carbono, quedando expresamente prohibida la utilización de pigmentos orgánicos.
 
 Así mismo, se permite la utilización de agentes aireantes con el fin de mejorar su docilidad y durabilidad, respetando las limitaciones indicadas en el apartado AI.4.3 con el fin de asegurar una buena adherencia.
+
+> Se modifica por el art. único.28 a 30 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 259, de 27 de octubre de 2017. Ref. BOE-A-2017-12282

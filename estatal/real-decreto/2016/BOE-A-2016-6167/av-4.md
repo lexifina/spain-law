@@ -12,7 +12,7 @@ Los cementos recomendados para hormigones estructurales son los indicados en el 
 
 Se recomienda el empleo de cementos de clase resistente 42,5N o superior para la fabricación de elementos prefabricados de hormigón.
 
-Para la utilización del cemento de aluminato de calcio, debe tenerse en cuenta lo indicado al respecto en la Instrucción de Hormigón Estructural vigente.
+Para la utilización del cemento de aluminato de calcio, debe tenerse en cuenta lo indicado al respecto en el Código Estructural vigente.
 
 Los cementos no recomendados expresamente para aplicaciones concretas pueden utilizarse, siempre que no haya circunstancias que desaconsejen su empleo, adoptando precauciones técnicas especiales.
 
@@ -28,28 +28,17 @@ Tabla AVIII.2.1
 
 | Aplicación | Cementos recomendados |
 | --- | --- |
-| Hormigón en masa | Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C. |
-| Cementos para usos especiales ESP VI-1 (1) |
-| Hormigón armado | Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C y CEM V/B. |
-| Hormigón pretensado incluidos los prefabricados estructurales | Cementos comunes (2) de los tipos CEM I, CEM II/A-D, CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) (3) |
-| Elementos estructurales prefabricados de hormigón armado | Resultan muy adecuados los cementos comunes (2) de los tipos CEM I, CEM II/A y adecuado el cemento común tipo CEM IV/A cuando así se deduzca de un estudio experimental específico. |
-| Hormigón en masa y armado en grandes volúmenes | Resultan muy adecuados los cementos comunes CEM III/B y CEM IV/B y adecuados los cementos comunes tipo CEM II/B, CEM III/A, CEM IV/A y CEM V/A. |
-| Cementos para usos especiales ESP VI-1. |
-| Es muy recomendable la característica adicional de bajo calor de hidratación (LH) y de muy bajo calor de hidratación (VLH), según los casos. |
-| Hormigón de alta resistencia | Muy adecuados los cementos comunes tipo CEM I y adecuados los cementos comunes tipo CEM II/A-D y CEM II/A 42,5 R. |
-| El resto de cementos comunes tipo CEM II/A pueden resultar adecuados cuando así se deduzca de un estudio experimental específico. |
-| Hormigones para reparaciones rápidas de urgencia | Los cementos comunes tipo CEM I, CEM II/A-D, y el cemento de aluminato de calcio (CAC). |
-| Hormigones para desencofrado y descimbrado rápido | Los cementos comunes (2) tipo CEM I, y CEM II. |
-| Hormigón proyectado | Los cementos comunes tipo CEM I, y CEM II/A. |
-| Hormigones con áridos potencialmente reactivos (4) | Resultan muy adecuados los cementos comunes tipo CEM III, CEM IV, CEM V, CEM II/A-D, CEM II/B-S y CEM II/B-V, y adecuados los cementos comunes tipo CEM II/B-P y CEM II/B-M. |
-
-(1) En el caso de grandes volúmenes de hormigón en masa.
-
-(2) Dentro de los indicados son preferibles los de alta resistencia inicial.
-
-(3) La inclusión de los cementos CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) como utilizables para la aplicación de hormigón pretensado es coherente con la posibilidad, contemplada en la Instrucción de Hormigón Estructural vigente, de la utilización de adición al hormigón pretensado de cenizas volantes en una cantidad no mayor del 20 % del peso de cemento.
-
-(4) Para esta aplicación son recomendables los cementos con bajo contenido en alcalinos o aquéllos citados en la tabla.
+| Hormigón en masa. | Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM II/C-M (W/T) (5) y CEM III/C. Cementos para usos especiales ESP VI-1 (1). |
+| Hormigón armado. | Todos los cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM II/C-M (W/T) (5) CEM III/C y CEM V/B. |
+| Hormigón pretensado incluidos los prefabricados estructurales. | Cementos comunes (2) de los tipos CEM I, CEM II/A-D, CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) (3). |
+| Elementos estructurales prefabricados de hormigón armado. | Resultan muy adecuados los cementos comunes (2) de los tipos CEM I, CEM II/A y adecuado el cemento común tipo CEM IV/A cuando así se deduzca de un estudio experimental específico. |
+| Hormigón en masa y armado en grandes volúmenes. | Resultan muy adecuados los cementos comunes CEM III/B, CEM IV/B y adecuados los cementos comunes tipo CEM II/B, CEM III/A, CEM IV/A y CEM V/A, CEM II/C-M (excepto los CEM II/C-M (W/T) (5)) y CEM VI. Cementos para usos especiales ESP VI-1. Es muy recomendable la característica adicional de bajo calor de hidratación (LH) y de muy bajo calor de hidratación (VLH), según los casos. |
+| Hormigón de alta resistencia. | Muy adecuados los cementos comunes tipo CEM I y adecuados los cementos comunes tipo CEM II/A-D y CEM II/A 42,5 R. El resto de cementos comunes tipo CEM II/A pueden resultar adecuados cuando así se deduzca de un estudio experimental específico. |
+| Hormigones para reparaciones rápidas de urgencia. | Los cementos comunes tipo CEM I, CEM II/A-D, y el cemento de aluminato de calcio (CAC). |
+| Hormigones para desencofrado y descimbrado rápido. | Los cementos comunes (2) tipo CEM I, y CEM II (excepto CEM II/C-M). |
+| Hormigón proyectado. | Los cementos comunes tipo CEM I, y CEM II/A. |
+| Hormigones con áridos potencialmente reactivos (4). | Resultan muy adecuados los cementos comunes tipo CEM III, CEM IV, CEM V, CEM II/A-D, CEM II/B-S y CEM II/B-V, y adecuados los cementos comunes tipo CEM II/B-P, CEM II/B-M, CEM II/C-M (excepto los cementos CEM II/C-M (W/T) (5)) y CEM VI. |
+| (1) En el caso de grandes volúmenes de hormigón en masa. (2) Dentro de los indicados son preferibles los de alta resistencia inicial. (3) La inclusión de los cementos CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P) como utilizables para la aplicación de hormigón pretensado es coherente con la posibilidad, contemplada en el Código Estructural vigente, de la utilización de adición al hormigón pretensado de cenizas volantes en una cantidad no mayor del 20 % del peso de cemento. (4) Para esta aplicación son recomendables los cementos con bajo contenido en alcalinos o aquéllos citados en la tabla. (5) Cementos portland compuestos o cementos compuestos que tengan por componentes principales las cenizas volantes calcáreas (W) o los esquistos calcinados (T). |
 
 AVIII.2.2 Aplicaciones estructurales específicas.
 
@@ -59,13 +48,9 @@ Tabla AVIII.2.2.1
 
 | Aplicación | Cementos recomendados |
 | --- | --- |
-| Cimentaciones de hormigón en masa. | Muy adecuados los cementos comunes tipo CEM IV/B, siendo adecuados el resto de cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C. |
-| En todos los casos es recomendable la característica adicional de bajo calor de hidratación (LH). |
-| Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda. |
-| Cimentaciones de hormigón armado. | Muy adecuados los cementos comunes tipo CEM I y CEM II/A, siendo adecuados el resto de cementos comunes a excepción de los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/B, CEM III/C y CEM IV/B. |
-| Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda. |
-
-(1) De acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda.
+| Cimentaciones de hormigón en masa. | Muy adecuados los cementos comunes tipo CEM IV/B, siendo adecuados el resto de cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C, En todos los casos es recomendable la característica adicional de bajo calor de hidratación (LH). Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda. |
+| Cimentaciones de hormigón armado. | Muy adecuados los cementos comunes tipo CEM I y CEM II/A, siendo adecuados el resto de cementos comunes a excepción de los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/B, CEM III/C y CEM IV/B, CEM II/C-M y CEM VI Es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a sulfatos (SR/SRC) (1) o al agua de mar (MR) cuando corresponda. |
+| (1) De acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda. |
 
 AVIII.2.2.2 Obras portuarias y marítimas.
 
@@ -75,11 +60,10 @@ Tabla AVIII.2.2.2
 
 | Aplicación | Tipo de hormigón | Cementos recomendados |
 | --- | --- | --- |
-| Obras portuarias y marítimas. | En masa. | Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C. |
-| Armado. | Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C y CEM V/B. |
+| Obras portuarias y marítimas. | En masa. | Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C, CEM II/C-M y CEM VI. |
+| Armado. | Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C y CEM V/B. CEM II/C-M y CEM VI. |
 | Pretensado. | Cementos comunes (1) de los tipos CEM I, CEM II/A-D, CEM II/A-P, CEM II/A-V y CEM II/A-M(V-P). |
-
-(1) Dentro de los indicados son preferibles los de alta resistencia inicial.
+| (1) Dentro de los indicados son preferibles los de alta resistencia inicial. |
 
 La utilización de uno u otro tipo de cemento, con característica adicional MR cuando sea preceptiva, dependerá de las exigencias del hormigón y siempre que no haya circunstancias especiales que desaconsejen su uso.
 
@@ -111,12 +95,10 @@ Tabla AVIII.2.2.4
 
 | Aplicación | Tipo de hormigón | Cementos recomendados |
 | --- | --- | --- |
-| Tubos de hormigón, canales y otras aplicaciones hidráulicas. | En masa. | Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C. |
-| Cementos para usos especiales ESP VI-1 (1) |
-| Armado. | Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C y CEM V/B. |
+| Tubos de hormigón, canales y otras aplicaciones hidráulicas | En masa. | Cementos comunes excepto los tiposCEM II/A-Q, CEM II/B-Q, CEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T y CEM III/C y CEM II/C-M (W/T) (5). Cementos para usos especiales ESP VI-1 (1). |
+| Armado. | Cementos comunes excepto los tipos CEM II/A-Q, CEM II/B-QCEM II/A-W, CEM II/B-W, CEM II/A-T, CEM II/B-T, CEM III/C, CEM V/B y CEM II/C-M (W/T) (5). |
 | Pretensado. | Cementos comunes de los tipos CEM I, CEM II/A-D, CEM II/A-V, CEM II/A-P y CEM II/A-M (V-P). |
-
-(1) En revestimentos de grandes canales con máquinas de encofrados deslizantes.
+| (1) En revestimentos de grandes canales con máquinas de encofrados deslizantes. |
 
 AVIII.2.3 Cementos recomendados en determinadas circunstancias de hormigonado.
 
@@ -133,29 +115,24 @@ Tabla AVIII.2.3
 
 (1) En estas circunstancias, no conviene emplear la característica adicional de bajo calor de hidratación (LH).
 
-(2) En estas circunstancias, resulta determinante tomar, durante el proceso de ejecución o puesta en obra, las medidas adecuadas especificadas en la reglamentación correspondiente y, en su caso, en la Instrucción de Hormigón Estructural vigente.
+(2) En estas circunstancias, resulta determinante tomar, durante el proceso de ejecución o puesta en obra, las medidas adecuadas especificadas en la reglamentación correspondiente y, en su caso, en el Código Estructural vigente.
 
 AVIII.2.4 Cementos recomendados según las diferentes clases de exposición.
 
-En la tabla AVIII.2.4 se recogen los cementos recomendados para la fabricación de hormigones según las clases de exposición contempladas en la Instrucción de Hormigón Estructural vigente a las que vayan a estar sometidos.
+En la tabla AVIII.2.4 se recogen los cementos recomendados para la fabricación de hormigones según las clases de exposición contempladas en el Código Estructural vigente a las que vayan a estar sometidos.
 
 Tabla AVIII.2.4
 
 | Clase de exposición | Tipo de proceso (Agresividad debida a) | Cementos recomendados |
 | --- | --- | --- |
-| I | Ninguno. | Todos los recomendados según la aplicación prevista. |
-| II | Corrosión de las armaduras de origen diferente de los cloruros. | CEM I, cualquier CEM II (preferentemente CEM II/A), CEM III/A, CEM IV/A. |
-| III (1) | Corrosión de las armaduras por cloruros de origen marino. | Muy adecuados los cementos CEM II/S, CEM II/V (preferentemente los CEM II/B-V), CEM II/P (preferentemente los CEM II/B-P), CEM II/A-D, CEM III, CEM IV (preferentemente los CEM IV/A) y CEM V/A. |
-| IV | Corrosión de las armaduras por cloruros de origen no marino. | Preferentemente, los CEM I y CEM II/A y, además, los mismos que para la clase de exposición III. |
-| Q (2) | Ataque al hormigón por sulfatos. | Los mismos que para la clase de exposición III. |
-| Q | Lixiviación del hormigón por aguas puras, ácidas, o con CO2 agresivo. | Cementos comunes de los tipos CEM II/P, CEM II/V, CEM II/A-D, CEM II/S, CEM III, CEM IV y CEM V. |
-| Q (3) | Reactividad álcali-árido. | Cementos de bajo contenido en alcalinos (óxidos de sodio y de potasio) en los que: (Na2O)eq = Na2O (%) + 0,658 K2O (%) < 0,60 |
-
-(1) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR), tal y como establece la Instrucción de Hormigón Estructural vigente.
-
-(2) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a los sulfatos (SR/SRC, de acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda), en el caso de que la clase específica Qb o Qc, tal y como establece la Instrucción de Hormigón Estructural vigente. En los casos en que el elemento esté en contacto con agua de mar será necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR).
-
-(3) También son recomendables los cementos citados en la tabla AVIII.2.1 para hormigones con áridos potencialmente reactivos (que necesitarían cementos con bajo contenido en alcalinos).
+| X0 | Sin riesgo de ataque por corrosión. | Todos los recomendados según la aplicación prevista. |
+| XC | Corrosión de las armaduras por carbonatación. | CEM I, cualquier CEM II (preferentemente CEM II/A) excepto CEM II/C-M, CEM III/A, CEM IV/A. |
+| XS (1) | Corrosión de las armaduras por cloruros de origen marino. | Muy adecuados los cementos CEM II/S, CEM II/V (preferentemente los CEM II/B-V), CEM II/P (preferentemente los CEM II/B-P), CEM II/A-D, CEM III, CEM IV (preferentemente los CEM IV/A) y CEM V/A. |
+| XD | Corrosión de las armaduras por cloruros de origen no marino. | Preferentemente, los CEM I y CEM II/A y, además, los mismos que para la clase de exposición XS. |
+| XA (2) | Ataque químico. | Los mismos que para la clase de exposición XS. |
+| XA | Lixiviación del hormigón por aguas puras, ácidas, o con CO2 agresivo. | Cementos comunes de los tipos CEM II/P, CEM II/V, CEM II/A-D, CEM II/S, CEM III, CEM IV y CEM V. |
+| -(3) | Reactividad álcali-árido. | Cementos de bajo contenido en alcalinos (óxidos de sodio y de potasio) en los que: (Na2O)eq = Na2O (%) + 0,658 K2O (%) < 0,60. |
+| (1) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR), tal y como establece el Código Estructural vigente. (2) En esta clase de exposición es necesario cumplir las prescripciones relativas al empleo de la característica adicional de resistencia a los sulfatos (SR/SRC, de acuerdo con la norma UNE-EN 197-1 o UNE 80303-1, según corresponda), en el caso de que la clase específica sea XA2 o XA3, tal y como establece el Código Estructural vigente. En los casos en que el elemento esté en contacto con agua de mar será necesario únicamente cumplir las prescripciones relativas al empleo de la característica adicional de resistencia al agua de mar (MR). (3) Son especialmente recomendables los cementos citados en la tabla AVIII.2.1 para hormigones con áridos potencialmente reactivos (que deberán cumplir igualmente el requisito de bajo contenido en alcalinos). |
 
 AVIII.3 Cementos recomendados para su empleo en firmes de carreteras, puertos y aeropuertos.
 
@@ -201,3 +178,7 @@ Tabla AVIII.5
 | Cementos comunes, excepto los tipos CEM I y CEM III. |
 
 Cuando se requiera la exigencia de blancura se utilizarán los cementos blancos definidos en A.2.4.2.
+
+> Se modifica por el art. único.52 a 58 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.

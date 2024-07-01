@@ -10,7 +10,7 @@ AIV.2 Documentación del suministro y etiquetado de los cementos
 
 El suministro, tanto a granel como envasado, deberá disponer de la documentación reglamentaria. El suministrador del cemento deberá estar en disposición de facilitar esta documentación que está formada básicamente por el albarán de suministro, el etiquetado, la declaración de prestaciones o el certificado de garantía del fabricante, según proceda.
 
-La documentación y el etiquetado pueden diferir según se trate de cementos sujetos al marcado CE o al Real Decreto 1313/1988. En los apartados AIV.2.1 a AIV.2.3 de este Anejo se facilita información sobre el contenido de la documentación y del etiquetado.
+La documentación y el etiquetado pueden diferir según se trate de cementos sujetos al marcado CE o al Real Decreto 1313/1988, de 28 de octubre. En los apartados AIV.2.1 a AIV.2.3 de este Anejo se facilita información sobre el contenido de la documentación y del etiquetado.
 
 El responsable de la recepción deberá registrar, archivar y custodiar copia de toda esta documentación.
 
@@ -74,7 +74,7 @@ Sobre el cemento suministrado:
 
 La referencia a la ficha de seguridad facilitada al cliente se considerará válida para su cumplimiento, en el albarán o documento anejo.
 
-16. Responsabilidades sobre la correcta gestión ambiental del envase según la Ley de envases.
+16. Responsabilidades sobre la correcta gestión ambiental del envase según el Real Decreto 1055/2022, de 27 de diciembre, de envases y residuos de envases.
 
 En el caso de cemento envasado la información de los puntos 11, 12, 13, 14 y 16 puede no incluirse en el albarán siempre y cuando se refleje en el envase.
 
@@ -84,17 +84,17 @@ AIV.2.2 Declaración de prestaciones.
 
 Para cementos sujetos al marcado CE:
 
-Documento que debe elaborar y emitir el fabricante del cemento por el que se asume la responsabilidad de la conformidad del cemento con la prestación declarada, en el ámbito del Reglamento (UE) n.º 305/2011 y el Reglamento Delegado 574/2014.
+Documento que debe elaborar y emitir el fabricante del cemento por el que se asume la responsabilidad de la conformidad del cemento con la prestación declarada, en el ámbito del Reglamento (UE) n.º 305/2011, de 9 de marzo y el Reglamento Delegado (UE) n.º 574/2014 de la Comisión, de 21 de febrero de 2014, que modifica el anexo III del Reglamento (UE) n.º 305/2011, de 9 de marzo, del Parlamento Europeo y del Consejo en lo relativo al modelo que debe utilizarse para emitir una declaración de prestaciones de productos de construcción.
 
-Esta declaración de prestaciones podrá ser enviada al receptor del cemento bien por vía electrónica, facilitándosela a través de la página web del fabricante o en papel, en el caso de que éste lo solicite.
+Esta declaración de prestaciones podrá ser enviada al receptor del cemento bien por vía electrónica, facilitándosela a través de la página web del fabricante, o en papel.
 
 La declaración de prestaciones deberá estar redactada en español.
 
-Los datos que deben aparecer en esta declaración son los siguientes:
+Los datos que deben aparecer en esta declaración son los recogidos en el artículo 6 y el anexo III del Reglamento (UE) n.º 305/2011, de 9 de marzo, consistentes en:
 
 1. El número de la declaración de prestaciones (codificación a criterio del fabricante).
 
-2. Nombre y/o código de identificación única del cemento tipo.
+2. Nombre o código de identificación única del cemento tipo.
 
 3. Uso o usos previstos del cemento.
 
@@ -104,8 +104,6 @@ Los datos que deben aparecer en esta declaración son los siguientes:
 
 6. Nombre y número del organismo notificado que emite el certificado de constancia de las prestaciones del cemento:
 
-– Número del certificado de constancia de las prestaciones emitido por el organismo notificado, y fecha de emisión del certificado.
-
 7. Cuadro de las prestaciones declaradas según el siguiente formato:
 
 | Características esenciales* | Cumplimiento de la prestación* | Norma armonizada* |
@@ -114,12 +112,11 @@ Los datos que deben aparecer en esta declaración son los siguientes:
 |  |  |  |
 |  |  |  |
 |  |  |  |
+| * Se incluirán todas las filas que sean necesarias. |
 
-(*) Se incluirán todas las filas que sean necesarias.
+– El texto: “Las prestaciones del cemento identificado anteriormente son conformes con el conjunto de las prestaciones declaradas.
 
-– El texto: «Las prestaciones del cemento identificado anteriormente son conformes con el conjunto de las prestaciones declaradas.
-
-La presente declaración de prestaciones se emite de conformidad con el Reglamento (UE) n.º 305/2011, bajo la sola responsabilidad del fabricante arriba identificado».
+La presente declaración de prestaciones se emite de conformidad con el Reglamento (UE) n.º 305/2011, de 9 de marzo, bajo la sola responsabilidad del fabricante arriba identificado”.
 
 – Firma por y en nombre del fabricante (nombre y cargo);
 
@@ -129,15 +126,15 @@ AIV.2.3 Marcado CE.
 
 Al emitir la declaración de prestaciones el fabricante está obligado a realizar el marcado CE del cemento.
 
-Al colocar el marcado CE el fabricante está indicando que asume la responsabilidad sobre la conformidad del cemento, así como el cumplimiento de todos los requisitos aplicables establecidos en el Reglamento (UE) n.º 305/2011.
+Al colocar el marcado CE el fabricante está indicando que asume la responsabilidad sobre la conformidad del cemento con las prestaciones declaradas, así como el cumplimiento de todos los requisitos aplicables establecidos en el Reglamento (UE) n.º 305/2011, de 9 de marzo.
 
-El marcado CE se deberá colocar antes de que el cemento se introduzca en el mercado, de manera visible, legible e indeleble sobre el envase, o en una etiqueta adherida al mismo, o en los documentos de acompañamiento (por ejemplo en el albarán), en idioma español.
+El marcado CE se deberá colocar antes de que el cemento se introduzca en el mercado, de manera visible, legible e indeleble sobre el envase, o en una etiqueta adherida al mismo, o en los documentos de acompañamiento (por ejemplo, en el albarán), en idioma español.
 
-El marcado CE contendrá los siguientes datos:
+El marcado CE contendrá los siguientes datos, según lo establecido en el artículo 9 del Reglamento (UE) n.º 305/2011, de 9 de marzo:
 
 – el logotipo CE;
 
-– las dos últimas cifras del año en que se concedió por primera vez el marcado CE;
+– las dos últimas cifras del año de su primera colocación;
 
 – nombre y domicilio registrado del fabricante;
 
@@ -153,17 +150,15 @@ El marcado CE contendrá los siguientes datos:
 
 – la lista de las características esenciales y el nivel o clase de prestaciones de cada una;
 
-– en su caso, la página web del fabricante donde puede consultarse la declaración de prestaciones;
+– en su caso contendrá un pictograma o cualquier otra marca que indique en particular un riesgo o uso específico.
 
-– en su caso se incluirá un pictograma o cualquier otra marca que indique en particular un riesgo o uso específico.
-
-En el apartado AIV.3 se da un ejemplo del marcado CE.
+Del mismo modo, el marcado CE también podrá incluir la página web del fabricante donde podrá consultarse la declaración de prestaciones.
 
 AIV.2.4 Certificado de conformidad con los requisitos reglamentarios.
 
-Para cementos sujetos al Real Decreto 1313/1988:
+Para cementos sujetos al Real Decreto 1313/1988, de 28 de octubre:
 
-El Certificado de conformidad con los requisitos reglamentarios o, en su caso, el certificado de conformidad de la producción (este último se obtiene después de un año de posesión del primer certificado), emitido por el Ministerio de Industria, Energía y Turismo, por las autoridades de Industria de la Comunidad Autónoma en que está ubicada la fábrica de cemento, o por los organismos de certificación acreditados para este campo, debe contener los siguientes datos:
+El Certificado de conformidad con los requisitos reglamentarios o, en su caso, el certificado de conformidad de la producción (este último se obtiene después de un año de posesión del primer certificado), emitido por los organismos habilitados para este campo conforme a lo dispuesto en el artículo 5 del Real Decreto 1313/1988, de 28 de octubre, debe contener los siguientes datos:
 
 – nombre y dirección del fabricante o de su representante legal;
 
@@ -181,7 +176,7 @@ El Certificado de conformidad con los requisitos reglamentarios o, en su caso, e
 
 AIV.2.5 Etiquetado de los envases de cemento.
 
-El sistema de etiquetado (impresión, tipología, tamaño, posición, colores, etc.) podrá ser cualquiera de los autorizados oficialmente en un Estado miembro de la Unión Europea o que sea parte del Acuerdo sobre el Espacio Económico Europeo, con la única salvedad de que el logotipo del marcado CE debe ser de color negro.
+El sistema de etiquetado (impresión, tipología, tamaño, posición, colores, etc.) podrá ser cualquiera de los autorizados oficialmente en un Estado miembro de la Unión Europea, en Turquía, o en un Estado signatario del Acuerdo EEE y deberá ajustarse a los requisitos de etiquetado derivados del Reglamento (CE) 1272/2008, del Parlamento Europeo y del Consejo, de 16 de diciembre, cuando sea de aplicación, y en particular lo referente al punto “2.3. Cementos y mezclas de cementos” de su anexo II.
 
 En el caso de cementos envasados, éstos deben mostrar en sus envases la siguiente información:
 
@@ -197,20 +192,22 @@ En el caso de cementos envasados, éstos deben mostrar en sus envases la siguien
 
 – condiciones específicas aplicables a la manipulación y utilización del producto, y restricciones de empleo en su caso;
 
-– al menos una de sus caras debe llevar impreso, en distintos recuadros, el etiquetado correspondiente al marcado CE según se indica en AIV.2.3 o al Real Decreto 1313/1988, como se indica en AIV.2.4 y, en su caso, el correspondiente a cementos con distintivo de calidad oficialmente reconocido;
+– al menos una de sus caras debe llevar impreso, en distintos recuadros, el etiquetado correspondiente al marcado CE según se indica en AIV.2.3 o al Real Decreto 1313/1988, de 28 de octubre, como se indica en AIV.2.4 y, en su caso, el correspondiente a cementos con distintivo oficialmente reconocido;
 
 – en una zona recuadrada se indicarán las advertencias en materia de seguridad y salud para la manipulación del cemento;
 
-– referencia al cumplimiento del límite reglamentario del cromo (VI) soluble en agua según lo establecido en la Orden Ministerial PRE/1954/2004 que traspone la Directiva 2003/53/CE.
+– referencia al cumplimiento del límite reglamentario del cromo (VI) soluble en agua según lo establecido en la Orden PRE/1954/2004, 22 de junio de 2004, que traspone la Directiva 2003/53/CE del Parlamento Europeo y del Consejo, de 18 de junio de 2003.
 
-Adicionalmente, los envases de cementos de albañilería (UNE-EN 413-1) llevarán impresa la siguiente frase: «Estos cementos solo son válidos para trabajos de albañilería».
+Adicionalmente, los envases de cementos de albañilería (UNE-EN 413-1) llevarán impresa la siguiente frase: “Estos cementos solo son válidos para trabajos de albañilería”.
 
-AIV.3 Documentación y etiquetado complementarios de cementos con distintivo
+AIV.3 Documentación y etiquetado complementarios de cementos con distintivo voluntario
 
-de calidad voluntario
-
-Los distintivos de calidad de carácter voluntario, incluidos los que tengan reconocimiento en el sentido del apartado 3.2, que puedan aparecer en la documentación y etiquetado recogidos en este apartado AIV.2, deben cumplir con las condiciones siguientes:
+Los distintivos de calidad o de sostenibilidad de carácter voluntario, incluidos los que tengan reconocimiento en el sentido del apartado 3.2, que puedan aparecer en la documentación y etiquetado recogidos en este apartado AIV.2, deben cumplir con las condiciones siguientes:
 
 – que la información adicional que suministren aparezca claramente separada de la correspondiente a la del marcado CE o a la del certificado de conformidad con los requisitos reglamentarios;
 
 – que el logotipo identificador de la marca no cree confusión con el del marcado CE y no reduzca la legibilidad ni la visibilidad de éste.
+
+> Se modifica por el art. único.31 a 38 del Real Decreto 320/2024, de 26 de marzo. Ref. BOE-A-2024-7034
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece la disposición final única.
