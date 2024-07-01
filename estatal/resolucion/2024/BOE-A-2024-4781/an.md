@@ -1,16 +1,16 @@
 ## ANEXO
 
-## Direcciones provinciales a las que se atribuyen las competencias y actuaciones en los procedimientos de reconocimiento de pensiones en aplicación de instrumentos internacionales de Seguridad Social
+## Direcciones provinciales a las que se atribuyen competencias y actuaciones en procedimientos de reconocimiento de pensiones en aplicación de instrumentos internacionales de Seguridad Social
 
-| Dirección Provincial | Instrumento Internacional de Aplicación | País |
+| Dirección provincial | Instrumento internacional de aplicación | País |
 | --- | --- | --- |
 | Araba/Álava. | REGLAMENTOS COMUNITARIOS. | FINLANDIA. |
-| Albacete. | CONVENIO BILATERAL SS. | MÉXICO. |
+| Albacete. | CONVENIO BILATERAL SS. | MEXICO. |
 | Alacant/Alicante. | REGLAMENTOS COMUNITARIOS. | FRANCIA. |
-| Almería. | REGLAMENTOS COMUNITARIOS. | RUMANÍA INST.EXT. |
+| Almería. | REGLAMENTOS COMUNITARIOS. | RUMANIA INST.EXT. |
 | Ávila. | REGLAMENTOS COMUNITARIOS. | IRLANDA. |
 | Badajoz. | REGLAMENTOS COMUNITARIOS. | AUSTRIA. |
-| Illes Balears. | ACUERDO DE RETIRADA/PROTOCOLO DE COORDINACIÓN DE S.S. DEL ACUERDO DE COMERCIO Y COOPERACIÓN UE-UK. | REINO UNIDO. |
+| Illes Balears. | ACUERDO DE RETIRADA/PROTOCOLO DE COORDINACIÓN DE S.S. DEL ACUERDO DE COMERCIO Y COOPERACIOM UE-UK. | REINO UNIDO. |
 | Barcelona. | REGLAMENTOS COMUNITARIOS. | ALEMANIA. |
 | Burgos. | CONVENIO MULTILATERAL IBEROAMERICANO DE SEGURIDAD SOCIAL. | CHILE. |
 | Cáceres. | REGLAMENTOS COMUNITARIOS. | SUECIA. |
@@ -27,12 +27,12 @@
 | Huelva. | REGLAMENTOS COMUNITARIOS. | R. CHECA Y ESLOVAQUIA. |
 | Huesca. | CONVENIOS BILATERALES SS. | JAPÓN Y COREA. |
 | Jaén. | REGLAMENTOS COMUNITARIOS. | ITALIA. |
-| León. | CONVENIO MULTILATERAL IBEROAMERICANO DE SEGURIDAD SOCIAL. | PERÚ, BOLIVIA Y PORTUGAL. |
+| León. | CONVENIO MULTILATERAL IBEROAMERICANO DE SEGURIDAD SOCIAL. | PERÚ Y BOLIVIA. |
 | Lleida. | CONVENIO BILATERAL SS. | SENEGAL. |
-| La Rioja. | CONVENIO BILATERAL SS. | CANADÁ. |
+| La Rioja. | CONVENIO BILATERAL SS. | CANADÁ |
 | Lugo. | REGLAMENTOS COMUNITARIOS. | PORTUGAL INST. ESP. |
 | Madrid. | CONVENIO MULTILATERAL IBEROAMERICANO DE SEGURIDAD SOCIAL. | ARGENTINA. |
-| Málaga. | CONVENIOS BILATERALES SS. | RUSIA, UCRANIA Y MOLDAVIA. |
+| Málaga. | CONVENIOS BILATERALES SS. | RUSIA Y UCRANIA. |
 | Murcia. | REGLAMENTOS COMUNITARIOS. | RUMANÍA INST.ESP. |
 | Navarra. | REGLAMENTOS COMUNITARIOS. | LITUANIA Y ESLOVENIA. |
 | Ourense. | REGLAMENTOS COMUNITARIOS. | PORTUGAL INST. EXT. |
@@ -54,8 +54,11 @@
 | Bizkaia. | REGLAMENTOS COMUNITARIOS. | PAÍSES BAJOS. |
 | Zamora. | CONVENIO MULTILATERAL IBEROAMERICANO DE SEGURIDAD SOCIAL. | PARAGUAY. |
 | Zaragoza. | CONVENIO MULTILATERAL IBEROAMERICANO DE SEGURIDAD SOCIAL. | ECUADOR. |
-| Ceuta. | CONVENIO BILATERAL SS. | TÚNEZ. |
+| Ceuta. | CONVENIO BILATERAL SS. | TÚNEZ |
 | Melilla. | CONVENIO BILATERAL SS. | CABO VERDE. |
-| Reglas especiales: 1) En aquellos supuestos en que el interesado alega actividad en varios Estados miembros de la UE/EEE y/o Suiza, la competencia corresponderá a la provincia designada al efecto con el país donde se declare la última actividad. 2) En aquellos supuestos en que el interesado alega actividad en varios Estados en los que sea de aplicación el Convenio Multilateral Iberoamericano de Seguridad Social la competencia corresponderá a la provincia designada al efecto con el país donde se declare la última actividad. |
 
-> Se modifica por el apartado primero.2 de la Resolución de 23 de mayo de 2024. Ref. BOE-A-2024-10764
+Reglas especiales:
+
+1) En aquellos supuestos en que el interesado alega actividad en varios Estados miembros de la UE/EEE y/o Suiza, la competencia corresponderá a la provincia designada al efecto con el país donde se declare la última actividad.
+
+2) En aquellos supuestos en que el interesado alega actividad en varios Estados en los que sea de aplicación el Convenio Multilateral Iberoamericano de Seguridad Social la competencia corresponderá a la provincia designada al efecto con el país donde se declare la última actividad.
