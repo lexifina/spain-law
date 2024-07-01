@@ -76,7 +76,7 @@ C = Cuota a ingresar.
 
 B.i. = Base imponible en Kwh.
 
-T = Tarifa fija unitaria: 0,798 céntimos de €/KWh.
+T = Tarifa fija unitaria: 1,036 céntimos de €/kWh.
 
 Cc = Coeficiente corrector aplicable de acuerdo con la siguiente escala:
 
@@ -207,7 +207,9 @@ Los tipos de gravamen y elementos tributarios para la determinación de la cuota
 
 10. Se autoriza al Gobierno para adoptar las disposiciones necesarias para la aplicación de lo establecido en esta disposición adicional.
 
-> Se modifica el apartado 9.2.e) por el art. único del Real Decreto 750/2019, de 27 de diciembre. Ref. BOE-A-2019-18617
+> Se modifica el valor de la tarifa fija unitaria T del apartado 9.2.e) por el art. único del Real Decreto 589/2024, de 25 de junio. Ref. BOE-A-2024-12863
+
+> Se modifica el valor de la tarifa fija unitaria T del apartado 9.2.e) por el art. único del Real Decreto 750/2019, de 27 de diciembre. Ref. BOE-A-2019-18617
 
 > Se modifica el apartado 9.1.f), párrafo tercero por la disposición final 1.3 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
 
