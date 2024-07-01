@@ -18,7 +18,13 @@ A. Definiciones generales.
 
 2. Grúa autocargante: aparato de elevación de funcionamiento discontinuo instalado sobre vehículos aptos para transportar materiales y que se utilizan exclusivamente para su carga y descarga.
 
-3. Empresa alquiladora: es todo titular (como propietario, arrendador financiero o similar) de grúas móviles que efectúa el arrendamiento de éstas con operador, mediante las condiciones generales de contratación, debidamente registradas.
+3. Empresa alquiladora: es todo titular (como propietario, arrendatario financiero o similar) de grúas móviles que efectúa el arrendamiento de éstas con operador, mediante las condiciones generales de contratación, debidamente registradas.
+
+> Téngase en cuenta que esta última actualización del apartado 2.A.3, realizada por la disposición final 1.1 del Real Decreto 355/2024, de 2 de abril. Ref. BOE-A-2024-7258#df, entra en vigor el 1 de julio de 2024, según se establece en la disposición final 5 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "3. Empresa alquiladora: es todo titular (como propietario, arrendador financiero o similar) de grúas móviles que efectúa el arrendamiento de éstas con operador, mediante las condiciones generales de contratación, debidamente registradas."
 
 4. Empresa arrendataria: es todo usuario de grúas móviles alquiladas a un tercero (empresa alquiladora) con operador.
 
@@ -272,28 +278,6 @@ c) Contar con el personal necesario durante todo el tiempo que la empresa ofrezc
 
 d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio con una cobertura mínima, por siniestro, de 1.000.000 de euros por siniestro. Esta cuantía mínima se actualizará por orden de la persona titular del Ministerio de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
 
-> Téngase en cuenta que esta última actualización de los apartados 4, 8 y 10, por el art. 5.1 a 3 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#aq, entrará en vigor el 1 de julio de 2021, según se establece en la disposición final 2 del citado Real Decreto.
-
-> Redacción anterior:
-
-> "4. Las empresas conservadoras legalmente establecidas para el ejercicio de esta actividad en cualquier otro Estado miembro de la Unión Europea que deseen realizar la actividad en régimen de libre prestación en territorio español, deberán presentar, previo al inicio de la misma, ante el órgano competente de la comunidad autónoma donde deseen comenzar su actividad una declaración responsable en la que el titular de la empresa o el representante legal de la misma declare que cumple los requisitos que se exigen por esta Instrucción Técnica Complementaria y su reglamento correspondiente, que dispone de la documentación que así lo acredita, que se compromete a mantenerlos durante la vigencia de la actividad y que se responsabiliza de que las operaciones de revisión de las grúas se efectúan de acuerdo con las normas y requisitos que se establecen en esta Instrucción Técnica Complementaria.
-
-> Para la acreditación del cumplimiento del requisito de personal cualificado la declaración deberá hacer constar que la empresa dispone de la documentación que acredita la capacitación del personal afectado, de acuerdo con la normativa del país de establecimiento y conforme a lo previsto en la normativa de la Unión Europea sobre reconocimiento de cualificaciones profesionales, aplicada en España mediante el Real Decreto 1837/2008, de 8 de noviembre, por el que se incorporan al ordenamiento jurídico español la Directiva 2005/36/CE, del Parlamento Europeo y del Consejo, de 7 de septiembre de 2005, y la Directiva 2006/100/CE, del Consejo, de 20 de noviembre de 2006, relativas al reconocimiento de cualificaciones profesionales así como a determinados aspectos del ejercicio de la profesión de abogado. La autoridad competente podrá verificar esa capacidad con arreglo a lo dispuesto en el artículo 15 del Real Decreto 1837/2008, de 8 de noviembre."
-
-> "8. Al amparo de lo previsto en el apartado 3 del artículo 71 bis de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, la Administración competente podrá regular un procedimiento para comprobar a posteriori lo declarado por el interesado.
-
-> En todo caso, la no presentación de la declaración, así como la inexactitud, falsedad u omisión, de carácter esencial, de datos o manifestaciones que deban figurar en dicha declaración habilitará a la Administración competente para dictar resolución, que deberá ser motivada y previa audiencia del interesado, por la que se declare la imposibilidad de seguir ejerciendo la actividad y, si procede, se inhabilite temporalmente para el ejercicio de la actividad sin perjuicio de las responsabilidades que pudieran derivarse de las actuaciones realizadas."
-
-> "10. Las empresas conservadoras cumplirán los siguientes requisitos:
-
-> a) Disponer de la documentación que identifique a la empresa conservadora, que en el caso de persona jurídica, deberá estar constituida legalmente.
-
-> b) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
-
-> c) Contar con personal contratado que realice la actividad en condiciones de seguridad y en número suficiente para atender todas las grúas que deban conservar.
-
-> d) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio con una cobertura mínima, por siniestro, de 1.000.000 de euros. Esta cuantía mínima se actualizará por orden del Ministro de Industria, Turismo y Comercio, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos."
-
 11. La empresa conservadora habilitada no podrá facilitar, ceder o enajenar certificados de actuaciones no realizadas por ella misma.
 
 12. El incumplimiento de los requisitos exigidos, verificado por la autoridad competente y declarado mediante resolución motivada, conllevará el cese de la actividad, salvo que pueda incoarse un expediente de subsanación de errores, sin perjuicio de las sanciones que pudieran derivarse de la gravedad de las actuaciones realizadas.
@@ -403,6 +387,10 @@ La eliminación de obstáculos que impliquen riesgos, incluidas las líneas elé
 La comprobación de que el terreno sobre el que va a trabajar y circular la grúa tenga la resistencia suficiente.
 
 Ejecutar, con personas debidamente formadas, las técnicas y labores de estrobaje y señalización.
+
+> Se modifica el apartado 2.A por la disposición final 1.1 del Real Decreto 355/2024, de 2 de abril. Ref. BOE-A-2024-7258#df
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece su disposición final 5.
 
 > Se modifican, con efectos desde el 1 de julio de 2021, los apartados 4, 8 y 10, por el art. 5.1 a 3 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#aq
 

@@ -1,0 +1,27 @@
+## ANEXO IX
+
+## Rótulo de inspección periódicas
+
+Características:
+
+1. Tamaño de la etiqueta: ancho: 96 mm; alto: 56 mm.
+
+2. Colores:
+
+Etiqueta favorable Color verde (pantone 622U).
+
+Etiqueta condicionada: Color amarillo (pantone 7408U).
+
+Etiqueta fuera de servicio: color rojo (pantone 032U).
+
+Caracteres en negro.
+
+3. El distintivo de inspección será autoadhesivo, no podrá ser reutilizable y será resistente a los productos de limpieza.
+
+4. Antes de su colocación debe cumplimentarse el n.º de RAE, el organismo actuante, el número del certificado de inspección periódica favorable y la fecha de la inspección.
+
+5. Antes de su colocación se perforarán las casillas correspondientes a la próxima inspección.
+
+6. El distintivo se colocará en lugar visible de la cabina (preferentemente la zona más iluminada) a una altura comprendida entre 1,80 y 1,90 m de altura desde el suelo de la cabina.
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/91/7258_14247347_3.png)

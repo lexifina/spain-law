@@ -151,9 +151,23 @@ Elementos de grúas, motores, cables, rodamientos, manuales de mantenimiento, ap
 
 6. Expedición y validez del carné
 
-6.1 El carné de operador de grúa móvil autopropulsada será expedido por el órgano competente de la comunidad autónoma, una vez acreditado por el solicitante el cumplimiento de los requisitos establecidos en el apartado 3 de este anexo.
+6.1 El carné de operador de grúa móvil autopropulsada será expedido por el órgano competente de la comunidad autónoma, una vez acreditado por el solicitante haber adquirido los conocimientos mediante alguna de las vías establecidas en el apartado 3 de este anexo; así como los requisitos establecidos en el mismo punto.
 
-6.2 El carné tendrá una validez de cinco años, transcurridos los cuales podrá ser objeto de renovación por períodos quinquenales, previa acreditación del requisito establecido en el apartado 3.1.e) de este anexo.
+6.2 El carné tendrá una validez de cinco años, transcurridos los cuales podrá ser objeto de renovación por períodos quinquenales, previa acreditación del requisito establecido en el apartado 3.3. de este anexo.
+
+Adicionalmente para la vía c) de demostración de conocimientos mediante la certificación de personas por entidad acreditada, el certificado de la persona debe estar vigente en el momento de la renovación del carné.
+
+> Téngase en cuenta que esta última actualización del apartado 6, realizada por la disposición final 1.2 del Real Decreto 355/2024, de 2 de abril. Ref. BOE-A-2024-7258#df , entra en vigor el 1 de julio de 2024, según se establece en la disposición final 5 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "6.1 El carné de operador de grúa móvil autopropulsada será expedido por el órgano competente de la comunidad autónoma, una vez acreditado por el solicitante el cumplimiento de los requisitos establecidos en el apartado 3 de este anexo.
+
+> 6.2 El carné tendrá una validez de cinco años, transcurridos los cuales podrá ser objeto de renovación por períodos quinquenales, previa acreditación del requisito establecido en el apartado 3.1.e) de este anexo."
+
+> Se modifica el apartado 6 por la disposición final 1.2 del Real Decreto 355/2024, de 2 de abril. Ref. BOE-A-2024-7258#df
+
+> Esta modificación tiene efectos desde el 1 de julio de 2024, según establece su disposición final 5.
 
 > Se modifican los apartados 2 y 4 por la disposición final 3 del Real Decreto 809/2021, de 21 de septiembre. Ref. BOE-A-2021-16407#df-3
 
