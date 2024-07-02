@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 2 de julio de 2024, por la disposición derogatoria única.q).1º de la Orden EFD/657/2024, de 25 de junio, sin perjuicio de lo establecido en la disposición transitoria primera de la misma. Ref. BOE-A-2024-13179
