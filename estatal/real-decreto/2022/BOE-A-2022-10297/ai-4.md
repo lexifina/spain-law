@@ -56,7 +56,7 @@ Parte B.1 Aspectos generales.
 
 Parte B.2 Agua caliente sanitaria (ACS).
 
-La revisión, limpieza y desinfección de los depósitos acumuladores se realizará trimestralmente.
+Sin perjuicio de lo establecido en el apartado 1 de la parte B.1, la revisión del estado de mantenimiento de los depósitos acumuladores se realizará trimestralmente, sin que ello implique obligatoriamente realizar la apertura y vaciado de los mismos.
 
 Mensualmente a través de las válvulas de drenaje de las tuberías, se realizará la eliminación de los sedimentos y semanalmente la purga del fondo de los acumuladores.
 
@@ -282,7 +282,7 @@ c) Desconectar los sistemas de tratamiento del agua (dosificadores de desinfecta
 
 d) Valorar la necesidad de utilizar biodispersante en el tratamiento de limpieza de la instalación, y debería adicionarse previo al vaciado del vaso o los depósitos, recirculando el agua y siguiendo las instrucciones del fabricante.
 
-e) Vaciar el agua del vaso y del depósito.
+e) Cuando sea necesario para evitar o reducir al mínimo la probabilidad de proliferación y diseminación de la Legionella, vaciar el agua del vaso y del depósito.
 
 2. Limpieza.
 
@@ -292,7 +292,7 @@ b) Limpiar y desinfectar los filtros de las bombas.
 
 c) Desmontar las boquillas de los difusores, chorros, duchas, etc. y limpiarlas a fondo eliminando las incrustaciones y adherencias sumergiéndose una vez limpias en desinfectante, durante un tiempo establecido para él, o mediante pulverización con desinfectante como método alternativo excepcional, y finalmente aclarado posterior con abundante agua de aporte.
 
-d) Llenar el vaso o el depósito con la cantidad de agua estimada para realizar la desinfección.
+d) Cuando sea necesario para evitar o reducir al mínimo la probabilidad de proliferación y diseminación de la Legionella, llenar el vaso o el depósito con la cantidad de agua estimada para realizar la desinfección.
 
 3. Desinfección.
 
@@ -304,13 +304,13 @@ c) Controlar el nivel de biocida y pH (si la efectividad del biocida depende del
 
 d) Finalizado el tiempo de contacto, neutralizar la cantidad de biocida.
 
-e) Vaciar los vasos, depósitos, circuitos, filtros, etc. y aclarar las paredes.
+e) Cuando sea necesario para evitar o reducir al mínimo la probabilidad de proliferación y diseminación de la Legionella, vaciar los vasos, depósitos, circuitos, filtros, etc. y aclarar las paredes.
 
 4. Acciones posteriores
 
 a) Montar nuevamente las boquillas y aclarar con agua de aporte.
 
-b) Volver a llenar con agua de aporte y restablecer las condiciones de uso normales.
+b) Cuando sea necesario para evitar o reducir al mínimo la probabilidad de proliferación y diseminación de la Legionella, volver a llenar con agua de aporte y restablecer las condiciones de uso normales.
 
 c) Realizar un lavado y enjuague de los filtros.
 
@@ -377,5 +377,7 @@ Para todas las instalaciones el procedimiento de limpieza y desinfección a segu
 3. Neutralizar la cantidad de biocida y vaciar.
 
 4. Volver a llenar con agua y restablecer las condiciones de uso normales.
+
+> Se modifica el párrafo primero de la parte B.2 y los apartados 1.e), 2.d), 3.e), 4.b) de la parte D.2 por el art. único.10 a 14 del Real Decreto 614/2024, de 2 de julio. Ref. BOE-A-2024-13422
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm. 36, de 11 de febrero de 2023. Ref. BOE-A-2023-3619

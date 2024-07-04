@@ -46,7 +46,7 @@ El procedimiento de limpieza y desinfección a realizar será el mismo que el es
 
 a) Llenar de agua la instalación y volver a desinfectar con el biocida añadiendo anticorrosivos compatibles con el biocida, en cantidad adecuada. Comprobar el nivel de biocida cada treinta minutos, reponiendo la cantidad perdida. Se recircula el agua.
 
-b) Neutralizar el biocida, vaciar el sistema y aclarar con agua a presión y poner en marcha el programa de mantenimiento de la instalación.
+b) Neutralizar el biocida y cuando sea necesario vaciar el sistema y aclarar con agua a presión y poner en marcha el programa de mantenimiento de la instalación.
 
 Parte C. Sistemas de agua climatizada o con temperaturas similares a las climatizadas (≥ 24 ºC) y aerosolización con/sin agitación y con/sin recirculación a través de chorros de alta velocidad o la inyección de aire, vasos de piscinas polivalente con este tipo de instalaciones, vasos de piscinas con dispositivos de juego, zonas de juegos de agua, setas, cortinas, cascadas, entre otras
 
@@ -60,7 +60,7 @@ c) Desconectar los sistemas de tratamiento del agua (dosificadores de desinfecta
 
 d) Valorar la necesidad de utilizar biodispersante en el tratamiento de limpieza de la instalación, y debería adicionarse previo al vaciado del vaso o los depósitos, recirculando el agua y siguiendo las instrucciones del fabricante.
 
-e) Vaciar el agua de los vasos, depósitos y de todos los circuitos.
+e) Cuando sea necesario para evitar o reducir al mínimo la probabilidad de proliferación y diseminación de la Legionella, vaciar el agua de los vasos, depósitos y de todos los circuitos.
 
 f) Limpiar, mediante frotado las paredes de vasos, depósitos y otras superficies, para quitar la biocapa y los lodos, posteriormente aclarar con abundante agua.
 
@@ -76,7 +76,7 @@ k) Revisar todos los componentes de la instalación y reparar o sustituir aquell
 
 l) Montar nuevamente las boquillas.
 
-m) Llenar de agua de aporte todo el sistema.
+m) Cuando sea necesario llenar de agua de aporte todo el sistema.
 
 n) Calcular la dosis de desinfectante necesaria en función del volumen de agua a tratar.
 
@@ -99,5 +99,7 @@ Se llevará a cabo según lo establecido en el PPCL o, en su defecto en el anexo
 II. Reformas estructurales
 
 La investigación de casos o brotes podría dar como resultado la exigencia de corregir los defectos estructurales de la instalación, estando obligado la persona propietaria o responsable de ésta a realizar esta operación en el plazo que se designe, a contar desde la primera notificación escrita facilitada por la autoridad competente.
+
+> Se modifican las partes B.1.b) y C.1.e), m) por el art. único.21 y 22 del Real Decreto 614/2024, de 2 de julio. Ref. BOE-A-2024-13422
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm. 36, de 11 de febrero de 2023. Ref. BOE-A-2023-3619

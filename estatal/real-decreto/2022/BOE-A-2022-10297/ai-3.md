@@ -32,11 +32,11 @@ c) Los depósitos deberán estar dotados de un sistema de medida de temperatura 
 
 7. En las instalaciones de agua caliente (en adelante ACS):
 
-a) Boca de Registro: Los elementos de acumulación de agua de 750 litros o más deberán disponer, de boca registro fácilmente accesible, con un diámetro mínimo de 400 mm que permita realizar operaciones de inspección, limpieza, desinfección mantenimiento y protección contra la corrosión. Los depósitos menores de 750 litros y los interacumuladores de doble tanque (con volúmenes de acumulación de agua inferiores a 750 litros) estarán provistos de los correspondientes accesos para inspección, limpieza, vaciado y toma de muestras adecuados a sus características de diseño definidas en la norma UNE-EN 12897:2017+A1:2020 Especificaciones para calentadores de agua de acumulación por calentamiento indirecto sin ventilación (cerrados).
+a) Boca de registro: Los elementos de acumulación de agua de 750 litros o más deberán disponer, de boca de registro fácilmente accesible, con un diámetro mínimo de 400 mm que permita realizar operaciones de inspección, limpieza, desinfección, mantenimiento y protección contra la corrosión. Los depósitos de acumulación entre 250 y 750 litros y los interacumuladores de doble tanque (con volúmenes de acumulación de agua inferiores a 750 litros) estarán provistos de los correspondientes accesos para inspección, limpieza vaciado y toma de muestras adecuados a sus características de diseño definidas en la Norma UNE-EN 12897:2017+A1:2020 Especificaciones para calentadores de agua de acumulación por calentamiento indirecto sin ventilación (cerrados).
 
 b) Los acumuladores estarán dotados de un sistema de medida de temperatura representativo del agua interior y dotados de llave de purga accesible en la zona más baja del depósito que permita el vaciado completo y la toma de muestras y que además se situará con nivel inferior a la salida del agua.
 
-c) Temperatura en los acumuladores: Asegurará, en toda el agua almacenada en los acumuladores de agua caliente finales, es decir, inmediatamente anteriores a consumo, una temperatura homogénea y mínima de 60 ºC. El agua de retorno no debe volver directamente al circuito de distribución sin sufrir una desinfección térmica previa. En el caso de interacumuladores de doble tanque, la temperatura del agua debe ser como mínimo de 70 °C.
+c) Temperatura en los acumuladores: Asegurará, en toda el agua almacenada en los acumuladores de agua caliente finales, es decir, inmediatamente anteriores a consumo, una temperatura homogénea y mínima de 60 ºC. En el caso de interacumuladores de doble tanque, la temperatura del agua debe ser como mínimo de 70 °C.
 
 d) Cuando se utilice un sistema de aprovechamiento térmico con acumulación de agua de consumo, en el que no se asegure de forma continua una temperatura superior a 60 ºC (energía solar, geotermia,…) se debe garantizar que posteriormente se alcance una temperatura de 60 ºC en un acumulador final antes de la distribución hacia el consumo.
 
@@ -134,5 +134,7 @@ Tabla 1. Parámetros de calidad del agua
 | Dispositivos de enfriamiento evaporativo por pulverización mediante elementos de refrigeración por aerosolización. | Lo dispuesto en el RD 140/2003 | Preferiblemente <20 ºC | <5 | – | – |
 | Otras instalaciones que puedan producir aerosolización. | – | Variable en función del biocida. | Preferiblemente <20 ºC | – | – | – |
 | (1) Método de análisis: Norma UNE-EN ISO 6222:1999 Calidad del agua. Enumeración de microorganismos cultivables: Recuento de colonias por siembra en medio de cultivo de agar. (2) Cuando la efectividad del desinfectante dependa del pH. (3) Debe estar comprendida entre los límites que permitan la composición del agua (dureza, alcalinidad, sulfatos y otros) de tal forma que no se produzcan fenómenos de incrustación y corrosión. |
+
+> Se modifica el apartado I.A.7 a) y c) por el art. único.9 del Real Decreto 614/2024, de 2 de julio. Ref. BOE-A-2024-13422
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm. 36, de 11 de febrero de 2023. Ref. BOE-A-2023-3619

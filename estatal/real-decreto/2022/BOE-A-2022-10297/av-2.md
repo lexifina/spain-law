@@ -31,7 +31,7 @@ Tabla 4. Tiempo desde toma de la muestra hasta inicio del ensayo incluido transp
 | > 24 y < 48 | 5 ± 3 |
 | (1) Siempre que se indique una temperatura de refrigeración, ésta se debe referir a la temperatura del entorno de la muestra (no a la muestra en sí). |
 
-4. La muestra para determinación de Legionella se acondicionará para el transporte de forma que, en su caso, se contemplen los tres niveles de contención recomendados por la ONU y se especificará en el paquete externo «Espécimen diagnóstico embalado con las instrucciones 650». En su caso, será de aplicación el Acuerdo Europeo de Transporte Internacional de Mercancías Peligrosas por Carretera o el Reglamento sobre Mercancías Peligrosas de la Asociación de Transporte Aéreo Internacional IATA-DGR.
+4. La muestra para determinación de Legionella se acondicionará para el transporte de forma que, en su caso, se etiquete y contemplen los tres niveles de contención recomendados por la instrucción P650 aplicable a la categoría UN 3373 de la ONU. En su caso, será de aplicación el “Reglamento Nacional sobre el Transporte de Mercancías Peligrosas por Vía Aérea” e “Instrucciones Técnicas para el Transporte seguro de Mercancías Peligrosas por Vía Aérea”.
 
 Parte B. Ensayos químicos y físico-químicos
 
@@ -258,3 +258,5 @@ Parte G. Registro de datos de la toma de muestra
 – Resultados obtenidos de los ensayos efectuados sobre muestras tomadas simultáneamente o, en su defecto, correlación inequívoca con el informe del ensayo correspondiente.
 
 – Observaciones: (*) Datos que deben acompañar a la muestra para su análisis.
+
+> Se modifica el apartado 4 a la parte A.2 por el art. único.19 del Real Decreto 614/2024, de 2 de julio. Ref. BOE-A-2024-13422
