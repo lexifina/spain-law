@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse «Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos, mutágenos o reprotóxicos durante el trabajo», según establece el art. único.1 del Real Decreto 612/2024, de 2 de julio. Ref. BOE-A-2024-13419
