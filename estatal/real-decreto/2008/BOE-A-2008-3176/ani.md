@@ -56,6 +56,8 @@
 
 – Medicina Preventiva y Salud Pública.
 
+– Medicina de Urgencias y Emergencias.
+
 – Nefrología.
 
 – Neumología.
@@ -125,6 +127,8 @@ Microbiología y Parasitología: Biología, Bioquímica, Farmacia, Medicina o Qu
 Radiofarmacia: Biología, Bioquímica, Farmacia o Química.
 
 Radiofísica Hospitalaria: Física y otras disciplinas científicas y tecnológicas.
+
+> Se modifica el apartado 1 por la disposición final 2 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418
 
 > Se modifica el apartado 1 por la disposición final 1.1 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266
 
