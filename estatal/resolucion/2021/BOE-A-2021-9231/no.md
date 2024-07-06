@@ -1,0 +1,1 @@
+Se deja sin efectos desde el 6 de julio de 2024, sin perjuicio de su aplicabilidad hasta el 2 de diciembre de 2024, según establecen los apartados cuarto y segundo de la Resolución de 27 de junio de 2024. Ref. BOE-A-2024-13823#cu
