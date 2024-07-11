@@ -2,7 +2,7 @@
 
 ## Currículo básico del módulo profesional de Digitalización aplicada a los sectores productivos (Grado Superior)
 
-Módulo profesional: Digitalización aplicada al sistema productivo (GS).
+Módulo Profesional: Digitalización aplicada a los sectores productivos (GS).
 
 Equivalencia en créditos ECTS: 3.
 
@@ -113,3 +113,5 @@ i) Se ha tenido en cuenta la integración entre datos, aplicaciones, plataformas
 j) Se han documentado los cambios realizados en función de la estrategia.
 
 k) Se han tenido en cuenta la idoneidad de los recursos humanos.
+
+> Se modifica el primer párrafo por el art. 2.28 del Real Decreto 658/2024, de 9 de julio. Ref. BOE-A-2024-14079

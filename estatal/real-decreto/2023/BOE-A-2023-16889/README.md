@@ -334,6 +334,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésima](da-19.md)
 - [Disposición adicional vigesimoprimera](da-20.md)
 - [Disposición adicional vigesimosegunda](da-21.md)
+- [Disposición adicional vigesimotercera](da-22.md)
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposición transitoria tercera](dt-3.md)

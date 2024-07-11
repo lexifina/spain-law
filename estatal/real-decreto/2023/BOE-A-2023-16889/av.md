@@ -22,7 +22,7 @@ b) Se ha comparado los diferentes requerimientos exigidos por el mercado laboral
 
 c) Se ha reflexionado sobre las actitudes y aptitudes requeridas actualmente para la actividad profesional relacionadas con el título, así como las competencias personales y sociales más relevantes para el sector identificando nuestra zona de desarrollo próximo.
 
-2. Alcanza las competencias necesarias para la obtención del título de Técnico Básico en Prevención de Riesgos Laborales.
+2. Adquiere las competencias necesarias para el desempeño de las funciones de nivel básico en Prevención de Riesgos Laborales.
 
 a) Se ha valorado la importancia de la cultura preventiva en todos los ámbitos actividades de la empresa u organismo equiparado relacionado las condiciones laborales con la salud de la persona trabajadora identificando y clasificando los factores de riesgo en la actividad y los daños derivados de los mismos, especialmente las situaciones de riesgo más habituales en los entornos de trabajo del sector profesional relacionado con el título.
 
@@ -191,3 +191,5 @@ g) Se han aplicado las estrategias necesarias para analizar la viabilidad del pr
 h) Se han investigado las opciones financieras socialmente responsables.
 
 i) Se han definido los agentes implicados en el proyecto, así como su participación en el mismo.
+
+> Se modifica el primer párrafo del apartado 2 del "Itinerario personal para la empleabilidad I" por el art. 2.26 del Real Decreto 658/2024, de 9 de julio. Ref. BOE-A-2024-14079

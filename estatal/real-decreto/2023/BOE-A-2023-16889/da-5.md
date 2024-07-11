@@ -20,9 +20,9 @@ a) Haber superado un curso de formación específico preparatorio para el acceso
 
 b) Haber superado una prueba de acceso a ciclos formativos de grado superior.
 
-d) Estar en posesión del título de Técnico.
+c) Estar en posesión del título de Técnico.
 
-d) Estar en posesión de un Certificado de profesionalidad de nivel 2.
+d) Estar en posesión de un Certificado de profesionalidad de nivel 3.
 
 e) Tener superada la prueba de acceso a la universidad para mayores de veinticinco años y/o de cuarenta y cinco años.
 
@@ -31,3 +31,5 @@ f) Tener superados los estudios conducentes al título de Bachiller regulado por
 g) Tener acreditación mediante certificación académica la superación de todas las asignaturas conducentes a la obtención del título de Bachiller regulado por la Ley 14/1970, de 4 de agosto, General de Educación y Financiamiento de la Reforma Educativa, tras la finalización del tercer curso de dichas enseñanzas.
 
 h) Tener acreditadas las competencias clave necesarias, de acuerdo con lo recogido en el anexo IV del Real Decreto 34/2008, de 18 de enero, para cursar con aprovechamiento la formación correspondiente al certificado de profesionalidad.
+
+> Se modifica la letra d) del apartado 2 por el art. 2.18 del Real Decreto 658/2024, de 9 de julio. Ref. BOE-A-2024-14079

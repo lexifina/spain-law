@@ -2,6 +2,10 @@
 
 ## Módulo profesional de itinerario personal para la empleabilidad en los ciclos formativos de Grado Básico
 
+Módulo Profesional: Itinerario personal para la empleabilidad.
+
+Duración: 50 horas.
+
 Código: 3159.
 
 Resultados de aprendizaje y criterios de evaluación:
@@ -55,3 +59,5 @@ b) Se han identificado las diferentes fuentes de información de acceso al emple
 c) Se han analizado las distintas técnicas utilizadas para la búsqueda de empleo por cuenta ajena.
 
 d) Se han puesto en práctica las diferentes herramientas que permitan una búsqueda de empleo óptima.
+
+> Se modifica el primer párrafo por el art. 2.24 del Real Decreto 658/2024, de 9 de julio. Ref. BOE-A-2024-14079

@@ -2,7 +2,7 @@
 
 ## Currículo básico del módulo profesional de Digitalización aplicada a los sectores productivos (Grado Medio)
 
-Módulo Profesional: Digitalización aplicada a los sectores productivos I (GM).
+Módulo Profesional: Digitalización aplicada a los sectores productivos (GM).
 
 Código: 1664.
 
@@ -85,3 +85,5 @@ f) Se ha elaborado un informe de viabilidad y de las mejoras introducidas.
 g) Se ha analizado la mejora en la producción y gestión de residuos, entre otras.
 
 h) Se ha elaborado un documento con la secuencia del plan de transformación y los recursos empleados.
+
+> Se modifica el primer párrafo por el art. 2.27 del Real Decreto 658/2024, de 9 de julio. Ref. BOE-A-2024-14079
