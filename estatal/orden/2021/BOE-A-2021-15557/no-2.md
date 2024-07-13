@@ -1,0 +1,1 @@
+Esta Orden se deja sin efecto, desde el 13 de julio de 2024, en lo referido a los órganos del Ministerio de Vivienda y Agenda Urbana, según establece el art. 16 de la Orden VAU/717/2024, de 5 de julio. Ref. BOE-A-2024-14299
