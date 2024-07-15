@@ -29,3 +29,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 11](a11.md)
 - [Artículo 12](a12.md)
 - [firma-2](firma-2.md)
+- [DECLARACIONES DE ESPAÑA](de.md)
