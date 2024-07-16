@@ -42,7 +42,9 @@ Parte C. Zona restringida frente al serotipo 8 del virus de la lengua azul
 
 Se considerará zona restringida frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
-1. En la Comunidad Autónoma de Cataluña: Las provincias de Girona y Barcelona.
+1. La Comunidad Autónoma de Cataluña.
+
+> Se modifica la parte C por Resolución de 11 de julio de 2024. Ref. BOE-A-2024-14518
 
 > Se añade la parte C por Resolución de 17 de junio de 2024. Ref. BOE-A-2024-12539
 

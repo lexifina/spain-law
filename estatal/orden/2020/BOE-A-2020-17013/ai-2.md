@@ -30,15 +30,15 @@ Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de
 
 1. La Comunidad Autónoma de Aragón.
 
-2. En la Comunidad Autónoma de Cataluña: las provincias de Lleida y Tarragona.
+2. La Comunidad Foral de Navarra.
 
-3. La Comunidad Foral de Navarra.
+3. La Comunidad Autónoma del País Vasco.
 
-4. La Comunidad Autónoma del País Vasco.
+4. La Comunidad Autónoma de Cantabria.
 
-5. La Comunidad Autónoma de Cantabria.
+5. La Comunidad Autónoma del Principado de Asturias.
 
-6. La Comunidad Autónoma del Principado de Asturias.
+> Se modifica la parte C por Resolución de 11 de julio de 2024. Ref. BOE-A-2024-14518
 
 > Se modifica la parte C por Resolución de 17 de junio de 2024. Ref. BOE-A-2024-12539
 
