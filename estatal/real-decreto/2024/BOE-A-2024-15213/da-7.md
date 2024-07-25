@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Prestación de servicios de tecnologías digitales en el ámbito sanitario.
+
+Con el fin de racionalizar el gasto y garantizar la continuidad de los servicios se mantendrán los recursos de información y comunicaciones previamente consolidados en el Centro de Proceso de Datos del Paseo del Prado 18, que prestarán los servicios señalados en las letras a), h) e i) del artículo 8 al Ministerio de Derechos Sociales, Consumo y Agenda 2030 y al Ministerio de Juventud e Infancia, así como a los organismos dependientes del Ministerio de Sanidad, articulándose para ello los acuerdos de colaboración o convenios necesarios.
