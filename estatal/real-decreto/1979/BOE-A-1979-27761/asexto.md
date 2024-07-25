@@ -4,4 +4,6 @@ Uno. El Presidente es el Jefe superior del Organismo, correspondiéndole la repr
 
 Dos. Así mismo corresponde al Presidente el nombramiento de los funcionarios de carrera y empleo y la contratación del personal en régimen administrativo o laboral de acuerdo con las disposiciones vigentes.
 
-Tres. Será Presidente el Director general del Servicio Nacional de Productos Agrarios.
+Tres. Será Presidente el Subsecretario de Agricultura, Pesca y Alimentación.
+
+> Se modifica el apartado 3 por la disposición final 2 del Real Decreto 717/2024, de 23 de julio. Ref. BOE-A-2024-15212#df-2
