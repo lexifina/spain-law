@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2024-07-25. The recorded cause is disposición derogatoria única del Real Decreto 718/2024, de 23 de julio, Ref. BOE-A-2024-15213#dd y que el Real Decreto 139/2020, de 28 de enero, quedó sustituido por el Real Decreto 1009/2023, de 5 de diciembre (BOE-A-2023-24842). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
