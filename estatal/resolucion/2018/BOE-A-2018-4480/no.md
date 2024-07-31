@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada por la Resolución de 9 de abril de 2018. Ref. BOE-A-2018-5111
+Norma deroga, con efectos desde el 31 de julio de 2024, por el apartado quinto de la Resolución de 3 de julio de 2024. Ref. BOE-A-2024-14142#qu
