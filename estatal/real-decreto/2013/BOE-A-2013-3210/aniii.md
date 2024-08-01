@@ -420,6 +420,14 @@ Se aplica a la categoría 11 y expira el 21 de julio de 2024.
 
 Se aplica a la categoría 11 y expira el 20 de abril de 2026.
 
+46. Cadmio y plomo en perfiles de plástico que contengan mezclas producidas a partir de residuos de cloruro de polivinilo (en lo sucesivo, «PVC rígido valorizado»), utilizadas para ventanas y puertas eléctricas y electrónicas, cuando la concentración en el material de PVC rígido valorizado no supere el 0,1 % en peso de cadmio y el 1,5 % en peso de plomo. A partir del 28 de mayo de 2026, el PVC rígido valorizado procedente de ventanas y puertas eléctricas y electrónicas solo se utilizará para la producción de artículos nuevos de las categorías especificadas en la entrada 63, punto 18, letras a) a d), del anexo XVII del Reglamento (CE) n.º 1907/2006. Los proveedores de artículos de PVC que contengan PVC rígido valorizado con una concentración de plomo igual o superior al 0,1 % en peso del material de PVC velarán por que, antes de que sean comercializados, estén marcados de manera visible, legible e indeleble con la siguiente indicación: «Contiene ≥ 0,1 % de plomo». Cuando el marcado no pueda figurar en el artículo debido a la naturaleza de este, figurará en el embalaje del artículo.
+
+Los proveedores de artículos de PVC que contengan PVC rígido valorizado presentarán a las autoridades nacionales competentes, cuando así lo soliciten, pruebas documentales que justifiquen las alegaciones sobre el origen valorizado del PVC de dichos artículos. Los certificados expedidos por los sistemas para demostrar la trazabilidad y el contenido reciclado, como los elaborados con arreglo a la norma EN 15343:2007 o normas reconocidas equivalentes, podrán utilizarse para justificar tales alegaciones sobre artículos de PVC fabricados en la Unión. Las alegaciones relativas al origen valorizado del PVC de artículos importados irán acompañadas de un certificado que demuestre de forma equivalente la trazabilidad y el contenido reciclado, expedido por un tercero independiente.
+
+Se aplica a la categoría 11 y expira el 28 de mayo de 2028.
+
+> Se añade el apartado 46 por el art. único de la Orden PJC/802/2024, de 29 de julio. Ref. BOE-A-2024-15703
+
 > Se añade el punto 3º al apartado 9.a) por el art. único de la Orden PCM/811/2023, de 18 de julio. Ref. BOE-A-2023-16730
 
 > Se modifican los apartados 1, 2, 3 y 4 por el art. único de la Orden PCM/956/2022, de 6 de octubre. Ref. BOE-A-2022-16403
