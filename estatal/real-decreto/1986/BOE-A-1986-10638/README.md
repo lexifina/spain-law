@@ -211,6 +211,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 138](a138.md)
 - [Artículo 139](a139.md)
 - [Artículo 139 bis](a139bis.md)
+- [Sección 6 bis](s6-5.md)
+- [Artículo 139 ter](a1-11.md)
 - [Sección 7](s7-2.md)
 - [Artículo 140](a140.md)
 - [Artículo 141](a141.md)
