@@ -12,9 +12,11 @@ d) Cuando sean nombrados o adscritos como letrados al servicio del Tribunal de J
 
 e) Cuando presten servicio, en virtud de nombramiento por Real Decreto, o por Decreto en las Comunidades Autónomas, en cargos que no tengan rango superior a director general.
 
-f) Cuando sean nombrados para cargo político o de confianza en virtud de Real Decreto, Decreto autonómico o acuerdo de Pleno de Entidad Local, o elegidos para cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas, Juntas Generales de los Territorios Históricos o Corporaciones locales.
+f) Cuando sean nombrados para cargo político o de confianza en virtud de Real Decreto, Decreto autonómico o acuerdo de Pleno de entidad local con rango de director general o inferior.
 
-En este caso, así como en el supuesto previsto en la letra f) del artículo 356, los jueces y magistrados, y los funcionarios de otros cuerpos, que reingresen en la Carrera correspondiente deberán abstenerse, y en su caso podrán ser recusados, de intervenir en cualesquiera asuntos en los que sean parte partidos o agrupaciones políticas, o aquellos de sus integrantes que ostenten o hayan ostentado cargo público.
+> Se modifica la letra f) por el art. 1.3 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
+
+> Téngase en cuenta para su aplicación la disposición transitoria de la citada Ley Orgánica.
 
 > Se modifican las letras a) y c) por la disposición final 2.8 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df-2
 

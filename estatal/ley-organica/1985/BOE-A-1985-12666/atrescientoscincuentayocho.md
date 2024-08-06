@@ -4,7 +4,13 @@
 
 2. Se exceptúan de lo previsto en el apartado anterior las excedencias voluntarias para el cuidado de hijos y para atender al cuidado de un familiar a que se refieren los apartados d) y e) del artículo 356, en las que el período de permanencia en dichas situaciones será computable a efectos de trienios y derechos pasivos. En este mismo período se permitirá participar en cursos de formación. Durante los dos primeros años se tendrá derecho a la reserva de la plaza en la que se ejerciesen sus funciones y al cómputo de la antigüedad, así como a participar en los concursos de traslado. Transcurrido este periodo, dicha reserva lo será a un puesto en la misma provincia y de igual categoría, debiendo solicitar, en el mes anterior a la finalización del período máximo de permanencia en la misma, el reingreso al servicio activo; de no hacerlo, será declarado de oficio en la situación de excedencia voluntaria por interés particular.
 
-3. Los que se encuentren en la situación de excedencia a la que se refiere el párrafo f) del artículo 356, en caso de que soliciten el reingreso al servicio activo, quedarán adscritos al Presidente del Tribunal Superior de Justicia de la comunidad autónoma de su último destino, teniendo preferencia para obtener puesto de su categoría en la provincia o, en su defecto, Comunidad Autónoma de dicho último destino.
+3. Los que se encuentren en la situación de excedencia a la que se refieren las letras f) y g) del artículo 356, en caso de que soliciten el reingreso al servicio activo, quedarán en situación de servicios especiales a todos los efectos durante los dos años siguientes a su cese, sin ejercer funciones jurisdiccionales, sin merma en los derechos y en la retribución que tuvieran antes de la excedencia y pudiendo concursar a otros destinos.
+
+Durante este período, los que provengan de un cargo político o de confianza o de cargos públicos representativos de ámbito europeo o estatal, quedarán adscritos orgánicamente al Presidente del Tribunal Supremo. Por su parte, los que provengan de un cargo político o de confianza o de un cargo público de ámbito autonómico o local, quedarán adscritos orgánicamente al Presidente del Tribunal Superior de Justicia de la comunidad autónoma de su último destino.
+
+Una vez transcurrido el plazo, tendrán derecho a reintegrarse en su plaza de origen o en la plaza que se les haya adjudicado por concurso o, si así lo eligen, a ser destinados a una vacante de su categoría en la provincia o comunidad autónoma donde prestaran servicios antes de su excedencia.
+
+> Se modifica el apartado 3 por el art. 1.6 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
 
 > Se modifica el apartado 2 por el art. 1.13 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
 

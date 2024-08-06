@@ -8,7 +8,7 @@
 
 3.ª El nombramiento, en los términos previstos por esta Ley Orgánica, del Vicepresidente del Tribunal Supremo, del Secretario General y del Vicesecretario General del Consejo General del Poder Judicial.
 
-4.ª Todos los nombramientos o propuestas de nombramientos y promociones que impliquen algún margen de discrecionalidad o apreciación de méritos.
+4.ª Todos los nombramientos o propuestas de nombramientos y promociones que impliquen algún margen de discrecionalidad o apreciación de méritos. En estos nombramientos se garantizará el principio de presencia equilibrada de mujeres y hombres, de tal manera que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento.
 
 5.ª La interposición del conflicto de atribuciones entre órganos constitucionales del Estado.
 
@@ -29,6 +29,12 @@
 13.ª Las demás que le atribuye esta Ley, las que no estén conferidas a otros órganos del Consejo y aquellos asuntos que, por razones excepcionales, acuerde recabar para sí.
 
 2. El Pleno designará un máximo de dos Vocales por cada Comunidad Autónoma para que, sin perjuicio de las competencias de los respectivos Tribunales Superiores de Justicia, sirvan de cauce de interlocución entre las instituciones y autoridades del territorio y el Consejo General del Poder Judicial.
+
+3. El Pleno podrá crear otras Comisiones, además de las enumeradas en el artículo 595.2, por una mayoría de tres quintos de los vocales. Estarán formadas por cinco Vocales, de los cuales, tres serán del turno judicial y dos del turno de juristas de reconocida competencia.
+
+> Se añade el apartado 3 por el art. 1.13 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
+
+> Se modifica el apartado 1.4ª por el art. 6.2 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#as-2
 
 > Se modifica el apartado 1.1ª por el art. único.2 de la Ley Orgánica 8/2022, de 27 de julio. Ref. BOE-A-2022-12579#au
 

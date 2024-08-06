@@ -18,7 +18,15 @@ El período de excedencia será único por cada sujeto causante. Cuando un nuevo
 
 Esta excedencia y la regulada en el apartado anterior constituyen un derecho individual de los miembros de la carrera judicial. En caso de que dos de sus miembros generasen el derecho a disfrutarlas por el mismo sujeto causante, el Consejo General del Poder Judicial podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con las necesidades y el funcionamiento de los servicios.
 
-f) Cuando se presente como candidato en elecciones para acceder a cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas o Corporaciones locales. De no resultar elegido, deberá optar, comunicándolo así al Consejo General del Poder Judicial, en el plazo de treinta días, por continuar en la situación de excedencia voluntaria o por reingresar en el servicio activo.
+f) Cuando se presente como candidato en elecciones para acceder a cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas o Corporaciones locales.
+
+g) Cuando sean nombrados para cargo político o de confianza en virtud de Real Decreto, Decreto autonómico o acuerdo de Pleno de entidad local, con rango superior a director general, o elegidos para cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas o Juntas Generales de los Territorios Históricos, o titular de la Presidencia de una Corporación local.
+
+En este caso, así como en el supuesto previsto en la letra f), los jueces y magistrados, y los funcionarios de otros cuerpos, que reingresen en la Carrera correspondiente deberán abstenerse, y en su caso podrán ser recusados, de intervenir en cualesquiera asuntos en los que sean parte partidos o agrupaciones políticas, o aquellos de sus integrantes que ostenten o hayan ostentado cargo público.
+
+> Se modifica la letra f) y se añade la g) por el art. 1.4 y 5 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
+
+> Téngase en cuenta, en cuanto a la aplicación de la letra g), la disposición transitoria de la citada Ley Orgánica.
 
 > Se modifica la letra f) por el art. único.2 de la Ley Orgánica 12/2011, de 22 de septiembre. Ref. BOE-A-2011-15037.
 

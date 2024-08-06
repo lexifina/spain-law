@@ -847,6 +847,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo seiscientos nueve](aseiscientosnueve.md)
 - [CAPITULO VI](cvi-6.md)
 - [Artículo seiscientos diez](aseiscientosdiez.md)
+- [CAPÍTULO VII](cv-9.md)
+- [Artículo seiscientos diez bis](a6.md)
 - [TITULO V](tv-6.md)
 - [CAPITULO I](ci-21.md)
 - [Artículo seiscientos once](aseiscientosonce.md)
