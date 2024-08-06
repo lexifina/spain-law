@@ -2,19 +2,27 @@
 
 ## Modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido
 
-> Téngase en cuenta que este modelo, modificado por el art. 2.2 de la Orden HFP/1124/2022, de 18 de noviembre, Ref. BOE-A-2022-19290, se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece la disposición final única de la citada Orden.
+> Téngase en cuenta que este modelo, modificado por la Orden HAC/819/2024, de 30 de julio Ref. BOE-A-2024-16129, se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido, modelo 303, correspondientes a los siguientes periodos de liquidación, según establece su disposición final única:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_5.png)
+> a) En el caso de sujetos pasivos con periodo de liquidación mensual, se aplicará por primera vez a la autoliquidación de septiembre de 2024.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_6.png)
+> b) En el caso de sujetos pasivos con periodo de liquidación trimestral, se aplicará por primera vez a la autoliquidación del tercer trimestre de 2024.
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_8.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_9.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_10.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_6.png)
+
+> Se sustituye por el artículo único en la forma que figura en el anexo de la Orden HAC/819/2024, de 30 de julio. Ref. BOE-A-2024-16129
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición final única de la citada Orden.
 
 > Se sustituye por el que figura como anexo II de la Orden HFP/1124/2022, de 18 de noviembre, según establece su art. 2.2. Ref. BOE-A-2022-19290.
 
