@@ -8,25 +8,27 @@ A continuación se relacionan, por cursos y módulos, las materias de enseñanza
 | --- |
 | FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD |
 | MÓDULO | MATERIA | ECTS | SEMANAS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Estadística. | 6 |  | Análisis estadístico del delito. | Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología. |
+|  |
+| Formación de Cuerpo de Seguridad. | Estadística. | 6 |  | Análisis estadístico del delito. | Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología. |
 | Ciencias Sociales y Jurídicas. | 6 |  | Derechos fundamentales y seguridad. | Derechos fundamentales y seguridad en la Constitución Española de 1978. Las garantías de los derechos fundamentales. Suspensión de derechos. Análisis de ciertos derechos fundamentales con particular proyección sobre el orden público: Igualdad; Derechos de la esfera personal; Derechos de libertad personal y movilidad; Libertades públicas de reunión y asociación; Derechos de ámbito laboral. |
 | 6 |  | Derecho Penal I. | Introducción al Derecho Penal. Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Casos prácticos y análisis jurisprudencial. Prácticas. |
 | 6 |  | Derecho Penal II. | Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos contra la colectividad y de los funcionarios. Nuevas formas de delincuencia. Casos prácticos y análisis jurisprudencial. Prácticas. |
 | 3 |  | Derecho Administrativo I. | El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos Administrativos. Control de la actuación administrativa Pública. El principio de legalidad en la actuación de las Administraciones Públicas. El reglamento. La autotutela administrativa. Aproximación al interés general y su composición con los derechos e intereses de los particulares. |
 | 3 |  | Derecho Administrativo II. | La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas. |
 | 6 |  | Cooperación policial internacional. | La sociedad internacional y su ordenamiento jurídico. Aplicación del derecho internacional. El derecho de los conflictos armados y las organizaciones internacionales. Cooperación de interés policial a nivel internacional. Instrumento de cooperación policial internacional. Instituciones internacionales y cooperación en la Unión Europea. |
-| Técnica profesional e investigación. | 2 |  | Policía Judicial I. | La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial. |
+| 2 |  | Deontología profesional. | Código de Conducta y reglas de comportamiento del Oficial de la Guardia Civil. |
+| Técnica Profesional e Investigación. | 2 |  | Policía Judicial I. | La Policía Judicial en el proceso penal. Normas de organización y empleo de Unidades de Policía Judicial. |
 | 3 |  | Sistemas de gestión y documentación I. | Iniciación en los sistemas informáticos de gestión de la Guardia Civil. |
-| 3 |  | Dirección y gestión de Unidades de la Guardia Civil I. | Prevención de delincuencia. Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. Control de masas. |
-| 3 |  | Fiscal, fronteras e inmigración | Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras Unión Europea. Schengen. Inmigración irregular. |
+| 3 |  | Dirección y gestión de Unidades de la GC I. | Prevención de delincuencia. Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. Control de masas. |
+| 3 |  | Fiscal, fronteras e inmigración. | Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Fronteras UE. Schengen. Inmigración irregular. |
 | 6 |  | Riesgos y amenazas globales a la seguridad nacional e internacional. | Concepto de seguridad y estrategia. Desafíos, riesgos y amenazas que pueden afectar a la estabilidad, en el ámbito de las organizaciones de seguridad y defensa. Estrategias de seguridad de países y organizaciones. Líneas de acción. Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC. |
 | 3 |  | Ciencias forenses I. | Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas: Sistemas de investigación, muestras biológicas. |
 | 3 |  | Tecnologías aplicadas a la investigación I. | Necesidades de captura de datos en el entorno de la seguridad. Sistemas de captura de imágenes estáticas, dinámicas y otros dispositivos. Aplicaciones en el ámbito de la seguridad. |
-| Seguridad Informática. | 6 |  | Gestión de Seguridad. Pública de la Información. | La organización y su sistema de información. Normalización, homologación, evaluación, certificación y acreditación. Marco legal. Organismos internacionales y nacionales. El Plan integral de seguridad de los sistemas de información. Clasificación de la información. |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 6 |  | Lengua Inglesa I. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. |
-| INSTRUCCIÓN Y ADIESTRAMIENTO | Instrucción y adiestramiento. |  | 6,5 semanas | Instrucción y adiestramiento I. | Ejercicios y prácticas integradas. Orden cerrado. |
-| Formación física. |  | 2,5 semanas | Formación física I. | Formación física. Defensa personal policial. |
-| TOTALES | 72 | 9 |  |
+| Seguridad Informática. | 6 |  | Gestión de Seguridad Pública de la Información. | La Organización y su sistema de información. Normalización, homologación, evaluación, certificación y acreditación. Marco legal. Organismos internacionales y nacionales. El Plan integral de seguridad de los sistemas de información. Clasificación de la información. |
+| Formación en Lengua Inglesa. | Lengua Inglesa. | 4 |  | Lengua Inglesa I. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. |
+| Instrucción y Adiestramiento. | Instrucción y Adiestramiento. |  | 6,5 semanas | Instrucción y adiestramiento I. | Ejercicios y prácticas integradas. Orden Cerrado. |
+| Formación Física. |  | 2,5 semanas | Formación física I. | Formación física. Defensa personal policial. |
+| Totales. | 71 | 9 |  |
 | Curso: 2º |
 | --- |
 | FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD |
@@ -51,3 +53,5 @@ A continuación se relacionan, por cursos y módulos, las materias de enseñanza
 | INSTRUCCIÓN Y ADIESTRAMIENTO | Instrucción y adiestramiento. |  | 6,5 semanas | Instrucción y adiestramiento II | Ejercicios y prácticas integradas. Orden cerrado. |
 | Formación física. |  | 2,5 semanas | Formación física II. | Formación física. Defensa personal policial. |
 | TOTALES | 69 | 9 |  |
+
+> Se modifica el curso 1º por la disposición final 3.3 de la Orden PJC/849/2024, de 8 de agosto. Ref. BOE-A-2024-16600#df-3

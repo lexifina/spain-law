@@ -83,13 +83,14 @@ b) Acceso por promoción profesional en la modalidad de cambio de escala.
 | Curso: 1º |
 | --- |
 | MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Humanidades. | 6 | Derechos fundamentales y seguridad. | T |
+| Formación de Cuerpo de Seguridad. | Humanidades. | 6 | Derechos fundamentales y seguridad. | T |
 | Estadística. | 6 | Análisis estadístico del delito. | T |
 | Ciencias jurídicas y sociales. | 6 | Derecho Penal I. | P |
 | 6 | Derecho Penal II. | P |
 | 3 | Derecho Administrativo I. | T |
 | 3 | Derecho Administrativo II. | T |
 | 6 | Cooperación policial internacional. | P |
+| 2 | Deontología profesional. | T |
 | Técnica profesional e investigación. | 2 | Policía Judicial I. | P |
 | 3 | Sistemas de gestión y documentación I. | P |
 | 3 | Dirección y gestión de Unidades de la Guardia Civil I. | P |
@@ -97,8 +98,8 @@ b) Acceso por promoción profesional en la modalidad de cambio de escala.
 | 6 | Riesgos y amenazas globales a la seguridad nacional e internacional. | P |
 | 3 | Ciencias forenses I. | P |
 | 3 | Tecnologías aplicadas a la investigación I. | T |
-| Seguridad informática. | 6 | Gestión de seguridad pública de la información. | T |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 6 | Lengua Inglesa I. | P |
+| Seguridad Informática. | 6 | Gestión de seguridad pública de la información. | T |
+| Formación en Lengua Inglesa. | Lengua Inglesa. | 4 | Lengua Inglesa I. | P |
 | Curso: 2º |
 | --- |
 | MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
@@ -125,11 +126,12 @@ c) Acceso por promoción profesional en la modalidad de promoción interna.
 | Curso: 1º |
 | --- |
 | MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Técnica profesional e investigación. | 3 | Sistemas de gestión y documentación. | P |
+| FORMACIÓN DE CUERPO DE SEGURIDAD | Técnica profesional e investigación. | 2 | Sistemas de gestión y documentación. | P |
 | 3 | Fiscal, fronteras e inmigración. | P |
 | 3 | Inteligencia policial. | P |
 | 2 | Policía Judicial I. | P |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 3 | Lengua Inglesa I. | P |
+| Ciencias Sociales y Jurídicas | 2 | Deóntología profesional | T |
+| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 2 | Lengua Inglesa I. | P |
 | FUNDAMENTOS JURÍDICOS | Derecho de la Seguridad. | 6 | Derechos fundamentales y seguridad. | P |
 | Derecho Penal y Procesal Penal. | 6 | Derecho Penal I. | T |
 | 6 | Derecho Penal II. | T |
@@ -162,3 +164,5 @@ c) Acceso por promoción profesional en la modalidad de promoción interna.
 | 6 | Tecnologías para la seguridad física. | P |
 | TRABAJO FIN DE GRADO | Trabajo fin de Grado. | 12 | Trabajo fin de Grado. | P |
 | INTRODUCTORIO | Idiomas. | 3 | Lengua Inglesa III. | P |
+
+> Se modifica el curso 1º de los apartados b) y c) por la disposición final 3.5 y 6 de la Orden PJC/849/2024, de 8 de agosto. Ref. BOE-A-2024-16600#df-3
