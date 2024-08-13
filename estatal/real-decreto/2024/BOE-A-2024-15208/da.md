@@ -1,0 +1,5 @@
+## Disposición adicional única. Protección de datos de carácter personal.
+
+1. El tratamiento de los datos personales en virtud de esta norma se realiza en cumplimiento de una misión de interés público conforme a lo dispuesto en el artículo 6.1, apartado e), del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos).
+
+2. Corresponde a la Dirección General de Consumo actuar como órgano responsable del tratamiento. Para el tratamiento de los datos personales se aplicarán las medidas de gestión previstas en el Reglamento General de Protección de Datos. Estas incluyen la recogida de los datos de acuerdo con el principio de minimización, la conservación de estos durante el tiempo estrictamente necesario para alcanzar las finalidades para las que fueron recabados y la adecuación a los requisitos del Esquema Nacional de Seguridad.
