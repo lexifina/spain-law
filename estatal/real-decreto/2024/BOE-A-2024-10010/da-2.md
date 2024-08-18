@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Condiciones de calidad establecidas en el Plan de Prestación del Servicio Postal Universal aprobado por Acuerdo del Consejo de Ministros de 1 de junio de 2021.
+
+A los efectos del apartado 11 del Plan de Prestación del Servicio Postal Universal, la penalización total anual, que será la suma de las penalizaciones por cada uno de los objetivos incumplidos, no podrá exceder del importe máximo establecido para las sanciones por faltas muy graves en el artículo 62.1 de la Ley 43/2010, de 30 de diciembre, del servicio postal universal, de los derechos de los usuarios y del mercado postal.
