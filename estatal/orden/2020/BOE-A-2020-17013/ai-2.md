@@ -28,7 +28,7 @@ Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la len
 
 Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
-1. La Comunidad Autónoma de Aragón.
+1. En la Comunidad Autónoma de Aragón: Las provincias de Zaragoza y Teruel.
 
 2. La Comunidad Foral de Navarra.
 
@@ -37,6 +37,8 @@ Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de
 4. La Comunidad Autónoma de Cantabria.
 
 5. La Comunidad Autónoma del Principado de Asturias.
+
+> Se modifica la parte C por Resolución de 13 de agosto de 2024. Ref. BOE-A-2024-17070
 
 > Se modifica la parte C por Resolución de 11 de julio de 2024. Ref. BOE-A-2024-14518
 
