@@ -16,8 +16,10 @@ Tres. Se añade un nuevo párrafo al artículo 544 bis, que queda redactado como
 
 Cuatro. Se modifica el apartado 3 del artículo 681 que queda redactado como sigue:
 
-> «3. Queda prohibida, en todo caso, la divulgación o publicación de información relativa a la identidad de víctimas menores de edad, de víctimas con discapacidad necesitadas de especial protección y de las víctimas de los delitos de violencia sexual referidos en el artículo 3 de esta ley, así como de datos que puedan facilitar su identificación de forma directa o indirecta, o de aquellas circunstancias personales que hubieran sido valoradas para resolver sobre sus necesidades de protección, así como la obtención, divulgación o publicación de imágenes suyas o de sus familiares.»
+> «3. Queda prohibida, en todo caso, la divulgación o publicación de información relativa a la identidad de víctimas menores de edad, de víctimas con discapacidad necesitadas de especial protección y de las víctimas de los delitos de violencia sexual referidos en el artículo 3 de la Ley Orgánica 10/2022, de 6 de septiembre, de garantía integral de la libertad sexual, así como de datos que puedan facilitar su identificación de forma directa o indirecta, o de aquellas circunstancias personales que hubieran sido valoradas para resolver sobre sus necesidades de protección, así como la obtención, divulgación o publicación de imágenes suyas o de sus familiares.''»
 
 Cinco. Se modifica el segundo párrafo del artículo 709, que queda redactado como sigue:
 
 > «El Presidente podrá adoptar medidas para evitar que se formulen a la víctima preguntas innecesarias relativas a la vida privada, en particular a la intimidad sexual, que no tengan relevancia para el hecho delictivo enjuiciado, salvo que, excepcionalmente y teniendo en cuenta las circunstancias particulares del caso, el Presidente considere que sean pertinentes y necesarias. Si esas preguntas fueran formuladas, el Presidente no permitirá que sean contestadas.»
+
+> Se modifica el apartado 4 por la disposición final 11.2 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#df-11

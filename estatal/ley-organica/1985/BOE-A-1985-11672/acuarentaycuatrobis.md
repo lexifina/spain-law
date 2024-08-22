@@ -1,14 +1,18 @@
 ## Artículo cuarenta y cuatro bis
 
-1. Las candidaturas que se presenten para las elecciones de diputados al Congreso, municipales y de miembros de los consejos insulares y de los cabildos insulares canarios en los términos previstos en esta Ley, diputados al Parlamento Europeo y miembros de las Asambleas Legislativas de las Comunidades Autónomas deberán tener una composición equilibrada de mujeres y hombres, de forma que en el conjunto de la lista los candidatos de cada uno de los sexos supongan como mínimo el cuarenta por ciento. Cuando el número de puestos a cubrir sea inferior a cinco, la proporción de mujeres y hombres será lo más cercana posible al equilibrio numérico.
+1. Las candidaturas que se presenten para las elecciones de diputados y diputadas al Congreso, municipales, de miembros de los consejos insulares y de los cabildos insulares, diputados y diputadas al Parlamento Europeo y miembros de las Asambleas Legislativas de las comunidades autónomas y Juntas Generales de los Territorios Históricos vascos deberán tener una composición paritaria de mujeres y hombres, integrándose las listas por personas de uno y otro sexo ordenados de forma alternativa.
 
-En las elecciones de miembros de las Asambleas Legislativas de las Comunidades Autónomas, las leyes reguladoras de sus respectivos regímenes electorales podrán establecer medidas que favorezcan una mayor presencia de mujeres en las candidaturas que se presenten a las Elecciones de las citadas Asambleas Legislativas.
+2. La regla anterior se aplicará en el conjunto de las listas, sin separar titulares y suplentes.
 
-2. También se mantendrá la proporción mínima del cuarenta por ciento en cada tramo de cinco puestos. Cuando el último tramo de la lista no alcance los cinco puestos, la referida proporción de mujeres y hombres en ese tramo será lo más cercana posible al equilibrio numérico, aunque deberá mantenerse en cualquier caso la proporción exigible respecto del conjunto de la lista.
+3. En las elecciones de miembros de las Asambleas Legislativas de las comunidades autónomas y Juntas Generales de los Territorios Históricos vascos, las leyes reguladoras de sus respectivos regímenes electorales podrán establecer otros sistemas de elaboración de listas siempre que su objetivo sea favorecer la representación paritaria y la presencia equilibrada de mujeres y hombres en dichas candidaturas.
 
-3. A las listas de suplentes se aplicarán las reglas contenidas en los anteriores apartados.
+4. Cuando las candidaturas para el Senado se agrupen en listas, de acuerdo con lo dispuesto en el artículo 171, tales listas deberán tener igualmente una composición paritaria de mujeres y hombres, tal y como se establece en el apartado 1.
 
-4. Cuando las candidaturas para el Senado se agrupen en listas, de acuerdo con lo dispuesto en el artículo 171 de esta Ley, tales listas deberán tener igualmente una composición equilibrada de mujeres y hombres, de forma que la proporción de unas y otros sea lo más cercana posible al equilibrio numérico.
+5. La Junta Electoral solo aceptará aquellas candidaturas que cumplan este precepto tanto para las personas candidatas como para las suplentes.
+
+> Se modifica por el art, 1.1 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#ap
+
+> Téngase en cuenta que esta modificación será de aplicación a los procesos electorales que se convoquen después la entrada en vigor de la citada Ley Orgánica, según establece su disposición transitoria 1.1
 
 > Véase, para la interpretación de este artículo, la Instrucción 5/2007, de 12 de abril, de la Junta Electoral Central. Ref. BOE-A-2007-8182
 

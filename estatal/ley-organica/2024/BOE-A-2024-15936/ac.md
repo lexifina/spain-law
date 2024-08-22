@@ -1,0 +1,5 @@
+## Artículo cuarto. Modificación de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal.
+
+Se modifica el apartado Uno del artículo catorce de la Ley 50/1981, de 30 de diciembre, por la que se regula el Estatuto Orgánico del Ministerio Fiscal, que pasa a tener la siguiente redacción:
+
+> «Uno. El Consejo Fiscal se constituirá, bajo la Presidencia de la persona titular de la Fiscalía General del Estado, por el o la Teniente Fiscal del Tribunal Supremo, el Fiscal Jefe Inspector o la Fiscal Jefa Inspectora y nueve Fiscales pertenecientes a cualquiera de las categorías. Todos los miembros del Consejo Fiscal, excepto la persona titular de la Fiscalía General del Estado, el o la Teniente Fiscal del Tribunal Supremo y el Fiscal Inspector, se elegirán, por un período de cuatro años, atendiendo al principio de presencia equilibrada de mujeres y hombres, de forma que cada uno de los sexos suponga como mínimo el cuarenta por ciento de los Vocales electos, por los miembros del Ministerio Fiscal en servicio activo, constituidos en un único colegio electoral en la forma que reglamentariamente se determine.»

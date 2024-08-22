@@ -1,8 +1,10 @@
 ## Disposición adicional séptima. Competencias supervisoras de la Comisión Nacional del Mercado de Valores.
 
-Las disposiciones contenidas en los artículos 497, 497 bis, 512, 513, 514, 515, 516, 517, 520 bis, 520 ter, 522 bis, 524 bis, 524 ter, 525.2, 526, 527.bis.2, 527 septies, 528, 529, 529 quaterdecies, 529 quindecies, 529 unvicies, 530, 531, 532, 533, 534, 538, 539, 540 y 541 del Título XIV forman parte de las normas de ordenación y disciplina del mercado de valores, cuya supervisión corresponde a la Comisión Nacional del Mercado de Valores, de conformidad con lo dispuesto en el Título VIII de la Ley del Mercado de Valores, aprobado por Real Decreto Legislativo 4/2015, de 23 de octubre.
+Las disposiciones contenidas en los artículos 497; 497 bis; 512; 513; 514; 515; 516; 517; 520 bis; 520 ter; 522 bis; 524 bis; 524 ter; 525.2; 526; 527 bis.2; 527 septies; 528; 529; 529 bis, apartados 3 a 11; 529 quaterdecies; 529 quindecies; 529 unvicies; 530; 531; 532; 533; 534; 538; 539; 540, y 541 del título XIV forman parte de las normas de ordenación y disciplina del mercado de valores, cuya supervisión corresponde a la Comisión Nacional del Mercado de Valores, de conformidad con lo dispuesto en el título IX de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión.
 
-La Comisión Nacional del Mercado de Valores será competente para incoar e instruir los expedientes sancionadores a los que den lugar los incumplimientos de las obligaciones establecidas en los artículos indicados en el párrafo anterior, de acuerdo con lo dispuesto en el Título VIII del Texto Refundido de la Ley del Mercado de Valores, aprobado por Real Decreto Legislativo 4/2015, de 23 de octubre.
+La Comisión Nacional del Mercado de Valores será competente para incoar e instruir los expedientes sancionadores a los que den lugar los incumplimientos de las obligaciones establecidas en los artículos indicados en el párrafo anterior, de acuerdo con lo dispuesto en el título IX de la Ley 6/2023, de 17 de marzo, de los Mercados de Valores y de los Servicios de Inversión.
+
+> Se modifica por el art. 9.2 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#an
 
 > Se modifica por el art. 3.30 de la Ley 5/2021, de 12 de abril. Ref. BOE-A-2021-5773#at
 
