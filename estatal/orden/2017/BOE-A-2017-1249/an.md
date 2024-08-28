@@ -4,7 +4,9 @@
 
 1. Estado Mayor de la Defensa:
 
-Centro Superior de Estudios de la Defensa Nacional (CESEDEN) (altos estudios de la defensa nacional), dentro del cual se integra la Escuela Superior de las Fuerzas Armadas (ESFAS) (altos estudios de la defensa nacional/perfeccionamiento).
+a) Centro Superior de Estudios de la Defensa Nacional (CESEDEN) (altos estudios de la defensa nacional), dentro del cual se integra la Escuela Superior de las Fuerzas Armadas (ESFAS) (altos estudios de la defensa nacional/perfeccionamiento).
+
+b) Escuela Militar de Ciberoperaciones (EMCO) (perfeccionamiento).
 
 2. Ejército de Tierra:
 
@@ -30,7 +32,7 @@ j) Centro de Formación de Tropa n.º 1 (CEFOT 1) (formación/perfeccionamiento)
 
 k) Centro de Formación de Tropa n.º 2 (CEFOT 2) (formación/perfeccionamiento).
 
-l) Escuela de Guerra del Ejército (EGE) (perfeccionamiento).
+l) Escuela de Guerra y Liderazgo del Ejército de Tierra (EGLET) (perfeccionamiento).
 
 m) Escuela Militar de Montaña y Operaciones Especiales (EMMOE) (perfeccionamiento).
 
@@ -115,6 +117,8 @@ c) Escuela Militar de Emergencias (EMES) (perfeccionamiento).
 6. Cuarto Militar de S. M. el Rey:
 
 Centro de Formación de la Guardia Real (CEFORGR) (formación/perfeccionamiento).
+
+> Se modifican los apartados 1 y 2 por la disposición final 1.1 y 2 de la Orden DEF/897/2024, de 30 de julio. Ref. BOE-A-2024-17325
 
 > Se modifica por el art. 1.21 de la Orden DEF/751/2022, de 28 de julio. Ref. BOE-A-2022-13108
 
