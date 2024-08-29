@@ -6,7 +6,7 @@ Parte 1. Lista de materiales que pueden emplearse en la fertilización de los su
 
 1. Con excepción de los productos fertilizantes, los estiércoles sin tratar, los subproductos de origen animal no aptos para el consumo humano incluidos en el artículo 11 del Real Decreto 1528/2012, de 8 de noviembre, la paja y otros materiales naturales, agrícolas o silvícolas, no peligrosos, utilizados en explotaciones agrícolas y ganaderas y en la silvicultura, mediante procedimientos o métodos que no pongan en peligro la salud humana o dañen el medio ambiente, y que están excluidos específicamente del ámbito de aplicación de la Ley 7/2022, de 8 de abril, sólo podrán incorporarse a los suelos agrarios los materiales que figuren en la lista siguiente:
 
-a) Materiales que, sin haberse empleado en la elaboración de un producto fertilizante, cumplan con todos los requisitos de las CMCS 3, 4, 5, 6, 12, 13 y 14 del anexo II del Reglamento (UE) 2019/1009.
+a) Materiales que, sin haberse empleado en la elaboración de un producto fertilizante, cumplan con todos los requisitos de las CMCS 3, 4, 5, 6, 12, 13 y 14 del anexo II del Reglamento (UE) 2019/1009. Para su valorización en suelo como residuo, no es necesario cumplir con el requisito del punto 2 de la CMC 1 cuando aplique a las categorías antes listadas.
 
 b) Subproductos de origen animal no aptos para consumo humano, que hayan sido tratados conforme al artículo 20 del Reglamento (CE) 1069/2009.
 
@@ -14,9 +14,17 @@ c) Compost de alperujo.
 
 d) Alperujo desecado.
 
-e) Lodos de tratamiento de aguas residuales urbanas (lodos EDAR), incluidos en el Real Decreto 1310/1990, de 29 de octubre. siempre que hayan sido tratados.
+e) Lodos incluidos en el anexo I de la Orden AAA/1072/2013, de 7 de junio, siempre que hayan sido tratados en cumplimiento de lo dispuesto en el Real Decreto 1310/1990, de 29 de octubre.
 
 f) Lodos calizos procedentes del proceso Kraft de fabricación de pasta de papel, para elevar el pH de suelos ácidos.
+
+g) Materiales que, aunque no cumplan los requisitos de tratamiento establecidos en las CMC 3, 4 y 5, según corresponda, del Reglamento 2019/1009, sí cumplen con los requisitos de material de entrada, estabilidad, impurezas y contaminantes.
+
+h) Efluentes de almazara.
+
+i) Lías de vino.
+
+j) Mezclas de los anteriores siempre que se cumplan las restricciones más limitantes de cada uno de los componentes.
 
 2. La inclusión de un residuo en esta lista no le exime de cumplir lo establecido en la Ley 7/2022, de 8 de abril, y en particular, lo establecido en los artículos 33 y 65, relativos a las autorizaciones y obligaciones de información.
 
@@ -26,31 +34,31 @@ f) Lodos calizos procedentes del proceso Kraft de fabricación de pasta de papel
 
 Parte 2. Requisitos técnicos exigibles a los residuos para que se puedan aplicar a los suelos agrarios
 
-1. Materiales de las CMCs 3, 4 y 5, obtenidos conforme al anexo II del Reglamento (UE) 2019/1009:
+1. Materiales de las CMCs 3, 4 y 5, obtenidos conforme al anexo II del Reglamento (UE) 2019/1009 del Parlamento Europeo y del Consejo, de 5 de junio de 2019:
 
 Cumplir con todos los requisitos de dicho anexo, incluido el origen de los materiales de entrada, y los siguientes parámetros:
 
-– Materia orgánica total ≥ 25 %.
+– Materia orgánica total ≥ 25 % s. m. s. (sobre materia seca).
 
-– Salmonella Ausente en 25 g de material.
+– Declarar contenido en Salmonella.
 
-– Escherichia coli < 1000 NMP/g de material.
+– Declarar contenido en Escherichia coli.
 
 – Aportar análisis de los nutrientes que aportan, en particular, nitrógeno, fósforo (expresado como P2O5) y potasio (expresado como K2O), así como pH y conductividad eléctrica.
 
-– Cumplir con todos los requisitos adicionales incluidos en su autorización de valorización R1001.
+– Cumplir con todos los requisitos adicionales incluidos en su autorización para la valorización R1001.
 
-2. De manera similar, cualquier material compostado o digerido, que se vaya a aplicar a un suelo agrario y que se obtenga de otros materiales de entrada distintos de los del apartado anterior, deberá cumplir con los requisitos de impurezas y estabilidad establecidos respectivamente en la CMC3 o CMC5 del Reglamento (UE) 2019/1009, además de cumplir con los siguientes parámetros:
+2. De manera similar, cualquier material compostado o digerido, que se vaya a aplicar a un suelo agrario y que se obtenga de otros materiales de entrada distintos de los del apartado anterior, deberá cumplir con los requisitos de impurezas y estabilidad establecidos respectivamente en la CMC3 o CMC5 del Reglamento (UE) 2019/1009 del Parlamento Europeo y del Consejo, de 5 de junio de 2019, además de cumplir con los siguientes parámetros:
 
-– Materia orgánica total ≥ 25 %.
+– Materia orgánica total ≥ 25 % s. m. s. (sobre materia seca).
 
-– Salmonella Ausente en 25 g de material.
+– Declarar contenido en Salmonella.
 
-– Escherichia coli < 1000 NMP/g de material.
+– Declarar contenido en Escherichia coli.
 
 – Aportar análisis de los nutrientes que aportan, en particular, nitrógeno, fósforo (expresado como P2O5) y potasio (expresado como K2O) así como pH y conductividad eléctrica.
 
-– Cumplir con todos los requisitos adicionales incluidos en su autorización de valorización R1001.
+– Cumplir con todos los requisitos adicionales incluidos en su autorización para la valorización R1001.
 
 3. Materiales de las CMCs 12, 13 y 14 obtenidos conforme al anexo II del Reglamento (UE) 2019/1009, deberán cumplir con los requisitos de dicho anexo, así como el contenido en patógenos, riquezas en nutrientes, materia orgánica o valor de neutralización de las CFP 1, 2 o 3 pertinentes del anexo I del Reglamento (UE) 2019/1009, además de cumplir con todos los requisitos adicionales incluidos en su autorización de valorización R1001.
 
@@ -83,6 +91,14 @@ Para poderse aplicar a un suelo agrario, los lodos que hayan sido tratados emple
 Estos lodos proceden de fábricas de pasta de papel que emplean el proceso kraft. Contienen como ingrediente esencial carbonato de calcio, que se obtiene, durante el ciclo de recuperación, por caustificación del licor verde y cumplen con el siguiente requisito:
 
 – Contenido CaO ≥ 85 % en materia seca en forma de carbonato.
+
+7. Efluentes de almazara.
+
+Se trata del líquido, constituido por las aguas de lavado de las aceitunas y las aguas de lavado de los aceites obtenidos mediante el sistema de extracción de dos fases y que cumplen con todos los requisitos adicionales incluidos en su autorización para la valorización R1001.
+
+8. Lías de vino.
+
+Son los precipitados orgánicos, compuestos de levaduras, bacterias y otras sustancias residuales, que se forman durante el proceso de elaboración del vino y que deben cumplir con todos los requisitos adicionales incluidos en su autorización de valorización R1001.
 
 Parte 3. Documentación para la modificación del presente anexo
 
@@ -183,3 +199,5 @@ f) Fechas en las que se puede emplear.
 g) Cultivos en los que se puede emplear.
 
 h) Medidas de gestión de los posibles riesgos.
+
+> Se modifican las partes 1 y 2 por el art. único. 16 y 17 del Real Decreto 840/2024, de 27 de agosto. Ref. BOE-A-2024-17371

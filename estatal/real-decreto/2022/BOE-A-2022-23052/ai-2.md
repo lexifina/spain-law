@@ -14,7 +14,7 @@ i) para estos cultivos.
 
 ii) en función de las formas de nitrógeno de los fertilizantes.
 
-iii) si se emplean técnicas de mitigación de las lixiviaciones como polímeros, inhibidores, etc.
+iii) si se emplean técnicas de mitigación de las lixiviaciones como polímeros, inhibidores, etc. pudiendo llegar a excluir determinados productos de disponibilidad retardada de la prohibición de aplicación en determinados periodos.
 
 iv) presencia de cubiertas vegetales.
 
@@ -32,3 +32,5 @@ v) otras razones técnicas.
 | Frutos secos. | Noviembre a enero (incluidos). |
 | Otras frutas: caqui. | Noviembre a enero (incluidos). |
 | Uva de mesa. | Diciembre a febrero (incluidos). |
+
+> Se modifica el párrafo iii) por el art. único.10 del Real Decreto 840/2024, de 27 de agosto. Ref. BOE-A-2024-17371

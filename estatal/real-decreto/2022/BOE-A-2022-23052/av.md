@@ -20,9 +20,13 @@ e) Dilución de los purines, seguida de técnicas tales como un sistema de riego
 
 – Cuando los cultivos no requieren de riego.
 
-f) Acidificación de los purines.
+f) Uso de purines acidificados o con inhibidores de ureasa.
 
-g) Empleo de inhibidores de la ureasa o de la nitrificación, con supervisión profesional en caso de aplicación directa al suelo o a la balsa de purín.
+g) Empleo de inhibidores de la ureasa o de la nitrificación, con supervisión profesional en caso de aplicación directa al suelo.
+
+h) Compostaje o biodigestión que garantice un contenido final de nitrógeno amoniacal inferior al 0,6 %, expresado en nitrógeno (N) respecto al peso fresco del material.
+
+i) Enterrado de estiércoles en las primeras doce horas tras su aplicación, mediante arado de vertedera, chísel, cultivador o equipo que asegure una labor equivalente, salvo en siembra directa, en agricultura de conservación o en pastos.
 
 B) Medidas de mitigación de las emisiones producidas por los productos fertilizantes a base de urea.
 
@@ -43,3 +47,5 @@ g) En el cultivo de arroz, realizar el abonado nitrogenado con el terreno seco, 
 h) Empleo de inhibidores de la ureasa con el fin de retardar la hidrólisis de la urea en ion amonio.
 
 i) Aplicación de la tecnología de dosificación variable dentro de una misma parcela.
+
+> Se modifican las letras f) y g) y se añaden las h) e i) a la parte A por el art. único.15 del Real Decreto 840/2024, de 27 de agosto. Ref. BOE-A-2024-17371

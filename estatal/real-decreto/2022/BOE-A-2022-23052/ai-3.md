@@ -46,10 +46,12 @@ El Ministerio de Agricultura, Pesca y Alimentación desarrollará un sistema de 
 
 Parte III. Requisitos mínimos de los programas de recomendación de abonado
 
-Salvo en los supuestos en los que de forma específica se requiera el informe de un asesor en fertilización, las obligaciones de asesoramiento establecidas por el presente real decreto, se entenderán que quedan cumplidas si se utilizan herramientas o aplicaciones informáticas que elaboren los cálculos de las necesidades de nutrientes de los cultivos y proporcionen una propuesta de abonado, siempre que hayan sido reconocidas por la autoridad competente de la comunidad autónoma donde se vayan a utilizar.
+Las obligaciones de asesoramiento establecidas por el presente real decreto se entenderán que quedan cumplidas cuando el agricultor lleva un cuaderno digital de explotación y si se utilizan herramientas o aplicaciones informáticas que elaboren los cálculos de las necesidades de nutrientes de los cultivos y proporcionen una propuesta de abonado, siempre que hayan sido reconocidas por la autoridad competente de la comunidad autónoma donde se vayan a utilizar.
 
 Los programas o aplicaciones informáticas de recomendación de abonado deberán proporcionar al menos la funcionalidad de la herramienta de sostenibilidad agraria para nutrientes a la que se hace referencia en el artículo 15.4.g) del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021.
 
 Las comunidades autónomas comunicarán al Ministerio de Agricultura, Pesca y Alimentación la lista de aplicaciones que cumplen con estos requisitos mínimos. El Ministerio de Agricultura, Pesca y Alimentación recopilará la información remitida por las comunidades autónomas y la publicará en su página web.
+
+> Se modifica el primer párrafo de la parte III por el art. único.11 del Real Decreto 840/2024, de 27 de agosto. Ref. BOE-A-2024-17371
 
 > Se modifica la primera frase del apartado 1 de la parte I por el art. 7.10 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
