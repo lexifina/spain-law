@@ -1,0 +1,3 @@
+En ejercicio de las competencias conferidas por el artículo 14.g) de la Ley 39/2022, de 30 de diciembre, del Deporte, la Comisión Directiva del Consejo Superior de Deportes en su sesión de 28 de junio de 2024, ratificó la modificación de los Estatutos de la Real Federación Española de Caza, autorizando su inscripción en el Registro Estatal de Entidades Deportivas.
+
+En cumplimiento de lo previsto en el artículo 45.4 de la Ley 39/2022, de 30 de diciembre, del Deporte, y artículo 12.3 del Real Decreto 1835/1991, de 20 de diciembre, sobre federaciones deportivas españolas, dispongo la publicación de los Estatutos de la Real Federación Española de Caza, contenidos en el anexo a la presente resolución.

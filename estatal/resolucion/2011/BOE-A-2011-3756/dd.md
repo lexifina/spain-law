@@ -1,3 +1,5 @@
 ## Disposición derogatoria.
 
-Desde la fecha de aprobación de estos Estatutos por el Consejo Superior de Deportes, quedan derogados los Estatutos anteriores, y carecerán de validez, salvo los procedimientos en curso en materia de disciplina deportiva. En todo caso, los Reglamentos federativos continuarán en vigor con las adaptaciones al presente Estatuto que se precisen.
+(Derogada)
+
+> Se deroga por la disposición derogatoria de los Estatutos de la Real Federación Española de Caza, publicados por Resolución de 19 de agosto de 2024. Ref. BOE-A-2024-17642#dd

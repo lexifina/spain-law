@@ -1,3 +1,5 @@
 ## Disposición transitoria.
 
-En tanto se desarrolle el nuevo Reglamento de Régimen Disciplinario, seguirá el actual Reglamento en todo aquello que no contradiga lo dispuesto en los presentes Estatutos.
+(Derogada)
+
+> Se deroga por la disposición derogatoria de los Estatutos de la Real Federación Española de Caza, publicados por Resolución de 19 de agosto de 2024. Ref. BOE-A-2024-17642#dd

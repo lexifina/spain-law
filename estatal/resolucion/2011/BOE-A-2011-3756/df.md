@@ -1,3 +1,5 @@
 ## Disposición final.
 
-Los presentes Estatutos entrarán en vigor el día siguiente al de la notificación de su aprobación definitiva por la Comisión Directiva del Consejo Superior de Deportes, sin perjuicio de su posterior publicación en el Boletín Oficial del Estado.
+(Derogada)
+
+> Se deroga por la disposición derogatoria de los Estatutos de la Real Federación Española de Caza, publicados por Resolución de 19 de agosto de 2024. Ref. BOE-A-2024-17642#dd
