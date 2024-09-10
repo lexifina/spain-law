@@ -85,3 +85,5 @@ Ocho. Se modifica el apartado 3 del artículo 52 y se introduce un nuevo apartad
 > «3. El uniforme, placa y medalla serán los determinados por Orden del Ministerio de adscripción de la Abogacía General del Estado.
 
 > 4. Cuando los letrados habilitados actúen ante los juzgados y tribunales de cualquier jurisdicción en sustitución del Abogado del Estado usarán el traje de toga. Mientras se mantenga la habilitación, estos funcionarios podrán ser autorizados por los Departamentos a los que pertenezcan, previo informe favorable de la Abogacía General del Estado, a emplear en el uniforme correspondiente un distintivo acreditativo de su condición de letrado habilitado.»
+
+> Téngase en cuenta que el Real Decreto 1012/2022, de 5 de diciembre, ha sido anulado por Sentencia del TS de 20 de junio de 2024. Ref. BOE-A-2024-18113
