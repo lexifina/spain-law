@@ -1,0 +1,3 @@
+## Disposición adicional primera. Herramienta gratuita de evaluación de riesgos.
+
+El Instituto Nacional de Seguridad y Salud en el Trabajo, en el plazo de diez meses desde la publicación de esta norma, elaborará y pondrá a disposición de todas las personas empleadoras, a través de la página web del Ministerio de Trabajo y Economía Social, una herramienta que facilite el cumplimiento de las obligaciones referidas en los artículos 3, 4 y 5, cuando las personas empleadoras asuman directamente la actividad preventiva o la deleguen en los términos previstos en el artículo 7.2, así como, en su caso, cuando se opte por la designación de una o varias personas trabajadoras que cuenten con la capacidad necesaria de conformidad con el artículo 7.3.
