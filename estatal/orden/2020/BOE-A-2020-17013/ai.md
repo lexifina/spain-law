@@ -46,6 +46,10 @@ Se considerará zona restringida frente al serotipo 8 del virus de la lengua azu
 
 2. En la Comunidad Autónoma de Aragón: La provincia de Huesca.
 
+3. La Comunidad Autónoma de Islas Baleares.
+
+> Se modifica la parte C por Resolución de 11 de septiembre de 2024. Ref. BOE-A-2024-18389
+
 > Se modifica la parte C por Resolución de 13 de agosto de 2024. Ref. BOE-A-2024-17070
 
 > Se modifica la parte C por Resolución de 11 de julio de 2024. Ref. BOE-A-2024-14518
