@@ -168,6 +168,8 @@ a.1) Para cada aval concedido, distinguiendo los otorgados a entidades del grupo
 
 – La entidad avalada.
 
+– Expediente.
+
 – Descripción de la deuda avalada.
 
 – Fecha de vencimiento del principal, o del vencimiento de la última fracción de principal, en el caso de deudas con varios vencimientos.
@@ -178,7 +180,7 @@ a.1) Para cada aval concedido, distinguiendo los otorgados a entidades del grupo
 
 – Importe de los avales cancelados durante el ejercicio, hayan sido, o no, objeto de ejecución (en este apartado, se incluirán además, las variaciones a la baja derivadas de la valoración a fin de ejercicio de los avales relativos a deudas en moneda distinta del euro o con tipo de interés variable, o por otras causas).
 
-– Importe avalado vivo a fin del ejercicio, distinguiendo entre principal e interés de las deudas avaladas.
+– Importe avalado vivo a fin de ejercicio, distinguiendo entre principal e interés de las deudas avaladas.
 
 – Provisiones netas (dotaciones menos reversiones) dotadas en el ejercicio e importe acumulado a fin de ejercicio.
 
@@ -304,9 +306,9 @@ d) Reintegros que se hubiesen producido durante el ejercicio por incumplimiento 
 
 La Intervención General de la Administración del Estado determinará el momento en el que se incluirá la información relativa a los reintegros de subvenciones que se hubiesen producido durante el ejercicio.»
 
-13. La nota 14, «Provisiones», tendrá la siguiente redacción:
+13. La nota 14, “Provisiones”, tendrá la siguiente redacción:
 
-«Para cada provisión reconocida en el balance, salvo las relativas a avales y otras garantías concedidas, deberá indicarse:
+Para cada provisión reconocida en el balance deberá indicarse:
 
 a) Análisis del movimiento de cada partida del balance durante el ejercicio, indicando:
 
@@ -358,13 +360,7 @@ b) En el estado que figura en dicho apartado se elimina la columna «Otras causa
 
 – Saldo pendiente de cancelar a 31 de diciembre.»
 
-18. La nota 20, “Contratación administrativa. Procedimientos de adjudicación”, tendrá el siguiente contenido:
-
-“20. Contratación administrativa. Procedimientos de adjudicación.
-
-Se informará de los importes de adjudicación de los contratos perfeccionados durante el ejercicio, por tipo de contrato y procedimiento de adjudicación, de acuerdo con la normativa de contratos del sector público y la legislación patrimonial. A los únicos efectos de elaborar esta información los encargos a medios propios personificados se considerarán un tipo de contrato específico.”
-
-19. La nota 21, «Valores recibidos en depósito y por operaciones de compraventas dobles», tendrá el siguiente contenido:
+18. La nota 21, «Valores recibidos en depósito y por operaciones de compraventas dobles», tendrá el siguiente contenido:
 
 «1) Valores recibidos en depósito.
 
@@ -400,35 +396,19 @@ Por lo que se refiere a la información relativa a garantías constituidas en la
 
 Se informará del importe a 31 de diciembre de los valores recibidos en garantía de la colocación de excedentes de tesorería en las distintas entidades financieras mediante operaciones de compraventas dobles de valores.»
 
-20. En la nota 22, «Información presupuestaria», se realizan las siguientes modificaciones:
+19. En la nota 22, «Información presupuestaria», se realizan las siguientes modificaciones:
 
-a) El primer párrafo del punto 22.2.2, «Presupuesto de ingresos. Derechos a cobrar de presupuestos cerrados», tendrá la siguiente redacción:
+a) El primer párrafo del punto 22.2.2, “Presupuesto de ingresos. Derechos a cobrar de presupuestos cerrados”, tendrá la siguiente redacción:
 
-«Se informará de:»
+“Se informará, sin distinguir por ejercicios:”.
 
 b) En el punto 22.2.3, «Variación de resultados presupuestarios de ejercicios anteriores», se elimina el último párrafo, que hace referencia a las operaciones comerciales.
 
-c) En el apartado 22.3, «Compromisos de gasto con cargo a presupuestos de ejercicios posteriores», se realizan las siguientes modificaciones:
-
-a) El contenido actual de dicho apartado pasará a ser el punto 1 del mismo.
-
-b) Se añade un nuevo punto 2 con el siguiente contenido:
-
-«2. Compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente.
-
-Se informará sobre los compromisos de gasto de carácter plurianual que no se hayan podido imputar al presupuesto corriente por falta de crédito adecuado o suficiente y se encuentren en esa situación a fin de ejercicio, con detalle de:
-
-a) Aplicación presupuestaria a la que debería haberse imputado el compromiso.
-
-b) Importe.
-
-c) Número de operaciones incluidas en cada aplicación presupuestaria.»
-
-d) El primer párrafo del apartado 22.4, «Gastos con financiación afectada», tendrá la siguiente redacción:
+c) El primer párrafo del apartado 22.4, «Gastos con financiación afectada», tendrá la siguiente redacción:
 
 «Se informará para cada gasto con financiación afectada que se haya comunicado por el Servicio gestor mediante el correspondiente documento contable o procedimiento definido al efecto, sobre:»
 
-e) En el apartado 22.5, «Remanente de tesorería», se realizan las siguientes modificaciones:
+d) En el apartado 22.5, «Remanente de tesorería», se realizan las siguientes modificaciones:
 
 1. El punto 2 del segundo párrafo tendrá la siguiente redacción:
 
@@ -436,7 +416,7 @@ e) En el apartado 22.5, «Remanente de tesorería», se realizan las siguientes 
 
 2. Se elimina el último párrafo de los puntos 3 y 4, relativos a los derechos y obligaciones derivados de operaciones comerciales, así como los dos epígrafes relativos a las operaciones comerciales que figuran en el Estado del Remanente de Tesorería.
 
-f) El apartado 22.6 pasará a denominarse «Derechos presupuestarios pendientes de cobro según su grado de exigibilidad y deterioro de valor de los deudores presupuestarios» y tendrá el siguiente contenido:
+e) El apartado 22.6 pasará a denominarse «Derechos presupuestarios pendientes de cobro según su grado de exigibilidad y deterioro de valor de los deudores presupuestarios» y tendrá el siguiente contenido:
 
 «22.6 Derechos presupuestarios pendientes de cobro según su grado de exigibilidad y deterioro de valor de los deudores presupuestarios.
 
@@ -492,14 +472,16 @@ A la anterior información se acompañarán «resúmenes por capítulos» que, c
 
 − Variación del deterioro en el ejercicio.»
 
-g) En el apartado 22.7, «Acreedores por operaciones devengadas», se elimina la columna de observaciones y tendrá el siguiente contenido:
+f) En el apartado 22.7, “Acreedores por operaciones devengadas”, se elimina la columna de observaciones y tendrá el siguiente contenido:
 
 | Cuenta | Importe |
 | --- | --- |
-|  |  |
-| Total |  |
+| Ejercicio | Ejercicios anteriores | Total |
+|  |  |  |  |
+|  |  |  |  |
+| Total. |  |  |  |
 
-h) Se añade el apartado 22.8, «Balance de resultados e informe de gestión», con el siguiente contenido:
+g) Se añade el apartado 22.8, «Balance de resultados e informe de gestión», con el siguiente contenido:
 
 «22.8 Balance de resultados e informe de gestión.
 
@@ -519,29 +501,19 @@ B) COSTE DE LOS OBJETIVOS REALIZADOS
 | PROGRAMA | DESCRIPC. | ABSOLUTAS | % |
 |  |  |  |  |  |  |  |  |  |
 
-i) Se añade el apartado 22.9, «Antigüedad de los derechos presupuestarios pendientes de cobro», con el siguiente contenido:
+20. En el apartado 2.a), «Indicadores presupuestarios. Del presupuesto de gastos corriente», de la nota 23, «Indicadores financieros, patrimoniales y presupuestarios», se sustituye la referencia a «la entidad» por la referencia al «ámbito territorial» en los indicadores 3) GASTO POR HABITANTE y 4) INVERSIÓN POR HABITANTE.
 
-«22.9 Antigüedad de los derechos presupuestarios pendientes de cobro.
-
-Se incluirá información sobre la antigüedad de los derechos de presupuestos cerrados que estén pendientes de cobro a fin de ejercicio, indicando para cada aplicación presupuestaria:
-
-– Código y descripción de la aplicación presupuestaria.
-
-– Importe pendiente de cobro de los derechos reconocidos en cada uno de los cinco ejercicios anteriores al que se refieren las cuentas anuales.
-
-– Importe pendiente de cobro de los derechos reconocidos en los restantes ejercicios.
-
-– Importe total pendiente de cobro.»
-
-21. En el apartado 2.a), «Indicadores presupuestarios. Del presupuesto de gastos corriente», de la nota 23, «Indicadores financieros, patrimoniales y presupuestarios», se sustituye la referencia a «la entidad» por la referencia al «ámbito territorial» en los indicadores 3) GASTO POR HABITANTE y 4) INVERSIÓN POR HABITANTE.
-
-22. La nota 24, «Hechos posteriores al cierre», tendrá el siguiente contenido:
+21. La nota 24, «Hechos posteriores al cierre», tendrá el siguiente contenido:
 
 «La entidad informará de los siguientes hechos y situaciones que se hayan producido con posterioridad a la fecha de cierre del ejercicio y sobre los que no se haya informado en las notas anteriores:
 
 a) Las reorganizaciones ministeriales.
 
 b) La creación, modificación o extinción de entidades dependientes de la Administración General del Estado.»
+
+> Se modifica por el art. 4.Dos.1 de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530
+
+> Esta modificación será de aplicacion a partir de la elaboración de la Cuenta de la Administración General del Estado del ejercicio 2023, según establece la disposición final única de la citada Orden.
 
 > Se renumeran los apartados 18 a 21 como 19 a 22 y se añade el 18 por el art. 4.6 de la Orden HAC/552/2019, de 11 de abril. Ref. BOE-A-2019-7344
 

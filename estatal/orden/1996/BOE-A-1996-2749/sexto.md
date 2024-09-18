@@ -6,11 +6,11 @@ a) Documento MC: Se utilizará en las modificaciones presupuestarias que aumente
 
 b) Documento de desglose: Se utilizará en las operaciones de desglose de las aplicaciones presupuestarias. También se utilizará para el seguimiento contable de los créditos distribuidos a través del sistema de información contable, en caso de delegaciones y desconcentraciones de competencias a favor de servicios periféricos.
 
-c) Documento RC de ejercicio corriente: Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias, de bajas por anulación y otras minoraciones, de retención adicional del 10% de la adjudicación, y de retenciones del 1% cultural (art. 58.3 del Real Decreto 111/1986). Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico “RC-102” y para el registro del presupuesto del cajero de ACF se utilizará el documento específico “RC-110”.
+c) Documento RC de ejercicio corriente: Se utilizará para solicitar certificado de existencia y retención de crédito en los expedientes de gasto, de transferencias, de bajas por anulación y otras minoraciones, de retención adicional del 10 % de la adjudicación, y de retenciones porcentaje cultural (art. 58.3 del Real Decreto 111/1986). Para el registro de los acuerdos de no disponibilidad se utilizará el documento específico “RC-102” y para el registro del presupuesto del cajero de ACF se utilizará el documento específico “RC-110”.
 
-d) Documento RC de ejercicios posteriores: se utilizará para solicitar el certificado de cumplimiento de los límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en los expedientes de gasto, de retención adicional del 10% de la adjudicación, y de retención del 1% cultural (art. 58.3 Real Decreto 111/1986).
+d) Documento RC de ejercicios posteriores: Se utilizará para solicitar el certificado de cumplimiento de los límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en los expedientes de gasto y de retención adicional del 10 % de la adjudicación, y de retención porcentaje cultural (art. 58.3 del Real Decreto 111/1986).
 
-d´) Documento RC "Retención de crédito de tramitación anticipada": Se utilizará en la tramitación anticipada de expedientes de gasto para solicitar el certificado de cumplimiento de límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, de retención adicional del 10% de la adjudicación, y de retención del 1% cultural (art. 58 del Real Decreto 111/1986).
+d´) Documento RC “Retención de crédito de tramitación anticipada”: Se utilizará en la tramitación anticipada de expedientes de gasto para solicitar el certificado de cumplimiento de límites que establece el artículo 47 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, de retención adicional del 10 % de la adjudicación, y de retención porcentaje cultural (art. 58 del Real Decreto 111/1986).
 
 d´´) Documento RC para el cajero de ACF: se utilizará opcionalmente para el registro y seguimiento de los presupuestos de los cajeros de Anticipos de Caja Fija, y para las retenciones de crédito que proceda efectuar sobre los presupuestos de dichos cajeros en las reposiciones de fondos de los Anticipos de Caja Fija.
 
@@ -73,6 +73,8 @@ Si el número de facturas incluidas en el documento contable que contenga la fas
 y) Documento “Anexo Seguimiento Fondos Unión Europea”: Se utilizará para hacer el seguimiento de los gastos presupuestarios financiados con Fondos de la Unión Europea.
 
 2. Cuando se deba proceder a la anulación de cualquiera de las operaciones que se indican en el punto anterior, se expedirá un documento idéntico al confeccionado para el registro de la operación en cuestión pero de signo contrario.
+
+> Se modifican las letras c), d) y d') del apartado 1 por el art. 1.Uno de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530
 
 > Se añade la letra y) al apartado 1 por el art. 1.Uno de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 

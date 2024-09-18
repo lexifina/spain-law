@@ -10,25 +10,49 @@ En ........................................, a....... de.................. de...
 
 Firma»
 
-2. Las cuentas anuales se aprobarán por quien ostente la condición de Presidente o Director de la correspondiente entidad, acreditándose dicha aprobación mediante la siguiente diligencia, firmada electrónicamente por él mismo, utilizando a tal efecto los medios informáticos y telemáticos a los que se hace referencia en el punto 1 anterior:
+2. Las cuentas anuales se aprobarán por quien ostente la condición de Presidente o Director de la correspondiente entidad, acreditándose dicha aprobación mediante diligencia firmada electrónicamente por él mismo utilizando a tal efecto los medios informáticos y telemáticos a los que se hace referencia en el apartado 1 anterior y que será distinta en función de si la entidad se encuentre sometida o no a la auditoría de sus cuentas anuales por la Intervención General de la Administración del Estado:
 
-«Don/Doña .................................… (nombre y apellidos del responsable de la entidad) ............................, ....................... (cargo del mismo) ...................... de ............................... (denominación de la entidad) ......................, apruebo las cuentas anuales correspondientes al ejercicio de ................., de acuerdo con lo que se establece en la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden …………... (número de la Orden y fecha de aprobación) .............., incluyéndose su contenido en el fichero xxxxxxxxxx, cuyo resumen electrónico es........................................
+– Si la entidad está sometida a la auditoría de sus cuentas anuales por la Intervención General de la Administración del Estado, la diligencia será la siguiente:
 
-Además hago constar que a dichas cuentas anuales se refiere el informe definitivo de auditoría emitido con fecha .............................., contenido en el fichero YYYYYYYYYY, cuyo resumen electrónico es.........................................
+“Don/Doña ……………. (nombre y apellidos del responsable de la entidad), ………. (cargo del mismo) ……… de ……… (denominación de la entidad) ………., apruebo las cuentas anuales correspondientes al ejercicio ….…, de acuerdo con lo que se establece en la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden..……. (número de la Orden y fecha de aprobación) ………., incluyéndose su contenido en el fichero xxxxxxxxxxxxx, cuyo resumen electrónico es ……………………
 
-En ........................................, a....... de.................. de..........
+Además, hago constar que a dichas cuentas anuales se refiere el Informe definitivo de auditoría emitido con fecha ……….., contenido en el fichero YYYYYYYYYYYYY, cuyo resumen electrónico es …………………………
 
-Firma»
+En …………….., a …… de ……………….. de ………..
 
-No obstante, cuando la competencia para aprobar las cuentas anuales de la entidad resida en un órgano colegiado, el Presidente o Director de la misma certificará dicha aprobación mediante la siguiente diligencia, firmada electrónicamente por él mismo, utilizando a tal efecto los medios informáticos y telemáticos a los que se hace referencia en el punto 1 anterior:
+Firma.”
 
-«Don/Doña ............................................................ (nombre y apellidos del responsable de la entidad), ................................................................. (cargo del mismo) ................. de .............................. (denominación de la entidad) ....................., certifico que las cuentas anuales correspondientes al ejercicio de ................................, han sido aprobadas por ……………............... (órgano competente) ............... el día ……………........., de acuerdo con lo que se establece en la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden ……...............……. (número de la Orden y fecha de aprobación) ...................., incluyéndose su contenido en el fichero xxxxxxxxxxxxx, cuyo resumen electrónico es............................................
+– Si la entidad no estuviera sometida a la auditoría de sus cuentas anuales por la Intervención General de la Administración del Estado, la diligencia será la siguiente:
 
-Además hago constar que a dichas cuentas anuales se refiere el informe definitivo de auditoría emitido con fecha.........., contenido en el fichero YYYYYYYY, cuyo resumen electrónico es.........................................
+“Don/Doña ………. (nombre y apellidos del responsable de la entidad) ………, ……………… (cargo del mismo) …………….. de ………………… (denominación de la entidad) ………………………., apruebo las cuentas anuales correspondientes al ejercicio ………….., de acuerdo con lo que se establece en la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden ………… (número de la Orden y fecha de aprobación) ………, incluyéndose su contenido en el fichero xxxxxxxxxxxxx, cuyo resumen electrónico es …………………………..
 
-En ........................................, a....... de.................. de..........
+Además, hago constar que a dichas cuentas anuales se incorpora el certificado emitido por el Director de la Oficina Nacional de Auditoría con fecha ……………., indicado en el apartado 2 de la Regla 35 de la Instrucción de Contabilidad para la Administración Institucional del Estado.
 
-Firma»
+En …………….., a ……….. de ………………………. de ………
+
+Firma.”
+
+No obstante, cuando la competencia para aprobar las cuentas anuales de la entidad resida en un órgano colegiado, el Presidente o Director de la misma certificará dicha aprobación mediante diligencia, firmada electrónicamente por él mismo, utilizando a tal efecto los medios informáticos y telemáticos a los que se hace referencia en el apartado 1 anterior y que será distinta en función de si la entidad se encuentre sometida o no a la auditoría de sus cuentas anuales por la Intervención General de la Administración del Estado:
+
+– Si la entidad está sometida a la auditoría de sus cuentas anuales por la Intervención General de la Administración del Estado, la diligencia será la siguiente:
+
+“Don/Doña ………. (nombre y apellidos del responsable de la entidad) ………, ………….. (cargo del mismo) ……………… de ……………. (denominación de la entidad) ……….., certifico que las cuentas anuales correspondientes al ejercicio …………, han sido aprobadas por ………………….. (Órgano competente) ………… el día ……………… de acuerdo con lo que se establece en la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden …….. (número de la Orden y fecha de aprobación) ………, incluyéndose su contenido en el fichero xxxxxxxxxxxxx, cuyo resumen electrónico es ………………
+
+Además, hago constar que a dichas cuentas anuales se refiere el Informe definitivo de auditoría emitido con fecha …………., contenido en el fichero YYYYYYYYYYYYY, cuyo resumen electrónico es ………………..
+
+En ……………..., a ……… de …………………… de ……….
+
+Firma.”
+
+– Si la entidad no estuviera sometida a la auditoría de sus cuentas anuales por la Intervención General de la Administración del Estado, la diligencia será la siguiente:
+
+“Don/Doña ………… (nombre y apellidos del responsable de la entidad) …………, ……………… (cargo del mismo) …………… de …………. (denominación de la entidad) …………, certifico que las cuentas anuales correspondientes al ejercicio ……….., han sido aprobadas por ……………….. (Órgano competente) ……….. el día ………….. de acuerdo con lo que se establece en la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden …………. (número de la Orden y fecha de aprobación) ……….., incluyéndose su contenido en el fichero xxxxxxxxxxxxx, cuyo resumen electrónico es ……………….
+
+Además, hago constar que a dichas cuentas anuales se incorpora el certificado emitido por el Director de la Oficina Nacional de Auditoría con fecha ………………. indicado en el apartado 2 de la Regla 35 de la Instrucción de Contabilidad para la Administración Institucional del Estado.
+
+En ……………., a ………. de ………………….. de ………
+
+Firma”.
 
 3. La formación del fichero, su puesta a disposición del Presidente o Director de la entidad, el envío a la Intervención General de la Administración del Estado de las cuentas anuales aprobadas y las condiciones de firma electrónica de las mismas, tanto por parte del Jefe de Contabilidad, como por el Presidente o Director de la entidad, se ajustarán a las especificaciones técnicas que se definan por la Intervención General de la Administración del Estado.
 
@@ -36,4 +60,6 @@ Estas especificaciones técnicas serán objeto de publicación en el portal de l
 
 4. Las cuentas anuales obtenidas y aprobadas según el procedimiento establecido en los puntos anteriores, deberán ser remitidas a la Intervención General de la Administración del Estado dentro de los siete meses siguientes a la terminación del ejercicio económico a que las mismas se refieran.
 
-5. Una copia del fichero informático a que se refiere el punto 1 anterior, así como una copia del fichero mencionado en la regla 35, donde se contiene el informe de auditoría, quedarán en poder de cada una de las respectivas entidades, debiendo conservarse por éstas al menos durante el plazo a que se refiere la regla 8 de esta Instrucción.
+5. Una copia del fichero informático a que se refiere el apartado 1 anterior, así como una copia del fichero mencionado en el apartado 1 de la Regla 35, donde se contiene el Informe de auditoría, para las entidades sometidas a la misma, o bien del certificado a que se refiere el apartado 2 de la citada Regla 35, quedarán en poder de cada una de las respectivas entidades debiendo conservarse por éstas al menos durante el plazo a que se refiere la Regla 8 de esta Instrucción.
+
+> Se modifican los apartados 2 y 5 por el art. 3.3.1 y 2 de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530

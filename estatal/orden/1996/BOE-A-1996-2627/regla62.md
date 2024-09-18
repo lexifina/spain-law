@@ -20,7 +20,7 @@ Los documentos A de signo negativo se justificarán con la Resolución que anul�
 
 En los compromisos de gasto derivados de contratos administrativos, se podrá unir el acuerdo de adjudicación, en los supuestos en los que la Ley de Contratos del Sector Público permita el inicio de la ejecución del contrato con carácter previo a su formalización, si bien cuando el contrato, en su caso, se formalice, se deberá adjuntar con el primer documento OK que se expida en la ejecución del mismo. En los casos de contratos basados en Acuerdos Marco y sistemas dinámicos de adquisición los documentos contables irán acompañados del correspondiente acuerdo de adjudicación.
 
-Los documentos D de signo negativo se justificarán con el acuerdo de revocación del compromiso de gasto o de resolución del contrato. En el caso de cesión de contrato, el D negativo con los datos del cedente se justificará con una referencia al D que incorpore los datos del cesionario, justificándose este último con una copia de la escritura de cesión.
+Los documentos D de signo negativo se justificarán con el acuerdo de revocación del compromiso de gasto o de resolución del contrato.
 
 6. A los documentos OK de reconocimiento de obligaciones se unirá la documentación en la que se acredite la realización de la prestación o el derecho del acreedor de conformidad con los acuerdos que en su día autorizaron y comprometieron el gasto.
 
@@ -29,6 +29,8 @@ Los documentos D de signo negativo se justificarán con el acuerdo de revocació
 8. El documento PR se justificará con el acuerdo de prescripción de obligaciones.
 
 9. El criterio general de justificación de operaciones establecido en los números anteriores no será de aplicación a aquellos tipos de gasto para los que en el Capítulo III de la presente Instrucción, o en sus normas reguladoras específicas, se establecen otros medios de justificación.
+
+> Se modifica el apartado 5 por el art. 2.4 de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530
 
 > Se modifica por el art. 2.1 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 

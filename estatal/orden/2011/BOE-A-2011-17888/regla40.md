@@ -14,9 +14,9 @@ I.3 Ejecución de proyectos de inversión.
 
 I.4 Acreedores por operaciones devengadas.
 
-I.5 Provisiones
+I.5 Provisiones.
 
-I.6 Anticipos de tesorería art. 60 de la Ley General Presupuestaria.
+I.6 Anticipos de tesorería art.60 de la Ley General Presupuestaria.
 
 I.7 Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
 
@@ -52,37 +52,73 @@ V. Información sobre los avales concedidos.
 
 Así mismo, podrán obtenerse cuantos informes se consideren necesarios para suministrar información relevante no prevista en la relación anterior, que se hubiera producido en el ámbito de los Departamentos Ministeriales.
 
-La información relativa a los apartados I.8., I.9., IV y V anteriores sólo se incluirá en el Informe agregado del Ministerio del que dependa la Secretaría General del Tesoro y Financiación Internacional y la relativa al apartado II en el Informe agregado del Ministerio del que dependan las Delegaciones de Economía y Hacienda, sin perjuicio de lo previsto en el párrafo anterior.
+La información relativa a los apartados I.8, I.9, y IV anteriores sólo se incluirá en el Informe agregado del Ministerio del que dependa la Secretaría General del Tesoro y Financiación Internacional y la relativa al apartado II en el Informe agregado del Ministerio del que dependan las Delegaciones de Economía y Hacienda, sin perjuicio de lo previsto en el párrafo anterior.
 
 El contenido y formato de los “Informes agregados” de los Departamentos Ministeriales se habrá de ajustar a los modelos que se incluyen en el anexo II a la presente Instrucción.
 
-Los datos de los “Informes agregados” de los Departamentos Ministeriales podrán expresarse en una escala de cuenta distinta de la utilizada en los registros del SIC, la cual se fijará por la Intervención General de la Administración del Estado.
+Los datos de los «Informes agregados» de los Departamentos Ministeriales podrán expresarse en una escala de cuenta distinta de la utilizada en los registros del SIC, la cual se fijará por la Intervención General de la Administración del Estado.
 
 3. Una vez obtenidos los “Informes agregados” indicados en el punto anterior, se expedirán las diligencias que procedan, de acuerdo con la siguiente redacción, que se unirán al respectivo Informe agregado:
 
-“DILIGENCIA:
+“Diligencia:
 
-Para hacer constar que las operaciones de .............. (indicar las operaciones a las que se refiere la diligencia de las incluidas en los apartados de los Informes agregados) ............... registradas en el Sistema de Información Contable de la Administración General del Estado correspondientes al Ministerio de ......................., con imputación al ejercicio de ............., han sido reflejadas en el Informe agregado correspondiente a dicho ejercicio cuyas páginas están numeradas de la …..… a la ………..
+Para hacer constar que las operaciones de ……………… (indicar las operaciones a las que se refiere la diligencia de las incluidas en los apartados de los Informes agregados) ……………. registradas en el Sistema de Información Contable de la Administración General del Estado correspondientes al Ministerio de ………………………., con imputación al ejercicio …………, han sido reflejadas en el Informe agregado correspondiente a dicho ejercicio cuyas páginas están numeradas de la ….….. a la ……….
 
-EL........................................
+El ………………………………………
 
 V.º B.º
 
-EL.......................................”
+El ……………………………………...”
 
-La diligencia anterior se expedirá por el Jefe de Contabilidad de cada Departamento Ministerial, con el visto bueno del correspondiente Interventor Delegado, cuando se trate de operaciones de inversiones financieras (III) y de operaciones de ejecución de los gastos públicos (I), excepto obligaciones de presupuesto corriente (I.8) y obligaciones de presupuestos cerrados (I.9).
+La diligencia anterior se expedirá por el Jefe de Contabilidad de cada Departamento Ministerial, con el visto bueno del correspondiente Interventor Delegado, cuando se trate de:
 
-La diligencia anterior se expedirá por el Jefe de la División de Gestión de la Contabilidad de la Oficina Nacional de Contabilidad, con el visto bueno del Interventor General de la Administración del Estado, cuando se trate de operaciones sobre la ejecución de ingresos públicos (II), y por el correspondiente Jefe de Contabilidad de la Secretaría General del Tesoro y Financiación Internacional, con el visto bueno del Interventor Delegado en dicha Secretaría General, cuando se trate de provisiones por avales concedidos (I.5), operaciones sobre obligaciones de presupuesto corriente (I.8), operaciones sobre obligaciones de presupuestos cerrados (I.9), operaciones de la Deuda del Estado (IV) y avales concedidos (V).
+– Operaciones de ejecución de los gastos públicos (I), excepto obligaciones de presupuesto corriente (I.8) y obligaciones de presupuestos cerrados (I.9).
+
+– Operaciones de inversiones financieras (III).
+
+– Operaciones de avales concedidos (V).
+
+La diligencia anterior se expedirá por el Jefe de Contabilidad de la Secretaría General del Tesoro y Financiación Internacional, con el visto bueno del correspondiente Interventor Delegado, cuando se trate de:
+
+– Operaciones de ejecución de los gastos públicos (I).
+
+– Operaciones de inversiones financieras (III).
+
+– Operaciones de la Deuda del Estado (IV).
+
+– Operaciones de avales concedidos (V).
+
+La diligencia anterior se expedirá por el Jefe de la División de Gestión de la Contabilidad de la Oficina Nacional de Contabilidad, con el visto bueno del Interventor General de la Administración del Estado, cuando se trate de operaciones sobre la ejecución de ingresos públicos (II).
 
 4. Cada uno de los titulares de los Departamentos Ministeriales aprobará el Informe agregado correspondiente a las operaciones realizadas en su respectivo ámbito ministerial, recibido de la Intervención Delegada, acreditándose dicha aprobación mediante la siguiente diligencia que se acompañará al conjunto de información contenida en dicho Informe agregado:
 
-“Don/doña.............................................................(nombre y apellidos del titular del Departamento Ministerial) .......................................... (cargo del mismo), aprueba el Informe agregado de las operaciones realizadas en su ámbito ministerial, correspondiente al ejercicio de............, de acuerdo con lo que se establece en la Instrucción de contabilidad para la Administración General del Estado aprobada mediante Orden del Ministerio de Economía y Hacienda de..............(fecha de aprobación de esta Orden)................, el cual contiene ….. páginas numeradas correlativamente.
+“Don/Doña ………………………………… (nombre y apellidos del titular del Departamento Ministerial) ………………….…… (cargo del mismo), aprueba el Informe agregado de las operaciones realizadas en su ámbito ministerial, correspondiente al ejercicio ……….., de acuerdo con lo que se establece en la Instrucción de Contabilidad para la Administración General del Estado aprobada mediante Orden del Ministerio de Economía y Hacienda de …………………….. (fecha de aprobación de esta Orden) …………………………, el cual contiene ……….. páginas numeradas correlativamente.
 
 Firma.”
 
 5. A efectos de su rendición al Tribunal de Cuentas, una vez firmada la diligencia del punto anterior, se deberá remitir dicha diligencia junto con su respectivo Informe agregado a la Intervención General de la Administración del Estado dentro de los seis meses siguientes a la finalización del ejercicio económico.
 
-6. La tramitación de los Informes agregados, así como la firma electrónica de las diligencias reguladas en los puntos 3 y 4 de esta regla, se efectuará utilizando los medios informáticos y telemáticos habilitados al efecto por la Intervención General de la Administración del Estado.
+6. La información relativa a las operaciones que correspondan a los Órganos con dotación diferenciada en los Presupuestos Generales del Estado que, careciendo de personalidad jurídica, no están integrados en la Administración General del Estado, se recogerá en un Informe agregado independiente.
+
+Una vez obtenido, se expedirá la diligencia que proceda, de acuerdo con la siguiente redacción, que se unirá al respectivo Informe agregado:
+
+“Diligencia:
+
+Para hacer constar que las operaciones de ……………… (indicar las operaciones a las que se refiere la diligencia de las incluidas en los apartados de los Informes agregados) ……………. registradas en el Sistema de Información Contable de la Administración General del Estado correspondientes a los Órganos con dotación diferenciada en los Presupuestos Generales del Estado que, careciendo de personalidad jurídica, no están integrados en la Administración General del Estado, con imputación al ejercicio …………, han sido reflejadas en el Informe agregado correspondiente a dicho ejercicio cuyas páginas están numeradas de la ….….. a la ……….
+
+El ………………………………………
+
+V.º B.º
+
+El ……………………………………...”
+
+La diligencia anterior se expedirá por el Jefe de Contabilidad de la oficina contable a la que corresponda registrar tales operaciones, con el visto bueno del correspondiente Interventor Delegado, y deberá remitirse junto con el Informe agregado respectivo a la Intervención General de la Administración del Estado a efectos de su remisión al Tribunal de Cuentas en el plazo señalado en el apartado anterior.
+
+7. La tramitación de los Informes agregados, así como la firma electrónica de las diligencias reguladas en los puntos 3, 4 y 6 de esta Regla, se efectuará utilizando los medios informáticos y telemáticos habilitados al efecto por la Intervención General de la Administración del Estado.
+
+> Se modifica por el art. 4.Dos.2 de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530
+
+> Esta modificación será de aplicacion a partir de la elaboración de la Cuenta de la Administración General del Estado del ejercicio 2023, según establece la disposición final única de la citada Orden.
 
 > Se modifica por el art. 5.2 de la Orden HAC/360/2021, de 14 de abril. Ref. BOE-A-2021-6124
 

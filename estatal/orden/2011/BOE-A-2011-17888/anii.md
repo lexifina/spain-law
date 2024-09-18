@@ -2,7 +2,7 @@
 
 ## Modelos de la documentación que configura los informes agregados de las operaciones realizadas en el ámbito de cada Departamento Ministerial
 
-Relación de los modelos de la documentación que configura los informes agregados de las operaciones realizadas en el ámbito de cada Departamento ministerial:
+Relación de los modelos de la documentación que configura los Informes agregados de las operaciones realizadas en cada ámbito:
 
 I. Información sobre la ejecución de los gastos públicos.
 
@@ -16,11 +16,11 @@ I. Información sobre la ejecución de los gastos públicos.
 
 5. Provisiones.
 
-6. Anticipos de Tesorería art. 60 L.G.P.
+6. Anticipos de tesorería art.60 de la Ley General Presupuestaria.
 
 7. Compromisos de gasto con cargo a presupuestos de ejercicios posteriores.
 
-8. Obligaciones de presupuestos corriente.
+8. Obligaciones de presupuesto corriente.
 
 a) Obligaciones pendientes de proponer el pago (1).
 
@@ -48,7 +48,7 @@ III. Información sobre las inversiones financieras.
 
 IV. Información sobre la Deuda del Estado (1).
 
-V. Información sobre los avales concedidos (1).
+V. Información sobre los avales concedidos.
 
 (1) Solamente en la relación de modelos del Ministerio del que dependa la Secretaría General del Tesoro y Financiación Internacional.
 
@@ -112,44 +112,36 @@ Sección ........................
 |  |  |  |  |  |  |  |  |
 | TOTAL |  |  |  |  |  |  |  |
 
-Ministerio de .............................................
+Ministerio de …………………………………………………….
 
-I. Información sobre la ejecución de los gastos públicos
+I. Información sobre la ejecución de los gastos públicos.
 
-Ejercicio ...............
+Ejercicio ………….
 
-I.4. Acreedores por operaciones devengadas
+I.4 Acreedores por operaciones devengadas.
 
-Ministerio de .......................................................................................
-
-I. Información sobre la ejecución de los gastos públicos
-
-Ejercicio .............................
-
-I.4 Acreedores por operaciones devengadas
+Sección ………….
 
 | Cuenta | Importe |
 | --- | --- |
-|  |  |
-| Total |  |
+| Ejercicio | Ejercicios anteriores | Total |
+|  |  |  |  |
+|  |  |  |  |
+| Total. |  |  |  |
 
-Ministerio de……………………………………………
+Ministerio de …………………………………………………….
 
-I. Información sobre la ejecución de los gastos públicos ejercicio…….
+I. Información sobre la ejecución de los gastos públicos.
 
-I.5. Provisiones
+Ejercicio ………….
 
-Sección …………………….
+I.5 Provisiones.
 
-| DESCRIPCIÓN / N.º DE CUENTAS | SALDO INICIAL | AUMENTOS | DISMINUCIONES | SALDO FINAL |
+| Descripción/n.º de cuentas | Saldo inicial | Aumentos | Disminuciones | Saldo final |
 | --- | --- | --- | --- | --- |
-| 1420. Provisión a largo plazo para responsabilidades por litigios. |  |  |  |  |
-| 1421. Provisión a largo plazo por avales concedidos. |  |  |  |  |
-| 1429. Otras provisiones a largo plazo para responsabilidades. |  |  |  |  |
-| 5820. Provisión a corto plazo para responsabilidades por litigios. |  |  |  |  |
-| 5821. Provisión a corto plazo por avales concedidos. |  |  |  |  |
-| 5829. Otras provisiones a corto plazo para responsabilidades. |  |  |  |  |
-| 5850. Provisión para devolución de impuestos. |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+| Total |  |  |  |  |
 
 I.6. Anticipos de Tesorería Art. 60 L.G.P.
 
@@ -367,20 +359,24 @@ Ejercicio ....................................
 
 (*) Según el criterio de valoración que se aplique al pasivo financiero.
 
-Ministerio de .............................................
+Ministerio de ……………………………………………………..
 
-V. Información sobre los avales concedidos
+V. Información sobre los avales concedidos.
 
-Ejercicio ...............
+Ejercicio ………….
 
-| ENTIDAD AVALADA | DEUDA AVALADA | VTO. | PENDIENTE A 1 ENERO | CONCEDIDOS | CANCELADOS | PENDIENTE A 31 DICIEMBRE | PROVISIÓN | EJECUCIONES | REINTEGROS DE EJECUCIONES |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| EJERCICIO | ACUMULADA | EJERCICIO | ACUMULADO | EJERCICIO | ACUMULADO |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| SUBTOTAL ENTIDADES DEL GRUPO, MULTIGRUPO Y ASOCIADAS |  |  |  |  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  |  |  |  |  |
-| SUBTOTAL OTRAS ENTIDADES |  |  |  |  |  |  |  |  |  |  |
-| TOTAL |  |  |  |  |  |  |  |  |  |  |
+| Entidad avalada | Expediente | Deuda avalada | Vto. | Pendiente a 1 enero | Concedidos | Cancelados | Pendiente a 31 diciembre | Provisión | Ejecuciones | Reintegros de ejecuciones |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Ejercicio | Acumulada | Ejercicio | Acumulado | Ejercicio | Acumulado |
+|  |  |  |  |  |  |  |  |  |  |  |
+| Subtotal entidades del grupo, multigrupo y asociadas. |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+| Subtotal otras entidades. |  |  |  |  |  |  |  |
+| Total. |  |  |  |  |  |  |  |
+
+> Se modifica por el art. 4.Dos.4 de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530
+
+> Esta modificación será de aplicacion a partir de la elaboración de la Cuenta de la Administración General del Estado del ejercicio 2023, según establece la disposición final única de la citada Orden.
 
 > Se modifica por el art. 4.8 de la Orden HAC/552/2019, de 11 de abril. Ref. BOE-A-2019-7344
 

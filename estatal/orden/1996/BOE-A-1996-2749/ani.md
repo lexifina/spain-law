@@ -30,37 +30,35 @@ a) Documento MC (Modificaciones de Crédito):
 
 b) Documento RC de ejercicio corriente (Solicitud de retenciones de crédito, registro de no disponibilidad y registro del presupuesto del cajero de ACF):
 
-100 “Retención de crédito para gastar”.
+100. “Retención de crédito para gastar”.
 
-101 “Retención de crédito para transferencias”.
+101. “Retención de crédito para transferencias”.
 
-102 “No disponibilidad”.
+102. “No disponibilidad”.
 
-103 “Retención 1% cultural (art. 58.3.a) del R.D. 111/1986)”.
+103. “Retención porcentaje cultural (art. 58.3.a) del Real Decreto 111/1986)”.
 
-104 “Retención cautelar por operaciones pendientes de registro contable”.
+104. “Retención cautelar por operaciones pendientes de registro contable”.
 
-106 “Retención de crédito para bajas por anulación y otras minoraciones”.
+106. “Retención de crédito para bajas por anulación y otras minoraciones”.
 
-108 “Retención adicional del 10% de la adjudicación”
+108. “Retención adicional del 10 % de la adjudicación”.
 
-109 “Retención 1% cultural (art. 58.3.b) del R.D. 111/1986)”.
+109. “Retención porcentaje cultural (art. 58.3.b) del Real Decreto 111/1986)”.
 
-110 “Presupuesto del cajero de ACF”.
+110. “Presupuesto del cajero de ACF”.
 
-111 “Retención sobre el presupuesto del cajero de ACF”.
+111. “Retención sobre el presupuesto del cajero de ACF”.
 
 c) Documento RC de ejercicios posteriores (Solicitud de certificado de cumplimiento de límites del artículo 47 de la LGP):
 
-100 “Retención de crédito para ejercicios posteriores”.
+100. “Retención de crédito para ejercicios posteriores”.
 
-103 “Retención 1% cultural (art. 58.3.a) del R.D. 111/1986)”.
+104. “Retención cautelar de operaciones pendientes de registro”.
 
-104 “Retención cautelar de operaciones pendientes de registro”.
+108. “Retención adicional del 10 % de la adjudicación”.
 
-108 “Retención adicional del 10% de la adjudicación”.
-
-109 “Retención 1% cultural (art. 58.3.b) del R.D. 111/1986)”.
+109. “Retención porcentaje cultural (art. 58.3.b) del Real Decreto 111/1986)”.
 
 d) Documento A de ejercicio corriente y de ejercicios posteriores (autorizaciones de gasto):
 
@@ -86,15 +84,15 @@ f) Documento AD de ejercicio corriente y de ejercicios posteriores (autorizacion
 
 g) Documentos de tramitación anticipada (RC y A):
 
-100 “Retención de crédito para tramitación anticipada”.
+100. “Retención de crédito para tramitación anticipada”.
 
-103 “Retención 1% cultural (art. 58.3.a) del R.D. 111/1986)”.
+103. “Retención porcentaje cultural (art. 58.3.a) del Real Decreto 111/1986)”.
 
-108 “Retención adicional del 10% de la adjudicación”.
+108. “Retención adicional del 10 % de la adjudicación”.
 
-109 “Retención 1% cultural (art. 58.3.b) del R.D. 111/1986)”.
+109. “Retención porcentaje cultural (art. 58.3.b) del Real Decreto 111/1986)”.
 
-210 “Autorización sobre crédito retenido”.
+210. “Autorización sobre crédito retenido”.
 
 h) Documento D de tramitación anticipada:
 
@@ -312,7 +310,7 @@ h) Acuerdos de concesión:
 
 2. En el caso de reversiones de infraestructuras, que conlleven pagos por parte de la Administración concedente a la concesionaria, se consignará la fecha en la que los riesgos y ventajas asociados a la infraestructura hubieran sido traspasados a la entidad.
 
-II. Subvenciones y transferencias.
+II. Subvenciones y Transferencias:
 
 a) Subvenciones: Se distinguen los siguientes casos:
 
@@ -320,7 +318,7 @@ a.1) Subvenciones en régimen de concurrencia: Una vez aprobado el acuerdo de co
 
 Si en la tramitación de la subvención interviene una entidad intermediaria ante la que se presentan los justificantes, se considerará fecha de gasto la fecha de entrada en dicha entidad intermediaria de la documentación justificativa.
 
-a.2) Subvenciones de concesión directa en virtud de Ley: Si de dicha Ley surge la obligación a cargo de la Administración concedente, se indicará como fecha de gasto la fecha en la que se tenga constancia documental de que el beneficiario ha cumplido los requisitos establecidos en la Ley, aunque a dicha fecha no se haya dictado todavía el acuerdo de concesión de subvención.
+a.2) Subvenciones de concesión directa en virtud de Ley: Si de dicha Ley surge la obligación a cargo de la Administración concedente, se indicará como fecha de gasto la fecha en la que se tenga constancia documental de que el beneficiario ha cumplido los requisitos establecidos en la Ley, aunque a dicha fecha no se haya dictado todavía el acuerdo de concesión de subvención. Si en la tramitación de la subvención interviene una entidad intermediaria ante la que se presentan los justificantes, se considerará fecha de gasto la fecha de entrada en dicha entidad intermediaria de la documentación justificativa.
 
 En subvenciones de concesión directa en las que la obligación no nace de la Ley, se indicará como fecha de gasto la fecha en la que se tenga constancia documental de que el beneficiario ha cumplido las condiciones para el pago de la subvención. En todo caso la fecha de gasto no puede ser anterior a la fecha del acuerdo de concesión.
 
@@ -946,27 +944,21 @@ Esta Referencia está preparada para su utilización para cualquier Fondo o Meca
 
 Esta Referencia está preparada para su utilización para cualquier Fondo o Mecanismo europeo, aunque su aplicación actual queda circunscrita al Mecanismo de Recuperación y Resiliencia.
 
-> Téngase en cuenta que esta última modificación de las notas aclaratorias 253 a 256, y la nota 259, establecidas por el art. 1.Uno de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791, tendrá efectos a partir del 1 de febrero de 2022, según se establece en la disposición final única de la citada Orden.
-
-> Redacción anterior:
-
-> "253. Referencia 1. Referencia de primer nivel dentro del Fondo o Mecanismo europeo (Código de componente en el MRR). Se incluirá el código de identificación del Componente en el caso del MRR o el código de la referencia de primer nivel que se defina al efecto, en otro caso.
-
-> 254. Referencia 2. Referencia de segundo nivel dentro del Fondo o Mecanismo europeo (Código de Reforma/Inversión en el MRR). Se incluirá el código de identificación de la Reforma o Inversión dentro del Componente en el caso del MRR o el código de la referencia de segundo nivel que se defina al efecto, de ser así, en otro caso.
-
-> 255. Referencia 3. Referencia de tercer nivel dentro del Fondo o Mecanismo europeo (Código de Proyecto o Línea de acción en el MRR). Se incluirá el código de identificación del proyecto o línea de acción en el caso del MRR o el código de la referencia de tercer nivel que se defina el efecto, en otro caso.
-
-> 256. Referencia 4. Referencia de cuarto nivel dentro del Fondo o Mecanismo europeo (Código de Hito/Objetivo en el MRR). Se incluirá el código de identificación del Hito u Objetivo dentro de la Reforma o Inversión en el caso del MRR o el código de la referencia de cuarto nivel que se defina al efecto, de ser así, en otro caso".
-
 257. Identificación del contrato en la Plataforma de Contratación del Sector Público (PCSP): Se incluirá el código correspondiente en dicha Plataforma que está constituido por la combinación del Código de órgano de contratación, el Código de licitación y el Código de contrato, siendo estos dos últimos códigos los aportados por el propio órgano de contratación en la Plataforma. Estos datos son alternativos al código de identificación de la convocatoria en la Base de Datos Nacional de Subvenciones (BDNS), no debiendo constar ambos datos simultáneamente.
 
 258. Identificación de la convocatoria en la Base de Datos Nacional de Subvenciones (BDNS): Se incluirá el código correspondiente en dicha Base de Datos. Este dato es alternativo al código de identificación del contrato en la Plataforma de Contratación del Sector Público (PCSP), no debiendo constar ambos datos simultáneamente.
 
 La Intervención General de la Administración del Estado dictará instrucciones respecto a la utilización y cumplimentación del anexo de seguimiento de Fondos de la Unión Europea y, en particular, respecto a la Referencia 4.
 
-259 Importe Total sin IVA: Cuando se trate de documentos contables OK y ADOK, se indicará el importe total a que se refiere la nota aclaratoria (19), sin incluir el IVA o, en su caso, el impuesto indirecto equivalente, excepto en el caso de libramientos a justificar en los que no se cumplimentará este dato.
+259. Importe Total sin IVA: Cuando se trate de documentos contables OK y ADOK, se indicará el importe total a que se refiere la nota aclaratoria (19), sin incluir el IVA o, en su caso, el impuesto indirecto equivalente, excepto en el caso de libramientos a justificar en los que no se cumplimentará este dato.
+
+260. Acopios: Se consignará el número o números asignados en la aplicación SIC3 a la operación de reconocimiento de la obligación del acopio o acopios que se descuentan, así como el importe que se descuenta de cada uno de los acopios consignados.
+
+> Téngase en cuenta que la nota aclaratoria 260, añadida por el art. 1.Dos.3 de la Orden HAC/965/2024, de 9 de septiembre, Ref. BOE-A-2024-18530, será de aplicación a partir del 1 de enero de 2025, según establece la disposición final única de la citada Orden.
 
 (*) Unidad de cuenta: Se indicará la unidad de cuenta en la que ha sido tramitado el expediente de gasto: Pesetas (P) o euros (E).
+
+> Se modifican las letras b), c) y g) de la nota aclaratoria 2, el apartado II de la 34 y, con efectos de 1 de enero de 2025, se añade la nota aclaratoria 260 por el art. 1.Dos de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530
 
 > Se modifican, con efectos de 1 de febrero de 2022, las notas aclaratorias 253 a 256 y se añade la 259 por el art. 1.Uno de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
 

@@ -1,6 +1,6 @@
 ## Regla 34. Formulación y puesta a disposición de la Intervención General de la Administración del Estado de las cuentas anuales.
 
-1. Una vez obtenidas las cuentas anuales, se procederá a su formulación y puesta a disposición de la Intervención General de la Administración del Estado, de acuerdo con el procedimiento establecido en los puntos siguientes, a efectos de que por dicho Centro Directivo, y en el plazo legalmente establecido, se pueda efectuar la auditoría de las mismas prevista en el artículo 168 de la Ley General Presupuestaria.
+1. Una vez obtenidas las cuentas anuales, se procederá a su formulación y puesta a disposición de la Intervención General de la Administración del Estado, de acuerdo con el procedimiento establecido en los apartados siguientes.
 
 Las cuentas anuales se formularán en el plazo de tres meses desde el cierre del ejercicio económico.
 
@@ -31,3 +31,5 @@ Estas especificaciones técnicas serán objeto de publicación en el portal de l
 5. Cuando se precise formular de nuevo las cuentas anuales, introduciendo rectificaciones en las anteriormente formuladas, se deberá seguir el mismo procedimiento indicado en los puntos 1 a 4 anteriores.
 
 En todo caso, a través de los medios informáticos y telemáticos a los que se hace referencia en el punto 2 anterior, quedará constancia de la fecha de formulación y contenido de las cuentas formuladas con anterioridad.
+
+> Se modifica el apartado 1 por el art. 3.1 de la Orden HAC/965/2024, de 9 de septiembre. Ref. BOE-A-2024-18530
