@@ -2,508 +2,730 @@
 
 ## Procesos con ingreso hospitalario
 
-(En euros)
-
-| APR-GRD V.32 COD | Severidad | Descripción GRD | Coste medio 2019 (base 2017) | Coste compensable (80%) |
+| COD APR-GRD (V.38) | Severidad | Descripción GRD | Coste medio 2023 – (En euros) | Compensación 80 % – (En euros) |
 | --- | --- | --- | --- | --- |
-| 1 | 1 | Trasplante hepático y/o de intestino, excepto trasplante hepático infantil y de vivo adulto y trasplante de intestino infantil y adulto. | 36.614,39 | 29.291,51 |
-| 1 | 2 | Trasplante hepático y/o de intestino, excepto trasplante hepático infantil y de vivo adulto y trasplante de intestino infantil y adulto. | 37.548,58 | 30.038,87 |
-| 1 | 3 | Trasplante hepático y/o de intestino, excepto trasplante hepático infantil y de vivo adulto y trasplante de intestino infantil y adulto. | 53.281,95 | 42.625,56 |
-| 1 | 4 | Trasplante hepático y/o de intestino, excepto trasplante hepático infantil y de vivo adulto y trasplante de intestino infantil y adulto. | 80.694,44 | 64.555,55 |
-| 2 | 1 | Trasplante cardiaco y/o pulmonar, excepto trasplante pulmonar infantil y adulto, trasplante cardiopulmonar de adultos y trasplante cardiaco infantil. | 34.686,53 | 27.749,22 |
-| 2 | 2 | Trasplante cardiaco y/o pulmonar, excepto trasplante pulmonar infantil y adulto, trasplante cardiopulmonar de adultos y trasplante cardiaco infantil. | 38.772,46 | 31.017,97 |
-| 2 | 3 | Trasplante cardiaco y/o pulmonar, excepto trasplante pulmonar infantil y adulto, trasplante cardiopulmonar de adultos y trasplante cardiaco infantil. | 46.293,95 | 37.035,16 |
-| 2 | 4 | Trasplante cardiaco y/o pulmonar, excepto trasplante pulmonar infantil y adulto, trasplante cardiopulmonar de adultos y trasplante cardiaco infantil. | 72.383,40 | 57.906,72 |
-| 3 | 1 | Trasplante de medula ósea, excepto trasplante de progenitores hematopoyéticos alogénico infantil. | 28.416,85 | 22.733,48 |
-| 3 | 2 | Trasplante de medula ósea, excepto trasplante de progenitores hematopoyéticos alogénico infantil. | 32.098,81 | 25.679,05 |
-| 3 | 3 | Trasplante de medula ósea, excepto trasplante de progenitores hematopoyéticos alogénico infantil. | 34.716,35 | 27.773,08 |
-| 3 | 4 | Trasplante de medula ósea, excepto trasplante de progenitores hematopoyéticos alogénico infantil. | 44.390,42 | 35.512,34 |
-| 4 | 1 | Traqueostomía con vm 96+ horas con procedimiento extensivo o ecmo. | 37.671,60 | 30.137,28 |
-| 4 | 2 | Traqueostomía con vm 96+ horas con procedimiento extensivo o ecmo. | 54.868,34 | 43.894,67 |
-| 4 | 3 | Traqueostomía con vm 96+ horas con procedimiento extensivo o ecmo. | 64.592,82 | 51.674,25 |
-| 4 | 4 | Traqueostomía con vm 96+ horas con procedimiento extensivo o ecmo. | 75.119,56 | 60.095,65 |
-| 5 | 1 | Traqueostomía con vm 96+ horas sin procedimiento extensivo. | 33.285,21 | 26.628,17 |
-| 5 | 2 | Traqueostomía con vm 96+ horas sin procedimiento extensivo. | 42.686,65 | 34.149,32 |
-| 5 | 3 | Traqueostomía con vm 96+ horas sin procedimiento extensivo. | 50.244,30 | 40.195,44 |
-| 5 | 4 | Traqueostomía con vm 96+ horas sin procedimiento extensivo. | 59.848,99 | 47.879,19 |
-| 20 | 1 | Craneotomía por trauma. | 10.917,92 | 8.734,34 |
-| 20 | 2 | Craneotomía por trauma. | 20.508,30 | 16.406,64 |
-| 20 | 3 | Craneotomía por trauma. | 25.638,64 | 20.510,91 |
-| 20 | 4 | Craneotomía por trauma. | 28.420,93 | 22.736,75 |
-| 21 | 1 | Craneotomía excepto por trauma, excepto en niños. | 12.008,92 | 9.607,14 |
-| 21 | 2 | Craneotomía excepto por trauma, excepto en niños. | 16.149,60 | 12.919,68 |
-| 21 | 3 | Craneotomía excepto por trauma, excepto en niños. | 23.133,99 | 18.507,20 |
-| 21 | 4 | Craneotomía excepto por trauma, excepto en niños. | 29.597,57 | 23.678,06 |
-| 22 | 1 | Procedimientos sobre shunt ventricular. | 9.435,09 | 7.548,07 |
-| 22 | 2 | Procedimientos sobre shunt ventricular. | 13.355,59 | 10.684,47 |
-| 22 | 3 | Procedimientos sobre shunt ventricular. | 21.778,13 | 17.422,50 |
-| 22 | 4 | Procedimientos sobre shunt ventricular. | 26.984,46 | 21.587,57 |
-| 23 | 1 | Procedimientos espinales. | 9.242,79 | 7.394,23 |
-| 23 | 2 | Procedimientos espinales. | 14.534,10 | 11.627,28 |
-| 23 | 3 | Procedimientos espinales. | 31.744,61 | 25.395,68 |
-| 23 | 4 | Procedimientos espinales. | 41.233,32 | 32.986,66 |
-| 24 | 1 | Procedimientos vasculares extracraneales. | 8.857,43 | 7.085,95 |
-| 24 | 2 | Procedimientos vasculares extracraneales. | 11.920,94 | 9.536,75 |
-| 24 | 3 | Procedimientos vasculares extracraneales. | 18.712,53 | 14.970,03 |
-| 24 | 4 | Procedimientos vasculares extracraneales. | 26.330,53 | 21.064,42 |
-| 26 | 1 | Otros procedimientos del sistema nervioso y relacionados. | 3.317,08 | 2.653,67 |
-| 26 | 2 | Otros procedimientos del sistema nervioso y relacionados. | 5.279,04 | 4.223,23 |
-| 26 | 3 | Otros procedimientos del sistema nervioso y relacionados. | 9.563,47 | 7.650,78 |
-| 26 | 4 | Otros procedimientos del sistema nervioso y relacionados. | 20.084,83 | 16.067,86 |
-| 41 | 1 | Neoplasias de sistema nervioso, excepto en niños. | 4.700,25 | 3.760,20 |
-| 41 | 2 | Neoplasias de sistema nervioso, excepto en niños. | 5.251,00 | 4.200,80 |
-| 41 | 3 | Neoplasias de sistema nervioso, excepto en niños. | 6.644,68 | 5.315,74 |
-| 41 | 4 | Neoplasias de sistema nervioso, excepto en niños. | 8.617,27 | 6.893,82 |
-| 53 | 1 | Convulsiones. | 2.310,57 | 1.848,46 |
-| 53 | 2 | Convulsiones. | 3.260,93 | 2.608,74 |
-| 53 | 3 | Convulsiones. | 4.595,18 | 3.676,15 |
-| 53 | 4 | Convulsiones. | 9.475,66 | 7.580,53 |
-| 55 | 1 | Traumatismo craneal con coma >1h o hemorragia. | 3.603,88 | 2.883,11 |
-| 55 | 2 | Traumatismo craneal con coma >1h o hemorragia. | 4.668,78 | 3.735,02 |
-| 55 | 3 | Traumatismo craneal con coma >1h o hemorragia. | 6.825,06 | 5.460,05 |
-| 55 | 4 | Traumatismo craneal con coma >1h o hemorragia. | 10.012,71 | 8.010,16 |
-| 56 | 1 | Fractura craneal y lesión intracraneal complicada, coma < 1h o sin coma. | 3.136,44 | 2.509,15 |
-| 56 | 2 | Fractura craneal y lesión intracraneal complicada, coma < 1h o sin coma. | 4.282,94 | 3.426,35 |
-| 56 | 3 | Fractura craneal y lesión intracraneal complicada, coma < 1h o sin coma. | 7.041,02 | 5.632,82 |
-| 56 | 4 | Fractura craneal y lesión intracraneal complicada, coma < 1h o sin coma. | 13.102,46 | 10.481,97 |
-| 57 | 1 | Concusión, lesión intracraneal no complicada, coma <1 hr o sin coma. | 1.483,72 | 1.186,97 |
-| 57 | 2 | Concusión, lesión intracraneal no complicada, coma <1 hr o sin coma. | 2.187,28 | 1.749,82 |
-| 57 | 3 | Concusión, lesión intracraneal no complicada, coma <1 hr o sin coma. | 4.260,56 | 3.408,45 |
-| 57 | 4 | Concusión, lesión intracraneal no complicada, coma <1 hr o sin coma. | 5.771,82 | 4.617,45 |
-| 70 | 1 | Procedimientos sobre órbita, excepto tumores orbitarios y descompresión orbitaria en oftalmopatía tiroidea. | 4.138,01 | 3.310,41 |
-| 70 | 2 | Procedimientos sobre órbita, excepto tumores orbitarios y descompresión orbitaria en oftalmopatía tiroidea. | 5.128,42 | 4.102,74 |
-| 70 | 3 | Procedimientos sobre órbita, excepto tumores orbitarios y descompresión orbitaria en oftalmopatía tiroidea. | 8.384,97 | 6.707,98 |
-| 70 | 4 | Procedimientos sobre órbita, excepto tumores orbitarios y descompresión orbitaria en oftalmopatía tiroidea. | 8.384,97 | 6.707,98 |
-| 80 | 1 | Infecciones mayores del ojo principales. | 3.856,15 | 3.084,92 |
-| 80 | 2 | Infecciones mayores del ojo principales. | 4.579,85 | 3.663,88 |
-| 80 | 3 | Infecciones mayores del ojo principales. | 6.406,64 | 5.125,31 |
-| 80 | 4 | Infecciones mayores del ojo principales. | 6.406,64 | 5.125,31 |
-| 82 | 1 | Enfermedades oculares, excepto infecciones mayores. | 2.696,44 | 2.157,15 |
-| 82 | 2 | Enfermedades oculares, excepto infecciones mayores. | 3.311,06 | 2.648,84 |
-| 82 | 3 | Enfermedades oculares, excepto infecciones mayores. | 5.110,10 | 4.088,08 |
-| 82 | 4 | Enfermedades oculares, excepto infecciones mayores. | 8.928,98 | 7.143,19 |
-| 89 | 1 | Procedimientos mayores sobre huesos craneales/faciales. | 8.691,50 | 6.953,20 |
-| 89 | 2 | Procedimientos mayores sobre huesos craneales/faciales. | 12.139,00 | 9.711,20 |
-| 89 | 3 | Procedimientos mayores sobre huesos craneales/faciales. | 18.069,74 | 14.455,79 |
-| 89 | 4 | Procedimientos mayores sobre huesos craneales/faciales. | 41.469,19 | 33.175,35 |
-| 90 | 1 | Procedimientos mayores sobre laringe y tráquea. | 16.440,32 | 13.152,26 |
-| 90 | 2 | Procedimientos mayores sobre laringe y tráquea. | 16.626,73 | 13.301,39 |
-| 90 | 3 | Procedimientos mayores sobre laringe y tráquea. | 28.967,02 | 23.173,62 |
-| 90 | 4 | Procedimientos mayores sobre laringe y tráquea. | 37.673,69 | 30.138,95 |
-| 91 | 1 | Otros procedimientos mayores sobre cabeza y cuello. | 9.448,78 | 7.559,03 |
-| 91 | 2 | Otros procedimientos mayores sobre cabeza y cuello. | 18.329,43 | 14.663,54 |
-| 91 | 3 | Otros procedimientos mayores sobre cabeza y cuello. | 18.816,93 | 15.053,55 |
-| 91 | 4 | Otros procedimientos mayores sobre cabeza y cuello. | 32.658,22 | 26.126,58 |
-| 92 | 1 | Procedimientos sobre huesos faciales excepto proc. Mayores sobre hueso craneal/facial. | 5.066,18 | 4.052,94 |
-| 92 | 2 | Procedimientos sobre huesos faciales excepto proc. Mayores sobre hueso craneal/facial. | 5.809,51 | 4.647,61 |
-| 92 | 3 | Procedimientos sobre huesos faciales excepto proc. Mayores sobre hueso craneal/facial. | 11.134,24 | 8.907,39 |
-| 92 | 4 | Procedimientos sobre huesos faciales excepto proc. Mayores sobre hueso craneal/facial. | 20.768,80 | 16.615,04 |
-| 93 | 1 | Procedimientos sobre senos y mastoides. | 2.481,79 | 1.985,43 |
-| 93 | 2 | Procedimientos sobre senos y mastoides. | 3.436,10 | 2.748,88 |
-| 93 | 3 | Procedimientos sobre senos y mastoides. | 9.044,18 | 7.235,35 |
-| 93 | 4 | Procedimientos sobre senos y mastoides. | 9.044,18 | 7.235,35 |
-| 95 | 1 | Reparación de hendidura labial y paladar. | 3.491,11 | 2.792,89 |
-| 95 | 2 | Reparación de hendidura labial y paladar. | 4.008,13 | 3.206,50 |
-| 95 | 3 | Reparación de hendidura labial y paladar. | 4.547,72 | 3.638,18 |
-| 95 | 4 | Reparación de hendidura labial y paladar. | 4.547,72 | 3.638,18 |
-| 98 | 1 | Otros procedimientos sobre oído, nariz, boca y garganta. | 2.643,80 | 2.115,04 |
-| 98 | 2 | Otros procedimientos sobre oído, nariz, boca y garganta. | 3.388,05 | 2.710,44 |
-| 98 | 3 | Otros procedimientos sobre oído, nariz, boca y garganta. | 7.266,67 | 5.813,33 |
-| 98 | 4 | Otros procedimientos sobre oído, nariz, boca y garganta. | 16.258,77 | 13.007,01 |
-| 110 | 1 | Neoplasias de oído, nariz, boca,garganta y craneales/faciales. | 2.997,78 | 2.398,23 |
-| 110 | 2 | Neoplasias de oído, nariz, boca,garganta y craneales/faciales. | 4.514,92 | 3.611,94 |
-| 110 | 3 | Neoplasias de oído, nariz, boca,garganta y craneales/faciales. | 6.550,71 | 5.240,57 |
-| 110 | 4 | Neoplasias de oído, nariz, boca,garganta y craneales/faciales. | 11.008,70 | 8.806,96 |
-| 114 | 1 | Enfermedades y heridas orales y dentales. | 2.427,76 | 1.942,21 |
-| 114 | 2 | Enfermedades y heridas orales y dentales. | 3.038,19 | 2.430,55 |
-| 114 | 3 | Enfermedades y heridas orales y dentales. | 4.988,18 | 3.990,55 |
-| 114 | 4 | Enfermedades y heridas orales y dentales. | 7.959,86 | 6.367,88 |
-| 115 | 1 | Otras enfermedades de oído, nariz, boca, garganta y craneales/faciales. | 1.827,99 | 1.462,39 |
-| 115 | 2 | Otras enfermedades de oído, nariz, boca, garganta y craneales/faciales. | 2.477,04 | 1.981,64 |
-| 115 | 3 | Otras enfermedades de oído, nariz, boca, garganta y craneales/faciales. | 3.991,53 | 3.193,22 |
-| 115 | 4 | Otras enfermedades de oído, nariz, boca, garganta y craneales/faciales. | 6.541,56 | 5.233,25 |
-| 120 | 1 | Procedimientos mayores sobre aparato respiratorio. | 6.280,22 | 5.024,18 |
-| 120 | 2 | Procedimientos mayores sobre aparato respiratorio. | 7.136,08 | 5.708,87 |
-| 120 | 3 | Procedimientos mayores sobre aparato respiratorio. | 13.410,82 | 10.728,65 |
-| 120 | 4 | Procedimientos mayores sobre aparato respiratorio. | 25.888,07 | 20.710,46 |
-| 121 | 1 | Otros procedimientos sobre aparato respiratorio. | 4.804,78 | 3.843,83 |
-| 121 | 2 | Otros procedimientos sobre aparato respiratorio. | 6.847,70 | 5.478,16 |
-| 121 | 3 | Otros procedimientos sobre aparato respiratorio. | 11.077,28 | 8.861,82 |
-| 121 | 4 | Otros procedimientos sobre aparato respiratorio. | 20.638,73 | 16.510,99 |
-| 130 | 1 | Enfermedades aparato respiratorio con ventilación asistida de más de 96 horas. | 14.815,57 | 11.852,46 |
-| 130 | 2 | Enfermedades aparato respiratorio con ventilación asistida de más de 96 horas. | 15.804,70 | 12.643,76 |
-| 130 | 3 | Enfermedades aparato respiratorio con ventilación asistida de más de 96 horas. | 18.925,66 | 15.140,53 |
-| 130 | 4 | Enfermedades aparato respiratorio con ventilación asistida de más de 96 horas. | 21.547,62 | 17.238,10 |
-| 131 | 1 | Fibrosis quística. | 6.068,82 | 4.855,05 |
-| 131 | 2 | Fibrosis quística. | 6.210,83 | 4.968,66 |
-| 131 | 3 | Fibrosis quística. | 6.535,97 | 5.228,77 |
-| 131 | 4 | Fibrosis quística. | 11.235,68 | 8.988,54 |
-| 132 | 1 | Bdp y otras enf. Respiratorias crónicas con origen en periodo perinatal. | 3.394,47 | 2.715,57 |
-| 132 | 2 | Bdp y otras enf. Respiratorias crónicas con origen en periodo perinatal. | 5.676,86 | 4.541,49 |
-| 132 | 3 | Bdp y otras enf. Respiratorias crónicas con origen en periodo perinatal. | 6.556,61 | 5.245,29 |
-| 132 | 4 | Bdp y otras enf. Respiratorias crónicas con origen en periodo perinatal. | 11.575,38 | 9.260,30 |
-| 135 | 1 | Traumatismos torácicos principales. | 2.572,86 | 2.058,28 |
-| 135 | 2 | Traumatismos torácicos principales. | 3.645,41 | 2.916,33 |
-| 135 | 3 | Traumatismos torácicos principales. | 5.212,60 | 4.170,08 |
-| 135 | 4 | Traumatismos torácicos principales. | 10.810,44 | 8.648,35 |
-| 137 | 1 | Infecciones e inflamaciones pulmonares. | 4.489,51 | 3.591,61 |
-| 137 | 2 | Infecciones e inflamaciones pulmonares. | 4.919,03 | 3.935,22 |
-| 137 | 3 | Infecciones e inflamaciones pulmonares. | 5.428,42 | 4.342,74 |
-| 137 | 4 | Infecciones e inflamaciones pulmonares. | 8.125,99 | 6.500,79 |
-| 138 | 1 | Neumonía por virus sincitial respiratorio. | 2.904,35 | 2.323,48 |
-| 138 | 2 | Neumonía por virus sincitial respiratorio. | 3.709,04 | 2.967,23 |
-| 138 | 3 | Neumonía por virus sincitial respiratorio. | 3.928,76 | 3.143,01 |
-| 138 | 4 | Neumonía por virus sincitial respiratorio. | 7.390,56 | 5.912,45 |
-| 139 | 1 | Otra neumonía. | 2.961,82 | 2.369,46 |
-| 139 | 2 | Otra neumonía. | 3.775,17 | 3.020,13 |
-| 139 | 3 | Otra neumonía. | 4.534,81 | 3.627,85 |
-| 139 | 4 | Otra neumonía. | 6.961,86 | 5.569,49 |
-| 160 | 1 | Reparación cardiotorácica mayor de anomalía cardíaca. | 12.866,06 | 10.292,85 |
-| 160 | 2 | Reparación cardiotorácica mayor de anomalía cardíaca. | 13.879,90 | 11.103,92 |
-| 160 | 3 | Reparación cardiotorácica mayor de anomalía cardíaca. | 20.030,96 | 16.024,77 |
-| 160 | 4 | Reparación cardiotorácica mayor de anomalía cardíaca. | 31.208,94 | 24.967,16 |
-| 161 | 1 | Implantación de desfibrilador cardíaco. | 18.161,43 | 14.529,14 |
-| 161 | 2 | Implantación de desfibrilador cardíaco. | 18.825,45 | 15.060,36 |
-| 161 | 3 | Implantación de desfibrilador cardíaco. | 20.817,79 | 16.654,23 |
-| 161 | 4 | Implantación de desfibrilador cardíaco. | 33.269,34 | 26.615,47 |
-| 162 | 1 | Procedimientos sobre válvulas cardiacas con cateterismo cardiaco. | 20.540,89 | 16.432,72 |
-| 162 | 2 | Procedimientos sobre válvulas cardiacas con cateterismo cardiaco. | 21.164,78 | 16.931,82 |
-| 162 | 3 | Procedimientos sobre válvulas cardiacas con cateterismo cardiaco. | 24.240,43 | 19.392,34 |
-| 162 | 4 | Procedimientos sobre válvulas cardiacas con cateterismo cardiaco. | 28.173,17 | 22.538,54 |
-| 163 | 1 | Procedimientos sobre válvulas cardiacas sin cateterismo cardiaco. | 15.622,94 | 12.498,35 |
-| 163 | 2 | Procedimientos sobre válvulas cardiacas sin cateterismo cardiaco. | 18.239,59 | 14.591,67 |
-| 163 | 3 | Procedimientos sobre válvulas cardiacas sin cateterismo cardiaco. | 24.170,85 | 19.336,68 |
-| 163 | 4 | Procedimientos sobre válvulas cardiacas sin cateterismo cardiaco. | 27.433,44 | 21.946,75 |
-| 165 | 1 | Bypass coronario con cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 17.487,47 | 13.989,97 |
-| 165 | 2 | Bypass coronario con cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 18.623,85 | 14.899,08 |
-| 165 | 3 | Bypass coronario con cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 21.110,04 | 16.888,03 |
-| 165 | 4 | Bypass coronario con cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 24.203,40 | 19.362,72 |
-| 166 | 1 | By-pass coronario sin cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 12.368,45 | 9.894,76 |
-| 166 | 2 | By-pass coronario sin cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 14.221,77 | 11.377,42 |
-| 166 | 3 | By-pass coronario sin cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 20.319,58 | 16.255,66 |
-| 166 | 4 | By-pass coronario sin cateterismo cardiaco o proc. Cardiovasculares percutáneos. | 26.974,13 | 21.579,30 |
-| 167 | 1 | Otros procedimientos cardiotorácicos. | 10.679,10 | 8.543,28 |
-| 167 | 2 | Otros procedimientos cardiotorácicos. | 13.944,01 | 11.155,21 |
-| 167 | 3 | Otros procedimientos cardiotorácicos. | 18.583,03 | 14.866,43 |
-| 167 | 4 | Otros procedimientos cardiotorácicos. | 26.006,03 | 20.804,83 |
-| 169 | 1 | Procedimientos torácicos y abdominales vasculares mayores. | 10.218,57 | 8.174,86 |
-| 169 | 2 | Procedimientos torácicos y abdominales vasculares mayores. | 12.152,52 | 9.722,02 |
-| 169 | 3 | Procedimientos torácicos y abdominales vasculares mayores. | 16.437,29 | 13.149,83 |
-| 169 | 4 | Procedimientos torácicos y abdominales vasculares mayores. | 21.207,75 | 16.966,20 |
-| 170 | 1 | Implant. Marcapasos cardiaco permanente con iam, fallo cardiaco o shock. | 8.906,53 | 7.125,23 |
-| 170 | 2 | Implant. Marcapasos cardiaco permanente con iam, fallo cardiaco o shock. | 11.365,80 | 9.092,64 |
-| 170 | 3 | Implant. Marcapasos cardiaco permanente con iam, fallo cardiaco o shock. | 13.762,97 | 11.010,38 |
-| 170 | 4 | Implant. Marcapasos cardiaco permanente con iam, fallo cardiaco o shock. | 15.017,29 | 12.013,83 |
-| 173 | 1 | Otros procedimientos vasculares. | 8.566,11 | 6.852,89 |
-| 173 | 2 | Otros procedimientos vasculares. | 11.121,66 | 8.897,33 |
-| 173 | 3 | Otros procedimientos vasculares. | 15.688,28 | 12.550,62 |
-| 173 | 4 | Otros procedimientos vasculares. | 20.555,15 | 16.444,12 |
-| 174 | 1 | Procedimientos cardiovasculares percutáneos con iam. | 7.262,28 | 5.809,83 |
-| 174 | 2 | Procedimientos cardiovasculares percutáneos con iam. | 8.053,47 | 6.442,78 |
-| 174 | 3 | Procedimientos cardiovasculares percutáneos con iam. | 10.056,13 | 8.044,90 |
-| 174 | 4 | Procedimientos cardiovasculares percutáneos con iam. | 15.329,13 | 12.263,30 |
-| 175 | 1 | Procedimientos cardiovasculares percutáneos sin iam. | 5.082,03 | 4.065,63 |
-| 175 | 2 | Procedimientos cardiovasculares percutáneos sin iam. | 6.491,52 | 5.193,21 |
-| 175 | 3 | Procedimientos cardiovasculares percutáneos sin iam. | 9.224,43 | 7.379,54 |
-| 175 | 4 | Procedimientos cardiovasculares percutáneos sin iam. | 15.437,28 | 12.349,82 |
-| 176 | 1 | Sustitución de generador de marcapasos y desfibrilador cardíaco. | 5.554,00 | 4.443,20 |
-| 176 | 2 | Sustitución de generador de marcapasos y desfibrilador cardíaco. | 15.238,02 | 12.190,41 |
-| 176 | 3 | Sustitución de generador de marcapasos y desfibrilador cardíaco. | 15.238,02 | 12.190,41 |
-| 176 | 4 | Sustitución de generador de marcapasos y desfibrilador cardíaco. | 16.041,49 | 12.833,19 |
-| 180 | 1 | Otros procedimientos sobre sistema circulatorio. | 2.281,34 | 1.825,07 |
-| 180 | 2 | Otros procedimientos sobre sistema circulatorio. | 8.651,95 | 6.921,56 |
-| 180 | 3 | Otros procedimientos sobre sistema circulatorio. | 10.226,62 | 8.181,30 |
-| 180 | 4 | Otros procedimientos sobre sistema circulatorio. | 17.264,74 | 13.811,79 |
-| 191 | 1 | Cateterismo cardíaco con trastornos circulatorios excepto cardiopatía isquémica. | 2.898,11 | 2.318,49 |
-| 191 | 2 | Cateterismo cardíaco con trastornos circulatorios excepto cardiopatía isquémica. | 4.095,40 | 3.276,32 |
-| 191 | 3 | Cateterismo cardíaco con trastornos circulatorios excepto cardiopatía isquémica. | 6.440,96 | 5.152,77 |
-| 191 | 4 | Cateterismo cardíaco con trastornos circulatorios excepto cardiopatía isquémica. | 12.142,90 | 9.714,32 |
-| 192 | 1 | Cateterismo cardíaco para cardiopatía isquémica. | 2.820,63 | 2.256,50 |
-| 192 | 2 | Cateterismo cardíaco para cardiopatía isquémica. | 3.391,29 | 2.713,03 |
-| 192 | 3 | Cateterismo cardíaco para cardiopatía isquémica. | 4.867,72 | 3.894,18 |
-| 192 | 4 | Cateterismo cardíaco para cardiopatía isquémica. | 12.619,33 | 10.095,46 |
-| 220 | 1 | Procedimientos mayores sobre estómago, esófago y duodeno. | 6.575,75 | 5.260,60 |
-| 220 | 2 | Procedimientos mayores sobre estómago, esófago y duodeno. | 10.422,39 | 8.337,91 |
-| 220 | 3 | Procedimientos mayores sobre estómago, esófago y duodeno. | 15.787,28 | 12.629,82 |
-| 220 | 4 | Procedimientos mayores sobre estómago, esófago y duodeno. | 26.990,67 | 21.592,53 |
-| 221 | 1 | Procedimientos mayores de intestino delgado y grueso. | 8.179,39 | 6.543,51 |
-| 221 | 2 | Procedimientos mayores de intestino delgado y grueso. | 10.176,15 | 8.140,92 |
-| 221 | 3 | Procedimientos mayores de intestino delgado y grueso. | 15.522,51 | 12.418,01 |
-| 221 | 4 | Procedimientos mayores de intestino delgado y grueso. | 22.561,27 | 18.049,02 |
-| 226 | 1 | Procedimientos sobre ano. | 2.368,36 | 1.894,69 |
-| 226 | 2 | Procedimientos sobre ano. | 3.243,45 | 2.594,76 |
-| 226 | 3 | Procedimientos sobre ano. | 6.394,76 | 5.115,80 |
-| 226 | 4 | Procedimientos sobre ano. | 9.969,17 | 7.975,33 |
-| 260 | 1 | Procedimientos mayores sobre páncreas, hígado y derivación. | 7.155,72 | 5.724,58 |
-| 260 | 2 | Procedimientos mayores sobre páncreas, hígado y derivación. | 8.493,52 | 6.794,82 |
-| 260 | 3 | Procedimientos mayores sobre páncreas, hígado y derivación. | 16.517,18 | 13.213,74 |
-| 260 | 4 | Procedimientos mayores sobre páncreas, hígado y derivación. | 21.685,40 | 17.348,32 |
-| 261 | 1 | Procedimientos mayores sobre vía biliar. | 7.649,35 | 6.119,48 |
-| 261 | 2 | Procedimientos mayores sobre vía biliar. | 11.001,70 | 8.801,36 |
-| 261 | 3 | Procedimientos mayores sobre vía biliar. | 17.734,04 | 14.187,23 |
-| 261 | 4 | Procedimientos mayores sobre vía biliar. | 20.469,54 | 16.375,63 |
-| 264 | 1 | Otros procedimientos hepatobiliares, páncreas y abdominales. | 6.309,60 | 5.047,68 |
-| 264 | 2 | Otros procedimientos hepatobiliares, páncreas y abdominales. | 9.029,39 | 7.223,52 |
-| 264 | 3 | Otros procedimientos hepatobiliares, páncreas y abdominales. | 15.567,14 | 12.453,71 |
-| 264 | 4 | Otros procedimientos hepatobiliares, páncreas y abdominales. | 29.145,07 | 23.316,06 |
-| 279 | 1 | Coma hepático y otros trastornos mayores de hígado. | 3.637,85 | 2.910,28 |
-| 279 | 2 | Coma hepático y otros trastornos mayores de hígado. | 4.566,62 | 3.653,29 |
-| 279 | 3 | Coma hepático y otros trastornos mayores de hígado. | 6.837,42 | 5.469,93 |
-| 279 | 4 | Coma hepático y otros trastornos mayores de hígado. | 11.804,65 | 9.443,72 |
-| 303 | 1 | Procedimientos de fusión dorsal y lumbar por escoliosis. | 19.719,38 | 15.775,50 |
-| 303 | 2 | Procedimientos de fusión dorsal y lumbar por escoliosis. | 20.054,33 | 16.043,46 |
-| 303 | 3 | Procedimientos de fusión dorsal y lumbar por escoliosis. | 26.890,76 | 21.512,61 |
-| 303 | 4 | Procedimientos de fusión dorsal y lumbar por escoliosis. | 26.890,76 | 21.512,61 |
-| 304 | 1 | Procedimientos de fusión dorsal y lumbar excepto por escoliosis. | 11.225,20 | 8.980,16 |
-| 304 | 2 | Procedimientos de fusión dorsal y lumbar excepto por escoliosis. | 13.260,60 | 10.608,48 |
-| 304 | 3 | Procedimientos de fusión dorsal y lumbar excepto por escoliosis. | 17.574,80 | 14.059,84 |
-| 304 | 4 | Procedimientos de fusión dorsal y lumbar excepto por escoliosis. | 36.191,39 | 28.953,11 |
-| 310 | 1 | Escisión y descompresión de disco intervertebral. | 6.851,68 | 5.481,34 |
-| 310 | 2 | Escisión y descompresión de disco intervertebral. | 7.199,45 | 5.759,56 |
-| 310 | 3 | Escisión y descompresión de disco intervertebral. | 9.070,66 | 7.256,53 |
-| 310 | 4 | Escisión y descompresión de disco intervertebral. | 28.183,77 | 22.547,01 |
-| 321 | 1 | Fusión espinal cervical y otros proc. De la espalda/cuello excepto escisión/descomp. Discal. | 8.335,52 | 6.668,42 |
-| 321 | 2 | Fusión espinal cervical y otros proc. De la espalda/cuello excepto escisión/descomp. Discal. | 11.016,17 | 8.812,94 |
-| 321 | 3 | Fusión espinal cervical y otros proc. De la espalda/cuello excepto escisión/descomp. Discal. | 18.470,45 | 14.776,36 |
-| 321 | 4 | Fusión espinal cervical y otros proc. De la espalda/cuello excepto escisión/descomp. Discal. | 32.581,92 | 26.065,54 |
-| 361 | 1 | Injerto piel para diagnósticos piel y tejido subcutáneo. | 4.054,26 | 3.243,41 |
-| 361 | 2 | Injerto piel para diagnósticos piel y tejido subcutáneo. | 8.207,54 | 6.566,03 |
-| 361 | 3 | Injerto piel para diagnósticos piel y tejido subcutáneo. | 14.726,42 | 11.781,13 |
-| 361 | 4 | Injerto piel para diagnósticos piel y tejido subcutáneo. | 26.065,77 | 20.852,61 |
-| 401 | 1 | Procedimientos sobre glándula adrenal y pituitaria. | 6.517,07 | 5.213,66 |
-| 401 | 2 | Procedimientos sobre glándula adrenal y pituitaria. | 8.406,22 | 6.724,98 |
-| 401 | 3 | Procedimientos sobre glándula adrenal y pituitaria. | 15.379,74 | 12.303,80 |
-| 401 | 4 | Procedimientos sobre glándula adrenal y pituitaria. | 24.479,35 | 19.583,48 |
-| 403 | 1 | Procedimientos quirúrgicos para obesidad. | 4.968,20 | 3.974,56 |
-| 403 | 2 | Procedimientos quirúrgicos para obesidad. | 5.258,20 | 4.206,56 |
-| 403 | 3 | Procedimientos quirúrgicos para obesidad. | 6.995,90 | 5.596,72 |
-| 403 | 4 | Procedimientos quirúrgicos para obesidad. | 28.169,28 | 22.535,42 |
-| 404 | 1 | Procedimientos sobre tiroides, paratiroides y tracto tireogloso. | 3.263,36 | 2.610,69 |
-| 404 | 2 | Procedimientos sobre tiroides, paratiroides y tracto tireogloso. | 4.138,83 | 3.311,07 |
-| 404 | 3 | Procedimientos sobre tiroides, paratiroides y tracto tireogloso. | 12.289,63 | 9.831,71 |
-| 404 | 4 | Procedimientos sobre tiroides, paratiroides y tracto tireogloso. | 12.289,63 | 9.831,71 |
-| 405 | 1 | Otros procedimientos endocrinos, nutricionales y metabólicos. | 4.669,17 | 3.735,34 |
-| 405 | 2 | Otros procedimientos endocrinos, nutricionales y metabólicos. | 7.362,71 | 5.890,17 |
-| 405 | 3 | Otros procedimientos endocrinos, nutricionales y metabólicos. | 14.329,47 | 11.463,57 |
-| 405 | 4 | Otros procedimientos endocrinos, nutricionales y metabólicos. | 22.741,83 | 18.193,46 |
-| 422 | 1 | Hipovolemia y trastornos electrolíticos relacionados. | 2.144,51 | 1.715,61 |
-| 422 | 2 | Hipovolemia y trastornos electrolíticos relacionados. | 3.088,72 | 2.470,98 |
-| 422 | 3 | Hipovolemia y trastornos electrolíticos relacionados. | 4.331,43 | 3.465,14 |
-| 422 | 4 | Hipovolemia y trastornos electrolíticos relacionados. | 7.137,77 | 5.710,22 |
-| 425 | 1 | Trastornos electrolíticos excepto hipovolemia relacionada. | 2.429,67 | 1.943,74 |
-| 425 | 2 | Trastornos electrolíticos excepto hipovolemia relacionada. | 3.313,51 | 2.650,81 |
-| 425 | 3 | Trastornos electrolíticos excepto hipovolemia relacionada. | 4.483,68 | 3.586,94 |
-| 425 | 4 | Trastornos electrolíticos excepto hipovolemia relacionada. | 7.086,38 | 5.669,10 |
-| 440 | 1 | Trasplante renal, excepto trasplante renal infantil y trasplante renal cruzado. | 14.767,51 | 11.814,01 |
-| 440 | 2 | Trasplante renal, excepto trasplante renal infantil y trasplante renal cruzado. | 17.001,99 | 13.601,59 |
-| 440 | 3 | Trasplante renal, excepto trasplante renal infantil y trasplante renal cruzado. | 23.098,90 | 18.479,12 |
-| 440 | 4 | Trasplante renal, excepto trasplante renal infantil y trasplante renal cruzado. | 37.693,09 | 30.154,47 |
-| 442 | 1 | Procedimientos sobre riñón y tracto urinario por neoplasia, excepto tumores renales con afectación vascular. | 5.913,06 | 4.730,45 |
-| 442 | 2 | Procedimientos sobre riñón y tracto urinario por neoplasia, excepto tumores renales con afectación vascular. | 7.078,33 | 5.662,66 |
-| 442 | 3 | Procedimientos sobre riñón y tracto urinario por neoplasia, excepto tumores renales con afectación vascular. | 11.493,38 | 9.194,71 |
-| 442 | 4 | Procedimientos sobre riñón y tracto urinario por neoplasia, excepto tumores renales con afectación vascular. | 13.863,77 | 11.091,02 |
-| 443 | 1 | Procedimientos sobre riñón y tracto urinario por procesos no malignos, excepto complejo extrofia-epispadias (extrofia vesical, epispadias y extrofia de cloaca) y cirugía reconstructiva uretral compleja del adulto. | 5.231,94 | 4.185,55 |
-| 443 | 2 | Procedimientos sobre riñón y tracto urinario por procesos no malignos, excepto complejo extrofia-epispadias (extrofia vesical, epispadias y extrofia de cloaca) y cirugía reconstructiva uretral compleja del adulto. | 6.716,68 | 5.373,34 |
-| 443 | 3 | Procedimientos sobre riñón y tracto urinario por procesos no malignos, excepto complejo extrofia-epispadias (extrofia vesical, epispadias y extrofia de cloaca) y cirugía reconstructiva uretral compleja del adulto. | 10.455,50 | 8.364,40 |
-| 443 | 4 | Procedimientos sobre riñón y tracto urinario por procesos no malignos, excepto complejo extrofia-epispadias (extrofia vesical, epispadias y extrofia de cloaca) y cirugía reconstructiva uretral compleja del adulto. | 13.091,98 | 10.473,58 |
-| 511 | 1 | Proc. Sobre útero y anejos por neoplasia maligna de ovario o anejos, excepto tumores germinales de riesgo alto e intermedio y resistentes a quimioterapia de primera línea en adultos. | 5.818,54 | 4.654,83 |
-| 511 | 2 | Proc. Sobre útero y anejos por neoplasia maligna de ovario o anejos, excepto tumores germinales de riesgo alto e intermedio y resistentes a quimioterapia de primera línea en adultos. | 7.924,60 | 6.339,68 |
-| 511 | 3 | Proc. Sobre útero y anejos por neoplasia maligna de ovario o anejos, excepto tumores germinales de riesgo alto e intermedio y resistentes a quimioterapia de primera línea en adultos. | 11.219,77 | 8.975,82 |
-| 511 | 4 | Proc. Sobre útero y anejos por neoplasia maligna de ovario o anejos, excepto tumores germinales de riesgo alto e intermedio y resistentes a quimioterapia de primera línea en adultos. | 24.615,93 | 19.692,75 |
-| 580 | 1 | Neonato, trasladado con <5 días, no nacido en el centro. | 1.067,11 | 853,69 |
-| 580 | 2 | Neonato, trasladado con <5 días, no nacido en el centro. | 1.099,97 | 879,97 |
-| 580 | 3 | Neonato, trasladado con <5 días, no nacido en el centro. | 1.172,83 | 938,27 |
-| 580 | 4 | Neonato, trasladado con <5 días, no nacido en el centro. | 1.179,36 | 943,48 |
-| 581 | 1 | Neonato, trasladado con <5 días, nacido en el centro. | 2.635,35 | 2.108,28 |
-| 581 | 2 | Neonato, trasladado con <5 días, nacido en el centro. | 2.640,16 | 2.112,13 |
-| 581 | 3 | Neonato, trasladado con <5 días, nacido en el centro. | 2.717,99 | 2.174,39 |
-| 581 | 4 | Neonato, trasladado con <5 días, nacido en el centro. | 2.717,99 | 2.174,39 |
-| 583 | 1 | Neonato con oxigenación membrana extracorpórea. | 43.334,95 | 34.667,96 |
-| 583 | 2 | Neonato con oxigenación membrana extracorpórea. | 43.334,95 | 34.667,96 |
-| 583 | 3 | Neonato con oxigenación membrana extracorpórea. | 43.334,95 | 34.667,96 |
-| 583 | 4 | Neonato con oxigenación membrana extracorpórea. | 66.136,64 | 52.909,31 |
-| 588 | 1 | Neonato, peso al nacer < 1500 g, con procedimiento mayor. | 81.262,74 | 65.010,19 |
-| 588 | 2 | Neonato, peso al nacer < 1500 g, con procedimiento mayor. | 81.262,74 | 65.010,19 |
-| 588 | 3 | Neonato, peso al nacer < 1500 g, con procedimiento mayor. | 81.262,74 | 65.010,19 |
-| 588 | 4 | Neonato, peso al nacer < 1500 g, con procedimiento mayor. | 93.558,27 | 74.846,61 |
-| 589 | 1 | Neonato, peso al nacer <500 g ó <24 sem. Gestación. | 28.507,46 | 22.805,97 |
-| 589 | 2 | Neonato, peso al nacer <500 g ó <24 sem. Gestación. | 28.507,46 | 22.805,97 |
-| 589 | 3 | Neonato, peso al nacer <500 g ó <24 sem. Gestación. | 28.507,46 | 22.805,97 |
-| 589 | 4 | Neonato, peso al nacer <500 g ó <24 sem. Gestación. | 28.507,46 | 22.805,97 |
-| 591 | 1 | Neonato, peso al nacer 500-749 g, sin procedimiento mayor. | 46.331,98 | 37.065,58 |
-| 591 | 2 | Neonato, peso al nacer 500-749 g, sin procedimiento mayor. | 46.331,98 | 37.065,58 |
-| 591 | 3 | Neonato, peso al nacer 500-749 g, sin procedimiento mayor. | 57.836,34 | 46.269,07 |
-| 591 | 4 | Neonato, peso al nacer 500-749 g, sin procedimiento mayor. | 62.918,25 | 50.334,60 |
-| 593 | 1 | Neonato, peso al nacer 750-999 g, sin procedimiento mayor. | 44.957,79 | 35.966,23 |
-| 593 | 2 | Neonato, peso al nacer 750-999 g, sin procedimiento mayor. | 44.957,79 | 35.966,23 |
-| 593 | 3 | Neonato, peso al nacer 750-999 g, sin procedimiento mayor. | 56.935,30 | 45.548,24 |
-| 593 | 4 | Neonato, peso al nacer 750-999 g, sin procedimiento mayor. | 57.721,97 | 46.177,58 |
-| 602 | 1 | Neonato, peso al nacer 1000-1249 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 32.157,14 | 25.725,71 |
-| 602 | 2 | Neonato, peso al nacer 1000-1249 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 42.428,91 | 33.943,13 |
-| 602 | 3 | Neonato, peso al nacer 1000-1249 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 48.573,03 | 38.858,42 |
-| 602 | 4 | Neonato, peso al nacer 1000-1249 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 52.234,73 | 41.787,79 |
-| 603 | 1 | Neonato, peso al nacer 1000-1249 g, con o sin otra condición significativa. | 26.972,76 | 21.578,21 |
-| 603 | 2 | Neonato, peso al nacer 1000-1249 g, con o sin otra condición significativa. | 35.043,65 | 28.034,92 |
-| 603 | 3 | Neonato, peso al nacer 1000-1249 g, con o sin otra condición significativa. | 40.317,51 | 32.254,01 |
-| 603 | 4 | Neonato, peso al nacer 1000-1249 g, con o sin otra condición significativa. | 42.599,20 | 34.079,36 |
-| 607 | 1 | Neonato, peso al nacer 1250-1499 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 28.017,89 | 22.414,31 |
-| 607 | 2 | Neonato, peso al nacer 1250-1499 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 31.202,35 | 24.961,88 |
-| 607 | 3 | Neonato, peso al nacer 1250-1499 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 36.071,66 | 28.857,33 |
-| 607 | 4 | Neonato, peso al nacer 1250-1499 g, con síndrome de distress respiratorio/otras may. Resp. U otras anomalías mayores. | 40.057,17 | 32.045,74 |
-| 608 | 1 | Neonato, peso al nacer 1250-1499 g, con o sin otra condición significativa. | 21.288,23 | 17.030,58 |
-| 608 | 2 | Neonato, peso al nacer 1250-1499 g, con o sin otra condición significativa. | 26.592,02 | 21.273,61 |
-| 608 | 3 | Neonato, peso al nacer 1250-1499 g, con o sin otra condición significativa. | 31.307,84 | 25.046,27 |
-| 608 | 4 | Neonato, peso al nacer 1250-1499 g, con o sin otra condición significativa. | 41.710,49 | 33.368,39 |
-| 609 | 1 | Neonato, peso al nacer 1500-2499 g, con procedimiento mayor. | 32.541,93 | 26.033,54 |
-| 609 | 2 | Neonato, peso al nacer 1500-2499 g, con procedimiento mayor. | 32.541,93 | 26.033,54 |
-| 609 | 3 | Neonato, peso al nacer 1500-2499 g, con procedimiento mayor. | 43.105,48 | 34.484,39 |
-| 609 | 4 | Neonato, peso al nacer 1500-2499 g, con procedimiento mayor. | 43.624,61 | 34.899,69 |
-| 611 | 1 | Neonato, peso al nacer 1500-1999 g con anomalías mayores. | 14.159,61 | 11.327,69 |
-| 611 | 2 | Neonato, peso al nacer 1500-1999 g con anomalías mayores. | 19.160,98 | 15.328,78 |
-| 611 | 3 | Neonato, peso al nacer 1500-1999 g con anomalías mayores. | 26.096,79 | 20.877,43 |
-| 611 | 4 | Neonato, peso al nacer 1500-1999 g con anomalías mayores. | 27.595,05 | 22.076,04 |
-| 612 | 1 | Neonato, peso al nacer 1500-1999 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 16.886,27 | 13.509,02 |
-| 612 | 2 | Neonato, peso al nacer 1500-1999 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 20.636,26 | 16.509,01 |
-| 612 | 3 | Neonato, peso al nacer 1500-1999 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 25.342,95 | 20.274,36 |
-| 612 | 4 | Neonato, peso al nacer 1500-1999 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 27.352,08 | 21.881,67 |
-| 613 | 1 | Neonato, peso al nacer 1500-1999 g con infección congénita o perinatal. | 16.119,35 | 12.895,48 |
-| 613 | 2 | Neonato, peso al nacer 1500-1999 g con infección congénita o perinatal. | 22.448,46 | 17.958,77 |
-| 613 | 3 | Neonato, peso al nacer 1500-1999 g con infección congénita o perinatal. | 28.305,81 | 22.644,65 |
-| 613 | 4 | Neonato, peso al nacer 1500-1999 g con infección congénita o perinatal. | 28.305,81 | 22.644,65 |
-| 614 | 1 | Neonato, peso al nacer 1500-1999 g con o sin otra condición significativa. | 11.318,40 | 9.054,72 |
-| 614 | 2 | Neonato, peso al nacer 1500-1999 g con o sin otra condición significativa. | 15.955,16 | 12.764,13 |
-| 614 | 3 | Neonato, peso al nacer 1500-1999 g con o sin otra condición significativa. | 19.865,50 | 15.892,40 |
-| 614 | 4 | Neonato, peso al nacer 1500-1999 g con o sin otra condición significativa. | 19.865,50 | 15.892,40 |
-| 621 | 1 | Neonato, peso al nacer 2000-2499 con anomalías mayores. | 6.757,70 | 5.406,16 |
-| 621 | 2 | Neonato, peso al nacer 2000-2499 con anomalías mayores. | 10.705,06 | 8.564,05 |
-| 621 | 3 | Neonato, peso al nacer 2000-2499 con anomalías mayores. | 14.840,14 | 11.872,11 |
-| 621 | 4 | Neonato, peso al nacer 2000-2499 con anomalías mayores. | 20.795,89 | 16.636,71 |
-| 622 | 1 | Neonato, peso al nacer 2000-2499 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 7.808,51 | 6.246,81 |
-| 622 | 2 | Neonato, peso al nacer 2000-2499 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 12.102,06 | 9.681,65 |
-| 622 | 3 | Neonato, peso al nacer 2000-2499 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 16.281,44 | 13.025,16 |
-| 622 | 4 | Neonato, peso al nacer 2000-2499 g con síndrome de distress respiratorio/otra condición resp. Mayor. | 18.430,62 | 14.744,49 |
-| 623 | 1 | Neonato, peso al nacer 2000-2499 g con infección congénita o perinatal. | 8.075,39 | 6.460,31 |
-| 623 | 2 | Neonato, peso al nacer 2000-2499 g con infección congénita o perinatal. | 12.771,40 | 10.217,12 |
-| 623 | 3 | Neonato, peso al nacer 2000-2499 g con infección congénita o perinatal. | 14.958,13 | 11.966,51 |
-| 623 | 4 | Neonato, peso al nacer 2000-2499 g con infección congénita o perinatal. | 14.958,13 | 11.966,51 |
-| 625 | 1 | Neonato, peso al nacer 2000-2499 g con otra condición significativa. | 7.629,41 | 6.103,53 |
-| 625 | 2 | Neonato, peso al nacer 2000-2499 g con otra condición significativa. | 11.021,99 | 8.817,59 |
-| 625 | 3 | Neonato, peso al nacer 2000-2499 g con otra condición significativa. | 12.580,34 | 10.064,27 |
-| 625 | 4 | Neonato, peso al nacer 2000-2499 g con otra condición significativa. | 12.580,34 | 10.064,27 |
-| 626 | 1 | Neonato, peso al nacer 2000-2499 g nacido en el centro, neonato normal o neonato con otros problemas. | 3.832,65 | 3.066,12 |
-| 626 | 2 | Neonato, peso al nacer 2000-2499 g nacido en el centro, neonato normal o neonato con otros problemas. | 4.325,79 | 3.460,64 |
-| 626 | 3 | Neonato, peso al nacer 2000-2499 g nacido en el centro, neonato normal o neonato con otros problemas. | 5.825,05 | 4.660,04 |
-| 626 | 4 | Neonato, peso al nacer 2000-2499 g nacido en el centro, neonato normal o neonato con otros problemas. | 5.825,05 | 4.660,04 |
-| 630 | 1 | Neonato, peso al nacer >2499 g con procedimiento cardiovascular mayor, excepto cardiopatías congénitas. | 11.768,38 | 9.414,70 |
-| 630 | 2 | Neonato, peso al nacer >2499 g con procedimiento cardiovascular mayor, excepto cardiopatías congénitas. | 22.019,65 | 17.615,72 |
-| 630 | 3 | Neonato, peso al nacer >2499 g con procedimiento cardiovascular mayor, excepto cardiopatías congénitas. | 31.584,68 | 25.267,75 |
-| 630 | 4 | Neonato, peso al nacer >2499 g con procedimiento cardiovascular mayor, excepto cardiopatías congénitas. | 39.195,04 | 31.356,04 |
-| 631 | 1 | Neonato, peso al nacer >2499 g con otros procedimientos mayores. | 14.125,88 | 11.300,71 |
-| 631 | 2 | Neonato, peso al nacer >2499 g con otros procedimientos mayores. | 23.862,25 | 19.089,80 |
-| 631 | 3 | Neonato, peso al nacer >2499 g con otros procedimientos mayores. | 32.436,07 | 25.948,85 |
-| 631 | 4 | Neonato, peso al nacer >2499 g con otros procedimientos mayores. | 33.636,82 | 26.909,45 |
-| 633 | 1 | Neonato, peso al nacer >2499 g con anomalías mayores. | 3.787,92 | 3.030,34 |
-| 633 | 2 | Neonato, peso al nacer >2499 g con anomalías mayores. | 7.049,54 | 5.639,63 |
-| 633 | 3 | Neonato, peso al nacer >2499 g con anomalías mayores. | 10.980,05 | 8.784,04 |
-| 633 | 4 | Neonato, peso al nacer >2499 g con anomalías mayores. | 17.174,80 | 13.739,84 |
-| 634 | 1 | Neonato, peso al nacer >2499g con síndrome de distress respiratorio/otra condición resp. Mayor. | 3.454,82 | 2.763,86 |
-| 634 | 2 | Neonato, peso al nacer >2499g con síndrome de distress respiratorio/otra condición resp. Mayor. | 5.848,44 | 4.678,75 |
-| 634 | 3 | Neonato, peso al nacer >2499g con síndrome de distress respiratorio/otra condición resp. Mayor. | 9.348,98 | 7.479,18 |
-| 634 | 4 | Neonato, peso al nacer >2499g con síndrome de distress respiratorio/otra condición resp. Mayor. | 13.339,59 | 10.671,67 |
-| 636 | 1 | Neonato, peso al nacer > 2499g con infección congénita/perinatal. | 4.793,30 | 3.834,64 |
-| 636 | 2 | Neonato, peso al nacer > 2499g con infección congénita/perinatal. | 6.478,23 | 5.182,58 |
-| 636 | 3 | Neonato, peso al nacer > 2499g con infección congénita/perinatal. | 9.511,55 | 7.609,24 |
-| 636 | 4 | Neonato, peso al nacer > 2499g con infección congénita/perinatal. | 14.093,20 | 11.274,56 |
-| 639 | 1 | Neonato, peso al nacer >2499 g con otras condiciones significativas. | 3.251,37 | 2.601,10 |
-| 639 | 2 | Neonato, peso al nacer >2499 g con otras condiciones significativas. | 5.898,25 | 4.718,60 |
-| 639 | 3 | Neonato, peso al nacer >2499 g con otras condiciones significativas. | 7.971,09 | 6.376,87 |
-| 639 | 4 | Neonato, peso al nacer >2499 g con otras condiciones significativas. | 8.737,18 | 6.989,74 |
-| 640 | 1 | Neonato, peso al nacer >2499 g neonato normal o neonato con otro problema. | 1.643,89 | 1.315,12 |
-| 640 | 2 | Neonato, peso al nacer >2499 g neonato normal o neonato con otro problema. | 2.032,67 | 1.626,14 |
-| 640 | 3 | Neonato, peso al nacer >2499 g neonato normal o neonato con otro problema. | 2.639,21 | 2.111,37 |
-| 640 | 4 | Neonato, peso al nacer >2499 g neonato normal o neonato con otro problema. | 2.639,21 | 2.111,37 |
-| 650 | 1 | Esplenectomía. | 6.221,42 | 4.977,14 |
-| 650 | 2 | Esplenectomía. | 8.295,44 | 6.636,35 |
-| 650 | 3 | Esplenectomía. | 12.327,41 | 9.861,93 |
-| 650 | 4 | Esplenectomía. | 18.692,55 | 14.954,04 |
-| 680 | 1 | Procedimiento quirúrgico mayor para neoplasmas linfáticos/hematopoyéticos/otros. | 7.869,15 | 6.295,32 |
-| 680 | 2 | Procedimiento quirúrgico mayor para neoplasmas linfáticos/hematopoyéticos/otros. | 11.343,39 | 9.074,72 |
-| 680 | 3 | Procedimiento quirúrgico mayor para neoplasmas linfáticos/hematopoyéticos/otros. | 19.475,48 | 15.580,39 |
-| 680 | 4 | Procedimiento quirúrgico mayor para neoplasmas linfáticos/hematopoyéticos/otros. | 22.929,96 | 18.343,96 |
-| 681 | 1 | Otro procedimiento quirúrgico para neoplasmas linfáticos/hematopoyéticos/otros. | 4.821,34 | 3.857,08 |
-| 681 | 2 | Otro procedimiento quirúrgico para neoplasmas linfáticos/hematopoyéticos/otros. | 8.131,21 | 6.504,97 |
-| 681 | 3 | Otro procedimiento quirúrgico para neoplasmas linfáticos/hematopoyéticos/otros. | 19.124,37 | 15.299,50 |
-| 681 | 4 | Otro procedimiento quirúrgico para neoplasmas linfáticos/hematopoyéticos/otros. | 22.557,98 | 18.046,38 |
-| 690 | 1 | Leucemia aguda. | 9.245,56 | 7.396,45 |
-| 690 | 2 | Leucemia aguda. | 15.335,06 | 12.268,04 |
-| 690 | 3 | Leucemia aguda. | 22.112,73 | 17.690,18 |
-| 690 | 4 | Leucemia aguda. | 23.880,47 | 19.104,37 |
-| 691 | 1 | Linfoma, mieloma y leucemia no aguda. | 4.871,40 | 3.897,12 |
-| 691 | 2 | Linfoma, mieloma y leucemia no aguda. | 6.783,81 | 5.427,05 |
-| 691 | 3 | Linfoma, mieloma y leucemia no aguda. | 10.756,36 | 8.605,09 |
-| 691 | 4 | Linfoma, mieloma y leucemia no aguda. | 17.560,67 | 14.048,54 |
-| 692 | 1 | Radioterapia. | 2.616,97 | 2.093,58 |
-| 692 | 2 | Radioterapia. | 2.616,97 | 2.093,58 |
-| 692 | 3 | Radioterapia. | 2.616,97 | 2.093,58 |
-| 692 | 4 | Radioterapia. | 2.616,97 | 2.093,58 |
-| 693 | 1 | Quimioterapia. | 2.448,31 | 1.958,65 |
-| 693 | 2 | Quimioterapia. | 3.173,17 | 2.538,54 |
-| 693 | 3 | Quimioterapia. | 6.859,38 | 5.487,51 |
-| 693 | 4 | Quimioterapia. | 9.865,85 | 7.892,68 |
-| 694 | 1 | Neoplasias linfáticas y otras y neoplasmas de comportamiento dudoso. | 3.598,11 | 2.878,49 |
-| 694 | 2 | Neoplasias linfáticas y otras y neoplasmas de comportamiento dudoso. | 4.951,59 | 3.961,27 |
-| 694 | 3 | Neoplasias linfáticas y otras y neoplasmas de comportamiento dudoso. | 7.516,35 | 6.013,08 |
-| 694 | 4 | Neoplasias linfáticas y otras y neoplasmas de comportamiento dudoso. | 11.262,15 | 9.009,72 |
-| 710 | 1 | Enfermedades infecciosas y parasitosis incluyendo vih con procedimiento quirúrgico. | 8.456,09 | 6.764,87 |
-| 710 | 2 | Enfermedades infecciosas y parasitosis incluyendo vih con procedimiento quirúrgico. | 11.638,30 | 9.310,64 |
-| 710 | 3 | Enfermedades infecciosas y parasitosis incluyendo vih con procedimiento quirúrgico. | 17.406,55 | 13.925,24 |
-| 710 | 4 | Enfermedades infecciosas y parasitosis incluyendo vih con procedimiento quirúrgico. | 24.025,89 | 19.220,71 |
-| 740 | 1 | Diagnóstico de enfermedad mental con procedimiento quirúrgico. | 9.052,46 | 7.241,97 |
-| 740 | 2 | Diagnóstico de enfermedad mental con procedimiento quirúrgico. | 17.272,07 | 13.817,66 |
-| 740 | 3 | Diagnóstico de enfermedad mental con procedimiento quirúrgico. | 20.144,85 | 16.115,88 |
-| 740 | 4 | Diagnóstico de enfermedad mental con procedimiento quirúrgico. | 40.237,20 | 32.189,76 |
-| 759 | 1 | Trastorno alimentario. | 18.232,21 | 14.585,77 |
-| 759 | 2 | Trastorno alimentario. | 19.098,83 | 15.279,06 |
-| 759 | 3 | Trastorno alimentario. | 23.152,38 | 18.521,91 |
-| 759 | 4 | Trastorno alimentario. | 23.152,38 | 18.521,91 |
-| 863 | 1 | Cuidados posteriores neonatales. | 5.214,23 | 4.171,38 |
-| 863 | 2 | Cuidados posteriores neonatales. | 6.772,07 | 5.417,65 |
-| 863 | 3 | Cuidados posteriores neonatales. | 11.632,44 | 9.305,95 |
-| 863 | 4 | Cuidados posteriores neonatales. | 14.957,80 | 11.966,24 |
-| 890 | 1 | Vih con múltiples condiciones mayores relacionadas con vih. | 12.181,10 | 9.744,88 |
-| 890 | 2 | Vih con múltiples condiciones mayores relacionadas con vih. | 12.181,10 | 9.744,88 |
-| 890 | 3 | Vih con múltiples condiciones mayores relacionadas con vih. | 12.844,59 | 10.275,67 |
-| 890 | 4 | Vih con múltiples condiciones mayores relacionadas con vih. | 16.591,14 | 13.272,91 |
-| 892 | 1 | Vih con condiciones mayores relacionadas con vih. | 6.174,65 | 4.939,72 |
-| 892 | 2 | Vih con condiciones mayores relacionadas con vih. | 6.447,19 | 5.157,75 |
-| 892 | 3 | Vih con condiciones mayores relacionadas con vih. | 7.794,45 | 6.235,56 |
-| 892 | 4 | Vih con condiciones mayores relacionadas con vih. | 12.408,86 | 9.927,09 |
-| 893 | 1 | Vih con múltiples condiciones significativas mayores relacionadas con vih. | 6.851,45 | 5.481,16 |
-| 893 | 2 | Vih con múltiples condiciones significativas mayores relacionadas con vih. | 6.851,45 | 5.481,16 |
-| 893 | 3 | Vih con múltiples condiciones significativas mayores relacionadas con vih. | 9.657,48 | 7.725,99 |
-| 893 | 4 | Vih con múltiples condiciones significativas mayores relacionadas con vih. | 9.657,48 | 7.725,99 |
-| 894 | 1 | Vih con una condición significativa vih o sin condición significativa relacionada. | 3.452,72 | 2.762,18 |
-| 894 | 2 | Vih con una condición significativa vih o sin condición significativa relacionada. | 4.702,77 | 3.762,21 |
-| 894 | 3 | Vih con una condición significativa vih o sin condición significativa relacionada. | 6.659,80 | 5.327,84 |
-| 894 | 4 | Vih con una condición significativa vih o sin condición significativa relacionada. | 6.659,80 | 5.327,84 |
-| 910 | 1 | Craneotomía por trauma múltiple significativo. | 24.217,76 | 19.374,21 |
-| 910 | 2 | Craneotomía por trauma múltiple significativo. | 24.217,76 | 19.374,21 |
-| 910 | 3 | Craneotomía por trauma múltiple significativo. | 35.582,36 | 28.465,88 |
-| 910 | 4 | Craneotomía por trauma múltiple significativo. | 38.725,01 | 30.980,01 |
-| 911 | 1 | Procedimientos abdominales/torácicos extensivos para trauma múltiple significativo. | 13.619,19 | 10.895,36 |
-| 911 | 2 | Procedimientos abdominales/torácicos extensivos para trauma múltiple significativo. | 13.619,19 | 10.895,36 |
-| 911 | 3 | Procedimientos abdominales/torácicos extensivos para trauma múltiple significativo. | 18.381,45 | 14.705,16 |
-| 911 | 4 | Procedimientos abdominales/torácicos extensivos para trauma múltiple significativo. | 27.393,70 | 21.914,96 |
-| 912 | 1 | Procedimientos musculoesqueléticos y otros para trauma múltiple significativo. | 16.117,01 | 12.893,60 |
-| 912 | 2 | Procedimientos musculoesqueléticos y otros para trauma múltiple significativo. | 16.117,01 | 12.893,60 |
-| 912 | 3 | Procedimientos musculoesqueléticos y otros para trauma múltiple significativo. | 24.508,91 | 19.607,13 |
-| 912 | 4 | Procedimientos musculoesqueléticos y otros para trauma múltiple significativo. | 31.776,12 | 25.420,90 |
-| 930 | 1 | Trauma significativo múltiple sin procedimiento quirúrgico. | 5.988,19 | 4.790,56 |
-| 930 | 2 | Trauma significativo múltiple sin procedimiento quirúrgico. | 6.512,10 | 5.209,68 |
-| 930 | 3 | Trauma significativo múltiple sin procedimiento quirúrgico. | 9.717,19 | 7.773,75 |
-| 930 | 4 | Trauma significativo múltiple sin procedimiento quirúrgico. | 12.790,53 | 10.232,42 |
+| 1 | 1 | TRASPLANTE HEPÁTICO Y/O DE INTESTINO (EXCEPTO TRASPLANTE HEPÁTICO INFANTIL PEDIÁTRICO Y DE VIVO ADULTO Y TRASPLANTE DE INTESTINO INFANTIL PEDIÁTRICO Y ADULTO - NS1). | 32.252,33 | 25.801,86 |
+| 1 | 2 | TRASPLANTE HEPÁTICO Y/O DE INTESTINO (EXCEPTO TRASPLANTE HEPÁTICO INFANTIL PEDIÁTRICO Y DE VIVO ADULTO Y TRASPLANTE DE INTESTINO INFANTIL PEDIÁTRICO Y ADULTO - NS1). | 36.911,75 | 29.529,40 |
+| 1 | 3 | TRASPLANTE HEPÁTICO Y/O DE INTESTINO (EXCEPTO TRASPLANTE HEPÁTICO INFANTIL PEDIÁTRICO Y DE VIVO ADULTO Y TRASPLANTE DE INTESTINO INFANTIL PEDIÁTRICO Y ADULTO - NS1). | 48.152,83 | 38.522,26 |
+| 1 | 4 | TRASPLANTE HEPÁTICO Y/O DE INTESTINO (EXCEPTO TRASPLANTE HEPÁTICO INFANTIL PEDIÁTRICO Y DE VIVO ADULTO Y TRASPLANTE DE INTESTINO INFANTIL PEDIÁTRICO Y ADULTO - NS1). | 76.860,75 | 61.488,60 |
+| 2 | 1 | TRASPLANTE CARDIACO Y/O PULMONAR, EXCEPTO TRASPLANTE PULMONAR INFANTIL PEDIÁTRICO Y ADULTO, TRASPLANTE CARDIOPULMONAR DE ADULTOS Y TRASPLANTE CARDIACO INFANTIL PEDIÁTRICO - NS1. | 35.392,57 | 28.314,06 |
+| 2 | 2 | TRASPLANTE CARDIACO Y/O PULMONAR, EXCEPTO TRASPLANTE PULMONAR INFANTIL PEDIÁTRICO Y ADULTO, TRASPLANTE CARDIOPULMONAR DE ADULTOS Y TRASPLANTE CARDIACO INFANTIL PEDIÁTRICO - NS1. | 52.261,78 | 41.809,42 |
+| 2 | 3 | TRASPLANTE CARDIACO Y/O PULMONAR, EXCEPTO TRASPLANTE PULMONAR INFANTIL PEDIÁTRICO Y ADULTO, TRASPLANTE CARDIOPULMONAR DE ADULTOS Y TRASPLANTE CARDIACO INFANTIL PEDIÁTRICO - NS1. | 58.109,60 | 46.487,68 |
+| 2 | 4 | TRASPLANTE CARDIACO Y/O PULMONAR, EXCEPTO TRASPLANTE PULMONAR INFANTIL PEDIÁTRICO Y ADULTO, TRASPLANTE CARDIOPULMONAR DE ADULTOS Y TRASPLANTE CARDIACO INFANTIL PEDIÁTRICO - NS1. | 103.769,61 | 83.015,69 |
+| 4 | 1 | TRAQUEOSTOMÍA CON VM 96+ HORAS CON PROCEDIMIENTO EXTENSIVO - NS1. | 53.590,24 | 42.872,19 |
+| 4 | 2 | TRAQUEOSTOMÍA CON VM 96+ HORAS CON PROCEDIMIENTO EXTENSIVO - NS2. | 56.064,81 | 44.851,85 |
+| 4 | 3 | TRAQUEOSTOMÍA CON VM 96+ HORAS CON PROCEDIMIENTO EXTENSIVO - NS3. | 68.658,76 | 54.927,01 |
+| 4 | 4 | TRAQUEOSTOMÍA CON VM 96+ HORAS CON PROCEDIMIENTO EXTENSIVO - NS4. | 87.106,99 | 69.685,59 |
+| 5 | 1 | TRAQUEOSTOMÍA CON VM 96+ HORAS SIN PROCEDIMIENTO EXTENSIVO - NS1. | 33.391,62 | 26.713,30 |
+| 5 | 2 | TRAQUEOSTOMÍA CON VM 96+ HORAS SIN PROCEDIMIENTO EXTENSIVO - NS2. | 52.347,75 | 41.878,20 |
+| 5 | 3 | TRAQUEOSTOMÍA CON VM 96+ HORAS SIN PROCEDIMIENTO EXTENSIVO - NS3. | 67.968,46 | 54.374,77 |
+| 5 | 4 | TRAQUEOSTOMÍA CON VM 96+ HORAS SIN PROCEDIMIENTO EXTENSIVO - NS4. | 88.916,34 | 71.133,07 |
+| 7 | 1 | TRASPLANTE ALOGÉNICO DE MÉDULA ÓSEA, EXCEPTO TRASPLANTE DE PROGENITORES HEMATOPOYÉTICOS ALOGÉNICO INFANTIL - NS1. | 27.793,30 | 22.234,64 |
+| 7 | 2 | TRASPLANTE ALOGÉNICO DE MÉDULA ÓSEA, EXCEPTO TRASPLANTE DE PROGENITORES HEMATOPOYÉTICOS ALOGÉNICO INFANTIL - NS2. | 37.100,51 | 29.680,41 |
+| 7 | 3 | TRASPLANTE ALOGÉNICO DE MÉDULA ÓSEA, EXCEPTO TRASPLANTE DE PROGENITORES HEMATOPOYÉTICOS ALOGÉNICO INFANTIL - NS3. | 48.421,57 | 38.737,26 |
+| 7 | 4 | TRASPLANTE ALOGÉNICO DE MÉDULA ÓSEA, EXCEPTO TRASPLANTE DE PROGENITORES HEMATOPOYÉTICOS ALOGÉNICO INFANTIL - NS4. | 78.771,67 | 63.017,34 |
+| 8 | 1 | TRASPLANTE AUTÓLOGO DE MÉDULA ÓSEA - NS1. | 13.953,72 | 11.162,98 |
+| 8 | 2 | TRASPLANTE AUTÓLOGO DE MÉDULA ÓSEA - NS2. | 17.540,05 | 14.032,04 |
+| 8 | 3 | TRASPLANTE AUTÓLOGO DE MÉDULA ÓSEA - NS3. | 22.446,92 | 17.957,54 |
+| 8 | 4 | TRASPLANTE AUTÓLOGO DE MÉDULA ÓSEA - NS4. | 43.972,97 | 35.178,38 |
+| 9 | 1 | OXIGENACIÓN POR MEMBRANA EXTRACORPÓREA (ECMO) - NS1. | 16.102,76 | 12.882,21 |
+| 9 | 2 | OXIGENACIÓN POR MEMBRANA EXTRACORPÓREA (ECMO) - NS2. | 31.848,64 | 25.478,91 |
+| 9 | 3 | OXIGENACIÓN POR MEMBRANA EXTRACORPÓREA (ECMO) - NS3. | 34.844,72 | 27.875,78 |
+| 9 | 4 | OXIGENACIÓN POR MEMBRANA EXTRACORPÓREA (ECMO) - NS4. | 66.044,51 | 52.835,61 |
+| 10 | 1 | TRAUMA EN LA CABEZA CON COMA PROFUNDO - NS1. | 7.809,10 | 6.247,28 |
+| 10 | 2 | TRAUMA EN LA CABEZA CON COMA PROFUNDO - NS2. | 22.186,05 | 17.748,84 |
+| 10 | 3 | TRAUMA EN LA CABEZA CON COMA PROFUNDO - NS3. | 47.659,17 | 38.127,34 |
+| 10 | 4 | TRAUMA EN LA CABEZA CON COMA PROFUNDO - NS4. | 61.955,04 | 49.564,03 |
+| 20 | 1 | CRANEOTOMÍA POR TRAUMA - NS1. | 11.760,86 | 9.408,69 |
+| 20 | 2 | CRANEOTOMÍA POR TRAUMA - NS2. | 23.030,79 | 18.424,63 |
+| 20 | 3 | CRANEOTOMÍA POR TRAUMA - NS3. | 29.873,96 | 23.899,17 |
+| 20 | 4 | CRANEOTOMÍA POR TRAUMA - NS4. | 40.312,11 | 32.249,69 |
+| 21 | 1 | CRANEOTOMÍA EXCEPTO POR TRAUMA, EXCEPTO EN NIÑOS - NS1. | 12.355,31 | 9.884,25 |
+| 21 | 2 | CRANEOTOMÍA EXCEPTO POR TRAUMA, EXCEPTO EN NIÑOS - NS2. | 16.988,52 | 13.590,82 |
+| 21 | 3 | CRANEOTOMÍA EXCEPTO POR TRAUMA, EXCEPTO EN NIÑOS - NS3. | 29.882,28 | 23.905,82 |
+| 21 | 4 | CRANEOTOMÍA EXCEPTO POR TRAUMA, EXCEPTO EN NIÑOS - NS4. | 45.502,14 | 36.401,71 |
+| 22 | 1 | PROCEDIMIENTOS SOBRE SHUNT VENTRICULAR, EXCEPTO PARA NEUROCIRUGÍA PEDIÁTRICA COMPLEJA, ANEURISMA INTRACRANEAL COMPLEJO Y REVASCULARIZACIÓN CEREBRAL EN ADULTOS Y MALFORMACIONES ARTERIOVENOSAS CEREBRALES - NS1. | 6.930,61 | 5.544,49 |
+| 22 | 2 | PROCEDIMIENTOS SOBRE SHUNT VENTRICULAR, EXCEPTO PARA NEUROCIRUGÍA PEDIÁTRICA COMPLEJA, ANEURISMA INTRACRANEAL COMPLEJO Y REVASCULARIZACIÓN CEREBRAL EN ADULTOS Y MALFORMACIONES ARTERIOVENOSAS CEREBRALES - NS1. | 10.073,79 | 8.059,03 |
+| 22 | 3 | PROCEDIMIENTOS SOBRE SHUNT VENTRICULAR, EXCEPTO PARA NEUROCIRUGÍA PEDIÁTRICA COMPLEJA, ANEURISMA INTRACRANEAL COMPLEJO Y REVASCULARIZACIÓN CEREBRAL EN ADULTOS Y MALFORMACIONES ARTERIOVENOSAS CEREBRALES - NS1. | 21.415,58 | 17.132,46 |
+| 22 | 4 | PROCEDIMIENTOS SOBRE SHUNT VENTRICULAR, EXCEPTO PARA NEUROCIRUGÍA PEDIÁTRICA COMPLEJA, ANEURISMA INTRACRANEAL COMPLEJO Y REVASCULARIZACIÓN CEREBRAL EN ADULTOS Y MALFORMACIONES ARTERIOVENOSAS CEREBRALES - NS1. | 34.101,74 | 27.281,39 |
+| 23 | 1 | PROCEDIMIENTOS ESPINALES - NS1. | 12.079,82 | 9.663,86 |
+| 23 | 2 | PROCEDIMIENTOS ESPINALES - NS2. | 19.837,53 | 15.870,02 |
+| 23 | 3 | PROCEDIMIENTOS ESPINALES - NS3. | 30.111,74 | 24.089,39 |
+| 23 | 4 | PROCEDIMIENTOS ESPINALES - NS4. | 51.817,91 | 41.454,33 |
+| 24 | 1 | PROCEDIMIENTOS VASCULARES EXTRACRANEALES, EXCEPTO PATOLOGÍA VASCULAR RAQUIMEDULAR - NS1. | 6.976,19 | 5.580,95 |
+| 24 | 2 | PROCEDIMIENTOS VASCULARES EXTRACRANEALES, EXCEPTO PATOLOGÍA VASCULAR RAQUIMEDULAR - NS1. | 9.240,93 | 7.392,74 |
+| 24 | 3 | PROCEDIMIENTOS VASCULARES EXTRACRANEALES, EXCEPTO PATOLOGÍA VASCULAR RAQUIMEDULAR - NS1. | 13.450,79 | 10.760,63 |
+| 24 | 4 | PROCEDIMIENTOS VASCULARES EXTRACRANEALES, EXCEPTO PATOLOGÍA VASCULAR RAQUIMEDULAR - NS1. | 24.041,98 | 19.233,58 |
+| 26 | 1 | OTROS PROCEDIMIENTOS SOBRE SISTEMA NERVIOSO Y RELACIONADOS - NS1. | 4.815,21 | 3.852,17 |
+| 26 | 2 | OTROS PROCEDIMIENTOS SOBRE SISTEMA NERVIOSO Y RELACIONADOS - NS2. | 8.974,72 | 7.179,78 |
+| 26 | 3 | OTROS PROCEDIMIENTOS SOBRE SISTEMA NERVIOSO Y RELACIONADOS - NS3. | 14.741,89 | 11.793,51 |
+| 26 | 4 | OTROS PROCEDIMIENTOS SOBRE SISTEMA NERVIOSO Y RELACIONADOS - NS4. | 25.892,27 | 20.713,82 |
+| 40 | 1 | TRASTORNOS Y LESIONES ESPINALES - NS1. | 5.191,95 | 4.153,56 |
+| 40 | 2 | TRASTORNOS Y LESIONES ESPINALES - NS2. | 8.310,66 | 6.648,53 |
+| 40 | 3 | TRASTORNOS Y LESIONES ESPINALES - NS3. | 14.582,87 | 11.666,30 |
+| 40 | 4 | TRASTORNOS Y LESIONES ESPINALES - NS4. | 14.901,71 | 11.921,37 |
+| 41 | 1 | NEOPLASIAS DE SISTEMA NERVIOSO, EXCEPTO EN NIÑOS. - NS1. | 4.059,30 | 3.247,44 |
+| 41 | 2 | NEOPLASIAS DE SISTEMA NERVIOSO, EXCEPTO EN NIÑOS. - NS2. | 4.493,81 | 3.595,05 |
+| 41 | 3 | NEOPLASIAS DE SISTEMA NERVIOSO, EXCEPTO EN NIÑOS. - NS3. | 5.744,08 | 4.595,26 |
+| 41 | 4 | NEOPLASIAS DE SISTEMA NERVIOSO, EXCEPTO EN NIÑOS. - NS4. | 9.339,02 | 7.471,22 |
+| 42 | 1 | TRASTORNOS DEGENERATIVOS DE SISTEMA NERVIOSO, EXCEPTO ESCLEROSIS MÚLTIPLE, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS1. | 3.433,46 | 2.746,77 |
+| 42 | 2 | TRASTORNOS DEGENERATIVOS DE SISTEMA NERVIOSO, EXCEPTO ESCLEROSIS MÚLTIPLE, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS1. | 4.987,17 | 3.989,74 |
+| 42 | 3 | TRASTORNOS DEGENERATIVOS DE SISTEMA NERVIOSO, EXCEPTO ESCLEROSIS MÚLTIPLE, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS1. | 7.363,60 | 5.890,88 |
+| 42 | 4 | TRASTORNOS DEGENERATIVOS DE SISTEMA NERVIOSO, EXCEPTO ESCLEROSIS MÚLTIPLE, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS1. | 12.871,68 | 10.297,34 |
+| 44 | 1 | HEMORRAGIA INTRACRANEAL - NS1. | 4.379,52 | 3.503,62 |
+| 44 | 2 | HEMORRAGIA INTRACRANEAL - NS2. | 6.239,16 | 4.991,33 |
+| 44 | 3 | HEMORRAGIA INTRACRANEAL - NS3. | 6.890,65 | 5.512,52 |
+| 44 | 4 | HEMORRAGIA INTRACRANEAL - NS4. | 10.592,24 | 8.473,79 |
+| 45 | 1 | ACVA Y OCLUSIONES PRECEREBRALES CON INFARTO - NS1. | 3.489,22 | 2.791,38 |
+| 45 | 2 | ACVA Y OCLUSIONES PRECEREBRALES CON INFARTO - NS2. | 4.565,39 | 3.652,31 |
+| 45 | 3 | ACVA Y OCLUSIONES PRECEREBRALES CON INFARTO - NS3. | 6.648,60 | 5.318,88 |
+| 45 | 4 | ACVA Y OCLUSIONES PRECEREBRALES CON INFARTO - NS4. | 9.287,14 | 7.429,71 |
+| 46 | 1 | ACVA NO ESPECÍFICO Y OCLUSIONES PRECEREBRALES SIN INFARTO - NS1. | 2.568,79 | 2.055,03 |
+| 46 | 2 | ACVA NO ESPECÍFICO Y OCLUSIONES PRECEREBRALES SIN INFARTO - NS2. | 3.782,71 | 3.026,17 |
+| 46 | 3 | ACVA NO ESPECÍFICO Y OCLUSIONES PRECEREBRALES SIN INFARTO - NS3. | 6.206,84 | 4.965,47 |
+| 46 | 4 | ACVA NO ESPECÍFICO Y OCLUSIONES PRECEREBRALES SIN INFARTO - NS4. | 9.443,08 | 7.554,46 |
+| 48 | 1 | TRASTORNOS DE NERVIOS CRANEALES, PERIFÉRICOS Y AUTÓNOMOS, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS1. | 3.100,64 | 2.480,51 |
+| 48 | 2 | TRASTORNOS DE NERVIOS CRANEALES, PERIFÉRICOS Y AUTÓNOMOS, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS2. | 4.802,65 | 3.842,12 |
+| 48 | 3 | TRASTORNOS DE NERVIOS CRANEALES, PERIFÉRICOS Y AUTÓNOMOS, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS3. | 8.479,72 | 6.783,78 |
+| 48 | 4 | TRASTORNOS DE NERVIOS CRANEALES, PERIFÉRICOS Y AUTÓNOMOS, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS4. | 16.602,20 | 13.281,76 |
+| 49 | 1 | INFECCIONES BACTERIANAS Y TUBERCULOSAS DEL SISTEMA NERVIOSO - NS1. | 6.381,84 | 5.105,47 |
+| 49 | 2 | INFECCIONES BACTERIANAS Y TUBERCULOSAS DEL SISTEMA NERVIOSO - NS2. | 9.460,85 | 7.568,68 |
+| 49 | 3 | INFECCIONES BACTERIANAS Y TUBERCULOSAS DEL SISTEMA NERVIOSO - NS3. | 14.105,37 | 11.284,30 |
+| 49 | 4 | INFECCIONES BACTERIANAS Y TUBERCULOSAS DEL SISTEMA NERVIOSO - NS4. | 25.229,43 | 20.183,54 |
+| 52 | 1 | ALTERACIÓN DE LA CONCIENCIA - NS1. | 1.918,51 | 1.534,81 |
+| 52 | 2 | ALTERACIÓN DE LA CONCIENCIA - NS2. | 3.473,47 | 2.778,78 |
+| 52 | 3 | ALTERACIÓN DE LA CONCIENCIA - NS3. | 5.579,65 | 4.463,72 |
+| 52 | 4 | ALTERACIÓN DE LA CONCIENCIA - NS4. | 11.804,74 | 9.443,79 |
+| 55 | 1 | TRAUMATISMO CRANEAL CON COMA >1H O HEMORRAGIA - NS1. | 2.833,96 | 2.267,17 |
+| 55 | 2 | TRAUMATISMO CRANEAL CON COMA >1H O HEMORRAGIA - NS2. | 4.038,69 | 3.230,95 |
+| 55 | 3 | TRAUMATISMO CRANEAL CON COMA >1H O HEMORRAGIA - NS3. | 6.745,33 | 5.396,26 |
+| 55 | 4 | TRAUMATISMO CRANEAL CON COMA >1H O HEMORRAGIA - NS4. | 14.348,56 | 11.478,85 |
+| 56 | 1 | FRACTURA CRANEAL Y LESIÓN INTRACRANEAL COMPLICADA, COMA < 1H O SIN COMA - NS1. | 2.863,33 | 2.290,66 |
+| 56 | 2 | FRACTURA CRANEAL Y LESIÓN INTRACRANEAL COMPLICADA, COMA < 1H O SIN COMA - NS2. | 4.817,68 | 3.854,14 |
+| 56 | 3 | FRACTURA CRANEAL Y LESIÓN INTRACRANEAL COMPLICADA, COMA < 1H O SIN COMA - NS3. | 5.634,76 | 4.507,81 |
+| 56 | 4 | FRACTURA CRANEAL Y LESIÓN INTRACRANEAL COMPLICADA, COMA < 1H O SIN COMA - NS4. | 31.910,95 | 25.528,76 |
+| 57 | 1 | CONMOCION CEREBRAL, FRACTURA CRANEAL CERRADA NEOM, LESIÓN INTRACRANEAL NO COMPLICADA, COMA <1 HR O SIN COMA - NS1. | 1.560,84 | 1.248,67 |
+| 57 | 2 | CONMOCION CEREBRAL, FRACTURA CRANEAL CERRADA NEOM, LESIÓN INTRACRANEAL NO COMPLICADA, COMA <1 HR O SIN COMA - NS2. | 2.435,53 | 1.948,42 |
+| 57 | 3 | CONMOCION CEREBRAL, FRACTURA CRANEAL CERRADA NEOM, LESIÓN INTRACRANEAL NO COMPLICADA, COMA <1 HR O SIN COMA - NS3. | 5.050,28 | 4.040,22 |
+| 57 | 4 | CONMOCION CEREBRAL, FRACTURA CRANEAL CERRADA NEOM, LESIÓN INTRACRANEAL NO COMPLICADA, COMA <1 HR O SIN COMA - NS4. | 8.942,04 | 7.153,63 |
+| 58 | 1 | OTRAS ENFERMEDADES DEL SISTEMA NERVIOSO - NS1. | 3.089,11 | 2.471,29 |
+| 58 | 2 | OTRAS ENFERMEDADES DEL SISTEMA NERVIOSO - NS2. | 4.827,45 | 3.861,96 |
+| 58 | 3 | OTRAS ENFERMEDADES DEL SISTEMA NERVIOSO - NS3. | 8.634,88 | 6.907,90 |
+| 58 | 4 | OTRAS ENFERMEDADES DEL SISTEMA NERVIOSO - NS4. | 13.715,34 | 10.972,27 |
+| 59 | 1 | ANOXIA Y OTRO DAÑO CEREBRAL SEVERO - NS1. | 3.860,40 | 3.088,32 |
+| 59 | 2 | ANOXIA Y OTRO DAÑO CEREBRAL SEVERO - NS2. | 5.415,38 | 4.332,30 |
+| 59 | 3 | ANOXIA Y OTRO DAÑO CEREBRAL SEVERO - NS3. | 7.860,92 | 6.288,74 |
+| 59 | 4 | ANOXIA Y OTRO DAÑO CEREBRAL SEVERO - NS4. | 11.833,29 | 9.466,63 |
+| 73 | 1 | PROCEDIMIENTOS SOBRE OJO Y ÓRBITA, EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS1. | 3.039,33 | 2.431,46 |
+| 73 | 2 | PROCEDIMIENTOS SOBRE OJO Y ÓRBITA,EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS2. | 4.422,22 | 3.537,78 |
+| 73 | 3 | PROCEDIMIENTOS SOBRE OJO Y ÓRBITA, EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS3. | 7.932,77 | 6.346,22 |
+| 73 | 4 | PROCEDIMIENTOS SOBRE OJO Y ÓRBITA, EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS4. | 22.291,47 | 17.833,18 |
+| 82 | 1 | INFECCIONES Y OTRAS ENFERMEDADES OCULARES, EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS1. | 2.724,84 | 2.179,87 |
+| 82 | 2 | INFECCIONES Y OTRAS ENFERMEDADES OCULARES, EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS2. | 3.155,64 | 2.524,51 |
+| 82 | 3 | INFECCIONES Y OTRAS ENFERMEDADES OCULARES, EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS3. | 5.712,60 | 4.570,08 |
+| 82 | 4 | INFECCIONES Y OTRAS ENFERMEDADES OCULARES, EXCEPTO GLAUCOMA EN LA INFANCIA, ALTERACIONES CONGÉNITAS DEL DESARROLLO OCULAR Y PALPEBRAL, TUMORES EN NIÑOS Y ADULTOS, DESCOMPRESIÓN ORBITARIA EN OFTALMOPATÍA TIROIDEA, RECONSTRUCCIÓN DE LA SUPERFICIE OCULAR COMPLEJA (QUERATOPRÓTESIS), QUERATOPLASTIA EN NIÑOS, CIRUGÍA VITREORRETINIANA PEDIÁTRICA, CATARATA COMPLEJA EN NIÑOS, DISTROFIAS HEREDITARIAS DE RETINA - NS4. | 9.105,99 | 7.284,79 |
+| 89 | 1 | PROCEDIMIENTOS MAYORES SOBRE HUESOS CRANEALES/FACIALES - NS1. | 6.156,41 | 4.925,13 |
+| 89 | 2 | PROCEDIMIENTOS MAYORES SOBRE HUESOS CRANEALES/FACIALES - NS2. | 15.252,53 | 12.202,02 |
+| 89 | 3 | PROCEDIMIENTOS MAYORES SOBRE HUESOS CRANEALES/FACIALES - NS3. | 25.313,17 | 20.250,54 |
+| 89 | 4 | PROCEDIMIENTOS MAYORES SOBRE HUESOS CRANEALES/FACIALES - NS4. | 45.221,72 | 36.177,38 |
+| 91 | 1 | OTROS PROCEDIMIENTOS MAYORES SOBRE CABEZA Y CUELLO - NS1. | 10.298,24 | 8.238,59 |
+| 91 | 2 | OTROS PROCEDIMIENTOS MAYORES SOBRE CABEZA Y CUELLO - NS2. | 19.452,53 | 15.562,02 |
+| 91 | 3 | OTROS PROCEDIMIENTOS MAYORES SOBRE CABEZA Y CUELLO - NS3. | 32.968,40 | 26.374,72 |
+| 91 | 4 | OTROS PROCEDIMIENTOS MAYORES SOBRE CABEZA Y CUELLO - NS4. | 52.607,05 | 42.085,64 |
+| 92 | 1 | PROC. SOBRE HUESOS FACIALES EXCEPTO PROC. MAYORES SOBRE HUESO CRANEAL/FACIAL - NS1. | 5.787,11 | 4.629,69 |
+| 92 | 2 | PROC. SOBRE HUESOS FACIALES EXCEPTO PROC. MAYORES SOBRE HUESO CRANEAL/FACIAL - NS2. | 9.872,13 | 7.897,70 |
+| 92 | 3 | PROC. SOBRE HUESOS FACIALES EXCEPTO PROC. MAYORES SOBRE HUESO CRANEAL/FACIAL - NS3. | 14.312,75 | 11.450,20 |
+| 92 | 4 | PROC. SOBRE HUESOS FACIALES EXCEPTO PROC. MAYORES SOBRE HUESO CRANEAL/FACIAL - NS4. | 38.849,77 | 31.079,82 |
+| 95 | 1 | REPARACIÓN DE HENDIDURA LABIAL Y PALADAR - NS1. | 6.426,98 | 5.141,58 |
+| 95 | 2 | REPARACIÓN DE HENDIDURA LABIAL Y PALADAR - NS2. | 7.583,97 | 6.067,18 |
+| 95 | 3 | REPARACIÓN DE HENDIDURA LABIAL Y PALADAR - NS3. | 8.426,91 | 6.741,53 |
+| 95 | 4 | REPARACIÓN DE HENDIDURA LABIAL Y PALADAR - NS4. | 19.773,86 | 15.819,09 |
+| 98 | 1 | OTROS PROCEDIMIENTOS SOBRE OÍDO, NARIZ, BOCA Y GARGANTA - NS1. | 3.903,69 | 3.122,95 |
+| 98 | 2 | OTROS PROCEDIMIENTOS SOBRE OÍDO, NARIZ, BOCA Y GARGANTA - NS2. | 6.503,35 | 5.202,68 |
+| 98 | 3 | OTROS PROCEDIMIENTOS SOBRE OÍDO, NARIZ, BOCA Y GARGANTA - NS3. | 13.346,84 | 10.677,47 |
+| 98 | 4 | OTROS PROCEDIMIENTOS SOBRE OÍDO, NARIZ, BOCA Y GARGANTA - NS4. | 30.722,49 | 24.577,99 |
+| 110 | 1 | NEOPLASIAS DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS1. | 3.179,67 | 2.543,74 |
+| 110 | 2 | NEOPLASIAS DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS2. | 4.256,51 | 3.405,21 |
+| 110 | 3 | NEOPLASIAS DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS3. | 6.980,33 | 5.584,26 |
+| 110 | 4 | NEOPLASIAS DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS4. | 11.014,89 | 8.811,91 |
+| 114 | 1 | ENFERMEDADES Y TRASTORNOS DENTALES - NS1. | 2.287,41 | 1.829,93 |
+| 114 | 2 | ENFERMEDADES Y TRASTORNOS DENTALES - NS2. | 2.815,79 | 2.252,63 |
+| 114 | 3 | ENFERMEDADES Y TRASTORNOS DENTALES - NS3. | 4.075,89 | 3.260,71 |
+| 114 | 4 | ENFERMEDADES Y TRASTORNOS DENTALES - NS4. | 8.500,14 | 6.800,11 |
+| 115 | 1 | OTRAS ENFERMEDADES DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS1. | 2.217,62 | 1.774,10 |
+| 115 | 2 | OTRAS ENFERMEDADES DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS2. | 3.338,22 | 2.670,58 |
+| 115 | 3 | OTRAS ENFERMEDADES DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS3. | 5.690,69 | 4.552,55 |
+| 115 | 4 | OTRAS ENFERMEDADES DE OÍDO, NARIZ, BOCA, GARGANTA Y CRANEALES/FACIALES - NS4. | 10.877,07 | 8.701,66 |
+| 120 | 1 | PROCEDIMIENTOS MAYORES SOBRE APARATO RESPIRATORIO - NS1. | 8.508,84 | 6.807,07 |
+| 120 | 2 | PROCEDIMIENTOS MAYORES SOBRE APARATO RESPIRATORIO - NS2. | 10.600,46 | 8.480,37 |
+| 120 | 3 | PROCEDIMIENTOS MAYORES SOBRE APARATO RESPIRATORIO - NS3. | 16.885,66 | 13.508,53 |
+| 120 | 4 | PROCEDIMIENTOS MAYORES SOBRE APARATO RESPIRATORIO - NS4. | 43.768,06 | 35.014,45 |
+| 121 | 1 | OTROS PROCEDIMIENTOS SOBRE APARATO RESPIRATORIO - NS1. | 5.652,58 | 4.522,06 |
+| 121 | 2 | OTROS PROCEDIMIENTOS SOBRE APARATO RESPIRATORIO - NS2. | 7.102,66 | 5.682,13 |
+| 121 | 3 | OTROS PROCEDIMIENTOS SOBRE APARATO RESPIRATORIO - NS3. | 15.855,50 | 12.684,40 |
+| 121 | 4 | OTROS PROCEDIMIENTOS SOBRE APARATO RESPIRATORIO - NS4. | 46.141,95 | 36.913,56 |
+| 130 | 1 | ENFERMEDADES APARATO RESPIRATORIO CON VENTILACIÓN ASISTIDA DE MÁS DE 96 HORAS - NS1. | 11.025,33 | 8.820,26 |
+| 130 | 2 | ENFERMEDADES APARATO RESPIRATORIO CON VENTILACIÓN ASISTIDA DE MÁS DE 96 HORAS - NS2. | 15.824,50 | 12.659,60 |
+| 130 | 3 | ENFERMEDADES APARATO RESPIRATORIO CON VENTILACIÓN ASISTIDA DE MÁS DE 96 HORAS - NS3. | 29.437,17 | 23.549,74 |
+| 130 | 4 | ENFERMEDADES APARATO RESPIRATORIO CON VENTILACIÓN ASISTIDA DE MÁS DE 96 HORAS - NS4. | 42.473,77 | 33.979,02 |
+| 131 | 1 | FIBROSIS QUÍSTICA - ENFERMEDAD PULMONAR - NS1. | 4.998,10 | 3.998,48 |
+| 131 | 2 | FIBROSIS QUÍSTICA - ENFERMEDAD PULMONAR - NS2. | 5.709,45 | 4.567,56 |
+| 131 | 3 | FIBROSIS QUÍSTICA - ENFERMEDAD PULMONAR - NS3. | 7.480,29 | 5.984,23 |
+| 131 | 4 | FIBROSIS QUÍSTICA - ENFERMEDAD PULMONAR - NS4. | 10.008,52 | 8.006,82 |
+| 132 | 1 | BDP Y OTRAS ENF. RESPIRATORIAS CRÓNICAS CON ORIGEN EN PERIODO PERINATAL - NS1. | 4.081,60 | 3.265,28 |
+| 132 | 2 | BDP Y OTRAS ENF. RESPIRATORIAS CRÓNICAS CON ORIGEN EN PERIODO PERINATAL - NS2. | 4.311,34 | 3.449,07 |
+| 132 | 3 | BDP Y OTRAS ENF. RESPIRATORIAS CRÓNICAS CON ORIGEN EN PERIODO PERINATAL - NS3. | 4.704,13 | 3.763,30 |
+| 132 | 4 | BDP Y OTRAS ENF. RESPIRATORIAS CRÓNICAS CON ORIGEN EN PERIODO PERINATAL - NS4. | 6.028,86 | 4.823,09 |
+| 133 | 1 | FALLO RESPIRATORIO - NS1. | 2.712,35 | 2.169,88 |
+| 133 | 2 | FALLO RESPIRATORIO - NS2. | 3.617,98 | 2.894,38 |
+| 133 | 3 | FALLO RESPIRATORIO - NS3. | 5.568,28 | 4.454,62 |
+| 133 | 4 | FALLO RESPIRATORIO - NS4. | 11.193,84 | 8.955,07 |
+| 134 | 1 | EMBOLISMO PULMONAR - NS1. | 3.359,29 | 2.687,43 |
+| 134 | 2 | EMBOLISMO PULMONAR - NS2. | 4.191,70 | 3.353,36 |
+| 134 | 3 | EMBOLISMO PULMONAR - NS3. | 5.303,22 | 4.242,58 |
+| 134 | 4 | EMBOLISMO PULMONAR - NS4. | 7.850,73 | 6.280,58 |
+| 135 | 1 | TRAUMATISMOS TORÁCICOS PRINCIPALES - NS1. | 2.680,50 | 2.144,40 |
+| 135 | 2 | TRAUMATISMOS TORÁCICOS PRINCIPALES - NS2. | 3.419,65 | 2.735,72 |
+| 135 | 3 | TRAUMATISMOS TORÁCICOS PRINCIPALES - NS3. | 5.659,63 | 4.527,70 |
+| 135 | 4 | TRAUMATISMOS TORÁCICOS PRINCIPALES - NS4. | 10.157,89 | 8.126,31 |
+| 136 | 1 | NEOPLASIAS RESPIRATORIAS - NS1. | 2.934,97 | 2.347,98 |
+| 136 | 2 | NEOPLASIAS RESPIRATORIAS - NS2. | 4.068,36 | 3.254,69 |
+| 136 | 3 | NEOPLASIAS RESPIRATORIAS - NS3. | 6.148,74 | 4.918,99 |
+| 136 | 4 | NEOPLASIAS RESPIRATORIAS - NS4. | 8.644,19 | 6.915,35 |
+| 137 | 1 | INFECCIONES E INFLAMACIONES PULMONARES MAYORES - NS1. | 3.448,39 | 2.758,71 |
+| 137 | 2 | INFECCIONES E INFLAMACIONES PULMONARES MAYORES - NS2. | 4.184,92 | 3.347,94 |
+| 137 | 3 | INFECCIONES E INFLAMACIONES PULMONARES MAYORES - NS3. | 5.438,27 | 4.350,62 |
+| 137 | 4 | INFECCIONES E INFLAMACIONES PULMONARES MAYORES - NS4. | 12.963,66 | 10.370,93 |
+| 138 | 1 | BRONQUIOLITIS Y NEUMONÍA POR VIRUS SINCITIAL RESPIRATORIO - NS1. | 2.680,64 | 2.144,51 |
+| 138 | 2 | BRONQUIOLITIS Y NEUMONÍA POR VIRUS SINCITIAL RESPIRATORIO - NS2. | 3.458,87 | 2.767,10 |
+| 138 | 3 | BRONQUIOLITIS Y NEUMONÍA POR VIRUS SINCITIAL RESPIRATORIO - NS3. | 3.458,87 | 2.767,10 |
+| 138 | 4 | BRONQUIOLITIS Y NEUMONÍA POR VIRUS SINCITIAL RESPIRATORIO - NS4. | 7.229,77 | 5.783,82 |
+| 139 | 1 | OTRA NEUMONÍA - NS1. | 2.737,13 | 2.189,70 |
+| 139 | 2 | OTRA NEUMONÍA - NS2. | 3.690,53 | 2.952,42 |
+| 139 | 3 | OTRA NEUMONÍA - NS3. | 4.317,70 | 3.454,16 |
+| 139 | 4 | OTRA NEUMONÍA - NS4. | 6.832,41 | 5.465,93 |
+| 140 | 1 | ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA - NS1. | 2.364,45 | 1.891,56 |
+| 140 | 2 | ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA - NS2. | 3.131,88 | 2.505,50 |
+| 140 | 3 | ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA - NS3. | 3.863,52 | 3.090,82 |
+| 140 | 4 | ENFERMEDAD PULMONAR OBSTRUCTIVA CRÓNICA - NS4. | 6.124,02 | 4.899,22 |
+| 142 | 1 | ENFERMEDAD PULMONAR INTERSTICIAL Y ALVEOLAR - NS1. | 3.170,70 | 2.536,56 |
+| 142 | 2 | ENFERMEDAD PULMONAR INTERSTICIAL Y ALVEOLAR - NS2. | 4.281,17 | 3.424,94 |
+| 142 | 3 | ENFERMEDAD PULMONAR INTERSTICIAL Y ALVEOLAR - NS3. | 5.219,73 | 4.175,78 |
+| 142 | 4 | ENFERMEDAD PULMONAR INTERSTICIAL Y ALVEOLAR - NS4. | 9.239,12 | 7.391,30 |
+| 143 | 1 | OTRAS ENFERMEDADES RESPIRATORIAS EXCEPTO SIGNOS, SÍNTOMAS Y DIAG. MENORES - NS1. | 2.325,51 | 1.860,41 |
+| 143 | 2 | OTRAS ENFERMEDADES RESPIRATORIAS EXCEPTO SIGNOS, SÍNTOMAS Y DIAG. MENORES - NS2. | 3.504,64 | 2.803,71 |
+| 143 | 3 | OTRAS ENFERMEDADES RESPIRATORIAS EXCEPTO SIGNOS, SÍNTOMAS Y DIAG. MENORES - NS3. | 4.991,81 | 3.993,45 |
+| 143 | 4 | OTRAS ENFERMEDADES RESPIRATORIAS EXCEPTO SIGNOS, SÍNTOMAS Y DIAG. MENORES - NS4. | 7.474,80 | 5.979,84 |
+| 160 | 1 | REPARACIÓN CARDIOTORÁCICA MAYOR DE ANOMALÍA CARDIACA, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III A - NS1. | 19.654,03 | 15.723,22 |
+| 160 | 2 | REPARACIÓN CARDIOTORÁCICA MAYOR DE ANOMALÍA CARDIACA, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III - NS2. | 23.208,07 | 18.566,46 |
+| 160 | 3 | REPARACIÓN CARDIOTORÁCICA MAYOR DE ANOMALÍA CARDIACA, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III - NS3. | 34.084,55 | 27.267,64 |
+| 160 | 4 | REPARACIÓN CARDIOTORÁCICA MAYOR DE ANOMALÍA CARDIACA, EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III - NS4. | 60.900,55 | 48.720,44 |
+| 161 | 1 | IMPLANTACIÓN DE DESFIBRILADOR CARDIACO Y SISTEMA DE ASISTENCIA CARDIACA (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS CARDIACAS Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS)- NS1. | 15.385,32 | 12.308,26 |
+| 161 | 2 | IMPLANTACIÓN DE DESFIBRILADOR CARDIACO Y SISTEMA DE ASISTENCIA CARDIACA (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS CARDIACAS Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS)- NS2. | 28.722,81 | 22.978,25 |
+| 161 | 3 | IMPLANTACIÓN DE DESFIBRILADOR CARDIACO Y SISTEMA DE ASISTENCIA CARDIACA (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS CARDIACAS Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS)- NS3. | 52.861,93 | 42.289,54 |
+| 161 | 4 | IMPLANTACIÓN DE DESFIBRILADOR CARDIACO Y SISTEMA DE ASISTENCIA CARDIACA (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS CARDIACAS Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS)- NS4. | 73.474,76 | 58.779,81 |
+| 162 | 1 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS CON IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS1. | 24.622,30 | 19.697,84 |
+| 162 | 2 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS CON IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS2. | 30.093,87 | 24.075,10 |
+| 162 | 3 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS CON IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS3. | 38.932,87 | 31.146,30 |
+| 162 | 4 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS CON IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS4. | 47.695,50 | 38.156,40 |
+| 163 | 1 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS SIN IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS1. | 18.201,66 | 14.561,33 |
+| 163 | 2 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS SIN IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS2. | 22.129,55 | 17.703,64 |
+| 163 | 3 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS SIN IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS3. | 31.430,25 | 25.144,20 |
+| 163 | 4 | PROCEDIMIENTOS SOBRE VÁLVULAS CARDIACAS SIN IAM O DIAGNÓSTICO COMPLEJO (EXCEPTO CIRUGÍA REPARADORA COMPLEJA DE VÁLVULA MITRAL Y CIRUGÍA PRESERVADORA DE LA VÁLVULA AÓRTICA EN ADULTOS ) - NS4. | 50.381,31 | 40.305,05 |
+| 165 | 1 | BYPASS CORONARIO CON IAM O DIAGNÓSTICO COMPLEJO - NS1. | 18.417,79 | 14.734,23 |
+| 165 | 2 | BYPASS CORONARIO CON IAM O DIAGNÓSTICO COMPLEJO - NS2. | 21.051,58 | 16.841,26 |
+| 165 | 3 | BYPASS CORONARIO CON IAM O DIAGNÓSTICO COMPLEJO - NS3. | 29.029,70 | 23.223,76 |
+| 165 | 4 | BYPASS CORONARIO CON IAM O DIAGNÓSTICO COMPLEJO - NS4. | 45.281,19 | 36.224,95 |
+| 166 | 1 | BYPASS CORONARIO SIN IAM O DIAGNÓSTICO COMPLEJO - NS1. | 16.031,42 | 12.825,14 |
+| 166 | 2 | BYPASS CORONARIO SIN IAM O DIAGNÓSTICO COMPLEJO - NS2. | 19.016,79 | 15.213,43 |
+| 166 | 3 | BYPASS CORONARIO SIN IAM O DIAGNÓSTICO COMPLEJO - NS3. | 24.663,55 | 19.730,84 |
+| 166 | 4 | BYPASS CORONARIO SIN IAM O DIAGNÓSTICO COMPLEJO - NS4. | 49.830,58 | 39.864,46 |
+| 167 | 1 | OTROS PROCEDIMIENTOS CARDIOTORÁCICOS Y VASCULARES TORÁCICOS - NS1. | 12.284,42 | 9.827,54 |
+| 167 | 2 | OTROS PROCEDIMIENTOS CARDIOTORÁCICOS Y VASCULARES TORÁCICOS - NS2. | 12.919,68 | 10.335,74 |
+| 167 | 3 | OTROS PROCEDIMIENTOS CARDIOTORÁCICOS Y VASCULARES TORÁCICOS - NS3. | 24.957,18 | 19.965,74 |
+| 167 | 4 | OTROS PROCEDIMIENTOS CARDIOTORÁCICOS Y VASCULARES TORÁCICOS - NS4. | 42.759,23 | 34.207,38 |
+| 169 | 1 | PROCEDIMIENTOS ABDOMINALES VASCULARES MAYORES (EXCEPTO ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO)- NS1. | 14.276,66 | 11.421,33 |
+| 169 | 2 | PROCEDIMIENTOS ABDOMINALES VASCULARES MAYORES (EXCEPTO ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO)- NS2. | 17.196,81 | 13.757,45 |
+| 169 | 3 | PROCEDIMIENTOS ABDOMINALES VASCULARES MAYORES (EXCEPTO ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO)- NS3. | 22.312,46 | 17.849,97 |
+| 169 | 4 | PROCEDIMIENTOS ABDOMINALES VASCULARES MAYORES (EXCEPTO ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO)- NS4. | 38.310,68 | 30.648,54 |
+| 170 | 1 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE CON IAM, FALLO CARDIACO O SHOCK (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS1. | 9.409,18 | 7.527,34 |
+| 170 | 2 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE CON IAM, FALLO CARDIACO O SHOCK (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS2. | 10.384,41 | 8.307,53 |
+| 170 | 3 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE CON IAM, FALLO CARDIACO O SHOCK (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS3. | 15.294,41 | 12.235,53 |
+| 170 | 4 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE CON IAM, FALLO CARDIACO O SHOCK (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS4. | 17.570,28 | 14.056,22 |
+| 171 | 1 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE SIN IAM, FALLO CARDIACO O SHOCK, (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS1. | 6.159,46 | 4.927,57 |
+| 171 | 2 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE SIN IAM, FALLO CARDIACO O SHOCK (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS2. | 7.642,48 | 6.113,98 |
+| 171 | 3 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE SIN IAM, FALLO CARDIACO O SHOCK (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS3. | 10.937,81 | 8.750,25 |
+| 171 | 4 | IMPLANT. MARCAPASOS CARDIACO PERMANENTE SIN IAM, FALLO CARDIACO O SHOCK (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS4. | 18.356,45 | 14.685,16 |
+| 174 | 1 | INTERVENCIONES CORONARIAS PERCUTÁNEAS CON IAM - NS1. | 6.667,20 | 5.333,76 |
+| 174 | 2 | INTERVENCIONES CORONARIAS PERCUTÁNEAS CON IAM - NS2. | 8.084,22 | 6.467,38 |
+| 174 | 3 | INTERVENCIONES CORONARIAS PERCUTÁNEAS CON IAM - NS3. | 11.404,56 | 9.123,65 |
+| 174 | 4 | INTERVENCIONES CORONARIAS PERCUTÁNEAS CON IAM - NS4. | 18.708,28 | 14.966,62 |
+| 175 | 1 | INTERVENCIONES CORONARIAS PERCUTÁNEAS SIN IAM - NS1. | 4.168,19 | 3.334,55 |
+| 175 | 2 | INTERVENCIONES CORONARIAS PERCUTÁNEAS SIN IAM - NS2. | 6.900,76 | 5.520,61 |
+| 175 | 3 | INTERVENCIONES CORONARIAS PERCUTÁNEAS SIN IAM - NS3. | 12.110,69 | 9.688,55 |
+| 175 | 4 | INTERVENCIONES CORONARIAS PERCUTÁNEAS SIN IAM - NS4. | 22.781,29 | 18.225,03 |
+| 176 | 1 | SUSTITUCIÓN DE GENERADOR DE MARCAPASOS Y DESFIBRILADOR CARDIACO (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS1. | 5.215,79 | 4.172,63 |
+| 176 | 2 | SUSTITUCIÓN DE GENERADOR DE MARCAPASOS Y DESFIBRILADOR CARDIACO (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS2. | 8.996,90 | 7.197,52 |
+| 176 | 3 | SUSTITUCIÓN DE GENERADOR DE MARCAPASOS Y DESFIBRILADOR CARDIACO (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS3. | 13.541,43 | 10.833,14 |
+| 176 | 4 | SUSTITUCIÓN DE GENERADOR DE MARCAPASOS Y DESFIBRILADOR CARDIACO (EXCEPTO CARDIOPATÍAS FAMILIARES Y ARRITMIAS EN PEDIATRÍA Y EXTRACCIÓN DE ELECTRODOS EN ADULTOS) - NS4. | 27.166,17 | 21.732,94 |
+| 180 | 1 | OTROS PROCEDIMIENTOS SOBRE SISTEMA CIRCULATORIO - NS1. | 2.911,42 | 2.329,14 |
+| 180 | 2 | OTROS PROCEDIMIENTOS SOBRE SISTEMA CIRCULATORIO - NS2. | 7.795,56 | 6.236,45 |
+| 180 | 3 | OTROS PROCEDIMIENTOS SOBRE SISTEMA CIRCULATORIO - NS3. | 11.196,73 | 8.957,38 |
+| 180 | 4 | OTROS PROCEDIMIENTOS SOBRE SISTEMA CIRCULATORIO - NS4. | 25.580,69 | 20.464,55 |
+| 181 | 1 | PROCEDIMIENTOS ARTERIALES SOBRE EXTREMIDAD INFERIOR - NS1. | 10.606,30 | 8.485,04 |
+| 181 | 2 | PROCEDIMIENTOS ARTERIALES SOBRE EXTREMIDAD INFERIOR - NS2. | 14.537,09 | 11.629,67 |
+| 181 | 3 | PROCEDIMIENTOS ARTERIALES SOBRE EXTREMIDAD INFERIOR - NS3. | 21.639,59 | 17.311,67 |
+| 181 | 4 | PROCEDIMIENTOS ARTERIALES SOBRE EXTREMIDAD INFERIOR - NS4. | 31.141,94 | 24.913,55 |
+| 182 | 1 | OTROS PROCEDIMIENTOS VASCULARES PERIFÉRICOS - NS1. | 7.010,74 | 5.608,59 |
+| 182 | 2 | OTROS PROCEDIMIENTOS VASCULARES PERIFÉRICOS - NS2. | 9.136,63 | 7.309,30 |
+| 182 | 3 | OTROS PROCEDIMIENTOS VASCULARES PERIFÉRICOS - NS3. | 13.161,90 | 10.529,52 |
+| 182 | 4 | OTROS PROCEDIMIENTOS VASCULARES PERIFÉRICOS - NS4. | 25.280,68 | 20.224,54 |
+| 191 | 1 | CATETERISMO CARDIACO POR ENFERMEDAD ARTERIAL CORONARIA - NS1. | 3.036,61 | 2.429,29 |
+| 191 | 2 | CATETERISMO CARDIACO POR ENFERMEDAD ARTERIAL CORONARIA - NS2. | 4.000,38 | 3.200,30 |
+| 191 | 3 | CATETERISMO CARDIACO POR ENFERMEDAD ARTERIAL CORONARIA - NS3. | 5.996,94 | 4.797,55 |
+| 191 | 4 | CATETERISMO CARDIACO POR ENFERMEDAD ARTERIAL CORONARIA - NS4. | 10.521,03 | 8.416,82 |
+| 192 | 1 | CATETERISMO CARDIACO POR OTRA CONDICIÓN NO CORONARIA - NS1. | 3.234,57 | 2.587,66 |
+| 192 | 2 | CATETERISMO CARDIACO POR OTRA CONDICIÓN NO CORONARIA - NS2. | 5.369,61 | 4.295,69 |
+| 192 | 3 | CATETERISMO CARDIACO POR OTRA CONDICIÓN NO CORONARIA - NS3. | 8.944,68 | 7.155,74 |
+| 192 | 4 | CATETERISMO CARDIACO POR OTRA CONDICIÓN NO CORONARIA - NS4. | 15.437,48 | 12.349,98 |
+| 193 | 1 | ENDOCARDITIS AGUDA Y SUBAGUDA - NS1. | 6.739,05 | 5.391,24 |
+| 193 | 2 | ENDOCARDITIS AGUDA Y SUBAGUDA - NS2. | 8.695,64 | 6.956,51 |
+| 193 | 3 | ENDOCARDITIS AGUDA Y SUBAGUDA - NS3. | 10.832,43 | 8.665,94 |
+| 193 | 4 | ENDOCARDITIS AGUDA Y SUBAGUDA - NS4. | 15.287,03 | 12.229,62 |
+| 194 | 1 | INSUFICIENCIA CARDIACA - NS1. | 2.619,22 | 2.095,38 |
+| 194 | 2 | INSUFICIENCIA CARDIACA - NS2. | 3.620,92 | 2.896,74 |
+| 194 | 3 | INSUFICIENCIA CARDIACA - NS3. | 4.400,06 | 3.520,05 |
+| 194 | 4 | INSUFICIENCIA CARDIACA - NS4. | 6.681,13 | 5.344,90 |
+| 206 | 1 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO O PROCED. CARDIOVASCULAR - NS1. | 2.702,65 | 2.162,12 |
+| 206 | 2 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO O PROCED. CARDIOVASCULAR - NS2. | 4.143,90 | 3.315,12 |
+| 206 | 3 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO O PROCED. CARDIOVASCULAR - NS3. | 6.820,86 | 5.456,69 |
+| 206 | 4 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO O PROCED. CARDIOVASCULAR - NS4. | 12.564,15 | 10.051,32 |
+| 220 | 1 | PROCEDIMIENTOS MAYORES SOBRE ESTOMAGO, ESÓFAGO Y DUODENO, EXCEPTO ATRESIA DE ÉSOFAGO Y CIRUGÍA DE RESECCIÓN O RECONSTRUCCIÓN ESOFÁGICA COMPLEJA EN ADULTOS - NS1. | 7.722,81 | 6.178,25 |
+| 220 | 2 | PROCEDIMIENTOS MAYORES SOBRE ESTOMAGO, ESÓFAGO Y DUODENO, EXCEPTO ATRESIA DE ÉSOFAGOY CIRUGÍA DE RESECCIÓN O RECONSTRUCCIÓN ESOFÁGICA COMPLEJA EN ADULTOS - NS2. | 12.534,12 | 10.027,30 |
+| 220 | 3 | PROCEDIMIENTOS MAYORES SOBRE ESTOMAGO, ESÓFAGO Y DUODENO, EXCEPTO ATRESIA DE ÉSOFAGO Y CIRUGÍA DE RESECCIÓN O RECONSTRUCCIÓN ESOFÁGICA COMPLEJA EN ADULTOS- NS3. | 19.309,76 | 15.447,81 |
+| 220 | 4 | PROCEDIMIENTOS MAYORES SOBRE ESTOMAGO, ESÓFAGO Y DUODENO, EXCEPTO ATRESIA DE ÉSOFAGO Y CIRUGÍA DE RESECCIÓN O RECONSTRUCCIÓN ESOFÁGICA COMPLEJA EN ADULTOS- NS4. | 36.283,60 | 29.026,88 |
+| 226 | 1 | PROCEDIMIENTOS SOBRE ANO - NS1. | 2.104,82 | 1.683,86 |
+| 226 | 2 | PROCEDIMIENTOS SOBRE ANO - NS2. | 3.997,02 | 3.197,62 |
+| 226 | 3 | PROCEDIMIENTOS SOBRE ANO - NS3. | 6.281,40 | 5.025,12 |
+| 226 | 4 | PROCEDIMIENTOS SOBRE ANO - NS4. | 11.990,87 | 9.592,70 |
+| 230 | 1 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO DELGADO (EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA), - NS1. | 9.226,36 | 7.381,09 |
+| 230 | 2 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO DELGADO,(EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA) - NS2. | 12.731,57 | 10.185,26 |
+| 230 | 3 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO DELGADO,(EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA) - NS3. | 17.291,78 | 13.833,42 |
+| 230 | 4 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO DELGADO,(EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA) - NS4. | 27.501,72 | 22.001,38 |
+| 231 | 1 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO GRUESO, (EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA) - NS1. | 9.364,08 | 7.491,26 |
+| 231 | 2 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO GRUESO, (EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA) - NS2. | 11.550,36 | 9.240,29 |
+| 231 | 3 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO GRUESO, (EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA)- NS3. | 16.287,85 | 13.030,28 |
+| 231 | 4 | PROCEDIMIENTOS MAYORES SOBRE INTESTINO GRUESO, (EXCEPTO ENFERMEDAD INFLAMATORIA INTESTINAL PEDIÁTRICA) - NS4. | 24.302,49 | 19.441,99 |
+| 248 | 1 | INFECCIONES BACTERIANAS MAYORES DE APARATO DIGESTIVO - NS1. | 2.650,50 | 2.120,40 |
+| 248 | 2 | INFECCIONES BACTERIANAS MAYORES DE APARATO DIGESTIVO - NS2. | 4.344,54 | 3.475,63 |
+| 248 | 3 | INFECCIONES BACTERIANAS MAYORES DE APARATO DIGESTIVO - NS3. | 7.157,35 | 5.725,88 |
+| 248 | 4 | INFECCIONES BACTERIANAS MAYORES DE APARATO DIGESTIVO - NS4. | 11.645,49 | 9.316,39 |
+| 260 | 1 | PROCEDIMIENTOS MAYORES SOBRE PÁNCREAS, HÍGADO Y DERIVACIÓN (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 10.624,00 | 8.499,20 |
+| 260 | 2 | PROCEDIMIENTOS MAYORES SOBRE PÁNCREAS, HÍGADO Y DERIVACIÓN (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 14.230,09 | 11.384,07 |
+| 260 | 3 | PROCEDIMIENTOS MAYORES SOBRE PÁNCREAS, HÍGADO Y DERIVACIÓN (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 23.598,45 | 18.878,76 |
+| 260 | 4 | PROCEDIMIENTOS MAYORES SOBRE PÁNCREAS, HÍGADO Y DERIVACIÓN (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 44.811,41 | 35.849,13 |
+| 263 | 1 | COLECISTECTOMÍA - NS1. | 3.811,93 | 3.049,54 |
+| 263 | 2 | COLECISTECTOMÍA - NS2. | 5.518,25 | 4.414,60 |
+| 263 | 3 | COLECISTECTOMÍA - NS3. | 9.589,65 | 7.671,72 |
+| 263 | 4 | COLECISTECTOMÍA - NS4. | 20.519,36 | 16.415,49 |
+| 264 | 1 | OTROS PROCEDIMIENTOS HEPATOBILIARES, PÁNCREAS Y ABDOMINALES (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 3.003,45 | 2.402,76 |
+| 264 | 2 | OTROS PROCEDIMIENTOS HEPATOBILIARES, PÁNCREAS Y ABDOMINALES (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 4.285,47 | 3.428,38 |
+| 264 | 3 | OTROS PROCEDIMIENTOS HEPATOBILIARES, PÁNCREAS Y ABDOMINALES (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 11.791,58 | 9.433,26 |
+| 264 | 4 | OTROS PROCEDIMIENTOS HEPATOBILIARES, PÁNCREAS Y ABDOMINALES (EXCEPTO HEPATOPATÍAS COMPLEJAS PEDIÁTRICAS, ENFERMEDAD VASCULAR HEPÁTICA COMPLEJA EN EL ADULTO, TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS) -. | 29.990,64 | 23.992,51 |
+| 279 | 1 | COMA HEPÁTICO Y OTROS TRASTORNOS MAYORES DE HÍGADO - NS1. | 2.845,52 | 2.276,42 |
+| 279 | 2 | COMA HEPÁTICO Y OTROS TRASTORNOS MAYORES DE HÍGADO - NS2. | 4.037,62 | 3.230,10 |
+| 279 | 3 | COMA HEPÁTICO Y OTROS TRASTORNOS MAYORES DE HÍGADO - NS3. | 7.214,01 | 5.771,21 |
+| 279 | 4 | COMA HEPÁTICO Y OTROS TRASTORNOS MAYORES DE HÍGADO - NS4. | 13.521,77 | 10.817,42 |
+| 281 | 1 | NEOPLASIA MALIGNA DE SISTEMA HEPATOBILIAR O DE PÁNCREAS ( EXCEPTO TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS)-. | 2.908,32 | 2.326,66 |
+| 281 | 2 | NEOPLASIA MALIGNA DE SISTEMA HEPATOBILIAR O DE PÁNCREAS ( EXCEPTO TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS)-. | 4.514,94 | 3.611,95 |
+| 281 | 3 | NEOPLASIA MALIGNA DE SISTEMA HEPATOBILIAR O DE PÁNCREAS ( EXCEPTO TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS)-. | 6.278,14 | 5.022,51 |
+| 281 | 4 | NEOPLASIA MALIGNA DE SISTEMA HEPATOBILIAR O DE PÁNCREAS ( EXCEPTO TRATAMIENTO QUIRÚRGICO DEL CÁNCER DE PÁNCREAS DE RESECABILIDAD LÍMITE EN ADULTOS)-. | 9.160,45 | 7.328,36 |
+| 283 | 1 | OTROS TRASTORNOS DE HÍGADO, (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 2.228,43 | 1.782,74 |
+| 283 | 2 | OTROS TRASTORNOS DE HÍGADO, (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 3.543,97 | 2.835,18 |
+| 283 | 3 | OTROS TRASTORNOS DE HÍGADO, (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 6.154,19 | 4.923,35 |
+| 283 | 4 | OTROS TRASTORNOS DE HÍGADO, (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 11.302,34 | 9.041,87 |
+| 284 | 1 | TRASTORNOS DEL TRACTO Y VESÍCULA BILIAR (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 3.116,56 | 2.493,25 |
+| 284 | 2 | TRASTORNOS DEL TRACTO Y VESÍCULA BILIAR (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 4.293,00 | 3.434,40 |
+| 284 | 3 | TRASTORNOS DEL TRACTO Y VESÍCULA BILIAR (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 6.656,78 | 5.325,42 |
+| 284 | 4 | TRASTORNOS DEL TRACTO Y VESÍCULA BILIAR (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 10.580,30 | 8.464,24 |
+| 301 | 1 | SUSTITUCIÓN ARTICULACIÓN CADERA (EXCEPTO OSTEOTOMÍA PÉLVICA EN DISPLASIAS DE CADERA EN EL ADULTO, TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES,ORTOPEDIA INFANTIL ). | 9.622,34 | 7.697,87 |
+| 301 | 2 | SUSTITUCIÓN ARTICULACIÓN CADERA (EXCEPTO OSTEOTOMÍA PÉLVICA EN DISPLASIAS DE CADERA EN EL ADULTO, TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES,ORTOPEDIA INFANTIL ). | 10.843,73 | 8.674,98 |
+| 301 | 3 | SUSTITUCIÓN ARTICULACIÓN CADERA (EXCEPTO OSTEOTOMÍA PÉLVICA EN DISPLASIAS DE CADERA EN EL ADULTO, TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES,ORTOPEDIA INFANTIL ). | 15.727,34 | 12.581,87 |
+| 301 | 4 | SUSTITUCIÓN ARTICULACIÓN CADERA (EXCEPTO OSTEOTOMÍA PÉLVICA EN DISPLASIAS DE CADERA EN EL ADULTO, TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES, ORTOPEDIA INFANTIL, SARCOMAS). | 19.613,03 | 15.690,42 |
+| 302 | 1 | SUSTITUCIÓN ARTICULACIÓN RODILLA (EXCEPTO TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES, ORTOPEDIA INFANTIL, SARCOMAS). | 9.143,27 | 7.314,62 |
+| 302 | 2 | SUSTITUCIÓN ARTICULACIÓN RODILLA (EXCEPTO TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES, ORTOPEDIA INFANTIL, SARCOMAS). | 10.222,91 | 8.178,33 |
+| 302 | 3 | SUSTITUCIÓN ARTICULACIÓN RODILLA (EXCEPTO TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES, ORTOPEDIA INFANTIL, SARCOMAS). | 15.875,26 | 12.700,21 |
+| 302 | 4 | SUSTITUCIÓN ARTICULACIÓN RODILLA (EXCEPTO TRATAMIENTO DE LAS INFECCIONES OSTEOARTICULARES RESISTENTES, ORTOPEDIA INFANTIL, SARCOMAS). | 28.912,00 | 23.129,60 |
+| 303 | 1 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR POR ESCOLIOSIS - NS1. | 24.201,72 | 19.361,38 |
+| 303 | 2 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR POR ESCOLIOSIS - NS2. | 29.108,14 | 23.286,51 |
+| 303 | 3 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR POR ESCOLIOSIS - NS3. | 37.759,42 | 30.207,54 |
+| 303 | 4 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR POR ESCOLIOSIS - NS4. | 51.880,84 | 41.504,67 |
+| 304 | 1 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR EXCEPTO POR ESCOLIOSIS - NS1. | 12.242,06 | 9.793,65 |
+| 304 | 2 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR EXCEPTO POR ESCOLIOSIS - NS2. | 15.455,90 | 12.364,72 |
+| 304 | 3 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR EXCEPTO POR ESCOLIOSIS - NS3. | 20.784,24 | 16.627,39 |
+| 304 | 4 | PROCEDIMIENTOS DE FUSIÓN DORSAL Y LUMBAR EXCEPTO POR ESCOLIOSIS - NS4. | 46.794,56 | 37.435,65 |
+| 310 | 1 | ESCISIÓN Y DESCOMPRESIÓN DE DISCO INTERVERTEBRAL (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 5.816,03 | 4.652,82 |
+| 310 | 2 | ESCISIÓN Y DESCOMPRESIÓN DE DISCO INTERVERTEBRAL (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 8.979,69 | 7.183,75 |
+| 310 | 3 | ESCISIÓN Y DESCOMPRESIÓN DE DISCO INTERVERTEBRAL (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 16.506,20 | 13.204,96 |
+| 310 | 4 | ESCISIÓN Y DESCOMPRESIÓN DE DISCO INTERVERTEBRAL (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 37.629,29 | 30.103,43 |
+| 321 | 1 | FUSIÓN ESPINAL CERVICAL Y OTROS PROC. DE LA ESPALDA/CUELLO EXCEPTO ESCISIÓN/DESCOMP. DISCAL - NS1. | 9.404,60 | 7.523,68 |
+| 321 | 2 | FUSIÓN ESPINAL CERVICAL Y OTROS PROC. DE LA ESPALDA/CUELLO EXCEPTO ESCISIÓN/DESCOMP. DISCAL - NS2. | 13.332,79 | 10.666,23 |
+| 321 | 3 | FUSIÓN ESPINAL CERVICAL Y OTROS PROC. DE LA ESPALDA/CUELLO EXCEPTO ESCISIÓN/DESCOMP. DISCAL - NS3. | 24.863,71 | 19.890,97 |
+| 321 | 4 | FUSIÓN ESPINAL CERVICAL Y OTROS PROC. DE LA ESPALDA/CUELLO EXCEPTO ESCISIÓN/DESCOMP. DISCAL - NS4. | 45.073,03 | 36.058,42 |
+| 347 | 1 | OTROS PROBLEMAS DE LA ESPALDA Y CUELLO, FRACTURAS Y HERIDAS (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 2.868,89 | 2.295,11 |
+| 347 | 2 | OTROS PROBLEMAS DE LA ESPALDA Y CUELLO, FRACTURAS Y HERIDAS (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 4.323,13 | 3.458,50 |
+| 347 | 3 | OTROS PROBLEMAS DE LA ESPALDA Y CUELLO, FRACTURAS Y HERIDAS (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 6.950,39 | 5.560,31 |
+| 347 | 4 | OTROS PROBLEMAS DE LA ESPALDA Y CUELLO, FRACTURAS Y HERIDAS (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 13.131,53 | 10.505,22 |
+| 361 | 1 | INJERTO PIEL PARA DIAGNÓSTICOS PIEL Y TEJIDO SUBCUTÁNEO - NS1. | 5.254,32 | 4.203,46 |
+| 361 | 2 | INJERTO PIEL PARA DIAGNÓSTICOS PIEL Y TEJIDO SUBCUTÁNEO - NS2. | 9.119,06 | 7.295,25 |
+| 361 | 3 | INJERTO PIEL PARA DIAGNÓSTICOS PIEL Y TEJIDO SUBCUTÁNEO - NS3. | 19.938,16 | 15.950,53 |
+| 361 | 4 | INJERTO PIEL PARA DIAGNÓSTICOS PIEL Y TEJIDO SUBCUTÁNEO - NS4. | 29.046,77 | 23.237,42 |
+| 364 | 1 | OTROS PROCEDIMIENTOS SOBRE PIEL, TEJIDO SUBCUTÁNEO Y RELACIONADOS - NS1. | 3.896,27 | 3.117,02 |
+| 364 | 2 | OTROS PROCEDIMIENTOS SOBRE PIEL, TEJIDO SUBCUTÁNEO Y RELACIONADOS - NS2. | 6.668,03 | 5.334,42 |
+| 364 | 3 | OTROS PROCEDIMIENTOS SOBRE PIEL, TEJIDO SUBCUTÁNEO Y RELACIONADOS - NS3. | 14.892,01 | 11.913,61 |
+| 364 | 4 | OTROS PROCEDIMIENTOS SOBRE PIEL, TEJIDO SUBCUTÁNEO Y RELACIONADOS - NS4. | 21.029,56 | 16.823,65 |
+| 381 | 1 | TRASTORNOS MAYORES DE LA PIEL - NS1. | 2.928,18 | 2.342,54 |
+| 381 | 2 | TRASTORNOS MAYORES DE LA PIEL - NS2. | 4.383,95 | 3.507,16 |
+| 381 | 3 | TRASTORNOS MAYORES DE LA PIEL - NS3. | 7.277,70 | 5.822,16 |
+| 381 | 4 | TRASTORNOS MAYORES DE LA PIEL - NS4. | 15.121,34 | 12.097,07 |
+| 383 | 1 | CELULITIS Y OTRAS INFECCIONES DE PIEL - NS1. | 2.606,19 | 2.084,95 |
+| 383 | 2 | CELULITIS Y OTRAS INFECCIONES DE PIEL - NS2. | 3.902,74 | 3.122,19 |
+| 383 | 3 | CELULITIS Y OTRAS INFECCIONES DE PIEL - NS3. | 5.787,47 | 4.629,98 |
+| 383 | 4 | CELULITIS Y OTRAS INFECCIONES DE PIEL - NS4. | 9.800,78 | 7.840,62 |
+| 385 | 1 | OTRAS ENFERMEDADES DE PIEL, TEJIDO SUBCUTÁNEO Y MAMA - NS1. | 2.724,14 | 2.179,31 |
+| 385 | 2 | OTRAS ENFERMEDADES DE PIEL, TEJIDO SUBCUTÁNEO Y MAMA - NS2. | 3.868,16 | 3.094,53 |
+| 385 | 3 | OTRAS ENFERMEDADES DE PIEL, TEJIDO SUBCUTÁNEO Y MAMA - NS3. | 5.678,57 | 4.542,86 |
+| 385 | 4 | OTRAS ENFERMEDADES DE PIEL, TEJIDO SUBCUTÁNEO Y MAMA - NS4. | 12.964,39 | 10.371,51 |
+| 401 | 1 | PROCEDIMIENTOS SOBRE GLÁNDULA ADRENAL (EXCEPTO CÁNCER ADRENOCORTICAL ADULTOS Y NIÑOS). | 6.732,40 | 5.385,92 |
+| 401 | 2 | PROCEDIMIENTOS SOBRE GLÁNDULA ADRENAL (EXCEPTO CÁNCER ADRENOCORTICAL ADULTOS Y NIÑOS). | 11.355,24 | 9.084,19 |
+| 401 | 3 | PROCEDIMIENTOS SOBRE GLÁNDULA ADRENAL (EXCEPTO CÁNCER ADRENOCORTICAL ADULTOS Y NIÑOS). | 13.898,08 | 11.118,46 |
+| 401 | 4 | PROCEDIMIENTOS SOBRE GLÁNDULA ADRENAL (EXCEPTO CÁNCER ADRENOCORTICAL ADULTOS Y NIÑOS). | 29.438,55 | 23.550,84 |
+| 403 | 1 | PROCEDIMIENTOS QUIRÚRGICOS PARA OBESIDAD - NS1. | 6.288,17 | 5.030,54 |
+| 403 | 2 | PROCEDIMIENTOS QUIRÚRGICOS PARA OBESIDAD - NS2. | 7.283,97 | 5.827,18 |
+| 403 | 3 | PROCEDIMIENTOS QUIRÚRGICOS PARA OBESIDAD - NS3. | 12.443,14 | 9.954,51 |
+| 403 | 4 | PROCEDIMIENTOS QUIRÚRGICOS PARA OBESIDAD - NS4. | 33.828,31 | 27.062,65 |
+| 404 | 1 | PROCEDIMIENTOS SOBRE TIROIDES, PARATIROIDES Y TRACTO TIROGLOSO (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 4.431,51 | 3.545,21 |
+| 404 | 2 | PROCEDIMIENTOS SOBRE TIROIDES, PARATIROIDES Y TRACTO TIROGLOSO (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 6.035,76 | 4.828,61 |
+| 404 | 3 | PROCEDIMIENTOS SOBRE TIROIDES, PARATIROIDES Y TRACTO TIROGLOSO (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 11.365,55 | 9.092,44 |
+| 404 | 4 | PROCEDIMIENTOS SOBRE TIROIDES, PARATIROIDES Y TRACTO TIROGLOSO (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 27.042,73 | 21.634,18 |
+| 405 | 1 | OTROS PROCEDIMIENTOS ENDOCRINOS, NUTRICIONALES Y METABÓLICOS - NS1. | 6.069,09 | 4.855,27 |
+| 405 | 2 | OTROS PROCEDIMIENTOS ENDOCRINOS, NUTRICIONALES Y METABÓLICOS - NS2. | 10.466,65 | 8.373,32 |
+| 405 | 3 | OTROS PROCEDIMIENTOS ENDOCRINOS, NUTRICIONALES Y METABÓLICOS - NS3. | 17.867,16 | 14.293,73 |
+| 405 | 4 | OTROS PROCEDIMIENTOS ENDOCRINOS, NUTRICIONALES Y METABÓLICOS - NS4. | 26.750,92 | 21.400,74 |
+| 422 | 1 | HIPOVOLEMIA Y TRASTORNOS ELECTROLÍTICOS RELACIONADOS - NS1. | 2.313,54 | 1.850,83 |
+| 422 | 2 | HIPOVOLEMIA Y TRASTORNOS ELECTROLÍTICOS RELACIONADOS - NS2. | 3.044,48 | 2.435,58 |
+| 422 | 3 | HIPOVOLEMIA Y TRASTORNOS ELECTROLÍTICOS RELACIONADOS - NS3. | 4.736,46 | 3.789,17 |
+| 422 | 4 | HIPOVOLEMIA Y TRASTORNOS ELECTROLÍTICOS RELACIONADOS - NS4. | 5.945,18 | 4.756,14 |
+| 425 | 1 | OTROS TRASTORNOS ELECTROLÍTICOS NO HIPOVOLÉMICOS - NS1. | 2.482,79 | 1.986,23 |
+| 425 | 2 | OTROS TRASTORNOS ELECTROLÍTICOS NO HIPOVOLÉMICOS - NS2. | 3.485,51 | 2.788,41 |
+| 425 | 3 | OTROS TRASTORNOS ELECTROLÍTICOS NO HIPOVOLÉMICOS - NS3. | 5.130,51 | 4.104,41 |
+| 425 | 4 | OTROS TRASTORNOS ELECTROLÍTICOS NO HIPOVOLÉMICOS - NS4. | 8.422,32 | 6.737,86 |
+| 426 | 1 | TRASTORNOS DEL SODIO NO HIPOVOLÉMICOS - NS1. | 2.541,29 | 2.033,03 |
+| 426 | 2 | TRASTORNOS DEL SODIO NO HIPOVOLÉMICOS - NS2. | 3.475,55 | 2.780,44 |
+| 426 | 3 | TRASTORNOS DEL SODIO NO HIPOVOLÉMICOS - NS3. | 5.208,57 | 4.166,86 |
+| 426 | 4 | TRASTORNOS DEL SODIO NO HIPOVOLÉMICOS - NS4. | 8.558,55 | 6.846,84 |
+| 427 | 1 | TRASTORNOS DE LA TIROIDES (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 2.039,03 | 1.631,22 |
+| 427 | 2 | TRASTORNOS DE LA TIROIDES (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 3.031,60 | 2.425,28 |
+| 427 | 3 | TRASTORNOS DE LA TIROIDES (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 6.323,67 | 5.058,94 |
+| 427 | 4 | TRASTORNOS DE LA TIROIDES (EXCEPTO CÁNCER DE TIROIDES COMPLEJO). | 7.451,83 | 5.961,46 |
+| 440 | 1 | TRASPLANTE RENAL (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 17.665,86 | 14.132,69 |
+| 440 | 2 | TRASPLANTE RENAL (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 20.262,19 | 16.209,75 |
+| 440 | 3 | TRASPLANTE RENAL (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 28.326,62 | 22.661,30 |
+| 440 | 4 | TRASPLANTE RENAL (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 43.477,61 | 34.782,09 |
+| 441 | 1 | PROCEDIMIENTOS MAYORES SOBRE VEJIGA (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA). | 7.356,32 | 5.885,06 |
+| 441 | 2 | PROCEDIMIENTOS MAYORES SOBRE VEJIGA (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA). | 15.267,21 | 12.213,77 |
+| 441 | 3 | PROCEDIMIENTOS MAYORES SOBRE VEJIGA (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA). | 20.388,07 | 16.310,46 |
+| 441 | 4 | PROCEDIMIENTOS MAYORES SOBRE VEJIGA (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA). | 37.540,51 | 30.032,41 |
+| 442 | 1 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR NEOPLASIA (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 6.522,24 | 5.217,79 |
+| 442 | 2 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR NEOPLASIA (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 8.301,13 | 6.640,90 |
+| 442 | 3 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR NEOPLASIA (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 14.508,43 | 11.606,74 |
+| 442 | 4 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR NEOPLASIA (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 29.647,32 | 23.717,86 |
+| 443 | 1 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR PROCESOS NO MALIGNOS (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 3.569,70 | 2.855,76 |
+| 443 | 2 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR PROCESOS NO MALIGNOS (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 5.118,74 | 4.094,99 |
+| 443 | 3 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR PROCESOS NO MALIGNOS (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 10.078,91 | 8.063,13 |
+| 443 | 4 | PROCEDIMIENTOS SOBRE RIÑÓN Y TRACTO URINARIO POR PROCESOS NO MALIGNOS (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 18.250,27 | 14.600,22 |
+| 446 | 1 | PROCEDIMIENTOS URETRALES Y TRANSURETRALES (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 2.543,14 | 2.034,51 |
+| 446 | 2 | PROCEDIMIENTOS URETRALES Y TRANSURETRALES (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 3.562,63 | 2.850,10 |
+| 446 | 3 | PROCEDIMIENTOS URETRALES Y TRANSURETRALES (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 7.199,38 | 5.759,50 |
+| 446 | 4 | PROCEDIMIENTOS URETRALES Y TRANSURETRALES (EXCEPTO COMPLEJO EXTROFIA-EPISPADIAS (EXTROFIA VESICAL, EPISPADIAS Y EXTROFIA DE CLOACA) Y CIRUGÍA RECONSTRUCTIVA URETRAL COMPLEJA DEL ADULTO). | 14.465,20 | 11.572,16 |
+| 461 | 1 | NEOPLASIAS DE RIÑÓN Y TRACTO URINARIO (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 2.522,27 | 2.017,82 |
+| 461 | 2 | NEOPLASIAS DE RIÑÓN Y TRACTO URINARIO (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 3.743,10 | 2.994,48 |
+| 461 | 3 | NEOPLASIAS DE RIÑÓN Y TRACTO URINARIO (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 6.255,74 | 5.004,59 |
+| 461 | 4 | NEOPLASIAS DE RIÑÓN Y TRACTO URINARIO (EXCEPTO TUMORES RENALES PEDIÁTRICOS Y TUMORES RENALES CON AFECTACIÓN VASCULAR). | 9.622,18 | 7.697,74 |
+| 466 | 1 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO QUIRÚRGICO GENITOURINARIO (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 2.059,20 | 1.647,36 |
+| 466 | 2 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO QUIRÚRGICO GENITOURINARIO (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 3.078,96 | 2.463,17 |
+| 466 | 3 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO QUIRÚRGICO GENITOURINARIO (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 5.205,44 | 4.164,35 |
+| 466 | 4 | MALFUNCIONAMIENTO, REACCIÓN O COMPLICACIÓN DE DISPOSITIVO QUIRÚRGICO GENITOURINARIO (EXCEPTO TRASPLANTE RENAL PEDIÁTRICO Y TRASPLANTE RENAL QUIRÚRGICAMENTE COMPLEJO EN ADULTOS). | 9.836,20 | 7.868,96 |
+| 469 | 1 | DAÑO AGUDO DE RINÓN (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 2.902,98 | 2.322,38 |
+| 469 | 2 | DAÑO AGUDO DE RINÓN (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 3.987,54 | 3.190,03 |
+| 469 | 3 | DAÑO AGUDO DE RINÓN (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 6.033,27 | 4.826,62 |
+| 469 | 4 | DAÑO AGUDO DE RINÓN (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 10.320,59 | 8.256,47 |
+| 480 | 1 | PROCEDIMIENTOS MAYORES SOBRE PELVIS MASCULINA - (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 7.259,22 | 5.807,38 |
+| 480 | 2 | PROCEDIMIENTOS MAYORES SOBRE PELVIS MASCULINA - (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 8.548,84 | 6.839,07 |
+| 480 | 3 | PROCEDIMIENTOS MAYORES SOBRE PELVIS MASCULINA - (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 13.129,94 | 10.503,95 |
+| 480 | 4 | PROCEDIMIENTOS MAYORES SOBRE PELVIS MASCULINA - (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 24.375,37 | 19.500,30 |
+| 483 | 1 | PROCEDIMIENTOS SOBRE PENE, TESTÍCULOS Y ESCROTO - NS1. | 3.363,53 | 2.690,82 |
+| 483 | 2 | PROCEDIMIENTOS SOBRE PENE, TESTÍCULOS Y ESCROTO - NS2. | 5.385,31 | 4.308,25 |
+| 483 | 3 | PROCEDIMIENTOS SOBRE PENE, TESTÍCULOS Y ESCROTO - NS3. | 10.137,85 | 8.110,28 |
+| 483 | 4 | PROCEDIMIENTOS SOBRE PENE, TESTÍCULOS Y ESCROTO - NS4. | 24.807,29 | 19.845,83 |
+| 484 | 1 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 4.483,37 | 3.586,70 |
+| 484 | 2 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 4.770,99 | 3.816,79 |
+| 484 | 3 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 8.292,59 | 6.634,07 |
+| 484 | 4 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 18.823,44 | 15.058,75 |
+| 500 | 1 | NEOPLASIAS DE APARATO GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 2.265,06 | 1.812,05 |
+| 500 | 2 | NEOPLASIAS DE APARATO GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 3.834,33 | 3.067,46 |
+| 500 | 3 | NEOPLASIAS DE APARATO GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 5.794,46 | 4.635,57 |
+| 500 | 4 | NEOPLASIAS DE APARATO GENITAL MASCULINO (EXCEPTO PATOLOGÍAS Y PROCEDIMIENTOS CORRESPONDIENTES AL ANEXO III ). | 7.104,31 | 5.683,45 |
+| 511 | 1 | PROC. SOBRE ÚTERO Y ANEJOS POR NEOPLASIA MALIGNA DE OVARIO O ANEJOS (EXCEPTO TUMORES GERMINALES DE RIESGO ALTO E INTERMEDIO Y RESISTENTES A QUIMIOTERAPIA DE PRIMERA LÍNEA EN ADULTOS)-. | 7.699,90 | 6.159,92 |
+| 511 | 2 | PROC. SOBRE ÚTERO Y ANEJOS POR NEOPLASIA MALIGNA DE OVARIO O ANEJOS (EXCEPTO TUMORES GERMINALES DE RIESGO ALTO E INTERMEDIO Y RESISTENTES A QUIMIOTERAPIA DE PRIMERA LÍNEA EN ADULTOS)-. | 10.582,29 | 8.465,83 |
+| 511 | 3 | PROC. SOBRE ÚTERO Y ANEJOS POR NEOPLASIA MALIGNA DE OVARIO O ANEJOS (EXCEPTO TUMORES GERMINALES DE RIESGO ALTO E INTERMEDIO Y RESISTENTES A QUIMIOTERAPIA DE PRIMERA LÍNEA EN ADULTOS)-. | 17.082,18 | 13.665,74 |
+| 511 | 4 | PROC. SOBRE ÚTERO Y ANEJOS POR NEOPLASIA MALIGNA DE OVARIO O ANEJOS (EXCEPTO TUMORES GERMINALES DE RIESGO ALTO E INTERMEDIO Y RESISTENTES A QUIMIOTERAPIA DE PRIMERA LÍNEA EN ADULTOS)-. | 33.090,20 | 26.472,16 |
+| 518 | 1 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL FEMENINO - NS1. | 3.492,16 | 2.793,73 |
+| 518 | 2 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL FEMENINO - NS2. | 5.850,94 | 4.680,75 |
+| 518 | 3 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL FEMENINO - NS3. | 15.073,47 | 12.058,78 |
+| 518 | 4 | OTROS PROC. QUIRÚRGICOS DE AP. GENITAL FEMENINO - NS4. | 35.458,97 | 28.367,18 |
+| 519 | 1 | PROC. SOBRE ÚTERO Y ANEJOS PARA LEIOMIOMA - NS1. | 5.760,44 | 4.608,35 |
+| 519 | 2 | PROC. SOBRE ÚTERO Y ANEJOS PARA LEIOMIOMA - NS2. | 7.005,98 | 5.604,78 |
+| 519 | 3 | PROC. SOBRE ÚTERO Y ANEJOS PARA LEIOMIOMA - NS3. | 10.214,93 | 8.171,94 |
+| 519 | 4 | PROC. SOBRE ÚTERO Y ANEJOS PARA LEIOMIOMA - NS4. | 22.034,05 | 17.627,24 |
+| 530 | 1 | TRASTORNOS MALIGNOS DEL SISTEMA REPRODUCTOR FEMENINO - NS1. | 2.861,46 | 2.289,17 |
+| 530 | 2 | TRASTORNOS MALIGNOS DEL SISTEMA REPRODUCTOR FEMENINO - NS2. | 3.863,06 | 3.090,45 |
+| 530 | 3 | TRASTORNOS MALIGNOS DEL SISTEMA REPRODUCTOR FEMENINO - NS3. | 5.781,08 | 4.624,86 |
+| 530 | 4 | TRASTORNOS MALIGNOS DEL SISTEMA REPRODUCTOR FEMENINO - NS4. | 8.590,04 | 6.872,03 |
+| 580 | 1 | NEONATO, TRASLADADO CON <5 DÍAS, NO NACIDO EN EL CENTRO - NS1. | 842,27 | 673,82 |
+| 580 | 2 | NEONATO, TRASLADADO CON <5 DÍAS, NO NACIDO EN EL CENTRO - NS2. | 881,17 | 704,94 |
+| 580 | 3 | NEONATO, TRASLADADO CON <5 DÍAS, NO NACIDO EN EL CENTRO - NS3. | 1.004,50 | 803,60 |
+| 580 | 4 | NEONATO, TRASLADADO CON <5 DÍAS, NO NACIDO EN EL CENTRO - NS4. | 1.311,00 | 1.048,80 |
+| 581 | 1 | NEONATO, TRASLADADO CON <5 DÍAS, NACIDO EN EL CENTRO - NS1. | 770,32 | 616,26 |
+| 581 | 2 | NEONATO, TRASLADADO CON <5 DÍAS, NACIDO EN EL CENTRO - NS2. | 779,07 | 623,26 |
+| 581 | 3 | NEONATO, TRASLADADO CON <5 DÍAS, NACIDO EN EL CENTRO - NS3. | 779,07 | 623,26 |
+| 581 | 4 | NEONATO, TRASLADADO CON <5 DÍAS, NACIDO EN EL CENTRO - NS4. | 779,07 | 623,26 |
+| 583 | 1 | NEONATO CON OXIGENACIÓN MEMBRANA EXTRACORPÓREA - NS1. | 45.589,02 | 36.471,22 |
+| 583 | 2 | NEONATO CON OXIGENACIÓN MEMBRANA EXTRACORPÓREA - NS2. | 45.589,02 | 36.471,22 |
+| 583 | 3 | NEONATO CON OXIGENACIÓN MEMBRANA EXTRACORPÓREA - NS3. | 45.589,02 | 36.471,22 |
+| 583 | 4 | NEONATO CON OXIGENACIÓN MEMBRANA EXTRACORPÓREA - NS4. | 99.822,62 | 79.858,10 |
+| 588 | 1 | NEONATO, PESO AL NACER < 1500 G, CON PROCEDIMIENTO MAYOR - NS2. | 64.936,09 | 51.948,87 |
+| 588 | 2 | NEONATO, PESO AL NACER < 1500 G, CON PROCEDIMIENTO MAYOR - NS2. | 64.936,09 | 51.948,87 |
+| 588 | 3 | NEONATO, PESO AL NACER < 1500 G, CON PROCEDIMIENTO MAYOR - NS3. | 65.783,72 | 52.626,97 |
+| 588 | 4 | NEONATO, PESO AL NACER < 1500 G, CON PROCEDIMIENTO MAYOR - NS4. | 86.694,74 | 69.355,79 |
+| 589 | 1 | NEONATO, PESO AL NACER <500 G Ó <24 SEM. GESTACIÓN - NS1. | 30.885,11 | 24.708,08 |
+| 589 | 2 | NEONATO, PESO AL NACER <500 G Ó <24 SEM. GESTACIÓN - NS2. | 30.885,11 | 24.708,08 |
+| 589 | 3 | NEONATO, PESO AL NACER <500 G Ó <24 SEM. GESTACIÓN - NS3. | 30.885,11 | 24.708,08 |
+| 589 | 4 | NEONATO, PESO AL NACER <500 G Ó <24 SEM. GESTACIÓN - NS4. | 30.885,11 | 24.708,08 |
+| 591 | 1 | NEONATO, PESO AL NACER 500-749 G, SIN PROCEDIMIENTO MAYOR - NS1. | 15.766,80 | 12.613,44 |
+| 591 | 2 | NEONATO, PESO AL NACER 500-749 G, SIN PROCEDIMIENTO MAYOR - NS2. | 45.286,74 | 36.229,39 |
+| 591 | 3 | NEONATO, PESO AL NACER 500-749 G, SIN PROCEDIMIENTO MAYOR - NS3. | 47.203,04 | 37.762,43 |
+| 591 | 4 | NEONATO, PESO AL NACER 500-749 G, SIN PROCEDIMIENTO MAYOR - NS4. | 57.526,04 | 46.020,83 |
+| 593 | 1 | NEONATO, PESO AL NACER 750-999 G, SIN PROCEDIMIENTO MAYOR - NS1. | 33.379,44 | 26.703,55 |
+| 593 | 2 | NEONATO, PESO AL NACER 750-999 G, SIN PROCEDIMIENTO MAYOR - NS2. | 45.776,76 | 36.621,41 |
+| 593 | 3 | NEONATO, PESO AL NACER 750-999 G, SIN PROCEDIMIENTO MAYOR - NS3. | 57.167,49 | 45.733,99 |
+| 593 | 4 | NEONATO, PESO AL NACER 750-999 G, SIN PROCEDIMIENTO MAYOR - NS4. | 57.167,49 | 45.733,99 |
+| 602 | 1 | NEONATO, PESO AL NACER 1000-1249 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS1. | 26.035,88 | 20.828,70 |
+| 602 | 2 | NEONATO, PESO AL NACER 1000-1249 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS2. | 37.907,27 | 30.325,81 |
+| 602 | 3 | NEONATO, PESO AL NACER 1000-1249 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS3. | 44.596,29 | 35.677,03 |
+| 602 | 4 | NEONATO, PESO AL NACER 1000-1249 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS4. | 53.339,43 | 42.671,54 |
+| 603 | 1 | NEONATO, PESO AL NACER 1000-1249 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS1. | 26.091,88 | 20.873,50 |
+| 603 | 2 | NEONATO, PESO AL NACER 1000-1249 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS2. | 37.507,84 | 30.006,27 |
+| 603 | 3 | NEONATO, PESO AL NACER 1000-1249 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS3. | 43.448,44 | 34.758,75 |
+| 603 | 4 | NEONATO, PESO AL NACER 1000-1249 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS4. | 43.448,44 | 34.758,75 |
+| 607 | 1 | NEONATO, PESO AL NACER 1250-1499 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS1. | 23.385,93 | 18.708,75 |
+| 607 | 2 | NEONATO, PESO AL NACER 1250-1499 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS2. | 29.572,45 | 23.657,96 |
+| 607 | 3 | NEONATO, PESO AL NACER 1250-1499 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS3. | 35.335,88 | 28.268,71 |
+| 607 | 4 | NEONATO, PESO AL NACER 1250-1499 G, CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRAS MAY. RESP. U OTRAS ANOMALÍAS MAYORES - NS4. | 37.840,79 | 30.272,63 |
+| 608 | 1 | NEONATO, PESO AL NACER 1250-1499 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS1. | 20.680,05 | 16.544,04 |
+| 608 | 2 | NEONATO, PESO AL NACER 1250-1499 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS2. | 25.077,66 | 20.062,13 |
+| 608 | 3 | NEONATO, PESO AL NACER 1250-1499 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS3. | 37.520,63 | 30.016,50 |
+| 608 | 4 | NEONATO, PESO AL NACER 1250-1499 G, CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS4. | 58.097,25 | 46.477,80 |
+| 609 | 1 | NEONATO, PESO AL NACER 1500-2499 G, CON PROCEDIMIENTO MAYOR - NS1. | 22.215,37 | 17.772,30 |
+| 609 | 2 | NEONATO, PESO AL NACER 1500-2499 G, CON PROCEDIMIENTO MAYOR - NS2. | 22.215,37 | 17.772,30 |
+| 609 | 3 | NEONATO, PESO AL NACER 1500-2499 G, CON PROCEDIMIENTO MAYOR - NS3. | 41.366,87 | 33.093,50 |
+| 609 | 4 | NEONATO, PESO AL NACER 1500-2499 G, CON PROCEDIMIENTO MAYOR - NS4. | 71.015,59 | 56.812,47 |
+| 611 | 1 | NEONATO, PESO AL NACER 1500-1999 G CON ANOMALÍAS MAYORES - NS1. | 12.063,50 | 9.650,80 |
+| 611 | 2 | NEONATO, PESO AL NACER 1500-1999 G CON ANOMALÍAS MAYORES - NS2. | 18.214,30 | 14.571,44 |
+| 611 | 3 | NEONATO, PESO AL NACER 1500-1999 G CON ANOMALÍAS MAYORES - NS3. | 26.737,10 | 21.389,68 |
+| 611 | 4 | NEONATO, PESO AL NACER 1500-1999 G CON ANOMALÍAS MAYORES - NS4. | 36.810,77 | 29.448,61 |
+| 612 | 1 | NEONATO, PESO AL NACER 1500-1999 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS1. | 13.403,50 | 10.722,80 |
+| 612 | 2 | NEONATO, PESO AL NACER 1500-1999 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS2. | 21.390,76 | 17.112,61 |
+| 612 | 3 | NEONATO, PESO AL NACER 1500-1999 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS3. | 24.916,51 | 19.933,21 |
+| 612 | 4 | NEONATO, PESO AL NACER 1500-1999 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS4. | 37.029,38 | 29.623,51 |
+| 613 | 1 | NEONATO, PESO AL NACER 1500-1999 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS1. | 14.041,17 | 11.232,93 |
+| 613 | 2 | NEONATO, PESO AL NACER 1500-1999 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS2. | 17.769,72 | 14.215,77 |
+| 613 | 3 | NEONATO, PESO AL NACER 1500-1999 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS3. | 26.746,09 | 21.396,87 |
+| 613 | 4 | NEONATO, PESO AL NACER 1500-1999 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS4. | 26.746,09 | 21.396,87 |
+| 614 | 1 | NEONATO, PESO AL NACER 1500-1999 G CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS1. | 10.573,94 | 8.459,15 |
+| 614 | 2 | NEONATO, PESO AL NACER 1500-1999 G CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS2. | 16.111,56 | 12.889,25 |
+| 614 | 3 | NEONATO, PESO AL NACER 1500-1999 G CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS3. | 25.735,09 | 20.588,07 |
+| 614 | 4 | NEONATO, PESO AL NACER 1500-1999 G CON O SIN OTRA CONDICIÓN SIGNIFICATIVA - NS4. | 25.735,09 | 20.588,07 |
+| 621 | 1 | NEONATO, PESO AL NACER 2000-2499 CON ANOMALÍAS MAYORES - NS1. | 5.377,85 | 4.302,28 |
+| 621 | 2 | NEONATO, PESO AL NACER 2000-2499 CON ANOMALÍAS MAYORES - NS2. | 10.517,94 | 8.414,35 |
+| 621 | 3 | NEONATO, PESO AL NACER 2000-2499 CON ANOMALÍAS MAYORES - NS3. | 19.832,65 | 15.866,12 |
+| 621 | 4 | NEONATO, PESO AL NACER 2000-2499 CON ANOMALÍAS MAYORES - NS4. | 32.742,77 | 26.194,22 |
+| 622 | 1 | NEONATO, PESO AL NACER 2000-2499 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS1. | 6.355,21 | 5.084,17 |
+| 622 | 2 | NEONATO, PESO AL NACER 2000-2499 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS2. | 10.844,11 | 8.675,29 |
+| 622 | 3 | NEONATO, PESO AL NACER 2000-2499 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS3. | 10.844,11 | 8.675,29 |
+| 622 | 4 | NEONATO, PESO AL NACER 2000-2499 G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS4. | 19.456,05 | 15.564,84 |
+| 623 | 1 | NEONATO, PESO AL NACER 2000-2499 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS1. | 7.138,17 | 5.710,54 |
+| 623 | 2 | NEONATO, PESO AL NACER 2000-2499 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS2. | 12.343,32 | 9.874,66 |
+| 623 | 3 | NEONATO, PESO AL NACER 2000-2499 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS3. | 13.019,17 | 10.415,33 |
+| 623 | 4 | NEONATO, PESO AL NACER 2000-2499 G CON INFECCIÓN CONGÉNITA O PERINATAL - NS4. | 14.003,01 | 11.202,41 |
+| 625 | 1 | NEONATO, PESO AL NACER 2000-2499 G CON OTRA CONDICIÓN SIGNIFICATIVA - NS1. | 7.855,62 | 6.284,50 |
+| 625 | 2 | NEONATO, PESO AL NACER 2000-2499 G CON OTRA CONDICIÓN SIGNIFICATIVA - NS2. | 10.907,47 | 8.725,97 |
+| 625 | 3 | NEONATO, PESO AL NACER 2000-2499 G CON OTRA CONDICIÓN SIGNIFICATIVA - NS3. | 15.905,26 | 12.724,20 |
+| 625 | 4 | NEONATO, PESO AL NACER 2000-2499 G CON OTRA CONDICIÓN SIGNIFICATIVA - NS4. | 20.193,59 | 16.154,87 |
+| 626 | 1 | NEONATO, PESO AL NACER 2000-2499 G, NEONATO NORMAL O NEONATO CON OTROS PROBLEMAS - NS1. | 3.872,02 | 3.097,61 |
+| 626 | 2 | NEONATO, PESO AL NACER 2000-2499 G, NEONATO NORMAL O NEONATO CON OTROS PROBLEMAS - NS2. | 4.260,42 | 3.408,34 |
+| 626 | 3 | NEONATO, PESO AL NACER 2000-2499 G, NEONATO NORMAL O NEONATO CON OTROS PROBLEMAS - NS3. | 5.641,96 | 4.513,57 |
+| 626 | 4 | NEONATO, PESO AL NACER 2000-2499 G, NEONATO NORMAL O NEONATO CON OTROS PROBLEMAS - NS4. | 5.641,96 | 4.513,57 |
+| 630 | 1 | NEONATO, PESO AL NACER >2499 G CON PROCEDIMIENTO CARDIOVASCULAR MAYOR (EXCEPTO CARDIOPATÍAS COMPLEJAS). | 8.998,83 | 7.199,07 |
+| 630 | 2 | NEONATO, PESO AL NACER >2499 G CON PROCEDIMIENTO CARDIOVASCULAR MAYOR (EXCEPTO CARDIOPATÍAS COMPLEJAS). | 30.075,20 | 24.060,16 |
+| 630 | 3 | NEONATO, PESO AL NACER >2499 G CON PROCEDIMIENTO CARDIOVASCULAR MAYOR (EXCEPTO CARDIOPATÍAS COMPLEJAS). | 50.690,19 | 40.552,15 |
+| 630 | 4 | NEONATO, PESO AL NACER >2499 G CON PROCEDIMIENTO CARDIOVASCULAR MAYOR (EXCEPTO CARDIOPATÍAS COMPLEJAS). | 70.429,73 | 56.343,79 |
+| 631 | 1 | NEONATO, PESO AL NACER >2499 G CON OTROS PROCEDIMIENTOS MAYORES - NS1. | 7.114,85 | 5.691,88 |
+| 631 | 2 | NEONATO, PESO AL NACER >2499 G CON OTROS PROCEDIMIENTOS MAYORES - NS2. | 24.404,82 | 19.523,86 |
+| 631 | 3 | NEONATO, PESO AL NACER >2499 G CON OTROS PROCEDIMIENTOS MAYORES - NS3. | 39.997,24 | 31.997,79 |
+| 631 | 4 | NEONATO, PESO AL NACER >2499 G CON OTROS PROCEDIMIENTOS MAYORES - NS4. | 57.553,95 | 46.043,16 |
+| 633 | 1 | NEONATO, PESO AL NACER >2499 G CON ANOMALÍAS MAYORES - NS1. | 3.844,37 | 3.075,49 |
+| 633 | 2 | NEONATO, PESO AL NACER >2499 G CON ANOMALÍAS MAYORES - NS2. | 7.249,48 | 5.799,58 |
+| 633 | 3 | NEONATO, PESO AL NACER >2499 G CON ANOMALÍAS MAYORES - NS3. | 12.821,09 | 10.256,87 |
+| 633 | 4 | NEONATO, PESO AL NACER >2499 G CON ANOMALÍAS MAYORES - NS4. | 29.436,03 | 23.548,83 |
+| 634 | 1 | NEONATO, PESO AL NACER >2499G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS1. | 3.213,68 | 2.570,94 |
+| 634 | 2 | NEONATO, PESO AL NACER >2499G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS2. | 6.377,64 | 5.102,11 |
+| 634 | 3 | NEONATO, PESO AL NACER >2499G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS3. | 7.548,09 | 6.038,47 |
+| 634 | 4 | NEONATO, PESO AL NACER >2499G CON SÍNDROME DE DISTRESS RESPIRATORIO/OTRA CONDICIÓN RESP. MAYOR - NS4. | 17.066,98 | 13.653,59 |
+| 636 | 1 | NEONATO, PESO AL NACER > 2499G CON INFECCIÓN CONGÉNITA/PERINATAL - NS1. | 4.591,38 | 3.673,10 |
+| 636 | 2 | NEONATO, PESO AL NACER > 2499G CON INFECCIÓN CONGÉNITA/PERINATAL - NS2. | 6.820,10 | 5.456,08 |
+| 636 | 3 | NEONATO, PESO AL NACER > 2499G CON INFECCIÓN CONGÉNITA/PERINATAL - NS3. | 13.761,43 | 11.009,14 |
+| 636 | 4 | NEONATO, PESO AL NACER > 2499G CON INFECCIÓN CONGÉNITA/PERINATAL - NS4. | 18.101,87 | 14.481,50 |
+| 639 | 1 | NEONATO, PESO AL NACER >2499 G CON OTRAS CONDICIONES SIGNIFICATIVAS - NS1. | 4.024,01 | 3.219,21 |
+| 639 | 2 | NEONATO, PESO AL NACER >2499 G CON OTRAS CONDICIONES SIGNIFICATIVAS - NS2. | 6.973,13 | 5.578,51 |
+| 639 | 3 | NEONATO, PESO AL NACER >2499 G CON OTRAS CONDICIONES SIGNIFICATIVAS - NS3. | 12.417,52 | 9.934,01 |
+| 639 | 4 | NEONATO, PESO AL NACER >2499 G CON OTRAS CONDICIONES SIGNIFICATIVAS - NS4. | 17.151,14 | 13.720,92 |
+| 640 | 1 | NEONATO, PESO AL NACER >2499 G NEONATO NORMAL O NEONATO CON OTRO PROBLEMA - NS1. | 2.183,89 | 1.747,11 |
+| 640 | 2 | NEONATO, PESO AL NACER >2499 G NEONATO NORMAL O NEONATO CON OTRO PROBLEMA - NS2. | 2.405,27 | 1.924,21 |
+| 640 | 3 | NEONATO, PESO AL NACER >2499 G NEONATO NORMAL O NEONATO CON OTRO PROBLEMA - NS3. | 3.094,83 | 2.475,86 |
+| 640 | 4 | NEONATO, PESO AL NACER >2499 G NEONATO NORMAL O NEONATO CON OTRO PROBLEMA - NS4. | 10.639,83 | 8.511,87 |
+| 650 | 1 | ESPLENECTOMÍA - NS1. | 7.352,49 | 5.881,99 |
+| 650 | 2 | ESPLENECTOMÍA - NS2. | 9.835,89 | 7.868,71 |
+| 650 | 3 | ESPLENECTOMÍA - NS3. | 15.890,82 | 12.712,66 |
+| 650 | 4 | ESPLENECTOMÍA - NS4. | 31.123,71 | 24.898,97 |
+| 651 | 1 | OTROS PROCEDIMIENTOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS, (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO)-. | 3.779,68 | 3.023,75 |
+| 651 | 2 | OTROS PROCEDIMIENTOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS, (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO)-. | 6.346,06 | 5.076,85 |
+| 651 | 3 | OTROS PROCEDIMIENTOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS, (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO)-. | 11.690,14 | 9.352,11 |
+| 651 | 4 | OTROS PROCEDIMIENTOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS, (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO)-. | 34.586,79 | 27.669,43 |
+| 660 | 1 | DIAG MAYORES HEMATOLÓGICOS/INMUNOLÓGICOS EXCEPTO CRISIS POR CÉLULAS FALCIFORMES Y COAGULACIÓN (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 3.447,39 | 2.757,91 |
+| 660 | 2 | DIAG MAYORES HEMATOLÓGICOS/INMUNOLÓGICOS EXCEPTO CRISIS POR CÉLULAS FALCIFORMES Y COAGULACIÓN (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 4.395,88 | 3.516,70 |
+| 660 | 3 | DIAG MAYORES HEMATOLÓGICOS/INMUNOLÓGICOS EXCEPTO CRISIS POR CÉLULAS FALCIFORMES Y COAGULACIÓN (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 7.900,45 | 6.320,36 |
+| 660 | 4 | DIAG MAYORES HEMATOLÓGICOS/INMUNOLÓGICOS EXCEPTO CRISIS POR CÉLULAS FALCIFORMES Y COAGULACIÓN (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 18.674,92 | 14.939,94 |
+| 663 | 1 | OTRA ANEMIA Y TRASTORNOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 2.608,41 | 2.086,73 |
+| 663 | 2 | OTRA ANEMIA Y TRASTORNOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 3.818,19 | 3.054,55 |
+| 663 | 3 | OTRA ANEMIA Y TRASTORNOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 5.460,92 | 4.368,74 |
+| 663 | 4 | OTRA ANEMIA Y TRASTORNOS HEMATOLÓGICOS Y DE ÓRGANOS HEMATOPOYÉTICOS (EXCEPTO ERITROPATOLOGÍA HEREDITARIA, COAGULOPATÍAS CONGÉNITAS, SÍNDROMES DE FALLO MEDULAR CONGÉNITO). | 8.401,49 | 6.721,19 |
+| 680 | 1 | PROCEDIMIENTO QUIRÚRGICO MAYOR PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS1. | 8.678,39 | 6.942,71 |
+| 680 | 2 | PROCEDIMIENTO QUIRÚRGICO MAYOR PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS2. | 13.588,17 | 10.870,53 |
+| 680 | 3 | PROCEDIMIENTO QUIRÚRGICO MAYOR PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS3. | 24.671,57 | 19.737,26 |
+| 680 | 4 | PROCEDIMIENTO QUIRÚRGICO MAYOR PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS4. | 40.092,04 | 32.073,63 |
+| 681 | 1 | OTRO PROCEDIMIENTO QUIRÚRGICO PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS1. | 4.701,45 | 3.761,16 |
+| 681 | 2 | OTRO PROCEDIMIENTO QUIRÚRGICO PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS2. | 6.419,54 | 5.135,63 |
+| 681 | 3 | OTRO PROCEDIMIENTO QUIRÚRGICO PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS3. | 15.858,54 | 12.686,83 |
+| 681 | 4 | OTRO PROCEDIMIENTO QUIRÚRGICO PARA NEOPLASMAS LINFÁTICOS/HEMATOPOYÉTICOS/OTROS - NS4. | 29.991,81 | 23.993,45 |
+| 690 | 1 | LEUCEMIA AGUDA - NS1. | 7.156,65 | 5.725,32 |
+| 690 | 2 | LEUCEMIA AGUDA - NS2. | 13.808,32 | 11.046,66 |
+| 690 | 3 | LEUCEMIA AGUDA - NS3. | 21.825,96 | 17.460,77 |
+| 690 | 4 | LEUCEMIA AGUDA - NS4. | 33.173,09 | 26.538,47 |
+| 691 | 1 | LINFOMA, MIELOMA Y LEUCEMIA NO AGUDA - NS1. | 4.079,46 | 3.263,57 |
+| 691 | 2 | LINFOMA, MIELOMA Y LEUCEMIA NO AGUDA - NS2. | 6.945,81 | 5.556,65 |
+| 691 | 3 | LINFOMA, MIELOMA Y LEUCEMIA NO AGUDA - NS3. | 11.713,76 | 9.371,00 |
+| 691 | 4 | LINFOMA, MIELOMA Y LEUCEMIA NO AGUDA - NS4. | 19.684,77 | 15.747,82 |
+| 692 | 1 | RADIOTERAPIA - NS1. | 2.796,09 | 2.236,87 |
+| 692 | 2 | RADIOTERAPIA - NS2. | 4.484,26 | 3.587,41 |
+| 692 | 3 | RADIOTERAPIA - NS3. | 4.696,82 | 3.757,45 |
+| 692 | 4 | RADIOTERAPIA - NS4. | 6.774,72 | 5.419,78 |
+| 694 | 1 | NEOPLASIAS LINFÁTICAS Y OTRAS Y NEOPLASMAS DE COMPORTAMIENTO DUDOSO - NS1. | 3.288,63 | 2.630,91 |
+| 694 | 2 | NEOPLASIAS LINFÁTICAS Y OTRAS Y NEOPLASMAS DE COMPORTAMIENTO DUDOSO - NS2. | 4.880,51 | 3.904,41 |
+| 694 | 3 | NEOPLASIAS LINFÁTICAS Y OTRAS Y NEOPLASMAS DE COMPORTAMIENTO DUDOSO - NS3. | 6.547,25 | 5.237,80 |
+| 694 | 4 | NEOPLASIAS LINFÁTICAS Y OTRAS Y NEOPLASMAS DE COMPORTAMIENTO DUDOSO - NS4. | 12.673,42 | 10.138,74 |
+| 695 | 1 | QUIMIOTERAPIA POR LEUCEMIA AGUDA - NS1. | 4.774,08 | 3.819,27 |
+| 695 | 2 | QUIMIOTERAPIA POR LEUCEMIA AGUDA - NS2. | 4.774,08 | 3.819,27 |
+| 695 | 3 | QUIMIOTERAPIA POR LEUCEMIA AGUDA - NS3. | 13.589,74 | 10.871,79 |
+| 695 | 4 | QUIMIOTERAPIA POR LEUCEMIA AGUDA - NS4. | 28.249,68 | 22.599,74 |
+| 696 | 1 | OTRA QUIMIOTERAPIA - NS1. | 2.224,78 | 1.779,83 |
+| 696 | 2 | OTRA QUIMIOTERAPIA - NS2. | 3.095,10 | 2.476,08 |
+| 696 | 3 | OTRA QUIMIOTERAPIA - NS3. | 6.622,17 | 5.297,74 |
+| 696 | 4 | OTRA QUIMIOTERAPIA - NS4. | 16.358,06 | 13.086,44 |
+| 710 | 1 | ENFERMEDADES INFECCIOSAS Y PARASITOSIS INCLUYENDO VIH CON PROCEDIMIENTO QUIRÚRGICO - NS1. | 6.260,09 | 5.008,07 |
+| 710 | 2 | ENFERMEDADES INFECCIOSAS Y PARASITOSIS INCLUYENDO VIH CON PROCEDIMIENTO QUIRÚRGICO - NS2. | 9.844,09 | 7.875,27 |
+| 710 | 3 | ENFERMEDADES INFECCIOSAS Y PARASITOSIS INCLUYENDO VIH CON PROCEDIMIENTO QUIRÚRGICO - NS3. | 14.766,80 | 11.813,44 |
+| 710 | 4 | ENFERMEDADES INFECCIOSAS Y PARASITOSIS INCLUYENDO VIH CON PROCEDIMIENTO QUIRÚRGICO - NS4. | 25.329,09 | 20.263,27 |
+| 711 | 1 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS CON PROCEDIMIENTO QUIRÚRGICO - NS1. | 7.064,47 | 5.651,58 |
+| 711 | 2 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS CON PROCEDIMIENTO QUIRÚRGICO - NS2. | 10.338,74 | 8.270,99 |
+| 711 | 3 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS CON PROCEDIMIENTO QUIRÚRGICO - NS3. | 18.015,16 | 14.412,13 |
+| 711 | 4 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS CON PROCEDIMIENTO QUIRÚRGICO - NS4. | 29.689,60 | 23.751,68 |
+| 720 | 1 | SEPTICEMIA E INFECCIONES DISEMINADAS - NS1. | 3.527,02 | 2.821,62 |
+| 720 | 2 | SEPTICEMIA E INFECCIONES DISEMINADAS - NS2. | 4.521,84 | 3.617,47 |
+| 720 | 3 | SEPTICEMIA E INFECCIONES DISEMINADAS - NS3. | 6.274,61 | 5.019,69 |
+| 720 | 4 | SEPTICEMIA E INFECCIONES DISEMINADAS - NS4. | 9.570,00 | 7.656,00 |
+| 721 | 1 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS - NS1. | 4.200,11 | 3.360,09 |
+| 721 | 2 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS - NS2. | 5.246,80 | 4.197,44 |
+| 721 | 3 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS - NS3. | 7.499,44 | 5.999,55 |
+| 721 | 4 | INFECCIONES POSTOPERATORIAS, POSTRAUMÁTICAS Y DE OTROS DISPOSITIVOS - NS4. | 13.282,74 | 10.626,20 |
+| 740 | 1 | DIAGNÓSTICO DE ENFERMEDAD MENTAL CON PROCEDIMIENTO QUIRÚRGICO - NS1. | 6.874,61 | 5.499,69 |
+| 740 | 2 | DIAGNÓSTICO DE ENFERMEDAD MENTAL CON PROCEDIMIENTO QUIRÚRGICO - NS2. | 12.902,98 | 10.322,39 |
+| 740 | 3 | DIAGNÓSTICO DE ENFERMEDAD MENTAL CON PROCEDIMIENTO QUIRÚRGICO - NS3. | 19.322,95 | 15.458,36 |
+| 740 | 4 | DIAGNÓSTICO DE ENFERMEDAD MENTAL CON PROCEDIMIENTO QUIRÚRGICO - NS4. | 33.155,86 | 26.524,69 |
+| 759 | 1 | TRASTORNO ALIMENTARIO (EXCEPTO TRASTORNOS DE CONDUCTA DE ALIMENTACIÓN DE LA PRIMERA INFANCIA CON DISPOSITIVOS DE SOPORTE ARTIFICIAL ) - NS1. | 13.133,97 | 10.507,18 |
+| 759 | 2 | TRASTORNO ALIMENTARIO (EXCEPTO TRASTORNOS DE CONDUCTA DE ALIMENTACIÓN DE LA PRIMERA INFANCIA CON DISPOSITIVOS DE SOPORTE ARTIFICIAL ) - NS2. | 15.586,08 | 12.468,86 |
+| 759 | 3 | TRASTORNO ALIMENTARIO (EXCEPTO TRASTORNOS DE CONDUCTA DE ALIMENTACIÓN DE LA PRIMERA INFANCIA CON DISPOSITIVOS DE SOPORTE ARTIFICIAL ) - NS3. | 21.100,27 | 16.880,21 |
+| 759 | 4 | TRASTORNO ALIMENTARIO (EXCEPTO TRASTORNOS DE CONDUCTA DE ALIMENTACIÓN DE LA PRIMERA INFANCIA CON DISPOSITIVOS DE SOPORTE ARTIFICIAL ) - NS4. | 26.730,46 | 21.384,37 |
+| 850 | 1 | PROCEDIMIENTO CON DIAG. DE REHAB, CUIDADOS POSTERIORES U OTRO CONTACTO CON SERVICIOS SANITARIOS - NS1. | 4.735,21 | 3.788,16 |
+| 850 | 2 | PROCEDIMIENTO CON DIAG. DE REHAB, CUIDADOS POSTERIORES U OTRO CONTACTO CON SERVICIOS SANITARIOS - NS2. | 7.414,49 | 5.931,59 |
+| 850 | 3 | PROCEDIMIENTO CON DIAG. DE REHAB, CUIDADOS POSTERIORES U OTRO CONTACTO CON SERVICIOS SANITARIOS - NS3. | 14.428,80 | 11.543,04 |
+| 850 | 4 | PROCEDIMIENTO CON DIAG. DE REHAB, CUIDADOS POSTERIORES U OTRO CONTACTO CON SERVICIOS SANITARIOS - NS4. | 28.796,95 | 23.037,56 |
+| 860 | 1 | REHABILITACIÓN - NS1. | 10.667,20 | 8.533,76 |
+| 860 | 2 | REHABILITACIÓN - NS2. | 13.291,66 | 10.633,33 |
+| 860 | 3 | REHABILITACIÓN - NS3. | 17.062,06 | 13.649,65 |
+| 860 | 4 | REHABILITACIÓN - NS4. | 18.305,54 | 14.644,43 |
+| 863 | 1 | CUIDADOS POSTERIORES NEONATALES - NS1. | 6.675,89 | 5.340,71 |
+| 863 | 2 | CUIDADOS POSTERIORES NEONATALES - NS2. | 12.242,97 | 9.794,37 |
+| 863 | 3 | CUIDADOS POSTERIORES NEONATALES - NS3. | 18.382,80 | 14.706,24 |
+| 863 | 4 | CUIDADOS POSTERIORES NEONATALES - NS4. | 26.481,48 | 21.185,19 |
+| 890 | 1 | VIH CON MÚLTIPLES CONDICIONES MAYORES RELACIONADAS CON VIH - NS1. | 1.769,50 | 1.415,60 |
+| 890 | 2 | VIH CON MÚLTIPLES CONDICIONES MAYORES RELACIONADAS CON VIH - NS2. | 8.890,28 | 7.112,23 |
+| 890 | 3 | VIH CON MÚLTIPLES CONDICIONES MAYORES RELACIONADAS CON VIH - NS3. | 10.544,52 | 8.435,62 |
+| 890 | 4 | VIH CON MÚLTIPLES CONDICIONES MAYORES RELACIONADAS CON VIH - NS4. | 17.654,78 | 14.123,83 |
+| 892 | 1 | VIH CON CONDICIONES MAYORES RELACIONADAS CON VIH - NS1. | 3.521,48 | 2.817,19 |
+| 892 | 2 | VIH CON CONDICIONES MAYORES RELACIONADAS CON VIH - NS2. | 5.239,68 | 4.191,74 |
+| 892 | 3 | VIH CON CONDICIONES MAYORES RELACIONADAS CON VIH - NS3. | 7.426,65 | 5.941,32 |
+| 892 | 4 | VIH CON CONDICIONES MAYORES RELACIONADAS CON VIH - NS4. | 12.321,61 | 9.857,29 |
+| 893 | 1 | VIH CON MÚLTIPLES CONDICIONES SIGNIFICATIVAS MAYORES RELACIONADAS CON VIH - NS1. | 3.381,54 | 2.705,23 |
+| 893 | 2 | VIH CON MÚLTIPLES CONDICIONES SIGNIFICATIVAS MAYORES RELACIONADAS CON VIH - NS2. | 6.381,34 | 5.105,07 |
+| 893 | 3 | VIH CON MÚLTIPLES CONDICIONES SIGNIFICATIVAS MAYORES RELACIONADAS CON VIH - NS3. | 9.378,04 | 7.502,43 |
+| 893 | 4 | VIH CON MÚLTIPLES CONDICIONES SIGNIFICATIVAS MAYORES RELACIONADAS CON VIH - NS4. | 9.378,04 | 7.502,43 |
+| 894 | 1 | VIH CON UNA CONDICIÓN SIGNIFICATIVA VIH O SIN CONDICIÓN SIGNIFICATIVA RELACIONADA - NS1. | 2.927,46 | 2.341,96 |
+| 894 | 2 | VIH CON UNA CONDICIÓN SIGNIFICATIVA VIH O SIN CONDICIÓN SIGNIFICATIVA RELACIONADA - NS2. | 4.203,53 | 3.362,82 |
+| 894 | 3 | VIH CON UNA CONDICIÓN SIGNIFICATIVA VIH O SIN CONDICIÓN SIGNIFICATIVA RELACIONADA - NS3. | 6.248,11 | 4.998,48 |
+| 894 | 4 | VIH CON UNA CONDICIÓN SIGNIFICATIVA VIH O SIN CONDICIÓN SIGNIFICATIVA RELACIONADA - NS4. | 9.320,45 | 7.456,36 |
+| 910 | 1 | CRANEOTOMÍA POR TRAUMA MÚLTIPLE SIGNIFICATIVO - NS1. | 20.391,02 | 16.312,82 |
+| 910 | 2 | CRANEOTOMÍA POR TRAUMA MÚLTIPLE SIGNIFICATIVO - NS2. | 20.391,02 | 16.312,82 |
+| 910 | 3 | CRANEOTOMÍA POR TRAUMA MÚLTIPLE SIGNIFICATIVO - NS3. | 34.044,13 | 27.235,30 |
+| 910 | 4 | CRANEOTOMÍA POR TRAUMA MÚLTIPLE SIGNIFICATIVO - NS4. | 46.681,92 | 37.345,53 |
+| 911 | 1 | PROCEDIMIENTOS ABDOMINALES/TORÁCICOS EXTENSIVOS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS1. | 9.311,70 | 7.449,36 |
+| 911 | 2 | PROCEDIMIENTOS ABDOMINALES/TORÁCICOS EXTENSIVOS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS2. | 9.965,83 | 7.972,67 |
+| 911 | 3 | PROCEDIMIENTOS ABDOMINALES/TORÁCICOS EXTENSIVOS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS3. | 16.429,96 | 13.143,97 |
+| 911 | 4 | PROCEDIMIENTOS ABDOMINALES/TORÁCICOS EXTENSIVOS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS4. | 33.534,82 | 26.827,85 |
+| 912 | 1 | PROCEDIMIENTOS MUSCULOESQUELÉTICOS Y OTROS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS1. | 12.305,13 | 9.844,11 |
+| 912 | 2 | PROCEDIMIENTOS MUSCULOESQUELÉTICOS Y OTROS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS2. | 12.305,13 | 9.844,11 |
+| 912 | 3 | PROCEDIMIENTOS MUSCULOESQUELÉTICOS Y OTROS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS3. | 22.178,99 | 17.743,19 |
+| 912 | 4 | PROCEDIMIENTOS MUSCULOESQUELÉTICOS Y OTROS PARA TRAUMA MÚLTIPLE SIGNIFICATIVO - NS4. | 38.343,24 | 30.674,59 |
+| 930 | 1 | TRAUMA SIGNIFICATIVO MÚLTIPLE SIN PROCEDIMIENTO QUIRÚRGICO - NS1. | 3.244,53 | 2.595,63 |
+| 930 | 2 | TRAUMA SIGNIFICATIVO MÚLTIPLE SIN PROCEDIMIENTO QUIRÚRGICO - NS2. | 4.759,93 | 3.807,94 |
+| 930 | 3 | TRAUMA SIGNIFICATIVO MÚLTIPLE SIN PROCEDIMIENTO QUIRÚRGICO - NS3. | 7.434,44 | 5.947,55 |
+| 930 | 4 | TRAUMA SIGNIFICATIVO MÚLTIPLE SIN PROCEDIMIENTO QUIRÚRGICO - NS4. | 18.920,41 | 15.136,33 |
 
-> Se sustituye por el que figura como anexo I de la Orden SND/1505/2021, de 21 de diciembre, según establece su art. único.1. Ref. BOE-A-2022-62
+> Se sustituye por el que figura como anexo I de la Orden SND/976/2024, de 6 de septiembre, según establece su art. único.1. Ref. BOE-A-2024-18621
+
+> Téngase en cuenta, para su aplicación, la disposición adicional única de la citada Orden.
+
+> Se sustituye por el anexo I de la Orden SND/1505/2021, de 21 de diciembre, según establece su art. único.1. Ref. BOE-A-2022-62
 
 > Téngase en cuenta, para su aplicación, la disposición adicional única de la citada Orden.
 
