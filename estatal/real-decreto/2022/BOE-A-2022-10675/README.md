@@ -19,6 +19,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 4](a4.md)
 - [Artículo 5](a5.md)
 - [Artículo 5 bis](a5-3.md)
+- [Artículo 5 ter](a5-2.md)
+- [Artículo 5 quater](a5-4.md)
 - [Artículo 6](a6.md)
 - [Artículo 7](a7.md)
 - [Artículo 8](a8.md)
