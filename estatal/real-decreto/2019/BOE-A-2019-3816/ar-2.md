@@ -2,7 +2,7 @@
 
 A efectos del presente real decreto se entenderá por:
 
-Asistente: Persona que acude a la actividad que se desarrolle de forma presencial o que participa en las actividades que se impartan mediante “aula virtual”.
+Asistente: persona que acude a la actividad que se desarrolle de forma presencial o que participa en las actividades que se impartan mediante “aula virtual”, con la finalidad de recibir la formación.
 
 Aula virtual: Entorno de aprendizaje donde ponente y asistentes interactúan, de forma concurrente y en tiempo real, a través de un sistema de comunicación telemático de carácter síncrono que permita llevar a cabo un proceso de intercambio de conocimientos, a fin de posibilitar el aprendizaje de las personas que participan en el aula.
 
@@ -27,6 +27,8 @@ Presupuesto financiable: El que se indica en la resolución de concesión o, en 
 Programa: Distribución de las temáticas y contenidos a lo largo de la jornada, con la duración de los mismos.
 
 Proyecto: Conjunto de jornadas que comprende la subvención.
+
+> Se modifica el párrafo segundo por el art. 1.2 del Real Decreto 921/2024, de 17 de septiembre. Ref. BOE-A-2024-18619
 
 > Se modifica el párrafo séptimo por el art. único.2 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
 

@@ -18,6 +18,10 @@ e) Acceso y uso de las nuevas tecnologías aplicadas por mujeres en el medio rur
 
 4. En el proyecto presentado por cada entidad solicitante, se deberán abordar al menos tres de las temáticas recogidas en el apartado 2. No obstante lo anterior, se podrán abordar temáticas diferentes a las establecidas en el apartado 2 en hasta el 10 % del número total de actividades del proyecto, siempre que estas temáticas libres estén relacionadas con el impulso del papel de las mujeres en el desarrollo rural.
 
+5. Las presentes ayudas se sujetan al régimen previsto en el Reglamento (UE) 2023/2831 de la Comisión, de 13 de diciembre de 2023, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis.
+
+> Se añade el apartado 5 por el art. 1.1 del Real Decreto 921/2024, de 17 de septiembre. Ref. BOE-A-2024-18619
+
 > Se modifica el apartado 2 y se añade el apartado 4 por el art. único.1 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
 
 > Se modifica la letra c) del apartado 2 y el apartado 3 por el art. 1.1 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#ap

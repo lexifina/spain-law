@@ -14,7 +14,7 @@ b) El número de asistentes por actividad no podrá ser inferior a lo indicado a
 
 c) Se deberá cumplir el programa que haya sido aprobado en la resolución de concesión para cada actividad, con especial atención tanto a la duración como al contenido.
 
-d) Las actividades serán totalmente gratuitas para quienes asistan y podrán ser subvencionables los gastos de desplazamiento y manutención de las personas que asistan a las actividades de carácter presencial o mixtas (en la parte que sea presencial) previstas en estas bases reguladoras.
+d) Las actividades serán totalmente gratuitas para quienes asistan y podrán ser subvencionables los gastos de desplazamiento, alojamiento y manutención de las personas que asistan a las actividades de carácter presencial o mixtas (en la parte que sea presencial) previstas en estas bases reguladoras.
 
 e) Los ponentes que participen en las actividades deberán disponer de titulación universitaria o formación profesional de grado superior o experiencia laboral demostrable y reciente, relacionadas con la materia impartida. En la orden de convocatoria se podrán establecer especificaciones relativas a los requisitos sobre su titulación o experiencia laboral.
 
@@ -43,6 +43,8 @@ c) Los programas de las actividades podrán incluir, con carácter general, la r
 d) Se establece un porcentaje máximo del 35 % de personas mayores de sesenta y cinco años, respecto al número total de asistentes para la totalidad del proyecto. Para poder verificar este requisito las entidades solicitantes deberán aportar para cada jornada realizada el listado de firmas de las personas asistentes, que incluirá el número del DNI/NIE y la fecha de nacimiento. El órgano instructor podrá verificar estos datos conforme al Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes.
 
 e) Al menos el 80 % de quienes asistan a las actividades del proyecto serán mujeres.
+
+> Se modifica la letra d) del apartado 2 por el art. 1.3 del Real Decreto 921/2024, de 17 de septiembre. Ref. BOE-A-2024-18619
 
 > Se modifica por el art. único.5 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
 
