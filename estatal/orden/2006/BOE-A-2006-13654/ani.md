@@ -64,7 +64,7 @@ Comunidad Autónoma de Castilla y León
 
 – Embalse del Ebro. Provincia de Burgos.
 
-– Azud de Riolobos. Provincia de Salamanca
+– Azud de Riolobos. Provincia de Salamanca.
 
 Comunidad Autónoma de Castilla-La Mancha
 
@@ -80,7 +80,7 @@ Comunidad Autónoma de Castilla-La Mancha
 
 – Laguna de Manjavacas. Provincia de Cuenca.
 
-– Laguna del Hito. Provincia de Cuenca
+– Laguna del Hito. Provincia de Cuenca.
 
 – Acequilla del Henares. Provincia de Guadalajara.
 
@@ -92,9 +92,13 @@ Comunidad Autónoma de Cataluña
 
 – Delta del Ebro. Provincia de Tarragona.
 
-– Aiguamolls de l’Empordá. Provincia de Gerona.
+– Aiguamolls de l'Empordá. Provincia de Gerona.
 
 – Delta del Llobregat. Provincia de Barcelona.
+
+– Arrozales de la comarca del Baix Ebre. Provincia de Tarragona.
+
+– Arrozales de la comarca del Montsià. Provincia de Tarragona.
 
 Comunidad Valenciana
 
@@ -112,9 +116,9 @@ Comunidad Valenciana
 
 – El Prat de Cabanes. Provincia de Castellón.
 
-– La Marjal d’Almenara. Provincia de Castellón.
+– La Marjal d'Almenara. Provincia de Castellón.
 
-Comunidad Autónoma de las Illes Balears
+Comunidad Autónoma de las Illes Balears.
 
 – Albuferas del Nord de Mallorca.
 
@@ -233,6 +237,8 @@ Comunidad Autónoma de Extremadura
 – Arrozales de Gorbea. Provincias de Cáceres y Badajoz.
 
 – Embalse de García Sola. Provincias de Cáceres y Badajoz.
+
+> Se modifica por el art. único de la Orden APA/997/2024, de 13 de septiembre. Ref. BOE-A-2024-18827
 
 > Se modifica por el art. único.5 de la Orden APA/782/2022, de 5 de agosto. Ref. BOE-A-2022-13531
 
