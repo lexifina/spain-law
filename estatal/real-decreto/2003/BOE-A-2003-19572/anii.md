@@ -168,7 +168,7 @@ U.45 Cirugía maxilofacial: unidad asistencial en la que un médico especialista
 
 U.46 Cirugía plástica y reparadora: unidad asistencial en la que un médico especialista en Cirugía plástica, estética y reparadora es responsable de realizar la corrección quirúrgica de procesos congénitos, adquiridos, tumorales o involutivos que requieren reparación o reposición de estructuras superficiales que afectan a la forma y función corporal.
 
-U.47 Cirugía estética: unidad asistencial en la que un médico especialista en Cirugía plástica, estética y reparadora u otro especialista quirúrgico en el ámbito de su respectiva especialidad es responsable de realizar tratamientos quirúrgicos, con finalidad de mejora estética corporal, facial o capilar.
+U.47 Cirugía estética: unidad asistencial en la que un médico con la especialidad en Cirugía plástica, estética y reparadora u otra especialidad quirúrgica o médico-quirúrgica en el ámbito y competencias indicadas en el programa oficial de su especialidad, es responsable de realizar tratamientos quirúrgicos, con finalidad de mejora estética corporal, facial o capilar.
 
 U.48 Medicina estética: unidad asistencial en la que un médico es responsable de realizar tratamientos no quirúrgicos, con finalidad de mejora estética corporal o facial.
 
@@ -210,7 +210,7 @@ U.66 Atención sanitaria domiciliaria: unidad asistencial pluridisciplinar que, 
 
 U.67 Cuidados paliativos: unidad asistencial pluridisciplinar, con o sin equipos de cuidados domiciliarios, que bajo la responsabilidad de un médico, presta la atención a pacientes en situación terminal.
 
-U.68 Urgencias: unidad asistencial que, bajo la responsabilidad de un médico, está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata.
+U.68 Atención continuada en Atención Primaria: unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina Familiar y Comunitaria está destinada a la atención continuada de pacientes con problemas de etiología diversa y gravedad variable, en el ámbito de atención primaria.
 
 U.69. Psiquiatría: unidad asistencial en la que un médico especialista en Psiquiatría es responsable de realizar el estudio, diagnóstico, tratamiento y rehabilitación de los trastornos mentales y del comportamiento de los pacientes adultos.
 
@@ -282,7 +282,11 @@ U.102 Medicina Legal y Forense: Unidad asistencial en la que un médico/a especi
 
 U. 103. Psiquiatría Infantil y de la Adolescencia: unidad asistencial en la que un médico especialista en Psiquiatría Infantil y de la Adolescencia es responsable de realizar el estudio, diagnóstico, tratamiento y rehabilitación de los trastornos mentales incluidos los trastornos del neurodesarrollo y del comportamiento, que afectan a los niños, a los adolescentes y a sus familias.
 
-> Téngase en cuenta que la referencia U.69, modificada, y U.103, añadida por la disposición final 2.1 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266, entran en vigor el 5 de agosto de 2022, según determina su disposición final 5.
+U.104 Banco de oocitos: unidad asistencial que, bajo la responsabilidad de un facultativo integrado en el correspondiente equipo biomédico, tiene como finalidad conservar y garantizar la calidad de los oocitos para su posterior aplicación en las técnicas de reproducción humana asistida o su utilización en proyectos de investigación legalmente autorizados. Las actividades de procesamiento, preservación y almacenamiento, de oocitos propios y de donante, se entienden comprendidas en esta oferta. Cuando el banco además suministre oocitos a otros centros se autorizará de manera específica la distribución, y según corresponda, la importación o exportación. Además, desarrollan las actividades precisas para la captación, selección y evaluación de las donantes.
+
+U.105 Unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina de Urgencias y Emergencias está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata.
+
+> Téngase en cuenta que la unidad asistencial U.105, añadida por la disposición final 1.2 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418, produce efectos desde el 4 de julio de 2025, según determina su disposición final 6.
 
 U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
 
@@ -291,6 +295,16 @@ U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesio
 > Redacción anterior:
 
 > "U.900 Otras unidades asistenciales: unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica."
+
+> Se modifica la referencia U.47 por el art. único de la Orden SND/1002/2024, de 18 de septiembre. Ref. BOE-A-2024-18934
+
+> Se modifica la referencia U.68 y se añade la referencia U.105 por la disposición final 1.2 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418
+
+> Téngase en cuenta que esta modificación produce efectos desde el 4 de julio de 2025, según establece la disposición final 6 del citado Real Decreto.
+
+> Se añade la referencia U.104 por el art. 2.2 de la Orden SND/1215/2021, de 5 de noviembre. Ref. BOE-A-2021-18287
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 283, de 26 de noviembre de 2021. Ref. BOE-A-2021-19521
 
 > Se modifica la referencia U.69, y se añade la U.103, con efectos de 5 de agosto de 2022, por la disposición final 2.2 del Real Decreto 689/2021, de 3 de agosto. Ref. BOE-A-2021-13266
 
