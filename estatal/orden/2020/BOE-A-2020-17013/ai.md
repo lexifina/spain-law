@@ -2,11 +2,13 @@
 
 ## Zonas Restringidas
 
-Parte A: zona restringida frente al serotipo 1 del virus de la lengua azul
+Parte A. Zona restringida frente al serotipo 1 del virus de la lengua azul
 
 Se considerará zona restringida frente al serotipo 1 del virus de la lengua azul los siguientes territorios:
 
 1. La Comunidad Autónoma de Andalucía.
+
+2. La Comunidad Autónoma de Extremadura.
 
 Parte B: zona restringida frente al serotipo 4 del virus de la lengua azul
 
@@ -47,6 +49,8 @@ Se considerará zona restringida frente al serotipo 8 del virus de la lengua azu
 2. En la Comunidad Autónoma de Aragón: La provincia de Huesca.
 
 3. La Comunidad Autónoma de Islas Baleares.
+
+> Se modifica la parte A por Resolución de 24 de septiembre de 2024. Ref. BOE-A-2024-19366
 
 > Se modifica la parte C por Resolución de 11 de septiembre de 2024. Ref. BOE-A-2024-18389
 
