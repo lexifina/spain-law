@@ -6,77 +6,62 @@ A continuación se relacionan las materias y asignaturas susceptibles de ser imp
 
 a) Acceso por ingreso directo sin titulación universitaria previa:
 
-| Curso: 1º |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
-| FORMACIÓN MILITAR | Formación básica. | 1,5 | Formación Militar Básica I. | T |
-| 1,5 | Formación Militar Básica II. | T |
-| Topografía. | 3 | Topografía. | P |
-| Táctica y Logística. | 2 | Táctica y Logística I. | P |
-| Sistemas de armas. | 2 | Sistemas de armas terrestres I. | P |
-| Curso: 2º |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Ciencias sociales y jurídicas. | 3 | Organización de la seguridad. | P |
-| Técnica profesional e investigación. | 4 | Estatuto de la Guardia Civil I. | P |
-| 2 | Armamento y telecomunicaciones. | P |
-| Curso: 3º |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Técnica profesional e investigación. | 3 | Sistemas de gestión y documentación I. | P |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 3 | Lengua inglesa III. | P |
-| FUNDAMENTOS DE INGENIERÍA | Ingeniería electrónica. | 6 | Fundamentos de electrónica. | P |
-| Seguridad física: Infraestructuras y personal. | 3 | Dinámica de explosiones. | T |
-| 3 | Fundamentos de mecánica de fluidos. | T |
-| 6 | Protección ligera de sistemas móviles. | T |
-| 6 | Resistencia de materiales. | T |
-| Seguridad física: Electrónica y telecomunicaciones. | 3 | Sistemas sensores. | P |
-| 3 | Tecnologías aplicadas a la investigación I. | T |
-| Seguridad informática. | 6 | Técnicas de ocultación de información. | T |
-| 6 | Vulnerabilidades, amenazas y protocolos de seguridad informática. | T |
-| FORMACIÓN COMPLEMENTARIA | Ingeniería Biomédica: Ciencias forenses. | 6 | Ciencias forenses I. | P |
-| Ciencias sociales y jurídicas: Marco jurídico de la Seguridad. | 6 | Marco jurídico de la Seguridad I. | T |
-| 3 | Derecho Administrativo I. | T |
-| 3 | Derecho Administrativo II: Seguridad Pública. | T |
-| Humanidades. | 6 | Humanidades. | T |
-| Curso: 4º |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Técnica profesional e investigación. | 2 | Sistemas de gestión y documentación II. | P |
-| Ciencias sociales y jurídicas. | 4 | Seguridad ciudadana I. | P |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 2 | Lengua Inglesa IV. | P |
-| FORMACIÓN TECNOLÓGICA ESPECÍFICA | Seguridad física: Infraestructuras y personal. | 6 | Seguridad de infraestructuras frente a impacto e intrusión. | T |
-| 3 | Gestión de la seguridad física. | P |
-| Seguridad física: Electrónica y telecomunicaciones Seguridad informática. | 3 | Laboratorio de electrónica. | P |
-| 6 | Sistemas y redes de comunicación para seguridad y emergencias. | T |
-| 3 | Tratamiento de la información- policía científica. | T |
-| 6 | Administración y gestión de la seguridad de la información. | T |
-| 3 | Tecnologías aplicadas a la investigación II. | T |
-| 3 | Tecnologías aplicadas a la investigación III: Sistemas de información geográfica. | T |
-| 3 | Informática Forense. | P |
-| FORMACIÓN COMPLEMENTARIA | Ingeniería Biomédica: Ciencias Forenses. | 6 | Ciencias forenses II. | P |
-| Ciencias sociales y jurídicas: Marco jurídico. | 3 | Marco jurídico de la Seguridad II. | T |
-| Ciencias sociales y jurídicas: Economía. | 3 | Fundamentos de Economía. | T |
-| Ciencias sociales y jurídicas: Dirección Liderazgo. | 6 | Dirección y liderazgo. | P |
-| TRABAJO FIN DE GRADO | Trabajo fin de Grado. | 12 | Trabajo fin de Grado. | P |
-| Curso: 5º |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | CARÁCTER |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Ciencias jurídicas y sociales. | 5 | Seguridad ciudadana II. | P |
-| 6 | Derecho Penal I. | T |
-| 5 | Derecho Penal II. | T |
-| 5 | Derecho Procesal Penal. | P |
-| 6 | Cooperación policial y judicial internacional. | P |
-| Técnica profesional e investigación. | 3 | Estatuto de la Guardia Civil II. | P |
-| 6 | Dirección y gestión de Unidades. | P |
-| 6 | Fiscal, Fronteras e Inmigración. | P |
-| 3 | Gestión de crisis y Defensa Nacional. | P |
-| 6 | Amenaza terrorista. | P |
-| 6 | Inteligencia policial. | P |
+El carácter total (T) o parcial (P) de las asignaturas impartidas en los cursos 1.º y 2.º será el establecido para las correspondientes asignaturas contenidas en el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa, aprobado por Orden DEF/287/2024, de 18 de marzo.
+
+Curso: 3.º
+
+| Módulo | Materia | ECTS | Asignatura | Carácter |
+| --- | --- | --- | --- | --- |
+| TÉCNICAS DE MANDO. | Liderazgo. | 3 | Liderazgo III. | P |
+| CIENTÍFICO-TECNOLÓGICO. | Criminalística. | 6 | Ciencias Forenses. | P |
+| Estadística. | 3 | Análisis Estadístico del Delito. | T |
+| Tecnologías aplicadas a la Seguridad. | 3 | Tecnologías aplicadas a la Seguridad I. | T |
+| Digitalización. | 3 | Digitalización I. | P |
+| Telecomunicaciones. | 3 | Teoría de las Telecomunicaciones aplicada a la Seguridad. | T |
+| CIENCIAS SOCIALES Y JURÍDICAS. | Ciencias jurídicas. | 3 | Derecho Penal I. | T |
+| 6 | Derecho Penal II. | T |
+| TÉCNICO-PROFESIONAL. | Procedimientos aplicados a la Seguridad Pública. | 6 | Seguridad Ciudadana I. | P |
+| 6 | Sistemas de Gestión y Documentación en la Guardia Civil. | P |
+| Recursos humanos. | 6 | Estatuto de la Guardia Civil y Gestión de los RRHH I. | P |
+| CIENCIAS HUMANÍSTICAS. | Humanidades. | 3 | Historia de la Guardia Civil y Deontología Profesional. | P |
+| FORMACIÓN EN LENGUA INGLESA. | Lengua inglesa. | 6 | Lengua Inglesa III. | P |
+
+Curso: 4.º
+
+| Módulo | Materia | ECTS | Asignatura | Carácter |
+| --- | --- | --- | --- | --- |
+| CIENTÍFICO-TECNOLÓGICO. | Tecnologías aplicadas a la Seguridad. | 6 | Tecnologías aplicadas a la Seguridad II. | T |
+| Digitalización. | 3 | Digitalización II. | P |
+| CIENCIAS SOCIALES Y JURÍDICAS. | Ciencias jurídicas. | 3 | Derecho Administrativo. | T |
+| 6 | Derecho Procesal Penal. | T |
+| 3 | Instituciones y Regímenes Internacionales. | P |
+| Organización y Geopolítica. | 3 | Administración pública de la Seguridad. | T |
+| TÉCNICO-PROFESIONAL. | Procedimientos aplicados a la Seguridad Pública. | 6 | Seguridad Ciudadana II. | P |
+| 3 | Fiscal y Fronteras. | P |
+| 3 | Especialidades en la Guardia Civil. | P |
+| Recursos humanos. | 6 | Estatuto de la Guardia Civil y Gestión de los RRHH II. | P |
+| 3 | Estatuto de la Guardia Civil y Gestión de los RRHH III. | P |
+| Recursos materiales y financieros. | 6 | Gestión de recursos materiales y financieros en la Guardia Civil. | P |
+| TRABAJO FIN DE GRADO. | Trabajo Fin de Grado. | 6 | Trabajo Fin de Grado. | P |
+| FORMACIÓN EN LENGUA INGLESA. | Lengua inglesa. | 6 | Lengua Inglesa IV. | P |
+
+Curso: 5.º
+
+| Módulo | Materia | ECTS | Asignatura | Carácter |
+| --- | --- | --- | --- | --- |
+| TÉCNICAS DE MANDO. | Liderazgo. | 3 | Técnicas de Mando. | P |
+| CIENCIAS SOCIALES Y JURÍDICAS. | Organización y Geopolítica. | 5 | Geopolítica. | P |
+| Psicología. | 3 | Psicología Criminal. | P |
+| 3 | Psicología social y de las Organizaciones. | P |
+| TÉCNICO-PROFESIONAL. | Procedimientos aplicados a la Seguridad Pública. | 6 | Dirección de Unidades de la Guardia Civil. | P |
+| Procedimientos Operativos. | 3 | Inteligencia Policial. | P |
+| 6 | Amenazas. | P |
+| 6 | Cooperación Policial. | P |
 | 6 | Policía Judicial I. | P |
-| 3 | Policía Judicial II. | P |
-| 3 | Policía Judicial III. | P |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 5 | Lengua Inglesa V. | P |
+| 6 | Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen. | P |
+| 3 | Sistema de Seguridad Nacional y Gestión de Crisis. | P |
+| Prácticas Externas. | 4 | Prácticas Externas. | P |
+| Trabajo Fin de Estudios. | 6 | Trabajo Fin de Estudios. | P |
 
 b) Acceso por promoción profesional en la modalidad de cambio de escala.
 
@@ -164,5 +149,7 @@ c) Acceso por promoción profesional en la modalidad de promoción interna.
 | 6 | Tecnologías para la seguridad física. | P |
 | TRABAJO FIN DE GRADO | Trabajo fin de Grado. | 12 | Trabajo fin de Grado. | P |
 | INTRODUCTORIO | Idiomas. | 3 | Lengua Inglesa III. | P |
+
+> Se modifica el apartado a) por el art. único.16 de la Orden PJC/1030/2024, de 25 de septiembre. Ref. BOE-A-2024-19389
 
 > Se modifica el curso 1º de los apartados b) y c) por la disposición final 3.5 y 6 de la Orden PJC/849/2024, de 8 de agosto. Ref. BOE-A-2024-16600#df-3

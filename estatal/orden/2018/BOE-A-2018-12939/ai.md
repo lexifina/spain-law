@@ -1,136 +1,158 @@
 ## ANEXO I
 
-## Currículo de los alumnos que hubieran ingresado por acceso directo sin titulación universitaria previa
+## Currículo del alumnado que hubiera ingresado por acceso directo sin titulación universitaria previa
 
-A continuación se relacionan, por cursos y módulos, las materias de enseñanza que, distribuidas por asignaturas, componen el currículo de los alumnos que hubieran ingresado por acceso directo sin titulación universitaria previa:
+A continuación, se relacionan, por cursos y módulos, las materias de enseñanza que, distribuidas por asignaturas, componen el currículo del alumnado que hubiera ingresado por acceso directo sin titulación universitaria previa:
 
-| Curso: 1º |
-| --- |
-| FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD |
-| MÓDULO | MATERIA | ECTS | SEMANAS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN MILITAR | Formación básica. | 1,5 |  | Formación Militar básica I. |  |
-| 1,5 |  | Formación Militar básica II. |
-| Topografía. | 3 |  | Topografía. |  |
-| Táctica y logística. | 2 |  | Táctica y logística I. |  |
-| Sistemas de armas. | 2 |  | Sistemas de armas terrestres I. |  |
-| INSTRUCCIÓN Y ADIESTRAMIENTO | Instrucción y adiestramiento de carácter general. |  | 2 semanas | Fase de acogida, Orientación y adaptación a la vida militar. |  |
+Curso: 1.º
+
+Formación militar
+
+| Módulo | Materia | ECTS | Semanas/Horas | Asignatura | Breve descripción |
+| --- | --- | --- | --- | --- | --- |
+| INSTRUCCIÓN Y ADIESTRAMIENTO. | Instrucción y Adiestramiento de carácter general. |  | 2 semanas | Fase de acogida, Orientación y adaptación a la vida militar. |  |
 |  | 7 semanas | Instrucción y adiestramiento I. |  |
 | Formación física. |  | 3 semanas | Formación física I. |  |
 | Orden cerrado. |  | 0,5 semanas | Orden cerrado I. |  |
-| SIAE. |  | 1 semanas | Sistemas de instrucción y adiestramiento I. |  |
-| TOTALES | 10 | 13,5 |  |
-| GRADO EN INGENIERÍA DE LA SEGURIDAD |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN BÁSICA | Matemáticas. | 6 | Matemáticas I. | Cálculo diferencial. Cálculo integral. |
-| 6 | Matemáticas II. | Álgebra lineal. Geometría. |
-| Física. | 6 | Física I. | Cinemática y dinámica. Elasticidad y mecánica de fluidos. Termodinámica. |
-| 6 | Física II. | Electromagnetismo. Ondas mecánicas. Ondas electromagnéticas. |
-| Química. | 6 | Química. | Termodinámica química. Bases para la cinética química. Química aplicada a la ingeniería. |
-| Expresión Gráfica. | 6 | Expresión gráfica y diseño asistido por ordenador. | Técnicas de desarrollo de visión espacial. Geometría métrica y descriptiva. Sistemas de representación gráfica. Aplicaciones de diseño asistido por ordenador. |
-| Empresa. | 6 | Fundamentos de administración de empresas. | Economía y empresa. Procesos de administración. Planificación y toma de decisiones. Organización de la empresa. Análisis de entorno. Dirección funcional. |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 6 | Lengua Inglesa I. | Contenidos específicos adecuados al nivel B1 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional (militar). Práctica de las habilidades comunicativas correspondientes a los niveles B1/B2 y STANAG 6001 nivel funcional. |
-| TOTALES | 48 |  |
-| Curso: 2º |
-| --- |
-| FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD |
-| MÓDULO | MATERIA | ECTS | SEMANAS | ASIGNATURA | BREVE DESCRIPCIÖN |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Ciencias sociales y jurídicas. | 3 |  | Organización de la seguridad. | Sistema de seguridad pública español. Organización central y periférica. Organización del Ministerio del Interior. Administración de seguridad autonómica y local. |
-| Técnica profesional e investigación. | 4 |  | Estatuto de la Guardia Civil I. | Función pública. Régimen de Personal y normas de desarrollo. Derechos y deberes. Prevención de riesgos laborales en la Guardia Civil. |
-| 2 |  | Armamento y telecomunicaciones. | Sistemas de armas y telecomunicaciones de la Guardia Civil. Actuación operativa. Artefactos explosivos terroristas. |
-| INSTRUCCIÓN Y ADIESTRAMIENTO | Instrucción y adiestramiento de carácter general. |  | 6,5 semanas | Instrucción y adiestramiento II. |  |
+| FORMACIÓN MILITAR GENERAL. | FORMACIÓN BÁSICA. | 1,5 |  | Formación militar básica I. |  |
+| 1,5 |  | Formación militar básica II. |  |
+| FORMACIÓN MILITAR. | 2 |  | Formación militar I. |  |
+| 2,5 |  | Formación militar II. |  |
+| 2,5 |  | Formación militar III. |  |
+| TOTALES. | 101 | 12,5 |  |
+| (1) La carga de trabajo correspondiente al módulo «Formación Militar General» está repartida en diferentes asignaturas que se imparten en el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa, aprobado por Orden DEF/287/2024, de 18 de marzo. Por tanto, el total de 10 ECTS especificados en este módulo no computan en la carga de trabajo total del curso 1.º. |
+
+Formación en Grado en Ciencias de la Seguridad Pública
+
+| Módulo | Materia | ECTS | Asignatura | Breve descripción(2) |
+| --- | --- | --- | --- | --- |
+| TÉCNICAS DE MANDO. | Psicología. | 6 | Psicología. | Cambio y Liderazgo. Modelos y teorías del Liderazgo. Reales Ordenanzas de las FAS. Procesos psicosociales. Normas de Comportamiento. Protocolo y comportamiento social. Autoliderazgo. Inteligencia emocional. |
+| PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA. | Tecnología aplicada a la Defensa. | 6 | Tecnologías aplicadas a la Defensa I. | "Tecnología energética y de materiales Sistemas individuales y colectivos de uso en el ET. Municiones y explosivos. Helicópteros y Drones. Medios de Transmisión y ópticos.". |
+| Procedimientos aplicados a la Defensa. | 6 | Procedimientos aplicados a la Defensa I. | Conceptos básicos de topografía y NBQ. Doctrina, Entorno operativo, Fundamentos de Táctica. |
+| CIENTÍFICO- TECNOLÓGICO. | Matemáticas. | 6 | Matemáticas I. | Cálculo diferencial. Cálculo integral. |
+| Física. | 6 | Fundamentos de mecánica. | Estática, cinemática y dinámica y sólido rígido. |
+| Informática. | 6 | Informática. | Nociones de Estructura de computadores, nociones de software, programación básica. |
+| CIENCIAS SOCIALES Y JURÍDICAS. | Ciencias Sociales. | 6 | Historia. | Historia de las Fuerzas Armadas en el contexto de la evolución de la sociedad, la Defensa y la acción exterior de la España contemporánea. Historia de la Guardia Civil. |
+| 6 | Economía. | Introducción a la economía (conceptos básicos: familias, empresas y sector público), Presupuesto y gasto público (PGE y defensa), Gestión económica y financiera en el entorno de la Defensa, Toma de decisiones. |
+| Ciencias Jurídicas. | 6 | Derecho I. | Teoría General del Derecho. Derecho Constitucional. Derecho Administrativo General (Principios Generales, Procedimiento Administrativo, Nociones sobre Régimen Disciplinario Militar). Introducción al Derecho Penal. |
+| FORMACIÓN EN LENGUA INGLESA. | Lengua Inglesa. | 6 | Lengua Inglesa I. | Habilidades comunicativas que capaciten para describir y narrar usando el inglés. Descriptores correspondientes a los niveles B1/B2 del CEFR (Marco Común Europeo de Referencia) y niveles SLP 2 del STANAG 6001. Conocimiento y uso de la terminología especifica militar especifica de la formación militar recibida en primer curso. |
+| TOTALES. | 60 |  |  |
+
+Curso: 2.º
+
+Formación militar
+
+| Módulo | Materia | ECTS | Semanas/Horas | Asignatura | Breve descripción |
+| --- | --- | --- | --- | --- | --- |
+| INSTRUCCIÓN Y ADIESTRAMIENTO. | Instrucción y adiestramiento de carácter general. |  | 6 semanas | Instrucción y adiestramiento II. |  |
 | Formación física. |  | 3 semanas | Formación física II. |  |
 | Orden cerrado. |  | 0,5 semanas | Orden cerrado II. |  |
-| SIAE. |  | 1 semanas | Sistemas de instrucción y adiestramiento II. |  |
-|  | TOTALES | 9 | 11 |  |
-| GRADO EN INGENIERÍA DE LA SEGURIDAD |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN BÁSICA | Organización y dirección de empresas. | 6 | Organización y dirección de empresas. | Proceso directivo de la empresa. Estructuras y organización. Procesos operativos. Prevención de riesgos laborales. |
-| Matemáticas. | 6 | Matemáticas III. | Ecuaciones diferenciales ordinarias. Ecuaciones en derivadas parciales. |
-| Estadística. | 6 | Estadística. | Análisis de datos. Probabilidades. Modelos de distribución. Muestreo y estimación. Intervalos de confianza. Optimización. |
-| Informática. | 6 | Fundamentos de informática. | Computador. Abstracción con procedimientos. Abstracción con datos. |
-| FUNDAMENTO DE INGENIERÍA | Mecánica. | 6 | Mecánica. | Cinemática de sistemas mecánicos. Fuerzas en sistemas mecánicos. Geometría de masas. Dinámica de sistemas. Aplicaciones. |
-| Fundamentos de electrotecnia. | 6 | Fundamentos de electrotecnia. | Circuitos. Métodos básicos de análisis. Teoremas fundamentales. Máquinas eléctricas. |
-| Ingeniería del medio ambiente. | 4,5 | Ingeniería del medio ambiente. | Prevención y control. Contaminación de aguas, atmosférica y por residuos. Evaluación impacto ambiental y SGMA. Legislación básica. |
-| Investigación operativa. | 6 | Investigación operativa. | Metodología de la investigación operativa. Programación lineal. Modelos de flujo en redes. Técnicas de decisión multicriterio. Análisis de decisiones en entornos de incertidumbre y de riesgo. Teoría de juegos. |
-| Ingeniería de organización. | 6 | Calidad. | Sistemas y técnicas de gestión de calidad. Certificación. Aplicación a las Fuerzas y Cuerpos de Seguridad. |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 6 | Lengua Inglesa II. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional (militar). Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. |
-| TOTALES | 58,5 |  |
-| Curso: 3º |
-| --- |
-| FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD |
-| MÓDULO | MATERIA | ECTS | SEMANAS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Técnica profesional e investigación. | 3 |  | Sistemas de gestión y documentación I. | Iniciación en los sistemas informáticos de gestión de la Guardia Civil. |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 3 |  | Lengua inglesa III. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Aspectos prácticos del uso de la lengua inglesa en el entorno profesional (policial). |
-| INSTRUCCIÓN Y ADIESTRAMIENTO | Instrucción y adiestramiento. |  | 6,5 semanas | Instrucción y adiestramiento III. | Ejercicios y prácticas integradas. Orden Cerrado. |
-| Formación física. |  | 2,5 semanas | Formación física III. | Formación física. Defensa personal policial. |
-| TOTALES | 6 | 9 |  |
-| GRADO EN INGENIERÍA DE LA SEGURIDAD |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FUNDAMENTOS DE INGENIERÍA | Ingeniería electrónica. | 6 | Fundamentos de ingeniería electrónica. | Introducción a electrónica. Aplicaciones. Circuitos analógicos y digitales. |
-| FORMACIÓN EN TECNOLOGÍA ESPECÍFICA | Seguridad física: infraestructuras y personal. | 3 | Dinámica de explosiones. | Introducción a los explosivos, características y tipología. Concepto de compresibilidad y número de Mach. Condiciones de salto a través de frentes reactivos (detonaciones y deflagraciones) y no reactivos (ondas de choque). Análisis dimensional. Interacción de ondas de choque con paredes. Simulación de la dinámica de explosiones en geometrías. |
-| 3 | Fundamentos de mecánica de fluidos. | Estudio de los medios fluidos. Conceptos de cinemática y tensor de velocidad de deformación. Las fuerzas de superficie que aparecen en el interior de los medios fluidos: presión y esfuerzos viscosos. Aplicaciones de la formulación en forma integral a la resolución de problemas sencillos. Introducción al análisis dimensional con aplicaciones sencillas que motiven su utilidad. |
-| 6 | Protección ligera de sistemas móviles. | Análisis de protecciones de sistemas móviles (vehículos y personal). Modelización del comportamiento de protecciones metálicas, protecciones cerámicas, protecciones de material compuesto reforzado con fibras y protecciones transparentes frente a impacto localizado, cargas impulsivas y ataque por arma blanca. |
-| 6 | Resistencia de materiales. | Concepto de sólido deformable, tensión y deformación. Ecuaciones de comportamiento. Torsión y flexión. Criterios de fallo. |
-| Seguridad física: Electrónica y telecomunicaciones. | 3 | Sistemas sensores. | Circuitos electrónicos de adquisición y acondicionamiento de señal. Ruido e interferencia. Medida de magnitudes físicas de sensores. Tipos de sensores: acústicos, sísmicos, magnéticos, piezoelectricos, infrarrojos, microondas y radar, sensores de magnitudes biométricas. Fusión de datos. Sistemas de instrumentación. |
-| 3 | Tecnologías aplicadas a la investigación I. | Fundamentos de óptica. Cámaras de video y aplicaciones en seguridad. Cámaras térmicas y de infrarrojos. Reconocimiento de patrones. Sistemas de almacenamiento masivo de imágenes. Necesidades de captura de datos en el entorno de la seguridad. |
-| Seguridad informática. | 6 | Técnicas de ocultación de la información. | Objetivos de la seguridad de la información. Medidas de seguridad y su clasificación. Bases matemáticas de la criptografía. Algoritmos de cifrado. Algoritmos esteganográficos. Funciones resumen (hash). Firma electrónica. Certificados electrónicos. Terceros de confianza e infraestructuras de clave pública. |
-| 6 | Vulnerabilidades, amenazas y protocolos de seguridad informáticos. | Protocolos básicos de interconexión de sistemas. Situación de la seguridad de los sistemas y productos informáticos. Vulnerabilidades intrínsecas y extrínsecas. Análisis y clasificación de los ataques informáticos. Valoración de sus consecuencias. Medidas y servicios de seguridad. Mecanismos y protocolos de seguridad. Ataques específicos a los mismos. Sistemas de autenticación de varios factores y basados en infraestructuras de clave pública. Protocolos IP y TCP. |
-| FORMACIÓN COMPLEMENTARIA | Ingeniería biomédica: Ciencias forenses. | 6 | Ciencias forenses I. | Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas. Sistemas de investigación. Muestras biológicas. |
-| Ciencias sociales y jurídicas: Marco jurídico de la seguridad. | 6 | Marco jurídico de la seguridad I. | Constitución y sistema de fuentes. Organización constitucional y territorial del Estado. |
-| 3 | Derecho Administrativo I. | El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos administrativos. Control de la actuación administrativa. El reglamento. La autotutela administrativa. El interés general. |
-| 3 | Derecho Administrativo II: Seguridad Pública. | La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas. |
-| Humanidades. | 6 | Humanidades. | Historia de la Guardia Civil. Deontología profesional. Prevención de la discriminación y la desigualdad. |
-| TOTALES | 66 |  |  |
-| Curso: 4º |
-| --- |
-| FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD |
-| MÓDULO | MATERIA | ECTS | SEMANAS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Técnica profesional e investigación. | 2 |  | Sistemas de gestión y documentación II. | Estudio y prácticas avanzadas de los sistemas informáticos de gestión de la Guardia Civil. Gestión de documentación. |
-| Ciencias sociales y jurídicas. | 4 |  | Seguridad ciudadana I. | Marco general de la seguridad ciudadana. Potestades especiales de policía administrativa de seguridad. Reglamentación de armas. Reglamentación de explosivos y pirotecnia. |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 2 |  | Lengua Inglesa IV. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Aspectos prácticos de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial). |
-| INSTRUCCIÓN Y ADIESTRAMIENTO | Instrucción y adiestramiento. |  | 6,5 semanas | Instrucción y adiestramiento IV. | Ejercicios y prácticas integradas. Orden cerrado. |
-| Formación física. |  | 2,5 semanas | Formación física IV. | Formación física. Defensa personal policial. |
-| TOTALES | 8 | 9 |  |
-| GRADO EN INGENIERÍA DE LA SEGURIDAD |
-| --- |
-| MÓDULO | MATERIA | ECTS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN TECNOLÓGICA ESPECÍFICA | Seguridad física: Infraestructuras y personal. | 6 | Seguridad de infraestructuras frente a impacto e intrusión. | Análisis de infraestructuras sometidas a cargas impulsivas (impacto localizado, explosión). Modelización y diseño de sistemas de protección. Sistemas anti-intrusión. Diseño de sistemas que garanticen la seguridad frente a distintos tipos de amenaza: vehículos bomba, ataque balístico, proyectiles lanzados a mano, paquetes bomba. |
-| 3 | Gestión de la seguridad física. | Planificación de instalaciones de seguridad en infraestructuras. Identificación de amenazas potenciales, así como de las vulnerabilidades. Metodologías de diseño de infraestructuras orientadas a la integración de sistemas para su protección física, aunando las tecnologías de diseño arquitectónico y protección estructural con las tecnologías electrónicas y de comunicación. Conceptos relativos a la definición de planes de seguridad. |
-| Seguridad física: Electrónica y telecomunicaciones. | 3 | Laboratorio de Electrónica. | Instrumentación electrónica. Técnicas de medida. Caracterización E/O de dispositivos electrónicos y fotónicos. Caracterización de sistemas de comunicaciones E/O básicos. Técnicas de Ingeniería inversa. |
-| 6 | Sistemas y redes de comunicación para seguridad y emergencias. | Fundamentos de los sistemas de comunicaciones. Técnicas y sistemas de transmisión. Teoría de la comunicación. Radiocomunicación. Radiación, propagación y procesado de señales. Redes de comunicaciones (red celular, tetra, tetrapol, GSM, UMTS, móviles terrenas y satelitales). |
-| 3 | Tratamiento de la información- policía científica. | Teoría de la información. Introducción sobre el tratamiento de señales tanto analógicas como digitales. Estándares de compresión y codificación. Procesamiento digital de imágenes y audio. |
-| Seguridad informática. | 6 | Administración y gestión de la seguridad de la información. | Planes de seguridad. El ciclo de la seguridad. Metodologías de análisis y gestión de riesgos. Diseño de los sistemas. Procedimientos y estándares de planes de recuperación. Desarrollo de planes integrales de recuperación. Organismos nacionales, europeos e internacionales de normalización. Auditorías. |
-| 3 | Tecnologías aplicadas a la investigación II. | Introducción a las bases de datos y sistemas de gestión de bases de datos. Modelo de datos relacional. Lenguaje de datos SQL: definición y manipulación. Diseño de BD en el modelo relacional. Minería de datos y gestión del conocimiento. Técnicas de clasificación y agrupamiento de datos. Algunos dominios de aplicación de minería de datos. |
-| 3 | Tecnologías aplicadas a la investigación III: Sistemas de información geográfica. | Sistemas de información geográfica GIS. Aplicaciones en sistemas de seguridad. |
-| 3 | Informática forense. | Modelos y mecanismos de control de accesos. Análisis de rastros de intrusiones en redes. Técnicas y herramientas de borrado seguro de información y de recuperación de datos. Identificación, obtención y aseguramiento de las pruebas electrónicas. |
-| FORMACIÓN COMPLEMENTARIA | Ingeniería Biomédica: Ciencias forenses. | 6 | Ciencias forenses II. | Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense. |
-| Ciencias sociales y jurídicas: Marco jurídico. | 3 | Marco jurídico de la seguridad II. | Significado y función de los derechos fundamentales. Eficacia y límites. Interpretación de los derechos fundamentales. Las garantías de las libertades y derechos fundamentales. |
-| Ciencias sociales y jurídicas: Economía. | 3 | Fundamentos de Economía. | Factores de producción. Doctrinas económicas. Economía del sector público. Gasto y presupuesto. Órganos administrativos de ejecución del presupuesto. Procedimientos de gasto, pago e intervención. Gestión de gasto de personal. Gestión de gastos contractuales. |
-| Ciencias sociales y jurídicas: Dirección Liderazgo. | 6 | Dirección y liderazgo. | El ciclo directivo. Planificación estratégica. Fundamentos del ejercicio del liderazgo. El individuo y el grupo. Estilos de dirección. Habilidades directivas en la Guardia Civil: Inteligencia emocional; Comunicación; Motivación. Herramientas para el desarrollo de habilidades de liderazgo y toma de decisiones. Gestión del tiempo y del conocimiento. Estrés. Conflicto, cambio y aspectos multiculturales. Técnicas de negociación y manejo de reuniones. |
-| TRABAJO FIN DE GRADO | Trabajo fin de Grado. | 12 | Trabajo fin de Grado. | Ejercicio original a presentar y defender ante un tribunal universitario, consistente en un proyecto integral del ámbito de la seguridad, de naturaleza profesional, en el que se sinteticen las competencias adquiridas en las enseñanzas, o en un trabajo de carácter innovador de desarrollo de una idea, un prototipo, o el modelo de un equipo o sistema, en alguno de los ámbitos de seguridad. |
-| TOTALES | 66 |  |
-| Curso: 5º |
-| --- |
-| FORMACIÓN MILITAR Y DE CUERPO DE SEGURIDAD |
-| MÓDULO | MATERIA | ECTS | SEMANAS | ASIGNATURA | BREVE DESCRIPCIÓN |
-| FORMACIÓN DE CUERPO DE SEGURIDAD | Ciencias sociales y jurídicas. | 5 |  | Seguridad ciudadana II. | Protección de la naturaleza. Seguridad vial y transportes. Seguridad privada. |
-| 6 |  | Derecho Penal I. | Introducción al Derecho Penal. Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Casos prácticos y análisis jurisprudencial. |
-| 5 |  | Derecho Penal II. | Análisis jurídico de las tipologías delictivas. Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos de los funcionarios y contra la colectividad. Casos prácticos y análisis jurisprudencial. |
-| 5 |  | Derecho Procesal Penal. | Ordenamiento procesal español. Sistema judicial español. Procesos penales ordinarios y especiales. Presupuestos y objeto del proceso penal. |
-| 6 |  | Cooperación policial y judicial internacional. | Instrumentos de cooperación policial y judicial de la Unión Europea. Otros ámbitos de cooperación policial. Participación de la Guardia Civil en esta materia. |
-| Técnica profesional e investigación. | 3 |  | Estatuto de la Guardia Civil II. | Estudio y prácticas avanzadas sobre régimen disciplinario. Normativa penal y procesal militar. |
-| 6 |  | Dirección y gestión de unidades. | Prevención de la delincuencia. Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. Control de masas. El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección de los distintos tipos de servicios. |
-| 6 |  | Fiscal, fronteras e inmigración. | Sistema fiscal europeo y español. Organismos intervinientes. Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Sistema de fronteras en la Unión Europea. Schengen. Inmigración irregular. |
-| 3 |  | Gestión de crisis y Defensa Nacional. | Defensa y seguridad nacional. Gestión de crisis nacional e internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis. |
-| 6 |  | Amenaza terrorista. | Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC. |
-| 6 |  | Inteligencia policial. | Aplicación de la inteligencia a la acción policial. Ciclo de Inteligencia Metodología, técnicas y procedimientos Materias clasificadas. |
-| 6 |  | Policía judicial I. | La Policía Judicial en el proceso penal. Normas organización y empleo de Unidades de Policía Judicial. Curso de Policía Judicial. Curso de Medicina Legal. |
-| 3 |  | Policía judicial II. | Práctica de diligencias policiales. |
-| 3 |  | Policía judicial III. | Tipología delincuencial. Modus operandi. Metodología de la investigación de delitos. Delincuencia organizada. |
-| FORMACIÓN EN LENGUA INGLESA | Lengua Inglesa. | 5 |  | Lengua inglesa V. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. Prácticas avanzadas de uso de la lengua en entornos profesionales específicos (grupos de trabajo, cooperación policial). |
-| INSTRUCCIÓN Y ADIESTRAMIENTO | Instrucción y Adiestramiento. |  | 6,5 semanas | Instrucción y adiestramiento V. | Ejercicios y prácticas integradas. Orden cerrado. |
-| Formación Física. |  | 2,5 semanas | Formación física V. | Formación física. Defensa personal policial. |
-| TOTALES | 74 | 9 |  |
+| TOTALES. |  | 9,5 |  |
+
+Formación en Grado en Ciencias de la Seguridad Pública
+
+| Módulo | Materia | ECTS | Asignatura | Breve descripción(2) |
+| --- | --- | --- | --- | --- |
+| TÉCNICAS DE MANDO. | Liderazgo. | 6 | Liderazgo I. | Gestión de equipos. Mediación y negociación. Delegación. Gestión del Tiempo. |
+| 6 | Liderazgo II. | Comunicación oral y escrita, comunicación organizacional, comunicación pública, comunicación digital. Técnicas pedagógicas. Orientación y tutoría. Metodología de la investigación. |
+| Preparación psicofísica. | 6 | Preparación psicofísica. | Preparación psicofísica, Actividad física y salud, Entrenamiento físico y rendimiento, Condición física. |
+| PROCEDIMIENTOS Y TECNOLOGÍAS APLICADAS A LA DEFENSA. | Tecnología aplicada a la Defensa. | 6 | Tecnologías aplicadas a la Defensa II. | Tecnología Eléctrica y electrónica. Requerimientos energéticos sostenibles de instalaciones. |
+| Procedimientos aplicados a la Defensa. | 6 | Procedimientos aplicados a la Defensa II. | Capacidades de Unidades orgánicas, Acciones Tácticas, Planeamiento de las operaciones. |
+| CIENTÍFICO- TECNOLÓGICO. | Matemáticas. | 6 | Matemáticas II. | Álgebra lineal. |
+| Digitalización. | 6 | Tecnología. | Tecnología de sensores y sistemas de procesamiento de la información sensorial (GPS, GNSS, visión artificial) Sistemas de Información Geográfica y Teledetección. |
+| Estadística. | 6 | Estadística. | Estadística descriptiva. Espacios de probabilidad. Variables y vectores aleatorios. Inferencia estadística. |
+| Ciencias jurídicas. | 6 | Derecho II. | Derecho Penal Militar, Derecho Internacional de los Conflictos Armados. |
+| FORMACIÓN EN LENGUA INGLESA. | Lengua Inglesa. | 6 | Lengua Inglesa II. | Habilidades comunicativas que capaciten para opinar y argumentar. Descriptores correspondientes a los niveles B1/B2 del CEFR y niveles SLP 2 del STANAG 6001. |
+| TOTALES. | 60 |  |
+
+(2) En todo caso, la descripción de los contenidos de las asignaturas de 1er y 2.º Curso impartidas en la Academia General Militar serán las que se corresponda con los correspondientes descriptores de las asignaturas contenidas en el Orden DEF/287/2024, de 18 de marzo, por la que se aprueba el currículo de la enseñanza de formación de oficiales para la integración en el Cuerpo General del Ejército de Tierra mediante las formas de ingreso sin titulación previa.
+
+Curso: 3.º
+
+Formación militar
+
+| Módulo | Materia | ECTS | Semanas | Asignatura | Breve descripción |
+| --- | --- | --- | --- | --- | --- |
+| INSTRUCCIÓN Y ADIESTRAMIENTO. | Instrucción y adiestramiento. |  | 9 semanas | Instrucción y adiestramiento III. | Ejercicios y prácticas integradas. Orden Cerrado. |
+| Formación física. |  | 3 semanas | Formación física III. | Formación física. Defensa personal policial. |
+| TOTALES. |  | 12 |  |
+
+Formación en Grado en Ciencias de la Seguridad Pública
+
+| Módulo | Materia | ECTS | Asignatura | Breve descripción |
+| --- | --- | --- | --- | --- |
+| TÉCNICAS DE MANDO. | Liderazgo. | 3 | Liderazgo III. | Habilidades directivas. Organización, Planificación, Motivación, Mando, Control. Destrezas comunicativas para el liderazgo: comunicación interpersonal, organizacional y corporativa; oratoria y relaciones con los medios, comunicación de crisis y técnicas pedagógicas. |
+| TÉCNICO- PROFESIONAL. | Procedimientos aplicados a la seguridad pública. | 6 | Seguridad Ciudadana I. | Derechos y libertades fundamentales, policía de seguridad, potestades generales y especiales, régimen sancionador de la seguridad. |
+| 6 | Sistemas de Gestión y Documentación en la Guardia Civil. | Sistemas de información aplicables en la gestión profesional. Aplicación en la Guardia Civil. Sistemas SIGO, NERHU, ALFIL, INVES. |
+| Recursos Humanos. | 6 | Estatuto de la Guardia Civil y Gestión de los RRHH I. | Régimen de Personal. Régimen de derechos y deberes. Igualdad. |
+| CIENCIAS HUMANÍSTICAS. | Humanidades. | 3 | Historia de la Guardia Civil y Deontología Profesional. | Historia de la Guardia Civil. Código de conducta. Principios básicos de actuación. |
+| CIENTÍFICO TECNOLÓGICO. | Criminalística. | 6 | Ciencias Forenses. | Tecnologías aplicadas a la obtención de datos y vestigios. Conceptos básicos de la Biomedicina. Identificación de personas. Sistemas de investigación. Muestras biológicas. Identificación de documentos y objetos. Balística y trazas instrumentales. Infografía forense. Metodología y procedimientos basados en sistemas de calidad. Inteligencia científica. Pericias. Acústica forense. |
+| Estadística. | 3 | Análisis Estadístico del Delito. | Introducción a la probabilidad y la estadística: concepto de probabilidad y reglas básicas, distribuciones, estadística descriptiva para una y varias variables. Introducción a la inferencia estadística: intervalos de confianza y contrastes de hipótesis para la media y la varianza; comparaciones de medias entre dos poblaciones. Relaciones entre variables: introducción a los modelos lineales, estimación de parámetros del modelo e inferencia sobre dichos parámetros. Aplicaciones a la gestión de la seguridad y a la criminología. |
+| Tecnologías aplicadas a la Seguridad. | 3 | Tecnologías aplicadas a la Seguridad I. | Gestión de la seguridad Física. Planes de Seguridad de infraestructuras. |
+| Digitalización. | 3 | Digitalización I. | Introducción a la Transformación Digital, Introducción a los Sistemas de Información, Modelos de da tos. Definición, manipulación y recuperación en BD: Introducción a SQL. |
+| Telecomunicaciones. | 3 | Teoría de las Telecomunicaciones aplicada a la Seguridad. | Fundamentos de los sistemas de comunicaciones. Técnicas y sistemas de transmisión. Teoría de la comunicación. Radiocomunicación. Radiación, propagación y procesado de señales. Redes de comunicaciones (red celular, tetra, tetrapol, GSM, UMTS, móviles terrenas y satelitales). |
+| CIENCIAS SOCIALES Y JURÍDICAS. | Ciencias Jurídicas. | 3 | Derecho Penal I. | Teoría jurídica del delito. Teoría jurídica de la pena y de las medidas de seguridad. Responsabilidad penal y civil. Fundamentos básicos de Derecho Civil. Casos prácticos y análisis jurisprudencial. |
+| 6 | Derecho Penal II. | Análisis jurídico de las tipologías delictivas. Delitos contra las personas. Delitos contra el patrimonio y el orden socioeconómico. Delitos de los funcionarios y contra la colectividad. Casos prácticos y análisis jurisprudencial. |
+| 3 | Instituciones y Regímenes Internacionales. | El Derecho internacional. Las Organizaciones internacionales. La Unión Europea. España en las organizaciones internacionales. Las competencias de los Estados sobre las personas. Régimen de los espacios bajo jurisdicción estatal. Régimen de los espacios internacionales y patrimonio de la humanidad. La protección internacional del medio ambiente. Principios y reglas de derecho internacional económico. |
+| FORMACIÓN EN LENGUA INGLESA. | Lengua Inglesa. | 6 | Lengua Inglesa III. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. |
+| TOTALES. | 60 |  |
+
+Curso: 4.º
+
+Formación militar
+
+| Módulo | Materia | ECTS | Semanas | Asignatura | Breve descripción |
+| --- | --- | --- | --- | --- | --- |
+| INSTRUCCIÓN Y ADIESTRAMIENTO. | Instrucción y adiestramiento. |  | 9 semanas | Instrucción y adiestramiento IV. | Ejercicios y prácticas integradas. Orden cerrado. |
+| Formación física. |  | 3 semanas | Formación física IV. | Formación física. Defensa personal policial. |
+| TOTALES. |  | 12 |  |
+
+Formación en Grado en Ciencias de la Seguridad Pública
+
+| Módulo | Materia | ECTS | Asignatura | Breve descripción |
+| --- | --- | --- | --- | --- |
+| CIENTÍFICO TECNOLÓGICO. | Tecnologías aplicadas a la Seguridad. | 6 | Tecnologías aplicadas a la Seguridad II. | Introducción a la ciberseguridad. Mecanismos y protocolos criptográficos. Autenticación. Control de accesos. Seguridad en redes. Seguridad en el s oftware. Vulnerabilidades. Malware. Regulación en privacidad y ciberseguridad. |
+| Digitalización. | 3 | Digitalización II. | Introducción a la inteligencia artificial y Bigdata, Aprendizaje automático (Aprendizaje supervisado, No supervisado), Clasificación, Regresión y Clustering. Series temporales. |
+| TÉCNICO- PROFESIONAL. | Procedimientos aplicados a la seguridad pública. | 6 | Seguridad Ciudadana II. | Seguridad vial. Armas y Explosivos. Actuación operativa. Prevención delincuencia. |
+| 3 | Fiscal y Fronteras. | Sistema fiscal europeo y español. Organismos intervinientes. Fraude fiscal. Contrabando. Blanqueo de capitales. Resguardo fiscal. Sistema de fronteras en la Unión Europea. Schengen. Inmigración irregular. |
+| 3 | Especialidades en la Guardia Civil. | La especialización de las funciones policiales en el ámbito nacional e internacional y su aplicación en la Guardia Civil. |
+| Recursos Humanos. | 6 | Estatuto de la Guardia Civil y Gestión de los RRHH II. | Régimen de Personal: Régimen profesional y derecho disciplinario. |
+| 3 | Estatuto de la Guardia Civil y Gestión de los RRHH III. | Prevención de Riesgos Laborales. Calidad. Conciliación. |
+| Recursos materiales y financieros. | 6 | Gestión de recursos materiales y financieros en la Guardia Civil. | Modalidades de gestión de recursos materiales y financieros. Tendencias e innovación y su aplicación en la Guardia Civil. |
+| TRABAJO FIN DE GRADO. | Trabajo Fin de Grado. | 6 | Trabajo Fin de Grado. | Desarrollo y defensa pública de un Trabajo Fin de Grado sobre materias de seguridad pública de nivel nacional e internacional aplicando metodología académica de acuerdo a las Directrices del Trabajo Fin de Grado aprobadas anualmente en la Comisión de Investigación CUGC-UC3M. |
+| CIENCIAS SOCIALES Y JURÍDICAS. | Ciencias jurídicas. | 3 | Derecho Administrativo. | El Derecho administrativo. La Administración Pública. El régimen jurídico de las Administraciones públicas. El procedimiento administrativo. Actos administrativos. Control de la actuación administrativa. El reglamento. La autotutela administrativa. El interés general. La expropiación forzosa. La potestad sancionadora de las Administraciones Públicas. La responsabilidad patrimonial de las Administraciones Públicas. |
+| 6 | Derecho Procesal Penal. | Ordenamiento procesal español. Sistema judicial español. Procesos penales ordinarios y especiales. Presupuestos y objeto del proceso penal. |
+| Organización y Geopolítica. | 3 | Administración pública de la seguridad. | Organización constitucional y territorial del Estado. Organización del Ministerio del Interior, Secretaría de Estado de Seguridad y Guardia Civil. Organización de las Fuerzas Armadas. |
+| FORMACIÓN EN LENGUA INGLESA. | Lengua Inglesa. | 6 | Lengua Inglesa IV. | Contenidos específicos adecuados al nivel B2 del marco europeo de referencia. Práctica de las habilidades comunicativas correspondientes a los niveles B2 y STANAG 6001 nivel profesional. |
+| TOTALES. | 60 |  |  |
+
+Curso: 5.º
+
+Formación militar
+
+| Módulo | Materia | ECTS | Semanas | Asignatura | Breve descripción |
+| --- | --- | --- | --- | --- | --- |
+| INSTRUCCIÓN Y ADIESTRAMIENTO. | Instrucción y Adiestramiento. |  | 9 semanas | Instrucción y adiestramiento V. | Ejercicios y prácticas integradas. Orden cerrado. |
+| Formación Física. |  | 3 semanas | Formación física V. | Formación física. Defensa personal policial. |
+| TOTALES. |  | 12 |  |
+
+Formación de Cuerpo de Seguridad
+
+| Módulo | Materia | ECTS | Asignatura | Breve descripción. |
+| --- | --- | --- | --- | --- |
+| TÉCNICAS DE MANDO. | Liderazgo. | 3 | Técnicas de Mando. | Técnicas avanzadas de mando y resolución de conflictos. |
+| TÉCNICO-PROFESIONAL. | Procedimientos aplicados a la seguridad pública. | 6 | Dirección de Unidades de la Guardia Civil. | Servicio en puertos, aeropuertos, centros penitenciarios y conducción de detenidos, presos y penados. Protección de personas y bienes. El ejercicio del Mando en las Unidades de la Guardia Civil. Planeamiento operativo. Planificación y dirección de los distintos tipos de servicios. |
+| Procedimientos Operativos. | 3 | Inteligencia Policial. | Aplicación de la inteligencia a la acción policial. Ciclo de Inteligencia Metodología, técnicas y procedimientos Materias clasificadas. |
+| 6 | Amenazas. | Teoría general de la amenaza del terrorismo y lucha contra el terrorismo. Amenazas terroristas contra España y contra la comunidad internacional. El SIGC. |
+| 6 | Cooperación Policial. | Instrumentos de cooperación policial y judicial de la Unión Europea. Otros ámbitos de cooperación policial. Participación de la Guardia Civil en esta materia. |
+| 6 | Policía Judicial I. | Policía Judicial. Incluye los cursos de Medicina Legal y de Policía Judicial. |
+| 6 | Policía Judicial II. Investigación de delitos. Delincuencia organizada y Cibercrimen. | Investigación de delitos. Delincuencia organizada y Cibercrimen. |
+| 3 | Sistema de Seguridad Nacional y Gestión de Crisis. | Defensa y seguridad nacional. Gestión de crisis nacional e internacional. La Guardia Civil en misiones internacionales. Sistema nacional de protección civil. Gestión civil de crisis. |
+| Prácticas externas. | 4 | Prácticas Externas. |  |
+| Trabajo Fin de Estudios. | 6 | Trabajo Fin de Estudios. |  |
+| CIENCIAS SOCIALES Y JURÍDICAS. | Organización y Geopolítica. | 5 | Geopolítica. | Actualidad nacional e internacional (Mundo Actual). Orígenes, evolución y características del orden mundial actual. Análisis de regiones geopolíticas. |
+| Psicología. | 3 | Psicología Criminal. | Psicología criminal. Patrones y procesos delictivos. |
+| 3 | Psicología Social y de las Organizaciones. | Psicología social y de las organizaciones. |
+| TOTALES. | 60 |  |  |
+
+> Se modifica por el art. único.15 de la Orden PJC/1030/2024, de 25 de septiembre. Ref. BOE-A-2024-19389
