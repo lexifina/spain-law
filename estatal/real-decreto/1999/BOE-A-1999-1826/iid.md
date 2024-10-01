@@ -60,6 +60,10 @@ Caracteres segundo y tercero, constituidos por dos cifras:
 
 21. Vehículo para ferias: vehículo adaptado para la maquinaria de circo o ferias recreativas ambulantes.
 
+22. Histórico: vehículo clasificado como tal por la Administración por reunir todas las condiciones exigidas en el Reglamento de Vehículos Históricos.
+
+> Se añade el punto 22 por la disposición final 1.3 del Real Decreto 892/2024, de 10 de septiembre. Ref. BOE-A-2024-18614#df
+
 > Se modifica el punto 05, con efectos de 1 de julio de 2021, por la disposición final 2.2 del Real Decreto 159/2021, de 16 de marzo. Ref. BOE-A-2021-4194#df-2
 
 > Se añade por el apartado único.1 de la Orden PRE/52/2010, de 21 de enero. Ref. BOE-A-2010-1011.

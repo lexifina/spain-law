@@ -8,8 +8,10 @@ b) «Vehículo de motor», todo vehículo de ruedas provisto de un motor que se 
 
 c) «Vehículos de dos o tres ruedas», todo vehículo de dos ruedas provisto de un motor, con o sin sidecar, así como los triciclos y los cuadriciclos.
 
-d) «Vehículo histórico o de interés histórico», todo vehículo que haya sido catalogado como histórico por una administración competente.
+d) ''Vehículo histórico'', vehículo clasificado como tal por la Administración por reunir todas las condiciones exigidas en el Reglamento de Vehículos Históricos.
 
 e) «Inspección técnica de vehículos o inspección ITV», inspección de conformidad con el anexo I encaminada a la comprobación que un vehículo es apto para su utilización en la vía pública por ser conforme con las características de seguridad y de protección del medio ambiente exigidas y obligatorias.
 
 f) «Órgano de supervisión»: un órgano o conjunto de órganos que es responsable de la supervisión de las estaciones ITV o centros de inspección técnica.
+
+> Se modifica la letra d) por la disposición final 2.1 del Real Decreto 892/2024, de 10 de septiembre. Ref. BOE-A-2024-18614#df-2
