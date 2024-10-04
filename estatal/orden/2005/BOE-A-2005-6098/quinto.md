@@ -4,13 +4,13 @@ El Director General de la Guardia Civil ejercerá por delegación de las autorid
 
 1. Del Ministro Titular del Departamento:
 
-1.1 Las competencias que le corresponden en relación con el extinguido «Patronato de Viviendas de la Guardia Civil».
+1.1 Las competencias que le corresponden en relación con el extinguido “Patronato de Viviendas de la Guardia Civil”.
 
-1.2 Acordar la pérdida de la habilitación de los Guardias particulares del campo, por las causas establecidas en el artículo 64 del Reglamento de Seguridad Privada, aprobado por Real Decreto 2364/1994, de 9 de diciembre.
+1.2 Acordar la pérdida de la habilitación de los Guardas Rurales y sus especialidades, por las causas establecidas en el artículo 64 del Reglamento de Seguridad Privada, aprobado por el Real Decreto 2364/1994, de 9 de diciembre.
 
 1.3 Acordar o no el cese en su destino de los miembros de la Guardia Civil que pasen a la situación administrativa de suspenso de funciones.
 
-1.4 Respecto de los destinos para los cuales tiene atribuida la competencia, de acuerdo con el artículo 20 c) del Reglamento de Provisión de Destinos del Personal del Cuerpo de la Guardia Civil, aprobado por Real Decreto 1250/2001, de 19 de noviembre:
+1.4 Respecto de los destinos para los cuales tiene atribuida la competencia, de acuerdo con el artículo 24.c) del Reglamento de destinos del personal de la Guardia Civil, aprobado por el Real Decreto 470/2019, de 2 de agosto:
 
 1.4.1 Asignar o denegar su adjudicación por necesidades del servicio.
 
@@ -28,25 +28,25 @@ El Director General de la Guardia Civil ejercerá por delegación de las autorid
 
 1.10 La aceptación de las donaciones de bienes muebles, en el ámbito de sus competencias, cuando el donante hubiera señalado el fin a que deben destinarse, conforme al artículo 21.1 de la Ley 33/2003, de 3 de noviembre, de Patrimonio de las Administraciones Públicas.
 
-1.11 Se delega en el Director General de la Policía y la Guardia Civil la competencia para resolver sobre la inscripción o denegación de inscripción en materia de Asociaciones Profesionales de la Guardia Civil, que el apartado quinto de la Orden INT/3939/2007, de 28 de diciembre, por la que se habilita el Registro de Asociaciones Profesionales de Guardias Civiles, atribuye al Ministro del Interior.
+1.11 La resolución sobre la inscripción o denegación de inscripción en materia de Asociaciones Profesionales de la Guardia Civil, del apartado quinto de la Orden INT/3939/2007, de 28 de diciembre, por la que se habilita el Registro de Asociaciones Profesionales de Guardias Civiles.
 
 1.12 Otorgar las autorizaciones administrativas para el uso de locales en las dependencias oficiales del Cuerpo, a las que hace referencia la disposición adicional segunda del Real Decreto 175/2022, de 4 de marzo, por el que se desarrollan los derechos de las asociaciones profesionales de guardias civiles, de sus representantes y de los miembros del Consejo de la Guardia Civil, elegidos en representación de los miembros del Cuerpo.
 
 2. Del Ministro Titular del Departamento y del Secretario de Estado de Seguridad, salvo las facultades delegadas en otros órganos:
 
-2.1 Respecto de los gastos del Capítulo 1 «Gastos de Personal» del Servicio Presupuestario 04:
+2.1 Respecto de los gastos del capítulo 1 “Gastos de Personal” del Servicio Presupuestario 04:
 
-2.1.1 La gestión de la nómina, aprobación y compromiso de los gastos, el reconocimiento de las obligaciones que de ellos se derive, así como la propuesta al Ministro de Economía y Hacienda de la orden de los pagos correspondientes, sin límite de cuantía.
+2.1.1 La gestión de la nómina, aprobación y compromiso de los gastos, el reconocimiento de las obligaciones que de ellos se derive, así como la propuesta al Ministro de Hacienda de la orden de los pagos correspondientes, sin límite de cuantía.
 
-2.1.2 Las facultades que la legislación le confiere en materia de contratación administrativa, incluidos los negocios jurídicos y las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 15 de la Ley 30/1992, de 26 de noviembre, y en el artículo 4.1.n), en relación con el artículo 24.6 de la Ley 30/2007, de 30 de octubre, cuando su cuantía no exceda de 1.500.000 euros.
+2.1.2 Las facultades que se confieren en materia de contratación administrativa, incluidos los negocios jurídicos, las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y los encargos a medio propio al amparo de lo previsto en los artículos 32 y 33 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, cuando su cuantía no exceda de 2.000.000 euros.
 
-2.2 Respecto de los gastos del Servicio 04, cuando su cuantía no exceda de 1.500.000 euros:
+2.2 Respecto del resto de los gastos del Servicio 04, cuando su cuantía no exceda de 2.000.000 euros:
 
-2.2.1 Las facultades que la legislación le confiere en materia de contratación administrativa, incluidos los negocios jurídicos y las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 15 de la Ley 30/1992, de 26 de noviembre, y en el artículo 4.1.n), en relación con el artículo 24.6, de la Ley 30/2007, de 30 de octubre, en relación con el acuerdo de iniciación del expediente, su adjudicación, prórroga, modificación y resolución, así como la resolución del recurso al que se refiere el artículo 37 de la Ley 30/2007, de 30 de octubre, y los reajustes de anualidades.
+2.2.1 Las facultades que se confieren en materia de contratación administrativa, incluidos los negocios jurídicos, las encomiendas de gestión que puedan formalizarse al amparo de lo previsto en el artículo 11 de la Ley 40/2015, de 1 de octubre, los encargos a medio propio al amparo de lo previsto en los artículos 32 y 33 de la Ley 9/2017, de 8 de noviembre, en relación con el acuerdo de iniciación del expediente, su adjudicación, prórroga, modificación, resolución y reajustes de anualidades, así como la resolución de los recursos interpuestos sobre actos que se dicten en los procedimientos de adjudicación de contratos de las Administraciones Públicas que no reúnan los requisitos del artículo 44.1 de la Ley 9/2017, de 8 de noviembre, de conformidad con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
 
 2.2.2 La concesión de ayudas y subvenciones.
 
-3. Del Subsecretario del Interior, las siguientes facultades:
+3. Del Subsecretario del Interior las siguientes facultades:
 
 3.1 Designar las comisiones de servicio con derecho a indemnización respecto a todo el personal adscrito al centro directivo, hasta el límite del crédito, salvo las facultades delegadas en otros órganos.
 
@@ -54,7 +54,7 @@ El Director General de la Guardia Civil ejercerá por delegación de las autorid
 
 3.2.1 Reconocer la adquisición y cambio de grados personales.
 
-3.2.2 La declaración de las situaciones de servicio en las Comunidades Autónomas.
+3.2.2 La declaración de las situaciones de servicio en las comunidades autónomas.
 
 3.2.3 Acordar las comisiones de servicios y la atribución temporal de funciones en los términos y condiciones previstos en el Reglamento aprobado por el Real Decreto 364/1995, de 10 de marzo.
 
@@ -77,6 +77,8 @@ El Director General de la Guardia Civil ejercerá por delegación de las autorid
 3.3.5 Conceder la situación de excedencia para el cuidado de familiares y las excedencias voluntarias.
 
 3.4 En relación con el personal sujeto a Derecho Laboral el ejercicio de todas aquellas competencias de gestión ordinaria que no impliquen relaciones con otros Departamentos ministeriales, con excepción de la resolución de las reclamaciones previas a la vía judicial laboral.
+
+> Se modifica por el art. único.1 de la Orden INT/1059/2024, de 1 de octubre. Ref. BOE-A-2024-19983
 
 > Se añade el punto 1.12 por la disposición final 1 de la Orden INT/656/2023, de 19 de junio. Ref. BOE-A-2023-14825#df
 
