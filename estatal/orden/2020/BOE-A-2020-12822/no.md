@@ -1,1 +1,1 @@
-Téngase en cuenta que se dejan sin efecto las delegaciones previstas en esta Orden que se opongan a lo establecido en la Orden PJC/1327/2023, de 11 de diciembre, según establece su apartado séptimo. Ref. BOE-A-2023-25247
+Esta Orden se deja sin efecto, desde el 5 de octubre de 2024, por el apartado vigésimo sexto de la Orden PJC/1062/2024, de 3 de octubre. Ref. BOE-A-2024-20060
