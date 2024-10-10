@@ -22,17 +22,25 @@ g) A más tardar el 15 de julio del año de presentación de la solicitud, la re
 
 h) A más tardar el 15 de julio del año de presentación de la solicitud, los datos de beneficiarios, indicando para cada uno de ellos, las intervenciones solicitadas y las superficies declaradas para cada régimen u otras utilizaciones.
 
-i) A más tardar el 15 de octubre del año de presentación de la solicitud, los datos de beneficiarios, indicando para cada uno de ellos, las intervenciones solicitadas y las superficies determinadas para cada ayuda u otras utilizaciones.
+i) A más tardar el 15 de octubre del año de presentación de la solicitud, los datos de beneficiarios, indicando para cada uno de ellos, las intervenciones solicitadas y las superficies declaradas para cada ayuda u otras utilizaciones.
 
 2. Información sobre realizaciones, necesaria para el cálculo de los importes unitarios, los remanentes y asignaciones financieras definitivas de las intervenciones en forma de pagos directos.
 
-Para el cálculo de los importes unitarios por parte del FEGA, O.A. se utilizará la información enviada trimestralmente por las autoridades competentes para el seguimiento de la ejecución de las intervenciones contempladas en el Plan Estratégico Nacional de la Política Agrícola Común (PAC) del Reino de España 2023-2027, tal y como se recoge en el anexo IV del Real Decreto 1046/2022, de 27 de diciembre, con las especificidades recogidas en el artículo 124 del Real Decreto 1048//2022, de 27 de diciembre. En concreto, se utilizará la información relativa a las realizaciones comunicadas en los siguientes periodos:
+Para el cálculo de los importes unitarios por parte del FEGA, O.A., se utilizará la siguiente información enviada por las autoridades competentes:
 
-a) A más tardar el 1 de noviembre, en el caso de los pagos de las intervenciones y medidas del periodo comprendido entre el 1 de julio y el 15 de octubre, correspondientes a la solicitud del año anterior.
+a) A más tardar el 15 de julio, para el cálculo de los importes unitarios provisionales para el pago del anticipo de las ayudas asociadas por superficie y de los ecorregímenes, la indicada en la letra h) del apartado 1.
 
-b) A más tardar el 15 de abril, en el caso de los pagos las intervenciones y medidas del periodo comprendido entre el 1 de enero y el 31 de marzo.
+b) A más tardar el 7 de septiembre, para el cálculo de los importes unitarios provisionales de cara al pago del anticipo de las ayudas asociadas ganaderas que corresponda, el número de animales con derecho a pago de cada una de las intervenciones.
 
-c) A más tardar el 31 de julio, en el caso los pagos de las intervenciones y medidas del periodo comprendido entre el 1 de abril y el 30 de junio.
+c) A más tardar el 15 de octubre, para la revisión de los importes unitarios provisionales de cara al pago del primer saldo de las ayudas asociadas por superficie y de los ecorregímenes, la indicada en la letra i) del apartado 1.
+
+d) A más tardar el 15 de enero, para el cálculo del importe unitario provisional del pago específico al cultivo del algodón, la superficie determinada.
+
+e) A más tardar el 25 de enero, para el cálculo de los importes unitarios provisionales de las ayudas asociadas ganaderas relacionadas con el engorde de terneros, el número de animales con derecho al pago.
+
+f) A más tardar el 15 de abril, los animales y superficies determinados con derecho al pago, para el cálculo de los importes unitarios definitivos de la ayuda complementaria a la renta redistributiva, ayuda complementaria a la renta para los jóvenes agricultores y agricultoras, los ecorregímenes y las ayudas asociadas por superficie y ganaderas, el montante retenido de la ayuda básica a la renta para la sostenibilidad como consecuencia de la limitación y reducción progresiva de los pagos, así como la información correspondiente a los expedientes pendientes de pago.
+
+g) A más tardar el 31 de julio, los animales y superficies determinados de la ayuda básica a la renta para la sostenibilidad, la ayuda complementaria a la renta redistributiva, ayuda complementaria a la renta para los jóvenes agricultores y agricultoras, los ecorregímenes y las ayudas asociadas por superficie y ganaderas, así como la información correspondiente a los expedientes pendientes de pago, con el objeto de realizar la última estimación de remanentes que se trasvasará en primer lugar a las intervenciones que están sometidas a unas asignaciones financieras mínimas, conforme a lo establecido en los artículos 95, 97 y 98 del Reglamento (UE) 2021/2115 del Parlamento Europeo y del Consejo, de 2 de diciembre de 2021 y, en segundo lugar, una vez cubiertas las mismas, permitirá calcular el coeficiente de ajuste del pago de la ayuda básica a la renta para la sostenibilidad.
 
 3. Información sobre pastos permanentes.
 
@@ -46,13 +54,15 @@ a) Respecto a los ecorregímenes de agricultura de carbono y agroecología: past
 
 2.º A más tardar el último día del plazo de modificación de la solicitud única, autorizar la adaptación de las cargas ganaderas, en el caso de la práctica de pastoreo extensivo, por causa de fuerza mayor o circunstancias excepcionales, especialmente derivadas de alteraciones climáticas severas, en las que la disponibilidad de pasto se encuentre comprometida.
 
-3.º A más tardar el primer día del plazo de presentación de la solicitud única, período de no aprovechamiento de las superficies de pastos permanentes o temporales objeto de siega, durante el cual no se podrá realizar ninguna actividad en las mismas, de al menos 60 días, durante los meses de junio, julio y agosto, en el caso de la práctica de siega sostenible.
+3.º A más tardar el primer día del plazo de presentación de la solicitud única, período o periodos de no aprovechamiento de las superficies de pastos permanentes o temporales objeto de siega, durante el cual no se podrá realizar ninguna actividad en las mismas, de al menos 60 días, durante los meses de mayo, junio, julio y agosto, en el caso de la práctica de siega sostenible.
+
+4.º A más tardar el último día del plazo de modificación de la solicitud única, la reducción de la frecuencia de siega debido a factores que comprometan la disponibilidad de pastos de cara al mantenimiento de la biodiversidad y a evitar comprometer el ciclo de vida de los lepidópteros.
 
 b) Respecto a los ecorregímenes de agricultura de carbono y agroecología: rotación de cultivos y siembra directa en tierras de cultivo, establecidos en la subsección 3.ª, sección 4.ª, capítulo II, título III del Real Decreto 1048//2022, de 27 de diciembre.
 
 1.º A más tardar el último día del plazo de modificación de la solicitud única, información sobre las labores verticales permitidas excepcionalmente, en el caso de la práctica de siembra directa.
 
-2.º A más tardar el primer día del plazo de presentación de la solicitud, la decisión de rebajar el porcentaje de rotación hasta el 25 %, en la práctica de rotación de cultivos con especies mejorantes, en las explotaciones con más del 25 % de la tierra de cultivo correspondiente con especies plurianuales.
+2.º (Sin contenido)
 
 3.º A más tardar el último día del plazo de modificación de la solicitud, la decisión de rebajar el porcentaje de rotación hasta el 25 %, en la práctica de rotación de cultivos con especies mejorantes, en aquellas circunstancias justificadas, con base en condiciones agroclimáticas adversas
 
@@ -130,13 +140,15 @@ d) A más tardar el 15 de enero del año de presentación de solicitud, requisit
 
 e) A más tardar el 15 de enero del año de presentación de solicitud, intervenciones Feader SIGC por superficie en los que se realizarán controles sobre el terreno.
 
-f) A más tardar el 15 de enero del año de presentación de la solicitud, y para todas las intervenciones por superficie, los requisitos de subvencionabilidad y elementos específicos que se monitorizarán mediante fotografías geoetiquetadas.
+f) (Sin contenido)
 
 g) A más tardar el 15 de octubre al año anterior al de la realización de la evaluación de la calidad del Sistema de monitorización de superficies, la información necesaria para la adquisición de imágenes de satélite que se detalla en el artículo 29.
 
 h) A más tardar el último día del plazo de modificación de la solicitud única, los planes regionales de control a los que se hace referencia en el artículo 31.
 
 i) A más tardar el 15 de diciembre del año de solicitud, los registros de los resultados referentes al contenido de THC en las muestras de cáñamo analizadas.
+
+> Se modifican los apartados 1, 2, 4 y 7 por el art. 2.23 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 
 > Se añade el número 6 al apartado 4.c) y se modifica el apartado 5.b).1, por el art. 2.21 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 

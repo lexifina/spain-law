@@ -22,9 +22,11 @@ II. Elementos del paisaje
 
 Se establecerán unas dimensiones máximas, acordes a las establecidas en la definición de la BCAM 8 del anexo II del Real Decreto 1049/2022, de 27 de diciembre.
 
-III. Márgenes o islas de biodiversidad
+III. Márgenes, franjas e islas de biodiversidad.
 
 Se definen los márgenes de biodiversidad como aquellas franjas de terreno de vegetación que se implantan en los márgenes de las parcelas agrícolas para atender a la fauna silvestre o fauna específica, además de para lograr otros beneficios agronómicos y medioambientales, como la mejora del suelo.
+
+Se definen las franjas de biodiversidad como los terrenos de vegetación que se implantan en las parcelas agrícolas entre líneas de cultivos para atender a la fauna silvestre o fauna específica, además de para lograr otros beneficios agronómicos y medioambientales, como la mejora del suelo.
 
 Se definen las islas de biodiversidad como los terrenos de vegetación que se implantan en las parcelas agrícolas para atender a la fauna silvestre o fauna específica, además de para lograr otros beneficios agronómicos y medioambientales, como la mejora del suelo.
 
@@ -32,15 +34,15 @@ Requisitos:
 
 – Se ha de conseguir, al menos, 2 familias implantadas de entre las mencionadas en el apartado I de este anexo que podrán convivir con especies espontáneas, pero que deberán ser predominantes en dichas superficies. Se deberá respetar una dosis mínima de siembra razonable, de modo que permita alcanzar una cubierta herbácea adecuada para lograr el objetivo perseguido, que es favorecer la biodiversidad y potenciar el desarrollo de polinizadores.
 
-– Los márgenes e islas no tendrán fin productivo y deberán permanecer implantados, al menos, hasta el 1 de septiembre del año de solicitud única. Sí se permitirá la siega o control mecánico de malas hierbas.
+– Los márgenes, franjas e islas no tendrán fin productivo y deberán permanecer implantados, al menos, hasta el 1 de septiembre del año de solicitud única. Sí se permitirá la siega o control mecánico de malas hierbas.
 
-– No se permitirá el uso de especies vegetales alóctonas o invasoras para el establecimiento de márgenes o islas de biodiversidad.
+– No se permitirá el uso de especies vegetales o invasoras para el establecimiento de márgenes, franjas o islas de biodiversidad.
 
 – Se podrán establecer márgenes implantados en las franjas de protección de los ríos.
 
 – Requisitos dimensionales:
 
-● Márgenes de biodiversidad:
+● Márgenes y franjas de biodiversidad:
 
 ○ Anchura mínima: 2 m.
 
@@ -50,7 +52,7 @@ Requisitos:
 
 ○ Superficie mínima: 0,01 ha.
 
-IV. Zonas de no cosechado de cereales y oleaginosas
+IV. Zonas de no cosechado de cereales, leguminosas y oleaginosas
 
 Las zonas de no cosechado deberán permanecer en el terreno, con carácter general, al menos hasta el 1 de septiembre del año de solicitud. No obstante, cuando el cultivo todavía permanezca implantado por no haber concluido su ciclo productivo en dicha fecha, tendrá que permanecer al menos un mes adicional desde la fecha de cosecha del resto de la parcela o, en su caso, un mes adicional desde que se haya alcanzado el estado fenológico de madurez comercial del grano.
 
@@ -63,5 +65,7 @@ Las zonas de no cosechado deberán permanecer en el terreno al menos dos meses a
 Los requisitos dimensionales para estas zonas serán los mismos que para márgenes e islas de biodiversidad, según corresponda.
 
 Especies aromáticas incluidas: lavanda (Lavandula angustifolia), espliego (Lavandula latifolia), romero (Rosmarinus officinalis), tomillo (Thymus vulgaris), manzanilla (Chamaemelum nobile), salvia (Salvia officinalis y Salvia lavandulifolia), lavandín (Lavandula x hybrida).
+
+> Se modifica el apartado III y el título del apartado IV por el art. 3.37 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 
 > Se modifica el título del apartado IV y se añade el V por el art. 3.41 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460

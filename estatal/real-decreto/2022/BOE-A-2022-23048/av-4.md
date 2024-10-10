@@ -43,4 +43,6 @@
 | 19 | 0 ha a 6,64 ha. | 39,75 |
 | 6,65 ha a 17,62 ha. | 79,55 |
 | 20 | 0 ha a 5,53 ha. | 37,73 |
-| 5,54 ha a 23,05 ha. | 70,19 |
+| 5,54 ha a 23,05 ha. | 75,56 |
+
+> Se modifica la fila 20 de la tabla por el art. 3.35 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404

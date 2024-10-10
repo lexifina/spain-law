@@ -1,6 +1,6 @@
 ## ANEXO XVII
 
-## Listado cultivos leñosos
+## Listado cultivos leñosos a los efectos del artículo 38
 
 | Cultivos leñosos |
 | --- |
@@ -65,6 +65,9 @@
 | BAYAS GOJI. |
 | ENCINA MICORRIZADA O TRUFA |
 | MANO DE BUDA. |
+| LÚPULO |
+
+> Se modifica el título y se añade una fila por el art. 3.40 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 
 > Se modifica por el art. 3.43 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 

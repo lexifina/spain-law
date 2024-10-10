@@ -186,7 +186,7 @@ c) En las que la superficie de tierra cultivable es inferior o igual a 10 hectá
 
 d) Las certificadas de acuerdo con el Reglamento (UE) núm. 2018/848, sobre producción ecológica y etiquetado de los productos ecológicos.
 
-e) Las tierras de cultivo de las explotaciones situadas en la Comunidad Autónoma de Canarias desde el 1 de enero de 2025.
+e) Las tierras de cultivo destinadas al cultivo de hortícolas y al cultivo de la patata de las explotaciones situadas en la Comunidad Autónoma de Canarias desde el 1 de enero de 2025.
 
 4. Aspecto principal: Biodiversidad y paisaje (protección y calidad)
 
@@ -251,6 +251,8 @@ Se deberá cumplir con las siguientes obligaciones de acuerdo con el calendario 
 – La explotación, cuando proceda, debe contar con un plan de abonado para cada unidad de producción de la misma.
 
 – Aplicación localizada de purines y enterrado de estiércoles sólidos en las superficies agrícolas.
+
+> Se modifica el apartado 3 por el art. 4 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 
 > Se modifican los apartados 3 y 4 por el art. único.8 a 11 del Real Decreto 567/2024, de 18 de junio. Ref. BOE-A-2024-12378
 

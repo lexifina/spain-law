@@ -50,7 +50,7 @@ Sección primera 833 (promoción inmobiliaria).
 
 Sección primera 834 (servicios relativos a la propiedad inmobiliaria y a la propiedad industrial).
 
-Sección primera 86 (alquiler de bienes inmuebles) (*).
+Sección primera 862 (alquiler de bienes inmuebles de naturaleza rústica) (*).
 
 Sección segunda 721 (agentes colegiados de la propiedad industrial y de la propiedad inmobiliaria).
 
@@ -89,3 +89,5 @@ Sección primera 989 (otras actividades relacionadas con el espectáculo y el tu
 989.3 parques o recintos feriales.
 
 (*) Aplicable a personas jurídicas o grupos de personas físicas o jurídicas.
+
+> Se modifica por el art. 3.33 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404

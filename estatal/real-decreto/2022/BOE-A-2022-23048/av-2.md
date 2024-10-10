@@ -26,7 +26,7 @@ I. Información general
 
 11. Las advertencias contenidas en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y demás normativa vigente.
 
-12. Declaración de todas las parcelas agrarias de la explotación, incluidas aquéllas para las que no se solicite el cobro de ninguna intervención, indicándose en todo caso y para cada parcela, lo recogido en los puntos 1 a 5 del epígrafe III del presente anexo. Para cada recinto se indicará el régimen de tenencia, es decir, si el mismo es propiedad del beneficiario, se explota en régimen de arrendamiento o aparcería, indicando en estos casos, para recintos mayores de 2 hectáreas, el NIF del arrendador o cedente aparcero, usufructo o si se trata de una superficie comunal asignada por una entidad gestora de la misma, en cuyo caso deberá aportar la documentación relativa a dicha asignación. En el caso de las intervenciones para el desarrollo rural basadas en superficie, se incluirán las superficies no agrícolas por las que se solicita dicha ayuda. La indicación del NIF del arrendador o cedente aparcero podrá no realizarse en aquellas comunidades autónomas que tengan puesto en práctica un sistema que permita a los propietarios de las parcelas indicar que parcelas no pueden ser solicitadas al no estar arrendadas, evitando así la utilización fraudulenta de las mismas.
+12. Declaración de todas las parcelas agrarias de la explotación, incluidas aquéllas para las que no se solicite el cobro de ninguna intervención, indicándose en todo caso y para cada parcela, lo recogido en los puntos 1 a 5 del epígrafe III del presente anexo. Para cada recinto se indicará el régimen de tenencia, es decir, si el mismo es propiedad del beneficiario, se explota en régimen de arrendamiento o aparcería, indicando en estos casos, para recintos mayores de una hectárea, el NIF del arrendador o cedente aparcero, usufructo o si se trata de una superficie comunal asignada por una entidad gestora de la misma, en cuyo caso deberá aportar la documentación relativa a dicha asignación. En el caso de las intervenciones para el desarrollo rural basadas en superficie, se incluirán las superficies no agrícolas por las que se solicita dicha ayuda. La indicación del NIF del arrendador o cedente aparcero podrá no realizarse en aquellas comunidades autónomas que tengan puesto en práctica un sistema que permita a los propietarios de las parcelas indicar que parcelas no pueden ser solicitadas al no estar arrendadas, evitando así la utilización fraudulenta de las mismas.
 
 13. Declaración expresa de que conoce los usos y delimitaciones que figuran en la base de datos del SIGPAC (visor) para las parcelas agrícolas declaradas y que estos se corresponden con los usos y aprovechamientos que realiza en su explotación, presentando en caso contrario la alegación de cambio de uso SIGPAC o delimitación que corresponda.
 
@@ -62,25 +62,15 @@ Cuando el beneficiario sea una comunidad de bienes, herencia yacente o comunidad
 
 28. Declaración expresa de ser conocedor de que en las superficies de viñedo ilegales o que no dispongan de la correspondiente autorización de plantación, conforme a lo establecido en el apartado 6 del artículo 38, no podrá percibir el importe correspondiente al ecorrégimen de cubiertas vegetales y/o cubiertas inertes en las superficies de viñedo de la explotación.
 
-29. Conforme a lo previsto en el artículo 42.3, compromiso de realizar, en 2024, la práctica de cubiertas vegetales en la misma superficie que en 2023.
+29. Conforme a lo previsto en el artículo 42.4, compromiso de realizar, en 2025, la práctica de cubiertas vegetales en la misma superficie que en 2024 y así sucesivamente. En el caso de las prácticas de cubiertas vegetales e inertes en las superficies de cultivos leñosos, y conforme a lo dispuesto en los apartados 1.c) de los artículos 42 y 43, el beneficiario presentará declaración responsable que indique la no utilización de productos fitosanitarios sobre las cubiertas.
 
-En el caso de las prácticas de cubiertas vegetales e inertes en las superficies de cultivos leñosos, y conforme a lo dispuesto en los apartados 1.c) de los artículos 42 y 43, el beneficiario presentará declaración responsable que indique la no utilización de productos fitosanitarios sobre las cubiertas
+29 bis. En el caso de la práctica de cubiertas vegetales en cultivos leñosos, y conforme a lo dispuesto en el artículo 42.1 c), el beneficiario presentará declaración responsable que indique que, tras dos años realizando la práctica sobre la misma superficie, ha detectado un caso de inversión de flora que justifique la aplicación puntual de herbicidas al tercer año de realización de la práctica, por imposibilidad de erradicarla por medios mecánicos o mediante ganado.
 
 30. En el caso de la práctica de espacios de biodiversidad en tierras de cultivo y cultivos permanentes, y conforme a lo dispuesto en el artículo 44.8 el beneficiario presentará declaración responsable que indique la no utilización de productos fitosanitarios ni fertilizantes en las áreas no productivas con excepción de las zonas de no cosechado.
 
 31. Datos de Edificaciones e Instalaciones necesarios para la configuración del registro de explotaciones. Se debe identificar la clase de instalación, tipo de local y coordenadas del emplazamiento, dimensión, así como la parcela catastral en la que se localicen las instalaciones y edificaciones.
 
-32. Para el cumplimiento porcentaje mínimo de superficie agrícola dedicada a superficies o elementos no productivos, regulado en la BCAM 8, conforme a lo previsto en el anexo II del Real Decreto 1049/2022, de 27 de diciembre:
-
-– Indicación de las parcelas en barbecho que el beneficiario desea que le computen para el citado porcentaje mínimo.
-
-– Indicación de las parcelas de cultivos intermedios o cultivos fijadores de nitrógeno producidos sin productos fitosanitarios.
-
-– Declaración responsable del beneficiario de que es conocedor de la prohibición del empleo de productos fitosanitarios en la superficie de cultivos intermedios o cultivos fijadores de nitrógeno que ha decidido computar para cumplir el porcentaje mínimo establecido.
-
-– Delimitación de las lindes forestales.
-
-– Declaración expresa de que conoce la información relativa a los elementos del paisaje y franjas de protección de los cauces que figuran en la base de datos del SIGPAC (visor) para las parcelas agrícolas declaradas y que estos se corresponden con la realidad de su explotación, presentando en caso contrario la alegación de cambio de uso SIGPAC o delimitación que corresponda.
+32. (Sin contenido)
 
 33. En caso de que la solicitud única sea presentada por una entidad habilitada por la comunidad autónoma a tal fin, se deberá detallar la información que permita identificar dicha entidad.
 
@@ -91,6 +81,8 @@ En el caso de las prácticas de cubiertas vegetales e inertes en las superficies
 36. Autorización para que sus datos de contacto sean utilizados por el Ministerio de Agricultura, Pesca y Alimentación para realizar comunicaciones informativas sobre las ayudas de la PAC, ayudas estatales u otras medidas de apoyo al sector agrario, así como otras informaciones que puedan ser de interés.
 
 37. Declaración expresa sobre si el beneficiario se compromete al uso del cuaderno digital de explotación para todas las anotaciones recogidas en el contenido mínimo del anexo II del Real Decreto 1054/2022 de 27 de diciembre.
+
+38. A los efectos del cómputo de ingresos agrarios para el cumplimiento de la figura de agricultor activo, en caso de que el agricultor haya percibido ingresos ligados al autoconsumo en la propia explotación, deberá detallar los ingresos agrarios a considerarle.
 
 II. Declaración expresa de lo que solicita
 
@@ -160,7 +152,7 @@ Conforme a lo dispuesto en el artículo 30.2 bis, en el caso de explotaciones ga
 
 12. En el caso de la ayuda asociada a los productores de frutos secos en áreas con riesgo de desertificación a que se refiere la subsección 6.ª de la sección 1.ª del capítulo III del título III, deberá indicar para cada parcela agrícola y recinto SIGPAC las especies y el número de árboles de cada una de las especies existentes beneficiarias de dicha ayuda.
 
-12 bis. En el caso de la ayuda asociada al olivar con dificultades específicas y alto valor medioambiental a que se refiere la subsección 9.ª de la sección 1.ª del capítulo III del título III, deberá indicar para cada parcela agrícola y recinto SIGPAC el número de olivos beneficiarios de dicha ayuda.
+12 bis. (Sin contenido)
 
 13. En el caso de la ayuda asociada a la producción tradicional de uva pasa a que se refiere la subsección 7.ª de la sección 1.ª del capítulo III del título III, deberá declarar la estimación de la cantidad total de uva a producir procedente del total de superficie por la que se solicita ayuda.
 
@@ -223,6 +215,8 @@ V. Información y documentación adicional
 6. En el caso de las ayudas asociadas para los ganaderos extensivos de vacuno de carne, para la producción sostenible de leche de vaca, para la producción sostenible de leche de oveja y cabra a las que se refieren las subsecciones 2.ª, 5.ª y 7.ª de la sección 2.ª del capítulo III del título III, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
 
 7. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al beneficiario de la necesidad de presentación de dicha documentación, salvo en el caso de que él mismo manifieste su oposición expresa a que la administración acceda a los citados documentos.
+
+> Se modifica por el art. 3.34 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 
 > Se modifica por el art. 3.37 del Real Decreto 1177/2023, de 27 de diciembre. Ref. BOE-A-2023-26460
 
