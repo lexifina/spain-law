@@ -122,11 +122,13 @@ D) Una única declaración responsable que acredite que cada uno de los titulare
 
 E) La documentación específica que requiera cada acción, actuación, inversión y concepto de gasto.
 
-F) Certificado en el que figure el acuerdo adoptado por la asamblea general de la entidad, o por el órgano equivalente de la sección si dicha entidad está organizada en secciones, o por el órgano equivalente según la personalidad jurídica de la organización de productores, para obtener el reembolso de las inversiones o valor residual de las inversiones en caso de que el/los miembros cause/n baja en la organización o de que las inversiones subvencionadas dejen de estar a disposición de la organización de productores o sufran un cambio sustancial que afecte a la naturaleza, objetivos o condiciones de aplicación de las inversiones.
+F) Certificado en el que figure el acuerdo adoptado por la asamblea general de la entidad, o por el órgano equivalente de la sección si dicha entidad está organizada en secciones, o por el órgano equivalente según la personalidad jurídica de la organización de productores, para obtener el reembolso de las inversiones o valor residual de las inversiones en caso de que el/los miembro/s cause/n baja en la organización.
 
 G) Declaración responsable en la que la entidad se compromete a cumplir las disposiciones establecidas en la norma vigente que regula los programas y fondos operativos de las organizaciones de productores del sector de frutas y hortalizas.
 
 H) Declaración responsable relativa a la información mencionada en el segundo guion de la Parte I, letra B.i, del presente anexo.
+
+> Se modifica la letra F) de la parte II por el art. 2.9 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 
 > Se modifica la letra E de la parte I por el art. 4.12 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 

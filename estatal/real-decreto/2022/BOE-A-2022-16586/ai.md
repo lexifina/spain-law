@@ -2,7 +2,7 @@
 
 ## Tipos de intervenciones, acciones, actuaciones, inversiones y conceptos de gasto subvencionables en el marco de los programas operativos y los requisitos relativos a las mismas
 
-No se podrán incluir actuaciones en los programas operativos que conlleven un incremento de la producción de melocotón, nectarina, paraguaya, platerina y melocotón plano.
+No se podrán incluir actuaciones en los programas operativos que conlleven un incremento de la producción de melocotón, nectarina, paraguaya, platerina y melocotón plano, así como en limón y pomelo.
 
 Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, investigación y métodos de producción experimentales e innovadores y otras acciones
 
@@ -11,8 +11,8 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.1 Infraestructuras de las explotaciones o instalaciones. |  |
 | A.1.1 Instalaciones de riego en parcelas. |  |
 | Estas inversiones podrán contener entre otros elementos: tuberías, válvulas, ventosas, hidrantes, caudalímetros, transmisiones de presión, variadores y arrancadores, calderines, sistemas de telecontrol, automatismos, filtros. Goteros, aspersores, hidrociclón, cañón. Equipos de sulfatación y de fertirrigación, generadores de ozono, equipos de desinfección del agua, equipos de medición, sistemas de drenaje, sistemas de humidificación, depósitos. Estaciones de bombeo (Bombas, obra civil para su instalación, transformadores, infraestructuras de suministro de energía). Cabezales de riego, sistemas de control de desinfección de cabezales, sistemas de ozonización y oxigenación en agua de riego. Tensiómetros, sensores y sondas de humedad. Placas solares para cabezales. Grupos electrógenos para cabezales. Contadores, sistemas de control de riego, mejoras en las líneas de goteo, cintas exudantes. Honorarios de redacción de proyectos. Otros. | La instalación debe contar con un sistema de contadores que permita medir el uso del agua de la superficie a la que afecte las inversiones. Deben registrarse las lecturas de los contadores. Si se trata de una mejora de instalación existente, se debe hacer una evaluación ex ante del potencial de ahorro de agua que refleje los parámetros técnicos de las instalaciones o infraestructuras existentes. Esta evaluación exante podrá consistir es las estipulaciones técnicas y prestaciones documentadas relativas a la inversión, proporcionadas por el proveedor Si se trata de una mejora de instalación existente y si la inversión afecta a masas de agua cuyo estado se haya determinado como inferior a bueno en el plan hidrológico de cuenca pertinente por motivos relativos a la cantidad de agua, se conseguirá una reducción efectiva del consumo de agua, de manera que se contribuya a la consecución del buen estado de estas masas de agua. En las inversiones que tengan como resultado un incremento neto de la superficie de riego, las masas de agua afectadas deberán no haber sido calificadas como inferior a bueno por motivos relativos a la cantidad de agua y demostrarse, que no se producirá ningún efecto medioambiental negativo significativo a raíz de la inversión. Si fruto de esta inversión se consigue una reducción efectiva del consumo de agua se considerará que contribuye a la consecución del objetivo contemplado en la letra e) del artículo 46 del Reglamento (UE) n.º 2021/2115. La misma inversión en riego no puede ser incluida en el ámbito de miembro y dentro de una misma anualidad en dos acciones simultáneamente |
-| A.1.2 Embalses, pozos y balsas de riego. | Las inversiones para la creación o ampliación de embalses de riego no provocarán un efecto medioambiental negativo significativo. |
-| Estas inversiones podrán contener entre otros elementos: movimientos y nivelación de tierras, Estudios geotécnicos, membranas de impermeabilización, valvulería, tuberías, bombas, aliviaderos, desagües, perforaciones, entubado de pozos. Construcción y equipamiento de pozos y de balsas de riego, techado de balsas. Mitigador de algas. Suministro y proyectado de gunita, proyectos de prospección y explotación de aguas subterráneas ante el organismo correspondiente (pozos). Otros. |
+| A.1.2 Embalses, pozos y balsas de riego. |  |
+| Estas inversiones podrán contener entre otros elementos: movimientos y nivelación de tierras, Estudios geotécnicos, membranas de impermeabilización, valvulería, tuberías, bombas, aliviaderos, desagües, perforaciones, entubado de pozos. Construcción y equipamiento de pozos y de balsas de riego, techado de balsas. Mitigador de algas. Suministro y proyectado de gunita, proyectos de prospección y explotación de aguas subterráneas ante el organismo correspondiente (pozos). Otros. | – Las inversiones para la creación o ampliación de embalses de riego no provocarán un efecto medioambiental negativo significativo. – Los proyectos de prospección y explotación de aguas subterráneas deberán contar con la autorización correspondiente. |
 | A.1.3 Desaladoras y otras instalaciones para el riego. |  |
 | Entre otros elementos podrá incluir: obra civil, filtros, tuberías, membranas, válvulas, ventosas, transformadores, bombas, automatismos, depósitos y balsas. Infraestructuras de transporte de agua (canales y tuberías de gran capacidad). Otros |
 | A.1.4 Acondicionamiento de parcelas para realizar nuevas plantaciones. | Los acolchados biodegradables en suelo deben estar certificados según la norma UNE EN 17033:2018 |
@@ -38,7 +38,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | – Otros. |
 | A.1.8 Semilleros y viveros: Semilleros, maquinaria para desinfección, desapilador de bandejas, otros. |  |
 | A.2 Medios de producción. |  |
-| A.2.1 Maquinaria y aperos. | En lo que se refiere a la maquinaria, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por técnico competente. Se excluyen las herramientas manuales. |
+| A.2.1 Maquinaria y aperos. | - En lo que se refiere a la maquinaria, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por técnico competente. - Se excluyen las herramientas accionadas manualmente que no requieren ninguna fuente de energía para su funcionamiento y uso. - En caso de que sea obligatorio normativamente, toda la maquinaria y aperos deberá estar inscrita en el Registro Oficial de Maquinaria Agrícola. |
 | Maquinaria y aperos específicos para llevar a cabo las labores de los cultivos incluida la recolección (plataformas de recolección y envasado en campo) para los que está reconocida la organización de productores, o en caso de que esta maquinaria no fuera exclusiva de esos cultivos, justificación de que el valor de esos cultivos representa menos del 50 % de los cultivos empleados por esa acción. |
 | A.2.2 Vehículos. | La titular de los vehículos será la organización de productores y deberán llevar el anagrama de dicha organización de productores. |
 | Vehículos para: Transporte interno de producto de la OP entre centros de trabajo de una OP y desde las explotaciones hasta las instalaciones de la OP; acceso a las explotaciones; quads para trabajo en explotaciones; Otros. | Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación. |
@@ -60,7 +60,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | – Elementos de entutorado de la plantación, etc. |
 | – Insectarios: construcción y equipamiento de edificios e instalaciones para la cría y aclimatación de especies de enemigos naturales de las plagas (parasitoides, depredadores o patógenos), |
 | A.3 Ajuste de la oferta a la demanda. |  |
-| A.3.1 Arranque de plantaciones de cultivos leñosos. | Únicamente se podrán arrancar variedades que presenten problemas de comercialización en el mercado. El arranque deberá notificarse al Sistema Español de Inventario para poder hacer un seguimiento de las emisiones. |
+| A.3.1 Arranque de plantaciones de cultivos leñosos. | - Únicamente se podrán arrancar variedades que presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. El arranque deberá notificarse al Sistema Español de Inventario para poder hacer un seguimiento de las emisiones. - Se limitará anualmente al 10 % de la superficie de la organización de productores para la variedad en cuestión. No obstante, dicho porcentaje podrá aumentarse hasta el 25 % si el arranque va acompañado de una reconversión varietal siempre que con la misma no se produzcan incrementos productivos y se realice hacia variedades que no presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. - El gasto anual con cargo al programa operativo estará limitado a 4.750 €/hectárea. |
 | A.4 Medidas dirigidas a mejorar la comercialización. |  |
 | A.4.1 Obra civil dirigida a mejorar la comercialización. |  |
 | – Adquisición/construcción de naves, construcción de centrales hortofrutícolas, construcción de centros logísticos y de comercialización, industrias de transformación, acondicionamiento y cubierta de espacios para recepción o expedición de productos hortofrutícolas, ampliaciones de centros de transformación, construcción de muelles de recepción y expedición, aislamientos naves, acondicionamientos de espacios para cámaras frigoríficas, acondicionamiento de suelos; mejora, ampliaciones, acondicionamiento y reforma de los elementos anteriores, así como sus proyectos de ejecución, incluidos los gastos de honorarios de proyecto, vías de acceso a las centrales hortofrutícolas, Sistema de recogida de aguas pluviales etc. | – No será subvencionable la construcción o reforma de dependencias como aseos, comedores, oficinas, salas de reuniones, etc. de forma aislada. – Las vías de acceso se dimensionarán en función del tráfico que vaya a soportar derivado de la actividad de la OP. – Se deberá disponer de licencia de obra. |
@@ -84,13 +84,16 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.4.6 Inversiones y gastos relacionados con la transformación de frutas y hortalizas en frutas y hortalizas transformadas. |  |
 |  |
 | A.5 Medidas dirigidas a investigación y producción experimental. |  |
-| A.5.1 Inversiones en instalaciones experimentales o fincas piloto. | – La producción experimental, se determinará mediante coste específico. Sólo podrá aprobarse cuando se disponga de personal cualificado que se encargue de la misma y se presente un protocolo sobre la experimentación a realizar que justifique la novedad del mismo y el riesgo que supone. Dicho protocolo deberá incluir el cálculo de los costes específicos, y ser valorado por un Centro público de evaluación en investigación u organismo equivalente a juicio del órgano competente. – Las inversiones han de contar con las autorizaciones y licencias necesarias según requiera la naturaleza de la inversión. – Los proyectos de investigación podrán ser proyectos colectivos, promovidos por las OP y/o AOP junto a otras OP, AOP u otras entidades. – Las OP podrán incluir en sus PO las contribuciones a proyectos de centros de investigación. |
-| A.5.2 Personal propio o externo cualificado dedicado a investigación o producción experimental en exclusiva, o justificado con control horario. |  |
-| A.5.3 Material no fungible de laboratorio. |  |
-| A.5.4 Contrataciones externas con centros de investigación, contribuciones de la OP o la AOP a proyectos de centros de investigación, en el marco de convenios de colaboración. |  |
-| A.5.5 Adquisición de plantas perennes. |  |
-| A.5.6 Otros gastos en función de las características de la acción experimental y del grado de innovación y el riesgo que entrañe la misma. Participación en programa de mejora varietal, campos de ensayo, etc. Participación en proyectos colectivos, promovidos por la OP junto con otras OP, AOP u otras entidades, tales como Centros de Investigación. |  |
-| A.5.7 Estudios dirigidos a investigación y producción experimental | Deberán ser valorados por un centro público de evaluación en investigación u organismo equivalente a juicio del órgano competente. |
+| i) Ejecutadas por la OP o la AOP: |  |
+|  |
+| A.5.1 Inversiones en instalaciones experimentales o fincas piloto. | – Las inversiones realizadas en las instalaciones de la OP o la AOP habrán de contar con las autorizaciones y licencias necesarias según requiera la naturaleza de la inversión. – Las inversiones deberán enmarcarse en el desarrollo de un proyecto de investigación dirigido a investigación y producción experimental. – Las fincas piloto deberán promover prácticas sostenibles en favor de una agricultura respetuosa con el medioambiente. |
+| A.5.2 Desarrollo de estudios dirigidos a investigación y producción experimental. | – Deberán ser valorados por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente. – Las solicitudes de ayuda se acompañarán de un certificado del centro de investigación en el que conste la evaluación del trabajo realizado y del presupuesto ejecutado y que es coincidente con el aprobado. |
+| A.5.3 Desarrollo de proyectos de investigación dirigidos a investigación y producción experimental. | – La producción experimental se determinará mediante coste específico. Sólo podrá aprobarse cuando se disponga de personal cualificado que se encargue de la misma y se presente un protocolo sobre la experimentación a realizar que justifique la novedad del mismo y el riesgo que supone. Dicho protocolo deberá incluir el cálculo de los costes específicos, y ser valorado por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente. |
+| – Los proyectos de investigación podrán ser proyectos colectivos, promovidos por las OP y/o AOP junto a otras OP, AOP u otras entidades. – Las solicitudes de ayuda se acompañarán de un certificado del centro de investigación en el que conste la evaluación del trabajo realizado y del presupuesto ejecutado y que es coincidente con el aprobado. |
+| ii) Ejecutadas por entidades externas a la OP o la AOP: |
+| A.5.4 Contrataciones externas con centros de investigación de estudios dirigidos a investigación o producción experimental. | – Deberá existir coherencia con el producto para el que está reconocida la OPFH y con los objetivos que ésta haya establecido en el proyecto de programa operativo. – Serán subvencionables los gastos de honorarios de redacción de proyectos y estudios. |
+| A.5.5 Contrataciones externas con centros de investigación de proyectos dirigidos a investigación y producción experimental. |
+| A.5.6 Contribuciones de la OP o la AOP a proyectos de centros de investigación, en el marco de convenios de colaboración. |
 | A.6 Otras acciones, actuaciones, inversiones y conceptos de gasto. |  |
 | A.6.1 Fusiones, adquisiciones y participaciones. |  |
 | – Compra de terrenos no edificados cuando sea necesaria para efectuar una inversión incluida en el programa y compra de bienes inmuebles, de conformidad con las condiciones establecidas en el anexo III del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, siempre que no hayan sido comprados con ayuda de la Unión Europea o ayuda nacional en los últimos 10 años. | La compra de terrenos no edificados deberá estar motivada en los objetivos que están previstos alcanzar en su PO. |
@@ -196,6 +199,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.ix.21 Utilización de Micorrizas arbusculares, este hongo que coloniza la raíz mejora la capacidad de extracción de nutrientes, la superficie de absorción, mejora la resistencia de la planta al estrés hídrico, tolerancia a patógenos radiculares, mejora de la textura del suelo. |  |
 | A.ix.22 Utilización de microorganismos no micorrícicos: bacterias y hongos que favorezcan el aporte o la asimilación de nutrientes a las plantas; que favorezcan una respuesta de la planta al estrés abiótico o que sean eficaces en control biológico. |
 | A.ix.23 Maquinaria de suelta de depredadores naturales |  |
+| A.ix.24 Utilización de la técnica del despampanado mediante poda o eliminación manual de brotes u hojas en el cultivo de uva de mesa para reducir el uso de productos químicos. |
 | x) crear y conservar hábitats propicios a la biodiversidad, |  |
 | A.x.1 Implantación de setos o zonas de vegetación silvestre en la parcela para favorecer la biodiversidad y el mantenimiento/restauración del paisaje. Reforestación de las cuencas de los barrancos y zonas limítrofes con las zonas de producción, charcas bebederos para fauna silvestre, cajas nido. | No son subvencionables el mantenimiento ni la conservación de los setos |
 | A.x.2 Desarrollo, aplicación y fomento de métodos de prevención de daños ocasionados por la fauna salvaje sobre las plantaciones hortofrutícolas, con el objetivo de preservar y mantener la biodiversidad. |  |
@@ -206,7 +210,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | xi) mejorar las condiciones de empleo y las obligaciones del empleador, así como la salud y seguridad en el trabajo, de conformidad entre otros con las Directivas 1152/2019 / UE (condiciones de trabajo transparentes y predecibles), 89/391 / CEE y 2009/104 / CE (sobre seguridad y salud en el trabajo); dicho objetivo guarda relación con el objetivo específico establecido en el artículo 6, letra h); |  |
 | A.xi.1 Alojamientos para trabajadores temporales o adaptación de los mismos para cumplir con las medidas de seguridad o recomendaciones de distanciamiento |  |
 | A.xi.2 Equipos de protección individual | Material no fungible (amortización superior a un año) |
-| A.xi.3 Medios de transporte que faciliten el acceso al trabajo |  |
+| A.xi.3 Medios de transporte que faciliten el acceso al trabajo | – Los vehículos para acceso a las explotaciones serán de uso exclusivo para el personal cualificado al servicio de la OP en la realización de las actividades de la misma. La titular de los vehículos será la organización de productores. – Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos recogidos en el apartado 6 del anexo II del Reglamento Delegado (UE) número 2022/126. |
 | A.xi.4 Acondicionamiento de maquinaria e instalaciones para limitar riesgos laborales | Será subvencionables los costes que sean superiores a los requisitos obligatorios |
 | A.xi.5 Instalaciones de evacuación | Será subvencionables los costes que sean superiores a los requisitos obligatorios |
 | A.xi.6 Instalaciones de primeros auxilios | Será subvencionables los costes que sean superiores a los requisitos obligatorios |
@@ -233,7 +237,7 @@ Tipo de intervención 1.b) Servicios de asesoramiento y asistencia técnica, en 
 | B.12 Evaluación de riesgos en el trabajo |  |
 | B.13 Formación a los trabajadores sobre condiciones de trabajo y seguridad y salud |  |
 | B.14 Asistencia técnica para evaluar sobre las condiciones laborales, así como sobre la salud y seguridad en el trabajo |  |
-| B.15 Asesoría en otros aspectos propios del Programa operativo distintas de los anteriores |  |
+| B.15 Asesoría en otros aspectos propios del Programa operativo distintas de los anteriores | – No serán subvencionables los gastos administrativos relacionados con la elaboración del programa operativo. |
 | B.16 Sistemas de apoyo para la toma de decisiones sobre el manejo integrado de plagas |  |
 | B.17 Refuerzo del asesoramiento: contratación de técnicos para tutorización, seguimiento y asesoramiento agronómico. |  |
 | Otros |  |
@@ -286,24 +290,10 @@ Tipo de intervención 1.f) Promoción, comunicación y comercialización, inclui
 | --- | --- |
 | F.1 Campañas de promoción y comunicación para concienciar a los consumidores sobre los regímenes de calidad de la Unión |  |
 | F.2 Campañas de promoción y comunicación para concienciar a los consumidores sobre y la importancia de dietas saludables |  |
-| F.3 Promoción comercial | – En el caso de la promoción comercial: • Lo establecido en el artículo 14 del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021. • No se podrán incluir inversiones o conceptos de gasto que reciban subvención a través de otras vías. • Se deberá presentar un plan de promoción que recoja al menos los objetivos del plan, las actuaciones que se van a realizar y, en su caso, la sinergia entre ellas, los destinatarios del plan y los principales mensajes a transmitir. – Sólo serán elegibles premios relacionados con la actividad de frutas y hortalizas (por ejemplo, una cesta de frutas, material para cocinar estos productos, libros relacionados...) – En el caso concreto de la participación en ferias, en caso de que ya se reciba subvención por otra vía para alguno de las inversiones o conceptos de gasto de una determinada feria, no se podrán incluir los otros en el marco de los PO. – La asistencia de personal de la OP/AOP a ferias estará limitada al personal comercial contratado por la entidad para actividades comerciales. |
-| Promoción genérica, de marcas de la OP, de la AOP o filiales y de etiquetas de calidad mediante: |
-| – Creación de sitios de Internet, así como sus modificaciones y actualizaciones. |
-| – Publicidad específica en los envases finales que llegan al consumidor o envases que llegan al punto de venta directa al consumidor: pegatinas o sobrecoste de la impresión en el envase. |
-| – Publicidad en las piezas de fruta: pegatinas |
-| – Publicidad en vallas, posters, toldos |
-| – Publicidad en medios de comunicación |
-| – Iniciativas pedagógicas destinadas a los niños y adolescentes en los centros de enseñanza, |
-| – Iniciativas de información a los consumidores en los lugares de venta, |
-| – Folletos con información sobre los productos y recetas, pasatiempos infantiles, etc. |
-| – Material de concursos (premios, folletos) que promuevan el consumo de frutas y hortalizas. |
-| – Merchandising |
-| – Participación en ferias relacionadas con la actividad de frutas y hortalizas: |
-| – Coste de los stands (alquiler del suelo, alquiler de carpa, diseño, montaje, elementos), azafatas y otro personal del stand, actividades de animación, etc. |
-| – Asistencia de personal propio o externo, incluidos gastos de desplazamiento de la OP/AOP. |
-| – Coste del producto utilizado en demostraciones y actos promocionales |
-| – Aportaciones para llevar a cabo operaciones de promoción, no financiadas con ayudas públicas, conjuntamente con otras OP. |
-| – Promoción conjunta en la que participen varias OP |
+| F.3 Promoción comercial |  |
+| F.3.1 Promoción genérica, de marcas de la OP, de la AOP o filiales y de etiquetas de calidad mediante, entre otros: – Creación de sitios de Internet, así como sus modificaciones y actualizaciones. – Publicidad específica en los envases finales que llegan al consumidor o envases que llegan al punto de venta directa al consumidor: pegatinas o sobrecoste de la impresión en el envase. – Publicidad en las piezas de fruta: pegatinas. – Publicidad en vallas, posters, toldos. – Publicidad en medios de comunicación. – Iniciativas pedagógicas destinadas a los niños y adolescentes en los centros de enseñanza. – Iniciativas de información a los consumidores en los lugares de venta. – Folletos con información sobre los productos y recetas, pasatiempos infantiles, etc. – Material de concursos (premios, folletos) que promuevan el consumo de frutas y hortalizas. – Merchandising. | – Se deberá respetar lo establecido en el artículo 14 del Reglamento Delegado (UE) número 2022/126 de la Comisión, de 7 de diciembre de 2021. – No se podrán incluir inversiones o conceptos de gasto que reciban subvención a través de otras vías. – Se deberá presentar un plan de promoción que recoja al menos los objetivos del plan, las actuaciones que se van a realizar y, en su caso, la sinergia entre ellas, los destinatarios del plan y los principales mensajes a transmitir. – Sólo serán elegibles premios relacionados con la actividad de frutas y hortalizas (por ejemplo, una cesta de frutas, material para cocinar estos productos, libros relacionados…). – En el caso concreto de la participación en ferias, en caso de que ya se reciba subvención por otra vía para alguno de las inversiones o conceptos de gasto de una determinada feria, no se podrán incluir los otros en el marco de los PO. – La asistencia de personal de la OP/AOP a ferias estará limitada al personal comercial contratado por la entidad para actividades comerciales. |
+| F.3.2 Participación en ferias relacionadas con la actividad de frutas y hortalizas: – Coste de los stands (alquiler del suelo, alquiler de carpa, diseño, montaje, elementos), azafatas y otro personal del stand, actividades de animación, etc. – Asistencia de personal propio o externo, incluidos gastos de desplazamiento de la OP/AOP. |
+| F.3.3 Otros: – Coste del producto utilizado en demostraciones y actos promocionales. – Aportaciones para llevar a cabo operaciones de promoción, no financiadas con ayudas públicas, conjuntamente con otras OP. – Promoción conjunta en la que participen varias OP. |
 | F.4 Personal propio o externo cualificado para la mejora del nivel de comercialización. |  |
 | – Personal: para justificar que el personal es cualificado se deberá aportar una descripción y justificación de la cualificación del puesto de trabajo o del trabajo a realizar. Sólo se subvencionará personal adicional al ya contratado, o personal que aun estando contratado con anterioridad y disponiendo de la cualificación requerida, realice una nueva actividad (control del momento óptimo de la recolección en términos de grados brix y consistencia, optimización del almacenamiento o variedades más adecuadas entre otros), comercialización de nuevos productos, nuevas líneas o en nuevos mercados. La justificación del coste se realizará mediante gastos reales. – El gasto correspondiente a las actuaciones de personal B.1 y F.4, estará limitado al 20 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite. |
 | F.5 Apertura de oficinas comerciales en el exterior. – Adquisición/construcción de la obra civil – Instalaciones y equipamiento. – Personal | – En lo que se refiere tanto a la obra civil como a la maquinaria, instalaciones y equipos de las oficinas comerciales en el exterior, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por un técnico competente. – La organización de productores deberá presentar en el momento de la solicitud de la ayuda total o saldo documentación justificativa de los trabajos comerciales realizados. |
@@ -403,7 +393,17 @@ Condiciones de Subvencionalidad:
 
 – Respetar la normativa medioambiental y sanitaria establecida por las comunidades autónomas u otros órganos competentes.
 
-Tipo de intervención 2.j) Orientación a otras organizaciones de productores y asociaciones de organizaciones de productores, reconocidas.
+Tipo de intervención 2.j) Orientación a otras organizaciones de productores y asociaciones de organizaciones de productores o asociaciones transnacionales de organizaciones de productores, reconocidas.
+
+Condiciones de subvencionalidad:
+
+– Se deberán respetar las disposiciones establecidas en el artículo 13 del Reglamento Delegado (UE) número 2022/126 de la Comisión, de 7 de diciembre de 2021.
+
+– Serán subvencionables los siguientes costes que formen parte de las medidas de prevención y gestión de crisis del programa operativo:
+
+a) Los costes de organización y prestación de asesoramiento, y
+
+b) Los gastos de viaje, alojamiento y las dietas del prestador de asesoramiento.
 
 Tipo de intervención 2.k) Aplicación y gestión de requisitos sanitarios y fitosanitarios de terceros países en el territorio de la Unión para facilitar el acceso a los mercados de terceros países.
 
@@ -420,6 +420,8 @@ Podrá incluir actuaciones realizadas como consecuencia de:
 – Precios anormalmente bajos en momentos puntuales que puedan afectar al comportamiento de la campaña.
 
 – Otras motivaciones, como la disminución coyuntural del consumo debido a condiciones climáticas desfavorables
+
+> Se modifica por el art. 2.8 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 
 > Se modifica por el art. 4.11 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 

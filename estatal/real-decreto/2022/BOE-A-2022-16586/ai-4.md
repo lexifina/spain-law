@@ -4,42 +4,44 @@
 
 | Producto | Importe de ayuda (€/100 kg) |
 | --- | --- |
-| Distribución Gratuita | Otros Destinos |
-| Acelga. | 35,60 | 26,70 |
-| Aguacate. | 114,76 | 86,07 |
-| Ajo. | 75,00 | 56,25 |
-| Alcachofa. | 43,74 | 32,81 |
-| Arándano. | 304,86 | 228,64 |
-| Apio. | 19,38 | 14,53 |
-| Brócoli. | 34,84 | 26,13 |
-| Calabacín. | 24,51 | 18,39 |
-| Calabaza. | 25,56 | 19,17 |
-| Caqui. | 29,03 | 21,77 |
-| Cebolla. | 11,38 | 8,54 |
-| Cereza. | 95,08 | 71,31 |
-| Champiñón. | 79,42 | 59,57 |
-| Ciruela. | 34,26 | 25,69 |
-| Escarola. | 30,24 | 22,68 |
-| Espárrago. | 265,41 | 199,05 |
-| Espinaca. | 55,42 | 41,56 |
-| Frambuesa. | 437,78 | 328,33 |
-| Fresa. | 83,83 | 62,87 |
-| Granada. | 48,12 | 36,09 |
-| Haba verde. | 58,96 | 44,22 |
-| Híbridos de pequeños cítricos. | 40,25 | 30,24 |
-| Higo fresco. | 63,65 | 47,74 |
-| Judía verde. | 95,21 | 71,40 |
-| Kiwi. | 55,10 | 41,32 |
-| Lechuga. | 33,28 | 24,96 |
-| Nabo, nabicol y chirivía. | 27,96 | 20,97 |
-| Níspero. | 74,02 | 55,52 |
-| Papaya. | 32,38 | 24,28 |
-| Paraguaya, platerina y melocotón plano. | 39,53 | 29,65 |
-| Pepino. | 24,83 | 18,62 |
-| Pimiento. | 37,56 | 28,17 |
-| Puerro. | 36,57 | 27,43 |
-| Repollo, col. | 22,84 | 17,13 |
-| Zanahoria. | 18,63 | 13,97 |
-| Mora. | 260,04 | 195,03 |
+| Distribución gratuita | Otros destinos |
+| Acelga. | 44,64 | 33,48 |
+| Aguacate. | 112,50 | 84,38 |
+| Ajo. | 80,21 | 60,16 |
+| Alcachofa. | 57,37 | 43,03 |
+| Arándano. | 365,31 | 273,99 |
+| Apio. | 22,25 | 16,69 |
+| Brócoli. | 47,26 | 35,44 |
+| Calabacín. | 28,69 | 21,52 |
+| Calabaza. | 18,12 | 13,59 |
+| Caqui. | 32,62 | 24,47 |
+| Cebolla. | 15,76 | 11,82 |
+| Cereza. | 112,83 | 84,62 |
+| Champiñón. | 78,74 | 59,05 |
+| Ciruela. | 40,26 | 30,19 |
+| Escarola. | 34,70 | 26,02 |
+| Espárrago. | 165,84 | 124,38 |
+| Espinaca. | 67,32 | 50,49 |
+| Frambuesa. | 263,88 | 197,91 |
+| Fresa. | 80,90 | 60,68 |
+| Granada. | 54,67 | 41,00 |
+| Haba verde. | 71,45 | 53,59 |
+| Híbridos de pequeños cítricos. | 44,14 | 33,10 |
+| Higo fresco. | 70,41 | 52,81 |
+| Judía verde. | 108,58 | 81,43 |
+| Kiwi. | 40,10 | 30,08 |
+| Mora. | 289,42 | 217,06 |
+| Lechuga. | 33,44 | 25,08 |
+| Nabo, nabicol y chirivía. | 16,63 | 12,48 |
+| Níspero. | 91,59 | 68,69 |
+| Papaya. | 46,31 | 34,73 |
+| Paraguaya, platerina y melocotón plano. | 52,02 | 39,02 |
+| Pepino. | 30,10 | 22,57 |
+| Pimiento. | 44,90 | 33,68 |
+| Puerro. | 46,50 | 34,87 |
+| Repollo, col. | 32,09 | 24,07 |
+| Zanahoria. | 22,14 | 16,60 |
+
+> Se modifica por el art. 2.11 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 
 > Se modifica por la disposición final 3.5 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-3

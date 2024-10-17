@@ -2,51 +2,51 @@
 
 ## Compensaciones económicas por la cosecha en verde y la renuncia a la recolección
 
-Parte A) Recolección normal:
+Parte A) Recolección normal
 
 | Producto | Compensación (€/ha) |
 | --- | --- |
 | Secano | Regadío al aire libre | Regadío protegido |
-| Productos del anexo V del Reglamento Delegado n.º 2022/126 |
-| Coliflor. | 2.136 | 3.339 | – |
-| Manzana. | 1.418 | 4.730 | – |
-| Uva. | 1.068 | 8.332 | – |
-| Albaricoque. | 966 | 3.837 | – |
-| Nectarina. | 1.178 | 5.345 | – |
-| Melocotón. | 1.095 | 5.318 | – |
-| Pera. | 1.650 | 4.007 | – |
-| Sandía. | 614 | 3.763 | 3.715 |
-| Naranjas. | – | 5.080 | – |
-| Mandarinas. | – | 3.956 | – |
-| Clementinas. | – | 3.388 | – |
-| Satsumas. | – | 2.721 | – |
-| Limones. | – | 5.176 | – |
-| Productos fuera del anexo V del Reglamento Delegado n.º 2022/126 |
-| Acelga. | 3.907 | 6.344 | 6.841 |
-| Aguacate. | 2.674 | 6.230 | – |
-| Ajo. | 1.941 | 5.327 | 6.075 |
-| Apio. | 828 | 7.038 | – |
-| Brócoli. | 2.809 | 3.899 | 3.527 |
-| Calabaza. | 1.824 | 5.524 | 9.161 |
-| Caqui. | 1.693 | 5.815 | – |
-| Cebolla. | 1.074 | 4.223 | 2.866 |
-| Cereza. | 2.033 | 3.452 | – |
+| Productos del anexo V del Reglamento Delegado número 2022/126 |
+| Coliflor. | 2.098 | 3.080 | – |
+| Manzana. | 1.408 | 4.735 | – |
+| Uva. | 1.004 | 8.271 | – |
+| Albaricoque. | 813 | 3.147 | – |
+| Nectarina. | 1.196 | 4.705 | – |
+| Melocotón. | 1.149 | 4.890 | – |
+| Pera. | 1.600 | 3.834 | – |
+| Sandía. | 566 | 3.882 | 3.599 |
+| Naranjas. | – | 4.891 | – |
+| Mandarinas. | – | 4.067 | – |
+| Clementinas. | – | 4.369 | – |
+| Satsumas. | – | 3.986 | – |
+| Limones. | – | 4.705 | – |
+| Productos fuera del anexo V del Reglamento Delegado número 2022/126 |
+| Acelga. | 5.080 | 8.082 | 8.787 |
+| Aguacate. | 2.755 | 5.748 | – |
+| Ajo. | 1.764 | 5.584 | 6.486 |
+| Apio. | 526 | 8.474 | – |
+| Brócoli. | 3.806 | 5.231 | 4.785 |
+| Calabaza. | 939 | 3.951 | 6.448 |
+| Caqui. | 596 | 6.272 | – |
+| Cebolla. | 1.416 | 5.859 | 3.876 |
+| Cereza. | 2.129 | 3.967 | – |
 | Champiñón. | – | – | 1.763 |
-| Ciruela. | 698 | 3.293 | – |
-| Escarola. | 3.334 | 5.789 | 7.006 |
-| Espinaca. | 4.163 | 6.742 | 5.047 |
-| Granada. | 748 | 5.650 | – |
-| Haba verde. | 1.511 | 3.529 | – |
-| Híbridos de pequeños cítricos. | – | 6.136 | – |
-| Higo fresco. | 1.535 | 3.369 | – |
-| Kiwi. | 4.644 | 6.601 | – |
-| Lechuga. | 3.225 | 6.473 | 6.754 |
-| Nabo, nabicol, chirivía. | 2.284 | 4.786 | – |
-| Níspero. | 600 | 6.455 | – |
-| Paraguaya, platerina y melocotón plano. | 1.278 | 5.796 | – |
-| Puerro. | 2.429 | 7.368 | 4.691 |
-| Repollo, col. | 5.413 | 5.181 | 2.677 |
-| Zanahoria. | 629 | 7.470 | – |
+| Ciruela. | 817 | 3.923 | – |
+| Escarola. | 3.797 | 6.845 | 8.073 |
+| Espinaca. | 4.694 | 8.182 | 4.932 |
+| Granada. | 860 | 6.146 | – |
+| Haba verde. | 1.734 | 4.188 | – |
+| Híbridos de pequeños cítricos. | – | 6.655 | – |
+| Higo fresco. | 1.625 | 3.624 | – |
+| Kiwi. | 3.691 | 4.919 | – |
+| Lechuga. | 3.264 | 6.606 | 6.832 |
+| Nabo, nabicol, chirivía. | 1.463 | 2.806 | – |
+| Níspero. | 765 | 7.975 | – |
+| Paraguaya, platerina y melocotón plano. | 2.111 | 8.145 | – |
+| Puerro. | 2.831 | 8.984 | 5.068 |
+| Repollo, col. | 7.899 | 7.393 | 5.067 |
+| Zanahoria. | 730 | 8.758 | – |
 
 Parte B) Recolección parcial
 
@@ -110,23 +110,25 @@ Tabla 2. Importes a efectos del cálculo de la compensación por recolección pa
 | Producto | Compensación (€/ha) |
 | --- | --- |
 | Secano | Regadío al aire libre | Regadío protegido |
-| Alcachofa. | 841 | 4.120 | – |
-| Arándano | 7.652 | – | 32.666 |
-| Berenjena. | 1.306 | 6.185 | 14.756 |
-| Calabacín. | 1.945 | 6.138 | 9.836 |
-| Espárrago. | 5.756 | 9.065 | 10.457 |
-| Frambuesa | – | 58.025 | – |
-| Fresa. | 2.752 | 9.333 | 27.402 |
-| Judía verde. | 4.812 | 11.512 | 13.595 |
-| Melón. | 1.024 | 6.008 | 5.062 |
-| Mora | – | – | 15.920 |
-| Pepino. | 1.568 | 4.925 | 16.687 |
-| Pimiento. | 1.756 | 9.437 | 19.814 |
-| Tomate. | 1.677 | 14.940 | 17.850 |
+| Alcachofa. | 1.024 | 5.484 | – |
+| Arándano. | 9.656 | – | 39.990 |
+| Berenjena. | 1.349 | 6.965 | 17.981 |
+| Calabacín. | 2.266 | 7.186 | 11.741 |
+| Espárrago. | 3.270 | 5.334 | 5.807 |
+| Frambuesa. | – | 37.361 | – |
+| Fresa. | 4.485 | 9.221 | 25.184 |
+| Judía verde. | 4.485 | 9.221 | 25.184 |
+| Melón. | 5.164 | 13.176 | 15.807 |
+| Mora. | – | – | 15.920 |
+| Pepino. | 1.708 | 6.197 | 21.191 |
+| Pimiento. | 2.088 | 11.659 | 24.298 |
+| Tomate. | 2.380 | 26.077 | 30.830 |
 
 El importe de compensación por hectárea se calculará multiplicando (A) x (B), siendo:
 
 (A) El porcentaje que queda por cosechar, en función de la semana de cultivo que figura en la tabla 1 de este anexo y que se calculará sumando los porcentajes de las seis semanas siguientes desde que se ha efectuado la operación de prevención de crisis. En el caso de que la operación se realice entre el lunes y el miércoles de la semana esa será la primera semana de cálculo del porcentaje de cosecha restante. En caso de que se realice entre el jueves y el domingo, esa semana se considerará como cosechada y, a efectos de cálculo del porcentaje que queda por cosechar, la primera semana será la siguiente, y (B) el importe (€/ha) correspondiente por producto fijado en la tabla 2.
+
+> Se modifican la tabla de la parte A) y la tabla 2 de la parte B) por el art. 2.10 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 
 > Se modifican las partes A) y B) por el art. 4.13 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 

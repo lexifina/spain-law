@@ -8,13 +8,16 @@ Parte A. Necesidades de financiación para los dos ejercicios FEAGA siguientes:
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 
-Parte B. Estimación de las necesidades financieras para atender los pagos correspondientes a operaciones aprobadas en anteriores convocatorias en los ejercicios financieros en curso y siguiente
+Parte B. Estimación de las necesidades financieras para atender los pagos correspondientes a operaciones aprobadas en anteriores convocatorias
 
-| Comunidad Autónoma/ FEGA.O.A. |  | Ejercicio financiero en curso | Ejercicio financiero siguiente |
-| --- | --- | --- | --- |
-|  | Asignación financiera Conferencia sectorial. |  | (1) |
-| Previsiones de pagos(2). |  |  |
-| Diferencia(3). |  |  |
-| (1) Se entenderá la cantidad comunicada en virtud del artículo 26.4. (2) Previsión de pagos a 15 de octubre, que se corresponderán con la estimación del pago del ejercicio en curso. (3) Dato resultante de restar lo asignado en conferencia sectorial menos la previsión de pagos. Resultado positivo indicará que existen fondos sobrantes y un resultado negativo indicará la necesidad de fondos adicionales. |
+| Convocatoria(1) |
+| --- |
+| Comunidad Autónoma | Datos de la convocatoria | Primera anualidad | Segunda anualidad |
+|  | Asignación financiera Conferencia Sectorial. |  |  |
+| Previsiones de pagos. |  |  |
+| Diferencia(2). |  |  |
+| (1) Debe indicarse primera, segunda, tercera o cuarta. (2) Dato resultante de restar lo asignado en conferencia sectorial menos la previsión de pagos. Resultado positivo indicará que existen fondos sobrantes y un resultado negativo indicará la necesidad de fondos adicionales. |
+
+> Se modifica la parte B por el art. 3.8 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 
 > Se modifica la parte A por el art. 5.11 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308

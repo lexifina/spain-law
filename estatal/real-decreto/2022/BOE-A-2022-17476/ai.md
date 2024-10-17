@@ -30,7 +30,7 @@
 
 * El uso de productos compatibles con apicultura ecológica por parte de productores de apicultura convencional será financiable bajo la medida 2.1.1.
 
-2.1.3 Productos para incrementar la vitalidad de las colmenas en estados de riesgo para la supervivencia de la colonia, ligados a factores sanitarios y climáticos.
+2.1.3 Productos para incrementar la vitalidad de las colmenas en estados de riesgo para la supervivencia de la colonia, ligados a factores sanitarios y climáticos en condiciones de emergencia para la colmena.
 
 2.1.4 Renovación y acondicionamiento de cera (incluyendo equipos y cámaras de refrigeración para mantener en buen estado los cuadros de cría).
 
@@ -135,6 +135,8 @@ Este tipo de intervención sólo podrá ser solicitada por parte de agrupaciones
 En relación a las actuaciones de las acciones 7.1 y 7.2 solo serán subvencionables para su implantación por primera vez, y en ningún caso podrán ser objeto de financiación gastos de funcionamiento habitual, a excepción de los gastos por auditorías de seguimiento, siempre que estén efectuadas por un organismo externo independiente y cualificado.
 
 7.3 Seguimiento de la cadena de calidad de mieles en el mercado.
+
+> Se modifica el apartado 2.1.3 por el art. 4.3 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 
 > Se modifica el apartado 2.5.2 por el art. 6.6 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 
