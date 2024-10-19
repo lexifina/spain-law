@@ -2,7 +2,7 @@
 
 ## Zonas Restringidas
 
-Parte A. Zona restringida frente al serotipo 1 del virus de la lengua azul
+Parte A: Zona restringida frente al serotipo 1 del virus de la lengua azul.
 
 Se considerará zona restringida frente al serotipo 1 del virus de la lengua azul los siguientes territorios:
 
@@ -10,7 +10,21 @@ Se considerará zona restringida frente al serotipo 1 del virus de la lengua azu
 
 2. La Comunidad Autónoma de Extremadura.
 
-Parte B: zona restringida frente al serotipo 4 del virus de la lengua azul
+3. En la Comunidad Autónoma de Castilla y León:
+
+a) En la provincia de Ávila: las comarcas de El Barco de Ávila, Arenas de San Pedro, Candeleda, Piedrahíta, Navarredonda de Gredos, Navaluenga, Sotillo de la Adrada, El Barraco, Cebreros, Las Navas del Marqués y Ávila.
+
+b) En la provincia de Salamanca: las comarcas de Béjar, Ciudad Rodrigo, Guijuelo, Tamames y Sequeros.
+
+4. En la Comunidad Autónoma de Castilla- La Mancha:
+
+a) En la provincia de Toledo: las comarcas de Oropeza, Belvis de la Jara, Talavera de la Reina, Los Navalmorales, Torrijos y Gálvez.
+
+b) En la provincia de Ciudad Real: las comarcas de Piedrabuena y Almadén.
+
+5. En la Comunidad de Madrid: las comarcas de El Escorial, San Martín de Valdeiglesias y Navalcarnero.
+
+Parte B: Zona restringida frente al serotipo 4 del virus de la lengua azul.
 
 Se considerará zona restringida frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -38,17 +52,35 @@ c) En la provincia de Segovia, las comarcas de Santa María Real de Nieva, Segov
 
 9. La Comunidad Autónoma de la Región de Murcia.
 
-10. En la Comunidat Valenciana: la provincia de Alicante/Alacant.
+10. En la Comunidad Valenciana: la provincia de Alicante/Alacant.
 
-Parte C. Zona restringida frente al serotipo 8 del virus de la lengua azul
+Parte C. Zona restringida frente al serotipo 8 del virus de la lengua azul.
 
 Se considerará zona restringida frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
 1. La Comunidad Autónoma de Cataluña.
 
-2. En la Comunidad Autónoma de Aragón: La provincia de Huesca.
+2. En la Comunidad Autónoma de Aragón: la provincia de Huesca.
 
 3. La Comunidad Autónoma de Islas Baleares.
+
+4. En la Comunidad de Castilla-La Mancha:
+
+a) Las provincias de Toledo y Ciudad Real.
+
+b) En la provincia de Guadalajara: las comarcas de Guadalajara y Pastrana.
+
+c) En la provincia de Cuenca: las comarcas de Tarancón, Villares del Saz, Belmonte, San Clemente, Cuenca y Motilla del Palancar.
+
+d) En la provincia de Albacete: la comarca de Villarrobledo.
+
+5. En la Comunidad Autónoma de Castilla y León:
+
+En la provincia de Ávila: las comarcas de El Barco de Ávila, Arenas de San Pedro, Candeleda, Piedrahíta, Navarredonda de Gredos, Navaluenga, Sotillo de la Adrada, El Barraco, Cebreros, Las Navas del Marqués y Ávila.
+
+6. La Comunidad de Madrid.
+
+> Se modifica por Resolución de 15 de octubre de 2024. Ref. BOE-A-2024-21374
 
 > Se modifica la parte A por Resolución de 24 de septiembre de 2024. Ref. BOE-A-2024-19366
 

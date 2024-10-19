@@ -2,9 +2,21 @@
 
 ## Zonas de vacunación voluntaria
 
-Parte A: zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul
+Parte A: Zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul.
 
-Parte B: zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul
+Se considerará zona de vacunación voluntaria frente al serotipo 1 del virus de la lengua azul los siguientes territorios:
+
+1. En la Comunidad Autónoma de Castilla-La Mancha:
+
+a) Las provincias de Guadalajara, Albacete y Cuenca.
+
+b) La provincia de Toledo: excepto las comarcas de Oropeza, Belvis de la Jara, Talavera de la Reina, Los Navalmorales, Torrijos y Gálvez.
+
+c) La provincia de Ciudad Real: excepto las comarcas de Piedrabuena y Almadén.
+
+2. La Comunidad de Madrid: excepto las comarcas de San Martín de Valdeiglesias, El Escorial y Navalcarnero.
+
+Parte B: zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul.
 
 Se considerará zona de vacunación voluntaria frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -18,17 +30,17 @@ Se considerará zona de vacunación voluntaria frente al serotipo 4 del virus de
 
 5. En la Comunidad Autónoma de Castilla y León:
 
-En la provincia de Zamora: la comarca de Zamora.
+La provincia de Zamora: la comarca de Zamora, excepto las comarcas de Bermillo de Sayago, Alcañices y Puebla de Sanabria.
 
 6. En la Comunidad Autónoma de Castilla La-Mancha:
 
 La provincia de Guadalajara.
 
-Parte C. Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul
+Parte C: Zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul.
 
 Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de la lengua azul los siguientes territorios:
 
-1. En la Comunidad Autónoma de Aragón: Las provincias de Zaragoza y Teruel.
+1. En la Comunidad Autónoma de Aragón: las provincias de Zaragoza y Teruel.
 
 2. La Comunidad Foral de Navarra.
 
@@ -37,6 +49,16 @@ Se considerará zona de vacunación voluntaria frente al serotipo 8 del virus de
 4. La Comunidad Autónoma de Cantabria.
 
 5. La Comunidad Autónoma del Principado de Asturias.
+
+6. En la Comunidad de Castilla-La Mancha:
+
+a) La provincia de Guadalajara, excepto las comarcas de Guadalajara y Pastrana.
+
+b) La provincia de Cuenca, excepto las comarcas de Tarancón, Villares del Saz, Belmonte, San Clemente, Cuenca y Motilla del Palancar.
+
+c) La provincia de Albacete, excepto la comarca de Villarrobledo.
+
+> Se modifica por Resolución de 15 de octubre de 2024. Ref. BOE-A-2024-21374
 
 > Se modifica la parte C por Resolución de 13 de agosto de 2024. Ref. BOE-A-2024-17070
 
