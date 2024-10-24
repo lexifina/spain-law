@@ -1,7 +1,5 @@
 ## Disposición transitoria tercera. De la constitución efectiva de la Corporación RTVE y las sociedades prestadoras del servicio público y de su administración provisional.
 
-1. La Corporación RTVE se constituirá mediante escritura pública que será otorgada en el plazo de 10 días desde que el Consejo de Ministros apruebe los estatutos sociales de la entidad. Dicha escritura deberá ser inscrita en el Registro Mercantil. Con la inscripción adquirirá la Corporación RTVE su personalidad jurídica.
+(Derogada)
 
-2. La escritura de constitución de la Corporación RTVE designará un administrador provisional único que se encargue de la administración y representación de la misma hasta el nombramiento como consejeros de las personas designadas por las Cortes Generales como miembros del Consejo de Administración de conformidad con lo previsto en los artículos 10 y 11 de esta Ley. El administrador provisional único será nombrado por la Junta general de accionistas de la Corporación RTVE y cesará en su cargo el día del nombramiento como consejeros de las personas designadas por las Cortes Generales, en los términos antes expuestos.
-
-3. Corresponderá al administrador provisional único la realización de todos los actos y actuaciones necesarias para el comienzo de la actividad ordinaria prevista en el objeto social de la Corporación RTVE, así como para la constitución de las sociedades prestadoras del servicio público encomendado.
+> Se deroga por la disposición derogatoria única del Real Decreto-ley 5/2024, de 22 de octubre. Ref. BOE-A-2024-21699
