@@ -144,10 +144,10 @@ Parte B. Valores genéricos de referencia de calidad de las aguas subterráneas.
 | 88-06-2. | 2,4,6-Triclorofenol. | 1 | 120 |
 | PAH. | 91-20-3. | Naftaleno. | 10 | 500 |
 | 83-32-9. | Acenafteno. | 20 | 1000 |
-| 56-55-3. | Benzo(A)Antraceno. | 0,3 | 1 |
+| 56-55-3. | Benzo(A)Antraceno. | 0,3 | 0,8 |
 | 50-32-8. | Benzo(A)Pireno. | 0,004 | 0,01 |
 | 205-99-2. | Benzo(B)Fluoranteno. | 0,08 | 0,2 |
-| 207-08-9. | Benzo(K)Fluoranteno. | 1 | 1 |
+| 207-08-9. | Benzo(K)Fluoranteno. | 0,06 | 0,5 |
 | 218-01-9. | Criseno. | 5 | 12 |
 | 85-01-8. | Fenantreno. | 40 | 150 |
 | 206-44-0. | Fluoranteno. | 100 | 250 |
@@ -162,25 +162,13 @@ Parte B. Valores genéricos de referencia de calidad de las aguas subterráneas.
 | 14265-44-2. | Fósforo. | 10.000 | 300.000 |
 | No aplica. | Escherichia coli (E. coli). | 10 UFC/100 ml | 1.000 UFC/100 ml |
 | VGNR: Valor genérico de no riesgo; VGI: Valor genérico de intervención; CAS: Chemical Abstracts Service; HTP: Hidrocarburos totales del petróleo; PAH: Hidrocarburos aromáticos policíclicos; PCBs: Policlorobifenilos o Bifenilos policlorados; UFC: unidades formadoras de colonias (1) Compuestos incluidos en el parámetro Suma PCBs. |
-| N.º Cas | Nombre |
+| N.º CAS | Nombre |
 | --- | --- |
 | 37680-73-2 | PCB 101 |
-| 32598-14-4 | PCB 105 |
-| 74472-37-0 | PCB 114 |
 | 31508-00-6 | PCB 118 |
-| 65510-44-3 | PCB 123 |
-| 57465-28-8 | PCB 126 |
 | 35065-28-2 | PCB 138 |
-| 38380-04-0 | PCB 149 |
 | 35065-27-1 | PCB 153 |
-| 38380-08-4 | PCB 156 |
-| 69782-90-7 | PCB 157 |
-| 52663-72-6 | PCB 167 |
-| 32774-16-6 | PCB 169 |
-| 35065-30-6 | PCB 170 |
-| 37680-65-2 | PCB 18 |
 | 35065-29-3 | PCB 180 |
-| 39635-31-9 | PCB 189 |
 
 Parte C. Criterios para la elaboración de un análisis cuantitativo de riesgos y la determinación de los objetivos de descontaminación.
 
@@ -295,5 +283,7 @@ E) Programa de monitorización y seguimiento.
 1. Programa de monitorización y seguimiento.
 
 2. Plan de emergencia y reactivación.
+
+> Se modifica la parte B) por la disposición final 1.20 del Real Decreto 1085/2024, de 22 de octubre. Ref. BOE-A-2024-21701#df
 
 > Se añade por el art. 1.227 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap

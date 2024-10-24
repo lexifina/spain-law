@@ -92,7 +92,7 @@ Las aguas de procedencia urbana no asimilables a aguas urbanas, por contener má
 
 (****) Para la inclusión en esta clase bastará con que se constate en el vertido la presencia de una sustancia peligrosa en concentración superior al límite de cuantificación analítico.
 
-A los solos efectos de la aplicación de este factor, se consideran sustancias peligrosas aquellas definidas en el artículo 245.5.d).
+A los solos efectos de la aplicación de este factor, se consideran sustancias peligrosas aquellas definidas en el artículo 1 bis.au).
 
 (*****) La calidad ambiental del medio receptor depende de su clasificación en el Registro de Zonas Protegidas de la Demarcación Hidrográfica conforme a las siguientes categorías reguladas en el artículo 99 bis del TRLA.
 
@@ -485,6 +485,8 @@ E) Clasificación de los vertidos por grupos de actividad industrial por CNAE:
 | 9603 | Pompas fúnebres y actividades relacionadas. | 0 | 1 |
 | 9604 | Actividades de mantenimiento físico. | 0 | 1 |
 | 9609 | Otros servicios personales n.c.o.p. | 0 | 1 |
+
+> Se modifica la nota (****) del apartado A) por la disposición final 1.17 del Real Decreto 1085/2024, de 22 de octubre. Ref. BOE-A-2024-21701#df
 
 > Se modifica por el art. 1.222 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 

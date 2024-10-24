@@ -1,3 +1,1 @@
-Norma derogada, con efectos de 26 de junio de 2023, por la disposición derogatoria única del Real Decreto-ley 4/2023, de 11 de mayo. Ref. BOE-A-2023-11187#dd
-
-No obstante, seguirá vigente en lo que no se oponga al texto refundido de la Ley de Aguas, modificado por el citado Real Decreto-ley, y al Reglamento (UE) 2020/741 del Parlamento Europeo y del Consejo, de 25 de mayo de 2020, relativo a los requisitos mínimos para la reutilización del agua urbana depurada en usos agrarios, conforme a las instrucciones técnicas que establezca el Ministerio para la Transición Ecológica y Reto Demográfico en el ámbito de las cuencas intercomunitarias.
+Norma derogada, con efectos de 24 de octubre de 2024, por la disposición derogatoria única del Real Decreto 1085/2024, de 22 de octubre. Ref. BOE-A-2024-21701#dd

@@ -34,6 +34,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Sección 1](s1.md)
 - [Art 11](a11.md)
 - [Art 12](a12.md)
+- [Sección 2](s2-6.md)
 - [Art 13](a13.md)
 - [Art 14](a14.md)
 - [Art 15](a15.md)

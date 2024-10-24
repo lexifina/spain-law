@@ -72,7 +72,7 @@ Para la determinación de la valoración de daños al dominio público hidráuli
 
 a) La asignación del Coste del Impacto por Contaminante deberá estar basada en datos analíticos procedentes de muestras de agua subterránea tomadas en el emplazamiento o su entorno.
 
-b) Se considerarán todas las sustancias que superen el VGNR según el anexo X, parte B. En el caso de que se detectaran varios grupos de contaminantes en las aguas subterráneas del emplazamiento afectado, el Coste del Impacto por Contaminante total resultará de la suma del Coste del Impacto por Contaminante de cada uno de los grupos de sustancias detectado.
+b) Se considerarán todas las sustancias que superen el VGNR según el anexo X, parte B. En el caso de que se detectaran varios grupos de contaminantes en las aguas subterráneas del emplazamiento afectado, se asignará el Coste del Impacto por Contaminante correspondiente al grupo de compuestos de mayor cuantía económica.
 
 c) La asignación de los parámetros modificadores de la Valoración del Daño deberá estar basada en la información disponible de carácter geológico, hidrogeológico, de usos del suelo, de la presencia de captaciones o de otros receptores potenciales de la contaminación afectadas o amenazadas, así como a los indicios o datos que apunten a una posible migración de la contaminación fuera de la parcela afectada, como consecuencia del movimiento y transporte de contaminantes a través de las aguas subterráneas.
 
@@ -81,6 +81,8 @@ d) Se considerarán receptores amenazados a aquellas captaciones u otros element
 e) En el caso de no tener conocimiento relativo a la migración exterior de la contaminación fuera de la parcela o terreno donde se originó, se asignará el valor 3 a KEXT, previsto para el caso más vulnerable, en aplicación del principio de precaución y no deterioro.
 
 4. El Gobierno por real decreto actualizará los valores correspondientes a CTEC, CTECr y CIC.
+
+> Se modifica la letra b) del apartado 3 por la disposición final 1.16 del Real Decreto 1085/2024, de 22 de octubre. Ref. BOE-A-2024-21701#df
 
 > Se modifica por el art. 1.191 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 

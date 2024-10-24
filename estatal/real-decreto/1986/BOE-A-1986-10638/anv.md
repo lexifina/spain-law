@@ -97,7 +97,7 @@ Grupo B: Nutrientes y contaminantes específicos
 | Fósforo total (mg/L P). | 14265-44-2 | 0,4 |
 | Contaminantes específicos |
 | Contaminantes del anexo VI del RD 817/2015, de 11 de septiembre. | No aplicable | NCA aprobada en el Plan hidrológico |
-| Hidrocarburos método IR. | No aplicable | 1 |
+| Hidrocarburos. | No aplicable | 1 |
 | Aceites y grasas. | No aplicable | 1 |
 | Bario. | 7440-39-3 | 1 |
 | Berilio. | 7440-41-7 | 1 |
@@ -205,23 +205,35 @@ F) Parámetros modificadores: tipo de acuífero (KAQ), receptores sensibles a la
 
 Parámetros modificadores (adimensionales)
 
-| Tipo de sustrato | KAQ | Uso suelo | KUS |
-| --- | --- | --- | --- |
-| Detrítico. | 1 | Residencial/urbano. | 5 |
-| Kárstico. | 2 | Industrial/comercial. | 3 |
-| Fisurado. | 0,5 |  |  |
-| Baja permeabilidad. | 0,2 |  |  |
-| Material de relleno con acumulación de agua*. | 0,5 | Otros usos. | 1 |
-| Mixto. | 1,5 |  |  |
-| Receptores afectados/amenazados. | KRC | Migración exterior. | KEXT |
-| --- | --- | --- | --- |
-| Captaciones para consumo humano. | 5 | Si/desconocido. | 3 |
-| Acuífero asociado a un ecosistema protegido. | 4 | No. | 1 |
-| Captaciones para uso agrícola. | 4 |  |  |
-| Captaciones para uso industrial/recreativo. | 4 |  |  |
-| Sin captaciones/receptores. | 1 |  |  |
+| Tipo de sustrato | KAQ |
+| --- | --- |
+| Detrítico. | 1 |
+| Kárstico. | 2 |
+| Fisurado. | 0,5 |
+| Baja permeabilidad. | 0,2 |
+| Material de relleno con acumulación de agua*. | 0,5 |
+| Mixto. | 1,5 |
+| * Acumulación localizada y limitada de agua subterránea en materiales de relleno antrópico sin afección significativa al sustrato geológico infrayacente o circundante. |
+| Uso de suelo | KUS |
+| --- | --- |
+| Residencial/urbano. | 3 |
+| Industrial/comercial. | 2 |
+| Otros usos. | 1 |
+| Receptores afectados/amenazados | KRC |
+| --- | --- |
+| Captaciones para consumo humano. | 3 |
+| Acuífero asociado a un ecosistema protegido. | 2 |
+| Captaciones para uso agrícola. | 2 |
+| Captaciones para uso industrial/recreativo. | 2 |
+| Sin captaciones/receptores. | 1 |
+| Migración exterior* | KEXT |
+| --- | --- |
+| Si. | 1,5 |
+| Desconocido. | 1,5 |
+| No. | 1 |
+| * Se verificará, si es posible, la potencial afección exterior al emplazamiento, mediante inspección y/o muestreo de los puntos de agua accesibles. |
 
-* Acumulación localizada y limitada de agua subterránea en materiales de relleno antrópico sin afección significativa al sustrato geológico infrayacente o circundante.
+> Se modifica la tabla del Grupo B del apartado A).3 y el F) por la disposición final 1.18 y 19 del Real Decreto 1085/2024, de 22 de octubre. Ref. BOE-A-2024-21701#df
 
 > Se modifica por el art. 1.223 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap
 
