@@ -131,3 +131,5 @@ b) La competencia de expedición y autorización de los documentos contables en 
 a) La competencia, para el reconocimiento de obligaciones y la propuesta de pago con cargo a los créditos del servicio 01 «Dirección General de Racionalización y Centralización de la Contratación» de la sección 10 «Contratación Centralizada», programa presupuestario 923 R «Contratación Centralizada», subconcepto 222.00 «Comunicaciones. Servicio de telecomunicaciones».
 
 b) La competencia de expedición y autorización de los documentos contables en relación con los créditos presupuestarios cuya competencia de gestión presupuestaria tenga delegada.
+
+> Téngase en cuenta que quedan sin efecto, desde el 29 de octubre de 2024, las delegaciones de competencias previstas en los números 9, 19, 20 y 21, respecto al ámbito de competencias del Ministerio de Hacienda en materia de contratación centralizada, según se establece en el apartado séptimo de la Orden HAC/1185/2024, de 23 de octubre. Ref. BOE-A-2024-22173

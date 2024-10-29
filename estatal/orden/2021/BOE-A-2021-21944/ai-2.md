@@ -97,3 +97,5 @@
 | Agencia Nacional de Evaluación de la Calidad y Acreditación. | Gerencia de la Agencia Nacional de Evaluación de la Calidad y Acreditación. |
 | Servicio Español para la Internacionalización de la Educación. | Dirección de Unidad de Coordinación del Servicio Español para la Internacionalización de la Educación. |
 | Universidad Internacional Menéndez Pelayo. | Gerencia de la Universidad Internacional Menéndez Pelayo. |
+
+> Téngase en cuenta que queda sin efecto, desde el 29 de octubre de 2024, respecto al ámbito de competencias del Ministerio de Hacienda en materia de contratación centralizada, según se establece en el apartado séptimo de la Orden HAC/1185/2024, de 23 de octubre. Ref. BOE-A-2024-22173
