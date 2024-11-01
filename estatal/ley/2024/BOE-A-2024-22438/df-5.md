@@ -1,0 +1,3 @@
+## Disposición final quinta. Título competencial.
+
+La presente ley se dicta en virtud de los artículos 149.1.1.ª, 13.ª, 16.ª, 17.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales; el establecimiento de las bases y coordinación de la planificación general de la actividad económica; de las bases y coordinación general de la sanidad; en materia de legislación básica y régimen económico de la Seguridad Social; y para establecer las bases de régimen energético.
