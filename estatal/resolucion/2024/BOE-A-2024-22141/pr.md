@@ -1,0 +1,3 @@
+El Consejo de Administración del Administrador de Infraestructuras Ferroviarias (ADIF), en su sesión de 30 de septiembre de 2024, ha acordado, en el ejercicio de la competencia que tiene atribuida por el artículo 100.1 de la Ley 38/2015, de 29 de septiembre, del sector ferroviario, y previo dictamen del Consejo de Estado de 4 de julio de 2024, aprobar el Reglamento de determinación de los cánones ferroviarios de la entidad pública empresarial Administrador de Infraestructuras Ferroviarias (ADIF).
+
+En consecuencia, y conforme a lo dispuesto en el artículo 100.3 de la Ley 38/2015, de 29 de septiembre, del sector ferroviario, procede la publicación en el «Boletín Oficial del Estado» de dicho reglamento, que figura como anexo a esta resolución.
