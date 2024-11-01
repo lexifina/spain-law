@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Control y seguimiento de los retornos de regadío.
+
+El control y seguimiento de los retornos de regadío conforme a los requisitos establecidos en esta orden se realizará a los dos años de la publicación final por parte de los organismos de cuenca del programa de control adicional establecido en el artículo 9.2 apartado a) del Real Decreto 47/2022, de 18 de enero, sobre protección de las aguas contra la contaminación difusa producida por los nitratos procedentes de fuentes agrarias, para las concentraciones en nitrato y fosfato, así como los caudales circulantes, en los principales aprovechamientos destinados al riego y en los principales azarbes de las zonas de regadío.

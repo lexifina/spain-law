@@ -1,0 +1,3 @@
+## Disposición adicional primera. Control efectivo de caudales en las comunidades de usuarios.
+
+Las comunidades de usuarios podrán exigir, de acuerdo con el artículo 55.4 del TRLA, análogos sistemas de medición y de registro a los comuneros que las integran. En la medida de lo posible se unificarán, en este caso, los sistemas de medición dentro de cada comunidad de usuarios, atendiendo a los criterios técnicos desarrollados en esta orden. Asimismo, podrán realizar, en sus ámbitos de actuación, la comprobación de los sistemas de medición, en virtud de las funciones reconocidas en los artículos 199.2 y 228 del RDPH.
