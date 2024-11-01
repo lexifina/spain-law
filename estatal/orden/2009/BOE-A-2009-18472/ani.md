@@ -2,21 +2,27 @@
 
 ## Modelo 390 de declaración-resumen anual del Impuesto sobre el Valor Añadido
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_11.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_35.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_13.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_14.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_15.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_16.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_17.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_18.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_12.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_13.png)
+
+> Se sustituye por el que figura como anexo II de la Orden HAC/1167/2024, de 17 de octubre, según establece su art. 2. Ref. BOE-A-2024-21961
+
+> Téngase en cuenta que será aplicable por primera vez a la declaración-resumen anual, correspondiente al ejercicio 2024, según establece la disposición final única de la citada Orden.
 
 > Se sustituye la página 2 del modelo 390 por la que figura en el Anexo IV de la Orden HFP/1397/2023, de 26 de diciembre, según establece su art. 3. Ref. BOE-A-2023-26632
 

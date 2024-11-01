@@ -2,17 +2,19 @@
 
 ## Modelo 322 de autoliquidación mensual, modelo individual Grupo de Entidades
 
-> Téngase en cuenta que este modelo, modificado por el que figura como Anexo I de la Orden HFP/1124/2022, de 18 de noviembre Ref. BOE-A-2022-19290, será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece su disposición final única.
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/280/19290_12435512_4.png)
+> Se sustituye por el que figura como anexo I de la Orden HAC/1167/2024, de 17 de octubre, según establece su art.1. Ref. BOE-A-2024-21961
 
-> Se sustituye por el que figura como Anexo I de la Orden HFP/1124/2022, de 18 de noviembre, según establece su art. 1. Ref. BOE-A-2022-19290
+> Téngase en cuenta que será aplicable por primera vez a la autoliquidación correspondiente a octubre de 2024, según establece la disposición final única de la citada Orden.
+
+> Se sustituye por el que figura como anexo I de la Orden HFP/1124/2022, de 18 de noviembre, según establece su art. 1. Ref. BOE-A-2022-19290
 
 > Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones correspondientes a los periodos de liquidación que se inicien a partir del 1 de enero de 2023, según establece la disposición final única de la citada Orden.
 
