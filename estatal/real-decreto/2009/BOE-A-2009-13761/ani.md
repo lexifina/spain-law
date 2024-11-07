@@ -8,7 +8,7 @@ Museo Nacional del Prado.
 
 Museo Nacional Centro de Arte Reina Sofía.
 
-Museo Nacional del Teatro.
+Museo Nacional de Artes Escénicas.
 
 Museo Nacional y Centro de Investigación de Altamira.
 
@@ -26,13 +26,13 @@ Museo Nacional de Antropología.
 
 Museo Nacional de Artes Decorativas.
 
-Museo Nacional de Cerámica y de las Artes Suntuarias «González Martí».
+Museo Nacional de Cerámica y de las Artes Suntuarias "González Martí".
 
 Museo Sefardí.
 
 Museo Nacional del Romanticismo.
 
-Museo Nacional de Escultura
+Museo Nacional de Escultura.
 
 ## Museos adscritos al Ministerio de Defensa
 
@@ -53,6 +53,8 @@ Museo Nacional de Ciencia y Tecnología.
 Museo Nacional de Ciencias Naturales.
 
 Museo Cajal.
+
+> Se modifica por la disposición final 2 del Real Decreto 1122/2024, de 5 de noviembre. Ref. BOE-A-2024-22933#df-2
 
 > Se modifica por la disposición final 1 del Real Decreto 590/2024, de 25 de junio. Ref. BOE-A-2024-12864#df
 
