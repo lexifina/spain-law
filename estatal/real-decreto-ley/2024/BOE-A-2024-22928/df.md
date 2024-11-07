@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Se introduce una nueva disposición adicional novena a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con la siguiente redacción:
+
+> «Disposición adicional novena. Suspensión de plazos administrativos en los acuerdos de declaración de zonas afectadas gravemente por emergencias de protección civil.
+
+> El acuerdo de Consejo de Ministros por el que se declare una zona afectada gravemente por una emergencia de protección civil, previsto en el artículo 23 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, podrá establecer la suspensión de los plazos para el cumplimiento de los trámites de los procedimientos administrativos del sector público que correspondan a los interesados residentes en los términos municipales incluidos en el ámbito de aplicación del acuerdo y, en su caso, a aquellos otros interesados que acrediten el carácter imposible o gravoso de su cumplimiento en atención a los efectos de la emergencia. La suspensión se mantendrá hasta el momento en que se dicte un nuevo acuerdo de Consejo de Ministros decretando la finalización de esta medida, tras lo cual se reanudarán los plazos suspendidos.»
