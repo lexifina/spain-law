@@ -4,4 +4,6 @@
 
 2. Sin perjuicio de las competencias que pudieran tener atribuidas en virtud de la disposición adicional vigésima de la Ley 9/2017, de 8 de noviembre, se desconcentran en los órganos de contratación de los entes, entidades y organismos indicados en las letras a), b), c), d) y g) del apartado 1.º del artículo 3 de la citada ley que pertenezcan al sector público estatal las competencias definidas en el artículo 230 del citado texto, para adquirir equipos y sistemas para el tratamiento de información y elementos complementarios o auxiliares que no hayan sido declarados de adquisición centralizada. Quedan exceptuados los contratos de suministro que afecten a varios departamentos ministeriales.
 
-3. Asimismo, se desconcentran en la Secretaría General de Administración Digital las competencias de la Junta de Contratación Centralizada en materia de servicios de telecomunicaciones.
+3. Asimismo, se desconcentran en la Secretaría de Estado de Función Pública las competencias de la Junta de Contratación Centralizada en materia de servicios de telecomunicaciones.
+
+> Se modifica el apartado 3 por la disposición final 4.1 del Real Decreto 1118/2024, de 5 de noviembre. Ref. BOE-A-2024-22929#df-4
