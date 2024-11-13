@@ -181,6 +181,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimonovena bis](da-6.md)
 - [Disposición adicional vigésima](da-3.md)
 - [Disposición adicional vigésima primera](da-4.md)
+- [Disposición adicional vigésima primera bis](da-13.md)
 - [Disposición adicional vigésima segunda](da-5.md)
 - [Disposición adicional vigésima tercera](da-7.md)
 - [Disposición adicional vigésima cuarta](da-8.md)
