@@ -73,6 +73,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional novena](da-9.md)
 - [Disposición adicional décima](da-10.md)
 - [Disposición adicional undécima](da-11.md)
+- [Disposición adicional duodécima](da-12.md)
 - [Disposición transitoria primera](dt.md)
 - [Disposición transitoria segunda](dt-2.md)
 - [Disposición transitoria tercera](dt-3.md)
