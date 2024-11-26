@@ -6,7 +6,7 @@ Se considerará zona restringida frente al serotipo 3 del virus de la lengua azu
 
 1. En la Comunidad Autónoma de Andalucía:
 
-– Las provincias de Huelva, Sevilla y Córdoba.
+– Las provincias de Huelva, Sevilla, Córdoba, Cádiz y Málaga.
 
 – En la provincia de Jaén, las comarcas de Andújar (Sierra Morena/Campiña Jaén), Jaén (Campiña de Jaén), Linares (Sierra Morena/Campiña Jaén) y Úbeda (La Loma).
 
@@ -25,6 +25,8 @@ a) La provincia de Toledo.
 b) La provincia de Ciudad Real.
 
 5. En la Comunidad de Madrid: las comarcas de El Escorial, San Martín de Valdeiglesias y Navalcarnero.
+
+> Se modifica por Resolución de 18 de noviembre de 2024. Ref. BOE-A-2024-24559
 
 > Se modifica por Resolución de 31 de octubre de 2024. Ref. BOE-A-2024-23167
 
