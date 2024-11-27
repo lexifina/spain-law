@@ -12,6 +12,8 @@ Dos. Se modifica el artículo 23, que queda redactado como sigue:
 
 Las retribuciones de los Letrados al servicio del Gabinete Técnico del Tribunal Supremo serán las correspondientes a un Letrado de la Administración de Justicia de Sala del Tribunal Supremo. No obstante, los Letrados que desarrollen labores de coordinación conforme a lo previsto en el apartado 4 del artículo 61 bis de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y que además pertenezcan a la Carrera judicial, percibirán las previstas en el Anexo II.2 de la Ley 15/2003 para los Magistrados del Gabinete Técnico del Tribunal Supremo.»
 
+> Téngase en cuenta que declara inconstitucional y nulo el inciso destacado del apartado Dos por Sentencia del TC 131/2024, de 23 de octubre. Ref. BOE-A-2024-24766
+
 Tres. Se modifica el anexo III, que queda redactado como sigue:
 
 ## «ANEXO III
@@ -47,3 +49,5 @@ Sala de lo Social:
 Total: 64 Magistrados.
 
 4 Magistrados del Tribunal Supremo, uno de los cuales con consideración de Presidente de Sala.»
+
+> Se declara inconstitucional y nulo el inciso destacado del apartado Dos por Sentencia del TC 131/2024, de 23 de octubre. Ref. BOE-A-2024-24766
