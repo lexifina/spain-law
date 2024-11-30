@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Excepción de la obligación de encontrarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social.
+
+Con la finalidad de facilitar la gestión y obtención de las ayudas previstas en este real decreto-ley, y por concurrir circunstancias debidamente justificadas derivada de su naturaleza, las personas peticionarias de las mismas estarán exceptuadas del requisito de hallarse al corriente en el cumplimiento de las obligaciones tributarias, frente a la Seguridad Social o en el pago de obligaciones por reintegro de subvenciones, establecido en los artículos 13.2 y 34.5 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
