@@ -54,7 +54,7 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | Índice de cuota devengada por operaciones corrientes: 0,10. |
 | Actividad: Ganadera de explotación intensiva de avicultura de huevos y, ganado ovino, caprino y bovino de leche. |
 | --- |
-| Índice de cuota devengada por operaciones corrientes: 0,04. |
+| Índice de cuota devengada por operaciones corrientes: 0,00 (desde 1 de enero de 2024 hasta 30 de septiembre de 2024) y 0,02 (desde 1 de octubre de 2024 hasta 31 de diciembre de 2024). |
 | Actividad: Ganadera de explotación intensiva de ganado bovino de carne y cunicultura. |
 | --- |
 | Índice de cuota devengada por operaciones corrientes: 0,10. |
@@ -76,7 +76,7 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | Nota: A título indicativo en las actividades accesorias se incluyen: Agroturismo, artesanía, caza, pesca y, actividades recreativas y de ocio, en las que el agricultor, ganadero o titular de actividades forestales participe como monitor, guía o experto, tales como excursionismo, senderismo, rutas ecológicas, etc. |
 | Actividad: Aprovechamientos que correspondan al cedente en las actividades agrícolas, desarrolladas en régimen de aparcería, dedicadas a la obtención de productos agrícolas no comprendidas en los apartados siguientes. |
 | --- |
-| Índice de cuota devengada por operaciones corrientes: 0,04. |
+| Índice de cuota devengada por operaciones corrientes: 0,00 (desde 1 de enero de 2024 hasta 30 de septiembre de 2024) y 0,02 (desde 1 de octubre de 2024 hasta 31 de diciembre de 2024). |
 | Actividad: Aprovechamientos que correspondan al cedente en las actividades agrícolas, desarrolladas en régimen de aparcería, dedicadas a la obtención de forrajes. |
 | --- |
 | Índice de cuota devengada por operaciones corrientes: 0,07625. |
@@ -88,13 +88,16 @@ Signos, índices o módulos del método de estimación objetiva del Impuesto sob
 | Índice de cuota devengada por operaciones corrientes: 0,21. |
 | Actividad: Procesos de transformación, elaboración o manufactura de productos naturales para la obtención de queso. |
 | --- |
-| Índice de cuota devengada por operaciones corrientes: 0,070. |
+| Índice de cuota devengada por operaciones corrientes: 0,03102. |
 | Actividad: Procesos de transformación, elaboración o manufactura de productos naturales para la obtención de vino de mesa. |
 | --- |
 | Índice de cuota devengada por operaciones corrientes: 0,2675. |
 | Actividad: Procesos de transformación, elaboración o manufactura de productos naturales para la obtención de vino con denominación de origen. |
 | --- |
 | Índice de cuota devengada por operaciones corrientes: 0,2675. |
+| Actividad: Procesos de transformación, elaboración o manufactura de productos naturales para la obtención de aceites de oliva y aceites de semillas. |
+| --- |
+| Índice de cuota devengada por operaciones corrientes: 0,14104. |
 | Actividad: Procesos de transformación, elaboración o manufactura de productos naturales para la obtención de otros productos distintos a los anteriores. |
 | --- |
 | Índice de cuota devengada por operaciones corrientes: 0,19625. |
@@ -291,3 +294,7 @@ Si el resultado de la última declaración-liquidación del ejercicio fuera nega
 6. La declaración-liquidación correspondiente al último trimestre del año natural deberá presentarse durante los treinta primeros días naturales del mes de enero.
 
 7. La liquidación de las cuotas correspondientes a las operaciones indicadas en el apartado uno.B del artículo 123 de la Ley del Impuesto y la deducción de las cuotas soportadas o satisfechas por la adquisición o importación de activos fijos se efectuará en la forma indicada en el anexo III, número 4 de esta orden ministerial.
+
+> Se modifican determinados módulos del régimen especial simplificado del Impuesto sobre el Valor Añadido y se añade una nueva actividad por la disposición adicional 4.1 de la Orden HAC/1347/2024, de 28 de noviembre. Ref. BOE-A-2024-24949#da-4
+
+> Téngase en cuenta para su aplicación lo dispuesto en el apartado 2 de la disposición adicional 4 de la citada Orden.
