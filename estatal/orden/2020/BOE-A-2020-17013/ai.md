@@ -16,7 +16,7 @@ a) En la provincia de Ávila: las comarcas de El Barco de Ávila, Arenas de San 
 
 b) En la provincia de Salamanca: las comarcas de Béjar, Ciudad Rodrigo, Guijuelo, Tamames y Sequeros.
 
-4. En la Comunidad Autónoma de Castilla- La Mancha:
+4. En la Comunidad Autónoma de Castilla-La Mancha:
 
 a) Las provincias de Toledo y Ciudad Real.
 
@@ -28,7 +28,7 @@ d) En la provincia de Albacete: las comarcas de Villarobledo, Balazote y Alcaraz
 
 5. La Comunidad de Madrid.
 
-Parte B: zona restringida frente al serotipo 4 del virus de la lengua azul.
+Parte B: zona restringida frente al serotipo 4 del virus de la lengua azul:
 
 Se considerará zona restringida frente al serotipo 4 del virus de la lengua azul los siguientes territorios:
 
@@ -88,13 +88,15 @@ a) En la provincia de Ávila: las comarcas de El Barco de Ávila, Arenas de San 
 
 b) En la provincia de Burgos, en la comarca de Miranda de Ebro, los municipios de Condado de Treviño y La Puebla de Arganzón.
 
+c) En la provincia de Salamanca: las comarcas de Béjar, Ciudad Rodrigo, Guijuelo, Tamames y Sequeros.
+
 6. La Comunidad de Madrid.
 
 7. La Comunidad Autónoma de Extremadura.
 
 8. En la Comunidad Autónoma de Andalucía:
 
-a) La provincia de Huelva,
+a) La provincia de Huelva.
 
 b) En la provincia de Sevilla: las comarcas de Cantillana (Vega de Sevilla), Cazalla de la Sierra (Sierra Norte), Sanlúcar La Mayor (Poniente de Sevilla) y Sevilla (Delegación Provincial).
 
@@ -105,6 +107,8 @@ d) En la provincia de Jaén: las comarcas de Andújar (Sierra Morena/Campiña Ja
 9. La Comunidad Autónoma de País Vasco.
 
 10. La Comunidad Foral de Navarra.
+
+> Se modifica por Resolución de 28 de noviembre de 2024. Ref. BOE-A-2024-25038
 
 > Se modifica por Resolución de 31 de octubre de 2024. Ref. BOE-A-2024-23168
 
