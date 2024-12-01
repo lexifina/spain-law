@@ -1,6 +1,6 @@
 ## ANEXO
 
-## Zona restringida
+## Zona Restringida
 
 Se considerará zona restringida frente al serotipo 3 del virus de la lengua azul los siguientes territorios:
 
@@ -24,7 +24,13 @@ a) La provincia de Toledo.
 
 b) La provincia de Ciudad Real.
 
-5. En la Comunidad de Madrid: las comarcas de El Escorial, San Martín de Valdeiglesias y Navalcarnero.
+c) En la provincia de Cuenca: las comarcas de Tarancón y Belmonte.
+
+d) En la provincia de Guadalajara: las comarcas de Pastrana y Guadalajara.
+
+5. La Comunidad de Madrid.
+
+> Se modifica por Resolución de 28 de noviembre de 2024. Ref. BOE-A-2024-25037
 
 > Se modifica por Resolución de 18 de noviembre de 2024. Ref. BOE-A-2024-24559
 
