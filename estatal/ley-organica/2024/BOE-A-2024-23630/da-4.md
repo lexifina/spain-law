@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Rehabilitación a antiguos guardias civiles.
+
+1. Quedan rehabilitados de las sanciones de separación del servicio, en el sentido que más adelante se expresa, los militares de carrera de la Guardia Civil que fueron sancionados con anterioridad al 31 de octubre de 2001, tras la tramitación de los expedientes gubernativos números 4/89, 32/93, 47/93 y 48/93, que tenían entre sus causas de incoación la recogida en el apartado 3 del artículo 59 de la Ley Orgánica 12/1985, de 27 de noviembre, de Régimen Disciplinario de las Fuerzas Armadas, por llevar a cabo acciones de promoción y defensa de intereses de naturaleza profesional, en un ámbito distinto al del derecho de asociación profesional.
+
+2. La rehabilitación de las referidas sanciones de separación del servicio se realizará a instancia de los mencionados en el apartado 1 o sus causahabientes, en un plazo máximo de dos meses desde la entrada en vigor de la norma, con reconocimiento del empleo que les hubiera correspondido por antigüedad. El tiempo de separación del servicio les será computado a todos los efectos, con excepción de la percepción de haberes. No obstante, se procederá a actualizar las pensiones que se vieran afectadas por este reconocimiento de servicios.
+
+3. Los guardias civiles a los que se refiere la presente disposición pasarán a retiro en el caso que por edad les correspondiera el pase a otra situación administrativa prevista en la Ley 29/2014, de 28 de noviembre, de Régimen de Personal de la Guardia Civil.
