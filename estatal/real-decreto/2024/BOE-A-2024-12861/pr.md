@@ -1,0 +1,53 @@
+I
+
+La movilidad de los pasajeros y las mercancías en Europa tiene lugar, en gran medida, a través de numerosas conexiones marítimas dentro de los Estados miembros, entre ellos y con terceros países. Un transporte que se desarrolla gracias a los buques de pasaje de transbordo rodado, a los que se debe exigir un nivel adecuado de seguridad.
+
+El Real Decreto 1861/2004, de 6 de septiembre, sobre las prescripciones específicas de estabilidad aplicables a los buques de pasaje de transbordo rodado, incorporó al ordenamiento jurídico español la Directiva 2003/25/CE del Parlamento Europeo y del Consejo, de 14 de abril de 2003, sobre las prescripciones específicas de estabilidad aplicables a los buques de pasaje de transbordo rodado. En ambas normas se establecen una serie de medidas de estabilidad aplicables a dichos buques con el fin de incrementar su flotabilidad en supuestos de daños provocados por una colisión.
+
+Posteriormente, la Comisión Europea aprobó la Directiva 2005/12/CE de la Comisión, de 18 de febrero de 2005, por la que se modifican los anexos I y II de la Directiva 2003/25/CE del Parlamento Europeo y del Consejo sobre las prescripciones específicas de estabilidad aplicables a los buques de pasaje de transbordo rodado. La norma de incorporación a nuestro derecho de esta directiva fue la Orden FOM/191/2006, de 24 de enero, por la que se actualizan los anexos del Real Decreto 1861/2004, de 6 de septiembre, sobre las prescripciones específicas de estabilidad aplicables a los buques de pasaje de transbordo rodado.
+
+Finalmente, se ha aprobado la Directiva (UE) 2023/946 del Parlamento Europeo y del Consejo, de 10 de mayo de 2023, por la que se modifica la Directiva 2003/25/CE en lo que se refiere a la inclusión de prescripciones de estabilidad mejoradas y la armonización de dicha Directiva con las prescripciones de estabilidad definidas por la Organización Marítima Internacional. Esta directiva ha adaptado el Derecho europeo a las enmiendas que la Resolución MSC.421 (98) incluyó en el Convenio Internacional para la seguridad de la vida humana en el mar, 1974, y su protocolo de 1988 (Convenio SOLAS).
+
+De acuerdo con esta regulación, la seguridad de la navegación y la seguridad marítima son competencia del Estado del pabellón del buque, lo que conlleva que cada Estado miembro se responsabilice de garantizar el cumplimiento de las prescripciones técnicas que se establezcan por parte de la Unión Europea. Competencia que, en el Reino de España, corresponde al Ministerio de Transportes y Movilidad Sostenible, a través de la Dirección General de la Marina Mercante. Una competencia a la que se añade la que le corresponde para la inspección de buques extranjeros en su calidad de Estado rector del puerto.
+
+Este real decreto adapta nuestro ordenamiento las nuevas prescripciones internacionales en materia de estabilidad de los buques de pasaje de transbordo rodado.
+
+II
+
+La normativa internacional ha experimentado un cambio en su concepción. De esta forma, las prescripciones de estabilidad en caso de avería aplicables a los buques de pasaje de transbordo rodado que figuran en el anexo I de la Directiva 2003/25/CE del Parlamento Europeo y del Consejo, de 14 de abril de 2003, y que, en nuestro Derecho interno, se contenían hasta ahora en el anexo I del Real Decreto 1861/2004, de 6 de septiembre, son de carácter determinista. Es decir, ante un incidente en el mar, se consideraba que se producirían unas consecuencias precisas.
+
+Sin embargo, con posterioridad, se ha producido un cambio en la filosofía del régimen internacional en materia de seguridad marítima, especialmente, a medida que se han desarrollado las prescripciones del Convenio Internacional para la seguridad de la vida humana en el mar, 1974, y su protocolo de 1988, conocido como Convenio SOLAS. Este cambio ha consistido en establecer un nuevo régimen internacional de carácter probabilístico, esto es, abrir a distintas opciones el resultado de un determinado incidente marítimo.
+
+En lo que se refiere a la Directiva (UE) 2023/946 del Parlamento Europeo y del Consejo, de 10 de mayo de 2023, se articulan prescripciones novedosas que miden la capacidad de los buques de pasaje de transbordo rodado en función de las posibilidades de que conserven su flotabilidad tras una colisión, que se incorporan también en este real decreto.
+
+III
+
+En relación con el contenido de la norma, se lleva a cabo una actualización de la regulación contenida en el Real Decreto 1861/2004, de 6 de septiembre, de acuerdo con las previsiones de la Directiva (UE) 2023/946 del Parlamento Europeo y del Consejo, de 10 de mayo de 2023. Esta actualización y los cambios en la propia ordenación del articulado respecto a la norma de 2004 justifican la aprobación de un nuevo real decreto en el que se establezcan las prescripciones específicas de estabilidad aplicables a los buques de pasaje de transbordo rodado.
+
+De esta forma, este real decreto se ajusta a las nuevas definiciones recogidas tanto a nivel internacional como de la Unión Europea. Asimismo, se delimita con mayor claridad los dos supuestos de aplicación de las prescripciones de estabilidad que se regulan: las que se aplicarán a los buques de pasaje de transbordo rodado nuevos y aquellas que rigen para aquellos que ya operaban con anterioridad al 5 de diciembre de 2024, de acuerdo con las previsiones de la norma europea y tomando en consideración el número de personas cuyo transporte se autoriza. Estos últimos buques se regirán por la regulación hasta ahora vigente, que se contenía en el anexo I del Real Decreto 1861/2004, de 6 de septiembre. En ambos casos, las prescripciones de estabilidad se plasmarán en los correspondientes certificados de estos buques.
+
+Por otro lado, en este real decreto se modifica la entrada en vigor prevista para las disposiciones de despacho de buques, rol de despacho y dotación, y al régimen de enrolamiento y desenrolamiento de los tripulantes, en el Reglamento de Ordenación de la Navegación Marítima, aprobado por el Real Decreto 186/2023, de 21 de marzo. Esta entrada en vigor se retrasa del 1 de julio de 2024 al 15 de agosto de 2025. La razón se encuentra en la necesidad de asegurar la disponibilidad de las aplicaciones informáticas que permitan que el nuevo régimen funcione adecuadamente, sin merma de la seguridad de la navegación. Además, la nueva fecha coincide con la entrada en vigor del Reglamento (UE) 2019/1239 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, por el que se crea un entorno europeo de ventanilla única marítima y se deroga la Directiva 2010/65/UE.
+
+IV
+
+En otro orden de cosas, la incorporación al ordenamiento jurídico español de la Directiva (UE) 2023/946 del Parlamento Europeo y del Consejo, de 10 de mayo de 2023, que efectúa este real decreto respeta los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Estos principios son los de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+
+Este real decreto responde a un propósito de interés general, que consiste en asegurar la seguridad de la navegación de los buques de pasaje de transporte rodado, de conformidad con las prescripciones adoptadas tanto a nivel internacional como europeo. De ello se desprende la necesidad y la propia eficacia de estas previsiones, que han logrado reducir el número de accidentes e incidentes de este tipo de buques. Estas prescripciones técnicas, desarrolladas en el seno de comités de expertos de las organizaciones internacionales especializadas, aseguran la eficacia, la eficiencia y la proporcionalidad de las medidas acordadas y que se siguen fielmente en este real decreto. En este sentido, se considera que no se introducen cargas innecesarias y que las previsiones del real decreto se ajustan a las normas internacionales.
+
+En consecuencia, los criterios de consenso internacional en esta materia son los que determinan esta actualización en el Derecho español de los requisitos de seguridad en un ámbito tan sensible como es la navegación de buques de pasaje.
+
+Los trámites de consulta previa y audiencia a los ciudadanos observados durante el proceso de elaboración de este real decreto han dado efectividad al principio de transparencia y de participación.
+
+La seguridad jurídica se deriva del carácter técnico y preciso de las condiciones de estabilidad que para los buques de pasaje que se recogen en el real decreto. Asimismo, el carácter técnico de una parte relevante de este real decreto no impide que se haya redactado y estructurado siguiendo principios de comunicación jurídica clara, con la finalidad de facilitar su comprensión por el conjunto de los ciudadanos. En concreto, se ha tenido en cuenta la reciente Norma Española UNE-ISO 24495-1, de febrero de 2024, sobre Lenguaje claro.
+
+El rango de la nueva norma deriva de la habilitación recogida en la disposición final segunda del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre, sin que existan normas de rango superior que puedan verse afectadas. Además, con este real decreto se da cumplimiento a la obligación de incorporación al Derecho español de las directivas comunitarias, consecuencia de nuestra condición de Estado miembro de la Unión Europea.
+
+V
+
+Este real decreto se dicta al amparo del artículo 149.1.20.ª de la Constitución Española, que atribuye al Estado competencia exclusiva en materia de marina mercante, cuyo contenido se explicita y concreta a nivel legal por medio del artículo 6.1 del Texto Refundido en la Ley de Puertos del Estado y de la Marina Mercante, en cuyos apartados c) y d) se explicita que la seguridad de la navegación y de la vida humana en el mar y la seguridad marítima son contenidos propios del ámbito de la marina mercante. La disposición final segunda del texto refundido habilita al gobierno para aprobar las normas reglamentarias que requiera su desarrollo y aplicación.
+
+Este real decreto, dentro del citado marco competencial, incorpora al ordenamiento jurídico español las prescripciones de la Directiva 2003/25/CE, del Parlamento Europeo y del Consejo, de 14 de abril, con las modificaciones que en los anexos I y II introdujo la Directiva 2005/12/CE de la Comisión, de 18 de febrero de 2005, y los cambios de la Directiva (UE) 2023/946 del Parlamento Europeo y del Consejo, de 10 de mayo de 2023.
+
+En su virtud, a propuesta del Ministro de Transportes y Movilidad Sostenible, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión de día 25 de junio de 2024,
+
+DISPONGO:
