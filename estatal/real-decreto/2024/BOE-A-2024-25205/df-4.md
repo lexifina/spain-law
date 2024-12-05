@@ -1,0 +1,3 @@
+## Disposición final cuarta. Incorporación de Derecho de la Unión Europea.
+
+Mediante este real decreto se incorporan al Derecho español los artículos 24, 25, 26, 27, 30, 84, 87, 88, 89, 90 y 91; y los anexos III, V, VI, VII, IX, XIV, XV y XVI; y, de forma parcial, los artículos 4, 14, 15, 17, 22, 23, 28, 29, 43, 44, 65, 67, 69, 78, 79, 97, 98, 102, 104 y 105, y el anexo X, de la Directiva 2013/59/Euratom del Consejo, de 5 de diciembre de 2013, por la que se establecen normas de seguridad básicas para la protección contra los peligros derivados de la exposición a radiaciones ionizantes, y se derogan las Directivas 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom y 2003/122/Euratom.

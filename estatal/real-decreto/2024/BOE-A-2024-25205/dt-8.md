@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Instalaciones radiactivas del ciclo del combustible nuclear con declaración de clausura.
+
+A los efectos de preservar, en el largo plazo, el conocimiento y la memoria de las instalaciones, así como de los residuos radiactivos almacenados en ellas, aquellas instalaciones radiactivas del ciclo del combustible nuclear que, a la fecha de entrada en vigor de este reglamento, cuenten con una declaración de clausura, en un plazo de seis meses a partir de dicha fecha serán inscritas en el «Registro de instalaciones radiactivas del ciclo del combustible nuclear con declaración de cierre» establecido en el artículo 48, manteniendo las condiciones establecidas en su declaración de clausura.
