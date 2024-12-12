@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Personal laboral de alta dirección.
+
+1. Los contratos de alta dirección vigentes continuarán en sus términos hasta que la adaptación a la nueva estructura de la Agencia suponga una modificación del contenido de los mismos. Cuando en aplicación del Estatuto se vean alteradas las funciones de los órganos a cuyo frente se sitúe personal laboral con contrato de alta dirección, se incorporará una adenda a los contratos vigentes, con el fin de evitar vacíos en el ejercicio de dichas funciones.
+
+2. Hasta la aprobación del primer contrato de gestión, se reservarán para cubrir mediante contratos en régimen laboral de alta dirección los siguientes puestos directivos: Dirección de Alianzas para el Desarrollo Sostenible e Innovación, Dirección de Acción Humanitaria, Subdirección de Cooperación Europea y Multilateral, Subdirección de Cooperación Feminista, Desarrollo Económico y Humano y Gobernanza, Subdirección de Alianzas, Innovación y Educación para el Desarrollo y la Ciudadanía Global, Subdirección de Cooperación y Acción Cultural para el Desarrollo Sostenible y Subdirección de Emergencias Humanitarias.

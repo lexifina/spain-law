@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Contrato de gestión.
+
+1. Hasta tanto se apruebe un nuevo contrato de gestión mediante orden ministerial conjunta del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación, como Ministerio de adscripción, del Ministerio de Hacienda y del Ministerio para la Transformación Digital y de la Función Pública, la actuación de la Agencia se desarrollará conforme a lo dispuesto por el artículo 108 ter de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, por los criterios y directrices establecidos en el Plan de Acción 2022-2023, aprobado por el Consejo Rector el 11 de octubre de 2022, así como por el contrato de gestión aprobado mediante Orden PRE/1914/2009, de 13 de julio, por la que se aprueba el contrato de gestión de la Agencia Española de Cooperación para el Desarrollo.
+
+2. El Consejo Rector aprobará la propuesta del nuevo contrato de gestión en un plazo no superior a tres meses desde la entrada en vigor de este real decreto.
