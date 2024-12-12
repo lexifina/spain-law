@@ -109,6 +109,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Subsección 3](s3-4.md)
 - [Artículo 75](a7-7.md)
 - [Artículo 76](a7-8.md)
+- [Artículo 76 bis](a7-12.md)
+- [Artículo 76 ter](a7-13.md)
 - [Sección 5](s5-2.md)
 - [Subsección 1](s1-6.md)
 - [Artículo 77](a7-9.md)
