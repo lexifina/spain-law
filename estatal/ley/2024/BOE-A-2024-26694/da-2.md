@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Bonificación por contrataciones en entidades deportivas no profesionales sin ánimo de lucro.
+
+1. Tendrán derecho a una bonificación del cien por cien de la cuota empresarial por contingencias comunes, los clubes, asociaciones o entidades deportivas no profesionales sin ánimo de lucro por los trabajadores a su servicio que actúen como entrenadores o monitores dedicados a la formación, preparación o entrenamiento de personas menores de dieciocho años.
+
+En todo caso, a efectos de la presente disposición, se entenderá práctica deportiva no profesional aquella en la cual los deportistas no estén sujetos a relación laboral según lo previsto en el artículo 1.Dos del Real Decreto 1006/1985, de 26 de junio, por el que se regula la relación laboral especial de los deportistas profesionales, con independencia de la disciplina, modalidad o categoría a la que se encuentre adscrita. En este sentido, un club, asociación o entidad deportiva sin ánimo de lucro podrá contar de forma concurrente con práctica deportiva no profesional y práctica deportiva profesional, supuesto en el cual la bonificación solo será de aplicación para entrenadores y monitores de práctica no profesional.
+
+2. El régimen jurídico aplicable a la presente bonificación respecto a la cotización, en términos de aplicación, control y coordinación, será el establecido en los artículos 36 a 42 del Real Decreto-ley 1/2023, de 10 de enero, de medidas urgentes en materia de incentivos a la contratación laboral y mejora de la protección social de las personas artistas.

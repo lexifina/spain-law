@@ -1,6 +1,10 @@
-## Artículo 64 bis. Definiciones y adaptaciones de las disposiciones comunes a los impuestos especiales de fabricación.
+## Artículo 64 bis. Hecho imponible.
 
-(Derogado).
+Además de lo establecido en el artículo 5, estará sujeta al Impuesto la introducción en el ámbito territorial interno de los productos comprendidos en el ámbito objetivo del impuesto desde el territorio de otros Estados miembros.
+
+La circulación y tenencia de los productos objeto del impuesto, desde el lugar de entrada en el ámbito territorial interno hasta el lugar de recepción por su destinatario, deberá estar amparada mediante un documento mercantil que identifique correctamente la fecha del inicio de la expedición, al expedidor, al destinatario, así como la naturaleza y cantidad de la mercancía transportada.
+
+> Se modifica, con efectos desde el 1 de enero de 2025, por la disposición final 2.10 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2
 
 > Se deroga por el art. 3.7 de la Ley 28/2014, de 27 de noviembre. Ref. BOE-A-2014-12329.
 

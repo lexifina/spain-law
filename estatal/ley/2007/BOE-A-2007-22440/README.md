@@ -43,6 +43,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimoctava](dadecimoctava.md)
 - [Disposición adicional decimonovena](dadecimonovena.md)
 - [Disposición adicional vigésima](davigesima.md)
+- [Disposición adicional vigesimoprimera](da.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
