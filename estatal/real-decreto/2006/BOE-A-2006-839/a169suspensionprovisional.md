@@ -1,6 +1,6 @@
 ## Artículo 169 Suspensión provisional.
 
-1) Durante la tramitación del procedimiento se podrá acordar la suspensión provisional del interesado por la autoridad que ordenó la incoación del mismo, a propuesta del Instructor, mediante resolución motivada y previa audiencia del interesado. Sólo podrá acordarse cuando existan indicios racionales de la comisión de una falta grave o muy grave, y la duración de la medida no podrá exceder de seis meses cuando se trate de falta muy grave, y de tres meses cuando se trate de falta grave, salvo en caso de paralización del procedimiento imputable al interesado. Cuando se trate de faltas graves, la medida tendrá carácter excepcional y sólo podrá acordarse cuando su falta de adopción pudiera causar perjuicio a la Administración de Justicia, a los intereses generales o a los ciudadanos particularmente afectados.
+1) Durante la tramitación del procedimiento se podrá acordar la suspensión provisional de la persona interesada por la autoridad que ordenó la incoación del mismo, a propuesta del Instructor o de la Instructora, mediante resolución motivada y previa audiencia de la persona interesada. Sólo podrá acordarse cuando existan indicios racionales de la comisión de una falta grave o muy grave, y la duración de la medida no podrá exceder de seis meses cuando se trate de falta muy grave, y de tres meses cuando se trate de falta grave, salvo en caso de paralización del procedimiento imputable a la persona interesada. Cuando se trate de faltas graves, la medida tendrá carácter excepcional y sólo podrá acordarse cuando su falta de adopción pudiera causar perjuicio a la Administración de Justicia, a los intereses generales o a los ciudadanos o ciudadanas particularmente afectados.
 
 2) El Secretario judicial declarado en situación de suspensión provisional quedará privado, durante el tiempo de permanencia en dicha situación, del ejercicio de sus funciones y no podrá prestar servicios en ninguna Administración pública ni en organismos públicos o entidades de derecho público vinculadas a ellas.
 
@@ -12,4 +12,6 @@
 
 6) Cuando se haya incoado procedimiento penal por los mismos hechos que hubieran dado lugar al procedimiento disciplinario, la autoridad que hubiera ordenado la incoación de este último comunicará al órgano jurisdiccional la adopción de la medida de suspensión provisional.
 
-7) Contra la resolución por la que se acuerde la medida de suspensión provisional cabrá interponer los recursos previstos en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+7) Contra la resolución por la que se acuerde la medida de suspensión provisional cabrá interponer recurso de alzada ante el órgano superior jerárquico del que los dictó y potestativo de reposición, conforme a la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se modifican los apartados 1 y 7 por el art. 1.41 del Real Decreto 1280/2024, de 17 de diciembre. Ref. BOE-A-2024-26773

@@ -1,5 +1,5 @@
-## Disposición transitoria décima. Grupos en los que se clasifican los puestos de trabajo.
+## Disposición transitoria décima. Grupos en los que se clasifican los puestos de trabajo del Cuerpo de Letrados de la Administración de Justicia.
 
-Hasta que no se aprueben las relaciones de puestos de trabajo de cada centro de destino, la referencias de este reglamento a los grupos de puestos de trabajo se entenderán referidas a las categorías de puestos de trabajo actuales del ámbito de tales centros de destino, que coinciden con las categorías personales de los Secretarios Judiciales que los ocupan.
+Hasta que no se aprueben las relaciones de puestos de trabajo de cada centro de destino, las referencias del Reglamento Orgánico del Cuerpo de Letrados de la Administración de Justicia a los grupos de puestos de trabajo se entenderán referidas a las categorías de puestos de trabajo actuales del ámbito de tales centros de destino.
 
-El Ministerio de Justicia podrá proceder a la determinación de los puestos de trabajo que deban ser asignados al Cuerpo de Secretarios Judiciales en cada comunidad autónoma a medida que la Comunidad de que se trate vaya elaborando su correspondiente relación de puestos de trabajo.
+> Se modifica por el art. 2.1 del Real Decreto 1280/2024, de 17 de diciembre. Ref. BOE-A-2024-26773
