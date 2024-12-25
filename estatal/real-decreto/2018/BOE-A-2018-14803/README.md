@@ -50,6 +50,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 29](a2-11.md)
 - [CAPÍTULO IV](ci-4.md)
 - [Artículo 30](a3-2.md)
+- [Artículo 30 bis](a3-10.md)
 - [Artículo 31](a3-3.md)
 - [Artículo 32](a3-4.md)
 - [Artículo 33](a3-5.md)
@@ -88,3 +89,4 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [ANEXO XIX](ax-10.md)
 - [ANEXO XX](ax-11.md)
 - [ANEXO XXI](ax-12.md)
+- [ANEXO XXII](ax-13.md)
