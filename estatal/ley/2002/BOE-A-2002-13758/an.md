@@ -32,9 +32,7 @@ No tendrán la consideración de servicios de la sociedad de la información los
 
 5.º El teletexto televisivo y otros servicios equivalentes como las guías electrónicas de programas ofrecidas a través de las plataformas televisivas.
 
-b) "Servicio de intermediación": servicio de la sociedad de la información por el que se facilita la prestación o utilización de otros servicios de la sociedad de la información o el acceso a la información.
-
-Son servicios de intermediación la provisión de servicios de acceso a Internet, la transmisión de datos por redes de telecomunicaciones, la realización de copia temporal de las páginas de Internet solicitadas por los usuarios, el alojamiento en los propios servidores de datos, aplicaciones o servicios suministrados por otros y la provisión de instrumentos de búsqueda, acceso y recopilación de datos o de enlaces a otros sitios de Internet.
+b) "Servicio intermediario": un servicio tal como se define en el artículo 3, letra g), del Reglamento (UE) 2022/2065.
 
 c) "Prestador de servicios" o "prestador": persona física o jurídica que proporciona un servicio de la sociedad de la información.
 
@@ -59,5 +57,7 @@ i) "Ámbito normativo coordinado": todos los requisitos aplicables a los prestad
 No quedan incluidos en este ámbito las condiciones relativas a las mercancías y bienes tangibles, a su entrega ni a los servicios no prestados por medios electrónicos.
 
 j) "Órgano competente": todo órgano jurisdiccional o administrativo, ya sea de la Administración General del Estado, de las Administraciones Autonómicas, de las Entidades locales o de sus respectivos organismos o entes públicos dependientes, que actúe en el ejercicio de competencias legalmente atribuidas.
+
+> Se modifica el apartado b) por la disposición final 2.17 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#df-2
 
 > Se deroga el punto 6 de la letra a) por la disposición derogatoria.18 de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292

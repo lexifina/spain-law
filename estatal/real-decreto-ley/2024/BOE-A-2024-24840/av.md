@@ -20,11 +20,19 @@ Las características, compatibilidad y concurrencia de las subvenciones que se o
 
 ## Artículo 3. Beneficiarios.
 
-Podrán ser beneficiarios de las subvenciones previstas en esta convocatoria los sujetos previstos en el artículo 4.1, letras c), d) y e), de este real decreto-ley y cumplan con los requisitos establecidos en el artículo 4.2.
+Podrán ser beneficiarios de las subvenciones previstas en esta convocatoria los sujetos previstos en el artículo 4.1, letras a) y b) de este real decreto-ley y cumplan con los requisitos establecidos en el artículo 4.2.
 
 ## Artículo 4. Régimen de concesión, financiación y cuantía de las ayudas.
 
 El régimen de concesión, financiación y cuantía de las ayudas será el señalado en el artículo 5 de este real decreto-ley.
+
+El presupuesto asignado a la presente convocatoria asciende a trescientos millones ciento setenta y dos mil cuatrocientos euros (300.172.400 €) repartidos en las siguientes partidas presupuestarias:
+
+20.09.929D.780 Doscientos treinta y cinco millones novecientos sesenta y cuatro mil cuatrocientos euros (235.964.400 €).
+
+20.09.929D.772 Sesenta y cuatro millones doscientos ocho mil euros (64.208.000 €).
+
+En el caso de que no se agote el presupuesto asignado a una de las partidas presupuestarias correspondientes a las convocatorias de la Sección «ECO/C» recogida en el apartado 3 del artículo 5 de este real decreto-ley, los fondos sobrantes podrán utilizarse para mejorar la dotación financiera de las partidas que hayan resultado insuficientes en cualquiera de dichas convocatorias.
 
 ## Artículo 5. Plazo para la presentación de solicitudes.
 
@@ -55,3 +63,5 @@ Serán causas de anulación o de reintegro de las ayudas de esta convocatoria la
 ## Artículo 11. Publicidad.
 
 Las obligaciones sobre la publicidad de las ayudas que se otorguen en esta convocatoria se atendrán a lo indicado en el artículo 17 de este real decreto-ley.
+
+> Se modifican los arts. 3 y 4 por la disposición final 9.3 y 4 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#df-9

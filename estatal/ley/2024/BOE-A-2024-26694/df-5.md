@@ -1,6 +1,6 @@
 ## Disposición final quinta. Modificación del Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio.
 
-Con efectos desde el 1 de enero de 2025, el Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, queda modificado como sigue:
+Con efectos desde el 1 de abril de 2025, el Reglamento de los Impuestos Especiales, aprobado por el Real Decreto 1165/1995, de 7 de julio, queda modificado como sigue:
 
 Uno. Se modifican los apartados 4 y 5, del artículo 1, que quedan redactados de la siguiente forma:
 
@@ -153,3 +153,5 @@ Seis. Se añade el capítulo IX al título I, que queda redactado de la siguient
 > d) Lo regulado en relación con la circulación intracomunitaria en los artículos 16 A, 17, 29 A, 31 A y 33 a 33 septies de este Reglamento.
 
 > 2. A efectos de lo dispuesto en el artículo 6 de la Ley, la persona titular del Ministerio de Hacienda podrá establecer los porcentajes admisibles de pérdidas.»
+
+> Se modifica el párrafo introductorio por el art. 10.4 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915

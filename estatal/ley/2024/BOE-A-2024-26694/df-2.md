@@ -1,6 +1,6 @@
 ## Disposición final segunda. Modificación de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales.
 
-Con efectos desde el 1 de enero de 2025, se modifica la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, salvo las modificaciones relativas al apartado 7 del artículo 15 y el apartado 7 del artículo 53 que surtirán efectos desde la entrada en vigor de esta ley, quedando modificada como sigue:
+Se introducen las siguientes modificaciones en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, que surtirán efectos desde el 1 de abril de 2025, salvo las relativas al apartado 7 del artículo 15 y al apartado 7 del artículo 53, que surtirán efectos desde la entrada en vigor de esta Ley, y al apartado 1 del artículo 60, que surtirá efectos desde el 1 de enero de 2025:
 
 Uno. Se añade un apartado 4 al artículo 2, que queda redactado de la siguiente forma:
 
@@ -226,14 +226,16 @@ Doce. Se añade una disposición transitoria décima, que queda redactada de la 
 
 > El tipo impositivo aplicable es el establecido en el artículo 64 septies.
 
-> La autoliquidación se deberá presentar del 1 al 20 de abril de 2025, en las condiciones y empleando los modelos, que determine la persona titular del Ministerio de Hacienda.»
+> La autoliquidación se deberá presentar del 1 al 20 de julio de 2025, en las condiciones y empleando los modelos, que determine la persona titular del Ministerio de Hacienda.»
 
 Trece. Se añade una disposición transitoria undécima, que queda redactada de la siguiente forma:
 
-> «Disposición transitoria undécima. Plazo de presentación de la autoliquidación correspondiente al Impuesto sobre los Líquidos para Cigarrillos electrónicos y otros Productos relacionados con el Tabaco durante los tres primeros meses de 2025.
+> «Disposición transitoria undécima. Plazo de presentación de las autoliquidaciones del Impuesto sobre los Líquidos para Cigarrillos electrónicos y otros Productos relacionados con el Tabaco correspondientes a los tres primeros meses siguientes a la entrada en vigor del Impuesto.
 
-> Las autoliquidaciones correspondientes a los periodos de liquidación de los meses de enero, febrero y marzo de 2025, se deberán presentar del 1 al 20 de abril de 2025.»
+> Las autoliquidaciones correspondientes a los periodos de liquidación de los meses de abril, mayo y junio de 2025, se deberán presentar del 1 al 20 de julio de 2025.»
 
 Catorce. Se añade un párrafo a la disposición final segunda, que queda redactada de la siguiente forma:
 
 > «Además, en relación con el Impuesto sobre los Líquidos de Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco, las Leyes de Presupuestos de cada año podrán modificar el ámbito objetivo, las definiciones de los productos gravados y los epígrafes en función de los cuales se determinan los tipos impositivos.»
+
+> Se modifica el párrafo introductorio y los apartados 12 y 13 por el art. 10.1 a 3 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915

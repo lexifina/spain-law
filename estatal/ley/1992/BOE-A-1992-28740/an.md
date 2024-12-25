@@ -201,7 +201,7 @@ b) Tener reconocida la condición de operador confiable por cumplir las siguient
 
 a’) estar inscrito en el registro de extractores,
 
-b’) tener un volumen de extracciones durante el año natural anterior de, al menos, 1.000 millones de litros de gasolinas, gasóleos y biocarburantes destinados a ser usados como carburante a que se refiere el párrafo tercero del artículo 19.5.º de esta ley,
+b’) tener un volumen de extracciones durante el año natural anterior de, al menos, 550 millones de litros de gasolinas, gasóleos y biocarburantes destinados a ser usados como carburante a que se refiere el párrafo tercero del artículo 19.5.º de esta Ley,
 
 c’) haber realizado operaciones como operador al por mayor durante los 3 años anteriores, y
 
@@ -248,6 +248,10 @@ El titular del depósito fiscal que permita que los carburantes salgan del depó
 La finalización del periodo transitorio por el transcurso del plazo anterior sin que se hubiera resuelto la solicitud de reconocimiento de la condición de operador confiable determinará la obligación de garantizar el ingreso del Impuesto sobre el Valor Añadido correspondiente a la entrega sujeta y no exenta que el último depositante de los productos, o el titular del depósito en caso de que sea el propietario de los productos haga posteriormente de dichos bienes en los términos previstos en el número 3.º anterior.
 
 4. La Administración tributaria proveerá a los titulares de los depósitos fiscales de los sistemas técnicos necesarios para verificar la aplicación de este régimen transitorio.
+
+> Se modifica el apartado undécimo por el art. 8.2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 19, de 22 de enero de 2025. Ref. BOE-A-2025-994
 
 > Se añade el apartado undécimo por la disposición final 1.3 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df
 

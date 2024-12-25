@@ -26,6 +26,14 @@ Podrán ser beneficiarios de las subvenciones previstas en esta convocatoria los
 
 El régimen de concesión, financiación y cuantía de las ayudas será el señalado en el artículo 5 de este real decreto-ley.
 
+El presupuesto asignado a la presente convocatoria asciende a cuarenta y siete millones seiscientos cuarenta y siete mil seiscientos euros (47.647.600 €) repartidos en las siguientes partidas presupuestarias:
+
+20.50.42AB.781 Treinta y siete millones cuatrocientos cincuenta y cinco mil seiscientos euros (37.455.600 €).
+
+20.50.42AB.772 Diez millones ciento noventa y dos mil euros (10.192.000 €).
+
+En el caso de que no se agote el presupuesto asignado a una de las partidas presupuestarias correspondientes a las convocatorias de la Sección «Cero» recogida en el apartado 2 del artículo 5 de este real decreto-ley, los fondos sobrantes podrán utilizarse para mejorar la dotación financiera de las partidas que hayan resultado insuficientes en cualquiera de dichas convocatorias.
+
 ## Artículo 5. Plazo para la presentación de solicitudes.
 
 El plazo de presentación de las solicitudes de ayuda comenzará el día de activación del sistema telemático de gestión de ayudas del Programa hasta el 30 de junio de 2025, ambos inclusive, o hasta que se agoten los presupuestos establecidos en cada convocatoria del título I de este real decreto-ley, en caso de producirse con anterioridad.
@@ -57,3 +65,5 @@ Serán causas de anulación o de reintegro de las ayudas de esta convocatoria la
 ## Artículo 11. Publicidad.
 
 Las obligaciones sobre la publicidad de las ayudas que se otorguen en esta convocatoria se atendrán a lo indicado en el artículo 17 de este real decreto-ley.
+
+> Se modifica el art. 4 por la disposición final 9.2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#df-9

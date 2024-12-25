@@ -4,4 +4,8 @@ Durante los 30 días siguientes a la entrada en vigor del impuesto sobre los Lí
 
 Constituye infracción tributaria grave no presentar en plazo, o presentar de forma incompleta, inexacta o con datos falsos la declaración anterior. La sanción consistirá en multa pecuniaria fija de 500 euros y le será de aplicación lo dispuesto en el artículo 188 de la Ley 58/2003, de 17 de diciembre.
 
+> Téngase en cuenta que la adición de esta disposición, efectuada por la disposición final 2.11 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+
+> Téngase en cuenta que la adición de esta disposición, efectuada por la disposición final 2.11 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2, tendrá efectos a partir del 1 de abril de 2025, según se establece en el art. 10.1 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+
 > Se añade, con efectos desde el 1 de enero de 2025, por la disposición final 2.11 de la Ley 7/2024, de 20 de diciembre. Ref. BOE-A-2024-26694#df-2

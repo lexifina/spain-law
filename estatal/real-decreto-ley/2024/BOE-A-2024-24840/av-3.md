@@ -1,6 +1,6 @@
 ## ANEXO VII
 
-## Convocatoria para empresas y otras entidades para la concesión de ayudas de la sección «Eco/C» del PLAN REINICIA AUTO + con cargo a Presupuestos Generales del Estado
+## Convocatoria para empresas, cooperativas y otras entidades para la concesión de ayudas de la sección «Eco/C» del PLAN REINICIA AUTO + con cargo a Presupuestos Generales del Estado
 
 ## Artículo 1. Objeto y ámbito territorial.
 
@@ -24,13 +24,15 @@ Podrán ser beneficiarios de las subvenciones previstas en esta convocatoria los
 
 ## Artículo 4. Régimen de concesión, financiación y cuantía de las ayudas.
 
-1. Las ayudas previstas en esta convocatoria se concederán de forma directa, conforme a los artículos 22 y 28 de la Ley 38/2003, de 17 de noviembre, y al capítulo III del título I del Reglamento de la Ley General de Subvenciones, al existir razones de interés público, social y económico que no permiten promover la concurrencia competitiva. Las ayudas serán en forma de subvención.
+El régimen de concesión, financiación y cuantía de las ayudas será el señalado en el artículo 5 de este real decreto-ley.
 
-2. Las ayudas se financiarán con cargo a fondos de la Secretaría de Estado de Industria del Ministerio de Industria y Turismo.
+El presupuesto asignado a la presente convocatoria asciende a ciento un millones ciento veintisiete mil euros (101.127.000 €) repartidos en las siguientes partidas presupuestarias:
 
-3. Se considerará agotado el presupuesto disponible habilitado para la convocatoria cuando se presente la solicitud de la última solicitud de ayuda que totalice el importe total asignado a la misma.
+20.09.929D.770 Noventa y seis millones trescientos doce mil euros (96.312.000 €).
 
-4. Las cuantías individuales de ayuda para los vehículos subvencionables en esta convocatoria se indican en el punto 5 del anexo II de este real decreto-ley.
+20.09.929D.782 Cuatro millones ochocientos quince mil seiscientos euros (4.815.600 €).
+
+En el caso de que no se agote el presupuesto asignado a una de las partidas presupuestarias correspondientes a las convocatorias de la Sección «ECO/C» recogida en el apartado 3 del artículo 5 de este real decreto-ley, los fondos sobrantes podrán utilizarse para mejorar la dotación financiera de las partidas que hayan resultado insuficientes en cualquiera de dichas convocatorias.
 
 ## Artículo 5. Plazo para la presentación de solicitudes.
 
@@ -61,3 +63,5 @@ Serán causas de anulación o de reintegro de las ayudas de esta convocatoria la
 ## Artículo 11. Publicidad.
 
 Las obligaciones sobre la publicidad de las ayudas que se otorguen en esta convocatoria se atendrán a lo indicado en el artículo 17 de este real decreto-ley.
+
+> Se modifican el título y el art. 4 por la disposición final 9.5 y 6 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#df-9

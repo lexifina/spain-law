@@ -88,6 +88,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional sexta](da-6.md)
 - [Disposición adicional séptima](da-7.md)
 - [Disposición adicional octava](da-8.md)
+- [Disposición adicional novena](da-9.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)

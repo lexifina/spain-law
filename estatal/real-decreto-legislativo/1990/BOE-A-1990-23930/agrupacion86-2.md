@@ -1,6 +1,6 @@
 ## Agrupación 86. Profesiones liberales, artísticas, literarias y culturales.
 
-## Grupo 861. Pintores, Escultores, Ceramistas, Artesanos, Grabadores, Artistas Falleros y artistas similares.
+## Grupo 861. Pintores, Escultores, Ceramistas, Artesanos, Grabadores, Artistas Falleros, Artistas de Arte Sacro y artistas similares.
 
 Cuota de: 115 euros.
 
@@ -21,6 +21,8 @@ Cuota de: 115 euros.
 ## Grupo 869. Otros profesionales relacionados con las actividades artísticas y culturales no clasificadas en la sección tercera.
 
 Cuota de: 115 euros.
+
+> Se modifica, con efectos de 1 de enero de 2025, por el art. 12 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
 
 > Se modifica por el art. 70.3 de la Ley 31/2022, de 23 de diciembre. Ref. BOE-A-2022-22128#a7-2
 
