@@ -42,13 +42,13 @@ Será condición indispensable que los indicados acuerdos colectivos de empresa 
 
 c) No obstante, para el reconocimiento del derecho a pensión de las personas a las que se refieren los apartados anteriores, la entidad gestora aplicará la legislación que esté vigente en la fecha del hecho causante de la misma, cuando resulte más favorable a estas personas.
 
-6. Se seguirá aplicando la regulación para la modalidad de jubilación parcial con simultánea celebración de contrato de relevo, vigente con anterioridad a la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del sistema de la Seguridad Social, a pensiones causadas antes del 1 de enero de 2025, siempre y cuando se acredite el cumplimiento de los siguientes requisitos:
+6. Se seguirá aplicando la regulación para la modalidad de jubilación parcial con simultánea celebración de contrato de relevo, vigente con anterioridad a la entrada en vigor de la Ley 27/2011, de 1 de agosto, de actualización, adecuación y modernización del sistema de la Seguridad Social, a pensiones causadas antes del 1 de enero de 2030, siempre que se acrediten los siguientes requisitos:
 
 a) Que el trabajador que solicite el acceso a la jubilación parcial realice directamente funciones que requieran esfuerzo físico o alto grado de atención en tareas de fabricación, elaboración o transformación, así como en las de montaje, puesta en funcionamiento, mantenimiento y reparación especializados de maquinaria y equipo industrial en empresas clasificadas como industria manufacturera.
 
 b) Que el trabajador que solicite el acceso a la jubilación parcial acredite un período de antigüedad en la empresa de, al menos, seis años inmediatamente anteriores a la fecha de la jubilación parcial. A tal efecto, se computará la antigüedad acreditada en la empresa anterior si ha mediado una sucesión de empresa en los términos previstos en el artículo 44 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, o en empresas pertenecientes al mismo grupo.
 
-c) Que en el momento del hecho causante de la jubilación parcial el porcentaje de trabajadores en la empresa cuyo contrato de trabajo lo sea por tiempo indefinido, supere el 70 por ciento del total de los trabajadores de su plantilla.
+c) Que en el momento del hecho causante de la jubilación parcial el porcentaje de trabajadores en la empresa cuyo contrato de trabajo lo sea por tiempo indefinido, supere el 75 por ciento del total de los trabajadores de su plantilla.
 
 d) Que la reducción de la jornada de trabajo del jubilado parcial se halle comprendida entre un mínimo de un 25 por ciento y un máximo del 67 por ciento, o del 80 por ciento para los supuestos en que el trabajador relevista sea contratado a jornada completa mediante un contrato de duración indefinida. Dichos porcentajes se entenderán referidos a la jornada de un trabajador a tiempo completo comparable.
 
@@ -57,6 +57,20 @@ e) Que exista una correspondencia entre las bases de cotización del trabajador 
 f) Que se acredite un período de cotización de treinta y tres años en la fecha del hecho causante de la jubilación parcial, sin que a estos efectos se tenga en cuenta la parte proporcional correspondiente por pagas extraordinarias. A estos exclusivos efectos, solo se computará el período de prestación del servicio militar obligatorio o de la prestación social sustitutoria, o del servicio social femenino obligatorio, con el límite máximo de un año.
 
 En el supuesto de personas con discapacidad en grado igual o superior al 33 por ciento, el período de cotización exigido será de veinticinco años.
+
+g) Sin perjuicio de la reducción de jornada a que se refiere la letra d), durante el período de disfrute de la jubilación parcial, empresa y trabajador cotizarán por el 80 por ciento de la base de cotización que, en su caso, hubiese correspondido al jubilado parcial de seguir trabajando este a jornada completa. Esta cotización se aplicará de forma gradual de acuerdo con la siguiente escala:
+
+– 1.º Durante el año 2025, la base de cotización será equivalente al 40 por ciento de la base de cotización que hubiera correspondido a jornada completa.
+
+– 2.º Durante el año 2026, la base de cotización será equivalente al 50 por ciento de la base de cotización que hubiera correspondido a jornada completa.
+
+– 3.º Durante el año 2027, la base de cotización será equivalente al 60 por ciento de la base de cotización que hubiera correspondido a jornada completa.
+
+– 4.º Durante el año 2028, la base de cotización será equivalente al 70 por ciento de la base de cotización que hubiera correspondido a jornada completa.
+
+– 5.º Durante el año 2029, la base de cotización será equivalente al 80 por ciento de la base de cotización que hubiera correspondido a jornada completa.
+
+A efectos de la aplicación de lo establecido en este apartado, la compatibilidad efectiva entre trabajo y pensión permitirá la acumulación del tiempo de trabajo en periodos de días en la semana, semanas en el mes, meses en el año u otros periodos de tiempo, de conformidad con lo dispuesto en pacto individual o, en su caso, en la negociación colectiva, en todas sus expresiones, incluido el acuerdo de centro de trabajo, sin que en ningún ámbito se pueda limitar o impedir su uso.
 
 7. A los solos efectos del cálculo de la base reguladora de la pensión de jubilación, cuando el hecho causante se produzca con posterioridad al 31 de diciembre de 2025 y antes de 31 de diciembre de 2040, la entidad gestora aplicará en su integridad lo previsto en el artículo 209.1 en su redacción vigente el día 1 de enero de 2023 cuando dicho cálculo resulte más favorable que el vigente en la fecha en que se cause la pensión.
 
@@ -67,6 +81,8 @@ En 2042, la entidad gestora aplicará, en su integridad, lo previsto en el artí
 En 2043, la entidad gestora aplicará, en su integridad, lo previsto en el artículo 209.1 en su redacción vigente el día 1 de enero de 2023, con una base reguladora que comprenderá las bases de cotización de los últimos 318 meses entre 371, cuando dicho cálculo resulte más favorable que el vigente en la fecha en que se cause la pensión.
 
 A partir de 2044, se aplicará lo previsto en el artículo 209.1 en la redacción vigente desde el 1 de enero de 2026.
+
+> Se modifica el apartado 6 por el art. 1.9 del Real Decreto-ley 11/2024, de 23 de diciembre. Ref. BOE-A-2024-26917
 
 > Se modifica el primer párrafo del apartado 6, por el art. 80.3 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a8-2
 
