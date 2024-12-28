@@ -1,1 +1,1 @@
-> Incluye la corrección de errores publicada por Resolución de 18 de febrero de 2022. Ref. BOE-A-2022-2783
+Norma derogada, con efectos de 28 de diciembre de 2024, por el art. único de la Circular de 17 de diciembre de 2024. Ref. BOE-A-2024-27149
