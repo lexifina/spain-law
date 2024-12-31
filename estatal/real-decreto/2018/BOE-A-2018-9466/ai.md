@@ -37,19 +37,19 @@ Requisitos relativos a la información anual sobre emisiones a que se refiere el
 
 Cuadro B
 
-Requisitos relativos a la información sobre emisiones a que se refiere el artículo 11, apartado 2
+Requisitos relativos a la información sobre emisiones a que se refiere el artículo 11.2
 
 | Elemento | Contaminantes | Series cronológicas/años objetivo | Fechas de información |
 | --- | --- | --- | --- |
-| Emisiones totales por malla y por categoría de fuente (13). | ‒ SO2, NOX, COVNM, CO, NH3, PM10, PM2,5 ‒ Metales pesados (Cd, Hg, Pb). ‒ COP (total de HAP, HCB, PCB, dioxinas/furanos). ‒ CN (carbono negro). | Cada cuatro años para el año de información menos dos (X-2) a partir de 2021 (14). | 1 de mayo (15). |
-| Emisiones de las Grandes Fuentes Puntuales (GFP) por categoría de fuente (13). | ‒ SO2, NOX, COVNM, CO, NH3, PM10, PM2,5 ‒ Metales pesados (Cd, Hg, Pb). ‒ COP (total de HAP, HCB, PCB, dioxinas/furanos). ‒ CN (carbono negro). | Cada cuatro años para el año de información menos dos (X-2) a partir de 2021 (14). | 1 de mayo (15). |
-| Emisiones proyectadas, agregadas por NFR. | ‒ SO2, NOX, NH3, COVNM, PM2,5 y CN (carbono negro). | Bienal, incluyéndose los años de proyección 2020, 2025, 2030 y, si se dispone de la información, 2040 y 2050 a partir de 2019 (14). | 15 de marzo. |
+| Emisiones por malla y por categoría de fuente (1). | ‒ SO2, NOX, COVNM, CO, NH3, PM10, PM2,5 ‒ Metales pesados (Cd, Hg, Pb). ‒ COP (total de HAP, HCB, PCB, dioxinas/ furanos). ‒ CN (carbono negro) (si se dispone de la información). | Cada cuatro años para el año de información menos dos (X-2) a partir de 2025 (2). | 1 de mayo (3). |
+| Emisiones de las Grandes Fuentes Puntuales (GFP) por categoría de fuente (1). | ‒ SO2, NOX, COVNM, CO, NH3, PM10, PM2,5 ‒ Metales pesados (Cd, Hg, Pb). ‒ COP (total de HAP, HCB, PCB, dioxinas/ furanos). ‒ CN (carbono negro) (si se dispone de la información). | Cada cuatro años para el año de información menos dos (X-2) a partir de 2025 (2). | 1 de mayo (3). |
+| Proyecciones de emisiones por categoría de fuente de la nomenclatura NFR. | ‒ SO2, NOX, NH3, COVNM, PM2,5 y, si se dispone de la información, CN (carbono negro). | Bienal, incluyéndose los años de proyección 2025, 2030 y, si se dispone de la información, 2040 y 2050 a partir de 2025 (2). | 15 de marzo. |
 
-(13) Según malla EMEP del Convenio LRTAP.
+(1) Según malla EMEP del Convenio CLRTAP.
 
-(14) Primer reporte enviado por España a la Comisión Europea en 2017 en virtud de la Directiva 2016/2284 del Parlamento Europeo y del Consejo, de 14 de diciembre.
+(2) Los reportes enviados por España en los años 2017, 2019, 2021 y 2023 en virtud de la Directiva (UE) 2016/2284 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, incluían proyecciones de emisiones agregadas.
 
-(15) En caso de errores, debe presentarse nueva información en un plazo de cuatro semanas, como máximo, con una explicación clara de los cambios realizados.
+(3) En caso de errores, debe presentarse nueva información en un plazo de cuatro semanas, con una explicación clara de los cambios realizados.
 
 Cuadro C
 
@@ -72,3 +72,5 @@ Requisitos relativos a la información anual sobre emisiones a que se refiere el
 (2) As (arsénico), Cr (cromo), Cu (cobre), Ni (níquel), Se (selenio), Zn (zinc).
 
 (3) TPS (total de partículas en suspensión).
+
+> Se modifica el Cuadro B por el art. único.1 de la Orden TED/1485/2024, de 19 de diciembre. Ref. BOE-A-2024-27287

@@ -32,7 +32,7 @@ b) en su caso, los resultados del análisis de sensibilidad realizado en relaci�
 
 c) una descripción de las metodologías, los modelos, las hipótesis subyacentes y los parámetros de entrada y salida principales.
 
-2. Las proyecciones de emisiones se calcularán y agregarán en relación con los sectores emisores pertinentes. España presentará, respecto a cada contaminante, una proyección «con medidas» (medidas adoptadas) y, en su caso, «con medidas adicionales» (medidas previstas), conforme a las directrices de la Guía EMEP/AEMA.
+2. Las proyecciones de emisiones se calcularán y comunicarán en relación con la categoría de fuente de la nomenclatura NFR. Cuando esto no sea posible debido a la falta de datos suficientemente detallados, en el informe se deberá incluir una justificación del mayor nivel de agregación de los datos. España presentará, respecto a cada contaminante, una proyección “con medidas” (medidas adoptadas) y, en su caso, “con medidas adicionales” (medidas previstas), conforme a las directrices de la Guía EMEP/AEMA.
 
 3. Las proyecciones nacionales de emisiones serán coherentes con el inventario nacional de emisiones anuales para el año x-3 y con las proyecciones presentadas en virtud del Reglamento (UE) 525/2013 del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativo a un mecanismo para el seguimiento y la notificación de las emisiones de gases de efecto invernadero y para la notificación, a nivel nacional o de la Unión, de otra información relevante para el cambio climático, y por el que se deroga la Decisión no 280/2004/CE.
 
@@ -107,3 +107,5 @@ d) la prueba de que el ajuste es coherente con una o varias de las siguientes ci
 2. La información de apoyo de los procedimientos de ajuste debe estar basada en condiciones previas similares y debe presentarse como se indica en el apartado 1.
 
 3. El Reino de España volverá a calcular las emisiones ajustadas para garantizar, en la medida de lo posible, la coherencia de las series cronológicas para cada año al que se aplica el ajuste o ajustes.
+
+> Se modifica el apartado 2 de la Parte 2 por el art. único.2 de la Orden TED/1485/2024, de 19 de diciembre. Ref. BOE-A-2024-27287
