@@ -1,0 +1,1 @@
+Téngase en cuenta que, con la entrada en vigor del Real Decreto 1225/2024, de 3 de diciembre, por el que se aprueba el Plan Estadístico Nacional 2025-2028, Ref. BOE-A-2024-27148, el presente Real Decreto ha agotado su vigencia.
