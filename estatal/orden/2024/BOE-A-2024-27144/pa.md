@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión del día 23 de diciembre de 2024, a propuesta de la Ministra de Trabajo y Economía Social, del Ministro de Economía, Comercio y Empresa, y de la Ministra de Inclusión, Seguridad Social y Migraciones, ha adoptado un acuerdo por el que se declara la activación del Mecanismo RED de Flexibilidad y Estabilización del Empleo, de conformidad con el artículo 47 bis del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, para el sector de la fabricación de vehículos de motor.
+
+Para general conocimiento, se procede a su publicación como anejo a la presente orden.
