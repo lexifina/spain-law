@@ -131,6 +131,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 71](a71.md)
 - [Subsección 5](ss5.md)
 - [Artículo 72](a72.md)
+- [Subsección 6](s6-3.md)
+- [Artículo 72 bis](a7-3.md)
 - [CAPITULO III](ciii.md)
 - [SECCIÓN 1](s1-3.md)
 - [Artículo 73](a73.md)
