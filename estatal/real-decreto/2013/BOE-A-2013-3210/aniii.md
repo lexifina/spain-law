@@ -378,7 +378,9 @@ Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
 
 38. Cadmio y óxido de cadmio en las pastas de película gruesa utilizadas en el óxido de berilio aleado con aluminio.
 
-39. El uso de seleniuro de cadmio en puntos cuánticos de nanocristales semiconductores a base de cadmio para reducir la frecuencia fotónica que se emplean en aplicaciones de iluminación de pantallas (<0,2 μg de Cd por mm2 de superficie de pantalla de visualización). Expira para todas las categorías el 31 de octubre de 2019.
+39.a) El uso de seleniuro de cadmio en puntos cuánticos de nanocristales semiconductores a base de cadmio para reducir la frecuencia fotónica que se emplean en aplicaciones de iluminación de pantallas (< 0,2 μg de Cd por mm2 de superficie de pantalla de visualización). Expira para todas las categorías el 21 de noviembre de 2025.
+
+39.b) El uso de cadmio en puntos cuánticos de nanocristales semiconductores para reducir la frecuencia fotónica depositados directamente en chips semiconductores de ledes que se emplean en aplicaciones de visualización y proyección (< 5 μg de Cd por mm2 de superficie emisora de luz del chip de led), con una cantidad máxima por dispositivo de 1 mg. Expira para todas las categorías el 31 de diciembre de 2027.
 
 40. Cadmio en fotorresistencias para optoacopladores analógicos utilizados en equipos de audio profesionales. Expira el 31 de diciembre de 2013.
 
@@ -425,6 +427,8 @@ Se aplica a la categoría 11 y expira el 20 de abril de 2026.
 Los proveedores de artículos de PVC que contengan PVC rígido valorizado presentarán a las autoridades nacionales competentes, cuando así lo soliciten, pruebas documentales que justifiquen las alegaciones sobre el origen valorizado del PVC de dichos artículos. Los certificados expedidos por los sistemas para demostrar la trazabilidad y el contenido reciclado, como los elaborados con arreglo a la norma EN 15343:2007 o normas reconocidas equivalentes, podrán utilizarse para justificar tales alegaciones sobre artículos de PVC fabricados en la Unión. Las alegaciones relativas al origen valorizado del PVC de artículos importados irán acompañadas de un certificado que demuestre de forma equivalente la trazabilidad y el contenido reciclado, expedido por un tercero independiente.
 
 Se aplica a la categoría 11 y expira el 28 de mayo de 2028.
+
+> Se modifica el apartado 39 y se renumera como 39.a) y se añade el 39.b) por el artículo único de la Orden PJC/1503/2024, de 30 de diciembre. Ref. BOE-A-2024-27527
 
 > Se añade el apartado 46 por el art. único de la Orden PJC/802/2024, de 29 de julio. Ref. BOE-A-2024-15703
 
