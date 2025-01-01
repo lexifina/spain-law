@@ -1,0 +1,11 @@
+## Disposición adicional séptima. Fábricas de vinagre.
+
+Los establecimientos autorizados como fábricas de vinagre llevarán la contabilidad de los productos objeto de los Impuestos Especiales de fabricación a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria, de conformidad con lo previsto en el título I de esta orden, sin perjuicio de las siguientes especialidades:
+
+a) A efectos del cumplimiento de la obligación de llevar la contabilidad de los productos objeto de los Impuestos Especiales de fabricación prevista en el artículo 50 del Reglamento de los Impuestos Especiales, los establecimientos autorizados como fábricas de vinagre deberán suministrar a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria los asientos contables correspondientes a los movimientos y utilización del alcohol y bebidas alcohólicas recibidas en el establecimiento y el vinagre obtenido. Asimismo, y a efectos del adecuado reflejo contable de las existencias de vinagre, suministrarán al menos un asiento contable mensual correspondiente a los movimientos de vinagre realizados en cada mes, por el vinagre utilizado en el establecimiento y las salidas del vinagre.
+
+b) Adicionalmente, deberán llevar una cuenta corriente del vinagre obtenido y utilizado en el propio establecimiento, de las salidas de vinagre, y del movimiento y utilización de los vinagres producidos en otros establecimientos elaboradores e introducidos en la fábrica de vinagre. Este registro o cuenta corriente deberá estar a disposición de la Administración Tributaria en el establecimiento, junto con los justificantes de los movimientos de vinagre, no siendo necesario su suministro a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+c) Los establecimientos autorizados como fábricas de vinagre que cumplan la obligación de llevanza de la contabilidad a partir del sistema contable en soporte informático conforme a lo dispuesto en el artículo 6 de esta orden, podrán suministrar los asientos contables relativos a las operaciones de obtención de vinagre en el establecimiento mediante un único asiento agregado mensual.
+
+> Se añade por el art. único.14 de la Orden HAC/1505/2024, de 26 de diciembre. Ref. BOE-A-2024-27529
