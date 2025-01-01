@@ -58,7 +58,13 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2008/51/03740_002.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/313/21791_10877637_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/225/18530_14782048_1.png)
+
+> Téngase en cuenta que el documento contable «Anexo información adicional», modificado conforme al formato que figura en el anexo de la Orden HAC/965/2024, de 9 de septiembre, según establece su art. 1.Tres, Ref. BOE-A-2024-18530, produce efectos desde el 1 de enero de 2025, según determina la disposición final única de la citada Orden.
+
+> Redacción anterior:
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/313/21791_10877637_1.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/182/10649_5340.png)
 
@@ -66,13 +72,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2021/313/21791_10877637_2.png)
 
-> Téngase en cuenta que esta última actualización de los modelos «Anexo información adicional» y «Anexo seguimiento Fondos Unión Europea» por el art. 1.2 de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791, tendrá efectos a partir del 1 de febrero de 2022, según se establece en la disposición final única de la citada orden.
-
-> Redacción anterior:
-
-> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_18.png)
-
-> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/92/6124_9203245_16.png)
+> Se modifica el documento contable «Anexo información adicional», con efectos de 1 de enero de 2025, con el formato que figura en el anexo de la Orden HAC/965/2024, de 9 de septiembre, según establece su art. 1.Tres. Ref. BOE-A-2024-18530
 
 > Se modifican, con efectos del 1 de febrero de 2022, los modelos «Anexo información adicional» y «Anexo seguimiento Fondos Unión Europea» por el art. 1.Dos de la Orden HFP/1481/2021, de 28 de diciembre. Ref. BOE-A-2021-21791
 
