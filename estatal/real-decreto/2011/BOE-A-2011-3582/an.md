@@ -1220,7 +1220,7 @@
 | Iberomys (Microtus) cabrerae (Thomas, 1906) | Iberón, Topillo de Cabrera |  | Vulnerable |
 | CARNÍVORA |  |  |  |
 | Canidae |  |  |  |
-| Canis lupus Linnaeus, 1758. | Lobo | todas |  |
+| Canis lupus Linnaeus, 1758. | Lobo | Sur del Duero |  |
 | Ursidae |  |  |  |
 | Ursus arctos | Oso pardo |  | En peligro de extinción |
 | Mustelidae |  |  |  |
@@ -1274,6 +1274,8 @@
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
+
+> Se modifica por la disposición final 19 de la Ley 1/2025, de 1 de abril. Ref. BOE-A-2025-6597#df-19
 
 > Se modifica por el art. 1 de la Orden TED/339/2023, de 30 de marzo. Ref. BOE-A-2023-8751
 
