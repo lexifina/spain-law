@@ -58,7 +58,7 @@ d) Distancia de separación entre piezas: Mínimo 10 mm.
 
 D. Características específicas del crotal convencional tipo bandera para ovinos, caprinos y porcinos
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/263/22499_13698728_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/309/26927_15157031_1.png)
 
 1. El crotal será de tipo flexible.
 
@@ -66,15 +66,15 @@ D. Características específicas del crotal convencional tipo bandera para ovino
 
 3. Medidas de cada pieza:
 
-a) Alto: 35-42 mm.
+a) Alto: 35-60 mm.
 
-b) Ancho: 34-40 mm.
+b) Ancho: 34-65 mm.
 
 c) Espesor del cuerpo: 1 ± 0,2 mm.
 
 d) Distancia de separación entre piezas: Mínimo 9 mm.
 
-4. El tamaño de fuente será pequeño para la primera y segunda línea de caracteres y grande para la tercera según las medidas indicadas en la norma UNE 68401.
+4. El tamaño de fuente será pequeño para la primera y segunda línea de caracteres y grande para la tercera, según las medidas indicadas en la norma UNE 68401. No obstante, en los crotales de mayores dimensiones, podrá ampliarse el tamaño de la fuente.
 
 5. Adicionalmente podrá contener cualquier otra información complementaria, siempre que ello no afecte a la legibilidad del código de identificación animal.
 
@@ -186,8 +186,6 @@ a) Diámetro externo de la pieza: 20-34 mm.
 
 b) Espesor: 4-7 mm.
 
-c) Diámetro externo de la cabeza: 8-13 mm.
-
 3. Medidas de la pieza macho:
 
 a) Diámetro exterior de la pieza: 20-34 mm.
@@ -200,7 +198,7 @@ c) Diámetro del vástago: 4,5-7,4 mm.
 
 5. Peso máximo del conjunto (pieza hembra + pieza macho): 8,5 g.
 
-6. El código, se dispondrá impreso en una sola línea adaptada a la forma del crotal, en paralelo al borde exterior y ocupando al menos la mitad de la circunferencia total sin completarla en todo caso. El tamaño mínimo de los caracteres será el pequeño según la norma UNE 68401.
+6. El código se dispondrá impreso en una sola línea adaptada a la forma del crotal, en paralelo al borde exterior y ocupando al menos la mitad de la circunferencia total sin completarla en todo caso. El tamaño mínimo de los caracteres será el pequeño según la norma UNE 68401.
 
 7. El resto de las especificaciones serán las mismas que las establecidas para el crotal convencional tipo botón del anexo I.E.
 
@@ -269,3 +267,5 @@ b) Ser fáciles de manejar y fabricados con material resistente.
 c) Estar diseñadas de manera que se minimice el riesgo de infligir heridas al animal, evitando el uso de materiales que acaben degenerando en procesos de astillado o similares, que puedan producir lesiones en el proceso de aplicación.
 
 d) Contar con un sistema de aplicación que minimice el riesgo de infecciones relacionadas con la aplicación mediante aseguramiento de la esterilidad del inyectable o el empleo de desinfectantes.
+
+> Se modifican los apartados D y J por el art. 6.9 del Real Decreto 1307/2024, de 23 de diciembre. Ref. BOE-A-2024-26927

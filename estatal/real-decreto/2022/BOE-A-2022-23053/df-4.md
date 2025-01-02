@@ -16,10 +16,14 @@ c) Para las explotaciones existentes exclusivamente, los requisitos en materia d
 
 3.º Para las explotaciones semiextensivas y no extensivas de grupo III y IV, el 1 de enero de 2025.
 
-d) Para cualquier explotación bovina, incluidas las ya existentes antes de la entrada en vigor de este real decreto, la obligación de contar con un Sistema Integral de Gestión de las Explotaciones que establece el artículo 9, entrará en vigor el 1 de enero de 2024, incluida la obligación de cumplir con las exigencias relativas al Plan Sanitario Integral de las Explotaciones Ganaderas recogida en el artículo 4.2.
+c bis) Para cualquier explotación bovina, incluidas las ya existentes antes de la entrada en vigor de este real decreto, la regulación establecida en la letra e) del apartado 3 del artículo 7 sobre empleo de aparatos que produzcan descargas eléctricas, salvo lo que ya esté regulado por la normativa de la Unión Europea, así como el Plan de bienestar animal recogido en el anexo III.3, serán exigibles a partir del 9 de marzo de 2027.
+
+d) Para cualquier explotación bovina, incluidas las ya existentes antes de la entrada en vigor de este real decreto, la obligación de contar con un Sistema Integral de Gestión de Explotaciones Bovinas que establece el artículo 9 entrará en vigor el 1 de junio de 2025, incluida la obligación de cumplir con las exigencias recogidas en el artículo 4.2, relativas a la designación de un veterinario de explotación y a la disposición de un Plan sanitario integral de las Explotaciones Ganaderas.
 
 e) El artículo 10.4 entrará en vigor a los seis meses de la publicación del presente real decreto, y los artículos 10.5, 10.6, 10.7 y 10.8 para las explotaciones existentes entrará en vigor el 31 de diciembre de 2024.
 
 f) Los requisitos en materia de reducción de emisiones para las explotaciones existentes que establece el artículo 11.1 entrarán en vigor el 1 de junio de 2025, siempre que impliquen una modificación estructural de la explotación, o el 1 de junio de 2024 si no implican dicha modificación estructural.
 
 g) Los requisitos relativos a la comunicación de las técnicas aplicadas en la explotación conforme a lo establecido en el artículo 11 y 17.2, entrarán en vigor el 31 de diciembre de 2025.
+
+> Se añade, con efectos desde el 28 de diciembre de 2022, el apartado 2.c bis) y se modifica, con efectos desde el 31 de diciembre de 2023, el apartado 2.d), por el art. 4.4 y 5 del Real Decreto 1307/2024, de 23 de diciembre. Ref. BOE-A-2024-26927

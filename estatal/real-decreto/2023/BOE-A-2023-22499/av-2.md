@@ -74,7 +74,7 @@ g) Emisión de documentos de identificación duplicados o substitutivos, en su c
 
 h) Aptitud para el consumo (y, en su caso, fecha de inicio de suspensión).
 
-i) Especie, sexo y morfotipo.
+i) Especie, sexo, morfotipo y capa.
 
 j) Nombre.
 
@@ -86,13 +86,13 @@ m) Código de explotación donde está localizado (si está vivo) o donde murió
 
 n) Si está muerto: fecha de muerte y tipo de muerte.
 
-o) Nombre y dirección del titular del animal y, en caso de cambio de titular, datos de los nuevos titulares.
+ñ) Nombre y dirección del titular del animal y, en caso de cambio de titular, datos de los nuevos titulares.
 
-p) Información sanitaria de acuerdo con los requisitos normativos.
+o) Información sanitaria de acuerdo con los requisitos normativos.
 
-q) Fecha de expedición de la marca de validación o permiso del documento de identificación, en su caso.
+p) Fecha de expedición de la marca de validación o permiso del documento de identificación, en su caso.
 
-r) TME, en su caso.
+q) TME, en su caso.
 
 4. Para camélidos y cérvidos:
 
@@ -111,3 +111,5 @@ f) Código de la explotación de identificación.
 g) Si está muerto: Fecha de muerte.
 
 h) Información sanitaria de acuerdo con los requisitos normativos.
+
+> Se modifica el apartado 3 por el art. 6.12 del Real Decreto 1307/2024, de 23 de diciembre. Ref. BOE-A-2024-26927
