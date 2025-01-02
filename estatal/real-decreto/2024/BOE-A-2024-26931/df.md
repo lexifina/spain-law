@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo previsto en el artículo 149.1 de la Constitución Española, numerales 8.ª, que atribuye al Estado la competencia exclusiva en materia de legislación civil y de ordenación de los registros e instrumentos públicos, 1.ª, que atribuye al Estado la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, 13.ª, que atribuye al Estado la competencia sobre bases y coordinación de la planificación general de la actividad económica, y 31.ª, que atribuye al Estado la competencia en materia de estadística oficial para fines estatales.
