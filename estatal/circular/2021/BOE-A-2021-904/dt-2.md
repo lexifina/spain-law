@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Cumplimiento de obligaciones por parte de los titulares y gestores de redes sobre los valores de la capacidad de acceso disponible.
+
+La Resolución de esta Comisión por la cual se aprueben las especificaciones de detalle a las que se refiere el artículo 13 establecerá un plazo, no inferior a los tres meses a contar desde la entrada en vigor del Real Decreto 1183/2020, de 29 de diciembre, fijados por su disposición transitoria sexta.1, dentro del cual los gestores de las redes de transporte y distribución darán cumplimiento a las obligaciones de publicación de información sobre los valores de capacidad de acceso disponible, ocupada y correspondiente a solicitudes pendientes de resolución, según lo previsto en el artículo 12 y conforme a los criterios de evaluación de la capacidad de acceso establecidos en el anexo I de esta Circular.
+
+> Se numera por la disposición final 1.10 de la Circular 1/2024, de 27 de septiembre. Ref. BOE-A-2024-20760#df
+
+> Su anterior denominación era disposición transitoria única.

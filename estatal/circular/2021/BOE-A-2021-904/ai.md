@@ -45,3 +45,11 @@ PMPEi: Capacidad máxima de módulos de parque eléctrico conectados o con permi
 N: Número de nudos que constituyen la zona de influencia eléctrica, entendida como el conjunto de nudos eléctricamente próximos sobre los que la tensión de un nudo particular tiene un cierto impacto en la tensión del resto de nudos.
 
 5. Lo previsto en el presente anexo es igualmente de aplicación a la evaluación de la capacidad de acceso de una instalación de producción asociada a una modalidad de suministro con autoconsumo con excedentes, de acuerdo con lo previsto en el artículo 9.1.b) de la Ley 24/2013, de 26 de diciembre. A los efectos de determinación de la potencia máxima disponible de conexión recogida en este apartado, se considerará nula la potencia de las instalaciones de generación de los consumidores acogidos a una modalidad de autoconsumo sin excedentes.
+
+6. La capacidad de acceso desde el punto de vista de demanda de las instalaciones de almacenamiento se determinará según los criterios establecidos en los anexos III y V de la Circular de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología y condiciones del acceso y de la conexión a las redes de transporte y distribución de las instalaciones de consumo de energía eléctrica.
+
+> Téngase en cuenta que el apartado 6, añadido por la disposición final 1.9 de la Circular 1/2024, de 27 de septiembre. Ref. BOE-A-2024-20760#df, entra en vigor el 11 de enero de 2025, según determina su disposición final 2.
+
+> Se añade el apartado 6 por la disposición final 1.9 de la Circular 1/2024, de 27 de septiembre. Ref. BOE-A-2024-20760#df
+
+> Esta modificación entra en vigor el 11 de enero de 2025, según establece la disposición final 2 de la citada Circular.
