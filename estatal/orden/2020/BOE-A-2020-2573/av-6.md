@@ -8,20 +8,28 @@
 
 3. El refractómetro ha de ser precintable.
 
-4. El refractómetro ha de indicar el resultado en alguna de las formas indicadas en el punto 5.9 del apéndice I de este anexo.
+4. El refractómetro ha de indicar el resultado de medida en alguna de las siguientes formas:
+
+a) valor del índice de refracción (nD); o
+
+b) porcentaje en masa de una solución de sacarosa que tendrá el mismo índice de refracción (°Brix); o
+
+c) grado de alcohol probable (% vol.).
 
 5. Según lo establecido en el punto 5.1.2 del apéndice I de este anexo, a aquellos refractómetros que no contemplen la posibilidad de lectura en modo escalón de verificación se le aplicarán los errores máximos permitidos indicados en el punto 4 del citado apéndice.
 
-6. Han de disponer de lectura automática y compensación de temperatura a 20 ºC.
+6. Han de disponer de lectura automática y compensación de temperatura a 20 °C.
 
 7. Para obtener el 1 % vol de alcohol probable, este debe calcularse en base a un contenido de azúcar comprendido entre 16,5 g/L y 17,5 g/L.
 
-La concentración en gramos de azúcar por litro de mosto de uva se obtiene del índice de refracción n del mosto a través de las fórmulas contempladas en la Recomendación OIML R-124:
+La concentración en gramos de azúcar por litro de mosto de uva se obtiene del índice de refracción n del mosto a través de las fórmulas contempladas en la Recomendación OIML R-124:1997:
 
-ρB = 6844 (n – 1,3358) para n ≤ 1,3706
+ρB = 6844 (n - 1,3358) para n ≤ 1,3706.
 
-ρB = 6712 (n – 1,3351) para n > 1,37068.
+ρB = 6712 (n - 1,3351) para n > 1,37068.
 
 Los instrumentos que superen la verificación periódica han de disponer, tanto en el certificado de verificación como en el mismo instrumento, de la leyenda «Expresión del resultado verificado en [escala/s verificada/s] con fecha [fecha de verificación]. La escala Baumé no está contemplada en el control metrológico efectuado».
+
+> Se modifica por el art. único.16 de la Orden ITU/1475/2024, de 17 de diciembre. Ref. BOE-A-2024-27147
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 126 de 6 de mayo de 2020. Ref. BOE-A-2020-4833

@@ -10,11 +10,11 @@ Son de aplicación para los contadores de agua para otros usos las definiciones 
 
 1.1.1 El intervalo del caudal de agua. Los valores del intervalo del caudal de agua deberán cumplir las siguientes condiciones:
 
-Q3 /Q1 ≥ 40
+Q3/Q1 ≥ 40.
 
-Q2 /Q1 = 1,6
+Q2/Q1 = 1,6.
 
-Q4 /Q3 = 1,25
+Q4/Q3 = 1,25.
 
 1.1.2 El intervalo de temperatura del agua. Los valores del intervalo de temperatura del agua deberá cumplir la siguiente condición: de 0,1 °C a 30 °C.
 
@@ -123,3 +123,5 @@ ii. alarmas y eventos,
 iii. datos de identificación del contador.
 
 1.6 Las administraciones públicas competentes deberán asegurarse de que las propiedades (presión, temperatura y caudales) sean determinadas por la empresa de servicio público o por la persona legalmente autorizada para instalar el contador de agua para otros usos de modo que resulte apropiado para medir con exactitud el consumo previsto o previsible.
+
+> Se modifica por el art. único.9 de la Orden ITU/1475/2024, de 17 de diciembre. Ref. BOE-A-2024-27147
