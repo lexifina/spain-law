@@ -6,7 +6,7 @@ I. Información de cada explotación
 
 1. Datos generales de la explotación. La Autoridad Competente asignará el código del REA o registro correspondiente, así como la clasificación de la explotación. Se deben cumplimentar indicadores de la actividad agraria, relativos a Autocontrol y Venta directa.
 
-2. Datos del titular, del representante autorizado y del cotitular. Nombre o razón social, NIF, domicilio y medio de contacto. Se debe identificar la forma jurídica si procede.
+2. Datos del titular, del representante autorizado y del cotitular. Nombre o razón social, NIF, domicilio y medio de contacto. Se debe identificar la forma jurídica si procede. El titular de explotación que forme parte de un grupo empresarial deberá identificar el nombre de la entidad matriz y número de IVA o de identificación fiscal, la matriz última y número de IVA o de identificación fiscal, así como nombre de la filial o filiales y números de identificación fiscal correspondientes.
 
 3. Superficie vitícola potencial: La autoridad competente a partir del Registro Vitícola incluirá la información sobre la superficie de derechos, autorizaciones y resoluciones de arranque, inscrita en el Registro Vitícola y disponible para realizar plantaciones de viñedo. Indicando para cada una de ellas provincia y nombre de la DOP donde está situada, en su caso.
 
@@ -29,5 +29,7 @@ Como datos adicionales de cultivo se debe registrar el sistema de cultivo y de e
 9. Datos de producciones: a partir del año 2024 para el producto viña de vinificación por cada parcela vitícola, la autoridad competente incluirá los siguientes datos declarados en virtud del artículo 3 del Real Decreto 739/2015, de 31 de julio, sobre declaraciones obligatorias en el sector vitivinícola: datos de la cosecha en kilogramos por hectárea desglosados por uva tinta y uva blanca, datos relativos al destino de la producción con la clasificación de la categoría y los datos de la identificación y ubicación de la bodega.
 
 10. Otros aspectos que se recojan en normativa PAC o sectorial.
+
+> Se modifica el punto 2 del apartado I por el art. 3.5 del Real Decreto 34/2025, de 21 de enero. Ref. BOE-A-2025-998
 
 > Se numera como anexo I conforme a la corrección de errores publicada en BOE núm. 24 de 28 de enero de 2023. Ref. BOE-A-2023-2254
