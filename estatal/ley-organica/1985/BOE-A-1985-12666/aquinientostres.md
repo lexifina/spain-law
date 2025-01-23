@@ -1,8 +1,10 @@
 ## Artículo 503.
 
-1. Por causas justificadas, los funcionarios tendrán derecho a iguales permisos y con la misma extensión que los establecidos en la normativa vigente aplicable a los funcionarios de la Administración General del Estado, con excepción del permiso por asuntos particulares que tendrá una duración de nueve días, los cuales no podrán acumularse en ningún caso a las vacaciones anuales retribuidas.
+1. Por causas justificadas, las personas funcionarias tendrán derecho a iguales permisos y con la misma extensión que los establecidos en la normativa vigente aplicable a los funcionarios de la Administración del Estado, con excepción del permiso por asuntos particulares que tendrá una duración de nueve días.
 
 2. El disfrute de estos permisos tendrá los mismos derechos económicos que los funcionarios de la Administración General del Estado.
+
+> Se modifica el apartado 1 por el art. 1.99 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica el apartado 1 por el art. único.39 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

@@ -10,6 +10,8 @@ b) Dos Vocales nombrados por la Junta Electoral Central entre Catedráticos y Pr
 
 3. Los Presidentes de las Juntas Electorales Provinciales estarán exclusivamente dedicados a las funciones propias de sus respectivas Juntas Electorales desde la convocatoria de un proceso electoral hasta la proclamación de electos y, en su caso, hasta la ejecución de las sentencias de los procedimientos contenciosos incluido el recurso de amparo previsto en el artículo 114.2 de la presente Ley, a los que haya dado lugar el proceso electoral en sus correspondientes circunscripciones, entendiéndose prorrogado, sí a ello hubiere lugar, el plazo previsto, en el artículo 15.2 de esta Ley. A estos efectos el Consejo General del Poder Judicial proveerá las medidas oportunas.
 
-4. El Secretario de la Junta Provincial es el Secretario de la Audiencia respectiva, y si hubiere varios el más antiguo.
+4. El Secretario o Secretaria de la Junta Provincial es el letrado o la letrada de la Administración de Justicia Director o Directora del Servicio Común de Tramitación de la Audiencia respectiva. El Secretario o Secretaria de la Junta Electoral Provincial es la persona de contacto con la Administración electoral y con el gestor electoral tanto durante el periodo electoral, como en el periodo comprendido entre procesos electorales.
+
+> Se modifica el apartado 4 por la disposición final 6.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-6
 
 > Se modifica el apartado 1.b) se añade el 3 y renumera el antiguo 3 como 4 por el art. único.4 a 6 de la Ley Orgánica 8/1991, de 13 de marzo. Ref. BOE-A-1991-6824.

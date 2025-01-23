@@ -2,6 +2,8 @@
 
 1. En todo tipo de procedimiento se respetarán las reglas de la buena fe. No surtirán efecto las pruebas obtenidas, directa o indirectamente, violentando los derechos o libertades fundamentales.
 
-2. Los Juzgados y Tribunales rechazarán fundadamente las peticiones, incidentes y excepciones que se formulen con manifiesto abuso de derecho o entrañen fraude de ley o procesal.
+2. Los jueces y juezas, así como los Tribunales rechazarán fundadamente las peticiones, incidentes y excepciones que se formulen con manifiesto abuso de derecho o entrañen fraude de ley o procesal.
 
-3. Los Juzgados y Tribunales, de conformidad con el principio de tutela efectiva consagrado en el artículo 24 de la Constitución, deberán resolver siempre sobre las pretensiones que se les formulen, y solo podrán desestimarlas por motivos formales cuando el defecto fuese insubsanable o no se subsanare por el procedimiento establecido en las leyes.
+3. Los jueces y juezas, así como los Tribunales, de conformidad con el principio de tutela efectiva consagrado en el artículo 24 de la Constitución, deberán resolver siempre sobre las pretensiones que se les formulen, y solo podrán desestimarlas por motivos formales cuando el defecto fuese insubsanable o no se subsanare por el procedimiento establecido en las leyes.
+
+> Se modifican los apartados 2 y 3 por el art. 1.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1

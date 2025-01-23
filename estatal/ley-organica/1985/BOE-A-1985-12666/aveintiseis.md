@@ -1,18 +1,22 @@
 ## Artículo 26.
 
-El ejercicio de la potestad jurisdiccional se atribuye a los siguientes juzgados y Tribunales:
+Los Tribunales a los que se atribuye el ejercicio de la potestad jurisdiccional son los siguientes:
 
-Juzgados de Paz.
+a) Jueces y juezas de paz.
 
-Juzgados de Primera Instancia e Instrucción, de lo Mercantil, de Violencia sobre la Mujer, de lo Penal, de lo Contencioso-Administrativo, de lo Social, de Menores y de Vigilancia Penitenciaria.
+b) Tribunales de Instancia.
 
-Audiencias Provinciales.
+c) Audiencias Provinciales.
 
-Tribunales Superiores de Justicia.
+d) Tribunales Superiores de Justicia.
 
-Audiencia Nacional.
+e) Tribunal Central de Instancia.
 
-Tribunal Supremo.
+f) Audiencia Nacional.
+
+g) Tribunal Supremo.
+
+> Se modifica por el art. 1.9 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica el párrafo segundo por la disposición adicional 10.1 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760.
 

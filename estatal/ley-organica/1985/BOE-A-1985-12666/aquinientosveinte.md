@@ -1,10 +1,12 @@
 ## Artículo 520.
 
-1. Los funcionarios de los Cuerpos a que se refiere este libro desempeñarán los puestos de trabajo de las unidades en que se estructuren las oficinas judiciales, las oficinas del Registro Civil y, en su caso, en los correspondientes a las unidades administrativas a que se refiere el artículo 439, los de los Institutos de Medicina Legal, los del Instituto de Toxicología y sus departamentos.
+1. Los funcionarios o funcionarias de los Cuerpos a que se refiere este libro desempeñarán los puestos de trabajo de las unidades en que se estructuren las Oficinas judiciales, las Oficinas de Justicia en los municipios, las Secretarías de Gobierno, las Oficinas de Registro Civil, las Oficinas fiscales y, en su caso, los correspondientes a las unidades administrativas a que se refiere el artículo 439; los del Gabinete Técnico del Tribunal Supremo, los de los Institutos de Medicina Legal y Ciencias Forenses, y los del Instituto de Toxicología y sus departamentos.
 
 2. Además podrán prestar servicios en el Consejo General del Poder Judicial, en el Tribunal Constitucional y en el Tribunal de Cuentas en los términos y con las condiciones previstas en la normativa reguladora del personal al servicio de los citados órganos constitucionales, y en la Mutualidad General Judicial en los puestos que se determinen en la relación de puestos de trabajo del citado organismo público.
 
 3. También podrán acceder a puestos de trabajo de otras Administraciones públicas en tanto las relaciones de puestos de trabajo contengan expresa previsión al efecto. Les será de aplicación, mientras se mantengan en dichos puestos, la legislación en materia de función pública de la Administración en que se encuentren destinados y permanecerán en servicio activo en su Administración de origen.
+
+> Se modifica el apartado 1 por el art. 1.100 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. 1 de la Ley Orgánica 6/2021, de 28 de abril. Ref. BOE-A-2021-6944#ap
 

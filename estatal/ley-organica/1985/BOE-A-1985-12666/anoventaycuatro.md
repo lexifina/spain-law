@@ -1,14 +1,14 @@
 ## Artículo 94.
 
-1. En cada provincia, y dentro del orden jurisdiccional penal, habrá uno o varios Juzgados de Vigilancia Penitenciaria, que tendrán las funciones jurisdiccionales previstas en la Ley General Penitenciaria en materia de ejecución de penas privativas de libertad y medidas de seguridad, emisión y ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley, control jurisdiccional de la potestad disciplinaria de las autoridades penitenciarias, amparo de los derechos y beneficios de los internos en los establecimientos penitenciarios y demás que señale la ley.
+1. Con carácter general, en el Tribunal de Instancia con sede en la capital de cada provincia y con jurisdicción en toda ella existirá una Sección de lo Social.
 
-2. Podrán establecerse Juzgados de Vigilancia Penitenciaria que extiendan su jurisdicción a dos o más provincias de la misma Comunidad Autónoma.
+2. Podrán establecerse Secciones de lo Social en Tribunales de Instancia que tengan su sede en poblaciones distintas de la capital de provincia, delimitándose en cada caso el ámbito territorial de su jurisdicción.
 
-3. También podrán crearse Juzgados de Vigilancia Penitenciaria cuya jurisdicción no se extienda a toda la provincia.
+Asimismo, las Secciones de lo Social podrán excepcionalmente extender su jurisdicción a dos o más provincias dentro de la misma comunidad autónoma.
 
-4. En la villa de Madrid, con jurisdicción en toda España, habrá uno o varios Juzgados Centrales de Vigilancia Penitenciaria que tendrán las funciones jurisdiccionales previstas en la Ley General Penitenciaria, descritas en el apartado 1 de este artículo, la competencia para la emisión y ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley y demás funciones que señale la ley, en relación con los delitos competencia de la Audiencia Nacional. En todo caso, la competencia de estos Juzgados Centrales será preferente y excluyente cuando el penado cumpla también otras condenas que no hubiesen sido impuestas por la Audiencia Nacional.
+3. Las Secciones de lo Social conocerán, en primera o única instancia, de los procesos sobre materias propias de este orden jurisdiccional que no estén atribuidos a otros órganos del mismo.
 
-5. El cargo de Juez de Vigilancia Penitenciaria será compatible con el desempeño de un órgano del orden jurisdiccional penal.
+> Se modifica por el art. 1.34 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifican los apartados 1 y 4 por el art. único.6 de la Ley Orgánica 6/2014, de 29 de octubre. Ref. BOE-A-2014-11063.
 

@@ -32,11 +32,13 @@ e) De los procedimientos de decomiso autónomo por los delitos para cuyo conocim
 
 En las causas por delitos atribuidos a la Fiscalía Europea, se designará de entre los miembros de la Sala, conforme a un turno preestablecido, un Juez de garantías que no formará parte de la misma para enjuiciarlas.
 
-5. Le corresponde, igualmente, la decisión de las cuestiones de competencia entre Juzgados de Menores de distintas provincias de la comunidad autónoma.
+5. Le corresponde, igualmente, la decisión de las cuestiones de competencia entre Secciones de Menores de Tribunales de Instancia radicados en distintas provincias de la comunidad autónoma.
 
 6. En el caso de que el número de asuntos lo aconseje, podrán crearse una o más Secciones e incluso Sala de lo Penal con su propia circunscripción territorial en aquellas capitales que ya sean sedes de otras Salas del Tribunal Superior, a los solos efectos de conocer los recursos de apelación a los que se refiere la letra c) del apartado 3 de este artículo y aquellas otras apelaciones atribuidas por las leyes al Tribunal Superior de Justicia.
 
 Los nombramientos para Magistrados de estas Secciones o Salas, a propuesta del Consejo General del Poder Judicial, recaerán en aquellos Magistrados que, ostentando la condición de especialista en el orden penal obtenida mediante la superación de las pruebas selectivas que reglamentariamente determine el Consejo General del Poder Judicial, tengan mejor puesto en su escalafón. A falta de éstos, recaerá en aquellos Magistrados que habiendo prestado sus servicios en el orden jurisdiccional penal durante diez años dentro de los quince años inmediatamente anteriores a la fecha de la convocatoria, tengan mejor puesto en el escalafón. La antigüedad en órganos mixtos se computará de igual manera a estos efectos. En su defecto, se nombrará a quien ostente mejor puesto en el escalafón.
+
+> Se modifica el apartado 5 por el art. 1.15 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se añade un párrafo segundo al apartado 4 por la disposición final 2.5 de la Ley Orgánica 9/2021, de 1 de julio. Ref. BOE-A-2021-10957#df-2
 

@@ -10,6 +10,10 @@
 
 Los funcionarios que prestan sus servicios en las oficinas judiciales, a excepción de los letrados de la Administración de Justicia, sin perjuicio de su dependencia funcional, dependen orgánicamente del Ministerio de Justicia o de las Comunidades Autónomas con competencias asumidas en sus respectivos ámbitos.
 
+5. En los municipios en que no proceda la constitución de una Oficina de Justicia en el municipio por ser sede de un Tribunal de Instancia, la Oficina judicial podrá prestar los servicios administrativos relacionados con la Administración de Justicia previstos en el artículo 439 quater.
+
+> Se añade el apartado 5 por el art. 1.80 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
+
 > Se modifica el apartado 4 por el art. único.24 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

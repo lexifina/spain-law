@@ -4,19 +4,21 @@
 
 2. El Secretario de Gobierno ostentará, como superior jerárquico, la dirección de los letrados de la Administración de Justicia que prestan sus servicios en las oficinas judiciales dependientes de dichos Tribunales y en las Ciudades de Ceuta y Melilla. Para ello ejercerá las competencias que esta ley orgánica les reconoce, así como todas aquéllas que reglamentariamente se establezcan.
 
-3. Será nombrado y removido libremente por el Ministerio de Justicia. Dicho nombramiento se realizará a propuesta del órgano competente de las Comunidades Autónomas cuando éstas tuvieren competencias asumidas en materia de Administración de Justicia, que también podrán proponer su cese.
+3. Será nombrado y removido libremente por el Ministerio de Justicia, previo informe del Consejo del Secretariado sobre la idoneidad de los candidatos o candidatas solicitantes.
 
-En todo caso para su nombramiento se recabará informe sobre el candidato que ha de ser nombrado por el Ministerio de Justicia, de la Sala de Gobierno del Tribunal respectivo así como del Consejo del Secretariado. Para el de las Ciudades de Ceuta y Melilla el informe será emitido por la Sala de Gobierno del Tribunal Superior de Justicia de Andalucía.
+Dicho nombramiento se realizará a propuesta del órgano competente de las comunidades autónomas cuando éstas tuvieren competencias asumidas en materia de Administración de Justicia y con informe de la Sala de Gobierno del Tribunal respectivo. Para el de las Ciudades de Ceuta y Melilla el informe será emitido por la Sala de Gobierno del Tribunal Superior de Justicia de Andalucía.
 
-No se podrá ocupar más de diez años el mismo puesto de Secretario de Gobierno.
+No se podrá ocupar más de diez años el mismo puesto de Secretario o Secretaria de Gobierno.
 
-4. En caso de ausencia, enfermedad, suspensión o vacante del Secretario de Gobierno del Tribunal Supremo o de la Audiencia Nacional así como de las Ciudades de Ceuta y Melilla, asumirá sus funciones el Secretario de mayor antigüedad escalafonal. En estos mismos supuestos y respecto al Secretario de Gobierno de los Tribunales Superiores de Justicia, asumirá sus funciones el Secretario Coordinador de la provincia en donde tenga su sede el respectivo tribunal o, en su defecto, el Secretario de mayor antigüedad escalafonal.
+Las comunidades autónomas con competencias para proponer el nombramiento de un Secretario o una Secretaria de Gobierno también podrán proponer su cese.
 
-5. A los Letrados de la Administración de Justicia que sean nombrados Secretarios de Gobierno se les reservará, durante el tiempo que ocuparen dicho cargo, la plaza que vinieren ocupando con anterioridad a dicho nombramiento.
+4. En caso de ausencia, enfermedad, suspensión o vacante del Secretario o Secretaria de Gobierno del Tribunal Supremo o de la Audiencia Nacional, así como de las Ciudades de Ceuta y Melilla, asumirá sus funciones el letrado o la letrada de la Administración de Justicia que designe el titular de la Secretaría General de la Administración de Justicia. En estos mismos supuestos y respecto al Secretario o Secretaria de Gobierno de los Tribunales Superiores de Justicia, asumirá sus funciones el Secretario Coordinador de la provincia en donde tenga su sede el respectivo tribunal o, en su defecto, el letrado o la letrada de la Administración de Justicia que designe el titular de la Secretaría General de la Administración de Justicia.
 
-Durante su mandato, dicha plaza podrá ser cubierta en régimen de comisión de servicios.
+5. A los letrados o letradas de la Administración de Justicia que sean nombrados Secretarios o Secretarias de Gobierno se les reservará, durante el tiempo que ocuparen dicho cargo, la plaza que vinieren ocupando con anterioridad a dicho nombramiento. Durante su mandato, dicha plaza podrá ser cubierta en régimen de comisión de servicios.
 
-6. Las Administraciones públicas competentes, en sus respectivos territorios, dotarán a los Secretarios de Gobierno, de los medios materiales y recursos humanos necesarios para el ejercicio de las funciones que tienen atribuidas.
+6. Las Administraciones públicas competentes, en sus respectivos territorios, dotarán a los Secretarios o Secretarias de Gobierno de los medios materiales y recursos humanos necesarios para el ejercicio de las funciones que tienen atribuidas.
+
+> Se modifican los apartados 3 a 6 por el art. 1.91 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica el apartado 1 por el art. único.29 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

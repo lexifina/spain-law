@@ -1,0 +1,9 @@
+## Disposición transitoria sexta. Implantación de las Oficinas de Justicia en los municipios.
+
+1. En la fecha de constitución prevista para cada Tribunal de Instancia, los Juzgados de Paz se transformarán en Oficinas de Justicia en los municipios. Cuando estuvieren constituidas agrupaciones de secretarías de juzgados de paz, estas se transformarán en las agrupaciones Oficinas de Justicia en los municipios a que hace referencia el apartado 3 del artículo 439 quinquies de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial. El juez o la jueza de paz de cada municipio ejercerán las funciones que les atribuyen las leyes con la asistencia de la Oficina de Justicia correspondiente.
+
+2. Todo el personal que se encuentre prestando servicios en los referidos juzgados, ya fuera como plantilla orgánica o incluidos en la correspondiente relación de puestos de trabajo de la Oficina judicial de apoyo directo al Juzgado de Paz, se integrará en la relación de puestos de trabajo de la respectiva Oficina de Justicia en el municipio, que deberá ser aprobada, previa negociación sindical, en el plazo máximo de tres meses contados desde la entrada en vigor de esta ley orgánica.
+
+3. Hasta que se elabore la relación de puestos de trabajo de cada Oficina de Justicia en el municipio, la Secretaría de esta Oficina corresponderá a quienes, al tiempo de su constitución, estuvieren ocupando la Secretaría del Juzgado de Paz o Agrupación de Secretarías, produciéndose el inmediato acoplamiento de toda la plantilla a los restantes puestos de trabajo genéricos.
+
+4. La Conferencia Sectorial de Administración de Justicia podrá elaborar y aprobar modelos de referencia sobre Oficinas de Justicia en los municipios y de sus relaciones de puestos de trabajo. El acuerdo adoptado habilitará para su desarrollo mediante resolución de la autoridad competente de cada Administración con competencias en materia de Justicia.

@@ -1,5 +1,19 @@
 ## Artículo 169.
 
-El Decano ostentará ante los poderes públicos la representación de todos y presidirá la Junta de Jueces para tratar asuntos de interés común relativos a la actividad jurisdiccional de los titulares de todos o de alguno de los órganos judiciales. Esta Junta habrá de convocarse por el Decano siempre que lo solicitare la cuarta parte de los jueces de la población.
+1. La Presidencia del Tribunal de Instancia ostentará ante los poderes públicos la representación del Tribunal y presidirá la Junta de Jueces y Juezas del Tribunal de Instancia para tratar asuntos de interés común relativos a la actividad jurisdiccional. Esta Junta se convocará por la Presidencia del Tribunal de Instancia siempre que lo estime necesario o cuando lo solicite la cuarta parte de los jueces, juezas, magistrados y magistradas que formen parte de dicho Tribunal.
+
+2. Las mismas funciones serán ejercidas por la Presidencia del Tribunal Central de Instancia dentro del ámbito de su competencia. La convocatoria de la Junta de Jueces y Juezas del Tribunal Central de Instancia se regirá por las normas previstas en el apartado anterior.
+
+3. También podrán reunirse los jueces, juezas, magistrados y magistradas de una misma provincia o comunidad autónoma, presididos por el más antiguo o la más antigua en el destino, para tratar aquellos problemas que les sean comunes.
+
+4. La Junta se considerará válidamente constituida para tomar acuerdos cuando asistan la mitad más uno de sus miembros, adoptándose los acuerdos por mayoría simple.
+
+5. La Junta elegirá como Secretario o Secretaria a uno o una de sus miembros, que será el encargado o la encargada de redactar las actas de los acuerdos de las Juntas, así como de conservarlas y de expedir las certificaciones de las mismas.
+
+6. Corresponde a la Junta de Jueces y Juezas del Tribunal de Instancia elaborar los planes anuales de sustitución entre jueces y juezas titulares a que se refiere el artículo 211 para su remisión a la Sala de Gobierno.
+
+7. Las normas previstas en este artículo se aplicarán a la Junta de Jueces y Juezas del Tribunal Central de Instancia, en cuanto resulte compatible con su régimen jurídico.
+
+> Se modifica por el art. 1.52 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.26 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

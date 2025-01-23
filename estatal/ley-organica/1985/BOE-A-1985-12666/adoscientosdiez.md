@@ -1,28 +1,30 @@
 ## Artículo 210.
 
-1. Las sustituciones de jueces y magistrados en órganos judiciales unipersonales se regirán por las siguientes reglas y orden de prelación:
+1. Las sustituciones de jueces, juezas, magistrados y magistradas en los Tribunales de Instancia se regirán por las siguientes reglas y orden de prelación:
 
-a) Por su orden, quienes participen voluntariamente en los planes anuales de sustitución.
+a) Por su orden, quienes participen voluntariamente en los planes anuales de sustitución. En todo caso, los o las solicitantes de integrar dicha relación deberán justificar, en el momento de la solicitud, el estado de la agenda de señalamientos, la pendencia de asuntos y el número y razón de las resoluciones pendientes de dictar que les corresponden.
 
-En todo caso, los solicitantes de integrar dicha relación deberán justificar, en el momento de la solicitud, el estado de la agenda de señalamientos y pendencia de asuntos del órgano de que son titulares, así como el número y razón de las resoluciones pendientes de dictar que les corresponden.
+b) De existir compatibilidad en los señalamientos, será llamado o llamada el correspondiente sustituto o sustituta ordinario o natural del sustituido o de la sustituida, según lo propuesto por la Junta de Jueces y Juezas y aprobado por la Sala de Gobierno respectiva.
 
-b) De existir compatibilidad en los señalamientos, será llamado el correspondiente sustituto ordinario o natural del sustituido, según lo propuesto por la Junta de Jueces y aprobado por la Sala de Gobierno respectiva.
-
-c) A continuación, serán llamados por el siguiente orden: los jueces de adscripción territorial a los que se refiere el artículo 347 bis que se encontrasen disponibles, comenzando por el más antiguo en el escalafón; los jueces en expectativa de destino que regula el artículo 308.2 por idéntica prelación; y los jueces que estén desarrollando prácticas conforme al artículo 307.2 de esta Ley por el orden que al efecto haya establecido la Escuela Judicial.
+c) A continuación, serán llamados por el siguiente orden: los jueces y juezas de adscripción territorial a quienes se refiere el artículo 347 bis que se encontrasen disponibles, comenzando por el más antiguo en el escalafón; los jueces y juezas en expectativa de destino que regula el artículo 308.2 por idéntica prelación; y los jueces y juezas que estén desarrollando prácticas conforme al artículo 307.2 por el orden que al efecto haya establecido la Escuela Judicial.
 
 d) En cuarto lugar, se estará al régimen de sustituciones previsto en el artículo siguiente con respecto al resto de miembros de la carrera judicial del mismo partido judicial.
 
-e) En todo caso y sin sujeción al orden referido en los anteriores apartados de este número, podrá prorrogarse la jurisdicción de otro Juzgado, conforme a lo previsto en esta Ley.
+e) En todo caso y sin sujeción al orden referido en los anteriores apartados de este número, podrá prorrogarse la jurisdicción de un juez, jueza, magistrado o magistrada a distinta Sección o Tribunal de Instancia conforme a lo previsto en esta ley.
 
-f) En último término y agotadas las anteriores posibilidades, se procederá al llamamiento de un sustituto no profesional de conformidad con lo previsto en el artículo 213 de esta Ley.
+f) En último término y agotadas las anteriores posibilidades, se procederá al llamamiento de un sustituto no profesional de conformidad con lo previsto en el artículo 213 de esta ley.
 
-2. Los planes anuales de sustitución a los que se refiere el número anterior consistirán en la elaboración de calendarios en los que se fijarán turnos rotatorios de sustitución y se coordinarán los señalamientos y las funciones de guardia, de forma que quede asegurada la disponibilidad de aquellos jueces y magistrados titulares que voluntariamente participen en los mismos para cubrir de forma inmediata las ausencias que puedan producirse. La previsión de las sustituciones se hará, en todo caso, conforme a las preferencias que establece el artículo siguiente.
+2. Los planes anuales de sustitución a los que se refiere el apartado anterior consistirán en la elaboración de calendarios en los que se fijarán turnos rotatorios de sustitución y se coordinarán los señalamientos y las funciones de guardia, de forma que quede asegurada la disponibilidad de aquellos jueces, juezas, magistrados y magistradas titulares que voluntariamente participen en los mismos para cubrir de forma inmediata las ausencias que puedan producirse. La previsión de las sustituciones se hará, en todo caso, conforme a las preferencias que establece el artículo siguiente.
 
-3. Los planes anuales de sustitución se elaborarán a propuesta de las correspondientes Juntas de Jueces y serán remitidos a la respectiva Sala de Gobierno para su aprobación provisional, que se llevará a cabo, en su caso, previa audiencia de la Fiscalía correspondiente a fin de coordinar en lo posible los señalamientos que afecten a procedimientos en los que las Leyes prevean su intervención. Verificada tal aprobación provisional, se elevarán al Consejo General del Poder Judicial para su aprobación definitiva en los términos que procedan.
+3. Los planes anuales de sustitución se elaborarán a propuesta de las correspondientes Juntas de Jueces y Juezas y serán remitidos a la respectiva Sala de Gobierno para su aprobación provisional, que se llevará a cabo, en su caso, previa audiencia de la Fiscalía correspondiente a fin de coordinar en lo posible los señalamientos que afecten a procedimientos en los que las leyes prevean su intervención. Verificada tal aprobación provisional, se elevarán al Consejo General del Poder Judicial para su aprobación definitiva en los términos que procedan.
 
-4. Los Jueces Decanos, Presidentes de Audiencias Provinciales, Tribunales Superiores de Justicia y Audiencia Nacional velarán, en el ámbito de sus respectivas competencias, por la exacta ejecución del régimen de sustituciones previsto en este precepto y, especialmente, de los planes anuales de sustitución.
+4. Las Presidencias de los Tribunales de Instancia, de Audiencias Provinciales, Tribunales Superiores de Justicia y Audiencia Nacional velarán, en el ámbito de sus respectivas competencias, por la exacta ejecución del régimen de sustituciones previsto en este precepto y, especialmente, de los planes anuales de sustitución.
 
 5. El Consejo General del Poder Judicial, de oficio o a instancia de cualquiera de los anteriores, procederá a adoptar las medidas correspondientes en caso de incumplimiento del régimen de sustituciones previsto en este precepto. También adoptará las medidas que sean precisas para corregir cualquier disfunción que pudiera acaecer en la ejecución de los planes anuales de sustitución.
+
+6. Las mismas reglas previstas en este artículo para las sustituciones de jueces, juezas, magistrados y magistradas en los Tribunales de Instancia se extenderán también, en cuanto les fuere de aplicación, a las sustituciones entre jueces, juezas, magistrados y magistradas del Tribunal Central de Instancia, correspondiendo a su Presidencia la vigilancia en la observancia del régimen de sustitución y planes anuales de sustitución.
+
+> Se modifica por el art. 1.55 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.8 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 

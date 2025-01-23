@@ -1,10 +1,12 @@
 ## Artículo 212.
 
-1. Cuando resultare aconsejable para un mejor despacho de los asuntos, atendida la escasa carga de trabajo de un juzgado de otra localidad del mismo grado y orden del que deba ser sustituido, el Presidente del Tribunal Superior de Justicia prorrogará, previa audiencia, la jurisdicción del titular de aquél, quien desempeñará ambos cargos con derecho a la retribución correspondiente dentro de las previsiones presupuestarias en los términos que se establezcan reglamentariamente.
+1. Cuando resultare aconsejable para un mejor despacho de los asuntos, atendida la escasa carga de trabajo de un juez, jueza, magistrado o magistrada del mismo orden del que deba ser sustituido o sustituida, el Presidente o la Presidenta del Tribunal Superior de Justicia prorrogará, previa audiencia, la jurisdicción de aquél o aquélla, quien desempeñará ambos cargos con derecho a la retribución correspondiente dentro de las previsiones presupuestarias en los términos que se establezcan reglamentariamente.
 
-En todo caso, cualquier titular de un juzgado del mismo grado y orden del que deba ser sustituido podrá interesar del Presidente del Tribunal Superior de Justicia que se le prorrogue su jurisdicción a fin de desempeñar ambos cargos, con idéntico derecho a la retribución prevista en el párrafo anterior.
+En todo caso, cualquier juez, jueza, magistrado o magistrada del mismo orden del que deba ser sustituido podrá interesar del Presidente o la Presidenta del Tribunal Superior de Justicia que se le prorrogue su jurisdicción a fin de desempeñar ambos cargos, con idéntico derecho a la retribución prevista en el párrafo anterior.
 
 2. Las prórrogas de jurisdicción se comunicarán, por conducto de la Sala de Gobierno respectiva, al Consejo General del Poder Judicial para su aprobación, sin perjuicio de empezar a desempeñarlas, si así lo acordase motivadamente el Presidente.
+
+> Se modifica el apartado 1 por el art. 1.57 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.10 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.
 

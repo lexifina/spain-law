@@ -16,17 +16,19 @@ e) Realizar las tareas de registro, recepción y distribución de escritos y doc
 
 f) Expedir, con conocimiento del Letrado de la Administración de Justicia, y a costa del interesado, copias simples de escritos y documentos que consten en autos no declarados secretos ni reservados.
 
-g) Ocupar, de acuerdo con lo establecido en las relaciones de puestos de trabajo, las jefaturas en que se estructuran las unidades de apoyo directo y servicios comunes procesales, en las que, sin perjuicio de realizar las funciones asignadas al puesto concreto, gestionarán la distribución de las tareas del personal, respondiendo del desarrollo de las mismas.
+g) Ocupar, de acuerdo con lo establecido en las relaciones de puestos de trabajo, las jefaturas en que se estructuran los servicios comunes procesales, en las que, sin perjuicio de realizar las funciones asignadas al puesto concreto, gestionarán la distribución de las tareas del personal, respondiendo del desarrollo de las mismas.
 
-h) Colaborar con los órganos competentes en materia de gestión administrativa, desempeñando funciones relativas a la gestión del personal y medios materiales de la unidad de la Oficina judicial en que se presten los servicios, siempre que dichas funciones estén contempladas expresamente en la descripción que la relación de puestos de trabajo efectúe del puesto de trabajo.
+h) Colaborar con los órganos competentes en materia de gestión administrativa, y desempeñar funciones relativas a la gestión del personal y medios materiales, de la unidad de la Oficina judicial u Oficina de Justicia en el municipio en que se presten los servicios, siempre que dichas funciones estén contempladas expresamente en la descripción que la relación de puestos de trabajo efectúe del puesto de trabajo.
 
-i) Desempeñar la Secretaría de la Oficina judicial de las Agrupaciones de Secretarías de Juzgados de Paz, de Juzgados de Paz de más de 7.000 habitantes y de Juzgados de Paz de menos de 7.000 habitantes en los que la carga de trabajo justifique su establecimiento, así como los restantes puestos de trabajo de los citados centros de destino adscritos al Cuerpo de Gestión Procesal y Administrativa, todo ello de conformidad con lo que se determine en las correspondientes relaciones de puestos de trabajo, así como desempeñar puestos de las unidades administrativas, cuando las relaciones de puestos de trabajo de las citadas unidades así lo establezcan, siempre que se reúnan los requisitos de conocimiento y preparación exigidos para su desempeño.
+i) Desempeñar la Secretaría de las Oficinas de Justicia en los municipios, así como los restantes puestos de trabajo adscritos al Cuerpo de Gestión Procesal y Administrativa, todo ello de conformidad con lo que se determine en las correspondientes relaciones de puestos de trabajo, así como desempeñar puestos de las unidades administrativas, cuando las relaciones de puestos de trabajo de las citadas unidades así lo establezcan, siempre que se reúnan los requisitos de conocimiento y preparación exigidos para su desempeño.
 
 j) Realizar cuantas funciones puedan asumir en orden a la protección y apoyo a las víctimas, así como de apoyo a actuaciones de justicia restaurativa y de solución extraprocesal.
 
 k) Realizar todas aquellas funciones que legal o reglamentariamente se establezcan y cualesquiera otras funciones de naturaleza análoga a las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias.
 
 2. Los funcionarios del Cuerpo de Gestión Procesal y Administrativa podrán ser nombrados Letrados de la Administración de Justicia sustitutos, siempre que se reúnan los requisitos de titulación y demás exigidos, y conforme al procedimiento y con la retribución que reglamentariamente se establezca.
+
+> Se modifican las letras g), h) e i) del apartado 1 por el art. 1.93 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.84 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

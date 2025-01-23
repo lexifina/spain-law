@@ -1,18 +1,18 @@
 ## Artículo 90.
 
-1. En cada provincia, con jurisdicción en toda ella y sede en su capital, habrá uno o más Juzgados de lo Contencioso-Administrativo.
+1. Con carácter general, en el Tribunal de Instancia, con sede en la capital de cada provincia y con jurisdicción en toda ella, existirá una Sección de lo Penal.
 
-2. Cuando el volumen de asuntos lo requiera, se podrán establecer uno o mas Juzgados de lo Contencioso-Administrativo en las poblaciones que por ley se determine. Tomarán la denominación del municipio de su sede, y extenderán su jurisdicción al partido correspondiente.
+2. También podrán establecerse Secciones de lo Penal en Tribunales de Instancia que tengan su sede en poblaciones distintas de la capital de provincia, delimitándose en cada caso el ámbito territorial de su jurisdicción.
 
-3. También podrán crearse excepcionalmente Juzgados de lo Contencioso-Administrativo que extiendan su jurisdicción a más de una provincia dentro de la misma Comunidad Autónoma.
+3. Las Secciones de lo Penal enjuiciarán las causas por delito que la ley determine.
 
-4. En la villa de Madrid, con jurisdicción en toda España, habrá Juzgados Centrales de lo Contencioso-administrativo que conocerán, en primera o única instancia, de los recursos contencioso-administrativos contra disposiciones y actos emanados de autoridades, organismos, órganos y entidades públicas con competencia en todo el territorio nacional, en los términos que la Ley establezca.
+A fin de facilitar el conocimiento de los asuntos instruidos por las Secciones de Violencia sobre la Mujer y las Secciones de Violencia contra la Infancia y la Adolescencia, y atendiendo al número de asuntos existentes, deberán especializarse una o varias plazas judiciales de la Sección de lo Penal, de conformidad con lo previsto en el artículo 96 de la presente ley.
 
-5. Corresponde también a los Juzgados Centrales de lo Contencioso-Administrativo autorizar, mediante auto, la cesión de los datos que permitan la identificación a que se refiere el artículo 8.2 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico, así como la ejecución material de las resoluciones adoptadas por la Sección Segunda de la Comisión de Propiedad Intelectual para que se interrumpa la prestación de servicios de la sociedad de la información o para que se retiren contenidos que vulneran la propiedad intelectual, en aplicación de la citada Ley 34/2002 y del texto refundido de la Ley de Propiedad Intelectual, aprobado por Real Decreto Legislativo 1/1996, de 12 de abril.
+4. Corresponde asimismo a las Secciones de lo Penal la ejecución de las sentencias dictadas en causas por delito grave o menos grave por las Secciones de Instrucción, Secciones de Violencia sobre la Mujer y Secciones de Violencia contra la Infancia y la Adolescencia; el reconocimiento y ejecución de las resoluciones que impongan sanciones pecuniarias transmitidas por las autoridades competentes de otros Estados miembros de la Unión Europea, cuando las mismas deban cumplirse en territorio español, y los procedimientos de decomiso autónomo por los delitos para cuyo conocimiento sean competentes.
 
-6. Igualmente conocerán los Juzgados Centrales de lo Contencioso Administrativo del procedimiento previsto en el artículo 12 bis de la Ley Orgánica 6/2002, de 27 de junio, de Partidos Políticos.
+5. Corresponde a las Secciones de lo Penal la emisión y la ejecución de los instrumentos de reconocimiento mutuo de resoluciones penales en la Unión Europea que les atribuya la ley.
 
-7. Corresponde a los Juzgados Centrales de lo Contencioso-administrativo autorizar, mediante auto, el requerimiento de información por parte de la Agencia Española de Protección de Datos y otras autoridades administrativas independientes de ámbito estatal a los operadores que presten servicios de comunicaciones electrónicas disponibles al público y de los prestadores de servicios de la sociedad de la información, cuando ello sea necesario de acuerdo con la legislación específica.
+> Se modifica por el art. 1.30 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se añade el apartado 7 por la disposición final 4.4 de la Ley Orgánica 3/2018, de 5 de diciembre. Ref. BOE-A-2018-16673#df-4
 

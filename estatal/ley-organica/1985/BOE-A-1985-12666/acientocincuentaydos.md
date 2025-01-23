@@ -32,19 +32,19 @@ Asimismo, tomar conocimiento, aprobar provisionalmente y remitir al Consejo Gene
 
 14.º En general, cumplir las demás funciones que las leyes atribuyan a los órganos de gobierno interno de los tribunales y que no estén atribuidas expresamente a los Presidentes.
 
-2. A las Salas de Gobierno de los Tribunales Superiores de Justicia, en Pleno o en Comisión, compete además:
+2. A las Salas de Gobierno de los Tribunales Superiores de Justicia, en Pleno o en Comisión, compete, además:
 
-1.º Aprobar las normas de reparto de asuntos entre las Salas del Tribunal y entre las Secciones de las Audiencias Provinciales y Juzgados del mismo orden jurisdiccional, con sede en la comunidad autónoma correspondiente.
+1.º Aprobar las normas de reparto de asuntos entre las Salas del Tribunal y entre las Secciones de las Audiencias Provinciales del mismo orden jurisdiccional, y las de jueces, juezas, magistrados y magistradas de la misma Sección de los Tribunales de Instancia, con sede en la comunidad autónoma correspondiente.
 
-Excepcionalmente, de forma motivada, y cuando las necesidades del servicio así lo exigieren, la Sala de Gobierno podrá ordenar que se libere del reparto de asuntos, total o parcialmente, por tiempo limitado, a una Sección o a un juez determinado.
+Excepcionalmente, de forma motivada y cuando las necesidades del servicio así lo exigieren, la Sala de Gobierno podrá ordenar que se libere del reparto de asuntos, total o parcialmente, por tiempo limitado, a una Sección o a un juez o jueza determinado. En el caso de los Tribunales de Instancia, la liberación se referirá exclusivamente a jueces o juezas y magistrados o magistradas determinados.
 
-2.º Ejercer las facultades de los números quinto al decimocuarto del apartado anterior, pero referidas también a los órganos jurisdiccionales con sede en la comunidad autónoma correspondiente a los jueces y magistrados en ellos destinados.
+2.º Ejercer las facultades de los números quinto al decimocuarto del apartado anterior, pero referidas también a los órganos jurisdiccionales con sede en la comunidad autónoma correspondiente a los jueces, juezas, magistrados y magistradas en ellos destinados.
 
-3.º Expedir los nombramientos de los Jueces de Paz.
+3.º Expedir los nombramientos de los jueces y las juezas de paz.
 
-4.º Tomar conocimiento de los planes anuales de sustitución elaborados por las Juntas de Jueces, aprobarlos provisionalmente en los términos y, en su caso, con las correcciones que procedan y remitirlos al Consejo General del Poder Judicial para su aprobación definitiva. Además, velarán por su cumplimiento.
+4.º Tomar conocimiento de los planes anuales de sustitución elaborados por las Juntas de Jueces y Juezas, aprobarlos provisionalmente en los términos y, en su caso, con las correcciones que procedan y remitirlos al Consejo General del Poder Judicial para su aprobación definitiva. Además, velarán por su cumplimiento.
 
-5.º Resolver las cuestiones que pueda suscitar el funcionamiento de las secciones previstas en el artículo 437.2, sin perjuicio de la facultad de uniformización que por vía reglamentaria pueda ejercitar el Consejo General del Poder Judicial, así como del control de legalidad que corresponda efectuar a dicho órgano.
+> Se modifica el apartado 2 por el art. 1.43 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se añade el numeral 5º al apartado 2 por el art. único.2 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

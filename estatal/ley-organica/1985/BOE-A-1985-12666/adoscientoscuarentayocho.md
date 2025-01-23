@@ -1,9 +1,15 @@
 ## Artículo 248.
 
-1. La fórmula de las providencias se limitará a la determinación de lo mandado y del Juez o Tribunal que las disponga, sin más fundamento ni adiciones que la fecha en que se acuerden, la firma o rúbrica del Juez o Presidente y la firma del Secretario. No obstante, podrán ser sucintamente motivadas sin sujeción a requisito alguno cuando se estime conveniente.
+1. En todas las resoluciones judiciales habrá de indicarse el Tribunal que las dicte, con expresión de los jueces, juezas, magistrados o magistradas que lo integren y, en su caso, indicación del nombre del o de la ponente cuando el Tribunal sea colegiado.
 
-2. Los autos serán siempre fundados y contendrán en párrafos separados y numerados los hechos y los razonamientos jurídicos y, por ultimo, la parte dispositiva. Serán firmados por el Juez, Magistrado o Magistrados que los dicten.
+2. La fórmula de las providencias se limitará a la determinación de lo mandado y del juez, jueza o Tribunal que las disponga, sin más fundamento ni adiciones que la fecha en que se acuerden. No obstante, podrán ser sucintamente motivadas cuando así lo disponga la ley o quien haya de dictarlas lo estime conveniente.
 
-3. Las sentencias se formularán expresando, tras un encabezamiento, en párrafos separados y numerados, los antecedentes de hecho, hechos probados, en su caso, los fundamentos de derecho y, por último, el fallo. Serán firmadas por el Juez, Magistrado o Magistrados que las dicten.
+3. Los autos serán siempre motivados y contendrán en párrafos separados y numerados los antecedentes de hecho y los fundamentos de derecho en los que se base la subsiguiente parte dispositiva o fallo.
 
-4. Al notificarse la resolución a las partes se indicará si la misma es o no firme y, en su caso, los recursos que procedan, órgano ante el que deben interponerse y plazo para ello.
+4. Las sentencias se formularán expresando, tras un encabezamiento, en párrafos separados y numerados, los antecedentes de hecho, hechos probados, en su caso, los fundamentos de derecho y, por último, el fallo.
+
+5. Todas las resoluciones judiciales serán firmadas por el juez, jueza, magistrado o magistrada que las dicten. En el caso de providencias dictadas por Salas de Justicia, bastará con la firma del o de la ponente.
+
+6. Toda resolución incluirá, además de la mención del lugar y fecha en que se adopte, si la misma es firme o si cabe algún recurso contra ella, con expresión, en este último caso, del recurso que proceda, del órgano ante el que debe interponerse y del plazo para recurrir y, cuando proceda, de la necesidad de constitución de depósito para la presentación de recursos. Al notificarse la resolución a las partes se indicará si la misma es o no firme y, en su caso, las oportunas indicaciones sobre los recursos que procedan.
+
+> Se modifica por el art. 1.64 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1

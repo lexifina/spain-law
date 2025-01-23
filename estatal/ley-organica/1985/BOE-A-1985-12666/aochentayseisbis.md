@@ -1,12 +1,8 @@
 ## Artículo 86 bis.
 
-1. Los Juzgados de lo Mercantil conocerán de cuantas cuestiones sean de la competencia del orden jurisdiccional civil en materia de propiedad intelectual e industrial; competencia desleal y publicidad; sociedades mercantiles, sociedades cooperativas, agrupaciones de interés económico; transporte terrestre, nacional o internacional; derecho marítimo, y derecho aéreo.
+(Suprimido)
 
-Por excepción a lo establecido en el párrafo anterior, los Juzgados de lo Mercantil no serán competentes para conocer de las cuestiones en materia de daños derivadas de la destrucción, pérdida o avería del equipaje facturado previstas en el Convenio para la unificación de ciertas reglas para el transporte aéreo internacional hecho en Montreal el 28 de mayo de 1999; ni de las cuestiones previstas en el Reglamento (CE) n.º 261/2004 del Parlamento Europeo y del Consejo, de 11 de febrero de 2004, por el que se establecen normas comunes sobre compensación y asistencia a los pasajeros aéreos en caso de denegación de embarque y de cancelación o gran retraso de los vuelos, y se deroga el Reglamento (CEE) n.º 295/91; en el Reglamento (CE) n.º 1371/2007 del Parlamento Europeo y del Consejo, de 23 de octubre de 2007, sobre los derechos y las obligaciones de los viajeros de ferrocarril; en el Reglamento (UE) n.º 181/2011 del Parlamento Europeo y del Consejo, de 16 de febrero de 2011, sobre los derechos de los viajeros de autobús y autocar y por el que se modifica el Reglamento (CE) n.º 2006/2004; y en el Reglamento (UE) n.º 1177/2010 del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010, sobre los derechos de los pasajeros que viajan por mar y por vías navegables y por el que se modifica el Reglamento (CE) n.º 2006/2004.
-
-2. Los Juzgados de lo Mercantil igualmente serán competentes para conocer de las acciones relativas a la aplicación de los artículos 101 y 102 del Tratado de Funcionamiento de la Unión Europea y de los artículos 1 y 2 de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, así como de las pretensiones de resarcimiento del perjuicio ocasionado por la infracción del Derecho de la competencia.
-
-3. Los Juzgados de lo Mercantil conocerán igualmente de los recursos directos contra las calificaciones negativas de los registradores mercantiles o, en su caso, contra las resoluciones expresas o presuntas de la Dirección General de Seguridad Jurídica y de Fe Pública relativas a esas calificaciones.
+> Se suprime por el art. 1.24 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.6 de la Ley Orgánica 7/2022, de 27 de julio. Ref. BOE-A-2022-12578#au
 

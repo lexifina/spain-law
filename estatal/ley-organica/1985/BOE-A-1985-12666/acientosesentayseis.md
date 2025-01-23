@@ -1,7 +1,17 @@
 ## Artículo 166.
 
-1. En las poblaciones donde haya diez o más Juzgados, sus titulares elegirán por mayoría de tres quintos a uno de ellos como Decano. De no obtenerse dicha mayoría en la primera votación, bastará la mayoría simple en la segunda, resolviéndose los empates en favor del que ocupe el mejor puesto en el escalafón. La elección deberá renovarse cada cuatro años o cuando el elegido cesare por cualquier causa.
+1. Quienes ostenten la Presidencia de los Tribunales de Instancia serán nombrados por el Consejo General del Poder Judicial, por un período de cuatro años conforme a la propuesta motivada de la Sala de Gobierno del Tribunal Superior de Justicia correspondiente, renovándose transcurrido este período o cuando el elegido cesare por cualquier causa.
 
-2. Donde haya menos de diez Juzgados, ejercerá las funciones de Decano el Juez o Magistrado con mejor puesto en el escalafón.
+La Sala de Gobierno propondrá el nombramiento de la persona que se determine conforme a las siguientes reglas:
 
-3. Excepcionalmente, y cuando las circunstancias del decanato lo justifiquen, el Consejo General del Poder Judicial, oída la Junta de Jueces, podrá liberar a su titular total o parcialmente del trabajo que le corresponda realizar en el orden jurisdiccional respectivo.
+Quienes integren el Tribunal de Instancia elegirán por mayoría de tres quintos a uno o una de ellos para su propuesta. De no obtenerse dicha mayoría en la primera votación, bastará la mayoría simple en la segunda, resolviéndose los empates a favor de quien ocupe el mejor puesto en el escalafón. En caso de que no hubiera candidato o candidata, se propondrá al juez, jueza, magistrado o magistrada que ocupare el mejor puesto en el escalafón.
+
+2. Excepcionalmente, y cuando las circunstancias lo justifiquen, el Consejo General del Poder Judicial, oídas la Junta de Jueces y Juezas y la Sala de Gobierno, podrá liberar a quien ostente la Presidencia total o parcialmente del trabajo que le corresponda realizar en su orden jurisdiccional.
+
+3. Cuando concurran las circunstancias previstas en el artículo 84.3, el nombramiento de quien deba ostentar la Presidencia de Sección se realizará por la Presidencia del Tribunal de Instancia y recaerá en la persona determinada conforme a las reglas previstas en el apartado 1 de este artículo.
+
+4. Los magistrados y las magistradas del Tribunal Central de Instancia elegirán por mayoría de tres quintos a quien, de entre ellos y ellas, deba ejercer la Presidencia. De no obtenerse dicha mayoría en la primera votación, bastará la mayoría simple en la segunda, resolviéndose los empates a favor de quien ocupe mejor puesto en el escalafón. En caso de que no hubiese candidato o candidata, se propondrá a quien ocupare el mejor puesto en el escalafón. El cargo deberá renovarse cada cuatro años o cuando la persona elegida cesare por cualquier otra causa.
+
+5. La misma regla descrita en el apartado 3 regirá en relación con la Presidencia de las Secciones existentes en el Tribunal Central de Instancia.
+
+> Se modifica por el art. 1.49 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1

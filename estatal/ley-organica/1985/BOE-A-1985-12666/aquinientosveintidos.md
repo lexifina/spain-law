@@ -1,14 +1,12 @@
 ## Artículo 522.
 
-1. El Ministerio de Justicia elaborará y aprobará, previa negociación con las organizaciones sindicales más representativas, las relaciones de puestos de trabajo en que se ordenen los puestos de las Oficinas judiciales correspondientes a su ámbito de actuación.
+1. El Ministerio de Justicia elaborará y aprobará, previa negociación con las organizaciones sindicales más representativas, las relaciones de puestos de trabajo en que se ordenen los puestos de trabajo de las oficinas y unidades previstas en el artículo 520.1, correspondientes a su respectivo ámbito de actuación. La aprobación de las relaciones de puestos de trabajo se realizará mediante resolución de la persona titular del centro directivo que tenga atribuida esta competencia.
 
-Asimismo, será competente para la ordenación de los puestos de trabajo de las Oficinas judiciales asignados al Cuerpo de Letrados de la Administración de Justicia en todo el territorio del Estado, previa negociación con las organizaciones sindicales más representativas.
+Asimismo, el Ministerio de Justicia, previa negociación con las organizaciones sindicales más representativas, será competente para la ordenación de los puestos de trabajo asignados al Cuerpo de Letrados de la Administración de Justicia en todo el territorio del Estado, que se determinarán con anterioridad a la aprobación definitiva de cada relación de puestos de trabajo.
 
-2. Las Comunidades Autónomas con competencias asumidas, previa negociación con las organizaciones sindicales, procederán a la aprobación inicial de las relaciones de puestos de trabajo de las Oficinas judiciales de sus respectivos ámbitos territoriales. La aprobación definitiva corresponderá al Ministerio de Justicia, que solo podrá denegarla por razones de legalidad.
+2. Las comunidades autónomas con competencias asumidas, previa negociación con las organizaciones sindicales, elaborarán y aprobarán, mediante resolución de la persona titular del centro directivo que tenga atribuida esta competencia, las relaciones de puestos de trabajo en que se ordenen los puestos de trabajo de las oficinas y unidades previstas en el artículo 520.1, correspondientes a su respectivo ámbito de actuación. Antes de su aprobación, deberán comunicarlas al Ministerio de Justicia.
 
-3. El Ministerio de Justicia, con anterioridad a la aprobación definitiva de cada relación de puestos de trabajo determinará aquellos que deban ser asignados al Cuerpo de Letrados de la Administración de Justicia.
-
-4. Para la elaboración y aprobación de las relaciones de puestos de trabajo correspondientes a las unidades administrativas y a las oficinas del Registro Civil a que se refieren los artículos 439 y 439 bis, serán competentes el Ministerio de Justicia y las comunidades autónomas con competencias asumidas en sus respectivos ámbitos territoriales.
+> Se modifica por el art. 1.102 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica el apartado 4 por el art. 1 de la Ley Orgánica 6/2021, de 28 de abril. Ref. BOE-A-2021-6944#ap
 

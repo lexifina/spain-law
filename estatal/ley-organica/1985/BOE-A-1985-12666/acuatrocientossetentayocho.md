@@ -18,7 +18,9 @@ g) El desempeño de aquellas jefaturas que en las relaciones de puestos de traba
 
 h) La posibilidad de ocupar puestos de las unidades administrativas, siempre que se reúnan los requisitos y conocimientos exigidos para su desempeño en las relaciones de puestos de trabajo en las mismas.
 
-i) La realización de todas aquellas funciones que legal o reglamentariamente se establezcan y de cualesquiera otras funciones de naturaleza análoga a todas las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias.
+i) La realización de todas aquellas funciones que legal o reglamentariamente se establezcan y de cualesquiera otras funciones de naturaleza análoga a todas las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias. Entre estas funciones se encuentra el auxilio a la gestión administrativa, y de gestión del personal y medios materiales, de la unidad de la Oficina judicial u Oficina de Justicia en el municipio en que se presten los servicios, siempre que dichas funciones estén contempladas expresamente en la descripción que la relación de puestos de trabajo efectúe del puesto de trabajo.
+
+> Se modifica la letra i) por el art. 1.95 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica la referencia a los "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 

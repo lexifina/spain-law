@@ -1,0 +1,7 @@
+## Disposición transitoria séptima. Régimen para la constitución inicial de las Secciones de Familia, Infancia y Capacidad y el conocimiento y tramitación de los asuntos que vinieren conociendo los órganos que se integren en ellas.
+
+En la misma fecha prevista para la constitución de los Tribunales de Instancia que establece la disposición transitoria primera de esta Ley Orgánica se constituirá una Sección de Familia, Infancia y Capacidad en aquellos Tribunales de Instancia de los partidos judiciales donde, con anterioridad a dicha fecha, se hubiera acordado por el Consejo General del Poder Judicial la especialización de uno o más juzgados en alguna de las materias señaladas en el artículo 86.5 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, pasando los jueces y juezas de estos juzgados especializados a ocupar plaza en esta Sección.
+
+Las Secciones de Familia, Infancia y Capacidad constituidas conforme a lo previsto en el párrafo anterior mantendrán el conocimiento de los asuntos, tanto en materia de familia como en otras materias, en los términos establecidos en el acuerdo de especialización.
+
+El Consejo General del Poder Judicial, previo informe de las Salas de Gobierno, podrá acordar modificar o dejar sin efecto el acuerdo de especialización, en cuyo caso la plaza integrada en la Sección de Familia, Infancia y Capacidad conocerá de las cuestiones que se susciten en materia de familia conforme lo previsto en el artículo 86.5 de la Ley Orgánica 6/1985, de 1 de julio.

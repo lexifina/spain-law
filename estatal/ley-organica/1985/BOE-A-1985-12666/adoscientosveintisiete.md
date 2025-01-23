@@ -16,8 +16,10 @@ Decidirán los incidentes de recusación:
 
 7.º Cuando el recusado sea magistrado de una Audiencia Provincial, la Audiencia Provincial, sin que forme parte de ella el recusado ; si ésta se compusiere de dos o más Secciones, la Sección en la que no se encuentre integrado el recusado o la Sección que siga en orden numérico a aquella de la que el recusado forme parte.
 
-8.º Cuando el recusado sea un Juez de Primera Instancia, de Primera Instancia e Instrucción, de lo Mercantil, de Instrucción, de lo Penal, de Menores, de Vigilancia Penitenciaria, de lo Contencioso-Administrativo o de lo Social, la Sección de la Audiencia Provincial o Sala del Tribunal Superior de Justicia o de la Audiencia Nacional respectiva que conozca de los recursos contra sus resoluciones, y, si fueren varias, se establecerá un turno comenzando por la Sección o Sala de número más bajo.
+8.º Cuando el recusado o la recusada sea un juez, jueza, magistrado o magistrada de un Tribunal de Instancia o del Tribunal Central de Instancia, la Sección de la Audiencia Provincial o Sala del Tribunal Superior de Justicia o de la Audiencia Nacional respectiva que conozca de los recursos contra sus resoluciones, y, si fueren varias, se establecerá un turno comenzando por la Sección o Sala de número más bajo.
 
-9.º Cuando el recusado sea un Juez de Paz, resolverá el mismo juez instructor del incidente de recusación.
+9.º Cuando el recusado sea un juez o una jueza de paz, resolverá el mismo juez instructor del incidente de recusación.
+
+> Se modifican los puntos 8º y 9º por el art. 1.60 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.50 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

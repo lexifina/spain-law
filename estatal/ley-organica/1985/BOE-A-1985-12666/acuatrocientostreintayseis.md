@@ -1,16 +1,28 @@
 ## Artículo 436.
 
-1. El elemento organizativo básico de la estructura de la Oficina judicial será la unidad, que comprenderá los puestos de trabajo de la misma, vinculados funcionalmente por razón de sus cometidos.
+1. La actividad de la Oficina judicial, definida por la aplicación de las leyes procesales, se realizará a través de los servicios comunes, que comprenderán a los servicios comunes de tramitación y en su caso, aquellos otros servicios comunes que se determine, donde se integran los puestos de trabajo vinculados funcionalmente por razón de sus cometidos.
 
-2. En atención a sus funciones se distinguirán dos tipos de unidades: unidades procesales de apoyo directo y servicios comunes procesales. La actividad principal de estas unidades viene determinada por la aplicación de normas procesales.
+2. El diseño de la Oficina judicial será flexible. Su dimensión y organización se determinarán por la Administración Pública competente, en función de la actividad que en la misma se desarrolle.
 
-3. El diseño de la Oficina judicial será flexible. Su dimensión y organización se determinarán, por la Administración pública competente, en función de la actividad que en la misma se desarrolle.
+3. La Oficina judicial podrá prestar su apoyo a órganos de ámbito nacional, de comunidad autónoma, provincial o de partido judicial, extendiéndose su ámbito competencial al de los órganos a los que presta su apoyo. Su ámbito competencial también podrá ser comarcal, de tal forma que pueda servir de apoyo a más de un Tribunal de Instancia.
 
-4. La Oficina judicial podrá prestar su apoyo a órganos de ámbito nacional, de comunidad autónoma, provincial, de partido judicial o de municipio, extendiéndose su ámbito competencial al de los órganos a los que presta su apoyo. Su ámbito competencial también podrá ser comarcal.
+4. Los servicios comunes de la Oficina judicial podrán desempeñar sus funciones al servicio de órganos de una misma jurisdicción, de varias jurisdicciones o a órganos especializados, sin que, en ningún caso, el ámbito de la Oficina judicial pueda modificar el número y composición de los órganos judiciales que constituyen la planta judicial ni la circunscripción territorial de los mismos establecida por la ley.
 
-5. Las unidades que componen la Oficina judicial podrán desempeñar sus funciones al servicio de órganos de una misma jurisdicción, de varias jurisdicciones o a órganos especializados, sin que, en ningún caso, el ámbito de la Oficina judicial, pueda modificar el número y composición de los órganos judiciales que constituyen la planta judicial ni la circunscripción territorial de los mismos establecida por la ley.
+5. Los servicios comunes podrán estructurarse en áreas, a las que se dotará de los correspondientes puestos de trabajo y, si el servicio lo requiere, en equipos.
 
-6. Los jueces y magistrados, en las causas cuyo conocimiento tengan atribuido, podrán requerir en todo momento al funcionario responsable cuanta información consideren necesaria.
+Dentro del mismo partido judicial, podrán dotarse puestos de trabajo de los servicios comunes procesales en localidades distintas a aquella en que se encuentre la Oficina judicial. La actividad de dichos puestos podrá ser compatible con las tareas derivadas de la prestación de servicios de la Oficina de Justicia en el municipio.
+
+6. La dirección de cada servicio común corresponderá a un letrado o una letrada de la Administración de Justicia, de quien dependerán funcionalmente el resto de los letrados y letradas de la Administración de Justicia y el personal destinado en los puestos de trabajo en que aquél se ordene y que, en todo caso, deberá ser suficiente y adecuado a sus funciones.
+
+Cuando así venga previsto en la correspondiente relación de puestos de trabajo, la dirección de un servicio común podrá compatibilizarse con otras funciones reservadas a letrados o letradas de la Administración de Justicia de la misma Oficina judicial.
+
+Quien dirija un servicio común coordinará a las letradas y a los letrados de la Administración de Justicia que lo integren en el ejercicio de las funciones de dirección técnico-procesal y demás previstas en la ley que éstos desempeñan en relación con el personal destinado en el servicio común. Asimismo, el director o la directora que dirija un servicio común deberá hacer cumplir, en el ámbito organizativo y funcional que le es propio, las órdenes y circulares que reciba de sus superiores jerárquicos. En el ámbito jurisdiccional, responderán del estricto cumplimiento de cuantas actuaciones o decisiones adopten jueces, juezas o tribunales en el ejercicio de sus competencias.
+
+7. Las jefaturas de áreas y equipos corresponderán a los funcionarios y funcionarias del Cuerpo de Letrados de la Administración de Justicia y de los Cuerpos Generales, conforme se establezca en las relaciones de puestos de trabajo.
+
+8. Los servicios comunes asistirán a jueces y juezas para el ejercicio de las funciones que les son propias, realizando las actuaciones necesarias para el exacto y eficaz cumplimiento de cuantas resoluciones se dicten. Los jueces y las juezas podrán requerir en todo momento a la Oficina judicial cuanta información consideren necesaria sobre los procedimientos cuyo conocimiento tengan atribuido.
+
+> Se modifica por el art. 1.82 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.123 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
 

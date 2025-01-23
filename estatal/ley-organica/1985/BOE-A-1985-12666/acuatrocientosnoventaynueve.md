@@ -4,7 +4,7 @@
 
 2. Su recusación sólo será posible por las causas legalmente previstas y por los trámites previstos para la recusación de los letrados de la Administración de Justicia con las siguientes excepciones:
 
-a) El incidente gubernativo se instruirá por el secretario del juzgado del que jerárquicamente dependa, y lo decidirá quien sea competente para dictar la resolución que ponga término al pleito o causa en la respectiva instancia.
+a) El incidente gubernativo se instruirá por el letrado o letrada de la Administración de Justicia del que funcionalmente dependa, y lo decidirá quién sea competente para dictar la resolución que ponga término al pleito o causa en la respectiva instancia.
 
 b) Si, a la vista del escrito de recusación, el letrado de la Administración de Justicia estimare que la causa no es de las tipificadas en la ley, inadmitirá en el acto la petición expresando las razones en que se funde tal inadmisión. Contra esta resolución no se dará recurso alguno.
 
@@ -13,6 +13,8 @@ c) Admitido a trámite el escrito de recusación, y en el día siguiente a su re
 d) Si el recusado niega la certeza de la causa alegada como fundamento de la recusación, el letrado de la Administración de Justicia, oído lo que el recusado alegue, dentro del quinto día y practicadas las comprobaciones que el recusado proponga y sean pertinentes o las que él mismo considere necesarias, remitirá lo actuado a quien haya de resolver para que decida el incidente.
 
 3. A los funcionarios del Cuerpo de Médicos Forenses, les serán de aplicación las prescripciones que establezcan las normas procesales respecto a la recusación de peritos.
+
+> Se modifica la letra a) del apartado 2 por el art. 1.98 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica la referencia a los "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 

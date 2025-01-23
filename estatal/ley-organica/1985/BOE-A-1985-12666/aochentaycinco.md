@@ -1,16 +1,20 @@
 ## Artículo 85.
 
-Los Juzgados de Primera Instancia conocerán en el orden civil:
+Con carácter general, en los Tribunales de Instancia, las Secciones Civiles o las Civiles y de Instrucción que constituyan una Sección Única extenderán su jurisdicción a un partido judicial.
 
-1. En primera instancia, de los juicios que no vengan atribuidos por esta ley a otros juzgados o tribunales.
+Estas Secciones conocerán, en el orden civil:
 
-2. De los actos de jurisdicción voluntaria en los términos que prevean las leyes.
+1.º En primera instancia, de los juicios que no vengan atribuidos por esta ley a otros órganos judiciales.
 
-3. De los recursos que establezca la ley contra las resoluciones de los Juzgados de Paz del partido.
+2.º De los actos de jurisdicción voluntaria en los términos que prevean las leyes.
 
-4. De las cuestiones de competencia en materia civil entre los Juzgados de Paz del partido.
+3.º De los recursos que establezca la ley contra las resoluciones de los jueces y las juezas de paz del partido.
 
-5. De las solicitudes de reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras y de la ejecución de laudos o resoluciones arbitrales extranjeros, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otro Juzgado o Tribunal.
+4.º De las cuestiones de competencia en materia civil entre los jueces y las juezas de paz del partido.
+
+5.º De las solicitudes de reconocimiento y ejecución de sentencias y demás resoluciones judiciales extranjeras y de la ejecución de laudos o resoluciones arbitrales extranjeros, a no ser que, con arreglo a lo acordado en los tratados y otras normas internacionales, corresponda su conocimiento a otra Sección o Tribunal.
+
+> Se modifica por el art. 1.22 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se suprime el apartado 6 por el art. único.4 de la Ley Orgánica 7/2022, de 27 de julio. Ref. BOE-A-2022-12578#au
 

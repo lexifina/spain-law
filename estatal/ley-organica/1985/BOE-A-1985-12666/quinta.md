@@ -14,7 +14,7 @@ En el caso de que el penado se halle cumpliendo varias penas, la competencia par
 
 Los recursos de apelación a que se refiere el párrafo anterior se tramitarán con carácter preferente y urgente.
 
-6. Cuando quien haya dictado la resolución recurrida sea un Juzgado Central de Vigilancia Penitenciaria, tanto en materia de ejecución de penas como de régimen penitenciario y demás materias, la competencia para conocer del recurso de apelación y queja, siempre que no se haya dictado resolviendo un recurso de apelación contra resolución administrativa, corresponderá a la Sala de lo Penal de la Audiencia Nacional.
+6. Cuando quien haya dictado la resolución recurrida sea la Sección de Vigilancia Penitenciaria del Tribunal Central de Instancia, tanto en materia de ejecución de penas como de régimen penitenciario y demás materias, la competencia para conocer del recurso de apelación y queja, siempre que no se haya dictado resolviendo un recurso de apelación contra resolución administrativa, corresponderá a la Sala de lo Penal de la Audiencia Nacional.
 
 7. Contra el auto por el que se determine el máximo de cumplimiento o se deniegue su fijación, cabrá recurso de casación por infracción de ley ante la Sala de lo Penal del Tribunal Supremo, que se sustanciará conforme a lo prevenido en la Ley de Enjuiciamiento Criminal.
 
@@ -23,6 +23,8 @@ Los recursos de apelación a que se refiere el párrafo anterior se tramitarán 
 9. El recurso de apelación a que se refiere esta disposición se tramitará conforme a lo dispuesto en la Ley de Enjuiciamiento Criminal para el procedimiento abreviado. Estarán legitimados para interponerlo el Ministerio Fiscal y el interno o liberado condicional. En el recurso de apelación será necesaria la defensa de letrado y, si no se designa procurador, el abogado tendrá también habilitación legal para la representación de su defendido. En todo caso, debe quedar garantizado siempre el derecho a la defensa de los internos en sus reclamaciones judiciales.
 
 10. En aquellas Audiencias donde haya más de una sección, mediante las normas de reparto, se atribuirá el conocimiento de los recursos que les correspondan según esta disposición, con carácter exclusivo, a una o dos secciones.
+
+> Se modifica el apartado 6 por el art. 1.108 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se añade un nuevo apartado 5, se renumera el apartado 5 como 6 y se interpreta que los apartados 6,7,8 y 9 se renumeran como 7,8,9 y 10 por el art. 2.1 y 2 de la Ley Orgánica 7/2003, de 30 de junio. Ref. BOE-A-2003-13022
 

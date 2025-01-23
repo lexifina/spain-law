@@ -1,11 +1,13 @@
 ## Artículo 393.
 
-No podrán los Jueces y Magistrados desempeñar su cargo:
+No podrán los jueces, juezas, magistrados y magistradas desempeñar su cargo:
 
-1. En las Salas de Tribunales y Juzgados donde ejerzan habitualmente, como Abogado o Procurador, su cónyuge o un pariente dentro del segundo grado de consanguinidad o afinidad. Esta incompatibilidad no será aplicable en las poblaciones donde existan diez o más Juzgados de Primera Instancia e Instrucción o Salas con tres o más Secciones.
+1. En los Tribunales donde ejerzan habitualmente, como abogado, abogada, procurador o procuradora, su cónyuge o un pariente dentro del segundo grado de consanguinidad o afinidad. Esta incompatibilidad no será aplicable en las poblaciones donde las Secciones Civiles y de Instrucción de los Tribunales de Instancia que constituyan Secciones Únicas cuenten con diez o más plazas judiciales o donde existan Salas con tres o más Secciones.
 
-2. En una Audiencia Provincial o Juzgado que comprenda dentro de su circunscripción territorial una población en la que, por poseer el mismo, su cónyuge o parientes de segundo grado de consanguinidad intereses económicos, tengan arraigo que pueda obstaculizarles el imparcial ejercicio de la función jurisdiccional. Se exceptúan las poblaciones superiores a cien mil habitantes en las que radique la sede del órgano jurisdiccional.
+2. En una Audiencia Provincial o Tribunal de Instancia que comprenda dentro de su circunscripción territorial una población en la que, por poseer el mismo, su cónyuge o parientes de segundo grado de consanguinidad intereses económicos, tengan arraigo que pueda obstaculizarles el imparcial ejercicio de la función jurisdiccional. Se exceptúan las poblaciones superiores a cien mil habitantes en las que radique la sede del órgano jurisdiccional.
 
-3. En una Audiencia o Juzgado en que hayan ejercido la abogacía o el cargo de procurador en los dos años anteriores a su nombramiento.
+3. En una Audiencia o en la plaza concreta de la Sección del Tribunal de Instancia donde hayan ejercido la abogacía o el cargo de procurador o procuradora en los dos años anteriores a su nombramiento.
+
+> Se modifica por el art. 1.75 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

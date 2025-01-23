@@ -6,6 +6,12 @@
 
 3. En todo caso, quedará a salvo la independencia de las Secciones para el enjuiciamiento y resolución de los distintos procesos de que conozcan, si bien deberán motivar las razones por las que se aparten del criterio acordado.
 
+4. La Junta de Jueces y Juezas de Sección de un Tribunal de Instancia podrá reunirse para el examen y valoración de criterios cuando los jueces, las juezas, los magistrados y las magistradas que la integren sostuvieren en sus resoluciones diversidad de criterios interpretativos en la aplicación de la ley en asuntos sustancialmente iguales.
+
+En todo caso, quedará a salvo la independencia de los jueces, juezas, magistrados y magistradas para el enjuiciamiento y resolución de los distintos procesos de que conozcan.
+
+> Se añade el apartado 4 por el art. 1.65 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
+
 > Se modifica por el art. único.37 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

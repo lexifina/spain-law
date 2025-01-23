@@ -1,6 +1,8 @@
 ## LIBRO V
 
-## DE LOS LETRADOS DE LA ADMINISTRACIÓN DE JUSTICIA Y DE LA OFICINA JUDICIAL
+## DE LA COORDINACIÓN ENTRE ADMINISTRACIONES, LA OFICINA JUDICIAL Y LOS LETRADOS Y LETRADAS DE LA ADMINISTRACIÓN DE JUSTICIA
+
+> Se modifica la rúbrica por el art. 1.77 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica la referencia a los "Secretarios judiciales" por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 

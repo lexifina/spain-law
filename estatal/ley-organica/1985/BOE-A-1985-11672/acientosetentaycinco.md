@@ -12,13 +12,17 @@ c) 0,32 euros por cada uno de los votos conseguidos por cada candidato que hubie
 
 3. Además de las subvenciones a que se refieren los apartados anteriores, el Estado subvencionará a los partidos, federaciones, coaliciones o agrupaciones los gastos electorales originados por el envío directo y personal a los electores de sobres y papeletas electorales o de propaganda y publicidad electoral de acuerdo con las reglas siguientes:
 
-a) Se abonarán 0,18 euros por elector en cada una de las circunscripciones en las que haya presentado lista al Congreso de los Diputados y al Senado, siempre que la candidatura de referencia hubiera obtenido el número de Diputados o Senadores o de votos preciso para constituir un Grupo Parlamentario en una u otra Cámara.
+a) Se abonarán 0,18 euros por elector en cada una de las circunscripciones en las que haya presentado lista al Congreso de los Diputados y al Senado, siempre que la candidatura de referencia hubiera obtenido Diputados o Senadores que logren constituirse en Grupo Parlamentario propio en una u otra Cámara, o hubiera obtenido el número de Diputados o Senadores o de votos preciso para hacerlo.
 
 b) La cantidad subvencionada no estará incluida dentro del límite previsto en el apartado 2 de este artículo, siempre que se haya justificado la realización efectiva de la actividad a que se refiere este apartado.
 
 4. Las cantidades mencionadas en los apartados anteriores se refieren a euros constantes. Por Orden del Ministerio de Economía y Hacienda se fijan las cantidades actualizadas en los cinco días siguientes a la convocatoria.
 
 5. No habrá lugar al pago de las subvenciones en los supuestos establecidos en los apartados 2, 3 y 4 del artículo 127 de la presente Ley.
+
+> Se modifica el apartado 3.a) por la disposición final 6.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-6
+
+> Véase, en cuanto a su aplicación, lo establecido en la disposición transitoria 11 de la citada Ley Orgánica.
 
 > Se modifica el apartado 3.a) por la disposición final 4.4 de la Ley Orgánica 3/2015, de 30 de marzo. Ref. BOE-A-2015-3441.
 

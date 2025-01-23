@@ -1,23 +1,23 @@
 ## Artículo 523.
 
-1. Aprobadas las relaciones de puestos de trabajo iniciales las comunidades autónomas y el Ministerio de Justicia podrán, en sus respectivos ámbitos:
+1. Las comunidades autónomas y el Ministerio de Justicia podrán, en sus respectivos ámbitos, modificar las relaciones de puestos de trabajo, previa negociación con las organizaciones sindicales más representativas. Aprobada dicha modificación se podrá:
 
-1.º Redistribuir los puestos de trabajo no singularizados dentro de cada Oficina judicial.
+1.º Redistribuir los puestos de trabajo no singularizados dentro de cada unidad u oficina.
 
-2.º Redistribuir los puestos de trabajo de unidades suprimidas de la Oficina judicial, como consecuencia de la modificación de las estructuras orgánicas.
+2.º Redistribuir los puestos de trabajo de unidades o servicios suprimidos, como consecuencia de la modificación de las estructuras orgánicas.
 
-3.º Reordenar los puestos de trabajo entre diferentes oficinas judiciales.
+3.º Reordenar los puestos de trabajo entre diferentes unidades u oficinas.
 
 4.º Amortizar puestos de trabajo.
 
-2. En todo caso, las modificaciones de las relaciones iniciales de puestos de trabajo que se produzcan deberán tener en cuenta los principios contenidos en esta Ley para la redistribución y reordenación de efectivos, y en concreto las siguientes reglas:
+2. En todo caso, las modificaciones de las relaciones de puestos de trabajo que se produzcan deberán tener en cuenta los principios contenidos en esta Ley para la redistribución y reordenación de efectivos y, en concreto las siguientes reglas:
 
 1.º Por las Administraciones competentes se elaborará un proyecto motivado, que será negociado con las organizaciones sindicales más representativas.
 
-2.º Se deberá respetar la denominación, retribuciones y demás características de los puestos afectados y, en ningún caso, supondrán cambio de municipio para el personal.
+2.º Se deberá respetar la denominación, retribuciones y demás características de los puestos afectados y en ningún caso supondrán cambio de municipio para el personal.
 
-3.º En todo caso, respetarán las dotaciones mínimas que para las unidades procesales de apoyo directo se hayan establecido.
+3.º Para su efectividad, si la modificación de la relación de puestos de trabajo corresponde a una comunidad autónoma con competencias asumidas en materia de Justicia, será preceptiva la comunicación previa al Ministerio de Justicia.
 
-4.º Se requerirá informe previo del Consejo General del Poder Judicial y para su efectividad será preceptiva la comunicación previa al Ministerio de Justicia.
+> Se modifica por el art. 1.103 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

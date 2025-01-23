@@ -2,20 +2,22 @@
 
 1. Instruirán los incidentes de recusación:
 
-1.º Cuando el recusado sea el Presidente o un Magistrado del Tribunal Supremo, de la Audiencia Nacional o de un Tribunal Superior de Justicia, un magistrado de la Sala a la que pertenezca el recusado designado en virtud de un turno establecido por orden de antigüedad.
+1.º Cuando el recusado o la recusada sea la persona que ostente la Presidencia o un magistrado o magistrada del Tribunal Supremo, de la Audiencia Nacional o de un Tribunal Superior de Justicia, un magistrado o magistrada de la Sala a la que pertenezca la persona recusada designado o designada en virtud de un turno establecido por orden de antigüedad.
 
-2.º Cuando el recusado sea un Presidente de Audiencia Provincial, un Magistrado de la Sala de lo Civil y Penal del Tribunal Superior de Justicia correspondiente designado en virtud de un turno establecido por orden de antigüedad.
+2.º Cuando el recusado o la recusada sea un Presidente o una Presidenta de Audiencia Provincial, un magistrado o una magistrada de la Sala de lo Civil y Penal del Tribunal Superior de Justicia correspondiente designado en virtud de un turno establecido por orden de antigüedad.
 
-3.º Cuando el recusado sea un Magistrado de una Audiencia, un Magistrado de esa misma Audiencia designado en virtud de un turno establecido por orden de antigüedad, siempre que no pertenezca a la misma Sección que el recusado.
+3.º Cuando el recusado o la recusada sea un magistrado o una magistrada de una Audiencia, un magistrado o una magistrada de esa misma Audiencia designado o designada en virtud de un turno establecido por orden de antigüedad, siempre que no pertenezca a la misma Sección que la persona recusada.
 
-4.º Cuando se recusare a todos los magistrados de una Sala de Justicia, un magistrado de los que integren el tribunal correspondiente designado en virtud de un turno establecido por orden de antigüedad, siempre que no estuviere afectado por la recusación.
+4.º Cuando se recusare a todos los magistrados y magistradas de una Sala de Justicia, un magistrado o magistrada de los que integren el tribunal correspondiente designado o designada en virtud de un turno establecido por orden de antigüedad, siempre que no estuviere afectado o afectada por la recusación.
 
-5.º Cuando el recusado sea un juez o magistrado titular de órgano unipersonal, un magistrado del órgano colegiado que conozca de sus recursos, designado en virtud de un turno establecido por orden de antigüedad.
+5.º Cuando el recusado o la recusada sea un juez, jueza, magistrado o magistrada destinado o destinada en un Tribunal de Instancia o en el Tribunal Central de Instancia, un juez, jueza, magistrado o magistrada del órgano colegiado que conozca de sus recursos, designado o designada en virtud de un turno establecido por orden de antigüedad.
 
-6.º Cuando el recusado fuere un Juez de Paz, el Juez de Primera Instancia del partido correspondiente o, si hubiere varios Juzgados de Primera Instancia, el designado en virtud de un turno establecido por orden de antigüedad.
+6.º Cuando el recusado fuere un juez o jueza de paz, el juez de instancia del partido correspondiente o, si hubiere varios, el designado en virtud de un turno establecido por orden de antigüedad.
 
 La antigüedad se regirá por el orden de escalafón en la carrera judicial.
 
 2. En los casos en que no fuere posible cumplir lo prevenido en el apartado anterior, la Sala de Gobierno del Tribunal correspondiente designará al instructor, procurando que sea de mayor categoría o, al menos, de mayor antigüedad que el recusado o recusados.
+
+> Se modifica el apartado 1 por el art. 1.59 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.47 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

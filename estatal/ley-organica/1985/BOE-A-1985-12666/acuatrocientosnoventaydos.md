@@ -2,16 +2,20 @@
 
 1. La jubilación de los funcionarios podrá ser:
 
-a) Voluntaria, a solicitud del funcionario
+a) Voluntaria, a solicitud del funcionario.
 
-b) Forzosa, al cumplir la edad legalmente establecida
+b) Forzosa, al cumplir la edad legalmente establecida.
 
 c) Por incapacidad permanente para el servicio.
 
 2. Procederá la jubilación voluntaria, a solicitud del interesado, siempre que el funcionario reúna los requisitos y condiciones establecidos en el régimen de seguridad social que le sea de aplicación.
 
-3. La jubilación forzosa se declarará de oficio al cumplir el funcionario los 65 años de edad. No obstante, los funcionarios podrán prolongar voluntariamente su permanencia en el servicio activo, como máximo hasta que cumplan 70 años de edad, siguiendo el procedimiento legal o reglamentariamente establecido.
+3. La jubilación forzosa se declarará de oficio al cumplir el funcionario los 65 años de edad. No obstante, los funcionarios podrán prolongar voluntariamente su permanencia en el servicio activo, como máximo hasta que cumplan 70 años de edad. La Administración Pública competente deberá de resolver de forma motivada la aceptación o denegación de la prolongación.
 
-4. Procederá asimismo la jubilación del funcionario cuando éste padezca incapacidad permanente para el ejercicio de las funciones propias de su cuerpo. Será preceptiva la instrucción del oportuno expediente de incapacidad, que podrá ser iniciado de oficio o a solicitud del interesado.
+4. Con independencia de la edad legal de jubilación forzosa establecida en el apartado 3, la edad de la jubilación forzosa del personal funcionario incluido en el Régimen General o Especial de la Seguridad Social será, en todo caso, la que prevean las normas reguladoras de dicho régimen para el acceso a la pensión de jubilación en su modalidad contributiva sin coeficiente reductor por razón de la edad, hasta alcanzar la edad máxima de 70 años.
+
+5. Procederá asimismo la jubilación del funcionario cuando éste padezca incapacidad permanente para el ejercicio de las funciones propias de su cuerpo. Será preceptiva la instrucción del oportuno expediente de incapacidad.
+
+> Se modifica por el art. 1.97 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

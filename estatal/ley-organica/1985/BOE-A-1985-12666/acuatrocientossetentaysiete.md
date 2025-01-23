@@ -18,7 +18,9 @@ f) La posibilidad de ocupar puestos de las unidades administrativas, siempre que
 
 g) Cuantas funciones puedan asumir en orden a la protección y apoyo a las víctimas, así como de apoyo a actuaciones de justicia restaurativa y de solución extraprocesal.
 
-h) La realización de todas aquellas funciones que legal o reglamentariamente se establezcan y de cualesquiera otras funciones de naturaleza análoga a las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias.
+h) La realización de todas aquellas funciones que legal o reglamentariamente se establezcan y de cualesquiera otras funciones de naturaleza análoga a las anteriores que, inherentes al puesto de trabajo que se desempeñe, sean encomendadas por los superiores jerárquicos, orgánicos o funcionales, en el ejercicio de sus competencias. Entre estas funciones se encuentra el apoyo a la gestión administrativa, y de gestión del personal y medios materiales, de la unidad de la Oficina judicial u Oficina de Justicia en el municipio en que se presten los servicios, siempre que dichas funciones estén contempladas expresamente en la descripción que la relación de puestos de trabajo efectúe del puesto de trabajo.
+
+> Se modifica la letra h) por el art. 1.94 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica la letra g) y se añade la h) por el art. único.85 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#aunico.
 

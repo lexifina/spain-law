@@ -1,6 +1,8 @@
 ## CAPÍTULO V
 
-## De los Juzgados de Primera Instancia e Instrucción, de lo Mercantil, de lo Penal, de Violencia sobre la Mujer, de lo Contencioso-Administrativo, de lo Social, de Vigilancia Penitenciaria y de Menores
+## De los Tribunales de Instancia y del Tribunal Central de Instancia
+
+> Se modifica la rúbrica por el art. 1.20 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica por la disposición adicional 10.2 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760.
 

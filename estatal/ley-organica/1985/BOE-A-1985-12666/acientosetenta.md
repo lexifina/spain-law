@@ -1,15 +1,15 @@
 ## Artículo 170.
 
-1. Los Jueces de cada orden jurisdiccional podrán reunirse en Junta, bajo la presidencia del Decano, para proponer las normas de reparto entre los mismos, unificar criterios y prácticas, y para tratar asuntos comunes o sobre los que estimaren conveniente elevar exposición a la Sala de Gobierno correspondiente o al Consejo General del Poder Judicial por conducto del Presidente del Tribunal Superior de Justicia o aquél les solicitare informe.
+1. Podrán reunirse en Junta de Sección del Tribunal de Instancia los jueces, juezas, magistrados y magistradas que pertenezcan a la misma Sección de un Tribunal de Instancia.
 
-2. El Decano convocará la Junta cuando lo estime necesario o cuando lo solicite, al menos, la cuarta parte de los miembros de derecho de la misma.
+Esta Junta, presidida por quien ejerza la Presidencia de la Sección respectiva, se reunirá para proponer las normas de reparto entre los jueces, juezas, magistrados y magistradas, unificar criterios y prácticas, y para tratar asuntos comunes o sobre los que estimaren conveniente elevar exposición a la Sala de Gobierno correspondiente o al Consejo General del Poder Judicial por conducto del Presidente del Tribunal Superior de Justicia o aquél les solicitare informe.
 
-3. También podrán reunirse los Jueces de una misma provincia o Comunidad Autónoma, presididos por el más antiguo en el destino, para tratar aquellos problemas que les sean comunes.
+2. La Presidencia de Sección del Tribunal de Instancia convocará la Junta prevista en el apartado anterior siempre que lo estime necesario, o cuando lo solicite, al menos, la cuarta parte de los miembros de derecho de la misma y, en todo caso, una vez al año, sin perjuicio de lo dispuesto en el apartado 4 del artículo 264.
 
-4. La Junta se considerará válidamente constituida para tomar acuerdos cuando asistan la mitad más uno de sus miembros, adoptándose los acuerdos por mayoría simple.
+Cuando la Sección careciere de Presidencia, las funciones previstas en este artículo serán ejercidas por la Presidencia del Tribunal de Instancia. Ésta, además, podrá convocar en Junta a los jueces, juezas, magistrados y magistradas pertenecientes a diferentes Secciones de un mismo orden jurisdiccional en la forma y en los mismos supuestos que los previstos en los apartados anteriores.
 
-5. La Junta elegirá como Secretario a uno de sus miembros, que será el encargado de redactar las actas de los acuerdos de las Juntas, así como de conservarlas y de expedir las certificaciones de las mismas.
+3. Los requisitos para la válida constitución de esta Junta, su régimen de organización y funcionamiento, así como para la adopción de acuerdos, serán los mismos previstos en los apartados 4 y 5 del artículo anterior.
 
-6. Corresponde a la Junta de Jueces elaborar los planes anuales de sustitución entre jueces titulares a que se refiere el artículo 211 para su remisión a la Sala de Gobierno.
+> Se modifica por el art. 1.53 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se añade el apartado 6 por el art. único.5 de la Ley Orgánica 8/2012, de 27 de diciembre. Ref. BOE-A-2012-15648.

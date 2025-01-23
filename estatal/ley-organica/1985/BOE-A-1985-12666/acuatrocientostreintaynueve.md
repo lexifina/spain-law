@@ -1,12 +1,18 @@
 ## Artículo 439.
 
-1. A los efectos de esta ley, se entiende por unidad administrativa aquélla que, sin estar integrada en la Oficina judicial, se constituye en el ámbito de la organización de la Administración de Justicia para la jefatura, ordenación y gestión de los recursos humanos de la Oficina judicial sobre los que se tienen competencias, así como sobre los medios informáticos, nuevas tecnologías y demás medios materiales.
+1. A los efectos de esta ley, se entiende por unidad administrativa aquélla que, sin estar integrada en la Oficina judicial, se constituye en el ámbito de la organización de la Administración de Justicia para la prestación de servicios que se consideren necesarios o convenientes para el funcionamiento del servicio público de Justicia. Estos servicios no comprenderán la realización de funciones de carácter procesal que correspondan al personal funcionario de los Cuerpos de la Administración de Justicia.
 
-Asimismo, dentro de dichas unidades, el Ministerio de Justicia y las comunidades autónomas en sus respectivos ámbitos, podrán establecer oficinas comunes de apoyo a una o varias oficinas judiciales, para la prestación de servicios, cuya naturaleza no exija la realización de funciones encomendadas como propias por esta ley orgánica a los funcionarios de los Cuerpos de la Administración de Justicia y que se consideren necesarios o convenientes para el buen funcionamiento de las mismas.
+2. El Ministerio de Justicia y las comunidades autónomas en sus respectivos ámbitos, podrán establecer estas unidades administrativas para, entre otras funciones, dar apoyo a la jefatura, ordenación y gestión de los recursos humanos sobre los que se tienen competencias en materia de Justicia, así como sobre los medios informáticos, nuevas tecnologías y demás medios materiales.
 
-2. Corresponde a cada Administración en su propio ámbito territorial, el diseño, la creación y organización de las unidades administrativas necesarias y de las oficinas comunes de apoyo, la determinación de su forma de integración en la Administración pública de que se trate, su ámbito de actuación, dependencia jerárquica, establecimiento de los puestos de trabajo, así como la dotación de los créditos necesarios para su puesta en marcha y funcionamiento.
+3. Las unidades administrativas también se podrán crear para la prestación de servicios de medios adecuados de solución de controversias. En este caso las unidades administrativas podrán contar con puestos de trabajo para letrados y letradas de la Administración de Justicia.
 
-3. Los puestos de trabajo de estas unidades Administrativas, cuya determinación corresponderá al Ministerio de Justicia y a las comunidades autónomas con competencias asumidas, en sus respectivos ámbitos, podrán ser cubiertos con personal de los Cuerpos de funcionarios al servicio de la Administración de Justicia, de la Administración del Estado y de las comunidades autónomas que reúnan los requisitos y condiciones establecidas en la respectiva relación de puestos de trabajo.
+4. Los puestos de trabajo de estas unidades administrativas, cuya determinación corresponderá al Ministerio de Justicia y a las comunidades autónomas con competencias asumidas, en sus respectivos ámbitos, podrán ser cubiertos con personal de los Cuerpos de funcionarios al servicio de la Administración de Justicia de la Administración del Estado y de las comunidades autónomas que reúnan los requisitos y condiciones establecidas en la respectiva relación de puestos de trabajo.
+
+5. Corresponde a cada Administración en su propio ámbito territorial, el diseño, la creación y organización de las unidades administrativas necesarias, la determinación de su forma de integración en la Administración pública de que se trate, su ámbito de actuación, dependencia jerárquica, establecimiento de los puestos de trabajo, así como la dotación de los créditos necesarios para su puesta en marcha y funcionamiento.
+
+6. Estas unidades administrativas tendrán la consideración de centro de destino cuando así se establezca en su norma de creación.
+
+> Se modifica por el art. 1.86 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se suprime el apartado 4 por el art. único.26 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

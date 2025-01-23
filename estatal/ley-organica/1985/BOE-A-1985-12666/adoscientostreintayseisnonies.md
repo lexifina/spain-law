@@ -1,16 +1,10 @@
 ## Artículo 236 nonies.
 
-1. Las competencias que corresponden a la autoridad de protección de datos personales con fines jurisdiccionales serán ejercidas respecto del tratamiento de los mismos realizado por Juzgados y Tribunales de acuerdo con lo establecido en el artículo 236 octies, por la Dirección de Supervisión y Control de Protección de Datos del Consejo General del Poder Judicial.
+Las competencias que corresponden al Consejo General del Poder Judicial como autoridad de protección de datos respecto del tratamiento de los mismos con fines jurisdiccionales por los tribunales se ejercerán por la Comisión de Supervisión y Control de Protección de Datos prevista en el artículo 610 ter. En el ejercicio de sus funciones la Comisión contará con el apoyo y la asistencia de la Dirección de Supervisión y Control de Protección de Datos, de acuerdo con lo previsto en el artículo 620 bis.
 
-2. Al frente de la Dirección de Supervisión y Control de Protección de Datos se nombrará por mayoría absoluta del Pleno del Consejo General del Poder Judicial una persona titular de la Dirección, de entre juristas de reconocida competencia con al menos quince años de ejercicio profesional y con conocimientos y experiencia acreditados en materia de protección de datos.
+> Se modifica por el art. 1.63 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
-3. La duración del mandato de la persona titular de la Dirección de Supervisión y Control de Protección de Datos será de cinco años, no renovable. Durante su mandato permanecerá, en su caso, en situación de servicios especiales y ejercerá exclusivamente las funciones inherentes a su cargo. Sólo podrá ser cesada por incapacidad o incumplimiento grave de sus deberes, apreciados por el Pleno mediante mayoría absoluta.
-
-4. El régimen de incompatibilidades de la persona titular de la Dirección de Supervisión y Control de Protección de Datos será el mismo que el establecido para los Magistrados al servicio de los órganos técnicos del Consejo General del Poder Judicial. La persona titular de la Dirección de Supervisión y Control de Protección de Datos deberá ejercer sus funciones con absoluta independencia y neutralidad.
-
-5. La persona titular y el resto de personal adscrito a la Dirección de Supervisión y Control de Protección de Datos estarán sujetos al deber de secreto profesional, tanto durante su mandato como después del mismo, con relación a las informaciones confidenciales de las que hayan tenido conocimiento en el cumplimiento de sus funciones o el ejercicio de sus atribuciones. Este deber de secreto profesional se aplicará en particular a la información que faciliten las personas físicas a la Dirección de Supervisión y Control de Protección de Datos en materia de infracciones de la presente normativa.
-
-6. La composición, organización y funcionamiento de la Dirección de Supervisión y Control de Protección de Datos será regulada reglamentariamente. El Consejo General del Poder Judicial deberá velar porque la Dirección cuente, en todo caso, con todos los medios personales y materiales necesarios para el adecuado ejercicio de sus funciones.
+> Téngase en cuenta para su aplicación la disposición transitoria 15 de la citada ley orgánica.
 
 > Se modifica por la disposición final 3.12 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-3
 

@@ -8,11 +8,13 @@ b) Cuando sean autorizados por el Consejo General del Poder Judicial para realiz
 
 c) Cuando adquieran la condición de funcionarios al servicio de organizaciones internacionales o de carácter supranacional o cuando sean nombrados Fiscales europeos delegados de conformidad con el Reglamento (UE) 2017/1939 del Consejo, de 12 de octubre de 2017, por el que se establece una cooperación reforzada para la creación de la Fiscalía Europea, y la Ley Orgánica de aplicación del citado Reglamento. Durante el tiempo de su mandato actuarán de conformidad con los principios rectores de la Fiscalía Europea, dejando de tener atribuidas las facultades inherentes al ejercicio de la potestad jurisdiccional.
 
-d) Cuando sean nombrados o adscritos como letrados al servicio del Tribunal de Justicia de la Unión Europea, del Tribunal Constitucional, del Consejo General del Poder Judicial o del Tribunal Supremo, o magistrados del Gabinete Técnico del Tribunal Supremo, o al servicio del Defensor del Pueblo u órgano equivalente de las Comunidades Autónomas.
+d) Cuando sean nombrados o adscritos como letrados al servicio del Tribunal de Justicia de la Unión Europea, del Tribunal Constitucional, del Consejo General del Poder Judicial o del Tribunal Supremo, o magistrados del Gabinete Técnico del Tribunal Supremo, o al servicio del Ministerio de Justicia, del Defensor del Pueblo u órgano equivalente de las Comunidades Autónomas.
 
 e) Cuando presten servicio, en virtud de nombramiento por Real Decreto, o por Decreto en las Comunidades Autónomas, en cargos que no tengan rango superior a director general.
 
 f) Cuando sean nombrados para cargo político o de confianza en virtud de Real Decreto, Decreto autonómico o acuerdo de Pleno de entidad local con rango de director general o inferior.
+
+> Se modifica la letra d) por el art. 1.73 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica la letra f) por el art. 1.3 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
 

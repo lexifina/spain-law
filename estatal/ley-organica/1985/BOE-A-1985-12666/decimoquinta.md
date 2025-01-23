@@ -20,9 +20,7 @@ d) 50 euros, si el recurso fuera el de casación, incluido el de casación para 
 
 e) 50 euros, si fuera revisión.
 
-4. Asimismo, para la interposición de recursos contra resoluciones dictadas por el Juez o Tribunal que no pongan fin al proceso ni impidan su continuación en cualquier instancia será precisa la consignación como depósito de 25 euros. El mismo importe deberá consignar quien recurra en revisión las resoluciones dictadas por el Letrado de la Administración de Justicia.
-
-Se excluye de la consignación de depósito la formulación del recurso de reposición que la ley exija con carácter previo al recurso de queja.
+4. Asimismo, para la interposición de recursos contra resoluciones dictadas por el juez o tribunal que no pongan fin al proceso ni impidan su continuación en cualquier instancia será precisa la consignación como depósito de 25 euros. El mismo importe deberá consignar quien interponga recurso de reposición o revisión contra las resoluciones dictadas por el letrado o letrada de la Administración de Justicia. No obstante, no será precisa la constitución de depósito para la interposición de recurso de revisión contra un decreto que resuelva un recurso de reposición. Se excluye de la consignación de depósito la formulación del recurso de reposición que la ley exija con carácter previo al recurso de queja.
 
 5. El Ministerio Fiscal también quedará exento de constituir el depósito que para recurrir viene exigido en esta Ley.
 
@@ -32,15 +30,11 @@ El Estado, las Comunidades Autónomas, las entidades locales y los organismos au
 
 La admisión del recurso precisará que, al interponerse el mismo si se trata de resoluciones interlocutorias, a la presentación del recurso de queja, al presentar la demanda de rescisión de sentencia firme en la rebeldía y revisión, o al anunciarse o prepararse el mismo en los demás casos, se haya consignado en la oportuna entidad de crédito y en la "Cuenta de Depósitos y Consignaciones" abierta a nombre del Juzgado o del Tribunal, la cantidad objeto de depósito, lo que deberá ser acreditado. El Secretario verificará la constitución del depósito y dejará constancia de ello en los autos.
 
-7. No se admitirá a trámite ningún recurso cuyo depósito no esté constituido.
-
-Si el recurrente hubiera incurrido en defecto, omisión o error en la constitución del depósito, se concederá a la parte el plazo de dos días para la subsanación del defecto, con aportación en su caso de documentación acreditativa.
-
-De no efectuarlo, se dictará auto que ponga fin al trámite del recurso, o que inadmita la demanda, quedando firme la resolución impugnada.
+7. No se admitirá a trámite ningún recurso cuyo depósito no esté constituido. Si el recurrente hubiera incurrido en defecto, omisión o error en la constitución del depósito, se concederá a la parte el plazo de dos días para la subsanación del defecto, con aportación en su caso de documentación acreditativa. De no efectuarlo, se dictará auto que ponga fin al trámite del recurso o que inadmita la demanda, quedando firme la resolución impugnada. En el caso de tratarse de un recurso de reposición contra una resolución del letrado o letrada de la Administración de Justicia, se dictará decreto poniendo fin al trámite del recurso contra el que cabrá interponer recurso de revisión.
 
 8. Si se estimare total o parcialmente el recurso, o la revisión o rescisión de sentencia, en la misma resolución se dispondrá la devolución de la totalidad del depósito.
 
-9. Cuando el órgano jurisdiccional inadmita el recurso o la demanda, o confirme la resolución recurrida, el recurrente o demandante perderá el depósito, al que se dará el destino previsto en esta disposición.
+9. Cuando el órgano jurisdiccional inadmita el recurso o la demanda, o confirme la resolución recurrida, el recurrente o demandante perderá el depósito, al que se dará el destino previsto en esta disposición. En caso de ser desestimado el recurso de reposición contra una resolución del letrado o letrada de la Administración de Justicia, el recurrente perderá el depósito cuando la resolución objeto de recurso sea firme.
 
 10. Los depósitos perdidos y los rendimientos de la cuenta quedan afectados a las necesidades derivadas de la actividad del Ministerio de Justicia, destinándose específicamente a sufragar los gastos correspondientes al derecho a la asistencia jurídica gratuita, y a la modernización e informatización integral de la Administración de Justicia. A estos efectos, los ingresos procedentes de los depósitos perdidos y los rendimientos de la cuenta generarán crédito en los estados de gastos de la sección 13 "Ministerio de Justicia".
 
@@ -51,6 +45,8 @@ De no efectuarlo, se dictará auto que ponga fin al trámite del recurso, o que 
 13. La exigencia de este depósito será compatible con el devengo de la tasa exigida por el ejercicio de la potestad jurisdiccional.
 
 14. El depósito previsto en la presente disposición no será aplicable para la interposición de los recursos de suplicación o de casación en el orden jurisdiccional social, ni de revisión en el orden jurisdiccional civil, que continuarán regulándose por lo previsto, respectivamente, en la Ley de Procedimiento Laboral y en la Ley de Enjuiciamiento Civil.
+
+> Se modifican los apartados 4, 7 y 9 por el art. 1.109 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica la referencia a los "Secretarios judiciales" en el apartado 4 por la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera
 

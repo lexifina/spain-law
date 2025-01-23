@@ -1,6 +1,6 @@
 ## Artículo 216 bis.
 
-1. Cuando el excepcional retraso o la acumulación de asuntos en un determinado juzgado o tribunal no puedan ser corregidos mediante el reforzamiento de la plantilla de la Oficina judicial o la exención temporal de reparto prevista en el artículo 167.1, el Consejo General del Poder Judicial podrá acordar excepcionales medidas de apoyo judicial consistentes en la adscripción de jueces y magistrados titulares de otros órganos judiciales mediante el otorgamiento de comisiones de servicio.
+1. Cuando el excepcional retraso o la acumulación de asuntos en un determinado tribunal no puedan ser corregidos mediante el reforzamiento de la plantilla de la Oficina judicial o la exención temporal de reparto prevista en el artículo 167.2, el Consejo General del Poder Judicial podrá acordar excepcionales medidas de apoyo judicial consistentes en la adscripción de jueces y magistrados titulares de otros órganos judiciales mediante el otorgamiento de comisiones de servicio.
 
 2. Los Presidentes de los Tribunales Superiores de Justicia podrán proponer como medida de apoyo la adscripción obligatoria, en régimen de comisión sin relevación de funciones, de aquellos jueces y magistrados titulares de órganos que tuviesen escasa carga de trabajo de conformidad con los criterios técnicos establecidos por el Consejo General del Poder Judicial. Dicha comisión no será retribuida, aún siendo aprobada, si la carga de trabajo asumida por el adscrito, computada junto con la de su órgano de procedencia, no alcanza el mínimo establecido en los referidos criterios técnicos.
 
@@ -11,6 +11,8 @@
 5. La aprobación por parte del Consejo General del Poder Judicial de cualquier medida de apoyo precisará la previa aprobación del Ministerio de Justicia quien únicamente podrá oponerse por razones de disponibilidad presupuestaria, todo ello dentro del marco que establezca el Protocolo que anualmente suscribirán ambos a los efectos de planificar las medidas de este tipo que sea posible adoptar.
 
 6. Si la causa del retraso tuviera carácter estructural, el Consejo General del Poder Judicial, junto con la adopción de las referidas medidas provisionales, formulará las oportunas propuestas al Ministerio de Justicia o a las Comunidades Autónomas con competencias en la materia, en orden a la adecuación de la plantilla del juzgado o tribunal afectado o a la corrección de la demarcación o planta que proceda.
+
+> Se modifica el apartado 1 por el art. 1.58 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica el apartado 3 por el art. único.3 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
 

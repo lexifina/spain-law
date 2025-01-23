@@ -1,22 +1,10 @@
 ## Artículo 438.
 
-1. A los efectos de esta ley, se entiende por servicio común procesal, toda aquella unidad de la Oficina judicial que, sin estar integrada en un órgano judicial concreto, asume labores centralizadas de gestión y apoyo en actuaciones derivadas de la aplicación de las leyes procesales.
-
-2. Prestarán su apoyo a todos o a alguno de los órganos judiciales de su ámbito territorial, con independencia del orden jurisdiccional al que pertenezcan y la extensión de su jurisdicción.
-
-3. El Ministerio de Justicia y las Comunidades Autónomas en sus respectivos territorios serán competentes para el diseño, creación y organización de los servicios comunes procesales, con funciones de registro y reparto, actos de comunicación, auxilio judicial, ejecución de resoluciones judiciales, jurisdicción voluntaria, mediación y ordenación del procedimiento. Las Salas de Gobierno y las Juntas de Jueces podrán solicitar al Ministerio y a las Comunidades Autónomas la creación de servicios comunes, conforme a las específicas necesidades.
+Sin perjuicio de lo previsto en el artículo anterior, el Ministerio de Justicia y las comunidades autónomas en sus respectivos territorios serán competentes para el diseño, creación y organización de otros servicios comunes que realicen las funciones de registro y reparto, de apoyo, actos de comunicación, auxilio judicial nacional e internacional, de ordenación de procesos de ejecución y jurisdicción voluntaria. Las Salas de Gobierno, las Juntas de Jueces y Juezas y los Secretarios de Gobierno de los Tribunales Superiores de Justicia podrán solicitar al Ministerio y a las comunidades autónomas la creación de servicios comunes, conforme a las específicas necesidades.
 
 Asimismo, podrán crear servicios comunes procesales que asuman otras funciones distintas a las relacionadas en este número, en cuyo caso será preciso el informe favorable del Consejo General del Poder Judicial.
 
-4. En razón de la actividad concreta que realicen, los servicios comunes procesales, podrán estructurarse en secciones, a las que se dotará de los correspondientes puestos de trabajo y éstas, a su vez, si el servicio lo requiere, en equipos.
-
-5. Al frente de cada servicio común procesal constituido en el seno de la Oficina judicial habrá un letrado de la Administración de Justicia, de quien dependerán funcionalmente el resto de los letrados de la Administración de Justicia y el personal destinado en los puestos de trabajo en que se ordene el servicio de que se trate y que, en todo caso, deberá ser suficiente y adecuado a las funciones que tiene asignado el mismo.
-
-En aquellos partidos judiciales en que el escaso número de órganos judiciales lo aconseje, el mismo Letrado de la Administración de Justicia de la unidad procesal de apoyo directo podrá estar al frente de los servicios comunes procesales que se constituyan con las funciones relacionadas en el apartado 3 de este artículo.
-
-6. El letrado de la Administración de Justicia que dirija un servicio común procesal deberá hacer cumplir, en el ámbito organizativo y funcional que le es propio, las órdenes y circulares que reciba de sus superiores jerárquicos. En el ámbito jurisdiccional, responderán del estricto cumplimiento de cuantas actuaciones o decisiones adopten jueces o tribunales en el ejercicio de sus competencias.
-
-7. El Consejo General del Poder Judicial podrá establecer criterios generales que permitan la homogeneidad en las actuaciones de los servicios comunes procesales de la misma clase en todo el territorio nacional que, en ningún caso, podrán incidir en el ejercicio de la función jurisdiccional o en las competencias de las Administraciones públicas en el ámbito de la Administración de Justicia.
+> Se modifica por el art. 1.84 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#a1
 
 > Se modifica el apartado 3 y la referencia a los "Secretarios judiciales" por el art. único.55 y la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167.
 
