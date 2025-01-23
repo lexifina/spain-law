@@ -1,6 +1,6 @@
 ## ANEXO VI
 
-## Convocatoria para empresas, cooperativas y otras entidades para la concesión de ayudas de la sección «Cero» del PLAN REINICIA AUTO + en el marco del Plan de Recuperación, Transformación y Resiliencia
+## Convocatoria para empresas y otras entidades para la concesión de ayudas de la sección «Cero» del PLAN REINICIA AUTO + en el marco del Plan de Recuperación, Transformación y Resiliencia
 
 ## Artículo 1. Objeto y ámbito territorial.
 
@@ -24,15 +24,13 @@ Podrán ser beneficiarios de las subvenciones previstas en esta convocatoria los
 
 ## Artículo 4. Régimen de concesión, financiación y cuantía de las ayudas.
 
-El régimen de concesión, financiación y cuantía de las ayudas será el señalado en el artículo 5 de este real decreto-ley.
+1. Las ayudas previstas en esta convocatoria se concederán de forma directa, conforme a los artículos 22 y 28 de la Ley 38/2003, de 17 de noviembre, y al capítulo III del título I del Reglamento de la Ley General de Subvenciones, al existir razones de interés público, social y económico que no permiten promover la concurrencia competitiva. Las ayudas serán en forma de subvención.
 
-El presupuesto asignado a la presente convocatoria asciende a dieciséis millones cincuenta y dos mil cuatrocientos euros (16.052.400 €) repartidos en las siguientes partidas presupuestarias:
+2. Las ayudas se financiarán con cargo a fondos del Mecanismo de Recuperación y Resiliencia de la Secretaría de Estado de Industria del Ministerio de Industria y Turismo.
 
-20.50.42AB.770 Quince millones doscientos ochenta y ocho mil euros (15.288.000 €).
+3. Se considerará agotado el presupuesto disponible habilitado para la convocatoria cuando se presente la solicitud de la última solicitud de ayuda que totalice el importe total asignado a la misma.
 
-20.50.42AB.782 Setecientos sesenta y cuatro mil cuatrocientos euros (764.400 €).
-
-En el caso de que no se agote el presupuesto asignado a una de las partidas presupuestarias correspondientes a las convocatorias de la Sección «Cero» recogida en el apartado 2 del artículo 5 de este real decreto-ley, los fondos sobrantes podrán utilizarse para mejorar la dotación financiera de las partidas que hayan resultado insuficientes en cualquiera de dichas convocatorias.
+4. Las cuantías individuales de ayuda para los vehículos subvencionables en esta convocatoria se indican en el punto 5 del anexo I de este real decreto-ley.
 
 ## Artículo 5. Plazo para la presentación de solicitudes.
 
@@ -65,5 +63,7 @@ Serán causas de anulación o de reintegro de las ayudas de esta convocatoria la
 ## Artículo 11. Publicidad.
 
 Las obligaciones sobre la publicidad de las ayudas que se otorguen en esta convocatoria se atendrán a lo indicado en el artículo 17 de este real decreto-ley.
+
+> Se deja sin efecto la modificación del título y del art. 4 por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
 
 > Se modifican el título y el art. 4 por la disposición final 9.4 y 5 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915#df-9

@@ -1,8 +1,10 @@
-## Disposición transitoria trigésima segunda. Límites para la aplicación del método de estimación objetiva en los ejercicios 2016 a 2025.
+## Disposición transitoria trigésimo segunda. Límites para la aplicación del método de estimación objetiva en los ejercicios 2016 a 2024.
 
-Para los ejercicios 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 y 2025, las magnitudes de 150.000 y 75.000 euros a que se refiere el apartado a’) de la letra b) de la norma 3.ª del apartado 1 del artículo 31 de esta Ley, quedan fijadas en 250.000 y 125.000 euros, respectivamente.
+Para los ejercicios 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023 y 2024, las magnitudes de 150.000 y 75.000 euros a que se refiere el apartado a’) de la letra b) de la norma 3.ª del apartado 1 del artículo 31 de esta ley, quedan fijadas en 250.000 y 125.000 euros, respectivamente.
 
-Asimismo, para dichos ejercicios, la magnitud de 150.000 euros a que se refiere la letra c) de la norma 3.ª del apartado 1 del artículo 31 de esta Ley, queda fijada en 250.000 euros.
+Asimismo, para dichos ejercicios, la magnitud de 150.000 euros a que se refiere la letra c) de la norma 3.ª del apartado 1 del artículo 31 de esta ley, queda fijada en 250.000 euros.
+
+> Se deja sin efecto la modificación de esta disposición por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
 
 > Se modifica, con efectos desde el 1 de enero de 2025, por el art. 6.Primero.4 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
 

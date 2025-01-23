@@ -1,6 +1,8 @@
-## Disposición adicional décima. Modificación del plazo otorgado en la Disposición final séptima de la Ley 33/2010, de 5 de agosto, de modificación de la Ley 48/2003, de 26 de noviembre, de régimen económico y de prestación de servicios en los puertos de interés general.
+## Disposición adicional décima. Autorización para la realización de rellenos en el dominio publico portuario del Puerto de Bilbao contemplados en los proyectos para el Desarrollo Urbanístico de Zorrotzaurre.
 
-El plazo conferido en la Disposición final séptima de la Ley 33/2010, de 5 de agosto, de modificación de la Ley 48/2003, de 26 de noviembre, de régimen económico y de prestación de servicios en los puertos de interés general, se amplía hasta el 31 de diciembre de 2011, manteniéndose la delegación legislativa en los mismos términos otorgados en la citada Disposición final.
+Excepcionalmente podrá autorizarse la realización de rellenos en el dominio publico portuario del Puerto de Bilbao, contemplados en los proyectos para el Desarrollo Urbanístico de Zorrotzaurre, que tengan por objeto restablecer, total o parcialmente, la situación física existente anteriormente a la actividad portuaria, con el fin de restituir al municipio unos suelos en las debidas condiciones ambientales en las zonas que vayan a dejar de ser portuarias.
+
+> Se deja sin efecto la renumeración de esta disposición por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
 
 > Se renumera por la disposición final 4.2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
 

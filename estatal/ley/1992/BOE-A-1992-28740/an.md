@@ -201,7 +201,7 @@ b) Tener reconocida la condición de operador confiable por cumplir las siguient
 
 a’) estar inscrito en el registro de extractores,
 
-b’) tener un volumen de extracciones durante el año natural anterior de, al menos, 550 millones de litros de gasolinas, gasóleos y biocarburantes destinados a ser usados como carburante a que se refiere el párrafo tercero del artículo 19.5.º de esta Ley,
+b’) tener un volumen de extracciones durante el año natural anterior de, al menos, 1.000 millones de litros de gasolinas, gasóleos y biocarburantes destinados a ser usados como carburante a que se refiere el párrafo tercero del artículo 19.5.º de esta ley,
 
 c’) haber realizado operaciones como operador al por mayor durante los 3 años anteriores, y
 
@@ -249,7 +249,9 @@ La finalización del periodo transitorio por el transcurso del plazo anterior si
 
 4. La Administración tributaria proveerá a los titulares de los depósitos fiscales de los sistemas técnicos necesarios para verificar la aplicación de este régimen transitorio.
 
-> Se modifica el apartado undécimo por el art. 8.2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+> Se deja sin efecto la modificación del apartado undécimo.2º por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+
+> Se modifica el apartado undécimo.2º por el art. 8.2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 19, de 22 de enero de 2025. Ref. BOE-A-2025-994
 
