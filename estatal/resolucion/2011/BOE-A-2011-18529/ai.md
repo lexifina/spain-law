@@ -376,11 +376,17 @@ C) Se modifica la denominación de las siguientes cuentas:
 
 5580. Provisiones de fondos pendientes de justificar.
 
+5586. Gastos realizados con provisiones de fondos para pagos a justificar pendientes de justificación.
+
 6625. Intereses de deudas con entidades de crédito en moneda distinta del euro.
 
 6628. Intereses de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
 
 7628. Ingresos de permutas financieras designadas instrumentos de cobertura de pasivos financieros.
+
+> Se modifica la denominación de la cuenta 5586 por el apartado 1.1 de la Resolución de 16 de enero de 2025. Ref. BOE-A-2025-1327
+
+> Esta modificación será de aplicación a las cuentas anuales de la Administración General del Estado, así como de las entidades que se encuentran en el ámbito de aplicación de la Instrucción de Contabilidad para la Administración Institucional del Estado, del ejercicio 2025 y siguientes, según establece la disposición final única de la citada Resolución.
 
 > Se modifica la denominación de las cuentas 114, 1491, 6771, 6951 y 7773 por el art. único.1 de la Resolución de 12 de septiembre de 2023. Ref. BOE-A-2023-19818
 
