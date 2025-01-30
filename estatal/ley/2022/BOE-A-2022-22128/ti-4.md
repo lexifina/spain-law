@@ -2,4 +2,4 @@
 
 ## De las pensiones públicas
 
-> Téngase en cuenta que se deja sin efecto la prórroga para 2025 de la vigencia del presente título y disposiciones adicionales concordantes, así como sus disposiciones de desarrollo, en la forma establecida por la disposición adicional 1 del Real Decreto-ley 9/2024, de 23 de diciembre, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados que lo deroga. Ref. BOE-A-2025-1136
+> Téngase en cuenta que, en tanto se apruebe la Ley de Presupuestos Generales del Estado para el año 2025, el contenido del presente título y las disposiciones adicionales concordantes, así como sus disposiciones de desarrollo, mantendrán su vigencia en 2025, con las modificaciones y excepciones previstas en el título III del Real Decreto-ley 1/2025, de 28 de enero, debiendo entenderse las referencias hechas por dichas normas al año 2023, como realizadas al año 2025, según se establece en la disposición adicional 1 del citado Real Decreto-ley. Ref. BOE-A-2025-1560#da

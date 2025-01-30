@@ -1,0 +1,5 @@
+## Disposición final octava. Facultades de desarrollo.
+
+1. El Gobierno y las personas titulares de los distintos Departamentos ministeriales, en el ámbito de sus respectivas competencias, dictarán las disposiciones necesarias para el desarrollo y la ejecución de lo dispuesto en este real decreto-ley.
+
+2. Salvo lo ya dispuesto en este real decreto-ley respecto a otras autoridades, se faculta a la persona titular de la Secretaría de Estado de Transportes y Movilidad Sostenible para dictar cuantas resoluciones resulten necesarias para la aplicación y ejecución de lo previsto en el título II de este real decreto-ley.
