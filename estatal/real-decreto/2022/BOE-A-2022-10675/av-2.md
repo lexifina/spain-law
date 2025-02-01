@@ -28,4 +28,6 @@ a) Todo el año: 50 metros.
 
 – Zona E. Entre el paralelo de cabo Tortosa (40° 43´2 Norte) y el paralelo de Almenara (39° 44´4 Norte).
 
-a) Todo el año por fuera de las 3 millas náuticas de distancia a la costa, independientemente de los fondos.
+a) Todo el año por fuera de las 3 millas náuticas de distancia a la costa, independientemente de los fondos. Esta excepción no se aplica en las islas Columbretes, donde habrá de respetarse la isóbata de 50 metros, así como la normativa específica que regule y delimite la reserva marina de las islas Columbretes.
+
+> Se modifica la letra a) de la zona E por el art. único.1 de la Orden APA/1513/2024, de 30 de diciembre. Ref. BOE-A-2025-179
