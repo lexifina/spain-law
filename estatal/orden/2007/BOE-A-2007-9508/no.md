@@ -1,0 +1,1 @@
+Esta norma, con efectos de 3 de febrero de 2025, pasa a denominarse: "Orden EHA/1274/2007, de 26 de abril, por la que se aprueba el modelo 036 de Declaración censal de alta, modificación y baja en el Censo de empresarios, profesionales y retenedores.", según establece el art. 1.1 de la Orden HAC/1526/2024, de 11 de diciembre. Ref. BOE-A-2025-410

@@ -2,49 +2,57 @@
 
 ## Declaración censal de alta, modificación y baja en el Censo de Empresarios, Profesionales y Retenedores
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_5.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_6.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_6.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_7.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_7.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_8.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_8.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_9.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_10.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_11.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_12.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_13.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_13.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_14.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_14.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_15.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_15.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_16.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_16.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_17.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_17.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_18.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_18.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_19.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_19.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_20.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_20.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_21.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_21.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/311/26632_13934432_22.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_22.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_23.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/8/410_15138764_24.png)
+
+> Se sustituye por el que figura en el anexo I de la Orden HAC/1526/2024, de 11 de diciembre, según establece su art. 1.7. Ref. BOE-A-2025-410
+
+> Esta modificación entra en vigor el 3 de febrero de 2025 y se aplicará por primera vez al modelo 036 que se presente a partir de dicha fecha, según establece su disposición final única
 
 > Se sustituye por el que figura en el anexo I de la Orden HFP/1397/2023, de 26 de diciembre, según establece su art. 1. Ref. BOE-A-2023-26632
 
