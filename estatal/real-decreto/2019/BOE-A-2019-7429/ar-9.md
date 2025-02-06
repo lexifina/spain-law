@@ -18,11 +18,15 @@ En el caso de que exista sobrante del presupuesto asignado a algún grupo, los f
 
 3. Las cuantías de las ayudas se calcularán de forma proporcional a las puntuaciones obtenidas dentro de cada uno de los grupos de beneficiarios establecidos en el artículo 2.1, y del presupuesto destinado a cada uno de los citados grupos de beneficiarios.
 
+Si tras la distribución de fondos resultara un sobrante en alguno de los grupos, éste se distribuirá entre las entidades beneficiarias de dichos grupos a los que no se les haya concedido la totalidad de lo solicitado y siempre proporcionalmente a los puntos de cada uno.
+
 4. Ninguna entidad podrá solicitar y percibir una subvención que supere el 30 por ciento del presupuesto anual disponible del grupo al que pertenece según el artículo 2.1, sin poder percibir nunca más de lo solicitado.
 
 5. Con el fin de respetar el principio de moderación de costes, las actividades únicamente se subvencionarán hasta los límites recogidos en el anexo I y, en ningún caso superará, los 15.000 euros por acción formativa.
 
 6. En cualesquiera modelos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con el interesado, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN, o las representaciones gráficas que se determinen, conforme al modelo que se establezca en la correspondiente convocatoria.
+
+> Se añade un párrafo final al apartado 3 por el art. único.6 del Real Decreto 71/2025, de 4 de febrero. Ref. BOE-A-2025-2040
 
 > Se modifica por el art. único.7 del Real Decreto 206/2023, de 28 de marzo. Ref. BOE-A-2023-7940
 

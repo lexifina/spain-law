@@ -8,7 +8,7 @@ b) Grupo B. Organizaciones de mujeres rurales de ámbito estatal.
 
 c) Grupo C. Entidades, organizaciones o personas jurídicas, directamente relacionadas con los sectores agrario, ganadero, agroalimentario o forestal sin ánimo de lucro. No podrán tener la condición de beneficiarias las entidades, organizaciones o personas jurídicas cuya única relación con estos sectores sea la formación.
 
-2. El beneficiario de la ayuda será el prestador del servicio.
+2. El beneficiario de la ayuda será el prestador del servicio, salvo para las entidades contempladas en el apartado 1 letras a) y b), en cuyo caso podrán ser prestadores del servicio las asociaciones y organizaciones dependientes o vinculadas por estatutos a las entidades beneficiarias de ámbito estatal.
 
 3. Las entidades beneficiarias deberán cumplir los siguientes requisitos:
 
@@ -18,7 +18,7 @@ b) Tener ámbito de actuación e implantación en todo el territorio nacional, r
 
 c) Recoger explícitamente, entre sus fines estatutarios, al menos la formación y el desarrollo profesional y mejora de la cualificación en el medio rural.
 
-d) No haber recibido del Ministerio de Agricultura, Pesca y Alimentación otras ayudas para estos mismos programas de formación.
+d) No haber recibido del Ministerio de Agricultura, Pesca y Alimentación otras ayudas para estos mismos programas de formación, o para las actividades incluidas en él.
 
 e) Cumplir las obligaciones establecidas al efecto en el artículo 14 de la Ley 38/2003 de 17 de noviembre, General de Subvenciones. No podrán adquirir la condición de beneficiarios quienes incurran en alguna de las circunstancias previstas en los apartados 2 y 3 del artículo 13 de dicha ley.
 
@@ -33,6 +33,8 @@ h) Para las entidades del grupo C, estar constituidas como mínimo dos años ant
 i) Ser prestadoras del servicio directamente o, en caso de las entidades del grupo A y grupo B, a través de sus asociaciones y organizaciones vinculadas por Estatutos.
 
 4. No podrán ser beneficiarias de estas ayudas las asociaciones y organizaciones representativas de sectores agrario, ganadero, agroalimentario o forestal dependientes o vinculadas a las organizaciones profesionales agrarias, de carácter general y de ámbito estatal, que se citan en el apartado 1.a), salvo las que representen a colectivos de mujeres rurales.
+
+> Se modifica el apartado 2 y la letra d) del apartado 3 por el art. único.2 del Real Decreto 71/2025, de 4 de febrero. Ref. BOE-A-2025-2040
 
 > Se modifica por el art. único.1 del Real Decreto 206/2023, de 28 de marzo. Ref. BOE-A-2023-7940
 

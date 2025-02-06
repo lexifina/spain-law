@@ -46,7 +46,7 @@ f) Certificado del representante de la entidad solicitante en el que asume las o
 
 1.º Las ayudas solicitadas y, en su caso, obtenidas, para la misma finalidad, procedentes de las administraciones públicas o de otros entes públicos o privados.
 
-2.º Que la entidad tiene reconocido el derecho de exención del Impuesto sobre el Valor Añadido (IVA) o Impuesto General Indirecto Canario (IGIC) o, en su caso, la última declaración del mismo.
+2.º (Suprimido)
 
 3.º Que la entidad no es deudora por resolución de procedencia de reintegro de subvenciones y se compromete a mantener dicha condición durante el tiempo en que se desarrolle el procedimiento, en cumplimiento del artículo 25 del Reglamento de la Ley 38/2003, de 17 de noviembre.
 
@@ -63,6 +63,8 @@ La presentación de la solicitud de subvención por parte del beneficiario conll
 En el caso de que el beneficiario de la ayuda expresamente se oponga a que se recaben los datos a la Seguridad Social, deberá presentar él mismo la documentación a que se hace referencia y acreditar el cumplimiento del resto de obligaciones con la Seguridad Social según lo dispuesto en el artículo 22 del Reglamento de la Ley 38/2003, de 17 de noviembre.
 
 Asimismo, el órgano gestor comprobará las facultades o poderes de la persona representante de la entidad, salvo oposición expresa del solicitante, en cuyo caso deberá aportar junto con la solicitud la certificación acreditativa de dichas facultades o poderes.
+
+> Se suprime el punto 2º del apartado 4.f) por el art. único.4 del Real Decreto 71/2025, de 4 de febrero. Ref. BOE-A-2025-2040
 
 > Se modifica el punto 6º del apartado 4.b) por la disposición final 1.1 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646
 
