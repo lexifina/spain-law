@@ -16,11 +16,11 @@ RT,n: Retribución a la actividad de transporte prevista para el año n de deter
 
 TSOn: Previsión del resultado de ingresos/pagos resultantes de las conexiones internacionales de electricidad, incluidos los derivados de los mecanismos de asignación de capacidad de intercambio y gestión de congestiones que estén establecidos en la normativa vigente para el año de determinación de los peajes de transporte y distribución.
 
-DT: Desvíos en retribución e ingresos previstos de ejercicios anteriores correspondientes a la actividad de transporte.
+DT: Desvíos en retribución e ingresos de ejercicios anteriores imputables a la actividad de transporte.
 
 El desvío de retribuciones e ingresos de ejercicios anteriores (DT) se calculará conforme a la siguiente fórmula:
 
-DT = DRT ± DICT + DTSO
+DT = DRT ± DICT + DTSO ± LT
 
 Donde:
 
@@ -54,6 +54,8 @@ TSOn-2: Ingresos/pagos resultantes de las conexiones internacionales incluidos l
 
 TSORn-2: Ingresos/pagos resultantes de las conexiones internacionales incluidos los derivados de los mecanismos de asignación de capacidad de intercambio y gestión de congestiones que estén establecidos en la normativa vigente para el año de determinación de los peajes de transporte y distribución reales en el año n-2.
 
+LT: Laminación de desvíos positivos de ejercicios anteriores imputables a la actividad de transporte en el año n.
+
 b) Determinación de la retribución de redes que se debe recuperar a través de los peajes de distribución.
 
 La retribución de distribución que se debe recuperar a través del peaje de distribución de los consumidores se calculará aplicando la siguiente fórmula:
@@ -66,11 +68,11 @@ CDn: Retribución de distribución a recuperar con cargo al peaje de distribuci�
 
 RD,n: Retribución a la actividad de distribución prevista para el año n.
 
-DD: Desvíos de costes e ingresos de ejercicios anteriores correspondientes a la actividad de distribución.
+DD: Desvíos en retribución e ingresos de ejercicios anteriores imputables a la actividad de distribución.
 
 El desvío de retribuciones e ingresos de ejercicios anteriores DD se calculará conforme a la siguiente fórmula:
 
-DD = DRD ± DICD
+DD = DRD ± DICD ± LD
 
 Donde:
 
@@ -87,6 +89,8 @@ RRD,j: Revisión de la retribución de la actividad de distribución reconocida 
 n: Año para el que se calculan los peajes de transporte.
 
 DICD: Diferencia entre los ingresos previstos en el año n-2 y los ingresos por peajes de distribución reales considerados en la Liquidación n.º 14 del ejercicio n-2.
+
+LD: Laminación de desvíos positivos de ejercicios anteriores imputables a la actividad de distribución en el año n.
 
 2. Asignación de la retribución del transporte y la distribución por niveles de tensión tarifarios
 
@@ -309,3 +313,5 @@ Retribución de la red del nivel de tensión tarifario i del periodo horario p q
 Ei,p: Energía consumida prevista del nivel de tensión tarifario i en el periodo horario p.
 
 Si el término de energía del peaje del nivel de tensión tarifario i para un periodo tarifario p no fuera superior al del periodo p+1, se podrá establecer el mismo término de energía para ambos periodos tarifarios, asegurando en todo caso la suficiencia de ingresos.
+
+> Se modifica por el art. único.8 de la Circular 1/2025, de 28 de enero. Ref. BOE-A-2025-2044

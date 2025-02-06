@@ -6,7 +6,7 @@ a) Que el punto de suministro será de utilización exclusiva para la recarga de
 
 b) Que el punto de recarga será de acceso público.
 
-2. Los peajes para recarga de vehículos eléctricos podrán ser de aplicación a aquellos puntos de suministro en redes de tensión inferior a 30 kV y con potencia contratada superior a 15 kW.
+2. Los peajes para recarga de vehículos eléctricos podrán ser de aplicación a aquellos puntos de suministro en redes de tensión inferior a 72,5 kV y con potencia contratada superior a 15 kW.
 
 3. Los peajes de aplicación a los puntos de recarga de vehículo eléctricos de acceso público son los siguientes:
 
@@ -14,12 +14,18 @@ a) Peaje 3.0TDVE de aplicación a puntos de suministro para recarga de vehículo
 
 b) Peaje 6.1TDVE de aplicación a puntos de suministro para recarga de vehículos eléctricos conectados en tensiones superiores a 1 kV e inferiores a 30 kV (nivel de tensión tarifario NT1). Este peaje consta de seis términos de potencia contratada y seis términos de energía consumida. Las potencias contratadas en los diferentes periodos serán tales que la potencia contratada en un periodo Pn+1 sea siempre mayor o igual que la potencia contratada en el periodo anterior Pn.
 
+c) Peaje 6.2TDVE de aplicación a puntos de suministro para la recarga de vehículos eléctricos conectados en tensiones superiores a 30 kV e inferiores a 72,5 kV (nivel de tensión tarifario NT2). Este peaje consta de seis términos de potencia contratada y seis términos de energía consumida. Las potencias contratadas en los diferentes periodos serán tales que la potencia contratada en un periodo Pn+1 sea siempre mayor o igual que la potencia contratada en el periodo anterior Pn.
+
 4. Los peajes para la recarga de vehículo eléctrico se determinarán de la siguiente forma:
 
 a) Los términos de potencia se determinarán de forma que recupere el 20% de la facturación por peajes de transporte y distribución de los correspondientes peajes de acceso establecidos en el artículo 6.2 apartados b) y c) supuesta una utilización del punto del 10%.
 
 b) Los términos de energía se determinarán de forma que recupere el 80% de la facturación por peajes de transporte y distribución de los correspondientes peajes de acceso establecidos en el artículo 6.2 apartados b) y c) supuesta una utilización del punto del 10%.
 
+c) A los peajes para la recarga de vehículos eléctricos les serán de aplicación los mismos términos de facturación por exceso de potencia y energía reactiva, así como los mismos coeficientes de pérdidas que los que se aplican a los correspondientes peajes generales del nivel de tensión al que estén conectados.
+
 5. En el caso de que se detectara que el punto de suministro no es de dedicación exclusiva a la carga de vehículos eléctricos de acceso público, se procederá la refacturación del mismo aplicando los correspondientes peajes de acceso a las redes de transporte y distribución con una penalización del 20%.
 
 6. Este peaje será de aplicación durante el período regulatorio 2020-2025.
+
+> Se modifica el apartado 2 y se añade la letra c) en los apartados 3 y 4 por el art. único.6 de la Circular 1/2025, de 28 de enero. Ref. BOE-A-2025-2044
