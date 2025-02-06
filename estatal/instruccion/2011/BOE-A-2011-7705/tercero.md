@@ -12,7 +12,9 @@
 
 1.ª La concurrencia el día de la elección de eventos familiares de especial relevancia, que resulten inaplazables o en los que el aplazamiento provoque perjuicios económicos importantes, siempre que el interesado sea el protagonista o guarde con éste una relación de parentesco hasta el segundo grado de consanguinidad. En estos casos el interesado no solo deberá acreditar documentalmente la previsión de celebración del evento sino también el carácter inaplazable del mismo o los perjuicios económicos en caso de suspensión.
 
-2.ª La condición de madre o padre de menores de catorce años, cuando se acredite que el otro progenitor no puede ocuparse del menor durante la jornada electoral, careciendo además el interesado de ascendientes o de otros hijos mayores que puedan hacerlo. Estas circunstancias deberán acreditarse documentalmente.
+2.ª La condición de madre o padre de menores de catorce años, cuando se acredite que se trata de una familia monoparental o que el otro progenitor no puede ocuparse del menor durante la jornada electoral. Estas circunstancias deberán acreditarse documentalmente.
+
+> Se modifica la causa 2ª del punto 2 por el apartado primero de la Instrucción 2/2025 de 30 de enero. Ref. BOE-A-2025-2043
 
 > Se modifican las causas 1ª y 2ª del punto 1 por el apartado primero de la Instrucción 7/2023, de 28 de junio. Ref. BOE-A-2023-15138
 
