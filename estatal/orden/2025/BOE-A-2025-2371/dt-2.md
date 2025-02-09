@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Modificación de las titulaciones establecidas en los anexos II y III.
+
+Las posibles modificaciones que, de acuerdo con lo previsto en la disposición final primera, se realicen en los anexos II y III de esta orden a la vista de la aprobación de nuevas titulaciones universitarias de Grado y certificaciones que acrediten el conocimiento de un idioma, en ningún caso afectarán al personal que en ese momento integre las listas de personas aspirantes, que podrá permanecer en las listas correspondientes de las que formen parte siempre que sigan cumpliendo los requisitos de titulación que estaban vigentes cuando accedieron a las mismas.
