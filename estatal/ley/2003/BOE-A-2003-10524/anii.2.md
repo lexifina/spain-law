@@ -6,29 +6,35 @@
 | --- | --- |
 | Por el grupo de población | Por representación |
 | Grupo 1: |  |  |
-| Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo). | 3.147,30 | 3.609,88 |
-| Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo). | 3.147,30 | 2.048,11 |
-| Magistrado de la Audiencia Nacional. | 3.085,61 | 2.015,34 |
-| Magistrados del Gabinete Técnico del Tribunal Supremo. | 3.085,61 | 2.015,34 |
-| Presidente de Tribunal Superior de Justicia. | 3.085,61 | 2.015,34 |
-| Presidentes de Sala y Magistrados del Tribunal Superior de Justicia. | 3.085,61 | 2.015,34 |
-| Presidentes y Magistrados de Audiencia Provincial. | 3.085,61 | 1.948,86 |
-| Jueces Centrales y Magistrados de los órganos unipersonales. | 3.085,61 | 1.292,80 |
+| Presidente de la Audiencia Nacional (no magistrado del Tribunal Supremo). | 3.241,57 | 3.714,25 |
+| Presidente de Sala de la Audiencia Nacional (no magistrado del Tribunal Supremo). | 3.241,57 | 2.105,70 |
+| Magistrado de la Audiencia Nacional. | 3.178,02 | 2.071,95 |
+| Magistrados del Gabinete Técnico del Tribunal Supremo. | 3.178,02 | 2.071,95 |
+| Presidente de Tribunal Superior de Justicia. | 3.178,02 | 2.071,95 |
+| Presidentes de Sala y Magistrados del Tribunal Superior de Justicia. | 3.178,02 | 2.071,95 |
+| Presidentes y Magistrados de Audiencia Provincial. | 3.178,02 | 2.003,49 |
+| Jueces Centrales, Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia. | 3.178,02 | 1.327,69 |
 | Grupo 2: |  |  |
-| Presidente de Tribunal Superior de Justicia. | 3.022,45 | 2.015,34 |
-| Presidentes de Sala y Magistrados del Tribunal Superior de Justicia. | 2.635,56 | 2.015,34 |
-| Presidentes y Magistrados de Audiencia Provincial. | 2.635,56 | 1.948,87 |
-| Magistrados de los órganos unipersonales. | 2.635,56 | 1.292,80 |
+| Presidente de Tribunal Superior de Justicia. | 3.112,98 | 2.071,95 |
+| Presidentes de Sala y Magistrados del Tribunal Superior de Justicia. | 2.714,50 | 2.071,95 |
+| Presidentes y Magistrados de Audiencia Provincial. | 2.714,50 | 2.003,49 |
+| Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia. | 2.714,50 | 1.327,69 |
 | Grupo 3: |  |  |
-| Presidente de Tribunal Superior de Justicia. | 2.962,00 | 2.015,34 |
-| Presidentes de Sala y Magistrados del Tribunal Superior de Justicia. | 2.493,56 | 2.015,34 |
-| Presidentes y Magistrados de Audiencia Provincial. | 2.493,56 | 1.948,87 |
-| Magistrados de los órganos unipersonales. | 2.493,56 | 1.292,80 |
+| Presidente de Tribunal Superior de Justicia. | 3.050,72 | 2.071,95 |
+| Presidentes de Sala y Magistrados del Tribunal Superior de Justicia. | 2.568,25 | 2.071,95 |
+| Presidentes y Magistrados de Audiencia Provincial. | 2.568,25 | 2.003,49 |
+| Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia. | 2.568,25 | 1.327,69 |
 | Grupo 4: |  |  |
-| Presidentes y Magistrados de Audiencia Provincial. | 2.190,68 | 1.948,87 |
-| Magistrados de los órganos unipersonales. | 2.190,68 | 1.292,80 |
+| Presidentes y Magistrados de Audiencia Provincial. | 2.256,29 | 2.003,49 |
+| Magistrados de los órganos unipersonales y Magistrados de los Tribunales de Instancia. | 2.256,29 | 1.327,69 |
 | Grupo 5: |  |  |
-| Jueces. | 2.023,68 | 603,09 |
+| Jueces. | 2.084,29 | 617,32 |
+
+> Se sustituye por el art. único.1 del Real Decreto 85/2025, de 11 de febrero. Ref. BOE-A-2025-2574
+
+> Se modifica, con efectos de 3 de abril de 2025, por la disposición final 13 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-13
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 10, de 11 de enero de 2025. Ref. BOE-A-2025-461
 
 > Se sustituye, con efectos de 1 de enero de 2023, por el que figura en el anexo del Real Decreto 775/2023, de 3 de octubre, según establece su art. único. Ref. BOE-A-2023-20565
 
