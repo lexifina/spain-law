@@ -2,21 +2,19 @@
 
 ## Datos básicos del movimiento a incluir en el Registro Nacional de movimientos de SANDACH
 
-1. Datos del lugar de origen:
+1. Datos del lugar de origen.
 
 a) Nombre del establecimiento.
 
-b) Número de autorización o registro SANDACH de acuerdo con el Real Decreto 1528/2012, de 8 de noviembre; con el Registro General Sanitario de empresas alimentarias y alimentos, de acuerdo con el Real Decreto 191/2011, de 18 de febrero; con el REGA, de acuerdo con el Real Decreto 479/2004, de 26 de marzo, por el que se establece el Registro General de Explotaciones Ganaderas; o con SILUM, de acuerdo con el artículo 4.3 del Real Decreto 821/2008, de 16 de mayo, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de higiene de los piensos y se establece el registro general de establecimientos en el sector de la alimentación animal.
+b) Número de autorización o registro SANDACH.
 
 c) NIF del establecimiento.
 
-d) Dirección.
+d) Dirección y código postal.
 
-e) Código postal.
+e) Actividad.
 
-f) Actividad.
-
-2. Datos de la carga a rellenar en origen:
+2. Datos de la carga a rellenar en origen.
 
 a) Fecha de recogida.
 
@@ -26,21 +24,23 @@ c) Descripción de la mercancía (naturaleza).
 
 d) Categoría.
 
-e) Para subproductos animales de categoría 3 o productos derivados de los mismos destinados a alimentación animal:
+e) Especie o especies animales de procedencia, cuando proceda.
 
-1.º Especie o especies animales de procedencia.
+f) Para subproductos animales de categoría 3 o productos derivados de los mismos destinados a alimentación animal:
 
-2.º Indicar el epígrafe correspondiente según el artículo 10 del Reglamento (CE) n.º 1069/2009.
+1.º Se indicará el epígrafe correspondiente según el artículo 10 del Reglamento (CE) n.º 1069/2009, del Parlamento Europeo y del Consejo, de 21 de octubre.
 
-f) Harinas de carne y hueso de categoría 1 obtenidas a partir de animales sospechosos, confirmados o sacrificados en aplicación de medidas de erradicación de encefalopatías espongiformes transmisibles de los animales de acuerdo con el Reglamento (CE) n.º 999/2001, del Parlamento europeo y del Consejo, de 22 de mayo de 2001, por el que se establecen disposiciones para la prevención, el control y la erradicación de determinadas encefalopatías espongiformes transmisibles.
+2.º Se indicará la información de “destinado a” y la especie genérica cuando proceda.
 
-g) Producto procesado en la planta de origen del envío:
+g) Harinas de carne y hueso de categoría 1 obtenidas a partir de animales sospechosos, confirmados o sacrificados en aplicación de medidas de erradicación de encefalopatías espongiformes transmisibles de los animales de acuerdo con el Reglamento (CE) n.º 999/2001, del Parlamento europeo y del Consejo, de 22 de mayo de 2001, por el que se establecen disposiciones para la prevención, el control y la erradicación de determinadas encefalopatías espongiformes transmisibles.
 
-1. Tratamiento.
+h) Producto procesado en la planta de origen del envío:
 
-2. Marcado con GTH si son categoría C1, o C2.
+1.º Tratamiento.
 
-h) Peso estimado (o volumen).
+2.º Marcado con GTH si son categoría C1, o C2.
+
+i) Peso (o volumen).
 
 3. Datos del transporte:
 
@@ -50,23 +50,23 @@ b) Nombre del transportista.
 
 c) NIF.
 
-d) Dirección.
+d) Dirección y código postal.
 
-e) Código postal.
+e) Matrícula del vehículo, remolque o número de identificación de los contenedores.
 
-f) Matrícula del vehículo, remolque o número de identificación de los contenedores.
+f) Tipo de medio de transporte (autopropulsado, remolque o contenedor).
+
+g) Tipo de movimiento: movimiento interno, transporte europeo o transporte a la Península (en caso de movimientos con origen en las islas Canarias o Baleares).
 
 4. Lugar de destino:
 
-a) Número de autorización o registro (SANDACH, RGSEEA, REGA o SILUM).
+a) Número de autorización o registro.
 
 b) Nombre del establecimiento.
 
-c) Dirección.
+c) Dirección y Código Postal.
 
-e) Código postal.
-
-f) Actividad.
+d) Actividad.
 
 5. Datos de la carga a rellenar en destino:
 
@@ -81,5 +81,7 @@ a) Fecha de recepción.
 b) Cantidad recibida (peso).
 
 c) Identificación individual de cada animal en el caso de ganado vacuno.
+
+> Se sustituye por el art. 2.5 del Real Decreto 70/2025, de 4 de febrero. Ref. BOE-A-2025-3185
 
 > Se añade el apartado 6 por el art. 4.3 del Real Decreto 198/2017, de 3 de marzo. Ref. BOE-A-2017-2780.

@@ -1,99 +1,99 @@
 ## ANEXO I
 
-## Contenido del Registro de establecimientos, plantas y explotadores
+## Contenido del Registro general de establecimientos, plantas y explotadores
 
 1. Contenido obligatorio común
 
-Los datos básicos que las autoridades competentes incluirán como mínimo en el registro para cada establecimiento, planta o explotador, serán los siguientes:
+Los datos básicos que las autoridades competentes incluirán, como mínimo, en el registro para cada establecimiento, planta o explotador, serán los siguientes:
 
 a) Nombre del establecimiento, planta o explotador.
 
-b) Titular del establecimiento: persona física o jurídica o entidad sin personalidad jurídica propietaria del establecimiento, cuyos datos se protegerán conforme a lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. Los datos básicos a recoger serán:
+b) Titular del establecimiento: persona física o jurídica o entidad sin personalidad jurídica responsable del establecimiento o planta. Los datos básicos a recoger serán:
 
-– Apellidos y nombre, o razón social.
+1.º Apellidos y nombre, o razón social.
 
-– NIF.
+2.º NIF.
 
-Además, si se trata de personas jurídicas o entes sin personalidad jurídica, se registraran los apellidos, nombre y NIF del representante o responsable.
+c) Domicilio del establecimiento:
 
-c) Domicilio del establecimiento.
+1.º Dirección.
 
-– Dirección.
+2.º Municipio.
 
-– Municipio.
+3.º Código postal.
 
-– Código Postal.
+4.º Provincia.
 
-– Provincia.
+5.º Comunidad autónoma o ciudades de Ceuta o Melilla.
 
-– Comunidad autónoma o ciudades de Ceuta o Melilla.
+d) Correo electrónico.
 
-d) Teléfono de contacto.
+e) Coordenadas geográficas correspondientes al acceso principal, excepto en el caso de explotadores que ejerzan exclusivamente la actividad de transportista. Será la autoridad competente la que asigne dicha ubicación.
 
-e) Código SANDACH (o en su lugar, otro código oficial asignado según otra legislación comunitaria).
+f) Código oficial: código SANDACH u otros códigos asignados conforme a normativa, según los casos.
 
-f) Código local, si procede: Es el código asignado por la comunidad autónoma o ciudades de Ceuta o Melilla a un establecimiento, planta o explotador anteriormente a su inscripción en el registro general, y que se mantendrá para facilitar la funcionalidad de consulta de la aplicación.
+g) Fecha de registro o, en su caso, autorización, estado actual del registro o, en su caso, de la autorización (alta, baja, inactivo), fecha en que se ha producido el último cambio en el estado del registro o la autorización y motivo del mismo.
 
-g) Órgano administrativo de la comunidad autónoma o ciudades de Ceuta o Melilla responsable de la autorización correspondiente.
+h) Tipo/s o sección/es del explotador.
 
-h) Fecha de registro o en su caso autorización, estado actual del registro o en su caso de la autorización (alta, baja, inactivo), fecha en que se ha producido el último cambio en el estado del registro o la autorización y motivo del mismo.
+i) Actividad/es del explotador.
 
-i) Tipo de establecimiento, de acuerdo con las especificaciones técnicas para el formato de las listas de establecimientos, plantas y operadores autorizados o registrados, que manipulan subproductos animales, elaboradas por la Comisión Europea1.
+j) Producto/s o naturaleza/s asociadas al explotador.
 
-j) Código de Actividad, de acuerdo con las especificaciones técnicas para el formato de las listas de establecimientos, plantas y operadores autorizados o registrados, que manipulan subproductos animales, elaboradas por la Comisión Europea1.
+k) Categoría/s para las que se ha autorizado el explotador.
 
-k) Código de tipo de producto, de acuerdo con las especificaciones técnicas para el formato de las listas de establecimientos, plantas y operadores autorizados o registrados, que manipulan subproductos animales, elaboradas por la Comisión Europea1.
+2. Contenido obligatorio adicional para determinados establecimientos y plantas
 
-1 «Technical specifications for the format for the lists of approved or registered establishments, plants or operators handling animal by-products inside the European Union and in third countries».
+a) Método de transformación: este dato se incluirá sólo en los casos en que sea procedente, y será coherente con el tipo de establecimiento y categoría para la que haya obtenido autorización, pudiendo tener autorizado más de un método de transformación.
 
-(http://ec.europa.eu/food/food/biosafety/establishments/animal_byproducts_en.htm).
+b) Capacidad de transformación: este dato se incluirá sólo en los casos en que sea procedente, y será coherente con el tipo de establecimiento.
 
-2. Contenido obligatorio adicional para establecimientos y plantas
+c) Especie de la materia prima: este dato se incluirá sólo en los casos en que sea procedente, y será coherente con el tipo de establecimiento y categoría para la que haya obtenido autorización.
 
-l) Método de transformación: Procedimiento o procedimientos para los que un establecimiento determinado ha obtenido autorización. Este dato se incluirá sólo en los casos en que sea procedente, y será coherente con el tipo de establecimiento y categoría para la que haya obtenido autorización.
+d) Autorizado solo en el mercado nacional: este dato se incluirá sólo en los casos en que sea procedente, y será coherente con el tipo de establecimiento.
 
-m) Categoría o categorías para las que se ha autorizado el establecimiento SANDACH,
+e) Contenedores de la hidrólisis con eliminación posterior: este dato se incluirá sólo en los casos en que sea procedente, y será coherente con el tipo de establecimiento.
 
-3. Contenido obligatorio adicional para los operadores que ejerzan la actividad de transportista, ya sea de manera independiente, como actividad secundaria o como comerciantes
+3. Contenido obligatorio adicional para los explotadores que ejerzan la actividad de transportista, ya sea de manera independiente o como actividad secundaria
 
-n) Flota de transporte: los datos a registrar por cada uno de los vehículos o contenedores utilizados para transporte de SANDACH son:
+Los datos a registrar por cada uno de los medios de transporte utilizados para transporte de SANDACH son:
 
-– Tipo de medio de transporte.
+a) Tipo de vehículo:
 
-i. Autopropulsado
+a. Propio.
 
-ii. Remolques.
+b. Asociado.
 
-iii. Contenedores.
+b) Tipo de medio de transporte:
 
-– Número de identificación, que será, para vehículos y remolques, la matrícula o el número de bastidor (en caso de no tener matrícula); y para los contenedores un número asignado por la empresa que permita identificarlos individualmente y de forma indeleble.
+a. Autopropulsado.
 
-– Categoría o categorías de SANDACH para cuyo transporte están registrados.
+b. Remolques.
 
-4. Contenido complementario optativo.
+c. Contenedores.
 
-a) Correo electrónico.
+c) Número de identificación, que será, para autopropulsados y remolques la matrícula o el número de bastidor (en caso de no tener matrícula); y para los contenedores, un número asignado por la empresa que permita identificarlos individualmente y de forma indeleble.
 
-b) Fax.
+d) Categoría o categorías de SANDACH para cuyo transporte están registrados.
 
-c) Coordenadas geográficas correspondientes al acceso principal. Será la autoridad competente la que asigne dicha ubicación
+e) Código de producto (naturaleza) que puede transportar el vehículo, remolque o contenedor registrado.
 
-d) Fecha de la última renovación de la autorización.
+f) Fecha de registro del vehículo: fecha en la que la autoridad competente autoriza el vehículo para el transporte de subproductos, productos derivados y/o cadáveres. Sólo para los vehículos propios.
 
-e) Fecha en que caduca la autorización vigente.
+4. Contenido complementario optativo para establecimientos o plantas y transportistas
 
-f) Inspecciones oficiales: se registrará:
+a) Teléfono.
 
-• Motivo
+b) Inspecciones oficiales. Se registrará:
 
-• Autoridad competente que ha realizado la inspección.
+a. Motivo.
 
-• Fecha.
+b. Autoridad competente que ha realizado la inspección.
 
-• Observaciones.
+c. Fecha.
 
-g) Especie o especies animales de origen de la materia prima.
+d. Observaciones.
 
-h) Capacidad de transformación: (plantas de transformación) Estimación de la cantidad máxima de materia prima (SANDACH) que puede transformar la planta cada día, expresada en Tm/hora.
+c) Observaciones.
 
-i) Conductores: Por cada conductor se registrará su nombre y número de permiso de conducción en vigor.
+> Se sustituye por el art. 1.3 del Real Decreto 70/2025, de 4 de febrero. Ref. BOE-A-2025-3185
