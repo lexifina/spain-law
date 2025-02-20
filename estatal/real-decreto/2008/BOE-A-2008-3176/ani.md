@@ -116,9 +116,7 @@ Enfermería Pediátrica.
 
 5. Especialidades multidisciplinares para cuyo acceso se exige estar en posesión de los títulos universitarios oficiales de Grado, o en su caso de Licenciado, en cada uno de los ámbitos que a continuación se especifican:
 
-Análisis Clínicos: Biología, Bioquímica, Farmacia, Medicina o Química.
-
-Bioquímica Clínica: Biología, Bioquímica, Farmacia, Medicina o Química.
+Laboratorio Clínico: Biología, Bioquímica, Farmacia, Medicina o Química.
 
 Inmunología: Biología, Bioquímica, Farmacia o Medicina.
 
@@ -127,6 +125,8 @@ Microbiología y Parasitología: Biología, Bioquímica, Farmacia, Medicina o Qu
 Radiofarmacia: Biología, Bioquímica, Farmacia o Química.
 
 Radiofísica Hospitalaria: Física y otras disciplinas científicas y tecnológicas.
+
+> Se modifica el apartado 1 por la disposición final 2 del Real Decreto 101/2025, de 18 de febrero. Ref. BOE-A-2025-3189#df-2
 
 > Se modifica el apartado 1 por la disposición final 2 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418
 
