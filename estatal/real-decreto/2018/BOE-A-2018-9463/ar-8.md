@@ -12,4 +12,10 @@
 
 6. El Ministerio de Agricultura, Pesca y Alimentación podrá aprobar las modificaciones de las especificaciones técnicas de un método de clasificación automatizada siempre que tales modificaciones permitan obtener al menos el mismo grado de precisión que el alcanzado en el ensayo de certificación.
 
-7. Los establecimientos que empleen dispositivos de clasificación automatizada deberán realizar informes de control diarios sobre el funcionamiento de las técnicas de clasificación automatizada registrando, en particular, las deficiencias observadas y las medidas que, en caso necesario, se hayan adoptado.
+7. Los establecimientos que empleen dispositivos de clasificación automatizada deberán realizar informes de control diarios sobre el funcionamiento de las técnicas de clasificación automatizada, registrando, en particular, las deficiencias observadas y las medidas que, en caso necesario, se hayan adoptado.
+
+El Ministerio de Agricultura, Pesca y Alimentación podrá declarar caducada la autorización a la que se refiere al apartado 3 si de los informes de control del matadero o de autoridades competentes de las comunidades autónomas se desprende un desuso prolongado en el tiempo, de modo que no pueda continuar empleándose, previo informe de la Mesa de Coordinación de Clasificación de Canales y Precios.
+
+El Ministerio de Agricultura, Pesca y Alimentación podrá revocar la autorización a la que se refiere al apartado 3 si de los informes de control del matadero o de autoridades competentes de las comunidades autónomas se desprende un uso incoherente con las condiciones bajo las que fue concedida la autorización, de modo que no pueda continuar empleándose, previo informe de la Mesa de Coordinación de Clasificación de Canales y Precios y previa audiencia del titular.
+
+> Se modifica el apartado 7 por el art. 2.4 del Real Decreto 88/2025, de 11 de febrero. Ref. BOE-A-2025-3417
