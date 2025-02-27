@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Uniformidad de los militares que tengan la condición de militar en suspenso.
+
+De conformidad con lo dispuesto en el artículo 24 de la Ley Orgánica 9/2011, de 27 de julio, de derechos y deberes de los miembros de las Fuerzas Armadas, los militares que se encuentren en las situaciones administrativas en las que tengan suspendida su condición militar sólo podrán vestir el uniforme en actos militares y sociales solemnes o cuando se les autorice expresamente para ello en sus relaciones con las Fuerzas Armadas y siempre que no estén ejerciendo cargos electos de representación política.
