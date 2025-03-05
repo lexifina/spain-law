@@ -2,6 +2,8 @@
 
 ## Aportaciones al Fondo Nacional de Eficiencia Energética en el año 2022
 
+> Véase el apartado quinto de la Orden TED/197/2025, de 26 de febrero, por la que se procede a corregir la consideración de determinadas empresas como sujetos obligados en el ejercicio 2022 y se establece el procedimiento para la devolución de los cobros indebidos. Ref. BOE-A-2025-4261
+
 | Tipo de sujeto | CIF | OBS | Razon social | Ventas 2020 (GWh) | Obligación de ahorro (GWh) | Importe económico equivalente a la obligación de ahorro 2022 (€) | Ajustes Ventas (GWh) | Importe económico equivalente a la obligación de ahorro 2022 con ajustes (€) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | ee | B87086989 | 1 | 24-7 UTILITIES, SLU. | 7,457436 | 0,014377 | 1.972,09 € |  | 1.972,09 € |
