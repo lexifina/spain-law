@@ -1,0 +1,5 @@
+## Disposición final tercera. Ámbito de aplicación.
+
+El presente real decreto resulta de aplicación a las subvenciones y ayudas concedidas por la Administración General del Estado y sus organismos vinculados o dependientes en el ámbito de la cooperación para el desarrollo sostenible y la solidaridad global ya se articulen mediante apoyos presupuestarios generales, apoyos presupuestarios sectoriales, fondos globales, fondos comunes, cooperación delegada o triangular, o cualquier otro recogido en la Ley 1/2023, de 20 de febrero, ya se concedan en régimen de concurrencia competitiva o de concesión directa.
+
+No obstante, los preceptos de este real decreto son de aplicación al resto de administraciones públicas, así como a sus entidades vinculadas o dependientes, de acuerdo con su carácter supletorio o básico, a excepción del artículo 33.1.a), referido a actuaciones en materia de política exterior del Gobierno, que será de aplicación exclusiva a las subvenciones y ayudas de cooperación para el desarrollo sostenible concedidas en el ámbito de la Administración General del Estado.
