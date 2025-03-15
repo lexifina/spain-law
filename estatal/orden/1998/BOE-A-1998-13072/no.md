@@ -1,1 +1,3 @@
+Téngase en cuenta que todas las referencias realizadas a las «entidades de crédito» en la presente Orden, deberán considerarse efectuadas a los «proveedores de servicios de pago» contemplados en los puntos a), b) y c) del artículo 5 del Real Decreto-ley 19/2018, de 23 de noviembre, de servicios de pago y otras medidas urgentes en materia financiera, así como al Banco de España, en su condición de entidad colaboradora en la gestión recaudatoria estatal, según establece la disposición adicional única de la Orden HAC/241/2025, de 10 de marzo. Ref. BOE-A-2025-5048
+
 > Incluye la corrección de errores publicada en BOE núm. 152, de 26 de junio de 1998. Ref. BOE-A-1998-15135.

@@ -2,18 +2,9 @@
 
 ## MODELOS DE AUTOLIQUIDACIÓN CUYO RESULTADO SEA UNA SOLICITUD DE DEVOLUCIÓN Y GESTIONABLES A TRAVÉS DE ENTIDADES COLABORADORAS
 
-| Modelo | Denominación | Periodos ingreso |
-| --- | --- | --- |
-| 100 | Devolución IRPF ordinario y borrador | 0A |
-| 150 | Devolución IRPF régimen especial aplicable a los trabajadores desplazados a territorio español | 0A |
-| 151 | Declaración del Impuesto sobre la Renta de las Personas Físicas. Régimen especial aplicable a los trabajadores desplazados a territorio español. | 0A |
-| 200 | Devolución Impuesto sobre Sociedades. | 0A |
-| 206 | Devolución Impuesto Renta no Residentes (establecimiento permanente) | 0A |
-| 303 | Devolución IVA. Autoliquidación | 4T |
-| 308 | Devolución IVA Régimen especial recargo de equivalencia, art. 30 bis RIVA y sujetos pasivos ocasionales | M-T-0A |
-| 311 | (Suprimido) |  |
-| 371 | (Suprimido) |  |
-| 695 | Tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil, contencioso-administrativo y social. Solicitud de devolución por solución extrajudicial del litigio y por acumulación de procesos. | 0A |
+(Suprimido)
+
+> Se suprime por el art. 1.13 de la Orden HAC/241/2025, de 10 de marzo. Ref. BOE-A-2025-5048
 
 > Se añade el modelo 151 por la disposición final 3.2 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
 

@@ -50,19 +50,16 @@ Longitud de registro: 300.
 | PERÍODO. | 2 posiciones alfanuméricas. |
 | JUSTIFICANTE. | 13 posiciones numéricas. |
 | IMPORTE A PAGAR. | 13 posiciones numéricas (11 enteros y 2 decimales). |
-| IMPORTE TOTAL DECLARACIÓN (*). | 13 posiciones numéricas(11 enteros y 2 decimales). |
-| OPCIÓN FRACCIONAMIENTO (*). | 1 posición numérica (1=no fracciona, 2=fracciona y no domicilia, 3= fracciona y domicilia 2.º plazo). |
+| IMPORTE TOTAL DECLARACIÓN1. | 13 posiciones numéricas (11 enteros y 2 decimales). |
+| OPCIÓN FRACCIONAMIENTO1. | 1 posición numérica (1=no fracciona, 2=fracciona y no domicilia, 3= fracciona y domicilia 2.º plazo). |
 | CÓDIGO CUENTA CARGO (CCC). | 20 posiciones numéricas. |
-| NIF PRESENTADOR/ASESOR. | 9 posiciones alfanuméricas (irá relleno a blancos). |
-| NOMBRE/RAZÓN SOCIAL PRESENTADOR. | 40 posiciones alfanuméricas (irá relleno a blancos). |
-| FORMA DE PAGO (**). | 1 posición numérica (0=cargo CCC obligado tributario; 1=cargo CCC presentador/asesor). |
+| NIF ALTERNATIVO. | 9 posiciones alfanuméricas (irá relleno a blancos salvo en modelos donde el titular pueda ser diferente del contribuyente). |
+| NOMBRE/RAZÓN SOCIAL DE NIF ALTERNATIVO. | 40 posiciones alfanuméricas (irá relleno a blancos salvo en modelos donde el titular pueda ser diferente del contribuyente). |
+| FORMA DE PAGO. | 1 posición numérica (Valor = 0). |
 | IBAN. | 4 posiciones alfanuméricas. |
 | NRC PREGENERADO INTERNAMENTE POR LA AEAT. | 22 posiciones alfanuméricas. |
 | LIBRE. | 47 posiciones alfanuméricas. |
-
-(*) Campos que únicamente tienen contenido cuando el modelo sea el 100 (Impuesto sobre la Renta de las Personas Físicas. Declaración anual o borrador de declaración).
-
-(**) Tendrá el valor "0" mientras no se autorice expresamente la domiciliación en cuentas que no sean de titularidad del obligado al pago.
+| 1 Campos que únicamente tienen contenido cuando el modelo sea el 100 (Impuesto sobre la Renta de las Personas Físicas. Declaración anual o borrador de declaración). |
 
 5. Fin entidad colaboradora y vencimiento.
 
@@ -90,6 +87,8 @@ Longitud de registro: 300.
 | NÚMERO ENTIDADES COLABORADORAS. | 2 posiciones numéricas. |
 | NÚMERO TOTAL REGISTROS. | 9 posiciones numéricas (Registros tipos 1, 2, 3, 4, 5, 6 y 7). |
 | LIBRE. | 284 posiciones alfanuméricas. |
+
+> Se modifica el apartado 4 por el art. 2.5 de la Orden HAC/241/2025, de 10 de marzo. Ref. BOE-A-2025-5048
 
 > Se modifica por el art. 2.2 de la Orden HFP/915/2021, de 1 de septiembre. Ref. BOE-A-2021-14453#as
 

@@ -51,11 +51,13 @@ Subbloque de información de la operación de adeudo directo
 | /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/DtOfSgntr | Alfanumérico (10). YYYY-MM-DD. | Fecha de firma del mandato. Se corresponde con la fecha de presentación de la autoliquidación. | 2022-07-20 |
 | /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/DrctDbtTx/MndtRltdInf/AmdmntInd | Alfanumérico (5). false. | Indicador de si se ha producido modificación de mandato, siempre tomará el valor false en las domiciliaciones de autoliquidaciones. | false |
 | /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/DbtrAgt/FinInstnId/Othr/Id | Alfanumérico (35). Valor fijo. | – | NOTPROVIDED |
-| /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/Dbtr/Nm | Alfanumérico (70). | Nombre/razón social del deudor. | DEUDOR PRUEBA UNO |
+| /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/Dbtr/Nm | Alfanumérico (70). | Nombre / razón social del deudor. | DEUDOR PRUEBA UNO |
 | /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/Dbtr/PstlAdr/Ctry | Alfanumérico (2). ISO 3166-1 alfa-2. | País del deudor. Dato obligatorio únicamente cuando la entidad bancaria del deudor resida en un país de zona SEPA fuera del Espacio Económico Europeo. | DE |
-| /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/Dbtr/PstlAdr/AdrLine | Alfanumérico (70). | Dirección del deudor. Dato opcional. Podrá aportarse más de un nodo AdrLine. | DIRECCIÓN DEL DEUDOR |
+| /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/Dbtr/PstlAdr/AdrLine | Alfanumérico (70). | Dirección d.el deudor. Dato obligatorio únicamente cuando la entidad bancaria del deudor resida en un país de zona SEPA fuera del Espacio Económico Europeo. Podrá aportarse más de un nodo AdrLine. | DIRECCIÓN DEL DEUDOR |
 | /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/DbtrAcct/Id/IBAN | Alfanumérico (34). | IBAN de la cuenta del deudor. | – |
 | /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/Purp/Cd | Alfanumérico (4). Valor fijo. | – | OTHR |
 | /Document/CstmrDrctDbtInitn/PmtInf/DrctDbtTxInf/RmtInf/Ustrd | Alfanumérico (140). | Concepto: Información que opcionalmente remite el acreedor al deudor para permitirle conciliar el pago con la información comercial del mismo. Conformado por el número de justificante de la autoliquidación. | 9992581426877 |
+
+> Se modifica el "Subbloque de información de la operación de adeudo directo" por el art. 2.6 de la Orden HAC/241/2025, de 10 de marzo. Ref. BOE-A-2025-5048
 
 > Se añade por el art. único.7 de la Orden HFP/387/2023, de 18 de abril de 2023. Ref. BOE-A-2023-9704
