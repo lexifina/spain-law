@@ -1,0 +1,5 @@
+## Disposición adicional duodécima. Alcance de las decisiones de la Administración General del Estado sobre la capacidad de los sistemas de protección y tutela de personas menores de edad extranjeras no acompañadas.
+
+Sin perjuicio de lo establecido en la disposición adicional undécima para el año 2025 y su prórroga, no podrá acordarse por la Administración General del Estado sin el Acuerdo unánime de la Conferencia Sectorial de Infancia y Adolescencia la reubicación obligatoria de personas menores de edad extranjeras no acompañadas procedentes de otra comunidad o ciudad autónoma en su territorio, ni atribuirse de manera obligatoria la atención o tutela de las mismas a aquellas comunidades y ciudades autónomas que acrediten la ocupación efectiva de un número de plazas de acogida de personas menores de edad, ya sean extranjeras o no, por encima de la media del total de las plazas existentes en el conjunto del Estado por cada 100.000 habitantes.
+
+> Se añade por el art. único.7 del Real Decreto-ley 2/2025, de 18 de marzo. Ref. BOE-A-2025-5404
