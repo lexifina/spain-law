@@ -1,18 +1,16 @@
 ## ANEXO I
 
-## Formato electrónico
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/67/5407_15452496_1.png)
 
-(Parte 1)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/67/5407_15452496_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/67/5407_15452496_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/67/5407_15452496_4.png)
 
-(Parte 2)
+> Se sustituye por el que figura como anexo I de la Orden HAC/262/2025, de 13 de marzo, según establece su art. único.1. Ref. BOE-A-2025-5407
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_3.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/77/8120_13009510_4.png)
+> Téngase en cuenta que el nuevo modelo 202 será aplicable por primera vez para las autoliquidaciones de pagos fraccionados, cuyo plazo de presentación comienza en abril de 2025, según establece su disposición final única.
 
 > Se sustituye por el art. único.1 de la Orden HFP/312/2023, de 28 de marzo, en la forma recogida en su anexo I. Ref. BOE-A-2023-8120
 
