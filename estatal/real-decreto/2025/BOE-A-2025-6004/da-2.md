@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Parámetros de información de servicio de la televisión digital terrestre.
+
+La llevanza del Registro de parámetros de información de servicio de la televisión digital terrestre creado por la Orden ITC/2212/2007, de 12 de julio, por la que se establecen obligaciones y requisitos para los gestores de múltiples digitales de la televisión digital terrestre y por la que se crea y regula el registro de parámetros de información de los servicios de televisión digital terrestre, así como la gestión y asignación de parámetros corresponderá a la Comisión Nacional de los Mercados y la Competencia, de acuerdo con lo establecido en el apartado 4 de la disposición adicional séptima de la Ley 11/2022, de 28 de junio, General de Telecomunicaciones.

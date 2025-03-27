@@ -1,3 +1,5 @@
 ## Disposición adicional primera. Definiciones.
 
-A los efectos de este real decreto y del Plan técnico nacional de la televisión digital terrestre que se aprueba, los términos definidos en el anexo IV del Plan Técnico TDT tendrán el significado que allí se les asigna.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 250/2025, de 25 de marzo. Ref. BOE-A-2025-6004#dd

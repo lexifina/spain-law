@@ -1,0 +1,3 @@
+## Disposición adicional primera. Autorización para resolver sobre ajustes y adaptaciones técnicas.
+
+Se autoriza a la persona titular de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales para resolver sobre los ajustes o adaptaciones técnicas, incluido el cambio de canales radioeléctricos, derivados de la coordinación internacional, por motivos de alcanzar una mayor eficiencia en el uso del espectro radioeléctrico o para resolver los problemas de compatibilidad radioeléctrica, en particular, los que se pudieran producir durante la puesta en servicio de las estaciones emisoras.

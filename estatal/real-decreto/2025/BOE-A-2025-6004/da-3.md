@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Información al usuario de los servicios de televisión digital terrestre en ultra alta definición.
+
+Las entidades habilitadas para la prestación de servicios de televisión digital terrestre solo podrán señalizar en pantalla que un programa de televisión está siendo emitido en ultra alta definición, con independencia del símbolo representativo o logotipo utilizado, en especial, con las siglas UHD, cuando su emisión cumpla las especificaciones técnicas establecidas en el artículo 11, sin perjuicio de que su contenido pueda estar conformado parcialmente con programas o fragmentos de contenidos que no hayan sido producidos con dichas características.

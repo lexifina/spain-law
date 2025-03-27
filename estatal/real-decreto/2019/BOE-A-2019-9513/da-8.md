@@ -1,3 +1,5 @@
 ## Disposición adicional octava. Autorización para resolver sobre ajustes y adaptaciones técnicas.
 
-Se autoriza a la Secretaría de Estado para el Avance Digital para resolver sobre los ajustes o adaptaciones técnicas, incluido el cambio de canales radioeléctricos, derivados de la coordinación internacional, por motivos de alcanzar una mayor eficiencia en el uso del espectro radioeléctrico o para resolver los problemas de compatibilidad radioeléctrica, en particular, los que se pudieran producir durante la puesta en servicio de las estaciones emisoras o para facilitar la difusión simultánea de canales de televisión al objeto de facilitar la adaptación de las instalaciones de recepción de señales de televisión en los casos en que sea necesario.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.1 del Real Decreto 250/2025, de 25 de marzo. Ref. BOE-A-2025-6004#dd
