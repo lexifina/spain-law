@@ -10,7 +10,7 @@ a) Vehículos nuevos, entendiendo como tales aquellos procedentes de fábrica, y
 
 b) Vehículos seminuevos, entendiendo como tales los que estuvieran previamente en posesión de un concesionario y matriculados en España a su nombre con fecha posterior al 30 de octubre de 2021.
 
-En ambos casos, la fecha de factura de la compraventa del vehículo objeto de la subvención deberá ser igual o posterior al 30 de octubre de 2024. El pago del importe del vehículo por parte del beneficiario de la subvención, incluido el abono, en su caso, de posibles cantidades a cuenta o bajo cualquier otro concepto, deberá ser realizado igualmente en, o con posterioridad, a dicha fecha.
+En ambos casos, la factura de la compraventa del vehículo objeto de la subvención deberá ser de fecha 30 de octubre de 2024 o posterior. El pago del importe del vehículo por parte del beneficiario de la subvención, o por parte de otro u otros en su nombre, incluido el abono, en su caso, de posibles cantidades a cuenta o bajo cualquier otro concepto, deberá haber sido realizado igualmente fecha dicha fecha o con posterioridad a la misma.
 
 3. Las categorías elegibles de los vehículos nuevos y seminuevos, serán las siguientes:
 
@@ -45,3 +45,7 @@ Vehículos seminuevos
 5. A las cuantías anteriormente indicadas se les aplicará una ayuda adicional en función de los siguientes criterios:
 
 a) Beneficiarios con movilidad reducida. Para los casos de adquisición de vehículos de categoría M1 y N1 por personas físicas con movilidad reducida y vehículo adaptado o que se adapte para su conducción, siempre que la adaptación conste en la ficha técnica del vehículo adquirido, se incrementará la cuantía de la ayuda en un importe de 1.000 euros y en el resto de categorías 500 euros.
+
+> Se modifica el apartado 2 por el art. único.3 de la Orden ITU/306/2025, de 26 de marzo. Ref. BOE-A-2025-6377
+
+> Esta modificación será de aplicación a las solicitudes presentadas desde el momento de la presentación inicial previsto en el art. 6 del presente Real Decreto-ley hasta el 1 de abril de 2025, según establece la disposición final única de la citada Orden.

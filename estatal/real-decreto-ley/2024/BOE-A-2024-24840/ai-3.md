@@ -10,21 +10,21 @@ b) Copia del Permiso de Circulación del vehículo adquirido emitido por la Dire
 
 c) Copia de la Tarjeta de Inspecciones periódicas actualizada, en su caso.
 
-d) Copia de la factura de venta del vehículo, debiendo ser la fecha de la misma igual o posterior al 30 de octubre de 2024. No serán admisibles las autofacturas.
+d) Copia de la factura de venta del vehículo, cuya fecha deberá ser de 30 de octubre de 2024 o posterior. No serán admisibles las autofacturas.
 
 La factura deberá reflejar el descuento en el precio de adquisición por la cuantía de la ayuda a la que se refiere el anexo que le sea de aplicación a la convocatoria, realizada por el concesionario en el momento de realizar la venta del vehículo. Se deberá detallar en la factura el descuento con el concepto «descuento Plan REINICIA AUTO +».
 
-En la factura, que deberá estar firmada y sellada por el concesionario, deberá constar la matrícula o número de bastidor, marca, modelo y versión del vehículo adquirido. Asimismo, deberá constar el precio franco fábrica, otros costes, otros posibles descuentos, base imponible, IVA o IGIC aplicable, precio después de impuestos, y Total a Pagar o Total Factura a pagar por el beneficiario adquirente.
+En la factura deberá constar la matrícula o número de bastidor, marca, modelo y versión del vehículo adquirido. Asimismo, deberá constar el precio franco fábrica, otros costes, otros posibles descuentos, base imponible, IVA o IGIC aplicable, precio después de impuestos, y Total a Pagar o Total Factura a pagar por el beneficiario adquirente.
 
-En todo caso, la factura de venta deberá cumplir con lo dispuesto por el reglamento por el que se regulan las obligaciones de facturación, aprobado por el artículo 1 del Real Decreto 1619/2012, de 30 de noviembre, por el que se aprueba el reglamento por el que se regulan las obligaciones de facturación.
+En todo caso, la factura de venta deberá cumplir con lo dispuesto en el Real Decreto 1619/2012, de 30 de noviembre, por el que se aprueba el reglamento por el que se regulan las obligaciones de facturación.
 
 e) Documentos justificativos del pago de la factura de compraventa del vehículo:
 
 Se admitirán todos los justificantes de pago que permitan identificar al vehículo objeto de la subvención. Se considerarán válidos aquellos justificantes de pago que permitan identificar:
 
-i. Al beneficiario: debe quedar claro que el único pagador es el destinatario final de la ayuda.
+i. Al beneficiario: Con independencia de quién sea el pagador, debe justificarse que el pago se hace en nombre del beneficiario.
 
-ii. Al tercero (punto de venta acreditado) que percibe las cantidades pagadas.
+ii. Al tercero (punto de venta acreditado) que percibe las cantidades pagadas. Tales terceros no serán beneficiarios. Las relaciones entre beneficiario y tercero pagador se consideran privadas, siendo la Administración estatal ajena a las mismas, y sin que pueda ser destinataria de reclamaciones de tales terceros por los pagos o ayudas que por este programa se concedan al beneficiario.
 
 iii. La fecha de pago (fecha valor) o salida efectiva de los fondos del destinatario último de la ayuda.
 
@@ -35,3 +35,7 @@ Según se establece en el artículo 7 de la Ley 7/2012, de 29 de octubre, de mod
 f) En las solicitudes realizadas para los solicitantes que hubieran formalizado una compra antes de la fecha de entrada en vigor de este real decreto ley, se les requerirá aportar un justificante bancario de la transferencia del concesionario por el importe de la ayuda resuelta en el plazo de 30 días tras la resolución.
 
 2. La presentación de la documentación justificativa referida en los apartados precedentes no obsta a la aplicación de controles ulteriores para verificar la efectiva existencia y condiciones concretas de la adquisición objeto de la ayuda.
+
+> Se modifica las letras d) y e) del apartado 1 por el art. único.5 de la Orden ITU/306/2025, de 26 de marzo. Ref. BOE-A-2025-6377
+
+> Esta modificación será de aplicación a las solicitudes presentadas desde el momento de la presentación inicial previsto en el art. 6 del presente Real Decreto-ley hasta el 1 de abril de 2025, según establece la disposición final única de la citada Orden.
