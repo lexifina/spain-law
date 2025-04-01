@@ -407,17 +407,39 @@ Se reflejará la clave del código de epígrafe de los productos objeto de los I
 
 Dato obligatorio.
 
-Se indicará el código NC correspondiente al producto objeto del movimiento contable establecido en el Reglamento (CEE) n.º 2658/1987, de 23 de julio, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común, de conformidad con la redacción vigente del anexo.
+Se indicará el código NC correspondiente al producto objeto del movimiento contable establecido en el Reglamento (CEE) número 2658/1987, de 23 de julio, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común, de conformidad con redacción vigente del anexo.
 
-En el caso de productos incluidos en el ámbito objetivo del Impuesto sobre el Alcohol y Bebidas Derivadas y del Impuesto sobre Hidrocarburos, se indicará el código NC a nivel de ocho dígitos.
+En el caso de productos incluidos en el ámbito objetivo del Impuesto sobre el Alcohol y Bebidas Derivadas y del Impuesto sobre Hidrocarburos, se indicará el Código NC a nivel de ocho dígitos.
 
-En el caso de productos incluidos en el ámbito objetivo del Impuesto sobre el Vino y Bebidas Fermentadas y del Impuesto sobre Productos Intermedios se indicará el código NC con el nivel de dígitos recogidos, respectivamente, en los artículos 27 y 31 de la Ley de Impuestos Especiales.
+En el caso de productos incluidos en el ámbito objetivo de los Impuestos sobre el Vino y Bebidas Fermentadas y del Impuesto sobre Productos Intermedios se indicará el Código NC con el nivel de dígitos recogidos, respectivamente, en los artículos 27 y 31 de la Ley de Impuestos Especiales.
 
-En los productos incluidos en el ámbito objetivo del Impuesto sobre la Cerveza y del Impuesto sobre las Labores del Tabaco se indicará el código NC a nivel de cuatro dígitos.
+En los productos incluidos en el ámbito objetivo del Impuesto sobre la Cerveza y del Impuesto sobre las Labores del Tabaco se indicará el Código NC a nivel de cuatro dígitos.
+
+En el caso de los productos incluidos en el ámbito objetivo del Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco se indicará el Código NC a nivel de ocho dígitos.
 
 En el caso de productos no incluidos en el ámbito objetivo de los Impuestos Especiales de fabricación, se indicará el código NC al menos a nivel de cuatro dígitos.
 
-Cuando en los establecimientos que operen en el ámbito de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas el asiento contable se refiera a productos con un mismo epígrafe y código de epígrafe, distintos códigos NC y una única referencia de producto definida en el apartado 9.8 del anexo de esta orden, se indicará esta circunstancia cumplimentando el código «VARIOS».
+Cuando en los establecimientos que operen en el ámbito de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas el asiento contable se refiera a productos con un mismo epígrafe y código de epígrafe, distintos códigos NC y una única referencia de producto definida en el apartado 9.8 del anexo de esta orden, se indicará esta circunstancia cumplimentando el código “varios”.
+
+> Téngase en cuenta que esta actualización del punto 9.3, establecida por la disposición final 6.2 de la Orden HAC/86/2025, de 13 de enero de 2025. Ref. BOE-A-2025-1732, entra en vigor el 1 de abril de 2025, según establece su disposición final 8.
+
+> Redacción anterior:
+
+> "9.3 Código NC.
+
+> Dato obligatorio.
+
+> Se indicará el código NC correspondiente al producto objeto del movimiento contable establecido en el Reglamento (CEE) n.º 2658/1987, de 23 de julio, relativo a la nomenclatura arancelaria y estadística y al arancel aduanero común, de conformidad con la redacción vigente del anexo.
+
+> En el caso de productos incluidos en el ámbito objetivo del Impuesto sobre el Alcohol y Bebidas Derivadas y del Impuesto sobre Hidrocarburos, se indicará el código NC a nivel de ocho dígitos.
+
+> En el caso de productos incluidos en el ámbito objetivo del Impuesto sobre el Vino y Bebidas Fermentadas y del Impuesto sobre Productos Intermedios se indicará el código NC con el nivel de dígitos recogidos, respectivamente, en los artículos 27 y 31 de la Ley de Impuestos Especiales.
+
+> En los productos incluidos en el ámbito objetivo del Impuesto sobre la Cerveza y del Impuesto sobre las Labores del Tabaco se indicará el código NC a nivel de cuatro dígitos.
+
+> En el caso de productos no incluidos en el ámbito objetivo de los Impuestos Especiales de fabricación, se indicará el código NC al menos a nivel de cuatro dígitos.
+
+> Cuando en los establecimientos que operen en el ámbito de los Impuestos Especiales sobre el alcohol y bebidas alcohólicas el asiento contable se refiera a productos con un mismo epígrafe y código de epígrafe, distintos códigos NC y una única referencia de producto definida en el apartado 9.8 del anexo de esta orden, se indicará esta circunstancia cumplimentando el código «VARIOS»".
 
 9.4 Clave.
 
@@ -669,5 +691,7 @@ La información de existencias contables se pondrá a disposición de los titula
 – De forma mensual, informando de las existencias resultantes de los asientos suministrados en cada mes natural, una vez finalizado el plazo de suministro de los asientos contables correspondientes al período mensual al que se refiera la información.
 
 – De forma anual, informando de las existencias resultantes de los asientos suministrados en el total del ejercicio contable, una vez finalizado éste y comunicado el cierre del mismo.
+
+> Se modifica el apartado II.9.3, con efectos desde el 1 de abril de 2025, por la disposición final 6.2 de la Orden HAC/86/2025, de 13 de enero de 2025. Ref. BOE-A-2025-1732
 
 > Se sustituye por el que figura como anexo de la Orden HAC/1505/2024, de 26 de diciembre, según establece su art. único.10. Ref. BOE-A-2024-27529

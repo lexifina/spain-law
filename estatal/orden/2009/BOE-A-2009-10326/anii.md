@@ -46,6 +46,7 @@
 | 563 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 564 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 566 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
+| 573 | Plazo: el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda. |
 | 581 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 582 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 583 | Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero. Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre. |
@@ -69,6 +70,10 @@
 (**) Solo cuando el periodo impositivo finalice el día 31 de diciembre.
 
 (***) Sólo cuando el periodo sea trimestral.
+
+> Téngase en cuenta que el modelo 573, añadido por la disposición final 3.2 de la Orden HAC/86/2025, de 13 de enero, Ref. BOE-A-2025-1732, entra en vigor el 1 de abril de 2025, según establece su disposición final 8.
+
+> Se añade el modelo 573, con efectos de 1 de abril de 2025, por la disposición final 3.2 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732
 
 > Se modifica el modelo 210 por el art. 5 de la Orden HAC/56/2024, de 25 de enero. Ref. BOE-A-2024-1772
 

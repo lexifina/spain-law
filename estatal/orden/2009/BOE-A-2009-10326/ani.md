@@ -41,6 +41,7 @@
 | 562 | Impuesto sobre Productos Intermedios. Declaración-liquidación. |
 | 563 | Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración-liquidación. |
 | 566 | Impuesto sobre las Labores del Tabaco. Declaración-liquidación. |
+| 573 | Impuesto sobre Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco. Autoliquidación. |
 | 581 | Impuesto sobre Hidrocarburos: Declaración-liquidación. |
 | 582 | Impuesto sobre Hidrocarburos: Regularización por reexpedición de productos a otra Comunidad Autónoma. |
 | 583 | Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación y Pagos Fraccionados. |
@@ -64,6 +65,10 @@
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
 
 (***) Sólo cuando el periodo sea trimestral.
+
+> Téngase en cuenta que el modelo 573, añadido por la disposición final 3.1 de la Orden HAC/86/2025, de 13 de enero, Ref. BOE-A-2025-1732, entra en vigor el 1 de abril de 2025, según establece su disposición final 8.
+
+> Se añade el modelo 573, con efectos de 1 de abril de 2025, por la disposición final 3.1 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732
 
 > Se añade el modelo 718 por la disposición final 2.1 de la Orden HFP/587/2023, de 9 de junio. Ref. BOE-A-2023-13800
 

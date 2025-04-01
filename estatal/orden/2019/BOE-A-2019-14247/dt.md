@@ -8,4 +8,6 @@ A estos efectos, se entenderá que llevan íntegramente su contabilidad reglamen
 
 3. Los establecimientos obligados a la llevanza de la contabilidad a través de la sede electrónica de la Agencia Estatal de Administración Tributaria que se acojan a lo dispuesto en el apartado 1 anterior, podrán ejercer la opción prevista en el artículo 6 de esta orden hasta el 30 de septiembre de 2020.
 
+> Téngase en cuenta, en relación con la obligación de suministro de asientos contables correspondientes al primer semestre de 2025, lo previsto en la disposición final 6.3 de la Orden HAC/86/2025, de 13 de enero, Ref. BOE-A-2025-1732, y en la disposición transitoria única de la Orden HAC/1505/2024, de 26 de diciembre. Ref. BOE-A-2024-27529
+
 > Se modifica por el art. único de la Orden HAC/566/2020, de 12 de junio. Ref. BOE-A-2020-6744#au

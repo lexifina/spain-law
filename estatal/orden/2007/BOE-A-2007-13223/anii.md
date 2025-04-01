@@ -22,6 +22,7 @@
 | 564 | IMPUESTO SOBRE HIDROCARBUROS | M |
 | 566 | IMPUESTO SOBRE LAS LABORES DEL TABACO | M |
 | 569 | I. VENTAS MINORISTAS DE HIDROCARBUROS | T |
+| 573 | IMPUESTO SOBRE LÍQUIDOS PARA CIGARRILLOS ELECTRÓNICOS Y OTROS PRODUCTOS RELACIONADOS CON EL TABACO. AUTOLIQUIDACIÓN | M |
 | 581 | IMPUESTO SOBRE HIDROCARBUROS | M |
 | 582 | IMPUESTO SOBRE HIDROCARBUROS. REGULARIZACIÓN POR REEXPEDICIÓN DE PRODUCTOS A OTRA COMUNIDAD AUTÓNOMA | T |
 | 583 | IMPUESTO SOBRE EL VALOR DE LA PRODUCCIÓN DE LA ENERGÍA ELÉCTRICA. AUTOLIQUIDACIÓN Y PAGOS FRACCIONADOS | T-0A |
@@ -33,6 +34,10 @@
 | 593 | IMPUESTO SOBRE EL DEPÓSITO DE RESIDUOS EN VERTEDEROS, LA INCINERACIÓN Y LA COINCINERACIÓN DE RESIDUOS. AUTOLIQUIDACIÓN | T |
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Téngase en cuenta que el modelo 573, añadido por la disposición final 2 de la Orden HAC/86/2025, de 13 de enero, Ref. BOE-A-2025-1732, entra en vigor el 1 de abril de 2025, según establece su disposición final 8.
+
+> Se añade el modelo 573, con efectos de 1 de abril de 2025, por la disposición final 2 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732
 
 > Se añaden los modelos 592 y 593 por las disposiciones finales 2 de las Órdenes; HFP/1314/2022, de 28 de diciembre. Ref. BOE-A-2022-23749 y HFP/1337/2022, de 28 de diciembre. Ref. BOE-A-2022-24387
 
