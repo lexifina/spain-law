@@ -10,7 +10,9 @@ c) Dos Vocales representantes del Ministerio de Agricultura, Pesca y Alimentaci�
 
 d) Dos Vocales, uno de la Dirección General de Seguros y otro del Consorcio de Compensación de Seguros, en representación del Ministerio de Economía y Hacienda.
 
-e) Cuatro Vocales representantes de las organizaciones profesionales agrarias y de las organizaciones de las cooperativas agrarias, de ámbito estatal.
+e) Un vocal en representación de las organizaciones de las cooperativas agrarias de ámbito estatal.
+
+e bis) Un vocal por cada una de las organizaciones profesionales agrarias declaradas más representativas en el ámbito estatal.
 
 f) Cuatro Vocales, de participación rotatoria anual, representantes de las Comunidades Autónomas elegidas, conforme al criterio que se establezca por la Conferencia Sectorial de Agricultura, de entre aquéllas que decidan integrarse en la Comisión.
 
@@ -23,3 +25,5 @@ El Secretario será el Secretario general de la Entidad y podrá intervenir en l
 A las reuniones asistirán, únicamente, los miembros específicamente designados, pudiendo ser sustituidos por los suplentes nombrados al efecto.
 
 En caso de vacante, ausencia o enfermedad, las funciones de Secretario serán realizadas por un funcionario de ENESA, nombrado por el Presidente, con rango, al menos, de Jefe de Servicio.
+
+> Se modifica la letra e) y se añade la letra e bis) por la disposición final 2 de la Ley 1/2025, de 1 de abril. Ref. BOE-A-2025-6597#df-2
