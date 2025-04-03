@@ -1,0 +1,3 @@
+## Disposición transitoria primera. No exigibilidad transitoria del impuesto complementario para los grupos multinacionales y los grupos nacionales de gran magnitud.
+
+A efectos de lo dispuesto en la disposición transitoria tercera, apartado 4, de la Ley del Impuesto, el periodo de cinco años a que se refiere el apartado 2 dicha disposición transitoria tercera empezará a contar a partir del inicio del primer período impositivo en el que la regla de beneficios insuficientemente gravados resulte exigible, tomando en consideración lo dispuesto en la disposición final vigésima segunda y en la disposición transitoria sexta, ambas de la Ley del Impuesto.
