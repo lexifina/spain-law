@@ -14,6 +14,14 @@ Presentada la demanda, acompañada de la acreditación del requerimiento fehacie
 
 Si la sentencia fuese estimatoria podrá disponer, además de la cesación definitiva de la actividad prohibida y la indemnización de daños y perjuicios que proceda, la privación del derecho al uso de la vivienda o local por tiempo no superior a tres años, en función de la gravedad de la infracción y de los perjuicios ocasionados a la comunidad. Si el infractor no fuese el propietario, la sentencia podrá declarar extinguidos definitivamente todos sus derechos relativos a la vivienda o local, así como su inmediato lanzamiento.
 
+3. El propietario de cada vivienda que quiera realizar el ejercicio de la actividad a que se refiere la letra e) del artículo 5 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, en los términos establecidos en la normativa sectorial turística, deberá obtener previamente la aprobación expresa de la comunidad de propietarios, en los términos establecidos en el apartado 12 del artículo diecisiete de esta Ley.
+
+El presidente de la comunidad, a iniciativa propia o de cualquiera de los propietarios u ocupantes, requerirá a quien realice la actividad del apartado anterior, sin que haya sido aprobada expresamente, la inmediata cesación de las mismas, bajo apercibimiento de iniciar las acciones judiciales procedentes, siendo de aplicación lo dispuesto en el apartado anterior.
+
+> Téngase en cuenta que este apartado 3, añadido por la disposición final 4.1 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-4, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
+
+> Se añade el apartado 3, con efectos de 3 de abril de 2025 por la disposición final 1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-4
+
 > Se modifica el párrafo tercero del apartado 2 por la disposición final 1 de la Ley 1/2000, de 7 de enero. Ref. BOE-A-2000-323
 
 > Se modifica por el art. 4 de la Ley 8/1999, de 6 de abril. Ref. BOE-A-1999-7858

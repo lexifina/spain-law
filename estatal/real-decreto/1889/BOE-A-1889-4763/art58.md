@@ -1,12 +1,14 @@
 ## Artículo 58.
 
-El Juez de Paz, Alcalde, Concejal, Secretario judicial, Notario o funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consiente en contraer matrimonio con el otro y si efectivamente lo contrae en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá el acta o autorizará la escritura correspondiente.
+El Alcalde, Concejal, letrado o letrada de la Administración de Justicia, notario o notaria, o personal funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consiente en contraer matrimonio con el otro y si efectivamente lo contrae en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá el acta o autorizará la escritura correspondiente.
 
-> Téngase en cuenta que la redacción de este artículo, establecida por la disposición final 1.11 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfprimera entra en vigor en la fecha de la completa entrada en vigor de la Ley 20/2011, de 21 de julio, del Registro Civil Ref. BOE-A-2011-12628#dfdecima, según establece la disposición final 21.3 de la Ley 15/2015, en la redacción dada por la Ley 4/2017, de 28 de junio. Ref. BOE-A-2017-7483
+> Téngase en cuenta que este precepto, modificado por la disposición final 2.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-2, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1.
 
 > Redacción anterior:
 
-> "El Juez, Alcalde o funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consienten en contraer matrimonio con el otro y si efectivamente lo contraen en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá la inscripción o el acta correspondiente."
+> "El Juez de Paz, Alcalde, Concejal, Secretario judicial, Notario o funcionario, después de leídos los artículos 66, 67 y 68, preguntará a cada uno de los contrayentes si consiente en contraer matrimonio con el otro y si efectivamente lo contrae en dicho acto y, respondiendo ambos afirmativamente, declarará que los mismos quedan unidos en matrimonio y extenderá el acta o autorizará la escritura correspondiente."
+
+> Se modifica, con efectos de 3 de abril de 2025, por la disposición final 2.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-2
 
 > Se modifica por la disposición final 1.11 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfprimera.
 

@@ -28,7 +28,15 @@ l) Las Fiscalías Provinciales.
 
 m) Las Fiscalías de Área.
 
-n) La Unidad de Supervisión y Control de Protección de Datos.
+n) La Unidad de Protección de Datos del Ministerio Fiscal
+
+> Téngase en cuenta que esta letra n), modificada por la disposición final 5.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
+
+> Redacción anterior:
+
+> "n) La Unidad de Supervisión y Control de Protección de Datos."
+
+> Se modifica la letra n), con efectos de 3 de abril de 2025, por la disposición final 5.1 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
 
 > Se añade la letra n) por la disposición final 2.1 de la Ley Orgánica 7/2021, de 26 de mayo. Ref. BOE-A-2021-8806#df-2
 

@@ -12,7 +12,13 @@ Cinco. El Fiscal Jefe de cada órgano ejercerá la dirección de éste y actuar�
 
 Corresponde a los Fiscales Jefes de cada órgano:
 
-a) Organizar los servicios y la distribución del trabajo entre los Fiscales de la plantilla y la adscripción de los componentes de la Sección de Menores, oída la Junta de Fiscalía.
+a) Organizar los servicios y la distribución del trabajo entre los Fiscales de la plantilla y la adscripción de los componentes de la Sección de Menores, oída la Junta de Fiscalía. Será preciso pertenecer a la categoría segunda para intervenir en los procedimientos ante el tribunal de jurado o para realizar funciones de visado.
+
+> Téngase en cuenta que la esta letra a), modificada por la disposición final 5.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1
+
+> Redacción anterior:
+
+> "a) Organizar los servicios y la distribución del trabajo entre los Fiscales de la plantilla y la adscripción de los componentes de la Sección de Menores, oída la Junta de Fiscalía."
 
 b) Conceder los permisos y licencias de su competencia.
 
@@ -33,6 +39,8 @@ Ocho. Los Fiscales Jefes de las Fiscalías de Área estarán jerárquicamente su
 Nueve. Los Fiscales Decanos ejercerán la dirección y coordinación de las Secciones de Fiscalía de acuerdo con las instrucciones del Fiscal Jefe Provincial y, en su caso, del Fiscal superior de la Comunidad Autónoma, y por delegación de éstos.
 
 Diez. El Teniente Fiscal de la Fiscalía Provincial, los Fiscales Jefes de Área y los Fiscales Decanos integran la Junta de Coordinación de la Fiscalía Provincial, que será convocada periódicamente y dirigida por el Fiscal Jefe Provincial, con el fin de coordinar la dirección del Ministerio Fiscal en su ámbito territorial.
+
+> Se modifica la letra a) del apartado 5, con efectos de 3 de abril de 2025, por la disposición final 5.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
 
 > Se modifican los apartados 3 a 5 y se añaden los apartados 6 a 10 por el art. único.17 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 

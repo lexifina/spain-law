@@ -54,5 +54,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición adicional tercera](da.md)
+- [Disposición transitoria única](dt.md)
 - [Disposición derogatoria única](ddunica.md)
 - [firma](firma.md)

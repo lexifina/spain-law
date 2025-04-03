@@ -30,9 +30,17 @@ j) Informar los proyectos de ley o normas reglamentarias que afecten a la estruc
 
 k) Dirigir al Fiscal General del Estado cuantas peticiones y solicitudes relativas a su competencia se consideren oportunas.
 
-l) Nombrar por mayoría absoluta a la persona titular de la Unidad de Supervisión y Control de Protección de Datos.
+l) (Suprimida).
+
+> Téngase en cuenta que la supresión de esta letra l) por la disposición final 5.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1.
+
+> Redacción anterior:
+
+> "l) Nombrar por mayoría absoluta a la persona titular de la Unidad de Supervisión y Control de Protección de Datos."
 
 Habrá de integrarse en el seno del Consejo Fiscal una Comisión de Igualdad para el estudio de la mejora de los parámetros de igualdad en la carrera fiscal, cuya composición quedará determinada en la normativa que rige la constitución y funcionamiento del Consejo Fiscal.
+
+> Se suprime la letra l) del apartado 4, con efectos de 3 de abril de 2025, por la disposición final 5.2 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
 
 > Se modifica el apartado 1 por el art. 4 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#ac
 

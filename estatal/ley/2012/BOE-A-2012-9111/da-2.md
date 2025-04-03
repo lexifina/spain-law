@@ -1,0 +1,13 @@
+## Disposición adicional segunda. Plazo para el ejercicio de acciones de invalidez de los contratos suscritos desde el 5 de enero de 1999 mediante los que se hayan transmitido o comercializado derechos regidos con arreglo a regímenes jurídicos preexistentes a la Ley 42/1998, de 15 de diciembre, sobre derechos de aprovechamiento por turno de bienes inmuebles de uso turístico y normas tributarias, y de los contratos mediante los que se hayan transmitido o comercializado derechos sujetos a la misma, cuando dichas acciones estén fundadas en el carácter determinable o flotante de los derechos adquiridos.
+
+1. El plazo de prescripción para el ejercicio de cualesquiera acciones dirigidas a la declaración de invalidez de los contratos suscritos desde el 5 de enero de 1999 mediante los que se hayan transmitido o comercializado derechos regidos con arreglo a regímenes jurídicos preexistentes a la Ley 42/1998, de 15 de diciembre, cuando dichas acciones estén fundadas en la contravención de normas imperativas contenidas en dicha norma, será de cinco años a contar desde la entrada en vigor de esta disposición.
+
+2. El plazo de prescripción al que se refiere el apartado anterior será también de aplicación al ejercicio de cualesquiera acciones que se dirijan a la declaración de invalidez de los contratos mediante los que se hayan transmitido o comercializado derechos sujetos a la Ley 42/1998 de 15 de diciembre, cuando dichas acciones estén fundadas en el carácter determinable o flotante de los derechos adquiridos.
+
+3. La declaración de invalidez conllevará la devolución al adquirente o cesionario del precio de compra satisfecho, así como a la indemnización de los daños y perjuicios sufridos, en la medida en que estas cantidades excedan del coste asociado a cualquier uso que hubiera efectuado de los derechos y de las prestaciones de las que hubiera podido disfrutar en virtud del contrato, calculado atendiendo al valor de mercado en que se estime dicho uso.
+
+4. Transcurrido el plazo de ejercicio de las acciones, se entenderán convalidados los contratos a los que se refiere la presente disposición, rigiéndose por los términos que resulten del régimen inscrito o publicado en el Registro de la Propiedad o del título constitutivo.
+
+> Téngase en cuenta que esta disposición, añadida por la disposición final 19.4 de la Ley Orgánica 1/2025, de 2 de enero, Ref. BOE-A-2025-76#df-19, entra en vigor el 3 de abril de 2025, según determina su disposición final 38.1
+
+> Se añade, con efectos de 3 de abril de 2025, por la disposición final 19.4 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-19

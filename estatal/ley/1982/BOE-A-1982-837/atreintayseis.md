@@ -1,6 +1,12 @@
 ## Artículo treinta y seis
 
-Uno. Sin perjuicio de lo dispuesto en el apartado Tres de este artículo, los destinos correspondientes a la categoría primera, los de Fiscales del Tribunal Supremo, los de Fiscales Superiores de Comunidades Autónomas y los de Fiscales Jefes se proveerán por el Gobierno, a propuesta del Fiscal General del Estado, de acuerdo con lo previsto en el artículo 13 de este Estatuto. De igual modo serán designados los Tenientes Fiscales de las Fiscalías de las Comunidades Autónomas y los Fiscales que integren la plantilla de todos aquellos órganos cuyo jefe pertenezca a la categoría primera. Cuando los Estatutos de Autonomía prevean la existencia del Consejo de Justicia de la Comunidad Autónoma, éste será oído necesariamente con carácter previo al nombramiento del Fiscal Superior de la Comunidad Autónoma.
+Sin perjuicio de lo dispuesto en el apartado tres de este artículo, los destinos correspondientes a la categoría primera, el de Fiscal responsable de la Unidad de Protección de Datos, los de Fiscales del Tribunal Supremo, los de Fiscales Superiores de comunidades autónomas y los de Fiscales Jefes se proveerán por el Gobierno, a propuesta del Fiscal General del Estado, de acuerdo con lo previsto en el artículo 13 de este Estatuto. De igual modo serán designados los Tenientes Fiscales de las Fiscalías de las comunidades autónomas y los Fiscales que integren la plantilla de todos aquellos órganos cuyo jefe pertenezca a la categoría primera. Cuando los Estatutos de Autonomía prevean la existencia del Consejo de Justicia de la comunidad autónoma, éste será oído necesariamente con carácter previo al nombramiento del Fiscal Superior de la comunidad autónoma.
+
+> Téngase en cuenta que la éste párrafo 1 del apartado 1, modificado por la disposición final 5.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1
+
+> Redacción anterior:
+
+> "Uno. Sin perjuicio de lo dispuesto en el apartado Tres de este artículo, los destinos correspondientes a la categoría primera, los de Fiscales del Tribunal Supremo, los de Fiscales Superiores de Comunidades Autónomas y los de Fiscales Jefes se proveerán por el Gobierno, a propuesta del Fiscal General del Estado, de acuerdo con lo previsto en el artículo 13 de este Estatuto. De igual modo serán designados los Tenientes Fiscales de las Fiscalías de las Comunidades Autónomas y los Fiscales que integren la plantilla de todos aquellos órganos cuyo jefe pertenezca a la categoría primera. Cuando los Estatutos de Autonomía prevean la existencia del Consejo de Justicia de la Comunidad Autónoma, éste será oído necesariamente con carácter previo al nombramiento del Fiscal Superior de la Comunidad Autónoma."
 
 Recibido el informe del Consejo de Justicia de la Comunidad Autónoma, se comunicará la propuesta de candidato a la respectiva Asamblea Legislativa autonómica, a fin de que pueda disponer la comparecencia de la persona propuesta ante la Comisión correspondiente de la Cámara, en los términos que prevea su reglamento, a los efectos de que pueda valorar los méritos e idoneidad del candidato propuesto.
 
@@ -29,6 +35,8 @@ Seis. Para la provisión de plazas en las Fiscalías con sede en Comunidades Aut
 Se valorará, como mérito preferente, con arreglo a los criterios que reglamentariamente se establezcan, el conocimiento del Derecho propio de la Comunidad.
 
 Siete. La provisión de destinos de la Fiscalía Jurídico Militar se llevará a cabo con arreglo a lo dispuesto en la Ley Orgánica reguladora de la Competencia y Organización de la Jurisdicción Militar.
+
+> Se modifica el párrafo 1 del apartado 1, con efectos de 3 de abril de 2025, por la disposición final 5.5 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
 
 > Se modifica por el art. único.28 de la Ley 24/2007, de 9 de octubre. Ref. BOE-A-2007-17769
 

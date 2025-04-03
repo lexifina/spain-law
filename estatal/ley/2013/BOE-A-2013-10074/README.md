@@ -141,6 +141,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional vigésima](da-4.md)
 - [Disposición adicional vigésima primera](da-5.md)
 - [Disposición transitoria](dt.md)
+- [Disposición transitoria primera](dt-2.md)
+- [Disposición transitoria segunda](dt-3.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

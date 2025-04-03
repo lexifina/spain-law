@@ -2,17 +2,27 @@
 
 Uno. En la Fiscalía General del Estado existirá un Fiscal contra la Violencia sobre la Mujer, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
 
-a) Practicar las diligencias a que se refiere el artículo Cinco del Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial.
+a) Practicar las diligencias a que se refiere el artículo Cinco de este Estatuto, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género y de violencia sexual comprendidos en el artículo 89.5 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
 
 b) Intervenir, por delegación del Fiscal General del Estado, en los procesos civiles comprendidos en el artículo 87 ter.2 de la Ley Orgánica del Poder Judicial.
 
 c) Supervisar y coordinar la actuación de las Secciones contra la Violencia sobre la Mujer, y recabar informes de las mismas, dando conocimiento al Fiscal Jefe de las Fiscalías en que se integren.
 
-d) Coordinar los criterios de actuación de las diversas Fiscalías en materias de violencia de género, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
+d) Coordinar los criterios de actuación de las diversas Fiscalías en materias de violencia de género y violencia sexual, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
 
-e) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género.
+e) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género y violencia sexual.
 
 Para su adecuada actuación se le adscribirán los profesionales y expertos que sean necesarios para auxiliarlo de manera permanente u ocasional.
+
+> Téngase en cuenta que la modificación de las letras a), d) y e), del apartado 1, por la disposición final 5.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de octubre de 2025 según determina su disposición final 38.3
+
+> Redacción anterior:
+
+> "a) Practicar las diligencias a que se refiere el artículo Cinco del Estatuto Orgánico del Ministerio Fiscal, e intervenir directamente en aquellos procesos penales de especial trascendencia apreciada por el Fiscal General del Estado, referentes a los delitos por actos de violencia de género comprendidos en el artículo 87 ter.1 de la Ley Orgánica del Poder Judicial...
+
+> ...d) Coordinar los criterios de actuación de las diversas Fiscalías en materias de violencia de género, para lo cual podrá proponer al Fiscal General del Estado la emisión de las correspondientes instrucciones.
+
+> e) Elaborar semestralmente, y presentar al Fiscal General del Estado, para su remisión a la Junta de Fiscales de Sala del Tribunal Supremo, y al Consejo Fiscal, un informe sobre los procedimientos seguidos y actuaciones practicadas por el Ministerio Fiscal en materia de violencia de género..."
 
 Dos. En la Fiscalía General del Estado existirá un Fiscal contra los delitos relativos a la ordenación del territorio y la protección del patrimonio histórico, del medio ambiente e incendios forestales, con categoría de Fiscal de Sala, que ejercerá las siguientes funciones:
 
@@ -58,17 +68,25 @@ g) Elaborar anualmente y presentar a la persona titular de la Fiscalía General 
 
 Tres. Igualmente existirán, en la Fiscalía General del Estado, Fiscales de Sala Especialistas responsables de la coordinación y supervisión de la actividad del Ministerio Fiscal en materia de protección y reforma de menores, y en aquellas otras materias en que el Gobierno, a propuesta del Ministro de Justicia, oído el Fiscal General del Estado, y previo informe, en todo caso, del Consejo Fiscal, aprecie la necesidad de creación de dichas plazas. Los referidos Fiscales de Sala tendrán facultades y ejercerán funciones análogas a las previstas en los apartados anteriores de este artículo, en el ámbito de su respectiva especialidad, así como las que en su caso pueda delegarles el Fiscal General del Estado, todo ello sin perjuicio de las atribuciones de los Fiscales Jefes de los respectivos órganos territoriales.
 
-Cuatro. En la Fiscalía General del Estado, de igual modo, existirá la Unidad de Supervisión y Control de Protección de Datos que ejercerá las competencias que corresponden a la autoridad de protección de datos con fines jurisdiccionales sobre el tratamiento de los mismos realizado por el Ministerio Fiscal, de acuerdo con lo establecido en el artículo 236 octies de la Ley Orgánica del Poder Judicial en el ámbito de sus competencias y facultades. Su regulación se remitirá a los términos previstos en la Ley Orgánica del Poder Judicial en cuanto le sea de aplicación.
+Cuatro. En la Fiscalía General del Estado, de igual modo, existirá la Unidad de Protección de Datos que, respecto del tratamiento de datos con fines jurisdiccionales realizado por el Ministerio Fiscal, ejercerá con plena independencia y neutralidad las competencias y facultades que por la normativa de protección de datos corresponden a la autoridad de control de acuerdo con lo establecido en el artículo 236 octies de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y asumirá la condición de Delegado de Protección de Datos, en relación con el tratamiento de datos con fines no jurisdiccionales, una vez sea designado como tal por el Fiscal General del Estado. La Unidad de Protección de Datos deberá tener garantizada la dotación de los recursos necesarios para el adecuado desempeño de sus funciones. Su composición, organización y funcionamiento serán regulados reglamentariamente»
 
-Al frente de la Unidad de Supervisión y Control de Protección de Datos se nombrará por mayoría absoluta del Pleno del Consejo Fiscal una persona titular de la Unidad, de entre juristas de reconocida competencia con al menos quince años de ejercicio profesional y con conocimientos y experiencia acreditados en materia de protección de datos.
+> Téngase en cuenta que este apartado 4, modificado por la disposición final 5.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5, entra en vigor el 3 de abril de 2025 según determina su disposición final 38.1
 
-La duración del mandato de la persona titular de la Unidad de Supervisión y Control de Protección de Datos será de cinco años, no renovable. Durante su mandato permanecerá, en su caso, en situación de servicios especiales y ejercerá exclusivamente las funciones inherentes a su cargo. Sólo podrá ser cesada por incapacidad o incumplimiento grave de sus deberes, apreciados por el Pleno mediante mayoría absoluta.
+> Redacción anterior:
 
-El régimen de incompatibilidades de la persona titular de la Unidad de Supervisión y Control de Protección de Datos será el mismo que el establecido para los Fiscales al servicio de los órganos técnicos de la Fiscalía General del Estado. La persona titular de la Unidad de Supervisión y Control de Protección de Datos deberá ejercer sus funciones con absoluta independencia y neutralidad.
+> "Cuatro. En la Fiscalía General del Estado, de igual modo, existirá la Unidad de Supervisión y Control de Protección de Datos que ejercerá las competencias que corresponden a la autoridad de protección de datos con fines jurisdiccionales sobre el tratamiento de los mismos realizado por el Ministerio Fiscal, de acuerdo con lo establecido en el artículo 236 octies de la Ley Orgánica del Poder Judicial en el ámbito de sus competencias y facultades. Su regulación se remitirá a los términos previstos en la Ley Orgánica del Poder Judicial en cuanto le sea de aplicación.
 
-La persona titular y el resto de personal adscrito a la Unidad de Supervisión y Control de Protección de Datos estarán sujetos al deber de secreto profesional, tanto durante su mandato como después del mismo, con relación a las informaciones confidenciales de las que hayan tenido conocimiento en el cumplimiento de sus funciones o el ejercicio de sus atribuciones. Este deber de secreto profesional se aplicará en particular a la información que faciliten las personas físicas a la Unidad de Supervisión y Control de Protección de Datos en materia de infracciones de la presente normativa.
+> Al frente de la Unidad de Supervisión y Control de Protección de Datos se nombrará por mayoría absoluta del Pleno del Consejo Fiscal una persona titular de la Unidad, de entre juristas de reconocida competencia con al menos quince años de ejercicio profesional y con conocimientos y experiencia acreditados en materia de protección de datos.
 
-La composición, organización y funcionamiento de la Unidad de Supervisión y Control de Protección de Datos será regulada reglamentariamente. Se deberá velar porque la Unidad cuente, en todo caso, con todos los medios personales y materiales necesarios para el adecuado ejercicio de sus funciones.
+> La duración del mandato de la persona titular de la Unidad de Supervisión y Control de Protección de Datos será de cinco años, no renovable. Durante su mandato permanecerá, en su caso, en situación de servicios especiales y ejercerá exclusivamente las funciones inherentes a su cargo. Sólo podrá ser cesada por incapacidad o incumplimiento grave de sus deberes, apreciados por el Pleno mediante mayoría absoluta.
+
+> El régimen de incompatibilidades de la persona titular de la Unidad de Supervisión y Control de Protección de Datos será el mismo que el establecido para los Fiscales al servicio de los órganos técnicos de la Fiscalía General del Estado. La persona titular de la Unidad de Supervisión y Control de Protección de Datos deberá ejercer sus funciones con absoluta independencia y neutralidad.
+
+> La persona titular y el resto de personal adscrito a la Unidad de Supervisión y Control de Protección de Datos estarán sujetos al deber de secreto profesional, tanto durante su mandato como después del mismo, con relación a las informaciones confidenciales de las que hayan tenido conocimiento en el cumplimiento de sus funciones o el ejercicio de sus atribuciones. Este deber de secreto profesional se aplicará en particular a la información que faciliten las personas físicas a la Unidad de Supervisión y Control de Protección de Datos en materia de infracciones de la presente normativa.
+
+> La composición, organización y funcionamiento de la Unidad de Supervisión y Control de Protección de Datos será regulada reglamentariamente. Se deberá velar porque la Unidad cuente, en todo caso, con todos los medios personales y materiales necesarios para el adecuado ejercicio de sus funciones."
+
+> Se modifica, con efectos de 3 de octubre de 2025, las letras a), d) y e) del apartado 1 y, con efectos de 3 de abril de 2025, el apartado 4, por la disposición final 5.3 de la Ley Orgánica 1/2025, de 2 de enero. Ref. BOE-A-2025-76#df-5
 
 > Se añade el apartado Dos ter por la disposición final 1 de la Ley 20/2022, de 19 de octubre. Ref. BOE-A-2022-17099#df
 

@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Asistencia técnica de los Institutos de Medicina Legal y Ciencias Forenses.
+
+Las Administraciones competentes en materia de Administración de Justicia prestarán a través de los Institutos de Medicina Legal y Ciencias Forenses a las Secciones de Familia, Infancia y Capacidad y a las Secciones de Violencia contra la Infancia y la Adolescencia la asistencia técnica que sea necesaria, al objeto de facilitar el desarrollo y resolución de los conflictos y procedimientos de que conozca el órgano judicial sin perjuicio de la regulación por las administraciones competentes de los equipos técnicos que presten asistencia especializada en esta materia.

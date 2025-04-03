@@ -39,6 +39,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPITULO III](ciii.md)
 - [Artículo veinticuatro](aveinticuatro.md)
 - [Dispoosición adicional ](da.md)
+- [Disposición adicional segunda](da-3.md)
 - [Disposición transitoria primera](primera.md)
 - [Disposición transitoria segunda](segunda.md)
 - [Disposición final](df.md)
