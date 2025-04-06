@@ -1,18 +1,20 @@
 ## Norma 14.ª Disposiciones sobre las IIC cuya política de inversión sea replicar o reproducir un índice.
 
-1. Las IIC a las que hace referencia el artículo 38.2.d) del Reglamento de Instituciones de Inversión Colectiva cuya política de inversión sea replicar o reproducir un determinado índice bursátil o de renta fija deberán establecer en folleto la desviación máxima con respecto a ese índice. Esta desviación no podrá superar el 5% y se medirá de acuerdo con la siguiente expresión:
+1. Las IIC a las que hace referencia el artículo 50.2.d) del Reglamento de Instituciones de Inversión Colectiva cuya política de inversión sea replicar o reproducir un determinado índice bursátil o de renta fija deberán establecer en folleto la desviación máxima con respecto a ese índice. Esta desviación no podrá superar el 5 % y se medirá de acuerdo con la siguiente expresión:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2008/290/19438_001.png)
+Desviación = √ 252 √ 1 / N - 1 ∑Nd = 1 (Rd - R)2
 
-siendo:
+Siendo:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2008/290/19438_002.png)
+Rd = LN (VLd / VLd - 1) - LN (Índiced / Índiced - 1).
 
-LN= logaritmo neperiano.
+R = 1 / N ∑Nd = 1 Rd.
 
-VL= valor liquidativo de la IIC.
+LN= Logaritmo neperiano.
 
-Indice = valor del índice de referencia.
+VL= Valor liquidativo de la IIC.
+
+Índice = Valor del índice de referencia.
 
 N= 252 (número de días hábiles en un año).
 
@@ -23,5 +25,7 @@ El cálculo deberá realizarse los días que se publique el índice a partir del
 3. Sin perjuicio de lo dispuesto en los apartados anteriores, se podrá incluir en el folleto de la institución una desviación máxima superior al 5%, siempre que, atendiendo a la composición del índice que se pretenda replicar o reproducir y/o a la técnicas de réplica o reproducción que se apliquen, se aporten a la CNMV razones suficientes que justifiquen ese máximo.
 
 4. Lo dispuesto en el apartado 1 de esta Norma será exigible a los fondos de inversión cotizados y a las SICAV índice cotizadas.
+
+> Se modifica el apartado 1 por la norma primera.12 de la Circular 1/2025, de 5 de marzo. Ref. BOE-A-2025-5190
 
 > Se modifica el apartado 4 por la norma final cuarta de la Circular 2/2013, de 9 de mayo. Ref. BOE-A-2013-5453.

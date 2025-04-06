@@ -28,7 +28,7 @@ Con el fin de hacer efectiva esta obligación, el depositario deberá cumplir co
 
 a) Los depositarios elaborarán un informe sobre el cumplimiento de la función de vigilancia y supervisión, para cada gestora de cuyas entidades sean entidad depositaria a la fecha de referencia del informe correspondiente.
 
-b) La periodicidad del informe será anual y se remitirá antes del último día natural del mes de junio de cada año.
+b) La periodicidad del informe será anual y se remitirá antes del último día natural del mes de junio de cada año, a través del servicio CIFRADOC/CNMV, en el registro electrónico de la CNMV como documento electrónico, de acuerdo con lo establecido en la Resolución de la CNMV de 16 de noviembre de 2011, por la que se crea y regula el Registro Electrónico de la CNMV.
 
 c) El informe contendrá información para cada entidad depositada, de acuerdo con los controles establecidos en el manual de procedimientos de la entidad, de las incidencias en la valoración del patrimonio o en el cálculo del valor liquidativo, diferencias en conciliaciones de activos y efectivo, incumplimientos de coeficientes, criterios y límites legales, así como, cualquier otra incidencia que hayan detectado como consecuencia de sus funciones de vigilancia, incorporando, en su caso, las observaciones que la gestora hubiera podido realizar como consecuencia de la comunicación de la incidencia por parte del depositario. Además, se recogerán datos de contacto del depositario, con el objeto de aportar información actualizada que facilite las labores de supervisión de la CNMV.
 
@@ -47,3 +47,5 @@ Adicionalmente, en el caso particular de los siguientes actos u omisiones, se co
 – los recogidos en las letras m), o), q) y s) del mencionado artículo 93 y j), k), l) y u) del artículo 94, en los casos puestos de manifiesto a través de las incidencias detectadas en los controles efectuados por el depositario.
 
 f) En el supuesto de sustitución de la entidad depositaria, únicamente estará obligado a remitir el informe anual, el depositario que conste en los registros de la CNMV en el último día del período de referencia y por el tiempo comprendido entre su designación y el último día de dicho periodo.
+
+> Se modifica la letra b) del apartado 6 por la norma tercera.2 de la Circular 1/2025, de 5 de marzo. Ref. BOE-A-2025-5190

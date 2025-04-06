@@ -8,7 +8,7 @@
 
 a) Que el marco legal y regulatorio, incluido el riesgo del país, el riesgo de custodia, segregación de activos y la ejecutabilidad de los contratos firmados con el tercero son adecuados. Dicha valoración no puede basarse en informes del propio tercero.
 
-En el caso de UCITS, el depositario debe recibir asesoramiento legal de una entidad no vinculada ni con él mismo ni con el subcustodio, en relación a la ejecutabilidad del contrato en caso de insolvencia del subcustodio cuando esté radicado en un tercer país y las implicaciones para los activos y derechos de la IIC. Asimismo, el depositario debe asegurarse de que el subcustodio, radicado en un tercer país, recibe un asesoramiento legal de una entidad con la que no tenga vinculación, a efectos de verificar que las normas de insolvencia reconocen la segregación de los activos propiedad de la IIC y que estos no formarán parte de la masa concursal del subcustodio en caso de insolvencia de este. Además, debe asegurarse de que el subcustodio le informe de manera inmediata en caso de que estas condiciones se hayan modificado.
+El depositario debe recibir asesoramiento legal de una entidad no vinculada ni con él mismo ni con el subcustodio, en relación con la ejecutabilidad del contrato en caso de insolvencia del subcustodio cuando esté radicado en un tercer país y las implicaciones para los activos y derechos de la IIC. Asimismo, el depositario debe asegurarse de que el subcustodio, radicado en un tercer país, recibe un asesoramiento legal de una entidad con la que no tenga vinculación, a efectos de verificar que las normas de insolvencia reconocen la segregación de los activos propiedad de la IIC y que estos no formarán parte de la masa concursal del subcustodio en caso de insolvencia de este. Además, debe asegurarse de que el subcustodio le informe de manera inmediata en caso de que estas condiciones se hayan modificado.
 
 b) Que el tercero cuenta con estructuras, procedimientos, conocimientos prácticos y controles internos adecuados y proporcionados a la naturaleza y complejidad de los activos confiados.
 
@@ -29,3 +29,5 @@ En este caso, el depositario deberá, a la mayor brevedad posible, nombrar otro 
 En dichos planes se incluirán los procedimientos de información a la entidad gestora de los riesgos identificados y, en su caso, el incremento de la frecuencia y el alcance de las revisiones.
 
 Los citados planes deberán incorporar procedimientos para el traspaso inmediato de los activos a los terceros siempre que la situación del custodio o subcustodio impida la gestión efectiva de las instituciones.
+
+> Se modifica la letra a) del apartado 3 por la norma tercera.1 de la Circular 1/2025, de 5 de marzo. Ref. BOE-A-2025-5190
