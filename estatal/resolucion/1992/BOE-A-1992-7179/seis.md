@@ -4,7 +4,7 @@
 
 1.1 Las actuaciones inspectoras se desarrollarán por los Equipos y Unidades en que se estructuran los órganos a que se refieren los apartados anteriores.
 
-1.2 Las actuaciones de los Equipos y Unidades deberán ser ordenadas y dirigidas en todo caso por los Jefes de cada Equipo o Unidad, y serán practicadas directamente por aquellos o por los Inspectores de Hacienda y Técnicos de Hacienda integrados en dichos Equipos o Unidades.
+1.2 Las actuaciones de los Equipos y Unidades deberán ser ordenadas y dirigidas en todo caso por los Jefes de cada Equipo o Unidad, y serán practicadas directamente por aquéllos o por los Inspectores de Hacienda y Técnicos de Hacienda integrados en dichos Equipos o Unidades.
 
 Los Jefes de Equipo, sin perjuicio de poder realizar directamente actuaciones inspectoras en su totalidad o en parte, asumirán la responsabilidad del cumplimiento de los objetivos encomendados al Equipo, distribuirán entre los miembros de éste las actividades a desarrollar y dirigirán y controlarán la correcta ejecución de las mismas.
 
@@ -20,9 +20,9 @@ c) En las Dependencias Regionales de Inspección, el Jefe de Equipo será sustit
 
 1.3 Los Inspectores de Hacienda que formen parte de los Equipos desarrollarán las actuaciones que les sean encomendadas por el Jefe de Equipo, atendiendo a la importancia de las mismas.
 
-En el marco de cada Equipo y Unidad de Inspección, los Técnicos de Hacienda integrados en los mismos desarrollarán las actuaciones que disponga el Jefe de Equipo o de Unidad, atendiendo a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria. La asignación de actuaciones nunca podrá suponer que el Técnico de Hacienda realice la totalidad de las actuaciones previas a la formalización de las actas cuando revistan especial dificultad o se refieran a obligados tributarios que desarrollen actividades económicas cuya cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados supere 3.500.000 euros, tratándose de actuaciones de alcance general, o 5.700.000 euros, tratándose de actuaciones de alcance parcial.
+En el marco de cada Equipo y Unidad de Inspección, los Técnicos de Hacienda integrados en los mismos desarrollarán las actuaciones que disponga el Jefe de Equipo o de Unidad, atendiendo a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria. La asignación de actuaciones nunca podrá suponer que el Técnico de Hacienda realice la totalidad de las actuaciones previas a la formalización de las actas cuando revistan especial dificultad o se refieran a obligados tributarios que desarrollen actividades económicas cuya cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados supere 5.700.000 euros, tratándose de actuaciones de alcance general, o 10.000.0000 euros, tratándose de actuaciones de alcance parcial.
 
-En los órganos a que se refiere el apartado uno de esta Resolución podrán encomendarse actuaciones meramente preparatorias y de comprobación o prueba de hechos o circunstancias con trascendencia tributaria a los Agentes de la Hacienda Pública.
+En los órganos a que se refiere el apartado uno de esta resolución, los Agentes de la Hacienda Pública, en su labor de apoyo y colaboración, desarrollarán las actuaciones que les encomiende el jefe del equipo o de unidad y podrán instruir las diligencias que documenten los hechos o circunstancias con trascendencia tributaria y manifestaciones del obligado tributario. Tales actuaciones podrán realizarse en las oficinas públicas o en los locales del obligado tributario.
 
 2. Actuaciones relativas a posibles delitos contra la Hacienda Pública.
 
@@ -43,6 +43,8 @@ Podrá también acordarse la colaboración de funcionarios de órganos integrado
 Cuando la naturaleza de las actuaciones a desarrollar así lo aconseje, el Jefe de la Oficina Nacional de Investigación del Fraude y el de la Oficina Nacional de Fiscalidad Internacional podrá autorizar la colaboración de funcionarios de un Equipo de su Oficina en actuaciones de otro Equipo del mismo órgano. Asimismo, el Inspector Regional también podrá autorizar la colaboración de funcionarios de un Equipo o Unidad de Inspección de la Dependencia Regional de Inspección en las actuaciones de otro Equipo o Unidad distinto.
 
 Los acuerdos o autorizaciones a que se refiere este número deberán constar en el expediente y se exhibirán por el funcionario designado a petición del obligado tributario.
+
+> Se modifica el punto 1 por el apartado único.5 de la Resolución de 19 de marzo de 2025. Ref. BOE-A-2025-6949
 
 > Se modifica el punto 1 por el art.único.3 de la Resolución de 7 de mayo de 2014. Ref. BOE-A-2014-5049.
 

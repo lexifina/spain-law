@@ -26,7 +26,7 @@ f) Realizar actuaciones de comprobación e investigación cuando así lo acuerde
 
 g) Resolver el procedimiento relativo a planes de amortización, planes de gastos correspondientes a actuaciones medioambientales, de inversiones y gastos de las comunidades titulares de montes vecinales en mano común.
 
-h) Iniciar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo. Asimismo, les corresponderá designar al Jefe de Equipo, Jefe de Unidad o funcionario que deba instruir dichos procedimientos sancionadores.
+h) Designar al Jefe de Equipo, Jefe de Unidad o funcionario que deba instruir los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo. Además, les corresponde resolver dichos procedimientos sancionadores.
 
 i) Ordenar el inicio y resolver los procedimientos de recuperación de ayudas de Estado en supuestos de regularización de los elementos de la obligación tributaria.
 
@@ -45,6 +45,8 @@ c) El Jefe de la Oficina Nacional de Fiscalidad Internacional designará al sust
 d) El Delegado Especial de la Agencia Tributaria designará al sustituto del Jefe de la Dependencia Regional de Inspección.
 
 e) El Jefe de la Dependencia Regional de Inspección designará al sustituto de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores y del Jefe de la Oficina Técnica.
+
+> Se modifica el punto 2 por el apartado único.4 de la Resolución de 19 de marzo de 2025. Ref. BOE-A-2025-6949
 
 > Se modifica el punto 1 por el apartado único.5 de la Resolución de 4 de abril de 2019. Ref. BOE-A-2019-5023
 

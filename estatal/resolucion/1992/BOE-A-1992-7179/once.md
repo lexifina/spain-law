@@ -1,4 +1,4 @@
-## Once. Disposición adicional segunda.
+## Disposición adicional segunda.
 
 A petición del titular de la Delegación Central de Grandes Contribuyentes:
 
@@ -6,9 +6,11 @@ a) El titular del Departamento de Inspección Financiera y Tributaria podrá aut
 
 b) El correspondiente Delegado Especial de la Agencia Tributaria podrá autorizar que los funcionarios, Equipos o Unidades de Inspección que fueran competentes por razón del domicilio colaboren en las actuaciones de la Dependencia de Control Tributario y Aduanero de la Delegación Central respecto a los obligados tributarios adscritos a ésta.
 
-Cuando resulte adecuado para el desarrollo del plan de control tributario, el titular del Departamento de Inspección Financiera y Tributaria podrá acordar la extensión de las competencias de la Dependencia de Control Tributario y Aduanero o de los Equipos integrados en la misma, al ámbito de las Delegaciones Especiales, oídos los Delegados afectados, conforme a lo dispuesto en el artículo 5.2.e) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se le atribuyen funciones y competencias.
+Cuando concurran razones de organización o planificación, de acuerdo con lo dispuesto en el artículo 59.4 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, el titular del Departamento de Inspección Financiera y Tributaria podrá acordar la extensión de las competencias de la Dependencia de Control Tributario y Aduanero o de los Equipos integrados en la misma, al ámbito de las Delegaciones Especiales, oídos los Delegados afectados.
 
 Estas autorizaciones deberán constar en el correspondiente expediente y se exhibirán por los funcionarios autorizados a petición del obligado tributario.
+
+> Se modifica por el apartado único.7 de la Resolución de 19 de marzo de 2025. Ref. BOE-A-2025-6949
 
 > Se modifica por el apartado único.6 de la Resolución de 4 de abril de 2019. Ref. BOE-A-2019-5023
 

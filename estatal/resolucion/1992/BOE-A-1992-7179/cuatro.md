@@ -2,7 +2,7 @@
 
 1. Funciones.
 
-Las Dependencias Regionales de Inspección de las Delegaciones Especiales de la Agencia Estatal de la Administración Tributaria, además de las que se establecen en los apartados 4, 5, 6, y 7 de este número para cada una de las unidades en que se organiza, tienen atribuidas las siguientes funciones, en relación con los obligados tributarios, a que se refiere el siguiente apartado y en el ámbito de los tributos de su competencia:
+Las Dependencias Regionales de Inspección de las Delegaciones Especiales de la Agencia Estatal de Administración Tributaria, además de las que se establecen en los apartados 4, 5, 6 y 7 de este número para cada una de las unidades en que se organiza, tienen atribuidas las siguientes funciones, en relación con los obligados tributarios, a que se refiere el siguiente apartado y en el ámbito de los tributos de su competencia:
 
 a) Planificar y supervisar las actuaciones de los servicios de inspección existentes en el ámbito de la correspondiente Delegación Especial de la Agencia.
 
@@ -18,23 +18,25 @@ f) Llevar a cabo los procedimientos de recuperación de ayudas de Estado en supu
 
 g) Cualquier otra función atribuida normativamente a la Inspección de los Tributos con los obligados tributarios a los que extienda su competencia.
 
-Asimismo, las Dependencias Regionales de Inspección de las Delegaciones Especiales de la Agencia Estatal de la Administración Tributaria, en relación con las personas o entidades a que se refiere el número 2.4 del apartado siguiente, tienen atribuida la función de tramitar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo, salvo que corresponda a otros órganos.
+Asimismo, las Dependencias Regionales de Inspección de las Delegaciones Especiales de la Agencia Estatal de Administración Tributaria, en relación con las personas o entidades a que se refiere el número 2.4 del apartado siguiente, tienen atribuida la función de tramitar y resolver los procedimientos sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo, salvo que corresponda a otros órganos.
 
 2. Ámbito de actuación.
 
-2.1 Las funciones señaladas en el apartado anterior se extenderán a todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes, la Oficina Nacional de Investigación del Fraude o la Oficina Nacional de Fiscalidad Internacional no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
+2.1 Las funciones señaladas en el apartado anterior se ejercerán sobre todos los obligados tributarios, con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyente, la Oficina Nacional de Investigación del Fraude o la Oficina Nacional de Fiscalidad Internacional no ejerzan su competencia, sin perjuicio de lo dispuesto en el número 2.2 siguiente.
 
-2.2 Las Dependencias Regionales de Inspección extenderán asimismo su competencia sobre los siguientes obligados tributarios:
+2.2 Las Dependencias Regionales de Inspección ejercerán asimismo su competencia sobre los siguientes obligados tributarios:
 
 a) Los obligados tributarios que concurran en el presupuesto de hecho de una obligación que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección con relación a otro obligado sobre el que tenga competencia de acuerdo con lo establecido en el número 2.1 anterior.
 
 b) Los sucesores de personas físicas fallecidas y de las personas jurídicas y demás entidades disueltas o extinguidas que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, comparezcan en las actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección con relación a alguno o algunos de los sucesores sobre los que tenga competencia de acuerdo con lo señalado en el número 2.1 anterior.
 
-c) Los obligados tributarios en los que concurra alguna de las circunstancias previstas en el artículo 18.2 de la Ley 27/2014 del Impuesto sobre Sociedades, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, cuando proceda la realización de actuaciones o procedimientos coordinados con otras actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección frente a alguno o algunos de los obligados tributarios sobre los que tenga competencia de acuerdo con lo previsto en el número 2.1 anterior.
+c) Los obligados tributarios en los que concurra alguna de las circunstancias previstas en el artículo 79.cinco de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial o estando adscritos a la Delegación Central de Grandes Contribuyentes, cuando proceda la realización de actuaciones o procedimientos coordinados con otras actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección frente a alguno o algunos de los obligados tributarios sobre los que tenga competencia de acuerdo con lo previsto en el número 2.1 anterior.
 
 d) Los obligados tributarios personas físicas o jurídicas no establecidos en el territorio de aplicación del Impuesto sobre el Valor Añadido y sin obligación de nombrar a un representante, salvo en el caso de los domiciliados en Canarias, Ceuta y Melilla, cuando la entrega de bienes o la prestación de servicios se realice en el ámbito de la Delegación Especial.
 
 e) Los obligados tributarios que, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial, realicen una actividad económica en dicho ámbito territorial, a través de uno o varios locales afectos en los que preste servicio personal asalariado, cuando se estén desarrollando por la Dependencia Regional de Inspección actuaciones o procedimientos frente a alguno o algunos de los obligados tributarios, con los que aquellos tengan relación económica, sobre los que tenga competencia de acuerdo con lo previsto en el número 2.1 anterior. Lo dispuesto en esta letra no resultará de aplicación respecto de los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes.
+
+f) Los obligados tributarios que tributen en régimen de atribución de rentas así como sus miembros, sin estar domiciliados en el ámbito territorial de la respectiva Delegación Especial, cuando proceda la realización de actuaciones o procedimientos coordinados con otras actuaciones o procedimientos iniciados por la Dependencia Regional de Inspección frente a alguno o algunos de dichos obligados tributarios sobre los que tenga competencia de acuerdo con lo previsto en el número 2.1 anterior. Lo dispuesto en esta letra no resultará de aplicación respecto de los obligados tributarios adscritos a la Delegación Central de Grandes Contribuyentes.
 
 2.3 La competencia de la Dependencia Regional de Inspección podrá abarcar igualmente a las obligaciones tributarias derivadas de los hechos imponibles que correspondan a personas físicas o jurídicas no residentes y sin establecimiento permanente en España, cuando en relación con dichos hechos imponibles el representante, responsable, retenedor, depositario o gestor de los bienes o derechos, o el pagador de las rentas del no residente sea un obligado tributario incluido en su ámbito de competencia y, a falta de cualquiera de ellos, cuando radique en dicho ámbito algún inmueble titularidad del obligado tributario no residente.
 
@@ -46,13 +48,13 @@ e) Los obligados tributarios que, sin estar domiciliados en el ámbito territori
 
 Las Dependencias Regionales de Inspección podrán estar integradas por las siguientes unidades:
 
-Área de Inspección.
+– Área de Inspección.
 
-Oficina Técnica.
+– Oficina Técnica.
 
-Unidad de Planificación y Selección.
+– Unidad de Planificación y Selección.
 
-Unidad de Gestión de Grandes Empresas.
+– Unidad de Gestión de Grandes Empresas.
 
 La asignación de funcionarios a cada una de estas unidades se realizará por el Jefe de la Dependencia.
 
@@ -62,9 +64,9 @@ A su vez, el Área de Inspección podrá estar integrada por los Equipos y Unida
 
 La sede principal de la Dependencia Regional de Inspección coincidirá con la sede de la Delegación Especial, existiendo otras sedes de la Dependencia en Delegaciones de la Agencia Tributaria del ámbito de la demarcación territorial de la correspondiente Delegación Especial.
 
-Al frente de cada Dependencia Regional de Inspección estará el Jefe de la misma, o Inspector Regional, que podrá estar asistido por uno o varios Inspectores Regionales Adjuntos y éstos, a su vez, por uno o varios Inspectores Coordinadores quienes, cuando la estructura funcional o territorial así lo requiera, podrán depender directamente del Inspector Regional. La jefatura del personal de la Dependencia destinado en sede distinta de la principal, sin perjuicio de la superior coordinación del Inspector Regional, estará a cargo de un Inspector Regional Adjunto o, en su caso, de un Inspector Coordinador.
+Al frente de cada Dependencia Regional de Inspección estará el Jefe de la misma, o Inspector Regional, que podrá estar asistido por uno o varios Inspectores Regionales Adjuntos y éstos, a su vez, por uno o varios Inspectores Coordinadores quienes, cuando la estructura funcional o territorial así lo requiera, podrán depender directamente del Inspector Regional. La jefatura del personal de la Dependencia destinado en sede distinta de la principal, sin perjuicio de la superior coordinación del Inspector Regional, estará a cargo de un Inspector Adjunto o, en su caso, de un Inspector Coordinador.
 
-3.3 Competencia Territorial.
+3.3 Competencia territorial.
 
 3.3.1 Las Dependencias Regionales de Inspección extenderán su competencia al ámbito territorial de la correspondiente Delegación Especial de la Agencia Tributaria, pudiendo las unidades en las que aquélla se organiza, cualquiera que sea su sede, desarrollar sus actuaciones en todo este ámbito territorial.
 
@@ -74,7 +76,7 @@ Será el domicilio fiscal que el obligado tributario tenga al iniciarse las actu
 
 3.3.3 Las unidades en las que se organizan las Dependencias Regionales de Inspección podrán desarrollar sus actuaciones en todo el territorio nacional cuando sea necesario para realizar sus funciones respecto a los obligados tributarios incluidos en su ámbito de competencias de acuerdo con lo señalado en el número 2 anterior.
 
-3.3.4 Cuando resulte adecuado para el desarrollo del plan de control tributario, el Director del Departamento de Inspección Financiera y Tributaria podrá acordar la extensión de las competencias de la Dependencia Regional de Inspección de una Delegación Especial, o de las unidades integradas en la misma, al ámbito territorial de otras Delegaciones Especiales o de la Delegación Central de Grandes Contribuyentes, oídos los Delegados afectados, conforme a lo dispuesto en el artículo 5.2.e) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se le atribuyen funciones y competencias.
+3.3.4 Cuando concurran razones de organización o planificación, de acuerdo con lo dispuesto en el artículo 59.4 del Reglamento general de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, el Director del Departamento de Inspección Financiera y Tributaria podrá acordar la extensión de las competencias de la Dependencia Regional de Inspección de una Delegación Especial, o de las unidades integradas en la misma, al ámbito de otras Delegaciones Especiales o de la Delegación Central de Grandes Contribuyentes, oídos los Delegados afectados.
 
 4. Área de Inspección.
 
@@ -88,31 +90,33 @@ Las actuaciones de comprobación e investigación atribuidas a las Dependencias 
 
 El Área de Inspección estará integrada por los Equipos y Unidades de Inspección que se estimen convenientes.
 
-Los Equipos de Inspección estarán dirigidos por un Jefe de Equipo, Inspector de Hacienda, conforme a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria, y podrán estar integrados por Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el Jefe de la Dependencia Regional.
+Los Equipos de Inspección estarán dirigidos por un Jefe de Equipo, Inspector de Hacienda, conforme a las Instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria, y podrán estar integrados por otros Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el Jefe de la Dependencia Regional.
 
 Podrán constituirse, por acuerdo del Director del Departamento de Inspección Financiera y Tributaria y a propuesta del Delegado Especial afectado, Equipos de Inspección formados por el número de Técnicos de Hacienda que en cada caso se determine por el Jefe de la Dependencia Regional, cuya dirección corresponderá a un Inspector de Hacienda quién, por delegación del Inspector Jefe, podrá dictar los actos de liquidación e imponer las sanciones que procedan como consecuencia de las actuaciones realizadas por los miembros del Equipo.
 
-Las Unidades de Inspección estarán dirigidas por un Jefe de Unidad, Técnico de Hacienda, conforme a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria y podrán estar integradas por Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el Jefe de la Dependencia Regional.
+Las Unidades de Inspección estarán dirigidas por un Jefe de Unidad, Técnico de Hacienda, conforme a las Instrucciones que, en su caso, dicte el Director General de la Agencia Tributaría, y podrán estar integradas por otros Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal que en cada momento se determine por el Jefe de la Dependencia Regional.
+
+Podrán existir Unidades de Inspección dirigidas por un Jefe de Unidad, Técnico de Hacienda, integradas exclusivamente por Agentes de la Hacienda Pública.
 
 4.2.2 Distribución de competencias.
 
 A. Equipos de Inspección.
 
-Los Equipos de Inspección, excepto los previstos en el tercer párrafo del número 4.2.1 anterior, podrán desarrollar sus actuaciones sobre todos los obligados tributarios a los que extienda su competencia la Dependencia Regional de Inspección de acuerdo con lo establecido en los números 2 y 3 de este apartado cuatro, si bien su ámbito de actuación preferente estará constituido por las actuaciones inspectoras de comprobación e investigación que revistan especial dificultad de acuerdo con lo establecido en el número 4.2.3 siguiente y las actuaciones relativas a obligados tributarios que desarrollen actividades económicas cuya cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados supere 4.000.000 euros, tratándose de actuaciones de alcance general, o 5.700.000 euros, tratándose de actuaciones de alcance parcial.
+Los Equipos de Inspección, excepto los previstos en el tercer párrafo del número 4.2.1. anterior, podrán desarrollar sus actuaciones sobre todos los obligados tributarios a los que extienda su competencia la Dependencia Regional de Inspección de acuerdo con lo establecido en los números 2 y 3 de este apartado cuatro, si bien su ámbito de actuación preferente estará constituido por las actuaciones inspectoras de comprobación e investigación que revistan especial dificultad de acuerdo con lo establecido en el número 4.2.3 siguiente y las actuaciones relativas a obligados tributarios que desarrollen actividades económicas cuya cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados supere 5.700.000 euros, tratándose de actuaciones de alcance general, o 10.000.000 euros, tratándose de actuaciones de alcance parcial.
 
-Los Equipos previstos en el tercer párrafo del número 4.2.1 anterior sólo podrán desarrollar actuaciones inspectoras que no revistan especial dificultad de acuerdo con lo establecido en la letra A del número 4.2.3 siguiente, y que se refieran a obligados tributarios que no desarrollen actividades económicas o a obligados tributarios que, desarrollando este tipo de actividades, su cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados no supere 2.500.000 euros, tratándose de actuaciones de alcance general, o 4.000.000 euros, tratándose de actuaciones de alcance parcial.
+Los Equipos previstos en el tercer párrafo del número 4.2.1 anterior sólo podrán desarrollar actuaciones inspectoras que no revistan especial dificultad de acuerdo con lo establecido en la letra A del número 4.2.3 siguiente, y que se refieran a obligados tributarios que no desarrollen actividades económicas o a obligados tributarios que, desarrollando este tipo de actividades, su cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados no supere 4.000.000 euros, tratándose de actuaciones de alcance general, o 6.000.000 euros, tratándose de actuaciones de alcance parcial.
 
 La distribución de los expedientes entre los Equipos del Área de Inspección se realizará por el Jefe de la Dependencia atendiendo a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria.
 
 B. Unidades de Inspección.
 
-Las Unidades de Inspección desarrollarán actuaciones inspectoras que no revistan especial dificultad de acuerdo con lo establecido en la letra A del número 4.2.3 siguiente, y que se refieran a obligados tributarios que no desarrollen actividades económicas o a obligados tributarios que, desarrollando este tipo de actividades, su cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados no supere 4.000.000 euros, tratándose de actuaciones de alcance general, o 5.700.000 euros, tratándose de actuaciones de alcance parcial.
+Las Unidades de Inspección desarrollarán actuaciones inspectoras que no revistan especial dificultad de acuerdo con lo establecido en la letra A del número 4.2.3 siguiente, y que se refieran a obligados tributarios que no desarrollen actividades económicas o a obligados tributarios que, desarrollando este tipo de actividades, su cifra de negocios o, en su defecto, el volumen anual de operaciones declarado en cualquiera de los ejercicios comprobados no supere 5.700.000 euros, tratándose de actuaciones de alcance general, o 10.000.000 euros, tratándose de actuaciones de alcance parcial.
 
 La distribución de los expedientes entre las Unidades del Área de Inspección se realizará por el Jefe de la Dependencia atendiendo a las instrucciones que, en su caso, dicte el Director General de la Agencia Tributaria, que podrán atender a los tipos de puestos de trabajo desempeñados por los funcionarios que ostenten la jefatura de cada Unidad. En este caso, la atribución efectiva de competencias a las Unidades hasta los importes indicados en el párrafo anterior estará condicionada a la creación, en función de las necesidades de servicio, de aquellos puestos en la Relación de Puestos de Trabajo de la Agencia Estatal de Administración Tributaria.
 
 4.2.3 Actuaciones inspectoras de especial dificultad.
 
-A. A efectos de lo dispuesto en el número 4.2.2 anterior y en el apartado seis.1.3 de esta Resolución, se considerará que una actuación inspectora reviste especial dificultad cuando el motivo de la selección y asignación del expediente sea la comprobación y, en su caso, regularización de las siguientes materias:
+A. A efectos de lo dispuesto en el número 4.2.2 anterior y en el apartado seis.1.3 de esta resolución, se considerará que una actuación inspectora reviste especial dificultad cuando el motivo de la selección y asignación del expediente sea la comprobación y, en su caso, regularización de las siguientes materias:
 
 – Operaciones de reestructuración empresarial (capítulo VII del título VII de la Ley del Impuesto sobre Sociedades).
 
@@ -122,15 +126,13 @@ A. A efectos de lo dispuesto en el número 4.2.2 anterior y en el apartado seis.
 
 – Programas calificados como de especial dificultad en el Plan Parcial de Inspección.
 
-B. Se considerarán de especial dificultad sobrevenida, a efectos de lo dispuesto en los apartados ocho.2.c) y ocho.3.2 de esta Resolución, los expedientes en los que:
+B. Se considerarán de especial dificultad sobrevenida, a efectos de lo dispuesto en los apartados ocho.2.c) y ocho.3.2 de esta resolución, los expedientes en los que:
 
-• Se pongan de manifiesto durante la comprobación materias de especial dificultad definidas en el párrafo anterior.
+– Se pongan de manifiesto durante la comprobación materias de especial dificultad definidas en el párrafo anterior.
 
-• Se aprecie la existencia de simulación en los términos definidos en el artículo 16 de la Ley 58/2003, General Tributaria.
+– Se aprecie la existencia de conflicto en la aplicación de la norma conforme a lo establecido en el artículo 15 de la Ley 58/2003, General Tributaria, o fraude de ley en los términos del artículo 24 de la Ley 230/1963, General Tributaria.
 
-• Se aprecie la existencia de conflicto en la aplicación de la norma conforme a lo establecido en el artículo 15 de la Ley 58/2003, General Tributaria, o fraude de ley en los términos del artículo 24 de la Ley 230/1963, General Tributaria
-
-• La cantidad que pudiera ser regularizada exceda de las cuantías fijadas en el artículo 305 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+– La cantidad que pudiera ser regularizada exceda de las cuantías fijadas en el artículo 305 de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
 
 4.3 Actuaciones Especializadas.
 
@@ -146,19 +148,19 @@ Las actuaciones en este ámbito tendrán por objeto el apoyo en las funciones en
 
 Las funciones en esta materia se corresponden con el desarrollo de actuaciones tendentes a determinar modalidades concretas de fraude fiscal y sus métodos de realización, evaluar el riesgo fiscal en relación con actividades o sectores económicos, así como la realización de estudios, análisis y demás actuaciones que permitan la detección de las distintas fórmulas de fraude fiscal, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
 
-Las actuaciones de investigación se coordinarán, cuando proceda, con la Oficina Nacional de Investigación del Fraude y con la Unidad de Planificación y Selección de la propia Dependencia Regional de Inspección.
+Las actuaciones de investigación se coordinarán con la Oficina Nacional de Investigación del Fraude y con la Unidad de Planificación y Selección de la propia Dependencia Regional de Inspección.
 
 4.3.3 Auxilio Judicial.
 
 Corresponde en este ámbito el desarrollo de las funciones de colaboración y auxilio con Juzgados, Tribunales y el Ministerio Fiscal, incluidas las actuaciones de carácter pericial cuando así se acuerde.
 
-4.3.4 Auditoría Informática.
+4.3.4 Auditoria Informática.
 
-Las actuaciones en este ámbito tendrán por objeto el apoyo en materia de auditoría informática a los restantes Equipos y Unidades de la Dependencia Regional de Inspección en sus actuaciones inspectoras, cuando así lo acuerde el Inspector Regional o sus Adjuntos, así como el análisis y verificación de los programas y archivos en soportes magnéticos, en caso de que el obligado tributario utilice equipos electrónicos de procesos de datos.
+Las actuaciones en este ámbito tendrán por objeto el apoyo en materia de auditoria informática a los restantes Equipos y Unidades de la Dependencia Regional de Inspección en sus actuaciones inspectoras, cuando así lo acuerde el Inspector Regional o sus Adjuntos, así como el análisis y verificación de los programas y archivos en soportes magnéticos, en caso de que el obligado tributario utilice equipos electrónicos de procesos de datos.
 
 4.3.5 Fiscalidad Internacional.
 
-Las actuaciones en este ámbito tendrán por objeto las funciones de apoyo a los demás Equipos y Unidades de la Dependencia en materia de fiscalidad internacional, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden. Dichas actuaciones se coordinarán, cuando proceda, con la Oficina Nacional de Fiscalidad Internacional.
+Las actuaciones en este ámbito tendrán por objeto las funciones de apoyo a los demás Equipos y Unidades de la Dependencia en materia de fiscalidad internacional, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden. Dichas actuaciones se coordinarán con la Oficina Nacional de Fiscalidad Internacional.
 
 5. Oficina Técnica.
 
@@ -170,7 +172,9 @@ El personal de la Oficina Técnica que radique en sedes distintas de la que corr
 
 6. Unidad de Planificación y Selección.
 
-Corresponde a la Unidad de Planificación y Selección la asistencia al Inspector Regional en la confección de los planes de inspección de la Dependencia, en el control de su cumplimiento y en la realización de estudios y estadísticas de apoyo a la planificación. Asimismo, le corresponde: la captación de datos ; el análisis, contraste y verificación de la información obtenida por la Dependencia por cualquier medio y la valoración de los resultados obtenidos en estas operaciones en orden a su trascendencia tributaria ; la determinación sectorial o individual de los contribuyentes respecto de los que se considere conveniente el inicio de actuaciones de comprobación e investigación ; y, en general, todas aquellas que sean necesarias para la adecuada planificación de las actuaciones, selección de contribuyentes y control del cumplimiento de planes y programas. Excepcionalmente y por necesidades del servicio, esta Unidad podrá desarrollar actuaciones de comprobación e investigación.
+Corresponde a la Unidad de Planificación y Selección la asistencia al Inspector Regional en la confección de los planes de inspección de la Dependencia, en el control de su cumplimiento y en la realización de estudios y estadísticas de apoyo a la planificación. Asimismo, le corresponde: la captación de datos; el análisis, contraste y verificación de la información obtenida por la Dependencia por cualquier medio y la valoración de los resultados obtenidos en estas operaciones en orden a su trascendencia tributaria; la determinación sectorial o individual de los contribuyentes respecto de los que se considere conveniente el inicio de actuaciones de comprobación e investigación; y, en general, todas aquellas que sean necesarias para la adecuada planificación de las actuaciones, selección de contribuyentes y control del cumplimiento de planes y programas. Excepcionalmente y por necesidades del servicio, esta Unidad podrá desarrollar actuaciones de comprobación e investigación.
+
+Las actuaciones de la Unidad de Planificación y Selección se coordinarán con la Unidad Central de Selección y de Grupos.
 
 La Unidad de Planificación y Selección podrá estar integrada por el Jefe de la Unidad, los Inspectores de Hacienda, Técnicos de Hacienda, Agentes de la Hacienda Pública y demás personal, que en cada momento se determine por el Jefe de la Dependencia.
 
@@ -180,17 +184,19 @@ El personal de esta Unidad que radique en sedes distintas de la que corresponda 
 
 Corresponde a la Unidad de Gestión de Grandes Empresas de la Dependencia Regional de Inspección el ejercicio de las funciones de gestión tributaria atribuidas a ésta y la adopción de los acuerdos y actos correspondientes, en relación con los obligados tributarios con domicilio fiscal en el ámbito de la respectiva Delegación Especial de la Agencia Tributaria, sobre los que la Delegación Central de Grandes Contribuyentes no ejerza su competencia y en los que concurra alguna de las siguientes circunstancias:
 
-a) Que su volumen de operaciones supere la cifra de 6.010.121,04 euros durante el año natural inmediato anterior, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.
+a) Que su volumen de operaciones supere la cifra de 6.010.121,04 euros durante el año natural inmediato anterior, calculado conforme a lo dispuesto en el artículo 121 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido incluso cuando desarrollen su actividad fuera del territorio de aplicación de este Impuesto.
 
 b) Que así lo ordene el Delegado Especial de la Agencia Tributaria, previo informe favorable de los Directores de los Departamentos de Gestión Tributaria e Inspección Financiera y Tributaria, en atención a la importancia o complejidad de sus operaciones en el ámbito de la Delegación Especial respectiva o por su vinculación o relación con los anteriores o con otros obligados tributarios a los que extienda su competencia la Unidad de Gestión de Grandes Empresas.
 
-c) Que se trate de entidades representantes de un grupo que tribute en el régimen de consolidación fiscal del Impuesto sobre Sociedades o de entidades dominantes que tributen en el régimen especial del grupo de entidades del Impuesto sobre el Valor Añadido y se haya ejercitado la opción que se establece en el artículo 163 sexies. cinco de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido. Estas entidades continuarán adscritas a la Unidad de Gestión de Grandes Empresas, en caso de que dejen de tributar por los citados regímenes especiales y aun cuando no tengan la condición de gran empresa, hasta el año natural siguiente al que se produzca la presentación del modelo de declaración consolidada o agregada del grupo correspondiente al último periodo de vigencia de los aludidos regímenes.
+c) Que se trate de entidades representantes de un grupo que tribute en el régimen de consolidación fiscal del Impuesto sobre Sociedades o de entidades dominantes que tributen en el régimen especial del grupo de entidades del Impuesto sobre el Valor Añadido o que hayan comunicado su opción por tributar en cualquiera de dichos regímenes. Estas entidades continuarán adscritas a la Unidad de Gestión de Grandes Empresas, en caso de que dejen de tributar por los citados regímenes especiales y aun cuando no tengan la condición de gran empresa, hasta el año natural siguiente al que se produzca la presentación del modelo de declaración consolidada o agregada del grupo correspondiente al último periodo de vigencia de los aludidos regímenes.
 
-Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de Inspección tendrán en este ámbito las competencias atribuidas a las Dependencias de Gestión Tributaria por la Resolución de 19 de febrero de 2004, de la Presidencia de la Agencia Estatal de la Administración Tributaria sobre organización y atribución de funciones en el ámbito de competencias del Departamento de Gestión Tributaria y, en general, las propias del ámbito de la gestión tributaria.
+Las Unidades de Gestión de Grandes Empresas de las Dependencias Regionales de Inspección tendrán en este ámbito las competencias atribuidas a las Dependencias de Gestión Tributaria por la Resolución de 13 de enero de 2021, de la Presidencia de la Agencia Estatal de Administración Tributaria sobre organización y atribución de funciones en el ámbito de competencias del Departamento de Gestión Tributaria y, en general, las propias del ámbito de la gestión tributaria.
 
-El Jefe de la Dependencia Regional de Inspección y los Inspectores Regionales Adjuntos ejercerán, respecto a las personas o entidades adscritas a la misma, las competencias de gestión tributaria atribuidas a los Jefes de Dependencia Regional de Gestión Tributaria.
+El Jefe de la Dependencia Regional de Inspección, los Inspectores Regionales Adjuntos e Inspectores Coordinadores ejercerán, respecto a las personas o entidades adscritas a la Unidad de Gestión de Grandes Empresas, las competencias de gestión tributaria atribuidas a los Jefes de Dependencia Regional de Gestión Tributaria.
 
-Sin perjuicio de lo anterior, los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal.
+Sin perjuicio de lo anterior, los obligados tributarios podrán, en cualquier caso, presentar sus declaraciones, recursos, consultas y cualquier otro documento con trascendencia tributaria en la Delegación o Administración que corresponda a su domicilio fiscal, salvo que deban relacionarse a través de medios electrónicos con las Administraciones públicas, en cuyo caso, la presentación deberá hacerse a través de dichos medios.
+
+> Se modifica por el apartado único.3 de la Resolución de 19 de marzo de 2025. Ref. BOE-A-2025-6949
 
 > Se modifican los puntos 2.1, 3.3 y 4.2.3 por el apartado único.2 a 4 de la Resolución de 4 de abril de 2019. Ref. BOE-A-2019-5023
 

@@ -1,30 +1,36 @@
-## Tres. La Unidad Central de Coordinación en materia de Delitos contra la Hacienda Pública y la Unidad de Coordinación de Grupos.
+## Tres. La Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública y la Unidad Central de Selección y de Grupos.
 
 1. La Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública.
 
 A la Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública le corresponden principalmente las siguientes funciones:
 
-a) La integración y comunicación a la Inspección de los Tributos de criterios en materia de delitos contra la Hacienda Pública.
+a) La elaboración de los criterios que deben seguirse en orden a la tramitación de los posibles delitos contra la Hacienda Pública.
 
-b) La elaboración de los criterios que deben seguirse en orden a la tramitación de los posibles delitos contra la Hacienda Pública.
+b) La integración y comunicación a la Inspección de los Tributos de criterios en materia de delitos contra la Hacienda Pública.
 
-c) El Asesoramiento a los servicios de inspección a que se refiere el apartado Uno de la presente resolución, en relación con los expedientes que éstos tramiten, cuando en los mismos pudieran apreciarse indicios de delito contra la Hacienda Pública.
+c) El asesoramiento a los servicios de inspección a que se refiere el apartado Uno de la presente resolución, en relación con los expedientes que éstos tramiten, cuando en los mismos pudieran apreciarse indicios de delito contra la Hacienda Pública.
 
-Las funciones de la Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública se entienden sin perjuicio de las propias de los demás órganos a que se refiere el apartado Uno de esta Resolución.
+d) La coordinación en materia de delitos contra la Hacienda Pública de las áreas de Investigación de la Oficina Nacional de Investigación del Fraude, así como de los órganos de Inspección de las Dependencias Regionales de Inspección y de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes dedicados a dicha materia.
 
-El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre asignación de tareas a los Técnicos de Hacienda adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
+Las funciones de la Unidad Central de Coordinación en materia de delitos contra la Hacienda Pública se entienden sin perjuicio de las propias de los demás órganos a que se refiere el apartado Uno de esta resolución.
 
-2. La Unidad de Coordinación de Grupos.
+El Departamento de Inspección Financiera y Tributaria podrá dictar instrucciones sobre asignación de tareas a los Técnicos de Hacienda adscritos, en atención a sus distintos niveles de responsabilidad.
 
-A la Unidad de Coordinación de Grupos le corresponden principalmente las siguientes funciones:
+2. La Unidad Central de Selección y de Grupos.
 
-a) La planificación de las actuaciones inspectoras que vayan a llevarse a cabo cerca de entidades que tributen en régimen de declaración consolidada, formen parte de uniones temporales de empresas o de agrupaciones de interés económico, o tributen por el régimen especial del grupo de entidades del Impuesto sobre el Valor Añadido, a cuyo efecto llevará los registros pertinentes.
+A la Unidad Central de Selección y de Grupos le corresponde desempeñar principalmente las siguientes funciones:
 
-b) La coordinación e impulso de las actuaciones que se practiquen cerca de tales contribuyentes, sin perjuicio de las funciones que en el mismo sentido correspondan a los restantes órganos, equipos y unidades de inspección.
+a) Desarrollar líneas de selección centralizadas a nivel nacional, cuando se considere preciso.
 
-El Departamento de Inspección Financiera y Tributaria dictará instrucciones sobre la asignación de tareas a los Técnicos de Hacienda adscritos, con distintos niveles de responsabilidad, en atención a las diferentes categorías de puestos de trabajo que pueden ocupar.
+b) Realizar tareas de coordinación con las Dependencias Regionales de Inspección para extender a nivel nacional las líneas de selección más relevantes desarrolladas por éstas, así como facilitar a los órganos de inspección las relaciones de obligados tributarios que precisen con el fin de completar y complementar los perfiles de riesgo establecidos en el Plan Anual de Control Tributario y Aduanero para la realización de actuaciones inspectoras.
 
-3. (Suprimido).
+c) Coordinar dentro del Departamento de Inspección Financiera y Tributaria, las propuestas de implementación y mejora de las herramientas informáticas realizadas por el Departamento de Informática Tributaria con el objeto de favorecer el desarrollo de las tareas de selección de obligados tributarios.
+
+d) La coordinación e impulso de las actuaciones que se practiquen cerca de las entidades que tributen en régimen de consolidación fiscal, formen parte de uniones temporales de empresas o de agrupaciones de interés económico, o tributen por el régimen especial del grupo de entidades del Impuesto sobre el Valor Añadido, sin perjuicio de las funciones que en el mismo sentido correspondan a los restantes órganos, equipos y unidades de inspección.
+
+El Departamento de Inspección Financiera y Tributaria podrá dictar instrucciones sobre la asignación de tareas a los Técnicos de Hacienda adscritos, en atención a sus distintos niveles de responsabilidad.
+
+> Se modifica por el apartado único.2 de la Resolución de 19 de marzo de 2025. Ref. BOE-A-2025-6949
 
 > Se modifican el título y determinados términos, y se suprime el punto 3 por el art.único.1 y 5 de la Resolución de 7 de mayo de 2014. Ref. BOE-A-2014-5049.
 
