@@ -72,7 +72,7 @@ Comunidad Autónoma de Castilla-La Mancha
 
 – Laguna de Pétrola. Provincia de Albacete.
 
-– P.N. Tablas de Daimiel. Provincia de Ciudad Real.
+– PN Tablas de Daimiel. Provincia de Ciudad Real.
 
 – Laguna de Navaseca. Provincia de Ciudad Real.
 
@@ -92,7 +92,7 @@ Comunidad Autónoma de Cataluña
 
 – Delta del Ebro. Provincia de Tarragona.
 
-– Aiguamolls de l'Empordá. Provincia de Gerona.
+– Aiguamolls de l’Empordá. Provincia de Girona.
 
 – Delta del Llobregat. Provincia de Barcelona.
 
@@ -100,7 +100,7 @@ Comunidad Autónoma de Cataluña
 
 – Arrozales de la comarca del Montsià. Provincia de Tarragona.
 
-Comunidad Valenciana
+Comunitat Valenciana
 
 – Albufera de Valencia. Provincia de Valencia.
 
@@ -116,9 +116,9 @@ Comunidad Valenciana
 
 – El Prat de Cabanes. Provincia de Castellón.
 
-– La Marjal d'Almenara. Provincia de Castellón.
+– La Marjal d’Almenara. Provincia de Castellón.
 
-Comunidad Autónoma de las Illes Balears.
+Comunidad Autónoma de las Illes Balears
 
 – Albuferas del Nord de Mallorca.
 
@@ -129,6 +129,8 @@ Comunidad Autónoma de Cantabria
 Comunidad Autónoma de Galicia
 
 – Complejo Intermareal de Umia-O Grove-La Lanzada-Punta Carreirón-Laguna Bodeira. Provincia de Pontevedra.
+
+– Embalse de Vilagudín. Provincia de A Coruña.
 
 Comunidad Autónoma de la Región de Murcia
 
@@ -237,6 +239,8 @@ Comunidad Autónoma de Extremadura
 – Arrozales de Gorbea. Provincias de Cáceres y Badajoz.
 
 – Embalse de García Sola. Provincias de Cáceres y Badajoz.
+
+> Se modifica por el art. único.2 de la Orden APA/331/2025, de 2 de abril. Ref. BOE-A-2025-6950
 
 > Se modifica por el art. único de la Orden APA/997/2024, de 13 de septiembre. Ref. BOE-A-2024-18827
 

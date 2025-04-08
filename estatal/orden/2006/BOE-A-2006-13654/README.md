@@ -21,6 +21,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 7](a7.md)
 - [Artículo 8](a8.md)
 - [Artículo 9](a9.md)
+- [Disposición adicional única](da.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
