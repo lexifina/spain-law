@@ -60,6 +60,10 @@ El desempeño de estas funciones precisa, cada vez más y de manera significativ
 
 En el ámbito del Ministerio de Sanidad, en concreto, para el nombramiento de la persona titular de la Dirección General de Salud Pública y Equidad en Salud se requieren probadas competencias y experiencia en el ámbito de estudio de los determinantes sociales de la salud y su aplicación bajo el Marco de Salud en Todas las Políticas, habiéndose trabajado bajo ese marco en la reciente pandemia del COVID-19 y habiéndolo aplicado en diferentes ámbitos relacionados con las políticas de salud. Esta persona ha de contar con especial reconocimiento en el ámbito de los determinantes sociales de la salud, con capacidad para el diseño de políticas innovadoras en el ámbito de la salud pública, combinado con un amplio conocimiento en materia de equidad en salud.
 
+En el Ministerio de Inclusión, Seguridad Social y Migraciones, la Dirección General de Gestión Migratoria ejerce funciones relevantes referidas a la adecuada gestión de eventuales situaciones vinculadas a la llegada de inmigrantes, así como la adopción de distintas medidas de coordinación, planificación funcional y conocimiento de la realidad social existente en el territorio, en materia de autorizaciones de trabajo y residencia.
+
+Se trata de funciones que requieren unos conocimientos específicos, unos requerimientos técnicos y una experiencia profesional y de relación con organizaciones representativas y de la sociedad civil que justifican que su titular no sea necesariamente un funcionario público y puedan ser también ejercidas por personas que puedan resultar idóneas para su desempeño. Por todo ello, se considera conveniente excepcionar de la reserva funcionarial el nombramiento de la persona titular de la Dirección General del Ministerio de Inclusión, Seguridad Social y Migraciones antes mencionada.
+
 El texto normativo se adapta a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, se cumple el principio de necesidad y eficacia, por cuanto era necesaria la aprobación de un real decreto de desarrollo de los reales decretos por el que se reestructuran los departamentos ministeriales y por el que se crean Subsecretarías en los departamentos ministeriales. Se cumple también el principio de proporcionalidad, por cuanto se ha procurado atender de forma exclusiva los objetivos estrictamente exigidos.
 
 Respecto al principio de seguridad jurídica, se ha garantizado la coherencia del proyecto normativo con el resto del ordenamiento jurídico nacional. En cuanto al principio de transparencia, se prevé su publicación oficial en el «Boletín Oficial del Estado» y en el Portal de Transparencia. Finalmente, es también adecuada al principio de eficiencia.
@@ -67,3 +71,5 @@ Respecto al principio de seguridad jurídica, se ha garantizado la coherencia de
 En su virtud, a iniciativa de los Ministros y Ministras interesados, a propuesta de la Vicepresidenta Cuarta del Gobierno y Ministra de Hacienda y Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 5 de diciembre de 2023,
 
 DISPONGO:
+
+> Se modifica por el art. 1.1 del Real Decreto 268/2025, de 8 de abril. Ref. BOE-A-2025-7099
