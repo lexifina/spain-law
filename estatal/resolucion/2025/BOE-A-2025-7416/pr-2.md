@@ -1,0 +1,9 @@
+## Primero. Tipo de botiquín y dotación preceptiva de las embarcaciones pesqueras que han cambiado su clasificación o zona de actividad asociada conforme a las disposiciones adicionales segunda o tercera del Real Decreto 543/2007, de 27 de abril, por el que se determinan las normas de seguridad y de prevención de la contaminación a cumplir por los buques pesqueros menores de 24 metros de eslora (L), para incluir un régimen especial aplicable a la pesca de túnidos.
+
+Las embarcaciones mencionadas en las disposiciones adicionales segunda o tercera del Real Decreto 543/2007, de 27 de abril, deberán disponer de los siguientes tipos de botiquín general:
+
+a) Un botiquín tipo C hasta 30 millas, cuyo contenido y continente se ajustará a la dotación establecida en el anexo II del Real Decreto 1120/2021, de 21 de diciembre por el que se modifica el Real Decreto 258/1999, de 12 de febrero, por el que se establecen condiciones mínimas sobre la protección de la salud y la asistencia médica de los trabajadores del mar, las embarcaciones de pesca local, sea cual sea la eslora L, con navegación autorizada hasta un máximo de 45 millas de la costa española.
+
+b) Un botiquín tipo C hasta 60 millas, cuyo contenido y continente se ajustará a la dotación establecida en el anexo II del Real Decreto 258/1999, de 12 de febrero, por el que se establecen condiciones mínimas sobre la protección de la salud y la asistencia médica de los trabajadores del mar, las embarcaciones de pesca litoral, sea cual sea la eslora L, con navegación autorizada hasta un máximo de 60 millas de la costa española.
+
+c) Un botiquín tipo B adaptado, cuyo contenido y continente se ceñirá a lo dispuesto en el anexo I de la presente resolución, las embarcaciones de pesca litoral, sea cual sea la eslora L, con navegación autorizada desde las 60 millas hasta las 140 millas de la costa española.
