@@ -8,7 +8,7 @@
 
 4. En cada convocatoria, de las dos anuales, las autoridades competentes podrán conceder Cruces del Mérito Militar, del Mérito Naval y del Mérito Aeronáutico, con distintivo blanco, como Cruz, al personal militar y civil destinado en el Ministerio de Defensa y en las Fuerzas Armadas, en los siguientes porcentajes máximos:
 
-a) Para el personal militar, el 2,5 por ciento de los efectivos de cada una de las categorías de oficial, suboficial y de tropa y marinería.
+a) Para el personal militar, el 3 por ciento de los efectivos de cada una de las categorías de oficial, suboficial y de tropa y marinería.
 
 b) Para el personal civil, el 1,5 por ciento de este personal.
 
@@ -26,7 +26,7 @@ e) Criterio del Jefe de la Unidad, centro u organismo de destino.
 
 6. En cada convocatoria, de las dos anuales, las autoridades competentes podrán conceder Menciones honoríficas al personal militar y civil destinado en el Ministerio de Defensa y en las Fuerzas Armadas, en los siguientes porcentajes máximos:
 
-a) Para el personal militar, el 1 por ciento de los efectivos de cada una de las categorías de oficial, suboficial y de tropa y marinería.
+a) Para el personal militar, el 3 por ciento de los efectivos de cada una de las categorías de oficial, suboficial y de tropa y marinería.
 
 b) Para el personal civil, el 0,60 por ciento de este personal.
 
@@ -47,5 +47,7 @@ c) Para el personal militar destinado fuera del ámbito competencial de dichas a
 d) Para personal del Cuerpo de la Guardia Civil, diez (10).
 
 e) Para personal del Cuerpo Nacional de Policía, cuatro (4).
+
+> Se modifican los apartados 4.a) y 6.a) por el art. único de la Orden DEF/369/2025, de 9 de abril. Ref. BOE-A-2025-8012
 
 > Se añaden los apartados 4 a 10 por el art. único.1 de la Orden DEF/1716/2015, de 29 de julio. Ref. BOE-A-2015-9165.
