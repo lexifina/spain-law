@@ -66,9 +66,15 @@ a) Aeropuertos civiles designados facilitados:
 
 ● Aeropuerto de la Región de Murcia.
 
+● Córdoba.
+
 b) Aeropuertos en aeródromos de utilización conjunta designados como facilitados:
 
 ● Tenerife Norte.
+
+> Se añade el aeropuerto de Córdoba en la letra a) del apartado II por el apartado segundo de la Orden TRM/381/2025, de 7 de abril. Ref. BOE-A-2025-8141
+
+> Téngase en cuenta, para su aplicación, el apartado tercero de la citada Orden.
 
 > Se añade el aeropuerto de la Región de Murcia en la letra a) y se suprime la letra c) del apartado II por el apartado segundo de la Orden FOM/1408/2018, de 19 de diciembre. Ref. BOE-A-2018-17841
 
