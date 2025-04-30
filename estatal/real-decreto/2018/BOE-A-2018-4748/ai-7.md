@@ -21,6 +21,7 @@ b) Convalidaciones entre módulos profesionales de títulos establecidos al ampa
 | 1227. Gestión de un pequeño comercio. – Ciclo Formativo de Grado Medio en Actividades comerciales. | 1606. Constitución de pequeños negocios alimentarios. |
 | Empresa e iniciativa emprendedora. (Cualquier ciclo formativo) | 1606. Constitución de pequeños negocios alimentarios. |
 | Ciclo Formativo completo de Grado Superior en administración y finanzas. (Administración y Gestión). | 1606. Constitución de pequeños negocios alimentarios. |
+| 0623. Gestión económica y financiera de la empresa. Ciclo formativo de grado superior de Técnico Superior en Comercio Internacional. Ciclo formativo de grado superior de Técnico Superior en Gestión de Ventas y Espacios Comerciales. Ciclo formativo de grado superior de Técnico Superior en Marketing y Publicidad. Ciclo formativo de grado superior de Técnico Superior en Transporte y Logística. (Comercio y Marketing). | 1606. Constitución de pequeños negocios alimentarios. |
 | Ciclo Formativo completo de Grado Superior en Procesos y calidad en la industria alimentaria. (Industrias alimentarias). | 1610. Seguridad y calidad alimentaria en el comercio. |
 | 0931. Marketing digital. – Ciclo Formativo de Grado Superior en Gestión de ventas y espacios comerciales. – Ciclo Formativo de Grado Superior en Marketing y publicidad. | 1613. Comercio electrónico en negocios alimentarios. |
 | Ciclo Formativo completo de Grado Medio en Actividades comerciales. | 1615. Gestión de un comercio alimentario. |
@@ -41,3 +42,5 @@ c) Convalidaciones entre módulos profesionales establecidos en el título de T�
 | Ciclo Formativo completo. | 0413. Comercialización de productos agroecológicos. – Ciclo Formativo de Grado Medio en producción agroecológica. (Agraria). |
 
 * Se requerirá aportar simultáneamente la formación en los módulos profesionales para tener derecho a la convalidación.
+
+> Se modifica el apartado b) por la disposición final 1 del Real Decreto 212/2025, de 18 de marzo. Ref. BOE-A-2025-7193
