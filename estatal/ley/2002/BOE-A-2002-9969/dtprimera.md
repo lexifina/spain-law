@@ -1,8 +1,8 @@
 ## Disposición transitoria primera.
 
-Las modificaciones incorporadas en los artículos 14, 15, 19 y 29.6 del presente Concierto resultarán de aplicación a los periodos impositivos o de liquidación, según el impuesto de que se trate, que se inicien a partir de la entrada en vigor de la Ley que apruebe la modificación del Concierto adoptada por Acuerdo de la Comisión Mixta del Concierto Económico de fecha de 19 de julio de 2017.
+Las modificaciones de los artículos 14, 15, 19, 27 y 36 del presente Concierto adoptadas por Acuerdo de la Comisión Mixta del Concierto Económico de fecha 13 de noviembre de 2024 resultarán de aplicación a los periodos impositivos o de liquidación, según el impuesto de que se trate, que se inicien a partir del 1 de enero de 2026.
 
-Asimismo, lo dispuesto en el artículo 29.9 y 47 ter del presente Concierto Económico será de aplicación a las regularizaciones referidas exclusivamente a periodos impositivos iniciados con posterioridad a la entrada en vigor de la Ley que apruebe la modificación del Concierto adoptada por Acuerdo de la Comisión Mixta del Concierto Económico de fecha de 19 de julio de 2017.
+> Se modifica por el art. único, en los términos establecidos en el apartado 26 del anexo de la Ley 3/2025, de 29 de abril. Ref. BOE-A-2025-8568
 
 > Se modifica por el art. único, en los términos establecidos en el anexo de la Ley 10/2017, de 28 de diciembre. Ref. BOE-A-2017-15713
 
