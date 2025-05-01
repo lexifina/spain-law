@@ -12,7 +12,7 @@ b) Incapacidad permanente total para la profesión habitual.
 
 c) Incapacidad permanente absoluta para todo trabajo.
 
-d) Gran invalidez.
+d) Gran incapacidad.
 
 2. Se entenderá por profesión habitual, en caso de accidente, sea o no de trabajo, la desempeñada normalmente por el trabajador al tiempo de sufrirlo. En caso de enfermedad común o profesional, aquella a la que el trabajador dedicaba su actividad fundamental durante el período de tiempo, anterior a la iniciación de la incapacidad, que reglamentariamente se determine.
 
@@ -22,6 +22,8 @@ d) Gran invalidez.
 
 5. Se entenderá por incapacidad permanente absoluta para todo trabajo la que inhabilite por completo al trabajador para toda profesión u oficio.
 
-6. Se entenderá por gran invalidez la situación del trabajador afecto de incapacidad permanente y que, por consecuencia de pérdidas anatómicas o funcionales, necesite la asistencia de otra persona para los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.»
+6. Se entenderá por gran incapacidad la situación del trabajador afecto de incapacidad permanente y que, por consecuencia de pérdidas anatómicas o funcionales, necesite la asistencia de otra persona para los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos.»
 
 Dos. Hasta que no se desarrolle reglamentariamente dicho artículo, todas las referencias que en este texto refundido y en las demás disposiciones se realizasen a la «incapacidad permanente parcial» deberán entenderse hechas a la «incapacidad permanente parcial para la profesión habitual»; las que se realizasen a la «incapacidad permanente total» deberán entenderse hechas a la «incapacidad permanente total para la profesión habitual»; y las hechas a la «incapacidad permanente absoluta», a la «incapacidad permanente absoluta para todo trabajo».
+
+> Se sustituyen las referencias a «gran invalidez» por «gran incapacidad» según establece la disposición adicional única de la Ley 2/2025, de 29 de abril. Ref. BOE-A-2025-8567
