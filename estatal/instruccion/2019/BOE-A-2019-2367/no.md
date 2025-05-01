@@ -1,0 +1,1 @@
+Esta Instrucción se deja sin efecto, desde el 1 de mayo de 2025, por la directriz primera de la Instrucción de 28 de abril de 2025, de la Dirección General de Seguridad Jurídica y Fe Pública. Ref. BOE-A-2025-8647#pr-2
