@@ -1,0 +1,25 @@
+La Real Academia de Farmacia tiene su origen en 1737, año en el que una Real Cédula de Felipe V aprueba los Estatutos del Real Colegio de Profesores Boticarios de Madrid.
+
+Desde esa fecha ha venido funcionando con diversos títulos y, entre los años 1741 y 1830, se impartieron en la citada institución enseñanzas de Farmacia, Química y Botánica e Historia Natural, hasta que los estudios farmacéuticos se configuraron como enseñanzas oficiales impartidas en la Universidad.
+
+Posteriormente, en el año 1895 fue declarada Corporación oficial y por Decreto de 9 de agosto de 1946 se integró en el Instituto de España.
+
+En la actualidad se rige por unos estatutos aprobados por Real Decreto 367/2002, de 19 de abril, por el que se modifica la denominación de la Real Academia de Farmacia y se aprueban sus Estatutos.
+
+La Junta General de la Real Academia Nacional de Farmacia ha aprobado, en su sesión extraordinaria celebrada el 17 de octubre de 2024, los nuevos Estatutos que se incorporan a este real decreto, con el doble objetivo de posibilitar una mayor eficacia en la consecución de los fines de la institución, y dar respuesta al desarrollo que el estudio de las ciencias experimentales ha experimentado en los últimos lustros.
+
+Asimismo, propone el cambio de la denominación actual de la Real Academia, que pasa a denominarse «Real Academia Nacional de Farmacia de España».
+
+De conformidad con la disposición adicional séptima del Real Decreto 472/2024, de 7 de mayo, por el que se desarrolla la estructura orgánica básica del Ministerio de Ciencia, Innovación y Universidades, corresponde a este departamento la relación administrativa con las Reales Academias y las Academias de ámbito nacional.
+
+Según la disposición adicional segunda del Real Decreto 1160/2010, de 17 de septiembre, por el que se regula el Instituto de España, las modificaciones de los Estatutos de las Academias de ámbito nacional se propondrán por la Academia de que se trate, previa aprobación interna según lo previsto en sus normas estatutarias. Se aprobarán por real decreto del Gobierno, a propuesta del Ministerio de Ciencia, Innovación y Universidades, el cual recabará previamente el informe del Instituto de España.
+
+En la tramitación de este real decreto se ha recabado el informe del Instituto de España, de conformidad con lo dispuesto en la disposición adicional segunda del Real Decreto 1160/2010, de 17 de septiembre; y, de acuerdo con lo establecido en el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, se han recabado los informes de la Oficina de Coordinación y Calidad Normativa del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, y de la Secretaría General Técnica del Ministerio de Ciencia, Innovación y Universidades.
+
+Este real decreto se ajusta a los principios de buena regulación (necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia) conforme a los cuales deben actuar las Administraciones públicas en el ejercicio de la potestad reglamentaria, según establece el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Así, este real decreto atiende a la necesidad de adecuar los estatutos y actualizar la denominación de la Real Academia Nacional de Farmacia de España, y responde a motivos de interés general, de posibilitar la mayor eficacia en la consecución en los fines de la Real Academia y dar respuesta al desarrollo del estudio de las ciencias experimentales; es proporcionado en el cumplimiento de este propósito, al contener la regulación imprescindible para atender las necesidades que pretende cubrir, sin afectar en forma alguna a los derechos y deberes de la ciudadanía; es eficaz, dado que el real decreto identifica claramente los fines perseguidos y es el instrumento más adecuado para garantizar su consecución, pues hay que tener en cuenta que, de conformidad con lo dispuesto en la disposición adicional segunda.5 del Real Decreto 1160/2010, de 17 de septiembre, las modificaciones de los Estatutos de las Academias de ámbito nacional se aprobarán por real decreto del Gobierno; contribuye a dotar de mayor seguridad jurídica a la organización y funcionamiento de la Real Academia; cumple también con el principio de transparencia, toda vez que el texto del proyecto de real decreto será objeto de publicación en el «Boletín Oficial del Estado» tras su aprobación en Consejo de Ministros, siendo una norma de general conocimiento, y además la norma define claramente sus objetivos, reflejados tanto en su preámbulo como en la Memoria que la acompaña, y el refuerzo de la modificación de los Estatutos se orienta a facilitar el cumplimiento eficaz de las funciones de la Academia, lo que es esperable que redunde en una mayor garantía en el funcionamiento transparente de dicha institución; y es también adecuado al principio de eficiencia, ya que no supone cargas administrativas para la ciudadanía.
+
+En su virtud, a propuesta de la Ministra de Ciencia, Innovación y Universidades, y previa deliberación del Consejo de Ministros en su reunión del día 8 de abril de 2025,
+
+DISPONGO:
