@@ -1,6 +1,6 @@
 ## ANEXO IX
 
-## Rótulo de inspección periódicas
+## Rótulo de inspección periódica
 
 Características:
 
@@ -25,3 +25,5 @@ Caracteres en negro.
 6. El distintivo se colocará en lugar visible de la cabina (preferentemente la zona más iluminada) a una altura comprendida entre 1,80 y 1,90 m de altura desde el suelo de la cabina.
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2024/91/7258_14247347_3.png)
+
+> Se modifica el título por la disposición final 6.9 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df-6

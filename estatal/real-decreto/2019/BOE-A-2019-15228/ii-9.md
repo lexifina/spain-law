@@ -194,7 +194,7 @@ Las uniones reparadas se deberán probar nuevamente.
 
 El sistema de refrigeración deberá ser sometido a una prueba de estanquidad bien como conjunto o por sectores. La presión de la prueba será la indicada en la tabla 2 de la IF-06 y podrá realizarse antes de salir el equipo de fábrica, si el montaje se realiza en ésta, o bien in situ, si el montaje o la carga de refrigerante se hace en el lugar de emplazamiento.
 
-Para los sistemas compactos, semicompactos y de absorción herméticos, esta prueba de estanqueidad se efectuará en fábrica.
+Para los sistemas compactos y de absorción herméticos, esta prueba de estanqueidad se efectuará en fábrica.
 
 Para la prueba de estanquidad se utilizarán varias técnicas dependiendo de las condiciones de producción, por ejemplo, gas inerte a presión, vacío, gases trazadores, etc. El método utilizado será supervisado por el instalador frigorista.
 
@@ -309,3 +309,7 @@ La carga del refrigerante se realizará de la siguiente forma:
 – Para refrigerantes zeotrópicos, la carga se realizará en fase líquida y deberá efectuarse de modo que el fluido se expansione en el dispositivo que incorporan los evaporadores, de esta forma se evitará que pueda llegar líquido a los compresores. Para ello se dispondrá de una toma de carga con válvula y una válvula de cierre aguas arriba de la tubería de alimentación de líquido, que permita independizar el punto de carga del sector de alta.
 
 Ninguna botella de refrigerante líquido deberá ser conectada o dejarse permanentemente conectada a la instalación fuera de las operaciones de carga y descarga del refrigerante.
+
+> Se modifica el apartado 1.4.1, segundo párrafo por la disposición final 4.4 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df-4
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8 del citado Real Decreto.

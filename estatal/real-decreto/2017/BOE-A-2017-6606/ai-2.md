@@ -10,7 +10,7 @@
 
 4. Las operaciones de mantenimiento recogidas en la tabla II serán efectuadas por personal del fabricante o de la empresa mantenedora, si cumplen con los requisitos establecidos en el artículo 16 del presente Reglamento.
 
-5. Para seguimiento de los programas de mantenimiento de los equipos y sistemas de protección contra incendios, establecidos en las tablas I, II y III, se deberán elaborar unas actas que serán conformes con la serie de normas UNE 23580 y que contendrán como mínimo la información siguiente:
+5. Para el seguimiento de los programas de mantenimiento de los equipos y sistemas de protección contra incendios, establecidos en las tablas I, II y III, se deberá elaborar la documentación que se recoge en la letra e) del artículo 17, y que consistirá en un certificado donde conste o se haga referencia a la información general, firmado por un responsable técnico de la empresa, y debiendo llevar anexas las listas de comprobación con los detalles de las operaciones realizadas. Para la elaboración de estos documentos se podrán usar los formatos de actas recogidos en la serie de normas UNE 23580, debiéndose adaptar estas a lo dispuesto en el presente anexo, o bien, usar otro formato equivalente. En todo caso, su contenido mínimo incluirá lo siguiente:
 
 a) Información general.
 
@@ -59,3 +59,7 @@ Dichas actas deben ir firmadas por la/s persona/s responsable/s de realizar las 
 11. En aplicación del artículo 1 del presente Reglamento, el mantenimiento establecido en el mismo, se entenderá que no es aplicable a las instalaciones situadas en establecimientos regulados por el Real Decreto 863/1985, de 2 de abril, por el que se aprueba el Reglamento General de normas Básicas de Seguridad Minera, y en todas aquellas que posean reglamentación específica, en la que se establezca el correspondiente programa de mantenimiento, que supere las exigencias mínimas que establece este Reglamento.
 
 Asimismo, quedan excluidas aquellas partes de las instalaciones de protección contra incendios de las instalaciones nucleares que, por su relación con el riesgo nuclear y/o radiológico, se encuentren sometidas a los requisitos específicos de vigilancia y mantenimiento establecidos en el documento «Especificaciones Técnicas de Funcionamiento», «Manual de Requisitos de Operación» o documento equivalente, que se recogen en sus correspondientes Permisos de Explotación, o en otros documentos que pudieran derivarse de éste y cuya vigilancia de cumplimiento corresponde al Consejo de Seguridad Nuclear. El mantenimiento del resto de las instalaciones de protección contra incendios de las instalaciones nucleares se realizará según se establece en este Reglamento.
+
+> Se modifica el primer párrafo del apartado 5 por la disposición final 1.18 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 6ª del citado Real Decreto.

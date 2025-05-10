@@ -358,6 +358,8 @@ ND = No conocido /NA = No aplicable/NF = No inflamable.
 
 Los Refrigerantes marcados con los números 10 y 11 son refrigerantes fluorados y tienen PAO mayor de 0 o PCA mayor de 150.
 
+Nota: Adicionalmente a los refrigerantes recogidos en esta tabla, podrán también ser utilizados los recogidos en la norma UNE-EN 378-1, siempre que estos no supongan una minoración de las condiciones de seguridad.
+
 ## APÉNDICE 2
 
 ## Impacto total equivalente sobre el calentamiento atmosférico (TEWI Total Equivalent Warming Impact)
@@ -445,6 +447,10 @@ Muchos de los supuestos y factores en este método de cálculo son normalmente e
 Las comparaciones (de los resultados) entre diferentes aplicaciones o diferentes emplazamientos pueden tener, por tanto, poca validez.
 
 Este cálculo tiene una particular importancia en la fase de diseño o cuando haya que tomar la decisión de realizar una conversión a otro refrigerante.
+
+> Se añade la nota al pie en la tabla A del apéndice 1 por la disposición final 4.1 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df-4
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8 del citado Real Decreto.
 
 > Se amplía la relación de refrigerantes autorizados en la tabla A del apéndice 1 con la inclusión del refrigerante R-480A conforme se indica en el apartado primero de la Resolución de 30 de mayo de 2024. Ref. BOE-A-2024-11947
 

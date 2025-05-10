@@ -84,4 +84,8 @@ k) Eliminar el amianto de los mecanismos de frenado, cuando se sustituyan éstos
 
 l) Cuando se proceda al cambio de una bomba del equipo hidráulico, el nuevo equipo deberá disponer de una bomba manual para desplazar la cabina hacia arriba.
 
-m) Cuando se cambie la cabina se instalarán en ella y en el descansillo órganos de mando inteligibles por minusválidos.
+m) Cuando se cambie la cabina se instalarán en ella y en el descansillo órganos de mando inteligibles por personas con discapacidad.
+
+> Se modifica la letra m) del apartado 8 por la disposición final 6.8 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df-6
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8ª del citado Real Decreto.

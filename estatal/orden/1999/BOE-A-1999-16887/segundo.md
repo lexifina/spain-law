@@ -1,23 +1,25 @@
 ## Segundo.
 
-El número mínimo y calificación mínima según la Norma UNE 23110-1:1996 (EN3) de los extintores que deberán llevar los vehículos reglamentariamente obligados será:
+El número mínimo y calificación mínima de los extintores que deberán llevar los vehículos reglamentariamente obligados será:
 
-Vehículos a motor para transporte de personas:
+a) Vehículo a motor para transporte de personas:
 
-Hasta 9 plazas incluido el conductor: Uno de clase 5A/21B.
+1.º Hasta 9 plazas (incluido el conductor): Uno de clase 5A/21B.
 
-Hasta 23 plazas incluido el conductor: Uno de clase 8A/34B.
+2.º Hasta 23 plazas (incluido el conductor): Uno de clase 8A/34B.
 
-Más de 23 plazas incluido el conductor: Uno de clase 21A/113B.
+3.º Más de 23 plazas (incluido el conductor): Uno de clase 21A/113B.
 
-Vehículos a motor y conjuntos de vehículos para el transporte de mercancías y cosas:
+b) Vehículos a motor y conjuntos de vehículos para el transporte de mercancías y cosas:
 
-Hasta 1.000 kg de PMA: Uno de clase 8A/34B.
+1.º Desde 3.500 kg de MMA hasta 7.000 kg de MMA: Uno de clase 21A/113B.
 
-Hasta 3.500 kg de PMA: Uno de clase 13A/55B.
+2.º Hasta 20.000 kg de MMA: Uno de clase 34A/144B.
 
-Hasta 7.000 kg de PMA: Uno de clase 21A/113B.
+3.º Más de 20.000 kg de MMA: Dos de clase 34A/144B.
 
-Hasta 20.000 kg de PMA: Uno de clase 34A/144B.
+Alternativamente a lo indicado aquí para los vehículos para el transporte de mercancías y cosas, también se considerará cumplido el requisito si se dispone de la dotación mínima de extintores que se recoge en el Acuerdo sobre Transporte Internacional de Mercancías Peligrosas por Carretera (ADR), en función de su MMA.
 
-Más de 20.000 kg de PMA: Dos de clase 34A/144B.
+> Se modifica por la disposición final 3 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df-3
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8ª del citado Real Decreto.

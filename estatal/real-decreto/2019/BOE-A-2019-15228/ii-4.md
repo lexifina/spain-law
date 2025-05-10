@@ -633,29 +633,33 @@ El equipo puede ubicarse a cualquier altura sobre el suelo. Cuando se ponga en f
 
 1. General.
 
-Donde la combinación de categorías de clasificación y acceso de ubicación mostradas en las tablas A y B del apéndice 1 de la IF-04 permitan el uso de disposiciones alternativas, el diseñador puede elegir (para todos o algunos de los espacios ocupados atendidos por el equipo) calcular la carga de refrigerante permitida utilizando los valores RCL, QLMV o QLAV que figuran en la tabla A de este apéndice 4. Todos los espacios ocupados en los que se encuentre alguna parte del sistema que contenga refrigerante deberán ser tenidos en cuenta en el cálculo de la carga admisible de refrigerante. Estas disposiciones alternativas pueden usarse sólo para un espacio ocupado que cumple todas las condiciones siguientes:
+Donde la combinación de categorías de clasificación y acceso de ubicación mostradas en las tablas A y B del apéndice 1 de la Instrucción IF-04 permitan el uso de disposiciones alternativas, el diseñador puede elegir (para todos o algunos de los espacios ocupados atendidos por el equipo) calcular la carga de refrigerante permitida utilizando los valores RCL, QLMV o QLAV que figuran en la tabla A de este apéndice 4. Todos los espacios ocupados en los que se encuentre alguna parte del sistema que contenga refrigerante deberán ser tenidos en cuenta en el cálculo de la carga admisible de refrigerante. Estas disposiciones alternativas pueden usarse sólo para un espacio ocupado que cumple todas las condiciones siguientes:
 
 a) Sistemas donde el refrigerante se clasifica como clase de seguridad A1 o A2L según tabla A del apéndice 1 de IF-02.
 
 b) Sistemas donde la carga de refrigerante no exceda de 150 kg y no exceda de 1,5 × m3 para refrigerantes A2L.
 
-c) Sistemas en los que la capacidad de enfriamiento (calefacción) de la unidad interior no supere el 25% de la capacidad total de enfriamiento (calefacción) de las unidades situadas en el exterior y donde las tuberías que atienden los equipos situados en el espacio ocupado en cuestión no están sobredimensionadas en relación con la capacidad del equipo.
+c) Sistemas en los que todas las derivaciones (por ejemplo, colectores o piezas en T) y todos los cambios de diámetro (por ejemplo, reductores) en tuberías que contienen refrigerante en el espacio ocupado en cuestión están fabricados de accesorios o colectores construidos en fábrica.
 
-d) La ubicación del sistema es tipo 2.
+d) Sistemas que son partidos y en los que el diseño, el dimensionamiento y la selección de materiales y componentes de tuberías que contienen refrigerante instaladas sobre el terreno en el espacio ocupado en cuestión están de acuerdo con las instrucciones de los fabricantes de las unidades construidas en fábrica.
 
-e) Sistemas en los que el intercambiador de calor de la unidad interior y el control del sistema están diseñados para evitar daños debido a la formación de hielo.
+e) Sistemas en los que no se instalan válvulas (por ejemplo, válvulas de expansión, de inversión o de servicio) o aberturas de servicio en el espacio ocupado en cuestión, con la excepción de válvulas o aberturas de servicio que formen parte de las unidades construidas en fábrica.
 
-f) Sistemas donde las partes que contienen refrigerante de la unidad interior están protegidas contra la rotura del ventilador o el ventilador está diseñado para evitar que se rompa.
+f) La ubicación del sistema es tipo 2.
 
-g) Sistemas donde se utilizan sólo uniones permanentes en el espacio ocupado en cuestión, excepto para las juntas realizadas «in situ» para unir directamente la unidad interior a la tubería.
+g) Sistemas en los que el intercambiador de calor de la unidad interior y el control del sistema están diseñados para evitar daños debido a la formación de hielo.
 
-h) Sistemas donde se instalan los tubos que contienen el refrigerante en el espacio ocupado en cuestión de manera tal que estén protegidos contra daño accidental según apartado 3.3 de la IF-06 y apartado 3 de este apéndice.
+h) Sistemas donde las partes que contienen refrigerante de la unidad interior están protegidas contra la rotura del ventilador o el ventilador está diseñado para evitar que se rompa.
 
-i) Disposiciones alternativas para garantizar la seguridad se proporcionan en los apartados 2.2 y 2.3 de este apéndice.
+i) Sistemas donde se utilizan solo uniones permanentes en el espacio ocupado en cuestión, excepto para las juntas realizadas «in situ» para unir directamente la unidad interior a la tubería.
 
-j) Las puertas del espacio ocupado no son estancas.
+j) Sistemas donde se instalan los tubos que contienen el refrigerante en el espacio ocupado en cuestión de manera tal que estén protegidos contra daño accidental según apartado 3.3 de la IF-06 y apartado 3 de este apéndice.
 
-k) El efecto del flujo descendente se mitiga aplicando el apartado 2.4 de este apéndice.
+k) Disposiciones alternativas para garantizar la seguridad se proporcionan en los apartados 2.2 y 2.3 de este apéndice.
+
+l) Las puertas del espacio ocupado no son estancas.
+
+m) El efecto del flujo descendente se mitiga aplicando el apartado 2.4 de este apéndice.
 
 Siempre que se cumplan todas las condiciones anteriores, se supone que la fuga máxima en el espacio ocupado no es mayor que la resultante de un poro y la carga máxima se calcula sobre esa base.
 
@@ -795,9 +799,7 @@ Los valores de QLMV se encuentran en este mismo apéndice.
 
 Las aberturas para renovación de aire se proporcionarán tanto en la parte superior como en la inferior. Para estas aberturas de renovación, la suma de las áreas a nivel superior y la suma de las áreas a nivel inferior deberán ser por lo menos el área determinada de la fórmula (7). Esta área se puede dividir en dos o más aberturas en cada localización alta y baja, que estarán a su vez situadas cerca del techo y del suelo respectivamente. Si el techo está suspendido y la pared no llega al mismo en habitaciones contiguas, entonces la abertura superior no es necesaria.
 
-(7)
-
-![imagen](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIgAAAAqCAYAAABobhO3AAAEIklEQVR4nO1b2bGrMAxVLamDQlIJpfD72kgx9JL3kZzhXEWLMZA4xGfGc2/Ai2zJWmwh0tHxI7iIyJ3KVNDmqtpcjTq3pM6k3s8VtHccDDCamTdLzCww9vL8DQFjwZpFZAjGmeRVYCAoHQ3hLo+dzhiez0ejvvdufD4f5MH4i7yC21laKhpXnn2WaJnZGb9jJbCrLYZ4WgTaY1DPWYtYzMH70Whr9WEBY0dCMotv8jpWwmO2yOI/aGaDARYi5k2S+zYsRFkdaxzQFmkP9p1QD78xLvtknjD/BDwhEPGFJxICT3hKdzWYlzEFpojpwBhR24s85jXLYlbv9Hd6toeJyoT19DhaQMBI3rWRFpmT9wz0CVO4ZreD8ZgHhOEqi+CUCuup8S4Novu0xmOGlYIFr9TngNDeiI4rPWNafz7sfqcPIrIwR4+H52tRIyCItth0WOuwRpudFtYZCJBFMVpwsghEZBGES/KsBLUm5iav89LCwCbn53HEOYiHUY0FRqwVji1OqqbdEgYIXz9LkfwklUM+LFh2kmqpcS0M+G0xdBBfE20Jcy3Gg1YG+x+HCQom8g3AjkS5Oe+Y4aNqYwmDd8+ix9NFazTdb8lBmcVUz7zo8fgO6TBEEcI3YpDPnwmURhazNO4/8A5pmtAV8HZ1RwUgwWc5ieuXXzviKsuFVBb2dfwg2EZmDhWgE2ey0nfzl0InwWRHz0fgXy8fLyYu4odL79zxn16cXhzo/EsuZ4lkOioxiB0GlkYy3Qc5ObwwsKVIxjrdjOjSWeulwlmS7Q7oE1VsJH1Ka/XD7444o9mNhlHq7g3eCUzCyu24J21L0viiMSPtiTrW+pSs3dHadDMNkQRZZuPd2UnWRRsjM4Fov3aHIm0v0lKTLH6bVyeKAkfJc1f3yIDfQkPzyNR8tkOsW9kSYOE84cJtLTaRR18UBWaab68M+C00NA1MLNr9rGGiPtZqPk4IthiE8UpTFPX41kdXFrZmwO9BQ5Ng5y9irpV4wyjxUTT4PMjKSsPCcm6oB8sEehGjh9rkoj1paA5Q75kNzsxATQSGuyiRRQPxuyipqIQGTjZeQxPWY20G/F40NIXM+dP1LFU5Bu8i4NsS/M9qnIWlxHxpJ5mFby1qEpz3pqEZRIwHMge1Nrzl/jhP9SZ/haHUfLGZ2nJcUCsge9LQDEp2Z/SNSkn8Dz+CoXNJ2YRNql6p+cJcom96M2wxMXvR0BSizxlE4oRhbh8x0PJbRjUm71pGFt5adWudwq1O6h40NImb+LYyOxzCgljto29WZ/m76N6HUmvMF7RQjVO4R5i7lYamMcrrpKKJWvc1XuE+9P3LRP1p71/3k+3K2mTprRnwe9DQPCyGe/XOhtNkwB8F6zZWwzMBHSeH/tbUuro+ndPV0dHR0dHxI/gP8EHsu6W3ABUAAAAASUVORK5CYII=)
+A = 0,0032 × m / (QLMV × V) (7)
 
 Donde:
 
@@ -1046,3 +1048,7 @@ Tabla 5.2
 | --- | --- | --- | --- | --- | --- |
 | 1 | 1 000 m3 | 150 kg | 420 kg | 420 kg | La carga máxima es 150 kg. |
 | 2 | 100 m3 | 150 kg | 42 kg | 42 kg | La carga máxima es: Opción 1: 42 kg. Opción 2: 150 kg si se adoptan dos medidas adicionales (apartado 2 de apéndice 4). |
+
+> Se modifican los apartados 1 y 3.3.2 del apéndice 4 por la disposición final 4.2 y 3 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df-4
+
+> Esta modificación se aplicará de conformidad con la disposición transitoria 8 del citado Real Decreto.
