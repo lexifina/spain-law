@@ -111,6 +111,7 @@
 | Limnoperna securis (Lamarck, 1819). |  | Mejillón pequeño marrón. |
 | Artrópodos no crustáceos |
 | Aedes albopictus (Skuse, 1895). |  | Mosquito tigre. |
+| Cydalima perspectalis (Walker, 1859). |  | Polilla del boj. |
 | Diocalandra frumenti Fabricius, 1801. |  | Picudo de las palmeras, Picudo de cuatro manchas. |
 | Dysdera crocata C. L. Koch, 1838. | Canarias. | Araña roja, Disdera invasora. |
 | Harmonia axyridis (Pallas, 1773). |  | Mariquita asiática. |
@@ -128,6 +129,7 @@
 | Rhynchophorus ferrugineus (Olivier, 1790). |  | Picudo rojo, gorgojo de las palmeras. |
 | Solenopsis invicta Buren, 1972. |  | Hormiga roja de fuego. |
 | Tapinoma melanocephalum (Fabricius, 1793). |  | Hormiga fantasma. |
+| Vespa orientalis Linnaeus, 1771. |  | Avispón oriental. |
 | Vespa spp. (especies no europeas ). |  |  |
 | Crustáceos |
 | Armadillidium vulgare Latreille, 1804. | Canarias. | Cochinita común. |
@@ -151,6 +153,7 @@
 | Fundulus heteroclitus (Linnaeus, 1766). |  | Fúndulo, Pez momia. |
 | Australoheros facetus ( = Herychtys facetum) (Jenyns, 1842). |  | Chanchito. |
 | Gambusia holbrooki Girard, 1859. |  | Gambusia. |
+| Hypostomus plecostomus Linnaeus, 1758. |  | Pleco. |
 | Ictalurus punctatus (Rafinesque, 1818). |  | Pez gato punteado, bagre de canal. |
 | Lepomis gibbosus (Linnaeus, 1758). |  | Percasol, pez sol. |
 | Micropterus salmoides (Lacépède, 1802). |  | Perca americana. |
@@ -174,6 +177,8 @@
 | Chrysemys picta (Schneider, 1783). |  | Tortuga pintada. |
 | Todas las especies de la Familia Colubridae sensu lato. | Canarias, Ibiza y Formentera. |  |
 | Elaphe guttata (Linnaeus, 1766). | Baleares. | Culebra del maizal. |
+| Género Mauremys Ritgen, 1828 (1). (1) Excepto Mauremys leprosa (Galápago leproso). |  | Tortugas acuáticas euroasiáticas, Galápagos. |
+| Género Pseudemys Gray, 1856. |  | Tortugas acuáticas americanas, Galápagos. |
 | Trachemys scripta (Schoepff, 1792). |  | Galápago americano o de Florida. |
 | Varanus exanthematicus. |  | Varano de sabana o varano terrestre-africano. |
 | Pseudemys peninsularis. |  | Tortuga de la península. |
@@ -218,6 +223,8 @@
 – Cuando en el ámbito de aplicación no se especifica nada, se refiere a todo el territorio español.
 
 – spp. Se refiere a todos los niveles taxonómicos infra-genéricos.
+
+> Se modifica por el art. 2 de la Orden TED/452/2025, de 5 de mayo. Ref. BOE-A-2025-9192
 
 > Se modifica por el art. 2 de la Orden TED/339/2023, de 30 de marzo. Ref. BOE-A-2023-8751
 

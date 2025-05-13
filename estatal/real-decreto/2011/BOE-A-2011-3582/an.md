@@ -75,6 +75,7 @@
 | Echium pininana | Pininana |  |  |
 | Echium handiense | Taginaste de Jandía |  | En peligro de extinción |
 | Glandora oleifolia (=Lithodora oleifolia) |  |  | Vulnerable |
+| Gyrocaryum oppositiflorum Valdés | Nomevés |  | En peligro de extinción |
 | Lappula deflexa |  |  | En peligro de extinción |
 | Lithodora nitida |  |  | En peligro de extinción |
 | Omphalodes littoralis subsp. gallaecica |  |  |  |
@@ -90,11 +91,12 @@
 | Petrocoptis grandiflora |  |  |  |
 | Petrocoptis montsicciana |  |  |  |
 | Petrocoptis pseudoviscosa |  |  | Vulnerable |
-| Silene hifacensis | Silene de Ifach | Baleares | Vulnerable |
-| Silene hifacensis | Silene de Ifach | Península | En peligro de extinción |
+| Silene hifacensis Rouy ex Willk | Silene de Ifach, Silene d’Ifac. |  | Vulnerable |
 | Silene mariana |  |  |  |
 | Silene nocteolens | Canutillo del Teide |  | Vulnerable |
 | Silene sennenii |  |  | En peligro de extinción |
+| Celastraceae |  |  |  |
+| Gymnosporia cryptopetala Reyes-Bet. y Santos | Peralillo espino, Artisco |  |  |
 | Cistaceae |  |  |  |
 | Cistus chinamadensis | Amagante de Chinamada |  |  |
 | Cistus heterophyllus (=C.h.carthaginensis) | Jara de Cartagena |  | En peligro de extinción |
@@ -201,6 +203,8 @@
 | Euphorbia mellifera | Tabaiba de Monteverde |  | En peligro de extinción |
 | Euphorbia nevadensis subsp. nevadensis |  |  |  |
 | Euphorbia transtagana |  |  |  |
+| Fabaceae |  |  |  |
+| Lotus gomerythus A. Portero, J. Martín-Carbajal y R. Mesa | Pico paloma gomero |  | En peligro de extinción |
 | Gentianaceae |  |  |  |
 | Centaurium rigualii |  |  |  |
 | Centaurium somedanum | Centaura de Somiedo |  | Vulnerable |
@@ -301,6 +305,7 @@
 | Sarcocapnos baetica subsp. Integriflora |  |  | Vulnerable |
 | Sarcocapnos speciosa | Hierba de la Lucía |  | En peligro de extinción |
 | Plantaginaceae |  |  |  |
+| Gadoria falukei Güemes y Mota | Dragoncito de la Sierra de Gádor |  | En peligro de extinción |
 | Plantago algarbiensis |  |  |  |
 | Plantago cornuti |  |  | En peligro de extinción |
 | Plantago famarae | Pinillo de Famara |  | Vulnerable |
@@ -317,7 +322,7 @@
 | Limonium malacitanum | Siempreviva malagueña |  | En peligro de extinción |
 | Limonium ovalifolium | Acelga salvaje |  |  |
 | Limonium perezi | Siempreviva de Masca |  |  |
-| Limonium perplexum | Saladilla de Peñíscola, Ensopeguera d’Irta |  | En peligro de extinción |
+| Limonium perplexum L. Sáez y Rosselló | Saladilla de Peñíscola, Ensopeguera d’Irta |  | Vulnerable |
 | Limonium pseudodictyocladum | Saladina |  | En peligro de extinción |
 | Limonium preauxii | Siempreviva lunaria |  |  |
 | Limonium spectabile | Siempreviva de Guelgue |  | En peligro de extinción |
@@ -448,6 +453,8 @@
 | INVERTEBRADOS |  |  |  |
 | ARTROPODA |  |  |  |
 | CRUSTACEA |  |  |  |
+| Branchiopoda |  |  |  |
+| Linderiella baetica Alonso y García-de-Lomas, 2009 | Gambilusa |  | En peligro de extinción |
 | Decapoda |  |  |  |
 | Austropotamobius pallipes | Cangrejo de río |  | Vulnerable |
 | Munidopsis polymorpha | Jameíto |  | En peligro de extinción |
@@ -472,20 +479,22 @@
 | Pimelia granulicolis | Pimelia de las arenas |  | En peligro de extinción |
 | Rhopalomesites euphorbiae | Picudo de la tabaiba de monte |  | En peligro de extinción |
 | Rosalia alpina |  |  |  |
-| Isoptera |  |  |  |
-| Halophiloscia canariensis |  |  | En peligro de extinción |
 | Lepidoptera |  |  |  |
+| Agriades zullichi Hemming, 1933 | Alpina de Sierra Nevada, Mariposa del Puerto del Lobo |  |  |
 | Euchloe bazae Fabiano, 1993. | Azufrada ibérica, Blanquiverdosa azufrada |  | En peligro de extinción |
 | Eriogaster catax |  |  |  |
 | Euphydryas aurinia |  |  |  |
+| Gegenes pumilio (Hoffmannsegg, 1804) | Veloz balear |  | En peligro de extinción |
 | Graellsia isabelae |  |  |  |
 | Hyles hippophaes |  |  |  |
 | Lopinga achine |  |  |  |
-| Lycaena hele |  |  |  |
+| Lycaena helle (Denis y Schiffermüller, 1775) | Manto violeta |  | En peligro de extinción |
 | Maculinea arion |  |  |  |
 | Maculinea nausithous | Hormiguera oscura |  | Vulnerable |
 | Parnassius apollo |  |  |  |
 | Parnassius mnemosyne |  |  |  |
+| Pyrgus cinarae (Rambur 1839) | Ajedrezada haltera |  |  |
+| Pyrgus sidae (Esper, 1784) | Ajedrezada amarilla |  |  |
 | Polyommatus golgus | Niña de Sierra Nevada |  | En peligro de extinción |
 | Proserpinus proserpina |  |  |  |
 | Mantodea |  |  |  |
@@ -520,6 +529,7 @@
 | Gibbula nivosa (Adams, 1851): |  | Mediterráneo |  |
 | Luria lurida |  | Mediterráneo |  |
 | Mitra zonata |  | Mediterráneo |  |
+| Monilearia arguineguinensis (Seddon y Aparicio 1998) | Caracol chato de Arguineguín |  | Vulnerable |
 | Nucela lapilus |  |  |  |
 | Patella candei candei | Lapa majorera |  | En peligro de extinción |
 | Patela ferruginea | Lapa ferruginea |  | En peligro de extinción |
@@ -549,15 +559,19 @@
 | Centrostephanus longispinus |  |  |  |
 | Ophidiaster ophidianus | Estrella púrpura | Mediterráneo |  |
 | CNIDARIA |  |  |  |
-| ANTOZOA |  |  |  |
+| Antozoa |  |  |  |
 | Astroides calycularis | Coral naranja |  | Vulnerable |
 | Antipathella subpinnata (Ellis & Solander, 1786). | Coral negro | Mediterráneo |  |
 | Antipathes dichotoma Pallas, 1766. | Coral negro ramificado | Mediterráneo |  |
 | Callogorgia verticillata (Pallas,1766). | Gorgonia abanico. | Mediterráneo. |  |
 | Cladocora caespitosa (Linnaeus, 1767). | Madrépora mediterránea. |  |  |
 | Cladocora debilis Milne Edwards & Haime, 1849. | Coralito débil. | Mediterráneo. |  |
+| Dendrophyllia cornigera (Lamarck, 1816) | Coral amarillo | Mediterráneo |  |
+| Dendrophyllia ramea (Linnaeus, 1758) | Coral naranja, Coral árbol | Mediterráneo |  |
+| Desmophyllum dianthus (Esper, 1794) | Coral cresta de gallo | Mediterráneo |  |
 | Ellisella paraplexauroides Stiasny, 1936. | Gorgonia candelabro. | Mediterráneo. |  |
 | Errina aspera |  | Mediterráneo |  |
+| Isidella elongata (Esper, 1788) | Coral bambú, Gorgonia articulada | Mediterráneo |  |
 | Leiopathes glaberrima (Esper, 1788). | Coral negro anaranjado. | Mediterráneo. |  |
 | Lophelia pertusa (Linnaeus, 1758). | Coral blanco duro. | Mediterráneo. |  |
 | Madrepora oculata Linnaeus, 1758. | Coral blanco frágil. | Mediterráneo. |  |
@@ -652,6 +666,16 @@
 | Cottidae |  |  |  |
 | Cottus aturi (= C. gobio) | Burtaina |  | En peligro de extinción |
 | Cottus hispaniolensis (= C. gobio) | Cavilat |  | En peligro de extinción |
+| CHONDRICHTHYES |  |  |  |
+| Dasyatidae |  |  |  |
+| Bathytoshia lata (Garman, 1880) | Raya marrón | Mediterráneo |  |
+| Dasyatis pastinaca (Linnaeus, 1758) | Pastinaca, Raya látigo común, Chucho | Mediterráneo |  |
+| Myliobatidae |  |  |  |
+| Aetomylaeus bovinus (É. Geoffroy Saint-Hilaire, 1817) | Raya toro, Pez obispo | Mediterráneo |  |
+| Odontaspididae |  |  |  |
+| Carcharias taurus Rafinesque, 1810 | Tiburón toro, Tiburón toro bacota | Todas |  |
+| Rhinopteridae |  |  |  |
+| Rhinoptera marginata Geoffroy, 1817 | Gavilán lusitánico, Pez arzobispo | Mediterráneo |  |
 | ANFIBIOS |  |  |  |
 | CAUDATA |  |  |  |
 | Salamandridae |  |  |  |
@@ -1137,6 +1161,7 @@
 | Lanius minor | Alcaudón chico |  | En peligro de extinción |
 | Lanius senator | Alcaudón común |  |  |
 | Corvidae |  |  |  |
+| Corvus frugilegus Linnaeus, 1758 | Graja |  |  |
 | Cyanopica cyanus | Rabilargo |  |  |
 | Pyrrhocorax graculus | Chova piquigualda |  |  |
 | Pyrrhocorax pyrrhocorax | Chova piquirroja |  |  |
@@ -1173,8 +1198,7 @@
 | Soricidae |  |  |  |
 | Crocidura canariensis | Musaraña canaria |  | Vulnerable |
 | Talpidae |  |  |  |
-| Galemys pyrenaicus | Desmán ibérico | Excepto Sistema Central | Vulnerable |
-| Galemys pyrenaicus | Desmán ibérico | Sistema Central | En peligro de extinción |
+| Galemys pyrenaicus (É. Geoffroy Saint-Hilaire, 1811) | Desmán ibérico | Todas | En peligro de extinción |
 | CHIROPTERA |  |  |  |
 | Rhinolophidae |  |  |  |
 | Rhinolophus euryale | Murciélago mediterrráneo de herradura |  | Vulnerable |
@@ -1274,6 +1298,8 @@
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
+
+> Se modifica por el art. 1 de la Orden TED/452/2025, de 5 de mayo. Ref. BOE-A-2025-9192
 
 > Se modifica por la disposición final 19 de la Ley 1/2025, de 1 de abril. Ref. BOE-A-2025-6597#df-19
 
