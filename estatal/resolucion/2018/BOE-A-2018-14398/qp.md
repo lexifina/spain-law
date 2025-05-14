@@ -140,6 +140,46 @@ b.2) Por el exceso de provisión, con abono a la cuenta 795, «Exceso de provisi
 
 Su movimiento es análogo al señalado para la cuenta 142, «Provisión a largo plazo para responsabilidades».
 
+16. Deudas a largo plazo con entidades del grupo, multigrupo y asociadas.
+
+161. Proveedores de inmovilizado a largo plazo, entidades del grupo, multigrupo y asociadas.
+
+163. Otras deudas a largo plazo con entidades del grupo, multigrupo y asociadas.
+
+164. Intereses a largo plazo de deudas con entidades del grupo, multigrupo y asociadas.
+
+165. Deudas a largo plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas.
+
+Deudas cuyo vencimiento o cancelación vaya a producirse en un plazo superior a un año, contraídas con entidades del grupo, multigrupo y asociadas, incluidas aquellas que por su naturaleza debieran figurar en otros subgrupos de este grupo.
+
+Las cuentas de este subgrupo figurarán en el pasivo no corriente del balance en el epígrafe III, “Deudas con entidades del grupo, multigrupo y asociadas a largo plazo”.
+
+La parte de las deudas a largo plazo con entidades del grupo, multigrupo y asociadas que tengan vencimiento a corto plazo deberá figurar en el pasivo corriente del balance, en el epígrafe III, “Deudas con entidades del grupo, multigrupo y asociadas a corto plazo”; a estos efectos se traspasará el importe que representen las deudas a largo plazo con vencimiento a corto plazo a las cuentas correspondientes del subgrupo 51, “Deudas a corto plazo con entidades del grupo, multigrupo y asociadas”.
+
+161. Proveedores de inmovilizado a largo plazo, entidades del grupo, multigrupo y asociadas.
+
+Deudas con entidades del grupo, multigrupo y asociadas, en calidad de suministradores de bienes definidos en el grupo 2, “Activo no corriente”, con vencimiento superior a un año.
+
+Su movimiento es análogo al de la cuenta 173, “Proveedores de inmovilizado a largo plazo”.
+
+163. Otras deudas a largo plazo con entidades del grupo, multigrupo y asociadas.
+
+Las contraídas con entidades del grupo, multigrupo y asociadas por préstamos recibidos y otros débitos no incluidos en otras cuentas de este subgrupo, con vencimiento superior a un año.
+
+Su movimiento es análogo al de la cuenta 170, “Deudas a largo plazo con entidades de crédito”.
+
+164. Intereses a largo plazo de deudas con entidades del grupo, multigrupo y asociadas.
+
+Intereses a pagar, con vencimiento superior a un año, de deudas con entidades del grupo, multigrupo y asociadas.
+
+Su movimiento es análogo al de la cuenta 178, “Intereses a largo plazo de otras deudas”, utilizando en la contrapartida las cuentas relativas a entidades del grupo, multigrupo y asociadas.
+
+165. Deudas a largo plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas.
+
+Subvenciones reintegrables recibidas de entidades del grupo, multigrupo y asociadas, con vencimiento superior a un año.
+
+Su movimiento es análogo al de la cuenta 172, “Deudas a largo plazo transformables en subvenciones”.
+
 17. Deudas a largo plazo por préstamos recibidos y otros conceptos.
 
 170. Deudas a largo plazo con entidades de crédito.
@@ -348,6 +388,30 @@ a) Por la recepción de obras y trabajos que corresponde a las inmovilizaciones 
 
 b) Se abonarán una vez terminadas dichas obras y trabajos, con cargo a cuentas del subgrupo 21, «Inmovilizaciones materiales»...
 
+24. Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas.
+
+242. Créditos a largo plazo a entidades del grupo, multigrupo y asociadas.
+
+245. Intereses a largo plazo de inversiones financieras en entidades del grupo, multigrupo y asociadas.
+
+Inversiones financieras en entidades del grupo, multigrupo y asociadas cuyo vencimiento vaya a producirse en un plazo superior a un año, incluidas aquellas que por su naturaleza debieran figurar en otros subgrupos de este grupo.
+
+Las cuentas de este subgrupo figurarán en el activo no corriente del balance, en el epígrafe III, “Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas”.
+
+La parte de las inversiones a largo plazo con entidades del grupo, multigrupo y asociadas cuyo vencimiento vaya a producirse a corto plazo deberá figurar en el activo corriente del balance, en el epígrafe III, “Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas”; a estos efectos se traspasará el importe que represente la inversión a largo plazo cuyo vencimiento no sea superior a un año a las cuentas correspondientes del subgrupo 53, “Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas”.
+
+242. Créditos a largo plazo a entidades del grupo, multigrupo y asociadas.
+
+Inversiones a largo plazo en préstamos y otros créditos que no se deriven de las operaciones habituales de la entidad, incluidos los derivados de enajenaciones de inmovilizado, concedidos a entidades del grupo, multigrupo y asociadas, con vencimiento superior a un año.
+
+Su movimiento es análogo al de la cuenta 252, “Créditos a largo plazo”, utilizando en la contrapartida las cuentas relativas a entidades del grupo, multigrupo y asociadas.
+
+245. Intereses a largo plazo de inversiones financieras en entidades del grupo, multigrupo y asociadas.
+
+Intereses a cobrar, con vencimiento superior a un año, de valores representativos de deuda y de créditos a entidades del grupo, multigrupo y asociadas.
+
+Su movimiento es análogo al de la cuenta 257, “Intereses a largo plazo de créditos”.
+
 25. Inversiones Financieras a largo plazo.
 
 252. Créditos a largo plazo.
@@ -458,6 +522,8 @@ b) Se cargará cuando se enajene el inmovilizado material o se produzca la baja 
 
 2919. Deterioro de valor de otro inmovilizado material.
 
+295. Deterioro de valor de créditos a largo plazo a entidades del grupo, multigrupo y asociadas.
+
 298. Deterioro de valor de créditos a largo plazo. Expresión contable de las correcciones de valor motivadas por pérdidas debidas a deterioros de valor de los elementos del activo no corriente.
 
 La estimación de tales pérdidas deberá realizarse de forma sistemática en el tiempo. En el supuesto de posteriores recuperaciones de valor, en los términos establecidos en las correspondientes normas de reconocimiento y valoración, las correcciones de valor por deterioro reconocidas deberán reducirse hasta su total recuperación, cuando así proceda de acuerdo con lo dispuesto en dichas normas.
@@ -478,13 +544,21 @@ b.1) Cuando desaparezcan las causas que determinaron el reconocimiento de la cor
 
 b.2) Cuando se enajene el inmovilizado o se dé de baja del activo por cualquier otro motivo, con abono a cuentas del subgrupo 20, «Inmovilizaciones intangibles», o 21, «Inmovilizaciones materiales».
 
-298. Deterioro de valor de créditos a largo plazo. Importe de las correcciones valorativas por deterioro del valor en créditos a largo plazo concedidos.
+295. Deterioro de valor de créditos a largo plazo a entidades del grupo, multigrupo y asociadas.
+
+Importe de las correcciones valorativas por deterioro del valor de los créditos a largo plazo concedidos a entidades del grupo, multigrupo y asociadas.
 
 Su movimiento es el siguiente:
 
-a) Se abonará por el importe del deterioro estimado, con cargo a la subcuenta 697, «Pérdidas por deterioro de créditos».
+a) Se abonará por el importe del deterioro estimado, con cargo a la subcuenta 6970, “Pérdidas por deterioro de créditos a entidades del grupo, multigrupo y asociadas”.
 
-b) Se cargará, cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro, o cuando se den de baja los saldos de los créditos correspondientes con abono a la subcuenta 797, «Reversión del deterioro de créditos»
+b) Se cargará, cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro, o cuando se den de baja los saldos de los créditos correspondientes con abono a la subcuenta 7970, “Reversión del deterioro de créditos a entidades del grupo, multigrupo y asociadas”.
+
+298. Deterioro de valor de créditos a largo plazo.
+
+Importe de las correcciones valorativas por deterioro del valor en créditos a largo plazo concedidos a entidades que no sean del grupo, multigrupo y asociadas.
+
+Su movimiento es análogo al de la cuenta 295, “Deterioro de valor de créditos a largo plazo a entidades del grupo, multigrupo y asociadas”, utilizando como contrapartida las subcuentas 6971, “Pérdidas por deterioro de créditos a otras entidades” y 7971, “Reversión del deterioro de créditos a otras entidades”.
 
 Grupo 3
 
@@ -916,6 +990,46 @@ Cuentas financieras
 
 Activos y pasivos financieros corrientes, excepto aquellos que deban figurar en el grupo 4, «Acreedores y deudores», y provisiones a corto plazo.
 
+51. Deudas a corto plazo con entidades del grupo, multigrupo y asociadas.
+
+511. Proveedores de inmovilizado a corto plazo, entidades del grupo, multigrupo y asociadas.
+
+513. Otras deudas a corto plazo con entidades del grupo, multigrupo y asociadas.
+
+514. Intereses a corto plazo de deudas con entidades del grupo, multigrupo y asociadas.
+
+515. Deudas a corto plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas.
+
+Deudas cuyo vencimiento o cancelación vaya a producirse en un plazo no superior a un año, contraídas con entidades del grupo, multigrupo y asociadas, incluidas aquellas que por su naturaleza debieran figurar en otros subgrupos de este grupo.
+
+Las cuentas de este subgrupo figurarán en el pasivo corriente del balance en el epígrafe III, “Deudas con entidades del grupo, multigrupo y asociadas a corto plazo”.
+
+La parte de las deudas a largo plazo con entidades del grupo, multigrupo y asociadas que tenga vencimiento a corto deberá figurar en el pasivo corriente del balance, en el epígrafe III, “Deudas con entidades del grupo, multigrupo y asociadas a corto plazo”; a estos efectos se traspasará a este subgrupo el importe que representen las deudas a largo plazo con vencimiento a corto, de las cuentas correspondientes del subgrupo 16, “Deudas a largo plazo con entidades del grupo, multigrupo y asociadas”.
+
+511. Proveedores de inmovilizado a corto plazo, entidades del grupo, multigrupo y asociadas.
+
+Deudas con entidades del grupo, multigrupo y asociadas, en calidad de suministradores de bienes definidos en el grupo 2, “Activo no corriente”, con vencimiento no superior a un año.
+
+Su movimiento es análogo al de la cuenta 523, “Proveedores de inmovilizado a corto plazo”.
+
+513. Otras deudas a corto plazo con entidades del grupo, multigrupo y asociadas.
+
+Las contraídas con entidades del grupo, multigrupo y asociadas por préstamos recibidos y otros débitos no incluidos en otras cuentas de este subgrupo, con vencimiento no superior a un año.
+
+Su movimiento es análogo al de la cuenta 520, “Deudas a corto plazo con entidades de crédito”.
+
+514. Intereses a corto plazo de deudas con entidades del grupo, multigrupo y asociadas.
+
+Intereses a pagar, con vencimiento a corto plazo, de deudas con entidades del grupo, multigrupo y asociadas.
+
+Su movimiento es análogo al de la cuenta 528, “Intereses a corto plazo de otras deudas”, utilizando en la contrapartida las cuentas relativas a entidades del grupo, multigrupo y asociadas.
+
+515. Deudas a corto plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas.
+
+Subvenciones reintegrables recibidas de entidades del grupo, multigrupo y asociadas, con vencimiento no superior a un año.
+
+Su movimiento es análogo al de la cuenta 522, “Deudas a corto plazo transformables en subvenciones”.
+
 52. Deudas a corto plazo por préstamos recibidos y otros conceptos.
 
 520. Deudas a corto plazo con entidades de crédito.
@@ -983,6 +1097,30 @@ b) Se cargará, cuando se produzca el vencimiento de los intereses, con abono, g
 528. Intereses a corto plazo de otras deudas. Intereses a pagar, con vencimiento a corto plazo, de deudas, excluidos los que deben ser registrados en la cuenta 527, «Intereses a corto plazo de deudas con entidades de crédito».
 
 Su movimiento es análogo al señalado para la cuenta 527, «Intereses a corto plazo de deudas con entidades de crédito».
+
+53. Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas.
+
+532. Créditos a corto plazo a entidades del grupo, multigrupo y asociadas.
+
+535. Intereses a corto plazo de inversiones financieras en entidades del grupo, multigrupo y asociadas.
+
+Inversiones financieras en entidades del grupo, multigrupo y asociadas cuyo vencimiento vaya a producirse en un plazo no superior a un año, incluidas aquellas que por su naturaleza debieran figurar en otros subgrupos de este grupo.
+
+Las cuentas de este subgrupo figurarán en el activo corriente del balance, en el epígrafe III, “Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas”.
+
+La parte de las inversiones a largo plazo, con entidades del grupo, multigrupo y asociadas, cuyo vencimiento vaya a producirse en el corto plazo deberá figurar en el activo corriente del balance, en el epígrafe III, “Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas”; a estos efectos se traspasará a este subgrupo el importe que represente la inversión a largo plazo cuyo vencimiento o cancelación vaya a producirse en el corto plazo de las cuentas correspondientes del subgrupo 24, “Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas”.
+
+532. Créditos a corto plazo a entidades del grupo, multigrupo y asociadas.
+
+Inversiones a corto plazo en préstamos y otros créditos, distintos de los que deban figurar en el grupo 4, “Acreedores y deudores”, incluidos los derivados de enajenaciones de inmovilizado, concedidos a entidades del grupo, multigrupo y asociadas, con vencimiento no superior a un año.
+
+Su movimiento es análogo al de la cuenta 542, “Créditos a corto plazo”, utilizando en la contrapartida las cuentas relativas a entidades del grupo, multigrupo y asociadas.
+
+535. Intereses a corto plazo de inversiones financieras en entidades del grupo, multigrupo y asociadas.
+
+Intereses a cobrar, con vencimiento no superior a un año, de créditos a entidades del grupo, multigrupo y asociadas.
+
+Su movimiento es análogo al de la cuenta 547, “Intereses a corto plazo de créditos”, utilizando en la contrapartida las cuentas relativas a entidades del grupo, multigrupo y asociadas.
 
 54. Inversiones financieras a corto plazo.
 
@@ -1152,21 +1290,25 @@ El movimiento de las cuentas de este subgrupo es análogo al de las correspondie
 
 59. Deterioro de valor de inversiones financieras a corto plazo.
 
-598. Deterioro de valor de créditos a corto plazo.
+595. Deterioro de valor de créditos a corto plazo a entidades del grupo, multigrupo y asociadas.
 
 598. Deterioro de valor de créditos a corto plazo.
 
-Recoge las correcciones valorativas por deterioro del valor de créditos a corto plazo concedidos.
+595. Deterioro de valor de créditos a corto plazo a entidades del grupo, multigrupo y asociadas.
 
-Se traspasará a esta cuenta el importe de las correcciones de valor de créditos a largo plazo, que figuran en la cuenta 298.
-
-Esta cuenta minorarán en el activo corriente del balance la partida en la que figure el correspondiente elemento patrimonial.
+Correcciones valorativas por deterioro del valor de créditos a corto plazo concedidos a entidades del grupo, multigrupo y asociadas.
 
 Su movimiento es el siguiente:
 
-a) Se abonará por el importe del deterioro estimado, con cargo a la cuenta 697, «Pérdidas por deterioro de créditos».
+a) Se abonará por el importe del deterioro estimado, con cargo a la subcuenta 6970, “Pérdidas por deterioro de créditos a entidades del grupo, multigrupo y asociadas”.
 
-b) Se cargará, cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro o cuando se den de baja los saldos de los créditos correspondientes, con abono a la cuenta 797, «Reversión del deterioro de créditos».
+b) Se cargará, cuando desaparezcan las causas que determinaron el reconocimiento de la corrección valorativa por deterioro o cuando se den de baja los saldos de los créditos correspondientes, con abono a la subcuenta 7970, “Reversión del deterioro de créditos a entidades del grupo, multigrupo y asociadas”.
+
+598. Deterioro de valor de créditos a corto plazo.
+
+Correcciones valorativas por deterioro del valor de créditos a corto plazo concedidos a entidades que no son del grupo, multigrupo y asociadas.
+
+Su movimiento es análogo al de la cuenta 595, “Deterioro de valor de créditos a corto plazo a entidades del grupo, multigrupo y asociadas”, utilizando como contrapartida las subcuentas 6971, “Pérdidas por deterioro de créditos a otras entidades”, y 7971, “Reversión del deterioro de créditos a otras entidades”.
 
 Grupo 6
 
@@ -1354,29 +1496,49 @@ Las pensiones a personas que no son consecuencia de prestaciones previas de los 
 
 650. Transferencias.
 
+6500. A la entidad o entidades propietarias.
+
+6501. Al resto de entidades.
+
 651. Subvenciones.
+
+6510. A la entidad o entidades propietarias.
+
+6511. Al resto de entidades.
 
 650. Transferencias.
 
 Las que tienen por objeto una entrega dineraria o en especie sin contraprestación directa por parte de los beneficiarios, destinándose a financiar operaciones o actividades no singularizadas.
 
+Funcionará a través de sus divisionarias.
+
 Su movimiento es el siguiente:
 
 a) Se cargará con abono a:
 
-a.1) Generalmente, la cuenta 420, «Acreedores por operaciones derivadas de la actividad», en el momento que la transferencia sea vencida, líquida y exigible.
+a.1) Generalmente, la cuenta 420, “Acreedores por operaciones derivadas de la actividad”, en el momento que la transferencia sea vencida, líquida y exigible.
 
 a.2) La cuenta que corresponda según la naturaleza del bien que se entrega, en el caso de transferencias en especie.
 
-651. Subvenciones. Las que tienen por objeto una entrega dineraria o en especie sin contraprestación directa por parte de los beneficiarios, destinándose a un fin, propósito, actividad o proyecto específico, con la obligación por parte del beneficiario de cumplir las condiciones y requisitos que se hubieran establecido o, en caso contrario, proceder a su reintegro.
+651. Subvenciones.
 
-Su movimiento es análogo al señalado para la cuenta 650, «Transferencias».
+Las que tienen por objeto una entrega dineraria o en especie sin contraprestación directa por parte de los beneficiarios, destinándose a un fin, propósito, actividad o proyecto específico, con la obligación por parte del beneficiario de cumplir las condiciones y requisitos que se hubieran establecido o, en caso contrario, proceder a su reintegro.
+
+Funcionará a través de sus divisionarias.
+
+Su movimiento es análogo al señalado para la cuenta 650, “Transferencias”.
 
 66. Gastos financieros.
 
 662. Intereses de deudas.
 
+663. Intereses de deudas con entidades del grupo, multigrupo y asociadas.
+
 667. Pérdidas de créditos incobrables.
+
+6670. Con entidades del grupo, multigrupo y asociadas.
+
+6671. Con otras entidades.
 
 669. Otros gastos financieros.
 
@@ -1390,9 +1552,25 @@ a.1) Al devengo de los intereses con abono, generalmente, a cuentas de los subgr
 
 a.2) Por el importe de los intereses devengados y vencidos en el ejercicio, con abono a la cuenta 420, «Acreedores por operaciones derivadas de la actividad».
 
-667. Pérdidas de créditos incobrables. Pérdidas producidas por insolvencias firmes y por prescripción de créditos concedidos y de otros derechos de cobro.
+663. Intereses de deudas con entidades del grupo, multigrupo y asociadas.
 
-Se cargará por la pérdida producida con abono a la cuenta representativa del crédito o derecho de cobro.
+Importe de los intereses devengados durante el ejercicio, correspondientes a deudas con entidades del grupo, multigrupo y asociadas, cualquiera que sea el plazo de vencimiento y el modo en que estén instrumentados tales intereses.
+
+a) Se cargará:
+
+a.1) Al devengo de los intereses con abono a cuentas de los subgrupos 16, “Deudas a largo plazo con entidades del grupo, multigrupo y asociadas”, y 51, “Deudas a corto plazo con entidades del grupo, multigrupo y asociadas”.
+
+a.2) Por el importe de los intereses devengados y vencidos en el ejercicio, con abono a la cuenta 420, “Acreedores por operaciones derivadas de la actividad”.
+
+667. Pérdidas de créditos incobrables.
+
+6670. Con entidades del grupo, multigrupo y asociadas.
+
+6671. Con otras entidades.
+
+Pérdidas producidas por insolvencias firmes y por prescripción de créditos concedidos y de otros derechos de cobro.
+
+Funcionará a través de sus divisionarias.
 
 669. Otros gastos financieros. Gastos de naturaleza financiera no recogidos en otras cuentas de este subgrupo.
 
@@ -1444,6 +1622,10 @@ Se cargarán, por la dotación del ejercicio, con abono a cuentas del subgrupo 2
 
 697. Pérdidas por deterioro de créditos.
 
+6970. Pérdidas por deterioro de créditos a entidades del grupo, multigrupo y asociadas.
+
+6971. Pérdidas por deterioro de créditos a otras entidades.
+
 690/691. Pérdidas por deterioro de inmovilizado… Corrección valorativa por deterioro de carácter reversible en el inmovilizado intangible, en el material.
 
 Se cargará, por el importe del deterioro estimado, con abono a las cuentas 290, «Deterioro de valor del inmovilizado intangible», o 291, «Deterioro de valor del inmovilizado material», respectivamente.
@@ -1454,11 +1636,15 @@ Su movimiento es el siguiente:
 
 Se cargará, por el importe del deterioro estimado, con abono a cuentas del subgrupo 39, «Deterioro de valor de las existencias».
 
-697. Pérdidas por deterioro de créditos. Corrección valorativa por deterioro del valor en créditos de los subgrupos 25, «Inversiones financieras a largo plazo» y 54, «Inversiones financieras a corto plazo» y del grupo 4, «Acreedores y deudores».
+697. Pérdidas por deterioro de créditos.
 
-Se cargará, por el importe del deterioro estimado, con abono a las cuentas correspondientes de los subgrupos 29, «Deterioro de valor de activos no corrientes», y 59, «Deterioro de valor de inversiones financieras a corto plazo» o a la cuenta 490 «Deterioro de valor de créditos», según corresponda.
+6970. Pérdidas por deterioro de créditos a entidades del grupo, multigrupo y asociadas.
 
-Nota: Cuando se utilice la alternativa segunda prevista en la cuenta 490, «Deterioro de valor de créditos», la definición y el movimiento contable se adaptarán a lo establecido en dicha cuenta.
+6971. Pérdidas por deterioro de créditos a otras entidades.
+
+Corrección valorativa por deterioro del valor en créditos de los subgrupos 24, “Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas”, 25, “Inversiones financieras a largo plazo”, 53, “Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas”, y 54, “Inversiones financieras a corto plazo” y del grupo 4, “Acreedores y deudores”.
+
+Funcionará a través de sus divisionarias.
 
 Grupo 7
 
@@ -1534,53 +1720,99 @@ Se abonarán, por el importe de la tasa o del precio público, con cargo a la cu
 
 750. Transferencias.
 
+7500. De la entidad o entidades propietarias.
+
+7501. Del resto de entidades.
+
 751. Subvenciones para gastos no financieros del ejercicio.
+
+7510. De la entidad o entidades propietarias.
+
+7511. Del resto de entidades.
 
 752. Subvenciones para la cancelación de deudas genéricas.
 
-753. Subvenciones para la financiación del inmovilizado no financiero, imputadas al resultado del ejercicio.
+7520. De la entidad o entidades propietarias.
+
+7521. Del resto de entidades.
+
+753. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio.
 
 7530. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por amortización.
 
+75300. De la entidad o entidades propietarias.
+
+75301. Del resto de entidades.
+
 7531. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por enajenación o baja.
 
-754. Subvenciones para activos corrientes y gastos imputadas al ejercicio. Importes que deben ser imputados al resultado del ejercicio por transferencias y subvenciones recibidas.
+75310. De la entidad o entidades propietarias.
 
-750. Transferencias. Fondos o bienes recibidos por el centro asociado, sin contraprestación directa por su parte, destinándose a financiar operaciones o actividades no singularizadas.
+75311. Del resto de entidades.
+
+754. Subvenciones para activos corrientes y gastos imputadas al ejercicio.
+
+7540. De la entidad o entidades propietarias.
+
+7541. Del resto de entidades.
+
+750. Transferencias.
+
+Fondos recibidos por el centro asociado, sin contraprestación directa por su parte, destinándose a financiar operaciones o actividades no singularizadas.
+
+Funcionará a través de sus divisionarias.
 
 Se abonará con cargo a:
 
-a.1) Generalmente, la cuenta 460, «Deudores por operaciones derivadas de la actividad», en el momento que la transferencia sea vencida, líquida y exigible.
+a.1) Generalmente, la cuenta 460, “Deudores por operaciones derivadas de la actividad”, en el momento que la transferencia sea vencida, líquida y exigible.
 
 a.2) La cuenta que corresponda según la naturaleza del bien que se reciba, en el caso de transferencias en especie.
 
-751. Subvenciones para gastos no financieros del ejercicio. Fondos o bienes recibidos por el centro asociado para financiar operaciones corrientes concretas y específicas devengadas en el ejercicio. Dentro de ellas se incluyen las subvenciones concedidas al centro asociado para asegurar una rentabilidad mínima o para financiar gastos del ejercicio.
+751. Subvenciones para gastos no financieros del ejercicio.
 
-Su movimiento es análogo al señalado para la cuenta 750, «Transferencias».
+Fondos o bienes recibidos por el centro asociado para financiar operaciones corrientes concretas y específicas devengadas en el ejercicio. Dentro de ellas se incluyen las subvenciones concedidas al centro asociado para asegurar una rentabilidad mínima o para financiar gastos del ejercicio.
 
-752. Subvenciones para la cancelación de deudas genéricas. Recoge las recibidas por el centro asociado para la cancelación en el ejercicio de deudas que no supongan una financiación específica de un elemento patrimonial.
+Funcionará a través de sus divisionarias.
+
+Su movimiento es análogo al señalado para la cuenta 750, “Transferencias”.
+
+752. Subvenciones para la cancelación de deudas genéricas.
+
+Recoge las recibidas por el centro asociado para la cancelación en el ejercicio de deudas que no supongan una financiación específica de un elemento patrimonial.
+
+Funcionará a través de sus divisionarias.
 
 Su movimiento es el siguiente:
 
 Se abonará con cargo a:
 
-a.1) Generalmente, a la cuenta 460, «Deudores por operaciones derivadas de la actividad», en el momento que la subvención sea vencida, líquida y exigible.
+a.1) Generalmente, a la cuenta 460, “Deudores por operaciones derivadas de la actividad”, en el momento que la subvención sea vencida, líquida y exigible.
 
 a.2) La cuenta representativa de la deuda que corresponda, en el caso de asunción de deudas por otras entidades.
 
-753. Subvenciones para la financiación de inmovilizado no financiero, imputadas al resultado del ejercicio. Importe traspasado al resultado del ejercicio de las subvenciones recibidas para la financiación de inmovilizado no financiero.
+753. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio.
+
+Importe traspasado al resultado del ejercicio de las subvenciones recibidas para la financiación de inmovilizado no financiero.
 
 Funcionará a través de sus divisionarias.
 
 El contenido y movimiento de las subcuentas que comprende es el siguiente:
 
-7530. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por amortización. Se abonará, en el momento de la imputación a la cuenta del resultado económico-patrimonial de la subvención por la amortización del inmovilizado no financiero, con cargo a la cuenta 130, «Subvenciones para la financiación del inmovilizado no financiero».
+7530. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por amortización.
 
-7531. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por enajenación o baja. Se abonará, en el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención por la enajenación o baja del activo con cargo a la cuenta 130, «Subvenciones para la financiación del inmovilizado no financiero».
+Se abonará, en el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención por la amortización del inmovilizado no financiero, con cargo a la cuenta 130, “Subvenciones para la financiación del inmovilizado no financiero”.
 
-754. Subvenciones para activos corrientes y gastos, imputadas al ejercicio. Importe traspasado al resultado del ejercicio de las subvenciones recibidas para la financiación de activos corrientes y gastos.
+7531. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por enajenación o baja.
 
-Se abonará, en el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención, con cargo a la cuenta 131, «Subvenciones para la financiación de activos corrientes y gastos».
+Se abonará, en el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención por la enajenación o baja del activo con cargo a la cuenta 130, “Subvenciones para la financiación del inmovilizado no financiero”.
+
+754. Subvenciones para activos corrientes y gastos imputadas al ejercicio.
+
+Importe traspasado al resultado del ejercicio de las subvenciones recibidas para la financiación de activos corrientes y gastos.
+
+Funcionará a través de sus divisionarias.
+
+Se abonará, en el momento de la imputación a la cuenta del resultado económico patrimonial de la subvención, con cargo a la cuenta 131, “Subvenciones para la financiación de activos corrientes y gastos”.
 
 76. Ingresos financieros.
 
@@ -1656,6 +1888,10 @@ Su movimiento es el siguiente: Se abonará, al reconocimiento de los ingresos, c
 
 797. Reversión del deterioro de créditos.
 
+7970. Reversión del deterioro de créditos a entidades del grupo, multigrupo y asociadas.
+
+7971. Reversión del deterioro de créditos a otras entidades.
+
 790/791. Reversión del deterioro del inmovilizado... Corrección valorativa, por la recuperación de valor, del inmovilizado intangible y del material, hasta el importe de las pérdidas contabilizadas con anterioridad.
 
 Se abonarán por el importe de la corrección de valor, con cargo a las cuentas 290, «Deterioro de valor del inmovilizado intangible» y 291, «Deterioro de valor del inmovilizado material.
@@ -1668,8 +1904,14 @@ Se abonará, al cierre del ejercicio, por el deterioro contabilizado en el ejerc
 
 Se abonará por el importe de la corrección de valor, con cargo a las cuentas correspondientes del subgrupo 14, «Provisiones a largo plazo», o del subgrupo 58, «Provisiones a corto plazo».
 
-797. Reversión del deterioro de créditos. Corrección valorativa, por la recuperación de valor en créditos de los subgrupos 25, «inversiones financieras a largo plazo» y 54, «Inversiones financieras a corto plazo» y del grupo 4, «Acreedores y deudores».
+797. Reversión del deterioro de créditos.
 
-Se abonará por el importe de la recuperación de valor, con cargo a las cuentas correspondientes de los subgrupos 29, «Deterioro de valor de activos no corrientes», y 59, «Deterioro de valor de inversiones financieras a corto plazo» y a la cuenta 490, «Deterioro de valor de créditos», según corresponda.
+7970. Reversión del deterioro de créditos a entidades del grupo, multigrupo y asociadas.
 
-Cuando se utilice la alternativa segunda prevista en la cuenta 490, la definición y el movimiento contable se adaptarán a lo establecido en dicha cuenta.
+7971. Reversión del deterioro de créditos a otras entidades.
+
+Corrección valorativa, por la recuperación de valor en créditos de los subgrupos 24, “Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas”, 25, “Inversiones financieras a largo plazo”, 53, “Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas”, y 54, “Inversiones financieras a corto plazo” y del grupo 4, “Acreedores y deudores”.
+
+Funcionará a través de sus divisionarias.
+
+> Se modifica por el art. único.seis de la Resolución de 6 de mayo de 2025. Ref. BOE-A-2025-9276

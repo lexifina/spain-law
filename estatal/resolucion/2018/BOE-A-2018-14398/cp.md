@@ -30,6 +30,16 @@ Financiación básica
 
 149. Otras provisiones a largo plazo.
 
+16. Deudas a largo plazo con entidades del grupo, multigrupo y asociadas.
+
+161. Proveedores de inmovilizado a largo plazo, entidades del grupo, multigrupo y asociadas.
+
+163. Otras deudas a largo plazo con entidades del grupo, multigrupo y asociadas.
+
+164. Intereses a largo plazo de deudas con entidades del grupo, multigrupo y asociadas.
+
+165. Deudas a largo plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas.
+
 17. Deudas a largo plazo por préstamos recibidos y otros conceptos.
 
 170. Deudas a largo plazo con entidades de crédito.
@@ -86,6 +96,12 @@ Activo no corriente
 
 237. Equipos para procesos de información en montaje.
 
+24. Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas.
+
+242. Créditos a largo plazo a entidades del grupo, multigrupo y asociadas.
+
+245. Intereses a largo plazo de inversiones financieras en entidades del grupo, multigrupo y asociadas.
+
 25. Inversiones financieras a largo plazo.
 
 252. Créditos a largo plazo.
@@ -139,6 +155,8 @@ Activo no corriente
 2918. Deterioro de valor de elementos de transporte.
 
 2919. Deterioro de valor de otro inmovilizado material.
+
+295. Deterioro de valor de créditos a largo plazo a entidades del grupo, multigrupo y asociadas.
 
 298. Deterioro de valor de créditos a largo plazo.
 
@@ -222,6 +240,16 @@ Grupo 5
 
 Cuentas Financieras
 
+51. Deudas a corto plazo con entidades del grupo, multigrupo y asociadas.
+
+511. Proveedores de inmovilizado a corto plazo, entidades del grupo, multigrupo y asociadas.
+
+513. Otras deudas a corto plazo con entidades del grupo, multigrupo y asociadas.
+
+514. Intereses a corto plazo de deudas con entidades del grupo, multigrupo y asociadas.
+
+515. Deudas a corto plazo transformables en subvenciones con entidades del grupo, multigrupo y asociadas.
+
 52. Deudas a corto plazo por préstamos recibidos y otros conceptos.
 
 520. Deudas a corto plazo con entidades de crédito.
@@ -233,6 +261,12 @@ Cuentas Financieras
 527. Intereses a corto plazo de deudas con entidades de crédito.
 
 528. Intereses a corto plazo de otras deudas.
+
+53. Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas.
+
+532. Créditos a corto plazo a entidades del grupo, multigrupo y asociadas.
+
+535. Intereses a corto plazo de inversiones financieras en entidades del grupo, multigrupo y asociadas.
 
 54. Inversiones financieras a corto plazo.
 
@@ -271,6 +305,8 @@ Cuentas Financieras
 589. Otras provisiones a corto plazo.
 
 59. Deterioro De Valor De Inversiones Financieras A Corto Plazo.
+
+595. Deterioro de valor de créditos a corto plazo a entidades del grupo, multigrupo y asociadas.
 
 598. Deterioro de valor de créditos a corto plazo.
 
@@ -356,13 +392,27 @@ Compras y gastos por naturaleza
 
 650. Transferencias.
 
+6500. A la entidad o entidades propietarias.
+
+6501. Al resto de entidades.
+
 651. Subvenciones.
+
+6510. A la entidad o entidades propietarias.
+
+6511. Al resto de entidades.
 
 66. Gastos Financieros.
 
 662. Intereses de deudas.
 
+663. Intereses de deudas con entidades del grupo, multigrupo y asociadas.
+
 667. Pérdidas de créditos incobrables.
+
+6670. Con entidades del grupo, multigrupo y asociadas.
+
+6671. Con otras entidades.
 
 669. Otros gastos financieros.
 
@@ -392,6 +442,10 @@ Compras y gastos por naturaleza
 
 697. Pérdidas por deterioro de créditos.
 
+6970. Pérdidas por deterioro de créditos a entidades del grupo, multigrupo y asociadas.
+
+6971. Pérdidas por deterioro de créditos a otras entidades.
+
 Grupo 7
 
 Ventas e ingresos por naturaleza
@@ -418,17 +472,41 @@ Ventas e ingresos por naturaleza
 
 750. Transferencias.
 
+7500. De la entidad o entidades propietarias.
+
+7501. Del resto de entidades.
+
 751. Subvenciones para gastos no financieros del ejercicio.
 
+7510. De la entidad o entidades propietarias.
+
+7511. Del resto de entidades.
+
 752. Subvenciones para la cancelación de deudas genéricas.
+
+7520. De la entidad o entidades propietarias.
+
+7521. Del resto de entidades.
 
 753. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio.
 
 7530. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por amortización.
 
+75300. De la entidad o entidades propietarias.
+
+75301. Del resto de entidades.
+
 7531. Subvenciones para la financiación del inmovilizado no financiero imputadas al resultado del ejercicio por enajenación o baja.
 
+75310. De la entidad o entidades propietarias.
+
+75311. Del resto de entidades.
+
 754. Subvenciones para activos corrientes y gastos imputadas al ejercicio.
+
+7540. De la entidad o entidades propietarias.
+
+7541. Del resto de entidades.
 
 76. Ingresos financieros.
 
@@ -461,3 +539,9 @@ Ventas e ingresos por naturaleza
 795. Exceso de provisiones.
 
 797. Reversión del deterioro de créditos.
+
+7970. Reversión del deterioro de créditos a entidades del grupo, multigrupo y asociadas.
+
+7971. Reversión del deterioro de créditos a otras entidades.
+
+> Se modifica por el art. único.cinco de la Resolución de 6 de mayo de 2025. Ref. BOE-A-2025-9276

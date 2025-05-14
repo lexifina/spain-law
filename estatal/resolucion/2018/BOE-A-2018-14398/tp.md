@@ -60,15 +60,17 @@ Todos los demás pasivos deben clasificarse como no corrientes.
 
 3. La partida 3. «Bienes del patrimonio histórico», del epígrafe, A.II, «Inmovilizado material» del activo, incluirá todos los bienes que participen de esta naturaleza con independencia de que estén siendo utilizados por el centro asociado.
 
-4. Para las cuentas deudoras del epígrafe B.II. del activo, con vencimiento superior a un año se creará el epígrafe A.IV del activo, con la denominación de «Deudores y otras cuentas a cobrar a largo plazo».
+4. Para las cuentas deudoras del epígrafe B.II., “Deudores y otras cuentas a cobrar” del activo, con vencimiento superior a un año se creará el epígrafe A.V. del activo, con la denominación de “Deudores y otras cuentas a cobrar a largo plazo”.
 
 5. En el epígrafe A.I, «Patrimonio aportado», del patrimonio neto del balance se registrará la aportación patrimonial inicial directa, tanto dineraria como en bienes o derechos, así como posteriores ampliaciones de la misma por asunción de nuevas competencias por el centro asociado, recibidas de la entidad o entidades propietarias. Asimismo se incluyen en este epígrafe las adscripciones de bienes y derechos realizadas, igualmente, por la entidad o entidades propietarias.
 
 6. Por su parte, las subvenciones pendientes de imputar a resultados, de acuerdo con lo previsto en la norma de reconocimiento y valoración nº 11 «Transferencias y subvenciones», se registrarán en el epígrafe A.III, «Subvenciones recibidas pendientes de imputación a resultados».
 
-7. Para las cuentas acreedoras del epígrafe C.III del pasivo, con vencimiento superior a un año, se creará el epígrafe B.III. del pasivo, con la denominación «Acreedores y otras cuentas a pagar a largo plazo».
+7. Para las cuentas acreedoras del epígrafe C.IV., “Acreedores y otras cuentas a pagar” del pasivo, con vencimiento superior a un año, se creará el epígrafe B.IV. del pasivo, con la denominación “Acreedores y otras cuentas a pagar a largo plazo”.
 
 8. Cuando no se pueda reexpresar en la columna relativa al ejercicio anterior una corrección de un error material o un cambio de criterio, en su caso se deberá informar en la memoria.
+
+9. Los créditos y deudas con entidades del grupo, multigrupo y asociadas figurarán en partidas separadas de las que correspondan a los créditos y débitos con otras entidades.
 
 6. Cuenta del resultado económico patrimonial. Esta cuenta recoge el resultado económico patrimonial obtenido en el ejercicio y está formada por los ingresos y los gastos del mismo, excepto cuando proceda su imputación directa al patrimonio neto de acuerdo con lo previsto en las normas de reconocimiento y valoración. La cuenta del resultado económico patrimonial se formulará teniendo en cuenta que:
 
@@ -94,11 +96,21 @@ d) Las subvenciones recibidas para financiar activos corrientes, tales como exis
 
 7. Cuando se tengan que efectuar ajustes derivados de un error material o un cambio de criterio en el resultado del ejercicio anterior y no se puedan registrar en sus conceptos definitivos, se creará una línea con la denominación: «+ Ajustes en la cuenta del resultado del ejercicio anterior» después de la correspondiente al resultado neto del ejercicio, cuya agregación con esta última, en la columna relativa al importe del ejercicio anterior al de referencia de las cuentas, dará lugar al importe en dicha columna de una última línea denominada «Resultado del ejercicio anterior ajustado».
 
-7. Estado de cambios en el patrimonio neto. El estado de cambios en el patrimonio neto tendrá la estructura que figura en los modelos de cuentas anuales.
+8. Los ingresos y gastos derivados de operaciones con entidades del grupo, multigrupo y asociadas figurarán en las partidas correspondientes, con separación de los derivados de operaciones con otras entidades.
 
-A los efectos de dar información en la memoria sobre la partida de dicho estado, cuando sea significativa, se considerarán los importes brutos incluidos en cada partida, en lugar del importe neto de la misma, en el caso de partidas en las que se integren importes de distinto signo.
+7. Estado de cambios en el patrimonio neto.
 
-Se informará de todos los cambios habidos en el patrimonio neto distinguiendo entre:
+El Estado de cambios en el patrimonio neto se divide en dos partes:
+
+1. Estado total de cambios en el patrimonio neto.
+
+2. Estado de ingresos y gastos reconocidos.
+
+Dichos estados tendrán la estructura que figura en los modelos de las cuentas anuales.
+
+A los efectos de dar información en la memoria sobre las partidas de dichos estados cuando sean significativas, se considerarán los importes brutos incluidos en cada partida, en lugar del importe neto de cada una de ellas, en el caso de partidas en las que se integren importes de distinto signo.
+
+1. En la primera parte, “Estado total de cambios en el patrimonio neto”, se informará de todos los cambios habidos en el patrimonio neto, distinguiendo entre:
 
 – Los ajustes en el patrimonio neto debidos a cambios de criterios contables y correcciones de errores.
 
@@ -107,6 +119,24 @@ Se informará de todos los cambios habidos en el patrimonio neto distinguiendo e
 – Las operaciones con la entidad o entidades propietarias, en las que éstos actúen como tales.
 
 – Otras variaciones que se produzcan en el patrimonio neto.
+
+2. En la segunda parte, “Estado de ingresos y gastos reconocidos”, se recogerán los cambios en el patrimonio neto derivados de:
+
+– El resultado económico patrimonial.
+
+– Los ingresos y gastos reconocidos directamente en el patrimonio neto, distinguiendo los ingresos de los gastos.
+
+– Las transferencias a la cuenta del resultado económico patrimonial, de ingresos y gastos reconocidos directamente en el patrimonio neto.
+
+Este estado desarrolla el epígrafe D.1, “Estado total de cambios en el patrimonio neto”.
+
+En la columna relativa al ejercicio inmediatamente anterior al que se cierra, figurarán los importes ajustados, es decir, los importes de dicho ejercicio corregidos, en su caso, por los ajustes por cambios de criterio y correcciones de errores.
+
+Las partidas de gastos reconocidos directamente en el patrimonio neto, figurarán con signo negativo.
+
+Las partidas del epígrafe III, “Transferencias a la cuenta del resultado económico patrimonial”, en las que las transferencias de ingresos superen a las transferencias de gastos, figurarán por su importe neto con signo negativo, y en caso contrario, con signo positivo.
+
+No obstante, en los registros contables de la entidad, deberán figurar por sus importes brutos, los importes transferidos a la cuenta del resultado económico patrimonial, según lo dispuesto en esta adaptación del Plan General de Contabilidad Pública.
 
 8. Estado de flujos de efectivo. El estado de flujos de efectivo informa sobre el origen y destino de los movimientos habidos en las partidas monetarias de activo representativas de efectivo y otros activos líquidos equivalentes, e indica la variación neta sufrida por las mismas en el ejercicio.
 
@@ -166,18 +196,22 @@ Balance
 | 213 (2813) (2913) | 3. Bienes del patrimonio histórico. |  |  |  |  |  |  |  |  |
 | 214, 216, 217, 218, 219, (2814), (2816) (2817), (2818) (2819) (2914), (2916) (2917), (2918) (2919) | 4. Otro inmovilizado material. |  |  |  | 130, 131 | III. Subvenciones recibidas pendientes de imputar a resultados. |  |  |  |
 | 230, 231, 233, 234, 237 | 5. Inmovilizado en curso. |  |  |  |  | B) Pasivo no corriente. |  |  |  |
-| 252, 254, 257, 258, (298) | III. Inversiones financieras a largo plazo. |  |  |  | 14 | I. Provisiones a largo plazo. |  |  |  |
+| 242, 245, (295) | III. Inversiones financieras a largo plazo en entidades del grupo, multigrupo y asociadas. |  |  |  |  |  |  |  |  |
+| 252, 254, 257, 258, (298) | IV. Inversiones financieras a largo plazo. |  |  |  | 14 | I. Provisiones a largo plazo. |  |  |  |
 |  |  |  |  |  |  | II. Deudas a largo plazo. |  |  |  |
 |  | B) Activo corriente. |  |  |  | 170, 177 | 1. Deudas con entidades de crédito. |  |  |  |
 | 30 (39) | I. Existencias. |  |  |  | 171,172,173,178 | 2. Otras deudas. |  |  |  |
+|  |  |  |  |  | 16 | III. Deudas con entidades del grupo, multigrupo y asociadas a largo plazo. |  |  |  |
 |  |  |  |  |  |  | C) Pasivo corriente. |  |  |  |
 | 460, (490), 469, 555 , 47 | II. Deudores y otras cuentas a cobrar. |  |  |  | 58 | I. Provisiones a corto plazo. |  |  |  |
-| 542, 544, 547, 548, (598) | III. Inversiones financieras a corto plazo. |  |  |  |  | II. Deudas a corto plazo. |  |  |  |
+| 532, 535, (595) | III. Inversiones financieras a corto plazo en entidades del grupo, multigrupo y asociadas. |  |  |  |  |  |  |  |  |
+| 542, 544, 547, 548, (598) | IV. Inversiones financieras a corto plazo. |  |  |  |  | II. Deudas a corto plazo. |  |  |  |
 |  |  |  |  |  | 520, 527 | 1. Deuda con entidades de crédito. |  |  |  |
-| 480 | IV. Ajustes por periodificación. |  |  |  | 521, 522, 528, | 2. Otras deudas. |  |  |  |
-|  | V. Efectivo y otros activos líquidos equivalentes. |  |  |  | 420, 429, 554, 47 | III. Acreedores y otras cuentas a pagar. |  |  |  |
+| 480 | V. Ajustes por periodificación. |  |  |  | 521, 522, 528, | 2. Otras deudas. |  |  |  |
+|  |  |  |  |  | 51 | III. Deudas con entidades del grupo, multigrupo y asociadas a corto plazo. |  |  |  |
+|  | VI. Efectivo y otros activos líquidos equivalentes. |  |  |  | 420, 429, 554, 47 | IV. Acreedores y otras cuentas a pagar. |  |  |  |
 | 577 | 1. Otros activos líquidos equivalentes. |  |  |  |  |  |  |  |  |
-| 556, 570, 571, | 2. Tesorería. |  |  |  | 485 | IV. Ajustes por periodificación. |  |  |  |
+| 556, 570, 571, | 2. Tesorería. |  |  |  | 485 | V. Ajustes por periodificación. |  |  |  |
 |  | TOTAL ACTIVO (A+B). |  |  |  |  | TOTAL PATRIMONIO NETO Y PASIVO (A+B+C). |  |  |  |
 
 Cuenta del resultado económico patrimonial
@@ -222,8 +256,12 @@ Cuenta del resultado económico patrimonial
 | (678) | b) Gastos. |  |  |  |
 |  | II. Resultado de las operaciones no financieras (I +11+12). |  |  |  |
 | 762, 769 | 13. Ingresos financieros. |  |  |  |
-| (662), (669) | 14. Gastos financieros. |  |  |  |
+|  | 14. Gastos financieros. |  |  |  |
+| (663) | a) Por deudas con entidades del grupo, multigrupo y asociadas. |  |  |  |
+| (662), (669) | b) Otros. |  |  |  |
 | 797 (697) (667) | 15. Deterioro de valor, bajas y enajenaciones de activos y pasivos financieros. |  |  |  |
+| 7970, (6670), (6970) | a) De entidades del grupo, multigrupo y asociadas. |  |  |  |
+| 7971, (6671), (6971) | b) Otros. |  |  |  |
 |  | III. Resultado de operaciones financieras (13+14+15). |  |  |  |
 |  | IV. Resultado (ahorro o desahorro) neto del ejercicio (II+III). |  |  |  |
 
@@ -241,6 +279,17 @@ Cuenta del resultado económico patrimonial
 | 2. Operaciones con la entidad o entidades propietarias. |  |  |  |  |  |
 | 3. Otras variaciones del patrimonio neto. |  |  |  |  |  |
 | E. PATRIMONIO NETO AL FINAL DEL EJERCICIO N (C+D). |  |  |  |  |  |
+
+2. Estado de ingresos y gastos reconocidos
+
+| N.º CTAS. |  | Notas en memoria | EJ. N | EJ. N-1 |
+| --- | --- | --- | --- | --- |
+| 129 | I. Resultado económico patrimonial. |  |  |  |
+|  | II. Ingresos y gastos reconocidos directamente en el patrimonio neto: 1. Otros incrementos patrimoniales. |  |  |  |
+|  | Total (1). |  |  |  |
+|  | III. Transferencias a la cuenta del resultado económico patrimonial: 1. Otros incrementos patrimoniales. |  |  |  |
+|  | Total (1). |  |  |  |
+|  | IV. TOTAL ingresos y gastos reconocidos. (I + II + III)................................................. |  |  |  |
 
 ## Estados de flujo de efectivo
 
@@ -701,5 +750,7 @@ a) Los hechos posteriores que pongan de manifiesto circunstancias que ya existí
 b) Los hechos posteriores que pongan de manifiesto circunstancias que ya existían en la fecha de cierre del ejercicio que no hayan supuesto, de acuerdo con su naturaleza, la inclusión de un ajuste en las cifras contenidas en las cuentas anuales, si bien la información contenida en la memoria debe ser modificada de acuerdo con dicho hecho posterior.
 
 c) Los hechos posteriores que muestren condiciones que no existían al cierre del ejercicio y que sean de tal importancia que, si no se suministra información al respecto, podría afectar a la capacidad de evaluación de los usuarios de las cuentas anuales.
+
+> Se modifica por el art. único.uno a cuatro de la Resolución de 6 de mayo de 2025. Ref. BOE-A-2025-9276
 
 > Redactada conforme a la corrección de errores publicada en BOE núm. 295, de 7 de diciembre de 2018. Ref. BOE-A-2018-16726
