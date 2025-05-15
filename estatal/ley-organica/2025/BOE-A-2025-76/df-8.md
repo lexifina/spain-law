@@ -2341,15 +2341,15 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 > | Provincia | N.º partido | Sede | N.º plazas | Categoría | Compatibilidad/Especialización | Jurisdicción |
 > | --- | --- | --- | --- | --- | --- | --- |
 > | MELILLA |  |  |  |  |  |  |
-> |  | 1 | TRIBUNAL DE INSTANCIA DE MELILLA. | 12 |  |  |  |
-> |  |  | Sección Civil y de Instrucción. | 5 | M | 1 (C-VSM) 1 (C-MER) | Partido judicial. |
+> |  | 1 | TRIBUNAL DE INSTANCIA DE MELILLA. |  |  |  |  |
+> |  |  | Sección Civil y de Instrucción. | 6 | M | 1 (C-VSM) 1 (C-MER) | Partido judicial. |
 > |  |  | Sección de lo Penal. | 2 | M | 1 (C-VP) | Partido judicial 8. |
 > |  |  | Sección de Menores. | 1 | M |  | Ciudad autónoma. |
-> |  |  | Sección de lo Contencioso-Administrativo. | 3 | M |  | Partido judicial 8. |
+> |  |  | Sección de lo Contencioso-Administrativo. | 2 | M |  | Partido judicial 8. |
 > |  |  | Sección de lo Social. | 1 | M |  | Partido judicial 8. |
 > |  |  | Total. | 12 |  |  |  |
-> |  |  | Total provincial. | 12 |  |  |  |
-> |  |  | Total Ciudad Autónoma. | 12 |  |  |  |
+> |  |  | Total Provincia. | 12 |  |  |  |
+> |  |  | Total Comunidad Autónoma. | 12 |  |  |  |
 
 > Total nacional: 3931.
 
@@ -2385,3 +2385,7 @@ Dieciocho. Se modifican los anexos VI y VII, que quedan redactados como sigue:
 > |  |  | Sección de lo Contencioso-Administrativo | 12 | M |  | Ámbito nacional |
 > |  |  | Total. | 20» |  |  |  |
 > | * Atribución de competencias de Vigilancia Penitenciaria al Juzgado Central de Menores. Acuerdo de la Comisión Permanente del Consejo General del Poder Judicial de 29/05/2003. |
+
+> Se modifica el apartado 18 en lo relativo a la ciudad de Melilla del Anexo VI por el art. 3 del Real Decreto 388/2025, de 13 de mayo. Ref. BOE-A-2025-9384
+
+> Ténganse en cuenta las fechas de efectos de la transformación del juzgado a que se refiere el art. 3 establecidas en las disposiciones finales 3 y 4 del citado Real Decreto.
