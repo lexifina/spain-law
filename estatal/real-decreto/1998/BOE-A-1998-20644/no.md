@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 15 de mayo de 2025, por la disposición derogatoria única del Real Decreto 391/2025, de 13 de mayo, Ref. BOE-A-2025-9388#dd, sin perjuicio de lo establecido en su disposición transitoria única, que establece que los arts. 2, 3, 4, 6, 10, 11.3, 14 y 18 del presente Real Decreto mantendrán su vigencia durante dos años.
