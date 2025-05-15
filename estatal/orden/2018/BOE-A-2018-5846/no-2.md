@@ -1,1 +1,3 @@
+Norma derogada, con efectos de 15 de mayo de 2025, por la disposición derogatoria única de la Orden ITU/461/2025, de 8 de mayo. Ref. BOE-A-2025-9386
+
 Esta norma se deja sin efecto en relación a la participación en sus órganos y obligaciones de unidades dependientes del Ministerio para la Transición Ecológica, desde el 27 de abril de 2019, según establece la disposición derogatoria única.2 de la Orden TEC/469/2019, de 15 de abril. Ref. BOE-A-2019-6203#dd
