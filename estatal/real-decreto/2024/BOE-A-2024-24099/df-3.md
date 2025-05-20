@@ -1,0 +1,5 @@
+## Disposición final tercera. Desarrollo normativo.
+
+1. En el plazo de seis meses desde la publicación en el «Boletín Oficial del Estado» del presente Real Decreto el Gobierno impulsará las reformas normativas necesarias para dar protección a aquellos colectivos que presenten un riesgo tangible de desprotección debido a conflictos o disturbios graves de naturaleza política, étnica o religiosa.
+
+2. Se autoriza a las personas titulares de los Ministerios de Asuntos Exteriores, Unión Europea y Cooperación, del Interior, de Trabajo y Economía Social, de Inclusión, Seguridad Social y Migraciones y de Política Territorial y Memoria Democrática para dictar, en el ámbito de sus respectivas competencias, las normas que sean necesarias para la ejecución y desarrollo de lo dispuesto en este real decreto y en el reglamento que por él se aprueba. En el supuesto de que las materias no sean objeto de la exclusiva competencia de cada uno de ellos, la ejecución y desarrollo de lo dispuesto en este real decreto y en el reglamento que por él se aprueba se llevará a cabo mediante Orden del ministro de la Presidencia, dictada a propuesta de los ministros interesados.
