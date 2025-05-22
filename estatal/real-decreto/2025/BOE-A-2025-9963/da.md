@@ -1,0 +1,3 @@
+## Disposición adicional única. Tratamiento de datos personales.
+
+El manejo y tratamiento de los datos personales que podrán recabarse para la tramitación y expedición del pasaporte de servicio se adecuará a lo dispuesto en el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de esos datos y por el que se deroga la Directiva 95/46CE (Reglamento general de protección de datos), y a la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
