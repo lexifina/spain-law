@@ -8,6 +8,8 @@
 
 a) Prestar asesoramiento y asistencia técnica, informar y realizar funciones de apoyo a la jefatura y demás órganos de la Misión Diplomática.
 
+a bis) Apoyar los productos y servicios agroalimentarios y pesqueros españoles, así como los expedientes de la apertura de nuevos mercados y la remoción de obstáculos a los mismos en el ámbito de competencias del Ministerio de Agricultura, Pesca y Alimentación, todo ello sin perjuicio de las competencias atribuidas a la Secretaría de Estado de Comercio del Ministerio de Economía, Comercio y Empresa.
+
 b) Preparar, participar y prestar asesoramiento en grupos de trabajo, comités, comisiones mixtas u otras reuniones con las Administraciones nacionales, y elaborar los informes correspondientes.
 
 c) Mantener relaciones permanentes con las administraciones del país receptor, así como con sus instituciones públicas o privadas y organizaciones representativas de los sectores agrario, pesquero, alimentario y de desarrollo rural.
@@ -33,3 +35,5 @@ l) Representar en los actos institucionales al Ministerio de Agricultura, Pesca 
 m) Cualquier otra que les sea encomendada en el marco de sus competencias.
 
 4. A las Consejerías les será de aplicación lo dispuesto en la Ley 2/2014, de 25 de marzo, lo previsto en este real decreto, y supletoriamente lo dispuesto en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+> Se añade la letra a bis) al apartado 3 por el art. único.2 del Real Decreto 398/2025, de 20 de mayo. Ref. BOE-A-2025-9965
