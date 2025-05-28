@@ -6,7 +6,7 @@ La disposición final segunda del citado Real Decreto 1009/2023, de 5 de diciemb
 
 El presente real decreto da cumplimiento a lo establecido en dicha disposición final, completando y desarrollando la estructura orgánica básica de los órganos superiores y directivos del departamento hasta el nivel de subdirección general.
 
-Asimismo, se modifica el Real Decreto 1012/2022, de 5 de diciembre, por el que se establece la estructura orgánica de la Abogacía General del Estado, se regula la inspección de los servicios en su ámbito y se dictan normas sobre su personal, para adaptar determinados aspectos organizativos. También se modifica el Real Decreto 1009/2023, de 5 de diciembre, para incluir, entre los órganos directivos dependientes de la Subsecretaría de la Presidencia, Justicia y Relaciones con las Cortes, a la Dirección General de Libertad Religiosa, y para adecuar las referencias a la Dirección General de Cooperación Jurídica Internacional.
+También se modifica el Real Decreto 1009/2023, de 5 de diciembre, para incluir, entre los órganos directivos dependientes de la Subsecretaría de la Presidencia, Justicia y Relaciones con las Cortes, a la Dirección General de Libertad Religiosa, y para adecuar las referencias a la Dirección General de Cooperación Jurídica Internacional.
 
 Adicionalmente, a propuesta de la Intervención General de la Administración del Estado, atendiendo a las particularidades propias de la gestión de las actividades de los órganos y unidades previstos en el Real Decreto 890/2023, de 27 de noviembre, y los requerimientos de control, se establece que el control de las cuentas justificativas de caja fija será el regulado en el título tercero del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen del control interno ejercido por la Intervención General de la Administración del Estado.
 
@@ -19,3 +19,5 @@ Dado que el Real Decreto 829/2023, de 20 de noviembre, unifica bajo un único Mi
 En su virtud, a iniciativa del Ministro de la Presidencia, Justicia y Relaciones con las Cortes, a propuesta del Ministro para la Transformación Digital y de la Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 27 de febrero de 2024,
 
 DISPONGO:
+
+> Se modifica el párrafo quinto por la disposición final 2.2 del Real Decreto 412/2025, de 27 de mayo. Ref. BOE-A-2025-10493#df-2
