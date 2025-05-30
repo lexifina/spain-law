@@ -58,6 +58,8 @@
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
 | 718 | Desde el día 1 hasta el día 26 del mes de julio. |
+| 780 (*) | Plazo: Desde el día 1 hasta el 15 de septiembre. |
+| 781 (*) | Plazo: Desde el día 1 hasta el 15 de febrero. |
 | 792 | Desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
 | 793 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre. |
 | 795 | Desde el día 1 hasta el día 15 del mes de septiembre. |
@@ -71,7 +73,9 @@
 
 (***) Sólo cuando el periodo sea trimestral.
 
-> Téngase en cuenta que el modelo 573, añadido por la disposición final 3.2 de la Orden HAC/86/2025, de 13 de enero, Ref. BOE-A-2025-1732, entra en vigor el 1 de abril de 2025, según establece su disposición final 8.
+> Se añaden los modelos 780 y 781, con la nota a pie de tabla (*), por la disposición final 2.2 de la Orden HAC/532/2025, de 26 de mayo. Ref. BOE-A-2025-10597#df-2
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez a las declaraciones cuyo plazo de presentación se inicie en el ejercicio 2025, según establece la disposición final 4 de la citada Orden.
 
 > Se añade el modelo 573, con efectos de 1 de abril de 2025, por la disposición final 3.2 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732
 

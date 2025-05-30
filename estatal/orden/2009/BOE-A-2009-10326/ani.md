@@ -53,6 +53,8 @@
 | 595 | Impuesto Especial sobre el Carbón. Declaración-liquidación. |
 | 714 | Impuesto sobre el Patrimonio. Declaración anual. |
 | 718 | Impuesto Temporal de Solidaridad de las Grandes Fortunas. |
+| 780 | Impuesto sobre el margen de intereses y comisiones de determinadas entidades de crédito. Autoliquidación. |
+| 781 | Impuesto sobre el margen de intereses y comisiones de determinadas entidades de crédito. Pago fraccionado. |
 | 792 | Autoliquidación de la aportación a realizar por los prestadores del servicio de comunicación audiovisual televisivo y por los prestadores del servicio de intercambio de vídeos a través de plataforma de ámbito geográfico estatal o superior al de una Comunidad Autónoma. |
 | 793 | Pagos a cuenta de la aportación a realizar por los prestadores del servicio de comunicación audiovisual televisivo y por los prestadores del servicio de intercambio de vídeos a través de plataforma de ámbito geográfico estatal o superior al de una Comunidad Autónoma. |
 | 795 | Gravamen temporal energético. Declaración del ingreso de la prestación. |
@@ -66,7 +68,9 @@
 
 (***) Sólo cuando el periodo sea trimestral.
 
-> Téngase en cuenta que el modelo 573, añadido por la disposición final 3.1 de la Orden HAC/86/2025, de 13 de enero, Ref. BOE-A-2025-1732, entra en vigor el 1 de abril de 2025, según establece su disposición final 8.
+> Se añaden los modelos 780 y 781 por la disposición final 2.1 de la Orden HAC/532/2025, de 26 de mayo. Ref. BOE-A-2025-10597#df-2
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez a las declaraciones cuyo plazo de presentación se inicie en el ejercicio 2025, según establece la disposición final 4 de la citada Orden.
 
 > Se añade el modelo 573, con efectos de 1 de abril de 2025, por la disposición final 3.1 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732
 
