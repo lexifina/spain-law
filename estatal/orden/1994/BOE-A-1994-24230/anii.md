@@ -30,8 +30,11 @@
 | Viroide del tubérculo fusiforme de la patata [PSTVD0]. | Capsicum annuum L., Solanum lycopersicum L. | 0 |
 | Virus del bronceado del tomate [TSWV00]. | Capsicum annuum L., Lactuca sativa L., Solanum lycopersicum L., Solanum melongena L. | 0 |
 | Virus del rizado amarillo del tomate [TYLCV0]. | Solanum lycopersicum L. | 0 |
+| Virus rugoso del tomate (ToBRFV). | Capsicum annuum L., excepto las semillas pertenecientes a una variedad que ha demostrado ser resistente al ToBRFV. Solanum lycopersicum L. y sus híbridos. | 0 |
 
 Los envases en que se vaya a comercializar la semilla deberán reunir las suficientes condiciones de seguridad y ser aptos para la conservación de la semilla, no existiendo limitaciones en cuanto al material de que estén fabricados.
+
+> Se modifica por el art. 3 de la Orden APA/539/2025, de 28 de mayo. Ref. BOE-A-2025-10686
 
 > Se sustituye, con efectos de 2 de enero de 2024, por el art. único.15 de la Orden APA/1322/2023, de 4 de diciembre. Ref. BOE-A-2023-25113
 

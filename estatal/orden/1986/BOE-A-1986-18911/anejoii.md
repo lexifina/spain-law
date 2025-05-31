@@ -108,6 +108,9 @@ Se comprobará, al menos mediante inspección visual, que la presencia de plagas
 | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
 | Virus del mosaico del pepino [PEPMV0]. | Solanum lycopersicum L. | 0 % |
 | Viroide del tubérculo fusiforme de la patata [PSTVD0]. | Capsicum annuum L., Solanum lycopersicum L. | 0 % |
+| Virus rugoso del tomate (ToBRFV). | Capsicum annuum L., excepto las semillas pertenecientes a una variedad que ha demostrado ser resistente al ToBRFV. Solanum lycopersicum L. y sus híbridos. | 0 % |
+
+> Se modifica el apartado C) por el art. 2 de la Orden APA/539/2025, de 28 de mayo. Ref. BOE-A-2025-10686
 
 > Se modifica por el art. 1.3 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ap
 

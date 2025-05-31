@@ -79,10 +79,14 @@ La presencia de plagas reguladas no cuarentenarias en las semillas y en las cate
 | Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]. | Brassica rapa L. var. silvestris (Lam.) Briggs. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. |
 | Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]. | Brassica napus L. (partim), Helianthus annuus L. | No más de diez esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de diez esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de diez esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. |
 | Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]. | Sinapis alba L. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. | No más de cinco esclerocios o fragmentos de esclerocios detectados en un examen de laboratorio de una muestra representativa de cada lote de semillas, de un tamaño especificado en la columna 4 del anexo 3. |
+|  |
+| Tobacco ringspot virus [TRSV00]. | Glycine max (L.) Merr. | 0% | 0% | 0% |
 
 Se rechazará todo lote de semilla de cártamo en el que aparezcan semillas de “Orobanche spp.”. Ello, no obstante, si solamente aparece una semilla en una muestra de 100 gramos no se considerará como impureza si una segunda muestra de 200 gramos está exenta.
 
 5.ª Para las semillas comerciales serán de aplicación los requisitos indicados para la última categoría de semilla certificada, excepto los de pureza varietal.
+
+> Se modifica la observación 4ª por el art. 4 de la Orden APA/539/2025, de 28 de mayo. Ref. BOE-A-2025-10686
 
 > Se modifica la observación 4ª por el art. 5.2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#aq
 
