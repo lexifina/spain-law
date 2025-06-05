@@ -78,17 +78,59 @@ a. Agentes biológicos, químicos y radiactivos “adaptados para utilización e
 
 a. Alquil (metil, etil, n-propil o isopropil)-fosfonofluoridatos de O-alquilo (iguales o inferiores a C10 incluyendo los cicloalquilos), tales como:
 
-Sarin (GB): metilfosfonofluoridato de O-isopropilo (CAS 107-44-8); y
+Sarín (GB): metilfosfonofluoridato de O-isopropilo (CAS 107-44-8);
 
-Somán (GD): metilfosfonofluoridato de O-pinacólilo (CAS 96-64-0);
+Somán (GD): metilfosfonofluoridato de O-pinacólilo (CAS 96-64-0).
 
 b. N, N-dialquil (metil, etil, n-propil o isopropil) fosforamidocianidatos de O-alquilo (iguales o inferiores a C10), incluyendo los cicloalquilos, tales como:
 
-Tabún (GA): N, N-dimetilfosforamidocianidato de O-etilo (CAS 77-81-6);
+Tabún (GA): N, N-dimetilfosforamidocianidato de O-etilo (CAS 77-81-6).
 
-c. Alquil (metil, etil, n-propil o isopropil) fosfonotiolatos de O-alquilo (iguales o inferiores a C10 incluyendo los cicloalquilos) y de S-2-dialquilo (metil, etil, n-propil o isopropil)-aminoetil y sus sales alquiladas y protonadas, tales como:
+c. Alquil (metil, etil, n-propil o isopropil) fosfonotiolatos de O-alquilo (H o ≤ C10, incluyendo los cicloalquilos) y de S-2-dialquilo (metil, etil, n-propil o isopropil)-aminoetil y sus sales alquiladas y protonadas, tales como:
 
 VX: Metil fosfonotiolato de O-etilo y de S-2-diisopropilaminoetilo (CAS 50782-69-9).
+
+d. Amitón: fosforotiolato de O,Odietilo y S[ 2 (dietilamino) etilo] (CAS 78-53-5) y las sales alquiladas o protonadas correspondientes.
+
+e. Fluoruros de P-alquil (H o ≤ C10, incluido el cicloalquilo) N-(1-(dialquil(≤ C10, incluido el cicloalquilo)amino))alquiliden(H o ≤ C10, incluido el cicloalquilo) fosfonamídicos y sales alquilatadas o protonadas correspondientes.
+
+Nota:
+
+A los efectos de ML7.b.1.e, se incluyen las siguientes sustancias, tales como:
+
+Fluoruro de N-(1-(di-n-decilamino)-n-deciliden)-P-decilfosfonamidico (CAS 2387495-99-8).
+
+Metil-(1-(dietilamino) etiliden) fosfonamidofluoridato (CAS 2387496-12-8).
+
+f. O-alquil (H o ≤ C10, incluido el cicloalquilo) N-(1-(dialquil(≤ C10, incluido el cicloalquilo)amino))alquiliden(H o ≤ C10, incluido el cicloalquilo) fosforamidofluoridatos y sales alquilatadas o protonadas correspondientes:
+
+Nota:
+
+A los efectos de ML7.b.1f, se incluyen las siguientes sustancias, tales como:
+
+O-n-decil N-(1-(di-n-decilamino)-n-deciliden)fosforamidofluoridato (CAS 2387496-00-4).
+
+Metil-(1-(dietilamino)etiliden)fosforamidofluoridato (CAS 2387496-04-8).
+
+Etil-(1-(dietilamino)etiliden)fosforamidofluoridato (CAS 2387496-06-0).
+
+g. Metil-(bis(dietilamino)metilen)fosfonamidofluoridato (CAS 2387496-14-0).
+
+h. Carbamatos. Cuaternarios de dimetilcarbamoiloxipiridinas: Dibromuro de 1-[N,N-dialquil(С≤10)-N-(n-(hidroxil, ciano, acetoxi)alquil(С≤10)) amonio]-n- [N-(3-dimetil-carbamoxi-α-picolinil)-N,N-dialquil(С≤10) amonio]decano (n=1-8).
+
+Nota:
+
+A los efectos de ML7.b.1h, se incluyen las siguientes sustancias, tales como:
+
+Dibromuro de 1-[N,N-dimetil-N-(2-hidroxi)etilamonio]-10-[N-(3-dimetil carbamoxi-α-picolinil)-N,N-dimetilamonio]decano (CAS 77104-62-2).
+
+i. Carbamatos. Bicuaternarios de dimetilcarbamoiloxipiridinas: Dibromuro de 1,n-bis[N-(3-dimetilcarbamoxi-α-picolil)-N,N-dialquil((С≤10) amonio]-alcano-(2,(n-1)-diona) (n=2-12).
+
+Nota:
+
+A los efectos de ML7.b.1i, se incluye la siguiente sustancia, tal como:
+
+Dibromuro de 1,10-bis[N-(3-dimetilcarbamoxi-α-picolil)-N-etil-N-metilamonio]- decano-2,9-diona (CAS77104-00-8).
 
 2. Agentes vesicantes para guerra química:
 
@@ -169,5 +211,7 @@ c. Sistemas de radiofrecuencia (RF) de gran potencia capaces de destruir un obje
 ## 12. EQUIPOS Y SISTEMAS DE GUERRA ELECTRÓNICA, INCLUYENDO CIFRADO, Y BENGALAS, Y LOS COMPONENTES DISEÑADOS ESPECIALMENTE PARA ELLOS.
 
 Nota: Los términos utilizados en la presente Lista se entenderán de acuerdo con la definición dada en la Relación de Material de Defensa (RMD) y en el Reglamento de Armas.
+
+> Se modifica por el art. único.2 de la Orden ECM/551/2025, de 30 de mayo. Ref. BOE-A-2025-10778
 
 > Se modifica por el art. único y Anexo III.1 de la Orden ECC/1493/2016, de 19 de septiembre. Ref. BOE-A-2016-8633.

@@ -2,7 +2,7 @@
 
 ## MATERIAL DE DEFENSA EN GENERAL
 
-Nota 1: Los términos que aparecen entre comillas dobles (“”) en el presente Anexo se encuentran definidos en el denominado Apéndice de Definiciones de los Términos Empleados en los Anexos. Los términos que aparecen entre comillas simples (‘’) se encuentran definidos, generalmente, en el correspondiente artículo.
+Nota 1: Los términos que aparecen entre comillas dobles (“”) en el presente anexo se encuentran definidos en el denominado Apéndice de Definiciones de los Términos Empleados en los Anexos. Los términos que aparecen entre comillas simples (‘’) se encuentran definidos, generalmente, en el correspondiente artículo.
 
 Nota 2: En algunos casos, los productos químicos se listan por nombre y número CAS. La lista se aplica a los productos químicos de la misma fórmula estructural (incluidos los hidratos) independientemente del nombre o del número CAS. Los números CAS se muestran para ayudar a identificar un producto químico o una mezcla independientemente de su nomenclatura. Los números CAS no pueden ser usados como identificadores únicos porque algunas formas de los productos químicos listados tienen números CAS diferentes y, además, mezclas que contienen un producto químico listado pueden tener un número CAS diferente.
 
@@ -10,23 +10,23 @@ Nota 3: Todas las referencias a otros artículos o subartículos que aparecen en
 
 ML1 Armas con cañón de ánima lisa con un calibre inferior a 20 mm, otras armas de fuego y armas automáticas con un calibre de 12,7 mm (calibre de 0,50 pulgadas) o inferior y accesorios, según se indica, y componentes diseñados especialmente para ellas:
 
-Nota: El artículo 1 no se aplica a lo siguiente:
+Nota: El artículo ML1 no se aplica a lo siguiente:
 
 a. Las armas de fuego diseñadas especialmente para municiones inertes de instrucción y que sean incapaces de disparar proyectiles;
 
 b. Las armas de fuego diseñadas especialmente para el lanzamiento de proyectiles retenidos por cables sin carga explosiva elevada ni enlace de comunicaciones, en un radio inferior o igual a 500 m;
 
-c. Las armas que utilicen municiones con casquillo de percusión no central y que no sean totalmente automáticas;
+c. Las armas que utilicen municiones con casquillo de percusión no central y que no sean totalmente automáticas.
 
-d. “armas desactivadas”.
+d. “Armas desactivadas”.
 
 Nota técnica:
 
-Un “arma desactivada” es un arma que ha sido privada de la capacidad de disparar proyectil alguno mediante los procesos definidos por la autoridad nacional de los Estados participantes en el Arreglo de Wassenaar. Estos procesos modifican de manera irreversible las piezas esenciales del arma de fuego. De conformidad con las disposiciones legales y reglamentarias nacionales, la desactivación del arma de fuego puede acreditarse mediante certificado expedido por una autoridad nacional y puede indicarse en el arma mediante marcado en una de las piezas esenciales.
+A efectos del artículo ML1, nota d, un “arma desactivada” es un arma que ha sido privada de la capacidad de disparar proyectil alguno mediante los procesos definidos por la autoridad nacional del Estado miembro de la UE o del Estado participante en el Arreglo de Wassenaar. Estos procesos modifican de manera irreversible las piezas esenciales del arma de fuego. De conformidad con las disposiciones legales y reglamentarias nacionales, la desactivación del arma de fuego puede acreditarse mediante certificado expedido por una autoridad nacional y puede indicarse en el arma mediante marcado en una de las piezas esenciales.
 
-a. Fusiles y armas combinadas, armas cortas, ametralladoras, fusiles ametralladores y armas multitubo;
+a) Fusiles y armas combinadas, armas cortas, ametralladoras, fusiles ametralladoras y armas multitubo;
 
-Nota: El subartículo 1.a no se aplica a lo siguiente:
+Nota: El subartículo ML1.a no se aplica a lo siguiente:
 
 a. Fusiles y armas combinadas, manufacturados con anterioridad a 1938;
 
@@ -40,9 +40,9 @@ e. Armas cortas diseñadas especialmente para cualquiera de los siguientes usos:
 
 1. Sacrificio de animales domésticos, o
 
-2. Sedación de animales;
+2. Sedación de animales.
 
-b. Armas con cañón de ánima lisa, según se indica:
+b) Armas con cañón de ánima lisa, según se indica:
 
 1. Armas con cañón de ánima lisa diseñadas especialmente para uso militar;
 
@@ -50,11 +50,11 @@ b. Armas con cañón de ánima lisa, según se indica:
 
 a. Armas de tipo totalmente automático;
 
-b. Armas de tipo semiautomático o de bombeo;
+b. Armas de tipo semiautomático o de bombeo.
 
-Nota: El subartículo 1.b.2 no se aplica a las armas diseñadas especialmente para disparar proyectiles inertes con aire comprimido o CO2.
+Nota: El subartículo ML1.b.2 no se aplica a las armas diseñadas especialmente para disparar proyectiles inertes con aire comprimido o CO2.
 
-Nota: El subartículo 1.b no se aplica a lo siguiente:
+Nota: El subartículo ML1.b no se aplica a lo siguiente:
 
 a. Armas con cañón de ánima lisa manufacturadas con anterioridad a 1938;
 
@@ -72,19 +72,23 @@ d. Armas con cañón de ánima lisa diseñadas especialmente para cualquiera de 
 
 4. Lanzamiento de proyectiles industriales; o
 
-5. Desactivación de dispositivos explosivo improvisados().
+5. Desactivación de dispositivos explosivos improvisados.
 
-NB: Para los desactivadores (), véanse el artículo 4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.
+NB: Para los desactivadores, véanse el artículo ML4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.
 
-c. Armas que utilizan municiones sin vaina;
+c) Armas que utilizan municiones sin vaina;
 
-d. Accesorios diseñados para las armas contempladas en los subartículos 1.a, 1.b o 1.c, según se indica:
+d) Accesorios diseñados para las armas contempladas en los subartículos ML1.a, ML1.b o ML1.c, según se indica:
 
 1. Cargadores desmontables;
 
 2. Supresores o moderadores del ruido;
 
-3. Montajes de cañón;
+3. “Montajes de cañón”.
+
+Nota técnica:
+
+A efectos del subartículo Ml1.d.3, los “montajes de cañón” son apartados para: montar una pistola en un vehículo de tierra, “aeronave”, buque o estructura.
 
 4. Apagafogonazos;
 
@@ -92,23 +96,13 @@ d. Accesorios diseñados para las armas contempladas en los subartículos 1.a, 1
 
 6. Visores ópticos diseñados especialmente para uso militar.
 
-Nota técnica:
-
-A efectos del subartículo 1.d.3, un “montaje de cañón” es un dispositivo diseñado para montar un cañón en un vehículo terreno, una “aeronave”, un buque o una estructura.
-
-Nota: El subartículo 1.d no se aplica a los visores ópticos para armas sin procesado electrónico de imagen, con una ampliación de 9 o inferior, siempre que no estén diseñados especialmente o modificados para uso militar, o que no incorporen retículos diseñados especialmente para uso militar.
-
-NOTA ACLARATORIA:
-
-Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II del presente Reglamento.
-
 ML2 Armas con cañón de ánima lisa con un calibre igual o superior a 20 mm, otras armas o armamento con un calibre superior a 12,7 mm (calibre de 0,50 pulgadas), proyectores diseñados especialmente o modificados para uso militar y accesorios, según se indica, y componentes diseñados especialmente para ellos:
 
-a) Armas de fuego (incluidas las piezas de artillería), obuses, cañones, morteros, armas contracarro, lanzaproyectiles, lanzallamas, fusiles, fusiles sin retroceso y armas de ánima lisa.
+a) Armas de fuego (incluidas las piezas de artillería), obuses, cañones, morteros, armas contracarro, lanzaproyectiles, lanzallamas, fusiles, fusiles sin retroceso y armas de ánima lisa;
 
-Nota 1: El subartículo 2.a incluye inyectores, aparatos de medida, tanques de almacenamiento y otros componentes diseñados especialmente para ser usados con cargas de proyección líquidas, para cualquiera de los equipos especificados en el subartículo 2.a.
+Nota 1: El subartículo ML2.a incluye inyectores, aparatos de medida, tanques de almacenamiento y otros componentes diseñados especialmente para ser usados con cargas de proyección líquidas, para cualquiera de los equipos especificados en el subartículo ML2.a.
 
-Nota 2: El subartículo 2.a no se aplica a las armas siguientes:
+Nota 2: El subartículo ML2.a no se aplica a las armas siguientes:
 
 a. Fusiles, armas con cañón de ánima lisa y armas combinadas, manufacturados con anterioridad a 1938.
 
@@ -122,17 +116,17 @@ e. Armas con cañón de ánima lisa diseñadas especialmente para cualquiera de 
 
 1. Sacrificio de animales domésticos;
 
-2. sedación de animales;
+2. Sedación de animales;
 
-3. ensayos sísmicos;
+3. Ensayos sísmicos;
 
-4. lanzamiento de proyectiles industriales, o
+4. Lanzamiento de proyectiles industriales, o
 
-5. desactivación de dispositivos explosivos improvisados.
+5. Desactivación de dispositivos explosivos improvisados.
 
-N.B.: Para los desactivadores, véanse el artículo 4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.
+N.B.: Para los desactivadores, véanse el artículo ML4 y el artículo 1A006 en la Lista de Productos de Doble Uso de la UE.
 
-f. Lanzadores portátiles de proyectiles diseñados especialmente para el lanzamiento de proyectiles retenidos por cables sin carga explosiva elevada ni enlace de comunicaciones, en un radio inferior o igual a 500 m.
+f. Lanzadores portátiles de proyectiles diseñados especialmente para el lanzamiento de proyectiles retenidos por cables sin carga explosiva elevada ni enlace de comunicaciones, en un radio inferior o igual a 500 m. b)
 
 b) Proyectores diseñados especialmente o modificados para uso militar, según se indica:
 
@@ -142,27 +136,27 @@ b) Proyectores diseñados especialmente o modificados para uso militar, según s
 
 3. Proyectores para material pirotécnico.
 
-Nota: El subartículo 2.b no se aplica a las pistolas de señalización.
+Nota: El subartículo ML2.b no se aplica a las pistolas de señalización.
 
-c) Accesorios diseñados especialmente para las armas especificadas en el subartículo 2.a, según se indica:
+c) Accesorios diseñados especialmente para las armas especificadas en el subartículo ML2.a, según se indica:
 
 1. Visores y montajes para visores diseñados especialmente para uso militar;
 
-2. dispositivos para la reducción de la firma;
+2. Dispositivos para la reducción de la firma;
 
-3. guarniciones;
+3. Guarniciones;
 
-4. cargadores desmontables.
+4. Cargadores desmontables.
 
 d) Sin uso desde 2019.
 
 ML3 Municiones y dispositivos para el armado de los cebos, según se indica, y componentes diseñados especialmente para ellos:
 
-a. Munición para las armas especificadas por los artículos 1, 2 o 12;
+a) Munición para las armas especificadas por los artículos ML1, ML2 o ML12;
 
-b. Dispositivos para el armado de los cebos diseñados especialmente para la munición especificada por el subartículo 3.a.
+b) Dispositivos para el armado de los cebos diseñados especialmente para la munición especificada por el subartículo ML3.a.
 
-Nota 1: Los componentes diseñados especialmente especificados en el artículo 3 incluyen:
+Nota 1: Los componentes diseñados especialmente especificados en el artículo ML3 incluyen:
 
 a. Las piezas de metal o plástico, como los yunques de cebos, las vainas para balas, los eslabones, las cintas y las piezas metálicas para municiones;
 
@@ -174,7 +168,7 @@ d. Las vainas combustibles para cargas;
 
 e. Las submuniciones, incluidas pequeñas bombas, pequeñas minas y proyectiles con guiado final.
 
-Nota 2: El subartículo 3.a no se aplica a lo siguiente:
+Nota 2: El subartículo ML3.a no se aplica a lo siguiente:
 
 a. Municiones engarzadas sin proyectil;
 
@@ -184,7 +178,7 @@ c. Otras municiones inertes o de fogueo, que no incorporen componentes diseñado
 
 d. Componentes diseñados especialmente para munición inerte o de fogueo, especificados en la presente Nota 2, letras a, b o c.
 
-Nota 3: El subartículo 3.a se no aplica a los cartuchos diseñados especialmente para cualquiera de los siguientes propósitos:
+Nota 3: El subartículo ML3.a no se aplica a los cartuchos diseñados especialmente para cualquiera de los siguientes propósitos:
 
 a. Señalización;
 
@@ -194,11 +188,11 @@ c. Encendido de antorchas de gas en pozos de petróleo.
 
 ML4 Bombas, torpedos, cohetes, misiles, otros dispositivos y cargas explosivas, equipo relacionado y accesorios, según se indica, y los componentes diseñados especialmente para ellos:
 
-N.B.1 Para equipos de guiado y navegación, véase el artículo 11.
+N.B.1 Para equipos de guiado y navegación, véase el artículo ML11.
 
-N.B.2 Para los sistemas de protección de misiles para aeronaves (), véase el subartículo 4.c.
+N.B.2 Para los sistemas de protección de misiles para aeronaves (AMPS), véase el subartículo ML4.c.
 
-a. Bombas, torpedos, granadas, botes de humo, cohetes, minas, misiles, cargas de profundidad, cargas de demolición, dispositivos de demolición, equipos de demolición, "productos pirotécnicos", cartuchos y simuladores (es decir, equipo que simule las características de cualquiera de estos materiales), diseñados especialmente para uso militar;
+a) Bombas, torpedos, granadas, botes de humo, cohetes, minas, misiles, cargas de profundidad, cargas de demolición, dispositivos de demolición, equipos de demolición, “productos pirotécnicos”, cartuchos y simuladores (es decir, equipo que simule las características de cualquiera de estos materiales), diseñados especialmente para uso militar;
 
 Nota: El subartículo ML4.a incluye:
 
@@ -206,13 +200,13 @@ a. Granadas fumígenas, bombas incendiarias y dispositivos explosivos;
 
 b. Toberas de cohetes o misiles y puntas de ojiva de vehículos de reentrada.
 
-Nota: Para munición con granada o filtro para armas o proyectores especificados en ML1 o ML2 y submuniciones diseñadas especialmente para municiones, véase el artículo ML3.
+NB: Para munición con granada o filtro para armas o proyectores especificados en ML1 o ML2 y submuniciones diseñadas especialmente para municiones, véase el artículo ML3.
 
-b. Equipos con todas las características siguientes:
+b) Equipos con todas las características siguientes:
 
 1. Diseñados especialmente para uso militar; y
 
-2. Diseñados especialmente para "actividades" relacionadas con cualquiera de los siguientes elementos:
+2. Diseñados especialmente para “actividades” relacionadas con cualquiera de los siguientes elementos:
 
 a. Artículos especificados en el subartículo ML4.a; o
 
@@ -220,7 +214,7 @@ b. Dispositivos explosivos improvisados.
 
 Nota técnica:
 
-A efectos del subartículo ML4.b.2, se entiende por "actividades" la manipulación, lanzamiento, colocación, control, descarga, detonación, cebado, alimentación de potencia de salida de un solo uso operacional, señuelo, perturbación, dragado, detección, desactivación o eliminación.
+A efectos del subartículo ML4.b.2, se entiende por “actividades” la manipulación, lanzamiento, colocación, control, descarga, detonación, cebado, alimentación de potencia de salida de un solo uso operacional, señuelo, perturbación, dragado, detección, desactivación o eliminación.
 
 Nota 1: El subartículo ML4.b incluye:
 
@@ -230,7 +224,7 @@ b. Los cables eléctricos conductores flotantes que puedan servir para barrer mi
 
 Nota 2: El subartículo ML4.b no se aplica a los dispositivos portátiles, limitados por diseño exclusivamente para la detección de objetos metálicos e incapaces de distinguir entre minas y otros objetos metálicos.
 
-c. Sistemas de protección antimisiles para aeronaves (AMPS).
+c) Sistemas de protección antimisiles para aeronaves (AMPS).
 
 Nota: El subartículo ML4.c no se aplica a los que tengan todas las características siguientes:
 
@@ -244,41 +238,49 @@ b. Sistemas de dispensador de contramedidas;
 
 c. Bengalas que tengan a la vez una firma visible y una firma infrarroja, para el señuelo de misiles tierra-aire; y,
 
-NOTA ACLARATORIA:
+d. Los instalados en una “aeronave civil” y que tengan todas las características siguientes:
 
-Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II del presente Reglamento.
+1. El AMPS solo es operacional en una “aeronave civil” específica en la que esté instalado el AMPS específico y para el cual se haya expedido alguno de los siguientes documentos:
+
+a. Un certificado de tipo civil expedido por las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar; o
+
+b. Un documento equivalente reconocido por la Organización de Aviación Civil Internacional (OACI);
+
+2. El sistema de protección de misiles para aeronaves dispone de una protección para impedir el acceso no autorizado al “equipo lógico”; y
+
+3. El sistema de protección de misiles para aeronaves incorpora un mecanismo activo que impide el funcionamiento del sistema cuando este se retira de la “aeronave civil” en la que esté instalado.
+
+Nota aclaratoria: Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el anexo II del presente Reglamento.
 
 ML5 Sistemas de dirección de tiro, vigilancia y aviso, y sistemas relacionados, equipo de ensayo y de alineación y de contramedidas, según se indica, diseñados especialmente para uso militar, así como los componentes y accesorios diseñados especialmente para ellos:
 
-a. Visores de armas, ordenadores de bombardeo, equipo de puntería para cañones y sistemas de control para armas;
+a) Visores de armas, ordenadores de bombardeo, equipo de puntería para cañones y sistemas de control para armas;
 
-b. Otros sistemas de dirección de tiro, vigilancia y aviso, y sistemas relacionados, según se indica:
+b) Otros sistemas de dirección de tiro, vigilancia y aviso, y sistemas relacionados, según se indica:
 
 1. Sistemas de adquisición, de designación, de indicación de alcance, de vigilancia o rastreo del blanco;
 
 2. Equipo de detección, reconocimiento o identificación;
 
-3. Equipo de fusión de datos o de integración de sensores;
+3. Equipo de fusión de datos o de integración de sensores.
 
-c. Equipos de contramedidas para el material especificado en los subartículos 5.a o 5.b;
+c) Equipos de contramedidas para el material especificado en los subartículos ML5.a o ML5.b.
 
-Nota: A efectos del subartículo 5.c, los equipos de contramedidas incluyen los equipos de detección.
+Nota: A efectos del subartículo ML5.c, los equipos de contramedidas incluyen los equipos de detección.
 
-d. Equipos de ensayo o alineación de campaña, diseñado especialmente para el material especificado en los subartículos 5.a, 5.b o 5.c.
+d) Equipos de ensayo o alineación de campaña, diseñado especialmente para el material especificado en los subartículos ML5.a, ML5.b o ML5.c.
 
-NOTA ACLARATORIA:
-
-Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II de este Reglamento.
+Nota aclaratoria: Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el anexo II de este Reglamento.
 
 ML6 Vehículos terrenos y componentes, según se indica:
 
-N.B. Para equipos de guiado y navegación, véase el artículo 11.
+NB. Para equipos de guiado y navegación, véase el artículo ML11.
 
-a. Vehículos terrenos y componentes para ellos, diseñados especialmente o modificados para uso militar;
+a) Vehículos terrenos y componentes para ellos, diseñados especialmente o modificados para uso militar;
 
-Nota 1: El subartículo 6.a incluye:
+Nota 1: El subartículo ML6.a incluye:
 
-a. Carros y otros vehículos militares armados y vehículos militares equipados con soportes para armas o equipos para el sembrado de minas o el lanzamiento de municiones sometidas a control en el artículo 4;
+a. Carros y otros vehículos militares armados y vehículos militares equipados con soportes para armas o equipos para el sembrado de minas o el lanzamiento de municiones sometidas a control en el artículo ML4;
 
 b. Vehículos blindados;
 
@@ -288,7 +290,7 @@ d. Vehículos de recuperación y vehículos para remolcar o transportar municion
 
 e. Remolques.
 
-Nota 2: La modificación de un vehículo terreno para uso militar especificado en el subartículo 6.a conlleva un cambio estructural, eléctrico o mecánico que afecte a uno, o más, componentes diseñados especialmente para uso militar. Tales componentes incluyen:
+Nota 2: La modificación de un vehículo terreno para uso militar especificado en el subartículo ML6.a conlleva un cambio estructural, eléctrico o mecánico que afecte a uno, o más, componentes diseñados especialmente para uso militar. Tales componentes incluyen:
 
 a. Los neumáticos a prueba de bala;
 
@@ -298,7 +300,7 @@ c. Refuerzos especiales o monturas para armas;
 
 d. Iluminación velada.
 
-b. Otros vehículos terrenos y componentes, según se indica:
+b) Otros vehículos terrenos y componentes, según se indica:
 
 1. Vehículos con todas las características siguientes:
 
@@ -306,51 +308,91 @@ a. Manufacturados o acondicionados con materiales o componentes para proporciona
 
 b. Con tracción simultánea en las ruedas delanteras y traseras, incluidos los vehículos que tengan ruedas adicionales para soportar la carga, con independencia de que estas últimas tengan o no tracción;
 
-c. Vehículos de masa máxima técnicamente admisible superior a 4 500 kg; y
+c. Vehículos de masa máxima técnicamente admisible superior a 4.500 kg; y
 
 d. Vehículos diseñados o modificados para uso fuera de carreteras;
 
 2. Componentes con todas las características siguientes:
 
-a. Diseñados especialmente para los vehículos especificados en el subartículo 6.b.1.; y
+a. Diseñados especialmente para los vehículos especificados en el subartículo ML6.b.1.; y
 
 b. Con una protección balística de nivel III (NIJ 0108.01, septiembre de 1985, o “normas equivalentes”).
 
-N.B. Véase también el subartículo 13.a.
+N.B. Véase también el subartículo ML13.a.
 
-Nota 1: El artículo 6 no se aplica a vehículos civiles diseñados o modificados para el transporte de dinero o valores.
+Nota 1: El artículo ML6 no se aplica a vehículos civiles diseñados o modificados para el transporte de dinero o valores.
 
-Nota 2: El artículo 6 no se aplica a los vehículos que tengan todas las características siguientes:
+Nota 2: El artículo ML6 no se aplica a los vehículos que tengan todas las características siguientes:
 
 a. Que hayan sido manufacturados con anterioridad a 1946;
 
 b. Que no incluyan artículos especificados en la Lista Común Militar de la UE y manufacturados con posterioridad a 1945, salvo que se trate de reproducciones de componentes y accesorios para el vehículo; y
 
-c. Que no incorporen armas especificadas en los artículos 1., 2. o 4., a menos que no funcionen ni puedan disparar proyectiles.
+c. Que no incorporen armas especificadas en los artículos ML1, ML2 o ML4, a menos que no funcionen ni puedan disparar proyectiles.
 
 ML7 Agentes químicos, “agentes biológicos”, “agentes antidisturbios”, materiales radiactivos, equipo relacionado, componentes y materiales, según se indica:
 
-a. “Agentes biológicos” o materiales radiactivos seleccionados o modificados a fin de aumentar su eficacia para producir bajas en la población o en los animales, degradar equipos o dañar las cosechas o el medio ambiente;
+a) “Agentes biológicos” o materiales radiactivos seleccionados o modificados a fin de aumentar su eficacia para producir bajas en la población o en los animales, degradar equipos o dañar las cosechas o el medio ambiente.
 
-b. Agentes para la guerra química (), incluyendo:
+b) Agentes para la guerra química, incluyendo:
 
 1. Agentes nerviosos para la guerra química:
 
-a. Alquil (metil, etil, n-propil o isopropil)-fosfonofluoridatos de O-alquilo (iguales o inferiores a C10 , incluyendo el cicloalquilo), tales como:
+a. Alquil (metil, etil, n-propil o isopropil) –fosfonofluridatos de O-alquilo (≤ C10, incluidos los cicloalquilos), tales como:
 
 Sarín (GB): metilfosfonofluoridato de O-isopropilo (CAS 107-44-8); y
 
-Somán (GD): metilfosfonofluoridato de O-pinacolilo (CAS 96-64-0);
+Somán (GD): metilfosfonofluoridato de O-pinacolilo (CAS 96-64-0).
 
-b. N, N-dialquil (metil, etil, n-propil o isopropil) fosforamidocianidatos de O-alquilo (iguales o inferiores a C10, incluyendo el cicloalquilo), tales como:
+b. N, N-dialquil (metil, etil, n-propil o isopropil) fosforamidocianidatos de O-alquilo (≤ C10, incluyendo el cicloalquilo), tales como:
 
-Tabún (GA): N, N-dimetilfosforamidocianidato de O-etilo (CAS 77-81-6);
+Tabún (GA): N, N-dimetilfosforamidocianidato de O-etilo (CAS 77-81-6).
 
-c. Fosfonotiolatos de O-alquilo (H iguales o inferiores a C10, incluyendo los cicloalquilos) y de S-2-dialquil (metil, etil, n-propil o isopropil) aminoetilalquilo (metilo, etilo, n-propiol o isopropilo) y sales alquiladas y protonadas correspondientes, tales como:
+c. Alquil (metil, etil, n-propil o isopropil) fosfonotiolatos de O-alquilo (H o ≤ C10, incluyendo los cicloalquilos) y de S-2-dialquil (metil, etil, n-propil o isopropil) aminoetilalquilo (metilo, etilo, n-propiol o isopropilo) y sales alquiladas y protonadas correspondientes, tales como:
 
-VX: Metilfosfonotiolato de O-etilo y de S-2-diisopropilaminoetilo de O-etilo (CAS 50782-69-9);
+VX: Metilfosfonotiolato de O-etilo y de S-2-diisopropilaminoetilo de O-etilo (CAS 50782-69-9).
 
 d. Amitón: fosforotiolato de O,Odietilo y S[ 2 (dietilamino) etilo] (CAS 78-53-5) y las sales alquiladas o protonadas correspondientes.
+
+e. Fluoruros de P-alquil (H o ≤ C10, incluido el cicloalquilo) N-(1-(dialquil(≤ C10, incluido el cicloalquilo)amino))alquiliden(H o ≤ C10, incluido el cicloalquilo) fosfonamídicos y sales alquilatadas o protonadas correspondientes.
+
+Nota:
+
+A los efectos de ML7.b.1.e, se incluyen las siguientes sustancias, tales como:
+
+Fluoruro de N-(1-(di-n-decilamino)-n-deciliden)-P-decilfosfonamidico (CAS 2387495-99-8).
+
+Metil-(1-(dietilamino) etiliden) fosfonamidofluoridato (CAS 2387496-12-8).
+
+f. O-alquil (H o ≤ C10, incluido el cicloalquilo) N-(1-(dialquil(≤ C10, incluido el cicloalquilo)amino))alquiliden(H o ≤ C10, incluido el cicloalquilo) fosforamidofluoridatos y sales alquilatadas o protonadas correspondientes:
+
+Nota:
+
+A los efectos de ML7.b.1f, se incluyen las siguientes sustancias, tales como:
+
+O-n-decil N-(1-(di-n-decilamino)-n-deciliden)fosforamidofluoridato (CAS 2387496-00-4).
+
+Metil-(1-(dietilamino)etiliden)fosforamidofluoridato (CAS 2387496-04-8).
+
+Etil-(1-(dietilamino)etiliden)fosforamidofluoridato (CAS 2387496-06-0).
+
+g. Metil-(bis(dietilamino)metilen)fosfonamidofluoridato (CAS 2387496-14-0).
+
+h. Carbamatos. Cuaternarios de dimetilcarbamoiloxipiridinas: Dibromuro de 1-[N,N-dialquil(С≤10)-N-(n-(hidroxil, ciano, acetoxi)alquil(С≤10)) amonio]-n- [N-(3-dimetil-carbamoxi-α-picolinil)-N,N-dialquil(С≤10) amonio]decano (n=1-8).
+
+Nota:
+
+A los efectos de ML7.b.1h, se incluye la siguiente sustancia, tales como:
+
+Dibromuro de 1-[N,N-dimetil-N-(2-hidroxi)etilamonio]-10-[N-(3-dimetil carbamoxi-α-picolinil)-N,N-dimetilamonio]decano (CAS 77104-62-2).
+
+i. Carbamatos. Bicuaternarios de dimetilcarbamoiloxipiridinas: Dibromuro de 1,n-bis[N-(3-dimetilcarbamoxi-α-picolil)-N,N-dialquil((С≤10) amonio]-alcano-(2,(n-1)-diona) (n=2-12).
+
+Nota:
+
+A los efectos de ML7.b.1i, se incluye la siguiente sustancia, tal como:
+
+Dibromuro de 1,10-bis[N-(3-dimetilcarbamoxi-α-picolil)-N-etil-N-metilamonio]- decano-2,9-diona (CAS77104-00-8).
 
 2. Agentes vesicantes para guerra química:
 
@@ -372,7 +414,7 @@ a. Mostazas al azufre, tales como:
 
 8. Bis (2-cloroetiltiometil) éter (CAS 63918-90-1);
 
-9. Bis (2-cloroetiltioetil) éter (CAS 63918-89-8);
+9. Bis (2-cloroetiltioetil) éter (CAS 63918-89-8).
 
 b. Levisitas, tales como:
 
@@ -380,7 +422,7 @@ b. Levisitas, tales como:
 
 2. Tris (2-clorovinil) arsina (CAS 40334-70-1);
 
-3. Bis (2-clorovinil) cloroarsina (CAS 40334-69-8);
+3. Bis (2-clorovinil) cloroarsina (CAS 40334-69-8).
 
 c. Mostazas nitrogenadas, tales como:
 
@@ -388,33 +430,33 @@ c. Mostazas nitrogenadas, tales como:
 
 2. HN2: bis (2-cloroetil) metilamina (CAS 51-75-2);
 
-3. HN3: tris (2-cloroetil) amina (CAS 555-77-1);
+3. HN3: tris (2-cloroetil) amina (CAS 555-77-1).
 
 3. Agentes incapacitantes para la guerra química, tales como:
 
-a. Bencilato de 3-quinuclidinilo (BZ) (CAS 6581-06-2);
+a. Bencilato de 3-quinuclidinilo (BZ) (CAS 6581-06-2).
 
 4. Agentes defoliantes para la guerra química, tales como:
 
-a. Butil 2-cloro-4-fluorofenoxiacetato (LNF);
+a. Butil 2-cloro-4-fluorofenoxiacetato (LNF); fenoxiacetato (LNF);
 
-b. Ácido 2, 4, 5-triclorofenoacético (CAS 93-76-5) mezclado con ácido 2, 4-diclorofenooxiacético (CAS 94-75-7) (Agente naranja (CAS 39277-47-9));
+b. Ácido 2, 4, 5-triclorofenoacético (CAS 93-76-5) mezclado con ácido 2, 4- diclorofenooxiacético (CAS 94-75-7) [Agente naranja (CAS 39277-47-9)].
 
-c. Precursores binarios y precursores claves de agentes para la guerra química, según se indica:
+c) Precursores binarios y precursores claves de agentes para la guerra química, según se indica:
 
 1. Difluoruros de alquil (metil, etil, n-propil o isopropil) fosfonilo, tales como:
 
-DF: Difluoruro de metilfosfonilo (CAS 676-99-3);
+DF: Difluoruro de metilfosfonilo (CAS 676-99-3).
 
-2. Fosfonitos de O-alquilo (H igual a, o menor que, C10, incluyendo el cicloalquilo) O-2- dialquil (metil, etil, n-propil o isopropil) aminoetil alquilo (metilo, etilo, n-propilo o isopropilo) y sales alquiladas o protonadas correspondientes, tales como:
+2. Alquil(metil, etil, n-propil o isopropil) fosfonitos de O-alquilo (H o ≤, C10, incluyendo el cicloalquilo) S-2- dialquilo (metil, etil, n-propil o isopropil) aminoetilalquilo (metilo, etilo, n-propilo o isopropilo) y sales alquiladas o protonadas correspondientes, tales como:
 
-QL: Metilfosfonito de O-etil-2-di-isopropilaminoetilo de O-etilo (CAS 57856-11-8);
+QL: Metilfosfonito de O-etil-2-di-isopropilaminoetilo de O-etilo (CAS 57856-11-8).
 
 3. Clorosarín: Metilfosfonocloridato de O-isopropilo (CAS 1445-76-7);
 
 4. Clorosomán: Metilfosfonocloridato de O-pinacolilo (CAS 7040-57-5);
 
-d. “Agentes antidisturbios”, constituyentes químicos activos y combinaciones de ellos, incluidos:
+d) “Agentes antidisturbios”, constituyentes químicos activos y combinaciones de ellos, incluidos:
 
 1. α-Bromobencenoacetonitrilo, (Cianuro de bromobencilo) (CA) (CAS 5798-79-8);
 
@@ -426,27 +468,27 @@ d. “Agentes antidisturbios”, constituyentes químicos activos y combinacione
 
 5. 10-cloro-5,10-dihidrofenarsacina, (Cloruro de fenarsacina), (Adamsita), (DM) (CAS 578-94-9);
 
-6. N-Nonanoilmorfolina, (MPA) (CAS 5299-64-9);
+6. N-Nonanoilmorfolina, (MPA) (CAS 5299-64-9).
 
-Nota 1 El subartículo 7.d. no se aplica a los “agentes antidisturbios” empaquetados individualmente para fines de defensa personal.
+Nota 1: El subartículo ML7.d. no se aplica a los “agentes antidisturbios” empaquetados individualmente para fines de defensa personal.
 
-Nota 2 El subartículo 7.d. no se aplica a los constituyentes activos químicos, ni a las combinaciones de ellos, identificados y empaquetados para producción de alimentos o fines médicos.
+Nota 2: El subartículo ML7.d. no se aplica a los constituyentes activos químicos, ni a las combinaciones de ellos, identificados y empaquetados para producción de alimentos o fines médicos.
 
-e. Equipos diseñados especialmente o modificados para uso militar, diseñados o modificados para la diseminación de cualquiera de lo siguiente, y componentes diseñados especialmente para ellos:
+e) Equipos diseñados especialmente o modificados para uso militar, diseñados o modificados para la diseminación de cualquiera de lo siguiente, y componentes diseñados especialmente para ellos:
 
-1. Materiales o agentes especificados en los subartículos 7.a, 7.b o 7.d; o
+1. Materiales o agentes especificados en los subartículos ML7.a, ML7.b o ML7.d; o
 
-2. Agentes para la guerra química constituidos de precursores especificados en el subartículo 7.c;
+2. Agentes para la guerra química constituidos de precursores especificados en el subartículo ML7.c.
 
-f. Equipos de protección y descontaminación, diseñados especialmente o modificados para uso militar, componentes y mezclas químicas, según se indica:
+f) Equipos de protección y descontaminación, diseñados especialmente o modificados para uso militar, componentes y mezclas químicas, según se indica:
 
-1. Equipos, diseñados o modificados para la protección contra materiales especificados en los subartículos 7.a, 7.b o 7.d, y componentes diseñados especialmente para ellos;
+1. Equipos, diseñados o modificados para la protección contra materiales especificados en los subartículos ML7.a, ML7.b o ML7.d, y componentes diseñados especialmente para ellos;
 
-2. Equipos, diseñados o modificados para la descontaminación de objetos contaminados con materiales especificados en los subartículos 7.a o 7.b, y componentes diseñados especialmente para ellos;
+2. Equipos, diseñados o modificados para la descontaminación de objetos contaminados con materiales especificados en los subartículos ML7.a o ML7.b, y componentes diseñados especialmente para ellos;
 
-3. Mezclas químicas desarrolladas o formuladas especialmente para la descontaminación de objetos contaminados por materiales especificados en los subartículos 7.a o 7.b;
+3. Mezclas químicas desarrolladas o formuladas especialmente para la descontaminación de objetos contaminados por materiales especificados en los subartículos ML7.a o ML7.b.
 
-Nota El subartículo 7.f.1 incluye:
+Nota: El subartículo ML7.f.1 incluye:
 
 a. Unidades de aire acondicionado diseñadas especialmente o modificadas para filtrado nuclear, biológico o químico;
 
@@ -454,19 +496,19 @@ b. Ropas de protección.
 
 N.B. Para máscaras antigás civiles, equipos de protección y descontaminación, véase también el artículo 1A004 de la Lista de Productos de Doble Uso de la UE.
 
-g. Equipos diseñados especialmente o modificados para uso militar, diseñados o modificados para la detección o identificación de los materiales especificados en los subartículos 7.a, 7.b o 7.d, y componentes diseñados especialmente para ellos;
+g) Equipos diseñados especialmente o modificados para uso militar, diseñados o modificados para la detección o identificación de los materiales especificados en los subartículos 7.a, 7.b o 7.d, y componentes diseñados especialmente para ellos;
 
-Nota: El subartículo 7.g no se aplica a los dosímetros de uso personal para el control de las radiaciones.
+Nota: El subartículo ML7.g no se aplica a los dosímetros de uso personal para el control de las radiaciones.
 
 N.B.: Véase también el artículo 1A004 de la Lista de Productos de Doble Uso de la UE.
 
-h. “Biopolímeros” diseñados especialmente o tratados para la detección o identificación de agentes para la guerra química especificados en el subartículo 7.b, y los cultivos de células específicas utilizadas para su producción;
+h) “Biopolímeros” diseñados especialmente o tratados para la detección o identificación de agentes para la guerra química especificados en el subartículo ML7.b, y los cultivos de células específicas utilizadas para su producción;
 
-i. “Biocatalizadores” para la descontaminación o la degradación de agentes para la guerra química, y sistemas biológicos para ellos, según se indica:
+i) “Biocatalizadores” para la descontaminación o la degradación de agentes para la guerra química, y sistemas biológicos para ellos, según se indica:
 
-1. “Biocatalizadores”, diseñados especialmente para la descontaminación o la degradación de los agentes para la guerra química especificados en el subartículo 7.b, producidos por selección dirigida en laboratorio o manipulación genética de sistemas biológicos;
+1. “Biocatalizadores”, diseñados especialmente para la descontaminación o la degradación de los agentes para la guerra química especificados en el subartículo ML7.b, producidos por selección dirigida en laboratorio o manipulación genética de sistemas biológicos;
 
-2. Sistemas biológicos que contengan la información genética específica para la producción de los “biocatalizadores” especificados en el subartículo 7.i.1., según se indica:
+2. Sistemas biológicos que contengan la información genética específica para la producción de los “biocatalizadores” especificados en el subartículo ML7.i.1., según se indica:
 
 a. “Vectores de expresión”;
 
@@ -474,7 +516,7 @@ b. Virus;
 
 c. Cultivos de células.
 
-Nota 1: Los subartículos 7.b y 7.d no se aplican a lo siguiente:
+Nota 1: Los subartículos ML7.b y ML7.d no se aplican a lo siguiente:
 
 a. Cloruro de cianógeno (CAS 506-77-4). véase también el subartículo 1C450.a.5 de la Lista de Productos de Doble Uso de la UE;
 
@@ -508,27 +550,25 @@ o. Yodoacetona (CAS 3019-04-3);
 
 p. Cloropicrina (CAS 76-06-2). véase también el artículo 1C450.a.7 de la Lista de Productos de Doble Uso de la UE.
 
-Nota 2: Los cultivos aislados de células y los sistemas biológicos especificados en los subartículos 7.h y 7.i.2 son exclusivos y dichos subartículos no se aplican a las células o sistemas biológicos destinados a usos civiles, tales como los agrícolas, farmacéuticos, médicos, veterinarios, relacionados con el medio ambiente, el tratamiento de residuos o la industria alimentaria.
+Nota 2: Los cultivos aislados de células y los sistemas biológicos especificados en los subartículos ML7.h y ML7.i.2 son exclusivos y dichos subartículos no se aplican a las células o sistemas biológicos destinados a usos civiles, tales como los agrícolas, farmacéuticos, médicos, veterinarios, relacionados con el medio ambiente, el tratamiento de residuos o la industria alimentaria.
 
-NOTA ACLARATORIA:
-
-Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el Anexo II del presente Reglamento.
+Nota aclaratoria: Los materiales no incluidos en el presente artículo pueden, sin embargo, estar sometidos a control en el anexo II del presente Reglamento.
 
 ML8 “Materiales energéticos”, y sustancias relacionadas, según se indica:
 
-N.B.1: Véase también el artículo 1C011 de la Lista de Productos de Doble Uso de la UE.
+N.B. 1: Véase también el artículo 1.C.11 de la Lista de Productos de Doble Uso de la UE.
 
-N.B.2: Para cargas y dispositivos, véase el artículo 4 y el artículo 1A008 de la Lista de Productos de Doble Uso de la UE.
+N.B. 2: Para las cargas y los dispositivos, véanse el artículo ML4 y el artículo 1.A.8 de la Lista de Productos de Doble Uso de la UE.
 
-Notas técnicas
+Nota: Cualquier sustancia incluida en el artículo ML8 está sujeta a la presente lista, incluso si es utilizada en una aplicación distinta de la indicada (por ejemplo, TAGN se emplea predominantemente como explosivo, pero puede ser utilizado también como combustible u oxidante).
 
-1. A efectos del artículo 8, excepto 8.c.11. o 8.c.12., ‘mezcla’ se refiere a una composición de dos o más sustancias con al menos una sustancia incluida en los subartículos del artículo 8.
+Notas técnicas:
 
-2. Cualquier sustancia incluida en el artículo 8 está sujeta a la presente lista, aún si es utilizada en una aplicación distinta de la indicada (por ejemplo, TAGN es usado predominantemente como un explosivo pero puede ser utilizado también como combustible u oxidante).
+1. A efectos del artículo ML8, excepto los subartículos ML8.c.11 o ML8.c.12, “mezcla” se refiere a una composición de dos o más sustancias con al menos una sustancia incluida en los subartículos del artículo ML8.
 
-3. A efectos del artículo 8, por tamaño de partícula se entiende el diámetro medio de las partículas ponderado en función del volumen o del peso. Para el muestreo y la determinación del tamaño de las partículas, se emplearán las normas internacionales o sus equivalentes nacionales.
+2. A efectos del artículo ML8, por tamaño de partícula se entiende el diámetro medio de las partículas ponderado en función del volumen o del peso. Para el muestreo y la determinación del tamaño de las partículas, se emplearán las normas internacionales o sus equivalentes nacionales.
 
-a. “Explosivos”, según se indica, y las mezclas de ellos:
+a) “Explosivos”, según se indica, y las “mezclas” de ellos:
 
 1. ADNBF (aminodinitrobenzofurazano o 7-amino-4, 6-dinitrobenzofurazano-1-óxido) (CAS 97096-78-1);
 
@@ -556,7 +596,7 @@ a. “Explosivos”, según se indica, y las mezclas de ellos:
 
 a. DAAOF (DAAF, DAAFox, o diaminoazoxifurazano);
 
-b. DAAzF (diaminoazofurazano) (CAS 78644-90-3);
+b. DAAzF (diaminoazofurazano) (CAS 78644-90-3).
 
 13. HMX y sus derivados (véase el subartículo 8.g.5 para sus “precursores”), según se indica:
 
@@ -564,7 +604,7 @@ a. HMX (Ciclotetrametilenotetranitramina, octahidro-1,3,5,7-tetranitro-1,3,5,7-t
 
 b. Difluoroaminados análogos al HMX;
 
-c. K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabiciclo [3,3,0]-octanona-3, tetranitrosemiglicouril o keto-biciclico HXM) (CAS 130256-72-3);
+c. K-55 (2,4,6,8-tetranitro-2,4,6,8-tetraazabiciclo [3,3,0]-octanona-3, tetranitrosemiglicouril o keto-biciclico HXM) (CAS 130256-72-3).
 
 14. HNAD (hexanitroadamantano) (CAS 143850-71-9);
 
@@ -580,39 +620,35 @@ c. FDIA (1-fluoro-2,4-dinitroimidazole);
 
 d. NTDNIA (N-(2-nitrotriazolo)-2,4-dinitroimidazole);
 
-e. PTIA (1-picril-2,4,5-trinitroimidazole);
+e. PTIA (1-picril-2,4,5-trinitroimidazole).
 
 17. NTNMH (1-(2-nitrotriazolo)-2-dinitrometileno-hidrazina);
 
 18. NTO (ONTA o 3-nitro-1,2,4-triazol-5-ona) (CAS 932-64-9);
 
-19 Polinitrocubanos con más de cuatro grupos nitro;
+19. Polinitrocubanos con más de cuatro grupos nitro;
 
 20. PYX (2,6-Bis(picrilamino)-3,5-dinitropiridina) (CAS 38082-89-2);
 
-21. RDX y sus derivados, según se indica:
-
-a. RDX (ciclotrimetilenotrinitramina, ciclonita, T4, hexahidro-1,3,5-trinitro-1,3,5-triacina, 1,3,5-trinitro- 1,3,5,-triaza-ciclohexano, exogen o exógeno) (CAS 121-82-4);
-
-b. Keto-RDX (K-6 o 2,4,6-trinitro-2,4,6-triazaciclohexanona) (CAS 115029-35-1);
+21. RDX y sus derivados, según se indica: a. RDX (ciclotrimetilenotrinitramina, ciclonita, T4, hexahidro-1,3,5-trinitro-1,3,5-triacina, 1,3,5-trinitro- 1,3,5,-triaza-ciclohexano, exogen o exógeno) (CAS 121-82-4); b. Keto-RDX (K-6 o 2,4,6-trinitro-2,4,6-triazaciclohexanona) (CAS 115029-35-1);
 
 22. TAGN (triaminoguanidinanitrato) (CAS 4000-16-2);
 
 23. TATB (triaminotrinitrobenceno) (CAS 3058-38-6) (véase también el subartículo 8.g.7 para sus “precursores”);
 
-24 TEDDZ (3,3,7,7-tetrabis (difluoroamina) octahidro-1,5-dinitro-1,5-diazocina);
+24. TEDDZ (3,3,7,7-tetrabis (difluoroamina) octahidro-1,5-dinitro-1,5-diazocina);
 
 25. Tetrazoles, según se indica:
 
 a. NTAT (nitrotriazol aminotetrazol);
 
-b. NTNT (1-N-(2-nitrotriazol)-4-nitrotetrazol);
+b. NTNT (1-N-(2-nitrotriazol)-4-nitrotetrazol).
 
 26. Tetril (trinitrofenilmetilnitramina) (CAS 479-45-8);
 
 27. TNAD (1,4,5,8-tetranitro- 1,4,5,8-tetraazadecalin) (CAS 135877-16-6) (véase también el subartículo 8.g.6 para sus “precursores”);
 
-28. TNAZ (1,3,3-trinitroazetidina) (CAS 97645-24-4) (véase también el subartículo 8.g.2 para sus “precursores”);
+28. TNAZ (1,3,3-trinitroazetidina) (CAS 97645-24-4) (véase también el subartículo ML8.g.2 para sus “precursores”);
 
 29. TNGU (SORGUYL o tetranitroglicoluril) (CAS 55510-03-7);
 
@@ -622,7 +658,7 @@ b. NTNT (1-N-(2-nitrotriazol)-4-nitrotetrazol);
 
 a. DNAM (2-oxi-4,6-dinitroamino-s-triacina) (CAS 19899-80-0);
 
-b. NNHT (2-nitroimino-5-nitro-hexahidro-1,3,5-triacina) (CAS 130400-13-4);
+b. NNHT (2-nitroimino-5-nitro-hexahidro-1,3,5-triacina) (CAS 130400-13-4).
 
 32. Triazoles, según se indica:
 
@@ -644,13 +680,13 @@ h. NTDNT (1-N-(2-nitrotriazolo) 3,5-dinitrotriazol);
 
 i. PDNT (1-picril-3,5-dinitrotriazol);
 
-j. TACOT (tetranitrobenzotriazolobenzotriazol) (CAS 25243-36-1);
+j. TACOT (tetranitrobenzotriazolobenzotriazol) (CAS 25243-36-1).
 
-33. “Explosivos” no incluidos en el subartículo 8.a, y con alguna de las características siguientes:
+33. “Explosivos” no incluidos en el subartículo ML8.a, y con alguna de las características siguientes:
 
 a. Una velocidad de detonación superior a 8 700 m/s, a máxima densidad, o
 
-b. Una presión de detonación superior a 34 GPa (340 kbar);
+b. Una presión de detonación superior a 34 GPa (340 kbar).
 
 34. No se usa desde 2013;
 
@@ -662,27 +698,25 @@ b. Una presión de detonación superior a 34 GPa (340 kbar);
 
 38. Tetrazinas, según se indica:
 
-a. BTAT (Bis(2,2,2-trinitroetil)-3,6-diaminotetrazina)
+a. BTAT (Bis(2,2,2-trinitroetil)-3,6-diaminotetrazina);
 
-b. LAX-112 (3,6-diamino-1,2,4,5-tetrazina-1,4-dióxido);
+b. LAX-112 (3,6-diamino-1,2,4,5-tetrazina-1,4-dióxido).
 
 39. Materiales iónicos energéticos con punto de fusión entre 343 K (70 °C) y 373 K (100 °C) y velocidad de detonación superior a 6 800 m/s o presión de detonación superior a 18 GPa (180 kbar);
 
 40. BTNEN (Bis(2,2,2-trinitroetil)-nitramina) (CAS 19836-28-3);
 
-41. FTDO (5,6-(3’,4’-furazano)- 1,2,3,4-tetrazina-1,3-dióxido).
+41. FTDO (5,6-(3’,4’-furazano)- 1,2,3,4-tetrazina-1,3-dióxido);
 
 42. EDNA (etilenodinitramina) (CAS 505-71-5);
 
-43. TKX-50 (Dihidroxilamonio 5,5'-bistetrazol-1,1'-diolato);
+43. TKX-50 (Dihidroxilamonio 5,5'-bistetrazol-1,1'-diolato).
 
-Nota: 8.a. incluye los ‘cocristales explosivos’.
+Nota: ML8.a incluye los ‘cocristales explosivos’.
 
-Nota técnica:
+Nota técnica: Un ‘cocristal explosivo’ es un material sólido que consta de una disposición tridimensional ordenada de dos o más moléculas explosivas de las que al menos una se especifica en el subartículo ML8.a.
 
-Un ‘cocristal explosivo’ es un material sólido que consta de una disposición tridimensional ordenada de dos o más moléculas explosivas de las que al menos una se especifica en el subartículo 8.a.
-
-b. “Propulsantes”, según se indica:
+b) “Propulsantes”, según se indica:
 
 1. Cualquier “propulsante” sólido con un impulso específico teórico (en condiciones estándar) de más de:
 
@@ -690,27 +724,27 @@ a. 240 segundos para los “propulsantes” no metalizados, no halogenados;
 
 b. 250 segundos para los “propulsantes” no metalizados, halogenados; o
 
-c. 260 segundos para los “propulsantes” metalizados;
+c. 260 segundos para los “propulsantes” metalizados.
 
 2. No se usa desde 2013;
 
-3. “Propulsante” que tenga una constante de fuerza superior a 1200 kJ/kg;
+3. “Propulsante” que tenga una constante de fuerza superior a 1.200 kJ/kg;
 
-4. “Propulsante” que pueda mantener un índice de combustión lineal en régimen continuo de más de 38 mm/s en condiciones estándar de presión (realizándose las mediciones en una sola cadena inhibida) de 6,89 MPa (68,9 bar) y de temperatura 294 K (21 ºC);
+4. “Propulsante” que pueda mantener un índice de combustión lineal en régimen continuo de más de 38 mm/s en condiciones estándar de presión (realizándose las mediciones en una sola cadena inhibida) de 6,89 MPa (68,9 bar) y de temperatura 294 K (21 °C);
 
-5. “Propulsantes” de doble base fundida de elastómeros modificados () con un alargamiento a tensión máxima superior al 5% a 233 K (-40 ºC);
+5. “Propulsantes” de doble base fundida de elastómeros modificados () con un alargamiento a tensión máxima superior al 5 % a 233 K (-40 °C);
 
-6. Cualquier “propulsante” que contenga sustancias incluidas en el subartículo 8.a;
+6. Cualquier “propulsante” que contenga sustancias incluidas en el subartículo ML8.a;
 
 7. “Propulsantes” no especificados en ninguna otra parte de este anexo I.1, diseñados especialmente para uso militar;
 
-c. “Productos pirotécnicos”, combustibles y sustancias relacionadas, según se indica, y las mezclas de ellos:
+c) “Productos pirotécnicos”, combustibles y sustancias relacionadas, según se indica, y las mezclas de ellos:
 
 1. Combustibles para “aeronaves” formulados especialmente con fines militares;
 
-Nota 1: El subartículo 8.c.1 no se aplica a los combustibles de “aeronaves” siguientes: JP-4, JP-5, y JP-8.
+Nota 1: El subartículo ML8.c.1 no se aplica a los combustibles de “aeronaves” siguientes: JP-4, JP-5, y JP-8.
 
-Nota 2: Los combustibles de “aeronaves” especificados en el subartículo 8.c.1 son los productos terminados, y no sus constituyentes.
+Nota 2: Los combustibles de “aeronaves” especificados en el subartículo ML8.c.1 son los productos terminados, y no sus constituyentes.
 
 2. Alano (hidruro de aluminio) (CAS 7784-21-6);
 
@@ -726,17 +760,17 @@ b. Homólogos del borano, según se indica:
 
 3. Pentaborano (11) (CAS 18433-84-6);
 
-4. Hidrazina y sus derivados, según se indica (véase también los subartículos 8.d.8 y d.9 para derivados oxidantes de la hidrazina):
+4. Hidrazina y sus derivados, según se indica (véase también los subartículos ML8.d.8 y d.9 para derivados oxidantes de la hidrazina):
 
-a. Hidrazina (CAS 302-01-2) en concentraciones del 70% o más;
+a. Hidrazina (CAS 302-01-2) en concentraciones del 70 % o más;
 
 b. Monometilhidrazina (CAS 60-34-4);
 
 c. Dimetilhidrazina simétrica (CAS 540-73-8);
 
-d. Dimetilhidrazina asimétrica (CAS 57-14-7);
+d. Dimetilhidrazina asimétrica (CAS 57-14-7).
 
-Nota: El subartículo 8.c.4.a. no se aplica a las mezclas de hidracina formuladas especialmente para el control de la corrosión.
+Nota: El subartículo ML8.c.4.a no se aplica a las mezclas de hidracina formuladas especialmente para el control de la corrosión.
 
 5. Combustibles metálicos, ‘mezclas’ de combustibles o ‘mezclas’ de “productos pirotécnicos”, en forma de partículas ya sean en granos esféricos, atomizados, esferoidales, en copos o pulverizados, elaborados a partir de materiales con un contenido del 99 % o más de cualquiera de lo siguiente:
 
@@ -744,45 +778,45 @@ a. Los siguientes metales y ‘mezclas’ de ellos:
 
 1. Berilio (CAS 7440-41-7) con un tamaño de partículas menor que 60 micras;
 
-2. Polvo de hierro (CAS 7439-89-6), con un tamaño de partículas de 3 micras o menor, producido por reducción de óxido de hierro por hidrógeno;
+2. Polvo de hierro (CAS 7439-89-6), con un tamaño de partículas de 3 micras o menor, producido por reducción de óxido de hierro por hidrógeno.
 
 b. ‘Mezclas’ que contengan cualquiera de lo siguiente:
 
 1. Circonio (CAS 7440-67-7), magnesio (CAS 7439-95-4) o aleaciones de ellos con un tamaño de partícula inferior a 60 micras; o
 
-2. Combustibles de boro (CAS 7440-42-8) o carburo de boro (CAS 12069-32-8) con pureza de 85% o superior y con un tamaño de partícula inferior a 60 micras;
+2. Combustibles de boro (CAS 7440-42-8) o carburo de boro (CAS 12069-32-8) con pureza de 85 % o superior y con un tamaño de partícula inferior a 60 micras.
 
-Nota 1: El subartículo 8.c.5 se aplica a los explosivos y combustibles, tanto si los metales o las aleaciones están encapsulados o no en aluminio, magnesio, circonio o berilio.
+Nota 1: El subartículo ML8.c.5 se aplica a los explosivos y combustibles, tanto si los metales o las aleaciones están encapsulados o no en aluminio, magnesio, circonio o berilio.
 
-Nota 2: El subartículo 8.c.5.b se aplica únicamente a los combustibles metálicos en forma de partículas cuando se mezclan con otras sustancias para constituir una ‘mezcla’ formulada para fines militares, como fangos de “propulsantes” líquidos, “propulsantes” sólidos o ‘mezclas’ “pirotécnicas”.
+Nota 2: El subartículo ML8.c.5.b se aplica únicamente a los combustibles metálicos en forma de partículas cuando se mezclan con otras sustancias para constituir una ‘mezcla’ formulada para fines militares, como fangos de “propulsantes” líquidos, “propulsantes” sólidos o ‘mezclas’ “pirotécnicas”.
 
-Nota 3: El subartículo 8.c.5.b.2 no se aplica al boro ni al carburo de boro enriquecido con boro-10 (20 % o más del contenido total de boro-10).
+Nota 3: El subartículo ML8.c.5.b.2 no se aplica al boro ni al carburo de boro enriquecido con boro-10 (20 % o más del contenido total de boro-10).
 
 6. Materiales militares, que contengan espesadores para combustibles de hidrocarburo, formulados especialmente para uso en lanzallamas o munición incendiaria, tales como estearatos metálicos (por ejemplo, octal (CAS 637-12-7)) o palmitatos;
 
 7. Percloratos, cloratos y cromatos, mezclados con polvo metálico o con otros componentes de combustibles de alta energía;
 
-8. Polvo de aluminio de grano esférico o esferoidal (CAS 7429-90-5) con un tamaño de partículas de 60 micras o menos y elaborado a partir de materiales con un contenido en aluminio del 99% o más;
+8. Polvo de aluminio de grano esférico o esferoidal (CAS 7429-90-5) con un tamaño de partículas de 60 micras o menos y elaborado a partir de materiales con un contenido en aluminio del 99 % o más;
 
 9. Subhidruro de titanio (TiHn) de estequiometría equivalente a n=0,65-1,68;
 
-10. Combustibles líquidos de alta densidad de energía no especificados en el subartículo 8.c.1, según se indica:
+10. Combustibles líquidos de alta densidad de energía no especificados en el subartículo ML8.c.1, según se indica:
 
 a. Combustibles mezclados, que contengan combustibles tanto sólidos como líquidos (por ejemplo, la lechada de boro), con una densidad de energía por masa igual o superior a 40 MJ/kg;
 
-b. Otros combustibles y aditivos para combustibles de alta densidad de energía (por ejemplo, cubano, soluciones iónicas, JP-7, JP-10), con una densidad de energía por volumen igual o superior a 37,5 GJ/m3, medida a 293 K (20 °C) y a una presión de una atmósfera (101,325 kPa);
+b. Otros combustibles y aditivos para combustibles de alta densidad de energía (por ejemplo, cubano, soluciones iónicas, JP-7, JP-10), con una densidad de energía por volumen igual o superior a 37,5 GJ/m3, medida a 293 K (20 °C) y a una presión de una atmósfera (101,325 kPa).
 
-Nota: El subartículo 8.c.10.b no se aplica a los combustibles fósiles refinados, a los biocombustibles ni a los combustibles de motores certificados para uso en aviación civil.
+Nota: El subartículo ML8.c.10.b no se aplica a los combustibles fósiles refinados, a los biocombustibles ni a los combustibles de motores certificados para uso en aviación civil.
 
 11. “Productos pirotécnicos” y pirofóricos, según se indica:
 
 a. “Productos pirotécnicos” o pirofóricos formulados específicamente para aumentar o controlar la producción de energía radiada en cualquier parte del espectro infrarrojo;
 
-b. Mezclas de magnesio, politetrafluoretileno (PTFE) y copolímero de difluoruro de vinilideno y hexafluoropropileno (por ejemplo, MTV);
+b. Mezclas de magnesio, politetrafluoretileno (PTFE) y copolímero de difluoruro de vinilideno y hexafluoropropileno (por ejemplo, MTV).
 
-12. Mezclas de combustibles, mezclas de “productos pirotécnicos” o “materiales energéticos”, no especificados en ninguna otra parte del artículo 8, con todas las características siguientes:
+12. Mezclas de combustibles, mezclas de “productos pirotécnicos” o “materiales energéticos”, no especificados en ninguna otra parte del artículo ML8, con todas las características siguientes:
 
-a. Que contengan más del 5 % de partículas de cualquiera de lo siguiente:
+a. Que contengan más del 0,5 % de partículas de cualquiera de lo siguiente:
 
 1. Aluminio;
 
@@ -790,17 +824,19 @@ a. Que contengan más del 5 % de partículas de cualquiera de lo siguiente:
 
 3. Boro;
 
-4. Zirconio;
+4. Circonio;
 
 5. Magnesio; o
 
-6. Titanio;
+6. Titanio.
 
-b. Partículas especificadas en el subartículo 8.c.12.a de tamaño inferior a 200 nm en cualquier dirección; y
+b. Partículas especificadas en el subartículo ML8.c.12.a de tamaño inferior a 200 nm en cualquier dirección, y
 
-c. Partículas especificadas en el subartículo 8.c.12.a con un contenido de metal igual o superior a 60 %;
+c. Partículas especificadas en el subartículo ML8.c.12.a con un contenido de metal igual o superior a 60 %;
 
-d. Oxidantes, según se indica, y las ‘mezclas’ de ellos:
+Nota: El subartículo ML8.c.12 incluye termitas.
+
+d) Oxidantes, según se indica, y las ‘mezclas’ de ellos:
 
 1. ADN (dinitroamida de amonio o SR 12) (CAS 140456-78-6);
 
@@ -812,11 +848,13 @@ a. Otros halógenos;
 
 b. Oxigeno; o
 
-c. Nitrógeno;
+c. Nitrógeno.
 
-Nota 1: El subartículo 8.d.3 no se aplica al trifluoruro de cloro (CAS 7790-91-2).
+Nota 1: El subartículo ML8.d.3 no se aplica al trifluoruro de cloro (CAS 7790-91-2).
 
-Nota 2: El subartículo 8.d.3 no se aplica al trifluoruro de nitrógeno (CAS 7783-54-2) en estado gaseoso.
+Nota 2: El subartículo ML8.d.3 no se aplica al trifluoruro de nitrógeno (CAS 7783-54-2) en estado gaseoso.
+
+Nota 3. El subartículo ML8.d.3. no se aplica al pentafluoruro de iodo (CAS 7783-66-6).
 
 4. DNAD (1,3-dinitro-1,3-diazetidina) (CAS 78246-06-7);
 
@@ -832,11 +870,11 @@ Nota 2: El subartículo 8.d.3 no se aplica al trifluoruro de nitrógeno (CAS 778
 
 10. Oxidantes líquidos constituidos por, o que contengan, ácido nítrico fumante rojo inhibido (IRFNA) (CAS 8007-58-7);
 
-Nota El subartículo 8.d.10 no se aplica al ácido nítrico fumante no inhibido.
+Nota El subartículo ML8.d.10 no se aplica al ácido nítrico fumante no inhibido.
 
-e. Aglomerantes, plastificantes, monómeros y polímeros, según se indica:
+e) Aglomerantes, plastificantes, monómeros y polímeros, según se indica:
 
-1. AMMO (Azidometilmetiloxetano y sus polímeros) (CAS 90683-29-7); (Véase también el subartículo 8.g.1 para sus “precursores”);
+1. AMMO (Azidometilmetiloxetano y sus polímeros) (CAS 90683-29-7); (Véase también el subartículo ML8.g.1 para sus “precursores”);
 
 2. BAMO (3,3-bis(azidometil)oxetano y sus polímeros) (CAS 17607-20-4) (véase también el subartículo 8.g.1 para sus “precursores”);
 
@@ -856,7 +894,7 @@ c. Grupos nitrato;
 
 d. Grupos nitraza; o
 
-e. Grupos difluoroamino;
+e. Grupos difluoroamino.
 
 7. FAMAO (3-difluoroaminometil-3-azidometil oxetano) y sus polímeros;
 
@@ -868,31 +906,31 @@ e. Grupos difluoroamino;
 
 11. GAP (polímero de glicidilacida) (CAS 143178-24-9) y sus derivados;
 
-12. HTPB (Polibutadieno con terminal hidroxilo) con una funcionalidad hidroxilo igual o superior a 2,2 e igual o inferior a 2,4, un valor hidroxilo inferior a 0,77 meq/g, y una viscosidad a 30 ºC inferior a 47 poise (CAS 69102-90-5);
+12. HTPB (Polibutadieno con terminal hidroxilo) con una funcionalidad hidroxilo igual o superior a 2,2 e igual o inferior a 2,4, un valor hidroxilo inferior a 0,77 meq/g, y una viscosidad a 30 °C inferior a 47 poise (CAS 69102-90-5);
 
-13. Alcohol funcionarizado poli(epichlorohydrin) con un peso molecular inferior a 10 000, según se indica:
+13. Poliepiclorhidrina con función alcohol con un peso molecular inferior a 10000, según se indica:
 
 a. Poli(epiclorohidrindiol);
 
-b. Poli(epiclorohidrintriol);
+b. Poli(epiclorohidrintriol).
 
 14. NENAs (compuestos de nitratoetilnitramina) (CAS 17096-47-8, 85068-73-1, 82486-83-7, 82486-82-6 y 85954-06-9);
 
 15. PGN (poli-GLYN, poligricidilnitrato o poli(nitratometil oxirano) (CAS 27814-48-8);
 
-16. Poli-NIMMO (poli(nitratometilmetiloxetano), poli-NMMO o poli(3-nitratometil-3-metiloxetano)) (CAS 84051-81-0);
+16. Poli-NIMMO (poli(nitratometilmetiloxetano), poli-NMMO o poli(3-nitratometil-3- metiloxetano)) (CAS 84051-81-0);
 
 17. Polinitroortocarbonatos;
 
 18. TVOPA (1,2,3-tris[1,2-bis(difluoroamino)etoxi] propano o tri vinoxi propano aducido) (CAS 53159-39-0);
 
-19. 4,5 diazidometil-2-metil-1,2,3-triazol (iso- DAMTR);
+19. 4,5 diazidometil-2-metil-1,2,3-triazol (iso- DAMTR); ç
 
 20. PNO (poli(3-nitrato oxetano));
 
 21. TMETN (trinitrato de trimetiloletano) (CAS 3032-55-1);
 
-f. “Aditivos”, según se indica:
+f) “Aditivos”, según se indica:
 
 1. Salicilato básico de cobre (CAS 62320-94-9);
 
@@ -910,7 +948,7 @@ c. Ácidos carboxílicos ferroceno y ésteres de ácido carboxílico ferroceno;
 
 d. N-butil-ferroceno (CAS 31904-29-7);
 
-e. Otros polímeros aducidos derivados del ferroceno no especificados en ninguna otra parte del subartículo 8.f.4;
+e. Otros polímeros aducidos derivados del ferroceno no especificados en ninguna otra parte del subartículo ML8.f.4;
 
 f. Etil-ferroceno (CAS 1273-89-8);
 
@@ -958,7 +996,7 @@ a. Neopentilo[dialilo]oxi, tri[dioctilo]fosfato-titanato (CAS 103850-22-2), igua
 
 b. Titanio IV, [(2-propenolato-1) metil, n-propanolatometil] butanolato-1, tris [dioctilo] pirofosfato o KR3538;
 
-c. Titanio IV, [(2-propenolato-1) metil, n-propanolatometil] butanolato-1, tris-(dioctil) fosfato;
+c. Titanio IV, [(2-propenolato-1) metil, n-propanolatometil] butanolato-1, tris-(dioctil) fosfato.
 
 16. Policianodifluoroaminoetilenoóxido;
 
@@ -966,19 +1004,19 @@ c. Titanio IV, [(2-propenolato-1) metil, n-propanolatometil] butanolato-1, tris-
 
 a. 1, 1R, 1S-Trimesoil-tris (2-etilaziridina) (HX-868, BITA) (CAS 7722-73-8);
 
-b. Amidas de aziridina polifuncionales con estructuras de refuerzo isoftálicas, trimésicas, isocianúricas o trimetilapídicas que tengan también un grupo 2-metil o 2-etil en el anillo aziridínico;
+b. Amidas de aziridina polifuncionales con estructuras de refuerzo isoftálicas, trimésicas, isocianúricas o trimetilapídicas que tengan también un grupo 2-metil o 2-etil en el anillo aziridínico.
 
-Nota: El subartículo 8.f.17.b incluye:
+Nota: El subartículo ML8.f.17.b incluye:
 
 a. 1,1′-Isoftaloilo-bis (2-metilaziridina) (HX-752) (CAS 7652-64-4);
 
 b. 2,4,6-tris(2-etil-1-aziridina)-1,3,5-triazina (HX-874) (CAS 18924-91-9);
 
-c. 1,1′-trimetiladipoil-bis (2-etilaziridina) (HX-877) (CAS 71463-62-2);
+c. 1,1′-trimetiladipoil-bis (2-etilaziridina) (HX-877) (CAS 71463-62-2).
 
 18. Propilenimina (2-metilaziridina) (CAS 75-55-8);
 
-19. Óxido férrico superfino (Fe2O3) (CAS 1317-60-8) con una superficie específica superior a 250 m2/g y un tamaño medio de partículas de 3,0 nm o inferior;
+19. Óxido férrico superfino (Fe2O3) (CAS 1317-60-8) con una superficie específica superior a 250 m²/g y un tamaño medio de partículas de 3,0 nm o inferior;
 
 20. TEPAN (Tetraetilenopentaaminaacrilonitrilo) (CAS 68412-45-3); poliaminas cianoetiladas y sus sales;
 
@@ -988,19 +1026,19 @@ c. 1,1′-trimetiladipoil-bis (2-etilaziridina) (HX-877) (CAS 71463-62-2);
 
 23. TEPB (Tris (etoxifenil) bismuto) (CAS 90591-48-3);
 
-g. “Precursores”, según se indica:
+g) “Precursores”, según se indica:
 
-N.B: En el subartículo 8.g las referencias son a “materiales energéticos”especificados manufacturados con estas substancias.
+N.B: En el subartículo ML8.g las referencias son a “materiales energéticos” especificados manufacturados con estas substancias.as substancias.
 
-1. BCMO (3,3-bis(clorometil)oxetano) (CAS 78-71-7) (véanse también los subartículos 8.e.1 y 8.e.2);
+1. BCMO (3,3-bis(clorometil)oxetano) (CAS 78-71-7) (véanse también los subartículos ML8.e.1 y 8.e.2);
 
 2. Sal dinitroazetidina-t-butilo (CAS 125735-38-8) (véase también el subartículo 8.a.28);
 
-3. Derivados del hexaazaisowurtzitano, incluidos el HBIW (Hexabencilhexaazaisowurtzitano) (CAS 124782-15-6) (véase también el subartículo 8.a.4) y el TAIW (Tetraacetildibenzilhexaazaisowurtzitano) (CAS 182763-60-6) (véase también el subartículo 8.a.4);
+3. Derivados del hexaazaisowurtzitano, incluidos el HBIW (Hexabencilhexaazaisowurtzitano) (CAS 124782-15-6) (véase también el subartículo 8.a.4) y el TAIW (Tetraacetildibenzilhexaazaisowurtzitano) (CAS 182763-60-6) (véase también el subartículo ML8.a.4);
 
 4. No se usa desde 2013;
 
-5. TAT (1, 3, 5, 7 tetraacetil-1, 3, 5, 7,-tetraaza ciclo-octano) (CAS 41378-98-7) (véase también el subartículo 8.a.13);
+5. TAT (1, 3, 5, 7 tetraacetil-1, 3, 5, 7,-tetraaza ciclo-octano) (CAS 41378-98-7) (véase también el subartículo ML8.a.13);
 
 6. 1, 4, 5, 8 tetraazadecalino (CAS 5409-42-7) (véase también el subartículo 8.a.27);
 
@@ -1010,7 +1048,7 @@ N.B: En el subartículo 8.g las referencias son a “materiales energéticos”e
 
 9. DADN (1,5-diacetil-3,7-dinitro-1, 3, 5, 7-tetraza-ciclooctano) (véase también el subartículo 8.a.13).
 
-h. Polvos y piezas de “materiales reactivos”, según se indica:
+h) Polvos y piezas de “materiales reactivos”, según se indica:
 
 1. Polvos de cualquiera de los siguientes materiales, con un tamaño de partículas inferior a 250 micras en cualquier dirección, no especificados en ninguna otra parte del artículo ML8:
 
@@ -1034,11 +1072,11 @@ i. Molibdeno; o
 
 j. Hafnio;
 
-2. Piezas, no especificadas en los artículos 3, 4, 12 o 16, fabricadas a partir de polvos especificados en el artículo 8.h.1.
-
-Nota: El subartículo 8.c.12 incluye las termitas.
+2. Piezas, no especificadas en los artículos ML3, ML4, ML12 o ML16, fabricadas a partir de polvos especificados en el artículo ML8.h.1.
 
 Notas técnicas:
+
+A efectos del subartículo ML8.h:
 
 1. Los “materiales reactivos” están concebidos para producir una reacción exotérmica únicamente a altas velocidades de cizallamiento y para ser utilizados como conos o carcasas para ojivas.
 
@@ -1046,7 +1084,7 @@ Notas técnicas:
 
 3. Se producen piezas de “materiales reactivos”, por ejemplo, mediante el sinterizado selectivo por láser.
 
-Nota 1: El artículo 8 no se aplica a las sustancias siguientes, salvo que estén compuestas o mezcladas con los “materiales energéticos” especificados en el subartículo 8.a o los polvos de metal especificados en el subartículo 8.c:
+Nota 1: El artículo ML8 no se aplica a las sustancias siguientes, salvo que estén compuestas o mezcladas con los “materiales energéticos” especificados en el subartículo ML8.a o los polvos de metal especificados en el subartículo ML8.c:
 
 a. Picrato de amonio (CAS 131-74-8);
 
@@ -1108,53 +1146,49 @@ cc. 2, 2-dinitropropanol (CAS 918-52-5);
 
 dd. Nitroguanidina (CAS 556-88-7) (véase también el subartículo 1C011.d de la Lista de Productos de Doble Uso de la UE).
 
-Nota 2: El artículo 8. no se aplica al perclorato de amonio (subartículo 8.d.2.), al NTO (subartículo 8.a.18.) ni al catoceno (subartículo 8.f.4.b), que tengan todas las características siguientes:
+Nota 2: El artículo ML8 no se aplica al perclorato de amonio (subartículo ML8.d.2.), al NTO (subartículo ML8.a.18.) ni al catoceno (subartículo ML8.f.4.b), que tengan todas las características siguientes:
 
 a. Conformados y formulados especialmente para dispositivos de generación de gases de uso civil;
 
 b. Compuestos o mezclados con aglutinantes o plastificantes termoendurecibles no activos, y que tengan una masa inferior a 250 g;
 
-c. Con un máximo de 80% de perclorato de amonio (8.d.2) en masa de material activo;
+c. Con un máximo de 80 % de perclorato de amonio (ML8.d.2) en masa de material activo;
 
-d. Con una cantidad igual o inferior a 4 g de NTO (8.a.18); y
+d. Con una cantidad igual o inferior a 4 g de NTO (ML8.a.18); y
 
-6. Con una cantidad igual o inferior a 1 g de catoceno (8.f.4.b).
+e. Con una cantidad igual o inferior a 1 g de catoceno (ML8.f.4.b).
 
 ML9 Buques de guerra (de superficie o subacuáticos), equipos navales especiales, accesorios, componentes y otros buques de superficie, según se indica:
 
-N.B. Para equipos de guiado y navegación, véase el artículo 11.
+N.B. Para equipos de guiado y navegación, véase el artículo ML11.
 
-a. Los buques y componentes, según se indica:
+a) Los buques y componentes, según se indica:
 
 1. Buques (de superficie o subacuáticos) diseñados especialmente o modificados para uso militar, cualquiera que sea su estado actual de conservación o de funcionamiento, y que tengan o no sistemas de bombardeo o blindaje, y cascos o partes del casco para dichos buques, y componentes para ellos diseñados especialmente para uso militar;
 
-Nota: El subartículo 9.a.1 incluye los vehículos diseñados especialmente o modificados para el transporte de buceadores.
+Nota: El subartículo ML9.a.1 incluye los vehículos diseñados especialmente o modificados para el transporte de buceadores.
 
-2. Buques de superficie, no especificados en 9.a.1, con uno o varios de los siguientes elementos fijados o integrados en el buque:
+2. Buques de superficie, no especificados en ML9.a.1, con uno o varios de los siguientes elementos fijados o integrados en el buque:
 
-a. Armas automáticas, especificadas en el artículo 1, o armas especificadas en los artículos 2, 4, 12 o 19, o ‘puntos de montaje’ o puntos duros para armas de calibre 12.7 mm o mayor;
+a. Armas automáticas, especificadas en el artículo ML1, o armas especificadas en los artículos ML2, ML4, ML12 o ML19, o “puntos de montaje” o puntos duros para armas de calibre 12.7 mm o mayor;
 
-Nota técnica:
+Nota técnica: Por “puntos de montaje” se entiende los puntos de montaje de armas o los refuerzos estructurales destinados a la instalación de armas.
 
-Por ‘puntos de montaje’ se entiende los puntos de montaje de armas o los refuerzos estructurales destinados a la instalación de armas.
-
-b. Sistemas de dirección de tiro especificados en el artículo 5;
+b. Sistemas de dirección de tiro especificados en el artículo ML5;
 
 c. Que posean todas las características siguientes:
 
-1. ‘Protección Química, Biológica, Radiológica y Nuclear (QBRN)’; y
+1. “Protección Química, Biológica, Radiológica y Nuclear (QBRN)”; y
 
-2. ‘Sistemas de prehumedecido o de lavado’ diseñados a efectos de descontaminación; o
+2. “Sistemas de prehumedecido o de lavado” diseñados a efectos de descontaminación; o
 
 Notas técnicas:
 
-1. Por ‘protección QBRN’ se entiende un espacio interior estanco con características tales como sobrepresurización, sistemas de aislamiento de la ventilación, aperturas de ventilación limitadas con filtros QBRN y puntos de acceso limitado del personal dotados de esclusas de ventilación.
+Por “sistemas de prehumedecido y de lavado” se entiende los sistemas de pulverización de agua marina capaces simultáneamente de humedecer la superestructura exterior y la cubierta de un buque.
 
-2. Por ‘sistemas de prehumedecido y de lavado’ se entiende los sistemas de pulverización de agua marina capaces simultáneamente de humedecer la superestructura exterior y la cubierta de un buque.
+d. Sistemas activos de contramedidas frente a armamentos especificados en los subartículos ML4.b, ML5.c o ML11.a y que tengan alguna de las características siguientes:
 
-d. Sistemas activos de contramedidas frente a armamentos especificados en los subartículos 4.b., 5.c. o 11.a. y que tengan alguna de las características siguientes:
-
-1. ‘Protección QBRN’;
+1. “Protección QBRN”;
 
 2. Casco y superestructura especialmente diseñados para reducir el perfil transversal de radar;
 
@@ -1162,13 +1196,17 @@ d. Sistemas activos de contramedidas frente a armamentos especificados en los su
 
 4. Un sistema de desmagnetización diseñado para reducir la firma magnética del conjunto del buque.
 
-b. Motores y sistemas de propulsión, según se indica, diseñados especialmente para uso militar y componentes para ellos diseñados especialmente para uso militar:
+Notas técnicas:
+
+A efectos del subartículo ML9.a.2 por “protección QBRN” se entiende un espacio interior estanco con características tales como sobrepresurización, sistemas de aislamiento de la ventilación, aperturas de ventilación limitadas con filtros QBRN y puntos de acceso limitado del personal dotados de esclusas de ventilación.
+
+b) Motores y sistemas de propulsión, según se indica, diseñados especialmente para uso militar y componentes para ellos diseñados especialmente para uso militar:
 
 1. Motores diésel diseñados especialmente para submarinos;
 
 2. Motores eléctricos diseñados especialmente para submarinos, que tengan todas las características siguientes:
 
-a. Potencia superior a 0,75 MW (1 000 CV);
+a. Potencia superior a 0,75 MW (1.000 CV);
 
 b. De inversión rápida;
 
@@ -1178,31 +1216,37 @@ d. Herméticos;
 
 3. Motores diésel que tengan todas las características siguientes:
 
-a. potencia de 37,3 kW (50 CV) o más; y
+a. Potencia de 37,3 kW (50 CV) o más; y
 
-b. cuyo contenido “amagnético” exceda del 75 % de su masa total;
+b. Cuyo contenido “amagnético” exceda del 75 % de su masa total;
 
 Nota técnica:
 
-A efectos del subartículo 9.b.3, “amagnético” significa que la permeabilidad relativa es inferior a 2.
+A efectos del subartículo ML9.b.3, “amagnético” significa que la permeabilidad relativa es inferior a 2.
 
-4. Sistemas de ‘propulsión independiente del aire’ () diseñados especialmente para submarinos;
+4. Sistemas de ‘propulsión independiente del aire’ diseñados especialmente para submarinos;
 
-Nota Técnica
+El subartículo ML9.b.4 no se aplica a las pistolas de señalización.
 
-La ‘propulsión independiente del aire’ () permite que un submarino sumergido opere su sistema de propulsión, sin acceso al oxígeno atmosférico, durante más tiempo del que hubieran permitido las baterías. A efectos del subcapítulo 9.b.4., los no incluyen la energía nuclear.
+Nota técnica:
 
-c. Aparatos de detección subacuática, diseñados especialmente para uso militar, controles para ellos y componentes para ellos diseñados especialmente para un uso militar;
+A efectos del subartículo ML9.b.4, la “propulsión independiente del aire” permite que un submarino sumergido opere su sistema de propulsión, sin acceso al oxígeno atmosférico, durante más tiempo del que hubieran permitido las baterías.
 
-d. Redes antisubmarinos y antitorpedos, diseñadas especialmente para un uso militar;
+N.B.: Para el equipo nuclear de propulsión, véase el subartículo ML9.h.
 
-e. sin uso desde 2003.
+c) Aparatos de detección subacuática, diseñados especialmente para uso militar, controles para ellos y componentes para ellos diseñados especialmente para un uso militar;
 
-f. Obturadores de casco y conectores, diseñados especialmente para uso militar, que permitan una interacción con los equipos exteriores del buque, y componentes para ellos diseñados especialmente para uso militar;
+d) Redes antisubmarinos y antitorpedos, diseñadas especialmente para un uso militar;
 
-Nota: El subartículo 9.f incluye los conectores navales de tipo conductor simple o multiconductor, coaxiales o guías de ondas, y los obturadores de casco para buques, ambos capaces de estanqueidad y de conservar las características necesarias a profundidades submarinas de más de 100 m; así como los conectores de fibra óptica y los obturadores de casco ópticos diseñados especialmente para transmisión por haz “láser”, cualquiera que sea la profundidad. El subartículo 9.f no se aplica a los obturadores de casco ordinarios para el árbol de propulsión y el vástago del mando hidrodinámico.
+e) sin uso desde 2003.
 
-g. Rodamientos silenciosos que tengan cualquiera de las características siguientes, componentes para ellos y equipos que contengan tales rodamientos, diseñados especialmente para uso militar:
+f) Obturadores de casco y conectores, diseñados especialmente para uso militar, que permitan una interacción con los equipos exteriores del buque, y componentes para ellos diseñados especialmente para uso militar;
+
+Nota 1: El subartículo ML9.f incluye los conectores navales de tipo conductor simple o multiconductor, coaxiales o guías de ondas, y los obturadores de casco para buques, ambos capaces de estanqueidad y de conservar las características necesarias a profundidades submarinas de más de 100 m; así como los conectores de fibra óptica y los obturadores de casco ópticos diseñados especialmente para transmisión por haz “láser”, cualquiera que sea la profundidad.
+
+Nota 2: El subartículo ML9.f no se aplica a los obturadores de casco ordinarios para el árbol de propulsión y el vástago del mando hidrodinámico.
+
+g) Rodamientos silenciosos que tengan cualquiera de las características siguientes, componentes para ellos y equipos que contengan tales rodamientos, diseñados especialmente para uso militar:
 
 1. Suspensión magnética o de gas;
 
@@ -1210,39 +1254,39 @@ g. Rodamientos silenciosos que tengan cualquiera de las características siguien
 
 3. Controles para la supresión de la vibración.
 
-h. Equipo nuclear generador de potencia o propulsión, diseñado especialmente para buques especificados en el subartículo 9.a, y componentes para ellos diseñados especialmente o “modificados” para uso militar;
+h) Equipo nuclear generador de potencia o propulsión, diseñado especialmente para buques especificados en el subartículo ML9.a, y componentes para ellos diseñados especialmente o “modificados” para uso militar;
 
 Nota técnica:
 
-A efectos del subartículo 9.h., “modificación” significa un cambio estructural, eléctrico, mecánico u otro que confiera a un material no militar capacidades militares equivalentes a las de un material diseñado especialmente para uso militar.
+A efectos del subartículo ML9.h., “modificación” significa un cambio estructural, eléctrico, mecánico u otro que confiera a un material no militar capacidades militares equivalentes a las de un material diseñado especialmente para uso militar.
 
-Nota: El subartículo 9.h. incluye los “reactores nucleares”.
+Nota: El subartículo ML9.h incluye los “reactores nucleares”.
 
 ML10 “Aeronaves”, “vehículos más ligeros que el aire”, “vehículos aéreos no tripulados” (“VANT”), motores de aviación y equipo para “aeronaves”, equipos asociados, y componentes, según se indica, diseñados especialmente o modificados para uso militar:
 
-N.B. Para equipos de guiado y navegación, véase el artículo 11.
+N.B. Para equipos de guiado y navegación, véase el artículo ML11.
 
-a. “Aeronaves” y “vehículos más ligeros que el aire”, tripulados, y componentes diseñados especialmente para ellos;
+a) “Aeronaves” y “vehículos más ligeros que el aire”, tripulados, y componentes diseñados especialmente para ellos;
 
-b. Sin uso desde 2011;
+b) Sin uso desde 2011;
 
-c. “Aeronaves” y “vehículos más ligeros que el aire” no tripulados, y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
+c) “Aeronaves” y “vehículos más ligeros que el aire” no tripulados, y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
 
-1. “Vehículos aéreos no tripulados” (), vehículos aéreos teledirigidos (), vehículos autónomos programables y “vehículos más ligeros que el aire” no tripulados;
+1. “Vehículos aéreos no tripulados”, vehículos aéreos teledirigidos, vehículos autónomos programables y “vehículos más ligeros que el aire” no tripulados;
 
 2. Lanzadores, equipo de recuperación y equipo de apoyo en tierra;
 
 3. Equipo diseñado para mando o control;
 
-d. Motores aeronáuticos de propulsión y componentes diseñados especialmente para ellos;
+d) Motores aeronáuticos de propulsión y componentes diseñados especialmente para ellos;
 
-e. Equipos aerotransportados para el abastecimiento de carburante diseñados especialmente o modificados para cualquiera de las siguientes aeronaves, y componentes diseñados especialmente para ellos:
+e) Equipos aerotransportados para el abastecimiento de carburante diseñados especialmente o modificados para cualquiera de las siguientes aeronaves, y componentes diseñados especialmente para ellos:
 
 1. “Aeronaves” especificadas en el subartículo 10.a; o
 
 2. “Aeronaves” no tripuladas especificadas en el subartículo 10.c;
 
-f. "Equipo de tierra" diseñado especialmente para las "aeronaves" especificadas en el subartículo ML10.a o los motores aeronáuticos especificados en el subartículo ML10.d;
+f) “Equipo de tierra” diseñado especialmente para las “aeronaves” especificadas en el subartículo ML10.a o los motores aeronáuticos especificados en el subartículo ML10.d;
 
 Nota: El subartículo ML10.f incluye el equipo para el abastecimiento de carburante a presión y el equipo diseñado para facilitar operaciones en áreas restringidas, incluido el equipo situado a bordo de un buque.
 
@@ -1256,13 +1300,13 @@ Nota 2: El subartículo ML10.f no se aplica a:
 
 4. Chocks, amarres y equipos de basculamiento.
 
-g. Equipo de supervivencia para tripulaciones aéreas, equipo de seguridad para tripulaciones aéreas y otros dispositivos de salida de emergencia, no especificados en el subartículo 10.a, diseñados para “aeronaves” especificadas en el subartículo 10.a;
+g) Equipo de supervivencia para tripulaciones aéreas, equipo de seguridad para tripulaciones aéreas y otros dispositivos de salida de emergencia, no especificados en el subartículo ML10.a, diseñados para “aeronaves” especificadas en el subartículo ML10.a;
 
-Nota: El subartículo 10.g. no somete a control los cascos para tripulaciones aéreas que no llevan incorporados equipos especificados en este anexo I.1, ni llevan acoplamientos o accesorios para tales equipos.
+Nota: El subartículo ML10.g. no somete a control los cascos para tripulaciones aéreas que no llevan incorporados equipos especificados en este anexo I.1, ni llevan acoplamientos o accesorios para tales equipos.
 
-N.B. Para los cascos, véase también el subartículo 13.c.
+N.B. Para los cascos, véase también el subartículo ML13.c.
 
-h. Paracaídas, parapentes y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
+h) Paracaídas, parapentes y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
 
 1. Paracaídas no especificados en otro lugar de este anexo I.1;
 
@@ -1270,9 +1314,9 @@ h. Paracaídas, parapentes y equipo relacionado, según se indica, y componentes
 
 3. Equipos diseñados especialmente para paracaidismo de gran altura (por ejemplo, trajes, cascos especiales, sistemas de respiración, equipos de navegación);
 
-i. Equipo con apertura controlada o sistemas de pilotaje automático, diseñados para cargas lanzadas en paracaídas.
+i) Equipo con apertura controlada o sistemas de pilotaje automático, diseñados para cargas lanzadas en paracaídas.
 
-Nota 1: El subartículo 10.a no se aplica a las “aeronaves” ni a los “vehículos más ligeros que el aire”, o variantes de esas “aeronaves” diseñadas especialmente para uso militar y que tengan todas las características siguientes:
+Nota 1: El subartículo ML10.a no se aplica a las “aeronaves” ni a los “vehículos más ligeros que el aire”, o variantes de esas “aeronaves” diseñadas especialmente para uso militar y que tengan todas las características siguientes:
 
 a. No ser “aeronaves” de combate;
 
@@ -1280,17 +1324,17 @@ b. No estar configuradas para uso militar y no incorporar equipos o aditamentos 
 
 c. Estar certificadas para uso civil por las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar.
 
-Nota 2: El subartículo 10.d no se aplica a:
+Nota 2: El subartículo ML10.d no se aplica a:
 
 a. Motores aeronáuticos diseñados o modificados para uso militar que hayan sido certificados por las autoridades de aviación civil de uno o más Estados miembros de la UE o Estados participantes en el Arreglo de Wassenaar para su uso en “aeronaves civiles”, o los componentes diseñados especialmente para ellos;
 
 b. Motores alternativos o los componentes diseñados especialmente para ellos, salvo los diseñados especialmente para vehículos aéreos no tripulados ().
 
-Nota 3: A los efectos de los subartículos 10.a y 10.d, los componentes diseñados especialmente y el equipo relacionado para “aeronaves” y motores aeronáuticos no militares modificados para uso militar se aplican solo a aquellos componentes y equipo militar relacionado requerido para la modificación para uso militar.
+Nota 3: A los efectos de los subartículos ML10.a y ML10.d, los componentes diseñados especialmente y el equipo relacionado para “aeronaves” y motores aeronáuticos no militares modificados para uso militar se aplican solo a aquellos componentes y equipo militar relacionado requerido para la modificación para uso militar.
 
-Nota 4: A los efectos del subartículo 10.a, el uso militar incluye: combate, reconocimiento militar, ataque, entrenamiento militar, apoyo logístico y transporte y paracaidismo de tropas o equipo militar.
+Nota 4: A los efectos del subartículo ML10.a, el uso militar incluye: combate, reconocimiento militar, ataque, entrenamiento militar, apoyo logístico y transporte y paracaidismo de tropas o equipo militar.
 
-Nota 5: El subartículo 10.a no se aplica a las “aeronaves” ni a los “vehículos más ligeros que el aire” que tengan todas las características siguientes:
+Nota 5: El subartículo ML10.a no se aplica a las “aeronaves” ni a los “vehículos más ligeros que el aire” que tengan todas las características siguientes:
 
 a. Haber sido manufacturados por primera vez con anterioridad a 1946;
 
@@ -1298,11 +1342,11 @@ b. No incorporar artículos especificados en el presente anexo, salvo que dichos
 
 c. No incorporar armas especificadas en el presente anexo, a menos que sean inservibles y no puedan volver a hacerse funcionar.
 
-Nota 6: El subartículo 10.d no se aplica a los motores aeronáuticos de propulsión manufacturados por primera vez con anterioridad a 1946.
+Nota 6: El subartículo ML10.d no se aplica a los motores aeronáuticos de propulsión manufacturados por primera vez con anterioridad a 1946.
 
 ML11 Equipos electrónicos, “vehículos espaciales” y componentes no especificados en ninguna otra parte de este anexo, según se indica:
 
-a. Equipo electrónico diseñado especialmente para uso militar y componentes diseñados especialmente para él;
+a) Equipo electrónico diseñado especialmente para uso militar y componentes diseñados especialmente para él;
 
 Nota: El subartículo ML11.a incluye:
 
@@ -1324,23 +1368,23 @@ h. Los equipos de transmisión de radiocomunicaciones digitales por dispersión 
 
 i. Los desmoduladores digitales diseñados especialmente para la inteligencia de señales;
 
-j. "Sistemas automatizados de mando y control".
+j. “Sistemas automatizados de mando y control”.
 
-Nota: Para el "equipo lógico" asociado a la radio definida por "equipo lógico" para uso militar, véase el artículo ML21.
+NB: Para el “equipo lógico” asociado a la radio definida por “equipo lógico” para uso militar, véase el artículo ML21.
 
-b. Equipos de interferencia intencionada diseñados o modificados para impedir la recepción, el funcionamiento o la eficacia de los servicios de posicionamiento, navegación o temporización proporcionados por los "sistemas de radionavegación por satélite", y componentes diseñados especialmente para ellos;
+b) Equipos de interferencia intencionada diseñados o modificados para impedir la recepción, el funcionamiento o la eficacia de los servicios de posicionamiento, navegación o temporización proporcionados por los “sistemas de radionavegación por satélite”, y componentes diseñados especialmente para ellos;
 
-c. “Vehículos espaciales” diseñados especialmente o modificados para uso militar, y componentes de “vehículos espaciales” diseñados especialmente para uso militar.
+c) “Vehículos espaciales” diseñados especialmente o modificados para uso militar, y componentes de “vehículos espaciales” diseñados especialmente para uso militar.
 
 ML12 Sistemas de armas de energía cinética de alta velocidad y equipo relacionado, según se indica, y componentes diseñados especialmente para ellos:
 
-a. Sistemas de armas de energía cinética diseñados especialmente para destruir un objetivo o hacer abortar la misión del objetivo;
+a) Sistemas de armas de energía cinética diseñados especialmente para destruir un objetivo o hacer abortar la misión del objetivo;
 
-b. Instalaciones de ensayo y de evaluación y modelos de prueba, diseñadas especialmente, incluidos los instrumentos de diagnóstico y los blancos, para la prueba dinámica de proyectiles y sistemas de energía cinética.
+b) Instalaciones de ensayo y de evaluación y modelos de prueba, diseñadas especialmente, incluidos los instrumentos de diagnóstico y los blancos, para la prueba dinámica de proyectiles y sistemas de energía cinética.
 
-N.B.: Para los sistemas de armas que utilicen municiones subcalibradas o únicamente se sirvan de la propulsión química, y las municiones para ellos, véanse los artículos 1, 2, 3 y 4.
+N.B.: Para los sistemas de armas que utilicen municiones subcalibradas o únicamente se sirvan de la propulsión química, y las municiones para ellos, véanse los artículos ML1, ML2, ML3 y ML4.
 
-Nota 1: El artículo 12 incluye los equipos siguientes, cuando estén diseñados especialmente para sistemas de armas de energía cinética:
+Nota 1: El artículo ML12 incluye los equipos siguientes, cuando estén diseñados especialmente para sistemas de armas de energía cinética:
 
 a. Los sistemas de propulsión para lanzamiento capaces de acelerar masas superiores a 0,1 g a velocidades superiores a 1,6 km/s, en modo de disparo simple o rápido;
 
@@ -1352,7 +1396,7 @@ c. Los sistemas de captación o seguimiento de objetivos, de dirección de tiro 
 
 d. Los sistemas de búsqueda de objetivos, de guiado o de propulsión derivada (aceleración lateral), para proyectiles.
 
-Nota 2: El artículo 12 se aplica a los sistemas de armas que utilicen cualquiera de los métodos de propulsión siguientes:
+Nota 2: El artículo ML12 se aplica a los sistemas de armas que utilicen cualquiera de los métodos de propulsión siguientes:
 
 a. Electromagnética;
 
@@ -1366,9 +1410,7 @@ e. Química (cuando se utilice en combinación con otro cualquiera de los demás
 
 ML13 Equipos blindados o de protección, construcciones, componentes y accesorios, según se indica:
 
-a. Planchas de blindaje metálicas o no que tengan cualquiera de las car
-
-a. Planchas de blindaje metálicas o no que tengan cualquiera de las características siguientes:
+a) Planchas de blindaje metálicas o no que tengan cualquiera de las características siguientes:
 
 1. Manufacturadas para cumplir estándares o especificaciones militares; o
 
@@ -1376,9 +1418,9 @@ a. Planchas de blindaje metálicas o no que tengan cualquiera de las caracterís
 
 Nota: Para las placas de trajes blindados, véase ML13.d.2.
 
-b. Construcciones de materiales metálicos o no y combinaciones de ellas diseñadas especialmente para ofrecer una protección balística a los sistemas militares, y los componentes diseñados especialmente para ellas.
+b) Construcciones de materiales metálicos o no y combinaciones de ellas diseñadas especialmente para ofrecer una protección balística a los sistemas militares, y los componentes diseñados especialmente para ellas.
 
-c. Cascos y componentes y accesorios diseñados especialmente para ellos, según se indica:
+c) Cascos y componentes y accesorios diseñados especialmente para ellos, según se indica:
 
 1. Cascos manufacturados de acuerdo con estándares o especificaciones militares, o con normas nacionales comparables;
 
@@ -1388,13 +1430,13 @@ c. Cascos y componentes y accesorios diseñados especialmente para ellos, según
 
 Nota: Véase la entrada correspondiente de este anexo para otros componentes o accesorios del casco para militares.
 
-d. Trajes blindados o prendas de protección, y componentes para ellos, según se indica:
+d) Trajes blindados o prendas de protección, y componentes para ellos, según se indica:
 
 1. Trajes blindados blandos, prendas de protección manufacturadas para cumplir estándares o especificaciones militares, o sus equivalentes, y componentes diseñados especialmente para ellas;
 
 Nota: A los efectos del subartículo ML13.d.1, los estándares o especificaciones militares incluyen, como mínimo, especificaciones de protección contra la fragmentación.
 
-1. Placas rígidas para trajes blindados que proporcionen protección antibalas de nivel igual o superior al nivel III (NIJ 0101.06, julio de 2008) o "normas equivalentes".
+2. Placas rígidas para trajes blindados que proporcionen protección antibalas de nivel igual o superior al nivel III (NIJ 0101.06, julio de 2008) o “normas equivalentes”.
 
 Nota 1: El subartículo ML13.b incluye los materiales diseñados especialmente para constituir blindajes explosivos reactivos o para construir refugios militares.
 
@@ -1410,121 +1452,119 @@ Nota 4: Los únicos cascos diseñados especialmente para el personal de desactiv
 
 Nota 5: El subartículo ML13.d.1 no se aplica a las gafas protectoras.
 
-Nota: Para las gafas protectoras, véase ML17.o.
+N.B.: Para las gafas protectoras, véase ML17.o.
 
-Nota 1: Véase también el artículo 1A005 de la Lista de Productos de Doble Uso de la UE.
+N.B.1.: Véase también el artículo 1A005 de la Lista de Productos de Doble Uso de la UE.
 
-Nota 2: Para los "materiales fibrosos o filamentosos" utilizados en la manufactura de los trajes blindados y de los cascos, véase el artículo 1C010 de la Lista de Productos de Doble Uso de la UE.
+N.B.2: Para los “materiales fibrosos o filamentosos” utilizados en la manufactura de los trajes blindados y de los cascos, véase el artículo 1C010 de la Lista de Productos de Doble Uso de la UE
 
-ML14 “Equipos especializados para el entrenamiento militar” o la simulación de escenarios militares, simuladores diseñados especialmente para el aprendizaje del manejo de armas de fuego u otras armas especificados en los artículos ML1 o ML2, y componentes y accesorios diseñados especialmente para ellos.
+ML14 “Equipos especializados para el entrenamiento militar” o la simulación de escenarios militares, simuladores diseñados especialmente para el aprendizaje del manejo de armas de fuego u otras armas especificadas en los artículos ML1 o ML2, y componentes y accesorios diseñados especialmente para ellos.
 
-Nota Técnica
+Nota 1: El artículo ML14 incluye los sistemas de generación de imágenes y los sistemas de entorno interactivo para simuladores cuando estén diseñados especialmente o modificados para uso militar.
 
-La expresión ‘equipo especializado para el entrenamiento militar’ incluye los tipos militares de entrenadores de ataque, entrenadores de vuelo operativo, entrenadores de blancos radar, generadores de blancos radar, dispositivos de entrenamiento para el tiro, de entrenamiento de guerra antisubmarina, simuladores de vuelo (incluidas las centrifugadoras para personas, destinadas a la formación de pilotos y astronautas), entrenadores para la utilización de radares, entrenadores para instrumentos de vuelo, entrenadores para la navegación, entrenadores para el lanzamiento de misiles, equipos para blancos, “aeronaves” no tripuladas, entrenadores de armamento, entrenadores de “aeronaves” no tripuladas, unidades móviles de entrenamiento y equipos de entrenamiento para operaciones militares en tierra.
+Nota 2: El artículo ML14 no se aplica al equipo diseñado especialmente para el entrenamiento en el uso de armas de caza o tiro deportivo.
 
-Nota 1: El artículo 14 incluye los sistemas de generación de imágenes y los sistemas de entorno interactivo para simuladores, cuando estén diseñados especialmente o modificados para uso militar.
-
-Nota 2: El artículo 14 no se aplica al equipo diseñado especialmente para el entrenamiento en el uso de armas de caza o tiro deportivo.
+Nota 3: “Equipo especializado para el entrenamiento militar” incluye los tipos militares de entrenadores de ataque, entrenadores de vuelo operativo, entrenadores de blancos radar, generadores de blancos radar, dispositivos de entrenamiento para el tiro, de entrenamiento de guerra antisubmarina, simuladores de vuelo (incluidas las centrifugadoras para personas, destinadas a la formación de pilotos y astronautas), entrenadores para la utilización de radares, entrenadores para instrumentos de vuelo, entrenadores para la navegación, entrenadores para el lanzamiento de misiles, equipos para blancos, “aeronaves” no tripuladas, entrenadores de armamento, “aeronaves” no tripuladas, unidades móviles de entrenamiento y equipos de entrenamiento para operaciones militares en tierra.
 
 ML15 Equipos de formación de imagen o de contramedida, según se indica, diseñados especialmente para uso militar y componentes y accesorios diseñados especialmente para ellos:
 
-a. Registradores y equipos de proceso de imagen;
+a) Registradores y equipos de proceso de imagen;
 
-b. Cámaras, equipo fotográfico y equipo para el revelado de películas;
+b) Cámaras, equipo fotográfico y equipo para el revelado de películas;
 
-c. Equipo para la intensificación de imágenes;
+c) Equipo para la intensificación de imágenes;
 
-d. Equipo de formación de imagen de infrarrojos o térmica;
+d) Equipo de formación de imagen de infrarrojos o térmica;
 
-e. Equipo sensor de imagen por radar;
+e) Equipo sensor de imagen por radar;
 
-f. Equipos de contramedida y contracontramedida para los equipos especificados en los subartículos ML15.a a ML15.e.
+f) Equipos de contramedida y contracontramedida para los equipos especificados en los subartículos ML15.a a ML15.e.
 
 Nota: El subartículo ML15.f incluye equipo diseñado para degradar el funcionamiento o la efectividad de los sistemas militares de imagen o para minimizar tales efectos degradantes.
 
-Nota: El artículo ML15 no se aplica a los "tubos intensificadores de imagen de la primera generación" ni a los equipos diseñados especialmente para incorporar "tubos intensificadores de imagen de la primera generación".
+Nota: El artículo ML15 no se aplica a los “tubos intensificadores de imagen de la primera generación” ni a los equipos diseñados especialmente para incorporar “tubos intensificadores de imagen de la primera generación”.
 
-Nota: Para la clasificación de los visores que incorporen "tubos intensificadores de imagen de la primera generación" véanse los artículos ML1, ML2 y ML5.a.
+NB: Para la clasificación de los visores que incorporen “tubos intensificadores de imagen de la primera generación” véanse los artículos ML1, ML2 y ML5.a.
 
-Nota: Véanse también los subartículos 6A002.a.2 y 6A002.b de la Lista de Productos de Doble Uso de la UE.
+N.B.: Véanse también los subartículos 6A002.a.2 y 6A002.b de la Lista de Productos de Doble Uso de la UE.
 
 ML16 Piezas de forja, piezas de fundición y productos semielaborados, diseñados especialmente para los productos especificados en los artículos ML1, ML2, ML3, ML4, ML6, ML9, ML10, ML12 o ML19.
 
-Nota El artículo 16 se aplica a los productos semielaborados que sean identificables por la composición del material, geometría o función.
+Nota: El artículo 16 se aplica a los productos semielaborados que sean identificables por la composición del material, geometría o función.
 
 ML17 Equipos misceláneos, materiales y “bibliotecas”, según se indica, y componentes diseñados especialmente para ellos:
 
-a. Equipos de buceo y natación subacuática, diseñados especialmente o modificados para uso militar, según se indica:
+a) Equipos de buceo y natación subacuática, diseñados especialmente o modificados para uso militar, según se indica:
 
-1. Recirculadores (<rebreathers>) para buceo autónomos, de circuito cerrado y semicerrado;
+1. Recirculadores para buceo autónomos, de circuito cerrado y semicerrado;
 
-2. Equipos de natación subacuática diseñados especialmente para ser utilizados con los equipos de buceo especificados en subartículo 17.a.1;
+2. Equipos de natación subacuática diseñados especialmente para ser utilizados con los equipos de buceo especificados en subartículo ML17.a.1;
 
 NB: Véase también el subartículo 8A002.q en la Lista de Productos de Doble Uso de la UE.
 
-b. Equipos de construcción diseñados especialmente para uso militar;
+b) Equipos de construcción diseñados especialmente para uso militar;
 
-c. Accesorios, revestimientos y tratamientos, para la supresión de firmas, diseñados especialmente para uso militar;
+c) Accesorios, revestimientos y tratamientos, para la supresión de firmas, diseñados especialmente para uso militar;
 
-d. Equipos de ingeniería diseñados especialmente para uso en zona de combate;
+d) Equipos de ingeniería diseñados especialmente para uso en zona de combate;
 
-e. “Robots”, unidades de control de “robots” y “efectores terminales” de “robots”, que tengan cualquiera de las siguientes características:
+e) “Robots”, unidades de control de “robots” y “efectores terminales” de “robots”, que tengan cualquiera de las siguientes características:
 
 1. Diseñados especialmente para uso militar;
 
-2. Que incorporen medios de protección de conductos hidráulicos contra las perforaciones de origen exterior causadas por fragmentos de proyectiles (por ejemplo, utilización de conductos autosellables) y diseñados para utilizar fluidos hidráulicos con temperatura de inflamación superior a 839 K (566 ºC); o
+2. Que incorporen medios de protección de conductos hidráulicos contra las perforaciones de origen exterior causadas por fragmentos de proyectiles (por ejemplo, utilización de conductos autosellables) y diseñados para utilizar fluidos hidráulicos con temperatura de inflamación superior a 839 K (566 °C); o
 
-3. Diseñados especialmente o preparados para funcionar en ambientes sometidos a impulsos electromagnéticos ();
+3. Diseñados especialmente o preparados para funcionar en ambientes sometidos a “impulsos electromagnéticos”;
 
-Nota técnica
+Nota técnica:
 
-Por impulsos electromagnéticos no se entiende la interferencia no intencional causada por la radiación electromagnética de equipos cercanos (p.ej. maquinaria, dispositivos o equipos electrónicos) o el rayo.
+A efectos del subartículo ML17.e.3, por “impulsos electromagnéticos” no se entiende la interferencia no intencional causada por la radiación electromagnética de equipos cercanos (p.ej. maquinaria, dispositivos o equipos electrónicos) o el rayo.
 
-f. “Bibliotecas” diseñadas especialmente o modificadas para uso militar con sistemas, equipos o componentes especificados en este anexo I.1;
+f) “Bibliotecas” diseñadas especialmente o modificadas para uso militar con sistemas, equipos o componentes especificados en la Lista Común Militar de la UE y en este anexo I.1;
 
-g. Equipo nuclear generador de potencia o propulsión, no especificado en ninguna otra parte, diseñado especialmente para uso militar, y componentes para él diseñados especialmente o “modificados” para uso militar;
+g) Equipo nuclear generador de potencia o propulsión, no especificado en ninguna otra parte, diseñado especialmente para uso militar, y componentes para él diseñados especialmente o “modificados” para uso militar;
 
-Nota: El subartículo 17.g incluye los “reactores nucleares”.
+Nota: El subartículo ML17.g incluye los “reactores nucleares”.
 
-h. Equipo y material, revestido o tratado para la supresión de la firma, diseñado especialmente para uso militar, no especificado en ninguna otra parte de la Lista Común Militar de la UE;
+h) Equipo y material, revestido o tratado para la supresión de la firma, diseñado especialmente para uso militar, no especificado en ninguna otra parte de la Lista Común Militar de la UE;
 
-i. Simuladores diseñados especialmente para “reactores nucleares” militares;
+i) Simuladores diseñados especialmente para “reactores nucleares” militares;
 
-j. Talleres de reparación móviles diseñados especialmente o ‘modificados’ para dar servicio a equipo militar;
+j) Talleres de reparación móviles diseñados especialmente o ‘modificados’ para dar servicio a equipo militar;
 
-k. Generadores de campaña diseñados especialmente o ‘modificados’ para uso militar;
+k) Generadores de campaña diseñados especialmente o ‘modificados’ para uso militar;
 
-l. Contenedores intermodales ISO o carrocerías desmontables (es decir, cajas móviles), diseñados especialmente o “modificados” para uso militar;
+l) Contenedores intermodales ISO o carrocerías desmontables (es decir, cajas móviles), diseñados especialmente o “modificados” para uso militar;
 
-m. Transbordadores, no especificados en ninguna otra parte de la Lista Común Militar de la UE, puentes y pontones diseñados especialmente para uso militar;
+m) Transbordadores, no especificados en ninguna otra parte de la Lista Común Militar de la UE, puentes y pontones diseñados especialmente para uso militar;
 
-n. Modelos para ensayo diseñados especialmente para el “desarrollo” de los materiales especificados en los artículos 4, 6, 9 o 10;
+n) Modelos para ensayo diseñados especialmente para el “desarrollo” de los materiales especificados en los artículos ML4, ML6, ML9 o ML10;
 
-o. Equipos para protección de “láser” (por ejemplo, protectores de ojos o sensores) diseñados especialmente para uso militar;
+o) Equipos para protección de “láser” (por ejemplo, protectores de ojos o sensores) diseñados especialmente para uso militar;
 
-p. “Pilas de combustible” distintas de las otras especificadas en este anexo I.1, diseñadas especialmente o ‘modificadas’ para uso militar.
+p) “Pilas de combustible” no especificadas en ninguna otra parte de la Lista Común Militar de la UE ni en este anexo I.1, diseñadas especialmente o “modificadas” para uso militar.
 
-Notas Técnicas
+Notas técnicas:
 
 1. No se usa desde 2014.
 
-2. A efectos del artículo 17, ‘modificación’ significa un cambio estructural, eléctrico, mecánico u otro que confiera a un material no militar capacidades militares equivalentes a las de un material diseñado especialmente para uso militar.
+2. A efectos del artículo ML17, “modificación” significa un cambio estructural, eléctrico, mecánico u otro que confiera a un material no militar capacidades militares equivalentes a las de un material diseñado especialmente para uso militar.
 
 ML18 Equipo de ‘producción’, instalaciones de ensayo ambiental y componentes, según se indica:
 
-a. Equipos de ‘producción’ diseñados especialmente o modificados para la ‘producción’ de los productos especificados en este anexo I.1, y componentes diseñados especialmente para ellos;
+a) Equipos de ‘producción’ diseñados especialmente o modificados para la “producción” de los artículos especificados en la Lista Común Militar de la UE y en este anexo I.1, y componentes diseñados especialmente para ellos;
 
-b. Instalaciones de ensayo ambiental diseñadas especialmente y equipos diseñados especialmente para ellas, que no se especifiquen en otro sitio, para la certificación, calificación o ensayo de productos especificados en este anexo.
+b) Instalaciones de ensayo ambiental diseñadas especialmente y equipos diseñados especialmente para ellas, que no se especifiquen en otro sitio, para la certificación, calificación o ensayo de productos especificados en la Lista Común Militar de la UE y en este anexo.
 
-Nota Técnica
+Nota técnica:
 
-A efectos del artículo 18, el término ‘producción’ incluye el diseño, la inspección, la fabricación, el ensayo y la verificación.
+A efectos del artículo ML18, el término “producción” incluye el diseño, la inspección, la fabricación, el ensayo y la verificación.
 
-Nota : Los subartículos 18.a y 18.b incluyen los equipos siguientes:
+Nota: Los subartículos ML18.a y ML18.b incluyen los equipos siguientes:
 
 a. Nitruradores de tipo continuo;
 
-b. Equipos o aparatos de ensayo por centifrugación, que tengan cualquiera de las características siguientes:
+b. Equipos o aparatos de ensayo por centrifugación, que tengan cualquiera de las características siguientes:
 
 1. Accionados por uno o varios motores de una potencia nominal total de más de 298 kW (400 CV);
 
@@ -1534,35 +1574,35 @@ b. Equipos o aparatos de ensayo por centifrugación, que tengan cualquiera de la
 
 c. Prensas de deshidratación;
 
-d. Prensas extruidoras de husillo diseñadas especialmente o modificadas para la extrusión de "explosivos" militares;
+d. Prensas extruidoras de husillo diseñadas especialmente o modificadas para la extrusión de “explosivos” militares;
 
-e. Máquinas para el corte de "propulsantes" en forma de macarrón;
+e. Máquinas para el corte de “propulsantes” en forma de macarrón;
 
 f. Tambores amasadores (cubas giratorias) de 1,85 m de diámetro o más, y con una capacidad de producción de más de 227 kg;
 
-g. Mezcladores de acción continua para "propulsantes" sólidos;
+g. Mezcladores de acción continua para “propulsantes” sólidos;
 
-h. Molinos accionados por fluidos, para pulverizar o moler los ingredientes de "explosivos" militares;
+h. Molinos accionados por fluidos, para pulverizar o moler los ingredientes de “explosivos” militares;
 
-i. Equipos para obtener a la vez la esfericidad y uniformidad de tamaño de las partículas del polvo metálico citado en el subartículo 8.c.8;
+i. Equipos para obtener a la vez la esfericidad y uniformidad de tamaño de las partículas del polvo metálico citado en el subartículo ML8.c.8;
 
 j. Convertidores de corriente de convección para la conversión de los materiales incluidos en el subartículo 8.c.3.
 
 ML19 Sistemas de Armas de Energía Dirigida, equipos relacionados o de contramedida y modelos de ensayo, según se indica, y componentes diseñados especialmente para ellos:
 
-a. Sistemas “láser” diseñados especialmente para destruir un objetivo o hacer abortar la misión de un objetivo;
+a) Sistemas “láser” diseñados especialmente para destruir un objetivo o hacer abortar la misión de un objetivo;
 
-b. Sistemas de haces de partículas capaces de destruir un objetivo o hacer abortar la misión de un objetivo;
+b) Sistemas de haces de partículas capaces de destruir un objetivo o hacer abortar la misión de un objetivo;
 
-c. Sistemas de radiofrecuencia (RF) de gran potencia capaces de destruir un objetivo o de hacer abortar la misión de un objetivo;
+c) Sistemas de radiofrecuencia (RF) de gran potencia capaces de destruir un objetivo o de hacer abortar la misión de un objetivo;
 
-d. Equipos diseñados especialmente para la detección o la identificación de los sistemas especificados por los subartículos 19.a, 19.b o 19.c o para la defensa contra esos sistemas;
+d) Equipos diseñados especialmente para la detección o la identificación de los sistemas especificados por los subartículos ML19.a, ML19.b o ML19.c o para la defensa contra esos sistemas;
 
-e. Modelos físicos para ensayo para los sistemas, equipos y componentes, especificados en el artículo 19;
+e) Modelos físicos para ensayo para los sistemas, equipos y componentes, especificados en el artículo ML19;
 
-f. Sistemas “láser” diseñados especialmente para causar ceguera permanente a un observador sin visión aumentada, es decir, al ojo desnudo o al ojo con dispositivos correctores de la visión.
+f) Sistemas “láser” diseñados especialmente para causar ceguera permanente a un observador sin visión aumentada, es decir, al ojo desnudo o al ojo con dispositivos correctores de la visión.
 
-Nota 1: Los sistemas de armas de energía dirigida () especificados en el artículo 19 incluyen los sistemas cuyas posibilidades se deriven de la aplicación controlada de:
+Nota 1: Los sistemas de armas de energía dirigida especificados en el artículo ML19 incluyen los sistemas cuyas posibilidades se deriven de la aplicación controlada de:
 
 a. “Láseres” con suficiente potencia para efectuar una destrucción semejante a la obtenida por municiones convencionales;
 
@@ -1570,7 +1610,7 @@ b. Aceleradores de partículas que proyecten un haz de partículas cargadas o ne
 
 c. Transmisores de radiofrecuencia de alta potencia emitida en impulsos o de alta potencia media, que produzcan campos suficientemente intensos para inutilizar los circuitos electrónicos de un objetivo distante.
 
-Nota 2: El artículo 19 incluye lo siguiente cuando esté diseñado especialmente para los sistemas de armas de energía dirigida:
+Nota 2: El artículo ML19 incluye lo siguiente cuando esté diseñado especialmente para los sistemas de armas de energía dirigida:
 
 a. Equipos de producción de potencia principal, de almacenamiento de energía, de conmutación, de acondicionamiento de potencia o de manipulación de combustible;
 
@@ -1594,27 +1634,27 @@ j. Equipos para el control y la orientación de un haz de iones de alta energía
 
 k. Láminas “calificadas para uso espacial” para la neutralización de haces de isótopos de hidrógeno negativos.
 
-ML20 Equipos criogénicos y "superconductores", según se indica, componentes y accesorios diseñados especialmente para ellos:
+ML20 Equipos criogénicos y “superconductores”, según se indica, componentes y accesorios diseñados especialmente para ellos:
 
-a. Equipos diseñados especialmente o configurados para ser instalados en vehículos para aplicaciones militares terrestres, marítimas, aeronáuticas o espaciales, capaces de funcionar en movimiento y de producir o mantener temperaturas inferiores a 103 K (-170 ºC);
+a) Equipos diseñados especialmente o configurados para ser instalados en vehículos para aplicaciones militares terrestres, marítimas, aeronáuticas o espaciales, capaces de funcionar en movimiento y de producir o mantener temperaturas inferiores a 103 K (-170 °C);
 
-Nota: El subartículo 20.a incluye los sistemas móviles que contengan o utilicen accesorios o componentes fabricados a partir de materiales no metálicos o no conductores de electricidad, tales como los materiales plásticos o los materiales impregnados de resinas epoxi.
+Nota: El subartículo ML20.a incluye los sistemas móviles que contengan o utilicen accesorios o componentes fabricados a partir de materiales no metálicos o no conductores de electricidad, tales como los materiales plásticos o los materiales impregnados de resinas epoxi.
 
-b. Equipos eléctricos “superconductores” (máquinas rotativas y transformadores) diseñados especialmente o configurados para ser instalados en vehículos para aplicaciones militares terrestres, marítimas, aeronáuticas o espaciales, y capaces de funcionar en movimiento.
+b) Equipos eléctricos “superconductores” (máquinas rotativas y transformadores) diseñados especialmente o configurados para ser instalados en vehículos para aplicaciones militares terrestres, marítimas, aeronáuticas o espaciales, y capaces de funcionar en movimiento.
 
-Nota: El subartículo 20.b no se aplica a los generadores homopolares híbridos de corriente continua que tengan armaduras metálicas normales de un solo polo girando en un campo magnético producido por bobinados superconductores, a condición de que estos bobinados sean el único elemento superconductor en el generador.
+Nota: El subartículo ML20.b no se aplica a los generadores homopolares híbridos de corriente continua que tengan armaduras metálicas normales de un solo polo girando en un campo magnético producido por bobinados superconductores, a condición de que estos bobinados sean el único elemento superconductor en el generador.
 
-ML21 “Equipo lógico”, según se indica:
+ML21 “Programas informáticos”, según se indica:
 
-a. “Equipo lógico” () diseñado especialmente o modificado para cualquiera de lo siguiente:
+a) “Equipo lógico” diseñado especialmente o modificado para cualquiera de lo siguiente:
 
-1. El “desarrollo”, la “producción”, el funcionamiento o el mantenimiento de equipos especificados en este anexo I.1;
+1. El “desarrollo”, la “producción”, el funcionamiento o el mantenimiento de equipos especificados en la Lista Común Militar de la UE y en este anexo I.1;
 
-2. El “desarrollo” o la “producción” de materiales especificados en este anexo I.1; o
+2. El “desarrollo” o la “producción” de materiales especificados en la Lista Común Militar de la UE y en este anexo I.1; o
 
-3. El “desarrollo”, la “producción”, el funcionamiento o el mantenimiento de “equipo lógico” () especificado en este anexo I.1;
+3. El “desarrollo”, la “producción”, el funcionamiento o el mantenimiento de “equipo lógico” especificado en la Lista Común Militar de la UE y en este anexo I.1;
 
-b. “Equipo lógico” específico distinto del especificado en el subartículo 21.a, según se indica:
+b) “Equipo lógico” específico distinto del especificado en el subartículo ML21.a, según se indica:
 
 1. “Equipo lógico” diseñado especialmente para uso militar y diseñado especialmente para la modelización, la simulación o la evaluación de sistemas de armas militares;
 
@@ -1626,43 +1666,45 @@ b. “Equipo lógico” específico distinto del especificado en el subartículo
 
 5. “Equipo lógico” diseñado especialmente o modificado para la realización de ciberoperaciones ofensivas militares;
 
-Nota 1: El subartículo 21.b.5 incluye el “equipo lógico” diseñado para destruir, dañar, degradar o desactivar sistemas, equipo o “equipo lógico” especificados en el presente anexo, y el “equipo lógico” para el reconocimiento cibernético y el mando y control cibernéticos de estos.
+Nota 1: El subartículo ML21.b.5 incluye el “equipo lógico” diseñado para destruir, dañar, degradar o desactivar sistemas, equipo o “equipo lógico” especificados en el presente anexo, y el “equipo lógico” para el reconocimiento cibernético y el mando y control cibernéticos de estos.
 
-Nota 2: El subartículo 21.b.5 no se aplica a la “divulgación de la vulnerabilidad” ni a la “respuesta en caso de incidente cibernético”, con limitación a la preparación o respuesta no militares en materia de ciberseguridad defensiva.
+Nota 2: El subartículo ML21.b.5 no se aplica a la “divulgación de la vulnerabilidad” ni a la “respuesta en caso de incidente cibernético”, con limitación a la preparación o respuesta no militares en materia de ciberseguridad defensiva.
 
-c. “Equipo lógico”, no especificado en los subartículos 21.a o 21.b., diseñado especialmente o modificado para capacitar a equipos, no especificados en el presente anexo, para desarrollar las funciones militares de los equipos especificados en el presente anexo.
+c) “Equipo lógico”, no especificado en los subartículos ML21.a o ML21.b., diseñado especialmente o modificado para capacitar a equipos, no especificados en la Lista Común Militar de la UE y en el presente anexo, para desarrollar las funciones militares de los equipos especificados en el presente anexo.
 
-N. B.: Véanse los sistemas, equipos o componentes especificados en el presente anexo como “ordenadores digitales” de uso general que lleven instalado un “equipo lógico” especificado en el subartículo 21.c.
+N.B.: Véanse los sistemas, equipos o componentes especificados en el presente anexo como “ordenadores digitales” de uso general que lleven instalado un “equipo lógico” especificado en el subartículo ML21.c.
 
 ML22 “Tecnología”, según se indica:
 
-a. “Tecnología”, distinta de la especificada en el subartículo 22.b, “necesaria” para el “desarrollo”, la “producción”, el funcionamiento, la instalación, el mantenimiento (), la reparación, la revisión o la restauración de los materiales especificados en este anexo I.1.
+a) “Tecnología”, distinta de la especificada en el subartículo ML22.b, “necesaria” para el “desarrollo”, la “producción”, el funcionamiento, la instalación, el mantenimiento, la reparación, la revisión o la restauración de los materiales especificados en la Lista Común Militar de la UE y en este anexo I.1.
 
-b. “Tecnología” según se indica:
+b) “Tecnología” según se indica:
 
-1. “Tecnología” “necesaria” para el diseño de las instalaciones completas de producción, el montaje de los componentes en ellas, y el funcionamiento, mantenimiento y reparación de dichas instalaciones para los materiales especificados en este anexo I.1, aunque los componentes de tales instalaciones de producción no estén especificados;
+1. “Tecnología” “necesaria” para el diseño de las instalaciones completas de producción, el montaje de los componentes en ellas, y el funcionamiento, mantenimiento y reparación de dichas instalaciones para los materiales especificados en la Lista Común Militar de la UE y en este anexo I.1, aunque los componentes de tales instalaciones de producción no estén especificados;
 
 2. “Tecnología” “necesaria” para el “desarrollo” y la “producción” de armas pequeñas, aunque se use para la fabricación de reproducciones de armas pequeñas antiguas;
 
 3. No se usa desde 2013;
 
-N.B.: Véase el subartículo 22.a para “tecnología”, anteriormente especificada en el subartículo 22.b.3.
+N.B.: Véase el subartículo ML22.a para “tecnología”, anteriormente especificada en el subartículo ML22.b.3.
 
 4. No se usa desde 2013;
 
-N.B.: Véase el subartículo 22.a para “tecnología”, anteriormente especificada en el subartículo 22.b.4.
+N.B.: Véase el subartículo ML22.a para “tecnología”, anteriormente especificada en el subartículo ML22.b.4.
 
-5. “Tecnología” “necesaria” exclusivamente para la incorporación de los “biocatalizadores” especificados en el subartículo 7.i.1, en las sustancias portadoras militares o materiales militares.
+5. “Tecnología” “necesaria” exclusivamente para la incorporación de los “biocatalizadores” especificados en el subartículo ML7.i.1, en las sustancias portadoras militares o materiales militares.
 
-Nota 1: La “tecnología” “necesaria” para el “desarrollo”, la “producción” el funcionamiento, la instalación, el mantenimiento (), la reparación, la revisión o la restauración de los materiales especificados en este anexo I.1 permanece bajo control aunque se aplique a cualquier material no especificado en este anexo I.1.
+Nota 1: La “tecnología” “necesaria” para el “desarrollo”, la “producción”, el funcionamiento, la instalación, el mantenimiento, la reparación, la revisión o la restauración de los materiales especificados en la Lista Común Militar de la UE y en este anexo I.1 permanece bajo control, aunque se aplique a cualquier material no especificado en la Lista Común Militar de la UE y en este anexo I.1.
 
-Nota 2: El artículo 22 no se aplica a:
+Nota 2: El artículo ML22 no se aplica a:
 
-a. La “tecnología” mínima necesaria para la instalación, el funcionamiento, mantenimiento () o reparación, de los materiales no especificados o cuya exportación haya sido autorizada.
+a. La “tecnología” mínima necesaria para la instalación, el funcionamiento, mantenimiento o reparación, de los materiales no especificados o cuya exportación haya sido autorizada.
 
 b. La “tecnología” que sea “de conocimiento público”, de “investigación científica básica” o la información mínima necesaria para solicitudes de patentes.
 
 c. La “tecnología” para la inducción magnética para la propulsión continua de dispositivos de transporte civil.
+
+> Se modifica por el art. único.1 de la Orden ECM/551/2025, de 30 de mayo. Ref. BOE-A-2025-10778
 
 > Se modifica por el art. único.1 a 8 de la Orden ECM/541/2024, de 6 de junio. Ref. BOE-A-2024-11618
 

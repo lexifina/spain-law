@@ -22,4 +22,16 @@ Nota 4: El artículo 1C901 no somete a control en la expedición el nitrato amó
 
 N.B. Para los sistemas de perturbación GNSS, véase asimismo la Relación de Material de Defensa, categoría 11.b.
 
+1C903 “Materiales energéticos”, y sustancias relacionadas, según se indica:
+
+c. Nitrocelulosa (CAS 9004-70-0).
+
+d. 2,4,6-Trinitrotolueno (TNT) (CAS 118-96-7).
+
+Nota técnica:
+
+A los efectos de 1C903, los materiales energéticos y sustancias relacionadas, incluyen los productos descritos, así como aquellos derivados de éstos para la fabricación final de explosivos.
+
+> Se modifica por el art. único.4 de la Orden ECM/551/2025, de 30 de mayo. Ref. BOE-A-2025-10778
+
 > Se añade por el art. único.15 del Real Decreto 414/2022, de 31 de mayo. Ref. BOE-A-2022-10514

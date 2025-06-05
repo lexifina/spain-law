@@ -28,7 +28,7 @@ a. Sustancias químicas tóxicas:
 
 2. PFIB: 1,1,3,3,3-pentafluor-2-(trifluorometil)-1-propeno (CAS 382-21-8);
 
-3.VÉASE LA LISTA DE ARMAS DE GUERRA EN LO QUE RESPECTA A
+3. VÉASE LA LISTA DE ARMAS DE GUERRA EN LO QUE RESPECTA A
 
 BZ: Benzilato de 3-quinuclidinilo (CAS 6581-06-2);
 
@@ -163,6 +163,18 @@ Nota 4: el artículo 1C901 no somete a control el nitrato amónico (números ONU
 3. Utilizar las características específicas del protocolo de radiofrecuencia empleado por los aviones no tripulados para interferir en su funcionamiento.
 
 N.B. Para los sistemas de perturbación GNSS, véase asimismo la Relación de Material de Defensa, categoría 11.b.
+
+1C903 “Materiales energéticos”, y sustancias relacionadas, según se indica:
+
+a. Nitrocelulosa (CAS 9004-70-0).
+
+b. 2,4,6-Trinitrotolueno (TNT) (CAS 118-96-7).
+
+Nota técnica:
+
+A los efectos de 1C903, los materiales energéticos y sustancias relacionadas, incluyen los productos descritos, así como aquellos derivados de estos para la fabricación final de explosivos.
+
+> Se modifica por el art. único.3 de la Orden ECM/551/2025, de 30 de mayo. Ref. BOE-A-2025-10778
 
 > Se modifica por el art. único.15 del Real Decreto 414/2022, de 31 de mayo. Ref. BOE-A-2022-10514
 
