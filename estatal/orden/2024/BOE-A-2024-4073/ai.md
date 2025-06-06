@@ -28,6 +28,9 @@
 | Administración. | Específico. |
 | Técnicas de Apoyo al Mando: |  |
 | – Prevención de riesgos laborales. | Común. |
+| – Investigación Militar Operativa. | Específico (EA). |
+| – Sociología. | Específico (EA). |
+| – Estadística. | Específico (EA). |
 | Escalas de Tropa y Marinería |
 | Inteligencia. | Específico. |
 | Logística. | Específico. |
@@ -62,3 +65,5 @@
 | Dirección y Gestión Sanitaria. | Específico. |
 | Medicina Legal y Pericial. | Específico. |
 | Gestión Logística de Apoyo Sanitario. | Específico. |
+
+> Se modifica el epígrafe «Escalas de Suboficiales» de la tabla del apartado 1 por el art. 3 de la Orden DEF/494/2025, de 9 de mayo. Ref. BOE-A-2025-9740

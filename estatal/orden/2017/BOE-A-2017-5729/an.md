@@ -16,7 +16,7 @@
 
 – Categoría a la que pertenece A, B, C, D o E (cuando proceda).
 
-– Duración expresada en créditos ECTS u horas con su equivalente en ECTS en los casos que esta conversión sea posible (en los cursos indistintos la unidad de medida será la correspondiente al perfil de ingreso con el menor empleo).
+– Carga de trabajo expresada en créditos ECTS u horas, según el caso, con su equivalente en ECTS en los casos que esta conversión sea posible. En los cursos de tropa y marinería, este concepto será la duración en horas. En los cursos indistintos la unidad de medida será la correspondiente al perfil de ingreso con el menor empleo.
 
 – Idioma en el que se imparte el curso.
 
@@ -103,5 +103,7 @@ Anexos:
 – Otros.
 
 11. Modelo de documento acreditativo de superación del curso.
+
+> Se modifica el apartado 1 por el art. 1.9 de la Orden DEF/494/2025, de 9 de mayo. Ref. BOE-A-2025-9740
 
 > Se modifican los apartados 1, 3, 4 y 9 y se añade el 11 por el art. 1.15 y 16 de la Orden DEF/187/2023, de 21 de febrero. Ref. BOE-A-2023-5259
