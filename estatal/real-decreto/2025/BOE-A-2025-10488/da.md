@@ -1,0 +1,9 @@
+## Disposición adicional primera. Grupo de trabajo para el estudio de la dimensión de género y la penosidad en el desempeño del trabajo por la edad.
+
+1. En el plazo de tres meses desde la entrada en vigor de este real decreto, se creará un grupo de trabajo integrado por representantes de la Secretaría de Estado de la Seguridad Social y Pensiones, de la Secretaría de Estado de Trabajo, del Organismo Autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social, del Instituto Nacional de Seguridad y Salud en el Trabajo, O.A., M.P., del Ministerio para la Transformación Digital y de la Función Pública, de la Secretaría de Estado de Derechos Sociales y del Instituto de las Mujeres, O.A., así como de las asociaciones empresariales y organizaciones sindicales más representativas a nivel estatal, a fin de analizar y evaluar la dimensión de género en la fijación de coeficientes reductores de la edad de jubilación en aquellas ocupaciones o actividades profesionales con mayor presencia femenina.
+
+2. Asimismo, en el plazo de seis meses desde su constitución, este grupo procederá al estudio y valoración de las ocupaciones o actividades profesionales en sectores concretos donde los requerimientos físicos o psíquicos del desempeño del trabajo a partir de una edad supongan penosidad, pero no se acrediten elevados índices de morbilidad o mortalidad. En el ámbito del diálogo social se analizará la posibilidad de la jubilación parcial para estos sectores productivos.
+
+3. A los efectos previstos en los apartados anteriores, se procederá al análisis de derecho comparado que ponga de manifiesto el tratamiento de la reducción de edad en la ocupación o actividad profesional que se trata en otras legislaciones de Seguridad Social, preferentemente en el ámbito de la Unión Europea.
+
+4. El grupo de trabajo, en el plazo de un año desde su constitución, analizará si resulta necesario acometer cambios en este real decreto.
