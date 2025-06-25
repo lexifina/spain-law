@@ -26,17 +26,17 @@ Podrán ser beneficiarios de las subvenciones previstas en esta convocatoria los
 
 El régimen de concesión, financiación y cuantía de las ayudas será el señalado en el artículo 5 de este real decreto-ley.
 
-El presupuesto asignado a la presente convocatoria asciende a dieciséis millones cincuenta y dos mil cuatrocientos euros (16.052.400 €) repartidos en las siguientes partidas presupuestarias:
+El presupuesto asignado a la presente convocatoria asciende a nueve millones doscientos noventa mil doscientos sesenta y cinco euros (9.290.265 €) repartidos en las siguientes partidas presupuestarias:
 
-20.50.42AB.770 Quince millones doscientos ochenta y ocho mil euros (15.288.000 €).
+20.50.42AB.770 Nueve millones ciento cincuenta y nueve mil novecientos cincuenta y tres euros (9.159.953 €).
 
-20.50.42AB.782 Setecientos sesenta y cuatro mil cuatrocientos euros (764.400 €).
+20.50.42AB.782 Ciento treinta mil trescientos doce euros (130.312 €).
 
-En el caso de que no se agote el presupuesto asignado a una de las partidas presupuestarias correspondientes a las convocatorias de la Sección «Cero» recogida en el apartado 2 del artículo 5 de este real decreto-ley, los fondos sobrantes podrán utilizarse para mejorar la dotación financiera de las partidas que hayan resultado insuficientes en cualquiera de dichas convocatorias.
+En función del desarrollo de las convocatorias de la sección “Cero” recogida en el apartado 2 del artículo 5 de este real decreto-ley, la dotación de las partidas presupuestarias correspondientes a dichas convocatorias podrá redistribuirse entre ellas antes del cierre de las convocatorias al objeto de agotar el presupuesto total asignado a la mencionada sección. A tal efecto, en el momento del agotamiento de cualquiera de dichas partidas se podrán activar listas de espera.
 
 ## Artículo 5. Plazo para la presentación de solicitudes.
 
-El plazo de presentación de las solicitudes de ayuda comenzará el día de activación del sistema telemático de gestión de ayudas del Programa y permanecerá abierto hasta el 30 de junio de 2025, ambos inclusive, o hasta que se agote el presupuesto establecido en la convocatoria, en caso de producirse con anterioridad.
+El plazo de presentación de las solicitudes de ayuda comenzará el día de activación del sistema telemático de gestión de ayudas del Programa y permanecerá abierto hasta el 31 de octubre de 2025, ambos inclusive, o hasta que se agote el presupuesto establecido en la convocatoria, en caso de producirse con anterioridad.
 
 La fecha y hora de activación del sistema telemático de gestión de ayudas se establecerá por resolución de la Secretaria de Estado de Industria y será publicada a través del portal de ayudas de Ministerio de Industria y Turismo.
 
@@ -65,6 +65,8 @@ Serán causas de anulación o de reintegro de las ayudas de esta convocatoria la
 ## Artículo 11. Publicidad.
 
 Las obligaciones sobre la publicidad de las ayudas que se otorguen en esta convocatoria se atendrán a lo indicado en el artículo 17 de este real decreto-ley.
+
+> Se modifican los arts. 4 y 5 por el art. único.7 y 8 de la Orden ITU/658/2025, de 20 de junio. Ref. BOE-A-2025-12836
 
 > Se modifican el título y el art. 4 por la disposición final 4.5 y 6 del Real Decreto-ley 1/2025, de 28 de enero. Ref. BOE-A-2025-1560#df-4
 
