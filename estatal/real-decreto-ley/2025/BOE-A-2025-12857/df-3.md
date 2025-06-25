@@ -1,0 +1,3 @@
+## Disposición final tercera. Títulos competenciales.
+
+Este real decreto-ley se dicta al amparo de las reglas 8.ª, 13.ª, 14.ª, 22.ª, 23.ª y 25.ª del artículo 149.1 de la Constitución, que atribuyen al Estado la competencia exclusiva en las materias de legislación civil; bases y coordinación de la planificación general de la actividad económica; Hacienda general y deuda del Estado; de autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad o el transporte de energía salga de su ámbito territorial; legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección; y de bases del régimen minero y energético, respectivamente.
