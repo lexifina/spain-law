@@ -1,0 +1,79 @@
+La Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia, en su título I, dedicado a la regulación de medidas en materia de eficiencia organizativa del Servicio Público de Justicia para la implantación de los Tribunales de Instancia y las Oficinas de Justicia en los municipios modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, configura la primera instancia judicial como una organización colegiada en la que el modelo de juzgados unipersonales es sustituido por un modelo de tribunales de instancia.
+
+La referida Ley Orgánica 1/2025, de 2 de enero, además, aborda la transformación de los juzgados de paz en oficinas de justicia en los municipios y adapta la regulación de la oficina judicial a estas nuevas estructuras.
+
+De la nueva regulación de la Ley Orgánica 6/1985, de 1 de julio se concluye que en la actual organización del Servicio Público de Justicia se diferencian dos estructuras con una configuración y objetivos diferenciados.
+
+La Oficina judicial se configura como la organización de carácter instrumental que sirve de soporte y apoyo a la actividad jurisdiccional de jueces y tribunales y su actividad, que está definida por la aplicación de las leyes procesales, se realizará a través de los servicios comunes.
+
+La Oficina de Justicia en el municipio se define en el artículo 439 ter como la unidad que, sin estar integrada en la estructura de la oficina judicial, se constituye en el ámbito de organización de la Administración de Justicia para la prestación de servicios a la ciudadanía de los respectivos municipios. Además de la asistencia al juez o a la jueza de paz del municipio, esta oficina tiene asignada la prestación de una multiplicidad de servicios orientados al acercamiento de la justicia a la ciudadanía de todos los municipios del Estado.
+
+La disposición final trigésima quinta de la Ley Orgánica 1/2025, de 2 de enero, dispone que el Gobierno, en el plazo de seis meses a partir de la entrada en vigor de esta ley, deberá aprobar las modificaciones reglamentarias necesarias para la efectiva implantación de los Tribunales de Instancia, Oficinas Judiciales y Oficinas de Justicia en los municipios, en particular aquellas modificaciones orientadas a facilitar el desarrollo del nuevo modelo organizativo y los procesos de acoplamiento de todo el personal.
+
+En cumplimiento de lo dispuesto en la disposición final trigésima quinta de la Ley Orgánica 1/2025, de 2 de enero, y desarrollando los artículos 439 ter, 439 quater y 439 quinquies de la Ley Orgánica 6/1985, de 1 de julio, se aborda la regulación de las oficinas de justicia en los municipios y de las agrupaciones de estas oficinas. Así, se determina el ámbito de aplicación de la norma reglamentaria, que se extiende a las oficinas de justicia en los municipios y agrupaciones que se constituyan por transformación de los juzgados de paz y agrupaciones de secretarías de juzgados de paz en la forma regulada en la disposición transitoria sexta de la Ley Orgánica 1/2025, de 2 de enero y también a las nuevas oficinas de justicia en los municipios o agrupaciones de estas que se constituyan, transformen o modifiquen siguiendo el procedimiento establecido en este real decreto. También se regula la competencia para organizar y dotar a estas oficinas de justicia, sus agrupaciones, la competencia para su creación, modificación y dotación de personal, la dependencia funcional y orgánica de este personal y la agrupación de municipios para la prestación colaborativa de servicios por el personal municipal de estas oficinas.
+
+También en cumplimiento de lo dispuesto en la disposición final referida, se aborda la modificación del Real Decreto 1451/2005, de 7 de diciembre, por el que se aprueba el Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional del Personal Funcionario al Servicio de la Administración de Justicia y del propio Reglamento; del Real Decreto 1608/2005, de 30 de diciembre por el que se aprueba el Reglamento Orgánico del Cuerpo de Secretarios Judiciales (actual Cuerpo de Letrados de la Administración de Justicia); del Real Decreto 1033/2007, de 20 de julio, por el que se determinan los puestos tipo de las unidades que integran las oficinas judiciales y otros servicios no jurisdiccionales y sus correspondientes valoraciones, a efectos del complemento general de puesto de los funcionarios al servicio de la Administración de Justicia y el Real Decreto 2033/2009, de 30 de diciembre, por el que se determinan los puestos tipo adscritos al Cuerpo de Secretarios Judiciales a efectos del complemento general de puesto, la asignación inicial del complemento específico y las retribuciones por sustituciones que impliquen el desempeño conjunto de otra función.
+
+Las modificaciones del Real Decreto 1451/2005, de 7 de diciembre, y del Reglamento de Ingreso, Provisión de Puestos de Trabajo y Promoción Profesional de Personal Funcionario al Servicio de la Administración de Justicia dan cumplimiento al acuerdo sindical firmado en fecha 8 de enero de 2025 entre el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes y organizaciones sindicales. En virtud del dicho acuerdo, el Ministerio asumió el compromiso de realizar modificaciones reglamentarias que permitieran un diseño más adaptado de las oficinas judiciales de los diferentes partidos judiciales al nuevo modelo organizativo y un acoplamiento que garantizara la continuidad en la prestación del servicio y el aprovechamiento de la experiencia profesional previa en orden a la asignación de los puestos de trabajo en la nueva organización, primando la voluntariedad del personal funcionario en la provisión de los nuevos puestos.
+
+En concreto, se pactó la modificación de la disposición transitoria primera del Real Decreto 1451/2005, de 7 de diciembre, y de los artículos 39 y 39 bis del Reglamento en orden a la diferenciación de determinados puestos en las relaciones de puestos de trabajo. Así, se prevé expresamente que se identificarán en las relaciones de puestos de trabajo los de los servicios comunes de tramitación de las audiencias provinciales; los del servicio común de tramitación de la Audiencia Nacional; los de las áreas en que se dividan los servicios comunes y, también, los de los equipos de trabajo, cuando estén integrados por más de cincuenta efectivos.
+
+La modificación del Real Decreto 1608/2005, de 30 de diciembre, aborda modificaciones necesarias para su adaptación a la nueva regulación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en materia de ordenación de los puestos del Cuerpo de Letrados de la Administración de Justicia y elaboración y aprobación de las relaciones de puestos de trabajo reservados a letrados y letradas de la Administración de Justicia.
+
+La modificación del Real Decreto 1033/2007, de 20 de julio, responde a la necesidad de identificar de forma adecuada los puestos tipo a efectos de complemento general del puesto de trabajo del personal funcionario de los Cuerpos Generales de la Administración de Justicia que prestarán servicio en las nuevas oficinas de la Administración de Justicia.
+
+La modificación del Real Decreto 2033/2009, de 30 de diciembre, incluye una adecuada identificación de los puestos tipo del personal del Cuerpo de Letrados de la Administración de Justicia las nuevas oficinas judiciales y de las oficinas del Registro Civil.
+
+Este real decreto se estructura en siete artículos, una disposición adicional, una disposición transitoria, una disposición derogatoria única y ocho disposiciones finales.
+
+En los siete artículos que integran la parte dispositiva del real decreto, se incluye el desarrollo reglamentario de las Oficinas de Justicia en los municipios y de las Agrupaciones de Oficinas de Justicia en los municipios, desarrollando la regulación contenida en los artículos 439 ter, 439 quater y 439 quinquies de la Ley Orgánica 6/1985, de 1 de julio.
+
+La disposición adicional única prevé que las resoluciones que, al amparo de lo previsto en el párrafo tercero de la disposición transitoria quinta de la Ley Orgánica 1/2025, de 2 de enero, dicten las autoridades competentes para definición de la estructura de las oficinas judiciales en los territorios de su competencia, sean publicadas en el Boletín Oficial del Estado, cumpliendo con ello la previsión normativa recogida en el artículo 6.1 d) del Real Decreto 181/2008, de 8 de febrero, de ordenación del diario oficial Boletín Oficial del Estado.
+
+La misma previsión se establece, en esta disposición adicional, para las resoluciones análogas que se dicten en aplicación y desarrollo de lo previsto en el apartado cuarto de la disposición transitoria sexta de la Ley Orgánica 1/2025, de 2 de enero, en referencia a las Oficinas de Justicia en los municipios y las agrupaciones de estas.
+
+La disposición transitoria mantiene las denominaciones Juzgados de Paz y Agrupaciones de Juzgados de Paz hasta la implantación de las Oficinas de Justicia en los municipios prevista en la disposición transitoria sexta de la Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia.
+
+La disposición derogatoria única deroga expresamente el Real Decreto 257/1993, de 19 de febrero, por el que se regulan las Agrupaciones de Secretarías de Juzgados de Paz y las disposiciones de igual o inferior rango que se opongan a este real decreto.
+
+Las disposiciones finales primera a cuarta incluyen las modificaciones del Real Decreto 1451/2005, de 7 de diciembre, del Real Decreto 1608/2005, de 30 de diciembre, del Real Decreto 1033/2007, de 20 de julio, y del Real Decreto 2033/2009, de 30 de diciembre.
+
+La disposición final quinta prevé el momento en que se producen los efectos económicos derivados de la modificación del Real Decreto 2033/2009, de 30 de diciembre.
+
+La disposición final sexta faculta a la persona titular del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes para que adopte las medidas necesarias para el desarrollo y ejecución del presente real decreto.
+
+La disposición final séptima y octava exponen, respectivamente, las previsiones sobre la entrada en vigor de la norma y el título competencial.
+
+El presente real decreto se ajusta a los principios de buena regulación exigibles conforme al artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ya que constituye el instrumento más adecuado para atender los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+
+Así, por lo que se refiere a su necesidad este real decreto es el instrumento preciso e inexcusable para la adaptación de la regulación reglamentaria para permitir la implantación de las oficinas judiciales y las oficinas de justicia en los municipios de forma coetánea a la constitución de los tribunales de instancia en cada partido judicial.
+
+Conforme al principio de eficacia, la regulación que incorpora sobre oficinas de justicia en los municipios y agrupaciones de estas, así como las modificaciones reglamentarias operadas permitirán su aplicación directa y temporánea en el proceso de despliegue del nuevo modelo organizativo de la Ley Orgánica 1/2025, de 2 de enero, sin precisar posteriores desarrollos.
+
+En virtud del principio de proporcionalidad, la norma proyectada se circunscribe a la reforma de los preceptos imprescindibles para adecuar la normativa reglamentaria a los requerimientos de la implantación de las nuevas oficinas de la Administración de Justicia, la elaboración y aprobación de las relaciones de puestos de trabajo y la integración del personal funcionario en los nuevos puestos, sin que suponga mayor carga de obligaciones ni restricción en derechos.
+
+En cuanto al principio de seguridad jurídica, el proyecto normativo es coherente tanto con la habilitación normativa contenida en la disposición final trigésimo quinta y las disposiciones transitorias quinta y sexta de la Ley Orgánica 1/2025, de 2 de enero, como con el contenido de los artículos 436, 437, 438, 439, 439 bis, 439 ter, 439 quater, 439 quinquies de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y con las modificaciones operadas en la Ley 38/1988, de 28 de diciembre, dirigidas a garantizar a la ciudadanía la efectividad de la protección judicial de sus derechos.
+
+Este instrumento es adecuado para abordar la regulación contenida en el mismo por razón de la habilitación y el mandato contenidos en la referida Ley Orgánica 1/2025, de 2 de enero, y porque el rango normativo de la propuesta es adecuado para abordar las modificaciones reglamentarias siendo coherente con lo previsto en el artículo 24.1 c) de la Ley del Gobierno, que establece que deben adoptar la forma de reales decretos acordados por el Consejo de Ministros, las decisiones que aprueben normas reglamentarias de la competencia de éste.
+
+En aplicación del principio de transparencia, la presente norma define claramente sus objetivos y su justificación y se posibilitará el acceso sencillo, universal y actualizado a los documentos propios de su proceso de elaboración. Se ha dado participación activa a las comunidades autónomas con competencias asumidas en materia de justicia y a la Federación Española de Municipios y Provincias. Además de al Consejo del Secretariado y a las asociaciones de letrados y letradas de la Administración de Justicia.
+
+Este real decreto plasma el resultado del acuerdo sindical de fecha 8 de enero de 2025 y el proyecto normativo ha sido objeto de negociación sindical, habiéndose dado audiencia a las asociaciones profesionales del Cuerpo de Letrados de las Administración de Justicia.
+
+Finalmente, por lo que se refiere al principio de eficiencia, la iniciativa normativa no impone cargas administrativas.
+
+Ha sido autorizada la tramitación administrativa urgente, en aplicación del artículo 27.1.b) de la Ley 50/1997, de 27 de noviembre, del Gobierno, mediante Acuerdo aprobado en el Consejo de Ministros del día 21 de enero de 2025.
+
+En su tramitación se ha observado el trámite de audiencia e información pública, habiéndose prescindido del de consulta pública previo por tratarse de una norma organizativa, que regula aspectos relacionados con las estructuras organizativas que deben implantarse para dar cumplimiento a lo previsto en la Ley Orgánica 1/2025, de 2 de enero, realizando modificaciones parciales de normas reglamentarias, y que no tiene un impacto significativo en la actividad económica ni impone obligaciones relevantes a los destinatarios.
+
+En este trámite han sido recibidas las aportaciones de las comunidades autónomas con competencias asumidas en materia de justicia.
+
+Se han emitido informes por el Ministerio de Política Territorial y Memoria Democrática y por el Ministerio de Hacienda, por el Consejo General del Poder Judicial, por el Consejo del Secretariado, por la Secretaría General Técnica y por la Oficina de Coordinación y Calidad Normativa de la misma Secretaría General Técnica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+
+Esta norma se dicta al amparo de lo dispuesto en el artículo 149.1.5.ª de la Constitución Española que atribuye al Estado la competencia exclusiva en materia de Administración de Justicia dando cumplimiento al mandato y haciendo uso de la habilitación legal contenida en la disposición final trigésima quinta de la referida Ley Orgánica 1/2025, de 2 de enero.
+
+En su virtud, a propuesta del Ministro de la Presidencia, Justicia y Relaciones con las Cortes, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 24 de junio de 2025,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 184, de 1 de agosto de 2025. Ref. BOE-A-2025-15941

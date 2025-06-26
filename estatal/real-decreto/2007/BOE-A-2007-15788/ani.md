@@ -4,13 +4,15 @@
 
 Subtipo A.
 
-Pertenecen al subtipo A los puestos adscritos a unidades de la nueva oficina judicial:
+Pertenecen al subtipo A los puestos adscritos a las siguientes unidades y oficinas de la Administración de Justicia:
 
-1. Unidades Procesales de Apoyo Directo.
+1. Los servicios comunes de la Oficina judicial.
 
-2. Servicios Comunes Procesales.
+2. Unidades administrativas.
 
-3. Unidades administrativas.
+3. Oficinas del Registro Civil.
+
+4. Oficina Fiscal.
 
 Subtipo B.
 
@@ -18,6 +20,8 @@ Se integrarán en el subtipo B los puestos comprendidos en la relación de puest
 
 Subtipos C y D.
 
-Se integrarán en el subtipo C los puestos adscritos a la oficina judicial de apoyo a Juzgados de Paz o Agrupaciones, servidos por los funcionarios del Cuerpo o Escala a extinguir de Gestión Procesal y Administrativa, del Cuerpo de Tramitación Procesal y Administrativa y del Cuerpo de Auxilio judicial.
+Se integrarán en el subtipo C los puestos de los Cuerpos o Escalas a extinguir de Gestión Procesal y Administrativa, de Tramitación Procesal y Administrativa, así como los del Cuerpo de Auxilio judicial adscritos a las Oficinas de Justicia en los municipios o a las agrupaciones de Oficinas de Justicia en los municipios.
 
-Se integrarán en el subtipo D los puestos de Secretario de la oficina de apoyo a Juzgado de Paz o Agrupaciones con nombramiento expedido al efecto cubiertos por funcionarios del Cuerpo o Escala a extinguir de Gestión Procesal y Administrativa.
+Se integrarán en el subtipo D los puestos de Secretaría de las Oficinas de Justicia en los municipios, servidos por personal funcionario del Cuerpo o Escala a extinguir de Gestión Procesal y Administrativa.
+
+> Se modifica por la disposición final 3.3 del Real Decreto 530/2025, de 24 de junio. Ref. BOE-A-2025-12861#df-3

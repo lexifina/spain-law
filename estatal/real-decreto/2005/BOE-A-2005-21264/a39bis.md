@@ -1,15 +1,19 @@
-## Artículo 39 bis. Relaciones de puestos de las Unidades Procesales de Apoyo Directo.
+## Artículo 39 bis. Relaciones de puestos de los servicios comunes.
 
-1. Las relaciones de puestos de trabajo de las Unidades Procesales de Apoyo Directo que radiquen en el mismo municipio deberán contener necesariamente la diferenciación de los puestos de trabajo correspondientes a:
+1. Las relaciones de puestos de trabajo de los servicios comunes que radiquen en el mismo municipio deberán identificar, a efectos de provisión del puesto, los puestos correspondientes a:
 
-a) El conjunto de Unidades Procesales de Apoyo Directo a un determinado órgano colegiado.
+a) El servicio común de tramitación de la Audiencia Nacional.
 
-b) El conjunto de Unidades Procesales de Apoyo Directo a órganos judiciales unipersonales pertenecientes al mismo orden jurisdiccional.
+b) Los servicios comunes de tramitación de las Audiencias Provinciales
 
-A estos efectos, se entenderá que el orden jurisdiccional civil comprende los Juzgados de Primera Instancia, Juzgados de lo Mercantil y Juzgados de Familia. Se entenderá que el orden jurisdiccional penal comprende los Juzgados de Instrucción, Juzgados de lo Penal, Juzgados de Vigilancia Penitenciaria, Juzgados de Menores y Juzgados de Violencia sobre la Mujer.
+c) Las áreas que se constituyan.
 
-2. Los puestos de trabajo así diferenciados determinarán la atribución de funciones por el jefe o responsable de la unidad o centro de destino a los funcionarios que ocupen con carácter definitivo puestos de trabajo genéricos, dentro de cada orden jurisdiccional.
+d) Los equipos que se constituyan, cuando así lo establezca las relaciones de puestos de trabajo, y, en todo caso, siempre que el número de efectivos en el equipo sea igual o superior a 50.
 
-Asimismo, en los concursos de traslados, los funcionarios podrán optar a los puestos genéricos diferenciados dentro del Centro de Destino correspondiente a las Unidades Procesales de Apoyo Directo que radiquen en el mismo municipio conforme a lo establecido en el apartado primero de este artículo.
+2. Los puestos de trabajo identificados conforme al apartado anterior determinarán la atribución de tareas por el jefe o responsable al personal funcionario, dentro de las funciones atribuidas a cada cuerpo funcionarial en los artículos 476, 477 y 478 de la Ley Orgánica del Poder Judicial.
+
+3. La identificación de los puestos a que se refiere el apartado 1 de este artículo regirá para la asignación inicial de puesto al personal de la Administración de Justicia de nuevo ingreso, así como para su provisión temporal o definitiva conforme a lo previsto en la normativa vigente.
+
+> Se modifica por la disposición final 1.2.3 del Real Decreto 530/2025, de 24 de junio. Ref. BOE-A-2025-12861#df
 
 > Se añade por el art. único.2 del Real Decreto 748/2010, de 4 de junio. Ref. BOE-A-2010-9710.
