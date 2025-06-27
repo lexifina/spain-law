@@ -116,6 +116,56 @@
 | Guinea Conakry |
 | Personal que percibe algún tipo de indemnización o retribución de organismos internacionales | 80 % | 80 % de la dieta, según R.D. 462/2002. | 55 % |
 | Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según R.D. 462/2002. | 80 % |
+| Estados Unidos |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Jamaica |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| El Salvador |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Moldavia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Ghana |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Togo |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Benín |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Marruecos |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Países Bajos |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Polonia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Eslovaquia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Finlandia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Lituania |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 65 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Francia |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Alemania |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+| Portugal |
+| Personal que percibe algún tipo de indemnización o retribución de organismos internacionales. | 80 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 55 % |
+| Personal que no percibe algún tipo de indemnización o retribución de organismos internacionales. | 100 % | 80 % de la dieta, según Real Decreto 462/2002, de 24 de mayo. | 80 % |
+
+> Se modifica por el art. único.2 de la Orden INT/661/2025, de 23 de junio. Ref. BOE-A-2025-12963
 
 > Se modifica la misión de Ucrania por el art. único.2 de la Orden INT/62/2023, de 25 de enero. Ref. BOE-A-2023-2158
 
