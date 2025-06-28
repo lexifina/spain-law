@@ -1,0 +1,3 @@
+## Noveno. Medidas de apoyo a jueces y tribunales en el ejercicio de la función jurisdiccional en determinados ámbitos de actividad: generación y tratamiento de resoluciones.
+
+La elaboración, gestión e integración de resoluciones en el sistema de gestión procesal se realizará por el personal identificado al efecto conforme a lo establecido en el respectivo protocolo de actuación de la Oficina judicial y a las indicaciones que se impartan por el juez o jueza, magistrado o magistrada, letrado o letrada de la Administración de Justicia. Este personal actualizará, cuando proceda, las fases procesales y estados verificando que el acontecimiento quede debidamente reseñado en aras a garantizar la autenticidad e integridad del expediente judicial electrónico.
