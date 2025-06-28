@@ -30,6 +30,7 @@
 | 10350 | 449 | D | T | INGRESOS INSUFICIENTES ENTIDADES BANCARIAS DIFERENCIAS TR3 CON TESORERÍA GENERAL En la TGSS, se imputará a este concepto la diferencia existente entre el resumen efectuado por la entidad financiera del líquido de la recaudación (TR-3) y lo ingresado en las cuentas centralizadas de la Tesorería General por recaudación. |
 | 10351 | 449 | D | T | INGRESOS INSUFICIENTES ENTIDADES BANCARIAS. DIFERENCIAS TR-3 CON EL TRATAMIENTO DE LOS BOLETINES DE COTIZACIÓN (TG02) En la TGSS, se imputará a este concepto la diferencia existente entre el resumen efectuado por la entidad financiera del líquido de la recaudación (TR-3) y el importe obtenido del tratamiento de los boletines de cotización (proceso TG-02). |
 | 10360 | 449 | – | T | ESTADO, CUENTA LIQUIDACIÓN FINANCIACIONES AFECTADAS En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiaciones afectadas cuando este resulte a favor de la Seguridad Social. |
+| 10361 | 449 | – | T | ESTADO, CUENTA LIQUIDACIÓN FINANCIACIÓN FONDOS EUROPEOS. En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiación de fondos europeos, cuando este resulte a favor de la Seguridad Social. |
 | 10365 | 449 | – | T | TESORO PÚBLICO. SUBASTAS DE LIQUIDEZ En los SSCC TGSS, recoge el saldo frente al Tesoro Público por las transferencias de fondos realizadas al mismo y recibidas de éste por las operaciones de subastas de liquidez realizadas por el Tesoro respecto de los importes transferidos por la TGSS. |
 | 10370 | 449 | D | T/EG/M | PAGOS POR CUENTA DE TERCEROS ADJUDICATARIOS DE OBRAS, SUMINISTROS Y SERVICIOS Recogerá los pagos no presupuestarios realizados por cuenta de terceros adjudicatarios de obras, suministros servicios cuando se hallen debidamente autorizados. |
 | 10399 | 449 | D | T/EG/M | OTROS DEUDORES Se imputarán las deudas de terceros respecto a la Seguridad Social, de naturaleza no presupuestaria, no incluidas en los conceptos anteriores. |
@@ -84,6 +85,7 @@
 | 20351 | 419 | D | T | RETENCIONES POR PAGO DE HIPOTECAS En los SSCC TGSS, importe de la retención efectuada en la entrega del capital prestado a los funcionarios de la Seguridad Social para la cancelación de hipoteca de la vivienda adquirida. |
 | 20352 | 419 | D | T/EG | PRESTACIONES ECONÓMICAS DE PAGO DIFERIDO En lasa EEGG y TGSS, se aplicará este concepto en las prestaciones a favor de residentes en el extranjero cuando el devengo se produce con anterioridad a la fecha real de pago. |
 | 20360 | 419 | – | T | ESTADO. CUENTA DE LIQUIDACIÓN DE FINANCIACIONES AFECTADAS En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiaciones afectadas, cuando este resulte un saldo a favor del Estado. |
+| 20361 | 419 | – | T | ESTADO, CUENTA LIQUIDACIÓN FINANCIACIÓN FONDOS EUROPEOS. En los SSCC TGSS, este concepto recogerá el saldo de las cuentas de liquidación frente al Estado por financiación de fondos europeos, cuando este resulte a favor del Estado. |
 | 20380 | 419 | D | T/EG | REMANENTES DE LIBRAMIENTOS A JUSTIFICAR Y OTROS INGRESOS EN EL EXTRANJERO. ISM En el ISM, este concepto recoge los ingresos producidos en los Centros Asistenciales en el extranjero (CASES) que resulten compensables con nuevos libramientos de fondos a justificar, en virtud de la normativa aplicable. Este concepto se cancelará en el momento de formalizar el abono a la Seguridad Social de tales importes, para su aplicación al presupuesto de ingresos. |
 | 20390 | 419 | D | T/EG | RETRIBUCIONES PERSONAL EN EL EXTRANJERO ISM En el ISM, se imputará el importe deducido en la nómina que corresponde al personal de los CASES que se paga con cargo al sistema de «pagos a justificar». |
 | 20399 | 419 | D | T/EG/M | OTROS ACREEDORES Se imputarán aquellas operaciones que representando un débito para la Seguridad Social, no corresponden específicamente a ningún concepto anterior. |
@@ -91,7 +93,8 @@
 | 20410 | 4560 | D | T | SERVICIO PÚBLICO DE EMPLEO ESTATAL En este concepto se reflejarán las cuotas de desempleo derivadas del tratamiento de recaudación, el reintegro de prestaciones indebidas y otras operaciones a favor del SPEE. |
 | 20420 | 4561 | D | T | FONDO DE GARANTÍA SALARIAL Se aplicará a este concepto la recaudación y otras operaciones a favor del Fondo de Garantía Salarial. |
 | 20430 | 4562 | D | T | MUTUAS DE ACCIDENTES DE TRABAJO Y ENFERMEDADES PROFESIONALES DE LA SEGURIDAD SOCIAL Se imputará a este concepto las cuotas de accidentes de trabajo ingresadas por las empresas a favor de las MATEPSS, la participación del reaseguro en las prestaciones pagadas directamente por las MATEPSS y otras operaciones acreedoras. |
-| 20440 | 4563 | D | T | PARTICIPES EN LAS CUOTAS DE FORMACIÓN PROFESIONAL Se imputarán las cuotas recaudadas por formación profesional. |
+| 20440 | 4563 | D | T | PARTICIPES EN LAS CUOTAS DE FORMACIÓN PROFESIONAL. SEPE. Se imputarán las cuotas recaudadas por formación profesional a favor del Servicio Público de Empleo Estatal. |
+| 20441 | 4563 | D | T | PARTICIPES EN LAS CUOTAS DE FORMACIÓN PROFESIONAL. MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES. Se imputarán las cuotas recaudadas por formación profesional a favor del Ministerio de Educación, Formación Profesional y Deportes. |
 | 20450 | 4564 | D | T | PLANES DE REESTRUCTURACIÓN Se imputará el importe de las cuotas recaudadas por su cuenta y el arbitrio sobre algodón importado. |
 | 20460 | 4569 | D | T | MINISTERIO DE ECONOMÍA Y HACIENDA. RIESGOS CATASTRÓFICOS Se imputará el importe por riesgo catastrófico que se recauda junto con las cuotas del sistema. |
 | 20461 | 4569 | D | T | MINISTERIO DE ECONOMÍA Y HACIENDA. INGRESOS REALIZADOS POR PRESTACIÓN DE SERVICIOS DEL INGESA, A FAVOR DEL TESORO PÚBLICO Se recogerán los ingresos efectivamente realizados por éste concepto. |
@@ -258,6 +261,8 @@
 | Código no presupuestario | Definición |
 | --- | --- |
 | 40220 | ANTICIPOS DE DIETAS Y GASTOS DE VIAJE Este concepto recoge los pagos efectuados por fondo de maniobra en concepto de anticipos de dietas y gastos de viaje del personal pendientes de aplicar. Su aplicación se efectuará bien por reintegro o por la imputación presupuestaria de las cantidades anticipadas. |
+
+> Se modifica por el art. 2.8 de la Resolución de 19 de junio de 2025. Ref. BOE-A-2025-13081
 
 > Se modifica por el art. 1.5 de la Resolución de 27 de diciembre de 2023 Ref. BOE-A-2024-1775
 

@@ -984,13 +984,13 @@
 
 558. Provisiones de fondos para pagos a justificar y fondo de maniobra.
 
-5580. Provisiones de fondos para pagos a justificar pendientes de aprobación.
+5580. Provisiones de fondos para pagos a justificar pendientes de justificación.
 
 5582. Operaciones con cargo al fondo de maniobra pendientes de justificación.
 
 5584. Libramientos para pagos a justificar pendientes de pago.
 
-5586. Gastos realizados con provisiones de fondos para pagos a justificar pendientes de aprobación.
+5586. Gastos realizados con provisiones de fondos para pagos a justificar pendientes de justificación.
 
 559. Otras partidas pendientes de aplicación.
 
@@ -1941,6 +1941,8 @@
 007. Presupuesto de ingresos: modificaciones de previsiones.
 
 008. Presupuesto de ingresos: previsiones definitivas.
+
+> Se modifican las subcuentas 5580 y 5586 por el art. 1.1 de la Resolución de 19 de junio de 2025. Ref. BOE-A-2025-13081
 
 > Se modifica la cuenta 116 y se añade la 118 con el desglose, por el art. único.Dos de la Resolución de 11 de octubre de 2023. Ref. BOE-A-2023-21527
 

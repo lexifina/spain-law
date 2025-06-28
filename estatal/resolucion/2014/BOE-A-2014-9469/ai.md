@@ -80,11 +80,11 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9169.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9203.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/154/13081_15834934_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9357.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/154/13081_15834933_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_9431.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/154/13081_15834935_1.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1775_14030029_3.png)
 
@@ -233,6 +233,8 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/312/17774_15069.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_1.png)
+
+> Se sustituyen los modelos de los documentos contables O.603, O.604 y O.606 por los que se recogen en el anexo de la Resolución de 19 de junio de 2025, según establece su art. 2.6. Ref. BOE-A-2025-13081
 
 > Se sustituyen los modelos de los documentos contables ADOK.440, ADOK.450, OK.610, KRPG.900, ACPI.050, DROC.150, ABPD.350, OEAD.900, CPAD.900, CPTC.910, JPJ.930 y JPJ.940 por los que se recogen en el anexo de la Resolución de 27 de diciembre de 2023, según establece su art. 1.4. Ref. BOE-A-2024-1775
 

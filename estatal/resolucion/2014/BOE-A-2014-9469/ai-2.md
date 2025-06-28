@@ -4,7 +4,7 @@
 
 Tipos de pago
 
-Entidades Gestoras y Tesorería General de la Seguridad Social
+Entidades Gestoras y Servicios Comunes de la Seguridad Social
 
 | Tipo de pago | Descripción |
 | --- | --- |
@@ -78,6 +78,7 @@ Entidades Gestoras y Tesorería General de la Seguridad Social
 | 68 | Pago telemático presupuestario a juzgados. |
 | 69 | Pago telemático devolución de ingresos por relación de perceptores. |
 | 70 | Pago telemático devolución de ingresos a juzgados. |
+| 71 | Fondo de Contingencias Profesionales de la Seguridad Social Operaciones no presupuestarias. |
 | 80 | Devolución de ingresos. Operaciones no presupuestarias. |
 | 81 | Seguro Escolar. Pago a clínicas y profesionales sanitarios. |
 | 84 | Gastos compartidos. Operaciones no presupuestarias. |
@@ -183,11 +184,14 @@ Tipos de reintegro
 | 02 | Compensación de prestaciones por pagos superpuestos. Ejercicio corriente. |
 | 03 | Reintegro de pagos indebidos de prestaciones. Ejercicio corriente. |
 | 04 | Anulaciones por rectificación de prestaciones. |
+| 10 | Reintegro IT pago delegado. |
 | 20 | Impagados de prestaciones. Presupuestos cerrados. |
 | 21 | Retrocesiones de prestaciones. Presupuestos cerrados. |
 | 22 | Compensación de prestaciones por pagos superpuestos. Presupuestos cerrados. |
 | 23 | Reintegro de pagos indebidos de prestaciones. Presupuestos cerrados. |
 | 99 | Otros. |
+
+> Se modifica por el art. 2.7 de la Resolución de 19 de junio de 2025. Ref. BOE-A-2025-13081
 
 > Se modifica en relación con los tipos de pagos de las entidades gestoras y Tesorería General de la Seguridad Social, por el art. 2.15 de la Resolución de 11 de octubre de 2022. Ref. BOE-A-2022-17978#as
 
