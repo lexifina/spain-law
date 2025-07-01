@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Protección de Datos Personales.
+
+Las actuaciones en materia de formación para el acceso progresivo al permiso de conducción de la clase A, se realizarán en todo caso con respeto a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales, y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE, y a la Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales, garantizando el derecho fundamental de los afectados a la protección de sus datos de carácter personal.
