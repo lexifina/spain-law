@@ -1,0 +1,5 @@
+## Disposición transitoria única. Solicitudes de conexión de plantas de producción de biometano en curso.
+
+Este procedimiento no será de aplicación a las solicitudes de conexión de plantas de biometano presentadas antes de su entrada en vigor, que deberán continuar su tramitación, o bien conforme a la Resolución de 19 de abril de 2024 de la Comisión Nacional de los Mercados y la Competencia, si se presentaron bajo la vigencia de esta, o bien conforme al plazo y contenido dispuestos en el artículo 12 bis del Real Decreto 1434/2002, respetando el orden cronológico, si son anteriores a dicha Resolución de 19 de abril de 2024.
+
+Sin perjuicio de lo anterior, en el plazo de quince días hábiles desde la publicación de esta resolución en el «Boletín Oficial del Estado», los titulares de las redes que cuenten con solicitudes de conexión de plantas de biometano en tramitación deberán solicitar el informe del gestor técnico del sistema previsto en el apartado quinto, quien hará sus mejores esfuerzos para responder lo antes posible.
