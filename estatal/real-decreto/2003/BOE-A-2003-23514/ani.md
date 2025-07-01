@@ -1,44 +1,36 @@
 ## ANEXO I
 
-El Catálogo oficial de señales de circulación está constituido por los documentos que se relacionan a continuación:
-
-Norma de carreteras 8.1-I.C Señalización vertical.
-
-Norma de carreteras 8.2-I.C Marcas viales.
-
-Norma de carreteras 8.3.I.C Señalización de obras.
-
-Catálogo de señales verticales de circulación tomos I y II.
-
-Los documentos indicados forman parte de la regulación básica establecida por la Dirección General de Carreteras del Ministerio de Fomento.
-
 ## Señales de circulación
 
-## ÍNDICE
+Índice
 
-1. Señales y órdenes de los agentes de circulación.
+1. Señales y órdenes de los agentes de la autoridad encargados de la vigilancia del tráfico.
 
 1.1 Señales con el brazo y otras.
 
 1.2 Señales desde los vehículos.
 
-1.3 Señales portátiles a utilizar por los agentes de circulación.
+1.3 Dimensiones señales y bastidores.
 
-1.4 Dimensiones señales y bastidores.
+2. Señalización circunstancial.
 
-2. Paneles de mensaje variable.
+2.1 Grupo 1. Vialidades.
 
-Grupo 1. Mensajes preceptivos.
+2.2 Grupo 2. Otros mensajes.
 
-Grupo 2. Mensajes de advertencia de peligro.
+3. Elementos de balizamiento y sistemas de contención de vehículos.
 
-Grupo 3. Mensajes informativos.
+3.1 Elementos de balizamiento.
 
-3. Señales de balizamiento.
+3.1.1 Dispositivos delimitadores.
 
-3.1 Dispositivos de barrera.
+3.1.2 Dispositivos de guía.
 
-3.2 Dispositivos de guía.
+3.1.3 Otros elementos de balizamiento.
+
+3.1.4 Señales de balizamiento.
+
+3.2 Sistemas de contención de vehículos.
 
 4. Semáforos.
 
@@ -50,52 +42,12 @@ Grupo 3. Mensajes informativos.
 
 4.4 Semáforos reservados a determinados vehículos.
 
-5. Señales verticales de circulación.
+5. Catálogo oficial de señales de la circulación y marcas viales.
 
-5.1 Señales de advertencia de peligro.
+5.1 Catálogo de señales verticales de circulación tomos I y II.
 
-5.2 Señales de prioridad.
+5.2 Catálogo de marcas viales.
 
-5.3 Señales de prohibición de entrada.
+El desarrollo de la información de cada uno de los apartados del índice del anexo I se muestra a continuación:
 
-5.4 Señales de restricción de paso.
-
-5.5 Otras señales de prohibición o restricción.
-
-5.6 Señales de obligación.
-
-5.7 Señales de fin de prohibición o restricción.
-
-5.8 Señales de indicaciones generales.
-
-5.9 Señales de carriles.
-
-5.10 Señales de servicio.
-
-5.11 Señales de preseñalización.
-
-5.12 Señales de dirección.
-
-5.13 Señales de identificación de carreteras.
-
-5.14 Señales de localización.
-
-5.15 Señales de confirmación.
-
-5.16 Señales de uso específico en poblado.
-
-5.17 Paneles complementarios.
-
-5.18 Otras señales.
-
-6. Marcas viales.
-
-6.1 Marcas blancas longitudinales.
-
-6.2 Marcas blancas transversales.
-
-6.3 Señales horizontales de circulación.
-
-6.4 Otras marcas e inscripciones de color blanco.
-
-6.5 Marcas de otros colores.
+> Se modifica por el art. único.17 del Real Decreto 465/2025, de 10 de junio. Ref. BOE-A-2025-12199
