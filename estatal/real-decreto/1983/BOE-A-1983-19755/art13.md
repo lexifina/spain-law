@@ -10,4 +10,8 @@ Tanto los Organos de las Administraciones públicas, como las Empresas con parti
 
 13.4 Los Inspectores están obligados de modo estricto a cumplir el deber de sigilo profesional. El incumplimiento de este deber será sancionado conforme a los preceptos del Reglamento de Régimen Disciplinario de las Administraciones Públicas donde presten sus servicios y con carácter supletorio en el de los Funcionarios Civiles del Estado.
 
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
 > Redactado el apartado 13.2 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. Ref. BOE-A-1983-22150.

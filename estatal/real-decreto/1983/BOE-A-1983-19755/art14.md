@@ -1,4 +1,4 @@
-## Art. 14. Obligaciones de los interesados.
+## Artículo 14. Obligaciones de los interesados.
 
 14.1 Las personas físicas o jurídicas, Asociaciones o Entidades estarán obligadas, a requerimiento de los Organos competentes o de los Inspectores:
 
@@ -16,10 +16,14 @@
 
 La falsedad, así como la constancia en dichos documentos de datos inexactos o incompletos, se sancionará de conformidad con lo Previsto en el presente Real Decreto, sin perjuicio de que, si se observase la posible existencia de delito o falta, se pase el tanto de culpa a los Tribunales de justicia.
 
-14.3 En los supuestos en que sea previsible el decomiso de la mercancía como sanción accesoria, podrá la Administración proceder cautelarmente a la intervención de la misma, sin perjuicio de que en la resolución que se dicte se decrete el decomiso definitivo o se deje sin efecto la intervención ordenada.
-
-Durante la tramitación del expediente, a propuesta del Instructor, podrá levantarse la intervención de la mercancía, cuando las circunstancias así lo aconsejen.
+14.3 (Anulado)
 
 14.4 En el supuesto de riesgo real o previsible para la salud pública se adoptarán cualesquiera otras medidas que ordenen las autoridades sanitarias.
+
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se declara la nulidad del apartado 14.3 por Sentencia del TS de 6 de junio de 1988 publicada por Orden de 27 de febrero de 1989. Ref. BOE-A-1989-8498.
 
 > Redactados los apartados 14.1 y 3 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. Ref. BOE-A-1983-22150.

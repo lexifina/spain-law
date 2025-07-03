@@ -56,4 +56,8 @@
 
 4.3.5 La aportación de datos falsos que puedan inducir a cualquier Organismo del Ministerio de Agricultura, Pesca y Alimentación, a otorgar ayudas, subvenciones o beneficios de cualquier índole, sin que se cumplan los requisitos o se reúnan las condiciones previamente establecidas a partir del momento en que se conceda la subvención o beneficio.
 
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se deroga este artículo, aunque seguirá vigente en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
 > Redactado conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. Ref. BOE-A-1983-22150.

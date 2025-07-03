@@ -1,3 +1,5 @@
 ## Disposición adicional segunda.
 
-Lo establecido en el presente Real Decreto será aplicado por los órganos de las Administraciones públicas de acuerdo con sus respectivas competencias.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd

@@ -1,3 +1,5 @@
 ## Artículo 11. Publicidad de las sanciones.
 
-Por razones de ejemplaridad y siempre que concurra alguna de las circunstancias de riesgo para la salud o seguridad de los consumidores, reincidencia en infracciones de naturaleza análoga o acreditada intencionalidad en la infracción, la autoridad que resuelva el expediente podrá acordar la publicación de las sanciones impuestas como consecuencia de lo establecido en este Real Decreto, cuando hayan adquirido firmeza en vía administrativa, así como los nombres, apellidos denominación o razón social de las personas naturales o jurídicas responsables y la índole y naturaleza de las infracciones, en el «Boletín Oficial del Estado», en los de la provincia y municipio, y a través de los medios de comunicación social que se consideren oportunos.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd

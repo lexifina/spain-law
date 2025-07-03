@@ -36,4 +36,8 @@ Los dictámenes evacuados por ambas partes se harán constar en el acta de esta 
 
 Todo lo actuado se elevará a la autoridad competente que acordará la incoacción del expediente sancionador, si lo estima procedente.
 
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
 > Redactado conforme a las correcciones de errores publicadas en BOE núms. 197, de 18 de agosto de 1983. Ref. BOE-A-1983-22150 y 250, de 19 de octubre de 1983. Ref. BOE-A-1983-27540 y 259, de 23 de octubre de 1983. Ref. BOE-A-1983-28433.

@@ -1,3 +1,5 @@
 ## Disposición transitoria segunda.
 
-Sin perjuicio de lo establecido en el apartado anterior, las normas contenidas en el presente Real Decreto, no serán de aplicación a los expedientes que se hallen en tramitación en el momento de su entrada en vigor.
+(Derogada)
+
+> Se deroga por la disposición derogatoria única.a) del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd

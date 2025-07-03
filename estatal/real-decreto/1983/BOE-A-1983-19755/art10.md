@@ -44,6 +44,10 @@ La facultad de acordar el cierre queda atribuida, en todo caso, al Consejo de Mi
 
 10.9 Los Gobernadores civiles de las provincias donde radiquen los establecimientos o industrias clausurados,ordenarán el levantamiento del cierre temporal tan pronto transcurra el plazo del mismo, dando cuenta de ello al Organo sancionador.
 
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se deroga este artículo, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
 > Se convierten a euros las cuantías contempladas en el apartado 10.1 por el apartado 8 de la Resolución de 19 de noviembre de 2001. Ref. BOE-A-2001-23617.
 
 > Se convierten a euros las cuantías contempladas en el apartado 10.1 por el apartado 1 y anexo de la Resolución de 6 de noviembre de 2001. Ref. BOE-A-2001-21531.

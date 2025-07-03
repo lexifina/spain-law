@@ -20,4 +20,8 @@
 
 8.2.5 La reincidencia en infracciones graves en los últimos cinco años que no sean a su vez consecuencia de reincidencia en infracciones leves.
 
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se deroga este artículo, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
 > Redactado el apartado 8.1 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. Ref. BOE-A-1983-22150.

@@ -14,4 +14,8 @@ En el acta se transcribirán íntegramente cuantos datos y circunstancias sean n
 
 15.2.3 Las cantidades que habrán de ser retiradas de cada ejemplar de la muestra serán suficientes en función de las determinaciones analíticas que se pretendan realizar y, en todo caso, se ajustarán a las normas reglamentarias que se establezcan y, en su defecto, a las instrucciones dictadas por los Organos competentes.
 
+> Téngase en cuenta que este artículo seguirá vigente en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se declara la vigencia de este artículo en materia de defensa del consumidor, a excepción del control oficial de productos alimenticios, según establece la disposición derogatoria única.a).1º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
 > Redactado los apartados 15.1 y 2 conforme a la corrección de errores publicada en BOE núm. 197, de 18 de agosto de 1983. Ref. BOE-A-1983-22150.

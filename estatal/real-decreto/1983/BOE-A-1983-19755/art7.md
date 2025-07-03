@@ -18,4 +18,8 @@
 
 7.2.5 La negativa reiterada a facilitar información o prestar colaboración a los servicios de control e inspección.
 
-7,2.6 La reincidencia en infracciones leves, en los últimos tres meses.
+7.2.6 La reincidencia en infracciones leves, en los últimos tres meses.
+
+> Téngase en cuenta que este artículo se deroga, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
+
+> Se deroga este artículo, aunque seguirá vigente en los aspectos relacionados con el artículo 4, en aquellas comunidades autónomas en las que, por no disponer de normativa en materia de calidad, tuviesen que requerir de un marco legal para la tipificación de las infracciones en materia de calidad alimentaria comercial y de los medios de producción, según establece la disposición derogatoria única.a).2º del Real Decreto 562/2025, de 1 de julio. Ref. BOE-A-2025-13409#dd
