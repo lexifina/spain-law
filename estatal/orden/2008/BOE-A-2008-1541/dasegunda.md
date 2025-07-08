@@ -1,5 +1,5 @@
 ## Disposición adicional segunda. Personal afectado por la reorganización.
 
-1. El Subsecretario de Defensa realizará las adaptaciones orgánicas necesarias a la nueva estructura.
+(Sin contenido)
 
-2. Al personal afectado por esta orden ministerial le será de aplicación las disposiciones vigentes en caso de reestructuración de centros y establecimientos.
+> Se deja sin contenido por el art. único.9 de la Orden DEF/696/2025, de 30 de junio. Ref. BOE-A-2025-13870

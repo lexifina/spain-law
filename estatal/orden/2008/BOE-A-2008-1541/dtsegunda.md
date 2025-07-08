@@ -1,3 +1,5 @@
 ## Disposición transitoria segunda. Áreas de Vivienda.
 
-El Subsecretario de Defensa dictará, en su caso, las instrucciones necesarias para proveer una transferencia ordenada, a las nuevas áreas de Personal y apoyo social, de las competencias necesarias para el ejercicio de las funciones administrativas y la prestación de los servicios periféricos que les atribuye el Real Decreto 308/2007, de 2 de marzo.
+(Sin contenido)
+
+> Se deja sin contenido por el art. único.11 de la Orden DEF/696/2025, de 30 de junio. Ref. BOE-A-2025-13870

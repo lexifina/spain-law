@@ -4,7 +4,7 @@
 
 2. Habrá una Delegación en cada comunidad autónoma y en las Ciudades de Ceuta y Melilla, tal y como figura en el anexo de esta orden (en adelante el anexo).
 
-3. Las Delegaciones dependen orgánicamente de la Subsecretaría de Defensa. Le corresponde a la Vicesecretaría General Técnica el desarrollo de las funciones asocia-das a la dirección, coordinación, inspección y evaluación de las Delegaciones.
+3. Las Delegaciones dependen orgánicamente de la Subsecretaría de Defensa. Le corresponde a la Subdirección General de Administración Periférica el desarrollo de las funciones asociadas a la dirección, coordinación, inspección y evaluación de las Delegaciones.
 
 4. Las Delegaciones tienen la siguiente estructura general, cuyo detalle se especifica en el anexo:
 
@@ -23,3 +23,5 @@ d) En su caso, una Asesoría Jurídica propia.
 a) Dar traslado, a los órganos de que dependan orgánicamente, de las solicitudes que efectúen en relación con las siguientes materias: indemnizaciones por razón de servicio, material, bibliografía, gestión de vacantes, infraestructura (cuando no se encuentren ubicados en la sede de la Delegación o Subdelegación de Defensa) y, en general, cualquier otra necesaria para la vida y funcionamiento de dichos órganos, efectuando el seguimiento de esas solicitudes hasta que queden resueltas.
 
 b) Gestionar las indemnizaciones a que tienen derecho los peritos, testigos e imputados citados por los juzgados y tribunales militares cuando aquellos no pertenezcan a la Administración militar. Cuando sí pertenezca a esa Administración, dichas indemnizaciones correrán por cuenta de la unidad, centro u organismo en que se encuentren destinados o, en su defecto, por cuenta del Ejército al que pertenezcan.
+
+> Se modifica el apartado 3 por el art. único.1 de la Orden DEF/696/2025, de 30 de junio. Ref. BOE-A-2025-13870

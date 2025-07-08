@@ -6,6 +6,8 @@ a) Difusión de la cultura de Defensa.
 
 b) Reclutamiento, aportación adicional de recursos humanos e incorporación laboral.
 
-c) Administración del personal militar retirado o en situación de reserva sin destino.
+c) Administración del personal militar en situación de reserva sin destino, así como prestación del apoyo social de su competencia al personal militar retirado y a las personas viudas de militares.
 
 d) Gestión patrimonial.
+
+> Se modifica la letra c) por el art. único.10 de la Orden DEF/696/2025, de 30 de junio. Ref. BOE-A-2025-13870
