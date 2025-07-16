@@ -36,7 +36,11 @@ o) La Dirección General de Promoción de la Memoria Democrática.
 
 p) La Dirección General de Gestión Migratoria.
 
+q) La Dirección General de Atención Humanitaria y del Sistema de Acogida de Protección Internacional.
+
 2. Las razones que justificaron la aplicación de la excepción de las reglas generales de nombramiento a la Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas, la Dirección General de Políticas Palanca para el Cumplimiento de la Agenda 2030, la Dirección General para la Igualdad de Trato y Diversidad Étnico Racial, la Dirección General de Diversidad Sexual y Derechos LGTBI y la Dirección General del Instituto de la Mujer y para la Igualdad de Oportunidades se mantienen en relación con la Dirección General de Trabajo Autónomo, la Dirección General de Agenda 2030, la Dirección General para la Igualdad de Trato y No Discriminación y contra el Racismo, la Dirección General para la Igualdad real y Efectiva de las personas LGTBI+ y la Dirección General del Instituto de las Mujeres que respectivamente las suceden.
+
+> Se añade la letra q) al apartado 1 por el art. 6.2 del Real Decreto 636/2025, de 15 de julio. Ref. BOE-A-2025-14698
 
 > Se añade la letra p) al apartado 1 por el art. 1.2 del Real Decreto 268/2025, de 8 de abril. Ref. BOE-A-2025-7099
 
