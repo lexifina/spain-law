@@ -8,29 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+This act was repealed with effect from 2025-07-17 by BOE-A-2025-14693. The BOE publisher notice is retained below. Earlier normative text remains available in the history.
+
 ## Bloques
 
-- [no](no.md)
-- [(preambulo)](pr.md)
-- [Artículo único](au.md)
-- [Disposición adicional primera](da.md)
-- [Disposición adicional segunda](da-2.md)
-- [Disposición transitoria única](dt.md)
-- [Disposición derogatoria única](dd.md)
-- [Disposición final primera](df.md)
-- [Disposición final segunda](df-2.md)
-- [Disposición final tercera](df-3.md)
-- [Disposición fina cuarta](df-4.md)
-- [Disposición final quinta](df-5.md)
-- [Disposición final sexta](df-6.md)
-- [(firma)](fi.md)
-- [ESTRATEGIA](es.md)
-- [CAPÍTULO I](ci.md)
-- [CAPÍTULO II](ci-2.md)
-- [CAPÍTULO III](ci-3.md)
-- [CAPÍTULO IV](ci-4.md)
-- [CAPÍTULO V](cv.md)
-- [CAPÍTULO VI](cv-2.md)
-- [CAPÍTULO VII](cv-3.md)
-- [CAPÍTULO VIII](cv-4.md)
-- [CAPÍTULO IX](ci-5.md)
+- [BOE publisher notice](no.md)
