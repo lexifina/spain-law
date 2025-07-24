@@ -7,8 +7,9 @@ A efectos de este Reglamento, se considerarán las siguientes definiciones:
 | Vehículo de tracción animal | Vehículo arrastrado por animales. |
 | Ciclo | Vehículo de dos ruedas por lo menos, accionado por el esfuerzo muscular de las personas que lo ocupan, en particular mediante pedales o manivelas. |
 | Bicicleta | Ciclo de dos ruedas. |
-| Bicicleta de pedales con pedaleo asistido | Bicicletas equipadas con un motor eléctrico auxiliar, de potencia nominal continua máxima inferior o igual a 250 W, cuya potencia disminuya progresivamente y que finalmente se interrumpa antes de que la velocidad del vehículo alcance los 25 km/h o si el ciclista deja de pedalear. |
-| Vehículo a motor | Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías, los vehículos para personas de movilidad reducida, bicicletas de pedales con pedaleo asistido y los vehículos de movilidad personal. |
+| Ciclo de pedales con pedaleo asistido. | Ciclo, equipado con pedales y con un motor eléctrico auxiliar, de potencia nominal continua máxima inferior o igual a 250 W, cuya potencia disminuya progresivamente y que finalmente se interrumpa antes de que la velocidad del vehículo alcance los 25 km/h o si el ciclista deja de pedalear. |
+| Bicicleta de pedales con pedaleo asistido. | Ciclo de pedales con pedaleo asistido de dos ruedas. |
+| Vehículo a motor | Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías, los vehículos para personas de movilidad reducida, los ciclos de pedales con pedaleo asistido y los vehículos de movilidad personal. |
 | Ciclomotor | Tienen la consideración de ciclomotores los vehículos que se definen a continuación: |
 | Ciclomotor de dos ruedas | Vehículo de dos ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h. |
 | Ciclomotor de tres ruedas | Vehículo de tres ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h. |
@@ -58,7 +59,7 @@ A efectos de este Reglamento, se considerarán las siguientes definiciones:
 | Máquina de servicios automotriz | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar servicios determinados. |
 | Máquina de servicios remolcada | Vehículo especial concebido y construido para efectuar servicios determinados, y que, para trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor de servicios o una máquina de servicios automotriz. |
 | Tren turístico | Vehículo especial constituido por un vehículo tractor y uno o varios remolques, concebido y construido para el transporte de personas con fines turísticos, con velocidad máxima limitada y sujeto a las limitaciones de circulación que imponga la autoridad competente en materia de tráfico. |
-| QUAD-ATV | Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy concretos, con utilización fundamentalmente fuera de carretera, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y dotado de un sistema de tracción adecuado al uso fuera de carretera y cuya velocidad puede estar limitada en función de sus características técnicas o uso. Se exceptúan de esta definición los vehículos incluidos en las categorías definidas en las Directivas europeas 92/61/CEE del Consejo, de 30 de junio de 1992, relativa a la recepción de los vehículos a motor de dos o tres ruedas, y 2002/24/CE del Parlamento Europeo y del Consejo, de 18 de marzo de 2002, relativa a la homologación de los vehículos a motor de dos o tres ruedas. |
+| QUAD-ATV | Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy concretos, con utilización fundamentalmente fuera de carretera, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y dotado de un sistema de tracción adecuado al uso fuera de carretera y cuya velocidad puede estar limitada en función de sus características técnicas o uso. Se exceptúan de esta definición los vehículos incluidos en las categorías definidas en el Reglamento (UE) 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, relativo a la homologación de los vehículos de dos o tres ruedas y los cuatriciclos, y a la vigilancia del mercado de dichos vehículos. |
 | Pick-up | Vehículo cuya masa máxima no es superior a 3.500 kg, en el que las plazas de asiento y la zona de carga no están situadas en un compartimento único. |
 | Vehículo eléctrico (EV) | Vehículo propulsado al menos por uno o más motores eléctricos. |
 | Vehículo eléctrico de baterías (BEV) | Vehículo eléctrico que utiliza como sistemas de almacenamiento de energía de propulsión exclusivamente baterías eléctricas recargables desde una fuente de energía eléctrica exterior. No se excluye la posibilidad de incluir, además, un sistema de frenado regenerativo que cargue las baterías durante las retenciones y frenadas. |
@@ -71,19 +72,7 @@ A efectos de este Reglamento, se considerarán las siguientes definiciones:
 | Vehículo de hidrógeno (HICEV) | Vehículo propulsado por motor(es) de combustión de hidrógeno. |
 | Vehículo de uso compartido | Vehículo destinado al alquiler sin conductor dedicado a su uso concatenado e intensivo por un número indeterminado de usuarios dentro de una zona de servicio delimitada. Estará disponible, en cualquier momento, para ser utilizado mediante el empleo de aplicaciones móviles. No se considerarán incluidos en esta definición aquellos vehículos destinados al alquiler sin conductor que no se dediquen exclusivamente a esa modalidad de alquiler. |
 
-> Téngase en cuenta que la última actualización del apartado A, establecida por el art. 2.6 del Real Decreto 970/2020, de 10 de noviembre, entra en vigor el 2 de enero de 2021, según determina su disposición final única. Ref. BOE-A-2020-13969#as
-
-> Redacción anterior:
-
-> "Vehículo de motor: Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías y los vehículos para personas de movilidad reducida."
-
-> "Bicicleta con pedaleo asistido: Bicicleta que utiliza un motor, con potencia no superior a 0,5 kw, como ayuda al esfuerzo muscular del conductor. Dicho motor deberá detenerse cuando se de cualquiera de los siguientes supuestos: – El conductor deja de pedalear. – La velocidad supera los 25 km/h."
-
-> "Cuatriciclo: Automóvil de cuatro ruedas cuya masa en vacío sea inferior o igual a 400 kg, ó 550 kg si se trata de vehículos destinados al transporte de mercancías, no incluida la masa de las baterías para los vehículos eléctricos, y cuya potencia máxima neta del motor sea inferior o igual a 15 kw. Los cuatriciclos tienen la consideración de vehículos de tres ruedas."
-
-> "Cuatriciclos ligeros: Vehículos de cuatro ruedas cuya masa en vacío sea inferior a 350 kg, no incluida la masa de las baterías en el caso de los vehículos eléctricos, cuya velocidad máxima por construcción no sea superior a 45 km/h, y con un motor de cilindrada inferior o igual a 50 cm3 para los motores de explosión, o cuya potencia máxima neta sea inferior o igual a 4 kw, para los demás tipos de motores."
-
-> Las nuevas definiciones de «Cuatriciclo ligero», «Cuatriciclo pesado», «Ciclo de motor» y «Vehículo de movilidad personal» entran en vigor el 2 de enero de 2021.
+> Se modifica por el art. único.1.a) de la Orden PJC/780/2025, de 21 de julio. Ref. BOE-A-2025-15231
 
 > Se modifica, con efectos de 2 de enero de 2021, por el art. 2.6 del Real Decreto 970/2020, de 10 de noviembre. Ref. BOE-A-2020-13969#as
 

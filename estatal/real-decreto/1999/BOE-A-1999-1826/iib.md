@@ -5,7 +5,7 @@
 | 01 Vehículo de tracción animal | Vehículo arrastrado por animales. |
 | --- | --- |
 | 02 Bicicleta | Es el ciclo de dos ruedas. |
-| 03 Ciclomotor | Vehículo de dos o tres ruedas provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h. Vehículo de cuatro ruedas cuya masa en vacío sea inferior a 350 kg, no incluida la masa de las baterías en el caso de los vehículos eléctricos, cuya velocidad máxima por construcción no sea superior a 45 km/h y con un motor de cilindrada inferior o igual a 50 cm3 para los motores de combustión interna, o cuya potencia máxima neta sea inferior o igual a 4 kw para los demás tipos de motores. |
+| 03 Ciclomotor | Vehículo de dos o tres ruedas provisto de un motor de cilindrada no superior a 50 cm³, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h. Vehículo de cuatro ruedas con un máximo de dos plazas incluyendo la del conductor, cuya masa en orden de marcha sea inferior o igual a 425 kg, no incluida la masa de las baterías en el caso de los vehículos eléctricos, cuya velocidad máxima por construcción no sea superior a 45 km/h y con un motor de cilindrada inferior o igual a 50 cm³ para los motores de explosión de encendido por chispa (positiva), o inferior o igual a 500 cm³ para los demás motores de combustión interna. La potencia máxima será inferior o igual a 4 kW, o a 6 kW, dependiendo de su categoría de homologación europea (Reglamento UE 168/2013). |
 | 04 Motocicleta | Automóvil de dos ruedas o con sidecar |
 | 05 Motocarro | Vehículo de tres ruedas dotado de caja o plataforma para el transporte de cosas. |
 | 06 Automóvil de tres ruedas | Vehículo de tres ruedas y cuatriciclos. |
@@ -46,8 +46,10 @@
 | 64 Máquina de servicios auto-motriz | Vehículo especial autopropulsado de dos o más ejes, concebido y construido para efectuar servicios determinados. |
 | 65 Máquina de servicios remolcada | Vehículo especial, concebido y construido para efectuar servicios determinados, y que, para trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor o máquina automotriz. |
 | 66 QUAD-ATV | Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy concretos, con utilización fundamentalmente fuera de carretera, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y dotado de un sistema de tracción adecuado al uso fuera de carretera y cuya velocidad puede estar limitada en función de sus características técnicas o uso. Se exceptúan de esta definición los vehículos incluidos en las categorías definidas en las Directivas europeas 92/61/CEE del Consejo, de 30 de junio de 1992, relativa a la recepción de los vehículos a motor de dos o tres ruedas, y 2002/24/CE del Parlamento Europeo y del Consejo, de 18 de marzo de 2002, relativa a la homologación de los vehículos a motor de dos o tres ruedas. |
-| 70 Militares. |  |
+| 70 Militares o de las Fuerzas y Cuerpos de Seguridad. | Vehículos especiales concebidos y construidos para las Fuerzas Armadas o para las Fuerzas y Cuerpos de Seguridad, que no se puedan incluir en el resto de categorías. |
 | 80 Tren turístico | Vehículo especial constituido por un vehículo tractor y uno o varios remolques, concebido y construido para el transporte de personas con fines turísticos, con velocidad máxima limitada y sujeto a las limitaciones de circulación que imponga la autoridad competente en materia de tráfico. |
+
+> Se modifican los apartados 03 y 70 por el art. único.1.b) de la Orden PJC/780/2025, de 21 de julio. Ref. BOE-A-2025-15231
 
 > Se añade el apartado 17 por el art. único.1.b) de la Orden PCI/810/2018, de 27 de julio. Ref. BOE-A-2018-10856
 
