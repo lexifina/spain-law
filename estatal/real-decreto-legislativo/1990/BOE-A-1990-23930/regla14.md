@@ -8,13 +8,13 @@ Se considera potencia instalada tributable la resultante de la suma de las poten
 
 No serán, por tanto, computables las potencias de los elementos dedicados a calefacción, iluminación, acondicionamiento de aire, instalaciones anticontaminantes, ascensores de personal, servicios sociales, sanitarios y, en general, todos aquellos que no estén directamente afectos a la producción, incluyendo los destinados a transformación y rectificación de energía eléctrica.
 
-Tampoco se considerarán a estos efectos los hornos y calderas que funcionen a base de combustibles sólidos, líquidos o gaseosos, ni los hornos y calderas eléctricos.
+Tampoco se considerarán a estos efectos los hornos y calderas que funcionen a base de combustibles sólidos, líquidos o gaseosos.
 
-La potencia fiscal en función de la cual se obtendrán las cuotas de la industria será el resultado matemático de reducir a kilovatios la totalidad de la potencia instalada computable, utilizando, en su caso, la equivalencia 1 CV = 0,736 kW.
+La potencia fiscal en función de la cual se obtendrán las cuotas de la industria será el resultado matemático de reducir a kilovatios la totalidad de la potencia instalada computable, utilizando, en su caso, la equivalencia 1 CV = 0,736 Kw.
 
 La potencia instalada en bancos de pruebas, plataformas de ensayo y similares se computará por el 10 por 100 de la potencia real instalada.
 
-Los equipos de reserva de las instalaciones fabriles no constituyen elemento tributario cuando se declaren como tales a la Administración tributaria.
+Los equipos de reserva de las instalaciones fabriles no constituyen elemento tributario cuando se declaren como tales a la Administración Tributaria.
 
 B) Número de obreros.
 
@@ -219,6 +219,8 @@ No será de aplicación la reducción antes fijada a la industria cuya cuota est
 5. Actividades de temporada o cuyos establecimientos permanezcan abiertos al público durante un periodo inferior al año.
 
 En las actividades de temporada o cuyos establecimientos permanezcan abiertos al público durante un periodo inferior al año, la presentación de la declaración de baja en la actividad será incompatible con la aplicación de las reducciones en la cuota previstas para tales supuestos en las Tarifas y en el apartado 1.F).b).2.º de la presente regla.
+
+> Se deja sin efecto la modificación del apartado 1.A) por Resolución de 22 de julio de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-15313
 
 > Se modifica el apartado 1.A) por el art. 23 del Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-12857#a2-5
 
