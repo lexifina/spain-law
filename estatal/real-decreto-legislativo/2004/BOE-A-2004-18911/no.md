@@ -1,1 +1,0 @@
-Véase la Resolución de 2 de febrero de 2021, de la Dirección General de Seguros y Fondos de Pensiones, Ref. BOE-A-2021-2639, por la que se actualizan las cuantías de las indemnizaciones para el año 2021 y se acuerda hacerlas públicas en su sitio web http://www.dgsfp.mineco.es/.

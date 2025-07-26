@@ -100,6 +100,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO I](ci-4.md)
 - [Artículo 65](a65.md)
 - [Artículo 66](a66.md)
+- [Artículo 66 bis](a6-2.md)
 - [Artículo 67](a67.md)
 - [CAPÍTULO II](cii-4.md)
 - [Sección 1](s1-4.md)
