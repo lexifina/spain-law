@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Racionalización del gasto y asistencia a reuniones.
+
+Cuando en el desarrollo de las funciones sindicales, de negociación, participación y representación, los representantes sindicales deban percibir dietas y gastos de locomoción por la asistencia a reuniones convocadas por la Administración, ésta y las centrales sindicales atenderán, en todo caso, a criterios de racionalidad, contención del gasto y adecuada organización de estas funciones de forma tal que se generen en el menor número y cuantía posible. La Administración podrá dictar instrucciones y orientaciones sobre indemnizaciones por razón del servicio en esta materia, a fin de racionalizar su financiación, evitar duplicidades y gastos innecesarios.

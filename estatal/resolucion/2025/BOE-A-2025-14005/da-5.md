@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Gestión de las dispensas y créditos horarios recogidos en el presente acuerdo.
+
+1. De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se habilitará una sede electrónica a fin de que las organizaciones sindicales puedan comunicarse electrónicamente con la Administración. A través de dicha sede y, previa habilitación e identificación en la misma, los representantes de las organizaciones sindicales podrán presentar solicitudes relativas a los derechos sindicales recogidos en el presente acuerdo, conocer el estado de la tramitación de las mismas y recibir notificaciones.
+
+2. Las organizaciones sindicales tendrán derecho a acceder a todos los datos contenidos en el Registro de Órganos de Representación de su propia organización sindical a través de la sede electrónica habilitada a tal fin. En tanto no se pueda consultar por este medio, tendrán derecho a obtener dicha información a través de las consultas al órgano competente de la anotación de los asientos registrales, y a través de la Dirección General de la Función Pública, en todo caso.
