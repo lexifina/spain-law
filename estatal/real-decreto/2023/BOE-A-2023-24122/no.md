@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 29 de julio de 2025, excepto lo dispuesto en el apartado 5 del art. 5, que permanecerá vigente hasta el 31 de diciembre de 2025, según establece la disposición derogatoria única del Real Decreto 676/2025, de 28 de julio. Ref. BOE-A-2025-15653#dd
