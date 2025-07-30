@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Ley 3/1991, de 10 de enero, de Competencia Desleal.
+
+Se modifica el apartado 4 del artículo 37, que queda redactado en los siguientes términos:
+
+> «4. La aplicación de estos códigos de conducta se encomendará a los sistemas de autorregulación, que se dotarán de órganos independientes de control para asegurar el cumplimiento eficaz de los compromisos asumidos por las empresas adheridas. Podrán incluir, entre otras, medidas colectivas de autocontrol previo de los contenidos publicitarios, y deberán establecer sistemas eficaces de resolución extrajudicial de reclamaciones que cumplan los requisitos establecidos en la normativa comunitaria y, como tales, sean notificados a la Comisión Europea, de conformidad con lo previsto en la Ley 7/2017, de 2 de noviembre, por la que se incorpora al ordenamiento jurídico español la Directiva 2013/11/UE, del Parlamento Europeo y del Consejo, de 21 de mayo de 2013, relativa a la resolución alternativa de litigios en materia de consumo, o cualquier disposición equivalente.»
