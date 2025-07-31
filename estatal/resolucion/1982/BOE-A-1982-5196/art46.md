@@ -52,11 +52,13 @@
 
 1ª. Reglamento.
 
-2ª. Estatuto de los Diputados.
+2ª. Estatuto.
 
 3ª. Peticiones.
 
 3. Las Comisiones Permanentes a que se refieren los apartados anteriores deberán constituirse dentro de los diez días siguientes a la sesión constitutiva del Congreso.
+
+> Se modifica el numeral 2.ª del apartado 2 por el art. único.48 de la Reforma del Reglamento de 22 de julio de 2025. Ref. BOE-A-2025-15844
 
 > Se modifica el apartado 1 por el art. único de la Reforma del Reglamento de 28 de noviembre de 2023. Ref. BOE-A-2023-24510
 

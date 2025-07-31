@@ -2,7 +2,7 @@
 
 1. Será aplicable a la Comisión de Peticiones lo establecido en el apartado 1 del artículo anterior.
 
-2. La Comisión examinará cada petición, individual o colectiva, que reciba el Congreso de los Diputados y podrá acordar su remisión, según proceda, por conducto del Presidente de la Cámara:
+2. La Comisión examinará cada petición, individual o colectiva, que reciba el Congreso y podrá acordar su remisión, según proceda, por conducto de la Presidencia de la Cámara:
 
 1º. Al Defensor del Pueblo.
 
@@ -12,4 +12,6 @@
 
 3. La Comisión también podrá acordar, si no procediere la remisión a que se refiere el apartado anterior, el archivo de la petición sin más trámites.
 
-4. En todo caso se acusará recibo de la petición y se comunicará al peticionario el acuerdo adoptado.
+4. En todo caso se acusará recibo de la petición y se comunicará a la persona peticionaria el acuerdo adoptado.
+
+> Se modifica el párrafo primero del apartado 2 y el apartado 4 por el art. único.51 de la Reforma del Reglamento de 22 de julio de 2025. Ref. BOE-A-2025-15844

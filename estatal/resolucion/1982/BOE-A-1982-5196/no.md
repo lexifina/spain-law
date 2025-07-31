@@ -1,0 +1,1 @@
+Téngase en cuenta que el Reglamento pasa a denominarse «Reglamento del Congreso de 10 de febrero de 1982», según establece el art. único.1 de la Reforma del Reglamento de 22 de julio de 2025. Ref. BOE-A-2025-15844

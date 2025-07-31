@@ -1,11 +1,13 @@
 ## Artículo 22.
 
-El Diputado perderá su condición de tal por las siguientes causas:
+El diputado o la diputada perderá su condición de tal por las siguientes causas:
 
-1º. Por decisión judicial firme que anule la elección o la proclamación del Diputado.
+1.º Por decisión judicial firme que anule su elección o su proclamación.
 
-2º. Por fallecimiento o incapacitación del Diputado, declarada ésta por decisión judicial firme.
+2.º Por fallecimiento o incapacitación, declarada ésta por decisión judicial firme.
 
-3º. Por extinción del mandato, al expirar su plazo o disolverse la Cámara, sin perjuicio de la prórroga en sus funciones de los miembros, titulares y suplentes, de la Diputación permanente, hasta la constitución de la nueva Cámara.
+3.º Por extinción del mandato, al expirar su plazo o disolverse la Cámara, sin perjuicio de la prórroga en sus funciones de los miembros, titulares y suplentes, de la Diputación Permanente, hasta la constitución de la nueva Cámara.
 
-4º. Por renuncia del Diputado, ante la Mesa del Congreso.
+4.º Por renuncia presentada ante la Mesa del Congreso.
+
+> Se modifica por el art. único.26 de la Reforma del Reglamento de 22 de julio de 2025. Ref. BOE-A-2025-15844

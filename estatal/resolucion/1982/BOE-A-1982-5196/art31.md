@@ -4,7 +4,7 @@
 
 1º. Adoptar cuantas decisiones y medidas requieran la organización del trabajo y el régimen y gobierno interiores de la Cámara.
 
-2º. Elaborar el proyecto de Presupuesto del Congreso de los Diputados, dirigir y controlar su ejecución y presentar ante el Pleno de la Cámara, al final de cada ejercicio, un informe acerca de su cumplimiento.
+2º. Elaborar el proyecto de Presupuesto del Congreso, dirigir y controlar su ejecución y presentar ante el Pleno de la Cámara, al final de cada ejercicio, un informe acerca de su cumplimiento.
 
 3º. Ordenar los gastos de la Cámara, sin perjuicio de las delegaciones que pueda acordar.
 
@@ -16,4 +16,6 @@
 
 7º. Cualesquiera otras que le encomiende el presente Reglamento y las que no estén atribuidas a un órgano específico.
 
-2. Si un Diputado o un Grupo Parlamentario discrepare de la decisión adoptada por la Mesa en el ejercicio de las funciones a que se refieren los puntos 4º y 5º del apartado anterior, podrá solicitar su reconsideración. La Mesa decidirá definitivamente, oída la Junta de Portavoces, mediante resolución motivada.
+2. Si un miembro de la Cámara o un grupo parlamentario discrepare de la decisión adoptada por la Mesa en el ejercicio de las funciones a que se refieren los puntos 4.º y 5.º del apartado anterior, podrá solicitar su reconsideración. La Mesa decidirá definitivamente, oída la Junta de Portavoces, mediante resolución motivada.
+
+> Se modifican los apartados 1.2º y 2 por el art. único.34 de la Reforma del Reglamento de 22 de julio de 2025. Ref. BOE-A-2025-15844

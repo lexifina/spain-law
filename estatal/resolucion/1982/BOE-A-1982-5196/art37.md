@@ -1,7 +1,9 @@
 ## Artículo 37.
 
-1. En la elección de Presidente, cada Diputado escribirá sólo un nombre en la papeleta. Resultará elegido el que obtenga el voto de la mayoría absoluta de los miembros de la Cámara. Si ninguno obtuviera en primera votación dicha mayoría, se repetirá la elección entre los que hayan alcanzado las dos mayores votaciones y resultará elegido el que obtenga más votos.
+1. En la elección de la Presidencia, se escribirá sólo un nombre en la papeleta. Resultará elegida la persona que obtenga el voto de la mayoría absoluta de los miembros de la Cámara. Si nadie obtuviera en primera votación dicha mayoría, se repetirá la elección entre quienes hayan alcanzado las dos mayores votaciones y se elegirá a quien obtenga más votos.
 
-2. Los cuatro Vicepresidentes se elegirán simultáneamente. Cada Diputado escribirá sólo un nombre en la papeleta. Resultarán elegidos, por orden sucesivo, los cuatro que obtengan mayor número de votos. En la misma forma serán elegidos los cuatro Secretarios.
+2. Las cuatro Vicepresidencias se elegirán simultáneamente. Se escribirá, asimismo, sólo un nombre en la papeleta. Resultarán elegidas, por orden sucesivo, las cuatro personas que obtengan mayor número de votos. En la misma forma serán elegidas las cuatro Secretarías.
 
-3. Si en alguna votación se produjere empate, se celebrarán sucesivas votaciones entre los candidatos igualados en votos hasta que el empate quede dirimido.
+3. Si en alguna votación se produjere empate, se celebrarán sucesivas votaciones entre las candidaturas igualadas en votos hasta que el empate quede dirimido.
+
+> Se modifica por el art. único.41 de la Reforma del Reglamento de 22 de julio de 2025. Ref. BOE-A-2025-15844
