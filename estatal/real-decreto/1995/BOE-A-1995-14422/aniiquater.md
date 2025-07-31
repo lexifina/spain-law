@@ -468,23 +468,29 @@ b) Categoría inicial.
 
 Muestreo y ensayo.
 
-Toda planta madre inicial será objeto de muestreo y ensayo quince años después de su aceptación como planta madre inicial, y posteriormente cada quince años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de las enfermedades similares a las víricas y de los viroides y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+Toda planta madre inicial será objeto de muestreo y ensayo quince años después de su aceptación como planta madre inicial, y posteriormente cada quince años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de las enfermedades similares a las víricas y de los viroides y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925 de la Comisión, se aplicarán los siguientes requisitos relativos a Candidatus Phytoplasma mali Seemüller & Schneider y Erwinia amylovora (Burrill) Winslow et al.:
+En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925 de la Comisión, se aplicarán los siguientes requisitos relativos a Candidatus Phytoplasma mali Seemüller & Schneider, Erwinia amylovora (Burrill) Winslow et al. y al virus de la mancha anular del tomate:
 
-i) Candidatus Phytoplasma mali Seemüller & Schneider.
+i) Candidatus Phytoplasma mali Seemüller & Schneider:
 
-– Los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
 
-ii) Erwinia amylovora (Burrill) Winslow et al.
+ii) Erwinia amylovora (Burrill) Winslow et al.:
 
-– Los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
 
-– Durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+– durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
 
 c) Categoría de base.
 
@@ -492,21 +498,29 @@ Muestreo y ensayo.
 
 Una porción representativa de las plantas madre de base que se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada quince años en relación con la presencia de Candidatus Phytoplasma mali Seemüller & Schneider.
 
-Una porción representativa de las plantas madre de base que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada tres años en relación con la presencia de Candidatus Phytoplasma mali Seemüller & Schneider; una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de Candidatus Phytoplasma mali Seemüller & Schneider y distintas de las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+Una porción representativa de las plantas madre de base que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada tres años en relación con la presencia de Candidatus Phytoplasma mali Seemüller & Schneider, una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de Candidatus Phytoplasma mali Seemüller & Schneider y distintas del virus de la mancha anular del tomate, las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Las plantas madre de base serán objeto de muestreo y ensayo cada veinte años en relación con la presencia del virus de la mancha anular del tomate.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) Candidatus Phytoplasma mali Seemüller & Schneider.
+i) Candidatus Phytoplasma mali Seemüller & Schneider:
 
-– Los materiales de reproducción y los plantones de la categoría de base se producirán en áreas de las que se tenga constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
+– los materiales de reproducción y los plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
 
-– Durante la última temporada de crecimiento completa, no se habrán observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y los plantones de la categoría de base del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+– durante la última temporada de crecimiento completa, no se habrán observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y los plantones de frutal de la categoría de base del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
 
-ii) Erwinia amylovora (Burrill) Winslow et al.
+ii) Erwinia amylovora (Burrill) Winslow et al.:
 
-– Los materiales de reproducción y los plantones de la categoría de base se producirán en áreas de las que se tenga constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
+– los materiales de reproducción y los plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
 
-– Durante la última temporada de crecimiento completa, se habrán inspeccionado los materiales de reproducción y los plantones de la categoría de base en el sitio de producción, y se habrán arrancado y destruido inmediatamente todos los materiales de reproducción y los plantones que presentaran síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+– durante la última temporada de crecimiento completa, se habrán inspeccionado los materiales de reproducción y los plantones de frutal de la categoría de base en el sitio de producción, y se habrán arrancado y destruido inmediatamente todos los materiales de reproducción y los plantones de frutal que presentaran síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
 
 d) Categoría certificada.
 
@@ -514,47 +528,63 @@ Muestreo y ensayo.
 
 Una porción representativa de las plantas madre certificadas que se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada quince años en relación con la presencia de Candidatus Phytoplasma mali Seemüller & Schneider.
 
-Una porción representativa de las plantas madre certificadas que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada cinco años en relación con la presencia de Candidatus Phytoplasma mali Seemüller & Schneider; una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de Candidatus Phytoplasma mali Seemüller & Schneider y distintas de las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+Una porción representativa de las plantas madre certificadas que no se hayan mantenido en instalaciones a prueba de insectos será objeto de muestreo y ensayo cada cinco años en relación con la presencia de Candidatus Phytoplasma mali Seemüller & Schneider; una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo cada quince años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de Candidatus Phytoplasma mali Seemüller & Schneider y distintas del virus de la mancha anular del tomate, las enfermedades similares a las víricas y de los viroides, así como en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
 
-Los plantones de frutal certificados serán objeto de muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+Las plantas madre certificadas serán objeto de muestreo y ensayo cada veinte años en relación con la presencia del virus de la mancha anular del tomate.
+
+Los plantones de frutal certificados serán objeto de muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) Candidatus Phytoplasma mali Seemüller & Schneider.
+i) Candidatus Phytoplasma mali Seemüller & Schneider:
 
-– Los materiales de reproducción y los plantones de la categoría certificada se producirán en áreas de las que se tenga constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
+– los materiales de reproducción y los plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
 
-– Durante la última temporada de crecimiento completa, no se habrán observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y los plantones de la categoría certificada del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa, no se habrán observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y los plantones de frutal de la categoría certificada del sitio de producción, y se habrán arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa, no se habrán observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en más del 2 % de los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, se habrán arrancado y destruido inmediatamente esos materiales y plantones, así como todos los vegetales sintomáticos de las inmediaciones, y se habrá sometido a ensayo una muestra representativa de los materiales de reproducción y los plantones de frutal asintomáticos que quedaran en los lotes en los que se encontraron los materiales y los plantones sintomáticos; deberá constatarse que esta muestra está libre de Candidatus Phytoplasma mali Seemüller & Schneider;
+– durante la última temporada de crecimiento completa, no se habrán observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en más del 2 % de los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, se habrán arrancado y destruido inmediatamente esos materiales y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y se habrá sometido a ensayo una muestra representativa de los materiales de reproducción y los plantones de frutal asintomáticos que quedaran en los lotes en los que se encontraron los materiales y los plantones sintomáticos; deberá constatarse que esta muestra está libre de Candidatus Phytoplasma mali Seemüller & Schneider;
 
-ii) Erwinia amylovora (Burrill) Winslow et al.
+ii) Erwinia amylovora (Burrill) Winslow et al.:
 
-– Los materiales de reproducción y los plantones de frutal de la categoría certificada se producirán en áreas de las que se tenga constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
+– los materiales de reproducción y los plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
 
-– Durante la última temporada de crecimiento completa, se habrán inspeccionado los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, y se habrán arrancado y destruido inmediatamente todos los materiales de reproducción y los plantones de frutal que presentaran síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+– durante la última temporada de crecimiento completa, se habrán inspeccionado los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, y se habrán arrancado y destruido inmediatamente todos los materiales de reproducción y los plantones de frutal que presentaran síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
 
 e) Categoría CAC.
 
 Muestreo y ensayo.
 
-Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) Candidatus Phytoplasma mali Seemüller & Schneider.
+i) Candidatus Phytoplasma mali Seemüller & Schneider:
 
-– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma mali Seemüller & Schneider, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre de Candidatus Phytoplasma mali Seemüller & Schneider;
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma mali Seemüller & Schneider en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre de Candidatus Phytoplasma mali Seemüller & Schneider;
 
-ii) Erwinia amylovora (Burrill) Winslow et al.
+ii) Erwinia amylovora (Burrill) Winslow et al.:
 
-– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
+– los materiales de reproducción y los plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Erwinia amylovora (Burrill) Winslow et al., o
 
-– Durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones.
+– durante la última temporada de crecimiento completa se han inspeccionado los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todos los materiales de reproducción y plantones de frutal que presentaban síntomas de Erwinia amylovora (Burrill) Winslow et al., así como todas las plantas hospedadoras de las inmediaciones;
+
+iii) Virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas.
 
 9. Olea europaea L.
 
@@ -604,7 +634,7 @@ a) Categoría inicial.
 
 Inspección visual.
 
-Se llevarán a cabo inspecciones visuales dos veces al año en relación con Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus de la viruela del ciruelo, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. y Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie (Prunus persica (L.) Batsch y Prunus salicina Lindley). Se llevarán a cabo inspecciones visuales una vez al año en relación con todas las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus de la viruela del ciruelo, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. y Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie.
+Se llevarán a cabo inspecciones visuales dos veces al año en relación con Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus de la viruela del ciruelo, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. y Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie [Prunus persica (L.) Batsch y Prunus salicina Lindley]. Se llevarán a cabo inspecciones visuales una vez al año en relación con todas las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus de la viruela del ciruelo, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. y Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie.
 
 Muestreo y ensayo.
 
@@ -612,43 +642,55 @@ Los materiales de reproducción y plantones de frutal de la categoría inicial d
 
 Los portainjertos iniciales de Prunus cerasifera Ehrh. y Prunus domestica L. se obtendrán de plantas madre que hayan sido sometidas a ensayo en la temporada de crecimiento anterior y se hayan considerado libres del virus de la viruela del ciruelo. Los portainjertos iniciales de Prunus cerasifera Ehrh. y Prunus domestica L. se obtendrán de plantas madre que hayan sido sometidas a ensayo en las cinco temporadas de crecimiento anteriores y se hayan considerado libres de Candidatus Phytoplasma prunorum Seemüller & Schneider.
 
-Toda planta madre inicial a la que se permita la floración será objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus un año después de su aceptación como planta madre inicial, y posteriormente cada año. Toda planta madre inicial de Prunus persica a la que se permita la floración será objeto de muestreo un año después de su aceptación como planta madre inicial y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero. Todo árbol plantado deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus.
+Toda planta madre inicial a la que se permita la floración será objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus un año después de su aceptación como planta madre inicial, y posteriormente cada año. Toda planta madre inicial de Prunus persica a la que se permita la floración será objeto de muestreo un año después de su aceptación como planta madre inicial y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero.
 
-Toda planta madre inicial será objeto de muestreo cinco años después de su aceptación como planta madre inicial, y posteriormente cada cinco años, y se someterá a ensayo en relación con Candidatus Phytoplasma prunorum Seemüller & Schneider y el virus de la viruela del ciruelo. Toda planta madre inicial será objeto de muestreo diez años después de su aceptación como planta madre inicial, y posteriormente cada diez años, y se someterá a ensayo en relación con las plagas reguladas no cuarentenarias pertinentes para las especies y enumeradas en el anexo II distintas del virus del enanismo del ciruelo, el virus de la viruela del ciruelo y el virus de los anillos necróticos de Prunus y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I. Una porción representativa de las plantas madre iniciales se someterá a muestreo y ensayo en caso de dudas relativas a la presencia de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+Todo árbol plantado deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus.
+
+Toda planta madre inicial será objeto de muestreo cinco años después de su aceptación como planta madre inicial, y posteriormente cada cinco años, y se someterá a ensayo en relación con Candidatus Phytoplasma prunorum Seemüller & Schneider y el virus de la viruela del ciruelo.
+
+Toda planta madre inicial será objeto de muestreo diez años después de su aceptación como planta madre inicial, y posteriormente cada diez años, y se someterá a ensayo en relación con las plagas reguladas no cuarentenarias pertinentes para la especie y enumeradas en el anexo II bis distintas del virus del enanismo del ciruelo, el virus de la viruela del ciruelo y el virus de los anillos necróticos de Prunus, y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I. Una porción representativa de las plantas madre iniciales será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925 de la Comisión, se aplicarán los siguientes requisitos relativos a Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus de la viruela del ciruelo, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. y Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie:
+En caso de que se autorice una excepción para producir materiales iniciales en el campo en condiciones que no sean a prueba de insectos, de conformidad con la Decisión de Ejecución (UE) 2017/925, se aplicarán los siguientes requisitos relativos a Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus de la viruela del ciruelo, Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie y el virus de la mancha anular del tomate:
 
-i) Candidatus Phytoplasma prunorum Seemüller & Schneider.
+i) Candidatus Phytoplasma prunorum Seemüller & Schneider:
 
-– Los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma prunorum Seemüller & Schneider, o
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma prunorum Seemüller & Schneider, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Los materiales de reproducción y los plantones de frutal de la categoría inicial en el sitio de producción están aislados de otras plantas hospedadoras; la distancia de aislamiento del sitio de producción depende de las circunstancias regionales, el tipo de materiales de reproducción, la presencia de Candidatus Phytoplasma prunorum Seemüller & Schneider en el área en cuestión y los riesgos pertinentes existentes según determinen las autoridades competentes sobre la base de una inspección;
+– los materiales de reproducción y los plantones de frutal de la categoría inicial en el sitio de producción están aislados de otras plantas hospedadoras; la distancia de aislamiento del sitio de producción depende de las circunstancias regionales, el tipo de materiales de reproducción, la presencia de Candidatus Phytoplasma prunorum Seemüller & Schneider en el área en cuestión y los riesgos pertinentes existentes según determinen las autoridades competentes sobre la base de una inspección;
 
-ii) Virus de la viruela del ciruelo.
+ii) Virus de la viruela del ciruelo:
 
-– Los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Los materiales de reproducción y los plantones de frutal de la categoría inicial en el sitio de producción están aislados de otras plantas hospedadoras; la distancia de aislamiento del sitio de producción depende de las circunstancias regionales, el tipo de materiales de reproducción, la presencia del virus de la viruela del ciruelo en el área en cuestión y los riesgos pertinentes existentes según determinen las autoridades competentes sobre la base de una inspección;
+– los materiales de reproducción y los plantones de frutal de la categoría inicial en el sitio de producción están aislados de otras plantas hospedadoras; la distancia de aislamiento del sitio de producción depende de las circunstancias regionales, el tipo de materiales de reproducción, la presencia del virus de la viruela del ciruelo en el área en cuestión y los riesgos pertinentes existentes según determinen las autoridades competentes sobre la base de una inspección;
 
-iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie.
+iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie:
 
-– Los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie, o
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
+– durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
 
-iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+iv) Virus de la mancha anular del tomate:
 
-– Los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., o
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
 
-b) Categorías de base, certificada y CAC. Inspección visual.
+v) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.:
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
+
+b) Categorías de base, certificada y CAC.
+
+Inspección visual.
 
 Se llevarán a cabo inspecciones visuales una vez al año.
 
@@ -664,15 +706,23 @@ ii) Plantas madre que no se han mantenido en instalaciones a prueba de insectos.
 
 Una porción representativa de las plantas madre de base distintas de las destinadas a la producción de portainjertos será objeto de muestreo cada año y se someterá a ensayo en relación con el virus de la viruela del ciruelo, con el fin de que todas las plantas hayan sido sometidas a ensayo en un intervalo de diez años.
 
-Una porción representativa de las plantas madre de base destinadas a la producción de portainjertos será objeto de muestreo cada año, se someterá a ensayo en relación con la presencia del virus de la viruela del ciruelo y se considerará libre de esa plaga regulada no cuarentenaria. Una porción representativa de las plantas madre de base de Prunus domestica L. destinadas a la producción de portainjertos habrá sido objeto de muestreo y ensayo en las cinco temporadas de crecimiento anteriores en relación con la presencia de Candidatus Phytoplasma prunorum Seemüller & Schneider y se considera libre de esa plaga regulada no cuarentenaria.
+Una porción representativa de las plantas madre de base destinadas a la producción de portainjertos será objeto de muestreo cada año, se someterá a ensayo en relación con la presencia del virus de la viruela del ciruelo y se considerará libre de esa plaga regulada no cuarentenaria.
 
-Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada diez años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo, el virus de los anillos necróticos de Prunus y el virus de la viruela del ciruelo, y se someterá a ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+Una porción representativa de las plantas madre de base de Prunus domestica L. destinadas a la producción de portainjertos habrá sido objeto de muestreo y ensayo en las cinco temporadas de crecimiento anteriores en relación con la presencia de Candidatus Phytoplasma prunorum Seemüller & Schneider y se considera libre de esa plaga regulada no cuarentenaria.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada veinte años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia del virus de la mancha anular del tomate.
+
+Una porción representativa de las plantas madre de base será objeto de muestreo y ensayo cada diez años, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo, el virus de los anillos necróticos de Prunus, el virus de la viruela del ciruelo y el virus de la mancha anular del tomate, y se someterá a ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
 
 – Plantas madre a las que se permite la floración.
 
 Una porción representativa de las plantas madre de base a las que se permite la floración será objeto de muestreo cada año y se someterá a ensayo en relación con Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas.
 
-Una porción representativa de las plantas madre de base de Prunus persica (L.) Batsch a las que se permite la floración será objeto de muestreo una vez al año y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero sobre la base de una evaluación del riesgo de infección de dichas plantas. Una porción representativa de los árboles plantados deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas.
+Una porción representativa de las plantas madre de base de Prunus persica (L.) Batsch a las que se permite la floración será objeto de muestreo una vez al año y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+Una porción representativa de los árboles plantados deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas.
 
 – Plantas madre a las que no se permite la floración.
 
@@ -692,51 +742,63 @@ Una porción representativa de las plantas madre certificadas será objeto de mu
 
 Una porción representativa de las plantas madre certificadas destinadas a la producción de portainjertos será objeto de muestreo cada año y se someterá a ensayo en relación con la presencia del virus de la viruela del ciruelo y se considerará libre de esa plaga regulada no cuarentenaria. Una porción representativa de las plantas madre certificadas de Prunus cerasifera Ehrh. y Prunus domestica L. destinadas a la producción de portainjertos habrá sido objeto de muestreo en las cinco temporadas de crecimiento anteriores y se habrá sometido a ensayo en relación con la presencia de Candidatus Phytoplasma prunorum Seemüller & Schneider y considerado libre de esa plaga regulada no cuarentenaria.
 
-Una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. Una porción representativa de las plantas madre certificadas será objeto de muestreo cada quince años y se someterá a ensayo, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo, el virus de los anillos necróticos de Prunus y el virus de la viruela del ciruelo, y se someterá a ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+Una porción representativa de las plantas madre certificadas será objeto de muestreo y ensayo en caso de dudas relativas a la presencia de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo cada veinte años y se someterá a ensayo, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia del virus de la mancha anular del tomate.
+
+Una porción representativa de las plantas madre certificadas será objeto de muestreo cada quince años y se someterá a ensayo, sobre la base de una evaluación del riesgo de infección de dichas plantas, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo, el virus de los anillos necróticos de Prunus, el virus de la viruela del ciruelo y el virus de la mancha anular del tomate, y se someterá a ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
 
 – Plantas madre a las que se permite la floración.
 
-Una porción representativa de las plantas madre certificadas a las que se permite la floración será objeto de muestreo cada año y se someterá a ensayo en relación con Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas. Una porción representativa de las plantas madre certificadas de Prunus persica (L.) Batsch a las que se permite la floración será objeto de muestreo una vez al año y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero sobre la base de una evaluación del riesgo de infección de dichas plantas. Una porción representativa de los árboles plantados deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas.
+Una porción representativa de las plantas madre certificadas a las que se permite la floración será objeto de muestreo cada año y se someterá a ensayo en relación con Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas. Una porción representativa de las plantas madre certificadas de Prunus persica (L.) Batsch a las que se permite la floración será objeto de muestreo una vez al año y se someterá a ensayo en relación con el viroide del mosaico latente del melocotonero sobre la base de una evaluación del riesgo de infección de dichas plantas.
+
+Una porción representativa de los árboles plantados deliberadamente para polinización y, cuando proceda, los principales árboles polinizadores del entorno serán objeto de muestreo y ensayo en relación con el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas.
 
 – Plantas madre a las que no se permite la floración.
 
-Una porción representativa de las plantas madre certificadas a las que no se permite la floración y que no se han mantenido en instalaciones a prueba de insectos será objeto de muestreo cada tres años y se someterá a ensayo en relación con la presencia de Candidatus Phytoplasma prunorum, el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas.
+Una porción representativa de las plantas madre certificadas a las que no se permite la floración y que no se han mantenido en instalaciones a prueba de insectos será objeto de muestreo cada tres años y se someterá a ensayo en relación con la presencia de Candidatus Phytoplasma prunorum Seemüller & Schneider, el virus del enanismo del ciruelo y el virus de los anillos necróticos de Prunus sobre la base de una evaluación del riesgo de infección de dichas plantas.
 
 e) Categorías de base y certificada.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) Candidatus Phytoplasma prunorum Seemüller & Schneider.
+i) Candidatus Phytoplasma prunorum Seemüller & Schneider:
 
 – los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma prunorum Seemüller & Schneider, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron las plantas sintomáticas ha sido sometida a ensayo y se ha considerado libre de Candidatus Phytoplasma prunorum Seemüller & Schneider;
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los plantas sintomáticas ha sido sometida a ensayo y se ha considerado libre de Candidatus Phytoplasma prunorum Seemüller & Schneider;
 
-ii) Virus de la viruela del ciruelo.
+ii) Virus de la viruela del ciruelo:
 
-– Los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron las plantas sintomáticas ha sido sometida a ensayo y se ha considerado libre del virus de la viruela del ciruelo
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron las plantas sintomáticas ha sido sometida a ensayo y se ha considerado libre del virus de la viruela del ciruelo;
 
-iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie.
+iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie:
 
-– Los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie, o
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
+– durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
 
-iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+iv) Virus de la mancha anular del tomate:
 
-– Los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., o
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+v) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.:
+
+– los materiales de reproducción y plantones de frutal de las categorías de base y certificada se producen en áreas de las que se tiene constancia que están libres de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en los materiales de reproducción y plantones de frutal de las categorías de base y certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
 
 f) Categoría CAC.
 
@@ -752,43 +814,49 @@ Una porción representativa de los plantones de frutal CAC que no presenten ning
 
 A raíz de la detección, mediante inspección visual, de materiales de reproducción y plantones de frutal de la categoría CAC que presenten síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en el sitio de producción, una porción representativa de los materiales de reproducción y plantones de frutal de la categoría CAC asintomáticos que queden en los lotes en los que se han encontrado los materiales de reproducción y plantones de frutal sintomáticos será objeto de muestreo y ensayo en relación con la presencia de Candidatus Phytoplasma prunorum Seemüller & Schneider.
 
-Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider y el virus de la viruela del ciruelo.
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas de Candidatus Phytoplasma prunorum Seemüller & Schneider y el virus de la viruela del ciruelo.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) Candidatus Phytoplasma prunorum Seemüller & Schneider.
+i) Candidatus Phytoplasma prunorum Seemüller & Schneider:
 
-– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma prunorum Seemüller & Schneider, o
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Candidatus Phytoplasma prunorum Seemüller & Schneider, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre de Candidatus Phytoplasma prunorum Seemüller & Schneider, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Candidatus Phytoplasma prunorum Seemüller & Schneider en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre de Candidatus Phytoplasma prunorum Seemüller & Schneider;
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie ni de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
+ii) Virus de la viruela del ciruelo:
 
-ii) Virus de la viruela del ciruelo.
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
 
-– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la viruela del ciruelo, o
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre del virus de la viruela del ciruelo;
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas del virus de la viruela del ciruelo en más del 1 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones, y una muestra representativa de los materiales de reproducción y plantones de frutal asintomáticos que quedaban en los lotes en los que se encontraron los materiales de reproducción y plantones de frutal sintomáticos ha sido sometida a ensayo y se ha considerado libre del virus de la viruela del ciruelo;
+iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie:
 
-iii) Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie.
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie, o
 
-– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Pseudomonas syringae pv. persicae (Prunier, Luisetti &. Gardan) Young, Dye & Wilkie en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones;
+iv) Virus de la mancha anular del tomate:
 
-iv) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus de la mancha anular del tomate, o
 
-– Los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., o
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus de la mancha anular del tomate en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas;
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+v) Xanthomonas arboricola pv. pruni (Smith) Vauterin et al.:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de Xanthomonas arboricola pv. pruni (Smith) Vauterin et al. en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
 
 12. Pyrus L.
 
@@ -920,7 +988,13 @@ Se llevarán a cabo inspecciones visuales dos veces al año.
 
 Muestreo y ensayo.
 
-Toda planta madre inicial será objeto de muestreo y ensayo dos años después de su aceptación como planta madre inicial, y posteriormente cada dos años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+Toda planta madre inicial será objeto de muestreo y ensayo dos años después de su aceptación como planta madre inicial, y posteriormente cada dos años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+
+Requisitos relativos al sitio de producción, el lugar de producción o el área.
+
+– los materiales de reproducción y plantones de frutal de la categoría inicial se producen en áreas de las que se tiene constancia que están libres de los virus enumerados en el anexo II bis en relación con Rubus L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de ninguna de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis en relación con Rubus L. en los materiales de reproducción y plantones de frutal de la categoría inicial en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones;
 
 b) Categoría de base.
 
@@ -932,25 +1006,29 @@ En el caso de los materiales de reproducción y plantones de frutal producidos p
 
 Muestreo y ensayo.
 
-Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate.
+Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) En caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría de base que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate den un resultado positivo, se arrancan y destruyen inmediatamente los materiales de reproducción y plantones de frutal afectados;
+i) en caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría de base que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate den un resultado positivo, se arrancarán y destruirán inmediatamente los materiales de reproducción y plantones de frutal afectados;
 
-ii) Requisitos aplicables a las plagas reguladas no cuarentenarias distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa y el virus de la mancha negra del tomate:
+ii) requisitos aplicables a las plagas reguladas no cuarentenarias distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate y el virus de la mancha anular del tomate:
 
-Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no excedió de:
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
 
 – 0,1 % en el caso de:
 
-Agrobacterium spp. Conn.,
+Agrobacterium spp. Conn., y
 
-Rhodococcus fascians Tilford, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones; y
+Rhodococcus fascians Tilford, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
 
-iii) Requisitos para todos los virus:
+iii) requisitos para todos los virus:
 
-Durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II en más del 0,25 % de los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de los virus enumerados en el anexo II bis en relación con Rubus L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de los virus enumerados en el anexo II bis en relación con Rubus L. en los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II bis en más del 0,25 % de los materiales de reproducción y plantones de frutal de la categoría de base en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
 
 c) Categoría certificada.
 
@@ -960,27 +1038,31 @@ Se llevarán a cabo inspecciones visuales una vez al año.
 
 Muestreo y ensayo.
 
-Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate.
+Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) En caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría certificada que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate den un resultado positivo, se arrancan y destruyen inmediatamente los materiales de reproducción y plantones de frutal afectados;
+i) en caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría certificada que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate den un resultado positivo, se arrancarán y destruirán inmediatamente los materiales de reproducción y plantones de frutal afectados;
 
-ii) Requisitos aplicables a las plagas reguladas no cuarentenarias distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa y el virus de la mancha negra del tomate:
+ii) requisitos aplicables a las plagas reguladas no cuarentenarias distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate y el virus de la mancha anular del tomate:
 
-Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no excedió de:
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
 
 – 0,5 % en el caso de Resseliella theobaldi Barnes,
 
-– 1 % en el caso de:
+– 0,1 % en el caso de:
 
-Agrobacterium spp. Conn.,
+Agrobacterium spp. Conn., y
 
 Rhodococcus fascians Tilford, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
 
-iii) Requisitos para todos los virus:
+iii) requisitos para todos los virus:
 
-Durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II en más del 0,5 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
+– los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de los virus enumerados en el anexo II bis en relación con Rubus L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de los virus enumerados en el anexo II bis en relación con Rubus L. en los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de ninguno de los virus enumerados en los anexos I y II bis en más del 0,5 % de los materiales de reproducción y plantones de frutal de la categoría certificada en el sitio de producción, y se han arrancado y destruido inmediatamente esos materiales de reproducción y plantones de frutal, así como todas las plantas sintomáticas de las inmediaciones.
 
 d) Categoría CAC.
 
@@ -990,11 +1072,17 @@ Se llevarán a cabo inspecciones visuales una vez al año.
 
 Muestreo y ensayo.
 
-Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate.
+Se procederá a muestreo y ensayo cuando los síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate no estén claros mediante inspección visual. Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis distintas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa y el virus de la mancha negra del tomate y el virus de la mancha anular del tomate.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-En caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría CAC que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa o el virus de la mancha negra del tomate den un resultado positivo, se arrancan y destruyen inmediatamente los materiales de reproducción y plantones de frutal afectados.
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis en relación con Rubus L., o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis en relación con Rubus L. en los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y
+
+– en el caso de los síntomas del virus de la mancha anular del tomate, durante la última temporada de crecimiento completa no se han observado dichos síntomas en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas, y
+
+– en caso de que los ensayos de los materiales de reproducción y plantones de frutal de la categoría CAC que presenten síntomas del virus del mosaico del Arabis, el virus de las manchas anulares del frambueso, el virus latente de las manchas anulares de la fresa, el virus de la mancha negra del tomate o el virus de la mancha anular del tomate den un resultado positivo, se arrancarán y destruirán inmediatamente los materiales de reproducción y plantones de frutal afectados.
 
 15. Vaccinium L.
 
@@ -1002,43 +1090,53 @@ a) Categoría inicial.
 
 Inspección visual.
 
-Se llevarán a cabo inspecciones visuales dos veces al año. Muestreo y ensayo.
+Se llevarán a cabo inspecciones visuales dos veces al año.
 
-Toda planta madre inicial será objeto de muestreo y ensayo cinco años después de su aceptación como planta madre inicial, y posteriormente cada cinco años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
+Muestreo y ensayo.
+
+Toda planta madre inicial será objeto de muestreo y ensayo cinco años después de su aceptación como planta madre inicial, y posteriormente cada cinco años, en relación con la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo II bis y en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en el anexo I.
 
 b) Categoría de base.
 
 Inspección visual.
 
-Se llevarán a cabo inspecciones visuales dos veces al año. Muestreo y ensayo.
+Se llevarán a cabo inspecciones visuales dos veces al año.
 
-Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+Muestreo y ensayo.
+
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
 i) Agrobacterium tumefaciens (Smith & Townsend) Conn.
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Agrobacterium tumefaciens (Smith & Townsend) Conn en el sitio de producción;
+– durante la última temporada de crecimiento completa no se han observado síntomas de Agrobacterium tumefaciens (Smith & Townsend) Conn en el sitio de producción;
 
 ii) Diaporthe vaccinii Shear.
 
-– Los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de Diaporthe vaccinii Shear, o
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres de Diaporthe vaccinii Shear, o
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Diaporthe vaccinii Shear en el sitio de producción;
+– durante la última temporada de crecimiento completa no se han observado síntomas de Diaporthe vaccinii Shear en el sitio de producción;
 
 iii) Exobasidium vaccinii (Fuckel) Woronin y Godronia cassandrae (anamorfo Topospora myrtilli) Peck.
 
-– Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no excedió de:
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría de base con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
 
 • 0,1 % en el caso de Godronia cassandrae (anamorfo Topospora myrtilli) Peck,
 
-• 0,5 % en el caso de Exobasidium vaccinii (Fuckel) Woronin, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones.
+• 0,5 % en el caso de Exobasidium vaccinii (Fuckel) Woronin, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
 
 iv) Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
 
-– Los materiales de reproducción y los plantones de frutal de la categoría de base se producirán en áreas que las autoridades competentes hayan considerado libres de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+– los materiales de reproducción y los plantones de frutal de la categoría de base se producen en áreas que las autoridades competentes hayan considerado libres de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
 
-– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría de base, en el sitio de producción.
+– durante el último ciclo de vegetación completo, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría de base, en el sitio de producción;
+
+v) Virus del mosaico anular del tabaco y virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres del virus del mosaico anular del tabaco y del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
 
 c) Categorías certificada y CAC.
 
@@ -1048,83 +1146,99 @@ Se llevarán a cabo inspecciones visuales una vez al año.
 
 Muestreo y ensayo.
 
-Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II.
+Se procederá a muestreo y ensayo en caso de dudas relativas a la presencia de las plagas reguladas no cuarentenarias enumeradas en los anexos I y II bis.
 
 d) Categoría certificada.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-i) Diaporthe vaccinii Shear.
+i) Agrobacterium tumefaciens (Smith & Townsend) Conn, Exobasidium vaccinii (Fuckel) Woronin y Godronia cassandrae (anamorfo Topospora myrtilli) Peck:
 
-– Los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de Diaporthe vaccinii Shear, o
+– durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no habrá excedido de:
 
-– Durante la última temporada de crecimiento completa no se han observado síntomas de Diaporthe vaccinii Shear en el sitio de producción;
+• 0,5 % en el caso de:
 
-ii) Agrobacterium tumefaciens (Smith & Townsend) Conn, Exobasidium vaccinii (Fuckel) Woronin y Godronia cassandrae (anamorfo Topospora myrtilli) Peck.
+Agrobacterium tumefaciens (Smith & Townsend) Conn,
 
-– Durante la última temporada de crecimiento completa, el porcentaje de materiales de reproducción y plantones de frutal de la categoría certificada con síntomas de las siguientes plagas reguladas no cuarentenarias en el sitio de producción no excedió de:
+Godronia cassandrae (anamorfo Topospora myrtilli) Peck,
 
-– 0,5 % en el caso de:
+– 1 % en el caso de Exobasidium vaccinii (Fuckel) Woronin, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones;
 
-Agrobacterium tumefaciens (Smith & Townsend) Conn.
+ii) Diaporthe vaccinii Shear:
 
-Godronia cassandrae (anamorfo Topospora myrtilli).
+– los materiales de reproducción y plantones de frutal de la categoría certificada se producen en áreas de las que se tiene constancia que están libres de Diaporthe vaccinii Shear, o
 
-– 1 % en el caso de Exobasidium vaccinii (Fuckel) Woronin, y se han arrancado y destruido esos materiales de reproducción y plantones de frutal, así como todas las plantas hospedadoras de las inmediaciones.
+– durante la última temporada de crecimiento completa no se han observado síntomas de Diaporthe vaccinii Shear en el sitio de producción;
 
 iii) Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
 
-– Los materiales de reproducción y los plantones de frutal de la categoría certificada se producirán en áreas que las autoridades competentes hayan considerado libres de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+– los materiales de reproducción y los plantones de frutal de la categoría certificada se producirán en áreas que las autoridades competentes hayan considerado libres de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
 
-– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría certificada, en el sitio de producción, o
+– durante el último ciclo de vegetación completo, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría certificada en el sitio de producción, o
 
-• Se habrán arrancado y eliminado los materiales de reproducción y los plantones de frutal de la categoría certificada que presentaran síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en el sitio de producción, así como todos los vegetales presentes en un radio de 2 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, incluida la tierra adherida, y
+– se habrán arrancado y destruido los materiales de reproducción y los plantones de frutal de la categoría certificada que presentaran síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en el sitio de producción, así como todos los vegetales presentes en un radio de 2 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, incluida la tierra adherida, y
 
-• En relación con todos los vegetales presentes en un radio de 10 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, y cualquier material o plantón restante del lote afectado:
+– en relación con todos los vegetales presentes en un radio de 10 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, y cualquier material o plantón restante del lote afectado:
 
-○ En un plazo de tres meses a partir de la detección de los materiales de reproducción y los plantones de frutal sintomáticos, no se observarán síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en dichos materiales y plantones sintomáticos en un mínimo de dos inspecciones que tengan lugar en los momentos adecuados para detectar la plaga, y durante ese período trimestral no se aplicarán tratamientos que eliminen los síntomas de este organismo, y
+– en un plazo de tres meses a partir de la detección de los materiales de reproducción y los plantones de frutal sintomáticos, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en dichos materiales y plantones sintomáticos en un mínimo de dos inspecciones que tengan lugar en los momentos adecuados para detectar la plaga, y durante ese período trimestral no se aplicarán tratamientos que eliminen los síntomas de este organismo, y
 
-○ Tras ese período de tres meses:
+– tras ese período de tres meses:
 
-□ No se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+• no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
 
-□ Se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, y
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, y
 
-• En lo que respecta a todos los demás materiales de reproducción y plantones de frutal que se encuentren en el sitio de producción:
+– en lo que respecta a todos los demás materiales de reproducción y plantones de frutal que se encuentren en el sitio de producción:
 
-○ No se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+• no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
 
-○ Se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld.
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld.
+
+iv) Virus del mosaico anular del tabaco y virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría de base se producen en áreas de las que se tiene constancia que están libres del virus del mosaico anular del tabaco y del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones.
 
 e) Categoría CAC.
 
 Requisitos relativos al sitio de producción, el lugar de producción o el área.
 
-Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
+i) Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld:
 
-– Los materiales de reproducción y los plantones de frutal de la categoría CAC se producirán en áreas que las autoridades competentes hayan considerado libres de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
+– los materiales de reproducción y los plantones de frutal de la categoría CAC se producirán en áreas que las autoridades competentes hayan considerado libres de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, de conformidad con las normas internacionales pertinentes relativas a medidas fitosanitarias, o
 
-– Durante el último ciclo de vegetación completo, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría CAC, en el sitio de producción, o
+– durante el último ciclo de vegetación completo, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal de la categoría CAC en el sitio de producción, o
 
-• Se habrán arrancado y eliminado los materiales de reproducción y los plantones de frutal de la categoría CAC que presentaran síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en el sitio de producción, así como todos los vegetales presentes en un radio de 2 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, incluida la tierra adherida, y
+– se habrán arrancado y destruido los materiales de reproducción y los plantones de frutal de la categoría CAC que presentaran síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en el sitio de producción, así como todos los vegetales presentes en un radio de 2 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, incluida la tierra adherida, y
 
-• En relación con todos los vegetales presentes en un radio de 10 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, y cualquier material de reproducción o plantón de frutal restante del lote afectado:
+– en relación con todos los vegetales presentes en un radio de 10 m alrededor de los materiales de reproducción y los plantones de frutal sintomáticos, y cualquier material o plantón restante del lote afectado:
 
-○ En un plazo de tres meses a partir de la detección de los materiales de reproducción y los plantones de frutal sintomáticos, no se observarán síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en dichos materiales y plantones sintomáticos en un mínimo de dos inspecciones que tengan lugar en los momentos adecuados para detectar la plaga, y durante ese período trimestral no se aplicarán tratamientos que eliminen los síntomas de este organismo; y tras ese período de tres meses:
+– en un plazo de tres meses a partir de la detección de los materiales de reproducción y los plantones de frutal sintomáticos, no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en dichos materiales y plantones sintomáticos en un mínimo de dos inspecciones que tengan lugar en los momentos adecuados para detectar la plaga, y durante ese período trimestral no se aplicarán tratamientos que eliminen los síntomas de este organismo, y, tras ese período de tres meses:
 
-□ No se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+• no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
 
-□ Se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, y
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld, y
 
-– En lo que respecta a todos los demás materiales de reproducción y plantones de frutal que se encuentren en el sitio de producción:
+– en lo que respecta a todos los demás materiales de reproducción y plantones de frutal que se encuentren en el sitio de producción:
 
-• No se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock of Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
+• no se habrán observado síntomas de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld en los materiales de reproducción y los plantones de frutal en el sitio de producción, o
 
-• Se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld.
+• se habrá sometido a ensayo una muestra representativa de dichos materiales de reproducción y plantones de frutal que se prevea trasladar, muestra que deberá considerarse libre de Phytophthora ramorum (cepas de la UE) Werres, De Cock & Man in ‘t Veld.
+
+ii) Virus del mosaico anular del tabaco y virus de la mancha anular del tomate:
+
+– los materiales de reproducción y plantones de frutal de la categoría CAC se producen en áreas de las que se tiene constancia que están libres del virus del mosaico anular del tabaco y del virus de la mancha anular del tomate, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en el sitio de producción, y se han arrancado y destruido inmediatamente todas las plantas sintomáticas de las inmediaciones, o
+
+– durante la última temporada de crecimiento completa no se han observado síntomas del virus del mosaico anular del tabaco ni del virus de la mancha anular del tomate en más del 2 % de los materiales de reproducción y plantones de frutal de la categoría CAC en el sitio de producción, y se han arrancado y destruido inmediatamente esas plantas sintomáticas.
 
 16. Actinidia Lindl.
 
 Los materiales de multiplicación y los plantones de frutal de Actinidia Lindl. deberán cumplir los requisitos relativos a las plagas reguladas no cuarentenarias de la Unión y las medidas para prevenir la presencia de plagas reguladas no cuarentenarias de la Unión en los materiales de multiplicación de frutales y los plantones de frutal destinados a la producción frutícola de Actinidia Lindl. distintos de las semillas, establecidos por el Reglamento de Ejecución (UE) 2019/2072 de la Comisión, de 28 de noviembre de 2019, y sus modificaciones, en particular en su anexo IV, parte M y su anexo V, parte K.
+
+> Se modifican los apartados 8, 11, 14 y 15 por el art. único.3.1 a 4 de la Orden APA/775/2025, de 15 de julio. Ref. BOE-A-2025-15139
 
 > Se modifica por el art. 1.9 del Real Decreto 525/2023, de 20 de junio. Ref. BOE-A-2023-14680
 

@@ -65,8 +65,6 @@
 |  | Meloidogyne javanica Chitwood [MELGJA] |
 |  | Pratylenchus penetrans (Cobb) Filipjev & Schuurmans-Stekhoven [PRATPE] |
 |  | Pratylenchus vulnus Allen & Jensen [PRATVU] |
-|  | Virus, viroides, enfermedades similares a las víricas y fitoplasmas |
-|  | Agente del mosaico de la higuera [FGM000] |
 | Fragaria L. | Bacterias |
 |  | Candidatus Phlomobacter fragariae Zreik, Bové & Garnier [PHMBFR] |
 |  | Hongos y oomicetos |
@@ -167,7 +165,9 @@
 | Rubus L. | Bacterias |
 |  | Agrobacterium spp. Conn [1AGRBG] Rhodococcus fascians Tilford [CORBFA] Hongos y oomicetos Peronospora rubi Rabenhorst [PERORU] Insectos y ácaros Resseliella theobaldi Barnes [THOMTE] |
 | Vaccinium L. | Bacterias |
-|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Hongos y oomicetos Diaporthe vaccinii Shear [DIAPVA] Exobasidium vaccinii (Fuckel) Woronin [EXOBVA] Godronia cassandrae (anamorfo Topospora myrtilli) Peck [GODRCA] |
+|  | Agrobacterium tumefaciens (Smith & Townsend) Conn [AGRBTU] Hongos y oomicetos Diaporthe vaccinii Shear [DIAPVA] Exobasidium vaccinii (Fuckel) Woronin [EXOBVA] Godronia cassandrae (anamorfo Topospora myrtilli) Peck [GODRCA] Pucciniastrum minimum Sydow & P. Sydow [THEKMI] |
+
+> Se modifica por el art. único.1 a) y b) de la Orden APA/775/2025, de 15 de julio. Ref. BOE-A-2025-15139
 
 > Se modifica por el art. 1.6 del Real Decreto 525/2023, de 20 de junio. Ref. BOE-A-2023-14680
 
