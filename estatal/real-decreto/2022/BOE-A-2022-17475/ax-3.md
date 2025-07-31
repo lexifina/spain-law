@@ -94,6 +94,8 @@ b) El correspondiente a zonas de cata y exposición de productos, excepto cuando
 
 33. La demolición de un edificio existente con anterioridad a la realización de un nuevo proyecto.
 
-34. Trabajos e instalaciones necesarios para llevar servicios de suministros (por ejemplo, agua, luz, gas...) a la parcela desde un punto externo de la misma.
+34. Trabajos e instalaciones necesarios para llevar servicios de suministros (por ejemplo, agua, luz, gas…) al establecimiento desde un punto externo al mismo.
 
 35. Elevadores.
+
+> Se modifica el punto 34 por la disposición final 5.17 del Real Decreto 683/2025, de 29 de julio. Ref. BOE-A-2025-15746

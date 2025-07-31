@@ -21,6 +21,8 @@ Albaricoque, cereza, ciruela, kiwi, melocotón, nectarina, níspero, papaya, par
 
 iii) Categoría C.
 
-Calabacín, calabaza, caqui, cebolla, clementina, coliflor, híbridos de pequeños cítricos, limón, mandarina, manzana, melón, naranja, pepino, repollo/col, sandía, satsuma, tomate y zanahoria.
+Aguacate, calabacín, calabaza, caqui, cebolla, clementina, coliflor, híbridos de pequeños cítricos, limón, mandarina, manzana, melón, naranja, pepino, repollo/col, sandía, satsuma, tomate y zanahoria.
+
+> Se modifica el apartado iii) por la disposición final 4.7 del Real Decreto 683/2025, de 29 de julio. Ref. BOE-A-2025-15746
 
 > Se añade por el art. 2.12 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124

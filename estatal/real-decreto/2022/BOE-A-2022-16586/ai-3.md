@@ -117,16 +117,18 @@ Tabla 2. Importes a efectos del cálculo de la compensación por recolección pa
 | Espárrago. | 3.270 | 5.334 | 5.807 |
 | Frambuesa. | – | 37.361 | – |
 | Fresa. | 4.485 | 9.221 | 25.184 |
-| Judía verde. | 4.485 | 9.221 | 25.184 |
-| Melón. | 5.164 | 13.176 | 15.807 |
+| Judía verde. | 5.164 | 13.176 | 15.807 |
+| Melón. | 1.578 | 6.342 | 8.335 |
 | Mora. | – | – | 15.920 |
 | Pepino. | 1.708 | 6.197 | 21.191 |
 | Pimiento. | 2.088 | 11.659 | 24.298 |
-| Tomate. | 2.380 | 26.077 | 30.830 |
+| Tomate. | 2.380 | 26.077 | 30.830» |
 
 El importe de compensación por hectárea se calculará multiplicando (A) x (B), siendo:
 
 (A) El porcentaje que queda por cosechar, en función de la semana de cultivo que figura en la tabla 1 de este anexo y que se calculará sumando los porcentajes de las seis semanas siguientes desde que se ha efectuado la operación de prevención de crisis. En el caso de que la operación se realice entre el lunes y el miércoles de la semana esa será la primera semana de cálculo del porcentaje de cosecha restante. En caso de que se realice entre el jueves y el domingo, esa semana se considerará como cosechada y, a efectos de cálculo del porcentaje que queda por cosechar, la primera semana será la siguiente, y (B) el importe (€/ha) correspondiente por producto fijado en la tabla 2.
+
+> Se modifica la tabla 2 de la parte B) por la disposición final 4.6 del Real Decreto 683/2025, de 29 de julio. Ref. BOE-A-2025-15746
 
 > Se modifican la tabla de la parte A) y la tabla 2 de la parte B) por el art. 2.10 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 

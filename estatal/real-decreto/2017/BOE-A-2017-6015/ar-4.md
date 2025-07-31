@@ -6,6 +6,14 @@ a) O bien ser una entidad con personalidad jurídica propia según el ordenamien
 
 En las cooperativas y sociedades agrarias de transformación que posean una sección, el reconocimiento podrá recaer tanto en la entidad a la que pertenece la sección, como en la sección, según disponga la solicitud de reconocimiento presentada. En caso de que recaiga sobre la cooperativa o la sociedad agraria de transformación, los miembros que constituyen la organización serán los que formen parte de la sección, en la cual deberán estar todos los productores de frutas y hortalizas que formen parte de la entidad jurídica.
 
+a bis) Tanto la entidad como la sección, podrá estar constituida directamente por miembros personas físicas y por miembros personas jurídicas, a los que se les considerará miembros de primer nivel societario.
+
+Los miembros personas jurídicas del primer nivel podrán tener a su vez miembros personas físicas y por miembros personas jurídicas, a los que se les considerará miembros de segundo nivel societario.
+
+Los miembros personas jurídicas del segundo nivel podrán tener a su vez miembros personas físicas y por miembros personas jurídicas, a los que se les considerará miembros de tercer nivel societario.
+
+Los miembros personas jurídicas del tercer nivel únicamente podrán estar formados por miembros personas físicas.
+
 b) Tener su sede social dentro del ámbito geográfico español.
 
 c) Haber sido creada a iniciativa de, y estar constituida exclusivamente por, productores de los productos para los que se solicita el reconocimiento, excepto en los casos y en las condiciones recogidas en el artículo 6 del presente real decreto.
@@ -41,3 +49,5 @@ b) Cuando toda o gran parte de la producción comercializada por la organizació
 c) Cuando la organización tenga externalizada todas las actividades que puede externalizar.
 
 d) Cuando se produzcan cambios en el tipo de personalidad jurídica en la organización de productores para ser cooperativas con el objetivo de evadir los controles sobre control democrático.
+
+> Se añade la letra a bis) al apartado 1 por la disposición final 2.2 del Real Decreto 683/2025, de 29 de julio. Ref. BOE-A-2025-15746
