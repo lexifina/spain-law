@@ -36,7 +36,9 @@ Energía y Propulsión: Los militares con esta especialidad desarrollan activida
 
 Maniobra y Navegación: Los militares con esta especialidad desarrollan actividades de mantenimiento y manejo de los sistemas de maniobra, navegación, señales, embarcaciones y medios de salvamento.
 
-Operaciones y Sistemas: Los militares con esta especialidad desarrollan actividades de gestión administrativa, manejo y mantenimiento de equipos y sistemas de detección, procesamiento, distribución y presentación de datos tácticos, sistemas de información y comunicaciones, así como mantenimiento y operación de armamento, munición, explosivos y sistemas de lanzamiento asociados, equipos de rastreo y caza de minas.
+Operaciones y Sistemas: los militares con esta especialidad desarrollan actividades de manejo y mantenimiento de equipos y sistemas de detección, procesamiento, distribución y presentación de datos tácticos, sistemas de información y comunicaciones, así como mantenimiento y operación de armamento, munición, explosivos y sistemas de lanzamiento asociados, equipos de rastreo y caza de minas.
+
+Administración: Los militares con esta especialidad desarrollan actividades de gestión administrativa.
 
 2. Cuerpo de Infantería de Marina
 
@@ -69,3 +71,5 @@ Ingenieros: Los militares con esta especialidad desarrollan actividades relacion
 Escala técnica:
 
 Ingenieros: Los militares con esta especialidad desarrollan actividades relacionadas con los cometidos de su cuerpo y facultades de la escala.
+
+> Se modifica el apartado 1 por el art. único.2 del Real Decreto 609/2025, de 8 de julio. Ref. BOE-A-2025-15742
