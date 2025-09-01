@@ -1,0 +1,1 @@
+Téngase en cuenta la Resolución de 1 de diciembre de 2025, de la Secretaría General de Transportes Aéreo y Marítimo, por la que se aprueba la actualización de la parte pública del Programa Nacional de Seguridad para la Aviación Civil. Ref. BOE-A-2026-814
