@@ -32,9 +32,9 @@ En todo caso, la no presentación de la declaración, así como la inexactitud, 
 
 1.9 Las empresas instaladoras de equipos a presión se clasificarán en dos categorías:
 
-i. Categoría EIP-1: Con capacidad para realizar instalaciones que no requieran proyecto.
+i. Categoría EIP-1: con capacidad para realizar instalaciones que no requieran proyecto.
 
-ii. Categoría EIP-2: Con capacidad para realizar instalaciones con equipos a presión que requieran proyecto, así como las indicadas para la categoría EIP-1.
+ii. Categoría EIP-2: con capacidad para realizar instalaciones con equipos a presión que requieran proyecto, así como las indicadas para la categoría EIP-1.
 
 Las empresas instaladoras de equipos a presión cumplirán lo siguiente:
 
@@ -42,29 +42,17 @@ a) Disponer de la documentación que identifique a la empresa instaladora, que, 
 
 b) Disponer de las certificaciones del personal para la realización de uniones permanentes y de los correspondientes procedimientos de actuación. En caso de utilizar exclusivamente sistemas de unión no permanentes, en la declaración responsable de la empresa deberá figurar esta limitación.
 
-> Téngase en cuenta que esta última actualización de la letra b) del apartado 1.1.9, establecida por la disposición final 1.2 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "b) Disponer de las acreditaciones del personal para la realización de uniones permanentes y de los correspondientes procedimientos de actuación. En caso de utilizar exclusivamente sistemas de unión no permanentes, en la acreditación de la empresa deberá figurar esta limitación."
-
 c) Disponer de los medios técnicos necesarios para realizar su actividad en condiciones de seguridad.
 
-d) Contar con el personal necesario, durante el tiempo que la empresa ofrezca sus servicios, que realice su actividad en condiciones de seguridad y en número suficiente para atender las instalaciones que tengan contratadas.
+d) Contar con el personal contratado necesario para realizar la actividad en condiciones de seguridad, en número suficiente y durante el tiempo necesario para atender las instalaciones que tengan contratadas.
 
-Tanto las personas responsables de la empresa como el personal en plantilla que realiza las instalaciones deberán conocer este reglamento y sus instrucciones técnicas complementarias.
+Tanto las personas responsables de la empresa como el personal contratado que realiza las instalaciones deberán conocer este reglamento y sus instrucciones técnicas complementarias.
 
-e) Las empresas instaladoras de la categoría EIP-2 contarán además con un mínimo de una persona técnica titulada universitaria con competencias específicas en las materias objeto del presente reglamento, que será la persona responsable técnica, contratada en plantilla a jornada completa (salvo que se acredite que el horario de apertura de la empresa es menor, en cuyo caso se admitirá que esta esté contratada a tiempo parcial para prestar servicios durante un número de horas equivalente al horario durante el que la empresa desarrolle su actividad).
+e) Las empresas instaladoras de la categoría EIP-2 contarán además con un mínimo de una persona técnica titulada universitaria con competencias específicas en las materias objeto del presente reglamento, que será la persona responsable técnica de la empresa.
 
-Se considerará que también queda satisfecho el requisito de contar con una persona técnica titulada universitaria competente en plantilla si se cumple alguna de las siguientes condiciones:
+Se entenderá satisfecho el requisito del párrafo anterior cuando el referido personal necesario para realizar la actividad esté contratado a través de cualquiera de las modalidades contractuales permitidas en derecho.
 
-1.ª En el caso de las personas jurídicas, el título universitario, lo ostenta una de las socias o socios de la organización, siempre que trabaje para la empresa a jornada completa, o durante el horario de apertura de la misma.
-
-2.ª En el caso de que la empresa instaladora sea una persona física dada de alta en el régimen especial de trabajadores autónomos, si esta dispone de titulación universitaria con competencias específicas en las materias objeto del reglamento.
-
-La figura de la persona técnica titulada universitaria competente podrá ser sustituida por la de dos o más personas técnicas tituladas competentes, cuyos horarios laborales permitan cubrir la jornada completa o el horario de actividad de la empresa.
-
-f) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio de al menos 300.000 euros por siniestro para la categoría EIP-1 y 600.000 euros por siniestro para la categoría EIP-2. Estas cuantías mínimas se actualizarán por orden del Ministro de Industria, Comercio y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
+f) Haber suscrito un seguro de responsabilidad civil profesional u otra garantía equivalente que cubra los daños que puedan provocar en la prestación del servicio de al menos 300.000 euros por siniestro para la categoría EIP-1 y 600.000 euros por siniestro para la categoría EIP-2. Estas cuantías mínimas se actualizarán por orden del Ministro de Industria y Turismo, siempre que sea necesario para mantener la equivalencia económica de la garantía y previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.
 
 1.10 La empresa instaladora de equipos a presión habilitada no podrá facilitar, ceder o enajenar certificados de instalación no realizadas por ella misma.
 
@@ -87,12 +75,6 @@ Para la acreditación del cumplimiento del requisito de personal cualificado la 
 a) Indicación, en su caso, de la disponibilidad de acreditaciones de la empresa (sistema de calidad o autorizaciones de fabricantes, entre otras).
 
 b) Indicación de la marca del punzón o tenaza para el precintado de válvulas de seguridad u otros medios de identificación equivalente.
-
-> Téngase en cuenta que esta última actualización de la letra b) del apartado 2.2.3, establecida por la disposición final 1.3 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df, entra en vigor el 1 de julio de 2023, según determina su disposición final 5.
-
-> Redacción anterior:
-
-> "b) En caso de que vaya a realizar inspecciones de nivel B o C, indicación de la marca del punzón o tenaza para el precintado de válvulas de seguridad u otros medios de identificación equivalente."
 
 2.4 Las comunidades autónomas deberán posibilitar que la declaración responsable sea realizada por medios electrónicos.
 
@@ -139,5 +121,7 @@ ii. Usuaria/Usuario.
 iii. Tipo de actuación.
 
 iv. Identificación o características de equipo o instalación.
+
+> Se modifica el apartado 1.9 por el art. 9.1 del Real Decreto 770/2025, de 2 de septiembre. Ref. BOE-A-2025-17507
 
 > Se modifican, con efectos desde el 1 de julio de 2023, los apartados 1.1.9, letra b) y 2.2.3, letra b) por la disposición final 1.2 y 3 del Real Decreto 145/2023, de 28 de febrero. Ref. BOE-A-2023-7056#df

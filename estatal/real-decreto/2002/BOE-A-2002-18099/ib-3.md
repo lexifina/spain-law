@@ -156,15 +156,9 @@ MEDIOS MÍNIMOS, TÉCNICOS Y HUMANOS, REQUERIDOS PARA LAS EMPRESAS INSTALADORAS 
 
 1. Medios humanos
 
-Contar con el personal necesario para realizar la actividad en condiciones de seguridad, en número suficiente para atender las instalaciones que tengan contratadas con un mínimo de un instalador en baja tensión de la misma categoría en la que la empresa se encuentra habilitada, contratado en plantilla a jornada completa (salvo que se acredite que el horario de apertura de la empresa es menor, en cuyo caso se admitirá que este esté contratado a tiempo parcial para prestar servicios durante un número de horas equivalente al horario durante el que la empresa desarrolle su actividad).
+Contar con el personal contratado necesario para realizar la actividad en condiciones de seguridad, en número suficiente y durante el tiempo necesario para atender las instalaciones que tengan contratadas, con un mínimo de una persona instaladora en baja tensión de la misma categoría en la que la empresa se encuentra habilitada.
 
-Se considerará que también queda satisfecho el requisito de contar con un profesional habilitado en plantilla si se cumple alguna de las siguientes condiciones:
-
-1.ª En el caso de las personas jurídicas, la titularidad de la cualificación individual, la ostente uno de los socios de la organización, siempre que trabaje para la empresa a jornada completa, o durante el horario de apertura de la misma.
-
-2.ª En el caso de que la empresa instaladora sea una persona física dada de alta en el régimen especial de trabajadores autónomos, si esta dispone de la habilitación como instalador en baja tensión.
-
-La figura del instalador podrá ser sustituida por la de dos o más instaladores de la misma o mismas categorías, cuyos horarios laborales permitan cubrir la jornada completa o el horario de actividad de la empresa.
+Se entenderá satisfecho el requisito del párrafo anterior cuando el referido personal necesario para realizar la actividad esté contratado a través de cualquiera de las modalidades contractuales permitidas en derecho.
 
 2. Medios técnicos
 
@@ -590,7 +584,7 @@ B) Conocimientos prácticos
 
 3.6.2 Protecciones contra fugas.
 
-> Téngase en cuenta que las modificaciones establecidas en los los apartados 3, 4, 5, apendice I y el apendice II, añadido por el art. 1.2 a 8 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#ap entran en vigor el 1 de julio de 2021, según determina su disposición final 2.
+> Se modifica el apartado 1 del apéndice I por el art. 1 del Real Decreto 770/2025, de 2 de septiembre. Ref. BOE-A-2025-17507
 
 > Se modifican, con efectos de 1 de julio de 2021, los apartados 3, 4, 5, apendice I y se añade el apendice II por el art. 1.2 a 8 del Real Decreto 298/2021, de 27 de abril. Ref. BOE-A-2021-6879#ap
 
