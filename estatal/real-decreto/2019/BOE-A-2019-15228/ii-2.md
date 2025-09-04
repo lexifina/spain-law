@@ -264,6 +264,9 @@ Tabla A
 | 1 | A1/A1 | R-480A | R-744 / R-1234ze(E) / R-227ea (5 / 86 / 9) | CO2+CHFCHCF3+CF3CHFCF3 | 108,62 | 4,47 | 0,26 | – 46,5 ºC a – 21,7 ºC | 0,26 | NF | NF | 291 | 0 | 2 |
 | 1 | A1/A1 | R-481A | R-32 / R-125 / R-134a/ R1233zd(E) / R-601a (16.9/ 6.3/ 74.4/ 1.8/ | O2+CH2F2+CHF2CF3+ CH2FCF3+CHFCHCF3+CF3CHFCF3 | 88,6 | 3,64 | 0,16 | – 38,3 ºC a – 30,5 ºC | 0,16 | NF | NF | 1399 | 0 | 2 |
 | 1 | A1/A1 | R-515B | R-1234ze / R227ea (91,1 / 8,9) | CF3CF=CHF / CF3CHFCF3 | 117,48 | 4,918 | 0,29 | –18.92 | 0,29 | NF | NF | 293 | 0 | 2 |
+| 1 | A1 | R-1224yd(Z) | (Z)-1-cloro-2,3,3,3-tetrafluoroprop-1-eno | cis-CF3CF=CHCl | 148,50 | 6,325 | 0,364 | 14,62 | 0,3640 | 543 | NF | 1 | 0,00023 | 2 |
+| 1 | A1 | R-1336mzz(E) | (E)-1,1,1,4,4,4-hexafluorobut-2-eno | trans-CF3CH=CHCF3 | 164,10 | NA | 0,048 | 7,43 | 0,0482 | ND | NF | 17,9 | 0 | 1 |
+| 1 | A1 | R-1336mzz(Z) | (Z)-1,1,1,4,4,4-hexafluorobut-2-eno | cis-CF3CH=CHCF3 | 164,10 | NA | 0,087 | 33,45 | 0,0872 | ND | NF | 2 | 0 | 2 |
 | 2 | A2L | R-32 | Difluormetano | CH2F2 (11) | 52 | 2,13 | 0,061 | –52 | 0.30 | 648 | 0,307 | 675 | 0 | 1 |
 | 2 | A2L | R-143a | 1,1,1-Trifluoretano | CF3CH3 (11) | 84,0 | 3,44 | 0,048 | –47 | 0,48 | 750 | 0,282 | 4470 | 0 | 1 |
 | 2 | A2L | R-1234yf | 2,3,3,3Tetrafluorpropeno | CF3CF=CH2 | 114.0 | 4.66 | 0.058 | –26 | 0.47 | 405 | 0.289 | 4 | 0 | 1 |
@@ -447,6 +450,10 @@ Muchos de los supuestos y factores en este método de cálculo son normalmente e
 Las comparaciones (de los resultados) entre diferentes aplicaciones o diferentes emplazamientos pueden tener, por tanto, poca validez.
 
 Este cálculo tiene una particular importancia en la fase de diseño o cuando haya que tomar la decisión de realizar una conversión a otro refrigerante.
+
+> Se amplía la relación de refrigerantes autorizados en la tabla A del apéndice 1 con la inclusión de los refrigerantes R1224yd(Z), R1336mzz(E) y R1336mzz(Z), conforme se indica en el apartado primero de la Resolución de 20 de agosto de 2025. Ref. BOE-A-2025-17583
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 254, de 22 de octubre de 2025. Ref. BOE-A-2025-21287
 
 > Se añade la nota al pie en la tabla A del apéndice 1 por la disposición final 4.1 del Real Decreto 164/2025, de 4 de marzo. Ref. BOE-A-2025-7190#df-4
 
