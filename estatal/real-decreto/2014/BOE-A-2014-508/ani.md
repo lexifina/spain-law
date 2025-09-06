@@ -32,6 +32,8 @@ b) Aeropuertos en aeródromos de utilización conjunta designados como coordinad
 
 ● Palma de Mallorca.
 
+● Tenerife Norte-Ciudad de La Laguna.
+
 II. Relación de aeropuertos designados como facilitados.
 
 a) Aeropuertos civiles designados facilitados:
@@ -68,9 +70,11 @@ a) Aeropuertos civiles designados facilitados:
 
 ● Córdoba.
 
-b) Aeropuertos en aeródromos de utilización conjunta designados como facilitados:
+b) (Suprimida)
 
-● Tenerife Norte.
+> Se añade el aeropuerto de Tenerife Norte-Ciudad de La Laguna en la letra b) del apartado I y se suprime la letra b) del apartado II por el apartado segundo de la Orden TRM/982/2025, de 28 de julio. Ref. BOE-A-2025-17690
+
+> Téngase en cuenta, para su aplicación, el apartado tercero de la citada Orden.
 
 > Se añade el aeropuerto de Córdoba en la letra a) del apartado II por el apartado segundo de la Orden TRM/381/2025, de 7 de abril. Ref. BOE-A-2025-8141
 
