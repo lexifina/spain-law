@@ -38,3 +38,5 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 15](a15.md)
 - [Artículo 16](a16.md)
 - [Artículo 17](a17.md)
+- [Artículo 18](a1-2.md)
+- [Disposición transitoria única](dt.md)

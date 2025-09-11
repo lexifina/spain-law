@@ -1,16 +1,16 @@
 ## Artículo 8. Protectorado del Estado.
 
-1. El Protectorado del Estado sobre la Organización Nacional de Ciegos Españoles corresponde al Ministerio de Derechos Sociales y Agenda 2030, o aquel otro departamento ministerial que en cada momento tenga atribuida esta competencia, conforme a las disposiciones que regulen la estructura orgánica de los departamentos ministeriales.
+1. El Protectorado del Estado se ejercerá a través del Consejo de Protectorado de la ONCE, órgano colegiado de carácter interministerial, adscrito al Ministerio de Derechos Sociales, Consumo y Agenda 2030, o aquel otro departamento ministerial que en cada momento tenga atribuida esta competencia, conforme a las disposiciones que regulen la estructura orgánica de los departamentos ministeriales.
 
 2. El Protectorado del Estado se ejercerá a través de un Consejo integrado por:
 
-a) La Presidencia, que será ejercida por el titular del departamento competente de acuerdo con lo previsto en el apartado 1 de este artículo, quien podrá delegar sus funciones presidenciales en un miembro del Consejo que actúe en representación del propio departamento.
+a) La Presidencia, que será ejercida por el titular del departamento competente de acuerdo con lo previsto en el apartado 1 de este artículo, quien podrá ser sustituido, en casos de vacante, ausencia, enfermedad, u otra causa legal, por el miembro del órgano colegiado de mayor jerarquía, antigüedad y edad, por este orden.
 
-b) Siete vocalías en representación de la Administración General del Estado: dos en representación del Ministerio de Derechos Sociales y Agenda 2030; una por el Ministerio de Consumo; una por el Ministerio de Hacienda; una por el Ministerio del Interior; una por el Ministerio de Educación y Formación Profesional y una por el Ministerio de Trabajo y Economía Social. Cada vocalía, tanto titular como suplente, será designada por la persona titular de su departamento respectivo y recaerá en la persona titular de un órgano de dicho departamento con rango al menos de dirección general.
+b) Siete vocalías en representación de la Administración General del Estado: tres en representación del Ministerio de Derechos Sociales, Consumo y Agenda 2030; una del Ministerio de Hacienda; una del Ministerio del Interior; una del Ministerio de Educación, Formación Profesional y Deportes y, por último, una del Ministerio de Trabajo y Economía Social. Cada vocalía, tanto titular como suplente, será designada por la persona titular de su departamento respectivo y recaerá en la persona titular de un órgano de dicho departamento con rango al menos de dirección general.
 
-Cada representante de la Administración se sustituirá por su vocalía suplente en los casos de ausencia, enfermedad o cualquier otra causa justificada.
+Cada representante de la Administración se sustituirá por su vocalía suplente en los casos de ausencia, vacante, enfermedad o cualquier otra causa justificada.
 
-En la designación de vocalías deberá atenderse al principio de presencia equilibrada de mujeres y hombres.
+En la designación de vocalías se deberá asegurar la participación de personas con discapacidad en este órgano, así como el principio de presencia equilibrada de mujeres y hombres, según lo establecido en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, salvo por razones fundadas y objetivas, debidamente motivadas.
 
 c) Siete vocalías en representación de la ONCE ejercidas por el titular de la Presidencia del Consejo General de la ONCE y por seis representantes más de dicha organización, nombrados por su órgano de gobierno de entre las personas que pertenezcan a la alta dirección de la entidad.
 
@@ -24,7 +24,7 @@ e) También podrán asistir como expertos, con voz pero sin voto, aquellas otras
 
 f) El Consejo de Protectorado aprobará sus normas internas de funcionamiento y actuará en Pleno, en Comisión Permanente y mediante la constitución de las comisiones y grupos de trabajo que el propio Consejo determine para finalidades concretas.
 
-Asimismo, dentro del Consejo de Protectorado existirá una Comisión Disciplinaria, formada por tres vocales del Consejo de Protectorado representantes de los Ministerios del Interior, de Derechos Sociales y Agenda 2030 y de Consumo, sin representantes de la ONCE en garantía de la imparcialidad de la Comisión, que tendrá como competencia exclusiva el ejercicio de la potestad sancionadora por posibles infracciones en materia de juego previstas en la Ley 13/2011, de 27 de mayo, de regulación del juego, que pudiera cometer la ONCE.
+Asimismo, dentro del Consejo de Protectorado existirá una Comisión Disciplinaria, formada por tres vocales del Consejo de Protectorado, dos de los cuales serán representantes del Ministerio Derechos Sociales, Consumo y Agenda 2030 y uno, del Ministerio del Interior, quienes podrán ser sustituidos, en casos de vacante, ausencia, enfermedad, u otra causa legal, por cualquiera de las otras vocalías del Consejo, sin representantes de la ONCE en garantía de la imparcialidad de la Comisión, que tendrá como competencia exclusiva el ejercicio de la potestad sancionadora por posibles infracciones en materia de juego previstas en la Ley 13/2011, de 27 de mayo, de regulación del juego, que pudiera cometer la ONCE.
 
 El ejercicio de la potestad sancionadora por parte de dicha Comisión Disciplinaria se ajustará a lo establecido en la Ley 13/2011, de 27 de mayo, y a las disposiciones aplicables de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, de acuerdo con lo previsto en el Reglamento de Funcionamiento del Consejo de Protectorado.
 
@@ -36,7 +36,7 @@ a) Aprobar, a propuesta del Consejo General de la ONCE, los estatutos de la orga
 
 b) Promover, a iniciativa propia o del Consejo General y oído éste en todo caso, las medidas de carácter normativo, administrativo o de cualquier otra índole, convenientes para el correcto cumplimiento de los fines de la organización.
 
-c) Informar, con la conformidad de los Ministerios de Hacienda y Función Pública, del Interior y de Consumo y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
+c) Informar, con la conformidad de los Ministerios de Hacienda y del Interior, y con carácter previo al sometimiento al Consejo de Ministros, las propuestas que se eleven a este respecto de las autorizaciones que, en materia de modalidades y productos de juego autorizados a la ONCE, sean precisas conforme a lo previsto en el artículo 7.
 
 d) Establecer de conformidad con lo dispuesto en el artículo 7 los criterios y procedimientos adecuados para ejercer el control sobre las materias relativas al cupón y otras modalidades de juego autorizadas a la ONCE.
 
@@ -73,6 +73,8 @@ n) Informar con carácter previo a la aceptación de herencias, legados y donaci
 o) Verificar, con carácter previo, los acuerdos con otros operadores a que se refiere el apartado 5 del artículo 7 de este real decreto.
 
 p) Cualquier otra competencia o función que se le asigne legal o reglamentariamente, le confiera el Consejo de Ministros o le atribuya el Acuerdo General entre el Gobierno y la ONCE a que se refiere la disposición adicional vigésima de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986. y en general, realizar cuantas actuaciones sean necesarias para el ejercicio de la tutela y control en la materia, el mejor desenvolvimiento de la ONCE, la correcta consecución de sus objetivos y la coordinación más idónea con la Administración General del Estado.
+
+> Se modifican los apartados 1, 2.a), b) y f), y 3.c) por el art. 1.3 a 6 del Real Decreto 796/2025, de 9 de septiembre. Ref. BOE-A-2025-17928
 
 > Se modifican los apartados 2.c), f) y 3.c) por el art. 1.3 a 5 del Real Decreto 1127/2021, de 21 de diciembre. Ref. BOE-A-2021-21110
 
