@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de los títulos competenciales previstos en el artículo 149.1.22.ª, 23.ª y 29.ª de la Constitución, que atribuyen al Estado las competencias exclusivas en materia de legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma; legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección, y en materia de seguridad pública, respectivamente.
