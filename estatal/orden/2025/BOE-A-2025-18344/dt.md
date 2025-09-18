@@ -1,0 +1,7 @@
+## Disposición transitoria única. Referencia a los expedientes de contratación iniciados y a los contratos adjudicados con anterioridad a la constitución de los órganos regulados por esta orden.
+
+1. De conformidad con lo establecido en la disposición transitoria primera de la Ley 9/2017, de 8 de noviembre, a los efectos de esta disposición transitoria única, se considera fecha de iniciación de los expedientes de contratación la de publicación de la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados sin publicidad, para determinar el momento de iniciación se tomará en cuenta la fecha de aprobación de los pliegos.
+
+2. Los expedientes de contratación que hubieran iniciado su tramitación por la Junta de contratación o con intervención de la Mesa de contratación, reguladas por la Orden APA/204/2019, de 21 de febrero, con anterioridad a la entrada en vigor de la presente orden, continuarán su tramitación por la Junta de contratación o con la intervención de la Mesa única reguladas en esta orden, siendo válidos todos los actos realizados hasta la fecha de entrada en vigor de ésta.
+
+3. Asimismo, la tramitación de las cuestiones relativas a los efectos, cumplimiento y extinción, incluida la modificación, duración y régimen de prórrogas, de los contratos adjudicados con anterioridad a la entrada en vigor de la presente orden por la Junta de Contratación regulada por la Orden APA/204/2019, de 21 de febrero, se llevará a cabo por la Junta de Contratación que se crea con la presente orden.
