@@ -2,7 +2,7 @@
 
 ## Administraciones de asistencia Digital Integral de la Agencia Estatal de Administración Tributaria
 
-Administración de asistencia Digital Integral de Valencia.
+Administración de asistencia Digital Integral de València.
 
 Administración de asistencia Digital Integral de Vigo.
 
@@ -10,15 +10,7 @@ Administración de asistencia Digital Integral de Madrid-Getafe.
 
 Administración de asistencia Digital Integral de Granada.
 
-> Téngase en cuenta que esta actualización, establecida por el apartado único.3 de la Resolución de 22 de mayo de 2023, Ref. BOE-A-2023-12913, entra en vigor el 1 de julio de 2023, según establece su disposición final única.
-
-> Redacción anterior:
-
-> "Administración de asistencia Digital Integral de Valencia.
-
-> Administración de asistencia Digital Integral de Vigo.
-
-> Administración de asistencia Digital Integral de Madrid-Getafe."
+> Se modifica, en lo que concierne a la Delegación Especial de Valencia, por el art. único.4 de la Resolución de 29 de julio de 2025. Ref. BOE-A-2025-17395
 
 > Se modifica por el apartado único.3 de la Resolución de 22 de mayo de 2023. Ref. BOE-A-2023-12913
 

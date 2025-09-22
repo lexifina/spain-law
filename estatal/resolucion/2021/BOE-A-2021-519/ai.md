@@ -108,10 +108,12 @@ Delegación de la Agencia de Gipuzkoa: Sede en Donostia. Código 20600.
 
 Delegación Especial de La Rioja: Sede en Logroño
 
-Delegación Especial de Valencia: Sede en Valencia
+Delegación Especial de la Comunitat Valenciana: Sede en València
 
 Delegación de la Agencia de Alicante/Alacant: Sede en Alicante/Alacant. Código 03600.
 
 Delegación de la Agencia de Castellón/Castelló: Sede en Castellón de la Plana/Castelló de la Plana. Código 12600.
+
+> Se modifica, en lo que concierne a la Delegación Especial de Valencia, por el art. único.2 de la Resolución de 29 de julio de 2025. Ref. BOE-A-2025-17395
 
 > Redactado conforme a la corrección de errores publicada por Resolución de 2 de febrero de 2021. Ref. BOE-A-2021-1725

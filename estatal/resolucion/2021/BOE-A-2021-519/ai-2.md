@@ -329,15 +329,12 @@ Delegación Especial de Madrid
 | Móstoles. | 28092 |
 | Pozuelo de Alarcón. | 28115 |
 | Torrejón de Ardoz. | 28148 |
-| Suroeste. | 28602 |
+| Madrid Suroeste. | 28602 |
 | Montalbán. | 28603 |
-| Ciudad Lineal. | 28604 |
-| Fermín Caballero. | 28606 |
+| Madrid Norte. | 28606 |
 | María de Molina. | 28612 |
-| Sudeste. | 28614 |
+| Madrid Este. | 28614 |
 | Guzmán el Bueno. | 28616 |
-
-> Téngase en cuenta que esta actualización de la Delegación Especial de Madrid, por la que se integra la Administración de San Blas en la Administración de Sudeste, establecida por la disposición final 1.3 de la Resolución de 5 de febrero de 2024, Ref. BOE-A-2024-2323, entra en vigor el 8 de marzo de 2024, según determina su disposición final 4.
 
 Delegación Especial de Murcia
 
@@ -355,7 +352,7 @@ Delegación Especial de La Rioja
 | Calahorra. | 26036 |
 | Haro. | 26071 |
 
-Delegación Especial de Valencia
+Delegación Especial de la Comunitat Valenciana
 
 | Administración | Código |
 | --- | --- |
@@ -479,17 +476,19 @@ Bilbao-Marítima; con sede en Santurtzi.
 
 Bilbao-Carretera Aparcabisa; con sede en Valle de Trápaga-Trapagaran.
 
-Delegación Especial de Valencia
+Delegación Especial de la Comunitat Valenciana
 
 Administración de Aduanas e Impuestos Especiales:
 
 Aeropuerto de Alicante/Alacant; con sede en Elche.
 
-Aeropuerto de Valencia-Manises; con sede en Manises.
+Aeropuerto de València-Manises; con sede en Manises.
 
-Valencia-Marítima.
+València-Marítima.
 
 Sagunto/Sagunt.
+
+> Se modifica el apartado I, en lo que concierne a las Delegaciones Especiales de Madrid y Valencia, y el apartado II, en lo que concierne a la Delegación Especial de Valencia, por el art. único.3 de la Resolución de 29 de julio de 2025. Ref. BOE-A-2025-17395
 
 > Se modifica el apartado I, en lo que concierne a la Delegación Especial de Madrid, por la disposición final 1.3 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
 

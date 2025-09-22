@@ -2,7 +2,7 @@
 
 1. La superior jefatura de las Delegaciones Especiales corresponde a su titular que, dependiendo directamente de la Dirección General de la Agencia Tributaria, desarrollará las competencias y funciones que le atribuye el apartado quinto de la presente resolución, conforme a las directrices y criterios de actuación establecidos por la Dirección General de la Agencia Tributaria y por los Departamentos y Servicios en el ámbito de sus competencias.
 
-2. En las Delegaciones Especiales de Andalucía, Ceuta y Melilla, de Cataluña, de Madrid y de Valencia, dependiendo directamente del titular de la Delegación Especial, existirán dos Delegados Especiales Adjuntos, que ejercerán las funciones enumeradas en el apartado sexto.
+2. En las Delegaciones Especiales de Andalucía, Ceuta y Melilla, de Cataluña, de Madrid y de la Comunitat Valenciana, dependiendo directamente del titular de la Delegación Especial, existirán dos Delegados Especiales Adjuntos, que ejercerán las funciones enumeradas en el apartado sexto.
 
 3. Las Delegaciones Especiales de la Agencia Tributaria estarán integradas por las siguientes Dependencias Regionales:
 
@@ -29,3 +29,5 @@ No obstante, las Dependencias Regionales de Relaciones Institucionales sólo exi
 6. En las Delegaciones Especiales de la Agencia Tributaria cuyo ámbito territorial coincida con el de Comunidades Autónomas uniprovinciales en las que no exista Delegación de la Agencia Tributaria, existirá una Oficina de Comunicación con los Juzgados y Tribunales de Justicia, en los términos establecidos en la Resolución de 23 de junio de 1998, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se crean las Oficinas de Comunicación con los Juzgados y Tribunales de Justicia en el ámbito de las Delegaciones de la Agencia Tributaria y se regula su funcionamiento.
 
 En los demás casos, la Oficina de Comunicación con Juzgados y Tribunales se integrará en las Delegaciones de la Agencia Tributaria, en los términos que establece el apartado octavo.3 de la presente resolución o en las Delegaciones Especiales correspondientes en las provincias sin Delegación de la Agencia Tributaria.
+
+> Se modifica el apartado 2 por el art. único.1 de la Resolución de 29 de julio de 2025. Ref. BOE-A-2025-17395
