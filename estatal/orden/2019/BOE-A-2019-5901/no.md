@@ -1,0 +1,1 @@
+Norma derogada, en el ámbito de competencias del Ministerio de Cultura, con efectos de 1 de octubre de 2025, por la disposición derogatoria única.2 de la Orden CLT/1063/2025, de 24 de septiembre. Ref. BOE-A-2025-19343
