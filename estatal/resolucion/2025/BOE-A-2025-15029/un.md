@@ -1,0 +1,3 @@
+## Undécimo. Recursos.
+
+La presente resolución pone fin a la vía administrativa. Contra ella podrá interponerse recurso potestativo de reposición ante la Presidencia del Consejo Superior de Deportes, en el plazo de un mes contado desde el día siguiente al de la publicación del extracto en el BOE, con arreglo a los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, y/o recurso contencioso-administrativo ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, en el plazo de dos meses a contar desde el día siguiente al de la publicación del extracto en el BOE, de acuerdo con los artículos 11.1 a) y 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contenciosa-administrativa.
