@@ -1,0 +1,3 @@
+## Undécimo. Pérdida de eficacia de la Resolución de 21 de diciembre de 2005, de la Secretaría de Estado de Hacienda y Presupuestos y Presidencia de la Agencia Estatal de Administración Tributaria.
+
+La presente resolución sustituye a la Resolución de 21 de diciembre de 2005, de la Secretaría de Estado de Hacienda y Presupuestos y Presidencia de la Agencia Estatal de Administración Tributaria, por la que se dictan criterios de actuación en materia de suspensión de la ejecución de los actos impugnados mediante recursos y reclamaciones y de relación entre los Tribunales Económico-Administrativos y la Agencia Estatal de Administración Tributaria.
