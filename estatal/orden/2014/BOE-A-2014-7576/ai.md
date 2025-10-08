@@ -72,6 +72,10 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2014/173/07576_8500.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2025/241/19903_16157455_5.png)
+
+> Se añade el mapa relativo a la ZEPA ESZZ16016 Espacio marino de la Costa Central Catalana que figura en el anexo de la Orden TED/1085/2025, de 29 de septiembre, según establece su disposición final 1.2. Ref. BOE-A-2025-19903#df
+
 > Se sustituyen los mapas relativos a las ZEPA ES0000512 y ES0000508 por los que se insertan en la disposición final 1.2 del Real Decreto 531/2025, de 24 de junio. Ref. BOE-A-2025-15425
 
 > Esta modificación resultará de aplicación una vez sean aprobadas por la Comisión Europea las propuestas de ampliación recogidas en el artículo 5 del citado Real Decreto, de conformidad con lo indicado en su apartado 3.
