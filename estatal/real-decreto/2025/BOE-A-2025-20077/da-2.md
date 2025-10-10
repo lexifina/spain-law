@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Elaboración y dispensación de fórmulas magistrales tipificadas de preparados estandarizados de cannabis por oficinas de farmacia.
+
+La elaboración y dispensación de fórmulas magistrales tipificadas de preparados estandarizados de cannabis por oficinas de farmacia podrá ser objeto de regulación específica, sin perjuicio de su participación excepcional como elaboradores por terceros para servicios de farmacia hospitalaria, al amparo de lo dispuesto en el artículo 66 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio.
