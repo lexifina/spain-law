@@ -50,11 +50,11 @@ Cuando el beneficiario sea una comunidad de bienes, herencia yacente o comunidad
 
 22. Declaración expresa de que conoce que todos los datos consignados en la solicitud única de ayudas, así como los que se recogen de otras Administraciones públicas para la cumplimentación de la solicitud y en la tramitación de la misma, podrán ser publicados por la autoridad competente, cumpliendo las medidas de protección de datos conforme al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos.
 
-23. De conformidad con el artículo 106.3, declaración expresa para que la autoridad competente en la gestión de la solicitud única en cada comunidad autónoma, pueda acceder a la información contenida en los registros oficiales con relación a las parcelas agrícolas de la explotación, su régimen de tenencia, actividad agraria ejercida sobre las mismas y cualesquiera otros datos de las parcelas y de las actividades agrarias en ellas desarrolladas necesarios para determinar la subvencionabilidad de las ayudas solicitadas.
+23. Autorización expresa para que la autoridad competente en la gestión de la solicitud única en cada comunidad autónoma, pueda acceder a la información contenida en los registros oficiales para determinar la subvencionabilidad de las ayudas solicitadas.
 
 24. De conformidad con el artículo 8 del Real Decreto 1054/2022, de 27 de diciembre, declaración expresa de que conoce que la información proporcionada en la Solicitud Única y en el Cuaderno Digital de Explotación Agrícola se utilizará de oficio para actualizar la información contenida en el Registro Autonómico de Explotaciones Agrícolas.
 
-25. A efectos de lo indicado en el artículo 10, declaración expresa de ser conocedor de que será excluido de los pagos de ayudas asociadas o ecorregímenes que solicite en superficies de regadío, en el caso de que se produzca un uso ilegal del agua de riego en las mismas que dé lugar a una sanción impuesta por la autoridad competente. Declaración expresa, en su caso, de que cuenta con una concesión, autorización, o cualquier otra forma de acceso legal, para uso privativo del agua, vigente o en tramitación, así como una autorización expresa para que la autoridad competente recabe del organismo de cuenca correspondiente la información necesaria para comprobar el cumplimiento de dicho requisito.
+25. A efectos de lo indicado en el artículo 10, declaración expresa de ser conocedor de que será excluido de los pagos de ayudas asociadas o ecorregímenes que solicite en superficies de regadío, en el caso de que se produzca un uso ilegal del agua de riego en las mismas que dé lugar a una sanción impuesta por la autoridad competente. Declaración expresa, en su caso, de que cuenta con una concesión, autorización, o cualquier otra forma de acceso legal, para uso privativo del agua, vigente o en tramitación, así como una autorización expresa para que la autoridad competente recabe de las administraciones con competencia en materia de agua correspondientes las sanciones impuestas en firme en vía administrativa por infracciones calificadas como graves y muy graves, así como la información necesaria para comprobar el cumplimiento de dicho requisito.
 
 26. En el caso de la práctica de islas de biodiversidad en las superficies de pastos, y conforme a lo dispuesto en el artículo 31.3.b).iii el beneficiario presentará declaración responsable que indique la no utilización de productos fitosanitarios en las islas y márgenes de biodiversidad.
 
@@ -128,7 +128,7 @@ f) Tabaco, la variedad cultivada para proporcionar información estadística req
 
 7. En el caso de la práctica de pastoreo extensivo, y conforme a lo dispuesto en el artículo 30.2, se deberán declarar para cada parcela de pasto, el o los códigos REGA donde se ubiquen los animales que los vayan a pastar. Además, en el momento de solicitud el agricultor que no vaya a realizar el pastoreo con todos los animales de su explotación consignará el número de animales de su explotación, por especie y categoría de acuerdo con el anexo V, con los que tiene previsto realizar esta práctica.
 
-Conforme a lo dispuesto en el artículo 30.2 bis, en el caso de explotaciones ganaderas de tipo “Producción y Reproducción”, se deberán declarar las fechas previstas de inicio y fin de la realización de la actividad de pastoreo por los animales de la explotación en cada grupo de parcelas agrícolas de pasto.
+Conforme a lo dispuesto en el artículo 30.2bis, se deberán declarar las fechas previstas de inicio y fin de la realización de la actividad de pastoreo por los animales de la explotación en cada parcela o grupo de parcelas agrícolas de pasto.
 
 8. Delimitación gráfica de las islas y márgenes de biodiversidad en las superficies de pastos a efectos de la práctica de islas de biodiversidad en dichas superficies.
 
@@ -138,7 +138,9 @@ Conforme a lo dispuesto en el artículo 30.2 bis, en el caso de explotaciones ga
 
 – Barbecho semillado o de biodiversidad.
 
-– Zona de no cosechado de cereales y oleaginosas.
+– Zona de no cosechado de cereales, leguminosas y oleaginosas.
+
+– Zona de no cosechado de especies aromáticas.
 
 10. En el caso de que el productor justifique que en una parcela realiza un método de producción ecológica deberá aportar un certificado que permita comprobar dicha declaración. Cuando la autoridad competente tenga acceso a la información exigida en este punto, se eximirá al beneficiario de la necesidad de adjuntarla con su solicitud.
 
@@ -172,7 +174,7 @@ IV. Intervenciones basadas en el ejercicio de la actividad ganadera
 
 5. Declaración de que los datos de su explotación corresponden a los contenidos en la base de datos informatizada, o en caso contrario, compromiso de comunicar al órgano competente la rectificación según lo establecido en el Real Decreto 479/2004, de 26 de marzo.
 
-6. Declaración de que los datos de los animales del sector vacuno y ovino y caprino corresponden a los contenidos en la base de datos informatizada, o en caso contrario, compromiso de comunicar al órgano competente la rectificación, según lo establecido en el Real Decreto 1980/1998, de 18 de septiembre, por el que se establece un sistema de identificación de los animales de la especie bovina y el Real Decreto 685/2013, de 16 de septiembre, por el que se establece un sistema de identificación y registro de los animales de las especies ovina y caprina, respectivamente.
+6. Declaración de que los datos de los animales del sector vacuno y ovino y caprino corresponden a los contenidos en la base de datos informatizada, o en caso contrario, compromiso de comunicar al órgano competente la rectificación, según lo establecido en el Real Decreto 787/2023, de 17 de octubre, por el que se dictan disposiciones para regular el sistema de trazabilidad, identificación y registro de determinadas especies de animales terrestres en cautividad.
 
 7. A efectos de lo dispuesto en el artículo 84.4 y en el artículo 96.3, declaración del rendimiento lechero medio de bovino de la explotación y rendimiento medio lechero de ovino y/o caprino de la explotación. Se podrá exigir que se aporte certificado oficial sobre rendimiento lechero cuando sea necesario.
 
@@ -215,6 +217,8 @@ V. Información y documentación adicional
 6. En el caso de las ayudas asociadas para los ganaderos extensivos de vacuno de carne, para la producción sostenible de leche de vaca, para la producción sostenible de leche de oveja y cabra a las que se refieren las subsecciones 2.ª, 5.ª y 7.ª de la sección 2.ª del capítulo III del título III, cuando el ganadero realice entregas de leche a un primer comprador cuya residencia o domicilio social no estuviese en España, justificación documental de dichas entregas.
 
 7. Sin perjuicio de lo establecido en los párrafos anteriores, cuando la autoridad competente tenga acceso a la documentación exigida en este apartado V, se eximirá al beneficiario de la necesidad de presentación de dicha documentación, salvo en el caso de que él mismo manifieste su oposición expresa a que la administración acceda a los citados documentos.
+
+> Se modifican los apartados 23 y 25 de la parte I, los apartados 7 y 9 de la parte III y el apartado 6 de la parte IV por el art. 7.17 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica por el art. 3.34 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 

@@ -19,7 +19,9 @@ Para la determinación de la superficie computable por cada una de las categorí
 | Islas de biodiversidad (por 1 m2). | No procede | 2 | 2 |
 | Muros de piedra (por 1m). | 1 | 1 | 1 |
 | Pequeñas construcciones de arquitectura tradicional (por 1 m2). | No procede | 1 | 1 |
-| Zonas de no cosechado de cereal, oleaginosa y aromática (por 1m²). | No procede | 1 | 1 |
+| Zonas de no cosecha de cereal, leguminosa, oleaginosa y aromática (por 1 m2). | No procede | No procede | 1 |
+
+> Se modifica la última fila por el art. 7.21 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica por el art. 3.41 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 

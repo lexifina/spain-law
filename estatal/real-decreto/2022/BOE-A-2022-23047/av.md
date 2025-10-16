@@ -30,7 +30,9 @@ B. La comunidad autónoma por su parte se compromete a:
 
 1. Participar activamente en los grupos y reuniones que se establezcan para la gestión del proyecto.
 
-2. Revisar los requisitos funcionales de las aplicaciones de SGA para asegurar el cumplimiento de la normativa de la Unión Europea, así como la normativa nacional adoptada para el desarrollo del Plan Estratégico de la PAC y, en caso contrario, proponer al Fondo Español de Garantía Agraria, O.A., la modificación necesaria para subsanar la posible falta de adecuación a la norma.
+2. Revisar los requisitos funcionales de las aplicaciones de SGA para asegurar el cumplimiento de la normativa de la Unión Europea, así como la normativa nacional adoptada.
+
+2 bis. Realizar las respectivas verificaciones internas de calidad respecto a los trabajos realizados por el FEGA, O.A para el desarrollo del Plan Estratégico de la PAC y, en caso de que dichas verificaciones pusiesen al descubierto una posible falta de adecuación a la norma, proponer al Fondo Español de Garantía Agraria, O.A. la modificación necesaria para subsanarla.
 
 3. Proporcionar al Fondo Español de Garantía Agraria, O.A., toda la información que éste necesite para el desarrollo del sistema.
 
@@ -53,3 +55,5 @@ B. La comunidad autónoma por su parte se compromete a:
 12. Sin perjuicio de lo anterior, cuando de acuerdo con el artículo 133.2 un componente sea proporcionado por otra comunidad autónoma, aplicar las disposiciones específicas recogidas en el convenio suscrito por el FEGA
 
 13. Colaborar en el mecanismo de financiación de la herramienta, conforme a lo dispuesto en los artículos 132 y 133.
+
+> Se modifica el apartado 2 y se añade el 2 bis de la letra B por el art. 6.13 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583

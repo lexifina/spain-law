@@ -134,7 +134,7 @@ a) A más tardar el 30 de noviembre del año previo al de presentación de la so
 
 b) A más tardar el 30 de noviembre del año previo al de presentación de la solicitud, decisión sobre si la base de datos del SIGPAC residirá en el servidor del Ministerio de Agricultura, Pesca y Alimentación o de la comunidad autónoma.
 
-c) A más tardar el 30 de noviembre del año anterior a la realización del vuelo fotogramétrico, aquellas comunidades autónomas que, de conformidad con los apartados 2 y 3 del artículo 134, deseen aportar las ortofotografías generadas en el marco del PNOA, así como, a partir de 2024, las mejoras que las comunidades autónomas deseen realizar en los productos relacionados, deberán enviar su solicitud aportando la información justificativa que les sea requerida.
+c) A más tardar el 30 de noviembre del año anterior a la realización del vuelo fotogramétrico, aquellas comunidades autónomas que, de conformidad con el apartado 2 del artículo 134, deseen aportar las ortofotografías generadas en el marco del PNOA, deberán enviar su solicitud aportando la información justificativa que les sea requerida.
 
 d) A más tardar el 15 de enero del año de presentación de solicitud, requisitos legales de gestión y buenas condiciones agrarias y medioambientales que se controlarán mediante monitorización.
 
@@ -147,6 +147,8 @@ g) A más tardar el 15 de octubre al año anterior al de la realización de la e
 h) A más tardar el último día del plazo de modificación de la solicitud única, los planes regionales de control a los que se hace referencia en el artículo 31.
 
 i) A más tardar el 15 de diciembre del año de solicitud, los registros de los resultados referentes al contenido de THC en las muestras de cáñamo analizadas.
+
+> Se modifica la letra c) del apartado 7 por el art. 6.12 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifican los apartados 1, 2, 4 y 7 por el art. 2.23 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 

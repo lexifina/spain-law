@@ -66,6 +66,11 @@
 | ENCINA MICORRIZADA O TRUFA |
 | MANO DE BUDA. |
 | LÚPULO |
+| YUZU. |
+| CIRUELO JAPONES. |
+| PINO PIÑONERO. |
+
+> Se añaden tres filas por el art. 7.20 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica el título y se añade una fila por el art. 3.40 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 

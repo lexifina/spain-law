@@ -10,7 +10,9 @@ Parte I. De las organizaciones de productores y las organizaciones transnacional
 
 a) La producción de frutas y hortalizas para la cual se encuentra reconocida la entidad, producida por ella misma y por sus miembros productores, que haya sido comercializada en fresco cumpliendo la correspondiente norma de comercialización, por ella misma.
 
-El valor de dicha producción se referirá a producción comercializada como producto fresco, preparado y envasado, listo para su comercialización. A este respecto, se entenderá producto preparado el sometido a limpieza, despiece, pelado, recorte y secado sin que éstas se transformen en FH transformadas.
+El valor de dicha producción se referirá a producción comercializada como producto fresco, preparado y envasado, listo para su comercialización. A este respecto, se entenderá producto preparado el sometido a limpieza, despiece, pelado, recorte y secado sin que éstas se transformen en frutas y hortalizas transformadas.
+
+De conformidad con lo establecido en el artículo 21.1 del presente real decreto, no se tendrán en cuenta los valores contables de las producciones obtenidas procedentes de las parcelas de regadío que hayan sido sancionadas en firme en vía administrativa por las autoridades competentes.
 
 b) El resultado de aplicar el porcentaje a tanto alzado previsto en el segundo párrafo del artículo 31.2 del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021, al valor facturado por los productos transformados por la organización de productores, asociación de organizaciones de productores, sus miembros productores o filiales de conformidad con el artículo 31.7 del citado Reglamento Delegado (UE) n.º 2022/126.
 
@@ -99,5 +101,7 @@ a) los valores de la producción de cada una de las organizaciones de productore
 b) los valores de la producción comercializada por cada una de las organizaciones de productores que la integran, determinados acorde a lo dispuesto en el artículo 21 del presente real decreto y en la Parte I del presente anexo, en fase salida de cada una de las organizaciones de productores o salida otra asociación que lleve a cabo su comercialización o filial que cumpla lo dispuesto en los apartados a) y b) del artículo 31.7 del Reglamento Delegado (UE) n.º 2022/126 de la Comisión, de 7 de diciembre de 2021; menos, la suma de los valores que contabilicen las organizaciones de productores que la integran para financiar sus programas operativos individuales.
 
 Dichos importes deberán haber sido aprobados tanto por la asamblea general de la asociación como por las de las organizaciones de productores y entidades miembros de la misma que se vayan a beneficiar de la aplicación del programa parcial de la asociación, para financiar dicho programa.
+
+> Se modifica la letra a) del apartado 2 de la parte I por el art. 2.6 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica la letra b) del apartado 3 de la parte II.A por el art. 4.14 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308

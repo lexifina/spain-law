@@ -56,15 +56,19 @@ IV. Zonas de no cosechado de cereales, leguminosas y oleaginosas
 
 Las zonas de no cosechado deberán permanecer en el terreno, con carácter general, al menos hasta el 1 de septiembre del año de solicitud. No obstante, cuando el cultivo todavía permanezca implantado por no haber concluido su ciclo productivo en dicha fecha, tendrá que permanecer al menos un mes adicional desde la fecha de cosecha del resto de la parcela o, en su caso, un mes adicional desde que se haya alcanzado el estado fenológico de madurez comercial del grano.
 
-Los requisitos dimensionales para estas zonas serán los mismos que para márgenes e islas de biodiversidad, según corresponda.
+En el caso de las leguminosas plurianuales, no se podrá dar aprovechamiento desde el 1 de enero hasta, al menos, el 1 de septiembre.
+
+Los requisitos dimensionales para estas zonas serán los mismos que para las islas de biodiversidad.
 
 V. Zonas de no cosechado de especies aromáticas
 
 Las zonas de no cosechado deberán permanecer en el terreno al menos dos meses adicionales desde el inicio de la fecha de recolección del resto de la superficie declarada para el cumplimiento de la práctica.
 
-Los requisitos dimensionales para estas zonas serán los mismos que para márgenes e islas de biodiversidad, según corresponda.
+Los requisitos dimensionales para estas zonas serán los mismos que para las islas de biodiversidad.
 
 Especies aromáticas incluidas: lavanda (Lavandula angustifolia), espliego (Lavandula latifolia), romero (Rosmarinus officinalis), tomillo (Thymus vulgaris), manzanilla (Chamaemelum nobile), salvia (Salvia officinalis y Salvia lavandulifolia), lavandín (Lavandula x hybrida).
+
+> Se modifican los apartados IV y V por el art. 7.18 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica el apartado III y el título del apartado IV por el art. 3.37 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 

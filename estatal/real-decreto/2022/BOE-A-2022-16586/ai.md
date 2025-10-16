@@ -42,25 +42,12 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.2 Medios de producción. |  |
 | A.2.1 Maquinaria y aperos. | - En lo que se refiere a la maquinaria, el alquiler como alternativa a la compra sólo se permitirá cuando se justifique económicamente mediante la presentación de un informe realizado por técnico competente. - Se excluyen las herramientas accionadas manualmente que no requieren ninguna fuente de energía para su funcionamiento y uso. - En caso de que sea obligatorio normativamente, toda la maquinaria y aperos deberá estar inscrita en el Registro Oficial de Maquinaria Agrícola. |
 | Maquinaria y aperos específicos para llevar a cabo las labores de los cultivos incluida la recolección (plataformas de recolección y envasado en campo) para los que está reconocida la organización de productores, o en caso de que esta maquinaria no fuera exclusiva de esos cultivos, justificación de que el valor de esos cultivos representa menos del 50 % de los cultivos empleados por esa acción. |
-| A.2.2 Vehículos. | La titular de los vehículos será la organización de productores y deberán llevar el anagrama de dicha organización de productores. |
-| Vehículos para: Transporte interno de producto de la OP entre centros de trabajo de una OP y desde las explotaciones hasta las instalaciones de la OP; acceso a las explotaciones; quads para trabajo en explotaciones; Otros. | Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación. |
+| A.2.2 Vehículos. | – Serán subvencionables los siguientes medios de transporte en el marco de la OP: vehículos para el transporte interno de la producción y vehículos para el acceso a las explotaciones. – La titular de los vehículos será la organización de productores y éstos deberán llevar el nombre y el anagrama de dicha organización de productores grabado en el exterior. – Los vehículos deberán estar dimensionados según su finalidad concreta y su adquisición por la OP deberá suponer un aumento en la eficacia en el transporte respecto de la situación ex ante a la adquisición, en el transporte interno de producto en el marco de la OP y entre ésta y las explotaciones de sus miembros productores. – En caso de vehículos para el acceso a las explotaciones, deberán ser de uso exclusivo para el personal de asesoramiento técnico contratado al servicio de la OP, en cuyo caso deberá justificarse la necesidad de la adquisición de dicho medio de transporte. – Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación. |
 | A.2.3 Plantones y gastos de plantación. | Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario. |
 | Plantones, patrones, reinjertos, elementos para injertos nuevas plantaciones y royalties asociados a la utilización de variedades protegidas. | – Sólo serán subvencionables plantones provenientes de proveedores inscritos en el Registro Nacional de Productores de Semillas y de Plantas de Vivero. En caso de plantones originarios de proveedores no nacionales, este requisito se considerará cumplido con la tenencia del pasaporte fitosanitario. – Se podrá incluir la mano de obra de plantación o injertos siempre y cuando no se lleve a cabo con medios propios. – Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente. |
 | Patrones | Se podrán incluir los royalties, pero en la misma anualidad del programa operativo que el material vegetal correspondiente. |
-| A.2.4 Otros medios de producción. |  |
-| – GPS, Medios informáticos, robóticos, de inteligencia artificial, cámaras digitales, drones, tensiómetros, sensores de humedad, sondas de humedad y otros medios digitales o de agricultura de Precisión, etc. |
-| – Instrumentos de medida, conductímetro, penetrómetro, sensores de humedad, |
-| – calibradores |
-| – Sistema de análisis y control de la producción |
-| – Mediciones topográficas, barrena |
-| – Protectores de árboles, macetas, cestas de recolección, palets, carros y bandejas, báscula, tijeras de poda, mesa de corte, elementos de aislamiento térmico y humedad para árboles, malla antigranizo |
-| – Equipos de blanqueo y lavado |
-| – Estación de monitoreo |
-| – Línea de manipulación en campo |
-| – Equipo de separación para siembra |
-| – Malla de radiación |
-| – Elementos de entutorado de la plantación, etc. |
-| – Insectarios: construcción y equipamiento de edificios e instalaciones para la cría y aclimatación de especies de enemigos naturales de las plagas (parasitoides, depredadores o patógenos), |
+| A.2.4 Otros medios de producción. |  |  |
+| – GPS, Medios informáticos, robóticos, de inteligencia artificial, cámaras digitales, drones, tensiómetros, sensores de humedad, sondas de humedad y otros medios digitales o de agricultura de Precisión, etc. – Instrumentos de medida, conductímetro, penetrómetro, sensores de humedad, – calibradores. – Sistema de análisis y control de la producción. – Mediciones topográficas, barrena. – Protectores de árboles, macetas, cestas de recolección, palets, carros y bandejas, báscula, tijeras de poda, mesa de corte, elementos de aislamiento térmico y humedad para árboles, malla antigranizo. – Equipos de blanqueo y lavado. – Estación de monitoreo. – Línea de manipulación en campo. – Equipo de separación para siembra. – Malla de radiación. – Elementos de entutorado de la plantación, etc. – Insectarios: construcción y equipamiento de edificios e instalaciones para la cría y aclimatación de especies de enemigos naturales de las plagas (parasitoides, depredadores o patógenos). | El GPS quedará identificado por el número de bastidor y matrícula de la maquinaria en que se instale, en su caso. |
 | A.3 Ajuste de la oferta a la demanda. |  |
 | A.3.1 Arranque de plantaciones de cultivos leñosos. | - Únicamente se podrán arrancar variedades que presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. El arranque deberá notificarse al Sistema Español de Inventario para poder hacer un seguimiento de las emisiones. - Se limitará anualmente al 10 % de la superficie de la organización de productores para la variedad en cuestión. No obstante, dicho porcentaje podrá aumentarse hasta el 25 % si el arranque va acompañado de una reconversión varietal siempre que con la misma no se produzcan incrementos productivos y se realice hacia variedades que no presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. - El gasto anual con cargo al programa operativo estará limitado a 4.750 €/hectárea. |
 | A.4 Medidas dirigidas a mejorar la comercialización. |  |
@@ -84,10 +71,8 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.4.4 Envases y palots de campo que se utilicen más de un año. | El gasto correspondiente a los envases y palots de campo estará limitado al 5 por ciento para el conjunto del programa operativo. En caso de incumplimiento el importe de ayuda correspondiente a la última anualidad del programa operativo se reducirá proporcionalmente al rebasamiento de este límite. |
 | A.4.5 Otras inversiones en infraestructura y equipos para la mejora de la comercialización. |  |
 | A.4.6 Inversiones y gastos relacionados con la transformación de frutas y hortalizas en frutas y hortalizas transformadas. |  |
-|  |
 | A.5 Medidas dirigidas a investigación y producción experimental. |  |
 | i) Ejecutadas por la OP o la AOP: |  |
-|  |
 | A.5.1 Inversiones en instalaciones experimentales o fincas piloto. | – Las inversiones realizadas en las instalaciones de la OP o la AOP habrán de contar con las autorizaciones y licencias necesarias según requiera la naturaleza de la inversión. – Las inversiones deberán enmarcarse en el desarrollo de un proyecto de investigación dirigido a investigación y producción experimental. – Las fincas piloto deberán promover prácticas sostenibles en favor de una agricultura respetuosa con el medioambiente. |
 | A.5.2 Desarrollo de estudios dirigidos a investigación y producción experimental. | – Deberán ser valorados por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente. – Las solicitudes de ayuda se acompañarán de un certificado del centro de investigación en el que conste la evaluación del trabajo realizado y del presupuesto ejecutado y que es coincidente con el aprobado. |
 | A.5.3 Desarrollo de proyectos de investigación dirigidos a investigación y producción experimental. | – La producción experimental se determinará mediante coste específico. Sólo podrá aprobarse cuando se disponga de personal cualificado que se encargue de la misma y se presente un protocolo sobre la experimentación a realizar que justifique la novedad del mismo y el riesgo que supone. Dicho protocolo deberá incluir el cálculo de los costes específicos, y ser valorado por un centro de evaluación en investigación u organismo equivalente a juicio del órgano competente. |
@@ -212,7 +197,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | xi) mejorar las condiciones de empleo y las obligaciones del empleador, así como la salud y seguridad en el trabajo, de conformidad entre otros con las Directivas 1152/2019 / UE (condiciones de trabajo transparentes y predecibles), 89/391 / CEE y 2009/104 / CE (sobre seguridad y salud en el trabajo); dicho objetivo guarda relación con el objetivo específico establecido en el artículo 6, letra h); |  |
 | A.xi.1 Alojamientos para trabajadores temporales o adaptación de los mismos para cumplir con las medidas de seguridad o recomendaciones de distanciamiento |  |
 | A.xi.2 Equipos de protección individual | Material no fungible (amortización superior a un año) |
-| A.xi.3 Medios de transporte que faciliten el acceso al trabajo | – Los vehículos para acceso a las explotaciones serán de uso exclusivo para el personal cualificado al servicio de la OP en la realización de las actividades de la misma. La titular de los vehículos será la organización de productores. – Los vehículos se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos recogidos en el apartado 6 del anexo II del Reglamento Delegado (UE) número 2022/126. |
+| A.xi.3 Medios de transporte que faciliten el acceso al trabajo | – Solo serán subvencionables los siguientes medios de transporte en el marco de la OP: vehículos colectivos para el transporte de trabajadores a las explotaciones. – La titular de los vehículos será la organización de productores y éstos deberán llevar el nombre y el anagrama de dicha organización de productores grabado en el exterior. – Los medios de transporte deberán estar dimensionados según su finalidad concreta. – Deberá justificarse la necesidad de la adquisición del medio de transporte. – Los medios de transporte se podrán financiar mediante arrendamiento financiero. En este caso, no serán subvencionables los gastos inherentes a contratos de arrendamiento financiero (impuestos, intereses, gastos de seguro, etc.) y gastos de explotación. |
 | A.xi.4 Acondicionamiento de maquinaria e instalaciones para limitar riesgos laborales | Será subvencionables los costes que sean superiores a los requisitos obligatorios |
 | A.xi.5 Instalaciones de evacuación | Será subvencionables los costes que sean superiores a los requisitos obligatorios |
 | A.xi.6 Instalaciones de primeros auxilios | Será subvencionables los costes que sean superiores a los requisitos obligatorios |
@@ -280,7 +265,7 @@ Tipo de intervención 1.e) Acciones para aumentar la sostenibilidad y la eficien
 | E.2 Cadena de frío y conservación del producto mediante frío y otras formas de conservación: | Técnicas de prolongación de la vida de frutas y hortalizas. |
 | – Técnicas de prolongación de la vida de frutas y hortalizas. | No son elegibles los gastos relacionados con el mantenimiento y conservación de consumibles ni los gastos de entrada y salida de producto en las cámaras frigoríficas (gastos de funcionamiento). |
 | – Fitorreguladores (1-Metilciclopropeno), catalizador de etileno, retardador, kit de conservación para frutas, a base de SO2 (anhídrido sulfuroso), y otros activos de acción similar. |
-| E.3 Vehículos eléctricos o híbridos o que utilicen energía renovable (para los técnicos de campo y para el transporte de las frutas y hortalizas desde la explotación del agricultor hasta el almacén de manipulación y envasado, también para el transporte de productos dentro del almacén de la OP en el proceso de manipulación y envasado). |  |
+| E.3 Vehículos eléctricos o híbridos o que utilicen energía renovable mencionados en la actuación A.2.2. | – Los mismos que los exigidos para la actuación A.2.2. – En caso de vehículos eléctricos serán subvencionables los puntos de recarga requeridos por éstos, en las instalaciones de la organización de productores. |
 | E.4 Accesorios para medios de transporte frigorífico o en atmósfera controlada (equipo de atmósfera controlada, equipo de control de temperatura) | No se podrá incluir la cabina tractora ni ningún otro elemento que no sea específico de frío o atmósfera controlada |
 | E.5 (Suprimido) |  |
 | E.6 Gastos derivados de transporte de residuos a plantas de tratamiento para fomentar la economía circular mediante la utilización de residuos para elaboración de productos comercializables |  |
@@ -337,9 +322,9 @@ Tipo de intervención 1.i) Acciones para mitigar el cambio climático y adaptars
 | I.5 Adquisición de maquinaria de envasado que en lugar de utilizar plástico, emplee nuevos materiales que están progresivamente substituyéndolos, como pueden ser aquellos procedentes de fécula de patata, maíz, etc.). |  |
 | I.6 Utilización de productos ecológicos y/o biodegradables en el procedimiento de acondicionamiento y conservación de las frutas y hortalizas (ceras naturales, por ejemplo) | Se tendrá en cuenta los gastos adicionales |
 | I.7 Utilización de variedades adaptadas a las consecuencias del cambio climático (plantones, reinjertos y nuevas plantaciones) |  |
-| I.8 Certificación de la huella de carbono |  |
-| I.9 Certificación de la huella hídrica |  |
-| I.10 Certificación de la huella de nitrógeno y nitratos |  |
+| I.8 Certificación de la huella de carbono | Sólo serán subvencionables los certificados expedidos por una entidad acreditada. |
+| I.9 Certificación de la huella hídrica |
+| I.10 Certificación de la huella de nitrógeno y nitratos |
 | I.11 (Suprimido) |  |
 | I.12 (Suprimido) |  |
 | Otros |  |
@@ -423,6 +408,8 @@ Podrá incluir actuaciones realizadas como consecuencia de:
 – Precios anormalmente bajos en momentos puntuales que puedan afectar al comportamiento de la campaña.
 
 – Otras motivaciones, como la disminución coyuntural del consumo debido a condiciones climáticas desfavorables
+
+> Se modifica por el art. 2.5 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica por la disposición final 4.5 del Real Decreto 683/2025, de 29 de julio. Ref. BOE-A-2025-15746
 
