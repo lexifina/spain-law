@@ -8,7 +8,7 @@ b) La empresa distribuidora o transportista no tendrá ninguna obligación legal
 
 2. Los titulares de las instalaciones de producción de cogeneración de energía eléctrica podrán optar por vender toda su energía neta generada, o acogerse a las modalidades de autoconsumo tipo 2 en las condiciones establecidas en este real decreto. La permanencia en una modalidad de venta de energía deberá ser, al menos, de un año.
 
-A estos efectos los titulares de las instalaciones de producción de cogeneración con derecho a la percepción del régimen retributivo específico deberán comunicarlo al órgano encargado de las liquidaciones al inicio de la actividad, en el caso de nuevas instalaciones, o en el plazo de un mes desde que se produzca cualquier cambio en la modalidad de venta de las recogidas en el párrafo anterior.
+A estos efectos los titulares de las instalaciones de producción de cogeneración con derecho a la percepción del régimen retributivo específico deberán comunicarlo al órgano encargado de las liquidaciones al inicio de la actividad, en el caso de nuevas instalaciones, o en el plazo de un mes desde que se produzca cualquier cambio en la modalidad de venta de las recogidas en el párrafo anterior. Estos titulares podrán modificar la modalidad de venta de energía cada tres meses.
 
 3. Los titulares de las instalaciones de producción de cogeneración de energía eléctrica y su consumidor asociado que opten por vender toda su energía neta generada, deberán disponer de contratos de acceso independientes para los consumos de servicios auxiliares de la cogeneración y para el consumidor asociado.
 
@@ -97,3 +97,7 @@ En ningún caso se autorizará realizar el control de potencia en el punto front
 8. A los efectos de la infracción muy grave tipificada en el artículo 64.18 de la Ley 24/2013, de 26 de diciembre, el incumplimiento de las obligaciones previstas en los apartados 4 o 5 el incumplimiento de las obligaciones de solicitud de autorización para utilizar una configuración singular de medida en los plazos previstos en el apartado 6, así como su no adecuación en el plazo establecido en la resolución de autorización previsto en el citado apartado 6,será considerada como un incumplimiento por parte de los responsables del punto de medida de la obligación de disponer de los equipos de medida y control y demás dispositivos que reglamentariamente se hayan establecido, de forma que se impida o altere la correcta medición y facturación.
 
 Asimismo, el incumplimiento de las obligaciones previstas en los apartados 3, 4 y 5 será causa para la suspensión de la condición de sujeto de mercado y, en su caso, de la cancelación de la inscripción en el registro de régimen retributivo específico en estado de explotación, siendo de aplicación lo previsto en el artículo 49 del Real Decreto 413/2014, de 6 de junio, por el que se regula la actividad de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos.
+
+> Se modifica el párrafo segundo del apartado 2 por la disposición final 2 del Real Decreto 917/2025, de 15 de octubre. Ref. BOE-A-2025-20694
+
+> Téngase en cuenta que esta disposición se encuentra derogada, salvo los apartados 1 al 4 y 7, con efectos de 7 de abril de 2019, según establece la disposición derogatoria única.a) del Real Decreto 244/2019, de 5 de abril. Ref. BOE-A-2019-5089#dd.

@@ -10,9 +10,15 @@
 
 2.º Subestaciones y centros de transformación (AT/BT): la potencia total de la instalación, o conjunto de instalaciones, conectadas a una subestación o centro de transformación no superará el 50 por ciento de la capacidad de transformación instalada para ese nivel de tensión.
 
-3. Siempre que se salvaguarden las condiciones de seguridad y calidad de suministro para el sistema eléctrico, en condiciones económicas de igualdad y con las limitaciones que, de acuerdo a la normativa vigente se establezcan por el operador del sistema o en su caso por el gestor de la red distribución, las instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables y cogeneración de alta eficiencia tendrán prioridad para la evacuación de la energía producida, con particular preferencia para la generación no gestionable a partir de fuentes renovables. Asimismo, con el objetivo de contribuir a una integración segura y máxima de la energía eléctrica procedente de fuentes de energía renovables no gestionable el operador del sistema considerará preferentes aquellos generadores cuya adecuación tecnológica contribuya en mayor medida a garantizar las condiciones de seguridad y calidad de suministro para el sistema eléctrico.
+3. Siempre que se salvaguarden las condiciones de seguridad y calidad de suministro para el sistema eléctrico, en condiciones económicas de igualdad y con las limitaciones que, de acuerdo con la normativa vigente se establezcan por el operador del sistema o en su caso por el gestor de la red de distribución, cuando se haga uso de redespacho a la baja no basado en el mercado, las instalaciones de producción de energía eléctrica tendrán la siguiente prioridad para la evacuación de la energía producida, ordenadas de mayor a menor nivel de prelación:
 
-A los efectos de lo previsto en este apartado, se entenderá por generación no gestionable aquella cuya fuente primaria no es controlable ni almacenable y cuyas plantas de producción asociadas carecen de la posibilidad de realizar un control de la producción siguiendo instrucciones del operador del sistema sin incurrir en un vertido de energía primaria, o bien la firmeza de la previsión de producción futura no es suficiente para que pueda considerarse como programa.
+a) Instalaciones a partir de fuentes de energía renovables, incluyendo aquellas que incorporen almacenamiento que no consuma de la red eléctrica y aquellas que consumiendo energía de la red tengan una potencia instalada del módulo de almacenamiento igual o inferior a la potencia instalada del módulo de generación renovable, según las definiciones del artículo 3 y de la disposición adicional undécima.
+
+b) Instalaciones de cogeneración de alta eficiencia, de acuerdo con la definición prevista en el artículo 2 del Real Decreto 616/2007, de 11 de mayo, sobre fomento de la cogeneración, incluyendo aquellas que incorporen almacenamiento.
+
+c) Resto de tecnologías.
+
+Asimismo, con el objetivo de contribuir a una integración segura y máxima de la energía eléctrica procedente de fuentes de energía renovables el operador del sistema considerará preferentes aquellos generadores cuya adecuación tecnológica contribuya en mayor medida a garantizar las condiciones de seguridad y calidad de suministro para el sistema eléctrico.
 
 4. Cuando varios generadores compartan punto de conexión a la red de transporte, la tramitación de los procedimientos de acceso y conexión, ante el operador del sistema y transportista, así como la coordinación con este último tras la puesta en servicio de la generación, deberá realizarse de forma conjunta y coordinada por un Interlocutor Único de Nudo que actuará en representación de los generadores, en los términos y con las funciones que se establezcan.
 
@@ -35,6 +41,10 @@ Sin perjuicio de las especificidades establecidas para las instalaciones que le 
 El presente anexo será de aplicación, sin perjuicio, de las especificidades establecidas para las instalaciones a las que sea de aplicación el Real Decreto 1699/2011, de 18 de noviembre.
 
 No obstante, los anteriores valores máximos y mínimos de frecuencia a los que los generadores pueden desacoplar de la red y sus temporizaciones no serán de aplicación para los módulos de generación de electricidad incluidos dentro del ámbito de aplicación del Reglamento (UE) 2016/631, de 14 de abril de 2016 para los que será de aplicación lo establecido en dicho reglamento, así como en la orden ministerial que apruebe los requisitos que deben establecer los gestores de red pertinentes de conformidad con lo establecido en dicho reglamento.
+
+> Se modifica el apartado 3 por el art. único.21 del Real Decreto 917/2025, de 15 de octubre. Ref. BOE-A-2025-20694
+
+> Téngase en cuenta la disposición transitoria única.4 del citado Real Decreto, en cuanto a los efectos de esta modificación.
 
 > Se deja sin efecto la modificación del apartado 3 por Resolución de 22 de julio de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-15313
 
