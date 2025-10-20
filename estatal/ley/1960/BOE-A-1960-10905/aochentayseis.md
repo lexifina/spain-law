@@ -1,3 +1,5 @@
 ## Artículo ochenta y seis.
 
-El transporte aéreo internacional, tanto español como extranjero, puede ser regular, no regular y de turismo.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339

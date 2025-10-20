@@ -1,5 +1,5 @@
 ## Artículo ochenta y siete.
 
-Toda aeronave que efectúe tráfico internacional habrá de realizar su entrada y salida de territorio español por un aeropuerto aduanero.
+(Derogado)
 
-Sin embargo, las aeronaves de turismo podrán utilizar, previa autorización de la Dirección General de Aviación Civil, todos los aeropuertos abiertos a este tráfico, siempre que no alteren su pasaje o carga.
+> Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339

@@ -1,3 +1,5 @@
 ## Artículo ochenta y dos.
 
-El Ministerio del Aire fijará anualmente las tarifas máximas que podrán aplicarse al tráfico no regular interior, que no podrán ser inferiores a las autorizadas para el servicio regular.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339

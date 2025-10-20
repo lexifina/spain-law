@@ -1,5 +1,5 @@
 ## Artículo setenta y nueve.
 
-El tráfico no regular podrá ser ejercido por empresas individuales o colectivas, sean o no concesionarias de otro tráfico, previa autorización del Ministerio del Aire y bajo su inspección.
+(Derogado)
 
-Las autorizaciones tendrán un plazo de vigencia no inferior a un año ni mayor de diez, pudiendo ser prorrogadas.
+> Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339

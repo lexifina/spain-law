@@ -1,3 +1,5 @@
 ## Artículo ochenta y cinco.
 
-El Estado español tendrá preferencia para adquirir, al término de la concesión, los bienes y derechos afectos al servicio público de transporte aéreo que pertenecieran a la Empresa concesionaria.
+(Derogado)
+
+> Se deroga por la disposición derogatoria única.a) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339

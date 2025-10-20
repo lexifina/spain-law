@@ -12,15 +12,35 @@ Los planes de acción contemplarán asimismo medidas compensatorias para los mun
 
 3. El justo equilibrio entre los intereses en conflicto obligará, asimismo, a la Autoridad aeronáutica competente y al gestor aeroportuario a evaluar continuadamente el impacto ocasionado por la infraestructura a las poblaciones circundantes, a vigilar y sancionar los incumplimientos que se pudieran producir y, en general, a instar o adoptar las medidas pertinentes para compatibilizar una explotación eficiente de la infraestructura aeroportuaria con los derechos de los dueños u ocupantes de los bienes subyacentes.
 
-4. Para cada aeropuerto se creará una Comisión mixta que informará previa y preceptivamente el establecimiento de las servidumbres acústicas y los planes de acción asociados, velando asimismo por su cumplimiento. La Comisión mixta estará formada por un representante del Ministerio de Fomento, un representante del ente gestor correspondiente, un representante del Ministerio de Medio Ambiente, y Medio Rural y Marino, y tres representantes designados por las Comunidades Autónomas, de los cuales al menos uno deberá representar a los Ayuntamientos afectados.
+4. En los aeropuertos de competencia del Estado se constituirá una única Comisión ambiental cuando:
 
-La Comisión mixta tendrá una presidencia rotatoria entre sus miembros, y sus sesiones se celebrarán previa convocatoria de su Presidente, por propia iniciativa, o cuando así lo solicite cualquiera de sus miembros. Sus acuerdos se adoptarán por consenso. No obstante, cuando las discrepancias en el seno de la Comisión impidan los acuerdos unánimes, un informe recogerá el conjunto de las posiciones discrepantes.
+a) En el aeropuerto se aprueben servidumbres aeronáuticas acústicas;
 
-La Comisión podrá consultar a representantes sindicales, empresariales y vecinales en relación con los asuntos que sean objeto de las sesiones que celebre.
+b) La resolución que ponga fin a un procedimiento de evaluación ambiental sobre proyectos de la infraestructura contemple la creación de un órgano colegiado;
 
-Para la aprobación de los planes de acción y el establecimiento de las servidumbres acústicas a que se refiere el apartado 2 anterior, el Ministerio de Fomento recabará el informe de los Ayuntamientos y/o demás Administraciones afectados por dichas servidumbres conforme a lo dispuesto en los artículos 82 y 83 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Asimismo, los ciudadanos afectados por los planes de acción podrán participar en su establecimiento, a cuyo efecto se someterá a información pública, que se realizará de conformidad con lo dispuesto en el artículo 86 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+c) La normativa estatal de aplicación contemple la creación de un órgano colegiado integrado por representantes de la Administración General del Estado y de la administración territorial al que se atribuyan funciones relativas a otros impactos ambientales de la infraestructura.
 
-La Comisión mixta podrá convocar a sus reuniones para debates específicos a los Ayuntamientos afectados que no formen parte de la misma. La participación específica de estos Ayuntamientos será con voz pero sin voto.
+5. Reglamentariamente se establecerán las funciones de estas comisiones que, en todo caso, incluirán:
+
+a) El informe, previo y preceptivo, a la aprobación de las servidumbres aeronáuticas acústicas y de los planes de acción asociados, así como su seguimiento; y
+
+b) Las de carácter informativo que le correspondan conforme a la resolución que ponga fin a los procedimientos de evaluación ambiental de la infraestructura.
+
+6. La norma de creación de las respectivas Comisiones ambientales establecerán su composición, salvaguardando la paridad de voto entre los representantes de la Administración General del Estado y sus organismos públicos vinculados o dependientes, y el resto de los miembros, y asegurando la participación de un representante del titular o gestor del aeropuerto y, en el número que se determine, de representantes de:
+
+a) El Ministerio de Transportes y Movilidad Sostenible, sus órganos, entidades de su sector público institucional con competencias o funciones en materia de aeropuertos de interés general y aviación civil, en uno de los cuales recaerá su presidencia; así como entidades con funciones en materia de navegación aérea.
+
+b) El Ministerio para la Transición Ecológica y el Reto Demográfico, o sus organismos públicos vinculados o dependientes con competencias en materia de medioambiente;
+
+c) La administración de la comunidad autónoma, entre los que ostenten competencias en materia de transporte, medioambiente u ordenación del territorio;
+
+d) Las administraciones locales afectadas, asegurando una participación de los municipios que satisfaga los distintos intereses en conflicto, sin que ningún municipio pueda disponer de más de un miembro en la comisión.
+
+Además, en la Comisión ambiental de los aeródromos utilizados conjuntamente por una base aérea o aeródromo militar y un aeropuerto se integrará un representante del Ministerio de Defensa.
+
+Para el tratamiento de los asuntos del orden del día que así se considere, el presidente podrá convocar a expertos o representantes de los intereses afectados que tendrán la participación que se acuerde.
+
+> Se modifica el apartado 4 y se añaden los apartados 5 y 6 por el art. 1.1 de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
 
 > Se modifica por el art. único de la Ley 5/2010, de 17 de marzo. Ref. BOE-A-2010-4503.
 

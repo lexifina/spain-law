@@ -221,6 +221,10 @@
 | Autorización para la creación de establecimientos de cambio de moneda | Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social. | Artículo 178 |  |
 |  | R. D. 2660/1998, de 14 de diciembre, sobre cambio d e m o n e d a e x t r a n j e r a e n establecimientos abiertos al público distintos de entidades de crédito. | Artículo 3.2 |  |
 
+> Se derogan algunas referencias del anexo II por la disposición derogatoria única.d) de la Ley 8/2025, de 29 de septiembre. Ref. BOE-A-2025-19339
+
+> Téngase en cuenta que estas referencias ya fueron derogadas por el Real Decreto-ley 14/2022, de 1 de agosto.
+
 > Se derogan algunas referencias del anexo II por la disposición derogatoria única.2 del Real Decreto-ley 14/2022, de 1 de agosto. Ref. BOE-A-2022-12925#dd
 
 > Se modifica el anexo 2 por la disposición final 9 de la Ley 15/2014, de 16 de septiembre. Ref. BOE-A-2014-9467.
