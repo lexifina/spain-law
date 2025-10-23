@@ -8,7 +8,7 @@ Parte 1. Lista de materiales que pueden emplearse en la fertilización de los su
 
 a) Materiales que, sin haberse empleado en la elaboración de un producto fertilizante, cumplan con todos los requisitos de las CMCS 3, 4, 5, 6, 12, 13 y 14 del anexo II del Reglamento (UE) 2019/1009. Para su valorización en suelo como residuo, no es necesario cumplir con el requisito del punto 2 de la CMC 1 cuando aplique a las categorías antes listadas.
 
-b) Subproductos de origen animal no aptos para consumo humano, que hayan sido tratados conforme al artículo 20 del Reglamento (CE) 1069/2009.
+b) Subproductos de origen animal no aptos para consumo humano, que hayan sufrido un tratamiento autorizado por la autoridad competente de la comunidad autónoma en la aplicación del Reglamento (CE) 1069/2009 y siempre que cumplan con el apartado 1 del artículo 32 del mismo reglamento.
 
 c) Compost de alperujo.
 
@@ -76,7 +76,7 @@ Sólo se pueden aplicar a los suelos agrarios los lodos incluidos en el anexo I 
 
 Para poderse aplicar a un suelo agrario, los lodos que hayan sido tratados empleando un método diferente del compostaje o la digestión anaerobia deberán demostrar que son estables y que cumplen con los siguientes parámetros:
 
-– Materia orgánica total ≥ 25 %.
+– Materia orgánica total ≥ 25 % s.m.s.
 
 – Declarar contenido en Salmonella.
 
@@ -199,5 +199,9 @@ f) Fechas en las que se puede emplear.
 g) Cultivos en los que se puede emplear.
 
 h) Medidas de gestión de los posibles riesgos.
+
+> Se modifica la letra b) del apartado 1 de la Parte 1 y el primer guion del apartado 5 de la parte 2, por el art. único.9 del Real Decreto 934/2025, de 21 de octubre. Ref. BOE-A-2025-21211
+
+> Esta modificación tiene efectos retroactivos desde la fecha de aprobación del Real Decreto 1051/2022, de 27 de diciembre, según establece la disposición transitoria única del Real Decreto 934/2025.
 
 > Se modifican las partes 1 y 2 por el art. único. 16 y 17 del Real Decreto 840/2024, de 27 de agosto. Ref. BOE-A-2024-17371
