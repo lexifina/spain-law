@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Puestos de difícil cobertura.
+
+La persona titular de la Subsecretaría de Defensa podrá identificar y establecer una relación de plazas de difícil cobertura de personal estatutario en la Red sanitaria militar, así como establecer incentivos económicos para cubrirlas dentro del régimen retributivo propio del personal estatutario. Las medidas de incentivación de carácter económico serán objeto de negociación previa en la Mesa Delegada del Ministerio de Defensa. Tales medidas deberán ser informadas por la Dirección General de la Función Pública en caso de afectar a materias de su competencia, y contar con la autorización previa del Ministerio de Hacienda en caso de que las medidas sean de carácter económico.
