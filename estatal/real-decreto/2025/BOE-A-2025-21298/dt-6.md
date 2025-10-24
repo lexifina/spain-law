@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Régimen jurídico transitorio de los productos comprendidos en el artículo 110 del Reglamento (UE) 2017/746 del Parlamento Europeo y del Consejo, de 5 de abril.
+
+A los efectos previstos en el artículo 110.3 del Reglamento (UE) 2017/746 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, se considerará que los productos comprendidos en dicha disposición siguen cumpliendo con la Directiva 98/79/CE, de 27 de octubre de 1998, relativa a los productos sanitarios para diagnóstico in vitro, cuando cumplan con lo dispuesto en el Real Decreto 1662/2000 de 29 de septiembre.
