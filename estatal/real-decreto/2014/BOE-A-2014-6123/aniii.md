@@ -10,11 +10,9 @@ Lo anterior, se entenderá sin perjuicio de las obligaciones relativas al rango 
 
 La regulación del factor de potencia se realizará y se obtendrá haciendo uso del equipo de medida contador-registrador de la instalación de producción. Se calculará con tres cifras decimales y el redondeo se hará por defecto o por exceso, según que la cuarta cifra decimal sea o no menor de cinco.
 
-2. La penalización por incumplimiento de las obligaciones establecidas en el apartado e) del artículo 7 se establece en 0,261 c€/kWh.
+2. La penalización por incumplimiento de las obligaciones establecidas en el apartado e) del artículo 7 se establece en 0,261 c€/kVArh.
 
 La penalización se aplicará con periodicidad horaria, realizándose, al finalizar cada mes, un cómputo mensual, que será destinado a minorar el coste de los servicios de ajuste que correspondan.
-
-> Se deja sin efecto la modificación del apartado 2 por Resolución de 22 de julio de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-15313
 
 > Se modifica el apartado 2 por el art. 7.2 del Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-12857#a7
 
