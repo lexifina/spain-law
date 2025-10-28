@@ -2,7 +2,7 @@
 
 ## Requisitos mínimos de carácter tecnológico, informático y audiovisual
 
-De acuerdo con el artículo 8.2 de este real decreto, las Universidades públicas y privadas, deberán disponer de:
+De acuerdo con el artículo 8 de este real decreto, las universidades públicas y privadas deberán disponer de:
 
 1. Red y conexión de internet con capacidad y velocidad y latencia máximas que permita la tecnología en cada momento, acorde con el volumen de estudiantado, profesorado y personal de administración y servicios con que cuente la universidad o centro, y, en el caso de nueva creación, con la previsión de estos una vez finalice el despliegue de toda la oferta docente y planificación investigadora programada y expuesta en la Memoria.
 
@@ -19,3 +19,5 @@ De acuerdo con el artículo 8.2 de este real decreto, las Universidades pública
 7. Servicio de biblioteca y documentación cuya dotación y capacidad como mínimo debe ser coherente temáticamente con las titulaciones de grado, máster y doctorado ofertadas y sus necesidades de información y bibliografía, así como con el número de estudiantes matriculados. Asimismo, deberán disponer de sistemas o entornos virtuales desarrollados para garantizar la gestión de las demandas y el préstamo, y la disponibilidad y acceso a la información y documentación en soporte virtual.
 
 8. Dotación de laboratorios y de servicios científico-técnicos concordantes con la programación plurianual de investigación establecida en la Memoria. Concretamente, esta debe ser coherente con los ejes de investigación estratégicos fijados y los grupos de investigación que se declara se impulsarán o ya estén en pleno funcionamiento.
+
+> Se modifica el primer párrafo por el art. 1.30 del Real Decreto 905/2025, de 7 de octubre. Ref. BOE-A-2025-20002

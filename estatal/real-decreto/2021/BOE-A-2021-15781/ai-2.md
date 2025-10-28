@@ -22,7 +22,7 @@ En particular, si el centro universitario responsable del plan de estudios está
 
 1.1 Denominación completa del título en castellano, pudiendo ser en inglés u otro idioma en caso de que todo el título se imparta en este idioma. También podrá tener denominación bilingüe.
 
-1.2 Ámbito de conocimiento al que se adscribe.
+1.2 Campo de estudio al que se adscribe.
 
 1.3 En su caso, Menciones del título de Grado y Especialidades en el título de Máster Universitario.
 
@@ -60,7 +60,7 @@ En particular, si el centro universitario responsable del plan de estudios está
 
 2. Resultados del proceso de formación y de aprendizaje
 
-Los resultados del proceso de formación y de aprendizaje que supone un título académico, y que se concretan en conocimientos o contenidos, competencias y habilidades o destrezas asumidos por el estudiantado, deberán tener en cuenta los principios generales de la organización de las enseñanzas universitarias oficiales establecidos en este real decreto, en especial aquellos fijados en el artículo 3 y en el artículo 4; y en el caso de títulos que habilitan para el ejercicio de una actividad profesional regulada, ajustarse a las disposiciones establecidas en la correspondiente orden ministerial. Asimismo, deberán estar alineados con el nivel MECES de cualificación del título en el Espacio Europeo de Educación Superior (EEES) y ser coherentes con la denominación del título, su ámbito de conocimiento y el perfil de egreso.
+Los resultados del proceso de formación y de aprendizaje que supone un título académico, y que se concretan en conocimientos o contenidos, competencias y habilidades o destrezas asumidos por el estudiantado, deberán tener en cuenta los principios generales de la organización de las enseñanzas universitarias oficiales establecidos en este real decreto, en especial aquellos fijados en el artículo 3 y en el artículo 4; y en el caso de títulos que habilitan para el ejercicio de una actividad profesional regulada, ajustarse a las disposiciones establecidas en la correspondiente orden ministerial. Asimismo, deberán estar alineados con el nivel MECES de cualificación del título en el Espacio Europeo de Educación Superior (EEES) y ser coherentes con la denominación del título, su campo de estudio y el perfil de egreso.
 
 Estos resultados deben ser evaluables, y deben centrarse en aquellos conocimientos o contenidos, competencias y habilidades o destrezas académicamente relevantes y significativas que definen el proyecto formativo que es un título universitario oficial. Su número no debe exceder en ningún caso de la capacidad para su adquisición por el estudiantado, de la viabilidad organizativa del plan de estudios ni de la racionalidad del sistema de evaluación que valore el progreso en el aprendizaje.
 
@@ -100,11 +100,11 @@ f) En caso de articularse el plan de estudios en módulos, aportar la distribuci
 
 5.1 Descripción de los perfiles básicos del profesorado y de otros recursos humanos necesarios y disponibles para desarrollar adecuadamente el plan de estudios propuesto.
 
-5.2 Los perfiles se pueden describir de manera agregada por ámbitos del conocimiento (con relación a la docencia) o áreas de conocimiento del profesorado implicado (entendiéndose en términos del perfil de la plaza del profesorado), si bien se podrá descender a nivel del profesor o de la profesora implicados, sin necesidad en este caso de aportar información nominal.
+5.2 Los perfiles se pueden describir de manera agregada por campos de estudio (con relación a la docencia) o áreas de conocimiento del profesorado implicado (entendiéndose en términos del perfil de la plaza del profesorado), si bien se podrá descender a nivel del profesor o de la profesora implicados, sin necesidad en este caso de aportar información nominal.
 
 5.3 Concretamente, se aportará la siguiente información:
 
-a) Denominación del ámbito de conocimiento o área de conocimiento.
+a) Denominación del campo de estudio o área de conocimiento.
 
 b) Número de profesores/as.
 
@@ -120,7 +120,7 @@ g) Materias o asignaturas en las que están implicados.
 
 h) Número de ECTS asumidos en las materias o asignaturas del plan de estudios.
 
-i) Disponibilidad docente (en ECTS) por ámbito conocimiento o área de conocimiento.
+i) Disponibilidad docente (en ECTS) por campo de estudio o área de conocimiento.
 
 6. Recursos para el aprendizaje: materiales e infraestructurales, prácticas y servicios
 
@@ -149,3 +149,5 @@ A tal fin, se facilitará un acceso a la documentación del SIGC, indicando en s
 ## Anexos
 
 La universidad podrá incluir como anexos, en su caso, propuestas de desarrollos particulares para el título de determinadas normativas institucionales de organización académica con relación a especificidades de su naturaleza académica o profesionalizadora.
+
+> Se modifican las referencias a "ámbito de conocimiento" por "campo de estudio" por el art. 4.1 del Real Decreto 905/2025, de 7 de octubre. Ref. BOE-A-2025-20002
