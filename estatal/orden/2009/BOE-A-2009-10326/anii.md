@@ -33,6 +33,7 @@
 | 221 | Desde el día 1 hasta el 20 del mes de julio (**). |
 | 222 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre. |
 | 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
+| 242 | Desde el día 1 hasta el 20 de abril. *Solo cuando el período impositivo finalice el día 31 de diciembre. Desde el día 1 hasta el 20 de julio. ***Solo cuando el período de transición finalice el 31 de diciembre. |
 | 303 | Plazo: Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
 | 309 (***) | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 353 | Plazo: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero salvo, en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
@@ -72,6 +73,10 @@
 (**) Solo cuando el periodo impositivo finalice el día 31 de diciembre.
 
 (***) Sólo cuando el periodo sea trimestral.
+
+> Se añade el modelo 242 por la disposición final 2.2 de la Orden HAC/1198/2025, de 21 de octubre. Ref. BOE-A-2025-21727
+
+> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez a los períodos impositivos iniciados a partir del 31 de diciembre de 2023, según establecen la disposición final 4 de la citada Orden.
 
 > Se añaden los modelos 780 y 781, con la nota a pie de tabla (*), por la disposición final 2.2 de la Orden HAC/532/2025, de 26 de mayo. Ref. BOE-A-2025-10597#df-2
 

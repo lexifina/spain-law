@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Plazo de presentación y domiciliación del modelo 242 correspondiente al periodo impositivo de transición.
+
+1. De acuerdo con lo dispuesto en la disposición transitoria tercera, apartado 2, del Reglamento del Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, la presentación del modelo 242, «Autoliquidación del Impuesto Complementario», correspondiente al periodo impositivo de transición deberá realizarse en el plazo de los 25 días naturales siguientes al decimoctavo mes posterior a la conclusión de dicho período impositivo de transición.
+
+2. En todo caso, ningún modelo 242, «Autoliquidación del Impuesto Complementario», cualquiera que sea el período impositivo a que se refiera, podrá presentarse antes del 30 de junio de 2026, computándose el plazo de 25 días a que se refiere el apartado anterior a partir de dicha fecha.
+
+3. Los contribuyentes cuyo período de transición finalice el 31 de diciembre, distintos de los previstos en el apartado anterior, podrán utilizar como medio de pago de las deudas tributarias resultantes de la misma la domiciliación en los términos previstos en el artículo 19, si bien, la domiciliación bancaria a que se refiere dicho artículo podrá realizarse desde el día 1 de julio hasta el 20 de julio, ambos inclusive. En este caso, el plazo de domiciliación del modelo 242 que deba presentarse según lo previsto en el apartado anterior será del 1 al 21 de julio de 2026.

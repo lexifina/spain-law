@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Declaración informativa simplificada.
+
+Para aquellos periodos impositivos iniciados con anterioridad a 31 de diciembre de 2028, o con posterioridad a dicha fecha, siempre y cuando finalicen antes de 1 de julio de 2030, los grupos multinacionales o nacionales de gran magnitud podrán optar por presentar, en la propia declaración informativa, de forma simplificada, el contenido al que se refiere la disposición transitoria segunda del Reglamento del Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud.

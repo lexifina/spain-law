@@ -29,6 +29,7 @@
 | 221 | Autoliquidación de la prestación patrimonial por conversión de activos por impuesto diferido en crédito exigible frente a la administración tributaria. |
 | 222 | Pago fraccionado. Régimen de consolidación fiscal. |
 | 230 | Impuesto sobre la Renta de las Personas Físicas e Impuesto sobre la Renta de no Residentes: Retenciones e ingresos a cuenta del Gravamen Especial sobre los premios de determinadas loterías y apuestas; Impuesto sobre Sociedades: Retenciones e ingresos a cuenta sobre los premios de determinadas loterías y apuestas. Autoliquidación. Período de ingreso: M. |
+| 242 | Autoliquidación del Impuesto Complementario. |
 | 303 | Impuesto sobre el Valor Añadido. Autoliquidación. |
 | 309 (***) | Declaración-liquidación no periódica del Impuesto sobre el Valor Añadido. |
 | 353 | Impuesto sobre el Valor Añadido. Grupo de entidades. Modelo agregado. Autoliquidación mensual. |
@@ -67,6 +68,10 @@
 (**) Todas las claves de tipo de renta excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles).
 
 (***) Sólo cuando el periodo sea trimestral.
+
+> Se añade el modelo 242 por la disposición final 2.1 de la Orden HAC/1198/2025, de 21 de octubre. Ref. BOE-A-2025-21727
+
+> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez a los períodos impositivos iniciados a partir del 31 de diciembre de 2023, según establecen la disposición final 4 de la citada Orden.
 
 > Se añaden los modelos 780 y 781 por la disposición final 2.1 de la Orden HAC/532/2025, de 26 de mayo. Ref. BOE-A-2025-10597#df-2
 
