@@ -36,9 +36,9 @@ En función del desarrollo de las convocatorias de la sección “Cero” recogi
 
 ## Artículo 5. Plazo para la presentación de solicitudes.
 
-El plazo de presentación de las solicitudes de ayuda comenzará el día de activación del sistema telemático de gestión de ayudas del Programa y permanecerá abierto hasta el 31 de octubre de 2025, ambos inclusive, o hasta que se agote el presupuesto establecido en la convocatoria, en caso de producirse con anterioridad.
+El plazo de presentación de las solicitudes de ayuda comenzará el día de activación del sistema telemático de gestión de ayudas del Programa y permanecerá abierto hasta el 31 de diciembre de 2025, ambos inclusive, o hasta que se agote el presupuesto establecido en la convocatoria, en caso de producirse con anterioridad.
 
-La fecha y hora de activación del sistema telemático de gestión de ayudas se establecerá por resolución de la Secretaria de Estado de Industria y será publicada a través del portal de ayudas de Ministerio de Industria y Turismo.
+La fecha y hora de activación del sistema telemático de gestión de ayudas se establecerá por resolución de la persona titular de la Secretaría de Estado de Industria y será publicada a través del portal de ayudas de Ministerio de Industria y Turismo.
 
 ## Artículo 6. Órganos competentes para instruir y resolver el procedimiento de concesión y órgano responsable del seguimiento de las subvenciones.
 
@@ -65,6 +65,8 @@ Serán causas de anulación o de reintegro de las ayudas de esta convocatoria la
 ## Artículo 11. Publicidad.
 
 Las obligaciones sobre la publicidad de las ayudas que se otorguen en esta convocatoria se atendrán a lo indicado en el artículo 17 de este real decreto-ley.
+
+> Se modifica el art. 5 por la disposición final 4.9 del Real Decreto-ley 12/2025, de 28 de octubre. Ref. BOE-A-2025-21725
 
 > Se modifican los arts. 4 y 5 por el art. único.7 y 8 de la Orden ITU/658/2025, de 20 de junio. Ref. BOE-A-2025-12836
 
