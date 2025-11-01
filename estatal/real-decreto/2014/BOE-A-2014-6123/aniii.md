@@ -14,6 +14,12 @@ La regulación del factor de potencia se realizará y se obtendrá haciendo uso 
 
 La penalización se aplicará con periodicidad horaria, realizándose, al finalizar cada mes, un cómputo mensual, que será destinado a minorar el coste de los servicios de ajuste que correspondan.
 
+> Se modifica el apartado 2 por el art. único.20 del Real Decreto 917/2025, de 15 de octubre. Ref. BOE-A-2025-20694
+
+> Esta modificación surte efectos desde el 1 de noviembre de 2025, según establece la disposición transitoria única.3 del citado Real Decreto.
+
+> Se deja sin efecto la modificación del apartado 2 por Resolución de 22 de julio de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-15313
+
 > Se modifica el apartado 2 por el art. 7.2 del Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-12857#a7
 
 > Téngase en cuenta que esta modificación surte efectos el 25 de octubre de 2025, cuatro meses después de la entrada en vigor del citado Real Decreto-ley, según establece su art. 37.1.
