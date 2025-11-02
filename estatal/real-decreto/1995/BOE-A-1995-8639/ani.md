@@ -45,6 +45,7 @@
 | Pargo (Pagrus pagrus) | 15 |
 | Patudo (Thunnus obesus) | 3,2 kg |
 | Platija (Platichthys flesus) | 25 |
+| Pulpo (Octopus vulgaris) | 1 kg |
 | Rabil (Thunnus albacares) | 3,2 kg |
 | Rape (Lophius piscatorius, L. Budegassa) | (*) |
 | Ramal (Scophthalmus rhombus) | 30 |
@@ -63,5 +64,7 @@
 (**) Excepto en la división IX, a), en la que la talla mínima es de 10 centímetros.
 
 (***) Excepto en las divisiones 8a y 8b del Consejo Internacional para la Exploración del Mar, tanto para la pesca profesional como para la pesca recreativa, en las que la talla mínima es de 44 centímetros.
+
+> Se modifica por el art. único.1 del Real Decreto 936/2025, de 21 de octubre. Ref. BOE-A-2025-22024
 
 > Se modifca la fila relativa a la lubina y se añade una nueva nota por la disposición final 1 del Real Decreto 664/2023, de 18 de julio. Ref. BOE-A-2023-16726

@@ -33,12 +33,17 @@
 | Pagel, besugo (Pagellus spp) | 12 |
 | Palometa negra o japuta (Brama brama). | 16 |
 | Pargo (Pagrus pagrus) | 18 |
+| Pulpo (Octopus vulgaris) * | 1 kg |
 | Rape (Lophius spp) | 30 |
 | Salema (Sarpa salpa) | 15 |
 | Salmonete (Mullus spp) | 11 |
 | Sardina (Sardina pilchardus) | 11 |
 | Sargo (Diplodus spp) | 15 |
 | Vieira (Pecten spp) | 10 |
+
+(*) La talla del pulpo (Octopus vulgaris) recogida en la presente tabla no es de aplicación en las aguas interiores y la plataforma continental de la Comunidad Autónoma de las Illes Balears.
+
+> Se modifica por el art. único.2 del Real Decreto 936/2025, de 21 de octubre. Ref. BOE-A-2025-22024
 
 > Se modifica por el art. único del Real Decreto 1615/2005, de 30 de diciembre. Ref. BOE-A-2006-756
 

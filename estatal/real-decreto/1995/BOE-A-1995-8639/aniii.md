@@ -27,6 +27,7 @@
 | Palometa negra o japuta (Brama brama) | Pez tontón | 16 |
 | Pargo (Pagrus pagrus) | Bocinegro | 28 |
 | Patudo (Thunnus obesus) | Tuna | 3,2 kg |
+| Pulpo (Octopus vulgaris) |  | 1 kg |
 | Rabil (Thunnus aibacares) | Rabil | 3,2 kg |
 | Salema (Sarpa salpa) | Salema, salpa | 24 |
 | Salmonetes (Mullus spp) | Salmón, salmonete | 15 |
@@ -34,6 +35,8 @@
 | Sardina (Sardina pilchardus) | Sardina | 11 |
 | Sargo (Diplodus sargus) | Sargo, sargo blanco | 22 |
 | Serrano imperial (Serranus atricauda) | Cabrilla negra o cabrilla ruana | 20 |
+
+> Se modifica por el art. único.3 del Real Decreto 936/2025, de 21 de octubre. Ref. BOE-A-2025-22024
 
 > Se modifica por el art. 2.2 y 3 del Real Decreto 1076/2015, de 27 de noviembre. Ref. BOE-A-2015-12897.
 
