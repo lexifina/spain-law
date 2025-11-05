@@ -1,12 +1,12 @@
 ## ANEXO II
 
-## Documentación a trasladar a la Dirección General de Ordenación Pesquera y Acuicultura para la emisión del informe en los expedientes de entrada de capacidad
+## Documentación a trasladar a la Dirección General de Ordenación Pesquera y Acuicultura para la emisión del informe en los expedientes de entrada de capacidad de buques de pesca
 
 1. Solicitud del interesado remitida a la comunidad autónoma.
 
 2. Compromisos de aportación de capacidad conforme al artículo 8.
 
-3. En caso de la entrada de una nueva unidad en el Registro General de Flota Pesquera, informe sobre las posibilidades de pesca con las que contará, si esto fuera procedente.
+3. En caso de la entrada de una nueva unidad, declaración relativa a las posibilidades de pesca de las que prevé disponer, si esto fuera procedente.
 
 4. Declaración responsable del interesado de no haber recibido, en el plazo que especifica la normativa vigente relativa a los fondos europeos, ayudas para la paralización definitiva de la actividad pesquera, o que, en el caso de haberla recibido, se ha devuelto el importe por una cantidad equivalente al periodo de incumplimiento de la obligación.
 
@@ -14,7 +14,7 @@
 
 a) El tipo de expediente de entrada de capacidad.
 
-b) Las especificaciones técnicas del buque, y en particular: la eslora total, la manga, el puntal, el arqueo GT, el volumen bajo cubierta (VBC), y la potencia del motor medida en kW.
+b) Las especificaciones técnicas del buque, y en particular: la eslora total, la manga, el puntal, el arqueo GT, y la potencia del motor medida en kW.
 
 c) Especificaciones técnicas del motor, incluyendo si este se encuentra tarado o no.
 
@@ -38,4 +38,4 @@ b) En las obras con incremento de GT:
 
 – Las dimensiones y/o arqueo GT final que tendrá el buque tras la finalización de dicha obra.
 
-– En el caso de las obras reguladas por el artículo 14.6, declaración responsable que el incremento de arqueo se destina a la mejora de la seguridad a bordo, las condiciones de trabajo, la higiene y la calidad de los productos y que no aumentará la capacidad de capturas del buque.
+> Se modifican el título y los apartados 3, 5.b) y 6.b) por el art. 1.19 del Real Decreto 935/2025, de 21 de octubre. Ref. BOE-A-2025-22249
