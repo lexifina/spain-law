@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2025-11-05. The recorded cause is disposición derogatoria única de la Ley 9/2022, de 14 de junio de 2022, Ref. BOE-A-2022-9837#dd, pero continuaba en vigor hasta que se aprobase el desarrollo reglamentario del Consejo sobre la Calidad de la Arquitectura, según establece la disposición transitoria 2 de la citada Ley (BOE-A-2022-9837). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
