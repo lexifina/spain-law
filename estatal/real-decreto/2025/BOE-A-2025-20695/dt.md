@@ -1,0 +1,3 @@
+## Disposición transitoria única. Reestructuraciones de los puestos de trabajo vinculados a los cargos que integran el Consejo sobre la Calidad de la Arquitectura.
+
+En los supuestos de reestructuración administrativa, quienes desempeñen las Presidencias, Vicepresidencias, Secretarías y Vocalías del Consejo sobre la Calidad de la Arquitectura o de los órganos adscritos al mismo por razón del puesto que ocupan en el marco de su organización, continuarán transitoriamente en el desempeño de sus funciones hasta tanto se articulen las oportunas reorganizaciones estructurales y, en su caso, se produzca su remoción en el puesto habilitante.
