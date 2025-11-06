@@ -37,6 +37,10 @@ Siempre que se haga referencia a grupos de sustancias químicas dialquiladas, se
 | HN3: Tris(2-cloroetil)amina | (555-77-1) |
 | 7. Saxitoxina | (35523-89-8) |
 | 8. Ricina | (9009-86-3) |
+| 13. Fluoruros de P-alquil (H o ≤ C10, incluido el cicloalquilo) N-(1-(dialquil(≤ C10, incluido el cicloalquilo)amino))alquiliden(H o ≤ C10, incluido el cicloalquilo) fosfonamídicos y sales alquilatadas o protonadas correspondientes. Ej: fluoruro de N-(1-(di-n-decilamino)-n-deciliden)-P-decilfosfonamídico. Metil-(1-(dietilamino)etiliden)fosfonamidofluoridato. | (2387495-99-8) (2387496-12-8) |
+| 14. O-alquil (H o ≤ C10, incluido el cicloalquilo) N-(1-(dialquil(≤ C10, incluido el cicloalquilo)amino))alquiliden(H o ≤ C10, incluido el cicloalquilo) fosforamidofluoridatos y sales alquilatadas o protonadas correspondientes. Ej: O-n-decil N-(1-(di-n-decilamino)-n-deciliden)fosforamidofluoridato. Metil-(1-(dietilamino)etiliden)fosforamidofluoridato. Etil-(1-(dietilamino)etiliden)fosforamidofluoridato. | (2387496-00-4) 2387496-04-8) (2387496-06-0) |
+| 15. Metil-(bis(dietilamino)metilen)fosfonamidofluoridato. | (2387496-14-0) |
+| 16. Carbamatos (cuaternarios y bicuaternarios de dimetilcarbamoiloxipiridinas). Cuaternarios de dimetilcarbamoiloxipiridinas: Dibromuro de 1-[N,N-dialquil(С≤10)-N-(n-(hidroxil, ciano, acetoxi)alquil(С≤10)) amonio]-n-[N-(3-dimetil-carbamoxi-α-picolinil)-N,N-dialquil(С≤10) amonio]decano (n=1-8). Ej.: Dibromuro de 1-[N,N-dimetil-N-(2-hidroxi)etilamonio]-10-[N-(3-dimetil carbamoxi-α-picolinil)-N,N-dimetilamonio]decano. Bicuaternarios de dimetilcarbamoiloxipiridinas: Dibromuro de 1,n-bis[N-(3-dimetilcarbamoxi-α-picolil)-N,N-dialquil((С≤10) amonio]- alcano-(2,(n-1)-diona) (n=2-12). Ej.: Dibromuro de 1,10-bis[N-(3-dimetilcarbamoxi-α-picolil)-N-etil-N-metilamonio]- decano-2,9-diona. | (77104-62-2) (77104-00-8) |
 | B) Precursores: |  |
 | 9. Difluoruros de alquil (metil, etil, n-propil o isopropil) fosfonilo. |  |
 | Ej.: DF: difluoruro de metilfosfonilo | (676-99-3) |
@@ -86,3 +90,5 @@ Siempre que se haga referencia a grupos de sustancias químicas dialquiladas, se
 | 15. Etildietanolamina | (139-87-7) |
 | 16. Metildietanolamina | (105-59-9) |
 | 17. Trietanolamina | (102-71-6) |
+
+> Se añaden las familias 13, 14, 15 y 16 al apartado A) de la Lista 1 por el art. único.1 de la Orden ITU/1154/2025, de 13 de octubre. Ref. BOE-A-2025-20792
