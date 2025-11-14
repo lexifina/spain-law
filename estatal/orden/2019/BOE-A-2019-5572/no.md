@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Orden CUD/428/2019, de 4 de abril, por la que se crea y regula el Centro de Documentación de las Artes Escénicas y de la Música dependiente de la Dirección General de Artes Escénicas y Música", según establece la disposición final 2.1 del Real Decreto 1028/2025, de 12 de noviembre. Ref. BOE-A-2025-22948
