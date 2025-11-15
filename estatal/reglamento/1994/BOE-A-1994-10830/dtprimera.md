@@ -1,3 +1,5 @@
 ## Disposición transitoria primera.
 
-Aquellos trabajos parlamentarios que estuviesen en curso en el momento de la entrada en vigor del presente Reglamento, acomodarán su tramitación, en la medida de lo posible a las normas del mismo.
+(Suprimida)
+
+> Se suprime por el art. único.137 de la Reforma del Reglamento de 12 de noviembre de 2025. Ref. BOE-A-2025-23055
