@@ -14,20 +14,7 @@ Tres. La primera frase del artículo 3 queda redactada como sigue:
 
 > «Todas las explotaciones deberán cumplir los requisitos siguientes, además de los establecidos en el anexo I.»
 
-Cuatro. El apartado 1 del artículo 3 queda redactado como sigue:
-
-> «1. La superficie de suelo libre de la que deberá disponer cada lechón destetado o cerdo de producción criado en grupo, excluidas las cerdas y las cerdas jóvenes después de la cubrición, será como mínimo:
-
-> | Peso vivo (En kilogramos) | Metros cuadrados |
-> | --- | --- |
-> | Hasta 10. | 0,2 |
-> | Entre 10 y 20. | 0,24 |
-> | Entre 20 y 30. | 0,3 |
-> | Entre 30 y 50. | 0,45 |
-> | Entre 50 y 85. | 0,65 |
-> | Entre 85 y 110. | 0,74 |
-> | Entre 110 y 130. | 1 |
-> | Más de 130. | 1,3» |
+Cuatro. (Anulado)
 
 Cinco. La letra B) del apartado 3 del artículo 3 queda redactada como sigue:
 
@@ -242,3 +229,5 @@ Dieciséis. Se incluye un nuevo anexo, el anexo III, con el siguiente contenido.
 > 5. Descripción de la situación tras la adopción de medidas.
 
 > 6. Observaciones de interés en relación con las dificultades para la puesta en marcha de la medida.»
+
+> Se declara la nulidad del apartado 4 por Sentencia del TS de 3 de noviembre de 2025. Ref. BOE-A-2025-23549
