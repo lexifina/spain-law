@@ -1,0 +1,3 @@
+## Disposición derogatoria.
+
+Quedan derogadas todas las normas de igual o inferior rango que se opongan a lo establecido en este Estatuto del Personal de las Cortes Generales y, en particular, el Estatuto de dicho personal aprobado por las Mesas del Congreso de los Diputados y del Senado, en su reunión conjunta de 27 de marzo de 2006, y sus modificaciones posteriores aprobadas en sus reuniones conjuntas de 16 de septiembre de 2008 y de 21 de septiembre de 2009, así como en la reunión de la Mesa del Senado, de 26 de abril de 2016, y en la reunión de la Mesa del Congreso de los Diputados, de 27 de abril de 2016, y en la de su Diputación Permanente, de 10 de mayo de 2016.

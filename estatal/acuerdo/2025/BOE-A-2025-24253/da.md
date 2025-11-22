@@ -1,0 +1,3 @@
+## Disposición adicional primera. Régimen aplicable al personal funcionario del artículo 3.
+
+El personal funcionario perteneciente a Cuerpos de la Administración General del Estado que, de acuerdo con lo dispuesto en el artículo 3 del presente Estatuto, preste servicio en las Cortes Generales, se regirá por la legislación de funcionarios civiles del Estado. Dependerá jerárquicamente, no obstante, de la Presidencia y de la Secretaría General de cada Cámara en lo relativo el desarrollo de sus funciones. Asimismo, podrá percibir incentivos con cargo al presupuesto de la Cámara a la que se encuentre adscrito.
