@@ -2,7 +2,9 @@
 
 ## Croquis de las zonas de descanso del artículo 12.1
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2023/48/5058_12838503_1.png)
+## (Suprimido)
+
+> Se suprime por el art. único.4 del Real Decreto 933/2025, de 21 de octubre. Ref. BOE-A-2025-22606
 
 > Se añade por el art. único.10 de la Orden APA/177/2023, de 21 de febrero. Ref. BOE-A-2023-5058
 

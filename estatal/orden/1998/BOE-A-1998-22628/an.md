@@ -1,6 +1,10 @@
-## ANEXO I
+## ANEXO
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/173/10097_4933.png)
+
+> Se renumera por el art. único.5 del Real Decreto 933/2025, de 21 de octubre. Ref. BOE-A-2025-22606
+
+> Su anterior denominación era anexo I.
 
 > Se numera por el art. único.10 de la Orden APA/177/2023, de 21 de febrero. Ref. BOE-A-2023-5058
 
