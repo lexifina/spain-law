@@ -1,5 +1,7 @@
-## Disposición adicional tercera. Organización de la Seguridad de la Información.
+## Disposición adicional tercera. Seguridad de la Información.
 
-De acuerdo con la estructura mínima definida en el apartado 11 del Procedimiento de organización de la seguridad, aprobado por el Consejo Rector en fecha 18 de diciembre de 2019, corresponde la dirección de la organización, comprensiva de las responsabilidades de información, servicio y fichero al titular de la dirección de régimen interior, supervisión y control.
+1. El Consejo Rector aprobará la política de seguridad de la Información del organismo como el conjunto de principios básicos y líneas de actuación a los que la organización se compromete en el marco del Esquema Nacional de Seguridad (ENS).
 
-Reportando a aquel se asigna la responsabilidad de la seguridad, al titular del servicio jurídico y la responsabilidad del sistema y administración de la seguridad, al titular de la unidad informática.
+2. El documento aprobado contendrá la designación de quienes desempeñen los distintos roles de seguridad, con responsabilidades diferenciadas, como exige el Esquema Nacional de Seguridad.
+
+> Se modifica por el apartado 20 del Anexo del Acuerdo del Consejo Rector publicado por Resolución de 18 de noviembre de 2025. Ref. BOE-A-2025-24339
