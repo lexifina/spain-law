@@ -223,6 +223,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimoquinta](decimoquinta.md)
 - [Disposición adicional decimosexta](decimosexta.md)
 - [Disposición adicional decimoséptima](da.md)
+- [Disposición adicional décimo octava](da-2.md)
 - [Disposición derogatoria](dd.md)
 - [Disposición transitoria primera](primera-2.md)
 - [Disposición transitoria segunda](segunda-2.md)
