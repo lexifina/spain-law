@@ -1,11 +1,7 @@
 ## Disposición adicional quinta. Subvenciones a las entidades locales por servicios de transporte colectivo urbano.
 
-Los Presupuestos Generales del Estado de cada año incluirán crédito en favor de aquellas entidades locales que, cualquiera que sea la forma de gestión, tengan a su cargo el servicio de transporte colectivo urbano.
+Los Presupuestos Generales del Estado de cada año incluirán crédito destinado a la aportación al Fondo Estatal de Contribución a la Movilidad Sostenible (FECMO-FCPJ) previsto en el artículo 56 de la Ley 9/2025, de Movilidad Sostenible.
 
-La distribución del crédito, que estará determinada por las correspondientes leyes, podrá efectuarse a través de alguna de las siguientes fórmulas:
+Las subvenciones a las entidades locales que tengan a su cargo el servicio urbano colectivo de transporte se imputarán al precitado Fondo en los términos recogidos en la indicada Ley 9/2025, de Movilidad Sostenible.
 
-a) Establecimiento de contratos-programa.
-
-b) Subvenciones destinadas a la financiación de inversiones de infraestructura de transporte.
-
-c) Subvenciones finalistas para el sostenimiento del servicio, otorgadas en función del número de usuarios de este y de su específico ámbito territorial.
+> Se modifica por la disposición final 2.3 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df-2

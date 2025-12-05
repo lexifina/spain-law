@@ -2,11 +2,11 @@
 
 1. Se habilita al Gobierno para dictar las disposiciones necesarias para desarrollar esta ley.
 
-2. Asimismo se habilita específicamente al Gobierno:
+2. Asimismo, se habilita específicamente al Gobierno:
 
 a) para modificar los conceptos básicos contenidos en el anexo I de acuerdo con la variación de sus definiciones que se produzca en el ámbito de acuerdos y convenios internacionales con trascendencia en España.
 
-b) para modificar el anexo II.
+b) para modificar el anexo II y el anexo relativo al cuadro de umbrales de emisión para identificar a un vehículo como gran emisor en función de la tipología del vehículo.
 
 c) para regular las peculiaridades del régimen de autorizaciones y circulación de los vehículos pertenecientes a las Fuerzas Armadas y a la Guardia Civil, a propuesta de los Ministros de Defensa y del Interior, y, en su caso, de los demás ministros competentes.
 
@@ -29,6 +29,8 @@ k) para regular el procedimiento por el que se certifique que un vehículo dotad
 l) para regular los estatutos del organismo autónomo Jefatura Central de Tráfico, creado por la Ley 47/1959, de 30 de julio, sobre regulación de la competencia en materia de tráfico en el territorio nacional, con la denominación que en el Real Decreto se establezca, con objeto de su adecuación a la Ley 40/2015 de 1 de octubre, de Régimen Jurídico del Sector Público.
 
 m) para modificar, mediante real decreto, el contenido del anexo IX, excepto lo previsto en su apartado 3 (Incompatibilidades).
+
+> Se modifica el apartado 2 por la disposición final 1.2.6 de la Ley 9/2025, de 3 de diciembre. Ref. BOE-A-2025-24545#df
 
 > Se añade la letra m) al apartado 2 por el art. 147.5 del Real Decreto-ley 5/2023, de 28 de junio. Ref. BOE-A-2023-15135#a1-59
 

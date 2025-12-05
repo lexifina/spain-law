@@ -1,0 +1,5 @@
+## Disposición transitoria octava. Digitalización del documento de control administrativo exigible para la realización de transporte público de mercancías por carretera y hoja de ruta exigible para la realización de transporte público de personas por carretera.
+
+1. El Documento de control administrativo exigible para la realización de transporte público de mercancías por carretera, regulado en la Orden FOM/2861/2012, de 13 de diciembre, deberá ser necesariamente digital a los diez meses desde la entrada en vigor de esta ley.
+
+2. La hoja de ruta regulada Orden FOM/1230/2013, de 31 de mayo, por la que se establecen normas de control en relación con los transportes públicos de personas por carretera, será necesariamente digital a los diez meses desde la entrada en vigor de esta ley.
