@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 1525/1999, de 1 de octubre, por el que se aprueba el Estatuto de CASA 47 Entidad Pública Empresarial", según establece el art. único.1 del Real Decreto 1123/2025, de 10 de diciembre. Ref. BOE-A-2025-25270
