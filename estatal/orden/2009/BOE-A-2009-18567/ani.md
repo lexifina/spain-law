@@ -1,10 +1,10 @@
 ## ANEXO I
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13279_8104.png)
+(Suprimido)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13279_8144.png)
+> Se suprime por el art. 2.1 de la Orden HAC/1431/2025, de 3 de diciembre. Ref. BOE-A-2025-25390
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/280/13279_8178.png)
+> Esta modificación será aplicable por primera vez para la presentación del modelo 190 correspondiente al ejercicio 2025 y siguientes.
 
 > Se modifica por el art. 1.2 de la Orden HFP/1106/2017, de 16 de noviembre. Ref. BOE-A-2017-13279
 
