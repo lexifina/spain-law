@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Aplicación de normas en materia de financiación de la formación mediante bonificaciones.
+
+Hasta la entrada en vigor de la orden ministerial a la que se refiere el artículo 19 serán de aplicación, salvo en los aspectos que resulten incompatibles con lo dispuesto en el artículo 11 del texto refundido de la Ley del Estatuto de los Trabajadores y en este real decreto, los artículos 8, 9 y 10 de la Orden ESS/2518/2013, de 26 de diciembre, por la que se regulan los aspectos formativos del contrato para la formación y el aprendizaje, en desarrollo del Real Decreto 1529/2012, de 8 de noviembre, por el que se desarrolla el contrato para la formación y el aprendizaje y se establecen las bases de la formación profesional dual.

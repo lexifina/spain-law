@@ -1,1 +1,3 @@
+Norma derogada, con efectos de 17 de diciembre de 2025, por la disposición derogatoria única.c) del Real Decreto 1065/2025, de 26 de noviembre, Ref. BOE-A-2025-24011#dd. No obstante, serán de aplicación, salvo en los aspectos que resulten incompatibles con lo dispuesto en el artículo 11 del texto refundido de la Ley del Estatuto de los Trabajadores y con este Real Decreto, los artículos 8, 9 y 10 de la presente Orden, hasta la entrada en vigor de la orden ministerial a la que se refiere el artículo 19 del citado Real Decreto, según establece su disposición transitoria segunda.
+
 > Incluye la corrección de errores publicada en BOE núm. 26, de 30 de enero de 2014. Ref. BOE-A-2014-915
