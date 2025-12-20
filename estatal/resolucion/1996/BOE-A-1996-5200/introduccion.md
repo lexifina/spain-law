@@ -406,39 +406,59 @@ Ejercicio escrito.
 
 Para vigilantes de seguridad:
 
-Revólver:
+Revólver 4 pulgadas calibre.38.
 
-2 disparos (una serie) de prueba.
-
-8 disparos (2 series de 4) de calificación.
-
-Distancia: 25 metros.
-
-Tiempo: 3 minutos por serie.
-
-Blanco: Una silueta.
-
-Apto: Más del 50 por 100 de impactos en la silueta.
-
-Para guardas particulares de campo:
-
-Carabina:
+Tiro de puntería:
 
 3 disparos (una serie) de prueba.
 
-12 disparos (3 series de 4) de calificación.
+24 disparos (4 series de 6) de puntuación.
 
-Distancia:
+Tiro instintivo:
 
-50 m. para calibre igual o superior a 9 mm Parab.
+4 disparos (2 series de 2) de prueba.
 
-25 m. resto de calibres.
+6 disparos (3 series de 2) puntuables.
+
+Distancias:
+
+Tiro de puntería: 25 metros.
+
+Tiro instintivo: 10 metros.
+
+Tiempo:
+
+Tiro de puntería: 3 minutos por serie.
+
+Tiro instintivo: 3 segundos por serie.
+
+Blanco:
+
+Tiro de puntería: Una silueta.
+
+Tiro instintivo: Dos siluetas.
+
+Aptos: Más del 50 por ciento de impactos en las siluetas en cada una de las modalidades (tiro de puntería y tiro instintivo).
+
+Guardas rurales:
+
+Arma larga: Carabina varios calibres.
+
+Tiro de puntería:
+
+7 disparos (2 series de 3 y 4) de prueba.
+
+30 disparos (6 series de 5) de puntuación.
+
+Distancias:
+
+Calibre igual o superior a 9 milímetros parabellum: 50 metros.
+
+Resto de calibres: 25 metros.
 
 Tiempo: 3 minutos por serie.
 
-Blanco: Una silueta.
-
-Apto: Más del 50 por 100 de impactos en la silueta.
+Aptos: Más del 50 por ciento de impactos en las siluetas.
 
 3. Tribunales:
 
@@ -451,3 +471,5 @@ A los exámenes de los aspirantes será obligatoria la asistencia de instructore
 Hasta tanto no se habiliten instructores de tiro que asuman las funciones que se indican en la presente instrucción, éstas podrán ser realizadas por el personal de la Guardia Civil, debidamente autorizado, que realiza las funciones de supervisión.
 
 En todo caso, las empresas podrán utilizar personal, propio o ajeno, que ejerza provisionalmente labores de instructores, siempre que a juicio del supervisor asistente, acredite formación suficiente para ello.
+
+> Se modifica, con efectos de 20 de diciembre de 2025, el apartado 16.2 por el apartado primero de la Resolución de 15 de septiembre de 2025. Ref. BOE-A-2025-21024
