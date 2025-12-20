@@ -4,6 +4,8 @@
 
 |  | Cuantías en euros por asistencia – Euros |
 | --- | --- |
-| Presidencia y Secretaría | 68,84 |
-| Vocalías | 64,25 |
-| Personal colaborador | 42,87 |
+| Presidencia y Secretaría. | 94,04 |
+| Vocalías. | 87,77 |
+| Personal colaborador. | 58,56 |
+
+> Se modifica por el art. único del Acuerdo de 3 de diciembre de 2025. Ref. BOE-A-2025-26023
