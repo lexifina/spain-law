@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Suspensión de la causa de disolución por pérdidas.
+
+A los solos efectos de determinar la concurrencia de la causa de disolución prevista en el artículo 363.1.e) del texto refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, no se tomarán en consideración las pérdidas de los ejercicios 2020 y 2021 hasta el cierre del ejercicio que se inicie en el año 2026.
+
+Si, excluidas las pérdidas de los años 2020 y 2021 en los términos señalados en el apartado anterior, en el resultado del ejercicio 2022, 2023, 2024, 2025 o 2026 se apreciaran pérdidas que dejen reducido el patrimonio neto a una cantidad inferior a la mitad del capital social, deberá convocarse por los administradores o podrá solicitarse por cualquier socio en el plazo de dos meses a contar desde el cierre del ejercicio conforme al artículo 365 de la citada Ley, la celebración de Junta para proceder a la disolución de la sociedad, a no ser que se aumente o reduzca el capital en la medida suficiente.

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Vigencia de los títulos IV y VIII de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023.
+
+En tanto se apruebe la Ley de Presupuestos Generales del Estado para el año 2026, el contenido de los títulos IV y VIII, y las disposiciones adicionales concordantes de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023, así como sus disposiciones de desarrollo mantendrán su vigencia en 2026 con las modificaciones y excepciones previstas en los artículos 7, 8 y 9 de este real decreto-ley, debiendo entenderse hechas al año 2026 las referencias realizadas por dichas normas al año 2023.

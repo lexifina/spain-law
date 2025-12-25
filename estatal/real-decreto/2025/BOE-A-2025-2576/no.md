@@ -1,0 +1,1 @@
+Se prorroga la vigencia del presente Real Decreto, hasta tanto se apruebe el real decreto por el que se fija el salario mínimo interprofesional para el año 2026 de acuerdo con lo previsto en el artículo 27 del Estatuto de los Trabajadores, por el art. 10 del Real Decreto-ley 16/2025, de 23 de diciembre. Ref. BOE-A-2025-26458#a1-2

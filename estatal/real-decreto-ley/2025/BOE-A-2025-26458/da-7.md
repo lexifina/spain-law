@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Plazo para la aprobación de la orden por la que se revisan los parámetros retributivos de las instalaciones de producción de energía eléctrica en los sistemas eléctricos no peninsulares con régimen retributivo adicional de aplicación al tercer periodo regulatorio.
+
+Excepcionalmente, para el periodo regulatorio que comienza el 1 de enero de 2026, el plazo para la aprobación de la orden ministerial prevista en el artículo 21 del Real Decreto 738/2015, de 31 de julio, por el que se regula la actividad de producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos de los territorios no peninsulares, finalizará el 28 de febrero de 2026.
+
+Los parámetros retributivos resultantes de dicha revisión serán de aplicación desde el inicio del periodo regulatorio. Hasta la aprobación de dicha orden se procederá a liquidar a las instalaciones las cantidades devengadas a cuenta de acuerdo con la retribución que viniesen percibiendo. Una vez aprobada la orden antes citada, se liquidarán las aplicaciones de pago o, en su caso, los derechos de cobro que resulten de aplicación con cargo a la siguiente liquidación.

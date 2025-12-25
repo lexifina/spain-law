@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Valor de la tasa de retribución financiera para la actividad de producción en los sistemas eléctricos no peninsulares con régimen retributivo adicional para el tercer periodo regulatorio 2026-2031.
+
+La tasa de retribución financiera de la actividad de producción en los sistemas eléctricos no peninsulares con régimen retributivo adicional en el tercer periodo regulatorio será el 6,58 %, de acuerdo con lo previsto en el artículo 14.4 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y en los artículos 21 y 28 del Real Decreto 738/2015, de 31 de julio, por el que se regula la actividad de producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos de los territorios no peninsulares.
