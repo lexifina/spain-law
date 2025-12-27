@@ -4,7 +4,7 @@
 
 2. En la tramitación de los procedimientos tributarios se atenderá a la diferente naturaleza de los mismos.
 
-2.1 Procedimientos de gestión tributaria. El inicio y la resolución de los procedimientos de gestión tributaria corresponderá al titular del órgano o sede, a los Jefes de Área, a los Jefes Adjuntos, a los Inspectores Regionales Adjuntos, a los Inspectores Coordinadores y a los Técnicos Jefes de Gestión Tributaria.
+2.1 Procedimientos de gestión tributaria. El inicio y la resolución de los procedimientos de gestión tributaria corresponderá al titular del órgano o sede, a los Jefes de Área, a los Jefes Adjuntos, a los Inspectores Regionales Adjuntos, a los Inspectores Coordinadores, a los Técnicos Jefes de Gestión Tributaria y a los Jefes de Equipo que tengan la condición de Inspector Coordinador, sin perjuicio de la posible delegación de esta competencia en los Jefes de Equipo que no tengan la condición de Inspector Coordinador.
 
 La tramitación de los procedimientos de gestión tributaria se llevará a cabo por el personal integrado en el órgano o sede de Gestión Tributaria, conforme a la organización establecida por su titular y bajo la supervisión del propio titular, de los Jefes de Área, de los Jefes Adjuntos, de los Inspectores Regionales Adjuntos, de los Inspectores Coordinadores, de los Técnicos Jefes de Gestión Tributaria y de los Jefes de Equipos de Gestión y los Jefes de Grupos de Gestión, según corresponda de acuerdo con aquella organización.
 
@@ -13,6 +13,8 @@ Al resto de los funcionarios del Cuerpo Técnico de Hacienda, que no realicen fu
 De entre las tareas propias del resto del personal que preste servicios en los órganos o sedes de Gestión Tributaria, las de mayor nivel técnico corresponderán a los funcionarios de los cuerpos y escalas más altas y de los tramos más elevados de carrera.
 
 2.2 Procedimientos de revisión. Se aplicará la normativa específica de cada procedimiento de revisión y, en lo que resulte aplicable, las mismas reglas de los procedimientos de gestión tributaria.
+
+Corresponderá al Jefe de la Unidad de Recursos y de Relaciones con los Tribunales de la Oficina Nacional de Gestión Tributaria la resolución de los procedimientos que se tramiten en dicha Unidad.
 
 2.3 Procedimientos sancionadores. En lo que resulte aplicable, se seguirán las mismas reglas de los procedimientos de gestión tributaria. No obstante:
 
@@ -31,3 +33,5 @@ Podrán instruir el procedimiento tanto los Inspectores de Hacienda como los Té
 La resolución del procedimiento corresponde al titular del órgano o sede, a los Jefes de Área, a los Jefes Adjuntos, a los Inspectores Regionales Adjuntos, a los Inspectores Coordinadores y a los Técnicos Jefes de Gestión Tributaria, según los casos.
 
 3. La distribución de otras funciones entre el personal de cada órgano o sede de Gestión Tributaria se realizará de forma análoga a lo dispuesto para los procedimientos de gestión tributaria.
+
+> Se modifica por el art. único.3 de la Resolución de 17 de diciembre de 2025. Ref. BOE-A-2025-26607
