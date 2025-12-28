@@ -1,0 +1,3 @@
+## Disposición final sexta. Título competencial.
+
+Esta ley se dicta al amparo del artículo 149.1. 1.ª, 6.ª, 8.ª, 11.ª y 13.ª de la Constitución Española, que atribuyen al Estado, respectivamente, la competencia sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de sus derechos; la competencia exclusiva sobre legislación mercantil; en materia de bases de las obligaciones contractuales; de bases de la ordenación de crédito, banca y seguros, y la competencia sobre las bases y coordinación de la planificación general de la actividad económica.
