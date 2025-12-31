@@ -72,6 +72,8 @@ f) Un dispositivo de control de profundidad.
 
 g) Un dispositivo de control de lastre con sistema de zafado rápido.
 
+En el caso del buceo clásico, se sustituyen las aletas por las botas y el dispositivo de control de presión del suministro de aire se hallará en superficie.
+
 2.1 Equipamiento mínimo para el buceo profesional en técnica de autónomo:
 
 a) Dispositivo de compensación de flotabilidad.
@@ -231,3 +233,5 @@ c) Los buceadores dispondrán como mínimo de:
 13.º Aletas o botas.
 
 14.º Dispositivo de corte.
+
+> Se añade un párrafo al apartado 1.3 por el art. 5.8 del Real Decreto 1188/2025, de 26 de diciembre. Ref. BOE-A-2025-27010

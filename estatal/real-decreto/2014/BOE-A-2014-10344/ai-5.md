@@ -2,10 +2,13 @@
 
 ## Títulos expedidos por otros Estados
 
-| ANDORRA | TÍTULOS | ATRIBUCIONES | OBSERVACIONES |
+| ANDORRA. | TÍTULOS | ATRIBUCIONES | OBSERVACIONES |
 | --- | --- | --- | --- |
-| Patrón de Costa. | Navegación hasta 12 millas en paralelo a la costa en embarcaciones de hasta 24 metros. |  |
-| Patrón de Altura. | Navegación sin limitación de eslora, ni de distancia. |
+| Capitán de Yate. | Embarcaciones de hasta 24 metros de eslora (motor y vela), sin limitaciones. |  |
+| Patrón de Embarcaciones de Recreo. | Embarcaciones de hasta 15 metros de eslora (motor y vela), sin alejarse más de 12 millas de la costa. | Según habilitación (puede ampliar el límite de navegación hasta 60 millas de la costa). |
+| Patrón de Navegación Básica. | Embarcaciones a motor de hasta 7 metros de eslora (motor y vela), sin alejarse más de 3 millas de la costa en navegación diurna. |  |
+| Patrón de Costa. | Embarcaciones de hasta 15 metros de eslora (motor y vela), sin alejarse más de 12 millas de la costa. | Título antiguo equivalente al nuevo título andorrano de patrón de embarcaciones de recreo. |
+| Patrón de Altura. | Embarcaciones de hasta 24 metros de eslora (motor y vela), sin limitaciones. | Título antiguo equivalente al nuevo título andorrano de capitán de yate. |
 | ARGENTINA | TÍTULOS | ATRIBUCIONES | OBSERVACIONES |
 | --- | --- | --- | --- |
 | Patrón de Yate Vela y Motor. | Sin alejarse más de doce millas de la costa (incluye Río de la Plata sin limitaciones). |  |
@@ -46,6 +49,8 @@
 | DAY SKIPPER | Embarcaciones de hasta 24 m de eslora, sin alejarse más de 12 millas de la costa. | Según habilitación (motor o vela). |
 | POWERBOAT LEVEL 2 | Embarcaciones a motor de hasta 10 m de eslora, sin alejarse más de 5 millas de la costa. | A motor. |
 | INTERNATIONAL CERTIFICATE FOR OPERATORS OF PLEASURE CRAFT | Según especifique el certificado: – Embarcaciones de hasta 24 m de eslora (motor o vela). – Embarcaciones a motor de hasta 10 m de eslora. | – Las de hasta 24 m de eslora, sin alejarse más de 12 millas de la costa. – Las de hasta 10 m de eslora, sin alejarse más de 5 millas de la costa. |
+
+> Se modifica la tabla correspondiente a las titulaciones de Andorra por el art. 4.2 del Real Decreto 1188/2025, de 26 de diciembre. Ref. BOE-A-2025-27010
 
 > Se añade la información de Suiza y Reino Unido por la disposición final 2.4 del Real Decreto 339/2021, de 18 de mayo. Ref. BOE-A-2021-8268#df-2
 
