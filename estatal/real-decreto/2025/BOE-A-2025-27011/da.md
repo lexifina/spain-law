@@ -1,0 +1,3 @@
+## Disposición adicional primera. Comunicación de órganos autonómicos competentes.
+
+Con base en el principio de colaboración entre las administraciones públicas, y con el objetivo de que la OEPM pueda ejercer eficazmente como autoridad nacional competente en el sentido del artículo 12.1 del Reglamento (UE) 2023/2411 del Parlamento Europeo y del Consejo, de 18 de octubre de 2023, las comunidades autónomas comunicarán a la OEPM, a más tardar el 1 de diciembre de 2025, el nombre, dirección y datos de contacto del órgano autonómico competente para la fase nacional, según queda definido en el artículo 2.d).

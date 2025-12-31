@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Publicidad de las solicitudes y resoluciones relativas a indicaciones geográficas de ámbito territorial autonómico.
+
+El anuncio de las solicitudes y resoluciones de registro, modificación del pliego o anulación de las indicaciones geográficas de ámbito territorial autonómico se deberán comunicar a la OEPM por los órganos autonómicos competentes, y se publicarán en el «Boletín Oficial de la Propiedad Industrial». Asimismo, esta publicación deberá incluir una referencia a un enlace electrónico donde se aloje el pliego de condiciones y una referencia a un enlace electrónico donde se aloje el documento único.
