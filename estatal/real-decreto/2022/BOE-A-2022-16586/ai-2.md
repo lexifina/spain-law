@@ -118,7 +118,13 @@ iii. Cómo se ha calculado el valor de la producción comercializada, cálculo d
 
 C) En el caso de que el valor de un producto haya experimentado una reducción por motivos ajenos a la responsabilidad y control de la organización: la documentación que justifique este hecho, y que demuestre, en particular, que dicho descenso no se ha debido a disminuciones de los efectivos productivos.
 
-D) Una única declaración responsable que acredite que cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto para las ayudas medioambientales que complementen los eco-regímenes.
+D) (Derogada)
+
+> Téngase en cuenta que la derogación de la letra D) de la parte II, establecida por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre, Ref. BOE-A-2025-20583, produce efectos desde el 1 de enero de 2026.
+
+> Redacción anterior:
+
+> "D) Una única declaración responsable que acredite que cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto para las ayudas medioambientales que complementen los eco-regímenes."
 
 E) La documentación específica que requiera cada acción, actuación, inversión y concepto de gasto.
 
@@ -127,6 +133,8 @@ F) Certificado en el que figure el acuerdo adoptado por la asamblea general de l
 G) Declaración responsable en la que la entidad se compromete a cumplir las disposiciones establecidas en la norma vigente que regula los programas y fondos operativos de las organizaciones de productores del sector de frutas y hortalizas.
 
 H) Declaración responsable relativa a la información mencionada en el segundo guion de la Parte I, letra B.i, del presente anexo.
+
+> Se deroga la letra D) de la parte II, con efectos de 1 de enero de 2026, por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica la letra F) de la parte II por el art. 2.9 del Real Decreto 1059/2024, de 15 de octubre. Ref. BOE-A-2024-21124
 

@@ -72,11 +72,19 @@ En caso de que la contabilidad de la entidad no haya sido aprobada por el órgan
 
 5.º En su caso, la documentación e información descrita en el apartado 5 del anexo I del presente real decreto.
 
-6.º Una única declaración responsable que acredite que cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto las ayudas medioambientales que complementen los ecorregímenes.
+6.º (Derogado)
+
+> Téngase en cuenta que la derogación del apartado 6.º de la letra B), establecida por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre, Ref. BOE-A-2025-20583, produce efectos desde el 1 de enero de 2026.
+
+> Redacción anterior:
+
+> "6.º Una única declaración responsable que acredite que cada uno de los titulares de las acciones, actuaciones, inversiones y conceptos de gasto, no han recibido, ni van a recibir, directa o indirectamente, ninguna otra ayuda por la ejecución de las mismas excepto las ayudas medioambientales que complementen los ecorregímenes."
 
 7.º La documentación específica para cada acción, actuación, inversión y concepto de gasto, exigida por el Reglamento Delegado (UE) n.º 2017/891, el Reglamento de Ejecución (UE) n.º 2017/892, el presente real decreto o las Directrices Nacionales para la Elaboración de los Pliegos de Condiciones referentes a las Acciones Medioambientales.
 
 8.º En el caso de los solicitantes que estén sujetos a lo previsto en el artículo 13.3 bis de la Ley 38/2003, de 17 de noviembre, acreditación de su cumplimiento en los términos dispuestos en dicho artículo.
+
+> Se deroga el apartado 6.º de la letra B), con efectos de 1 de enero de 2026, por la disposición derogatoria única del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 
 > Se modifica el punto 6º de la parte B) por el art. 3.3 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 
