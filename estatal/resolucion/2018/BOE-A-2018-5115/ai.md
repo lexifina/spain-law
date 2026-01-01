@@ -16,23 +16,25 @@ Se establecen las siguientes clases de riesgo:
 
 3. Resto de riesgos: Riesgos comerciales, industriales y otros riesgos.
 
-4. Vehículos automóviles.
+4. Vehículos a motor.
 
-5. Obras civiles.
+5. Vehículos personales ligeros.
+
+6. Obras civiles.
 
 Para la correcta asignación de los riesgos a cada uno de los anteriores grupos se establecen los siguientes criterios de clasificación:
 
 a) El criterio general para la tarificación descansa en el uso que se dé al riesgo asegurado según la actividad que se desarrolle, no siendo determinante la modalidad o ramo de la póliza del seguro.
 
-b) Para que un riesgo se considere «vivienda» deberá estar construido para tal finalidad, y además no estar dedicado a otros usos como, por ejemplo, oficinas, en cuyo caso se considerará del grupo de «oficinas».
+b) Para que un riesgo se considere “vivienda” deberá estar construido para tal finalidad, y además no estar dedicado a otros usos como, por ejemplo, oficinas, en cuyo caso se considerará del grupo de “oficinas”.
 
-c) Las «comunidades de propietarios de viviendas» se consideran pertenecientes al grupo de «viviendas» cuando en la correspondiente póliza se cubra de forma conjunta el riesgo que afecta a las zonas comunes de la comunidad y, además, la superficie destinada a viviendas alcance al menos el 25 por ciento de la superficie total.
+c) Las “comunidades de propietarios de viviendas” se consideran pertenecientes al grupo de “viviendas” cuando en la correspondiente póliza se cubra de forma conjunta el riesgo que afecta a las zonas comunes de la comunidad y, además, la superficie destinada a viviendas alcance al menos el 25 por ciento de la superficie total.
 
-d) Dentro del grupo «oficinas» se incluyen, las bancarias y de seguros, despachos profesionales, agencias de publicidad, de cambio de moneda, de viajes e inmobiliarias y oficinas de alquiler de coches.
+d) Dentro del grupo “oficinas” se incluyen, las bancarias y de seguros, despachos profesionales, agencias de publicidad, de cambio de moneda, de viajes e inmobiliarias y oficinas de alquiler de coches.
 
-e) Dentro del grupo «resto de riesgos» se incluyen los riesgos comerciales e industriales y todo aquel riesgo que no tenga cabida en las otras clases de riesgo.
+e) Dentro del grupo “resto de riesgos” se incluyen los riesgos comerciales e industriales y todo aquel riesgo que no tenga cabida en las otras clases de riesgo.
 
-f) En el grupo de «vehículos automóviles» se establecen los siguientes subgrupos:
+f) En el grupo de “vehículos a motor” se establecen los siguientes subgrupos:
 
 1. Turismos y vehículos comerciales hasta 3.500 kilogramos de peso. Están incluidos en este subgrupo los vehículos de turismo y vehículos comerciales de cuatro o más ruedas, siempre que su peso total, incluida la carga útil, sea igual o inferior a 3.500 kilogramos, así como los vehículos industriales con un peso total inferior a 3.500 kilogramos. Igualmente, se clasifican en este subgrupo los remolques pertenecientes a los vehículos anteriores.
 
@@ -46,15 +48,19 @@ f) En el grupo de «vehículos automóviles» se establecen los siguientes subgr
 
 6. Remolques y semirremolques. Se incluyen en este subgrupo los remolques correspondientes a vehículos de los subgrupos siguientes: camiones, vehículos industriales y autocares, ómnibus y trolebuses.
 
-7. Ciclomotores, triciclos y motocarros. Los vehículos pertenecientes a este grupo han de poseer dos o tres ruedas y precisar permiso o licencia para su conducción.
+7. Ciclomotores, triciclos y motocarros. Los vehículos pertenecientes a este grupo han de poseer dos o tres ruedas y precisar permiso o licencia para su conducción. También se incluyen en este subgrupo los ciclos de motor y otros vehículos con pedales y propulsión auxiliar de velocidad máxima entre 25 km/h y 45 km/h.
 
-8. Motocicletas.
+8. Motocicletas. También se incluyen en este subgrupo otros vehículos diseñados para funcionar a pedal con propulsión auxiliar de velocidad máxima superior a 45 km/h.
 
-Todos los vehículos automóviles a los que les sea exigible el seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor, serán tarificados por aplicación de la tasa de dicho grupo, salvo en el caso de que el vehículo esté amparado en el seguro ordinario por una póliza de daños a vehículos de motor y el aseguramiento sea en lugar determinado, en cuyo caso se considerará como un contenido más del riesgo.
+Todos los vehículos a motor, a los que les sea exigible el seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor, serán tarificados por aplicación de la tasa de dicho grupo, salvo en el caso de que el vehículo esté amparado en el seguro ordinario por una póliza de daños a vehículos de motor y el aseguramiento sea en lugar determinado, en cuyo caso se considerará como un contenido más del riesgo.
 
-No tendrán la consideración de «vehículos automóviles» los trenes, tranvías, ferrocarriles de cremallera, funiculares, grúas pórtico y, en general, cualquier otra maquinaria autopropulsada a la que no se exija para circular por vías públicas la suscripción obligatoria del seguro de responsabilidad civil de vehículos a motor, así como sus remolques y semirremolques.
+No tendrán la consideración de “vehículos a motor” los trenes, tranvías, ferrocarriles de cremallera, funiculares, grúas pórtico y, en general, cualquier otra maquinaria autopropulsada a la que no se exija para circular por vías públicas la suscripción obligatoria del seguro de responsabilidad civil de vehículos a motor, así como sus remolques y semirremolques.
 
-g) En el grupo de «obras civiles» se establecen los siguientes subgrupos:
+g) En el grupo de “vehículos personales ligeros” se incluirán todos aquellos vehículos a los que les sea exigible el seguro obligatorio de responsabilidad civil según disposición adicional primera de la Ley 5/2025, de 24 de julio, y su normativa de desarrollo.
+
+Todos los vehículos personales ligeros, a los que les sea exigible el seguro obligatorio de responsabilidad civil para los vehículos personales ligeros, serán tarificados por aplicación de la tasa de dicho grupo, salvo en el caso de que el vehículo esté amparado en el seguro ordinario por una póliza de daños y el aseguramiento sea en lugar determinado, en cuyo caso se considerará como un contenido más del riesgo.
+
+h) En el grupo de “obras civiles” se establecen los siguientes subgrupos:
 
 1. Autopistas, autovías, carreteras, pistas de aterrizaje de aeronaves, vías férreas y conducciones.
 
@@ -74,7 +80,7 @@ Dentro de las conducciones se consideran incluidas las conducciones de agua, los
 
 B) Tasas de prima.
 
-El pago del recargo que resulte de la aplicación de las siguientes tasas se efectuará al contado por su totalidad, salvo que se opte, de acuerdo con la normativa vigente, por su fraccionamiento.
+El pago del recargo que resulte de la aplicación de las siguientes tasas se efectuará al contado por su totalidad, salvo que se opte, conforme a Derecho, por su fraccionamiento.
 
 B.1) Tasa general. Las tasas de prima a aplicar sobre los capitales asegurados en las pólizas ordinarias para el cálculo del recargo, de carácter anual, son las que se relacionan a continuación:
 
@@ -84,7 +90,7 @@ B.1) Tasa general. Las tasas de prima a aplicar sobre los capitales asegurados e
 
 3. Resto de riesgos: Riesgos comerciales, industriales y otros riesgos: 0,18 por mil.
 
-4. Vehículos automóviles:
+4. Vehículos a motor:
 
 4.1 Turismos y vehículos comerciales hasta 3.500 kg: 2,10 euros.
 
@@ -98,13 +104,17 @@ B.1) Tasa general. Las tasas de prima a aplicar sobre los capitales asegurados e
 
 4.6 Remolques y semirremolques: 5,20 euros.
 
-4.7 Ciclomotores, triciclos y motocarros: 0,30 euros.
+4.7 Ciclomotores, triciclos y motocarros y cuadriciclos ligeros: 0,30 euros.
 
 4.8 Motocicletas: 1,20 euros.
 
-En el caso de que concurriese en la misma póliza un seguro de carácter voluntario, ya sea de responsabilidad civil o de daños propios, con un seguro de responsabilidad civil de suscripción obligatoria del automóvil, sólo será obligatorio un único recargo.
+En el caso de que concurriese en la misma póliza un seguro de carácter voluntario, ya sea de responsabilidad civil o de daños propios, con un seguro de responsabilidad civil de suscripción obligatoria de vehículos a motor, sólo será obligatorio un único recargo.
 
-5. Obras civiles:
+5. Vehículos personales ligeros: 0,30 euros.
+
+En el caso de que concurriese en la misma póliza un seguro de carácter voluntario, ya sea de responsabilidad civil o de daños propios, con un seguro de responsabilidad civil para vehículos personales ligeros, sólo será obligatorio un único recargo.
+
+6. Obras civiles:
 
 5.1 Autopistas, autovías, carreteras, pistas de aterrizaje de aeronaves, vías férreas y conducciones: 0,28 por mil.
 
@@ -122,17 +132,19 @@ Los capitales a considerar para la aplicación de las anteriores tasas se corres
 
 En los seguros multirriesgo o combinados, si alguno de dichos bienes tuviese fijados capitales diferentes para los distintos riesgos cubiertos en la póliza ordinaria, a los efectos anteriores deberán tomarse los capitales asegurados mayores de entre los establecidos para los riesgos consorciables.
 
-Cuando dentro de una póliza coexistan diferentes clases de riesgo, a cada clase se le aplicará la tasa que le corresponda. No obstante lo anterior, cuando dentro de una póliza los capitales correspondientes a uno de los grupos establecidos en la tarifa representen el 75 por ciento o más de los capitales totales de dicho riesgo, se podrá aplicar al capital total la tasa que corresponda a dicho grupo mayoritario, sin perjuicio de lo indicado anteriormente en relación con los criterios de clasificación de un riesgo como «comunidad de propietarios de viviendas», y con la excepción de las obras civiles, a la cuales se les aplicará en todo caso su tasa específica. A estos últimos efectos, no tendrán la consideración de obra civil las vías de acceso o interiores de un riesgo comercial o industrial que formen parte del mismo y se utilicen para la realización de la correspondiente actividad.
+Cuando dentro de una póliza coexistan diferentes clases de riesgo, a cada clase se le aplicará la tasa que le corresponda. No obstante lo anterior, cuando dentro de una póliza los capitales correspondientes a uno de los grupos establecidos en la tarifa representen el 75 por ciento o más de los capitales totales de dicho riesgo, se podrá aplicar al capital total la tasa que corresponda a dicho grupo mayoritario, sin perjuicio de lo indicado anteriormente en relación con los criterios de clasificación de un riesgo como “comunidad de propietarios de viviendas”, y con la excepción de las obras civiles, a la cuales se les aplicará en todo caso su tasa específica.
 
-En el caso de pólizas con coberturas de daños propios sobre el vehículo, y a efectos de la cobertura, se entenderá asegurada la totalidad del vehículo, incluidos los accesorios si éstos están cubiertos por la póliza ordinaria.
+A estos últimos efectos, no tendrán la consideración de obra civil las vías de acceso o interiores de un riesgo comercial o industrial que formen parte del mismo y se utilicen para la realización de la correspondiente actividad.
+
+En el caso de pólizas con coberturas de daños propios sobre el vehículo a motor o sobre el vehículo personal ligero, y a efectos de la cobertura, se entenderá asegurada la totalidad del vehículo, incluidos los accesorios si éstos están cubiertos por la póliza ordinaria.
 
 B.2) Tasa reducida. En aquellas pólizas con capital asegurado, excluyendo el correspondiente a obra civil, superior a 600.000.000 de euros, se aplicarán las tasas anteriores a los primeros 600.000.000 de euros y, únicamente al capital que exceda de dicho importe, las siguientes tasas reducidas:
 
 | Grupos de riesgo | Tasa reducida para el exceso sobre 600.000.000 € |
 | --- | --- |
-| Viviendas y Comunidades de propietarios de viviendas | 0,05 por mil |
-| Oficinas | 0,08 por mil |
-| Resto de riesgos: Riesgos comerciales, industriales y otros riesgos | 0,15 por mil |
+| Viviendas y Comunidades de propietarios de viviendas. | 0,05 por mil |
+| Oficinas. | 0,08 por mil |
+| Resto de riesgos: Riesgos comerciales, industriales y otros riesgos. | 0,15 por mil |
 
 A los anteriores efectos, en los supuestos de seguros a primer riesgo, las tasas reducidas se aplicarán tanto al capital expuesto como al límite o primer riesgo siempre que superen la cifra de referencia.
 
@@ -267,3 +279,15 @@ En los casos de coberturas de pérdidas pecuniarias del tipo paralización y/o d
 G) Recargo mínimo.
 
 En el caso de que la aplicación de la tarifa dé lugar a un recargo inferior a un céntimo de euro, se establece dicha cantidad como recargo mínimo.
+
+H) Cobertura de pérdidas pecuniarias sin limitación temporal.
+
+En el caso de coberturas de pérdidas pecuniarias sin limitación temporal, caracterizadas por quedar sujetas al periodo de tiempo necesario para reparar o reemplazar la propiedad dañada, periodo que solo puede ser conocido tras la ocurrencia del siniestro, el recargo se calculará de acuerdo con lo siguiente:
+
+– Considerando como periodo de indemnización cinco años.
+
+– Cuando la póliza incluya, además, un periodo extendido de meses tras la reparación o reemplazo de la propiedad dañada, el recargo se calculará teniendo en cuenta cinco años más el número de meses de extensión.
+
+– Cuando la póliza tenga dos formas de cubrir las pérdidas pecuniarias, a determinar tras la ocurrencia del siniestro: (i) limitada a un número de meses –periodo de indemnización– o (ii) sin límite temporal, se tomará, para el cálculo del recargo, el máximo entre el periodo de indemnización y cinco años más el periodo extendido.
+
+> Se modifican los apartados A) y B) de la 1ª parte y se añade el apartado H) en la 2ª parte por el apartado primero.3 a 5 de la Resolución de 30 de diciembre de 2025. Ref. BOE-A-2025-27118
