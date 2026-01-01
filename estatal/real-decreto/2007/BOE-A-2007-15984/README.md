@@ -89,6 +89,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 37 bis](a37bis.md)
 - [Artículo 38](a38.md)
 - [Artículo 38 bis](a38bis.md)
+- [Artículo 38 ter](a3-4.md)
 - [Artículo 39](a39.md)
 - [Artículo 39 bis](a3-2.md)
 - [Artículo 39 ter](a3-3.md)
