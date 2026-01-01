@@ -32,6 +32,7 @@
 | 250 | GRAVAMEN ESPECIAL SOBRE DIVIDENDOS Y RENTAS DE FUENTE EXTRANJERA DERIVADAS DE LA TRANSMISIÓN DE VALORES REPRESENTATIVOS DE LOS FONDOS PROPIOS DE ENTIDADES NO RESIDENTES EN TERRITORIO ESPAÑOL. | 0A |
 | 303 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN. | M-T |
 | 309 | IVA DECL. LIQUID. NO PERIÓDICA | 1T,2T,3T,4T y 0A |
+| 319 | PAGO A CUENTA DEL IVA CORRESPONDIENTE A LAS ENTREGAS DE GASOLINAS, GASÓLEOS Y BIOCARBURANTES POSTERIORES A LA ULTIMACIÓN DEL RÉGIMEN DE DEPÓSITO DISTINTO DEL ADUANERO. | 0A |
 | 353 | GRUPO DE ENTIDADES. MODELO AGREGADO. AUTOLIQUIDACIÓN MENSUAL. | M |
 | 368 | DECLARACIÓN-LIQUIDACIÓN PERIÓDICA DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SERVICIOS DE TELECOMUNICACIONES, DE RADIODIFUSIÓN O DE TELEVISIÓN Y ELECTRÓNICOS EN EL IVA | 1T, 2T, 3T y 4T |
 | 369 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SUJETOS PASIVOS QUE PRESTEN SERVICIOS A PERSONAS QUE NO TENGAN LA CONDICIÓN DE SUJETOS PASIVOS, QUE EFECTÚEN VENTAS A DISTANCIA DE BIENES Y CIERTAS ENTREGAS INTERIORES DE BIENES | M-T |
@@ -80,6 +81,10 @@
 (2) Cuando la gestión corresponda al Estado.
 
 En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 319 por la disposición final 1 de la Orden HAC/1495/2025, de 17 de diciembre. Ref. BOE-A-2025-26216
+
+> Téngase en cuenta que el nuevo modelo, sin perjuicio de lo señalado en el apartado undécimo.5 del anexo de la Ley 37/1992, de 28 de diciembre, será de aplicación por primera vez a las extracciones realizadas a partir del 1 de febrero de 2026, según establece la disposición final 3 de la citada Orden.
 
 > Se añade el modelo 242 por la disposición final 1 de la Orden HAC/1198/2025, de 21 de octubre. Ref. BOE-A-2025-21727
 
