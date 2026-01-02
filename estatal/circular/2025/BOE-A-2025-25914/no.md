@@ -1,0 +1,7 @@
+## Noveno. Vigencia, validez y pérdida de la autorización de modelos de máquinas expendedoras.
+
+1. Las autorizaciones de modelos de máquinas expendedoras de productos de tabaco se concederán por tiempo indefinido, siempre y cuando la información, las características de la máquina y los datos suministrados al Comisionado para el Mercado de Tabacos para obtener dicha autorización permanezcan inalterados.
+
+2. Cualquier cambio de los requisitos exigidos por la normativa que pueda afectar a la validez de la autorización concedida dará inicio al correspondiente procedimiento electrónico de oficio por el Comisionado para el Mercado de Tabacos, que incluirá la audiencia del interesado y que, en su caso, podrá finalizar con la pérdida de la autorización, debiendo el titular o titulares de estas máquinas ordenar su retirada en los plazos que se determinen.
+
+3. La falsedad de los documentos, informaciones o datos comunicados al Comisionado para el Mercado de Tabacos en virtud de los cuales se hubiera obtenido la autorización determinará la pérdida de la misma, previa tramitación del correspondiente procedimiento electrónico, que deberá incluir en todo caso la audiencia del interesado, sin perjuicio de las responsabilidades administrativas o de otro orden en que se hubiera podido incurrir por el solicitante, debiendo el titular o titulares de estas máquinas ordenar su retirada en los plazos que se determinen.
