@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 1494/2011, de 24 de octubre, por el que se regula el Fondo de Carbono para una Economía Sostenible y el Real Decreto 1315/2005, de 4 de noviembre, por el que se establecen las bases de los sistemas de seguimiento y verificación de emisiones de gases de efecto invernadero en las instalaciones incluidas en el ámbito de aplicación de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, así como todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en el presente real decreto.
