@@ -12,4 +12,10 @@ d) El ejercicio de las competencias que el ordenamiento jurídico atribuye a la 
 
 e) El ejercicio de las competencias que el ordenamiento jurídico atribuye a la persona titular del Departamento respecto de los convenios, con o sin contenido económico.
 
+f) La convocatoria y concesión de subvenciones y ayudas, así como la declaración de pérdida del derecho al cobro o reintegro.
+
+g) La competencia para la autorización de todos los documentos contables, cualquiera que sea su importe excepto las referidas a los capítulos 1 (Gastos de personal) y 8 (Activos financieros).
+
 Se excluye de dicha delegación de competencias aquellos convenios suscritos con comunidades autónomas cuya firma sea realizada por las personas titulares de la Presidencia de una comunidad autónoma o de la Consejería correspondiente.
+
+> Se añaden las letras f) y g) por el apartado primero de la Orden TMD/1586/2025, de 29 de diciembre. Ref. BOE-A-2026-605
