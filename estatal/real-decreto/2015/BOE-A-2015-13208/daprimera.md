@@ -20,9 +20,11 @@ d) Para los años correspondientes a 2023 y 2026 los objetivos de biocarburantes
 
 |  | 2023 | 2024 | 2025 | 2026 |
 | --- | --- | --- | --- | --- |
-| Objetivos obligatorios mínimos de biocarburantes. | 10,5 % | 11 % | 11,5 % | 12 % |
+| Objetivos obligatorios mínimos de biocarburantes. | 10,5 % | 11 % | 11,5 % | 14 % |
 
 e) El objetivo de biocarburantes y biogás con fines de transporte del año 2026 será de aplicación en años sucesivos en tanto en cuanto no se regulen nuevos objetivos.
+
+> Se modifica la letra d) por el art. único.2 del Real Decreto 5/2026, de 8 de enero. Ref. BOE-A-2026-560
 
 > Se modifica el título y se añaden las letras d) y e) por la disposición final 2.4 y 5 del Real Decreto 376/2022, de 17 de mayo. Ref. BOE-A-2022-8121#df-2
 

@@ -1,5 +1,9 @@
-## Disposición transitoria única. Adaptación de las facturas de los comercializadores y sistemas de los distribuidores de gas natural y de los comercializadores de energía eléctrica.
+## Disposición transitoria primera. Adaptación de las facturas de los comercializadores y sistemas de los distribuidores de gas natural y de los comercializadores de energía eléctrica.
 
 Los comercializadores y distribuidores de gas natural dispondrán de un plazo máximo de seis meses desde la publicación del presente real decreto para realizar las adaptaciones necesarias con el fin de dar cumplimiento a lo dispuesto en la nueva redacción de los artículos 49, 51 y 53 del Real Decreto 1434/2002, de 27 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de gas natural y en la disposición adicional octava del presente real decreto.
 
 Asimismo, los comercializadores de energía eléctrica dispondrán de un plazo máximo de seis meses desde la publicación del presente real decreto para realizar las adaptaciones necesarias con el fin de dar cumplimiento a lo dispuesto en la disposición adicional octava del presente real decreto.
+
+> Se numera por el art. único.3 del Real Decreto 5/2026, de 8 de enero. Ref. BOE-A-2026-560
+
+> Su anterior denominación era disposición transitoria única.

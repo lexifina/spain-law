@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional décima](da.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición transitoria primera](dt.md)
+- [Disposición transitoria segunda](dt-2.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)
