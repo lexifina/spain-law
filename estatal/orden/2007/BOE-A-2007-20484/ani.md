@@ -2,13 +2,17 @@
 
 ## Modelo 322 de autoliquidación mensual, modelo individual Grupo de Entidades
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_3.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/258/21961_14923523_4.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_4.png)
+
+> Se sustituye por el que figura como anexo I de la Orden HAC/27/2026, de 22 de enero, según establece su art. 1.1. Ref. BOE-A-2026-1761
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes al segundo trimestre o al mes de febrero de 2026, según establece la disposición final única.1.
 
 > Se sustituye por el que figura como anexo I de la Orden HAC/1167/2024, de 17 de octubre, según establece su art.1. Ref. BOE-A-2024-21961
 

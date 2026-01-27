@@ -2,23 +2,21 @@
 
 ## Modelo 303 de autoliquidación del Impuesto sobre el Valor Añadido
 
-> Téngase en cuenta que este modelo, modificado por la Orden HAC/819/2024, de 30 de julio Ref. BOE-A-2024-16129, se aplicará por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido, modelo 303, correspondientes a los siguientes periodos de liquidación, según establece su disposición final única:
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_7.png)
 
-> a) En el caso de sujetos pasivos con periodo de liquidación mensual, se aplicará por primera vez a la autoliquidación de septiembre de 2024.
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_8.png)
 
-> b) En el caso de sujetos pasivos con periodo de liquidación trimestral, se aplicará por primera vez a la autoliquidación del tercer trimestre de 2024.
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_9.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_10.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_2.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_11.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_3.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_12.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_4.png)
+> Se sustituye por el que figura como anexo III de la Orden HAC/27/2026, de 22 de enero, según establece su art. 2. Ref. BOE-A-2026-1761
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_5.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2024/188/16129_14659261_6.png)
+> Téngase en cuenta que se aplicará por primera vez a las autoliquidaciones correspondientes al segundo trimestre o al mes de febrero de 2026, según establece la disposición final única.1 de la citada Orden.
 
 > Se sustituye por el artículo único en la forma que figura en el anexo de la Orden HAC/819/2024, de 30 de julio. Ref. BOE-A-2024-16129
 

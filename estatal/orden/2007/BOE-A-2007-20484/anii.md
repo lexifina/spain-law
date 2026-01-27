@@ -2,7 +2,13 @@
 
 ## Modelo 353 de autoliquidación mensual, modelo agregado Grupo de Entidades
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2020/340/17269_6059.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_5.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/23/1761_16563944_6.png)
+
+> Se sustituye por el que figura como anexo II de la Orden HAC/27/2026, de 22 de enero, según establece su art. 1.2. Ref. BOE-A-2026-1761
+
+> Téngase en cuenta que será aplicable por primera vez a las autoliquidaciones del Impuesto sobre el Valor Añadido correspondientes al segundo trimestre o al mes de febrero de 2026, según establece la disposición final única.1.
 
 > Se sustituye por el art. 1 y anexo II de la Orden HAC/1274/2020, de 28 de diciembre. Ref. BOE-A-2020-17269
 
