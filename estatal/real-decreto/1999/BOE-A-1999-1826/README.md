@@ -201,3 +201,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Cuadro 3](cuadro3.md)
 - [Cuadro 4](cuadro4.md)
 - [Cuadro 5](cuadro5.md)
+- [ANEXO XIX](ax.md)
+- [ANEXO XX](ax-2.md)
+- [ANEXO XXI](ax-3.md)

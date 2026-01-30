@@ -1,1 +1,3 @@
+Téngase en cuenta que todas las referencias al Registro General de Vehículos y al Registro de Vehículos contenidas en la normativa sobre tráfico, circulación de vehículos a motor y seguridad vial deberán entenderse realizadas al Registro Nacional de Vehículos y, en su caso, a sus secciones auxiliares u otros registros especiales relacionados con los vehículos dependientes del primero, según establece la disposición adicional única del Real Decreto 52/2026, de 28 de enero. Ref. BOE-A-2026-2140
+
 > Incluye la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 1999. Ref. BOE-A-1999-3698.
