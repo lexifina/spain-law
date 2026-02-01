@@ -28,11 +28,23 @@ d) La oferta de formación de las Administraciones Públicas competentes imparti
 
 e) Las iniciativas de formación relativas a la formación de las personas en situación de privación de libertad y la formación de los militares de tropa y marinería que mantienen una relación de carácter temporal con las Fuerzas Armadas, que se financiarán en régimen de concesión directa, previa suscripción de los correspondientes convenios entre las instituciones públicas competentes, de acuerdo con lo previsto en el artículo 32 del Real Decreto 694/2017, de 3 de julio.
 
-4. Asimismo serán objeto de financiación al amparo de esta orden:
+4. Asimismo, serán objeto de financiación al amparo de esta orden:
 
-a) La compensación a las empresas por la realización de prácticas profesionales no laborales y del módulo de formación práctica en centros de trabajo de los certificados de profesionalidad, en los términos del artículo 19.
+a) La compensación a las empresas por la realización de prácticas profesionales no laborales, en los términos del artículo 19.1.
 
-b) Las becas, ayudas de transporte, manutención y alojamiento y ayudas que permitan conciliar la asistencia a la formación con el cuidado de hijos menores de 12 años o de familiares dependientes, que se concedan a los desempleados que participen en las acciones formativas, en los términos de los artículos 20, 21, 22 y 23.
+b) Las becas, ayudas de transporte, manutención y alojamiento y ayudas que permitan conciliar la asistencia a la formación con el cuidado de hijos o hijas menores de 12 años o de familiares dependientes, que se concedan a las personas desempleadas que participen en las acciones formativas, en los términos de los artículos 20, 21, 22 y 23.
+
+c) La percepción económica de hasta el 75 por ciento del "Indicador público de renta de efectos múltiples" (IPREM) diario a las personas desempleadas de las ciudades de Ceuta y Melilla por día de asistencia a las acciones de formación en el trabajo en que participen, así como las personas desempleadas pertenecientes a alguno de los colectivos de atención prioritaria previstos en el artículo 50 de la Ley 3/2023, de 28 de febrero, de Empleo, cuando en este último supuesto así lo establezca la convocatoria de subvenciones o norma reguladora de la correspondiente iniciativa o programa.
+
+> Téngase en cuenta que esta actualización del apartado 4, establecida por el art. único.1 de la Orden TES/1582/2025, de 30 de diciembre, Ref. BOE-A-2026-326, entra en vigor el 1 de febrero de 2026, según establece su disposición final única.
+
+> Redacción anterior:
+
+> "4. Asimismo serán objeto de financiación al amparo de esta orden:
+
+> a) La compensación a las empresas por la realización de prácticas profesionales no laborales y del módulo de formación práctica en centros de trabajo de los certificados de profesionalidad, en los términos del artículo 19.
+
+> b) Las becas, ayudas de transporte, manutención y alojamiento y ayudas que permitan conciliar la asistencia a la formación con el cuidado de hijos menores de 12 años o de familiares dependientes, que se concedan a los desempleados que participen en las acciones formativas, en los términos de los artículos 20, 21, 22 y 23."
 
 5. Quedan excluidas de la regulación establecida en esta orden, a excepción de los aspectos que resulten de aplicación del Capítulo V, referido a calidad, evaluación, seguimiento y control de la oferta formativa, las siguientes iniciativas y programas:
 
@@ -47,3 +59,5 @@ d) Las acciones formativas dirigidas a la capacitación para el desarrollo de la
 e) La formación no financiada con fondos públicos desarrollada por centros y entidades de iniciativa privada destinada a la obtención de certificados de profesionalidad y, en su caso, competencias clave que permitan el acceso a la formación de dichos certificados, prevista en el artículo 8.1.d) de la Ley 30/2015, de 9 de septiembre, y en el artículo 8.4 del Real Decreto 694/2017, de 3 de julio. La autorización, seguimiento, control, evaluación y acreditación de las cualificaciones profesionales obtenidas, en su caso, de estas acciones formativas se llevará a cabo de acuerdo con lo dispuesto en el artículo 19 del Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad. Será de aplicación lo establecido para esta iniciativa de formación en la normativa mencionada en los supuestos de acciones formativas financiadas con fondos privados o públicos, pero que no formen parte de la oferta de formación profesional para el empleo financiada por las Administraciones Públicas competentes de acuerdo con lo previsto en la Ley 30/2015, de 9 de septiembre y su normativa de desarrollo.
 
 f) Las acciones formativas financiadas a través del cheque formación previsto en el artículo 6.5.b) de la Ley 30/2015, de 9 de septiembre, y en el artículo 26.2 del Real Decreto 694/2017, de 3 de julio, que se financiarán y desarrollarán de acuerdo con lo que se establezca en su regulación específica.
+
+> Se modifica el apartado 4 por el art. único.1 de la Orden TES/1582/2025, de 30 de diciembre. Ref. BOE-A-2026-326

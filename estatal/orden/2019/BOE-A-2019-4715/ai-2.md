@@ -28,4 +28,12 @@ Cuantía máxima de la compensación a empresas por la realización de práctica
 
 Las Administraciones Públicas competentes podrán destinar hasta un máximo de 6 euros por alumno y hora de prácticas para compensar la realización de las prácticas profesionales no laborales previstas en el artículo 19, en los términos y condiciones que aquéllas determinen.
 
+4. Asimismo, tendrán derecho a una percepción económica de hasta el 75 por ciento del "Indicador público de renta de efectos múltiples" (IPREM) diario las personas desempleadas de las ciudades de Ceuta y Melilla por día de asistencia a las acciones de formación en el trabajo en que participen, así como las personas desempleadas pertenecientes a alguno de los colectivos de atención prioritaria previstos en el artículo 50 de la Ley 3/2023, de 28 de febrero, de Empleo, cuando en este último supuesto así lo establezca la convocatoria de subvenciones o la norma reguladora de la correspondiente iniciativa o programa.
+
+Esta percepción económica será incompatible con las becas, ayudas de transporte y de conciliación previstas en los apartados anteriores, así como con la percepción de cualquier prestación de carácter social como el ingreso mínimo vital o prestaciones análogas promovidas por las comunidades autónomas, con excepción de la prestación por desempleo de nivel contributivo o asistencial.
+
+> Téngase en cuenta que el apartado 4, añadido por el art. único.5 de la Orden TES/1582/2025, de 30 de diciembre, Ref. BOE-A-2026-326, entra en vigor el 1 de febrero de 2026, según establece su disposición final única.
+
+> Se añade el apartado 4 por el art. único.5 de la Orden TES/1582/2025, de 30 de diciembre. Ref. BOE-A-2026-326
+
 > Se modifica el apartado 2.a) por el art. único.4 de la Orden TES/1109/2020, de 25 de noviembre. Ref. BOE-A-2020-15063
