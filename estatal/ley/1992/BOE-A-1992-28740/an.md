@@ -201,13 +201,13 @@ b) Tener reconocida la condición de operador confiable por cumplir las siguient
 
 a’) estar inscrito en el registro de extractores,
 
-b’) tener un volumen de extracciones durante el año natural anterior de, al menos, 1.000 millones de litros de gasolinas, gasóleos y biocarburantes destinados a ser usados como carburante a que se refiere el párrafo tercero del artículo 19.5.º de esta ley,
+b’) tener un volumen de extracciones durante los 12 meses naturales inmediatamente anteriores a la fecha de la solicitud de, al menos, 500 millones de litros de gasolinas, gasóleos y biocarburantes destinados a ser usados como carburante a que se refiere el párrafo tercero del artículo 19.5.º de esta Ley,
 
 c’) haber realizado operaciones como operador al por mayor durante los 3 años anteriores, y
 
 d’) cumplir los requisitos de solvencia financiera establecidos en el artículo 39 del citado Reglamento (UE) 952/2013 y en el artículo 26 del Reglamento de Ejecución (UE) 2015/2447 de la Comisión, de 24 de noviembre de 2015.
 
-Mediante orden de la persona titular del Ministerio de Hacienda se determinará el procedimiento para reconocer la condición de operador confiable y se regulará la creación y el mantenimiento de un registro de operadores confiables.
+Mediante orden de la persona titular del Ministerio de Hacienda se determinará el procedimiento para reconocer la condición de operador confiable, cuya solicitud podrá ser presentada en el momento que el contribuyente considere que cumple los requisitos, y se regulará la creación y el mantenimiento de un registro de operadores confiables.
 
 3.º La garantía a que se refiere el número 1.º deberá adoptar alguna de las siguientes formas:
 
@@ -248,6 +248,8 @@ El titular del depósito fiscal que permita que los carburantes salgan del depó
 La finalización del periodo transitorio por el transcurso del plazo anterior sin que se hubiera resuelto la solicitud de reconocimiento de la condición de operador confiable determinará la obligación de garantizar el ingreso del Impuesto sobre el Valor Añadido correspondiente a la entrega sujeta y no exenta que el último depositante de los productos, o el titular del depósito en caso de que sea el propietario de los productos haga posteriormente de dichos bienes en los términos previstos en el número 3.º anterior.
 
 4. La Administración tributaria proveerá a los titulares de los depósitos fiscales de los sistemas técnicos necesarios para verificar la aplicación de este régimen transitorio.
+
+> Se modifica el apartado undécimo.2º por el art. 8.2 del Real Decreto-ley 2/2026, de 3 de febrero. Ref. BOE-A-2026-2547#a8
 
 > Se deja sin efecto la modificación del apartado undécimo.2º por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
 
