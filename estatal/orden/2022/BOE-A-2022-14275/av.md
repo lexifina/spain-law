@@ -38,8 +38,10 @@ PCA (7): potencial de calentamiento atmosférico del gas fluorado de efecto inve
 
 El potencial de calentamiento atmosférico debe expresarse con dos decimales, redondeado por defecto o por exceso, según que la tercera cifra decimal sea o no inferior a 5.
 
-Régimen Fiscal (8): de cumplimentación conforme a lo indicado en el anexo VI de esta orden.
+Régimen Fiscal (8): de cumplimentación conforme a lo indicado en el anexo VII de esta orden.
 
 Proveedor o destinatario (9): Este campo solo debe cumplimentarse, con el nombre o razón social del proveedor, cuando el gas fluorado de efecto invernadero objeto del impuesto contabilizado es objeto de importación, adquisición intracomunitaria o demás adquisiciones (concepto identificado con el número 2) o, con el nombre o razón social del destinatario, cuando el gas o mezcla contabilizado es objeto de entrega o puesta a disposición (concepto identificado con el número 3).
 
 Proveedor o destinatario (10): Este campo debe cumplimentarse con el NIF, NIF IVA, NIE correspondiente al proveedor o destinatario declarado en la casilla anterior. En caso de que disponga de CAF, el proveedor o destinatario debe identificarse con este.
+
+> Se modifica el apartado "Régimen fiscal (8)" por el art. único.2 de la Orden HAC/56/2026, de 22 de enero. Ref. BOE-A-2026-2621
