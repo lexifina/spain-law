@@ -1,3 +1,5 @@
 ## TÍTULO V
 
 ## Actividad de comercialización y consumidores cualificados
+
+> Se deroga por la disposición derogatoria única.2.a) del Real Decreto 88/2026, de 11 de febrero. Ref. BOE-A-2026-3212#dd

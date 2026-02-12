@@ -104,93 +104,25 @@ Fecha de constitución de la sociedad:
 
 Ámbito geográfico en el que distribuye:
 
-2) Energía adquirida:
+2) (Suprimido)
 
-Energía adquirida en el mercado de producción (kWh):
+3) (Suprimido)
 
-Facturación de la energía adquirida en el mercado de producción (pesetas):
+4) (Suprimido)
 
-Energía adquirida a instalaciones acogidas al régimen especial (kWh):
-
-Facturación de la energía adquirida a instalaciones acogidas al régimen especial (pesetas):
-
-Energía adquirida a otros distribuidores con la certificación correspondiente de la empresa de la que adquiere la energía en la que conste lo siguiente:
-
-Energía adquirida: escalón 1 tensión (kWh):
-
-Energía adquirida: escalón 2 tensión (kWh):
-
-Energía adquirida: escalón 3 tensión (kWh):
-
-Energía adquirida: escalón 4 tensión (kWh):
-
-Facturación de la energía adquirida a otros distribuidores con la certificación correspondiente de la empresa de la que adquiere la energía en la que conste lo siguiente:
-
-Energía adquirida: escalón 1 tensión (pesetas):
-
-Energía adquirida: escalón 2 tensión (pesetas):
-
-Energía adquirida: escalón 3 tensión (pesetas):
-
-Energía adquirida: escalón 4 tensión (pesetas):
-
-3) Energía entregada:
-
-A sus consumidores a tarifa, clasificado por tarifas:
-
-Número de clientes:
-
-Potencia facturada (kW):
-
-Energía vendida (kWh):
-
-Facturación Mpta.
-
-A otros distribuidores acogidos a tarifa. Para cada nivel de tensión y cada distribuidor suministrado:
-
-Potencia facturada (kW):
-
-Energía vendida (kWh):
-
-Facturación (Mptas.):
-
-Empresa distribuidora suministrada:
-
-4) Facturación de tarifas de acceso a consumidores cualificados clasificados por tarifas:
-
-Número de clientes:
-
-Potencia facturada (kW):
-
-Energía (kWh):
-
-Facturación de peajes (Mpta.):
-
-5) En el caso de adquirir energía de otras centrales generadoras que no oferten al mercado, se deberá detallar para cada central:
-
-Central:
-
-Energía adquirida de la central (kWh):
-
-Coste de la energía adquirida de la central (Mpta.):
+5) (Suprimido)
 
 6) Grupo en el que está clasificada o solicita clasificarse a efectos de cotización de los porcentajes de facturación a la Comisión Nacional de Energía (1):
 
 (1) Grupo 1, 2 ó 3.
 
-7) Otros Ingresos:
-
-Ingresos por acometidas:
-
-Ingresos por alquiler de equipos de medida:
+7) (Suprimido)
 
 3.2 Requisitos y periodicidad de la información.
 
 La información a que hace referencia el apartado anterior deberá estar debidamente acreditada mediante la firma de un representante legal de la Sociedad.
 
 La información de los apartados 1) y 6) deberá remitirse cuando se solicite la inscripción de la sociedad en el registro y cuando se produzca algún cambio de los datos que figuran en la misma.
-
-Anualmente, se enviarán los datos que figuran en los apartados 2), 3), 4) y 5) durante el primer trimestre del año siguiente al que se produzcan.
 
 4.1 Información y datos para la inscripción de los comercializadores.
 
@@ -397,6 +329,8 @@ Asimismo manifiesto que dispongo de la documentación que acredita el cumplimien
 En…………………………….… a…… de………………………… de......
 
 Firma
+
+> Se modifican los apartados 3.1 y 3.2 por la disposición final 3.5 y 6 del Real Decreto 88/2026, de 11 de febrero. Ref. BOE-A-2026-3212#df-3
 
 > Se modifican los apartados 6.1 y 6.2 y se añaden el 6.3 y 6.4 por el art. 3.10 a 13 del Real Decreto 198/2010, de 26 de febrero. Ref. BOE-A-2010-4172.
 
