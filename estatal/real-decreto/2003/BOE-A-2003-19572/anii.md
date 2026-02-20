@@ -66,7 +66,7 @@ E.1 Oficinas de farmacia: establecimientos sanitarios privados de interés públ
 
 E.2 Botiquines: establecimientos sanitarios autorizados para la tenencia, conservación y dispensación de medicamentos y productos sanitarios, por la existencia de dificultades especiales de accesibilidad a una oficina de farmacia.
 
-E.3 Ópticas: establecimientos sanitarios donde, bajo la dirección técnica de un diplomado en Óptica y Optometría, se realizan actividades de evaluación de las capacidades visuales mediante técnicas optométricas ; tallado, montaje, adaptación, suministro, venta, verificación y control de los medios adecuados para la prevención, detección, protección, mejora de la agudeza visual ; ayudas en baja visión y adaptación de prótesis oculares externas.
+E.3 Ópticas: establecimientos sanitarios donde, bajo la dirección técnica de un diplomado en Óptica y Optometría, se realizan actividades de evaluación de las capacidades visuales mediante técnicas optométricas; tallado, montaje, adaptación, suministro, venta, verificación y control de los medios adecuados para la prevención, detección, protección, mejora de la agudeza visual; ayudas en baja visión y adaptación de prótesis oculares externas.
 
 E.4 Ortopedias: establecimientos sanitarios donde, bajo la dirección técnica de personal con la titulación oficial, cualificación profesional, o experiencia requeridas conforme a la legislación vigente, se lleva a cabo la dispensación, con adaptación individualizada al paciente, de productos sanitarios de ortopedia considerados como prótesis u ortesis, así como ayudas técnicas destinadas a paliar la pérdida de autonomía o funcionalidad o capacidad física de los usuarios.
 
@@ -168,7 +168,7 @@ U.45 Cirugía maxilofacial: unidad asistencial en la que un médico especialista
 
 U.46 Cirugía plástica y reparadora: unidad asistencial en la que un médico especialista en Cirugía plástica, estética y reparadora es responsable de realizar la corrección quirúrgica de procesos congénitos, adquiridos, tumorales o involutivos que requieren reparación o reposición de estructuras superficiales que afectan a la forma y función corporal.
 
-U.47 Cirugía estética: unidad asistencial en la que un médico especialista en Cirugía plástica, estética y reparadora u otro especialista quirúrgico en el ámbito de su respectiva especialidad es responsable de realizar tratamientos quirúrgicos, con finalidad de mejora estética corporal, facial o capilar.
+U.47 Cirugía estética: unidad asistencial en la que un médico con la especialidad en Cirugía plástica, estética y reparadora u otra especialidad quirúrgica o médico-quirúrgica en el ámbito y competencias indicadas en el programa oficial de su especialidad, es responsable de realizar tratamientos quirúrgicos, con finalidad de mejora estética corporal, facial o capilar.
 
 U.48 Medicina estética: unidad asistencial en la que un médico es responsable de realizar tratamientos no quirúrgicos, con finalidad de mejora estética corporal o facial.
 
@@ -212,23 +212,27 @@ U.67 Cuidados paliativos: unidad asistencial pluridisciplinar, con o sin equipos
 
 U.68 Atención continuada en Atención Primaria: unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina Familiar y Comunitaria está destinada a la atención continuada de pacientes con problemas de etiología diversa y gravedad variable, en el ámbito de atención primaria.
 
-> Téngase en cuenta que esta última actualización de la unidad asistencia U.68, establecida por la disposición final 1.2 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418, produce efectos desde el 4 de julio de 2025, según determina su disposición final 6.
-
-> Redacción anterior:
-
-> "U.68 Urgencias: unidad asistencial que, bajo la responsabilidad de un médico, está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata."
-
 U.69. Psiquiatría: unidad asistencial en la que un médico especialista en Psiquiatría es responsable de realizar el estudio, diagnóstico, tratamiento y rehabilitación de los trastornos mentales y del comportamiento de los pacientes adultos.
 
 U.70 Psicología clínica: unidad asistencial en la que un psicólogo especialista en Psicología clínica es responsable de realizar el diagnóstico, evaluación, tratamiento y rehabilitación de los trastornos mentales, emocionales, relacionales y del comportamiento.
 
 U.71 Atención sanitaria a drogodependientes: unidad asistencial pluridisciplinar en la que, bajo la supervisión de un facultativo sanitario, se prestan servicios de prevención, atención y rehabilitación al drogodependiente, mediante la aplicación de técnicas terapéuticas.
 
-U.72 Obtención de muestras: unidad asistencial, vinculada a un laboratorio clínico, en la que personal sanitario con titulación adecuada realiza la obtención, recepción, identificación, preparación y conservación de los especímenes o muestras biológicas de origen humano, responsabilizándose de la muestra hasta su entrega al laboratorio correspondiente.
+U.72 Obtención de muestras: Unidad asistencial, en la que personal sanitario con titulación adecuada realiza la obtención, recepción, identificación, preparación y conservación de los especímenes o muestras biológicas de origen humano, responsabilizándose de la muestra hasta su entrega al laboratorio vinculado correspondiente.
 
-U.73 Análisis clínicos: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Análisis clínicos, realiza una serie de actuaciones que a través de pruebas diagnósticas analíticas, pruebas funcionales o de laboratorio y su correlación fisiopatológica ayudan al diagnóstico, pronóstico, terapéutica médica y prevención de la enfermedad.
+U.73 Laboratorio Clínico: Unidad asistencial que, bajo la responsabilidad de una persona con título de especialista en Laboratorio Clínico y los títulos de especialista en Análisis Clínicos y en Bioquímica Clínica, realiza pruebas diagnósticas analíticas y establece la correlación fisiopatológica necesaria para proporcionar apoyo en el diagnóstico, el pronóstico, la respuesta al tratamiento, el seguimiento clínico y la prevención de la enfermedad.
 
-U.74 Bioquímica clínica: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Bioquímica clínica, aplica los métodos químicos y bioquímicos de laboratorio necesarios para la prevención, diagnóstico, pronóstico y evolución de la enfermedad, así como de su respuesta al tratamiento.
+> Téngase en cuenta que la modificación de la unidad asistencial U.72 y U.73, y la supresión de la U.74, establecidas por la disposición final 1.2 del Real Decreto 101/2025, de 18 de febrero, Ref. BOE-A-2025-3189#df, produce efectos el 20 de febrero de 2026, según determina la disposición final 5 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "U.72 Obtención de muestras: unidad asistencial, vinculada a un laboratorio clínico, en la que personal sanitario con titulación adecuada realiza la obtención, recepción, identificación, preparación y conservación de los especímenes o muestras biológicas de origen humano, responsabilizándose de la muestra hasta su entrega al laboratorio correspondiente.
+
+> U.73 Análisis clínicos: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Análisis clínicos, realiza una serie de actuaciones que a través de pruebas diagnósticas analíticas, pruebas funcionales o de laboratorio y su correlación fisiopatológica ayudan al diagnóstico, pronóstico, terapéutica médica y prevención de la enfermedad.
+
+> U.74 Bioquímica clínica: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Bioquímica clínica, aplica los métodos químicos y bioquímicos de laboratorio necesarios para la prevención, diagnóstico, pronóstico y evolución de la enfermedad, así como de su respuesta al tratamiento."
+
+U.74 (Suprimida).
 
 U.75 Inmunología: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Inmunología, está dedicada a obtener la información necesaria para el estudio, diagnóstico y tratamiento de pacientes con enfermedades causadas por alteraciones de los mecanismos inmunológicos y de las situaciones en las que las manipulaciones inmunológicas forman una parte importante del tratamiento o de la prevención.
 
@@ -301,6 +305,12 @@ U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesio
 > Redacción anterior:
 
 > "U.900 Otras unidades asistenciales: unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica."
+
+> Se modifican las referencias U.72, U.73 y se suprime la U.74, por la disposición final 1.2 del Real Decreto 101/2025, de 18 de febrero. Ref. BOE-A-2025-3189#df
+
+> Téngase en cuenta que esta actualización produce efectos el 20 de febrero de 2026, según establece la disposición final 5 del citado Real Decreto.
+
+> Se modifica la referencia U.47 por el art. único de la Orden SND/1002/2024, de 18 de septiembre. Ref. BOE-A-2024-18934
 
 > Se modifica la referencia U.68 y se añade la referencia U.105 por la disposición final 1.2 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418
 

@@ -77,8 +77,8 @@
 | U.70 Psicología clínica. |
 | U.71 Atención sanitaria a drogodependientes. |
 | U.72 Obtención de muestras. |
-| U.73 Análisis clínicos. |
-| U.74 Bioquímica clínica. |
+| U.73 Laboratorio Clínico. |
+| U.74 (Suprimida) |
 | U.75 Inmunología. |
 | U.76 Microbiología y Parasitología. |
 | U.77 Anatomía patológica. |
@@ -112,6 +112,14 @@
 | U.105 Urgencias y Emergencias. |
 | U.900 Otras unidades asistenciales. |
 
+> Téngase en cuenta que la modificación de la unidad asistencial U.73 y la supresión de la U.74, establecidas por la disposición final 1.1 del Real Decreto 101/2025, de 18 de febrero, Ref. BOE-A-2025-3189#df, produce efectos el 20 de febrero de 2026, según determina la disposición final 5 del citado Real Decreto.
+
+> Redacción anterior:
+
+> "U.73 Laboratorio Clínico."
+
+> "U.74. Bioquímica clínica."
+
 Establecimientos sanitarios:
 
 E.1 Oficinas de farmacia.
@@ -129,6 +137,10 @@ E.5 Establecimientos de audioprótesis.
 > Redacción anterior:
 
 > "U.68 Urgencias."
+
+> Se modifica la referencia U.73 y se suprime la U.74, por la disposición final 1.1 del Real Decreto 101/2025, de 18 de febrero. Ref. BOE-A-2025-3189#df
+
+> Téngase en cuenta que esta actualización produce efectos el 20 de febrero de 2026, según establece la disposición final 5 del citado Real Decreto.
 
 > Se modifica la referencia U.68 y se añade la referencia U.105 por la disposición final 1.1 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418
 
