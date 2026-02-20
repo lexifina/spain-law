@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Aplicación retroactiva de las previsiones de este real decreto-ley en materia de daños personales y materiales en vivienda y enseres a los causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.
+
+Lo dispuesto en el artículo 3, apartado 1 y párrafos a) a h) del apartado 2 en materia de daños personales y materiales en vivienda y enseres se aplicará retroactivamente a los daños de la misma naturaleza causados por la Depresión Aislada en Niveles Altos (DANA) entre el 28 de octubre y el 4 de noviembre de 2024.
