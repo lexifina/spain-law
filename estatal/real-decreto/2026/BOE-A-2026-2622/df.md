@@ -1,0 +1,5 @@
+## Disposición final primera. Títulos competenciales.
+
+El presente real decreto se dicta con carácter básico al amparo de las competencias que corresponden al Estado conforme al artículo 149.1.18.ª de la Constitución Española, que atribuye al Estado las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas y en materia del procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; y al artículo 149.1.30.ª de la Constitución Española, en relación con la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución Española, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+Se exceptúan del referido carácter básico los siguientes preceptos: artículos 14.5, 16.3, 26.6, 27, 29.1, 30.2, 31.2, 33 y 38.

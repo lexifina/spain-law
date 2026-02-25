@@ -1,0 +1,3 @@
+## Disposición transitoria única. Temarios que han de regir la fase de oposición de los procedimientos selectivos.
+
+Hasta que se aprueben nuevos temarios conforme a lo establecido en el artículo 15 del presente real decreto, serán de aplicación la Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación y la Orden EDU/617/2010, de 8 de marzo, por la que se aprueba, para el ámbito de gestión del Ministerio de Educación, el contenido de los temas que se incorporan al anexo II de la Orden EDU/3429/2009, de 11 de diciembre, por la que se aprueba el temario de la fase de oposición del procedimiento selectivo de acceso al Cuerpo de Inspectores de Educación.
