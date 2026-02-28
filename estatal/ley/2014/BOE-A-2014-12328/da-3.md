@@ -1,8 +1,8 @@
 ## Disposición adicional decimoctava. Libertad de amortización en determinados vehículos y en nuevas infraestructuras de recarga.
 
-1. Las inversiones en vehículos nuevos FCV, FCHV, BEV, REEV o PHEV, según definición del anexo II del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre, afectos a actividades económicas y que entren en funcionamiento en los períodos impositivos que se inicien en los años 2024, 2025 y 2026 podrán ser amortizadas libremente.
+1. Las inversiones en vehículos nuevos FCV, FCHV, BEV, REEV o PHEV, según definición del anexo II del Reglamento General de Vehículos, aprobado por el Real Decreto 2822/1998, de 23 de diciembre, afectos a actividades económicas y que entren en funcionamiento en los períodos impositivos que se inicien en los años 2024 y 2025, podrán ser amortizadas libremente.
 
-2. Las inversiones en nuevas infraestructuras de recarga de vehículos eléctricos, de potencia normal o de alta potencia, en los términos definidos en el artículo 2 del Reglamento (UE) 2023/1804 del Parlamento Europeo y del Consejo de 13 de septiembre de 2023 relativo a la implantación de una infraestructura para los combustibles alternativos y por el que se deroga la Directiva 2014/94/UE, afectas a actividades económicas, y que entren en funcionamiento en los períodos impositivos que se inicien en los años 2024, 2025 y 2026 podrán ser amortizadas libremente.
+2. Las inversiones en nuevas infraestructuras de recarga de vehículos eléctricos, de potencia normal o de alta potencia, en los términos definidos en el artículo 2 de la Directiva 2014/94/UE del Parlamento Europeo y del Consejo, de 22 de octubre de 2014, relativa a la implantación de una infraestructura para los combustibles alternativos, afectas a actividades económicas, y que entren en funcionamiento en los períodos impositivos que se inicien en los años 2024 y 2025, podrán ser amortizadas libremente.
 
 3. Para la aplicación de la libertad de amortización regulada en el apartado anterior, se exigirá el cumplimiento de los siguientes requisitos:
 
@@ -10,9 +10,11 @@ a) Aportación de la documentación técnica preceptiva, según las característ
 
 b) Obtención del certificado de instalación eléctrica diligenciado por la Comunidad Autónoma competente.
 
+> Se deja sin efecto la modificación por Resolución de 26 de febrero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 2/2026, de 3 de febrero. Ref. BOE-A-2026-4667
+
 > Se modifica por el art. 13.2 del Real Decreto-ley 2/2026, de 3 de febrero, con efectos para los períodos impositivos que, iniciados a partir de 1 de enero de 2025, no hubiesen concluido a la entrada en vigor de este real decreto-ley. Ref. BOE-A-2026-2547#a1-5
 
-> Se deja sin efecto la modificación de este artículo por Resolución de 27 de enero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 16/2025, de 23 de diciembre. Ref. BOE-A-2026-2024
+> Se deja sin efecto la modificación por Resolución de 27 de enero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 16/2025, de 23 de diciembre. Ref. BOE-A-2026-2024
 
 > Se modifica por el art. 17.2 del Real Decreto-ley 16/2025, de 23 de diciembre, con efectos para los períodos impositivos que, iniciados a partir de 1 de enero de 2025 no hubiesen concluido a la entrada en vigor de este real decreto-ley. Ref. BOE-A-2025-26458#a1-9
 
