@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del Estatuto orgánico de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil.
+
+De conformidad con lo dispuesto en el artículo 1.6 y la disposición final sexta de la Ley 2/2024, de 1 de agosto, de creación de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil, se aprueba el Estatuto orgánico de la Autoridad Administrativa Independiente para la Investigación Técnica de Accidentes e Incidentes ferroviarios, marítimos y de aviación civil (en adelante, la Autoridad), cuyo texto se inserta a continuación de este real decreto.
