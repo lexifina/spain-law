@@ -29,7 +29,7 @@ III.1 Parámetros de calidad
 
 III.2 Parámetros de composición
 
-| Producto | Estigmastadienos (%) | Composición de esteroles (%) |
+| Producto | Estigmastadienos (mg/kg) | Composición de esteroles (%) |
 | --- | --- | --- |
 | Aceites de presión | Colesterol | Brassicasterol | Campesterol | Estigmasterol | β-sitosterol | Δ5-Avenasterol | Δ7-estigmastenol | Δ7-Avenasterol | Eritrodiol | Otros esteroles | Esteroles totales mg/Kg. |
 | 1. Aceite de soja. | <0.1 | 0.2–1.4 | ≤0.3 | 15.8–24.2 | 14.9–19.1 | 47.0–60.0 | 1.5–3.7 | 1.4–5.2 | 1.0–4.6 | – | ≤1.8 | 1800–4500 |
@@ -53,3 +53,5 @@ III.2 Parámetros de composición
 | 15. Aceite de pistacho. | <0.1 | ≤ 1.0 | ≤0.05 | 4.0 – 6.5 | 0.5 – 7.5 | 75.0– 94.0 | 6.0 – 8.0 | ≤ 0.7 | ≤ 0.5 | – | ≤0.05 | 1840–4500 |
 | 16. Aceite de aguacate. | <0.1 | ≤ 0.5 | ≤ 0.5 | 4.0 – 8.3 | 0.3 – 2.0 | 79.0– 93.4 | 2.0 – 8.0 | ≤ 1.5 | ≤ 1.5 | – | ≤ 2.0 | 3000–7500 |
 | Nota: los nombres utilizados para la descripción de las características fisicoquímicas de los aceites de los anexos II, III y IV no se corresponden necesariamente con las denominaciones de estos productos, que están contempladas en los artículos 4 y 6 de esta norma. |
+
+> Se modifica el apartado III.2 por el art. 11 del Real Decreto 142/2026, de 25 de febrero. Ref. BOE-A-2026-4519

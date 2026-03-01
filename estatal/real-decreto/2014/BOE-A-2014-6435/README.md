@@ -40,6 +40,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 21](a2-3.md)
 - [Artículo 22](a22.md)
 - [Artículo 23](a23.md)
+- [Artículo 24](a2-2.md)
+- [Artículo 25](a2-4.md)
 - [Disposición adicional primera](daprimera.md)
 - [Disposición adicional segunda](dasegunda.md)
 - [Disposición transitoria única](dtunica.md)

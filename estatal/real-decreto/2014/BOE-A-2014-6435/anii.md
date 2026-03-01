@@ -90,6 +90,8 @@ Imperial de Lorca: Es una longaniza elaborada con el troceado y picado de carnes
 
 Jamón de pato: Producto curado elaborado a partir de pechuga de pato, sazonado y condimentado.
 
+Jamón de pavo: Producto elaborado a partir de la extremidad del pavo (muslo o contramuslo), al que se le puede adicionar sal, especias, condimentos, aditivos u otros ingredientes, pudiendo haber sido sometido a tratamiento térmico o no.
+
 Lacón: Producto curado-madurado obtenido a partir de las extremidades delanteras del cerdo. También puede ser elaborado con tratamiento por calor.
 
 Lomito: Cabecero de lomo sometido a un proceso de curado-maduración.
@@ -175,3 +177,5 @@ Sevillana: Producto elaborado con carne, aceitunas, pimiento, especias y otros i
 Torteta: Producto en cuya elaboración se utiliza la sangre del cerdo, a la que se añade harina, manteca de cerdo, pan, almendras, avellanas, piñones y otros, se procede a un amasado y posterior moldeado en partes de tamaño variable, y sometidas a posterior tratamiento de cocción.
 
 Zarajos: Intestino de cordero lechal marinado y enmadejado alrededor de un sarmiento o similar.
+
+> Se añade la definición «Jamón de pavo» por el art. 6.4 del Real Decreto 142/2026, de 25 de febrero. Ref. BOE-A-2026-4519
