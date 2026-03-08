@@ -1,6 +1,6 @@
 ## ANEXO I
 
-## Generación del NRC de avales
+## Generación de un NRC (Número de Referencia Completo)
 
 | Parámetro | Tipo | Tipo Formato |
 | --- | --- | --- |
@@ -17,6 +17,8 @@
 | Descripción respuesta. | Salida. | Alfanumérico. |
 
 (*) Actualmente, los posibles valores del campo Código de aval son los siguientes:
+
+‒ 0 = Garantía global IVA Hidrocarburos (Apartado undécimo del anexo de la Ley 37/1992, de 28 de diciembre, del IVA).
 
 ‒ 1 = Suspensión ejecución recurso de reposición.
 
@@ -36,11 +38,15 @@
 
 ‒ 9 = Deudas tributarias por operaciones previstas en la normativa de Impuestos Especiales.
 
-El acceso al servicio para generar o anular un NRC de Aval por parte de una entidad de crédito se realizará de acuerdo a las condiciones establecidas en el Anexo VII BIS de la Orden Ministerial EHA 2027/2007.
+El acceso al servicio para generar o anular un NRC de Aval por parte de una entidad de crédito se realizará de acuerdo a las condiciones establecidas en el anexo VII bis de la Orden ministerial EHA 2027/2007.
 
 Para hacer uso del servicio de generación de NRC de avales, las entidades de crédito usarán en las comunicaciones con la AEAT preferiblemente un certificado electrónico dedicado exclusivamente a este fin, dado que la operativa de avales normalmente está restringida a un grupo reducido de empleados de la entidad de crédito. La entidad de crédito asumirá cualquier responsabilidad derivada de un uso inadecuado del servicio de generación de NRC de avales por parte de sus empleados.
 
-> Se modifica , con efectos de 18 de noviembre de 2021, por el apartado primero.7 de la Resolución de 20 de septiembre de 2021. Ref. BOE-A-2021-15450
+> Se modifica por el art. único.1 de la Resolución de 26 de febrero de 2026. Ref. BOE-A-2026-5326
+
+> Téngase en cuenta que su aplicación no será exigible obligatoriamente hasta el 1 de julio de 2026 a aquellas entidades que a la fecha de entrada en vigor ya se encontrasen adheridas al procedimiento que en ella se regula.
+
+> Se modifica, con efectos de 18 de noviembre de 2021, por el apartado primero.7 de la Resolución de 20 de septiembre de 2021. Ref. BOE-A-2021-15450
 
 > Téngase en cuenta el periodo transitorio, hasta el 3 de diciembre de 2021, establecido en el apartado segundo de la citada Resolución.
 
