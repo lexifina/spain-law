@@ -40,7 +40,13 @@ b) Descansar y levantarse normalmente,
 
 c) Ver otros cerdos; sin embargo, en la semana anterior al momento previsto del parto y durante el mismo, las cerdas y las cerdas jóvenes podrán mantenerse fuera de la vista de los animales de su misma especie.
 
-3 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM, al menos el 2,5 % de las plazas de la capacidad total de la explotación, en función de la incidencia de patologías u otras circunstancias de la misma, debe destinarse a zonas o espacios específicos y exclusivos para la observación y aislamiento de los animales que, por razones sanitarias o de bienestar animal deban ser apartados del resto.
+3 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM, al menos el 2,5 % de las plazas destinadas al alojamiento en grupo de los animales de la explotación, en función de la incidencia de patologías u otras circunstancias de la misma, debe destinarse a zonas o espacios específicos y exclusivos para la observación y aislamiento de los animales que, por razones sanitarias o de bienestar animal, deban ser apartados del resto.
+
+> Téngase en cuenta que esta última actualización del párrafo primero del punto 3 bis, establecida por el art. único.5.1 del Real Decreto 809/2025, de 16 de septiembre, Ref. BOE-A-2025-20205, entra en vigor el 9 de marzo de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "3 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM, al menos el 2,5 % de las plazas de la capacidad total de la explotación, en función de la incidencia de patologías u otras circunstancias de la misma, debe destinarse a zonas o espacios específicos y exclusivos para la observación y aislamiento de los animales que, por razones sanitarias o de bienestar animal deban ser apartados del resto."
 
 Las zonas o espacios específicos mencionados en el párrafo anterior deben ofrecer a los animales, salvo indicación veterinaria expresa, raciones de pienso adaptado a las circunstancias de los animales alojados y cama seca y confortable, como paja o serrín.
 
@@ -64,9 +70,19 @@ Deberá disponerse de materiales que permitan dichas actividades de investigaci�
 
 a) Cuando los cerdos se alimenten a voluntad dispondrán de al menos un punto de alimentación por cada veinte animales, o por cada cinco animales si son lechones destetados de hasta 25 kg de peso vivo.
 
-b) Cuando los cerdos se alimenten en grupos y no a voluntad, o mediante un sistema automático de alimentación individual, cada cerdo tendrá acceso al alimento al mismo tiempo que los demás animales del grupo.
+b) Cuando los cerdos se alimenten en grupos y no a voluntad, o mediante un sistema automático de alimentación individual, cada cerdo tendrá acceso al alimento al mismo tiempo que los demás animales del grupo. En particular, cuando se alimenten en comederos lineales debe disponerse de 18 cm por cerdo destetado de hasta 25 kg de peso vivo, de 25 cm por cerdo de hasta 50 kg de peso vivo, y de 30 cm por cerdo de más de 50 kg de peso vivo.
 
-c) Cuando se alimenten en comederos lineales debe disponerse de 18 cm por cerdo destetado de hasta 25 kg de peso vivo, de 25 cm por cerdo de hasta 50 kg de peso vivo, y de 30 cm por cerdo de más de 50 kg de peso vivo.
+> Téngase en cuenta que esta última actualización del punto 6, establecida por el art. único.5.2 del Real Decreto 809/2025, de 16 de septiembre, Ref. BOE-A-2025-20205, entra en vigor el 9 de marzo de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "6. Se alimentará a todos los cerdos, al menos, una vez al día. En explotaciones con una capacidad autorizada superior a 5,1 UGM:
+
+> a) Cuando los cerdos se alimenten a voluntad dispondrán de al menos un punto de alimentación por cada veinte animales, o por cada cinco animales si son lechones destetados de hasta 25 kg de peso vivo.
+
+> b) Cuando los cerdos se alimenten en grupos y no a voluntad, o mediante un sistema automático de alimentación individual, cada cerdo tendrá acceso al alimento al mismo tiempo que los demás animales del grupo.
+
+> c) Cuando se alimenten en comederos lineales debe disponerse de 18 cm por cerdo destetado de hasta 25 kg de peso vivo, de 25 cm por cerdo de hasta 50 kg de peso vivo, y de 30 cm por cerdo de más de 50 kg de peso vivo."
 
 7. Todos los cerdos de más de dos semanas de edad, independientemente de su sistema de alimentación, tendrán acceso permanente a una cantidad suficiente de agua de calidad adecuada y limpia.
 
@@ -153,6 +169,8 @@ D) Lechones destetados y cerdos de producción.
 3. Cuando aparezcan signos de pelea violenta, se investigarán inmediatamente las causas y se adoptarán las medidas adecuadas, como, por ejemplo, ofrecer paja abundante a los animales, si fuese posible, u otros materiales para investigación. Los animales en peligro o los agresores específicos se mantendrán separados del grupo.
 
 4. El uso de tranquilizantes para facilitar la mezcla se limitará a condiciones excepcionales y únicamente previa consulta con personal veterinario.
+
+> Se modifican los puntos 3 bis, párrafo primero, y 6 del capítulo I, con efectos de 9 de marzo de 2026, por el art. único.4 del Real Decreto 809/2025, de 16 de septiembre. Ref. BOE-A-2025-20205
 
 > Se modifican los puntos 2 bis y 8 del capítulo I, con efectos desde el 1 de junio de 2025, por la disposición final 3 del Real Decreto 346/2025, de 22 de abril. Ref. BOE-A-2025-8160#df-3
 
