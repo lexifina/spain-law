@@ -1,3 +1,0 @@
-## CAPÍTULO VI
-
-## Centros adscritos
