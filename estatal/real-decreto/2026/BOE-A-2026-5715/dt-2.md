@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Adaptación de los reglamentos para la celebración de elecciones.
+
+Se faculta al Claustro Universitario para efectuar las adaptaciones necesarias de su propio reglamento de régimen interno a lo dispuesto en estos estatutos, en lo que se refiere a la representación en el Claustro de los distintos sectores de la comunidad universitaria. Asimismo, se faculta al Consejo de Gobierno para efectuar las adaptaciones necesarias de su propio Reglamento de Régimen Interno y del actual Reglamento Electoral General a lo dispuesto en estos estatutos, en lo que se refiere a la representación en el Consejo de Gobierno de los distintos sectores de la comunidad universitaria.
