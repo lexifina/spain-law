@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Accesibilidad de los procedimientos de solicitud del reconocimiento del derecho a la asistencia sanitaria.
+
+En lo que se refiere a los procedimientos regulados en el presente real decreto, todos los procedimientos, formularios, plataformas telemáticas, canales de comunicación y oficinas de asistencia en materia de registros deberán ser plenamente accesibles, proveyendo, cuando sea preciso, formatos de lectura fácil, sistemas de comunicación aumentativos y alternativos, interpretación en lengua de signos, bucles magnéticos y la asistencia personal necesaria para asegurar la igualdad de condiciones en el ejercicio del derecho.

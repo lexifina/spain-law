@@ -1,5 +1,7 @@
 ## Disposición adicional primera. Asistencia sanitaria para españoles de origen retornados y residentes en el exterior desplazados temporalmente a España y para los familiares de los anteriores que se establezcan con ellos o les acompañen.
 
-La asistencia sanitaria, a través del Sistema Nacional de Salud, para los españoles de origen residentes en el exterior que retornen a España, así como para sus familiares que se establezcan con ellos, y la asistencia sanitaria para los trabajadores por cuenta ajena y por cuenta propia y pensionistas, españoles de origen, residentes en el exterior, en sus desplazamientos temporales a España, así como para los familiares que les acompañen, se regirá por lo dispuesto en la Ley 40/2006, de 14 de diciembre, del Estatuto de la ciudadanía española en el exterior, y en el Real Decreto 8/2008, de 11 de enero, por el que se regula la prestación por razón de necesidad a favor de los españoles residentes en el exterior y retornados, cuando, de acuerdo con las disposiciones de Seguridad Social española, las del Estado de procedencia o las normas o Convenios internacionales de Seguridad Social establecidos al efecto, no tuvieran prevista esta cobertura.
+(Derogada)
+
+> Se deroga por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. Ref. BOE-A-2026-5714#dd
 
 > Se modifica por la disposición final 9.3 de la Ley 25/2015, de 28 de julio. Ref. BOE-A-2015-8469#dfnovena.

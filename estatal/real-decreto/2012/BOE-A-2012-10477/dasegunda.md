@@ -2,4 +2,6 @@
 
 1. Las personas con derecho a asistencia sanitaria en aplicación de los reglamentos comunitarios de coordinación de sistemas de Seguridad Social o de los convenios bilaterales que comprendan la prestación de asistencia sanitaria, tendrán acceso a la misma, siempre que residan en territorio español o durante sus desplazamientos temporales a España, en la forma, extensión y condiciones establecidos en las disposiciones comunitarias o bilaterales indicadas.
 
-2. En ningún caso tendrán la consideración de extranjeros no registrados ni autorizados como residentes en España a los efectos previstos en el artículo 3 ter de la Ley 16/2003, de 28 de mayo, los nacionales de los Estados miembros de la Unión Europea, del Espacio Económico Europeo o de Suiza que se encuentren en la situación de estancia inferior a tres meses regulada en el artículo 6 del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo.
+2. (Derogado)
+
+> Se deroga el apartado 2 por la disposición derogatora única del Real Decreto 180/2026, de 11 de marzo. Ref. BOE-A-2026-5714#dd

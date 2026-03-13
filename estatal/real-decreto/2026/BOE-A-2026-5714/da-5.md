@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Protección de datos.
+
+La recogida y tratamiento de datos de carácter personal se realizará observando en todo momento las previsiones establecidas en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de sus datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos), en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos personales y garantía de los derechos digitales y demás normativa sobre protección de datos de carácter personal que resulte de aplicación.
