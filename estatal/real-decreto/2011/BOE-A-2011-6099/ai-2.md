@@ -13,5 +13,12 @@
 | Pez vela (Istiophorus albicans). | SAI |
 | Merluza (Merluccius merluccius). | HKE |
 | Besugo (Pagellus bogaraveo). | SBR |
+| Lubina (Dicentrarchus labrax). | BSS |
+| Bacalao (Gadus morhua). | COD |
+| Abadejo (Pollachius pollachius). | POL |
+| Lenguado (Solea solea). | SOL |
+| Lampuga (Coryphaena hippurus). | DOL |
+
+> Se modifica por la disposición final 2.2 del Real Decreto 214/2026, de 18 de marzo. Ref. BOE-A-2026-6401#df-2
 
 > Se modifica por la disposición final 6 de la Orden APA/315/2020, de 1 de abril. Ref. BOE-A-2020-4255

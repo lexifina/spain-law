@@ -2,6 +2,6 @@
 
 ## Concursos de pesca recreativa de especies de protección diferenciada declaración de captura y suelta
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/81/06099_9407.png)
+## (Suprimido)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/81/06099_9442.png)
+> Se suprime por la disposición final 2.3 del Real Decreto 214/2026, de 18 de marzo. Ref. BOE-A-2026-6401#df-2

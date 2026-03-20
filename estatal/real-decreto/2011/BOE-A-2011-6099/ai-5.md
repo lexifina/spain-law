@@ -2,4 +2,6 @@
 
 ## Datos a incluir en el registro de embarcaciones recreativas de pesca en aguas exteriores
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/81/06099_9693.png)
+## (Suprimido)
+
+> Se suprime por la disposición final 2.3 del Real Decreto 214/2026, de 18 de marzo. Ref. BOE-A-2026-6401#df-2

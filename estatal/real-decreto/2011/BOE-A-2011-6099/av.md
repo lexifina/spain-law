@@ -2,6 +2,6 @@
 
 ## Solicitud de autorización para concursos de pesca recreativa de especies de protección diferenciada
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/81/06099_9077.png)
+## (Suprimido)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/81/06099_9150.png)
+> Se suprime por la disposición final 2.3 del Real Decreto 214/2026, de 18 de marzo. Ref. BOE-A-2026-6401#df-2

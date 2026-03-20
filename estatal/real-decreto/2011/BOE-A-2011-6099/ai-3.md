@@ -2,6 +2,6 @@
 
 ## Solicitud de autorización para embarcaciones dedicadas a la captura de especies sometidas a medidas de protección diferenciadas en la pesca marítima de recreo
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/81/06099_8855.png)
+(Suprimido)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2011/81/06099_8891.png)
+> Se suprime por la disposición final 2.3 del Real Decreto 214/2026, de 18 de marzo. Ref. BOE-A-2026-6401#df-2
