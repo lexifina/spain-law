@@ -12,17 +12,16 @@ La cuantía de la indemnización se calculará mediante la siguiente fórmula*:
 
 La cuantificación de las primas obedece a la siguiente tabla:
 
-| Arte de pesca | Prima coste fijo Importe/gt/día – Euros | Prima lucro cesante Importe/día/buque – Euros |
+| Arte de pesca | Prima coste fijo Importe/GT/día – Euros | Prima lucro cesante Importe/día/buque – Euros |
 | --- | --- | --- |
-| Pesca artesanal (Inferior a 12 metros). | 20,01 | 31,73 |
-| Resto flota. | DFN (Redes de enmalle), DRB (Dragas y rastros), FPO (Nasas), PMP (Polivalentes fijas y móviles), PGP (Polivalentes fijas). | 6,72 | 29,00 |
-| HOK (anzuelo). | 5,33 | 59,90 |
-| DTS (arrastre). | 6,20 | 91,35 |
-| PS (cerco). | 6,82 | 171,92 |
+| Pesca artesanal (<12 metros). | 19,03 | 25,18 |
+| Resto de flota (≥ 12 metros). | DFN Enmalle. DRB Rastras. FPO Nasas. PMP Polivalentes. PGP Fijos. | 6,36 | 26,42 |
+| HOK anzuelos. | 5,68 | 69,19 |
+| DTS Arrastreros. | 6,11 | 84,62 |
+| PS Cerqueros. | 7,44 | 157,57 |
+| * Importe mínimo a percibir: 125,43 euros por día. Importe máximo a percibir: 2.000 euros por día. |
 
-* Importe mínimo para percibir: 134 euros por día.
-
-Importe máximo para percibir por día 2.000 euros.
+> Se modifica por el art. único del Real Decreto 213/2026, de 18 de marzo. Ref. BOE-A-2026-6400
 
 > Se modifica por el art. único del Real Decreto 1013/2023, de 5 de diciembre. Ref. BOE-A-2023-26333
 
