@@ -30,7 +30,9 @@ e) Tener un contrato con el comercializador en el que se especifique:
 
 9.º las condiciones serán equitativas y se darán a conocer con antelación. En cualquier caso, debe comunicarse esta información antes de la celebración o confirmación del contrato. Cuando los contratos se celebren a través de intermediarios, la información antes mencionada se comunicará asimismo antes de la celebración del contrato.
 
-f) Ser debidamente avisados de forma transparente y comprensible de cualquier intención de modificar las condiciones del contrato e informados de su derecho a rescindir el contrato sin coste alguno cuando reciban el aviso. Asimismo, ser notificados de forma directa por su suministrador sobre cualquier revisión de los precios derivada de las condiciones previstas, con al menos un mes de antelación a la entrada en vigor, de forma transparente y comprensible.
+f) Ser debidamente avisados de forma transparente y comprensible, con al menos un mes de antelación, por escrito y de manera separada a su factura, de cualquier intención de modificar las condiciones del contrato que se pueda producir una vez transcurrido el plazo de vencimiento del contrato o de sus prórrogas y ser informados de su derecho a rescindir el contrato sin coste alguno cuando reciban el aviso.
+
+Los contratos a precio variable deberán recoger todos los parámetros y fórmulas que determinen las posibles revisiones de precio aplicables hasta el término del contrato. Asimismo, los consumidores deberán ser notificados de forma directa por su suministrador sobre cualquier revisión de los precios derivada de las condiciones previstas, por escrito y de manera separada a su factura, con al menos un mes de antelación a su aplicación de forma transparente y comprensible.
 
 Las comunicaciones de revisiones de precios deberán incluir una comparativa de los precios aplicados antes y después de la revisión, así como una estimación del coste anual del suministro para dicho consumidor y su comparativa con el coste anual anterior.
 
@@ -53,6 +55,8 @@ m) Ser informados adecuadamente del consumo real de gas y de los costes correspo
 n) Recibir una liquidación de la cuenta después de cualquier cambio de suministrador de gas natural, en el plazo máximo de seis semanas a partir de la fecha del cambio de suministrador.
 
 o) Acceder a las instalaciones propiedad de terceros, de regasificación, almacenamiento, transporte y distribución, en los términos previstos en la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, y normativa que la desarrolle.
+
+> Se modifica la letra f) por la disposición final 4.2 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-4
 
 > Se modifica por el art. 5.2 del Real Decreto-ley 23/2021, de 26 de octubre de 2021. Ref. BOE-A-2021-17458#a5
 

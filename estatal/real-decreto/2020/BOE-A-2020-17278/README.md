@@ -40,6 +40,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 20 bis](a2-12.md)
 - [Artículo 20 ter](a2-13.md)
 - [Artículo 20 quater](a2-14.md)
+- [Artículo 20 quinquies](a2-16.md)
 - [CAPÍTULO VI](cv-2.md)
 - [Artículo 21](a2-3.md)
 - [Artículo 22](a2-4.md)

@@ -20,17 +20,17 @@ Para determinar la cuantía anual a asignar a cada uno de los beneficiarios del 
 
 2. Se identificará la zona climática a la que pertenece la vivienda de cada beneficiario, en función de la altitud sobre el nivel del mar de la localidad en la que ubique y su capital de provincia, conforme a los valores establecidos en el apéndice B del documento básico «Ahorro de Energía» del Código Técnico de Edificación.
 
-3. La ayuda mínima por beneficiario, para el caso de que exista disponibilidad presupuestaria, será de 40 euros.
+3. La ayuda mínima por beneficiario será de 50 euros.
 
 La ayuda para un consumidor vulnerable en la zona climática «i» se calculará conforme a la siguiente fórmula:
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2022/251/17040_12281332_1.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/71/6544_16791409_1.png)
 
 Donde:
 
 i = zona climática comprendida entre los valores α y E.
 
-SCIi = valor medio del rango de SCI para la zona climática ''i''.
+SCIi = valor medio del rango de SCI para la zona climática “i”.
 
 En el caso de la zona α, se utilizará una SCI=0.
 
@@ -41,6 +41,8 @@ SCIA = valor medio del rango de SCI para la zona climática A.
 α = coeficiente a calcular en función de la disponibilidad presupuestaria anual, siendo siempre a > 0.
 
 4. La ayuda correspondiente a un consumidor vulnerable severo o en riesgo de exclusión social será un 60 % superior a la asignada en su zona climática a un consumidor vulnerable.
+
+> Se modifica el apartado 3 por el art. 2 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#a2
 
 > Se modifica el apartado 3 por el art. 3 del Real Decreto-ley 18/2022, de 18 de octubre. Ref. BOE-A-2022-17040#a3
 

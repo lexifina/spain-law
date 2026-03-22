@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Análisis de los sobrecostes de generación y las condiciones de suministro eléctrico en los territorios no peninsulares.
+
+Con carácter periódico y, en todo caso, en cada semiperiodo regulatorio, la Comisión Nacional de los Mercados y la Competencia realizará una evaluación de los costes de generación en los territorios no peninsulares, así como las condiciones y precios de suministro eléctrico para los consumidores en estos territorios. Esta evaluación periódica incluirá propuestas regulatorias encaminadas a garantizar el suministro eléctrico en estos sistemas al mínimo coste y al cumplimiento de los objetivos de descarbonización establecidos por el Gobierno y las Comunidades Autónomas para estos territorios.

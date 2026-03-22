@@ -24,21 +24,7 @@ b) El tipo estatal de la devolución podrá ser modificado por la Ley de Presupu
 
 c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Hacienda y Función Pública se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.
 
-> Téngase en cuenta que la última actualización de los apartados 4 y 6, establecida por el art. 82.2.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76, tiene efectos desde el 1 de enero de 2019:
-
-> Redacción anterior:
-
-> "4. La base de la devolución estará constituida por el volumen de gasóleo que haya sido adquirido por el interesado y destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior. La base así determinada se expresará en miles de litros.
-
-> Para la aplicación del tipo autonómico de la devolución, la base de la devolución estará constituida por el volumen de gasóleo que haya sido adquirido por el interesado en el territorio de la Comunidad Autónoma que lo haya establecido y haya sido destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior. La base así determinada se expresará en miles de litros."
-
-> "6.a) El tipo estatal de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 306 euros del tipo general del epígrafe 1.3 vigente en el momento de generarse el derecho a la devolución.
-
-> Las Comunidades Autónomas que hayan establecido un tipo impositivo autonómico podrán establecer un tipo autonómico de la devolución para los productos que hayan sido adquiridos en su territorio, que no podrá ser superior a dicho tipo impositivo autonómico.
-
-> b) El tipo estatal de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
-
-> c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Hacienda y Administraciones Públicas se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año."
+> Téngase en cuenta que, con efectos desde el 22 de marzo de 2026 y vigencia hasta el 30 de junio de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 39 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#a3-11
 
 7. El procedimiento para la práctica de la devolución se establecerá por el Ministro de Economía y Hacienda y podrá comprender, entre otros, los siguientes aspectos:
 
@@ -53,6 +39,8 @@ c) La obligación, para las entidades emisoras de los referidos medios de pago e
 9. La utilización de gasóleo por el que se solicite la devolución regulada en este artículo en motores distintos de los de los vehículos mencionados en el apartado 2 está prohibida. La inobservancia de esta prohibición constituirá una infracción tributaria grave que será sancionada de acuerdo con lo previsto en el artículo 55.
 
 10. Lo establecido en el apartado anterior se entiende sin perjuicio de las responsabilidades en que incurran quienes suministren gasóleo por el que se solicite la devolución a personas no autorizadas para recibirlo. A efectos de la aplicación de lo previsto en los artículos 8.6 y 15.11, el gasóleo por el que se solicite la devolución tendrá la consideración de gasóleo al que se ha aplicado un tipo reducido en razón de su destino.
+
+> Téngase en cuenta que, con efectos desde el 22 de marzo de 2026 y vigencia hasta el 30 de junio de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 39 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#a3-11
 
 > Se modifican los apartados 4 y 6, con efectos de 1 de enero de 2019, por el art. 82.2.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
 

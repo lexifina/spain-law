@@ -150,6 +150,14 @@ a) El crédito 32.02.231G.875 «Fondo de Garantía del Pago de Alimentos».
 
 b) El crédito 32.03.231B.483.01, «Pensión asistencial para españoles de origen retornados regulada en el artículo 25 Real Decreto 8/2008, de 11 de enero».
 
+c) El crédito 32.02.000X.423 “Aportación del Estado para financiar los complementos de pensiones mínimas del Sistema de la Seguridad Social”.
+
+d) El crédito 32.02.000X.420.03 “Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por la Leyes 26/1990, de 20 de diciembre y 35/2007, de 15 de noviembre. Protección familiar, incluso para atender obligaciones de ejercicios anteriores”.
+
+e) El crédito 32.02.000X.420.02 “Aportación del Estado al presupuesto de la Seguridad Social para financiar las prestaciones no contributivas establecidas por la Ley 26/1990, de 20 de diciembre. Pensiones, incluso para atender obligaciones de ejercicios anteriores”.
+
+f) El crédito 32.02.000X.424 “Aportación del Estado a la Seguridad Social para financiar el Ingreso Mínimo Vital”.
+
 Diecisiete. Los créditos de la Sección 34, «Relaciones Financieras con la Unión Europea», «Relaciones Financieras con la Unión Europea», ampliables tanto en función de los compromisos que haya adquirido o que pueda adquirir el Estado Español con la Unión Europea o que se deriven de las disposiciones financieras de las mismas, como en función de la recaudación efectiva de las exacciones agrarias, derechos de aduanas por la parte sujeta al arancel exterior comunitario, y cotizaciones del azúcar e isoglucosa.
 
 Dieciocho. En la Sección de 37, «Otras relaciones financieras con Entes Territoriales»:
@@ -181,3 +189,5 @@ j) Los créditos que se habiliten para hacer frente a las transferencias a las C
 ## Tercero.
 
 En el Presupuesto de la Seguridad Social, los créditos que sean necesarios en los programas de gastos del Instituto Nacional de Gestión Sanitaria para reflejar las repercusiones que en los mismos tengan las modificaciones de los créditos, que figuran en el estado de transferencias entre Subsectores de los Presupuestos Generales el Estado.
+
+> Se añaden la letras c) a f) en el apartado segundo.16 por la disposición final 12.2 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#df-12
