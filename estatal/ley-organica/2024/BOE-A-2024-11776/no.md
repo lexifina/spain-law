@@ -1,0 +1,1 @@
+Téngase en cuenta que se declara que el art. 3, en lo que se refiere a la responsabilidad administrativa y contable, y los arts. 5 a 16 de la presente Ley Orgánica 1/2024, no tienen carácter de ley orgánica por Sentencia del TC 18/2026, de 25 de febrero. Ref. BOE-A-2026-7120
