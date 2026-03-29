@@ -1,3 +1,0 @@
-## CAPÍTULO V
-
-## Del control
