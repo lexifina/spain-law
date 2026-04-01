@@ -1,0 +1,7 @@
+## Disposición adicional quinta. Cotización por contingencias profesionales de las personas sometidas a penas de trabajo en beneficio de la comunidad.
+
+Conforme a lo previsto en el capítulo IX del Real Decreto 782/2001, de 6 de julio, por el que se regula la relación laboral de carácter especial de los penados que realicen actividades laborales en talleres penitenciarios y la protección de Seguridad Social de los sometidos a penas de trabajo en beneficio de la comunidad, la cotización por las contingencias de accidentes de trabajo y enfermedades profesionales de las personas sentenciadas a la pena de trabajo en beneficio de la comunidad que se encuentren cumpliéndola únicamente se efectuará por los días de prestación efectiva de dicho trabajo.
+
+La cotización se determinará aplicando al tope mínimo de cotización fijado en cada ejercicio en el Régimen General de la Seguridad Social el tipo de cotización establecido en la tarifa de primas que corresponda a la actividad económica de prestación de servicios a la comunidad en general, efectuándose el ingreso de las cuotas que procedan a favor de la Tesorería General de la Seguridad Social, con carácter anual, dentro de los quince primeros días del mes de diciembre.
+
+A tal efecto, el Ministerio del Interior certificará los importes adeudados correspondientes a las cotizaciones devengadas en los doce meses naturales anteriores, en los términos y con los requisitos que se determinen por la Tesorería General de la Seguridad Social.
