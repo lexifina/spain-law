@@ -1,1 +1,3 @@
+Norma derogada, con efectos de 8 de abril de 2026, por la disposición derogatoria única del Real Decreto 263/2026, de 1 de abril. Ref. BOE-A-2026-7825
+
 Téngase en cuenta que, con efectos de 7 de septiembre de 2022, el Centro para el Desarrollo Tecnológico e Industrial E.P.E., pasará a denominarse Centro para el Desarrollo Tecnológico y la Innovación E.P.E. y que las referencias contenidas en este Real Decreto a aquél, se entenderán realizadas a la nueva denominación, según establece la disposición adicional 2 de la Ley 17/2022, de 5 de septiembre. Ref. BOE-A-2022-14581#da-2
