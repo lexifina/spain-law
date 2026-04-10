@@ -1,3 +1,7 @@
-## Disposición adicional primera. Aplicación de la normativa de la Ley de Contratos del Sector Público.
+## Disposición adicional primera. Aplicación de la normativa de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se trasponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
 
-Las condiciones especiales de ejecución de los contratos podrán incluir consideraciones relativas a la situación de la exclusión social de los trabajadores vinculados a la realización del contrato, de conformidad con lo dispuesto en la legislación de contratos del sector público.
+En relación con los porcentajes mínimos de reserva del derecho a participar en los procedimientos de adjudicación de determinados contratos o de determinados lotes de los mismos a centros especiales de empleo de iniciativa social y a empresas de inserción, se estará a lo establecido en la disposición adicional cuarta de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se trasponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
+
+Asimismo, los órganos de contratación establecerán en los pliegos de cláusulas administrativas particulares tanto criterios de adjudicación específicos como condiciones especiales de ejecución vinculados al objeto del contrato que fomenten la contratación de las personas que participan en itinerarios de inserción de las empresas de inserción y la subcontratación de estas, de conformidad con lo previsto en los artículos 147 y 202 de la Ley 9/2017, de 8 de noviembre.
+
+> Se modifica por el art. 2.16 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#as

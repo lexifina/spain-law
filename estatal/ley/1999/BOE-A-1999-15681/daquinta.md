@@ -8,7 +8,7 @@
 
 4. Se considerarán, a todos los efectos, actividades cooperativas internas y tendrán el carácter de operaciones de transformación primaria las que realicen las cooperativas agrarias y las cooperativas de segundo grado que las agrupen, con productos o materias, incluso suministradas por terceros, siempre que estén destinadas exclusivamente a las explotaciones de sus socios.
 
-5. Las cooperativas de trabajo asociado y las de segundo grado que las agrupen, gozarán de prioridad en caso de empate en los concursos y subastas para los contratos de obras o servicios del Estado y de los demás entes públicos.
+5. (Suprimido)
 
 6. Las cooperativas de viviendas tendrán derecho a la adquisición de terrenos de gestión pública por el sistema de adjudicación directa, para el cumplimiento de sus fines específicos.
 
@@ -17,3 +17,5 @@
 8. Los aranceles notariales, en los casos en que la escritura pública o cualquier otro instrumento público notarial venga impuesto por la legislación cooperativa, tendrán una reducción igual a la que se le concede al Estado.
 
 La misma bonificación se aplicará a los aranceles registrales, siempre que se trate de inscripciones obligatorias de actos y contratos previstos en la normativa aplicable o dirigidos al mejor cumplimiento del objeto social.
+
+> Se suprime el apartado 5 por el art. 1.35 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#ap

@@ -1,14 +1,12 @@
 ## Disposición transitoria séptima. Colaboración de las Entidades del Tercer Sector de Acción social en la gestión de la prestación de Ingreso Mínimo Vital.
 
-1. De forma excepcional, durante los cinco años siguientes a la entrada en vigor del Real Decreto-ley 30/2020, de 29 de septiembre, de medidas sociales en defensa del empleo, las Entidades del Tercer Sector de Acción Social, debidamente inscritas en el registro que a tal efecto se crea, podrán emitir certificado para la acreditación de las circunstancias previstas en el artículo 21.9 y 10.
+1. De forma excepcional, desde el 30 de septiembre de 2020, fecha de entrada en vigor del Real Decreto-ley 30/2020, de 29 de septiembre, de medidas sociales en defensa del empleo, las Entidades del Tercer Sector de Acción Social, debidamente inscritas en el registro que a tal efecto se crea, podrán emitir certificado para la acreditación de las circunstancias previstas en el artículo 21.9 y 10, así como realizar otras actuaciones relacionadas con la promoción de estrategias de inclusión previstas en el artículo 31.1.
 
 Los certificados expedidos por los mediadores sociales del ingreso mínimo vital deberán ser firmados por una o un trabajador social perteneciente a la entidad, debidamente colegiado. En dicho certificado se hará constar su número de colegiado.
 
-Con carácter anual, los mediadores sociales del ingreso mínimo vital, comunicarán a la entidad gestora el mantenimiento o modificación de los certificados previstos en los párrafos d) y e) del artículo 21.9, así como del certificado de exclusión social establecido en el artículo 21.10. Esta falta de comunicación, en el plazo establecido, dará lugar a la suspensión del abono de la prestación.
+Con carácter anual, los mediadores sociales del ingreso mínimo vital comunicarán a la entidad gestora el mantenimiento o modificación de los certificados previstos en los párrafos d) y e) del artículo 21.9, así como del certificado de exclusión social establecido en el artículo 21.10. Esta falta de comunicación, en el plazo establecido, dará lugar a la suspensión del abono de la prestación.
 
-La entidad gestora, en los términos previstos en el artículo 23.4 podrá comunicar a los mediadores sociales del ingreso mínimo vital, las resoluciones de las prestaciones del ingreso mínimo vital para la realización de aquellas actividades que tengan encomendadas, en el marco de la colaboración y cooperación que en la gestión y control del ingreso mínimo vital corresponde al Instituto Nacional de la Seguridad Social.
-
-Las entidades del Tercer Sector de Acción Social, en el supuesto de personas empadronadas, al amparo de lo previsto en las correspondientes instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal, en sus sedes o centros, están obligadas a comunicar al Instituto Nacional de la Seguridad Social cualquier modificación que afecte a la gestión y control de la prestación, dentro del plazo de los treinta días siguientes a que se produzcan.
+La entidad gestora, en los términos previstos en el artículo 23.4, podrá comunicar a los mediadores sociales del ingreso mínimo vital las resoluciones de las prestaciones del ingreso mínimo vital para la realización de aquellas actividades que tengan encomendadas, en el marco de la colaboración y cooperación que en la gestión y control del ingreso mínimo vital corresponde al Instituto Nacional de la Seguridad Social.
 
 2. A los efectos de lo previsto en esta Ley, son mediadores sociales del ingreso mínimo vital las entidades del Tercer Sector de acción social, conforme a la definición prevista en el artículo 2 de la ley 43/2015, de 9 de octubre, del Tercer Sector de Acción Social, debidamente registradas en el Registro de Mediadores Sociales del Ingreso Mínimo Vital.
 
@@ -73,5 +71,7 @@ b) Son infracciones muy graves:
 c) La infracción leve establecida en esta disposición será sancionada con el apercibimiento.
 
 d) Las infracciones muy graves, establecidas en esta disposición, cometidas por una entidad inscrita en el registro de mediadores sociales del ingreso mínimo vital darán lugar a la baja de su inscripción en el registro, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar.
+
+> Se modifica el apartado 1 por la disposición final 3.4 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#df-3
 
 > Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 101, de 28 de abril de 2022. Ref. BOE-A-2022-6830

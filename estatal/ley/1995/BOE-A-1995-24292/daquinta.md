@@ -2,7 +2,7 @@
 
 1. La Fundación Estatal para la Prevención de Riesgos Laborales, FSP, de acuerdo con lo previsto en el artículo 7.1.a), tendrá como finalidad la promoción de las condiciones de seguridad y salud en el trabajo, especialmente en las pequeñas empresas, a través de la gestión y el fomento de acciones de información, asistencia técnica, formación e impulso del cumplimiento de la normativa de prevención de riesgos.
 
-A la Fundación Estatal para la Prevención de Riesgos Laborales, FSP, le corresponde la gestión de las acciones ordinarias de impulso de la prevención de riesgos laborales de ámbito estatal, cuyo importe será del 33 % del presupuesto total de las mismas, y en las ciudades de Ceuta y Melilla, así como todas las acciones que se deriven de la Estrategia Española de Seguridad y Salud en el Trabajo.
+A la Fundación Estatal para la Prevención de Riesgos Laborales, FSP, le corresponde la gestión de las acciones ordinarias de impulso de la prevención de riesgos laborales de ámbito estatal y en las ciudades de Ceuta y Melilla, cuyo importe será del 33 por ciento del presupuesto total de las mismas, así como todas las acciones que se deriven de la Estrategia Española de Seguridad y Salud en el Trabajo.
 
 2. La Fundación quedará adscrita al Ministerio de Trabajo y Economía Social. Su Patronato se conformará por una mayoría de representantes de la Administración General del Estado, y se integrará asimismo por las restantes administraciones y organizaciones presentes en la Comisión Nacional de Seguridad y Salud en el Trabajo.
 
@@ -26,7 +26,9 @@ c) De acuerdo con el reparto competencial previsto en el texto constitucional y 
 
 d) La Comisión Nacional para la Seguridad y Salud en el Trabajo propondrá orientaciones materiales tanto al Ministerio de Trabajo y Economía Social como a las comunidades autónomas, para la elaboración y aprobación de las correspondientes convocatorias de subvenciones en sus respectivos ámbitos competenciales.
 
-4. La calidad, eficacia y efectividad de las acciones reguladas en la presente disposición se garantizará mediante su desarrollo por las organizaciones a las que se refiere el artículo 12, por las organizaciones empresariales y sindicales representativas en su ámbito sectorial correspondiente, así como por las fundaciones u otras entidades constituidas por estas y aquellas para la consecución de cualquiera de sus fines.
+4. La calidad, eficacia y efectividad de las acciones reguladas en la presente disposición se garantizarán mediante su desarrollo por las organizaciones empresariales y sindicales más representativas o representativas en su ámbito sectorial correspondiente, así como por las fundaciones u otras entidades constituidas por estas y aquellas para la consecución de cualquiera de sus fines. Las acciones dirigidas a personas trabajadoras autónomas podrán ser desarrolladas, además, por asociaciones profesionales de personas trabajadoras autónomas de ámbito estatal o autonómico, en los términos de los artículos 20 y 21 de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, y según se prevea en las correspondientes bases reguladoras de la concesión de las subvenciones para el desarrollo de dichas acciones.
+
+> Se modifican los apartados 1 y 4 por la disposición final 1.2 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#df
 
 > Se modifica por la disposición final 1 del Real Decreto-ley 16/2022, de 6 de septiembre. Ref. BOE-A-2022-14680#df
 
