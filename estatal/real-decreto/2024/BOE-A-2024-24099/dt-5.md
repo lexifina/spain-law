@@ -1,5 +1,7 @@
 ## Disposición transitoria quinta. Autorizaciones de residencia por circunstancias excepcionales por razón de arraigo.
 
-Aquellas personas extranjeras que en el momento de la entrada en vigor de este reglamento se encuentren en situación irregular como consecuencia de una resolución denegatoria o desestimatoria firme en sede administrativa y, en su caso, judicial de su solicitud de protección internacional, y reúnan los requisitos generales y específicos establecidos en el capítulo I del título VII excepto el de permanencia, podrán solicitar una autorización de residencia por circunstancias excepcionales por razones de arraigo siempre que hayan permanecido en territorio español en situación irregular al menos los seis meses inmediatamente anteriores a la presentación de la solicitud de esta autorización.
+(Derogada)
 
-Esta solicitud de autorización por razón de arraigo podrá ser solicitada durante los doce meses siguientes a la entrada en vigor de este reglamento. El Consejo de Ministros podrá acordar la prórroga de los plazos señalados en esta disposición transitoria.
+> Se deroga por la disposición derogatoria única del Real Decreto 316/2026, de 14 de abril. Ref. BOE-A-2026-8284
+
+> Téngase en cuenta el régimen transitorio establecido en la disposición transitoria 2 del citado Real Decreto.

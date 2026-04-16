@@ -390,4 +390,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional decimoséptima](da-17.md)
 - [Disposición adicional decimoctava](da-18.md)
 - [Disposición adicional decimonovena](da-19.md)
+- [Disposición adicional vigésima](da-20.md)
+- [Disposición adicional vigesimoprimera](da-21.md)
 - [Disposición transitoria única](dt-6.md)
