@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Régimen aplicable a los empresarios y profesionales con facturación anual superior a ocho millones de euros.
+
+1. Durante los doce meses siguientes a la fecha en que este real decreto produzca sus efectos en relación con los empresarios y profesionales cuyo volumen de operaciones, calculado conforme al artículo 121 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, haya excedido de 8 millones de euros durante el año natural inmediato anterior y que, de acuerdo con la disposición final octava de la Ley 18/2022, de 28 de septiembre, estén obligados a emitir facturas electrónicas en sus transacciones con empresarios y profesionales, deberán acompañar dichas facturas electrónicas de un documento en formato PDF que asegure su legibilidad, salvo cuando el destinatario de las facturas electrónicas acepte voluntaria y expresamente recibirlas en su formato original.
+
+2. El documento en PDF a que se hace referencia en el apartado 1 se remitirá al destinatario por cualquier medio y, en todo caso, no se remitirá a la solución pública de facturación electrónica.

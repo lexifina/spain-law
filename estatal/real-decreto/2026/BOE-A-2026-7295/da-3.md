@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Administraciones tributarias forales y solución pública de facturación electrónica.
+
+La solución pública de facturación electrónica para los empresarios o profesionales sometidos a la normativa tributaria de los territorios forales conforme a lo previsto en el Concierto Económico con la Comunidad Autónoma del País Vasco y en el Convenio Económico entre el Estado y la Comunidad Foral de Navarra se realizará atendiendo a lo dispuesto en los mismos, estableciéndose los oportunos acuerdos entre las Haciendas Forales y la Agencia Estatal de Administración Tributaria conforme al principio de colaboración regulado en aquellos.
