@@ -122,6 +122,12 @@
 | 75 ácido tetrahidrocannabinolico |  | (delta-9-THCA; THCA; (6aR,10aR)-1-hidroxilo-6,6,9-trimetil-3-pentil-6a,7,8,10a-tetrahidrobenzo[c]cromeno-2-ácido carboxílico) |
 | 76 dipentilona |  | (bk-DMBDP; N,N-dimetilpentilona; 1-(1,3-benzodioxol-5-il)-2-(dimetilamino)pentan-1-ona) |
 | 77 2-fluorodescloroketamina |  | (2-FDCK; 2-(2-fluorofenil)-2-metilaminociclohexanona) |
+| 78 2-clorometcatinona |  | (2-CMC) |
+| 79 2-metilmetcatinona |  | (2-MMC) |
+| 80 4-bromometcatinona |  | (4-BMC) |
+| 81 N-etilnorpentedrona |  | (NEP) |
+| 82 MDMB-FUBINACA |  |  |
+| 83 lisdexanfetamina |  |  |
 | Sustancias de la lista III |
 | 1 AMOBARBITAL |  | Ácido 5-etil-5-isopentilbarbitúrico |
 | 2 BUPRENORFINA |  | 2l-ciclopropil-7-α-[(S)-1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetrahidrooripavina |
@@ -203,6 +209,11 @@
 | 68 FLUBROMAZOLAM |  | (8-bromo-6-(2-fluorofenil)-1-metil-4H-enzo[f][1,2,4]triazolo[4,3- a][1,4]diazepina) |
 | 69 REMIMAZOLAM |  |  |
 | 70 BROMAZOLAM |  | (8-bromo-1-metil-6-fenil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiacepina) |
+| 71 carisoprodol |  | [(2RS)-2-[(carbamoiloxi) metil]-2-metilpentil (1-metiletil)carbamato] |
+
+> Se añaden nuevas sustancias en las listas II y IV por el art. único de la Orden SND/362/2026, de 13 de abril. Ref. BOE-A-2026-8700
+
+> Téngase en cuenta para su aplicación la disposición adicional única de la citada Orden.
 
 > Se añaden nuevas sustancias en las listas II y IV por el art. único de la Orden SND/380/2025, de 14 de abril. Ref. BOE-A-2025-8109
 
