@@ -56,7 +56,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_29662.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_29698.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/99/06586_29698.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_29729.png)
 
@@ -70,7 +70,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_30153.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_30184.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/99/06586_30184.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_30336.png)
 
@@ -78,7 +78,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_30482.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_30516.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/99/06586_30516.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_30547.png)
 
@@ -100,7 +100,7 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_31235.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_31270.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/99/06586_31270.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_31421.png)
 
@@ -159,3 +159,5 @@
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_33454.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2017/138/06586_33485.png)
+
+> Se modifican los apartados 5.2.1, 5.3.1, 5.4.1 y 5.6.1 por el art. único.5 a 8 del Real Decreto 325/2026, de 22 de abril. Ref. BOE-A-2026-8870
