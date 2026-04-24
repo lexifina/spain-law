@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Modificación del plazo de formalización de la adquisición de viviendas financiadas con cargo al programa de incremento del parque público de viviendas del Plan Estatal para el acceso a la vivienda 2022-2025.
+
+El plazo de formalización de la adquisición de viviendas fijado en artículo 69 del Real Decreto 42/2022, de 18 de enero, por el que se regula el Bono Alquiler Joven y el Plan Estatal para el acceso a la vivienda 2022-2025, podrá ser modificado por acuerdo de la Comisión de Seguimiento del correspondiente convenio de forma motivada y con objeto de evitar que su rigidez menoscabe el objeto último del programa.
