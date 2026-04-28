@@ -1,0 +1,19 @@
+El progresivo incremento de la complejidad, frecuencia e impacto potencial de los riesgos que afectan a la protección civil, unido a los efectos del cambio climático y a la creciente interdependencia territorial de las emergencias, exige la actualización y el refuerzo de los instrumentos de planificación que sustentan el Sistema Nacional de Protección Civil. La protección eficaz de las personas, los bienes y el medio ambiente requiere disponer de marcos normativos y técnicos que permitan anticipar, prevenir y gestionar situaciones de grave riesgo colectivo de manera coordinada, homogénea y basada en el conocimiento científico.
+
+El Consejo Nacional de Protección Civil, como órgano superior de coordinación en esta materia, ha impulsado la elaboración y aprobación de un conjunto de cuatro Directrices Básicas de Planificación de Protección Civil, relativas a los principales riesgos de especial relevancia para la seguridad pública como son las inundaciones, incendios forestales, fenómenos meteorológicos adversos y accidentes en el transporte terrestre de mercancías peligrosas.
+
+En este sentido, la actualización conjunta de estas directrices constituye un avance decisivo en la modernización del Sistema Nacional de Protección Civil.
+
+Estas directrices han sido aprobadas por unanimidad en sesión plenaria del Consejo Nacional de Protección Civil, en su reunión del 24 de marzo de 2026, tras un amplio proceso de trabajo técnico y consenso entre la Administración General del Estado, las Comunidades Autónomas, las Ciudades con Estatuto de Autonomía y la Federación Española de Municipios y Provincias, reflejo del compromiso compartido con una gestión del riesgo cohesionada, solidaria y eficaz.
+
+En concreto, esta Directriz Básica de Planificación de Protección Civil ante el riesgo de inundaciones, tiene por finalidad establecer los criterios mínimos comunes que han de seguir las distintas administraciones públicas en la elaboración de los correspondientes planes especiales de protección civil, dentro de sus respectivos ámbitos territoriales y competenciales. A tal efecto, define metodologías homogéneas de análisis del riesgo, criterios organizativos y operativos, sistemas de información y alerta, y los mecanismos necesarios para asegurar la coordinación, integración y actuación conjunta de los servicios implicados, reforzando la coherencia del sistema y la capacidad de respuesta ante emergencias de alto impacto.
+
+La Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, dispone en su artículo 15 que el riesgo de inundaciones será objeto de planes especiales de protección civil, los cuales se han venido elaborando conforme a lo dispuesto en el Acuerdo del Consejo de Ministros de 9 de diciembre de 1994, por el que se aprueba la Directriz Básica de Planificación de Protección Civil ante el Riesgo de Inundaciones.
+
+El Real Decreto 524/2023, de 20 de junio, por el que se aprueba la Norma Básica de Protección Civil, con efectos desde 11 de julio de 2023, establece en su disposición final primera que las Directrices Básicas de Planificación vigentes a la entrada en vigor de la Norma Básica de Protección Civil, se adaptarán a lo dispuesto en la misma en el plazo máximo de cuatro años.
+
+Asimismo, el artículo 5 de la Norma señala que las Directrices Básicas de Planificación son aprobadas por acuerdo del Consejo de Ministros, a propuesta de la persona titular del Ministerio del Interior, previo informe del Consejo Nacional de Protección Civil.
+
+De igual forma, esta iniciativa se alinea con las competencias del Ministerio del Interior en materia de protección civil, como señala el artículo 1 del Real Decreto 207/2024, de 27 de febrero, por el que se desarrolla su estructura orgánica básica.
+
+En su virtud, a propuesta del Ministro del Interior, el Consejo de Ministros en su reunión del día 21 de abril de 2026, acuerda:
