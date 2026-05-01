@@ -10,4 +10,6 @@ c) Las actividades a llevar a cabo por las organizaciones interprofesionales del
 
 d) La mejora de la transparencia en el sector lácteo, entendiendo como tal, la disponibilidad en tiempo real de información veraz y objetiva y acceso a la misma en igualdad de condiciones para compradores y vendedores de leche.
 
-e) La regulación de la oferta de quesos con denominación de origen protegida (DOP) o indicación geográfica protegida (IGP).
+e) (Derogado)
+
+> Se deroga la letra e) por la disposición derogatoria única.i) del Real Decreto 189/2026, de 11 de marzo. Ref. BOE-A-2026-5875

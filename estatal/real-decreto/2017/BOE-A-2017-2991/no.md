@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 267/2017, de 17 de marzo, por el que se desarrolla la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico", según establece la disposición final 2.1 del Real Decreto 189/2026, de 11 de marzo. Ref. BOE-A-2026-5875
