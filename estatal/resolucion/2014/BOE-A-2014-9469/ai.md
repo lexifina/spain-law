@@ -234,6 +234,12 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/81/5460_11385859_1.png)
 
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/113/10044_16964203_1.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/113/10044_16964203_2.png)
+
+> Se añaden los documentos contables CPMF.920 y ACPMF por los que se recogen en el anexo I de la Resolución de 28 de abril de 2026, según establece su art. único.10. Ref. BOE-A-2026-10044
+
 > Se sustituyen los modelos de los documentos contables O.603, O.604 y O.606 por los que se recogen en el anexo de la Resolución de 19 de junio de 2025, según establece su art. 2.6. Ref. BOE-A-2025-13081
 
 > Se sustituyen los modelos de los documentos contables ADOK.440, ADOK.450, OK.610, KRPG.900, ACPI.050, DROC.150, ABPD.350, OEAD.900, CPAD.900, CPTC.910, JPJ.930 y JPJ.940 por los que se recogen en el anexo de la Resolución de 27 de diciembre de 2023, según establece su art. 1.4. Ref. BOE-A-2024-1775
