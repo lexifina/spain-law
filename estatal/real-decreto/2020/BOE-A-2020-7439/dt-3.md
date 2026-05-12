@@ -5,3 +5,5 @@
 2. La Comisión Nacional de los Mercados y la Competencia, en el informe anual que debe remitir conforme a lo establecido en la disposición adicional primera del Real Decreto 244/2019, de 5 de abril, podrá poner de manifiesto, si las hubiere, aquellas cuestiones que considere relevantes y que aconsejen el fin de la exención recogida en el apartado anterior.
 
 3. Mediante orden ministerial se podrá poner fin a la exención a la que se refiere el apartado anterior. Esta orden deberá valorar la conveniencia de establecer periodos transitorios que sirvan para garantizar la adecuada adaptación al marco normativo de las instalaciones que hasta ese momento hayan estado acogidas a dicha exención.
+
+> Téngase en cuenta que se pone fin a la exención recogida en esta disposición, con efectos de 12 de mayo de 2026, según establece la disposición adicional tercera de la Orden TED/749/2020, de 16 de julio, Ref. BOE-A-2020-8965#da-3, en la redacción dada por el art. único.8 de la Orden TED/82/2026, de 9 de febrero. Ref. BOE-A-2026-3213
