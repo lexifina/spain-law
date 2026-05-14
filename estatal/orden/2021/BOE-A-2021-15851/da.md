@@ -1,3 +1,5 @@
 ## Disposición adicional única. Medios personales al servicio del INJUVE.
 
-Las medidas incluidas en esta orden se llevarán a cabo con los medios personales disponibles sin incremento de dotaciones, retribuciones o de otros gastos de personal al servicio de la Administración General del Estado.
+(Suprimida)
+
+> Se suprime por el art. 1.14 de la Orden JUI/463/2026, de 5 de mayo. Ref. BOE-A-2026-10325
