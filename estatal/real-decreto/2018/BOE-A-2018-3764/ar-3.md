@@ -37,3 +37,7 @@ m) Seminarios o jornadas: actividades docentes en las que mediante el trabajo en
 n) Homologación en el ámbito de la enseñanza de la Guardia Civil: es el reconocimiento oficial de la formación superada y de las competencias adquiridas como equivalentes a las exigidas para la obtención de la aptitud de un curso de la Institución.
 
 o) Convalidación en el ámbito de la enseñanza de la Guardia Civil: es el reconocimiento oficial de la validez de módulos o asignaturas realizadas respecto de parte de un curso de la Guardia Civil, que permita aplicarla, en su caso, a la realización del mismo.
+
+p) Concurrente Institucional: consideración que adquiere el personal de la Administración General del Estado, el personal de la Guardia Civil en situación administrativa de reserva y el personal de las Fuerzas Armadas, que presta servicio en el ámbito de la Guardia Civil o que ocupa un puesto de trabajo en la Guardia Civil, que hayan sido seleccionados para la realización de una actividad formativa.
+
+> Se añade la letra p) por el art. único.1 del Real Decreto 392/2026, de 13 de mayo. Ref. BOE-A-2026-10512
