@@ -1,9 +1,5 @@
 ## ANEXO B
 
-## (Anexo a la convocatoria)
+## (Suprimido)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/157/10964_9722019_1.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/157/10964_9722019_2.png)
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/157/10964_9722019_3.png)
+> Se suprime por el art. único.13 del Real Decreto 393/2026, de 13 de mayo. Ref. BOE-A-2026-10742

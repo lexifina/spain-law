@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 425/2021, de 15 de junio, por el que se establecen las bases reguladoras de las subvenciones destinadas a la organización del Programa CULTIVA, relativo a estancias formativas de jóvenes agricultores y agricultoras en explotaciones modelo", según establece el art. único.1 del Real Decreto 393/2026, de 13 de mayo. Ref. BOE-A-2026-10742
