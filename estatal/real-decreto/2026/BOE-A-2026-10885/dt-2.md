@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Eficacia de las resoluciones de adhesión dictadas al amparo de la normativa reguladora del Bono Cultural Joven.
+
+Las resoluciones de adhesión dictadas al amparo de lo dispuesto en el Real Decreto 210/2022, de 22 de marzo, por el que se establecen las normas reguladoras del Bono Cultural Joven, en el Real Decreto 191/2023, de 21 de marzo, por el que se establecen las normas reguladoras del Bono Cultural Joven, y en la Orden CUD/673/2022, de 13 de julio, por la que se convoca el procedimiento para la adhesión de las entidades al programa Bono Cultural Joven, mantendrán su eficacia con carácter indefinido siempre que se cumplan los requisitos establecidos en este real decreto y en las correspondientes convocatorias para la adhesión.
