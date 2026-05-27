@@ -70,11 +70,15 @@ Escala de oficiales:
 
 Intendencia: Los militares con esta especialidad desarrollan actividades relacionadas con los cometidos de su cuerpo.
 
-3. Cuerpo de Ingenieros
+3. Cuerpo de Ingenieros del Ejército del Aire y del Espacio
 
 Escala de oficiales:
 
-Ingenieros: Los militares con esta especialidad desarrollan actividades relacionadas con los cometidos de su cuerpo y las facultades de la escala.
+Aeronaves y Sistemas Aeroespaciales: los militares con esta especialidad desarrollan actividades de proyecto, modificación, mantenimiento, inspección, certificación, investigación y desarrollo de las aeronaves y vehículos espaciales, sus sistemas y subsistemas específicos, logísticos y de apoyo, así como la gestión y dirección de las organizaciones asociadas a estas actividades, en el ámbito de sus competencias profesionales.
+
+Sistemas de Mando, Control y Comunicaciones Aeroespaciales: los militares con esta especialidad desarrollan actividades de proyecto, modificación, mantenimiento, inspección, certificación, investigación y desarrollo de los sistemas de navegación, comunicaciones y mando y control aeroespaciales, sus sistemas y subsistemas específicos, logísticos y de apoyo, así como la gestión y dirección de las organizaciones asociadas a estas actividades, en el ámbito de sus competencias profesionales.
+
+Infraestructuras Aeroespaciales: los militares con esta especialidad desarrollan actividades de proyecto, modificación, mantenimiento, inspección, certificación, investigación y desarrollo de infraestructuras, edificios e instalaciones aeroportuarias o de uso general, así como la gestión y dirección de las organizaciones asociadas a estas actividades, en el ámbito de sus competencias profesionales.
 
 Escala técnica:
 
@@ -83,6 +87,8 @@ Técnicas Aeroespaciales: Los militares con esta especialidad desarrollan activi
 Telecomunicaciones y Electrónica: Los militares con esta especialidad desarrollan actividades en el campo específico de las telecomunicaciones, electrónica y sistemas anejos, aviónica, sistemas de aeronavegación, sistemas de mando y control y de guerra electrónica.
 
 Infraestructura: Los militares con esta especialidad desarrollan actividades en el campo específico de la infraestructura de bases aéreas, pistas de vuelo, edificaciones e instalaciones.
+
+> Se modifica la escala de oficiales del apartado 3 por el art. 1.2 del Real Decreto 399/2026, de 25 de mayo. Ref. BOE-A-2026-11320
 
 > Se modifica el apartado 1 por el art. único.10 del Reglamento, por Real Decreto 296/2021, de 27 de abril. Ref. BOE-A-2021-6876
 
