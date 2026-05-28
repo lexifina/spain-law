@@ -1,3 +1,7 @@
 ## Disposición adicional única. Modificación del plazo previsto en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, en relación con el Inventario de Bienes Muebles de la Iglesia.
 
 Se amplía por cinco años el plazo previsto en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, en relación con el Inventario de Bienes Muebles de la Iglesia, y en relación a su vez con la disposición adicional segunda de la Ley 4/2004, de 29 de diciembre, de modificación de tasas y de beneficios fiscales de acontecimientos de excepcional interés público, con la disposición transitoria primera de la Ley 42/1994, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, y con la disposición transitoria quinta de la propia Ley 16/1985, de 25 de junio.
+
+> Téngase en cuenta que se amplía por cinco años, desde el 28 de mayo de 2025, el plazo previsto en la Ley 16/1985, de 25 de junio, en relación con la transmisión, cesión e Inventario de Bienes Muebles de la Iglesia, y en relación con la presente disposición adicional, según establece la disposición adicional 2 del Real Decreto-ley 12/2026, de 26 de mayo. Ref. BOE-A-2026-11397#da-2
+
+> Se amplía por cinco años, desde el 28 de mayo de 2025, el plazo previsto en la Ley 16/1985, de 25 de junio, en relación con la transmisión, cesión e Inventario de Bienes Muebles de la Iglesia, y en relación con la presente disposición adicional, según establece la disposición adicional 2 del Real Decreto-ley 12/2026, de 26 de mayo. Ref. BOE-A-2026-11397#da-2

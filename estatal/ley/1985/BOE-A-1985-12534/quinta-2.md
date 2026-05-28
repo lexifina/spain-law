@@ -2,7 +2,9 @@
 
 En los diez años siguientes a la entrada en vigor de esta Ley, lo dispuesto en el artículo 28.1 de la misma se entenderá referido a los bienes muebles integrantes del Patrimonio Histórico Español en posesión de las instituciones eclesiásticas.
 
-> Téngase en cuenta que se amplía por cinco años el plazo previsto en esta Ley en relación con el Inventario de Bienes Muebles de la Iglesia, y en relación a su vez con esta disposición, a partir del 30 de abril de 2021, según establece la disposición adicional única de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#da
+> Téngase en cuenta que se amplía por cinco años, a partir del 28 de mayo de 2026, el plazo previsto en esta Ley en relación con la transmisión, cesión e Inventario de Bienes Muebles de la Iglesia, y de conformidad con la presente disposición, según establece la disposición adicional 2 del Real Decreto-ley 12/2026, de 26 de mayo. Ref. BOE-A-2026-11397#da-2
+
+> Se amplía por cinco años, a partir del 28 de mayo de 2026, el plazo previsto en esta Ley en relación con la transmisión, cesión e Inventario de Bienes Muebles de la Iglesia, y de conformidad con la presente disposición, según establece la disposición adicional 2 del Real Decreto-ley 12/2026, de 26 de mayo. Ref. BOE-A-2026-11397#da-2
 
 > Se amplía por cinco años el plazo previsto en esta Ley en relación con el Inventario de Bienes Muebles de la Iglesia, y en relación a su vez con esta disposición, a partir del 30 de abril de 2021, por la disposición adicional única de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#da
 
