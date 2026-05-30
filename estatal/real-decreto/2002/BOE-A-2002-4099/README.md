@@ -11,6 +11,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 ## Bloques
 
 - [preambulo](preambulo.md)
+- [CAPÍTULO I](ci.md)
 - [Artículo 1](a1.md)
 - [Artículo 2](a2.md)
 - [Artículo 3](a3.md)
@@ -29,6 +30,11 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 16](a16.md)
 - [Artículo 17](a17.md)
 - [Artículo 18](a18.md)
+- [CAPÍTULO II](ci-2.md)
+- [Artículo 19](a1-2.md)
+- [Artículo 20](a2-2.md)
+- [Artículo 21](a2-3.md)
+- [Artículo 22](a2-4.md)
 - [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)
