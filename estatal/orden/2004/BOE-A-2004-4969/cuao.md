@@ -4,14 +4,32 @@
 
 En dichos informes se omitirá la denominación de las entidades que hayan contraído los mencionados riesgos. Respecto a estos, solo se incluirán situaciones de incumplimiento de las obligaciones directas o garantizadas, distinguiendo los que hayan sido dados de baja en el balance por las entidades y sigan siendo exigibles, las situaciones relativas a procedimientos concursales, así como los riesgos vencidos, entendiendo por tales, a estos efectos, aquellos cuya fecha de impago supere los 90 días desde su vencimiento. En los informes no se facilitarán los datos que se refieran a pertenencia del titular a un determinado grupo económico, tipo de interés, fechas de inicio, vencimiento e incumplimiento, ni las categorías prudenciales de riesgo ni demás datos que se consideren necesarios exclusivamente para el adecuado ejercicio de las facultades de supervisión e inspección de las entidades declarantes por parte de las autoridades competentes.
 
-2. Los riesgos que las entidades declarantes mantengan directa o indirectamente con las administraciones públicas españolas y demás sujetos de ellas dependientes a los que se refieren el apartado primero del artículo 24 de la Ley 18/2001, de 12 de diciembre, general de estabilidad presupuestaria, y el apartado primero del artículo 10 de la Ley Orgánica 5/2001, de 13 de diciembre, complementaria a la Ley general de estabilidad presupuestaria, se comunicarán por el Banco de España mensualmente al Ministerio de Hacienda y, en su caso, a la Comunidad Autónoma de la que dependan, según lo previsto en el apartado primero del artículo 61 de la Ley.
+2. Los riesgos que las entidades declarantes mantengan directa o indirectamente con las administraciones públicas españolas y demás sujetos de ellas dependientes a los que se refieren el apartado primero del artículo 28 de Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, se comunicarán por el Banco de España mensualmente al Ministerio de Hacienda y, en su caso, a la Comunidad Autónoma de la que dependan, según lo previsto en el apartado primero del artículo 61 de la Ley.
 
 Los datos que remita el Banco de España deberán permitir identificar las distintas operaciones, e incluirán, entre otros, código de identificación del titular, clase de riesgo, y, cuando proceda atendiendo al tipo de riesgo que se declare, tipo de interés, fechas de inicio, vencimiento y, en su caso, impago, importe disponible e importe dispuesto pendiente de reembolso, garantías, tanto reales como personales, así como los relativos a las situaciones mencionadas en el párrafo segundo del apartado segundo del artículo 60 de la Ley.
 
+> Téngase en cuenta que la actualización de los apartados 1 y 2, establecida por el art. 1.4 de la Orden ECM/531/2026, de 27 de mayo. Ref. BOE-A-2026-11586, entra en vigor el 2 de enero de 2027, según se determina su disposición final 2.
+
+> Redacción anterior:
+
+> " 1. El Banco de España determinará el contenido y forma de los informes que tendrán derecho a obtener las entidades declarantes, previstos en el apartado segundo del artículo 61 de la Ley. Dichos informes contendrán, en todo caso, en relación con cada titular la información consolidada de todas las entidades declarantes en las que los titulares mantengan un riesgo acumulado de acuerdo con los datos igual o superior a 1.000 euros.
+
+> En dichos informes se omitirá la denominación de las entidades que hayan contraído los mencionados riesgos. Respecto a estos, solo se incluirán situaciones de incumplimiento de las obligaciones directas o garantizadas, distinguiendo los que hayan sido dados de baja en el balance por las entidades y sigan siendo exigibles, las situaciones relativas a procedimientos concursales, así como los riesgos vencidos, entendiendo por tales, a estos efectos, aquellos cuya fecha de impago supere los 90 días desde su vencimiento. En los informes no se facilitarán los datos que se refieran a pertenencia del titular a un determinado grupo económico, tipo de interés, fechas de inicio, vencimiento e incumplimiento, ni las categorías prudenciales de riesgo ni demás datos que se consideren necesarios exclusivamente para el adecuado ejercicio de las facultades de supervisión e inspección de las entidades declarantes por parte de las autoridades competentes.
+
+> 2. Los riesgos que las entidades declarantes mantengan directa o indirectamente con las administraciones públicas españolas y demás sujetos de ellas dependientes a los que se refieren el apartado primero del artículo 24 de la Ley 18/2001, de 12 de diciembre, general de estabilidad presupuestaria, y el apartado primero del artículo 10 de la Ley Orgánica 5/2001, de 13 de diciembre, complementaria a la Ley general de estabilidad presupuestaria, se comunicarán por el Banco de España mensualmente al Ministerio de Hacienda y, en su caso, a la Comunidad Autónoma de la que dependan, según lo previsto en el apartado primero del artículo 61 de la Ley.
+
+> Los datos que remita el Banco de España deberán permitir identificar las distintas operaciones, e incluirán, entre otros, código de identificación del titular, clase de riesgo, y, cuando proceda atendiendo al tipo de riesgo que se declare, tipo de interés, fechas de inicio, vencimiento y, en su caso, impago, importe disponible e importe dispuesto pendiente de reembolso, garantías, tanto reales como personales, así como los relativos a las situaciones mencionadas en el párrafo segundo del apartado segundo del artículo 60 de la Ley."
+
 3. El Banco de España establecerá unos procedimientos de procesamiento y suministro de la información sobre los riesgos de los titulares que aseguren que las entidades declarantes y los intermediarios de crédito inmobiliario disponen de la última información declarada el vigésimo primer día natural del mes siguiente al que se refiera o si este fuera inhábil el día siguiente hábil.
+
+> Se modifica por el art. 1.4 y 5 de la Orden ECM/531/2026, de 27 de mayo. Ref. BOE-A-2026-11586
+
+> Téngase en cuenta que el apartado 1 y 2 entra en vigor el 2 de enero de 2027, según determina la disposición final 2 de la citada orden.
+
+> Veasé en relación con los informes previstos en el apartado 1 la disposición transitoria única de la citada orden.
 
 > Se modifica el apartado 1 y se añade el 3 por el art. 1.5 y 6 de la Orden ETD/699/2020, de 24 de julio. Ref. BOE-A-2020-8583
 
-> Téngase en cuenta que el apartado 1 entra en vigor el 27 de julio de 2022, y el nuevo apartado 3 el 2 de enero de 2021, según se determina en la disposición final 2.
+> Téngase en cuenta que el apartado 1 entra en vigor el 27 de julio de 2022, y el nuevo apartado 3 el 2 de enero de 2021, según se determina en la disposición final 2 de la citada orden.
 
 > Se modifica el apartado 1 por el art. único.3 de la Orden ECC/747/2013, de 25 de abril. Ref. BOE-A-2013-4718.
