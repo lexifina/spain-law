@@ -8,11 +8,13 @@ Los vehículos deben estar equipados con neumáticos de las dimensiones y caract
 
 ## 2. Profundidad mínima de dibujo
 
-Los neumáticos de los vehículos comprendidos en las categorías M1, N1, O1 y O2 deben presentar, durante toda su utilización en las vías públicas, una profundidad en las ranuras principales de la banda de rodamiento que, como mínimo, debe ser de 1,6 mm.
+Los neumáticos de los vehículos comprendidos en las categorías M1, N1, O1 y O2 deben presentar, durante toda su utilización en las vías públicas, una profundidad en las ranuras principales de la banda de rodadura que, como mínimo, debe ser de 1,6 mm.
 
-Deberá entenderse como ranuras principales las ranuras anchas situadas en la zona central de la banda de rodamiento que cubre cerca de las tres cuartas partes de la anchura de dicha banda.
+Los neumáticos de los vehículos comprendidos en las categorías M2, M3, N2 y N3, O3 y O4 deben presentar, durante toda su utilización en las vías públicas, una profundidad en las ranuras principales de la banda de rodadura que, como mínimo, debe ser de 1,0 mm.
 
-Quedan excluidos del ámbito de aplicación del apartado anterior los vehículos históricos equipados originalmente con neumáticos o cubiertas de otros tipos que cuando eran nuevos tenían ranuras de una profundidad inferior a 1,6 mm., siempre que dichos vehículos estén equipados con los citados neumáticos, que se utilicen en condiciones excepcionales y que no se utilicen nunca o casi nunca en la vía pública.
+Deberá entenderse como ranuras principales las ranuras longitudinales y transversales que forman parte del dibujo principal de la banda de rodadura y que, al menos en neumáticos de categoría C1, disponen de indicadores de desgaste.
+
+Quedan excluidos del ámbito de aplicación del apartado anterior los vehículos históricos equipados originalmente con neumáticos o cubiertas de otros tipos que cuando eran nuevos tenían ranuras de una profundidad inferior a la mencionada en los párrafos anteriores para la categoría del vehículo, siempre que dichos vehículos estén equipados con los citados neumáticos, que se utilicen en condiciones excepcionales y que no se utilicen nunca o casi nunca en la vía pública.
 
 ## 3. Indicadores de desgaste
 
@@ -26,10 +28,14 @@ El resculturado no está permitido, excepto en aquellos neumáticos que equipen 
 
 ## 5. Neumáticos especiales
 
-Si los neumáticos presentasen clavos, como los usados en pavimento con hielo, éstos serán de cantos redondeados y no sobresaldrán de la superficie más de dos milímetros.
+Se entiende como neumáticos especiales aquellos neumáticos de nieve con requisitos de homologación específicos para uso en condiciones de nieve extrema y que van identificados en el costado con el marcado M+S, M&S o M.S, conjuntamente con el pictograma 3PMSF (montaña de tres picos con un copo de nieve). También se entiende como neumáticos especiales aquellos diseñados y homologados para una utilización profesional off-road y que van identificados en el costado con el marcado M+S, M&S o M.S, conjuntamente con POR. Este tipo de neumáticos deberá tener una capacidad de velocidad igual o superior a la velocidad máxima prevista para el vehículo, o bien no inferior a 160 km/h si la velocidad máxima del vehículo es superior a ésta. Si el código de velocidad del neumático es inferior al indicado en la ficha técnica del vehículo, se deberá recordar la velocidad límite al conductor en un lugar visible en el interior del vehículo.
 
-Si se utilizan neumáticos especiales de nieve, éstos irán marcados con la inscripción M + S, MS o M & S, y deberán tener una capacidad de velocidad, bien igual o superior a la velocidad máxima prevista para el vehículo, bien no inferior a 160 Km/h si la velocidad máxima del vehículo es superior a ésta.
+Para la conformidad a las restricciones de movilidad invernal, en el caso de los vehículos de MMA ≤ 3.500 kg estos deberán equipar neumáticos certificados 3PMSF en todos sus ejes. Fuera de las zonas y periodos de restricciones de movilidad invernal los vehículos podrán presentar un equipamiento de diferente tipo de neumáticos entre ejes.
+
+Para la conformidad a las restricciones de movilidad invernal, en el caso de los vehículos con MMA > 3.500 kg estos deberán equipar neumáticos certificados 3PMSF o POR como mínimo en el eje de dirección y en los ejes motor. Fuera de las zonas y periodos de restricciones de movilidad invernal los vehículos podrán presentar un equipamiento de diferente tipo de neumáticos entre ejes.
 
 ## 6. Presión de inflado
 
 La presión de inflado de los neumáticos deberá ser revisada regularmente, con manómetros de uso privado o público, debidamente homologados y verificados según la reglamentación vigente que les sea de aplicación recogida en el anexo I.
+
+> Se modifican los apartados 2 y 5 por el art. 2.2 de la Orden PJC/528/2026, de 26 de mayo. Ref. BOE-A-2026-11580

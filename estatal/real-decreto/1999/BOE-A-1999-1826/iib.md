@@ -9,6 +9,7 @@
 | 04 Motocicleta | Automóvil de dos ruedas o con sidecar |
 | 05 Motocarro | Vehículo de tres ruedas dotado de caja o plataforma para el transporte de cosas. |
 | 06 Automóvil de tres ruedas | Vehículo de tres ruedas y cuatriciclos. |
+| 07 Ciclo de motor | Definido conforme a lo dispuesto en el anexo I del Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, para la categoría L1e-A. |
 | 10 Turismo | Automóvil distinto de la motocicleta, especialmente concebido y construido para el transporte de personas y con capacidad hasta 9 plazas, incluido el conductor. |
 | 11 Autobús o autocar MMA ≤3.500 kg. | Automóvil concebido y construido para el transporte de más de 9 personas incluido el conductor, cuya masa máxima autoriza no exceda de 3.500 kg. |
 | 12 Autobús o autocar MMA > 3.500 kg. | Automóvil concebido y construido para el transporte de más de 9 personas incluido el conductor, cuya masa máxima autoriza excede de 3.500 kg. |
@@ -48,6 +49,8 @@
 | 66 QUAD-ATV | Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy concretos, con utilización fundamentalmente fuera de carretera, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y dotado de un sistema de tracción adecuado al uso fuera de carretera y cuya velocidad puede estar limitada en función de sus características técnicas o uso. Se exceptúan de esta definición los vehículos incluidos en las categorías definidas en las Directivas europeas 92/61/CEE del Consejo, de 30 de junio de 1992, relativa a la recepción de los vehículos a motor de dos o tres ruedas, y 2002/24/CE del Parlamento Europeo y del Consejo, de 18 de marzo de 2002, relativa a la homologación de los vehículos a motor de dos o tres ruedas. |
 | 70 Militares o de las Fuerzas y Cuerpos de Seguridad. | Vehículos especiales concebidos y construidos para las Fuerzas Armadas o para las Fuerzas y Cuerpos de Seguridad, que no se puedan incluir en el resto de categorías. |
 | 80 Tren turístico | Vehículo especial constituido por un vehículo tractor y uno o varios remolques, concebido y construido para el transporte de personas con fines turísticos, con velocidad máxima limitada y sujeto a las limitaciones de circulación que imponga la autoridad competente en materia de tráfico. |
+
+> Se añade el apartado 07 por el art. 2.1 de la Orden PJC/528/2026, de 26 de mayo. Ref. BOE-A-2026-11580
 
 > Se modifican los apartados 03 y 70 por el art. único.1.b) de la Orden PJC/780/2025, de 21 de julio. Ref. BOE-A-2025-15231
 

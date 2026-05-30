@@ -1,72 +1,60 @@
 ## Cuadro 1
 
-| TIPO PLACA MATRÍCULA | Medidas (mm) | Caracteres (mm) | Separación entre caracteres (mm) | Espacio entre grupos de caracteres (mm) | Separación a bordes (mm) | Color | Tolerancia entre caracteres, grupo de caracteres y distancia a bordes |
+| Tipo placa matrícula | Medidas (mm) | Caracteres (mm) | Separación entre caracteres (mm) | Espacio entre grupos de caracteres (mm) | Separación a bordes (mm) | Color | Tolerancia entre caracteres, grupo de caracteres y distancia a borde |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Total | Superficie reflectante | Anchura | Altura | Grueso trazo | Horizontales | Entre líneas | Verticales línea superior | Verticales línea inferior | Fondo | Caracteres |
 | Izq. | Der. | Izq. | Der. |
-| Ordinaria larga (1) | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 41 | 11,5 | – | 62 | 22 | – | – | B/A(7) | N/B(7) | ± 3 mm |
-| Ordinaria alta (1) | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | - | 15 | 26 | 80 | 40 | 87,5 | 87,5 | B/A(7) | N/B(7) |
-| Ordinaria larga delantera (2) | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 8 | 24 | 20 | – | 48 | 8 | – | – | B/A(7) | N/B(7) |
-| Motocicletas ordinaria (4) | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 10 | - | 10 | 10 | 50 | 10 | 50 | 50 | B | N |
-| Motocicletas corta (5) | 132 x 96 | 122 × 86 | 13 | 30 | 3,5 | 6 10 | - | 7 | 12 | 40 | 8 | 31,5 | 31,5 | B | N |
-| Ordinaria larga con siglas de provincia (1) * | 520 × 110 | 510 × 110 | 45 | 77 | 10 | 8 | 27 | 11,5 | - | 48 | 8 | - | - | B | N |
-| Ordinaria alta con siglas de provincia (1) (3) * | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | 50 | 15 | 26 | 60 | 20 | 60 | 60 | B | N |
-| Ordinaria larga delantera con siglas de provincia (2) * | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 6 | 6 | 20 | - | 44 | 4 | - | - | B | N |
-| Motocicletas ordinaria con siglas de provincia (3) (4) * | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 8 10 | 18 | 10 | 10 | 48 | 8 | 50 | 10 | B | N |
-| Vehículos especiales larga | 340 x10 | 330 x 100 | 30 | 60 | 6 | 8 | 15 | 20 | - | 10 | 10 | - | - | B | R |
-| Vehículos especiales alta | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 10 15 | 40 | 20 | 30 | 25 | 25 | 75 | 75 | B | R |
-| Remolques y semirremolques larga | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 12 | 30 | 11,5 | – | 15 | 15 | – | – | R | N |
-| Remolques y semirremolques alta | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 9 10 | 40 | 15 | 26 | 19 | 19 | 87,5 | 87,5 | R | N |
-| Ciclomotores alta | 100 × 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
-| Ciclomotores larga | 140 x 120 | 130 x 110 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
-| Cuatriclos ligeros (6) | 210 x 85 | 200 × 75 | 13 | 30 | 3,5 | 7 | 16 | 22,5 | – | 14,5 | 14,5 | – | – | AM | N |
-| Cuatriciclos larga | 520 x 110 | 510 x 110 | 45 | 77 | 10 | 11 | 41 | 11,5 | – | 62 | 22 | – | – | AM | N |
-| Vehículo histórico ciclomotores | 100 x 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | B | N |
-| Cuerpo Diplomático | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | R | B |
-| Organizaciones internacionales | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | AZ | B |
-| Oficina consular | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | V | B |
-| Personal técnico-administrativo | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 48 | 11,5 | – | 35 | 35 | – | – | AM | N |
-| Turística larga | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 10 | 20 30 | 11,5 | – | 10 | 40 | – | – | B | N |
-| Turística alta | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | 20 | 15 | 26 | 10 | 45 | 70 | 105 | B | N |
-| Vehículo histórico larga | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 10 | 35 | 11,5 | – | 15 | 15 | – | – | B | N |
-| Vehículo histórico alta | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 13 | 36 | 15 | 26 | 15 | 15 | 84,5 | 84,5 | B | N |
-| Vehículo histórico motocicletas | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 10 | 14 | 10 | 10 | 8 | 8 | 50 | 50 | B | N |
-| Temporal particular larga | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 70 60 | 20 | – | 30 | 30 | – | – | V | B |
-| Temporal particular alta | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 16 | 36 | 20 | 30 | 18 | 18 | 74 | 74 | V | B |
-| Temporal particular ciclomotores | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | V | B |
-| Temporal empresas larga (vehículos no matriculados) | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 57,5 | 20 | – | 20 | 55 | – | – | R | B |
-| Temporal empresas larga (vehículos matriculados) | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 57,5 | 20 | – | 20 | 55 | – | – | R | B |
-| Temporal empresas alta (vehículos no matriculados) | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 12 | 19 | 20 | 30 | 15 | 50 | 60,5 | 95,5 | R | B |
-| Temporal empresas alta (vehículos matriculados) | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 12 | 19 | 20 | 30 | 15 | 50 | 60,5 | 95,5 | R | B | ± 3 mm |
-| Temporal empresas ciclomotores (vehículos no matriculados) | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 32 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
-| Temporal empresas ciclomotores (vehículos matriculados) | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 32 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
+| Ordinaria larga (1). | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 41 | 11,5 | – | 62 | 22 | – | – | B/A(7) | N/B(7) | ± 3 mm |
+| Ordinaria alta (1). | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | - | 15 | 26 | 80 | 40 | 87,5 | 87,5 | B/A(7) | N/B(7) |
+| Ordinaria larga delantera (2). | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 8 | 24 | 20 | – | 48 | 8 | – | – | B/A(7) | N/B(7) |
+| Motocicletas ordinaria (4). | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 10 | – | 10 | 10 | 50 | 10 | 50 | 50 | B | N |
+| Motocicletas corta (5). | 132 x 96 | 122 × 86 | 13 | 30 | 3,5 | 6 | – | 7 | 12 | 40 | 8 | 31,5 | 31,5 | B | N |
+| 10 |
+| Ordinaria larga con siglas de provincia (1) *. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 8 | 27 | 11,5 | – | 48 | 8 | – | – | B | N |
+| Ordinaria alta con siglas de provincia (1) (3) *. | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | 50 | 15 | 26 | 60 | 20 | 60 | 60 | B | N |
+| Ordinaria larga delantera con siglas de provincia (2) *. | 340 × 110 | 330 × 100 | 30 | 60 | 6 | 6 | 6 | 20 | – | 44 | 4 | – | – | B | N |
+| Motocicletas ordinaria con siglas de provincia (3) (4) *. | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 8 | 18 | 10 | 10 | 48 | 8 | 50 | 10 | B | N |
+| 10 |
+| Vehículos especiales larga. | 340 x110 | 330 x 100 | 30 | 60 | 6 | 8 | 15 | 20 | – | 10 | 10 | – | – | B | R |
+| Vehículos especiales alta. | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 10 | 40 | 20 | 30 | 25 | 25 | 75 | 75 | B | R |
+| 15 |
+| Remolques y semirremolques larga. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 12 | 30 | 11,5 | – | 15 | 15 | – | – | R | N |
+| Remolques y semirremolques alta. | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 9 | 40 | 15 | 26 | 19 | 19 | 87,5 | 87,5 | R | N |
+| 10 |
+| Ciclomotores alta. | 100 × 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N |
+| Ciclomotores larga. | 140 x 120 | 130 x 110 | 13 | 30 | 3,5 | 10 | 10 | 19 | 12 | 12,5 | 12,5 | 35,5 | 35,5 | AM | N |
+| Cuatriclos ligeros (6). | 210 x 85 | 200 × 75 | 13 | 30 | 3,5 | 7 | 16 | 22,5 | – | 14,5 | 14,5 | – | – | AM | N |
+| Cuatriciclos ligeros larga. | 520 x 110 | 510 x 100 | 45 | 77 | 10 | 12 | 30 | 11,5 | – | 15 | 15 | – | – | AM | N |
+| Vehículo histórico ciclomotores. | 100 x 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | B | N |
+| Cuerpo Diplomático. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 | 11,5 | – | 35 | 35 | – | – | R | B |
+| 48 |
+| Organizaciones internacionales. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 | 11,5 | – | 35 | 35 | – | – | AZ | B |
+| 48 |
+| Oficina consular. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 | 11,5 | – | 35 | 35 | – | – | V | B |
+| 48 |
+| Personal técnico-administrativo. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 14 | 80 | 11,5 | – | 35 | 35 | – | – | AM | N |
+| 48 |
+| Turística larga. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 10 | 20 | 11,5 | – | 10 | 40 | – | – | B | N |
+| 30 |
+| Turística alta. | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 10 | 20 | 15 | 26 | 10 | 45 | 70 | 105 | B | N |
+| Vehículo histórico larga. | 520 × 110 | 510 × 100 | 45 | 77 | 10 | 10 | 35 | 11,5 | – | 15 | 15 | – | – | B | N |
+| Vehículo histórico alta. | 340 × 220 | 330 × 210 | 45 | 77 | 10 | 13 | 36 | 15 | 26 | 15 | 15 | 84,5 | 84,5 | B | N |
+| Vehículo histórico motocicletas. | 220 × 160 | 210 × 150 | 30 | 60 | 6 | 10 | 14 | 10 | 10 | 8 | 8 | 50 | 50 | B | N |
+| Temporal particular larga. | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 70 | 20 | – | 30 | 30 | – | – | V | B |
+| 60 |
+| Temporal particular alta. | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 16 | 36 | 20 | 30 | 18 | 18 | 74 | 74 | V | B |
+| Temporal particular ciclomotores. | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | V | B |
+| Temporal empresas larga (vehículos no matriculados). | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 57,5 | 20 | – | 20 | 55 | – | – | R | B |
+| Temporal empresas larga (vehículos matriculados). | 520 × 110 | 510 × 100 | 30 | 60 | 6 | 16 | 57,5 | 20 | – | 20 | 55 | – | – | R | B |
+| Temporal empresas alta (vehículos no matriculados). | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 12 | 19 | 20 | 30 | 15 | 50 | 60,5 | 95,5 | R | B |
+| Temporal empresas alta (vehículos matriculados). | 280 × 200 | 270 × 190 | 30 | 60 | 6 | 12 | 19 | 20 | 30 | 15 | 50 | 60,5 | 95,5 | R | B |
+| Temporal empresas ciclomotores (vehículos no matriculados). | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
+| 32 |
+| Temporal empresas ciclomotores (vehículos matriculados). | 100 × 168 | 90 × 158 | 13 | 30 | 3,5 | 10 | 10 | 12 | 12 | 27 | 27 | 15,5 | 15,5 | R | B |
+| 32 |
+| (1) Para automóviles, excepto motocicletas, vehículos de tres ruedas y cuatriciclos. (2) Para vehículos de categoría M1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga y para vehículos de tres ruedas y cuatriciclos. (3) Cuando existan dos grupos de caracteres alfabéticos contiguos, y uno de ellos conste de un solo carácter, se procederá a repartir los espacios sobrantes entre ambos lados. (4) Esta placa se utilizará también para los vehículos de tres ruedas, cuatriciclos y vehículos de categoría M-1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga delantera. (5) Para motocicletas de dos ruedas de las especialidades de trial y enduro. (6) Para cuatriciclos ligeros y ciclomotores de tres ruedas. Cuando en estos vehículos, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa de cuatriciclos ligeros, se utilizará la placa de ciclomotores. (7) El fondo de las placas será de color blanco y los caracteres, de color negro mate, salvo las placas de matrícula traseras de los vehículos destinados al servicio de taxi y de alquiler con conductor de hasta nueve plazas, en que el fondo será de color azul y los caracteres, de color blanco mate. Cuando se indican dos cantidades en los apartados “Separación entre caracteres” y “Separación a bordes horizontales”, se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo. Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el segundo y el tercer grupo de caracteres. * Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de septiembre de 2000. |
 
-(1) Para automóviles, excepto motocicletas, vehículos de tres ruedas y cuatriciclos.
-
-(2) Para vehículos de categoría M1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga y para vehículos de tres ruedas y cuatriciclos.
-
-(3) Cuando existan dos grupos de caracteres alfabéticos contiguos, y uno de ellos conste de un solo carácter, se procederá a repartir los espacios sobrantes entre ambos lados.
-
-(4) Esta placa se utilizará también para los vehículos de tres ruedas, cuatriciclos y vehículos de categoría M-1 que, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa ordinaria larga delantera.
-
-(5) Para motocicletas de dos ruedas de las especialidades de trial y enduro.
-
-(6) Para cuatriciclos ligeros y ciclomotores de tres ruedas. Cuando en estos vehículos, por construcción, el emplazamiento para la placa de matrícula no permite la colocación de la placa de cuatriciclos ligeros, se utilizará la placa de ciclomotores.
-
-(7) El fondo de las placas será de color blanco y los caracteres, de color negro mate, salvo las placas de matrícula traseras de los vehículos destinados al servicio de taxi y de alquiler con conductor de hasta nueve plazas, en que el fondo será de color azul y los caracteres, de color blanco mate.
-
-Cuando se indican dos cantidades en los apartados "Separación entre caracteres" y "Separación a bordes horizontales", se entiende que la cifra superior es para la línea de caracteres de arriba, y la inferior, para la de abajo.
-
-Espacio entre grupos de caracteres: cuando se indican dos cantidades, se entiende que la cifra superior se refiere a la distancia entre el primer y el segundo grupo de caracteres, y la cifra inferior, a la distancia entre el segundo y el tercer grupo de caracteres.
-
-* Placas de matrícula con arreglo a lo establecido en las disposiciones transitorias de la Orden de 15 de septiembre de 2000.
-
-> Téngase en cuenta que la última actualización de la fila decimocuarta «Ciclomotores alta», y las nuevas filas añadidas «Ciclomotores larga», «Cuatriciclos larga» y «Vehículo histórico ciclomotores», establecidas por la disposición final 1.2.c) del Real Decreto 885/2020, de 6 de octubre, Ref. BOE-A-2020-12767#df, entran en vigor el 2 de enero de 2021, según establece su disposición final 5.
-
-> Redacción anterior:
-
-> | "Ciclomotores | 100 x 168 | 90 x 158 | 13 | 30 | 3,5 | 10 | 10 | 22 | 12 | 27 | 27 | 15,5 | 15,5 | AM | N | ±3 mm" |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+> Se modifica por el art. 2.3 de la Orden PJC/528/2026, de 26 de mayo. Ref. BOE-A-2026-11580
 
 > Se modifica, con efectos de 2 de enero de 2021, por la disposición final 1.2.c) del Real Decreto 885/2020, de 6 de octubre. Ref. BOE-A-2020-12767#df
 

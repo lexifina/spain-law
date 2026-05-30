@@ -2,7 +2,7 @@
 
 ## Modelo y especificaciones de las tarjetas de inspección técnica de vehículos (ITV)
 
-1. Las Tarjetas ITV a que se refiere el artículo 12 de este real decreto serán de los siguientes tipos y podrán emitirse, a elección del emisor de la misma, en soporte en papel o en soporte electrónico, salvo en el caso de las tarjetas de inspección técnica tipo B para vehículos de categoría M o N, y tipo BL, que deberán emitirse de forma obligatoria en soporte electrónico.
+1. Las Tarjetas ITV a que se refiere el artículo 12 de este real decreto serán de los siguientes tipos:
 
 – Tipo A, AT, AR y AL: Que documentan vehículos completos o completados.
 
@@ -12,15 +12,17 @@
 
 – Tipo D, DT, DR y DL: Que documentan exclusivamente vehículos homologados de tipo completados.
 
-2. Las tarjetas ITV tendrán el formato y contenido de los apéndices de este anexo. La tarjeta ITV en soporte papel constará de un original (para el usuario) y dos copias para los servicios de industria de la provincia en la que se matrícula el vehículo y para la Jefatura provincial de Tráfico. En el supuesto de los vehículos agrícolas, tendrán otra copia más para la Dirección General de Producción Agraria. En la copia destinada a la Jefatura provincial de Tráfico aparecerá, en el apartado de reformas en el vehículo, la diligencia de venta que tendrá el siguiente formato:
+Las tarjetas ITV podrán emitirse, a elección del emisor de la misma, en soporte en papel o en soporte electrónico, salvo en el caso de tarjetas de inspección técnica tipo A, B, C, D, AL, BL, CL y DL, en los que deberán emitirse de forma obligatoria en soporte electrónico.
 
-D ……………………………………………………………… DNI …………………………,
+2. Mientras se sigan emitiendo tarjetas ITV en soporte papel, estas constarán de un original (para el usuario) y dos copias para los servicios de industria de la provincia en la que se matrícula el vehículo y para la Jefatura provincial de Tráfico. En el supuesto de los vehículos agrícolas, tendrán otra copia más para la Dirección General de Producción Agraria. En la copia destinada a la Jefatura provincial de Tráfico aparecerá, en el apartado de reformas en el vehículo, la diligencia de venta que tendrá el siguiente formato:
 
-En ……………………………………, a …., de ……………………………….., de ……….
+D. ………………………………………………………… DNI …………………………..,
+
+En …………………………………, a …., de …………………………….., de ……….
 
 Firma y sello
 
-En caso de tarjetas ITV en soporte electrónico, se garantizará el acceso al documento electrónico que requieran las autoridades competentes y se emitirá una copia en papel para el adquiriente del vehículo. Dicho documento electrónico tendrá el mismo formato y contenido que el que se emita en soporte papel.
+En caso de tarjetas ITV en soporte electrónico, se garantizará el acceso al documento electrónico que requieran las autoridades competentes y se emitirá una copia en papel para el adquiriente del vehículo. El formato y el contenido, así como los medios de intercambio de los datos, se establecerán por resolución de la persona titular de la Dirección General de Tráfico, y será coherente, para los vehículos de categoría M, N y O, con los datos del certificado de conformidad en formato electrónico que se establece en el Reglamento de Ejecución (UE) 2021/133 de la Comisión de 4 de febrero de 2021 y en sus posteriores modificaciones.
 
 3. Las tarjetas ITV serán cumplimentadas de acuerdo con las instrucciones que se incluyen en el anexo XII.
 
@@ -99,6 +101,8 @@ Todas las tarjetas estarán impresas y fondeadas en tinta azul, con sus correspo
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image24.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2018/280/15796_6173506_image25.png)
+
+> Se modifican los apartados 1 y 2 por el art. 3.3 de la Orden PJC/528/2026, de 26 de mayo. Ref. BOE-A-2026-11580
 
 > Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
 

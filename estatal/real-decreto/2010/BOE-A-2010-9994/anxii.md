@@ -4,7 +4,7 @@
 
 1. Normas generales.
 
-1.1 A los efectos del presente anexo, se entenderá por tarjeta de ITV: documento que describe a una unidad de vehículo que se pretende poner en circulación, por lo tanto, en ella deberán figurar exclusivamente las características que corresponden al vehículo documentado incluyendo los equipos opcionales de que dispone por haber sido equipado con ellos por el fabricante del mismo, y que están incluidos en su homologación tipo.
+1.1 A los efectos del presente anexo, se entenderá por tarjeta de ITV: documento que describe a una unidad de vehículo que se pretende poner en circulación, por lo tanto, en ella deberán figurar exclusivamente las características que corresponden al vehículo documentado incluyendo los equipos opcionales de que dispone por haber sido equipado con ellos por el fabricante del mismo, y que están incluidos en su homologación tipo. No se considera tarjeta ITV la hoja adicional y por tanto no está sujeta a las especificaciones técnicas indicadas en el punto 4.2 del anexo XI ni a las obligaciones con respecto a su adquisición.
 
 1.2 Campo de aplicación y organismos de emisión.
 
@@ -70,35 +70,31 @@ Las personas no autorizadas en este registro podrán obtener la tarjeta de ITV d
 
 Cuando se trate de tarjetas ITV emitidas en soporte electrónico, las sucesivas copias en papel se expedirán por la Dirección General de Tráfico. Dichas copias incluirán en todo caso, cualquier actualización o modificación que sobre sus datos hubieran anotado en el Registro de Vehículos las entidades, organismos u autoridades competentes en la materia, conservando en todo caso el modelo de tarjeta expedida por el fabricante del vehículo.
 
-1.6 Vehículos de motor y sus remolques, y máquinas autopropulsadas o remolcadas y vehículos agrícolas. La expedición de las tarjetas ITV en formato papel, será realizada por el fabricante, según modelo correspondiente a cada categoría que figura en los apéndices del anexo XI. Los impresos de tarjetas de ITV serán adquiridas por el fabricante en el Servicio de Publicaciones del Ministerio de Industria, Comercio y Turismo, en número adecuado a cada caso y siempre que se cumpla lo previsto en la reglamentación vigente.
+1.6 Vehículos de motor y sus remolques, y máquinas autopropulsadas o remolcadas y vehículos agrícolas. La expedición de las tarjetas ITV en formato papel será realizada por el fabricante, según modelo correspondiente a cada categoría que figura en los apéndices del anexo XI. Los impresos de tarjetas de ITV podrán ser adquiridas por el fabricante en el Servicio de Publicaciones del Ministerio de Industria y Turismo o, en los casos permitidos, producidas por sus propios medios, en número adecuado a cada caso y siempre que se cumpla lo previsto en la reglamentación vigente.
 
-Las tarjetas ITV que se expidan en soporte electrónico se presentarán por el fabricante en el registro telemático del Ministerio de Industria, Comercio y Turismo, y el correspondiente de la Jefatura Central de Tráfico, según Resolución de 23 de junio de 2010, de la Dirección General de Tráfico, por la que se crea y regula el Registro Electrónico en la Jefatura Central de Tráfico, de acuerdo con el procedimiento que se establezca en disposición que regule la recepción de las tarjetas ITV electrónicas en dicho registro.
+Las tarjetas ITV que se expidan en soporte electrónico deberán contener, en función de su correspondiente categoría, los datos que se indiquen, por resolución de la persona titular de la Dirección General de Tráfico, según el anexo XI. Las especificaciones del fichero electrónico que contenga dichos datos serán las que determine la Dirección General de Tráfico.
 
-Asimismo, en las tarjetas ITV de aquellos vehículos que salgan de las instalaciones del fabricante equipados con distintas opciones como por ejemplo instalaciones de G.L.P, GN (salvo en el caso de vehículos bi-fuel), dispositivos de remolque, adaptación para autoescuelas, adaptaciones para personas de movilidad reducida, amparados por una homologación de tipo, deberá hacerse constar esta característica en el espacio destinado a "opciones incluidas en la homologación de tipo".
-
-La Dirección General de Tráfico, una vez asignado el número de matrícula, lo consignará en la tarjeta ITV y facilitará el acceso por medios electrónicos a dicha información al organismo competente de la Comunidad Autónoma.
-
-En el caso de los vehículos de categoría O1, su puesta en circulación estará sujeta a la comunicación, por parte del fabricante, del contenido de la Tarjeta ITV a la Dirección General de Tráfico. La información estará disponible para los Órganos Competentes de las Comunidades Autónomas, siempre que el fabricante haya enviado la ficha ITV del vehículo en formato electrónico y según el procedimiento establecido.
+Las tarjetas ITV que se expidan en soporte electrónico se presentarán por el fabricante en el registro telemático de la Dirección General de Tráfico, creado por la Resolución de 26 de agosto de 2007, de la Dirección General de Tráfico, de acuerdo con el procedimiento que se establezca en disposición que regule la recepción y cancelación de las tarjetas ITV electrónicas en dicho registro. Los fabricantes de vehículos serán los responsables de mantener actualizado el registro de fichas ITV electrónicas de la Dirección General de Tráfico, cancelando las tarjetas de vehículos que finalmente no se comercialicen en España o modificando las fichas ITV que contengan errores y deban ser corregidas.
 
 1.6.1 En el caso de los vehículos incompletos que hayan sido completados se procederá como se indica a continuación:
 
-El fabricante o representante legal (de la primera fase) rellenará una tarjeta ITV según el modelo C (vehículo incompleto) o certificado de conformidad correspondiente, dicha tarjeta será adquirida en el Servicio de Publicaciones del Ministerio de Industria, Comercio y Turismo, cumplimentando las masas y dimensiones máximas que se permiten y la conformidad con la homologación de tipo concedida, indicando la correspondiente contraseña.
+El fabricante o representante legal (de la primera fase) rellenará una tarjeta ITV según el modelo C (vehículo incompleto) o certificado de conformidad correspondiente, cumplimentando las masas y dimensiones máximas que se permiten y la conformidad con la homologación de tipo concedida, indicando la correspondiente contraseña. El impreso de dicha tarjeta podrá ser adquirida en el Servicio de Publicaciones del Ministerio de Industria y Turismo o, en los casos permitidos, producidas por sus propios medios.
 
-Esta tarjeta ITV o certificado de conformidad será entregada al comprador, quien, en caso de no ser la misma persona, la entregará al fabricante de la siguiente fase, quien la conservará para su archivo durante un plazo mínimo de 10 años. En el caso de más de una fase el comprador o cada fabricante entregará una tarjeta tipo C al siguiente fabricante, quien la conservará para su archivo durante un plazo mínimo de 10 años. El fabricante de la última fase cumplimentará una tarjeta ITV modelo D (vehículo completado), además certificará la conformidad con el tipo de base homologado y anotará su contraseña de homologación.
+Esta tarjeta ITV o certificado de conformidad será entregada al comprador, quien, en caso de no ser la misma persona, la entregará al fabricante de la siguiente fase, quien la conservará para su archivo durante un plazo mínimo de diez años. En el caso de más de una fase el comprador o cada fabricante entregará una tarjeta tipo C al siguiente fabricante, quien la conservará para su archivo durante un plazo mínimo de diez años. El fabricante de la última fase cumplimentará una tarjeta ITV modelo D (vehículo completado), además certificará la conformidad con el tipo de base homologado y anotará su contraseña de homologación.
 
 Con la excepción de la tarjeta ITV tipo C inicial, emitida por el fabricante del vehículo de base, el resto de tarjetas C (correspondientes a fases intermedias), incluirán en el apartado Observaciones la nota:
 
-«Los datos no modificados están obtenidos de la tarjeta con n.º de certificado: *****, contraseña de homologación: *****, emitido en fecha: ****, por el fabricante de la fase anterior, nombre: ****.»
+“Los datos no modificados están obtenidos de la tarjeta con núm. de certificado: *****, contraseña de homologación: *****, emitido en fecha: ****, por el fabricante de la fase anterior, nombre: ****.”
 
-La Dirección General de Tráfico, una vez asignado el número de matrícula, lo consignará en la tarjeta ITV y facilitará el acceso por medios electrónicos a dicha información al organismo competente de la Comunidad Autónoma.
+La Dirección General de Tráfico, una vez asignado el número de matrícula, lo consignará en la tarjeta ITV y facilitará el acceso por medios electrónicos a dicha información al organismo competente de la comunidad autónoma.
 
-El fabricante del vehículo incompleto, conservará para su archivo durante un plazo mínimo de 10 años una copia de la tarjeta ITV, pudiendo sustituirse por información en soporte informático.
+El fabricante del vehículo incompleto, conservará para su archivo durante un plazo mínimo de diez años una copia de la tarjeta ITV, pudiendo sustituirse por información en soporte informático.
 
 1.6.2 Las Tarjetas ITV modelos A, AT, AL y AR serán cumplimentadas por la Administración competente.
 
-En el caso de vehículos que deban pasar la inspección técnica de vehículos unitaria por estar amparados por una aplicación particular o recibir una homologación individual a nombre del titular de la misma, dichas tarjetas ITV podrán ser adquiridas por la Administración en el Servicio de Publicaciones del Ministerio de Industria, Comercio y Turismo.
+En el caso de vehículos que deban pasar la inspección técnica de vehículos unitaria por estar amparados por una aplicación particular o recibir una homologación individual a nombre del titular de la misma, los impresos de dichas tarjetas ITV podrán ser adquiridas por la Administración en el Servicio de Publicaciones del Ministerio de Industria y Turismo o bien producidas por sus propios medios, en aquellos casos en que esté previsto.
 
-Como excepción, el fabricante de vehículo completado que realice una homologación individual podrá emitir tarjeta tipo D 2. Instrucciones específicas para la cumplimentación de la Tarjeta ITV modelo A, AT, AR, AL
+Como excepción, el fabricante de vehículo completado que realice una homologación individual podrá emitir tarjeta tipo D.
 
 2.1 Condiciones generales:
 
@@ -173,6 +169,8 @@ Obtención de la suma de los productos obtenidos al multiplicar el valor numéri
 y la suma de los productos el valor 44660.
 
 Finalmente, el control del VIN se obtiene tomando el resto de dividir el valor anterior por 97. En el ejemplo 40.
+
+> Se modifican los apartados 1.1 y 1.6 por el art. 3.4 y 5 de la Orden PJC/528/2026, de 26 de mayo. Ref. BOE-A-2026-11580
 
 > Se sustituye, con efectos de 2 de enero de 2019, por el que aparece en la Orden ICT/1212/2018, de 12 de noviembre, según establece el art. único. Ref. BOE-A-2018-15796
 
