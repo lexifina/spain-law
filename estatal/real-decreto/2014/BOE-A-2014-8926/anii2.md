@@ -26,8 +26,10 @@ Nota 2: Este subartículo no somete a control las pistolas de señalización.
 
 5. Esposas normales.
 
-Esposas normales son aquellas que tienen una dimensión total incluida la cadena, medida desde el borde externo de un puño al borde externo del otro puño, comprendida entre 150 y 280 mm en posición cerrada y que no han sido modificadas para causar dolor o sufrimiento.
+Nota: Esposas normales son aquellas que tienen una dimensión total incluida la cadena, medida desde el borde externo de un puño al borde externo del otro puño, comprendida entre 150 y 280 mm en posición cerrada y que no han sido modificadas para causar dolor o sufrimiento.
 
-Los materiales incluidos en esta relación no abarcan los sometidos a control en el Reglamento (CE) Nº 1236/2005 del Consejo, de 27 de junio de 2005 sobre el comercio de determinados productos que pueden utilizarse para aplicar la pena de muerte o infligir tortura u otros tratos o penas crueles, inhumanos o degradantes. En virtud del artículo 7 del citado Reglamento referente a medidas nacionales, en el que se permite que un Estado miembro mantenga la prohibición de exportar ciertos productos, seguirá en vigor la prohibición de la exportación o expedición de grilletes para pies y cadenas para cintura a que se refiere la disposición adicional duodécima de la Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social.
+Los materiales incluidos en esta relación no abarcan los sometidos a control en el Reglamento Delegado (UE) 2025/928 de la Comisión, de 21 de mayo de 2025, por el que se modifica el Reglamento (UE) 2019/125 del Parlamento Europeo y del Consejo sobre el comercio de determinados productos que pueden utilizarse para aplicar la pena de muerte o infligir tortura u otros tratos o penas crueles, inhumanos o degradantes.
+
+> Se modifica por el art. único.4 de la Orden ECM/536/2026, de 29 de mayo. Ref. BOE-A-2026-11628
 
 > Se modifica por el art. único y Anexo II.2 de la Orden ECC/1493/2016, de 19 de septiembre. Ref. BOE-A-2016-8633.
