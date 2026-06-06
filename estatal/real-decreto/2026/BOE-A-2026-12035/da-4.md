@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Responsabilidad.
+
+La responsabilidad, en lo referente a la implantación y el uso de aplicaciones y servicios de los SIT, que deberá hacerse de forma justa, neutra, imparcial, no discriminatoria y transparente, se exigirá de acuerdo con lo previsto en el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por el Real Decreto Legislativo 1/2007, de 16 de noviembre, sin perjuicio de lo establecido en el texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre, y de las competencias de las comunidades autónomas en la materia.
