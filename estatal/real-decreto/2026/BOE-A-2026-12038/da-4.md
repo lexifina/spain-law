@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Revisión y actualización de los títulos.
+
+Periódicamente, el Gobierno procederá a la revisión y, en su caso, actualización de los títulos de las Enseñanzas Profesionales de Artes Plásticas y Diseño, previa consulta a las comunidades autónomas. Aquellos aspectos curriculares de estos títulos, regulados por normativa básica, que requieran revisión y actualización podrán ser modificados por el Ministerio competente en materia de educación, previo informe del Consejo Superior de Enseñanzas Artísticas y del Consejo Escolar del Estado, manteniendo en todo caso el carácter básico del currículo resultante de dicha actualización.

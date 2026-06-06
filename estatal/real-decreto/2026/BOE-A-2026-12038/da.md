@@ -1,0 +1,3 @@
+## Disposición adicional primera. Medidas en materia de igualdad de oportunidades, no discriminación y accesibilidad universal.
+
+Las administraciones educativas establecerán las medidas oportunas que garanticen el cumplimiento de lo establecido en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, para establecer y regular la accesibilidad cognitiva y sus condiciones de exigencia y aplicación, a fin de facilitar al alumnado los medios y recursos que se precisen para acceder y cursar las enseñanzas profesionales de Artes Plásticas y Diseño.

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Convalidación de la Formación y Orientación Laboral.
+
+A partir del curso 2026/2027, la superación del módulo de Formación y orientación laboral (FOL) en cualquier ciclo formativo de Artes Plásticas y Diseño o de Formación Profesional dará derecho a la convalidación de dicho módulo en cualquier otro ciclo de grado medio o superior de Artes Plásticas y Diseño regulado por normativas anteriores a la presente. El módulo se registrará como «Convalidado», trasladándose la calificación obtenida anteriormente, la cual computará para el cálculo de la nota media final del ciclo.

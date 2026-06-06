@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Otras ofertas de Enseñanzas Profesionales de Artes Plásticas y Diseño.
+
+1. Con independencia de la oferta de los ciclos formativos de grado medio y de grado superior ordenados en esta norma, las administraciones educativas y, en su caso, los centros, podrán organizar y desarrollar otros modelos de formación vinculados a las artes plásticas y diseño, con el fin de promover la formación a lo largo de la vida y dar respuesta a las necesidades de cualificación de los sectores productivos de su ámbito de competencias. Dicha formación podrá ser objeto de una certificación acreditativa expedida por la Administración educativa competente, en la que se indique el número de horas de duración, así como, en su caso, su equivalencia en créditos. Dicha certificación podrá tener, en su caso, valor en el Sistema Nacional de Cualificaciones y Formación Profesional.
+
+2. Asimismo, el Gobierno, previa consulta a las comunidades autónomas, podrá regular otras ofertas formativas de carácter parcial y acumulable vinculadas a las enseñanzas profesionales de Artes Plásticas y Diseño, así como su correspondencia con el Catálogo.
