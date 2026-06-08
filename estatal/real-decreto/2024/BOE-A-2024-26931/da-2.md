@@ -1,3 +1,5 @@
 ## Disposición adicional segunda. Número de registro voluntario para los arrendamientos del artículo 2 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos.
 
-Con carácter voluntario, la persona titular de un derecho real que permita celebrar contratos de arrendamiento sobre un inmueble podrá solicitar un número de registro para alquiler de larga duración de conformidad con el procedimiento previsto en este real decreto. En estos casos, será necesaria la aportación del modelo informativo que sea aprobado por orden de la persona titular del Ministerio de Vivienda y Agenda Urbana cada doce meses.
+(Anulada)
+
+> Se anula por Sentencia del TS de 19 de mayo de 2026. Ref. BOE-A-2026-12300
