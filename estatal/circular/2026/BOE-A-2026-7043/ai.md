@@ -62,6 +62,8 @@ d. Franquicias, delegaciones o establecimientos vinculados jurídicamente al tit
 
 e. Empresas que prestan servicios de publicidad, marketing, comunicación o gestión de campañas para la difusión de mensajes o campañas del titular.
 
-20. Titular de un alias o titular: Empresa o administración pública que acredita el derecho de uso de un alias que deberá estar inscrito en el Registro de Alias con carácter previo a su utilización como remitente en el envío de mensajes SMS/MMS/RCS a destinatarios con número español.
+20. Titular de un alias o titular: Empresa o administración pública que acredita el derecho de uso de un alias, cuya titularidad deberá constar inscrita en el Registro de Alias con carácter previo a su utilización como remitente en el envío de mensajes SMS/MMS/RCS a destinatarios con número español. El titular actuará en el ámbito del Registro de Alias directamente o mediante su representante.
 
 21. Uso indebido de un alias: Utilización de un alias que no reúne los criterios de vinculación legítima y el formato de los alias, así como el empleo del alias a través de proveedores no inscritos y/o no habilitados en el Registro de Alias.
+
+> Se modifica el punto 20 por el apartado segundo.14 de la Circular 2/2026, de 5 de junio. Ref. BOE-A-2026-12427
