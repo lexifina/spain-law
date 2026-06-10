@@ -1,0 +1,7 @@
+## Undécimo. Procedimiento de vinculación de la persona solicitante de la jubilación parcial anticipada y del trabajador o trabajadora relevista.
+
+1. Una vez verificada la solicitud y la documentación aportada por la persona solicitante de jubilación parcial anticipada, en los términos y con los requisitos señalados en esta resolución, la unidad competente en materia de personal del Ministerio, Organismo o Agencia en el que se encuentre destinada se dirigirá a la Dirección General de la Función Pública para solicitar la vinculación de la solicitud de jubilación parcial con una persona adjudicataria del proceso selectivo de personal laboral fijo relevista.
+
+2. Una vez vinculada la solicitud de jubilación parcial con la persona adjudicataria, en los términos de esta resolución, la Subdirección General de Ordenación de Recursos Humanos, de la Dirección General de la Función Pública, comunicará la vinculación a la unidad o unidades competentes en materia de personal, en caso de ser distintas, de los Ministerios, Organismos o Agencias donde se encuentre destinada la persona solicitante de jubilación parcial y donde se deba formalizar el contrato de la persona adjudicataria.
+
+3. La formalización de la novación modificativa del contrato de trabajo inicial del trabajador o trabajadora que se jubile parcialmente, que pasará de ser un contrato a tiempo completo a serlo a tiempo parcial, y la del contrato laboral del trabajador o trabajadora relevista, se deberá producir de acuerdo con la normativa de Seguridad Social.
