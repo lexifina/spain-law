@@ -1,0 +1,5 @@
+## Cuarto.
+
+Esta resolución surtirá efectos al día siguiente de su publicación en el «Boletín Oficial del Estado».
+
+Se deja sin efectos la Resolución de la Secretaría General de Pesca de 25 de febrero de 2026, por la que se publica el listado de denominaciones comerciales de especies pesqueras y de acuicultura admitidas en España, publicada, publicada en el «Boletín Oficial del Estado» de 9 de marzo de 2026. Hasta en tanto las respectivas comunidades autónomas publiquen, en su caso, sus propios listados de denominaciones comerciales complementarias en su territorio, mantendrán su eficacia transitoriamente las contenidas en la Resolución de la Secretaría General de Pesca de 24 de mayo de 2019, por la que se publica el listado de denominaciones comerciales de especies pesqueras y de acuicultura admitidas en España, publicada en el «Boletín Oficial del Estado» de 15 de junio de 2019 y las denominaciones autonómicas que fueron aceptadas con posterioridad, hasta la publicación de esta resolución.
