@@ -134,6 +134,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional cuarta](da.md)
 - [Disposición adicional quinta](da-2.md)
 - [Disposición adicional sexta](da-3.md)
+- [Disposición adicional séptima](da-4.md)
 - [Disposición transitoria primera](dtprimera.md)
 - [Disposición transitoria segunda](dtsegunda.md)
 - [Disposición transitoria tercera](dttercera.md)
