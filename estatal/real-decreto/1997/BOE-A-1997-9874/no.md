@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse «Real Decreto 577/1997, de 18 de abril, por el que se aprueba el Estatuto de la Mutualidad General de Funcionarias y Funcionarios Civiles del Estado, O.A.», según establece el art. 3.1 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#at

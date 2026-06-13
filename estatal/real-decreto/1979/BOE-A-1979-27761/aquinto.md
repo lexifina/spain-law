@@ -1,9 +1,21 @@
-## Artículo quinto.
+## Artículo quinto. Órganos de gobierno, ejecutivos, consultivos y de participación.
 
-La Entidad Estatal de Seguros Agrarios estará regida por:
+Los órganos de ENESA son los siguientes:
 
-El Presidente.
+1. Órganos de gobierno:
 
-La Comisión General.
+a) La Presidencia.
 
-El Director de la Entidad.
+b) El Consejo Rector.
+
+2. Órganos ejecutivos:
+
+La Dirección.
+
+3. Órganos de consulta y participación.
+
+a) La Comisión General.
+
+b) La Comisión de Coordinación con las Administraciones de las Comunidades Autónomas.
+
+> Se modifica por el art. 1.6 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ap

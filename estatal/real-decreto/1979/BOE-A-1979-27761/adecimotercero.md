@@ -1,5 +1,5 @@
 ## Artículo decimotercero.
 
-La Secretaría General tendrá encomendadas las funciones de organización y coordinación, en los aspectos técnico y administrativo de las distintas dependencias del Organismo, y, especialmente, tendrá a su cargo la obtención, elaboración y distribución de la información de interés para el mismo, la gestión presupuestaria, los asuntos de personal, el registro y archivo de documentos, la preparación de publicaciones y, en general, todo cuanto afecte al régimen interior del Organismo.
+(Suprimido)
 
-El Secretario general actuará como Secretario de la Comisión General.
+> Se suprime por el art. 1.16 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ap

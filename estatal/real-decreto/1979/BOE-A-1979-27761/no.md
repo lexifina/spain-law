@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse «Real Decreto 2650/1979, de 11 de octubre, por el que se crea el Organismo Autónomo Entidad Estatal de Seguros Agrarios y se aprueba su Estatuto», según establece el art. 1.1 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ap

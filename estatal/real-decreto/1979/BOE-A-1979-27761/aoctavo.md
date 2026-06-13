@@ -1,11 +1,13 @@
-## Artículo octavo.
+## Artículo octavo. Funciones de la Comisión General.
 
-Corresponden a la Comisión General de la Entidad las siguientes atribuciones:
+1. Corresponden a la Comisión General las siguientes funciones:
 
-a) Elaborar los informes o propuestas que, por mandato legal o por encargo del Gobierno, se le encomienden en relación con las materias de la competencia de la Entidad.
+a) Elevar al Consejo Rector la propuesta del Plan Anual de Seguros Agrarios Combinados.
 
-b) Elaborar y proponer al Gobierno el Plan Anual de Seguros Combinados previsto en la Ley ochenta y siete/mil novecientos ochenta y siete, de veintiocho de diciembre.
+b) Conocer y analizar los datos de contratación, siniestralidad y demás indicadores de interés en el ámbito de los seguros agrarios.
 
-c) Aprobar el proyecto de presupuesto anual y las cuentas justificativas de los gastos que se efectúen con cargo a los recursos del Organismo.
+c) Conocer y participar en los diferentes grupos de trabajo regulados en el siguiente artículo, necesarios para el análisis y el estudio de las condiciones del seguro agrario en las diversas líneas que se integran en el sistema.
 
-d) Las demás que le confiera el Gobierno para mejor cumplimiento de los fines previstos en el marco de los Seguros Agrarios.
+d) Elaborar y debatir informes o propuestas que, por mandato legal o por encargo del Gobierno, le sean encomendadas en materia de seguros agrarios.
+
+> Se modifica por el art. 1.12 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ap

@@ -1,9 +1,11 @@
 ## Disposición adicional segunda. Supresión de órganos.
 
-A la fecha de constitución efectiva de la Agencia, queda suprimida la Dirección General de Ferrocarriles y los siguientes órganos dependientes de ella:
+Quedan suprimidos los siguientes órganos operativos:
 
-a) La Subdirección General de Planificación y Proyectos.
+a) Subdirección General de Infraestructuras.
 
-b) La Subdirección General de Construcción.
+b) Subdirección General de Coordinación de la Seguridad Ferroviaria.
 
-c) La Subdirección General de Coordinación Ferroviaria.
+c) División de Administración.
+
+> Se modifica por el art. 16.1 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ad-7

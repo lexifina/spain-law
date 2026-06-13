@@ -1,3 +1,5 @@
 ## Artículo decimocuarto.
 
-El Director y los Jefes de Servicio serán nombrados y separados de sus cargos por el Ministro de Agricultura, a propuesta del Presidente, entre funcionarios de carrera del Departamento, de Cuerpos o Escalas de la Administración Central o Institucional.
+(Suprimido)
+
+> Se suprime por el art. 1.16 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ap
