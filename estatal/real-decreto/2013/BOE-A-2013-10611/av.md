@@ -8,6 +8,7 @@
 | Albaricoque (**) | Prunus armeniaca L. | 11,2 |
 | Plátano (**) | Musa x paradisiaca L. (con exclusión de los plátanos hortaliza). | 21,0 |
 | Grosella negra (*) | Ribes nigrum L. | 11,0 |
+| Coco (*) | Cocos nucifera L. | 4,5 |
 | Uva (*) | Vitis vinifera L. o sus híbridos Vitis labrusca L. o sus híbridos. | 15,9 |
 | Pomelo (*) | Citrus x paradisi Macfad. | 10,0 |
 | Guayaba (**) | Psidium guajava L. | 8,5 |
@@ -24,3 +25,7 @@
 | Tomate (*) | Lycopersicon esculentum Mill. | 5,0 |
 | Mandarina (*) | Citrus reticulata Blanco. | 11,2 |
 | En el caso de los productos marcados con un asterisco (*), producidos como zumos, se determinará una densidad relativa mínima en relación con el agua a 20/20 °C. En el caso de los productos marcados con dos asteriscos (**), producidos como purés, solamente se determinará un valor mínimo Brix sin corregir (sin corrección de la acidez). |
+
+> Téngase en cuenta que la fila correspondiente a «Coco», añadida por el art. 3.7 del Real Decreto 1026/2025, de 12 de noviembre, Ref. BOE-A-2025-22947, entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Se añade la fila correspondiente al «Coco», con efectos de 14 de junio de 2026, por el art. 3.7 del Real Decreto 1026/2025, de 12 de noviembre. Ref. BOE-A-2025-22947

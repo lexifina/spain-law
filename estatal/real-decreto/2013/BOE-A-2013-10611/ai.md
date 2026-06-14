@@ -12,7 +12,7 @@ Cuando los zumos se obtengan a partir de frutas que incluyan pepitas, semillas y
 
 Se autoriza la mezcla de zumos de frutas y de puré de frutas en la producción del zumo de frutas.
 
-2. Zumo de frutas a partir de concentrado: el producto obtenido al reconstituir zumo de frutas concentrado definido en el punto 3 con agua potable que cumpla los criterios establecidos en el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano.
+2. Zumo de frutas a partir de concentrado: el producto obtenido al reconstituir zumo de frutas concentrado definido en el punto 3 con agua potable que cumpla los criterios establecidos en la Directiva (UE) 2020/2184 del Parlamento Europeo y del Consejo de 16 de diciembre de 2020, relativa a la calidad de las aguas destinadas al consumo humano, y el Real Decreto 3/2023, de 10 de enero, por el que se establecen los criterios técnico-sanitarios de la calidad del agua de consumo, su control y suministro.
 
 El contenido de sólidos solubles del producto acabado debe satisfacer el valor mínimo de grados Brix para el zumo reconstituido, especificado en el anexo V.
 
@@ -45,3 +45,21 @@ b) sea conforme al anexo IV.
 Sin perjuicio de lo dispuesto en el Reglamento (CE) Nº 1924/2006 del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, relativo a las declaraciones nutricionales y de propiedades saludables en los alimentos, en el caso de la fabricación de néctares de frutas sin azúcares añadidos o con valor energético reducido, los azúcares se podrán sustituir total o parcialmente por edulcorantes, de conformidad con el Reglamento (CE) Nº 1333/2008, de 16 de diciembre.
 
 Se podrán reincorporar al néctar de frutas el aroma, la pulpa y las células obtenidos por los medios físicos apropiados que procedan de la misma especie de fruta.
+
+7. Zumo de frutas con contenido reducido de azúcares: el producto obtenido a partir del zumo de frutas tal como se define en el punto 1, en el que se haya reducido la cantidad de azúcares naturalmente presentes en al menos un 30 % mediante un procedimiento autorizado en las condiciones establecidas en el apartado 3 del anexo I.B, que mantenga todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de zumo de la fruta de la que procede.
+
+El zumo de frutas con contenido reducido de azúcares podrá obtenerse mezclando zumo de frutas con contenido reducido de azúcares con zumo de frutas, puré de frutas, o ambos.
+
+8. Zumo de frutas con contenido reducido de azúcares a partir de concentrado: el producto obtenido del zumo de frutas a partir de concentrado tal como se define en el punto 2, en el que se haya reducido la cantidad de azúcares naturalmente presentes en al menos un 30 % mediante un procedimiento autorizado en las condiciones establecidas en el apartado 3 del anexo I.B, que mantenga todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de zumo de la fruta de la que procede o el producto obtenido reconstituyendo con agua potable el zumo de frutas concentrado con contenido reducido de azúcar, tal como se define en el punto 9, que cumpla los criterios establecidos en la Directiva (UE) 2020/2184 del Parlamento Europeo y del Consejo de 16 de diciembre de 2020.
+
+El zumo de frutas con contenido reducido de azúcares a partir de concentrado podrá obtenerse mezclando zumo de frutas con contenido reducido de azúcares a partir de concentrado que contenga uno o más de los siguientes productos: zumo de frutas, zumo de frutas a partir de concentrado, zumo de frutas con contenido reducido de azúcares, puré de frutas concentrado y puré de frutas.
+
+9. Zumo de frutas concentrado con contenido reducido de azúcares: el producto obtenido a partir de zumo de frutas concentrado, tal como se define en el punto 3, en el que se haya reducido la cantidad de azúcares naturalmente presentes en al menos un 30 % mediante un procedimiento autorizado en las condiciones establecidas en el apartado 3 del anexo I.B, y que mantenga todas las demás características físicas, químicas, organolépticas y nutricionales esenciales de un tipo medio de este producto, o el producto obtenido a partir de zumo de frutas con contenido reducido de azúcares, tal como se define en el punto 7, por eliminación física de una parte determinada del agua que lo constituye. Cuando el producto esté destinado al consumo directo, la eliminación de agua será de al menos un 50 %.
+
+> Téngase en cuenta que la actualización del primer párrafo del apartado 2 y los nuevos apartados 7, 8 y 9, establecidos por el art. 3.3 del Real Decreto 1026/2025, de 12 de noviembre, Ref. BOE-A-2025-22947, entran en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> "2. Zumo de frutas a partir de concentrado: el producto obtenido al reconstituir zumo de frutas concentrado definido en el punto 3 con agua potable que cumpla los criterios establecidos en el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano."
+
+> Se modifica el párrafo primero del apartado 2 y se añaden los apartados 7, 8 y 9, con efectos de 14 de junio de 2026, por el art. 3.3 del Real Decreto 1026/2025, de 12 de noviembre. Ref. BOE-A-2025-22947

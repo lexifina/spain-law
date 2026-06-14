@@ -26,7 +26,7 @@
 | Fresas | 40 |
 | Moras | 40 |
 | Arándanos rojos | 30 |
-| Membrillos | 50 |
+| Membrillos (Cydonia oblonga L.) | 50 |
 | Limones y limas | 25 |
 | Otras frutas que pertenezcan a esta categoría | 25 |
 | II. Frutas pobres en ácido o con mucha pulpa o muy aromatizadas, con zumo no consumible en estado natural |  |
@@ -52,3 +52,12 @@
 | Piñas | 50 |
 | Tomates | 50 |
 | Otras frutas que pertenezcan a esta categoría | 50 |
+
+> Téngase en cuenta que la actualización de la antepenúltima fila del epígrafe I, relativa a los «membrillos», establecida por el art. 3.6 del Real Decreto 1026/2025, de 12 de noviembre, Ref. BOE-A-2025-22947, entra en vigor el 14 de junio de 2026, según determina su disposición final 2.
+
+> Redacción anterior:
+
+> | "Membrillos | 50" |
+> | --- | --- |
+
+> Se modifica la antepenúltima fila del epígrafe I, relativa a los «membrillos», con efectos de 14 de junio de 2026, por el art. 3.6 del Real Decreto 1026/2025, de 12 de noviembre. Ref. BOE-A-2025-22947
