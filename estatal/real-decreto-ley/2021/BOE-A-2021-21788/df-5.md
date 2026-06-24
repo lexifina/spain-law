@@ -1,3 +1,5 @@
 ## Disposición final quinta. Reglamento para la protección de las personas trabajadoras menores, en materia de seguridad y salud.
 
-En el plazo de tres meses desde la entrada en vigor de este real decreto-ley, el Ministerio de Trabajo y Economía Social presentará a las organizaciones sindicales y empresariales más representativas un análisis de la normativa de seguridad y salud aplicable a los menores, en base a las conclusiones alcanzadas al respecto en el ámbito de la Estrategia Nacional de Seguridad y Salud en el Trabajo, que será tenido en cuenta en la elaboración de un reglamento sobre las peculiaridades aplicables a la contratación de personas jóvenes menores de dieciocho años en trabajos que presenten riesgos específicos, que aprobará el Gobierno, en desarrollo del artículo 27.2 de la Ley 31/1995, de 8 de noviembre, de prevención de Riesgos Laborales.
+(Anulada)
+
+> Se declara inconstitucional y nula por Sentencia del TC 40/2026, de 26 de mayo. Ref. BOE-A-2026-13752
