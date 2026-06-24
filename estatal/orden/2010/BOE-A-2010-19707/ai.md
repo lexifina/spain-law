@@ -14,7 +14,15 @@
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2026/152/13573_17148183_6.png)
 
-> Se modifica el modelo 210 por art. 1.5, que se sustituye por el que figura como anexo de la Orden HAC/623/2026, de 12 de junio. Ref. BOE-A-2026-13573
+![imagen](https://www.boe.es/datos/imagenes/disp/2019/314/18751_4933.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1772_14029780_3.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1772_14029780_4.png)
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2024/27/1772_14029780_5.png)
+
+> Se sustituye el modelo 210 de autoliquidación por el que figura como anexo de la Orden HAC/623/2026, de 12 de junio, según establece su art. 1.5. Ref. BOE-A-2026-13573
 
 > Tengase en cuenta, para su aplicación por primera vez, la disposición final única de la citada Orden.
 
