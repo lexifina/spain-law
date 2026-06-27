@@ -700,7 +700,7 @@ a) En todas las carreteras de la provincia:
 
 – El viernes 9 de octubre y sábado 10 de octubre, desde las cero hasta las veinticuatro horas.
 
-– Desde el viernes 20 de noviembre, a las cero horas, hasta el domingo 22 de noviembre, a las veinticuatro horas.
+– Desde el viernes 27 de noviembre, a las cero horas, hasta el domingo 29 de noviembre, a las veinticuatro horas.
 
 – El viernes 4 de diciembre, desde las ocho hasta las quince horas.
 
@@ -753,5 +753,7 @@ Apartado 2.º Fechas restringidas aplicables a las carreteras relacionadas en el
 – Desde el domingo 6 de diciembre, a las quince horas, hasta el martes 8 de diciembre, a las veinticuatro horas.
 
 Quedan exceptuadas de las restricciones anteriores, las carreteras de las Ciudades Autónomas de Ceuta y Melilla.
+
+> Se modifica el apartado 1º por el art. 1.1. de la Resolución de 16 de junio de 2026. Ref. BOE-A-2026-13892
 
 > Redactado conforme a la corrección de errores publicada por Resolución de 19 de febrero de 2026. Ref. BOE-A-2026-4377

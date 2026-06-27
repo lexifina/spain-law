@@ -799,7 +799,7 @@ Lunes 2 de noviembre (festividad 1.º noviembre)
 | N-1 | 329,4 | Límite provincias Álava-Burgos. | 336,2 | Treviño. | 16,00-21,00 | Vitoria. |
 | A-3 | 352 | Valencia. | 292 | Requena. | 15,00-21,00 | Salida Valencia. |
 
-Viernes 20 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
+Viernes 27 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 
 | Ctra. | Inicio | Final | Duración | Sentido |
 | --- | --- | --- | --- | --- |
@@ -810,7 +810,7 @@ Viernes 20 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 | CV-386 | 0,0 | Chiva. | 0,930 | Cheste. | 06:00-20:00 | Ambos sentidos. |
 | CV-3845 | 0,0 | Cheste. | 3,5 | Cheste. | 07,00-24,00 | Ambos sentidos. |
 
-Sábado 21 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
+Sábado 28 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 
 | Ctra. | Inicio | Final | Duración | Sentido |
 | --- | --- | --- | --- | --- |
@@ -824,7 +824,7 @@ Sábado 21 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 | CV-386 | 0,0 | Chiva. | 0,930 | Cheste. | 06:00-20:00 | Ambos sentidos. |
 | CV-3845 | 0,0 | Cheste. | 3,5 | Cheste. | 07,00-24,00 | Ambos sentidos. |
 
-Domingo 22 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
+Domingo 29 de noviembre (Gran Premio Motociclismo Comunitat Valenciana)
 
 | Ctra. | Inicio | Final | Duración | Sentido |
 | --- | --- | --- | --- | --- |
@@ -934,3 +934,5 @@ Jueves 24 y 31 de diciembre
 | N-230 | 64,1 | Benabarre | 116,1 | Santoréns | 17,00-24,00 | Frontera Francia |
 | 119,5 | Buira | 120,9 | Bonansa |
 | 133,6 | Ginaste | 149,2 | Aneto |
+
+> Se modifica por el art. 1.2 de la Resolución de 16 de junio de 2026. Ref. BOE-A-2026-13892
