@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Décimo](decimo.md)
 - [Undécimo](undecimo.md)
 - [Duodécimo](duodecimo.md)
+- [Decimotercero](de.md)
 - [Disposición adicional única](daunica.md)
 - [Disposición transitoria única](dtunica.md)
 - [Disposición derogatoria única](ddunica.md)

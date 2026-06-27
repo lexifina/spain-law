@@ -26,7 +26,23 @@ Cuando el crédito se hubiera cedido, se hubiera designado representante para el
 
 4. Otros datos a incorporar en las propuestas de pago. Las propuestas de pago deberán indicar su carácter de embargables o no embargables a efectos, en su caso, de la ejecución del embargo en la fase de ordenación del pago por la Dirección General del Tesoro y Política Financiera de conformidad con el artículo 76 de la Ley 47/2003, de 26 de noviembre. Sin perjuicio de la potestad del órgano embargante, esta información se deberá reflejar por los órganos que expidan las propuestas de pago de acuerdo con la normativa vigente general o particular de cada gasto.
 
+5. Reglas generales sobre el importe de las propuestas de pago a favor de la Administración General del Estado y las entidades del sector público institucional estatal.
+
+5.1 El importe de las propuestas de pago a favor de la Administración General del Estado y las entidades del sector público institucional estatal, deberá ajustarse a las necesidades reales de liquidez de dichas entidades, en aras de garantizar una eficiente gestión de la Tesorería del Estado. En particular, se procurará partir las propuestas de mayor tamaño en varias propuestas de importes menores.
+
+5.2 Los importes de las propuestas de pago correspondientes a créditos con presupuesto definitivo anual superior a 50 millones de euros incluidos en los capítulos de gasto 2, 6 y 8, no podrán superar la cuarta parte del crédito presupuestario anual del capítulo de gasto al que pertenecen. La Dirección General del Tesoro y Política Financiera podrá acordar la superación de este límite, previa justificación debidamente motivada de la entidad beneficiaria del pago.
+
+En el caso de fondos sin personalidad jurídica integrados en el Tesoro Público conforme a lo dispuesto en el artículo 90 de la Ley 47/2003, de 26 de noviembre, los importes de las propuestas de pago correspondientes al capítulo 8 deberán ser previamente acordados con la Dirección General del Tesoro y Política Financiera.
+
+5.3 Los importes de las propuestas de pago correspondientes a créditos incluidos en los capítulos de gasto 4 y 7, no podrán superar la doceava parte del crédito presupuestario definitivo anual del capítulo de gasto al que pertenecen. La Dirección General del Tesoro y Política Financiera podrá acordar la superación de este límite, previa justificación debidamente motivada de la entidad beneficiaria del pago.
+
+5.4 Los órganos gestores deberán tener en cuenta las reglas indicadas en los apartados anteriores de este punto 5 en la ejecución de los correspondientes créditos presupuestarios, a efectos del cumplimiento de los límites indicados.
+
+En caso de que los importes no se adecúen a lo dispuesto en los apartados anteriores de este punto 5, sin estar justificados por las necesidades reales de liquidez de las entidades, la Dirección General del Tesoro y Política Financiera podrá devolver dichas propuestas de pago al centro gestor con el fin de que las mismas sean divididas en varias propuestas de importes menores. Esta facultad de la Dirección General del Tesoro y Política Financiera de devolución de las propuestas de pago no afectará a aquellos gastos de capítulo 2 y 6 derivados de contratos en los que el importe de la propuesta de pago coincida con el de la obligación de pago.
+
 > Téngase en cuenta que el apartado 4, añadido por el art. único.2 de la Orden PCM/7/2021, de 11 de enero. Ref. BOE-A-2021-521, entra en vigor el 14 de julio de 2021, según establece su disposición final única.
+
+> Se añade el apartado 5 por el art. único.2 de la Orden PJC/643/2026, de 19 de junio. Ref. BOE-A-2026-13890
 
 > Se añade el apartado 4, con efectos desde el 14 de julio de 2021, y se modifica la referencia a la «Secretaría General del Tesoro y Financiación Internacional» por la «Dirección General del Tesoro y Política Financiera», por el art. único.2 y la disposición adicional única de la Orden PCM/7/2021, de 11 de enero. Ref. BOE-A-2021-521
 
