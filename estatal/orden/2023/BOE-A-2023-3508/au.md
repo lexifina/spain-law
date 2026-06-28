@@ -6,15 +6,15 @@ Tienen la consideración de jurisdicciones no cooperativas los siguientes paíse
 
 2. Bahréin.
 
-3. Barbados.
+3. (Suprimido)
 
 4. Bermudas.
 
-5. Dominica.
+5. (Suprimido)
 
 6. Fiji.
 
-7. Gibraltar.
+7. (Suprimido)
 
 8. Guam.
 
@@ -40,12 +40,20 @@ Tienen la consideración de jurisdicciones no cooperativas los siguientes paíse
 
 19. Palaos.
 
-20. Samoa, por lo que respecta al régimen fiscal perjudicial (offshore business).
+20. (Suprimido)
 
 21. Samoa Americana.
 
-22. Seychelles.
+22. (Suprimido)
 
-23. Trinidad y Tobago.
+23. (Suprimido)
 
 24. Vanuatu.
+
+25. Federación de Rusia, por lo que respecta al régimen fiscal perjudicial (internacional holding companies).
+
+> Téngase en cuenta que el régimen perjudicial incluido en el número 25 por el art. único.2 de la Orden HAC/649/2026, de 21 de junio, Ref. BOE-A-2026-13946, entrará en vigor el 28 de diciembre de 2026 y será de aplicación a los tributos sin período impositivo devengados a partir de su entrada en vigor, y a los demás tributos cuyo período impositivo se inicie desde ese momento, según establece la disposición final 2 de la citada Orden.
+
+> Se suprimen los números 3, 5, 7, 20, 22 y 23 y se añade el 25 por el art. único de la Orden HAC/649/2026, de 21 de junio. Ref. BOE-A-2026-13946
+
+> Esta modificación será de aplicación a los tributos sin período impositivo devengados a partir de su entrada en vigor y a los demás tributos cuyo período impositivo se inicie desde ese momento, excepto el número 25 que entra en vigor el 28 de diciembre de 2026, y será de aplicación a los tributos sin período impositivo devengados a partir de su entrada en vigor, y a los demás tributos cuyo período impositivo se inicie desde ese momento, según establece la disposición final 2 de la citada Orden.
