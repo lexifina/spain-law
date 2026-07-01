@@ -70,5 +70,6 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 39](a3-11.md)
 - [Artículo 40](a4-2.md)
 - [Artículo 41](a4-3.md)
+- [Artículo 41 bis](a4-6.md)
 - [Artículo 42](a4-4.md)
 - [Artículo 43](a4-5.md)
