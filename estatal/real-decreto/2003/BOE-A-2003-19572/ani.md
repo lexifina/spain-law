@@ -110,15 +110,11 @@
 | U.103 Psiquiatría Infantil y de la Adolescencia. |
 | U.104 Banco de oocitos. |
 | U.105 Urgencias y Emergencias. |
+| U.106 Radiofísica hospitalaria. |
+| U.107 Radiofarmacia. |
 | U.900 Otras unidades asistenciales. |
 
-> Téngase en cuenta que la modificación de la unidad asistencial U.73 y la supresión de la U.74, establecidas por la disposición final 1.1 del Real Decreto 101/2025, de 18 de febrero, Ref. BOE-A-2025-3189#df, produce efectos el 20 de febrero de 2026, según determina la disposición final 5 del citado Real Decreto.
-
-> Redacción anterior:
-
-> "U.73 Laboratorio Clínico."
-
-> "U.74. Bioquímica clínica."
+> Téngase en cuenta que las referencias U.106 y U.107, añadidas por el art. único.3 del Real Decreto 239/2026, de 25 de marzo. Ref. BOE-A-2026-6975, entra en vigor el 1 de julio de 2026, según determina su disposición final única.
 
 Establecimientos sanitarios:
 
@@ -132,11 +128,7 @@ E.4 Ortopedias.
 
 E.5 Establecimientos de audioprótesis.
 
-> Téngase en cuenta que la modificación de la unidad asistencial U.68, así como la U.105 añadida por la disposición final 1.1 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418, produce efectos desde el 4 de julio de 2025, según establece su disposición final 6.
-
-> Redacción anterior:
-
-> "U.68 Urgencias."
+> Se añaden las referencias U.106 y U.107, con efectos desde el 1 de julio de 2026, por el art. único.3 del Real Decreto 239/2026, de 25 de marzo. Ref. BOE-A-2026-6975
 
 > Se modifica la referencia U.73 y se suprime la U.74, por la disposición final 1.1 del Real Decreto 101/2025, de 18 de febrero. Ref. BOE-A-2025-3189#df
 

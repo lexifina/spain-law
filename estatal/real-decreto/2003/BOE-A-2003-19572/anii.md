@@ -96,7 +96,13 @@ U.9 Aparato digestivo: unidad asistencial en la que un médico especialista en A
 
 U.10 Endocrinología: unidad asistencial en la que un médico especialista en Endocrinología y Nutrición es responsable de realizar el estudio, diagnóstico y tratamiento de pacientes afectados de patología relacionada con el sistema endocrino, así como del metabolismo y de las consecuencias patológicas derivadas de sus alteraciones.
 
-U.11 Nutrición y dietética: unidad asistencial que, bajo la responsabilidad de un facultativo, se encarga de la adecuada nutrición de los pacientes ingresados y de los que precisan continuar el tratamiento tras el ingreso.
+U.11 Nutrición y dietética: unidad asistencial que, bajo la responsabilidad de una persona graduada en Nutrición Humana y Dietética o una persona especialista en Endocrinología y Nutrición, se encarga de la adecuada nutrición de las personas en la atención sanitaria.
+
+> Téngase en cuenta que la modificación de la referencia U.11, establecida por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. Ref. BOE-A-2026-6975, entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "U.11 Nutrición y dietética: unidad asistencial que, bajo la responsabilidad de un facultativo, se encarga de la adecuada nutrición de los pacientes ingresados y de los que precisan continuar el tratamiento tras el ingreso."
 
 U.12 Geriatría: unidad asistencial en la que un médico especialista en Geriatría es responsable de realizar el estudio, diagnóstico y tratamiento de la patología de la edad avanzada.
 
@@ -140,13 +146,21 @@ U.31 Banco de embriones: unidad asistencial que, bajo la responsabilidad de un f
 
 U.32 Recuperación de oocitos: unidad asistencial que, bajo la responsabilidad de un facultativo, se encarga de la realización de las actividades precisas para la obtención y el tratamiento de gametos con fines procreadores o métodos de investigación/experimentación legalmente autorizados.
 
-U.33 Planificación familiar: unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de prestar servicios de atención, información y asesoramiento relacionados con la reproducción, concepción y contracepción humana.
+U.33 Planificación familiar: unidad asistencial multidisciplinar en la que se prestan servicios de atención, información y asesoramiento relacionados con la reproducción, concepción y contracepción humana, bajo la responsabilidad de una persona especialista en Obstetricia y Ginecología o en Medicina Familiar y Comunitaria.
 
 U.34 Interrupción voluntaria del embarazo: unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de llevar a cabo la práctica del aborto terapéutico y eugenésico, en los supuestos legalmente permitidos.
 
 U.35 Anestesia y reanimación: unidad asistencial en la que un médico especialista en Anestesiología y Reanimación es responsable de aplicar al paciente técnicas y métodos para hacerle insensible al dolor y protegerle de la agresión antes, durante y después de cualquier intervención quirúrgica u obstétrica, de exploraciones diagnósticas y de traumatismos, así como de mantener sus condiciones vitales en cualquiera de las situaciones citadas.
 
-U.36 Tratamiento del dolor: unidad asistencial en la que un médico especialista es responsable de aplicar técnicas y métodos para eliminar o aliviar el dolor, de cualquier etiología, al paciente.
+U.36 Tratamiento del dolor: unidad asistencial multidisciplinar en la que, bajo la responsabilidad de una persona especialista en Anestesiología y Reanimación, se aplican técnicas y métodos para eliminar o aliviar el dolor, de cualquier etiología, al paciente.
+
+> Téngase en cuenta que las modificaciones de las referencias U.33 y U.36, establecida por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. Ref. BOE-A-2026-6975, entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "U.33 Planificación familiar: unidad asistencial en la que un médico especialista en Obstetricia y Ginecología es responsable de prestar servicios de atención, información y asesoramiento relacionados con la reproducción, concepción y contracepción humana.
+
+> U.36 Tratamiento del dolor: unidad asistencial en la que un médico especialista es responsable de aplicar técnicas y métodos para eliminar o aliviar el dolor, de cualquier etiología, al paciente."
 
 U.37 Medicina intensiva: unidad asistencial en la que un médico especialista en Medicina intensiva es responsable de que se preste la atención sanitaria precisa, continua e inmediata, a pacientes con alteraciones fisiopatológicas que han alcanzado un nivel de severidad tal que representan una amenaza actual o potencial para su vida y, al mismo tiempo, son susceptibles de recuperación.
 
@@ -222,16 +236,6 @@ U.72 Obtención de muestras: Unidad asistencial, en la que personal sanitario co
 
 U.73 Laboratorio Clínico: Unidad asistencial que, bajo la responsabilidad de una persona con título de especialista en Laboratorio Clínico y los títulos de especialista en Análisis Clínicos y en Bioquímica Clínica, realiza pruebas diagnósticas analíticas y establece la correlación fisiopatológica necesaria para proporcionar apoyo en el diagnóstico, el pronóstico, la respuesta al tratamiento, el seguimiento clínico y la prevención de la enfermedad.
 
-> Téngase en cuenta que la modificación de la unidad asistencial U.72 y U.73, y la supresión de la U.74, establecidas por la disposición final 1.2 del Real Decreto 101/2025, de 18 de febrero, Ref. BOE-A-2025-3189#df, produce efectos el 20 de febrero de 2026, según determina la disposición final 5 del citado Real Decreto.
-
-> Redacción anterior:
-
-> "U.72 Obtención de muestras: unidad asistencial, vinculada a un laboratorio clínico, en la que personal sanitario con titulación adecuada realiza la obtención, recepción, identificación, preparación y conservación de los especímenes o muestras biológicas de origen humano, responsabilizándose de la muestra hasta su entrega al laboratorio correspondiente.
-
-> U.73 Análisis clínicos: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Análisis clínicos, realiza una serie de actuaciones que a través de pruebas diagnósticas analíticas, pruebas funcionales o de laboratorio y su correlación fisiopatológica ayudan al diagnóstico, pronóstico, terapéutica médica y prevención de la enfermedad.
-
-> U.74 Bioquímica clínica: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Bioquímica clínica, aplica los métodos químicos y bioquímicos de laboratorio necesarios para la prevención, diagnóstico, pronóstico y evolución de la enfermedad, así como de su respuesta al tratamiento."
-
 U.74 (Suprimida).
 
 U.75 Inmunología: unidad asistencial que, bajo la responsabilidad de un facultativo especialista en Inmunología, está dedicada a obtener la información necesaria para el estudio, diagnóstico y tratamiento de pacientes con enfermedades causadas por alteraciones de los mecanismos inmunológicos y de las situaciones en las que las manipulaciones inmunológicas forman una parte importante del tratamiento o de la prevención.
@@ -294,9 +298,17 @@ U. 103. Psiquiatría Infantil y de la Adolescencia: unidad asistencial en la que
 
 U.104 Banco de oocitos: unidad asistencial que, bajo la responsabilidad de un facultativo integrado en el correspondiente equipo biomédico, tiene como finalidad conservar y garantizar la calidad de los oocitos para su posterior aplicación en las técnicas de reproducción humana asistida o su utilización en proyectos de investigación legalmente autorizados. Las actividades de procesamiento, preservación y almacenamiento, de oocitos propios y de donante, se entienden comprendidas en esta oferta. Cuando el banco además suministre oocitos a otros centros se autorizará de manera específica la distribución, y según corresponda, la importación o exportación. Además, desarrollan las actividades precisas para la captación, selección y evaluación de las donantes.
 
-U.105 Unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina de Urgencias y Emergencias está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata.
+U.105 Urgencias y Emergencias: unidad asistencial que bajo la responsabilidad de una persona especialista en Medicina de Urgencias y Emergencias, está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata.
 
-> Téngase en cuenta que la unidad asistencial U.105, añadida por la disposición final 1.2 del Real Decreto 610/2024, de 2 de julio. Ref. BOE-A-2024-13418, produce efectos desde el 4 de julio de 2025, según determina su disposición final 6.
+U.106 Radiofísica hospitalaria: unidad asistencial en la que, bajo la responsabilidad de una persona especialista en radiofísica hospitalaria, se desarrollan las competencias correspondientes a su especialidad como la Protección Radiológica, aspectos técnicos del control de los equipos e investigación de las técnicas radiológicas implicadas en Medicina Nuclear, Radioterapia y Radiodiagnóstico, de acuerdo con el programa oficial de su especialidad.
+
+U.107 Radiofarmacia: unidad asistencial en la que bajo la responsabilidad de una persona especialista en Radiofarmacia, se lleva a cabo el diseño, la preparación, dispensación y control de calidad de los radiofármacos y otros productos sanitarios radiactivos, en el ámbito y competencias indicadas en el programa oficial de su especialidad.
+
+> Téngase en cuenta que la modificación de la referencia U.105 y las referencias U.106 y U.107 añadidas por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. Ref. BOE-A-2026-6975, entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Redacción anterior:
+
+> "U.105 Unidad asistencial que, bajo la responsabilidad de persona con título de especialista en Medicina de Urgencias y Emergencias está destinada a la atención sanitaria de pacientes con problemas de etiología diversa y gravedad variable, que generan procesos agudos que necesitan de atención inmediata."
 
 U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesionales con titulación oficial o habilitación profesional que, aun cuando no tengan la consideración legal de «profesiones sanitarias tituladas y reguladas» en el sentido previsto en el artículo 2.1 de la Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, llevan a cabo actividades sanitarias que no se ajustan a las características de ninguna de las unidades anteriormente definidas, por su naturaleza innovadora, por estar en fase de evaluación clínica, o por afectar a profesiones cuyo carácter polivalente permite desarrollar, con una formación adecuada, actividades sanitarias vinculadas con el bienestar y salud de las personas en centros que tengan la consideración de sanitarios.
 
@@ -305,6 +317,8 @@ U.900 Otras unidades asistenciales: unidades bajo la responsabilidad de profesio
 > Redacción anterior:
 
 > "U.900 Otras unidades asistenciales: unidades que, bajo la responsabilidad de profesionales sanitarios, capacitados por su titulación oficial o habilitación profesional, no se ajustan a las características de ninguna de las anteriormente definidas por realizar actividades sanitarias innovadoras o en fase de evaluación clínica."
+
+> Se modifican las referencias U.11, U.33, U.36, U.105 y se añaden las referencias U.106 y U.107, con efectos desde el 1 de julio de 2026, por el art. único.4 del Real Decreto 239/2026, de 25 de marzo. Ref. BOE-A-2026-6975
 
 > Se modifican las referencias U.72, U.73 y se suprime la U.74, por la disposición final 1.2 del Real Decreto 101/2025, de 18 de febrero. Ref. BOE-A-2025-3189#df
 
