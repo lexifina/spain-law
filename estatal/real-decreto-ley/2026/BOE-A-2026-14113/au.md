@@ -1,0 +1,23 @@
+## Artículo único. Régimen aplicable a los contratos de relevo en la jubilación parcial del personal laboral de las Administraciones Públicas.
+
+A los exclusivos efectos de dar cumplimiento a la exigencia de celebración de un contrato de relevo para el acceso a la jubilación parcial conforme al artículo 215.2 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre y disposiciones concordantes, para la jubilación parcial del personal laboral en las Administraciones Públicas se seguirán las siguientes reglas:
+
+a) Las Administraciones Públicas deberán contar con un instrumento de planificación de recursos humanos aprobado, preferentemente la oferta de empleo público ordinaria o instrumento similar, que incluya de forma expresa la cobertura de jubilaciones parciales previstas. La contratación de este personal laboral fijo se regirá por las reglas de acceso a la condición de personal laboral en las Administraciones Públicas.
+
+b) Se podrá reconocer la jubilación parcial del personal laboral fijo a tiempo completo siempre que la Administración correspondiente vincule la jubilación parcial de cada persona trabajadora a un contrato de personal laboral fijo a tiempo completo que hubiere sido previamente formalizado como resultado de convocatorias derivadas del instrumento de planificación a que se refiere la letra a) para la cobertura de las jubilaciones parciales, que tendrá a estos efectos la condición de relevista.
+
+c) En caso de no ser posible aplicar la regla prevista en la letra b) de este artículo, en tanto se resuelve la convocatoria para la contratación de personal relevista fijo, se podrá contratar personal laboral temporal de sustitución, a tiempo completo, que tendrá a estos efectos la condición de relevista, para cubrir temporalmente un puesto de trabajo hasta que finalice el proceso de selección para su cobertura definitiva. Dicha contratación, habrá de llevarse a cabo de forma simultánea a la jubilación parcial a la que se vincule.
+
+Este contrato temporal finalizará en la fecha de formalización del contrato del personal relevista fijo vinculado a dicha jubilación parcial, una vez resuelta la convocatoria donde se haya incluido la plaza, conforme a lo dispuesto en el apartado b). El contrato temporal se extinguirá en todo caso cuando finalice el segundo año posterior a la extinción de la jubilación parcial del trabajador al que se hubiera vinculado la contratación temporal.
+
+En la oferta de empleo público, o instrumento similar correspondiente al ejercicio en que se produzca la jubilación parcial, y, por tanto, la necesidad de contratación de personal laboral temporal, deberán incluirse un número de plazas, de la misma categoría, igual o superior al de las autorizadas con carácter temporal, con el fin de evitar situaciones de temporalidad no deseada en el marco de las administraciones públicas. Si no fuera posible incorporar dichas plazas a la oferta de empleo público o instrumento similar correspondiente a dicho ejercicio se incluirán en la siguiente.
+
+d) Podrá acudirse a la contratación de personal laboral temporal para sustituir al personal laboral contratado conforme a lo dispuesto en los apartados anteriores en caso de que se produzca la extinción del contrato del personal relevista fijo, o del propio personal temporal, antes de la finalización del segundo año posterior al acceso por el jubilado parcial a la jubilación plena en cualquiera de sus modalidades.
+
+Este contrato temporal finalizará en la fecha de incorporación del nuevo personal laboral fijo vinculado a la jubilación parcial o, en todo caso, cuando finalice el segundo año posterior a la extinción de la jubilación parcial del trabajador al que se hubiera vinculado la contratación temporal.
+
+e) Para acreditar la existencia de relevista, el órgano competente en materia de personal de la Administración donde preste servicios el jubilado parcial emitirá un certificado en el cual se identifique a la persona que se jubila parcialmente y a la persona que tendrá la consideración de persona trabajadora relevista.
+
+f) A los efectos de lo previsto en el apartado 4 de la disposición adicional segunda del Real Decreto 1131/2002, de 31 de octubre, por el que se regula la Seguridad Social de los trabajadores y trabajadoras contratadas a tiempo parcial, así como la jubilación parcial, será responsable la Administración empleadora del jubilado parcial.
+
+g) Para la contratación del personal relevista prevista en los apartados anteriores, no será exigible el requisito de estar en situación de desempleo o tener concertado un contrato de duración determinada.
