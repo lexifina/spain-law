@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Especificaciones técnicas de los productos sanitarios incluidos en la prestación farmacéutica del Sistema Nacional de Salud para pacientes no hospitalizados.
+
+1. La Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia actualizará mediante resolución los requisitos y especificaciones técnicas que deben cumplir los diferentes productos sanitarios para su inclusión y permanencia en la prestación farmacéutica del Sistema Nacional de Salud para pacientes no hospitalizados para cada una de las agrupaciones homogéneas, categorías, grupos, subgrupos o tipos de productos sanitarios que se determinen en la citada resolución.
+
+2. En la misma forma se determinarán, en su caso, los centros que podrán expedir certificados de cumplimiento de especificaciones técnicas para los productos sanitarios que soliciten su inclusión en la prestación farmacéutica del Sistema Nacional de Salud para pacientes no hospitalizados o para productos sanitarios ya incluidos en la misma.

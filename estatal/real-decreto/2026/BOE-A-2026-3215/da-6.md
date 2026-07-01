@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Análisis de evolución de los precios y márgenes de los productos sanitarios incluidos en la prestación farmacéutica del Sistema Nacional de Salud para pacientes no hospitalizados.
+
+Cada dos años, a contar desde la entrada en vigor de este real decreto, la persona titular del Ministerio de Sanidad presentará a la Comisión Delegada del Gobierno para Asuntos Económicos un informe con el análisis de la evolución de los precios y márgenes de productos sanitarios sujetos a financiación pública regulados en este real decreto. Asimismo, en el caso de que así se derive de las conclusiones del estudio, el informe contendrá una propuesta de actualización de los márgenes de distribución y dispensación de los productos sanitarios financiados.
