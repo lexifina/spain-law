@@ -6,4 +6,6 @@ a) En el plazo de doce meses, desde el 7 de noviembre de 2025 o desde la concesi
 
 b) En el plazo de 3 años desde la entrada en vigor de este real decreto-ley, cuando el promotor no haya firmado con el titular de la red el contrato de Encargo de Proyecto regulado en el artículo 25.
 
-c) En el plazo de 4 años desde la entrada en vigor de este real decreto-ley, desde la concesión del permiso de acceso, cuando el promotor no haya firmado el contrato técnico de acceso regulado en el artículo 21.
+c) En el plazo de 4 años desde la entrada en vigor de este real decreto-ley, cuando el promotor no haya firmado el contrato técnico de acceso regulado en el artículo 21.
+
+> Se modifica la letra c) por el art. 4.11 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a4

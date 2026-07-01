@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Publicidad de las medidas fiscales temporales en materia energética.
+
+En relación con las medidas recogidas en los artículos 5, 6 y 7 las estaciones de servicio y otros establecimientos de suministro minorista de carburantes y combustibles estarán obligadas a dar la adecuada publicidad a estas medidas. A estos efectos, sin perjuicio de la utilización de su propia cartelería y diseños corporativos, podrán utilizar el modelo descargable desde la página web de la Agencia Estatal de Administración Tributaria en la siguiente dirección: www.sede.agenciatributaria.gob.es.
