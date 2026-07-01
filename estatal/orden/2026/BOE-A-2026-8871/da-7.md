@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Vehículos incluidos en registros e inventarios de administradores de infraestructuras ferroviarias.
+
+Tendrán la consideración de vehículos ferroviarios históricos los que consten en el registro de material rodante ferroviario gestionado por el Administrador de Infraestructuras Ferroviarias al que hace referencia la disposición transitoria octava del Real Decreto 929/2020, de 27 de octubre, sobre seguridad operacional e interoperabilidad ferroviarias, con esa calificación, así como, en su caso, de los inventarios de vehículos de otros administradores de infraestructura.
