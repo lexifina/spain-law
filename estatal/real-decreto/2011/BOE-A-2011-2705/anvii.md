@@ -4,7 +4,7 @@
 
 1. Ámbito de aplicación.
 
-El ámbito de aplicación de este Reglamento comprende todas las variedades de las especies siguientes:
+El ámbito de aplicación de este reglamento comprende todas las variedades de las especies siguientes:
 
 Allium cepa L.:
 
@@ -38,7 +38,7 @@ Apium graveolens L. (Apio):
 
 – Grupo Apionabo.
 
-Asparagus officinalis L. (Espárrago)
+Asparagus officinalis L. (Espárrago):
 
 – Todas las variedades.
 
@@ -49,6 +49,8 @@ Beta vulgaris L.:
 – Grupo Acelga.
 
 Borrago officinalis L. (Borraja).
+
+Brassica napus L. var. napobrassica (L.) Rchb. (Colinabo).
 
 Brassica oleracea L.:
 
@@ -66,7 +68,7 @@ Brassica oleracea L.:
 
 – Grupo Brécol (bróculi o brécol).
 
-– Grupo Col negra.
+– Grupo Col negra 6.
 
 – Grupo Berza.
 
@@ -116,7 +118,7 @@ Cucurbita pepo L. (Calabazas, como la calabaza bonetera, y calabacines):
 
 – Todas las variedades.
 
-Cynara cardunculus L.
+Cynara cardunculus L.:
 
 – Grupo Alcachofa.
 
@@ -236,7 +238,7 @@ Apio: 15 gramos.
 
 Berenjena: 20 gramos.
 
-Borraja: 250 gramos..
+Borraja: 250 gramos.
 
 Bróculi: 60 gramos.
 
@@ -350,135 +352,72 @@ Zanahoria: 50 gramos.
 
 5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2026, hayan iniciado los exámenes oficiales para su admisión en el Registro de variedades comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de julio de 2026, hayan iniciado pero no hayan finalizado los exámenes oficiales para su admisión en el Registro de variedades comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico. No obstante, se podrán aceptar también si cumplen con las disposiciones establecidas en los Protocolos de examen previstos a continuación, sin necesidad de presentar una nueva solicitud.
 
-Especies que cumplen con los protocolos de examen de la OCVV (1)
+Especies que cumplen con los protocolos de examen de la OCVV(1):
 
-| Nombre científico | Denominación común | Protocolo |
-| --- | --- | --- |
-| Allium cepa L. (grupo Cepa). | Cebolla. | TP 46/2 de 1.4.2009. |
-| Allium cepa L. (grupo Aggregatum). | Chalota. | TP 46/2 de 1.4.2009. |
-| Allium fistulosum L. | Cebolleta. | TP 161/1 de 11.3.2010. |
-| Allium porrum L. | Puerro. | TP 85/2 de 1.4.2009. |
-| Allium sativum L. | Ajos. | TP 162/2 de 30.5.2023. |
-| Allium schoenoprasum L. | Cebolleta. | TP 198/2 de 11.3.2015. |
-| Apium graveolens L. | Apio. | TP 82/1 de 13.3.2008. |
-| Apium graveolens L. | Apionabo. | TP 74/1 de 13.3.2008. |
-| Asparagus officinalis L. | Espárrago. | TP 130/2 Rev. de 3.1.2025. |
-| Beta vulgaris L. | Remolacha de mesa. | TP 60/1 de 1.4.2009. |
-| Beta vulgaris L. | Acelga. | TP 106/2 de 14.4.2021. |
-| Brassica oleracea L. | Brécol o brócoli. | TP 151/2 Rev. 3 Corr. de 11.4.2024. |
-| Brassica oleracea L. | Col de Bruselas. | TP 54/2 Rev. 2 de 11.4.2024. |
-| Brassica oleracea L. | Col forrajera o berza. | TP 90/1 de 16.2.2011. |
-| Brassica oleracea L. | Col de Milán, repollo y lombarda. | TP 48/3 Rev. 3 de 11.4.2024. |
-| Brassica oleracea L. | Coliflor. | TP 45/2 Rev. 3 de 11.4.2024. |
-| Brassica oleracea L. | Colirrábano. | TP 65/2 Rev. de 11.4.2024. |
-| Brassica rapa L. | Col de China. | TP 105/1 de 13.3.2008. |
-| Capsicum annuum L. | Chile o pimiento. | TP 76/3 de 31.3.2025. |
-| Cichorium endivia L. | Escarola y endibia. | TP 118/3 de 19.3.2014. |
-| Cichorium intybus L. | Achicoria industrial. | TP 172/2 Rev. de 28.1.2025. |
-| Cichorium intybus L. | Achicoria silvestre. | TP 173/2 de 21.3.2018. |
-| Cichorium intybus L. | Achicoria común o italiana. | TP 154/2 Rev. de 31.3.2023. |
-| Citrullus lanatus (Thunb.) Matsum. et Nakai. | Sandía. | TP 142/2 Rev. 3 de 29.2.2024. |
-| Cucumis melo L. | Melón. | TP 104/2 Rev. 3 de 31.3.2025. |
-| Cucumis sativus L. | Pepino y pepinillo. | TP 61/2 Rev. 3 de 3.1.2025. |
-| Cucurbita maxima Duchesne. | Calabaza. | TP 155/1 de 11.3.2015. |
-| Cucurbita maxima Duchesne × Cucurbita moschata Duchesne. | Híbridos interespecíficos de Cucurbita maxima Duchesne × Cucurbita moschata Duchesne destinados a ser utilizados como portainjertos. | TP 311/1 de 15.3.2017. |
-| Cucurbita pepo L. | Calabacín. | TP 119/1 Rev. 2 de 31.3.2025. |
-| Cynara cardunculus L. | Alcachofa y cardo. | TP 184/2 Rev. de 6.3.2020. |
-| Daucus carota L. | Zanahoria de mesa y zanahoria forrajera. | TP 49/3 Corr. de 13.3.2008. |
-| Foeniculum vulgare Mill. | Hinojo. | TP 183/2 de 14.4.2021. |
-| Lactuca sativa L. | Lechuga. | TP 13/6 Rev. 5 de 3.1.2025. |
-| Petroselinum crispum (Mill.) Nyman ex A. W. Hill. | Perejil. | TP 136/1 Corr. de 21.3.2007. |
-| Phaseolus coccineus L. | Judía escarlata. | TP 9/1 de 21.3.2007. |
-| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame. | TP 12/4 de 27.2.2013. |
-| Pisum sativum L. (partim). | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo. | TP 7/2 Rev. 3 Corr. de 6.3.2020. |
-| Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro. | TP 64/2 Rev. 2 de 29.2.2024. |
-| Rheum rhabarbarum L. | Ruibarbo. | TP 62/1 de 19.4.2016. |
-| Scorzonera hispanica L. | Escorzonera o salsifí negro. | TP 116/1 de 11.3.2015. |
-| Solanum lycopersicum L. | Tomate. | TP 44/4 Rev. 5 de 14.4.2021. |
-| Solanum melongena L. | Berenjena. | TP 117/1 de 13.3.2008. |
-| Spinacia oleracea L. | Espinaca. | TP 55/5 Rev. 4 de 27.4.2022. |
-| Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos. | TP 75/2 Rev. de 29.2.2024. |
-| Vicia faba L. (partim). | Haba. | TP 206/1 de 25.3.2004. |
-| Zea mays L. (partim). | Maíz dulce y maíz para palomitas. | TP 2/3 de 11.3.2010. |
-| Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum pimpinellifolium L. × Solanum habrochaites S. Knapp & D.M. Spooner. | Portainjertos de tomate. | TP 294/1 Rev. 6 de 29.2.2024. |
-| (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu). |
-
-Especies que cumplen con las directrices de examen de la UPOV (2)
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
 
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Brassica rapa L. | Nabo. | TG/37/11 de 23.9.2022. |
-| (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int). |
+| Allium cepa L. (grupo Cepa). | Cebolla. | TP 46/2 de 1 de abril de 2009. |
+| Allium cepa L. (grupo Aggregatum). | Chalota. | TP 46/2 de 1 de abril de 2009. |
+| Allium fistulosum L. | Cebolleta. | TP 161/1 de 11 de marzo de 2010. |
+| Allium porrum L. | Puerro. | TP 85/2 de 1 de abril de 2009. |
+| Allium sativum L. | Ajos. | TP 162/2 de 30 de mayo de 2023. |
+| Allium schoenoprasum L. | Cebollino. | TP 198/2 de 11 de marzo de 2015. |
+| Apium graveolens L. | Apio. | TP 82/1 de 13 de marzo de 2008. |
+| Apium graveolens L. | Apionabo. | TP 74/1 de 13 de marzo de 2008. |
+| Asparagus officinalis L. | Espárrago. | TP 130/2 Rev. de 3 de enero de 2025. |
+| Beta vulgaris L. | Remolacha de mesa. | TP 60/1 de 1 de abril de 2009. |
+| Brassica napus L. var. napobrassica (L.) Rchb. | Colinabo | CPVO-TP/089/1 Rev. de 23 de abril de 2025 |
+| Beta vulgaris L. | Acelga. | TP 106/2 de 14 de abril de 2021. |
+| Brassica oleracea L. | Brécol o brócoli. | TP 151/2 Rev. 3 Corr. de 11 de abril de 2024. |
+| Brassica oleracea L. | Col de Bruselas. | TP 54/2 Rev. 2 de 11 de abril de 2024. |
+| Brassica oleracea L. | Col forrajera o berza. | TP 90/2 de 23 de abril de 2025 |
+| Brassica oleracea L. | Col de Milán, repollo y lombarda. | TP 48/3 Rev. 3 de 11 de abril de 2024. |
+| Brassica oleracea L. | Coliflor. | TP 45/2 Rev. 3 de 11 de abril de 2024. |
+| Brassica oleracea L. | Colirrábano. | TP 65/2 Rev. de 11 de abril de 2024. |
+| Brassica rapa L. | Col de China. | TP 105/2 de 23 de abril de 2025. |
+| Capsicum annuum L. | Chile o pimiento. | TP 76/3 de 31 de marzo de 2025. |
+| Cichorium endivia L. | Escarola y endibia. | TP 118/3 de 19 de marzo de 2014. |
+| Cichorium intybus L. | Achicoria industrial. | TP 172/2 Rev. de 28 de enero de 2025. |
+| Cichorium intybus L. | Achicoria silvestre. | TP 173/2 de 21 de marzo de 2018. |
+| Cichorium intybus L. | Achicoria común o italiana. | TP 154/2 Rev. de 31 de marzo de 2023. |
+| Citrullus lanatus (Thunb.) Matsum. et Nakai. | Sandía. | TP 142/2 Rev. 3 de 29 de febrero de 2024. |
+| Cucumis melo L. | Melón. | TP 104/2 Rev. 3 de 31 de marzo de 2025. |
+| Cucumis sativus L. | Pepino y pepinillo. | TP 61/2 Rev. 3 de 3 de enero de 2025. |
+| Cucurbita maxima Duchesne. | Calabaza. | TP 155/1 de 11 de marzo de 2015. |
+| Cucurbita maxima Duchesne × Cucurbita moschata Duchesne. | Híbridos interespecíficos de Cucurbita maxima Duchesne × Cucurbita moschata Duchesne destinados a ser utilizados como portainjertos. | TP 311/1 de 15 de marzo de 2017. |
+| Cucurbita pepo L. | Calabacín. | TP 119/1 Rev. 2 de 31 de marzo de 2025. |
+| Cynara cardunculus L. | Alcachofa y cardo. | TP 184/2 Rev. de 6 de marzo de 2020. |
+| Daucus carota L. | Zanahoria de mesa y zanahoria forrajera. | TP 49/3 Corr. de 13 de marzo de 2008. |
+| Foeniculum vulgare Mill. | Hinojo. | TP 183/2 de 14 de abril de 2021. |
+| Lactuca sativa L. | Lechuga. | TP 13/6 Rev. 5 de 3 de enero de 2025. |
+| Petroselinum crispum (Mill.) Nyman ex A. W. Hill. | Perejil. | TP 136/1 Corr. de 21 de marzo de 2007. |
+| Phaseolus coccineus L. | Judía escarlata. | TP 9/1 de 21 de marzo de 2007. |
+| Phaseolus vulgaris L. | Judía de mata baja y judía de enrame. | TP 12/4 de 27 de febrero de 2013. |
+| Pisum sativum L. (partim). | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometodo. | TP 7/2 Rev. 3 Corr. de 6 de marzo de 2020. |
+| Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro. | TP 64/2 Rev. 2 de 29 de febrero de 2024. |
+| Rheum rhabarbarum L. | Ruibarbo. | TP 62/1 de 19 de abril de 2016. |
+| Scorzonera hispanica L. | Escorzonera o salsifí negro. | TP 116/1 de 11 de marzo de 2015. |
+| Solanum lycopersicum L. | Tomate. | TP 44/5 de 23 de abril de 2025. |
+| Solanum melongena L. | Berenjena. | TP 117/1 de 13 de marzo de 2008. |
+| Spinacia oleracea L. | Espinaca. | TP 55/5 Rev. 5 Corr. de 23 de abril de 2025. |
+| Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos. | TP 75/2 Rev. de 29 de febrero de 2024. |
+| Vicia faba L. (partim). | Haba. | TP 206/1 de 25 de marzo de 2004. |
+| Zea mays L. (partim). | Maíz dulce y maíz para palomitas. | TP 2/3 de 11 de marzo de 2010. |
+| Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum pimpinellifolium L. × Solanum habrochaites S. Knapp & D.M. Spooner. | Portainjertos de tomate. | TP 294/1 Rev. 6 de 29 de febrero de 2024. |
 
-> Téngase en cuenta que esta actualización del apartado 5, establecida por el art. único.3 de la Orden APA/1331/2025, de 27 de octubre, Ref. BOE-A-2025-23683, entra en vigor el 1 de enero de 2026, según determina su disposición final 2.
+Especies que cumplen con las directrices de examen de la UPOV(2):
 
-> Redacción anterior:
+(2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int).
 
-> "5. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
+| Nombre científico | Denominación común | Protocolo |
+| --- | --- | --- |
+| Brassica rapa L. var. rapa | Nabo. | TG/37/11 de 23 de septiembre de 2022. |
 
-> Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2025, hayan iniciado los exámenes oficiales para su admisión en el Registro de variedades comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
-
-> Especies que cumplen con los protocolos de examen de la OCVV (1)
-
-> | Nombre científico | Denominación común | Protocolo |
-> | --- | --- | --- |
-> | Allium cepa L. (var. cepa). | Cebolla. | TP 46/2 de 1.4.2009 |
-> | Allium cepa L. (grupo Aggregatum). | Chalota. | TP 46/2 de 1.4.2009 |
-> | Allium fistulosum L. | Cebolleta. | TP 161/1 de 11.3.2010 |
-> | Allium porrum L. | Puerro. | TP 85/2 de 1.4.2009 |
-> | Allium sativum L. | Ajos. | TP 162/2 de 30.5.2023 |
-> | Allium schoenoprasum L. | Cebolleta. | TP 198/2 de 11.3.2015 |
-> | Apium graveolens L. | Apio. | TP 82/1 de 13.3.2008 |
-> | Apium graveolens L. | Apionabo. | TP 74/1 de 13.3.2008 |
-> | Asparagus officinalis L. | Espárrago. | TP 130/2 de 16.2.2011 |
-> | Beta vulgaris L. | Remolacha de mesa. | TP 60/1 de 1.4.2009 |
-> | Beta vulgaris L. | Acelga. | TP 106/2 de 14.4.2021 |
-> | Brassica oleracea L. | Brécol o brócoli. | TP 151/2 rev. 3 corr. de 11.4.2024 |
-> | Brassica oleracea L. | Col de Bruselas. | TP 54/2 rev. 2 de 11.4.2024 |
-> | Brassica oleracea L. | Col forrajera o berza. | TP 90/1 de 16.2.2011 |
-> | Brassica oleracea L. | Col de Milán, repollo y lombarda. | TP 48/3 rev. 3 de 11.4.2024 |
-> | Brassica oleracea L. | Coliflor. | TP 45/2 rev. 3 de 11.4.2024 |
-> | Brassica oleracea L. | Colirrábano. | TP 65/2 rev. de 11.4.2024 |
-> | Brassica rapa L. | Col de China. | TP 105/1 de 13.3.2008 |
-> | Capsicum annuum L. | Chile o pimiento. | TP 76/2 rev.2 corr. de 21.4.2020 |
-> | Cichorium endivia L. | Escarola y endibia. | TP 118/3 de 19.3.2014 |
-> | Cichorium intybus L. | Achicoria industrial. | TP 172/2 de 1.12.2005 |
-> | Cichorium intybus L. | Achicoria silvestre. | TP 173/2 de 21.3.2018 |
-> | Cichorium intybus L. | Achicoria común o italiana. | TP 154/2 rev. de 31.3.2023 |
-> | Citrullus lanatus (Thunb.) Matsum. et Nakai. | Sandía. | TP 142/2 rev. 3 de 29.2.2024 |
-> | Cucumis melo L. | Melón. | TP 104/2 rev. 2 corr. de 25.3.2021 |
-> | Cucumis sativus L. | Pepino y pepinillo. | TP 61/2 rev. 2 de 19.3.2019 |
-> | Cucurbita maxima Duchesne. | Calabaza. | TP 155/1 de 11.3.2015 |
-> | Cucurbita maxima Duchesne × Cucurbita moschata Duchesne. | Híbridos interespecíficos de Cucurbita maxima Duchesne × Cucurbita moschata Duchesne destinados a ser utilizados como portainjertos. | TP 311/1 de 15.3.2017 |
-> | Cucurbita pepo L. | Calabacín. | TP 119/1 rev. de 19.3.2014 |
-> | Cynara cardunculus L. | Alcachofa y cardo. | TP 184/2 rev. de 6.3.2020 |
-> | Daucus carota L. | Zanahoria de mesa y zanahoria forrajera. | TP 49/3 corr. de 13.3.2008 |
-> | Foeniculum vulgare Mill. | Hinojo. | TP 183/2 de 14.4.2021 |
-> | Lactuca sativa L. | Lechuga. | TP 13/6 rev. 4 de 29.2.2024 |
-> | Petroselinum crispum (Mill.) Nyman ex A. W. Hill. | Perejil. | TP 136/1 corr. de 21.3.2007 |
-> | Phaseolus coccineus L. | Judía escarlata. | TP 9/1 de 21.3.2007 |
-> | Phaseolus vulgaris L. | Judía de mata baja y judía de enrame. | TP 12/4 de 27.2.2013 |
-> | Pisum sativum L. (partim). | Guisante de grano rugoso, guisante de grano liso redondo y guisante cometido. | TP 7/2 rev. 3 corr. de 6.3.2020 |
-> | Raphanus sativus L. | Rábano o rabanito y rábano de invierno o rábano negro. | TP 64/2 rev. 2 de 29.2.2024 |
-> | Rheum rhabarbarum L. | Ruibarbo. | TP 62/1 de 19.4.2016 |
-> | Scorzonera hispanica L. | Escorzonera o salsifí negro. | TP 116/1 de 11.3.2015 |
-> | Solanum lycopersicum L. | Tomate. | TP 44/4 rev. 5 de 14.4.2021 |
-> | Solanum melongena L. | Berenjena. | TP 117/1 de 13.3.2008 |
-> | Spinacia oleracea L. | Espinaca. | TP 55/5 rev. 4 de 27.4.2022 |
-> | Valerianella locusta (L.) Laterr. | Canónigo o hierba de los canónigos. | TP 75/2 rev. de 29.2.2024 |
-> | Vicia faba L. (partim). | Haba. | TP 206/1 de 25.3.2004 |
-> | Zea mays L. (partim). | Maíz dulce y maíz para palomitas. | TP 2/3 de 11.3.2010 |
-> | Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum habrochaites S. Knapp & D.M. Spooner; Solanum lycopersicum L. × Solanum peruvianum (L.) Mill.; Solanum pimpinellifolium L. × Solanum habrochaites S. Knapp & D.M. Spooner. | Portainjertos de tomate. | TP 294/1 rev. 6 de 29.2.2024 |
-> | (1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu). |
-
-> Especies que cumplen con las directrices de examen de la UPOV (2)
-
-> | Nombre científico | Denominación común | Protocolo |
-> | --- | --- | --- |
-> | Brassica rapa L. | Nabo. | TG/37/11 de 23.9.2022 |
-> | (2) El texto de estas directrices puede consultarse en la web de la UPOV (www.upov.int)." |
+> Se modifican los apartados 1 y 5 por el art. único.2 de la Orden APA/584/2026, de 29 de mayo. Ref. BOE-A-2026-12697
 
 > Se modifica el apartado 5, con efectos de 1 de enero de 2026, por el art. único.3 de la Orden APA/1331/2025, de 27 de octubre. Ref. BOE-A-2025-23683
 

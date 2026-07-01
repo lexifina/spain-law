@@ -152,32 +152,30 @@ Se considerará que el valor agronómico o de utilización de una variedad es sa
 
 La OEVV facilitará distintas condiciones de examen adaptadas a las necesidades específicas de la agricultura ecológica y, cuando se disponga de métodos reproducibles y a petición del solicitante, examinará en la medida en que se capacidad lo permita rasgos y características específicos.
 
-> Téngase en cuenta que esta actualización del apartado 5, que añade los últimos 6 párrafos, estalecida por el art. único.1 de la Orden APA/380/2023, de 4 de abril. Ref. BOE-A-2023-9625, entra en vigor el 1 de julio de 2023, según determina su disposición final 2.
-
 6. Protocolos para los exámenes de distinción, homogeneidad y estabilidad.
 
-Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de enero de 2023, hayan iniciado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en estos Protocolos de examen o, en su caso, en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico.
+Aquellas variedades de las especies que se citan a continuación, que, con anterioridad al 1 de julio de 2026, hayan iniciado pero no hayan finalizado los exámenes oficiales para su admisión en el Registro de Variedades Comerciales, podrán ser aceptadas si cumplen las disposiciones establecidas en los Protocolos de examen que se encontraban en vigor al iniciarse el examen técnico. No obstante, se podrán aceptar también si cumplen con las disposiciones establecidas en los Protocolos de examen previstos a continuación, sin necesidad de presentar una nueva solicitud.
 
 Especies que cumplen con los protocolos de examen de la OCVV (1):
 
+(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+
 | Nombre científico | Denominación común | Protocolo |
 | --- | --- | --- |
-| Avena nuda L. | Avena desnuda, avena descascarillada. | TP 20/3 de 6.03.2020 |
-| Avena sativa L. (incluye A. byzantina K. Koch). | Avena y avena roja. | TP 20/3 de 6.03.2020 |
-| Hordeum vulgare L. | Cebada. | TP 19/5 de 19.03.2019 |
-| Oryza sativa L. | Arroz. | TP 16/3 de 01.10.2015 |
-| Secale cereale L. | Centeno. | TP 58/1 rev. de 27.04.2022 |
-| Triticum aestivum L. subsp. aestivum. | Trigo. | TP 3/5 de 19.3.2019 |
-| Triticum turgidum L. subsp. Durum (Desf.) van Slageren. | Trigo duro. | TP 120/3 de 19.3.2014 |
-| xTriticosecale Wittm. ex A. Camus. | Híbridos resultantes del cruce de una especie del género Triticum con una especie del género Secale. | TP 121/3 de 27.04.2022 |
-
-(1) El texto de estos protocolos puede consultarse en la web de la OCVV (www.cpvo.europa.eu).
+| Avena nuda L. | Avena desnuda, avena descascarillada. | TP 20/3 de 6 de marzo de 2020. |
+| Avena sativa L. (incluye A. byzantina K. Koch). | Avena y avena roja. | TP 20/3 de 6 de marzo de 2020. |
+| Hordeum vulgare L. | Cebada. | TP 19/5 de 19 de marzo de 2019. |
+| Oryza sativa L. | Arroz. | TP 16/4 de 23 de mayo de 2025. |
+| Secale cereale L. | Centeno. | TP 58/1 rev. de 27 de abril de 2022. |
+| Triticum aestivum L. subsp. aestivum. | Trigo. | TP 3/5 de 19 de marzo de 2019. |
+| Triticum turgidum L. subsp. Durum (Desf.) van Slageren. | Trigo duro. | TP 120/3 de 19 de marzo de 2014. |
+| xTriticosecale Wittm. ex A. Camus. | Híbridos resultantes del cruce de una especie del género Secale. | TP 121/3 de 27 de abril de 2022. |
 
 Para las variedades ecológicas adecuadas para la producción ecológica de las especies cebada, centeno y trigo, en cuanto a la homogeneidad, se observarán y describirán todos los caracteres de los protocolos y directrices que tienen asignados en este apartado.
 
 No obstante lo dispuesto en el párrafo anterior, en lo que se refiere a la homogeneidad, las variedades ecológicas, de las especies citadas, pueden optar por cumplir en lugar de las condiciones del protocolo asignado las condiciones enumeradas a continuación.
 
-Se aplicará a los caracteres enumerados en el apartado “Excepción a los protocolos técnicos” lo siguiente:
+Se aplicará a los caracteres enumerados en el apartado "Excepción a los protocolos técnicos" lo siguiente:
 
 Dichos caracteres podrán ser evaluados de forma menos estricta, sin embargo, el nivel de homogeneidad dentro de la variedad será similar al nivel de homogeneidad de variedades comparables, comúnmente conocidas en la Unión.
 
@@ -232,7 +230,7 @@ Trigo: En el caso de las variedades pertenecientes a la especie trigo (Triticum 
 | OCVV n.º 25. | Gluma inferior: forma del diente. |
 | OCVV n.º 26. | Gluma inferior: área de pilosidad en superficie interna. |
 
-> Téngase en cuenta que esta actualización del apartado 6, que añade los últimos 5 párrafos, estalecida por el art. único.2 de la Orden APA/380/2023, de 4 de abril. Ref. BOE-A-2023-9625, entra en vigor el 1 de julio de 2023, según determina su disposición final 2.
+> Se modifica el apartado 6 por el art. único.1 de la Orden APA/584/2026, de 29 de mayo. Ref. BOE-A-2026-12697
 
 > Se modifican los apartados 5 y 6, con efectos de 1 de julio de 2023, por el art. único.1 y 2 de la Orden APA/380/2023, de 4 de abril. Ref. BOE-A-2023-9625
 
