@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+El presente real decreto tiene el carácter de norma básica y se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado la competencia para establecer las normas básicas para el desarrollo del artículo 27 de la Constitución, con el fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia. También resulta de la aplicación del artículo 149.1.18.ª de la Constitución, que establece que corresponde al Estado la competencia exclusiva sobre las bases del régimen jurídico de las Administraciones públicas, y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas.
