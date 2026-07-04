@@ -30,7 +30,7 @@ Los expedientes instruidos por los Equipos o Unidades en los que se aprecien hec
 
 3. Acuerdos y autorizaciones de colaboración.
 
-El titular del Departamento de Inspección Financiera y Tributaria autorizará la colaboración de funcionarios de la Oficina Nacional de Investigación del Fraude y de la Oficina Nacional de Fiscalidad Internacional en actuaciones propias de las Dependencias Regionales de Inspección y de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes, así como en las actuaciones de otros órganos distintos de los señalados en el apartado uno de esta Resolución, de acuerdo con lo establecido en el artículo 5.2.j) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
+El titular del Departamento de Inspección Financiera y Tributaria autorizará la colaboración de funcionarios de la Oficina Nacional de Investigación del Fraude y de la Oficina Nacional de Fiscalidad Internacional en actuaciones propias de las Dependencias Regionales de Inspección y de la Dependencia de Control Tributario y Aduanero de la Delegación Central de Grandes Contribuyentes, así como en las actuaciones de otros órganos distintos de los señalados en el apartado uno de esta resolución, de acuerdo con lo establecido en el artículo 5.2.j) de la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias.
 
 El Delegado Especial autorizará:
 
@@ -38,11 +38,15 @@ a) La colaboración de funcionarios de la Dependencia Regional de Inspección en
 
 b) La colaboración de funcionarios de otras Dependencias de la Delegación Especial en las actuaciones de la Dependencia Regional de Inspección de la misma o de otra Delegación Especial, así como en las actuaciones de la Dependencia de Control Tributario y Aduanero, en las de la Oficina Nacional de Investigación del Fraude y en las de la Oficina Nacional de Fiscalidad Internacional.
 
+c) La colaboración de los Delegados de la Agencia Tributaria en las actuaciones de la Dependencia Regional de Inspección, mediante el ejercicio de las funciones y competencias previstas en el apartado cinco.2 de esta resolución, respecto de los Equipos y Unidades radicados en la sede de la Delegación de la Agencia Tributaria de la que sean titulares, siempre y cuando en la misma no exista o esté vacante algún puesto que tenga la consideración de Inspector Jefe. Dicha autorización se concederá, a propuesta del Inspector Regional previo informe favorable del Director del Departamento de Inspección Financiera y Tributaria”.
+
 Podrá también acordarse la colaboración de funcionarios de órganos integrados en otros Departamentos con la Inspección de los Tributos para la realización de sus funciones. Dicho acuerdo se adoptará por el titular del Departamento competente de acuerdo con lo establecido en la Orden PRE/3581/2007, de 10 de diciembre, por la que se establecen los Departamentos de la Agencia Estatal de Administración Tributaria y se les atribuyen funciones y competencias, a solicitud del titular del Departamento de Inspección Financiera y Tributaria.
 
 Cuando la naturaleza de las actuaciones a desarrollar así lo aconseje, el Jefe de la Oficina Nacional de Investigación del Fraude y el de la Oficina Nacional de Fiscalidad Internacional podrá autorizar la colaboración de funcionarios de un Equipo de su Oficina en actuaciones de otro Equipo del mismo órgano. Asimismo, el Inspector Regional también podrá autorizar la colaboración de funcionarios de un Equipo o Unidad de Inspección de la Dependencia Regional de Inspección en las actuaciones de otro Equipo o Unidad distinto.
 
 Los acuerdos o autorizaciones a que se refiere este número deberán constar en el expediente y se exhibirán por el funcionario designado a petición del obligado tributario.
+
+> Se modifica el punto 3 por el art. único.1 de la Resolución de 23 de junio de 2026. Ref. BOE-A-2026-14431
 
 > Se modifica el punto 1 por el apartado único.5 de la Resolución de 19 de marzo de 2025. Ref. BOE-A-2025-6949
 
