@@ -4,7 +4,7 @@
 
 a) Las actuaciones y procedimientos de gestión aduanera y tributaria necesarios para la aplicación del sistema aduanero, de los Impuestos Especiales y demás tributos de competencia del Departamento de Aduanas e Impuestos Especiales, así como las de coordinación, planificación y asistencia técnica a los órganos del Área de Aduanas e Impuestos Especiales situados en su ámbito territorial.
 
-b) La contracción y recaudación, en vía voluntaria, de la deuda aduanera y de otros tributos gestionados por el área de Aduanas e Impuestos Especiales notificadas con el levante en el supuesto previsto en el artículo 102.2 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, así como la contracción de la deuda aduanera en cualquier otro supuesto.
+b) La contracción y recaudación, en vía voluntaria, de la deuda aduanera y de otros tributos gestionados por el área de Aduanas e Impuestos Especiales notificadas con el levante en el supuesto previsto en el artículo 102.2 del CAU, así como la contracción de la deuda aduanera en cualquier otro supuesto, incluida la gestión y comprobación de las garantías aportadas en aquellos casos en que sea obligatoria su constitución, así como acordar, cuando sea procedente, su devolución o cancelación.
 
 c) Las actuaciones de vigilancia y control de las mercancías que entren en el territorio aduanero de la Unión, que estén en situación de depósito temporal o sujetas a vigilancia aduanera por estar vinculadas a un régimen aduanero o que se encuentren en los establecimientos aduaneros o fiscales sujetos a su control a los efectos de dar cumplimiento de las misiones de las autoridades aduaneras que se establecen en el artículo 3 del Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013.
 
@@ -22,11 +22,13 @@ i) Las de investigación e información relacionadas con las funciones de la Dep
 
 j) Las actuaciones y procedimientos para la gestión del Registro de Operadores de Tabaco Crudo y para el control a los efectos previstos en la disposición adicional primera de la Ley 11/2021 de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal, de transposición de la Directiva (UE) 2016/1164, del Consejo, de 12 de julio de 2016, por la que se establecen normas contra las prácticas de elusión fiscal que inciden directamente en el funcionamiento del mercado interior, de modificación de diversas normas tributarias y en materia de regulación del juego.
 
-k) La iniciación, instrucción y resolución de los procedimientos derivados del ejercicio de las funciones anteriormente indicadas y de los procedimientos sancionadores que de tales actuaciones se puedan derivar.
+k) La iniciación, instrucción y resolución de los procedimientos derivados del ejercicio de las funciones anteriormente indicadas y de los procedimientos sancionadores que de tales actuaciones, así como de las actuaciones previstas en la letra m), se puedan derivar.
 
 l) La iniciación, instrucción y resolución de los expedientes sancionadores derivados del incumplimiento de las limitaciones a los pagos en efectivo que se pongan de manifiesto como consecuencia de las actuaciones y procedimientos realizados por los órganos, equipos, unidades administrativas o funcionarios que integran los servicios territoriales de Aduanas e Impuestos Especiales en su ámbito territorial.
 
 La competencia se extenderá, en su caso, a todos los que hubieran sido parte en la operación de pago de efectivo, aunque no tuvieran esa condición en la actuación o procedimiento que la pone de manifiesto.
+
+m) La iniciación, tramitación y resolución del procedimiento para el reconocimiento del derecho a la devolución de ingresos indebidos en los supuestos del artículo 221.1 de la Ley 58/2003, de 17 de diciembre, General Tributaria, de conformidad con lo dispuesto en los artículos 17 a 19 del Reglamento General de desarrollo de la Ley 58/2003, de 17 de diciembre, General Tributaria, en materia de revisión en vía administrativa, aprobado por el Real Decreto 520/2005, de 13 de mayo, cuando se trate de ingresos correspondientes a deudas para cuya recaudación sea competente un órgano de la Dependencia Regional de Aduanas e Impuestos Especiales.
 
 2. Las Dependencias Regionales de Aduanas e Impuestos Especiales, que actuarán bajo la superior dirección del titular de la misma, podrán organizarse internamente, en atención a su dimensión y a las necesidades del servicio, conforme a las siguientes áreas funcionales de actividad:
 
@@ -45,5 +47,7 @@ e) Área Regional Químico-Tecnológica.
 4. Al frente de cada Área existirá un Adjunto al titular de la Dependencia Regional. No obstante, en función del volumen de tareas y de las necesidades del servicio, un Adjunto podrá ser el titular de varias Áreas.
 
 5. Para el desarrollo de las funciones de su competencia, la Dependencia Regional podrá contar con Equipos y Unidades de Aduanas e Impuestos Especiales y unidades de Vigilancia Aduanera directamente dependientes de su titular o de los titulares de las Áreas o de los demás órganos en ella existentes.
+
+> Se modifica el punto 1 por el art. único.3 de la Resolución de 23 de junio de 2026. Ref. BOE-A-2026-14430
 
 > Se modifica el punto 1 por el apartado único.1 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742

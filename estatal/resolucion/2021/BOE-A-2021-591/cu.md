@@ -22,6 +22,14 @@ g) La relación con las restantes áreas de la Agencia Tributaria, en el ámbito
 
 h) La asistencia al titular de la Delegación Especial de la Agencia Tributaria y la representación del mismo, en los términos que éste ordene, ante las autoridades y organismos oficiales con competencias en materias relacionadas con los cometidos de la Dependencia Regional.
 
-2. En los casos de ausencia, vacante o enfermedad de su titular, éste será sustituido por el titular de una de las tres primeras áreas del apartado tercero.2 y en el orden en él indicado. En su defecto, por quien designe el titular de la Delegación Especial.
+2. En los casos de ausencia, vacante o enfermedad de su titular, éste será sustituido:
+
+a) Por el titular de una de las tres primeras áreas del apartado tercero.2 y en el orden en él indicado.
+
+b) En defecto de lo dispuesto en la letra a), por quien designe el titular de la Delegación Especial entre funcionarios del Cuerpo Superior de Inspectores de Hacienda del Estado adscritos a la Dependencia Regional de Aduanas e Impuestos Especiales de que se trate.
+
+c) En defecto de lo dispuesto en las letras a) y b), la persona titular de la Dirección del Departamento de Aduanas e Impuestos Especiales podrá designar a un funcionario del Cuerpo Superior de Inspectores de Hacienda del Estado adscrito a otra Dependencia Regional de Aduanas e Impuestos Especiales. Dicha designación requerirá el informe favorable de las personas titulares de las Delegaciones Especiales afectadas.
+
+> Se modifica el punto 2 por el art. único.4 de la Resolución de 23 de junio de 2026. Ref. BOE-A-2026-14430
 
 > Se modifica el punto 1.b) y d) por el apartado único.2 y 3 de la Resolución de 21 de marzo de 2022. Ref. BOE-A-2022-4742

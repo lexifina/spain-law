@@ -12,9 +12,15 @@ c) En el ejercicio de funciones relativas a procedimientos de autorización, la 
 
 a) En el ejercicio de funciones inspectoras o interventoras, las tareas que, en relación con el inicio e instrucción del procedimiento de inspección, le encomiende el titular del órgano en que estén integradas, finalizando, en su caso, con la firma de las actas, conforme a lo indicado en el apartado quinto.5 de la presente resolución. Las mismas competencias corresponderán con respecto a los procedimientos sancionadores que se deriven de tales actuaciones.
 
-b) En el ejercicio de funciones relativas a actuaciones y procedimientos en vía de gestión, las tareas que, en relación con el inicio e instrucción de los procedimientos, incluida la formalización de la propuesta de resolución, les encomiende el titular del órgano en que estén integradas. Las mismas competencias corresponderán con respecto a los procedimientos sancionadores que se deriven de tales actuaciones.
+b) En el ejercicio de funciones relativas a actuaciones y procedimientos en vía de gestión, las tareas que, en relación con el inicio e instrucción de los procedimientos, incluida la formalización de la propuesta de resolución, les encomiende el titular del órgano en que estén integradas.
+
+Las mismas competencias corresponderán con respecto a los procedimientos sancionadores que se deriven de tales actuaciones.
+
+Sin perjuicio de lo dispuesto en el párrafo primero, las Unidades que desempeñen funciones de servicio de viajeros dictarán las resoluciones que procedan en el ámbito de dichas funciones.
 
 c) Las tareas relacionadas con la instrucción de los procedimientos de autorización, de su revaluación, reexamen, revocación, suspensión o anulación, incluida la formalización de la propuesta de resolución, o aquellas otras que le encomiende el titular del órgano en que estén integradas.
+
+> Se modifica la letra b) del punto 2 por el art. único.10 de la Resolución de 23 de junio de 2026. Ref. BOE-A-2026-14430
 
 > Se modifica por la disposición final 2.5 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
 

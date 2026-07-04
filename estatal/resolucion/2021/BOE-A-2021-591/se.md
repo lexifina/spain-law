@@ -18,6 +18,14 @@ La coordinación de la información y asistencia no presencial con los servicios
 
 La difusión de información en materia de Aduanas, Impuestos Especiales y Medioambientales y la contestación de solicitudes de información formuladas por escrito.
 
+3.º La instrucción del procedimiento para la autorización previa de la exención temporal a que se refiere el artículo 5 del Reglamento (UE) 2026/261 del Parlamento Europeo y del Consejo, de 26 de enero de 2026, sobre la eliminación progresiva de las importaciones de gas natural ruso y la preparación de la eliminación progresiva de las importaciones de petróleo ruso, la mejora del seguimiento de las posibles dependencias energéticas y por el que se modifica el Reglamento (UE) 2017/1938.
+
+No se aplicará lo previsto en el párrafo anterior en el caso de que España designe, de conformidad con lo previsto en el artículo 7.1 del Reglamento (UE) 2026/261, de 26 de enero de 2026, a una autoridad distinta de la autoridad aduanera como autoridad encargada de la autorización.
+
+4.º La asignación del número de registro e identificación de los operadores económicos (en adelante, número EORI) a los operadores económicos no establecidos en el territorio aduanero de la Unión Europea cuando presenten por primera vez una solicitud de autorización de su competencia o una solicitud de intervención de marca.
+
+5.º La autorización para la presentación de la declaración-liquidación centralizada a que se refiere el artículo 73.3.c) del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, por sujetos pasivos cuya base imponible de las operaciones asimiladas a las importaciones realizadas durante el año natural precedente no hubiera superado el importe señalado en el artículo octavo de la Orden EHA/1308/2005, de 11 de mayo, por la que se aprueba el modelo 380 de declaración-liquidación del Impuesto sobre el Valor Añadido, se determinan el lugar, forma y plazo de presentación, así como las condiciones generales y el procedimiento para su presentación por medios telemáticos.
+
 b) La Oficina Nacional de Gestión de Aduanas e Impuestos Especiales dirigida por su titular, asistido por un Adjunto(a), estará integrada por las Áreas que en cada caso se determinen por el titular del Departamento de Aduanas e Impuestos Especiales.
 
 Las Áreas, dirigidas por sus respectivos titulares, podrán estar integradas por los Equipos y Unidades de Aduanas e Impuestos Especiales que en cada caso se determinen, que podrán estar situados en alguna de las sedes de una Delegación Especial concreta o en la de una Administración de Aduanas e Impuestos Especiales.
@@ -83,6 +91,8 @@ e) La Oficina Nacional de Investigación de Aduanas e Impuestos Especiales podr�
 f) En el desarrollo de las funciones de inspección e investigación, el titular de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales y su adjunto(a) tendrán la consideración de Inspector Jefe.
 
 g) En los casos de ausencia, vacante o enfermedad del titular de la Oficina Nacional de Investigación de Aduanas e Impuestos Especiales, éste será sustituido, por el Adjunto y, en su defecto, por quien designe el titular del Departamento.
+
+> Se modifica el punto 1.a) por el art. único.2 de la Resolución de 23 de junio de 2026. Ref. BOE-A-2026-14430
 
 > Se modifica el punto 1.a).2º por la disposición final 2.2 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
 

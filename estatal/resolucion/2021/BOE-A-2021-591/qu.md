@@ -6,15 +6,17 @@ a) Las relativas a la comprobación a posteriori de los tributos sobre el comerc
 
 b) Las funciones atribuidas a la inspección de los tributos no comprendidas en la letra a) anterior, cuya competencia corresponde al Departamento de Aduanas e Impuestos Especiales, salvo las desarrolladas en el marco de la intervención de los Impuestos Especiales.
 
-c) Las de investigación tendentes a determinar modalidades concretas de fraude fiscal y sus métodos de realización, evaluar el riesgo fiscal en relación con actividades o sectores económicos, así como la realización de estudios, análisis y demás actuaciones que permitan la detección de las distintas fórmulas de fraude fiscal, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
+c) Las de investigación tendentes a determinar modalidades concretas de fraude fiscal y de contrabando y sus métodos de realización, evaluar el riesgo en relación con actividades o sectores económicos, así como la realización de estudios, análisis y demás actuaciones que permitan la detección de las distintas fórmulas de fraude fiscal y de contrabando, sin perjuicio de que puedan desarrollar otras actuaciones que se les encomienden.
 
-d) Las demás atribuidas a la inspección tributaria con excepción de las de intervención en materia de Impuestos Especiales de Fabricación.
+d) Las de investigación del cumplimiento de la normativa distinta de la aduanera, que deba aplicar la autoridad aduanera en el marco de las misiones previstas en el artículo 3 del CAU, incluida la normativa relativa a la imposición de sanciones internacionales en las que fuese competente la autoridad aduanera respecto de importación, exportación, tránsito y demás operaciones de comercio exterior de mercancías.
 
 e) Asimismo, se podrán realizar las actuaciones de colaboración y asistencia solicitadas por otras Dependencias Regionales de Aduanas e Impuestos Especiales o por el Departamento de Aduanas e Impuestos Especiales y el auxilio judicial que le encomiende el Delegado Especial de la Agencia Tributaria o dicho Departamento.
 
-f) Las relativas a los procedimientos sancionadores derivados de los procedimientos de comprobación y de investigación realizados en el marco de las competencias de las letras anteriores.
+f) Las relativas a los procedimientos sancionadores derivados de los procedimientos de comprobación y de investigación realizados en el marco de las competencias de las letras anteriores, sin perjuicio de lo establecido en el apartado décimo.1.k).
 
 g) La de liquidación de la deuda aduanera derivada del delito contra la Hacienda Pública y del delito de contrabando.
+
+h) La iniciación, tramitación y resolución de los procedimientos de condonación o devolución en los casos previstos en el artículo 116.1 del CAU, siempre que se refieran a deudas liquidadas por los órganos del Área Regional de Control e Investigación.
 
 2. El Área de Control e Investigación podrá estar integrada por Equipos y Unidades de Control y por Equipos de Investigación, por la Oficina Técnica y por la Unidad de Planificación y Selección.
 
@@ -77,3 +79,5 @@ Cuando se haya encomendado a un Inspector de Hacienda o a un Técnico de Haciend
 9. En los casos de ausencia, vacante o enfermedad del titular del Área, éste será sustituido por quién designe el titular de la Dependencia Regional.
 
 10. En el desarrollo de las funciones de inspección o investigación, el titular del Área de Control e Investigación tendrá la consideración de Inspector Jefe.
+
+> Se modifica el punto 1 por el art. único.5 de la Resolución de 23 de junio de 2026. Ref. BOE-A-2026-14430

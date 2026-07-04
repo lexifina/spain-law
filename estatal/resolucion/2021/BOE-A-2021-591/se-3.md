@@ -16,7 +16,7 @@ f) Las de informe que sean exigidas por la normativa vigente o solicitadas por o
 
 g) La coordinación y asistencia técnica en relación con las actuaciones de gestión tributaria en materia de impuestos especiales o del resto de impuestos de esta Área Regional cuando fuesen encomendadas por el titular de la Dependencia Regional a las sedes desconcentradas de la misma o a los Inspectores Regionales adjuntos o a los Técnicos Jefes de Gestión de Aduanas e Impuestos Especiales del apartado décimo.3.
 
-h) La realización de las comprobaciones previstas en los apartados 3 y 6 del artículo 5 del Real Decreto 712/2022, de 30 de agosto, por el que se aprueba el Reglamento del Impuesto sobre los Gases de Efecto Invernadero, tanto en almacenes como en el resto de locales u oficinas afectos a la actividad.
+h) La realización de las comprobaciones previstas en los apartados 3 y 6 del artículo 5 del Reglamento del Impuesto sobre los Gases de Efecto Invernadero, aprobado por el Real Decreto 712/2022, de 30 de agosto, así como cualesquiera otras comprobaciones o controles en materia de gestión del impuesto.
 
 2. El Área de Gestión e Intervención de Impuestos Especiales podrá estar integrada por Equipos y Unidades de Aduanas e Impuestos Especiales, que ejercerán el control de las actividades y locales sometidos a intervención y las funciones de gestión de los tributos de competencia del Departamento de Aduanas e Impuestos Especiales distintos a los que graven operaciones de comercio exterior.
 
@@ -33,6 +33,8 @@ La liquidación tributaria derivada de un procedimiento de gestión tributaria c
 6. Las actividades de Equipos y Unidades de Aduanas e Impuestos Especiales, en el ejercicio de la función de Intervención de Impuestos Especiales, se sujetarán al principio de planificación, que determinará los objetivos concretos de su actuación según la naturaleza, importancia económica y riesgos previsibles en las actividades sometidas a este tipo de control.
 
 7. En los casos de ausencia, vacante o enfermedad del titular del Área, éste será sustituido por quién designe el titular de la Dependencia Regional.
+
+> Se modifica la letra h) del punto 1 por el art. único.7 de la Resolución de 23 de junio de 2026. Ref. BOE-A-2026-14430
 
 > Se añade la letra h) al punto 1 por la disposición final 2.3 de la Resolución de 5 de febrero de 2024. Ref. BOE-A-2024-2323
 
