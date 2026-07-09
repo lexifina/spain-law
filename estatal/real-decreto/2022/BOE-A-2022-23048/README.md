@@ -192,6 +192,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición transitoria primera](dt-2.md)
 - [Disposición transitoria segunda](dt-3.md)
 - [Disposición transitoria tercera](dt-4.md)
+- [Disposición transitoria cuarta](dt-5.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
