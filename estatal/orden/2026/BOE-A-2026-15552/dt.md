@@ -1,0 +1,3 @@
+## Disposición transitoria única. Tramitación de solicitudes de acceso al esfuerzo científico durante el año 2026.
+
+Para el año 2026, los interesados presentarán las solicitudes de acceso al esfuerzo científico establecidas en el artículo 3 en el plazo de un mes desde el día de la entrada en vigor de esta orden, y la Dirección General de Pesca Sostenible dictará la resolución prevista en el artículo 4.8 en el plazo de quince días hábiles desde la finalización del plazo para la presentación de las solicitudes o, en su caso, para la presentación de la respuesta a los requerimientos de subsanación que se dictasen.
