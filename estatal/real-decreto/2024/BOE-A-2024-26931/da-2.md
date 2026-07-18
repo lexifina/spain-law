@@ -2,4 +2,6 @@
 
 (Anulada)
 
-> Se anula por Sentencia del TS de 19 de mayo de 2026. Ref. BOE-A-2026-12300
+> Se anula por Sentencia del TS de 19 de mayo de 2026, Ref. BOE-A-2026-12300
+
+> En el mismo sentido se pronuncia la Sentencia del TS de 1 de junio de 2026, Ref. BOE-A-2026-15677
