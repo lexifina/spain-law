@@ -7,6 +7,8 @@
 | Los módulos de: • MED-C102- Primeros auxilios. • MED-ASBD105- Formación práctica. | Acreditan la Unidad de competencia de: • UC0272_2: Asistir como primer interviniente en caso de accidente o situación de emergencia. |
 | Los módulos de: • RAE-ASBD101- Prueba de acceso. • MED-ASBD104- Conducción subacuática. • MED-ASBD105- Formación práctica. | Acreditan la Unidad de competencia de: • UC1637_2: Realizar intervenciones hiperbáricas utilizando un sistema de buceo autónomo (SBA) y/o un sistema semiautónomo (SBSA), respirando aire o nitrox hasta una presión máxima de cinco atmósferas. |
 | Los módulos de: • MED-ASBD102- Entorno natural del buceo deportivo. • MED-ASBD103- Organización de actividades de descubrimiento y conducción de buceo deportivo. • MED-ASBD105- Formación práctica. | Acreditan la Unidad de competencia de: • UC1638_2: Intervenir en la organización, velar por la seguridad y concretar itinerarios subacuáticos en operaciones de buceo deportivo. |
-| Los módulos de: • MED-C101- Bases del comportamiento deportivo. • MED-C103- Actividad física adaptada y discapacidad. • MED-ASBD104- Conducción subacuática. • MED-ASBD105- Formación práctica. | Acreditan la Unidad de competencia de: • UC1639_2 - Conducir a un equipo de buceadores deportivos durante una intervención hiperbárica hasta cinco atmósferas. |
+| Los módulos de: • MED-C101- Bases del comportamiento deportivo. • MED-C105: Actividad físico-deportiva para personas con discapacidad. • MED-ASBD104- Conducción subacuática. • MED-ASBD105- Formación práctica. | Acreditan la Unidad de competencia de: • UC1639_2 - Conducir a un equipo de buceadores deportivos durante una intervención hiperbárica hasta cinco atmósferas. |
+
+> Se modifica por el art. 2.3 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332
 
 > Se modifica por la disposición final 2.3 del Real Decreto 567/2020, de 16 de junio. Ref. BOE-A-2020-7314

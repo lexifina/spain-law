@@ -9,12 +9,14 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 | MED-C101.Bases del comportamiento deportivo. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
 | MED-C102. Primeros auxilios. | Educación física Procesos sanitarios | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
 | Procedimientos sanitarios y asistenciales | ● Profesores Técnicos de Formación Profesional |
-| MED-C103. Actividad física adaptada y discapacidad. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
+| MED-C105. Actividad físico-deportiva para personas con discapacidad. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
 | MED-C104.Organización deportiva. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
 | Ciclo final | Especialidad | Cuerpo |
 | --- | --- | --- |
 | MED-C201. Bases del aprendizaje deportivo. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
 | MED-C202. Bases del entrenamiento deportivo. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
-| MED-C203. Deporte adaptado y discapacidad. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
+| MED-C206. Iniciación deportiva para personas con discapacidad. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
 | MED-C204.Organización y legislación deportiva. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesores de Enseñanza Secundaria |
 | MED-C205. Deporte y Género. | Educación física | ● Catedráticos de Enseñanza Secundaria ● Profesor de Enseñanza Secundaria |
+
+> Se modifica por el art. 1.4 y 5 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

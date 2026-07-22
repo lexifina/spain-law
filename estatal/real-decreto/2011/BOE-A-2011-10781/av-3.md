@@ -7,9 +7,9 @@ Espacios: Ciclo final
 | Espacio formativo | Superficie 30 alumnos | Superficie 20 alumnos | Módulo de enseñanza deportiva |
 | --- | --- | --- | --- |
 | Aula polivalente. | 60 m2 | 40 m2 | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
-| Gimnasio. | 120 m2 | 90 m2 | MED-C201. Bases del aprendizaje deportivo. MED-C202. Bases del entrenamiento deportivo. MED-C203. Deporte adaptado y discapacidad. MED-JUJU201: Formación y tecnificación en judo y defensa personal. MED-JUJU202: Judo adaptado. MED-JUJU203: Entrenamiento en judo y defensa personal. |
+| Gimnasio. | 120 m2 | 90 m2 | MED-C201. Bases del aprendizaje deportivo. MED-C202. Bases del entrenamiento deportivo. MED-C206: Iniciación deportiva para personas con discapacidad. MED-JUJU201: Formación y tecnificación en judo y defensa personal. MED-JUJU202: Judo adaptado. MED-JUJU203: Entrenamiento en judo y defensa personal. |
 | Sala de musculación. | 90 m2 | 60 m2 | MED-JUJU203: Entrenamiento en judo y defensa personal. |
-| Pista polideportiva 44 m×22 m. |  |  | MED-C201. Bases del aprendizaje deportivo. MED-C202. Bases del entrenamiento deportivo. MED-C203. Deporte adaptado y discapacidad. |
+| Pista polideportiva 44 m×22 m. |  |  | MED-C201. Bases del aprendizaje deportivo. MED-C202. Bases del entrenamiento deportivo. MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Espacio formativo | Módulo de enseñanza deportiva |
 | --- | --- |
 | Sala de judo. | MED-JUJU201. Formación y tecnificación en judo y defensa personal. MED-JUJU202: Judo adaptado. MED-JUJU203. Entrenamiento en judo y defensa personal. MED-JUJU204. Organización y gestión de las actividades de judo y defensa personal. MED-JUJU205. Defensa Personal. |
@@ -21,7 +21,7 @@ Equipamientos: Ciclo final
 | Equipos audiovisuales. Cañón de proyección. PCs instalados en red con conexión a Internet. Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
 | Equipamiento del gimnasio | Módulo de enseñanza deportiva |
 | --- | --- |
-| Material deportivo adaptado. Material ortopédico. | MED-C203. Deporte adaptado y discapacidad. |
+| Material deportivo adaptado. Material ortopédico. | MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Material deportivo. Muñecos desmembrados. Láminas de anatomía. Pulsímetros.. | MED-C202: Bases del entrenamiento deportivo. MED-JUJU201. Formación y tecnificación en.judo y defensa personal. MED-JUJU202: Judo adaptado. MED-JUJU203. Entrenamiento en judo y defensa personal. |
 | Equipamiento de la sala de judo. | Módulo de enseñanza deportiva |
 | --- | --- |
@@ -29,3 +29,5 @@ Equipamientos: Ciclo final
 | Equipamiento sala musculación. | Módulo de enseñanza deportiva |
 | --- | --- |
 | Maquinas de musculación. Peso libre, barras, mancuernas. Barra dominadas. | MED-JUJU203: Entrenamiento en judo y defensa personal. |
+
+> Se modifica por el art. 5.5 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

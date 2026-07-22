@@ -9,7 +9,7 @@ Ciclo inicial de grado medio en balonmano
 | Bloque común | Currículo básico |
 | MED-C101: Bases del comportamiento deportivo. | 8 h |
 | MED-C102: Primeros auxilios. | 12 h |
-| MED-C103: Actividad física adaptada y discapacidad. | 5 h |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | 5 h |
 | MED-C104: Organización deportiva. | 5 h |
 | Total. | 30 h |
 | Bloque específico | Currículo básico |
@@ -26,9 +26,9 @@ Ciclo final de grado medio en balonmano
 | --- | --- |
 | MED-C201: Bases del aprendizaje deportivo. | 25 h |
 | MED-C202: Bases del entrenamiento deportivo. | 30 h |
-| MED-C203: Deporte adaptado y discapacidad. | 10 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 h |
 | MED-C204: Organización y legislación deportiva. | 10 h |
-| MED-C205: Género y deporte. | 5 h |
+| MED-C205. Deporte y género. | 5 h |
 | Total. | 80 h |
 | Bloque específico | Currículo básico |
 | MED-BMBM201: Formación técnico-táctica individual en balonmano. | 25 h |
@@ -41,3 +41,5 @@ Ciclo final de grado medio en balonmano
 | MED- BMBM208: Formación práctica. | 100 h |
 | Total. | 220h |
 | Total currículo básico. | 300 h |
+
+> Se modifica por el art. 11.4 a 6 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

@@ -7,8 +7,8 @@ Espacios: ciclo final
 | Espacio formativo | Superficie 30 alumnos | Superficie 20 alumnos | Módulo de enseñanza deportiva |
 | --- | --- | --- | --- |
 | Aula polivalente. | 60 m2 | 40 m2 | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
-| Gimnasio. | 120 m2 | 90 m2 | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C203: Deporte adaptado y discapacidad. |
-| Pista polideportiva 44 m×22 m. |  |  | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C203: Deporte adaptado y discapacidad. |
+| Gimnasio. | 120 m2 | 90 m2 | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C206: Iniciación deportiva para personas con discapacidad. |
+| Pista polideportiva 44 m×22 m. |  |  | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Espacio formativo | Módulo de enseñanza deportiva |
 | --- | --- |
 | Piscina de 25 m.×1,80 m de profundidad. | MED-SSSS-201: Escuela de salvamento y socorrismo. MED-SSSS-202: Preparación física del socorrista. MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo. MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo. MED-SSSS-205: Espacios acuáticos y materiales. MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales. |
@@ -21,8 +21,10 @@ Equipamientos: ciclo final
 | Equipos audiovisuales. Cañón de proyección. PCs instalados en red con conexión a Internet. Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
 | Equipamiento del gimnasio. | Módulo de enseñanza deportiva. |
 | --- | --- |
-| Material deportivo adaptado. Material ortopédico. | MED-C203: Deporte adaptado y discapacidad. |
+| Material deportivo adaptado. Material ortopédico. | MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Material deportivo. Muñecos desmembrados. Láminas de anatomía. Pulsímetros. | MED-C202: Bases del entrenamiento deportivo. MED-SSSS-202: Preparación física del socorrista. |
 | Equipamiento de la piscina y del entorno natural. | Módulo de enseñanza deportiva. |
 | --- | --- |
 | Material de iniciación al salvamento y socorrismo. Material de rescate de salvamento y socorrismo. Material de comunicación. Embarcación de rescate. | MED-SSSS-201: Escuela de salvamento y socorrismo. MED-SSSS-202: Preparación física del socorrista. MED-SSSS-203: Perfeccionamiento técnico en salvamento y socorrismo. MED-SSSS-204: Organización de eventos de tecnificación en salvamento y socorrismo. MED-SSSS-205: Espacios acuáticos y materiales. MED-SSSS-206: Seguridad e intervención en Espacios Acuáticos Naturales. |
+
+> Se modifica por el art. 6.5 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

@@ -7,7 +7,7 @@ Ciclo inicial
 | Espacio formativo | Superficie – m2 30 alumnos | Superficie – m2 20 alumnos | Módulo de enseñanza deportiva |
 | --- | --- | --- | --- |
 | Aula polivalente. | 60 | 40 | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
-| Gimnasio. | 120 | 90 | MED-C101-.Bases del comportamiento deportivo. MED-C102- Primeros auxilios. MED-C103- Actividad física adaptada y discapacidad. |
+| Gimnasio. | 120 | 90 | MED-C101-.Bases del comportamiento deportivo. MED-C102- Primeros auxilios. MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 | Piscina. | 300 | 200 | MED-ASBD102- Entorno natural del buceo deportivo. MED-ASBD103- Organización de actividades de descubrimiento y conducción de buceo deportivo MED-ASBD104- Conducción subacuática. |
 | Espacio formativo | Módulo de enseñanza deportiva |
 | --- | --- |
@@ -17,10 +17,10 @@ Equipamientos: Ciclo inicial
 
 | Equipamiento del aula polivalente | Módulo de enseñanza deportiva |
 | --- | --- |
-| • Equipos audiovisuales. Cañón de proyección. • PCs instalados en red con conexión a Internet. • Software específico. | MED-C101- Bases del comportamiento deportivo. MED-C102- Primeros auxilios. MED-C103- Actividad física adaptada y discapacidad. MED-C104- Organización deportiva. MED-ASBD102- Entorno natural del buceo deportivo. MED-ASBD103- Organización de actividades de descubrimiento y conducción de buceo deportivo. MED-ASBD104- Conducción subacuática. |
+| • Equipos audiovisuales. Cañón de proyección. • PCs instalados en red con conexión a Internet. • Software específico. | MED-C101- Bases del comportamiento deportivo. MED-C102- Primeros auxilios. MED-C105: Actividad físico-deportiva para personas con discapacidad. MED-C104- Organización deportiva. MED-ASBD102- Entorno natural del buceo deportivo. MED-ASBD103- Organización de actividades de descubrimiento y conducción de buceo deportivo. MED-ASBD104- Conducción subacuática. |
 | Equipamiento del gimnasio | Módulo de enseñanza deportiva |
 | --- | --- |
-| • Maniquíes de primeros auxilios (adulto y bebe). • Material de inmovilización y movilización. • Material de cura. • Desfibrilador externo semiautomático. • Material deportivo adaptado. | MED-C102- Primeros auxilios. MED-C103- Actividad física adaptada y discapacidad. |
+| • Maniquíes de primeros auxilios (adulto y bebe). • Material de inmovilización y movilización. • Material de cura. • Desfibrilador externo semiautomático. • Material deportivo adaptado. | MED-C102- Primeros auxilios. MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 |  | Módulo de enseñanza deportiva |
 | --- | --- |
 | Equipamiento Aula Taller |  |
@@ -30,3 +30,5 @@ Equipamientos: Ciclo inicial
 | Almacén de equipos para el alquiler Estación de carga. Botellas de gases. Oxímetro. Manómetros. Botiquín. Herramientas adecuadas para el mantenimiento de los equipos. Repuestos de los elementos desgastables o que pueden perderse. |
 | Equipamiento embarcación para el transporte de buceadores |
 | Elementos de señalización y cabos de ascenso-descenso. Equipo de Comunicaciones. Botiquín de primeros auxilios. Equipo de administración de oxígeno normobárico. Elementos de seguridad para la estiba de los equipos. |
+
+> Se modifica por el art. 2.3 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

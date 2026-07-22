@@ -9,7 +9,7 @@ Ciclo inicial de Grado Medio en Buceo Deportivo con Escafandra Autónoma
 | Bloque común |  |
 | MED-C101: Bases del comportamiento Deportivo. | 10 |
 | MED-C102: Primeros auxilios. | 15 |
-| MED-C103: Actividad física adaptada y discapacidad. | 5 |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | 5 |
 | MED-C104: Organización deportiva. | 5 |
 | Total. | 35 |
 | Bloque específico |  |
@@ -27,9 +27,9 @@ Ciclo final de Grado Medio en Buceo Deportivo con Escafandra Autónoma Requisito
 | Bloque común |  |
 | MED-C201: Bases del aprendizaje deportivo. | 25 |
 | MED-C202: Bases del entrenamiento deportivo. | 35 |
-| MED-C203: Deporte adaptado y discapacidad. | 10 |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 |
 | MED-C204: Organización y legislación deportiva. | 10 |
-| MED-C205: Género y Deporte. | 5 |
+| MED-C205. Deporte y género. | 5 |
 | Total. | 85 |
 | Bloque específico |  |
 | MED-ASBD201- Escuela de buceo deportivo. | 15 |
@@ -41,3 +41,5 @@ Ciclo final de Grado Medio en Buceo Deportivo con Escafandra Autónoma Requisito
 | MED- ASBD207- Formación práctica. | 110 |
 | Total. | 240 |
 | Total enseñanzas mínimas. | 325 |
+
+> Se modifica por el art. 2.3 a 5 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

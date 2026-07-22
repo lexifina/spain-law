@@ -9,12 +9,14 @@ Serán impartidas por quienes posean la especialidad que a continuación se deta
 | MED-C101.Bases del comportamiento deportivo. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
 | MED-C102. Primeros auxilios. | Educación Física. Procesos sanitarios. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
 | Procedimientos sanitarios y asistenciales. | ● Profesores Técnicos de Formación Profesional. |
-| MED-C103. Actividad física adaptada y discapacidad. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
 | MED-C104.Organización deportiva. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
 | Ciclo final | Especialidad | Cuerpo |
 | --- | --- | --- |
 | MED-C201. Bases del aprendizaje deportivo. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
 | MED-C202. Bases del entrenamiento deportivo. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
-| MED-C203. Deporte adaptado y discapacidad. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
 | MED-C204.Organización y legislación deportiva. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
-| MED-C205. Género y deporte. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
+| MED-C205. Deporte y género. | Educación Física. | ● Catedrático de Enseñanza Secundaria. ● Profesor de Enseñanza Secundaria. |
+
+> Se modifica por el art. 11.4 a 6 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

@@ -11,14 +11,14 @@ Módulos del bloque común: Ciclo inicial y ciclos finales
 | Ciclo inicial |
 | MED-C101. Bases del comportamiento deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Psicología. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 | MED-C102 Primeros auxilios. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Medicina. Diplomado o Graduado en Enfermería. Diplomado o Graduado en Fisioterapia. |
-| MED-C103 Actividad física adaptada y discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 | MED-C104: Organización deportiva. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
 | Ciclo final |
 | MED-C201 Bases del aprendizaje deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Psicología. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 | MED-C202: Bases del entrenamiento deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
-| MED-C203: Deporte adaptado y discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
 | MED-C204: Organización y legislación deportiva. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Derecho. |
-| MED-C205 Género y Deporte. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C205. Deporte y género. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 
 Módulos del bloque específico: Ciclo inicial y ciclos finales
 
@@ -47,6 +47,8 @@ Módulos del bloque específico: Ciclo inicial y ciclos finales
 | MED-HITE213: Organización de itinerarios ecuestres. | Técnico Deportivo Superior en Hípica. Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre. |
 | MED-HITE214: Medio natural. | Técnico Deportivo Superior en Hípica. Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre. |
 | MED-HITE215: Formación práctica. | Técnico Deportivo Superior en Hípica. Técnico Deportivo en las Disciplinas Hípicas de Resistencia, Orientación y Turismo Ecuestre. |
+
+> Se modifica por el art. 3.5 a 7 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332
 
 > Se modifica por el art. 1.1 y 2 del Real Decreto 737/2015, de 31 de julio. Ref. BOE-A-2015-8645
 

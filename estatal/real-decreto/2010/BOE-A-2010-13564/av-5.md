@@ -7,8 +7,8 @@ Espacios: Ciclo final
 | Espacio formativo | Superficie m2 30 alumnos | Superficie m2 20 alumnos | Módulo de enseñanza deportiva |
 | --- | --- | --- | --- |
 | Aula polivalente. | 60 m2 | 40 m2 | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
-| Gimnasio. | 120 m2 | 90 m2 | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C203: Deporte adaptado y discapacidad. MED-VEVE204: Preparación física del regatista. |
-| Pista polideportiva 44 × 22 mts. |  |  | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C203: Deporte adaptado y discapacidad. |
+| Gimnasio. | 120 m2 | 90 m2 | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C206: Iniciación deportiva para personas con discapacidad. MED-VEVE204: Preparación física del regatista. |
+| Pista polideportiva 44 × 22 mts. |  |  | MED-C201: Bases del aprendizaje deportivo. MED-C202: Bases del entrenamiento deportivo. MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Espacio de formación | Módulo de enseñanza deportiva |
 | --- | --- |
 | Aula Taller. | MED-VEVE201: Escuela de vela. MED-VEVE202: Competiciones y eventos a vela. MED-VEVE203: Seguridad en la navegación a vela. MED-VEVE205: Vela adaptada. MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL. MED-VEAL210: Puesta a punto del material de AL. |
@@ -22,7 +22,7 @@ Equipamientos: Ciclo final de grado medio en vela con aparejo libre
 | Equipos audiovisuales. Cañón de proyección. PCs instalados en red con conexión a Internet. Software específico. | Todos los módulos de enseñanza deportiva de los bloques común y específico del ciclo final. |
 | Equipamiento del gimnasio | Módulo de enseñanza deportiva |
 | --- | --- |
-| Material deportivo adaptado. Material ortopédico. | MED-C203: Deporte adaptado y discapacidad. |
+| Material deportivo adaptado. Material ortopédico. | MED-C206: Iniciación deportiva para personas con discapacidad. |
 | Material deportivo. Muñecos desmembrados. Láminas de anatomía. Pulsímetros. | MED-C202: Bases del entrenamiento deportivo. MED-VEVE204: Preparación física del regatista. |
 | Equipamiento del aula taller | Módulo de enseñanza deportiva |
 | --- | --- |
@@ -30,3 +30,5 @@ Equipamientos: Ciclo final de grado medio en vela con aparejo libre
 | Equipamiento de la zona de varada y montaje y del área de navegación | Módulo de enseñanza deportiva |
 | --- | --- |
 | Embarcación de seguridad, GPS, amarras, boyas, cabos, fondeos. Remolques, bacas, estructuras metálicas. Barcos de tecnificación, aparejos, guías y reglamentos. Tablas de tecnificación, aparejos, guías y reglamento. Sistemas de almacenaje. | MED-VEVE201: Escuela de vela. MED-VEVE202: Competiciones y eventos a vela. MED-VEVE203: Seguridad en la navegación a vela. MED-VEVE205: Vela adaptada. MED-VEAL209: Perfeccionamiento técnico-táctico de la vela con AL. MED-VEAL210: Puesta a punto del material de AL. |
+
+> Se modifica por el art. 4.6 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

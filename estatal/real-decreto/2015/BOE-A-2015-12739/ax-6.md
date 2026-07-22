@@ -12,8 +12,8 @@ Ciclo inicial
 | --- | --- |
 | MED-C101.Bases del comportamiento deportivo. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Licenciado o Graduado en Psicología. • Maestro especialista en Educación Física. • Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 | MED-C102. Primeros auxilios. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Licenciado o Graduado en Medicina. • Diplomado o Graduado en Enfermería. • Diplomado o Graduado en Fisioterapia. |
-| MED-C103. Actividad física adaptada y discapacidad. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Maestro especialista en Educación Física. • Graduado en Educación Primaria mención Educación Física. |
 | MED-C104.Organización deportiva. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+| MED-C105. Actividad físico-deportiva para personas con discapacidad. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Maestro especialista en Educación Física. • Graduado en Educación Primaria mención Educación Física. |
 
 Ciclo final
 
@@ -21,9 +21,9 @@ Ciclo final
 | --- | --- |
 | MED-C201. Bases del aprendizaje deportivo. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Licenciado o Graduado en Psicología. • Maestro especialista en Educación Física. • Título de Graduado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
 | MED-C202. Bases del entrenamiento deportivo. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
-| MED-C203. Deporte adaptado y discapacidad. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
 | MED-C204.Organización y legislación deportiva. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Licenciado o Graduado en Derecho. |
-| MED-C205. Género y Deporte. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Maestro especialista en Educación Física. • Graduado en Educación Primaria mención Educación Física. |
+| MED-C205. Deporte y género. | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. • Maestro especialista en Educación Física. • Graduado en Educación Primaria mención Educación Física. |
+| MED-C206 Iniciación deportiva para personas con discapacidad | • Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
 
 Módulos del bloque específico: Ciclo inicial y final
 
@@ -42,3 +42,5 @@ Ciclos finales de grado medio en piragüismo de aguas bravas, en piragüismo de 
 | MED-PIAT209 Perfeccionamiento técnico en piragüismo de aguas tranquilas. MED-PIAT210 Entrenamiento en aguas tranquilas. MED-PIAT211 Manejo de embarcaciones de recreo. MED-PIAT212 Formación práctica. | • Técnico Deportivo Superior en Piragüismo de Aguas Tranquilas. |
 | MED-PIPR214 Perfeccionamiento técnico en kayak. | • Técnico Deportivo Superior en Piragüismo de Aguas Bravas. • Técnico Deportivo en Piragüismo Recreativo Guía en Aguas Bravas. |
 | MED-PIPR215 Perfeccionamiento técnico en balsa e hidrotrineo. MED-PIPR216 Expedición, logística y materiales. MED-PIPR217 Seguridad en itinerarios guiados. MED-PIPR218 Formación práctica. | • Técnico Deportivo en Piragüismo Recreativo Guía en Aguas Bravas. |
+
+> Se modifica por el art. 9.6 a 8 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

@@ -9,7 +9,7 @@ Ciclo inicial de grado medio en senderismo
 | Bloque común |  |
 | MED-C101: Bases del comportamiento deportivo. | 10 h |
 | MED-C102: Primeros auxilios. | 15 h |
-| MED-C103: Actividad física adaptada y discapacidad. | 5 h |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | 5 h |
 | MED-C104: Organización deportiva. | 5 h |
 | Total. | 35 h |
 | Bloque específico |  |
@@ -27,9 +27,9 @@ Ciclo final de grado medio en barrancos
 | Bloque común |  |
 | MED-C201: Bases del aprendizaje deportivo. | 25 h |
 | MED-C202: Bases del entrenamiento deportivo. | 35 h |
-| MED-C203: Deporte adaptado y discapacidad. | 10 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 h |
 | MED-C204: Organización y legislación deportiva. | 10 h |
-| MED-C205: Género y deporte. | 5 h |
+| MED-C205. Deporte y género. | 5 h |
 | Total. | 85 h |
 | Bloque específico |  |
 | MED-MOME202 Escuela de senderismo. | 25 h |
@@ -49,9 +49,9 @@ Ciclo final de grado medio en escalada
 | Bloque común |  |
 | MED-C201: Bases del aprendizaje deportivo. | 25 h |
 | MED-C202: Bases del entrenamiento deportivo. | 35 h |
-| MED-C203: Deporte adaptado y discapacidad. | 10 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 h |
 | MED-C204: Organización y legislación deportiva. | 10 h |
-| MED-C205: Género y deporte. | 5 h |
+| MED-C205. Deporte y género. | 5 h |
 | Total. | 85 h |
 | Bloque específico |  |
 | MED-MOME202 Escuela de senderismo. | 25 h |
@@ -71,9 +71,9 @@ Ciclo final de grado medio en media montaña
 | Bloque común |  |
 | MED-C201: Bases del aprendizaje deportivo. | 25 h |
 | MED-C202: Bases del entrenamiento deportivo. | 35 h |
-| MED-C203: Deporte adaptado y discapacidad. | 10 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 h |
 | MED-C204: Organización y legislación deportiva. | 10 h |
-| MED-C205: Género y deporte. | 5 h |
+| MED-C205. Deporte y género. | 5 h |
 | Total. | 85 h |
 | Bloque específico |  |
 | MED-MOME202 Escuela de senderismo. | 25 h |
@@ -84,5 +84,7 @@ Ciclo final de grado medio en media montaña
 | MED-MOME217 Formación práctica. | 110 h |
 | Total. | 265 h |
 | Total del currículo básico. | 350 |
+
+> Se modifica por el art. 10.6 a 8 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332
 
 > Redactado conforme a la corrección de errores publicada en BOE núm. 235, de 2 de septiembre de 2010. Ref. BOE-A-2020-10126

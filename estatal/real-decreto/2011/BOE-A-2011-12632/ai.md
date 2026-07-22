@@ -9,7 +9,7 @@ Ciclo inicial de Grado Medio en Salvamento y Socorrismo
 | Bloque común |  |
 | MED-C101: Bases del comportamiento deportivo. | 10 h |
 | MED-C102: Primeros auxilios. | 15 h |
-| MED-C103: Actividad física adaptada y discapacidad. | 5 h |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | 5 h |
 | MED-C104: Organización deportiva. | 5 h |
 | Total. | 35 h |
 | Bloque específico |  |
@@ -28,9 +28,9 @@ Ciclo final de Grado Medio en Salvamento y Socorrismo
 | Bloque común |  |
 | MED-C201: Bases del aprendizaje deportivo. | 25 h |
 | MED-C202: Bases del entrenamiento deportivo. | 35 h |
-| MED-C203: Deporte adaptado y discapacidad. | 10 h |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | 10 h |
 | MED-C204: Organización y legislación deportiva. | 10 h |
-| MED-C205: Género y Deporte. | 5 h |
+| MED-C205. Deporte y género. | 5 h |
 | Total. | 85 h |
 | Bloque específico |  |
 | MED-SSSS-201: Escuela de salvamento y socorrismo. | 25 h |
@@ -42,3 +42,5 @@ Ciclo final de Grado Medio en Salvamento y Socorrismo
 | MED-SSSS-207: Formación Práctica. | 110 h |
 | Total. | 275 h |
 | Total Enseñanzas mínimas. | 360 h |
+
+> Se modifica por el art. 6.4 a 6 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332

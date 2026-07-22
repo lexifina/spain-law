@@ -7,7 +7,7 @@ Espacios: ciclo inicial
 | Espacio formativo | Superficie m2 30 alumnos | Superficie m2 20 alumnos | Módulo de enseñanza deportiva |
 | --- | --- | --- | --- |
 | Aula polivalente. | 60 m2 | 40 m2 | Módulos de enseñanza deportiva de los bloques común y específico del ciclo inicial. |
-| Gimnasio. | 120 m2 | 90 m2 | MED-C101.Bases del comportamiento deportivo. MED-C102. Primeros auxilios. MED-C103. Actividad física adaptada y discapacidad. |
+| Gimnasio. | 120 m2 | 90 m2 | MED-C101.Bases del comportamiento deportivo. MED-C102. Primeros auxilios. MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 | Pista polideportiva 44 × 22 mts. |  |  | MED-MOSE104 Tiempo libre. |
 | Espacio formativo | Módulo de enseñanza deportiva |
 | --- | --- |
@@ -21,10 +21,12 @@ Equipamientos: ciclo inicial
 | Equipamiento del gimnasio | Módulo de enseñanza deportiva |
 | --- | --- |
 | • Maniquíes de primeros auxilios (adulto y bebe). • Material de inmovilización y movilización. • Material de cura. • Desfibrilador externo semiautomático. | MED-C102. Primeros auxilios. |
-| • Material deportivo adaptado. | MED-C103. Actividad física adaptada y discapacidad. |
+| • Material deportivo adaptado. | MED-C105: Actividad físico-deportiva para personas con discapacidad. |
 | Equipamiento de la pista polideportiva | Módulo de enseñanza deportiva |
 | --- | --- |
 | • Material de juegos tradicionales. • Material de actividades recreativas. | MED-MOSE104 Tiempo libre. |
 | Equipamiento de los módulos del bloque específico | Módulo de enseñanza deportiva |
 | --- | --- |
 | • Balizas móviles de orientación. • Brújulas de plano con limbo móvil. • Aparatos de GPS. • Programa oficial de trabajo de rutas de GPS en ordenadores. | MED-MOSE102 Conducción en senderos. MED-MOSE103 Medio físico y humano de la baja montaña. MED-MOSE104 Tiempo libre. |
+
+> Se modifica por el art. 10.6 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332
