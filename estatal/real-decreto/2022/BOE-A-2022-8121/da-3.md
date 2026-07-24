@@ -1,5 +1,7 @@
 ## Disposición adicional tercera. Funciones de inspección de la Corporación de Reservas Estratégicas de Productos Petrolíferos.
 
-1. Se incluyen entre las funciones de la Corporación de Reservas Estratégicas de Productos Petrolíferos, las previstas en el artículo 14 de la Orden ITC/2877/2008, de 9 de octubre, y en el artículo 15 de este real decreto, que serán financiadas mediante la cuota a que se refiere el artículo 25.1 del Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la corporación de reservas estratégicas de productos petrolíferos.
+(Suprimida)
 
-2. Por orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico se podrá poner fin a las actuaciones de la citada Corporación en relación con las funciones anteriormente descritas, pudiendo designar, en su caso, a una nueva entidad responsable en base a criterios de transparencia, igualdad, independencia y eficiencia.
+> Se suprime por la disposición final 3.10 del Real Decreto 611/2026, de 22 de julio. Ref. BOE-A-2026-16011#df-3
+
+> Téngase en cuenta que la disposición final 3 del Real Decreto-ley 21/2026, de 25 de agosto, Ref. BOE-A-2026-18148#df-3, estableció la entrada en vigor de esta modificación el 24 de julio de 2026, si bien dicha previsión fue derogada por el Acuerdo del Congreso de los Diputados, publicado por Resolución de 16 de septiembre de 2026. Ref. BOE-A-2026-19419, y posteriormente el art. 12 del Real Decreto-ley 25/2026, de 29 de septiembre, vuelve a establecer la entrada en vigor el 24 de julio de 2026. Ref. BOE-A-2026-20265#a1-4

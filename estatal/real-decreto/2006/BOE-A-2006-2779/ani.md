@@ -44,7 +44,7 @@
 | Estabilidad a la oxidación | minutos | 360 | - | EN ISO 7536 | D 525 | UNE-EN ISO 7536 |
 | Contenido de gomas actuales (lavadas) | mg/100ml | - | 5 | EN ISO 6246 | D 381 | UNE-EN ISO 6246 |
 | Aspecto |  | Claro y brillante |  |  |  |
-| Aditivos y agentes trazadores | Regulados por la Orden PRE/1724/2002, de 5 de julio, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, modificada por la Orden PRE/3493/2004, de 22 de octubre. |
+| Aditivos y agentes trazadores | Regulados por la Orden PJC/1318/2023, de 7 de diciembre, por la que se aprueban los trazadores y marcadores que deben incorporarse a determinados hidrocarburos para la aplicación de los tipos reducidos establecidos en la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales. |
 
 Notas:
 
@@ -75,5 +75,9 @@ Los métodos de ensayo a aplicar serán los correspondientes a la última versi�
 (11) Se deberán calcular disminuyendo en dos décimas para poder ser comparados con los límites mínimos establecidos, salvo que se utilicen las normas D 2699:1986 y D 2700:1986.
 
 (*) Valores provisionales hasta aprobación de la revisión de la norma EN 228.
+
+> Se modifica por la disposición final 4.6 del Real Decreto 611/2026, de 22 de julio. Ref. BOE-A-2026-16011#df-4
+
+> Téngase en cuenta que la disposición final 3 del Real Decreto-ley 21/2026, de 25 de agosto, Ref. BOE-A-2026-18148#df-3, estableció la entrada en vigor de esta modificación el 24 de julio de 2026, si bien dicha previsión fue derogada por el Acuerdo del Congreso de los Diputados, publicado por Resolución de 16 de septiembre de 2026. Ref. BOE-A-2026-19419, y posteriormente el art. 12 del Real Decreto-ley 25/2026, de 29 de septiembre, vuelve a establecer la entrada en vigor el 24 de julio de 2026. Ref. BOE-A-2026-20265#a1-4
 
 > Se modifica por el art. único.9 del Real Decreto 1088/2010, de 3 de septiembre. Ref. BOE-A-2010-13704.

@@ -1,3 +1,7 @@
 ## TÍTULO I
 
-## Sostenibilidad y reducción de las emisiones de gases de efecto invernadero de los biocarburantes, biolíquidos, combustibles de biomasa y carburantes líquidos y gaseosos renovables de origen no biológico, y eficiencia energética de las instalaciones eléctricas
+## Sostenibilidad y reducción de las emisiones de gases de efecto invernadero de los biocarburantes, biolíquidos y combustibles de biomasa, y eficiencia energética de las instalaciones eléctricas.
+
+> Se modifica el título por la disposición final 3.3 del Real Decreto 611/2026, de 22 de julio. Ref. BOE-A-2026-16011#df-3
+
+> Téngase en cuenta que la disposición final 3 del Real Decreto-ley 21/2026, de 25 de agosto, Ref. BOE-A-2026-18148#df-3, estableció la entrada en vigor de esta modificación el 24 de julio de 2026, si bien dicha previsión fue derogada por el Acuerdo del Congreso de los Diputados, publicado por Resolución de 16 de septiembre de 2026. Ref. BOE-A-2026-19419, y posteriormente el art. 12 del Real Decreto-ley 25/2026, de 29 de septiembre, vuelve a establecer la entrada en vigor el 24 de julio de 2026. Ref. BOE-A-2026-20265#a1-4

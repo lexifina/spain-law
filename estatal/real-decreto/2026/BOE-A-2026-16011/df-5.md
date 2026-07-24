@@ -1,0 +1,9 @@
+## Disposición final quinta. Modificación del Estatuto regulador de las actividades de distribución al por mayor y de distribución al por menor mediante suministros directos a instalaciones fijas, de carburantes y combustibles petrolíferos, aprobado por Real Decreto 2487/1994, de 23 de diciembre.
+
+Se modifica el artículo 10 del Estatuto regulador de las actividades de distribución al por mayor y de distribución al por menor mediante suministros directos a instalaciones fijas, de carburantes y combustibles petrolíferos, que queda redactado como sigue:
+
+> «1. Las entidades que realicen actividades de distribución al por mayor de carburantes y combustibles petrolíferos deberán revestir la forma de sociedades mercantiles de nacionalidad española, o, en su caso, de otro Estado miembro de la Unión Europea. Para acreditar su capacidad legal deberán hallarse al día en el cumplimiento de sus obligaciones fiscales y, en su caso, de Seguridad Social.
+
+> 2. Se considerará suficientemente acreditada la capacidad financiera cuando el operador disponga de unos recursos propios afectos a la actividad de distribución mayorista de, al menos, tres millones de euros. En el caso de una sociedad de nueva constitución los recursos propios deberán estar íntegramente desembolsados al tiempo de la comunicación.
+
+> 3. Se considerará suficientemente acreditada la capacidad técnica cuando, además de la suficiencia de los medios técnicos disponibles, el operador cuente con experiencia en la actividad de distribución de productos petrolíferos. Asimismo, se considerará acreditado el mantenimiento de esta capacidad cuando el operador cumpla con todas y cada una de sus obligaciones sectoriales, entre otras, los objetivos vigentes para la descarbonización del sector transporte, la reducción de emisiones, el fomento de la eficiencia energética y el impulso de biocarburantes y otros combustibles renovables.»
