@@ -46,61 +46,37 @@ I. Priorización de las operaciones que se orienten a la comercialización en un
 
 Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos de comercialización:
 
-(a) la construcción, adquisición o mejora de bienes inmuebles.
+a) La construcción, adquisición o mejora de bienes inmuebles.
 
-– Establecimientos de presentación y venta: adquisición / construcción / renovación / modernización de la infraestructura de venta e instalaciones de presentación,
+1.º Establecimientos de presentación y venta: adquisición/construcción/renovación/modernización de la infraestructura de venta e instalaciones de presentación:
 
-a.1 siempre que el establecimiento no compagine su actividad con el enoturismo:
+– Vinotecas.
 
-• Vinotecas.
+– Salas de exhibición (exposición y cata de productos vitivinícolas) y venta de productos vitivinícolas.
 
-• Salas de exhibición (exposición de productos vitivinícolas).
+– Punto fijo de venta (al por menor) fuera de las instalaciones de la empresa, en el territorio nacional y en otros Estados miembros de la Unión Europea.
 
-a.2 siempre que la actividad de venta se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013:
+– Punto de venta en las instalaciones de la empresa (pero fuera de las unidades de producción) (puntos de venta directa).
 
-• Salas de venta.
+2.º Almacenes, centros logísticos y oficinas comerciales: establecimiento de almacenes, centros logísticos u oficinas comerciales siempre que la actividad de venta se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013:
 
-• Punto fijo de venta (al por menor) fuera de las instalaciones de la empresa, en el territorio nacional y en otros Estados miembros de la Unión Europea
+– Adquisición.
 
-• Punto de venta en las instalaciones de la empresa (pero fuera de las unidades de producción) (puntos de venta directa).
+– Construcción.
 
-– Almacenes, centros logísticos y oficinas comerciales: establecimiento de almacenes, centros logísticos u oficinas comerciales siempre que la actividad de venta se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
+– Acondicionamiento de edificios.
 
-• Adquisición.
+b) La compra de nueva maquinaria y equipos, incluidos los programas informáticos:
 
-• Construcción.
+1.º Maquinaria y equipos para los establecimientos de presentación y venta: maquinaria y equipos para las infraestructuras de venta e instalaciones de presentación, siempre que la actividad de venta se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013:
 
-• Acondicionamiento de edificios.
+– Vinotecas.
 
-(b) la compra de nueva maquinaria y equipos, incluidos los programas informáticos.
+– Salas de exhibición (exposición y cata de productos vitivinícolas) y de venta de productos vitivinícolas.
 
-– Maquinaria y equipos para los establecimientos de presentación y venta: maquinaria y equipos para las infraestructuras de venta e instalaciones de presentación, siempre que la actividad de venta se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) y no se compagine su empleo con actividades de enoturismo:
+– Punto fijo de venta (al por menor) fuera de las instalaciones de la empresa, en el territorio nacional y en otros Estados miembros de la Unión Europea.
 
-• Vinotecas.
-
-• Salas de exhibición (exposición de productos vitivinícolas).
-
-• Salas de venta.
-
-• Punto fijo de venta (al por menor) fuera de las instalaciones de la empresa, en el territorio nacional y en otros Estados miembros de la Unión Europea.
-
-• Punto de venta en las instalaciones de la empresa (pero fuera de las unidades de producción) (puntos de venta directa).
-
-– Almacenes, centros de logística y oficinas comerciales: establecimiento de almacenes, centros logísticos u oficinas comerciales siempre que la actividad de venta se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013:
-
-• Maquinaria y equipos.
-
-• Instalaciones tecnológicas.
-
-• Software.
-
-– Equipos para la logística y la comercialización del vino y siempre que la actividad de venta se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013:
-
-• Creación, desarrollo o adaptación de plataformas logísticas, para racionalizar y mejorar la organización de la cadena de transporte en el mercado nacional e internacional.
-
-• Máquinas, instalaciones tecnológicas o equipos que incluyan software para ser utilizado en el marco de la distribución, logística o comercialización de los productos.
-
-• Hardware, software, plataformas web para comercio electrónico y siempre que éste se limite a los productos contemplados en el anexo VII parte II del Reglamento (UE) 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
+– Punto de venta en las instalaciones de la empresa (pero fuera de las unidades de producción) (puntos de venta directa).
 
 c) registro de marcas colectivas
 
@@ -189,6 +165,8 @@ Se entenderán incluidos exclusivamente los siguientes conceptos a los efectos d
 – Soluciones de negocio interempresa.
 
 4. Robótica, sensórica y sistemas embebidos.
+
+> Se modifican los letras a) y b) del apartado I por el art. 3.25 del Real Decreto 610/2026, de 22 de julio. Ref. BOE-A-2026-16094
 
 > Se modifica el pie de página(3) referenciado en la tabla de priorización de operaciones por el art. 5.10 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308
 

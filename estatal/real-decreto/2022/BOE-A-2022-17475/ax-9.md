@@ -4,50 +4,64 @@
 
 Información mínima del informe anual de aplicación de la Cosecha en verde
 
-Comunicación de acuerdo con el artículo 43
+(Comunicación de acuerdo con el artículo 43)
 
-COMUNIDAD AUTÓNOMA: FECHA DE COMUNICACIÓN:
+Comunidad Autónoma:
 
-DATOS GENERALES:
+Fecha de comunicación:
 
-DNI DEL BENEFICIARIO:
+INFORMACIÓN DEL BENEFICIARIO.
 
-Cumple criterio de prioridad joven viticultor:
+DNI/NIF/NIE del beneficiario:
 
-Cumple criterio de tener la explotación en titularidad compartida:
+Persona física/jurídica:
 
-Cumple criterio adicional categoría beneficiario:
+Edad no superior a 40 años (Joven).
 
-ID DE LA PARCELA:
+Explotación agraria en titularidad compartida.
 
-Cumple criterio de parcela en DOP/IGP:
+INFORMACIÓN DE LA PARCELA.
 
-Cumple criterio tipo de uva:
+Id de la parcela:
 
-Cumple criterio variedad de uva:
+Año de la cosecha en verde:
 
-Cumple criterio superficie de parcela:
+Se destinó la producción en la campaña anterior a DOP/IPG/ninguna:
 
-Cumple criterio método de eliminación:
+Nombre DOP/IGP a la que haya destinado la producción de la parcela en la campaña anterior:
 
-Cumple criterio adicional categoría parcela:
+Tipo de uva:
 
-INFORMACIÓN PAGOS:
+Variedad de uva:
 
-Forma de pago elegida por la comunidad autónoma:
+Sistema de conducción:
+
+Método de eliminación (manual/mecánico):
+
+Hl retirados:
+
+INFORMACIÓN PRESUPUESTO EJECUTADO.
+
+Forma de pago elegida por la Comunidad Autónoma:
 
 Total euros pagados para esa operación (A+B):
 
-A= compensación por pérdida de ingresos CPI:
+A = compensación por pérdida de ingresos CPI:
 
-B= compensación por los costes incurridos CCI (incluye las contribuciones en especie):
+B = compensación por los costes incurridos CCI (incluye las contribuciones en especie):
 
 Contribuciones en especie:
 
-INFORMACIÓN SUPERFICIE:
+Se ha percibido ayuda cosecha en verde en el ejercicio anterior:
 
-Superficie objeto de ayuda, calculada según artículo 2 apartado 37 del presente real decreto:
+Gasto de la operación del beneficiario (€):
 
-% Superficie ejecutada respecto de la aprobada:
+INFORMACIÓN SUPERFICIE EJECUTADA.
 
-Penalización por superficie:
+Superficie aprobada (ha):
+
+Superficie objeto de ayuda (ha):
+
+Superficie objeto de ayuda respecto de la superficie aprobada (%):
+
+> Se modifica por el art. 3.26 del Real Decreto 610/2026, de 22 de julio. Ref. BOE-A-2026-16094

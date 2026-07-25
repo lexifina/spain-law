@@ -72,7 +72,7 @@ c) Que ostente facultades de administración o representación sobre la empresa 
 
 24. Rótulos o indicadores en vías públicas u otros espacios públicos o privados que no se encuentren en el establecimiento, tienda, instalación, finca o recinto del solicitante.
 
-25. Inversiones en enoturismo.
+25. Inversiones vinculadas con el enoturismo cuyo fin sea distinto a la presentación, exposición y venta al por menor de productos vitivinícolas.
 
 26. Gastos de asesoramiento o elaboración de la solicitud de ayuda.
 
@@ -82,7 +82,7 @@ c) Que ostente facultades de administración o representación sobre la empresa 
 
 a) El específico para laboratorios.
 
-b) El correspondiente a zonas de cata y exposición de productos, excepto cuando en ese establecimiento se desarrollen actividades de enoturismo.
+b) El correspondiente a salas de exhibición (exposición y cata de productos vitivinícolas) y venta de productos vitivinícolas.
 
 29. Los gastos relativos a la promoción (estands, conferencias, folletos, catálogos, publicidad, etc.
 
@@ -97,5 +97,7 @@ b) El correspondiente a zonas de cata y exposición de productos, excepto cuando
 34. Trabajos e instalaciones necesarios para llevar servicios de suministros (por ejemplo, agua, luz, gas…) al establecimiento desde un punto externo al mismo.
 
 35. Elevadores.
+
+> Se modifican los puntos 25 y 28.b) por el art. 3.23 y 24 del Real Decreto 610/2026, de 22 de julio. Ref. BOE-A-2026-16094
 
 > Se modifica el punto 34 por la disposición final 5.17 del Real Decreto 683/2025, de 29 de julio. Ref. BOE-A-2025-15746

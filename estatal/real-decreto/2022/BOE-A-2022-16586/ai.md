@@ -49,7 +49,7 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.2.4 Otros medios de producción. |  |  |
 | – GPS, Medios informáticos, robóticos, de inteligencia artificial, cámaras digitales, drones, tensiómetros, sensores de humedad, sondas de humedad y otros medios digitales o de agricultura de Precisión, etc. – Instrumentos de medida, conductímetro, penetrómetro, sensores de humedad, – calibradores. – Sistema de análisis y control de la producción. – Mediciones topográficas, barrena. – Protectores de árboles, macetas, cestas de recolección, palets, carros y bandejas, báscula, tijeras de poda, mesa de corte, elementos de aislamiento térmico y humedad para árboles, malla antigranizo. – Equipos de blanqueo y lavado. – Estación de monitoreo. – Línea de manipulación en campo. – Equipo de separación para siembra. – Malla de radiación. – Elementos de entutorado de la plantación, etc. – Insectarios: construcción y equipamiento de edificios e instalaciones para la cría y aclimatación de especies de enemigos naturales de las plagas (parasitoides, depredadores o patógenos). | El GPS quedará identificado por el número de bastidor y matrícula de la maquinaria en que se instale, en su caso. |
 | A.3 Ajuste de la oferta a la demanda. |  |
-| A.3.1 Arranque de plantaciones de cultivos leñosos. | - Únicamente se podrán arrancar variedades que presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. El arranque deberá notificarse al Sistema Español de Inventario para poder hacer un seguimiento de las emisiones. - Se limitará anualmente al 10 % de la superficie de la organización de productores para la variedad en cuestión. No obstante, dicho porcentaje podrá aumentarse hasta el 25 % si el arranque va acompañado de una reconversión varietal siempre que con la misma no se produzcan incrementos productivos y se realice hacia variedades que no presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. - El gasto anual con cargo al programa operativo estará limitado a 4.750 €/hectárea. |
+| A.3.1 Arranque de plantaciones de cultivos leñosos. | – Únicamente se podrán arrancar variedades que presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. – Se limitará anualmente al 10 % de la superficie de la organización de productores para la variedad en cuestión. No obstante, dicho porcentaje podrá aumentarse hasta el 25 % si el arranque va acompañado de una reconversión varietal siempre que con la misma no se produzcan incrementos productivos y se realice hacia variedades que no presenten problemas de comercialización en el mercado, lo que se deberá justificar debidamente a juicio de la autoridad competente. – El gasto anual con cargo al programa operativo estará limitado a 4.750 euros/hectárea. |
 | A.4 Medidas dirigidas a mejorar la comercialización. |  |
 | A.4.1 Obra civil dirigida a mejorar la comercialización. |  |
 | – Adquisición/construcción de naves, construcción de centrales hortofrutícolas, construcción de centros logísticos y de comercialización, industrias de transformación, acondicionamiento y cubierta de espacios para recepción o expedición de productos hortofrutícolas, ampliaciones de centros de transformación, construcción de muelles de recepción y expedición, aislamientos naves, acondicionamientos de espacios para cámaras frigoríficas, acondicionamiento de suelos; mejora, ampliaciones, acondicionamiento y reforma de los elementos anteriores, así como sus proyectos de ejecución, incluidos los gastos de honorarios de proyecto, vías de acceso a las centrales hortofrutícolas, Sistema de recogida de aguas pluviales etc. | – No será subvencionable la construcción o reforma de dependencias como aseos, comedores, oficinas, salas de reuniones, etc. de forma aislada. – Las vías de acceso se dimensionarán en función del tráfico que vaya a soportar derivado de la actividad de la OP. – Se deberá disponer de licencia de obra. |
@@ -100,10 +100,10 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.i.6 Cubiertas vegetales sembradas en cultivos leñosos. |  |
 | A.i.7 Siega e incorporación al terreno de cubiertas vegetales espontáneas que simultáneamente ofrece los beneficios de no utilización de herbicidas químicos, incremento del contenido de materia orgánica del suelo, protección contra la erosión, refugio de fauna útil, etc. |  |
 | A.i.8 Polímeros y mejorantes del suelo |  |
-| A.i.9 Utilización de ácidos húmicos y fúlvicos para mejorar la materia orgánica del suelo. |  |
+| A.i.9 Utilización de ácidos húmicos para mejorar la absorción de nutrientes o su aprovechamiento. |  |
 | A.i.10 Coste específico de abonos orgánicos y bioestimulantes |  |
 | A.i.11 Enmiendas orgánicas previas a la implantación de cultivos plurianuales |  |
-| A.i.12 Uso de microalgas como mejorantes del suelo y mejorantes del enraizamiento. |  |
+| A.i.12 Uso de microalgas. |  |
 | A.i.13 (Suprimido) |  |
 | A.i.14 Coste específico de la asociación de cultivos para la activación de microorganismos del suelo la fertilización natural del cultivo, movilización de nutrientes, mejora de la estructura del suelo y favorecer la retención de agua: Pimiento+Judía; Melón+Judía; Brócoli+Haba |  |
 | A.i.15 (Suprimido) |
@@ -147,14 +147,14 @@ Tipo de intervención 1.a) Inversiones en activos materiales e inmateriales, inv
 | A.vii.1 Mejora de la eficiencia de filtros y equipos similares para la reducción de emisiones de polvo y otras partículas |  |
 | A.vii.2 Utilización en la explotación de elementos de entutorado biodegradables. | Los materiales empleados serán biodegradables y compostables, para lo cual deberán estar certificados según la norma UNE-EN 13432:2002. |
 | A.vii.3 Utilización en la explotación de plásticos biodegradables y compostables | Para poder ser considerados como bio degradables en suelo deben cumplir la norma UNE-EN 17033:2018. Para considerarse compostables deben cumplir la norma UNE-EN 13432:2002. |
-| A.vii.4 Utilización en la explotación de otros materiales biodegradables, incluido el papel como material biodegradable o reciclable en substitución del plástico. | Los materiales deben estar certificados según la norma UNE-EN 17033:2018. |
+| A.vii.4 Utilización en la explotación de otros materiales biodegradables o compostables en substitución de materiales plásticos convencionales. | En caso de utilización de materiales de acolchado biodegradables, deberán estar certificados según la norma UNE-EN 17033:2018. En caso de utilización de materiales compostables, deberán estar certificados según la norma UNE EN 13432:2002. |
 | A.vii.5 Valorización, tratamiento y recuperación de residuos generados en las fases de producción, transformación, acondicionamiento del producto para su expedición o comercialización |  |
 | A.vii.6 Instalación de plantas de compostaje, mejora de almacenamiento de residuos orgánicos, etc |  |
 | A.vii.7 Desbrozadora, picadora, trituradora, sistema de recuperación de caldos, contenedores de residuos orgánicos, alineadora de poda, trommels) |  |
 | A.vii.8 Obtención de biogás a partir de residuos derivados de la producción, manipulación y transformación de frutas y hortalizas |  |
 | A.vii.9 Reducción de emisiones de contaminación acústica |  |
 | A.vii.10 Substitución de gases refrigerantes con mayor impacto para el medioambiente |  |
-| A.vii.11 Aplicación de abonado ambiental en invernaderos con CO2 |  |
+| A.vii.11 Aplicación de CO2 en invernadero. |  |
 | A.vii.12 Briquetadora para la compactación de pieles de ajo, rentabilizando la eliminación de residuos y abriendo posibilidades de reaprovechamiento. (fase de confección del ajo) |  |
 | A.vii.13 Empacadora del resto de cosecha del cultivo del ajo (fase de producción) |  |
 | viii) mejorar la resistencia a las plagas, reducción de riesgos y consecuencias de la utilización de plaguicidas |  |
@@ -408,6 +408,8 @@ Podrá incluir actuaciones realizadas como consecuencia de:
 – Precios anormalmente bajos en momentos puntuales que puedan afectar al comportamiento de la campaña.
 
 – Otras motivaciones, como la disminución coyuntural del consumo debido a condiciones climáticas desfavorables
+
+> Se modifican las actuaciones A.3.1, A.i.9, A.i.12, A.vii.4, y A.vii.11 de la tabla del Tipo de intervención 1.a) por el art. 2.6 del Real Decreto 610/2026, de 22 de julio. Ref. BOE-A-2026-16094
 
 > Se modifica por el art. 2.5 del Real Decreto 916/2025, de 14 de octubre. Ref. BOE-A-2025-20583
 

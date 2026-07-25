@@ -10,81 +10,95 @@ Comunidad Autónoma:
 
 Fecha de comunicación:
 
-DATOS GENERALES:
+INFORMACIÓN SOBRE EL BENEFICIARIO.
 
-DNI del beneficiario:
+DNI/NIE del beneficiario:
 
-ID de la operación:
+Persona física/jurídica:
 
-Cumple criterio de prioridad joven:
+Explotación agraria en titularidad compartida:
 
-Cumple criterio de prioridad agricultura ecológica:
+Edad no superior a 40 años (joven):
 
-Cumple criterio de prioridad agricultura integrada:
+Inscrito en el registro de operadores de producción ecológica en el cultivo del viñedo:
 
-Criterio de prioridad gestión mediante ATRIA u entidad equivalente, según lo especificado en el artículo 9.1.c):
+Inscrito en el registro de operadores de producción integrada en el cultivo del viñedo:
 
-Cumple criterio de prioridad de tener seguro agrario:
+Titular de viñedo que esté integrado en una ATRIA u entidad equivalente:
+
+Que en año natural inmediatamente anterior a la solicitud de ayuda haya contratado un seguro agrario en su explotación para el cultivo del viñedo:
+
+INFORMACIÓN SOBRE LA SUPERFICIE A REESTRUCTURAR.
+
+Id de la superficie:
+
+Es DOP:
+
+Nombre de la DOP:
+
+Nombre de la variedad:
+
+Nombre del sistema de conducción:
+
+Es secano o regadío:
+
+Tipo de sistema de riego:
+
+INFORMACIÓN BÁSICA SOBRE LA OPERACIÓN EJECUTADA.
 
 Operación anual o bienal:
 
-Variedad reimplantada / sobreinjertada o injertada sobre pie franco / o variedad existente en la explotación objeto de MTG (mejora de técnicas de gestión):
+Es una replantación con o sin sistema de conducción:
 
-DOP/IGP:
+Es una reconversión de viñedos por cambios de variedad: sobreinjertado:
 
-Se trata de una replantación y se disminuye la densidad de plantación:
+Es una mejora de técnicas de gestión:
+
+Es una replantación tras arranque por motivos sanitarios o fitosanitarios por la autoridad competente:
+
+Con cambio de variedad:
+
+Variedad utilizada en la operación:
+
+Con variedades incluidas en DOP/IGP:
+
+Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial:
+
+Con replantación sin sistema de conducción:
+
+Con instalación de un sistema de conducción sostenible:
+
+Tipo de sistema de conducción utilizado en la operación:
+
+Con cambio de densidad:
+
+Que implique una disminución de la densidad, de al menos un 10 %:
 
 Densidad inicial cuando se cumpla la característica de disminución de densidad en una replantación:
 
 Densidad final cuando se cumpla la característica de disminución de densidad en una replantación:
 
-Porcentaje de reducción de la densidad de plantación:
+Que transforme a secano o se mantenga la superficie del viñedo en secano:
 
-Se produce un cambio de regadío a secano o mantenimiento del secano:
+Con abancalamiento:
 
-Pendientes mayores 40 %:
+Con un cambio de ubicación a zonas más adecuadas edafoclimáticamente para la adaptación de las variedades al cambio climático:
 
-Operaciones ejecutadas:
+Con cambio de ubicación a zonas de montaña:
 
-Replantación con o sin sistema de conducción:
+Con una reubicación de uno o más viñedos arrancados con el objeto de unificarlos en una misma parcela vitícola que faciliten las operaciones de laboreo y recolección:
 
-Con variedades incluidas en una DOP/IGP.
+MTG utilizado (cambio del sistema de conducción/otro):
 
-Que implique una disminución de la densidad, de al menos un 10 % mediante la modificación del marco de plantación, respecto de la plantación anterior.
+Otro MTG utilizado:
 
-Que implique un cambio a secano o que se mantenga la superficie del viñedo en secano.
+Organismo nocivo origen del arranque obligatorio:
 
-Que se realice un abancalamiento.
+Con pendientes pronunciadas y terrazas en zonas en las que la inclinación sea superior al 40 %:
 
-Que se incluya la instalación de un sistema de conducción sostenible.
+¿Contabiliza para el gasto de medio ambiente?:
 
-Que se realice un cambio de ubicación a zonas óptimas edafoclimáticamente para la adaptación al cambio climático.
-
-Que se realice un cambio de ubicación a zonas de montaña.
-
-Que se realice con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial. Las comunidades autónomas establecerán en su respectiva normativa las variedades incluidas en este tipo de operación.
-
-Que implique una reubicación de uno o más viñedos arrancados con el objeto de unificarlos en una misma parcela vitícola que faciliten las operaciones de laboreo y recolección.
-
-La operación cumple con las características de una operación de reconversión de viñedos por cambios de variedad: sobreinjertado o Injertado sobre pie franco.
-
-Con variedades incluidas en DOP/IGP
-
-Con variedades mejor adaptadas a las condiciones edafoclimáticas en su ámbito territorial.
-
-Con variedades que cumplan objetivos medioambientales relacionados en las letras a) d) h) o i) del artículo 12.1 del Reglamento delegado (UE) 2022/126 de la Comisión de 7 de diciembre de 2021.
-
-La operación cumple con la característica de una operación de mejora de técnicas de gestión:
-
-Cambio del sistema de conducción existe a un sistema de conducción más sostenible:
-
-Sistema de conducción antes y después de la reestructuración:
-
-Es una operación de replantación por arranque por motivos sanitarios o fitosanitarios por la autoridad competente.
-
-Organismo nocivo detectado:
-
-Información sobre los pagos:
+INFORMACIÓN SOBRE PAGOS EJECUTADOS.
 
 Forma de pago elegida:
 
@@ -94,40 +108,96 @@ Porcentaje de penalización aplicado por retraso de ejecución y solicitud de pa
 
 Causa del retraso en la ejecución y solicitud de pago:
 
-Compensación por Pérdida de Ingresos (CPI):
+Importe aprobado total (€):
 
-CPI mediante coexistencia vides:
+Total euros pagados para esa operación (CPI+CCI):
 
 Total euros pagados por CPI mediante compensación económica:
-
-CPI económica % aplicado:
-
-Número de campañas de CPI mediante compensación económica:
-
-Contribución a los Costes Incurridos (incluye las contribuciones en especie) (CCI):
 
 Total euros pagados por CCI:
 
 Contribuciones en especie:
 
-Porcentaje CCI aplicado:
-
-Total euros pagados para esa operación (CPI+CCI):
-
 Lo que se paga en este ejercicio es el anticipo:
+
+Lo que se paga en este ejercicio es el saldo de una operación cuyo anticipo fue pagado en el mismo ejercicio:
 
 Lo que se paga en este ejercicio es el saldo de una operación cuyo anticipo fue pagado en ejercicios anteriores:
 
 Lo que se paga es el total de la operación:
 
+Porcentaje CCI aplicado:
+
 Hay pago complementario:
 
-Información sobre la superficie:
+CPI económica % aplicado:
 
-Superficie reestructurada:
+Número de campañas de CPI mediante compensación económica:
 
-% Superficie ejecutada respecto de la aprobada o modificada:
+CPI mediante la coexistencia de vides:
 
-Penalización por superficie:
+Número de años de coexistencia:
+
+Presupuesto ejecutado por la acción de arranque (€):
+
+Presupuesto ejecutado por la acción de preparación del suelo (€):
+
+Presupuesto ejecutado por la acción de reposición de picón (€):
+
+Presupuesto ejecutado por la acción de desinfección del terreno (€):
+
+Presupuesto ejecutado por la acción de despedregado (€):
+
+Presupuesto ejecutado por la acción de nivelación del terreno (€):
+
+Presupuesto ejecutado por la acción de abalancamiento (€):
+
+Presupuesto ejecutado por la acción de planta y plantación (€):
+
+Presupuesto ejecutado por la acción de protectores que rodean la planta (material y colocación) (€):
+
+Presupuesto ejecutado por la acción de sistema de conducción (material y colocación) (€):
+
+Presupuesto ejecutado por la acción de sobreinjertado (material e injerto) (€):
+
+Presupuesto ejecutado por otra acción incluida en la normativa autonómica (€):
+
+Gasto por beneficiario (€):
+
+INFORMACIÓN SOBRE SUPERFICIE EJECUTADA.
+
+Superficie objeto de ayuda (ha):
+
+Superficie aprobada (ha):
+
+Superficie objeto de ayuda respecto de la superficie aprobada (%):
+
+¿Se aplica penalización por superficie?:
+
+Superficie ejecutada por la acción de arranque (ha):
+
+Superficie ejecutada por la acción de preparación del suelo (ha):
+
+Superficie ejecutada por la acción de reposición de picón (ha):
+
+Superficie ejecutada por la acción de desinfección del terreno (ha):
+
+Superficie ejecutada por la acción de despedregado (ha):
+
+Superficie ejecutada por la acción de nivelación del terreno (ha):
+
+Superficie ejecutada por la acción de abalancamiento (ha):
+
+Superficie ejecutada por la acción de planta y plantación (ha):
+
+Superficie ejecutada por la acción de protectores que rodean la planta (material y colocación) (ha):
+
+Superficie ejecutada por la acción de sistema de conducción (material y colocación) (ha):
+
+Superficie ejecutada por la acción de sobreinjertado (material e injerto) (ha):
+
+Superficie ejecutada por otra acción incluida en la normativa autonómica (ha):
+
+> Se modifica por el art. 3.21 del Real Decreto 610/2026, de 22 de julio. Ref. BOE-A-2026-16094
 
 > Se modifica por la disposición final 4.10 del Real Decreto 147/2023, de 28 de febrero. Ref. BOE-A-2023-5370#df-4

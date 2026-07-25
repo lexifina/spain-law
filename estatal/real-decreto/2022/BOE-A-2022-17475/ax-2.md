@@ -34,7 +34,7 @@ Estas limitaciones también serán de aplicación a vinotecas, salas de exhibici
 
 III. Otras limitaciones aplicables a zonas y equipos específicos
 
-En el caso de superficies dedicadas a salas de catas o dedicadas específicamente dentro de la bodega a la exposición y venta al por menor de los productos, la superficie máxima subvencionable será del 15 % de la superficie de la bodega resultante tras la ejecución de la operación.
+(Suprimido)
 
 IV. Otras limitaciones al importe de la inversión auxiliable
 
@@ -49,5 +49,7 @@ Cuando entre las inversiones objeto de la ayuda se incluyan barricas de madera d
 – De roble americano.
 
 – De roble mixto o de otros orígenes, para cualquier otro tipo de barrica que no pertenezca a los dos anteriores.
+
+> Se suprime el apartado III por el art. 3.22 del Real Decreto 610/2026, de 22 de julio. Ref. BOE-A-2026-16094
 
 > Redactado conforme a la corrección de errores publicada en el BOE núm. 35, de 10 de febrero de 2023. Ref. BOE-A-2023-3509

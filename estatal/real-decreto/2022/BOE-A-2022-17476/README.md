@@ -36,6 +36,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 20](a2-2.md)
 - [Artículo 21](a2-3.md)
 - [Disposición transitoria única](dt.md)
+- [Disposición transitoria primera](dt-3.md)
+- [Disposición transitoria segunda](dt-2.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
