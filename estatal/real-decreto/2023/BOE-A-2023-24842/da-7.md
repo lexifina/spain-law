@@ -40,7 +40,11 @@ q) La Dirección General de Atención Humanitaria y del Sistema de Acogida de Pr
 
 r) La Delegación del Gobierno para el Plan Nacional sobre Drogas.
 
+s) La Dirección General del Tesoro y Política Financiera.
+
 2. Las razones que justificaron la aplicación de la excepción de las reglas generales de nombramiento a la Dirección General del Trabajo Autónomo, de la Economía Social y de la Responsabilidad Social de las Empresas, la Dirección General de Políticas Palanca para el Cumplimiento de la Agenda 2030, la Dirección General para la Igualdad de Trato y Diversidad Étnico Racial, la Dirección General de Diversidad Sexual y Derechos LGTBI y la Dirección General del Instituto de la Mujer y para la Igualdad de Oportunidades se mantienen en relación con la Dirección General de Trabajo Autónomo, la Dirección General de Agenda 2030, la Dirección General para la Igualdad de Trato y No Discriminación y contra el Racismo, la Dirección General para la Igualdad real y Efectiva de las personas LGTBI+ y la Dirección General del Instituto de las Mujeres que respectivamente las suceden.
+
+> Se añade la letra s) al apartado 1 por el art. único del Real Decreto 644/2026, de 28 de julio. Ref. BOE-A-2026-16441
 
 > Se modifica la letra k) del apartado 1 por el art. 2.2 del Real Decreto 328/2026, de 22 de abril. Ref. BOE-A-2026-9079
 
