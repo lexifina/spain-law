@@ -18,6 +18,8 @@ b) Para el cálculo de la disminución de retribuciones, en los casos de exonera
 
 c) En los casos de no exoneración de guardias, servicios, maniobras o actividades análogas que impliquen actividad fuera del régimen de horario general de la UCO, se multiplicará el valor hora, por el número de días naturales del correspondiente mes, descontados los días en que realizaron las guardias, servicios, maniobras o actividades análogas que impliquen actividad fuera del horario general y por el número de horas concedidas de reducción de jornada.
 
+No se descontarán los días de descanso obligatorio siguientes a los días en que realizaron las guardias, servicios, maniobras o actividades análogas; ni los días de descanso adicional que, en su caso, se concedieran.
+
 d) El importe íntegro de la paga extraordinaria afectada por un período de tiempo con reducción de jornada será el correspondiente a la suma de los respectivos importes de cada uno de los dos períodos, con y sin reducción de jornada, de los seis meses computables en dichas pagas, según el siguiente cálculo:
 
 1.º Para el período no afectado por la reducción de jornada en los seis meses anteriores a su devengo (diciembre a mayo, o junio a noviembre), se dividirá la cuantía íntegra de la paga extraordinaria que en la fecha de 1 de junio o 1 de diciembre, según los casos, se habría devengado en jornada completa, entre ciento ochenta y dos (ciento ochenta y tres en años bisiestos) o ciento ochenta y tres días, respectivamente, multiplicando este resultado por el número de días naturales en que se haya prestado servicio sin reducción de jornada.
@@ -81,5 +83,7 @@ Fórmula: Pa = (Rlpe × %/k) × d
 4. Retribuciones para el personal que disfrute de una reducción de jornada y no esté exonerado de la realización de guardias, servicios, maniobras o actividades análogas.
 
 En los casos de reducción de jornada sin exoneración de guardias, servicios, maniobras o actividades análogas, no se descontarán retribuciones ni los días en que se prestan las guardias, servicios o actividades análogas, ni aquellos en los que se disfruta de los descansos regulados en la Orden DEF/1363/2016, de 28 de julio, por la que se regulan la jornada y el régimen de horario habitual en el lugar de destino de los miembros de las Fuerzas Armadas.
+
+> Se añade el segundo párrafo a la letra c) del apartado 2 por el art. único.8 de la Orden DEF/787/2026, de 23 de julio. Ref. BOE-A-2026-16655
 
 > Se añade el apartado 4 por el art. único.27 de la Orden DEF/112/2019, de 9 de febrero. Ref. BOE-A-2019-1786
