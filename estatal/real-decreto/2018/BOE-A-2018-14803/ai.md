@@ -10,7 +10,7 @@ a) Organización interprofesional proponente, justificación de su representativ
 
 b) Acuerdo adoptado por el órgano decisorio de la Organización, justificado mediante certificado firmado por el representante legal de la organización con fecha anterior al 1 de noviembre del año en el que se presente la recomendación.
 
-c) Recomendación propuesta: porcentaje recomendado que se propone conceder para autorizaciones de nuevas plantaciones para todo el territorio nacional, que deberá ser superior al 0% y como máximo del 1%.
+c) Recomendación propuesta: es el porcentaje recomendado que se propone conceder para autorizaciones de nuevas plantaciones para todo el territorio nacional, que deberá como máximo del 1 %.
 
 d) Justificación de la recomendación. Estudio que justifique la limitación por el motivo recogido en el artículo 63.3.a) del Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre.
 
@@ -39,5 +39,7 @@ b) Zona geográfica en la que se aplicaría la recomendación de restringir las 
 c) Periodo de aplicación de la recomendación.
 
 d) Estudio que justifique la recomendación de restringir las autorizaciones de replantación y las autorizaciones por conversión de un derecho de plantación recogido en el artículo 6 del Reglamento Delegado (UE) n.° 2018/273 de la Comisión, de 11 de diciembre, por el que se completa el Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo en lo que respecta al régimen de autorizaciones para plantaciones de vid, y en el artículo 8 del Reglamento de Ejecución (UE) n.° 2018/274 de la Comisión, de 11 de diciembre, por el que se establecen disposiciones de aplicación del Reglamento (UE) n.° 1308/2013 del Parlamento Europeo y del Consejo, en lo que respecta al régimen de autorizaciones para plantaciones de vid.
+
+> Se modifica la letra c) del anexo I.A por el art. único.10 del Real Decreto 684/2026, de 26 de agosto. Ref. BOE-A-2026-18205
 
 > Se modifican los anexos I.A y I.B por el art. único.8 del Real Decreto 536/2019, de 20 de septiembre. Ref. BOE-A-2019-13412
