@@ -34,6 +34,12 @@ d) Convenios de colaboración con organismos científicos y otras entidades, que
 
 e) Gastos de desplazamientos, alojamiento y manutención para la asistencia a ferias, congresos, cursos, jornadas o eventos similares, en medidas aprobadas en el PPYC, incluidos los salarios del personal contratado expresamente según en este anexo.
 
+f) Cuotas de pertenencia satisfechas por las organizaciones de productores pesqueros para su integración en organismos o entidades del ámbito de la pesca y de la acuicultura nacionales o internacionales, cuando dicha pertenencia esté directamente vinculada a la consecución de los objetivos de la organización común de mercados.
+
+El importe elegible por el conjunto de las cuotas no podrá superar los 20.000 euros por plan y anualidad.
+
+En ningún caso serán subvencionables las cuotas satisfechas por asociaciones de organizaciones de productores, las cuotas de pertenencia a cualquier organización profesional del sector pesquero regulada por el Real Decreto 277/2016, de 24 de junio, ni aquellas cuotas de pertenencia a organismos o entidades en los que la organización de productores esté ya representada de forma indirecta a través de una entidad de ámbito superior de la que forme parte.
+
 Los gastos subvencionables descritos se clasificarán en las categorías de gastos del titular y gastos de gestión. Su desglose será el siguiente:
 
 1. Gastos del titular.
@@ -248,7 +254,7 @@ l) La parte del coste de elementos de transporte que no estén directamente rela
 
 m) Adquisición de consumibles tales como combustible, aceite de motor, cebos y demás, necesarios para el desempeño de la actividad productiva.
 
-n) Las cuotas de pertenencia a entidades.
+n) (Suprimido)
 
 ñ) Gastos derivados del mantenimiento de certificaciones.
 
@@ -283,5 +289,9 @@ C. Ayudas para la consolidación de organizaciones profesionales de los sectores
 Los gastos subvencionables para esta línea son los previstos en el artículo 37.
 
 Para el cálculo y justificación de los gastos de personal se procederá conforme a lo dispuesto en el apartado 1.1 gasto de personal de A. Ayudas a los planes de producción y comercialización del presente anexo.
+
+> Se modifica por el art. 1.2 del Real Decreto 683/2026, de 26 de agosto. Ref. BOE-A-2026-18204
+
+> Esta modificación será de aplicación a la convocatoria referente a los planes de producción y comercialización de 2026, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica por el art. único.32 del Real Decreto 786/2023, de 17 de octubre. Ref. BOE-A-2023-21477#au
