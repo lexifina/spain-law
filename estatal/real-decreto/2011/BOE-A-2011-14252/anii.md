@@ -344,7 +344,8 @@ Lista de sustancias CMR y sus usos autorizados de conformidad con el anexo II, p
 
 | Sustancia | Clasificación | Uso autorizado |
 | --- | --- | --- |
-| Níquel | CMR 2 | En los juguetes y en los componentes de juguetes fabricados con acero inoxidable. En los componentes de juguetes destinados a conducir la corriente eléctrica. |
+| Níquel. | CMR 2. | En los juguetes y en los componentes de juguetes fabricados con acero inoxidable. En los componentes de juguetes destinados a conducir la corriente eléctrica. |
+| Cobalto. | CMR 1B. | En juguetes y componentes de juguetes de acero inoxidable, como impureza en el níquel contenido en el acero inoxidable. En los componentes de juguetes destinados a conducir la corriente eléctrica. En imanes de neodimio utilizados en juguetes, si dichos imanes no pueden tragarse o inhalarse. |
 
 Apéndice B
 
@@ -446,6 +447,8 @@ Valores límites específicos para sustancias químicas utilizadas en juguetes d
 | Formaldehído | 50-00-0 | 1,5 mg/l (límite de migración) en materiales poliméricos en juguetes. 0,1 ml/m3 (límite de emisión) en materiales de madera ligada con resina para la fabricación de juguetes. 30 mg/kg (límite de contenido) en materiales textiles en juguetes. 30 mg/kg (límite de contenido) en materiales de cuero en juguetes. 30 mg/kg (límite de contenido) en materiales de papel en juguetes. 10 mg/kg (límite de contenido) en materiales de base acuosa en juguetes. |
 
 > Téngase en cuenta que la sustancia "Anilina" añadida al apéndice C por el art. único de la Orden PCM/1048/2022, de 1 de noviembre. Ref. BOE-A-2022-18041, entra en vigor el 4 diciembre de 2002, según establece su disposición final segunda.
+
+> Se modifica el apéndice A por el art. único de la Orden PJC/903/2026, de 26 de agosto. Ref. BOE-A-2026-18261
 
 > Se añade la sustancia "Anilina" al apéndice C por el art. único de la Orden PCM/1048/2022, de 1 de noviembre. Ref. BOE-A-2022-18041
 
