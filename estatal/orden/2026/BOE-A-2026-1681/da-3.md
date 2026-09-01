@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Supervisión de los instructores de tiro durante el desarrollo de los ejercicios de tiro.
+
+Las Intervenciones de Armas y Explosivos de la Guardia Civil a las que por demarcación territorial corresponda, serán las responsables de comprobar la habilitación de los instructores de tiro. Podrán supervisar el desarrollo los ejercicios de tiro, para lo cual fijarán un calendario de realización de las pruebas correspondientes que se pondrá en conocimiento de las empresas de seguridad y guardas rurales de su demarcación, con independencia de las actuaciones presenciales que estas Unidades consideren oportunas.
