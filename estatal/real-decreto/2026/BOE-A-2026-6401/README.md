@@ -12,6 +12,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 
 - [(preambulo)](pr.md)
 - [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
 - [Disposición final primera](df.md)
