@@ -14,7 +14,7 @@
 
 6. Del Ministerio de Transportes y Movilidad Sostenible y de los organismos y entidades adscritos o dependientes del mismo: las capacidades vinculadas al transporte marítimo, aéreo y terrestre; gestión y operación de puertos e infraestructuras de transporte; salvamento y seguridad marítima; apoyo a movimientos y traslados; y utilización de infraestructuras logísticas.
 
-7. Del Ministerio de Política Territorial y Memoria Democrática: las capacidades de coordinación territorial de la Administración General del Estado, a través de la Delegación del Gobierno en Ceuta, y los recursos necesarios para facilitar la actuación integrada de los servicios estatales en el territorio y la cooperación con las autoridades de la Ciudad.
+7. Del Ministerio de Política Territorial y Memoria Democrática: las capacidades de coordinación territorial de la Administración General del Estado, a través de la Delegación del Gobierno en Ceuta, y los recursos necesarios para facilitar la actuación integrada de los servicios estatales en el territorio y la cooperación con las autoridades de la ciudad de Ceuta.
 
 8. Ministerio de Economía, Comercio y Empresa: los recursos necesarios para desarrollar las medidas económicas necesarias de apoyo a empresas y el crecimiento potencial de la economía en Ceuta.
 
@@ -32,14 +32,16 @@ De manera específica, las siguientes infraestructuras en la ciudad de Ceuta:
 
 2. Terrenos del Ministerio de Defensa en instalaciones de la Hípica.
 
-3. Terrenos del Ministerio de Defensa en nave fábrica de harina.
+3. Terrenos del Ministerio de Defensa en antiguo campo de fútbol del cuartel de caballería.
 
-4. Terrenos del Ministerio de Defensa en antiguo campo de futbol del cuartel de caballería.
+4. Terrenos del Ministerio para la Transición Ecológica y el Reto Demográfico de la explanada del Guano (antigua fábrica del Guano).
 
-5. Terrenos del Ministerio de Transición Ecológica de la explanada del Guano (antigua fábrica del Guano).
+5. Terrenos del Ministerio de Defensa en el Acuartelamiento K8.
 
-6. Terrenos que no se encuentren en uso del Ministerio de Defensa en Acuartelamiento Coronel Fiscer.
+6. Terrenos del Ministerio de Transportes y Movilidad Sostenible en dos parcelas de la ampliación de poniente fase I del Puerto de Ceuta.
 
-7. Polideportivo cubierto del Ministerio de Educación, formación Profesional y Deportes, del IES Puertas del Campo.
+7. Terrenos del Ministerio de Vivienda y Agenda Urbana en Loma Colmenar D5 y E5. Casa 47.
 
 La utilización, en su caso, de los recursos previstos en este anexo se ajustará a los principios del artículo 8.1 del real decreto.
+
+> Se modifica por el art. único.1 del Real Decreto 706/2026, de 1 de septiembre. Ref. BOE-A-2026-18430#au
