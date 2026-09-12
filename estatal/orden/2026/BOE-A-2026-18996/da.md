@@ -1,0 +1,3 @@
+## Disposición adicional primera. Supresión de la Comisión Calificadora de Documentos Administrativos del Ministerio de la Presidencia y del Grupo de Trabajo de Coordinación de Archivo y Gestión Documental del Ministerio de Justicia y de los Organismos Públicos vinculados o dependientes.
+
+Se suprime la Comisión Calificadora de Documentos Administrativos del Ministerio de la Presidencia y el Grupo de Trabajo de Coordinación de Archivo y Gestión Documental del Ministerio de Justicia y de los Organismos Públicos vinculados o dependientes, cuyas funciones serán ejercidas por la Comisión Calificadora de Documentos Administrativos del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes y de sus Organismos públicos.
