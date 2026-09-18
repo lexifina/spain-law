@@ -6,25 +6,57 @@
 
 1. A los efectos previstos en el artículo 12.1, las empresas CAP deberán comunicar electrónicamente al órgano competente en el territorio en que se imparta cada curso que vayan a realizar. En dicha comunicación, que deberá ser suscrita por el director del centro, constarán, al menos, los siguientes datos:
 
-a) La clase de curso a impartir, especificando si es de cualificación inicial, ordinaria o acelerada, o de formación continua, así como el curso modelo homologado al que se ajustarán y la modalidad de impartición, presencial o a distancia.
+a) La clase de curso a impartir, especificando si es de cualificación inicial, ordinaria o acelerada, o de formación continua, así como el curso modelo homologado al que se ajustarán y la modalidad de impartición: totalmente presencial o incluyendo contenidos impartidos a través del sistema de aula virtual.
 
 b) Las fechas de inicio y finalización del curso, así como su programación, en la que se precisarán, como mínimo, el horario de las clases y el contenido de cada una de ellas.
 
-c) El lugar e instalaciones, fecha y hora en que se realizarán las pruebas y ejercicios prácticos.
+c) En caso de que parte del curso se imparta mediante el sistema de aula virtual, de acuerdo con lo dispuesto en el capítulo IX, número de horas y contenidos que se impartirán a través de este sistema.
 
-d) Relación de los profesores que impartirán el curso, indicando sus respectivas especialidades.
+d) El lugar e instalaciones, fecha y hora en que se realizarán las pruebas y ejercicios prácticos.
 
-e) Relación de los participantes en el curso, en la que constarán su nombre y apellidos y número del documento nacional de identidad o número de identidad de extranjero, así como la clase o clases de permiso de conducción en vigor de que, en su caso, fuesen titulares.
+e) Relación de los profesores que impartirán el curso, indicando sus respectivas especialidades.
 
-2. Conforme a lo dispuesto en el artículo 12.2, cualquier variación de los datos relativos a un curso inicialmente comunicado, deberá ser, asimismo, notificada electrónicamente al órgano competente, con, al menos, la siguiente antelación:
+f) Relación de los participantes en el curso, en la que constarán su nombre y apellidos y número del documento nacional de identidad o número de identidad de extranjero, así como la clase o clases de permiso de conducción en vigor de que, en su caso, fuesen titulares.
+
+2. Conforme a lo dispuesto en el artículo 12.2, cualquier variación de los datos relativos a un curso inicialmente comunicado, deberá ser, asimismo, comunicada electrónicamente al órgano competente, con, al menos, la siguiente antelación:
 
 a) La modificación del contenido del curso o de sus fechas de inicio, desarrollo o finalización, y modalidad de impartición, con, al menos, veinticuatro horas de antelación a la fecha inicialmente prevista para el inicio del curso.
 
-b) La sustitución de alguno de los profesores que han de impartir el curso, con, al menos, veinticuatro horas de antelación a la fecha en que dicho profesor haya de iniciar su participación en aquel.
+b) La modificación del contenido del curso o de sus fechas de desarrollo o finalización, con, al menos, cuarenta y ocho horas de antelación a la fecha en que sea efectiva la modificación comunicada.
 
-c) El abandono o exclusión del curso por parte de alguno de los alumnos inicialmente comunicados, inmediatamente que tal hecho se produzca.
+c) La sustitución de alguno de los profesores que han de impartir el curso, con, al menos, veinticuatro horas de antelación a la fecha en que dicho profesor haya de iniciar su participación en aquel.
 
-A los efectos previstos en esta letra, deberá tenerse en cuenta que cuando un alumno deje de asistir, por cualquier causa, a un cinco por ciento o más de las horas del curso, correspondientes indistintamente a formación presencial o práctica, deberá ser excluido de este. Sin perjuicio de ello, el centro podrá, asimismo, excluir a aquellos alumnos que hubiesen dejado de asistir a una parte del curso que, a su juicio, abordase contenidos determinantes de la validez de este.
+d) La impartición de parte de los contenidos del curso mediante el sistema de aula virtual, con, al menos, diez días de antelación a la fecha prevista para el inicio del curso.
+
+e) El abandono o exclusión del curso por parte de alguno de los alumnos inicialmente comunicados, inmediatamente que tal hecho se produzca.
+
+> Téngase en cuenta que esta última actualización de la sección 1ª, establecida por el art. único.15 del Real Decreto 487/2026, de 17 de junio, Ref. BOE-A-2026-13203, entra en vigor el 18 de septiembre de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> "Sección 1.ª Comunicación de la realización de cursos
+
+> 1. A los efectos previstos en el artículo 12.1, las empresas CAP deberán comunicar electrónicamente al órgano competente en el territorio en que se imparta cada curso que vayan a realizar. En dicha comunicación, que deberá ser suscrita por el director del centro, constarán, al menos, los siguientes datos:
+
+> a) La clase de curso a impartir, especificando si es de cualificación inicial, ordinaria o acelerada, o de formación continua, así como el curso modelo homologado al que se ajustarán y la modalidad de impartición, presencial o a distancia.
+
+> b) Las fechas de inicio y finalización del curso, así como su programación, en la que se precisarán, como mínimo, el horario de las clases y el contenido de cada una de ellas.
+
+> c) El lugar e instalaciones, fecha y hora en que se realizarán las pruebas y ejercicios prácticos.
+
+> d) Relación de los profesores que impartirán el curso, indicando sus respectivas especialidades.
+
+> e) Relación de los participantes en el curso, en la que constarán su nombre y apellidos y número del documento nacional de identidad o número de identidad de extranjero, así como la clase o clases de permiso de conducción en vigor de que, en su caso, fuesen titulares.
+
+> 2. Conforme a lo dispuesto en el artículo 12.2, cualquier variación de los datos relativos a un curso inicialmente comunicado, deberá ser, asimismo, notificada electrónicamente al órgano competente, con, al menos, la siguiente antelación:
+
+> a) La modificación del contenido del curso o de sus fechas de inicio, desarrollo o finalización, y modalidad de impartición, con, al menos, veinticuatro horas de antelación a la fecha inicialmente prevista para el inicio del curso.
+
+> b) La sustitución de alguno de los profesores que han de impartir el curso, con, al menos, veinticuatro horas de antelación a la fecha en que dicho profesor haya de iniciar su participación en aquel.
+
+> c) El abandono o exclusión del curso por parte de alguno de los alumnos inicialmente comunicados, inmediatamente que tal hecho se produzca.
+
+> A los efectos previstos en esta letra, deberá tenerse en cuenta que cuando un alumno deje de asistir, por cualquier causa, a un cinco por ciento o más de las horas del curso, correspondientes indistintamente a formación presencial o práctica, deberá ser excluido de este. Sin perjuicio de ello, el centro podrá, asimismo, excluir a aquellos alumnos que hubiesen dejado de asistir a una parte del curso que, a su juicio, abordase contenidos determinantes de la validez de este."
 
 ## Sección 2.ª Contenido y duración de las prácticas en los cursos de formación
 
@@ -43,3 +75,7 @@ Durante la conducción individual, el alumno deberá encontrarse, en todos los c
 Los cursos de formación continua incluirán una parte práctica de una hora de duración, que podrá consistir, aunque no necesariamente, en prácticas de conducción individual en vehículo o/y simulador de alto nivel, de conformidad con el programa de los cursos de formación continua regulado en el anexo I, letra B).
 
 Si se realizasen prácticas de conducción en vías abiertas a la circulación general, sin que el conductor sea titular del permiso de conducción correspondiente, el vehículo utilizado deberá cumplir los requisitos establecidos a estos efectos en el anexo VII del Reglamento General de Conductores, aprobado por Real Decreto 818/2009, de 8 de mayo.
+
+> Se modifica la sección 1ª por el art. único.15 del Real Decreto 487/2026, de 17 de junio. Ref. BOE-A-2026-13203
+
+> Esta modificación entra en vigor el 18 de septiembre de 2026, según establece la disposición final 3 del citado Real Decreto.

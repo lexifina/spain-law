@@ -118,4 +118,16 @@ Los diferentes elementos constitutivos de la tarjeta de conductor tienen por obj
 
 ## Reverso
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2021/98/06624_6888.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/148/13203_17141312_1.png)
+
+> Téngase en cuenta que esta última actualización del reverso de la tarjeta del apartado 2, establecida por el art. único.16 del Real Decreto 487/2026, de 17 de junio, Ref. BOE-A-2026-13203, entra en vigor el 18 de septiembre de 2026, según determina su disposición final 3.
+
+> Redacción anterior:
+
+> Reverso
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2021/98/06624_6888.png)
+
+> Se sustituye en el apartado 2, el reverso de la tarjeta, por el art. único.16 del Real Decreto 487/2026, de 17 de junio. Ref. BOE-A-2026-13203
+
+> Esta modificación entra en vigor el 18 de septiembre de 2026, según establece la disposición final 3 del citado Real Decreto.
