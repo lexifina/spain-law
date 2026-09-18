@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Mecanismo de seguimiento periódico del mercado de capacidad.
+
+Anualmente el Ministerio para la Transición Ecológica y el Reto Demográfico presentará a la Comisión Delegada del Gobierno de Asuntos Económicos información sobre la capacidad adjudicada en las subastas, el coste efectivo del mecanismo soportado por los consumidores, el impacto del mecanismo en la evolución del resto de componentes del precio final de la electricidad, previo informe de la CNMC, el grado de competencia observado en las subastas, y la contribución efectiva del mecanismo a la seguridad de suministro.
