@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Resolución aplicable al ajuste retributivo por productos y servicios conexos en el periodo 2027-2032.
+
+Para el período regulatorio 2027-2032, el ajuste retributivo por productos y servicios conexos se hará de acuerdo con lo previsto en la Resolución de 31 de julio de 2024 de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología de cálculo del ajuste a realizar en la retribución anual de las empresas transportistas, regasificadoras y distribuidoras de gas natural por la prestación de productos y servicios conexos, incluido el valor de los parámetros establecidos en el apartado 4 de su anexo I.
