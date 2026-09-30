@@ -36,7 +36,7 @@ De manera específica, las siguientes infraestructuras en la ciudad de Ceuta:
 
 2. Terrenos del Ministerio de Defensa en instalaciones de la Hípica.
 
-3. Terrenos del Ministerio de Defensa en antiguo campo de futbol del cuartel de caballería.
+3. Terrenos del Ministerio de Defensa en antiguo campo de fútbol del cuartel de caballería.
 
 4. Terrenos del Ministerio para la Transición Ecológica y el Reto Demográfico de la explanada del Guano (antigua fábrica del Guano).
 
@@ -46,6 +46,8 @@ De manera específica, las siguientes infraestructuras en la ciudad de Ceuta:
 
 7. Terrenos del Ministerio de Vivienda y Agenda Urbana en Loma Colmenar D5 y E5. Casa 47.
 
+8. Parcela perteneciente al Centro Penitenciario de Ceuta, cedida por el Ministerio del Interior.
+
 II. Recursos de la ciudad de Ceuta:
 
 En el ámbito de la ciudad de Ceuta quedan comprendidos, dentro de sus respectivas competencias, los recursos destinados a servicios sociales y asistenciales; protección y atención de menores y otras personas vulnerables; policía local; protección civil; prevención y extinción de incendios; servicios sanitarios de su competencia; abastecimiento, saneamiento y servicios urbanos; alojamiento e instalaciones de titularidad propia; y demás servicios esenciales cuya continuidad pueda verse afectada.
@@ -53,5 +55,7 @@ En el ámbito de la ciudad de Ceuta quedan comprendidos, dentro de sus respectiv
 De manera específica, queda comprendida la infraestructura dependiente del Gobierno de la ciudad de Ceuta consistente en los terrenos cedidos en parking el embolsamiento en Loma Colmenar.
 
 La utilización, en su caso, de los recursos previstos en este anexo se ajustará a los principios del artículo 8.1 del Real Decreto 681/2026, de 25 de agosto, por el que se declara la situación de interés para la seguridad nacional en la ciudad de Ceuta.
+
+> Se modifica por el art. único del Real Decreto 795/2026, de 30 de septiembre. Ref. BOE-A-2026-20384
 
 > Se modifica por el art. único del Real Decreto 718/2026, de 2 de septiembre. Ref. BOE-A-2026-18508#au
