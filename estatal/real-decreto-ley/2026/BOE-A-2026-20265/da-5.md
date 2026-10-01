@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Compensación a la Comunidad Autónoma de Canarias para paliar los efectos socioeconómicos de la guerra en Oriente Próximo.
+
+Con el precedente del Real Decreto 639/2026, de 29 de julio, por el que se regula la concesión directa de una subvención a la Comunidad Autónoma de Canarias para apoyar la financiación del Plan de impulso al sector primario canario, el Gobierno de España se compromete a que el Estado financie, vía compensación, medidas complementarias que el Ejecutivo canario pueda activar de forma específica en su ámbito competencial para paliar los efectos socioeconómicos de la guerra en Oriente Próximo, atendiendo a la necesidad de actuar también sobre impuestos que solo se aplican en el archipiélago.

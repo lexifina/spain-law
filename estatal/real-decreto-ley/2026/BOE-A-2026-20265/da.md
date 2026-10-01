@@ -1,0 +1,3 @@
+## Disposición adicional primera. Habilitación al Fondo de restauración ecológica y resiliencia (FRER) (FCPJ).
+
+Se habilita al Fondo de restauración ecológica y resiliencia (FRER) (FCPJ), regulado por la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, a continuar con la ejecución de aquellos expedientes que se encuentran iniciados antes de la fecha de aprobación de este real decreto-ley hasta su finalización. Dichos expedientes se financiarán con el remanente de tesorería que posee derivado de las aportaciones realizadas desde el Ministerio para la Transición Ecológica y el Reto Demográfico.

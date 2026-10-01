@@ -1,0 +1,5 @@
+## Disposición final octava. Incorporación de derecho de la Unión Europea.
+
+1. Mediante este real decreto-ley se incorpora parcialmente al ordenamiento jurídico español las modificaciones de la Directiva (UE) 2015/849, del Parlamento Europeo y del Consejo, de 20 de mayo de 2015, que afectan a sus artículos 2.1. 3 g) y h); artículo 3.2.g); artículo 3.8, artículo 3.18, 3.19 y 3.20, artículo 19.ter 1) y 2) y artículo 45.9, realizadas por el Reglamento (UE) 2023/1113 del Parlamento Europeo y del Consejo, de 31 de mayo de 2023, relativo a la información que acompaña a las transferencias de fondos y de determinados criptoactivos, y por el que se modifica la Directiva (UE) 2015/849.
+
+2. Igualmente, mediante este real decreto-ley se procede al cumplimiento de los artículos 28.1, 29 y 32 del Reglamento (UE) 2023/1113 del Parlamento Europeo y del Consejo, de 31 de mayo de 2023, relativo a la información que acompaña a las transferencias de fondos y de determinados criptoactivos, y por el que se modifica la Directiva (UE) 2015/849.

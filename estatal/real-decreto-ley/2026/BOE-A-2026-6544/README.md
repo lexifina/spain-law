@@ -48,6 +48,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 28](a2-10.md)
 - [Artículo 28 bis](a2-12.md)
 - [Artículo 28 ter](a2-13.md)
+- [Artículo 28 quater](a2-14.md)
+- [Artículo 28 quinquies](a2-15.md)
 - [Artículo 29](a2-11.md)
 - [Artículo 30](a3-2.md)
 - [Artículo 31](a3-3.md)

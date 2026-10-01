@@ -4,11 +4,13 @@ Uno. a) Se reconoce el derecho a la devolución de las cuotas del Impuesto sobre
 
 b) El importe de las cuotas a devolver será igual al resultado de aplicar el tipo de 63,71 euros por 1.000 litros sobre una base constituida por el volumen de gasóleo efectivamente empleado en la agricultura, incluida la horticultura, ganadería y silvicultura durante el período indicado, expresado en miles de litros.
 
-> Téngase en cuenta que, durante los meses de julio, agosto y septiembre de 2026, el importe de las cuotas a devolver regulado en la letra b) será el que establece el art. 9 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a9
+> Téngase en cuenta que, durante los meses de octubre, noviembre y diciembre de 2026, el importe de las cuotas a devolver regulado en la letra b) será el que establece el art. 17 del Real Decreto-ley 25/2026, de 29 de septiembre. Ref. BOE-A-2026-20265#a1-9
 
 Dos. A los efectos de esta devolución, se consideran agricultores las personas o entidades que, en el periodo indicado, hayan tenido derecho a la utilización de gasóleo que tributa al tipo del epígrafe 1.4 del artículo 50.1 de la Ley 38/1992 y que, efectivamente, lo hayan empleado como carburante en la agricultura, incluida la horticultura, ganadería y silvicultura, y que, además, hayan estado inscritos, en relación con el ejercicio de dichas actividades, en el Censo de Empresarios, Profesionales y Retenedores al que se refiere la disposición adicional quinta de la Ley 58/2003, de 17 de diciembre, General Tributaria.
 
 Tres. La devolución se llevará a cabo por el procedimiento que establezca el Ministro de Economía y Hacienda y podrá comprender la obligación de que los interesados presenten declaraciones tributarias, incluso de carácter censal.
+
+> Véase el art. 17 del Real Decreto-ley 25/2026, de 29 de septiembre, por el que se modifica el importe de las cuotas a devolver regulado en la letra b) durante los meses de octubre, noviembre y diciembre de 2026. Ref. BOE-A-2026-20265#a1-9
 
 > Véase el art. 9 del Real Decreto-ley 18/2026, de 29 de junio, por el que se modifica el importe de las cuotas a devolver regulado en la letra b) durante los meses de julio, agosto y septiembre de 2026. Ref. BOE-A-2026-14112#a9
 

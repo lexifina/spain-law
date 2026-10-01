@@ -24,7 +24,7 @@ b) El tipo estatal de la devolución podrá ser modificado por la Ley de Presupu
 
 c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Hacienda y Función Pública se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.
 
-> Téngase en cuenta que, desde el 1 de julio de 2026 y hasta el 30 de septiembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 8 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a8
+> Téngase en cuenta que, desde el 1 de octubre de 2026 y hasta el 31 de diciembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 16 del Real Decreto-ley 25/2026, de 29 de septiembre. Ref. BOE-A-2026-20265#a1-8
 
 7. El procedimiento para la práctica de la devolución se establecerá por el Ministro de Economía y Hacienda y podrá comprender, entre otros, los siguientes aspectos:
 
@@ -39,6 +39,8 @@ c) La obligación, para las entidades emisoras de los referidos medios de pago e
 9. La utilización de gasóleo por el que se solicite la devolución regulada en este artículo en motores distintos de los de los vehículos mencionados en el apartado 2 está prohibida. La inobservancia de esta prohibición constituirá una infracción tributaria grave que será sancionada de acuerdo con lo previsto en el artículo 55.
 
 10. Lo establecido en el apartado anterior se entiende sin perjuicio de las responsabilidades en que incurran quienes suministren gasóleo por el que se solicite la devolución a personas no autorizadas para recibirlo. A efectos de la aplicación de lo previsto en los artículos 8.6 y 15.11, el gasóleo por el que se solicite la devolución tendrá la consideración de gasóleo al que se ha aplicado un tipo reducido en razón de su destino.
+
+> Téngase en cuenta que, desde el 1 de octubre de 2026 y hasta el 31 de diciembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 16 del Real Decreto-ley 25/2026, de 29 de septiembre. Ref. BOE-A-2026-20265#a1-8
 
 > Téngase en cuenta que, desde el 1 de julio de 2026 y hasta el 30 de septiembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 8 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a8
 
