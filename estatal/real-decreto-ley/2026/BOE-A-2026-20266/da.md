@@ -1,0 +1,3 @@
+## Disposición adicional primera. Habilitación normativa para la regulación de los proveedores sociales de vivienda y las cooperativas de vivienda asequible.
+
+El Gobierno, a propuesta del Ministerio de Vivienda y Agenda Urbana, en el plazo de 6 meses regulará reglamentariamente la definición y procedimiento de certificación o reconocimiento de la figura de los proveedores sociales de vivienda asequible, incluidas las cooperativas, con el referente de las Housing Associations, y a los efectos de viabilizar y fomentar regulatoria y fiscalmente su actividad. Esta certificación será exclusivamente a los efectos de la participación de estas entidades en programas, o en el acceso a financiación, ventajas o especialidades en relación con tributos o procedimientos estatales.

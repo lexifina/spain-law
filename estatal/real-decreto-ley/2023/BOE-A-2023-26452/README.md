@@ -119,6 +119,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO III](ci-13.md)
 - [Sección 1](s1-2.md)
 - [Artículo 86](a8-8.md)
+- [Artículo 86 bis](a8-12.md)
 - [Sección 2](s2-2.md)
 - [Artículo 87](a8-9.md)
 - [Artículo 88](a8-10.md)

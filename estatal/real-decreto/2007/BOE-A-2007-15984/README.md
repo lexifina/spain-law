@@ -93,6 +93,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 39](a39.md)
 - [Artículo 39 bis](a3-2.md)
 - [Artículo 39 ter](a3-3.md)
+- [Artículo 39 quater](a3-5.md)
 - [Artículo 40](a40.md)
 - [Artículo 41](a41.md)
 - [Artículo 42](a42.md)

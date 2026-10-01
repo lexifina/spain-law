@@ -6,6 +6,10 @@ En todo caso, resultará necesario que el contribuyente hubiera tenido derecho a
 
 2. La deducción por alquiler de la vivienda habitual se aplicará conforme a lo dispuesto en los artículos 67.1, 68.7 y 77.1 de la Ley del Impuesto, en su redacción en vigor a 31 de diciembre de 2014.
 
+3. Lo dispuesto en esta disposición no resultará de aplicación cuando el contribuyente hubiera aplicado la deducción prevista en el artículo 68.6 de esta ley por esa misma vivienda en el mismo período impositivo.
+
+> Se añade el apartado 3 por el art. 6.2.13 del Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20266#a6
+
 > Se modifica por el art. 1.89 de la Ley 26/2014, de 27 de noviembre. Ref. BOE-A-2014-12327.
 
 > Se añade por la disposición final 2.15 de la Ley 22/2009, de 18 de diciembre. Ref. BOE-A-2009-20375
