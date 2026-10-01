@@ -48,11 +48,11 @@ h) Garantizar un diálogo regular y abierto con las autoridades competentes.
 
 i) Funcionar y ser evaluados y acreditados con arreglo a la norma EN ISO/IEC 17025:2005 «Requisitos generales relativos a la competencia de los laboratorios de ensayo y calibración, o aquella que la sustituya o desarrolle, teniendo en cuenta criterios de los distintos métodos de prueba».
 
-2. La acreditación y evaluación de los laboratorios nacionales, podrán referirse a ensayos aislados o a grupos de ensayos.
+2. (Suprimido)
 
-3. No obstante lo anterior, el Ministerio de Medio Ambiente, y Medio Rural y Marino podrá designar laboratorios nacionales de referencia que no cumplan los requisitos contemplados en el apartado 1.i) de la presente parte si en la práctica es difícil el funcionamiento con arreglo a la norma EN ISO/IEC 17025:2005, siempre que el laboratorio funcione con arreglo a un sistema de aseguramiento de la calidad que se ajuste a las directrices de ISO 9001.
+3. (Suprimido)
 
-4. El Ministerio de Medio Ambiente y Medio Rural y Marino podrá autorizar que un laboratorio nacional de referencia situado en España aproveche las competencias y la capacidad de otros laboratorios respecto a una o varias de las enfermedades de que se encargan, siempre que dichos laboratorios cumplan los requisitos pertinentes establecidos en la presente parte. No obstante, el laboratorio nacional de referencia seguirá siendo el punto de contacto para el citado Ministerio y para el laboratorio comunitario de referencia.
+4. (Suprimido)
 
 ## Parte III. Laboratorios oficiales de las Comunidades autónomas.
 
@@ -69,3 +69,5 @@ c) Funcionar y ser evaluados y acreditados con arreglo a la norma EN ISO/IEC 170
 3. No obstante lo anterior, la autoridad competente podrá establecer, reconocer o designar laboratorios que no cumplan los requisitos contemplados en el apartado 1.c).1.º de la presente parte si en la práctica es difícil el funcionamiento con arreglo a la norma EN ISO/IEC 17025:2005, siempre que el laboratorio funcione con arreglo a un sistema de aseguramiento de la calidad que se ajuste a las directrices de ISO 9001.
 
 4. La autoridad competente declarará extinguido el establecimiento, reconocimiento o designación del laboratorio si dejan de cumplirse las condiciones mencionadas en el presente anexo.
+
+> Se suprimen los apartados 2 a 4 de la parte II por la disposición final 5.3 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df-5

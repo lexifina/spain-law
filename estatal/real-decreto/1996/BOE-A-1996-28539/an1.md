@@ -148,9 +148,9 @@ Para permitir la detección del máximo número de animales infectados o enfermo
 
 4. Laboratorio Nacional de Referencia.
 
-Se designa al Laboratorio Central de Sanidad Animal (Laboratorio de Sanidad y Producción Animal) de Santa Fe (Granada), perteneciente al Ministerio de Agricultura, Pesca y Alimentación, como centro nacional de referencia para la tuberculosis en animales.
-
 El Laboratorio Nacional de Referencia se encargará, sin perjuicio de lo dispuesto en los artículos 9, 11 y 14, de la comprobación oficial de las tuberculinas o los reactivos a que se refieren los apartados 2 y 3, dentro de España, para garantizar que se ajustan a las normas anteriormente mencionadas.
+
+> Se modifica el apartado 4 por la disposición final 1.5 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df
 
 > Se modifica por el art. único.10 del Real Decreto 1047/2003, de 1 de agosto. Ref. BOE-A-2003-17233
 

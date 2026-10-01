@@ -1,5 +1,5 @@
 ## ANEXO II
 
-## Designación de Laboratorio Nacional de Referencia
+## (Suprimido)
 
-Se designa como Laboratorio Nacional de Referencia para el control del rendimiento lechero al Laboratorio Agroalimentario de Santander. Dirección General de Industria Alimentaria. Ministerio de Agricultura, Pesca y Alimentación. C/ Concejo, s/n. 39011 Santander.
+> Se suprime por la disposición final 17.3 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df-17

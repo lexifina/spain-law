@@ -1,7 +1,5 @@
 ## ANEXO VIII
 
-## Laboratorio Nacional de Referencia
+## (Suprimido)
 
-Para las determinaciones de células somáticas y colonias de gérmenes a 30 ºC:
-
-Laboratorio Agroalimentario de Santander. Dirección General de la Industria Alimentaria. Ministerio de Agricultura y Pesca y Alimentación. Calle Concejo, s/n, 39011 Santander.
+> Se suprime por la disposición final 16.2 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df-16

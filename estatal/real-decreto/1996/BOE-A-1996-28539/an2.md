@@ -228,7 +228,7 @@ Los animales de la especie bovina que hayan dado un resultado positivo en una de
 
 4. Laboratorio nacional de referencia.
 
-4.1 El Laboratorio Central de Sanidad Animal (Laboratorio de Sanidad y Producción Animal) ubicado en Santa Fe (Granada), Camino del Jau s/n, 18320, es el designado como Laboratorio Nacional de Referencia para la brucelosis en animales.
+4.1 (Suprimido)
 
 4.2 Tareas y responsabilidades.–Las tareas y responsabilidad del Laboratorio Nacional de Referencia, sin perjuicio de lo dispuesto en los artículos 9, 11 y 14 y en la disposición transitoria cuarta, del presente real decreto, y en el artículo 29 de la Ley 8/2003, de 24 de abril, son las siguientes:
 
@@ -243,6 +243,8 @@ d) los controles de calidad de todos los lotes de antígenos y de baterías de E
 e) La aplicación de las recomendaciones del laboratorio comunitario de referencia para la brucelosis y la cooperación con dicho Laboratorio comunitario.
 
 (1) A efectos de este anexo, las diluciones para preparar los reactivos líquidos se expresan con una fracción, por ejemplo 1/150, que indica una dilución de 1 en 150.
+
+> Se suprime el apartado 4.1 por la disposición final 1.5 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df
 
 > Se modifica por el art. único de la Orden ARM/2166/2009, de 29 de julio. Ref. BOE-A-2009-13174
 

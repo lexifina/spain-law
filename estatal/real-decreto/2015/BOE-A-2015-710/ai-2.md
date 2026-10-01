@@ -1,16 +1,8 @@
 ## ANEXO II
 
-Parte A.
+## (Suprimido)
 
-Laboratorio Arbitral Agroalimentario del Ministerio de Agricultura, Alimentación y Medio Ambiente, sito en Ctra. de A Coruña, km 10,700 (Madrid).
-
-Parte B.
-
-Laboratorio Nacional de Sanidad Vegetal de la División de Laboratorios de Sanidad de la Producción Agraria del Ministerio de Agricultura, Pesca y Alimentación, sito en Lugo.
-
-Parte C.
-
-Laboratorio de Análisis de Residuos de Plaguicidas de la Universidad Jaume I de Castellón.
+> Se suprime por la disposición final 12.2 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df-12
 
 > Se modifica la parte B por la disposición final 2 del Real Decreto 1054/2021, de 30 de noviembre. Ref. BOE-A-2021-20730#df-2
 

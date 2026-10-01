@@ -8,9 +8,9 @@
 
 a) El almacenamiento, suministro, distribución y entrega de las vacunas se realizará exclusivamente bajo control de los órganos competentes de las comunidades autónomas.
 
-b) La distribución de las vacunas antibrucelares se realizará exclusivamente y con carácter gratuito por los órganos competentes de las comunidades autónomas, de lotes oficialmente contrastados por el Centro Nacional de Referencia para la brucelosis en animales, y queda prohibida fuera de los laboratorios fabricantes su tenencia, comercialización y venta.
+b) La distribución de las vacunas antibrucelares se realizará exclusivamente y con carácter gratuito por los órganos competentes de las comunidades autónomas, de lotes oficialmente contrastados por el Laboratorio Nacional de Referencia para la brucelosis en animales, y queda prohibida fuera de los laboratorios fabricantes su tenencia, comercialización y venta.
 
-c) Todos los lotes de las vacunas antibrucelares producidas por entidades situadas en el territorio español deberán estar contrastadas por el Centro Nacional de Referencia para brucelosis en animales. Si tras la contrastación de dichos lotes de vacunas el dictamen fuera no apto, se procederá a su destrucción bajo supervisión oficial.
+c) (Suprimida)
 
 d) Los animales vacunados deberán ser marcados de forma que en todo momento se disponga, como mínimo, de su identificación y de la fecha de vacunación.
 
@@ -25,6 +25,8 @@ h) Los órganos competentes de las comunidades autónomas velarán porque los an
 i) (Suprimido)
 
 j) Los órganos competentes en materia de sanidad animal de las comunidades autónomas informarán a los órganos competentes en materia de salud pública de la respectiva comunidad acerca del uso de las vacunas y de los sistemas disponibles de diagnóstico y terapéuticos que se apliquen.
+
+> Se suprime la letra c) del apartado 3 y se sustituye la referencia a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 y 3 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df
 
 > Se modifica el apartado 1 por el art. 1 del Real Decreto 71/2016, de 19 de febrero. Ref. BOE-A-2016-1738.
 

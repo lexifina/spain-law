@@ -2,7 +2,7 @@
 
 1. Adscrita al Ministerio de Agricultura Pesca y Alimentación existirá una mesa de coordinación de análisis de aceite de oliva, presidida por el Director General de Industria Agroalimentaria y Alimentación, integrada por representantes de la Administración General del Estado con competencias en esta materia y de las comunidades autónomas que decidan participar, cuya composición y funciones se establecerá reglamentariamente.
 
-2. A efectos de coordinación, el Ministerio de Agricultura, Pesca y Alimentación, por orden ministerial, podrá encomendar al Laboratorio Arbitral Agroalimentario las funciones correspondientes como laboratorio nacional de referencia en materia de análisis de aceite de oliva.
+2. (Derogado)
 
 3. Adscrita al Ministerio de Agricultura, Pesca y Alimentación se crea la Mesa de jefes de panel, presidida por el titular de la Secretaría General de Agricultura y Alimentación al que podrá suplir el titular de la Subdirección General de Control de la Calidad Alimentaria y Laboratorios Agroalimentarios e integrada por todos los jefes de panel autorizados para hacer controles oficiales, que se encargará entre otros cometidos de:
 
@@ -13,5 +13,7 @@ b) Garantizar el correcto análisis de los resultados de los ensayos de aptitud 
 c) Planificar estudios que puedan mejorar, a través de los ensayos de aptitud, la homogeneidad del comportamiento analítico de los paneles así como actividades relacionadas con la formación continuada de los paneles, promoviendo el intercambio de información y muestras entre estos;
 
 d) Elaborar notas técnicas interpretativas de todos aquellos asuntos que puedan surgir en el ámbito del control oficial de las características organolépticas de los paneles oficiales, con objeto de unificar los criterios de actuación de aquéllos.
+
+> Se deroga el apartado 2 por la disposición derogatoria única del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270
 
 > Se añade el apartado 3 por el art. único.5 del Real Decreto 83/2021, de 9 de febrero. Ref. BOE-A-2021-2980

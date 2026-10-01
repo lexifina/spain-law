@@ -36,10 +36,10 @@ a) Se considerará positivo todo suero que diluido a 1/10 fije completamente el 
 
 b) Los sueros que diluidos a 1/10 fijen parcialmente el complemento, se considerarán sospechosos.
 
-5. El suero patrón positivo a la prueba de Reacción de Fijación de Complemento de Campbell y Turner será preparado por el Centro Nacional de Referencia de micoplasmosis animales, de acuerdo con las recomendaciones del Laboratorio Europeo de Referencia.
+5. El suero patrón positivo a la prueba de Reacción de Fijación de Complemento de Campbell y Turner será preparado por el Laboratorio Nacional de Referencia de micoplasmosis animales, de acuerdo con las recomendaciones del Laboratorio Europeo de Referencia.
 
-## B) Centro Nacional de Referencia
+## B) (suprimido)
 
-El Laboratorio de Sanidad y Producción Animal de Santa Fe (Granada), perteneciente al Ministerio de Agricultura, Pesca y Alimentación, es el designado como Centro Nacional de Referencia para las microplasmosis animales.
+> Se suprime el apartado B) y se sustituye la referencia a "centro nacional de referencia" por "laboratorio nacional de referencia" por la disposición final 1.1 y 5 del Real Decreto 682/2026, de 26 de agosto. Ref. BOE-A-2026-20270#df
 
 > Redactado el apartado A).2 conforme la corrección de errores publicada en BOE núm. 97, de 23 de abril de 1997. Ref. BOE-A-1997-8673
