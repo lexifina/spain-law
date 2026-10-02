@@ -1,11 +1,7 @@
-## Disposición adicional vigésima. Régimen patrimonial de CASA 47 Entidad Pública Empresarial.
+## Disposición adicional vigésima. Régimen patrimonial de SEPES.
 
-1. El régimen patrimonial de CASA 47 Entidad Pública Empresarial se regirá por lo establecido en sus normas de creación o de organización y funcionamiento. En lo no previsto en ellas será de aplicación lo dispuesto en esta ley.
+El régimen patrimonial de la Entidad pública empresarial del suelo (SEPES) se regirá por lo establecido en sus normas de creación o de organización y funcionamiento. En lo no previsto en ellas será de aplicación lo dispuesto en esta ley.
 
-2. En la enajenación de viviendas titularidad de CASA 47 Entidad Pública Empresarial, o promovidas en solares de uso residencial enajenados por la Entidad, el precio de venta no podrá superar la cantidad resultante de aplicar a la superficie registral de la vivienda el módulo más alto de los contemplados en la legislación en materia de vivienda protegida de la comunidad autónoma en la que se ubiquen las viviendas y que se encuentre vigente en el momento de la transmisión.
-
-Esta limitación se extenderá a las sucesivas transmisiones, debiendo incorporarse en los pliegos que rijan la enajenación y en las escrituras públicas o títulos correspondientes, y se hará constar en el Registro de la Propiedad.
-
-En el caso de viviendas que sean calificadas con algún régimen de protección pública de conformidad con la legislación autonómica aplicable, dicha limitación comenzará a regir finalizado el plazo de protección.
+> Se deja sin efecto la modificación de esta disposición por Resolución de 2 de octubre de 2026 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20526
 
 > Se modifica por el art. 11 del Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20266#a1-3

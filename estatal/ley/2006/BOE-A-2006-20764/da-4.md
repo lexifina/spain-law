@@ -42,7 +42,9 @@ Tratándose de obras llevadas a cabo por una comunidad de propietarios la cuant�
 
 A los efectos de acreditar el cumplimiento de los requisitos exigidos para la práctica de estas deducciones serán válidos los certificados expedidos antes del inicio de las obras siempre que no hubiera transcurrido un plazo de dos años entre la fecha de su expedición y la del inicio de estas.
 
-6. El importe de estas deducciones se restará de la cuota íntegra estatal después de las deducciones previstas en los apartados 1, 2, 3, 4, 5 y 6 del artículo 68 de esta ley.
+6. El importe de estas deducciones se restará de la cuota íntegra estatal después de las deducciones previstas en los apartados 1, 2, 3, 4, y 5 del artículo 68 de esta ley.
+
+> Se deja sin efecto la modificación del apartado 6 por Resolución de 2 de octubre de 2026 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20526
 
 > Se modifica el apartado 6 por el art. 6.2.8 del Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20266#a6
 
