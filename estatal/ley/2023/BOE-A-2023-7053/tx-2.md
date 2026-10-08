@@ -2,6 +2,8 @@
 
 ## Cuenta de ahorro e inversión Financia Europa
 
+> Se añade por el art. 21.2 del Real Decreto-ley 29/2026, de 6 de octubre. Ref. BOE-A-2026-20823#a2-3
+
 > Se deja sin efecto la adición de este Título por Resolución de 2 de octubre de 2026 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20526
 
 > Se añade por el art. 20.2 del Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20266#a2-2
