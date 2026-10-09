@@ -16,6 +16,8 @@ e) El plazo para la justificación y solicitud del pago por parte de los benefic
 
 f) El plazo de remisión por las comunidades autónomas del informe anual del resultado de las operaciones de inversión establecido en el artículo 32.2 se amplía hasta el 31 de enero del año siguiente a la anualidad correspondiente.
 
-3. La concesión de las ayudas previstas en esta disposición queda condicionada a la existencia de crédito adecuado y suficiente en el correspondiente fondo europeo del periodo de programación 2028-2034 y en las correspondientes aplicaciones presupuestarias del FEGA o de las comunidades autónomas; a su inclusión en el plan regional y nacional relativo a la Política Agrícola Común; y a su sujeción a la correspondiente normativa europea del siguiente periodo de programación. A estos efectos, si los fondos existentes no fueran suficientes para atender al pago de las ayudas concedidas y ejecutadas, se procederá por riguroso orden de presentación de la solicitud completa de pago de las actividades subvencionadas.
+3. La concesión de las ayudas previstas en esta disposición queda condicionada a la existencia de crédito adecuado y suficiente en el correspondiente fondo europeo del periodo de programación 2028-2034 y en las correspondientes aplicaciones presupuestarias del FEGA o de las comunidades autónomas; a su inclusión en el plan regional y nacional relativo a la Política Agrícola Común; y a su sujeción a la correspondiente normativa europea del siguiente periodo de programación.
+
+> Se deroga el inciso final del apartado 3 por la disposición derogatoria única del Real Decreto 810/2026, de 7 de octubre. Ref. BOE-A-2026-20912
 
 > Se añade por el art. 3.14 del Real Decreto 610/2026, de 22 de julio. Ref. BOE-A-2026-16094
