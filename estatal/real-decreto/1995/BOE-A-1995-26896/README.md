@@ -20,6 +20,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO II](cii.md)
 - [Sección preliminar](spreliminar.md)
 - [Artículo 6](a6.md)
+- [Artículo 6 bis](a6-2.md)
 - [Artículo 7](a7.md)
 - [Artículo 8](a8.md)
 - [Artículo 9](a9.md)
