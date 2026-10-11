@@ -1,0 +1,1 @@
+Téngase en cuenta que se deja sin efecto el Acuerdo por el que se aprueba la presente Directriz Básica, desde el 10 de octubre de 2026, por el apartado cuarto del Acuerdo del Consejo de Ministros de 6 de octubre de 2026, publicado por Orden INT/1071/2026, de 7 de octubre. Ref. BOE-A-1996-4996#cu
