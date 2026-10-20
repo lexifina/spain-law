@@ -51,6 +51,7 @@
 | Luronium natans |  |  | En peligro de extinción |
 | Amaryllidaceae |  |  |  |
 | Narcissus asturiensis | Narciso de Asturias |  |  |
+| Narcissus calcicola (Mendonça) |  |  |  |
 | Narcissus cyclamineus |  |  |  |
 | Narcissus fernandesii |  |  |  |
 | Narcissus humilis |  |  |  |
@@ -413,12 +414,14 @@
 | BRYOPHYTA |  |  |  |
 | Bruchia vogesiaca |  |  |  |
 | Buxbaumia viridis |  |  | Vulnerable |
+| Dicranum viride (Sull. & Lesq.) Lindb |  |  |  |
 | Echinodium spinosum |  |  |  |
 | Hamatocaulis vernicosus |  |  |  |
 | Jungermannia handelii |  |  |  |
 | Marsupella profunda |  |  |  |
 | Orthotrichum rogeri |  |  |  |
 | Petalophylum ralfsii |  |  |  |
+| Pyramidula tetragona (Brid.) Brid |  |  |  |
 | Riela helicophylla |  |  |  |
 | Sphagnum pylaisii |  |  |  |
 | CLOROPHYTA |  |  |  |
@@ -479,6 +482,14 @@
 | Pimelia granulicolis | Pimelia de las arenas |  | En peligro de extinción |
 | Rhopalomesites euphorbiae | Picudo de la tabaiba de monte |  | En peligro de extinción |
 | Rosalia alpina |  |  |  |
+| Diptera |  |  |  |
+| Mallota dusmeti (Andreu, 1926) | Sírfido de Dusmet |  | Vulnerable |
+| Meligramma cingulata (Egger, 1860) |  |  | Vulnerable |
+| Himenoptera |  |  |  |
+| Bombus confusus (Schenck, 1859) | Abejorro confuso |  | En peligro de extinción |
+| Bombus cullumanus (Kirby, 1802) | Abejorro de Cullum |  | En peligro de extinción |
+| Bombus gerstaeckeri (Morawitz, 1881) | Abejorro de los acónitos |  | En peligro de extinción |
+| Bombus inexspectatus (Tkalců, 1963) | Abejorro inesperado |  | En peligro de extinción |
 | Lepidoptera |  |  |  |
 | Agriades zullichi Hemming, 1933 | Alpina de Sierra Nevada, Mariposa del Puerto del Lobo |  |  |
 | Euchloe bazae Fabiano, 1993. | Azufrada ibérica, Blanquiverdosa azufrada |  | En peligro de extinción |
@@ -493,6 +504,7 @@
 | Maculinea nausithous | Hormiguera oscura |  | Vulnerable |
 | Parnassius apollo |  |  |  |
 | Parnassius mnemosyne |  |  |  |
+| Phengaris alcon (Denis y Schiffermüller, 1775) | Hormiguera de las gencianas |  |  |
 | Pyrgus cinarae (Rambur 1839) | Ajedrezada haltera |  |  |
 | Pyrgus sidae (Esper, 1784) | Ajedrezada amarilla |  |  |
 | Polyommatus golgus | Niña de Sierra Nevada |  | En peligro de extinción |
@@ -639,7 +651,7 @@
 | Squatina aculeata Cuvier, 1829. | Angelote espinoso | Canarias | En peligro de extinción |
 | SYNGNATHIFORMES |  |  |  |
 | Syngnathidae |  |  |  |
-| Hippocampus guttulatus (=H. ramulosus) | Caballito de mar | Mediterráneo y Atlántico ibérico |  |
+| Hippocampus guttulatus (Cuvier, 1829) | Caballito de mar de hocico largo |  | Vulnerable |
 | Hippocampus hippocampus | Caballito de mar | Mediterráneo y Atlántico ibérico |  |
 | TETRAODONTIFORMES |  |  |  |
 | Diodontidae |  |  |  |
@@ -653,6 +665,7 @@
 | Chondrostoma arcasii | Bermejuela |  |  |
 | Parachondrostoma arrigonis (=Chondrostoma arrigonis) | Loína |  | En peligro de extinción |
 | Squalius palaciosi (=Iberocypris palaciosi) | Bogardilla |  | En peligro de extinción |
+| Achondrostoma salmantinum (Doadrio y Elvira, 2007) | Sarda |  | En peligro de extinción |
 | CYPRINIDONTIFORMES |  |  |  |
 | Cyprinodontidae |  |  |  |
 | Aphanius baeticus | Salinete, Fartet atlántico |  | En peligro de extinción |
@@ -1298,6 +1311,8 @@
 2 Todas las especies de las Familias Sphyrnidae (géneros Sphyrna y Eusphyra) y Alopiidae (género Alopias).
 
 (2) Incluyen todas las especies del género.
+
+> Se modifica por el art. 1 de la Orden TED/1096/2026, de 6 de octubre. Ref. BOE-A-2026-21770
 
 > Se modifica por el art. 1 de la Orden TED/452/2025, de 5 de mayo. Ref. BOE-A-2025-9192
 

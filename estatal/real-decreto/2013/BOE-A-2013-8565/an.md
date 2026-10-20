@@ -36,6 +36,7 @@
 | Arundo donax L. | Canarias. | Caña, cañavera, bardiza, caña silvestre. |
 | Asparagus asparagoides (L.) Druce. |  | Esparraguera africana. |
 | Atriplex semilunaris Aellen. | Canarias. | Amuelle. |
+| Axonopus fissifolius (Raddi) Kuhlm. |  | Gramalote. |
 | Azolla spp. |  | Azolla. |
 | Baccharis halimifolia L. |  | Bácaris, chilca, chilca de hoja de orzaga, carqueja. |
 | Buddleja davidii Franchet. |  | Budleya, baileya, arbusto de las mariposas. |
@@ -61,6 +62,7 @@
 | Hedychium gardnerianum Shepard ex Ker Gawl. |  | Jengibre blanco. |
 | Helianthus tuberosus |  | Pataca o tupinambo. |
 | Heracleum mantegazzianum Somm. & Lev. |  | Perejil gigante. |
+| Hydrocharis L.(1) (1) Excepto Hydrocharis morsus-ranae L. |  | Cuchara, trébol de agua, lenteja de agua. |
 | Hydrocotyle ranunculoides L. f. |  | Redondita de agua. |
 | Ipomoea indica (Burn). | Canarias y Baleares. | Campanilla morada, batatilla de Indias. |
 | Leucaena leucocephala (Lam.) De wit. | Canarias. | Aromo blanco. |
@@ -76,6 +78,8 @@
 | Opuntia maxima Miller. |  | Tunera común. |
 | Opuntia stricta (Haw.). | Península Ibérica y Baleares. | Chumbera. |
 | Oxalis pes-caprae L. |  | Agrio, agrios, vinagrera, vinagreras. |
+| Paspalum notatum Flüggé |  | Alpargata, cambute, cañamazo, grama dulce, gramilla blanca, hierba de Bahia, pasto Bahia, pasto horqueta. |
+| Paspalum vaginatum Sw. |  |  |
 | Pennisetum clandestinum Hochst. ex Chiov. | Canarias y Baleares. | Quicuyo. |
 | Pennisetum purpureum Schum. | Canarias. | Pasto de elefante. |
 | Pennisetum setaceum (Forssk.) Chiov. |  | Plumero, rabogato, pasto de elefante. |
@@ -89,6 +93,7 @@
 | Spartina densiflora Brongn. |  | Espartillo. |
 | Spartina patens (Ait.) Muhl. |  |  |
 | Spartium junceum L. | Canarias. | Retama de olor. |
+| Stenotaphrum secundatum (Walter) Kuntze |  | Hierba de San Agustín, falso-kikuyu, grama americana, grama de costa, grama San Augustín, gramón, lastón, pasto San Agustín. |
 | Tradescantia fluminensis Velloso. |  | Amor de hombre, oreja de gato. |
 | Ulex europaeus L. | Canarias. | Tojo. |
 | Invertebrados no artrópodos |
@@ -111,6 +116,7 @@
 | Limnoperna securis (Lamarck, 1819). |  | Mejillón pequeño marrón. |
 | Artrópodos no crustáceos |
 | Aedes albopictus (Skuse, 1895). |  | Mosquito tigre. |
+| Crematogaster castanea (Smith, 1858). |  |  |
 | Cydalima perspectalis (Walker, 1859). |  | Polilla del boj. |
 | Diocalandra frumenti Fabricius, 1801. |  | Picudo de las palmeras, Picudo de cuatro manchas. |
 | Dysdera crocata C. L. Koch, 1838. | Canarias. | Araña roja, Disdera invasora. |
@@ -118,6 +124,7 @@
 | Lasius neglectus (Van Loon, Boomsma & Andrásfalvy, 1990). |  | Hormiga invasora de jardines. |
 | Leptoglossus occidentalis Heidemann, 1910. |  | Chinche americana del pino. |
 | Linepithema humile (Mayr, 1868). |  | Hormiga argentina. |
+| Messor cephalotes (Emery, 1895). |  |  |
 | Monochamus spp. (especies no europeas). |  |  |
 | Monomorium destructor (Jerdon, 1851). |  | Hormiga de Singapur. |
 | Monomorium pharaonis (Linnaeus, 1758). |  | Hormiga faraón. |
@@ -175,7 +182,7 @@
 | Xenopus laevis (Daudin, 1802). |  | Rana de uñas africana. |
 | Reptiles |
 | Chrysemys picta (Schneider, 1783). |  | Tortuga pintada. |
-| Todas las especies de la Familia Colubridae sensu lato. | Canarias, Ibiza y Formentera. |  |
+| Todas las especies de la familia Colubridae sensu lato (1). (1) Con excepción de las especies nativas Macroprotodon mauritanicus y Natrix maura en Mallorca y en Menorca, y de Zamenis scalaris en Menorca. | Canarias y todo el archipiélago balear. |  |
 | Elaphe guttata (Linnaeus, 1766). | Baleares. | Culebra del maizal. |
 | Género Mauremys Ritgen, 1828 (1). (1) Excepto Mauremys leprosa (Galápago leproso). |  | Tortugas acuáticas euroasiáticas, Galápagos. |
 | Género Pseudemys Gray, 1856. |  | Tortugas acuáticas americanas, Galápagos. |
@@ -218,11 +225,13 @@
 | Rattus norvegicus (Berkenhout, 1769). | Canarias. | Rata parda. |
 | Rattus rattus (Linnaeus, 1758). | Canarias. | Rata negra. |
 | Familia Sciuridae Hemprich, 18201. 1 Excepto Sciurus vulgaris y Marmota marmota. |  |  |
-| Sus scrofa var. domestica raza VIETNAMITA. |  | Cerdo vietnamita. |
+| Sus scrofa var. domestica (1). (1) Esta denominación se aplica a ejemplares mantenidos como mascotas, a animales libres en el medio natural y a ejemplares presentes en núcleos zoológicos, incluidas las tiendas de animales, y en ningún caso a animales que formen parte de explotaciones agrarias, considerados recursos zoogenéticos. |  | Cerdo vietnamita, incluyendo sus híbridos y los denominados «minipigs». |
 
 – Cuando en el ámbito de aplicación no se especifica nada, se refiere a todo el territorio español.
 
 – spp. Se refiere a todos los niveles taxonómicos infra-genéricos.
+
+> Se modifica por el art. 2 de la Orden TED/1096/2026, de 6 de octubre. Ref. BOE-A-2026-21770
 
 > Se modifica por el art. 2 de la Orden TED/452/2025, de 5 de mayo. Ref. BOE-A-2025-9192
 
