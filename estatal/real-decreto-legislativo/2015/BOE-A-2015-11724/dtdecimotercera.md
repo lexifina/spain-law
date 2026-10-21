@@ -14,6 +14,12 @@ En cualquier caso, la separación o divorcio debe haberse producido con anterior
 
 Lo dispuesto en esta disposición transitoria será también de aplicación a los hechos causantes producidos entre el 1 de enero de 2008 y el 31 de diciembre de 2009, e igualmente les será de aplicación lo dispuesto en el artículo 220 de esta ley.
 
-2. También tendrán derecho a la pensión de viudedad las personas que se encuentren en la situación señalada en el primer párrafo del apartado anterior, aunque no reúnan los requisitos señalados en el mismo, siempre que se trate de personas con sesenta y cinco o más años, no tengan derecho a otra pensión pública y la duración del matrimonio con el causante de la pensión no haya sido inferior a quince años.
+2. También tendrán derecho a la pensión de viudedad las personas que se encuentren en la situación señalada en el primer párrafo del apartado anterior, aunque no reúnan los requisitos señalados en el mismo, siempre que se trate de personas con sesenta y cinco o más años y la duración del matrimonio con el causante de la pensión no haya sido inferior a quince años.
 
 La pensión se reconocerá en los términos previstos en el apartado anterior.
+
+3. Aquellas personas a las que se les hubiera reconocido la pensión de viudedad al amparo de lo previsto en la redacción del apartado 2 anterior al Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social y de otras normas sociales, que hayan visto suspendido el derecho a su percepción o el de otra pensión contributiva del sistema de la Seguridad Social como consecuencia de su aplicación, podrán solicitar la rehabilitación de la pensión suspendida siempre que acrediten el mantenimiento del resto de requisitos exigidos. Todo ello sin perjuicio de la aplicación del límite máximo previsto para el supuesto de concurrencia de pensiones públicas.
+
+La solicitud deberá presentarse en el plazo improrrogable de los doce meses siguientes a la entrada en vigor del Real Decreto-ley 31/2026, de 20 de octubre. La rehabilitación de la pensión suspendida tendrá efectos económicos desde el día primero del mes siguiente al de la solicitud.
+
+> Se modifica el apartado 2 y se añade el 3 por el art. 1.18 del Real Decreto-ley 31/2026, de 20 de octubre. Ref. BOE-A-2026-21872#ap

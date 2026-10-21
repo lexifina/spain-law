@@ -18,8 +18,12 @@ No obstante, dichos incrementos serán compatibles con la prestación temporal d
 
 7.º Los incrementos de prestaciones regulados en este artículo sólo podrán ser reconocidos con respecto a uno solo de los progenitores.
 
-2. Cuando el progenitor superviviente hubiera perdido la condición de beneficiario de la pensión de viudedad a tenor de lo establecido en el apartado 1 de la disposición adicional primera de la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género, el huérfano tendrá derecho a los incrementos previstos para los casos de orfandad absoluta en el apartado anterior.
+2. A efectos de lo previsto en este artículo, se asimila a huérfano absoluto el huérfano de un solo progenitor conocido.
 
-Asimismo, a efectos de lo previsto en este artículo, se asimila a huérfano absoluto el huérfano de un solo progenitor conocido.
+Asimismo, se presumirá la orfandad absoluta cuando se hubiera producido abandono de la responsabilidad familiar del progenitor supérstite y se hubiera otorgado el acogimiento o tutela de la persona huérfana por violencia contra la mujer a favor de terceros o familiares.
+
+3. Cuando el progenitor superviviente hubiera perdido la condición de beneficiario de la pensión de viudedad a tenor de lo establecido en el apartado 1 de la disposición adicional primera de la Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género, el huérfano tendrá derecho a los incrementos previstos para los casos de orfandad absoluta en el apartado 1.
+
+> Se modifica el apartado 2 y se añade el apartado 3 por el art. 10 del Real Decreto-ley 31/2026, de 20 de octubre. Ref. BOE-A-2026-21872#ad
 
 > Se modifica por el art. 2.2 del Real Decreto 296/2009, de 6 de marzo. Ref. BOE-A-2009-4725.

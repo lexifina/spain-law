@@ -110,6 +110,8 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional sexta](dasexta.md)
 - [Disposición adicional séptima](daseptima.md)
 - [Disposición transitoria](dt.md)
+- [Disposición transitoria primera](dt-3.md)
+- [Disposición transitoria segunda](dt-2.md)
 - [Disposición derogatoria única](ddunica.md)
 - [Disposición final primera](dfprimera.md)
 - [Disposición final segunda](dfsegunda.md)

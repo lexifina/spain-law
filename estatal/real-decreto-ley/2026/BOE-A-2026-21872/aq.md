@@ -1,0 +1,5 @@
+## Artículo quinto. Modificación del texto refundido de las disposiciones legales vigentes sobre el Régimen especial de la Ley sobre Seguridad Social del personal al servicio de la Administración de Justicia, aprobado por el Real Decreto Legislativo 3/2000, de 23 de junio.
+
+Se modifica el artículo 19.2 del texto refundido de las disposiciones legales vigentes sobre el Régimen especial de la Ley sobre Seguridad Social del personal al servicio de la Administración de Justicia, aprobado por el Real Decreto Legislativo 3/2000, de 23 de junio, que queda redactado como sigue:
+
+> «2. Asimismo, se encontrarán en situación de incapacidad temporal las funcionarias en activo comprendidas en el ámbito de aplicación del presente texto refundido que se encuentren en las situaciones especiales de incapacidad temporal por contingencias comunes a que se refiere el artículo 169.1.a),1.ª,2.ª, 4.ª y 5.ª, del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, en los términos de los artículos 144, 172 y 173 de la misma norma.»
