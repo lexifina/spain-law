@@ -205,6 +205,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Disposición adicional novena](da-9.md)
 - [Disposición adicional décima](da-10.md)
 - [Disposición adicional decimoprimera](da-11.md)
+- [Disposición adicional decimosegunda](da-12.md)
 - [Disposición derogatoria única](dd.md)
 - [Disposición final primera](df.md)
 - [Disposición final segunda](df-2.md)
