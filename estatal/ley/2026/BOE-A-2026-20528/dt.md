@@ -1,0 +1,3 @@
+## Disposición transitoria. Revisión de prestaciones vigentes para la prórroga del derecho a la prestación y permiso por cuidado de menores afectados por cáncer u otra enfermedad grave, vinculada a la convivencia con la persona dependiente, en los supuestos de gran discapacidad o gran dependencia.
+
+Las personas que hubieran perdido el derecho a la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave como consecuencia del cumplimiento del límite de edad podrán solicitar la revisión de su situación conforme a lo establecido en esta ley, siempre que se mantengan los requisitos de discapacidad grave o gran dependencia y convivencia con el cuidador.

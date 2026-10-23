@@ -8,6 +8,8 @@ Con carácter anual, los mediadores sociales del ingreso mínimo vital comunicar
 
 La entidad gestora, en los términos previstos en el artículo 23.4, podrá comunicar a los mediadores sociales del ingreso mínimo vital las resoluciones de las prestaciones del ingreso mínimo vital para la realización de aquellas actividades que tengan encomendadas, en el marco de la colaboración y cooperación que en la gestión y control del ingreso mínimo vital corresponde al Instituto Nacional de la Seguridad Social.
 
+Las Entidades del Tercer Sector de Acción Social, en el supuesto de personas empadronadas, al amparo de lo previsto en las correspondientes instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal, en sus sedes o centros, están obligadas a comunicar al Instituto Nacional de la Seguridad Social cualquier modificación que afecte a la gestión y control de la prestación, dentro del plazo de los treinta días siguientes a que se produzcan.
+
 2. A los efectos de lo previsto en esta Ley, son mediadores sociales del ingreso mínimo vital las entidades del Tercer Sector de acción social, conforme a la definición prevista en el artículo 2 de la ley 43/2015, de 9 de octubre, del Tercer Sector de Acción Social, debidamente registradas en el Registro de Mediadores Sociales del Ingreso Mínimo Vital.
 
 A tal fin, se crea el Registro de Mediadores Sociales del Ingreso Mínimo Vital como registro público, de titularidad del Ministerio de Inclusión, Seguridad Social y Migraciones, que será gestionado por la Secretaría General de Objetivos y Políticas de Inclusión y Previsión Social.
@@ -71,6 +73,8 @@ b) Son infracciones muy graves:
 c) La infracción leve establecida en esta disposición será sancionada con el apercibimiento.
 
 d) Las infracciones muy graves, establecidas en esta disposición, cometidas por una entidad inscrita en el registro de mediadores sociales del ingreso mínimo vital darán lugar a la baja de su inscripción en el registro, sin perjuicio de las responsabilidades penales, civiles o administrativas a que hubiere lugar.
+
+> Se modifica el apartado 1 por la disposición final 13 de la Ley 4/2026, de 1 de octubre. Ref. BOE-A-2026-20528#df-13
 
 > Se modifica el apartado 1 por la disposición final 3.4 de la Ley 1/2026, de 8 de abril. Ref. BOE-A-2026-7967#df-3
 
