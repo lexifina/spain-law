@@ -1,5 +1,0 @@
-## ANEXO IV
-
-## FICHA PARA EL REGISTRO DE DATOS DE LA EVALUACIÓN DE LA EXPOSICIÓN EN LOS TRABAJOS CON AMIANTO
-
-![imagen](https://www.boe.es/datos/imagenes/disp/2006/86/06474_002.png)
