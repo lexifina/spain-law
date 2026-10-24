@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Datos archivados antes de la entrada en vigor de este real decreto.
+
+Los datos registrados y la documentación archivada en virtud de lo previsto en la Orden del Ministerio de Trabajo y Seguridad Social, de 31 de octubre de 1984, por la que se aprueba el Reglamento sobre trabajos con riesgo por exposición al amianto, y en el Real Decreto 396/2006, de 31 de marzo, por el que se establecen las disposiciones mínimas de seguridad y salud aplicables a los trabajos con riesgo de exposición al amianto, deberán conservarse en los términos establecidos en dichas normas.

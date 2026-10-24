@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Evaluación de la aprobación de los planes de trabajo y de la inscripción en el RERA.
+
+Transcurridos dieciocho meses desde la entrada en vigor de este real decreto, el Ministerio de Trabajo y Economía Social podrá evaluar el funcionamiento del modelo previsto para los planes de trabajo y la inscripción en el RERA en los artículos 12 y 18, con el fin de valorar, en su caso, la introducción de mejoras en dicho modelo. La evaluación se llevará a cabo con la participación de las organizaciones sindicales y empresariales más representativas, así como de las comunidades autónomas, y sus resultados se presentarán a la Comisión Nacional de Seguridad y Salud en el Trabajo.
