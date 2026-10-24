@@ -2,7 +2,7 @@
 
 ## Lista de sustancias, mezclas y procedimientos
 
-[Párrafo b) del artículo 2]
+[artículo 2.2]
 
 1. Fabricación de auramina.
 
@@ -19,6 +19,8 @@
 7. Trabajos que supongan exposición cutánea a aceites minerales previamente utilizados en motores de combustión interna para lubrificar y refrigerar los elementos móviles del motor.
 
 8. Trabajos que supongan exposición a emisiones de motores diésel.
+
+> Se modifica el título por el art. 1.7 del Real Decreto 846/2026, de 21 de octubre. Ref. BOE-A-2026-22080
 
 > Se añaden los apartados 7 y 8 por el art. único.1 del Real Decreto 427/2021, de 15 de junio. Ref. BOE-A-2021-10029
 
