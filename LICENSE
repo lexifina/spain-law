@@ -1,0 +1,22 @@
+Data: Agencia Estatal Boletín Oficial del Estado (https://www.boe.es)
+
+Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es).
+
+The legislative texts in this repository are the consolidated texts (textos consolidados) of the Agencia Estatal
+Boletín Oficial del Estado (AEBOE), reused under the AEBOE's reuse conditions (condiciones de reutilización, licence
+approved by Resolution of the Agency of 27 June 2024, in force from 28 June 2024):
+https://www.boe.es/informacion/aviso_legal/index.php#reutilizacion
+
+As those conditions require:
+- Source: "Basado en datos de la Agencia Estatal Boletín Oficial del Estado", with a link to https://www.boe.es.
+- Los textos consolidados reproducidos aquí son de carácter meramente informativo. Únicamente tienen la
+  consideración de oficiales y auténticos los textos publicados en la edición electrónica del diario oficial
+  «Boletín Oficial del Estado». Every norm's README.md repeats this.
+- The date of the last update of each consolidated text (fecha_actualizacion) is listed in normas.tsv.
+- This is a derived work: the BOE's texts are rearranged into one file per block and a git history, with markup
+  added as README.md describes (`## ` headings, `> ` notes, table pipes). No words are changed. Commit messages,
+  READMEs and tools are Lexifina's, not the BOE's.
+- The AEBOE does not take part in, sponsor or endorse this repository.
+
+The repository's own code and documentation (tools/, build/, README.md, REPRODUCE.md, corpus.json) are released
+under CC0 1.0 by Lexifina.

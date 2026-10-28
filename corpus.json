@@ -1,0 +1,36 @@
+{
+  "corpus": "es/national/acts",
+  "name": "Spanish state law: every consolidated norm of ámbito Estatal (BOE legislación consolidada)",
+  "label": "Spain",
+  "language": "es",
+  "acts": 8774,
+  "history_from": "1835-11-27",
+  "record_to": "2026-10-28",
+  "record_note": "BOE consolidated texts of every Estatal norm, retrieved 2026-10-28; versions in force after 2026-10-28 left out.",
+  "built": "2026-10-28",
+  "in_force_trailer": "In-force",
+  "has_future_branch": false,
+  "dates": {
+    "commit": "in-force",
+    "other_trailers": [
+      "Published",
+      "Enacted"
+    ],
+    "time": "12:00 Europe/Madrid (UTC+1, UTC+2 in summer time; EU rule)"
+  },
+  "scope": {
+    "trailer": "Applies",
+    "when_absent": "this corpus records no scope notes (no commit carries Applies:); the absence is not a statement that the change reaches every case",
+    "default_reach": {
+      "rule": "no retroactivity unless the law provides otherwise",
+      "meaning": "laws have no retroactive effect unless they so provide; the Constitution guarantees the non-retroactivity of punitive provisions that are unfavourable or that restrict individual rights; in criminal law a later more favourable law applies",
+      "authority": "Código Civil art. 2.3 (\"Las leyes no tendrán efecto retroactivo, si no dispusieren lo contrario.\"); Constitución Española art. 9.3 (\"la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales\")",
+      "decided_here": false
+    }
+  },
+  "citation": {
+    "file": "estatal/[a-z-]+/\\d{4}/(BOE-A-\\d{4}-\\d+)/([^/]+)\\.md",
+    "cites": "{n}"
+  },
+  "tool": "tools/eslaw.py"
+}
