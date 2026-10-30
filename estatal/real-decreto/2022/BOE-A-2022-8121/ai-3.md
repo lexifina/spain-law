@@ -434,7 +434,7 @@ CH4: 25
 
 Las estimaciones de las emisiones procedentes del cultivo y cosecha de biomasa forestal podrán elaborarse a partir de medias de tales emisiones calculadas para zonas geográficas a nivel nacional, como alternativa a la utilización de valores reales.
 
-6. A efectos del cálculo a que se refiere el punto 1, letra a), la reducción de emisiones debida a la mejora de la gestión agrícola esca (como la reducción o supresión de la labranza, sistemas mejorados de rotación de cultivos, uso de cultivos de cobertura, incluida la gestión de los desechos de los cultivos, y el uso de enmiendas orgánicas del suelo, tales como el compost o el digestato de la fermentación del estiércol), solo se considerará si se facilitan pruebas convincentes y verificables de que el contenido de carbono del suelo ha aumentado, o cabe esperar que haya aumentado, en el período en el que se han cultivado las materias primas consideradas, teniendo a la vez en cuenta las emisiones cuando tales prácticas llevan a un mayor uso de abonos y herbicidas.(3)
+6. A efectos del cálculo a que se refiere el punto 1, letra a), la reducción de emisiones de gases de efecto invernadero debida a la mejora de la gestión agrícola, esca (como la reducción o supresión de la labranza, sistemas mejorados de cultivo y rotación de cultivos, uso de cultivos de cobertura, incluida la gestión de los desechos de los cultivos, y el uso de enmiendas orgánicas del suelo, tales como el compost y el digestato de la fermentación del estiércol), solo se tendrá en cuenta si no existe el riesgo de que afecte negativamente a la biodiversidad. Además, se deberán facilitar pruebas convincentes y verificables de que el contenido de carbono del suelo ha aumentado, o cabe esperar que haya aumentado, en el período en el que se han cultivado las materias primas consideradas, teniendo a la vez en cuenta las emisiones cuando tales prácticas llevan a un mayor uso de abonos y herbicidas(3).
 
 (3) Dichas pruebas pueden consistir en mediciones del carbono en suelo, compuestas, por ejemplo, de una primera medición con anterioridad al cultivo y otras posteriores a intervalos regulares de varios años. En tal caso, antes de que se disponga de la segunda medición, el aumento del carbono en suelo se calcularía atendiendo a experimentos representativos o a modelos de suelo. A partir de la segunda medición, las mediciones constituirían la base para determinar la existencia de un aumento del carbono en suelo y de su magnitud.
 
@@ -486,7 +486,7 @@ Las emisiones procedentes de la transformación incluirán las emisiones procede
 
 14. La reducción de emisiones derivada de la captura y almacenamiento geológico del CO2, eccs, que no se haya contabilizado ya en ep, se limitará a las emisiones evitadas gracias a la captura y el almacenamiento del CO2 emitido, relacionado directamente con la extracción, el transporte, la transformación y la distribución del combustible de biomasa, siempre y cuando se almacene de conformidad con la Directiva 2009/31/CE.
 
-15. La reducción de emisiones derivada de la captura y sustitución del CO2, eccr estará directamente relacionada con la producción de combustible de biomasa de donde proceden, y se limitará a las emisiones evitadas gracias a la captura del CO2 cuyo carbono proviene de la biomasa y se utiliza para sustituir el CO2 de origen fósil en la producción de productos y servicios comerciales.
+15. La reducción de emisiones derivada de la captura y sustitución del CO2, eccr estará directamente relacionada con la producción de los combustibles de biomasa de donde proceden, y se limitará a las emisiones evitadas gracias a la captura del CO2 cuyo carbono proviene de la biomasa y se utiliza para sustituir el CO2 de origen fósil en la producción de productos y servicios comerciales antes del 1 de enero de 2036.
 
 16. Cuando una unidad de cogeneración –que suministra calor y/o electricidad a un proceso de producción de combustible de biomasa cuyas emisiones se estén calculando– produzca electricidad excedentaria y/o calor útil excedentario, las emisiones de gases de efecto invernadero se repartirán entre la electricidad y el calor útil en función de la temperatura del calor (que refleja la utilidad del este). La porción útil del calor se obtiene al multiplicar su contenido energético por el factor de eficiencia de Carnot, Ch, que se calcula como sigue:
 
@@ -516,11 +516,11 @@ c) «Demanda económicamente justificable»: la demanda que no supera las necesi
 
 18. A efectos del cálculo mencionado en el punto 17, las emisiones que deben repartirse serán eec + el + esca + las fracciones de ep, etd, eccs, y eccr que intervienen hasta la fase del proceso en que se produce un coproducto, incluida dicha fase. Si se han asignado emisiones a coproductos en una fase anterior del proceso en el ciclo de vida, se utilizará a dichos efectos la fracción de esas emisiones asignadas al producto combustible intermedio en esa última fase, en lugar del total de las emisiones.
 
-En el caso del biogás y el biometano, todos los coproductos se tendrán en cuenta a efectos de ese cálculo. No se asignarán emisiones a los residuos y desechos. A efectos del cálculo, se considerará que los coproductos con un contenido energético negativo tienen un contenido energético nulo.
+En el caso del biogás y el biometano, se tendrán en cuenta a efectos de ese cálculo todos los coproductos no comprendidos en el punto 17. A efectos del cálculo, se considerará que los coproductos con un contenido energético negativo tienen un contenido energético nulo.
 
-Se considerará que los residuos y desechos, incluidas las copas de árboles y ramas, la paja, las cortezas, peladuras y cáscaras de frutos secos, así como los desechos de la transformación, incluidos la glicerina en crudo (no refinada) y el bagazo, son materiales sin emisiones de gases de efecto invernadero en el ciclo de vida hasta su recogida, independientemente de si son transformados en productos intermedios antes de su transformación en producto final.
+Como norma general, se considerará que los residuos y desechos, incluidos todos los residuos y desechos mencionados en el anexo I, son materiales sin emisiones de gases de efecto invernadero en el ciclo de vida hasta su recogida, independientemente de si son transformados en productos intermedios antes de su transformación en producto final.
 
-En el caso de los combustibles de biomasa producidos en refinerías, distintos de la combinación de plantas de transformación con calderas o unidades de cogeneración que suministran calor y/o electricidad a la planta de transformación, la unidad de análisis a efectos del cálculo mencionado en el punto 17 será la refinería.
+En el caso de los combustibles de biomasa producidos en refinerías, distintos de la combinación de plantas de transformación con calderas o unidades de cogeneración que suministran calor o electricidad, o ambos, a la planta de transformación, la unidad de análisis a efectos del cálculo mencionado en el punto 17 será la refinería.
 
 19. Para los combustibles de biomasa utilizados en la producción de electricidad, a efectos del cálculo mencionado en el punto 3, el valor del combustible fósil de referencia ECF(el) será 183 g CO2 eq/MJ de electricidad o 212 g CO2 eq/MJ de electricidad para las regiones ultraperiféricas.
 
@@ -887,5 +887,7 @@ Valores típicos y valores por defecto - biometano - mezcla de estiércol y maí
 | Digestato en cerrado, con combustión de los gases desprendidos. | 7 | 10 |
 
 En el caso de biometano usado en forma de biometano comprimido como combustible para el transporte, debe añadirse un valor de 3,3 g CO2 eq/MJ (biometano) a los valores típicos y de 4,6 g CO2 eq/MJ (biometano) a los valores por defecto.
+
+> Se modifican los apartados 6, 15 y 18 de la parte B por la disposición final 2.11 del Real Decreto 926/2026, de 28 de octubre. Ref. BOE-A-2026-22615#df-2
 
 > Redactados los apartados A y B conforme a la corrección de errores publicada en el BOE núm. 53, de 3 de marzo de 2023. Ref. BOE-A-2023-5579

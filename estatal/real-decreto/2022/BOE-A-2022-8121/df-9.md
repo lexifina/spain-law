@@ -22,6 +22,10 @@ i) La fecha a partir de la cual podrán computarse a efectos del objetivo de ven
 
 j) Las instrucciones necesarias para el funcionamiento del sistema de garantías de origen del gas procedente de fuentes renovables.
 
+k) La regulación de otros esquemas nacionales de verificación de la sostenibilidad.
+
 2. Se habilita a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico para modificar los anexos por razones de carácter técnico o para su adaptación a lo previsto en la normativa de la Unión Europea que pueda incidir en su contenido.
 
 3. Las circulares e instrucciones de la Comisión Nacional de los Mercados y la Competencia en relación con el mecanismo de fomento del uso de biocarburantes y otros combustibles renovables con fines de transporte continuarán siendo de aplicación en tanto en cuanto no sean sustituidas.
+
+> Se añade la letra k) al apartado 1 por la disposición final 2.9 del Real Decreto 926/2026, de 28 de octubre. Ref. BOE-A-2026-22615#df-2
