@@ -30,7 +30,7 @@ Se definen los siguientes niveles de criticidad:
 | Nivel 3 | CNAE Grupo C: 101, 102, 103, 104, 105, 1061, 1062, 1071, 1072, 1073, 1086, 1091, 110711, 1624, 1627, 1711, 1712, 1721, 1722, 192, 20, 21, 2311, 2313, 2314, 2319, 2351, 2399, 2551, 2552, 2553, 2592, 3250, 2660. |
 | Nivel 4 | CNAE Grupo A, Grupo E, Grupo G, Grupo H, Grupo I, Grupo J, Grupo K, Grupo L, Grupo M, Grupo N, Grupo O, Grupo P, Grupo Q, Grupo R, Grupo S, Grupo T, Grupo U. |
 
-El Grupo D, al ser el sector encargado del suministro de energía eléctrica, gas, vapor y aire acondicionado no se verá afectado por esta norma y se atendrá a lo dispuesto, en caso de emergencia, por el Gobierno. Tampoco será afectado por esta norma, aquellos consumidores que, no perteneciendo al Grupo D, dispongan de cogeneración en su proceso productivo, atendiendo a la información facilitada por los operadores según lo indicado en el apartado 5.3.
+El Grupo D, al ser el sector encargado del suministro de energía eléctrica, gas, vapor y aire acondicionado, no se verá afectado por esta norma y se atendrá a lo dispuesto, en caso de emergencia, por el Gobierno. Tampoco quedarán afectados por esta norma aquellos consumidores que, no perteneciendo al Grupo D, dispongan de cogeneración en su proceso productivo, atendiendo a la información facilitada por los operadores según lo indicado en el apartado 5.3. Estos últimos solo estarán excluidos de esta norma por el volumen de gas consumido dedicado a la cogeneración.
 
 Los grupos CNAE considerados son:
 
@@ -56,5 +56,7 @@ Los grupos CNAE considerados son:
 | Grupo S | Otros servicios. |
 | Grupo T | Actividades de los hogares como empleadores de personal doméstico; actividades de los hogares como productores de bienes y servicios para uso propio. |
 | Grupo U | Actividades de organizaciones y organismos extraterritoriales. |
+
+> Se modifica el último párrafo por la disposición final 1.6 de la Orden TED/1149/2026, de 30 de octubre. Ref. BOE-A-2026-22792
 
 > Se sustituye la referencia a la CNAE 2009 por CNAE 2025 y se modifican los dos primeros párrafos y determinados códigos de la tabla de niveles de criticidad, por la disposición final 1.4, 6 y 7 de la Orden TED/1062/2025, de 25 de septiembre. Ref. BOE-A-2025-19341
