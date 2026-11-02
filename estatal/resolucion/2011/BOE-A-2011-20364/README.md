@@ -8,6 +8,10 @@
 
 Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
 
+## Repeal
+
+BOE records this act as repealed with effect from 2026-11-02. The recorded cause is disposición derogatoria.2, con efectos de 2 de noviembre de 2026, según establece la disposición final.1.a), y teniendo en cuenta lo establecido en la disposición transitoria.1 de la Resolución de 4 de junio de 2026 (BOE-A-2026-13031). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
 ## Bloques
 
 - [no](no.md)
