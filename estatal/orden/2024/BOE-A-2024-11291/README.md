@@ -26,6 +26,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [CAPÍTULO III](ci-3.md)
 - [Artículo 11](a1-3.md)
 - [Artículo 12](a1-4.md)
+- [Artículo 12 bis](a1-6.md)
 - [Artículo 13](a1-5.md)
 - [Disposición adicional primera](da.md)
 - [Disposición adicional segunda](da-2.md)
