@@ -1,6 +1,6 @@
 ## Disposición adicional trigésima primera. Régimen jurídico del convenio especial a suscribir en determinados expedientes de regulación de empleo.
 
-1. En el convenio especial a que se refiere el artículo 51.15 del Texto Refundido de la Ley del Estatuto de los Trabajadores, las cotizaciones abarcarán el periodo comprendido entre la fecha en que se produzca el cese en el trabajo o, en su caso, en que cese la obligación de cotizar por extinción de la prestación por desempleo contributivo, y la fecha en la que el trabajador cumpla la edad a que se refiere la letra a) del apartado 1 del artículo 161, en los términos establecidos en los apartados siguientes.
+1. En el convenio especial a que se refiere el artículo 51.9 del Estatuto de los Trabajadores, las cotizaciones abarcarán el periodo comprendido entre la fecha en que se produzca el cese en el trabajo o, en su caso, en que cese la obligación de cotizar por extinción de la prestación por desempleo contributivo, y la fecha en la que el trabajador cumpla la edad a que se refiere la letra a) del apartado 1 del artículo 161, en los términos establecidos en los apartados siguientes.
 
 2. A tal efecto, las cotizaciones por el referido periodo se determinarán aplicando al promedio de las bases de cotización del trabajador, en los últimos 6 meses de ocupación cotizada, el tipo de cotización previsto en la normativa reguladora del convenio especial. De la cantidad resultante se deducirá la cotización, a cargo del Servicio Público de Empleo Estatal, correspondiente al periodo en el que el trabajador pueda tener derecho a la percepción del subsidio de desempleo, cuando corresponda cotizar por la contingencia de jubilación, calculándola en función de la base y tipo aplicable en la fecha de suscripción del convenio especial.
 
@@ -10,7 +10,7 @@ Dichas cotizaciones se ingresarán en la Tesorería General de la Seguridad Soci
 
 A partir del cumplimiento por parte del trabajador de la edad de 63 o, en su caso, 61 años, las aportaciones al convenio especial serán obligatorias y a su exclusivo cargo, debiendo ser ingresadas, en los términos previstos en la normativa reguladora del convenio especial, hasta el cumplimiento de la edad a que se refiere la letra a) del apartado 1 del artículo 161 o hasta la fecha en que, en su caso, acceda a la pensión de jubilación anticipada, sin perjuicio de lo previsto en el apartado 4.
 
-> Atención: esta última actualización de los apartados 1 y 2 entran en vigor el 1 de enero de 2013.
+> Atención: esta última actualización de los apartados 1 y 2 entra en vigor el 1 de enero de 2013.
 
 > Redacción vigente:
 
@@ -31,6 +31,8 @@ A partir del cumplimiento por parte del trabajador de la edad de 63 o, en su cas
 A tal efecto, el hecho causante del reintegro tendrá lugar en la fecha del fallecimiento del trabajador o en aquella en la que éste hubiera causado pensión de incapacidad permanente para los supuestos previstos en el apartado 3, y en la fecha en que el trabajador hubiera causado pensión de jubilación, para el supuesto previsto en el apartado 4.
 
 6. En lo no previsto en los apartados precedentes, este convenio especial se regirá por lo dispuesto en las normas reglamentarias reguladoras del convenio especial en el sistema de la Seguridad Social.
+
+> Se modifica el apartado 1 por el art. 2.3 de la Ley 13/2012, de 26 de diciembre. Ref. BOE-A-2012-15596.
 
 > Se modifican los apartados 1 y 2 por la disposición adicional 6.1 de la Ley 27/2011, de 1 de agosto. Ref. BOE-A-2011-13242.
 
