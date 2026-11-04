@@ -11,7 +11,7 @@
 | Semilla de base | – | 1 año. | 20 m. | 1/1.000 | Cero. | 50/Ha. |
 | Semilla certificada (R–1) | 3 Ha. | 1 año. | 5 m. | 2/1.000 | 5/Ha. | 500/Ha. |
 | Semilla certificada (R–2) | 5 Ha. | 1 año. | 5 m. | 5/1.000 | 5/Ha. | 500/Ha. |
-| Cártamo y comino: |  |  |  |  |  |  |
+| Cártamo: |  |  |  |  |  |  |
 | Semilla de base | – | 2 años. | 500 m. | 1/30 m² | Cero. | 50/Ha. |
 | Semilla certificada | 5 Ha. | 2 años. | 200 m. | 1/10 m² | 5/Ha. | 500/Ha. |
 | Colza: |  |  |  |  |  |  |
@@ -60,19 +60,10 @@ Las distancias mínimas pueden reducirse a 10 metros, cuando se trate de un camp
 
 Los Servicios oficiales de control podrán diferir la aceptación o anulación de una parcela en el caso de que se sobrepasen los máximos fijados hasta que se haya procedido a la selección mecánica y análisis de las muestras, cuando el productor lo solicite y siempre que quede garantizado que la semilla de la parcela considerada no se haya mezclado con la de otras parcelas.
 
-5.ª Plantas infectadas.–Se considerarán aquellas enfermedades que se transmiten por semilla o que dañen a esta directa o indirectamente de forma apreciable. La presencia de plantas atacadas por estas enfermedades podrá ser motivo de rechazo del campo.
+5.ª Plantas infectadas.–Se considerarán aquellas enfermedades que se transmiten por semilla o que dañen a ésta directa o indirectamente de forma apreciable. La presencia de plantas atacadas por estas enfermedades podrá ser motivo de rechazo del campo.
 
-El cultivo estará prácticamente libre de cualquier plaga que reduzca la utilidad y calidad de los materiales de reproducción. El cultivo también cumplirá los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
+En especial y en relación con la producción de semilla de girasol, se rechazará toda parcela en la que, en una inspección oficial, se detecte más del 0,1 por 100 de plantas atacadas de mildiu («Plasmopara ssp.») cuando se trate de variedades resistentes, y del 0,01 por 100 en variedades sensibles.
 
-La presencia de plagas reguladas no cuarentenarias en los cultivos cumplirá los requisitos que figuran en el cuadro siguiente:
+En el caso de variedades sensibles, además de cumplirse lo expuesto anteriormente, para poder comercializarlas será obligatorio un tratamiento previo de la semilla con una materia activa de probada eficacia contra dicha enfermedad.
 
-| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para la producción de semillas de prebase | Umbrales para la producción de semillas de base | Umbrales para la producción de semillas certificadas |
-| --- | --- | --- | --- | --- |
-| Hongos y oomicetos |
-| Plasmopara halstedii (Farlow) Berlese & de Toni [PLASHA]. | Helianthus annuus L. | 0 % | 0 % | 0 % |
-
-En el caso de variedades de girasol sensibles al mildiu (“Plasmopara ssp.”), además de cumplirse lo expuesto anteriormente, para poder comercializarlas será obligatorio un tratamiento previo de la semilla con una materia activa de probada eficacia contra dicha enfermedad.
-
-> Se modifica la observación 5ª por el art. 5.1 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#aq
-
-> Se corrigen errores por la ORDEN ARM/2555/2011, de 21 de septiembre. Ref. BOE-A-2011-15172.
+En el caso de soja (Glycine max) se prestará especial atención a los microorganismos: «Pseudomonas syringae pv. glycinea», «Diaporthe phaseolorum var. caulivora y var. sojae», «Phialophora gregata» y «Phytophthora megasperma f.sp. glycinea».

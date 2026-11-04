@@ -8,7 +8,7 @@ Quedan incluidas en el ámbito de ampliación de este Reglamento Técnico las se
 
 Arachis hypogaea L.: Cacahuete.
 
-Brassica juncea (L.) Czern.: Mostaza de la China, Mostaza india.
+Brassica juncea (L.) Czern.: Mostaza de la China.
 
 Brassica napus L. (partim): Colza
 
@@ -17,8 +17,6 @@ Brassica nigra (L.) W.D.J. Koch: Mostaza negra.
 Brassica rapa L. var. silvestris (Lam.) Briggs: Nabina.
 
 Carthamus tinctorius L.: Cártamo o alazor.
-
-Carum carvi L.: Comino
 
 Glycine max (L) Merr: Soja.
 
@@ -219,16 +217,15 @@ e) 5. Inspecciones.–El número de inspecciones de campo será de tres como mí
 
 f) Requisitos de las semillas: Las semillas de las distintas categorías han de cumplir los requisitos que se señalan en el anejo número dos, salvo los correspondientes a pureza varietal de las semillas parental e híbrida de colza, que serán los que figuran en el apartado g).
 
-g) Requisitos especiales para la producción de semilla parental e híbrida de colza: En el caso de híbridos de colza producidos utilizando androesterilidad, la semilla tendrá suficiente identidad y pureza en cuanto a las características varietales de sus componentes, incluyendo, según los casos, la androesterilidad o la restauración de la fertilidad.
+g) Requisitos especiales de la semilla parental e híbrida de colza: En el caso de híbridos de colza producidos utilizando androesterilidad, la semilla tendrá suficiente identidad y pureza en cuanto a las características varietales de sus componentes, incluyendo, según los casos, la androesterilidad o la restauración de la fertilidad.
 
 La pureza varietal mínima de la semilla será la siguiente:
 
-| Tipo de semilla | Pureza varietal mínima – Porcentaje |
+| Tipo de semilla | Pureza varietal mínima (%) |
 | --- | --- |
 | Semilla de base (componente femenino) | 99,0 |
 | Semilla de base (componente masculino) | 99,9 |
-| Semilla certificada de las variedades de colza de invierno | 90,0 |
-| Semilla certificada de las variedades de colza de primavera | 85,0 |
+| Semilla certificada | 90,0 |
 
 Para poder precintar la semilla certificada será necesario disponer de resultados satisfactorios de un postcontrol oficial en campo realizado con muestras de semilla de base tomadas oficialmente y llevado a cabo durante el mismo período vegetativo en que se está produciendo la semilla certificada, con el fin de confirmar que las semillas de base cumplen los requisitos establecidos en cuanto a identidad y pureza, incluida la androesterilidad.
 
@@ -250,15 +247,11 @@ Floración en un plazo máximo de tres días después de iniciada.
 
 Fecha en que se iniciará la recolección.
 
-i) Uso de técnicas bioquímicas o moleculares.
-
-En el caso de que, tras las inspecciones oficiales de campo indicadas en el presente apartado IV, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
-
 ## V. Precintado de semillas
 
 a) Requisitos de los lotes de semilla: Los tamaños máximos de los lotes de semilla serán los indicados en el anejo número tres.
 
-b) Envases: Los envases en que se vaya a comercializar la semilla deberán reunir las suficientes condiciones de seguridad y ser aptos para la conservación de la semilla, no existiendo limitaciones en cuanto al material de que estén fabricados.
+b) Envases: Los envases en que se vaya a comercializar la semilla podrán tener cualquier capacidad comprendida entre 3 y 50 kilos, no existiendo limitaciones en cuanto al material de que estén fabricados, siempre que reúnan las suficientes condiciones de seguridad y sean aptos para la conservación de la semilla. Se exceptúan de la limitación superior de peso los contenedores u otros recipientes que se admitan internacionalmente para el transporte de semilla.
 
 c) Precintado: Para todas las especies sujetas al presente reglamento se precintarán además de las semillas de base, certificadas, certificadas de primera, segunda y tercera reproducción, las correspondientes a la categoría inmediatamente anterior a la de base.
 
@@ -282,23 +275,15 @@ En las parcelas de precontrol y postcontrol se señalaran, pero no arrancaran, l
 
 a) Categorías de los productores. Se admiten las siguientes categorías de productores:
 
-– Productor mantenedor.
+Productor-obtentor.
 
-– Productor multiplicador.
+Productor-seleccionador.
 
-– Productor procesador.
+b) Capacidad de las instalaciones: La capacidad de las instalaciones para ser productor-seleccionador, de las especies señaladas en este Reglamento, ha de ser tal que, como mínimo, permita la manipulación de una producción anual de 1.000 toneladas métricas de semilla, excepto para los productores que obtengan exclusivamente semilla de una sola especie, en cuyo caso se permitirá que la capacidad de las instalaciones sea menor.
 
-b) Capacidad de las instalaciones:
+c) Instalaciones: Se comprobará que las características de las instalaciones mínimas exigidas en el Reglamento General de Control y Certificación son las adecuadas en cada caso.
 
-La capacidad de las instalaciones para ser productor de las especies señaladas en este Reglamento, ha de ser tal que, como mínimo, permita la manipulación de 1.000 toneladas de semilla al año, excepto para los productores que produzcan exclusivamente semilla de una sola especie, en cuyo caso se permitirá que la capacidad de las instalaciones sea menor.
-
-c) Instalaciones:
-
-Se comprobará que las características de las instalaciones mínimas que tienen que estar a disposición del productor, exigidas en el artículo 13 del Real Decreto 1054/2021, de 30 de noviembre, por el que se establecen y regulan el Registro de operadores profesionales de vegetales, las medidas a cumplir por los operadores profesionales autorizados a expedir pasaportes fitosanitarios y las obligaciones de los operadores profesionales de material vegetal de reproducción, y se modifican diversos reales decretos en materia de agricultura, son las adecuadas en cada caso.
-
-d) Campos en cultivo directo:
-
-Los productores mantenedores deberán disponer de campos en cultivo directo para la obtención de las generaciones anteriores a base y para establecer los campos de pre y postcontrol, en superficie adecuada a sus planes de producción. La semilla de base podrá producirse en fincas de agricultores-colaboradores, previa autorización de los Servicios oficiales de control.
+d) Campos en cultivo directo: Deberán disponer de campos en cultivo directo para la obtención de las generaciones anteriores a base y para establecer los campos de pre y poscontrol, en superficie adecuada a sus planes de producción. La semilla de base podrá producirse en fincas de agricultores-colaboradores, previa autorización de los Servicios oficiales de control.
 
 ## VIII. Comercialización
 
@@ -331,9 +316,3 @@ En las etiquetas de asociaciones varietales, en lugar del nombre de la variedad,
 ## IX. Semilla importada
 
 La semilla que se importe de países terceros deberá corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia en los procesos de producción y de los requisitos de la semilla a nivel de la Unión Europea.
-
-> Se modifican los apartados IV, V y VII, por el art. 5 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
-
-> Se modifica la letra g) del apartado IV, con efectos de 1 de enero de 2017, por el art. único de la Orden AAA/785/2016, de 23 de mayo. Ref. BOE-A-2016-4971.
-
-> Se corrigen errores por ORDEN ARM/2555/2011, de 21 de septiembre. Ref. BOE-A-2011-15172.
