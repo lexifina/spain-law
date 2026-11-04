@@ -10,8 +10,12 @@ c) La solidaridad entra las diversas nacionalidades y regiones que consagran los
 
 d) La suficiencia de recursos para el ejercicio de las competencias propias de las Comunidades Autónomas.
 
+e) La lealtad institucional, que determinará la valoración del impacto, positivo o negativo, que puedan suponer las actuaciones del Estado legislador en materia tributaria o la adopción de medidas de interés general, que eventualmente puedan hacer recaer sobre las Comunidades Autónomas obligaciones de gasto no previstas a la fecha de aprobación del sistema de financiación vigente, y que deberán ser objeto de valoración anual en cuanto asu impacto, tanto en materia de ingresos como de gastos, por el Consejo de Política Fiscal y Financiera de las Comunidades Autónomas.
+
 Dos. Cada Comunidad Autónoma está obligada a velar por su propio equilibrio territorial y por la realización interna del principio de solidaridad.
 
 Tres. Las Comunidades Autónomas gozarán del tratamiento fiscal que la Ley establezca para el Estado.
+
+> Se añade el apartado 1.e) por el art. 7 de la Ley Orgánica 7/2001, de 27 de diciembre. Ref. BOE-A-2001-24961
 
 > Se modifica el apartado 1.b) por la disposición adicional única.1 de la Ley Orgánica 5/2001, de 13 de diciembre. Ref. BOE-A-2001-23632
