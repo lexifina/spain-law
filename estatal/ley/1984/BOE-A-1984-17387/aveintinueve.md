@@ -32,11 +32,9 @@ k) Cuando cumplan el servicio militar o prestación sustitutoria equivalente.
 
 l) (Anulada)
 
-m)Cuando sean nombrados Subsecretarios, Secretarios generales técnicos o Directores generales.
+m) Cuando sean nombrados Subsecretarios, Secretarios generales técnicos o Directores generales.
 
 n) Cuando sean nombrados Subdelegados del Gobierno en las Provincias o Directores Insulares de la Administración General del Estado y no opten por permanecer en la situación de servicio activo en su Administración de origen.
-
-ñ) Cuando sean nombrados para desempeñar puestos en las Áreas Funcionales de la Alta Inspección de Educación funcionarios de los cuerpos docentes o escalas en que se ordena la función pública docente.
 
 A los funcionarios en situación de servicios especiales se les computará el tiempo que permanezcan en tal situación a efectos de ascensos, trienios y derechos pasivos y tendrán derecho a la reserva de plaza y destino que ocupasen. En todos los casos recibirán las retribuciones del puesto o cargo efectivo que desempeñen y no las que les correspondan como funcionarios, sin perjuicio del derecho a la percepción de los trienios que pudieran tener reconocidos como funcionarios.
 
@@ -62,17 +60,17 @@ d) Podrá concederse la excedencia voluntaria por agrupación familiar, con una 
 
 Los funcionarios excedentes no devengarán retribuciones, ni les será computable el tiempo permanecido en tal situación a efectos de ascensos, trienios y derechos pasivos.
 
-No obstante lo dispuesto en el párrafo anterior, se computará a efectos de trienios, el período de prestación de servicios en organismos o entidades del sector público, con la excepción de los prestados en sociedades mercantiles en cuyo capital sea mayoritaria la participación directa o indirecta de las Administraciones públicas.
-
 4. Los funcionarios tendrán derecho a un período de excedencia de duración no superior a tres años para atender al cuidado de cada hijo, tanto cuando lo sea por naturaleza como por adopción o acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o, en su caso, de la resolución judicial o administrativa.
 
-También tendrán derecho a un periodo de excedencia de duración no superior a tres años, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que por razones de edad, accidente, enfermedad o discapacidad no pueda valerse por sí mismo y no desempeñe actividad retribuida.
+También tendrán derecho a un período de excedencia, de duración no superior a un año, los funcionarios para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad, que, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.
 
 El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
 
 Esta excedencia constituye un derecho individual de los funcionarios. En caso de que dos funcionarios generasen el derecho a disfrutarlo por el mismo sujeto causante, la Administración podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con el funcionamiento de los servicios.
 
-El periodo de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal y derechos pasivos.
+El período de permanencia en esta situación será computable a efectos de trienios, consolidación de grado personal y derechos pasivos. Durante el primer año, los funcionarios tendrán derecho a la reserva del puesto de trabajo que desempeñaban. Transcurrido este período, dicha reserva lo será al puesto en la misma localidad y de igual nivel y retribución.
+
+En el caso de la excedencia prevista en el párrafo 1 del presente título, el derecho a la reserva del puesto de trabajo durante el primer año a que se refiere el párrafo anterior se extenderá hasta un máximo de 15 meses, cuando se trate de miembros de unidades familiares que tengan reconocida la condición de familia numerosa de categoría general, y hasta un máximo de 18 meses, si tienen la condición de familia numerosa de categoría especial.
 
 5. Expectativa de destino.
 
@@ -121,30 +119,6 @@ La excedencia voluntaria incentivada tendrá una duración de cinco años e impe
 Quienes pasen a la situación de excedencia voluntaria incentivada tendrán derecho a una mensualidad de las retribuciones de carácter periódico, excluidas las pagas extraordinarias y el complemento de productividad, devengadas en el último puesto de trabajo desempeñado, por cada año completo de servicios efectivos y con un máximo de doce mensualidades.
 
 En el ámbito de la Administración General del Estado, corresponde al Ministerio para las Administraciones Públicas acordar el pase a la situación de excedencia voluntaria incentivada.
-
-8. Excedencia por razón de violencia de género sobre la mujer funcionaria.
-
-Las funcionarias públicas víctimas de violencia de género, para hacer efectiva su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia sin necesidad de haber prestado un tiempo mínimo de servicios previos y sin que resulte de aplicación ningún plazo de permanencia en la misma. Durante los seis primeros meses tendrán derecho a la reserva del puesto de trabajo que desempeñaran, siendo computable dicho período a efectos de ascensos, trienios y derechos pasivos.
-
-Igualmente, durante los dos primeros meses de esta excedencia la funcionaria tendrá derecho a percibir las retribuciones íntegras y, en su caso, las prestaciones familiares por hijo a cargo.
-
-Esto no obstante, cuando de las actuaciones de tutela judicial resultase que la efectividad del derecho de protección de la víctima lo exigiere, se podrá prorrogar por períodos de tres meses, con un máximo de dieciocho, el período en el que, de acuerdo con el párrafo anterior, se tendrá derecho a la reserva del puesto de trabajo, con idénticos efectos a los señalados en dicho párrafo.
-
-> Téngase en cuenta que este artículo ha sido derogado, a excepción del último párrafo de los apartados 5, 6 y 7, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
-
-> Se deroga, a excepción del último párrafo de los apartados 5, 6 y 7, por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
-
-> Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
-
-> Se deroga excepto el último párrafo de los apartados 5, 6 y 7, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
-
-> Se modifican los apartados 4 y 8 por la disposición adicional 19.1 a .5 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115
-
-> Se añade el apartado 2.ñ) por la disposición final 2 de la Ley Orgánica 2/2006, de 3 de mayo. Ref. BOE-A-2006-7899
-
-> Se añade el apartado 8 por la disposición adicional 9.4 de la Ley Orgánica 1/2004, de 28 de diciembre. Ref. BOE-A-2004-21760
-
-> Se añade el párrafo último del apartado 3 por el art. 50.4 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
 
 > Se modifica el apartado 2.h) por el art. 2 de la Ley 57/2003, de 16 de diciembre. Ref. BOE-A-2003-23103
 
