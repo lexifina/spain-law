@@ -17,3 +17,5 @@ c) Salvo en el supuesto previsto en el párrafo segundo del apartado 6, el contr
 d) El puesto de trabajo del trabajador relevista podrá ser el mismo del trabajador sustituido. En todo caso, deberá existir una correspondencia entre las bases de cotización de ambos, en los términos previstos en la letra e) del apartado 2 del artículo 166 de la Ley General de la Seguridad Social.
 
 e) En la negociación colectiva se podrán establecer medidas para impulsar la celebración de contratos de relevo.»
+
+> Se suspende la aplicación durante tres meses por la disposición adicional 1.1 del Real Decreto-ley 29/2012, de 28 de diciembre. Ref. BOE-A-2012-15764.
