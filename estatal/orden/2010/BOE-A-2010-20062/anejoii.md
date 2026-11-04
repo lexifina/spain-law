@@ -39,9 +39,9 @@
 | – Semilla | 10 | 400 | 120 |
 | Lathyrus sativus | 20 | 1.000 | 1.000 |
 | Lotus corniculatus | 10 | 200 | 30 |
-| Lupinus albus | 25 | 1.000 | 1.000 |
-| Lupinus angustifolius | 25 | 1.000 | 1.000 |
-| Lupinus luteus | 25 | 1.000 | 1.000 |
+| Lupinus albus | 30 | 1.000 | 1.000 |
+| Lupinus angustifolius | 30 | 1.000 | 1.000 |
+| Lupinus luteus | 30 | 1.000 | 1.000 |
 | Medicago lupulina | 10 | 300 | 50 |
 | Medicago sativa | 10 | 300 | 50 |
 | Medicago x varia | 10 | 300 | 50 |
@@ -59,7 +59,7 @@
 | Vicia ervilia | 20 | 1.000 | 1.000 |
 | Vicia faba | 30 | 1.000 | 1.000 |
 | Vicia monanthos | 30 | 1.000 | 1.000 |
-| Vicia pannonica | 20 | 1.000 | 1.000 |
+| Vicia pannonica | 30 | 1.000 | 1.000 |
 | Vicia sativa | 30 | 1.000 | 1.000 |
 | Vicia villosa | 30 | 1.000 | 1.000 |
 | Otras especies: |  |  |  |
@@ -68,3 +68,5 @@
 | Raphanus sativus L var oleiformis | 10 | 300 | 300 |
 
 En los pesos máximos de los lotes, se admite una tolerancia de hasta el 5 por 100.
+
+> Se corrigen errores por Orden ARM/2554/2011, de 21 de septiembre. Ref. BOE-A-2011-15171.

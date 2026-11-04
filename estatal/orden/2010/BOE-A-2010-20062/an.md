@@ -66,7 +66,7 @@ I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico la
 | Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis L. | Berza, col forrajera o col caballar. |
 | Raphanus sativus L. var. oleiformis Pers. | Rábano forrajero. |
 
-I.2 Sólo podrá denominarse «semilla» de las plantas mencionadas en el apartado I.1 la que proceda de cultivos controlados por los servicios oficiales correspondientes y que haya sido obtenida según las disposiciones de este Reglamento; de la Ley 30/2006, de 26 de julio, de Semillas y Plantas de Vivero y Recursos Fitogenéticos, de la Orden de 26 de julio de 1973, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores y de la Orden de 23 de mayo de 1986, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores.
+I.2 Sólo podrá denominarse «semilla» de las plantas mencionadas en el apartado I.1 la que proceda de cultivos controlados por los servicios oficiales correspondientes y que haya sido obtenida según las disposiciones de este Reglamento; de la Ley 30/2006, de 26 de julio, de Semillas y Plantas de Vivero y Recursos Fitogenéticos, en el Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero y modificaciones posteriores y de la Orden de 23 de mayo de 1986, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores.
 
 También podrá recibir la denominación de «semilla» la importada que cumpla los correspondientes requisitos legales.
 
@@ -86,7 +86,7 @@ Semilla comercial.
 
 II.2 Especies para las que se admite únicamente la producción de semilla de base y certificada.
 
-a) Gramineae:
+a) Poaceae (Gramineae):
 
 Agrostis canina L.
 
@@ -132,7 +132,7 @@ Poa trivialis L.
 
 Trisetum flavescens (L.) P. Beauv.
 
-b) Leguminosae:
+b) Fabaceae (Leguminosae):
 
 Galega orientalis Lam.
 
@@ -429,8 +429,10 @@ Pequeños envases CE-A: Envases que contengan una mezcla de semillas no destinad
 
 Pequeños envases CE-B: Envases que contengan semillas certificadas, comerciales, o cuando no se trate de pequeños envases CEE-A, mezclas de semillas de un peso neto igual o inferior a 10 kilogramos, excluyendo pesticidas granulados, sustancias de pildorado u otros aditivos sólidos.
 
-VIII.3 (en B.O.E. 4.) Los lotes de semilla que cumplan las condiciones establecidas en el anexo I de este Reglamento, relativas a la presencia de Avena fatua podrán, con independencia de la etiqueta oficial y a petición del obtentor, llevar un certificado oficial que dé fe del cumplimiento de dichas condiciones.
+VIII.3 Los lotes de semilla que cumplan las condiciones establecidas en el anexo I de este Reglamento, relativas a la presencia de Avena fatua podrán, con independencia de la etiqueta oficial y a petición del obtentor, llevar un certificado oficial que dé fe del cumplimiento de dichas condiciones.
 
-VIII.4 (en B.O.E. VIII.4) Comercialización de semilla certificada a granel.
+VIII.4 Comercialización de semilla certificada a granel.
 
 Se podrá comercializar semilla de categoría certificada a granel, de las especies: Habas y haboncillos [Vicia faba (partim)] y guisante [Pisum sativum (partim)], destinadas directamente al consumidor final, siempre que se cumplan los requisitos establecidos en los apartados 40 y 40 bis del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero.
+
+> Se corrigen errores por Orden ARM/2554/2011, de 21 de septiembre. Ref. BOE-A-2011-15171.

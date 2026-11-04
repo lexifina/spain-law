@@ -25,7 +25,7 @@ Cuadro 2.A Requisitos de las semillas certificadas
 | Gramíneas | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 | Agrostis canina | 75 | 90 | 2,0 | 1,0 | 0,3 | 0,3 | 2 (n) | 0 (j)(k) |
 | Agrostis capillaris | 75 | 90 | 2,0 | 1,0 | 0,3 | 0,3 | 2 (n) | 0 (j)(k) |
-| Agrostis gigantea | 75 | 90 | 2,0 | 1,0 | 0,3 | 0,3 | 2 (n) | 0 (j)(k) |
+| Agrostis gigantea | 80 | 90 | 2,0 | 1,0 | 0,3 | 0,3 | 2 (n) | 0 (j)(k) |
 | Agrostis stolonífera | 75 | 90 | 2,0 | 1,0 | 0,3 | 0,3 | 2 (n) | 0 (j)(k) |
 | Alopecurus pratensis | 70 | 75 | 2,5 | 1,0 (f) | 0,3 | 0,3 | 5 (n) | 0 (j)(k) |
 | Arrhenaterum elatius | 75 | 90 | 3,0 | 1,0 (f) | 0,5 | 0,3 | 5 (n) | 0 (j) (k)(g) |
@@ -133,7 +133,7 @@ B. Semillas de base
 
 Los requisitos de las semillas del anejo I.A se aplicarán también a las semillas de base con las disposiciones que se citan a continuación:
 
-1. Las semillas de Pisum sativum, Brassica napus var. napobrassica, Brassica oleracea convar. acephala, Vicia faba y las variedades apomícticas monoclonales de Poa spp. tendrán una pureza varietal mínima de 99,7 por 100.
+1. Las semillas de Pisum sativum, Brassica napus var. napobrassica, Brassica oleracea convar. acephala, Vicia faba y las variedades apomícticas monoclonales de Poa pratensis tendrán una pureza varietal mínima de 99,7 por 100.
 
 2. Las semillas deberán cumplir los requisitos siguientes:
 
@@ -176,7 +176,7 @@ Cuadro 2.B) Requisitos de las semillas de base
 | Total (porcentaje en peso) | Número máximo de semillas de otras especies en la muestra indicada en el anejo II |
 | Una sola especie | Rumex spp., excepto R.. acetosella y R. maritimus | Melilotus spp. |
 | Leguminosas | 3 | 4 | 5 | 9 | 8 |
-| Galega orientalis | 0,5 | 20 | 2 | 0 (e) | (j) |
+| Galega orientalis | 0,3 | 20 | 2 | 0 (e) | (j) |
 | Hedysarum coronarium | 0,3 | 20 | 2 | 0 (e) | (j) |
 | Lathyrus sativus | 0,3 | 20 | 2 | 0 (d) | (h) |
 | Lotus corniculatus | 0,3 | 20 | 3 | 0 (e) | (g)(j) |
@@ -253,3 +253,5 @@ Los requisitos del anejo I: A, puntos 2 y 3, se aplicarán a las semillas comerc
 6. Para las especies de Vicia, una cantidad máxima total del 6 por 100 en peso de semillas de Vicia pannonica y Vicia villosa o de especies similares cultivadas de este género no se considerará impureza.
 
 7. La pureza específica mínima para Vicia pannonica, Vicia ervilia y Vicia monanthos será del 97 por 100 en peso.
+
+> Se corrigen errores por Orden ARM/2554/2011, de 21 de septiembre. Ref. BOE-A-2011-15171.
