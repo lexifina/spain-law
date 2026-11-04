@@ -28,9 +28,5 @@
       "decided_here": false
     }
   },
-  "citation": {
-    "file": "estatal/[a-z-]+/\\d{4}/(BOE-A-\\d{4}-\\d+)/([^/]+)\\.md",
-    "cites": "{n}"
-  },
   "tool": "tools/eslaw.py"
 }
