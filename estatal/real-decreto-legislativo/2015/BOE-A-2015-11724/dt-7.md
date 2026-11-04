@@ -40,6 +40,10 @@ Asimismo, las cotizaciones indicadas surtirán efectos para disminuir o, en su c
 
 Estas cotizaciones no surtirán efecto en relación con el complemento previsto en el artículo 210.2 del texto refundido de la Ley General de la Seguridad Social y en la disposición adicional decimoséptima del texto refundido de Ley de Clases Pasivas del Estado.
 
+> Se modifica el apartado 1, con efectos desde el 29 de diciembre de 2025, por la disposición final 1.4 del Real Decreto-ley 3/2026, de 3 de febrero. Ref. BOE-A-2026-2548#df
+
+> Se deja sin efecto la modificación del apartado 1 por Resolución de 27 de enero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 16/2025 de 23 de diciembre. Ref. BOE-A-2026-2024
+
 > Se modifica el apartado 1 por la disposición final 1.4 del Real Decreto-ley 16/2025, de 23 de diciembre. Ref. BOE-A-2025-26458#df
 
 > Esta modificación produce efectos desde el 29 de diciembre de 2025, según establece la disposición final 5.2 del citado Real Decreto-ley.
