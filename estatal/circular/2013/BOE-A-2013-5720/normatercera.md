@@ -44,7 +44,7 @@ j) En los préstamos de valores, las contrapartes a las que se prestan los valor
 
 k) En las operaciones subvencionadas, las personas que subvencionan el principal o el interés por el importe que subvencionan.
 
-5. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones sean declarables de forma agregada, conforme a lo dispuesto en la norma segunda, apartado 3.
+5. Los titulares de riesgos, directos e indirectos, se declararán de forma individualizada a la CIR, cualquiera que sea el importe de su riesgo en la entidad declarante, excepto cuando sus operaciones sean declarables de forma agregada, conforme a lo dispuesto en la norma segunda, apartado 3. Excepcionalmente, se podrán excluir de la declaración del riesgo indirecto a nombre de un titular los efectos en los que haya comprometido su firma, siempre que su importe sea inferior a 6.000 euros y formen parte de una operación de crédito comercial con recurso.
 
 Los datos de los titulares, incluidos los de sus operaciones, cuyo riesgo acumulado en la entidad declarante sea inferior a 9.000 euros se declaran exclusivamente con la finalidad prevista en el artículo 60, apartado cuarto, letra a), de la Ley 44/2002. A estos efectos, el riesgo acumulado es el importe de las operaciones en las que la persona intervenga como titular de riesgo, directo o indirecto, con las siguientes precisiones:
 
@@ -52,7 +52,7 @@ a) Los importes de las operaciones que se declaren como garantías financieras i
 
 b) El importe del riesgo directo asumido en las operaciones es la suma de los importes dispuestos (principal, intereses y comisiones vencidos, intereses de demora y gastos exigibles) pendientes de cobro más los importes disponibles (con disponibilidad inmediata y condicionada).
 
-c) El importe del riesgo indirecto que computa como riesgo acumulado es el riesgo máximo que garantiza el titular de las operaciones en las que interviene exclusivamente como garante o porque haya comprometido su firma en operaciones de cartera comercial o efectos financieros.
+c) El importe del riesgo indirecto que computa como riesgo acumulado es el riesgo máximo que garantiza el titular de las operaciones en las que interviene exclusivamente como garante o porque haya comprometido su firma en operaciones de cartera comercial o efectos financieros. Cuando el titular haya comprometido su firma en efectos que forman parte de operaciones de cartera comercial con recurso que no se declaren a la CIR conforme a lo dispuesto en el primer párrafo de este apartado, el riesgo no declarado por este motivo no se computará a estos efectos.
 
 d) En los préstamos sindicados y demás préstamos en los que varios prestamistas participan de forma mancomunada, cada entidad declarante computará como riesgo acumulado exclusivamente el importe del riesgo que asuma de las operaciones. En los diferentes módulos se declarará exclusivamente el importe del riesgo que la entidad asuma en estos préstamos, sin perjuicio del tratamiento específico para las garantías reales con las que, en su caso, cuenten, que se declararán conforme a lo señalado en la norma octava, apartados 3, 8 y 11.
 
@@ -83,3 +83,5 @@ g) Las entidades que actúan como agentes en los préstamos sindicados.
 h) Las entidades declarantes a la CIR con las que se tengan operaciones con códigos vinculados.
 
 i) Las entidades emisoras de instrumentos financieros adquiridos temporalmente, recibidos en garantía de operaciones o prestados a terceros.
+
+> Se modifica el primer párrafo y la letra c) del apartado 5 por la norma 2.1 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.

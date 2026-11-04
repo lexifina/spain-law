@@ -40,9 +40,9 @@ B) Datos básicos de las operaciones que se han de comunicar a otras entidades:
 
 a) Reciba una garantía financiera o contraaval de un aval o caución no financiero de otra entidad declarante.
 
-b) Transfiera a otra entidad declarante operaciones que haya dado de baja de su activo total o parcialmente, pero para las que continúa con su gestión frente a los titulares.
+b) Transfiera a otra entidad declarante operaciones que haya dado de baja de su activo total o parcialmente, pero para las que continúa con su gestión frente a los titulares, salvo que no las tenga que declarar de forma individualizada a la CIR.
 
-c) Ceda a otra entidad declarante la propiedad y la gestión de operaciones, que no sean valores representativos de deuda, siempre que la entidad cedente continúe inscrita en el registro de entidades del Banco de España con el mismo código con el que venía declarando la actividad cedida.
+c) Ceda a otra entidad declarante la propiedad y la gestión de operaciones, que no sean valores representativos de deuda, siempre que la entidad cedente continúe inscrita en el registro de entidades del Banco de España con el mismo código con el que venía declarando la actividad cedida, salvo que no las tenga que declarar de forma individualizada a la CIR.
 
 d) Deje de ser prestamista de las operaciones porque, como consecuencia de una refinanciación o porque el deudor hace una subrogación del acreedor, el nuevo prestamista pase a ser otra entidad declarante que pertenezca a su mismo grupo económico.
 
@@ -53,3 +53,5 @@ C) Datos dinámicos de las operaciones que se han de comunicar a otras entidades
 9. El módulo G.3, Datos dinámicos de las operaciones que se han de comunicar a otras entidades, se enviará para declarar los importes garantizados al final del mes al que se refieren los datos de las operaciones declaradas en el módulo G.2 por recibir una garantía financiera o contraaval de un aval o caución no financiero de otra entidad declarante.
 
 10. El Banco de España reenviará los datos del módulo G.3 a la entidad que haya garantizado o contraavalado las operaciones desde el momento en el que esta comunique en el módulo G.1, Datos básicos que vinculan códigos, que las ha garantizado o contraavalado.
+
+> Se modifican las letras b) y c) del apartado 7 por la norma 2.2 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.

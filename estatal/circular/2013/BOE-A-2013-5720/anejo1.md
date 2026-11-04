@@ -388,7 +388,9 @@ Código del activo recibido en garantía
 
 Identificación del inmueble
 
-Tipo de activo (inmuebles)
+Tipo de activo (inmueble)
+
+Consideración del inmueble en la normativa europea aplicable para el cálculo del coeficiente de recursos propios
 
 Localización del inmueble
 
@@ -472,8 +474,6 @@ Estado de la construcción
 
 Licencia
 
-Uso polivalente
-
 Vivienda habitual del prestatario
 
 Valor del terreno ajustado
@@ -507,8 +507,6 @@ Aprovechamiento (m2)
 Producto que se prevé desarrollar
 
 ## PARTE 4 DATOS ADICIONALES PARA LAS FINCAS RÚSTICAS
-
-Uso actual de la finca rústica
 
 Finca rústica con expectativas urbanísticas
 
@@ -848,6 +846,8 @@ Exposición para la que no se calculan requerimientos de riesgo de contraparte
 
 Exposición ponderada por riesgo
 
+Exposición a pymes sujeta a factor reductor
+
 ## PARTE 2 DATOS ADICIONALES PARA OPERACIONES A LAS QUE SE APLICA EL MÉTODO ESTÁNDAR (SA)
 
 Valor plenamente ajustado de la exposición
@@ -1073,3 +1073,5 @@ Riesgo cliente
 Riesgo-país
 
 Número de operaciones
+
+> Se modifican los módulos D.2 y H.6 por la norma 2.7 de la Circular 5/2013, de 30 de octubre. Ref. BOE-A-2013-11729.
