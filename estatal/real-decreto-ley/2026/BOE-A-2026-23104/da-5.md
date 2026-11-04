@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Aplicación de la limitación de precios a los servicios afectados por la interrupción de la línea ferroviaria Madrid-Andalucía.
+
+Lo previsto en el artículo 20 ter del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado mediante el Real Decreto Legislativo 1/2007, de 16 de noviembre, resultará de aplicación a los servicios afectados por el accidente ferroviario de Urda (Toledo) identificado en el artículo 1 de este real decreto-ley, así como a las conexiones ferroviarias que continúen suspendidas como consecuencia del mismo.
