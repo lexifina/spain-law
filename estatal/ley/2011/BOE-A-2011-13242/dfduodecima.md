@@ -6,7 +6,7 @@ a) Las disposiciones adicionales primera, segunda, tercera, séptima, decimocuar
 
 b) Las disposiciones adicionales decimoctava y cuadragésima, que entrarán en vigor el 1 de enero de 2012.
 
-c) El apartado Tres del artículo 3, que entrará en vigor el 1 de enero de 2014.
+c) El apartado Tres del artículo 3 y la disposición final décima, que entrarán en vigor el 1 de enero de 2014.
 
 2. Se seguirá aplicando la regulación de la pensión de jubilación, en sus diferentes modalidades, requisitos de acceso y condiciones y reglas de determinación de prestaciones, vigentes antes de la entrada en vigor de esta Ley, a:
 
@@ -15,3 +15,5 @@ a) Las personas cuya relación laboral se haya extinguido antes de la publicaci�
 b) Las personas con relación laboral suspendida o extinguida como consecuencia de decisiones adoptadas en expedientes de regulación de empleo, o por medio de convenios colectivos de cualquier ámbito y/o acuerdos colectivos de empresa, así como por decisiones adoptadas en procedimientos concursales, aprobados o suscritos con anterioridad a la fecha de publicación de la presente Ley, con independencia de que la extinción de la relación laboral se haya producido con anterioridad o posterioridad al 1 de enero de 2013.
 
 c) Quienes hayan accedido a la pensión de jubilación parcial con anterioridad a la fecha de publicación de la presente Ley, así como las personas incorporadas antes de la fecha de publicación de esta Ley a planes de jubilación parcial, recogidos en convenios colectivos de cualquier ámbito o acuerdos colectivos de empresas, con independencia de que el acceso a la jubilación parcial se haya producido con anterioridad o posterioridad al 1 de enero de 2013.
+
+> Se modifica la letra c) del apartado 1 por la disposición final 25 de la Ley 17/2012, de 27 de diciembre. Ref. BOE-A-2012-15651.
