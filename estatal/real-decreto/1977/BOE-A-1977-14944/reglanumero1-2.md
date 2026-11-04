@@ -36,9 +36,9 @@ Escudo: En sus esmaltes.
 
 Para ser portado por un Oficial de la escolta cuando ésta acompañe a Su Majestad.
 
-> Se modifica por el art. 2 del Real Decreto 527/2014, de 20 de junio. Ref. BOE-A-2014-6525.
-
 > Téngase en cuenta que, de conformidad con la disposición transitoria única del Real Decreto 527/2014, de 20 de junio, por el que se crea el Guión y el Estandarte de Su Majestad el Rey Felipe VI, Ref. BOE-A-2014-6525#dtunica. Su Majestad, Don Juan Carlos de Borbón y Borbón seguirá usando el guión que venía utilizando hasta su abdicación como rey.
+
+> REGLA NÚMERO 1
 
 > Guión de Su Majestad el Rey
 
