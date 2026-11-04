@@ -2,7 +2,9 @@
 
 1. Las referencias que se encuentren en cualquier norma referidas a Jueces o Magistrados encargados del Registro Civil se entenderán hechas al Encargado del Registro Civil, de conformidad con lo previsto en esta Ley.
 
-2. Las referencias que se encuentren en cualquier norma al Juez, Alcalde o funcionario que haga sus veces competentes para autorizar el matrimonio civil, deben entenderse referidas al Secretario judicial, Notario, Encargado del Registro Civil o funcionario diplomático o consular Encargado del Registro Civil para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa; y al Juez de Paz, Alcalde o Concejal en quien éste delegue, Secretario judicial, Notario, o funcionario diplomático o consular Encargado del Registro Civil para la celebración ante ellos del matrimonio en forma civil.
+2. Las referencias que se encuentren en cualquier norma al juez, alcalde o funcionario que haga sus veces competentes para autorizar el matrimonio civil, deben entenderse referidas al notario, Encargado del Registro Civil o funcionario diplomático o consular encargado del Registro Civil, para acreditar el cumplimiento de los requisitos de capacidad y la inexistencia de impedimentos o su dispensa; y al juez de paz, alcalde o concejal en quien éste delegue, Encargado del Registro Civil, notario, o funcionario diplomático o consular encargado del Registro Civil, para la celebración ante ellos del matrimonio en forma civil.
+
+> Se modifica el apartado 2 por el art. único.30 de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#au
 
 > Se modifica el apartado 2 por la disposición final 4.9 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391.
 
