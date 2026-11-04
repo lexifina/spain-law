@@ -8,7 +8,7 @@
 
 3. En la Comunidad Autónoma del Principado de Asturias, toda la provincia de Asturias.
 
-4. En la Comunidad Autónoma de Illes Balears, las Islas de Mallorca, Menorca, Ibiza y Formentera
+4. En la Comunidad Autónoma de Illes Balears, las Islas de Mallorca, Menorca, Ibiza y Formentera.
 
 5. En la Comunidad Autónoma de Canarias, las Islas de Tenerife, Gran Canaria, Lanzarote, Fuerteventura, La Palma, La Gomera, El Hierro y La Graciosa.
 
@@ -22,7 +22,7 @@
 
 12. En la Comunidad Autónoma de Galicia, las provincias de Lugo, A Coruña, Ourense y Pontevedra.
 
-13. En la Región de Murcia, toda la provincia de Murcia.
+13. En la Región de Murcia, toda la provincia de Murcia excepto el municipio de Totana.
 
 14. En la Comunidad Foral de Navarra, toda la provincia de Navarra.
 
@@ -33,5 +33,7 @@
 17. La Ciudad Autónoma de Ceuta.
 
 18. La Ciudad Autónoma de Melilla.
+
+> Se modifica por el art. 2 de la Orden SND/442/2020, de 23 de mayo. Ref. BOE-A-2020-5267
 
 > Se modifica por el art. 5.9 de la Orden SND/440/2020, de 23 de mayo. Ref. BOE-A-2020-5265#aq
