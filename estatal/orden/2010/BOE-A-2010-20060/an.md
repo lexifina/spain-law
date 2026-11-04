@@ -6,11 +6,13 @@ I. Especies sujetas al Reglamento Técnico
 
 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico las semillas de los cereales siguientes, tanto si su fin es la producción de grano como si es con destino forrajero:
 
-« Triticum aestivum L. subsp. aestivum.»: Trigo blando.
+«Triticum aestivum L.»: Trigo blando.
 
-« Triticum turgidum L. subsp. durum (Desf.) van Slageren.»: Trigo duro.
+«Triticum durum Desf»: Trigo duro.
 
-«Triticum aestivum L. subsp. spelta (L.) Thell.»: Trigo espelta.
+«Triticum spelta L.»: Escanda.
+
+«Triticum turgidum L.»: Trigo redondillo.
 
 «Hordeum vulgare L.»: Cebada.
 
@@ -34,7 +36,7 @@ También podrá recibir la denominación de «semilla» la importada que cumpla 
 
 II. Categorías de las semillas
 
-1. Para las variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, se admiten las siguientes categorías de semillas:
+1. Para las variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, se admiten las siguientes categorías de semillas:
 
 Material parental.
 
@@ -46,7 +48,7 @@ Semilla certificada de primera reproducción (R-1).
 
 Semilla certificada de segunda reproducción (R-2).
 
-2. Para las variedades de alpiste, excepto sus híbridos; centeno y para las variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro y trigo espelta menor, se admiten las siguientes categorías de semillas:
+2. Para las variedades de alpiste, excepto sus híbridos; centeno y para las variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro y escanda menor, se admiten las siguientes categorías de semillas:
 
 Material parental.
 
@@ -62,7 +64,7 @@ Semillas certificadas.
 
 3.2 Semillas de prebase: Cualquiera de las generaciones que preceden a la semilla de base, con excepción del material parental.
 
-3.3 Semillas de base de variedades no híbridas de: Avena, avena roja, avena estrigosa, cebada, arroz, alpiste, centeno, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
+3.3 Semillas de base de variedades no híbridas de: Avena, avena roja, avena estrigosa, cebada, arroz, alpiste, centeno, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, son las semillas:
 
 a) Obtenidas, como máximo, a partir de la tercera generación (G-3) de semillas de prebase, salvo en variedades de obtentor en que se haya admitido una generación distinta, según el método de conservación aceptado al incluir la variedad en el registro de variedades comerciales.
 
@@ -70,13 +72,13 @@ b) Que su destino sea la producción de semilla de categoría: «Semillas certif
 
 c) Que cumpla los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial.
 
-3.4 Semilla de base de variedades híbridas de avena, cebada, centeno, arroz, trigo blando, trigo duro, trigo espelta menor y triticale autógamo, son las semillas:
+3.4 Semilla de base de variedades híbridas de avena, cebada, centeno, arroz, trigo blando, trigo duro, escanda menor y triticale autógamo, son las semillas:
 
 a) Procedentes de la multiplicación del material parental, mediante un proceso controlado, y que estén destinadas a producir híbridos.
 
 b) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial.
 
-3.5 Semillas certificadas de alpiste, excepto sus híbridos; centeno, excepto sus híbridos, y variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro, trigo espelta menor y variedades autógamas de triticale, son las semillas:
+3.5 Semillas certificadas de alpiste, excepto sus híbridos; centeno, excepto sus híbridos, y variedades híbridas de avena, cebada, arroz, trigo blando, trigo duro, escanda menor y variedades autógamas de triticale, son las semillas:
 
 a) Que provienen directamente de semillas de base o, a petición del obtentor, de semillas de alguna generación anterior a las semillas de base, siempre que se cumplan los requisitos que para esta categoría se exponen en los anejos 1 y 2 del presente Reglamento Técnico.
 
@@ -84,7 +86,7 @@ b) Que su destino no sea la producción de semilla.
 
 c) Que cumplen los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial o bien bajo supervisión oficial.
 
-3.6 Semillas certificadas de primera reproducción (R-1) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
+3.6 Semillas certificadas de primera reproducción (R-1) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, son las semillas:
 
 a) Que provienen directamente de semillas de base o, a petición del obtentor, de semillas de alguna generación anterior a las semillas de base, siempre que se cumplan los requisitos que para esta categoría se exponen en los anejos 1 y 2 del presente reglamento técnico.
 
@@ -92,7 +94,7 @@ b) Que su destino puede ser la producción de semillas certificadas de segunda r
 
 c) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente Reglamento Técnico, para esta categoría, comprobándose tal extremo mediante el preceptivo control oficial o bien bajo supervisión oficial.
 
-3.7 Semillas certificadas de segunda reproducción (R-2) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro y trigo espelta menor, son las semillas:
+3.7 Semillas certificadas de segunda reproducción (R-2) de variedades no híbridas de avena, avena roja, avena estrigosa, cebada, arroz, triticale, trigo blando, trigo duro, trigo redondillo y escanda menor, son las semillas:
 
 a) Que provienen directamente de semillas de base, de semillas certificadas de primera reproducción (R-1) o, a petición del obtentor, de semillas de alguna generación anterior a la semilla de base, siempre que cumpla los requisitos de la semilla de base.
 
@@ -102,7 +104,7 @@ c) Que cumplan los requisitos correspondientes de los anejos 1 y 2 del presente 
 
 El organismo oficial responsable podrá restringir la certificación de semillas de avenas, cebada, arroz y trigos a las semillas certificadas de primera reproducción.
 
-3.8 Semillas certificadas de variedades híbridas de centeno y de híbridos producidos mediante la técnica de la CMS de cebada, trigo blando, trigo duro y trigo espelta: Sólo se declararán semillas certificadas aquellas en las que se hayan tenido en cuenta los resultados del postcontrol oficial de muestras de semillas de base obtenidas oficialmente o bajo supervisión oficial, efectuado durante el período vegetativo de los cultivos para la producción de semillas para las que se solicite la certificación, a fin de determinar que dichas semillas de base se ajustan a los requisitos establecidos en el presente Reglamento en lo que respecta a la identidad y pureza de las características de sus componentes, incluida la androesterilidad.
+3.8 Semillas certificadas de variedades híbridas de centeno: Sólo se declararán semillas certificadas las semillas de base para las que se hayan tenido en cuenta los resultados del control oficial a posteriori de muestras obtenidas oficialmente, efectuado durante el período vegetativo de los cultivos para la producción de semillas para las que se solicite la certificación, a la hora de determinar que dichas semillas de base se ajustan a los requisitos establecidos en el presente Reglamento en lo que respecta a la identidad y pureza de las características de sus componentes, incluida la esterilidad masculina.
 
 Cuando corresponda, las semillas certificadas se producirán en un cultivo mixto formado por un componente femenino sin actividad masculina y un componente masculino que restablezca la fertilidad masculina.
 
@@ -200,10 +202,6 @@ Iniciación de las operaciones de selección y preparado de semilla.
 
 4. Para las especies incluidas en este Reglamento será de aplicación lo dispuesto en los apartados 26.a, 26.b y 26.c del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero, referente a semilla no certificada definitivamente, y sólo en los casos en que éstas procedan de la multiplicación de semillas de categorías, prebase, base y certificada de primera reproducción.
 
-f) Uso de técnicas bioquímicas o moleculares.
-
-En el caso de que, tras las inspecciones oficiales de campo indicadas en el presente apartado IV, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
-
 V. Requisitos de los lotes de semillas
 
 1. Lotes de semilla.–Los tamaños máximos de los lotes de semilla serán los indicados en el anejo número 3.
@@ -212,7 +210,7 @@ V. Requisitos de los lotes de semillas
 
 VI. Pruebas de precontrol y postcontrol
 
-Todo productor ha de sembrar en campo de precontrol una parcela con las muestras de cada uno de los lotes que haya certificado de semilla de base y de aquellos de semillas de prebase no destinados a uso propio. Asimismo, realizará pruebas de postcontrol, sembrándose, como mínimo, las muestras correspondientes a un 10 por 100 de los lotes de semilla certificada, elegidas al azar. En los casos especiales en que por los Servicios oficiales de control de la correspondiente comunidad autónoma o por la OEVV se considere conveniente, la citada proporción podrá aumentarse hasta el 20 por 100.
+Todo productor ha de sembrar en campo de precontrol una parcela con las muestras de cada uno de los lotes que haya certificado de semilla de base y de aquellos de semillas de prebase no destinados a uso propio. Asimismo, realizará pruebas de postcontrol, sembrándose, como mínimo, las muestras correspondientes a un 10 por 100 de los lotes de semilla certificada, elegidas al azar. En los casos especiales en que por el Instituto se considere conveniente, la citada proporción podrá aumentarse hasta el 20 por 100.
 
 El tamaño de las parcelas correspondientes a cada muestra no debe ser inferior a 8 metros cuadrados, para las semillas certificadas, y 12 metros cuadrados, para las de prebase y base.
 
@@ -220,41 +218,33 @@ En las parcelas de precontrol y postcontrol se señalarán, pero no arrancarán,
 
 VII. Productores de semillas
 
-a) Categorías de productores:
+a) Categorías de productores: Se admiten las categorías de:
 
-Se admiten las categorías de productor:
+Productores-obtentores.
 
-– Productor mantenedor.
+Productores-seleccionadores.
 
-– Productor multiplicador.
+Productores-multiplicadores.
 
-– Productor procesador.
+b) Capacidad de instalaciones: La capacidad de las instalaciones para ser productor-seleccionador o productor-multiplicador de una o todas las especies señaladas en este Reglamento ha de ser tal que, como mínimo, su capacidad de selección sea de 3 toneladas métricas/hora, excepto para una producción única de alpiste o arroz, en cuyo caso será de 1 tonelada métrica/hora. Estos mínimos en cuanto a capacidad serán necesarios para cada uno de los centros de selección.
 
-b) Capacidad de instalaciones:
+c) Clases de instalaciones: Las instalaciones han de comprender, como mínimo:
 
-La capacidad de las instalaciones para ser productor de una o todas las especies señaladas en este Reglamento ha de ser tal que, como mínimo, su capacidad de selección sea de 3 toneladas/hora, excepto para una producción única de alpiste o arroz, en cuyo caso será de 1 tonelada métrica/hora. Estos mínimos en cuanto a capacidad serán necesarios para cada uno de los centros de selección.
+Almacenamiento.
 
-c) Clases de instalaciones:
+Recepción.
 
-Las instalaciones podrán ser propiedad del productor o estar a su disposición a través de un contrato de prestación de servicios; y han de comprender, como mínimo:
+Limpieza y selección mecánica.
 
-– Almacenamiento.
+Tratamiento.
 
-– Recepción.
+Envasado.
 
-– Limpieza y selección mecánica.
-
-– Tratamiento.
-
-– Envasado.
-
-– Laboratorio de análisis y ensayo de semillas.
+Laboratorio de análisis y ensayo de semillas.
 
 Los servicios oficiales competentes decidirán si las características de las instalaciones anteriormente enumeradas son las adecuadas en cada caso, debiendo tener todas ellas la capacidad necesaria relacionada con los mínimos de selección del apartado anterior.
 
-d) Campos en cultivo directo:
-
-Los productores mantenedores que produzcan semilla de base deberán disponer de campos de cultivo directo para la obtención de las generaciones PB-4 y PB-3, así como de la semilla de prebase de la generación inmediatamente anterior a base (PB-2), en los casos en que los Servicios oficiales de control no autoricen su producción en fincas de agricultores-colaboradores. Todos los productores deberán disponer de superficie adecuada a los planes de producción de campos en cultivo directo para el establecimiento de los campos exigidos de precontrol y postcontrol.
+d) Campos en cultivo directo: Los productores-seleccionadores y los productores-obtentores que produzcan semilla de base deberán disponer de campos de cultivo directo para la obtención de las generaciones G-1 y G-2, así como de la semilla de prebase de la generación inmediatamente anterior a base, en los casos en que los Servicios oficiales de control no autoricen su producción en fincas de agricultores-colaboradores. Todos los productores deberán disponer de superficie adecuada a los planes de producción de campos en cultivo directo para el establecimiento de los campos exigidos de precontrol y postcontrol.
 
 VIII. Comercialización
 
@@ -281,9 +271,3 @@ Las condiciones especiales en que podrán comercializarse dichas mezclas se dete
 IX. Semillas importadas
 
 Las semillas que se importan de países terceros deberán corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia de los procesos de producción y de los requisitos de las semillas a nivel de la Unión Europea.
-
-> Se modifican los apartados II, IV, VI, VII por el art. 2.1 a 4 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
-
-> Se modifica, con efectos del 1 de febrero de 2022, los apartados I y II por el art. 2 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
-
-> Se corrigen errores en los apartados 1 y 4 por la Orden ARM/2552/2011, de 21 de septiembre. Ref. BOE-A-2011-15169.
