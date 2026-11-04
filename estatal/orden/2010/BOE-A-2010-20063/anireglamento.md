@@ -8,7 +8,7 @@ Quedan incluidas en el ámbito de ampliación de este Reglamento Técnico las se
 
 Arachis hypogaea L.: Cacahuete.
 
-Brassica juncea (L.) Czern.: Mostaza de la China.
+Brassica juncea (L.) Czern.: Mostaza de la China, Mostaza india.
 
 Brassica napus L. (partim): Colza
 
@@ -17,6 +17,8 @@ Brassica nigra (L.) W.D.J. Koch: Mostaza negra.
 Brassica rapa L. var. silvestris (Lam.) Briggs: Nabina.
 
 Carthamus tinctorius L.: Cártamo o alazor.
+
+Carum carvi L.: Comino
 
 Glycine max (L) Merr: Soja.
 
@@ -316,3 +318,5 @@ En las etiquetas de asociaciones varietales, en lugar del nombre de la variedad,
 ## IX. Semilla importada
 
 La semilla que se importe de países terceros deberá corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia en los procesos de producción y de los requisitos de la semilla a nivel de la Unión Europea.
+
+> Se corrigen errores por ORDEN ARM/2555/2011, de 21 de septiembre. Ref. BOE-A-2011-15172.

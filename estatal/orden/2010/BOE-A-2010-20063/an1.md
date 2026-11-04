@@ -11,7 +11,7 @@
 | Semilla de base | – | 1 año. | 20 m. | 1/1.000 | Cero. | 50/Ha. |
 | Semilla certificada (R–1) | 3 Ha. | 1 año. | 5 m. | 2/1.000 | 5/Ha. | 500/Ha. |
 | Semilla certificada (R–2) | 5 Ha. | 1 año. | 5 m. | 5/1.000 | 5/Ha. | 500/Ha. |
-| Cártamo: |  |  |  |  |  |  |
+| Cártamo y comino: |  |  |  |  |  |  |
 | Semilla de base | – | 2 años. | 500 m. | 1/30 m² | Cero. | 50/Ha. |
 | Semilla certificada | 5 Ha. | 2 años. | 200 m. | 1/10 m² | 5/Ha. | 500/Ha. |
 | Colza: |  |  |  |  |  |  |
@@ -67,3 +67,5 @@ En especial y en relación con la producción de semilla de girasol, se rechazar
 En el caso de variedades sensibles, además de cumplirse lo expuesto anteriormente, para poder comercializarlas será obligatorio un tratamiento previo de la semilla con una materia activa de probada eficacia contra dicha enfermedad.
 
 En el caso de soja (Glycine max) se prestará especial atención a los microorganismos: «Pseudomonas syringae pv. glycinea», «Diaporthe phaseolorum var. caulivora y var. sojae», «Phialophora gregata» y «Phytophthora megasperma f.sp. glycinea».
+
+> Se corrigen errores por la ORDEN ARM/2555/2011, de 21 de septiembre. Ref. BOE-A-2011-15172.
