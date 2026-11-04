@@ -1,6 +1,6 @@
 ## Disposición adicional única.
 
-1. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, y en la presente orden, podrán hacer uso de dicha facultad, dentro de los límites de los acuerdos suscritos, respecto de las declaraciones y casos que tengan habilitada la presentación electrónica.
+1. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1377/2002, de 20 de diciembre, por el que se desarrolla la colaboración social en la gestión de los tributos para la presentación telemática de declaraciones, comunicaciones y otros documentos tributarios, y en la presente Orden, podrán hacer uso de dicha facultad, dentro de los límites de los convenios suscritos, respecto de las declaraciones correspondientes a los modelos 036, «Declaración censal de comienzo, modificación o cese de actividad», 037, «Declaración censal de comienzo, modificación o cese de actividad (simplificada)», 198, «Declaración anual de operaciones con activos financieros y otros valores mobiliarios», 216, «Impuesto sobre la Renta de no Residentes. Declaración de rentas obtenidas sin mediación de establecimiento permanente-documento de ingreso de retenciones e ingresos cuenta por dichas rentas», 296, «Impuesto sobre la Renta de no Residentes. Declaración resumen anual de retenciones e ingresos a cuenta por rentas obtenidas sin mediación de establecimiento permanente» y 345, «Planes, fondos de pensiones, sistemas alternativos y mutualidades de previsión social. Declaración anual».
 
 2. Las personas o entidades autorizadas a presentar por vía telemática declaraciones en representación de terceras personas, de acuerdo con lo dispuesto en el Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, podrán hacer uso de dicha facultad respecto de las siguientes declaraciones y documentos:
 
@@ -24,21 +24,17 @@ Solicitud de devolución por avituallamiento de gasóleo a embarcaciones conform
 
 Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 50 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.
 
-Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 5 dieciséis de la Ley 16/2013, de 29 de octubre.
-
-Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 82.4 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
-
 Modelo DCC. Impuestos Especiales sobre el Alcohol y Bebidas Alcohólicas, Labores del Tabaco y Electricidad. Declaración de desglose de cuotas centralizadas.
 
 Modelo DDE. Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos. Declaración de desglose por establecimientos.
 
 Modelo RBRC. Impuesto sobre el Alcohol y Bebidas Derivadas. Regímenes de destilación artesanal y de cosechero. Relación de beneficiarios del régimen de cosechero.
 
-Modelo 504. Solicitud de autorización de expedición o recepción de productos objeto de los impuestos especiales de fabricación con destino a o procedentes del resto de la Unión Europea.
+Modelo 504. Impuestos Especiales de Fabricación. Solicitud de autorización de recepción de productos del resto de la Unión Europea.
 
 Modelo 506. Impuestos Especiales de Fabricación. Solicitud de devolución por introducción en depósito fiscal.
 
-Modelo 507. Impuestos especiales de Fabricación. Solicitud de devolución en el sistema de envíos garantizados.
+Modelo 507. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de envíos garantizados.
 
 Modelo 508. Impuestos Especiales de Fabricación. Solicitud de devolución en el sistema de ventas a distancia.
 
@@ -52,9 +48,9 @@ Modelo 512. Impuesto sobre Hidrocarburos. Relación anual de destinatarios de pr
 
 Modelo 513. Impuesto sobre la Electricidad. Declaración anual de actividad.
 
-Modelo 515. Solicitud de entrega de marcas fiscales para las labores del tabaco.
+Modelo 515 Solicitud de marcas fiscales del Impuesto sobre las Labores del Tabaco.
 
-Modelo 517. Solicitud de marcas fiscales del Impuesto sobre el Alcohol y Bebidas Derivadas.
+Modelo 517. Impuestos Especiales de Fabricación. Petición de marcas fiscales a la oficina gestora de impuestos especiales.
 
 Modelo 518. Impuesto sobre el Alcohol y Bebidas Derivadas. Declaración de trabajo.
 
@@ -110,8 +106,6 @@ Modelo 570. Impuesto sobre Hidrocarburos. Declaración de operaciones en fábric
 
 Modelo 572. Impuesto sobre Hidrocarburos. Solicitud de devolución.
 
-Modelo 573: Impuesto sobre Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco. Autoliquidación.
-
 Modelo 580. Impuesto sobre las Labores del Tabaco. Declaración de operaciones en fábricas y depósitos fiscales de labores del tabaco.
 
 Modelo 581. Impuesto sobre Hidrocarburos: Declaración-liquidación.
@@ -124,43 +118,15 @@ Modelo 584. Impuesto sobre la producción de combustible nuclear gastado y resid
 
 Modelo 585. Impuesto sobre el almacenamiento de combustible nuclear gastado y residuos radiactivos en instalaciones centralizadas. Autoliquidación y pagos fraccionados.
 
-Modelo 588. Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre.
+Modelo 588: Impuesto sobre el valor de la producción de la energía eléctrica. Autoliquidación por cese de actividad de enero a octubre.
 
 Modelo 590. Impuestos Especiales de Fabricación. Solicitud de devolución por exportación o expedición.
 
-Modelo 591. Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes.
+Modelo 591: Impuesto sobre el valor de la producción de la energía eléctrica. Declaración anual de operaciones con contribuyentes.
 
-Modelo 592. Impuesto especial sobre los envases de plástico no reutilizables. Autoliquidación.
-
-Modelo: 593. Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos. Autoliquidación.
-
-Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación.
-
-Modelo 587. Impuesto sobre los Gases Fluorados de Efecto Invernadero. Autoliquidación.
-
-Modelo A22. Impuesto especial sobre los envases de plástico no reutilizables. Solicitud de devolución.
-
-Modelo A23. Impuesto sobre los Gases Fluorados de Efecto Invernadero. Solicitud de devolución.
-
-Modelo A24: Impuesto sobre los Líquidos para Cigarrillos Electrónicos y otros Productos relacionados con el Tabaco. Solicitud de devolución por envíos dentro de la Unión Europea.
-
-> Téngase en cuenta que los modelos 573 y A24, añadidos por la disposición final 1 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732, entran en vigor el 1 de abril de 2025, según establece su disposición final 8.
+Modelo 380. Impuesto sobre el Valor Añadido. Operaciones asimiladas a las importaciones. Declaración-liquidación
 
 3. Las condiciones generales y el procedimiento para la presentación telemática de estas declaraciones serán, con carácter general, y sin perjuicio de lo dicho en el apartado anterior de esta disposición adicional, las que se establecen en las respectivas Órdenes por las que se aprobaron cada uno de estos modelos de declaración.
-
-> Se modifica el apartado 2, con efectos de 1 de abril de 2025, por la disposición final 1 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732
-
-> Se modifica el modelo 515 del apartado 2 por la disposición final 1 de la Orden HAC/66/2024, de 25 de enero. Ref. BOE-A-2024-1990#df
-
-> Se modifican los modelos 504 y 507 del apartado 2 por la disposición final 1 de la Orden HFP/626/2023, de 14 de junio. Ref. BOE-A-2023-14425
-
-> Se modifica el apartado 2 por las disposiciones finales 1 de las Órdenes; HFP/1314/2022, de 28 de diciembre. Ref. BOE-A-2022-23749 y HFP/1337/2022, de 28 de diciembre. Ref. BOE-A-2022-24387
-
-> Se modifica el apartado 2 por la disposición final 1 de la Orden HFP/826/2022, de 30 de agosto. Ref. BOE-A-2022-14275#df
-
-> Se modifica el apartado 1 por el art. único.9 de la Orden HFP/534/2022, de 6 de junio de 2022. Ref. BOE-A-2022-9606
-
-> Se modifica el apartado 2 por la disposición final 1 de la Orden HAC/1271/2019, de 9 de diciembre. Ref. BOE-A-2019-18747
 
 > Se modifica el apartado 2, con efectos de 1 de enero de 2020, por la disposición final 1 de la Orden HAC/998/2019, de 23 de septiembre. Ref. BOE-A-2019-14247#df
 
