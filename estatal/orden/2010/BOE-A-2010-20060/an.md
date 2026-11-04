@@ -271,3 +271,5 @@ Las condiciones especiales en que podrán comercializarse dichas mezclas se dete
 IX. Semillas importadas
 
 Las semillas que se importan de países terceros deberán corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia de los procesos de producción y de los requisitos de las semillas a nivel de la Unión Europea.
+
+> Se corrigen errores en los apartados 1 y 4 por la Orden ARM/2552/2011, de 21 de septiembre. Ref. BOE-A-2011-15169.

@@ -84,3 +84,5 @@ En el caso del centeno, el número de esclerocios de cornezuelo («Claviceps pur
 Se podrán aprobar campos con porcentajes mayores de los que figuran en el cuadro a petición de la Entidad, siempre que antes del precintado de la semilla éstas se hayan tratado con productos de reconocida eficacia.
 
 Séptima.–El cumplimiento de las normas antes citadas se comprobará mediante inspecciones oficiales de campo en el caso de las semillas de base y, en el de las semillas certificadas, mediante inspecciones oficiales de campo o inspecciones llevadas a cabo bajo supervisión oficial. El número de inspecciones será de al menos 1.
+
+> Se corrigen errores por la Orden ARM/2552/2011, de 21 de septiembre. Ref. BOE-A-2011-15169.
