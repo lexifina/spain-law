@@ -1,9 +1,11 @@
 ## Disposición adicional sexta. Absorción Fondos FEDER.
 
-(Derogada)
+Para asegurar la correcta absorción del Fondo Europeo de Desarrollo Regional (FEDER) para el periodo 2014-2020, de la cuantía total prevista para la concesión de subvenciones y ayudas financiadas con cargo a los créditos presupuestarios consignados en el capítulo 7 «Transferencias de capital» de la sección 28 «Ministerio de Ciencia e Innovación», para la siguiente entidad y programas: Entidad 303 «Agencia Estatal de Investigación», programa 463B «Fomento y coordinación de la investigación científica y técnica», se reservarán 85.000,00 miles de euros para financiar en el ejercicio 2021 las actuaciones cofinanciadas por el FEDER. Con la misma finalidad se reservarán otros 85.000,00 miles de euros en el capítulo 7 «Transferencias de capital» de la sección 28 «Ministerio de Ciencia e Innovación» para que dote a sus órganos encargados de la gestión del FEDER con aquellas cuantías que permitan optimizar la absorción de los fondos FEDER destinados a este programa.
 
-> Se deroga, con efectos desde el 1 de enero de 2021, por la disposición final 4.1 de la Ley 4/2022, de 25 de febrero de 2022. Ref. BOE-A-2022-3198#df-4
+De esas cantidades, se dedicará al menos el 40 % para financiar actuaciones en las regiones incluidas en los apartados b) y c) del artículo 120 del Reglamento 1303/2013 del Parlamento Europeo y del Consejo por el que se establecen disposiciones comunes relativas al FEDER, FSE, Fondo de Cohesión, FEADER y FEMP.
 
-> Téngase en cuenta que esta disposición ya fue derogada por el Real Decreto-ley 1/2021, de 19 de enero.
+En la ejecución presupuestaria del gasto derivado de estas nuevas convocatorias o actuaciones, así como en el derivado de convocatorias o actuaciones de ejercicios anteriores, deberá clasificarse regionalmente el gasto mediante la cumplimentación de la documentación complementaria prevista en la normativa reguladora de gestión contable, a fin de posibilitar el seguimiento de lo previsto en este artículo por la Intervención Delegada competente.
 
-> Se deroga, con efectos desde el 1 de enero de 2021, por la disposición final 2.1 del Real Decreto-ley 1/2021, de 19 de enero. Ref. BOE-A-2021-793#df-2
+Asimismo, se destinará para dicha finalidad la dotación de 30.000,00 miles de euros consignada en la aplicación 28.08.467C.749.07 «Al CDTI para proyectos de I+D+I empresarial cofinanciados por el FEDER», cuyo crédito se librará en la medida en que el Centro para el Desarrollo Tecnológico e Industrial (CDTI) justifique el gasto realizado en los proyectos cofinanciados por el FEDER.
+
+A tal efecto en las convocatorias o actuaciones a los que se apliquen estos créditos, el organismo o entidad responsable, informarán del importe destinado a financiar operaciones en las diferentes regiones.
