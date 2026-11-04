@@ -14,4 +14,6 @@ En los pesos máximos de los lotes se admite una tolerancia del 5 por 100.
 
 Los lotes de semilla de base estarán constituidos por semillas procedentes de un solo campo.
 
-Los lotes de semilla certificada pueden proceder de una o varia.
+Los lotes de semilla certificada pueden proceder de una o varias parcelas de la misma zona.
+
+> Se corrigen errores en las observaciones por Orden ARM/2556/2011, de 21 de septiembre. Ref. BOE-A-2011-15173.

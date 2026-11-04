@@ -44,9 +44,7 @@ Semilla certificada de segunda reproducción (R-2).
 
 Semilla certificada de tercera reproducción (R-3).
 
-b) El material parental es la unidad inicial utilizada en la conservación de la variedad y constituye la generación
-
-G-0. Las sucesivas multiplicaciones de este material se denominaran G-1, G-2, G-3, etcétera, y constituyen las semillas de prebase.
+b) El material parental es la unidad inicial utilizada en la conservación de la variedad y constituye la generación G-0. Las sucesivas multiplicaciones de este material se denominaran G-1, G-2, G-3, etc., y constituyen las semillas de prebase.
 
 c) Se entiende por semilla de base la obtenida como máximo en la tercera generación para cáñamo y cuarta generación para algodón y lino desde el material parental, salvo en variedades de obtentor, en que se haya admitido una generación distinta, al efectuarse su inscripción en el Registro de Variedades Comerciales.
 
@@ -225,3 +223,5 @@ d) Comunicaciones relativas a comercialización: Las ventas por variedades y rem
 ## X. Semillas importadas
 
 Las semillas que se importen de países terceros deberán corresponder a especies y categorías para las cuales haya sido reconocida la equivalencia de los procesos de producción y de los requisitos de las semillas a nivel de la Unión Europea.
+
+> Se corrigen errores en el apartado II.b) por Orden ARM/2556/2011, de 21 de septiembre. Ref. BOE-A-2011-15173.
