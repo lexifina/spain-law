@@ -21,10 +21,10 @@ I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico la
 | Festuca ovina L. | Festuca ovina. |
 | Festuca pratensis Huds. | Festuca pratense. |
 | Festuca rubra L. | Festuca roja. |
-| Festuca trachyphylla (Hack.) Hack. | Festuca dura. |
+| Festuca trachyphylla (Hack.) Krajina. | Festuca dura. |
 | Lolium multiflorum Lam. | Ray-grass italiano (incluido el Ray-grass Westerwold). |
 | Lolium perenne L. | Ray-grass inglés. |
-| Lolium x hybridum Hausskn | Ray-grass híbrido. |
+| Lolium x boucheanum Kunth. | Ray-grass híbrido. |
 | Phalaris aquatica L. | Falaris. |
 | Phleum nodosum L. | Fleo pequeño. |
 | Phleum pratense L. | Fleo de los prados. |
@@ -36,59 +36,37 @@ I.1 Quedan incluidas en el ámbito de aplicación de este Reglamento Técnico la
 | Trisetum flavescens (L.) P. Beauv. | Avena rubia. |
 | xFestulolium Asch. y Graebn. | Híbridos resultantes del cruce de una especie del género Festuca con una especie del género Lolium. |
 | b) Fabaceae (Leguminosae): | b) Leguminosas: |
-| Biserrula pelecinus L. | Biserrula. |
 | Galega orientalis Lam. | Galega forrajera. |
 | Hedysarum coronarium L. | Zulla. |
-| Lathyrus cicera L. | Almorta de monte. |
 | Lathyrus sativus L. | Almortas, guijas, titos o muelas. |
 | Lotus corniculatus L. | Loto de los prados. |
 | Lupinus albus L. | Altramuz blanco. |
 | Lupinus angustifolius L. | Altramuz de hoja estrecha. |
 | Lupinus luteus L. | Altramuz amarillo. |
-| Medicago doliata Carmign. | Medicago doliata. |
-| Medicago italica (Mill.) Fiori | Medicago italica. |
-| Medicago littoralis Rohde ex Loisel. | Medicago littoralis. |
 | Medicago lupulina L. | Lupulina. |
-| Medicago murex Willd. | Medicago murex. |
-| Medicago polymorpha L. | Carretón de amores; trébol de carretilla. |
-| Medicago rugosa Desr. | Medicago rugosa. |
 | Medicago sativa L. | Alfalfa. |
-| Medicago scutellata (L.) Mill. | Medicago scutellata. |
-| Medicago truncatula Gaertn. | Medicago truncatula. |
-| Medicago × varia T. Martyn Sand | Alfalfa de arena. |
+| Medicago x varia T. Martín. | Alfalfa de arena. |
 | Onobrychis viciifolia Scop. | Esparceta. |
-| Ornithopus compressus L. | Pie de pájaro. |
-| Ornithopus sativus Brot. | Serradella; serradela rosada. |
-| Pisum sativum L. (partim) | Guisante forrajero. |
+| Pisum sativum L. (partim). | Guisante forrajero. |
 | Trifolium alexandrinum L. | Trébol de Alejandría. |
-| Trifolium fragiferum L. | Trébol fresero. |
-| Trifolium glanduliferum Boiss. | Trifolium glanduliferum. |
-| Trifolium hirtum All. | Trébol rosa. |
 | Trifolium hybridum L. | Trébol híbrido. |
 | Trifolium incarnatum L. | Trébol encarnado. |
-| Trifolium isthmocarpum Brot. | Trifolium isthmocarpum. |
-| Trifolium michelianum Savi | Trébol balansa. |
 | Trifolium pratense L. | Trébol violeta. |
 | Trifolium repens L. | Trébol blanco. |
 | Trifolium resupinatum L. | Trébol persa. |
-| Trifolium squarrosum L. | Trifolium squarrosum. |
-| Trifolium subterraneum L. | Trébol subterráneo. |
-| Trifolium vesiculosum Savi | Trébol vesiculoso. |
-| Trigonella foenum-graecum L. | Alholva. |
-| Vicia benghalensis L. | Veza atropurpúrea. |
-| Vicia ervilia (L) Willd. | Yeros. |
-| Vicia faba L.(partim) | Haba pienso. |
-| Vicia monanthos L.Desf. | Algarroba. |
-| Vicia pannonica Crantz | Veza húngara. |
+| Trigonella Foenumgraecum L. | Alholva. |
+| Vicia ervilia (L.) Willd. | Yeros. |
+| Vicia faba L. (partim). | Haba pienso. |
+| Vicia monanthos Desf. | Algarroba. |
+| Vicia pannonica Crantz. | Veza húngara. |
 | Vicia sativa L. | Veza común. |
-| Vicia villosa Roth | Veza vellosa. |
+| Vicia villosa Roth. | Veza vellosa. |
 | c) Otras especies: |  |
 | Brassica napus L. var. napobrassica (L.) Rchb. | Colinabo. |
 | Brassica oleracea L. convar. acephala (DC.) Alef. var. medullosa Thell. + var. viridis L. | Berza, col forrajera o col caballar. |
-| Plantago lanceolata L. | Llantén menor |
 | Raphanus sativus L. var. oleiformis Pers. | Rábano forrajero. |
 
-I.2 Sólo podrá denominarse «semilla» de las plantas mencionadas en el apartado I.1 la que proceda de cultivos controlados por los servicios oficiales correspondientes y que haya sido obtenida según las disposiciones de este Reglamento; de la Ley 30/2006, de 26 de julio, de Semillas y Plantas de Vivero y Recursos Fitogenéticos, en el Decreto 3767/1972, de 23 de diciembre, por el que se aprueba el Reglamento General sobre Producción de Semillas y Plantas de Vivero y modificaciones posteriores y de la Orden de 23 de mayo de 1986, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores.
+I.2 Sólo podrá denominarse «semilla» de las plantas mencionadas en el apartado I.1 la que proceda de cultivos controlados por los servicios oficiales correspondientes y que haya sido obtenida según las disposiciones de este Reglamento; de la Ley 30/2006, de 26 de julio, de Semillas y Plantas de Vivero y Recursos Fitogenéticos, de la Orden de 26 de julio de 1973, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores y de la Orden de 23 de mayo de 1986, por la que se aprueba el Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, y modificaciones posteriores.
 
 También podrá recibir la denominación de «semilla» la importada que cumpla los correspondientes requisitos legales.
 
@@ -108,7 +86,7 @@ Semilla comercial.
 
 II.2 Especies para las que se admite únicamente la producción de semilla de base y certificada.
 
-a) Poaceae (Gramineae):
+a) Gramineae:
 
 Agrostis canina L.
 
@@ -138,7 +116,7 @@ Lolium multiflorum Lam.
 
 Lolium perenne L.
 
-Lolium x hybridum Hausskn.
+Lolium x boucheanum Kunth.
 
 Phleum nodosum L.
 
@@ -154,7 +132,7 @@ Poa trivialis L.
 
 Trisetum flavescens (L.) P. Beauv.
 
-b) Fabaceae (Leguminosae):
+b) Leguminosae:
 
 Galega orientalis Lam.
 
@@ -224,6 +202,48 @@ II.5 No obstante lo dispuesto en el apartado anterior, por el Organismo Oficial 
 
 III. Variedades admisibles a la certificación
 
+III.1 Tipos de variedades.
+
+Se admiten los siguientes tipos de variedades:
+
+a) Variedad comercial seleccionada.
+
+b) Variedad comercial local (cultivar, local o ecotipo).
+
+III.2 Regiones de origen de ecotipos.
+
+Las regiones de origen de ecotipos se establecen a efectos de este Reglamento del siguiente modo:
+
+1. Medicago sativa L.
+
+1.1 Ecotipo mediterráneo: Provincias de Alicante, Murcia y Valencia.
+
+1.2 Ecotipo del Ampurdán: La región natural así denominada.
+
+1.3 Ecotipo Aragón: Valle del Ebro y sus afluentes.
+
+1.4 Ecotipo de Tierra de Campos: La región de este nombre en las provincias de León, Palencia, Valladolid y Zamora.
+
+1.5 Ecotipo Alcoroches: La región de este nombre en las provincias de Guadalajara, Teruel y Zaragoza.
+
+2. Hedysarum coronarium L.
+
+2.1 Ecotipo andaluz: Provincias de Cádiz, Huelva y Sevilla.
+
+2.2 Ecotipo balear: Provincia de Baleares.
+
+3. Onobrychis viciifolia scop.
+
+3.1 Ecotipo castellano-aragonés: Provincias de la meseta castellana y Aragón.
+
+4. Trifolium pratense L.
+
+4.1 Ecotipo del Condado: Provincias de León y Palencia.
+
+4.2 Ecotipo del Páramo: Las comarcas naturales del Páramo, la Valduerna y Benavente, las provincias de León y Zamora.
+
+III.3 Variedades comerciales admisibles para la certificación.
+
 En las especies para las que se haya establecido una lista española de variedades comerciales o un catálogo común de variedades de la Unión Europea, sólo podrán producirse, para presentarse a la certificación oficial, y comercializarse, semillas de variedades incluidas en los mismos, exceptuándose aquellas que se destinen exclusivamente a la exportación o aquellas especies para las cuales se admitan la categoría de semilla comercial y se precinten con esta categoría.
 
 IV. Producción de semillas
@@ -283,22 +303,13 @@ IV.2.5 Estado de los cultivos:
 
 El estado del cultivo deberá ser tal que permita el control de la identidad y de la pureza varietal del mismo.
 
-El cultivo estará prácticamente libre de cualquier plaga que reduzca la utilidad y calidad de las semillas.
-
-El cultivo también cumplirá los requisitos relativos a las plagas cuarentenarias de la Unión, las plagas cuarentenarias de zonas protegidas y las plagas reguladas no cuarentenarias contemplados en los actos de ejecución adoptados con arreglo al Reglamento (UE) 2016/2031, así como las medidas adoptadas con arreglo al artículo 30, apartado 1, de ese mismo Reglamento.
-
-La presencia de plagas reguladas no cuarentenarias en el cultivo y en las categorías correspondientes cumplirá los requisitos que figuran en el cuadro siguiente:
-
-| Plagas reguladas no cuarentenarias o síntomas causados por ellas | Especie | Umbrales para la producción de semillas de prebase | Umbrales para la producción de semillas de base | Umbrales para la producción de semillas certificadas |
-| --- | --- | --- | --- | --- |
-| Clavibacter michiganensis ssp. insidiosus (McCulloch 1925) Davis et al. [CORBIN]. | Medicago sativa L. | 0 % | 0 % | 0 % |
-| Ditylenchus dipsaci (Kuehn) Filipjev [DITYDI]. | Medicago sativa L. | 0 % | 0 % | 0 % |
-
 Podrá ser causa de eliminación de las parcelas destinadas a la obtención de semillas la presencia de enfermedades transmisibles por semilla, salvo en los casos en que se aplique un tratamiento de eficacia comprobada para impedir tal transmisión.
 
 IV.2.6 Parcelas de producción:
 
 En el caso de especies perennes, las parcelas de multiplicación se podrán mantener en cultivo en tanto se cumplan todas las exigencias del presente Reglamento.
+
+En el caso de ecotipos, la producción de semillas deberá ser realizada en las zonas delimitadas en el punto III.2.
 
 IV.3 Requisitos especiales para la producción de semilla de base y prebase.
 
@@ -311,8 +322,6 @@ En cualquier caso, el número de generaciones para obtener la semilla de base, a
 IV.4 Inspecciones de campo.
 
 Todos los cultivos destinados a producir semillas de prebase, de base y certificada serán inspeccionados oficialmente, al menos una vez, en el momento más adecuado para verificar los requisitos especificados en este Reglamento. La pureza varietal mínima se examinará principalmente en las inspecciones de campo, con arreglo a las condiciones establecidas en el anejo I. En el caso de los cultivos destinados a la producción de categoría certificada las inspecciones podrán realizarse bajo supervisión oficial.
-
-En el caso de que, tras las inspecciones oficiales de campo, siguiera habiendo dudas sobre la identidad varietal de las semillas, la autoridad de certificación podrá utilizar, para el examen de dicha identidad, una técnica bioquímica o molecular reconocida internacionalmente y reproducible, de conformidad con las normas internacionales aplicables.
 
 IV.5 Declaraciones de cultivo.
 
@@ -344,9 +353,9 @@ Podrán comercializarse mezclas de semillas de varios géneros, especies o varie
 
 1.ª No vayan destinadas a un aprovechamiento como plantas forrajeras, pudiendo contener las mezclas semillas de plantas forrajeras y de plantas no forrajeras.
 
-2.ª Vayan destinadas a un aprovechamiento como plantas forrajeras, pudiendo las mezclas contener semillas de plantas forrajeras y de plantas que estén incluidas en los Reglamentos específicos de cereales, sorgo, maíz, textiles, oleaginosas y hortícolas, con excepción de variedades de gramíneas que, según declaración del obtentor, no sean destinadas a uso forrajero.
+2.ª Vayan destinadas a un aprovechamiento como plantas forrajeras, pudiendo las mezclas contener semillas de plantas forrajeras y de plantas que estén incluidas en los Reglamentos específicos de cereales, hortícolas y oleaginosas y textiles, con excepción de variedades de gramíneas que, según declaración del obtentor, no sean destinadas a uso forrajero.
 
-3.ª Vayan destinadas a la preservación del medio natural, en el marco de la preservación de los recursos genéticos, obtenidas y comercializadas de acuerdo con el anejo V, pudiendo contener las mezclas semillas de plantas forrajeras y de plantas no forrajeras.
+3.ª Vayan destinadas a la preservación del medio natural, en el marco de la preservación de los recursos genéticos, pudiendo contener las mezclas semillas de plantas forrajeras y de plantas no forrajeras.
 
 En los casos previstos en los párrafos primero y segundo del presente apartado, se entenderá que los componentes de las mezclas deben haber cumplido, antes del momento de la mezcla las exigencias para su comercialización.
 
@@ -372,23 +381,21 @@ VII.1 Categorías de productores de semillas.
 
 Se admiten las siguientes categorías de productores:
 
-– Productor mantenedor.
+Productor obtentor.
 
-– Productor multiplicador.
+Productor seleccionador.
 
-– Productor recolector.
-
-– Productor procesador.
+Productor multiplicador.
 
 VII.2 Requisitos.
 
-Además de las condiciones que se especifican en el artículo 13 del Real Decreto 1054/2021, de 30 de noviembre, por el que se establecen y regulan el Registro de operadores profesionales de vegetales, las medidas a cumplir por los operadores profesionales autorizados a expedir pasaportes fitosanitarios y las obligaciones de los operadores profesionales de material vegetal de reproducción, y se modifican diversos reales decretos en materia de agricultura, los productores mantenedores y multiplicadores deberán cumplir los siguientes requisitos:
+Además de las condiciones que se especifican en el título VII del Reglamento General de Control y Certificación de Semillas y Plantas de Vivero, los productores seleccionadores y multiplicadores deberán cumplir los siguientes requisitos:
 
-– Maquinaria e instalaciones: Tendrán a su disposición maquinaria agrícola especial para la siembra, tratamiento y recolección de las parcelas de producción de semilla. En las autorizaciones para alfalfas y tréboles se exigirá disponer de al menos una descuscutadora.
+Maquinaria e instalaciones: Se dispondrá de maquinaria agrícola especial para la siembra, tratamiento y recolección de las parcelas de producción de semilla. En las autorizaciones para alfalfas y tréboles se exigirá disponer de al menos una descuscutadora.
 
-– Instalaciones de laboratorio: Tendrán a su disposición instalaciones de laboratorio suficientes para realizar los análisis de pureza, germinación, sanidad, humedad y ploidia, cuando sea necesario, de todas las semillas que produzcan.
+Instalaciones de laboratorio: Se deberá disponer de instalaciones de laboratorio suficientes para realizar los análisis de pureza, germinación, sanidad, humedad y ploidia, cuando sea necesario, de todas las semillas que produzcan.
 
-– Capacidad de las instalaciones: La capacidad de la maquinaria e instalaciones será la necesaria para la manipulación mínima anual, por grupos de especies, de las siguientes toneladas:
+Capacidad de las instalaciones: La capacidad de la maquinaria e instalaciones será la necesaria para la manipulación mínima anual, por grupos de especies, de las siguientes toneladas:
 
 a) Gramíneas forrajeras y pratenses: 100.
 
@@ -422,22 +429,8 @@ Pequeños envases CE-A: Envases que contengan una mezcla de semillas no destinad
 
 Pequeños envases CE-B: Envases que contengan semillas certificadas, comerciales, o cuando no se trate de pequeños envases CEE-A, mezclas de semillas de un peso neto igual o inferior a 10 kilogramos, excluyendo pesticidas granulados, sustancias de pildorado u otros aditivos sólidos.
 
-VIII.3 Los lotes de semilla que cumplan las condiciones establecidas en el anexo I de este Reglamento, relativas a la presencia de Avena fatua podrán, con independencia de la etiqueta oficial y a petición del obtentor, llevar un certificado oficial que dé fe del cumplimiento de dichas condiciones.
+VIII.3 (en B.O.E. 4.) Los lotes de semilla que cumplan las condiciones establecidas en el anexo I de este Reglamento, relativas a la presencia de Avena fatua podrán, con independencia de la etiqueta oficial y a petición del obtentor, llevar un certificado oficial que dé fe del cumplimiento de dichas condiciones.
 
-VIII.4 Comercialización de semilla certificada a granel.
+VIII.4 (en B.O.E. VIII.4) Comercialización de semilla certificada a granel.
 
 Se podrá comercializar semilla de categoría certificada a granel, de las especies: Habas y haboncillos [Vicia faba (partim)] y guisante [Pisum sativum (partim)], destinadas directamente al consumidor final, siempre que se cumplan los requisitos establecidos en los apartados 40 y 40 bis del Reglamento General Técnico de Control y Certificación de Semillas y Plantas de Vivero.
-
-> Se modifican los apartados III, IV y VII por el art. 1 de la Orden APA/800/2022, de 5 de agosto. Ref. BOE-A-2022-13835
-
-> Se modifica la referencia indicada por el art. 3.3 de la Orden APA/1437/2021, de 16 de diciembre de 2021. Ref. BOE-A-2021-21286
-
-> Téngase en cuenta que esta modificación entra en vigor el 1 de febrero de 2022, según establece la disposición final 2 de la citada Orden.
-
-> Se modifican los epígrafes IV.2.5 y V.3 por el art. 4.1 y 2 de la Orden APA/455/2020, de 26 de mayo. Ref. BOE-A-2020-5413#ac
-
-> Se modifican los epígrafes I.1 y II.2 por el artículo único.1 y 2 de la Orden APM/902/2017, de 22 de septiembre. Ref. BOE-A-2017-10928
-
-> Se modifica el párrafo 3 del epígrafe V.3 por el art. único.1 de la Orden AAA/30/2012, de 10 de enero. Ref. BOE-A-2012-530.
-
-> Se corrigen errores por Orden ARM/2554/2011, de 21 de septiembre. Ref. BOE-A-2011-15171.
