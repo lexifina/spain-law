@@ -28,6 +28,8 @@ e) Los recursos contra las resoluciones de la Dirección General de los Registro
 
 f) De los procedimientos de aplicación de los artículos 81 y 82 del Tratado de la Comunidad Europea y de su derecho derivado.
 
-g) Cuantas incidencias o pretensiones se promuevan como consecuencia de la aplicación de la normativa vigente sobre arbitraje en las materias a las que se refiere este apartado.
+g) De los asuntos atribuidos a los Juzgados de Primera Instancia en el artículo 8 de la Ley de Arbitraje cuando vengan referidos a materias contempladas en este apartado.
+
+> Se modifica la letra g) del apartado 2 por el art. 1 de la Ley Orgánica 20/2003, de 23 de diciembre. Ref. BOE-A-2003-23645.
 
 > Se añade por el art. 2.7 de la Ley Orgánica 8/2003, de 9 de julio. Ref. BOE-A-2003-13812
