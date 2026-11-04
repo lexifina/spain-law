@@ -24,99 +24,44 @@
 | 136 | Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. |
 | 151 | Desde el inicio del plazo hasta el 25 del mes de junio. |
 | 200 (*) | Desde el día 1 hasta el 20 del mes de julio. |
-| 202 | Plazo: Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre. |
+| 202 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
 | 206 (*) | Desde el día 1 hasta el 20 del mes de julio. |
-| 210 | – En el caso de tipo de renta 02 (rentas imputadas de inmuebles urbanos): desde el día 1 de abril hasta el 23 de diciembre. – Rentas derivadas del arrendamiento o subarrendamiento de inmuebles (tipos de renta 01 o 35) con agrupación anual o sin agrupar (período 0A) (*): desde el 1 al 15 de abril. – Resto de tipo de rentas, excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles) (**): desde el día 1 hasta el día 15 de los meses de abril, julio, octubre y enero. (*) Exclusivamente para el tratamiento por parte de las EECC se comunicará técnicamente como 1T. (**) En caso de declaración de una renta separada, sin agrupación, exclusivamente para el tratamiento por parte de las EECC se comunicará técnicamente como NT, siendo N= 1, 2, 3 o 4). |
+| 210 | En el caso de tipo de renta 02 (rentas imputadas de inmuebles urbanos): desde el día 1 de enero hasta el 23 de diciembre. Resto de tipo de rentas, excepto la 28 (ganancias derivadas de la transmisión de bienes inmuebles): desde el día 1 hasta el día 15 de los meses de abril, julio, octubre y enero. |
 | 213 | Desde el día 1 hasta el 25 del mes de enero. |
 | 216 | Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio, octubre y enero. Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
 | 220 (*) | Desde el día 1 hasta el 20 del mes de julio. |
-| 221 | Desde el día 1 hasta el 20 del mes de julio (**). |
-| 222 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. No obstante, para la autoliquidación del pago fraccionado anual foral de País Vasco el plazo será desde el día 1 hasta el 20 de octubre y para la autoliquidación del pago fraccionado anual foral de Navarra el plazo será desde el día 1 hasta el 15 de octubre. |
+| 222 | Desde el día 1 hasta el 15 de los meses de abril, octubre y diciembre. |
 | 230 | Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre y enero. |
-| 242 | Desde el día 1 hasta el 20 de abril. *Solo cuando el período impositivo finalice el día 31 de diciembre. Desde el día 1 hasta el 20 de julio. ***Solo cuando el período de transición finalice el 31 de diciembre. |
 | 303 | Plazo: Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. Obligación mensual de presentación: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
-| 309 (***) | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero. |
 | 353 | Plazo: Desde el día 1 hasta el 25 de los meses de enero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre. En el caso de la autoliquidación correspondiente al mes de enero el plazo será desde el día 1 hasta el día 23 del mes de febrero salvo, en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
 | 410 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
 | 411 | Plazo: Desde el día 1 hasta el 26 del mes de julio. |
 | 430 | Desde el día 1 hasta el 15 del mes siguiente a la finalización del correspondiente periodo de liquidación mensual, excepto la correspondiente al mes de julio, que se presentará durante el mes de agosto y los primeros quince días naturales del mes de septiembre. |
-| 490 | Obligación trimestral de presentación: Desde el día 1 hasta el 25 de abril (primer trimestre), y desde el día 1 hasta el 26 de los meses de julio, octubre y enero (resto de trimestres). |
 | 560 | Obligación trimestral de presentación: Desde el día 1 al 15 del mes siguiente a aquel en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del mes siguiente al mes en que se han producido los devengos. Obligación anual de presentación: Desde el 1 al 15 del mes de abril del año siguiente al que se han producido los devengos. |
 | 561 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 562 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 563 | Obligación trimestral de presentación: Desde el día 1 al 15 del segundo mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. Obligación mensual de presentación: Desde el día 1 al 15 del tercer mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 564 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 566 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
-| 573 | Plazo: el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda. |
 | 581 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el mes en que se han producido los devengos. |
 | 582 | Desde el día 1 hasta el 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 583 | Obligación trimestral de presentación: desde el día 1 hasta el 15 de los meses de mayo, septiembre, noviembre y febrero. Obligación anual de presentación: desde el día 1 hasta el 25 del mes de noviembre. |
-| 587 | El plazo será desde el día 1 hasta el día 20 del mes siguiente a aquel en que finaliza el período de liquidación correspondiente al trimestre natural. En caso de domiciliación bancaria del pago, el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación. |
+| 587 | Desde el día 1 al 15 de los meses de mayo, septiembre y enero. |
 | 588 | Desde el día 1 hasta el 25 del mes de noviembre. |
 | 589 | Obligación semestral de presentación: desde el día 1 hasta el 15 del mes de octubre. Obligación anual de presentación: desde el día 1 hasta el 15 del mes de abril. |
-| 592 | Plazo: el plazo será desde el día 1 hasta el día 15 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda. |
-| 593 | Plazo: el plazo será desde el día 1 hasta el día 25 del mes siguiente a aquel en que finaliza el periodo de liquidación que corresponda. |
 | 595 | Desde el día 1 al 15 del mes siguiente a aquél en que finaliza el trimestre en que se han producido los devengos. |
 | 714 | Desde el día 2 de mayo hasta el 25 de junio. |
-| 718 | Desde el día 1 hasta el día 26 del mes de julio. |
-| 780 (*) | Plazo: Desde el día 1 hasta el 15 de septiembre. |
-| 781 (*) | Plazo: Desde el día 1 hasta el 15 de febrero. |
-| 792 | Desde el día 1 hasta el día 23 del mes de febrero, salvo en el supuesto de año bisiesto que será del 1 hasta el día 24 del mes de febrero. |
-| 793 | Desde el día 1 hasta el 15 de los meses de abril, julio y octubre. |
-| 795 | Desde el día 1 hasta el día 15 del mes de septiembre. |
-| 796 | Desde el día 1 hasta el 15 del mes de febrero. |
-| 797 | Desde el día 1 hasta el día 15 del mes de septiembre. |
-| 798 | Desde el día 1 hasta el 15 del mes de febrero. |
+| (*) Sólo cuando el período impositivo finalice el día 31 de diciembre. |
 
-(*) Sólo cuando el período impositivo finalice el día 31 de diciembre.
+> Téngase en cuenta que la actualización de los modelos 303 y 353, establecida por la disposición final 4 de la Orden HFP/417/2017, de 12 de mayo. Ref. BOE-A-2017-5312 produce efectos desde de 1 de julio de 2017, para las autoliquidaciones correspondientes al mes de julio de 2017 y siguientes, según establece la disposición final 6 de la citada orden:
 
-(**) Solo cuando el periodo impositivo finalice el día 31 de diciembre.
+> Redacción anterior:
 
-(***) Sólo cuando el periodo sea trimestral.
+> "Código de modelo 303: Obligación trimestral de presentación: Desde el día 1 hasta el 15 de los meses de abril, julio y octubre, y desde el día 1 hasta el 25 del mes de enero.
 
-> Se modifica el modelo 210 por el art. 3 de la Orden HAC/623/2026, de 12 de junio. Ref. BOE-A-2026-13573
+> Obligación mensual de presentación: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre, diciembre, y desde el día 1 hasta el 25 del mes de enero.
 
-> Se añade el modelo 242 por la disposición final 2.2 de la Orden HAC/1198/2025, de 21 de octubre. Ref. BOE-A-2025-21727
-
-> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez a los períodos impositivos iniciados a partir del 31 de diciembre de 2023, según establecen la disposición final 4 de la citada Orden.
-
-> Se añaden los modelos 780 y 781, con la nota a pie de tabla (*), por la disposición final 2.2 de la Orden HAC/532/2025, de 26 de mayo. Ref. BOE-A-2025-10597#df-2
-
-> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez a las declaraciones cuyo plazo de presentación se inicie en el ejercicio 2025, según establece la disposición final 4 de la citada Orden.
-
-> Se añade el modelo 573, con efectos de 1 de abril de 2025, por la disposición final 3.2 de la Orden HAC/86/2025, de 13 de enero. Ref. BOE-A-2025-1732
-
-> Se modifica el modelo 210 por el art. 5 de la Orden HAC/56/2024, de 25 de enero. Ref. BOE-A-2024-1772
-
-> Téngase en cuenta que en cuanto a la autoliquidación modelo 210, la agrupación anual de rentas derivadas del arrendamiento o subarrendamiento de inmuebles será aplicable, por primera vez, respecto de los devengos correspondientes a 2024, según establece la disposición final única de la citada Orden.
-
-> Se añade el modelo 718 y el plazo correspondiente, por la disposición final 2.2 de la Orden HFP/587/2023, de 9 de junio. Ref. BOE-A-2023-13800
-
-> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez al ejercicio 2022, según establece la disposición final 4 de la citada Orden.
-
-> Se añaden los modelos 792 y 793 por la disposición final 2.2 de la Orden HFP/309/2023, de 28 de marzo, Ref. BOE-A-2023-8117 y el modelo 309, con la nota a pie de tabla (***), por la disposición final 1.3 y 4 de la Orden HFP/312/2023, de 28 de marzo. Ref. BOE-A-2023-8120
-
-> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio de 2023, según establece la disposición final 4 de la Orden HFP/309/2023 y a las autoliquidaciones del modelo 309 correspondientes al primer trimestre de 2023, según establece la disposición final 2 de la Orden HFP/312/2023.
-
-> Se añaden los modelos 795 a 798 por la disposición final 2.2 de la Orden HFP/94/2023, de 2 de febrero. Ref. BOE-A-2023-2832
-
-> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio de 2023, según establece la disposición final 4 de la citada Orden.
-
-> Se añaden los modelos 592 y 593 y los plazos correspondientes, por las disposiciones finales 3.2 de las Órdenes; HFP/1314/2022, de 28 de diciembre. Ref. BOE-A-2022-23749 y HFP/1337/2022, de 28 de diciembre. Ref. BOE-A-2022-24387
-
-> Se modifica el plazo del modelo 587 por la disposición final 3 de la Orden HFP/826/2022, de 30 de agosto. Ref. BOE-A-2022-14275#df-3
-
-> Se añade el modelo 490 y el plazo correspondiente, por la disposición final 2.2 de la Orden HAC/590/2021, de 9 de junio. Ref. BOE-A-2021-9721#df-2
-
-> Téngase en cuenta que en el ejercicio 2021, el plazo correspondiente al primer trimestre será el mismo que el del segundo trimestre de dicho ejercicio. Véase la disposición final 4 de la citada Orden para su aplicación.
-
-> Se modifican los plazos de los modelos 202 y 222 por la disposición final 1 de la Orden HAC/941/2018, de 5 de septiembre. Ref. BOE-A-2018-12515
-
-> Téngase en cuenta para su aplicación la disposición final 3 de la citada Orden.
-
-> Se añade el modelo 221 por la disposición final 3.2 de la Orden HFP/550/2017, de 15 de junio. Ref. BOE-A-2017-6857
-
-> Téngase en cuenta para su aplicación la disposición transitoria única de la citada Orden.
+> Código de modelo 353: Desde el día 1 hasta el 15 de los meses de febrero, marzo, abril, mayo, junio, julio, agosto, septiembre, octubre, noviembre y diciembre, y desde el día 1 hasta el 25 del mes de enero".
 
 > Se modifican los modelos 303 y 353 por la disposición final 4 de la Orden HFP/417/2017, de 12 de mayo. Ref. BOE-A-2017-5312
 
