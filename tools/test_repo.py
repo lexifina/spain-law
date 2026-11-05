@@ -7,9 +7,8 @@ It asserts that:
 1. `git blame` on an amended block names amending norms as authors of its lines;
 2. tools/eslaw.py gives the text before and after a known amendment, and each equals the file at that commit;
 3. `git log --follow` on a file lists its amending norms in the order they took effect;
-4. every tag resolves, and every commit but the documentation commit has an ISO `In-force:` trailer;
-5. no commit is authored by Lexifina except the documentation commit (the last one), the committer is always
-   Lexifina, and every other author is a BOE norm or the labelled publisher;
+4. every tag resolves, every normative/correction commit has an ISO `In-force:` trailer, and documentation is labelled;
+5. maintainers author labelled documentation or sourced corrections; other authors are BOE norms or the publisher;
 6. every git or tool command in the README's table runs and prints something.
 With --record the result is written to cache/verification.json next to this script (for REPRODUCE.md).
 """
@@ -35,9 +34,94 @@ def default_repo() -> Path:
 
 
 class Smoke:
-    def __init__(self, repo: Path):
+    def __init__(self, repo: Path, published_base=None):
         self.repo = repo
+        self.published_base = published_base
         self.results = []
+
+    def legacy_published(self, sha):
+        """Only the explicit immutable published pin may contain pre-schema maintainer records."""
+        assert self.published_base, f'{sha}: legacy record requires --pin <published baseline>'
+        if not hasattr(self, '_published_commits'):
+            self._published_commits = set(self.git('rev-list', self.published_base).split())
+        assert sha in self._published_commits, f'{sha}: new maintainer record must declare Kind'
+
+    def ancestor(self, target, sha):
+        if not hasattr(self, '_linear'):
+            self._linear = self.git('rev-list', '--count', '--merges', 'main').strip() == '0'
+            self._positions = {commit: i for i, commit in enumerate(self.records())}
+        if self._linear:
+            matches = [commit for commit in self._positions if commit.startswith(target)] if len(target) != 40 else [target]
+            assert len(matches) == 1 and matches[0] in self._positions, f'{sha}: missing/ambiguous provenance commit {target}'
+            assert self._positions[matches[0]] > self._positions[sha], f'{sha}: provenance target is not an earlier ancestor'
+        else:
+            self.git('merge-base', '--is-ancestor', target, sha + '^')
+
+    def records(self):
+        if not hasattr(self, '_records'):
+            fmt = '%x1d%H%x1f%an%x1f%ae%x1f%cn%x1f%ce%x1f%(trailers:only,unfold)'
+            raw = self.git('log', '--format=' + fmt, 'main')
+            self._records = {}
+            for chunk in raw.split('\x1d')[1:]:
+                sha, author, email, committer, committer_email, block = chunk.split('\x1f', 5)
+                trailers = {}
+                for key, value in re.findall(r'^([A-Za-z-]+):\s*(.*)$', block, re.M):
+                    trailers.setdefault(key, []).append(value.strip())
+                self._records[sha] = (author, email, committer, committer_email, trailers)
+        return self._records
+
+    def classification(self, sha):
+        author, email, committer, committer_email, t = self.records()[sha]
+        value = lambda key: t.get(key, [''])[0]
+        kind, day = value('Kind').lower(), value('In-force')
+        if author == 'Lexifina' and not kind and not day:
+            self.legacy_published(sha)
+            # Historical documentation predates Kind. Recognize it only when its actual delta contains no act file.
+            changed = self.git('diff-tree', '--root', '--no-commit-id', '--name-only', '-r', sha).splitlines()
+            assert not any(p.startswith('estatal/') for p in changed), f'{sha}: unlabelled maintainer changed an act'
+            return 'documentation'
+        if author == 'Lexifina' and not kind and day:
+            self.legacy_published(sha)
+            norma = value('Norma')
+            assert LAW.match(norma), f'{sha}: legacy sourced record lacks a BOE norm'
+            assert value('Source').startswith(('https://www.boe.es/', 'http://www.boe.es/')), f'{sha}: legacy record lacks official source'
+            if value('Re-asserts'):
+                assert re.fullmatch(r'[0-9a-f]{7,40}', value('Re-asserts')), f'{sha}: malformed legacy Re-asserts'
+                self.ancestor(value('Re-asserts'), sha)
+            else:
+                assert value('Law').startswith(norma), f'{sha}: legacy same-day record lacks explicit law credit'
+            return 'legacy sourced record'
+        if kind == 'documentation':
+            assert author == 'Lexifina' and not day, f'{sha}: invalid documentation identity/date'
+            return 'documentation'
+        if author == 'Lexifina':
+            assert kind == 'correction', f'{sha}: unlabelled maintainer-authored normative commit'
+            for key in ('In-force', 'Corrects', 'Supersedes', 'Reason', 'Act-path', 'Files'):
+                assert value(key), f'{sha}: correction missing {key}'
+            corrects = value('Corrects')
+            assert re.fullmatch(r'[0-9a-f]{7,40}', corrects) or re.fullmatch(
+                r'\S+ \d{4}-\d{2}-\d{2}\.\.(?:\d{4}-\d{2}-\d{2})?', corrects), f'{sha}: malformed Corrects'
+            if re.fullmatch(r'[0-9a-f]{7,40}', corrects):
+                self.ancestor(corrects, sha)
+            assert value('Source') or value('Norma') or value('Law'), f'{sha}: correction lacks source/provenance'
+            for redates in t.get('Redates', []):
+                match = re.fullmatch(r'([0-9a-f]{7,40}) (\d{4}-\d{2}-\d{2}|no-date)', redates)
+                assert match, f'{sha}: malformed Redates'
+                self.ancestor(match[1], sha)
+            return 'correction'
+        assert LAW.match(author) or author == PUBLISHER, f'{sha}: unexpected normative author {author}'
+        return 'law'
+
+    def blame_revision(self, path):
+        """Documentation may restore deleted files, but only identical source blobs retain their original blame."""
+        blob = self.git('rev-parse', 'main:' + path).strip()
+        for sha in self.git('log', '--follow', '--format=%H', 'main', '--', path).split():
+            author = self.records()[sha][0]
+            if not (LAW.match(author) or author == PUBLISHER):
+                continue
+            if self.git('rev-parse', sha + ':' + path).strip() == blob:
+                return sha
+        raise AssertionError(f'{path}: current blob has no identical norm-authored historical version')
 
     def git(self, *args: str) -> str:
         out = subprocess.run(['git', *args], cwd=self.repo, capture_output=True, text=True, encoding='utf-8')
@@ -63,7 +147,8 @@ class Smoke:
 
     def blame(self):
         path = f'{CE}/a135.md'
-        out = self.git('blame', '--line-porcelain', 'main', '--', path)
+        revision = self.blame_revision(path)
+        out = self.git('blame', '--line-porcelain', revision, '--', path)
         authors = {l[7:] for l in out.splitlines() if l.startswith('author ')}
         assert authors and all(LAW.match(a) or a == PUBLISHER for a in authors), f'unexpected authors {authors}'
         assert any(a.startswith('BOE-A-2011-15210') for a in authors), f'the 2011 reform is not among {authors}'
@@ -89,37 +174,47 @@ class Smoke:
     def follow(self):
         checked = []
         for path in (f'{CE}/a135.md', f'{CE}/a49.md', f'{CC}/a1.md'):
-            out = self.git('log', '--follow', '--format=%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
-            rows = [l.split('\t') for l in out.splitlines() if l]
+            out = self.git('log', '--follow', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
+            rows = [(a, d) for sha, a, d in (l.split('\t') for l in out.splitlines() if l)
+                    if self.classification(sha) != 'documentation']
             assert len(rows) >= 2, f'{path}: {len(rows)} commits'
             days = [d.strip() for _, d in rows]
             assert days == sorted(days, reverse=True), f'{path}: not in date order {days}'
-            assert all(LAW.match(a) or a == PUBLISHER for a, _ in rows), f'{path}: authors {[a for a, _ in rows]}'
+            assert all(LAW.match(a) or a == PUBLISHER or a == 'Lexifina' for a, _ in rows), f'{path}: authors {[a for a, _ in rows]}'
             checked.append(f'{path} {len(rows)} commits')
         return '; '.join(checked)
 
     def tags_and_trailers(self):
         tags = self.git('tag').split()
-        for t in tags:
-            self.git('rev-parse', '--verify', '-q', f'{t}^{{commit}}')
-        rows = self.git('log', '--format=%H%x09%an%x09%(trailers:key=In-force,valueonly,separator=)', 'main').splitlines()
-        missing = [r for r in rows[1:] if not r.split('\t')[2].strip()]
-        assert not missing, f'{len(missing)} commits without In-force, e.g. {missing[:2]}'
-        assert not rows[0].split('\t')[2].strip(), 'documentation commit should carry no In-force'
-        bad = [r for r in rows[1:] if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', r.split('\t')[2].strip())]
-        assert not bad, f'malformed In-force {bad[:2]}'
-        return f'{len(tags)} tags resolve; {len(rows) - 1} law commits carry In-force'
+        if tags:
+            query = '\n'.join('refs/tags/' + t + '^{commit}' for t in tags) + '\n'
+            checked = subprocess.run(['git', 'cat-file', '--batch-check'], cwd=self.repo, input=query,
+                                     capture_output=True, text=True, encoding='utf-8')
+            assert checked.returncode == 0, checked.stderr
+            resolved = checked.stdout.splitlines()
+            assert len(resolved) == len(tags) and all(' commit ' in line for line in resolved), 'a tag does not resolve to a commit'
+        docs = 0
+        for sha, record in self.records().items():
+            kind = self.classification(sha)
+            day = record[4].get('In-force', [''])[0]
+            if kind == 'documentation':
+                docs += 1
+            else:
+                assert re.fullmatch(r'\d{4}-\d{2}-\d{2}', day), f'{sha}: missing/malformed In-force {day!r}'
+        assert self.classification(self.git('rev-parse', 'main').strip()) == 'documentation', 'main must end with documentation'
+        return f'{len(tags)} tags resolve; {len(self.records()) - docs} dated law/correction commits; {docs} labelled documentation commits'
 
     def lexifina(self):
-        rows = self.git('log', '--format=%H%x09%an%x09%ae%x09%cn%x09%ce', 'main').splitlines()
-        by_lex = [r for r in rows if r.split('\t')[1] == 'Lexifina']
-        assert len(by_lex) == 1 and by_lex[0] == rows[0], f'{len(by_lex)} commits by Lexifina'
-        assert all(r.split('\t')[3] == 'Lexifina' and r.split('\t')[4] == 'spain-law@lexifina.com' for r in rows), 'other committer'
-        authors = {r.split('\t')[1] for r in rows[1:]}
-        odd = sorted(a for a in authors if not (LAW.match(a) or a == PUBLISHER))
-        assert not odd, f'unexpected authors {odd[:5]}'
-        assert all(r.split('\t')[2].endswith('@boe.invalid') for r in rows[1:]), 'an author email not at boe.invalid'
-        return f'only the documentation commit {rows[0][:10]} is by Lexifina; {len(authors)} distinct authors'
+        maintainers = 0
+        for sha, (author, email, committer, committer_email, _) in self.records().items():
+            kind = self.classification(sha)
+            assert committer == 'Lexifina' and committer_email == 'spain-law@lexifina.com', f'{sha}: invalid committer identity'
+            if author == 'Lexifina':
+                maintainers += 1
+                assert email == 'spain-law@lexifina.com' and kind in ('documentation', 'correction', 'legacy sourced record'), f'{sha}: invalid maintainer author'
+            else:
+                assert email.endswith('@boe.invalid'), f'{sha}: normative author email not at boe.invalid'
+        return f'{maintainers} maintainer commits classified and validated; all normative author and committer identities valid'
 
     def readme(self):
         text = (self.repo / 'README.md').read_text(encoding='utf-8')
@@ -140,14 +235,15 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--repo', default=None)
     ap.add_argument('--record', action='store_true')
+    ap.add_argument('--pin', default=None, help='immutable published baseline for read-only legacy metadata handling')
     args = ap.parse_args()
     sys.stdout.reconfigure(encoding='utf-8')
-    s = Smoke(Path(args.repo) if args.repo else default_repo())
+    s = Smoke(Path(args.repo) if args.repo else default_repo(), args.pin)
     s.check('blame names a norm', s.blame)
     s.check('text before and after an amendment', s.on_date)
     s.check('log --follow in date order', s.follow)
     s.check('tags resolve, In-force on every law commit', s.tags_and_trailers)
-    s.check('only the documentation commit is by Lexifina', s.lexifina)
+    s.check('maintainer documentation/corrections and norm identities', s.lexifina)
     s.check('README commands run', s.readme)
     ok = all(r[1] for r in s.results)
     summary = f'{sum(r[1] for r in s.results)}/{len(s.results)} passed'

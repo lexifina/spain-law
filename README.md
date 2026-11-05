@@ -114,3 +114,10 @@ The `on` command preserves the published reader's historical-record answers, inc
 ## Ordered same-day source versions
 
 213 earlier BOE block versions on the same effective day are preserved as individually labelled correction commits, followed by the last source version of each affected block that day. The original commits and tags retain their published identities. The source index is `data/same-day-versions.json`; `Norma`, `Published`, and `Source-version-index` record the BOE provenance, including source states with identical wording. The end-of-day reader applies only the files named by each correction. These ordered records do not establish an intra-day period of applicability. 87 earlier versions are held for normative images, source/published-tip differences, future applicability, or whole-act reader compatibility; the text record still ends on 2026-10-28.
+
+
+## Date corrections
+
+Nine published block dates have source-backed correction records in [data/date-corrections.tsv](data/date-corrections.tsv). Seven dates are corrected; two retain earlier dates expressly stated by BOE. Later publisher notices of earlier events carry a `Retroactive` explanation. `Redates` identifies each original version. These records preserve the published normative files and the BOE repeal and annulment metadata.
+
+The smoke checks validate dated normative records, labelled documentation and sourced corrections. An unchanged restored file retains its norm-authored historical provenance.
