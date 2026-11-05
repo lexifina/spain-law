@@ -1,0 +1,3 @@
+## Disposición adicional única. Municipios o entes locales colindantes.
+
+Quedan excluidos del ámbito de aplicación de esta orden aquellos municipios o entes locales de ámbito territorial inferior al municipio cuyo casco urbano consolidado colinde con el casco urbano de otro municipio o ente local de ámbito territorial inferior al municipio cuyo número de habitantes o densidad de población exceda lo establecido en el artículo 2.1, o cuando la suma de los habitantes de sus respectivos cascos urbanos consolidados exceda el número de habitantes o densidad de población establecido en el citado artículo 2.1.

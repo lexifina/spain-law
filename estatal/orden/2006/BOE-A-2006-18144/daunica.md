@@ -1,0 +1,3 @@
+## Disposición adicional única. Inaplicabilidad del Cuadro de Módulos Específicos de Valor Unitario de Suelo.
+
+La valoración de los inmuebles no podrá realizarse conforme a lo establecido en el artículo 1 de esta orden cuando, de su aplicación, resulte un valor por metro cuadrado superior al menor valor unitario establecido por la Ponencia de valores del municipio para el suelo urbano no urbanizado del mismo uso, exceptuándose el destinado a zonas verdes. En tales supuestos, la valoración del inmueble deberá realizarse, según corresponda, conforme a los procedimientos de valoración colectiva de carácter general o parcial, de conformidad con lo dispuesto en el artículo 28.3.a) y b) del Texto refundido de la Ley de Catastro Inmobiliario.

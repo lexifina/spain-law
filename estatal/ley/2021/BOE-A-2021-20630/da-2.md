@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Informe sobre los resultados de la aplicación de las medidas recogidas en la ley.
+
+Al año de la completa entrada en vigor de la ley, el Ministerio de Agricultura, Pesca y Alimentación presentará un informe a la Comisión Delegada del Gobierno para Asuntos Económicos en el que se analizarán los resultados de la aplicación de las medidas recogidas en esta ley. En particular, este informe detallará el impacto de dichas medidas sobre el sector agroalimentario español, específicamente sobre el sector agrario y pesquero, sobre los precios que han recibido por sus productos, y sobre los consumidores, atendiendo a la evolución que se haya producido del sistema de fijación de precios, a los precios medios recibidos por los productores con detalle por comunidades autónomas y provincias de producción y de los precios finales de los productos agroalimentarios.
+
+El contenido completo de este informe se remitirá igualmente a las comunidades autónomas y se publicará en la página web del Ministerio de Agricultura, Pesca y Alimentación.

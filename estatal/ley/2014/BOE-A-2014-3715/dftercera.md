@@ -1,0 +1,3 @@
+## Disposición final tercera. Aptitudes psicofísicas para obtener o prorrogar el permiso o licencia de conducir.
+
+El Gobierno, en el plazo de seis meses, reformará el anexo IV, apartado 5, trastornos hematológicos, del Real Decreto 818/2009, de 8 de mayo, por el que se aprueba el Reglamento General de Conductores para que en los supuestos en que el mismo limite o prohíba la obtención y especialmente la prórroga de la licencia o permiso de conducción en procesos oncológicos por carencia de aptitudes psicofísicas, sea revisado y se tenga especialmente en cuenta el informe que al efecto emita el oncólogo responsable del tratamiento.

@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 1636/2011, de 14 de noviembre, por el que se aprueba el Estatuto de ICEX España Exportación e Inversiones, E.P.E.", según establece el art. único.1 del Real Decreto 350/2025, de 30 de abril. Ref. BOE-A-2025-8646

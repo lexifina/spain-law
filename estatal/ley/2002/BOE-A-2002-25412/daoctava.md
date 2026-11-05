@@ -1,0 +1,3 @@
+## Disposición adicional octava. Baja definitiva de vehículos con quince o más años de antigüedad en el Registro de la Jefatura Central de Tráfico.
+
+Los titulares de vehículos con una antigüedad de quince o más años desde su primera inscripción en el Registro de Vehículos, podrán solicitar su baja definitiva en las Jefaturas de Tráfico sin necesidad de aportar el último justificante de pago del Impuesto municipal de Vehículos de Tracción Mecánica, respetándose el derecho de los Ayuntamientos al cobro del mismo. La anotación de la baja en el Registro de Vehículos estará exenta del pago de tasa.

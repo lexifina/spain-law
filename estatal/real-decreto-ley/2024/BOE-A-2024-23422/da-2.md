@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Excepción de la obligación de encontrarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social.
+
+Con la finalidad de facilitar la gestión y obtención de estas ayudas, y por concurrir circunstancias debidamente justificadas derivada de su naturaleza, las personas peticionarias de las mismas estarán exceptuadas del requisito de hallarse al corriente en el cumplimiento de las obligaciones tributarias o frente a la Seguridad Social establecido en los artículos 13.2 y 34.5 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.

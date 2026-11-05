@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Documentación a presentar para el canje de los permisos de conducción expedidos por las Escuelas y Organismos militares y de la Dirección General de la Policía y de la Guardia Civil.
+
+No se obligará a la presentación de los documentos exigidos en las letras a) y b) del párrafo 1, del apartado l) del Anexo III «Documentación para obtener las distintas autorizaciones», en el momento en que esté operativa la interconexión de las bases de datos entre las Escuelas y Organismos Militares y de la Dirección General de la Policía y de la Guardia Civil con la Dirección General de Tráfico.

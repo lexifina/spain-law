@@ -1,0 +1,15 @@
+## Artículo cuarenta y cuatro. Revalorización y modificación de los valores de pensiones públicas para 1992.
+
+Uno. La revalorización de pensiones públicas para 1992 se ajustará a las reglas expresadas en el presente artículo, que deberán ser aplicadas por cada uno de los Organismos o Entidades responsables del pago y la administración de las mismas.
+
+Dos. Las pensiones abonadas por Clases Pasivas del Estado y por la Mutualidad Nacional de Previsión de la Administración Local experimentarán en 1992 un incremento medio del 5,7 por 100, respecto de las cuantías percibidas a 31 de diciembre de 1991, salvo las excepciones que se contienen en los siguientes artículos de este Capítulo y que les sean expresamente de aplicación.
+
+Tres. Las pensiones abonadas por el sistema de Seguridad Social, en su modalidad contributiva, experimentarán en 1992, respecto de las cuantías percibidas a 31 de diciembre de 1991 y salvo las excepciones contenidas en los artículos siguientes de este Capítulo y que les sean expresamente de aplicación, un incremento del 5,7 por 100.
+
+Cuatro. Las pensiones recibidas en el artículo 42 de este Título que vinieran percibiéndose a 31 de diciembre de 1991, se fijarán en 1992 en 30.000 pesetas íntegras mensuales, abonándose dos pagas extraordinarias del mismo importe, que se devengarán los meses de junio y noviembre.
+
+Cinco. De acuerdo con lo establecido en la Disposición Adicional Quinta de la Ley 74/1980, de 29 de diciembre, de Presupuestos Generales del Estado para 1981, y la Disposición Adicional Vigésima Primera de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, las pensiones de las Mutualidades integradas en el Fondo Especial de la Mutualidad General de Funcionarios Civiles del Estado, cuando hubieran sido causadas con posterioridad a 31 de diciembre de 1986 o se hubieran integrado en dicho fondo después de la indicada fecha, experimentarán el 1 de enero de 1992 una reducción respecto de los importes percibidos en 31 de diciembre de 1991 del 20 por 100 de la diferencia entre la cuantía correspondiente a 31 de diciembre de 1978 —o, tratándose del Montepío de Funcionarios de la Organización Sindical, a 31 de diciembre de 1977— y la que correspondería en 31 de diciembre de 1973.
+
+No experimentarán variación alguna en su importe las pensiones de las Mutualidades integradas que, en 31 de diciembre de 1991, hubieran ya alcanzado las cuantías correspondientes al 31 de diciembre de 1973.
+
+Seis. Las pensiones abonadas con cargo a los regímenes o sistemas de previsión enumerados en el artículo 37 de la Ley 4/1990, de 29 de junio, de Presupuestos general del Estado para 1990 y no referidas en los apartados anteriores de este artículo, experimentarán en 1992 la revalorización o modificación que, en su caso, proceda según su normativa propia, que se aplicará sobre las cuantías percibidas a 31 de diciembre de 1991, a salvo de las excepciones que se contienen en los siguientes artículos de este Capítulo y que les sean expresamente de aplicación.

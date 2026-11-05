@@ -1,0 +1,3 @@
+## Disposición adicional única. Normativa aplicable a los procedimientos.
+
+En lo no previsto en materia de procedimientos en esta Orden, se estará a lo dispuesto en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social y su normativa de desarrollo, y en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y su normativa de desarrollo, con carácter supletorio y en la medida en que no se oponga a lo dispuesto en los Tratados de la Unión Europea y de funcionamiento de la Unión Europea y el derecho derivado de los mismos.

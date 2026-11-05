@@ -1,0 +1,15 @@
+## Disposición transitoria segunda. Régimen fiscal de la investigación y explotación de hidrocarburos y de fomento de la minería.
+
+1. Las disposiciones establecidas en esta ley para las actividades de investigación y de explotación de hidrocarburos serán de aplicación a las entidades con permiso de investigación y concesiones de explotación que continúen rigiéndose por la Ley 21/1974, de 27 de junio, de régimen jurídico para la investigación y explotación de hidrocarburos.
+
+2. Los activos que a la entrada en vigor de la Ley 43/1995, de 27 de diciembre, se estuvieran amortizando de acuerdo con los coeficientes máximos de amortización establecidos en el apartado B.1 del artículo 47 del Real Decreto 2362/1976, de 30 de julio, por el que se aprobó el reglamento de la ley sobre investigación y explotación de hidrocarburos, de 27 de junio de 1974, podrán amortizarse aplicando los mencionados coeficientes, debiendo quedar totalmente amortizados en el plazo máximo de 20 años, a contar desde la citada fecha de entrada en vigor.
+
+3. Las bases imponibles negativas que estuviesen pendientes de compensación, conforme al régimen especial del capítulo X del título VIII de la Ley 43/1995, de 27 de diciembre, en el primer período impositivo iniciado a partir del 1 de enero de 1999, serán compensadas en la forma establecida en el artículo 106 de esta ley.
+
+4. Los sujetos pasivos que, con anterioridad al 31 de diciembre de 2000, tuvieran derecho a aplicar el "Régimen Fiscal de la Investigación y Explotación de Hidrocarburos" establecido en el capítulo X del título VIII de la Ley 43/1995, de 27 de diciembre, podrán optar por continuar aplicando dicho régimen, en su redacción vigente el 31 de diciembre de 2002, durante los períodos impositivos que concluyan hasta el 31 de diciembre de 2005.
+
+Los saldos pendientes de inversión, a la fecha de inicio del primer período impositivo que comience a partir del 1 de enero de 2003, o del 1 de enero de 2006, de haber optado por la aplicación del régimen conforme a lo dispuesto en el apartado anterior, de las dotaciones al factor de agotamiento realizadas al amparo de la Ley 21/1974, de 27 de junio, de régimen jurídico para la exploración, investigación y explotación de hidrocarburos, y del capítulo X del título VIII de la Ley 43/1995, de 27 de diciembre, se aplicarán en la forma establecida en el artículo 103 de esta ley.
+
+El plazo a que se refiere el artículo 103 de esta ley, no será de aplicación cuando las cantidades se destinen al abandono de campos o al desmantelamiento de plataformas marinas siempre que correspondan a explotaciones existentes a la entrada en vigor de la Ley 53/2002, de 30 de diciembre.
+
+5. Los saldos pendientes de inversión de las dotaciones al factor de agotamiento realizadas al amparo de la Ley 6/1977, de 4 de enero, de fomento de la minería, con anterioridad a la entrada en vigor de la Ley 43/1995, de 27 de diciembre, deberán invertirse en las condiciones y con los requisitos establecidos en su ley, a efectos de consolidar la deducción en su día practicada.

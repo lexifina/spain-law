@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Las referencias a las normas del Reglamento provisional de los Impuestos Especiales de Fabricación, aprobado por el Real Decreto 258/1993, de 19 de febrero, y del Real Decreto 1623/1992, de 29 de diciembre, por el que se desarrollan determinados preceptos de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, y se atribuyen competencias en materia de gestión, recaudación, comprobación e investigación, en relación con el Impuesto Especial sobre Determinados Medios de Transporte, efectuadas en los números 43 a 85 del anexo 4 del Real Decreto 803/1993, de 28 de mayo, por el que se modifican determinados procedimientos tributarios, deberán entenderse hechas a las normas del Reglamento que se aprueba por el presente Real Decreto.

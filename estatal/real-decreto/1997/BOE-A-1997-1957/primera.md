@@ -1,0 +1,3 @@
+## Disposición adicional primera. Artículo 23 del Reglamento de desarrollo de la Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones.
+
+El artículo 23 del Reglamento de desarrollo de la Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, en relación con el uso del dominio público radioeléctrico y los servicios de valor añadido que utilicen dicho dominio, aprobado por Real Decreto 844/1989, de 7 de julio, no será de aplicación a los servicios de telecomunicaciones por satélite que se presten al amparo de la Ley 37/1995, de 12 de diciembre, de Telecomunicaciones por Satélite.

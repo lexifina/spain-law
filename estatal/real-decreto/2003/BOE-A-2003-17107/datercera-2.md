@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Felicitaciones.
+
+Las felicitaciones que, por escrito, reciba el personal militar y el civil al servicio de las Fuerzas Armadas, por la realización de algún trabajo, estudio, hecho o servicio, no tendrán consideración de recompensas militares. No obstante, las felicitaciones por escrito que pudieran conceder Su Majestad El Rey o el Presidente del Gobierno, así como las que concedan el Ministro de Defensa, el Secretario de Estado de Defensa, el Jefe del Estado Mayor de la Defensa, el Subsecretario de Defensa y los Jefes de los Estados Mayores de los tres ejércitos, serán anotadas en la documentación militar o administrativa, y deberán ser tomadas como circunstancia señalada que se valorará para la concesión de cualquiera de las recompensas militares contempladas en este reglamento.
+
+Igualmente, serán anotadas en la documentación militar o administrativa de los interesados las felicitaciones por escrito que reciban de los mandos operativos permanentes y eventuales, así como de los mandos de grandes unidades o de agrupaciones terrestres, navales o aéreas de nivel equivalente.

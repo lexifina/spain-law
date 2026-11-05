@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta.
+
+La Junta de Seguridad que se crea en virtud de lo prevenido en el artículo 17 determinará el Estatuto, Reglamento, dotaciones, composición numérica, estructura y reclutamiento de los Cuerpos de Policía Autónoma, cuyos mandos se designarán entre Jefes y Oficiales de las Fuerzas Armadas y Cuerpos de Seguridad del Estado que, mientras presten servicio en estos Cuerpos pasarán a la situación administrativa que prevea la Ley de Policía de las Comunidades Autónomas, o a la que determinen los Ministerios de Defensa e Interior, quedando excluidos en esta situación del fuero castrense. Las licencias de armas corresponden en todo caso al Estado.

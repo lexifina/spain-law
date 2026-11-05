@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Asistencia jurídica.
+
+Como consecuencia de la asunción de la gestión del Régimen de Clases Pasivas del Estado por el Instituto Nacional de la Seguridad Social y la asunción de las funciones que a tal efecto se le atribuyen a la Dirección General de Ordenación de la Seguridad Social, resulta necesario que a esta Dirección General le preste asistencia jurídica el Servicio Jurídico de la Administración de la Seguridad Social.
+
+A tal efecto, la asistencia jurídica que deba prestarse a la Dirección General de Ordenación de la Seguridad Social por el Servicio Jurídico de la Administración de la Seguridad Social, comprenderá tanto el asesoramiento como la representación y defensa en juicio en materia de clases pasivas y otras prestaciones, así como la asistencia jurídica en aquellos asuntos que afecten a los intereses de las entidades gestoras y servicios comunes de la Seguridad Social en los términos que determine la Secretaría de Estado de la Seguridad Social y Pensiones.

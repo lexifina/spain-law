@@ -1,0 +1,1 @@
+Téngase en cuenta que las medidas contenidas en la presente Resolución se aplican hasta el día 14 de noviembre de 2020, según establece su apartado cuarto, por lo que debe entenderse que ha perdido su vigencia.

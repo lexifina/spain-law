@@ -1,0 +1,37 @@
+La Ley 20/2022, de 19 de octubre, de Memoria Democrática, en su título III, dedicado al movimiento memorialista, reconoce la labor de las asociaciones, fundaciones y organizaciones que hayan destacado en la defensa de la memoria democrática y la dignidad de las víctimas de la Guerra y la Dictadura, y contempla la creación del Consejo de la Memoria Democrática y del Registro Estatal de Entidades de Memoria Democrática.
+
+Efectivamente, el artículo 57 de la Ley 20/2022, de 19 de octubre, dispone la creación del Consejo de la Memoria Democrática, adscrito al Ministerio competente en materia de memoria democrática, como órgano colegiado consultivo y de participación de las entidades memorialistas españolas, remitiendo al desarrollo reglamentario la determinación de su composición y régimen de funcionamiento.
+
+Por su parte, el artículo 59 de la Ley 20/2022, de 19 de octubre, crea el Registro Estatal de Entidades de Memoria Democrática, estableciendo que reglamentariamente se determinará su organización, funcionamiento y procedimiento de inscripción. En el mismo podrán inscribirse las entidades memorialistas legalmente constituidas, entre cuyos objetivos y fines estatutarios figure la preservación y difusión de la memoria democrática, siempre que carezcan de ánimo de lucro y actúen y tengan su sede en el territorio español, así como las entidades memorialistas vinculadas al exilio y la resistencia fuera de España existentes en otros países.
+
+Teniendo en cuenta lo dispuesto en los preceptos anteriores, mediante este real decreto se regulan el Consejo de la Memoria Democrática y el Registro Estatal de Entidades de Memoria Democrática.
+
+En relación con su estructura, esta norma consta de una parte expositiva y una dispositiva, con tres capítulos, divididos en veintitrés artículos, tres disposiciones adicionales, una disposición derogatoria única, tres disposiciones finales y dos anexos.
+
+El capítulo I, con un solo artículo, determina su objeto, que consiste en la regulación de la composición y régimen de funcionamiento del Consejo de la Memoria Democrática, así como en la organización y funcionamiento del Registro Estatal de Entidades de Memoria Democrática.
+
+El capítulo II comprende los artículos 2 al 13 y contiene la regulación del Consejo de la Memoria Democrática. Se subdivide en tres secciones, relativas respectivamente a su naturaleza y funciones, a su composición, organización y a su régimen de funcionamiento. En la segunda de ellas se contempla la constitución de la Comisión a la que se refiere el artículo 57.5 de la Ley 20/2022, de 19 de octubre, cuya finalidad será contribuir al esclarecimiento de las violaciones de los derechos humanos durante la Guerra y la Dictadura.
+
+Por su parte, el capítulo III, conformado por los artículos 14 al 23, regula el Registro Estatal de Entidades de Memoria Democrática y, al igual que el anterior capítulo, se subdivide en tres secciones, relativas respectivamente a las disposiciones generales, a su funcionamiento y al procedimiento de inscripción registral.
+
+En cuanto a las disposiciones adicionales, la primera establece que el funcionamiento del Consejo y del Registro será atendido con los medios personales, materiales y técnicos asignados a la Secretaría de Estado de Memoria Democrática; la segunda fija el plazo para la constitución del Consejo, que será de cuatro meses a partir de la entrada en vigor del real decreto, así como la primera elección de las vocalías en representación de las entidades memorialistas y la tercera determina la inclusión de información en el Registro de Víctimas previsto en el artículo 9.1 de la Ley 20/2022, de 19 de octubre.
+
+La disposición derogatoria única procede a la derogación de todas aquellas disposiciones de igual o inferior rango cuyo contenido se oponga a lo dispuesto en este real decreto.
+
+Por último, la disposición final primera establece como título competencial habilitante el previsto en el artículo 149.1.1.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales. La disposición final segunda faculta a la persona titular del Ministerio competente en materia de memoria democrática para adoptar las disposiciones necesarias para el desarrollo de lo establecido en el real decreto. Y la disposición final tercera establece la entrada en vigor del real decreto, determinándose no obstante un período de carencia de un año, ampliable por otros seis meses, en relación con el requisito de inscripción en el Registro Estatal de Entidades de Memoria Democrática para participar en procedimientos de concesión de subvenciones destinadas a la recuperación, salvaguarda y difusión de la memoria democrática.
+
+La norma proyectada se adecúa a los principios de buena regulación conforme a los cuales deben actuar las Administraciones Públicas en el ejercicio de la potestad reglamentaria, según establece el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En particular, el real decreto atiende a la necesidad de regular el Consejo de la Memoria Democrática y el Registro Estatal de Entidades de Memoria Democrática, tal como mandata la Ley 20/2022, de 19 de octubre, resultando eficaz y ajustado al cumplimiento del objetivo señalado, sin afectar en forma alguna a los derechos y deberes de la ciudadanía. También se garantiza el cumplimiento del principio de seguridad jurídica, pues resulta coherente con el resto del ordenamiento jurídico, nacional, al adaptar su contenido a las previsiones de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, relativas al funcionamiento de los órganos colegiados de la Administración General del Estado.
+
+De igual modo, la norma cumple con el principio de transparencia, ya que identifica claramente su propósito, y la memoria del análisis de impacto normativo, accesible a la ciudadanía, ofrece una explicación completa de su contenido y tramitación. Asimismo, se han llevado a cabo los trámites de consulta y audiencia e información públicas, posibilitando que los potenciales destinatarios de la norma hayan podido participar activamente en su elaboración.
+
+En cuanto a los principios de necesidad, eficacia y proporcionalidad, la norma queda plenamente justificada por una razón de interés general, tal y como se ha expuesto anteriormente, explicándose de una manera clara y concisa los objetivos perseguidos y constituyendo este real decreto el instrumento más adecuado con la regulación de los aspectos imprescindibles.
+
+Finalmente, la norma también se adecúa al principio de eficiencia, ya que no impone cargas administrativas innecesarias, ni supone un incremento en el gasto público.
+
+El Real Decreto 273/2024, de 19 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Memoria Democrática, establece que corresponde al Ministerio de Política Territorial y Memoria Democrática la propuesta y ejecución de la política del Gobierno en materia de memoria histórica y democrática.
+
+En su virtud, a propuesta del Ministro de Política Territorial y Memoria Democrática, con la aprobación previa del Ministro para la Transformación Digital y de la Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 8 de abril de 2025,
+
+DISPONGO:

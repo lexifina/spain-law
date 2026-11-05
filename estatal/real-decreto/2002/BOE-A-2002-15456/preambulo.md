@@ -1,0 +1,15 @@
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, extendió la aplicación de su normativa a las relaciones de carácter administrativo o estatutario del personal civil al servicio de las Administraciones públicas, y por tanto al personal con relación de derecho administrativo o estatutario de la Administración General del Estado.
+
+El objeto de este Reglamento es regular las peculiaridades establecidas en la propia Ley de Prevención de Riesgos Laborales y en sus normas de desarrollo, en lo que se refiere al procedimiento para la corrección de los incumplimientos que la Inspección de Trabajo y Seguridad Social detecte en los centros de la Administración General del Estado.
+
+El artículo 45.1 de la Ley 31/1995, de 8 de noviembre, preceptúa que "en el ámbito de las relaciones del personal civil al servicio de las Administraciones públicas, las infracciones serán objeto de responsabilidad a través de la imposición, por resolución de la autoridad competente, de la realización de las medidas correctoras de los correspondientes incumplimientos, conforme al procedimiento que al efecto se establezca".
+
+De conformidad con dicho mandato legal, se dicta la presente disposición reglamentaria de la que se excluye a las entidades públicas empresariales -que se rigen por el derecho privado, salvo cuando ejercen potestades administrativas- respecto de los incumplimientos que afecten a su personal, dado que dicho personal queda sometido al derecho laboral común, de conformidad con lo dispuesto en los artículos 53 y 55 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.
+
+Asimismo, este Reglamento no será de aplicación a las obras de construcción en las que cualquier órgano de la Administración General del Estado actúe en la condición de promotor conforme al Real Decreto 1627/1997, de 24 de octubre, por el que se establecen disposiciones mínimas de seguridad y salud en las obras de construcción, por cuanto que en estos casos no está presente la relación jurídica existente entre aquélla y el personal civil dependiente de la misma, sino que la Administración actúa como una entidad empresarial común.
+
+De otro lado, si bien este Reglamento se refiere al ámbito de la Administración General del Estado, en relación con la actuación en materia de prevención de riesgos laborales con respecto al personal civil de las restantes Administraciones públicas se incluye una disposición adicional para la aplicación del presente Reglamento en dichos ámbitos, si bien las referencias a los órganos del gobierno de la Administración General del Estado se entenderán referidas a los correspondientes de dichas Administraciones.
+
+En virtud del citado mandato legal, a propuesta del Ministro de Trabajo y Asuntos Sociales, previo informe de la Comisión Nacional de Seguridad y Salud en el Trabajo y de la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 19 de julio de 2002,
+
+## D I S P O N G O:

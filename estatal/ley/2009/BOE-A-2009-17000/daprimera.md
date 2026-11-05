@@ -1,0 +1,3 @@
+## Disposición adicional primera. Transformación de Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario en Instituciones de Inversión Colectiva Inmobiliaria y viceversa.
+
+Las Instituciones de Inversión Colectiva Inmobiliaria podrán transformarse en Sociedades Anónimas Cotizadas de Inversión en el Mercado Inmobiliario, reguladas en esta Ley, y éstas en aquellas, mediante el cumplimiento de la normativa prevista en el Texto Refundido de la Ley de Sociedades Anónimas y en el apartado 3 del artículo 25 de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, y sus normas de desarrollo.

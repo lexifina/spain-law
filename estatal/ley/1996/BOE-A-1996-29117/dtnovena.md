@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Tramitación de ciertos expedientes de jubilación.
+
+La tramitación de los expedientes de jubilación de los funcionarios a que se refiere el párrafo segundo de la disposición adicional séptima y que hayan de cumplir los sesenta y cinco años de edad dentro de los tres meses siguientes a la entrada en vigor de esta Ley se suspenderá, a fin de que dentro de los dos primeros meses de aquel plazo los interesados puedan ejercitar la opción prevista en el mencionado párrafo. Se entenderá aceptada dicha opción por la Administración pública correspondiente si ésta no notificara resolución expresa en contrario al interesado antes de los quince días precedentes a la conclusión del reiterado plazo de tres meses.

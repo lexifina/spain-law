@@ -1,0 +1,7 @@
+## Trigésimo cuarto. Régimen transitorio.
+
+1. Los expedientes de contratación iniciados antes de la entrada en vigor de esta Orden se regirán por la Orden de delegación de competencias de la Orden TMS/1075/2018, de 10 de octubre, por la que se delegan y se aprueban las delegaciones del ejercicio de competencias en los órganos administrativos del Ministerio de Trabajo, Migraciones y Seguridad Social y sus organismos públicos y la Orden ISM/132/2020, de 10 de febrero, por la que se ratifican y se aprueban delegaciones del ejercicio de competencias en determinados órganos administrativos del Ministerio de Inclusión, Seguridad Social y Migraciones. A estos efectos se entenderá que los expedientes de contratación han sido iniciados si se hubiera publicado la correspondiente convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos negociados sin publicidad, se tomará en cuenta la fecha de aprobación de los pliegos para determinar el momento de iniciación.
+
+2. Los contratos administrativos adjudicados con anterioridad a la entrada en vigor de la presente Orden se regirán, en cuanto a sus efectos, cumplimiento y extinción, incluida su modificación, por las órdenes citadas en el apartado anterior.
+
+3. La presente orden será de aplicación a los encargos que se realicen con posterioridad a su entrada en vigor. Deberá entenderse que un encargo se ha realizado cuando haya sido objeto de la correspondiente formalización documental.

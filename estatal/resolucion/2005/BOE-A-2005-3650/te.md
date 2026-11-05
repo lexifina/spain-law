@@ -1,0 +1,5 @@
+## Tercero.
+
+A los efectos de proceder de manera ágil y eficaz al examen de las peticiones, los interesados dispondrán de una herramienta informática, a la que podrán acceder en la página web de la Dirección General de Universidades www.univ.mecd.esy en la de la Agencia Nacional de Evaluación de la Calidad y Acreditación www.aneca.es, para la impresión y/o cumplimentación de la solicitud (Anexo I) y del currículum vitae (Anexo II).
+
+Una vez utilizados los medios electrónicos para la cumplimentación de los Anexos I y II, se deberá proceder a su impresión. Dicha documentación, en soporte papel, junto con la documentación acreditativa de la titulación exigida y de todos los méritos que componen el historial académico del interesado, será dirigida a la Dirección General de Universidades en la forma establecida en el artículo 38.4 de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común. Este requisito será imprescindible para considerar la solicitud presentada por el interesado.

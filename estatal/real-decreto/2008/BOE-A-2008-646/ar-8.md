@@ -1,0 +1,13 @@
+## Artículo 8. Prospectiva del título en el sector o sectores.
+
+Las Administraciones educativas tendrán en cuenta, al desarrollar el currículo correspondiente, las siguientes consideraciones:
+
+a) Los establecimientos de alojamiento turístico, que en un principio daban respuesta a un tipo de clientela vacacional tradicional, han ido evolucionando, añadiendo una gama más amplia de oferta al producto base. Este hecho ha ido ligado a la incorporación de sistemas de gestión más modernos, así como a la introducción nuevos modelos de alojamiento. Los consumidores, por su parte, han ido adquiriendo una cultura de viaje, tanto por ocio como de trabajo, que ha producido el incremento de la frecuencia de los desplazamientos, destinos y tipos de alojamiento. La facilidad para comparar los productos de alojamiento existentes en cada momento en el sector hace que el consumidor sea cada vez más exigente y busque servicios más novedosos y personalizados.
+
+b) Las empresas españolas han evolucionado con rapidez, anticipándose incluso a cambios en el sector, por lo que resulta imprescindible contar, cada vez más, con profesionales mejor preparados que sean capaces de adaptarse, prever y anticiparse a la evolución cambiante del mercado de la gestión de los distintos establecimientos turísticos y afines.
+
+c) Diferentes informes oficiales (procedentes de la Organización Internacional del Trabajo, Organización Mundial del Turismo, entre otros), apuntan a una doble tendencia en el turismo y concretamente en el sector del alojamiento: la introducción en la gestión de las nuevas tecnologías, así como la internacionalización de la industria hotelera. La consolidación y expansión del euro como moneda de intercambio, la liberación del sector del transporte aéreo, con la aparición de compañías de bajo coste, así como la creciente integración de los sectores turísticos, comercio y ocio, se han mostrado como factores de influencia decisivos en los cambios que se mencionan.
+
+d) Otro punto crucial es la dificultad que tiene el sector para atraer y conservar a trabajadores cualificados y la mejora de la formación profesional continua de éstos. Todo ello es necesario para estabilizar la fuerza del trabajo en el sector y, al tiempo, incrementar la productividad de las empresas y la calidad de los servicios.
+
+e) Lo anterior está íntimamente ligado a la implantación de nuevas formas de gestión del alojamiento, desarrolladas en paralelo a las nuevas tecnologías. La tendencia general de éstas se mueve hacia un aumento de la responsabilidad del trabajador, la formación polivalente, el trabajo en equipo y la coordinación entre los miembros del mismo.

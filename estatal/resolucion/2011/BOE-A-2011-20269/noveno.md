@@ -1,0 +1,3 @@
+## Noveno. Aplicabilidad y disposición derogatoria.
+
+Lo previsto en esta Resolución será de aplicación a aquellas diligencias de embargo de cuentas a la vista que genere la Agencia Estatal de Administración Tributaria a partir del día 1 de junio de 2012, quedando sin efecto desde esa fecha la Resolución de 10 de julio de 2009, de la Dirección General de la Agencia Estatal de Administración Tributaria, por la que se establece el procedimiento para efectuar por medios telemáticos el embargo de dinero en cuentas abiertas en entidades de depósito para diligencias de cuantía igual o inferior a 20.000 euros.

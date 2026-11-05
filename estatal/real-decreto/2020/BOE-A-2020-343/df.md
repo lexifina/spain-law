@@ -1,0 +1,3 @@
+## Disposición final primera. Extinción de las enseñanzas conducentes al título de Técnico Deportivo Superior en Esquí de Montaña.
+
+En el caso del Técnico Deportivo superior en Esquí de Montaña regulado por el Real Decreto 318/2000, de 3 de marzo, las Administraciones educativas, en el ámbito de sus competencias, regularan el procedimiento de extinción y las fechas de las convocatorias, a las que tengan derecho los alumnos que en el momento de entrada en vigor de esta norma estén cursando las mencionadas enseñanzas de Técnico Deportivo superior en Esquí de Montaña. Este proceso debe haber finalizado antes del comienzo del tercer curso académico posterior al establecido en la Disposición final tercera.

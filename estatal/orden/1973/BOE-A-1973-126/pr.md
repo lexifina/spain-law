@@ -1,0 +1,9 @@
+Ilustrísimos señores:
+
+El artículo 191 de la Ley de la Seguridad Social, de 21 de abril de 1966, establece, para las Empresas que hayan de cubrir puestos de trabajo con riesgo de enfermedad profesional, la obligación de practicar un reconocimiento médico previo a la admisión del trabajador, así como los reconocimientos médicos periódicos que reglamentariamente se establezcan por el Ministerio de Trabajo y el artículo 192 de la citada Ley determina la responsabilidad por falta de cumplimiento de estas obligaciones.
+
+Por su parte, el Decreto 792/1961, de 13 de abril, contiene análogos preceptos en sus artículos 20 y 21. El Reglamento para la aplicación de este Decreto, aprobado por Orden de 9 de mayo de 1962, modificado posteriormente por las de 8 de abril de 1964 y 29 de septiembre de 1966, regula las obligaciones y responsabilidades de las Empresas en esta materia, y la Orden de 12 de enero de 1963 establece las normas reglamentarias de carácter médico por las que se han de regir los reconocimientos, diagnóstico y calificación de las enfermedades profesionales; normas que fueron completadas por Orden de 15 de diciembre de 1965. Preceptos todos éstos que deben entenderse vigentes en lo relativo a reconocimientos médicos a efectos de enfermedades profesionales.
+
+No obstante, las peculiares exigencias que se derivan de la necesaria protección que se ha prestar a los trabajadores menores de veintiún años, que realizan su actividad laboral en trabajos subterráneos en minas y canteras, hace necesario establecer un tratamiento mínimo homogéneo para estos trabajadores, sin perjuicio de la aplicación de las normas específicas previstas en cada actividad concreta que pueda producir riesgo de enfermedad profesional.
+
+En su virtud, previo informe de la Organización Sindical, a propuesta de las Direcciones Generales de Trabajo y de la Seguridad Social, este Ministerio ha tenido a bien disponer:

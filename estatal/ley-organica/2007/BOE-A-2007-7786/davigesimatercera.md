@@ -1,0 +1,3 @@
+## Disposición adicional vigésima tercera. Jubilación voluntaria anticipada.
+
+El Gobierno, las Comunidades Autónomas y las Universidades promoverán, en el marco del estudio que el Gobierno realice y envíe al Congreso de los Diputados sobre el acceso a la jubilación voluntaria anticipada de determinados colectivos, el establecimiento de acuerdos que faciliten la reducción paulatina de actividad, una vez alcanzados los sesenta años, y la jubilación voluntaria anticipada del personal de las universidades. El Estatuto del Personal Docente e Investigador previsto en la disposición adicional sexta desarrollará la jubilación voluntaria.

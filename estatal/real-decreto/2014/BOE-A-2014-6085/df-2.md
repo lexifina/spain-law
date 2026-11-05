@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultad de modificación.
+
+Se faculta a las personas titulares de los Ministerios de Agricultura, Alimentación y Medio Ambiente, y de Sanidad, Servicios Sociales e Igualdad, para modificar, en el ámbito de sus respectivas atribuciones, el contenido de los anexos para su adaptación a las modificaciones que introduzca la normativa comunitaria.

@@ -1,0 +1,5 @@
+## Disposición adicional octava. Profesionales en régimen societario.
+
+De conformidad con lo establecido en la exclusión del apartado 3 del artículo 11 del Estatuto del Trabajo Autónomo, las especificaciones del contrato de trabajador autónomo económicamente dependiente contenidas en el capítulo primero de este real decreto no se entenderán aplicables a la relación contractual establecida entre profesionales que ejerzan su profesión conjuntamente con otros en régimen societario o bajo cualquier otra forma jurídica admitida en derecho.
+
+La citada exclusión se entiende sin perjuicio del contrato de trabajador autónomo económicamente dependiente que pueda celebrar el profesional con un cliente distinto de la sociedad o persona jurídica en la que esté inserto. En este supuesto, para el cálculo del porcentaje del 75 por ciento que dispone el párrafo segundo del apartado 1 del artículo 2 de este real decreto, se incluirán en el cómputo de los ingresos totales, los que el profesional perciba procedentes de la sociedad o persona jurídica de la que forme parte.

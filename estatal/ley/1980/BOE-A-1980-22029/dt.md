@@ -1,0 +1,3 @@
+## DISPOSICIÓN TRANSITORIA
+
+El importe del aumento del gravamen en dos pesetas litro de carburante, establecido por el artículo octavo del Real Decreto-ley once/mil novecientos setenta y nueve, de veinte de julio, en el Impuesto Estatal sobre el Lujo que grava la venta de gasolina carburante, traducido en una correlativa participación de igual cuantía a dicho aumento, en favor de los Ayuntamientos, que en las islas Canarias se entiende referido al Arbitrio Insular sobre el Lujo, establecido por el artículo veinticuatro de la Ley treinta/mil novecientos setenta y dos, de veintidós de julio, se distribuirá directamente por la Junta de Canarias a los Ayuntamientos Canarios, de acuerdo con los criterios que se establezcan en el artículo cuarto, tres, anterior.

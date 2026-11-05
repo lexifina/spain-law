@@ -1,0 +1,9 @@
+Por Orden EHA/1198/2010, de 4 de mayo, se reguló el Registro Electrónico del Ministerio de Economía y Hacienda, adaptándolo a lo dispuesto en el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos. Por otra parte, la Orden TAP/1955/2011, de 5 de julio, creó y reguló el registro electrónico del Ministerio de Política Territorial y Administración Pública, a la vez que modificó la Orden PRE/3523/2009, de 29 de diciembre, reguladora del registro electrónico común.
+
+Suprimidos ambos Ministerios por la disposición final primera del Real Decreto 1823/2011, de 21 de diciembre, por el que se reestructuran los departamentos ministeriales, el Registro electrónico del Ministerio de Hacienda y Administraciones Públicas ha seguido operando de forma fraccionada y rigiéndose por distintas normativas, según que los trámites u operaciones a registrar pertenecieran a órganos procedentes de uno u otro Ministerio.
+
+Si por una parte resulta conveniente unificar los criterios de regulación de dicho registro, evitando con ello posibles confusiones a los ciudadanos, por otra resulta preciso dar cumplimiento a la literalidad del artículo 26 del Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, que apunta a la existencia de un único registro electrónico departamental.
+
+Independientemente de lo anterior, es preciso garantizar que la adaptación del Registro electrónico del Ministerio de Hacienda y Administraciones Públicas no comporte costes ni suponga retrasos o distorsiones en la continuidad de la gestión, a cuyos efectos se adoptan las medidas oportunas.
+
+En consecuencia, dispongo:

@@ -1,0 +1,5 @@
+## Artículo 86.
+
+Las calificaciones provisionales caducadas o anuladas podrán ser rehabilitadas por el Instituto Nacional de la Vivienda a favor de los acreedores del promotor por préstamos hipotecarios concedidos para la financiación de las vivienda, cuando se les hayan adjudicado en pago de sus créditos en cualquier procedimiento judicial o en el extrajudicial regulado en el artículo 129 de la Ley Hipotecaria y siempre que las obras hubiesen sido iniciadas dentro del plazo concedido en la calificación provisional y estén ejecutadas en el momento de presentar la solicitud de rehabilitación al menos en un 10 por 100 del importe del presupuesto de ejecución material.
+
+Los acreedores adjudicatarios habrán de solicitar la rehabilitación en el plazo de tres meses desde que sea firme la adjudicación, expresando el plazo que consideren necesario para la terminación de las obras, las condiciones de la construcción y las modificaciones que pretendieren introducir en el proyecto aprobado. A esta solicitud se acompañará, según los casos, testimonio del auto o copia autorizada de la escritura notarial de adjudicación.

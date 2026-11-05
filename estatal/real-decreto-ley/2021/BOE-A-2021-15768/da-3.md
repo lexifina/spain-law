@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Vinculación de los beneficios en materia de cotización al desarrollo de acciones formativas en el ámbito del Mecanismo de Sostenibilidad en el Empleo.
+
+1. En el ámbito del futuro Mecanismo de Sostenibilidad en el Empleo se preverá una vinculación directa de los beneficios en materia de cotización al desarrollo efectivo, por parte de las empresas, de acciones formativas a favor de las personas trabajadoras afectadas por la reducción de jornada derivada de su aplicación, en los términos que determinen sus normas reguladoras, y se podrá valorar el conjunto de la oferta formativa.
+
+2. Los expedientes de regulación temporal de empleo a los que se refieren los artículos 1 y 2, que, conforme a la futura previsión legal, transiten al Mecanismo de Sostenibilidad del Empleo, deberán dirigir las acciones formativas a las que hace referencia el apartado anterior a fomentar la transición profesional necesaria para afrontar los cambios económicos o tecnológicos (ecológicos, energéticos, de transición digital) que requieran una revisión de su organización.

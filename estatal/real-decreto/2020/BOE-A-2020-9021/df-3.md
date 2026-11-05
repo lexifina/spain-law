@@ -1,0 +1,25 @@
+## Disposición final tercera. Modificación del Real Decreto 277/2016, de 24 de junio, por el que se regulan las organizaciones profesionales en el sector de los productos de la pesca y de la acuicultura.
+
+El artículo 16 queda redactado como sigue:
+
+«Artículo 16. Disposiciones sobre el mecanismo de almacenamiento.
+
+1. Las OPP y AOP podrán utilizar el mecanismo de almacenamiento previsto en el artículo 30 de la OCM. No obstante, deberán adoptar las medidas necesarias para evitar su uso de manera habitual.
+
+2. Mediante resolución del Secretario General de Pesca, se publicará en el “Boletín Oficial del Estado” en el cuarto trimestre de cada año y para la campaña siguiente, los precios de activación previstos en el artículo 31 del Reglamento de la OCM y los costes técnicos y financieros previstos en el artículo 67 del Reglamento (UE) n.º 508/2014 del Parlamento Europeo y del Consejo, de 15 de mayo de 2014.
+
+3. Los almacenamientos se tomarán en cuenta siguiendo las campañas establecidas en el artículo 14.4 siendo la cuantía máxima por almacenamiento la establecida en la resolución correspondiente para dos meses de almacenamiento.
+
+Durante el primer mes, entre 5 y 20 días de almacenamiento se tomará el 75 % del valor de los costes técnicos y financieros fijados en la resolución anual de la Secretaría General de Pesca.
+
+Cuando los almacenamientos superen los 20 días de duración desde su entrada al almacén, se tomará el 100 % del valor de los costes técnicos y financieros para un mes hasta el día 30 de almacenamiento.
+
+Adicionalmente al importe de la ayuda fijada para un mes, entre los días 31 y 60 de almacenamiento, y con el límite de dos meses indicado en el apartado anterior, la ayuda se calculará diariamente, dividendo el importe para un mes de almacenamiento de los importes fijados en la resolución anual de la Secretaría General de Pesca entre 30 días.
+
+4. En las convocatorias de ayudas correspondientes, tendrá prioridad la estabilización en tierra de los productos que se desembarquen en fresco frente a los productos estabilizados a bordo.
+
+5. En el caso de que el producto puesto a la venta en vivo, fresco o refrigerado por un miembro de una OPP no supere el valor establecido en el precio de activación correspondiente y decida utilizar el mecanismo de almacenamiento, la OPP deberá comprar a sus asociados el producto al precio de activación que se establezca según el apartado 3, cumplimentar una nota de venta e indicar en la misma que su destino es el almacenamiento, tal y como dispone el artículo 7 del Real Decreto 418/2015, de 29 mayo.
+
+6. En el caso de que el producto puesto a la venta por un miembro de una OPP que se haya estabilizado a bordo o provenga de la producción acuícola, no supere el valor establecido en el precio de activación correspondiente y decida utilizar el mecanismo de almacenamiento, la OPP deberá efectuar una declaración de recogida o documento con información similar para las producciones acuícolas, hasta que se reintroduzca al mercado, momento en que se deberá confeccionar la nota de venta correspondiente o documento de trazabilidad, según lo dispuesto los artículos 7, 8 y 9 del Real Decreto 418/2015, de 29 de mayo.
+
+7. En el caso de las OPP y AOP conjuntas de pesca y acuicultura, se aplicarán los apartados 5 o 6 según el origen de las producciones, ya procedentes de la pesca extractiva o de la acuicultura.»

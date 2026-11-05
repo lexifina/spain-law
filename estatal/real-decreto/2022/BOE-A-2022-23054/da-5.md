@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Titularidad o propiedad de la superficie agraria de la explotación.
+
+La información contenida en el SIEX no incluye la correspondiente a la titularidad o propiedad de las delimitaciones gráficas del cultivo que conforman la superficie agraria de la explotación, por lo que no puede utilizarse a dichos efectos ni tampoco para la delimitación de linderos legalmente reconocidos y otras propiedades del terreno que resulten competencia de los Registros de la Propiedad, de la Dirección General del Catastro o de los órganos competentes en materia del catastro inmobiliario en las comunidades autónomas de Navarra y del País Vasco.

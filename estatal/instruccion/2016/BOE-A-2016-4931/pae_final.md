@@ -1,0 +1,1 @@
+Dado el carácter general de esta Instrucción, se procederá a su publicación en el «Boletín Oficial del Estado», de conformidad con lo dispuesto en el artículo 18.6 de la Ley Orgánica del Régimen Electoral General.

@@ -1,0 +1,9 @@
+La Resolución 4B0/38020/2006, de 21 de febrero, (BOE n.º 57, de 8 de marzo), modificada por la Resolución 4B0/38035/2006, de 12 de marzo, regula actualmente la delegación de competencias en el ámbito del Instituto Social de las Fuerzas Armadas, Organismo Autónomo (ISFAS).
+
+Desde entonces, el tratamiento de la prestación farmacéutica ha experimentado una importante evolución dado que, en aplicación de lo establecido en el texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, corresponde a los servicios de farmacia de los hospitales la dispensación de los medicamentos de uso humano en los que el Ministerio de Sanidad, Consumo y Bienestar Social acuerde establecer reservas singulares, limitando su dispensación, sin necesidad de visado, a los pacientes no hospitalizados. A raíz de ello, determinadas clases de medicamentos han pasado de ser administrados en las oficinas de farmacia, a ser dispensados a través de los servicios de farmacia de los hospitales. En consecuencia, procede dar cabida a dicho procedimiento en la actual delegación de competencias.
+
+Finalmente, la aprobación de una nueva organización territorial del ISFAS mediante la Instrucción AG-24/2018, de 28 de diciembre, exige acomodar las competencias delegadas a esa nueva estructura.
+
+Por todo ello, y en aras de una mayor claridad, se considera conveniente dictar una nueva Resolución que recoja las modificaciones señaladas, y no una mera rectificación de la anterior.
+
+En su virtud, de conformidad con lo dispuesto en el artículo 18 del Reglamento General de la Seguridad Social de las Fuerzas Armadas, aprobado por Real Decreto 1726/2007, de 21 de diciembre, y teniendo en cuenta lo previsto en el artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, dispongo:

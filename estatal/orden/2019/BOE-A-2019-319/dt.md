@@ -1,0 +1,3 @@
+## Disposición transitoria única. Talla para ingreso en los diferentes Cuerpos y Escalas.
+
+A los que a fecha 31 de diciembre del año de la entrada en vigor de esta orden ministerial, se hayan integrado o adscrito a las diferentes escalas de las Fuerzas Armadas o se encuentren cursando los correspondientes planes de estudios en los centros docentes militares de formación para la integración o adscripción a las mismas, en los procesos de selección para el ingreso mediante la forma por promoción no les será de aplicación lo regulado en el apartado A. 1 del cuadro médico de exclusiones que se aprueba en esta orden ministerial.

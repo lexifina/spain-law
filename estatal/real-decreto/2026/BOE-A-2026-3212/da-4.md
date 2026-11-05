@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Liquidaciones de energía a partir de la aplicación de perfiles de consumo para aquellos puntos de suministro que no dispongan de registro de consumo horario en sus equipos de medida.
+
+Para aquellos puntos de suministro que no dispongan de registro de consumo horario en sus equipos de medida, la Dirección General de Política Energética y Minas determinará, a propuesta del operador del sistema, y previo informe de la Comisión Nacional de los Mercados y la Competencia y a efectos de liquidación de la energía, el perfil de consumo y el método de cálculo aplicables a cada grupo de consumidores, en función del peaje de acceso y segmento tarifario de cargos contratado y los equipos de medida y control instalados.

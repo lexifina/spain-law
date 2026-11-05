@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Adaptación de reglamentos judiciales.
+
+En el plazo de un año desde la entrada en vigor de esta ley orgánica, el Consejo General del Poder Judicial deberá adaptar el Acuerdo de 26 de julio de 2000, del Pleno del Consejo General del Poder Judicial, por el que se aprueba el Reglamento 1/2000, y el Reglamento de 25 de febrero de 2010, que regula la provisión de plazas de nombramiento discrecional en los órganos judiciales, a lo dispuesto en esta ley orgánica, garantizando el cumplimiento del principio de presencia equilibrada de mujeres y hombres en los nombramientos judiciales de carácter discrecional que permitan alcanzar al menos un cuarenta por ciento de mujeres en dichos órganos.

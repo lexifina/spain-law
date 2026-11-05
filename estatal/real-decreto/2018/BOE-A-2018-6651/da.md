@@ -1,0 +1,3 @@
+## Disposición adicional primera. Informe sobre la aplicación del real decreto y revisión de las medidas propuestas.
+
+Antes del 1 de enero de 2023, el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente elaborará un informe en el que evalúe la eficacia de las medidas contempladas en este real decreto para reducir el consumo de bolsas de plástico, cambiar el comportamiento de los consumidores y fomentar la prevención de residuos. Si la evaluación muestra que las medidas adoptadas no son eficaces, el Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente examinará otras posibles vías para reducir el consumo de bolsas de plástico y presentará, en su caso, una nueva propuesta normativa.

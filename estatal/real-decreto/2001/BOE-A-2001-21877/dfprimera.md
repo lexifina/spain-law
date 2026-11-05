@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación para dictar circulares.
+
+Se habilita a la Comisión Nacional de Energía y a la Comisión del Mercado de las Telecomunicaciones, según corresponda por razón de la materia, para determinar, mediante circular, que deberá publicarse en el «Boletín Oficial del Estado», el contenido mínimo a que deberá ajustarse la solicitud de autorización a la que se refiere el artículo 5 del Reglamento que se aprueba por el presente Real Decreto, así como la documentación necesaria que deba acompañarse a la misma sin perjuicio de que, en cada caso, pueda requerirse la documentación complementaria que se considere necesaria.

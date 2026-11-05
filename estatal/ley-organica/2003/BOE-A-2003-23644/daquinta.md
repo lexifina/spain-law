@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Haberes reguladores a efectos pasivos.
+
+Los haberes reguladores a efectos pasivos de los cuerpos y escalas de nueva creación establecidos en esta ley, tanto para la determinación de las pensiones de clases pasivas a que haya lugar, como para el cálculo de las cuotas de derechos pasivos y del mutualismo administrativo, serán sin efectos retroactivos y con independencia de la forma de acceso a dichos cuerpos los que correspondan a la titulación exigida para el ingreso en los mismos, según lo dispuesto en el artículo 30 del texto refundido de la Ley de Clases Pasivas del Estado y disposiciones concordantes.

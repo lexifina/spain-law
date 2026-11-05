@@ -1,0 +1,1 @@
+## Sección 6.ª De las actuaciones a realizar cuando se conozcan hechos que puedan ser constitutivos de infracción administrativa, o dar lugar a responsabilidades contables o penales, o a remisiones de información a otros órganos, entidades o administraciones públicas

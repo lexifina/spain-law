@@ -1,0 +1,3 @@
+## Disposición adicional única. Régimen jurídico aplicable.
+
+Estas subvenciones se regularán, en todo caso, además de por lo particularmente dispuesto en este real decreto, por lo previsto en la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y su Reglamento de desarrollo, salvo en lo que afecte a los principios de publicidad y concurrencia, así como, supletoriamente, por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y por lo previsto en las demás disposiciones legales, reglamentarias y convencionales que resulten de aplicación, así como por las resoluciones que se aprueben.

@@ -1,0 +1,3 @@
+## Sexto.-Disposición derogatoria.
+
+Quedan derogadas las Órdenes de 3 de marzo de 1983 («Boletín Oficial del Estado» número 58, de 9 de marzo); 30 de septiembre de 1985 («Boletín Oficial del Estado» número 246, de 14 de octubre); 25 de febrero de 1986 («Boletín Oficial del Estado» número 59, de 10 de marzo); 10 de marzo de 1989 («Boletín Oficial del Estado» número 61, de 13 de marzo); 10 de marzo de 1989 («Boletín Oficial del Estado» número 63, de 15 de marzo); 15 de junio de 1989 («Boletín Oficial del Estado» número 146, de 20 de junio); 30 de julio de 1992 («Boletín Oficial del Estado» número 192, de 11 de agosto); 30 de julio de 1992 («Boletín Oficial del Estado» número 223, de 16 de septiembre).

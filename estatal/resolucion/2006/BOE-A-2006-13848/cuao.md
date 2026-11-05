@@ -1,0 +1,7 @@
+## Cuarto. Requerimientos técnicos necesarios para el acceso al Registro Telemático de la Agencia Española de Protección de Datos.
+
+1. El acceso de los ciudadanos interesados en comunicarse con el Registro Telemático se realizará a través de Internet mediante el correspondiente navegador web. En la dirección electrónica de acceso al Registro Telemático estará disponible la relación de los sistemas operativos y navegadores que puedan ser utilizados por los interesados.
+
+2. Cuando así lo prevea la norma de aprobación de los modelos utilizados para el envío y recepción de solicitudes, escritos y comunicaciones telemáticas relacionadas con los trámites y procedimientos incluidos en el ámbito del Registro Telemático, se permitirá el acceso a través de tecnologías que permitan la comunicación directa entre éste y las aplicaciones desarrolladas por los interesados o por la propia Agencia. En estos casos, la norma de aprobación de los modelos y comunicaciones telemáticas deberá especificar los formatos de intercambio de datos, y las especificaciones técnicas necesarias para el envío y recepción de los documentos.
+
+3. De acuerdo con el principio de neutralidad tecnológica, los requisitos técnicos necesarios para el acceso al Registro Telemático de la Agencia se adecuarán en lo posible a los estándares y directrices que favorezcan su interoperabilidad y su compatibilidad con el mayor número de herramientas informáticas posible, como navegadores y sistemas operativos.

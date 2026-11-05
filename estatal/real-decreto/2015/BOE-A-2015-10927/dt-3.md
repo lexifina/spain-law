@@ -1,0 +1,11 @@
+## Disposición transitoria tercera. Adecuación de las instalaciones que realicen autoconsumo de energía eléctrica a la entrada en vigor del real decreto.
+
+1. Sin perjuicio de lo establecido en el apartado 4, aquellos consumidores de energía eléctrica que a la entrada en vigor del presente real decreto estuvieran consumiendo energía eléctrica en alguna de las formas incluidas en los tipo 1 y 2 de autoconsumo, dispondrán de un plazo de seis meses para adaptarse al presente real decreto y comunicar su inscripción en el registro administrativo de autoconsumo de energía eléctrica en la modalidad que corresponda.
+
+2. Sin perjuicio de lo establecido en el apartado 4, aquellos productores que a la entrada en vigor del presente real decreto estén generando energía en la modalidad de autoconsumo tipo 2, dispondrán de un plazo de seis meses para adaptarse a lo previsto en el presente real decreto.
+
+3. Las instalaciones que a la entrada en vigor del presente real decreto cuenten con contrato de acceso en vigor, deberán adecuar sus contratos de acceso a lo previsto en los artículos 8 y 9 y estarán exentas de realizar una nueva solicitud de conexión y acceso a la red de acuerdo con lo establecido en el artículo 7.
+
+4. Los titulares de las instalaciones de cogeneración de energía eléctrica y su consumidor asociado que a la entrada en vigor del presente real decreto dispongan de autorización administrativa de construcción dispondrán de un plazo de nueve meses desde la entrada en vigor del presente real decreto para adecuar su configuración de medida a lo establecido en el apartado 4 o 5 de la disposición adicional primera o de cuatro meses para solicitar, en su caso, la autorización para la aplicación de configuración singular de medida indicada en el apartado 6 de dicha disposición.
+
+Asimismo, aquellas instalaciones que hubieran obtenido una autorización de configuración singular de medida al amparo de la disposición adicional primera del Real Decreto 1565/2010, de 19 de noviembre, o de la disposición adicional primera del Reglamento unificado de puntos de medida del sistema eléctrico aprobado por el Real Decreto 1110/2007, de 24 de agosto, se entenderá que dicha configuración cuenta con la autorización prevista en el referido apartado 6 de la disposición adicional primera.

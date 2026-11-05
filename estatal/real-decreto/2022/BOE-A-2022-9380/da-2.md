@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Cláusula de reconocimiento mutuo.
+
+Las mercancías comercializadas legalmente en otro Estado miembro de la Unión Europea o en Turquía, u originarias de un Estado de la Asociación Europea de Libre Comercio signatario del Acuerdo sobre el Espacio Económico Europeo y comercializadas legalmente en él, se consideran conformes con el presente real decreto. La aplicación de este real decreto está sujeta al Reglamento (UE) 2019/515 del Parlamento Europeo y del Consejo, de 19 de marzo de 2019, relativo al reconocimiento mutuo de mercancías comercializadas legalmente en otro Estado miembro y por el que se deroga el Reglamento (CE) n.º 764/2008.

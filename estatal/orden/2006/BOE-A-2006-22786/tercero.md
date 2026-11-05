@@ -1,0 +1,3 @@
+## Tercero.
+
+La presente Orden Ministerial se aprueba en aplicación de lo dispuesto en la disposición final primera del Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes. Lo dispuesto en esta Orden Ministerial se aplicará en todo caso de conformidad con lo previsto en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal y demás normativa aplicable en esta materia.

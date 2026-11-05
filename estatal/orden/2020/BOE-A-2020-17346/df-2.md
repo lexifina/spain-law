@@ -1,0 +1,15 @@
+## Disposición final segunda. Modificación de la Orden IET/2446/2013, de 27 de diciembre.
+
+Se modifica el artículo 9 de la Orden IET/2446/2013, de 27 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas y la retribución de las actividades reguladas, que queda redactado de la siguiente forma:
+
+> «Artículo 9. Telemedida.
+
+> 1. Todos los consumidores, ya sean firmes o interrumpibles, con consumos superiores a 5.000.000 kWh/año deben disponer de equipos de telemedida capaces de realizar, al menos, la medición de los caudales diarios. A estos efectos, el consumo anual se determinará según los criterios indicados en el artículo 4 artículo 25 de la Circular 6/2020, de 22 de julio, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de los peajes de transporte, redes locales y regasificación de gas natural.
+
+> 2. Las empresas distribuidoras y transportistas notificarán dicha obligación a los usuarios que no dispongan de equipos de telemedida operativos y que superen el umbral establecido en el apartado anterior. Los consumidores que superen por primera vez este límite, deberán instalar equipos con telemedida en el plazo de seis meses, a contar a partir del momento en que se supere el umbral indicado en el apartado anterior, de acuerdo a los criterios establecidos en el artículo 4. En el caso de nuevos puntos de conexión, las empresas distribuidoras y transportistas verificarán el cumplimiento de esta obligación.
+
+> 3. Las empresas distribuidoras y transportistas deberán custodiar las lecturas diarias de estos contadores durante al menos cinco años.
+
+> 4. En el caso de consumidores que incumplan la obligación de tener instalados los mencionados equipos de telemedida, o cuando estos se encuentren fuera de servicio, además de la facturación ordinaria de sus contratos vigentes, durante el período sin telemedida será aplicada diariamente la fórmula de facturación por capacidad demandada establecida en el artículo 16.d) de la Circular 6/2020, de 22 de julio, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología para el cálculo de los peajes de transporte, redes locales y regasificación de gas natural, aplicando como capacidad máxima demandada diaria, QMd , el consumo promedio durante el periodo sin telemedida.
+
+> 5. Los distribuidores informarán diariamente, con la periodicidad aprobada en un Protocolo de Detalle, de los consumos telemedidos por cada consumidor especificando para cada día: comercializador vigente, peaje, PCTD/PCDD, CUPS y consumo, dentro de los plazos correspondientes marcados en las normas de gestión técnica del sistema de aplicación. Los distribuidores facilitarán el código CNAE de cada consumidor con telemedida.»

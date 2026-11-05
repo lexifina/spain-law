@@ -1,0 +1,17 @@
+## Disposición adicional decimotercera. Información de los precios menores de las agrupaciones homogéneas de medicamentos y productos sanitarios.
+
+1. A efectos de aplicar los supuestos de dispensación y sustitución establecidos en los artículos 87 y 89, respectivamente, la Dirección General de Cartera Básica de Servicios del Sistema Nacional de Salud y Farmacia del Ministerio de Sanidad, Servicios Sociales e Igualdad publicará en su página web, junto al Nomenclátor de productos farmacéuticos del Sistema Nacional de Salud, la información relativa a las agrupaciones homogéneas de las presentaciones de los medicamentos y de los productos sanitarios para pacientes no hospitalizados que requieran para su dispensación receta médica oficial u orden de dispensación.
+
+La información sobre los precios menores se actualizará el primer día hábil de cada mes y se publicará en la página web del Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+2. En cada agrupación homogénea de medicamentos se integrarán las presentaciones de los medicamentos financiadas con el/los mismo/s principio/s activo/s en cuanto a dosis, contenido, forma farmacéutica o agrupación de forma farmacéutica, y vía de administración, que puedan ser objeto de intercambio en su dispensación.
+
+Se diferenciarán las agrupaciones homogéneas de medicamentos integradas, exclusivamente, por un medicamento y sus licencias con el mismo precio que el medicamento de referencia.
+
+3. Asimismo, en cada agrupación homogénea de productos sanitarios se integrarán, siempre que sea posible, las presentaciones financiadas que, teniendo las mismas características, tipo, tamaño y contenido y estando clasificadas conforme a los grupos relacionados en los anexos I y II del Real Decreto 9/1996, de 15 de enero, por el que se regula la selección de los efectos y accesorios, su financiación con fondos de la Seguridad Social, o fondos estatales afectos a la sanidad y su régimen de suministro y dispensación a pacientes no hospitalizados, puedan ser objeto de intercambio en su dispensación.
+
+4. Si las variaciones experimentadas en los precios de los medicamentos o productos sanitarios así lo aconsejaran y, previo acuerdo de la Comisión Permanente de Farmacia del Consejo Interterritorial del Sistema Nacional de Salud, la mencionada Dirección General podrá actualizar la información de los precios menores, afectando en su caso dicha actualización a todas las agrupaciones, o a las agrupaciones que se estimen pertinentes, así como incorporar nuevas agrupaciones, y establecer plazos de coexistencia de los precios y devolución de existencias, de las presentaciones de medicamentos y productos sanitarios que hubieran reducido voluntariamente su precio en función del precio menor de cada agrupación, pudiéndose autorizar que dicha reducción se realice sin cambio del código nacional.
+
+A efectos informativos las actualizaciones de la información de precios menores se incorporarán en el Nomenclátor de productos farmacéuticos del Sistema Nacional de Salud, finalizados los plazos que en su caso se hubieran establecido.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 306, de 23 de diciembre de 2015. Ref. BOE-A-2015-14027.

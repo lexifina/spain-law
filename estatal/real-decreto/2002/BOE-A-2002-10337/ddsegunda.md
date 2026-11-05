@@ -1,0 +1,3 @@
+## Disposición derogatoria segunda. Continuidad de la vigencia de determinadas normas.
+
+Continuará teniendo vigencia la Orden de 31 de julio de 1985 («Boletín Oficial del Estado» de 3 de agosto) y, en general, la normativa de inferior rango dictada en desarrollo de la anterior regulación de las indemnizaciones por razón del servicio en lo que no se oponga al contenido del presente Real Decreto, así como, de forma específica, la Orden comunicada de los Ministros de Administraciones Públicas y de Economía y Hacienda, de 20 de abril de 1998, sobre aplicación del Real Decreto 236/1988, de 4 de marzo, a determinado personal.

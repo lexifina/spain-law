@@ -1,0 +1,5 @@
+## Séptimo.
+
+La evaluación global de la actividad investigadora de los Profesores que ocupen cargos académicos universitarios se efectuará de acuerdo con los criterios generales establecidos para el profesorado universitario, y ateniéndose a los plazos que a continuación se indican.
+
+Los Profesores que ocupen cargos académicos podrán solicitar dicha evaluación global durante el periodo de ocupación de su cargo, y los efectos económicos de una evaluación positiva lo serán con fecha idéntica a las del profesorado universitario que no se encuentren en esa situación. Los Profesores que a la hora de solicitar la evaluación global única antes reseñada se encontrasen desempeñando el cargo de Rector, podrán, alternativamente, solicitar que se posponga la citada evaluación global única hasta el momento en que se complete un número entero de sexenio con exclusión del periodo de desempeño del cargo. En cualquier caso, la evaluación positiva de los tramos anteriores a este último sexenio tendría efectos económicos idénticos a los del resto del profesorado y, en cuanto al último sexenio se refiere, se estaría a lo dispuesto en el artículo sexto de la presente Resolución.

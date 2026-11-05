@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación del Real Decreto 430/2004, de 12 de marzo, por el que se establecen nuevas normas sobre limitación de emisiones a la atmósfera de determinados agentes contaminantes procedentes de grandes instalaciones de combustión, y se fijan ciertas condiciones para el control de las emisiones a la atmósfera de las refinerías de petróleo.
+
+Se añade un apartado 3 al artículo 2 del Real Decreto 430/2004, de 12 de marzo, por el que se establecen nuevas normas sobre limitación de emisiones a la atmósfera de determinados agentes contaminantes procedentes de grandes instalaciones de combustión, y se fijan ciertas condiciones para el control de las emisiones a la atmósfera de las refinerías de petróleo, con la siguiente redacción:
+
+«3. Este real decreto no se aplicará a las instalaciones de combustión a que se refiere el artículo 44.3 del Reglamento de emisiones industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, aprobado por el Real Decreto 815/2013, de 18 de octubre.»

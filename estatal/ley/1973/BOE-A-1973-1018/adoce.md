@@ -1,0 +1,5 @@
+## Artículo doce.
+
+Uno. El Estado o la Entidad a que se hubiere encomendado cualquiera de las fases del artículo anterior podrá efectuarla dentro de las áreas correspondientes a las solicitudes o títulos de permisos y concesiones preexistentes a que se refiere el artículo décimo, siempre que su desarrollo no entorpezca las labores de sus titulares. Caso de presentarse colisión entre las partes interesadas, se resolverá de conformidad a lo dispuesto en los artículos cincuenta y ocho y setenta y tres de esta Ley, según que, respectivamente, se trate de permisos de investigación o concesiones de explotación.
+
+Dos. Los expresados titulares vendrán obligados a ampliar sus investigaciones en la medida y plazos que exija el programa general de investigación aprobado por el Gobierno, pudiendo hacerlo por sí o mediante acuerdo con la Administración, o empresa o grupo de ellas a quienes la zona de reserva haya sido adjudicada, o permitir que éstas lo hagan directamente, en la forma que señale el Reglamento.

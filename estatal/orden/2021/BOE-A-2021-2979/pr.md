@@ -1,0 +1,5 @@
+Los efectos de la Orden INT/68/2021, de 29 de enero, por la que se restablecen los controles en la frontera interior terrestre con Portugal con motivo de la situación de crisis sanitaria ocasionada por la COVID-19, prorrogados mediante la Orden INT/98/2021, de 8 de febrero, finalizan el 1 de marzo de 2021, a la 01:00.
+
+A pesar de la mejora de la situación epidemiológica en España y Portugal y de la flexibilización de algunas de las medidas restrictivas de movilidad interiores, éstas aún tienen un impacto considerable, lo cual recomienda mantener todavía un tiempo los controles en la frontera interior terrestre entre ambos países, con las mismas limitaciones aplicadas hasta ahora. A estos efectos, se han realizado las debidas consultas de coordinación con las autoridades portuguesas. La prórroga tendrá una duración de quince días, sin agotar los veinte días que permite el artículo 28 del Reglamento (UE) 2016/399 del Parlamento Europeo y del Consejo, de 9 de marzo de 2016, por el que se establece un Código de normas de la Unión para el cruce de personas por las fronteras (Código de fronteras Schengen).
+
+De acuerdo con lo expuesto, dispongo:

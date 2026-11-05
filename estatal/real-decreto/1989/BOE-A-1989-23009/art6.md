@@ -1,0 +1,7 @@
+## Artículo 6.
+
+Las entidades gestoras de servicios públicos de difusión de televisión podrán ser titulares y explotar directamente las unidades móviles o transportables para reportajes, producción, grabación y reproducción de programas de televisión, y los enlaces móviles desde dichas unidades hasta los diferentes centros de producción y de continuidad.
+
+Cuando una entidad gestora del servicio público de difusión de televisión, para efectuar el enlace entre dichas unidades móviles y sus centros de continuidad, precise de redes específicas distintas de dicho enlace móvil le será de aplicación el régimen previsto para los servicios de valor añadido que requieren la instalación de una red específica de conformidad con lo dispuesto en el art.º 25.5 de la Ley 31/1.987, de 18 de diciembre, de Ordenación de las Telecomunicaciones. Dichas redes específicas únicamente se autorizaran cuando no exista oferta equivalente para la prestación del servicio de que se trate por el ente titular del servicio portador.
+
+En cualquier caso los enlaces móviles a que se hace referencia en el presente artículo deberán conectarse con el servicio portador del servicio de difusión de televisión a través de los puntos de terminación de red establecidos, cuando proceda, en los centros de las entidades explotadoras de servicio público de difusión de televisión o, en su defecto, en los que establezca la entidad titular de servicio portador.

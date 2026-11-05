@@ -1,0 +1,3 @@
+## Disposición final cuarta. Revisión de precios de los peajes de acceso de energía eléctrica.
+
+Sin perjuicio de lo dispuesto en el artículo 9 del presente real decreto-ley, el Ministro de Industria, Energía y Turismo aprobará, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y en el plazo máximo de un mes a contar desde la entrada en vigor del presente real decreto-ley, una revisión de los precios de los términos de potencia y de los términos de energía activa de los peajes de acceso a las redes definidos en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y en su normativa de desarrollo.

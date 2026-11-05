@@ -1,0 +1,1 @@
+Téngase en cuenta que, mediante Sentencia del TS de 17 de diciembre de 2024, Ref. BOE-A-2025-3194, se anula el Real Decreto 64/2023, de 8 de febrero, que había derogado esta norma. Ref. BOE-A-2023-3344#dd

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen retributivo del personal estatutario.
+
+A efectos de lo previsto en el apartado 3 del artículo 39 y 41 del presente Estatuto, y en tanto se desarrolle lo previsto en la disposición adicional tercera de la Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario de los servicios de salud, el personal estatutario que ocupe puestos de trabajo de la Agencia Estatal de medicamentos y productos sanitarios, percibirá las retribuciones correspondientes a dicho puesto de trabajo, así como el resto de las retribuciones básicas y complementarias propias del régimen retributivo aplicable al personal funcionario de la Agencia.

@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Proyectos que deban someterse a evaluación de impacto ambiental.
+
+Cuando, de acuerdo con esta Ley, se exija una declaración responsable o una comunicación para el acceso a una actividad o su ejercicio y una evaluación de impacto ambiental, conforme al Texto Refundido de la Ley de Impacto Ambiental de proyectos, aprobado por Real Decreto Legislativo 1/2008, de 11 de enero, o a la normativa autonómica de desarrollo, la declaración responsable o la comunicación no podrá presentarse hasta haber llevado a cabo dicha evaluación de impacto ambiental y, en todo caso, deberá disponerse de la documentación que así lo acredite.

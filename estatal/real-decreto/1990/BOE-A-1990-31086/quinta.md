@@ -1,0 +1,7 @@
+## Disposición adicional quinta. Ingenieros Técnicos Aeronáuticos.
+
+Para la integración de la Escala Media del Cuerpo de Especialistas del Ejército del Aire se procederá en primer lugar a integrar por el procedimiento descrito en los artículos 9.° y 10 de las presentes Normas a las Escaas relacionadas en el artículo 1. A continuación se procederá a incluir en cada uno de los empleos de la nueva Escala a los componentes de la Escala de Ingenieros Técnicos Aeronáuticos, distribuidos, entre los que se han integrado de las Escalas del citado artículo 1, proporcionalmente a los efectivos respectivos de cada empleo.
+
+La proporcionalidad de efectivos determinará el bloque de personal de la nueva Escala entre los que se debe de incluir cada uno de los miembros de la antigua Escala de Ingenieros Técnicos Aeronáuticos, con independencia de que hayan solicitado o no su integración. Posteriormente, los Ingenieros Técnicos Aeronáuticos que lo hayan solicitado se integrarán en el bloque que les corresponda, y dentro de él, en el lugar determinado por los tiempos de servicios efectivos desde el acceso a la Escala de uno y otros. Ante igualdad de servicios efectivos se resolverá en favor del de mayor edad.
+
+Para el personal de las Escalas de Complemento que se integre en esta Escala le será de aplicación las normas establecidas en el artículo 12, si bien su lugar en los bloques establecidos por proporcionalidad será tal que no exista en el bloque nadie con más tiempo de servicios efectivos en el empleo situado por detrás de él.

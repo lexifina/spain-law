@@ -1,0 +1,5 @@
+## Disposición transitoria única. Vigencia transitoria de la normativa anterior.
+
+De conformidad con lo establecido en la disposición transitoria séptima de la Ley 42/1994, de 30 de diciembre, de medidas fiscales, administrativas y de orden social, hasta tanto no se constituyan y entren en funcionamiento los correspondientes Equipos de Valoración de Incapacidades, el procedimiento de la declaración de la invalidez permanente, a efectos del reconocimiento de las prestaciones económicas de la Seguridad Social, seguirá rigiéndose por lo establecido en el Real Decreto 2609/1982, de 24 de septiembre, y demás disposiciones complementarias.
+
+En tal sentido y no obstante lo previsto en la disposición adicional tercera, hasta la fecha indicada en el párrafo anterior, las actuales Unidades de Valoración Médica de Incapacidades, así como, en su caso, los órganos que realicen las mismas funciones en las respectivas Comunidades Autónomas, continuarán ejerciendo todas sus competencias, conforme a las normas de funcionamiento aplicables con anterioridad a la entrada en vigor del presente Real Decreto.

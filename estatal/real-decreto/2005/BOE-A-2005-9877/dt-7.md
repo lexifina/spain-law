@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Garantía para el personal.
+
+Si durante un periodo de cinco años desde el otorgamiento de la escritura pública a que se refiere la disposición transitoria segunda se produjera el cese por imperativo legal de las actividades que como servicio de prevención viniese desarrollando la mutua a través de la correspondiente sociedad de prevención, la mutua responderá subsidiariamente, con cargo a su patrimonio histórico y con cargo al patrimonio de la Seguridad Social adscrito, por este orden, de las obligaciones que se pudieran derivar respecto al personal cedido a la referida sociedad, pudiendo optar por la readmisión dicho personal en la plantilla de la mutua.

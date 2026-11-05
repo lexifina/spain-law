@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Guías y protocolos de buenas prácticas.
+
+Sin perjuicio de lo dispuesto en la disposición adicional segunda, el Ministerio de Trabajo y Economía Social y el Ministerio de Igualdad, con la colaboración, en su caso, de las organizaciones empresariales y sindicales más representativas, podrán realizar y distribuir guías y protocolos de buenas prácticas que permitan superar estereotipos de género en la contratación y promoción, en especial entre el personal con responsabilidades en materia de recursos humanos dentro de las empresas que garantice una efectiva integración de la perspectiva de género en las mismas.

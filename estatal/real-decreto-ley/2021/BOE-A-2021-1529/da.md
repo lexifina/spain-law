@@ -1,0 +1,5 @@
+## Disposición adicional primera. Determinación y aplicación del importe mensual del complemento de pensiones contributivas para la reducción de la brecha de género previsto en el artículo 60 del texto refundido de la Ley General de la Seguridad Social aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre y en la disposición adicional decimoctava del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.
+
+El importe del complemento previsto en el artículo 60 del texto refundido de la Ley General de la Seguridad Social, y en la disposición adicional decimoctava del texto refundido de la Ley de Clases Pasivas del Estado, será para el año 2021 de 27 euros mensuales.
+
+El complemento para la reducción la brecha de género introducida en el artículo 60 del texto refundido de la Ley General de la Seguridad Social y en la disposición adicional decimoctava del texto refundido de la Ley de Clases Pasivas del Estado, se reconocerá a las pensiones causadas a partir de la entrada en vigor de este real decreto-ley.

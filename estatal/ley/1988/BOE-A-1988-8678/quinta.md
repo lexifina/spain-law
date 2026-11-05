@@ -1,0 +1,5 @@
+## Disposición adicional quinta.
+
+1. Los funcionarios pertenecientes al actual Cuerpo Especial Técnico de Censores Letrados y Contables del Tribunal de Cuentas, que se declara a extinguir, se integrarán en los dos Cuerpos Superiores a que se refiere el apartado primero de la disposición anterior. A tal fin, dentro del plazo de dos meses contados a partir de la entrada en vigor de esta Ley y cualquiera que sea la situación administrativa en que se encuentren, deberán optar por integrarse en uno u otro Cuerpo, según el orden de antigüedad que resulte de los servicios efectivos prestados en el primeramente mencionado y teniendo en cuenta las titulaciones requeridas que se posean.
+
+2. Los funcionarios pertenecientes al actual Cuerpo Especial Técnico de Censores Letrados y Contables del Tribunal de Cuentas que, por cualquier causa, no ejercitasen el derecho de opción a que se refiere el párrafo anterior, quedarán integrados en una escala a extinguir con la misma denominación que en la actualidad ostenta y los mismos derechos, deberes y régimen retributivo que el de los Cuerpos Superiores de nueva creación a que hace referencia el apartado anterior.

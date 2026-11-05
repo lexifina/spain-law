@@ -1,0 +1,25 @@
+## Disposición adicional cuarta. Comercialización con pasaporte a inversores profesionales de las acciones y participaciones de IIC de un tercer Estado gestionadas por gestoras no domiciliadas en la Unión Europea de conformidad con la Directiva 2011/61/UE, de 8 de junio de 2011.
+
+1. Hasta la adopción del acto delegado de la Comisión Europea a que se refiere el artículo 67.6 de la Directiva 2011/61/UE, de 8 de junio de 2011, la comercialización a inversores profesionales de las acciones y participaciones de las IIC a las que se refiere el artículo 2.1.e) de la Ley 35/2003, de 4 de noviembre, y que no estén autorizadas o registradas, ni tengan su domicilio o su oficina principal en un Estado miembro, estará sujeta a lo previsto en el artículo 15 quáter de la Ley 35/2003, de 4 de noviembre.
+
+2. Una vez adoptado el acto delegado de la Comisión Europea a que se refiere el apartado anterior y en los términos que éste establezca, la comercialización de las acciones y participaciones de las IIC a que se refiere el apartado anterior será libre de conformidad con lo previsto en los apartados 3 a 7 de la disposición adicional anterior, que se aplicarán con las especialidades previstas en los siguientes apartados:
+
+a) Las referencias realizadas a las IIC a las que se refiere el artículo 2.1.e) de la Ley 35/2003, de 4 de noviembre, y que estén autorizadas o registradas, o tengan su domicilio o su oficina principal en un Estado miembro, se entenderá realizadas a las IIC que no estén autorizadas o registradas, ni tengan su domicilio o su oficina principal en un Estado miembro.
+
+b) Además de los requisitos aplicables a las gestoras de un Estado miembro previstos en la Directiva 2011/61/UE, de 8 de junio de 2011, la Ley 35/2003, de 4 de noviembre, y este real decreto, la comercialización de IIC de un tercer Estado por las gestoras no domiciliadas en la Unión Europea requerirá que se cumplan las siguientes condiciones:
+
+1.º Deberán existir acuerdos de cooperación entre la CNMV y las autoridades nacionales del Estado miembro que hubiese autorizado a la gestora de conformidad con el artículo 37 de la Directiva 2011/61/UE, de 8 de junio de 2011, con las autoridades de supervisión del tercer Estado en el que esté establecida la IIC, con el fin de garantizar al menos un intercambio eficaz de información que permita a las autoridades competentes llevar a cabo sus funciones supervisión de acuerdo con la Directiva 2011/61/UE, de 8 de junio de 2011.
+
+2.º El tercer Estado en el que esté establecida la IIC no podrá figurar en la lista de países y territorios no cooperantes establecida por el Grupo de Acción Financiera Internacional sobre el Blanqueo de Capitales.
+
+3.º El tercer Estado deberá haber suscrito un acuerdo con España o el Estado miembro cuya autoridad nacional hubiese autorizado a la gestora de conformidad con el artículo 37 de la Directiva 2011/61/UE, de 8 de junio de 2011, que se ajuste plenamente a los preceptos establecidos en el artículo 26 del Modelo de Convenio Tributario sobre la Renta y sobre el Patrimonio de la Organización para la Cooperación y el Desarrollo Económicos y garantice un intercambio efectivo de información en materia tributaria, incluyendo, si procede, acuerdos multilaterales en materia de impuestos.
+
+c) En el supuesto de que la CNMV discrepe de la evaluación de la aplicación de los ordinales 1.º y 2.º anteriores realizada por las autoridades competentes del Estado miembro en el que haya sido autorizada la gestora no domiciliada en la Unión Europea, podrá someter el asunto a la Autoridad Europea de Valores y Mercados, que podrá actuar de conformidad con las facultades que le confiere el artículo 19 del Reglamento 1095/2010/UE del Parlamento Europeo y del Consejo, de 24 de noviembre de 2010.
+
+d) La notificación prevista en el apartado 4.a) de la disposición adicional anterior se referirá a cada IIC que se proponga comercializar en España.
+
+e) La solicitud de comercialización podrá ser denegada si la administración de la IIC por parte de la gestora no se realiza, ni se va a realizar con arreglo a la Directiva 2011/61/UE, de 8 de junio de 2011, o si la gestora no cumple o no va a cumplir alguna de las disposiciones de dicha directiva.
+
+3. De conformidad con lo dispuesto en el artículo 41.4 de la Ley 22/2014, de 12 de noviembre, por la que se regulan las entidades de capital-riesgo, otras entidades de inversión colectiva de tipo cerrado y las sociedades gestoras de entidades de inversión colectiva de tipo cerrado, y por la que se modifica la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, esta disposición adicional será de aplicación a las entidades a que se refiere el artículo 5.1.d), de dicha ley, y que no estén autorizadas o registradas, o ni tengan su domicilio o su oficina principal en un Estado miembro. A estos efectos, las referencias a las IIC se entenderán realizadas a las entidades de capital-riesgo y a las otras entidades de inversión colectiva de tipo cerrado.
+
+> Se añade por el art. único.55 del Real Decreto 83/2015, de 13 de febrero. Ref. BOE-A-2015-1454.

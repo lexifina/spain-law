@@ -1,0 +1,3 @@
+## Disposición transitoria única. Asignación de Costes de Personal a Actividades.
+
+En el caso de que no pueda establecerse una relación directa entre los costes de sueldos y salarios, seguridad social a cargo del empleador y previsión social de funcionarios de manera individual por actividades, según lo establecido en el apartado Vigésimo noveno, se permitirá a las distintas organizaciones que durante un plazo no superior a cinco años contados desde la entrada en vigor de esta resolución puedan asignar dichos costes de acuerdo con los criterios de asignación definidos para la imputación de costes pendientes en el apartado Trigésimo primero.

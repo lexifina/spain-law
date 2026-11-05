@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Información sobre el inmovilizado material, las inversiones inmobiliarias y el inmovilizado intangible.
+
+Para el ejercicio 2011, la información relativa al análisis del movimiento durante el ejercicio de cada una de las partidas de balance incluidas en los epígrafes relativos a inmovilizado material, inversiones inmobiliarias e inmovilizado intangible, que se contiene respectivamente en las notas 5, 6 y 7 de la Memoria de las cuentas anuales, se podrá presentar agrupando en un único importe, las entradas y los aumentos por traspasos de otras partidas, por un lado, y las salidas y las disminuciones por traspasos a otras partidas, por otro lado.

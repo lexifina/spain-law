@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Instalaciones en fase de tramitación en la fecha de entrada en vigor del Reglamento.
+
+Se permitirá una prórroga de dos años, a partir de la entrada en vigor del reglamento anexo, para la ejecución de aquellas instalaciones cuya documentación técnica haya sido presentada antes de dicha entrada en vigor ante el órgano competente de la Comunidad Autónoma y fuera conforme a lo dispuesto en el Reglamento electrotécnico para baja tensión, aprobado por Decreto 2413/1973, de 20 de septiembre, sus instrucciones técnicas complementarias y todas las disposiciones que los desarrollan y modifican.

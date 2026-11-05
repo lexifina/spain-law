@@ -1,0 +1,5 @@
+Ilustrísimos señores:
+
+El Real Decreto 2924/1981, de 4 de diciembre («Boletín Oficial del Estado» del 14), por el que se reestructuran determinados Órganos de la Administración del Estado, encomienda a la Dirección General de Política Alimentaria el ejercicio de las acciones atribuidas al Servicio de Defensa contra Fraudes por la Ley de 10 de marzo de 1941, entre las que se encuentra la redacción de las instrucciones y normas a las que han de ajustarse en su actuación las unidades encargadas de ejercer las funciones del Servicio en sus respectivas demarcaciones, así como ejecutar los análisis químicos y estudios técnicos necesarios para el cumplimiento de dichas funciones.
+
+Estando facultado el Ministerio de Agricultura para dictar las disposiciones complementarias para la aplicación de la citada Ley de 10 de marzo de 1941, y siendo necesario disponer de muestras suficientemente representativas de las partidas muestreadas en las inspecciones oficiales para efectuar sobre ellas las determinaciones analíticas establecidas por la normativa vigente, este Ministerio ha dispuesto lo siguiente:

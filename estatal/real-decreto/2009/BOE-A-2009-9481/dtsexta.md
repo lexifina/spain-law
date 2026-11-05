@@ -1,0 +1,7 @@
+## Disposición transitoria sexta. Vehículos que se utilizan en las pruebas de control de aptitudes y comportamientos.
+
+1. Sin perjuicio de las especialidades que se recogen en el apartado siguiente, los vehículos que a la entrada en vigor del presente reglamento se utilizan en las pruebas de control de aptitudes y comportamientos para la obtención del permiso o la licencia de conducción, y no cumplan los requisitos previstos en éste, podrán seguir utilizándose en dichas pruebas durante diez años a partir de su entrada en vigor, salvo los turismos que no estén provistos de reposacabezas que podrán seguir utilizándose, únicamente, durante dos años a partir de su entrada en vigor.
+
+2. Las motocicletas que se utilizan en las pruebas para la obtención del permiso de las clases A1 y A, dadas de alta en las escuelas o sus secciones con anterioridad al 9 de agosto de 2008, que no reúnan los requisitos previstos en el anexo VII del presente reglamento en lo que se refiere a las características de las ruedas, podrán seguir utilizándose en las pruebas para la obtención del permiso de las clases A1 y A2 hasta el 1 de septiembre de 2011.
+
+Asimismo, los utilizados en las pruebas de control de aptitudes y comportamientos para la obtención del permiso de conducción de las clases B + E, C1, C1 + E, C, C + E, D1, D1 + E, D y D + E dados de alta en las escuelas o sus secciones con anterioridad al 20 de octubre de 2004, que no reúnan los requisitos exigidos en el citado anexo VII, podrán seguir utilizándose en dichas pruebas hasta el 30 de septiembre de 2013.

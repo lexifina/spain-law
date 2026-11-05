@@ -1,0 +1,5 @@
+## Disposición transitoria sexta.
+
+Las autorizaciones de transporte público discrecional de viajeros, de transporte público mixto y de transporte público sanitario caducadas por no haber realizado el visado correspondiente a los años 1991 o 1992, y las autorizaciones de transporte privado complementario de viajeros, de transporte privado complementario mixto, de transporte sanitario privado y de transporte funerario caducadas por no haber realizado el visado correspondiente al año 1991, podrán ser rehabilitadas en el plazo de seis meses, contados desde la fecha de entrada en vigor de la presente Orden, siempre que así se solicite aportando la documentación que en ésta se exige para la realización de visado y se justifiquen de modo satisfactorio las causas que impidieron visar en los plazos correspondientes.
+
+Transcurrido el referido plazo de seis meses, dichas autorizaciones sólo podrán ser rehabilitadas en los casos y con arreglo al procedimiento previstos en los artículos 27, 39 y 50 de la presente Orden.

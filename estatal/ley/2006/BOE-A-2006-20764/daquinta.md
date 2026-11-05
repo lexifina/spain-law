@@ -1,0 +1,55 @@
+## Disposición adicional quinta. Subvenciones de la política agraria comunitaria y ayudas públicas.
+
+1. No se integrarán en la base imponible del Impuesto sobre la Renta de las Personas Físicas las rentas positivas que se pongan de manifiesto como consecuencia de:
+
+a) La percepción de las siguientes ayudas de la política agraria comunitaria:
+
+1.ª Abandono definitivo del cultivo del viñedo.
+
+2.ª Prima al arranque de plantaciones de manzanos.
+
+3.ª Prima al arranque de plataneras.
+
+4.ª Abandono definitivo de la producción lechera.
+
+5.ª Abandono definitivo del cultivo de peras, melocotones y nectarinas.
+
+6.ª Arranque de plantaciones de peras, melocotones y nectarinas.
+
+7.ª Abandono definitivo del cultivo de la remolacha azucarera y de la caña de azúcar.
+
+8.ª Ayudas a los regímenes en favor del clima y del medio ambiente (eco-regímenes).
+
+b) La percepción de las siguientes ayudas de la política pesquera comunitaria: paralización definitiva de la actividad pesquera de un buque y por su transmisión para la constitución de sociedades mixtas en terceros países, así como por el abandono definitivo de la actividad pesquera.
+
+c) La percepción de ayudas públicas que tengan por objeto reparar la destrucción, por incendio, inundación, hundimiento, erupción volcánica u otras causas naturales, de elementos patrimoniales.
+
+d) La percepción de las ayudas al abandono de la actividad de transporte por carretera satisfechas por el Ministerio de Fomento a transportistas que cumplan los requisitos establecidos en la normativa reguladora de la concesión de dichas ayudas.
+
+e) La percepción de indemnizaciones públicas, a causa del sacrificio obligatorio de la cabaña ganadera, en el marco de actuaciones destinadas a la erradicación de epidemias o enfermedades. Esta disposición sólo afectará a los animales destinados a la reproducción.
+
+2. Para calcular la renta que no se integrará en la base imponible se tendrá en cuenta tanto el importe de las ayudas percibidas como las pérdidas patrimoniales que, en su caso, se produzcan en los elementos patrimoniales. Cuando el importe de estas ayudas sea inferior al de las pérdidas producidas en los citados elementos, podrá integrarse en la base imponible la diferencia negativa. Cuando no existan pérdidas, sólo se excluirá de gravamen el importe de las ayudas.
+
+3. Las ayudas públicas, distintas de las previstas en el apartado 1 anterior, percibidas para la reparación de los daños sufridos en elementos patrimoniales por incendio, inundación, hundimiento u otras causas naturales, se integrarán en la base imponible en la parte en que excedan del coste de reparación de los mismos. En ningún caso, los costes de reparación, hasta el importe de la citada ayuda, serán fiscalmente deducibles ni se computarán como mejora.
+
+No se integrarán en la base imponible de este Impuesto, las ayudas públicas percibidas para compensar el desalojo temporal o definitivo por idénticas causas de la vivienda habitual del contribuyente o del local en el que el titular de la actividad económica ejerciera la misma.
+
+4. No se integrarán en la base imponible de este Impuesto las ayudas concedidas en virtud de lo dispuesto en el Real Decreto 920/2014, de 31 de octubre, por el que se regula la concesión directa de subvenciones destinadas a compensar los costes derivados de la recepción o acceso a los servicios de comunicación audiovisual televisiva en las edificaciones afectadas por la liberación del dividendo digital. Tampoco se integrarán en el ejercicio 2021 y siguientes las concedidas en virtud de los distintos programas establecidos en el Real Decreto 691/2021, de 3 de agosto, por el que se regulan las subvenciones a otorgar a actuaciones de rehabilitación energética en edificios existentes, en ejecución del Programa de rehabilitación energética para edificios existentes en municipios de reto demográfico (Programa PREE 5000), incluido en el Programa de regeneración y reto demográfico del Plan de rehabilitación y regeneración urbana del Plan de Recuperación, Transformación y Resiliencia, así como su concesión directa a las comunidades autónomas; el Real Decreto 737/2020, de 4 de agosto, por el que se regula el programa de ayudas para actuaciones de rehabilitación energética en edificios existentes y se regula la concesión directa de las ayudas de este programa a las comunidades autónomas y ciudades de Ceuta y Melilla; y el Real Decreto 853/2021, de 5 de octubre, por el que se regulan los programas de ayuda en materia de rehabilitación residencial y vivienda social del Plan de Recuperación, Transformación y Resiliencia o las ayudas concedidas en el marco de la línea de financiación para el fomento de la rehabilitación edificatoria, la accesibilidad y la renovación urbana y rural del Real Decreto 326/2026, de 22 de abril, por el que se regula el Plan Estatal de Vivienda 2026-2030; y el Real Decreto 477/2021, de 29 de junio, por el que se aprueba la concesión directa a las comunidades autónomas y a las ciudades de Ceuta y Melilla de ayudas para la ejecución de diversos programas de incentivos ligados al autoconsumo y al almacenamiento, con fuentes de energía renovable, así como a la implantación de sistemas términos de energías renovables en el sector residencial, en el marco del Plan de Recuperación, Transformación y Resiliencia.
+
+> Se modifica el apartado 4 por el art. 6.2.6 del Real Decreto-ley 29/2026, de 6 de octubre. Ref. BOE-A-2026-20823#a6
+
+> Se deja sin efecto la modificación del apartado 4 por Resolución de 2 de octubre de 2026 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20526
+
+> Se modifica el apartado 4 por el art. 6.2.6 del Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20266#a6
+
+> Se modifica la letra a) del apartado 1 por la disposición final 13 de la Ley 30/2022, de 23 de diciembre. Ref. BOE-A-2022-22127#df-13
+
+> Se modifica por el art. 1.3 de la Ley 10/2022, de 14 de junio. Ref. BOE-A-2022-9838#a1
+
+> Se modifica, con efectos desde el 1 de enero de 2021, el apartado 1.c) por el art. 4.1 del Real Decreto-ley 25/2021, de 8 de noviembre. Ref. BOE-A-2021-18275#a4
+
+> Se modifica el apartado 4 por el art. 1.3 del Real Decreto-ley 19/2021, de 5 de octubre. Ref. BOE-A-2021-16230#a1
+
+> Se añade el apartado 4, con efectos desde el 1 de enero de 2015, por el art. 1.2 del Real Decreto-ley 9/2015, de 10 de julio. Ref. BOE-A-2015-7765.
+
+> Se modifica el apartado 1, con efectos desde el 1 de enero de 2007 por la disposición final 14.4 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765

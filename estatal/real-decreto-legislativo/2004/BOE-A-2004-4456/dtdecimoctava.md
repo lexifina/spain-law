@@ -1,0 +1,3 @@
+## Disposición transitoria decimoctava. Aplicación del apartado 11 del artículo 115 de esta ley a los activos cuyo período de construcción haya finalizado con anterioridad al 31 de diciembre de 2002.
+
+El momento temporal determinado por el Ministerio de Hacienda, a que se refiere el apartado 11 del artículo 115 de la ley, podrá hacerse coincidir con el de la puesta en condiciones de funcionamiento, en el caso de activos cuyo período de construcción haya finalizado con anterioridad al 31 de diciembre de 2002 y cuya solicitud ante el Ministerio de Hacienda haya sido presentada antes de dicha fecha.

@@ -1,0 +1,3 @@
+## Disposición adicional duodécima. Régimen de las garantías en las subvenciones para el fomento de la investigación, desarrollo e innovación tecnológica.
+
+Sin perjuicio de lo establecido en el presente Reglamento, en las subvenciones destinadas a fomentar la investigación, desarrollo e innovación tecnológica convocadas por el Centro para el Desarrollo Tecnológico Industrial, cuando las garantías revistan la modalidad de aval otorgado por entidad bancaria o por sociedad de garantía recíproca se podrán constituir en el propio organismo, el cual se encargará de su cancelación o ejecución. En cualquier otro caso, las garantías se constituirán en la Caja General de Depósitos.

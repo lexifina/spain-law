@@ -1,0 +1,5 @@
+## Disposición adicional primera. Equivalencias.
+
+1. La Administración laboral expedirá a quienes lo soliciten el certificado de profesionalidad correspondiente siempre que, a través de las enseñanzas cursadas en el sistema educativo, hayan obtenido la certificación académica que acredite la superación de la totalidad de los módulos profesionales asociados a las unidades de competencia que conformen dicho certificado de profesionalidad según lo dispuesto en la Disposición adicional duodécima del Real Decreto 1538/2006 de 15 de diciembre, por el que se establece la ordenación general de la formación profesional del sistema educativo.
+
+2. Las unidades de competencia acreditadas por un certificado de profesionalidad o una acreditación parcial acumulable, expedida por la Administración laboral competente, serán reconocidas por la Administración educativa y surtirán los efectos de convalidación del módulo o módulos profesionales correspondientes de acuerdo con los reales decretos por los que se establecen cada uno de los títulos de formación profesional, a quienes lo soliciten.

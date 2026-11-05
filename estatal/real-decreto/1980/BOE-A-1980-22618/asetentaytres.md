@@ -1,0 +1,17 @@
+## Artículo setenta y tres. Procedimiento laboral.
+
+Uno. Las resoluciones de la Administración Militar que agoten la vía administrativa en materia laboral, serán en todo caso, ejecutivas, sin perjuicio de que pueda formularse contra ellas la correspondiente reclamación ante el Órgano Jurisdiccional competente del Orden Social, en el término de veinte días a partir de la notificación de aquellas.
+
+Dos. Admitida la demanda a trámite, la Magistratura recabará del Ministerio de Defensa, que lo cumplimentará en el plazo de quince días, el expediente instruido y cuanta otra información considere procedente, y seguirá la tramitación que corresponda conforme a la Ley de Procedimiento Laboral, sin otras salvedades que las que a continuación se expresan:
+
+a) No podrá practicarse diligencia alguna dentro de los recintos militares, buques o aeronaves de guerra, sin el previo conocimieno y autorización de la Autoridad Militar. El Ministerio de Defensa podrá denegarla si entendiera que existen razones para ello en función del interés de la Defensa Nacional, si bien en tales casos facilitará cuanta información, que no comprometa dicho interés, pueda estimarse conducente a lograr, en lo posible, la finalidad perseguida.
+
+b) La comparecencia ante el Órgano Jurisdiccional, por razón de cargo o destino en representación de la Administración Militar, de personal militar o civil dependiente de las Fuerzas Armadas, habrá de solicitarse a través del Mando de Personal del Cuartel General que corresponda o del Subsecretario de Defensa cuando se trate de personal con destino en el Órgano Central de dicho Departamento. Las citadas Autoridades podrán ordenar la comparecencia solicitada o acordar que se sustituya por informe escrito en los términos a que se refiere el artículo quinientos noventa y cinco de la Ley de Enjuiciamiento Civil.
+
+Tres. El Ministerio de Defensa, dentro de los treinta días a partir de la fecha en que le sea notificada la sentencia firme del Órgano Jurisdiccional del Orden Social, dictará resolución ordenando el cumplimiento del fallo en sus propios términos, salvo lo dispuesto en el número siguiente.
+
+Cuatro. Dentro del plazo señalado en el número anterior, cuando el citado Ministerio estime que tal cumplimiento en cuanto a sus pronunciamientos de contenido no estrictamente económico, resultare perjudicial o inconveniente para el interés de la Defensa Nacional, y sin que necesariamente hayan de expresarse las motivaciones de tal apreciación, dictará la correspondiente resolución en la que así se haga constar, contra la que no cabrá recurso alguno.
+
+Cinco. Comunicada tal resolución al Órgano Jurisdiccional y al trabajador, podrá éste, dentro de los veinte días siguientes, en trámite de ejecución de sentencia, instar ante aquel órgano el que se señale la indemnización que alternativamente deba considerarse como sustitutoria respecto de los pronunciamientos de contenido no económico incumplidos.
+
+Seis. Tal indemnización, cuando se trate de extinción del contrato de trabajo será la que correspondería en el supuesto del despido improcedente conforme al artículo sesenta y siete coma cinco del presente Decreto; en los demás casos no podrá superar el límite de veinte días de salario por año de servicio, prorrateándose por meses los periodos inferiores a un año, y hasta un máximo de doce mensualidades. El abono por el Ministerio de Defensa de la indemnización dejará definitivamente extinguido el derecho del trabajador.

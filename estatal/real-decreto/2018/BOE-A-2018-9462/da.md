@@ -1,0 +1,3 @@
+## Disposición adicional única. No incremento del gasto público.
+
+El funcionamiento del órgano colegiado previsto en el artículo 11 de este real decreto no supondrá incremento del gasto público, y será atendido con los medios personales, técnicos y presupuestarios asignados al órgano superior o directivo en el cual se encuentre integrado cada uno de sus miembros, de acuerdo con lo previsto en el artículo 2.2 del Real Decreto 776/2011, de 3 de junio, por el que se suprimen determinados órganos colegiados y se establecen criterios para la normalización en la creación de órganos colegiados en la Administración General del Estado y sus Organismos Públicos.

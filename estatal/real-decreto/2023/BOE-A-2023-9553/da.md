@@ -1,0 +1,3 @@
+## Disposición adicional primera. Profesorado del Cuerpo a extinguir de Profesores Técnicos de Formación Profesional.
+
+En los términos que determinen las administraciones educativas, el profesorado del Cuerpo a extinguir de Profesores Técnicos de Formación Profesional, de las especialidades que en cada caso corresponda, podrá impartir la materia de Tecnología y Digitalización, y asumir funciones de atención a la diversidad, sin que ninguna de esas posibilidades implique derecho sobre la titularidad de las especialidades respectivas o sobre la pertenencia a un cuerpo distinto de aquel al que pertenecen.

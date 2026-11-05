@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Incentivo para las instalaciones del subgrupo a.1.1 de más de 10 MW y no más de 25 MW de potencia instalada definidas en el Real Decreto 436/2004, de 12 de marzo.
+
+Hasta que se desarrolle el régimen retributivo de las instalaciones de régimen especial, conforme lo establecido en el Real Decreto Ley 7/2006, de 23 de junio, se modifica la cuantía del incentivo para las instalaciones del subgrupo a.1.1 de más de 10 MW y no más de 25 MW de potencia instalada definidas en el Real Decreto 436/2004, de 12 de marzo, quedando establecido en 1,9147 Cent. €/kWh durante los primeros 15 años desde su puesta en marcha y en 1,5318 Cent. €/kWh a partir de entonces.

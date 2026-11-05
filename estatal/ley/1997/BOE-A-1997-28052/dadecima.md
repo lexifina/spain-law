@@ -1,0 +1,3 @@
+## Disposición adicional décima. Porcentaje de participación de la Comunidad Autónoma de Madrid en los ingresos del Estado para el quinquenio 1997-2001, aplicables en 1 de enero de 1997.
+
+De conformidad con lo previsto en el «Modelo para la aplicación del sistema de financiación de las Comunidades Autónomas en el quinquenio 1997-2001» y con el acuerdo adoptado por su Comisión Mixta, el porcentaje provisional de participación de la Comunidad Autónoma de Madrid en los ingresos generales del Estado para el quinquenio 1997-2001, aplicable en 1 de enero de 1997, al que se refiere el punto b) del artículo 1 del Real Decreto-ley 7/1997, de 14 de abril, es el - 0,0904907.

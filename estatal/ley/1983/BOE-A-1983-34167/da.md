@@ -1,0 +1,9 @@
+## Disposición adicional primera.
+
+1. A las oposiciones para ingreso en los Cuerpos Especiales de Inspectores Financieros y Tributarios del Estado, a través de la Escuela de Inspección Financiera y Tributaria, de Inspectores de Aduanas e Impuestos Especiales, a través de la Escuela Oficial de Aduanas, y de Intervención y Contabilidad de la Administración Civil del Estado, podrán concurrir, en las condiciones especiales que se determinarán reglamentariamente, y con el 25 por 100 de las vacantes que se convoquen, los funcionarios del Cuerpo Especial de Gestión de la Hacienda Pública, en activo o supernumerario, en cualquiera de las especialidades, que estén en posesión del título académico requerido para el ingreso en aquellos Cuerpos y cuenten con un mínimo de tres años de servicios efectivos en el Cuerpo Especial de Gestión de la Hacienda Pública en cualquiera de sus especialidades.
+
+Queda modificado en los términos señalados en el apartado anterior, el párrafo dos del artículo 3 del Real Decreto-ley 40/1977, de 7 de septiembre, y se reduce al 15 por 100 la reserva de vacantes convocadas a que se refiere el párrafo tres de dicho artículo.
+
+Asimismo, podrán concurrir en oposición restringida para ingreso en el Cuerpo Especial de Intervención y Contabilidad del Estado con reserva del 10 por 100 adicional de las plazas convocadas, los funcionarios pertenecientes al Cuerpo de Intervención y Contabilidad de la Seguridad Social con dos años de servicios efectivos en dicho Cuerpo y siempre que reúnan los mismos requisitos exigidos en oposición libre.
+
+2. Durante tres años se podrán nombrar funcionarios interinos para cubrir las plazas vacantes en el Cuerpo de Intervención y Contabilidad de la Administración Civil del Estado. Estos funcionarios cesarán en el momento en que la plaza ocupada sea provista por los correspondientes procedimientos selectivos.

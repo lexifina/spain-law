@@ -1,0 +1,3 @@
+## Disposición adicional primera. Utilización de las distintas lenguas oficiales del Estado.
+
+De conformidad con la Ley 1/2015, de 24 de marzo, atendiendo a la esencia de la Biblioteca Nacional de España como referente cultural de alcance internacional, y a fin de contribuir a la difusión y normalización del patrimonio plurilingüe del Estado español, se promoverá en los materiales editados por este organismo, así como en la información inherente a la obra expuesta y aquella que se ofrece a los visitantes, el uso de las distintas lenguas oficiales del Estado. Se prestará una especial atención a la edición en lenguas cooficiales de los materiales en formato electrónico.

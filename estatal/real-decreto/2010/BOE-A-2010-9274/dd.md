@@ -1,0 +1,3 @@
+## Disposición derogatoria. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto, especialmente el Real decreto 1040/1981, de 22 de mayo, de registro y depósito de convenios colectivos de trabajo, así como la Orden del Ministerio de Trabajo y Seguridad Social, de 24 de febrero de 1992, por la que se establecen nuevos modelos de hojas estadísticas de convenios colectivos de trabajo y la Orden del Ministerio de Trabajo y Asuntos Sociales, de 10 de octubre de 1996, por la que se amplia el contenido de las actuales hojas estadísticas de convenios colectivos de trabajo.

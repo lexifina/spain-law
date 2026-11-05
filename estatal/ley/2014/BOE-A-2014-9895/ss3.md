@@ -1,0 +1,1 @@
+## Subsección 3.ª Tasas por examen de la documentación necesaria para la verificación y registro o inscripción de la constitución de fondos de titulización y de fondos de activos bancarios y de sus modificaciones y nuevas incorporaciones de activos

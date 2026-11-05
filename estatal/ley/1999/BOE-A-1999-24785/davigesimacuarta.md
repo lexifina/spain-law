@@ -1,0 +1,5 @@
+## Disposición adicional vigésima cuarta. Convenios plurianuales de colaboración en materia de enseñanza universitaria.
+
+El Gobierno podrá destinar un máximo de 7.000.000.000 de pesetas en este ejercicio, para suscribir Convenios plurianuales de colaboración, en materia del servicio público fundamental de la enseñanza universitaria, con las Comunidades Autónomas y las Universidades públicas de su ámbito competencial, que tengan por objeto la progresiva consecución del equilibrio presupuestario y la contención del endeudamiento de las universidades en el año 2002, como contribución de las mismas al cumplimiento de los compromisos generales de estabilidad económica contraídos por el Estado con la Unión Europea, de acuerdo con criterios objetivos representativos del volumen del alumnado y del coste de las enseñanzas.
+
+Igualmente, el Gobierno podrá destinar en este ejercicio hasta un máximo de 3.000.000.000 de pesetas para suscribir convenios de colaboración con las Comunidades Autónomas para concesión de ayudas universitarias.

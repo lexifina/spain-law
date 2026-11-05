@@ -1,0 +1,3 @@
+## Disposición final tercera. Facultad de desarrollo y aplicación.
+
+Se faculta al titular del Ministerio de Agricultura, Pesca y Alimentación para dictar cuantas disposiciones sean necesarias en el ámbito de su competencia para el desarrollo y aplicación de este real decreto; para adoptar la decisión del envío a la Comisión Europea de la solicitud de modificación del Plan Estratégico, para su aprobación conforme al artículo 22; así como para modificar los miembros que componen Comité de seguimiento del Plan Estratégico recogidos en las letras a) a d) del artículo 5.3 para adaptarlo a la normativa de la Unión Europea.

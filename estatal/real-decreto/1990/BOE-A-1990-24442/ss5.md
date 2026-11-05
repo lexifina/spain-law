@@ -1,0 +1,1 @@
+## Subsección 5.ª Regulación de la construcción de líneas ferroviarias que no hayan de formar parte de la Red Nacional Integrada, realizada por el Ministerio de Transportes, Turismo y Comunicaciones, mediante concesión a particulares o fórmulas de gestión interesadas o creación de Sociedades de economía mixta u otras fórmulas de gestión indirecta legalmente previstas

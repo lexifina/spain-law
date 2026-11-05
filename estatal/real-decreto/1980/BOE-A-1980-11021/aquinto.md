@@ -1,0 +1,41 @@
+## Artículo quinto.
+
+1. El Consejo Asesor de la Medalla al Mérito en la Investigación y en la Educación Universitaria, integrado en la Administración General del Estado a través del Ministerio de Ciencia, Innovación y universidades, tendrá como misión asesorar a la persona titular del Ministerio sobre los méritos que concurran en las personas o entidades propuestas para la concesión de esta recompensa.
+
+2. La composición del Consejo Asesor será la siguiente:
+
+a) Presidencia: la persona titular de la Secretaría de Estado de Ciencia, Innovación y Universidades.
+
+b) Vicepresidencia: la persona titular de la Subsecretaría de Ciencia, Innovación y Universidades.
+
+c) Vocalías:
+
+1.º La persona titular de la Presidencia de la Agencia Estatal Consejo Superior de Investigaciones Científicas.
+
+2.º Cuatro Rectoras o Rectores, o Exrectoras o Exrectores, a designar por la Presidencia.
+
+3.º Cuatro personalidades relevantes de la Universidad o de la Investigación, a designar por la Presidencia.
+
+4.º Tres personas que hayan sido previamente galardonadas con la Medalla al Mérito en la Investigación y en la Educación Universitaria, a designar por la Presidencia.
+
+Las personas que formen parte del Consejo Asesor serán designadas de acuerdo con el principio de presencia equilibrada de mujeres y hombres, previsto en el artículo 54 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de hombres y mujeres, así como en la disposición adicional segunda de la Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres.
+
+3. La Secretaría del Consejo Asesor será desempeñada por una persona funcionaria de carrera del Ministerio de Ciencia, Innovación y Universidades de los subgrupos A1 o A2, designada por la Presidencia, que actuará con voz pero sin voto y no formará parte del Consejo Asesor.
+
+4. Las actas de cada sesión se aprobarán en la misma reunión, de conformidad con lo dispuesto en el artículo 18.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+5. El Consejo Asesor funcionará en Pleno, y se reunirá cuando sea necesario para la valoración de las propuestas presentadas.
+
+Para la válida constitución del Consejo Asesor, a efectos de la celebración de sesiones, deliberaciones y toma de acuerdos, se requerirá la asistencia, presencial o a distancia, de la Presidencia o su suplente, y de la mitad al menos de las Vocalías.
+
+Los acuerdos serán adoptados por mayoría de votos. El voto de la Presidencia dirimirá los posibles empates que puedan surgir.
+
+6. La suplencia de la Presidencia en casos de vacante, ausencia, enfermedad, u otra causa justificada, será desempeñada por la Vicepresidencia.
+
+La suplencia de las Vocalías y de la Secretaría en casos de vacante, ausencia, enfermedad, u otra causa justificada, será desempeñada por quienes designe la Presidencia, de conformidad con los criterios indicados en este artículo para designar a dichos miembros del Consejo Asesor.
+
+7. Podrá invitarse a participar en las reuniones del Consejo Asesor al personal técnico o experto que resulte preciso para el mejor cumplimiento de sus funciones, que actuará con voz pero sin voto.
+
+8. El funcionamiento y régimen del Consejo Asesor se regulará por lo dispuesto en la sección 3.ª del capítulo II del título preliminar de la Ley 40/2015, de 1 de octubre, así como por las previsiones sobre órganos colegiados que establece la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+> Se modifica por el art. 1.4 del Real Decreto 318/2026, de 15 de abril. Ref. BOE-A-2026-8372

@@ -1,0 +1,3 @@
+## Disposición adicional decimonovena. Realización de operaciones de arrendamiento financiero por parte de entidades de derecho público autonómicas.
+
+Las entidades que, en el marco de los respectivos estatutos de autonomía, hayan sido creadas por las Comunidades Autónomas para el ejercicio de las competencias que les corresponde en relación a la política financiera y en materia de crédito público podrán, en los supuestos de adquisición de bienes por parte de las Administraciones públicas, entes de ellas dependientes y sociedades participadas mayoritariamente, realizar las actividades previstas en el apartado 8 de la disposición adicional séptima de la Ley 26/1988, de 29 de julio, de disciplina e intervención de las entidades de crédito.

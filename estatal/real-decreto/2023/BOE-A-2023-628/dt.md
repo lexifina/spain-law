@@ -1,0 +1,5 @@
+## Disposición transitoria única. Aplicación del real decreto a los materiales en contacto con el agua.
+
+1. A los efectos del artículo 44, hasta que no sean de aplicación los actos delegados de la Comisión Europea donde se establezcan los procedimientos de evaluación de la conformidad de productos y marcado, contemplados en el artículo 44.4, el fabricante de los materiales o productos a los que se hace referencia en el artículo 44 deberá emitir una declaración responsable del cumplimiento de los requisitos del artículo 44.1, justificando el cumplimiento con las listas positivas europeas de sustancias y conforme a las metodologías de ensayo y aceptación que pudieran ser aplicables. Dicha declaración deberá ser aportada junto a los citados materiales o productos durante su comercialización.
+
+2. Hasta que no estén disponibles las listas positivas europeas de sustancias, los fabricantes de materiales y productos deberán garantizar que estos cumplen con lo dispuesto en el artículo 44.1, justificando dicho cumplimiento en base al estado actual de la técnica, y emitiendo la correspondiente declaración responsable.

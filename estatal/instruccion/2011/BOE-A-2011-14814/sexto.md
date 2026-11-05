@@ -1,0 +1,11 @@
+## Sexto. Tramitación de las firmas recogidas.
+
+1. Los representantes de las candidaturas deberán adjuntar los avales que hubieran recogido a la restante documentación necesaria para la presentación de candidaturas de conformidad con la legislación electoral.
+
+2. La Junta Electoral competente remitirá las firmas presentadas a la Oficina del Censo Electoral para su verificación. En el caso de las elecciones al Congreso de los Diputados y al Senado, las firmas serán remitidas por la Junta Electoral Provincial a la Delegación Provincial correspondiente de la Oficina del Censo Electoral.
+
+3. La Oficina del Censo Electoral realizará las comprobaciones pertinentes para verificar el número y la validez de los avales presentados. Deberá en todo caso realizar las operaciones necesarias para comprobar que ninguna persona hubiera avalado más de una candidatura. En el caso de que se verifique que un mismo elector figura como avalista de más de una candidatura, los avales de dicho elector no serán tenidos en cuenta para ninguna candidatura.
+
+4. La Oficina del Censo Electoral, en función del número de candidaturas que deba comprobar y de los plazos perentorios para realizar dicha comprobación, podrá realizar esa operación mediante un sistema de muestreo aleatorio, conforme a los criterios técnicos previamente establecidos y comunicados posteriormente a la Junta Electoral competente junto a la certificación. En el caso de que mediante dicho recuento aleatorio se alcanzara un resultado negativo respecto al cumplimiento del requisito de firmas de apoyo de una candidatura, la Oficina del Censo Electoral deberá proceder a realizar la comprobación material de la validez de las firmas de esa candidatura.
+
+5. La certificación de la Oficina del Censo Electoral, o de la Delegación Provincial correspondiente, de la comprobación realizada deberá ser remitida a la Junta Electoral competente en el plazo de un día después de la publicación de las candidaturas presentadas. Las Juntas competentes comunicarán a los representantes de las candidaturas afectadas, conforme establece el artículo 47.2 de la LOREG, las irregularidades en los avales presentados o la insuficiencia de estos, concediendo el plazo de subsanación de cuarenta y ocho horas previsto en el referido precepto.

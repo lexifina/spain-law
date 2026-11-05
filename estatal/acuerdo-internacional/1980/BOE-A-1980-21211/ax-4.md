@@ -1,0 +1,13 @@
+## Artículo XIII. Comisiones.
+
+1. Las comisiones procedentes de uno de los Estados Contratantes y pagadas a un residente del otro Estado Contratante pueden someterse a imposición en este otro Estado.
+
+2. Sin embargo, estas comisiones pueden someterse también a imposición en el Estado Contratante de donde proceden y según la legislación de este Estado, pero si el perceptor de las mismas es el beneficiario efectivo, él impuesto así exigido no puede exceder del 5 por 100 de su importe bruto.
+
+3. El término «comisiones» empleado en el presente artículo significa las retribuciones pagadas a cualquier persona por los servicios por ella prestados en calidad de intermediario; el termino no comprende las retribuciones pagadas a título de rentas derivadas de actividades Independientes comprendidas en el artículo XV, o de rentas de profesiones dependientes comprendidas en el artículo XVI.
+
+4. Las disposiciones de los párrafos 1 y 2 no se aplican si el beneficiario de las comisiones, residente de un Estado Contratante, ejerce en el otro Estado Contratante de donde proceden las comisiones una actividad industrial o comercial a través de un establecimiento permanente, tal como se define en el artículo V, que esté allí situado, o ejerce una profesión liberal por medio de una base fija allí situada, con los que estén vinculadas efectivamente las citadas comisiones. En estos casos se aplicarán las disposiciones del artículo VII o del artículo XV, según proceda.
+
+5. Las comisiones se consideran procedentes de un Estado Contratante cuando el deudor es el propio Estado, una subdivisión política, una subdivisión administrativa territorial, una colectividad local o un residente de este Estado. Sin embargo, cuando el deudor de las comisiones, sea o no residente de un Estado Contratante, tenga en un Estado Contratante un establecimiento permanente o una base fija en relación con los cuales se ha contraído la obligación de pagar las comisiones y soporten la carga de las mismas, éstas se considerarán procedentes del Estado Contratante donde estén situados el establecimiento permanente o la base fija.
+
+6. Cuando, por razón de las relaciones especiales existentes entre el deudor y el acreedor o de las que uno y otro mantengan con terceras personas, el importe de las comisiones, habida cuenta de los servicios por los que se paguen, exceda del importe normal que hubieran convenido el deudor y el acreedor en ausencia de tales relaciones, las disposiciones de este artículo no se aplican más que a este último importe. En este caso, el exceso de las comisiones podrá someterse a imposición de acuerdo con la legislación de cada Estado Contratante, y teniendo en cuenta las demás disposiciones de este Convenio.

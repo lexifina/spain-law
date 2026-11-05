@@ -1,0 +1,3 @@
+## Disposición final quinta. Habilitación normativa.
+
+Se habilita a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico para que modifique el anexo, mediante orden ministerial, sólo en aquellos aspectos en los que se considere que el mejor conocimiento científico haya constatado la necesidad de nuevos tipos de medidas de gestión adecuadas para los hábitats y especies marinos en el ámbito de las competencias del referido departamento, y sin perjuicio de la habilitación adicional a la persona titular del Ministerio de Agricultura, Pesca y Alimentación cuando las modificaciones afecten a las reservas marinas de interés pesquero.

@@ -1,0 +1,3 @@
+## Disposición adicional única. Referencias a los órganos de las comunidades autónomas con competencias en materia de defensa de la competencia.
+
+Las referencias al Tribunal de Defensa de la Competencia y al Servicio de Defensa de la Competencia contenidas en este real decreto se entenderán efectuadas a los órganos competentes de las comunidades autónomas cuando las potestades administrativas y los procedimientos en él regulados se ejerzan o tramiten en relación con conductas que, de conformidad con lo dispuesto en el artículo 1 de la Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia, sean competencia de las comunidades autónomas.

@@ -1,0 +1,3 @@
+## Disposición transitoria séptima.
+
+Cuando el número de funcionarios pertenecientes al Cuerpo a que se refiere el apartado 3 del artículo 8 del presente Estatuto sea tal que imposibilite o dificulte en exceso la cobertura por el sistema de libre designación de los puestos directivos de nueva creación reservados al mismo, podrá asignarse transitoriamente el desempeño de sus funciones a aquellos miembros del personal laboral que viniesen prestando sus servicios en las Cámaras, o a alguno de los funcionarios que menciona el artículo 3, siempre que reúnan la titulación exigida para acceder a dicho puesto, en tanto no se incremente de modo suficiente el número de aquéllos y siempre que esté previsto en las plantillas orgánicas.

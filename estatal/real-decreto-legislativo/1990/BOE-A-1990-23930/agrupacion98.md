@@ -1,0 +1,95 @@
+## Agrupación 98. Parques de recreo, ferias y otros servicios relacionados con el espectáculo. Organización de congresos. Parques o recintos feriales.
+
+## Grupo 981. Jardines, parques de recreo o de atracciones y acuáticos y pistas de patinaje.
+
+Epígrafe 981.1 Curiosidades, bien naturales o artificiales, en parques, castillos, grutas, cuevas, etc.
+
+Cuota de: 72.450 pesetas. (435,43 euros)
+
+Epígrafe 981.2 Jardines de recreo en los que la entrada es por precio.
+
+Cuota de: 31.050 pesetas. (186,61 euros)
+
+Epígrafe 981.3 Parques de atracciones, incluidos los acuáticos y análogos, de carácter estable.
+
+Cuota de:
+
+Por cada atracción: 9.108 pesetas. (54,740182 euros)
+
+Nota: En aquellos parques de atracciones que permanezcan abiertos menos de ocho meses al año, su cuota será el 70 por ciento de la señalada en este epígrafe.
+
+## Grupo 982. Tómbolas, espectáculos y juegos, así como comercio al por menor y servicios de restauración, propios de ferias y verbenas, organización y celebración de apuestas deportivas, loterías y otros juegos.
+
+Epígrafe 982.1. Tómbolas y tarifas autorizadas en establecimiento permanente.
+
+Cuota de: 31.050 pesetas. (186,61 euros)
+
+Epígrafe 982.2. Tómbolas y rifas autorizadas, fuera de establecimiento permanente.
+
+Cuota mínima municipal de: 15.525 pesetas. (93,31 euros)
+
+Cuota provincial de: 38.813 pesetas. (233,27 euros)
+
+Cuota nacional de: 91.287 pesetas. (548,65 euros)
+
+Epígrafe 982.3. Exposición de figuras de cera en establecimiento permanente.
+
+Cuota de: 10.350 pesetas. (62,20 euros)
+
+Epígrafe 982.4. Otras atracciones, comercio al por menor y servicios de restauración propios de ferias y verbenas, fuera de establecimiento permanente.
+
+Por cada atracción, punto de venta o instalación en la que se preste el servicio de restauración:
+
+Cuota mínima municipal de: 6.210 pesetas. (37,322852 euros)
+
+Cuota provincial de: 18.630 pesetas. (111,968555 euros)
+
+Cuota nacional de: 31.050 pesetas. (186,614258 euros)
+
+Nota: En este epígrafe se matricularán los sujetos pasivos que realicen las actividades reseñadas en la rúbrica, ejercitándolas, en régimen de ambulancia, en ferias y verbenas de carácter no permanente.
+
+Epígrafe 982.5. Organización y celebración de Apuestas Deportivas, Loterías y otros juegos.
+
+Cuota mínima municipal de: 80.813 pesetas. (485,70 euros)
+
+Cuota provincial de: 202.032 pesetas. (1.214,24 euros)
+
+Cuota nacional de: 414.000 pesetas. (2.488,19 euros)
+
+## Grupo 983. Agencias de colocación de artistas.
+
+Cuota de: 82.800 pesetas. (497,64 euros)
+
+## Grupo 989. Otras actividades relacionadas con el espectáculo y el turismo. Organización de congresos. Parques o recintos feriales.
+
+Epígrafe 989.1 Expedición de billetes de espectáculos públicos.
+
+Cuota de: 15.525 pesetas. (93,31 euros)
+
+Epígrafe 989.2 Servicios de organización de congresos, asambleas y similares.
+
+Cuota de: 28.670 pesetas. (172,31 euros)
+
+Epígrafe 989.3. Parques o recintos feriales.
+
+Cuota mínima municipal de: 103.500 pesetas. (622,05 euros)
+
+Notas:
+
+1.ª Este epígrafe comprende todos los servicios necesarios para la explotación de parques o recintos feriales, excepto los clasificados en el epígrafe 674.7 de esta sección
+
+2.ª Las personas o Entidades que utilicen los parques o recintos feriales para la exposición, comercialización, muestra o información de sus productos o actividades, en las casetas o «stand» que compongan aquellos parques o recintos, no deberán satisfacer cuota adicional alguna siempre que figuren debidamente matriculados en el Impuesto sobre Actividades Económicas por su respectiva actividad.
+
+3.ª Para el cálculo del elemento tributario superficie se imputará a los sujetos pasivos clasificados en este epígrafe la superficie correspondiente al parque o recinto ferial en su conjunto, excepto la ocupada por los servicios clasificados en el epígrafe 674.7 de esta Sección, la cual se imputará a los titulares de dichos servicios.
+
+> Se añade un nota al epígrafe 981.3, con efectos desde el 1 de enero de 2013, por el art. 15.1 de la Ley 16/2012, de 27 de diciembre. Ref. BOE-A-2012-15650.
+
+> Se incrementan en un 3,5 por 100 las cuotas, por el art. 26.1.a) del Real Decreto Ley 12/1995, de 28 de diciembre. Ref. BOE-A-1995-27964.
+
+> Téngase en cuenta que a partir de 1 de enero de 2002, las cantidades en pesetas se han de convertir a euros.
+
+> Se modifica por el art. 75.1.44 a 47 de la Ley 39/1992, de 29 de diciembre. Ref. BOE-A-1992-28826.
+
+> Téngase en cuenta para su aplicación el art. 75.3.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 1993. Ref. BOE-A-1993-4117.

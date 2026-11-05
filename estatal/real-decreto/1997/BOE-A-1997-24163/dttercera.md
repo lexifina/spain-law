@@ -1,0 +1,9 @@
+## Disposición transitoria tercera. Aplicación de legislación anterior para causar derecho a pensión de jubilación.
+
+1. Los trabajadores que, en la fecha de entrada en vigor de la Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del Sistema de Seguridad Social, tuvieran cubiertos todos los requisitos para causar derecho a cualquiera de las modalidades de jubilación reguladas en la legislación precedente, pero que no hubieran cesado en su trabajo, mantendrán la opción por aquel derecho en las mismas condiciones exigidas y con la cuantía que les hubiera correspondido el día anterior a dicha fecha, aplicando para la determinación de su importe las normas sobre revalorización que procedan.
+
+2. En los supuestos de opción en favor de la aplicación de la legislación anterior a que se refieren el apartado precedente, las cotizaciones efectuadas a partir de la entrada en vigor de la Ley 24/1997, de 15 de julio, de Consolidación y Racionalización del Sistema de Seguridad Social, no se computarán a efecto alguno para la determinación de la pensión de jubilación, ni procederá su devolución.
+
+3. Los derechos a pensión de jubilación causados y no ejercitados con anterioridad a la entrada en vigor de la Ley 24/1997, de 15 de julio, se reconocerán por la legislación anterior a aquélla. No obstante, en estos supuestos y a opción de los interesados, podrá ser de aplicación la Ley 24/1997, cuando aquéllos soliciten la jubilación, con posterioridad a la entrada en vigor de dicha Ley, no estando los mismos en alta o en situación asimilada al alta.
+
+4. La opción prevista en los apartados 1 y 3 de esta disposición transitoria tendrá, en todo caso, carácter irrevocable. A tal efecto, la entidad gestora ofrecerá a los interesados con derecho a opción una información clara, acerca de los resultados que se derivan de la aplicación de cada una de las legislaciones.

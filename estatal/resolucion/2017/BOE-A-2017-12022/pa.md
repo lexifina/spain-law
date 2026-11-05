@@ -1,0 +1,3 @@
+El Director del Instituto Nacional de Gestión Sanitaria, el representante del Consorcio de Compensación de Seguros y la Presidenta de la Unión Española de Entidades Aseguradoras y Reaseguradoras, han suscrito, con fecha 11 de septiembre de 2017, un Convenio de asistencia sanitaria pública derivada de accidentes de tráfico para los ejercicios 2017, 2018, 2019 y 2020.
+
+Para general conocimiento, y en cumplimiento de lo establecido en el artículo 48.8 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, dispongo la publicación en el «Boletín Oficial del Estado», del referido Convenio, como anejo a la presente Resolución.

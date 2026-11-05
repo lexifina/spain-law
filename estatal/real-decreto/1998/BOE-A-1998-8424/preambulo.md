@@ -1,0 +1,15 @@
+La Ley 13/1996, de 30 de diciembre, de Medidas fiscales, administrativas y de orden social, establece, en su disposición adicional décima, que el Gobierno aprobará las disposiciones normativas que sean necesarias a los efectos de computar, para los religiosos y sacerdotes secularizados, el tiempo que estuvieron ejerciendo su ministerio o religión, y en el que no les fue permitido cotizar por su falta de inclusión en el sistema de la Seguridad Social, con objeto de que se les reconozca el derecho a la percepción de la pensión de jubilación denegada o a una cuantía superior a la que tienen reconocida.
+
+A la hora de abordar la regulación señalada se hace preciso distinguir dos colectivos: de una parte, las personas que, por falta de cotización necesaria, no han podido tener derecho a una pensión de jubilación en el sistema de Seguridad Social; de otra, aquellas que, a pesar de no haber podido cotizar por períodos anteriores a la secularización, sin embargo, a través de cotizaciones posteriores, han podido generar derecho a la clase de pensión señalada.
+
+No obstante, teniendo en cuenta la situación más desfavorable en que se encuentra el primero de los colectivos indicados, resulta conveniente abordar en un primer momento el desarrollo legal en lo que respecta a quienes carecen de pensión de jubilación, y que, si se computa, siquiera sea parcialmente, el tiempo de ejercicio ministerial o de religión, generarían derecho a la misma.
+
+A tal finalidad responde el presente Real Decreto, mediante el que se da cumplimiento parcial al contenido de la disposición adicional décima de la Ley 13/1996. A través del mismo, y para los sacerdotes y religiosos o religiosas de la Iglesia Católica secularizados, se consideran, como cotizados a la Seguridad Social y a efectos de completar el período mínimo de cotización actualmente exigible para la pensión contributiva de jubilación, los períodos que sean necesarios y que coincidan en el tiempo con el ejercicio del ministerio o de religión, con anterioridad a la fecha de inclusión en la Seguridad Social del colectivo de sacerdotes o de religiosos y religiosas de dicha Iglesia.
+
+En el cómputo de esos períodos se ha procurado buscar la mayor aproximación posible con la regulación que se dio, en su día, respecto a los sacerdotes y religiosos de la Iglesia Católica, de edad avanzada en el momento de la incorporación a la Seguridad Social de los respectivos colectivos.
+
+La regulación contenida en el presente Real Decreto no agota el desarrollo reglamentario de la disposición adicional décima de la Ley 13/1996, sino que, por las razones indicadas, constituye un primer paso, que deberá completarse posteriormente, a través de un segundo Real Decreto, que permita el cómputo de todos los períodos de ejercicio ministerial o de religión, en los términos señalados en el último inciso de la citada disposición adicional.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de marzo de 1998,
+
+## D I S P O N G O :

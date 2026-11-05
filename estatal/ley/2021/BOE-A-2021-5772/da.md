@@ -1,0 +1,3 @@
+## Disposición adicional primera. Empleados públicos.
+
+El Ministerio de Política Territorial y Función Pública y los competentes en las comunidades autónomas y entidades locales quedan habilitados para dictar las instrucciones y resoluciones que sean necesarias para regular la prestación de servicios de los empleados públicos incluidos en el ámbito de aplicación del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, con el objeto de mantener el funcionamiento de los servicios públicos que se consideren esenciales.

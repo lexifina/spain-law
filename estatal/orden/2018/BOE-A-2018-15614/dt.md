@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen sancionador.
+
+De acuerdo con la disposición transitoria única del Real Decreto 1617/2007, de 7 de diciembre, hasta que se apruebe por Ley un régimen específico sancionador en materia de protección portuaria, en caso de incumplimiento de la normativa en dicha materia se aplicará el régimen previsto en el título IV, libro III del texto refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por Real Decreto Legislativo 2/2011, de 5 de septiembre, el título II de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno o, cuando corresponda, las normas reguladoras de la seguridad pública.

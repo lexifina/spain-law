@@ -1,0 +1,27 @@
+La Ley Orgánica 5/2005, de 17 de noviembre, de la Defensa Nacional, establece que la incorporación adicional de ciudadanos a la Defensa se apoyará en el principio de contribución gradual y proporcionada a la situación de amenaza que sea necesario afrontar, ya que conseguir una adecuada respuesta ante situaciones de crisis o conflictos armados puede requerir la aportación de toda clase de recursos.
+
+La derogada Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, ya consignaba la aportación de recursos humanos para la Defensa, al definir a los reservistas como los españoles que podrían ser llamados a incorporarse a las Fuerzas Armadas para satisfacer las necesidades de la defensa nacional, y clasificaba a los reservistas en temporales, voluntarios y obligatorios.
+
+Posteriormente, la Ley 8/2006, de 24 de abril, de Tropa y Marinería, creó la figura del reservista de especial disponibilidad, a la que podrían acceder los militares de tropa y marinería cuando finalicen sus compromisos de larga duración y establecía las condiciones para su incorporación, cuando se les requiera, a las Fuerzas Armadas.
+
+Finalmente, la Ley 39/2007, de 19 de noviembre, de la carrera militar, concreta que el conjunto de reservistas susceptibles de incorporación a las Fuerzas Armadas en situaciones de crisis, queda definido por los reservistas voluntarios, los reservistas de especial disponibilidad y los reservistas obligatorios, adquiriendo gran relevancia los primeros. En este sentido representa un hito más en la implantación del modelo de reservista voluntario ya que, a lo largo de su articulado, proporciona un nuevo impulso al desarrollo de esta figura. Además, contempla la desaparición de los reservistas temporales y hace extensiva a los militares de complemento procedentes de la Ley 17/1999, de 18 de mayo, la posibilidad de adquirir la condición de reservista.
+
+Por otro lado, para los militares de complemento y de tropa y marinería que finalicen o resuelvan sus compromisos, y con ello su relación profesional con las Fuerzas Armadas, y para los militares de carrera que renuncien a su condición militar, se abre una nueva posibilidad de continuar vinculados a las Fuerzas Armadas mediante la adquisición de la condición de reservista voluntario, con unas áreas de trabajo y cometidos acordes con su anterior condición militar.
+
+En situaciones de crisis en que las necesidades de la defensa nacional no puedan ser atendidas por los efectivos de militares profesionales, serán los reservistas voluntarios y los de especial disponibilidad los primeros en incorporarse a las Fuerzas Armadas, para lo que, con carácter excepcional, el Consejo de Ministros adoptará las medidas que considere oportuno. Si la evolución de la situación hace prever que dichas necesidades no se verán satisfechas con las incorporaciones ni con los efectivos que resulten de las sucesivas convocatorias para acceso a la condición de reservista voluntario, se producirá la incorporación de los reservistas obligatorios, para lo que el Consejo de Ministros necesitará la autorización del Congreso de los Diputados.
+
+Para dar respuesta a las previsiones de desarrollo reglamentario establecidas en el título VI de la Ley 39/2007, de 19 de noviembre, y en el capítulo V de la Ley 8/2006, de 24 de abril, en el marco de la Ley Orgánica 5/2005, de 17 de noviembre, con criterios de regulación unitaria y claridad sistemática, el reglamento se estructura en cinco capítulos, que tienen vocación de dar un tratamiento normativo completo al régimen de los reservistas definidos por la legislación vigente.
+
+El capítulo I, que contiene las disposiciones generales, establece el objeto y ámbito de aplicación del reglamento, la definición y clasificación de los reservistas; las competencias, el alcance de la situación de disponibilidad, la definición y el marco de las asociaciones de reservistas así como el apoyo a los empleadores de reservistas, aspecto este último de especial importancia para el buen funcionamiento del modelo de reservistas establecido por la ley.
+
+El capítulo II, dedicado al reservista voluntario, determina en siete secciones la selección y su formación; la adquisición de la condición y compromisos que puede formalizar; la pérdida de tal condición; los empleos y los destinos, y la forma en que han de ascender; las situaciones y su activación; su régimen y cometidos; las diversas incorporaciones; y, finalmente, sus derechos y deberes.
+
+El capítulo III regula la adquisición, el régimen, la activación y la pérdida de la condición del reservista de especial disponibilidad.
+
+En el capítulo IV se concretan aspectos inherentes a la condición de reservista obligatorio, tales como la forma de determinar el número de efectivos y el trámite administrativo que se requiere hasta la notificación de la condición; las causas que permiten suspender su incorporación; la objeción de conciencia; la forma en que serán activados y formados; el régimen que les resulta de aplicación; y el cese en la condición militar del reservista obligatorio.
+
+Finaliza el reglamento con el capítulo V, relativo al régimen jurídico que ampara las actuaciones derivadas de la aplicación del mismo.
+
+En su virtud, a propuesta de la Ministra de Defensa, con la aprobación previa de la Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de marzo de 2011,
+
+DISPONGO:

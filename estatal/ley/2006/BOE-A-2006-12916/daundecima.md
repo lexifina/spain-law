@@ -1,0 +1,11 @@
+## Disposición adicional undécima. Requisitos y principios básicos de los programas de formación para los mediadores de seguros y corredores de reaseguros y demás personas que participan en la mediación de los seguros y reaseguros privados.
+
+1. En el plazo de un mes a partir de la entrada en vigor de la Ley, la Dirección General de Seguros y Fondos de Pensiones dictará una resolución para establecer las líneas generales y los principios básicos que habrán de cumplir los cursos y programas de formación exigidos en esta Ley a fin de acreditar los conocimientos necesarios para el ejercicio de las funciones propias de los mediadores de seguros y de reaseguros, de las personas que formen parte de las redes de distribución de los operadores de banca-seguros, y de los empleados y auxiliares de los mediadores de seguros y de reaseguros que participen directamente en la mediación de los seguros o reaseguros.
+
+Para asegurar el nivel de profesionalidad adecuado de las personas a las que se refiere el párrafo anterior, la Dirección General de Seguros y Fondos de Pensiones establecerá las líneas generales y los requisitos básicos que habrán de cumplir los programas de formación en cuanto a su contenido, duración, medios precisos para su organización y sistemas de control.
+
+2. A efectos de lo dispuesto en el artículo 39 de esta Ley, además de lo previsto en el apartado anterior, las personas que participen en los cursos de formación y en las pruebas de aptitud en materias financieras y de seguros privados deberán acreditar, en el momento de su comienzo, el requisito mínimo de estar en posesión del título de bachiller o equivalente.
+
+El contenido y duración de los cursos en materias de seguros y financieras y de seguros privados se modulará en función de la titulación y de los conocimientos previos, adquiridos mediante la superación de programas de formación o la experiencia profesional en seguros y reaseguros privados, que acrediten dichas personas en el momento de su comienzo.
+
+La Dirección General de Seguros y Fondos de Pensiones podrá requerir que se efectúen las modificaciones que resulten necesarias para adecuar los citados cursos al deber de formación previsto en esta Ley.

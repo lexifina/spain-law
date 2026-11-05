@@ -1,0 +1,1 @@
+Téngase en cuenta que las limitaciones previstas en el presente Acuerdo se aplicaron hasta las 18:00 horas del 30 de marzo de 2021, última prórroga acordada por el Consejo de Ministros, publicada por Orden PCM/222/2021, de 10 de marzo. Ref. BOE-A-2021-3839#pr, por lo que debe entenderse que esta norma ha perdido su vigencia.

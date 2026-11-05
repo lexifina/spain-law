@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Plazo de solicitud de aplicación de coeficientes de actualización de valores catastrales.
+
+Con vigencia exclusiva para el ejercicio 2019, el plazo previsto en el artículo 32.2.c) del texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo, de solicitud a la Dirección General del Catastro de aplicación de los coeficientes en función del año de entrada en vigor de la correspondiente ponencia de valores del municipio, se amplía hasta el 31 de julio de 2019. De los correspondientes acuerdos se dará traslado al citado Centro Directivo dentro de dicho plazo.

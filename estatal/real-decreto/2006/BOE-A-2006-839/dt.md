@@ -1,0 +1,5 @@
+## Disposición transitoria decimotercera. Cómputo de tiempo de servicio de letrados o letradas de la Administración de Justicia que hubieran ocupado puestos de Secretario o Secretaria de Gobierno o Secretario Coordinador o Secretaria Coordinadora Provincial con anterioridad a la entrada en vigor de la Ley Orgánica 7/2015, de 21 de julio, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial.
+
+A los letrados o letradas de la Administración de Justicia que hubieran ocupado puestos de Secretario o Secretaria de Gobierno o Secretario Coordinador o Secretaria Coordinadora Provincial con anterioridad a la entrada en vigor de la Ley Orgánica 7/2015, de 21 de julio, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial les será computado el tiempo durante el que no se les reconoció reserva de plaza como tiempo de servicio en el órgano en el que cesaron para ocupar dichos puestos a todos los efectos que les resulten favorables.
+
+> Se añade por el art. 2.2 del Real Decreto 1280/2024, de 17 de diciembre. Ref. BOE-A-2024-26773

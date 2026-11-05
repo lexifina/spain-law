@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación de la Orden SND/370/2020, de 25 de abril, sobre las condiciones en las que deben desarrollarse los desplazamientos por parte de la población infantil durante la situación de crisis sanitaria ocasionada por el COVID-19.
+
+Se modifica el apartado 1 del artículo 2 de la Orden SND/370/2020, de 25 de abril, sobre las condiciones en las que deben desarrollarse los desplazamientos por parte de la población infantil durante la situación de crisis sanitaria ocasionada por el COVID-19, que queda redactado en los siguientes términos:
+
+> «1. Se habilita a los niños y niñas, y a un adulto responsable, a circular por las vías o espacios de uso público, de acuerdo con lo previsto en el artículo 7.1, párrafos e), g) y h), del Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, respecto a la circulación permitida por causas de asistencia y cuidado de personas menores, situación de necesidad y cualquier otra actividad de análoga naturaleza, siempre y cuando se respeten los requisitos establecidos en esta orden para evitar el contagio.
+
+> Dicha circulación queda limitada a la realización de un paseo diario, de máximo una hora de duración y a una distancia no superior a un kilómetro con respecto al domicilio del menor, entre las 12:00 horas y las 19:00 horas.»

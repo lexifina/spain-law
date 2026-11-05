@@ -1,0 +1,91 @@
+## ANEXO III-A
+
+## Municipios comprendidos en áreas donde son previsibles sismos de intensidad igual o superior a VII según los estudios de peligrosidad sísmica de España para el periodo de retorno de 475 años realizados por el Instituto Geográfico Nacional
+
+Comunidad Autónoma de Andalucía
+
+Provincia de Almería
+
+Abla, Abrucena, Adra, Albanchez, Alboloduy, Albox, Alcolea, Alcóntar, Alcudia de Monteagud, Alhabia, Alhama de Almería, Alicún, Almería, Almócita, Alsodux, Antas, Arboleas, Armuña de Almanzora, Bacares, Balanegra, Bayárcal, Bayarque, Bédar, Beires, Benahadux, Benitagla, Benizalón, Bentarique, Berja, Canjáyar, Cantoria, Carboneras, Castro de Filabres, Chercos, Chirivel, Cóbdar, Cuevas del Almanzora, Dalías, El Ejido, Enix, Felix, Fines, Fiñana, Fondón, Gádor, Garrucha, Gérgal, Huécija, Huércal de Almería, Huércal-Overa, Íllar, Instinción, La Mojonera, Laroya, Las Tres Villas, Láujar de Andarax, Líjar, Los Gallardos, Lubrín, Lucainena de las Torres, Lúcar, Macael, María, Mojácar, Nacimiento, Níjar, Ohanes, Olula de Castro, Olula del Río, Oria, Padules, Partaloa, Paterna del Río, Pechina, Pulpí, Purchena, Rágol, Rioja, Roquetas de Mar, Santa Cruz de Marchena, Santa Fe de Mondújar, Senés, Serón, Sierro, Somontín, Sorbas, Suflí, Tabernas, Taberno, Tahal, Terque, Tíjola, Turre, Turrillas, Uleila del Campo, Urrácal, Velefique, Vélez-Blanco, Vélez-Rubio, Vera, Viator, Vícar, Zurgena.
+
+Provincia de Cádiz
+
+Alcalá de los Gazules, Alcalá del Valle, Algar, Algodonales, Arcos de la Frontera, Benaocaz, Bornos, Cádiz, Chiclana de la Frontera, Chipiona, El Bosque, El Gastor, El Puerto de Santa María, Espera, Grazalema, Jerez de la Frontera, Jimena de la Frontera, Olvera, Prado del Rey, Puerto Real, Puerto Serrano, Rota, San Fernando, San José del Valle, San Martín del Tesorillo, San Roque, Sanlúcar de Barrameda, Setenil de las Bodegas, Torre Alháquime, Trebujena, Ubrique, Villaluenga del Rosario, Villamartín, Zahara.
+
+Provincia de Córdoba
+
+Aguilar de la Frontera, Almedinilla, Baena, Benamejí, Cabra, Cañete de las Torres, Carcabuey, Castro del Río, Córdoba, Doña Mencía, Encinas Reales, Espejo, Fernán-Núñez, Fuente Palmera, Fuente-Tójar, Iznájar, La Carlota, La Guijarrosa, La Rambla, La Victoria, Lucena, Luque, Montalbán de Córdoba, Montemayor, Montilla, Monturque, Moriles, Nueva Carteya, Palenciana, Priego de Córdoba, Puente Genil, Rute, San Sebastián de los Ballesteros, Santaella, Valenzuela, Zuheros.
+
+Provincia de Granada
+
+Agrón, Alamedilla,Albolote, Albondón, Albuñán, Albuñol, Albuñuelas, Aldeire, Alfacar, Algarinejo, Alhama de Granada, Alhendín, Alicún de Ortega, Almegíjar, Almuñécar, Alpujarra de la Sierra, Alquife, Arenas del Rey, Armilla, Atarfe, Baza, Beas de Granada, Beas de Guadix, Benalúa, Benalúa de las Villas, Benamaurel, Bérchules, Bubión, Busquístar, Cacín, Cádiar, Cájar, Calicasas, Campotéjar, Caniles, Cáñar, Capileira, Carataunas, Cástaras, Castilléjar, Castril, Cenes de la Vega, Chauchina, Chimeneas, Churriana de la Vega, Cijuela, Cogollos de Guadix, Cogollos de la Vega, Colomera, Cortes de Baza, Cortes y Graena, Cuevas del Campo, Cúllar, Cúllar Vega, Darro, Dehesas de Guadix, Dehesas Viejas, Deifontes, Diezma, Dílar, Dólar, Domingo Pérez de Granada, Dúdar, Dúrcal, El Pinar, El Valle, Escúzar, Ferreira, Fonelas, Fornes, Freila, Fuente Vaqueros, Galera, Gobernador, Gójar, Gor, Gorafe, Granada. Guadahortuna, Guadix,Gualchos, Güéjar Sierra, Güevéjar, Huélago, Huéneja, Huéscar, Huétor de Santillán, Huétor Tájar, Huétor Vega, Íllora, Ítrabo, Iznalloz, Játar, Jayena, Jérez del Marquesado, Jete, Jun, Juviles, La Calahorra, La Malahá, La Peza, La Taha, La Zubia, Láchar, Lanjarón, Lanteira, Las Gabias, Lecrín, Lentegí, Lobras, Loja, Los Guájares, Lugros, Lújar, Maracena, Marchal, Moclín, Molvízar, Monachil, Montefrío, Montejícar, Montillana, Moraleda de Zafayona, Morelábor, Motril, Murtas, Nevada, Nigüelas, Nívar, Ogíjares, Orce, Órgiva, Otívar, Padul, Pampaneira, Pedro Martínez, Peligros, Pinos Genil, Pinos Puente, Píñar, Polícar, Polopos, Pórtugos, Puebla de Don Fadrique, Pulianas, Purullena, Quéntar, Rubite, Salar, Salobreña, Santa Cruz del Comercio, Santa Fe, Soportújar, Sorvilán, Torre-Cardela, Torrenueva Costa, Torvizcón, Trevélez, Turón, Ugíjar, Valderrubio, Valle del Zalabí, Válor, Vegas del Genil, Vélez de Benaudalla, Ventas de Huelma, Villa de Otura, Villamena, Villanueva de las Torres, Villanueva Mesía, Víznar, Zafarraya, Zagra, Zújar.
+
+Provincia de Huelva
+
+Aljaraque, Almonte, Ayamonte, Bonares, Cartaya, Gibraleón, Hinojos, Huelva, Isla Cristina, Lepe, Lucena del Puerto, Moguer, Niebla, Palos de la Frontera, Punta Umbría, Rociana del Condado, San Juan del Puerto, San Silvestre de Guzmán, Trigueros, Villablanca.
+
+Provincia de Jaén
+
+Albanchez de Mágina, Alcalá la Real, Alcaudete, Arjona, Baeza, Bedmar y Garcíez, Bélmez de la Moraleda, Cabra del Santo Cristo, Cambil, Campillo de Arenas, Cárcheles, Castillo de Locubín, Cazalilla, Escañuela, Frailes, Fuensanta de Martos, Fuerte del Rey, Higuera de Calatrava, Hinojares, Huelma, Huesa, Jaén, Jamilena, Jimena, Jódar, La Guardia de Jaén, Lahiguera, Larva, Los Villares, Mancha Real, Martos, Mengíbar, Noalejo, Peal de Becerro, Pegalajar, Porcuna, Pozo Alcón, Quesada, Santiago de Calatrava, Torredelcampo, Torredonjimeno, Torres, Valdepeñas de Jaén, Villardompardo, Villatorres.
+
+Provincia de Málaga
+
+Alameda, Alcaucín, Alfarnate, Alfarnatejo, Algarrobo, Algatocín, Alhaurín de la Torre, Alhaurín el Grande, Almáchar, Almargen, Almogía, Álora, Alozaina, Alpandeire, Antequera, Árchez, Archidona, Ardales, Arenas, Arriate, Atajate, Benadalid, Benahavís, Benalauría, Benalmádena, Benamargosa, Benamocarra, Benaoján, Benarrabá, Campillos, Canillas de Aceituno, Canillas de Albaida, Cañete la Real, Carratraca, Cartajima, Cártama, Casabermeja, Casarabonela, Casares, Coín, Colmenar, Comares, Cómpeta, Cortes de la Frontera, Cuevas Bajas, Cuevas de San Marcos, Cuevas del Becerro, Cútar, El Borge, El Burgo, Estepona, Faraján, Frigiliana, Fuengirola, Fuente de Piedra, Gaucín, Genalguacil, Guaro, Humilladero, Igualeja, Istán, Iznate, Jimera de Líbar, Jubrique, Júzcar, Macharaviaya, Málaga, Manilva, Marbella, Mijas, Moclinejo, Mollina, Monda, Montecorto, Montejaque, Nerja, Ojén, Parauta, Periana, Pizarra, Pujerra, Rincón de la Victoria, Riogordo, Ronda, Salares, Sayalonga, Sedella, Serrato, Sierra de Yeguas, Teba, Tolox, Torremolinos, Torrox, Totalán, Valle de Abdalajís, Vélez-Málaga, Villanueva de Algaidas, Villanueva de la Concepción, Villanueva de Tapia, Villanueva del Rosario, Villanueva del Trabuco, Viñuela, Yunquera.
+
+Provincia de Sevilla
+
+Aguadulce, Algámitas, Arahal, Aznalcázar, Badolatosa, Casariche, Coripe, Écija, El Coronil, El Palmar de Troya, El Rubio, El Saucejo, Estepa, Gilena, Herrera, La Puebla de Cazalla, La Puebla del Río, La Roda de Andalucía, Lantejuela, Las Cabezas de San Juan, Lora de Estepa, Los Corrales, Los Molares, Marchena, Marinaleda, Martín de la Jara, Montellano, Morón de la Frontera, Osuna, Paradas, Pedrera, Pruna, Utrera, Villanueva de San Juan.
+
+Comunidad Autónoma de Aragón
+
+Provincia de Huesca
+
+Aisa, Ansó, Aragüés del Puerto, Benasque, Bielsa, Biescas, Bisaurri, Bonansa, Borau, Broto, Canal de Berdún, Canfranc, Castejón de Sos, Castiello de Jaca, Chía, El Pueyo de Araguás, Fago, Fanlo, Fiscal, Gistaín, Hoz de Jaca, Jaca, Jasa, La Fueva, Laspaúles, Montanuy, Panticosa, Plan, Puértolas, Sabiñánigo, Sahún, Sallent de Gállego, San Juan de Plan, Seira, Sesué, Tella-Sin, Torla-Ordesa, Valle de Hecho, Villanova, Villanúa, Yésero.
+
+Provincia de Zaragoza
+
+Salvatierra de Esca, Sigüés.
+
+Comunidad Autónoma de Castilla La Mancha
+
+Provincia de Albacete
+
+Albatana, Almansa, Caudete, Hellín, Montealegre del Castillo, Nerpio, Ontur, Tobarra.
+
+Comunidad Autónoma de Cataluña
+
+Provincia de Barcelona
+
+Alpens, Arenys de Mar, Arenys de Munt, Argentona, Bagà, Borredà, Caldes d'Estrac, Calella, Calldetenes, Campins, Canet de Mar, Cànoves i Samalús, Cardedeu, Castell de l'Areny, Castellar de n'Hug, Cercs, Dosrius, El Brull, Figaró-Montmany, Fígols, Fogars de la Selva, Fogars de Montclús, Folgueroles, Gisclareny, Gualba, Guardiola de Berguedà, Gurb, La Garriga, La Nou de Berguedà, La Pobla de Lillet, La Roca del Vallès, Les Franqueses del Vallès, Les Masies de Roda, Les Masies de Voltregà, L'Esquirol, Llinars del Vallès, Lluçà, Malgrat de Mar, Manlleu, Mataró, Montesquiu, Montseny, Orís, Òrrius, Palafolls, Pineda de Mar, Roda de Ter, Rupit i Pruit, Saldes, Sant Agustí de Lluçanès, Sant Andreu de Llavaneres, Sant Antoni de Vilamajor, Sant Boi de Lluçanès, Sant Cebrià de Vallalta, Sant Celoni, Sant Esteve de Palautordera, Sant Iscle de Vallalta, Sant Jaume de Frontanyà, Sant Julià de Cerdanyola, Sant Julià de Vilatorta, Sant Pere de Torelló, Sant Pere de Vilamajor, Sant Pol de Mar, Sant Quirze de Besora, Sant Sadurní d'Osormort, Sant Vicenç de Montalt, Sant Vicenç de Torelló, Santa Maria de Besora, Santa Maria de Palautordera, Santa Susanna, Seva, Sora, Tagamanent, Tavèrnoles, Tavertet, Tordera, Torelló, Vallcebre, Vallgorguina, Vilalba Sasserra, Vilanova de Sau.
+
+Provincia de Girona
+
+Agullana, Aiguaviva, Albanyà, Albons, Alp, Amer, Anglès, Arbúcies, Argelaguer, Avinyonet de Puigventós, Banyoles, Bàscara, Begur, Bellcaire d'Empordà, Besalú, Bescanó, Beuda, Biure, Blanes, Boadella i les Escaules, Bolvir, Bordils, Borrassà, Breda, Brunyola i Sant Martí Sapresa, Cabanelles, Cabanes, Cadaqués, Caldes de Malavella, Calonge i Sant Antoni, Camós, Campdevànol, Campelles, Campllong, Camprodon, Canet d'Adri, Cantallops, Capmany, Cassà de la Selva, Castell d’Aro Platja d’Aro i s’Agaró, Castellfollit de la Roca, Castelló d'Empúries, Celrà, Cervià de Ter, Cistella, Colera, Colomers, Corçà, Cornellà del Terri, Crespià, Cruïlles Monells i Sant Sadurní de l'Heura, Darnius, Das, El Far d'Empordà, El Port de la Selva, Espinelves, Espolla, Esponellà, Figueres, Flaçà, Foixà, Fontanals de Cerdanya, Fontanilles, Fontcoberta, Forallac, Fornells de la Selva, Fortià, Garrigàs, Garrigoles, Garriguella, Ger, Girona, Gombrèn, Gualta, Guils de Cerdanya, Hostalric, Isòvol, Jafre, Juià, La Bisbal d'Empordà, La Cellera de Ter, La Jonquera, La Pera, La Selva de Mar, La Tallada d'Empordà, La Vajol, La Vall de Bianya, La Vall d'en Bas, L'Armentera, Les Llosses, Les Planes d'Hostoles. Les Preses, L'Escala, Lladó, Llagostera, Llambilles, Llanars, Llançà, Llers, Llívia, Lloret de Mar, Maçanet de Cabrenys, Maçanet de la Selva, Madremanya, Maià de Montcal, Masarac, Massanes, Meranges, Mieres, Mollet de Peralada, Molló, Montagut i Oix, Mont-ras, Navata, Ogassa, Olot, Ordis, Osor, Palafrugell, Palamós, Palau de Santa Eulàlia, Palau-sator, Palau-saverdera, Palol de Revardit, Pals, Pardines, Parlavà, Pau, Pedret i Marzà, Peralada, Planoles, Pont de Molins, Pontós, Porqueres, Portbou, Puigcerdà, Quart, Queralbs, Rabós, Regencós, Ribes de Freser, Riells i Viabrea, Ripoll, Riudarenes, Riudaura, Riudellots de la Selva, Riumors, Roses, Rupià, Sales de Llierca, Salt, Sant Andreu Salou, Sant Aniol de Finestres, Sant Climent Sescebes, Sant Feliu de Buixalleu, Sant Feliu de Guíxols, Sant Feliu de Pallerols, Sant Ferriol, Sant Gregori, Sant Hilari Sacalm, Sant Jaume de Llierca, Sant Joan de les Abadesses, Sant Joan de Mollet, Sant Joan les Fonts, Sant Jordi Desvalls, Sant Julià de Ramis, Sant Julià del Llor i Bonmatí, Sant Llorenç de la Muga, Sant Martí de Llémena, Sant Martí Vell, Sant Miquel de Campmajor, Sant Miquel de Fluvià, Sant Mori, Sant Pau de Segúries, Sant Pere Pescador, Santa Coloma de Farners, Santa Cristina d'Aro, Santa Llogaia d'Àlguema, Santa Pau, Sarrià de Ter, Saus, Camallera i Llampaies, Serinyà, Serra de Daró, Setcases, Sils, Siurana, Susqueda, Terrades, Torrent, Torroella de Fluvià, Torroella de Montgrí, Tortellà, Toses, Tossa de Mar, Ullà, Ullastret, Ultramort, Urús, Vallfogona de Ripollès, Vall-llobrega, Ventalló, Verges, Vidrà, Vidreres, Vilabertran, Vilablareix, Viladamat, Viladasens, Vilademuls, Viladrau, Vilafant, Vilajuïga, Vilallonga de Ter, Vilamacolum, Vilamalla, Vilamaniscle, Vilanant, Vila-sacra, Vilaür, Vilobí d'Onyar, Vilopriu.
+
+Provincia de Lleida
+
+Alàs i Cerc, Alins, Alt Àneu, Arres, Arsèguel, Baix Pallars, Bausen, Bellver de Cerdanya, Bossòst, Cabó, Canejan, Cava, El Pont de Bar, El Pont de Suert, Es Bòrdes, Espot, Estamariu, Esterri d'Àneu, Esterri de Cardós, Farrera, Fígols i Alinyà, Gósol, Josa i Tuixén, La Guingueta d'Àneu, La Seu d'Urgell, La Torre de Cabdella, La Vall de Boí, La Vansa i Fórnols, Les, Les Valls d'Aguilar, Les Valls de Valira, Lladorre, Llavorsí, Lles de Cerdanya, Montellà i Martinet, Montferrer i Castellbò, Naut Aran, Prats i Sansor, Prullans, Rialp, Ribera d'Urgellet, Riu de Cerdanya, Sarroca de Bellera, Senterada, Soriguera, Sort, Tírvia, Tremp, Vall de Cardós, Vielha e Mijaran, Vilaller, Vilamòs.
+
+Ciudad de Melilla
+
+Comunidad Foral de Navarra
+
+Provincia de Navarra
+
+Abaurregaina/Abaurrea Alta, Abaurrepea/Abaurrea Baja, Anue, Arce/Artzi, Aria, Aribe, Auritz/Burguete, Baztan, Bera, Bertizarana, Burgui/Burgi, Erro, Esparza de Salazar/Espartza Zaraitzu, Esteribar, Etxalar, Ezcároz/Ezkaroze, Gallués/Galoze, Garaioa, Garde, Garralda, Güesa/Gorza, Hiriberri/Villanueva de Aezkoa, Igantzi, Isaba/Izaba, Izalzu/Itzaltzu, Jaurrieta, Lesaka, Lónguida/Longida, Luzaide/Valcarlos, Navascués/Nabaskoze, Ochagavía/Otsagabia, Orbaizeta, Orbara, Oronz/Orontze, Oroz-Betelu/Orotz-Betelu, Orreaga/Roncesvalles, Roncal/Erronkari, Sarriés/Sartze, Sunbilla, Urdazubi/Urdax, Urraul Alto, Urzainqui/Urzainki, Uztárroz/Uztarroze, Vidángoz/Bidankoze, Zugarramurdi.
+
+Comunidad Valenciana
+
+Provincia de Alicante/Alacant
+
+Agost, Agres, Aigües, Alacant/Alicante, Albatera, Alcalalí, Alcoi/Alcoy, Alcoleja, Alcosser, Alfafara, Algorfa, Algueña, Almoradí, Almudaina, Altea, Aspe, Balones, Banyeres de Mariola, Benasau, Beneixama, Benejúzar, Benferri, Beniarbeig, Beniardà, Beniarrés, Benidoleig, Benidorm, Benifallim, Benifato, Benigembla. Benijófar, Benilloba, Benillup, Benimantell, Benimarfull, Benimassot, Benimeli, Benissa, Biar, Bigastro, Bolulla, Busot, Callosa de Segura, Callosa d'en Sarrià, Calp, Cañada, Castalla, Castell de Castells, Catral, Cocentaina, Confrides, Cox, Crevillent, Daya Nueva, Daya Vieja, Dénia, Dolores, el Camp de Mirra/Campo de Mirra, el Campello, el Castell de Guadalest, el Fondó de les Neus/Hondón de las Nieves, el Pinós/Pinoso, el Poble Nou de Benitatxell/Benitachell, el Ràfol d'Almúnia, el Verger, Elda, els Poblets, Elx/Elche, Fageca, Famorca, Finestrat, Formentera del Segura, Gaianes, Gata de Gorgos, Gorga, Granja de Rocamora, Guardamar del Segura, Hondón de los Frailes, Ibi, Jacarilla, la Nucia, la Romana, la Torre de les Maçanes/Torremanzanas, la Vall d'Alcalà, la Vall de Gallinera, la Vall de Laguar, la Vall d'Ebo, la Vila Joiosa/Villajoyosa, l'Alfàs del Pi, l'Alqueria d'Asnar, l'Atzúbia, Llíber, l'Orxa/Lorcha, Los Montesinos, Millena, Monforte del Cid, Monòver/Monóvar, Murla, Muro de Alcoy, Mutxamel, Novelda, Ondara, Onil, Orba, Orihuela, Orxeta, Parcent, Pedreguer, Pego, Penàguila, Petrer, Pilar de la Horadada, Planes, Polop, Quatretondeta, Rafal, Redován, Relleu, Rojales, Sagra, Salinas, San Fulgencio. San Isidro, San Miguel de Salinas, Sanet y Negrals, Sant Joan d'Alacant, Sant Vicent del Raspeig/San Vicente del Raspeig, Santa Pola, Sax, Sella, Senija, Tàrbena, Teulada, Tibi, Tollos, Tormos, Torrevieja, Villena, Xàbia/Jávea, Xaló, Xixona/Jijona.
+
+Provincia de València/Valencia
+
+Ador, Agullent, Aielo de Malferit, Aielo de Rugat, Alaquàs, Albaida, Albal, Albalat de la Ribera, Alberic, Alborache, Alboraia/Alboraya, Alcàntera de Xúquer, Alcàsser, Aldaia, Alfafar, Alfarb, Alfarrasí, Alfauir, Algemesí, Alginet, Almàssera, Almiserà, Almoines, Almussafes, Alzira, Anna, Antella, Atzeneta d'Albaida, Ayora, Barx, Barxeta, Bèlgida, Bellreguard, Bellús, Beneixida, Benetússer, Beniarjó, Beniatjar, Benicolet, Benicull de Xúquer, Benifaió, Benifairó de la Valldigna, Beniflá, Benigànim, Benimodo, Benimuslem, Beniparrell, Benirredrà, Benissoda, Benissuera, Bicorp, Bocairent, Bolbaite, Bonrepòs i Mirambell, Bufali, Buñol, Burjassot, Canals, Carcaixent, Càrcer,, Carlet, Carrícola, Castelló, Castelló de Rugat, Castellonet de la Conquesta, Catadau, Catarroja, Cerdà, Chella, Cheste, Chiva,, Cofrentes, Corbera, Cortes de Pallás, Cotes, Cullera, Daimús, Dos Aguas, el Genovés, el Palomar, el Real de Gandia, Enguera, Estubeny, Favara, Fontanars dels Alforins, Fortaleny, Gandia, Gavarda, Godella, Godelleta, Guadasséquies, Guadassuar, Guardamar de la Safor, Jalance, Jarafuel, la Font de la Figuera, la Font d'en Carròs, la Granja de la Costera, la Llosa de Ranes, la Pobla del Duc, la Pobla Llarga, l'Alcúdia, l'Alcúdia de Crespins, l'Alqueria de la Comtessa, l'Énova, Llanera de Ranes, Llaurí, Llocnou de la Corona, Llocnou de Sant Jeroni, Llocnou d'En Fenollet, Llombai, Llutxent, l'Olleria, Loriguilla, Macastre, Manises, Manuel, Massalavés, Massanassa, Meliana, Millares, Miramar, Mislata, Moixent/Mogente, Montaverner, Montesa, Montitxelvo/Montichelvo, Montroi/Montroy, Montserrat, Navarrés, Novetlè, Oliva, Ontinyent, Otos, Paiporta, Palma de Gandía, Palmera, Paterna, Picanya, Picassent, Piles, Pinet, Polinyà de Xúquer, Potries, Quart de Poblet, Quatretonda, Quesa, Rafelcofer, Rafelguaraf, Ráfol de Salem, Real, Riba-roja de Túria, Riola, Rocafort, Rotglà i Corberà, Ròtova, Rugat, Salem, Sant Joanet, Sedaví, Sellent, Sempere, Senyera, Silla, Simat de la Valldigna, Sollana, Sueca, Sumacàrcer, Tavernes Blanques,, Tavernes de la Valldigna, Teresa de Cofrentes, Terrateig, Torrella, Torrent, Tous, Turís, València, Vallada, Vallés, Vilallonga/Villalonga, Vilamarxant, Vinalesa, Xàtiva, Xeraco, Xeresa, Xirivella, Yátova, Zarra.
+
+Comunidad Autónoma de la Región de Murcia
+
+Provincia de Murcia
+
+Abanilla, Abarán, Águilas, Albudeite, Alcantarilla, Aledo, Alguazas, Alhama de Murcia, Archena, Beniel, Blanca, Bullas, Calasparra, Campos del Río, Caravaca de la Cruz, Cartagena, Cehegín, Ceutí, Cieza, Fortuna, Fuente Álamo de Murcia, Jumilla, La Unión, Las Torres de Cotillas, Librilla, Lorca, Lorquí, Los Alcázares, Mazarrón, Molina de Segura, Moratalla, Mula, Murcia, Ojós, Pliego, Puerto Lumbreras, Ricote, San Javier, San Pedro del Pinatar, Santomera, Torre-Pacheco, Totana, Ulea, Villanueva del Río Segura, Yecla.

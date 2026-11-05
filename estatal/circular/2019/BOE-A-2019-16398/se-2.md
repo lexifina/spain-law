@@ -1,0 +1,3 @@
+## Sexto. Plazo para ordenar la publicación de precios de las labores de tabaco en el «Boletín Oficial del Estado».
+
+De acuerdo con lo previsto en los artículos 21.3.b) de la Ley 39/2015, de 1 de octubre; 4, apartado dos, de la Ley 13/1998, de 4 de mayo, y 9 del Real Decreto 1199/1999, de 9 de julio, el Comisionado para el Mercado de Tabacos ordenará la publicación del precio de las labores de tabaco en el «Boletín Oficial del Estado» en un plazo máximo de un mes, contado desde la fecha en que la solicitud haya tenido entrada en el Registro electrónico del Comisionado para el Mercado de Tabacos, para su publicidad y eficacia general, sin perjuicio de lo dispuesto en el apartado quinto.2 de la presente Circular.

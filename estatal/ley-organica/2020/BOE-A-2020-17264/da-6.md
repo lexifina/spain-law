@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Educación para el desarrollo sostenible y para la ciudadanía mundial.
+
+Tal como se establece en el cuarto Objetivo de Desarrollo Sostenible y de la Agenda 2030, la educación para el desarrollo sostenible y para la ciudadanía mundial se tendrá en cuenta en los procesos de formación del profesorado y en el acceso a la función docente. De acuerdo con lo anterior, para el año 2022 los conocimientos, habilidades y actitudes relativos a la educación para el desarrollo sostenible y para la ciudadanía mundial habrán sido incorporados al sistema de acceso a la función docente. Asimismo, en 2025 todo el personal docente deberá haber recibido cualificación en las metas establecidas en la Agenda 2030.

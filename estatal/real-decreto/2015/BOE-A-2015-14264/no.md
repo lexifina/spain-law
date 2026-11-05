@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 1110/2015, de 11 de diciembre, por el que se regula el Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos", según establece el art. único.1 del Real Decreto 407/2024, de 23 de abril. Ref. BOE-A-2024-8191

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Régimen transitorio del nombramiento del administrador concursal en el procedimiento especial para microempresas.
+
+En tanto no entre en vigor el nuevo apartado 2 del artículo 689 del texto refundido, el nombramiento del administrador concursal en el procedimiento especial para microempresas se llevará a cabo de acuerdo con lo dispuesto en el artículo 27 de la Ley Concursal en su redacción anterior a la entrada en vigor de la Ley 17/2014, de 30 de septiembre, por la que se adoptan medidas urgentes en materia de refinanciación y reestructuración de deuda empresarial.

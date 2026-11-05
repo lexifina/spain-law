@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Sistema de transmisión de información.
+
+La Organización Nacional de Trasplantes desarrollará, en un plazo no superior a seis meses desde la entrada en vigor de este real decreto, el sistema de transmisión de la información previsto en el artículo 30.2, que incluirá las herramientas técnicas necesarias para proteger dicha información contra una destrucción accidental o ilícita, o la alteración, difusión o acceso no autorizado. Una vez desarrollado e implantado dicho sistema, las unidades de coordinación de transplantes de las comunidades autónomas procederán al envío de la información en los términos previstos en el artículo mencionado.

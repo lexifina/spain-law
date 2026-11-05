@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Elaboración y actualización de la Guía técnica.
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo, de acuerdo con lo dispuesto en el artículo 5.3 del Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, elaborará y mantendrá actualizada una Guía técnica de carácter no vinculante, para la evaluación y prevención de los riesgos derivados de la exposición al ruido en los lugares de trabajo. Esta Guía incluirá o se complementará con un Código de conducta con orientaciones prácticas para ayudar a los trabajadores y empresarios de los sectores de la música y el ocio a cumplir sus obligaciones legales tal como quedan establecidas en este real decreto.

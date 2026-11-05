@@ -1,0 +1,11 @@
+La creación del Ministerio de Hacienda mediante el Real Decreto 355/2018, de 6 de junio, por el que se reestructuran los Departamentos ministeriales y las modificaciones efectuadas por el Real Decreto 595/2018, de 22 de junio, por el que se establece la estructura orgánica básica de los Departamentos ministeriales, y por el Real Decreto 1113/2018, de 7 de septiembre, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda, afectan al ejercicio de las competencias de los órganos superiores y directivos del Departamento.
+
+La presente Orden tiene por objeto establecer la delegación de competencias por la persona titular del Departamento en diferentes órganos del mismo, así como aprobar las delegaciones efectuadas por las personas titulares de las Secretarías de Estado y Subsecretaría del Departamento en otros órganos.
+
+Igualmente, en cumplimiento de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, que ha reordenado parcialmente las competencias entre los órganos superiores de los Ministerios, se recogen en esta Orden las cuantías dentro de las que las personas titulares de las Secretarías de Estado pueden ejercer como propias las competencias previstas en el artículo 61.l) de la citada Ley, que atribuye a la persona titular del departamento ministerial la fijación de los límites por debajo de los cuales las competencias de ejecución presupuestaria a las que se refiere el artículo 62.2.j) de la mencionada Ley corresponderán a las personas titulares de las Secretarías de Estado.
+
+Asimismo, conforme a lo previsto en los artículos 61.p) y 62.2.h) de la citada Ley 40/2015, de 1 de octubre, se establece que las competencias de concesión de subvenciones y ayudas por las personas titulares de las Secretarías de Estado habrán de ejercerse dentro de los límites fijados por la persona titular del Departamento. No obstante, en el caso de las modificaciones presupuestarias y gran parte de la gestión presupuestaria, se ha optado por no fijar esas cuantías de tal modo que la competencia en estos casos correspondería a la persona titular del Departamento.
+
+Esta orden se dicta al amparo del artículo 9 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y del artículo 20 de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+En su virtud, dispongo:

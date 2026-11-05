@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse «Real Decreto 1316/1992 de 30 de octubre, por el que se establecen los controles veterinarios aplicables en los intercambios intracomunitarios de determinados animales vivos y productos con vistas a la realización del mercado interior», según establece la disposición final 2.1 del Real Decreto 45/2019, de 8 de febrero. Ref. BOE-A-2019-2859#df-2

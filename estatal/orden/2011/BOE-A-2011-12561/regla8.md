@@ -1,0 +1,7 @@
+## Regla 8. Conservación de la información contable.
+
+1. La entidad conservará los registros contables durante un periodo de seis años contados desde la fecha de remisión al Tribunal de Cuentas de las cuentas anuales donde se hubiese plasmado la información contenida en dichos registros, salvo que por norma de rango suficiente se establezcan otros plazos o se hubiera interrumpido el plazo de prescripción de la posible responsabilidad contable de acuerdo con lo que se establece en la disposición adicional tercera de la Ley 7/1988, de 5 de abril, de funcionamiento del Tribunal de Cuentas.
+
+2. Una vez emitido el preceptivo informe del Tribunal de Cuentas y transcurrido el plazo indicado en el párrafo anterior, se podrá proceder a la destrucción de los registros contables correspondientes a las cuentas anuales de que se trate, previa comunicación a los órganos de control a que se refiere el punto 1 de la regla 18.
+
+3. Transcurrido el plazo de seis años o, en su caso, el de prescripción de la responsabilidad contable y una vez emitido el preceptivo informe del Tribunal de Cuentas, la Intervención General de la Administración del Estado procederá a remitir al Archivo Histórico de Documentos los estados y documentos en su poder de las cuentas anuales en cuestión, sin perjuicio de que, cuando las mismas estén soportadas a través de medios electrónicos, informáticos o telemáticos, una copia pueda ser conservada por tiempo indefinido.

@@ -1,0 +1,5 @@
+## Disposición transitoria única. Cambio del régimen de autorización al régimen de declaración responsable en las actividades de fabricación e importación.
+
+1. Las autorizaciones de actividades de fabricación e importación emitidas con anterioridad al 26 de julio de 2013, mantendrán su vigencia hasta la fecha de validez indicada en la autorización emitida. Estas autorizaciones no podrán ser objeto de revalidación.
+
+2. Sin perjuicio de lo indicado en el apartado anterior, los interesados podrán someter sus actividades al nuevo régimen y presentar la declaración responsable, en cuyo caso resultará de aplicación, en cuanto a la cuantía de las tasas a pagar, lo dispuesto en el artículo 121.4 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios. Las modificaciones de actividades de fabricación e importación de productos cosméticos amparadas por una autorización vigente de la AEMPS, que afecten a las condiciones reflejadas en dicha autorización, requerirán de la presentación de una declaración responsable conforme a lo indicado en el artículo 18.1 de este real decreto.

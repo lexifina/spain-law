@@ -1,0 +1,5 @@
+## Disposición adicional primera. Revalorización de las pensiones.
+
+1. En 2019 la revalorización de las pensiones se realizará de acuerdo con lo establecido en el artículo 1 del presente real decreto-ley, no siendo de aplicación lo dispuesto en los artículos 58 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre y 27 del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por Real Decreto Legislativo 670/1987, de 30 de abril.
+
+2. En el plazo de seis meses, el Gobierno adoptará las medidas necesarias para modificar los artículos citados en el apartado anterior y establecer, en el marco del diálogo social y de acuerdo con las recomendaciones de la Comisión de Seguimiento y Evaluación de los Acuerdos del Pacto de Toledo, un mecanismo de revalorización de las pensiones que garantice el mantenimiento de su poder adquisitivo preservando la sostenibilidad social y financiera del sistema de Seguridad Social.

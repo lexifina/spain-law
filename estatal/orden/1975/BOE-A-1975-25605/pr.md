@@ -1,0 +1,3 @@
+Excelentísimos señores:
+
+Teniendo en cuenta las normas internacionales individuales para distintos tipos de queso, se considera conveniente que las exigencias de las mismas se apliquen a nuestro mercado nacional, por lo que, de acuerdo con lo dispuesto en el Decreto 1043/1973, de 17 de mayo, por el que se regula la normalización de productos ganaderos en el mercado interior, reunida la Comisión Especializada de Normalización de productos ganaderos, vistos el informe de la Comisión Interministerial para la Ordenación Alimentaria y los acuerdos del F. O. R. P. P. A. y a propuesta de los Ministerios de la Gobernación, de Agricultura y de Comercio, esta Presidencia del Gobierno dispone:

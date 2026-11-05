@@ -1,0 +1,3 @@
+## Disposición adicional única. Tarifas de gas natural, gases manufacturados por canalización y precios de gases licuados del petróleo envasado.
+
+El Ministro de Industria y Energía, en un plazo no superior a un mes desde la entrada en vigor del presente Real Decreto-ley, mediante Orden, previo Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, dictará las disposiciones necesarias para la actualización de las tarifas de venta de gas natural, gases manufacturados por canalización para los consumidores finales y precios de gases licuados del petróleo envasados. Esta actualización tendrá por objeto la revisión a la baja de parámetros no vinculados a cotizaciones internacionales de crudo y productos petrolíferos.

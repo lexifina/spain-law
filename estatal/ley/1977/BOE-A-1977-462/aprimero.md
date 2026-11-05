@@ -1,0 +1,3 @@
+## Artículo primero.
+
+España participará en el primer aumento general ordinario de los recursos del Fondo Africano de Desarrollo, a cuyo efecto hará las suscripciones adicionales correspondientes, en los términos establecidos en la Resolución uno-setenta y seis, aprobada por el Consejo de Gobernadores de dicha Institución el veintiséis de febrero de mil novecientos setenta y seis, cuya traducción figura como anejo a la presente Ley, con la cuantía de seis millones de unidades de cuenta, según se definen en el Artículo primero del Acuerdo de creación del Fondo Africano de Desarrollo, publicado como anejo al decreto-ley uno/mil novecientos setenta y cuatro, de siete de febrero.

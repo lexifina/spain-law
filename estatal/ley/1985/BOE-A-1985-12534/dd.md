@@ -1,0 +1,5 @@
+## Disposición derogatoria.
+
+1. Quedan derogadas la Ley de 7 de julio de 1911 sobre Excavaciones Arqueológicas; el Real Decreto-Ley de 9 de agosto de 1926 sobre Protección, Conservación y Acrecentamiento de la Riqueza Artística; la Ley de 10 de diciembre de 1931 sobre enajenación de bienes artísticos, arqueológicos e históricos de más de cien años de antigüedad; la Ley de 13 de mayo de 1933 sobre defensa, conservación y acrecentamiento del Patrimonio Histórico Artístico; la Ley de 22 de diciembre de 1955 sobre Conservación del Patrimonio Histórico Artístico; el Decreto 1641/1959, de 23 de septiembre, sobre exportación de objetos de valor e interés arqueológico o artístico y de imitaciones o copias, y la Ley 26/1972, de 21 de junio, sobre Defensa del Tesoro Documental y Bibliográfico de la Nación, salvo las disposiciones relativas al Centro Nacional del Tesoro Documental y Bibliográfico, las cuales, no obstante, tendrán en adelante rango reglamentario, y el Real Decreto 2832/1978, de 28 de octubre, sobre el 1 por 100 cultural.
+
+2. Asimismo quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente Ley.

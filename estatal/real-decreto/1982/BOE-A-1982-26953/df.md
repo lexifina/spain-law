@@ -1,0 +1,5 @@
+## Disposición final primera.
+
+Al amparo del número tres de la disposición final segunda del Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, quedan derogados los artículos noventa y tres punto cuatro y ciento cuarenta y cuatro de la Ley General de la Seguridad Social de treinta de mayo de mil novecientos setenta y cuatro. Quedan asimismo derogados el Decreto dos mil ciento ochenta y seis/mil novecientos sesenta y ocho, de dieciséis de agosto, y cuantas otras disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto, que sin perjuicio de lo señalado en la disposición transitoria segunda, entrará en vigor el uno de diciembre del año en curso. Para dicha fecha deberán estar debidamente constituidas las Comisiones a que se refiere el artículo sexto y dotadas por el Instituto Nacional de la Salud las Unidades a que se refiere el artículo séptimo.
+
+Por el Instituto Nacional de Servicios Sociales se adoptarán las medidas precisas para el cumplimiento de las funciones que le atribuye el presente Real Decreto.

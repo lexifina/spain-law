@@ -1,0 +1,3 @@
+## Disposición adicional quincuagésima novena. Prestaciones del Seguro Obligatorio de Vejez e Invalidez (SOVI).
+
+Durante el año 2005 el Gobierno adoptará las medidas oportunas para, dentro del marco que legalmente se establezca, flexibilizar el régimen de incompatibilidad al que están sujetas las pensiones del Seguro Obligatorio de Vejez e Invalidez, permitiendo su compatibilidad con las pensiones de viudedad de cualquiera de los regímenes del actual sistema de Seguridad Social, o de clases Pasivas. Las modificaciones normativas oportunas establecerán los requisitos necesarios para evitar situaciones de discriminación o sobreprotección en relación a otras prestaciones equivalentes del sistema de la Seguridad Social.

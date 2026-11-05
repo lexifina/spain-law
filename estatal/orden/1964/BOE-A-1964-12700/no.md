@@ -1,0 +1,1 @@
+Norma derogoda, en lo que se refiere al cuadro indicador de tripulaciones mínimas para buques de pesca y auxiliares de pesca, desde el 30 de enero de 2014, por la disposición derogatoria única del Real Decreto 963/2013, de 5 de diciembre. Ref. BOE-A-2013-13808#dd

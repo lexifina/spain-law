@@ -1,0 +1,3 @@
+## Disposición final segunda. Titulo competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª y 23.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad y de legislación básica sobre protección del medio ambiente. Ello sin perjuicio de que la regulación de servidumbres acústicas de las infraestructuras estatales y el régimen especial de aeropuertos y equipamientos vinculados al sistema de navegación y transporte aéreo se dicte de conformidad con lo establecido en los párrafos 20.ª, 21.ª y 24.ª del apartado 1 del citado artículo 149.

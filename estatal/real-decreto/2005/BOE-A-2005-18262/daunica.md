@@ -1,0 +1,3 @@
+## Disposición adicional única. Información de las autoridades laborales.
+
+A los efectos de dar cumplimiento a lo dispuesto en el artículo 10.4 de la Directiva 2002/44/CE, del Parlamento Europeo y del Consejo, de 25 de junio de 2002, sobre las disposiciones mínimas de seguridad y de salud relativas a la exposición de los trabajadores a los riesgos derivados de los agentes físicos (vibraciones), la autoridad laboral competente remitirá cada cuatro años desde la entrada en vigor de este Real Decreto al Ministerio de Trabajo y Asuntos Sociales la lista de las excepciones que en sus respectivos territorios se apliquen en virtud de lo dispuesto en los artículos 3.3 y 5.4, indicando las circunstancias y razones precisas que fundamentan dichas excepciones.

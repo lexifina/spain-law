@@ -1,0 +1,5 @@
+## Disposición transitoria octava. Asiento de apertura de la contabilidad del ejercicio 2011.
+
+Sin perjuicio de lo establecido en el apartado 1.a) de la disposición transitoria primera, «Reglas para la aplicación del Plan General de Contabilidad Pública en el primer ejercicio de su aplicación», de la Orden EHA/1037/2010, de 13 de abril, por la que se aprueba el Plan General de Contabilidad Pública, la Administración General del Estado realizará el asiento de apertura de la contabilidad del ejercicio 2011 utilizando directamente las cuentas previstas en la correspondiente adaptación de dicho Plan General de Contabilidad Pública a la Administración General del Estado.
+
+En el apartado de la Memoria relativo a «Aspectos derivados de la transición a las nuevas normas contables», a que se refiere la disposición transitoria tercera de la Orden EHA/1037/2010, de 13 de abril, por la que se aprueba el Plan General de Contabilidad Pública, la Administración General del Estado incorporará el asiento de apertura del ejercicio 2011 y el asiento de cierre del ejercicio 2010 realizado con las cuentas de la adaptación del PGCP vigente en dicho ejercicio.

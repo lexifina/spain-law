@@ -1,0 +1,3 @@
+## Disposición final primera. Títulos competenciales.
+
+Esta orden se dicta al amparo de lo dispuesto en las reglas 15.ª, 18.ª y 30.ª del artículo 149.1 de la Constitución, que atribuyen al Estado las competencias exclusivas en materia de fomento y coordinación general de la investigación científica y técnica, bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia, respectivamente.

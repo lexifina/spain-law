@@ -1,0 +1,3 @@
+## Siete. Régimen de incumplimiento.
+
+Conforme a lo dispuesto en el apartado 6 del artículo 18 del Estatuto Legal del Consorcio, el incumplimiento de la obligación de presentar e ingresar los recargos, así como en su caso de los intereses por fraccionamiento en favor del Consorcio, dentro del plazo y forma establecidos, llevará aparejada la obligación de satisfacer durante el periodo de demora el interés al que se refiere el apartado seis anterior y la pérdida de la comisión de cobro, sin perjuicio de las sanciones que correspondan de acuerdo a lo establecido en la Ley de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras.

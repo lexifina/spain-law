@@ -1,0 +1,3 @@
+## Norma quinta. Información que han de publicar los proveedores de servicios de pago en su sitio web.
+
+Las entidades publicarán, en su sitio web, en el formato de los estados TID establecidos en el anejo de la presente circular, toda la información recogida en dichos estados sobre las operaciones realizadas en cada trimestre natural para los diferentes perfiles de tarjetas y actividad del beneficiario, excepto la relativa al número y al importe de las operaciones de pago, así como al importe de las tasas percibidas. Dicha información se actualizará trimestralmente al tiempo de enviarla al Banco de España conforme a lo previsto en la norma tercera.

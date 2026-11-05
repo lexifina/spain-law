@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Colaboración y cooperación entre las Administraciones.
+
+Se faculta al Ministerio de Medio Ambiente, a través del Organismo Autónomo Parques Nacionales, para, en el ejercicio de sus competencias en relación con la Red de Parques Nacionales y al objeto de contribuir a que el Parque Nacional de Monfragüe alcance un nivel de gestión similar al nivel del resto de los Parques Nacionales, suscribir y poner en marcha cuantos acuerdos, convenios y consorcios se consideren convenientes para el logro de la presente Ley. En el contenido de los mismos se fijará su alcance, régimen de aplicación y responsabilidades de las partes.

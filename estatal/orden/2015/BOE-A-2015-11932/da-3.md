@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Indicador de riesgo de planes de pensiones.
+
+Cuando el producto financiero comercializado por las entidades sea un plan de pensiones de los recogidos en el artículo 2.1.d), las entidades facilitarán, en sustitución del indicador de riesgo previsto en el artículo 5, otro elaborado, calculado y representado conforme a lo establecido para el indicador sintético de riesgo en los apartados 4 y 6 de la Norma Cuarta de la Circular 2/2013, de 9 de mayo, de la Comisión Nacional del Mercado de Valores, sobre el documento con los datos fundamentales para el inversor y el folleto de las instituciones de inversión colectiva.

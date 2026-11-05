@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 7 de diciembre de 2018, sin perjuicio de lo previsto en la disposición adicional 14 de la Ley Orgánica 3/2018, de 5 de diciembre, según establece su disposición derogatoria única.1. Ref. BOE-A-2018-16673#dd

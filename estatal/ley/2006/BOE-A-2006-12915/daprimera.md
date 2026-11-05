@@ -1,0 +1,3 @@
+## Disposición adicional primera. Aplicación del anexo de la Directiva 90/434/CEE modificada por la Directiva 2005/19/CE, de 17 de febrero.
+
+Con efectos para los períodos impositivos iniciados a partir del 1 de enero de 2006, la remisión al anexo de la Directiva 90/434/CEE a que se refieren la letra d), apartado 1 del artículo 84 y la letra b), apartado 1 del artículo 87 del Texto Refundido de la Ley del Impuesto sobre Sociedades, incluirá a las entidades referidas en la letra a) de dicho anexo en su redacción dada por la Directiva 2005/19/CE, de 17 de febrero. Para los períodos impositivos iniciados a partir de 1 de enero de 2007, esta remisión alcanza a la totalidad de las entidades referidas en dicho anexo.

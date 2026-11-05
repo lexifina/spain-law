@@ -1,0 +1,7 @@
+## Primero. Objeto y ámbito de aplicación.
+
+1. La presente Resolución tiene como objeto la regulación del Registro Electrónico de la CNMV (en lo sucesivo Registro Electrónico), accesible en su sede electrónica, para la recepción y remisión de solicitudes, escritos y comunicaciones relativos a su ámbito, en la forma y con el alcance previsto en el artículo 24 de la Ley 11/2007, de 22 de junio, y en los artículos 26 al 30 del Real Decreto 1671/2009, de 6 de noviembre.
+
+2. Dentro de su ámbito de aplicación, la utilización del Registro Electrónico será obligatoria en las solicitudes, escritos y comunicaciones con los ciudadanos en las que, conforme a las normas generales, deba llevarse a cabo su anotación registral, de acuerdo con lo establecido en el artículo 38 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y disposiciones de desarrollo, no pudiendo ser sustituida esta anotación por otras en registros no electrónicos o en los registros de las aplicaciones informáticas gestoras de los servicios, procedimientos y trámites. A los efectos de la presente Resolución, el concepto de ciudadano será el definido en el anexo de la Ley 11/2007, de 22 de junio.
+
+3. En ningún caso tendrán la condición de Registro Electrónico los buzones de correo electrónico corporativo asignados a los empleados y a los distintos órganos, direcciones y departamentos de la CNMV.

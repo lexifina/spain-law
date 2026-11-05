@@ -1,0 +1,1 @@
+Téngase en cuenta que las disposiciones relativas a la solicitud de valoración de inmuebles de entidades aseguradoras por los servicios técnicos de la Dirección General de Seguros y Fondos de Pensiones están derogadas por la disposición derogatoria única del Real Decreto 1332/2005, de 11 de noviembre. Ref. BOE-A-2005-19250#ddunica.

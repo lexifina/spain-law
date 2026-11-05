@@ -1,0 +1,3 @@
+## Disposición adicional novena. Seguridad Social de las personas acogedoras especializadas de dedicación exclusiva.
+
+Reglamentariamente el Gobierno determinará en el plazo de un año de la entrada en vigor de la presente ley orgánica, el alcance y condiciones de la incorporación a la Seguridad Social de las personas que sean designadas como acogedoras especializadas de dedicación exclusiva, previstas en el artículo 20.1 de la Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor, de modificación parcial del Código Civil y de la Ley de Enjuiciamiento Civil, en el Régimen que les corresponda, así como los requisitos y procedimiento de afiliación, alta y cotización.

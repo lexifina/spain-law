@@ -1,0 +1,17 @@
+## Disposición transitoria decimosexta. Reconocimiento de la pensión de viudedad de parejas de hecho en supuestos excepcionales.
+
+1. Se reconocerá el derecho a la pensión de viudedad cuando, habiéndose producido el fallecimiento de uno de los miembros de la pareja de hecho con anterioridad a la entrada en vigor del Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social y de otras normas sociales, concurran las siguientes circunstancias:
+
+a) Que a la muerte del causante no se hubiera podido causar derecho a pensión de viudedad.
+
+b) Que el beneficiario pueda acreditar en el momento de fallecimiento del causante la existencia de pareja de hecho, en los términos establecidos en el apartado 4 del artículo 38.
+
+c) Para acceder a la pensión regulada en la presente disposición, la correspondiente solicitud deberá ser presentada en el plazo improrrogable de los doce meses siguientes a la entrada en vigor del Real Decreto-ley 31/2026, de 20 de octubre. La pensión reconocida tendrá efectos económicos desde el día primero del mes siguiente a la solicitud.
+
+2. En el supuesto de que el beneficiario tenga reconocido derecho a alguna pensión contributiva de la Seguridad Social o pueda serle reconocida en un futuro, en ningún caso la suma podrá superar el límite establecido para la concurrencia de pensiones.
+
+3. Aquellas personas a las que se les hubiera reconocido la pensión de viudedad al amparo de lo previsto en la derogada disposición adicional vigésima que hayan visto suspendido el derecho a su percepción o el de otra pensión contributiva del sistema de la Seguridad Social como consecuencia de la aplicación de la letra c) de la citada disposición adicional, podrán solicitar la rehabilitación de la pensión suspendida siempre que acrediten el mantenimiento del resto de requisitos exigidos. Todo ello sin perjuicio de la aplicación del límite máximo previsto para el supuesto de concurrencia de pensiones públicas.
+
+La solicitud deberá presentarse en el plazo improrrogable de los doce meses siguientes a entrada en vigor del Real Decreto-ley 31/2026, de 20 de octubre. La rehabilitación de la pensión suspendida tendrá efectos económicos desde el día primero del mes siguiente al de la solicitud.
+
+> Se añade por el art. 3.6 del Real Decreto-ley 31/2026, de 20 de octubre. Ref. BOE-A-2026-21872#at

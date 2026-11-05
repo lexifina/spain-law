@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Fundación de la Santa Cruz del Valle los Caídos.
+
+Hasta la aprobación del real decreto contemplado en el artículo 54.6, el Consejo de Administración del Patrimonio Nacional continuará ejerciendo las funciones de patronato y representación de la Fundación de la Santa Cruz del Valle los Caídos, rigiéndose para ello transitoriamente por la Ley 50/2002, de 26 de diciembre, de Fundaciones, y por el Real Decreto 1337/2005, de 11 de noviembre, por el que se aprueba el Reglamento de fundaciones de competencia estatal.
+
+Dichas funciones se orientarán, además de a la conservación y mantenimiento de la finca y de los edificios e instalaciones, a la preparación de la liquidación de la actual fundación al objeto de determinar los inventarios, presupuesto y cuentas de la misma, considerando de forma integral la totalidad de la gestión económica de las actividades desarrolladas en el Valle de los Caídos por la fundación o por su administrador delegado. A estos efectos, el Consejo de Administración del Patrimonio Nacional contará con la colaboración de los órganos de la Administración General del Estado competentes por razón de la materia.

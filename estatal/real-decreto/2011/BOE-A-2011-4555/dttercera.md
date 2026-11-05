@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Actuaciones sin anteproyecto aprobado.
+
+Las actuaciones para las que se requiera la elaboración de un anteproyecto y éste no haya sido aprobado provisionalmente antes de la entrada en vigor de las Directrices a las que se refiere el artículo 9 por la Dirección General de Carreteras o en su caso por el Ministro de Fomento, según lo establecido en el artículo 32 del Reglamento General de Carreteras, serán objeto de auditoría de seguridad viaria en las fases de anteproyecto y proyecto, previa a la puesta en servicio e inicial en servicio de acuerdo con lo establecido en el capítulo III.

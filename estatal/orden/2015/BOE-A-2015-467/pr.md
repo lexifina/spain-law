@@ -1,0 +1,39 @@
+La Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios, establece en su artículo 11, apartado 3, que la Real Farmacopea Española es el código que establece la calidad que deben cumplir los principios activos y excipientes que entran en la composición de los medicamentos de uso humano y veterinario.
+
+Al respecto, esta ley establece que la Real Farmacopea Española está constituida por las monografías contenidas en la Farmacopea Europea del Consejo de Europa y, en casos justificados, por las monografías peculiares españolas. Para las sustancias fabricadas en países pertenecientes a la Unión Europea rige, en defecto de la Farmacopea Europea, la monografía de la farmacopea del país fabricante y, en su defecto, la de un tercer país. La Farmacopea incluirá monografías convenientemente ordenadas y codificadas con las especificaciones de identidad, pureza y riqueza de, como mínimo, los principios activos y excipientes, así como los métodos analíticos oficiales y textos generales necesarios para la correcta aplicación de las monografías. Las especificaciones definidas en las monografías constituyen exigencias mínimas de obligado cumplimiento. Toda materia prima presentada bajo una denominación científica o común de la Farmacopea en vigor debe responder a las especificaciones de la misma.
+
+Asimismo, el Real Decreto 294/1995, de 24 de febrero, por el que se regula la Real Farmacopea Española, el formulario nacional y los órganos consultivos del Ministerio de Sanidad y Consumo en esta materia, señala que la Real Farmacopea Española es el libro oficial que recopila las normas específicas, redactadas en forma de monografías, que describen la calidad física, química y biológica que deben observar las sustancias medicinales y excipientes destinados a uso humano y veterinario, así como los métodos analíticos para su control.
+
+Dicha Ley 29/2006, de 26 de julio, establece que la Real Farmacopea Española se actualizará y publicará periódicamente. El Ministerio de Sanidad, Servicios Sociales e Igualdad, a través de la Agencia Española de Medicamentos y Productos Sanitarios, fijará y publicará en el «Boletín Oficial del Estado» la fecha de la puesta en vigor de los sucesivos volúmenes de la Real Farmacopea Española. Esta publicación y sus correspondientes actualizaciones se realizarán en castellano, lengua oficial del Estado.
+
+Mediante la Orden SPI/2891/2010, de 3 de noviembre, por la que se aprueba la cuarta edición de la Real Farmacopea Española, el Ministerio de Sanidad, Política Social e Igualdad (actual Ministerio de Sanidad, Servicios Sociales e Igualdad) aprobó la cuarta edición de la Real Farmacopea Española, recopilando en un texto la sexta edición de la Farmacopea Europea así como la única monografía española que no figura en la misma.
+
+Por otro lado, la séptima edición de la Farmacopea Europea, ha sido elaborada por la European Directorate for the Quality of Medicines & Healthcare (EDQM en adelante) bajo los auspicios del Consejo de Europa, según los términos del Convenio sobre la elaboración de una Farmacopea Europea (Serie de Tratados Europeos n.º 50) enmendados por el Protocolo al Convenio (Serie de Tratados Europeos n.º 134), del cual es miembro España desde 1987.
+
+Los objetivos perseguidos son armonizar las especificaciones de las sustancias medicamentosas que presenten un interés general para la población europea y conseguir poner a punto más rápidamente especificaciones relativas a las sustancias medicamentosas nuevas que aparecen en el mercado en número creciente.
+
+Estos objetivos se logran mediante la creación de una Farmacopea Europea constituida por monografías que se convierten en normas oficiales aplicables en el territorio de los Estados contratantes.
+
+En consecuencia, la finalidad de la Farmacopea Europea es promover la salud pública mediante el establecimiento de normas comunes reconocidas que puedan ser utilizadas por los profesionales de la salud y en general en todos los casos en los que sea relevante la calidad de los medicamentos. Tales normas pretenden garantizar el empleo seguro de los medicamentos en pacientes y consumidores.
+
+Esta Farmacopea Europea se utiliza ampliamente a escala internacional y para ello la EDQM del Consejo de Europa intenta trabajar en contacto estrecho con los estados miembros, a fin de satisfacer mejor sus necesidades y facilitar su cooperación, procurando la mayor difusión de sus normas de calidad.
+
+Por ello se ha considerado conveniente elaborar la quinta edición de la Real Farmacopea Española, recopilando en un texto la séptima edición de la Farmacopea Europea así como la única monografía española que no figura en la citada Farmacopea Europea.
+
+Mediante esta orden, por tanto, se aprueba la quinta edición de la Real Farmacopea Española, sustituyendo en su totalidad a la cuarta edición, que queda derogada.
+
+Por su parte, el artículo 44 de la Ley 29/2006, de 26 de julio, establece que el Formulario Nacional contendrá las fórmulas magistrales tipificadas y los preparados oficinales reconocidos como medicamentos, sus categorías, indicaciones y materias primas que intervienen en su composición o preparación, así como las normas de correcta preparación y control de aquellos. Esta misma definición se recoge en el citado Real Decreto 294/1995, de 24 de febrero.
+
+El artículo 25 del mencionado Real Decreto 294/1995, de 24 de febrero, establece que el Formulario Nacional, así como sus adiciones y correcciones, al igual que la Real Farmacopea Española, será aprobado por el Ministerio de Sanidad, Servicios Sociales e Igualdad, que anunciará en el «Boletín Oficial del Estado» su publicación, establecerá la fecha de su entrada en vigor, y realizará su edición oficial. Así mismo, en su disposición adicional primera se establece que el Formulario Nacional será objeto de actualizaciones periódicas conforme al estado de la ciencia.
+
+Mediante la Orden SCO/3262/2003, de 18 de noviembre, por la que se aprueba el Formulario Nacional, se aprobó la primera edición del Formulario Nacional. Esa edición fue objeto de una única actualización mediante la Orden SCO/3123/2006, de 29 de septiembre, por la que se actualiza el Formulario Nacional.
+
+En esta orden se incluye una nueva monografía de fórmula magistral tipificada en el Formulario, que ha sido seleccionada teniendo en cuenta el estado de la ciencia, y en especial el vacío terapéutico existente para el tratamiento de la población pediátrica y su frecuente uso, se considera oportuno aprobar mediante esta orden, a su vez, la segunda edición del Formulario Nacional, sustituyendo en su totalidad a la primera edición y a su posterior actualización, que quedan derogadas.
+
+En consecuencia, a partir de la entrada en vigor de esta orden, la segunda edición del Formulario Nacional se compone de las monografías incluidas como anexo de esta orden, el cual integra: las monografías incluidas como anexo I en la Orden SCO/3262/2003, de 18 de noviembre; las monografías incluidas como anexo en la Orden SCO/3123/2006, de 29 de septiembre, por la que se actualiza el Formulario Nacional; y una nueva monografía de fórmula magistral tipificada.
+
+En la elaboración de la presente disposición ha emitido informe previo el Consejo de Consumidores y Usuarios, y el Comité de la Farmacopea y el Formulario Nacional y han sido consultadas las Comunidades Autónomas y Ciudades de Ceuta y de Melilla, así como los sectores afectados.
+
+Esta orden se dicta al amparo de la competencias en materia de legislación sobre productos farmacéuticos que atribuye al Estado el artículo 149.1.16.ª de la Constitución, así como en virtud de lo dispuesto en el artículo 11 de la Ley 29/2006, de 26 de julio, y en el artículo 25 y la disposición final segunda del Real Decreto 294/1995, de 24 de febrero.
+
+En su virtud, dispongo:

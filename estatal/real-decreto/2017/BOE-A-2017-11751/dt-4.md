@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Desempeño transitorio de funciones por la Comisión Nacional de los Mercados y la Competencia en materia de energía.
+
+Hasta que no se produzca la integración de personal y medios prevista en la disposición adicional tercera de este real decreto y por orden del Ministerio de la Presidencia y para las Administraciones Territoriales se determine la fecha de ejercicio efectivo por el Ministerio de Energía, Turismo y Agenda Digital de las funciones en materia de energía a que se hace referencia en la misma disposición, de acuerdo con la disposición transitoria cuarta de la Ley 3/2013, de 4 de junio, tales funciones seguirán siendo desempeñadas por la Comisión Nacional de los Mercados y la Competencia.

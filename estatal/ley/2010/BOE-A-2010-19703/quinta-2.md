@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Reservas obligatorias de las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+En el ejercicio 2011, y en las operaciones de cierre correspondientes al ejercicio 2010, en los términos que reglamentariamente se determinen, las mutuas de accidentes de trabajo y enfermedades profesionales de la Seguridad Social cancelarán sus reservas de obligaciones inmediatas y de estabilización, por contingencias profesionales, así como las estatutarias y el fondo de asistencia social de accidentes de trabajo, traspasando el importe de las mismas a una única reserva, de contingencias profesionales.
+
+La definición y establecimiento de los límites de dicha reserva y de la de estabilización por contingencias comunes, se efectuará reglamentariamente, previa consulta a los interlocutores sociales, de forma que no se produzca una disminución en el nivel global de dotación actual de las reservas constituidas por cada Mutua tras el último ejercicio presupuestario liquidado.

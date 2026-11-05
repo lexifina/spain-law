@@ -1,0 +1,3 @@
+## Disposición final.
+
+La presente resolución entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», salvo en lo relativo al ejercicio por la Oficina Nacional de Gestión Tributaria de la función contemplada en el apartado tercero.1.1.d), que entrará en vigor en la misma fecha en que se produzca la entrada en vigor de la norma de transposición al ordenamiento interno de la Directiva (UE) 2017/2455 del Consejo, de 5 de diciembre de 2017, por la que se modifican la Directiva 2006/112/CE y la Directiva 2009/132/CE en lo referente a determinadas obligaciones respecto del Impuesto sobre el Valor Añadido para las prestaciones de servicios y las ventas a distancia de bienes.

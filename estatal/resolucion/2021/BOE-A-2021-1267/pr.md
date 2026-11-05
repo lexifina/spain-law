@@ -1,0 +1,11 @@
+El Acuerdo de la Mesa General de Negociación de la Administración General del Estado de 29 de octubre de 2012, sobre asignación de recursos y racionalización de las estructuras de negociación y participación (Resolución de 12 de noviembre de 2012, de la Secretaría de Estado de Administraciones Públicas, BOE de 14 de noviembre), agotó su vigencia el 31 de diciembre de 2015, prorrogándose tácitamente durante 2016 y, por acuerdo de 1 de diciembre de 2016 de la Comisión de Seguimiento, de forma expresa hasta 31 de diciembre de 2017, salvo que se aprobase un nuevo acuerdo y en el mismo se determinase una entrada en vigor con anterioridad a dicha fecha.
+
+Por Resolución de 30 de junio de 2017, de la Secretaría de Estado de Función Pública (BOE de 5 de julio), se aprobó y publicó el Acuerdo de las Mesas Generales de Negociación de la Administración General del Estado, de 30 de mayo de 2017, por el que se modificó el Acuerdo de 29 de octubre de 2012.
+
+Dicho Acuerdo se ha ido prorrogando anualmente, siendo la última prórroga de fecha 8 de mayo de 2020.
+
+Habiendo transcurrido ya varios años desde la firma del Acuerdo de 2017 y habiéndose detectado numerosas necesidades de mejora en su redacción, que tendrán incidencia en su gestión se ha considerado necesario proceder a su adaptación. Por lo que de acuerdo con las organizaciones sindicales firmantes y, tras un periodo de negociación, se ha culminado con la adopción de este nuevo Acuerdo.
+
+La Secretaría General de Función Pública, de conformidad con lo previsto en el Real Decreto 307/2020, de 11 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Función Pública, resuelve:
+
+Aprobar y publicar el texto del Acuerdo de las Mesas Generales de Negociación de la Administración General del Estado (artículo 34.1 y 36.3 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público), de 16 de diciembre de 2020, por el que se modifica el acuerdo de 30 de mayo de 2017, sobre asignación de recursos y racionalización de las estructuras de negociación y participación que se adjunta como anexo a esta Resolución.

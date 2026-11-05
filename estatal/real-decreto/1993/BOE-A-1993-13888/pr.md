@@ -1,0 +1,11 @@
+El artículo 12.1 del Reglamento sobre declaración de sustancias nuevas y clasificación, envasado y etiquetado de sustancias peligrosas, aprobado por Real Decreto 2216/1985, de 23 de octubre, basado en las Directivas del Consejo de las Comunidades Europeas 67/548/CEE, y posteriores que la modifican, establece que los ensayos y análisis de las sustancias que se exigen para la notificación que preceptúa el artículo 5 se realizarán en laboratorios acreditados, siguiendo las buenas prácticas de laboratorio.
+
+Por su parte, la Directiva del Consejo 87/18/CEE establece en su artículo 1.1 que los Estados adoptarán las medidas necesarias para garantizar que los laboratorios que realicen ensayos sobre los productos químicos, de conformidad con la Directiva 67/548/CEE antes mencionada, cumplan los principios de buenas prácticas de laboratorio especificados en el anexo 2 de la Decisión del Consejo de la OCDE, de 12 de mayo de 1981, relativa a la aceptación mutua de los datos para la evaluación de los productos químicos. Teniendo en cuenta que dichos ensayos tienen como objetivo la evaluación de los riesgos potenciales de los productos químicos para el hombre y para el medio ambiente, el presente Real Decreto se dicta al amparo de lo establecido en el artículo 149.1.16. y 23. de la Constitución Española.
+
+Como consecuencia de lo dispuesto en el ámbito de la Directiva 87/18/CEE, y sin perjuicio de que los principios de las buenas prácticas de laboratorio a que se refiere puedan resultar de aplicación más general, es necesario disponer su vigencia e instrumentar normativamente la garantía de su cumplimiento.
+
+Por otra parte, dentro del mismo ámbito, y en lo que concierne específicamente a los productos industriales, resulta de aplicación la Ley de Industria 21/1992, de 16 de julio, cuyo artículo 9 incluye entre los objetivos de la seguridad industrial la prevención y protección de daños a las personas y el medio ambiente.
+
+En su virtud, a propuesta de los Ministros de Industria, Comercio y Turismo, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de mayo de 1993,
+
+## D I S P O N G O:

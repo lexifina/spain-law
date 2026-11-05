@@ -1,0 +1,7 @@
+## Disposición adicional octava. Publicidad e información pública de la validez y tipología de las titulaciones oficiales universitarias.
+
+(Anulada)
+
+> Se declara la nulidad del Real Decreto 905/2025, de 7 de octubre, que añadía esta disposición, por Sentencia de TS de 6 de octubre de 2026. Ref. BOE-A-2026-22083
+
+> Se añade por el art. 1.24 del Real Decreto 905/2025, de 7 de octubre. Ref. BOE-A-2025-20002

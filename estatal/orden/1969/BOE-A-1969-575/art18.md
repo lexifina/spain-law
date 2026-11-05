@@ -1,0 +1,5 @@
+## Art. 18. Prestaciones económicas por gran invalidez.
+
+La situación de invalidez, en el grado de gran invalidez, dará derecho, a quienes reúnan las condiciones establecidas en el artículo 19, a la prestación económica que se señala en el articulo anterior para el de incapacidad permanente absoluta, incrementándose la pensión en un 50 por 100 destinado a remunerar a la persona que atienda al inválido.
+
+La Entidad gestora o la Mutua Patronal, en su caso, que hubiera tenido a su cargo la protección de la incapacidad podrá autorizar, a petición del gran inválido o de sus representantes legales y siempre que lo considere conveniente en beneficio del mismo, la sustitución del incremento a que se refiere el párrafo anterior, por el alojamiento y cuidado del inválido, a cargo de dicha Entidad o Mutua Patronal, en régimen de internado, en una Institución asistencial. La petición podrá ser formulada en cualquier momento; el gran inválido o sus representantes legales podrán igualmente decidir, en cualquier momento, con carácter vinculante para la Entidad Gestora o Mutua Patronal que haya autorizado la referida sustitución, que ésta quede sin efecto.

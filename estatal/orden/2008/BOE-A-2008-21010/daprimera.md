@@ -1,0 +1,5 @@
+## Disposición adicional primera. Tarifa de último recurso.
+
+1. En aplicación de los dispuesto en los apartados 3 y 4 del artículo 2 de la Orden ITC/2857/2008, de 10 de octubre, por la que se establece la tarifa del suministro de último recurso de gas natural, los términos fijos y variables de las tarifas de último recurso aplicables desde las cero horas del día 1 de enero de 2009 que son los recogidos en el anexo II de la presente orden.
+
+2. En aplicación de lo establecido en el articulo 3.2 del real Decreto 1068/2007, de 27 de julio, por el que se regula la puesta en marcha del suministro de último recurso de gas natural, el precio a pagar al comercializador de último recurso por los consumidores que transitoriamente no dispongan de contrato de suministro en vigor con un comercializador será el precio máximo de último recurso aplicable a los consumidores del grupo T.1. En cualquier caso, el importe facturado no podrá ser inferior al término de conducción del peaje de transporte y distribución que correspondiera al consumidor.

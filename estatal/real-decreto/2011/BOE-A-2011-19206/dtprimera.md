@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Periodo transitorio de sujetos autorizados para la presentación de ofertas de compra y venta de energía en el mercado diario e intradiario.
+
+1. Hasta que se revise el calendario de los consumidores con derecho a acogerse a las tarifas de último recurso, cualquiera que sea esta modificación, serán solo los comercializadores de último recurso que estén suministrando electricidad en el sistema eléctrico balear quienes, hasta la proporción a su demanda en el citado sistema, deberán presentar las ofertas de compra y, en su caso, de venta de energía en el mercado diario y, en su caso, intradiario, para la programación de energía a través del enlace con el sistema eléctrico peninsular, por las cantidades y precios que haya indicado el operador del sistema.
+
+2. En tanto no se conecte eléctricamente el subsistema Mallorca-Menorca con el resto de los subsistemas del sistema balear, las referencias realizadas al sistema balear deben entenderse con respecto al subsistema Mallorca-Menorca.

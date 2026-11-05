@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+El presente real decreto se dicta al amparo de los artículos 149.1.10.ª y 149.1.13.ª de la Constitución Española, que atribuyen al Estado competencia exclusiva, respectivamente, sobre comercio exterior y sobre las bases y coordinación de la planificación general de la actividad económica. Asimismo, la regulación de los requisitos técnicos y de seguridad de las motos náuticas, embarcaciones deportivas y sus componentes se ampara en el artículo 149.1.20.ª de la Constitución, que establece las competencias exclusivas del Estado en materia de marina mercante.

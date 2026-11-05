@@ -1,0 +1,1 @@
+Norma derogada con efectos de 21 de febrero de 2019, excepto lo dispuesto en el segundo párrafo del apartado 4 de su disposición transitoria primera, por la disposición derogatoria única.10 del Real Decreto 70/2019, de 15 de febrero. Ref. BOE-A-2019-2289

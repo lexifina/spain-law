@@ -1,0 +1,55 @@
+La Directiva (UE) 2018/822 del Consejo, de 25 de mayo de 2018, que modifica la Directiva 2011/16/UE por lo que se refiere al intercambio automático y obligatorio de información en el ámbito de la fiscalidad en relación con los mecanismos transfronterizos sujetos a comunicación de información, establece la obligación de comunicación de determinados mecanismos transfronterizos de planificación fiscal potencialmente agresiva.
+
+Esta Directiva ha sido transpuesta por la Ley 10/2020, de 29 de diciembre, por la que se modifica la Ley 58/2003, de 17 de diciembre, General Tributaria, en transposición de la Directiva (UE) 2018/822 del consejo, de 25 de mayo de 2018, que modifica la Directiva 2011/16/UE por lo que se refiere al intercambio automático y obligatorio de información en el ámbito de la fiscalidad en relación con los mecanismos transfronterizos sujetos a comunicación de información, introduciendo dos nuevas disposiciones adicionales en la Ley 58/2003, de 17 de diciembre, General Tributaria. La primera de estas disposiciones es la disposición adicional vigésima tercera, por la que se crean tres obligaciones distintas de información sobre mecanismos transfronterizos de planificación fiscal.
+
+El Real Decreto 243/2021, de 6 de abril, por el que se modifica el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, en transposición de la Directiva (UE) 2018/822 del Consejo, de 25 de mayo de 2018, que modifica la Directiva 2011/16/UE, por lo que se refiere al intercambio automático y obligatorio de información en el ámbito de la fiscalidad en relación con los mecanismos transfronterizos sujetos a comunicación de información, completa dicha transposición desarrollando las nuevas obligaciones de información reguladas en la Ley General Tributaria.
+
+La presente orden ministerial tiene por objeto aprobar los correspondientes modelos de declaración, así como el lugar de presentación, y el resto de datos relevantes para el cumplimiento de las siguientes obligaciones de información sobre mecanismos transfronterizos de planificación fiscal:
+
+1. Información de mecanismos transfronterizos a que se refiere el apartado 1.a) de la disposición adicional vigésima tercera de la Ley 58/2003, de 17 de diciembre, General Tributaria. Se cumplirá con esta obligación mediante la presentación del modelo 234.
+
+2. Información de actualización de los mecanismos transfronterizos comercializables a que se refiere el apartado 1.b) de la disposición adicional vigésima tercera de la Ley 58/2003, de 17 de diciembre, General Tributaria. Se cumplirá esta obligación con la presentación del modelo 235.
+
+3. Información de la utilización en España de los mecanismos transfronterizos de planificación fiscal a que se refiere el apartado 1.c) de la disposición adicional vigésima tercera de la Ley 58/2003, de 17 de diciembre, General Tributaria. Se cumplirá esta obligación con la presentación del modelo 236.
+
+Estas nuevas obligaciones de información surgen de la necesidad de los Estados miembros de proteger sus bases imponibles nacionales de la erosión, ya que las estructuras de planificación fiscal han evolucionado hasta adquirir una especial complejidad y a menudo aprovechan el incremento de la movilidad de personas y capitales dentro del mercado interior europeo. Habitualmente, estas estructuras consisten en mecanismos que abarcan varias jurisdicciones y que trasladan los beneficios imponibles a regímenes fiscales más favorables, o que tienen por efecto la reducción de la factura fiscal global del contribuyente. Resulta, por tanto, crucial que las autoridades tributarias de los Estados miembros obtengan información completa y pertinente sobre los mecanismos fiscales potencialmente agresivos. Esta información permitirá a dichas autoridades reaccionar rápidamente ante las prácticas fiscales nocivas y colmar las lagunas existentes mediante la promulgación de legislación o la realización de análisis de riesgos adecuados y de auditorías fiscales, con el objetivo de contribuir de forma eficaz a los esfuerzos por crear un entorno de equidad tributaria en el mercado interior europeo incrementando las posibilidades de lograr un efecto disuasorio respecto de la realización de mecanismos de planificación fiscal agresiva.
+
+La presente orden se estructura en 18 artículos, tres disposiciones transitorias y dos disposiciones finales.
+
+Así, se procede a aprobar en el artículo 1 el modelo 234 de «Declaración de información de determinados mecanismos transfronterizos de planificación fiscal» que se desarrolla en los artículos 2 a 6 de la presente orden.
+
+El modelo 234 debe presentarse por los intermediarios, o en su caso, los obligados tributarios interesados en los términos previstos en los apartados 4 y 5 del artículo 45 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio.
+
+En este modelo se declararán los mecanismos que tengan la consideración de transfronterizos en los cuales concurren determinadas circunstancias denominadas «señas distintivas» tal y como delimita el apartado 2 del artículo 45 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio.
+
+El modelo 234 deberá presentarse, de acuerdo con el apartado 4 del artículo 46 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio, en el plazo de los treinta días naturales siguientes al nacimiento de la obligación definido en el mencionado reglamento.
+
+Asimismo, se procede a aprobar en el artículo 7 el modelo 235 de «Declaración de información de actualización de determinados mecanismos transfronterizos comercializables» que se desarrolla en los artículos 8 a 12 de la presente orden.
+
+El modelo 235 debe presentarse por los intermediarios en los términos recogidos en el artículo 48 del Reglamento General aprobado por Real Decreto 1065/2007, de 27 de julio. En este modelo se declararán los datos actualizados de los mecanismos transfronterizos comercializables, es decir, de los mecanismos transfronterizos diseñados, comercializados, ejecutables o puestos a disposición para su ejecución sin necesidad de adaptación sustancial, siempre que hayan sido declarados con anterioridad.
+
+Deberá presentarse el modelo 235, de acuerdo con el aparatado 3 del artículo 48 del Reglamento General aprobado por Real Decreto 1065/2007, de 27 de julio, en el plazo del mes natural siguiente a la finalización del trimestre natural en el que se hayan puesto a disposición mecanismos transfronterizos comercializables con posterioridad al mismo mecanismo originariamente declarado.
+
+Por último, se aprueba en el artículo 13 el modelo 236 de «Declaración de información de la utilización de determinados mecanismos transfronterizos de planificación fiscal» que se desarrolla en los artículos 14 a 18 de la presente orden.
+
+El modelo 236 debe presentarse por los obligados tributarios interesados en los términos previstos en el artículo 49 del Reglamento General aprobado por Real Decreto 1065/2007, de 27 de julio. En este modelo se declarará la información relativa a la utilización en España de los mecanismos transfronterizos que hayan debido ser previamente declarados a la Administración tributaria española o a otra Administración tributaria cuando concurra alguno de los criterios previstos en el apartado 1 del artículo 49 del citado Reglamento General.
+
+Deberá presentarse el modelo 236, de acuerdo con el apartado 3 del artículo 49 del Reglamento General aprobado por Real Decreto 1065/2007, de 27 de julio, durante el último trimestre del año natural siguiente a aquel en el que se haya producido la utilización en España de los mecanismos transfronterizos que hayan debido ser previamente declarados.
+
+Por otra parte, la orden establece como forma de presentación la remisión de la información mediante el envío de los correspondientes mensajes informáticos, de acuerdo con las condiciones y el procedimiento previsto en la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria. En el caso de obligados tributarios personas físicas se podrá realizar la presentación mediante el sistema Cl@ve.
+
+De acuerdo con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la elaboración de esta orden se ha efectuado de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+
+Se cumplen los principios de necesidad y eficacia jurídica por ser desarrollo de una norma legal y reglamentaria y el instrumento adecuado para dicho desarrollo.
+
+Se cumple también el principio de proporcionalidad al contener la regulación necesaria para conseguir los objetivos que justifican su aprobación.
+
+Respecto al principio de seguridad jurídica, se ha garantizado la coherencia del texto con el resto del ordenamiento jurídico nacional, así como con el de la Unión Europea, generando un marco normativo estable, predecible, integrado, claro y de certidumbre que facilita su conocimiento y comprensión y, en consecuencia, la actuación y toma de decisiones de los diferentes sujetos afectados sin introducción de cargas administrativas innecesarias.
+
+El principio de transparencia, sin perjuicio de su publicación oficial en el «Boletín Oficial del Estado», se ha garantizado mediante la publicación del proyecto de orden y correspondiente memoria en la página web del Ministerio de Hacienda, a efectos de que pudieran ser conocidos dichos textos en el trámite de audiencia e información pública por todos los ciudadanos.
+
+Por último, en relación con el principio de eficiencia se ha procurado que la norma genere las menores cargas administrativas para los ciudadanos, así como los menores costes indirectos, fomentando el uso racional de los recursos públicos y el pleno respeto a los principios de estabilidad presupuestaria y sostenibilidad financiera.
+
+La orden ministerial se dicta al amparo de las habilitaciones contenidas en los artículos 46.4, 48.3 y 49.3 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio.
+
+En su virtud, dispongo:

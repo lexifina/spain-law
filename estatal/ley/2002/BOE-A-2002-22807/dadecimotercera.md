@@ -1,0 +1,3 @@
+## Disposición adicional decimotercera. Modificación de los límites máximos de aportaciones a la Mutualidad de Previsión Social de deportistas profesionales.
+
+La cuantía de 15.025,30 euros a la que se refiere la disposición adicional vigésima tercera de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias, se eleva a la que para partícipes de sesenta y cinco años o más se fija en los artículos 5.3.ª) de la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones, y 46.1.5.o a) de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias.

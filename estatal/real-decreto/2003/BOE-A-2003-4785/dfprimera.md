@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de la competencia exclusiva atribuida al Estado por el artículo 149.1.13.ª de la Constitución, en materia de bases y coordinación general de la actividad económica, y por el artículo 149.1.23.ª, para dictar legislación básica sobre protección del medio ambiente y sobre montes y aprovechamientos forestales. Se excepcionan de lo anterior los artículos 15 y 17, que se dictan al amparo de la competencia exclusiva atribuida al Estado por el artículo 149.1.10.ª de la Constitución en materia de comercio exterior.

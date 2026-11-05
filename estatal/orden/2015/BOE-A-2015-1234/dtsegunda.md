@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen aplicable a la entrada en servicio de subsistemas en fase de desarrollo o de ejecución.
+
+Para el caso de los subsistemas que estén en fase de desarrollo o ejecución en el momento de entrada en vigor de la presente orden, la autoridad responsable de la seguridad ferroviaria, previa solicitud del interesado, podrá decidir no aplicar la misma para la autorización de entrada en servicio de dichos subsistemas, teniendo en cuenta, entre otros aspectos, el grado de avance en que se encuentren los trabajos de puesta en servicio, con los condicionantes que en cada caso correspondan según la motivación de la solicitud realizada.

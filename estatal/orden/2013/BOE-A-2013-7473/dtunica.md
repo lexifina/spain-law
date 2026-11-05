@@ -1,0 +1,9 @@
+## Disposición transitoria única. Aplicación a los contratos cuya revisión de precios está regulada por normas anteriores al Real Decreto 1359/2011.
+
+1. Para los contratos cuya revisión de precios viene regulada por fórmulas aprobadas por disposiciones anteriores a la entrada en vigor del Real Decreto 1359/2011, los índices mensuales de precios del aluminio, de los materiales bituminosos, del cemento, de los materiales cerámicos, de la madera, de los materiales siderúrgicos, del cobre, de los materiales textiles y de los materiales para fabricación de calzado que se determinen por las presentes reglas serán de aplicación a los índices de precios de los meses posteriores a la entrada en vigor de la presente orden.
+
+2. Para los contratos y meses indicados en el apartado anterior, el índice de precios de la energía de aplicación en las fórmulas vigentes hasta la entrada en vigor del Real Decreto 1359/2011 se determinará por la media ponderada de los índices de precios de la energía y de los materiales explosivos determinados de acuerdo con lo dispuesto en la presente orden, asignando al primero una ponderación del 90 por ciento y al segundo una ponderación del 10 por ciento.
+
+3. Los índices de precios de aplicación en las fórmulas vigentes hasta la entrada en vigor del Real Decreto 1359/2011 para los meses anteriores a su entrada en vigor se seguirán calculando por aplicación de las reglas de determinación de índices mensuales de precios vigentes hasta dicha fecha.
+
+4. El Comité Superior de Precios de Contratos del Estado, a propuesta del Instituto Nacional de Estadística, determinará los coeficientes de enlace y demás mecanismos técnicos adicionales que, en su caso, resulten necesarios para asegurar la aplicación consistente de las reglas de determinación de los índices mensuales de precios de los materiales incluidos en las fórmulas de revisión de precios.

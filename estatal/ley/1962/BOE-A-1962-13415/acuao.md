@@ -1,0 +1,3 @@
+## Artículo cuarto.
+
+Por consecuencia de lo relacionado en los artículos precedentes, todos los hospitales, independientemente del Organismo a quien corresponda su titularidad y regencia, constituirán la Red Hospitalaria Nacional. Su aprobación corresponderá al Gobierno y en ella se catalogarán los hospitales, en razón a los siguientes motivos: Por sus funciones, en generales y especiales; por su ámbito, en nacionales, regionales, provinciales y locales; por su nivel asistencial se tendrán en cuenta las exigencias de una hospitalización adecuada atendidas las características del local, instalación, personal y material, y por su carácter patrimonial según sea el Organismo, la Entidad o persona a quien corresponda o pertenezcan.

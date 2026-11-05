@@ -1,0 +1,11 @@
+Por tanto,
+
+Mando a todos los españoles, particulares y autoridades, que guarden y hagan guardar esta ley.
+
+Madrid, 18 de diciembre de 2009.
+
+JUAN CARLOS R.
+
+La Presidenta del Gobierno en funciones,
+
+MARÍA TERESA FERNÁNDEZ DE LA VEGA SANZ

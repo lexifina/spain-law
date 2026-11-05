@@ -1,0 +1,5 @@
+## Artículo 530.
+
+En las convocatorias para puestos de trabajo de las comunidades autónomas con competencias asumidas cuya lengua propia tenga carácter oficial, se valorará como mérito el conocimiento oral y escrito de la misma. En determinados puestos, podrá considerarse requisito exigible para el acceso a los mismos, cuando de la naturaleza de las funciones a desempeñar se derive dicha exigencia y así se establezca en las relaciones de puestos de trabajo.
+
+> Se añade por el art. único.124 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

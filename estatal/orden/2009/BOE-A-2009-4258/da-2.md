@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Forma de presentar el informe en relación con las cuentas anuales.
+
+El informe regulado en esta Orden Ministerial acompañará a las cuentas anuales individuales. No obstante, las entidades cuya información presupuestaria figure de forma consolidada en los Presupuestos Generales del Estado de cada ejercicio y que, de conformidad con lo previsto en la disposición adicional única de la Orden del Ministro de Hacienda de 12 de diciembre de 2000, por la que se regula la elaboración de la Cuenta General del Estado, estén obligadas a presentar cuentas anuales consolidadas, deben presentar la información contenida en el artículo 3, letras a), b) y c) de esta Orden de forma consolidada y acompañando a las cuentas anuales consolidadas.
+
+En el caso de que la entidad cuya información presupuestaria figura de forma consolidada en la Ley de Presupuestos Generales del Estado de cada ejercicio no esté obligada a presentar cuentas anuales consolidadas, la información contenida en el apartado anteriormente citado se presentará de forma consolidada pero acompañando a las cuentas anuales individuales aprobadas.

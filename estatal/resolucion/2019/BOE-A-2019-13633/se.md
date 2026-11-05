@@ -1,0 +1,9 @@
+## Segundo. Presentación de la documentación de la cesión de crédito.
+
+La notificación de la cesión de crédito y la presentación de la documentación correspondiente a la misma, se efectuará a través de la factura electrónica o a través de registro.
+
+La presentación a través de la factura electrónica requerirá la cumplimentación del bloque de datos correspondiente a la cesión en la propia factura electrónica y, en particular, la referenciación electrónica de la documentación en la que se formaliza el contrato de cesión y el poder de representación. La factura electrónica presentada en el Punto general de entrada de facturas electrónicas, tras la anotación correspondiente en el registro administrativo asociado, será puesta a disposición de la unidad tramitadora correspondiente a través de la oficina contable competente, de acuerdo con el procedimiento establecido en la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público y en la Orden HAP/492/2014, de 27 de marzo, por la que se regulan los requisitos funcionales y técnicos del registro contable de facturas de las entidades del ámbito de aplicación de la Ley 25/2013.
+
+No obstante, esta modalidad de presentación a través de la factura electrónica no se habilitará hasta que el Punto de entrada de facturas electrónicas de la Administración General del Estado (FACe) pueda proporcionar el servicio correspondiente para la recuperación de la documentación de la cesión a partir de las referencias electrónicas incluidas en la propia factura electrónica.
+
+La presentación a través de registro de la documentación en la que se formaliza el contrato de cesión y el poder de representación irá destinada al Servicio gestor o unidad tramitadora del expediente o expedientes de gastos afectados.

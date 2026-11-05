@@ -1,0 +1,3 @@
+## Disposición final decimoquinta. Fundamento constitucional del capítulo III del título II, «Medidas para la aplicación del principio de igualdad de trato», y de los artículos 50.seis y 51.uno.
+
+El capítulo III, «Medidas para la aplicación del principio de igualdad de trato», del título II y los apartados seis del artículo 50 y uno del artículo 51 de esta ley se dictan al amparo de las competencias que el artículo 149.1.1.ª, 6.ª, 7.ª y 18.ª de la Constitución española atribuye en exclusiva al Estado, relativas a la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, legislación laboral y bases del régimen estatutario de los funcionarios públicos.

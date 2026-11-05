@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Permiso de conducción de la clase B1 (TA) restringido.
+
+Quienes a la entrada en vigor de este reglamento sean titulares de un permiso de conducción de la clase B1 (TA) restringido para la conducción de tractores y máquinas automotrices agrícolas, al que se referían los artículos 262.VI y 309.1.2.2, ambos del Código de la Circulación, aprobado por Decreto de 25 de septiembre de 1934, estarán autorizados para conducir vehículos especiales agrícolas autopropulsados y sus conjuntos aunque su masa o dimensiones máximas autorizadas excedan de los límites establecidos para los vehículos ordinarios o aunque su velocidad máxima por construcción sea superior a 45 km/h.

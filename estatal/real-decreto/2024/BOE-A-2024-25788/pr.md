@@ -1,0 +1,33 @@
+I
+
+La rápida transformación experimentada por la economía en los últimos años está propiciando la aparición de nuevas empresas que hacen de la innovación y del medio digital las bases para la creación de productos y servicios de alto valor añadido.
+
+Apoyar e impulsar a este tipo de empresas resulta fundamental para mejorar la competitividad del país en un mundo en el que la apuesta por la tecnología, la digitalización, la transición ecológica y la innovación es ya una obligación.
+
+Bajo este contexto, una adecuada cooperación público-privada entre los distintos actores representativos del ecosistema innovador español, canalizada a través de un espacio de diálogo, resulta esencial para coordinar las políticas públicas y maximizar su eficacia y eficiencia, a través del análisis de los objetivos establecidos y las medidas puestas en marcha, así como la detección de necesidades a la vista de estos resultados.
+
+La Ley 28/2022, de 21 de diciembre, de fomento del ecosistema de las empresas emergentes, busca dar respuesta a los principales retos a los que se enfrentan este tipo de empresas, entre los que se encuentran el alto riesgo que deben asumir por su inherente carácter innovador, la dificultad de acceso a la financiación en las distintas fases de vida de la empresa o la necesidad de disponer de trabajadores altamente cualificados.
+
+Asimismo, el Consejo de Ministros, en su reunión del día 31 de enero de 2023, aprueba el Plan Anual Normativo para 2023, donde se anuncia la creación del Foro Nacional de las Empresas Emergentes.
+
+En relación con el contenido del real decreto, el artículo 25.1 de la citada Ley 28/2022, de 21 de diciembre, establece que el Gobierno crea el Foro Nacional de Empresas Emergentes como órgano colegiado interministerial consultivo y de colaboración entre las Administraciones Públicas, universidades, organismos públicos de investigación y centros tecnológicos, asociaciones empresariales de base asociativa más representativas de ámbito estatal y autonómico, asociaciones o corporaciones de profesionales intermediarios, las empresas emergentes y aquellas otras que colaboran con ellas.
+
+En concreto, el real decreto regula la naturaleza jurídica del Foro Nacional de Empresas Emergentes y su dependencia orgánica, quedando adscrito al Ministerio para la Transformación Digital y de la Función Pública a través de la Secretaría de Estado de Digitalización e Inteligencia Artificial. Además, dada su naturaleza de órgano colegiado, el Foro se ajustará a lo dispuesto en el título preliminar capítulo II, sección 3.ª de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+Por otra parte, en el marco de lo establecido en la ley, el real decreto desarrolla las funciones atribuidas a este órgano y establece su composición, integrada por presidencia, vicepresidencia y vocalías, y régimen de funcionamiento. En este sentido, el Foro Nacional de Empresas Emergentes se estructura en Pleno, de carácter institucional, Comisión Permanente, como órgano ejecutivo, y grupos de trabajo, que permitan abordar cuestiones específicas que se planteen. De esta manera, el Foro Nacional de Empresas Emergentes refuerza los mecanismos de participación entre todas las partes relevantes, promoviendo que las políticas públicas y su ejecución respondan a necesidades reales de las empresas emergentes, en coordinación con otros órganos existentes como el Consejo Estatal de la pequeña y la mediana empresa.
+
+El contenido de este real decreto se ajusta a los principios de buena regulación contemplados en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, en virtud de los principios de necesidad y eficacia, se justifica esta norma en la necesidad de disponer de un foro de cooperación, información y consulta en la que participen los agentes más relevantes en materia de emprendimiento innovador, siendo la creación de este Foro la forma más eficaz de conseguirlo, dando cumplimiento a lo dispuesto en el artículo 25 de la Ley 28/2022, de 21 de diciembre. La citada ley es una norma pionera en Europa, al integrar en un único texto normativo un conjunto de medidas destinadas a impulsar el ecosistema emprendedor y las empresas emergentes, reconociendo, de ese modo, su singularidad. En ese sentido, resulta fundamental disponer de un órgano que permita relacionarse con el ecosistema e intercambiar información y conocimiento, realizando así un seguimiento adecuado tanto de la propia ley como del resto de iniciativas de fomento del emprendimiento innovador.
+
+Se han tenido en cuenta, asimismo, los principios de eficiencia y proporcionalidad, al establecer la mínima regulación imprescindible para la consecución de los fines que se pretenden, sin imponer cargas administrativas y estableciendo el no incremento de gasto público para el funcionamiento del Foro.
+
+De acuerdo con el principio de transparencia, la tramitación de esta norma ha respetado lo dispuesto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. Además, los objetivos y justificación de esta disposición quedan claramente definidos en su parte expositiva y durante su elaboración se ha posibilitado la participación de las personas destinatarias mediante el proceso de consultas a que se ha sometido la iniciativa.
+
+Por último, el real decreto atiende al principio de seguridad jurídica, manteniendo la coherencia con el resto del ordenamiento jurídico que es de aplicación, desarrollando lo dispuesto en la Ley 28/2022, de 21 de diciembre, y regulando distintos aspectos sobre el funcionamiento del Foro.
+
+En cumplimiento de lo previsto en la Ley 50/1997, de 27 de noviembre, del Gobierno, el proyecto de real decreto ha sido sometido al preceptivo trámite de consulta y audiencia mediante su puesta a disposición de los sectores afectados en la sede electrónica del Ministerio para la Transformación Digital y de la Función Pública.
+
+El presente real decreto se dicta en virtud de la habilitación para el desarrollo normativo que establece el artículo 25.3 y la disposición final undécima de la Ley 28/2022, de 21 de diciembre, de fomento del ecosistema de las empresas emergentes, y de acuerdo con lo establecido en el artículo 21 de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+En su virtud, a propuesta del Ministro para la Transformación Digital y de la Función Pública y del Ministro de Industria y Turismo, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 11 de noviembre de 2024,
+
+DISPONGO:

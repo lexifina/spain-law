@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 10 de abril de 2022, a excepción de sus artículos 6, 8, 9, 10, 11, 14 y la disposición adicional segunda, por la disposición derogatoria segunda de la Ley 7/2022, de 8 de abril. Ref. BOE-A-2022-5809#dd-2

@@ -1,0 +1,5 @@
+## Disposición transitoria única. Unidades y puestos de trabajo con rango inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General continuarán subsistentes y serán retribuidas con cargo a los mismos presupuestos hasta que se aprueben las correspondientes relaciones de puestos de trabajo de la Mutualidad adaptadas a la estructura orgánica que se aprueba por este Real Decreto. Dicha adaptación en ningún caso podrá generar un incremento de gasto público e, incluso, la posible disminución de coste que pueda suponer la aplicación del presente Real Decreto no podrá ser compensada en reestructuraciones futuras o para financiar modificaciones de relaciones de puestos de trabajo.
+
+Las unidades y puestos de trabajo encuadrados en los órganos suprimidos por este Real Decreto se adscribirán provisionalmente mediante Resolución del Director general de MUFACE, hasta tanto entre en vigor la nueva relación de puestos de trabajo, a los nuevos órganos regulados en este Real Decreto en función de las atribuciones que éstos tienen asignados.

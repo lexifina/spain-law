@@ -1,0 +1,15 @@
+## Disposición adicional vigésima. Regulación del juego.
+
+El Gobierno presentará un Proyecto de Ley para regular las actividades de juego y apuestas, en particular las realizadas a través de sistemas interactivos basados en comunicaciones electrónicas, que atenderá a los siguientes principios:
+
+1. Asegurar la compatibilidad de la nueva regulación con la normativa aplicable a otros ámbitos vinculados a la prestación de este tipo de servicios, y, en especial, a la normativa de protección de los menores, de la juventud, de grupos especialmente sensibles de usuarios así como de los consumidores en general, además del ámbito de protección de datos de carácter personal y de servicios de la Sociedad de la Información.
+
+2. Establecer una regulación sobre la explotación de actividades de juego por sistemas interactivos de acuerdo con la normativa y los principios generales del derecho comunitario.
+
+3. Articular un sistema de control sobre los servicios de juego y apuestas por sistemas interactivos que garantice unas condiciones de mercado plenamente seguras y equitativas para los operadores de tales sistemas así como unos adecuados niveles de protección de los usuarios. En particular, deberá regular la actividad de aquellos operadores que ya cuenten con una autorización para la presentación de los mencionados servicios otorgada por las autoridades de cualquiera de los Estados miembros de la Unión Europea.
+
+4. Establecer un sistema de tributación sobre los servicios de juego y apuestas por sistemas interactivos atendiendo al origen de las operaciones objeto de tributación. La regulación deberá igualmente prever un sistema de distribución de la tributación obtenida como consecuencia de la explotación de servicios de juego y apuestas por medios electrónicos en España entre la Administración Estatal y las Comunidades Autónomas, teniendo en cuenta la especificidad fiscal de los regímenes forales.
+
+5. La actividad de juego y apuestas a través de sistemas interactivos basados en comunicaciones electrónicas sólo podrá ejercerse por aquellos operadores autorizados para ello por la Administración Pública competente, mediante la concesión de una autorización tras el cumplimiento de las condiciones y requisitos que se establezcan. Quien no disponga de esta autorización no podrá realizar actividad alguna relacionada con los juegos y apuestas interactivos. En particular, se establecerán las medidas necesarias para impedir la realización de publicidad por cualquier medio así como la prohibición de utilizar cualquier medio de pago existente en España. Por otra parte, se sancionará de conformidad con la legislación de represión del contrabando la realización de actividades de juego y apuestas a través de sistemas interactivos sin contar con la autorización pertinente.
+
+6. La competencia para la ordenación de las actividades de juegos y apuestas realizadas a través de sistemas interactivos corresponderá a la Administración General del Estado cuando su ámbito sea el conjunto del territorio nacional o abarque más de una Comunidad Autónoma.

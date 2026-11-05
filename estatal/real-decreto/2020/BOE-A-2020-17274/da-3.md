@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Convalidación del módulo profesional de Formación y Orientación Laboral.
+
+Sin perjuicio de lo establecido en otras normas, para la convalidación del módulo profesional de Formación y Orientación Laboral incluido en los títulos derivados de la Ley Orgánica 2/2006, de 3 de mayo, será necesaria la acreditación de la formación establecida para el desempeño de las funciones de nivel básico de la actividad preventiva, expedida de acuerdo con lo dispuesto en el Real Decreto 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, con indicación expresa de los contenidos superados.

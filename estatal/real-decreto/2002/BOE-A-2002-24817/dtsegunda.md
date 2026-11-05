@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Antiguas especialidades no adscritas a las nuevas.
+
+Los profesores y maestros de taller de las antiguas especialidades para las que no se establece ninguna correspondencia en los anexos III y IV con las especialidades de nueva creación, continuarán desempeñando las mismas funciones que tenían asignadas en el momento de la aprobación del presente Real Decreto, sin perjuicio de que las Administraciones educativas, oídos los interesados, puedan adscribirles a otros puestos o funciones teniendo en cuenta la formación específica de cada uno de ellos y su adecuación a las necesidades docentes.

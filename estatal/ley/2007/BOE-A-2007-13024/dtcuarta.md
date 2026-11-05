@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de los agentes externos autorizados.
+
+Los agentes externos que con anterioridad a la entrada en vigor de la presente Ley hubieran obtenido la autorización administrativa y estuvieran inscritos en el correspondiente registro administrativo, dispondrán de un plazo de seis meses para adaptar su autorización e inscripción a la figura del comercializador. Durante este periodo los derechos y obligaciones de estos sujetos serán los establecidos en la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, y sus disposiciones de desarrollo para los comercializadores.

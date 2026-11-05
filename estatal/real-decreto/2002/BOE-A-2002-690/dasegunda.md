@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Asignación del volumen máximo de las ayudas.
+
+1. El Ministerio de Agricultura, Pesca y Alimentación, dentro de los límites de sus asignaciones presupuestarias, determinará anualmente el volumen total de ayudas para la cofinanciación de acuerdo con lo que se desprenda de los cuadros financieros correspondientes a los programas nacional y regionales de la iniciativa LEADER Plus y a las medidas de desarrollo endógeno incluidas en los programas operativos integrados y en los programas de desarrollo rural. Estos volúmenes tendrán un seguimiento constante en su ejecución y podrán ser objeto de revisión, de acuerdo con los mecanismos que al efecto se establezcan, para su adaptación a la evolución general del programa de ayudas establecido en el presente Real Decreto, tanto en su aspecto territorial como por línea de ayuda.
+
+2. El Ministerio de Agricultura, Pesca y Alimentación informará de lo dispuesto en el párrafo anterior a la Comisión Delegada del Gobierno para Asuntos Económicos.

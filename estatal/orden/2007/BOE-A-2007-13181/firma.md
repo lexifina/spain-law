@@ -1,0 +1,1 @@
+Madrid, 6 de julio de 2007.–La Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, P. S. (Real Decreto 898/2007, de 5 de julio), el Vicepresidente Segundo del Gobierno y Ministro de Economía y Hacienda, Pedro Solbes Mira.

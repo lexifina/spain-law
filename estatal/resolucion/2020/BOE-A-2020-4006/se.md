@@ -1,0 +1,3 @@
+## Segundo.
+
+Cuando la fecha en la que vaya a tener lugar el acto formal de recepción de dichas entregas, fijada de acuerdo con el procedimiento previsto en el apartado Decimotercero de la de la Resolución de 14 de julio de 2015, de la Intervención General de la Administración del Estado, sobre el desarrollo de la función interventora en el ámbito de la comprobación material de la inversión, esté comprendida en el periodo de duración del estado de alarma, los representantes designados por la Intervención General comunicarán al gestor si, de acuerdo con lo previsto en el apartado anterior de esta Resolución, asistirán o no a dicho acto.

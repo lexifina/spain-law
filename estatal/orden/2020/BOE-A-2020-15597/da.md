@@ -1,0 +1,3 @@
+## Disposición adicional primera. Convenios y acuerdos.
+
+Para impartir los cursos de perfeccionamiento requeridos en el NC2 y el NC3, se podrán establecer los convenios y acuerdos necesarios con los organismos que correspondan y permitan proporcionar, en lo que sea de aplicación y de conformidad con el artículo 7.3, párrafos e) y f), la formación necesaria para los objetivos docentes. Igualmente podrán establecerse los convenios y acuerdos necesarios con los organismos que correspondan y permitan proporcionar las jornadas de actualización referidas en el artículo 8.3. de esta orden ministerial.

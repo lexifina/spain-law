@@ -1,0 +1,5 @@
+## Disposición transitoria sexta. Colaboración de las empresas en la gestión de la Seguridad Social.
+
+Lo establecido en la letra b) del número 1 del artículo 77 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto legislativo 1/1994, de 20 de junio, en tanto culmina el proceso de separación de fuentes entre el Sistema Nacional de Salud y el Sistema de Seguridad Social, habrá de entenderse sólo referido a aquellas empresas que vengan colaborando en la gestión de la asistencia sanitaria con anterioridad a la presente Ley.
+
+La compensación económica por dicha colaboración en el caso de la asistencia sanitaria se establecerá en función de los trabajadores protegidos y dará lugar a la percepción de un importe que no podrá ser inferior al que actualmente se viniera percibiendo por la empresa, salvo que este último fuera superior al coste medio, en el INSALUD, de las prestaciones que cubre la colaboración, en cuyo caso, será dicho coste el límite de la compensación a realizar. Reglamentariamente se establecerán los procedimientos para hacer efectiva la compensación económica.

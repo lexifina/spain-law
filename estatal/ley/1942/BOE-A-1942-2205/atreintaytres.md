@@ -1,0 +1,3 @@
+## Artículo treinta y tres. Repoblación de márgenes y álveos.
+
+Se declara de interés general la repoblación arbórea y arbustiva en las márgenes de los ríos y arroyos, con especies protectoras de la pesca y de los álveos, con especies acuáticas, facultándose al Servicio Piscícola para concertar con los dueños de los terrenos ribereños los cultivos conducentes a la finalidad expresada y proceder con el mismo objeto, si ello fuera preciso, a la expropiación forzosa de la parte indispensable de dichos terrenos. La declaración de utilidad pública y necesidad de ocupación de los mismos quedará declarada al ser aprobado por el Ministerio de Agricultura el correspondiente proyecto de repoblación redactado por el Servicio.

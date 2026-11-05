@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Compensación de ayudas de planes estatales de vivienda.
+
+A los efectos de lo dispuesto en la regla sexta del artículo 86.2 de la Ley 47/2003, se entenderá que tienen el mismo destino específico todos los fondos para subvenciones vinculadas a planes estatales de vivienda, transferidos a las comunidades autónomas y ciudades de Ceuta y Melilla y que se encuentren en poder de las mismas.
+
+El Ministerio de Transportes, Movilidad y Agenda Urbana podrá compensar con las comunidades autónomas y ciudades de Ceuta y Melilla, los importes que les hubiere adelantado cuyo pago esté pendiente de justificación, con las cantidades pendientes de transferencia, en concepto de subvención, sea cual sea la línea y naturaleza de la subvención y el plan estatal al que correspondan. En caso de no producirse la compensación, el Ministerio de Transportes, Movilidad y Agenda Urbana iniciará el procedimiento de reintegro al Tesoro Público. Todo ello, sin perjuicio de la obligación de las comunidades autónomas y las ciudades de Ceuta y Melilla de justificar el pago de la totalidad de las subvenciones percibidas.

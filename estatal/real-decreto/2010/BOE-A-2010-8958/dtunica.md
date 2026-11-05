@@ -1,0 +1,3 @@
+## Disposición transitoria única. Aplicabilidad de otras normas.
+
+En tanto no se produzca la implantación generalizada de las enseñanzas reguladas en el presente real decreto, serán de aplicación el Real Decreto 2398/1998, de 6 de noviembre, por el que se establecen los estudios superiores de Cerámica, pertenecientes a las enseñanzas de Artes Plásticas, el título correspondiente, la prueba de acceso y los aspectos básicos del currículo y en el Real Decreto 1090/2000, de 9 de junio, por el que se establecen los estudios superiores del Vidrio, el título correspondiente, la prueba de acceso y los aspectos básicos del currículo, así como los currículos que los desarrollan.

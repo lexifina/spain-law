@@ -1,0 +1,3 @@
+## Disposición final segunda. Títulos competenciales.
+
+Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.2 de la Constitución Española, que dispone que, sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial; y además por los títulos competenciales previstos en el artículo 149.1.14.ª de la Constitución Española, que atribuyen al Estado la competencia en materia de Hacienda general, y en el artículo 149.1.16.ª de la Constitución Española, que atribuyen al Estado competencia exclusiva en materia de bases y coordinación general de la sanidad, respectivamente.

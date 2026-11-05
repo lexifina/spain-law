@@ -1,0 +1,9 @@
+## Artículo 93.
+
+Las obras deberán iniciarse por el promotor, dentro del plazo máximo de dos meses, a contar de la fecha de concesión de la licencia municipal de obras en forma expresa o por aplicación del silencio administrativo, salvo cuando la cédula de calificación provisional sea posterior a dicha fecha, en que el plazo se computará a partir de la notificación de dicha cédula, o cuando la adjudicación de las obras se haya de hacer en la forma determinada en el artículo 90 de este Reglamento, en que la fecha inicial para el cómputo del referido plazo será la de la notificación de la autorización que en el citado artículo se previene. Para los promotores exceptuados de la previa autorización, el plazo para iniciar las obras se computará una vez transcurran los veinte días que el artículo 32 de la Ley de Contratos del Estado de 8 de abril de 1965 establece para el otorgamiento de la adjudicación definitiva.
+
+En todo caso, la fecha de iniciación de las obras deberá acreditarse dentro de los diez días siguientes, ante la Delegación Provincial, mediante certificación del Arquitecto Director. La falta de presentación de esta certificación dentro del plazo señalado dará lugar a que se entienda al promotor decaído en su derecho a este trámite y, en consecuencia, se presumirán iniciadas las obras en la fecha de otorgamiento de la licencia municipal, de la notificación de la cédula de calificación provisional o la de la autorización prevenida en el artículo 90 de este Reglamento.
+
+Si las obras no se inician dentro del plazo concedido se declarará la caducidad de la calificación provisional, de acuerdo con lo dispuesto en el párrafo primero del artículo 85 de este Reglamento.
+
+> Redactado el párrafo primero conforme a la corrección de errores publicada en BOE núm. 227, de 20 de septiembre de 1968. Ref. BOE-A-1968-1096.

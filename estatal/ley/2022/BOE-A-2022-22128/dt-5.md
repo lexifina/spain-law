@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Plazo para la modificación de la base imponible del Impuesto sobre el Valor Añadido por créditos incobrables.
+
+En los supuestos de modificación de la base imponible de créditos total o parcialmente incobrables, cuando a la fecha de entrada en vigor de esta ley no hubiera transcurrido el plazo de tres meses desde la finalización del periodo de seis meses o un año a que se refiere la condición 1.ª de la letra A) del apartado cuatro del artículo 80 de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, el plazo para modificar la base imponible referido en la letra B) de dicho apartado cuatro será de seis meses desde la finalización del aludido periodo de seis meses o un año.
+
+En el caso de operaciones a las que sea de aplicación el régimen especial del criterio de caja, la modificación de la base imponible podrá realizarse dentro de los 6 meses siguientes a partir de la fecha límite del 31 de diciembre a que se refiere el artículo 163 terdecies de la referida Ley 37/1992, de 28 de diciembre.

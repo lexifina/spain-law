@@ -1,0 +1,3 @@
+## VI. Forma de remisión de las relaciones anuales y expedientes de contratación y convenios
+
+Las relaciones anuales y los expedientes de contratación y convenios, así como sus modificaciones y demás incidencias deberán remitirse a través de la Plataforma de Contratación del Sector Público Estatal y Autonómico ubicada en la sede electrónica de la página web del Tribunal de Cuentas. La información remitida deberá estar firmada electrónicamente, de conformidad con lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, mediante firma electrónica consistente en la utilización de claves concertadas en un registro previo como usuario.

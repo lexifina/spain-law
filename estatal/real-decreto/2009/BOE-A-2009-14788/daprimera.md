@@ -1,0 +1,3 @@
+## Disposición adicional primera. Publicación en boletines oficiales.
+
+En el procedimiento judicial que se tramite para obtener la declaración de heredero a favor de la Administración General del Estado, será gratuita la publicación en los boletines oficiales de edictos en los que se llame a la herencia a posibles familiares del causante. También será gratuita la publicación en el boletín oficial de la provincia o de la comunidad autónoma, según proceda, del anuncio por el que se efectúe el llamamiento a favor de las instituciones que se consideren con derecho a beneficiarse de la herencia, de acuerdo con lo previsto en el artículo 14 de este Reglamento.

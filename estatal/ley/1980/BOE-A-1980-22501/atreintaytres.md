@@ -1,0 +1,5 @@
+## Artículo treinta y tres.
+
+Cuando mediante uno o varios contratos de seguros, referentes al mismo interés, riesgo y tiempo, se produce un reparto de cuotas determinadas entre varios aseguradores, previo acuerdo entre ellos y el tomador, cada asegurador está obligado, salvo pacto en contrario, al pago de la indemnización solamente en proporción a la cuota respectiva.
+
+No obstante lo previsto en el párrafo anterior, si en el pacto de coaseguro existe un encargo a favor de uno o varios aseguradores para suscribir los documentos contractuales o para pedir el cumplimiento del contrato o contratos al asegurado en nombre del resto de los aseguradores, se entenderá que durante toda la vigencia de la relación aseguradora los aseguradores delegados están legitimados para ejercitar todos los derechos y para recibir cuantas declaraciones y reclamaciones correspondan al asegurado. El asegurador que ha pagado una cantidad superior a la que le corresponda podrá repetir contra el resto de los aseguradores.

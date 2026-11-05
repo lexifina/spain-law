@@ -1,0 +1,3 @@
+## Disposición transitoria vigésima novena. Cobertura de la prestación económica por incapacidad temporal de los trabajadores incorporados al Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos con anterioridad al 1 de enero de 1998.
+
+La obligación de formalizar con una mutua colaboradora con la Seguridad Social la protección por la prestación económica por incapacidad temporal establecida en el artículo 83.1.b) no será exigible a los trabajadores incorporados al Régimen Especial de Trabajadores por Cuenta Propia o Autónomos con anterioridad al 1 de enero de 1998 y que tuvieran cubierta la misma con la entidad gestora.

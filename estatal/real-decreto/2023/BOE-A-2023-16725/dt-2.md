@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Instrucciones de aplicación de las recomendaciones del Comité Internacional para el Control del Rendimiento Animal.
+
+Las disposiciones de la Resolución de 10 de diciembre de 2020, de la Dirección General de Producciones y Mercados Agrarios, por la que se publican las recomendaciones del Comité Internacional para el Control del Rendimiento Animal, de acuerdo con las instrucciones de aplicación de las mismas establecidas por la Comisión Nacional de Control Lechero Oficial, permanecerán vigentes hasta que la Comisión Nacional de Control Lechero acuerde los protocolos que las substituyan.

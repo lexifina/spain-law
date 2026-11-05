@@ -1,0 +1,3 @@
+## ANEXO
+
+## Resolución de 5 de julio de 2020, conjunta de la Secretaría de Estado de Educación y la Secretaría General de Universidades, por la que se prevé la adaptación de las condiciones de realización de las pruebas para la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2019-2020, derivadas tanto de la situación sanitaria ocasionada por la pandemia producida por el COVID-19, como de las medidas adoptadas para contenerla por las autoridades de sus respectivos países

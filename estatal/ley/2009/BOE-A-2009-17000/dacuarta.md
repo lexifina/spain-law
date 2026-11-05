@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Ampliación del límite máximo de cobertura para nueva contratación por cuenta del Estado realizado a través de CESCE.
+
+Se amplía el límite máximo de cobertura para nueva contratación por cuenta del Estado realizado a través de la Compañía Española de Seguro de Crédito a la Exportación, Sociedad Anónima, CESCE, excluidas la Póliza Abierta de Gestión de exportaciones (PAGEX), la póliza 100 y la Póliza Máster, que podrá asegurar y distribuir la Compañía Española de Seguro de Crédito a la Exportación, Sociedad Anónima (CESCE) en el ejercicio 2009 hasta 9.000 millones de euros.

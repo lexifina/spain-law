@@ -1,0 +1,3 @@
+## Artículo 8. Revocación o suspensión de la autorización o anotación de baja o suspensión en el registro.
+
+Las autoridades competentes podrán suspender o revocar las autorizaciones y dar de baja o suspender las anotaciones en los registros, previa audiencia del interesado, en los términos previstos en los artículos 14 y 15, respectivamente, del Reglamento (CE) n.° 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero. A efectos de la revocación de la autorización y baja en el registro se entenderán como deficiencias graves las infracciones contempladas en el artículo 85 de la Ley 8/2003, de 24 de abril, de sanidad animal.

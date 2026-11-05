@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.22.ª de la Constitución Española que atribuye al Estado la competencia sobre la legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una comunidad autónoma. No obstante, la disposición final primera tiene carácter básico y se dicta al amparo del artículo 149.1.13.ª de la Constitución Española, que reserva al Estado la competencia en materia de bases y coordinación de la planificación general de la actividad económica.

@@ -1,0 +1,11 @@
+La Orden Ministerial 41/1991, de 3 de junio, aprobó las normas sobre las enfermedades transmisibles de declaración obligatoria en el ámbito de las Fuerzas Armadas. Dicha orden fue posteriormente modificada por la Orden Ministerial 16/1995, de 30 de enero, en la que se actualizaba la lista de dichas enfermedades de declaración obligatoria.
+
+El Real Decreto 2210/1995, de 28 de diciembre, por el que se crea la red nacional de vigilancia epidemiológica, modificó el sistema de declaración de enfermedades transmisibles en todo el ámbito nacional y modifica de nuevo la lista de enfermedades de declaración obligatoria incluyendo nuevas enfermedades y prescindiendo de otras; como consecuencia de lo anterior, se aprobó la Orden DEF/599/2002, de 7 de marzo, sobre enfermedades de declaración obligatoria en el ámbito de las Fuerzas Armadas, que derogó las anteriores.
+
+Los cambios producidos en la estructura y dependencias de la Red Sanitaria de la Defensa hicieron necesario modificar la Orden DEF/599/2002, de 7 de marzo, disponiéndose la publicación de la actualmente vigente Orden DEF/1450/2005, de 11 de mayo, sobre enfermedades de declaración obligatoria en el ámbito de las Fuerzas Armadas.
+
+En la actualidad, tras la experiencia adquirida, se ha visto la necesidad de sustituir la citada Orden DEF/1450/2005, de 11 de mayo, para agilizar el sistema de declaración establecido en esta orden y adaptarla a los cambios orgánicos de la Sanidad Militar. De este modo, se pretende disponer de la información relativa a estas enfermedades de una manera más rápida y completa para permitir identificar los problemas de salud y posibles cambios epidemiológicos, cuestión necesaria para una correcta toma de decisiones y la posterior adopción de medidas que permitan su control, todo ello acorde con lo establecido en el Real Decreto 2210/1995, de 28 de diciembre.
+
+Finalmente, esta orden ministerial hace especial referencia a los sistemas de vigilancia epidemiológica ya constituidos o que puedan constituirse en el futuro para el conocimiento y control de otras enfermedades.
+
+Por todo ello, y en virtud de la potestad que me confiere el artículo 4.1.b) de la Ley 50/1997, de 27 de noviembre, del Gobierno, dispongo:

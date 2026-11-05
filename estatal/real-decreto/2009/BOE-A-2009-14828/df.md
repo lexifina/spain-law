@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+El presente Real Decreto se dicta en virtud de las competencias que se atribuyen al Estado en el artículo 149.1.1.ª, 7.ª y 30.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales; la legislación laboral; y la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.

@@ -1,0 +1,3 @@
+## Disposición adicional única. Representación de determinadas instalaciones del régimen especial.
+
+Se prorroga la aplicación de lo dispuesto en la disposición transitoria sexta del Real Decreto 661/2007, de 25 de mayo, por el que se regula la actividad de producción de energía eléctrica en régimen especial, hasta el 31 de octubre de 2009 y, en consecuencia, la fecha de 1 de julio de 2009, establecida en los apartados 2, 3 y 4 de la disposición adicional séptima y en el apartado 2 de la disposición transitoria quinta del Real Decreto 485/2009, de 3 de abril, por el que se regula la puesta en marcha del suministro de último recurso en el sector de la energía eléctrica, queda sustituida por la de 1 de noviembre de 2010.

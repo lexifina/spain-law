@@ -1,0 +1,3 @@
+## Disposición adicional octava. Evaluación de la Ley sobre el cálculo de las pensiones.
+
+El Gobierno evaluará en el plazo de un año los efectos y el impacto que sobre las variables que para determinar el cálculo de las pensiones tendrá lo dispuesto en los artículos 3 y 4.Tres de la misma, referidos ambos a la fórmula de la integración de lagunas. En función de los resultados de dicha evaluación se llevarán a cabo las adaptaciones, modificaciones y cambios que resulten precisos para corregir las distorsiones que tal evaluación haya evidenciado, y que permitan la incorporación de cotizaciones anteriores al periodo de cómputo como elemento de integración de lagunas.

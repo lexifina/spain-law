@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Plazo de aprobación del tipo de gravamen del Impuesto sobre Bienes Inmuebles.
+
+Con vigencia exclusiva para el ejercicio 1995, el plazo previsto en el apartado 7 del artículo 73 de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales para aprobar los tipos de gravamen del Impuesto sobre Bienes Inmuebles, se ampliará hasta el 31 de agosto de 1995 en aquellos Ayuntamientos cuyos municipios estén afectados por procesos de revisión o modificación de valores catastrales que deban surtir efecto el 1 de enero de 1996. De este acuerdo se dará traslado a la Dirección General del Centro de Gestión Catastral y Cooperación Tributaria dentro de dicho plazo.

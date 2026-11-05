@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+En el plazo de doce meses desde la entrada en vigor de esta ley, el Gobierno adoptará, mediante Real Decreto y previo informe favorable de la Junta Electoral Central, las medidas necesarias para complementar o sustituir, de manera progresiva y teniendo en consideración las circunstancias concretas de los países de residencia de los electores, los envíos postales previstos en el artículo 75 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, por un envío telemático que reúna las garantías previstas en la legislación electoral, así como la previsión de mecanismos alternativos para aquellos electores que no dispongan de medios telemáticos propios.

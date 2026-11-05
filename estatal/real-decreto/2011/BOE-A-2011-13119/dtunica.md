@@ -1,0 +1,3 @@
+## Disposición transitoria única. Ingresos hospitalarios producidos con anterioridad al año 2011.
+
+A efectos de resolver las solicitudes de la prestación por cuidado de menores afectados por cáncer u otra enfermedad grave presentadas durante el año 2011, podrá aceptarse la acreditación del ingreso hospitalario del menor, en los términos establecidos en el artículo 2.1 de este real decreto, que se hubiera producido con anterioridad a dicho año, siempre que en la fecha de la solicitud no se hubiera dado de alta médica al menor desde el diagnóstico del cáncer o enfermedad grave. Todo ello con independencia de la fecha en que se hubiera diagnosticado el cáncer u otra enfermedad grave. En ningún caso los efectos económicos podrán ser anteriores a 1 de enero de 2011.

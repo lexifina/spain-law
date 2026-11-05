@@ -1,0 +1,9 @@
+## Artículo quinto.
+
+La retribución básica a percibir por los mutilados absolutos y permanentes y por los inutilizados por razón del servicio será de trescientas cuarenta y cinco mil seiscientas pesetas anuales, más dos pagas extraordinarias de veintiocho mil ochocientas pesetas cada año.
+
+Los militares profesionales acogidos a los beneficios del Real Decreto-ley seis/mil novecientos setenta y ocho, de seis de marzo, que fueran mutilados absolutos y permanentes, percibirán en concepto de retribución básica citada en el párrafo anterior, el ciento por ciento del sueldo del empleo que el Ministerio de Defensa les reconozca a los solos efectos económicos. Esta retribución en ningún caso podrá ser inferior a la establecida en el párrafo primero para los combatientes sin graduación y sustituirá a la pensión otorgada al amparo del Real Decreto-Iey cuarenta y seis/mil novecientos setenta y ocho, de veintiuno de diciembre, con la cual su percepción es incompatible.
+
+Los militares profesionales citados en el párrafo anterior continuarán percibiendo, además, los devengos correspondientes a los trienios que el Ministerio de Defensa les hubiera concedido al aplicarles el Real Decreto-ley seis/mil novecientos setenta y ocho, de seis de marzo. Los excombatientes mutilados no acogidos al citado Real Decreto-ley, no tendrán derecho a trienios y percibirán en su lugar una remuneración sustitutoria por valor de diez mil pesetas mensuales y, con independencia de ésta, una cantidad suplementaria de cinco mil pesetas en compensación por retribuciones no percibidas en el pasado. Ambas cantidades se harán efectivas en catorce mensualidades anuales.
+
+En ningún caso las remuneraciones de los mutilados absolutos podrán ser inferiores a las que habría de corresponderles por aplicación de las normas sobre pensiones extraordinarias vigentes en cada momento.

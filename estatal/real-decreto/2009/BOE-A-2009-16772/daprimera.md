@@ -1,0 +1,3 @@
+## Disposición adicional primera. Autorización de vertidos a las aguas subterráneas.
+
+Los órganos competentes tendrán en cuenta lo establecido en este real decreto en los procedimientos para otorgar la autorización de vertidos a las aguas subterráneas, regulada en los artículos 100 y siguientes del texto refundido de la Ley de Aguas, en los artículos 257 a 259 del Reglamento del Dominio Público Hidráulico, y en el artículo 50 del Reglamento de la Planificación Hidrológica; o, en su caso, para la emisión del informe vinculante regulado en el artículo 19 de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.

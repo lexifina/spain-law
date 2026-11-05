@@ -1,0 +1,5 @@
+## Disposición transitoria sexta. Agencia Estatal de Seguridad Ferroviaria.
+
+En tanto no se ponga en funcionamiento la Agencia Estatal de Seguridad Ferroviaria a la que se refiere el párrafo quinto del apartado 1 de la disposición adicional tercera de la Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos, las funciones de autoridad responsable de la seguridad ferroviaria serán realizadas por la Dirección General de Ferrocarriles del Ministerio de Fomento, de acuerdo con lo dispuesto en la disposición transitoria octava de la Ley del Sector Ferroviario y en el artículo 2.v) del Real Decreto 1434/2010, de 5 de noviembre, sobre interoperabilidad del sistema ferroviario de la Red Ferroviaria de Interés General.
+
+Las resoluciones que dicte la Dirección General de Ferrocarriles al amparo de la presente orden no pondrán fin a la vía administrativa y contra las mismas podrá interponerse recurso de alzada, de acuerdo con lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.

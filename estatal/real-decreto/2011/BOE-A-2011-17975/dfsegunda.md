@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación del Real Decreto 1659/1998, de 24 de julio, por el que se desarrolla el artículo 8, apartado 5, de la Ley del Estatuto de los Trabajadores en materia de información al trabajador sobre los elementos esenciales del contrato de trabajo.
+
+Se da nueva redacción al apartado 2 del artículo 1 del Real Decreto 1659/1998, de 24 de julio, por el que se desarrolla el artículo 8, apartado 5, de la Ley del Estatuto de los Trabajadores en materia de información al trabajador sobre los elementos esenciales del contrato de trabajo, que queda redactado del modo siguiente:
+
+«2. Lo previsto en el presente real decreto será de aplicación a las relaciones laborales reguladas por la Ley del Estatuto de los Trabajadores cuya duración sea superior a cuatro semanas, con exclusión de la relación laboral especial de los penados en las instituciones penitenciarias y de la de los menores internos incluidos en el ámbito de aplicación de la Ley Orgánica 5/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores.»

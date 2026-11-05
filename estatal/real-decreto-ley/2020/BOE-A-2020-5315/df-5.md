@@ -1,0 +1,11 @@
+## Disposición final quinta. Modificación del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre.
+
+Se añade un nuevo apartado 11 al artículo 33 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 2/2015, de 23 de octubre, con la siguiente redacción:
+
+«11. El Fondo procederá a la instrucción de un expediente para la comprobación de la procedencia de los salarios e indemnizaciones reclamados, respetando en todo caso los límites previstos en los apartados anteriores.
+
+Concluida la instrucción del expediente, el órgano competente dictará resolución en el plazo máximo de tres meses contados desde la presentación en forma de la solicitud. La notificación al interesado deberá ser cursada dentro del plazo de 10 días a partir de la fecha en que el acto haya sido dictado.
+
+Transcurrido dicho plazo sin que haya recaído resolución expresa, el solicitante podrá entender estimada por silencio administrativo la solicitud de reconocimiento de las obligaciones con cargo al Fondo, sin que en ningún caso pueda obtenerse por silencio el reconocimiento de obligaciones en favor de personas que no puedan ser legalmente beneficiarias o por cuantía superior a la que resulte por aplicación de los límites previstos en los apartados anteriores. La resolución expresa posterior al vencimiento del plazo solo podrá dictarse de ser confirmatoria del reconocimiento de la obligación, en favor de personas que puedan ser legalmente beneficiarias y dentro de los límites previstos en los apartados anteriores. En todo caso, a efectos probatorios, se podrá solicitar un certificado acreditativo del silencio producido, en el que se incluirán las obligaciones con cargo al Fondo que, dentro de los límites previstos en los apartados anteriores, deben entenderse reconocidas.
+
+Contra dicha resolución podrá interponerse demanda ante el órgano jurisdiccional del orden social competente en el plazo de dos meses contados desde el día siguiente al de la notificación si el acto fuera expreso; si no lo fuera, dicho plazo se contará a partir del día siguiente a aquel en que deba entenderse estimada la solicitud conforme a lo establecido en el apartado anterior por silencio.»

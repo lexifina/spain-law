@@ -1,0 +1,3 @@
+## Segundo. Ámbito de aplicación.
+
+Este procedimiento es de aplicación a los productos de capacidad en plantas de regasificación, en los almacenamientos subterráneos básicos y en la red de transporte y distribución del sistema gasista, a excepción de la capacidad de salida del Punto Virtual de Balance a un consumidor. También quedan excluidas del ámbito de aplicación las conexiones internacionales por gasoducto con Europa, las instalaciones que hayan obtenido una exención del acceso y aquella capacidad de almacenamiento subterráneo que sea asignada mediante el procedimiento de asignación primaria conforme a lo dispuesto en la normativa vigente.

@@ -1,0 +1,63 @@
+## ORDENANZA DECIMOTERCERA
+
+## Dimensiones de los patios
+
+En los edificios que tengan patios interiores regirán las siguientes normas para las dimensiones mínimas de los mismos siendo «L» el lado menor, en metros, y «S» la superficie, en metros cuadrados.
+
+Patios cerrados a los que abran dormitorios y estancias
+
+| Número de plantas | L Mínimo – m | S mínimo – m2 | Número de plantas | L Mínimo – m | S mínimo – m2 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 3,00 | 9,00 | 10 | 6,85 | 80,00 |
+| 2 | 3,00 | 11,00 | 11 | 7,50 | 95,00 |
+| 3 | 3,00 | 13,00 | 12 | 8,15 | 110,00 |
+| 4 | 3,00 | 15,00 | 13 | 8,80 | 130,00 |
+| 5 | 3,60 | 20,00 | 14 | 9,45 | 150,00 |
+| 6 | 4,25 | 30,00 | 15 | 10,00 | 170,00 |
+| 7 | 4,90 | 40,00 | 16 | 10,75 | 195,00 |
+| 8 | 5,50 | 50,00 | 17 | 11,40 | 215,00 |
+| 9 | 6,20 | 65,00 |  |  |  |
+
+Patios cerrados a los que abran cocinas, pero no abran dormitorios ni estancias
+
+| Número de plantas | L Mínimo – m | S mínimo – m2 | Número de plantas | L Mínimo – m | S mínimo – m2 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 2,00 | 9,00 | 10 | 4,25 | 80,00 |
+| 2 | 3,00 | 11,00 | 11 | 4,70 | 95,00 |
+| 3 | 3,00 | 13,00 | 12 | 5,00 | 110,00 |
+| 4 | 3,00 | 15,00 | 13 | 5,50 | 130,00 |
+| 5 | 3,00 | 20,00 | 14 | 5,90 | 150,00 |
+| 6 | 3,00 | 30,00 | 15 | 6,30 | 170,00 |
+| 7 | 3,00 | 40,00 | 16 | 6,90 | 195,00 |
+| 8 | 3,45 | 50,00 | 17 | 7,10 | 215,00 |
+| 9 | 3,90 | 65,00 |  |  |  |
+
+Patios cerrados a los que no abran dormitorios, estancias ni cocinas
+
+| Número de plantas | L Mínimo – m | S mínimo – m2 | Número de plantas | L Mínimo – m | S mínimo – m2 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | 2,00 | 6,00 | 10 | 4,25 | 33,00 |
+| 2 | 3,00 | 9,00 | 11 | 4,70 | 39,00 |
+| 3 | 3,00 | 9,00 | 12 | 5,00 | 46,00 |
+| 4 | 3,00 | 9,00 | 13 | 5,50 | 54,00 |
+| 5 | 3,00 | 9,00 | 14 | 5,90 | 62,00 |
+| 6 | 3,00 | 13,00 | 15 | 6,30 | 70,00 |
+| 7 | 3,00 | 17,00 | 16 | 6,90 | 80,00 |
+| 8 | 3,45 | 22,00 | 17 | 7,10 | 90,00 |
+| 9 | 3,90 | 27,00 |  |  |  |
+
+En los patios que se establezcan con arreglo a las condiciones anteriores las luces rectas de las habitaciones viviendas, medidas normalmente al plano de la fachada en el eje de cada hueco, salvo cocinas, en viviendas de una planta, que pueden reducirse a dos metros.
+
+Los patios situados en las medianerías de los edificios cumplirán las condiciones anteriores, pudiéndolo hacer mancomunadamente entre patios que pertenezcan a edificios colindantes. En este caso se formalizará escritura pública constitutiva de derecho real para la edificación que se construya posteriormente, que se inscribirá en el Registro de la Propiedad con respecto a ambas fincas y que se presentará en el Instituto Nacional de la Vivienda al solicitar la calificación provisional.
+
+Serán observadas las Ordenanzas municipales que dispongan dimensiones mayores que las que establece esta Ordenanza.
+
+A efectos de determinar la dimensión de los patios interiores, no se computarán como plantas los remates de la caja de escalera, ascensor y depósitos de agua, únicas edificaciones autorizadas a estos efectos y situadas por encima de la última planta de viviendas.
+
+Los patios abiertos a fachada cumplirán las siguientes condiciones: La longitud «L» del frente abierto no será inferior a 1/6 de la altura, con un mínimo de tres metros.
+
+La profundidad del patio abierto, medida normalmente al plano de la fachada, será, como máximo, igual a vez y media el frente abierto de fachada cuando al patio den dormitorios o estancias, y dos veces el frente abierto de fachada cuando al patio den otras habitaciones que no sean dormitorios o estancias.
+
+No tendrán consideración de patio abierto a fachada aquellos retranqueos cuya profundidad, medida normalmente al plano de la fachada, no sea superior a 1,50 metros y siempre que en los planos laterales no abran huecos.
+
+La altura del patio se medirá desde el nivel del piso de las viviendas más bajas, cuyas piezas ventilen a él, hasta la línea de coronación superior de la fábrica.

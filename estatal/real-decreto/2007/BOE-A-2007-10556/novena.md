@@ -1,0 +1,3 @@
+## Disposición adicional novena. Plan de Energías Renovables 2011-2020.
+
+Durante el año 2008 se iniciará el estudio de un nuevo Plan de Energías Renovables para su aplicación en el período 2011-2020. La fijación de nuevos objetivos para cada área renovable y, en su caso, limitaciones de capacidad, se realizará de acuerdo con la evolución de la demanda energética nacional, el desarrollo de la red eléctrica para permitir la máxima integración en el sistema en condiciones de seguridad de suministro. Los nuevos objetivos que se establezcan se considerarán en la revisión del régimen retributivo para el régimen especial prevista para finales del año 2010.

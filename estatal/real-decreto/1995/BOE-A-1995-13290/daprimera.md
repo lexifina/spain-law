@@ -1,0 +1,3 @@
+## Disposición adicional primera. Flexibilización del período de escolarización.
+
+El Ministerio de Educación y Ciencia, de acuerdo con las Comunidades Autónomas que se encuentran en el pleno ejercicio de sus competencias, establecerá las condiciones y el procedimiento para flexibilizar, con carácter excepcional, la duración del período de escolarización obligatoria de los alumnos con necesidades educativas especiales asociadas a condiciones personales de sobredotación intelectual. El procedimiento que se establezca contemplará en todo caso la audiencia previa a los alumnos implicados y a sus padres o tutores.

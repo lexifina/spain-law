@@ -1,0 +1,3 @@
+## Disposición adicional décima. Garantías de prestación de los servicios portuarios esenciales.
+
+Los servicios esenciales definidos en el Real Decreto 58/1994, de 21 de enero, deberán ser mantenidos con independencia de que sean prestados por la Autoridad Portuaria o por empresas titulares de las correspondientes licencias.

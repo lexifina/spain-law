@@ -1,0 +1,3 @@
+## Disposición final primera. Medidas de aplicación y habilitación reglamentaria.
+
+Se autoriza a la persona titular del Ministerio de Transportes, Movilidad y Agenda Urbana, previo cumplimiento de los trámites establecidos en la legislación vigente, a dictar las disposiciones necesarias para la aplicación y desarrollo de lo establecido en este real decreto, y a proponer a la persona titular del Ministerio de Política Territorial y Función Pública las disposiciones que considere necesarias para la mejor regulación de los Servicios Regionales de la Dirección General del Instituto Geográfico Nacional.

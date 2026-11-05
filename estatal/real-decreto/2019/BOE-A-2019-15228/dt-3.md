@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Instalaciones en ejecución.
+
+Las instalaciones frigoríficas, que se encuentren en ejecución en la fecha de entrada en vigor del este real decreto (que deberán acreditarlo poseyendo en esa fecha una solicitud de licencia de obras, la licencia de obras o el proyecto de ejecución visado), dispondrán de un plazo máximo de dos años durante los cuales se podrán poner en servicio rigiéndose por lo establecido en el Real Decreto 138/2011, de 4 de febrero.
+
+No obstante lo anterior, los titulares de las instalaciones podrán acogerse a las prescripciones establecidas en este real decreto, desde el momento de su publicación en el «Boletín Oficial del Estado».

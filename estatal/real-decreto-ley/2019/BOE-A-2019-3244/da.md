@@ -1,0 +1,3 @@
+## Disposición adicional única. Adaptación normativa.
+
+Todas las referencias realizadas en textos normativos a las prestaciones y permisos de maternidad y paternidad se entenderán referidas a las nuevas prestaciones y permisos contemplados en este real decreto-ley. Asimismo, todas las referencias al Fondo de apoyo para la promoción y desarrollo de las infraestructuras y servicios del Sistema de Autonomía y Atención a la Dependencia, se deben entender realizadas al Fondo de apoyo para la promoción y desarrollo de infraestructuras y servicios del Sistema de Autonomía y Atención a la Dependencia y de los Servicios Sociales.

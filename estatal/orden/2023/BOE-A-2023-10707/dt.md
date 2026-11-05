@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Plazo para la remisión de información de puntos de recarga ya en servicio, en el momento de entrada en vigor de la orden, a las comunidades autónomas y las ciudades de Ceuta y Melilla.
+
+La obligación de remisión a las comunidades autónomas y las ciudades de Ceuta y Melilla de la información regulada en el artículo 4.1 de esta orden, referida a los puntos de recarga de acceso público que se encuentren en servicio en el momento de la entrada en vigor de esta orden, deberá cumplirse en un plazo de tres meses desde que las administraciones donde radiquen dichas instalaciones pongan a disposición de los interesados los procedimientos que éstas determinen para la recogida de la información.

@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Utilización del registro por determinados centros del Ministerio de Economía y Competitividad.
+
+Los centros y organismos del Ministerio de Economía y Competitividad anteriormente pertenecientes al extinto Ministerio de Economía y Hacienda que vinieran utilizando el Registro regulado en la Orden EHA/1198/2010, de 4 de mayo, que reguló el Registro Electrónico del Ministerio de Economía y Hacienda, podrán hacer uso del Registro creado por la presente orden en tanto no se modifiquen las normas relativas al registro electrónico que les sean de aplicación en razón a su actual adscripción departamental

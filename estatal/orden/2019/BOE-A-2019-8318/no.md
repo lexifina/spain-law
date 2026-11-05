@@ -1,0 +1,1 @@
+Esta norma queda derogada exclusivamente respecto al ámbito de competencias del Ministerio de Universidades, por la disposición derogatoria única de la Orden UNI/1231/2021, de 5 de noviembre. Ref. BOE-A-2021-18486

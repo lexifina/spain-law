@@ -1,0 +1,1 @@
+Téngase en cuenta el Real Decreto-ley 24/2020, de 26 de junio, de medidas sociales de reactivación del empleo y protección del trabajo autónomo y de competitividad del sector industrial. Ref. BOE-A-2020-6838

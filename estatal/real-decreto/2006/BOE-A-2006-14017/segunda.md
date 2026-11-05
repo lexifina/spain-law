@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Verificaciones primitivas de los instrumentos con aprobación de modelo.
+
+Los instrumentos que hubiesen obtenido la aprobación de modelo prevista en el Real Decreto 1616/1985, de 11 de septiembre, con anterioridad a la entrada en vigor de este real decreto podrán seguir siendo puestos en servicio, previo sometimiento a la verificación primitiva realizada por los laboratorios de verificación metrológica oficialmente autorizados, que venían actuando de acuerdo con lo establecido en el Real Decreto 1617/1985, de 11 de septiembre, como máximo hasta el 30 de octubre de 2016.

@@ -1,0 +1,3 @@
+## Disposición transitoria única. Obligaciones de información respecto de determinadas rentas obtenidas por personas físicas residentes en otros Estados de la Unión Europea.
+
+Sin perjuicio de lo dispuesto en el apartado Uno de la disposición final primera de este real decreto, las obligaciones de suministro de información a que se refieren los artículos 45 a 49 del Reglamento General de las actuaciones y procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos aprobado mediante Real Decreto 1065/2007, de 27 de julio, deberán cumplirse, en todo caso, en relación con la información a suministrar correspondiente al año 2015.

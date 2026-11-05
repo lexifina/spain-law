@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Referencias al Banco Central Europeo en la normativa aplicable a las entidades de crédito.
+
+Las competencias que se atribuyan al Banco Central Europeo en la normativa aplicable a las entidades de crédito que resulte de aplicación a los establecimientos financieros de crédito, de acuerdo con la Ley 5/2015, de 27 de abril, y este real decreto, deberán entenderse atribuidas al Banco de España con la excepción de las competencias de autorización que corresponden a la persona titular del Ministerio de Asuntos Económicos y Transformación Digital en virtud de la citada Ley.

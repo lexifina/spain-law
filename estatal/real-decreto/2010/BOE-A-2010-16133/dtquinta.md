@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Enajenación de inmuebles de los organismos refundidos.
+
+Hasta el 31 de diciembre de 2012, el Instituto de Vivienda, Infraestructura y Equipamiento de la Defensa, podrá enajenar las viviendas militares y los demás bienes inmuebles que estuvieren inscritos en los diferentes registros de la propiedad a favor del Instituto para la Vivienda de las Fuerzas Armadas o de los extintos patronatos de Casas Militares del Ejército de Tierra, de Casas de la Armada y de Casas del Ejército del Aire, y de la Gerencia de Infraestructura y Equipamiento de la Defensa, sin necesidad de actualizar las titularidades registrales de dichos bienes o de los que se pusieren a su disposición, así como, en su caso, de los bienes muebles de los que sea titular.

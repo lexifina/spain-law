@@ -1,0 +1,9 @@
+## Disposición adicional segunda. Fomento de la prevención y de la utilización de productos procedentes de la valorización de residuos de construcción y demolición, por parte de las administraciones públicas.
+
+1. Las administraciones públicas velarán por que en las obras en que intervengan como promotores se apliquen medidas tendentes a la prevención en la generación de residuos de construcción y demolición. Además, velarán por que en la fase de proyecto de la obra se tengan en cuenta las alternativas de diseño y constructivas que generen menos residuos en la fase de construcción y de explotación, y aquellas que favorezcan el desmantelamiento ambientalmente correcto de la obra al final de su vida útil.
+
+2. Las administraciones públicas fomentarán que en las obras públicas se contemple en la fase de proyecto las alternativas que contribuyan al ahorro en la utilización de recursos naturales, en particular mediante el empleo en las unidades de obra de áridos y otros productos procedentes de valorización de residuos.
+
+3. En la contratación pública se fomentará la menor generación de residuos de construcción y demolición, así como la utilización en las unidades de obra de áridos y otros productos procedentes de valorización de residuos.
+
+4. En el ámbito de la Administración General del Estado y sus organismos públicos las prescripciones técnicas de los contratos se definirán, en la medida de lo posible, teniendo en cuenta la menor generación de residuos de construcción y demolición. Asimismo, los órganos de contratación, al determinar los criterios que hayan de servir de base para la valoración de la oferta más ventajosa, procurarán tener en consideración las medidas sobre prevención y para la reutilización o reciclado de los residuos de construcción y demolición, así como la utilización en las unidades de obra de áridos y otros productos procedentes de valorización de residuos.

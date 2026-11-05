@@ -1,0 +1,17 @@
+## Artículo 245.
+
+1. Las resoluciones de los Jueces y Tribunales que tengan carácter jurisdiccional se denominarán:
+
+a) Providencias, cuando tengan por objeto la ordenación material del proceso.
+
+b) Autos, cuando decidan recursos contra providencias, cuestiones incidentales, presupuestos procesales, nulidad del procedimiento o cuando, a tenor de las leyes de enjuiciamiento, deban revestir esta forma.
+
+c) Sentencias, cuando decidan definitivamente el pleito o causa en cualquier instancia o recurso, o cuando, según las leyes procesales, deban revestir esta forma.
+
+2. Las sentencias podrán dictarse de viva voz cuando lo autorice la ley.
+
+3. Son sentencias firmes aquellas contra las que no quepa recurso alguno, salvo el de revisión u otros extraordinarios que establezca la ley.
+
+4. Llámase ejecutoria el documento público y solemne en que se consigna una sentencia firme. Las ejecutorias se encabezarán en nombre del Rey.
+
+> Redactada la letra c) del apartado 1 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

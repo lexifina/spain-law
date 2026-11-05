@@ -1,0 +1,11 @@
+## Norma 8. Delegación de funciones de administración.
+
+Cuando las sociedades gestoras deleguen funciones de administración de las contempladas en el artículo 64.b) del Reglamento de la Ley de IIC, deberán respetar, además de las normas establecidas en el artículo 68 de dicho Reglamento, las normas siguientes:
+
+a) La entidad en la que se deleguen las funciones de administración mencionadas en el artículo 68.2 del Reglamento deberá contar con personal con suficiente experiencia y medios materiales idóneos. La sociedad gestora que otorga la delegación deberá haber realizado las comprobaciones que le permitan asegurarse que las tareas delegadas son realizadas adecuadamente. La suficiencia de dichos medios deberá ser acreditada ante la CNMV en la solicitud de autorización de la delegación.
+
+b) La delegación de las funciones de administración no podrá ocasionar una disminución en los controles exigidos por la normativa. En particular, la entidad en la que se delegue no podrá ser el depositario, ni ser una entidad con la que se haya establecido un acuerdo de garantía financiera de los previstos en la norma 9 de esta Circular, ni ejercer funciones de Unidad de Control.
+
+c) Se deberá establecer un sistema de control de la actividad de la entidad en que se delega. Entre otros controles, se deberán establecer, con la suficiente periodicidad, procedimientos de conciliación de las posiciones de efectivo y valores entre la entidad en la que se delegue, la sociedad gestora y el depositario y, en su caso, las entidades con las que se establezcan acuerdos de garantía financiera.
+
+d) Cuando se delegue el cálculo del valor liquidativo, el contrato de delegación deberá asegurar que las prácticas de valoración de la entidad en que se delegue son conformes con los criterios de valoración de activos exigidos por las normas españolas y con los recogidos en el folleto de la IIC. Asimismo, deberán existir cláusulas que permitan al depositario cumplir con sus funciones de vigilancia y supervisión. Deberán establecerse procedimientos expresos para conciliar las eventuales discrepancias entre el valor liquidativo calculado por la entidad en la que se delega y el estimado por la sociedad gestora.

@@ -1,0 +1,1 @@
+No existiendo en la actualidad un modelo oficial de receta veterinaria en el seno de las Fuerzas Armadas, y al objeto de adecuar la actuación del Servicio Veterinario Militar en el ámbito de las mismas a la legislación vigente, en lo referente a la prescripción y dispensación de medicamentos veterinarios, he tenido a bien disponer:

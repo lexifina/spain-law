@@ -1,0 +1,5 @@
+## Disposición adicional decimotercera. Remisiones normativas.
+
+Las referencias normativas efectuadas en esta Ley y en otras disposiciones a la Directiva 90/434/CEE del Consejo, de 23 de julio, relativa al régimen fiscal común aplicable a las fusiones, escisiones, escisiones parciales, aportaciones de activos y canjes de acciones realizados entre sociedades de diferentes Estados miembros y al traslado del domicilio social de una SE o una SCE de un Estado miembro a otro, se entenderán realizadas a los preceptos correspondientes de la Directiva 2009/133/CE del Consejo, de 19 de octubre, relativa al régimen fiscal común aplicable a las fusiones, escisiones, escisiones parciales, aportaciones de activos y canjes de acciones realizados entre sociedades de diferentes Estados miembros y al traslado del domicilio social de una SE o una SCE de un Estado miembro a otro.
+
+> Se añade, con efectos para los períodos impositivos iniciados a partir de 6 de marzo de 2011, por la disposición final 37 de la Ley 2/2011, de 4 de marzo. Ref. BOE-A-2011-4117.

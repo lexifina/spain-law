@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única del Real Decreto 342/2012, de 10 de febrero. Ref. BOE-A-2012-2078#ddunica.

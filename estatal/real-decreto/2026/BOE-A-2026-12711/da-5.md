@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Entidades y organismos sometidos a función interventora o control financiero permanente.
+
+Sin perjuicio de las competencias de fiscalización atribuidas al Tribunal de Cuentas, el control interno de la gestión económico-financiera corresponde a la Intervención General de la Administración del Estado, y se realizará en las condiciones y en los términos establecidos en la Ley 47/2003, de 26 de noviembre, por la Intervención Delegada en el Organismo bajo la dependencia orgánica y funcional de la Intervención General de la Administración del Estado, sin perjuicio de las competencias que en el ejercicio de la función interventora corresponden al Interventor General de la Administración del Estado de acuerdo con las disposiciones vigentes.

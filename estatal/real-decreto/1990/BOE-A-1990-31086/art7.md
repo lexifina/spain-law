@@ -1,0 +1,5 @@
+## Artículo 7. Régimen del personal de las Escalas de Complemento y Reserva Naval que no se integre.
+
+El personal de las Escalas de Complemento y Reserva Naval que no se encuentre en situación de reserva del servicio militar o licencia absoluta, que en el momento de la entrada en vigor de la Ley lleve más de seis años de servicios efectivos en las mencionadas Escalas, no tenga reconocida su permanencia hasta la edad de retiro y no haya solicitado integrarse, permanecerá en sus Escalas de origen declaradas a extinguir hasta finalizar el compromiso que tuvieran adquirido sin posibilidad de prórroga.
+
+El personal de las Escalas de Complemento y Reserva Naval, que no se encuentre en situación de reserva del servicio militar o licencia absoluta, que en el momento de la entrada en vigor de la Ley lleve más de seis años de servicios efectivos en las mencionadas Escalas y no posea la titulación exigida para integrarse en las Escalas indicadas en el artículo 5 de estas Normas, permanecerá en sus Escalas de origen declaradas a extinguir, con las adaptaciones que reglamentariamente se establezcan.

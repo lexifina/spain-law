@@ -1,0 +1,1 @@
+Téngase en cuenta que el 27 de enero de 2016 entra en vigor la Resolución de 8 de enero de 2016, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación del tráfico durante el año 2016 Ref. BOE-A-2016-401., fecha a partir de la cual cesa la vigencia de la presente Resolución, según establece su disposición final única.

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Plazo para la inscripción de alias durante el periodo inicial.
+
+No obstante lo dispuesto en el artículo 4 y en la disposición transitoria primera de la presente circular, se establece un periodo transitorio de seis (6) meses, contado desde la entrada en vigor de la presente circular, durante el cual el plazo máximo para la validación e inscripción de los alias de la Comisión Nacional de los Mercados y la Competencia será el de tres (3) meses previstos con carácter general en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Transcurrido dicho periodo, resultará de aplicación el régimen ordinario establecido en el citado artículo.

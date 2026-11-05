@@ -1,0 +1,9 @@
+## Norma segunda. Informe sobre remuneraciones.
+
+1. Las cajas de ahorros que no emitan valores admitidos a negociación en mercados oficiales de valores remitirán anualmente al Banco de España, acompañando una copia de los documentos en que conste, el informe anual sobre remuneraciones de los miembros del consejo de administración y de la comisión de control al que se refiere el artículo 31 de la Ley 26/2013, que deberá recoger, de manera completa, clara y comprensible, la política de remuneraciones de la entidad que se hubiera aprobado para el ejercicio económico de referencia, así como la que, en su caso, se hubiera previsto para años futuros. Este informe incluirá también un resumen global del modo en que se aplicó dicha política durante el ejercicio de referencia y detallará las retribuciones individuales devengadas por cada uno de los consejeros y miembros de la comisión de control.
+
+En todo caso, el contenido del informe se ajustará a lo dispuesto en el artículo 31.3 de la citada ley y en su normativa de desarrollo, debiendo acomodarse al modelo incluido en el anejo 2 de esta circular y a las instrucciones de cumplimentación contenidas en el citado anejo.
+
+2. La remisión al Banco de España de dicho informe deberá producirse dentro de los cuatro primeros meses del ejercicio siguiente al que se refiera el informe, y en todo caso no más tarde de la fecha en que se publique oficialmente la convocatoria de la asamblea general ordinaria para la aprobación de las cuentas anuales correspondientes al mismo ejercicio que el del citado informe.
+
+En el caso de las cajas de ahorros que, a tenor de lo establecido en el artículo 14.1 de la ley, no estén obligadas a publicar dicha convocatoria en el «Boletín Oficial del Registro Mercantil», la indicada remisión no podrá tener lugar más tarde de la fecha en que se publique en la página web de la entidad o se comunique individualmente a los consejeros generales.

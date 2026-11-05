@@ -1,0 +1,18 @@
+## ANEXO V A)
+
+## Correspondencia de las unidades de competencia acreditadas con los módulos profesionales para su convalidación
+
+| Unidades de competencia acreditadas | Módulos profesionales convalidables |
+| --- | --- |
+| UC0027_2: Realizar y conducir las operaciones de recepción, almacenamiento y tratamientos previos de la leche, y de otras materias primas lácteas. | 0030. Operaciones y control de almacén en la industria alimentaria. |
+| UC2568_2: Efectuar la recepción y el control de calidad de productos hortofrutícolas (frutas hortalizas, setas y legumbres) y materias auxiliares. UC2569_2: Efectuar el almacenamiento de productos hortofrutícolas frescos (frutas, hortalizas, setas y legumbres), y expedición de otros productos vegetales. | 0030. Operaciones y control de almacén en la industria alimentaria. 0141. Materias primas en la industria alimentaria. |
+| UC0295_2: Efectuar la recepción, el control de calidad, el almacenamiento y expedición de las materias cárnicas, primas y auxiliares. | 0030. Operaciones y control de almacén en la industria alimentaria. 0141. Materias primas en la industria alimentaria. |
+| UC0302_2: Conducir y controlar las operaciones de elaboración de leches de consumo, evaporadas, en polvo, condensadas y de nata, mantequilla, helados y similares. UC0304_2: Conducir y controlar las operaciones de envasado y acondicionamiento de productos lácteos. | 0142. Operaciones de acondicionado de materias primas. 0144. Procesado de productos alimenticios. 0031. Seguridad e higiene en la manipulación de alimentos. |
+| UC2584_2: Conducir la aplicación de los tratamientos finales de conservas vegetales, zumos y platos cocinados. | 0143. Tratamientos de transformación y conservación. 0144. Procesado de productos alimenticios. 0031. Seguridad e higiene en la manipulación de alimentos. |
+| UC0298_2: Elaborar derivados cárnicos a nivel industrial. UC0318_2: Obtener productos de la pesca y de la acuicultura en conserva, semiconservas y salazones. UC0319_2: Obtener productos de la pesca y de la acuicultura: masas, pastas, congelados y platos cocinados o precocinados. | 0143. Tratamientos de transformación y conservación. 0144. Procesado de productos alimenticios. 0031. Seguridad e higiene en la manipulación de alimentos. |
+| UC0303_2: Conducir y controlar las operaciones de elaboración de postres lácteos, yogures y leches fermentadas. UC0304_2: Conducir y controlar las operaciones de envasado y acondicionamiento de productos lácteos. | 0143. Tratamientos de transformación y conservación. 0144. Procesado de productos alimenticios. 0031. Seguridad e higiene en la manipulación de alimentos. |
+| UC0302_2: Conducir y controlar las operaciones de elaboración de leches de consumo, evaporadas, en polvo, condensadas y de nata, mantequilla, helados y similares. UC0303_2: Conducir y controlar las operaciones de elaboración de postres lácteos, yogures y leches fermentadas. UC0318_2: Obtener productos de la pesca y de la acuicultura en conserva, semiconservas y salazones. | 0031. Seguridad e higiene en la manipulación de alimentos. |
+
+Nota: Las personas matriculadas en este ciclo formativo que tengan acreditadas todas las unidades de competencias incluidas en el título, de acuerdo con el procedimiento de acreditación de competencias profesionales adquiridas a través de la experiencia laboral u otras vías formales o informales recogido en el Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación, tendrán convalidados los módulos profesionales "0116 Principios de mantenimiento electromecánico" y "0145 Procesos tecnológicos en la industria alimentaria".
+
+> Se modifica por el art. 3.8 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684

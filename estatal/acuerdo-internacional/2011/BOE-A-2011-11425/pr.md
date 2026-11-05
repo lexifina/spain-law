@@ -1,0 +1,1 @@
+El Reino de España y la República de Panamá, deseando concluir un Convenio para evitar la doble imposición en materia de impuestos sobre la renta y sobre el patrimonio y prevenir la evasión fiscal, han acordado lo siguiente:

@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Procesos monitorios y ejecución de laudos arbitrales.
+
+1. Las modificaciones del artículo 815 y del apartado 1 del 552, último párrafo, serán de aplicación a los procesos monitorios y de ejecución que se inicien tras la entrada en vigor de esta Ley.
+
+2. Los procedimientos monitorios que se encuentren en tramitación a la entrada en vigor de esta Ley serán suspendidos por el secretario judicial cuando la petición inicial se fundamente en un contrato entre un empresario o profesional y un consumidor o usuario. En este caso, dará inmediatamente cuenta al juez quien, si apreciase que alguna de las cláusulas que constituye el fundamento de la petición o que hubiese determinado la cantidad exigible puede ser calificada como abusiva, dará audiencia por cinco días a las partes y resolverá lo procedente mediante auto dentro de los cinco días siguientes. Si el juez no estimase la existencia de cláusulas abusivas, lo declarará así, procediendo el secretario judicial a alzar la suspensión acordada y a ordenar la continuación del procedimiento.
+
+3. Si se tratare de ejecuciones de laudos arbitrales que se fundamenten en un contrato entre un empresario o profesional y un consumidor o usuario, que no estuvieran archivadas definitivamente, se seguirá el procedimiento descrito en el apartado anterior a fin de apreciar si alguna de sus cláusulas pudiera ser calificada de abusiva.

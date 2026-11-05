@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Revisión e inspección de las instalaciones existentes.
+
+Las instalaciones existentes antes de la entrada en vigor de la ITC MI-IP 04, aprobada por el Real Decreto 2201/1995, que se hubieran adaptado a la misma, así como las autorizadas conforme a ella, serán revisadas e inspeccionadas de acuerdo con las exigencias técnicas de dicha ITC. Las instalaciones que no se hubieran adaptado serán inspeccionadas de acuerdo con las exigencias técnicas establecidas en el reglamento en vigor en el momento de su instalación. No obstante, la periodicidad y los criterios para realizar las revisiones e inspecciones serán los indicados en el capítulo XV de la ITC MI-IP04 aprobada por el presente real decreto.

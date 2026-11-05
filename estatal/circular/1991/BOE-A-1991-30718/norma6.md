@@ -1,0 +1,5 @@
+## Norma 6. Registro de operaciones y autorizaciones
+
+Las Sociedades Rectoras o, en su caso, la Sociedad de Bolsas, dispondrán de los medios técnicos necesarios para la llevanza y custodia de los Registros a que se refiere el artículo 10 de la Orden del Ministerio de Economía y Hacienda de 5 de diciembre de 1991. Dichos registros se organizarán en secciones, según que la operación o autorización a la que se refieran se encuentre comprendida en los supuestos de aplicaciones, operaciones especiales con contrapartida por cuenta propia, operaciones especiales entre miembros, operaciones especiales excepcionales y operaciones de toma de razón, tal y como prevé la citada Orden. Los Registros, que serán públicos en cuanto a los datos identificadores contenidos en la Norma 4.ª de esta Circular, se llevarán día a día, por orden de comunicación de las operaciones, y contendrán referencia a cada una de ellas, facilitándose el acceso a los mismos en los establecimientos de las citadas Sociedades.
+
+Como anexo a dichos Registros archivarán ordenadamente cuanta documentación haya obrado en su poder o se haya generado en relación con las citadas operaciones.

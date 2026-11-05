@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 1712/1991, de 29 de noviembre, sobre Registro General Sanitario de Alimentos, el artículo 5 del Real Decreto 3484/2000, de 29 de diciembre, por el que se establecen las normas de higiene para la elaboración, distribución y comercio de comidas preparadas, y el párrafo primero del artículo 4 del Real Decreto 1376/2003, de 7 de noviembre, por el que se establecen las condiciones sanitarias de producción, almacenamiento y comercialización de las carnes frescas y sus derivados en los establecimientos de comercio al por menor, a excepción de los tres últimos párrafos de la letra c).

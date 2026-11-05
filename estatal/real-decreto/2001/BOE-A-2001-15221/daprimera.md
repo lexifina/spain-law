@@ -1,0 +1,3 @@
+## Disposición adicional primera. Aportaciones a los Fondos de Garantía de Depósitos en Entidades de Crédito.
+
+En cuanto a lo dispuesto en el artículo 3 del Real Decreto 2606/1996, conforme a la nueva redacción dada por el artículo 25 del presente Real Decreto y por lo que se refiere a las aportaciones correspondientes a los valores garantizados previstas en el apartado 2 de dicho artículo 3, el Ministro de Economía podrá acordar la suspensión temporal de estas aportaciones a la vista de circunstancias efectivas de riesgo de dichos valores y a la cuantía alcanzada por el patrimonio de los Fondos de Garantía de Depósitos.

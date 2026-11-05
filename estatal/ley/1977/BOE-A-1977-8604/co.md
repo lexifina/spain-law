@@ -1,0 +1,1 @@
+Téngase en cuenta que esta norma se deroga en lo que se refiere a la aplicación de sanciones en los casos de contaminación marina provocada por vertidos desde buques, por la disposición derogatoria única.2.q) de la Ley 27/1992, de 24 de noviembre. Ref. BOE-A-1992-26146#ddunica.

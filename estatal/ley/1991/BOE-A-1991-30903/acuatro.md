@@ -1,0 +1,7 @@
+## Artículo cuatro. De la financiación de los créditos aprobados en el artículo 2 de la presente Ley.
+
+Los créditos aprobados en el apartado uno del artículo 2 de esta Ley, que ascienden a 22.095.250.131 miles de pesetas, se financiarán:
+
+a) Con los derechos económicos a liquidar durante el ejercicio, que se detallan en los Estados de ingresos correspondientes y que se estiman en 20.793.538.695 miles de pesetas; y
+
+b) Con el endeudamiento neto resultante de las operaciones que se regulan en el Capítulo Primero del Título V de esta Ley.

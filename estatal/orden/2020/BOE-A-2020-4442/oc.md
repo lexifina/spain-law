@@ -1,0 +1,3 @@
+## Octavo. Régimen de recursos.
+
+Contra la presente orden, se podrá interponer recurso contencioso-administrativo en el plazo de dos meses a partir del día siguiente al de su publicación ante la Sala de lo Contencioso-Administrativo del Tribunal Supremo, de conformidad con lo dispuesto en el artículo 12 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa.

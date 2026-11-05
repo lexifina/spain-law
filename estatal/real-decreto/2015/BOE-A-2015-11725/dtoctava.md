@@ -1,0 +1,5 @@
+## Disposición transitoria octava. Tarifas de inspección periódica de gas natural.
+
+Hasta que por orden del Ministro de Industria, Energía y Turismo, a propuesta de la Comisión Nacional de los Mercados y la Competencia, se establezcan los gastos de gestión de la empresa distribuidora, se considerará que la retribución por este concepto será de 12,8 euros por inspección realizada.
+
+Hasta que los organismos competentes de las comunidades autónomas publiquen los gastos de la inspección física que las empresas distribuidoras pueden cobrar por la realización de las inspecciones periódicas en el formato establecido en el apartado 3 de la disposición adicional primera, se considerará como gasto de la inspección física la diferencia entre la tarifa máxima establecida de inspección periódica vigente y los gastos de gestión de la empresa distribuidora establecidos, de forma que las tarifas máximas de inspección periódica que no se hayan adaptado al nuevo esquema comprenderán, en todo caso los dos conceptos de gasto a los que se refiere el apartado 7 de la disposición adicional primera.

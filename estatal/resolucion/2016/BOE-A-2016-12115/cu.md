@@ -1,0 +1,3 @@
+## Cuarto. Órganos de Administración o control de las sociedades mercantiles estatales.
+
+Por la Dirección General del Patrimonio del Estado y por los órganos u organismos públicos que ejercen los derechos de socio o la tutela de las sociedades mercantiles estatales que, en su condición de poderes adjudicadores, quedan sometidas a las instrucciones del presente Acuerdo, se adoptarán las medidas necesarias para instruir a los representantes de la Administración General del Estado y sus organismos públicos en los Consejos de Administración u órganos de control en dichas sociedades, para que en el ejercicio de sus facultades, garanticen la cumplimentación de lo previsto en los apartados anteriores.

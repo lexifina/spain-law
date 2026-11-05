@@ -1,0 +1,7 @@
+## Disposición adicional cuadragésima séptima. Cumplimiento de determinadas disposiciones adicionales de los Estatutos de Autonomía de Andalucía y Aragón.
+
+Uno. Una vez fijada por la Comisión Mixta de Asuntos Económicos y Fiscales Estado-Comunidad Autónoma de Andalucía la cuantía definitiva de las asignaciones complementarias a las que se refiere la disposición adicional segunda de la Ley 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía de Andalucía, la cancelación de los compromisos pendientes de la Administración General del Estado derivados de dicho acuerdo podrá realizarse mediante la transmisión de la propiedad de los bienes y derechos de titularidad estatal que se acuerde entre ambas administraciones en la citada Comisión Mixta.
+
+Dos. Se efectuará un seguimiento de la ejecución presupuestaria de las inversiones del Estado en Andalucía, a través de la Comisión prevista en la disposición adicional tercera de su Estatuto de Autonomía, de forma que se determine el volumen real de inversión ejecutado en Andalucía durante el período de los 7 años contemplados en la misma.
+
+Tres. Asimismo se efectuará un seguimiento de la ejecución presupuestaria de las inversiones en infraestructuras del Estado en Aragón, en cumplimiento de la disposición adicional sexta de su Estatuto de Autonomía, de forma que se determine el volumen real de inversiones en infraestructuras ejecutadas en Aragón.

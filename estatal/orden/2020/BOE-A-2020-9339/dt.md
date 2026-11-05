@@ -1,0 +1,7 @@
+## Disposición transitoria única. Retribución de la actividad de distribución para las empresas R1-205, R1-258 y R1-314 correspondiente al año 2019.
+
+1. Hasta la aprobación de la retribución de la actividad de distribución para el año 2019, al amparo de lo previsto en el Real Decreto 1048/2013, de 27 de diciembre, por el que se establece la metodología para el cálculo de la retribución de la actividad de distribución de energía eléctrica, y una vez que las empresas de distribución R1-205, R1-258 y R1-314 han procedido a remitir del inventario de instalaciones en el formato adecuado y con la calidad requerida, el organismo encargado de las liquidaciones procederá a liquidar a estas empresas en concepto de entrega a cuenta correspondiente a la retribución de 2019 las cantidades correspondientes a la parte proporcional de la retribución que tenían asignada en el anexo II de la Orden IET/2444/2014, de 19 de diciembre, por la que se determinan los peajes de acceso de energía eléctrica para 2015.
+
+2. Una vez aprobada la orden ministerial que establezca las retribuciones de estas empresas correspondiente al año 2019, se liquidarán las obligaciones de pago o, en su caso, los derechos de cobro que resulten de su aplicación con cargo a la siguiente liquidación que realice el organismo encargado de las mismas con posterioridad a la fecha en que se aprueben dichas órdenes.
+
+Estas cantidades tendrán la consideración de ingreso o coste liquidable del sistema a los efectos previstos en el procedimiento de liquidación de los costes del sistema eléctrico.

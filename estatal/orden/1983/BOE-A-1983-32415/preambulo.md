@@ -1,0 +1,3 @@
+Los diferentes Estatutos de Personal de la Seguridad Social, vigentes en la actualidad al amparo de lo dispuesto en la disposición transitoria primera, uno, del Real Decreto-ley 36/1978, de 16 de noviembre, sobre Gestión Institucional de la Seguridad Social, la Salud y el Empleo, contienen una regulación particularizada en materia de derechos honoríficos que conviene uniformar en base al criterio de igualdad de trato que debe presidir el régimen jurídico de los funcionarios de la Administración de la Seguridad Social, acercando, de otra parte, la mencionada regulación a los criterios imperantes en la Administración Civil del Estado.
+
+En su virtud, este Ministerio ha tenido a bien disponer:

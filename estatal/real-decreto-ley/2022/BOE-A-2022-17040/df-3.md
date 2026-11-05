@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Se añade una nueva disposición adicional octava en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, con la siguiente redacción:
+
+> «Disposición adicional octava. Resoluciones de Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital que establezcan las condiciones de uso de sistemas de identificación y/o firma no criptográfica.
+
+> Cuando se trate de sistemas establecidos por medio de Resolución de la Secretaría General de Administración Digital del Ministerio de Asuntos Económicos y Transformación Digital para su ámbito competencial con objeto de determinar las circunstancias en las que un sistema de firma electrónica no basado en certificados electrónicos será considerado como válido en las relaciones de los interesados con los órganos administrativos de la Administración General del Estado, sus organismos públicos y entidades de Derecho Público vinculados o dependientes, no será preciso el transcurso del plazo de dos meses para la eficacia jurídica del sistema a que se refiere el artículo 10.2.c) de la presente ley, adquiriendo eficacia jurídica al día siguiente de la publicación de la Resolución, salvo que esta disponga otra cosa.»

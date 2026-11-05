@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Apertura de cuenta corriente diferenciada para la gestión del Fondo.
+
+El libramiento de los recursos del Fondo que se realice a cada entidad local se ingresará en una cuenta corriente habilitada específicamente a tal efecto. Dicha cuenta corriente deberá destinarse exclusivamente a la financiación y pago de los proyectos de inversión y las actuaciones financiables con cargo al Fondo, y no podrá modificarse durante la tramitación del expediente, salvo por causas de fuerza mayor debidamente acreditadas, y previa autorización de la Dirección General de Cooperación Local. Por Resolución del Secretario de Estado de Cooperación Territorial se establecerán los criterios de aplicación de esta disposición adicional.

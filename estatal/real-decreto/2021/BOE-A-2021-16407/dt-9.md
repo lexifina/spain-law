@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Centros de inspección periódica de botellas de respiración autónoma habilitados con anterioridad a la entrada en vigor de este real decreto.
+
+Los centros de inspección periódica de botellas de respiración autónoma de la instrucción técnica complementaria ITC-EP 5, habilitados a la fecha de entrada en vigor del presente real decreto, deberán adaptarse a las condiciones establecidas en el apartado 7 del artículo 4 de dicha instrucción técnica complementaria en el plazo de un año desde la entrada en vigor del presente real decreto, sin que deban presentar nuevamente la declaración responsable regulada en el artículo 4 de la misma.

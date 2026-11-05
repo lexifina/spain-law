@@ -1,0 +1,7 @@
+Con ocasión de anteriores procesos electorales, la Junta Electoral Central ha dictado Instrucciones acerca de la documentación que necesariamente se ha de acompañar por las candidaturas, en relación con la condición de elegibilidad de los candidatos, incluyéndose entre los documentos a adoptar, certificación acreditativa de la inscripción de los candidatos en las listas del censo o, si algún candidato no figura inscrito en ellas, certificación negativa de antecedentes penales, acreditándose así estar el candidato en el pleno goce de sus derechos civiles y políticos.
+
+La desaparición en el vigente Código Penal de las penas de inhabilitación especial para el derecho de sufragio activo y pasivo y de suspensión del mismo derecho, da lugar a que no tengan acceso al censo electoral las condenas a penas de inhabilitación absoluta, de inhabilitación especial para cargo público o de suspensión de cargo público, dado que las mismas no llevan aparejada la privación del derecho de sufragio activo.
+
+En función de ello, la Junta Electoral Central ha estimado procedente, con el fin de unificar los criterios de las Juntas Electorales competentes, al mismo tiempo que disipar las dudas de las entidades políticas, aprobar, en ejercicio de la competencia que le reconoce el apartado 1.c) del artículo 19 de la LOREG, las siguientes normas, que se publicarán en el «Boletín Oficial del Estado» en forma de
+
+INSTRUCCIÓN

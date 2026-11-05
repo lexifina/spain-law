@@ -1,0 +1,25 @@
+## Disposición final segunda. Modificación del Real Decreto 1506/2012, de 2 de noviembre, por el que se regula la cartera común suplementaria de prestación ortoprotésica del Sistema Nacional de Salud y se fijan las bases para el establecimiento de los importes máximos de financiación en prestación ortoprotésica.
+
+Se modifica el artículo 9 del Real Decreto 1506/2012, de 2 de noviembre, por el que se regula la cartera común suplementaria de prestación ortoprotésica del Sistema Nacional de Salud y se fijan las bases para el establecimiento de los importes máximos de financiación en prestación ortoprotésica, que queda redactado de la siguiente manera:
+
+> «Artículo 9. Aportación de las personas usuarias.
+
+> 1. Con carácter general, la cartera suplementaria de prestación ortoprotésica está sujeta a aportación de la persona usuaria, con un esquema similar al de la prestación farmacéutica, tomando como base de cálculo el precio de Oferta del producto. El porcentaje de aportación del usuario se regirá por las mismas normas que regulan la prestación farmacéutica y sin que se aplique el mismo límite de cuantía a esta aportación.
+
+> 2. En consecuencia, el porcentaje de aportación de la persona usuaria será el siguiente:
+
+> a) Un 60 por ciento del precio de Oferta del producto para los usuarios y sus beneficiarios cuya renta consignada en las casillas de la base liquidable general y del ahorro de la declaración del Impuesto sobre la Renta de las Personas Físicas sea igual o superior a 100.000 euros.
+
+> b) Un 50 por ciento del precio de Oferta del producto para las personas que ostenten la condición de asegurado activo y sus beneficiarios cuya renta consignada en las casillas de la base liquidable general y del ahorro de la declaración del Impuesto sobre la Renta de las Personas Físicas sea igual o superior a 18.000 euros e inferior a 100.000 euros.
+
+> c) Un 40 por ciento del precio de Oferta del producto para las personas que ostenten la condición de asegurado activo y sus beneficiarios y no se encuentren incluidos en los apartados a) o b).
+
+> d) Un 10 por ciento del precio de Oferta del producto para las personas que ostenten la condición de asegurado como pensionistas de la Seguridad Social y sus beneficiarios, con excepción de las personas incluidas en el apartado a).
+
+> e) Un 10 por ciento del precio de Oferta del producto en los productos pertenecientes a los subgrupos de aportación reducida que aparecen en el anexo.
+
+> 3. Por orden de la persona titular del Ministerio de Sanidad previo informe del Consejo Interterritorial, se establecerá el límite máximo de la aportación que han de abonar las personas usuarias a la que se refieren los anteriores apartados b), c), d) y e).
+
+> 4. Estarán exentos de aportación las personas usuarias y sus beneficiarias que en el momento de la dispensación pertenezcan a una de las categorías exentas de la aportación en la prestación farmacéutica.
+
+> 5. Las personas titulares o beneficiarias de los regímenes especiales de la Seguridad Social gestionados por las mutualidades de funcionarios aportarán el 30 por ciento con el límite que se fije para las personas usuarias del apartado 2 c), salvo para los productos pertenecientes a los subgrupos de aportación reducida, en los que será de aplicación lo dispuesto en el apartado 2. e), y para los tratamientos derivados de accidente en acto de servicio o enfermedad profesional, que estarán exentos de aportación.»

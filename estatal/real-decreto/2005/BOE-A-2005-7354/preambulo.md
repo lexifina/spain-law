@@ -1,0 +1,1 @@
+Téngase en cuenta que, mediante Sentencia del TS de 12 de diciembre de 2016, Ref. BOE-A-2017-3480 se declara la nulidad del Real Decreto 639/2014, de 25 de julio, que había derogado esta norma. Ref. BOE-A-2014-8497#ddunica.

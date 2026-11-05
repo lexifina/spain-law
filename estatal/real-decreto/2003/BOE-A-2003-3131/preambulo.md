@@ -1,0 +1,15 @@
+La Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, a través del apartado noveno de su artículo 53, ha introducido un nuevo artículo 23 en la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, creando la tasa del Instituto de Contabilidad y Auditoría de Cuentas por emisión de informes de auditoría de cuentas.
+
+El apartado 7 de dicho artículo 23 establece que las normas de liquidación y pago de la citada tasa se determinarán reglamentariamente. Asimismo, mediante la disposición final tercera de la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, se autoriza al Gobierno a dictar las normas necesarias para el desarrollo de dicha ley.
+
+El presente Real Decreto, en uso de dicha autorización, da cumplimiento al desarrollo reglamentario de las normas de liquidación y pago, y completa la regulación de la tasa, incrementando la seguridad jurídica de sus destinatarios principales, no solamente las autoridades que deben aplicarla, sino fundamentalmente los sujetos obligados a satisfacerla.
+
+En este sentido, se ha establecido que tendrán la consideración de informes de auditoría de cuentas, únicamente, los emitidos por auditores de cuentas y sociedades de auditoría como consecuencia de la realización de trabajos que tengan la naturaleza de actividad de auditoría de cuentas, conforme a la definición de dicha actividad contenida en el artículo 1 de la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, no teniendo tal consideración a estos efectos los trabajos que no tengan la naturaleza de auditoría de cuentas, a los que no será de aplicación esta tasa.
+
+El devengo de esta tasa se produce el último día de cada trimestre natural respecto a los informes de auditoría emitidos en dicho trimestre. En los supuestos en los que un auditor o una sociedad de auditoría cause baja en la situación de ejerciente en el Registro oficial de auditores de cuentas antes de que finalice un trimestre natural, la fecha de devengo será también el último día de éste.
+
+La tasa será objeto de autoliquidación, de tal forma que los sujetos pasivos deberán presentar y suscribir una declaración-liquidación trimestral e ingresar el importe de la deuda tributaria correspondiente. Se establece el plazo para la presentación de la declaración-liquidación y el pago de la deuda tributaria, que deberá efectuarse en las entidades colaboradoras en la recaudación, conforme a lo dispuesto a este respecto en el Reglamento General de Recaudación, aprobado por el Real Decreto 1684/1990, de 20 de diciembre. Se aplicarán en todo caso en la gestión de la tasa lo previsto en la Ley General Tributaria en relación con las normas reguladoras de las liquidaciones tributarias, la recaudación, la inspección de los tributos y la revisión de los actos en vía administrativa.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de febrero de 2003,
+
+DISPONGO:

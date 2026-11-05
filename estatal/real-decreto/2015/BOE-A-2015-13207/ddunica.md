@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular, el Real Decreto 2062/2008, de 12 de diciembre, por el que se desarrolla la Ley 55/2007, de 28 de diciembre, del Cine, sin perjuicio de lo previsto en la disposición transitoria única del Real Decreto ley 6/2015, de 14 de mayo, por el que se modifica la Ley 55/2007, de 28 de diciembre, del Cine, se conceden varios créditos extraordinarios y suplementos de créditos en el presupuesto del Estado y se adoptan otras medidas de carácter tributario.

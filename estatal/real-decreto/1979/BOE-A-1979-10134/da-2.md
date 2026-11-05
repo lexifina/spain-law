@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+Los automóviles que no tengan la consideración de turismo conforme al Código de la Circulación, no podrán prestar servicio alguno de las clases señaladas en el artículo 2.º de este Reglamento. La prestación de los servicios regulados en los artículos 35, 43 y 44 del Reglamento de Ordenación de los Transportes Mecánicos por Carretera, en el suelo urbano o urbanizable, requerirá la expedición de una licencia especial por la Entidad local competente por razón del lugar. Para la expedición de esta licencia será preciso el previo informe de la Comisión Delegada de Tráfico y Transportes y Comunicaciones de la Provincial de Gobierno.

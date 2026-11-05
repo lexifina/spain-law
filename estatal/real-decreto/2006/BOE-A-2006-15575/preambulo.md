@@ -1,0 +1,7 @@
+La Ley 29/2005, de 29 de diciembre, de Publicidad y Comunicación Institucional, estableció el marco normativo en el que se deben desarrollar las campañas institucionales promovidas o contratadas por la Administración General del Estado y por las demás entidades integrantes del sector público estatal, determinando a tal efecto requisitos y prohibiciones.
+
+En dicha ley se crea la Comisión de publicidad y comunicación institucional, a la que corresponde la planificación, asistencia técnica, evaluación y coordinación de las actividades de publicidad y de comunicación en este ámbito. En su seno funcionará un Comité de recursos, encargado de resolver las reclamaciones contra campañas que incurran en alguna de las prohibiciones establecidas en la ley. La Comisión elaborará el Plan anual de publicidad y comunicación de la Administración General del Estado, de conformidad con las propuestas de los distintos departamentos ministeriales, que será objeto de aprobación por el Consejo de Ministros. De acuerdo con el artículo 11 de la norma legal, la composición, organización y funcionamiento de la Comisión se desarrollarán reglamentariamente.
+
+En su virtud, a propuesta de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de agosto de 2006,
+
+D I S P O N G O :

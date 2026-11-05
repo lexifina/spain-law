@@ -1,0 +1,173 @@
+## ANEJO UNICO
+
+## Norma de calidad para gelatinas comestibles destinadas al mercado interior
+
+1. Nombre de la norma.
+
+Norma de calidad para gelatinas comestibles.
+
+2. Objeto de la norma.
+
+La presente norma tiene por objeto definir las características de calidad y presentación que deben reunir las gelatinas comestibles para su adecuada comercialización en el mercado interior.
+
+3. Ambito de aplicación.
+
+La presente norma se aplicará a todas las gelatinas comestibles comercializadas en el mercado interior. Quedan fuera del ámbito de aplicación de esta norma las gelatinas destinados a usos no alimentarios.
+
+4. Definición del producto.
+
+Se entiende por gelatina comestible el producto obtenido por hidrólisis parcial del colágeno que proviene de la piel, tejidos conjuntivos y huesos de los animales de abasto.
+
+5. Proceso de fabricación.
+
+La materia prima, previamente a su utilización, se somete a las operaciones de secado, limpieza y desengrasado.
+
+Cuando se parte de huesos, una vez obtenida la oseína esta podrá ser tratada por procedimientos alcalinos o ácidos, dando lugar, respectivamente, a gelatinas alcalinas o ácidas. La piel de cerdo será tratada únicamente por procedimientos ácidos y el serraje normalmente por procedimientos alcalinos.
+
+En todos los casos, el producto obtenido y purificado pasa a las cubas de cocción, de donde se harán varias extracciones, subiendo paulatinamente la temperatura.
+
+Los caldos obtenidos se filtran y concentran a bajas temperaturas. Antes de la última evaporación, los caldos de gelatina se esterilizan a 120° C. Se secan en túneles adecuados, para a continuación proceder normalmente a la molturación y envasado.
+
+Todo el proceso de fabricación se llevará a cabo con la máxima higiene y se realizarán controles físico-químicos y bacteriológicos que garanticen el producto.
+
+6. Factores esenciales de composición y calidad.
+
+Las gelatinas deberán reunir las siguientes características:
+
+Humedad: 8 al 13 por 100.
+
+pH: 4 a 9.
+
+Poder gelificante: 0 a 300 grados Bloom.
+
+Viscosidad: 10 a 75 mps (milipoise).
+
+Cenizas: 0,8 a 8 por 100.
+
+No deberán tener olor ni sabor desagradables. El color podrá variar del blanco al ligeramente ámbar. Todas serán solubles en agua caliente y algunas en agua fría. Las soluciones al 2,5 por 100 en agua caliente deberán ser límpidas y transparentes observadas a través de un espesor de dos centímetros.
+
+7. Norma microbiológica y contaminantes.
+
+7.1 Norma microbiológica aplicable a las gelatinas comestibles.
+
+(Derogado).
+
+7.2 Contaminantes.
+
+(Derogado).
+
+8. Aditivos.
+
+(Derogado).
+
+9. Higiene.
+
+(Derogado).
+
+10. Clasificación.
+
+De acuerdo con su punto isoeléctrico y el proceso de elaboración empleado, las gelatinas se clasifican en los siguientes tipos:
+
+| Tipo A (gelatina ácida). | pH del punto isoeléctrico de 7 a 9. |
+| --- | --- |
+| Tipo B (gelatina alcalina). | pH del punto isoeléctrico de 4,7 a 5,1. |
+
+11. Categorización comercial.
+
+No se establecen categorías comerciales.
+
+12. Envasado.
+
+12.1 Las gelatinas comestibles se venderán siempre envasadas y los envases deberán estar fabricados con materias primas autorizadas para tal fin por el Ministerio de Sanidad y Consumo.
+
+12.2 La tolerancia en cuanto a la verificación del contenido efectivo en el envasado, para los productos afectados por la presente norma de calidad, se deberá ajustar a lo establecido en la legislación vigente.
+
+12.3 La tolerancia máxima admisible en los grados Bloom declarados será de ± 20.
+
+13. Prohibiciones.
+
+Se prohíbe la utilización de la denominación «Gelatina» para todo producto que no esté sujeto a esta norma, exceptuándose de esta prohibición las de uso no alimentario.
+
+14. Etiquetado y rotulación.
+
+El etiquetado de los envases y la rotulación de los embalajes deberán cumplir lo dispuesto en el Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados.
+
+> Téngase en cuenta que la norma vigente actualmente es el Real Decreto 1334/1999, de 31 de julio, por el que se aprueba la Norma general de etiquetado, presentación y publicidad de los productos alimenticios. Ref. BOE-A-1999-17996
+
+14.1 Etiquetado.
+
+El etiquetado de los envases llevará obligatoriamente las siguientes indicaciones:
+
+14.1.1 Denominación del producto:
+
+Gelatina comestible.
+
+Tipo de gelatina (A o B).
+
+Grados Bloom.
+
+14.1.2 Contenido neto.
+
+Se expresará en gramos o en kilogramos.
+
+14.1.3 Fecha de duración mínima.
+
+Se expresará mediante la leyenda «consumir preferentemente antes de fin de» seguida del año.
+
+El año se indicará con sus cuatro cifras o sus dos cifras finales.
+
+14.1.4 Instrucciones para la conservación.
+
+Se indicará mediante la expresión «Presérvese de la humedad».
+
+14.1.5 Modo de empleo.
+
+En los envases con un contenido neto inferior a 500 gramos, se indicará el modo de empleo.
+
+14.1.6 Identificación de la Empresa.
+
+Nombre o razón social o denominación del fabricante, envasador o importador y, en todo caso, su domicilio.
+
+Número de Registro Sanitario de Industria.
+
+Cuando la elaboración se realice bajo marca de un distribuidor, además de figurar su nombre, razón social o denominación y domicilio, se incluirán los de la industria elaboradora o su número de Registro Sanitario, precedidos por la expresión «Fabricado por …».
+
+14.1.7 Identificación del lote de fabricación.
+
+Todo envase deberá llevar una indicación que permita identificar el lote de fabricación. Será obligatorio tener a disposición de los servicios competentes de la Administración la documentación donde figuren los datos necesarios para la identificación del lote.
+
+14.1.8 Todos los caracteres de la información obligatoria referente al etiquetado se indicarán con una altura mínima de:
+
+| Contenido neto en gramos | Altura caracteres en milímetros |
+| --- | --- |
+| Hasta 500. | 4 |
+| Más de 500 hasta 1.000. | 5 |
+| Más de 1.000. | 6 |
+
+14.2 Rotulación.
+
+En los rótulos de los embalajes se hará constar:
+
+Denominación del producto o marca.
+
+Número y contenido neto de los envases.
+
+Nombre o razón social o denominación de la Empresa.
+
+La expresión «presérvese de la humedad».
+
+No será obligatoria la mención de estas indicaciones siempre que puedan ser determinadas clara y fácilmente en el etiquetado de los envases sin necesidad de abrir el embalaje.
+
+15. País de origen.
+
+Las gelatinas importadas además de cumplir todo lo establecido en el apartado 14 de esta norma, excepto el apartado 14.1.7, deberán hacer constar en su etiquetado y rotulación el país de origen.
+
+16. Especificaciones.
+
+Las gelatinas comestibles que se elaboren con destino exclusivo para la exportación y no cumplan los requisitos establecidos en esta norma, deberán estar embaladas y etiquetadas de forma que se identifiquen como tales inequívocamente para evitar su consumo en el mercado interior.
+
+En ningún caso podrán comercializarse en el mercado interior gelatinas comestibles que no cumplan todos los requisitos especificados en la presente norma.
+
+> Se derogan los apartados 7.2, 8 y 9 por la disposición derogatoria única. e) del Real Decreto 1086/2020, de 9 de diciembre. Ref. BOE-A-2020-15872#dd
+
+> Se deroga el apartado 7.1 por el art. único.k) del Real Decreto 135/2010, de 12 de febrero. Ref. BOE-A-2010-3032

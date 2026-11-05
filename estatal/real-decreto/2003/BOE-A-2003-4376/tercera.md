@@ -1,0 +1,3 @@
+## Disposición final tercera. Entrada en vigor.
+
+El presente real decreto y el reglamento que mediante el mismo se aprueba entrarán en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», excepto en lo que se refiere a los preparados incluidos en el ámbito de aplicación del Real Decreto 2163/1994, de 4 de noviembre, por el que se implanta el sistema armonizado comunitario de autorización para comercializar y utilizar productos fitosanitarios, y el Real Decreto 1054/2002, de 11 de octubre, por el que se regula el proceso de evaluación para el registro, autorización y comercialización de biocidas, cuya entrada en vigor será el 30 de julio de 2004.

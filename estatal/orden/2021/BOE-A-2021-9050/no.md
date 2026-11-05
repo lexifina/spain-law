@@ -1,0 +1,3 @@
+## Novena. Subdirección General de Gestión de Dominio Público Hidráulico e Infraestructuras.
+
+Se delega por la ministra en la persona titular de la Subdirección General de Dominio Público Hidráulico e Infraestructuras el anuncio de convocatoria para el levantamiento de las actas previas a la ocupación y de ocupación definitiva de los bienes y/o derechos afectados por el procedimiento expropiatorio y su publicación en el «Boletín Oficial del Estado», para aquellas actuaciones de la Dirección General del Agua no comprendidas en el ámbito de actuación de las Confederaciones Hidrográficas y de la Mancomunidad de los Canales del Taibilla.

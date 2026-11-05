@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Prórroga de los efectos de la incapacidad temporal.
+
+1. En los supuestos de agotamiento, por el transcurso de plazo máximo, de la incapacidad temporal, en los términos previstos en el artículo 131 bis de la Ley General de la Seguridad Social, durante la prórroga de efectos de la prestación, ésta correrá a cargo, con efectos desde el día siguiente a aquél en que se haya producido la extinción de dicha situación, de la Entidad gestora competente cuando la incapacidad derive de contingencias comunes, o de la Entidad gestora o de la correspondiente Mutua de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, si la incapacidad tiene su origen en contingencias profesionales.
+
+2. La obligación de cotizar, de acuerdo con lo previsto en el apartado 4 del artículo 106 de la Ley General de la Seguridad Social, continuará en la situación de incapacidad temporal. Sin embargo, dicha obligación no subsistirá durante la prórroga de los efectos de la situación de incapacidad temporal a que se refiere el apartado 3 del artículo 131 bis de la citada Ley.

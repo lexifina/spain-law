@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Reglamento será de aplicación en todo lo que no esté en contradicción con la Ley 55/1980, de 11 de noviembre, de Montes Vecinales en Mano Común, según establece su disposición transitoria quinta. Ref. BOE-A-1980-25463#dt-5

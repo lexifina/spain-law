@@ -1,0 +1,5 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 27/2000, de 14 de enero, por el que se establecen medidas alternativas de carácter excepcional al cumplimiento de la cuota de reserva del dos por ciento en favor de trabajadores discapacitados en empresas de 50 o más trabajadores, excepto su disposición adicional segunda, referida a la adecuación normativa del Real Decreto 1451/1983, de 11 de mayo, sobre empleo selectivo y medidas de fomento de empleo de los trabajadores minusválidos, que continuará en vigor.
+
+Asimismo, queda derogada, en cuanto se oponga a lo establecido en este real decreto, la Orden del Ministerio de Trabajo y Asuntos Sociales, de 24 de julio de 2000, por la que se regula el procedimiento administrativo referente a las medidas de carácter excepcional al cumplimiento de la cuota de reserva del dos por ciento en favor de trabajadores discapacitados en empresas de 50 o más trabajadores, reguladas por el Real Decreto 27/2000, de 14 de enero.

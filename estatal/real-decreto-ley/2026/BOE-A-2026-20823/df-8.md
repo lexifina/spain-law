@@ -1,0 +1,5 @@
+## Disposición final octava. Habilitación para desarrollo reglamentario.
+
+1. Se habilita al Gobierno para dictar cuantas disposiciones sean necesarias para el desarrollo y ejecución de esta ley.
+
+2. En particular, la orden a que se refiere el artículo 347.7 de la Ley 6/2023, de 17 de marzo, deberá aprobarse en el plazo de 6 meses desde la entrada en vigor de este real decreto-ley. En este sentido, se habilita a las personas titulares del Ministerio de Economía, Comercio y Empresa y del Ministerio de Hacienda a establecer mediante orden dictada a propuesta conjunta de las personas titulares del Ministerio de Economía, Comercio y Empresa y del Ministerio de Hacienda el límite a las comisiones de movilización, así como la información necesaria para garantizar la correcta ejecución de la movilización y la continuidad del régimen jurídico y fiscal de la Cuenta de Ahorro e Inversión Financia Europa y las especificaciones, modelos normalizados y requisitos técnicos y operativos necesarios para el intercambio de la información a que se refiere el artículo 347 de la Ley 6/2023, de 17 de marzo.

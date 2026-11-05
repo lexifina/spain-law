@@ -1,0 +1,1 @@
+En fe de lo cual, los infrascritos, debidamente autorizados para ello por sus respectivos Gobiernos, han firmado el presente Pacto, el cual ha sido abierto a la firma en Nueva York, el decimonoveno día del mes de diciembre de mil novecientos sesenta y seis.

@@ -1,0 +1,5 @@
+El vertiginoso desarrollo que las tecnologías de la información y de la comunicación han tenido desde la aprobación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, es un hecho bien contrastado. En algunos recientes procesos electorales se han producido distintos incidentes por la utilización de este tipo de instrumentos que las Juntas Electorales han resuelto en función de las circunstancias concurrentes. No obstante, resulta conveniente recordar con carácter general que las limitaciones establecidas por la legislación electoral son también aplicables al uso de este tipo de medios electrónicos.
+
+Para aclarar esta situación, la Junta Electoral Central, previa audiencia de las entidades políticas con representación en el Congreso de los Diputados, del Ministerio del Interior y de los Consejeros competentes de las Comunidades Autónomas, considerando el alcance general de la cuestión, ha acordado, en su reunión del día de la fecha, publicar la siguiente
+
+INSTRUCCIÓN

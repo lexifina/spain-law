@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas.
+
+Se añade un apartado número 3 al artículo 6 «Cierre de las liquidaciones anuales» de la Orden ECO/2692/2002, de 28 de octubre, por la que se regulan los procedimientos de liquidación de la retribución de las actividades reguladas del sector gas natural y de las cuotas con destinos específicos y se establece el sistema de información que deben presentar las empresas, con el siguiente contenido:
+
+«3. Las retribuciones a computar en cada liquidación anual serán las devengadas en el ejercicio y en ejercicios anteriores. Si en la resolución de reconocimiento de retribución no se estableciese expresamente el ejercicio de liquidación, todas las retribuciones reconocidas con posterioridad al último día del mes de febrero del año siguiente al de liquidación se incorporarán a la liquidación en curso.»

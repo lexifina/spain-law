@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Fiscalización de expediente electrónico.
+
+El procedimiento de fiscalización de expedientes tramitados por procedimientos electrónicos por las Entidades Locales, sin perjuicio de la adaptación a su estructura organizativa en el ejercicio de sus competencias, deberá ser coherente con los criterios y principios que se recojan en el desarrollo normativo que, para su propio ámbito, establezca la Intervención General de la Administración del Estados. En ningún caso, la adaptación del procedimiento podrá suponer alteración de los requisitos de fiscalización establecidos en el presente Reglamento.

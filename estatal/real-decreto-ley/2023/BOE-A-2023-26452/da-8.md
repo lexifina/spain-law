@@ -1,0 +1,5 @@
+## Disposición adicional octava. Actualización de las referencias relativas al régimen excepcional en materia de endeudamiento autonómico en 2024 y a la aplicación del reintegro de las liquidaciones negativas del sistema de financiación de las Comunidades Autónomas y Ciudades con Estatuto de Autonomía correspondientes a 2008 y 2009.
+
+Uno. Las referencias al año 2023 contenidas en la disposición adicional septuagésima quinta de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023, deben considerarse efectuadas a 2024, excepto la incluida en el apartado cuatro.
+
+Dos. El régimen excepcional de aplicación del reintegro de las liquidaciones negativas del sistema de financiación de las Comunidades Autónomas y Ciudades con Estatuto de Autonomía correspondientes a 2008 y 2009 previsto en la disposición adicional septuagésima sexta de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023, será aplicable en 2024. Las referencias anuales contenidas en la referida disposición relativas a los años 2023 y 2022 deben considerarse realizadas a 2024 y 2023, respectivamente.

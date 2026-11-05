@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Garantía de accesibilidad de la televisión digital terrestre para las personas con discapacidad.
+
+Con arreglo a lo dispuesto en la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, y en sus disposiciones de desarrollo, las Administraciones competentes, previa audiencia a los representantes de los sectores afectados e interesados, adoptarán las medidas necesarias para garantizar desde el inicio la accesibilidad de las personas con discapacidad a los servicios de televisión digital terrestre. Para conseguir este fin, las medidas que se adopten se atendrán a los principios de accesibilidad universal y diseño para todas las personas.

@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Comunicación de datos al Registro de Contratos del Sector Público.
+
+Los contratos adjudicados a partir del 1 de enero de 2009 que hayan de ser comunicados al Ministerio de Economía y Hacienda para su inscripción en el Registro Público de Contratos utilizarán, en todo caso, para la codificación del objeto del contrato los códigos CPV aprobados por el Reglamento 213/2008/CE, de 28 de noviembre de 2007.
+
+El objeto de los contratos adjudicados antes de dicha fecha podrá ser codificado de acuerdo con dicha CPV o de acuerdo con la CPA, debiendo optar el órgano comunicante de los mismos por uno u otro sistema de codificación para todos los contratos que se comuniquen al Ministerio de Economía y Hacienda a partir de la entrada en vigor del presente real decreto, indicando expresamente la opción elegida con anterioridad o de modo simultáneo a la primera notificación que efectúe.
+
+Los códigos correspondientes a los nuevos tipos de contratos, procedimientos de adjudicación y demás información codificada modificada por la entrada en vigor de la Ley de Contratos del Sector Público se ajustarán a lo establecido en el anexo III. El Ministerio de Economía y Hacienda podrá, mediante Orden, modificar en lo necesario los formatos y especificaciones de comunicación de datos de contratos establecidos por la Orden EHA/1077/2005, de 31 de marzo, para dichas remisiones.

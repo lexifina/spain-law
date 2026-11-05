@@ -1,0 +1,5 @@
+## Primero. Autorización a las Unidades NBQ de las Fuerzas Armadas y a la Unidad Militar de Emergencias a utilizar biocidas autorizados por el Ministerio de Sanidad.
+
+Se autoriza a las Unidades NBQ de las Fuerzas Armadas y a la Unidad Militar de Emergencias, dentro de las actuaciones generales de desinfección de espacios, tanto públicos como privados, que con ocasión de la situación del estado de alarma vienen realizando las citadas unidades, a utilizar aquellos biocidas del grupo principal 1, descritos en el artículo 1.1 del Real Decreto 830/2010, de 25 de junio, por el que se establece la normativa reguladora de la capacitación para realizar tratamientos con biocidas, que están autorizados y relacionados por el Ministerio de Sanidad como eficaces para la lucha contra el COVID-19.
+
+Asimismo, se autoriza a las unidades señaladas en el párrafo anterior a la utilización de procedimientos de desinfección aérea, a través de las técnicas de nebulización, termonebulización y micronebulización para la ejecución de las referidas labores de desinfección.

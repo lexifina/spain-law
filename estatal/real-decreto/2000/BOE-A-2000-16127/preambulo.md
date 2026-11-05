@@ -1,0 +1,7 @@
+El Real Decreto 690/2000, de 2 de mayo, estableció la nueva estructura orgánica básica del Ministerio de Fomento, previendo su disposición final segunda el desarrollo de la misma. En cumplimiento de dicha previsión se procede a completar la estructura orgánica del Departamento de acuerdo siempre con el objetivo, marcado por el Real Decreto 690/2000, de 2 de mayo, de que la estructura orgánica responda en su conjunto a los principios de racionalidad y eficacia en el ámbito competencial y de gestión atribuido al Departamento.
+
+La presente disposición, de conformidad con lo establecido en el artículo 67.1 a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, completa la estructura orgánica básica hasta el nivel de subdirección general, procediendo a reordenar la adscripción de los órganos de ese nivel ya existentes en función de la nueva distribución competencial que se ha producido en el seno del Departamento por la norma que se desarrolla. Al mismo tiempo que se produce esta reordenación se han ajustado y precisado las funciones y atribuciones de algunas de ellas, a fin de que quede recogido con mayor claridad el ámbito de actuación que tienen encomendado.
+
+En su virtud, a iniciativa del Ministro de Fomento, a propuesta del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 4 de agosto de 2000,
+
+DISPONGO:

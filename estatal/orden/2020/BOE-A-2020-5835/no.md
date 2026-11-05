@@ -1,0 +1,1 @@
+Téngase en cuenta que las medidas establecidas en la presente Orden ya no son aplicables, por lo que debe entenderse que ha agotado su vigencia. Asímismo, el Real Decreto 169/2018, de 23 de marzo, modificado por la disposición final primera, ha sido derogado por la disposición derogatoria única del Real Decreto 366/2023, de 16 de mayo. Ref. BOE-A-2023-11641

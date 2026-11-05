@@ -1,0 +1,1 @@
+Téngase en cuenta la Resolución de 10 de abril de 2020, de la Dirección General de Aviación Civil, por la que se establecen las condiciones para la prestación, y la adjudicación de forma directa, del servicio de transporte aéreo en determinadas rutas aéreas del Archipiélago Canario durante el estado de alarma declarado con motivo del COVID-19. Ref. BOE-A-2020-4469

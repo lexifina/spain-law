@@ -1,0 +1,5 @@
+## Disposición adicional novena. Curvas de carga destinadas al suministro a los clientes.
+
+Los comercializadores de referencia deberán enviar antes del 15 de noviembre de cada año a la Comisión Nacional de los Mercados y la Competencia su previsión de las curvas de carga destinadas al suministro a los clientes con derecho a los precios voluntarios para el pequeño consumidor para cada periodo anual, incluyendo el detalle de los consumidores vulnerables y los consumidores que, sin tener derecho a acogerse a los precios voluntarios para el pequeño consumidor, transitoriamente carezcan de contrato con un comercializador libre, con el desglose en cada caso por cada categoría de peajes de acceso existentes.
+
+Dicha Comisión procederá a informar sobre las cantidades remitidas, valorando las mismas en función de sus previsiones de evolución de demanda, remitiendo su informe y, en su caso, las cantidades revisadas a la Secretaría de Estado de Energía del Ministerio de Industria, Energía y Turismo antes del 10 de diciembre de cada año.

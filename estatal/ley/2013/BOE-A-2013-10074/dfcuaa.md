@@ -1,0 +1,23 @@
+## Disposición final cuarta. Modificación del Reglamento de planes y fondos de pensiones, aprobado por Real Decreto 304/2004, de 20 de febrero.
+
+El Reglamento de planes y fondos de pensiones, aprobado por Real Decreto 304/2004, de 20 de febrero, queda modificado como sigue:
+
+Uno. Se modifica la letra d) del apartado 9 del artículo 70, que queda redactada como sigue:
+
+«d) Los valores y derechos negociados en el Mercado Alternativo Bursátil y en el Mercado Alternativo de Renta Fija.»
+
+Dos. La letra b) del artículo 72, queda redactada del siguiente modo:
+
+«b) La inversión en valores o instrumentos financieros emitidos por una misma entidad, más los créditos otorgados a ella o avalados o garantizados por la misma, no podrá exceder del 5 por ciento del activo del fondo de pensiones.
+
+No obstante, el límite anterior será del 10 por ciento por cada entidad emisora, prestataria o garante, siempre que el fondo no invierta más del 40 por ciento del activo en entidades en las que se supere el 5 por ciento del activo del fondo.
+
+El fondo podrá invertir en varias empresas de un mismo grupo no pudiendo superar la inversión total en el grupo el 10 por ciento del activo del fondo.
+
+Ningún fondo de pensiones podrá tener invertido más del 2 por ciento de su activo en valores o instrumentos financieros no admitidos a cotización en mercados regulados o en valores o instrumentos financieros que, estando admitidos a negociación en mercados regulados no sean susceptibles de tráfico generalizado e impersonal, cuando estén emitidos o avalados por una misma entidad. El límite anterior será de un 4 por ciento para los citados valores o instrumentos financieros cuando estén emitidos o avalados por entidades pertenecientes a un mismo grupo.
+
+No obstante lo anterior, la inversión en valores o derechos emitidos por una misma entidad negociados en el Mercado Alternativo Bursátil o en el Mercado Alternativo de Renta Fija, así como la inversión en acciones y participaciones emitidas por una sola entidad de capital riesgo podrá alcanzar el 3 por ciento del activo del fondo de pensiones.
+
+El límite anterior del 3 por ciento será de un 6 por ciento para los citados valores u otros instrumentos financieros cuando estén emitidos por entidades pertenecientes a un mismo grupo.
+
+No estarán sometidos a los límites previstos en esta letra b) los depósitos en entidades de crédito, sin perjuicio de la aplicación del límite conjunto a que se refiere la letra f) de este artículo.»

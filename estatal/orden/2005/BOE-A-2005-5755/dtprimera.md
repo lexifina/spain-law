@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación del canon por utilización de las líneas ferroviarias integrantes en la Red Ferroviaria de Interés General a determinados servicios de transporte de viajeros.
+
+No obstante lo dispuesto en la disposición final única, las cuantías fijadas en esta orden para las Modalidades B, C y D del canon por utilización de las líneas ferroviarias integrantes de la Red Ferroviaria de Interés General no serán de aplicación a los servicios de transporte ferroviario de viajeros que se realicen sobre las líneas de tipo B y tipo C referidas en el Anexo II de la presente orden, hasta el 1 de enero de 2006.

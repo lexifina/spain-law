@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Aplicación del Real Decreto 1301/2006, de 10 de noviembre, por el que se establecen las normas de calidad y seguridad para la donación, la obtención, la evaluación, el procesamiento, la preservación, el almacenamiento y la distribución de células y tejidos humanos y se aprueban las normas de coordinación y funcionamiento para su uso en humanos.
+
+Aquellos proyectos que impliquen la aplicación en humanos de cualquier tipo de material biológico deberán, además, cumplir con lo dispuesto en el Real Decreto 1301/2006, de 10 de noviembre, en cuanto a las competencias que en este ámbito corresponden al Ministerio de Sanidad, Política Social e Igualdad.

@@ -1,0 +1,3 @@
+## Artículo sesenta y cuatro.
+
+Cuando el tomador del seguro o el asegurado realicen, respecto a un determinado objeto un contrato de seguro de lucro cesante con un asegurador y otro de seguro de daños con otro asegurador distinto, deberán comunicar sin demora alguna, a cada uno de los aseguradores, la existencia del otro seguro. En la comunicación se indicará no sólo la denominación social del asegurador con el que se ha contratado el otro seguro, sino también la suma asegurada y demás elementos esenciales. La inexistencia de esta comunicación producirá en su caso los efectos previstos en la Sección Segunda del Título Primero de la presente Ley.

@@ -1,0 +1,13 @@
+## Disposición transitoria tercera. Profesionales sanitarios que ejercen con un título extranjero de especialista no reconocido.
+
+A los españoles y nacionales de Estados no comunitarios que residan en el territorio nacional, se encuentren en posesión de un título extranjero de especialista obtenido en uno de dichos Estados y hayan ejercido en España, en el ámbito propio y específico de dicha especialidad, durante un periodo no inferior a un año en los cinco anteriores a la entrada en vigor de este real decreto, sin el título de especialista reconocido, les será de aplicación el procedimiento de reconocimiento regulado por esta norma, con la única particularidad de que cumplimentada su solicitud en los términos previstos en el artículo 3 y emitido el informe favorable que se cita en el articulo 4.2. c), podrán, de manera excepcional y por una sola vez, optar entre la realización de un periodo de ejercicio profesional en prácticas o de una prueba teórico-práctica en los términos previstos en este real decreto.
+
+El plazo de presentación de la mencionada opción será de un año a partir de la entrada en vigor de este real decreto y se realizará de forma expresa, mediante la cumplimentación de la casilla destinada al efecto, en el modelo de solicitud al que se refiere el artículo 3.3.
+
+A tal fin, los interesados aportarán como documentación adicional a la presentada con su solicitud:
+
+a) Certificaciones de los jefes de servicio o responsables de las unidades asistenciales de la especialidad solicitada, con el visto bueno del gerente o representante legal del centro sanitario, acreditativas del ejercicio profesional efectivo dentro del campo propio y específico de la especialidad de que se trate, en las que consten la fecha de inicio y finalización.
+
+b) Certificaciones de los gerentes o representantes legales de los centros, acreditativas de la existencia de una relación profesional retribuida durante el periodo de ejercicio profesional exigido. En dicha certificación se especificarán, asimismo, la especialidad a que dicho ejercicio se refiere, las fechas de inicio y finalización del mismo, la adscripción efectiva del interesado a la unidad y la dedicación horaria.
+
+c) Certificaciones expedidas por el órgano competente de la comunidad autónoma, acreditativas de que el ejercicio profesional exigido se ha llevado a cabo en centros sanitarios autorizados, según la normativa dictada por la comunidad autónoma que en cada caso corresponda, en desarrollo de lo previsto en el Real Decreto 1277/2003, de 10 de octubre, por el que se establecen las bases generales sobre autorización de centros, servicios y establecimientos sanitarios.

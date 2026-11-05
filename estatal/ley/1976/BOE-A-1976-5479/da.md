@@ -1,0 +1,3 @@
+## DISPOSICIÓN ADICIONAL
+
+La presente Ley será de aplicación a las líneas, cables y haces hertzianos utilizados en la explotación de instalaciones de telecomunicación y radiodifusión cuya concesión, al amparo de la legislación vigente, se otorgue por los Ministerios de la Gobernación y de Informacion y Turismo, en el ámbito de sus respectivas competencias, a aquellas personas naturales o jurídicas que lo soliciten, en el caso de que, cuando no se trate de municipios, se reconozca expresamente por los citados Departamentos que reúnen las condiciones de ser beneficiarios por causa de utilidad pública.

@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Régimen especial aplicable a Canarias.
+
+1. En atención a las especiales circunstancias de lejanía, insularidad y dispersión poblacional que concurren en Canarias como región ultraperiférica, así como a la necesidad que suponen las telecomunicaciones de banda ancha para la comunicación de contenidos audiovisuales, el Gobierno establecerá en el plazo máximo de seis meses las medidas compensatorias que por razones de cohesión territorial sean necesarias para compensar el sobrecoste que afrontan los operadores para desplegar servicios de banda ancha en Canarias, debido a los tramos troncales de las redes de telecomunicaciones que interconectan las lslas Canarias entre sí y a éstas con el resto del territorio español, y, con ello, equiparar la disponibilidad y condiciones de acceso a todo tipo de servicios audiovisuales de banda ancha en todas las lslas Canarias con las del resto del Estado.
+
+2. Estas medidas compensatorias serán financiadas con cargo a los Presupuestos Generales del Estado.

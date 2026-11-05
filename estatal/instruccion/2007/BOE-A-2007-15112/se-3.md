@@ -1,0 +1,3 @@
+## Séptima. Intervención del Ministerio Fiscal.
+
+En los expedientes gubernativos siempre ha de ser oído el Ministerio Fiscal (art. 97.2 LRC y 348. III RRC), que tiene asignada la función de velar por la instrucción y tramitación adecuada del expediente y atribuida la facultad de proponer las diligencia o pruebas oportunas (cfr art. 344 RRC y 97 LRC), pruebas que pueden ir dirigidas a verificar la concurrencia en el solicitante de las circunstancias que reducen el tiempo exigido de residencia en España; si habla castellano u otra lengua española; cualquier hecho relativo a su adaptación a la cultura y estilo de vida españoles, como estudios, actividades, benéficas o sociales, y los demás que estime convenientes.

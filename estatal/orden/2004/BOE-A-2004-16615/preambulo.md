@@ -1,0 +1,17 @@
+El artículo 35 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, en la redacción dada por la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, faculta al Ministerio de Economía para desarrollar determinados aspectos referidos a las informaciones que las sociedades emisoras de valores admitidos a negociación en algún mercado secundario oficial deben suministrar sobre las operaciones con partes vinculadas.
+
+En concreto, en dicho artículo se señala que las sociedades emisoras de valores admitidas a negociación en algún mercado secundario oficial deberán incluir necesariamente, en las informaciones semestrales que les exige la ley, información cuantificada de todas las operaciones realizadas por la sociedad con partes vinculadas en la forma que determine el Ministerio de Economía o con su habilitación expresa la Comisión Nacional del Mercado de Valores.
+
+Además, se señala que el Ministerio de Economía determinará las operaciones sobre las que habrá de facilitarse información individualizada, en caso de que aquéllas fueran significativas por su cuantía o relevantes para una adecuada comprensión de los estados financieros de la sociedad. Asimismo, se indica que el Ministerio de Economía determinará reglamentariamente, o con su habilitación expresa la Comisión Nacional del Mercado de Valores, las operaciones vinculadas sobre las que no habrá que facilitar información, fundado en causa legítima.
+
+Por otra parte, recientemente la Ley 26/2003, de 17 de julio, por la que se modifica la Ley 24/1988, de 28 de julio, del Mercado de Valores (LMV), y el texto refundido de la Ley de Sociedades Anónimas, aprobado por el Real Decreto Legislativo 1564/1989, de 22 de diciembre, con el fin de reforzar la transparencia de las sociedades anónimas cotizadas, añade un nuevo Título X a la Ley del Mercado de Valores (LMV), estableciendo ciertas especialidades que afectan a estas entidades y a otros emisores de valores.
+
+La citada Ley de transparencia introduce obligaciones nuevas en relación con la información societaria, entre ellas, la imposición a las sociedades cotizadas de la obligación de hacer público con carácter anual un informe de gobierno corporativo en cuyo contenido mínimo figurarán, según el artículo 116.4.c) de la LMV, las operaciones vinculadas de la sociedad con sus accionistas y sus administradores y cargos directivos, lo que motiva, también, la elaboración de esta norma.
+
+En relación con este tipo de operaciones se ha tenido en cuenta lo dispuesto en las normas internacionales de contabilidad que han sido adoptadas mediante Reglamento (CE) n.º 1725/2003 de la Comisión, de 29 de septiembre de 2003, por el que se adoptan determinadas Normas Internacionales de Contabilidad de conformidad con el Reglamento (CE) n.º 1606/2002 del Parlamento Europeo y del Consejo.
+
+Así pues, teniendo en cuenta las facultades que se otorgan al Ministro de Economía y Hacienda en el artículo 35 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, o, con su habilitación expresa, a la Comisión Nacional del Mercado de Valores y con el fin de reforzar la transparencia de las sociedades emisoras de valores, la presente Orden tiene por objeto regular algunas de las materias mencionadas y habilitar a la Comisión Nacional del Mercado de Valores para desarrollar otras cuestiones en los términos que se expresan a continuación.
+
+En su virtud, de acuerdo con el Consejo de Estado,
+
+DISPONGO:

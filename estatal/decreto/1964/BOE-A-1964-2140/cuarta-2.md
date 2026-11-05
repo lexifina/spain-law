@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta.
+
+1. Quienes en el momento de la publicación de la Ley de Bases estuviesen desempeñando alguno de los puestos clasificados para funcionarios con diploma directivo, podrán continuar desempeñándolos dentro del Ministerio y ser nombrados en cualquier momento para otros de carácter directivo, pero no podrán pasar a otro puesto reservado a funcionarios con esta clase de diplomas en otro Departamento hasta haber obtenido el mismo.
+
+2. Efectuada la requerida clasificación, se convocará concurso de méritos entre funcionarios integrados en el nuevo Cuerpo Técnico de Administración Civil para que obtengan diplomas de directivos en un número igual al de plazas clasificadas como tales. El 20 por 100 de exceso sobre las mismas, establecido en el número 4 del artículo 25 de esta Ley, se proveerá por los sistemas que ella fija, y en la misma forma se efectuará para las que se produzcan en lo sucesivo.
+
+3. Los funcionarios que hayan obtenido diploma de directivos de acuerdo con la legislación anterior y aquellos otros ingresados por oposición directa y libre para ocupar plazas de Jefe de Administración que, según la legislación anterior, capacitase para el desempeño de cargo directivo, tendrán derecho a ocupar los puestos de directivos del Ministerio a que pertenecían cuando obtuvieron el diploma o ganaron la oposición, en las condiciones establecidas en dicha legislación.

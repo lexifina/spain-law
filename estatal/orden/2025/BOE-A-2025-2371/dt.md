@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Vigencia de las actuales listas de interinidad.
+
+Las listas de personas aspirantes al desempeño de puestos en régimen de interinidad elaboradas conforme a lo dispuesto en la Orden EDU/1481/2009, de 4 de junio, mantendrán su vigencia hasta que las Consejerías de Educación en el exterior del Ministerio de Educación, Formación Profesional y Deportes, realicen en su ámbito territorial de gestión las convocatorias públicas para la formación de nuevas listas de personas aspirantes en los distintos cuerpos y especialidades con arreglo a lo dispuesto en la presente orden.

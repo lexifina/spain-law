@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Órganos colegiados.
+
+1. En materia de calificación de obras cinematográficas y audiovisuales y ayudas, el Instituto de la Cinematografía y de las Artes Audiovisuales contará con la participación de órganos colegiados, a los que será de aplicación el régimen jurídico establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en cuya composición se procurará la participación, en su caso, de los diferentes sectores profesionales relacionados con la materia de la que conozca el órgano colegiado correspondiente. Asimismo, se procurará la paridad entre hombres y mujeres, de acuerdo con el Plan para la igualdad de género en la Administración General del Estado.
+
+2. El Instituto de la Cinematografía y de las Artes Audiovisuales podrá recabar la opinión de los espectadores con objeto de conocer sus planteamientos respecto de la situación y desarrollo de la industria audiovisual española.

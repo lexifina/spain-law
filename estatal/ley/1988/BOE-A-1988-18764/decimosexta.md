@@ -1,0 +1,7 @@
+## Disposición adicional decimosexta.
+
+Las sociedades cotizadas que a la entrada en vigor de la presente disposición tengan vigente algún sistema de retribución consistente en la entrega de acciones, o de derechos de opción sobre acciones o cualquier otro sistema de retribución referenciado al valor de las acciones, dirigido a sus administradores o a sus directivos deberán, con carácter previo a la ejecución o cancelación del sistema de retribución, registrar en la Comisión Nacional del Mercado de Valores un suplemento del folleto que tengan en vigor, o un nuevo folleto específico, en el que se proporcione información detallada e individualizada sobre las acciones y opciones o liquidaciones que corresponden a administradores y directivos. Con relación a los que tengan exclusivamente la condición de directivos, la información podrá presentarse de forma agregada. Como documentación acreditativa a la que se refiere el artículo 10 del Real Decreto 291/1992, de 27 de marzo, sobre emisiones y ofertas públicas de valores, se presentará para su registro el acuerdo de la junta general de accionistas en el que se aprueba o ratifica el sistema de retribución.
+
+A los efectos de la presente disposición se entenderá por directivos los Directores generales y asimilados que desarrollen sus funciones de alta dirección bajo dependencia directa de los órganos de administración, de comisiones ejecutivas o de consejeros delegados de las sociedades cotizadas.
+
+> Se añade por la disposición adicional 17.3 de la Ley 55/1999, de 29 de diciembre. Ref. BOE-A-1999-24786

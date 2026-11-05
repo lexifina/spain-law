@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Cálculo del período medio de pago a proveedores de las entidades a las que se refiere el artículo 2.2 de la Ley Orgánica 2/2012, de 27 de abril.
+
+1. Las entidades a las que se refiere el artículo 2.2 de la Ley Orgánica 2/2012, de 27 de abril, distintas de las sociedades mercantiles, calcularán mensualmente, en el caso de entidades vinculadas o dependientes a la Administración General del Estado o a una Comunidad Autónoma, o trimestralmente, en el caso de entidades vinculadas o dependientes a una Corporación Local, su período medio de pago a proveedores de acuerdo con la metodología establecida en este real decreto.
+
+2. Esta información deberá ser comunicada por las entidades, el día siguiente a su publicación y de acuerdo con los modelos tipo de publicación facilitados por el Ministerio de Hacienda y Administraciones Públicas, a la Administración a la que estén vinculadas o de la que sean dependientes, quien también publicará esta información con la periodicidad indicada en el apartado anterior.

@@ -1,0 +1,13 @@
+En cumplimiento de lo dispuesto en los artículos 78 y 79 de la Ley 30/2007, de 30 de octubre, de Contratos del Sector Público, procede la aprobación reglamentaria de la relación de materiales básicos y de fórmulas de revisión de precios aplicables a los contratos incluidos en el ámbito de aplicación de dicha ley y sujetos a dicho sistema de revisión de precios.
+
+La revisión de precios de los contratos de obras estaba regulada por el Decreto 3650/1970, de 19 de diciembre, por el que se aprueba el cuadro de fórmulas-tipo generales de revisión de precios de los contratos de obras del Estado y Organismos Autónomos para el año 1971, complementado por el Real Decreto 2167/1981, de 20 de agosto, que amplía la relación de fórmulas. Por otra parte, la revisión de precios de los contratos de suministro de fabricación estaba regulada por el Decreto 2341/1975, de 22 de agosto, por el que se establecen las fórmulas polinómicas tipo que habrán de figurar en los contratos de fabricación de suministros y bienes de equipo del Ministerio del Ejército cuando dichos contratos incluyan cláusulas de revisión de precios, y por la Orden 78/1994, del Ministerio de Defensa, de 26 de julio, por la que se establecen las fórmulas polinómicas de revisión de precios que se aplicarán al contrato de adquisición del equipo individual del soldado.
+
+La nueva relación de materiales básicos amplía considerablemente el repertorio de materiales incluidos en las fórmulas, respecto del recogido en las fórmulas hasta ahora vigentes, permitiendo de este modo una mejor y más precisa adecuación de las fórmulas de revisión de precios a la estructura real de costes de los distintos contratos, y reflejando la incorporación de nuevos materiales a los procesos constructivos y de fabricación. Por otra parte, se ha procedido a excluir de la relación la mano de obra, cuyo coste no ha de incluirse en las fórmulas, tal como exige la nueva Ley en su artículo 79.
+
+Pese al mayor número de materiales básicos incluidos en las fórmulas, la nueva regulación simplifica el procedimiento de revisión de precios, al consolidar, ordenar y sistematizar en una sola disposición la regulación de la revisión de precios mediante fórmula, hasta ahora dispersa en varias normas de diverso rango y origen.
+
+En la tramitación del presente real decreto se ha obtenido previo informe favorable de la Junta Consultiva de Contratación Administrativa del Estado.
+
+En su virtud, a propuesta de la Ministra de Economía y Hacienda, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 7 de octubre de 2011,
+
+DISPONGO:

@@ -1,0 +1,3 @@
+## Disposición adicional quinta.
+
+En el Sistema Nacional de Salud, a los efectos previstos en el artículo 10, apartado 14, y en el artículo 18.4, se financiarán con fondos públicos los nuevos medicamentos y productos sanitarios más eficaces o menos costosos que los ya disponibles. Podrán excluirse, en todo o en parte, de la financiación pública, o someterse a condiciones especiales, los medicamentos y productos sanitarios ya disponibles, cuyas indicaciones sean sintomatológicas, cuya eficacia no esté probada o los indicados para afecciones siempre que haya para ellos una alternativa terapéutica mejor o igual y menos costosa.

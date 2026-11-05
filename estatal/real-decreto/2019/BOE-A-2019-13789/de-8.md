@@ -1,0 +1,19 @@
+## Decimoctava. Resolución.
+
+El presente convenio se extinguirá por el cumplimiento de las actuaciones que constituyen su objeto o por incurrir en causa de resolución.
+
+Serán causas de resolución:
+
+a) El transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo.
+
+b) El acuerdo unánime de todos los firmantes.
+
+c) El incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes.
+
+En este caso, cualquiera de las partes podrá notificar a la parte incumplidora un requerimiento para que cumpla en un determinado plazo con las obligaciones o compromisos que se consideran incumplidos. Este requerimiento será comunicado al presidente de la Comisión de Coordinación y Seguimiento y a las demás partes firmantes.
+
+Si transcurrido el plazo indicado en el requerimiento persistiera el incumplimiento, la parte que lo dirigió notificará a las partes firmantes la concurrencia de la causa de resolución y se entenderá resuelto el convenio. La resolución del convenio por esta causa podrá conllevar la indemnización de los perjuicios causados si así se hubiera previsto.
+
+d) Por decisión judicial declaratoria de la nulidad del convenio.
+
+e) Por cualquier otra causa distinta de las anteriores prevista en el convenio o en otras leyes.

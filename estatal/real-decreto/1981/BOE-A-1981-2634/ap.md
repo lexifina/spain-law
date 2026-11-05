@@ -1,0 +1,3 @@
+## Artículo primero.
+
+Se aprueba el acuerdo de la Comisión Mixta prevista en la disposición transitoria segunda del Estatuto de Autonomía para el País Vasco, por el que se concretan los servicios e Instituciones y los medios materiales y personales que deben ser objeto de traspaso a la Comunidad Autónoma del País Vasco en materia de Fundaciones y Asociaciones Culturales, Libro y Bibliotecas, Cinematografía, Música y Teatro, Juventud y Promoción Sociocultural, Patrimonio Histórico-Artístico y Deportes, adoptado por el Pleno de dicha Comisión en su sesión del día veinticinco de septiembre de mil novecientos ochenta, y que se transcribe como anexo del presente Real Decreto.

@@ -1,0 +1,5 @@
+## Artículo sexto.
+
+Uno. Para el perfeccionamiento y actualización del conocimiento geológico y minero del país, toda persona natural o jurídica u órgano de la Administración que realice un trabajo, cualquiera que sea su clase y objeto, cuya profundidad sobrepase los veinticinco metros por debajo de la superficie del suelo emergido o a cualquier profundidad en suelos sumergidos, consolidados o no, deberá, además de obtener las autorizaciones que fueren pertinentes, informar a la Delegación Provincial correspondiente del Ministerio de Industria de la iniciación de los trabajos y suministrar al Instituto Geológico y Minero de España, si éste lo solicita, los datos geológicos y mineros que del trabajo en cuestión se hayan obtenido, así como permitir al personal titulado competente designado por el Ministerio de Industria el acceso a las obras, a fin de comprobar dichos datos o completar la toma de los mismos.
+
+Dos. El Reglamento de esta Ley fijará los plazos en que deberá mantenerse, según los casos, el secreto de la información obtenida.

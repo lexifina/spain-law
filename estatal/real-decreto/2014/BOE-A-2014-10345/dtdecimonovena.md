@@ -1,0 +1,5 @@
+## Disposición transitoria decimonovena. Desarrollo del apartado 1 de la disposición transitoria séptima de la Ley 22/1988, de 28 de julio.
+
+1. En los supuestos de obras, instalaciones o actividades en zona de servidumbre de protección en tramos de costa no deslindados conforme a lo previsto en la Ley 22/1988, de 28 de julio, la comunidad autónoma correspondiente exigirá la autorización a que se refiere el artículo 49 de este reglamento, a cuyo efecto solicitará, previamente, del Ministerio de Agricultura, Alimentación y Medio Ambiente que facilite, en el plazo de un mes, la definición provisional de la línea probable de deslinde y la extensión de la zona de servidumbre. No obstante, en caso de discrepancia, el otorgamiento de la autorización quedará condicionado a la aprobación previa o simultánea del deslinde, que se tramitará con carácter preferente.
+
+2. Lo dispuesto en el párrafo anterior también será de aplicación a los supuestos de obras e instalaciones en zona de servidumbre de protección sujetos a la obligación de presentación de declaración responsable.

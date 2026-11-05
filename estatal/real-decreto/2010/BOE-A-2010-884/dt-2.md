@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Secretarios de Gobierno, Secretarios Coordinadores Provinciales y Secretarios Judiciales destinados en el Ministerio de Justicia.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera del presente real decreto, los puestos de Secretario de Gobierno, Secretario Coordinador Provincial y Secretarios Judiciales destinados en el Ministerio de Justicia de acuerdo con lo previsto en el artículo 25 de la Ley 38/1988, de 28 de diciembre, de demarcación y de planta judicial, se retribuirán conforme a lo previsto en el presente real decreto en el momento de su entrada en vigor.

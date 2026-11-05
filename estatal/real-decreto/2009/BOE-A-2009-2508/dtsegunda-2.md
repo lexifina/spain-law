@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Normas para el acceso de militares de tropa y marinería a la condición de militar de carrera.
+
+Hasta que se apruebe la orden ministerial que regule la fase selectiva del acceso de los militares de tropa y marinería a la condición de militar de carrera, continuará en vigor, en lo que no se oponga a este reglamento, la Orden Ministerial 360/2000, de 13 de diciembre, por la que se aprueban las normas por las que ha de regirse el proceso selectivo para el acceso de los Militares Profesionales de Tropa y Marinería a una relación de servicios de carácter permanente.

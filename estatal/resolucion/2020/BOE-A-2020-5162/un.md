@@ -1,0 +1,3 @@
+## Uno.
+
+Para las cuotas nacionales y provinciales del Impuesto sobre Actividades Económicas del ejercicio 2020, se establece que su cobro se realice a través de las Entidades de crédito colaboradoras en la recaudación, con el documento de ingreso que a tal efecto se hará llegar al contribuyente. En el supuesto de que dicho documento de ingreso no fuera recibido o se hubiese extraviado, deberá realizarse el ingreso con un duplicado que se recogerá en la Delegación o Administraciones de la Agencia Estatal de Administración Tributaria correspondientes a la provincia del domicilio fiscal del contribuyente, en el caso de cuotas de clase nacional, o correspondientes a la provincia del domicilio donde se realice la actividad, en el caso de cuotas de clase provincial.

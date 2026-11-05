@@ -1,0 +1,3 @@
+## Séptimo. Certificado COVID Digital de la Unión Europea o equivalente.
+
+A aquellas personas que dispongan de un Certificado COVID Digital de la Unión Europea o equivalente, según lo contemplado en el Reglamento (UE) 2021/953 del Parlamento Europeo y del Consejo, de 14 de junio de 2021, relativo a un marco para la expedición, verificación y aceptación de certificados COVID-19 interoperables de vacunación, de prueba diagnóstica y de recuperación (certificado COVID digital de la UE) a fin de facilitar la libre circulación durante la pandemia de COVID-19, que cumpla las condiciones expresadas en los apartados cuarto, quinto o sexto, no se les exigirá ninguna documentación adicional, ni en el embarque ni en los controles sanitarios a la llegada.

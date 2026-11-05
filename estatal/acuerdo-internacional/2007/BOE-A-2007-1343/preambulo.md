@@ -1,0 +1,1 @@
+El Reino de España y los Emiratos Árabes Unidos, deseando concluir un Convenio para evitar la doble imposición y prevenir la evasión fiscal en materia de impuestos sobre la renta y sobre el patrimonio, han acordado lo siguiente:

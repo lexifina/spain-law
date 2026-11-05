@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Aprobaciones de diseño de contenedores de almacenamiento de combustible nuclear gastado, obtenidas de acuerdo con el artículo 80 del Reglamento sobre instalaciones nucleares y radiactivas, aprobado por Real Decreto 1836/1999, de 3 de diciembre.
+
+A partir de la entrada en vigor de este reglamento, las aprobaciones de diseño de contenedores de almacenamiento de combustible nuclear gastado otorgadas conforme al artículo 80 del Reglamento sobre instalaciones nucleares y radiactivas, aprobado por Real Decreto 1836/1999, de 3 de diciembre, pasarán a tener la consideración de autorizaciones de contenedores de almacenamiento temporal de combustible nuclear gastado, a las que se refiere el artículo 112.

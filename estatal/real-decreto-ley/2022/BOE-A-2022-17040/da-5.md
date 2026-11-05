@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Prórroga del mecanismo de minoración del exceso de retribución del mercado eléctrico causado por el elevado precio de cotización del gas natural en los mercados internacionales.
+
+Se prorroga hasta el 31 de diciembre de 2023, el mecanismo de minoración del exceso de retribución del mercado eléctrico causado por el elevado precio de cotización del gas natural en los mercados internacionales, regulado en el título III del Real Decreto-ley 17/2021, de 13 de septiembre, de 14 de septiembre, de medidas urgentes para mitigar el impacto de la escalada de precios del gas natural en los mercados minoristas de gas y electricidad.

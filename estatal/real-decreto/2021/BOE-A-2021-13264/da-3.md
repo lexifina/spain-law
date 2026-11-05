@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Actividades de defensa nacional y seguridad pública.
+
+Se promoverá la colaboración entre los departamentos ministeriales afectados en el seno de la Administración General del Estado con el objeto de garantizar que las actividades cuyo único propósito sea la defensa nacional y seguridad pública, se lleven a cabo teniendo en consideración los objetivos del presente real decreto; de tal modo que, cuando sea posible, las decisiones que puedan eventualmente adoptarse en relación con el desarrollo de actividades de defensa nacional y seguridad pública en la zona y, en especial, la elaboración de la normativa que le afecte, se llevarán a cabo con la colaboración del Ministerio para la Transición Ecológica y el Reto Demográfico.

@@ -1,0 +1,3 @@
+## Disposición final segunda. Modificación del artículo 1.a).3.º y c).7.º a la entrada en vigor del Protocolo 1999 del Convenio internacional relativo a los transportes internacionales por ferrocarril (COTIF ).
+
+Se autoriza a los Ministros de Asuntos Exteriores y de Fomento para modificar mediante orden conjunta la redacción de los párrafos a).3.º y c).7.º del artículo 1 de este real decreto para adecuar su tenor a la modificación del Convenio internacional relativo a los transportes internacionales por ferrocarril (COTIF) operada por el Protocolo 1999, hecho en Vilna el 3 de junio de 1999, una vez entre en vigor.

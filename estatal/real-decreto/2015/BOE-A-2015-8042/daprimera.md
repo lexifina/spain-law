@@ -1,0 +1,3 @@
+## Disposición adicional primera. Formación.
+
+Por resolución de la Agencia Estatal de Seguridad Ferroviaria, se determinará la carga lectiva mínima de los cursos de formación necesarios para la actualización de conocimientos correspondientes al nuevo marco reglamentario de los titulados habilitados conforme a la Orden FOM/2872/2010, de 5 de noviembre, por la que se determinan las condiciones para la obtención de los títulos habilitantes que permiten el ejercicio de las funciones del personal ferroviario relacionadas con la seguridad en la circulación, así como el régimen de los centros homologados de formación y de los reconocimiento médico de dicho personal, en la fecha de entrada en vigor del real decreto.

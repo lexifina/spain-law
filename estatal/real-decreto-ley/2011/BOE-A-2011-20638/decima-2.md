@@ -1,0 +1,3 @@
+## Disposición final décima. Modificación del período en el que la Sociedad Estatal Loterías y Apuestas del Estado asumirá determinadas obligaciones de abono.
+
+Con carácter transitorio durante el año 2012, y hasta la aprobación de la Ley de Presupuestos Generales del Estado, la Sociedad Estatal Loterías y Apuestas del Estado asumirá, con carácter de anticipo a cuenta, las obligaciones derivadas de la Ley 13/2011, de 27 de mayo, de Regulación del juego en relación con el Real Decreto 419/1991, de 27 de marzo, por el que se regula la distribución de la recaudación y premios de las Apuestas Deportivas del Estado.

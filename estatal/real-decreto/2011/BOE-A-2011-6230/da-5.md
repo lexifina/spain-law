@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Equivalencias a efectos de docencia en los procedimientos selectivos de ingreso en el Cuerpo de Profesores Técnicos de Formación Profesional.
+
+El título de Técnico Superior o de Técnico Especialista se declara equivalente a los exigidos para el acceso al Cuerpo de Profesores Técnicos de Formación Profesional, cuando el titulado haya ejercido como profesor interino en centros públicos del ámbito territorial de la administración convocante, en la especialidad docente a la que pretenda acceder y durante un periodo mínimo de dos años antes del 31 de agosto de 2007.

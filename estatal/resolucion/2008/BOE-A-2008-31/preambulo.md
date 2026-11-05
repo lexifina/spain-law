@@ -1,0 +1,9 @@
+La Real Orden del Mérito Deportivo fue creada por el Real Decreto 1523/1982, de 18 de junio, estableciéndose las Ordenanzas de la Real Orden del Mérito Deportivo por Orden de 24 de septiembre de 1982, del Ministerio de Cultura, con arreglo a las cuales ésta tiene por objeto el reconocimiento y estímulo de quienes se distingan de forma eminente en la práctica deportiva o en su dirección técnica, en la enseñanza de la educación física, o en la dirección, organización, promoción, investigación y desarrollo de la educación física y del deporte en cuanto factores imprescindibles en la formación y desarrollo integral de la persona.
+
+La máxima distinción de la Real Orden del Mérito Deportivo, que se otorga a título individual, es la Gran Cruz, cuya concesión se acuerda mediante Real Decreto del Consejo de Ministros, habiendo sido galardonados con tan alta distinción veintinueve personalidades.
+
+Todas estas personalidades, que ostentan la máxima distinción deportiva, han hecho grande al Deporte Español (muchos han sido Premios Príncipe de Asturias y/o Premios Nacionales del Deporte) y son figuras legendarias de nuestro deporte, por lo que merecen nuestra admiración y agradecimiento. Son espejo ejemplar en el que puede mirarse satisfecha y agradecida la sociedad española, y su valiosa experiencia vital y deportiva conforman un rico caudal que el sistema deportivo español no puede ni debe desaprovechar.
+
+Por ello resulta oportuno y justo, contar con un foro de reunión de estas personalidades para que aconsejen, opinen, debatan, y se les consulte sobre la proyección presente y futura del deporte español.
+
+Por todo lo anterior, y de acuerdo con lo establecido en el articulo 8, sobre competencias asignadas al Consejo Superior de Deportes, de la Ley 10/1990, de 15 de octubre del Deporte, la Presidencia del Consejo Superior de Deportes resuelve:

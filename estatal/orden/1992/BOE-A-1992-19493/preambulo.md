@@ -1,0 +1,5 @@
+La Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y, en desarrollo de la misma, las sucesivas Leyes de Presupuestos Generales del Estado, han establecido un nuevo régimen retributivo que, para su puesta en práctica a través de los estados justificativos de las nóminas, exige una racionalización y simplificación del procedimiento de cumplimentación y confección de estas últimas, lo que requiere la actualización de la normativa hasta ahora vigente en esta materia.
+
+Por otra parte, la implantación de modelos de impresos, a efectos de una ordenada gestión de los Recursos Humanos al servicio de la Administración del Estado, que deriva de la aplicación del Reglamento del Registro Central de Personal, aprobado por Real Decreto 1405/1986, de 6 de junio, constituye un instrumento idóneo en orden a conseguir una mayor operatividad y eficacia en la confección de las nóminas de personal.
+
+En su virtud, a propuesta conjunta del Ministerio de Economía y Hacienda y del Ministerio para las Administraciones Públicas, he tenido a bien disponer:

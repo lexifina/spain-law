@@ -1,0 +1,19 @@
+La Ley 4/2007, de 3 de abril, de transparencia de las relaciones financieras entre las Administraciones públicas y las empresas públicas, y de transparencia financiera de determinadas empresas, contiene la transposición de la Directiva 2006/111/CE de la Comisión, de 16 de noviembre de 2006, relativa a la transparencia de las relaciones financieras entre los Estados miembros y las empresas públicas, así como a la transparencia financiera de determinadas empresas, publicada en el «Diario Oficial de la Unión Europea» de 17 de noviembre de 2006.
+
+Esta Directiva contiene la versión codificada de la Directiva 80/723/CEE de la Comisión, de 25 de junio de 1980, relativa a la transparencia de las relaciones financieras entre los Estados miembros y las empresas públicas, que ha sido modificada en diversas ocasiones y de forma sustancial. Dicha codificación era necesaria en aras de una mayor racionalidad y claridad.
+
+La Ley 4/2007, de 3 de abril, tiene por finalidad la garantía de la transparencia de las relaciones financieras entre las Administraciones públicas, ya sean de ámbito estatal, autonómico o local, y las empresas públicas, así como la transparencia en la gestión de los servicios de interés económico general o la realización de actividades en virtud de la concesión, por parte de las Administraciones públicas de ámbito estatal, autonómico o local, de derechos especiales o exclusivos a cualquier empresa, cuando ésta realice además otras actividades distintas de las anteriores, actúe en régimen de competencia y reciba cualquier tipo de compensación por el servicio público.
+
+En aras a la consecución de dicha finalidad, las empresas públicas que cumplan con la definición del artículo 2 de la Ley 4/2007, de 3 de abril, y las empresas obligadas a llevar cuentas separadas en virtud del artículo 8.1 de la misma, que no estén incluidas en las exenciones recogidas en los artículos 7 y 13 de la citada ley, así como las empresas públicas manufactureras, en los términos recogidos en los artículos 14 y 15 de la misma, deben suministrar de forma periódica cierta información a la Intervención General de la Administración del Estado, ya sea de forma directa o bien por conducto de los órganos competentes de las comunidades autónomas o de las entidades locales.
+
+La remisión y centralización de dicha información en la Intervención General de la Administración del Estado no tiene como finalidad proceder a fiscalizar o controlar los datos recibidos, sino evitar la dispersión de interlocutores y también poder ofrecer a la Comisión Europea una información conjunta del universo que componen las empresas incluidas dentro del ámbito de la Ley 4/2007, de 3 de abril.
+
+El presente real decreto tiene por objeto regular los modelos y el procedimiento de remisión de dicha información a la Intervención General de la Administración del Estado, y es normativa estatal básica como complemento indispensable de la Ley 4/2007, de 3 de abril, que, en virtud de lo establecido en la disposición final primera de la misma, constituye legislación básica del Estado.
+
+A tal efecto, la doctrina del Tribunal Constitucional legitima al desarrollo reglamentario de la regulación básica, entre otros supuestos, cuando la ley formal no sea el instrumento idóneo para regular exhaustivamente todos los aspectos básicos de la materia debido al carácter marcadamente técnico o a la naturaleza coyuntural y cambiante de los mismos.
+
+Este real decreto se dicta al amparo de lo dispuesto en la disposición final tercera de la Ley 4/2007, de 3 de abril, que habilita al Gobierno a dictar disposiciones necesarias para su desarrollo y ejecución.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, previa aprobación de la Ministra de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de diciembre de 2007,
+
+DISPONGO:

@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Evaluación de las medidas establecidas en el real decreto-ley.
+
+Transcurridos cinco años desde la entrada en vigor del presente real decreto-ley, el Ministerio de Industria, Comercio y Turismo, en colaboración, en su caso, con los Departamentos ministeriales competentes, llevará a cabo una evaluación de las medidas establecidas en el mismo. A estos efectos, la evaluación contendrá, al menos, los criterios establecidos en el artículo 3.2 del Real Decreto 286/2017, de 24 de marzo, por el que se regulan el Plan Anual Normativo y el Informe Anual de Evaluación Normativa de la Administración General del Estado y se crea la Junta de Planificación y Evaluación Normativa.

@@ -1,0 +1,5 @@
+## Disposición derogatoria única. Derogación de normas.
+
+1. Queda derogado el Real Decreto 1715/1996, de 12 de julio por el que se establece el título de Técnico en Explotaciones Agrarias Extensivas; el 1716/1996, de 12 de julio por el que se establece el título de Técnico en Explotaciones Agrícolas Intensivas y el 1717/1996, de 12 de julio, por el que se establece el título de Técnico en Explotaciones Ganaderas y las correspondientes enseñanzas mínimas y cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto.
+
+2. Queda derogado el Real Decreto 1257/1997, de 24 de julio por el que se establece el currículo del ciclo formativo de grado medio correspondiente al título de Técnico en Explotaciones Agrarias Extensivas; el 1258/1997, de 24 de julio por el que se establece el currículo del ciclo formativo de grado medio correspondiente al título de Técnico en Explotaciones Agrícolas Intensivas y el 1259/1997, de 24 de julio, por el que se establece el currículo del ciclo formativo de grado medio correspondiente al título de Técnico en Explotaciones Ganaderas.

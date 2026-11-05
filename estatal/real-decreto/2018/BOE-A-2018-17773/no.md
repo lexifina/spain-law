@@ -1,0 +1,1 @@
+Téngase en cuenta que, con fecha de 5 de febrero de 2020, se ha publicado el Real Decreto 231/2020, de 4 de febrero, por el que se fija el salario mínimo interprofesional para 2020, con efectos de 1 de enero de 2020. Ref. BOE-A-2020-1652

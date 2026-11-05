@@ -1,0 +1,7 @@
+## Disposición transitoria.
+
+(Derogada)
+
+> Se deroga por el art. 3.2 de la Ley 4/2008, de 23 de diciembre. Ref. BOE-A-2008-20802
+
+> Esta modificación es aplicable a partir del 1 enero de 2008, según establece la disposición final 5.b).

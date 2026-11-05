@@ -1,0 +1,13 @@
+## Disposición transitoria única. Expedientes en tramitación y atribución de competencias.
+
+1. Los expedientes iniciados antes de la vigencia del presente Real Decreto, entendiéndose por fecha de iniciación la de extensión del acta o del escrito de iniciación de la entidad gestora, se tramitarán y resolverán con arreglo a las disposiciones anteriores hasta ahora en vigor.
+
+2. El régimen de recursos de los procedimientos a que se refiere el apartado anterior será el establecido en los artículos 23 y 33.3 del Reglamento que se aprueba por el presente Real Decreto y, subsidiariamente, en el capítulo II del Título VII de la Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y, con carácter supletorio, en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora.
+
+Cuando se trate de recursos contra resoluciones sobre actas de infracción y de liquidación que se refieran a los mismos hechos, dictadas en primera instancia por la Dirección General competente por razón de la materia, el recurso ordinario se resolverá por el Ministro de Trabajo y Asuntos Sociales.
+
+3. Hasta tanto se dicten las normas de desarrollo organizativo de la Ley 42/1997, y se proceda a la provisión de las Jefaturas de la Unidades Especializadas de la Inspección en Seguridad Social, las funciones previstas para las mismas en el artículo 33.2 del Reglamento general adjunto serán ejercidas con el mismo carácter por el Jefe de la Unidad de la Inspección de Trabajo y Seguridad Social en la Dirección Provincial de la Tesorería General de la Seguridad Social o, en su caso, por el correspondiente órgano inspector de la la Autoridad Central.
+
+4. Las facultades de resolución del recurso ordinario derivado de expedientes originados por actas de liquidación a que se refiere el capítulo VI del Reglamento general que se aprueba, hasta tanto se desarrolle reglamentariamente la figura del Director territorial de la Inspección de Trabajo y Seguridad Social y se proceda a su cobertura, serán ejercidas por el Jefe de la Inspección Provincial en que radique la respectiva capitalidad autonómica, excepto las derivadas de acta formulada por la Unidad radicada en la autoridad central, y por las Inspecciones Provinciales radicadas en La Rioja, Ceuta y Melilla en que dichas facultades corresponderán a la autoridad central de la Inspección de Trabajo y Seguridad Social.
+
+> Redactados los apartados 3 y 4 conforme a la corrección de errores publicada en BOE núm. 151, de 25 de junio de 1998. Ref. BOE-A-1998-15061

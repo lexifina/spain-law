@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Costes de la prestación conjunta de servicios.
+
+1. Durante el transcurso de la prestación de servicios comunes por parte del Ministerio de Economía, Industria y Competitividad a la Agencia, el coste de la gestión compartida de los servicios comunes y generales relacionados en este real decreto será imputado al presupuesto del Ministerio de Economía, Industria y Competitividad, de acuerdo con las disponibilidades presupuestarias existentes en cada momento, con la excepción de los planes de formación que se financiarán con cargo al presupuesto que corresponda a cada una de las instituciones, y de algunos servicios generales que se señalan en este real decreto, que la Agencia irá asumiendo progresivamente.
+
+2. Si durante la vigencia de este real decreto, la Agencia Estatal de Investigación tuviera dotaciones presupuestarias específicas para asumir los costes derivados de la gestión compartida de otros servicios comunes, se faculta al Ministro de Economía, industria y Competitividad para determinar mediante Orden la nueva distribución e imputación de los costes.

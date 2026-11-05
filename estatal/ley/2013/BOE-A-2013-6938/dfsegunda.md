@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria.
+
+Se modifica el apartado 1 de la disposición adicional séptima de la Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria, que queda redactado en los siguientes términos:
+
+«1. Continuarán subsistentes las autorizaciones y concesiones de expendedurías de régimen especial, otorgadas al amparo de la normativa anterior o aduanera, así como las otorgadas a establecimientos autorizados para la venta de labores de tabaco libre de impuestos existentes al tiempo de la entrada en vigor de esta Ley aunque pierdan con posterioridad este carácter. Asimismo, podrán concederse nuevas autorizaciones para la venta de labores de tabaco, en el régimen fiscal que corresponda, a establecimientos que pudieran ser de este tipo, preexistentes o no, que no contasen con las oportunas autorizaciones a la entrada en vigor de esta Ley. El Gobierno, a propuesta del Ministro de Hacienda y Administraciones Públicas, desarrollará dicho régimen y, en su caso, introducirá las modificaciones del mismo que resulten necesarias.»

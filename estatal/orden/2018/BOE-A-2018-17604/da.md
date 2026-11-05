@@ -1,0 +1,3 @@
+## Disposición adicional única. Régimen especial de la Comunidad Autónoma de Canarias.
+
+De acuerdo con lo previsto en la disposición adicional cuarta de la Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo y reguladora de la venta, el suministro, el consumo y la publicidad de los productos del tabaco, la Comunidad Autónoma de Canarias mantendrá atribuidas las competencias de vigilancia, control e inspección sobre los fabricantes y comerciantes de tabaco de las islas, sin perjuicio de lo establecido en las disposiciones del Derecho de la Unión Europea y estatal que resulten de aplicación y las competencias que correspondan al Estado.

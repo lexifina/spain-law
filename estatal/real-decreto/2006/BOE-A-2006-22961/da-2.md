@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Carácter y liquidación de los costes de compensación insular y extrapeninsular 2007.
+
+1. La cuantía de los costes de compensación de los sistemas insulares y extrapeninsulares para 2007 que figuran en el artículo 3 del presente Real Decreto destinada al sobrecoste de la generación en régimen ordinario sometida al despacho económico de estos sistemas es provisional. Dicha cuantía se calculará de forma definitiva cuando se dicte la correspondiente resolución de la Dirección General de Política Energética y Minas que la determine.
+
+2. Los transportistas y distribuidores liquidarán ante la Comisión Nacional de Energía sus ingresos y costes igual que los transportistas y distribuidores del sistema peninsular de acuerdo con lo establecido en el Real Decreto 2017/1997, de 26 de diciembre, sin asignar, en su caso, la diferencia positiva de sus ingresos netos menos los costes de adquisición de energía de los distribuidores y sus costes de las actividades reguladas directamente a los generadores en régimen ordinario de estos sistemas en concepto de sobrecoste de generación.

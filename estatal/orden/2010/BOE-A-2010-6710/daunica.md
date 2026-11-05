@@ -1,0 +1,3 @@
+## Disposición adicional única. Aplicación del modelo de revalorización para la valoración posterior del inmovilizado material, inversiones inmobiliarias e inmovilizado intangible en el sector público administrativo estatal.
+
+En el ámbito del sector público administrativo estatal, la utilización del modelo de revalorización previsto en la norma de reconocimiento y valoración 2.ª, «Inmovilizado material», del Plan General de Contabilidad Pública para la valoración posterior del inmovilizado material, inversiones inmobiliarias e inmovilizado intangible precisará autorización previa de la Intervención General de la Administración del Estado.

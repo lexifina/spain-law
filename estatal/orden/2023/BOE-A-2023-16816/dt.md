@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicabilidad de la Orden EDU/2095/2010, de 28 de julio, por la que se establece la estructura de las pruebas para la obtención del título de bachiller para personas mayores de veinte años en el ámbito de gestión del Ministerio de Educación.
+
+Las características y estructura de las pruebas para la obtención del título de Bachiller que se realicen hasta el final del curso 2023-2024 se ajustarán a lo regulado en la Orden EDU/2095/2010, de 28 de julio, por la que se establece la estructura de las pruebas para la obtención del título de bachiller para personas mayores de veinte años en el ámbito de gestión del Ministerio de Educación.

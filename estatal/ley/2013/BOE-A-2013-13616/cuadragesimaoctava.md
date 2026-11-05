@@ -1,0 +1,3 @@
+## Disposición adicional cuadragésima octava. Porcentaje sobre el rendimiento de la tasa de reserva de dominio público radioeléctrico a percibir por la Corporación RTVE.
+
+Con efectos de 1 de enero de 2014, el porcentaje sobre el rendimiento de la tasa sobre reserva de dominio público radioeléctrico a percibir por la Corporación RTVE, según el artículo 4.2 de la Ley 8/2009, de 28 de agosto, de financiación de la Corporación de Radio y Televisión Española, queda fijado en el 100 por 100, con un importe máximo de 330 millones de euros.

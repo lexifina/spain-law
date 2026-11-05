@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias hechas en esta Orden a la situación de "incapacidad laboral transitoria" se entenderán hechas a la situación de "incapacidad temporal", según establece el art. 2 de la Orden de 20 de abril de 1998. Ref. BOE-A-1998-10722

@@ -1,0 +1,7 @@
+## Disposición adicional quinta. Acceso a los datos de otras Administraciones Públicas.
+
+1. La Secretaría de Estado de Seguridad y las Fuerzas y Cuerpos de Seguridad competentes podrán, en el marco de una investigación concreta, acceder a la información obrante en los registros de las Administraciones Públicas, de acuerdo con su normativa específica, cuando resulte necesaria para la prevención y persecución de ilícitos penales o administrativos relacionados con precursores de explosivos, sin necesidad del consentimiento previo de los interesados.
+
+El tratamiento posterior de esos datos estará sujeto a lo previsto en la normativa sobre protección de datos de carácter personal.
+
+2. A estos efectos, las distintas Administraciones Públicas y el Ministerio del Interior podrán suscribir los acuerdos en que se concreten las condiciones de transmisión de la información cuando se produzca un requerimiento concreto. Corresponde en todo caso al Ministerio del Interior, conforme a la normativa de aplicación y los mecanismos de cooperación establecidos al efecto, la coordinación de esta información entre las Fuerzas y Cuerpos de Seguridad del Estado y las de las Comunidades Autónomas que cuenten con Cuerpos de policía propios con competencias para la protección de las personas y bienes y el mantenimiento del orden público.

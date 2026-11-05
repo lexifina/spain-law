@@ -1,0 +1,5 @@
+## IX. Ficheros O
+
+Aprovechando el contraste realizado, pero desvinculado del procedimiento de revisión, y con el fin de corregir discrepancias debidas a la utilización de caracteres de fase 2 (vocales acentuadas) en nombre y apellidos, o con diferencias en el resto de datos distintos a los de identificación en registros casados, se generarán los ficheros OppmmmIA.aaa (con el mismo formato que los ficheros EppmmmIA.aaa, anexo III). Asimismo, para facilitar la localización de las diferencias se generarán los ficheros OBIS, OBppmmmI.aaa, cuyo diseño de registro se incluye en el anexo VI.
+
+Al igual que con los ficheros E, el Ayuntamiento podrá enviar al INE este fichero, o los registros del mismo que estime conveniente, en un único fichero con la denominación OppmmmAI.aaa (AI), a la mayor brevedad y, en todo caso, antes de que acabe el año. El INE incorporará a su base de datos las modificaciones sin generar variación y sin comunicar error o incidencia alguna a los Ayuntamientos en los ficheros de devolución mensual, aunque se generará un fichero PppmmmIA.aaa con información de los registros no cargados, cuya descripción se incluye en el anexo VII.

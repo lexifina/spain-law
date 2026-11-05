@@ -1,0 +1,3 @@
+## Disposición derogatoria.
+
+Quedan derogados los artículos 4 y concordantes de la Ley 152/1963, de 2 de diciembre, de industrias de interés preferente; la disposición final tercera de la Ley de Minas de 21 de julio de 1973, en lo que respecta a la declaración de determinadas zonas mineras como de preferente localización industrial; los artículos 36 a 45 del Texto Refundido de la Ley del III Plan de Desarrollo Económico y Social, aprobado por Decreto 1541/1972, de 15 de junio, y el artículo 49.4 del texto de la Ley de Reforma y Desarrollo Agrario, aprobado por Decreto 118/1973, de 12 de enero.

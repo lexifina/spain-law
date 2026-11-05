@@ -1,0 +1,1 @@
+Madrid, 21 de diciembre de 2010.–El Presidente de la Comisión Nacional del Mercado de Valores, P.S. (Ley 24/1988, de 28 de julio), el Vicepresidente de la Comisión Nacional del Mercado de Valores, Fernando Restoy Lozano.

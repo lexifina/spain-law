@@ -1,0 +1,65 @@
+# Acuerdo Administrativo Estándar relativo al Fondo de Respuesta y Recuperación ante la COVID-19 por el que se prevé la gestión intermediada de los fondos, hecho en Nueva York el 15 de marzo de 2021.
+
+- Identificador: BOE-A-2021-8032
+- Rango: Acuerdo Internacional
+- Fecha de disposición: 2021-03-15
+- Publicación: 2021-05-15
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2021-8032
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [Artículo I](ai.md)
+- [Artículo II](ai-2.md)
+- [Artículo III](ai-3.md)
+- [Artículo IV](ai-4.md)
+- [Artículo V](av.md)
+- [Artículo VI](av-2.md)
+- [Artículo VII](av-3.md)
+- [Artículo VIII](av-4.md)
+- [Artículo IX](ai-5.md)
+- [Artículo X](ax.md)
+- [Artículo XI](ax-2.md)
+- [Artículo XII](ax-3.md)
+- [Artículo XIII](ax-4.md)
+- [Artículo XIV](ax-5.md)
+- [Artículo XV](ax-6.md)
+- [fi](fi.md)
+- [ANEXOS](an.md)
+- [ANEXO A](aa.md)
+- [I. Fondo Fiduciario de Asociados Múltiples de las Naciones Unidas de Respuesta y Recuperación ante la COVID-19](i.md)
+- [II. Ámbito del Fondo y teoría del cambio](i-2.md)
+- [III. Acuerdos en materia de gobernanza](i-3.md)
+- [IV. Acuerdos programáticos](i-4.md)
+- [ANEXO B](ab.md)
+- [Artículo I](ai-6.md)
+- [Artículo II](ai-7.md)
+- [Artículo III](ai-8.md)
+- [Artículo IV](ai-9.md)
+- [Artículo V](av-5.md)
+- [Artículo VI](av-6.md)
+- [Artículo VII](av-7.md)
+- [Artículo VIII](av-8.md)
+- [Artículo IX](ai-10.md)
+- [Artículo X](ax-7.md)
+- [Artículo XI](ax-8.md)
+- [Artículo XII](ax-9.md)
+- [fi-2](fi-2.md)
+- [ANEXO C](ac.md)
+- [Artículo I](ai-11.md)
+- [Artículo II](ai-12.md)
+- [Artículo III](ai-13.md)
+- [Artículo IV](ai-14.md)
+- [Artículo V](av-9.md)
+- [Artículo VI](av-10.md)
+- [Artículo VII](av-11.md)
+- [Artículo VIII](av-12.md)
+- [Artículo IX](ai-15.md)
+- [Artículo X](ax-10.md)
+- [Artículo XI](ax-11.md)
+- [Artículo XII](ax-12.md)
+- [Artículo XIII](ax-13.md)
+- [fi-3](fi-3.md)
+- [ANEXO D](ad.md)

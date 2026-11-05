@@ -1,0 +1,1 @@
+Norma derogada, salvo el Título III, el Título V en lo que se refiere al régimen fiscal de los sistemas institucionales de protección, y la disposición transitoria 6, por el apartado b) de la disposición derogatoria única de la Ley 26/2013, de 27 de diciembre. Ref. BOE-A-2013-13723.

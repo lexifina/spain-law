@@ -1,0 +1,9 @@
+En el artículo 2 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, está prevista como relación laboral de carácter especial la de los deportistas profesionales, y el régimen jurídico aplicable a dicha relación laboral es el contenido en el Real Decreto 1006/1985, de 26 de junio.
+
+Si bien en virtud de ese carácter laboral de la relación de los deportistas profesionales hubiera podido deducirse la inclusión directa en el campo de aplicación del Régimen General, al amparo de lo previsto en el apartado 1 del artículo 97 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, lo cierto es que la incorporación de los diferentes grupos de deportistas se ha venido produciendo de manera gradual por medio de sucesivas normas reglamentarias. Así ha sucedido con respecto a los ciclistas profesionales y a los jugadores profesionales de baloncesto y de balonmano.
+
+Existiendo en el momento presente diversos colectivos de deportistas profesionales pendientes de la aludida integración, parece oportuno con respecto a éstos, y en aras de una economía normativa y por motivos de seguridad jurídica, hacer coincidir en una única norma la integración de todos ellos en el Régimen General de la Seguridad Social, en lugar de continuar espaciando la integración, dando origen a sucesivos reales decretos de contenido coincidente.
+
+En su virtud, de acuerdo con el artículo 97.2.l) del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 7 de marzo de 2003,
+
+DISPONGO:

@@ -1,0 +1,7 @@
+El proceso de institucionalización de la actividad publicitaria, iniciado por la Ley sesenta y una mil novecientos sesenta y cuatro, de once de junio, que aprobó el Estatuto de la Publicidad, requiere un progresivo desarrollo normativo en función de las necesidades de la realidad en que incide y, en su caso, de las demandas de los profesionales a que afecta.
+
+En esta línea, constituye aspiración unánime, de los Agentes de Publicidad la ordenación específica de su actividad a través de las correspondientes normas estatutarias a que la propia Ley citada se refiere en su artículo cincuenta y nueve y dentro del marco de las disposiciones complementarias y de desarrollo de la misma que en su disposición adicional primera faculta al Gobierno para dictar. Recogiendo esta aspiración y la conveniencia de dar desarrollo a los preceptos legales que se refieren a los Agentes de Publicidad, parece conveniente dictar las normas reglamentarias que perfilen los distintos aspectos de su actividad profesional y el ejercicio de la misma.
+
+En su virtud, a propuesta del Ministro de Información y Turismo, previo informe de la Organización Sindical, de acuerdo con lo previsto en el artículo ciento treinta punto cuatro de la Ley de Procedimiento Administrativo, de conformidad con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día cuatro de febrero de mil novecientos setenta y dos,
+
+DISPONGO:

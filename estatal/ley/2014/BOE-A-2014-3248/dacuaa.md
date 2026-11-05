@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Informe sobre el personal laboral en el exterior.
+
+En el plazo de doce meses desde la entrada en vigor de la ley, el Ministerio de Hacienda y Administraciones Públicas, previa consulta con los departamentos ministeriales con personal laboral en el exterior, elaborará un informe sobre la situación, condiciones y régimen aplicable del personal laboral en el exterior, a fin de optimizar y ordenar la gestión de los recursos humanos en el exterior de la Administración General del Estado y sus Organismos públicos. Para la elaboración del informe, el Ministerio de Hacienda y Administraciones Públicas podrá solicitar la colaboración de los departamentos ministeriales afectados.

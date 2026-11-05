@@ -1,0 +1,3 @@
+## Disposición transitoria decimocuarta. Régimen tributario en el Impuesto sobre Sociedades de la remuneración de las cuentas mantenidas por la Tesorería General de la Seguridad Social en el Banco de España.
+
+El régimen establecido en la letra a) del apartado 4 del artículo 146 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, se aplicará a las retribuciones satisfechas por el Banco de España a la Tesorería General de la Seguridad Social en virtud del convenio suscrito entre ambas entidades en fecha 30 de noviembre de 1995 en cumplimiento de lo establecido en la disposición transitoria sexta de la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995.

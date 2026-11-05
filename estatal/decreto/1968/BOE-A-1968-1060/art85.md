@@ -1,0 +1,7 @@
+## Artículo 85.
+
+Cuando el promotor no haya iniciado o terminado la construcción de las viviendas en los plazos fijados en la cédula de calificación provisional o infringiera cualquiera de los que en ésta se señalen para la eficacia de la misma, quedará sin más decaído en los derechos que la calificación concede, lo que se declarará por la Dirección General del Instituto Nacional de la Vivienda, previa audiencia del interesado. Dicha declaración no tendrá la consideración de sanción.
+
+Excepción hecha de los supuestos considerados en el párrafo precedente, paralizado un expediente por causa imputable al interesado, la Delegación Provincial del Ministerio le advertirá que, transcurridos tres meses, se producirá la caducidad del mismo, con archivo de las actuaciones, lo que se acordará por la propia Delegación Provincial.
+
+Los trámites que deban ser cumplidos por los interesados deberán realizarse por éstos en el plazo de diez días, a partir de la notificación correspondiente, salvo en los casos en que la Ley de Viviendas de Protección Oficial fije plazo distinto. A los interesados que no lo cumplimentaran podrá declarárseles decaídos en su derecho al trámite de que se trate. Esta declaración no producirá por sí sola la caducidad del expediente, salvo en el caso de que el trámite sea inexcusable para la continuación del mismo y, efectuado el apercibimiento a que se refiere el párrafo anterior, transcurra el plazo señalado en el mismo para declarar la caducidad del expediente.

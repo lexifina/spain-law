@@ -1,0 +1,7 @@
+## Norma quinta. Registro actualizado de clientes evaluados y productos no adecuados.
+
+1. Al objeto de facilitar la actividad supervisora tanto de la CNMV como de los órganos de control interno, las entidades deberán mantener un registro actualizado de clientes evaluados y productos no adecuados que reflejará, para cada cliente, los productos cuya conveniencia haya sido evaluada previamente con resultado negativo. Ello sin perjuicio de que las entidades puedan realizar tantas evaluaciones a los clientes como estimen oportunas.
+
+Dicho registro, que formará parte del registro de clientes a que hace referencia la Resolución de 7 de octubre de 2009, de la Comisión Nacional del Mercado de Valores, permitirá identificar la fecha a partir de la cual la entidad consideró no adecuado cada tipo de producto para cada cliente concreto, registrando igualmente, cuando resulte necesario, la fecha a partir de la que dejó de considerarse no adecuado. En cumplimiento de la obligación de mantener adecuadamente informados a los clientes en todo momento, las entidades deberán facilitar de forma gratuita la información sobre su situación particular contenida en este registro a los clientes que la soliciten.
+
+2. Este registro deberá llevarse por medios informáticos que impidan la manipulación de la información permitiendo su consulta de una forma ágil y deberá mantenerse cumpliendo los requisitos previstos en el artículo 32 del Real Decreto 217/2008, de 15 de febrero.

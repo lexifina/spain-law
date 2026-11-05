@@ -1,0 +1,5 @@
+## Documentos técnicos.
+
+El Comité Ejecutivo de la AMA podrá adoptar y publicar cuando proceda documentos técnicos relativos a los requisitos técnicos obligatorios para la aplicación de Normas Internacionales. La observancia de lo dispuesto en dichos documentos es obligatoria para el cumplimiento del Código. Cuando el momento de aplicación del contenido de un nuevo documento técnico, o de la revisión de uno de ellos, no revista importancia crucial, el Comité Ejecutivo de la AMA permitirá que se abra un periodo razonable de consultas con los signatarios, las administraciones y otros interesados pertinentes. Los documentos técnicos surtirán efectos inmediatamente después de su publicación en el sitio web de la AMA a menos que se indique otra fecha posterior.(3)
+
+(3) [Comentario: Por ejemplo, cuando se precisa un nuevo procedimiento de análisis antes de declarar que una muestra ha arrojado un resultado analítico adverso, el procedimiento se establecería en un documento técnico que el Comité Ejecutivo de la AMA publicaría de forma inmediata.]

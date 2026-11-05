@@ -1,0 +1,3 @@
+## Artículo treinta y seis.
+
+Los Tribunales ordinarios, los de Contrabando y, en los casos que reglamentariamente se determinen, la Dirección General de Sanidad, comunicarán, tan pronto como sean firmes, sus sentencias o resoluciones sancionadoras, en materia de estupefacientes, a la Dirección General de Seguridad, en cuya Comisaría General de Investigación Criminal, Brigada Especial de Investigación de Estupefacientes, se llevará un registro de infractores en esta materia y facilitará en su caso los datos obrantes en el mismo que le sean oficialmente interesados por los Tribunales y Centro directivo indicado.

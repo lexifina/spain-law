@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+La publicidad efectuada en las páginas web de las sociedades cotizadas ya existentes a la entrada en vigor de esta Ley surtirá en todo caso efectos jurídicos, sin perjuicio de su adaptación a lo dispuesto en el artículo 11 bis del Texto Refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, en la primera junta general que celebren tras la entrada en vigor de esta Ley. La existencia de las páginas web de las sociedades cotizadas podrá hacerse constar en el Registro Mercantil mediante certificación expedida por el Secretario del Consejo de la sociedad.

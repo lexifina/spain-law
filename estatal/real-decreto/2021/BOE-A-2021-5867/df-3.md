@@ -1,0 +1,5 @@
+## Disposición final tercera. Normas de desarrollo sobre titulación o titulaciones académicas que habilitan para las funciones de carácter técnico previstas en las Normas Técnicas de Seguridad de Presas y embalses.
+
+1. Realizado el estudio al que se refiere la disposición adicional segunda, se aprobará una norma de desarrollo del presente real decreto, que podrá tener el rango de orden ministerial o de real decreto, según proceda, en la que se establecerá con claridad y precisión la titulación o titulaciones académicas, que habilitan para desempeñar cada una de las funciones de carácter técnico señaladas en las Normas Técnicas de Seguridad de presas y sus embalses que figuran en los Anexos I, II y III de este real decreto.
+
+2. La norma que se apruebe, con independencia de su rango normativo, estará habilitada para modificar la atribución de capacidad técnica que con carácter provisional se establecen en las Normas Técnicas de Seguridad de presas y sus embalses que figuran en los Anexos I, II y III de este real decreto.

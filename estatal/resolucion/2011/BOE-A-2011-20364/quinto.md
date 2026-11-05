@@ -1,0 +1,3 @@
+## Quinto. Comisión de seguimiento.
+
+El seguimiento del procedimiento establecido en la presente Resolución, el análisis o subsanación de las incidencias generales que pudieran surgir en aplicación del mismo así como la revisión de aquellos aspectos procedimentales u operativos que pudieran resultar susceptibles de modificaciones normativas se llevarán a cabo por la Comisión de seguimiento a que se refiere el apartado sexto de la Resolución de 16 de diciembre de 2011, de la Dirección General de la Agencia Estatal de Administración Tributaria, por la que se establece el procedimiento para efectuar por medios telemáticos el embargo de dinero en la cuenta abierta en entidades de crédito.

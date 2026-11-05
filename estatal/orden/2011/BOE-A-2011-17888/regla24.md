@@ -1,0 +1,3 @@
+## Regla 24. Conservación de los registros contables.
+
+Los registros de las operaciones anotadas en el SIC se conservarán durante un periodo de seis años contados desde la fecha de remisión al Tribunal de Cuentas de las cuentas donde se hubiese plasmado la información relativa a dichas operaciones, salvo que por norma de rango suficiente se establezcan otros plazos o se hubiera comunicado la interrupción del plazo de prescripción de la posible responsabilidad contable de acuerdo con lo que se establece en la Disposición adicional 3.ª de la Ley 7/1988, de 5 de abril, de funcionamiento del Tribunal de Cuentas.

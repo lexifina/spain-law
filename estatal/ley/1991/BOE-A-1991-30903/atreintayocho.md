@@ -1,0 +1,19 @@
+## Artículo treinta y ocho. Contratación de personal laboral con cargo a los créditos de inversiones.
+
+Uno. Los Departamentos ministeriales, Organismos Autónomos y Entidades Gestoras de la Seguridad Social podrán formalizar durante 1992, con cargo a los respectivos créditos de inversiones, contrataciones de personal de carácter temporal para la realización de obras o servicios, siempre que se dé la concurrencia de los siguientes requisitos:
+
+a) Que la contratación tenga por objeto la ejecución de obras por administración directa y con aplicación de la legislación de contratos del Estado, o la realización de servicios que tengan la naturaleza de inversiones.
+
+b) Que tales obras o servicios correspondan a inversiones previstas y aprobadas en los Presupuestos Generales del Estado.
+
+c) Que las obras o servicios no puedan ser ejecutados con el personal fijo de plantilla y no exista disponibilidad suficiente en el crédito presupuestario destinado a la contratación de personal.
+
+Dos. Los contratos habrán de formalizarse siguiendo las prescripciones de los artículos 15 y 17 del Estatuto de los Trabajadores, y con respecto a lo dispuesto en la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de la Administración Pública. En los contratos se hará constar, cuando proceda, la obra o servicio para cuya realización se formaliza el contrato y el tiempo de duración, así como el resto de las formalidades que impone la legislación sobre contratos laborales, eventuales o temporales. Los Departamentos, Organismos o Entidades habrán de evitar el incumplimiento de las citadas obligaciones formales, así como la asignación de personal contratado para funciones distintas de las determinadas en los contratos, de los que pudieran derivarse derechos de permanencia para el personal contratado, actuaciones que, en su caso, podrán dar lugar a la exigencia de responsabilidades, de conformidad con el artículo 140 del texto refundido de la Ley General Presupuestaria.
+
+Tres. La contratación podrá exceder del ejercicio presupuestario cuando se trate de obras o servicios que hayan de exceder de dicho ejercicio y correspondan a proyectos de inversión de carácter plurianual que cumplan los requisitos que para éstos se prevén en el artículo 61 del texto refundido de la Ley General Presupuestaria o en esta propia Ley de Presupuestos Generales del Estado para 1992.
+
+Cuatro. Los contratos habrán de ser informados, con carácter previo a su formalización, por el Servicio Jurídico del Departamento, Organismo o Entidad, que, en especial, se pronunciará sobre la modalidad de contratación utilizada y la observancia en las cláusulas del contrato de los requisitos y formalidades exigidos por la legislación laboral.
+
+Cinco. La realización de los contratos regulados en el presente artículo será objeto de fiscalización previa en los casos en que la misma resulte preceptiva, de conformidad con lo dispuesto en los artículos 92 a 99 del texto refundido de la Ley General Presupuestaria. A estos efectos, los créditos de inversiones se entenderán adecuados para la contratación de personal eventual si no existe crédito suficiente para ello en el concepto presupuestario destinado específicamente a dicha finalidad.
+
+En los Organismos autónomos del Estado, con actividades industriales, comerciales, financieras o análogas, esta contratación requerirá informe favorable del correspondiente Interventor Delegado, que versará sobre la no disponibilidad de crédito en el concepto presupuestario destinado a la contratación de personal eventual en el capítulo correspondiente. En caso de disconformidad con el informe emitido, el Organismo autónomo podrá elevar el expediente al Ministerio de Economía y Hacienda para su resolución.

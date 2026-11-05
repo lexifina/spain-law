@@ -1,0 +1,3 @@
+## Art. 51. Procedencia del recargo.
+
+Las indemnizaciones a tanto alzado, las pensiones vitalicias y las cantidades tasadas en el baremo de lesiones no invalidantes que resulten debidas a un trabajador víctima de accidente de trabajo o enfermedad profesional, se aumentarán, según la gravedad de la infracción, de un 30 a un 50 por 100, cuando la lesión se produzca en máquinas, artefactos, instalaciones o centros y lugares de trabajo que carezcan de los dispositivos de precaución reglamentarios, los tengan inutilizados o en malas condiciones o en los que no se hayan observado las medidas generales o particulares de seguridad e higiene en el trabajo o las elementales de salubridad o adecuación al trabajo.

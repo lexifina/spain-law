@@ -1,0 +1,31 @@
+El artículo 48.1 de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, dispone que el importe de las tasas que se prevén en la misma se establecerá por orden ministerial de los departamentos competentes, enumerando el artículo 44.2 de la misma Ley Orgánica algunos de los hechos que, en particular, están sujetos a la imposición de dichas tasas.
+
+Por su parte, el apartado 3 del mencionado artículo 48, en línea con lo dispuesto en el artículo 44.2, considera elementos y criterios esenciales de cuantificación, los siguientes: en la tramitación de autorizaciones para la prórroga de estancia en España, la duración de la prórroga; en la tramitación de autorizaciones de residencia, la duración de la autorización, así como su carácter definitivo o temporal, y, dentro de estas últimas, el hecho de que se trate de la primera o ulteriores concesiones o sus renovaciones; en la tramitación de autorizaciones de trabajo, la duración de la misma, su extensión y ámbito, el carácter y las modalidades de la relación por cuenta ajena, así como, en su caso, el importe del salario pactado; en la tramitación de tarjetas de identidad de extranjeros, la duración de la autorización y el hecho de que se trate de la primera o ulteriores concesiones o sus renovaciones; y en todo caso, será criterio cuantitativo de las tasas el carácter individual o colectivo de las autorizaciones, prórrogas, modificaciones o renovaciones.
+
+En desarrollo de la normativa anteriormente relacionada se dictó la Orden PRE/1803/2011, de 30 de junio, por la que se establece el importe de las tasas por tramitación de autorizaciones administrativas, solicitudes de visados en frontera y documentos de identidad en materia de inmigración y extranjería.
+
+La aprobación del Real Decreto 1155/2024, de 19 de noviembre, por el que se aprueba el Reglamento de la Ley Orgánica 4/2000, de 11 de enero, conlleva la necesidad de adaptación de la normativa sobre tasas a la nueva regulación, fijando la cuantía de las nuevas autorizaciones previstas y tratando de simplificar su liquidación, gestión y recaudación dentro del marco fijado por la citada Ley Orgánica.
+
+Respecto a las cuantías, se parte de las previstas en la Orden PRE/1803/2011, de 30 de junio toda vez que la cuantificación realizada del coste del servicio en el momento citado continúa resultando válido en relación con los procedimientos ya existentes. Dichos procedimientos, por otro lado, tienen una notoria similitud en términos de tramitación con los procedimientos de nueva creación.
+
+La presente orden ministerial deberá entenderse sin perjuicio de lo establecido en materia de tasas por tramitación de visados de tránsito o para estancias previstas en el territorio de los Estados miembros no superiores a tres meses en un período de seis meses, cuya regulación corresponde al ámbito comunitario; y, a nivel nacional, a la Orden AUC/891/2024, de 13 de agosto, por la que se establecen las cuantías de las tasas por la tramitación de visados.
+
+En todo caso, sigue en vigor el Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo; por lo que la presente orden ministerial deberá seguir regulando las tasas correspondientes a los certificados de registro de residentes comunitarios y a las tarjetas de residencia de familiar de ciudadano comunitario.
+
+Asimismo, la presente orden ministerial establece el importe de las tasas por la tramitación de las autorizaciones de residencia al estudiante para la búsqueda de empleo o para emprender un proyecto empresarial y de residencia para prácticas reguladas, respectivamente, en las disposiciones adicionales decimoséptima y decimoctava de la Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización. Respecto a lo anterior, de acuerdo con lo previsto en la disposición final decimotercera de la citada ley, y en relación con la movilidad internacional, en lo no previsto en la misma será de aplicación lo previsto en la Ley Orgánica 4/2000, de 11 de enero.
+
+La orden ministerial cumple con los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre: principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+
+En este sentido, en virtud de los principios de necesidad y eficacia, la norma se justifica por una razón de interés general, como es el reflejo de la normativa sobre tasas a la nueva regulación, tratando de simplificar su liquidación, gestión y recaudación dentro del marco fijado por la Ley Orgánica 4/2000, de 11 de enero. La orden ministerial se configura como el instrumento más adecuado para la consecución de los fines que se persiguen.
+
+Respecto al principio de proporcionalidad, la orden ministerial contiene la regulación imprescindible para cumplir sus objetivos, ajustando el incremento de la tasa a la nueva regulación en materia de extranjería.
+
+Igualmente, la orden ministerial es coherente con el resto del ordenamiento jurídico, con lo que se garantiza el principio de seguridad jurídica.
+
+Asimismo, el principio de transparencia se garantiza mediante los trámites de consulta pública y de audiencia e información pública establecidos en los artículos 26.2 y 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, a los que se somete el proyecto de orden ministerial. En relación con el principio de eficiencia, la iniciativa normativa no impone cargas administrativas innecesarias o accesorias.
+
+En el procedimiento de elaboración de la presente orden han emitido informe favorable a su aprobación la Comisión Interministerial de Extranjería, la Comisión Laboral Tripartita de Inmigración y el Foro para la Integración Social de los Inmigrantes.
+
+Esta orden se dicta al amparo de la habilitación prevista en el artículo 48.1 de Ley Orgánica 4/2000, de 11 de enero.
+
+En su virtud, a propuesta de la Ministra de Inclusión, Seguridad Social y Migraciones y de los Ministros de Asuntos Exteriores, Unión Europea y Cooperación, del Interior, y de Política Territorial y Memoria Democrática, dispongo:

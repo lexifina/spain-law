@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación del Real Decreto 2169/1998, de 9 de octubre, por el que se aprueba el Plan técnico nacional de la televisión digital terrenal.
+
+Se introduce una nueva disposición transitoria cuarta al Real Decreto 2169/1998, de 9 de octubre, por el que se aprueba el Plan técnico nacional de la televisión digital terrenal, del siguiente tenor:
+
+«Disposición transitoria cuarta. Obligaciones de cobertura relacionadas con la extensión de la tecnología digital.
+
+Las entidades concesionarias del servicio público de televisión digital terrenal de ámbito nacional, que no sean titulares de otra concesión obtenida conforme a lo previsto en la Ley 10/1988, de 3 de mayo, de televisión privada, quedan exentas del cumplimiento de las obligaciones que puedan derivar de la aplicación del artículo 7 del Plan técnico nacional de la televisión digital terrenal, limitando su obligación de cobertura al 25 por ciento de la población nacional, hasta que por resolución del Secretario de Estado de Telecomunicaciones y para la Sociedad de la Información, se considere que a la vista del grado de penetración de la tecnología digital, procede que, en el plazo que se les fije, se incorporen a la fase de introducción que en aquel momento sea de aplicación. Procederá la incorporación a la fase de introducción señalada anteriormente en todo caso el 31 de diciembre de 2006 o, con anterioridad a esta fecha, si el grado de penetración de la tecnología digital alcanza el 20 por ciento.»

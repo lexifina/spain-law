@@ -1,0 +1,3 @@
+## Disposición final primera. Facultad de desarrollo y aplicación.
+
+Se faculta al Ministro de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus competencias, las medidas precisas en desarrollo y cumplimiento del presente Real Decreto, así como para la necesaria adecuación a la normativa comunitaria. En particular, se faculta para establecer el régimen de pago con cargo a los presupuestos generales del Estado de las ayudas a que se refiere el presente Real Decreto, sin perjuicio de las atribuciones que confiere al Ministro de Hacienda el artículo 74.1 del texto refundido de la Ley General Presupuestaria, aprobado por Real Decreto Legislativo 1091/1988, de 23 de septiembre.

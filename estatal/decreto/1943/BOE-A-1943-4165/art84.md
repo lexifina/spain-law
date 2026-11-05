@@ -1,0 +1,3 @@
+## Art. 84. Fijación de edictos.
+
+Además de la publicación y citación en el «Boletín Oficial» de la provincia o provincias prescritas en el artículo 82 de este Reglamento, por la Jefatura del Servicio Piscícola se pasarán oficios a los Alcaldes de los Municipios a quienes afecte el deslinde, encargándoles que fijen inmediatamente los oportunos edictos en los sitios de costumbre, a fin de que estos anuncios puedan llegar a conocimiento de los interesados; bien entendido que la no asistencia al acto, sea de las representaciones oficiales o de los particulares a quienes pueda afectar el resultado de los trabajos, no será motivo para la suspensión de éstos.

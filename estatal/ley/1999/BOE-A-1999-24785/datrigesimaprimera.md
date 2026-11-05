@@ -1,0 +1,9 @@
+## Disposición adicional trigésima primera. Anticipos a favor de Ayuntamientos copartícipes en concepto de distribución de cuotas del Impuesto de Actividades Económicas de Centrales Nucleares de los años 1992 a 1996.
+
+Los Ayuntamientos copartícipes que no hubiesen percibido el porcentaje de la cuota del Impuesto de Actividades Económicas que grava la actividad de producción de energía eléctrica en centrales nucleares de los años 1992 a 1996 en los términos de la regla 17.a de la Instrucción de dicho impuesto podrán percibir anticipos de carácter extrapresupuestario del Tesoro Público en los términos y con las limitaciones establecidas en la presente disposición adicional.
+
+Los anticipos a que se hace referencia serán concedidos previa la firma de los correspondientes convenios entre el Ministerio de Economía y Hacienda y los Ayuntamientos implicados. A estos efectos, deberá firmarse un convenio específico para el entorno de cada central en el que deberán concurrir el Ayuntamiento cabecera y todos los Ayuntamientos copartícipes.
+
+En los citados convenios se determinará el importe a anticipar a cada Ayuntamiento, que podrá alcanzar el 100 por 100 de las cantidades no distribuidas, y las condiciones y términos de la compensación de dicho anticipo con la participación en los ingresos del Estado del Ayuntamiento cabecera o, en su caso, de los Ayuntamientos copartícipes. La retención mínima, en todo caso, no será inferior al 25 por 100 de las entregas a cuenta mensuales o de la liquidación definitiva; las retenciones podrán extenderse, en su caso, a años posteriores al que se inicien hasta el completo reembolso del anticipo.
+
+Cuando esta retención concurra con las reguladas en el artículo 86, tendrá carácter preferente y no computará para el cálculo de los porcentajes citados en el apartado dos del citado artículo.

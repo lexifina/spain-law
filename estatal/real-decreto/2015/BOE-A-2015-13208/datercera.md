@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Información sobre el origen del combustible en instalaciones de distribución al por menor de productos petrolíferos independientes.
+
+Según lo previsto en el artículo 43.5 de la Ley 34/1998, de 7 de octubre, los titulares de las instalaciones de distribución al por menor de productos petrolíferos, que no pertenezcan a la red de distribución de un operador al por mayor, podrán informar del origen del combustible que comercializan publicitando el operador mayorista o distribuidor del que adquieren el combustible.
+
+En este caso, deberán indicar obligatoriamente la fecha de adquisición, producto, cantidad en metros cúbicos y denominación social de todos los operadores al por mayor y distribuidores a los que se haya adquirido combustible, como mínimo, en los últimos sesenta días. Asimismo, podrán incorporar las marcas, logotipos u otros signos distintivos de dichos operadores y distribuidores, únicamente en aquellos casos en los que cuenten con la autorización previa y por escrito del titular de tales marcas, logotipos o signos distintivos.

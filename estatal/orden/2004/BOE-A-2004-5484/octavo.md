@@ -1,0 +1,3 @@
+## Octavo. Publicación de los saldos de los préstamos de valores.
+
+Los organismos rectores de los mercados en los que cotizan los valores prestados, con la asistencia necesaria de la Sociedad de Sistemas o de la entidad que realice las funciones de registro, compensación y liquidación al amparo del artículo 44 bis de la Ley 24/1988, de 28 de julio, del Mercado de Valores, en el mercado en donde se negocie el valor objeto del préstamo, darán publicidad a los saldos de los préstamos de valores existentes en cada momento, así como a la constitución y cancelación de los préstamos y otros aspectos que la Comisión Nacional del Mercado de Valores considere de interés para los mercados.

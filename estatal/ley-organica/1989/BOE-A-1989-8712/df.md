@@ -1,0 +1,3 @@
+## Disposición final.
+
+Esta Ley tiene naturaleza Orgánica, a excepción del Capítulo I del Título V del Libro I; Capítulo II del Título I del Libro II, salvo el artículo 141; Capítulo V, salvo el artículo 183, Capítulo XI Capítulo XII, salvo los artículos 245 y 246, y Capítulo XIII del Título II del Libro II Título IV, salvo los artículos 334 y 337 del Libro II; Capítulo II del Título I del Libro III; Título III, Título IV, salvo los artículos 407 y 415 y Título V del Libro III; Título II de la parte primera del Libro IV, salvo el artículo 464; Título IV, salvo el artículo 504, y los Capítulos X y XI de la parte primera del Libro IV; parte segunda del Libro IV, y disposición adicional octava, que tienen el carácter de Ley ordinaria.

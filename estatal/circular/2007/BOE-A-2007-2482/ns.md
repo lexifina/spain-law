@@ -1,0 +1,3 @@
+## Norma segunda. Comunicación de la normativa relativa a los servicios complementarios o accesorios y de las instrucciones que regulen la operativa.
+
+La normativa básica relativa a los servicios complementarios o accesorios y las instrucciones que regulen la operativa de los sistemas y servicios gestionados por la Sociedad Española de Sistemas de Pago deberán comunicarse al Banco de España a la mayor brevedad posible tras su adopción. El Banco de España podrá oponerse a la misma en un plazo de 10 días hábiles desde su recepción. Si, transcurrido dicho plazo, el Banco de España no comunicase su oposición por alguno de los motivos previstos en la norma primera, la mencionada normativa podrá entrar en vigor.

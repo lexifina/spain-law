@@ -1,0 +1,7 @@
+## Disposición adicional décima. Biocarburantes o combustibles de biomasa con riesgo elevado de cambio indirecto del uso de la tierra.
+
+Con anterioridad al 31 de diciembre de 2021 y a los efectos de lo previsto en el artículo 3 quater, por resolución de la persona titular de la Secretaría de Estado de Energía se determinarán los biocarburantes o combustibles de biomasa producidos a partir de cultivos alimentarios y forrajeros con riesgo elevado de provocar un cambio indirecto del uso de la tierra, y de cuyas materias primas se observe una expansión significativa de la superficie de producción en tierras con elevadas reservas de carbono de acuerdo con lo previsto en la normativa europea de aplicación, así como el porcentaje máximo que los mismos podrán tener para el cumplimiento del objetivo de venta o consumo de biocarburantes regulados, equivalente al nivel de consumo de dichos combustibles alcanzado en España en 2019. Este porcentaje máximo será de aplicación para cada uno de los sujetos obligados del artículo 3.
+
+El límite al que hace referencia el primer párrafo del artículo 3 quater será de aplicación a partir de los 3 meses desde la aprobación de la resolución citada en el párrafo anterior y en ningún caso antes del 1 de enero de 2022. Cuando proceda, se prorrateará por el plazo que hubiese transcurrido en el año natural.
+
+> Se añade por el art. único.6 del Real Decreto 205/2021, de 30 de marzo. Ref. BOE-A-2021-5034

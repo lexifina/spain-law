@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Designación y renovación de representantes de las entidades de crédito en las comisiones gestoras de los fondos de garantía de depósito.
+
+Los fondos de garantía de depósitos designarán o renovarán los representantes de las entidades de crédito en sus comisiones gestoras dentro de los tres meses siguientes a la entrada en vigor del presente Real Decreto. A este efecto, y en relación con lo previsto en el artículo 2, apartado 1, párrafo tercero, se considerarán como asociaciones representativas: de los Bancos, la Asociación Española de Banca Privada (AEB); de las Cajas de Ahorro, la Confederación Española de Cajas de Ahorros (CECA), y de las Cooperativas de Crédito, la Unión Nacional de Cooperativas de Crédito (UNACC).

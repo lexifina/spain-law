@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio.
+
+A lo largo de 2019 se promoverán desde la Intervención General de la Administración del Estado las actuaciones de divulgación e información adecuadas que faciliten a las Administraciones, organismos y demás entidades contemplados en el artículo 3, cumplir con las obligaciones recogidas en este real decreto. Durante este periodo, se entenderá que no concurren los requisitos recogidos en el artículo 28.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, a efectos de la aplicación del artículo 10.5 de este real decreto.

@@ -1,0 +1,23 @@
+## Sexto. Asesoramiento técnico en las actuaciones de comprobación material de la inversión.
+
+1. En los supuestos en los que la designación de un representante de la Intervención General vaya acompañada de la designación de personal asesor, ésta se efectuará por el Interventor General, entre funcionarios que no hayan intervenido en el proyecto, dirección, adjudicación, celebración o ejecución del gasto correspondiente y, siempre que sea posible, dependientes de distinto Ministerio, centro directivo u organismo, de aquél al que la comprobación se refiera o, al menos, de centro directivo u organismo que no haya intervenido en su gestión, realización o dirección.
+
+2. De conformidad con las previsiones que se recogen en el artículo 28.3 del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Administración del Estado, la realización de las labores de asesoramiento por los funcionarios a que se refiere el punto anterior, se considera parte integrante de las funciones del puesto de trabajo en el que estén destinados. A estos efectos, los órganos gestores y los superiores jerárquicos de los mismos deberán colaborar para la adecuada prestación del servicio.
+
+En este sentido, de acuerdo con el procedimiento previsto en el artículo 28 del Real Decreto 2188/1995, según modificación operada por Real Decreto 109/2015, de 20 de febrero, la Intervención General solicitará de los distintos Ministerios, a través de la correspondiente Subsecretaría, la designación de uno o varios delegados a los que se dirigirán las solicitudes de nombramiento de los funcionarios adscritos a los citados Ministerios, centros u organismos públicos y que pertenezcan a los Cuerpos del Estado de las especialidades que se consideren necesarias en función del tipo de comprobaciones materiales a realizar y para cada una de las provincias en las que se disponga de personal asesor de las distintas especialidades.
+
+3. La Intervención elaborará una base de datos de los delegados, ordenados por Ministerios, centros directivos y organismos públicos para cada provincia y especialidad, a quienes se dirigirán las solicitudes de nombramiento de personal para prestar asesoramiento en aquellas inversiones respecto de las cuales el Interventor General haya resuelto designar asesor.
+
+Las solicitudes a los distintos delegados se realizarán teniendo en cuenta la naturaleza de la inversión, el lugar de la comprobación material y la representatividad de los medios de cada Ministerio en la especialidad y provincia requerida respecto del conjunto de la Administración.
+
+Cuando la comprobación material deba llevarse a cabo en alguna provincia en la que no prestasen servicios funcionarios pertenecientes al Cuerpo de la especialidad adecuada a la naturaleza de la inversión, podrá solicitarse el nombramiento de un funcionario que preste sus servicios en otra provincia.
+
+Sin perjuicio de lo anterior, el Interventor General podrá designar como asesor a un funcionario de entre los destinados en la propia Intervención General, delegada, regional o territorial, si reúne los conocimientos técnicos relativos a la especialidad requerida, cuando así lo considere conveniente, por las características o la naturaleza de la inversión a recibir e independientemente del lugar en que tenga que efectuarse la recepción.
+
+4. El delegado al que se solicite la designación deberá comunicar a la Intervención General por el procedimiento previsto en la Resolución aprobada a tales efectos, los datos del asesor nombrado para la asistencia al acto de comprobación que en ningún caso podrá recaer en personal que se encuentre ausente, de baja, o situación asimilable que implique la imposibilidad de realizar la labor de asesoramiento.
+
+Si alguna circunstancia impidiera efectuar el citado nombramiento o que el funcionario seleccionado lleve a cabo su labor de asesoramiento al representante de la Intervención General, se comunicará tal circunstancia a este Centro a la mayor brevedad, por el procedimiento establecido a tales efectos, con el fin de poder realizar una nueva solicitud de asesor.
+
+5. Los Ministerios deberán comunicar las alteraciones que se produzcan en las relaciones de delegados remitidas a la Intervención General a la mayor brevedad posible, con el objeto de que la base de datos de asesores se mantenga actualizada.
+
+Asimismo, cuando se produzcan variaciones en la estructura orgánica de los Ministerios, centros directivos y organismos, se procederá a la revisión y, en su caso actualización de las relaciones de delegados.

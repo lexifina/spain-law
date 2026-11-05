@@ -1,0 +1,7 @@
+## Artículo primero.
+
+Uno. Constituyen el Patrimonio Sindical Acumulado, todos los bienes, derechos y obligaciones de contenido patrimonial, que habiendo pertenecido a la antigua Organización Sindical se transfirieron íntegramente al Organismo Autónomo Administración Institucional de Servicios Socio-Profesionales por virtud del Real Decreto-Ley 19/1976, de 8 de octubre, así como todos aquellos que constituían los patrimonios privativos de los antiguos Sindicatos y demás Entidades Sindicales que, conforme a la Ley Sindical 2/1971, de 17 de febrero, tenían personalidad jurídica propia.
+
+Dos. El Patrimonio Sindical Acumulado se integra en el Patrimonio del Estado, subrogándose la Administración del Estado en las titularidades activas y pasivas, referidas a tales patrimonios en los mismos términos que correspondieran a los anteriores Entes titulares.
+
+Tres. La certificación administrativa expedida por el Ministerio de Trabajo y Seguridad Social será título suficiente para inmatricular en el Registro de la Propiedad a favor de la Administración del Estado los inmuebles que no estén inscritos a favor de persona alguna, con arreglo a lo que dispone la Ley Hipotecaria. Tratándose de bienes inscritos a nombre de personas distintas de la Administración del Estado que, con arreglo a la Ley, hayan pasado a pertenecer a ésta, bastará con la solicitud dirigida por el citado Ministerio al Registrador de la Propiedad para inscribirlos a nombre de la Administración del Estado.

@@ -1,0 +1,5 @@
+## Artículo noventa y tres. Otras subvenciones a las Entidades Locales.
+
+Uno. Con cargo a los créditos de la Sección 32.ª, Programa 912C, se hará efectiva una cantidad equivalente al importe neto de las cuotas del actual Impuesto de Vehículos de Tracción Mecánica objeto de condonación en el año 1992 como consecuencia de la aplicación de los beneficios fiscales establecidos en el vigente Convenio de Cooperación para la Defensa con los Estados Unidos, de fecha 1 de diciembre de 1988, a favor de los Municipios afectados.
+
+Dos. Las ordenes de pago que se expidan a efectos de cumplir los compromisos que se establecen en el apartado anterior y en los artículos 89 y 90 de esta Ley, se librarán simultanea y conjuntamente a favor de las Corporaciones Locales afectadas siguiendo, en su caso, el mismo procedimiento contable y de ejecución previsto para las participaciones en los tributos del Estado y su cumplimiento, en cuanto a la disposición efectiva de fondos, se realizará de una sola vez sin fraccionamiento alguno en periodos trimestrales o mensuales que impidan o menoscaben el pago conjunto y simultaneo de las respectivas obligaciones a todos los perceptores.

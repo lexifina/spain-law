@@ -1,0 +1,3 @@
+## Disposición final primera. Modificación de la Orden HAC/661/2003, de 24 de marzo, por la que se aprueba el modelo de autoliquidación de la tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil y contencioso-administrativo y se determinan el lugar, la forma y los plazos para su presentación.
+
+Se sustituye el anexo I de la Orden HAC/661/2003, de 24 de marzo, por la que se aprueba el modelo de autoliquidación de la tasa por el ejercicio de la potestad jurisdiccional en los órdenes civil y contencioso-administrativo y se determinan el lugar, la forma y los plazos para su presentación por el que figura como Anexo a la presente Orden.

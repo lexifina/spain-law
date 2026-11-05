@@ -1,0 +1,3 @@
+## Disposición adicional única. Supletoriedad.
+
+En todo lo relativo a las notificaciones telemáticas y sustitución de certificados en soporte papel por certificados telemáticos y trasmisiones de datos, se aplicará, con carácter supletorio, el Real Decreto 209/2003, de 21 de febrero, por el que se regulan los registros y las notificaciones telemáticas, así como la utilización de medios telemáticos para la sustitución de la aportación de certificados por los ciudadanos, y sin perjuicio de lo establecido en la normativa específica sobre la incorporación de técnicas electrónicas, informáticas y telemáticas a la seguridad jurídica preventiva.

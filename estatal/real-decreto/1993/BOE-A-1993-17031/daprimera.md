@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Los médicos incluidos en el artículo 2 del presente Real Decreto, que deseen desempeñar funciones como médico de medicina general en el Sistema Público de la Seguridad Social de otro Estado miembro de la Comunidad Europea, en virtud del derecho que les confiere la Directiva 86/457/CEE, se ajustarán al procedimiento ordinario establecido en el Real Decreto 1691/1989, de 29 de diciembre, por el que se regula el reconocimiento de Diplomas, Certificados y otros Títulos de Médico y de Médico Especialista de los Estados miembros de la Comunidad Económica Europea, el ejercicio efectivo del derecho de establecimiento y la libre prestación de servicios.

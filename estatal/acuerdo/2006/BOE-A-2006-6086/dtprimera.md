@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+1. Para la fijación de los haberes reguladores de las pensiones de Clases Pasivas, continuarán rigiendo los índices de proporcionalidad y el grado de carrera administrativa asignados legalmente con anterioridad a la entrada en vigor de este Estatuto de Personal y que vienen reflejados en los correspondientes Títulos Administrativos de los funcionarios de las Cortes Generales. Todo ello sin perjuicio de las posibles mejoras que puedan producirse en el régimen aplicable a los funcionarios pertenecientes a los Cuerpos Administrativo y de Ujieres de las Cortes Generales.
+
+2. Conforme a lo dispuesto en el artículo 2.º 4 del Decreto 1120/1966, de 21 de abril, que aprobó el texto refundido de la Ley de Derechos Pasivos de los Funcionarios de la Administración Civil del Estado, continuará en vigor lo establecido en el artículo 26 del Estatuto de 22 de octubre de 1926, en la redacción dada al mismo por el artículo 1.º de la Ley de 30 de diciembre de 1944, que será aplicable a los funcionarios a que se refiere la presente disposición.

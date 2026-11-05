@@ -1,0 +1,3 @@
+## Disposición final segunda. Instrucciones de desarrollo.
+
+Corresponderá a la Dirección General del Patrimonio del Estado dictar las instrucciones de desarrollo de esta norma, así como la definición de nuevas operaciones en el sistema de información sobre bienes inmuebles, y las modificaciones que sea preciso introducir en las ya existentes, sin periodo de que los efectos contables de las mismas sean establecidos por la Intervención General de la Administración del Estado, que determinará los datos precisos para la correcta configuración del Subsistema de Información sobre Bienes Inmuebles de la Central Contable.

@@ -1,0 +1,7 @@
+El artículo 72.1 de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil, dispone que los destinos correspondientes a los empleos de la categoría de Oficiales Generales serán de libre designación y los de los demás empleos podrán ser de concurso de méritos o provisión por antigüedad, así como de libre designación en los supuestos que se determine reglamentariamente, en consonancia con las características y exigencias del destino. El citado artículo, en su apartado 3, establece que reglamentariamente se determinarán las normas generales de clasificación y provisión de destinos.
+
+Por Real Decreto 1250/2001, de 19 de noviembre, cuya entrada en vigor tuvo lugar el día 5 de junio de 2002, se aprueba el Reglamento de provisión de destinos del personal del Cuerpo de la Guardia Civil. El citado Reglamento, en su artículo 3.2, determina que serán destinos de libre designación los correspondientes a la categoría de Oficiales Generales ; los de mando de unidad, servicio y centro docente que sea ejercido por Coronel o Teniente Coronel ; los de Subdirector-Jefe de Estudios de los Centros Docentes de Formación y aquellos otros que exijan una especial responsabilidad y confianza por razón del cometido a desempeñar y así se determinen en la correspondiente Orden.
+
+El artículo 74.1 de la citada Ley establece que la asignación de los destinos de libre designación que correspondan a puestos de mando o dirección que determine el Ministro del Interior serán competencia del Secretario de Estado de Seguridad.
+
+En su virtud, dispongo:

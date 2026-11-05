@@ -1,0 +1,11 @@
+## Apartado tercero. Rectificaciones en el «Estado de remanentes e ingresos pendientes de compensar».
+
+Cuando se detecten errores en un «Estado de remanentes e ingresos pendientes de compensar» que haya sido remitido a la correspondiente unidad central de caja, el respectivo servicio del exterior deberá remitir un nuevo estado referido al mismo trimestre, en el que deberán figurar en la columna «Rectificaciones» las variaciones introducidas respecto al anteriormente enviado.
+
+Dentro de los tres días hábiles siguientes al de recepción del estado rectificado, la unidad central de caja deberá remitirlo a la oficina de contabilidad del correspondiente Departamento ministerial u Organismo, a efectos de su captura en el registro al que se refiere el artícu-lo 4 del Real Decreto 938/2005, de 29 de julio.
+
+En el caso de que se produzcan rectificaciones en el «Estado de remanentes e ingresos pendientes de compensar» que impliquen la disminución de importes previamente comunicados que hayan sido objeto de compensación con algún libramiento de fondos, el correspondiente servicio gestor deberá expedir los siguientes documentos contables para rectificar en el sistema de información contable el importe descontado en exceso, que serán remitidos a su respectiva oficina de contabilidad:
+
+Un documento contable en formalización con signo negativo y con la misma clave de operación, el mismo íntegro y los mismos descuentos que figuraban en el documento a rectificar. Además se introducirá, en su caso, un descuento aplicado al concepto 323001 «sin salida material de fondos» por el importe líquido del documento a rectificar.
+
+Simultáneamente se expedirá un nuevo documento contable con signo positivo y con la misma clave de operación y el mismo íntegro que el documento que se está rectificando. En los descuentos figurarán los importes correctos que se deriven del «Estado de remanentes e ingresos pendientes de compensar» rectificado y, en su caso, un descuento aplicado al concepto 323001 «sin salida material de fondos» por el mismo importe que figure en el documento de rectificación al que se refiere el párrafo anterior. El importe líquido resultante en este nuevo documento deberá ser igual al importe descontado en exceso, salvo si se deben incluir otros descuentos en el mismo para compensar otros remanentes o ingresos pendientes.

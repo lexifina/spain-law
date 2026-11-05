@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Irretroactividad de las modificaciones de la Ley 26/1999, de 9 de julio, de medidas de apoyo a la movilidad geográfica de los miembros de las Fuerzas Armadas.
+
+La modificación introducida por el artículo 69 de esta ley en el artículo 2 de la Ley 26/1999, de 9 de julio, de medidas de apoyo a la movilidad geográfica de los miembros de las Fuerzas Armadas, resultará únicamente de aplicación siempre que el cambio de destino con cambio de localidad o área geográfica que origine el derecho a la compensación económica se produzca con posterioridad a la entrada en vigor de esta ley.

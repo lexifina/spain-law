@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Otros programas formativos de formación profesional para los alumnos y las alumnas con necesidades educativas específicas.
+
+1. A efecto de dar continuidad a los alumnos y las alumnas con necesidades educativas especiales, y responder a colectivos con necesidades específicas, las Administraciones educativas podrán establecer y autorizar otras ofertas formativas de formación profesional adaptadas a sus necesidades. Estos programas podrán incluir módulos profesionales de un título profesional básico y otros módulos de formación apropiados para la adaptación a sus necesidades. Esta formación complementaria seguirá la estructura modular y sus objetivos estarán definidos en resultados de aprendizaje, criterios de evaluación y contenidos, según lo establecido en la normativa vigente.
+
+2. Cuando se oferten módulos incluidos en un título profesional básico, su superación tendrá carácter acumulable para la obtención de dicho título. La superación del resto de módulos no incluidos en un título profesional básico que formen parte del programa se acreditará mediante certificación académica y las competencias profesionales así adquiridas podrán ser evaluadas y acreditadas de acuerdo con el procedimiento establecido en el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral.
+
+3. La duración de estos programas será variable, según las necesidades de los colectivos a que vayan destinados.

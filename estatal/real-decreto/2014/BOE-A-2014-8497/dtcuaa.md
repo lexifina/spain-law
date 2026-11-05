@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Supuesto excepcional de acceso al área de capacitación específica en urgencias y emergencias.
+
+De manera excepcional, los licenciados en Medicina y Cirugía con anterioridad al 1 de enero de 1995, que sean titulares de la certificación prevista en el artículo 3 del Real Decreto 853/1993, de 4 de junio, sobre ejercicio de las funciones de médico de medicina general en el Sistema Nacional de Salud, podrán acceder al área de capacitación específica en urgencias y emergencias por el procedimiento regulado en la disposición transitoria tercera de este real decreto.

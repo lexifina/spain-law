@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Establecimiento de itinerarios formativos básicos.
+
+Corresponderá a la Dirección General de Infraestructuras Ferroviarias, mediante resolución publicada en el «Boletín Oficial del Estado», el establecimiento de los itinerarios formativos básicos y la carga lectiva mínima que deberán respetar los programas formativos para la obtención de las habilitaciones y certificados regulados en la orden.
+
+En el caso de nuevo material rodante, la Dirección General de Infraestructuras Ferroviarias autorizará dichos itinerarios formativos básicos y la carga lectiva mínima, de conformidad con la propuesta formuladas por las empresas ferroviarias, a través de sus responsables de seguridad en la circulación, que deberán haber previsto, durante el proceso constructivo de nuevo material rodante dichos itinerario formativo y carga lectiva mínima, y formular la correspondiente propuesta a la citada Dirección General, al menos con una antelación de 3 meses a la previsión de puesta en servicio de dicho material.

@@ -1,0 +1,19 @@
+Tomando como base distintas iniciativas europeas, el Gobierno de España ha venido desarrollando una serie de medidas para impulsar, favorecer y facilitar la creación de empresas.
+
+En el año 2003, tomando como referencia la Carta Europea de la Pequeña Empresa, se crea la figura de la sociedad limitada Nueva Empresa y el Centro de Información y Red de Creación de Empresas (CIRCE), un sistema de tramitación telemática para la constitución de la sociedad limitada Nueva Empresa. El CIRCE se crea en la Ley 7/2003, de 1 de abril, de la sociedad limitada Nueva Empresa, que modifica la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada.
+
+Posteriormente, como consecuencia del Consejo Europeo del año 2005 en el que se decide renovar la Estrategia de Lisboa haciendo clara referencia a la Carta Europea de la Pequeña Empresa, el Gobierno de España elabora el Plan Nacional de Reformas, siendo uno de sus ejes el Plan de Fomento Empresarial, el cual recoge una serie de medidas en el ámbito de la creación de empresas: (i) la extensión de la tramitación electrónica puesta en marcha para la sociedad limitada Nueva Empresa a todas las Sociedades de Responsabilidad Limitada y (ii) la ampliación de la red de Puntos de Asesoramiento e Inicio de Tramitación, oficinas que ofrecen servicios de asesoramiento, información y tramitación electrónica de creación de empresas a los emprendedores españoles.
+
+Mediante el presente real decreto se posibilita que el empresario individual utilice el procedimiento electrónico del sistema CIRCE para llevar a cabo los trámites de creación de su empresa mediante la utilización del Documento Único Electrónico. Todo ello, en consonancia con los títulos tercero y cuarto de la ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, que contemplan, respectivamente, la gestión electrónica de los procedimientos administrativos, y la cooperación entre administraciones para el impulso de la administración electrónica, así como con la Directiva 2006/123/CE del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, relativa a los servicios en el mercado interior, que en su artículo 8.1 establece que los trámites y procedimientos para el acceso a una actividad de servicios se pueda realizar fácilmente por vía electrónica a través de la Ventanilla Única.
+
+El presente real decreto se enmarca en el contexto de impulso de la actividad empresarial, incluido en el segundo paquete de medidas adoptado por el Gobierno en el marco del Plan de Reducción de Cargas Administrativas y Mejora de la Regulación, aprobado por el Consejo de Ministros de 14 de agosto de 2008.
+
+La disposición adicional octava de la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada, prevé que reglamentariamente se podrán incluir nuevos datos en el Documento Único Electrónico a fin de que pueda servir para el cumplimiento de otros trámites, comunicaciones y obligaciones en materia de creación de empresas.
+
+Así, la presente norma aplica, para las empresas individuales, el mecanismo desarrollado por el Real Decreto 682/2003, de 7 de junio, por el que se regula el sistema de tramitación telemática a que se refiere el artículo 134 y la disposición adicional octava de la Ley 2/1995, de 23 de marzo, de Sociedades de Responsabilidad Limitada.
+
+De acuerdo con lo dispuesto en el artículo 37 apartado h) de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal, este real decreto ha sido sometido a informe de la Agencia Española de Protección de Datos.
+
+En su virtud, a propuesta de los Ministros de Industria, Turismo y Comercio y de Justicia, con la aprobación previa de la Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 26 de marzo de 2010,
+
+DISPONGO:

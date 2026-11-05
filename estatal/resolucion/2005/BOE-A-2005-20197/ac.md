@@ -1,0 +1,5 @@
+## ACUERDO DE CONSEJO DE MINISTROS DE 7 DE OCTUBRE DE 2005 POR EL QUE SE AMPLÍAN LOS LÍMITES DEL PARQUE NACIONAL DE CABAÑEROS POR INCORPORACIÓN DE TERRENOS COLINDANTES AL MISMO
+
+1. Se acuerda la ampliación del Parque Nacional de Cabañeros, incorporando al mismo diferentes terrenos públicos colindantes, en una superficie de 1.836,25 hectáreas por disponer de las características naturales idóneas para ello, tal y como se describe en el anexo I, de acuerdo con los límites y linderos que se definen en el anexo II del presente acuerdo.
+
+2. Se fija la superficie total del Parque Nacional de Cabañeros, como consecuencia de la citada ampliación, en 40.855,98 hectáreas, pertenecientes a los términos municipales de Navas de Estena, Retuerta de Bullaque, Horcajo de los Montes y Alcoba en la provincia de Ciudad Real, y Hontanar y Los Navalucillos en la provincia de Toledo. Los límites geográficos del Parque Nacional de Cabañeros así ampliado son los que se definen en el anexo III del anexo del presente acuerdo.

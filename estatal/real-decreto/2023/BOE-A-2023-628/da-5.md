@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Formación del personal.
+
+1. El Ministerio de Educación y Formación Profesional, junto al sector e interlocutores sociales establecerá y actualizará los desarrollos curriculares y criterios formativos que permitan garantizar unos niveles mínimos de capacitación a las personas que desarrollen actividades laborales relacionadas con tareas descritas en este real decreto y, en concreto, para cumplir lo dispuesto en los artículos 48 y 49, antes de 2030.
+
+2. El Ministerio de Educación y Formación Profesional, junto al sector e interlocutores sociales, facilitarán la obtención del Certificado de profesionalidad en base a lo dispuesto por el Real Decreto 34/2008, de 18 de enero, por el que se regulan los certificados de profesionalidad, sobre vías para la obtención de los certificados de profesionalidad, y por el Real Decreto 1224/2009, de 17 de julio, de reconocimiento de las competencias profesionales adquiridas por experiencia laboral, para cumplir con lo dispuesto en los artículos 48 y 49, antes de 2030.

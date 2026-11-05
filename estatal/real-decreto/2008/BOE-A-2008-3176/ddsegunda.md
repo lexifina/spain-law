@@ -1,0 +1,9 @@
+## Disposición derogatoria segunda. Extinción de determinadas especialidades en régimen de alumnado.
+
+En cumplimiento de lo previsto en la disposición transitoria cuarta de la Ley 44/ 2003, de 21 de noviembre, relativa a las especialidades cuyo sistema de formación no es el de residencia, y sin perjuicio de lo establecido en la disposición transitoria segunda respecto a las especialidades que en la misma se citan:
+
+1. Se declara a extinguir, desde la fecha de entrada en vigor de este real decreto, la especialidad médica en régimen de alumnado de Estomatología, sin perjuicio del ejercicio profesional de estos especialistas, al amparo de lo previsto en el artículo 6.2.c) de la Ley 44/ 2003, de 21 de noviembre, de los derechos profesionales y de cualquier tipo inherentes al título de médico especialista en Estomatología, incluidos los derivados de su equiparación profesional con los licenciados en Odontología, como consecuencia de lo previsto en la disposición adicional de la Ley 10/1986, de 17 de marzo, sobre Odontólogos y otros profesionales relacionados con la salud dental.
+
+2. Se declara a extinguir, desde la fecha de entrada en vigor de este real decreto, la especialización farmacéutica en régimen de alumnado de Análisis y Control de Medicamentos, sin perjuicio de los derechos profesionales y de cualquier tipo inherentes a dicho título que ostenten quienes lo hubieran obtenido al amparo de lo previsto en el régimen transitorio de acceso al mismo, regulado por el Real Decreto 412/1997, de 21 de marzo y Orden de 31 de octubre de 1997.
+
+3. Quedan suprimidas, desde la entrada en vigor de este real decreto, las especializaciones farmacéuticas no desarrolladas de Farmacología Experimental, Microbiología Industrial, Nutrición y Dietética, Sanidad Ambiental y Salud Pública, Tecnología e Higiene Alimentaria, y Toxicología Experimental y Analítica.

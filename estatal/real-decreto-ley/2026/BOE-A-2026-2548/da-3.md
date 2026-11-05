@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Cotización adicional para las y los bomberos forestales y agentes forestales y medioambientales.
+
+1. El tipo de cotización adicional a aplicar a las y los bomberos forestales incluidos en el Real Decreto 383/2008, de 14 de marzo, por el que se establece el coeficiente reductor de la edad de jubilación en favor de los bomberos al servicio de las administraciones y organismos públicos, será del 10,60 por ciento, del que el 8,84 por ciento será a cargo de la empresa y el 1,76 por ciento a cargo de la persona trabajadora.
+
+2. El tipo de cotización adicional a aplicar a agentes forestales y medioambientales incluidos en el Real Decreto 919/2025, de 15 de octubre, por el que se establece el coeficiente reductor de la edad de jubilación en favor de agentes forestales y medioambientales al servicio de las administraciones públicas, será del 10,60 por ciento, del que el 8,84 por ciento será a cargo de la empresa y el 1,76 por ciento a cargo de la persona trabajadora.

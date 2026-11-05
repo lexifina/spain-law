@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones se opongan a lo establecido en la presente ley y de modo expreso, el texto refundido de las Leyes 116/1969, de 30 de diciembre, y 24/1972, de 21 de junio, por el que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por el Decreto 2864/1974, de 30 de agosto, y el Reglamento General de la Ley 116/1969, de 30 de diciembre, por la que se regula el Régimen Especial de la Seguridad Social de los Trabajadores del Mar, aprobado por el Decreto 1867/1970, de 9 de julio.

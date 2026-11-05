@@ -1,0 +1,3 @@
+## Disposición adicional novena. Préstamos y anticipos de la política de investigación, desarrollo e innovación.
+
+Durante el ejercicio 2015 la concesión de préstamos y anticipos con cargo a créditos de la política 46 «Investigación, desarrollo e innovación» no requerirá de la autorización prevista en la letra a) de la Disposición adicional segunda de esta Ley, cuando el tipo de interés aplicable a los préstamos y anticipos sea igual o superior al tipo de interés euríbor a un año publicado por el Banco de España correspondiente al mes anterior a la aprobación de su convocatoria o, en su caso, al mes anterior a su concesión.

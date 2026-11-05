@@ -1,0 +1,15 @@
+## Artículo 4. Principios informadores de la autorización ambiental integrada.
+
+1. Al otorgar la autorización ambiental integrada, el órgano competente de la comunidad autónoma deberá tener en cuenta que en el funcionamiento de las instalaciones:
+
+a) Se adopten las medidas adecuadas para prevenir la contaminación, particularmente mediante la aplicación de las mejores técnicas disponibles.
+
+b) Se fomente la prevención en la generación de los residuos o, en su caso, que éstos se gestionen con el orden de prioridad que dispone la jerarquía establecida en el artículo 8 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, a saber: prevención, preparación para la reutilización, reciclado y otros tipos de valorización, incluida la valorización energética. En el supuesto de que tampoco fuera factible la aplicación de dichos procedimientos, por razones técnicas o económicas, los residuos se eliminarán de forma que se evite o reduzca al máximo su repercusión en el medio ambiente.
+
+c) Se utilice la energía, el agua, las materias primas y otros recursos de manera eficiente.
+
+d) Se adopten las medidas necesarias para prevenir los accidentes graves y limitar sus consecuencias sobre la salud de las personas y el medio ambiente, de acuerdo con la normativa aplicable.
+
+e) Se establezcan las medidas necesarias para evitar cualquier riesgo de contaminación cuando cese la explotación de la instalación y para que el lugar donde se ubique quede en un estado satisfactorio de acuerdo con la normativa aplicable.
+
+2. El órgano competente de la comunidad autónoma para otorgar la autorización ambiental integrada y, en su caso, el organismo de cuenca competente para emitir el informe vinculante en materia de aguas, deberán tener en cuenta los principios anteriores al establecer las condiciones de la autorización ambiental integrada regulada en el título III.

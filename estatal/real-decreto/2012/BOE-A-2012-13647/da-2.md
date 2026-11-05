@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Prestación ortoprotésica de los regímenes especiales de la Seguridad Social gestionados por las mutualidades de funcionarios.
+
+Las comunidades autónomas y el INGESA facilitarán la prestación ortoprotésica a las personas titulares o beneficiarias de los regímenes especiales de la Seguridad Social gestionados por las mutualidades de funcionarios que hubieran sido adscritas a sus correspondientes servicios de salud por el procedimiento establecido. Esta prestación estará sujeta a las mismas condiciones que los usuarios de la correspondiente comunidad o INGESA, excepto en lo relativo a la aportación que será la prevista en el artículo 9.5.

@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Profesor especialista del ciclo de grado superior en escalada en centros privados y de titularidad pública de administraciones distintas de la educativa.
+
+De forma excepcional, durante los cinco cursos académicos posteriores al de la entrada en vigor del presente real decreto, podrán ser profesores del bloque específico del ciclo de grado superior en escalada en centros privados y de titularidad pública de administraciones distintas de la educativa aquellos titulados como Técnicos Deportivos Superiores en Alta Montaña que acrediten la experiencia en el ámbito laboral y deportivo, o la experiencia docente detallada en el anexo IX B.

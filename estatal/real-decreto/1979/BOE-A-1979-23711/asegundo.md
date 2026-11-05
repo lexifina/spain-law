@@ -1,0 +1,3 @@
+## Artículo segundo.
+
+EI artículo cuatrocientos cincuenta y tres del vigente Reglamento de los Servicios de Instituciones Penitenciarias, aprobado por Decreto de dos de febrero de mil novecientos cincuenta y seis, quedará redactado de la siguiente manera: «Los funcionarios penitenciarios se someterán a un entrenamiento físico especial que les permita dominar a los reclusos violentos sin necesidad de usar armas. En caso de alteración grave del orden en el interior de los establecimientos, el Director podrá ordenar a los funcionarios que hagan uso de las defensas de goma, esposas, ‟sprays” lacrimógenos, u otros medios análogos para el restablecimiento de aquél».

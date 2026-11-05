@@ -1,0 +1,3 @@
+## Disposición adicional primera. Cooperación administrativa.
+
+El Ministerio de Agricultura, Pesca y Alimentación, a través de la Secretaría General de Pesca, el Ministerio de Trabajo, Migraciones y Seguridad Social, a través del Instituto Social de la Marina, y el Ministerio de Fomento, a través de la Dirección General de Marina Mercante, cooperarán en esta materia con las comunidades autónomas, especialmente en materia de difusión y publicidad de la actividad, siendo estas las competentes para la regulación complementaria de la actividad de pesca-turismo que se desarrolle por los buques cuyo puerto base radique en sus territorios.

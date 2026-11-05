@@ -1,0 +1,9 @@
+## CAPÍTULO X
+
+## Modalidades de reembolso
+
+En los casos en que los cobros presenten un problema específico, el importe de los gastos sea importante o estén relacionados con la lucha contra la delincuencia organizada, las autoridades requirentes y requeridas podrán acordar modalidades específicas de reembolso. En España se designará, como mínimo, a un funcionario debidamente autorizado para acordar modalidades de reembolso con arreglo a lo dispuesto en este apartado.
+
+Cuando el Departamento de Recaudación, en calidad de autoridad requerida, decida solicitar la aplicación de modalidades de reembolso, notificará a la autoridad requirente, por escrito, las razones por las que considera que el cobro del crédito presenta un problema específico, supone costes muy elevados o está relacionado con la lucha contra la delincuencia organizada, añadiendo una valoración detallada de los costes cuyo reembolso solicita de la autoridad requirente. Si en un plazo de dos meses a partir de la fecha del acuse de recibo por la autoridad requirente, no se llegase a un acuerdo entre aquélla y el Departamento de Recaudación acerca de las modalidades de reembolso, el Departamento de Recaudación, en su condición de autoridad requerida, continuará los procedimientos de cobro de la manera habitual.
+
+Cuando el Departamento de Recaudación, en calidad de autoridad requirente, reciba solicitud escrita de la autoridad requerida relativa a la aplicación de modalidades específicas de reembolso por alguno de los motivos señalados en el apartado anterior, añadiendo una valoración detallada de los costes cuyo reembolso se solicita, acusará recibo por escrito de la solicitud, en la mayor brevedad posible y, en cualquier caso, en los siete días siguientes a la recepción de la misma, y en el plazo de dos meses a partir de la fecha del acuse de recibo, comunicará a la autoridad requerida si está de acuerdo, y en qué medida lo está, con las modalidades de reembolso propuestas.

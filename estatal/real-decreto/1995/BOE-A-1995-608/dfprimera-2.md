@@ -1,0 +1,3 @@
+## Disposición final primera. Efectos de la falta de resoluciones expresas.
+
+Las solicitudes de autorizaciones, dispensas y exenciones, así como las de habilitaciones de personal, reguladas en el presente Reglamento se podrán considerar desestimadas y se podrán interponer contra su desestimación los recursos procedentes, si no recaen sobre ellas resoluciones expresas dentro del plazo de tres meses y de la ampliación del mismo, en su caso, salvo que tengan plazos específicos establecidos en el presente Reglamento, a partir de la fecha en que la solicitud haya tenido entrada en cualquiera de los registros del órgano administrativo competente, sin perjuicio de la obligación de las autoridades competentes de resolver expresamente.

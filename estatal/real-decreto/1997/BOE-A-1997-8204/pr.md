@@ -1,0 +1,15 @@
+El artículo 3 de la Constitución Española dispone que el castellano es la lengua española oficial del Estado, y que todos los españoles tienen el deber de conocerla y el derecho a usarla. Este mismo precepto constitucional establece que las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas, de acuerdo con sus Estatutos.
+
+De conformidad con estos principios constitucionales, nuestro ordenamiento jurídico contempla, en diferentes disposiciones legales, la utilización de las lenguas oficiales de las diversas Comunidades Autónomas, tanto en las relaciones entre la Administración y los ciudadanos como en las relaciones jurídico-privadas. Así, el artículo 231 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, regula la utilización de cualquiera de las lenguas oficiales dentro de la Comunidad Autónoma, en todas las actuaciones judiciales, siempre y cuando no se produzca indefensión, y el artículo 36 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, permite que los interesados elijan la lengua oficial en la que se tramitará el procedimiento ante los órganos de la Administración General del Estado radicados en la correspondiente Comunidad Autónoma.
+
+En aplicación de los principios constitucionales expresados y en armonía con las pautas legales, antes reseñadas, parece aconsejable difundir y extender el conocimiento de la legislación del Estado mediante la utilización de aquellas otras lenguas que también tienen el carácter de oficiales en las diferentes Comunidades Autónomas.
+
+Esta medida debe ser compatible, por elementales razones de seguridad jurídica, con el principio de univocidad del Derecho.
+
+Dada la remisión expresa que la Constitución hace a los Estatutos de Autonomía como garantes de las lenguas oficiales de las diferentes Comunidades Autónomas, se considera conveniente facilitar la cooperación de éstas con la Administración General del Estado en todas las cuestiones relativas a la traducción, edición y distribución de los textos legales vertidos en las correspondientes lenguas vernáculas. A tal efecto, se contempla la posibilidad de suscribir convenios de colaboración, al amparo de lo establecido en el artículo 6 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+Debido a las dificultades objetivas que entraña la publicación de las disposiciones de carácter general en diferentes lenguas oficiales, se ha considerado prudente limitar inicialmente la medida al ámbito de las normas con rango de Ley. Contrastada esta primera experiencia, podrá considerarse la posibilidad de extender la medida a otras disposiciones de carácter reglamentario.
+
+En su virtud, a propuesta del Vicepresidente Primero del Gobierno y Ministro de la Presidencia y previa deliberación del Consejo de Ministros en su reunión del día 4 de abril de 1997,
+
+DISPONGO:

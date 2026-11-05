@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Sustitución del sistema de habilitación.
+
+Hasta un año después de la resolución de las últimas pruebas de habilitación convocadas, las universidades podrán decidir la convocatoria de plazas para los Cuerpos de Catedráticos de Universidad y de Profesores Titulares de Universidad mediante concurso de acceso entre habilitados comunicándolo a la Secretaría General del Consejo de Coordinación Universitaria, todo ello según lo dispuesto en el artículo 62 de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, y su normativa de desarrollo, que, a estos efectos, se considerará vigente.

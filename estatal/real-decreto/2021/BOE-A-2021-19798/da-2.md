@@ -1,0 +1,3 @@
+## Disposición adicional primera. Especialización logística y administrativa del personal de las escalas de suboficiales.
+
+La especialización necesaria para estar en condiciones de ejercer, a partir del empleo de brigada, funciones logísticas y administrativas, reguladas en el artículo 75.4 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, podrá tener la consideración de especialidad del segundo tramo, siendo competente para su determinación la persona titular de la Subsecretaría de Defensa y los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, en el ámbito de sus respectivas competencias, atendiendo a los cometidos asignados a cada cuerpo y escala.

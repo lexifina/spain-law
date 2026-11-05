@@ -1,0 +1,3 @@
+Por Orden de 12 de agosto de 1985 se reorganizó la Administración Territorial de la Hacienda Pública. Para una más adecuada gestión del patrimonio del Estado, se considera oportuno integrar los Servicios del Patrimonio del Estado, de reciente creación, en el ámbito de las Delegaciones de Hacienda Especiales, con objeto de que actúen como órganos de impulso y coordinación de las actividades de las Secciones del Patrimonio del Estado, siguiendo los planes y programas que elabore dicho Centro directivo.
+
+En su virtud, previa aprobación del Ministro para las Administraciones Públicas, he tenido a bien disponer:

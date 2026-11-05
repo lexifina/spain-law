@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Período en el que los laboratorios de reformas designados con anterioridad a la entrada en vigor de este real decreto podrán seguir emitiendo informes.
+
+En tanto no se produzca la designación de los servicios técnicos de reformas a que se refiere el artículo 9, los laboratorios de reformas designados a la entrada en vigor de este real decreto, durante un periodo máximo de un año a partir de esa fecha, podrán extender los informes a que se refiere el artículo 7.3.b) en virtud de lo establecido en el artículo 13 de la Ley 21/1992, de 16 de julio, de Industria.

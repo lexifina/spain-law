@@ -1,0 +1,5 @@
+## Disposición adicional primera. Modelo de documento informativo sobre las condiciones de trabajo.
+
+1. Sin perjuicio de la entrada en vigor de las obligaciones previstas en esta norma en los términos de la disposición final cuarta, el Ministerio de Trabajo y Economía Social, a través del Servicio Público de Empleo Estatal y en un plazo máximo de veinte días desde la publicación en el «Boletín Oficial del Estado» de este real decreto, pondrá a disposición de empresas y personas trabajadoras un modelo de documento informativo que recoja el contenido indicado en el artículo 3 y, cuando proceda, en los artículos 4 y 5. Este modelo será accesible, al menos, a través de su portal web oficial.
+
+2. La puesta a disposición del modelo de documento informativo no condicionará la exigibilidad de las obligaciones de información previstas en este real decreto. Hasta que dicho modelo sea publicado, las empresas deberán facilitar la información correspondiente en los términos establecidos en el artículo 6, por cualquier medio adecuado que garantice su constancia y accesibilidad para la persona trabajadora.

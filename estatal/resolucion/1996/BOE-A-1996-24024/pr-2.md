@@ -1,0 +1,3 @@
+## Primero.
+
+Con el fin de completar y actualizar la información contenida en el Inventario General de Bienes y Derechos del Estado —bienes inmuebles— y facilitar la elaboración de los estudios, propuestas e informes que corresponde realizar a la Junta Coordinadora de Edificios Administrativos, todos los Departamentos Ministeriales remitirán a dicho órgano colegiado información individualizada y por provincias de los bienes inmuebles, en propiedad y arrendamiento, afectados a los distintos fines y servicios de cada Ministerio, con indicación de su localización, superficie total y construida, en su caso, unidad o servicio al que está destinado y grado de ocupación o utilización del inmueble.

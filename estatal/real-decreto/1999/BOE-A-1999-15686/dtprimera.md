@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Fijación del capital social mínimo en la temporada 1999-2000.
+
+Durante el período correspondiente a la temporada 1999-2000, para la fijación del capital social mínimo de las sociedades anónimas deportivas, el sumando a que se refiere el apartado 2.a) del artículo 3 del presente Real Decreto, se determinará calculando el 25 por 100 de la media de los gastos realizados, incluyendo las amortizaciones, de todos los clubes o sociedades anónimas deportivas que participan en la respectiva competición, según los datos proporcionados por la liga profesional correspondiente relativos a la temporada anterior a su solicitud.

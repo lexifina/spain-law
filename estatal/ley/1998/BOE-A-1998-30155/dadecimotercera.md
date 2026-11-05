@@ -1,0 +1,3 @@
+## Disposición adicional decimotercera. Plazo para la adaptación de los compromisos por pensiones de las empresas con su personal a la Disposición Adicional Primera de la Ley 8/1987, de 8 de junio, de Regulación de los Planes y Fondos de Pensiones.
+
+Para la adaptación de los compromisos por pensiones de las empresas con su personal a la Disposición Adicional Primera de la Ley 8/1987, de 8 de junio, de Planes y Fondos de Pensiones, el plazo previsto en las Disposiciones Transitorias Decimocuarta, apartado 1, y Decimoquinta, apartados 1 y 2, de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, se extenderá hasta el 1 de enero del año 2001.

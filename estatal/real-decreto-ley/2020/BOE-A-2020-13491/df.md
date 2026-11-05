@@ -1,0 +1,21 @@
+## Disposición final primera. Modificación del Real Decreto-ley 7/2013, de 28 de junio, de medidas urgentes de naturaleza tributaria, presupuestaria y de fomento de la investigación, el desarrollo y la innovación.
+
+Se modifica el artículo 2 del Real Decreto-ley 7/2013, de 28 de junio, de medidas urgentes de naturaleza tributaria, presupuestaria y de fomento de la investigación, el desarrollo y la innovación, que queda redactado de la siguiente manera:
+
+«1. Son ejes de las actividades de interés general consideradas de interés social, y como tales serán tenidos en cuenta en la determinación de las bases reguladoras de las ayudas financiadas con el porcentaje fijado del rendimiento del Impuesto sobre la Renta de las Personas Físicas a otros fines de interés general considerados de interés social, los siguientes:
+
+a) La atención a las personas con necesidades de atención integral socio-sanitaria.
+
+b) La atención a las personas con necesidades educativas o de inserción laboral.
+
+c) El fomento de la seguridad ciudadana y prevención de la delincuencia.
+
+d) La protección del medio ambiente.
+
+e) La cooperación al desarrollo.
+
+f) El fomento y modernización del Tercer Sector de Acción Social.
+
+2. En el marco de los ejes fijados en el apartado anterior, y en ejecución de lo previsto en el artículo II del Acuerdo entre el Estado español y la Santa Sede sobre asuntos económicos, de 3 de enero de 1979, las cantidades a distribuir en el año 2013 y siguientes, obtenidas de la asignación del porcentaje del rendimiento del Impuesto sobre la Renta de las Personas Físicas para otros fines de interés social se destinarán a actividades de interés general, entendiendo por tales aquellas que contribuyan a mejorar la calidad de vida de las personas y de la sociedad en general y a proteger y conservar el entorno, que puedan ser declaradas reglamentariamente como de interés social. Dicho porcentaje será fijado anualmente en la Ley de Presupuestos Generales del Estado.
+
+Asimismo, podrán obtener ayudas económicas y subvenciones con cargo a los créditos que se destinen a otros fines de interés general, la Cruz Roja Española y demás entidades u organizaciones no gubernamentales que desarrollen las actividades a las que se refiere el apartado anterior.»

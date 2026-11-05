@@ -1,0 +1,27 @@
+El Parlamento Europeo y el Consejo aprobaron la Directiva 2014/94/UE de 22 de octubre de 2014, relativa a la implantación de una infraestructura para los combustibles alternativos.
+
+En cumplimiento de las obligaciones derivadas del Tratado de adhesión de España a la Unión Europea, así como de lo dispuesto en el artículo 11 de dicha Directiva 2014/94/UE del Parlamento Europeo y del Consejo, de 22 de octubre de 2014, es preciso dictar las disposiciones nacionales que incorporen las previsiones contenidas en esta Directiva.
+
+Por un lado, el presente real decreto tiene por objeto la trasposición parcial de la Directiva 2014/94/UE del Parlamento Europeo y del Consejo, de 22 de octubre de 2014, al ordenamiento jurídico español, regulando las medidas concretas para asegurar la creación de una infraestructura que garantice el suministro de electricidad, de hidrógeno y de gas natural en el sector transporte, así como la regulación de la necesaria información que debe suministrase a los usuarios.
+
+Por otro lado, el Acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos de 30 de julio de 2015, creó un grupo interministerial para la coordinación de la elaboración del marco de acción nacional para el desarrollo del mercado respecto a los combustibles alternativos en el sector del transporte y la implantación de la infraestructura correspondiente. Este grupo interministerial tiene como objetivo la elaboración del marco de acción nacional que se establece en la Directiva 2014/94/UE del Parlamento Europeo y del Consejo, de 22 de octubre de 2014, el cual culminará la transposición de esta Directiva.
+
+De este modo, este real decreto establece las medidas nacionales que, junto con el marco de acción nacional, permiten una reducción en la dependencia de los transportes respecto del petróleo, considerando, de acuerdo a la Comunicación de la Comisión Europea, de 24 de enero de 2013, titulada «Energía limpia para el transporte: Estrategia europea en materia de combustibles alternativos», la electricidad, el hidrógeno, los biocarburantes, el gas natural y el gas licuado del petróleo (GLP), así como su eventual uso simultáneo y combinado, por ejemplo mediante sistemas de tecnología mixta, los principales combustibles alternativos con potencial para sustituir al petróleo a largo plazo.
+
+La Directiva 2009/28/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa al fomento del uso de energías procedentes de fuentes renovables, fijó, para el año 2020, el objetivo de una cuota de mercado del 10% para las energías renovables en el transporte.
+
+El informe presentado el 6 de junio de 2012 por el Grupo de expertos de Alto Nivel CARS 21 destaca que la ausencia de una infraestructura armonizada a escala de la Unión Europea para los combustibles alternativos obstaculiza la comercialización de vehículos que utilicen tales combustibles y retrasa la consecución de sus beneficios medioambientales.
+
+Por consiguiente, además del marco de acción nacional, es necesario ofrecer a los usuarios de vehículos información clara y sencilla sobre los combustibles disponibles en las estaciones de repostaje y sobre la compatibilidad de su vehículo con los distintos combustibles o puntos de recarga existentes en el mercado, además de proporcionar a los usuarios de vehículos datos de la situación geográfica de los puntos de repostaje y de recarga accesibles al público de los combustibles alternativos, así como establecer las condiciones técnicas armonizadas para los puntos de suministro y recarga.
+
+En lo relativo a los puntos de recarga eléctricos, este real decreto se complementa además con el marco establecido para el desarrollo de la actividad de los gestores de cargas del sistema definidos en los artículos 6 y 48 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y en su norma reglamentaria de desarrollo, que sigue siendo el Real Decreto 647/2011, de 9 de mayo, por el que se regula la actividad de gestor de cargas del sistema para la realización de servicios de recarga energética.
+
+Durante la tramitación de este real decreto se ha efectuado el trámite de audiencia a las entidades representativas de los sectores afectados, con arreglo a lo previsto en el artículo 24.1.c) de la Ley 50/1997, de 27 de noviembre, de Gobierno. También han sido consultadas las comunidades autónomas.
+
+Por último, para dar cumplimiento a lo dispuesto en el artículo 11.3 de la Directiva 2014/94/UE del Parlamento Europeo y del Consejo, de 22 de octubre de 2014, la aprobación de este real decreto será comunicada a la Comisión Europea.
+
+Esta disposición se dicta al amparo de lo establecido en el artículo 149.1.13.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y de bases del régimen minero y energético, sin perjuicio de las competencias de las comunidades autónomas en materia de industria.
+
+En su virtud, a propuesta del Ministro de Economía, Industria y Competitividad, del Ministro de Hacienda y Función Pública, del Ministro del Interior, del Ministro de Fomento, del Ministro de Energía, Turismo y Agenda Digital y de la Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de diciembre de 2016,
+
+DISPONGO:

@@ -1,0 +1,3 @@
+## Artículo XI.
+
+A fin de fomentar la cooperación internacional en la exploración y utilización del espacio ultraterrestre con fines pacíficos, los Estados Partes en el Tratado que desarrollan actividades en el espacio ultraterrestre, incluso la Luna y de otros cuerpos celestes, convienen en informar, en la mayor medida posible dentro de lo viable y factible, al Secretario general de las Naciones Unidas, así como al público y a la comunidad científica internacional acerca de la naturaleza, marcha, localización y resultados de dichas actividades. El Secretario general de las Naciones Unidas debe estar en condiciones de difundir eficazmente tal información, inmediatamente después de recibirla.

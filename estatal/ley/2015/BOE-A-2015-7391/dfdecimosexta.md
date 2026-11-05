@@ -1,0 +1,5 @@
+## Disposición final decimosexta. Modificación de la disposición transitoria única de la Ley 33/2006, de 30 de octubre, sobre igualdad del hombre y la mujer en el orden de sucesión de los títulos nobiliarios.
+
+El apartado 3 de la disposición transitoria única queda redactado en los siguientes términos:
+
+«3. No obstante lo previsto por el apartado 1 de esta disposición transitoria, la presente Ley se aplicará a todos los expedientes relativos a Grandezas de España y títulos nobiliarios que el día 27 de julio de 2005 estuvieran pendientes de resolución administrativa o jurisdiccional, tanto en la instancia como en vía de recurso, así como a los expedientes que se hubieran promovido entre aquella fecha, en la cual se presentó la originaria proposición de Ley en el Congreso de los Diputados, y el 20 de noviembre de 2006, fecha de entrada en vigor de la presente Ley. La autoridad administrativa o jurisdiccional ante quien penda el expediente o el proceso concederá de oficio trámite a las partes personadas a fin de que aleguen lo que a su derecho convenga de conformidad con la nueva Ley en el plazo común de cinco días.»

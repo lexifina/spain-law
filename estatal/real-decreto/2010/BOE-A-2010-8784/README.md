@@ -1,0 +1,27 @@
+# Real Decreto 691/2010, de 20 de mayo, por el que se regula la Televisión Digital Terrestre en alta definición.
+
+- Identificador: BOE-A-2010-8784
+- Rango: Real Decreto
+- Fecha de disposición: 2010-05-20
+- Publicación: 2010-06-02
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2010-8784
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Repeal
+
+BOE records this act as repealed with effect from 2019-06-26. The recorded cause is disposición derogatoria única.1 del Real Decreto 391/2019, de 21 de junio (BOE-A-2019-9513). See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
+## Bloques
+
+- [no](no.md)
+- [preambulo](preambulo.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
+- [Artículo 4](a4.md)
+- [Disposición adicional única](daunica.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](dftercera.md)
+- [firma](firma.md)

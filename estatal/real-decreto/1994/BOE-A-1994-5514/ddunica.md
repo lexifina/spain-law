@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo determinado en este Real Decreto y en particular las Ordenes de 11 de marzo de 1987, por la que se fijan los límites máximos de residuos de plaguicidas en productos vegetales, y de 27 de octubre de 1989, sobre límites máximos de residuos de plaguicidas en productos vegetales, del Ministerio de Relaciones con las Cortes y de la Secretaría del Gobierno, y la Orden de 20 de julio de 1990, por la que se implanta el programa nacional de vigilancia de residuos de productos fitosanitarios en origen, del Ministerio de Agricultura, Pesca y Alimentación.

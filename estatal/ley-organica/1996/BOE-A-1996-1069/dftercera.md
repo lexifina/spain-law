@@ -1,0 +1,7 @@
+## Disposición final tercera.
+
+El artículo 149 del Código Civil, tendrá la siguiente redacción:
+
+«El obligado a prestar alimentos podrá, a su elección, satisfacerlos, o pagando la pensión que se fije, o recibiendo y manteniendo en su propia casa al que tiene derecho a ellos.
+
+Esta elección no será posible en cuanto contradiga la situación de convivencia determinada para el alimentista por las normas aplicables o por resolución judicial. También podrá ser rechazada cuando concurra justa causa o perjudique el interés del alimentista menor de edad.»

@@ -1,0 +1,3 @@
+## Disposición final primera. Relación del plan de saneamiento y otras obligaciones previstas en el título I de esta norma con los planes previstos en la normativa reguladora de las haciendas locales y de estabilidad presupuestaria.
+
+Los planes de saneamiento y las obligaciones formales reguladas en el título I de la presente norma deberán elaborarse, presentarse y evaluarse de forma independiente de los restantes planes y obligaciones previstos en el texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto legislativo 2/2004, de 5 de marzo, y en el texto refundido de la Ley General de Estabilidad Presupuestaria, aprobado por Real Decreto Legislativo 2/2007, de 28 de diciembre, que permanecen vigentes.

@@ -1,0 +1,9 @@
+## Artículo 578.
+
+1. Transcurridos, en su caso, los plazos señalados en el artículo anterior, el Presidente del Tribunal Supremo y del Consejo General del Poder Judicial remitirá las candidaturas definitivamente admitidas a los Presidentes del Congreso y del Senado, a fin de que ambas Cámaras procedan a la designación de los Vocales del turno judicial conforme a lo previsto en el artículo 567 de la presente Ley Orgánica.
+
+2. En la designación de los Vocales del turno judicial, las Cámaras tomarán en consideración el número existente en la carrera judicial, en el momento de proceder a la renovación del Consejo General del Poder Judicial, de Jueces y Magistrados no afiliados y de afiliados a cada una de las distintas Asociaciones judiciales.
+
+3. La designación de los doce Vocales del Consejo General del Poder Judicial del turno judicial deberá respetar, como mínimo, la siguiente proporción: tres Magistrados del Tribunal Supremo; tres Magistrados con más de veinticinco años de antigüedad en la carrera judicial y seis Jueces o Magistrados sin sujeción a antigüedad. Si no existieren candidatos a Vocales dentro de alguna de las mencionadas categorías, la vacante acrecerá el cupo de la siguiente por el orden establecido en este precepto.
+
+> Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Inaplicabilidad de la Orden Ministerial de 20 de enero de 1995.
+
+Teniendo presente lo dispuesto en la disposición derogatoria única de la Orden CUL/1077/2011, de 25 de abril, desde la entrada en vigor de la presente resolución, no será de aplicación al Museo Nacional Centro de Arte Reina Sofía, la Orden de 20 de enero de 1995 del Ministerio de Cultura, por la que se regulaba la utilización de espacios de Museos y otras Instituciones y se establecían los precios públicos de determinados servicios prestados por los Centros Directivos y Organismos Autónomos del Ministerio de Cultura.

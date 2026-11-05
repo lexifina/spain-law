@@ -1,0 +1,31 @@
+## Disposición final tercera. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+Uno. El artículo 517 queda redactado del siguiente modo:
+
+> «Artículo 517. Acción ejecutiva. Títulos ejecutivos.
+
+> 1. La acción ejecutiva deberá fundarse en un título que tenga aparejada ejecución.
+
+> 2. Solo tendrán aparejada ejecución los siguientes títulos:
+
+> 1.º La sentencia de condena firme.
+
+> 2.º Los laudos o resoluciones arbitrales y los acuerdos de mediación, debiendo estos últimos haber sido elevados a escritura pública de acuerdo con la Ley de mediación en asuntos civiles y mercantiles.
+
+> 3.º Las resoluciones judiciales que aprueben u homologuen transacciones judiciales y acuerdos logrados en el proceso, acompañadas, si fuere necesario para constancia de su concreto contenido, de los correspondientes testimonios de las actuaciones.
+
+> 4.º Las escrituras públicas, con tal que sea primera copia; o si es segunda que esté dada en virtud de mandamiento judicial y con citación de la persona a quien deba perjudicar, o de su causante, o que se expida con la conformidad de todas las partes.
+
+> 5.º Las pólizas de contratos mercantiles firmadas por las partes y por corredor de comercio colegiado que las intervenga, con tal que se acompañe certificación en la que dicho corredor acredite la conformidad de la póliza con los asientos de su libro registro y la fecha de estos.
+
+> 6.º Los títulos al portador o nominativos, legítimamente emitidos, que representen obligaciones vencidas y los cupones, también vencidos, de dichos títulos, siempre que los cupones confronten con los títulos y éstos, en todo caso, con los libros talonarios.
+
+> La protesta de falsedad del título formulada en el acto de la confrontación no impedirá, si ésta resulta conforme, que se despache la ejecución, sin perjuicio de la posterior oposición a la ejecución que pueda formular el deudor alegando falsedad en el título.
+
+> 7.º Los certificados no caducados expedidos por las entidades encargadas de los registros contables respecto de los valores representados mediante anotaciones en cuenta o por las entidades responsables de la administración de la inscripción y registro respecto de los valores representados mediante sistemas basados en tecnología de registros distribuidos a los que se refiere la Ley del Mercado de Valores, siempre que se acompañe copia de la escritura pública de representación de los valores o, en su caso, de la emisión, cuando tal escritura sea necesaria, conforme a la legislación vigente.
+
+> Instada y despachada la ejecución, no caducarán los certificados a que se refiere el párrafo anterior.
+
+> 8.° El auto que establezca la cantidad máxima reclamable en concepto de indemnización, dictado en los supuestos previstos por la ley en procesos penales incoados por hechos cubiertos por el Seguro Obligatorio de Responsabilidad Civil derivada del uso y circulación de vehículos de motor.
+
+> 9.º Las demás resoluciones procesales y documentos que, por disposición de esta u otra ley, lleven aparejada ejecución.»

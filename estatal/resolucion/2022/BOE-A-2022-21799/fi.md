@@ -1,0 +1,3 @@
+Esta resolución pone fin a la vía administrativa y puede interponerse contra ella recurso contencioso-administrativo ante la Audiencia Nacional, en el plazo de dos meses a contar desde el día siguiente al de su publicación en el BOE, de conformidad con lo establecido en la disposición adicional cuarta, 5, de la Ley 29/1998, de 13 de julio. Se hace constar que frente a la presente resolución no cabe interponer recurso de reposición, de conformidad con lo establecido en el artículo 36.2 de la Ley 3/2013, de 4 de junio, de creación de la CNMC.
+
+Madrid, 15 de diciembre de 2022.–El Secretario del Consejo de la Comisión Nacional de los Mercados y la Competencia, Miguel Bordiú García-Ovies.

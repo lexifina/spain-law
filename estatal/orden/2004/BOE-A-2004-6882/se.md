@@ -1,0 +1,3 @@
+## Segundo. Planificación de Cursos.
+
+Por la Subsecretaría de Defensa,a través de la Subdirección General de Enseñanza Militar y, en su caso,los Jefes de Estado Mayor de los Ejércitos a través de los Directores de Enseñanza, en coordinación con la Dirección General de la Guardia Civil mediante la Jefatura de Enseñanza, se elaborará la planificación de cursos y la correspondiente reserva de plazas en los Centros dependientes del Ministerio de Defensa para miembros de la Guardia Civil, así como la reserva de plazas en Centros dependientes del Cuerpo de la Guardia Civil para miembros de las Fuerzas Armadas.

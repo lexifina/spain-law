@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Plataforma europea para el intercambio de la energía de balance procedente de reservas de sustitución (Balit).
+
+Hasta el inicio de la operación de la plataforma de servicios transfronterizos de balance prevista en el artículo 19 del Reglamento (UE) 2017/2195 para el intercambio de las energías de balance procedentes de reservas de sustitución, resultará de aplicación lo previsto en la Resolución de la Comisión Nacional de los Mercados y la Competencia, de 6 de junio de 2018, por el que se aprueban las especificaciones y procedimientos de desarrollo de la metodología de subastas regionales intradiarias complementarias entre España y Portugal prevista en el artículo 63 del Reglamento (UE) 2015/1222.

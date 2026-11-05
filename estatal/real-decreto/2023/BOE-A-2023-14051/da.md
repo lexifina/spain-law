@@ -1,0 +1,7 @@
+## Disposición adicional primera. Protección de datos de carácter personal.
+
+El tratamiento de los datos personales en virtud de esta norma se realiza en cumplimiento del ejercicio de una actuación de interés público conforme a lo dispuesto en el artículo 33 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre, y en el artículo 6.1, apartado e), del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento General de Protección de Datos).
+
+Conforme a lo dispuesto al artículo 13 del Reglamento General de Protección de Datos, corresponde a la Dirección General de Consumo actuar como órgano responsable del tratamiento.
+
+Para el tratamiento de los datos personales, se aplicarán las medidas de gestión previstas en el Reglamento General de Protección de Datos. Estas incluyen la recogida de los datos de acuerdo con el principio de minimización, la conservación de estos durante el tiempo estrictamente necesario para alcanzar las finalidades para las que fueron recabados y la adecuación a los requisitos del Esquema Nacional de Seguridad.

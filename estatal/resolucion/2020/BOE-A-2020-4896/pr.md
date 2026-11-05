@@ -1,0 +1,1 @@
+De conformidad con lo dispuesto en el artículo 116.2 de la Constitución, y a la vista de la solicitud comunicada mediante Acuerdo del Consejo de Ministros de 5 de mayo de 2020, el Congreso de los Diputados, en su sesión del día de hoy, acordó autorizar la prórroga del estado de alarma declarado por el Real Decreto 463/2020, de 14 de marzo, en los siguientes términos:

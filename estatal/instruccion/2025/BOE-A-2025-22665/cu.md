@@ -1,0 +1,3 @@
+## Cuarto.
+
+Quedan sin efecto las Instrucciones de la Junta Electoral Central, 5/2007, de 12 de abril, sobre aplicación de los artículos 44.bis y 187.2 de la LOREG en la redacción dada por la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres y 8/2007, de 19 de abril, sobre interpretación del trámite de subsanación de irregularidades previsto en el artículo 48.1 de la LOREG por incumplimiento de los requisitos de los artículos 44.bis y 187.2 de la LOREG, en su redacción dada por la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.

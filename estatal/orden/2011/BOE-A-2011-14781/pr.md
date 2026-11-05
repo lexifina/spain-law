@@ -1,0 +1,15 @@
+El control metrológico del Estado sobre diversos instrumentos de medida se rige por una serie de órdenes que transponen a nuestro ordenamiento jurídico un conjunto de directivas, algunas de las cuales se adoptaron teniendo como fundamento la Directiva 71/316/CEE del Consejo, de 26 de julio de 1971, relativa a la aproximación de las legislaciones de los Estados miembros sobre las disposiciones comunes a los instrumentos de medida ya los métodos de control metrológico.
+
+Esta directiva se ha modificado de forma sustancial en distintas ocasiones, por lo que ya fue refundida mediante la Directiva 2009/34/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, sobre las disposiciones comunes a los instrumentos de medida y a los métodos de control metrológico.
+
+Recientemente se ha dictado la Directiva 2011/17/UE del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, por la que se derogan las Directivas 71/317/CEE, 71/347/CEE, 71/349/CEE, 74/148/CEE, 75/33/CEE, 76/765/CEE, 76/766/CEE y 86/217/CEE, del Consejo, relativas a la metrología, que deja sin efectos una serie de regulaciones específicas que han quedado técnicamente desfasadas, no reflejan el estado actual de la tecnología de medición, o se refieren a instrumentos que no están sujetos a avances tecnológicos y que cada vez se utilizan menos.
+
+Cada una de las mencionadas directivas que han sido objeto de derogación por la Directiva 2011/17/UE del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, tuvo su transposición a nuestro ordenamiento mediante una serie de órdenes ministeriales que regulan diversos instrumentos de medida, y que son las órdenes que ahora se derogan.
+
+La presente orden ministerial tiene por objeto la transposición a nuestro ordenamiento jurídico de la citada Directiva 2011/17/UE del Parlamento Europeo y del Consejo, de 9 de marzo de 2011, por la que se derogan las Directivas 71/317/CEE, 71/347/CEE, 71/349/CEE, 74/148/CEE, 75/33/CEE, 76/765/CEE, 76/766/CEE y 86/217/CEE, del Consejo, relativas a metrología, derogando las correspondientes órdenes ministeriales y estableciendo una entrada en vigor escalonada, siguiendo las indicaciones de la propia Directiva 2011/17/UE.
+
+Para la elaboración de la orden han sido consultadas las Comunidades Autónomas y se ha realizado el preceptivo trámite de audiencia a los interesados. Asimismo ha informado favorablemente el Consejo Superior de Metrología.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1.12.ª de la Constitución, que atribuye al Estado, como competencia exclusiva, la legislación de pesas y medidas y actuando la habilitación reglamentaria prevista en la disposición final segunda del Real Decreto 889/2006, de 21 de julio, por el que se regula el control metrológico del Estado sobre instrumentos de medida, que habilita al Ministro de Industria, Turismo y Comercio a dictar las disposiciones necesarias para su aplicación y desarrollo, toda vez que la presente orden deroga normas de su mismo rango reguladoras del control metrológico de diversos instrumentos de medida.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:

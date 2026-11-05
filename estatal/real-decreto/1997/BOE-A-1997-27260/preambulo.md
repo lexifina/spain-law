@@ -1,0 +1,15 @@
+El Real Decreto 1132/1990, de 14 de septiembre, por el que se establecen medidas fundamentales de protección radiológica de las personas sometidas a exámenes y tratamientos médicos, incorporó al ordenamiento jurídico español la Directiva del Consejo 84/466/EURATOM, de 3 de septiembre, sobre protección radiológica del paciente.
+
+El artículo 4 de dicho Real Decreto dispuso la vigilancia estricta, por parte de las autoridades sanitarias, de las instalaciones médicas en las que se utilizan radiaciones ionizantes, con el fin de que las exposiciones de los pacientes se realicen en condiciones óptimas de protección radiológica. Un primer paso para facilitar dicha vigilancia lo constituye el Real Decreto 2071/1995, de 22 de diciembre, por el que se establecen los criterios de calidad en radiodiagnóstico.
+
+La presente norma, que viene a complementar el anteriormente mencionado Real Decreto 2071/1995, se refiere a los métodos de medicina nuclear «in vivo», ya que se trata de una disposición de desarrollo relativa a la protección del paciente, y exige la implantación de un programa de garantía de calidad en las unidades asistenciales de medicina nuclear, sin perjuicio de lo dispuesto en el Real Decreto 479/1993, de 2 de abril, por el que se regulan los medicamentos radiofármacos de uso humano.
+
+Igualmente en esta norma se tiene en consideración la nueva situación derivada de la aprobación del Real Decreto 220/1997, de 14 de febrero, por el que se crea y regula la obtención del título oficial de especialista en radiofísica hospitalaria, de acuerdo con lo dispuesto en el artículo 5 del Real Decreto 1132/1990, antes citado, y las disposiciones contenidas en la Directiva del Consejo 97/43/EURATOM, de 30 de junio, relativa a la protección de la salud frente a los riesgos derivados de las radiaciones ionizantes en exposiciones médicas, por la que se sustituye la Directiva del Consejo 84/466/EURATOM, de 3 de septiembre, que quedará derogada a partir del 13 de mayo del año 2000.
+
+Por otra parte, la Ley 14/1986, de 25 de abril, General de Sanidad, en su artículo 40.7 y en la disposición final cuarta obliga a establecer los requisitos mínimos para la aprobación y homologación de las instalaciones de centros y servicios y a valorar, por parte de la Administración sanitaria, según el artículo 110, la seguridad, eficacia y eficiencia de las tecnologías relevantes para la salud y asistencia sanitaria.
+
+De acuerdo con lo anterior, y para establecer los criterios de calidad en medicina nuclear, se dicta este Real Decreto, con el carácter de norma básica sanitaria, que tiene por objeto fijar los procedimientos necesarios para dar cumplimiento a lo previsto en el artículo 4 del Real Decreto 1132/1990, en lo relativo a las instalaciones de medicina nuclear.
+
+En su virtud, a propuesta del Ministro de Sanidad y Consumo, con el informe favorable del Consejo de Seguridad Nuclear, oídos los sectores afectados, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de diciembre de 1997,
+
+DISPONGO:

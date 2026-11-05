@@ -1,0 +1,3 @@
+## Decimoquinto. Disposición derogatoria.
+
+Quedan derogadas la Resolución de 29 de julio de 2008, del Consejo Superior de Deportes, por la que se desarrolla el procedimiento de voto electrónico previsto en la Orden ECI/3567/2007, de 4 de diciembre, y la circular de 17 de noviembre de 2008, del Consejo Superior de Deportes, por la que se determinan las condiciones técnicas y condiciones de homologación de los elementos del voto electrónico recogidos en la Resolución del Consejo Superior de Deportes de 29 de julio de 2008, por la que se desarrolla el procedimiento de voto electrónico previsto en la Orden ECI/3567/2007, de 4 de diciembre.

@@ -1,0 +1,3 @@
+## TÍTULO I
+
+## Transposición de la Directiva (UE) 2018/1910 del Consejo, de 4 de diciembre de 2018, por la que se modifica la Directiva 2006/112/CE en lo que se refiere a la armonización y la simplificación de determinadas normas del régimen del impuesto sobre el valor añadido en la imposición de los intercambios entre los Estados miembros, y la Directiva (UE) 2019/475 del Consejo, de 18 de febrero de 2019, por la que se modifican las Directivas 2006/112/CE y 2008/118/CE en lo que respecta a la inclusión del municipio italiano de Campione d’Italia y las aguas italianas del lago de Lugano en el territorio aduanero de la Unión y en el ámbito de aplicación territorial de la Directiva 2008/118/CE

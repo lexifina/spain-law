@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Plantas de regasificación ubicadas en el archipiélago canario.
+
+Lo dispuesto en el apartado 3 del artículo 55 de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, en la redacción dada por la disposición final cuarta del Real decreto-ley 6/2022, de 29 de marzo, por el que se adoptan medidas urgentes en el marco del Plan Nacional de respuesta a las consecuencias económicas y sociales de la guerra en Ucrania, se aplicará conforme a los objetivos y fines en materia de transición energética que establezcan, para Canarias, la Administración General del Estado y la administración de la Comunidad Autónoma de Canarias, en el ámbito de sus respectivas competencias.

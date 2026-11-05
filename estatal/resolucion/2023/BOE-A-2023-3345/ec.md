@@ -1,0 +1,5 @@
+## El Código.
+
+El Código es el documento fundamental y universal en el que se basa el Programa Mundial Antidopaje en el deporte. El objeto del Código es promover la lucha contra el dopaje mediante la armonización universal de los principales elementos relacionados con la lucha antidopaje. El Código debe ser lo suficientemente preciso para lograr una armonización completa de cuestiones en las que se requiere uniformidad, aunque también lo bastante general en otras áreas para permitir una cierta flexibilidad en lo que respecta a la forma de aplicación de los principios antidopaje acordados. El Código ha sido redactado teniendo debidamente en consideración el principio de proporcionalidad y los derechos humanos.(1)
+
+(1) [Comentario: Tanto la Carta Olímpica como la Convención Internacional contra el Dopaje en el Deporte de 2005 aprobada en París el 19 de octubre de 2005 («Convención de la UNESCO») señalan que la prevención y la lucha contra el dopaje en el deporte constituyen un aspecto esencial de la misión del Comité Olímpico Internacional y de la UNESCO, además de reconocer el papel fundamental que desempeña el Código.]

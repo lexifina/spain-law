@@ -1,0 +1,29 @@
+El Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales, modificado por el Real Decreto 1230/2023, de 29 de diciembre, ha creado el Ministerio para la Transformación Digital y de la Función Pública. El Ministerio cuenta con tres órganos superiores: la Secretaría de Estado de Digitalización e Inteligencia Artificial, la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales y la Secretaría de Estado de Función Pública.
+
+Asimismo, el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, configura los órganos superiores y directivos de cada departamento.
+
+Procede ahora desarrollar la estructura orgánica básica del Ministerio para la Transformación Digital y de la Función Pública, determinando sus órganos superiores y directivos hasta el nivel orgánico de subdirección general y definiendo las competencias de cada uno de estos órganos.
+
+En el articulado se desarrollan dichos órganos superiores y directivos, así como las competencias de cada uno.
+
+En las disposiciones adicionales se regula el régimen de suplencia, la delegación y desconcentración de competencias y la supresión de órganos, así como la revisión de la clasificación de entidades del sector público empresarial y fundacional de carácter tecnológico o científico.
+
+Las disposiciones transitorias regulan la situación de las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general, la gestión temporal de medios y servicios y a los órganos de asistencia en la contratación, así como el régimen transitorio vinculado a la supresión de la Comisión Interministerial de Retribuciones.
+
+La disposición derogatoria deroga las disposiciones de rango igual o inferior que se opongan a lo establecido en el real decreto, así como, en lo que se oponga a este Real Decreto, los reales decretos 403/2020, de 25 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Asuntos Económicos y Transformación Digital, y 682/2021, de 3 de agosto, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda y Función Pública. Se deroga asimismo el Real Decreto 469/1987, de 3 de abril, por el que se articulan las competencias conjuntas atribuidas al Ministerio para las Administraciones Públicas y al Ministerio de Economía y Hacienda. Se pone con ello fin al régimen de competencias compartidas entre los Ministerios de Hacienda y para la Transformación Digital y de la Función Pública, de modo que se permita una mejor delimitación de los ámbitos de actuación de ambos ministerios, mediante una identificación del ámbito del sector público institucional en el que cada uno de los departamentos asume sus respectivas competencias, con el fin trabajar conjuntamente en la transformación del modelo de recursos humanos en un modelo basado en la gestión por competencias, tal y como se establece en las reformas comprometidas en el Plan de Recuperación, Transformación y Resiliencia.
+
+La disposición final primera añade una nueva atribución a la Comisión Superior de Personal, con el fin de que puedan atribuirse a este órgano colegiado competencias para adoptar las medidas de coordinación necesarias con el fin de asegurar un enfoque coherente de la planificación de recursos humanos de ámbito general, específica y de reestructuración sobre la base de instrumentos comunes, en el marco de las reformas comprometidas por el Plan de Recuperación, Transformación y Resiliencia.
+
+Mediante la disposición final segunda se modifica el Real Decreto del extinto Ministerio de Asuntos Económicos y Transformación Digital al objeto de asignarle el Instituto para la Evaluación de Políticas Públicas al actual Ministerio de Economía, Comercio y Empresa.
+
+Mediante la disposición final tercera se modifica el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, al objeto de adaptarlo a las modificaciones organizativas derivadas del Real Decreto 1230/2023, de 29 de diciembre, por el que se modifica el Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales, así como para incorporar la Dirección General del Dato como órgano directivo dependiente de la Secretaría de Estado de Digitalización e Inteligencia Artificial.
+
+La disposición final cuarta se refiere al mandato para la modificación del Real Decreto 451/2012, de 5 de marzo, por el que se regula el régimen retributivo de los máximos responsables y directivos en el sector público empresarial y otras entidades.
+
+Las disposiciones finales quinta y sexta son relativas a las facultades de desarrollo y ejecución y a la entrada en vigor.
+
+Este real decreto es coherente con los principios de buena regulación a que se refiere el artículo 129 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas. En concreto, cumple con los principios de necesidad y eficacia, pues se trata del instrumento más adecuado para garantizar el interés general y la efectiva ejecución de las políticas públicas del Gobierno en la materia. También se adecua al principio de proporcionalidad, pues no existe otra alternativa para crear un nuevo marco orgánico de este departamento. En cuanto a los principios de seguridad jurídica, transparencia y eficiencia, dicha norma se adecua a los mismos pues es coherente con el resto del ordenamiento jurídico, y se racionaliza, en su aplicación, la gestión de los recursos públicos.
+
+En su virtud, a propuesta del Ministro para la Transformación Digital y de la Función Pública, previa deliberación del Consejo de Ministros en su reunión del día 27 de febrero de 2024,
+
+DISPONGO:

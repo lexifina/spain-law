@@ -1,0 +1,3 @@
+## Disposición final tercera. Alcance de la remisión del Real Decreto-ley 7/2013, de 28 de junio, de medidas urgentes de naturaleza tributaria, presupuestaria y de fomento de la investigación, el desarrollo y la innovación a las actividades de interés general a la normativa de voluntariado.
+
+A partir de la entrada en vigor de la presente Ley, la remisión que efectúa el Real Decreto Ley 7/2013, de 28 de junio, de medidas urgentes de naturaleza tributaria, presupuestaria y de fomento de la investigación, el desarrollo y la innovación, a la Ley 6/1996, de 15 de enero del Voluntariado, deberá entenderse realizada a la presente Ley.

@@ -1,0 +1,3 @@
+## Primero. Objeto.
+
+El objeto de la presente orden es el establecimiento de las bases comunes para la evaluación de la actividad investigadora del personal investigador funcionario de las escalas científicas de los Organismos Públicos de Investigación de la Administración General del Estado, prevista en el artículo 6.1. del Real Decreto 310/2019, de 26 de abril, por el que se regula el régimen retributivo del personal investigador funcionario de las escalas científicas de los Organismos Públicos de Investigación de la Administración General del Estado y se crea la Comisión Evaluadora del Desempeño de la Actividad Científico-Tecnológica.

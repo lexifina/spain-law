@@ -1,0 +1,3 @@
+## DISPOSICION ADICIONAL
+
+Reglamentariamente se determinarán las condiciones para la instalación de las antenas, asegurándose la idoneidad del emplazamiento de las instalaciones de la estación, así como sus condiciones de seguridad y garantizando que la misma no ocasione perjuicios a los elementos privativos y comunes o al uso de los mismos por los propietarios o titulares de derechos sobre el inmueble. De igual forma se establecerán los requisitos administrativos, las prescripciones técnicas y cuantas especificaciones sean necesarias, quedando garantizado en todo caso el derecho de los terceros usuarios del espacio radioeléctrico.

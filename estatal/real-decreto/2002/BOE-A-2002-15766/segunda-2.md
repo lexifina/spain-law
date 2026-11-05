@@ -1,0 +1,3 @@
+## Disposición final segunda. Modificación de la etiqueta.
+
+Sin perjuicio de la modificación del presente Real Decreto cuando por la Comunidad Europea se proceda a la modificación de la Directiva 1999/94/CE, de 13 de diciembre, los Ministros de Sanidad y Consumo, de Ciencia y Tecnología y de Medio Ambiente, en el ámbito de sus competencias, una vez transcurridos dos años desde la entrada en vigor de este Real Decreto y a la luz de la experiencia y de los resultados obtenidos en su aplicación, procederán, en su caso, mediante propuesta conjunta, a la revisión del contenido de la etiqueta que se describe en el anexo I del mismo.

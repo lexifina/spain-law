@@ -1,0 +1,3 @@
+## Primera. Objeto del Convenio.
+
+El objeto del presente Convenio es establecer la colaboración entre las partes firmantes a fin de calificar al Instituto Galego de Formación en Acuicultura (I.G.A.F.A.) como Centro de Referencia Nacional en el área profesional de Acuicultura y en el área profesional de Buceo de la familia profesional Marítimo pesquera en el ámbito de la formación profesional, en adelante, de forma abreviada, Centro de Referencia Nacional de Acuicultura y Buceo, para la innovación y experimentación en materia de formación profesional, y la coordinación de las facultades y actuaciones que competen a la Administración General del Estado y a la Comunidad Autónoma de Galicia.

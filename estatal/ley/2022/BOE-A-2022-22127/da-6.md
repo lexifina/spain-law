@@ -1,0 +1,3 @@
+## Disposición adicional sexta.
+
+El Ministerio de Agricultura, Pesca y Alimentación incluirá en el Plan Estatal de la PAC compensar y cubrir los costes adicionales y de los nuevos requisitos (de gestión integrada de plagas, los registros en cuadernos de campo digitales, controles mecánicos, biológicos o química de bajo riesgo y cualesquiera otros previstos en esta ley) en los que incurran los productores en los próximos años, de forma que eviten un incremento en los precios como consecuencia de las nuevas normativas o plagas para las que no existen suficientes alternativas ecológicas, así como que se promueva desde la PAC el fomento de las cadenas de suministro cortas, cuando se dispone de producción local.

@@ -1,0 +1,7 @@
+## Disposición adicional única. Fijación del salario mínimo interprofesional para 2018 y reglas de afectación de las nuevas cuantías del salario mínimo interprofesional en 2018, 2019 y 2020.
+
+1. El Gobierno fijará, de acuerdo con lo establecido en el artículo 27.1 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, el salario mínimo interprofesional para 2018 con un incremento del cuatro por ciento respecto del establecido por el Real Decreto 742/2016, de 30 de diciembre, por el que se fija el salario mínimo interprofesional para 2017.
+
+2. Asimismo, el Gobierno determinará las reglas de afectación de este incremento y de los que se aprueben en 2018 y en 2019 a las referencias al salario mínimo interprofesional contenidas en los convenios colectivos vigentes a 26 de diciembre de 2017, así como en normas no estatales y en contratos y pactos de naturaleza privada vigentes a 1 de enero del 2018.
+
+3. Lo dispuesto en el apartado anterior se entiende sin perjuicio de que deban ser modificados los salarios establecidos en convenio colectivo y en contratos o pactos de naturaleza privada inferiores en su conjunto y en cómputo anual a las cuantías del salario mínimo interprofesional vigente en cada momento en la cuantía necesaria para asegurar la percepción de dichas cuantías, siendo de aplicación las reglas sobre compensación y absorción que se establecen en los reales decretos por los que anualmente se fija el salario mínimo.

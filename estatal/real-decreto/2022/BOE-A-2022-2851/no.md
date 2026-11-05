@@ -1,0 +1,1 @@
+Téngase en cuenta que, con fecha 15 de febrero de 2023, se ha publicado el Real Decreto 99/2023, de 14 de febrero, por el que se fija el salario mínimo interprofesional para 2023, con efectos de 1 de enero de 2023. Ref. BOE-A-2023-3982

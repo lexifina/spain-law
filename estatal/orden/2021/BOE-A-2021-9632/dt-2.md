@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Repetición de curso.
+
+El alumnado que, cursando el plan de estudios aprobado por la Orden PRE/1478/2006, de 5 de mayo, por la que se aprueba el plan de estudios de la enseñanza de formación para la incorporación a la Escala de Cabos y Guardias del Cuerpo de la Guardia Civil, no progrese, y permanezca en un curso en el que ya se encuentre implantado el plan de estudios de la enseñanza de formación que se establece en la presente, deberá cursar las materias y asignaturas previstas en esta orden y se integrará en la promoción siguiente, siéndole de aplicación cuanto se dispone en esta orden, siempre y cuando cumpla los requisitos de acceso a este último plan de estudios, causando baja en el centro docente en caso contrario.

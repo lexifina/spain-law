@@ -1,0 +1,3 @@
+## Disposición adicional primera. Reconocimiento de trienios.
+
+Los trienios que se hubieran perfeccionado en cualquiera de las Escalas Ejecutiva, Subinspección o Básica antes del 20 de octubre de 1994 en el caso de la Escala Ejecutiva, y del 30 de diciembre de 1995 en el caso de las Escalas de Subinspección y Básica, se valorarán de acuerdo con el subgrupo de clasificación al que pertenecía el funcionario, de entre los previstos en su momento en el artículo 25 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública. Dicha valoración se tendrá en cuenta a efectos reguladores de derechos pasivos.

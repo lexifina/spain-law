@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Mínimas de visibilidad en condiciones meteorológicas de vuelo visual.
+
+Las autorizaciones concedidas para operar con visibilidades de vuelo inferiores a los 5 km previstos en SERA.5001 para los espacios F y G, en una banda de altitud de 900 m (3.000 ft) AMSL o por debajo, o de 300 m (1.000 ft) sobre el terreno, el valor que resulte mayor, conservarán su eficacia tras la entrada en vigor de este real decreto y en tanto no se modifiquen las condiciones que determinaron su autorización o, en su caso, ésta sea revocada, previa audiencia del interesado, por la Agencia Estatal de Seguridad Aérea.

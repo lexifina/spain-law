@@ -1,0 +1,3 @@
+## Disposición adicional tercera.
+
+El tiempo de asistencia a las actividades formativas y de capacitación enmarcadas dentro de este Acuerdo se considerará tiempo de trabajo a todos los efectos, cuando dichas acciones se desarrollen dentro del horario de trabajo. Cuando la asistencia de los empleados públicos a este tipo de cursos tenga lugar fuera de la jornada laboral y sea autorizada por las Administraciones públicas, será de aplicación lo dispuesto en el artículo 115 del Texto refundido de la Ley General de la Seguridad Social, y las normas correspondientes que procedan en cada caso para el personal adscrito a las diferentes mutualidades (MUFACE, MUGEJU e ISFAS), a efectos de protección por accidente laboral.

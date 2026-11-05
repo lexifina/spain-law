@@ -1,0 +1,13 @@
+## Artículo 160 bis. Inscripción del traslado del domicilio de una sociedad anónima europea a otro Estado miembro.
+
+1. En el traslado de domicilio de una sociedad anónima europea domiciliada en España a otro Estado miembro de la Unión Europea, el Registrador del domicilio social, una vez que tenga por efectuado el depósito del proyecto de traslado, lo comunicará, en el plazo de cinco días, al Ministerio de Justicia, a la Comunidad Autónoma donde la sociedad anónima tenga su domicilio social y, en su caso, a la autoridad de vigilancia correspondiente. Dicha comunicación se hará constar por nota marginal en la hoja abierta a la sociedad.
+
+2. El Gobierno, o en su caso la autoridad de vigilancia correspondiente, notificarán al Registrador la oposición en cuanto se haya aprobado dicho acuerdo y como máximo en el plazo de dos meses a que se refiere el artículo 316.3 de la Ley de Sociedades Anónimas. El Registrador hará constar esta circunstancia por nota marginal y denegará la expedición de la certificación a que se refiere el artículo 315 de dicha Ley.
+
+3. En la escritura pública de traslado deberá constar la declaración de los administradores de que ningún accionista ha ejercitado su derecho de separación, ni ningún acreedor su derecho de oposición. Caso contrario, el derecho de separación se recogerá mediante la declaración de los administradores de la que resulte el reembolso de las acciones correspondientes y los datos de identidad de los accionistas que ejercitaron tal derecho, previa amortización de aquellas y reducción del capital social. Y el derecho de oposición de los acreedores se recogerá mediante declaración de los administradores en la que conste la identidad de quienes se hubieren opuesto, el importe de su crédito y las garantías que hubiese prestado la sociedad. Todas estas circunstancias se harán constar en la inscripción.
+
+4. El Registrador, a la vista de los datos obrantes en el Registro y en la escritura pública de traslado presentada, acreditado el cumplimiento de lo dispuesto en los párrafos anteriores y practicadas las correspondientes operaciones registrales, expedirá la certificación a que se refiere el artículo 315 de la Ley de Sociedades Anónimas, y extenderá la diligencia contemplada en el artículo 20.4 de este Reglamento.
+
+5. Una vez recibida por el Registrador la certificación de haber quedado inscrita la sociedad anónima europea en el Registro correspondiente al nuevo domicilio social, extenderá la inscripción de cierre de la hoja registral.
+
+> Se añade por el art.único.8 del Real Decreto 659/2007, de 25 de mayo. Ref. BOE-A-2007-11320

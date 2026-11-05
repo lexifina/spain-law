@@ -1,0 +1,7 @@
+La aprobación de la Ley 42/1995, de 22 de diciembre, de las Telecomunicaciones por Cable, modificada por el Real Decreto-ley 6/1996, de 7 de junio, de Liberalización de las Telecomunicaciones, ha supuesto el establecimiento en España de unas normas de rango legal que regulan, por primera vez, la prestación conjunta de servicios de telecomunicación y audiovisuales a través de las nuevas tecnologías del cable, lo que permitirá el desarrollo ordenado en el futuro de las redes digitales de servicios integrados de banda ancha, con el consiguiente impacto positivo tanto en el desarrollo tecnológico e industrial como en la prestación de los servicios a los ciudadanos y a las empresas y en la evolución de los mercados audiovisuales.
+
+Consciente el legislador de la importancia y urgencia de un desarrollo ordenado en la introducción del cable y de la necesidad para ello de la conclusión de un marco regulador completo que permita la implantación de estos servicios con garantías para las empresas en el menor tiempo posible, la disposición transitoria tercera de la Ley de las Telecomunicaciones por cable ordena al Gobierno que apruebe el correspondiente Reglamento técnico y de prestación del servicio.
+
+En su virtud, a propuesta del Ministro de Fomento, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 13 de septiembre de 1996,
+
+DISPONGO:

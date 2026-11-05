@@ -1,0 +1,5 @@
+## Primero. Nuevo tipo de interés efectivo anual, revisado y modificado, aplicable a los préstamos cualificados concedidos en el marco del programa 1993 del Plan de Vivienda 1992-1995.
+
+1. El tipo de interés efectivo anual aplicable a los préstamos cualificados concedidos por las entidades de crédito para financiar actuaciones protegidas en materia de vivienda y suelo, en el marco de los convenios suscritos para el Programa 1993 del Plan de Vivienda 1992-1995, entre las entidades de crédito, y el Ministerio de Fomento, será del 1,63 por ciento anual para los préstamos convenidos acogidos al Acuerdo del Consejo de Ministros de 29 de enero de 1993 y del 1,72 por ciento anual para los préstamos convenidos acogidos al Acuerdo del Consejo de Ministros de 18 de junio de 1993.
+
+2. Estos tipos de interés efectivo, revisados y modificados, serán de aplicación a los préstamos cualificados vivos y tendrá vigencia a partir de la publicación en el «Boletín Oficial del Estado», desde el inicio de la siguiente anualidad completa de amortización de cada préstamo.

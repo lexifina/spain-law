@@ -1,0 +1,7 @@
+## Disposición final tercera. Competencias y autorizaciones de desarrollo y entrada en vigor.
+
+1. Se faculta a los Ministros de Economía y Hacienda, de Trabajo y Seguridad Social, para las Administraciones Públicas, y de Sanidad y Consumo, en el ámbito de sus respectivas competencias, para dictar las disposiciones de aplicación y desarrollo de este Real Decreto.
+
+Asimismo se autoriza al Ministerio de Trabajo y Seguridad Social para llevar a cabo en el presupuesto para 1993 de las Entidades Gestoras y Tesorería General de la Seguridad Social las ampliaciones o suplementos de crédito, según proceda, para atender las obligaciones de la extinguida Mutualidad Nacional de Previsión de la Administración Local, por el importe de los remanentes de crédito resultantes en el presupuesto de dicha Mutualidad tras el proceso de liquidación. Las citadas modificaciones presupuestarias se sujetarán a las normas de carácter general en la materia contenidas en la Ley General Presupuestaria y en la regulación específica de la Seguridad Social. El importe de los suplementos de crédito, que al amparo de esta disposición se autoricen, no será computable a los efectos de cálculo del límite a que se hace referencia en el artículo 150.3 de la Ley General Presupuestaria.
+
+2. El presente Real Decreto entrará en vigor al día siguiente de su publicación en el «Boletín Oficial del Estado», sin perjuicio de la fecha de efectos de la integración del Régimen Especial de los Funcionarios de la Administración Local en el Régimen General de la Seguridad Social prevista en el mismo.

@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Tratamiento de la información.
+
+La información gestionada como consecuencia de la aplicación del presente real decreto, deberá hacerse de acuerdo con la normativa reguladora del Esquema nacional de seguridad, del Esquema nacional de interoperabilidad y las directrices fijadas por la Oficina del dato de la Secretaría de Estado de Digitalización e Inteligencia Artificial del Ministerio de Asuntos Económicos y Transformación Digital, de conformidad con lo establecido en la Orden ETD/803/2020, de 31 de julio, garantizándose así su interoperabilidad. Una vez salvadas las consideraciones de privacidad, propiedad intelectual o secreto comercial precisas, deberá ser publicada como datos abiertos.

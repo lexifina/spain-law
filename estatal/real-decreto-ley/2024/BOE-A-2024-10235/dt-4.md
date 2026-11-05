@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de compatibilidad del subsidio por desempleo con el trabajo por cuenta ajena.
+
+Todos los subsidios por desempleo, incluido el subsidio para mayores de cincuenta y dos años, que en el momento de entrada en vigor de esta norma estén sujetos al régimen de compatibilidad previsto en la disposición transitoria quinta de la Ley 45/2002, de 12 de diciembre, de medidas urgentes para la reforma del sistema de protección por desempleo y mejora de la ocupabilidad, seguirán rigiéndose por lo previsto en la citada disposición transitoria y por la normativa vigente en la fecha de reconocimiento del subsidio, hasta que se produzca la finalización de la relación laboral, o en su caso, la extinción del subsidio.

@@ -1,0 +1,3 @@
+## Disposición final cuarta.
+
+El plazo establecido en la disposición transitoria segunda del Reglamento para la aplicación de la Ley cinco/mil novecientos setenta y siete, de cuatro de enero, de Fomento de Producción Forestal, aprobado por Real Decreto mil doscientos setenta y nueve/mil novecientos setenta y ocho, de dos de mayo, para solicitar la conversión de consorcios en convenios, con aplicación de los beneficios referidos en dicha disposición, se contará, para los montes regulados en esta Ley, desde la fecha de su entrada en vigor, si en ella ya estuvieran clasificados como vecinales en mano común, y en otro caso, desde que adquiriera firmeza la correspondiente declaración del Jurado Provincial en tal sentido.

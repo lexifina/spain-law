@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única de la Ley 15/2014, de 16 de septiembre Ref. BOE-A-2014-9467. Téngase en cuenta el régimen transitorio de continuación de funciones del Consejo de la Juventud establecido en la disposición transitoria 1 de la citada disposición.

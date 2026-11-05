@@ -1,0 +1,1 @@
+Norma derogada, por la disposición derogatoria única a) del Real Decreto-ley 24/2021, de 2 de noviembre de 2021. Ref. BOE-A-2021-17910#dd, con efectos de 8 de julio de 2022, según establece su disposición final 10, en la redacción dada por la disposición final 6.4 del Real Decreto-ley 29/2021, de 21 de diciembre. Ref. BOE-A-2021-21096#df-6

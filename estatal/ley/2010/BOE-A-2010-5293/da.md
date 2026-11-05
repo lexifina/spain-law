@@ -1,0 +1,3 @@
+## Disposición adicional primera. Primeros informes sobre el control del cumplimiento del Reglamento (CE) n.º 1907/2006 y del Reglamento (CE) n.º 1272/2008 en España.
+
+Los primeros informes sobre el control del cumplimiento de ambos Reglamentos en España, a que se refiere el artículo 3.5 de esta ley, deberán remitirse a la Comisión Europea antes del 1 de junio de 2010 para el Reglamento (CE) n.º 1907/2006, y antes del 20 de enero de 2012 para el Reglamento (CE) n.º 1272/2008. Este último se remitirá a la Agencia Europea de Sustancias y Mezclas Químicas (ECHA), que lo pondrá a disposición de la Comisión según el artículo 45 del Reglamento (CE) n.º 1272/2008.

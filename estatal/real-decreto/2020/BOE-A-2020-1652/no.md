@@ -1,0 +1,1 @@
+Téngase en cuenta que, con fecha de 29 de septiembre de 2021, se ha publicado el Real Decreto 817/2021, de 28 de septiembre, por el que se fija el salario mínimo interprofesional para 2021, con efectos de 1 de septiembre de 2021. Ref. BOE-A-2021-15770

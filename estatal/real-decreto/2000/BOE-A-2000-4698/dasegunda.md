@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Normativa vigente.
+
+El presente Real Decreto se aplicará sin perjuicio de las demás normas específicas de bienestar aplicables a determinadas especies y, en particular, la Orden de 21 de octubre de 1987 del Ministerio de Agricultura, Pesca y Alimentación, por la que se establecen normas mínimas para la protección de gallinas ponedoras en batería, modificada por las Órdenes de 29 de enero de 1990 y por la de 21 de junio de 1991; el Real Decreto 1047/1994, de 20 de mayo, relativo a las normas mínimas para la protección de los terneros, modificado por el Real Decreto 229/1998 y el Real Decreto 1048/1994, de 20 de mayo, relativo a las normas mínimas para la protección de cerdos, que seguirán siendo aplicables.

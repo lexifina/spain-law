@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Personas con discapacidad.
+
+1. Los servicios públicos de empleo adoptarán las medidas necesarias para permitir el acceso de las personas con discapacidad a los servicios garantizados y otros comunes de la Cartera, así como servicios complementarios regulados en este real decreto, en condiciones que garanticen la aplicación de los principios de accesibilidad universal, igualdad de trato y no discriminación, de acuerdo con lo dispuesto respecto del derecho al trabajo en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+
+2. En este sentido, los servicios públicos de empleo, en atención a las especiales circunstancias de las personas con discapacidad, asegurarán el diseño de itinerarios personalizados de empleo que combinen las diferentes medidas y políticas, debidamente ordenadas y ajustadas al perfil profesional de las personas con discapacidad y a sus necesidades específicas. Cuando ello sea necesario, los servicios públicos de empleo valorarán la necesidad de coordinación con los servicios sociales para dar una mejor atención a estas personas.

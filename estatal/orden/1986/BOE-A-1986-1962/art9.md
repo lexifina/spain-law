@@ -1,0 +1,21 @@
+## Art. 9. Funciones del Jefe de Vuelos.
+
+Corresponde al Jefe de Vuelos las funciones siguientes, en orden a la supervisión de las actividades de vuelo:
+
+a) Determinar su comienzo y fin.
+
+b) Verificar que los vuelos se desarrollen de acuerdo con la normativa vigente.
+
+c) Determinar la colocación de los sistemas de remolque y pista en servicio.
+
+d) Establecer el orden de los vuelos.
+
+e) Establecer las comunicaciones aire-tierra y viceversa.
+
+f) Autorizar con su firma la hoja de cronometración al finalizar los vuelos, comprobando la exactitud de las anotaciones.
+
+g) Autentificar con su firma y el sello del Centro las cartillas de vuelo, los diarios de a bordo y los certificados de vuelo.
+
+h) Realizar los vuelos de prueba relacionados con el mantenimiento y la seguridad en vuelo.
+
+Esta atribución podrá ser delegada por un Piloto expresamente autorizado por el Jefe de Vuelos para dicha operación.

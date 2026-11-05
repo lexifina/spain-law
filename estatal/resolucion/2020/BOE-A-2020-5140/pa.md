@@ -1,0 +1,5 @@
+El Consejo de Ministros en su reunión del día 19 de mayo de 2020, ha adoptado un Acuerdo por el que se instruye al Instituto de Crédito Oficial a poner en marcha el cuarto tramo de la línea de avales aprobada por el Real Decreto-ley 8/2020, de 17 de marzo, y se establece que sus beneficiarios sean las pequeñas y medianas empresas y autónomos afectados por las consecuencias económicas del COVID-19.
+
+A los efectos de dar publicidad al mencionado Acuerdo del Consejo de Ministros de 19 de mayo de 2020,
+
+Esta Secretaría de Estado de Economía y Apoyo a la Empresa ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente Resolución.

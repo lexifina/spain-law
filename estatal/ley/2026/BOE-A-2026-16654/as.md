@@ -1,0 +1,7 @@
+## Artículo segundo. Modificación del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización.
+
+Se modifican los últimos párrafos del apartado 3.3.1 del anexo I del Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización, con la siguiente redacción:
+
+> «La implantación del programa de cribado neonatal de enfermedades congénitas en prueba del talón de la cartera común básica de servicios asistenciales del Sistema Nacional de Salud se acompañará por parte del Ministerio de Sanidad de la revisión y actualización del actual Sistema de Información del Programa de Cribado Neonatal, a fin de garantizar su coordinación y eficiencia para el seguimiento, evaluación y coordinación del programa en los niveles estatal y autonómico. El Ministerio de Sanidad elaborará un informe técnico anual de evaluación del programa de cribado que pondrá a disposición de la ciudadanía y las administraciones en su página web.
+
+> Asimismo, establecerá protocolos consensuados en el marco del Consejo Interterritorial del Sistema Nacional de Salud que permitan abordar en todas las comunidades autónomas y ciudades de Ceuta y Melilla, de manera homogénea tanto en términos de tiempo, como en acceso y confirmación de las pruebas, y de acuerdo con criterios de calidad los procesos de cribado.»

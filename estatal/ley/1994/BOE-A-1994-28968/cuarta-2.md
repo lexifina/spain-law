@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Mantenimiento transitorio del banco de datos de pensiones públicas.
+
+Hasta tanto se dicten las normas reglamentarias reguladoras del Registro de Prestaciones Sociales Públicas, a que se refiere el artículo 30 de la presente Ley, y se configure de forma operativa y entre en funcionamiento el mismo, se mantendrá en vigor el banco de datos de pensiones públicas, constituido en el Instituto Nacional de la Seguridad Social y gestionado por el mismo, de conformidad con lo establecido en la disposición adicional quinta de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, yen el Real Decreto 2566/1985, de 27 de diciembre, sobre creación y funcionamiento del banco de datos de pensiones públicas.

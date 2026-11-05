@@ -1,0 +1,3 @@
+## Disposición final tercera. Referencias normativas.
+
+Las referencias contenidas en el Real Decreto 956/2017, de 3 de noviembre, por el que se establece el marco regulador de ayudas a las organizaciones profesionales del sector de la pesca y de la acuicultura, cofinanciadas por el Fondo Europeo Marítimo y de Pesca, y sus bases reguladoras de ámbito estatal, y por el que se modifican el Real Decreto 418/2015, de 29 de mayo, por el que se regula la primera venta de productos pesqueros, y el Real Decreto 277/2016, de 24 de junio, por el que se regulan las organizaciones profesionales en el sector de los productos de la pesca y de la acuicultura, al Fondo Europeo Marítimo y de Pesca (FEMP) se entenderán hechas al Fondo Europeo Marítimo, de Pesca y de Acuicultura (FEMPA).

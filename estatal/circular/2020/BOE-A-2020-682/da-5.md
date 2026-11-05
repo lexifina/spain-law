@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Propuesta de procedimiento para la habilitación, suspensión y baja de usuarios con cartera de balance y propuesta de contrato marco de habilitación de cartera de balance.
+
+En un plazo de dos meses desde la fecha de publicación de esta circular, el gestor técnico del sistema remitirá a la Comisión Nacional de los Mercados y la Competencia, para su aprobación, el procedimiento para la habilitación, suspensión y baja de usuarios con cartera de balance en TVB, PVB y AVB y la propuesta de contrato marco de habilitación de cartera de balance, junto con las respuestas recibidas durante el proceso de consulta pública y su análisis.

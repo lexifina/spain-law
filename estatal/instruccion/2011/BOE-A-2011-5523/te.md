@@ -1,0 +1,3 @@
+## Tercero. Facultades de las Juntas Electorales.
+
+Para garantizar el cumplimiento de lo dispuesto en el artículo 53 de la LOREG, las Juntas Electorales competentes en función del acto realizado y del proceso electoral convocado resolverán las denuncias, reclamaciones o recursos que los representantes generales de las formaciones políticas concurrentes y los de las candidaturas puedan plantear. A tal efecto, podrán requerir a los afectados para que de forma inmediata procedan a la suspensión de cualquier acto prohibido o a la retirada cualquier instrumento de publicidad o propaganda que incumpla la legislación vigente.

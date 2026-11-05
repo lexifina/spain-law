@@ -1,0 +1,68 @@
+# Real Decreto 1070/2015, de 27 de noviembre, por el que se aprueban las normas técnicas de seguridad operacional de aeródromos de uso restringido y se modifican el Real Decreto 1189/2011, de 19 de agosto, por el que se regula el procedimiento de emisión de los informes previos al planeamiento de infraestructuras aeronáuticas, establecimiento, modificación y apertura al tráfico de aeródromos autonómicos, y la Orden de 24 de abril de 1986, por la que se regula el vuelo en ultraligero.
+
+- Identificador: BOE-A-2015-12893
+- Rango: Real Decreto
+- Fecha de disposición: 2015-11-27
+- Publicación: 2015-11-28
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2015-12893
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [co](co.md)
+- [preambulo](preambulo.md)
+- [CAPÍTULO I](ci.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
+- [Artículo 4](a4.md)
+- [Artículo 5](a5.md)
+- [Artículo 6](a6.md)
+- [Artículo 7](a7.md)
+- [CAPÍTULO II](cii.md)
+- [Artículo 8](a8.md)
+- [Artículo 9](a9.md)
+- [Artículo 10](a10.md)
+- [Artículo 11](a11.md)
+- [CAPÍTULO III](ciii.md)
+- [Artículo 12](a12.md)
+- [Artículo 13](a13.md)
+- [Artículo 14](a14.md)
+- [Artículo 15](a15.md)
+- [Artículo 16](a16.md)
+- [Artículo 17](a17.md)
+- [Artículo 18](a18.md)
+- [Artículo 19](a19.md)
+- [Artículo 20](a20.md)
+- [CAPÍTULO IV](civ.md)
+- [Artículo 21](a21.md)
+- [Artículo 22](a22.md)
+- [CAPÍTULO V](cv.md)
+- [Sección 1](s1.md)
+- [Artículo 23](a23.md)
+- [Artículo 24](a24.md)
+- [Artículo 25](a25.md)
+- [Sección 2](s2.md)
+- [Artículo 26](a26.md)
+- [Artículo 27](a27.md)
+- [Artículo 28](a28.md)
+- [Sección 3](s3.md)
+- [Artículo 29](a29.md)
+- [Artículo 30](a30.md)
+- [CAPÍTULO VI](cvi.md)
+- [Artículo 31](a31.md)
+- [Disposición adicional única](daunica.md)
+- [Disposición transitoria primera](dtprimera.md)
+- [Disposición transitoria segunda](dtsegunda.md)
+- [Disposición transitoria tercera](dttercera.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](dftercera.md)
+- [Disposición final cuarta](dfcuaa.md)
+- [Disposición final quinta](dfquinta.md)
+- [firma](firma.md)
+- [Anexo I](ani.md)
+- [Anexo II](anii.md)
+- [Anexo III](aniii.md)
+- [Anexo IV](aniv.md)

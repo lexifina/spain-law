@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultades de desarrollo.
+
+Se faculta a la Secretaría General para la Seguridad Social para dictar las disposiciones de carácter general que sean necesarias para el desarrollo y aplicación de lo previsto en esta Orden, así como para efectuar las adaptaciones presupuestarias que resulten necesarias para la dotación, en los respectivos presupuestos de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, de los créditos que sean necesarios para atender los gastos que se deriven del funcionamiento de las Comisiones de Control y Seguimiento.

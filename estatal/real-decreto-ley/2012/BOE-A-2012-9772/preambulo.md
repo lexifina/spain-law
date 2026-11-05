@@ -1,0 +1,21 @@
+La situación económica actual exige la máxima eficiencia en la gestión de los servicios públicos y en la regulación de determinados mercados y medidas en ámbitos de actuación administrativa, de forma que se pueda asegurar el cumplimiento del objetivo de estabilidad presupuestaria y se permita un mejor desenvolvimiento de los sectores productivos, así como una gestión más eficiente de los servicios de transporte.
+
+De acuerdo con dichos objetivos, en el real decreto-ley se contemplan una serie de medidas en diferentes ámbitos de las políticas de infraestructuras y transportes.
+
+Para dinamizar los mercados de transporte de viajeros por ferrocarril y transcurridos más de siete años desde la entrada en vigor de la Ley 39/2003, del 17 de noviembre, del Sector Ferroviario no ha llegado a desplegar sus plenos efectos previstos, toda vez que la disposición transitoria tercera de la misma establecía un período de carencia para la plena liberalización del tráfico de viajeros.
+
+La dinamización de este sector del transporte debe seguir los pasos que se han dado en otros sectores económicos, considerándose que es el momento oportuno de anticipar la apertura. Para ello, se fija el 31 de julio de 2013 como fecha de inicio de la liberalización.
+
+Todo ello contribuirá, sin duda alguna, a que tanto RENFE-Operadora como otros operadores ferroviarios puedan prepararse para competir mediante la prestación de servicios ferroviarios de viajeros que discurran sobre la red ferroviaria de interés general (RFIG), de titularidad estatal, lo cual redundará en beneficio de los usuarios de este modo de transporte y a dinamizar el sector económico vinculado a esta actividad.
+
+Al hilo de tal decisión, el Gobierno considera conveniente dotar a la entidad pública empresarial RENFE-Operadora de esquemas empresariales similares a otros operadores ferroviarios públicos del ámbito europeo.
+
+Así, respetando la naturaleza de RENFE-Operadora como entidad pública empresarial, se prevé su restructuración a través de cuatro líneas de actividad, mediante sociedades mercantiles de las previstas en el artículo 166.2 de la Ley 33/2003, de 3 de noviembre, del Patrimonio de las Administraciones Públicas participadas al cien por ciento de su capital por RENFE-Operadora para cubrir la demanda global de servicios: viajeros; mercancías y logística; fabricación y mantenimiento y gestión de activos. Ello permitiría que RENFE-Operadora cuente con un marco adecuado para abordar el proceso de liberalización y de apertura a la competencia con garantías de continuidad y de calidad del servicio público que viene desarrollando.
+
+Por otra parte, el presente real decreto-ley, en consonancia con las premisas que han llevado al Gobierno a aprobar el Plan de Reestructuración y Racionalización del Sector Público Empresarial y Fundacional Estatal, con fecha 16 de marzo de 2012, prevé la supresión de la entidad pública empresarial Ferrocarriles Españoles de Vía Estrecha (FEVE), distribuyendo sus bienes, derechos y obligaciones entre las entidades públicas empresariales ADIF y RENFE-Operadora o en las sociedades que se constituyan en el seno de la misma, en función de que los unos y las otras se hallen adscritos a la infraestructura o a la operación de servicios y actividad ferroviarios; criterio que servirá de base, igualmente, para la distribución del personal procedente de FEVE entre ADIF y RENFE-Operadora.
+
+La situación económica actual exige la mayor celeridad para conseguir la máxima eficiencia en la gestión de los servicios públicos y en la regulación de determinados mercados y medidas en ámbitos de actuación administrativa. Precisamente por ello, la contribución que se realiza mediante este real decreto-ley a dinamizar los mercados de transporte de viajeros por ferrocarril, hace necesario que estas medidas se establezcan por real decreto-ley, al existir una extraordinaria y urgente necesidad motivada por la crisis económica que padece el país, todo ello de conformidad con los criterios establecidos en el artículo 86 de la Constitución Española.
+
+En su virtud, en uso de la autorización contenida en el artículo 86 de la Constitución Española, a propuesta de la Ministra de Fomento y previa deliberación del Consejo de Ministros en su reunión del día 20 de julio de 2012,
+
+DISPONGO:

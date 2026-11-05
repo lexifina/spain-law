@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Pérdida del derecho de uso de la conexión.
+
+1. Mientras no se dicte la resolución de la Comisión Nacional de los Mercados y la Competencia a la que hace referencia el apartado 3 del artículo 50, el plazo a considerar para la pérdida del derecho de uso de la conexión por falta de uso de la capacidad será de dos años desde la firma del contrato de conexión. Cuando el retraso en el uso de la capacidad sea debido a causas de fuerza mayor o retrasos administrativos, los titulares de estas lo justificarán anticipadamente y de forma adecuada a los operadores de las redes, debiendo el titular de la planta volver a informar cada tres meses de los progresos en la evolución del proyecto, en cuyo caso no se procederá a retirar la capacidad.
+
+2. Para las plantas que dispongan de contrato de conexión a fecha de entrada en vigor de esta circular, el plazo de dos años establecido en el apartado anterior se computará desde dicha fecha de entrada en vigor de la circular.

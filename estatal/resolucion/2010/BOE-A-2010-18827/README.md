@@ -1,0 +1,21 @@
+# Resolución de 18 de noviembre de 2010, de la Dirección General de Política Energética y Minas, por la que se aprueba la especificación técnica número 2004-1-10 "Formación preventiva para el desempeño de los puestos de trabajo encuadrados en los grupos 5.4 letras a), b), c), d), e), f), g), h), j), k), l), m), y 5.5 letras a), b) y d) del apartado 5 de la Instrucción Técnica Complementaria 02.1.02 "Formación preventiva para el desempeño del puesto de trabajo", del Reglamento General de Normas Básicas de Seguridad Minera".
+
+- Identificador: BOE-A-2010-18827
+- Rango: Resolución
+- Fecha de disposición: 2010-11-18
+- Publicación: 2010-12-06
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2010-18827
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [Primero](pr-2.md)
+- [Segundo](se.md)
+- [(firma)](fi.md)
+- [ESPECIFICACIÓN TÉCNICA 2004-1-10](et.md)
+- [1](A1.md)
+- [2](A2.md)
+- [3](A3.md)
+- [4](A4.md)

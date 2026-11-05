@@ -1,0 +1,3 @@
+## Disposición final primera. Modificación del Anexo III de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011.
+
+Se adiciona en el Anexo III de la Ley de Presupuestos Generales del Estado para el año 2011, el Fondo para la Financiación de los Pagos a Proveedores por un importe de 35.000.000 miles de euros, entendiéndose que la cifra autorizada se corresponde con la emisión de valores, la concertación de préstamos y la apertura de créditos, y cualquier otra operación de endeudamiento, así como las operaciones de canje, compra y conversión sobre las operaciones descritas.

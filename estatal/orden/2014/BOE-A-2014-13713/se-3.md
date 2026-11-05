@@ -1,0 +1,3 @@
+## Séptimo. Servicios o unidades ante los que pueden ejercitarse los derechos de acceso, rectificación, cancelación y oposición.
+
+Los derechos de acceso, rectificación, cancelación y oposición podrán ejercitarse ante el Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias (Calle Alcalá, 48, 28014 Madrid). Conforme al artículo 32.3 de la Ley 10/2010, de 28 de abril, no serán de aplicación al Fichero de Titularidades Financieras las normas contenidas en la LOPD referidas al ejercicio de los derechos de acceso, rectificación, cancelación y oposición. En caso de ejercicio de los citados derechos por el interesado, el Servicio Ejecutivo se limitará a ponerle de manifiesto lo dispuesto en dicho artículo.

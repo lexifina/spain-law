@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Registro de empresas ofertantes.
+
+1. La Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia mantendrá un registro actualizado de empresas ofertantes de productos sanitarios para su financiación por el Sistema Nacional de Salud. Cada empresa ofertante tendrá asignado un número clave en la oferta del Sistema Nacional de Salud.
+
+2. Las empresas ofertantes que a la fecha de entrada en vigor de este real decreto no tengan incluidos productos sanitarios en la prestación farmacéutica del Sistema Nacional de Salud para pacientes no hospitalizados y deseen efectuar ofertas deberán, con carácter previo, solicitar el alta de su empresa en el registro de empresas ofertantes con la presentación del modelo de solicitud de registro y la ficha de datos establecidos al efecto, mediante el registro electrónico, accesible a través de la sede electrónica asociada del Ministerio de Sanidad, dirigida a la Dirección General de Cartera Común de Servicios del Sistema Nacional de Salud y Farmacia, conforme a lo previsto en el artículo 14.2 de la Ley 39/2015, de 1 de octubre.
+
+3. Las empresas ofertantes que a la entrada en vigor de este real decreto tuvieran incluidos productos sanitarios en la prestación farmacéutica del Sistema Nacional de Salud para pacientes no hospitalizados se considerarán incluidas en el citado registro. No obstante, dichas empresas, deberán proceder a la actualización de sus datos, en el caso de que no lo estuvieran.

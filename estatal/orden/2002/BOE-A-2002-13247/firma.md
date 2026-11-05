@@ -1,0 +1,3 @@
+Madrid, 27 de junio de 2002.
+
+TRILLO-FIGUEROA Y MARTÍNEZ-CONDE

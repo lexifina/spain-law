@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Régimen transitorio de los procedimientos de reintegro de prestaciones indebidamente percibidas y de liquidación de las aportaciones económicas a realizar por las empresas con beneficios que realicen despidos colectivos que afecten a trabajadores de cincuenta o más años.
+
+Las modificaciones efectuadas por las disposiciones finales octava y novena no serán de aplicación a los procedimientos de reintegro de prestaciones indebidamente percibidas por desempleo y a los procedimientos de liquidación de las aportaciones económicas a realizar por las empresas con beneficios que realicen despidos colectivos que afecten a trabajadores de cincuenta o más años ya iniciados con anterioridad a la entrada en vigor de este real decreto-ley.

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Zona de navegación de embarcaciones excluidas.
+
+El capitán marítimo, dentro de las zonas de navegación establecidas en el artículo 3, fijará las zonas para las cuales autoriza la navegación de las embarcaciones excluidas del ámbito de aplicación de este real decreto de conformidad con el artículo 2.2, párrafos b) a h), que se destinen a fines recreativos y deportivos y cuya eslora sea igual o superior a 2,5 metros. La autorización se expedirá, para el ámbito geográfico de competencias de la Capitanía Marítima, en función de las características de la embarcación y de sus equipos de seguridad y de prevención de la contaminación.

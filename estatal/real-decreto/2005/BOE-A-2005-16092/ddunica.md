@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada toda disposición de igual o inferior rango en todo aquello que se oponga a este real decreto y, en particular, en lo que afecta a las explotaciones avícolas de carne, el Decreto 2602/1968, de 17 de octubre, por el que se dictan normas sobre ordenación sanitaria y zootécnica de las explotaciones avícolas y salas de incubación, y la Orden de 20 de marzo de 1969, sobre ordenación sanitaria y zootécnica de las explotaciones avícolas y salas de incubación, así como la Orden de 24 de enero de 1974, por la que se dictan normas sobre ordenación zootécnico-sanitaria de granjas cinegéticas.

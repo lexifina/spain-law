@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Peaje transitorio de acceso a las redes de transporte y distribución a satisfacer por los productores de energía eléctrica.
+
+A partir de 1 de enero de 2011, y en tanto no se desarrollen reglamentariamente los peajes que deben satisfacer los productores de energía eléctrica, los transportistas y distribuidores aplicarán a los productores que estuvieren conectados a sus redes un peaje de acceso de 0,5 EUR/ MWh vertido en sus redes o los valores que fije el Ministro de Industria, Turismo y Comercio dentro de los límites que se establezcan en su caso por la normativa de la Unión Europea.

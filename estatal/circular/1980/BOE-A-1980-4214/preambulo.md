@@ -1,0 +1,3 @@
+El artículo VI y el protocolo final del Acuerdo entre el Estado español y la Santa Sede sobre Asuntos Jurídicos («Boletín Oficial del Estado» de 15 de diciembre de 1979) han supuesto una importante modificación del régimen hasta ahora vigente sobre la inscripción de los matrimonios canónicos en el Registro Civil, derogando en este punto, conforme al artículo 90 de la Constitución y al artículo 1-5 del Código Civil, los artículos 77 y 78 de este mismo Cuerpo legal, así como los preceptos correspondientes que los desarrollan de la legislación del Registro Civil.
+
+Desde el punto de vista de este Registro, son puntos fundamentales los siguientes:

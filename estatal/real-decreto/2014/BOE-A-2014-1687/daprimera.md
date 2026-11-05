@@ -1,0 +1,3 @@
+## Disposición adicional primera. Operadores de radio.
+
+Todo capitán u oficial que se encargue de la guardia de navegación en un buque pesquero acogido al Sistema Mundial de Socorro y Seguridad Marítima, deberá hallarse en posesión del certificado de operador de radio que corresponda de los prescritos en los artículos 9 y 10 de la Orden FOM/2296/2004, de 4 de septiembre, por la que se regulan los programas de formación de los títulos profesionales de Marinero de Puente y de Máquinas de la Marina Mercante, y de Patrón Portuario, así como los certificados de especialidad acreditativos de la competencia profesional.

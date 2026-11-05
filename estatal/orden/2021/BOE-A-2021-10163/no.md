@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Orden HAC/612/2021, de 16 de junio, por la que se aprueba el modelo 179, «Declaración informativa anual de la cesión de uso de viviendas con fines turísticos» y se establecen las condiciones y el procedimiento para su presentación", según establece el art. 2.1 de la Orden HFP/188/2023, de 27 de febrero. Ref. BOE-A-2023-5260

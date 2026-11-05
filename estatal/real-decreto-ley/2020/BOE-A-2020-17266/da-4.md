@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Contratación pública en la ejecución de las medidas previstas.
+
+En los supuestos en que sea preciso celebrar contratos en el ámbito del sector público para hacer efectivas las medidas contenidas en el presente real decreto-ley, o para adaptar la situación a las consecuencias derivadas de la retirada del Reino Unido de la Unión Europea, sin la adopción de un Acuerdo de relación futura, podrán resultar de aplicación los artículos 119 y 120 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, en los términos establecidos en dichas disposiciones.

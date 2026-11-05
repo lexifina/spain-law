@@ -1,0 +1,5 @@
+## Disposición final cuarta. Modificación de la Ley 23/2005, de 18 de noviembre, de reformas en materia tributaria para el impulso a la productividad.
+
+Se modifica el apartado 5 de la disposición adicional tercera de la Ley 23/2005, de 18 de noviembre, de reformas en materia tributaria para el impulso a la productividad, que queda redactado de la siguiente forma:
+
+«5. Se considerará período de suspensión del cómputo del plazo del procedimiento inspector, a efectos de lo dispuesto en el apartado 2 del artículo 104 de la Ley General Tributaria, el tiempo que transcurra entre la comunicación efectuada por la Administración Tributaria y la recepción por ésta del pronunciamiento o acuerdo de la Comisión, o el plazo de seis meses a que alude el apartado 3 anterior de no recibirse aquéllos en ese término. Si la ejecución del acuerdo de la Comisión resultara suspendida, el período de suspensión del cómputo del plazo del procedimiento inspector abarcará hasta la finalización de la suspensión del acuerdo.»

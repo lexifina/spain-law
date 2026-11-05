@@ -1,0 +1,1 @@
+Téngase en cuenta que la Representación Permanente de España ante las Comunidades Europeas se denominará en lo sucesivo Representación Permanente de España ante la Unión Europea, según establece el art. 4.1 del Real Decreto 2077/1995, de 22 de diciembre. Ref. BOE-A-1995-27558

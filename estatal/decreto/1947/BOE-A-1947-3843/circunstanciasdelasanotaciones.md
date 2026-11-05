@@ -1,0 +1,1 @@
+## Circunstancias de las anotaciones

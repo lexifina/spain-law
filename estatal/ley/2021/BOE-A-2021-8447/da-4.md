@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Medidas adicionales en la aviación civil.
+
+Por orden del Ministro de Transportes, Movilidad y Agenda Urbana, previo informe del Ministerio para la Transición Ecológica y el Reto Demográfico, se establecerán los requisitos de las auditorías energéticas operacionales y de los Planes estratégicos de sostenibilidad ambiental que las compañías aéreas, los entes gestores de los aeropuertos de interés general y las empresas proveedoras de servicios de tránsito aéreo, sujetos a la supervisión de la Agencia Estatal de Seguridad Aérea, deberán llevar a cabo como medida para identificar oportunidades de mejora orientadas a la reducción de emisiones e implementar su contribución a los objetivos en materia de energía y clima.

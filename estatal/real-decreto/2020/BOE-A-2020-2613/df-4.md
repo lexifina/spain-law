@@ -1,0 +1,3 @@
+## Disposición final cuarta. Habilitación para el desarrollo por el Banco de España.
+
+Se habilita al Banco de España para concretar y desarrollar mediante circular, en el plazo de doce meses desde la publicación de este real decreto en el «Boletín Oficial del Estado», lo dispuesto en el artículo 30, en particular, para concretar los flujos de caja asociados a las actividades de emisión de dinero electrónico y servicios de pago en el caso de las entidades híbridas, y los artículos 31 y 32. Asimismo se habilita al Banco de España para dictar las disposiciones precisas para la debida ejecución de este real decreto.

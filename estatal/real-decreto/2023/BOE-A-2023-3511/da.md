@@ -1,0 +1,9 @@
+## Disposición adicional primera. Masas de agua transfronterizas y cooperación con otros Estados vecinos.
+
+1. Todas las referencias a las masas de agua fronterizas y transfronterizas que se realizan en los planes hidrológicos quedan limitadas desde un punto de vista normativo a la parte española de las demarcaciones hidrográficas.
+
+2. Las masas de agua fronterizas y transfronterizas de las demarcaciones hidrográficas del Miño-Sil, Duero, Tajo y Guadiana, a las que se hace referencia en los respectivos planes, así como, entre otros aspectos, sus tipologías, condiciones de referencia y objetivos ambientales, podrán verse modificadas de acuerdo a los resultados de los trabajos de cooperación con Portugal, desarrollados por el Ministerio para la Transición Ecológica y el Reto Demográfico en el marco del Convenio sobre Cooperación para la protección y el aprovechamiento sostenible de las aguas de las cuencas hidrográficas hispano-portuguesas, hecho en Albufeira el 30 de noviembre de 1998. Tales modificaciones, en su caso, requerirán la revisión del correspondiente plan hidrológico.
+
+3. De igual modo, en los mismos supuestos citados en el apartado anterior, las masas de agua fronterizas y transfronterizas de las demarcaciones del Cantábrico Oriental y del Ebro quedarán condicionadas a los resultados de los trabajos de cooperación con Francia realizados por el Ministerio para la Transición Ecológica y el Reto Demográfico en el marco del Acuerdo Administrativo sobre la gestión del agua, hecho en Toulouse el 15 de febrero de 2006.
+
+4. De resultar preciso coordinar algún elemento de los planes hidrológicos de Ceuta o de Melilla con el Reino de Marruecos, se utilizarán preferentemente las herramientas que proporciona el Tratado de Amistad, Buena Vecindad y Cooperación entre el Reino de España y el Reino de Marruecos, hecho en Rabat el 4 de julio de 1991.

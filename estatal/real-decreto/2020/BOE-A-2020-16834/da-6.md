@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Autorización y registro de medicamentos y productos de cuidado personal necesarios por causas excepcionales o en conflictos y catástrofes.
+
+Los medicamentos y productos de cuidado personal fabricados y distribuidos en el supuesto contemplado en el párrafo b) de la disposición adicional primera podrán ser objeto de autorización y registro, conforme a lo establecido en el texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por Real Decreto Legislativo 1/2015, de 24 de julio, en las condiciones y mediante el procedimiento que determinen las autoridades sanitarias competentes y el Ministerio de Defensa.

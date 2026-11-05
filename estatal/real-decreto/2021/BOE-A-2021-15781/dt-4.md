@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Agencias de aseguramiento de la calidad en proceso de inscripción en el EQAR.
+
+Las agencias de aseguramiento de la calidad de las Comunidades Autónomas que, en el momento de entrada en vigor de este real decreto, aún no estén inscritas en el Registro Europeo de Agencias de Aseguramiento de la Calidad en la Educación Superior (The European Quality Assurance Register for Higher Education, EQAR), dispondrán de un período transitorio de cuatro años en los cuales podrán seguir desarrollando las funciones que les son propias y que se establecen en esta norma con relación a los procedimientos de garantía de la calidad universitaria.

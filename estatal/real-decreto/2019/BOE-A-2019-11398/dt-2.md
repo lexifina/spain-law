@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Personal declarado apto con limitaciones por insuficiencia de condiciones psicofísicas con anterioridad a la entrada en vigor de este real decreto.
+
+El personal que a fecha 23 de marzo de 2018 estuviera declarado apto con limitaciones para ocupar determinados destinos por insuficiencia de condiciones psicofísicas no se verá afectado por las previsiones contempladas en los artículos 34, 56 y el apartado h) del 61.1 del reglamento que se aprueba con este real decreto, salvo que fuera objeto de una nueva declaración como consecuencia de la instrucción de un nuevo expediente de determinación de condiciones psicofísicas, iniciado con posterioridad a la entrada en vigor de este reglamento.

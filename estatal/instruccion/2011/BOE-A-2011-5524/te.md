@@ -1,0 +1,3 @@
+## Tercero. Principios que deben ser respetados por los medios de titularidad pública y garantías ante la Administración Electoral.
+
+Como dispone el artículo 66.1 de la LOREG, durante el periodo electoral, los órganos de dirección y administración de los medios de comunicación de titularidad pública deberán garantizar el respeto al pluralismo político y social, así como a la igualdad, la proporcionalidad y la neutralidad informativa en toda su programación. Las decisiones de los referidos órganos de dirección y administración serán recurribles ante la Junta Electoral competente según el procedimiento regulado en esta Instrucción.

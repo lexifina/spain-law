@@ -1,0 +1,11 @@
+Corresponde al Estado el establecimiento de los cauces legales y estímulos que aglutinen los esfuerzos que realiza el sector agrario para lograr su propia promoción y hagan posible una justa participación de la población rural en el proceso y frutos del desarrollo socio-económico.
+
+Uno de los aspectos en donde más se manifiesta la necesidad de una actuación en apoyo de la agricultura es en la comercialización de Ios productos del campo, que corresponde a las transacciones comerciales que se realizan en origen. En esta fase existe una gran dispersión de la oferta agraria por la heterogeneidad en clases, calidades y épocas de entrega de los productos agrarios y una reducida capacidad negociadora del sector.
+
+Para corregir esta situación se estima conveniente adoptar medidas tendentes a la concentración y tipificación de la oferta y a promover la autodisciplina voluntaria de los agricultores en materia de producción, almacenamiento y normalización, de modo que se obtenga una más coherente oferta en origen de los productos agrarios que lleve al ámbito rural el concepto de la comercialización como culminación del esfuerzo productivo, a la vez que asegure también a los compradores un abastecimiento más regular en cuanto a cantidad, calidad, ritmo de entregas y precios.
+
+Se crea para ello en la presente Ley un cauce legal específicamente orientado al fomento de agrupaciones que tengan como finalidad la venta en común de sus productos tipificados, que se conciben con el suficiente contenido organizativo, económico, tecnológico y financiero para poder incidir con personalidad propia en el área de actuación que les corresponda y que se encuadren en el marco de la Organización Sindical, al constituirse bajo una de las vigentes fórmulas asociativas sindicales agrarias.
+
+Para la promoción y potenciación de estas agrupaciones se hace necesario prever los estímulos que deben concederse a aquelías que voluntariamente se sometan al régimen y a las normas que se establecen por la presente Ley, si bien su acción debe ser selectiva, referida a aquellos productos cuya concentración y venta en común se estime de mayor interés.
+
+En su virtud y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:

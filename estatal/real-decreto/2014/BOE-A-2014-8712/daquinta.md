@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Consulta de datos referentes a las sentencias de inhabilitación o suspensión para el ejercicio profesional.
+
+El órgano encargado del registro podrá consultar los datos referentes a las sentencias de inhabilitación o suspensión para el ejercicio profesional contenidas en las inscripciones de los registros integrados en el Sistema de Registros Administrativos de Apoyo a la Administración de Justicia, salvo que se trate de información reservada a los órganos judiciales. Para ello, el órgano encargado del registro solicitará al órgano competente del Ministerio de Justicia los datos necesarios del profesional sanitario de que se trate, en cada caso.

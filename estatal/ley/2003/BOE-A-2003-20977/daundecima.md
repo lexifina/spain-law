@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Procedimiento de reintegro de subvenciones concedidas por el Instituto Nacional de Empleo.
+
+No obstante lo establecido en el apartado 5 del artículo 42 de esta ley, las resoluciones de los procedimientos de reintegro dictadas por el Instituto Nacional de Empleo no pondrán fin a la vía administrativa, y podrá interponerse contra las mismas recurso de alzada en los términos recogidos en el título VII de la Ley 20/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en la redacción dada por la Ley 4/1999, de 13 de enero.

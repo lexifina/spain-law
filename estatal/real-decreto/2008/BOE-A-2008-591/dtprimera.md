@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Elaboración del Contrato de Gestión.
+
+El Consejo Rector de la Agencia Estatal CSIC deberá aprobar y remitir a los Departamentos competentes, en el plazo de tres meses desde su constitución, la primera propuesta de Contrato de Gestión a que se refiere el artículo 24.2 del presente Estatuto. Excepcionalmente, el primer contrato de gestión tendrá un periodo de vigencia que finalizará el 31 de diciembre de 2009. Hasta tanto se apruebe el Contrato de Gestión previsto, será de aplicación el Plan Inicial de Actuación de la Agencia contenido en la Memoria que acompaña al presente Real Decreto.

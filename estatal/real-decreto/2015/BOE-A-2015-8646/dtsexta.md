@@ -1,0 +1,5 @@
+## Disposición transitoria sexta. Regímenes retributivos de instalaciones con autorización de explotación definitiva de fecha anterior al 1 de enero de 2012 solicitados con anterioridad a la entrada en vigor del presente real decreto.
+
+En virtud de lo establecido en el artículo 37 del Real Decreto–ley 20/2012, de 13 de julio, la retribución por costes fijos y variables definida en este real decreto aplicará a las centrales de generación que tenían la condición de régimen ordinario hasta la entrada en vigor de la Ley 24/2013, de 26 de diciembre, en los territorios no peninsulares desde el 1 de enero de 2012.
+
+En virtud de lo anterior y no obstante lo establecido en la disposición derogatoria única.1.c) de este real decreto, en las solicitudes de reconocimiento del régimen retributivo adicional para las instalaciones con autorización de explotación definitiva de fecha anterior al 1 de enero de 2012, el valor de la inversión reconocida y su vida útil regulatoria se determinarán según el método de cálculo establecido en la Orden ITC/914/2006, de 30 de marzo.

@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Declaración del valor de los miembros de la Guardia Civil.
+
+La normativa que establezca los hechos, servicios y circunstancias determinantes de la declaración del valor, en sus diferentes modalidades, de los miembros de las Fuerzas Armadas, será de aplicación a los miembros de la Guardia Civil, de acuerdo a lo que se disponga para cada caso por las autoridades militares facultadas para acordar la declaración, con independencia de aquellos supuestos en que ésta se derive directamente de la concesión de las recompensas militares en que así está previsto, y a los efectos de su correspondiente anotación en la hoja de servicios de los interesados.

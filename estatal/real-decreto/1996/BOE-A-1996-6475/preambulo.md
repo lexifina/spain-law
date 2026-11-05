@@ -1,0 +1,9 @@
+Por Real Decreto 407/1992, de 24 de abril, se aprobó la Norma Básica de Protección Civil prevista en el artículo 8 de la Ley 2/1985, de 21 de enero, sobre Protección Civil.
+
+En la citada norma básica se dispone que serán objeto de planes especiales, entre otras, las emergencias que puedan derivarse de accidentes en los transportes de mercancías peligrosas y que estos planes serán elaborados de acuerdo con la correspondiente Directriz Básica que habrá de ser aprobada por el Gobierno y que, deberá establecer los fundamentos comunes y los requisitos mínimos sobre organización, criterios operativos, medidas de intervención e instrumentos de coordinación que deben cumplir dichos planes.
+
+Desde el punto de vista de la previsión de las actuaciones a poner en práctica para la protección de personas y bienes, en caso de accidente en el transporte de mercancías peligrosas, son muy diferentes los problemas que se presentan cuando se trata de transportes por carretera o por ferrocarril que los que conllevan los realizados por vía aérea o por vía marítima. Por otra parte, son precisamente los accidentes producidos en los transportes terrestres de mercancías peligrosas los que con mayor frecuencia ponen en riesgo a la población y, en consecuencia, requieren de las necesarias intervenciones de las organizaciones de protección civil. Por todo ello, resulta adecuado diferenciar la planificación de protección civil según la modalidad del transporte y, a la vez, dar prioridad a la regulación de dicha planificación en lo que se refiere a los transportes terrestres de mercancías peligrosas, mediante la respectiva Directriz Básica.
+
+En su virtud, previo informe de la Comisión Nacional de Protección Civil y de la Comisión Interministerial de Coordinación del Transporte de Mercancías Peligrosas, a propuesta del Ministro de Justicia e Interior y previa deliberación del Consejo de Ministros, en su reunión del día 1 de marzo de 1996,
+
+DISPONGO:

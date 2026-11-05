@@ -1,0 +1,9 @@
+## Disposición transitoria tercera. Régimen transitorio aplicable a los contratos de duración determinada celebrados antes del 31 de diciembre de 2021.
+
+1. Los contratos para obra y servicio determinado basados en lo previsto en el artículo 15.1.a) del Estatuto de los Trabajadores, según la redacción vigente antes de la entrada en vigor del apartado tres del artículo primero, celebrados antes del 31 de diciembre de 2021, así como los contratos fijos de obra suscritos en virtud de lo dispuesto en el artículo 24 del VI Convenio Estatal de la Construcción, que estén vigentes en la citada fecha, resultarán aplicables hasta su duración máxima, en los términos recogidos en los citados preceptos.
+
+Asimismo, los contratos por obra o servicio determinados celebrados por las Administraciones Públicas y sus organismos públicos vinculados o dependientes, previstos en normas con rango de ley, vinculados a un proyecto específico de investigación o de inversión de duración superior a tres años y que estén vigentes en la fecha señalada en el párrafo anterior, mantendrán su vigencia hasta el cumplimiento de la duración fijada de acuerdo a su normativa de aplicación, con el límite máximo de tres años contados a partir de la citada fecha.
+
+2. Los contratos eventuales por circunstancias del mercado, acumulación de tareas o exceso de pedidos y los contratos de interinidad basados en lo previsto en el artículo 15.1.b) y c) del Estatuto de los Trabajadores, respectivamente, celebrados según la redacción vigente antes de la entrada en vigor del apartado tres del artículo primero, se regirán hasta su duración máxima por lo establecido en dicha redacción.
+
+3. Se encontrarán en situación legal de desempleo los trabajadores cuando se extingan, los contratos a los que se refieren los apartados anteriores, por la expiración del tiempo convenido o realización de la obra o servicio objeto del contrato, siempre que dichas causas no hayan actuado por su denuncia.

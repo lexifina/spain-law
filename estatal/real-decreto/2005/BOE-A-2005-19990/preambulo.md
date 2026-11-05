@@ -1,0 +1,21 @@
+La utilización, instalación y comprobación del funcionamiento de dispositivos de limitación de velocidad en determinadas categorías de vehículos está regulada en España por el Real Decreto 2484/1994, de 23 de diciembre.
+
+La seguridad del transporte y los aspectos medioambientales del transporte son esenciales para garantizar una movilidad sostenible.
+
+La utilización de dispositivos de limitación de velocidad en las categorías de vehículos de motor pesados, en aplicación del Real Decreto 2484/1994, de 23 de diciembre, ha surtido efectos positivos tanto en la mejora de la seguridad vial como en la protección del medio ambiente.
+
+La ampliación del ámbito de aplicación de los dispositivos de limitación de velocidad a los vehículos de más de 3,5 toneladas destinados al transporte de mercancías o de pasajeros era una de las medidas preconizadas por el Consejo en su Resolución de 26 de junio de 2000, relativa al refuerzo de la seguridad vial de conformidad con la Comunicación de la Comisión, de 20 de marzo de 2000, sobre las prioridades de la seguridad vial en la Unión Europea.
+
+La conveniencia de ampliar el ámbito de aplicación de los dispositivos de limitación de velocidad a los vehículos de motor de la categoría M2, a los vehículos de la categoría M3 con un peso máximo superior a cinco toneladas, pero igual o inferior a 10 toneladas, y a los vehículos de la categoría N2 motivó la publicación de la Directiva 2002/85/CE del Parlamento Europeo y del Consejo, de 5 de noviembre de 2002, por la que se modifica la Directiva 92/6/CEE del Consejo, de 10 de febrero de 1992, relativa a la instalación y a la utilización de los dispositivos de limitación de velocidad en determinadas categorías de vehículos a motor, traspuesta a la reglamentación nacional por el Real Decreto 2028/1986, de 6 de junio, por el que se dictan normas para la aplicación de determinadas directivas de la CEE, relativas a la homologación de vehículos automóviles, remolques y semirremolques, así como de partes y piezas de dichos vehículos, y actualizaciones de sus anexos.
+
+Como consecuencia de los cambios introducidos por la Directiva 2002/85/CE del Parlamento Europeo y del Consejo, de 5 de noviembre de 2002, es necesario modificar parte del articulado del Real Decreto 2484/1994, de 23 de diciembre. Asimismo, dada la importancia de la función que desempeñan los dispositivos de limitación de velocidad en el ámbito de la seguridad vial, y aprovechando la experiencia obtenida de la aplicación del Real Decreto 2484/1994, de 23 de diciembre, se considera necesario actualizar la regulación del procedimiento de autorización de las entidades y talleres para su instalación y comprobación del funcionamiento, así como sus normas de actuación.
+
+Dado que las actividades que desarrollan las citadas entidades y talleres son requeridas a los usuarios por la reglamentación vigente, tanto las normas de actuación como los requisitos técnicos deben garantizar, en todo el territorio nacional, la alta calidad y homogeneidad de sus actuaciones, sin perjuicio de aquellos otros condicionantes que las comunidades autónomas puedan establecer en virtud de sus competencias.
+
+Este real decreto se dicta al amparo de las competencias exclusivas del Estado en materia de tráfico y circulación de vehículos a motor establecidas por el artículo 149.1.21.ª de la Constitución Española.
+
+Este real decreto ha sido sometido a información de los sectores afectados según lo previsto en el artículo 24.1.c) de la Ley 50/1997, de 27 de noviembre, del Gobierno, así como al procedimiento de información de normas y reglamentaciones técnicas y de reglamentos relativos a la sociedad de la información, regulado por el Real Decreto 1337/1999, de 31 de julio, a los efectos de dar cumplimiento a lo dispuesto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, modificada por la Directiva 98/48/CE del Parlamento Europeo y del Consejo, de 20 julio de 1998.
+
+En su virtud, a propuesta del Ministro de Industria, Turismo y Comercio, del Ministro del Interior y de la Ministra de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de noviembre de 2005,
+
+DISPONGO:

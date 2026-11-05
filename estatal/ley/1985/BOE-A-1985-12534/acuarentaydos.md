@@ -1,0 +1,7 @@
+## Artículo cuarenta y dos
+
+1. Toda excavación o prospección arqueológica deberá ser expresamente autorizada por la Administración competente, que, mediante los procedimientos de inspección y control idóneos, comprobará que los trabajos estén planteados y desarrollados conforme a un programa detallado y coherente que contenga los requisitos concernientes a la conveniencia, profesionalidad e interés científico.
+
+2. La autorización para realizar excavaciones o prospecciones arqueológicas obliga a los beneficiarios a entregar los objetos obtenidos, debidamente inventariados, catalogados y acompañados de una Memoria, al Museo o centro que la Administración competente determine y en el plazo que se fije, teniendo en cuenta su proximidad al lugar del hallazgo y las circunstancias que hagan posible, además de su adecuada conservación, su mejor función cultural y científica. En ningún caso será de aplicación a estos objetos lo dispuesto en el artículo 44.3 de la presente Ley.
+
+3. Serán ilícitas y sus responsables serán sancionados conforme a lo dispuesto en la presente Ley, las excavaciones o prospecciones arqueológicas realizadas sin la autorización correspondiente, o las que se hubieren llevado a cabo con incumplimiento de los términos en que fueron autorizadas, así como las obras de remoción de tierra, de demolición o cualesquiera otras realizadas con posterioridad en el lugar donde se haya producido un hallazgo casual de objetos arqueológicos que no hubiera sido comunicado inmediatamente a la Administración competente.

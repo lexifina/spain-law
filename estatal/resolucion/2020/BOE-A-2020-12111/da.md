@@ -1,0 +1,5 @@
+## Disposición adicional primera. Documento de especificaciones técnicas para garantizar las comunicaciones entre los registros de la propiedad y la dirección general del catastro.
+
+La Dirección General del Catastro y el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España desarrollarán un nuevo sistema bidireccional de comunicaciones electrónicas para asegurar el flujo recíproco de todos los datos previstos en la presente Resolución conjunta, con la finalidad de dar cumplimiento a las previsiones del artículo 10.6 de la Ley Hipotecaria y facilitar la tramitación de los procedimientos establecidos en el Titulo VI de la misma. Las especificaciones técnicas de dicho sistema de intercambio se recogerán en un documento que se elaborará conjuntamente por ambas instituciones.
+
+A tal efecto, en el mes siguiente a la publicación de esta resolución se constituirá un grupo mixto de trabajo, con la finalidad de llevar a efecto los anteriores desarrollos en el plazo máximo de seis meses desde dicha publicación.

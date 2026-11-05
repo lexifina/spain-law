@@ -1,0 +1,7 @@
+## Disposición transitoria primera.
+
+Las Empresas que de acuerdo con lo preceptuado en el apartado a) del artículo segundo de la Orden de 30 de noviembre de 1964 estén autorizadas para acogerse al régimen de cooperación regulado por la misma, podrán ejercer la colaboración establecida en la sección segunda del capítulo II de la presente Orden, previa la autorización tácita prevista en la disposición transitoria cuarta, aunque no reúnan las condiciones señaladas en su artículo séptimo y con Ias modalidades siguientes:
+
+1.a En el caso de que las Empresas no posean instalaciones sanitarias propias en la amplitud y nivel adecuados para poder prestar toda la asistencia sanitaria, ésta será asumida por los Servicios Sanitarios de la Seguridad Social mediante el abono del coste de la misma. Tal asistencia se prestará a los trabajadores y a sus familiares beneficiarios en forma indiferenciada respecto a los sujetos protegidos de las restantes Empresas, sin perjuicio de atender, en cuanto no se opongan a la buena organización de dichos Servicios, las preferencias de las Empresas —manifestadas con intervención de su respectivo Jurado— por determinadas Instituciones Sanitarias cerradas de la Seguridad Social sean propias o concertadas.
+
+2.a En el supuesto señalado en la norma anterior, las Empresas percibirán del Instituto Nacional de Previsión las cantidades que resulten de acuerdo con lo establecido en el artículo noveno, si bien el porcentaje que se menciona en el último inciso del numero 1 del mismo será en este caso del 25 por 100.

@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas normas de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular, lo dispuesto en los artículos 63 a 65, relativos a las «Ayudas para atender necesidades extraordinarias de los retornados», incluidas en el «Programa de retorno» de la Orden TAS/874/2007, de 28 de marzo, por la que se establecen las bases reguladoras de la concesión de subvenciones destinadas a los programas de actuación para la ciudadanía española en el exterior y los retornados, así como cuantas previsiones contenidas en ella sean aplicables a dicho programa de ayudas.

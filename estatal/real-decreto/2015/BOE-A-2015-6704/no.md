@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 3 de diciembre de 2025, por la disposición derogatoria única.1.a) del Real Decreto 1029/2025, de 12 de noviembre, Ref. BOE-A-2025-22950#dd, excepto los Capítulos II, III y IV del Reglamento, que seguirán aplicándose hasta el 13 de mayo de 2026, según establece la disposición transitoria 1 del citado Real Decreto.

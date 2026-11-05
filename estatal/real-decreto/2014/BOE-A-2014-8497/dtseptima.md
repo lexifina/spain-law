@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Periodos de ejercicio profesional en prácticas realizados al amparo del Real Decreto 459/2010, de 16 de abril, por el que se regulan las condiciones para el reconocimiento de efectos profesionales a títulos extranjeros de especialista en Ciencias de la Salud, obtenidos en Estados no miembros de la Unión Europea.
+
+Los periodos de ejercicio profesional en prácticas a los que se refiere el artículo 10.5 del Real Decreto 459/2010, de 16 abril, que se hubieran iniciado con anterioridad a la entrada en vigor de este real decreto, mantendrán su régimen jurídico hasta que concluyan.

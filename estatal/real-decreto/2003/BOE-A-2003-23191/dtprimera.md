@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Plazo para la solicitud de alta de los colectivos que se incorporan al Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.
+
+Los miembros del Cuerpo único de Notarios que a la fecha de entrada en vigor de este real decreto desempeñen las funciones atribuidas a aquél con arreglo a la normativa especial de aplicación dispondrán de un plazo de dos meses desde la indicada fecha para solicitar el alta y, en su caso, la afiliación en la Tesorería General de la Seguridad Social y elegir la base de cotización de acuerdo con las reglas generales establecidas en el citado régimen especial, sin que les resulten de aplicación, para la primera opción de base, los límites establecidos para los trabajadores por cuenta propia con 50 o más años de edad.
+
+Respecto del cumplimiento de la obligación de cotizar, las cuotas devengadas hasta la finalización del plazo de dos meses para solicitar el alta inicial habrán de ingresarse dentro de los tres meses siguientes al día de entrada en vigor de este real decreto.

@@ -1,0 +1,53 @@
+## ANEXO X
+
+## Requisitos de titulación del profesorado de los módulos de enseñanza deportiva de los ciclos inicial y final de grado medio, en centros privados y de titularidad pública de Administraciones distintas a la educativa
+
+Serán impartidos por quienes acrediten los títulos que a continuación se detallan o los que hayan sido declarados equivalentes u homologados a efectos de docencia:
+
+Módulos del bloque común: ciclo inicial y final
+
+Ciclo inicial
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+| --- | --- |
+| MED-C101: Bases del comportamiento deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Psicología. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C102: Primeros auxilios. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Medicina. Diplomado o Graduado en Enfermería. Diplomado o Graduado en Fisioterapia. |
+| MED-C105: Actividad físico-deportiva para personas con discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C104: Organización deportiva. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. |
+
+Ciclo final
+
+| Módulo comunes de enseñanza deportiva | Titulaciones |
+| --- | --- |
+| MED-C201: Bases del aprendizaje deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Psicología. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+| MED-C202: Bases del entrenamiento deportivo. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte |
+| MED-C206: Iniciación deportiva para personas con discapacidad. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte |
+| MED-C204: Organización y legislación deportiva. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Licenciado o Graduado en Derecho. |
+| MED-C205. Deporte y género. | Licenciado o Graduado en Ciencias de la Actividad Física y el Deporte. Maestro especialista en Educación Física. Título de Grado que habilite para el ejercicio de la profesión de Maestro en Educación Primaria que incluya una mención en Educación Física. |
+
+Módulos del bloque específico: ciclo inicial y final
+
+Ciclo inicial
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+| --- | --- |
+| MED-ESES102: Técnica de Espada. MED-ESES103: Técnica de Florete. MED-ESES104: Técnica de Sable. MED-ESES105: Didáctica en la iniciación en la esgrima. MED-ESES106: Reglamento, historia y material. | Técnico Deportivo Superior en Esgrima. |
+| MED-ESES107: Organización de eventos. | Licenciado o Graduado en Derecho. Técnico Deportivo Superior en Esgrima. |
+| MED-ESES108: Formación práctica. | Licenciado o Graduado en Ciencias de la Actividad Física y del Deporte. |
+
+Ciclo final
+
+| Módulo específico de enseñanza deportiva | Titulaciones |
+| --- | --- |
+| MED-ESES201: Escuela de la esgrima. | Técnico Deportivo Superior en esgrima. |
+| MED-ESES202: Preparación física del esgrimista. | Técnico Deportivo Superior en Esgrima. Licenciado o Graduado en Ciencias de la Actividad Física y del Deporte. |
+| MED-ESES203: Esgrima adaptada. | Técnico Deportivo Superior en Esgrima. |
+| MED-ESES204: Organización de eventos. | Técnico Deportivo Superior en Esgrima. Licenciado o Graduado en Derecho. |
+| MED-ESES205: Técnica de Espada. | Técnico Deportivo Superior en Esgrima. |
+| MED-ESES206: Técnica de Florete. | Técnico Deportivo Superior en Esgrima. |
+| MED-ESES207: Técnica de Sable. | Técnico Deportivo Superior en Esgrima. |
+| MED-ESES208: Formación práctica. | Licenciado o Graduado en Ciencias de la Actividad Física y del Deporte. Técnico Deportivo Superior en Esgrima. |
+
+> Se modifica por el art. 7.4 a 6 del Real Decreto 534/2026, de 30 de junio. Ref. BOE-A-2026-14332
+
+> Se modifica por el art. 7.1 y 2 del Real Decreto 737/2015, de 31 de julio. Ref. BOE-A-2015-8645

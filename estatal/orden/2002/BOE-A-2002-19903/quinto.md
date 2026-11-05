@@ -1,0 +1,5 @@
+## Quinto. Régimen y calendario de transferencias.
+
+La transferencia de documentos es el procedimiento mediante el cual los documentos pasan de los archivos de gestión al Archivo General y a los Archivos del Estado, en aplicación de la normativa estatal vigente. Su objetivo final es lograr que el Patrimonio Documental reciba el tratamiento archivístico adecuado por el personal especializado de los Archivos del Estado y evitar la acumulación de documentos en las oficinas.
+
+A tal efecto, la Secretaría General Técnica aprobará un calendario anual de transferencias al Archivo General, previo informe de la Comisión Calificadora. Las transferencias anuales de documentos de los archivos de gestión se realizarán según las instrucciones técnicas que la Secretaría General Técnica dicte a tal efecto e irán acompañadas de una copia de los instrumentos de control que los describan (ficheros, índices, etc.), en papel y/o soporte informático, y que hayan venido sirviendo a la unidad para el control y la recuperación de los mismos.

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Funciones y competencias cuyo ejercicio se mantiene transitoriamente en la Comisión Nacional de los Mercados y la Competencia.
+
+Sin perjuicio de las modificaciones introducidas por este Real Decreto-ley en el título VI de la Ley 34/1998, de 7 de octubre, del sector de hidrocarburos, y en el título X de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, de conformidad con lo establecido en la disposición transitoria cuarta de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, la Comisión Nacional de los Mercados y la Competencia seguirá desempeñando las funciones a que se hace referencia en la disposición adicional octava de dicha Ley 3/2013, de 4 de junio.

@@ -1,0 +1,3 @@
+## Disposición adicional novena. Ayudas sociales a los afectados por el Virus de Inmunodeficiencia Humana (V.I.H.).
+
+Las cuantías de las ayudas sociales reconocidas en favor de las personas contaminadas por el V.I.H., establecidas en los párrafos b), c) y d) del apartado 1 del artículo 2 del Real Decreto-ley 9/1993, de 28 de mayo, experimentarán en 1995 un incremento del 3,5 por 100, respecto de las correspondientes a 1994, corregidas por la toma en consideración del porcentaje de evolución del IPC, en el período noviembre 93-noviembre 94, con abono, en su caso, de las diferencias existentes durante 1994.

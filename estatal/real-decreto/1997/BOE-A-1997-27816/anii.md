@@ -1,0 +1,27 @@
+## ANEXO II
+
+## Prima al consumo de carbón autóctono, año 1998
+
+Ptas./kWh, año 1998
+
+|  | PRODUCCIONES 1998 MÁS DE 25 AÑOS GWh | PRODUCCIONES 1998 PLAN MINERÍA GWh | MÁS DE 25 AÑOS 1998 PTA/kWh | PERMANENTE PTA/kWh | AJUSTE PUENTES Y MEIRAMA PTA/kWh | INCENTIVO TECNOLOGÍA GICC PTA/kWH |
+| --- | --- | --- | --- | --- | --- | --- |
+| TERUEL LN | 0 | 4.028 | 0,0000 | 0,5812 | 0,0000 | 0,0000 |
+| ESCUCHA LN | 466 | 466 | 0,8083 | 0,5812 | 0,0000 | 0,0000 |
+| ESCATRON LN | 0 | 314 | 0,0000 | 0,5812 | 0,0000 | 0,0000 |
+| SERCHS LN | 285 | 285 | 0,6406 | 0,5812 | 0,0000 | 0,0000 |
+| COMPOSTILLA HN | 3.612 | 7.744 | 0,8249 | 0,5812 | 0,0000 | 0,0000 |
+| ANLLARES HN | 0 | 2.231 | 0,0000 | 0,5812 | 0,0000 | 0,0000 |
+| NARCEA HN | 807 | 2.097 | 0,5302 | 0,5812 | 0,0000 | 0,0000 |
+| LA ROBLA HN | 1.113 | 2.556 | 0,6918 | 0,5812 | 0,0000 | 0,0000 |
+| GUARDO HN | 522 | 1.755 | 0,8908 | 0,5812 | 0,0000 | 0,0000 |
+| SOTO HN | 1.140 | 2.380 | 0,3633 | 0,5812 | 0,0000 | 0,0000 |
+| LADA HN | 560 | 1.825 | 0,4005 | 0,5812 | 0,0000 | 0,0000 |
+| ABOÑO HN | 0 | 2.921 | 0,0000 | 0,5812 | 0,0000 | 0,0000 |
+| PUENTENUEVO HN | 0 | 1.753 | 0,0000 | 0,5812 | 0,0000 | 0,0000 |
+| PUERTOLLANO HN | 1.048 | 1.048 | 1,0298 | 0,5812 | 0,0000 | 0,0000 |
+| ELCOGAS GICC | 0 | 621 | 0,0000 | 0,5812 | 0,0000 | 14,3338 |
+| PUENTES LP | 0 | 4.217 | 0,0000 | 0,5812 | 0,2336 | 0,0000 |
+| MEIRAMA LP | 0 | 1.878 | 0,0000 | 0,5812 | 0,8610 | 0,0000 |
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 87, de 11 de abril de 1998. Ref. BOE-A-1998-8612

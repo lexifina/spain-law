@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Periodo transitorio para habilitar sistemas de información a efectos de la notificación de información prevista en el artículo 13.6.
+
+El Ministerio de Agricultura, Pesca y Alimentación dispondrá de un periodo transitorio de nueve meses, tras la entrada en vigor de esta norma, de cara a efectuar los desarrollos necesarios para habilitar los sistemas informáticos que permitan a los operadores económicos efectuar la comunicación prevista en el artículo 13.6 En todo caso, durante este periodo, el Ministerio de Agricultura, Pesca y Alimentación habilitará los medios para que estas notificaciones se puedan llevar a cabo utilizando archivos electrónicos.

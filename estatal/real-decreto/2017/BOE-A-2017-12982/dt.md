@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Órganos de gobierno.
+
+Durante el mes siguiente a la publicación de estos Estatutos en el Boletín Oficial del Estado deberán llevarse a cabo los procesos de elección de los miembros del Pleno del Consejo General por la totalidad de los Colegios, debiendo adaptarse la composición de dicho Pleno a lo dispuesto en estos estatutos. La composición del resto de los órganos de gobierno del Consejo General de Economistas, tras la celebración de las elecciones a la Presidencia del Consejo, se adaptará a lo dispuesto en estos Estatutos una vez trascurridos doce meses su entrada en vigor.

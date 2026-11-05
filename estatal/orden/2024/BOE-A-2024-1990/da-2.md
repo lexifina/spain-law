@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Declaración de existencias y destrucción de marcas fiscales.
+
+1. Antes del 1 de octubre de 2024, los fabricantes, titulares de depósitos fiscales y depósitos de recepción, así como, en su caso, los destinatarios registrados ocasionales, los destinatarios certificados, los representantes fiscales de vendedores a distancia, los expedidores registrados y los importadores, presentarán ante la oficina gestora de impuestos especiales, declaración comprensiva de las marcas fiscales que tengan en existencias sin utilizar de los modelos vigentes hasta la fecha de entrada en vigor de la presente orden, con expresión de su numeración.
+
+2. Los operadores antes citados procederán a la destrucción a que se refiere el apartado anterior de las marcas fiscales antiguas, bajo el control y autorización de los órganos de la intervención de impuestos especiales de fabricación, con anterioridad al 31 de diciembre de 2024. De dicha destrucción se levantará el acta correspondiente, confirmando, el tipo, los tramos de numeración y cantidad de las marcas fiscales destruidas, lugar y fecha de la destrucción.

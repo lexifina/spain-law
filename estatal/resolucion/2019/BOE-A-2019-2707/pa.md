@@ -1,0 +1,11 @@
+Por Acuerdo de Consejo de Ministros de 6 de julio de 2012, se modificó el Acuerdo de 5 de mayo de 2006, por el que se aprueba el Programa Nacional de Seguridad para la Aviación Civil y se declara pública la parte del Programa Nacional de Seguridad para la Aviación Civil que afecta directamente a los pasajeros y aquélla que, en el ámbito interno, constituye aplicación de las medidas comunes de seguridad aérea que no tienen carácter de información clasificada de la UE.
+
+El Acuerdo de Consejo de Ministros de 6 de julio de 2012 prevé en su apartado segundo que en cumplimiento del Reglamento (CE) número 300/2008 del Parlamento Europeo y del Consejo, de 11 de marzo de 2008, por el que se establecen las normas comunes para la seguridad de la aviación civil y por el que se deroga el Reglamento (CE) número 2320/2002, se declara pública la parte del Programa Nacional de Seguridad para la Aviación Civil que afecta directamente a los pasajeros y aquélla que, en el ámbito interno, constituya aplicación de las medidas comunes de seguridad aérea que no tienen carácter de información clasificada de la UE de conformidad con lo dispuesto en el Reglamento de Ejecución (UE) 2015/1998 de la Comisión, de 5 de noviembre de 2015, por el que se establecen medidas detalladas para la aplicación de las normas básicas comunes de seguridad aérea, procediéndose a su publicación en el anexo.
+
+Asimismo, se autoriza a la Secretaria General de Transporte a publicar las modificaciones y actualizaciones de la parte pública del Programa Nacional de Seguridad para la Aviación Civil.
+
+Esta Resolución aprueba las modificaciones y actualizaciones de la parte pública del Programa Nacional de Seguridad para la Aviación Civil, que son motivadas por la adopción de nuevas disposiciones y aspectos de índole práctico que afectan a la seguridad de la aviación civil.
+
+Estas disposiciones cuentan con la conformidad del Pleno del Comité Nacional de Seguridad para la Aviación Civil que en su sesión de 19 de diciembre de 2018 adoptó una nueva versión del Programa Nacional de Seguridad para la Aviación Civil, siendo la fecha de entrada en vigor el 1 de febrero de 2019.
+
+De conformidad con lo acordado, como anexo a esta Resolución, se procede a la publicación de la actualización de la parte pública del Programa Nacional de Seguridad para la Aviación Civil.

@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Los preceptos de esta Ley serán de aplicación a los hechos imponibles producidos a partir de su entrada en vigor. Los acaecidos con anterioridad se regularán por la legislación precedente, salvo en lo relativo al plazo de prescripción al que se aplicará lo dispuesto en el artículo 25 de esta Ley. En todo caso, la competencia para la gestión y liquidación estará atribuida a los órganos a que se refiere el artículo 34 desde el momento de la entrada en vigor de la presente Ley, salvo cuando se trate de documentos presentados con anterioridad a liquidación, en cuyo caso se seguirá manteniendo la competencia de las oficinas en que hubiesen sido presentados hasta su liquidación definitiva.

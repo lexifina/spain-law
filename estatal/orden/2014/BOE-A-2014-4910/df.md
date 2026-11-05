@@ -1,0 +1,3 @@
+## Disposición final primera. Modificación de la Orden JUS/1294/2003, de 30 de abril, por la que se determinan los ficheros con datos de carácter personal del departamento y de sus organismos públicos.
+
+Se amplía la relación de los ficheros del Ministerio de Justicia que figuran en la Orden JUS/1294/2003, de 30 de abril, por la que se determinan los ficheros con datos de carácter personal del departamento y de sus organismos públicos, mediante la incorporación a su Anexo I, del fichero número 134, denominado Fichero de Mediadores e Instituciones de mediación, cuyas características se recogen en el anexo de esta orden.

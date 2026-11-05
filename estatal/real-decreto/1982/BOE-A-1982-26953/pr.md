@@ -1,0 +1,7 @@
+El Real Decreto-ley treinta y seis/mil novecientos setenta y ocho, de dieciséis de noviembre, sobre gestión institucional de la Seguridad Social, la Salud y el Empleo, previó, en su disposición transitoria primera, que las Comisiones Técnicas Calificadoras continuasen subsistiendo y ejerciendo sus funciones hasta tanto fueran sustituidas por la correspondiente Entidad Gestora, Servicio u Organismo que resulte competente, de acuerdo con lo previsto en el Real Decreto-ley.
+
+A la vista de las competencias de los Institutos Nacionales de la Seguridad Social, de la Salud y de los Servicios Sociales, se hace precisa, en aras de una mayor eficacia y simplificación, la asunción por dichos Institutos, teniendo en cuenta las competencias atribuidas a cada uno de ellos de las funciones que transitoriamente han venido ejerciendo desde el citado Real Decreto-ley, las Comisiones Técnicas Calificadoras. Con ello, por otra parte, se viene a dar cumplimiento al Programa de Mejora y Racionalización de la Seguridad Social que entre sus medidas contempla la revisión de la actual normativa en relación con el órgano competente para calificar la invalidez, con la finalidad de obtener una mayor rapidez procedimental sin merma de las garantías de los beneficiarios.
+
+En su virtud, a propuesta de los Ministros de Trabajo y Seguridad Social y de Sanidad y Consumo y previa deliberación del Consejo de Ministros en su reunión del día veinticuatro de septiembre de mil novecientos ochenta y dos,
+
+DISPONGO:

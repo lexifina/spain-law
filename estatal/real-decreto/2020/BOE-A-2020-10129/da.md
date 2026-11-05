@@ -1,0 +1,3 @@
+## Disposición adicional primera. Creación del órgano de coordinación para el funcionamiento del organismo autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social.
+
+En el plazo máximo de un mes desde la publicación de este real decreto, se dará cumplimiento a lo dispuesto en la disposición adicional octava del Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los Departamentos ministeriales, al objeto de garantizar la coordinación necesaria para el funcionamiento cohesionado del organismo autónomo Organismo Estatal Inspección de Trabajo y Seguridad Social respecto de las actuaciones inspectoras de la competencia de la Administración General del Estado.

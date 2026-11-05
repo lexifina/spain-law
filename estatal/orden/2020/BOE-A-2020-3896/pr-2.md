@@ -1,0 +1,3 @@
+## Primero. Suspensión de la activación del servicio de gestión de la demanda de interrumpibilidad por criterios económicos.
+
+Mientras se encuentre en vigor el estado de alarma declarado para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, Red Eléctrica de España, S.A., operador del sistema eléctrico, no activará el servicio de gestión de la demanda de interrumpibilidad por criterios económicos a los que hace referencia el artículo 8 de la Orden IET/2013/2013, de 31 de octubre, por la que se regula el mecanismo competitivo de asignación del servicio de gestión de la demanda de interrumpibilidad.

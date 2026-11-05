@@ -1,0 +1,3 @@
+## Disposición adicional duodécima. Revisión de los umbrales regulados en el artículo 28 de la ley.
+
+Los umbrales establecidos en el artículo 28 de esta ley para determinar los operadores que quedan exentos de la obligación de constituir garantías financieras serán estudiados y revisados por el Gobierno a la luz de la experiencia derivada de la aplicación del método al que se refiere el artículo 24 para la fijación de la cobertura de las referidas garantías. Antes de 31 de diciembre de 2015 el Gobierno presentará un informe proponiendo el mantenimiento o, en su caso, la modificación, al alza o a la baja, de los citados umbrales.

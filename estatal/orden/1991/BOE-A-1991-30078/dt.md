@@ -1,0 +1,3 @@
+## Disposición transitoria. Actualización y depuración del Inventario General.
+
+La implantación en los distintos Centros del sistema de información se realizará partiendo de la información contenida en el Inventario General de Bienes y Derechos del Estado, sin perjuicio de su permanente actualización y depuración, a cuyo efecto deberán remitirse a la Dirección General del Patrimonio del Estado los datos precisos a tal fin que, en su caso, no hayan podido ser registrados por alguno de los Centros o Unidades administrativas integrados en el sistema, procediéndose, por dicho Centro directivo, a efectuar las anotaciones correspondientes.

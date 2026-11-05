@@ -1,0 +1,3 @@
+## Disposición transitoria décima. Ámbito de aplicación del régimen especial de solvencia.
+
+Desde el 1 de septiembre hasta el 31 de diciembre de 2015, las entidades aseguradoras domiciliadas en España que no realicen actividades en régimen de derecho de establecimiento o de libre prestación de servicios en otros Estados miembros ni en terceros países, podrán acogerse al régimen especial de solvencia regulado en el capítulo VIII del título III, cuando lo soliciten a la Dirección General de Seguros y Fondos de Pensiones acreditando que cumplen todas las condiciones que reglamentariamente se establezcan durante el ejercicio anterior a la solicitud.

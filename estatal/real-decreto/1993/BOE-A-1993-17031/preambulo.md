@@ -1,0 +1,1 @@
+Las referencias hechas a las funciones de Médico General o a las plazas de Médico de Medicina General se entenderán realizadas a las funciones de Médico de Familia y a las plazas de Medicina de Familia, respectivamente, según establece la disposición adicional 3. a) del Real Decreto 1753/1998, de 31 de julio. Ref. BOE-A-1998-20604#datercera

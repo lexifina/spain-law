@@ -1,0 +1,3 @@
+## Disposición adicional primera. Eliminación de obstáculos normativos a la circulación de vehículos históricos en zonas urbanas.
+
+Sin perjuicio de la promoción de la movilidad sin emisiones, en el ámbito de sus competencias y atendiendo a su uso ocasional y no como medio de transporte cotidiano de los vehículos históricos, los municipios podrán facilitar, en los términos y condiciones que se prevean en sus ordenanzas municipales, la circulación de vehículos históricos en las zonas de bajas emisiones, para fomentar la conservación y el conocimiento del patrimonio cultural e industrial automovilístico, conforme a lo previsto en el artículo 5.3 del Real Decreto 1052/2022, de 27 de diciembre, por el que se regulan las zonas de bajas emisiones.

@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+Las reformas y adaptaciones de las instalaciones existentes, derivadas de las exigencias incorporadas a esta Reglamentación que no sean consecuencia de disposiciones legales vigentes y, en especial, de lo dispuesto en el Decreto dos mil quinientos diecinueve/mil novecientos setenta y cuatro, de nueve de agosto, sobre entrada en vigor, aplicación y desarrollo del Código Alimentario Español, serán llevadas a cabo en el plazo de dieciocho meses, a contar desde la publicación de la presente Reglamentación salvo lo que se dispone en el punto 3.1, apartado 1 y apartado 4, y en el punto 3.2, apartado 1, en lo que se refiere a los accesos fáciles y amplios, que será de tres años. El punto 6.2, apartados 7.1 y 7.2, cuyo plazo será de tres años y dieciocho meses, respectivamente, quedando derogado el apartado 7.2 a la entrada en vigor del apartado 7.1.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 156 , de 1 de julio de 1982. Ref. BOE-A-1982-16406.

@@ -1,0 +1,86 @@
+## A. Definiciones
+
+A efectos de este Reglamento, se considerarán las siguientes definiciones:
+
+| Vehículo | Aparato apto para circular por las vías o terrenos a que se refiere el artículo 2 de La Ley sobre Tráfico, Circulación de vehículos a Motor y Seguridad Vial. |
+| --- | --- |
+| Vehículo de tracción animal | Vehículo arrastrado por animales. |
+| Ciclo | Vehículo de dos ruedas por lo menos, accionado por el esfuerzo muscular de las personas que lo ocupan, en particular mediante pedales o manivelas. |
+| Bicicleta | Ciclo de dos ruedas. |
+| Ciclo de pedales con pedaleo asistido. | Ciclo, equipado con pedales y con un motor eléctrico auxiliar, de potencia nominal continua máxima inferior o igual a 250 W, cuya potencia disminuya progresivamente y que finalmente se interrumpa antes de que la velocidad del vehículo alcance los 25 km/h o si el ciclista deja de pedalear. |
+| Bicicleta de pedales con pedaleo asistido. | Ciclo de pedales con pedaleo asistido de dos ruedas. |
+| Vehículo a motor | Vehículo provisto de motor para su propulsión. Se excluyen de esta definición los ciclomotores, los tranvías, los vehículos para personas de movilidad reducida, los ciclos de pedales con pedaleo asistido y los vehículos de movilidad personal. |
+| Ciclomotor | Tienen la consideración de ciclomotores los vehículos que se definen a continuación: |
+| Ciclomotor de dos ruedas | Vehículo de dos ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h. |
+| Ciclomotor de tres ruedas | Vehículo de tres ruedas, provisto de un motor de cilindrada no superior a 50 cm3, si es de combustión interna, y con una velocidad máxima por construcción no superior a 45 km/h. |
+| Cuatriciclo ligero | Definido conforme a lo dispuesto en el anexo I del Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, para la categoría L6e. |
+| Cuatriciclo pesado | Definido conforme a lo dispuesto en el anexo I del Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, para la categoría L7e. |
+| Ciclo de motor | Definido conforme a lo dispuesto en el anexo I del Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, para la categoría L1e-A. |
+| Vehículo de movilidad personal | Vehículo de una o más ruedas dotado de una única plaza y propulsado exclusivamente por motores eléctricos que pueden proporcionar al vehículo una velocidad máxima por diseño comprendida entre 6 y 25 km/h. Sólo pueden estar equipados con un asiento o sillín si están dotados de sistema de autoequilibrado. Se excluyen de esta definición los Vehículos sin sistema de autoequilibrado y con sillín, los vehículos concebidos para competición, los vehículos para personas con movilidad reducida y los vehículos con una tensión de trabajo mayor a 100 VCC o 240 VAC, así como aquellos incluidos dentro del ámbito del Reglamento (UE) n.º 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013. |
+| Vehículo personal ligero | Vehículo de movilidad personal con una velocidad máxima de fabricación entre 6 y 25 km/h, si su peso es inferior a 25 kg, o una velocidad máxima de fabricación entre 6 y 14 km/h, si su peso es superior a 25 kg. Se excluyen de esta definición los vehículos diseñados y fabricados para ser utilizados exclusivamente por las Fuerzas Armadas, los vehículos motorizados o elementos de apoyo a la movilidad y autonomía personal que son destinados exclusivamente para ser utilizados por personas con discapacidad o con movilidad reducida, y los ciclos o las bicicletas de pedales con pedaleo asistido. |
+| Tranvía | Vehículo que marcha por raíles instalados en la vía. |
+| Vehículo para personas de movilidad reducida | Vehículo cuya tara no sea superior a 350 kg, y que, por construcción, no puede alcanzar en llano una velocidad superior a 45 km/h, proyectado y construido especialmente (y no meramente adaptado) para el uso de personas con alguna disfunción o incapacidad física. En cuanto al resto de sus características técnicas se les equiparará a los ciclomotores de tres ruedas. |
+| Automóvil | Vehículo de motor que sirve, normalmente, para el transporte de personas o cosas, o de ambas a la vez, o para la tracción de otros vehículos con aquel fin. Se excluyen de esta definición los vehículos especiales. |
+| Motocicleta | Tienen la consideración de motocicletas los automóviles que se definen en los dos epígrafes siguientes: |
+| Motocicletas de dos ruedas | Vehículos de dos ruedas sin sidecar, provistos de un motor de cilindrada superior a 50 cm3, si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h. |
+| Motocicletas con sidecar | Vehículos de tres ruedas asimétricas respecto a su eje medio longitudinal, provistos de un motor de cilindrada superior a 50 cm3, si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h. |
+| Vehículo de tres ruedas | Automóvil de tres ruedas simétricas, provisto de un motor de cilindrada superior a 50 cm3, si es de combustión interna, y/o con una velocidad máxima por construcción superior a 45 km/h. |
+| Turismo | Automóvil destinado al transporte de personas que tenga, por lo menos, cuatro ruedas y que tenga, además del asiento del conductor, ocho plazas como máximo. |
+| Autobús o autocar | Automóvil que tenga más de 9 plazas incluida la del conductor, destinado, por su construcción y acondicionamiento, al transporte de personas y sus equipajes. Se incluye en este término el trolebús, es decir, el vehículo conectado a una línea eléctrica y que no circula por raíles. |
+| Autobús o autocar articulado | Autobús o autocar compuesto por dos partes rígidas unidas entre sí por una sección articulada. En este tipo de vehículos, los compartimentos para viajeros de cada una de ambas partes rígidas se comunican entre sí. La sección articulada permite la libre circulación de los viajeros entre las partes rígidas. La conexión y disyunción entre las dos partes únicamente podrá realizarse en el taller. |
+| Autobús o autocar de dos pisos | Autobús o autocar en el que los espacios destinados a los pasajeros están dispuestos, al menos parcialmente, en dos niveles superpuestos, de los cuales el superior no dispone de plazas sin asiento. |
+| Camión | Automóvil con cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina no está integrada en el resto de la carrocería y con un máximo de 9 plazas, incluido el conductor. |
+| Furgón/Furgoneta | Automóvil con cuatro ruedas o más, concebido y construido para el transporte de mercancías, cuya cabina está integrada en el resto de la carrocería y con un máximo de 9 plazas, incluido el conductor. |
+| Tractocamión | Automávil concebido y construido para realizar, principalmente, el arrastre de un semirremolque. |
+| Remolque | Vehículo no autopropulsado diseñado y concebido para ser remolcado por un vehículo de motor. |
+| Remolque de enganche o remolque completo | Remolque de, al menos, dos ejes y un eje de dirección como mínimo, provisto de un dispositivo de remolque que puede desplazarse verticalmente (en relación al remolque), que no transmita al vehículo de tracción una carga significativa (menos de 100 kg.) |
+| Remolque con eje central | Remolque provisto de un dispositivo de enganche que no puede desplazarse verticalmente (en relación al remolque) y cuyo(s) eje(s) esté(n) situado(s) próximo(s) al centro de gravedad del vehículo (cuando la carga esté repartida uniformemente) de forma que sólo se transmita al vehículo de tracción una pequeña carga estática vertical. |
+| Semirremolque | Vehículo no autopropulsado diseñado y concebido para ser acoplado a un automóvil, sobre el que reposará parte del mismo, transfiriéndole una parte sustancial de su masa. |
+| Caravana | Remolque o semirremolque concebido y acondicionado para ser utilizado como vivienda móvil, permitiéndose el uso de su habitáculo cuando el vehiculo se encuentra estacionado. |
+| Vehículo articulado | Automóvil constituido por un vehículo de motor acoplado a un semirremolque. |
+| Tren de carretera | Automóvil constituido por un vehículo de motor enganchado a un remolque. |
+| Conjunto de vehículos | Un tren de carretera, o un vehículo articulado. |
+| Vehículo acondicionado | Cualquier vehículo cuyas superestructuras fijas o móviles estén especialmente equipadas para el transporte de mercancías a temperaturas dirigidas y en el que el espesor de cada pared lateral, incluido el aislamiento, sea de 45 mm., como mínimo. |
+| Derivado de turismo | Automóvil destinado a servicios o a transporte exclusivo de mercancías, derivado de un turismo del cual conserva la carrocería y dispone únicamente de una fila de asientos. |
+| Vehículo mixto adaptable | Automóvil especialmente dispuesto para el transporte, simultáneo o no, de mercancías y personas hasta un máximo de 9, incluido el conductor, y en el que se puede sustituir eventualmente la carga, parcial o totalmente, por personas mediante la adición de asientos. |
+| Autocaravana | Vehículo construido con propósito especial, incluyendo alojamiento vivienda y conteniendo, al menos, el equipo siguiente asientos y mesa, camas o literas que puedan ser convertidos en asientos, cocina y armarios o similares. Este equipo estará rígidamente fijado al compartimento vivienda los asientos y la mesa pueden ser diseñados para ser desmontados fácilmente. |
+| Vehículos todo terreno | Cualquier vehículo automóvil se considerará Todo Terreno si cumple las definiciones que indica la Directiva 92/53 en su anexo II punto 4. |
+| Vehículo especial | Vehículo, autopropulsado o remolcado, concebido y construido para realizar obras o servicios determinados y que, por sus características, está exceptuado de cumplir alguna de las condiciones técnicas exigidas en este Reglamento o sobrepasa permanentemente los límites establecidos en el mismo para masas o dimensiones, así como la maquinaria agrícola y sus remolques. |
+| Tractor agrícola | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar, empujar, llevar o accionar aperos, maquinaria o remolques agrícolas. |
+| Motocultor | Vehículo especial autopropulsado, de un eje, dirigible por manceras por un conductor que marche a pie. Ciertos motocultores pueden, también, ser dirigidos desde un asiento incorporado a un remolque o máquina agrícola o a un apero o bastidor auxiliar con ruedas. |
+| Tractocarro | Vehículo especial autopropulsado, de dos o más ejes, especialmente concebido para el transporte en campo de productos agrícolas. |
+| Máquina agrícola automotriz | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar trabajos agrícolas. |
+| Portador | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para portar máquinas agrícolas. |
+| Máquina agrícola remolcada | Vehículo especial concebido y construido para efectuar trabajos agrícolas que, para trasladarse y maniobrar debe ser arrastrado o empujado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se excluyen de esta definición los aperos agrícolas, entendiéndose por tales los útiles o instrumentos agrícolas, sin motor, concebidos y construidos para efectuar trabajos de preparación de terreno o laboreo, que, además, no se consideran vehículos a los efectos de este Reglamento, así como también el resto de maquinaria agrícola remolcada de menos de 750 kg. de masa. |
+| Remolque agrícola | Vehículo especial de transporte construido y destinado para ser arrastrado por un tractor agrícola, motocultor, portador o máquina agrícola automotriz. Se incluyen en esta definición a los semirremolques agrícolas. |
+| Tractor de obras | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar útiles, máquinas o vehiculos de obras. |
+| Máquina de obras automotriz | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar trabajos de obras. |
+| Máquina de obras remolcada | Vehículo especial concebido y construido para efectuar trabajos de obras, y que, para trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor de obras o una máquina de obras automotriz. |
+| Tractor de servicios | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para arrastrar o empujar vehículos de servicio, vagones u otros aparatos. |
+| Máquina de servicios automotriz | Vehículo especial autopropulsado, de dos o más ejes, concebido y construido para efectuar servicios determinados. |
+| Máquina de servicios remolcada | Vehículo especial concebido y construido para efectuar servicios determinados, y que, para trasladarse y maniobrar, debe ser arrastrado o empujado por un tractor de servicios o una máquina de servicios automotriz. |
+| Tren turístico | Vehículo especial constituido por un vehículo tractor y uno o varios remolques, concebido y construido para el transporte de personas con fines turísticos, con velocidad máxima limitada y sujeto a las limitaciones de circulación que imponga la autoridad competente en materia de tráfico. |
+| QUAD-ATV | Vehículo especial de cuatro o más ruedas fabricado para usos específicos muy concretos, con utilización fundamentalmente fuera de carretera, con sistema de dirección mediante manillar en el que el conductor va sentado a horcajadas y dotado de un sistema de tracción adecuado al uso fuera de carretera y cuya velocidad puede estar limitada en función de sus características técnicas o uso. Se exceptúan de esta definición los vehículos incluidos en las categorías definidas en el Reglamento (UE) 168/2013 del Parlamento Europeo y del Consejo, de 15 de enero de 2013, relativo a la homologación de los vehículos de dos o tres ruedas y los cuatriciclos, y a la vigilancia del mercado de dichos vehículos. |
+| Pick-up | Vehículo cuya masa máxima no es superior a 3.500 kg, en el que las plazas de asiento y la zona de carga no están situadas en un compartimento único. |
+| Vehículo eléctrico (EV) | Vehículo propulsado al menos por uno o más motores eléctricos. |
+| Vehículo eléctrico de baterías (BEV) | Vehículo eléctrico que utiliza como sistemas de almacenamiento de energía de propulsión exclusivamente baterías eléctricas recargables desde una fuente de energía eléctrica exterior. No se excluye la posibilidad de incluir, además, un sistema de frenado regenerativo que cargue las baterías durante las retenciones y frenadas. |
+| Vehículo eléctrico de autonomía extendida (REEV) | Vehículo eléctrico que, reuniendo todas las condiciones de un vehículo eléctrico de baterías, incorpora además un motor de combustión interna. |
+| Vehículo eléctrico de células de combustible (FCV) | Vehículo eléctrico que utiliza exclusivamente energía eléctrica procedente de una pila de combustible de hidrógeno embarcado. |
+| Vehículo eléctrico híbrido de células de combustible (FCHV) | Vehículo eléctrico de células de combustible que equipa, además, baterías eléctricas recargables. |
+| Vehículo híbrido (HV) | Vehículo equipado con un sistema de propulsión que contiene al menos dos categorías diferentes de convertidores de energía de propulsión y al menos dos categorías diferentes de sistemas de almacenamiento de energía de propulsión. |
+| Vehículo eléctrico híbrido (HEV) | Vehículo propulsado por una combinación de motores de combustión y eléctricos. |
+| Vehículo eléctrico híbrido enchufable (PHEV) | Vehículo eléctrico híbrido, provisto de baterías que pueden ser recargadas de una fuente de energía eléctrica exterior, que a voluntad puede ser propulsado sólo por su(s) motor(es) eléctrico(s). |
+| Vehículo de hidrógeno (HICEV) | Vehículo propulsado por motor(es) de combustión de hidrógeno. |
+| Vehículo de uso compartido | Vehículo destinado al alquiler sin conductor dedicado a su uso concatenado e intensivo por un número indeterminado de usuarios dentro de una zona de servicio delimitada. Estará disponible, en cualquier momento, para ser utilizado mediante el empleo de aplicaciones móviles. No se considerarán incluidos en esta definición aquellos vehículos destinados al alquiler sin conductor que no se dediquen exclusivamente a esa modalidad de alquiler. |
+
+> Se añade la definición de "vehículo personal ligero" por el art. único.5 del Real Decreto 52/2026, de 28 de enero. Ref. BOE-A-2026-2140
+
+> Se modifica por el art. único.1.a) de la Orden PJC/780/2025, de 21 de julio. Ref. BOE-A-2025-15231
+
+> Se modifica, con efectos de 2 de enero de 2021, por el art. 2.6 del Real Decreto 970/2020, de 10 de noviembre. Ref. BOE-A-2020-13969#as
+
+> Se modifica por el art. único.1.a) de la Orden PCI/810/2018, de 27 de julio. Ref. BOE-A-2018-10856
+
+> Se añade la última definición por el art. 5.1 del Real Decreto 711/2006, de 9 de junio. Ref. BOE-A-2006-11051.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 54, de 3 de marzo de 2007. Ref. BOE-A-2007-4464.

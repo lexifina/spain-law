@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Convenio extiende su vigencia durante el plazo de 6 meses a contar desde la fecha de su firma, según establece su cláusula tercera, por lo que debe entenderse que ha perdido su vigencia.

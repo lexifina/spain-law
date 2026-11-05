@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 741/1981, de 10 de abril, por el que se regulan las competencias en materia de sellos de correos, la Orden de Presidencia del Gobierno, de 11 de septiembre de 1981, sobre composición y funcionamiento de la Comisión de Programación de Emisiones de Sellos y demás Signos de Franqueo, la Orden del Ministerio de Hacienda, de 4 de marzo de 1974, sobre autorizaciones para la reproducción de sellos de Correo españoles con las debidas garantías y cuantas otras disposiciones de igual o inferior rango se opongan, contradigan o resulten incompatibles con lo dispuesto en este real decreto.

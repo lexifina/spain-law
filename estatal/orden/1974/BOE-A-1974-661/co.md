@@ -1,0 +1,1 @@
+Esta disposición se convalida, en cuanto a las normas contenidas en la misma que establezcan requisitos que condicionen la apertura de establecimientos comerciales, por el art. 1 y Anexo I del Decreto 1428/1975, de 26 de junio. Ref. BOE-A-1975-13889.

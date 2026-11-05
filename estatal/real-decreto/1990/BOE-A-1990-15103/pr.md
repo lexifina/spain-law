@@ -1,0 +1,19 @@
+Para cumplir el mandado de desarrollo del Código Alimentario Español, previsto en el Decreto de Presidencia del Gobierno 2519/1974, de 9 de agosto («Boletín Oficial del Estado» de 13 de septiembre), se dictó el Decreto 3610/1975, de 5 de diciembre («Boletín Oficial del Estado» de 20 de enero de 1976), por el que se aprobaba la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio del cacao, chocolate, productos derivados y sucedáneos del chocolate; dicho Decreto fue modificado por el Real Decreto 2687/1976, de 16 de octubre («Boletín Oficial del Estado» de 26 de noviembre) y, posteriormente, por el Real Decreto 2354/1986, de 10 de octubre («Boletín Oficial del Estado» de 8 de noviembre).
+
+Producido el ingreso del Reino de España en el seno de las Comunidades Europeas, se ha hecho preciso proceder a la armonización de nuestro derecho interno con la normativa comunitaria y, más en concreto, con la Directiva del Consejo 73/241/CEE, de 24 de julio de 1973 («Diario Oficial» núm. L 228/23, de 16 de agosto), modificada, entre otras, por las Directivas 75/155/CEE, de 4 de marzo de 1975 («Diario Oficial» núm. L 64/21, de 11 de marzo; 76/628/CEE, de 20 de julio de 1976 («Diario Oficial» núm. L 223/1, de 16 de agosto); 78/609/CEE, de 29 de junio de 1978 («Diario Oficial» núm. L 197/10, de 22 de julio); 78/842/CEE, de 10 de octubre de 1978 («Diario Oficial» núm. L 291/15, de 17 de octubre); 80/608/CEE, de 30 de junio de 1980 («Diario Oficial» núm. L 170/33, de 3 de julio), y 89/344/CEE, de 3 de mayo de 1989 («Diario Oficial» núm. L 142/19, de 25 de mayo).
+
+Por otra parte, otras Directivas comunitarias han llevado a armonizar también normas técnico-sanitarias españolas, como la del etiquetado y publicidad de los productos envasados y la referente al contenido efectivo.
+
+Al no entrar en el ámbito de aplicación de la Directiva 73/241/CEE todos los productos a los que se aplicaba el Decreto 3610/1975, ha parecido más conveniente recoger en esta Reglamentación técnico-sanitaria lo referente a la elaboración, circulación y comercio del cacao y chocolate, dejando para otra norma distinta todo lo referente a los productos derivados de cacao, de chocolate y sucedáneos de chocolate.
+
+De esta forma, y como tal Reglamentación técnico-sanitaria, esta norma se configura con la estructura habitual de este tipo de disposiciones horizontales de carácter sanitario. Es decir, se recogen no sólo los aspectos previstos en las Directivas citadas, sino que además se recogen otras prescripciones sobre diversos aspectos que afectan a la salud y seguridad de las personas.
+
+Todo ello se realiza sin que lo dispuesto en esta disposición sea obstáculo al principio de la libre circulación de mercancías establecido en los artículos 30 y 36 del Tratado Constitutivo de la Comunidad Económica Europea, así como de las obligaciones derivadas de otros Tratados o Convenios Internacionales.
+
+El presente Real Decreto y la Reglamentación técnico-sanitaria que se adjunta al mismo se aprueba al amparo de lo establecido en el artículo 40.2 de la Ley 14/1986, de 25 de abril, General de Sanidad, en relación con el artículo 2.º del mismo cuerpo legal, y de acuerdo con lo establecido en el artículo 149.1.10.ª y 16.ª de la Constitución Española.
+
+En su virtud, a propuesta de los Ministros de Economía y Hacienda, de Industria y Energía, de Agricultura, Pesca y Alimentación y de Sanidad y Consumo, oídos los sectores afectados, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de junio de 1990,
+
+DISPONGO:
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 224, de 18 de septiembre de 1990. Ref. BOE-A-1990-23083

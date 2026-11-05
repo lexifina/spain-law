@@ -1,0 +1,3 @@
+## Artículo octavo.
+
+Para el reconocimiento de la representación española, la Federación respectiva comunicará al Consejo Superior de Deportes, con carácter previo a la designación del representante o representantes, los nombres y circunstancias personales de los candidatos. A la vista de la información practicada por el Consejo, éste hará expresa su conformidad o disconformidad y lo comunicará a la Federación o Federaciones. Si la representación española resultara de propuesta directa de la correspondiente Federación u Organismo Internacional, como consecuencia de elección o designación en el seno de la misma, el Consejo Superior de Deportes, reconocerá la representación propuesta.

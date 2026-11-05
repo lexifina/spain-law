@@ -1,0 +1,3 @@
+## Disposición final cuarta. Entrada en vigor.
+
+El presente real decreto entrará en vigor el día 2 de enero de 2025, desplegando efectos sus disposiciones el 1 de julio de 2025, para otorgar un plazo suficiente para realizar las adaptaciones de carácter tecnológico y funcional necesarias por parte de todos los actores implicados en el cumplimiento de la norma. Hasta la aprobación de un régimen sancionador para las infracciones que se regulen derivadas de la presente norma, resultarán de aplicación los regímenes sancionadores y obligaciones contemplados en la normativa estatal, autonómica y local.

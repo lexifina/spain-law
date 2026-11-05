@@ -1,0 +1,11 @@
+## Disposición adicional quinta.
+
+El artículo 21 de la Ley de Procedimiento Laboral, texto refundido aprobado por el Real Decreto legislativo 2/1995, de 7 de abril, tendrá la siguiente redacción:
+
+«1. La defensa por abogado tendrá carácter facultativo en la instancia, con excepción de lo previsto en el artículo siguiente, pero podrá utilizarla cualquiera de los litigantes, en cuyo caso será de su cuenta el pago de los honorarios o derechos respectivos, con las excepciones fijadas en el artículo 2, d), de la Ley de Asistencia Jurídica Gratuita.
+
+2. Si el demandante pretendiese comparecer en el juicio asistido de abogado o representado por procurador o graduado social colegiado, lo hará constar en la demanda. Asimismo, el demandado pondrá esta circunstancia en conocimiento del Juzgado o Tribunal por escrito, dentro de los dos días siguientes al de su citación para el juicio, con objeto de que, trasladada tal intención al actor, pueda éste estar representado por procurador o graduado social colegiado, designar abogado en otro plazo igual o solicitar su designación a través del turno de oficio. La falta de cumplimiento de estos requisitos supone la renuncia de la parte al derecho de valerse en el acto de juicio de abogado, procurador o graduado social colegiado.
+
+3. Si en cualquier otra actuación, diversa al acto de juicio, cualquiera de las partes pretendiese actuar asistido de Letrado, el Juez o Tribunal adoptará las medidas oportunas para garantizar la igualdad de las partes.
+
+4. La solicitud de designación de abogado por el turno de oficio por los trabajadores y los beneficiarios del Sistema de Seguridad Social comportará la suspensión de los plazos de caducidad o la interrupción de la prescripción de acciones.»

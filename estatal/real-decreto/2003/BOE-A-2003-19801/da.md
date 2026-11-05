@@ -1,0 +1,3 @@
+## Disposición adicional única. Competencias transferidas a las comunidades autónomas.
+
+En virtud de lo dispuesto en el Real Decreto 3256/1982, de 15 de octubre, sobre traspaso de servicios del Estado a la Comunidad Autónoma del País Vasco en materia de ejecución de la legislación estatal sobre tráfico y circulación de vehículos, y en el Real Decreto 391/1998, de 13 de marzo, sobre traspaso de servicios y funciones de la Administración del Estado a la Generalidad de Cataluña en materia de tráfico y circulación de vehículos a motor, por las respectivas comunidades autónomas se ejercerán las funciones de ejecución que se detallan en el reglamento que aprueba este real decreto, velando por su estricto cumplimiento.

@@ -1,0 +1,1 @@
+Se dejan sin efecto todas las disposiciones del Reglamento, en cuanto se refieran a percepciones que hayan pasado a tener la consideración de precios públicos relativos a definiciones y normas de cálculo y de gestión de dichas percepciones, según establece la disposición adicional.b) de la Orden de 10 de octubre de 1994. Ref. BOE-A-1994-22956

@@ -1,0 +1,3 @@
+## Disposición final primera. Normativa aplicable.
+
+El reconocimiento de las organizaciones o asociaciones de criadores se llevará a cabo de acuerdo con lo previsto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y, respecto de las que corresponde reconocer a la Administración General del Estado, en el Real Decreto 1778/1994, de 5 de agosto, por el que se adecuan a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, las normas reguladoras de los procedimientos de otorgamiento, modificación y extinción de autorizaciones.

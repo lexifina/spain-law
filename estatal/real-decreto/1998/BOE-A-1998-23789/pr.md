@@ -1,0 +1,9 @@
+El artículo 2 de la Ley 4/1997, de 24 de marzo, de Sociedades Laborales, dispone que corresponde al Ministerio de Trabajo y Asuntos Sociales o, en su caso, a las Comunidades Autónomas que hayan recibido los correspondientes traspasos de funciones y servicios, el otorgamiento de la calificación de «sociedad laboral», así como el control del cumplimiento de los requisitos establecidos en la citada Ley; y en el artículo 4 se crea a efectos administrativos en el Ministerio de Trabajo y Asuntos Sociales un Registro de Sociedades Laborales, en el que se han de hacer constar los actos que se determinan en dicha Ley y en sus normas de desarrollo, todo ello sin perjuicio de las competencias de ejecución que asuman las Comunidades Autónomas.
+
+Es de señalar a este respecto que, en la actualidad, todas las Comunidades Autónomas, a excepción del Principado de Asturias y las Ciudades de Ceuta y Melilla, tiene transferidas las funciones y servicios de la Administración del Estado en materia de calificación y registro administrativo de sociedades anónimas laborales, competencia que han de seguir ejerciendo respecto del Registro de Sociedades Laborales que se crea con las funciones, competencias y normas de coordinación que se contienen en la presente disposición.
+
+De otro lado, teniendo en cuenta que las sociedades laborales, de acuerdo con la Ley 4/1997, gozan de personalidad jurídica desde su inscripción en el Registro Mercantil, se hace necesario establecer el funcionamiento coordinado de ambos Registros.
+
+En su virtud, en cumplimiento de la disposición final segunda de la Ley 4/1997, de 24 de marzo y, a propuesta de los Ministros de Justicia y de Trabajo y Asuntos Sociales, oídas las Comunidades Autónomas, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación con el Consejo de Ministros en su reunión del día 2 de octubre de 1998,
+
+DISPONGO:

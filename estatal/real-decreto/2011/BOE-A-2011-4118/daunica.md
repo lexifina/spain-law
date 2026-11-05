@@ -1,0 +1,5 @@
+## Disposición adicional única.
+
+Las solicitudes de asignación de derechos de emisión para la tercera fase de comercio con arreglo a lo previsto en el artículo 19 de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen de comercio de derechos de emisión de gases de efecto invernadero, deberán ser completadas por los titulares de las instalaciones mediante la presentación de la información y documentación que resulte necesaria para calcular la asignación de conformidad con lo exigido por la Decisión de la Comisión por la que se determinan las normas transitorias de la Unión para la armonización de la asignación gratuita de derechos de emisión con arreglo al artículo 10 bis de la Directiva 2003/87/CE en un plazo de dos meses desde la entrada en vigor de la citada Decisión.
+
+Del mismo modo, los titulares podrán mejorar las solicitudes de exclusión del régimen presentadas con arreglo a lo previsto en la disposición adicional cuarta de la citada ley en un plazo de un mes desde la entrada en vigor de la Decisión a la que se refiere el párrafo anterior, sin perjuicio de su derecho a desistir de las mismas.

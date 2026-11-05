@@ -1,0 +1,19 @@
+La Ley 45/2007, de 13 de diciembre, para el desarrollo sostenible del medio rural, contempla, en sus artículos 38, 39 y 40 la creación de la Comisión Interministerial para el Medio Rural, del Consejo para el Medio Rural y de la Mesa de Asociaciones de Desarrollo Rural.
+
+La determinación reglamentaria de su composición, constitución, funciones y funcionamiento forma parte del objeto de este real decreto.
+
+Ello viene justificado por el hecho de que la sociedad española va tomando conciencia de la importancia actual de nuestro medio rural, que afecta al 90 por ciento del territorio, a la práctica totalidad de los recursos naturales y a buena parte del patrimonio cultural, de sus diferentes tipologías y de su multifuncionalidad. No obstante, ello sigue siendo compatible con la persistencia indeseable de una cierta desigualdad de oportunidades y atraso relativo de no pocas poblaciones rurales respecto de aquellas asentadas en las zonas urbanas industriales y de servicios.
+
+Por estas razones, se hacía necesaria la adopción de unas medidas legales multisectoriales y ambientales concretas, destinadas a favorecer un desarrollo rural sostenible, una diversificación ocupacional, una mejora de la actividad económica y social y un acceso de sus poblaciones a unos servicios públicos suficientes y de calidad. Al mismo tiempo, deberán poner en evidencia la estrecha interdependencia del mundo rural y el mundo urbano, así como la necesidad de una mejor integración entre ambas realidades sociales.
+
+Estas medidas, destinadas a paliar los mencionados desequilibrios, deberán ser también acordes con las directrices y normativas comunitarias, así como, responder a nuestras condiciones económicas, sociales y medioambientales particulares y asegurar la participación y coordinación de las administraciones públicas y de los principales agentes sociales implicados en dicho desarrollo rural sostenible.
+
+Con este propósito, la Ley 45/2007, de 13 de diciembre, asimismo, procede a crear la Comisión Interministerial para el Medio Rural, como órgano de dirección y coordinación de los Departamentos ministeriales afectados, el Consejo para el Medio Rural, como órgano de coordinación y cooperación entre las Administraciones Públicas para el desarrollo sostenible del medio rural, así como una Mesa de Asociaciones de Desarrollo Rural, como órgano de participación, información y consulta de las entidades asociativas relacionadas con el medio rural de ámbito estatal. La composición y funciones de estos órganos de participación forman parte, igualmente, del objeto de este real decreto.
+
+Por último y respondiendo a la necesidad de un elevado grado de gobernanza, la Ley, además de los distintos instrumentos ya mencionados de programación y coordinación, prevé en su disposición final segunda la aprobación del Primer Programa plurianual de Desarrollo Rural Sostenible, en el plazo máximo de tres meses desde la constitución del Consejo para el Medio Rural. Dicho Programa se configura como el instrumento principal para la planificación de la acción de la Administración General del Estado en relación con el medio rural, en coordinación con las comunidades autónomas, Administración Local y agentes económicos y sociales del medio rural.
+
+La elaboración de este real decreto, conforme lo establecido en el artículo 39.2 de la Ley 45/2007, de 13 de diciembre, se ha efectuado en colaboración con las comunidades autónomas y la Federación Española de Municipios y Provincias, en cuanto asociación de Entidades Locales de ámbito estatal con mayor implantación. Igualmente se ha sometido al trámite de consulta de las entidades más representativas del sector.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino con la aprobación previa de la Ministra de Administraciones Públicas, y previa deliberación del Consejo de Ministros, en su reunión del día 23 de mayo de 2008,
+
+D I S P O N G O :

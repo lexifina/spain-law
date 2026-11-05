@@ -1,0 +1,45 @@
+## Artículo 7. Valores límite de emisión y medidas técnicas equivalentes.
+
+1. Para la determinación en la autorización ambiental integrada de los valores límite de emisión, se deberá tener en cuenta:
+
+a) La información suministrada, de acuerdo con lo establecido en el artículo 8.1, en relación con las conclusiones relativas a las mejores técnicas disponibles, sin prescribir la utilización de una técnica o tecnología específica.
+
+b) Las características técnicas de las instalaciones en donde se desarrolle alguna de las actividades industriales enumeradas en el anejo 1, su implantación geográfica y las condiciones locales del medio ambiente.
+
+c) La naturaleza de las emisiones y su potencial traslado de un medio a otro.
+
+d) Los planes nacionales aprobados, en su caso, para dar cumplimiento a compromisos establecidos en la normativa comunitaria o en tratados internacionales suscritos por el Reino de España o por la Unión Europea.
+
+e) La incidencia de las emisiones en la salud humana potencialmente afectada y en las condiciones generales de la sanidad animal y vegetal.
+
+f) Los valores límite de emisión fijados, en su caso, por la normativa en vigor en la fecha de la autorización.
+
+2. El Gobierno, sin perjuicio de las normas adicionales de protección que dicten las comunidades autónomas, podrá establecer valores límite de emisión para las sustancias contaminantes, en particular para las enumeradas en el anejo 2, y para las actividades industriales incluidas en el ámbito de aplicación de esta ley, en particular las grandes instalaciones de combustión, de incineración o coincineración de residuos, las que utilicen disolventes orgánicos y las que producen dióxido de titanio, así como parámetros o medidas técnicas equivalentes basadas en las mejores técnicas disponibles que completen o sustituyan a los valores límite de emisión, siempre que se garantice un enfoque integrado y un nivel elevado de protección del medio ambiente equivalente al alcanzable mediante las condiciones de la autorización ambiental integrada.
+
+3. El Gobierno, en el ejercicio de su potestad reglamentaria, y sin perjuicio de las normas adicionales de protección que dicten las comunidades autónomas, podrá establecer, de manera motivada, obligaciones particulares para determinadas actividades enumeradas en el anejo 1, en particular las grandes instalaciones de combustión, de incineración o coincineración de residuos, las que utilicen disolventes orgánicos y las que producen dióxido de titanio, que substituirán a las condiciones específicas de la autorización ambiental integrada, siempre que se garantice un enfoque integrado y un nivel elevado de protección del medio ambiente equivalente al alcanzable mediante las condiciones de un permiso. En todo caso, el establecimiento de dichas obligaciones no eximirá de obtener la autorización ambiental integrada.
+
+4. El órgano competente fijará valores límite de emisión que garanticen que, en condiciones de funcionamiento normal, las emisiones no superen los niveles de emisión asociados a las mejores técnicas disponibles que se establecen en las conclusiones relativas a las MTD, aplicando alguna de las opciones siguientes:
+
+a) El establecimiento de unos valores límite de emisión que no superen los niveles de emisión asociados a las mejores técnicas disponibles. Esos valores límite de emisión se indicarán para los mismos periodos de tiempo, o más breves, y bajo las mismas condiciones de referencia que los niveles de emisión asociados a las mejores técnicas disponibles.
+
+b) El establecimiento de unos valores límite de emisión distintos de los mencionados en la letra a) en términos de valores, periodos de tiempo y condiciones de referencia.
+
+Cuando se aplique la letra b), el órgano competente evaluará, al menos una vez al año, los resultados del control de las emisiones para garantizar que las emisiones en condiciones normales de funcionamiento no hayan superado los niveles de emisión asociados a las mejores técnicas disponibles.
+
+5. No obstante el apartado 4, y sin perjuicio del artículo 22.3, el órgano competente para otorgar la autorización ambiental integrada podrá fijar, en determinados casos, valores límite de emisión menos estrictos. Esta excepción podrá invocarse solamente si se pone de manifiesto mediante una evaluación que la consecución de los niveles de emisión asociados con las mejores técnicas disponibles tal y como se describen en las conclusiones relativas a las MTD daría lugar a unos costes desproporcionadamente más elevados en comparación con el beneficio ambiental debido a:
+
+a) La ubicación geográfica o la situación del entorno local de la instalación de que se trate; o
+
+b) Las características técnicas de la instalación de que se trate.
+
+El órgano competente para otorgar la autorización ambiental integrada documentará en un anejo a las condiciones de la autorización los motivos de la aplicación del párrafo primero de este apartado, con inclusión del resultado de la evaluación y la justificación de las condiciones impuestas.
+
+Sin embargo, los valores establecidos de conformidad con el párrafo primero de este apartado no superarán los valores límite de emisión establecidos en la normativa de desarrollo de la presente ley, si procede.
+
+En todo caso, los órganos competentes a los que se refiere el artículo 4.2 velarán por que no se produzca ninguna contaminación significativa y por que se alcance un nivel elevado de protección del medio ambiente en su conjunto.
+
+Los órganos competentes reevaluarán la aplicación del párrafo primero de este apartado como parte integrante de toda revisión de las condiciones de la autorización ambiental integrada con arreglo al artículo 26.
+
+6. El órgano competente podrá conceder exenciones temporales de los requisitos que se establecen en el presente artículo, así como en el 4.1.a), respecto a las pruebas y la utilización de técnicas emergentes para un periodo de tiempo total no superior a nueve meses, siempre y cuando, tras el periodo especificado, se interrumpa la técnica o bien la actividad alcance, como mínimo, los niveles de emisión asociados a las mejores técnicas disponibles.
+
+7. Los valores límite de emisión de las sustancias se aplicarán en el punto en que las emisiones salgan de la instalación y en su determinación no se tendrá en cuenta una posible dilución. En lo que se refiere a los vertidos indirectos al agua, y sin perjuicio de la normativa relativa a la contaminación causada por determinadas sustancias peligrosas vertidas en el medio acuático, podrá tenerse en cuenta el efecto de una estación de depuración en el momento de determinar los valores límite de emisión de la instalación, siempre y cuando se alcance un nivel equivalente de protección del medio ambiente en su conjunto y ello no conduzca a cargas contaminantes más elevadas en el entorno.

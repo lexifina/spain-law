@@ -1,0 +1,5 @@
+## Disposición transitoria única. Registros contables especiales de las operaciones hipotecarias, activos de sustitución del mercado hipotecario e instrumentos financieros derivados y otras operaciones vinculadas al mercado hipotecario.
+
+No obstante lo dispuesto en el artículo 21, las entidades no estarán obligadas a reflejar en los registros contables especiales a que se refiere ese artículo, las operaciones hipotecarias, los activos de sustitución del mercado hipotecario y los instrumentos financieros derivados y otras operaciones vinculados al mercado hipotecario que estuvieren cancelados desde un punto de vista económico a 31 de diciembre de 2008.
+
+Por su parte, los datos de las operaciones hipotecarias que se formalicen desde la entrada en vigor de este real decreto deberán quedar incorporados al registro antes de transcurridos seis meses desde la entrada en vigor; los datos de las operaciones hipotecarias que ya estuvieran vigentes en el momento de la entrada en vigor deberán incorporarse a dicho registro antes de transcurrido un año desde la misma.

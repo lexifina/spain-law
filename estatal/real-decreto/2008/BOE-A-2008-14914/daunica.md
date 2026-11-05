@@ -1,0 +1,3 @@
+## Disposición adicional única. Plan de inversiones a la adaptación de líneas eléctricas.
+
+Para lograr el cumplimiento de los fines perseguidos por este real decreto, el Gobierno, a través del Ministerio de Medio Ambiente, y Medio Rural y Marino, habilitará los mecanismos y presupuestos necesarios para acometer la financiación total de las adaptaciones contempladas en la disposición transitoria única, apartado 2, en un plazo no superior a los cinco años desde la entrada en vigor de este real decreto. La ejecución de las adaptaciones en ningún caso superará los dos años desde la aprobación de la financiación correspondiente.

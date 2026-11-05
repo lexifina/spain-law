@@ -1,0 +1,5 @@
+## Disposición adicional tercera.
+
+Con efectos a partir de 15 de noviembre de 2012, se añade una disposición adicional decimoctava «Régimen fiscal especial aplicable a las operaciones de reestructuración y resolución de entidades de crédito», al Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, con la siguiente redacción:
+
+«El régimen fiscal establecido en el capítulo VIII del Título VII del Texto Refundido de esta Ley, para las operaciones mencionadas en su artículo 83, incluidos sus efectos en los demás tributos, será de aplicación a las transmisiones del negocio o de activos o pasivos realizadas por entidades de crédito en cumplimiento de planes de reestructuración o planes de resolución de entidades de crédito a favor de otra entidad de crédito, al amparo de la normativa de reestructuración bancaria, aun cuando no se correspondan con las operaciones mencionadas en los artículos 83 y 94 de la Ley del Impuesto sobre Sociedades.»

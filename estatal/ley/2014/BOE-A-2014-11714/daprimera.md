@@ -1,0 +1,3 @@
+## Disposición adicional primera. Transformación de las sociedades gestoras de ECR autorizadas en SGEIC.
+
+La transformación de las sociedades gestoras de ECR ya autorizadas de conformidad con la Ley 25/2005, de 24 de noviembre, reguladora de las entidades de capital-riesgo y sus sociedades gestoras, en SGEIC se producirá a la entrada en vigor de esta Ley, sin que sea necesaria nueva autorización. Dichas sociedades gestoras deberán adaptar el uso de la denominación «sociedades gestoras de ECR» por el de «SGEIC». La Comisión Nacional del Mercado de Valores y, en su caso, el Registro Mercantil, adaptarán de oficio sus registros para recoger esta circunstancia.

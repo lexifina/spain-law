@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Determinación de los casos en que es exigible la clasificación de las empresas.
+
+El apartado 1 del artículo 54, en cuanto determina los contratos para cuya celebración es exigible la clasificación previa, entrará en vigor conforme a lo que se establezca en las normas reglamentarias de desarrollo de esta Ley por las que se definan los grupos, subgrupos y categorías en que se clasificarán esos contratos, continuando vigente, hasta entonces, el párrafo primero del apartado 1 del artículo 25 del Texto Refundido de la Ley de Contratos de las Administraciones Públicas.

@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen transitorio hasta la constitución efectiva de la Agencia Estatal de Radiocomunicaciones.
+
+Hasta la constitución efectiva de la Agencia Estatal de Radiocomunicaciones, la competencia para la tramitación y resolución de los procedimientos relativos a la planificación, gestión, administración y control del dominio público radioeléctrico continuará correspondiendo a los órganos del Ministerio de Industria, Turismo y Comercio que la tienen atribuida por el 1554/2004, de 25 de junio, por el que se desarrolla la estructura orgánica básica de dicho Departamento ministerial.

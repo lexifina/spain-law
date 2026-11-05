@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta.
+
+1. Los fiscales y los abogados fiscales que, antes de la entrada en vigor del Real Decreto 1908/2000, de 24 de noviembre, que modificó la estructura de los grupos de población, estuviesen destinados en localidades correspondientes al grupo séptimo de población y siguiesen destinados en localidades pertenecientes a ese mismo grupo a la entrada en vigor de esta ley, percibirán un complemento personal transitorio en tanto no obtengan un nuevo destino en la carrera fiscal. La cuantía de dicho complemento se establece en el anexo V.4.
+
+2. Los fiscales y los abogados fiscales que, antes de la entrada en vigor del Real Decreto 1908/2000, de 24 de noviembre, que modificó la estructura de los grupos de población, estuvieren destinados en localidades correspondientes al grupo octavo de población y siguiesen destinados en las mismas localidades a la entrada en vigor de esta ley, percibirán un complemento transitorio en tanto no obtengan un nuevo destino en la carrera fiscal. La cuantía de dicho complemento se establece en el anexo V.4.

@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este Real Decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.16 de la Constitución, que atribuye al Estado la competencia exclusiva sobre legislación sobre productos farmacéuticos, excepto lo dispuesto en el apartado cinco de la disposición final segunda, que se dicta al amparo de la competencia exclusiva del Estado sobre bases y coordinación general de la sanidad y el apartado seis de la disposición final segunda y la disposición final cuarta, que se dictan al amparo del artículo 149.1.17 de la Constitución, que atribuye al Estado la competencia exclusiva en materia de régimen económico de la Seguridad Social.

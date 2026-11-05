@@ -1,0 +1,5 @@
+## Noveno. Duración del contrato de la Dirección.
+
+1. El contrato de la persona que ostente la Dirección de la CND, tendrá una duración temporal limitada a cinco años, prorrogable por un nuevo periodo de un máximo de tres años.
+
+2. En casos excepcionales, la Dirección General del INAEM podrá establecer nuevas prórrogas, previo informe favorable del Consejo de la Danza, en el que se evaluará el grado de cumplimiento de los objetivos establecidos en el Plan Director inicial y sus ampliaciones.

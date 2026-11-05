@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Referencias.
+
+Todas las referencias que la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, hace al Ministerio de Educación, Cultura y Deporte se entenderán sustituidas por la referencia al «ministerio competente en materia de universidades». Asimismo, las referencias realizadas al Consejo de Coordinación Universitaria en los artículos 2.5, 4, 43.1, 44, 68.1, 81.3.b) y 85.1 y en las disposiciones adicionales séptima y octava de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, se entenderán realizadas a la Conferencia General de Política Universitaria, y las realizadas en los artículos 46.3, 71.2, 86.1 y en la disposición adicional vigésima quinta de la misma Ley se entenderán realizadas al Consejo de Universidades.

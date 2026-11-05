@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Asunción de las prestaciones por los organismos de la Seguridad Social.
+
+Las Mutualidades Notarial y de Corredores de Comercio quedarán liberadas y exentas del pago de las prestaciones o de su importe, objeto de integración en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, a medida que el Instituto Nacional de la Seguridad Social vaya efectuando el reconocimiento de los derechos individuales a que se refiere el artículo 5.
+
+Tras la entrada en vigor de este real decreto y en tanto el Instituto Nacional de la Seguridad Social no haya reconocido la prestación de la Seguridad Social que haya de corresponder a cada uno de los pensionistas afectados, las Mutualidades Notarial y de Corredores de Comercio continuarán con el pago de las cantidades que aquéllos, en cada caso, tengan reconocidas. Los pagos efectuados durante este periodo a favor de aquellos pensionistas a los que el Instituto Nacional de la Seguridad Social reconozca el derecho a la pensión y por el importe reconocido se entenderán realizados por cuenta de la Tesorería General de la Seguridad Social.

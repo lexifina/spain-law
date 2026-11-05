@@ -1,0 +1,3 @@
+## Disposición adicional única. Suspensión del artículo 58 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, y del artículo 27 del texto refundido de la Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril.
+
+En 2020 la revalorización de las pensiones se realizará de acuerdo con lo establecido en el artículo 1 de este real decreto-ley, no siendo de aplicación lo dispuesto en los artículos 58 del texto refundido de la Ley General de la Seguridad Social, y 27 del texto refundido de la Ley de Clases Pasivas del Estado.

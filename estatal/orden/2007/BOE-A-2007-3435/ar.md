@@ -1,0 +1,3 @@
+## Artículo 1. Objeto.
+
+La presente disposición tiene por objeto establecer los datos que se deben registrar como consecuencia de la utilización de productos fitosanitarios y otros plaguicidas para la protección de las cosechas destinadas a ser consumidas como piensos o alimentos, incluidas las fases de cultivo, almacenamiento y transporte, para cumplimiento de lo requerido por el Reglamento (CE) 852/2004, del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativo a la higiene de los productos alimenticios, en su artículo 4.1, y el Reglamento 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero de 2005, por el que se fijan los requisitos en materia de higiene de los piensos, en su artículo 5.1.

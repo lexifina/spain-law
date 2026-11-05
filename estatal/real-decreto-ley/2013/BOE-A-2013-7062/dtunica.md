@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio para el reconocimiento de las entidades del Tercer Sector colaboradoras con la Administración General del Estado.
+
+1. En tanto no se desarrolle reglamentariamente el procedimiento para el reconocimiento de las entidades del Tercer Sector colaboradoras con la Administración General del Estado previsto en el artículo 4, se considerará que ostentan dicha condición las entidades que acrediten el cumplimiento de los requisitos previstos en el apartado uno del citado artículo.
+
+2. Una vez que se produzca dicho desarrollo reglamentario, las organizaciones o entidades consideradas como entidades del Tercer Sector colaboradoras con la Administración General del Estado según lo dispuesto en el apartado anterior, deberán presentar la correspondiente solicitud de reconocimiento como tales, en la que acrediten el cumplimiento de todos los requisitos exigidos reglamentariamente para ello, sin que su consideración previa como entidades colaboradoras al amparo de esta disposición pueda generar derechos o prerrogativas de ningún tipo.

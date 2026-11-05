@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, específicamente, el Real Decreto 597/2002, de 28 de junio, por el que se aprueba el Reglamento general de ingreso en los centros docentes de formación del Cuerpo de la Guardia Civil, el Real Decreto 483/1999, de 18 de marzo, por el que se crean los centros docentes de formación de la Guardia Civil y el Real Decreto 1145/2006, 6 de octubre, por el que se regulan las retribuciones de los alumnos de los centros docentes de formación para acceso a las diferentes escalas del Cuerpo de la Guardia Civil.

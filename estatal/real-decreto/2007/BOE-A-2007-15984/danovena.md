@@ -1,0 +1,5 @@
+## Disposición adicional novena. Convenios de colaboración suscritos con anterioridad a la entrada en vigor de este reglamento.
+
+1. Los sujetos de la colaboración social en la gestión de los tributos que en la fecha de entrada en vigor de este reglamento tengan suscritos acuerdos de colaboración o adendas a los mismos para la presentación telemática de declaraciones, comunicaciones u otros documentos tributarios ante la Agencia Estatal de Administración Tributaria podrán continuar prestando su colaboración con arreglo a los citados acuerdos, siempre que se ajusten a lo dispuesto en este reglamento y en su normativa de desarrollo.
+
+2. Cuando se establezcan nuevas vías de colaboración social en la gestión de los tributos, los colaboradores sociales a los que se refiere el apartado anterior podrán extender su colaboración conforme a los acuerdos ya suscritos y sus adendas, siempre que se ajusten a lo dispuesto en este reglamento y en la normativa que regule las nuevas vías de colaboración.

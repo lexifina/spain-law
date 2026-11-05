@@ -1,0 +1,15 @@
+## ANEXO
+
+## Estatutos de la Real Academia de la Historia
+
+Los Estatutos por los que se rige actualmente la Real Academia de la Historia fueron aprobados por Real Decreto de 28 de mayo de 1856 y Real Orden comunicada de 2 de junio (Gaceta de Madrid, número 1246).
+
+La Real Academia de la Historia es una institución con personalidad jurídica propia, como fijan la legislación vigente y la jurisprudencia. Mantiene el vínculo institucional con la Corona, según se reconoce y establece en el apartado j del artículo 62 de la Constitución que nos rige, al determinar que corresponde al Rey «el Alto Patronazgo de las Reales Academias», heredera de «la Real Protección» que le concedió Felipe V en 1738 y que mantuvieron todos sus sucesores.
+
+En la Real Academia de la Historia se hicieron varias reformas estatutarias, entre las que es de destacar la aprobada el 15 de noviembre de 1792, por la que los académicos quisieron establecer reglas a que debían atenerse todos ellos para evitar –con palabras de Jovellanos– que, en el futuro, pudiera interferirse «alguna autoridad intrusa» y que lo consintieran los académicos por «la pusilanimidad, la pereza o el egoísmo» y que la respetasen «por conveniencia».
+
+Como las actividades de la Academia han aumentado en los últimos años, por haber hecho propuestas de ciclos de conferencias y publicaciones, entre las que destaca el gran Diccionario Biográfico Español, ha sido necesario contar no solo con la ayuda económica que le proporciona el Gobierno de la nación, sino que ha podido disfrutar del patrocinio de empresas y fundaciones privadas. Con ello, la Academia ha restablecido el principio que formularon los fundadores en 1736, al establecer la clase de Honorarios, que habrían de formar quienes, por «su elevado carácter» –por su alto significado en la sociedad– pudiesen contribuir «al lustre y protección del Cuerpo y a conciliarle mayor estimación y respecto del público», de que esperaban habrían de seguirse «especiales ventajas». La Real Academia de la Historia cuenta, en la actualidad, y espera seguir contando, con un buen número de Protectores que, a título individual, o como representantes de otras tantas instituciones, contribuyen con su consejo, iniciativa y mecenazgo, a acrecentar la eficacia de las investigaciones que se emprenden y a vincularla al examen, análisis y exposición de las cuestiones más significativas del presente.
+
+Con esta reforma estatutaria, la Real Academia de la Historia participa de los principios constitucionales que rigen la vida española, no existiendo, para su acceso y funcionamiento, ningún impedimento por razones de discriminación de ningún tipo y siendo la excelencia el único valor considerado.
+
+En la elaboración de estos Estatutos se ha tomado como modelo los Estatutos de la Real Academia Española que es la más antigua de las instituciones académicas y, por ello, la de más antigua tradición y de referencia obligada. Además, sus Estatutos han sido plenamente adecuados a la Constitución mediante el Real Decreto 1109/21993, de 9 de julio.

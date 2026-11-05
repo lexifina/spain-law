@@ -1,0 +1,7 @@
+## Séptimo. Utilización de mecanismos de enlace y coordinación.
+
+1. El Consejo utilizará los mecanismos de enlace y coordinación que en cumplimiento a lo dispuesto en la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional, ha establecido el Consejo de Seguridad Nacional en el Acuerdo de 20 de enero de 2017, de implementación de los mecanismos para garantizar el funcionamiento integrado del Sistema de Seguridad Nacional, así como aquellos otros que se determinen en cumplimiento de lo dispuesto en la mencionada Ley.
+
+2. De acuerdo con lo dispuesto en el apartado quinto del citado Acuerdo del Consejo de Seguridad Nacional de 20 de enero de 2017, los miembros del Consejo velarán por la coherencia y armonización de la información a trasladar en el seno del Consejo, para lo cual se coordinarán con sus respectivos puntos de contacto de Seguridad Nacional, dando así cumplimiento a los principios y procedimientos de actuación previstos en el mencionado Acuerdo.
+
+3. El Departamento de Seguridad Nacional, de acuerdo con lo establecido en el artículo 20.4 de la Ley 36/2015, de 28 de septiembre, mantendrá activados los mecanismos de enlace y coordinación permanentes con los organismos del conjunto de las Administraciones Públicas que sean necesarios para que el Sistema de Seguridad Nacional ejerza sus funciones y cumpla con sus objetivos, de manera continua y sin perjuicio de las funciones que correspondan al Comité de Situación en materia de gestión de crisis.

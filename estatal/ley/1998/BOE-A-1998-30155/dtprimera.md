@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Plazos de aprobación del tipo de gravamen del Impuesto sobre Bienes Inmuebles y de las Ponencias de Valores, de notificación de valores catastrales y de entrega de los Padrones del Impuesto sobre Bienes Inmuebles.
+
+Con vigencia exclusiva para el ejercicio 1999, el plazo general previsto en el apartado 7 del artículo 73 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, para aprobar los tipos de gravamen del Impuesto sobre Bienes Inmuebles, se ampliará hasta el 31 de octubre de 1999 en aquellos Ayuntamientos cuyos municipios estén afectados por procesos de revisión o modificación de valores catastrales que deban surtir efecto el 1 de enero de 2000. De este acuerdo se dará traslado a la Dirección General del Catastro dentro de dicho plazo.
+
+Asimismo, y en relación a los indicados Ayuntamientos, se ampliará también hasta el 31 de octubre de 1999 el plazo establecido en el artículo 70.3 de la Ley 39/1988, de 28 de diciembre, para la publicación de las Ponencias de valores y hasta el 1 de marzo del año 2000 el plazo señalado en su apartado 4 para la notificación individual de los nuevos valores catastrales.
+
+En estos municipios la entrega del correspondiente Padrón del Impuesto sobre Bienes Inmuebles a que se refiere el artículo 77.1 de la Ley 39/1988, de 28 de diciembre, se podrá diferir hasta el día 1 de mayo del año 2000.

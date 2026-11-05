@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Renuncia al régimen especial del grupo de entidades.
+
+Las entidades que hayan optado por la aplicación del régimen especial del grupo de entidades de acuerdo con las condiciones establecidas en el artículo 163 sexies de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido y en el artículo 58 sexies de la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, podrán renunciar al mismo hasta el 31 de enero de 2009, sin que, a estos efectos, les sea de aplicación el plazo de tres años a que se refieren dichos artículos.

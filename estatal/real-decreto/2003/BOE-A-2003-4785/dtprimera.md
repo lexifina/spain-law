@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Autorización para la comercialización de existencias.
+
+Se autoriza a comercializar hasta su finalización las existencias de los materiales forestales de reproducción acumuladas antes del 1 de enero de 2003, que deberán ser comunicadas al órgano competente de la respectiva Comunidad Autónoma en el plazo de dos meses a partir de la fecha de publicación de este real decreto. Cuando se comercialice dicho material forestal de reproducción, la documentación acreditativa deberá especificar tal circunstancia con el texto «Lote preexistente» (artículo 28.3 de la Directiva 1999/105/CE del Consejo).

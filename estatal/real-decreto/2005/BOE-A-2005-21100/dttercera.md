@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Información al consumidor sobre el origen de la electricidad consumida y su impacto sobre el medio ambiente.
+
+Las empresas suministradoras de electricidad dispondrán de un plazo de seis meses desde la entrada en vigor del presente Real Decreto para adaptar sus facturas y la documentación promocional puesta a disposición de los clientes finales, a lo establecido en el artículo 110 bis del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministros y procedimientos de autorización de instalaciones de energía eléctrica

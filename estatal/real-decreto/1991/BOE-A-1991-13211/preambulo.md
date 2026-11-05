@@ -1,0 +1,3 @@
+La reciente reforma de la Ley de Sociedades Anónimas ha acentuado la necesidad de modernizar el régimen reglamentario de la designación de miembros del Consejo de Administración por el sistema proporcional que se había establecido en el Decreto de 29 de febrero de 1952 («Boletín Oficial del Estado» número 73, de 13 de marzo) y la Orden de 5 de abril de 1952 («Boletín Oficial del Estado» número 99 del 8). En atención a esta circunstancia, a propuesta del Ministro de Justicia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 17 de mayo de 1991,
+
+DISPONGO

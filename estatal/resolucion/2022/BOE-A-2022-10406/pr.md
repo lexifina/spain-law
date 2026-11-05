@@ -1,0 +1,19 @@
+I
+
+La Resolución de 4 de diciembre de 2019, de la Mutualidad General Judicial, por la que se actualizaba la regulación de las prestaciones complementarias y se generalizaba su tramitación en formato electrónico a través de la sede electrónica de la MUGEJU, permitió la homogeneización de la normativa anterior, unificándola y actualizándola en una sola y única regulación.
+
+II
+
+En aquella Resolución se detallaron las previsiones, contenidas ya en la Resolución de la Mutualidad General Judicial de 29 de enero de 2018, donde se estableció la posibilidad de presentación de las solicitudes de prestaciones complementarias a la MUGEJU de forma electrónica con el objeto de mejorar técnicamente la actual regulación y fomentar el uso de las nuevas tecnologías.
+
+Esta posibilidad deviene en obligación para los/las mutualistas en activo, ateniéndonos a lo preceptuado en el artículo 14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPAC), en cuyo apartado 2, b) se determina que estarán obligados a relacionarse a través de medios electrónicos con las Administraciones Públicas para realización de cualquier trámite de un procedimiento administrativo «los empleados de las Administraciones Públicas para los trámites y actuaciones que realicen con ellas por razón de su condición de empleado público, en la forma en que se determine reglamentariamente por cada Administración».
+
+En la actualidad, existen ya instrumentos que facilitan esa relación en formato electrónico entre los/las mutualistas y la Mutualidad General Judicial, al menos entre quienes, de aquellos/as, se encuentran en servicio activo y que, por lo tanto, cuentan con los medios necesarios para acceder a través de la Sede Electrónica a diferentes servicios, entre ellos, la formulación de solicitudes de prestaciones complementarias. Además, la experiencia acumulada demuestra que la tramitación de las solicitudes instadas a través de esta sede está siendo considerablemente más ágil, eficaz y eficiente que las efectuadas por cualquier otro medio, especialmente si se comparan con las realizadas, en formato papel y, en consecuencia, este debe ser, en el plazo más breve posible, la única vía a utilizar.
+
+Pero si la presentación de las solicitudes de prestaciones complementarias en formato electrónico es ya posible y exigible a los/las mutualistas en activo, hoy por hoy ese no puede ser el cauce exclusivo para beneficiarios/as o mutualistas que, por no estar en situación de servicio activo o encontrase en una circunstancia excepcional acreditada, no tengan la posibilidad de utilizar ese mismo procedimiento. Para estos últimos se ha de articular una solución que permita beneficiarse de las mismas ventajas anteriormente descritas si bien, hasta ese momento, deberá seguir siendo posible la presentación de solicitudes en formato papel.
+
+III
+
+En la indicada Resolución de 4 de diciembre de 2019, de la Mutualidad General Judicial, se previó la posibilidad de presentación de solicitudes en formato papel sólo «durante los días hábiles/laborables de los meses de enero, abril, julio y octubre de cada año natural». Esta limitación temporal tuvo su razón en las circunstancias que en el momento de dictarse la norma aconsejaban acotar estos períodos. Sin embargo, esa limitación carece de fundamento en la actualidad y, desde luego, no facilita la gestión de tales solicitudes, al tiempo que supone un trato desfavorable hacia quienes se ven abocados/as a utilizar esta vía por la dilación que les supone no poder iniciar los trámites hasta que se abren aquellos períodos.
+
+Por tanto, de conformidad con las competencias que le confiere el artículo 12.3 del Real Decreto 96/2019, de 1 de marzo, de reordenación y actualización de la estructura orgánica de la Mutualidad General Judicial, el Gerente de la Mutualidad resuelve:

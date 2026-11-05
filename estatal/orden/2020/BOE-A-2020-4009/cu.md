@@ -1,0 +1,3 @@
+## Cuarto. Subsector de fabricantes y comercializadores de reactivos empleados para la actividad de abastecimiento y saneamiento de aguas residuales.
+
+Los fabricantes y comercializadores de las sustancias previstas en el artículo 2.11 del Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano empleados para la actividad de abastecimiento y las sustancias y reactivos que se emplean para la potabilización y el saneamiento de aguas y su análisis, tendrán la consideración de operadores de servicios esenciales con los efectos previstos en el artículo 18.2 del Real Decreto 463/2020, de 14 de marzo.

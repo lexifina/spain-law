@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+El plazo de adecuación de dos años establecido en la disposición transitoria tercera de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, no será de aplicación a la Sociedad Estatal de Participaciones Industriales, correspondiendo al Consejo de Ministros, a propuesta conjunta de los Ministerios de Economía y Hacienda, de Administraciones Públicas y de Industria y Energía, fijar la fecha y las condiciones de la referida adecuación por la que se transforme la Sociedad Estatal de Participaciones Industriales en una entidad pública empresarial.

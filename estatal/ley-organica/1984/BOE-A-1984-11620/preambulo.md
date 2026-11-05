@@ -1,0 +1,31 @@
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+
+EXPOSICIÓN DE MOTIVOS
+
+El constitucionalismo moderno tiene un objetivo fundamental, que constituye, al mismo tiempo, su raíz última: el reconocimiento y la protección de la vida y la libertad de los ciudadanos. Las constituciones que son verdaderamente tales se caracterizan, precisamente, porque establecen un sistema jurídico y político que garantiza la libertad de los ciudadanos y porque suponen, por consiguiente, algo más que una mera racionalización de los centros de poder.
+
+Nuestra Constitución ha configurado, siguiendo esa línea, un ordenamiento cuya pretensión máxima es la garantía de la libertad de los ciudadanos, y ello hasta el punto de que la libertad queda instituida, por obra de la propia Constitución, como un valor superior del ordenamiento. De ahí que el texto constitucional regule con meticulosidad los derechos fundamentales, articulando unas técnicas jurídicas que posibilitan la eficaz salvaguarda de dichos derechos, tanto frente a los particulares como, muy especialmente, frente a los poderes públicos.
+
+Una de estas técnicas de protección de los derechos fundamentales –del más fundamental de todos ellos: el derecho a la libertad personal– es la institución del «Habeas Corpus». Se trata, como es sabido, de un instituto propio del Derecho anglosajón, donde cuenta con una antiquísima tradición y se ha evidenciado como un sistema particularmente idóneo para resguardar la libertad personal frente a la eventual arbitrariedad de los agentes del poder público. Su origen anglosajón no puede ocultar, sin embargo, su raigambre en el Derecho histórico español, donde cuenta con antecedentes lejanos como el denominado «recurso de manifestación de personas» del Reino de Aragón y las referencias que sobre presuntos supuestos de detenciones ilegales se contienen en el Fuero de Vizcaya y otros ordenamientos forales, así como con antecedentes más próximos en las Constituciones de 1869 y 1876, que regulaban este procedimiento, aun cuando no le otorgaban denominación específica alguna.
+
+El «Habeas Corpus» ha demostrado históricamente su funcionalidad para proteger la libertad de los ciudadanos. De ahí que la Constitución, en el núm. 4 art. 17, recoja esta institución y obligue al legislador a regularla, completando, de esta forma, el complejo y acabado sistema de protección de la libertad personal diseñado por nuestra norma fundamental. La regulación del «Habeas Corpus» es, por consiguiente, un mandato constitucional y un compromiso de los poderes públicos ante los ciudadanos.
+
+La pretensión del «Habeas Corpus» es establecer remedios eficaces y rápidos para los eventuales supuestos de detenciones de la persona no justificados legalmente, o que transcurran en condiciones ilegales. Por consiguiente, el «Habeas Corpus» se configura como una comparecencia del detenido ante el Juez; comparecencia de la que proviene etimológicamente la expresión que da nombre al procedimiento, y que permite al ciudadano, privado de libertad, exponer sus alegaciones contra las causas de la detención o las condiciones de la misma, al objeto de que el Juez resuelva, en definitiva, sobre la conformidad a Derecho de la detención.
+
+La eficaz regulación del «Habeas Corpus» exige, por tanto, la articulación de un procedimiento lo suficientemente rápido como para conseguir la inmediata verificación judicial de la legalidad y las condiciones de la detención, y lo suficientemente sencillo como para que sea accesible a todos los ciudadanos y permita, sin complicaciones innecesarias, el acceso a la autoridad judicial.
+
+Estos son los objetivos de la presente ley orgánica, que se inspira para ello en cuatro principios complementarios. El primero de estos principios es la agilidad, absolutamente necesaria para conseguir que la violación ilegal de la libertad de la persona sea reparada con la máxima celeridad, y que se consigue instituyendo un procedimiento judicial sumario y extraordinariamente rápido, hasta el punto de que tiene que finalizar en veinticuatro horas. Ello supone una evidente garantía de que las detenciones ilegales o mantenidas en condiciones ilegales, finalizarán a la mayor brevedad.
+
+En segundo lugar, la sencillez y la carencia de formalismos, que se manifiestan en la posibilidad de la comparecencia verbal y en la no necesidad del Abogado y Procurador, evitarán dilaciones indebidas y permitirán el acceso de todos los ciudadanos, con independencia de su nivel de conocimiento de sus derechos y de sus medios económicos, al recurso de «Habeas Corpus».
+
+En tercer lugar, el procedimiento establecido por esta ley se caracteriza por la generalidad que implica, por un lado, que ningún particular o agente de la autoridad pueda sustraerse al control judicial de la legalidad de la detención de las personas sin que quepa en este sentido excepción de ningún género, ni siquiera en lo referente a la Autoridad Militar, y que supone, por otro lado, la legitimación de una pluralidad de personas para instar el procedimiento, siendo de destacar a este respecto la legitimación conferida al Ministerio Fiscal y al Defensor del Pueblo como garantes, respectivamente, de la legalidad y de la defensa de los derechos de los ciudadanos.
+
+En fin, la ley está presidida por una pretensión de universalidad, de manera que el procedimiento de «Habeas Corpus» que regula alcanza no sólo a los supuestos de detención ilegal –ya porque la detención se produzca contra lo legalmente establecido, ya porque tenga lugar sin cobertura jurídica–, sino también a las detenciones que, ajustándose originariamente a la legalidad, se mantienen o prolongan ilegalmente o tienen lugar en condiciones ilegales.
+
+Parece fuera de toda duda que la regulación de un procedimiento con las características indicadas tiene una enorme importancia en orden a la protección de la libertad de las personas, así como que permite añadir un eslabón más, y un eslabón importante, en la cadena de garantías de la libertad personal que la Constitución impone a nuestro ordenamiento. España se incorpora, con ello, al reducido número de países que establecen un sistema acelerado de control de las detenciones o de las condiciones de las mismas.

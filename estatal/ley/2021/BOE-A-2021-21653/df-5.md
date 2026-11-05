@@ -1,0 +1,61 @@
+## Disposición final quinta. Modificación de la Ley 66/1997, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+Con efectos desde la entrada en vigor de esta Ley y vigencia indefinida se da nueva redacción al artículo 20 de la Ley 66/1997, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, que queda redactado como sigue:
+
+«Artículo 20. Tasa por servicios prestados por el Registro de la Propiedad Intelectual.
+
+Uno. Las tasas por servicios prestados por el Registro Central de la Propiedad Intelectual se regirán por esta ley y por las demás fuentes normativas que para las tasas se establecen en el artículo 9 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
+
+Dos. Constituyen el hecho imponible de la tasa la prestación de los siguientes servicios:
+
+1. Tramitación de expedientes de solicitud de inscripción registral.
+
+2. Anotaciones, cancelaciones y demás modificaciones de los asientos registrales, incluidos los traslados.
+
+3. Expedición de certificados, notas simples y listados de obras, copias de obras y documentación, y autenticación de firmas.
+
+Tres. El devengo de la tasa se producirá cuando se presente la solicitud que inicie la actuación del Registro Central de la Propiedad Intelectual y se exigirá por este con ocasión de la prestación de los servicios que constituyen el hecho imponible de la tasa.
+
+Cuatro. Serán sujetos pasivos de la tasa las personas físicas y jurídicas que soliciten los servicios mencionados en el apartado dos de este artículo.
+
+Cinco. Habida cuenta del distinto coste del servicio o de la actividad que constituye el hecho imponible, se establecen tasas diferenciadas para los procedimientos presenciales y los telemáticos.
+
+a) La cuantía de la tasa para la tramitación de los expedientes de solicitud presentados presencialmente será la siguiente:
+
+1. Tramitación de expedientes de solicitud de inscripción registral, anotación preventiva, cancelación o modificación de asientos registrales.
+
+1.1 Por la inscripción registral de cada creación original: 14,97 euros.
+
+1.2 Por cada anotación preventiva, cancelación o modificación de asientos registrales: 16,78 euros.
+
+2. Tramitación de expedientes de solicitud de publicidad registral.
+
+2.1 Por expedición de certificados positivos o negativos, por cada uno: 16,66 euros.
+
+2.2 Por expedición de notas simples y listados de obras positivos o negativos, por cada uno: 12,76 euros.
+
+2.3 Por expedición de copia certificada de obra o documentación, por cada una: 26,16 euros. Al importe de esta tasa se añadirá el importe del precio público devengado por las copias realizadas.
+
+2.4 Por autenticación de firmas: 4,87 euros.
+
+b) La cuantía de la tasa para la tramitación de los expedientes de solicitud presentados telemáticamente será la siguiente:
+
+1. Tramitación de expedientes de solicitud de inscripción registral, anotación preventiva, cancelación o modificación de asientos registrales.
+
+1.1 Por la inscripción registral de cada creación original: 8,26 euros.
+
+1.2 Por cada anotación preventiva, cancelación o modificación de asientos registrales: 9,23 euros.
+
+2. Tramitación de expedientes de solicitud de publicidad registral.
+
+2.1 Por expedición de certificados positivos o negativos, por cada uno: 9,11 euros.
+
+2.2 Por expedición de notas simples y listados de obras positivos o negativos, por cada uno: 5,21 euros.
+
+2.3 Por expedición de copia certificada de obra o documentación, por cada una: 18,61 euros. Al importe de esta tasa se añadirá el importe del precio público devengado por las copias realizadas.
+
+Seis. La liquidación de la tasa presencial se realizará al solicitarse el servicio de que se trate por el Registrador Central o por el funcionario responsable de la oficina provincial correspondiente. La liquidación de la tasa telemática se realizará mediante medios electrónicos.
+
+Siete. El pago de la tasa presencial se realizará al presentarse la solicitud, mediante el ingreso en efectivo en entidad de depósito autorizada por el Ministerio de Hacienda y Función Pública. El pago de la tasa telemática se realizará al presentarse la solicitud, mediante el ingreso a través de los medios electrónicos disponibles. La justificación del abono de la tasa será requisito necesario para iniciar la tramitación del expediente.
+
+Ocho. La gestión de la tasa se llevará a cabo por los servicios competentes del Ministerio de Cultura y Deporte.»

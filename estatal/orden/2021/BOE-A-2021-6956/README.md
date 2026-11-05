@@ -1,0 +1,28 @@
+# Orden TMA/414/2021, de 26 de abril, por la que se establece el procedimiento de bonificación de los precios de transporte ferroviario de viajeros a los miembros de familias numerosas y su posterior liquidación a las empresas ferroviarias.
+
+- Identificador: BOE-A-2021-6956
+- Rango: Orden
+- Fecha de disposición: 2021-04-26
+- Publicación: 2021-04-29
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2021-6956
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [Artículo 1](a1.md)
+- [Artículo 2](a2.md)
+- [Artículo 3](a3.md)
+- [Artículo 4](a4.md)
+- [Artículo 5](a5.md)
+- [Disposición transitoria única](dt.md)
+- [Disposición final primera](df.md)
+- [Disposición final segunda](df-2.md)
+- [Disposición final tercera](df-3.md)
+- [(firma)](fi.md)
+- [ANEXO I](ai.md)
+- [ANEXO II](ai-2.md)
+- [ANEXO III](ai-3.md)
+- [ANEXO IV](ai-4.md)
+- [ANEXO V](av.md)

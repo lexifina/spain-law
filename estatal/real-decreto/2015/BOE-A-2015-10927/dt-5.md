@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Facturación de consumidores acogidos a una modalidad de autoconsumo que no dispongan de contadores de telegestión efectivamente integrados.
+
+Los suministros de los consumidores acogidos a una modalidad de autoconsumo, cuyos puntos frontera estén clasificados como tipo 4 o 5 y sus equipos de medida no se encuentren efectivamente integrados en el sistema de telegestión de su encargado de la lectura, serán leídos y facturados con una periodicidad bimestral y no les serán de aplicación los perfiles vigentes para el resto de consumidores. Las medidas horarias de estos consumidores serán obtenidas a través de lectura mediante terminal portátil de lectura (TPL).

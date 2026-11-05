@@ -1,0 +1,11 @@
+## Disposición transitoria cuarta. Pase a retirado del personal perteneciente al Cuerpo de Mutilados de Guerra por la Patria.
+
+Uno. En las condiciones previstas en la disposición transitoria sexta de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, en 1992 se procederá por los servicios competentes del Ministerio de Defensa al reconocimiento de pensión, con efectos de 1 de enero de 1992, en favor del personal acogido a la Ley 5/1976, de 11 de marzo, al que se refería la disposición final sexta de la Ley 17/1989, de 19 de julio, reguladora del Régimen del Personal Militar Profesional.
+
+Dos. A partir de 1 de enero de 1992, y hasta que el pago de las pensiones pueda hacerse efectivo por las Cajas Pagadoras de Clases Pasivas de Hacienda, los correspondientes servicios del Ministerio de Defensa mantendrán los abonos mensuales en favor de los interesados por los mismos importes percibidos durante 1991, salvo la deducción correspondiente a las cuotas de Derechos Pasivos y del Instituto Social de las Fuerzas Armadas.
+
+Dichos abonos tendrán el carácter de anticipos provisionales y a cuenta de la pensión a percibir y se sufragarán con cargo a la sección 07 de Clases Pasivas, Programa 314 B, Servicio 02, Subconcepto 161.00
+
+Tres. Por los servicios de Clases Pasivas del Ministerio de Economía y Hacienda se practicarán las liquidaciones, que en cada caso procedan, en atención a las certificaciones de anticipos provisionales y a cuenta expedidos por los servicios del Ministerio de Defensa. Dichas liquidaciones podrán practicarse bien en la primera mensualidad que haya de ser abonada por los servicios primeramente indicados, o bien en cualquiera de las tres sucesivas a aquélla, y la inclusión en nómina podrá realizarse de forma centralizada y sin necesidad de la comparecencia de los interesados.
+
+Cuatro. Se autoriza a las Direcciones Generales de Personal, del Ministerio de Defensa, y de Costes de Personal y Pensiones Públicas, del Ministerio de Economía y Hacienda, a dictar las instrucciones que pudieran resultar precisas para la ejecución de lo dispuesto en los números anteriores y, de forma especial, en orden a que los pagos a realizar en favor del personal afectado por la presente norma se mantengan sin solución de continuidad.

@@ -1,0 +1,1 @@
+Téngase en cuenta que, con efectos desde el 2 de enero de 2022, las menciones a exportación, certificado fitosanitario de exportación y certificado fitosanitario de reexportación, del presente Real Decreto, quedan derogadas, según establece la disposición derogatoria única.a) del Real Decreto 387/2021, de 1 de junio. Ref. BOE-A-2021-10588#dd

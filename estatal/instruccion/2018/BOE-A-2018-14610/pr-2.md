@@ -1,0 +1,3 @@
+## Primero.
+
+En el supuesto de que un mayor de edad o un menor emancipado solicitara el cambio de nombre, para la asignación de uno correspondiente al sexo diferente del resultante de la inscripción de nacimiento, tal solicitud será atendida, con tal de que ante el encargado del Registro Civil, o bien en documento público, el solicitante declare que se siente del sexo correspondiente al nombre solicitado, y que no le es posible obtener el cambio de la inscripción de su sexo en el Registro Civil, por no cumplir los requisitos del art. 4 de la Ley 3/2007, de 15 de marzo, reguladora de la rectificación registral de la mención relativa al sexo de las personas.

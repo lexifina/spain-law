@@ -1,0 +1,23 @@
+El Real Decreto-ley 8/2014, de 4 de julio, de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia, posteriormente aprobado como Ley 18/2014, de 15 de octubre, de aprobación de medidas urgentes para el crecimiento, la competitividad y eficiencia, establece un sistema nacional de obligaciones de eficiencia energética en virtud del cual se asigna a las empresas comercializadoras de gas y electricidad, a los operadores de productos petrolíferos al por mayor y a los operadores de gases licuados de petróleo al por mayor, en adelante sujetos obligados del sistema de obligaciones, una cuota anual de ahorro energético de ámbito nacional denominada obligaciones de ahorro.
+
+Para hacer efectivo el cumplimiento de las obligaciones anuales de ahorro energético determinadas para el año 2014, los sujetos obligados debían realizar una contribución financiera al Fondo Nacional de Eficiencia Energética, a ingresar antes del 15 de octubre del citado año, por el importe señalado en el anexo XII del citado Real Decreto-ley 8/2014, de 4 de julio.
+
+La Orden IET/289/2015, de 20 de febrero, por la que se establecen las obligaciones de aportación al Fondo Nacional de Eficiencia Energética en el año 2015, dio cumplimiento al artículo 70.1 de la citada Ley 18/2014, de 15 de octubre, mediante el establecimiento de la obligación de ahorro energético para ese año, los porcentajes de reparto de esta obligación entre los correspondientes sujetos obligados y las cuotas u obligaciones de ahorro resultantes y su equivalencia económica.
+
+En la elaboración de la citada Orden IET/289/2015, de 20 de febrero, y tal y como se establece en el artículo 75.5 de la anteriormente mencionada Ley 18/2014, de 15 de octubre, se tuvieron en cuenta las variaciones que se derivaban de los datos suministrados por los sujetos obligados correspondientes al año 2012 relativos a porcentajes, ventas y demás variables y los fijados en el anexo XII de la citada Ley 18/2014, de 15 de octubre.
+
+No obstante, en el momento de aprobarse dicha orden, la redacción del artículo 75.5 de la Ley 18/2014, al afirmar que «las variaciones que se deriven de los datos suministrados relativos a los sujetos obligados, porcentajes, ventas y demás variables, y los fijados conforme al apartado 2 de este artículo, podrán tenerse en cuenta, en sentido positivo o negativo, para determinar la cuantía correspondiente para cada sujeto obligado en el año 2015», facultaba únicamente la minoración de la cuota del ejercicio 2015 con las variaciones que, en sentido negativo o positivo, resultasen de los datos suministrados relativos a la obligación del ejercicio 2014, pero no autorizaba para el reconocimiento de devoluciones o derechos de cobro con cargo al Fondo Nacional de Eficiencia Energética.
+
+Por esta razón, en la tabla del anexo II de la mencionada Orden IET/289/2015, de 20 de febrero, a los sujetos obligados para los que las variaciones calculadas determinaba un resultado negativo se les asignó el valor cero como importe económico equivalente a su obligación para el año 2015.
+
+En la actualidad, tras la modificación del párrafo tercero del citado artículo 75.5 de la Ley 18/2014 por la Ley 8/2015, de 21 de mayo, que ya autoriza que dichas variaciones puedan tenerse en cuenta, por añadidura, para »reconocer los derechos de cobro que, en su caso, correspondan», es dable asignar a los tales sujetos obligados el derecho a la correspondiente devolución del referido importe negativo.
+
+A dichas devoluciones hay que añadir, por otro lado, las correspondientes a tres personas jurídicas a las que, erróneamente, se les asignaron obligaciones de eficiencia energética en el anexo XII de la Ley 18/2014, de 15 de octubre, al ser entonces consideradas sujetos obligados sin que en ellas concurrieran los requisitos que determinaban dicha condición.
+
+Por otro lado se ha advertido que dos sujetos obligados del año 2015 han ingresado una cantidad superior a la establecida en la citada Orden IET/289/2015, de 20 de febrero, por lo que procede la devolución del exceso.
+
+Asimismo, ha sido comunicada al Comité de Seguimiento y Control del Fondo Nacional de Eficiencia Energética a quien, de acuerdo con el artículo 73.3 de la citada Ley 18/2014, de 15 de octubre, le corresponde la supervisión y control del Fondo.
+
+Mediante Acuerdo de 8 de octubre de 2015, la Comisión Delegada del Gobierno para Asuntos Económicos ha autorizado al Ministro de Industria, Energía y Turismo a dictar la presente orden.
+
+En su virtud, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, resuelvo:

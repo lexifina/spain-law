@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Funcionarios de la Administración General del Estado destinados en Corporaciones Locales.
+
+Los funcionarios de la Administración General del Estado que pasen a ocupar puestos de trabajo en las Corporaciones Locales quedarán sometidos a lo dispuesto en el artículo 92.1 de la Ley 7/1985, de 2 de abril, y a la legislación sobre función pública aplicable en la Administración Local en todo lo referente a su relación de servicios con la respectiva Entidad o Corporación, sin perjuicio de la sanción de separación del servicio, que será acordada por el Ministro del Departamento a que esté adscrito en cada caso el Cuerpo o Escala del funcionario, previa incoación de expediente disciplinario por la Corporación Local.

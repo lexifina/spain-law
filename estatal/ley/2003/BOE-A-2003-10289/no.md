@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 12/2003, de 21 de mayo, de bloqueo de la financiación del terrorismo.", según establece la disposición final 1.1 de la Ley 10/2010, de 28 de abril. Ref. BOE-A-2010-6737#dfprimera

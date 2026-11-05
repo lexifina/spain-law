@@ -1,0 +1,7 @@
+## Disposición transitoria única. Enseñanza de formación para la incorporación a la Escala Superior de Oficiales de la Guardia Civil por acceso directo.
+
+Hasta tanto se actualice el régimen del Personal del Cuerpo de la Guardia Civil, según lo determinado en la disposición final séptima de la Ley 39/2007, de 19 de noviembre, de la carrera militar, el número de plazas, los requisitos y pruebas para el ingreso, y el régimen de los alumnos que accedan directamente a la enseñanza de formación para la incorporación a la escala superior de oficiales de la Guardia Civil, se regirá por las normas establecidas para las escalas de oficiales de los Cuerpos Generales de los Ejércitos e Infantería de Marina constituidas en la citada Ley.
+
+Así mismo, durante la fase de dos años que cursarán en la Academia General Militar del Ejército de Tierra, de conformidad con lo establecido en el artículo 20.4 de la Ley 42/1999, de 25 de noviembre, de Régimen del Personal del Cuerpo de la Guardia Civil, serán alumnos del Centro Universitario de la Defensa allí ubicado, en el que recibirán la enseñanza universitaria que se determine.
+
+Finalizado el período a que hace referencia el párrafo anterior se incorporarán a la Academia de Oficiales de la Guardia Civil, donde completarán su formación tanto en el aspecto militar, de cuerpo de seguridad y técnica necesaria para el correcto desempeño de los cometidos asignados a la escala superior de oficiales, como la correspondiente a los estudios universitarios oficiales de grado conducentes a la obtención del título que se determine.

@@ -1,0 +1,5 @@
+## Artículo 6. Coordinación.
+
+La coordinación general del programa establecido en este real decreto se llevará a cabo a través del Comité Fitosanitario Nacional, creado por el Real Decreto 1190/1998, de 12 de junio, por el que se regulan los programas nacionales de erradicación o control de organismos nocivos de los vegetales aún no establecidos en el territorio nacional.
+
+No obstante, a fin de favorecer la coordinación técnica del programa, así como para evaluar las novedades científicas y técnicas que puedan ser incluidas en él, dicho comité podrá crear un grupo de trabajo de expertos para la evaluación anual de los resultados obtenidos y elaboración de propuestas para su mejora. Dicho grupo de trabajo podrá estar compuesto por representantes de la Dirección General de Agricultura, de los órganos competentes de las comunidades autónomas, de organizaciones profesionales de agricultores y de cooperativas de ámbito nacional, y por investigadores de centros oficiales de investigación y de universidades.

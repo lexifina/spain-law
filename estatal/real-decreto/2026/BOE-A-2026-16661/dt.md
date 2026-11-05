@@ -1,0 +1,17 @@
+## Disposición transitoria primera. Adenda al plan de inversión de las redes de transporte y distribución de energía eléctrica del año 2027.
+
+1. Las empresas titulares de redes de transporte y de distribución de energía eléctrica que habiendo presentado planes de inversión al amparo del Real Decreto 1047/2013, de 26 de diciembre y del Real Decreto 1048/2013, de 26 de diciembre, se regirán por lo previsto en dichas normas.
+
+No obstante lo anterior, podrán presentar una adenda a su plan de inversión del año 2027 para adaptar su plan de inversión al incremento del límite del volumen de inversión asignado para dicho año previsto en las disposiciones adicionales segunda y tercera. A las actuaciones previstas en dicha adenda les será de aplicación lo previsto en dichas disposiciones, en los mecanismos de control de dichas inversiones y las particularidades que seguidamente se detallan.
+
+2. La adenda deberá presentarse ante la Secretaría de Estado de Energía con anterioridad al 16 de septiembre de 2026 y podrán incluirse en la misma inversión con puesta en servicio desde el 1 de enero de 2027 hasta el 31 de diciembre de 2027.
+
+3. Estas adendas deberán aportar los informes de las comunidades y ciudades de Ceuta y Melilla donde se ubiquen las nuevas inversiones o se produzcan modificaciones en las anteriores. En todo caso, cuando una comunidad o ciudad con estatuto de autonomía no emita informe sobre la adenda al plan de inversión presentado por una empresa en el plazo de un mes desde la presentación de la empresa distribuidora, el informe se entenderá evacuado en sentido favorable. En estos casos, la empresa deberá remitir junto con el plan de inversión el justificante que pruebe que dentro del plazo establecido en el apartado 2 fue solicitado informe a las comunidades o ciudades autónomas que correspondan en cada caso.
+
+4. Para calcular los volúmenes máximos de inversión que aplicarán a las adendas de modificación de los planes de inversión del año 2027 se tomará en cuenta el PIB nominal definitivo del año 2025 que figure en la Contabilidad Nacional, publicado por el Instituto Nacional de Estadística, y la actualización del Plan Fiscal y Estructural de Medio Plazo del Gobierno de España del año 2026 que publica el Ministerio de Economía, Comercio y Empresa.
+
+5. La Secretaría de Estado de Energía remitirá a la Comisión Nacional de los Mercados y la Competencia las adendas a los planes de inversión presentados por las empresas tan pronto disponga de los mismos. La Comisión Nacional de los Mercados y la Competencia dispondrá de un plazo de cuarenta días para emitir este informe.
+
+Si esta no emitiese el informe sobre la adenda al plan de inversión de una empresa en el plazo establecido o si no lo hubiera emitido al plan originalmente presentado, la Secretaría de Estado de Energía emitirá un requerimiento a la Comisión Nacional de los Mercados y la Competencia para que emita dichos informes en un plazo de quince días.
+
+En caso de que no se haya recibido alguno de los informes, la Secretaría de Estado de Energía emitirá un segundo requerimiento en el que le otorgue siete días a la Comisión Nacional de los Mercados y la Competencia para que emita los informes. Si la Comisión Nacional de los Mercados y la Competencia no llegase a emitir alguno de estos informes trascurrido el plazo del segundo requerimiento estos informes se entenderán evacuados en sentido favorable.

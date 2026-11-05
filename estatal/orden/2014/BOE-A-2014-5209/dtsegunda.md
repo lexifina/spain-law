@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Certificados vigentes.
+
+Los certificados electrónicos admitidos por la Agencia Tributaria conforme a lo dispuesto en la Orden HAC/1181/2003, de 12 de mayo, por la que se establecen normas específicas sobre el uso de la firma electrónica en las relaciones tributarias por medios electrónicos, informáticos y telemáticos con la Agencia Estatal de Administración Tributaria mantendrán su validez y eficacia, siempre que el prestador de servicios de certificación se encuentre incluido en la relación de prestadores de servicios de certificación admitidos publicada por el Ministerio de Industria, Energía y Turismo, quedando sujetos en lo sucesivo a lo dispuesto en la presente orden ministerial.
+
+Aquellos certificados que no cumplan lo dispuesto en el apartado anterior deberán adaptarse a lo establecido en la presente orden ministerial en el plazo máximo de seis meses, a contar desde su entrada en vigor, transcurrido el cual ya no serán admitidos por la Agencia Tributaria.

@@ -1,0 +1,5 @@
+## Disposición transitoria undécima. Continuidad de las situaciones declaradas de incapacidad transitoria para el servicio e invalidez provisional en el Régimen Especial de la Seguridad Social de las Fuerzas Armadas.
+
+Quienes a la entrada en vigor de la presente Ley se hallaran en la situación de incapacidad transitoria para el servicio, cualquiera que fuera la contingencia de la que derivara, continuarán en la misma en iguales términos y condiciones a los previstos en la legislación precedente, hasta que se produzca la extinción de aquéllas, con los efectos económicos previstos en esta Ley para la incapacidad temporal.
+
+En los supuestos transitorios a que se refiere el párrafo anterior, la extinción de la incapacidad transitoria para el servicio por el transcurso del plazo máximo de duración previsto para la misma dará origen a la aplicación de las previsiones contenidas en el párrafo octavo del artículo 21 de la Ley 28/1975, de 27 de junio, sobre Seguridad Social de las Fuerzas Armadas, en la redacción dada en el artículo 51 de la presente Ley.

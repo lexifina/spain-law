@@ -1,0 +1,33 @@
+## Artículo cuarenta y cinco. Tipos de gravamen en el Impuesto sobre Sociedades.
+
+El artículo 23 de la Ley 61/1978, de 27 de diciembre, del Impuesto sobre Sociedades, quedará redactado como sigue:
+
+«Uno. Los tipos de gravamen aplicables en el Impuesto sobre Sociedades, para los ejercicios que se inicien dentro de 1986, serán los siguientes:
+
+a) Con carácter general, el 35 por 100, aplicado sobre la base imponible cuando resulte positiva.
+
+Este tipo resultará igualmente aplicable a las Cajas de Ahorro.
+
+b) Las Cajas Rurales, Mutuas de Seguros Generales, Cooperativas de Crédito y Sociedades de Garantía Recíproca, tributarán al tipo del 26 por 100.
+
+Las restantes cooperativas tributarán al tipo del 18 por 100. Dicho tipo no resultará aplicable a los beneficios procedentes de actividades realizadas por cooperativas no contempladas en la normativa sobre Cooperación o en los estatutos autorizados, a los que se aplicará el tipo general.
+
+c) Las Entidades a que se refiere el epígrafe e) del apartado uno y del apartado dos del artículo 5 de esta Ley tributarán al tipo del 18 por 100.
+
+Este tipo no afectará a los rendimientos que hayan sido objeto de retención, que limitarán su tributación, en cuanto a ellos, a la cuantía de ésta.
+
+Dos. Las Entidades no residentes en territorio español que, sin mediación de establecimiento permanente en el mismo, obtengan rentas sometidas a tributación, resultarán gravadas de acuerdo con lo establecido en el artículo 17 de la Ley 5/1983, de 29 de junio.
+
+Los tipos de gravamen serán los siguientes:
+
+a) El 18 por 100, con carácter general, cuando se trate de rendimientos, aplicándose sobre las cuantías íntegras devengadas.
+
+En los casos de prestaciones de servicios, asistencia técnica, gastos de instalación y montaje, derivadas de contratos de ingeniería y, en general, de explotaciones económicas, realizadas en España sin establecimiento permanente, el sujeto pasivo aplicará el tipo del 18 por 100 a la diferencia entre los ingresos íntegros y los gastos de personal y de aprovisionamiento de materiales incorporados a las obras o trabajos.
+
+b) El 12 por,100 cuando se trate de importes satisfechos a su sociedad matriz o dominante por las sociedades españolas vinculadas, en contraprestación de los servicios de apoyo de gestión recibidos, en tanto figuren establecidos contractualmente y se correspondan con la utilización efectiva de dichos servicios.
+
+El mismo criterio se aplicará en relación con los gastos generales imputados a que se refiere el artículo 13 de esta Ley, en cuanto a su consideración como renta obtenida por la casa matriz sin mediación de establecimiento permanente.
+
+c) El 8 por 100 cuando se trate de rendimientos derivados de arrendamiento o utilización en territorio español de películas y producciones cinematográficas para su explotación comercial o su utilización en campañas publicitarias.
+
+d) El 35 por 100 cuando se trate de incrementos de patrimonio, obtenidos por no residentes, resultando aplicables las normas de determinación de la base imponible contenidas en el régimen general de obligación personal.»

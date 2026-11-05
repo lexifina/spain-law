@@ -1,0 +1,1 @@
+Se mantiene la vigencia de esta norma por la disposición sobre derogaciones y vigencias 4.A) del Real Decreto 1211/1990, de 28 de septiembre. Ref. BOE-A-1990-24442#disposicionsobrederogacionesyvigencias

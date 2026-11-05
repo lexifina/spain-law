@@ -1,0 +1,3 @@
+## Disposición adicional octava. Procedimiento de facturación y liquidación de desbalances en TVB y AVB y neutralidad del GTS.
+
+En un plazo de dos meses desde la fecha de publicación de esta circular, el gestor técnico del sistema remitirá a la Comisión Nacional de los Mercados y la Competencia, para su aprobación mediante resolución, una propuesta de procedimiento detallado del cálculo, facturación y liquidación de los recargos por desbalances de los usuarios en TVB y AVB, así como de la metodología de liquidación de los costes e ingresos derivados de los desbalances en estas áreas de balance y para asegurar su neutralidad económica.

@@ -1,0 +1,1 @@
+Madrid, 30 de junio de 2020.–La Directora de Seguridad de Aeronaves de la Agencia Estatal de Seguridad Aérea, Marta Lestau Sáez, P.D. (Resolución de 17 de febrero de 2017), el Director de Evaluación de Seguridad y Auditoría Técnica Interna, José Luis Lozano Lozano.

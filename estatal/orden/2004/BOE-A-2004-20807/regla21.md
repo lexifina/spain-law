@@ -1,0 +1,5 @@
+## Regla 21. Toma de razón
+
+1. En todo documento que produzca anotaciones en contabilidad, ya se trate del propio justificante de la operación o de un documento contable específico para el registro de la misma, deberá figurar una diligencia de toma de razón, certificada por el responsable de la contabilidad, acreditativa, como mínimo, de la fecha, el número de asiento y el importe con que dicho documento hubiese quedado anotado individualizadamente.
+
+2. Si las anotaciones en contabilidad se realizan a través de procedimientos y medios informáticos, dicha diligencia podrá estar constituida por una certificación obtenida del propio equipo informático en que se soporte el SICAL - Básico, y en el caso de que las operaciones sean registradas a partir de los datos contenidos en soportes electrónicos, informáticos o telemáticos, la diligencia de toma de razón se sustituirá por los oportunos procesos de validación en el sistema, mediante los cuales dichas operaciones queden referenciadas en relación con las anotaciones contables que hayan producido.

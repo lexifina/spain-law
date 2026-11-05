@@ -1,0 +1,5 @@
+## Disposición adicional única. Relación de aeropuertos que forman parte de una misma área de captación del destino.
+
+Con efectos de 1 de enero de 2014 y para la aplicación del incentivo por crecimiento de pasajeros en las rutas operadas en la red de Aena Aeropuertos, S.A., creado en la disposición adicional sexagésima sexta de la Ley 22/2013, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2014, se considerará que los aeropuertos siguientes, definidos por su código IATA, están incluidos en una misma área de captación del destino:
+
+Basilea: BSL, MLH; Belfast: BFS, BHD; Berlín: BER, SXF,TXL; Bruselas: BRU, CRL; Bucarest: BBU, OTP; Dusseldorf: NRN, DUS; Glasgow: GLA, PIK; Estambul: SAW, IST; Estocolmo: ARN, VST, NYO; Frankfurt: HHN, FRA; Goteborg: GOT, GSE; Hamburgo: HAM, LBC; Kiev: IEV, KBP; Londres: LCY, LGW, LHR, LTN, SEN, STN; Milán: BGY, LIN, MXP; Moscú: DME, SVO, VKO; Oslo: OSL, RYG, TRF; París: BVA, CDG, ORY; Roma: CIA, FCO; Stuttgart: STR, FKB; Varsovia: WAW, WMI; Venecia: TSF, VCE; Verona: VRN, VBS; Viena: VIE, BTS y Nueva York: EWR, JFK, LGA.

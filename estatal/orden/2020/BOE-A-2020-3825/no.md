@@ -1,0 +1,3 @@
+El estado de alarma, declarado por el Real Decreto 463/2020, de 14 de marzo, finalizó a las 00:00 horas del día 21 de junio de 2020, por lo que debe entenderse que esta norma ha perdido su vigencia.
+
+Téngase en cuenta que los controles fronterizos se prorrogaron hasta las 00:00 horas del 26 de abril de 2020, sin perjuicio, en su caso, de las eventuales prórrogas que pudiesen acordarse, según establecía la disposición final 2 de la Orden INT/335/2020, de 10 de abril, por la que se prorrogan los controles en las fronteras interiores terrestres restablecidos con motivo de la situación de crisis sanitaria ocasionada por el COVID-19. Ref. BOE-A-2020-4411#df-2

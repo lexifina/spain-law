@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio para las moratorias y suspensiones de financiaciones.
+
+Las moratorias y suspensiones concedidas entre el 30 de septiembre de 2020 y la entrada en vigor de este real decreto-ley al amparo de lo previsto en el artículo 7 del Real Decreto-ley 8/2020, de 17 de marzo, en el artículo 21 del Real Decreto-ley 11/2020, de 31 de marzo, en el artículo 3 del Real Decreto-ley 25/2020, de 3 de julio, en el artículo 18 del Real Decreto-ley 26/2020, de 7 de julio, o en un acuerdo sectorial de los regulados por los artículos 6 a 8 del Real Decreto-ley 19/2020, de 26 de mayo, mantendrán las condiciones y duración por las que fueron concedidas en su día.

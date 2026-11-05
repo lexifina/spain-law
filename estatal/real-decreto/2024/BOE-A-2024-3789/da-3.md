@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Arrastre de cuota de emisiones entre periodos de asignación.
+
+Se modifica el segundo párrafo del artículo 3 del Real Decreto 317/2019, de 26 de abril, por el que se define la medida de mitigación equivalente a la participación en el régimen de comercio de derechos de emisión en el periodo 2021-2025 y se regulan determinados aspectos relacionados con la exclusión de instalaciones de bajas emisiones del régimen del comercio de derechos de emisión de gases de efecto invernadero. Queda redactado de la siguiente forma:
+
+> «En el caso de que una instalación u hospital excluido de conformidad con el artículo 27 de la Directiva 2003/87/CE continúe en ese régimen de exclusión en el periodo 2026-2030, cuando en el año 2025 el volumen de emisiones notificadas sea inferior al volumen de emisiones que corresponde con el objetivo asumido, podrá arrastrar hasta un 25 % de la diferencia resultante entre ambos volúmenes, añadiéndola al volumen de emisiones permitido en el año 2026 a efectos de cumplir con el objetivo de ese año.»

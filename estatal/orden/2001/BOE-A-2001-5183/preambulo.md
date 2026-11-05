@@ -1,0 +1,11 @@
+La Orden de 21 de diciembre de 2000, por la que se crea la Comisión Calificadora de Documentos Administrativos del Ministerio del Interior y se regula el acceso a los archivos de él dependientes, aborda dos cuestiones fundamentales tal y como son la organización de los archivos departamentales y el régimen de acceso de los ciudadanos a la documentación obrante en los mismos. Con ello se ha dado un gran paso ante el reto que hoy en día supone para la Administración actual acometer con eficacia y transparencia la gestión de la cada vez más creciente documentación administrativa.
+
+Mediante la citada Orden se da cumplimiento a los artículos 58 y 65 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, articulando el sistema archivístico del Departamento, creando la Comisión Calificadora de Documentos Administrativos del Ministerio del Interior y estableciendo un cauce procedimental específico para la tramitación de las solicitudes de consulta de fondos documentales.
+
+Por otra parte, aunque el Archivo General del Ministerio del Interior es único, el apartado décimo de la citada Orden prevé que podrán crearse, mediante Orden del Ministro del Interior, Secciones del Archivo General en los órganos directivos del Departamento, cuando el volumen o la naturaleza de los documentos obrantes en los mismos así lo aconsejen.
+
+En este sentido, las Direcciones Generales de la Policía y de la Guardia Civil ejercen el mando directo de las Fuerzas y Cuerpos de Seguridad del Estado, a las cuales la Constitución y la Ley Orgánica 2/1986, de 13 de marzo, les atribuyen la misión de proteger el libre ejercicio de los derechos y libertades, velando por el cumplimiento de las leyes, previniendo o, en su caso, investigando la comisión de actos delictivos, y todo ello con el objeto de mantener el orden y la seguridad ciudadana.
+
+Pues bien, si a la especial naturaleza de estas funciones se añade la ingente cantidad y el crecimiento exponencial de la documentación existente en los archivos de ambas Direcciones Generales, surge la necesidad de hacer uso de la previsión contenida en el apartado décimo de la citada Orden, creando dos Secciones del Archivo General del Departamento en los citados órganos directivos.
+
+En su virtud, dispongo:

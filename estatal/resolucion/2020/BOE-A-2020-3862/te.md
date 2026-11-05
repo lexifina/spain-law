@@ -1,0 +1,5 @@
+## Tercero. Entidades colaboradoras adheridas al procedimiento.
+
+Salvo que comuniquen expresamente lo contrario al titular del Departamento de Recaudación de la Agencia Estatal de Administración Tributaria, se considerarán automáticamente adheridas al procedimiento regulado en la presente resolución todas las entidades colaboradoras, en la medida en que lo estén al procedimiento de pago mediante la utilización de tarjetas de crédito o débito regulado en el apartado quinto de la Resolución de 3 de junio de 2009, de la Dirección General de la Agencia Estatal de Administración Tributaria, sobre asistencia a los obligados tributarios y ciudadanos en su identificación telemática ante las entidades colaboradoras con ocasión de la tramitación de procedimientos tributarios y, en particular, para el pago de deudas por el sistema de cargo en cuenta o mediante la utilización de tarjetas de crédito o débito.
+
+En caso de producirse dicha comunicación en contrario por parte de alguna entidad colaboradora, ésta quedará excluida de los procedimientos regulados en las dos Resoluciones mencionadas en el párrafo anterior.

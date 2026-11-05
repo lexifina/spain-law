@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Declaraciones individuales de equivalencia en virtud de normas anteriores a la Ley Orgánica de Universidades.
+
+1. El Ministro de Educación, Cultura y Deporte, u órgano en el que delegue, podrá resolver solicitudes de declaración individual de equivalencia de títulos o diplomas con efectos determinados que presenten los interesados, en virtud de equivalencias generales ya declaradas por las normas jurídicas que, en su caso, sean aplicables.
+
+2. La resolución y notificación relativa a la procedencia o no de la declaración de equivalencia deberá adoptarse dentro del plazo de seis meses. La falta de notificación de resolución expresa en el plazo antes señalado permitirá entender desestimada la solicitud de equivalencia, de conformidad con la disposición adicional vigésima novena de la Ley 14/2000, de 29 de diciembre, de medidas fiscales, administrativas y del orden social, de acuerdo con lo que en ella se prevé para la expedición, renovación, homologación, convalidación y reconocimiento de títulos, diplomas, licencias y certificados académicos o profesionales en su anexo II.

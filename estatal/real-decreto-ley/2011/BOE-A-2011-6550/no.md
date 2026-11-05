@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto-ley 4/2011, de 8 de abril, de medidas urgentes de impulso a la internacionalización mediante la creación de la entidad pública empresarial ICEX España Exportación e Inversiones (ICEX)", según establece el art. 32.1 del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364#a32.

@@ -1,0 +1,13 @@
+El artículo 52.1, párrafo quinto, del Reglamento de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, aprobado por el Real Decreto 304/2014, de 5 de mayo (en adelante, Reglamento de la Ley 10/2010, de 28 de abril), establece que las solicitudes de datos al Fichero de Titularidades Financieras (en adelante, FTF) deberán identificar a la persona, personas o número de cuenta respecto de las que se requiere información, no resultando admisibles búsquedas abiertas, genéricas o por aproximación.
+
+En dicho artículo, se indica que, mediante instrucción del Secretario de Estado de Economía y Apoyo a la Empresa y previo informe de la Agencia Española de Protección de Datos, se determinarán los requisitos mínimos de información que deberán cumplir las solicitudes.
+
+La presente instrucción da continuidad a la Instrucción de la Secretaria de Estado de Economía y Apoyo a la Empresa, de 19 de diciembre de 2014, sobre los datos de identificación adicionales a declarar por las entidades de crédito al FTF, que se adopta para garantizar la adecuada identificación de titulares y cuentas, no sólo para un correcto funcionamiento del fichero, sino también para la protección de las personas cuyos datos se incluyen en el mismo.
+
+Con la finalidad de adecuar las solicitudes a la información existente en el FTF, esta Instrucción define varios criterios de búsqueda que deberán ser cumplimentados en cada solicitud por los puntos únicos de acceso contemplados en el artículo 52.1 del Reglamento de la Ley 10/2010, de 28 de abril.
+
+Por lo que respecta a las solicitudes en las que se debe identificar a la persona o personas sobre las cuales se requiere información, la presente instrucción prevé poner a disposición de los puntos únicos de acceso los campos nombre completo/razón social, número de documento identificativo y fecha de nacimiento, que deberán cumplimentarse de la forma más completa, fiel y exacta posible, con el fin de garantizar la adecuada localización de las personas en el FTF.
+
+En las solicitudes de datos en las que se debe identificar la cuenta o depósito respecto de la que se requiere información, la identificación de dicha cuenta o depósito se hará mediante un único criterio, que será la numeración de la cuenta o depósito.
+
+En virtud de todo ello, habiendo recabado el informe preceptivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias de acuerdo con lo dispuesto en el artículo 44.2 k) de la Ley 10/2010, de 28 de abril, y previo informe favorable de la Agencia Española de Protección de Datos conforme exige el artículo 52.1 del Reglamento de la Ley 10/2010, de 28 de abril, se dicta la presente Instrucción:

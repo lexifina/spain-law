@@ -1,0 +1,7 @@
+## Disposición transitoria quinta.
+
+1. Quienes con anterioridad a 1 de enero de 1987 tuvieran reconocida una pensión de jubilación en alguno de los Regímenes extinguidos o en el Régimen de integración y en la fecha del hecho causante de dicha pensión estuvieran en situación de pluriactividad, mantendrán las expectativas para causar la pensión de jubilación en razón de la actividad distinta a aquella por la que se reconoció la pensión, una vez que se acrediten los requisitos necesarios para ello.
+
+2. Los que en 31 de diciembre de 1986 fueran pensionistas de incapacidad permanente total para la profesión habitual del Régimen de integración y antes del 1 de enero de 1987 hubieran desarrollado actividades encuadradas en el campo de aplicación del Régimen integrado, conservarán el derecho a compatibilizar el percibo de aquella pensión con la que pudieran causar en aquel Régimen por razón de dichas actividades.
+
+3. Los pensionistas de incapacidad permanente total de alguno de los Regímenes integrados que, con posterioridad a la adquisición de la condición de pensionistas de dicho Régimen, hubieran desarrollado actividades enmarcadas en el campo de aplicación de aquel, por las cuales pudieran llegar a causar una pensión en el Régimen de integración, deberán optar entre la pensión que ya tuvieran reconocida o esta nueva pensión que se calculará computándose las cotizaciones que ya fueron tenidas en cuenta para el reconocimiento de aquella primera pensión.

@@ -1,0 +1,3 @@
+## Disposición adicional única. Competencias de las comunidades autónomas que hayan recibido el traspaso de funciones y servicios en materia de tráfico y circulación de vehículos a motor.
+
+De conformidad con lo previsto en la disposición adicional segunda del texto refundido de la Ley sobre el Tráfico, Circulación de Vehículos a Motor y Seguridad Vial, las comunidades autónomas que hayan recibido el traspaso de funciones y servicios en materia de tráfico y circulación de vehículos a motor, serán las encargadas, en su ámbito territorial, de determinar el modo de impartir los cursos de sensibilización y reeducación vial, de acuerdo con la duración, el contenido y los requisitos previstos en la presente orden.

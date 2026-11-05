@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Las ayudas por paralización temporal concedidas al amparo de lo dispuesto en el artículo 1.2..d) de la Orden APA/1851/2007, de 15 de junio, por la que se establecen las bases reguladoras y la convocatoria para la concesión de indemnizaciones por paralización temporal de actividad durante el año 2007, a los propietarios o armadores y tripulantes de buques españoles con puerto base en Ceuta y Melilla que ejerzan la pesca de arrastre y cerco en el caladero Mediterráneo, se regirán por lo dispuesto en la presente Orden durante el periodo comprendido entre los días 15 a 28 de febrero de 2008.

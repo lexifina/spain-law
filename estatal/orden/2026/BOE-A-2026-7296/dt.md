@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Ingreso de diferencias de cotización.
+
+1. Las diferencias de cotización que se hubieran podido producir por la aplicación de lo dispuesto en esta orden respecto de las cotizaciones practicadas a través del sistema de liquidación directa que desde el 1 de febrero de 2026 se hubieran efectuado podrán ser ingresadas sin recargo hasta el último día del mes siguiente a aquel en el que la Tesorería General de la Seguridad Social comunique la actualización de las liquidaciones de cuotas afectadas.
+
+2. Las diferencias de cotización que se hubiesen podido producir por la aplicación de lo dispuesto en esta orden respecto de las cotizaciones practicadas a través del sistema de liquidación simplificada que desde el 1 de enero de 2026 se hubiesen efectuado serán liquidadas sin recargo alguno, una vez se disponga de los datos, programas y aplicaciones necesarios para su determinación, y se ingresarán mediante el sistema de domiciliación en cuenta a que se refiere la disposición adicional octava del Reglamento General de Recaudación de la Seguridad Social.
+
+3. Las diferencias de cotización que se hubieran podido producir por la aplicación de lo dispuesto en esta orden respecto de las cotizaciones practicadas a través del sistema de autoliquidación que desde el 1 de enero de 2026 se hubieran efectuado podrán ser ingresadas sin recargo en el plazo que finalizará el último día del segundo mes siguiente al de la publicación de esta orden en el «Boletín Oficial del Estado».

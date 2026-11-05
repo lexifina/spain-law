@@ -1,0 +1,5 @@
+## Disposición adicional tercera.
+
+Ampliación del plazo para iniciar la construcción de las instalaciones correspondientes a los proyectos a los que se les haya asignado retribución específica en la convocatoria para proyectos iniciados en los años 2008-2009.
+
+Se amplía hasta el 30 de junio de 2010 el plazo para el inicio de la construcción de las instalaciones correspondientes a los proyectos a los que se les haya asignado retribución específica en la convocatoria para proyectos iniciados en los años 2008-2009, de acuerdo con lo establecido en el artículo 20 de la Orden ITC/3993/2006, de 29 de diciembre, por la que se establece la retribución de determinadas actividades reguladas del sector gasista, en la redacción dada a este precepto por el apartado 2 de la disposición final segunda de la ITC/3863/2007, de 28 de diciembre, por la que se establecen los peajes y cánones asociados al acceso de terceros a las instalaciones gasistas para el año 2008 y se actualizan determinados aspectos relativos a la distribución de las actividades reguladas del sector gasista.

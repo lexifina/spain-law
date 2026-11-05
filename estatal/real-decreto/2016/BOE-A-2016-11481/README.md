@@ -1,0 +1,67 @@
+# Real Decreto 601/2016, de 2 de diciembre, por el que se aprueba el Reglamento de la Circulación Aérea Operativa.
+
+- Identificador: BOE-A-2016-11481
+- Rango: Real Decreto
+- Fecha de disposición: 2016-12-02
+- Publicación: 2016-12-03
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2016-11481
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [(preambulo)](pr.md)
+- [Artículo único](au.md)
+- [Disposición adicional única](da.md)
+- [Disposición derogatoria única](dd.md)
+- [Disposición final primera](df.md)
+- [Disposición final segunda](df-2.md)
+- [Disposición final tercera](df-3.md)
+- [(firma)](fi.md)
+- [REGLAMENTO](re.md)
+- [LIBRO PRIMERO](lp.md)
+- [CAPITULO I](ci.md)
+- [CAPÍTULO II](ci-2.md)
+- [LIBRO SEGUNDO](ls.md)
+- [CAPITULO I](ci-3.md)
+- [CAPÍTULO II](ci-4.md)
+- [CAPÍTULO III](ci-5.md)
+- [CAPÍTULO IV](ci-6.md)
+- [CAPÍTULO V](cv.md)
+- [CAPÍTULO VI](cv-2.md)
+- [CAPÍTULO VII](cv-3.md)
+- [LIBRO TERCERO](lt.md)
+- [CAPÍTULO I](ci-7.md)
+- [CAPÍTULO II](ci-8.md)
+- [CAPÍTULO III](ci-9.md)
+- [CAPÍTULO IV](ci-10.md)
+- [LIBRO CUARTO](lc.md)
+- [CAPÍTULO I](ci-11.md)
+- [CAPÍTULO II](ci-12.md)
+- [CAPÍTULO III](ci-13.md)
+- [CAPÍTULO IV](ci-14.md)
+- [CAPÍTULO V](cv-4.md)
+- [LIBRO QUINTO](lq.md)
+- [CAPÍTULO I](ci-15.md)
+- [CAPÍTULO II](ci-16.md)
+- [LIBRO SEXTO](ls-2.md)
+- [CAPÍTULO I](ci-17.md)
+- [CAPÍTULO II](ci-18.md)
+- [LIBRO SÉPTIMO](ls-3.md)
+- [CAPÍTULO I](ci-19.md)
+- [CAPÍTULO II](ci-20.md)
+- [CAPÍTULO III](ci-21.md)
+- [CAPÍTULO IV](ci-22.md)
+- [CAPÍTULO V](cv-5.md)
+- [CAPÍTULO VI](cv-6.md)
+- [CAPÍTULO VII](cv-7.md)
+- [LIBRO OCTAVO](lo.md)
+- [CAPÍTULO I](ci-23.md)
+- [CAPÍTULO II](ci-24.md)
+- [CAPÍTULO III](ci-25.md)
+- [LIBRO NOVENO](ln.md)
+- [CAPÍTULO I](ci-26.md)
+- [CAPÍTULO II](ci-27.md)
+- [CAPÍTULO III](ci-28.md)
+- [CAPÍTULO IV](ci-29.md)
+- [ANEXO A](aa.md)

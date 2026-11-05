@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Adaptación de las sociedades gestoras de entidades de capital riesgo y sociedades de capital riesgo cuya gestión no esté encomendada a una sociedad gestora.
+
+Las sociedades gestoras de entidades de capital riesgo y las sociedades de capital riesgo cuya gestión no esté encomendada a una sociedad gestora dispondrán del plazo de seis meses, desde la entrada en vigor de la presente Ley, para adaptarse a lo dispuesto en el apartado 1 del artículo 2 de la Ley 19/1993, de 28 de diciembre, sobre determinadas medidas de prevención del blanqueo de capitales, según la redacción dada por la disposición final segunda de esta Ley.

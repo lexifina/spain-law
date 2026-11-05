@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio de los servicios específicos informáticos.
+
+Los servicios y procedimientos informáticos en áreas específicas de actividad de los ministerios en las que se haya producido transferencias a otros departamentos ministeriales, seguirán siendo prestados por los órganos u organismos que los proporcionaban hasta la aprobación de este real decreto, hasta tanto se desarrolle la estructura orgánica básica de los ministerios, se establezca la distribución de efectivos y, en su caso, se asuman los procedimientos y sistemas técnicos requeridos para la prestación del servicio.

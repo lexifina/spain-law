@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Supresión de usos, instalaciones o actividades incompatibles.
+
+En el plazo de cinco años a partir de la entrada en vigor de la presente ley, las Administraciones Públicas, primando en todo caso los acuerdos voluntarios, procederán a la supresión de los usos, instalaciones o actividades incompatibles que pudieran existir en el momento de la declaración. En los casos en que dicha supresión no fuese posible por razones de utilidad pública prevalente, adoptarán en el mismo plazo las medidas precisas para la corrección de los impactos ambientales que se pudieran estar produciendo, en particular las que se relacionan con el anexo IV.

@@ -1,0 +1,5 @@
+## Disposición adicional primera.
+
+Las Comunidades Autónomas con competencia para la protección de las personas y los bienes y para el mantenimiento del orden público, con arreglo a lo dispuesto en los correspondientes Estatutos de Autonomía, podrán dictar, con sujeción a lo prevenido en esta Ley, las disposiciones necesarias para regular y autorizar la utilización de videocámaras por sus fuerzas policiales y por las dependientes de las Corporaciones locales radicadas en su territorio, la custodia de las grabaciones obtenidas, la responsabilidad sobre su ulterior destino y las peticiones de acceso y cancelación de las mismas.
+
+Cuando sean competentes para autorizar la utilización de videocámaras, las Comunidades Autónomas mencionadas en el párrafo anterior regularán la composición y el funcionamiento de la Comisión correspondiente, prevista en el artículo 3 de esta Ley, con especial sujeción a los principios de presidencia judicial y prohibición de mayoría de la Administración autorizante.

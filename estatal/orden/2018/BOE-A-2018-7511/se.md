@@ -1,0 +1,5 @@
+## Segundo. Presentación del informe anual.
+
+La presentación de informe anual, ante los órganos competentes de las Comunidades Autónomas donde radique la sede fiscal de la empresa y de las ciudades de Ceuta y Melilla en su caso, se realizará exclusivamente de manera telemática. Igualmente se realizará por este mismo sistema en el caso previsto en el artículo 28. b) del Real Decreto 97/2014, de 14 de febrero, por el que se regulan las operaciones de transporte de mercancías peligrosas por carretera en territorio español, cuando el citado informe esté ocasionado por el cese de la actividad de la empresa y sea remitido fuera de los plazos legalmente establecidos.
+
+Con el fin de simplificar a las empresas el envío de la documentación relativa al informe anual, la Dirección General de Transporte Terrestre facilitará a las Comunidades Autónomas y a las Ciudades de Ceuta y Melilla, la aplicación informática para la realización y remisión del citado informe por este sistema. Igualmente se dispondrá de un sistema de volcado de información y registros que posibilite el realizarlo de forma automatizada.

@@ -1,0 +1,11 @@
+## Disposición transitoria tercera. Régimen transitorio en materia del nivel asistencial de protección por desempleo.
+
+1. Las personas que, a 1 de noviembre de 2024, hubieran solicitado, fueran beneficiarios o tuvieran suspendidos cualquiera de los subsidios por desempleo existentes en el momento de la entrada en vigor de este real decreto-ley, incluido el subsidio extraordinario por desempleo, o la renta activa de inserción, seguirán rigiéndose por la normativa anterior a este real decreto-ley hasta la extinción del derecho actual.
+
+2. Asimismo podrán solicitar, y percibir conforme a la normativa anterior a este real decreto-ley hasta su extinción, cualquiera de los subsidios por desempleo existentes en el momento de entrada en vigor de este real decreto-ley, quienes acrediten que la fecha del hecho causante de los mismos es anterior a 1 de noviembre de 2024. A estos efectos se considerará como fecha del hecho causante aquella en que se cumpla el plazo de espera de un mes, o se produzca la situación legal de desempleo.
+
+Podrán solicitar y percibir conforme a la normativa anterior a este real decreto-ley hasta su extinción, el subsidio extraordinario por desempleo quienes acrediten haber realizado la búsqueda activa de empleo, así como, en su caso, cumplido el plazo de espera de un mes tras el agotamiento del subsidio, antes del día 1 de noviembre de 2024.
+
+3. Sin perjuicio de lo anterior, a las personas a las que se refieren los apartados uno y dos anteriores les resultarán de aplicación, a partir de su entrada en vigor, lo previsto en los artículos 275.5.c) y 282.5 del texto refundido de la Ley General de la Seguridad Social, redactados en los apartados cinco y once del artículo segundo de este real decreto-ley, así como el apartado dieciséis del artículo segundo de este real decreto-ley y la disposición final tercera.
+
+4. Podrán solicitar los subsidios por desempleo regulados en este real decreto-ley, quienes en el momento de su entrada en vigor se encuentren en alguno de los supuestos de acceso previstos en el artículo 274, o en las disposiciones adicionales quincuagésima séptima o quincuagésima octava y no hubieran podido solicitarlo, por no haber cumplido el mes de espera previo.

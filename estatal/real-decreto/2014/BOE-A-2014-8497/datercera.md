@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Supuestos especiales para el nombramiento de tutores y de determinados miembros del comité de evaluación respecto a las áreas de capacitación específica.
+
+En las áreas de capacitación específica de nueva creación, los requisitos exigidos en los artículos 24.2 y 26.b) para el nombramiento de tutores y para el profesional designado por la comunidad autónoma en los comités de evaluación se sustituirán por una experiencia acreditada que se corresponda con el ámbito profesional del área de capacitación específica de que se trate, en los términos que determine la orden de la persona titular del Ministerio de Sanidad, Servicios Sociales e Igualdad, mediante la que se aprueben los requisitos de acreditación de cada una de ellas.

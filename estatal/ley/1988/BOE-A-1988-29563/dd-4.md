@@ -1,0 +1,3 @@
+## Disposición derogatoria cuarta. Ayudas a Empresas Periodísticas.
+
+Quedan derogados los artículos 2.1, apartado a), párrafo «... difusión, con especial consideración de los diarios de menor difusión, así como el número de ejemplares difundidos fuera del territorio nacional, el consumo de papel prensa y...», y punto 2 de este mismo artículo; artículo 3; artículo 4, apartado b); artículo 5, y Disposición Adicional Segunda de la Ley 29/1984, de 2 de agosto, por la que se regula la concesión de ayudas a Empresas Periodísticas y Agencias Informativas, así como los preceptos que, en desarrollo de los citados artículos derogados, se establecen en el Real Decreto 2089/1984, de 14 de noviembre, por el que se desarrollaba la citada Ley.

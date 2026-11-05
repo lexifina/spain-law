@@ -1,0 +1,13 @@
+## I. Justificación
+
+El Fondo de Asistencia Social fue implantado en el texto refundido de las disposiciones legales vigentes sobre el Régimen Especial de Seguridad Social del personal al servicio de la Administración de Justicia (Real Decreto Legislativo 3/2000, de 23 de junio), cuyo artículo 12.1.e) estableció, entre las prestaciones que cubriría la Mutualidad General Judicial, la «Asistencia social».
+
+Este concepto fue desarrollado en los artículos 81 y 82 del Real Decreto 3283/1978, de 3 de noviembre (Reglamento de la Mutualidad General Judicial), que creó el Fondo de Asistencia Social, destinado a la financiación de ayudas asistenciales integradas en la acción protectora social.
+
+Debido al carácter discrecional de las ayudas y al incremento en el número de solicitudes, fue necesario regular su concesión estableciendo determinados criterios, recogidos en la Circular 84, de 4 de julio de 2008.
+
+Actualmente su regulación reglamentaria se halla recogida en los artículos 107 y 108 del Real Decreto 1026/2011, de 15 de julio por el que se aprueba el Reglamento del Mutualismo Judicial. La publicación y entrada en vigor del mencionado Real Decreto 1026/2011 junto con la normativa contenida en el Real Decreto-ley 20/2012 de 13 de julio de medidas normativas para garantizar la estabilidad presupuestaria y de fomento e la competitividad, determina la necesidad de adecuación de la regulación existente del Fondo de Asistencia Social a esta normativa.
+
+Partiendo de tales premisas, por lo tanto, es preciso acomodar las ayudas a que atiende el Fondo a los criterios de austeridad y de reducción del gasto que impone el actual escenario presupuestario, conservando en todo caso el espíritu que siempre ha alentado la asistencia social que se procura desde este organismo, y atender –hasta donde alcance presupuestariamente– las situaciones derivadas de estados de necesidad más graves y urgentes en los que puedan encontrarse los mutualistas o sus beneficiarios en quienes concurran las circunstancias requeridas en cada caso.
+
+En base a todo ello, la Gerencia de conformidad con las competencias que le confiere el artículo 14.3.e) del Real Decreto 1206/2006, de 20 de octubre, por el que se regulan la composición y funciones de los órganos de gobierno, administración y representación de la Mutualidad General Judicial, tras informar a la Comisión Permanente, en los términos establecidos en el artículo 12.1.f) del citado Real Decreto, resuelve establecer los criterios de concesión de las ayudas que, con cargo al Fondo de Asistencia Social, atiendan las situaciones especiales y estados extremos de necesidad en que pudieran encontrarse los mutualistas o sus beneficiarios, con arreglo a lo que a continuación se dispone.

@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Sistemas de evaluación del desempeño y régimen transitorio retributivo de las escalas científicas de los Organismos Públicos de Investigación de la Administración General del Estado.
+
+El personal investigador funcionario que se integre en las Escalas de Profesores de Investigación de Organismos Públicos de Investigación, de Investigadores Científicos de Organismos Públicos de Investigación, y de Científicos Titulares de Organismos Públicos de Investigación, mantendrá el sistema retributivo aplicable a la correspondiente escala suprimida de la que proceda hasta el 31 de diciembre de 2013 incluido. Hasta esa fecha, mantendrán también su vigencia los actuales sistemas de evaluación del desempeño del personal investigador funcionario al servicio de los Organismos Públicos de Investigación de la Administración General del Estado.
+
+A partir del 1 de enero de 2014 incluido, le será de aplicación el sistema retributivo establecido en el artículo 25.5 y en la disposición adicional séptima, apartados 1, 2 y 3, de esta ley.

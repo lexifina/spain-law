@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas las disposiciones contenidas en el Reglamento de Gestión Urbanística de 25 de agosto de 1978, en cuanto se refieran al acceso al Registro de la Propiedad de actos de naturaleza urbanística. Asimismo quedan derogadas todas las disposiciones del Reglamento de Parcelaciones y Reparcelaciones del Suelo afectado por Planes de Ordenación Urbana, de 7 de abril de 1966, y del Reglamento de Edificación Forzosa y Registro Municipal de Solares, declarados en vigor por el Real Decreto 304/1993, de 23 de febrero, en cuanto contengan referencias al Registro de la Propiedad.

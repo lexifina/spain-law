@@ -1,0 +1,3 @@
+## Primero.
+
+Durante los periodos electorales, cuando un organismo dependiente de cualquiera de las Administraciones Públicas, o un órgano de estas, sea de ámbito estatal, autonómico o local, decida realizar una encuesta que contenga preguntas sobre intención de voto, ha de comunicarlo previamente a la Junta Electoral Central para que por esta se dé traslado a los representantes de las entidades políticas concurrentes a las elecciones en el ámbito territorial de la encuesta. Con independencia de la denominación que se le otorgue, los trabajos que incluyan en su cuestionario preguntas sobre intención de voto, valoración de partidos o valoración de líderes políticos, estarán sujetos a esta obligación.

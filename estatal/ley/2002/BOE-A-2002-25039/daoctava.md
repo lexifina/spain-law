@@ -1,0 +1,3 @@
+## Disposición adicional octava. Fundaciones de entidades religiosas.
+
+Lo dispuesto en esta Ley se entiende sin perjuicio de lo establecido en los acuerdos con la Iglesia Católica y en los acuerdos y convenios de cooperación suscritos por el Estado con las iglesias, confesiones y comunidades religiosas, así como en las normas dictadas para su aplicación, para las fundaciones propias de estas entidades, que podrán optar por el régimen fiscal establecido en los artículos 5 a 25 de esta Ley, siempre que en este último caso presenten la certificación de su inscripción en el Registro de Entidades Religiosas, y cumplan el requisito establecido en el número 5.º del artículo 3 de esta Ley.

@@ -1,0 +1,5 @@
+## Disposición transitoria única. Entidades que, a la entrada en vigor de este real decreto, participen en calidad de asociadas en un acuerdo de Cooperación EURES Transfronterizo en España.
+
+Las entidades que, a la entrada en vigor de este real decreto, participen en calidad de asociadas en un acuerdo de Cooperación EURES Transfronterizo en España, podrán solicitar ser miembros o socios EURES en el plazo de doce meses desde dicha fecha de entrada en vigor. Estas entidades podrán seguir desarrollando su actividad en la forma dispuesta/descrita en el Acuerdo.
+
+Excepcionalmente, y en atención a la experiencia previa dentro de la Red EURES, estas entidades podrán ser designadas como socios de EURES en España competentes en el marco del correspondiente Acuerdo de Cooperación EURES Transfronterizo en España, sin necesidad de someterse al procedimiento de autorización establecido en el capítulo III de este real decreto, y siempre que cumplan con las obligaciones establecidas para los socios de EURES en España, en el artículo 8, y concurran los requisitos previstos en el artículo 13.

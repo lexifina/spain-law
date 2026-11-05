@@ -1,0 +1,3 @@
+## Disposición final quinta. Incorporación de normas del Derecho de la Unión Europea.
+
+Mediante este real decreto se incorporan parcialmente al ordenamiento jurídico español la Directiva 2015/1513, del Parlamento Europeo y del Consejo, de 9 de septiembre de 2015, por la que se modifica la Directiva 98/70/CE, relativa a la calidad de la gasolina y el gasóleo, y la Directiva 2009/28/CE, relativa al fomento del uso de energía renovable procedente de fuentes renovables; y la Directiva 2012/27/UE del Parlamento Europeo y del Consejo de 25 de octubre, relativa a la eficiencia energética, por la que se modifican las Directivas 2009/125/CE y 2010/30/UE, y por la que se derogan las Directivas 2004/8/CE y 2006/32/CE.

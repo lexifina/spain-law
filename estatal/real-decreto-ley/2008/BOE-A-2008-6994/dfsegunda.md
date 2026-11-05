@@ -1,0 +1,3 @@
+## Disposición final segunda. Concepto de rehabilitación de vivienda en el Impuesto sobre la Renta de las Personas Físicas.
+
+En el plazo de tres meses el Gobierno llevará a cabo las modificaciones necesarias en la regulación reglamentaria del Impuesto sobre la Renta de las Personas Físicas para regular el concepto de rehabilitación de vivienda, cuando tenga por objeto la reconstrucción de la misma mediante la consolidación y el tratamiento de las estructuras, fachadas o cubiertas y otras análogas, de forma similar al establecido en el párrafo cuarto del artículo 20.uno.22.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido.

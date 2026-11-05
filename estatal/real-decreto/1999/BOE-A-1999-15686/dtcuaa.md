@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Aplicación de normas contables.
+
+Las normas de adaptación al Plan General de Contabilidad a las sociedades anónimas deportivas, aprobadas por Orden del Ministerio de Economía y Hacienda de 23 de junio de 1995, seguirán siendo aplicables hasta tanto se aprueben las nuevas normas de adaptación a que se refiere el apartado 2 del artículo 19 del presente Real Decreto. No obstante lo anterior, durante los ejercicios en que se sigan aplicando las normas de adaptación aprobadas por Orden de 23 de junio de 1995, se añadirá la información requerida por este Real Decreto.

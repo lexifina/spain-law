@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+1. Serán inscribibles en el Registro Mercantil la emisión de obligaciones u otros valores negociables, agrupados en emisiones, y demás actos y circunstancias relativos a las mismas que, con anterioridad al 1 de junio de 1995, hubieran sido acordadas por sociedades de responsabilidad limitada, colectivas o comanditarias simples, siempre que la fecha de adopción del correspondiente acuerdo conste en documento público o se acredite por cualquiera de las formas previstas en el artículo 1.227 del Código Civil y la emisión se haya realizado conforme a lo dispuesto en la Ley 211/1964, de 24 de diciembre, sobre emisión de obligaciones por sociedades colectivas comanditarias o de responsabilidad limitada, por asociaciones u otras personas jurídicas.
+
+2. Igualmente, serán inscribibles las emisiones de obligaciones u otros valores negociables, agrupados en emisiones, realizadas por empresarios individuales, con arreglo a la legislación citada en el apartado anterior, cuya formalización en escritura pública haya tenido lugar con anterioridad al 1 de junio de 1995.

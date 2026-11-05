@@ -1,0 +1,21 @@
+I
+
+El Derecho marítimo o de la navegación encuentra en los tratados internacionales su principal fuente normativa. Sin embargo, estos convenios internacionales difícilmente pueden desplegar su eficacia de forma autónoma, por lo que necesitan el desarrollo de normas nacionales que faciliten su aplicación.
+
+Este es precisamente el propósito de este real decreto-ley que, mediante la incorporación de una nueva disposición final a la Ley de Enjuiciamiento Civil, viene a completar las normas del Convenio Internacional sobre el embargo preventivo de buques, hecho en Ginebra el 12 de marzo de 1999, cuya entrada en vigor se producirá el 14 de septiembre de 2011. Ello ha venido acompañado de la denuncia del Convenio Internacional para la unificación de ciertas reglas relativas al embargo preventivo de buques, hecho en Bruselas, de 10 de mayo de 1952, aplicable hasta ahora, y que exige, a su vez, determinar las medidas que se aplicarán al embargo de buques que enarbolen pabellón de un Estado que no sea parte en el Convenio de 1999, al objeto de asegurar la necesaria protección de los acreedores residentes en España.
+
+En la línea que marcó el Proyecto de Ley General de Navegación Marítima, este real decreto-ley sigue la estela de la uniformidad del Derecho marítimo a fin de evitar la dualidad de regulaciones existentes en muchos ámbitos de esta materia, y que no hace sino generar contradicciones e incrementar la litigiosidad. De esta forma, la modificación de la Ley de Enjuiciamiento Civil que introduce este real decreto-ley se limita a prever la aplicación general a todo embargo preventivo de buques del nuevo Convenio de 1999 y las especialidades que comporta frente al régimen general que prevé dicha ley procesal.
+
+Indicar, finalmente, que el contenido procesal del Convenio Internacional sobre el embargo preventivo de buques determina también la competencia del Estado sobre la legislación procesal para el dictado de esta disposición, cuya entrada en vigor prevista para el 28 de marzo de 2012 responde a la necesidad coordinar la aplicación de estas medidas a la fecha de producción de efectos de la denuncia por parte de España del Convenio Internacional para la unificación de ciertas reglas relativas al embargo preventivo de buques, hecho en Bruselas, de 10 de mayo de 1952.
+
+En resumen, las circunstancias de extraordinaria y urgente necesidad, que a tenor del artículo 86.1 de la Constitución habilitan al Gobierno para adoptar medidas mediante real decreto-ley, vienen determinadas por la necesidad de dar solución a la situación de desventaja en que se encontrarían los acreedores españoles una vez que se produzcan los efectos de la denuncia del Convenio de 1952, así como a la necesidad de facilitar la aplicación del Convenio de 1999 mediante la correspondientes disposiciones procesales, toda vez que la Ley 2/1967 resulta inaplicable a partir de la producción de efectos de la denuncia del Convenio de 1952. Como estos efectos comienzan el 28 de marzo de 2012, habida cuenta de la próxima finalización de la presente Legislatura, no es posible adoptar las medidas proyectadas mediante el cauce legislativo ordinario.
+
+II
+
+Asimismo, se introduce una nueva disposición adicional en el texto refundido de la Ley de Aguas con la finalidad de conferir a las Comunidades Autónomas que lo tengan previsto en sus Estatutos de Autonomía, el ejercicio de la competencia ejecutiva sobre las facultades de policía de dominio público hidráulico dentro de su ámbito territorial. Con esta medida se pretende dotar de mayor seguridad jurídica a las relaciones interadministrativas en materia de aguas, todo ello conforme a la reciente doctrina del Tribunal Constitucional contenida en la Sentencia 30/2011, de 16 de marzo.
+
+También se procede a la declaración de interés general de determinadas obras de infraestructuras hidráulicas con destino a riego en Huelva, por la necesidad urgente de racionalizar en el uso del agua de riego en estas zonas, así como el necesario impulso al desarrollo de estas zonas rurales.
+
+En uso de la autorización contenida en el artículo 86 de la Constitución española, a propuesta del Ministro Justicia, del Ministro de Fomento, y de la Ministra de Medio Ambiente, y Medio Rural y Marino, y previa deliberación del Consejo de Ministros en su reunión del día 26 de agosto de 2011,
+
+DISPONGO:

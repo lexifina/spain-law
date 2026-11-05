@@ -1,0 +1,5 @@
+## Artículo primero. Modificación del apartado 2 del artículo 32 del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo.
+
+Con efectos para los períodos impositivos que se inicien a partir del día 1 de enero de 2005, el apartado 2 del artículo 32 del Texto Refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, queda redactado de la siguiente manera:
+
+«2. Tendrá también la consideración de impuesto efectivamente pagado el impuesto satisfecho por las entidades participadas directamente por la sociedad que distribuye el dividendo y por las que, a su vez, estén participadas directamente por aquellas, y así sucesivamente, en la parte imputable a los beneficios con cargo a los cuales se pagan los dividendos siempre que dichas participaciones no sean inferiores al cinco por ciento y cumplan el requisito a que se refiere el apartado anterior en lo concerniente al tiempo de tenencia de la participación.»

@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión de 19 de septiembre de 2014 y a propuesta de la Vicepresidenta del Gobierno y Ministra de la Presidencia y de los Ministros de Hacienda y Administraciones Públicas, del Interior, de Empleo y Seguridad Social y de Industria, Energía y Turismo, ha adoptado un Acuerdo por el que se aprueba Cl@ve, la plataforma común del Sector Público Administrativo Estatal para la identificación, autenticación y firma electrónica mediante el uso de claves concertadas.
+
+En virtud de lo dispuesto en el apartado séptimo del citado Acuerdo y para general conocimiento, se dispone su publicación como Anexo a la presente Orden.

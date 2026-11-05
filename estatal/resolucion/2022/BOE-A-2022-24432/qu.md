@@ -1,0 +1,7 @@
+## Quinto. Colaboración de los gestores aeroportuarios y portuarios y obligaciones de compañías aéreas y navieras.
+
+Los gestores aeroportuarios y las compañías aéreas prestarán su colaboración al Ministerio de Sanidad para la implementación de las medidas previstas en la presente resolución, conforme a lo recogido en el artículo primero del Real Decreto-ley 8/2021, de 4 de mayo, por el que se adoptan medidas urgentes en el orden sanitario, social y jurisdiccional, a aplicar tras la finalización de la vigencia del estado de alarma declarado por el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2.
+
+Las agencias de viaje, los operadores turísticos y compañías de transporte, así como cualquier otro agente que comercialice billetes aisladamente o como parte de un viaje combinado deberán informar a los pasajeros, en el inicio del proceso de venta de los billetes con destino a España, de las medidas de control sanitario contempladas en la presente resolución y de las consecuencias de su incumplimiento o falseamiento, según se establece en el apartado octavo.
+
+Las compañías de trasporte deberán garantizar que todos los pasajeros que embarquen con destino a España procedentes de la República Popular China disponen de un Certificado COVID digital de la UE o equivalente, o de un certificado de prueba diagnóstica de infección activa de COVID-19 con resultado negativo, según se establece en el apartado tercero.

@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del texto refundido de la Ley del Impuesto de Transmisiones patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre.
+
+Se añade un nuevo número 29) en el apartado B) del artículo 45.I del texto refundido de la Ley del Impuesto de Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre, que tendrá la siguiente redacción:
+
+«29. Las escrituras de formalización de las moratorias previstas en artículo 13.3 del Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19, así como en el artículo 24.2 del Real Decreto-ley 11/2020, de 31 de marzo, por el que se adoptan medidas urgentes complementarias en el ámbito social y económico para hacer frente al COVID-19, y de las moratorias convencionales concedidas al amparo de Acuerdos marco sectoriales adoptados como consecuencia de la crisis sanitaria ocasionada por el COVID-19 previstas en el artículo 7 del Real Decreto-ley 19/2020, de 26 de mayo.»

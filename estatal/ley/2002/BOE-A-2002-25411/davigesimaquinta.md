@@ -1,0 +1,3 @@
+## Disposición adicional vigésima quinta. Participación en tributos del Estado de determinados municipios.
+
+En el caso de aquellos municipios de más de cien mil habitantes que tengan agotadas todas sus posibilidades urbanísticas, tanto en lo referido a su suelo urbano como a la posibilidad de urbanizar espacio alguno en cualquiera de sus modalidades, por total colmatación física de su término que impide absolutamente su crecimiento, el coeficiente multiplicador a aplicar será el inmediatamente superior en la escala prevista en el artículo 115.1 C) a) de la Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales.

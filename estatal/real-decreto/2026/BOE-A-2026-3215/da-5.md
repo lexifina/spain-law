@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Criterios específicos en la evaluación de las solicitudes de inclusión y en la fijación del precio de financiación.
+
+Los criterios específicos a aplicar en la evaluación de las solicitudes de inclusión de productos sanitarios en la prestación farmacéutica para su financiación por el Sistema Nacional de Salud, así como en la fijación del precio de financiación por parte de la Comisión Interministerial de Precios de los Medicamentos, se desarrollarán en el plazo de doce meses tras la entrada en vigor del presente real decreto, previo informe de la Comisión Delegada del Gobierno para Asuntos Económicos.

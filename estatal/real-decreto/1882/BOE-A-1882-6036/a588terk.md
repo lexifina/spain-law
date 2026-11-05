@@ -1,0 +1,5 @@
+## Artículo 588 ter k. Identificación mediante número IP.
+
+Cuando en el ejercicio de las funciones de prevención y descubrimiento de los delitos cometidos en internet, los agentes de la Policía Judicial tuvieran acceso a una dirección IP que estuviera siendo utilizada para la comisión algún delito y no constara la identificación y localización del equipo o del dispositivo de conectividad correspondiente ni los datos de identificación personal del usuario, solicitarán del juez de instrucción que requiera de los agentes sujetos al deber de colaboración según el artículo 588 ter e, la cesión de los datos que permitan la identificación y localización del terminal o del dispositivo de conectividad y la identificación del sospechoso.
+
+> Se añade por el art. único.14 de la Ley Orgánica 13/2015, de 5 de octubre. Ref. BOE-A-2015-10725.

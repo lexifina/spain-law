@@ -1,0 +1,19 @@
+## Sección VI. Diligencia debida para cuentas nuevas de entidad
+
+Se aplicarán los siguientes procedimientos a las cuentas nuevas de entidad.
+
+Procedimientos de revisión para identificar cuentas de entidad que pueden estar sujetas a comunicación de información. En relación con las cuentas nuevas de entidad, las instituciones financieras deberán aplicar los siguientes procedimientos de revisión:
+
+1. Determinación de la residencia fiscal de la entidad.
+
+a) La institución financiera deberá obtener una declaración, que podrá formar parte de la documentación de apertura de cuentas, que le permita determinar la(s) residencia(s) fiscal del titular de la cuenta. Asimismo deberá verificar la razonabilidad de tal declaración sobre la base de la información que dicha institución haya obtenido en la apertura de la cuenta, incluida toda la documentación recopilada con arreglo a procedimientos aplicados conforme a la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo y su normativa de desarrollo. Si la entidad certifica que no tiene residencia fiscal, la institución financiera podrá basarse en la dirección de la oficina principal de la entidad para determinar la residencia.
+
+b) Si la declaración indica que el titular de la cuenta es residente fiscal en un país o jurisdicción al que se refiere el artículo 4 de este real decreto, la institución financiera deberá tratar la cuenta como cuenta sujeta a comunicación de información, a menos que determine razonablemente, basándose en información de que disponga o que sea pública, que el titular de la cuenta no es una persona sujeta a comunicación de información en relación con dicho país o jurisdicción.
+
+2. Determinación de la residencia fiscal de las personas que ejercen el control de una entidad que es una ENF pasiva. En relación con el titular de una cuenta nueva de entidad (incluidas las entidades que sean personas sujetas a comunicación de información), la institución financiera deberá determinar si el titular de la cuenta es una ENF pasiva con una o varias personas que ejercen el control y determinar la residencia fiscal de las mismas. En caso de que alguna de las personas que ejercen el control de una ENF pasiva sea una persona sujeta a comunicación de información, la cuenta deberá tratarse como una cuenta sujeta a comunicación de información. Para llevar a cabo estas determinaciones, la institución financiera deberá seguir las indicaciones de las letras a), b) y c), en el orden que resulte más apropiado a las circunstancias.
+
+a) Determinación de si el titular de la cuenta es una ENF pasiva. Con el fin de determinar si el titular de la cuenta es una ENF pasiva, la institución financiera deberá basarse en una declaración del titular de la cuenta para establecer su condición, a menos que tenga información en su poder o que sea pública, sobre la base de la cual pueda determinarse razonablemente que el titular de la cuenta es una ENF activa o una institución financiera distinta de la entidad de inversión descrita en el apartado A.6.b) de la sección VIII que no sea una institución financiera de una jurisdicción participante.
+
+b) Determinación de las personas que ejercen el control del titular de una cuenta. Con el fin de determinar las personas que ejercen el control del titular de una cuenta, la institución financiera podrá basarse en información obtenida y conservada con arreglo a procedimientos aplicados conforme a la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo y su normativa de desarrollo.
+
+c) Determinación de la residencia fiscal de una persona que ejerce el control de una ENF pasiva. Con el fin de determinar la residencia fiscal de una persona que ejerce el control de una ENF pasiva, la institución financiera solo podrá basarse en una declaración del titular de la cuenta o de esa persona que ejerce el control.

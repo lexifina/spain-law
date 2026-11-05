@@ -1,0 +1,3 @@
+## Disposición derogatoria.
+
+En cuanto se opongan a lo dispuesto en esta Orden, quedan derogadas las Ordenes de 2 de noviembre de 1972, por la que se dan instrucciones para la confección de nóminas de retribuciones básicas y complementarias de los funcionarios de la Administración Civil del Estado, y de 2 de noviembre de 1987, por la que se modifican los estados justificativos de las nóminas de personal al servicio de los Órganos y Entidades pertenecientes a la Administración del Estado, con la excepción de los apartados tercero y cuarto, así como las demás disposiciones de igual o inferior rango.

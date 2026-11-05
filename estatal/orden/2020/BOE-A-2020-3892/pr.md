@@ -1,0 +1,9 @@
+El Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, publicado en el «Boletín Oficial del Estado» con fecha 14 de marzo de 2020, contempla una serie de medidas dirigidas a proteger la salud y seguridad de los ciudadanos, contener la progresión de la enfermedad y reforzar el sistema de salud pública.
+
+El artículo 10 del citado Real Decreto recoge las medidas de contención en el ámbito de la actividad comercial, equipamientos culturales, establecimientos y actividades recreativos, actividades de hostelería y restauración, y otras adicionales, es decir, prevé el cierre de determinados establecimientos que se recogen de forma específica, pero sin ánimo de exhaustividad ni de establecer un numerus clausus de los mismos.
+
+Así, en el apartado 6 del citado artículo, se habilita al Ministro de Sanidad para modificar, ampliar o restringir las medidas, lugares, establecimientos y actividades enumeradas en los apartados anteriores, por razones justificadas de salud pública, pudiendo por tanto ampliar esta suspensión a aquellos otros supuestos que se consideren necesarios.
+
+La concentración de personas en alojamientos turísticos, que deben compartir determinados espacios comunes, implica un incremento del riesgo de contagio, por lo que dada la situación de restricción en la movilidad de personas resulta necesario, para garantizar la contención de la pandemia, proceder a suspender la apertura al público de estos establecimientos en línea con lo establecido en el apartado 4 del artículo 10 del Real Decreto 463/2020.
+
+De acuerdo con lo expuesto, el Ministro de Sanidad, como autoridad competente delegada, al amparo del artículo 4, apartados 2 y 3, y el artículo 10, apartado 6, del Real Decreto 463/2020, de 14 de marzo, dispongo:

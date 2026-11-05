@@ -1,0 +1,5 @@
+## Séptimo. Inspecciones.
+
+La Dirección General de Política Energética y Minas solicitará a la autoridad competente del Estado miembro de la Unión Europea sobre cuyo territorio se encuentren constituidas las existencias mínimas de seguridad, al amparo del correspondiente Acuerdo intergubernamental, cuantas inspecciones considere necesarias, para comprobar el cumplimiento de sus obligaciones por parte del sujeto obligado. Asimismo, la Dirección General de Política Energética y Minas, en el marco de los citados Acuerdos, recibirá la información que, acerca del cumplimiento de las obligaciones de mantenimiento de existencias mínimas de seguridad por parte de los sujetos obligados por la legislación española, pudieran remitirle las autoridades de otro Estado.
+
+La Dirección General de Política Energética y Minas, de acuerdo con lo establecido en el apartado anterior, podrá incoar, en base a la información recibida, el correspondiente expediente sancionador, al amparo de lo establecido en la legislación vigente sobre existencias mínimas de seguridad.

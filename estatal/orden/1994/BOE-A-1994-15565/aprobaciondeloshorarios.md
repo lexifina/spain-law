@@ -1,0 +1,3 @@
+## Aprobación de los horarios
+
+99. La aprobación provisional de los horarios de los Profesores corresponde al Director del instituto y la definitiva al Director provincial, previo informe del Servicio de Inspección, que en todo caso verificará la aplicación de los criterios establecidos en las presentes Instrucciones. A tales efectos, el Director del instituto remitirá los horarios a la Dirección Provincial antes del comienzo de las actividades lectivas. La Dirección Provincial resolverá en un plazo de veinte días a partir de la recepción de los citados horarios y, en su caso, adoptará las medidas oportunas.

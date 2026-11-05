@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Informe amplio e integral sobre disposiciones normativas vigentes y prácticas en la Administración del Estado que contraríen el deber de igualdad de trato y no discriminación.
+
+1. En el plazo de un año desde que la Autoridad Independiente para la Igualdad de Trato y la No Discriminación comience a desplegar efectivamente sus funciones y tareas, dicha Autoridad presentará un informe amplio e integral sobre aspectos contrarios a la igualdad de trato o discriminatorios que puedan pervivir en las disposiciones normativas de rango legal o reglamentario vigentes en los ámbitos competenciales del Estado, así como de las prácticas administrativas que persistan que se acrediten como incompatibles con el objeto de esta ley.
+
+2. Dicho informe se elevará a las Cortes Generales y al Gobierno de España, para constancia y como material de utilidad para, de partida, promover las modificaciones normativas o corregir las prácticas administrativas inadecuadas a los efectos de la igualdad de trato y la no discriminación.

@@ -1,0 +1,3 @@
+## CAPÍTULO VI
+
+## Enseñanzas artísticas

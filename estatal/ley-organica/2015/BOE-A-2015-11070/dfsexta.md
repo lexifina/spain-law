@@ -1,0 +1,3 @@
+## Disposición final sexta. Título competencial.
+
+Esta ley se dicta al amparo de la competencia que el artículo 149.1.6.ª de la Constitución atribuye al Estado en materia de legislación penal. Las disposiciones finales primera y segunda se dictan al amparo de la competencia en materia de legislación procesal, atribuida al Estado por el artículo 149.1.6.ª de la Constitución. Las disposiciones finales tercera, cuarta y quinta se dictan, respectivamente, al amparo de la competencia que el artículo 149.1.4.ª y 149.1.29.ª de la Constitución, atribuye al Estado en materia de defensa y Fuerzas Armadas y en materia de seguridad pública.

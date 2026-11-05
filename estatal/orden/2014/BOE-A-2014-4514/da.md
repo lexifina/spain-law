@@ -1,0 +1,5 @@
+## Disposición adicional única. Medidas para minimizar la repercusión de la pesca en el medio marino y medidas técnicas.
+
+Las medidas de conservación y explotación sostenible de los recursos biológicos marinos que podrán llevarse a cabo para alcanzar los objetivos de la Política Pesquera Común se regirán por lo dispuesto en el Reglamento (UE) n.º 1380/2013, del Parlamento Europeo y del Consejo, de 11 de diciembre de 2013, sobre la Política Pesquera Común, por el que se modifican los Reglamentos (CE) n.º 1954/2003 y (CE) n.º 1224/2009 del Consejo, y se derogan los Reglamentos (CE) n.º 2371/2002 y (CE) n.º 639/2004 del Consejo y la Decisión 2004/585/CE del Consejo. En concreto, el artículo 7.1.b) permite el establecimiento de objetivos para la conservación y la explotación sostenible de las poblaciones y las medidas conexas para minimizar la repercusión de la pesca en el medio marino, mientras que el artículo 7.1.j) permite adoptar diversas medidas técnicas, entre las que se encuentras las vedas zonales o temporales.
+
+> Se añade por el art. 2 de la Orden AAA/2210/2015, de 16 de octubre. Ref. BOE-A-2015-11399

@@ -1,0 +1,3 @@
+## Disposición final séptima. Derecho supletorio.
+
+En lo no previsto en el Capítulo I del Título III este real Decreto-ley se aplicará supletoriamente lo dispuesto en el Real Decreto-ley 4/2012, de 24 de febrero, por el que se determinan obligaciones de información y procedimientos necesarios para establecer un mecanismo de financiación para el pago a los proveedores de las entidades locales, y el Real Decreto-ley 7/2012, de 9 de marzo, por el que se crea el Fondo para la financiación de los pagos a proveedores, así como el Acuerdo del Consejo de Política Fiscal y Financiera de 6 de marzo de 2012 por el que se fijan las líneas generales de un mecanismo extraordinario de financiación para el pago a los proveedores de las Comunidades Autónomas.

@@ -1,0 +1,7 @@
+El Reglamento n.º (CE) 854/2004 prevé en su anexo II, capítulo II, A, apartados 1 y 2, que la autoridad competente debe determinar la ubicación y los límites de las zonas de producción y de reinstalación de moluscos bivalvos vivos y su clasificación en tres categorías de acuerdo con el grado de contaminación fecal. También se atenderá lo dispuesto en los apartados 3, 4 y 5 y su referencia a las normas sanitarias contempladas en el capítulo V de la sección VII del anexo III del Reglamento (CEE) n.º 853/2004.
+
+Dentro de este marco normativo, las comunidades autónomas, en el ejercicio de sus competencias, hacen públicas las relaciones de sus zonas de producción de moluscos bivalvos. Las relaciones de zonas de producción de moluscos y otros invertebrados vivos en el litoral español aprobadas por las comunidades autónomas se recogieron por primera vez en la Orden de 20 de diciembre de 1993, modificada sucesivamente en diversas ocasiones, siendo su última actualización la realizada por medio de la Orden APM/392/2017, de 21 de abril, por la que se publican las nuevas relaciones de zonas de producción de moluscos y otros invertebrados marinos en el litoral español.
+
+Desde la publicación de la última orden, determinadas comunidades autónomas han introducido diversas modificaciones, consistentes en la variación de algunos aspectos de las zonas de producción declaradas con anterioridad.
+
+En consecuencia, y en virtud a la competencia de coordinación conferida al Estado en el artículo 149.1.13.ª de la Constitución, dispongo:

@@ -1,0 +1,9 @@
+## Disposición transitoria primera. Profesionales colegiados a la entrada en vigor de la exigencia del nuevo título profesional.
+
+1. Las disposiciones establecidas en la presente Ley serán de aplicación a quienes en el momento de su entrada en vigor estuvieran ya incorporados a un colegio de abogados o en condiciones de incorporarse por cumplir todas las condiciones necesarias para ello, pudiendo ejercer como procuradores en los términos establecidos en el artículo 1 de la Ley 34/2006, de 30 de octubre.
+
+2. Las disposiciones establecidas en la presente Ley serán también de aplicación a quienes en el momento de su entrada en vigor hubiesen obtenido el título de procurador de conformidad con lo dispuesto en la Ley 34/2006, de 30 de octubre, sobre el acceso a las profesiones de Abogado y Procurador de los Tribunales, estén en posesión de una licenciatura o grado en Derecho y estuvieran incorporados a un colegio de procuradores o en condiciones de incorporarse por cumplir todas las condiciones necesarias para ello, pudiendo ejercer la abogacía en los términos establecidos en el artículo 1 de la Ley 34/2006, de 30 de octubre, sobre el acceso a las profesiones de Abogado y Procurador de los Tribunales, siempre que cumplan los siguientes requisitos:
+
+a) Se encuentren en posesión del título oficial de la licenciatura en Derecho o del grado en Derecho que reúna los requisitos establecidos en el artículo 3 del Reglamento de la Ley 34/2006, de 30 de octubre, aprobado por el Real Decreto 775/2011, de 3 de junio.
+
+b) Superen el curso de capacitación profesional y la correspondiente prueba de evaluación en los términos que se determinen reglamentariamente. El curso y la prueba de evaluación deberán superarse dentro de los dos años académicos siguientes a la fecha de aprobación del real decreto que lo regule.

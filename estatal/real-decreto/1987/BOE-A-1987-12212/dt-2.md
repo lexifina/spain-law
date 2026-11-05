@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+La Confederación Hidrográfica del Sur continuará adscrita a efectos administrativos al Ministerio de Obras Públicas y Urbanismo, con un Plan Hidrológico único, pudiendo la Comunidad Autónoma de Andalucía incorporarse a la Junta de Gobierno de dicha Confederación, que comprenderá el territorio de las cuencas hidrográficas que vierten al mar Mediterráneo entre el límite de los territorios municipales de Tarifa y Algeciras y la desembocadura del río Almanzora, incluida la cuenca de este último río, quedando excluida la de la Rambla de Canales. Comprende además la cuenca endorreica de Zafarraya.

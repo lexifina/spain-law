@@ -1,0 +1,3 @@
+## Art. 4.º Notificación de la agrupación
+
+Los accionistas que deseen ejercitar el derecho de agrupación de la totalidad o parte de sus acciones lo notificarán al Consejo de Administración o a los promotores de la Sociedad, según los casos, con cinco días de antelación, cuando menos, aI de la fecha prevista para la celebración de la Junta general en primera convocatoria. En la notificación expresarán el número de acciones que cada uno agrupa, su valor nominal, su clase y serie, si existieran varias, así como la numeración de las mismas o, en su caso, los datos de identificación de los valores representados mediante anotaciones en cuenta. Podrá consignarse, además, el nombre del representante común de las acciones agrupadas.

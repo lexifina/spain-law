@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas aquellas disposiciones de igual o inferior rango en cuanto contradigan o se opongan a lo dispuesto en el reglamento que se aprueba por este real decreto, y específicamente el Real Decreto 614/1995, de 21 de abril, por el que se aprueba el Reglamento de los procesos selectivos y de formación del Cuerpo Nacional de Policía, y el capítulo segundo del Reglamento de ingreso, formación, promoción y perfeccionamiento de funcionarios del Cuerpo Nacional de Policía, aprobado por el Real Decreto 1593/1988, de 16 de diciembre.

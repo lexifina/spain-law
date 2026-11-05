@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Liquidación de los peajes de transporte, redes locales y regasificación en el marco de la disposición transitoria cuarta de la Ley 3/2013, de 4 de junio.
+
+En el marco de la disposición adicional octava, apartado segundo, letra c) y la disposición transitoria cuarta de la Ley 3/2013, de 4 de junio, el sistema de liquidación desarrollado en la Orden ECO 2692/2002, de 28 de octubre, tiene, de acuerdo con el Reglamento (UE) 2017/460, de 16 de marzo, la consideración de mecanismo de compensación entre los gestores de la red de transporte y de procedimiento conciliación de ingresos.

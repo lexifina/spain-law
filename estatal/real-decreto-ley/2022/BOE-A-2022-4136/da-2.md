@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Subordinación de las medidas que puedan adoptarse a los Planes Hidrológicos de la Demarcación Hidrográfica del Guadalquivir y de la Demarcación Hidrográfica del Guadiana.
+
+Lo dispuesto en en este real decreto-ley se entenderá sin menoscabo de las medidas previstas en el Real Decreto 1/2016, de 8 de enero, por el que se aprueba la revisión de los Planes Hidrológicos de las demarcaciones hidrográficas del Cantábrico Occidental, Guadalquivir, Ceuta, Melilla, Segura y Júcar, y de la parte española de las demarcaciones hidrográficas del Cantábrico Oriental, Miño-Sil, Duero, Tajo, Guadiana y Ebro, que deben ser aplicadas en su totalidad, salvo que se motive adecuadamente su insuficiencia o la imposibilidad de acometerlas con carácter urgente.

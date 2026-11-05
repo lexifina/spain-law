@@ -1,0 +1,3 @@
+## Disposición final cuarta. Habilitación para la ejecución y desarrollo reglamentario, así como para su adaptación al progreso científico y técnico.
+
+Se autoriza a las personas titulares de los Ministerios para la Transición Ecológica y el Reto Demográfico y de Agricultura, Pesca y Alimentación para dictar, en el ámbito de sus respectivas competencias, las disposiciones necesarias para la aplicación y desarrollo de este real decreto y, en particular, para adaptar los anexos de la presente disposición a las modificaciones que, en su caso, sean introducidas por la Comisión Europea en los anexos de la Directiva 91/676/CEE del Consejo, de 12 de diciembre de 1991, para adaptarlos al progreso científico y técnico.

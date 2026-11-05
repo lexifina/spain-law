@@ -1,0 +1,3 @@
+La vigencia de la presente Orden expiró a las 24:00 horas del 15 de mayo de 2020, según establece su disposición final única.
+
+Téngase en cuenta la Orden INT/409/2020, de 14 de mayo, por la que se prorrogan los criterios para la aplicación de una restricción temporal de viajes no imprescindibles desde terceros paises a la Unión Europea y paises asociados Schengen por razones de orden público y salud pública con motivo de la crisis sanitaria ocasionada por el COVID-19, que tendrá vigencia desde las 00:00 horas del 16 de mayo de 2020 hasta las 24:00 horas del 15 de junio de 2020, sin perjuicio, en su caso, de las eventuales prórrogas que pudiesen acordarse. Ref. BOE-A-2020-5053

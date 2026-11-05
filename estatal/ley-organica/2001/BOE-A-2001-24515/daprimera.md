@@ -1,0 +1,3 @@
+## Disposición adicional primera. De las Universidades creadas o reconocidas por Ley de las Cortes Generales.
+
+Las Cortes Generales y el Gobierno ejercerán las competencias que la presente Ley atribuye, respectivamente, a la Asamblea Legislativa y al Consejo de Gobierno de las Comunidades Autónomas, en cuanto se refiere a las Universidades creadas o reconocidas por Ley de las Cortes Generales, de acuerdo con lo establecido en el artículo 4, y en atención a sus especiales características y ámbito de sus actividades, a la Universidad Nacional de Educación a Distancia y la Universidad Internacional Menéndez Pelayo.

@@ -1,0 +1,5 @@
+Los datos de que dispone en la actualidad demuestran que el virus de la inmunodeficiencia humana (VIH) puede transmitirse a través del semen. Estas circunstancias han motivado que la Organización Mundial de la Salud, el Consejo de Europa, la Comunidad Económica Europea y otros Organismos internacionales recomienden que se realicen pruebas correspondientes para la detección de anticuerpos anti-VIH, tanto en el hombre de quien se obtiene el semen como de la mujer receptora.
+
+La Ley Orgánica 3/1986, de 14 de abril, de Medidas Especiales en Materia de Salud Pública, en sus articulos 2.º y 3.º, habilita a las autoridades sanitarias para adoptar las medidas de reconocimiento, tratamiento y control de enfermedades transmisibles. Asimismo, la Ley 14/1986, de 25 de abril, General de Sanidad, en sus articulos 18, 5; 70, 73 y 113 prevé el establecimiento de programas especiales y mecanismos de coordinación entre las distintas Administraciones Públicas,
+
+En su virtud, oído el Consejo de Estado, dispongo:

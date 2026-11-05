@@ -1,0 +1,3 @@
+## Disposición adicional sexagésima novena. Declaración de utilidad pública e interés social en relación con la Biblioteca Pública de Las Palmas.
+
+Se declara la utilidad pública e interés social de la expropiación de los derechos de ejecución de las resoluciones jurisdiccionales relacionadas con la demolición de la Biblioteca Pública del Estado en Las Palmas de Gran Canaria, atendiendo a la titularidad pública del solar y de la construcción, a su calificación legal como bien de interés cultural y a su afectación a la preservación de la igualdad de todos los ciudadanos en las condiciones de acceso a la cultura y al derecho a la educación, a los efectos previstos en la Ley de 16 de diciembre de 1954, de expropiación forzosa.

@@ -1,0 +1,13 @@
+## ANEXO
+
+## Acuerdo de 3 de diciembre de 2020, de la Comisión Permanente del Real Patronato del Museo Nacional del Prado, en el que se fijan los precios públicos de entrada al Museo
+
+El Museo Nacional del Prado, finalizada la celebración de su Bicentenario y con la experiencia proporcionada por el desarrollo del programa de actividades que ha desplegado para la ocasión, se plantea la modificación de algunos aspectos de la vigente Resolución de 23 de mayo de 2016 del Museo Nacional del Prado por la que se publica el Acuerdo de la Comisión Permanente del Real Patronato del MNP en el que se establecen los precios públicos de entrada al Museo.
+
+El compromiso de la Institución con la mejora constante de la gestión y del servicio, y con el aumento de la calidad de su oferta cultural, unido a su voluntad de asegurarse la sostenibilidad económica y social, hace que se considere necesaria la introducción de una serie de modificaciones orientadas a la consecución de estos fines. Por ello se ha incorporado al ámbito de la Resolución la regulación de los precios de determinadas actividades y servicios que complementan la visita y que son contribuciones importantes a la hora de mejorar la experiencia del visitante. En concreto se trata de las regulaciones de los precios de las Audioguías y de otros dispositivos para realizar la visita, de los guiados de grupo, de la realización de visitas guiadas y de la reserva anticipada para la visita.
+
+La modificación de la Resolución para introducir estos conceptos se debe a que eran servicios que: o bien no tenían una regulación expresa, o bien no estaban disponibles con anterioridad y suponen una mejora demandada por el público, o son medidas que favorecen en la gestión de los flujos de público y la organización de la ocupación del Museo. De este modo quedan reguladas todas las actuaciones relacionadas con la visita y con la oferta de posibilidades destinada a la mejora y disfrute de la misma.
+
+Dichos ajustes no alteran el régimen general de precios de entrada y el disfrute de reducciones o gratuidades, ni el de medidas de fomento, que se mantienen en su totalidad.
+
+En consecuencia, y previa autorización del Ministro de Cultura y Deporte mediante Orden de fecha 25 de noviembre de 2020, la presente Resolución del Museo Nacional del Prado por la que se publica el Acuerdo de la Comisión Permanente del Real Patronato del Museo Nacional del Prado, dictado a propuesta del Director según establece el artículo 5.5 f) del Real Decreto 433/2004 por el que se aprueba el Estatuto del Museo Nacional del Prado, al amparo del artículo 18 de la Ley 46/2003, de 25 de noviembre, reguladora del Museo Nacional del Prado, por el que se fijan los precios públicos siguientes.

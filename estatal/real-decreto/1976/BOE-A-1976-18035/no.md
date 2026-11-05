@@ -1,0 +1,1 @@
+Téngase en cuenta que, si bien el presente Real Decreto no ha sido formalmente derogado, cabe ceñirse en su interpretación al mantenimiento de la obligación por los establecimientos turísticos de mantener a disposición de sus clientes hojas de reclamaciones, si bien para su concreto formato o modelo habrá que estar a lo dispuesto por la correspondiente Comunidad Autónoma.

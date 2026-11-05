@@ -1,0 +1,5 @@
+## Artículo quinto. Definición de las instalaciones del subgrupo b.1.2. en el Real Decreto 436/2004, de 12 de marzo.
+
+El párrafo b).1.º, subgrupo b.1.2., del apartado 1 del artículo 2 del Real Decreto 436/2004, de 12 de marzo, por el que se establece la metodología para la actualización y sistematización del régimen jurídico y económico de la actividad de producción de energía eléctrica en régimen especial, queda redactado en los siguientes términos:
+
+«Instalaciones que utilicen como energía primaria para la generación eléctrica la radiación solar. En estas instalaciones se podrán utilizar equipos que utilicen un combustible para el mantenimiento de la temperatura del fluido trasmisor de calor para compensar la falta de irradiación solar que pueda afectar a la entrega prevista de energía. La generación eléctrica a partir de dicho combustible deberá ser inferior, en cómputo anual, al 12 por ciento de la producción total de electricidad si la instalación vende su energía de acuerdo a la opción a) del artículo 22.1. Dicho porcentaje podrá llegar a ser el 15 por ciento si la instalación vende su energía de acuerdo a la opción b) del artículo 22.1.»

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Implementación de la aplicación informática para el agregador independiente.
+
+En tanto no se desarrolle la aplicación informática a la que hace referencia el artículo 22 del Reglamento general de suministro, comercialización y agregación de energía eléctrica, los agregadores independientes remitirán la declaración responsable y, en su caso, comunicarán cualquier hecho que suponga la modificación de alguno de los datos incluidos en la declaración responsable originaria, así como el cese de su actividad a la Dirección General de Política Energética y Minas por vía electrónica, con certificado electrónico, en la sede electrónica del Ministerio para la Transición Ecológica y el Reto Demográfico.

@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Medidas de apoyo a la prolongación del periodo de actividad de los trabajadores con contratos fijos discontinuos en los sectores de turismo y comercio y hostelería vinculados a la actividad turística.
+
+1. Las empresas, excluidas las pertenecientes al sector público, dedicadas a actividades encuadradas en los sectores de turismo, así como los de comercio y hostelería, siempre que se encuentren vinculados a dicho sector del turismo, que generen actividad productiva en los meses de abril a octubre de 2021, y que inicien o mantengan en alta durante dichos meses la ocupación de los trabajadores con contratos de carácter fijo discontinuo, podrán aplicar una bonificación en dichos meses del 50 por ciento de las cuotas empresariales a la Seguridad Social por contingencias comunes, así como por los conceptos de recaudación conjunta de Desempleo, FOGASA y Formación Profesional de dichas personas trabajadoras.
+
+Lo anterior se entiende sin perjuicio de las medidas que con la misma finalidad y por otros periodos se puedan establecer en la Ley de Presupuestos Generales del Estado para 2021.
+
+2. Estas bonificaciones serán compatibles con las exenciones de cuotas empresariales a la Seguridad Social que pudieran corresponder. El importe resultante de aplicar las exenciones y estas bonificaciones no podrán, en ningún caso, superar el 100 por 100 de la cuota empresarial que hubiera correspondido ingresar.

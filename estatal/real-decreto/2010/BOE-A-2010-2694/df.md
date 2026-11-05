@@ -1,0 +1,3 @@
+## Disposición final primera. Referencia del título de Técnico Deportivo en Espeleología al Catálogo Nacional de Cualificaciones Profesionales.
+
+En el momento de la publicación en el Boletín Oficial del Estado, de las correspondientes cualificaciones profesionales de la modalidad de espeleología incluidas en el Título objeto del presente real decreto, será de aplicación, en relación con las cualificaciones y, en su caso unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales, lo dispuesto en los artículos 5, 8, 12 y los apartados 2 y 3 del artículo 28, siempre y cuando las unidades de competencia mantengan su nivel.

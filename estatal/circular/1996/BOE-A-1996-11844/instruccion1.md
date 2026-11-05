@@ -1,0 +1,7 @@
+## Instrucción 1.ª Competencias.
+
+El Real Decreto 2188/1995 recoge, en el artículo 8.1.a) las competencias del Interventor general para fiscalizar la aprobación de determinados gastos, entre los que se encuentran los que supongan una modificación de otros que hubiera fiscalizado la Intervención General. Respecto de estos actos, el Interventor general ha delegado determinadas competencias en los Interventores delegados por Resolución de 10 de abril de 1996.
+
+Por lo que se refiere a los supuestos en los que la competencia del órgano gestor tenga un ámbito territorial pluriprovincial, se extienda o no a toda una Comunidad Autónoma, la intervención de los actos dictados por aquél corresponderá, de acuerdo con lo dispuesto en el artículo 7.4.a) del Real Decreto 405/1996, de 1 de marzo, de reorganización de la IGAE, al Interventor regional. En el caso de que la sede del órgano gestor se encuentre en una localidad distinta a aquella en la que radique el Interventor regional, se podrá proceder, en aras a la agilidad en el normal desenvolvimiento de los servicios, a delegar la competencia en el Interventor delegado territorial de la provincia donde tenga la sede el órgano gestor.
+
+Respecto de los expedientes de contratación que tengan por objeto la realización de auditorías y la elaboración e implantación de planes de contabilidad, deberán remitirse a este Centro, de acuerdo con lo dispuesto en la Carta-Circular de 1 de abril de 1991, por si el Interventor general decidiese avocar la competencia.

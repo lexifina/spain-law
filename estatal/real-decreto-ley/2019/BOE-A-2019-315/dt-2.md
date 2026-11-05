@@ -1,0 +1,9 @@
+## Disposición transitoria segunda. Régimen transitorio en la asunción de funciones por la Comisión Nacional de los Mercados y la Competencia.
+
+1. Las funciones de aprobación de los valores de los peajes de acceso y cánones previstas en los artículos 7.1 bis de la Ley 3/2013, de 4 de junio, atribuidas hasta la entrada en vigor de este Real Decreto-ley al Ministerio para la Transición Ecológica, pasarán a ser ejercidas por la Comisión Nacional de los Mercados y la Competencia una vez ésta apruebe, de acuerdo con la disposición final tercera, la metodología para el cálculo de los peajes y cánones de acceso a las plantas de gas natural licuado y a las redes de transporte y distribución de gas y electricidad que, en todo caso, no será de aplicación antes del 1 de enero de 2020.
+
+Las metodologías, parámetros y la base de activos de la retribución de las instalaciones de transporte y distribución de energía eléctrica y gas natural y de las plantas de gas natural licuado aprobados por la Comisión Nacional de los Mercados y la Competencia resultarán de aplicación una vez finalizado el primer periodo regulatorio.
+
+La fijación de las cuantías de la retribución de las instalaciones de transporte y distribución de energía eléctrica, regasificación, transporte y distribución de gas recogidas en el artículo 7.1 bis de la Ley 3/2013, de 4 de junio, pasarán a ser ejercidas por la Comisión Nacional de los Mercados y la Competencia y serán aplicables a partir del 1 de enero de 2020.
+
+2. Durante el periodo regulatorio en curso a la entrada en vigor de este este Real Decreto-ley, las tasas de retribución financiera de los activos de regasificación, transporte y distribución con derecho a retribución a cargo de los sistemas gasista y eléctrico serán las establecidas en las correspondientes leyes sectoriales.

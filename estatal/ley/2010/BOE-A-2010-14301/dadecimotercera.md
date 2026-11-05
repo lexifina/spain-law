@@ -1,0 +1,3 @@
+## Disposición adicional decimotercera. Evaluación de la siniestralidad de los trabajadores cedidos por empresas de trabajo temporal.
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo deberá incorporar en sus informes periódicos sobre evolución de la siniestralidad datos específicos que permitan conocer la evolución de la siniestralidad laboral en los trabajos u ocupaciones de especial peligrosidad para la seguridad y la salud en el trabajo realizados por trabajadores cedidos por empresas de trabajo temporal conforme a lo establecido en el artículo 8 b) y en la disposición adicional segunda de la Ley 14/1994, de 1 de junio, por la que se regulan las Empresas de Trabajo Temporal.

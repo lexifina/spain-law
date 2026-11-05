@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Cesión temporal para finalidades específicas de vehículos al final de su vida útil dados de baja definitiva en la Dirección General de Tráfico.
+
+Los CAT podrán ceder temporalmente los vehículos al final de su vida útil dados de baja definitiva en la Dirección General de Tráfico, para fines de formación, investigación, protección civil o simulacros. La cesión requerirá la aplicación del procedimiento que establezca al efecto la Dirección General de Tráfico, en el que se hará constar, al menos: el vehículo o vehículos afectados, la finalidad y el tiempo máximo previsto para la cesión; se informará del momento efectivo de la devolución del vehículo o vehículos afectados.
+
+El cesionario asume la responsabilidad de: el uso adecuado y seguro para las personas, las cosas y el medio ambiente de los vehículos cedidos, la aplicación de la Ley 22/2011, de 28 de julio, a los residuos generados por el uso del vehículo durante la cesión temporal, así como de la devolución del vehículo o restos del vehículo al CAT de origen.

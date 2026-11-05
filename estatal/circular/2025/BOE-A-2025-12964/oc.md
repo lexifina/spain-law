@@ -1,0 +1,7 @@
+## Octavo. Separación de cuentas entre actividades.
+
+Con el objetivo de visualizar la separación de cuentas efectuada por las empresas para cada actividad de las definidas en esta circular, el Sistema IRC contempla dos modos de funcionamiento en función de cómo se localizan los costes en los CECOS:
+
+a) «Modo de Cálculo de Referencia o Modo General (MG)»: En el que se considera el conjunto de los costes e ingresos localizados en los CECOS Principales y Auxiliares y se realizan los repartos hacia los OFC, empleando los Criterios de Reparto Primario y Secundario, comunes para todas las empresas, establecidos en el anterior apartado séptimo.
+
+b) «Modo de Cálculo por Actividad o Modo Separación de Actividades (SA)»: En el que los sujetos obligados han de localizar sus costes e ingresos en los CECOS Auxiliares y CECOS Principales por cada actividad, así como los criterios y cantidades de reparto primario de los costes de los CECOS Auxiliares hacia los CECOS Principales. Los sujetos obligados informarán y justificarán los Criterios de Reparto Primario aplicados, y no podrán modificarlos salvo nueva justificación, que deberán en todo caso declarar. Finalmente, y una vez agregados los costes en los CECOS Principales de cada actividad, estos se imputarán a los OFC que correspondan, aplicando los Criterios de Reparto Secundario, comunes a todas las empresas, establecidos en el artículo séptimo de esta circular.

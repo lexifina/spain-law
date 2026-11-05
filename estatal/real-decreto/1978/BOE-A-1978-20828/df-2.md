@@ -1,0 +1,3 @@
+## Disposición final segunda.
+
+A partir de la fecha de vigencia del presente Real Decreto, la instalación para el intercambio de información comercial, las normas para la adjudicación de los puestos con la consiguiente obligación del ejercicio directo de la actividad por parte de los titulares de los mismos y el señalamiento de un tonelaje mínimo a comercializar a que se hace referencia en los artículos once, catorce y quince de este Real Decreto, podrán declararse por el Gobierno como de obligado cumplimiento para los mercados mayoristas ya existentes con anterioridad al uno de junio de mil novecientos setenta.

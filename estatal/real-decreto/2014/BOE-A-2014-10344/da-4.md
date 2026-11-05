@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Autorización de titulaciones extranjeras.
+
+La Dirección General de la Marina Mercante, a través de las capitanías marítimas, autorizará a los ciudadanos del espacio económico europeo, así como a aquellos de los países reconocidos en el anexo IX de este real decreto, para el gobierno de embarcaciones de recreo de pabellón español, siempre que dispongan de un título de recreo expedido por el país de su nacionalidad o el de su residencia, debiendo éste pertenecer también a dicho espacio o ser de los reconocidos en el anexo IX de este real decreto; con sujeción a los requisitos a los que se hace referencia en la disposición adicional tercera de este real decreto.

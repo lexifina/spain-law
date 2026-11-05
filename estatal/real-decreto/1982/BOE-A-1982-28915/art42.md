@@ -1,0 +1,7 @@
+## Art. 42.
+
+1. A toda instancia solicitando la apertura y funcionamiento de un local o recinto destinado a espectáculos o recreos públicos, habrán de acompañarse, a efectos de acreditar las medidas de seguridad e higiene exigibles, certificaciones, expedidas por los técnicos en cada caso más idóneos y que se encuentren en posesión de los títulos facultativos correspondientes, que acrediten la debida ejecución de los proyectos respectivos, así como que sus diversos elementos o instalaciones, potencialmente peligrosos para personas o bienes, han sido provistos de los dispositivos de seguridad e higiene exigidos por este Reglamento y demás normas concordantes o complementarias del mismo.
+
+2. Sin perjuicio de lo dispuesto en el apartado anterior, los Alcaldes podrán disponer el reconocimiento previo de los locales, y de sus instalaciones por el personal técnico de ellos dependiente o exigir la aportación suplementaria de las certificaciones facultativas o técnicas que estimen indispensables para decidir con mayor fundamento sobre las condiciones de higiene y seguridad de cada local de espectáculos, de acuerdo con sus características estructurales y funcionales y el número y peligrosidad de las instalaciones que lleve incorporadas.
+
+3. Cuando se trate de la exhibición pública de material audiovisual en Bares, Cafeterías Pubs, Discotecas o Salas de Fiesta, se requerirá informe previo de los servicios provinciales del Ministerio de Cultura o, en su caso, de los Entes en los que puedan haber sido delegadas o transferidas competencias en la materia.

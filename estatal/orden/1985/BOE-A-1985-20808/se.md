@@ -1,0 +1,3 @@
+## Segundo.
+
+Las modificaciones que hayan de realizarse en instalaciones o labores existentes, como consecuencia de la entrada en vigor de las Instrucciones Técnicas Complementarias del Reglamento General de Normas Básicas de Seguridad Minera, se llevarán a efecto en los plazos que establezca la autoridad minera competente. Dichos plazos no serán inferiores a seis meses, salvo en los casos en los que la adaptación resulte necesaria por riesgo inminente o su cumplimiento no exija instalaciones fijas u obras de estructura o infraestructura, ni superiores a dos años, a partir de la entrada en vigor de la Instrucción Técnica Complementaria que determine la necesidad de la modificación.

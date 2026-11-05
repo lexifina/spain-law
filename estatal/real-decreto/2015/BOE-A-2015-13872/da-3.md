@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Creación de un grupo de garantía de calidad.
+
+El Consejo Médico Forense podrá crear un grupo de trabajo, conformado por un número reducido de los miembros del Comité Científico Técnico, en el seno del propio Consejo y conforme a lo establecido en el Real Decreto 355/2014, de 16 de mayo, por el que se crea y regula el Consejo Médico Forense, que tendrá la función de estudiar y evaluar la calidad de los informes de valoración de los IMLCF que lo soliciten. El funcionamiento de este grupo de trabajo será atendido con los medios propios del Ministerio de Justicia en los términos regulados por el citado real decreto. Como resultado el grupo emitirá un informe en el que se recogerán tanto las valoraciones positivas como las negativas, así como las propuestas de medidas correctivas, en su caso.
+
+Asimismo, revisará y elaborará las propuestas de actividades formativas y los protocolos de actuación interna de los IMLCF, que serán publicados en el sitio web del Consejo Médico Forense, a disposición de los Institutos que deseen aplicarlos.

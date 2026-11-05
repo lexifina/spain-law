@@ -1,0 +1,3 @@
+## Disposición adicional primera. Cumplimiento de trámites.
+
+A efectos de lo dispuesto en la disposición adicional cuarta de la Ley 17/2001, se entenderán por trámites de un procedimiento en materia de propiedad industrial cualesquiera actuaciones relativas a la solicitud, tramitación, oposición, renovación, reivindicación de prioridad, pago de tasas o incluso formulación de recursos respecto de cualquier modalidad de propiedad industrial. En consecuencia, las actuaciones o trámites con ese objeto cuyo plazo hubiera de expirar en sábado, podrán efectuarse válidamente en el primer día hábil siguiente a ese sábado.

@@ -1,0 +1,3 @@
+## Art. 59. Aplicación de las inmunidades, exenciones y privilegios.
+
+Las inmunidades, exenciones y privilegios establecidos en el presente capítulo le son acordados al Banco en razón de sus intereses. En la medida y en las condiciones que estime oportunas, el Consejo de Administración podrá renunciar a las inmunidades y exenciones contempladas en los artículos 52, 54, 56 y 57 de este Acuerdo, en los casos en que su acción pueda, a su juicio, servir mejor los intereses del Banco. El Presidente tendrá el derecho y el deber de suprimir la inmunidad de cualquier funcionario en los casos en que, a su juicio, esta inmunidad impidiera el curso de la Justicia y pueda ser suprimida sin perjuicio para los intereses del Banco.

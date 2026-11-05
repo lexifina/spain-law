@@ -1,0 +1,7 @@
+La importancia de las modificaciones en materia de situaciones administrativas de los funcionarios llevadas a cabo por la Ley 22/1993, de 29 de diciembre, de Medidas Fiscales, de Reforma del Régimen Jurídico de la Función Pública y de la Protección por Desempleo, determina la necesidad de actualizar las normas reglamentarias dictadas al efecto en desarrollo de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, contenidas en el Reglamento aprobado por Real Decreto 730/1986, de 11 de abril, incorporando, al propio tiempo, las innovaciones que en esta materia introdujo la Ley 3/1989, de 3 de marzo, de ampliación del permiso por maternidad y medidas para favorecer la igualdad de trato de la mujer en el trabajo, así como las que traen causa de otras normas de modificación del régimen jurídico de la Función Pública, que tienen reflejo directo sobre el Reglamento aludido.
+
+En consecuencia, y dada la entidad de las reformas que es necesario introducir, se ha optado por la elaboración de un nuevo texto, en lugar de acudir a un sistema de modificaciones puntuales, que dificultaría la aplicación de las normas.
+
+En atención a lo expuesto, a propuesta del Ministro para las Administraciones Públicas, previo informe de la Comisión Superior de Personal, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de marzo de 1995,
+
+## DISPONGO:

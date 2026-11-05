@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Acreditación del cumplimiento de las restricciones establecidas en la disposición transitoria segunda de la Ley 26/2013, de 27 de diciembre, de cajas de ahorros y fundaciones bancarias.
+
+En el plazo de un mes desde la entrada en vigor de esta circular, las fundaciones bancarias deberán acreditar ante el Banco de España el cumplimiento de las restricciones establecidas en la disposición transitoria segunda de la Ley 26/2013, para la compatibilidad temporal del cargo de patrono de la fundación bancaria y de miembro del órgano de gobierno de la entidad de crédito participada.

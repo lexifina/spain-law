@@ -1,0 +1,5 @@
+## Decimoquinto. Comunicación de la aplicación de remanentes de subvención de la Administración General del Estado.
+
+Cuando las Diputaciones Provinciales opten por aplicar los remanentes de subvención de la Administración General del Estado producidos por las causas establecidas en el artículo 15 del Real Decreto 835/2003, de 27 de junio, en las obras del Plan complementario o en aquéllas incluidas en el Plan de cooperación sin subvención de la Administración General del Estado o con subvención inferior a los porcentajes establecidos en el artículo 6 de dicho Real Decreto, deberán comunicar esta circunstancia a la Dirección General de Cooperación Local con carácter previo o simultáneo a la presentación de las certificaciones de adjudicación de las obras (modelo 3A) o de la resolución o acuerdo de su ejecución directa por la Entidad Local (modelo 4A) y, en todo caso, hasta el 15 de diciembre del año del Plan.
+
+La comunicación de la aplicación de los remanentes se efectuará con el envío de certificación según el modelo normalizado (modelo 1C), con el programa de financiación debidamente cumplimentado.

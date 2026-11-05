@@ -1,0 +1,3 @@
+## Disposición adicional primera. Exención de las indemnizaciones por daños personales.
+
+A los efectos de lo dispuesto en el artículo 7.d) de la Ley del Impuesto del Impuesto sobre la Renta de las Personas Físicas, las indemnizaciones pagadas con arreglo a lo dispuesto en el apartado 2 del artículo 1 del texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre, y concordantes de su Reglamento, tendrán la consideración de indemnizaciones en la cuantía legalmente reconocida, a los efectos de su calificación como rentas exentas, en tanto sean abonadas por una entidad aseguradora como consecuencia de la responsabilidad civil de su asegurado.

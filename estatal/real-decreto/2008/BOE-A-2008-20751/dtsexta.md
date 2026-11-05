@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Registros públicos de demandantes.
+
+Los registros públicos de demandantes a los que se refiere este Real Decreto deberán estar en funcionamiento en el plazo de un año desde la publicación de aquél en el «Boletín Oficial del Estado». Hasta ese momento, la venta y adjudicación de las viviendas en primera y posteriores transmisiones se regulará por lo que disponga la normativa propia de las comunidades autónomas y ciudades de Ceuta y Melilla que, en todo caso, deberá garantizar los principios de igualdad, publicidad y concurrencia e impedir el fraude en las primeras y posteriores transmisiones.

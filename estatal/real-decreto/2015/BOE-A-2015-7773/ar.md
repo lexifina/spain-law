@@ -1,0 +1,15 @@
+## Artículo 1. Organizaciones Colegiales. Definición. Personalidad y naturaleza jurídica de las entidades que la componen.
+
+1. Tienen consideración de organizaciones colegiales reguladas por los presentes Estatutos todos los colegios profesionales de Ingeniería Técnica en Informática, los Consejos autonómicos respectivos que en su caso pudieran constituirse y el Consejo General de los Colegios.
+
+Todos ellos son corporaciones de derecho público constituidos con arreglo a la ley, con estructura y funcionamiento interno democráticos y que agrupan a las personas que se encuentre en posesión de, al menos, uno de los siguientes títulos:
+
+a) Título universitario oficial, de conformidad con el Real Decreto 1460/1990, de 26 de octubre, por el que se establece el título universitario oficial de Ingeniero técnico en Informática de Gestión y las directrices generales propias de los planes de estudios conducentes a la obtención de aquel o con el Real Decreto 1461/1990, de 26 de octubre, por el que se establece el título universitario oficial de Ingeniero técnico en Informática de Sistemas y las directrices generales propias de los planes de estudios conducentes a la obtención de aquel, o bien título de Diplomado en Informática de conformidad con el Real Decreto 1954/1994, de 30 de septiembre, sobre homologación de títulos a los del Catálogo de Títulos Universitarios Oficiales creado por el Real Decreto 1497/1987, de 27 de noviembre.
+
+b) Título universitario Oficial de Grado vinculado con la profesión de ingeniero técnico en informática, y que cumplan con las condiciones establecidas en el anexo II del Acuerdo del Consejo de Universidades por el que se establecen recomendaciones para la propuesta por las universidades de memorias de solicitud de títulos oficiales en los ámbitos de la Ingeniería Informática, Ingeniería Técnica Informática e Ingeniería Química, publicado mediante Resolución de 8 de junio de 2009, de la Secretaría General de Universidades.
+
+c) Título universitario declarado equivalente a los títulos universitarios españoles de Grado vinculados con la profesión de ingeniero técnico en informática, correspondiente al campo específico Tecnologías de la información y la comunicación (TIC) del anexo II del Real Decreto 967/2014, de 21 de noviembre, por el que se establecen los requisitos y el procedimiento para la homologación y declaración de equivalencia a titulación y a nivel académico universitario oficial y para la convalidación de estudios extranjeros de educación superior, y el procedimiento para determinar la correspondencia a los niveles del marco español de cualificaciones para la educación superior de los títulos oficiales de Arquitecto, Ingeniero, Licenciado, Arquitecto Técnico, Ingeniero Técnico y Diplomado.
+
+2. Los Colegios, los Consejos autonómicos y el Consejo General tienen personalidad jurídica propia y capacidad de obrar plena para el cumplimiento de sus fines.
+
+3. En su organización y funcionamiento se encuentran sujetos al principio de transparencia en su gestión, gozando de plena autonomía, en el marco de los presentes Estatutos y de sus propios estatutos particulares.

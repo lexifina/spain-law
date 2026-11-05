@@ -1,0 +1,3 @@
+## Disposición adicional décima. Dividendos en las entidades de crédito controladas por una fundación bancaria.
+
+Los acuerdos de reparto de dividendos en las entidades de crédito controladas por una fundación bancaria de conformidad con lo previsto en el artículo 44.3 de esta Ley estarán sujetos al quórum de constitución reforzado establecido en el artículo 194 del Texto Refundido de la Ley de Sociedades de Capital, aprobado por el Real Decreto Legislativo 1/2010, de 2 de julio, y deberán adoptarse por mayoría de, al menos, dos tercios del capital presente o representado en la junta. Los estatutos de la entidad participada podrán elevar esta mayoría.

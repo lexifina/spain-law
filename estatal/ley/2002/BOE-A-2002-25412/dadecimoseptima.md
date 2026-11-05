@@ -1,0 +1,5 @@
+## Disposición adicional decimoséptima. Modificación de la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social.
+
+Se adiciona un nuevo apartado once al artículo 81 de la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, según la redacción dada al mismo por el artículo 51 de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, con el siguiente contenido:
+
+«Once. Sin perjuicio de lo establecido en los apartados anteriores, la Fabrica Nacional de Moneda y Timbre-Real Casa de la Moneda podrá, en régimen de libre competencia, prestar servicios de certificación en el uso de la firma electrónica en las relaciones que mantengan los particulares, así como realizar la prestación de servicios técnicos para garantizar la seguridad, validez y eficacia de los servicios de la sociedad de la información y de la contratación por vía electrónica con arreglo a lo dispuesto en la legislación reguladora del uso de firma electrónica, y de servicios de la sociedad de la información y comercio electrónico y demás normas complementarias.»

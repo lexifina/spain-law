@@ -1,0 +1,3 @@
+## Tercero. Exenciones en el ámbito del Reglamento (UE) n.º 1321/2014 y establecidas en la Resolución de fecha 2 de abril de 2020, de la Directora de la Agencia de Seguridad Aérea. Formación de tipo y OJT necesarios para la inclusión de una habilitación de tipo en una licencia de mantenimiento de aeronaves.
+
+Para los titulares de una licencia de mantenimiento de aeronaves que hubiesen iniciado un curso de formación de tipo y/o un OJT, cuyo periodo de validez máximo de tres años para su finalización y presentación de la solicitud ante AESA expirase entre el 14 de marzo de 2020 y el 14 de noviembre de 2020, se extiende dicho periodo de validez por seis meses en lugar de los cuatro meses inicialmente previstos en la exención del 2 de abril.

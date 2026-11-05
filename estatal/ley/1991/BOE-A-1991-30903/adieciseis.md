@@ -1,0 +1,3 @@
+## Artículo dieciséis. Normas de gestión de los créditos cofinanciados por la Comunidad Económica Europea.
+
+La modificación, sustitución o supresión de proyectos o actuaciones del Fondo Europeo de Desarrollo Regional cofinanciados por la Comunidad Económica Europea, aprobados por la Comisión deberán ser previamente autorizados por el Ministerio de Economía y Hacienda. Dicha autorización se entenderá otorgada si en el plazo de quince días desde su presentación en la Dirección General de Planificación no se ha producido la resolución sobre el fondo de la propuesta, sin perjuicio de las competencias, en su caso, del correspondiente comité de seguimiento.

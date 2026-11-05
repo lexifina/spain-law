@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+De conformidad con lo establecido en la disposición transitoria del Real Decreto 972/1981, de 8 de mayo, la Presidencia del Consejo Superior de Deportes aprobará provisionalmente las adaptaciones que las Federaciones y Clubs constituidos con anterioridad a la Ley 13/1980, de 31 de marzo, General de la Cultura Física y del Deporte, efectuaren en sus Estatutos y Reglamentos como consecuencia de dicha Ley y demás disposiciones que la desarrollan, dando cuenta a la Comisión Directiva del Consejo Superior de Deportes en su primera reunión para su ratificación, si procede.

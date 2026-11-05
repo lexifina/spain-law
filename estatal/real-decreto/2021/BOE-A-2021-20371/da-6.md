@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Notificación de la designación de autoridades CITES.
+
+De conformidad con lo dispuesto en el artículo IX.3 del Convenio sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, hecho en Washington el 3 de marzo de 1973, y en el artículo 13.3.c) del Reglamento (CE) n.º 338/97 del Consejo, de 9 de diciembre de 1996, la autoridad administrativa y órgano de gestión principal notificará a la Comisión Europea y a la Secretaría de la Convención sobre el Comercio Internacional de Especies Amenazadas de Fauna y Flora Silvestres, la nueva designación del órgano de gestión principal y autoridad administrativa y de la autoridad científica, dispuestas por este real decreto.

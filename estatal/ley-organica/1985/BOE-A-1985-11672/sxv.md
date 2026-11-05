@@ -1,0 +1,1 @@
+## Sección XV. Escrutinio general

@@ -1,0 +1,1 @@
+En virtud de las competencias a que se refiere el artículo 15 de la Ley Orgánica del Tribunal Constitucional 2/1979, de 3 de octubre, y oídos la Junta de Personal y el Delegado de Personal Laboral, acuerdo:

@@ -1,0 +1,7 @@
+## Artículo dieciséis. Alcance de la delegación de competencia en relación con la Inspección.
+
+1. Respecto de los Impuestos General sobre Sucesiones, sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados y Lujo cuando se devengue en destino y de las tasas y demás exacciones sobre el juego, corresponde a las Comunidades Autónomas las funciones previstas en el artículo 140 de la Ley General Tributaria, aplicando las normas legales y reglamentarias que regulen las actuaciones inspectoras del Estado en materia tributaria y siguiendo los planes de actuación inspectora que habrán de ser elaborados conjuntamente por ambas Administraciones, y de cuya ejecución darán cuenta anualmente las Comunidades Autónomas al Ministerio de Economía y Hacienda y al Congreso y Senado.
+
+2. Cuando la inspección financiera y tributaria del Estado o de las Comunidades Autónomas conocieren con ocasión de sus actuaciones comprobadoras e investigadoras hechos con trascendencia tributaria para otras Administraciones, lo comunicarán a éstas en la forma que reglamentariamente se determine.
+
+3. Las actuaciones comprobadoras e investigadoras en materia tributaria de las Comunidades Autónomas, fuera de su territorio serán realizadas por la Inspección Financiera y Tributaria del Estado, a requerimiento de las Comunidades Autónomas de conformidad con los planes de colaboración que al efecto se establezcan.

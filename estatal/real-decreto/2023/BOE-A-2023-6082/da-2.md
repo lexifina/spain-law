@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Derechos y obligaciones e inventario.
+
+1. Desde su entrada en funcionamiento, la Agencia se subrogará en los derechos y obligaciones derivados de competencias que, en virtud de este real decreto, se atribuyan a aquella, y en concreto, en los contratos, convenios, acuerdos nacionales e internacionales, encargos y encomiendas suscritos en el ejercicio de las competencias asignadas a la Agencia. Asimismo, podrá subrogarse en los contratos, convenios, acuerdos, encargos y encomiendas suscritos por el Ayuntamiento de Sevilla en relación con el edificio que será cedido por dicho ayuntamiento para albergar la sede de la Agencia, de conformidad con el Acuerdo del Consejo de Ministros, de 5 de diciembre de 2022, por el que se determina la sede física de la futura Agencia Espacial Española.
+
+2. En particular, y desde su entrada en funcionamiento, por parte del Ministerio de Hacienda y Función Pública se adoptarán las medidas que resulten precisas para que la Agencia ejerza la coordinación de la participación estatal en aquellas empresas del ámbito espacial que cuenten con accionariado público, en los términos previstos en el artículo 5.k) de su Estatuto.
+
+3. La Agencia Espacial Española realizará el primer inventario de los bienes que se le adscriban y de los que, en su caso, haya adquirido para el inicio de su actividad en el plazo máximo de doce meses desde su entrada en funcionamiento.

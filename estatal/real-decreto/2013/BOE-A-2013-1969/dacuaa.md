@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Modelo de declaración responsable.
+
+Corresponderá a las Comunidades Autónomas elaborar y mantener disponibles los modelos de declaración responsable. No obstante, y a efectos de facilitar la introducción de datos en el Registro Integrado Industrial regulado en el título IV de la Ley 21/1992, de 16 de julio, de Industria, el órgano competente en materia de seguridad industrial del Ministerio de Industria, Energía y Turismo elaborará y mantendrá actualizada una propuesta de modelo de declaración responsable, que deberá incluir los datos que se suministrarán al indicado registro, y que estará disponible en la sede electrónica de dicho Ministerio.

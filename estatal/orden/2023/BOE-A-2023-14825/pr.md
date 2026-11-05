@@ -1,0 +1,29 @@
+Los títulos VI y VII de la Ley Orgánica 11/2007, de 22 de octubre, reguladora de los derechos y deberes de los miembros de la Guardia Civil, establecen el marco normativo que debe regir la constitución de las asociaciones profesionales, el contenido esencial de sus derechos, organizativos, de funcionamiento y de ejercicio de su actividad, así como los derechos de quienes integran el Consejo de la Guardia Civil en representación de los miembros del Cuerpo.
+
+Estos derechos, a su vez, han sido concretados por el Real Decreto 175/2022, de 4 de marzo, por el que se desarrollan los derechos de las asociaciones profesionales de guardias civiles, de sus representantes y de los miembros del Consejo de la Guardia Civil, elegidos en representación de los miembros del Cuerpo.
+
+Además, con el objetivo de favorecer el ejercicio de las actividades derivadas del asociacionismo profesional, el citado Real Decreto 175/2022, de 4 de marzo, incluye dos disposiciones adicionales que acometen aspectos no previstos en la citada Ley Orgánica 11/2007, de 22 de octubre, como son las reuniones entre asociaciones representativas y mandos de unidades del Cuerpo y la posibilidad de que se habiliten locales en las dependencias oficiales del Cuerpo para su uso por las asociaciones profesionales representativas en actividades asociativas.
+
+Sin embargo, el citado real decreto no agota la regulación de la materia, ya que la disposición final segunda difiere aspectos como el procedimiento para la designación del personal del Cuerpo en los órganos contemplados, o las normas del uso del crédito de tiempo para el desarrollo de actividades relacionadas con la condición de representante, a un posterior desarrollo por parte de la persona titular del Ministerio del Interior.
+
+A tal fin, esta orden da cumplimiento a la habilitación de la disposición final segunda del citado Real Decreto 175/2022, de 4 de marzo.
+
+En primer lugar, regula el procedimiento para que las asociaciones profesionales de guardias civiles puedan ejercer su derecho a promover candidaturas para la elección de miembros de cualquier órgano de participación o de representación que se establezca, así como para la elección de miembros de los órganos de representación, gobierno y dirección de las mutualidades, asociaciones y restantes entes de previsión social y asistencial oficialmente constituidos por miembros de la Guardia Civil, cuando así lo prevea su normativa específica. Este procedimiento reviste carácter supletorio de los que se establezcan en la normativa específica de cada órgano.
+
+En segundo lugar, esta orden desarrolla los aspectos relacionados con las normas de uso del crédito de tiempo para el desarrollo de actividades relacionadas con la condición de representante.
+
+Por último, y en el uso de la habilitación normativa, de carácter genérico, que se contiene en el apartado 3 de la citada disposición final segunda, esta orden desarrolla el régimen de ejercicio de los derechos a disponer de espacios para anuncios o comunicaciones, y a celebrar reuniones en centros oficiales de la Guardia Civil, así como la organización y participación en grupos de trabajo, el acceso a los acuartelamientos e instalaciones para participar en actividades propias del asociacionismo profesional y la posibilidad de que se habiliten locales en dependencias oficiales del Cuerpo para su uso por las asociaciones profesionales representativas, que incluye la modificación, mediante la disposición final primera, de la Orden INT/985/2005, de 7 de abril, por la que se delegan determinadas atribuciones y se aprueban las delegaciones efectuadas por otras autoridades, al objeto de que la cesión del uso de estos espacios resulte más ágil.
+
+También, cabe destacar la inclusión de la disposición final segunda, que modifica la Orden PRE/266/2015, de 17 de febrero, por la que se establece el modelo y las normas reguladoras del Informe Personal de Calificación del Guardia Civil, al objeto de dar cumplimiento a lo dispuesto en el artículo 17 del Real Decreto 175/2022, de 4 de marzo, relativo al derecho a la no discriminación en la promoción profesional de los miembros del Consejo de la Guardia Civil elegidos en representación del personal del Cuerpo.
+
+Esta orden se adecúa a los principios de buena regulación conforme a los cuales deben actuar las Administraciones Públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, tal y como dispone el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Así, por lo que se refiere a los principios de necesidad y de eficacia, esta orden cumple un mandato de desarrollo contemplado en normativa de rango superior, siendo la publicación de esta orden la única forma en que se puede materializar el mismo.
+
+Respecto al principio de proporcionalidad, esta orden contiene la regulación imprescindible para alcanzar el objetivo propuesto. En cuanto al principio de seguridad jurídica, el contenido de esta orden es coherente con el resto del ordenamiento jurídico, y genera un desarrollo normativo que facilita el ejercicio de los derechos de las asociaciones profesionales de guardias civiles, sus representantes y los miembros del Consejo de la Guardia Civil.
+
+En aplicación del principio de transparencia, esta norma se ha sometido al trámite de audiencia e información pública. También, se respeta el principio de eficiencia toda vez que la reforma no impone cargas administrativas y no afecta la gestión de los recursos públicos.
+
+Por último, en cumplimiento de lo dispuesto en el artículo 54 de la Ley Orgánica 11/2007, de 22 de octubre, esta orden ha sido sometida al informe del Consejo de la Guardia Civil, que lo emitió en sentido favorable en su reunión del 29 de junio de 2022.
+
+En su virtud, con la aprobación previa de la Ministra de Hacienda y Función Pública, dispongo:

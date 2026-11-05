@@ -1,0 +1,7 @@
+El Real Decreto Legislativo 4/2000, de 23 de junio, por el que se aprueba el Texto Refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado y el Real Decreto 375/2003, de 28 de marzo, por el que se aprueba el Reglamento General del Mutualismo Administrativo, en su capítulo III, introducen novedades en el régimen de ingresos por cotizaciones a la Mutualidad General de Funcionarios Civiles del Estado.
+
+En concreto, articula un régimen general de cotización en el que se incluyen los mutualistas obligatorios cuyas cuotas se recaudan mediante descuentos en nómina y un régimen singular que lo conforman los mutualistas voluntarios y los mutualistas obligatorios en alta en situación de servicios especiales a los que no se les retenga la cuota en el puesto efectivo que desempeñen y no perciban trienios de su destino de origen o los perciban en cuantía insuficiente para cubrir la correspondiente cotización, satisfaciéndose esta última por el procedimiento que se determine.
+
+Mediante el presente Proyecto de Orden se desarrolla lo dispuesto en el Reglamento General en materia de cotizaciones y específicamente el procedimiento para la recaudación e ingreso de la cuota en virtud de la habilitación dada en este sentido al Ministro de Administraciones Públicas –disposición final segunda– por el mencionado Reglamento.
+
+En consecuencia, previo informe del Ministerio de Hacienda, dispongo:

@@ -1,0 +1,3 @@
+## Artículo sesenta y tres
+
+Para la individualización del tratamiento, tras la adecuada observación de cada penado, se realizará su clasificación, destinándose al establecimiento cuyo régimen sea más adecuado al tratamiento que se le haya señalado, y, en su caso, al grupo o sección más idóneo dentro de aquél. La clasificación debe tomar en cuenta no solo la personalidad y el historial individual, familiar, social y delictivo del interno, sino también la duración de la pena y medidas penales en su caso, el medio a que probablemente retornará y los recursos, facilidades y dificultades existentes en cada caso y momento para el buen éxito del tratamiento.

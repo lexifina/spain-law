@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Competencia en materia de estudios no presenciales cursados por estudiantes catalanes y becas de colaboración de esa comunidad autónoma.
+
+En el caso de la Comunidad Autónoma de Cataluña, el Grupo de Trabajo a que hace referencia el apartado D).2 del anexo del Real Decreto 261/2025, de 1 de abril, de ampliación de funciones y servicios traspasados a la Generalitat de Cataluña por el Real Decreto 2809/1980, de 3 de octubre, en materia de Enseñanza, y por el Real Decreto 305/1985, de 6 de febrero, en materia de Universidades: becas y ayudas al estudio, podrá acordar que las becas para estudios no presenciales se rijan por las mismas reglas competenciales que las presenciales y se soliciten a la administración educativa correspondiente al domicilio familiar de la persona solicitante, y que en las becas de colaboración de estudiantes en departamentos universitarios se utilice para determinar la competencia el criterio unitario de la universidad en que esté matriculada la persona solicitante.
+
+> Se añade por la disposición final 1.10 del Real Decreto 179/2026, de 11 de marzo. Ref. BOE-A-2026-5713#df

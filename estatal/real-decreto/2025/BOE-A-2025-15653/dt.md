@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Oficina para la Organización de la Cuarta Conferencia Internacional sobre la Financiación para el Desarrollo de la ONU.
+
+La Oficina para la Organización de la Cuarta Conferencia Internacional sobre la Financiación para el Desarrollo de la ONU prevista en el artículo 5.5 del Real Decreto 890/2023, de 27 de noviembre, por el que se aprueba la estructura de la Presidencia del Gobierno, permanecerá bajo la dependencia directa de la persona titular de la Secretaría General de la Presidencia del Gobierno, hasta el 31 de diciembre de 2025, fecha en la que quedará suprimida.

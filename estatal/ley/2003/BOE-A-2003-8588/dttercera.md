@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Régimen transitorio del Reglamento general para el desarrollo y ejecución de la Ley 15/1994 y vigencia temporal de órganos colegiados.
+
+1. El Reglamento general para el desarrollo y ejecución de la Ley 15/1994, de 3 de junio, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, a fin de prevenir los riesgos para la salud humana y para el medio ambiente, aprobado por el Real Decreto 951/1997, de 20 de junio, será de aplicación en lo que no se oponga a lo previsto en esta ley durante los seis meses a partir de su entrada en vigor, durante los cuales el Gobierno deberá dictar las normas que lo sustituyan.
+
+2. Asimismo, los órganos colegiados previstos en la Ley 15/1994 y en el Reglamento general para su desarrollo y ejecución subsistirán y desempeñarán las funciones que tienen atribuidas hasta la constitución de los nuevos órganos colegiados previstos en esta ley.

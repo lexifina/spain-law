@@ -1,0 +1,3 @@
+## Disposición final segunda. Adaptación de los tiempos de trabajo en las labores de extinción de incendios forestales.
+
+En el plazo máximo de un año desde la entrada en vigor de esta ley, el Gobierno modificará el Real Decreto 1561/1995, de 21 de septiembre, sobre jornadas especiales de trabajo para adaptar los tiempos de trabajo en las labores de extinción de incendios forestales teniendo en cuenta las consecuencias de su exposición a condiciones adversas, incluidos los fenómenos meteorológicos extremos, de acuerdo con lo previsto en la Disposición adicional única del Real Decreto 486/1997, de 14 de abril, por el que se establecen las disposiciones mínimas de seguridad y salud en los lugares de trabajo.

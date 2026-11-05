@@ -1,0 +1,3 @@
+## Disposición transitoria única. Gastos de administración imputables por las Mutuas.
+
+Las Mutuas podrán imputar como gastos de administración aquellos que resulten necesarios para la puesta en marcha y desarrollo del sistema de gestión de la prestación por cese de actividad de los trabajadores autónomos, tales como los derivados de la puesta en funcionamiento de nuevos programas informáticos, de desarrollo y formación de sus recursos humanos y, en su caso, los de comprobación y seguimiento de las situaciones protegidas, ello sin perjuicio de la aplicación a partir de su aprobación de las reglas de contabilidad analítica que se establezcan, mediante la correspondiente Resolución de la Intervención General de la Seguridad Social, previstas en este real decreto.

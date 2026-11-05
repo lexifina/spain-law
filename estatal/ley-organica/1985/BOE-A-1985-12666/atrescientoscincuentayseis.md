@@ -1,0 +1,37 @@
+## Artículo 356.
+
+Procederá declarar en la situación de excedencia voluntaria, a petición del juez o magistrado, en los siguientes casos:
+
+a) Cuando se encuentre en situación de servicio activo en un cuerpo o escala de las Administraciones públicas o en la carrera fiscal.
+
+b) Cuando pase a desempeñar cargos o prestar servicios en organismos o entidades del sector público, y no le corresponda quedar en otra situación. En este supuesto, producido el cese en el cargo o servicio, deberá solicitar el reingreso en el servicio activo en el plazo máximo de 10 días a contar desde el siguiente al cese. De no hacerlo así se le declarará en situación de excedencia voluntaria por interés particular.
+
+c) Por interés particular, siempre que haya prestado servicios en la carrera judicial durante los cinco años inmediatamente anteriores, sin que en esta situación se pueda permanecer menos de dos años.
+
+La declaración de esta situación quedará subordinada a las necesidades de la Administración de Justicia. No podrá declararse cuando al juez o magistrado se le instruya expediente disciplinario.
+
+d) Para el cuidado de los hijos, por un período no superior a tres años para atender a cada hijo, tanto cuando lo sea por naturaleza, por adopción, por acogimiento permanente o preadoptivo, a contar desde la fecha de nacimiento o desde la fecha de la resolución judicial o administrativa que lo acuerde, respectivamente. Los sucesivos hijos darán derecho a un nuevo período de excedencia que, en su caso, pondrá fin al que se viniera disfrutando. Cuando el padre y la madre trabajen, sólo uno podrá ejercer este derecho.
+
+e) También tendrán derecho a un período de excedencia, de duración no superior a tres años, para atender al cuidado de un familiar que se encuentre a su cargo, hasta el segundo grado inclusive de consanguinidad o afinidad que, por razones de edad, accidente o enfermedad, no pueda valerse por sí mismo y no desempeñe actividad retribuida.
+
+El período de excedencia será único por cada sujeto causante. Cuando un nuevo sujeto causante diera origen a una nueva excedencia, el inicio del período de la misma pondrá fin al que se viniera disfrutando.
+
+Esta excedencia y la regulada en el apartado anterior constituyen un derecho individual de los miembros de la carrera judicial. En caso de que dos de sus miembros generasen el derecho a disfrutarlas por el mismo sujeto causante, el Consejo General del Poder Judicial podrá limitar su ejercicio simultáneo por razones justificadas relacionadas con las necesidades y el funcionamiento de los servicios.
+
+f) Cuando se presente como candidato en elecciones para acceder a cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas o Corporaciones locales.
+
+g) Cuando sean nombrados para cargo político o de confianza en virtud de Real Decreto, Decreto autonómico o acuerdo de Pleno de entidad local, con rango superior a director general, o elegidos para cargos públicos representativos en el Parlamento Europeo, Congreso de los Diputados, Senado, Asambleas legislativas de las Comunidades Autónomas o Juntas Generales de los Territorios Históricos, o titular de la Presidencia de una Corporación local.
+
+En este caso, así como en el supuesto previsto en la letra f), los jueces y magistrados, y los funcionarios de otros cuerpos, que reingresen en la Carrera correspondiente deberán abstenerse, y en su caso podrán ser recusados, de intervenir en cualesquiera asuntos en los que sean parte partidos o agrupaciones políticas, o aquellos de sus integrantes que ostenten o hayan ostentado cargo público.
+
+> Se modifica la letra f) y se añade la g) por el art. 1.4 y 5 de la Ley Orgánica 3/2024, de 2 de agosto. Ref. BOE-A-2024-16127
+
+> Téngase en cuenta, en cuanto a la aplicación de la letra g), la disposición transitoria de la citada Ley Orgánica.
+
+> Se modifica la letra f) por el art. único.2 de la Ley Orgánica 12/2011, de 22 de septiembre. Ref. BOE-A-2011-15037.
+
+> Se modifica el párrafo primero de la letra e) por la disposición adicional 3.6 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115.
+
+> Se modifica por el art. único.93 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644
+
+> Se modifica el apartado 1 por el art. 2 de la Ley Orgánica 5/1997, de 4 de diciembre. Ref. BOE-A-1997-26034

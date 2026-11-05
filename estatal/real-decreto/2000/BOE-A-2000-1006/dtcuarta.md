@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Cómputo de períodos de cotización o de servicios acreditados en más de un régimen.
+
+El cómputo de períodos de cotización o de servicios acreditados, sucesiva o alternativamente, en el Régimen de Clases Pasivas del Estado y en el Régimen General o especiales de la Seguridad Social, para el cálculo de las pensiones de jubilación o retiro y viudedad del personal ingresado al servicio de las Comunidades Europeas antes de la fecha de entrada en vigor del Real Decreto 691/1991, de 12 de abril, sobre cómputo recíproco de cuotas entre regímenes de Seguridad Social, se atribuirá al Régimen de Clases Pasivas del Estado, según lo tuvieran establecido las disposiciones sobre la materia vigentes en la fecha del citado ingreso.

@@ -1,0 +1,7 @@
+## Disposición adicional decimosexta. Utilización de tecnologías de la información y las comunicaciones.
+
+En relación con las materias contempladas en esta ley y en las demás normas que regulen los procedimientos de elaboración, ejecución y control de los Presupuestos Generales del Estado, el Ministro de Hacienda establecerá los supuestos, condiciones y requerimientos para la utilización de medios electrónicos, informáticos y telemáticos para:
+
+a) Agilizar los procedimientos y facilitar el intercambio de datos, sustituyendo los soportes documentales en papel o en cualquier otro medio físico por soportes propios de las tecnologías de la información y las comunicaciones, tanto en los trámites internos de la Administración General del Estado o sus organismos autónomos como en las relaciones con terceros, dentro del marco general establecido en el artículo 45 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+b) Reemplazar los sistemas de autorización y control formalizados mediante diligencias, firmas manuscritas, sellos u otros medios manuales por autorizaciones y controles establecidos en los sistemas de información habilitados o que se habiliten para el tratamiento de los aspectos regulados en esta ley, siempre que de tal forma se garantice el ejercicio de la competencia por el órgano que la tenga atribuida.

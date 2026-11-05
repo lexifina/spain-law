@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Normas relativas a la reposición de las prestaciones por desempleo.
+
+Los trabajadores cuyo contrato de trabajo se hubiera extinguido con anterioridad al 12 de febrero de 2012, en los supuestos establecidos en el artículo 16 de esta Ley, y que previamente hubieran sido afectados por expedientes de regulación temporal de suspensión de contratos o de reducción de jornada en los casos referidos en esa disposición, tendrán derecho, en su caso, a la reposición de las prestaciones por desempleo, en los términos y con los límites establecidos en la normativa vigente en el momento en que se produjo el despido o la resolución administrativa o judicial que autorizó la extinción del contrato.
+
+Los trabajadores afectados por resoluciones, administrativas o judiciales dictadas hasta el 31 de diciembre de 2011 inclusive, que hayan autorizado suspensiones de los contratos de trabajo o reducciones de jornada que se inicien efectivamente a partir del 1 de enero de 2012, tendrán derecho, en su caso, a la reposición de las prestaciones por desempleo en los términos y con los límites establecidos en el artículo 16.

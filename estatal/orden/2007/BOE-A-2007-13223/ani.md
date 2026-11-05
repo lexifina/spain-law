@@ -1,0 +1,189 @@
+## ANEXO I
+
+## CÓDIGO 021-AUTOLIQUIDACIONES
+
+| MODELO | DENOMINACIÓN | PERIODOS INGRESO |
+| --- | --- | --- |
+| 043 (1) | TASA SOBRE EL JUEGO.-SALAS DE BINGO | T |
+| 044 (1) | TASA SOBRE EL JUEGO-CASINOS | T |
+| 045 (1) | TASA MÁQUINAS RECREATIVAS | T |
+| 100 | IRPF - DECLARACIÓN ANUAL/BORRADOR DEL IRPF | 0A |
+| 102 | IRPF - SEGUNDO PLAZO | 0A |
+| 108 | GRAVAMEN ÚNICO SOBRE REVALORIZACIÓN DE ACTIVOS DE LA LEY 16/2012, PARA CONTRIBUYENTES DEL IRPF. AUTOLIQUIDACIÓN | 0A |
+| 111 | IRPF RETENCIONES E INGRESOS A CUENTA. RENDIMIENTOS DEL TRABAJO. ACTIVIDADES ECONÓMICAS, PREMIOS Y DETERMINADAS GANANCIAS PATRIMONIALES E IMPUTACIONES DE RENTAS | M-T |
+| 122 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS. DEDUCCIONES POR FAMILIA NUMEROSA, POR PERSONAS CON DISCAPACIDAD A CARGO O POR ASCENDIENTE CON DOS HIJOS SEPARADO LEGALMENTE O SIN VÍNCULO MATRIMONIAL. REGULARIZACIÓN DEL DERECHO A LA DEDUCCIÓN POR CONTRIBUYENTES NO OBLIGADOS A PRESENTAR DECLARACIÓN | 0A |
+| 130 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONÓMICAS EN ESTIMACIÓN DIRECTA | T |
+| 131 | IRPF PAGO FRACCIONADO. ACTIVIDADES ECONOMICAS EN ESTIMACIÓN OBJETIVA | T |
+| 136 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS E IMPUESTO SOBRE LA RENTA DE NO RESIDENTES. GRAVAMEN ESPECIAL SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS. AUTOLIQUIDACIÓN. | T |
+| 150 | IRPF-RÉGIMEN ESPECIAL DE TRIBUTACIÓN POR EL IRNR. | 0A |
+| 151 | DECLARACIÓN DEL IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS. RÉGIMEN ESPECIAL APLICABLE A LOS TRABAJADORES DESPLAZADOS A TERRITORIO ESPAÑOL VIGENTE DESDE 1 DE ENERO DE 2015. | 0A |
+| 200 | IS. E IRNR. DECLARACIÓN ANUAL | 0A |
+| 202 | IS. PAGO FRACCIONADO | 1P,2P,3P |
+| 206 | IMP. RENTA NO RESIDENTES (EST. PERMANENTE) | 0A |
+| 208 | GRAVAMEN ÚNICO SOBRE REVALORIZACIÓN DE ACTIVOS DE LA LEY 16/2012, PARA CONTRIBUYENTES DEL IMPUESTO SOBRE SOCIEDADES Y CONTRIBUYENTES DEL IMPUESTO SOBRE LA RENTA DE NO RESIDENTES CON ESTABLECIMIENTO PERMANENTE. AUTOLIQUIDACIÓN | 0A |
+| 210 | IMP. RENTA NO RESIDENTES (SIN EST. PERMANENTE).- DECLA ORDINARIA | 0A |
+| 211 | IR NO RESIDENTES. RET. ADQ. DE INM. A NO RESIDENTES SIN EST. PERMANENTE | 0A |
+| 213 | GRAVAMEN ESPECIAL SOBRE INM. DE ENTIDADES NO RESIDENTES | 0A |
+| 217 | GRAVAMEN ESPECIAL SOBRE DIVIDENDOS O PARTICIPACIONES EN BENEFICIOS DISTRIBUIDOS POR SOCIEDADES ANÓNIMAS COTIZADAS DE INVERSIÓN EN EL MERCADO INMOBILIARIO. IMPUESTO SOBRE SOCIEDADES.AUTOLIQUIDACIÓN | 0A |
+| 221 | PRESTACIÓN PATRIMONIAL POR CONVERSIÓN DE ACTIVOS POR IMPUESTO DIFERIDO EN CRÉDITO EXIGIBLE FRENTE A LA ADMINISTRACIÓN TRIBUTARIA | 0A |
+| 230 | IMPUESTO SOBRE LA RENTA DE LAS PERSONAS FÍSICAS E IMPUESTO SOBRE LA RENTA DE NO RESIDENTES: RETENCIONES E INGRESOS A CUENTA DEL GRAVAMEN ESPECIAL SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS; IMPUESTO SOBRE SOCIEDADES: RETENCIONES E INGRESOS A CUENTA SOBRE LOS PREMIOS DE DETERMINADAS LOTERÍAS Y APUESTAS. AUTOLIQUIDACIÓN. | M |
+| 237 | GRAVAMEN ESPECIAL SOBRE BENEFICIOS NO DISTRIBUIDOS POR SOCIEDADES ANÓNIMAS COTIZADAS DE INVERSIÓN EN EL MERCADO INMOBILIARIO. IMPUESTO SOBRE SOCIEDADES. AUTOLIQUIDACIÓN. | 0A |
+| 242 | AUTOLIQUIDACIÓN DEL IMPUESTO COMPLEMENTARIO | 0A |
+| 250 | GRAVAMEN ESPECIAL SOBRE DIVIDENDOS Y RENTAS DE FUENTE EXTRANJERA DERIVADAS DE LA TRANSMISIÓN DE VALORES REPRESENTATIVOS DE LOS FONDOS PROPIOS DE ENTIDADES NO RESIDENTES EN TERRITORIO ESPAÑOL. | 0A |
+| 303 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN. | M-T |
+| 309 | IVA DECL. LIQUID. NO PERIÓDICA | 1T,2T,3T,4T y 0A |
+| 319 | PAGO A CUENTA DEL IVA CORRESPONDIENTE A LAS ENTREGAS DE GASOLINAS, GASÓLEOS Y BIOCARBURANTES POSTERIORES A LA ULTIMACIÓN DEL RÉGIMEN DE DEPÓSITO DISTINTO DEL ADUANERO. | 0A |
+| 353 | GRUPO DE ENTIDADES. MODELO AGREGADO. AUTOLIQUIDACIÓN MENSUAL. | M |
+| 368 | DECLARACIÓN-LIQUIDACIÓN PERIÓDICA DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SERVICIOS DE TELECOMUNICACIONES, DE RADIODIFUSIÓN O DE TELEVISIÓN Y ELECTRÓNICOS EN EL IVA | 1T, 2T, 3T y 4T |
+| 369 | IMPUESTO SOBRE EL VALOR AÑADIDO. AUTOLIQUIDACIÓN DE LOS REGÍMENES ESPECIALES APLICABLES A LOS SUJETOS PASIVOS QUE PRESTEN SERVICIOS A PERSONAS QUE NO TENGAN LA CONDICIÓN DE SUJETOS PASIVOS, QUE EFECTÚEN VENTAS A DISTANCIA DE BIENES Y CIERTAS ENTREGAS INTERIORES DE BIENES | M-T |
+| 380 | IVA EN OPERAC. ASIMILADAS A IMPORTACIONES | M, T , 0A |
+| 410 | PAGO A CUENTA DEL IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
+| 411 | IMPUESTO SOBRE LOS DEPÓSITOS EN LAS ENTIDADES DE CRÉDITO. AUTOLIQUIDACIÓN | 0A |
+| 440 | IMPUESTO GRAL. DEL TRÁFICO DE EMPRESAS | T |
+| 490 | IMPUESTO SOBRE DETERMINADOS SERVICIOS DIGITALES. AUTOLIQUIDACIÓN | T |
+| 568 | IMPUESTO ESPECIAL SOBRE DETERMINADOS MEDIOS DE TRANSPORTE | T |
+| 576 | I.E. S/DETERMINADOS MEDIOS DE TRANSPORTE | 0A |
+| 595 | I.E. S/ EL CARBON | T |
+| 600 (2) | TRANSMISIONES PATRIMONIALES | 0A |
+| 602 | TASA POR LA GESTIÓN ADMINISTRATIVA DEL JUEGO | 0A |
+| 604 | IMPUESTO SOBRE LAS TRANSACCIONES FINANCIERAS. AUTOLIQUIDACIÓN | M |
+| 610 (2) | ACT. JURID. RECIBOS NEGOCIADOS EE.CC. | 0A |
+| 615 (2) | ITP Y AJD. DOCS. CON ACCIÓN CAMBIARIA O ENDOSABLES A LA ORDEN. | 0A |
+| 620 (2) | COMPRA-VENTA VEHIC. USADOS ENTRE PARTIC. | 0A |
+| 630 (2) | ACTOS JURÍDICOS DOCUMENTADOS | 0A |
+| 650 (2) | IMP. SUCESIONES Y DONACIONES MORTIS CAUSA | 0A |
+| 651 (2) | IMP. SUCESIONES Y DONACIONES. INTERVIVOS | 0A |
+| 655 (2) | IMP. SUCESIONES Y DONACIONES. CONSOLIDACIÓN DEL DOMINIO POR EXTINCIÓN DEL USUFRUCTO | 0A |
+| 681 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS A QUE SE REFIERE EL APARTADO 3 DE LA DISPOSICIÓN ADICIONAL SEXTA DE LA LEY 54/1997 | M-T |
+| 682 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS A QUE SE REFIERE EL APARTADO 4 DE LA DISPOSICIÓN ADICIONAL SEXTA DE LA LEY 54/1997 | M, 0A |
+| 683 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS DERIVADOS DE LA FABRICACIÓN DE ELEMENTOS COMBUSTIBLES, INCLUIDO EL DESMANTELAMIENTO DE LAS INSTALACIONES DE FABRICACIÓN DE LOS MISMOS | 0A |
+| 684 | TASA POR LA PRESTACIÓN DE SERVICIOS DE GESTIÓN DE RESIDUOS RADIACTIVOS GENERADOS EN OTRAS INSTALACIONES | 0A |
+| 685 | TASA SOBRE APUESTAS Y COMBINACIONES ALEATORIAS, AUTOLIQUIDACIÓN | 0A |
+| 696 | TASA JUDICIAL | 0A |
+| 714 | IMPUESTO SOBRE EL PATRIMONIO | 0A |
+| 718 | IMPUESTO TEMPORAL DE SOLIDARIDAD DE LAS GRANDES FORTUNAS. | 0A |
+| 750 | DECLARACION TRIBUTARIA ESPECIAL (DISPOSICIÓN ADICIONAL PRIMERA DEL REAL DECRETO-LEY 12/2012, DE 30 DE MARZO) | 0A |
+| 763 | IMPUESTO SOBRE ACTIVIDADES DE JUEGO EN LOS SUPUESTOS DE ACTIVIDADES ANUALES O PLURIANUALES | T |
+| 770 | AUTOLIQUIDACIÓN DE INTERESES DE DEMORA Y RECARGOS PARA LA REGULARIZACIÓN VOLUNTARIA PREVISTA EN EL ARTÍCULO 252 DE LA LEY GENERAL TRIBUTARIA | 0A |
+| 771 | AUTOLIQUIDACIÓN DE CUOTAS DE CONCEPTOS Y EJERCICIOS SIN MODELO DISPONIBLE EN LA SEDE ELECTRÓNICA DE LA AEAT PARA LA REGULARIZACIÓN VOLUNTARIA PREVISTA EN EL ARTÍCULO 252 DE LA LEY GENERAL TRIBUTARIA | 0A |
+| 777 | DECLARACIONES-LIQUIDACIONES EXTEMPORÁNEAS Y COMPLEMENTARIAS. | 0A |
+| 780 | IMPUESTO SOBRE EL MARGEN DE INTERESES Y COMISIONES DE DETERMINADAS ENTIDADES FINANCIERAS. AUTOLIQUIDACIÓN | 0A |
+| 781 | IMPUESTO SOBRE EL MARGEN DE INTERESES Y COMISIONES DE DETERMINADAS ENTIDADES FINANCIERAS. PAGO FRACCIONADO | 0A |
+| 792 | AUTOLIQUIDACIÓN DE LA APORTACIÓN A REALIZAR POR LOS PRESTADORES DEL SERVICIO DE COMUNICACIÓN AUDIOVISUAL TELEVISIVO Y POR LOS PRESTADORES DEL SERVICIO DE INTERCAMBIO DE VÍDEOS A TRAVÉS DE PLATAFORMA DE ÁMBITO GEOGRÁFICO ESTATAL O SUPERIOR AL DE UNA COMUNIDAD AUTÓNOMA | 0A |
+| 793 | PAGOS A CUENTA DE LA APORTACIÓN A REALIZAR POR LOS PRESTADORES DEL SERVICIO DE COMUNICACIÓN AUDIOVISUAL TELEVISIVO Y POR LOS PRESTADORES DEL SERVICIO DE INTERCAMBIO DE VÍDEOS A TRAVÉS DE PLATAFORMA DE ÁMBITO GEOGRÁFICO ESTATAL O SUPERIOR AL DE UNA COMUNIDAD AUTÓNOMA | 1P, 2P, 3P |
+| 795 | GRAVAMEN TEMPORAL ENERGÉTICO. DECLARACIÓN DEL INGRESO DE LA PRESTACIÓN. | 0A |
+| 796 | GRAVAMEN TEMPORAL ENERGÉTICO. PAGO ANTICIPADO. | 0A |
+| 797 | GRAVAMEN TEMPORAL DE ENTIDADES DE CRÉDITO Y ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO. DECLARACIÓN DEL INGRESO DE LA PRESTACIÓN. | 0A |
+| 798 | GRAVAMEN TEMPORAL DE ENTIDADES DE CRÉDITO Y ESTABLECIMIENTOS FINANCIEROS DE CRÉDITO. PAGO ANTICIPADO. | 0A |
+
+(1) Sólo en algunas Comunidades.
+
+(2) Cuando la gestión corresponda al Estado.
+
+En las autoliquidaciones extemporáneas de otras presentadas en pesetas, será admisible que las tres primeras posiciones del n.º de justificante sean “777”.
+
+> Se añade el modelo 319 por la disposición final 1 de la Orden HAC/1495/2025, de 17 de diciembre. Ref. BOE-A-2025-26216
+
+> Téngase en cuenta que el nuevo modelo, sin perjuicio de lo señalado en el apartado undécimo.5 del anexo de la Ley 37/1992, de 28 de diciembre, será de aplicación por primera vez a las extracciones realizadas a partir del 1 de febrero de 2026, según establece la disposición final 3 de la citada Orden.
+
+> Se añade el modelo 242 por la disposición final 1 de la Orden HAC/1198/2025, de 21 de octubre. Ref. BOE-A-2025-21727
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 274, de 14 de noviembre de 2025. Ref. BOE-A-2025-23057
+
+> Se añaden los modelos 780 y 781 por la disposición final 1 de la Orden HAC/532/2025, de 26 de mayo. Ref. BOE-A-2025-10597#df
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez a las declaraciones cuyo plazo de presentación se inicie en el ejercicio 2025, según establece la disposición final 4 de la citada Orden
+
+> Se suprimen los modelos 212, 214 y 215 por el art. 1.12 de la Orden HAC/241/2025, de 10 de marzo. Ref. BOE-A-2025-5048
+
+> Se añade el modelo 718 por la disposición final 1 de la Orden HFP/587/2023, de 9 de junio. Ref. BOE-A-2023-13800
+
+> Téngase en cuenta que el nuevo modelo será de aplicación por primera vez al ejercicio 2022, según establece la disposición final 4 de la citada Orden.
+
+> Se añaden los modelos 792 y 793 por la disposición final 1 de la Orden HFP/309/2023, de 28 de marzo. Ref. BOE-A-2023-8117
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio 2023, según establece la disposición final 4 de la citada Orden.
+
+> Se añaden los modelos 795, 796, 797 y 798 por la disposición final 1 de la Orden HFP/94/2023, de 2 de febrero. Ref. BOE-A-2023-2832
+
+> Téngase en cuenta que los nuevos modelos serán de aplicación por primera vez al ejercicio 2023, según establece la disposición final 4 de la citada Orden.
+
+> Se añade el modelo 237, con efectos para los períodos impositivos iniciados a partir del 1 de enero de 2021, por la disposición final 2 de la Orden HFP/1430/2021, de 20 de diciembre. Ref. BOE-A-2021-21217#df-2
+
+> Se añade el modelo 369, con efectos de 1 de julio de 2021, por la disposición final 1 de la Orden HAC/610/2021, de 16 de junio. Ref. BOE-A-2021-10161
+
+> Se añade el modelo 490 por la disposición final 1 de la Orden HAC/590/2021, de 9 de junio. Ref. BOE-A-2021-9721#df
+
+> Esta modificación será aplicable a las autoliquidaciones que se presenten a partir de la entrada en vigor de la Ley 4/2020, de 15 de octubre, del Impuesto sobre Determinados Servicios Digitales, según establece la disposición final 4 de la citada Orden.
+
+> Se añade el modelo 604 por la disposición final 2 de la Orden HAC/510/2021, de 26 de mayo. Ref. BOE-A-2021-8878
+
+> Se añade el modelo 602 por la disposición final 1 de la Orden HAC/1277/2020, de 28 de diciembre. Ref. BOE-A-2020-17272
+
+> Esta modificacion será de aplicación a los hechos imponibles cuyo devengo tenga lugar a partir del 31 de diciembre de 2020, según establece la disposición final 2 de la citada Orden.
+
+> Se añaden los modelos 770 y 771 por la disposición final 2 de la Orden HAC/530/2020, de 3 de junio. Ref. BOE-A-2020-6217
+
+> Se añade el modelo 353 por la disposición final 1.1 de la Orden HFP/1247/2017, de 20 de diciembre. Ref. BOE-A-2017-15190
+
+> Téngase en cuenta para su entrada en vigor lo establecido en la letra b) de la disposición final segunda de la citada Orden.
+
+> Se añade el modelo 221 por la disposición final 2 de la Orden HFP/550/2017, de 15 de junio. Ref. BOE-A-2017-6857
+
+> Téngase en cuenta para su aplicación la disposición transitoria única de la citada Orden.
+
+> Se añade el modelo 122 por la disposición final 2 de la Orden HFP/105/2017, de 6 de febrero. Ref. BOE-A-2017-1334.
+
+> Téngase en cuenta para su aplicación lo dispuesto en la disposición final 3 de la citada Orden.
+
+> Se añade el modelo 217 por la disposición final 2 de la Orden HFP/1922/2016, de 19 de diciembre. Ref. BOE-A-2016-12113.
+
+> Esta modificación es aplicable para los periodos impositivos iniciados a partir del 1 de enero de 2013, según establece la disposición final 3.
+
+> Se añade el modelo 151 por la disposición final 3.1 de la Orden HAP/2783/2015, de 21 de diciembre. Ref. BOE-A-2015-14021.
+
+> Téngase en cuenta para su aplicación lo dispuesto en la la disposición final 6 de la citada Orden.
+
+> Se añade el modelo 411 por la disposición final 3 de la Orden HAP/1230/2015, de 17 de junio. Ref. BOE-A-2015-7048.
+
+> Se añade el modelo 368 por la disposición final 1 de la Orden HAP/460/2015, de 10 de marzo. Ref. BOE-A-2015-2891.
+
+> Esta modificación es aplicable para periodos de liquidación que se inicien a partir del 1 de enero de 2015, según establece la disposición final 2.
+
+> Se modifica el modelo 650, se elimina el 652 y se añade el 655 por la disposición final 1 de la Orden HAP/2489/2014, de 29 de diciembre. Ref. BOE-A-2014-13677.
+
+> Se añade el modelo 410 por la disposición final 3 de la Orden HAP/2178/2014, de 18 de noviembre. Ref. BOE-A-2014-12146.
+
+> Se suprimen los modelos 310, 311, 370 y 371 por la disposición final 1 de la Orden HAP/2215/2013, de 26 de noviembre. Ref. BOE-A-2013-12489.
+
+> Esta modificación es aplicable a las operaciones realizadas a partir del 1 de enero de 2014, según establece la disposición final 3.
+
+> Se añaden los modelos 108 y 208 por la disposición final 2 de la Orden HAP/636/2013, de 15 de abril. Ref. BOE-A-2013-4123.
+
+> Se añaden los modelos 136 y 230 por la disposición final 1 de la Orden HAP/70/2013, de 30 de enero. Ref. BOE-A-2013-952.
+
+> Se añade el modelo 250 por la disposición final 1 de la Orden HAP/1181/2012, de 31 de mayo. Ref. BOE-A-2012-7390. y el modelo 750 por la disposición final 1 de la Orden HAP/1182/2012, de 31 de mayo. Ref. BOE-A-2012-7391.
+
+> Se añade el modelo 714 por la disposición final 1 de la Orden HAP/638/2012, de 26 de marzo. Ref. BOE-A-2012-4445.
+
+> Se añade el modelo 763 por la disposición final 1.1 de la Orden EHA/1881/2011, de 5 de julio. Ref. BOE-A-2011-11704.
+
+> Se modifica por la disposición final 1 de la Orden EHA/1259/2011, de 28 de abril. Ref. BOE-A-2011-8627.
+
+> Se suprime el modelo 110 y se añade el 111 por la disposición final 1.1 y 2 de la Orden EHA/586/2011, de 9 de marzo. Ref. BOE-A-2011-4948.
+
+> Esta modificación surte efectos según lo indicado en la disposición final 3.
+
+> Se añade el modelo 568 por la disposición final 1 de la Orden EHA/1338/2010, de 13 de mayo. Ref. BOE-A-2010-8230.
+
+> Se añaden los modelos 681 a 684 por la disposición final 1.1 de la Orden EHA/408/2010, de 24 de febrero. Ref. BOE-A-2010-3095.
+
+> Se añade el modelo 685 por la disposición final 1 de la Orden EHA/388/2010, de 19 de febrero. Ref. BOE-A-2010-3024.
+
+> Se suprimen los modelos 201 y 225 por la disposición final 1.1 de la Orden EHA/1375/2009, de 26 de mayo. Ref. BOE-A-2009-8955.
+
+> Se suprime el modelo 714 por la disposición final 1.1 de la Orden EHA/396/2009, de 13 de febrero. Ref. BOE-A-2009-3144.
+
+> Se modifica por la disposición final 4.1 y 2 de la Orden EHA/3786/2008, de 29 de diciembre. Ref. BOE-A-2008-20953.
+
+> Esta modificación es aplicable a partir del 1 de enero de 2009, según establece la disposición final 5.

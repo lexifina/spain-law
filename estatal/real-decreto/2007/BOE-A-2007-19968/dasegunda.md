@@ -1,0 +1,9 @@
+## Disposición adicional segunda. Apoyos complementarios.
+
+De acuerdo con lo ordenado por el artículo 10.2 c) de la Ley 51/2003, de 2 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, se establecen los siguientes apoyos complementarios:
+
+a) Las personas con discapacidad y sus familias podrán beneficiarse de las subvenciones y ayudas económicas que establezcan las administraciones públicas para la adquisición o contratación más ventajosa de elementos, bienes, productos y servicios de la sociedad de la información, en el ámbito de sus competencias.
+
+b) Las personas mayores y con discapacidad tendrán la consideración de grupo de población prioritario en el acceso a las iniciativas, programas y acciones de infoinclusión y de extensión de la sociedad de la información que desarrollen las administraciones públicas. El Ministerio de Trabajo y Asuntos Sociales y el Ministerio de Industria, Turismo y Comercio, a través de los mecanismos adecuados y, en su caso, del Instituto Nacional de Tecnologías de la Comunicación, promoverán el acceso regular y normalizado de las personas con discapacidad a la sociedad de la información.
+
+c) El Centro Estatal de Autonomía Personal y Ayudas Técnicas del Ministerio de Trabajo y Asuntos Sociales y el Ministerio de Industria Turismo y Comercio habilitarán una página de internet, accesible a las personas con discapacidad y mayores, que contendrá información global, completa y actualizada de todos los elementos, bienes, productos y servicios de la sociedad de la información, así como de las iniciativas, programas y acciones que se desarrollen en el ámbito de la sociedad de la información y los medios de comunicación social que tengan relevancia desde la perspectiva de las personas con discapacidad y mayores.

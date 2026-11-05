@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Regulación de las Comisiones Ministeriales de Administración Digital.
+
+En el plazo de cinco meses desde la entrada en vigor de este real decreto se aprobarán las órdenes ministeriales reguladoras de las Comisiones Ministeriales de Administración Digital previstas en el artículo cinco, ajustadas a las estructuras ministeriales fijadas en el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, y los reales decretos de estructura de los respectivos ministerios. Mientras tanto, subsistirán con su actual estructura las Comisiones Ministeriales de Administración Digital existentes.

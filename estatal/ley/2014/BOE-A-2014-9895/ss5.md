@@ -1,0 +1,1 @@
+## Subsección 5.ª Tasas por supervisión e inspección del cumplimiento de las normas de obligación de remisión de información a la CNMV para las personas o entidades emisoras de valores admitidos a negociación, fondos de titulización y fondos de activos bancarios

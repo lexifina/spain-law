@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Instalaciones incluidas en el ámbito de aplicación de la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero.
+
+En el supuesto de instalaciones sujetas a la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero, la autorización a la que se refiere el artículo 13 no incluirá valores límite para las emisiones directas de aquellos gases especificados en el anexo I de la citada Ley 1/2005, a menos que sea necesario para garantizar que no se provoque ninguna contaminación local significativa.

@@ -1,0 +1,5 @@
+## Disposición final undécima. Título competencial.
+
+Esta Ley se dicta de conformidad con lo previsto en el artículo 149.1.6.ª, 11.ª y 13.ª de la Constitución Española que atribuyen al Estado las competencias sobre legislación mercantil, sobre las bases de la ordenación de crédito, banca y seguros y sobre el establecimiento de las bases y la coordinación de la planificación general de la actividad económica, respectivamente.
+
+De ello se exceptúa la disposición final quinta que se dicta al amparo de lo dispuesto en las reglas 1.ª, 13.ª y 18.ª del artículo 149.1 de la Constitución Española, que atribuyen al Estado la competencia exclusiva sobre la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, el establecimiento de las bases y la coordinación de la actividad económica, así como el establecimiento de las bases del régimen jurídico de las Administraciones Públicas.

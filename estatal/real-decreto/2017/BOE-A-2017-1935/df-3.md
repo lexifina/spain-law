@@ -1,0 +1,3 @@
+## Disposición final tercera. Ejecución del derecho de la Unión Europea.
+
+El presente real decreto se aprueba en aplicación de lo establecido en el capítulo IV del Reglamento (UE) n.º 165/2014 del Parlamento Europeo y del Consejo, de 4 de febrero de 2014, relativo a los tacógrafos en el transporte por carretera, por el que se deroga el Reglamento (CEE) n.º 3821/85 del Consejo relativo al aparato de control en el sector de los transportes por carretera y se modifica el Reglamento (CE) n.º 561/2006 del Parlamento Europeo y del Consejo relativo a la armonización de determinadas disposiciones en materia social en el sector de los transportes por carretera y demás disposiciones aplicables.

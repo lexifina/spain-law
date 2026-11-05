@@ -1,0 +1,31 @@
+## Disposición final cuarta. Modificación del Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+Se modifica el artículo 3 y se añade un nuevo artículo 5 bis al Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, en los términos siguientes:
+
+Uno. Se modifica el artículo 3, que queda redactado en los siguientes términos:
+
+«1. De acuerdo con lo dispuesto en el artículo 2 de este Real Decreto-ley, el personal funcionario y estatutario incluido en los artículos 26, 28, 29, 30, 32 y 35 de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, no percibirá en el mes de diciembre de 2012 ninguna cuantía ni en concepto de paga extraordinaria ni, en su caso, en concepto de paga adicional de complemento específico o equivalente.
+
+2. Al personal laboral del sector público estatal incluido en el artículo 27 de la Ley 2/2012 le será de aplicación lo dispuesto en el artículo 2, apartado 2.2, de este Real Decreto-ley.
+
+3. De acuerdo con lo dispuesto en el artículo 2 de este Real Decreto-ley, el personal a que se refiere el artículo 31, apartados Uno y Dos, de la Ley 2/2012 no percibirá, en el mes de diciembre de 2012, ninguna cuantía en concepto de paga extraordinaria, incluida la que se establece en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011.
+
+En todo caso, el porcentaje de minoración en la cuantía total anual de sueldo y trienios o antigüedad será análogo al previsto, para dichos conceptos, para el personal al que se refiere el apartado 1 de este mismo artículo. A tal efecto, a este personal se les reintegrará, en su caso, la cuantía correspondiente a la diferencia entre el porcentaje que supone la paga extraordinaria por dichos conceptos respecto de la paga ordinaria para los miembros de las carreras judicial y fiscal y el que supone para el personal del subgrupo A1 de la Administración General del Estado.
+
+3 bis. Respecto al personal al que se refiere el artículo 31, apartado Tres, de la Ley 2/2012, la aplicación de lo previsto en el artículo 2 de este Real Decreto-ley se llevará a cabo, de acuerdo con lo dispuesto en la Ley Orgánica del Poder Judicial, respecto de los conceptos de sueldo y trienios, minorando la cuantía total anual por dichos conceptos, incluida las de las pagas extraordinarias, en un porcentaje análogo al que supone, respecto a idénticos conceptos, la reducción establecida para el personal al que se refiere el apartado 1 de este mismo artículo, con referencia para cada Cuerpo al grupo o subgrupo de titulación asimilable, y prorrateando dicha minoración entre las mensualidades ordinarias y extraordinarias pendientes de percibir en el presente ejercicio. Tampoco percibirán, en el mes de diciembre, por integrar las pagas extraordinarias, las cuantías que se recogen en el Anexo XI de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011, ni las correspondientes al citado mes de diciembre a las que alude el apartado segundo del Acuerdo de Consejo de Ministros de 8 de mayo de 2009, publicado por Orden 1230/2009, de 18 de mayo, del Ministerio de la Presidencia.
+
+3 ter. Al personal incluido en el artículo 31, apartado cuatro, le serán de aplicación las reducciones previstas en el presente artículo de acuerdo a la normativa que les resulte de aplicación.
+
+4. A los miembros del Poder Judicial y del Ministerio Fiscal a que se refiere el apartado Cinco del artículo 31 de la Ley 2/2012, a excepción del Fiscal General del Estado, en aplicación de lo dispuesto en el artículo 2 de este Real Decreto-ley se les reducirá una catorceava parte de las retribuciones totales anuales en concepto de sueldo y de antigüedad o trienios y la totalidad de la paga correspondiente al mes de diciembre que figura en el Anexo X de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para 2011.
+
+Al Fiscal General del Estado, en aplicación de lo dispuesto en el artículo 2.5 de este Real Decreto-ley, se le reducirá una catorceava parte de las retribuciones totales anuales que figuran para dicho cargo en el apartado Cinco, puntos 2 y 3, del citado artículo 31.
+
+La citada minoración se prorrateará entre las nóminas pendientes de percibir en el presente ejercicio a partir de la entrada en vigor de este Real Decreto-ley.
+
+5. Lo dispuesto en los apartados anteriores no será de aplicación a aquellos empleados públicos cuyas retribuciones por jornada completa, excluidos incentivos al rendimiento, no alcancen en cómputo anual 1,5 veces el salario mínimo interprofesional establecido en el Real Decreto 1888/2011, de 30 de diciembre.»
+
+Dos. Se adiciona un nuevo artículo 5 bis, con el siguiente contenido:
+
+«Artículo 5 bis. Cuotas de derechos pasivos y de las Mutualidades en el mes de diciembre de 2012.
+
+Las cuantías mensuales en concepto de cuotas de derechos pasivos de los funcionarios civiles del Estado, del personal de las Fuerzas Armadas, de los miembros de las Carreras Judicial y Fiscal y de los Cuerpos de Secretarios Judiciales, así como las cuantías mensuales de cotización a la Mutualidad General de Funcionarios Civiles del Estado, al Instituto Social de las Fuerzas Armadas y a la Mutualidad General Judicial, se abonarán doblemente en el mes de diciembre de 2012.»

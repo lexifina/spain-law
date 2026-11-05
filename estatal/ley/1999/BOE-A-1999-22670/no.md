@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única de la Ley 29/2014, de 28 de noviembre. Ref. BOE-A-2014-12408#ddunica. Téngase en cuenta que continuarán en vigor las disposiciones a las que expresamente se refieren las disposiciones transitorias de la citada Ley.

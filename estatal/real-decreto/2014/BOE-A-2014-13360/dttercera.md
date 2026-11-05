@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Primer ejercicio económico.
+
+Durante todo el ejercicio 2015 no se alterará la estructura presupuestaria vigente, desarrollando la Agencia Estatal de Seguridad Ferroviaria su actuación de acuerdo con el régimen presupuestario y de rendición de cuentas aplicable a la Dirección General de Ferrocarriles, en los términos previstos en la Ley 22/2013, de 23 de diciembre, y la Ley 47/2003, de 26 de noviembre, General Presupuestaria. Todos los gastos necesarios para el funcionamiento de la Agencia Estatal de Seguridad Ferroviaria se imputarán en la forma y con cargo a los créditos previstos para la Dirección General de Ferrocarriles.

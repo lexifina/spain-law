@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Particularidades de la acción protectora de los trabajadores por cuenta propia agrarios integrados en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.
+
+1. Las cotizaciones satisfechas al Régimen Especial Agrario por los trabajadores por cuenta propia integrados en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos se entenderán efectuadas en este último, teniendo plena validez tanto para perfeccionar el derecho como para determinar la cuantía de las prestaciones previstas en la acción protectora de dicho Régimen Especial.
+
+Sin perjuicio de lo señalado en el párrafo anterior, cuando con anterioridad al 31 de diciembre de 2007 se acrediten periodos de cotización simultáneos en el Régimen Especial Agrario como trabajadores por cuenta propia y en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, tales cotizaciones superpuestas se tendrán en cuenta a los solos efectos de la determinación de la base reguladora de las prestaciones, sin que la suma de bases de cotización pueda superar la base máxima vigente en cada momento en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.
+
+2. Las prestaciones causadas a partir del 1 de enero de 2008 por quienes, como consecuencia de su integración en el Régimen Especial Agrario como trabajadores por cuenta propia, resulten pensionistas de dicho régimen, se regirán por las normas del Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos.

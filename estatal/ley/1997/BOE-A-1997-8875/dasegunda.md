@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Órganos forales de los Territorios Históricos, Cabildos Insulares del archipiélago Canario y Consejos Insulares de las islas Baleares.
+
+En el ámbito de las Comunidades Autónomas del País Vasco, de Canarias y de las Islas Baleares, las competencias que en esta Ley se atribuyen las Comunidades Autónomas podrán ser ejercidas por los órganos forales de sus Territorios Históricos, por los Cabildos y por los Consejos Insulares, respectivamente, de acuerdo con lo establecido en los correspondientes Estatutos de Autonomía y, en su caso, en la legislación de cada Comunidad Autónoma.

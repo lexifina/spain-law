@@ -1,0 +1,7 @@
+La Ley Orgánica 2/2011, de 28 de enero, ha realizado importantes modificaciones en la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General (LOREG). Uno de los aspectos que sufre un cambio profundo es el del régimen jurídico de las campañas electorales, y más concretamente el de los límites temporales a los que deben someterse las candidaturas en las actividades de captación del voto. La finalidad de estas modificaciones es, según la exposición de motivos de la ley, «la reducción del peso de la publicidad y propaganda» en el período electoral y correlativamente «una mayor incidencia» durante el mismo de «la exposición y debate de los programas y propuestas» de las formaciones políticas que participan en las elecciones.
+
+La nueva redacción del artículo 53 de la LOREG limita la posibilidad de que las entidades concurrentes a las elecciones puedan realizar determinados actos de propaganda electoral, como la contratación de espacios publicitarios o la petición directa del voto, antes y después del período de campaña electoral delimitado por el Capítulo VI del Título I de la LOREG. Parece aconsejable la elaboración de unos criterios que faciliten la interpretación de la nueva redacción de la Ley con el fin de otorgar mayor seguridad jurídica a las candidaturas.
+
+Con esta finalidad, la Junta Electoral Central, de conformidad con lo dispuesto en los artículos 19.1.c) y f) de la LOREG, y previa consulta a las formaciones políticas con representación en el Congreso de los Diputados, ha aprobado la siguiente
+
+INSTRUCCIÓN

@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+El Real Decreto 1706/1984, de 30 de agosto, sobre determinación de mínimos exigibles a los productores hortofrutícolas para acogerse al régimen establecido por la Ley 29/1972, de 22 de julio, de Agrupaciones de Productores Agrarios, será de aplicación únicamente en el ámbito territorial de la Comunidad Autónoma de Canarias sólo para los productos regulados por el Reglamento (CEE) número 1.035/1972 del Consejo, de 18 de junio, así como para las Agrupaciones de Productores Agrarios de productos «hortofrutícolas» que comercializan su producción bajo forma de transformados para todo el territorio nacional.

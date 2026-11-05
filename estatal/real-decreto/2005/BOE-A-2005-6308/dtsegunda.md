@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Enclaves existentes a la entrada en vigor del Real Decreto 290/2004, de 20 de febrero.
+
+A las empresas colaboradoras que tengan constituidos enclaves laborales anteriores a la entrada en vigor del Real Decreto 290/2004, de 20 de febrero, por el que se regulan los enclaves laborales como medida de fomento del empleo de las personas con discapacidad, y que opten por la aplicación de dichos enclaves como medida alternativa no les serán de aplicación los procedimientos regulados en los artículos 1 y 3 de este real decreto. No obstante, estarán obligadas a comunicar dicha opción al servicio público de empleo competente, con indicación de los datos recogidos en el artículo 3.c).

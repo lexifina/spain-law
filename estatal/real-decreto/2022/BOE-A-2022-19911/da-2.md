@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Almacenamiento y gestión de la información.
+
+La información almacenada por los diferentes sistemas de información mencionados en la presente Ley, así como su intercambio, deberá hacerse de acuerdo con las indicaciones del Esquema Nacional de Seguridad, el Esquema Nacional de Interoperabilidad y las directrices fijadas por la Oficina del Dato. Toda información no sujeta a consideraciones de privacidad o sometida a propiedad intelectual o secreto comercial, deberá ser publicada como datos abiertos de acuerdo con la normativa de reutilización de la información del sector público.

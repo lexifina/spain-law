@@ -1,0 +1,13 @@
+## Disposición final quinta. Modificación del Real Decreto-ley 20/2020, de 29 de mayo, por el que se establece el ingreso mínimo vital.
+
+Uno. Se añade un nuevo apartado 4 en el artículo 20, en los siguientes términos:
+
+«4. Las resoluciones de las prestaciones de ingreso mínimo vital se comunicaran por el Instituto Nacional de la Seguridad Social, sin necesidad del consentimiento previo del titular de los datos personales, a las comunidades autónomas y entidades locales a través de la adhesión a los procedimientos informáticos con los requisitos establecidos por el Instituto Nacional de la Seguridad Social, con la finalidad de facilitar la información estrictamente necesaria para el reconocimiento y control de las prestaciones competencia de dichas administraciones. La información facilitada no podrá ser utilizada con ninguna otra finalidad si no es con el consentimiento del interesado. Todo ello en aplicación de los artículos 5.1.b) y c) y 6 del Reglamento (UE) n.º 2016/679 y del artículo 8 de la Ley Orgánica 3/2018 de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+En las condiciones establecidas en el párrafo anterior, se comunicaran las resoluciones de las prestaciones del ingreso mínimo vital a los órganos competentes de la Administración General del Estado, de las comunidades autónomas y, en su caso, a las corporaciones locales, para la realización de aquellas actividades que, en el marco de la colaboración y cooperación, deban realizar dichas administraciones, en materia de gestión y control del ingreso mínimo vital que corresponde al Instituto Nacional de la Seguridad Social.
+
+Asimismo, en las condiciones establecidas en el primer párrafo, el Instituto Nacional de la Seguridad Social podrá comunicar de forma telemática, sin el consentimiento previo del titular de los datos personales, la información que resulte necesaria sobre el ingreso mínimo vital a las instituciones y organismos públicos que lo soliciten para que puedan realizar, dentro del ámbito de sus competencias, actuaciones derivadas de la aplicación del ingreso mínimo vital.»
+
+Dos. Se añade un cuarto párrafo al apartado 3 de la disposición transitoria primera, en los siguientes términos:
+
+«En los supuestos en que la unidad de convivencia descrita en la letra b) del apartado 2 tuviera su domicilio en la Comunidad Foral de Navarra o la del País Vasco, la referencia a la Agencia Estatal de Administración Tributaria realizada en el párrafo anterior se entenderá referida a las Haciendas Tributarias Forales de Navarra y de los territorios históricos del País Vasco, respectivamente.»

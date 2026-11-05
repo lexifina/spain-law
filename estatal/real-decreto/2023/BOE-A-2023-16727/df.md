@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del Real Decreto 992/2022, de 29 de noviembre, por el que se establece el marco de actuación para un uso sostenible de antibióticos en especies de interés ganadero.
+
+El apartado 3 del artículo 4 del Real Decreto 992/2022, de 29 de noviembre, por el que se establece el marco de actuación para un uso sostenible de antibióticos en especies de interés ganadero, queda redactado como sigue:
+
+> «3. En el caso de los antibióticos de categoría B según los dispuesto en el Documento «Categorización de antibióticos en la Unión Europea» (EMA/CVMP/CHMP/682198/2017) y sus versiones posteriores, o en el Real Decreto 666/2023, de 18 de julio, por el que se regula la distribución, prescripción, dispensación y uso de medicamentos veterinarios, en aquellas explotaciones en las que el porcentaje trimestral de antibióticos de esta categoría sea un 25 % superior al indicador de referencia para esa especie y clasificación zootécnica, la autoridad competente realizará, además, una revisión de las prescripciones de estos antibióticos para verificar que se hayan realizado acorde a la normativa.»

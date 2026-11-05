@@ -1,0 +1,3 @@
+## Disposición final única. Elaboración de un texto único.
+
+Con el objeto de facilitar la consulta de los Planes Hidrológicos de cuenca de carácter intercomunitario, el Ministerio de Medio Ambiente elaborará un texto único en el que se recojan de forma sistemática y homogénea las determinaciones de contenido normativo incluidas en los diferentes planes. Dicho texto, que en ningún caso podrá introducir modificaciones sobre los planes aprobados, una vez informado por los Consejos del Agua de cada cuenca, será publicado en el «Boletín Oficial del Estado» en el plazo de nueve meses a partir de la fecha de aprobación del presente Real Decreto.

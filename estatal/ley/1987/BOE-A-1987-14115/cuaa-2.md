@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta.
+
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Ley 18/1994, de 30 de junio. Ref. BOE-A-1994-15242.

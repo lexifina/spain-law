@@ -1,0 +1,19 @@
+La Junta Electoral Central el pasado 11 de marzo de 2019 aprobó su Instrucción 5/2019 para garantizar el derecho de sufragio de las personas con discapacidad sobre aplicación de la modificación de la LOREG llevada a cabo por la Ley Orgánica 2/2018.
+
+Sin embargo, con posterioridad ha recibido diferentes escritos que permiten apreciar que resulta aconsejable modificar algunas de las expresiones incluidas en la referida Instrucción con el objeto de procurar una mejor aplicación de la finalidad y el espíritu previsto por el legislador.
+
+La Ley Orgánica 2/2018, de 5 de diciembre, ha modificado la Ley Orgánica del Régimen Electoral General en un doble sentido. En primer lugar suprimiendo los párrafos b) y c) del apartado 1 del artículo 3, que establecía que carecían de derecho de sufragio «los declarados incapaces en virtud de sentencia judicial firme, siempre que la misma declare expresamente la incapacidad para el ejercicio del derecho de sufragio»; y «los internados en un hospital psiquiátrico con autorización judicial, durante el periodo que dure su internamiento, siempre que en la autorización el juez declare expresamente la incapacidad para el ejercicio del derecho de sufragio».
+
+La segunda modificación consiste en sustituir la redacción del apartado 2 del citado artículo 3 –que establecía el deber de los jueces o tribunales que entiendan de los procedimientos de incapacitación o internamiento de pronunciarse expresamente sobre la incapacidad para el ejercicio de sufragio, así como de su comunicación al Registro Civil para que procediese a la correspondiente anotación– por un nuevo texto que indica lo siguiente: «toda persona podrá ejercer su derecho de sufragio activo, consciente, libre y voluntariamente, cualquiera que sea su forma de comunicarlo y con los medios de apoyo que requiera».
+
+La modificación legal concluye con una nueva disposición adicional octava con el siguiente texto: «A partir de la entrada en vigor de la Ley de modificación de la Ley Orgánica del Régimen Electoral General para adaptarla a la Convención Internacional sobre los Derechos de las Personas con Discapacidad, quedan sin efecto las limitaciones en el ejercicio del derecho de sufragio establecidas por resolución judicial fundamentadas jurídicamente en el apartado 3.1.b) y c) de la Ley Orgánica 5/1985, de 19 de junio, ahora suprimidas. Las personas a las que se les hubiere limitado o anulado su derecho de sufragio por razón de discapacidad quedan reintegradas plenamente en el mismo por ministerio de la ley».
+
+En consecuencia, a partir del 7 de diciembre de 2018 –fecha de entrada en vigor de la referida Ley Orgánica 2/2018– han quedado eliminados de nuestro ordenamiento electoral los dos supuestos de incapacidad electoral de naturaleza civil que preveían los párrafos b) y c) del apartado 1 del artículo 3 de la LOREG.
+
+No obstante, la nueva redacción del apartado 2 del artículo 3, en la que se señala que el derecho de sufragio activo debe ejercerse de forma «consciente, libre y voluntariamente», así como la referencia a las formas de comunicar el ejercicio de este derecho y los medios de apoyo que se requieran, suscita problemas interpretativos que no han quedado resueltos por el legislador.
+
+En tanto el legislador no establezca ninguna concreción a estas cuestiones, ante la cercanía de varios procesos electorales, la Junta Electoral Central considera que resulta necesario clarificar estos extremos, para que las Mesas Electorales puedan seguir un criterio uniforme de actuación.
+
+Por ello, en ejercicio de su potestad de unificación de criterios interpretativos consagrada en el artículo 19.1 f) de la LOREG, en su sesión celebrada el 18 de marzo de 2019, ha acordado aprobar el texto definitivo de esta Instrucción en los siguientes términos:
+
+INSTRUCCIÓN

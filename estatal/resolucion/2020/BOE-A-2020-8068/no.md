@@ -1,0 +1,1 @@
+Téngase en cuenta que la exención que concede la presente Resolución es aplicable hasta el 25 de abril de 2021, según establece su apartado cuarto, por lo que debe entenderse que ha perdido su vigencia.

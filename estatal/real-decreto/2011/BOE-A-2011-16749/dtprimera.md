@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen transitorio de aplicación de las nuevas fórmulas.
+
+La revisión de precios de los contratos derivados de procedimientos de adjudicación que ya se hubieran iniciado a la entrada en vigor de la presente disposición estará sujeta a las fórmulas polinómicas anteriormente vigentes que por su naturaleza les correspondan. A estos efectos se entenderá que los procedimientos de adjudicación han sido iniciados si se hubiera publicado la convocatoria del procedimiento de adjudicación del contrato. En el caso de procedimientos no sujetos a publicidad, para determinar el momento de su iniciación se tomará en cuenta la fecha de aprobación del expediente.

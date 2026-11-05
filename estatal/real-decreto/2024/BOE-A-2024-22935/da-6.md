@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Medios personales, técnicos y presupuestarios de los órganos colegiados.
+
+De acuerdo con lo previsto en el Real Decreto 776/2011, de 3 de junio, por el que se suprimen determinados órganos colegiados y se establecen criterios para la normalización en la creación de órganos colegiados en la Administración General del Estado y sus Organismos Públicos, la creación y funcionamiento de los órganos colegiados que se regulan en este real decreto será atendido con los medios personales, técnicos y presupuestarios asignados al órgano superior o directivo en el cual se encuentren integrados.

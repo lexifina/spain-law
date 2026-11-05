@@ -1,0 +1,3 @@
+## Artículo 6. Aprobación de las instrucciones de cumplimentación del comprobante de entrega en avituallamientos a aeronaves y el procedimiento para la presentación a la AEAT, por vía telemática, de la información contenida en los comprobantes de entrega.
+
+A efectos de lo dispuesto en el artículo 101 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio, se aprueban las instrucciones de cumplimentación del Modelo de comprobante de entrega y las instrucciones para elaborar los mensajes electrónicos de comunicación a la AEAT, por vía electrónica, de la información contenida en los comprobantes de entrega así como los plazos para su presentación, las cuales se acompañan como anexo VII.

@@ -1,0 +1,1 @@
+Véase la Instrucción de 10 de enero de 2013, de la Dirección General de los Registros y del Notariado, que modifica la directriz segunda y tercera en relación con el lugar de celebración de los matrimonios civiles, en los términos expresados en la misma. Ref. BOE-A-2013-1554

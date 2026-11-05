@@ -1,0 +1,7 @@
+## Artículo segundo. Modificación del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+Se añade una letra e) en el artículo 6.3 del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito, con la siguiente redacción:
+
+«e) Las entidades de crédito que pertenezcan a un sistema institucional de protección de los previstos en el artículo 113.7 del Reglamento (UE) n.º 575/2013, de 26 de junio, del Parlamento Europeo y del Consejo, sobre los requisitos prudenciales de las entidades de crédito y las empresas de inversión, y por el que se modifica el Reglamento (UE) n.º 648/2012, que haya constituido un fondo ex ante que garantice que el sistema institucional de protección tiene fondos directamente a su disposición para medidas de apoyo a la liquidez y solvencia y que contribuyan a la prevención de la resolución, podrán realizar aportaciones de menor cuantía al Fondo de Garantía de Depósitos.
+
+Respecto a los sistemas institucionales de protección referidos en la disposición adicional quinta de la Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de las entidades de crédito, las entidades centrales y las entidades de crédito integrantes de dichos sistemas, estarán sujetas globalmente a la ponderación por riesgo determinada a efectos del cálculo de las contribuciones al Fondo de Garantía de Depósitos, para la entidad central y las integrantes de forma consolidada.»

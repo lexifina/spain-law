@@ -1,0 +1,5 @@
+## Artículo veintiuno.
+
+El Banco Hipotecario dentro de los limites y con las condiciones que exija el Ministerio de Hacienda, podrá emitir cédulas para la financiación de viviendas sociales, sin perjuicio de los créditos que se destinen a igual finalidad por el Banco de Crédito a la Construcción. A dichas cédulas que podrán declararse computables en el coeficiente de fondos públicos de las Cajas de. Ahorro, no le será de aplicación lo dispuesto en el número diez del artículo veintiuno del Código de Comercio, ni en el capitulo séptimo de la Ley de Régimen Jurídico de las Sociedades Anónimas de diecisiete de julio de mil novecientos cincuenta y uno.
+
+El capital e intereses de estas cédulas gozarán de las garantías previstas en el artículo treinta y siguientes de la Ley de Creación del Banco, de dos de diciembre de mil ochocientos setenta y dos, y sus portadores no podrán ejercer otra acción para recobrar los capitales e intereses exigibles que aquella de que pueden hacer uso directamente contra el Banco emisor.

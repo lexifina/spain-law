@@ -1,0 +1,1 @@
+Téngase en cuenta que, con fecha de 23 de febrero de 2022, se ha publicado el Real Decreto 152/2022, de 22 de febrero, por el que se fija el salario mínimo interprofesional para 2022, con efectos de 1 de enero de 2022. Ref. BOE-A-2022-2851

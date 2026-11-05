@@ -1,0 +1,3 @@
+## Disposición adicional decimocuarta. Fomento del empleo de las personas con discapacidad.
+
+Las entidades privadas que aspiren a gestionar por vía de concierto prestaciones o servicios del Sistema para la Autonomía y Atención a la Dependencia deberán acreditar con carácter previo, en el caso de que vinieran obligadas a ello, el cumplimiento de la cuota de reserva para personas con discapacidad o, en su defecto, las medidas de carácter excepcional establecidas en el artículo 38 de la Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos, y reguladas en el Real Decreto 364/2005, de 8 de abril.

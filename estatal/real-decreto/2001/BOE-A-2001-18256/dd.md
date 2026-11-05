@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Se deroga el capítulo II del título II del Reglamento de desarrollo de la Ley 31/1987, de 18 de diciembre, de Ordenación de las Telecomunicaciones, en relación con el dominio público radioeléctrico y los servicios de valor añadido que utilicen dicho dominio, aprobado por Real Decreto 844/1989, de 7 de julio.

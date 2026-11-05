@@ -1,0 +1,3 @@
+## Artículo 31. Valoración de las participaciones de los socios o asociados en las cooperativas a efectos del Impuesto extraordinario sobre el Patrimonio de las Personas Físicas.
+
+A efectos de lo dispuesto en el artículo 6.º, f), de la Ley 50/1977, de 14 de noviembre, sobre Medidas Urgentes de Reforma Fiscal, la valoración de las participaciones de los socios o asociados en el capital social de las cooperativas se determinará en función del importe total de las aportaciones sociales desembolsadas, obligatorias o voluntarias, resultante del último balance aprobado, con deducción, en su caso, de las pérdidas sociales no reintegradas.

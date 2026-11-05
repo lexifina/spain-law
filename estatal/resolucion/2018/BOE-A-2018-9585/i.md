@@ -1,0 +1,11 @@
+## I. Objeto y ámbito de aplicación
+
+Mediante la presente Instrucción, el Tribunal de Cuentas concreta la información y documentación contractual que han de remitir las entidades y entes del Sector Público Local en cumplimiento de la LCSP, cuya entrada en vigor tuvo lugar el 9 de marzo de 2018, y del artículo 40 de la LFTCu, así como el procedimiento y el medio para llevarlo a cabo. De este modo, queda normalizado el cumplimiento de las obligaciones que en este ámbito recaen sobre las entidades del Sector Público Local y se facilita el ejercicio de la fiscalización en la materia, ya que, al disponerse de información sobre el conjunto de la contratación celebrada en cada ejercicio por todos los órganos, organismos o entidades de este Sector, resulta posible proceder a una adecuada planificación y ejecución del control en este área de la gestión.
+
+La obligación de remisión de documentación contractual por parte de los órganos, organismos y entidades del Sector Público Local se configura del siguiente modo:
+
+1. Anualmente, y dentro de los dos primeros meses de cada ejercicio, deberán remitirse las relaciones certificadas comprensivas de los contratos celebrados en el ejercicio precedente, incluidos los contratos menores, excepto aquellos de importe inferior a 5.000 euros que se hayan satisfecho a través del sistema de anticipo de caja fija u otro similar para realizar pagos menores, de acuerdo con lo establecido en el Apartado III.1 de esta Instrucción. En caso de no haberse celebrado contratos, deberá aportarse una certificación negativa.
+
+2. Dentro de los tres meses siguientes a la formalización de cada contrato o acuerdo marco, habrá de enviarse copia del documento de formalización acompañada del extracto del expediente del contrato siempre que el precio de adjudicación del contrato o, en el caso de los acuerdos marco, su valor estimado, excedan de determinadas cuantías en los términos que se recogen en el Apartado III.2.Primero de esta Instrucción.
+
+3. Dentro de los tres meses siguientes a la fecha en la que tengan lugar, deberán comunicarse las modificaciones, prórrogas o variaciones de plazos, las variaciones de precio y el importe final, la nulidad y la extinción normal o anormal de los contratos, de acuerdo con lo dispuesto en el Apartado III.2. Segundo de esta Instrucción.

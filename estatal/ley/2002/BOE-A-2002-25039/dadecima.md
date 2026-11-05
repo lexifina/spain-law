@@ -1,0 +1,3 @@
+## Disposición adicional décima. Régimen tributario del Instituto de España y las Reales Academias integradas en el mismo, así como de las instituciones de las Comunidades Autónomas que tengan fines análogos a los de la Real Academia Española.
+
+Las exenciones establecidas en el artículo 15 de esta Ley serán de aplicación al Instituto de España y a las Reales Academias integradas en el mismo, así como a las instituciones de las Comunidades Autónomas con lengua oficial propia que tengan fines análogos a los de la Real Academia Española. Estas entidades serán consideradas entidades beneficiarias del mecenazgo a los efectos previstos en los artículos 16 a 25, ambos inclusive, de esta Ley.

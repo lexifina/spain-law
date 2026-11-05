@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Puestos reservados a funcionarios de Administración Local con habilitación de carácter nacional en consorcios locales creados con anterioridad a la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local.
+
+Los puestos reservados a funcionarios de Administración Local con habilitación de carácter nacional en consorcios locales creados con anterioridad a la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local se podrán declarar a extinguir o reclasificar en puestos de colaboración de la Entidad Local a la que se adscriban.

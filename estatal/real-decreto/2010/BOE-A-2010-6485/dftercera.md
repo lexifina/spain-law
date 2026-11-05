@@ -1,0 +1,3 @@
+## Disposición final tercera. Facultad de desarrollo.
+
+Se autoriza al Ministro de Trabajo e Inmigración, previo informe de la Comisión Nacional de Seguridad y Salud en el Trabajo, a dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de este real decreto, así como para las adaptaciones de carácter estrictamente técnico de sus anexos, en función del progreso técnico y de la evolución de las normativas o especificaciones internacionales o de los conocimientos en materia de protección frente a los riesgos relacionados con la exposición a las radiaciones ópticas artificiales.

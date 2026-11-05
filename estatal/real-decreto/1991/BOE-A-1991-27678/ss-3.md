@@ -1,0 +1,1 @@
+## Sección segunda: responsables subsidiarios

@@ -1,0 +1,9 @@
+## Disposición transitoria única. Prórroga de las medidas recogidas en el título I y la disposición adicional primera del Real Decreto-ley 11/2021, de 27 de mayo, sobre medidas urgentes para la defensa del empleo, la reactivación económica y la protección de los trabajadores autónomos.
+
+Las previsiones recogidas en el título I y la disposición adicional primera del Real Decreto-ley 11/2021, de 27 de mayo, seguirán siendo de aplicación hasta el 31 de octubre de 2021, respecto de los expedientes de regulación temporal de empleo vigentes a 30 de septiembre de 2021, con los porcentajes de exención que les hubiere correspondido durante el mes de septiembre de 2021.
+
+Las previsiones a que se refiere el párrafo anterior se aplicarán igualmente a los expedientes de regulación temporal de empleo que se aprueben o comuniquen entre el 1 y el 31 de octubre, en los mismos supuestos y con las mismas condiciones y exenciones que les hubiesen correspondido durante el mes de septiembre de 2021, según proceda respectivamente para cada tipo de expediente y en los términos y condiciones establecidos en el Real Decreto-ley 11/2021, de 27 de mayo.
+
+La tramitación de estos últimos se llevará a cabo conforme a lo dispuesto en el Real Decreto-ley 11/2021, de 27 de mayo. Sin perjuicio de lo anterior, les resultará de aplicación lo establecido en la disposición adicional quinta en los mismos términos que a los expedientes que, a partir del 1 de noviembre, se autoricen o comuniquen conforme al artículo 2 de este real decreto-ley.
+
+> Téngase en cuenta que se prorrogarán hasta el 31 de marzo de 2022 los expedientes de regulación temporal de empleo vigentes a la fecha de entrada en vigor del Real Decreto-ley 2/2022, de 22 de febrero, y que hubiesen sido autorizados con arreglo a la presente disposición, según establece su disposición adicional primera. Ref. BOE-A-2022-2849#d

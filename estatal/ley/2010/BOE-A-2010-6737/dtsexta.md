@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Régimen de la instrumentación de compromisos por pensiones de entidades cuyas acciones sean al portador.
+
+A los efectos de lo dispuesto en el artículo 4.4, los contratos de seguro colectivo y planes de pensiones formalizados antes de la entrada en vigor de esta Ley que instrumenten compromisos por pensiones de las empresas en cumplimiento de lo dispuesto en la Disposición adicional primera del Texto Refundido de la Ley de regulación de los planes y fondos de pensiones, aprobado por Real Decreto Legislativo 1/2002, de 29 de noviembre, conservarán su vigencia para la instrumentación de dichos compromisos.

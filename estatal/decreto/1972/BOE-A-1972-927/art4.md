@@ -1,0 +1,3 @@
+## Art. 4.º
+
+Los pensionistas que pasen a residir o residan fuera del territorio nacional, peninsular e insular y los que se trasladen al extranjero darán cuenta oportuna de estos hechos a la Dirección General del Tesoro y Presupuestos, designando la provincia en que hayan de percibir sus haberes pasivos, quedando obligados a justificar su residencia y estado civil; en su caso, y que conservan la nacionalidad española, con certificación expedida por el Cónsul o Agente consular del punto de residencia o por la Autoridad española si residen en las provincias y territorios españoles de África, no pudiendo percibir haberes pasivos sin cumplir estos requisitos.

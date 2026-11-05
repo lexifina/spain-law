@@ -1,0 +1,37 @@
+## Disposición final tercera. Conceptos computables en la base de cotización al Régimen General de la Seguridad Social.
+
+El artículo 109 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, queda redactado en los siguientes términos:
+
+«Artículo 109. Base de cotización.
+
+1. La base de cotización para todas las contingencias y situaciones amparadas por la acción protectora del Régimen General, incluidas las de accidente de trabajo y enfermedad profesional, estará constituida por la remuneración total, cualquiera que sea su forma o denominación, tanto en metálico como en especie, que con carácter mensual tenga derecho a percibir el trabajador o asimilado, o la que efectivamente perciba de ser ésta superior, por razón del trabajo que realice por cuenta ajena.
+
+Las percepciones de vencimiento superior al mensual se prorratearán a lo largo de los doce meses del año.
+
+Las percepciones correspondientes a vacaciones anuales devengadas y no disfrutadas y que sean retribuidas a la finalización de la relación laboral serán objeto de liquidación y cotización complementaria a la del mes de la extinción del contrato. La liquidación y cotización complementaria comprenderán los días de duración de las vacaciones, aun cuando alcancen también el siguiente mes natural o se inicie una nueva relación laboral durante los mismos, sin prorrateo alguno y con aplicación, en su caso, del tope máximo de cotización correspondiente al mes o meses que resulten afectados.
+
+No obstante lo establecido en el párrafo anterior, serán aplicables las normas generales de cotización en los términos que reglamentariamente se determinen cuando, mediante ley o en ejecución de la misma, se establezca que la remuneración del trabajador debe incluir, conjuntamente con el salario, la parte proporcional correspondiente a las vacaciones devengadas.
+
+2. Únicamente no se computarán en la base de cotización los siguientes conceptos:
+
+a) Las asignaciones para gastos de locomoción del trabajador que se desplace fuera de su centro habitual de trabajo para realizar el mismo en lugar distinto, cuando utilice medios de transporte público, siempre que el importe de dichos gastos se justifique mediante factura o documento equivalente.
+
+b) Las asignaciones para gastos de locomoción del trabajador que se desplace fuera de su centro habitual de trabajo para realizar el mismo en lugar distinto, no comprendidos en el apartado anterior, así como para gastos normales de manutención y estancia generados en municipio distinto del lugar del trabajo habitual del perceptor y del que constituya su residencia, en la cuantía y con el alcance previstos en la normativa estatal reguladora del Impuesto sobre la Renta de la Personas Físicas.
+
+c) Las indemnizaciones por fallecimiento y las correspondientes a traslados, suspensiones y despidos.
+
+Las indemnizaciones por fallecimiento y las correspondientes a traslados y suspensiones estarán exentas de cotización hasta la cuantía máxima prevista en norma sectorial o convenio colectivo aplicable.
+
+Las indemnizaciones por despido o cese del trabajador estarán exentas en la cuantía establecida con carácter obligatorio en la Ley del Estatuto de los Trabajadores, en su normativa de desarrollo o, en su caso, en la normativa reguladora de la ejecución de sentencias, sin que pueda considerarse como tal la establecida en virtud de convenio, pacto o contrato.
+
+Cuando se extinga el contrato de trabajo con anterioridad al acto de conciliación, estarán exentas las indemnizaciones por despido que no excedan de la que hubiera correspondido en el caso de que éste hubiera sido declarado improcedente, y no se trate de extinciones de mutuo acuerdo en el marco de planes o sistemas colectivos de bajas incentivadas.
+
+Sin perjuicio de lo dispuesto en los párrafos anteriores, en los supuestos de despido o cese como consecuencia de despidos colectivos, tramitados de conformidad con lo dispuesto en el artículo 51 de la Ley del Estatuto de los Trabajadores, o producidos por las causas previstas en la letra c) del artículo 52 de la citada Ley, siempre que en ambos casos se deban a causas económicas, técnicas, organizativas, de producción o por fuerza mayor, quedará exenta la parte de indemnización percibida que no supere los límites establecidos con carácter obligatorio en el mencionado Estatuto para el despido improcedente.
+
+d) Las prestaciones de la Seguridad Social, las mejoras de las prestaciones por incapacidad temporal concedidas por las empresas y las asignaciones destinadas por éstas para satisfacer gastos de estudios dirigidos a la actualización, capacitación o reciclaje del personal a su servicio, cuando tales estudios vengan exigidos por el desarrollo de sus actividades o las características de los puestos de trabajo.
+
+e) Las horas extraordinarias, salvo para la cotización por accidentes de trabajo y enfermedades profesionales de la Seguridad Social.
+
+3. Los empresarios deberán comunicar a la Tesorería General de la Seguridad Social en cada período de liquidación el importe de todos los conceptos retributivos abonados a sus trabajadores, con independencia de su inclusión o no en la base de cotización a la Seguridad Social y aunque resulten de aplicación bases únicas.
+
+4. No obstante lo dispuesto en el apartado 2.e), el Ministerio de Empleo y Seguridad Social podrá establecer el cómputo de las horas extraordinarias, ya sea con carácter general, ya sea por sectores laborales en los que la prolongación de la jornada sea característica de su actividad.»

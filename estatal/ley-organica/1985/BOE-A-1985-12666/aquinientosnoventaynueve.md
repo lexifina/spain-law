@@ -1,0 +1,41 @@
+## Artículo 599.
+
+1. El Pleno conocerá de las siguientes materias:
+
+1.ª La propuesta de nombramiento, por mayoría de tres quintos, de los dos Magistrados del Tribunal Constitucional cuya designación corresponde al Consejo General del Poder Judicial, que tendrá que realizarse en el plazo máximo de tres meses a contar desde el día siguiente al vencimiento del mandato anterior.
+
+2.ª La propuesta de nombramiento, en los términos previstos por esta Ley Orgánica, del Presidente del Tribunal Supremo y del Consejo General del Poder Judicial, así como la emisión del informe previo sobre el nombramiento del Fiscal General del Estado.
+
+3.ª El nombramiento, en los términos previstos por esta Ley Orgánica, del Vicepresidente del Tribunal Supremo, del Secretario General y del Vicesecretario General del Consejo General del Poder Judicial.
+
+4.ª Todos los nombramientos o propuestas de nombramientos y promociones que impliquen algún margen de discrecionalidad o apreciación de méritos. En estos nombramientos se garantizará el principio de presencia equilibrada de mujeres y hombres, de tal manera que las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento.
+
+5.ª La interposición del conflicto de atribuciones entre órganos constitucionales del Estado.
+
+6.ª La elección y nombramiento de los Vocales componentes de las diferentes Comisiones.
+
+7.ª El ejercicio de la potestad reglamentaria en los términos previstos en esta Ley.
+
+8.ª La aprobación del Presupuesto del Consejo General del Poder Judicial y la recepción de la rendición de cuentas de su ejecución.
+
+9.ª La aprobación de la Memoria anual.
+
+10.ª La resolución de aquellos expedientes disciplinarios en los que la propuesta de sanción consista en la separación de la carrera judicial.
+
+11.ª La resolución de los recursos de alzada interpuestos contra los acuerdos sancionadores de la Comisión Disciplinaria y los que se interpongan contra los de la Comisión Permanente.
+
+12.ª La aprobación de los informes sobre los anteproyectos de ley o de disposiciones generales que se sometan a su dictamen por el Gobierno o las Cámaras legislativas y las Comunidades Autónomas.
+
+13.ª Las demás que le atribuye esta Ley, las que no estén conferidas a otros órganos del Consejo y aquellos asuntos que, por razones excepcionales, acuerde recabar para sí.
+
+2. El Pleno designará un máximo de dos Vocales por cada Comunidad Autónoma para que, sin perjuicio de las competencias de los respectivos Tribunales Superiores de Justicia, sirvan de cauce de interlocución entre las instituciones y autoridades del territorio y el Consejo General del Poder Judicial.
+
+> Se modifica el apartado 1.4ª por el art. 6.2 de la Ley Orgánica 2/2024, de 1 de agosto. Ref. BOE-A-2024-15936#as-2
+
+> Se modifica el apartado 1.1ª por el art. único.2 de la Ley Orgánica 8/2022, de 27 de julio. Ref. BOE-A-2022-12579#au
+
+> Se modifica por el art. único.53 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987
+
+> Esta modificación no será de aplicación hasta la constitución del primer Consejo General del Poder Judicial que lo haga tras la entrada en vigor de la citada Ley Orgánica, según establece su disposición transitoria tercera.
+
+> Se añade por el art. único.1 de la Ley Orgánica 4/2013, de 28 de junio. Ref. BOE-A-2013-7061.

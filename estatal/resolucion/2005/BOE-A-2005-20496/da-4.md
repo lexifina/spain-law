@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Utilización de servicios web proporcionados por la Intervención General de la Administración del Estado.
+
+En el supuesto del apartado quinto de esta Resolución, se podrá realizar el envío del lote de documentos contables mediante comunicación entre sistemas en el entorno cerrado de la Intervención General de la Administración del Estado y de sus Intervenciones delegadas, así como por medios telemáticos entre los sistemas de gestión y los sistemas de la Intervención General de la Administración del Estado, cuando se utilicen servicios web proporcionados a tal efecto por la propia Intervención General de la Administración del Estado. En este caso, podrá sustituirse la ficha resumen del anexo III por una relación de los documentos contables remitidos, que tendrá el mismo formato de dicha ficha resumen pero se podrá prescindir de los datos relativos al nombre del fichero de envío y a la clave de control del fichero.
+
+> Se añade por el art. primero.2 de la Resolución de 20 de octubre de 2010. Ref. BOE-A-2010-16393

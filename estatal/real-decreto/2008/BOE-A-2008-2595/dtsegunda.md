@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Selección de personal.
+
+Con carácter excepcional, durante los dos primeros años desde la fecha de entrada en funcionamiento de la Agencia se empleará de manera preferente como sistema de selección del personal funcionario que vaya a incorporarse en la Agencia, bien en los cuerpos de Ingenieros e Ingenieros Técnicos Aeronáuticos del Estado o en las especialidades de las Escalas de Técnicos Facultativos Superiores de Organismos Autónomos y de Titulados de Escalas Técnicas de Organismos Autónomos dependientes del Ministerio de Fomento que sean necesarias en la Agencia, el sistema de concurso-oposición, en el que se valorará como mérito la experiencia en el ámbito de actividades atribuidas a la Agencia.

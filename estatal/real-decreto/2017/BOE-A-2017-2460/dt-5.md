@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Negocios jurídicos formalizados con anterioridad a la entrada en vigor del reglamento aprobado por el presente real decreto, afectados por la regulación del mercado secundario del espectro.
+
+La modificación, prórroga o renovación de aquellos negocios jurídicos que hayan sido formalizados con anterioridad a la entrada en vigor del reglamento aprobado por el presente real decreto y que, conforme a lo dispuesto en el título VII, deban ser objeto de autorización por la Secretaría de Estado para la Sociedad de la Información y la Agenda Digital por constituir negocios jurídicos relativos al mercado secundario del espectro, debe ser previamente autorizada en los términos establecidos en el citado título.

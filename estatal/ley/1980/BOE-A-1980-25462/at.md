@@ -1,0 +1,5 @@
+## Artículo tercero.
+
+Uno. Cuando se produzcan las circunstancias a que se hace referencia en el punto c) del artículo anterior, el Estado podrá aprovechar por sí mismo el recurso o recursos de la sección D) o ceder su aprovechamiento por cualquiera de las modalidades que se prevén en el artículo once de la Ley de Minas. Para ello será necesario que, elaborado el programa de trabajos por el Ministerio de Industria y Energía e invitado con las garantías jurídicas suficientes, el titular del permiso o concesión a realizarlo por sí o por tercera persona haya manifestado su renuncia a este derecho o deje de ejercitarlo en el plazo que se le señale.
+
+Dos. En caso de que el Estado lleve a cabo directamente los trabajos relacionados con la reserva o los ceda a terceros, las condiciones a aplicar deberán ser, como mínimo, las fijadas en el programa a que se refiere el párrafo anterior. Los titulares de permisos o concesiones tendrán derecho a ser indemnizados de acuerdo con la Ley y Reglamento de Expropiación Forzosa.

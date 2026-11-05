@@ -1,0 +1,3 @@
+## Disposición transitoria única. Aplicación en el año 2012 del artículo 8.5 de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad.
+
+A los efectos de la aplicación en el año 2012 de lo dispuesto en el artículo 8.5 de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad, se considerará como fecha de comunicación del resultado de la subasta la fecha de entrada en vigor de la presente orden.

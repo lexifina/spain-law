@@ -1,0 +1,1 @@
+Teniendo presente lo dispuesto en la Ley sancionada por Mí con esta fecha, que autoriza al Gobierno para publicar como Ley el proyecto de Código de Comercio, y conformándome con el parecer del Consejo de Ministros, vengo en decretar lo siguiente:

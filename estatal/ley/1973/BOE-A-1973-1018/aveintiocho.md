@@ -1,0 +1,5 @@
+## Artículo veintiocho.
+
+Uno. La autorización o concesión de aprovechamiento de aguas minerales otorga a su titular el derecho exclusivo de utilizarlas, así como el de impedir que se realicen en el perímetro de protección que le hubiere sido fijado trabajos o actividades que puedan perjudicar el normal aprovechamiento de las mismas. La realización de cualquier clase de trabajos subterráneos dentro del perímetro citado deberá contar previamente con la autorización de la Delegación Provincial del Ministerio de Industria, sin perjuicio de las demás exigibles en cada caso. Si los trabajos afectaran al titular de la autorización o concesión quienes los realicen estarán obligados a indemnizar a aquél.
+
+Dos. Será necesaria la previa autorización de la Delegación Provincial del Ministerio de Industria para la modificación o ampliación del aprovechamiento. Las modificaciones en las instalaciones inicialmente aprobadas, así como cualquier paralización que se produzca, deberán comunicarse a la citada Delegación en forma reglamentaria, para la resolución que proceda.

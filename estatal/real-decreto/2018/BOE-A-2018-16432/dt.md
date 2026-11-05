@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Aplicación de la mejora a las pensiones que estuviesen percibiendo las personas beneficiarias en la fecha de entrada en vigor de la Ley de Presupuestos Generales del Estado para el año 2018.
+
+De conformidad con lo previsto en la disposición adicional cuadragésima quinta de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para el año 2018, las pensiones de viudedad que se estén percibiendo en la fecha de entrada en vigor de la misma, cuyas personas beneficiarias cumplan los requisitos previstos en el artículo 2 de este real decreto, se revisarán de oficio por las Direcciones Generales competentes señaladas en su artículo 4. La fecha de efectos de esta revisión será del primer día del mes siguiente al de la entrada en vigor de la citada ley.
+
+A estos efectos, se presumirá que concurre el requisito previsto en el artículo 2.d) cuando los rendimientos obtenidos de acuerdo con la última información facilitada por la Administración Tributaria no superen el límite establecido para ser persona beneficiaria de la pensión mínima de viudedad en el año 2018.

@@ -1,0 +1,23 @@
+## Artículo tercero. Modificación del Real Decreto Legislativo 1/2015, de 24 de julio, por el que se aprueba el texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios.
+
+Uno. El artículo 97 queda redactado de la siguiente forma:
+
+> «Artículo 97. Información económica.
+
+> 1. A los efectos de la fijación de precios, las compañías comercializadoras deberán facilitar al Ministerio de Sanidad toda la información sobre los aspectos técnicos, económicos y financieros. El Ministerio de Sanidad podrá efectuar comprobaciones sobre la información facilitada.
+
+> En concreto, las compañías estarán obligadas a poner en conocimiento del Ministerio de Sanidad cualquier ayuda financiera directa o de otro tipo recibida de cualquiera de las Administraciones públicas y entidades dependientes de ellas, así como filantrópicas y sin ánimo de lucro, para el desarrollo de su medicamento o producto sanitario, así como todo el apoyo financiero público directo recibido para la investigación relacionada con el desarrollo de un antimicrobiano o antiviral de reserva o cualquier otro medicamento que pueda tener un carácter estratégico.
+
+> 2. En el caso de que la empresa esté integrada en un grupo que realice otras actividades, además de las relacionadas con medicamentos, o las desarrolle fuera de España, el Ministerio de Sanidad podrá requerir la información que permita conocer la imputación para determinar los gastos afectados a la actividad farmacéutica en España.
+
+> 3. La información que en virtud de este artículo obtenga la Administración General del Estado será confidencial. Asimismo, los acuerdos de financiación que se alcancen, así como la información derivada de los mismos o de su aplicación, incluyendo los precios de adjudicación de los contratos de suministro de medicamentos que celebren las Administraciones públicas, tendrán carácter confidencial y no podrán ser revelados ni por la Administración General del Estado ni por las empresas u otras entidades que sean parte en dichos acuerdos.
+
+> Esta regla se aplicará sin perjuicio de lo dispuesto en el artículo 106 de esta Ley, así como del acceso que puedan, en su caso, requerir las autoridades de competencia, supervisoras del mercado u otro tipo de actividades inspectoras de conformidad con su legislación aplicable y en el marco de sus competencias, así como las unidades administrativas integrantes de los órganos colegiados de toma de decisiones en el ámbito farmacéutico y sanitario.
+
+> 4. No obstante lo anterior, el Ministerio de Sanidad publicará información accesible para el público general sobre la financiación de cada producto, así como información agregada sobre el gasto en medicamentos y productos sanitarios, que en su caso complementará la publicada por el Ministerio de Hacienda sobre el gasto público asociado a los mismos. Esta información será publicada con periodicidad suficiente, en formatos abiertos y reutilizables, y estará disponible para su análisis independiente.
+
+> 5. El Ministerio de Sanidad elevará anualmente a la Comisión Delegada del Gobierno para Asuntos Económicos un informe sobre sus actuaciones en materia de precios.»
+
+Dos. El apartado 1 del artículo 106 queda redactado de la siguiente forma:
+
+> «1. Al objeto de ejecutar las acciones necesarias para la valoración de la prescripción y de la política farmacéutica general, las Administraciones públicas competentes facilitarán la información necesaria relativa al consumo de medicamentos y productos sanitarios tanto por receta como en los centros hospitalarios y cualesquiera otros ámbitos incluidos dentro de la prestación farmacéutica del Sistema Nacional de Salud, así como la información correspondiente al precio real de adquisición de los mismos. Como mínimo, dicha información se presentará con periodicidad mensual y se facilitará desde las Consejerías responsables de las comunidades autónomas al Ministerio de Sanidad y al Ministerio de Hacienda, telemáticamente por el canal y con la estructura que se establezca reglamentariamente, que efectuarán la agregación y depuración correspondiente antes de hacerla pública.»

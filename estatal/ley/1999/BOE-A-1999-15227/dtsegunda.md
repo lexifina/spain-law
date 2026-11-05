@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Desahucios administrativos y judiciales.
+
+Hasta que se dicten las correspondientes normas de procedimiento, el Consejo Rector del Instituto para la Vivienda de las Fuerzas Armadas podrá acordar la incoación de los procedimientos de desahucio por las causas previstas en el artículo 9 de esta Ley que serán resueltos por el Director general Gerente del Instituto para la Vivienda de las Fuerzas Armadas y se ajustarán al procedimiento señalado en los artículos 142 al 144 del Decreto 2114/1968, de 24 de julio, por el que se aprueba el Reglamento para la aplicación de la Ley sobre viviendas de protección oficial, texto refundido aprobado por Decreto 2131/1963, de 24 de julio, y 3964/1964, de 3 de diciembre.

@@ -1,0 +1,7 @@
+Contra la presente orden que pone fin a la vía administrativa, de acuerdo con lo dispuesto en el artículo 114 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, podrá interponerse recurso contencioso-administrativo ante la Sala de lo Contencioso-administrativo del Tribunal Supremo en el plazo de dos meses, a contar desde el día siguiente al de la publicación de la presente orden de conformidad con el artículo 46.1 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.
+
+También podrá interponerse potestativamente recurso de reposición ante la titular del Ministerio para la Transición Ecológica y el Reto Demográfico en el plazo de un mes, a contar desde el día siguiente al de la publicación de la presente orden significando que, en caso de presentar recurso de reposición, no se podrá interponer recurso contencioso-administrativo hasta que se resuelva expresamente el recurso de reposición o se produzca la desestimación presunta del mismo, en virtud de lo dispuesto en el artículo 123.2 de la citada ley.
+
+Para el cómputo de los plazos por meses habrá de estarse a lo dispuesto en el artículo 30.4 de la citada Ley 39/2015, de 1 de octubre.
+
+Madrid, 16 de marzo de 2022.–La Vicepresidenta Tercera del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico, Teresa Ribera Rodríguez.

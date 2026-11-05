@@ -1,0 +1,3 @@
+## Disposición final segunda. Desarrollo del Derecho de la Unión Europea.
+
+EL artículo cuarto del presente real decreto ley por el que se incorpora la disposición adicional vigésimoprimera a la Ley 24/1988, de 28 de julio, del Mercado de Valores, se dicta en desarrollo del Reglamento (UE) No 1031/2010 de la Comisión, de 12 de noviembre de 2010, sobre el calendario, la gestión y otros aspectos de las subastas de los derechos de emisión de gases de efecto invernadero con arreglo a la Directiva 2003/87/CE del Parlamento Europeo y del Consejo, por la que se establece un régimen para el comercio de derechos de emisión de gases de efecto invernadero en la Comunidad.

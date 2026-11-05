@@ -1,0 +1,7 @@
+El apartado 4 del artículo 16 de la Ley 39/2003, de 17 de noviembre, del Sector Ferroviario, y el apartado 4 del artículo 34 del Reglamento del Sector Ferroviario, aprobado por el Real Decreto 2387/2004, de 30 de diciembre, facultan al Ministerio de Fomento para que pueda establecer en zonas urbanas la línea límite de la edificación a una distancia inferior a la de 50 metros, establecida con carácter general por el apartado 1 de dicho artículo 16, siempre que lo permita el planeamiento urbanístico correspondiente.
+
+En orden a asegurar el más ágil funcionamiento de los servicios en la referida materia, mediante la Orden FOM/1323/2005, de 5 de mayo, se delegó en el Secretario de Estado de Infraestructuras y Planificación el ejercicio de las facultades de reducción de la línea límite de edificación en los supuestos previstos en el artículo 16 de la Ley del Sector Ferroviario.
+
+La particular trascendencia que reviste la modificación de dicha línea en el supuesto previsto en el citado apartado 4 del artículo 16 de la Ley del Sector Ferroviario, la necesidad de una adecuada integración del ferrocarril en las mismas, con plena salvaguarda de la seguridad del tráfico ferroviario y el respeto a las expectativas públicas y privadas que se derivan del planeamiento urbanístico, aconsejan el ejercicio de dicha facultad.
+
+En consecuencia, al amparo de lo establecido en la referida orden, se resuelve:

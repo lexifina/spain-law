@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Sanidad exterior en puertos de interés general.
+
+Las Autoridades Portuarias, como gestoras de los puertos de interés general, pondrán a disposición de los servicios centrales y periféricos de Sanidad Exterior los recursos necesarios con el fin de garantizar la valoración sanitaria y epidemiológica a la entrada de pasajeros internacionales en los puertos de interés general, en los términos que, de común acuerdo, se dispongan entre Puertos del Estado y el Ministerio de Sanidad. En caso de que el ejercicio del control sanitario de pasajeros en régimen de pasaje internacional, no fueran sufragados por fondos procedentes de la Unión Europea para compensar los gastos derivados de la crisis sanitaria ocasionada por el COVID-19, los costes que impliquen el ejercicio de estas funciones se repercutirán en la tasa correspondiente al pasaje.
+
+Las Autoridades Portuarias podrán utilizar el procedimiento de emergencia para las contrataciones de los recursos sanitarios necesarios con el fin de garantizar la valoración sanitaria y epidemiológica a la entrada de pasajeros internacionales en los puertos de interés general.
+
+En todo caso, los datos de salud de los pasajeros obtenidos en el ejercicio de estas funciones de control serán de exclusiva titularidad del Ministerio de Sanidad en la materia objeto de inspección, no pudiendo, en ningún caso, las Autoridades Portuarias o Puertos del Estado almacenar, acceder ni tratarlos por cuenta del Ministerio de Sanidad.

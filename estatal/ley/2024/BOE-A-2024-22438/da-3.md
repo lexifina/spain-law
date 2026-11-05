@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Política de empleo para las personas cuidadoras.
+
+Las personas cuidadoras que se hayan visto obligadas a renunciar a su actividad laboral o profesional por hacerse cargo de personas incluidas en el ámbito de aplicación de esta ley serán consideradas colectivo de atención prioritaria para la política de empleo, en los términos previstos en el artículo 50 de la Ley 3/2023, de 28 de febrero, de Empleo.

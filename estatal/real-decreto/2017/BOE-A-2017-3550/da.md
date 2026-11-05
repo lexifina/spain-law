@@ -1,0 +1,3 @@
+## Disposición adicional primera. Régimen de los procedimientos.
+
+De conformidad con la disposición adicional primera de la Ley, los procedimientos regulados en el presente Reglamento se regirán por su normativa específica y, en lo no previsto por ella, por las disposiciones de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. En particular, las resoluciones dictadas en los procedimientos del presente reglamento serán recurribles de conformidad con lo dispuesto en dicha Ley 39/2015, de 1 de octubre, a excepción del plazo máximo de resolución de los recursos de alzada, que será el fijado en la orden ministerial de plazos máximos.

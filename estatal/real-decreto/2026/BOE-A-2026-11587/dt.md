@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen transitorio relativo a la selección de pacientes, consumidores y profesionales para participar en los grupos de trabajo.
+
+En tanto se desarrollan y publican las normas correspondientes para proponer, seleccionar, incorporar y hacer efectiva la participación en la ETS de organizaciones o asociaciones de pacientes y personas cuidadoras, organizaciones de consumidores y organizaciones profesionales, los representantes de cada uno de estos grupos serán nombrados por los organismos responsables del funcionamiento de los grupos de trabajo en los que van a participar. Estos nombramientos tendrán que ser realizados conforme a las normas una vez que sean adoptadas.

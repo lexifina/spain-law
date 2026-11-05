@@ -1,0 +1,7 @@
+## Séptimo. Extinción del servicio de asesoramiento y ayuda a la pequeña empresa y baja en anteriores servicios de cumplimentación de documentos de cotización.
+
+1. A partir de la fecha de entrada en vigor de esta resolución, queda extinguido el servicio de asesoramiento y ayuda a la pequeña empresa, implantado conforme a lo dispuesto en el apartado séptimo de la Resolución de 28 de marzo de 1989, de la entonces Secretaría General para la Seguridad Social, por la que se establecieron diversas medidas para mejorar la gestión y facilitar el ejercicio de derechos y obligaciones en materia de Seguridad Social.
+
+2. Los códigos de cuenta de cotización que, en la fecha de entrada en vigor de esta resolución, estuvieran incorporados a los servicios de cumplimentación de documentos de cotización puestos a disposición por la Tesorería General de la Seguridad Social en virtud de lo previsto en el citado apartado séptimo de la Resolución de 28 de marzo de 1989, serán dados de baja en esos servicios en la citada fecha, sin perjuicio de que los empresarios titulares de tales códigos que cumplan los requisitos especificados en el apartado segundo, podrán solicitar la incorporación al servicio de apoyo a la cotización para la confección del correspondiente documento electrónico de pago.
+
+Dicha incorporación tendrá lugar en los términos y condiciones establecidos en los apartados precedentes de esta resolución.

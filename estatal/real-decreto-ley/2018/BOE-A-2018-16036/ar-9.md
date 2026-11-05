@@ -1,0 +1,5 @@
+## Artículo 9. Acceso a cuentas abiertas en entidades de crédito.
+
+Las entidades de pago tendrán acceso a los servicios de cuentas de pago de las entidades de crédito de forma objetiva, no discriminatoria y proporcionada. Dicho acceso será lo suficientemente amplio como para permitir que las entidades de pago presten servicios de pago sin obstáculos y con eficiencia.
+
+En caso de denegación por una entidad de crédito de la solicitud de apertura de una cuenta de pago por parte de una entidad de pago o de la resolución unilateral por una entidad de crédito del contrato marco de una entidad de pago, la entidad de crédito remitirá de forma inmediata al Banco de España y a la entidad de pago la decisión debidamente motivada y basada, en particular, en un análisis de los riesgos específicos de la entidad de pago concreta de que se trate o en la falta de adecuación a los criterios objetivos, no discriminatorios y proporcionados que la entidad de crédito haya hecho públicos de forma previa y general.

@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Inspección y control de las embarcaciones de recreo.
+
+1. La inspección y control de la construcción de las embarcaciones de recreo a las que sea de aplicación el Real Decreto 297/1998, de 27 de febrero, por el que se regulan los requisitos de seguridad de las embarcaciones de recreo, embarcaciones de recreo semiacabadas y sus componentes, en aplicación de la Directiva 94/25/CE, se regirán por lo dispuesto en dicho Real Decreto.
+
+2. La inspección y control de las embarcaciones de recreo comprendidas en el ámbito de aplicación del Real Decreto 1434/1999, de 10 de septiembre, por el que se establecen los reconocimientos e inspecciones de las embarcaciones de recreo para garantizar la seguridad de la vida humana en la mar y se determinan las condiciones que deben reunir las entidades colaboradoras de inspección, durante su etapa en servicio, se regularán por lo dispuesto en dicho Real Decreto y, supletoriamente, por las prescripciones del Reglamento de inspección y certificación de buques civiles.

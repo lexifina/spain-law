@@ -1,0 +1,11 @@
+## Artículo segundo. Cuantía de la prestación.
+
+Uno. La prestación económica en cualquiera de las situaciones constitutivas de incapacidad laboral transitoria que se señalan en el artículo ciento veintiséis de la Ley de la Seguridad Social, consistirá en un subsidio equivalente al setenta y cinco por ciento de la base de cotización del trabajador en la fecha en que se declare iniciada legalmente la incapacidad. Si encontrándose el trabajador en esta situación se produjese una modificación de las bases tarifadas de cotización, la cuantía de la prestación se calculará sobre la nueva base que le corresponda.
+
+Cuando la incapacidad proceda de accidente de trabajo o enfermedad profesional y en tanto que la cotización correspondiente a dichas contingencias continúe efectuándose sobre las remuneraciones efectivamente percibidas, de acuerdo con lo preceptuado en el número ocho de la disposición transitoria tercera de la Ley de la Seguridad Social, serán de aplicación para determinar la base a que el presente número se refiere las normas que para la Incapacidad temporal se establecieron en el capítulo V del Reglamento aprobado por el Decreto de veintidós de junio de mil novecientos cincuenta y seis, o las que expresamente apruebe el Gobierno, a propuesta del Ministro de Trabajo, para sustituir aquellas por otras específicas para la incapacidad laboral transitoria, a que este párrafo se refiere.
+
+Dos. (Derogado)
+
+> Se deroga el apartado 2 por la disposición derogatoria única.a) del Real Decreto 1251/2001, de 16 de noviembre. Ref. BOE-A-2001-21491.
+
+> Véase el art. único del Real Decreto 53/1980, de 11 de enero, sobre la cuantía de la prestación económica por incapacidad laboral. Ref. BOE-A-1980-1003.

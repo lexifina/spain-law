@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Obligaciones pendientes de abono de las asignaciones financieras a favor de la ONCE del ejercicio 2011.
+
+La Sociedad Estatal Loterías y Apuestas del Estado asumirá las obligaciones pendientes de abono de las asignaciones financieras del ejercicio 2011, correspondiente al resultado negativo del ejercicio 2010, a favor de la Organización Nacional de Ciegos Españoles (ONCE) que se deriven de la disposición adicional decimoctava de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, modificada por la disposición final primera del Real Decreto-ley 18/2011, de 18 de noviembre.

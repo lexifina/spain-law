@@ -1,0 +1,1 @@
+Téngase en cuenta que el articulado de esta ley ha sido derogado por las Leyes 38/2002, de 24 de octubre, (arts. 1 a 5), 29/1998, de 13 de julio, (arts. 6 a 10) y 1/2000, de 7 de enero, (arts. 11 a 15), por lo que ha dejado de estar vigente.

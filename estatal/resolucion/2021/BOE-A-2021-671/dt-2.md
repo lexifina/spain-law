@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Los obligados tributarios que, a la entrada en vigor de la presente Resolución, se encuentren adscritos a la Delegación Central por cumplir los requisitos establecidos en el apartado tercero.1 de la Resolución de 26 de diciembre de 2005, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se establece la estructura orgánica de la Delegación Central de Grandes Contribuyentes, y que no cumplan los requisitos establecidos en el apartado tercero.1 de la presente Resolución, mantendrán su adscripción a la Delegación Central de Grandes Contribuyentes hasta que se les notifique que quedan excluidos de su ámbito de actuación.

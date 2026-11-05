@@ -1,0 +1,7 @@
+## Disposición final cuarta. Modificación del Real Decreto 877/2015, de 2 de octubre, de desarrollo de la Ley 26/2013, de 27 de diciembre, de cajas de ahorros y fundaciones bancarias, por el que se regula el fondo de reserva que deben constituir determinadas fundaciones bancarias; se modifica el Real Decreto 1517/2011, de 31 de octubre, por el que se aprueba el Reglamento que desarrolla el texto refundido de la Ley de Auditoría de Cuentas, aprobado por el Real Decreto Legislativo 1/2011, de 1 de julio; y se modifica el Real Decreto 1082/2012, de 13 de julio, por el que se aprueba el Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+Se añade una disposición adicional en los siguientes términos:
+
+«Disposición adicional primera. Suspensión de la obligación de aportar al fondo de reserva.
+
+Debido a los efectos económicos derivados de la pandemia COVID-19, las fundaciones bancarias a las que se refiere el artículo 2 no estarán obligadas a realizar dotaciones al fondo de reserva durante el año 2020. El plazo de constitución del fondo de reserva, previsto en el artículo 6 se suspenderá durante el año natural 2020. La suspensión de la aportación durante el año 2020 no será compensada en la aportación del año siguiente. Así, las aportaciones restantes hasta alcanzar el importe objetivo establecido en virtud del artículo 4, se distribuirán de forma lineal en el tiempo, de conformidad con el apartado 3 del artículo 6.»

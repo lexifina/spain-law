@@ -1,0 +1,11 @@
+El Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, ha establecido diversas medidas destinadas a contener la progresión de la enfermedad y reforzar el sistema de salud pública. La Disposición adicional 3.ª del citado Real Decreto, en su apartado primero, establece la suspensión de términos y la interrupción de los plazos para la tramitación de los procedimientos de las entidades del sector público.
+
+Por otra parte, el mencionado Real Decreto en su artículo 6 dispone que cada Administración conservará las competencias que le otorga la legislación vigente en la gestión ordinaria de sus servicios para adoptar las medidas que estime necesarias en el marco de las órdenes directas de la autoridad competente a los efectos del estado de alarma.
+
+La Agencia Estatal de Seguridad Aérea (AESA) tiene por objeto la ejecución de las funciones de ordenación, supervisión e inspección de la seguridad del transporte aéreo y de los sistemas de navegación aérea y de seguridad aeroportuaria y se guía, entre otros criterios de actuación, por el de preservar la seguridad del transporte aéreo.
+
+En el marco de las medidas implantadas durante el estado de alarma, AESA ha dispuesto el teletrabajo de todos sus empleados públicos durante toda su vigencia, lo que está permitiendo desarrollar con normalidad su actividad interna, si bien ha cancelado todas las actividades de inspección que requirieran desplazamientos físicos de sus inspectores, salvo los que sean declarados imprescindibles por sus Direcciones Operativas.
+
+De conformidad con la disposición adicional tercera, apartado 4, que habilita a las entidades del sector público para que puedan acordar motivadamente la continuación de aquellos procedimientos administrativos indispensables para la protección del interés general o para el funcionamiento básico de los servicios, y teniendo en cuenta la estrecha vinculación con estos y las funciones que tiene atribuidas AESA.
+
+Y en virtud de las competencias atribuidas por el artículo 26 del el Estatuto de la Agencia Estatal de Seguridad Aérea, aprobado por Real Decreto 184/2008, de 8 de febrero, y de lo dispuesto en la Disposición adicional tercera, apartados 3 y 4, del Real Decreto 463/2020, de 14 de marzo, esta Dirección resuelve:

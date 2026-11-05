@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Aplicación de legislaciones anteriores para causar derecho a pensión de jubilación.
+
+1. Los afiliados en alta en el Montepío Marítimo Nacional y Cajas de Previsión de los Trabajadores Portuarios el 1 de agosto de 1970, fecha de entrada en vigor del Régimen Especial de la Seguridad Social de los Trabajadores del Mar, o en cualquier otra fecha con anterioridad y que, de acuerdo con las normas del régimen derogado, tuviesen derecho a obtener la pensión de jubilación a partir de los cincuenta y cinco años o sesenta en el caso de estibadores portuarios, podrán también causar pensión a partir de dichas edades. En tal caso el porcentaje de pensión que en el nuevo régimen les correspondiera, de acuerdo a sus períodos de cotización, experimentará una disminución de siete centésimas por cada año que falte para alcanzar la edad de jubilación. Las fracciones de tiempo inferiores al año serán prorrateadas por doceavas partes.
+
+A efectos del cálculo del porcentaje de pensión a que se hace referencia en el párrafo anterior, se ponderarán, en su caso, los coeficientes reductores de la edad para causar pensión de jubilación, a los que se refiere el artículo 30 de la presente ley.
+
+2. Si por aplicación de lo dispuesto en el apartado 1 de la presente disposición transitoria resultase, en algún caso, un porcentaje inferior al que hubiera correspondido conforme a los Estatutos y demás normas vigentes antes de la entrada en vigor de este Régimen Especial, se aplicará este último porcentaje.

@@ -1,0 +1,21 @@
+## Decimoséptimo. Delegación de competencias en materia de revisión de actos en vía administrativa, recursos administrativos y ejecución de sentencias.
+
+1. Se aprueba la delegación por la persona titular de la Secretaría de Estado de Hacienda en la persona titular de la Secretaría General Técnica del Ministerio de Hacienda y Función Pública de las siguientes competencias:
+
+a) La resolución de los procedimientos de revisión de oficio de los actos administrativos contemplados en los artículos 106 y 107 de la Ley 39/2015, de 1 de octubre.
+
+b) La resolución de los recursos de alzada que se interpongan contra las resoluciones de los órganos directivos que dependan directamente de la Secretaría de Estado, de acuerdo con lo establecido en el artículo 121 de la Ley 39/2015, de 1 de octubre.
+
+2. Se aprueba la delegación por la persona titular de la Secretaría de Estado de Hacienda de la aprobación y compromiso de gastos, así como el reconocimiento y propuesta de pago de las obligaciones económicas que se deriven de la ejecución de sentencias en el ámbito de la jurisdicción contencioso-administrativa, en:
+
+a) La persona titular de la Subsecretaría de Hacienda y Función Pública cuando su importe sea igual o superior a 300.000 euros.
+
+b) La persona titular del Departamento de Servicios y Coordinación Territorial de la Subsecretaría de Hacienda y Función Pública cuando su importe sea igual o superior a 150.000 euros e inferior a 300.000 euros.
+
+c) La persona titular de la Subdirección General de Gestión Financiera y Asuntos Generales cuando su importe sea inferior a 150.000 euros.
+
+Se exceptúan de dicha delegación las relativas a los supuestos de responsabilidad patrimonial derivadas del funcionamiento de los Tribunales Económico-Administrativos, las cuales se delegan en el Presidente del Tribunal Económico-Administrativo Central y las relativas al ámbito de la Dirección General del Catastro las cuales se delegan en la persona titular de la Dirección General del Catastro, en los dos casos sin limitación de cuantía.
+
+También se exceptúan de dicha delegación los supuestos relativos a la ejecución de sentencias por las que se estimen las reclamaciones de indemnización por responsabilidad patrimonial del Estado legislador como consecuencia de la declaración de inconstitucionalidad del artículo 38.dos.2 de la Ley 5/1990, de 29 de junio, sobre medidas en materia presupuestaria, financiera y tributaria, por la que se creó un gravamen complementario de la tasa fiscal que grava los juegos de suerte, envite o azar.
+
+Asimismo, se exceptúan de la citada delegación las relativas al ámbito de la Secretaría General de Financiación Autonómica y Local, las cuales se delegan en la persona titular de la Secretaría General de Financiación Autonómica y Local, sin limitación de cuantía.

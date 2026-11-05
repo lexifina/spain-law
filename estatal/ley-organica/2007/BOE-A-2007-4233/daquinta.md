@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Financiación de los Consejos Insulares.
+
+Sin perjuicio de lo que dispone el capítulo IV del título IV de este Estatuto, la financiación de los Consejos Insulares y su revisión se regirá por lo establecido en la Ley 2/2002, de 3 de abril, de sistema de financiación definitivo de los Consejos Insulares, o por la norma que la sustituya que, en todo caso, deberá respetar los principios de autonomía financiera, suficiencia financiera y solidaridad, y no podrá suponer una disminución de los recursos obtenidos hasta el momento y en todo caso participará de las mejoras de financiación de la comunidad.

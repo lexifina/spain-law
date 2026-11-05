@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Evaluación de las medidas de apoyo a la contratación.
+
+El Gobierno desarrollará un análisis del conjunto de bonificaciones a la contratación y reducciones en las cotizaciones a la Seguridad social en vigor en todos los ámbitos territoriales que deberá presentar antes del 31 de mayo de 2016. Dicho análisis evaluará la eficacia de las medidas de apoyo a la contratación en vigor para el cumplimiento de sus objetivos, su impacto presupuestario y valorará la conveniencia de mantener los incentivos o de destinar esos recursos a otras iniciativas en el ámbito de las políticas activas de empleo.

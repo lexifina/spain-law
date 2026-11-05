@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Competencias para la celebración de acuerdos relativos a los procedimientos de reembolso en caso de insolvencia de entidades aseguradoras.
+
+1. El Consorcio de Compensación de Seguros negociará y podrá celebrar el acuerdo al que se refiere el apartado 13 del artículo 10 bis de la Directiva 2009/103/CE relativa al seguro de la responsabilidad civil que resulta de la circulación de vehículos automóviles, así como al control de la obligación de asegurar esta responsabilidad, introducido por la Directiva (UE) 2021/2118, de 24 de noviembre de 2021.
+
+2. La Oficina Española de Aseguradoras de Automóviles (OFESAUTO) negociará y podrá celebrar el acuerdo al que se refiere el apartado 13 del artículo 25 bis de la Directiva 2009/103/CE relativa al seguro de la responsabilidad civil que resulta de la circulación de vehículos automóviles, así como al control de la obligación de asegurar esta responsabilidad, introducido por la Directiva (UE) 2021/2118, de 24 de noviembre de 2021.

@@ -1,0 +1,55 @@
+## Disposición final segunda. Modificación del Real Decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas.
+
+El artículo 7 del Real Decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas, queda redactado en los siguientes términos:
+
+> «Artículo 7. El comité científico.
+
+> 1. Para asistir al Comité de Flora y Fauna Silvestres en lo relativo a los contenidos de este real decreto y del Real Decreto 630/2013, de 2 de agosto, por el que se regula el catálogo español de especies exóticas invasoras y al Comité de Espacios Naturales Protegidos en las materias relativas al real decreto por el que se aprueban el Plan Director de la Red de Áreas Marinas Protegidas de España y los criterios mínimos comunes para la gestión coordinada y coherente de la Red, se establecerá un comité científico como órgano consultivo de las Direcciones Generales de Biodiversidad, Bosques y Desertificación y de Pesca Sostenible y de las comunidades autónomas, cuando éstas así lo soliciten.
+
+> 2. El comité científico a requerimiento del Comité de Flora y Fauna Silvestres y del Comité de Espacios Naturales Protegidos, de la Dirección General, o de las comunidades autónomas, informará sobre:
+
+> a) Las propuestas de inclusión, cambio de categoría o exclusión de especies en el Listado de Especies Silvestres en Régimen de Protección Especial y en el Catálogo Español de Especies Amenazadas.
+
+> b) La actualización de los «criterios orientadores para la inclusión de taxones y poblaciones en catálogos de especies amenazadas» aprobados mediante el Acuerdo del Consejo de Ministros de 24 de febrero de 2017, por el que se aprueban los criterios orientadores para la inclusión de taxones y poblaciones en el Catálogo Español de Especies Amenazadas.
+
+> c) La validez taxonómica de las especies incluidas o propuestas para su inclusión en los Catálogos y en el Listado.
+
+> d) La metodología de evaluación del estado de conservación de las especies de acuerdo a las directrices europeas en la materia.
+
+> e) Cuantas medidas se estimen oportunas para el mejor desarrollo del Listado, del Catálogo y cualquier otro aspecto relativo al contenido de este real decreto para el desarrollo del Listado de Especies Silvestres en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas.
+
+> f) Cuantas medidas se estimen oportunas para el mejor desarrollo del Catálogo español de especies exóticas invasoras y cualquier otro aspecto relativo al contenido del Real Decreto 630/2013, de 2 de agosto.
+
+> g) Las cuestiones que sean planteadas en relación a la Red de Áreas Marinas Protegidas de España, proporcionando evidencia científica relevante que facilite el desarrollo de los objetivos de la Red y las actuaciones recogidas en su Plan Director y en los Criterios mínimos comunes para la gestión coordinada y coherente de la Red.
+
+> h) El informe de situación de la Red de Áreas Marinas Protegidas de España.
+
+> 3. El comité científico estará compuesto por:
+
+> a) Diecinueve miembros, dieciséis de ellos serán designados por el Ministerio para la Transición Ecológica y el Reto Demográfico:
+
+> 1.º Nueve a propuesta de las comunidades autónomas y ciudades con estatuto de autonomía, seleccionados entre expertos atendiendo al criterio de representación de los grandes grupos taxonómicos de la biodiversidad y de las regiones biogeográficas españolas.
+
+> 2.º Cinco a propuesta de las organizaciones no gubernamentales que forman parte del Consejo Estatal del Patrimonio Natural y la Biodiversidad.
+
+> 3.º Dos por la Secretaría de Estado de Medio Ambiente, uno de los cuales que ostentará la condición de funcionario, desempeñará la secretaría.
+
+> En los supuestos de los párrafos 1.º y 2.º, los expertos propuestos deberán acreditar una amplia y probada experiencia científica en las materias que a las que se refieren los apartados 1 y 2 de este artículo.
+
+> Además, se incluirán dos representantes de los organismos públicos de investigación adscritos al Ministerio de Ciencia e Innovación, designados por el mismo y uno designado por la Secretaría General de Pesca del Ministerio de Agricultura, Pesca y Alimentación.
+
+> Para asegurar la representación de los diferentes grupos taxonómicos representados en el Listado y Catálogo, los expertos designados podrán ser asesorados por los especialistas que consideren conveniente.
+
+> b) Once miembros adicionales para informar las cuestiones incluidas en los apartados 2.g) y 2.h) de este artículo, diez de ellos designados por el Ministerio para la Transición Ecológica y el Reto Demográfico:
+
+> 1.º Cinco –uno por cada demarcación marina– a propuesta de las comunidades autónomas y ciudades con estatuto de autonomía, seleccionados entre expertos con reconocida trayectoria profesional en el campo de la investigación de los espacios naturales protegidos y del medio marino.
+
+> 2.º Cinco por la Secretaría de Estado de Medio Ambiente.
+
+> Adicionalmente, uno designado por la Secretaría General de Pesca.
+
+> 4. Su Presidente se elegirá de entre sus miembros. La duración de su mandato será de dos años prorrogables, por acuerdo del comité científico, por idéntico período. El Secretario levantará acta de las deliberaciones y acuerdos adoptados por el comité científico y la remitirá al presidente del Comité de Flora y Fauna Silvestres y del Comité de Espacios Naturales Protegidos, quien lo distribuirá entre sus miembros.
+
+> 5. El comité científico estará adscrito a la Dirección General de Biodiversidad, Bosques y Desertificación, se reunirá, al menos, una vez al año y podrá aprobar un reglamento de régimen interior.
+
+> 6. La Dirección General de Biodiversidad, Bosques y Desertificación proporcionará el soporte logístico y la financiación necesarios para la organización de las reuniones.»

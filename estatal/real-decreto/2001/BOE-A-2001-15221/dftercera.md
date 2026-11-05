@@ -1,0 +1,3 @@
+## Disposición final tercera. Habilitaciones normativas a la Comisión Nacional del Mercado de Valores y al Banco de España.
+
+Se habilita a la CNMV y al Banco de España para que mediante Circular determinen los criterios de valoración a aplicar a los distintos tipos de los valores e instrumentos financieros no cotizados a integrar en la base de cálculo de las aportaciones anuales a los Fondos en el marco de lo previsto, respectivamente, en el apartado 6 del artículo 8 de este Real Decreto y en el apartado 1 del artículo 3 del Real Decreto 2606/1996, en la nueva redacción dada por el artículo 25 de este Real Decreto.

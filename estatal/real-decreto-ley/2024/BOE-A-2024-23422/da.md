@@ -1,0 +1,3 @@
+## Disposición adicional primera. Créditos presupuestarios e imputación presupuestaria.
+
+La cobertura presupuestaria de las medidas recogidas en el presente real decreto-ley y la imputación de los gastos asociados a las medidas urgentes para paliar los daños causados por la Depresión Aislada en Niveles Altos (DANA) que ha afectado a amplias zonas de la Península y Baleares entre el 28 de octubre y el 4 de noviembre de 2024, se regirán por lo dispuesto en las Disposiciones adicionales primera y segunda del Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024.

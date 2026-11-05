@@ -1,0 +1,7 @@
+Dado en Madrid, el 19 de diciembre de 2023.
+
+FELIPE R.
+
+El Presidente del Gobierno,
+
+PEDRO SÁNCHEZ PÉREZ-CASTEJÓN

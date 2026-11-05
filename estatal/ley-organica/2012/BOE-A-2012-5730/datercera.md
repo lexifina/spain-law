@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Control de constitucionalidad.
+
+1. En los términos previstos en la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional podrán impugnarse ante el Tribunal Constitucional tanto las leyes, disposiciones normativas o actos con fuerza de ley de las Comunidades Autónomas como las disposiciones normativas sin fuerza de ley y resoluciones emanadas de cualquier órgano de las Comunidades Autónomas que vulneren los principios establecidos en el artículo 135 de la Constitución y desarrollados en la presente Ley.
+
+2. En el caso de que, en aplicación de lo dispuesto en el artículo 161.2 de la Constitución, la impugnación de una Ley de Presupuestos produzca la suspensión de su vigencia se considerarán automáticamente prorrogados los Presupuestos del ejercicio anterior hasta la aprobación de los Presupuestos del ejercicio siguiente al impugnado, hasta la aprobación de una ley que derogue, modifique o sustituya las disposiciones impugnadas o, en su caso, hasta el levantamiento de la suspensión de la ley impugnada.

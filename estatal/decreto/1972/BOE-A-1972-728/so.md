@@ -1,0 +1,1 @@
+## Sección octava. Incompatibilidades

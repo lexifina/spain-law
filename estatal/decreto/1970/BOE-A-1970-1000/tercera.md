@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+Uno. En tanto por el Gobierno se establezcan las bases de cotización previstas en el número uno del artículo quince de este Decreto, continuarán vigentes las determinadas en el artículo quinto de la Orden de once de octubre de mil novecientos sesenta y siete («Boletín Oficial del Estado» del veinte), con la salvedad de que la base mínima será la de tres mil quinientas pesetas mensuales.
+
+Dos. No obstante lo establecido en el número anterior, quienes a la entrada en vigor de este régimen especial se encuentren en la situación regulada en la disposición transitoria primera de los Estatutos de las Mutualidades Laborales de Trabajadores Autónomos, aprobados por la Orden de treinta de mayo de mil novecientos sesenta y dos («Boletín Oficial del Estado» de trece de junio) y modificada por el artículo séptimo de la referida Orden de once de octubre de mil novecientos sesenta y siete, continuarán, a efectos de sus bases de cotización, en la misma situación sin perjuicio de las actualizaciones correspondientes que a dichos efectos determine el Ministerio de Trabajo al ser establecidas por el Gobierno nuevas bases de cotización.

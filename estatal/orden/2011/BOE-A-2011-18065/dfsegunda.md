@@ -1,0 +1,11 @@
+## Disposición final segunda. Modificación de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad.
+
+Los apartados 1 y 2 del artículo 4 de la Orden ITC/3862/2007, de 28 de diciembre, por la que se establece el mecanismo de asignación de la capacidad de los almacenamientos subterráneos de gas natural y se crea un mercado de capacidad, quedan redactados en los siguientes términos:
+
+«1. Del volumen útil de los almacenamientos subterráneos básicos se reservará un volumen equivalente a los días de ventas o consumos firmes en el año anterior necesario para cumplir las obligaciones de mantenimiento de existencias mínimas de seguridad de carácter estratégico. A estos efectos, tendrán la consideración de consumos firmes los definidos en el artículo 16 del Real Decreto 1716/2004, de 23 de julio, por el que se regula la obligación de mantenimiento de existencias mínimas de seguridad, la diversificación de abastecimiento de gas natural y la corporación de reservas estratégicas, así como las ventas realizadas bajo peajes interrumpibles.
+
+La asignación de la citada capacidad será realizada anualmente por el Gestor Técnico del Sistema y se basará en un criterio de reparto entre los sujetos obligados al mantenimiento de dichas existencias de acuerdo con el artículo 98 de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, de forma proporcional a sus ventas o consumos firmes en el año anterior.
+
+2. De la capacidad total utilizable de los almacenamientos subterráneos básicos se reservará un volumen equivalente a 10 días de las ventas/consumos totales en el año anterior realizado por los comercializadores/consumidores directos en mercado. La asignación de la citada capacidad será realizada por el Gestor Técnico del Sistema, con carácter anual, de forma proporcional a las ventas o consumos firmes realizados por el sujeto obligado en el año anterior.
+
+Si después de haber realizado la asignación correspondiente a los apartados 1 y 3 del presente artículo la capacidad disponible no fuera suficiente para cumplir con este apartado, se procederá a prorratear la capacidad disponible entre los usuarios, en función de las ventas y consumos firmes del año anterior.»

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Declaración de conflicto de interés en el proceso de enajenación de CESCE.
+
+La declaración de la Secretaría de Estado de Comercio de que los interesados en la adquisición de la mayoría del capital de CESCE en el proceso de enajenación no se encuentran en situación de conflicto de interés será requisito previo a la presentación de ofertas en los términos señalados en las condiciones que rijan la enajenación. La declaración se obtendrá a solicitud de los interesados, aportando cuantos documentos y pruebas se estimen oportunas, siendo de aplicación en lo demás lo previsto en los apartados 3 y 4 del artículo 21.

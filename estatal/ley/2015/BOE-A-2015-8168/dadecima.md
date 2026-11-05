@@ -1,0 +1,3 @@
+## Disposición adicional décima. Gasto público.
+
+Las medidas incluidas en esta norma, en particular la configuración de la Dirección General de la Inspección de Trabajo y Seguridad Social como un Organismo Autónomo, la suscripción de convenios de colaboración con las Comunidades Autónomas, la creación y funcionamiento de las Comisiones Operativas de la Inspección de Trabajo y Seguridad Social y la instauración y llevanza del registro integrado de personal inspector, no podrán suponer incremento de gasto público y, en consecuencia, de dotaciones ni de retribuciones ni de otros gastos de personal.

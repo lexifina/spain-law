@@ -1,0 +1,3 @@
+## Disposición adicional única. Aplicación de las especialidades en la tramitación de las subvenciones financiables con fondos europeos.
+
+Las ayudas para la organización de festivales y certámenes cinematográficos en España a las que se refieren las presentes bases reguladoras son actuaciones susceptibles de ser financiables con los fondos del Instrumento Europeo de Recuperación, y a las mismas les serán de aplicación las especialidades en la tramitación previstas en el capítulo II del título IV del Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del plan de Recuperación, Transformación y Resiliencia.

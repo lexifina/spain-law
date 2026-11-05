@@ -1,0 +1,5 @@
+## Disposición transitoria octava.
+
+Los actos y documentos legalmente necesarios para que las sociedades constituidas con arreglo a la legislación anterior puedan dar cumplimiento a lo establecido en la presente Ley, dentro de los plazos señalados en estas disposiciones transitorias, quedarán exentos de tributos y exacciones de todas clases. La misma exención se aplicara a los actos y documentos legalmente necesarios para que sean inscritos en el Registre Mercantil los sujetos obligados a inscribirse en virtud de las disposiciones de esta Ley y que no lo estuviesen con arreglo a la legislación anterior.
+
+Por el Gobierno, a propuesta del Ministro de Justicia, se fijará una reducción en los derechos que los Notarios y los Registradores Mercantiles hayan de percibir como consecuencia de la aplicación de sus respectivos aranceles por los actos y documentos necesarios para la adaptación de las sociedades existentes a lo previsto en la presente Ley y para la inscripción en el Registro Mercantil de los sujetos obligados a hacerlo en virtud de las disposiciones de la misma.

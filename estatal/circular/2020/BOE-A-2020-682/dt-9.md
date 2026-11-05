@@ -1,0 +1,9 @@
+## Disposición transitoria novena. Tratamiento de ajustes y regularizaciones de repartos en plantas de regasificación anteriores a la entrada en vigor de esta circular.
+
+Respecto a los balances en plantas de regasificación de gas natural licuado anteriores a la entrada en vigor de esta circular se procederá de la siguiente forma:
+
+a) En los primeros 15 días del mes de abril de 2020, el gestor técnico del sistema calculará las existencias procedentes de ajustes y regularizaciones de repartos enviados hasta el 31 de marzo de 2020. Antes del 15 de abril de 2020 el gestor técnico del sistema comunicará a cada usuario el volumen de gas natural licuado que le corresponde, y procederá a asignar, en el balance del usuario en TVB, una entrada o salida de gas natural licuado con fecha 30 de abril de 2020.
+
+b) En los primeros 15 días del mes de enero de 2021, el gestor técnico del sistema calculará las existencias procedentes de ajustes y regularizaciones de repartos enviadas desde el 1 de abril de 2020 hasta el 31 de diciembre de 2020. Antes del 15 de enero de 2021 el gestor técnico del sistema comunicará a cada usuario el volumen de gas natural licuado que le corresponde, y procederá a asignar, en el balance del usuario en TVB, una entrada o salida de gas natural licuado con fecha 30 de enero de 2021.
+
+c) En los primeros 10 días del mes de abril de 2021, el gestor técnico del sistema calculará las existencias procedentes de ajustes y regularizaciones de repartos enviadas desde el 1 de enero de 2021 hasta el 31 de marzo de 2021. Antes del 15 de abril de 2021 el gestor técnico del sistema comunicará a cada usuario el volumen de gas natural licuado que le corresponde, y procederá a asignar, en el balance del usuario en TVB, una entrada o salida de gas natural licuado con fecha 30 de abril de 2021.

@@ -1,0 +1,3 @@
+## Artículo cuarenta y cinco.
+
+Los miembros de las Fuerzas y Cuerpos de Seguridad del Estado y de los Cuerpos de Policía de las Comunidades Autónomas deberán prestarse mutuo auxilio e información recíproca en el ejercicio de sus funciones respectivas.

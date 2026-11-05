@@ -1,0 +1,7 @@
+El Real Decreto 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria, regula, entre otros aspectos, la normativa básica de aplicación a los consejos orientadores, a la certificación oficial al concluir la escolarización en Educación Secundaria Obligatoria y a los documentos oficiales de evaluación correspondientes a esta etapa educativa.
+
+La Orden EFP/754/2022, de 28 de julio, por la que se establece el currículo y se regula la ordenación de la Educación Secundaria Obligatoria en el ámbito de gestión del Ministerio de Educación y Formación Profesional desarrolla lo dispuesto en el mencionado real decreto y dispone, en su artículo 37.2, que los modelos de los documentos oficiales de evaluación se establecerán mediante resolución de la Secretaría de Estado de Educación de conformidad con lo previsto en la mencionada orden, a la que harán referencia. Asimismo, habilita, en su disposición final segunda, a la persona titular de la Secretaria de Estado de Educación para dictar cuantas disposiciones requiera la aplicación de lo dispuesto en dicha orden.
+
+Por todo ello, procede establecer los modelos de los consejos orientadores, de la certificación oficial al concluir la escolarización en la Educación Secundaria Obligatoria y de los documentos oficiales de evaluación correspondientes a esta etapa educativa según lo establecido en la normativa anteriormente citada.
+
+En su virtud, resuelvo:

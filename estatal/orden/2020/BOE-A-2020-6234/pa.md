@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión de 16 de junio de 2020, a propuesta del Ministro de Sanidad, de la Ministra de Política Territorial y Función Pública y del Ministro de Transportes, Movilidad y Agenda Urbana, ha adoptado un Acuerdo por el que se establecen los puertos y aeropuertos españoles designados como «Puntos de entrada con capacidad de atención a Emergencias de Salud Pública de Importancia Internacional», según lo establecido en el Reglamento Sanitario Internacional (RSI-2005), para hacer frente a la crisis sanitaria ocasionada por el COVID-19.
+
+Para general conocimiento, se dispone su publicación como anexo a la presente Orden.

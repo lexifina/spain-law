@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+Lo dispuesto en este real decreto tiene el carácter de normativa básica, al amparo de lo establecido en el artículo 149.1.13.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica. La regulación contenida en los artículos 18, 19 y 20 y en los anexos V y VI de este real decreto, se dictan al amparo de lo dispuesto en el artículo 149.1.16.ª y 23.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre bases y coordinación general de la sanidad y legislación básica sobre protección del medio ambiente, respectivamente.

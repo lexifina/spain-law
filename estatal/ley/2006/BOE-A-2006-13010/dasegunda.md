@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Tasa por suministro de información ambiental para la Administración Local.
+
+Las Entidades Locales podrán establecer tasas por el suministro de información ambiental, que se regirán por lo dispuesto en el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el Texto Refundido de la Ley Reguladora de las Haciendas Locales, y, en lo que se refiere a su hecho imponible y supuestos de no sujeción y exención, por lo previsto en la disposición adicional primera de esta Ley. Todo ello sin perjuicio de las de los regímenes financieros forales de los Territorios Históricos del País Vasco y Navarra.

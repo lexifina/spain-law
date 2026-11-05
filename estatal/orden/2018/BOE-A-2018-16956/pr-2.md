@@ -1,0 +1,5 @@
+## Primero. Traspaso con cargo al superávit del sistema eléctrico.
+
+1. En el plazo de quince días desde la publicación de la presente orden en el «Boletín Oficial del Estado», la Comisión Nacional de los Mercados y la Competencia, como organismo encargado de las liquidaciones del sistema, transferirá 60 millones de euros al Instituto para la Diversificación y Ahorro de la Energía, procedentes del superávit eléctrico generado hasta la entrada en vigor de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para el año 2018, de conformidad con lo establecido en la disposición adicional centésima trigésima octava de la Ley 6/2018, de 3 de julio.
+
+2. La cuantía citada en el apartado anterior será destinada, como cuantía inicial, susceptible de ser incrementada con otros créditos disponibles del presupuesto del Ministerio y la cofinanciación procedente de los Fondos Comunitarios FEDER, a convocatorias de ayudas a la inversión para instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables en territorios no peninsulares, conectadas al sistema eléctrico, en proyectos susceptibles de ser cofinanciados con Fondos FEDER.

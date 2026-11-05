@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Reconocimiento de títulos expedidos por terceros países.
+
+Hasta que la Unión Europea publique la lista prevista en el punto 1 del artículo 27 de esta norma, sobre los países a los que se le ha reconocido los sistemas de titulación y formación en materia de pesca, el Ministerio de Agricultura Alimentación y Medio Ambiente podrá utilizar para el reconocimiento de titulaciones pesqueras la dictada al amparo de la de Directiva 2008/106/CE del Parlamento Europeo y del Consejo,19 de noviembre de 2008, relativa al nivel mínimo de formación en las profesiones marítimas.

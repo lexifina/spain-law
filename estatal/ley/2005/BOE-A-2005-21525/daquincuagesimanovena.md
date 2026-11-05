@@ -1,0 +1,3 @@
+## Disposición adicional quincuagésima novena. Asistencia sanitaria por Accidentes de Trabajo y Enfermedades Profesionales.
+
+La Seguridad Social procederá al pago de las prestaciones sanitarias, farmacéuticas y recuperadoras derivadas de contingencias profesionales por los afiliados con cobertura por dichas contingencias en el Instituto Nacional de la Seguridad Social y en el Instituto Social de la Marina, a los Servicios Públicos de Salud de las Comunidades Autónomas. A estos efectos se consignan en los Presupuestos de dichas entidades gestoras las dotaciones correspondientes por un importe total de 100 millones de euros.

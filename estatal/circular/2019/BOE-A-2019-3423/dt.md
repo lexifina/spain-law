@@ -1,0 +1,3 @@
+## Disposición transitoria única. Consulta previa a la AEPD o remisión de la documentación prevista en el artículo 7.1. 5.º en los procesos electorales previstos para el 28 de abril y el 26 de mayo de 2019.
+
+En los procesos electorales previstos para el 28 de abril y el 26 de mayo de 2019 la consulta previa o la remisión de la documentación a la que se refiere el artículo 7. 1. 5.º de la presente Circular deberá realizarse, en su caso, con una antelación mínima de tres semanas al inicio de la campaña electoral, debiendo emitirse el correspondiente informe o adoptarse las medidas oportunas con anterioridad al inicio de la misma.

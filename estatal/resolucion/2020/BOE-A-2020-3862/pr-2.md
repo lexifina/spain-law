@@ -1,0 +1,7 @@
+## Primero. Objeto y ámbito de aplicación.
+
+La presente resolución tiene por objeto aprobar y ordenar la publicidad del tratamiento de la información para que la Agencia Estatal de Administración Tributaria facilite a las entidades colaboradoras en la gestión recaudatoria la identificación telemática de aquellos obligados tributarios y personas que así lo soliciten con ocasión del pago de sus deudas, utilizando para ello el sistema de firma electrónica no avanzada con clave de acceso en un registro previo como usuario (sistema Cl@vePIN).
+
+En particular, esta resolución será aplicable a aquellas operaciones de pago que se efectúen a través de la sede electrónica de la Agencia Estatal de Administración Tributaria (https://www.agenciatributaria.gob.es), utilizando tarjetas de crédito o de débito, siempre que el obligado al pago sea una persona física y que se refieran a cualquiera de los modelos de ingreso que se encuentren habilitados en la aplicación de pago mediante tarjetas de crédito o de débito, actualmente accesible desde el trámite de «pago de impuestos», cuando se acceda a la misma utilizando el sistema de firma electrónica no avanzada con clave de acceso en un registro previo como usuario (sistema Cl@vePIN).
+
+A efectos de los procedimientos previstos en la presente resolución, la persona que ordena el pago (en adelante, ordenante) a través de la sede electrónica de la Agencia Estatal de Administración Tributaria deberá ser necesariamente el propio obligado al pago.

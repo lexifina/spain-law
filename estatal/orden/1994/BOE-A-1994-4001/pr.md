@@ -1,0 +1,5 @@
+Los Acuerdos de Cooperación del Estado con la Federación de Entidades Religiosas Evangélicas de España, con la Federación de Comunidades Israelitas de España y con la Comisión Islámica de España, en sus respectivos artículos 11.3, A), establecen la exención por el Impuesto sobre Bienes Inmuebles de los bienes inmuebles en ellos enumerados, suscitándose la cuestión de si deben entenderse comprendidos en dicha exención los huertos, jardines y dependencias de tales inmuebles, siempre que no estén destinados a industrias o a cualquier uso de carácter lucrativo.
+
+El artículo 18 de la Ley General Tributaria atribuye al Ministro de Economía y Hacienda la facultad de dictar disposiciones interpretativas o aclaratorias de las Leyes y demás disposiciones en materia tributaria mediante Orden publicada en el «Boletín Oficial del Estado».
+
+Por ello, en uso de las facultades previstas en el citado artículo 18 de la Ley General Tributaria, de acuerdo con el dictamen del Consejo de Estado, este Ministerio se ha servido disponer:

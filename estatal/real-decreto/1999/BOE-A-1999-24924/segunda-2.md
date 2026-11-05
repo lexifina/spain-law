@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Entidades de prestación de servicios de protección radiológica.
+
+Las entidades previstas en este Reglamento o en otros que desarrollen la Ley de Energía Nuclear, destinadas a la prestación de servicios en el ámbito de la protección radiológica, como servicios o unidades técnicas de protección radiológica, empresas de asistencia técnica o los servicios de dosimetría, podrán ser exceptuadas de la consideración de instalación radiactiva en relación con las fuentes radiactivas de calibración incorporadas a los equipos de medida cuya posesión y uso requieran para el desempeño de sus funciones, lo cual quedará especificado en la resolución que las autorice.

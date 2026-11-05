@@ -1,0 +1,93 @@
+## ANEXO
+
+## Directrices generales propias de los planes de estudios conducentes a la obtención del título oficial de Licenciado en Veterinaria
+
+## Primera.
+
+Las enseñanzas conducentes a la obtención del título oficial de Licenciado en Veterinaria, en el marco de lo dispuesto por el artículo 1, 1, de la Directiva 78/1027/CEE, de 18 de diciembre de 1978, deberán proporcionar:
+
+a) Conocimiento adecuado de las ciencias sobre las que se fundan las actividades del Veterinario.
+
+b) Conocimiento adecuado de la estructura y funciones de los animales sanos, de su cría y reproducción, de su higiene general y de su alimentación, incluida la tecnología correspondiente a la fabricación y conservación de sus alimentos.
+
+c) Conocimiento adecuado en el campo del comportamiento y protección de los animales.
+
+d) Conocimiento adecuado de las causas, naturaleza, desarrollo, efectos, diagnóstico y tratamiento de las enfermedades de los animales, considerados individualmente o en grupo, entre ellas, particularmente, las enfermedades transmisibles al hombre.
+
+e) Conocimiento adecuado de la medicina preventiva.
+
+f) Conocimiento adecuado de la higiene y la tecnología correspondiente a la obtención, fabricación y puesta en circulación de los productos alimenticios animales o de origen animal destinados al consumo humano.
+
+g) Conocimiento adecuado en lo que respecta a las disposiciones legislativas, reglamentarias y administrativas relativas a las materias antes enumeradas.
+
+h) Experiencia clínica y práctica adecuada bajo supervisión apropiada.
+
+## Segunda.
+
+1. Los planes de estudios que aprueben las Universidades deberán articularse como enseñanzas de primero y segundo ciclo, con una duración de dos y tres años, respectivamente, a tiempo completo. Los distintos planes de estudio conducentes al título oficial de Licenciado en Veterinaria determinarán, en créditos, la carga lectiva global que en ningún caso podrá ser inferior a 300 créditos ni superior al máximo de créditos que para los estudios de primero y segundo ciclo permite el Real Decreto 1497/1987, incluidos los correspondientes a las Estancias (prácticas de formación) que figura en la relación de materias troncales.
+
+2. Las Universidades establecerán en sus planes de estudio, en los que se incluirán las estancias (prácticas de formación), las correspondencias extraordinarias del crédito necesarias para garantizar la formación prevista en la Directiva comunitaria a que se refiere la directriz primera, teniendo en cuenta lo establecido en el apartado 7 del artículo 2 del Real Decreto 1497/1987.
+
+## Tercera.
+
+En cuadro adjunto se relacionan las materias troncales de obligatoria inclusión en todos los planes de estudios conducentes al título oficial de Licenciado en Veterinaria con una breve descripción de sus contenidos, los créditos que deben corresponder a las enseñanzas, así como la vinculación de las mismas a una o más áreas de conocimiento.
+
+Las Universidades asignarán la docencia de las materias troncales y/o las correspondientes disciplinas o asignaturas y, en su caso, sus contenidos, a Departamentos que incluyen una o varias de las áreas de conocimiento a que las mismas quedan vinculadas según lo dispuesto en el citado cuadro adjunto.
+
+## Cuarta.
+
+Además de quienes cursen el primer ciclo de estas enseñanzas podrán cursar su segundo ciclo, quienes, de acuerdo con los artículos 3.4, 5 y 8.2 del Real Decreto 1497/1987, de 27 de noviembre, cumplan las exigencias de titulación o superación de estudios previos de primer ciclo y complementos de formación requeridos en su caso que determine el Ministerio de Educación y Ciencia.
+
+TÍTULO DE LICENCIADO EN VETERINARIA
+
+| RELACIÓN DE MATERIAS TRONCALES (por orden alfabético) | Créditos | ÁREAS DE CONOCIMIENTO |
+| --- | --- | --- |
+| Teóricos | Prácticos | Total |
+| PRIMER CICLO: |
+| Agronomía y Economía Agraria. Relaciones suelo-planta animal. Vegetales utilizados por el ganado y factores que inciden en su calidad y rendimiento. Praticultura. Economía Agraria. Economía y comercialización de los productos agrarios. | 3 | 2 | 5 | – Economía, Sociología y Política Agraria. – Edafología y Química Agrícola. – Producción Animal. – Producción Vegetal. |
+| Anatomía, Embriología e Histología, Anatomía sistemática, comparada y topográfica, básica y orientada a las aplicaciones clínicas de producción y de higiene e industrialización alimentaria. Descripción del desarrollo embrionario en las especies de interés veterinario. Manipulación embrionaria. Anomalías congénitas. La célula eucariótica, estructura. Descripción de los tejidos, órganos y sistemas de los animales domésticos y útiles. | 12 | 12 | 24 | – Anatomía y Anatomía Patológica Comparadas. – Biología Celular. – Anatomía y Embriología Humana. – Histología. – Sanidad Animal. – Medicina y Cirugía Animal. |
+| Biología Animal y Vegetal. Morfología bionomía y sistemática de los animales en especial de los de interés veterinario. Morfología, sistemática y asociaciones de los vegetales de interés veterinario. | 3 | 3 | 6 | – Zoología. – Fisiología Vegetal. – Botánica. |
+| Bioquímica. Bases moleculares de la vida y de los procesos productivos. Alteraciones moleculares en la enfermedad. Aplicaciones en los diagnósticos, en la terapia y en la producción animal. | 5 | 4 | 9 | – Bioquímica y Biología Molecular. |
+| Epidemiología. Estudio descriptivo, analítico y prospectivo de los fenómenos que afectan a las poblaciones, en particular la enfermedad y los factores de sanidad, con reflejo en la salud pública en los ecosistemas. | 2,5 | 0,5 | 3 | – Medicina Preventiva y Salud Pública. – Parasitología. – Sanidad Animal. |
+| Etología y Protección Animal y Etnología. Comportamiento animal, domesticación. Sistemas de explotación para la disminución de sufrimientos. Estudio de la morfología externa y de las características etnológicas y productivas de las principales especies y razas de utilidad. | 3 | 2 | 5 | – Zoología. – Fisiología. – Producción Animal. |
+| Física. Bases físicas de los procesos biológicos y de los industriales aplicables a los productos de interés veterinario. Aplicaciones de la física a las Ciencias Veterinarias. | 2 | 2 | 4 | – Física Aplicada. – Física Atómica, Molecular y Nuclear. – Física de la Materia Condensada. – Física de la Tierra. – Astronomía – Astrofísica. – Física Teórica. – Electromagnetismo. – Óptica. |
+| Fisiología Animal. Función de órganos, sistemas y del organismo completo. Aplicación de la Fisiología a la medicina y producción animales. | 6 | 5 | 11 | – Zoología. – Fisiología. |
+| Genética. La herencia biológica; localización y estructura de la información hereditaria, transmisión y recombinación, expresión, regulación y variación. Biotecnología genética. Genética clínica. Genética de poblaciones. | 3 | 3 | 6 | – Genética. – Producción Animal. |
+| Inmunología. Principios básicos de la respuesta inmune y su aplicación técnica. | 3 | 1 | 4 | – Inmunología. |
+| Matemáticas. Principios básicos de biometría y estadística aplicados a las Ciencias Veterinarias. | 3 | 2 | 5 | – Álgebra. – Análisis Matemático. – Estadística e Investigación Operativa. – Geometría y Topología. – Matemática Aplicada. |
+| Microbiología. Morfología, bioquímica, fisiología, genética y taxonomía de virus, bacterias y hongos causantes de infecciones o con aplicaciones industriales biotecnológicas y ecológicas. | 4 | 3 | 7 | – Microbiología. – Sanidad Animal. |
+| Parasitología. Morfología, bionomía, fisiología y sistemática de los parásitos de los animales domésticos y útiles. Relaciones parásito-hospedador-medio ambiente. | 3 | 2 | 5 | – Parasitología. – Sanidad Animal. |
+| Química. Bases químicas de los procesos biológicos y de las aplicaciones médicas e industriales. Factores químicos del medio ambiente. | 2 | 2 | 4 | – Bioquímica y Biología Molecular. – Ingeniería Química. – Química Analítica. – Química Física. – Química Inorgánica. – Química Orgánica. |
+| SEGUNDO CICLO: |
+| Cría y Salud Animal. Aplicaciones genéticas a programas de mejora. Eliminación de factores letales y subletales para la resistencia a la enfermedad. | 4 | 3 | 7 | – Genética. – Producción Animal. |
+| Deontología, Medicina Legal y Legislación Veterinaria. Principios éticos que deben informar el ejercicio de la profesión veterinaria. Normas legales que regulan el comercio y utilización de animales y sus productos, así como las que afectan al ejercicio veterinario. | 2 | 1 | 3 | – Derecho Administrativo. – Filosofía del Derecho. – Filosofía Moral. – Medicina Legal y Forense. – Toxicología. |
+| Enfermedades Infecciosas. Procesos provocados por virus, bacterias y hongos, comprendiendo epidemiología, clínica, diagnóstico, terapia, control y lucha. Zoonosis. | 6 | 4 | 10 | – Microbiología. – Sanidad Animal. |
+| Enfermedades Parasitarias. Protozoosis, helmintosis y artropodosis, considerando los aspectos clínicos, epidemiológicos, diagnóstico, terapia, control y lucha, y las repercusiones sobre los procesos productivos, la salud pública, zoonosis y el medio ambiente. | 4 | 3 | 7 | – Parasitología. – Sanidad Animal. |
+| Farmacología, Farmacia y Terapéutica. Principios generales de farmacocinética y farmacodinamia. Descripción fundamental de los principales grupos farmacológicos. Estudio de las formas farmacéuticas y sus aplicaciones farmacocinética. Mecanismos de acción, efectos farmacológicos y sus consecuencias terapéuticas y tóxicas. Farmacoterapia. | 5 | 3 | 8 | – Farmacia y Tecnología Farmacéutica. – Farmacología. |
+| Higiene, Inspección y Control Alimentario. Condiciones que deben reunir los alimentos de origen animal. Salud pública. Inspección ante y post mortem. Higiene de establecimientos y de manipulación de alimentos. Trabajos prácticos en mataderos y otras instalaciones de control, procesado, distribución y venta de alimentos. | 6 | 4 | 10 | – Nutrición y Bromatología. – Tecnología de los Alimentos. |
+| Medicina y Cirugía Clínica. Procesos morbosos que requieren resolución quirúrgica, las técnicas a emplear, incluidas las de restitución quirúrgica y la cirugía experimental. Anestesiología; bases fisiológicas y farmacológicas. | 6 | 4 | 10 | – Medicina y Cirugía Animal. |
+| Medicina Preventiva y Policía Sanitaria. Bases de la preparación de programas sanitarios, a fin de hacer rentable la explotación ganadera, aumentando la producción, disminuyendo las pérdidas y mejorando ambos parámetros. Bases de la lucha contra las enfermedades y normas de prevención, control y lucha. | 3 | 1 | 4 | – Medicina Preventiva y Salud Pública. – Parasitología. – Sanidad Animal. |
+| Nutrición Animal. Valoración de las necesidades nutritivas de los animales domésticos y útiles según sus procesos digestivos y metabólicos. Materias primas para la alimentación animal, valoración y formulación. | 4 | 3 | 7 | – Producción Animal. |
+| Obstetricia y Reproducción. Comprende los cuidados pre y post parto, así como la resolución médica o quirúrgica de los problemas del parto de los animales domésticos y útiles. Fisiopatología clínica y tecnología de la reproducción. | 6 | 4 | 10 | – Medicina y Cirugía Animal. |
+| Patología General y Anatomía Patológica. Nosología, fisiopatología e inmunopatología. Estudio de las alteraciones patológicas de células, tejidos y órganos. | 7 | 5 | 12 | – Anatomía y Anatomía Patológica Comparadas. – Histología. – Sanidad Animal. – Medicina y Cirugía Animal. |
+| Patología Médica y de la Nutrición. Enfermedades que no tengan carácter contagioso o parasitario, de presentación tanto individual como colectiva, tributarias de tratamiento higiénico-dietético o medicamentoso. Clínica médica intrahospitalaria y ambulante. | 6 | 4 | 10 | – Medicina y Cirugía Animal. |
+| Producción Animal e Higiene Veterinaria. Coordinación y aplicación de los diversos conocimientos fisiológicos y zootécnicos a la explotación práctica de los animales. Instalaciones ganaderas. Higiene ambiental. | 6 | 2 | 8 | – Producción Animal. |
+| Propedéutica Clínica. Métodos y procedimientos de exploración clínica, incluyendo las técnicas de laboratorio complementarias, así como su interpretación. | – | – | 5 (1) | – Medicina y Cirugía Animal. |
+| Radiología. Naturaleza, Producción, propiedades y acción sobre los seres vivos de las radiaciones ionizantes. Sus aplicaciones diagnósticas y terapéuticas. Normas de protección. | 1,5 | 1,5 | 3 | – Medicina y Cirugía Animal. – Radiología y Medicina Física. |
+| Tecnología Alimentaria. Propiedades de los alimentos. Operaciones básicas de Industrias alimentarias. Trabajos prácticos en instalaciones de tratamiento y transformación de alimentos. | 4 | 5 | 9 | – Ingeniería Química. – Nutrición y Bromatología. – Tecnología de los Alimentos. |
+| Toxicología. Estudio de los agentes, naturales o de síntesis, que pueden producir Intoxicación aguda o crónica; su identificación; mecanismo de acción, diagnóstico clínico o experimental de la toxicidad, el conocimiento de residuos en productos alimenticios con posible riesgo, y los contaminantes ambientales. Bases toxicológicas y legales para asegurar la inocuidad de fármacos y aditivos. | 3 | 2 | 5 | – Toxicología. |
+| Estancias. Período de formación práctica en los términos expresados en la Directriz Tercera. | – | 15 | 15 |  |
+
+(1) Teórico-práctico.
+
+> Se añaden las áreas de conocimiento de Sanidad Animal, Parasitología, Microbiología, Fisiología y Bioquímica y Biología Molecular al área de conocimiento de Inmunología, materia troncal "Inmunología", durante una vigencia de tres cursos académicos improrrogables a contar desde el curso 2002-2003, por el art. 2 del Real Decreto 489/2003, de 2 de mayo. Ref. BOE-A-2003-10187.
+
+> Se modifica el cuadro adjunto a la directriz tercera por el art. 38 del Real Decreto 371/2001, de 6 de abril. Ref. BOE-A-2001-8155
+
+> Se modifica el cuadro adjunto a la directriz tercera, en la redacción dada al art. 31.c) del Real Decreto 1561/1997, de 10 de octubre, por el art. único del Real Decreto 1561/1997, de 10 de octubre, por Real Decreto 1654/1998, de 24 de julio. Ref. BOE-A-1998-20842
+
+> Se modifica el cuadro adjunto a la directriz tercera por el art. 31 del Real Decreto 1561/1997, de 10 de octubre. Ref. BOE-A-1997-23354
+
+> Se modifica la directriz segunda por el art. 7 del Real Decreto 1267/1994, de 10 de junio. Ref. BOE-A-1994-13272
+
+> Esta modificación tiene efectos en las homologaciones de planes de estudio desde el día 28 de junio de 1993, según establece la disposición final única del citado Real Decreto.

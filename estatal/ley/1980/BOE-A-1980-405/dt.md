@@ -1,0 +1,3 @@
+## DISPOSICIÓN TRANSITORIA
+
+Los miembros de las diferentes Secciones Profesionales de Psicólogos, legalmente constituidas en los Ilustres Colegios Oficiales de Doctores y Licenciados de Filosofía y Letras y Ciencias, de los distintos Distritos Universitarios, podrán integrarse en el Colegio Oficial de Psicólogos, en el plazo máximo de un año desde la entrada en vigor de los estatutos provisionales. En el mismo plazo, también podrán integrarse en el Colegio Oficial de Psicólogos los titulados superiores que hayan sido Diplomados en las Escuelas Universitarias de Psicología hasta mil novecientos setenta y cuatro.

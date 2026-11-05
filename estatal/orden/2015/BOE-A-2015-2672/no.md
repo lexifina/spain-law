@@ -1,0 +1,1 @@
+Téngase en cuenta que se publica la Orden ECC/570/2016, de 18 de abril, por la que se aprueba el modelo de autoliquidación y pago de la tasa prevista en el artículo 87 de la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas, que sustituye al aprobado por la presente Orden. Ref. BOE-A-2016-3830.

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Celebración de convenio de colaboración.
+
+El Ministerio de Sanidad y el Ministerio de Economía, Comercio y Empresa promoverán la suscripción de un convenio de colaboración con las asociaciones representativas del sector de productos sanitarios, de conformidad con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público con el fin de disponer, con carácter transitorio y complementario al registro de operaciones previsto en este real decreto, de información relativa a precios y volúmenes de productos sanitarios comercializados y financiados con fondos públicos, incluyendo, en su caso, información correspondiente a períodos anteriores a la puesta en funcionamiento de dicho registro.

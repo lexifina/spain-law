@@ -1,0 +1,3 @@
+## Disposición adicional quinta.
+
+Las figuras de homologación de producto, homologación de tipo y registro de tipo, establecidas como preceptivas en disposiciones reglamentarias de seguridad industrial, vigentes a la entrada en vigor del presente Real Decreto, quedan sustituidas, excepto en los casos previstos en el artículo 13.4 de la Ley de Industria, por la de certificaciones de conformidad con los requisitos reglamentarios, emitidas por los Organismos de control establecidos en el capítulo IV del Reglamento que se aprueba por este Real Decreto, de acuerdo con lo fijado en las disposiciones reglamentarias correspondientes.

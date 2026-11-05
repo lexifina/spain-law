@@ -1,0 +1,11 @@
+Ilustrísimos señores:
+
+La Ley 34/1979, de 16 de noviembre, sobre fincas manifiestamente mejorables, señala que corresponde a este Ministerio, oídas las Cámaras Agrarias y las Organizaciones Agrarias de ámbito nacional, establecer periódicamente los criterios objetivos que sirvan para la determinación de las fincas manifiestamente mejorables a que se refiere el apartado c) del artículo segundo, uno. De acuerdo con lo que se señala en la disposición adicional quinta y en la disposición final primera, tales criterios deben quedar establecidos por primera vez antes del 31 de marzo de 1980.
+
+Se considera conveniente adoptar para estos criterios la utilización de unos indicadores que se refieran directamente a los dos aspectos que conforme señala expresamente el artículo segundo de la Ley han de tenerse presentes para delimitar la función social de la propiedad en estas fincas: El empleo y la intensidad de cultivos o aprovechamientos; por lo que a aquél se refiere, parece también conveniente contemplar exclusivamente el aspecto de la mano de obra fija tanto porque así lo viene a señalar la intención del legislador, con arreglo a lo que se expresa en el artículo quinto de la Ley, como en aras de una mayor simplicidad y operatividad.
+
+Tal idea de simplicidad se debe tener presente con carácter general en la fijación por primera vez de estos criterios que, sin excesivo empeño de perfeccionismo, ante todo deben posibilitar el que se inicien con rapidez los oportunos expedientes para determinar las fincas rústicas que notoriamente merecen la precalificación de mejorables.
+
+Parece también obligado el que estos criterios se refieran a los buenos usos agrícolas de las comarcas en que hayan de ser aplicados, en la medida en que éstos expresan la forma en la que debe ser ordenado adecuadamente el empleo y correctamente utilizados los recursos naturales. En cualquier caso la periodicidad con que han de ser establecidos permitirá en el futuro introducir en estos criterios las correcciones que fueran aconsejables de acuerdo con la experiencia que se obtenga al llevarlos a la práctica.
+
+En su virtud, oídas las Cámaras Agrarias y Organizaciones Agrarias de ámbito nacional, este Ministerio dispone,

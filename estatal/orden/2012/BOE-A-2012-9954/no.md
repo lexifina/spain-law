@@ -1,0 +1,1 @@
+Se deja sin efecto la presente Orden, quedando revocadas las delegaciones contenidas en la misma, según establece el apartado vigesimocuarto de la Orden TMA/1007/2021, de 9 de septiembre. Ref. BOE-A-2021-15557#vi-5

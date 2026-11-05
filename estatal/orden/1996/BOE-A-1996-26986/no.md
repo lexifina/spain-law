@@ -1,0 +1,1 @@
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma en todo lo que afecte a lo dispuesto en la Orden AAA/1307/2013, de 1 de julio. Ref. BOE-A-2013-7605, según establece su disposición derogatoria única.2.

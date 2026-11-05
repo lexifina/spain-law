@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Residencia normal.
+
+A efectos de la aplicación del presente reglamento se entenderá por «residencia normal» el lugar en el que permanezca una persona habitualmente, es decir, durante al menos ciento ochenta y cinco días por cada año natural, debido a vínculos personales y profesionales, o, en el caso de una persona sin vínculos profesionales, debido a vínculos personales que indiquen una relación estrecha entre dicha persona y el lugar en el que habite.
+
+No obstante, la residencia normal de una persona cuyos vínculos profesionales estén situados en un lugar diferente del de sus vínculos personales y que, por ello, se vea obligado a permanecer alternativamente en diferentes lugares situados en dos o varios Estados, se considera situada en el lugar al que le unan sus vínculos personales, siempre que vuelva a dicho lugar de una forma regular. Esta última condición no será necesaria cuando dicha persona permanezca en un Estado para desempeñar una misión de una duración determinada. La asistencia a una universidad o escuela no implicará el traslado de la residencia normal.
+
+En todo caso, únicamente se entenderá por residencia normal la permanencia en España en situación regular que deberá ser debidamente acreditada, de acuerdo con lo dispuesto en la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.

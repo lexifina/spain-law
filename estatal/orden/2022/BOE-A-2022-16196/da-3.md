@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Anticipo del pago de la subvención en el ámbito de gestión de la Administración General del Estado.
+
+1. En el ámbito de gestión de la Administración General del Estado los beneficiarios de subvenciones concedidas por la Secretaría General de Formación Profesional deberán garantizar los anticipos de pagos sobre las mismas, cuando así lo establezca la resolución de convocatoria, debiendo formalizarse por cualquiera de los medios previstos en el Real Decreto 937/2020, de 27 de octubre, por el que se aprueba el Reglamento de la Caja General de Depósitos.
+
+2. Quedan exceptuadas de prestar la garantía, a que hace referencia el punto anterior, la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración Local y las entidades de derecho público, así como aquéllas que, por Ley, estén exentas de la presentación de cauciones, fianzas o depósitos ante los organismos de la Administración Pública.

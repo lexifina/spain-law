@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Revisión de las reglas de aplicación del artículo 108 de la Ley 24/1988, de 17 de julio, del Mercado de Valores.
+
+El Gobierno analizará, a la vista de la Resolución del expediente de infracción, abierto por la Comisión Europea, la adecuación del artículo 108 de la Ley 24/1988, de 17 de julio, del Mercado de Valores a la normativa europea que armoniza el Impuesto sobre la concentración de capitales y la del impuesto sobre el valor añadido, previa consulta a las Comunidades Autónomas, en su condición de Administraciones tributarias gestoras y a quienes corresponden los ingresos del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.

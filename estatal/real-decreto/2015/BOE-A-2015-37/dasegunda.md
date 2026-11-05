@@ -1,0 +1,9 @@
+## Disposición adicional segunda. Aprendizaje de lenguas extranjeras.
+
+1. Las Administraciones educativas podrán establecer que una parte de las materias del currículo se impartan en lenguas extranjeras sin que ello suponga modificación de los aspectos básicos del currículo regulados en el presente real decreto. En este caso, procurarán que a lo largo de la etapa el alumnado adquiera la terminología propia de las asignaturas en ambas lenguas.
+
+2. Los centros que impartan una parte de las materias del currículo en lenguas extranjeras aplicarán, en todo caso, los criterios para la admisión del alumnado establecidos en la Ley Orgánica 2/2006, de 3 de mayo. Entre tales criterios no se incluirán requisitos lingüísticos.
+
+3. La lengua castellana o la lengua cooficial sólo se utilizarán como apoyo en el proceso de aprendizaje de la lengua extranjera. Se priorizarán la comprensión y la expresión oral.
+
+4. Se establecerán medidas de flexibilización y alternativas metodológicas en la enseñanza y evaluación de la lengua extranjera para el alumnado con discapacidad, en especial para aquél que presenta dificultades en su expresión oral. Estas adaptaciones en ningún caso se tendrán en cuenta para minorar las calificaciones obtenidas.

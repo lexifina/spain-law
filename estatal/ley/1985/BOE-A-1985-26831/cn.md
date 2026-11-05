@@ -1,0 +1,3 @@
+## Disposición adicional cuadragésima novena.
+
+Los remanentes de crédito que pudieran derivarse del Fondo de Solidaridad, creado por la disposición adicional decimonovena de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, se aplicarán, hasta su total agotamiento, a los programas de apoyo al empleo y a la formación profesional que determine el Gobierno, a propuesta del Ministerio de Trabajo y Seguridad Social.

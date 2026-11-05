@@ -1,0 +1,3 @@
+## Disposición adicional vigésima. Selección y provisión de plazas de facultativos especialistas de área del Instituto Nacional de la Salud.
+
+La toma de posesión de los adjudicatarios del concurso de traslados de facultativos especialistas de área del Instituto Nacional de la Salud, convocado al amparo de lo dispuesto en la disposición adicional vigésima de la Ley 66/1997, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, se efectuará a partir de la entrada en vigor de esta Ley, quedando desvinculada dicha toma de posesión de la correspondiente toma de posesión de los facultativos que obtengan plaza, en virtud de los concursos-oposición convocados al amparo de la disposición adicional citada.

@@ -1,0 +1,3 @@
+## Octava.
+
+Los dueños de Establecimientos balnearios de aguas minero-medicinales, así como los propietarios explotadores de la venta embotellada de aguas minero-medicinales, deberán presentar, en el plazo de un año, a partir de la publicación de este Decreto-ley, liquidación justificada documentalmente de los gastos de establecimiento y pagos efectuados por adquisición de inmuebles y por expropiación de nuevos edificios, cuyo total importe, previas las comprobaciones necesarias, será aprobado por la Autoridad gubernativa provincial y servirá de tipo para la subasta, cuando por la Dirección general de Sanidad haya de procederse, según este Estatuto dispone, a su celebración.

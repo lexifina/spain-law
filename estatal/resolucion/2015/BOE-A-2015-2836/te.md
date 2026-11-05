@@ -1,0 +1,3 @@
+## Tercero. Obtención de la Cuenta de los tributos estatales y recursos de otras Administraciones y entes públicos.
+
+La Cuenta de los tributos estatales y recursos de otras Administraciones y entes públicos se ajustará al contenido y modelos que se incluyen en el Anexo de esta Resolución, debiéndose presentar con el nivel de desagregación por agrupaciones o conceptos que determine la IGAE y que serán objeto de publicación en la oficina virtual del Portal de la IGAE (http://www.pap.minhap.gob.es/). Dicha Cuenta se obtendrá mediante la generación de fichero en formato «pdf» comprensivo de la información anterior, debiéndose seguir en su tramitación el procedimiento establecido en los apartados siguientes.

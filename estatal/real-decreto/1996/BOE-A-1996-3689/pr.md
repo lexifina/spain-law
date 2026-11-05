@@ -1,0 +1,11 @@
+El Reglamento Orgánico de las Escuelas de Educación Infantil y de los Colegios de Educación Primaria fue aprobado por el Real Decreto 819/1993, de 28 de mayo, con el objetivo de brindar a los centros una única norma comprensiva de todos los preceptos cuya aplicación se consideraba imprescindible para su correcto funcionamiento y para cumplir lo ordenado, a este respecto, en las Leyes Orgánicas 8/1985, de 3 de julio, reguladora del Derecho a la Educación, y 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+Posteriormente, la Ley Orgánica 9/1995, de 20 de noviembre, de la participación, la evaluación y el gobierno de los centros docentes, ha introducido, para garantizar una enseñanza de calidad, nuevos mandatos a los poderes públicos sobre fomento de la participación de la comunidad educativa en la organización y gobierno de los centros docentes sostenidos con fondos públicos y en la definición de su proyecto educativo, sobre el apoyo al funcionamiento de los órganos de gobierno de los mismos centros y sobre el establecimiento de procedimientos para la evaluación del sistema educativo, de los centros, de la labor docente, de los cargos directivos y de la actuación de la propia Administración Educativa.
+
+Así, los títulos I, II y III de esta Ley introducen importantes novedades que suponen una mayor profundización en las materias antes citadas, en coherencia con el objetivo de mejora de la calidad de la enseñanza que se pretende con la reforma educativa puesta en marcha por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+Consecuentemente, es necesario aprobar un nuevo reglamento orgánico de las escuelas de educación infantil y de los colegios de educación primaria que recoja lo preceptuado en la nueva Ley y que sustituya al aprobado mediante el Real Decreto 819/1993, de 28 de mayo, por el que se aprueba el Reglamento Orgánico de las Escuelas de Educación Infantil y de los Colegios de Educación Primaria.
+
+En su virtud, a propuesta del Ministro de Educación y Ciencia, previo informe del Consejo Escolar del Estado, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 26 de enero de 1996,
+
+## D I S P O N G O :

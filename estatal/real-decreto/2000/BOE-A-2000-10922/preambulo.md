@@ -1,0 +1,15 @@
+El Real Decreto 2685/1976, de 16 de octubre, aprobó la Reglamentación técnico-sanitaria para la elaboración, circulación y comercio de preparados alimenticios para regímenes dietéticos y/o especiales, modificado posteriormente por los Reales Decretos 1424/1982, de 18 de junio; 2353/1986, de 10 de octubre; 1426/1988, de 25 de noviembre; 1809/1991, de 13 de diciembre, y 431/1999, de 12 de marzo.
+
+El Real Decreto 1809/1991, de 13 de diciembre, establece en su único anexo la relación de los productos alimenticios que deberán ser objeto de legislación específica mediante Reglamentaciones técnico-sanitarias. En dicha relación figuran, entre otros, los alimentos dietéticos destinados a usos médicos especiales.
+
+Por ello, para garantizar por una parte que estos productos satisfacen las necesidades nutricionales particulares de las personas afectadas por una enfermedad, trastorno o afección específicos o desnutridas por su causa y que, por otra, dichos productos se administran bajo supervisión médica, con la asistencia de otros profesionales sanitarios y que además, dada su naturaleza y destino, su etiquetado debe tener establecidas reglas específicas que incorporen excepciones y adiciones a la norma general de etiquetado de los productos alimenticios, la Comisión Europea ha adoptado, recientemente, la Directiva 1999/21/CE, de 25 de marzo, sobre alimentos dietéticos destinados a usos médicos especiales.
+
+No obstante, existen otros productos dietéticos que por su composición y finalidad no están incluidos en el ámbito de aplicación del presente Real Decreto, tal es el caso de los alimentos para prematuros y alimentos de muy bajo valor energético para la pérdida de peso, respecto de los cuales la Comisión ha puesto de manifiesto en el Acta de la 69.ª Reunión del Comité Permanente de Productos Alimenticios, que no están regulados por la citada Directiva 1999/21/CE. Para dichos productos los requisitos específicos se establecerán posteriormente, permaneciendo sujetos a los requisitos generales que para los productos alimenticios destinados a una alimentación especial, están determinados en el Real Decreto 2685/1976, de 16 de octubre, y sus modificaciones posteriores.
+
+Mediante esta disposición que se dicta al amparo del artículo 149.1.16.ª de la Constitución, y de acuerdo con lo establecido en los artículos 40.2 y 40.4 de la Ley 14/1986, de 25 de abril, General de Sanidad, excepto el artículo 6, que se dicta en virtud de la competencia exclusiva del Estado en materia de comercio exterior y sanidad exterior, al amparo de lo dispuesto en el artículo 149.1.10.ª y 16.ª de la Constitución y de acuerdo con el artículo 38 de la citada Ley 14/1986, de 25 de abril, se procede a incorporar la citada Directiva a nuestro ordenamiento jurídico.
+
+En la elaboración de este Real Decreto han sido oídos los sectores afectados y se ha emitido el preceptivo informe de la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 9 de junio de 2000,
+
+DISPONGO:

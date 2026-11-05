@@ -1,0 +1,9 @@
+## Séptimo. Criterios aplicables a la gestión económico-financiera del INAEM.
+
+El INAEM realizará una planificación de los recursos económico-financieros que debe destinar para alcanzar la misión que le ha sido encomendada, teniendo en cuenta sus objetivos y tareas, su compromiso con una gestión orientada a los resultados y de acuerdo con las disponibilidades presupuestarias.
+
+La acción de fomento del INAEM, desarrollada a través de subvenciones y ayudas, incluyendo las dirigidas a la dotación, conservación y renovación de espacios e infraestructuras escénicas, se inspirará y priorizará conforme a criterios de calidad, estabilidad, captación de nuevos públicos, equilibrio de la oferta entre los diversos ámbitos territoriales, coordinación, promoción exterior de la industria cultural nacional y el patrimonio histórico español y difusión de la creación escénica y musical actual e innovadora, y se realizará en todo caso en cumplimiento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones y demás normativa que le resulte aplicable.
+
+Se reforzarán los controles internos y los procedimientos de gestión económico-financiera de las áreas de contratación, adquisición de bienes de interés cultural, subvenciones, tesorería e ingresos. Se implantará un sistema de planificación y dirección por objetivos (SPPO), así como un Cuadro de Mando Integral que recoja las perspectivas presupuestarias, de cliente, de personas y de formación, mejora y aprendizaje.
+
+En los supuestos de actuación indirecta del INAEM, a través de su participación en órganos de gobierno de entes públicos o privados, así como en las demás acciones externas que desempeñe en cumplimiento de su misión, promoverá la aplicación de los principios inspiradores de este código y de los criterios señalados en el apartado anterior.

@@ -1,0 +1,7 @@
+A la vista de la proliferación de fuentes radiactivas instaladas en cabezales de pararrayos, el Ministerio de Industria y Energía ha realizado estudios y solicitado informe del Consejo de Seguridad Nuclear, que lo ha emitido con un estudio de los riesgos derivados del empleo de radionucleidos para estos fines, así como de las supuestas ventajas de tales equipos frente a los pararrayos convencionales. Las conclusiones alcanzadas ponen de manifiesto que no es posible la homologación de los pararrayos radiactivos ateniéndose a lo dispuesto en la Orden del Ministerio de Industria de 20 de marzo de 1975, y que deben ser consideradas como instalaciones radiactivas a todos los efectos.
+
+Las conclusiones de los estudios realizados evidencian que si bien los riesgos de radiactividad en condiciones normales de funcionamiento son escasos, los de contaminación a causa del deterioro del sistema de contención de los radioisótopos empleados son apreciables y en caso de accidente los riesgos son considerables sin que en ningún caso ofrezcan compensación por su eficacia, por lo que el referido Consejo ha propuesto se dicte una disposición para impedir la instalación en el futuro de pararrayos radiactivos y regular la legalización o retirada de los ya instalados.
+
+En su virtud, a propuesta del Ministro de Industria y Energía y a iniciativa del Consejo de Seguridad Nuclear, previa deliberación del Consejo de Ministros en su reunión del día 13 de junio de 1986,
+
+DISPONGO:

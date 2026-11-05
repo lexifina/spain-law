@@ -1,0 +1,5 @@
+## Artículo cuarenta y siete. Compatibilidad de devengos extraordinarios de pensiones.
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria 1.2.b) del Real Decreto Legislativo 670/1987, de 30 de abril. Ref. BOE-A-1987-12636#primera-3.

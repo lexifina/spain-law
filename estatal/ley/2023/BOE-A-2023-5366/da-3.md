@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Estudio del sexilio.
+
+Se entiende por sexilio el abandono de las personas LGTBI de su lugar de residencia por sufrir rechazo, discriminación o violencia, dándose especialmente en las zonas rurales. En el plazo de un año desde la aprobación de esta ley, a través del Consejo de Participación de las personas LGTBI, se establecerán los mecanismos adecuados para recabar datos sobre la migración de las personas LGTBI dentro de España. Teniendo en cuenta los datos que se obtengan se contemplará, en su caso, el sexilio como causa de despoblación dentro de las medidas sobre políticas de despoblación del Gobierno de España.

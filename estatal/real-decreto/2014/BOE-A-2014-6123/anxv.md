@@ -1,0 +1,55 @@
+## ANEXO XV
+
+## Acceso y conexión a la red
+
+1. Los procedimientos de acceso y conexión a la red, y las condiciones de operación para las instalaciones de generación a partir de fuentes de energía renovables, cogeneración y residuos, así como el desarrollo de las instalaciones de red necesarias para la conexión y costes asociados, se resolverán según lo establecido en el Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica y en el Real Decreto 1699/2011, de 18 de noviembre, por el que se regula la conexión a red de instalaciones de producción de energía eléctrica de pequeña potencia y la normativa que lo desarrolla, con las condiciones particulares que se establecen en el presente real decreto. En el caso de no aceptación, por parte del titular, de la propuesta alternativa realizada por la empresa distribuidora ante una solicitud de punto de acceso y conexión, podrá solicitar al órgano competente la resolución de la discrepancia, que deberá dictarse y notificarse al interesado en el plazo máximo de tres meses a contar desde la fecha de la solicitud.
+
+2. Asimismo, deberán observarse los criterios siguientes en relación con la potencia máxima admisible en la interconexión de una instalación de producción o conjunto de instalaciones que compartan punto de conexión a la red, según se realice la conexión con la distribuidora a una línea o directamente a una subestación:
+
+1.º Líneas: la potencia total de la instalación, o conjunto de instalaciones, conectadas a la línea no superará el 50 por ciento de la capacidad de la línea en el punto de conexión, definida como la capacidad térmica de diseño de la línea en dicho punto.
+
+2.º Subestaciones y centros de transformación (AT/BT): la potencia total de la instalación, o conjunto de instalaciones, conectadas a una subestación o centro de transformación no superará el 50 por ciento de la capacidad de transformación instalada para ese nivel de tensión.
+
+3. Siempre que se salvaguarden las condiciones de seguridad y calidad de suministro para el sistema eléctrico, en condiciones económicas de igualdad y con las limitaciones que, de acuerdo con la normativa vigente se establezcan por el operador del sistema o en su caso por el gestor de la red de distribución, cuando se haga uso de redespacho a la baja no basado en el mercado, las instalaciones de producción de energía eléctrica tendrán la siguiente prioridad para la evacuación de la energía producida, ordenadas de mayor a menor nivel de prelación:
+
+a) Instalaciones a partir de fuentes de energía renovables, incluyendo aquellas que incorporen almacenamiento que no consuma de la red eléctrica y aquellas que consumiendo energía de la red tengan una potencia instalada del módulo de almacenamiento igual o inferior a la potencia instalada del módulo de generación renovable, según las definiciones del artículo 3 y de la disposición adicional undécima.
+
+b) Instalaciones de cogeneración de alta eficiencia, de acuerdo con la definición prevista en el artículo 2 del Real Decreto 616/2007, de 11 de mayo, sobre fomento de la cogeneración, incluyendo aquellas que incorporen almacenamiento.
+
+c) Resto de tecnologías.
+
+Asimismo, con el objetivo de contribuir a una integración segura y máxima de la energía eléctrica procedente de fuentes de energía renovables el operador del sistema considerará preferentes aquellos generadores cuya adecuación tecnológica contribuya en mayor medida a garantizar las condiciones de seguridad y calidad de suministro para el sistema eléctrico.
+
+4. Cuando varios generadores compartan punto de conexión a la red de transporte, la tramitación de los procedimientos de acceso y conexión, ante el operador del sistema y transportista, así como la coordinación con este último tras la puesta en servicio de la generación, deberá realizarse de forma conjunta y coordinada por un Interlocutor Único de Nudo que actuará en representación de los generadores, en los términos y con las funciones que se establezcan.
+
+5. Para instalaciones o agrupaciones de las mismas, de más de 10 MW, con conexión existente y prevista a la red de distribución, y tras la conclusión de su aceptabilidad por el gestor de distribución, este solicitará al operador del sistema su aceptabilidad desde la perspectiva de la red de transporte en los procedimientos de acceso y conexión. Se considera agrupación el conjunto de generadores existentes o previstos, o agrupaciones de éstos de acuerdo con la definición de agrupación recogida en el artículo 7, con potencia instalada mayor de 1 MW y con afección mayoritaria sobre un mismo nudo de la red de transporte.
+
+Asimismo, el gestor de la red de distribución informará al operador del sistema sobre la resolución de los procedimientos de acceso y conexión de todas las instalaciones incluidas en el ámbito del presente real decreto.
+
+6. Antes de la puesta en tensión de las instalaciones de generación y de conexión a red asociadas, se requerirá el informe de verificación de las condiciones técnicas de conexión del operador del sistema o del gestor de la red de distribución que acredite el cumplimiento de los requisitos para la puesta en servicio de la instalación según la normativa vigente, sobre la base de la información aportada por los generadores. Su cumplimiento será acreditado por el órgano competente.
+
+7. Los gastos de las instalaciones necesarios para la conexión serán, con carácter general, a cargo del titular de la instalación de producción.
+
+8. Si el órgano competente apreciase circunstancias en la red que impidieran técnicamente la absorción de la energía producida, fijará un plazo para subsanarlas. Los gastos de las modificaciones en la red serán a cargo del titular de la instalación de producción, salvo que no fueran exclusivamente para su servicio; en tal caso, correrán a cargo de ambas partes de mutuo acuerdo, teniendo en cuenta el uso que se prevé que van a hacer de dichas modificaciones cada una de las partes. En caso de discrepancia resolverá el órgano correspondiente de la Administración competente.
+
+9. Para la generación no gestionable, la capacidad de generación de una instalación o conjunto de instalaciones que compartan punto de conexión a la red no excederá de 1/20 de la potencia de cortocircuito de la red en dicho punto.
+
+En caso de apertura del interruptor automático de la empresa titular de la red en el punto de conexión, así como en cualquier situación en la que la generación pueda quedar funcionando en isla, se instalará por parte del generador un sistema de teledisparo automático u otro medio que desconecte la central o centrales generadores con objeto de evitar posibles daños personales o sobre las cargas. En todo caso esta circunstancia será reflejada de manera explícita en el contrato a celebrar entre el generador y la empresa titular de la red en el punto de conexión, aludiendo en su caso a la necesaria coordinación con los dispositivos de reenganche automático de la red en la zona.
+
+Sin perjuicio de las especificidades establecidas para las instalaciones que le sea de aplicación el Real Decreto 1699/2011, de 18 de noviembre, las protecciones de mínima frecuencia de los grupos generadores deberán estar coordinadas con el sistema de deslastre de cargas por frecuencia del sistema eléctrico peninsular español, por lo que los generadores sólo se podrán desacoplar de la red si la frecuencia cae por debajo de 48 Hz, con una temporización de 3 segundos como mínimo. Por otra parte, las protecciones de máxima frecuencia sólo podrán provocar el desacoplamiento de los generadores si la frecuencia se eleva por encima de 51 Hz con la temporización que se establezca en los procedimientos de operación.
+
+El presente anexo será de aplicación, sin perjuicio, de las especificidades establecidas para las instalaciones a las que sea de aplicación el Real Decreto 1699/2011, de 18 de noviembre.
+
+No obstante, los anteriores valores máximos y mínimos de frecuencia a los que los generadores pueden desacoplar de la red y sus temporizaciones no serán de aplicación para los módulos de generación de electricidad incluidos dentro del ámbito de aplicación del Reglamento (UE) 2016/631, de 14 de abril de 2016 para los que será de aplicación lo establecido en dicho reglamento, así como en la orden ministerial que apruebe los requisitos que deben establecer los gestores de red pertinentes de conformidad con lo establecido en dicho reglamento.
+
+> Se modifica el apartado 3 por el art. único.21 del Real Decreto 917/2025, de 15 de octubre. Ref. BOE-A-2025-20694
+
+> Téngase en cuenta la disposición transitoria única.4 del citado Real Decreto, en cuanto a los efectos de esta modificación.
+
+> Se deja sin efecto la modificación del apartado 3 por Resolución de 22 de julio de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-15313
+
+> Se modifica el apartado 3 por el art. 11 del Real Decreto-ley 7/2025, de 24 de junio. Ref. BOE-A-2025-12857#a1-3
+
+> Téngase en cuenta que esta modificación surtirá efecto una vez estén en vigor los procedimientos de operación adaptados a dichas modificaciones, salvo aquellas relativas al nuevo orden de prioridad en el redespacho a la baja no basado en el mercado, que surtirán efecto en el plazo máximo de un mes desde la entrada en vigor del citado real decreto-ley.
+
+> Se añade el párrafo final por la disposición final 2.9 del Real Decreto 647/2020, de 7 de julio. Ref. BOE-A-2020-7439#df-2

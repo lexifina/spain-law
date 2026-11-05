@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Garantía de mantenimiento de la base mínima de cotización a efectos de pensiones para los trabajadores autónomos con menores ingresos.
+
+A los trabajadores autónomos en situación de alta en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos a 31 de diciembre de 2022, cuyos ingresos en cómputo anual durante 2023 y 2024 se encuentren dentro de los tramos establecidos en la tabla reducida de la disposición transitoria primera, se les aplicará durante seis meses en cada uno de estos ejercicios de una base mínima de cotización de 960 euros a efectos del cálculo de las pensiones del sistema, aunque elijan una base de cotización inferior para esos años.
+
+Cuando el trabajador autónomo haya pasado a tener la condición de pensionista no se practicará la regularización respecto a las bases de cotización mensuales tomadas en cuenta para el cálculo de la base reguladora de la prestación, que no será objeto de modificación alguna.

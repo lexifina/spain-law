@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Beneficiarios Colegiados en Colegios profesionales.
+
+A los efectos de lo dispuesto en el artículo 14, apartado 2, párrafo c) de este Reglamento, se entenderá que están protegidos por título distinto quienes ejerciten la opción de pertenecer a una mutualidad de previsión social, de acuerdo con lo previsto en la disposición adicional decimoquinta, apartado 1, párrafo tercero, de la Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados, siempre que dicha mutualidad preste equivalente cobertura de asistencia sanitaria, y que el profesional colegiado la hubiera contratado.

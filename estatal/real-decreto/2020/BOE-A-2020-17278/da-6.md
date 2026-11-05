@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Aplicación de requisitos de observabilidad y controlabilidad a instalaciones existentes.
+
+Con independencia del cambio en la definición de potencia instalada introducido mediante la disposición final tercera, aquellos productores que, a la entrada en vigor de este real decreto, debieran cumplir con las obligaciones recogidas en el artículo 7 y en la disposición adicional duodécima del Real Decreto 413/2014, de 6 de junio, de acuerdo con la definición de potencia instalada aplicable con anterioridad a dicha entrada en vigor, deberán seguir cumpliendo con dichas obligaciones.

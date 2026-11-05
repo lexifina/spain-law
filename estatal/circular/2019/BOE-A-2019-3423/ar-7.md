@@ -1,0 +1,25 @@
+## Artículo 7. Garantías adecuadas.
+
+1. Conforme a lo previsto en el artículo 9.2.g) del RGPD tendrán la consideración de medidas adecuadas y específicas para proteger los intereses y derechos fundamentales de los afectados, en todo caso, las siguientes, sin perjuicio de cualquier otra que estime el responsable del tratamiento y las que puedan exigir otros órganos en el ámbito de sus competencias:
+
+1.º Atendiendo al principio de responsabilidad desde el diseño y por defecto previsto en el artículo 25 del RGPD, deberán adoptarse, tanto en el momento de determinar los medios de tratamiento como en el momento del propio tratamiento, medidas técnicas y organizativas apropiadas, como la seudonimización, e incluso la agregación y anonimización. Además, deberá garantizarse que, por defecto, solo sean objeto de tratamiento los datos personales que sean necesarios para cada uno de los fines específicos del tratamiento y que no serán accesibles, sin intervención de la persona, a un número indeterminado de personas.
+
+2.º Será obligatorio designar a un delegado de protección de datos conforme a lo previsto en el artículo 37.1.c) del RGPD, al realizarse un tratamiento a gran escala de categorías especiales de datos personales. El delegado de protección de datos desempeñará las funciones que le atribuyen el artículo 39 del RGPD y los artículos 36 y 37 de la LOPDPGDD con especial diligencia atendiendo al alto riesgo asociado a estos tratamientos.
+
+3.º Deberá llevarse un registro de las actividades de tratamiento con el contenido señalado en el artículo 30 del RGPD, debiendo ser precisos y claros, conforme a los principios de lealtad y transparencia, en la descripción de los fines del tratamiento, y de las categorías de interesados y de datos personales objeto de tratamiento. La llevanza de dicho registro resultará en todo caso obligatoria al incluir categorías especiales de datos personales del artículo 9.
+
+4.º Se deberá realizar una evaluación de impacto relativa a la protección de datos al realizarse un tratamiento a gran escala de las categorías especiales de datos conforme a lo dispuesto en el artículo 35.3 del RGPD.
+
+5.º Deberá consultarse a la AEPD antes de proceder al tratamiento conforme al artículo 36.1 del RGPD al tratarse de tratamientos que entrañan un alto riesgo, a no ser que el responsable justifique la adopción de medidas para mitigarlo. En este último caso deberá remitirse a la AEPD el análisis de riesgos y la evaluación de impacto junto a la justificación de las medidas adoptadas, al amparo de lo previsto en el artículo 58.1. a) y e) del RGPD. La solicitud de consulta a la AEPD o, en su defecto, la remisión de la documentación anteriormente indicada, deberá realizarse al menos 14 semanas antes del inicio del periodo electoral.
+
+6.º Deberán adoptarse las medidas de seguridad necesarias conforme a lo previsto en el artículo 32 del RGPD, que deberán ser lo más rigurosas que permita el estado de la técnica teniendo en cuenta que se están tratando datos referentes a las opiniones políticas cuyo tratamiento es excepcional y que suponen un alto riesgo para los derechos y libertades de las personas físicas.
+
+7.º Cuando el tratamiento se vaya a realizar por un encargado del tratamiento, deberá seleccionarse uno que ofrezca garantías suficientes y haberse suscrito un contrato con el contenido del artículo 28 del RGPD, en el que deberá quedar plenamente garantizado que el encargado actuará solo siguiendo instrucciones del responsable, debiendo dichas instrucciones contemplar todas las garantías adecuadas a las que se hace referencia en la presente circular.
+
+8.º Deberá facilitarse, de un modo sencillo y gratuito, el ejercicio de los derechos de acceso, rectificación, supresión, limitación del tratamiento y oposición, conforme a lo previsto en el artículo 12 del RGPD y, en cuanto al derecho de oposición, conforme a lo previsto en el apartado 5 del artículo 58 bis de la LOREG.
+
+9.º En el caso de que se pretenda obtener los datos de terceros que no actúen como encargados del tratamiento, el responsable deberá comprobar que dichos datos fueron obtenidos de manera lícita y cumpliendo con todos los requisitos del RGPD, especialmente que el tercero tiene una legitimación específica para obtener y tratar dichos datos y que ha informado expresamente a los afectados de la finalidad de cesión a los partidos políticos, cumpliendo de este modo con el principio general de responsabilidad proactiva consagrado en el artículo 5.2 del RGPD, y singularmente para actuar conforme a lo previsto en sus artículos 24 y 25.
+
+10.º El responsable deberá cumplir con lo dispuesto en el artículo 22 del RGPD si los afectados van a ser objeto de decisiones automatizadas, incluida la elaboración de perfiles, siempre que el tipo de tratamiento que prevea, por sus características y teniendo en cuenta de nuevo la naturaleza de los datos tratados, pueda afectar significativamente a los ciudadanos.
+
+2. El responsable del tratamiento y, en su caso, el encargado, deberán ser capaces de acreditar documentalmente la adopción de las anteriores garantías.

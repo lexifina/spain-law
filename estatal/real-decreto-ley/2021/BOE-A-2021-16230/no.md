@@ -1,0 +1,1 @@
+El presente Real Decreto-ley se entiende tácitamente sustituido por la Ley 10/2022, de 14 de junio, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia.Ref. BOE-A-2022-9838

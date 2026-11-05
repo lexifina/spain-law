@@ -1,0 +1,1 @@
+Téngase en cuenta que el Real Decreto-ley 27/2020, de 4 de agosto, ha sido derogado por Acuerdo del Congreso de los Diputados, publicado por Resolución de 10 de septiembre de 2020. Ref. BOE-A-2020-10491

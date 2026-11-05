@@ -1,0 +1,11 @@
+## Disposición transitoria tercera. Adecuación de los equipos de medida de los clientes acogidos a la tarifa de alumbrado público.
+
+1. Con el fin de posibilitar la adaptación de los equipos de medida de aquellos clientes acogidos a la tarifa específica B.0 de alumbrado público a los requisitos de la nueva opción tarifaria a la que se acojan con motivo de la desaparición de dicha tarifa B.0, desde el 1 de enero de 2007 en tanto no se les haya instalado el equipo de medida adecuado y hasta el plazo máximo que se establece en el apartado 2 de la presente disposición, se facturará a estos suministros de la siguiente manera:
+
+A los consumidores que tengan una potencia contratada inferior o igual a 15 kW se les aplicará la tarifa 2.0.X o 3.0.1 con discriminación horaria que diferencia dos periodos correspondiente al escalón de potencia contratada, de acuerdo con lo establecido en la disposición adicional cuarta, facturando un 86 % del consumo total con el termino de energía de valle y un 14 % del consumo total con el termino de energía del resto de horas.
+
+A los consumidores que tengan una potencia contratada superior a 15 kW se les aplicará la tarifa 3.0.2 con discriminación horaria tipo 3, realizando a estos efectos un reparto del 12 % del total de consumo atribuido al período de punta, del 24 % del total de consumo atribuido al período de llano y del 64 % del total de consumo atribuido al período de valle.
+
+2. Se establece un plazo máximo de seis meses a partir de la entrada en vigor de este Real Decreto para que las empresas distribuidoras instalen o adapten los equipos de medida de todos sus clientes que a 31 de diciembre de 2006 estén acogidos a la tarifa B.0. Los consumidores deberán comunicar en este plazo a la empresa distribuidora la nueva tarifa a la que desean acogerse. Una vez transcurrido el plazo, sin que el cliente haya solicitado las nuevas condiciones del contrato, la compañía distribuidora aplicará automáticamente la tarifa 2.0.X o 3.0.1 sin discriminación horaria alguna que corresponda si la potencia contratada es inferior a 15 kW, y la tarifa 3.0.2 con discriminación horaria Tipo 1 si su potencia contratada es superior a 15 kW.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 45, de 21 de febrero de 2007. Ref. BOE-A-2007-3599

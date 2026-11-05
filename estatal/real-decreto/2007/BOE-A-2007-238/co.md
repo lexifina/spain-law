@@ -1,0 +1,1 @@
+Norma derogada, con la excepción de la disposición adicional primera, por la disposición derogatoria única.a) del Real Decreto 1105/2014, de 26 de diciembre Ref. BOE-A-2015-37, y en su totalidad por la disposición derogatoria única.a) del Real Decreto 562/2017, de 2 de junio. Ref. BOE-A-2017-6250#dd

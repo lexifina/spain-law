@@ -1,0 +1,5 @@
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+
+1. Hasta tanto entre en vigor la relación de puestos de trabajo de la Oficina de Ciencia y Tecnología, los nuevos órganos regulados en el presente Real Decreto serán atendidos por las unidades y puestos de trabajo que se adscriban a los mismos, procedentes de los órganos suprimidos por la disposición adicional primera del Real Decreto 121/1998, de 30 de enero, por el que se modifica el Real Decreto 1887/1996, de 2 de agosto, de estructura orgánica básica del Ministerio de Educación y Cultura. Tal adscripción provisional se efectuará mediante resolución del Secretario de Estado para la Administración Pública, a propuesta de los Subsecretarios de Educación y Cultura y de la Presidencia.
+
+2. Los titulares de las unidades y puestos de trabajo a que se refiere el párrafo anterior continuarán percibiendo sus retribuciones con cargo al presupuesto del Ministerio de Educación y Cultura, hasta tanto entre en vigor la relación de puestos de trabajo de la Oficina de Ciencia y Tecnología.

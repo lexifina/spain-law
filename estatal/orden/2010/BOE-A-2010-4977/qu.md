@@ -1,0 +1,3 @@
+## Quinta. Activos no generadores de flujos de efectivo arrendados por las empresas públicas a terceros.
+
+En el caso de que se produzcan arrendamientos de activos no generadores de flujos de efectivo por las empresas públicas a terceros, con o sin opción de compra, se presumirá, en todo caso, que no se transfieren sustancialmente los riesgos y beneficios inherentes a la propiedad de los mismos, en tanto los activos mantengan el potencial de servicio y las empresas públicas la titularidad del derecho de explotación. Por tanto, la empresa pública arrendadora registrará el importe recibido, ya sea en forma de pago único o mediante una serie de pagos o cuotas, como un arrendamiento operativo, manteniendo la presencia del activo en su balance conforme a su naturaleza.

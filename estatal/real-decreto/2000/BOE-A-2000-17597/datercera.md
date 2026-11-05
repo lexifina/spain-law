@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Tejidos, células y sustancias de origen humano.
+
+A efectos del presente Real Decreto, la toma, la obtención y la utilización de tejidos, células y sustancias de origen humano se regirán, en materia deontológica, por los principios establecidos en el Convenio del Consejo de Europa para la protección de los derechos humanos y la dignidad del ser humano con respecto a las aplicaciones de la biología y la medicina y por la legislación vigente en dicha materia. En cuanto al diagnóstico, son primordiales tanto la protección de la confidencialidad de la información referente a la vida privada, como el principio de no discriminación basada en las características genéticas familiares de los hombres y de las mujeres.

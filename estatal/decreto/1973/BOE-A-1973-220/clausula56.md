@@ -1,0 +1,3 @@
+## Cláusula 56. Inscripción de bienes y derechos expropiados.
+
+El concesionario viene obligado a inscribir en el Registro de la Propiedad, y a favor del Estado, la totalidad de los bienes y derechos expropiados que queden afectos a la concesión y sean susceptibles de ello, y a solicitar del mencionado Registro la extensión de las notas marginales prevenidas en el artículo 32, norma 1.ª, y artículo 6, párrafo 2.º, del Reglamento Hipotecario, sin perjuicio de la inscripción independiente de su derecho de concesión, que deberá llevarse a cabo con arreglo a los artículos 31 y 60 y siguientes del mismo Reglamento.

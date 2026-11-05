@@ -1,0 +1,3 @@
+## Disposición Final Segunda. Incorporación del Derecho de la Unión Europea.
+
+Mediante esta Ley se incorporan al Derecho español la Directiva 2003/86/CE, del Consejo, de 22 de septiembre, sobre el derecho a la reagrupación familiar; la Directiva 2004/83/CE, del Consejo, de 29 de abril, por la que se establecen normas mínimas relativas a los requisitos para el reconocimiento y el estatuto de nacionales de terceros países o apátridas como refugiados o personas que necesitan otro tipo de protección internacional, y al contenido de la protección concedida; y la Directiva 2005/85/CE, del Consejo, de 1 de diciembre, sobre normas mínimas para los procedimientos que deben aplicar los Estados miembros para conceder o retirar la condición de refugiado.

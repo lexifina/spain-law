@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio de adaptación al Reglamento del seguro de riesgos extraordinarios.
+
+1. Los contratos de seguro de nueva emisión que se celebren a partir de los seis meses siguientes a la fecha de publicación en el "Boletín Oficial del Estado" de la resolución a que se refieren los artículos 12 y 13 del Reglamento del seguro de riesgos extraordinarios habrán de estar adaptados al citado reglamento ; igualmente, transcurrido dicho plazo, habrá de realizarse preceptivamente la adaptación a éste de los contratos de seguro de cartera a su renovación, y a más tardar en el plazo de un año desde el transcurso de los seis meses.
+
+2. Mientras no se haya efectuado la adaptación de los contratos de seguro o transcurrido el plazo a que se refiere el apartado 1, los siniestros que se produzcan serán indemnizados por el Consorcio de Compensación de Seguros de acuerdo con lo establecido en el Reglamento de riesgos extraordinarios sobre las personas y los bienes, aprobado por el Real Decreto 2022/1986, de 29 de agosto.

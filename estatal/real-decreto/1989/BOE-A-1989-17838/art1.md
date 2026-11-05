@@ -1,0 +1,5 @@
+## Artículo 1. Confederación Hidrográfica del Guadiana.
+
+Se constituye el Organismo de Cuenca Confederación Hidrográfica del Guadiana, O.A., de acuerdo con lo regulado en el artículo 21 del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, como organismo autónomo de los previstos en el artículo 98 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público adscrito al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente a través de la Dirección General del Agua.
+
+> Se modifica por la disposición final 8 del Real Decreto 895/2017, de 6 de octubre. Ref. BOE-A-2017-11984#df-8

@@ -1,0 +1,3 @@
+## Decimonoveno. Transporte Terrestre.
+
+Con la previa aprobación prevista en la disposición adicional decimotercera de la Ley 6/1997, de 14 de abril, el Director General de Transporte Terrestre delega en el titular de la Subdirección General de Gestión, Análisis e Innovación del Transporte Terrestre, el ejercicio de las facultades relativas a la gestión de las tasas que gravan la prestación de servicios y la realización de actuaciones por la Administración en materia de ordenación de los transportes terrestres por carretera, previstas en el artículo 27 de la Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.

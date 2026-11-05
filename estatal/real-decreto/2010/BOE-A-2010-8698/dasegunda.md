@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Agrupaciones de especialidades.
+
+Las relaciones de puestos militares podrán incluir agrupaciones de especialidades fundamentales que faciliten y agilicen la gestión de destinos, para lo que, a estos efectos, los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, para el personal de su respectivo ejército, podrán constituir las agrupaciones de especialidades que se precisen de las contenidas en este Reglamento, en el Reglamento de Cuerpos, Escalas y Especialidades de las Fuerzas Armadas, aprobado por el Real Decreto 207/2003, de 21 de febrero, o en la Orden Ministerial 15/2000, de 21 de enero, por la que se determinan las especialidades de los Militares Profesionales de Tropa y Marinería.

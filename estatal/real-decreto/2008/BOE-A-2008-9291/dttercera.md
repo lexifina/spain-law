@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Precios de facturación al Sistema Nacional de Salud.
+
+La facturación de las recetas con cargo a fondos públicos del Sistema Nacional de Salud, así como de los regímenes especiales de la Mutualidad General de Funcionarios Civiles del Estado (MUFACE), del Instituto Social de las Fuerzas Armadas (ISFAS) y de la Mutualidad General Judicial (MUGEJU) se efectuará a precios antiguos hasta que hayan transcurrido dos meses desde el primer día del mes siguiente a la entrada en vigor de este real decreto. A partir del día siguiente a dicha fecha, la facturación se efectuará con los precios nuevos resultantes de lo establecido en este real decreto.

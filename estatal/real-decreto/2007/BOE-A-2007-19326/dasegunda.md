@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Agrupación de modalidades deportivas.
+
+Sin perjuicio de su especialización, los títulos y enseñanzas mínimas de más de una modalidad o especialidad deportiva se podrán establecer agrupadas, previa consulta con el órgano responsable de la formación profesional en el Ministerio de Educación y Ciencia, siempre que compartan semejanzas técnicas y características intrínsecas comunes, estén asignadas por el Consejo Superior de Deportes a la misma federación deportiva y así lo aconsejen las necesidades de desarrollo de la modalidad o especialidad dentro de la estructura federativa.

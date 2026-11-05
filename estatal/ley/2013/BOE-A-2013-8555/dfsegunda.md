@@ -1,0 +1,65 @@
+## Disposición final segunda. Modificación de la Ley 27/1999, de 16 de julio, de Cooperativas.
+
+Se modifica la Ley 27/1999, de 16 de julio, de Cooperativas, en la forma que a continuación se indica.
+
+Uno. Se da nueva redacción al artículo 6 y se incluye un nuevo apartado 2:
+
+«Artículo 6. Clases de cooperativas.
+
+1. Las sociedades cooperativas de primer grado podrán clasificarse de la siguiente forma:
+
+– Cooperativas de trabajo asociado.
+
+– Cooperativas de consumidores y usuarios.
+
+– Cooperativas de viviendas.
+
+– Cooperativas agroalimentarias.
+
+– Cooperativas de explotación comunitaria de la tierra.
+
+– Cooperativas de servicios.
+
+– Cooperativas del mar.
+
+– Cooperativas de transportistas.
+
+– Cooperativas de seguros.
+
+– Cooperativas sanitarias.
+
+– Cooperativas de enseñanza.
+
+– Cooperativas de crédito.
+
+2. Los Estatutos de las cooperativas de segundo grado podrán calificar a estas conforme a la clasificación del apartado anterior, siempre que todas las cooperativas socias pertenezcan a la misma clase, añadiendo en tal caso la expresión “de segundo grado”.»
+
+Dos. Se da nueva redacción al apartado 2 del artículo 56, que queda redactado como sigue:
+
+«2. Para el cumplimiento de los fines de este fondo se podrá colaborar con otras sociedades y entidades, pudiendo aportar, total o parcialmente, su dotación. Asimismo, tal aportación podrá llevarse a cabo a favor de la unión o federación de cooperativas en la que esté asociada para el cumplimiento de las funciones que sean coincidentes con las propias del referido fondo.»
+
+Tres. Se da nueva redacción al artículo 93:
+
+«Artículo 93. Objeto y ámbito.
+
+1. Son cooperativas agroalimentarias las que asocien a titulares de explotaciones agrícolas, ganaderas o forestales, incluyendo a las personas titulares de estas explotaciones en régimen de titularidad compartida, que tengan como objeto la realización de todo tipo de actividades y operaciones encaminadas al mejor aprovechamiento de las explotaciones de sus socios, de sus elementos o componentes de la cooperativa y a la mejora de la población agraria y del desarrollo del mundo rural, así como atender a cualquier otro fin o servicio que sea propio de la actividad agraria, ganadera, forestal o estén directamente relacionados con ellas y con su implantación o actuación en el medio rural.
+
+También podrán formar parte como socios de pleno derecho de estas cooperativas, las sociedades agrarias de transformación, las comunidades de regantes, las comunidades de aguas, las comunidades de bienes y las sociedades civiles o mercantiles que tengan el mismo objeto social o actividad complementaria y se encuentre comprendido en el primer párrafo de este artículo. En estos casos, los Estatutos podrán regular un límite de votos que ostenten los socios mencionados en relación al conjunto de votos sociales de la cooperativa.
+
+2. Para el cumplimiento de su objeto, las cooperativas agroalimentarias podrán desarrollar, entre otras, las siguientes actividades:
+
+a) Adquirir, elaborar, producir y fabricar por cualquier procedimiento, para la cooperativa o para las explotaciones de sus socios, animales, piensos, abonos, plantas, semillas, insecticidas, materiales, instrumentos, maquinaria, instalaciones y cualesquiera otros elementos necesarios o convenientes para la producción y fomento agrario, alimentario y rural.
+
+b) Conservar, tipificar, manipular, transformar, transportar, distribuir y comercializar, incluso directamente al consumidor, los productos procedentes de las explotaciones de la cooperativa, de sus socios, así como los adquiridos a terceros, en su estado natural o previamente transformados.
+
+c) Adquirir, parcelar, sanear y mejorar terrenos destinados a la agricultura, la ganadería o los bosques, así como la construcción y explotación de las obras e instalaciones necesarias a estos fines.
+
+d) Cualesquiera otras actividades que sean necesarias o convenientes o que faciliten el mejoramiento económico, técnico, laboral o medioambiental de la cooperativa o de las explotaciones de los socios, entre otras, la prestación de servicios por la cooperativa y con su propio personal que consista en la realización de labores agrarias u otras análogas en las mencionadas explotaciones y a favor de los socios de la misma.
+
+e) Realizar actividades de consumo y servicios para sus socios y demás miembros de su entorno social y territorial, fomentando aquellas actividades encaminadas a la promoción y mejora de la población agraria y el medio rural, en particular, servicios y aprovechamientos forestales, servicios turísticos y artesanales relacionados con la actividad de la cooperativa, asesoramiento técnico de las explotaciones de la producción, comercio y transformación agroalimentaria, y la conservación, recuperación y aprovechamiento del patrimonio y de los recursos naturales y energéticos del medio rural.
+
+En todo caso, el volumen de operaciones de la Cooperativa por las actividades recogidas en el párrafo anterior no podrá exceder el veinticinco por ciento del volumen total de sus operaciones.
+
+3. Las explotaciones agrarias de los socios, para cuya mejora la cooperativa agraria presta sus servicios y suministros, deberán estar dentro del ámbito territorial de la cooperativa, establecido estatutariamente.
+
+4. Las cooperativas agroalimentarias podrán realizar un volumen de operaciones con terceros no socios que no sobrepase el 50 por ciento del total de las de la cooperativa.»

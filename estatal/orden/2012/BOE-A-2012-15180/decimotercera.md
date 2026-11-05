@@ -1,0 +1,5 @@
+## Decimotercera. Compatibilidad de subvenciones y subcontratación.
+
+La compatibilidad o incompatibilidad de las subvenciones que conceda el Consejo Superior de Deportes con otro tipo de subvenciones, ayudas u otros ingresos que financien la misma actividad subvencionada vendrá especificada en la convocatoria. No obstante, la obtención concurrente de otro tipo de ayudas, subvenciones o ingresos públicos o privados, nacionales o extranjeros para la misma finalidad y al mismo beneficiario, así como toda alteración de las condiciones tenidas en cuenta para la concesión de la subvención, podrán dar lugar a una modificación de la resolución de concesión y, en su caso, al reintegro de la subvención.
+
+El beneficiario podrá concertar con terceros la ejecución de la actividad subvencionada hasta un cien por ciento del importe de la misma. En todo caso será necesaria la autorización previa en los términos que se determinen en la convocatoria cuando la subcontratación exceda del veinte por ciento del importe de la subvención y dicho importe sea superior a seis mil euros.

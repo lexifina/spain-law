@@ -1,0 +1,3 @@
+## Disposición final vigésima sexta. Estudio sobre medidas de simplificación y agilización de constitución de empresas contenidas en esta Ley.
+
+En el plazo de doce meses desde la entrada en vigor de esta Ley, se elaborará un estudio, para su elevación a la Comisión Delegada del Gobierno para Asuntos Económicos, sobre las medidas de simplificación y agilización de creación de empresas. Dicho estudio incluirá las recomendaciones oportunas sobre las modificaciones normativas y organizativas necesarias para continuar avanzando en la simplificación, agilización y plena implantación de medios telemáticos en los trámites para la constitución de sociedades, así como en su extensión a otros supuestos de creación de empresas.

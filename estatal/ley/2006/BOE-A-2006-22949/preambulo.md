@@ -1,0 +1,95 @@
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+EXPOSICIÓN DE MOTIVOS
+
+I
+
+La evolución reciente del mercado de trabajo en España se ha caracterizado por un fuerte incremento del empleo, que se sitúa en el primer trimestre de 2006 en el 4,9 por 100 en tasa de variación interanual. El incremento del empleo se ha producido tanto en los contratos indefinidos como en los temporales, aunque más intensamente en estos últimos. El notable aumento del empleo, pese a que ha ido acompañado de una aceleración de la población activa, ha determinado un descenso de la tasa de paro, desde el 11,5 por 100 en 2002 y 2003 hasta el 9,2 por 100 en 2005 y el 9,1 por 100 en el primer trimestre de 2006, lo que significa que dicha tasa se encuentra, por primera vez desde 1979, por debajo del 10 por 100.
+
+Pese a ello, todavía persisten problemas en el mercado de trabajo español que deben superarse, con la finalidad de cumplir los compromisos de la Estrategia de Lisboa y, en general, de mejorar la situación de los trabajadores. Entre estos problemas, cuya superación se encuentra entre los objetivos principales de esta Ley, figuran la reducida tasa de ocupación y actividad de las mujeres españolas, el que la tasa de paro todavía supere ligeramente a la media de la Unión Europea, siendo especialmente elevada en el caso de los jóvenes, las mujeres y las personas con discapacidad, la persistencia de segmentaciones entre contratos temporales e indefinidos y, sobre todo, la elevada tasa de temporalidad, la más alta de la Unión Europea, y por encima del doble de la media de ésta.
+
+En relación con la tasa de temporalidad, además son relevantes los niveles particularmente elevados de las correspondientes a los jóvenes, las mujeres, los trabajadores menos cualificados y de menores salarios y los trabajadores con discapacidad.
+
+II
+
+A la hora de afrontar los desequilibrios de nuestro mercado de trabajo, conviene recordar que la concertación y el diálogo social desarrollados en España en los últimos treinta años han contribuido decisivamente a las profundas transformaciones políticas, económicas y sociales que ha experimentado nuestro país en ese periodo.
+
+El destacado papel desempeñado en este proceso por los interlocutores sociales, y más concretamente por las organizaciones representativas de los empresarios y de los trabajadores, ha sido posible gracias al reconocimiento que el artículo 7 de la Constitución hace de tales organizaciones para la defensa y promoción de los intereses que les son propios.
+
+La experiencia de los más de veinticinco años transcurridos desde la aprobación del Estatuto de los Trabajadores nos enseña que los cambios y reformas del modelo de relaciones laborales y del mercado de trabajo de las que se han derivado efectos más positivos para la economía española, para la creación de empleo y para mejorar la situación de los trabajadores, son siempre aquellas que han tenido su origen en el diálogo, en la concertación y en el consenso social.
+
+Por ello, el mercado de trabajo fue, lógicamente, uno de los ámbitos del diálogo social que se incluyeron en la Declaración para el Diálogo Social «Competitividad, Empleo estable y Cohesión social» suscrita el 8 de julio de 2004 por el Presidente del Gobierno, los Presidentes de la Confederación Española de Organizaciones Empresariales (CEOE) y de la Confederación Española de la Pequeña y Mediana Empresa (CEPYME) y los Secretarios Generales de la Confederación Sindical de Comisiones Obreras (CCOO) y de la Unión General de Trabajadores (UGT).
+
+En la indicada Declaración, el Gobierno, las organizaciones empresariales y los sindicatos compartieron el diagnóstico sobre el doble problema del mercado de trabajo español, insuficiente volumen de empleo y alto nivel de temporalidad. Además, se comprometieron a analizar los elementos que inciden en la creación de empleo, en su estabilidad y la utilización no justificada de la contratación temporal. Para ello, habían de tenerse en cuenta las nuevas formas de organización empresarial del trabajo. El impulso de las políticas activas de empleo y de los Servicios Públicos de Empleo, así como la adecuada protección de los trabajadores ante la falta de empleo, fueron considerados también objetivos imprescindibles e inaplazables.
+
+III
+
+El diálogo social sobre mercado de trabajo se inició encomendando a una comisión de expertos la realización de un informe para evaluar el funcionamiento de las políticas de empleo desde las reformas laborales acometidas en el periodo 1992-1994 hasta la actualidad. La comisión de expertos hizo entrega de su informe, «Más y mejor empleo en un nuevo escenario socioeconómico: por una flexibilidad y seguridad laborales efectivas», en enero de 2005.
+
+Desde la primavera de 2005, el Gobierno, las organizaciones empresariales y los sindicatos han venido desarrollando un proceso de diálogo y negociación sobre el mercado de trabajo. Las reuniones celebradas por la Mesa de Diálogo Social, junto con los documentos de propuestas presentados por todas las partes, han permitido profundizar de forma detallada y precisa en el conjunto de aspectos que, a juicio de cada interlocutor, inciden en el crecimiento del empleo, la mejora de la estabilidad laboral y la utilización adecuada de la contratación temporal.
+
+Dando por concluidos los trabajos previstos en la Declaración de julio de 2004 en los ámbitos específicos relativos al mercado de trabajo, el Gobierno, CEOE, CEPYME, CCOO y UGT firmaron el pasado 9 de mayo el «Acuerdo para la mejora del crecimiento y del empleo», que constituye una nueva manifestación de la concertación social y del consenso que, como se señaló antes, tan positivos efectos ha producido tradicionalmente para el mercado de trabajo.
+
+Después de ratificar su compromiso con el diálogo y la negociación como instrumento para abordar cambios que mejoren el funcionamiento del mercado laboral, los firmantes señalan en el preámbulo del Acuerdo que «resulta fundamental impulsar un modelo de crecimiento económico equilibrado y duradero basado en la competitividad de las empresas, el incremento de la productividad y la cohesión social. La mejora de la estabilidad del empleo, objetivo de este Acuerdo, contribuirá a avanzar en esa dirección».
+
+El Gobierno y los interlocutores sociales recuerdan también que «las políticas laborales y de empleo deben ir necesariamente acompañadas de políticas sólidas en educación y formación, en infraestructuras, en investigación, desarrollo e innovación y en materia industrial y medioambiental, elementos esenciales para el crecimiento y la calidad del empleo».
+
+El «Acuerdo para la mejora del crecimiento y del empleo», en tanto que plasmación del consenso entre las partes, constituye un punto de equilibrio que se orienta en la dirección de apoyar y sostener la creación de empleo así como mejorar el funcionamiento del mercado laboral y la estabilidad del empleo.
+
+Las medidas que incluye el Acuerdo se dirigen, por tanto, a afrontar los desequilibrios de nuestro mercado de trabajo, insuficiente volumen de empleo y elevada temporalidad, pudiéndose agrupar tales medidas en tres grandes capítulos.
+
+En primer lugar, el Acuerdo contiene medidas dirigidas a impulsar y apoyar el empleo, la contratación indefinida y la conversión de empleo temporal en fijo, bonificando y estimulando los nuevos contratos indefinidos y reduciendo las cotizaciones empresariales al Fondo de Garantía Salarial y por desempleo, centradas estas últimas en el empleo estable.
+
+En segundo lugar el Acuerdo incluye medidas para limitar la utilización sucesiva de contratos temporales, así como para introducir mayor transparencia en la subcontratación de obras y servicios entre empresas cuando comparten un mismo centro de trabajo. Se contempla también el refuerzo de los recursos humanos y materiales de la Inspección de Trabajo y Seguridad Social, articulando la participación de los interlocutores sociales en la definición de sus objetivos y programas.
+
+En tercer lugar, se acuerdan medidas destinadas, por una parte, a potenciar la eficiencia de las políticas activas de empleo y la capacidad de actuación del Sistema Nacional de Empleo, y, por otra, a mejorar la protección de los trabajadores ante la falta de empleo, tanto en materia de protección por desempleo como en las prestaciones del Fondo de Garantía Salarial.
+
+En suma, el Acuerdo supone una apuesta estratégica del Gobierno, las organizaciones empresariales y los sindicatos por la estabilidad del empleo.
+
+IV
+
+Los firmantes del «Acuerdo para la mejora del crecimiento y del empleo» han encomendado al Gobierno la adopción de las disposiciones necesarias para dar ejecución a las medidas incluidas en el mismo con la mayor urgencia posible, manifestando su pleno respeto a la potestad constitucional conferida a las Cortes Generales en aquellas materias de las que se deriven compromisos legislativos.
+
+A través del decreto ley del que procede la presente Ley se ha venido a dar urgente ejecución a aquellas medidas contenidas en el Acuerdo que exigen la adopción o modificación de normas con rango de Ley. Puesto que las medidas se van a ejecutar en el ámbito de las relaciones laborales, dependiendo por ello de manera sustancial de los criterios y actitudes de sus protagonistas, la norma recoge con fidelidad los criterios y propuestas que han expresado los interlocutores sociales firmantes del Acuerdo, como garantía de la efectividad de la nueva regulación.
+
+La presente Ley se estructura en tres capítulos. El primero de ellos incluye las medidas de impulso de la contratación indefinida y, entre ellas, el nuevo Programa de Fomento del Empleo, el estímulo de la conversión de contratos temporales en indefinidos y la reducción de cotizaciones empresariales. El segundo capítulo recoge diversas modificaciones de la legislación laboral para mejorar la utilización de la contratación temporal, la transparencia en la subcontratación de obras y servicios y su delimitación respecto de la cesión ilegal de trabajadores y las prestaciones del Fondo de Garantía Salarial. Y el tercero, las mejoras de la protección por desempleo de colectivos específicos.
+
+El nuevo Programa de Fomento del Empleo se dirige fundamentalmente a impulsar la utilización de la contratación indefinida inicial por parte de las empresas. A tal fin se concentran los apoyos públicos en la contratación estable y se favorece la conversión de empleos que hoy son temporales en fijos mediante un Plan extraordinario de carácter excepcional y vigencia limitada. Para alcanzar los objetivos arriba señalados, se modifica el sistema de incentivos a la contratación indefinida de acuerdo con los siguientes criterios: mejor selección de los colectivos beneficiarios; simplificación de las cuantías de las bonificaciones; ampliación de la duración de los incentivos con el objetivo de favorecer el mantenimiento del empleo; y sustitución de los porcentajes de bonificación actuales por cuantías fijas de bonificación, salvo en el caso de la contratación de personas con discapacidad por los centros especiales de empleo.
+
+Por otra parte, partiendo de que el Acuerdo Interconfederal de Estabilidad en el Empleo de 1997, firmado por CEOE, CEPYME, CCOO y UGT, merece a la vista de sus resultados una valoración positiva, no parece oportuno introducir alteraciones sustanciales en la legislación laboral. Sin embargo, resulta necesario revisar los límites temporales actualmente vigentes, contenidos en la Ley 12/2001, de 9 de julio, de medidas urgentes de reforma del mercado de trabajo para el incremento del empleo y la mejora de su calidad, que limitan la posibilidad de conversión en contratos de fomento de la contratación indefinida a los contratos temporales suscritos con anterioridad a 31 de diciembre de 2003, lo que puede haber impedido en los últimos años conversiones en contratos indefinidos de determinados contratos temporales celebrados después de esa fecha.
+
+Igualmente, para contribuir al objetivo de mantener la creación de empleo y fomentar la utilización de la contratación indefinida, se establece una cotización empresarial por desempleo para los contratos indefinidos menor que la actual, que se concreta en una reducción inicial de 0,25 puntos porcentuales aplicable desde el 1 de julio de 2006 y que irá seguida de otra reducción adicional de 0,25 puntos porcentuales a partir del 1 de julio de 2008 que se establecerá en la correspondiente Ley de Presupuestos Generales del Estado. Asimismo, se elimina el recargo en la cotización por desempleo en los contratos temporales celebrados por empresas de trabajo temporal y se reduce la cotización empresarial al Fondo de Garantía Salarial, sin por ello afectar el equilibrio financiero de la institución.
+
+En materia de contratación temporal, siendo objetivo prioritario la necesidad de reducir la temporalidad, se incluyen en el Estatuto de los Trabajadores, Texto Refundido aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, límites temporales para los sucesivos contratos de este carácter que puede suscribir una empresa con un trabajador. Se deroga también la figura del contrato temporal de inserción, que no ha cumplido las expectativas para las que se había creado, y se modifica la regulación de los límites máximos de edad de los trabajadores con los que se pueden suscribir contratos para la formación.
+
+En relación con la subcontratación de obras y servicios, se actualizan algunos elementos de la legislación vigente con el objetivo de asegurar que la organización empresarial de la producción mediante diversas fórmulas de descentralización productiva sea compatible con la protección de los trabajadores, especialmente cuando se trate de empresas principal, contratistas y subcontratistas que comparten de forma continuada un mismo centro de trabajo. Por otra parte, se procede a deslindar la subcontratación de obras y servicios entre empresas de las prácticas que incurren en la figura de la cesión ilegal de trabajadores, teniendo presente que, según nuestra legislación, la contratación de trabajadores para cederlos temporalmente a otra empresa sólo puede efectuarse legalmente a través de empresas de trabajo temporal. Con esta finalidad, se incorpora al Estatuto de los Trabajadores una definición de la cesión ilegal de trabajadores, que traslada a la ley la jurisprudencia sobre esta materia.
+
+Dentro de las modificaciones del Estatuto de los Trabajadores, se mejora la protección de los trabajadores dispensada por el Fondo de Garantía Salarial en caso de insolvencia empresarial. Para ello, se modifican los límites y topes de cálculo actualmente aplicados (cuantía del salario mínimo, consideración de las pagas extraordinarias, número de días de salario e indemnización adeudados), y se incluyen entre las indemnizaciones protegidas por el FOGASA algunas que no figuran en la actual redacción del artículo 33 del Estatuto de los Trabajadores (indemnizaciones por determinadas extinciones de contratos por causas objetivas o en el marco de un procedimiento concursal, así como las debidas por finalización de contratos temporales).
+
+La protección de los trabajadores ante la falta de empleo se ve completada a través de las modificaciones que se introducen en el Texto Refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 1/1994, de 20 de junio. Un examen del sistema de protección por desempleo ha permitido identificar determinados colectivos específicos cuya protección conviene reforzar como son, entre otros, los mayores de cuarenta y cinco años sin responsabilidades familiares así como los trabajadores fijos discontinuos. Por todo ello, se incluyen una serie de medidas para mejorar la cobertura y protección de esos colectivos.
+
+Por otro lado, entre los objetivos compartidos por los firmantes del Acuerdo figura el de reforzar el Sistema de la Inspección de Trabajo y Seguridad Social para mejorar la eficacia y la eficiencia del mismo. Para ello, se articula en la Ley la necesaria consulta y participación de los interlocutores sociales en la definición de los objetivos y programas de la Inspección, en los ámbitos estatal y autonómico.
+
+Finalmente, con objeto de potenciar la capacidad de actuación del Sistema Nacional de Empleo, se incluye en esta Ley el necesario establecimiento de un Plan Global de Modernización del Servicio Público de Empleo Estatal, que garantice la adecuada coordinación con los Servicios Públicos de Empleo autonómicos.
+
+V
+
+Asimismo, en coherencia con el compromiso asumido por los firmantes de la Declaración para el Diálogo Social de 8 de julio de 2004 en cuanto al estudio de la revalorización de instituciones laborales como la Comisión Consultiva Nacional de Convenios Colectivos, se incluye en esta Ley una disposición, igualmente consensuada, para que asuma funciones de observatorio de la negociación colectiva, previéndose la adaptación por el Gobierno de su marco jurídico institucional.
+
+VI
+
+El crecimiento más sólido es el que se basa en el empleo estable y el desarrollo de más calidad es el que se basa en el empleo de calidad.
+
+Para que la economía española y nuestro mercado de trabajo puedan empezar a beneficiarse de manera inmediata de los positivos efectos que sin duda se derivarán de las medidas incluidas en el «Acuerdo para la mejora del crecimiento y del empleo» resulta necesario y urgente ponerlas en marcha cuanto antes, tanto más cuando se trata de medidas consensuadas entre el Gobierno, CEOE, CEPYME, CCOO y UGT.
+
+La aplicación conjunta y coordinada del conjunto de medidas acordadas, todas ellas en la dirección adecuada, supondrá un avance hacia los objetivos de reducir progresivamente la tasa de temporalidad, preservar e impulsar la creación de empleo, afianzar la seguridad y los derechos de los trabajadores y no reducir la flexibilidad necesaria para el funcionamiento de las empresas.
+
+La firma pública el pasado 9 de mayo del «Acuerdo para la mejora del crecimiento y del empleo» ha permitido a cuantos intervienen en el mercado de trabajo conocer el contenido de las medidas acordadas. A la hora de proceder a su ejecución normativa, debe resaltarse que algunas de esas medidas (en particular, las referidas al plan extraordinario para la conversión de empleo temporal en fijo) incluyen plazos tasados que pueden estar afectando ya a decisiones empresariales sobre contratación estable de trabajadores o sobre conversión de contratos temporales en fijos.
+
+La creación de empleo, el impulso de la contratación indefinida, la reducción de la tasa de temporalidad, la mejora de la protección de los trabajadores ante la falta de empleo y la modernización de los Servicios Públicos de Empleo son en todos los casos objetivos tan legítimos como inaplazables, de los que sin duda van a derivarse efectos muy beneficiosos para nuestra economía y nuestro mercado de trabajo y, más en general, para la sociedad española.

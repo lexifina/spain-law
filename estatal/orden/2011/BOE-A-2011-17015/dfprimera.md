@@ -1,0 +1,5 @@
+## Disposición final primera. Referencias a la normativa de transparencia en la Ley 2/2009, de 31 de marzo, por la que se regula la contratación con los consumidores de préstamos o créditos hipotecarios y de servicios de intermediación para la celebración de contratos de préstamo o crédito.
+
+1. Conforme a lo previsto en la disposición adicional única de la Ley 2/2009, de 31 de marzo, por la que se regula la contratación con los consumidores de préstamos o créditos hipotecarios y de servicios de intermediación para la celebración de contratos de préstamo o crédito, las citas de esa ley a la Orden de 5 de mayo de 1994, sobre transparencia de las condiciones financieras de los préstamos hipotecarios, se entenderán realizadas a esta orden ministerial.
+
+2. Del mismo modo, se entenderán referidas a esta orden ministerial cualesquiera citas realizadas en el ordenamiento jurídico a la normativa de transparencia de entidades de crédito y, en particular, a las órdenes a las que se refiere la disposición derogatoria única.

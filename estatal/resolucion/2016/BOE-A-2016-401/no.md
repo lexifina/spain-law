@@ -1,0 +1,1 @@
+Téngase en cuenta que el 25 de enero de 2017 entra en vigor la Resolución de 2 de enero de 2017, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación del tráfico durante el año 2017 Ref. BOE-A-2017-403., fecha a partir de la cual cesa la vigencia de la presente Resolución, según establece su disposición final única.

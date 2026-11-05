@@ -1,0 +1,7 @@
+## Disposición adicional sexta. Actividad Internacional.
+
+1. La Dirección General del Instituto Geográfico Nacional ostentará la representación oficial de la Administración General del Estado en los foros internacionales en materia de cartografía básica topográfica, de nombres geográficos y de la información geográfica correspondiente, y el Instituto Hidrográfico de la Marina en materia de cartografía básica náutica y de la información geográfica correspondiente, sin perjuicio de los intereses de la Defensa Nacional ni de las competencias del Ministerio de Asuntos Exteriores y de Cooperación.
+
+2. La Administración General del Estado, a través de ambos Institutos, propondrá la incorporación al Sistema Cartográfico Nacional de la normativa técnica en materia cartográfica aprobada por las instituciones internacionales competentes, velará por su aplicación en la cartografía oficial española y asumirá funciones de control para asegurar la continuidad de la cobertura cartográfica producida por las comunidades autónomas y ciudades con Estatuto de Autonomía limítrofes con otros Estados.
+
+3. La Dirección General del Instituto Geográfico Nacional dará cuenta a la Comisión Permanente y a la Comisión Territorial del Consejo Superior Geográfico de las reuniones de ámbito internacional en materia cartográfica que esté previsto celebrar y de aquellas a las que haya asistido, pudiendo proponer ambas Comisiones la participación en tales reuniones de alguno de sus vocales formando parte de la delegación oficial española.

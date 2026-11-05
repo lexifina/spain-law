@@ -1,0 +1,47 @@
+## Artículo treinta y uno. Régimen disciplinario.
+
+1. Se considerarán como faltas muy graves:
+
+a) El incumplimiento del deber de fidelidad a la Constitución en el ejercicio de la función pública.
+
+b) Toda actuación que suponga discriminación por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual, sexo, lengua, opinión, lugar de nacimiento o vecindad, o cualquier otra condición o circunstancia personal o social, así como el acoso por razón de origen racial o étnico, religión o convicciones, discapacidad, edad u orientación sexual y el acoso sexual.
+
+c) El abandono del servicio.
+
+d) La adopción de acuerdos manifiestamente ilegales que causen perjuicio grave a la Administración o a los ciudadanos.
+
+e) La publicación o utilización indebida de secretos oficiales, así declarados por Ley o clasificados como tales.
+
+f) La notoria falta de rendimiento que comporte inhibición en el cumplimiento de las tareas encomendadas.
+
+g) La violación de la neutralidad o independencia políticas, utilizando las facultades atribuidas para influir en procesos electorales de cualquier naturaleza y ámbito.
+
+h) El incumplimiento de las normas sobre incompatibilidades.
+
+i) La obstaculización al ejercicio de las libertades públicas y derechos sindicales.
+
+j) La realización de actos encaminados a coartar el libre ejercicio del derecho de huelga.
+
+k) La participación en huelgas, a los que la tengan expresamente prohibida por la Ley.
+
+l) El incumplimiento de la obligación de atender los servicios esenciales en caso de huelga.
+
+m) Los actos limitativos de la libre expresión de pensamiento, ideas y opiniones.
+
+n) Haber sido sancionado por la comisión de tres faltas graves en un período de un año.
+
+ñ) El quebrantamiento por parte del personal que preste servicios en los Registros de Actividades y Bienes y Derechos Patrimoniales del deber permanente de mantener en secreto los datos e informaciones que conozca por razón de su trabajo, establecido en la Ley de Incompatibilidades de los miembros del Gobierno de la Nación y de los Altos Cargos de la Administración General del Estado.
+
+> Téngase en cuenta que este artículo ha sido derogado por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, Ref. BOE-A-2015-11719#ddunica-2, pero se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2.
+
+> Se deroga por la disposición derogatoria única.b) de la Ley del Estatuto Básico del Empleado Público, texto refundido aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, aunque se mantendrá vigente en tanto no se oponga a lo establecido en el mismo hasta que se dicten las Leyes de Función Pública y las normas reglamentarias de desarrollo, según establece su disposición final 4.2. Ref. BOE-A-2015-11719#ddunica-2.
+
+> Téngase en cuenta que este artículo ya fue derogado en la misma forma por la Ley 7/2007, de 12 de abril.
+
+> Se deroga, con el alcance y la vigencia establecidos en la disposición final 4, por la disposición derogatoria única.b) de la Ley 7/2007, de 12 de abril. Ref. BOE-A-2007-7788
+
+> Se modifica el apartado 1.b) por el art. 50.6 de la Ley 62/2003, de 30 de diciembre. Ref. BOE-A-2003-23936
+
+> Se añade el apartado 1.ñ) por la disposición adicional 4 de la Ley 12/1995, de 11 de mayo. Ref. BOE-A-1995-11340
+
+> Se deroga el apartado 2 por el art. 36 de la Ley 31/1991, de 30 de diciembre. Ref. BOE-A-1991-30903

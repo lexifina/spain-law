@@ -1,0 +1,11 @@
+## Disposición transitoria primera. Aplicación de la disposición transitoria segunda de la orden EHA/1037/2010.
+
+La Administración General del Estado tendrá en cuenta las siguientes especialidades para la aplicación de la disposición transitoria segunda de la Orden EHA/1037/2010, de 13 de abril, por la que se aprueba el PGCP:
+
+1. A los efectos previstos en el segundo párrafo del apartado f), «Activos y pasivos financieros», la Administración General del Estado clasificará los instrumentos financieros derivados en las categorías de «Activos financieros a valor razonable con cambios en resultados» o «Pasivos financieros a valor razonable con cambios en resultados», según corresponda, a menos que se designen instrumentos de cobertura y ésta cumpla los requisitos de la norma de reconocimiento y valoración número 10, «Coberturas contables», o que se designen instrumentos derivados vinculados a emisiones de deuda y se cumplan las condiciones exigidas en el punto 8 de la norma de reconocimiento y valoración 9.ª
+
+2. La clasificación de los instrumentos financieros derivados a la que se refiere el punto anterior, así como la clasificación de los pasivos financieros a la que se refiere el primer párrafo del apartado f), «Activos y pasivos financieros», deberá ser comunicada por la Dirección General del Tesoro y Política Financiera a la respectiva Intervención Delegada, así como el valor razonable a 31 de diciembre de 2010 de los pasivos financieros que se clasifiquen en la categoría de «Pasivos financieros a valor razonable con cambios en resultados» y el valor razonable de los instrumentos financieros derivados que se clasifiquen en las categorías de «Activos financieros a valor razonable con cambios en resultados» o «Pasivos financieros a valor razonable con cambios en resultados».
+
+3. El saldo de la cuenta 106, «Patrimonio entregado en gestión», de la anterior adaptación, se saldará, una vez realizado el asiento de apertura, contra la cuenta 120, «Resultados de ejercicios anteriores».
+
+4. Las inversiones realizadas por la Administración General del Estado en el patrimonio de entidades del sector público administrativo con anterioridad a la entrada en vigor del Plan General de contabilidad pública se valorarán por el saldo a 31 de diciembre de 2010 del patrimonio entregado en adscripción a dichas entidades.

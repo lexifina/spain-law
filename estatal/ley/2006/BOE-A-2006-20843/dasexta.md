@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Regulación de las operaciones financieras en el Impuesto sobre el Valor Añadido y en el Impuesto General Indirecto Canario.
+
+El Gobierno deberá efectuar un estudio del régimen aplicable en los impuestos generales sobre ventas a los servicios financieros y al funcionamiento de las normas sobre deducciones en ese sector que permita, en atención a la normativa comunitaria, remitir, en su caso, en el plazo de doce meses a las Cortes Generales un Proyecto de Ley en el que se establezca una nueva regulación de estas materias en el Impuesto sobre el Valor Añadido y, en concordancia, en el Impuesto General Indirecto Canario.

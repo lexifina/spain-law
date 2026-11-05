@@ -1,0 +1,21 @@
+## Disposición adicional segunda.
+
+Uno. Las Entidades o sistemas de previsión social distintos o complementarios de los sistemas o regímenes públicos básicos de previsión que pudieren tener constituidos para su personal los Organos constitucionales, las distintas Administraciones Públicas y sus Organismos autónomos, las Entidades gestoras y servicios comunes de la Seguridad Social, los Entes y Organismos públicos exceptuados de la aplicación de la Ley de 26 de diciembre de 1958 y las Empresas y Sociedades mencionadas en la letra g) del artículo 27 de esta Ley, excluidas las Mutualidades de funcionarios que se hubieran integrado o no en los Fondos Especiales de las Mutualidades Generales existentes que se regularán por su legislación específica y las Mutualidades de funcionarios de la Seguridad Social, no podrán financiarse con recursos públicos salvo de forma subsidiaria y en los siguientes supuestos:
+
+a) Para satisfacer las pensiones que se hubieran causado hasta el 1 de enero de 1986 en cuantía que, por sí sola o en conjunto con las otras pensiones públicas que pudiera percibir su titular, no exceda de 187.950 pesetas mensuales, entendiéndose dicha cuantía en los términos previstos en el primer párrafo del número 2 del artículo 31 de esta Ley.
+
+b) Para satisfacer a los beneficiarios de las pensiones que se hubieran causado durante 1986 y no se hubieran abonado por imperio de lo establecido en la Disposición Adicional cuadragésima octava de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, y de las pensiones que pudieran causarse a partir del 1 de enero de 1987, una pensión cuya cuantía se determinará tomando como referencia el importe de las cotizaciones o aportaciones que esos beneficiarios o los causantes de las pensiones hubieran realmente efectuado a los sistemas o regímenes complementarios de que se trate con anterioridad a 1 de enero de 1986 y cuya cuantía viniera determinada por una norma o convenio colectivo.
+
+En todo caso el importe de las pensiones que correspondan no podrá exceder, por sí solo o en conjunto con otras pensiones públicas, de 187.950 pesetas íntegras mensuales, entendiéndose dicha cuantía en los términos expuestos en el número 2 del artículo 31 de la esta Ley.
+
+Corresponderá al Ministerio de Economía y Hacienda la aprobación de la cuantía de las pensiones que así se determinen y de la financiación prevista para las mismas, así como comprobar la concurrencia en los supuestos concretos que se presenten, de los términos establecidos en el párrafo anterior.
+
+Dos. La financiación con recursos públicos de las pensiones complementarias que resultaran a partir de la separación económico-financiera y contable a que se refiere la Disposición Final Segunda de la Ley 33/1984, de 2 de agosto, de Ordenación del Seguro Privado, en los Sistemas o Entidades de Previsión de los Organismos y Entidades Públicas a los que sea de aplicación el número uno anterior, sólo existirá desde el momento en que la separación económico-financiera y contable se produzca, de forma subsidiaria y en los siguientes supuestos:
+
+a) Para satisfacer las pensiones que se hubieran causado antes de la separación económico-financiera y contable en cuantía que por sí sola o en conjunto con otras pensiones públicas de su titular no podrá ser superior a 187.950 pesetas íntegras mensuales, entendiéndose dicha cuantía en los términos expresados en la letra a) del número anterior.
+
+b) Para satisfacer a los beneficiarios de las pensiones que se causen después de la separación económico-financiera y contable una pensión cuyo importe se determinará tomando como base las cotizaciones o aportaciones efectivamente realizadas hasta dicho momento por estos beneficiarios o los causantes de tales pensiones, La cuantía de estas cotizaciones o aportaciones será la resultante de deducir de las efectuadas la parte que debiera haberse ingresado en la Seguridad Social.
+
+En estos supuestos será necesaria la intervención del Ministerio de Economía y Hacienda en los términos previstos en la letra b) del número uno anterior y las pensiones resultantes estarán igualmente afectadas por los límites expresados en dicho precepto.
+
+> Redactado el apartado b) conforme a la corrección de errores publicada en el BOE núm. 41, de 17 de febrero de 1987. Ref. BOE-A-1987-4241.

@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Expedición del Documento Nacional de Identidad en el exterior.
+
+Las personas con nacionalidad española que se encuentren en el exterior podrán solicitar que se les expida el Documento Nacional de Identidad en las embajadas y consulados en los que la Dirección General de la Policía cuente con los recursos técnicos y humanos necesarios para su expedición. Las condiciones en las que la Dirección General de la Policía prestará este servicio se establecerán previo acuerdo del Ministerio del Interior con el Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.

@@ -1,0 +1,19 @@
+El artículo 15 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, establece que las actividades destinadas al suministro de energía eléctrica serán retribuidas económicamente en la forma dispuesta en dicha ley con cargo a los peajes y los precios satisfechos. Por su parte, el artículo 16 de dicha Ley del Sector Eléctrico señala que las actividades reguladas de transporte y distribución, entre otras, serán retribuidas atendiendo a los costes de inversión, operación y mantenimiento incurridos en el desarrollo de dichas actividades.
+
+En cumplimiento del anterior principio rector en materia tarifaria, el artículo 94 de la Ley 53/2002, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social regula la metodología para la aprobación o modificación de la tarifa eléctrica media o de referencia durante el periodo 2003-2010.
+
+De acuerdo con el citado artículo se aprobó el Real Decreto 1432/2002, de 27 de diciembre, por el que se establece la metodología para la aprobación o modificación de la tarifa eléctrica media o de referencia.
+
+Posteriormente, el Real Decreto-ley 7/2006, de 23 de junio, por el que se aprueban determinadas medidas en el sector energético, introduce una nueva disposición adicional vigésima primera en la Ley 54/1997, de 27 de noviembre, por la que se faculta al Gobierno para que, en aplicación de la metodología para la aprobación o modificación de la tarifa eléctrica media o de referencia, fije los límites máximos anuales al incremento de tarifas, así como los costes a considerar.
+
+El Real Decreto 1634/2006, de 29 de diciembre, por el que se establece la tarifa eléctrica a partir del 1 de enero de 2007, reconoce ex ante un déficit de ingresos de las liquidaciones de las actividades reguladas de 750 millones de euros correspondiente al primer trimestre de 2007 y, asimismo, establece que, en los reales decretos posteriores por los que se modifiquen las tarifas eléctricas, se reconocerá ex ante un déficit de ingresos en las liquidaciones de las actividades reguladas, en cuyo cálculo se tendrá en cuenta el déficit o superávit de trimestres anteriores. Como consecuencia de esta disposición, se dictó la Orden PRE/2017/2007, de 6 de julio, por la que se regula el derecho de cobro correspondiente a la financiación del déficit ex ante de ingresos de las liquidaciones de las actividades reguladas y su procedimiento de subasta.
+
+El Real Decreto 1767/2007, de 28 de diciembre, por el que se determinan los valores a aplicar en el 2008 para la financiación de los costes correspondientes a la gestión de los residuos radioactivos y del combustible gastado, y al desmantelamiento y clausura de instalaciones, en su disposición adicional establece que dichos déficits ex ante se financiarán con los ingresos que se obtengan mediante la subasta de los derechos de cobro correspondientes, que consistirán en el derecho a percibir un determinado importe mensual de los ingresos del sistema eléctrico.
+
+Mediante esta orden se precisa el contenido y las características del derecho de cobro correspondiente a la financiación ex ante del desajuste de ingresos de las actividades reguladas, estableciendo las normas que regulan tanto el procedimiento de subasta del derecho como su ingreso y abono. En ella se han tenido en cuenta algunas de las propuestas realizadas por la Comisión Nacional de Energía con fecha 20 de diciembre de 2007.
+
+La disposición adicional única del Real Decreto 1767/2007, de 28 de diciembre, por el que se determinan los valores a aplicar en el 2008 para la financiación de los costes correspondientes a la gestión de los residuos radioactivos en su apartado 1 habilita al Ministro de Industria, Turismo y Comercio para regular mediante orden ministerial las características de los derechos de cobro y el procedimiento de su cesión.
+
+En su virtud,
+
+DISPONGO:

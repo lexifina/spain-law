@@ -1,0 +1,3 @@
+## Disposición adicional quinta.
+
+El Colegio de España en París dependerá funcionalmente del Ministerio de Educación y Ciencia, a través de la Secretaría de Estado de Universidades e Investigación, y el Instituto de Historia y Arqueología del Consejo Superior de Investigaciones Científicas en Roma tendrá la dependencia que se especifica en el artículo 2 del Real Decreto 1921/1984, de 10 de octubre, según la redacción dada al mismo por el Real Decreto 1155/1986, de 13 de junio. Todo ello sin perjuicio de la necesaria coordinación de los Directores de ambos centros con los Consejeros de Educación, y de su dependencia orgánica del Jefe de la Misión Diplomática correspondiente. Los dos centros se regirán por su normativa específica.

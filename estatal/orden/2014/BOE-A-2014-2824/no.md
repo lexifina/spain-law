@@ -1,0 +1,1 @@
+Téngase en cuenta que se publica la Orden ECC/415/2015, de 12 de febrero, por la que se aprueba el modelo de autoliquidación y pago de la tasa prevista en el artículo 44 del texto refundido de la Ley de Auditoría de Cuentas, que sustituye al aprobado por la presente Orden. Ref. BOE-A-2015-2672.

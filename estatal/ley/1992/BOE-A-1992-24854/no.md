@@ -1,0 +1,1 @@
+Esta Ley pasa a denominarse "Ley 25/1992, de 10 de noviembre, por la que se aprueba el Acuerdo de Cooperación del Estado con la Federación de Comunidades Judías de España", según establece la disposición final 6.1 de la Ley 15/2015, de 2 de julio. Ref. BOE-A-2015-7391#dfsexta.

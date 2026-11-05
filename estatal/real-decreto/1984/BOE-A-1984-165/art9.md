@@ -1,0 +1,3 @@
+## Artículo 9.
+
+La realización de horas extraordinarias sólo podrá darse por alguno de los siguientes supuestos: reparación o prevención de siniestros u otros daños extraordinarios y urgentes, riesgo grave de pérdida o deterioro importante de materias primas, o por circunstancias de carácter estructural derivadas de la naturaleza de la actividad en los términos que en Convenio Colectivo se definan.

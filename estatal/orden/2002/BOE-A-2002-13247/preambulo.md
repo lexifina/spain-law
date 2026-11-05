@@ -1,0 +1,7 @@
+La Ley 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, señala en el artículo 76 la necesidad de reincorporar al mundo laboral a los militares profesionales de tropa y marinería en las mejores condiciones una vez finalizado su compromiso, facilitándoles la obtención de titulaciones del sistema educativo general; y en el artículo 85, indica, que la equivalencia entre las titulaciones proporcionadas por el sistema de enseñanza militar y los títulos oficiales del sistema educativo general no determinados en la mencionada Ley, se establecerá mediante acuerdo entre los Ministerios de Defensa y de Educación, Cultura y Deporte.
+
+Una de las formas más eficaces de asegurar la reincorporación laboral de los soldados y marineros, es proporcionarles una formación que les capacite para el desempeño cualificado de las distintas profesiones, homólogas en la mayoría de los casos a la especialidad militar que han desempeñado.
+
+Ello hace necesario la creación de diferentes títulos de Técnico Militar, cuyos planes de estudios habrán de ajustarse a los requisitos establecidos por el MECD para los ciclos formativos de grado medio de la Formación Profesional Específica, tratando de compatibilizar en lo posible la especificidad y singularidad del régimen militar, con las disposiciones legales que regulan la obtención de dichos títulos.
+
+En su virtud, y de acuerdo con las facultades que me confiere el artículo 5 de la Ley 17/1999, de 18 de mayo dispongo:

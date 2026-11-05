@@ -1,0 +1,3 @@
+## Artículo setenta y dos.
+
+Cuando una persona natural o jurídica sea titular de varias concesiones de explotación para un mismo recurso, situadas, en el caso de recursos minerales, en una misma zona metalogenética, no estará obligada a la explotación simultánea de todas ellas, siempre que obtenga de la Dirección General de Minas la correspondiente autorización para concentrar los trabajos en una o varias de las concesiones. Deberá justificarse, en todo caso, que el grado de importancia de las explotaciones está en relación con los recursos contenidos en las concesiones de que aquélla sea titular, y la repercusión social y económica del aprovechamiento en la vida del país. El oportuno expediente se tramitará en la forma que se fije reglamentariamente.

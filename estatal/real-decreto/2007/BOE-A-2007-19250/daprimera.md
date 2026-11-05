@@ -1,0 +1,3 @@
+## Disposición adicional primera. Seguimiento y evaluación de las medidas contenidas en este real decreto.
+
+Dentro del plazo máximo de cuatro años a partir de la entrada en vigor de este real decreto, el Ministerio de Vivienda elevará al Consejo de Ministros, previo informe de la Conferencia Sectorial de Vivienda y Suelo, un informe de seguimiento y evaluación de los resultados de su aplicación, con la propuesta de su mantenimiento, modificación o derogación. Además, antes del 31 de diciembre de cada año, el Ministerio de Vivienda presentará un Informe de seguimiento y evaluación en la Comisión Delegada del Gobierno para Asuntos Económicos.

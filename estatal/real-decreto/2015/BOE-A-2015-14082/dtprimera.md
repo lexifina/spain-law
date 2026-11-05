@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Régimen transitorio relativo a las funciones de evaluación de estudios clínicos con medicamentos o productos sanitarios de los Comités Éticos de Investigación Clínica.
+
+Durante los dos años siguientes a la entrada en vigor de este real decreto, los Comités Éticos de Investigación Clínica ya acreditados a la entrada en vigor de esta norma asumirán las funciones de los Comités de Ética de la Investigación con medicamentos relacionadas con la evaluación de estudios clínicos con medicamentos o productos sanitarios y serán supervisados y coordinados, en lo que respecta a dichas funciones, del mismo modo que estos.

@@ -1,0 +1,3 @@
+## Disposición transitoria única. Pervivencia de los actos, encargos, encomiendas de gestión, convenios y contratos relativos a TRAGSA y a TRAGSATEC.
+
+Todos los actos, encargos, encomiendas de gestión, convenios y contratos relativos a TRAGSA y a su filial TRAGSATEC celebrados con anterioridad a la entrada en vigor de este real decreto, mantendrán su vigencia y seguirán produciendo sus efectos propios, también en lo referente a su ejecución y abono, por lo dispuesto en la normativa vigente en el momento de su formalización. Las modificaciones y prórrogas posteriores a la entrada en vigor de este real decreto se regirán por la normativa vigente en el momento de la formalización del instrumento original.

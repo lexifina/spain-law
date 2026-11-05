@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por Real Decreto Legislativo 4/2004, de 5 de marzo.
+
+Con efectos para los períodos impositivos iniciados a partir de 1 de enero de 2011, se modifica el apartado 4 del artículo 108 del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por Real Decreto Legislativo 4/2004, de 5 de marzo, que queda redactado de la siguiente forma:
+
+«4. Los incentivos fiscales establecidos en este capítulo también serán de aplicación en los tres períodos impositivos inmediatos y siguientes a aquél período impositivo en que la entidad o conjunto de entidades a que se refiere el apartado anterior, alcancen la referida cifra de negocios de 10 millones de euros, determinada de acuerdo con lo establecido en este artículo, siempre que las mismas hayan cumplido las condiciones para ser consideradas como de reducida dimensión tanto en aquél período como en los dos períodos impositivos anteriores a este último.
+
+Lo establecido en el párrafo anterior será igualmente aplicable cuando dicha cifra de negocios se alcance como consecuencia de que se haya realizado una operación de las reguladas en el capítulo VIII del título VII de esta Ley acogida al régimen fiscal establecido en dicho capítulo, siempre que las entidades que hayan realizado tal operación cumplan las condiciones para ser consideradas como de reducida dimensión tanto en el período impositivo en que se realice la operación como en los dos períodos impositivos anteriores a este último.»

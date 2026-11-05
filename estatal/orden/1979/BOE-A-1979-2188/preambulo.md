@@ -1,0 +1,7 @@
+Ilustrísimos señores:
+
+Por Orden de 25 de junio de 1977 se dictó, en ejecución de lo dispuesto por la Disposición transitoria primera del Real Decreto 444/1977, de 11 de marzo, el Reglamento provisional para la Ordenación del Juego del Bingo.
+
+Desde la promulgación de aquella norma, cuya provisionalidad venía lógicamente impuesta por la novedad que revestía este tipo de juego, ha transcurrido más de un año, durante el cual se han puesto en funcionamiento un buen número de salas dedicadas a la práctica del mismo juego. Dicho funcionamiento ha puesto de manifiesto la existencia de numerosas deficiencias en el ordenamiento aplicable, que conviene subsanar mediante la aprobación de la norma que, con carácter definitivo, regula esta modalidad de los juegos de azar; carácter definitivo que pretende finalizar con una situación de provisionalidad normativa, pero que no excluye, obviamente, la posible oportunidad de nuevas modificaciones en fechas no excesivamente alejadas, dada la movilidad y los constantes cambios a que está sometido un sector tan dinámico como el de los juegos de azar.
+
+En su virtud, al amparo de lo dispuesto por el artículo 4.º, apartado 2 del Real Decreto 444/1977, de 11 de marzo, en la redacción dada al mismo por el Real Decreto 2709/1978, de 14 de octubre, y de conformidad con el informe emitido por la Comisión Nacional del Juego, este Ministerio ha tenido a bien disponer lo siguiente:

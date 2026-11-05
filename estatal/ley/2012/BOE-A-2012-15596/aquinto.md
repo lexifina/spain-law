@@ -1,0 +1,5 @@
+## Artículo quinto. Modificación del Real Decreto-Ley 5/2011, de 29 de abril, de medidas para la regularización y control del empleo sumergido y fomento de la rehabilitación de viviendas.
+
+El apartado 1 del artículo 5 del Real Decreto-ley 5/2011, de 29 de abril, de medidas para la regularización y control del empleo sumergido y fomento de la rehabilitación de viviendas, queda redactado de la siguiente forma:
+
+«1. Sin perjuicio de lo previsto en el artículo 42 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, los empresarios que contraten o subcontraten con otros la realización de obras o servicios correspondientes a la propia actividad de aquellos o que se presten de forma continuada en sus centros de trabajo, deberán comprobar, con carácter previo al inicio de la prestación de la actividad contratada o subcontratada, la afiliación y alta en la Seguridad Social de cada uno de los trabajadores que estos ocupen en los mismos durante el periodo de ejecución de la contrata o subcontrata.

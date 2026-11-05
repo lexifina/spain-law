@@ -1,0 +1,9 @@
+## Art. 7. Normas.
+
+Los materiales, aparatos, máquinas, conjuntos y subconjuntos, integrados en los circuitos de las instalaciones eléctricas de más de un kV., a las que se refiere este Reglamento, cumplirán las normas, especificaciones técnicas y homologaciones que les sean de aplicación y que establezca como de obligado cumplimiento el Ministerio de Industria y Energía. Cuando no esté declarada de obligado cumplimiento ninguna norma o especificación técnica que se refiera a un elemento determinado de la instalación, el Ministerio de Industria y Energía podrá señalar, en cada caso, la norma que deba ser de aplicación. En su defecto, el proyectista propondrá y justificará las normas o especificaciones cuya aplicación considere más idónea para las partes fundamentales de la instalación de que se trate.
+
+En aquellos casos en los que la aplicación estricta de las normas reglamentarias no permita una solución óptima a un problema o se prevea utilizar otros sistemas, el proyectista de la instalación deberá justificar las variaciones necesarias. El Ministerio de Industria y Energía podrá autorizar los valores o condiciones no concordantes con lo establecido en este Reglamento.
+
+Igualmente, el Ministerio podrá exigir los ensayos que considere necesarios relativos a cualquier componente de la instalación, practicados por el Laboratorio nacional o extranjero que a estos efectos designe el mismo Ministerio.
+
+Las Empresas suministradoras de energía eléctrica podrán proponer especificaciones que fijen las condiciones técnicas que deban reunir aquellas partes de instalaciones de los consumidores que tengan incidencia apreciable en la seguridad, funcionamiento y homogeneidad de su sistema. El condicionado técnico al que deben ajustarse estas especificaciones y los trámites administrativos para su aprobación por el Ministerio de Industria y Energía se determinarán en las Instrucciones Complementarias de este Reglamento.

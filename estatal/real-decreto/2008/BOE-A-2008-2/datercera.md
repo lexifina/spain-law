@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Grupos de trabajo de las Jornadas de Cooperación Bibliotecaria entre el Ministerio de Cultura y las comunidades autónomas.
+
+Los grupos de trabajo creados en el marco de las Jornadas de Cooperación Bibliotecaria entre el Ministerio de Cultura y las comunidades autónomas se integrarán, en el caso de que resulte adecuado en relación con lo previsto en este reglamento, como grupos de trabajo del Consejo de Cooperación Bibliotecaria. La Comisión Permanente los calificará como grupos de trabajo mixtos o grupos de trabajo adscritos a una sola comisión técnica de cooperación estableciendo, en ambos casos, las medidas a adoptar para adecuar su composición a lo previsto en el presente reglamento.

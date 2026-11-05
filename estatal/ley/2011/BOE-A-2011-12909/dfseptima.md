@@ -1,0 +1,5 @@
+## Disposición final séptima. Modificación de la Ley 16/2009, de 13 de noviembre, de servicios de pago.
+
+El apartado 3 del artículo 51 queda redactado como sigue:
+
+«3. Tendrán la consideración de normas de ordenación y disciplina de los proveedores de servicios de pago a los que se refieren las letras a), b) y c) del apartado 1 del artículo 4, las disposiciones contenidas en los títulos I (a excepción del artículo 5) y II de esta Ley, las previstas en los artículos 18 y 19 del título III, el artículo 50, las disposiciones del Reglamento (CE) 924/2009 del Parlamento Europeo y del Consejo, de 16 de septiembre de 2009, relativo a los pagos transfronterizos en la Comunidad y por el que se deroga el Reglamento (CE) 2560/2001, así como cualesquiera otras leyes y disposiciones de carácter general que contengan preceptos específicamente referidos a los proveedores de servicios de pago y de obligada observancia para los mismos. Su incumplimiento será sancionado como infracción grave, siempre que las mismas no tengan carácter ocasional o aislado, de acuerdo con lo previsto en la Ley 26/1988, de 29 de julio, de disciplina e intervención de entidades de crédito.»

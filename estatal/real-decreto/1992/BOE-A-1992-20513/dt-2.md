@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Integración en militar de empleo.
+
+En el plazo de tres meses a partir de la entrada en vigor del presente Real Decreto, los militares profesionales de la categoría de tropa y marinería que no se hayan acogido con anterioridad a la normativa que regula los militares de empleo y no tengan el derecho a permanecer en las Fuerzas Armadas hasta la edad de retiro, podrán solicitar su integración en militares de empleo mediante instancia dirigida por conducto reglamentario al Secretario de Estado de Administración Militar. Los que no lo soliciten cumplirán el compromiso que tuvieran contraído sin posibilidad de ampliación.

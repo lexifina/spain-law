@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Coordinación con los órganos competentes de las Comunidades Autónomas.
+
+El Ministerio de Industria, Energía y Turismo establecerá los mecanismos de coordinación y cooperación adecuados entre la Oficina Española de Patentes y Marcas y las Comunidades Autónomas competentes para recibir las correspondientes solicitudes dirigidas a dicha Oficina. El órgano competente de la Comunidad Autónoma a través del cual se haya presentado la documentación en su caso, deberá permanecer informado a lo largo del procedimiento una vez publicada la solicitud. A tal efecto, se implantarán sistemas de intercomunicación y coordinación de los correspondientes Registros que garanticen la compatibilidad informática y la transmisión telemática de los asientos.

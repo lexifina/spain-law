@@ -1,0 +1,3 @@
+## Disposición adicional decimoquinta. Fomento a la participación ciudadana en la sociedad de la información.
+
+Con el objeto de fomentar la presencia de la ciudadanía y de las entidades privadas sin ánimo de lucro y garantizar el pluralismo, la libertad de expresión y la participación ciudadana en la sociedad de la información, se establecerán medios de apoyo y líneas de financiación para el desarrollo de servicios de la sociedad de la información sin finalidad lucrativa que, promovidos por entidades ciudadanas, fomenten los valores democráticos y la participación ciudadana, atiendan al interés general o presten servicio a comunidades y grupos sociales desfavorecidos.

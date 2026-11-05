@@ -1,0 +1,15 @@
+La Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, proclama como bien jurídico a proteger la seguridad pública, cuya competencia corresponde en exclusiva al Estado y su mantenimiento al Gobierno de la Nación, con la participación de las Comunidades Autónomas y de las Corporaciones Locales en los términos fijados por sus respectivos Estatutos de Autonomía, en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local y en el marco de la citada Ley Orgánica.
+
+Esta tarea finalista exige la acción concertada de las Fuerzas y Cuerpos de Seguridad en su conjunto, tanto de las dependientes del Estado, como de las Comunidades Autónomas y de las Corporaciones Locales; acción que debe efectuarse a través de los órganos de coordinación operativa que a tal efecto se establecen en la propia Ley Orgánica.
+
+Uno de tales órganos de coordinación, que ha venido demostrando su utilidad en la búsqueda de fórmulas realistas de colaboración policial con incidencia favorable en la seguridad pública, es la Junta Local de Seguridad, creada por el artículo 54.1 de la Ley Orgánica 2/1986, de 13 de marzo, instrumento de coordinación que, sentada sobre el elemento de la territorialidad del municipio, constituye un mecanismo capaz de fijar medios y sistemas de relación al objeto de lograr cierta homogeneidad y hacer factible actuaciones conjuntas, de colaboración mutua y de cooperación recíproca.
+
+Las Juntas Locales de Seguridad constituyen, a la vez, no sólo los órganos de coordinación operativa, sino también informativa, facilitando cauces de canalización que permitan la colaboración de los sectores sociales e institucionales afectados en la correcta planificación de la seguridad pública, lo que redunda, sin duda, en un mayor acercamiento entre la sociedad y las Fuerzas y Cuerpos de Seguridad y, consecuentemente, en una mejor protección por éstas del libre ejercicio de los derechos y libertades públicas reconocidos constitucionalmente.
+
+Por otra parte, teniendo en cuenta la complejidad orgánica y densidad demográfica de algunos municipios, así como, los cambios sociológicos experimentados en la vida urbana, se estima necesario establecer el marco legal adecuado que posibilite la constitución de las Juntas de Seguridad de Distrito o equivalentes, como órganos dependientes de las Juntas Locales de Seguridad y con objetivos concurrentes, aunque limitados al ámbito territorial y sectorial que se determine dentro del propio municipio.
+
+La madurez alcanzada en el funcionamiento regular de las Juntas Locales de Seguridad al amparo de la Ley Orgánica 2/1986, de 13 de marzo, así como la experiencia adquirida desde entonces, aconsejan hacer uso de la habilitación conferida por el artículo 54.2 de la citada norma y establecer su marco jurídico.
+
+En su virtud, a propuesta del Ministro del Interior, con la aprobación previa de la Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de septiembre de 2010,
+
+DISPONGO:

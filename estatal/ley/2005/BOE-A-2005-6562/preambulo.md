@@ -1,0 +1,35 @@
+## JUAN CARLOS I
+
+## REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+## EXPOSICIÓN DE MOTIVOS
+
+La globalización de la actividad económica y la innovación tecnológica han creado la necesidad de coordinar la ordenación y la supervisión de los servicios financieros. La Unión Europea se ve afectada especialmente por estos factores, y ha ido adoptando una serie de medidas de armonización y coordinación en este ámbito. El principio de libertad de establecimiento (artículo 43 del Tratado Constitutivo de la Comunidad Europea -TCE-) dentro del mercado único ha propiciado que las entidades de crédito comunitarias se hayan ido expandiendo al resto de los Estados miembros, ejerciendo competencia fuera de las fronteras de su Estado miembro de origen.
+
+En el ámbito comunitario es imprescindible contar con disposiciones que den solución a los problemas que aparecen por la frecuente existencia de elementos extranjeros en las crisis empresariales. El buen funcionamiento del mercado interior exige que los procedimientos concursales transfronterizos se desarrollen de forma eficaz y efectiva, mediante la adecuada coordinación de medidas. Con este objetivo, en el año 2000 se aprobó el Reglamento (CE) núm. 1346/2000 del Consejo, de 29 de mayo de 2000, sobre procedimientos de insolvencia, que, no obstante, y debido a su particularidad, excluye de su ámbito a las entidades de crédito.
+
+La realización de un mercado único bancario europeo ha contado con un instrumento clásico de armonización como son las directivas (artículo 249 TCE). Del seno de la Unión Europea han surgido numerosas directivas que han tratado diversas cuestiones relativas al «ciclo biológico» de las entidades de crédito. Sin embargo, todavía no se había logrado, debido a la difícil labor de armonización en esta materia, completar el último eslabón de la cadena, es decir, la regulación de los procedimientos de resolución de situaciones de crisis en las que se vieran involucradas las entidades de crédito, que pueden llevar a su extinción y consiguiente liquidación.
+
+La Directiva 2001/24/CE del Parlamento y el Consejo, de 4 de abril de 2001, relativa al saneamiento y liquidación de las entidades de crédito, viene a paliar esta situación, regulando el régimen y tratamiento de la adopción de las medidas de saneamiento y los procedimientos de liquidación que afecten a las entidades de crédito comunitarias que realicen una actividad transfronteriza. Esta Directiva, sobre la base del principio de unidad y universalidad, trata de dar solución y facilitar la adopción de medidas y la incoación de procedimientos dentro de la Unión Europea. Y para ello, parte de principios básicos como son el de reconocimiento mutuo de las decisiones y el de coordinación entre las diferentes autoridades que intervienen en dichos procesos.
+
+La presente Ley incorpora a nuestro ordenamiento jurídico las disposiciones de la Directiva, incluyendo una serie de especialidades que afectan al tratamiento de las crisis de las entidades de crédito. Estas especialidades vienen referidas al concurso de acreedores en los términos en los que se contempla en la Ley 22/2003, de 9 de julio, Concursal, puesto que se define como medida de saneamiento el concurso de acreedores que no finalice en liquidación, y como procedimiento de liquidación, la apertura de la fase de liquidación en el propio concurso. Como puede comprobarse, las medidas de saneamiento a las que se refiere esta Ley no incluyen aquellas actuaciones que, bajo idéntica denominación, pueden adoptar los fondos de garantía de depósitos en entidades de crédito conforme a lo establecido en el Real Decreto 2606/1996, de 20 de diciembre.
+
+Siguiendo el esquema de la Directiva, la Ley se basa en los principios de competencia y ley aplicable del Estado miembro donde la entidad de crédito ha sido autorizada, salvo determinadas excepciones que se justifican por la singularidad de determinados supuestos.
+
+Las autoridades españolas y la ley española será la aplicable en los concursos de entidades de crédito autorizadas en España que tengan sucursales en otros Estados miembros de la Unión Europea, y cuyos efectos deberán reconocerse de modo automático en dichos Estados. Estos principios de competencia y ley aplicable son coherentes con la Directiva 2000/12/CE del Parlamento y del Consejo, de 20 de marzo de 2000, relativa al acceso a la actividad de las entidades de crédito y a su ejercicio, que concibe a la entidad de crédito y sus sucursales bajo una perspectiva unitaria, sometida a la supervisión de las autoridades competentes del Estado en que se haya expedido la autorización, que es válida para el conjunto de la Unión Europea.
+
+El reconocimiento mutuo supone, asimismo, la incorporación de medidas de coordinación entre las autoridades competentes. Para lograr dicha coordinación, se establecen obligaciones de comunicación entre las autoridades competentes, utilizando al supervisor (en el supuesto de España, el Banco de España) como agente en dicha transmisión y obligaciones de información a los acreedores, con independencia del Estado en el que se encuentren. Esta última obligación supone una garantía para lograr la igualdad de trato de todos los acreedores.
+
+La Ley también desarrolla ciertas disposiciones relativas a las entidades de crédito no autorizadas en un Estado miembro de la Unión Europea, que posea sucursales en España y, como mínimo, en otro Estado miembro, a los efectos de coordinar la adopción de medidas y la incoación de procedimientos entre las autoridades competentes de los respectivos Estados.
+
+En sentido contrario, se reconoce en la Ley la eficacia sobre sucursales en España de entidades de crédito autorizadas en otro Estado miembro, de las medidas de saneamiento que se adopten y los procedimientos de liquidación que se incoen en su Estado de origen.
+
+Desde el punto de vista sustantivo y también derivado de la transposición de la citada Directiva 2001/24/CE, se incorporan una serie de modificaciones a la Ley de Ordenación Bancaria, de 31 de diciembre de 1946, y a la Ley 26/1988, de 29 de julio, de disciplina e intervención de las entidades de crédito, en lo referente, respectivamente, al régimen de revocación de la autorización y de disolución y liquidación de las entidades de crédito.
+
+En lo referente al ámbito territorial de aplicación de las disposiciones de la Directiva 2001/24/CE, esta se extiende a todo el Espacio Económico Europeo, conforme a la Decisión del Comité Mixto del Espacio Económico Europeo, de 6 de diciembre de 2002, por el que se modifica el anexo IX del Acuerdo del Espacio Económico Europeo. Esta circunstancia se ha reconocido en la Ley.
+
+En definitiva, se trata de una Ley de ámbito limitado dirigida a las entidades de crédito, que contiene fundamentalmente reglas de derecho internacional privado, en lo referente a la ley aplicable y la competencia, así como otros aspectos sustantivos derivados de la delimitación de la masa activa, la compensación de créditos y las obligaciones de comunicación e información.

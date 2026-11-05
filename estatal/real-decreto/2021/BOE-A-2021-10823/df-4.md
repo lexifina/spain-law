@@ -1,0 +1,5 @@
+## Disposición final cuarta. Desarrollo normativo y aplicación.
+
+1. Se faculta a la Ministra de Educación y Formación Profesional y al Ministro de Universidades a dictar, en el ámbito de sus propias competencias o conjuntamente cuando la disposición a dictar afecte a ambos Ministerios, cuantas disposiciones sean precisas para el desarrollo y ejecución del real decreto.
+
+2. Los órganos competentes adoptarán las medidas necesarias para la aplicación y mejor cumplimiento de lo dispuesto en este real decreto y sus normas de desarrollo y ejecución.

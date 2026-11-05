@@ -1,0 +1,1 @@
+Los presentes Estatutos quedan derogados, con efectos de 27 de julio de 2019, por la disposición derogatoria única de los Estatutos publicados por Orden SCB/801/2019, de 11 de julio. Ref. BOE-A-2019-10964#dd

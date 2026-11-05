@@ -1,0 +1,3 @@
+## Disposición final octava. Habilitación para la modificación del contenido técnico de la ITC BT-52.
+
+Se autoriza al Ministro de Industria, Energía y Turismo, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, para modificar el contenido técnico de la Instrucción técnica complementaria BT-52, «Instalaciones con fines especiales. Infraestructura para la recarga de vehículos eléctricos» del Reglamento electrotécnico para baja tensión, aprobado por Real Decreto 842/2002, de 2 de agosto, con objeto de mantenerlo permanentemente adaptado al progreso de la técnica, así como a las normas del Derecho de la Unión Europea o de otros organismos internacionales.

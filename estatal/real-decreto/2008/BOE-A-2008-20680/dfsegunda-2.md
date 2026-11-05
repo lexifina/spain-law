@@ -1,0 +1,5 @@
+## Disposición final segunda. Garantías financieras obligatorias por explotación de instalaciones de residuos de industrias extractivas.
+
+1. La garantía financiera obligatoria regulada en el Capítulo III de este reglamento deberá tener en cuenta la cobertura otorgada por las garantías financieras obligatorias a constituir por los titulares de las entidades explotadoras de las instalaciones de residuos de las industrias extractivas, en el marco de lo dispuesto en la Directiva 2006/21/CE del Parlamento Europeo y del Consejo, de 15 de marzo de 2006, sobre la gestión de los residuos de industrias extractivas y por la que se modifica la Directiva 2004/35/CE, de forma que no se produzca solapamiento o descubierto.
+
+2. El operador podrá integrar en una sola todas las garantías financieras a que se refiere el apartado anterior, incluyendo la obligatoria en concepto de rehabilitación del espacio afectado por la propia explotación y sus servicios e instalaciones anejos. En tal caso, la cantidad destinada a hacer frente a cada uno de los riesgos deberá quedar claramente delimitada y fácilmente disponible del resto de la garantía.

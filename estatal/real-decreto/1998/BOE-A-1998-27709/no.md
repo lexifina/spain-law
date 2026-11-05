@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 22 de febrero de 2008, a excepción de la disposición adicional 3 y las disposiciones transitorias 1 a 4, hasta tanto concluyan los procedimientos de acceso al citado título por las mencionadas vías transitorias, por la disposición derogatoria 1 del Real Decreto 183/2008, de 8 de febrero. Ref. BOE-A-2008-3176

@@ -1,0 +1,3 @@
+Norma derogada, con efectos de 26 de marzo de 2021, por la disposición derogatoria única del Real Decreto 179/2021, de 23 de marzo. Ref. BOE-A-2021-4630#dd
+
+Téngase en cuenta que, con efectos de 6 de mayo de 2020, el Organismo Autónomo, Instituto para la Reestructuración de la Minería del Carbón y Desarrollo Alternativo de las Comarcas Mineras, O.A., pasa a denominarse, Instituto para la Transición Justa, O.A. y todas las referencias previstas en la normativa vigente al mismo se entenderán hechas al Instituto para la Transición Justa, O.A., según establece la disposición adicional décima del Real Decreto 500/2020, de 28 de abril. Ref. BOE-A-2020-4814#da-10

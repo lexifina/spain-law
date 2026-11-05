@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Cuantía de la indemnización prevista en el artículo 157 de la Ley 5/1985, de 19 de junio, del Régimen Electoral General.
+
+1. La cuantía de las indemnizaciones prevista en el artículo 157 de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, para los Parlamentarios que reuniendo la condición de Profesores Universitarios colaboren en el seno de la Universidad en la que tiene reservada su plaza en actividades de docencia o investigación de carácter extraordinario, que no afecten a la dirección y control de los servicios, se fijará por la propia Universidad, sin que, en ningún caso, el importe mensual a percibir por esta indemnización pueda exceder del 25 por 100 de la retribución asimismo mensual que correspondería por el desempeño de la plaza que tuvieran reservada.
+
+2. Las cantidades devengadas y que, conforme al apartado anterior, no deban ser percibidas serán ingresadas directamente por la Universidad correspondiente en el Tesoro Público.

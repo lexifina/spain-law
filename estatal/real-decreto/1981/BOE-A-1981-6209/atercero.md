@@ -1,0 +1,5 @@
+## Artículo tercero. Consideración y facultades.
+
+Uno. Los Inspectores Financieros y Tributarios del Estado, en el ejercicio de sus funciones, serán considerados corno Agentes de la autoridad, a los efectos de la responsabilidad administrativa y penal de quienes cometieren atentadas o desacatos contra ellos, de hecho o de palabra, en actos de servicio o con motivo del mismo. Los Delegados de Hacienda, o los Jefes del Centro respectivo, darán cuenta de aquellos actos a la Abogacía del Estado para que ejercite la acción legal que corresponda.
+
+Dos. Los Inspectores Financieros y Tributarios del Estado, en el ejercicio de sus funciones, tendrán las facultades reconocidas a la Inspección de los tributos en la Ley General Tributaria y recibirán el apoyo, concurso, auxilio y protección que les sean precisos, por parte de toda clase de Autoridades y funcionarios, civiles y militares, y de los particulares y entidades en general. Si así no se hiciere, se deducirán las responsabilidades a que hubiere lugar.

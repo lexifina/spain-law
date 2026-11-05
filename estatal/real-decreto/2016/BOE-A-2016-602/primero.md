@@ -1,0 +1,7 @@
+## Primero. Aprobación de los Planes Hidrológicos de las demarcaciones hidrográficas de Galicia-Costa, de las Cuencas Mediterráneas Andaluzas, del Guadalete y Barbate y del Tinto, Odiel y Piedras.
+
+1. De acuerdo con lo dispuesto en el artículo 40.6 del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, se aprueba el Plan Hidrológico de la Demarcación Hidrográfica de Galicia-Costa, que fue aprobado inicialmente por el Consello de la Xunta de Galicia en su reunión de 22 de octubre de 2015, así como los correspondientes a las demarcaciones hidrográficas de las Cuencas Mediterráneas Andaluzas, del Guadalete y Barbate y del Tinto, Odiel y Piedras, aprobados por el Consejo de Gobierno de Andalucía en su reunión de 20 de octubre de 2015.
+
+2. El ámbito territorial del Plan Hidrológico de Galicia-Costa coincide con el de la demarcación hidrográfica de Galicia-Costa, conforme a lo establecido en la Ley 9/2010, de 4 de noviembre, de Aguas de Galicia, de la Comunidad Autónoma de Galicia.
+
+3. El ámbito territorial de los Planes Hidrológicos de las Cuencas Mediterráneas Andaluzas, del Guadalete y Barbate y del Tinto, Odiel y Piedras coincide con el de las demarcaciones hidrográficas definidas en los artículos 3.1, 3.2 y 3.3, respectivamente, del Decreto 357/2009, de 20 de octubre, por el que se fija el ámbito territorial de las demarcaciones hidrográficas de las cuencas intracomunitarias situadas en Andalucía.

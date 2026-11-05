@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Participación equilibrada de mujeres y hombres en los cargos a los que se refieren los artículos 13 y 102.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar.
+
+En la consecución del principio de presencia equilibrada entre mujeres y hombres contenido en los artículos 55 bis y 84 bis de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, en el nombramiento de los cargos a los que se refieren los artículos 13 y 102.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, se tendrá en cuenta la legislación específica de la organización militar, con las adaptaciones y desarrollos que reglamentariamente procedan.

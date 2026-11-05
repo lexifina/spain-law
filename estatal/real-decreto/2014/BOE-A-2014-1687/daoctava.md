@@ -1,0 +1,5 @@
+## Disposición adicional octava. Convalidación de titulaciones expedidas por el Ministerio de Defensa.
+
+A los miembros de la Armada, y a aquellas personas que, habiendo pertenecido a la misma, estén en posesión de las titulaciones de Técnico Militar declaradas equivalentes con los títulos académicos de Técnico de Formación Profesional Específica de Grado Medio en Pesca y Transporte Marítimo y en Operación, Control y Mantenimiento de Máquinas e Instalaciones Navales por la Orden ECD/3869/2003, de 18 de diciembre, por la que se establecen equivalencias entre los títulos de Técnico Militar y los títulos de Técnico correspondientes a la formación profesional específica, se les convalidarán los módulos que sean coincidentes con los establecidos para obtener los títulos de patrón local de pesca y patrón costero polivalente y aquellas otras del sector pesquero que correspondan.
+
+La determinación de los módulos que sean coincidentes a efectos de la convalidación prevista en el párrafo anterior se establecerá reglamentariamente a propuesta conjunta de los Ministros de Agricultura, Pesca y Alimentación y de Defensa.

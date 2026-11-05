@@ -1,0 +1,3 @@
+## Disposición adicional novena. Referencias orgánicas en el Reglamento de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, aprobado por el Real Decreto 304/2014, de 5 de mayo.
+
+En los artículos 47.2, 48.2 y 3, 49.1, 63.1 b) y x), 64.2 a) y l), 65.2 a) y m), 66.1 y 2 f) del Reglamento de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, las referencias realizadas a la extinta Secretaría General del Tesoro y Política Financiera se entenderán realizadas a la Dirección General del Tesoro y Política Financiera.

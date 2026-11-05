@@ -1,0 +1,3 @@
+## Disposición adicional única. Aplicación del procedimiento por el que se regula el ejercicio del derecho al voto en los procesos electorales del personal de la Guardia Civil desplegado junto a personal de las Fuerzas Armadas españolas.
+
+En los supuestos en los que, de acuerdo con la legislación vigente, los miembros de la Guardia Civil, en su condición de Instituto Armado de naturaleza militar, pasen a depender del Ministro de Defensa, queden integrados o estén desplegados junto a unidades de las Fuerzas Armadas, se aplicará el procedimiento por el que se regula el ejercicio del derecho al voto en los procesos electorales del personal de las Fuerzas Armadas embarcado o en situaciones excepcionales vinculadas con la Defensa Nacional.

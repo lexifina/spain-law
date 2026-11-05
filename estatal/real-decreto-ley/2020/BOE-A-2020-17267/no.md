@@ -1,0 +1,1 @@
+El presente Real Decreto-ley se entiende tácitamente sustituido por la Ley 2/2022, de 24 de febrero, de medidas financieras de apoyo social y económico y de cumplimiento de la ejecución de sentencias. Ref. BOE-A-2022-2977

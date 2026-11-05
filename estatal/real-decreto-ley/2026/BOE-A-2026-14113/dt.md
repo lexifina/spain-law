@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio de aplicación al reconocimiento de la jubilación parcial del personal laboral de las Administraciones Públicas.
+
+Además de las posibilidades previstas en el artículo único de este real decreto-ley, hasta el 1 de abril de 2027, el reconocimiento de la jubilación parcial del personal laboral al servicio de las Administraciones Públicas se podrá vincular a un contrato de personal laboral fijo a tiempo completo que hubiere sido formalizado a partir del 1 de abril de 2024 como resultado de convocatorias derivadas de ofertas de empleo público ordinarias o instrumentos similares.

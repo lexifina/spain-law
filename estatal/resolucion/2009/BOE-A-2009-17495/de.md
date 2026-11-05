@@ -1,0 +1,3 @@
+## Décimo. Eficacia.
+
+La presente resolución tendrá efectos desde el día siguiente al de su publicación en el «Boletín Oficial del Estado» y será de aplicación también a los gastos que no hayan sido compensados de acuerdo con las Resoluciones de 16 de junio de 1997 y de 23 de julio de 2001, del Instituto Nacional de la Seguridad Social, y de 9 de marzo de 2007, del Instituto Social de la Marina, y originados a partir del 22 de abril de 2009, fecha de entrada en vigor de la Orden TIN/971/2009, de 16 de abril, por la que se establece la compensación de gastos de transporte en los casos de asistencia sanitaria derivada de riesgos profesionales y de comparecencias para la realización de exámenes o valoraciones médicas.

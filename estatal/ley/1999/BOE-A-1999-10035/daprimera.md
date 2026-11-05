@@ -1,0 +1,79 @@
+## Disposición adicional primera.
+
+Queda modificado el artículo 2 de la Ley 15/1980, de 22 de abril, de Creación del Consejo de Seguridad Nuclear, que quedará redactado en los términos siguientes:
+
+«Artículo 2.
+
+Las funciones del Consejo de Seguridad Nuclear serán las siguientes:
+
+a) Proponer al Gobierno las reglamentaciones necesarias en materia de seguridad nuclear y protección radiológica, así como las revisiones que considere convenientes. Dentro de esta reglamentación se establecerán los criterios objetivos para la selección de emplazamientos de las instalaciones nucleares y de las radiactivas de primera categoría, previo informe de las Comunidades Autónomas, en la forma y plazo que reglamentariamente se determinen.
+
+Asimismo, podrá elaborar y aprobar las instrucciones, circulares y guías de carácter técnico relativas a las instalaciones nucleares y radiactivas y las actividades relacionadas con la seguridad nuclear y la protección radiológica.
+
+b) Emitir informes al Ministerio de Industria y Energía, previos a las resoluciones que éste adopte en materia de concesión de autorizaciones para las instalaciones nucleares y radiactivas, los transportes de sustancias nucleares o materiales radiactivos, la fabricación y homologación de equipos que incorporen fuentes radiactivas o sean generadores de radiaciones ionizantes, la explotación, restauración o cierre de las minas de uranio, y, en general, de todas las actividades relacionadas con la manipulación, procesado, almacenamiento y transporte de sustancias nucleares y radiactivas.
+
+Emitir informes previos a las resoluciones del Ministerio de Industria y Energía en relación con la autorización de empresas de venta y asistencia técnica de los equipos e instalaciones de rayos X para diagnóstico médico y de otros equipos destinados a instalaciones radiactivas y llevar a cabo su inspección y control.
+
+Emitir los informes previos a las resoluciones que en casos y circunstancias excepcionales dicte el Ministerio de Industria y Energía, a iniciativa propia o a instancia del Consejo de Seguridad Nuclear, en relación con la retirada y gestión segura de materiales radiactivos.
+
+Dichos informes serán preceptivos en todo caso y, además vinculantes cuando tengan carácter negativo o denegatorio de una concesión y, asimismo, en cuanto a las condiciones que establezcan, caso de ser positivos.
+
+Los procedimientos en los que deban emitirse los informes a los que se refiere este apartado podrán ser suspendidos por el órgano competente para su resolución, excepcionalmente, con carácter indefinido hasta la emisión de los mismos o durante el período de tiempo que se considere adecuado para que éstos sean emitidos, justificando motivadamente la suspensión.
+
+c) Realizar toda clase de inspecciones en las instalaciones nucleares o radiactivas durante las distintas fases de proyecto, construcción y puesta en marcha, en los transportes, fabricación y homologación de equipos que incorporen fuentes radiactivas o sean generadores de radiaciones ionizantes, y la aprobación o convalidación de bultos destinados al transporte de sustancias radiactivas con objeto de garantizar el cumplimiento de la legislación vigente y de los condicionamientos impuestos en las correspondientes autorizaciones, con facultad para la paralización de las obras o actividades en caso de aparición de anomalías que afecten a la seguridad y hasta tanto éstas sean corregidas, pudiendo proponer la anulación de la autorización si las anomalías no fueran susceptibles de ser corregidas.
+
+d) Llevar a cabo la inspección y control de las instalaciones nucleares y radiactivas durante su funcionamiento, y hasta su clausura, al objeto de asegurar el cumplimiento de todas las normas y condicionamientos establecidos, tanto de tipo general como los particulares establecidos para la instalación, con el fin de que el funcionamiento de dichas instalaciones no suponga riesgos indebidos, ni para las personas ni para el medio ambiente.
+
+El Consejo de Seguridad Nuclear tiene autoridad para suspender el funcionamiento de las instalaciones o las actividades que se realicen, por razones de seguridad.
+
+e) Proponer la apertura de los expedientes sancionadores que considere pertinentes en el ámbito de sus competencias, de acuerdo con la legislación vigente.
+
+Asimismo, el Consejo de Seguridad Nuclear, iniciado un procedimiento sancionador en materia de seguridad nuclear o protección radiológica emitirá, con carácter preceptivo, informe en el plazo de dos meses, para la adecuada calificación de los hechos objeto de procedimiento. Este informe se emitirá cuando dicha iniciación lo fuera a instancia de otro organismo, o en el supuesto de que habiéndose incoado como consecuencia de petición razonada del propio Consejo de Seguridad Nuclear, consten en dicho procedimiento otros datos además de los comunicados por dicho ente.
+
+f) Colaborar con las autoridades competentes en la elaboración de los criterios a los que han de ajustarse los planes de emergencia exterior y protección física de las instalaciones nucleares y radiactivas y de los transportes, y una vez redactados los planes participar en su aprobación.
+
+Coordinar, para todos los aspectos relacionados con la seguridad nuclear y la protección radiológica, las medidas de apoyo y respuesta a las situaciones de emergencia, integrando y coordinando a los diversos organismos y empresas públicas o privadas cuyo concurso sea necesario para el cumplimiento de las funciones atribuidas a este Organismo.
+
+Asimismo, realizar cualesquiera otras actividades en materia de emergencias que le sean asignadas en la reglamentación aplicable.
+
+g) Controlar las medidas de protección radiológica de los trabajadores profesionalmente expuestos, del público y del medio ambiente. Vigilar y controlar las dosis de radiación recibidas por el personal de operación y las descargas de materiales radiactivos al exterior de las instalaciones nucleares y radiactivas y su incidencia, particular o acumulativa, en las zonas de influencia de estas instalaciones.
+
+Evaluar el impacto radiológico ambiental de las instalaciones nucleares y radiactivas y de las actividades que impliquen el uso de radiaciones ionizantes, de acuerdo con lo establecido en la legislación aplicable.
+
+Controlar y vigilar la calidad radiológica del medio ambiente de todo el territorio nacional, en cumplimiento de las obligaciones internacionales del Estado español en la materia, y sin perjuicio de la competencia que las distintas Administraciones públicas tengan atribuidas.
+
+De igual modo, colaborar con las autoridades competentes en materia de vigilancia radiológica ambiental fuera de las zonas de influencia de las instalaciones nucleares o radiactivas.
+
+h) Conceder y, en su caso, revocar las autorizaciones correspondientes a las entidades o empresas que presten servicios en el ámbito de la protección radiológica, así como efectuar la inspección y control, en materia de seguridad nuclear y protección radiológica, de las citadas entidades, empresas, servicios y centros autorizados.
+
+Colaborar con las autoridades competentes en relación con la vigilancia sanitaria de los trabajadores profesionalmente expuestos y en la atención médica de personas potencialmente afectadas por las radiaciones ionizantes.
+
+Crear y mantener el Registro de Empresas Externas a los titulares de las instalaciones nucleares o radiactivas con trabajadores clasificados como profesionalmente expuestos y efectuar el control o las inspecciones que estime necesarios sobre dichas empresas.
+
+De igual modo podrá, a solicitud de parte, emitir declaraciones de apreciación favorable sobre nuevos diseños, metodologías, modelos de simulación o protocolos de verificación relacionados con la seguridad nuclear y la protección radiológica.
+
+i) Informar al Ministerio de Industria y Energía en relación con las concentraciones o niveles de actividad, para su consideración como residuos radiactivos, de aquellos materiales que contengan o incorporen sustancias radiactivas y para las que no esté previsto ningún uso.
+
+j) Conceder y renovar, mediante la realización de las pruebas que el propio Consejo establezca, las licencias de operador y supervisor para instalaciones nucleares o radiactivas, los diplomas de jefe de servicio de protección radiológica, y las acreditaciones para dirigir u operar las instalaciones de rayos X con fines de diagnóstico médico.
+
+Asimismo, homologar programas y cursos de formación y perfeccionamiento específicos en materia de seguridad nuclear y protección radiológica que capaciten para dirigir el funcionamiento u operar las instalaciones radiactivas y los equipos de las instalaciones de rayos X con fines de diagnóstico médico, y los que capaciten para ejercer las funciones de Jefe de Servicio de Protección Radiológica.
+
+k) Realizar los estudios, evaluaciones e inspecciones de los planes, programas y proyectos necesarios para todas las fases de la gestión de los residuos radiactivos.
+
+l) Asesorar, cuando sea requerido para ello, a los Tribunales y a los órganos de las Administraciones públicas en materia de seguridad nuclear y protección radiológica.
+
+ll) Mantener relaciones oficiales con organismos similares extranjeros y participar en organismos internacionales con competencia en temas de seguridad nuclear o protección radiológica.
+
+Asimismo, podrá colaborar con Organismos u Organizaciones internacionales en programas de asistencia en materia de seguridad nuclear y protección radiológica, participando en su ejecución bien directamente o a través de la contratación a este fin, de terceras personas o entidades, siempre de conformidad a las condiciones determinadas por dichas Organizaciones.
+
+m) Informar a la opinión pública, sobre materias de su competencia con la extensión y periodicidad que el Consejo determine, sin perjuicio de la publicidad de sus actuaciones administrativas en los términos legalmente establecidos.
+
+n) Conocer del Gobierno y asesorar al mismo respecto de los compromisos con otros países u Organismos internacionales en materia de seguridad nuclear y protección radiológica, los cuales serán tenidos en cuenta en el ejercicio de las funciones que son conferidas al Consejo por esta Ley.
+
+ñ) Establecer y efectuar el seguimiento de planes de investigación en materia de seguridad nuclear y protección radiológica.
+
+o) Recoger información precisa y asesorar en su caso, respecto a las afecciones que pudieran originarse en las personas por radiaciones ionizantes derivadas del funcionamiento de instalaciones nucleares o radiactivas.
+
+p) Inspeccionar, evaluar, controlar, informar y proponer a la autoridad competente la adopción de cuantas medidas de prevención y corrección sean precisas ante situaciones excepcionales o de emergencia que se presenten y que puedan afectar a la seguridad nuclear y a la protección radiológica, cuando tengan su origen en instalaciones, equipos, empresas o actividades no sujetas al régimen de autorizaciones de la legislación nuclear.
+
+q) Cualquier otra que, en el ámbito de la seguridad nuclear y la protección radiológica, le sea legalmente atribuida.»

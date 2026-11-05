@@ -1,0 +1,3 @@
+## Disposición adicional undécima. Potencia instalada.
+
+Para las instalaciones no incluidas en el ámbito de aplicación del presente real decreto se define potencia instalada como la potencia activa máxima que puede alcanzar una unidad de producción y vendrá determinada por la potencia menor de las especificadas en la placas de características de los grupos motor, turbina o alternador instalados en serie, o en su caso, cuando la instalación esté configurada por varios motores, turbinas o alternadores en paralelo será la menor de las sumas de las potencias de las placas de características de los motores, turbinas o alternadores que se encuentren en paralelo.

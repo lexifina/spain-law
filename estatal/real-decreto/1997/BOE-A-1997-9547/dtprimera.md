@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Previsiones sobre organización y funcionamiento.
+
+De acuerdo con lo previsto en el apartado 3 de la disposición transitoria segunda de la Ley de Organización y Funcionamiento de la Administración General del Estado, las Delegaciones del Gobierno, las Subdelegaciones del Gobierno y las Direcciones Insulares mantendrán la estructura, unidades y puestos de trabajo de las actuales Delegaciones del Gobierno, Gobiernos Civiles y Delegaciones Insulares y seguirán rigiéndose por las normas de funcionamiento y dependencia orgánica vigentes para estos órganos con anterioridad a la entrada en vigor de dicha Ley, hasta que se lleven a efecto las previsiones de la disposición final segunda de la misma.

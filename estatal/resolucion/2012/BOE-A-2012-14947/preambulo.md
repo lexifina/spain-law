@@ -1,0 +1,21 @@
+La Orden INT/318/2011, de 1 de febrero de 2011, sobre personal de seguridad privada, en su sección 2.ª (Formación previa), artículo 4, encomienda a la Secretaría de Estado de Seguridad, a propuesta de la Dirección General de la Policía, la determinación de los módulos profesionales de formación teórico-práctica que han de superar los aspirantes a vigilantes de seguridad y sus especialidades a efectos de habilitación, mientras que las materias que han de integrar los programas de los cursos lectivos que permiten a los aspirantes a detectives privados la obtención del diploma correspondiente, han de ser determinadas por el Ministerio del Interior, a tenor de lo dispuesto en el artículo 5 de esa misma Sección de dicha Orden.
+
+Igualmente, la sección 3.ª (Formación permanente) de dicha Orden INT/318/2011, en el artículo 8, dispone que se requerirá una formación específica para la prestación de los concretos tipos de servicios de seguridad citados en el apartado 1 del anexo IV de la misma, por ser necesaria una mayor especialización del personal que los desempeña. Dicha formación específica habrá de ajustarse a los requisitos que se recogen en el aludido anexo, que si bien exige la superación de un curso de formación específica, no detalla sus contenidos, por lo que se hace necesario concretar cuanto antes las materias a impartir en los mismos.
+
+Por otra parte, la Orden INT/2850/2011, de 11 de octubre, por la que se regula el reconocimiento de las cualificaciones profesionales para el ejercicio de las profesiones y actividades relativas al sector de seguridad privada a los nacionales de los Estados miembros de la Unión Europea, establece, en sus artículos 5.2 y 18, que aquellos candidatos que pretendan el reconocimiento de la cualificación para ejercer en España la profesión de detective privado, antes de obtener el mismo, y a los efectos de su acreditación profesional en nuestro país, deben realizar, en todo caso, una prueba específica, basada en un programa que verse sobre el derecho positivo español, sin determinar, sin embargo, las materias concretas que han de integrar dicho programa, por lo que, en cumplimiento de lo dispuesto en la disposición final tercera de dicha Orden, es preciso proceder a la concreción de tales materias.
+
+Teniendo en cuenta lo anterior y en cumplimiento de los referidos mandatos, en la presente Resolución se determinan:
+
+1. Los módulos profesionales generales de formación de los vigilantes de seguridad, y los específicos de escoltas privados y vigilantes de explosivos.
+
+2. Las materias que han de desarrollarse en los cursos correspondientes al diploma necesario para la habilitación de detectives privados.
+
+3. Los servicios de seguridad que vienen a sumarse a los ya citados en el apartado 1 del anexo IV de la Orden INT/318/2011, de 1 de febrero, sobre personal de seguridad privada, cuya prestación requiere una formación específica conforme determina el artículo 8 de dicha Orden.
+
+4. Los contenidos mínimos de los programas a los que han de ajustarse los cursos de formación específica en relación con el personal de seguridad privada que vaya a prestar los tipos de servicios de seguridad descritos en el apartado 1 del anexo IV de la referida Orden ministerial, incluidos los añadidos por la presente Resolución.
+
+5. El programa sobre el derecho positivo español al que ha de ajustarse el desarrollo de la prueba de aptitud específica prevista para los nacionales de los Estados miembros de la Unión Europea que pretendan obtener el reconocimiento de su cualificación profesional como detectives privados en España, y cuya superación posibilita su acreditación profesional en nuestro país.
+
+La determinación de los aspectos enumerados anteriormente ha sido sometida al conocimiento de la Comisión Nacional de Seguridad Privada, habiéndose tenido en cuenta las consideraciones, observaciones y propuestas formuladas a través de dichos trámites, y previo informe favorable de los Ministerios de Educación, Cultura y Deporte, y de Empleo y Seguridad Social, respecto a los módulos profesionales de formación de los vigilantes de seguridad, así como del Ministerio de Industria, Energía y Turismo, y Dirección General de la Guardia Civil, respecto de los vigilantes de explosivos.
+
+En su virtud, a propuesta de la Dirección General de la Policía, dispongo:

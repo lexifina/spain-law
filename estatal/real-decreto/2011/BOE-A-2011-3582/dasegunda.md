@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Especies introducidas accidental o ilegalmente fuera de su área de distribución natural.
+
+Las obligaciones contenidas en los artículos 9 y 11 de esta norma no serán de aplicación en el caso de especies del Listado y Catálogo introducidas accidental o ilegalmente fuera de sus áreas de distribución natural. En los casos en que estas especies incidan negativamente en la biodiversidad o produzcan perjuicios significativos en actividades económicas, las comunidades autónomas y las ciudades con estatuto de autonomía afectadas podrán solicitar la exclusión o adaptación en sus respectivos ámbitos territoriales de la protección jurídica de las poblaciones de estas especies.

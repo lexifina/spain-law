@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Instalaciones existentes sobre o en la cercanía de praderas de fanerógamas marinas.
+
+Los titulares de instalaciones marinas que ya estén en funcionamiento a la entrada en vigor de esta norma y cuyas autorizaciones incluyan controles de seguimiento de sus efectos sobre praderas de Posidonia oceanica o Cymodocea nodosa, remitirán una copia de sus informes de seguimiento a la Dirección General de Biodiversidad, Bosques y Desertificación del Ministerio para la Transición Ecológica y el Reto Demográfico utilizando los modelos de datos fijados por esa administración.

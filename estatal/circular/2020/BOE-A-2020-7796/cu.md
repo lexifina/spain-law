@@ -1,0 +1,13 @@
+## Cuarto. Objetivos de biocarburantes.
+
+Los sujetos obligados deberán acreditar ante la Comisión Nacional de los Mercados y la Competencia la titularidad de una cantidad mínima de Certificados de biocarburantes que permitan cumplir con los objetivos establecidos en el Real Decreto 1085/2015, de 4 de diciembre, o cualquier otra norma que en el futuro lo sustituya.
+
+Los porcentajes indicados en la disposición adicional primera de dicho real decreto, o cualquier otra norma que en el futuro lo sustituya, se calcularán de acuerdo con la fórmula establecida en el artículo 4 de la Orden ITC/2877/2008, de 9 de octubre.
+
+Para el cálculo de estos porcentajes y, por tanto, para el cumplimiento de las obligaciones de venta o consumo de biocarburantes con fines de transporte, se considerará que la contribución, en términos energéticos, de los biocarburantes obtenidos a partir de las materias primas incluidas en el anexo IV del Real Decreto 1597/2011, de 4 de noviembre, o norma que en el futuro la sustituya, equivale al doble de su contenido en energía, siempre y cuando se cumplan los requisitos previstos en la presente Circular para demostrar la procedencia y origen de las materias primas o el biocarburante correspondiente.
+
+Para el cómputo del citado objetivo obligatorio mínimo de venta o consumo, el porcentaje de biocarburantes producidos a partir de cereales y otros cultivos ricos en almidón, de azúcares, de oleaginosas y de otros cultivos plantados en tierras agrícolas como cultivos principales fundamentalmente con fines energéticos no podrá superar, para cada uno de los sujetos obligados, el 7,2 %, en contenido energético, sobre el total de gasolina y gasóleo vendidos o consumidos con fines de transporte, en contenido energético, incluyendo los biocarburantes.
+
+El objetivo a que hace referencia el artículo 2.4 del Real Decreto 1085/2015, de 4 de diciembre, se calculará, en contenido energético, para cada sujeto obligado, como el porcentaje de ventas o consumos de biocarburantes avanzados sobre el total de gasolina y gasóleo vendidos o consumidos con fines de transporte, incluyendo los biocarburantes. Para el cálculo de estos porcentajes se considerarán biocarburantes avanzados los definidos en el artículo 2.18 del Real Decreto 1597/2011, de 4 de noviembre, siempre y cuando se cumplan los requisitos previstos en la presente Circular para demostrar la procedencia y origen de las materias primas o el biocarburante correspondiente.
+
+En lo que respecta a las especificaciones de carburantes y biocarburantes que se deseen acreditar, se estará a lo que en cada momento establezca la normativa de aplicación.

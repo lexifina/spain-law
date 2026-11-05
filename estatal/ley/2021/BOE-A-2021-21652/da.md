@@ -1,0 +1,13 @@
+## Disposición adicional primera. Complemento económico para quienes hayan accedido a la jubilación de forma anticipada entre el 1 de enero de 2002 y el 31 de diciembre de 2021 en determinados supuestos de largo periodo de cotización y, en su caso, baja cuantía.
+
+1. Las personas beneficiarias de pensión de jubilación causada entre el 1 de enero de 2002 y el 31 de diciembre de 2021, que hayan accedido a la pensión de jubilación anticipada de forma involuntaria como máximo cuatro años antes de alcanzar la edad ordinaria de jubilación, tendrán derecho, con efecto de 1 de marzo de 2022, a un complemento cuya cuantía vendrá determinada por la diferencia entre la cuantía resultante de aplicar a la pensión inicial los coeficientes reductores previstos en esta norma y la pensión inicialmente reconocida, siempre que reúnan los siguientes requisitos:
+
+a) Que se acrediten al menos cuarenta y cuatro años y seis meses de cotización, o bien, si la cuantía de su pensión es inferior a 900 euros el 1 de enero de 2022, al menos cuarenta años de cotización.
+
+b) Que la cuantía de la pensión inicial hubiera sido superior si se le hubieren aplicado los coeficientes reductores vigentes a 1 de enero de 2022.
+
+2. Lo dispuesto en el apartado anterior será de aplicación a las personas beneficiarias de pensión de jubilación causada entre el 1 de enero de 2002 y el 31 de diciembre de 2021, que hayan accedido a la pensión de jubilación anticipada de forma voluntaria como máximo dos años antes de alcanzar la edad ordinaria de jubilación y reúnan los requisitos establecidos en el citado apartado anterior.
+
+3. El importe correspondiente, que se abonará en catorce pagas, tendrá la naturaleza de pensión de jubilación y se integrará en la misma a todos los efectos, incluida la aplicación del límite al que se refiere el artículo 57 del texto refundido de la Ley General de la Seguridad Social y sin perjuicio, en su caso, de la absorción del complemento por mínimos que se viniera percibiendo. Cuando se trate de pensiones reconocidas al amparo de normas internacionales, para fijar el importe del incremento mensual serán de aplicación las reglas establecidas en dichas normas sobre determinación y cálculo de la cuantía de las pensiones.
+
+4. La Entidad Gestora reconocerá de oficio el derecho al complemento regulado en la presente disposición en el plazo de tres meses contados a partir de la entrada en vigor de esta ley, de acuerdo con la información contenida en la base de datos de prestaciones de la Seguridad Social y en el fichero general de afiliación, que acreditarán, respectivamente, la clase de jubilación anticipada causada y los años de cotización cumplidos.

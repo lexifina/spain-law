@@ -1,0 +1,9 @@
+La Directiva 86/457/CEE, de 15 de septiembre, del Consejo de las Comunidades Europeas, sobre formación específica en Medicina General, establece la necesidad de dicha formación específica para el ejercicio de las funciones de médico general en los regímenes públicos de Seguridad Social de los distintos Estados miembros a partir del día 1 de enero de 1995.
+
+A estos efectos, en cumplimiento de lo previsto en el apartado 2 del artículo 12 de la Directiva antes citada, el «Diario Oficial de las Comunidades Europeas», del día 24 de octubre de 1990, ha publicado la Comunicación de la Comisión 90/C 268/02, mediante la que se hacen públicas las denominaciones de los títulos acreditativos de la citada formación en los diversos Estados miembros. En España dicho título es el de Médico Especialista en Medicina Familiar y Comunitaria.
+
+Regulada la formación en Medicina General a través del Real Decreto 3303/1978, de 29 de diciembre, sobre la especialidad de Medicina Familiar y Comunitaria, y una vez aprobados los Reales Decretos 683/1981 y 264/1989, de 6 de marzo de 1981 y 10 de febrero de 1989, respectivamente, por los que se regula la obtención de dicho título por diversos colectivos, queda por regular, de conformidad con las previsiones contenidas en la Directiva 86/457/CEE, los derechos adquiridos por los Licenciados en Medicina y Cirugía anteriores al 1 de enero de 1995 para ejercer las actividades propias de los médicos generales sin la formación específica exigida por dicha Directiva.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo y de Educación y Ciencia, vistos los informes emitidos por el Consejo General de Colegios Oficiales de Médicos, por el Consejo Nacional de Especialidades Médicas y por el Consejo Interterritorial del Sistema Nacional de Salud, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 4 de junio de 1993,
+
+DISPONGO:

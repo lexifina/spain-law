@@ -1,0 +1,17 @@
+## Artículo 20 Concepto de entidad inviable.
+
+1. Se entenderá que una entidad de crédito es inviable si:
+
+a) La entidad se encuentra en alguna de las siguientes circunstancias:
+
+i) la entidad incumple de manera significativa o es razonablemente previsible que incumpla de manera significativa en un futuro próximo los requerimientos de solvencia; o,
+
+ii) los pasivos exigibles de la entidad son superiores a sus activos o es razonablemente previsible que lo sean en un futuro próximo; o,
+
+iii) la entidad no puede o es razonablemente previsible que en un futuro próximo no pueda cumplir puntualmente sus obligaciones exigibles.
+
+b) Y no es razonablemente previsible que la entidad pueda reconducir la situación en un plazo de tiempo razonable por sus propios medios, acudiendo a los mercados o mediante los apoyos financieros a los que se refiere el Capítulo V.
+
+A los efectos de considerar que una entidad de crédito es inviable o es razonablemente previsible que vaya a serlo en un futuro próximo, se tendrá en cuenta igualmente la situación financiera del grupo del que, en su caso, forme parte.
+
+2. Los criterios previstos en el apartado anterior serán desarrollados reglamentariamente.

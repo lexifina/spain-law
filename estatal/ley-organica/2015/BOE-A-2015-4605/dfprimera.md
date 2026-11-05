@@ -1,0 +1,7 @@
+## Disposición final primera. Registro Oficial de traductores e intérpretes judiciales.
+
+El Gobierno presentará, en el plazo máximo de un año desde la publicación de esta Ley, un Proyecto de ley de creación de un Registro Oficial de Traductores e Intérpretes judiciales para la inscripción de todos aquellos profesionales que cuenten con la debida habilitación y cualificación, con el fin de elaborar las listas de traductores e intérpretes a que se refiere el artículo 124 de la Ley de Enjuiciamiento Criminal. La inscripción en este Registro Oficial será requisito necesario para la actuación de estos profesionales por designación del Juez o del Secretario judicial ante la Administración de Justicia y en las diligencias policiales en las que sea necesaria su presencia, sin perjuicio de las excepciones que se establezcan.
+
+A efectos de proceder a la inscripción en este Registro Oficial, el Ministerio de Justicia podrá solicitar el cumplimiento de otros requisitos diferentes a la formación o titulación que se establezca reglamentariamente en función del idioma de que se trate. Estos requisitos deberán ser proporcionados y no discriminatorios y podrán basarse en la experiencia del profesional, en el conocimiento adicional de cuestiones procedimentales o jurídicas, y en el cumplimiento de deberes deontológicos previstos en la ley.
+
+La norma reguladora de este Registro Oficial determinará sus condiciones y términos de funcionamiento.

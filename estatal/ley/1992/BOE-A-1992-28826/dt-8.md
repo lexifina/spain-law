@@ -1,0 +1,9 @@
+## Disposición transitoria octava. Suspensión temporal parcial de la oferta de empleo público.
+
+Uno. Durante el año 1993 se suspende en el ámbito de la Administración del Estado, de sus Organismos autónomos y de la Administración de la Seguridad Social la vigencia del artículo 18 de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en lo relativo a la necesidad de que la Oferta de Empleo Público contenga la totalidad de las plazas dotadas presupuestariamente y que se hallen vacantes y a que la publicación de la oferta obliga a los órganos competentes a proceder, dentro del primer trimestre de cada año natural, a la convocatoria de las pruebas selectivas de acceso para las plazas vacantes comprometidas en la misma y hasta un 10 por 100 adicional.
+
+Dos. En el año 1993 no podrán convocarse plazas para ingreso de nuevo personal funcionario, estatutario y laboral al servicio del Estado, Organismos autónomos, Entes públicos y Seguridad Social, con excepción de las relativas a las carreras judicial y fiscal y al personal al servicio de la Administración de Justicia, personal de Instituciones Penitenciarias, personal sanitario y personal docente.
+
+Asimismo, el Gobierno podrá autorizar, excepcionalmente, a propuesta del Ministerio para las Administraciones Públicas o, en su caso, de los Ministerios competentes en la materia, y con el informe favorable del Ministerio de Economía y Hacienda, la convocatoria de aquellas plazas que considere que puedan afectar al funcionamiento de los servicios públicos esenciales o a la ejecución del Programa de Convergencia.
+
+Tres. La tramitación de expedientes para la contratación de personal laboral con carácter temporal, incluso la que haya de financiarse con cargo a créditos de inversiones, requerirá autorización previa conjunta de los Ministerios para las Administraciones Públicas y de Economía y Hacienda.

@@ -1,0 +1,15 @@
+## Disposición adicional cuadragésima quinta. Modificación del texto refundido de las Leyes 38/1966, de 31 de mayo, y 41/1970, de 22 de diciembre, por las que se establece y regula el Régimen Especial Agrario de la Seguridad Social, aprobado por el Decreto 2123/1971, de 23 de julio.
+
+Con efectos de 1 de enero de 2005 y vigencia indefinida, se modifican los siguientes preceptos del texto refundido de las Leyes 38/1966 y 41/1970, regulador del Régimen Especial Agrario de la Seguridad Social.
+
+Uno. Se modifica el artículo 42 del texto refundido de las Leyes 38/1966, de 31 de mayo, y 41/1970, de 22 de diciembre, por las que se establece y regula el Régimen Especial Agrario de la Seguridad Social, aprobado por el Decreto 2123/1971, de 23 de julio, que queda redactado en los términos siguientes:
+
+«La cuantía de la cotización a cargo de los trabajadores agrarios por cuenta propia y por cuenta ajena consistirá en una cuota fija mensual que para cada categoría profesional fije la respectiva Ley de Presupuestos Generales del Estado, con aplicación, en su caso, de lo establecido en las disposiciones adicionales trigésima segunda y trigésima sexta de la Ley General de la Seguridad Social.»
+
+Dos. Se modifica el artículo 43 del texto refundido de las Leyes 38/1966, de 31 de mayo, y 41/1970, de 22 de diciembre, por las que se establece y regula el Régimen Especial Agrario de la Seguridad Social, aprobado por el Decreto 2123/1971, de 23 de julio, que queda redactado en los términos siguientes:
+
+«1. La recaudación de la cuota de los trabajadores se efectuará mediante ingresos individuales y directos de los mismos en los Organismos recaudadores reconocidos al efecto y de acuerdo con el sistema, plazos y condiciones que reglamentariamente se establezcan.
+
+2. Para el pago de la cuota fija de los trabajadores agrarios por cuenta ajena de nacionalidad extranjera con contrato de trabajo de carácter temporal y que precisen autorización administrativa previa para trabajar y, en su caso, autorización de residencia o cualquiera otra que reglamentariamente se establezca, el empresario, además de cumplir su obligación de cotizar por jornadas reales y contingencias profesionales, descontará a sus trabajadores, en el momento de hacerles efectivas sus retribuciones, el importe de la cuota fija de aquéllos. Si el empresario no efectuare el descuento en dicho momento, no podrá realizarlo con posterioridad, quedando obligado a ingresar la cuota fija a su exclusivo cargo. El empresario que habiendo efectuado el descuento no lo ingrese dentro de plazo, incurrirá en las responsabilidades establecidas en el artículo 104.3 de la Ley General de la Seguridad Social.
+
+Cuando el trabajador por cuenta ajena con contrato temporal inicie o finalice su actividad en la empresa sin coincidir con el principio o el final de un mes natural, el empresario únicamente retendrá e ingresará las fracciones de la cuota fija mensual del trabajador correspondientes a los días de duración del contrato, a cuyo efecto la cuota fija mensual se dividirá por treinta en todos los casos.»

@@ -1,0 +1,13 @@
+El Reglamento de la Denominación «Cava» y de su Consejo Regulador fue aprobado por Orden del Ministerio de Agricultura, Pesca y Alimentación, de 14 de noviembre de 1991, habiéndose modificado por sucesivas órdenes, siendo la última la Orden ARM/1457/2010, de 21 de mayo.
+
+En virtud de lo dispuesto en la disposición adicional primera de la Ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito supraautonómico, fue creada la Corporación de derecho público «Consejo Regulador de la Denominación de Origen Protegida Cava».
+
+Asimismo en la letra e) del artículo 17 de la Ley 6/2015, de 12 de mayo, se establece que las entidades de gestión que adopten la forma de corporación de derecho público elaborarán y aprobarán unos estatutos que serán sometidos, para su aprobación administrativa, al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente y que deberán incluir, al menos, sus fines y funciones, organización, derechos y obligaciones de los operadores que los integren, régimen económico y financiero, control interno, de existir, y régimen disciplinario.
+
+La Ley 6/2015, de 12 de mayo, ha sido desarrollada por el Real Decreto 267/2017, de 17 de marzo, por el que se desarrolla la ley 6/2015, de 12 de mayo, de Denominaciones de Origen e Indicaciones Geográficas Protegidas de ámbito territorial supraautonómico, y por el que se desarrolla la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria.
+
+El Consejo Regulador de la Denominación de Origen Protegida Cava ha remitido los estatutos debidamente aprobados al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente. Por lo tanto, en virtud de lo dispuesto en el artículo 3 del Real Decreto 267/2017, de 17 de marzo, y una vez emitido el informe favorable de la Abogacía del Estado del Departamento, corresponde al Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente aprobar dichos estatutos. Los aspectos relativos a la composición y funcionamiento del Consejo Regulador se contienen en los estatutos que se aprueban por esta Orden, por lo que se considera pertinente proceder a la derogación de la Orden del Ministerio de Agricultura, Pesca y Alimentación de 14 de noviembre de 1991.
+
+Por otro lado, conforme a lo dispuesto en la normativa comunitaria, en particular en el Reglamento (UE) n.º 1308/2013, del Parlamento Europeo y del Consejo, de 17 de diciembre, por el que se crea la organización común de mercados de los productos agrarios, el documento normativo que establece los requisitos que debe cumplir el producto de la Denominación de Origen Protegida «Cava» es su pliego de condiciones.
+
+En su virtud, dispongo:

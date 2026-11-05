@@ -1,0 +1,13 @@
+La Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, creó el concepto de «sede electrónica», justificado por «la necesidad de definir claramente la «sede» administrativa electrónica con la que se establecen las relaciones, promoviendo un régimen de identificación, autenticación, contenido mínimo, protección jurídica, accesibilidad, disponibilidad y responsabilidad».
+
+El artículo 10.1 de la misma Ley define la sede electrónica como «aquella dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad, gestión y administración corresponde a una Administración Pública, órgano o entidad administrativa en el ejercicio de sus competencias». El apartado 3 del mismo artículo establece que «cada Administración Pública determinará las condiciones e instrumentos de creación de las sedes electrónicas».
+
+Por otra parte, el Real Decreto 1671/2009, de 6 de noviembre, por el que se desarrolla parcialmente la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los servicios públicos, además de regular esta figura en sus artículos 3 al 9, determina específicamente en su artículo 3.2 que «las sedes electrónicas se crearán mediante orden del Ministro correspondiente o resolución del titular del organismo público, que deberá publicarse en el «Boletín Oficial del Estado», determinando el contenido mínimo de esta norma aprobatoria.
+
+Asimismo, la disposición adicional segunda de la Ley Orgánica 6/2013, de 14 de noviembre, de creación de la Autoridad Independiente de Responsabilidad Fiscal, establece que este ente de Derecho Público se financia a través de la denominada tasa de supervisión, análisis, asesoramiento y seguimiento de la política fiscal, cuyo hecho imponible es la prestación a las Administraciones Publicas de los servicios detallados en el capítulo II de la mencionada Ley.
+
+El «Boletín Oficial del Estado» de 21 de julio de 2014 publicó la Orden HAP/1286/2014 de 14 de julio, por la que se aprueba el modelo 017 «Tasa de supervisión, análisis y asesoramiento de la política fiscal. Autoliquidación» y se determinan el lugar, plazo y forma de presentación.
+
+Con la implantación de la Sede en la Autoridad Independiente de Responsabilidad Fiscal (en adelante, AIReF) se pretende, en primera instancia, facilitar a las Administraciones Públicas la liquidación y pago de esta tasa a través de un espacio accesible y que goce de las garantías necesarias. En el futuro podrán incorporarse nuevos servicios, que se revelen como necesarios para el adecuado funcionamiento de la AIReF en su relación con otras instituciones y ciudadanos.
+
+En consecuencia, dispongo:

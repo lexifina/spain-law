@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Plazo para información a efectos de tratamiento médico de productos conformes al Real Decreto 349/1988.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera, los responsables de los productos puestos en el mercado al amparo de lo establecido en el Real Decreto 349/1988, de 15 de abril, por el que se aprueba la Reglamentación técnico-sanitaria de Productos Cosméticos, modificada por los Reales Decretos 475/1991, de 5 de abril, y 1415/1995, de 4 de agosto, dispondrán de un plazo de dos años para cumplimentar lo establecido en el artículo 8 del presente Real Decreto.

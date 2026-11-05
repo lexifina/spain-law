@@ -1,0 +1,3 @@
+## Disposición adicional primera. Simplificación de procedimientos.
+
+Antes del 1 de abril de 2009, en virtud de lo establecido en el artículo 16 de la Orden ITC/1522/2007, de 24 de mayo, por la que se establece la regulación de la garantía del origen de la electricidad procedente de fuentes de energía renovables y de cogeneración de alta eficiencia, la Comisión Nacional de Energía remitirá a la Dirección General de Política Energética y Minas un informe relativo a la evaluación del marco legislativo y reglamentario vigente respecto a los procedimientos administrativos necesarios para la implantación de las instalaciones de producción de energía fotovoltaica en edificación, así como las medidas necesarias para eliminar o reducir los obstáculos existentes.

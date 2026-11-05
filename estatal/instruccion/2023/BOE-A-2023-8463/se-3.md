@@ -1,0 +1,3 @@
+## Séptimo. Publicación y efectos.
+
+La presente Instrucción, dado su carácter general, se publicará en el «Boletín Oficial del Estado», en aplicación de lo dispuesto en el artículo 18.6 de la LOREG, y será de aplicación a partir del día siguiente al de su publicación en el referido diario oficial. Sustituye y deja sin efecto las Instrucciones de la Junta Electoral Central 2/2009, de 2 de abril de 2009, de la Junta Electoral Central, sobre garantía del ejercicio personal del voto por correo de los electores residentes ausentes, la Circular de la Junta Electoral Central para la Dirección General de Asuntos Consulares de 10 de noviembre de 2011 y la Instrucción de la Junta Electoral Central 2/2012, de 20 de septiembre, sobre interpretación el artículo 75.4 de la LOREG.

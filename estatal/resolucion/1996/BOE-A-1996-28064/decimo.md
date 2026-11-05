@@ -1,0 +1,7 @@
+## Décimo. Incumplimiento del horario de trabajo.
+
+La deducción proporcional de haberes procederá en los supuestos en que exista una diferencia, en cómputo mensual, entre la jornada reglamentaria y la efectivamente realizada, salvo justificación, tal como prescribe el artículo 56.2 de la Ley 42/1994, de 30 de diciembre («Boletín Oficial del Estado» del 31), que modifica la Ley 17/1980, de Retribuciones del Personal al Servicio de la Administración de Justicia.
+
+El incumplimiento injustificado y reiterado del horario dará lugar a la incoación de expediente disciplinario, según determinen los respectivos reglamentos (Reglamento Orgánico de los Cuerpos de Oficiales, Auxiliares y Agentes de la Administración de Justicia, aprobado por Real Decreto 249/1996, de 16 de febrero («Boletín Oficial del Estado» de 1 de marzo) y Reglamento Orgánico del Cuerpo de Secretarios Judiciales, aprobado por Real Decreto 429/1988, de 29 de abril, y Reglamento Orgánico de Forenses, aprobado por Real Decreto 296/1996, de 23 de febrero («Boletín Oficial del Estado» de 1 de marzo), y demás normas de aplicación supletoria.
+
+Sin perjuicio de lo anterior, antes de proceder a descontar los haberes correspondientes a los incumplimientos del horario que pudieran producirse, se dará opción al trabajador afectado para que pueda recuperar el tiempo no trabajado en el mes siguiente al incumplimiento, sin que dicha opción afecte a la responsabilidad disciplinaria en que se hubiera incurrido por incumplimiento del horario.

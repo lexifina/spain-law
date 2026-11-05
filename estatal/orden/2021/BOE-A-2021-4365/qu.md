@@ -1,0 +1,3 @@
+## Quinto. Régimen de recursos.
+
+Contra esta orden, que pone fin a la vía administrativa, podrá interponerse recurso ante la Sala de lo Contencioso-administrativo de la Audiencia Nacional, de acuerdo con el artículo 11 de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, en el plazo de dos meses, a contar desde el día siguiente al de su publicación en el «Boletín Oficial del Estado», o potestativamente y con carácter previo, recurso administrativo de reposición, en el plazo de un mes ante el mismo órgano que lo dictó, de conformidad con lo previsto en los artículos 123 y 124 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.

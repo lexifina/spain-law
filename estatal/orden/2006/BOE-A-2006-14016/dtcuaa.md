@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Autorización de los programas de formación de RENFE-Operadora y del Administrador de Infraestructuras Ferroviarias.
+
+1. Con el fin de homogeneizar y uniformizar los programas formativos a impartir en los centros homologados de formación de personal ferroviario para las diversas habilitaciones que se regulan en esta orden, la Dirección General de Ferrocarriles, en el plazo máximo de ocho meses, mediante resolución publicada en el Boletín Oficial del Estado, establecerá, previa audiencia del Administrador de Infraestructuras Ferroviarias, empresas ferroviarias y sindicatos más representativos del sector, los itinerarios formativos básicos y la carga lectiva mínima que deberán respetar dichos programas formativos.
+
+2. En tanto no se elaboren y, en su caso, aprueben los contenidos de los programas de formación contemplados en esta orden, regirán aquellos que venían aplicando RENFE-Operadora y el Administrador de Infraestructuras Ferroviarias con anterioridad a su entrada en vigor.

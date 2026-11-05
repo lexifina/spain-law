@@ -1,0 +1,3 @@
+## Disposición adicional octava. Reintegro de becas y ayudas al estudio personalizadas.
+
+Los ingresos derivados de los reintegros de becas y ayudas al estudio personalizadas concedidas por el Ministerio de Educación y Formación Profesional en las distintas convocatorias realizadas por dicho departamento ministerial conforme a lo dispuesto en el Real Decreto 1721/2007, de 21 de diciembre, por el que se establece el régimen de las becas y ayudas al estudio personalizadas, podrán generar crédito en la aplicación 18.08.323M.482.00 del estado de gastos, de conformidad con el artículo 53 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, por resolución del titular del Departamento Ministerial.

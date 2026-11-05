@@ -1,0 +1,5 @@
+El Real Decreto 664/1983, de 2 de marzo, aprueba la Reglamentación Técnico-Sanitaria para la elaboración, almacenamiento, transporte y comercialización del café y el Real Decreto 2323/1985, de 4 de diciembre, aprueba la Reglamentacion Técnico-Sanitaria para la elaboración, almacenamiento, transporte y comercialización de sucedáneos de café. Dado que la mezcla de solubles de café y solubles de sucedáneos de café no está contemplada en dichos Reales Decretos, y es usual su venta en los países de la Comunidad Económica Europea, procede fijar los requisitos que deben cumplir dichas mezclas para su comercialización en nuestro país.
+
+En su virtud, previo informe preceptivo de la Comisión Interministerial para la Ordenación Alimentaria, a propuesta de los Ministros de Economía y Hacienda, Industria y Energía, Agricultura, Pesca y Alimentación y de Sanidad y Consumo, oídos los sectores afectados y previa deliberación del Consejo de Ministros en su reunión del día 4 de diciembre de 1985.
+
+## D I S P O N G O :

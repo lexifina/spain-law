@@ -1,0 +1,3 @@
+## Disposición adicional única. Transformación de títulos habilitantes para el uso del dominio público radioeléctrico.
+
+En aplicación de lo dispuesto en el apartado 2.c) de la disposición transitoria primera de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, quedan transformadas en autorización administrativa para el uso privativo del dominio público radioeléctrico las licencias individuales para autoprestación con concesión demanial aneja de dicho dominio, y se mantiene el plazo de duración para el cual fueron otorgadas. Los órganos competentes en gestión del espectro radioeléctrico procederán de oficio a efectuar las correspondientes anotaciones en los títulos y anularán la licencia en autoprestación.

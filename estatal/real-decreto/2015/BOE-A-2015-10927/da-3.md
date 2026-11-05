@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Mandatos al operador del sistema y al operador del mercado.
+
+1. En el plazo de tres meses desde la entrada en vigor de este real decreto, el operador del sistema remitirá a la Secretaría de Estado de Energía una propuesta de modificación de los procedimientos de operación del sistema eléctrico y en su caso, de las instrucciones técnicas complementarias al Reglamento unificado de puntos de medida del sistema eléctrico aprobado por Real Decreto 1110/2007, de 24 de agosto, cuyo contenido sea necesario para adaptarse a las modificaciones introducidas por el presente real decreto.
+
+2. En el plazo de dos meses a contar desde la entrada en vigor del presente Real Decreto, el operador del mercado presentará al Ministerio de Industria, Energía y Turismo para su aprobación una propuesta de reglas de funcionamiento del mercado diario e intradiario de producción, para adaptarse a las modificaciones del Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica, previstas en la disposición final primera de este real decreto.

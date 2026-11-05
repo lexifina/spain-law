@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Banco Público del Agua.
+
+Al objeto de posibilitar la disponibilidad de agua con fines de interés público, el Gobierno impulsará las modificaciones legislativas precisas para proceder a la creación de un Banco Público del Agua en cada una de las cuencas hidrográficas existentes. Estos bancos públicos del agua tendrán entre otras funciones el control de las transacciones de derechos sobre agua de riego, garantizando una gestión y un control público transparente, así como la fijación pública de compensaciones, desde la restricción temporal de las transferencias ceñida a ciclos de sequía y tomando en cuenta los impactos ambientales en juego.

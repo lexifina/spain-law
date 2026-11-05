@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Obligación de información de las Comunidades Autónomas y Entidades locales sobre sus programas de ahorro y eficiencia energética.
+
+Al objeto de cumplir con las obligaciones derivadas de la Directiva 2012/27/UE del Parlamento Europeo y del Consejo, de 25 de octubre de 2012, relativa a la eficiencia energética, desde la entrada en vigor de este real decreto, las entidades locales así como el órgano competente de cada comunidad autónoma en materia de eficiencia energética, informarán anualmente, antes del 31 de diciembre de cada año, al Ministerio de Industria, Energía y Turismo, de los ahorros energéticos y de las emisiones de dióxido de carbono evitadas, derivados de las actuaciones en materia de ahorro y eficiencia energética promovidas por la entidad local o comunidad autónoma y llevadas a cabo en el ámbito de su municipio y de su territorio respectivamente, y de forma agregada desde el 1 de enero de 2014.
+
+Por orden del Ministro de Industria, Energía y Turismo se determinará la forma, contenido y desglose en que dicha información ha de ser remitida, así como la metodología de cálculo.

@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Datos del operador designado para la prestación del servicio universal de telecomunicaciones.
+
+En el plazo de dos meses desde la fecha de entrada en vigor de esta Orden, y hasta que la Comisión del Mercado de las Telecomunicaciones ponga a disposición de las entidades habilitadas la información sobre números de abonado de todos los operadores, el operador designado para la prestación del servicio universal de telecomunicaciones facilitará a dicha Comisión, al menos con una periodicidad mensual, la información actualizada de sus abonados a la que se refiere el apartado decimocuarto, para que ésta los pueda poner a disposición de los interesados en los términos del apartado decimoquinto.

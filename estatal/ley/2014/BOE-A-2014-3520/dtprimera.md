@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Adaptación al contenido de la norma.
+
+1. Las Comunidades Autónomas deberán adaptar el contenido de su normativa en esta materia a lo dispuesto en esta Ley, y tendrán, como plazo máximo para hacerlo, el 31 de enero de 2015.
+
+2. Las Cámaras Oficiales de Comercio, Industria, Servicios y Navegación adaptarán al contenido de esta Ley sus actuales reglamentos de régimen interior en el plazo de tres meses desde la entrada en vigor de las leyes autonómicas de adaptación, que deberán ser aprobados por la administración tutelante.
+
+3. La Cámara Oficial de Comercio, Industria, Servicios y Navegación de España a partir del actual Consejo Superior de Cámaras Oficiales de Comercio, Industria y Navegación, deberá constituirse antes del 31 de enero de 2015. La Cámara Oficial de Comercio, Industria, Servicios y Navegación de España se subrogará en todos los derechos y obligaciones, de cualquier naturaleza, del Consejo Superior de Cámaras de Comercio y será titular de todos los bienes que en la fecha de entrada en vigor de esta Ley tenga adscritos o pertenezcan al Consejo Superior de Cámaras de Comercio. La Cámara Oficial de Comercio, Industria, Servicios y Navegación de España elaborará su Reglamento de Régimen Interior de acuerdo con la nueva regulación, en el plazo de tres meses desde su constitución. Este reglamento será aprobado por el Ministerio de Economía y Competitividad, como administración tutelante.

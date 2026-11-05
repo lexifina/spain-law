@@ -1,0 +1,9 @@
+> Información relacionada
+
+> Véase la Resolución de 12 de mayo de 2021, por la que se publica el Acuerdo del Consejo de Ministros de 11 de mayo de 2021, por el que se extiende el plazo de solicitud y se adaptan las condiciones de los avales regulados por los Reales Decretos-leyes 8/2020, de 17 de marzo, y 25/2020, de 3 de julio, y se desarrolla el régimen de cobranza de los avales ejecutados, establecido en el artículo 16 del Real Decreto-ley 5/2021, de 12 de marzo. Ref. BOE-A-2021-7909
+
+> Véase, en cuanto a la extensión del plazo de solicitud y de duración de moratorias y suspensiones concedidas al amparo de la presente disposición, los arts. 7 y 8 del Real Decreto-ley 3/2021, de 2 de febrero, por el que se adoptan medidas para la reducción de la brecha de género y otras materias en los ámbitos de la Seguridad Social y económico. Ref. BOE-A-2021-1529#a7
+
+> Véase el Capítulo I de la Orden ICT/971/2020, de 15 de octubre. Ref. BOE-A-2020-12463#ci, que contiene el desarrollo para la correcta aplicación de los artículos 38 a 52 del presente Real Decreto-ley 25/2020, de 3 de julio.
+
+> El Real Decreto-ley 25/2020, de 3 de julio, ha sido convalidado por Acuerdo del Congreso de los Diputados, publicado por Resolución de 15 de julio de 2020. Ref. BOE-A-2020-8096

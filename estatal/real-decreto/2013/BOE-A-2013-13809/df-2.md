@@ -1,0 +1,3 @@
+## Disposición final segunda. Circulares aeronáuticas.
+
+Se faculta al Director General de Aviación Civil para adoptar, de conformidad con los requisitos previstos en el artículo 8 de la Ley 21/2003, de 7 de julio, circulares aeronáuticas por propia iniciativa o a propuesta de la Agencia Estatal de Seguridad Aérea, con el fin de dictar disposiciones de carácter secundario y de contenido técnico que completen, precisen y aseguren la más eficaz aplicación de las disposiciones sobre obligaciones de los proveedores de productos y servicios aeronáuticos contenidas en el capítulo III; en particular, para mantenerlas actualizadas de acuerdo con las recomendaciones y prescripciones internacionales y comunitarias.

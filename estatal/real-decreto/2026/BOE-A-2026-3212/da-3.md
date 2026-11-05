@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Informes del operador del sistema y del operador del mercado.
+
+Al objeto de evaluar el grado de participación de la demanda en el sector eléctrico, el operador del sistema y el operador del mercado elaborarán mensualmente un informe sobre la participación de la demanda en los mercados con mención especial al desarrollo de la actividad de los agregadores independientes. Estos informes serán remitidos a la Dirección General de Política Energética y Minas y a la Comisión Nacional de los Mercados y la Competencia antes de que finalice el mes siguiente al que se refiere el informe.

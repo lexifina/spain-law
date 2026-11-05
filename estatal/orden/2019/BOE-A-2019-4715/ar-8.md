@@ -1,0 +1,9 @@
+## Artículo 8. Instrucción del procedimiento de concesión y órgano colegiado.
+
+1. El órgano instructor designado en la convocatoria, en los términos contemplados en la disposición adicional quinta, realizará de oficio cuantas actuaciones estime necesarias para la determinación, conocimiento, evaluación y comprobación de los datos en virtud de los cuales debe formularse la propuesta de resolución.
+
+Una vez evaluadas las solicitudes por el órgano instructor, y salvo que la normativa de la Comunidad Autónoma correspondiente en esta materia prevea otras posibilidades, el órgano colegiado previsto en el artículo 22.1 de la Ley 38/2003, de 17 de noviembre, emitirá un informe en el que se concretará el resultado de la evaluación efectuada.
+
+El órgano instructor, a la vista del expediente y del informe del órgano colegiado, formulará la propuesta de resolución provisional y/o definitiva de acuerdo con el procedimiento establecido en el artículo 24 de la citada Ley o de la normativa autonómica de aplicación. Se podrá prever la concesión de un plazo máximo de 10 días hábiles para que los interesados presenten su aceptación ante la propuesta de resolución definitiva.
+
+2. En las convocatorias se podrá prever que cuando el importe de la subvención de la propuesta de resolución provisional sea inferior al que figura en la solicitud presentada, se podrá instar del beneficiario la reformulación de su solicitud en los términos establecidos en el artículo 27 de la Ley 38/2003, de 17 de noviembre.

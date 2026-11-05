@@ -1,0 +1,7 @@
+## Cuarta. Aplicación de la disposición transitoria novena de la Ley 20/2011, a los fallecimientos acaecidos con anterioridad a esta Instrucción.
+
+El cómputo del plazo de dos años al que se refiere la disposición transitoria novena de la Ley 20/2011, para solicitar la inclusión en el archivo de fallecimientos producidos con posterioridad a los seis meses de gestación en los términos de la disposición adicional cuarta que hubieran acaecido con anterioridad a la entrada en vigor de la Ley 20/2011, comenzará a partir del día siguiente al de publicación de la Orden JUS/876/2023, de 21 de julio.
+
+La solicitud mediante presentación del modelo anexo a esta instrucción la podrá formular cualquiera de los progenitores en el Registro Civil de su domicilio o en el Registro Civil en el que constare archivado el correspondiente modelo n.º 9.
+
+Vista la solicitud, el encargado del registro del lugar donde conste archivado el fallecimiento en el legajo de criaturas abortivas localizará el modelo 9 y previo cotejo de la coincidencia de datos del modelo 9 con el nuevo modelo/solicitud presentado, procederá a incorporar este último modelo/solicitud al «Archivo de nacidos sin vida tras los seis meses de gestación» debiendo proceder conforme a lo previsto en su caso en los apartados 1.º y 2.º de esta Instrucción. Del mismo modo, pondrá una nota en el modelo 9 obrante en el legajo de criaturas abortivas indicando que dicho nacimiento sin vida ha sido trasladado al nuevo archivo.

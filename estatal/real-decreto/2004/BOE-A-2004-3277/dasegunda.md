@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Opción por la aplicación de los enclaves como medida alternativa.
+
+Las empresas que hayan quedado exentas del cumplimiento directo de la obligación de reserva de puestos de trabajo en favor de los trabajadores con discapacidad, según lo establecido en el artículo 38.1 de la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, y en el Real Decreto 27/2000, de 14 de enero, por el que se establecen medidas alternativas de carácter excepcional al cumplimiento de la cuota de reserva del dos por ciento en favor de trabajadores discapacitados en empresas de 50 o más trabajadores, podrán optar por la aplicación de los enclaves laborales como medida alternativa de acuerdo con lo establecido en el artículo 2.1.4.a del citado real decreto.
+
+En este caso, el importe del contrato entre el centro especial de empleo y la empresa colaboradora deberá ser, como mínimo, el previsto en el artículo 2.2, párrafo primero, del Real Decreto 27/2000, de 14 de enero.

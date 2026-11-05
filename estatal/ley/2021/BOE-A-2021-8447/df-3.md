@@ -1,0 +1,7 @@
+## Disposición final tercera. Modificación de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, en relación con la comunicación sobre toma de participaciones de grupos de sociedades designados como gestor de la red de transporte de electricidad y gas natural.
+
+El apartado 2 de la disposición adicional novena de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, queda redactado en los siguientes términos:
+
+«2. Las sociedades que realicen actividades incluidas en las letras a) y b) del apartado 1 anterior, deberán comunicar a la Secretaría de Estado de Energía del Ministerio para la Transición Ecológica y el Reto Demográfico las adquisiciones realizadas directamente o mediante sociedades que controlen conforme a los criterios establecidos en el artículo 42.1 del Código de Comercio, de participaciones en otras sociedades mercantiles o de activos de cualquier naturaleza que atendiendo a su valor o a otras circunstancias tengan un impacto relevante o influencia significativa en el desarrollo de las actividades de la sociedad que comunica la operación.
+
+En las mismas circunstancias señaladas en el párrafo anterior, se deberán comunicar igualmente las adquisiciones que realicen las sociedades matrices de los grupos de sociedades designadas como gestor de la red de transporte de electricidad y gas natural, así como cualesquiera otras sociedades que formen parte de dichos grupos.»

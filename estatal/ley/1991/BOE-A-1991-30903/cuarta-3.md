@@ -1,0 +1,3 @@
+## Disposición final cuarta. Autorización al Ministerio de Economía y Hacienda en relación al establecimiento de sistemas de información.
+
+Por el Ministerio de Economía y Hacienda se adoptarán las medidas oportunas en orden al establecimiento de un sistema de información contable, o a la adaptación del existente, en forma que permita la diferenciación de las operaciones de gasto e ingresos derivadas de la pertenencia de España a las Comunidades Europeas, centralizándose la información correspondiente a las indicadas relaciones financieras en la Intervención General de la Administración del Estado.

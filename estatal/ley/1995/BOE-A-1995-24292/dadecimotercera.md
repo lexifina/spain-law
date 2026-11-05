@@ -1,0 +1,3 @@
+## Disposición adicional decimotercera. Fondo de Prevención y Rehabilitación.
+
+Los recursos del Fondo de Prevención y Rehabilitación procedentes del exceso de excedentes de la gestión realizada por las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social a que se refiere el artículo 73 del texto refundido de la Ley General de la Seguridad Social se destinarán en la cuantía que se determine reglamentariamente, a las actividades que puedan desarrollar como servicios de prevención las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, de acuerdo con lo previsto en el artículo 32 de esta Ley.

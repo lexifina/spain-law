@@ -1,0 +1,3 @@
+## Disposición adicional primera. Afectación de bienes decomisados.
+
+Con carácter general, los bienes decomisados por sentencia judicial firme dictada en cualquier procedimiento por tráfico ilícito de drogas y otros delitos relacionados, que hubiesen sido adjudicados al Estado, y sobre los que no se hubiese establecido otra afectación especial, pasarán a integrarse en el Fondo regulado por la Ley 36/1995, de 11 de diciembre, quedando afectados al cumplimiento de los fines previstos en su artículo 2, de acuerdo con el régimen jurídico establecido en ella y en el Reglamento que se aprueba por el presente Real Decreto.

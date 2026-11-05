@@ -1,0 +1,21 @@
+El artículo 26 bis de la Directiva 2001/18/CE, del Parlamento Europeo y del Consejo, de 12 de marzo de 2001, sobre liberación intencional al medio ambiente de organismos modificados genéticamente, faculta a los Estados Miembros a restringir o prohibir el cultivo de organismos modificados genéticamente (OMG) en su territorio. Además, de conformidad con dicho artículo, los Estados Miembros en los que se cultiven OMG adoptarán medidas adecuadas en las zonas fronterizas de su territorio con el fin de evitar una posible contaminación a los Estados miembros vecinos en los que esté prohibido el cultivo de esos OMG, a menos que dichas medidas sean innecesarias debido a unas condiciones geográficas específicas. Con arreglo a este artículo, se prohibió el cultivo del maíz MON 810 en Francia en el año 2016 y se solicitaron restricciones geográficas en el territorio de este país con respecto al ámbito de aplicación de las solicitudes de otros eventos de maíz modificados genéticamente
+
+La Ley 9/2003, de 25 de abril, por la que se establece el régimen jurídico de la utilización confinada, liberación voluntaria y comercialización de organismos modificados genéticamente, incorporó al derecho español las normas sustantivas de la Directiva 2001/18/CE, del Parlamento Europeo y del Consejo, de 12 de marzo de 2001.
+
+Este instrumento legal fue desarrollado mediante el Real Decreto 178/2004, de 30 de enero, por el que se aprueba el Reglamento general para el desarrollo y ejecución de la citada Ley 9/2003, de 25 de abril. La disposición adicional única de este Real Decreto señala que, cuando el cultivo de OMG esté prohibido en un país vecino, se adoptarán medidas para evitar una posible contaminación transfronteriza, mediante orden de la persona titular del Ministerio de Agricultura, Pesca, Alimentación y Medio Ambiente, siendo preceptivo disponer previamente de un informe de evaluación de riesgo de la Comisión Nacional de Bioseguridad (CNB).
+
+Teniendo en cuenta las restricciones adoptadas en Francia, se procedió a la elaboración de dicho informe, para lo que se tuvo en cuenta la superficie cultivada en España de variedades de maíz MON 810 y las especiales condiciones geográficas en la frontera.
+
+Se solicitó información al Instituto Geográfico Nacional sobre los recintos SIGPAC de Tierras Arables limítrofes con Francia, teniendo en cuenta un área de influencia de 50 metros de la línea límite de la frontera.
+
+Esta información se cruzó con los datos de la Solicitud Única prevista en el Real Decreto 1075/2014, de 19 de diciembre, sobre la aplicación a partir de 2015 de los pagos directos a la agricultura y otros regímenes de ayuda, así como sobre la gestión y control de los pagos directos y de los pagos al desarrollo rural.
+
+De dicho análisis se concluye que ningún recinto fue declarado en 2015 como maíz modificado genéticamente y que parece poco probable que se siembre en la zona fronteriza con Francia ya que el área de alta presión de la plaga de taladro se localiza principalmente en el Valle del Ebro. No obstante, en el informe se recomienda establecer una distancia de aislamiento con respecto a la frontera con Francia.
+
+Estas conclusiones se revisaron en la 18.ª Reunión presencial del Consejo Interministerial de OMG y se acordó proceder a la adopción de esta recomendación.
+
+El título IV de la Ley 9/2003 establece los requisitos generales en materia de vigilancia control y régimen sancionador de las actividades con OMG. Además, la Ley 30/2006, de 26 de julio, de semillas y plantas de vivero y recursos fitogenéticos en su título VI, de infracciones y sanciones, contempla expresamente el incumplimiento en materia de coexistencia de cultivos de variedades modificadas genéticamente, convencionales y ecológicas.
+
+Por otro lado, el Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo, de 15 de marzo de 2017, relativo a los controles y otras actividades oficiales realizados para garantizar la aplicación de la legislación sobre alimentos y piensos, y de las normas de la salud y bienestar de los animales, sanidad vegetal y productos fitosanitarios, contempla, en su ámbito de aplicación la liberación intencional en el medio ambiente de OMG con la finalidad de producir alimentos y piensos.
+
+En su virtud, resuelvo:

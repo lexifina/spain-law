@@ -1,0 +1,3 @@
+## Disposición final primera. Modificación de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, comunicaciones, declaraciones censales y solicitudes de devolución, de naturaleza tributaria.
+
+Se incluye el modelo 113 de «Comunicación de datos relativos a las ganancias patrimoniales por cambio de residencia cuando se produzca a otro Estado miembro de la Unión Europea o del Espacio Económico Europeo con efectivo intercambio de información tributaria» en la relación de modelos de comunicación, declaración censal y solicitud de devolución a que se refiere el apartado 4 del artículo 1 de la Orden HAP/2194/2013, de 22 de noviembre.

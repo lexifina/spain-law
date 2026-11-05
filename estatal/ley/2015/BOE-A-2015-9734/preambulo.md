@@ -1,0 +1,213 @@
+FELIPE VI
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+PREÁMBULO
+
+I
+
+Las reformas acometidas por el Gobierno desde el inicio de la legislatura tienen entre sus finalidades la de afrontar los cambios que necesita nuestro modelo productivo para situar a España en una senda sostenible de crecimiento y generar empleos estables y de calidad.
+
+La formación profesional para el empleo tiene un papel esencial en la articulación de esos cambios. Para una recuperación sostenida de nuestra economía es necesario potenciar el capital humano y su empleabilidad mediante la mejora de sus capacidades y competencias profesionales. Asimismo, es necesaria una adecuación entre la oferta y la demanda de cualificaciones, lo que requiere anticiparse a las necesidades demandadas por las empresas y ofrecer a los jóvenes y a la población trabajadora en general una formación ajustada a esas necesidades.
+
+El sistema de formación profesional para el empleo en el ámbito laboral ha permitido la mejora de la empleabilidad y la cualificación de muchos trabajadores de nuestro país en los últimos 20 años y ha servido para avanzar en la vinculación de la formación con la negociación colectiva. Además, ha permitido la difusión y universalización de una cultura de formación que alcanza a más de cuatro millones de trabajadores al año en la actualidad y a más de 478.000 empresas participantes sólo en la denominada «formación de demanda».
+
+Ha sido un modelo de gestión compartida entre las Administraciones públicas (Administración General del Estado y comunidades autónomas) y los interlocutores sociales, que ha permitido avanzar en la mejora de las competencias profesionales de los trabajadores y la competitividad de las empresas españolas. No obstante, el sistema ha puesto de manifiesto determinadas debilidades e ineficiencias que deben abordarse de manera urgente para dar respuesta inmediata y de una manera más eficaz y eficiente a las necesidades formativas de los trabajadores y del sistema productivo.
+
+Al respecto, las conclusiones de la Mesa del Diálogo Social, formada por el Gobierno, las organizaciones empresariales CEOE y CEPYME y los sindicatos CCOO y UGT, acerca del desarrollo del último Acuerdo de Formación Profesional para el Empleo de 2006 muestran, entre otras debilidades, la deficiente coordinación del conjunto del sistema; la falta de una planificación estratégica de la formación profesional para el empleo; su escasa vinculación con la realidad del tejido productivo, especialmente la formación de demanda dirigida a la PYME; la no disponibilidad de un sistema de información integrado; la falta de la evaluación de su impacto; y una definición poco eficiente del papel de los agentes implicados en el sistema.
+
+Estas carencias han debilitado el sistema de formación hasta ahora vigente para afrontar los retos que plantea la actual etapa de recuperación económica y las tendencias que influirán en la dinámica del mercado de trabajo español y de los sectores productivos en los próximos años.
+
+El nuevo marco normativo se centra en atender la diferente posición, tras el impacto de la reciente crisis, de los distintos sectores y ocupaciones en el proceso de recuperación económica; el impacto también desigual de la crisis en el colectivo de jóvenes, que requieren una atención específica; la tendencia a requerimientos de mayores niveles de cualificación, sobre todo para cubrir los empleos de cualificación media; la demanda que el envejecimiento de la población activa tendrá en las cualificaciones necesarias para cubrir los empleos de sustitución; la coexistencia de altas tasas de paro con la escasez de oferta de mano de obra cualificada en algunos sectores u ocupaciones emergentes con elevados niveles de innovación; y el aumento del colectivo de parados de larga duración durante la reciente crisis, con la consiguiente y necesaria adecuación de su empleabilidad a las nuevas condiciones del mercado de trabajo.
+
+El actual contexto económico constituye una oportunidad para el cambio. La Estrategia de Competencias de la OCDE afirma que las competencias se han convertido en la divisa internacional de las economías del siglo XXI: en una sociedad global, basada cada vez más en los conocimientos, es necesario invertir en formación y actualizarla conforme a la evolución constante de los requerimientos de los mercados laborales. Conseguir mejores resultados exige analizar el perfil de competencias de los trabajadores, así como determinar y anticipar las competencias requeridas en el mercado, para desarrollarlas, creando con ello mejores oportunidades de empleo y de desarrollo económico.
+
+Ante esta situación, en un entorno competitivo, con requerimientos cada vez mayores de cualificación de los trabajadores y constatados los resultados del binomio empleo-formación, un modelo productivo de éxito exige un sistema de formación profesional para el empleo de calidad.
+
+Ello implica un sistema de formación que acompañe a los trabajadores en su acceso, mantenimiento y retorno al empleo, así como en su capacidad de desarrollo personal y promoción profesional. Un sistema que promueva la adquisición y actualización de conocimientos, que mejore las perspectivas de empleo estable y de calidad de los trabajadores, así como la ventaja competitiva de las empresas y de la economía española. Para ello, ese sistema debe anticiparse a las necesidades del tejido productivo y constituir un apoyo a la capacidad innovadora y competitiva de la empresa, a partir de unos recursos humanos de calidad.
+
+II
+
+La Ley 51/1980, de 8 de octubre, Básica de Empleo, al regular el Programa de Formación Profesional Ocupacional dispuso que el Instituto Nacional de Empleo estableciera un programa anual de formación profesional ocupacional, que con carácter gratuito, asegurase la adecuada formación profesional de los que quisieran incorporarse al mundo laboral o, encontrándose en él, pretendiesen reconvertirse o alcanzar una mayor especialización profesional, dotándose de carácter permanente al Plan Nacional de Formación e Inserción Profesional a través del Real Decreto 1618/1990, de 14 de diciembre.
+
+El Real Decreto 631/1993, de 3 de mayo, por el que se regula el Plan Nacional de Formación e Inserción Profesional, inicia la separación de la formación de ocupados y desempleados, reordenando las acciones de formación ocupacional y poniendo un mayor énfasis en la reinserción profesional de las personas en situación de paro. A partir de ese momento el reciclaje profesional de los trabajadores ocupados se articula a través de los distintos Acuerdos Nacionales sobre Formación Continua (firmados en 1992, 1996 y 2000).
+
+El Real Decreto 1046/2003, de 1 de agosto, por el que se regula el subsistema de formación profesional continua, pone en marcha un nuevo modelo de gestión de la formación continua, pasando de un modelo basado en la autonomía negocial a un sistema basado en un marco normativo que pretende dotar al sistema de una mayor estabilidad y seguridad, sin olvidar el protagonismo de los agentes sociales. Por su parte, la formación profesional ocupacional continúa regulándose por el Real Decreto 631/1993, de 3 de mayo.
+
+El Acuerdo de Formación Profesional para el Empleo firmado por el Gobierno y los interlocutores sociales el 7 de febrero de 2006 apuesta nuevamente por un modelo integrado de formación para el empleo, que contribuya al avance de la formación y el aprendizaje permanente en nuestro país, manteniendo los pilares que han permitido su desarrollo en los últimos años, y tratando de superar las insuficiencias del modelo así como de potenciar los elementos que permitan progresar aún más en el logro de los objetivos de formación y compatibilizar la mayor competitividad de las empresas con la formación individual del trabajador.
+
+Consecuencia del citado Acuerdo, y después de trece años de vigencia de dos modalidades diferenciadas de formación profesional en el ámbito laboral –la formación ocupacional y la continua–, el Real Decreto 395/2007, de 23 de marzo, por el que se regula el subsistema de formación profesional para el empleo, integra ambos subsistemas en un único modelo de formación profesional para el empleo e introduce mejoras que permiten adaptar la formación dirigida a los trabajadores ocupados y desempleados a la nueva realidad económica y social.
+
+El subsistema de formación profesional para el empleo se incorpora al marco legal vigente por el Real Decreto-ley 3/2011, de 18 de febrero, de medidas urgentes para la mejora de la empleabilidad y la reforma de las políticas activas de empleo, que modifica íntegramente el artículo 26 de la Ley 56/2003, de 16 de diciembre, de Empleo y establece las líneas generales del citado subsistema.
+
+El Acuerdo de propuestas para la negociación tripartita para fortalecer el crecimiento económico y el empleo, firmado por el Gobierno y los interlocutores sociales el pasado 29 de julio, recoge un compromiso con el desarrollo de medidas concretas en diversos ámbitos, incluida la voluntad de trabajar para transformar el sistema de formación profesional para el empleo, sobre la base del diálogo social.
+
+III
+
+La regulación prevista en la actual ley acomete una reforma integral del sistema que garantiza el interés general y la necesaria estabilidad y coherencia que el sistema precisa. De conformidad con lo previsto en el mencionado Acuerdo de 29 de julio de 2014, esta reforma persigue cuatro objetivos estratégicos. A saber, la garantía del ejercicio del derecho a la formación de los trabajadores, empleados y desempleados, en particular, de los más vulnerables; la contribución efectiva de la formación a la competitividad de las empresas; el fortalecimiento de la negociación colectiva en la adecuación de la oferta formativa a los requerimientos del sistema productivo, así como la eficiencia y transparencia en la gestión de los recursos públicos. En última instancia, se trata de consolidar en el sistema productivo una cultura de formación profesional y favorecer con ello la creación de empleo estable y de calidad.
+
+La reforma planteada está en clara sintonía con las políticas de flexiseguridad promovidas por la Unión Europea basadas en la idea de la empleabilidad. El nuevo modelo se desarrolla teniendo en cuenta las orientaciones para las políticas de empleo de los Estados Miembros. Además, la reforma es uno de los objetivos reiterados en el Plan Nacional de Reformas y en las recomendaciones del Consejo sobre el Programa de Estabilidad de 2014 de España, en el sentido de mejorar la eficacia de las políticas activas del mercado de trabajo de manera que se proporcione formación adecuada y se garantice la correspondencia entre la demanda y la oferta de empleo.
+
+También se tiene en cuenta la doctrina constitucional que señala que el modelo de formación profesional para el empleo tiene una incardinación genérica en la competencia exclusiva del Estado en materia de «legislación laboral» (artículo 149.1.7.ª de la Constitución Española), aunque sin excluir que pueda haber supuestos en los que, atendiendo al tipo de actividad al que se orienta, la acción formativa quede vinculada a otro título competencial, con las consiguientes consecuencias para la delimitación del alcance de la competencia del Estado. Y que añade que, no cabe negar la incidencia que en este ámbito puede tener lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, en cuanto existen aspectos de la formación profesional, vinculados al fomento del empleo, que podrían encontrar cobertura en el citado artículo, si bien como título de carácter específico y complementario.
+
+El nuevo marco profundiza en la transformación que inició la Ley 3/2012, de 6 de julio, de medidas urgentes para la reforma del mercado laboral. Esta supuso el reconocimiento explícito de un derecho individual a la formación de los trabajadores, dotó de carácter prioritario a las acciones formativas relacionadas con las nuevas tecnologías o la internacionalización de la empresa y permitió, por primera vez, el acceso directo de los centros de formación a los fondos disponibles para la gestión de los planes de formación de los trabajadores que hasta la fecha estaban limitados a las organizaciones empresariales y sindicales.
+
+Desde entonces, sobre la base de la colaboración en torno a la Conferencia Sectorial de Empleo y Asuntos Laborales, se han producido avances determinantes en el ámbito de las políticas de activación para el empleo con el objetivo de mejorar la capacidad de los servicios públicos de empleo de acompañar a los trabajadores desempleados en su proceso de retorno al empleo e impulsar las oportunidades de promoción y mejora de los trabajadores ocupados a lo largo de su carrera profesional.
+
+La citada colaboración se ha plasmado en la Estrategia Española de Activación para el Empleo 2014-2016, que constituye el marco plurianual que institucionaliza las medidas a llevar a cabo, tanto desde el Servicio Público de Empleo Estatal como desde los servicios públicos de empleo autonómicos, para la consecución de objetivos comunes y con un compromiso con la transparencia, la evaluación y la orientación a resultados.
+
+De forma coherente con la mencionada Estrategia y gracias al trabajo conjunto entre administraciones, se han desarrollado importantes medidas, entre otras, en el ámbito de la colaboración público-privada en intermediación laboral, la transformación gradual del sistema de formación profesional para el empleo o, en el marco de la Estrategia de Emprendimiento y Empleo Joven 2013-2016, la creación del Sistema de Garantía Juvenil, para facilitar el acceso de los jóvenes menores de 25 años al mercado de trabajo.
+
+La reactivación de la economía española y del empleo exigen ahora profundizar en las medidas de activación para el empleo, muy particularmente, en el ámbito de la formación profesional para el empleo en el ámbito laboral.
+
+IV
+
+En aras de afrontar todas las deficiencias detectadas en el sistema de formación profesional para el empleo en el ámbito laboral y para dar cumplimiento a los objetivos y principios acordados en el marco del Diálogo Social, esta ley plantea la reforma del sistema de formación profesional para el empleo en torno a los ejes vertebradores que se describen a continuación.
+
+El capítulo I describe el objeto de la norma y establece, junto con los fines del sistema de formación profesional para el empleo, que este será de aplicación en todo el territorio nacional y responderá a una acción coordinada, colaborativa y cooperativa entre las Administraciones públicas competentes y los demás agentes que intervienen en el mismo, respetando el marco de distribución de competencias.
+
+Los principios inspiradores recogidos en el artículo 3 definen el sistema como marco coherente de planificación, ejecución eficiente, seguimiento y evaluación permanente, con entidades que impartan formación profesional para el empleo en el ámbito laboral de calidad e instrumentos renovados de información, seguimiento y control. En este sistema destaca, además, el papel protagonista de la negociación colectiva y del diálogo social como herramientas esenciales para contar con un sistema más eficaz y orientado a satisfacer las necesidades reales de empresas y trabajadores.
+
+Ello resulta coherente, asimismo, con la unidad financiera del sistema y de su régimen económico que garantiza el principio de unidad de caja de la cuota para la formación profesional.
+
+El nuevo marco legal exige, asimismo, la modificación del artículo 26 de la Ley 56/2003, de 16 de diciembre, de Empleo, para establecer las líneas generales del nuevo modelo de formación profesional para el empleo en el ámbito laboral, lo que se lleva a cabo en la disposición final cuarta.
+
+El capítulo II introduce, de manera novedosa, los elementos de un sistema eficiente de observación y prospección del mercado de trabajo, para detectar los cambios en las demandas de cualificación y competencias del tejido productivo.
+
+Resulta necesario corregir una de las principales ineficiencias identificadas en el sistema: la falta de una adecuada anticipación de las necesidades y la planificación de la actividad formativa. La formación que se imparta debe responder a un diagnóstico de la realidad, a un análisis de las necesidades actuales y futuras de empresas y trabajadores, para cumplir sus fines de forma eficaz. Para ello, el nuevo sistema aprovechará el potencial de la coordinación de los distintos dispositivos y agentes que realizan análisis y prospección del mercado de trabajo.
+
+Por ello, el artículo 5 prevé la elaboración, con la participación, entre otros, de las comunidades autónomas, las organizaciones empresariales y sindicales, las organizaciones representativas de los trabajadores autónomos y de la economía social, de un escenario estratégico plurianual, referente de la programación de toda la formación que se imparta en el sistema. Sobre la base del análisis prospectivo mencionado, este escenario plurianual de planificación estratégica incorporará las tendencias y previsiones económicas y, junto con el análisis de las cualificaciones de los trabajadores, permitirá identificar los objetivos de atención prioritaria, así como los indicadores para su evaluación, que guardarán coherencia con la Estrategia Española de Activación para el Empleo.
+
+Este escenario, además, incluirá una proyección plurianual estimativa de la financiación pública para atender las necesidades formativas reales de las empresas y los trabajadores, en un marco de estabilidad del sistema que favorezca la certidumbre, la anticipación y las decisiones de inversión.
+
+El artículo 6 introduce de manera inequívoca la concurrencia competitiva abierta a todos los proveedores de formación acreditados y/o inscritos, como norma general para la gestión de los fondos destinados a financiar las programaciones formativas de las distintas Administraciones públicas.
+
+Este principio de concurrencia, que se ha introducido de manera gradual en las convocatorias de subvenciones durante los últimos años, se establece como rasgo básico transversal a la gestión de la financiación por parte de todas las Administraciones competentes en materia de formación profesional. Esta novedad resulta, además, coherente con las recomendaciones que se desprenden del Informe del Tribunal de Cuentas de Fiscalización sobre la gestión de la Fundación Tripartita para la Formación en el Empleo en relación con el subsistema de formación profesional para el empleo en materia de formación de oferta, correspondiente al ejercicio 2010.
+
+Asimismo, el artículo 6 recoge la posibilidad de que las administraciones públicas, en sus respectivos ámbitos competenciales, puedan articular un «cheque formación» para trabajadores desempleados con el objeto de proporcionarles la formación que necesitan. Se trata de una herramienta novedosa que permitirá la libertad de elección entre las entidades adheridas a los dispositivos específicos que se desarrollen para su seguimiento.
+
+A estas mejoras de la eficiencia se une la simplificación en el acceso a la financiación por vías que permitan, al mismo tiempo, garantizar la calidad de la formación. De ahí la previsión en el artículo 7 de esta ley de desarrollar el régimen de concesión y justificación de subvenciones, u otras formas de financiación, a través de módulos, una vez identificados los precios de mercado de las distintas especialidades formativas.
+
+El capítulo III recoge un nuevo enfoque de las iniciativas de formación profesional para el empleo, situando a las propias empresas y a los trabajadores en el centro del sistema. Esta ley plantea un nuevo papel de la formación que programa la empresa para sus propios trabajadores, llamada a ser la herramienta principal para ofrecer una respuesta inmediata a las necesidades cambiantes de los sectores y reforzar su capacidad de innovación, al tiempo que se satisfacen las necesidades de adaptación, cualificación y empleabilidad de los trabajadores. En el nuevo modelo todas las empresas participarán en alguna medida con sus propios recursos en la financiación de la formación de sus trabajadores.
+
+El artículo 10 prevé que las distintas Administraciones, en sus respectivos ámbitos competenciales y en lo no previsto en el ámbito de la empresa, completarán la oferta formativa con su propia programación para los trabajadores ocupados, en la cual las organizaciones empresariales y sindicales dejarán de ser titulares de planes de formación, si bien participarán en su diseño, programación y difusión.
+
+La detección de necesidades se realizará teniendo en cuenta el referido escenario plurianual y con la participación de las organizaciones empresariales y sindicales, las organizaciones representativas de autónomos y de la economía social intersectoriales y cuantas organizaciones o entidades con acreditada experiencia en la materia se decida por las autoridades competentes.
+
+Asimismo, las Administraciones competentes también programarán formación para los trabajadores desempleados conforme a lo previsto en el artículo 11, en la que cobrará un papel especialmente relevante la labor de los servicios públicos de empleo, que deberán identificar los perfiles y los itinerarios individuales y personalizados de empleo de los beneficiarios, conforme a las novedades introducidas por la Estrategia Española de Activación para el Empleo.
+
+En todas las iniciativas mencionadas, se potencia la formación online frente a la formación a distancia tradicional, que se suprime, de forma coherente con la evolución de las nuevas tecnologías y las garantías que ofrecen de alcance y calidad de la formación.
+
+Las entidades de formación acreditadas y/o registradas, tanto públicas como privadas, además de su papel de proveedores de formación, serán corresponsables en el seguimiento del aprendizaje y su evaluación. Entre las entidades que podrán impartir formación para el empleo están incluidas las empresas que desarrollen acciones formativas para sus propios trabajadores, así como para trabajadores de su grupo o red empresarial, o para desempleados, bien con compromiso de contratación u otro acuerdo con los Servicios Públicos de Empleo. Para ello, podrán utilizar sus propios medios o recurrir a su contratación, siempre que sean adecuados para este fin.
+
+El capítulo IV recoge las nuevas previsiones relacionadas con el control de la formación y el régimen sancionador, con el objetivo de garantizar el principio de tolerancia cero contra el fraude en la gestión de los fondos de formación profesional para el empleo. Ello exige la modificación del texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, aprobado por el Real Decreto Legislativo 5/2000, de 4 de agosto, en distintos aspectos para evitar y corregir con éxito situaciones de mala praxis, lo que se lleva a cabo en la disposición final tercera.
+
+Por un lado, se amplían los sujetos responsables para incluir a las entidades de formación y a las que asuman la organización de la formación programada por las empresas. Asimismo, y con el fin de adaptarlos a la normativa vigente y a la realidad social, se modifican los tipos infractores existentes, se crean tipos nuevos como el incumplimiento de la prohibición de efectuar subcontrataciones, que se tipifica como infracción muy grave, y, por último, se exige un mayor reproche administrativo al considerar una infracción por cada empresa y acción formativa.
+
+Por otro lado, se establece la responsabilidad solidaria de los sujetos que participen en la obtención fraudulenta de ayudas, subvenciones y bonificaciones y se endurecen las sanciones, de manera que los beneficiarios del sistema de formación profesional para el empleo no puedan volver a serlo durante un periodo de 5 años en caso de cometer una infracción muy grave.
+
+Por último y a fin de garantizar un refuerzo del control y capacidad sancionadora se prevé la creación de una Unidad Especial de Inspección en el seno de la Dirección Especial adscrita a la Autoridad Central de la Inspección de Trabajo y Seguridad Social.
+
+Esta ley recoge en su capítulo V la implantación de un sistema integrado de información que garantice la trazabilidad de las acciones formativas y la comparabilidad, la coherencia y la actualización permanente de toda la información sobre formación profesional para el empleo que se lleve a cabo en los distintos ámbitos competenciales.
+
+Este sistema integrado permitirá desarrollar tres instrumentos clave de difusión, garantía de calidad y transparencia para el sistema a que hace referencia el artículo 20: la Cuenta de Formación, que acompañará al trabajador a lo largo de su carrera profesional al objeto de acreditar su historial formativo y de orientar la oferta formativa al incremento de su empleabilidad; el Catálogo de Especialidades Formativas, que será referente común de toda la oferta formativa que se programe para los trabajadores ocupados y desempleados y será objeto de actualización permanente; y el Registro Estatal de Entidades de Formación, de carácter público, al que se incorporarán los resultados de las auditorías o controles de calidad que se realicen a dichas entidades.
+
+De la mano de los mejores sistemas de información, se introduce un compromiso de evaluación permanente y en todas las fases del proceso formativo. El énfasis de la evaluación se sitúa en la calidad y el impacto real de la formación, en términos de mejora en el desempeño en el puesto de trabajo o de inserción de los trabajadores. Serán estos resultados los que permitan mejorar la toma de decisiones acerca de la adecuación de las acciones formativas a las necesidades del mercado y la eficiencia de los recursos económicos y medios empleados.
+
+Junto con estas evaluaciones, se realizarán auditorías de calidad de las entidades que impartan la formación y sus resultados se harán públicos, de forma que empresas, trabajadores y Administraciones dispongan de toda la información posible en un sistema más transparente.
+
+Por último, el capítulo VI hace referencia a la gobernanza del sistema y define un nuevo papel para los distintos agentes y órganos que intervienen en el gobierno del sistema, mediante la transformación de los mencionados órganos de gobierno y, en particular, de la Fundación Tripartita para la Formación en el Empleo en los que la representación de la Administración General del Estado deberá ser mayoritaria. El papel de los agentes sociales en el sistema es objeto de modificaciones de calado: se impulsa su liderazgo y el protagonismo de las organizaciones sindicales y empresariales más representativas en el diseño estratégico, en la planificación, programación, difusión, control, seguimiento y evaluación de la formación profesional para el empleo, especialmente en la dirigida a los trabajadores ocupados. Se trata de hacer el mejor aprovechamiento posible de la experiencia y conocimiento que puede aportar su cercanía al tejido productivo mediante una contribución que representará, de hecho, una de las grandes fortalezas del nuevo sistema de formación profesional para el empleo, al tiempo que se promueven diferentes espacios y formas de participación y colaboración de otros agentes sociales.
+
+De manera coherente con este nuevo papel y con los cambios ya operados en el sistema desde la reforma laboral de febrero de 2012, los agentes sociales dejan de participar en la gestión de fondos y en la impartición de la formación como lo hacían hasta la fecha, dejando este papel a las entidades que imparten formación profesional y que desarrollarán esta tarea en un nuevo entorno más competitivo.
+
+La ley se completa con doce disposiciones adicionales, cuatro transitorias, una derogatoria y diez finales.
+
+La disposición adicional primera recoge la especial atención a las pequeñas y medianas empresas que deberán promover los servicios públicos de empleo, mientras que la segunda prevé el impulso al «cheque formación» a través de las medidas que se propongan en la Conferencia Sectorial de Empleo y Asuntos Laborales.
+
+La disposición adicional segunda contiene una medida de impulso al cheque-formación.
+
+La disposición adicional tercera supone un impulso necesario a los instrumentos clave del Sistema Nacional de Cualificaciones y Formación Profesional, entre los cuales se encuentran los procedimientos de acreditación de la experiencia laboral, para reforzar las oportunidades de cualificación, así como la adecuación de las acciones formativas a las necesidades de los trabajadores y del sistema productivo.
+
+La disposición adicional cuarta se refiere a las medidas necesarias para la elaboración de estadísticas que reflejen la totalidad de la actividad formativa que se desarrolla en todo el territorio del Estado.
+
+La disposición adicional quinta prevé la adaptación de la Fundación Tripartita para la Formación en el Empleo con arreglo a lo previsto en esta norma.
+
+Por su parte, la disposición adicional sexta hace referencia a la financiación de las actividades de prospección y planificación previstas en el sistema a través del presupuesto de la Fundación Estatal para la Formación en el Empleo.
+
+La disposición adicional sexta contempla la financiación de las actividades de prospección y planificación.
+
+La disposición adicional séptima recoge un mandato al Gobierno para el análisis del conjunto de bonificaciones a la contratación y reducciones en las cotizaciones a la Seguridad Social en vigor en todos los ámbitos territoriales y su presentación antes del 31 de mayo de 2016.
+
+La disposición adicional octava prevé que los remanentes de crédito destinado al sistema de formación profesional para el empleo en el ámbito laboral que pudieran producirse al final de cada ejercicio en la reserva de crédito del Servicio Público de Empleo Estatal, se incorporarán a los créditos correspondientes al siguiente ejercicio, conforme a la Ley de Presupuestos Generales del Estado que corresponda.
+
+La disposición adicional novena recoge una previsión relativa a la ausencia de aumento en el gasto público como consecuencia de las medidas de esta ley.
+
+La disposición adicional décima contiene límites a los pagos anticipados.
+
+La disposición adicional undécima contempla financiación de acciones de fomento del empleo en 2015.
+
+La disposición adicional duodécima establece el régimen para la Comunidad Autónoma del País Vasco.
+
+La transformación del modelo de formación profesional para el empleo no acaba con la aprobación de esta ley. En su desarrollo se aprobará un nuevo real decreto y una orden ministerial que derogarán la totalidad del marco jurídico vigente, constituido por el Real Decreto 395/2007, de 23 de marzo, por el que se regula el subsistema de formación profesional para el empleo, y todas las normas que lo desarrollan.
+
+Sin embargo, este desarrollo normativo posterior no debe demorar la puesta en marcha de los elementos esenciales del nuevo modelo de formación profesional para el empleo descritos anteriormente, que serán de aplicación a partir de la entrada en vigor de la presente ley.
+
+Por ello, la disposición transitoria primera establece que se mantendrá vigente el citado Real Decreto 395/2007, de 23 de marzo, así como su normativa de desarrollo, sólo en aquellos aspectos en los que no pueda ser de aplicación directa lo establecido en esta ley hasta tanto no se desarrolle reglamentariamente lo previsto en la misma, detallándose las previsiones que sí serán de aplicación directa para mayor seguridad jurídica.
+
+En cualquier caso, parte importante de la efectividad de los cambios va más allá del nuevo marco normativo, pues hay instrumentos y medidas en los que el éxito de su implantación dependerá de manera fundamental del compromiso de todos los agentes implicados en el Sistema de Formación Profesional para el Empleo.
+
+La disposición transitoria segunda recoge las competencias de carácter transversal que deberán tener consideración de prioritarias a efectos de la programación formativa en 2015.
+
+La disposición transitoria tercera se refiere al régimen tributario de los contratos predoctorales vigentes a la entrada en vigor de esta ley.
+
+La disposición transitoria cuarta hace referencia al régimen transitorio hasta la suscripción de convenios entre el Servicio Público de Empleo Estatal y las comunidades autónomas.
+
+La disposición final primera hace referencia al título competencial, mientras que la segunda prevé la organización de la unidad especial de inspección encargada de las funciones de vigilancia y control en el ámbito de la formación profesional para el empleo.
+
+La disposición final segunda se refiere a la Unidad especial de la Inspección de Trabajo y Seguridad Social.
+
+La disposición final tercera introduce, como se ha mencionado anteriormente, la modificación del Real Decreto legislativo 5/2000, de 4 de agosto, de Infracciones y Sanciones en el Orden Social.
+
+La disposición final cuarta se refiere a la modificación de la Ley 56/2003, de 16 de diciembre, de Empleo.
+
+Mediante la disposición final quinta se modifica la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, para incorporar a las organizaciones empresariales entre aquellas con capacidad jurídica para actuar en representación de los trabajadores autónomos y para clarificar determinados extremos relativos a la representatividad de las organizaciones de autónomos.
+
+La disposición final sexta modifica la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación para regular la figura del contrato del personal investigador predoctoral en formación.
+
+Mediante la disposición final séptima se procede a la integración de los funcionarios y pensionistas de los Montepíos de las Administraciones Públicas de Navarra en el Sistema Nacional de Salud, dando así cumplimiento a lo previsto en la disposición adicional tercera de la Ley 3/2014, de 27 de marzo, por la que se modifica el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por el Real Decreto Legislativo 1/2007, de 16 de noviembre. Asimismo, la disposición final octava habilita para la modificación por rango reglamentario de la norma reglamentaria que es objeto de modificación por la disposición final anterior.
+
+Finalmente, la disposición final novena habilita al Gobierno a realizar los desarrollos reglamentarios que resulten precisos en ejecución de la presente ley y la séptima prevé su entrada en vigor.
+
+La disposición final décima recoge la cláusula de entrada en vigor.
+
+V
+
+La reforma del Sistema de Formación Profesional para el Empleo en el ámbito laboral resulta inaplazable en el contexto económico y laboral en el que nos encontramos, con el fin de acelerar los efectos potencialmente beneficiosos que podrá tener esta reforma, en términos de creación de empleo, en el momento actual de recuperación de la economía española.
+
+La formación tiene una incidencia determinante sobre el empleo. De hecho, el empleo perdido durante la reciente recesión económica lo ha sido mayoritariamente en ocupaciones de bajo nivel de capacitación. Entre 2007 y 2013 más de la mitad de los trabajadores que no habían superado la educación primaria perdieron su empleo. En cambio, el número de ocupados con estudios superiores se incrementó en un 2 por ciento.
+
+Las carencias formativas tienen un impacto negativo cuantificable sobre las oportunidades de empleo de los trabajadores: las personas con menor nivel de competencias básicas están expuestas a casi el doble de probabilidades de quedar desempleadas con la pérdida económica y social que implica (Informe PIAAC, 2010).
+
+A pesar del crecimiento del PIB durante los últimos seis trimestres y la recuperación del empleo observada, permanecen importantes diferencias formativas entre los desempleados que requieren de una respuesta específica y contundente. Según los últimos datos de la Encuesta de Población Activa, correspondientes al cuarto trimestre de 2014, la tasa de paro de quienes sólo tienen estudios primarios (38,07 por ciento) es 2,7 veces superior a aquella de quienes tienen estudios superiores (14,29 por ciento). El 54 por ciento de los desempleados no ha superado la educación secundaria.
+
+Asimismo, se observa una incidencia diferencial del nivel formativo en el tiempo de permanencia en desempleo: del total de trabajadores desempleados que buscan un puesto de trabajo desde hace, al menos, dos años, el 60 por ciento no han completado la educación secundaria. Casi el 70 por ciento de los trabajadores desempleados que sólo cuentan con educación primaria han permanecido en esta situación durante más de un año, 15 puntos por encima de lo que se observa entre los trabajadores con educación superior.
+
+Así, resulta esencial acometer la reforma de la formación profesional para el empleo para evitar que una parte importante de nuestra población activa se perpetúe en situación de desempleo (14,6 por ciento de desempleo de larga duración en el cuarto trimestre de 2014, más del doble de la media de la UE), con las graves consecuencias tanto económicas como sociales que ello supone en el largo plazo. Se trata de acelerar su proceso de retorno al empleo con las mejores garantías y amplificar, con ello, el impacto de la recuperación económica prevista (2 por ciento de crecimiento del PIB previsto para 2015) sobre el mercado de trabajo.
+
+De otra parte, también la calidad de la formación que reciben los trabajadores ocupados resulta determinante para la recuperación económica y del empleo: la formación contribuye a aumentar la productividad de los trabajadores, a su capacidad de innovar y acomodar los cambios tecnológicos. Ello redunda en la mayor competitividad de las empresas y de la economía española. Además, favorece la menor rotación de los trabajadores y la mayor estabilidad en el empleo.
+
+Por todo ello, la inmediata puesta en marcha del nuevo sistema de formación profesional para el empleo contribuirá, a corto plazo, a multiplicar los positivos efectos de la coyuntura económica y del empleo esperable en 2015 y 2016.
+
+Finalmente, la regulación del nuevo modelo de formación profesional para el empleo se acompaña de un novedoso régimen de infracciones y sanciones.
+
+La necesidad de la reforma se puso de manifiesto también en el Acuerdo de propuestas para la negociación tripartita para fortalecer el crecimiento económico y el empleo, del pasado 29 de julio ya mencionado. El Gobierno y los interlocutores sociales en dicho Acuerdo manifiestan que la recuperación económica exige la transformación del modelo para mejorar la capacitación de los trabajadores y contribuir a la competitividad de las empresas españolas, al tiempo que se debe superar la actual situación de desajuste de cualificaciones en España para no perder las oportunidades de empleo que surgirán en Europa en los próximos años.
+
+Por ello, todas las partes se comprometieron a que el nuevo modelo estuviera operativo y resultara de aplicación a todo el sistema de formación profesional para el empleo en el ámbito laboral a partir del 1 de enero de 2015.
+
+Esta norma ha tenido en cuenta, además, dos hechos muy recientes que profundizan en la necesidad de la reforma definitiva del sistema. Por un lado, se impone resolver las ineficiencias del actual modelo de formación profesional para el empleo que se han puesto de manifiesto en los últimos informes de fiscalización de la gestión elaborados por el Tribunal de Cuentas. Por otro, la doctrina del Tribunal Constitucional recogida en sus últimas sentencias sobre la normativa vigente en esta materia, la más reciente de 15 de diciembre de 2014, permite al Gobierno acometer ahora una reforma integral del sistema de formación profesional para el empleo que resulte conforme al marco constitucional de distribución de competencias entre el Estado y las comunidades autónomas, garantizándose así la necesaria estabilidad y coherencia que el sistema precisa.
+
+La necesidad de que las administraciones públicas competentes puedan aplicar ya en el ejercicio 2015 las disposiciones y medidas que introduce esta norma para corregir las graves ineficiencias y debilidades detectadas, sin que ello ponga en riesgo la continuidad en la prestación de los servicios formativos que requieren trabajadores y empresas, máxime en una coyuntura como la descrita, exige celeridad.

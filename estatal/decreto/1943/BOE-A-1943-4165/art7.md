@@ -1,0 +1,5 @@
+## Art. 7. Reducción de los plazos.
+
+Cuando, a juicio del Servicio Piscícola y a los fines de repoblación de un río, sea indispensable acortar el plazo señalado en el artículo cuarto de la Ley para la construcción de una escala o paso, la Administración podrá realizar las obras, previo conocimiento y aceptación por el interesado del proyecto y presupuesto de ejecución formulado al efecto por el Servicio Piscícola y aprobado por la Dirección General de Montes, Caza y Pesca Fluvial. El importe de las obras será anticipado por el Servicio Piscícola, y deberá ser reintegrado por el concesionario antes de finalizar el plazo que se hubiera señalado para la terminación de aquéllas, y sin devengo de interés alguno hasta entonces; quedando sometida para lo sucesivo a lo preceptuado en el último párrafo del artículo sexto de este Reglamento.
+
+En caso de disconformidad del concesionario sobre el proyecto o presupuesto de ejecución, la Dirección General de Montes, Caza y Pesca Fluvial, con vista de las alegaciones de aquél, resolverá lo procedente.

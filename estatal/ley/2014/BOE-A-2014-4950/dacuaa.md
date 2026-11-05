@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Información confidencial.
+
+Las personas físicas o jurídicas que aporten a alguna Autoridad Nacional de Reglamentación datos o informaciones de cualquier tipo, con ocasión del desempeño de sus funciones y respetando la legislación vigente en materia de protección de datos y privacidad, podrán indicar, de forma justificada, qué parte de lo aportado consideran confidencial, cuya difusión podría perjudicarles, a los efectos de que sea declarada su confidencialidad. Cada Autoridad Nacional de Reglamentación decidirá, de forma motivada y a través de las resoluciones oportunas, sobre la información que, según la legislación vigente, resulte o no amparada por la confidencialidad.

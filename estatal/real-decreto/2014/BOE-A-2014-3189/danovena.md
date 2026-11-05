@@ -1,0 +1,3 @@
+## Disposición adicional novena. Garantía de abastecimiento a las oficinas de farmacia de los medicamentos de precio menor.
+
+El titular de la autorización de comercialización tendrá la obligación de tener suficientemente abastecido el mercado, de modo adecuado y continuado para posibilitar el cumplimiento de las exigencias legalmente establecidas en materia de prestación farmacéutica del Sistema Nacional de Salud y garantizar el abastecimiento a las oficinas de farmacia y servicios de farmacia de las presentaciones de medicamentos incluidos en agrupaciones homogéneas, de precio más bajo y precio menor. Su incumplimiento se sancionará conforme al régimen sancionador que establece la Ley 29/2006, de 26 de julio.

@@ -1,0 +1,17 @@
+## Artículo transitorio.
+
+Quedan facultadas las autoridades locales de Marina durante un período de un año a partir de la publicación de la presente Orden ministerial para cubrir destinos subalternos de personal titulado de Puente o Máquinas con personal de categorías profesionales inmediatamente inferiores a las que autoriza el artículo 15.
+
+Dichos enrolamientos deberán ser comunicados en todo caso a la Dirección General de Navegación.
+
+> Se prorroga, hasta el 7 de marzo de 1973, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establece el art. único de la Orden de 29 de febrero de 1972. Ref. BOE-A-1972-359
+
+> Se prorroga, hasta el 9 de marzo de 1972, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establace el art. único de la Orden de 12 de febrero de 1971. Ref. BOE-A-1971-332
+
+> Se prorroga, hasta el 21 de enero de 1970, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establece el art. único de la Orden de 30 de junio de 1969. Ref. BOE-A-1969-906
+
+> Se prorroga, hasta el 27 de junio de 1969, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establece el art. único de la Orden de 17 de diciembre de 1968. Ref. BOE-A-1968-1538
+
+> Se prorroga, hasta el 21 de diciembre de 1968, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establece el art. único de la Orden de 15 de diciembre de 1966. Ref. BOE-A-1966-21439
+
+> Se prorroga, hasta el 10 de julio de 1966, la facultad concedida a las autoridades locales de Marina establecida en este artículo transitorio, según establece el art. único de la Orden de 3 de julio de 1965. Ref. BOE-A-1965-14521

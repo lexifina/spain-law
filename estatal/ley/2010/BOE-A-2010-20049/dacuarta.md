@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Proyectos considerados en el Plan de Recuperación Económica de la UE.
+
+Al objeto de poder tramitar en tiempo y en plazo los proyectos de captura, transporte y almacenamiento de CO2 previstos en la Directiva 2009/29/CE, que enmienda la Directiva 2003/87/CE sobre el comercio europeo de emisiones, mencionados en su artículo 10.a).8) y considerados en el Plan de Recuperación Económica de la Unión Europea, las Administraciones y, en particular, la Administración General del Estado, a través de sus órganos sustantivos y competentes, velarán para garantizar la viabilidad en plazo de la tramitación de los proyectos que se desarrollen en el Reino de España.

@@ -1,0 +1,3 @@
+## Disposición transitoria única. Películas de celulosa regenerada con las condiciones de la legislación anterior.
+
+Se autoriza, hasta el 31 de diciembre de 1994, el comercio y la utilización de películas de celulosa regenerada destinadas a entrar en contacto con productos alimenticios, y que cumpliendo las condiciones exigidas en el Real Decreto 1044/1990, de 27 de julio, modificado por el Real Decreto 2123/1993, de 3 de diciembre, por el que se aprueba y modifica, respectivamente, la Instrucción técnico-sanitaria sobre materiales y objetos de película de celulosa regenerada para uso alimentario, no se ajusten a lo dispuesto en el presente Real Decreto.

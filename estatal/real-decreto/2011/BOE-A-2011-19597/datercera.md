@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Relaciones directas con títulos de grado de la UNED.
+
+De conformidad con la disposición adicional primera de la Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, la Universidad Nacional de Educación a Distancia y el Ministerio de Educación establecerán los acuerdos previstos en el artículo 5.2 de este real decreto para concretar las relaciones directas existentes entre los títulos de grado impartidos por la universidad y los títulos de grado de enseñanzas artísticas, de técnico superior de formación profesional, de técnico superior de artes plásticas y diseño y de técnico deportivo superior.

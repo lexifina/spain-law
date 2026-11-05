@@ -1,0 +1,5 @@
+## Disposición adicional vigésima sexta. Apoyo financiero a empresas de base tecnológica.
+
+El importe total máximo de las operaciones que podrán aprobarse durante el año 2006 para las operaciones a las que se refiere el apartado 1 de la disposición adicional segunda de la Ley 6/2000, de 13 de diciembre, por la que se aprueban medidas fiscales urgentes de estímulo al ahorro familiar y a la pequeña y mediana empresa será de 24.579,76 miles de euros, de los cuales 500,00 miles de euros se imputarán a la aplicación presupuestaria 20.14.467G.821.10, 5.500,00 miles de euros se imputarán a la aplicación presupuestaria 20.14.467G.831.10 y 18.579,76 miles de euros se imputarán a la aplicación presupuestaria 18.06.467C.831.10.
+
+El importe total máximo de las operaciones que podrán aprobarse durante el año 2006 para las operaciones a las que se refiere el apartado 2 de dicha disposición adicional será de 11.420,24 miles de euros, cantidad que se financiará con cargo a la aplicación presupuestaria 20.16.467C.822.

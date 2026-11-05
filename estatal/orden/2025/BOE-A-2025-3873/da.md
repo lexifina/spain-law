@@ -1,0 +1,3 @@
+## Disposición adicional única. Habilitación para la actualización técnica de las Normas de Gestión Técnica del Sistema.
+
+Se habilita a la Secretaría de Estado de Energía a completar aquellos aspectos de las NGTS aprobadas por esta orden, previo informe de la Comisión Nacional de los Mercados y la Competencia, que los cambios en el estado de la técnica o de la normativa comunitaria o internacional hagan imprescindible actualizar. Toda resolución por la que se proceda a la actualización de cuestiones técnicas para su adaptación al estado de la técnica o a las normas comunitarias o internaciones deberá ser publicada en el «Boletín Oficial del Estado».

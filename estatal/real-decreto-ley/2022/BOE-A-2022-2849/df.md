@@ -1,0 +1,13 @@
+## Disposición final primera. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+Se introduce una nueva disposición adicional cuadragésima sexta en el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre con la siguiente redacción:
+
+> «Disposición adicional cuadragésima sexta. Protección social de las personas trabajadoras en los expedientes de regulación temporal de empleo por fuerza mayor.
+
+> Las personas trabajadoras afectadas por expedientes de regulación temporal de empleo autorizados con base en lo previsto en el artículo 47.5 y 6 del Estatuto de los Trabajadores se beneficiarán, en el ámbito de las prestaciones contributivas por desempleo vinculadas a dichos expedientes, de las medidas siguientes:
+
+> a) La cuantía de la prestación se determinará aplicando a la base reguladora el porcentaje del 70 por ciento, durante toda la vigencia de la medida. No obstante, serán de aplicación las cuantías máximas y mínimas previstas en el artículo 270.3.
+
+> b) El acceso a esta prestación no implicará el consumo de las cotizaciones previamente efectuadas a ningún efecto.
+
+> c) Las personas afectadas tendrán derecho al reconocimiento de la prestación contributiva por desempleo, aunque carezcan del período de ocupación cotizada mínimo necesario para ello.»

@@ -1,0 +1,71 @@
+## ANEXO
+
+Las tasas previstas en la disposición adicional segunda serán las siguientes:
+
+TARIFA PRIMERA. Adquisición, defensa y mantenimiento de derechos.
+
+1.1 Tasa de solicitud de registro:
+
+a. De una marca o nombre comercial. Por la primera clase solicitada: 138,94 euros. Por la segunda clase y cada una de las sucesivas: 90,00 euros.
+
+b. De una marca de garantía o colectiva. Por la primera clase solicitada: 277,85 euros. Por la segunda clase y cada una las sucesivas: 180,00 euros.
+
+c. De un registro internacional (tasa nacional): 41,43 euros.
+
+1.2 Tasa de división. Por cada solicitud o registro divisional resultante: 52,81 euros.
+
+1.3 Tasa de restablecimiento de derechos: 105,35 euros.
+
+1.4 Tasa de solicitud de resolución urgente: 51,11 euros.
+
+1.5 Por cada prioridad extranjera o de exposición reivindicada: 19,08 euros.
+
+1.6 Modificaciones: por la modificación de la modalidad, distintivo, lista de productos o servicios, del reglamento de uso o, en general, por cualquier modificación del expediente autorizada por la Ley, ya sea de la solicitud o del registro de la marca, cuando se efectúe de modo espontáneo por el solicitante o titular y no como consecuencia de un suspenso decretado de oficio: 23,19 euros.
+
+1.7 Oposiciones: Por formulación de oposición: 43,27 euros.
+
+1.8 Tasas de la renovación del registro:
+
+a. De una marca o nombre comercial. Por la primera clase renovada: 160,86 euros. Por la segunda clase renovada y cada una de las sucesivas: 108,00 euros.
+
+b. De una marca de garantía o colectiva. Por la primera clase renovada: 323,10 euros. Por la segunda clase renovada y cada una de las sucesivas: 216,00 euros.
+
+1.9 Demoras: por demoras en los pagos de las tasas de renovación y quinquenios sucesivos (régimen transitorio), los recargos serán del 25%, dentro de los tres primeros meses, y del 50%, dentro de los tres siguientes, hasta el máximo de seis meses de demora.
+
+1.10 Recursos y revisión de actos administrativos: por la presentación de un recurso o solicitud de revisión: 88,09 euros.
+
+Cuando la presentación del recurso se efectúe por medios telemáticos: reducción de un 15% sobre el importe de la tasa.
+
+1.11 Quinquenios sucesivos (régimen transitorio): 79,90 euros.
+
+1.12 Nulidad o caducidad: por la presentación de una solicitud de nulidad o caducidad: 200 euros.
+
+TARIFA SEGUNDA. Inscripción de cesión de derechos y otras modificaciones.
+
+2.1 Por la inscripción o cancelación de cambios en la titularidad, licencias, derechos reales, opciones de compra u otras trabas o medidas cautelares o de ejecución. Por cada registro afectado: 32,44 [hasta un máximo de 6.768,37 euros].
+
+2.2 Por la inscripción del cambio de nombre del titular: por cada registro afectado 16,38 euros, hasta un máximo de 2.789,65 euros.
+
+TARIFA TERCERA. Otros servicios.
+
+3.1 Certificaciones: 16,40 euros.
+
+3.2 Consulta y vista de un expediente: 3,56 euros.
+
+3.3 Copia de los documentos obrantes en el expediente: 11,38 euros más un suplemento por cada página que exceda de 10 de 1,13 euros.
+
+TARIFA CUARTA. Publicaciones.
+
+4.1 Por la publicación en el Boletín Oficial de la Propiedad Industrial, a solicitud del recurrente, del anuncio de la interposición de un recurso contencioso-administrativo en materia de signos distintivos: 142,24 euros.
+
+4.2 Por la publicación en el Boletín Oficial de la Propiedad Industrial a instancia de parte, del fallo de un recurso contencioso-administrativo sobre signos distintivos: 142,24 euros.
+
+> Se modifica la tarifa 1 por el art. 1.40 del Real Decreto-ley 23/2018, de 21 de diciembre. Ref. BOE-A-2018-17769
+
+> Se modifica por el art. 95 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-89
+
+> Se modifica, con efectos de 1 de enero de 2011, por el art. 95 de la Ley 39/2010, de 22 de diciembre. Ref. BOE-A-2010-19703.
+
+> Se modifica, con efectos de 1 de enero de 2010, por el art. 87 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+
+> Se modifican las tarifas 1 y 2, por la disposición adicional 6.4 y .5 de la Ley 20/2003, de 7 de julio. Ref. BOE-A-2003-13615

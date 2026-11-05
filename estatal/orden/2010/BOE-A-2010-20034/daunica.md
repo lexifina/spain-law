@@ -1,0 +1,3 @@
+## Disposición adicional única. Capital cooperativo.
+
+Las Normas sobre los aspectos contables de las sociedades cooperativas no afectarán a la calificación del capital social a los efectos regulados en la ley de cooperativas que resulte de aplicación, los estatutos sociales y la legislación mercantil en general. Es decir, el capital de la sociedad cooperativa será el emitido como tal ajustándose a los requisitos previstos en dicha legislación, independientemente de que haya sido clasificado como fondos propios o como pasivo de acuerdo con lo dispuesto en las Normas sobre los aspectos contables de las sociedades cooperativas.

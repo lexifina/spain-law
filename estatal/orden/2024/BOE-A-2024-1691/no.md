@@ -1,0 +1,1 @@
+Téngase en cuenta que, con fecha 26 de febrero de 2025, se ha publicado la Orden PJC/178/2025, de 25 de febrero, por la que se desarrollan las normas legales de cotización a la Seguridad Social, desempleo, protección por cese de actividad, Fondo de Garantía Salarial y formación profesional para el ejercicio 2025, con efectos desde el día 1 de enero de 2025. Ref. BOE-A-2025-3780

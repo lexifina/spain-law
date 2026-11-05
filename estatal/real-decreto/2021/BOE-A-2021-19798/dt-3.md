@@ -1,0 +1,3 @@
+## Disposición transitoria única. Acceso a los cursos de especialización para la obtención de una especialidad del segundo tramo de la carrera militar en el cuarto empleo de la escala.
+
+Las autoridades competentes de la gestión de las correspondientes convocatorias, relacionadas en el artículo 14.8 del Real Decreto 339/2015, de 30 de abril, podrán, durante las tres primeras convocatorias de los cursos de especialización para la obtención de una especialidad del segundo tramo que se realicen tras la aprobación de los currículos, permitir el acceso a los mismos de personal militar que ostenten el cuarto empleo en su respectiva escala. La superación del curso supondrá la adquisición de la correspondiente especialidad.

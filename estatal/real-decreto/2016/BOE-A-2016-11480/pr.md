@@ -1,0 +1,25 @@
+La Orden de 28 de marzo de 1988, por la que se aprueban las normas generales de calidad para las caseínas y caseinatos alimenticios, incorporó al ordenamiento jurídico interno la Directiva 83/417/CEE del Consejo, de 25 de julio de 1983, relativa a la aproximación de las legislaciones de los Estados miembros sobre determinadas lactoproteínas (caseínas y caseinatos) destinadas a la alimentación humana, así como las Directivas de la Comisión 85/503/CEE, de 25 de octubre de 1985, relativa a métodos de análisis de caseínas y caseinatos alimentarios y 86/424/CEE, de 15 de julio de 1986, por la que se establecen los procedimientos comunitarios de toma de muestras destinadas a análisis químicos para caseínas y caseinatos comestibles.
+
+Los anejos 1 y 2 de la citada orden regularon, respectivamente, la norma general de calidad para las caseínas alimenticias y la norma general de calidad para los caseinatos alimenticios. Asimismo, los anejos 3 y 4 recogieron, respectivamente, el procedimiento de toma de muestras y los métodos de análisis de la composición de estos productos.
+
+Posteriormente, la citada orden se derogaría parcialmente mediante el artículo 44 del Real Decreto 176/2013, de 8 de marzo, por el que se derogan total o parcialmente determinadas reglamentaciones técnico sanitarias y normas de calidad referidas a productos alimenticios.
+
+Dentro del proceso de simplificación de la normativa europea, la Directiva n.º 83/417/CEE, de 25 de julio de 1983, ha sido derogada, a fin de adaptar la regulación de estos productos a la legislación de la Unión Europea en materia de alimentos y a las normas internacionales, y se ha aprobado la Directiva (UE) n.º 2015/2203 del Parlamento Europeo y del Consejo, de 25 de noviembre de 2015, relativa a la aproximación de las legislaciones de los Estados miembros sobre caseínas y caseinatos destinados al consumo humano y por la que se deroga la Directiva 83/417/CEE del Consejo, que constituye el nuevo marco normativo comunitario en esta materia.
+
+Dado que las caseínas y caseinatos objeto de regulación están destinados a ser vendidos de empresa a empresa para la preparación de productos alimenticios, es de resaltar que la citada Directiva (UE) n.º 2015/2203, mantiene las normas específicas de etiquetado, adecuándolas a las disposiciones relativas a la información alimentaria en vigor, de forma que contempla la información que debe facilitarse respecto a estos productos en las relaciones entre empresas, con el fin de poner a disposición de los operadores la información que necesitan para el etiquetado de los productos finales, y para evitar que los productos puedan confundirse con otros similares no destinados para el consumo humano.
+
+Por otra parte, en cuanto a los métodos de muestreo y análisis, según dispone la citada Directiva (UE) n.º 2015/2203, de 25 de noviembre de 2015, en su quinto considerando, dada la existencia de normas generales, horizontales y uniformes de la Unión en esta materia, ya no son necesarias las normas específicas que regían anteriormente.
+
+La incorporación a nuestro ordenamiento jurídico interno de la citada Directiva (UE) n.º 2015/2203, de 25 de noviembre de 2015, constituye el objeto de este real decreto, que aprueba las nuevas normas generales de calidad para las caseínas y caseinatos alimentarios y, que sustituye y deroga ya por completo la Orden de 28 de marzo de 1988.
+
+Al mismo tiempo, se elimina la mención a aditivos alimentarios, dado que estas disposiciones, anteriormente incluidas en la Directiva (UE) n.º 2015/2203, de 25 de noviembre de 2015, se han incorporado a la normativa horizontal de la Unión Europea, actualizada recientemente mediante Reglamento (UE) n.º 2016/691 de la Comisión, de 4 de mayo de 2016, por el que se modifica el anexo II del Reglamento (CE) N.º 1333/2008 del Parlamento Europeo y del Consejo, en lo relativo a la utilización de los aditivos alimentarios en los caseinatos alimentarios.
+
+Todo ello en virtud de la disposición final cuarta de la Ley 28/2015, de 30 de julio, para la defensa de la calidad alimentaria, que habilita al Gobierno a aprobar normas de calidad de productos alimenticios, con objeto, entre otros, de adaptarse a la reglamentación de la Unión Europea.
+
+Este real decreto se dicta de conformidad con lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución, que atribuyen al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, y de bases y coordinación general de la sanidad respectivamente.
+
+En el proceso de elaboración de esta norma se ha consultado a las comunidades autónomas y las entidades representativas de los sectores afectados, habiendo emitido informe favorable la Comisión Interministerial para la Ordenación Alimentaria.
+
+En su virtud, a propuesta de la Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente y de la Ministra de Sanidad, Servicios Sociales e Igualdad, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de diciembre de 2016,
+
+DISPONGO:

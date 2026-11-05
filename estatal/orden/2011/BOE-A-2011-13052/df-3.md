@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación de la Orden SPI/3408/2010, de 16 de diciembre, por la que se modifica la Orden de 21 de julio de 1994, por la que se regulan los ficheros con datos de carácter personal gestionados por el Ministerio de Sanidad, Política Social e Igualdad.
+
+El contenido del párrafo segundo del anexo de la Orden SPI/3408/2010, de 16 de diciembre, queda sustituido por la siguiente redacción:
+
+«Finalidad del fichero: Centralizar la información relativa a los procedimientos de control sanitario del tráfico internacional de los medicamentos de uso humano, incluyendo sus graneles y productos intermedios: de las materias primas farmacéuticas destinadas a la fabricación de medicamentos de uso humano; de los productos sanitarios, incluyendo sus graneles y productos intermedios; de los cosméticos y productos de higiene personal, incluyendo sus graneles y productos intermedios; de las materias primas vegetales destinadas a la fabricación de cosméticos; y de los biocidas de uso clínico y personal, incluyendo sus graneles y productos intermedios. Esta información se utilizará para usos estadísticos e investigación sanitaria.»

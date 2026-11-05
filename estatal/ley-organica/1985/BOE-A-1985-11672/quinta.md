@@ -1,0 +1,5 @@
+## Disposición adicional quinta
+
+En el supuesto de que en el mismo año coincidan para su celebración, en un espacio de tiempo no superior a cuatro meses, elecciones locales, elecciones a Asambleas Legislativas de Comunidades Autónomas que celebraron sus elecciones el cuarto domingo del mes de mayo de 1995, con las elecciones al Parlamento Europeo, los decretos de convocatoria se expedirán el día quincuagésimo quinto anterior al de la fecha en que han de tener lugar las elecciones al Parlamento Europeo, en orden a asegurar la celebración simultánea. Los referidos decretos se publicarán al día siguiente de su expedición en el "Boletín Oficial del Estado" o, en su caso, en el "Boletín Oficial" de la Comunidad Autónoma correspondiente y entrarán en vigor el mismo día de su publicación. Los mandatos de los miembros de las Corporaciones Locales terminarán en todo caso el día anterior al de celebración de las siguientes elecciones.
+
+> Se añade por el art. único de la Ley Orgánica 3/1998, de 15 de junio. Ref. BOE-A-1998-14063.

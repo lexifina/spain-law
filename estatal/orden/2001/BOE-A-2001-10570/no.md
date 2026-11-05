@@ -1,0 +1,1 @@
+Norma derogada, con la excepción de lo dispuesto en el Capítulo II del Título I, que seguirá vigente, con efectos de 1 de febrero de 2024, según establece la disposición derogatoria única.a) de la Orden ECM/57/2024, de 29 de enero, redactada conforme a la corrección de errores publicada en BOE núm. 38, de 13 de febrero de 2024. Ref. BOE-A-2024-1774#dd

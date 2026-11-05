@@ -1,0 +1,3 @@
+## Disposición transitoria duodécima. Contratos de suministro en exclusiva.
+
+Los propietarios de las instalaciones para el suministro de vehículos que, a la entrada en vigor de la presente disposición transitoria, tuvieran concertado en régimen de comisión un acuerdo de suministro en exclusiva de carburantes y combustibles con un distribuidor al por mayor, tendrán derecho, desde dicha entrada en vigor, a la adaptación del clausulado del contrato al régimen de venta en firme, respetando su contenido económico, a cuyo efecto plantearán la correspondiente negociación, que no podrá dar lugar, en ningún caso, por esta causa, a la rescisión o resolución de estos contratos, ni a la interrupción del cumplimiento de la obligación de suministro en exclusiva ni de ninguna otra.

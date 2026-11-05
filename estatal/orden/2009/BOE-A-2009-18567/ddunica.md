@@ -1,0 +1,7 @@
+## Disposición derogatoria única. Derogación normativa.
+
+A partir del momento en que la presente orden surta sus efectos, de acuerdo con lo establecido en la disposición final quinta de la misma, quedarán derogadas las siguientes disposiciones:
+
+1. En lo relativo al modelo 190, la Orden EHA/3020/2007, de 11 de octubre, por la que se aprueban el modelo 190 para la declaración del resumen anual de retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas sobre rendimientos del trabajo y de actividades económicas, premios y determinadas ganancias patrimoniales e imputaciones de rentas, los diseños físicos y lógicos a los que deben ajustarse los soportes directamente legibles por ordenador, se determinan el lugar y la forma de presentación del mismo, y se modifica la Orden EHA/30/2007, de 16 de enero, por la que se aprueban los modelos 110 y 111 de declaración-documento de ingreso de retenciones e ingresos a cuenta del Impuesto sobre la Renta de las Personas Físicas sobre rendimientos del trabajo y de actividades económicas, premios y determinadas ganancias patrimoniales e imputaciones de renta.
+
+2. En lo relativo al modelo 111, los artículos segundo, tercero y cuarto de la Orden del Ministro de Economía y Hacienda de 20 de enero de 1999, por la que se establecen las condiciones generales y el procedimiento para la presentación telemática de las declaraciones-liquidaciones mensuales de grandes empresas correspondientes a los códigos 111, 320 y 332.

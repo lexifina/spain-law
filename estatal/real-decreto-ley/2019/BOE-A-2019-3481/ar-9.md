@@ -1,0 +1,13 @@
+## Artículo 9. Medidas de apoyo a la prolongación del periodo de actividad de los trabajadores con contratos fijos discontinuos en los sectores de turismo y comercio y hostelería vinculados a la actividad turística.
+
+(Derogado)
+
+> Téngase en cuenta que este artículo se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.l) del Real Decreto-ley 1/2023, de 10 de enero, Ref. BOE-A-2023-625#dd, según establece su disposición final 13.
+
+> Redacción anterior:
+
+> "1. Las empresas, excluidas las pertenecientes al sector público, dedicadas a actividades encuadradas en los sectores de turismo, así como los de comercio y hostelería, siempre que se encuentren vinculados a dicho sector del turismo, que generen actividad productiva en los meses de febrero, marzo y de noviembre de cada año y que inicien o mantengan en alta durante dichos meses la ocupación de los trabajadores con contratos de carácter fijo discontinuo, podrán aplicar una bonificación en dichos meses del 50 por ciento de las cuotas empresariales a la Seguridad Social por contingencias comunes, así como por los conceptos de recaudación conjunta de Desempleo, FOGASA y Formación Profesional de dichos trabajadores.
+
+> 2. Lo dispuesto en este artículo será de aplicación desde el 1 de enero de 2019 hasta el día 31 de diciembre de 2019."
+
+> Se deroga, con efectos de 1 de septiembre de 2023, por la disposición derogatoria única.l) del Real Decreto-ley 1/2023, de 10 de enero. Ref. BOE-A-2023-625#dd

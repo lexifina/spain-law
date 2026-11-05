@@ -1,0 +1,11 @@
+## Disposición transitoria segunda. Operadores inscritos previamente.
+
+1. Los operadores inscritos en el momento de la entrada en vigor de este real decreto en el Registro nacional de productores de semillas y plantas de vivero; en el Registro de Comerciantes de Semillas y Plantas de Vivero; en el registro oficial de acondicionadores de grano para la siembra; y en el Registro Oficial de Productores, Comerciantes e Importadores de Vegetales (ROPCIV), para la autorización a la emisión del pasaporte fitosanitario, serán inscritos de oficio en el Registro de operadores profesionales de vegetales (ROPVEG) establecido en el capítulo II del presente real decreto, previa presentación del plan eficaz establecido en el artículo 22.1 b), si corresponde.
+
+Los productores registrados en el Registro nacional de productores de semillas y plantas de vivero mantendrán su codificación de partida. Al resto de operadores se les comunicará el nuevo número de registro por parte de la autoridad de la comunidad autónoma donde radique su sede social.
+
+Los operadores inscritos en el Registro de Importadores, deberán añadir la actividad de importación en los datos de registro en ROPVEG, de acuerdo con lo establecido en el artículo 7 del presente real decreto, o bien si no está dado de alta previamente en el ROPVEG, realizar su inscripción, en ambos casos en dos meses desde la entrada en vigor de este real decreto.
+
+2. Aquellos operadores que incumplan alguno de los requisitos u obligaciones previstos en esta norma, tendrán un plazo de un año para su adaptación, trascurrido el cual, si no cumplen con los mismos, serán dados de baja en el citado Registro, previa audiencia de los interesados.
+
+3. Cuando se trate de operadores cuya sede social esté situada en otro Estado miembro, o cuya actividad sea la exportación y/o importación, corresponderá a la autoridad estatal competente realizar las actuaciones contempladas en los dos apartados anteriores. La resolución correspondiente se dictará en el plazo máximo de tres meses desde el inicio del procedimiento. En caso de no resolverse en dicho plazo, se entenderá caducado el procedimiento. Contra la solicitud que se dicte, que no agotará la vía administrativa, cabrá recurso de alzada ante la Secretaría General de Agricultura y Alimentación del Ministerio de Agricultura, Pesca y Alimentación.

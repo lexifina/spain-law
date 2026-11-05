@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Comisión Interministerial entre Defensa y Transportes (CIDETRA).
+
+La Comisión a la que se refiere el artículo 6 de esta ley será la Comisión Interministerial entre Defensa y Transportes (CIDETRA) creada por Orden de la Presidencia del Gobierno de 8 de noviembre de 1979, por la que se crea, con carácter permanente, la Comisión Interministerial prevista en el artículo 6.º del Real Decreto Ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y de Transportes y Comunicaciones en materia de aviación. En lo sucesivo, esta Comisión se denominará Comisión Interministerial entre Defensa y Fomento.

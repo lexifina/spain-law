@@ -1,0 +1,3 @@
+## Disposición adicional única. Inscripción de centros dependientes de la Federación de Entidades Religiosas Evangélicas de España en el Registro de Universidades, Centros y Títulos (RUCT).
+
+Los centros docentes de nivel superior o Facultades Protestantes de Teología dependientes de la Federación de Entidades Religiosas Evangélicas de España que figuran en el anexo serán inscritos en el Registro de Universidades, Centros y Títulos (RUCT), de conformidad con lo establecido en el artículo 2 del Real Decreto 1509/2008, de 12 de septiembre, por el que se regula el Registro de Universidades, Centros y Títulos.

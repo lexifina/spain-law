@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio de aprobación de folletos.
+
+Hasta que se efectúe el desarrollo del artículo 27.4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, la Comisión Nacional del Mercado de Valores podrá aprobar y registrar, de acuerdo con lo establecido en el artículo 26.1.c) de la Ley 24/1988, de 28 de julio, del Mercado de Valores, aquellos folletos cuyo contenido se ajuste bien a lo establecido en el Real Decreto 291/1992, de 27 de marzo, sobre emisiones y ofertas públicas de venta de valores, y en sus disposiciones de desarrollo, o bien a lo dispuesto en el Reglamento (CE) n.º 809/2004 de la Comisión, de 29 de abril de 2004.

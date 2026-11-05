@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Coordinación de proyectos de concesión de autorizaciones para proyectos de interés común.
+
+Se habilita al titular de la Dirección General de Política Energética y Minas como autoridad nacional competente responsable de facilitar y coordinar el proceso de concesión de autorizaciones para los proyectos de interés común a efectos de lo establecido en el Reglamento (UE) n.º 347/2013 del Parlamento Europeo y del Consejo, de 17 de abril de 2013, relativo a las orientaciones sobre las infraestructuras energéticas transeuropeas y por el que se deroga la Decisión n.º 1364/2006/CE y se modifican los Reglamentos (CE) n.º 713/2009, (CE) n.º 714/2009 y (CE) n.º 715/2009.

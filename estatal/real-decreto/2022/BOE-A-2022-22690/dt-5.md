@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Régimen transitorio en la modulación de la contribución financiera de los productores a los sistemas de responsabilidad ampliada del productor.
+
+En el caso de los sistemas colectivos de responsabilidad ampliada del productor en materia de envases comerciales e industriales constituidos por productores para los que no existía la obligación de participar en un sistema integrado de gestión, conforme a lo previsto en la Ley 11/1997, de 24 de abril, la aplicación de los criterios de modulación previstos en el artículo 23.3 será obligatoria a más tardar en un plazo de dos años desde su autorización.

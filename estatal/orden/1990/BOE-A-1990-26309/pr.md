@@ -1,0 +1,11 @@
+Desde la publicación del Reglamento de 22 de junio de 1929, una abundante y dispersa legislación ha venido reiterando la obligación de los titulares de los servicios públicos de transporte por carretera de cumplimentar determinados documentos, como el libro de ruta, y cumplir otras formalidades en relación con el servicio, tales como las referidas a billetes y al libro de reclamaciones.
+
+Tras los cambios normativos introducidos por la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y su Reglamento General, aprobado por Real Decreto 1211/1990, de 28 de septiembre, es necesario actualizar las reglas aplicables en relación con la documentación citada, a fin de adecuarlas a los referidos cambios y de posibilitar un mejor cumplimiento de los fines estadísticos y de control perseguidos.
+
+En este sentido se hace preciso tener en cuenta la nueva concepción implantada por dichas normas en cuestiones tales como la colaboración entre transportistas, la titularidad de los vehículos, las distintas formas de transporte regular y la adscripción de los vehículos al mismo, la comercialiación del transporte, etc.
+
+Junto a ello resulta conveniente eliminar la duplicidad de formalidades y unificar, en lo posible, la documentación exigida para los distintos servicios. A tal efcto se opta por extender la obligatoriedad del libro de ruta a todos los autobuses destinados al transprote público interurbano, tanto si circulan provistos de tarjeta VD como VR, y por eliminar la obligación de formalizar la hoja de ruta en los servicios de carácter regular, modificando, en consecuencia el sistema de comunicación de datos estadísticos desde las empresas a la Administración.
+
+Todo ello unido a la conveniencia, expresamente señalada en la exposición de motivos de la Ley de Ordenación de los Transportes Terrestres de corregir en lo posible la proliferación asistemática y dispersa de las normas de carácter reglamentario que afectan al sector del transprote, llevó a la decisión de incluir en la tabla de derogaciones de su Reglamento General la totalidad de las normas que regulaban los documentos de control exigidos en el transporte de viajeros, desarrollando las previsiones del artículo 222 del citado Reglamento en tal materia mediante un único texto legal.
+
+En su virtud, he tenido a bien disponer:

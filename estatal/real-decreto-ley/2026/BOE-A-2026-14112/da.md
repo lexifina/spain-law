@@ -1,0 +1,19 @@
+## Disposición adicional primera. Compensación al sector eléctrico por la modificación del impuesto sobre el valor de la producción de la energía eléctrica durante el ejercicio 2026.
+
+1. Al objeto de compensar al sector eléctrico por la modificación del impuesto sobre el valor de la producción de la energía eléctrica durante el ejercicio 2026, de forma extraordinaria, y de acuerdo con el apartado 2 e) del artículo 13 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, se destinará al sistema de liquidaciones del sector eléctrico un importe de 315 millones de euros para cubrir los costes financiados por los cargos del sistema eléctrico correspondientes y garantizar el equilibrio entre los ingresos y los gastos asociados a los cargos del sistema eléctrico.
+
+Esta compensación es adicional a la reconocida a través de la Disposición adicional decimocuarta del Real Decreto-ley 7/2026, de 20 de marzo.
+
+2. Con el fin de financiar la aportación al sistema eléctrico regulada en el apartado anterior, se aprueba un suplemento de crédito por importe de 315 millones de euros de la sección 23 «Ministerio para la Transición Ecológica y el Reto Demográfico», servicio 03 «Secretaría de Estado de Energía», programa 000X «Transferencias y libramientos internos», concepto 734 «A la CNMC para financiar aportación extraordinaria al sistema eléctrico para compensar la modificación del impuesto sobre el valor de la producción de la energía eléctrica».
+
+El suplemento de crédito anterior tendrá la siguiente repercusión en el presupuesto del organismo 302 «Comisión Nacional de los Mercados y la Competencia» de la Sección 27 «Ministerio de Economía, Comercio y Empresa»:
+
+a) En el presupuesto de ingresos, en el subconcepto 702.05 «Del Ministerio para la Transición Ecológica y el Reto Demográfico para compensar los gastos y garantizar el equilibrio del sistema eléctrico», por importe de 315 millones de euros.
+
+b) En el presupuesto de gastos, en el programa 425 A «Normativa y desarrollo energético», concepto 776 «Para compensar al sector eléctrico al sistema eléctrico la modificación del impuesto sobre el valor de la producción de la energía eléctrica», 315 millones de euros.
+
+La financiación del suplemento de crédito anterior se realizará de conformidad con el artículo 59 de la Ley 47/2003, de 26 de noviembre.
+
+3. Adicionalmente, se podrá compensar al sistema eléctrico hasta el importe equivalente a la reducción de recaudación consecuencia de la modificación del impuesto sobre el valor de la producción de la energía eléctrica durante el ejercicio 2026, con el límite máximo de la cantidad necesaria para alcanzar el equilibrio entre los ingresos y los gastos asociados a los cargos del sistema eléctrico.
+
+A tal efecto y previo informe preceptivo y favorable de la Secretaría de Estado de Presupuestos y Gastos, se autoriza el libramiento del importe preciso del crédito presupuestario 23.03.000X.738 «A la CNMC para financiar costes del sector eléctrico de acuerdo con la disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética», sin necesidad de aplicar el procedimiento establecido en el apartado 2 de la Disposición adicional segunda de la Ley 15/2012, de 27 de diciembre, de medidas fiscales para la sostenibilidad energética».

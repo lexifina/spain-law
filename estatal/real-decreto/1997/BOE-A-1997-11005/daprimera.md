@@ -1,0 +1,3 @@
+## Disposición adicional primera. Contrato de suministro, modalidad de fabricación.
+
+En aplicación de lo establecido en el artículo 176.1 de la Ley de Contratos de las Administraciones Públicas, Ley 13/1995, de 18 de mayo, las disposiciones contenidas en el presente Real Decreto serán de aplicación al contrato de suministro, en su modalidad de fabricación, previsto por el artículo 173.1.c) de aquella Ley, para aquellos contratos que celebre el Ministerio de Defensa siempre que la cuantía de su importe supere 25.000.000.000 de pesetas, y se refieran a la adquisición de buques de guerra, medios acorazados y aeronaves, como consecuencia de programas para la modernización de las Fuerzas Armadas.

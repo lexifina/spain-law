@@ -1,0 +1,3 @@
+## Disposición final segunda. Modificación de leyes por las que se incorpora derecho comunitario.
+
+Mediante esta Ley se modifica la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y de Comercio Electrónico y la Ley 59/2003, de 19 de diciembre, de Firma Electrónica que incorporaron respectivamente la Directiva 2000/31/CE del Parlamento Europeo y del Consejo, de 8 de junio de 2000, relativa a determinados aspectos jurídicos de los servicios de la sociedad de la información, en particular el comercio electrónico en el mercado interior, y la Directiva 1999/93/CE, del Parlamento Europeo y del Consejo, de 13 de diciembre de 1999, por la que se establece un marco comunitario para la firma electrónica.

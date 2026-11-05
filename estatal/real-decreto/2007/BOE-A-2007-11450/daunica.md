@@ -1,0 +1,3 @@
+## Disposición adicional única. Profesores de religión contratados en el curso escolar 2006/2007.
+
+Los profesores de religión no pertenecientes a los cuerpos de funcionarios docentes que a la entrada en vigor del presente real decreto estuviesen contratados pasaran automáticamente a tener una relación laboral por tiempo indefinido en los términos previstos en este real decreto, salvo que concurra alguna de las causas de extinción del contrato prevista en el artículo 7 o que el contrato se hubiere formalizado de conformidad con el artículo 15.1.c) del Estatuto de los Trabajadores, es decir, para sustituir al titular de la relación laboral.

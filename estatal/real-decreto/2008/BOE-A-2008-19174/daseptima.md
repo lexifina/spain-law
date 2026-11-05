@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Formación pedagógica y didáctica para ejercer la docencia en las Enseñanzas Artísticas profesionales y en las Enseñanzas Deportivas.
+
+Los títulos universitarios oficiales de máster a los que se refiere el artículo 9.1, acreditan asimismo la formación pedagógica y didáctica que en los artículos 96 y 98, en relación con el artículo 100 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, se exigen para ejercer la docencia en las enseñanzas artísticas profesionales y en las enseñanzas deportivas. El Ministerio de Educación, Política Social y Deporte completará a estos efectos el contenido de la citada Orden ECI/3858/2007, de 27 de diciembre.

@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Orden de 8 de octubre de 1999 por la que se dispone la publicación de los Estatutos de la Diputación Permanente y Consejo de la Grandeza de España y Títulos del Reino", según establece el art. único de la Orden JUS/782/2019, de 5 de julio. Ref. BOE-A-2019-10631

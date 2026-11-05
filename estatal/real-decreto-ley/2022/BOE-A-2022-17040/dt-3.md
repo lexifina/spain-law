@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Plazo para la adaptación de la información adicional a incluir en las facturas de gas.
+
+1. La información a la que hace referencia el apartado m) y n) del artículo 53 del Real Decreto 434/2002, de 27 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de gas natural, deberá estar incluida en todas aquellas facturas emitidas a partir del 1 de diciembre de 2022.
+
+2. A partir del 1 de diciembre, deberá mostrarse de manera inequívoca en todas las facturas de gas natural como parte de su contenido, la siguiente información hasta el fin de la vigencia de reducción temporal del tipo de Impuesto sobre el Valor Añadido aplicable temporalmente a las entregas, importaciones y adquisiciones intracomunitarias de gas natural, regulado en el artículo 5 del Real Decreto-ley 17/2022, de 20 de septiembre, por el que se adoptan medidas urgentes en el ámbito de la energía, en la aplicación del régimen retributivo a las instalaciones de cogeneración y se reduce temporalmente el tipo del Impuesto sobre el Valor Añadido aplicable a las entregas, importaciones y adquisiciones intracomunitarias de determinados combustibles:
+
+«En virtud del artículo 5 Real Decreto-ley 17/2022, de 20 de septiembre, el IVA aplicable a su factura se encuentra reducido del 21% al 5%.»

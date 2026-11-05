@@ -1,0 +1,5 @@
+## Disposición final cuarta. Autorización para la modificación de la regulación o supresión de los órganos colegiados, grupos, comisiones de trabajo ministeriales y de las divisiones de nivel inferior a subdirección general.
+
+1. De acuerdo con lo previsto en el artículo 22.2 in fine y 3 de la Ley 40/2015, de 1 de octubre, se faculta a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico para modificar o suprimir los órganos colegiados, grupos y comisiones de trabajo del Departamento, cuya composición y funciones sean de alcance puramente ministerial, aunque su creación o regulación vigente se haya efectuado mediante real decreto o acuerdo de Consejo de Ministros.
+
+2. Se habilita a la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico para que, mediante orden ministerial, y de acuerdo con lo dispuesto en el artículo 59.2 de la Ley 40/2015, de 1 de octubre, suprima o modifique las divisiones de nivel inferior al de subdirección general reguladas en este real decreto.

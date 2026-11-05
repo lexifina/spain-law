@@ -1,0 +1,3 @@
+## Disposición final segunda. Seguimiento del programa nacional.
+
+El Ministerio de Agricultura, Alimentación y Medio Ambiente realizará, con base en sus datos y en los proporcionados por las comunidades autónomas y ciudades de Ceuta y Melilla, el seguimiento de la aplicación del Programa Nacional. En función del mismo, se solicitará al órgano de coordinación correspondiente entre el Estado y las comunidades autónomas, informe respecto de una posible modificación de este real decreto para incentivar o prever la obligatoriedad de programas de selección genética para las razas puras en que así proceda.

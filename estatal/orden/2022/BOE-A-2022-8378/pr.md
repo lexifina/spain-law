@@ -1,0 +1,25 @@
+La Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias, define la formación continuada como «el proceso de enseñanza y aprendizaje activo y permanente al que tienen derecho y obligación los profesionales sanitarios, que se inicia al finalizar los estudios de pregrado o de especialización y que está destinado a actualizar y mejorar los conocimientos, habilidades y actitudes de los profesionales sanitarios ante la evolución científica y tecnológica y las demandas y necesidades, tanto sociales como del propio sistema sanitario», lo que constituye además, un elemento motivador para el personal.
+
+En el artículo 34 de la referida Ley, se crea la Comisión de Formación Continuada de las Profesiones Sanitarias para armonizar el ejercicio de las funciones de las administraciones sanitarias públicas y demás instituciones y organismos en materia de formación continuada, así como para coordinar las actuaciones que se desarrollen en dicho campo. Tal creación encuentra su fundamento en el artículo 38 de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, que exige a las Administraciones públicas, con el fin de garantizar la calidad en el conjunto del Sistema Nacional de Salud, establecer criterios comunes para ordenar las actividades de formación continuada.
+
+En este sentido, esta misma ley, en su disposición adicional primera, prevé expresamente que las referencias que en dicha ley se realizan a las competencias de las comunidades autónomas se entenderán hechas al Estado en relación con las ciudades de Ceuta y Melilla, sin perjuicio de las competencias de dichas ciudades.
+
+El Real Decreto 1142/2007, de 31 de agosto, por el que se determina la composición y funciones de la Comisión de Formación Continuada de las Profesiones Sanitarias y se regula el sistema de acreditación de la formación continuada, se refiere a las actividades formativas que se impartan en el conjunto del Sistema Sanitario.
+
+Por otra parte, la Sentencia del Tribunal Constitucional 1/2011, de 14 de febrero, determina que la competencia de la ejecución en materia de acreditación de la formación continuada es de las comunidades autónomas que han asumido la gestión sanitaria; considerando que las competencias en materia de gestión sanitaria no se han transferido a las ciudades de Ceuta y Melilla y son ejercidas por el Ministerio de Sanidad a través del Instituto Nacional de Gestión Sanitaria (en adelante, INGESA), la acreditación de la formación continuada a los profesionales sanitarios que prestan servicio en el ámbito del INGESA, corresponde por tanto al mismo.
+
+La presente orden tiene como objeto crear la Comisión de Formación Continuada de las Profesiones Sanitarias del INGESA, así como regular el proceso correspondiente, que posibilite la acreditación de la formación sanitaria continuada de los profesionales sanitarios que presten servicios en las instituciones sanitarias del ámbito del INGESA, dictándose de acuerdo con lo dispuesto en la mencionada Ley 16/2003, de 28 de mayo.
+
+Esta orden es acorde con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres. Según su artículo 27, relativo a la integración del principio de igualdad en la política de salud, la integración del principio de igualdad en la formación del personal al servicio de las organizaciones sanitarias deviene una prioridad.
+
+A su vez, esta orden se adecua a los principios de buena regulación conforme a los cuales deben actuar las Administraciones Públicas en el ejercicio de la iniciativa legislativa y la potestad reglamentaria, previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, puesto que, en primer lugar, se trata de una iniciativa normativa justificada por una razón de interés general, al configurarse la formación continuada como un derecho y obligación de los profesionales sanitarios. De esta manera, la norma cumple con los principios de necesidad y eficacia.
+
+Del mismo modo, contienen la regulación imprescindible para lograr su objetivo, por lo que se trata de una regulación acorde al principio de proporcionalidad, y resulta coherente con el resto del ordenamiento jurídico, lo que también le hace adecuarse al principio de seguridad jurídica.
+
+Por último, debe destacarse que la presente orden responde a los principios de transparencia y eficiencia, al establecer claramente y sin ninguna carga administrativa añadida su objetivo.
+
+Esta orden ha sido sometida a los trámites de consulta pública y de información pública. Asimismo, ha sido informada por el Comité Consultivo y el Consejo Interterritorial del Sistema Nacional de Salud, así como por la Agencia Española de Protección de Datos.
+
+La presente orden se dicta en el ejercicio de la competencia exclusiva atribuida al Estado por el artículo 149.1.16.ª de la Constitución Española, en materia de bases y coordinación general de la sanidad.
+
+En su virtud, a propuesta de la Ministra de Sanidad, con la aprobación previa de la Ministra de Hacienda y Función Pública, dispongo:

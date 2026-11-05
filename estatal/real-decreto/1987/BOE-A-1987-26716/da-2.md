@@ -1,0 +1,3 @@
+## DISPOSICIÓN ADICIONAL
+
+A efectos de resolución de las reclamaciones y discrepancias de los usuarios de los servicios de limpieza, conservación y teñido de productos textiles, cueros, pieles y sintéticos, éstos podrán acudir al procedimiento establecido en el presente Reglamento, en el Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de Defensa del Consumidor y de la producción agroalimentaria, así como del sistema arbitral previsto por el artículo 31 de la Ley General para la Defensa de los Consumidores y Usuarios, en la forma que reglamentariamente se determine.

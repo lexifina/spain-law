@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Suspensión de la aplicación del ajuste a las centrales de carbón.
+
+En el caso de que el importe del ajuste al que hace referencia el artículo 3, medido en €/MWh, sea superior a la diferencia entre el coste producción de las centrales de carbón, incluyendo el valor del combustible y el precio de los derechos de emisión del CO2 de acuerdo con las cotizaciones internacionales, y el coste del coste de producción de las centrales infra marginales, por Acuerdo de Consejo de Ministros se podrá, suspender la aplicación de este ajuste a las centrales de carbón a las que se refiere la letra b) del apartado 1 del artículo 2.

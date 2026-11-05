@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Mantenimiento de la aplicabilidad del régimen establecido por el Real Decreto-ley 11/2007, de 7 de diciembre hasta el 1 de julio de 2009.
+
+El régimen establecido por el Real Decreto-ley 11/2007, de 7 de diciembre, por el que se detrae de la retribución de la actividad de producción de energía eléctrica el mayor ingreso derivado de la asignación gratuita de derechos de emisión de gases de efecto invernadero, seguirá siendo de aplicación hasta la supresión del sistema tarifario integral y la puesta en marcha de la tarifa de último recurso en el sector eléctrico, el 1 de julio de 2009.

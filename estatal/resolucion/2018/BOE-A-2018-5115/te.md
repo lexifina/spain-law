@@ -1,0 +1,3 @@
+## Tercero. Régimen transitorio para las pólizas de seguro de vida a prima única.
+
+No obstante lo previsto en el último inciso del apartado II.3 (tarifa para daños en las personas) de la 1.ª parte del Anexo I, en el caso de pólizas de seguro de vida a prima única contratadas con anterioridad a la fecha en que, de conformidad con el apartado 1 de la disposición transitoria única del Reglamento del seguro de riesgos extraordinarios, deban estar adaptadas al citado Reglamento en su redacción dada por el Real Decreto 1265/2006, de 8 de noviembre, el recargo a favor del Consorcio de Compensación de Seguros se podrá liquidar anualmente en función del capital en riesgo de cada anualidad.

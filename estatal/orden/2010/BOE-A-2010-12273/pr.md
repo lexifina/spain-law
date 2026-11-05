@@ -1,0 +1,21 @@
+El Reglamento (CE) n.º 1005/2008, del Consejo, de 29 de septiembre de 2008, por el que se establece un sistema comunitario para prevenir, desalentar y eliminar la pesca ilegal, no declarada y no reglamentada (INDNR), recoge una serie de normas por las que se ha de regir el acceso, el desembarque y el transbordo de productos pesqueros en puertos comunitarios de los buques pesqueros que enarbolan pabellón de terceros países, así como el transito, la importación, el transporte y la transformación de productos pesqueros, en un Estado distinto del de abanderamiento antes de entrar en la Unión Europea. También se aplica a las capturas de los buques comunitarios que vayan a exportarse a terceros países con los que previamente se hayan formalizado acuerdos.
+
+Esta norma exige la presentación de un certificado de captura como requisito previo a la introducción de los productos de la pesca en la Unión Europea y a la exportación de capturas de buques comunitarios a terceros países que lo requieran. Este certificado debe contener información que demuestre la legalidad de los productos y debe estar validado por el Estado de abanderamiento de los buques pesqueros que llevaron a cabo la captura del pescado. Asimismo, el citado reglamento establece que cada uno de los Estados miembros adoptará las medidas adecuadas para garantizar la eficacia del sistema.
+
+Esta regulación se complementa con el Reglamento (CE) n.º 1010/2009, de la Comisión, de 22 de octubre de 2009, por el que establecen normas de desarrollo del Reglamento (CE) n.º 1005/2008 del Consejo, de 29 de septiembre de 2008.
+
+Sin perjuicio de la aplicabilidad directa de esta normativa comunitaria, procede establecer los procedimientos relativos al control de las operaciones de acceso a servicios portuarios, desembarque y transbordo de los buques pesqueros de terceros países, al control de las operaciones de introducción en territorio español de productos de la pesca y a la exportación y re-exportación de dichos productos, así como regular aquellos aspectos de los mismos que requieran un desarrollo normativo de la regulación comunitaria.
+
+Los apartados 5 y 6 del artículo 39 de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado y la disposición adicional cuarta de la misma, facultan al Ministerio de Medio Ambiente, y Medio Rural y Marino, sin perjuicio de las competencias concurrentes de otros Departamentos, para dictar las disposiciones relativas al control de los productos pesqueros procedentes de países no comunitarios con ocasión de su desembarque o descarga en territorio nacional. Así se señala que tanto las autoridades portuarias, como las aduaneras, no podrán autorizar las entradas en puerto o en territorio español hasta que les conste el informe favorable del Ministerio de Medio Ambiente, Medio Rural y Marino.
+
+Por ello, la presente orden tiene por objeto facilitar a sus destinatarios la aplicación del reglamento 1005/2008, del Consejo, de 29 de septiembre de 2008 para el control de acceso a puertos españoles de buques pesqueros de terceros países y de la introducción en territorio español de productos de la pesca originarios de terceros países, con la finalidad de prevenir, desalentar y eliminar la pesca ilegal, no declarada y no reglamentada.
+
+Los actos de aplicación de la misma tienen su fundamento jurídico en el citado reglamento que es de directa aplicación. La competencia de los órganos a que se refiere la orden se deriva directamente de los reales decretos de estructura orgánica que atribuyen a dichos órganos la competencia para la adopción de los actos que se dicten en aplicación y cumplimiento de la presente Orden.
+
+Se ha cumplido con el trámite de comunicación a la Comisión Europea previsto en el artículo 38 del Reglamento (CE) n.º 2847/1993, del Consejo, de 12 de octubre de 1993, por el que se establece un control aplicable a la política pesquera común.
+
+En la elaboración de la presente orden han sido consultados las comunidades autónomas y el sector afectado.
+
+La presente orden se dicta de conformidad con lo establecido en el artículo 39 y en la disposición adicional cuarta de la Ley 3/2001, de 26 de marzo, de Pesca Marítima del Estado.
+
+En su virtud, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, de acuerdo con el Consejo de Estado, dispongo:

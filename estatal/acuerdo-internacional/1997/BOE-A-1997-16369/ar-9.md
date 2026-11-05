@@ -1,0 +1,3 @@
+## Artículo 9.
+
+La presente Acta estará abierta a la firma de todos los Estados miembros de la Conferencia Iberoamericana de Jefes de Estado y de Gobierno, hasta el 30 de junio de 1998.

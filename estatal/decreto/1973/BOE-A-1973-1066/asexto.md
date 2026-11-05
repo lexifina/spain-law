@@ -1,0 +1,3 @@
+## Artículo sexto.
+
+El cometido y funciones del Patronato, con independencia de los que reglamentariamente le correspondan, serán los de cooperar a la conservación y fomento del Parque, promover la ejecución y mejora de las vías de acceso, gestionar la concesión de los medios económicos precisos para que el Parque cumpla sus fines específicos; defender las bellezas y particularidades del mismo con el fin de que éstas sean respetadas por todos los visitantes y realizar cuantas gestiones considere conveniente a favor del Parque. Igualmente propondrá a la Dirección del ICONA cuantas medidas puedan ser beneficiosas para la integridad y mejora de Las Tablas de Daimiel.

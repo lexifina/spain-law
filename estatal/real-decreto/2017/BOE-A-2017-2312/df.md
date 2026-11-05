@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica. Se exceptúa de lo anterior la regulación relativa a los importadores en el artículo 3.1, y en el artículo 6.6.e).2.º, y en la Disposición adicional única respecto de terceros países, que se dicta al amparo del artículo 149.1.10.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en comercio exterior.

@@ -1,0 +1,1 @@
+El presente Real Decreto-ley se entiende tácitamente sustituido por la Ley 1/2013, de 14 de mayo, de medidas para reforzar la protección a los deudores hipotecarios, reestructuración de deuda y alquiler social. Ref. BOE-A-2013-5073

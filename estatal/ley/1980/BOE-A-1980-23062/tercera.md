@@ -1,0 +1,3 @@
+## Tercera.
+
+A petición razonada del órgano preautonómico o autonómico competente, previa propuesta de la correspondiente Diputación Provincial, en los supuestos de que no puedan conseguirse las necesarias aportaciones económicas de las Corporaciones Locales o que los estudios de viabilidad no las haga aconsejable, las obras previstas en la Ley veintiuno/mil novecientos setenta y uno, a realizar en la cuenca del Tajo y provincias de tránsito afectadas por el acueducto, se sustituirán por otras equivalentes o análogas. En todo caso, los estudios de viabilidad pendientes se realizarán conjuntamente con las Diputaciones y, en su caso, con el órgano preautonámico o autonómico que corresponda antes del plazo de seis meses, a partir de la promulgación de esta Ley.

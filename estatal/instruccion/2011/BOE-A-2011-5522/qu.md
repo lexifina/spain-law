@@ -1,0 +1,3 @@
+## Quinto. Facultades de las Junta Electorales.
+
+Corresponde a las Juntas Electorales que sean competentes en función del proceso electoral y del ámbito de difusión de la campaña velar por el cumplimiento de estos criterios, resolviendo las cuestiones concretas que le puedan plantear los sujetos participantes en los procesos electorales. En todo caso, no corresponde a las Juntas Electorales la autorización previa de actos institucionales, sino que su intervención se debe producir como consecuencia de la contestación de consultas, de la formulación de denuncias o reclamaciones, o de la interposición de recursos.

@@ -1,0 +1,11 @@
+La relevante importancia de los transportes en la economía nacional exige incorporar a nuestros medios de comunicación cuantos adelantos técnicos tiendan a su mejoramiento, con singular aplicación, por lo que se refiere a los de montaña, en las instalaciones de transporte por cable, de incesante desarrollo en gran número de países, porque, principalmente, habiendo alcanzado un alto grado de perfeccionamiento y seguridad los hace insustituibles en terrenos muy accidentados para el ejercicio de los deportes de montaña y para el desarrollo del turismo.
+
+El reducidísimo número de estas instalaciones en territorio español explica el que no se haya sentido la necesidad de regular específicamente las condiciones técnicas y administrativas que sirvan de base a sus concesiones que, tradicionalmente vinculadas al Ministerio de Obras Públicas, se otorgan como ferrocarriles de interés local y según la Ley de Ferrocarriles Secundarios y Estratégicos, de mil novecientos doce.
+
+La indudable extensión a que tienden en nuestro país estos transportes, tanto porque los avances de las distintas técnicas hacen económicamente asequibles construcciones y explotaciones antes irrealizables, como, muy principalmente, por los considerables y continuos incrementos de la práctica de los deportes de montaña y del turismo, aconseja subsanar la falta de legislación y reglamentación de especifica aplicación a los transportes por cable.
+
+Y al tratar de lograrlo con la presente Ley se advierte como del más alto interés acoger en su articulado aquellas puntualizaciones que, aunque innecesarias para lo que genéricamente afecta a los teleféricos, son convenientes para lo peculiar de los de aplicación deportiva o turística, Especialmente en lo que se refiere a la expropiación y servidumbres en sus zonas de influencia, sin las que decae, hasta casi extinguirse, la razón de su explotación, y a cuya conveniente previsión parece posible el llegar con la amplía y moderna orientación de la vigente Ley de Expropiación Forzosa, que permite el imponerla por razón de interés social y dentro de las sólidas garantías que aquella misma Ley exige en cuanto a los fundamentos para la expropiación por tal titulo.
+
+En su virtud, y de conformidad con la propuesta elaborada por las Cortes Españolas,
+
+## DISPONGO:

@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Control de la información.
+
+En tanto la remisión de la información contenida en esta orden es imprescindible para la elaboración de las correspondientes solicitudes de pago por parte de la Autoridad Responsable del Mecanismo de Recuperación y Resiliencia, el control del adecuado cumplimiento de las obligaciones de suministro de la información establecidas en esta orden se llevará a cabo aplicando lo previsto en el artículo 37 del Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia.

@@ -1,0 +1,11 @@
+Durante los meses de verano del pasado año 2003 se produjeron temperaturas muy elevadas en toda Europa que provocaron un importante aumento de la morbilidad y, como luego se ha comprobado, de la mortalidad por causas en las que el factor temperatura es un desencadenante. A fin de evitar estos episodios y reducir los efectos potenciales asociados a las olas de calor se va a poner en marcha un Plan de acción que, de forma integral, incluye tanto actuaciones preventivas como de control.
+
+El Plan establece las actuaciones necesarias para la detección y control de las situaciones de riesgo estructuradas en varios niveles de actuación, así como los plazos para la aplicación de las mismas. La participación de las administraciones implicadas, tanto a nivel central, autonómico y local, de organizaciones sociales y sobre todo la concienciación y el apoyo a los ciudadanos más vulnerables, serán fundamentales para evitar en la mayor medida posible daños en la población.
+
+Además prevé un sistema de información que permitirá la vigilancia activa de los riesgos asociados a la exposición a temperaturas extremas, recogiendo información predictiva sobre temperatura ambiental, asistencial y epidemiológica y mecanismos de alerta.
+
+Otro aspecto esencial de este Plan es la información a los ciudadanos, a los grupos de mayor riesgo, a los profesionales sanitarios y de los servicios sociales. Así, el Plan prevé la realización de campañas de información destinadas a adoptar las medidas más eficaces para la prevención y protección de la salud.
+
+Con el fin de coordinar las actuaciones de los distintos Departamentos en la materia, se hace necesaria la creación de una Comisión Interministerial encargada de garantizar la aplicación efectiva del Plan Nacional de Actuaciones Preventivas de los Efectos del Exceso de Temperaturas sobre la Salud que, de manera especial, centrará su actividad entre el 1 de junio y el 30 de septiembre de cada año.
+
+En su virtud, de acuerdo con lo previsto en el artículo 40 de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, a propuesta de los Ministros del Interior, de Trabajo y Asuntos Sociales, de Sanidad y Consumo y de Medio Ambiente y con la aprobación previa del Ministro de Administraciones Públicas, dispongo:

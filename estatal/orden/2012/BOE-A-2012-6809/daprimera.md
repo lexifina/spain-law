@@ -1,0 +1,5 @@
+## Disposición adicional primera. Aplicación de las pruebas y marcas a superar en los procesos de selección por promoción.
+
+1. En los procesos de selección para las formas de ingreso por promoción para cambio de escala o cuerpo, los militares profesionales podrán acreditar la aptitud física para el ingreso en los centros docentes militares de formación mediante la presentación del correspondiente certificado de haber superado las pruebas periódicas de evaluación física que, en el ámbito de sus competencias, puedan determinar el Subsecretario de Defensa o los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y del Ejército del Aire, siempre y cuando estas sean válidas en el momento que determine la convocatoria correspondiente.
+
+2. Dicha acreditación se efectuará solamente para aquellas pruebas que por sus características sean idénticas a las requeridas para la superación del proceso de selección, siendo condición indispensable el haber obtenido una marca al menos igual, inferior o, en su caso, superior, a la que figura en el anexo de esta orden para cada una de ellas.

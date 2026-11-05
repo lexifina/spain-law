@@ -1,0 +1,11 @@
+La imagen institucional de la Administración General del Estado, aprobada por Real Decreto 1465/1999, por el que se establecen criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado viene a potenciar una imagen única para evitar lo que en el preámbulo del citado decreto se denominaba «la atomización de la imagen de la Administración General del Estado en su percepción por los ciudadanos, con las consiguientes consecuencias en cuanto a la confusión y falta de identificación con lo que ha de constituir una organización homogénea en su proyección externa».
+
+Al amparo de esta regulación y en el ámbito de las campañas de publicidad, comunicación y difusión de acciones institucionales se ha considerado necesario añadir una nueva configuración de la imagen institucional en la que figure el logotipo «Gobierno de España». Esta nueva configuración debe tener su reflejo en los instrumentos que en la actualidad recogen los criterios de imagen institucional para la Administración General del Estado, en particular el «Manual de Imagen Institucional de la Administración General del Estado» y la «Guía para la edición y publicación de las páginas web en la Administración General del Estado».
+
+La Orden de 27 de septiembre de 1999 por la que se aprueba el Manual de Imagen Institucional de la Administración General del Estado y se dictan normas de desarrollo del Real Decreto 1465/1999, prevé en el apartado cuarto de su anexo que las sucesivas revisiones y actualizaciones del Manual de Imagen Institucional que, en su caso, hayan de realizarse, se aprobarán por el Secretario de Estado para la Administración Pública, competencias en la actualidad atribuidas a la Secretaría General para la Administración Pública.
+
+Por otra parte, la «Guía para la edición y publicación de páginas web en la Administración General del Estado» fue aprobada por la Resolución de 9 de marzo de 2005 de la Secretaría General para la Administración Pública.
+
+Por lo tanto es necesaria una nueva resolución de la Secretaría General para la Administración Pública para modificar los dos instrumentos anteriormente mencionados.
+
+En consecuencia, en virtud de las competencias atribuidas. por los artículos 8.1.d) y 8.1.e) y 10.1.d) del Real Decreto 1320/2004, de 28 de mayo resuelvo:

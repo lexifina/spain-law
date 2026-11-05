@@ -1,0 +1,11 @@
+## Disposición adicional tercera. Participación de las personas beneficiarias de prestaciones por desempleo en los programas de políticas activas de empleo.
+
+1. El Servicio Público de Empleo Estatal pondrá a disposición de los servicios públicos de empleo la información necesaria sobre las personas solicitantes y beneficiarias de prestaciones por desempleo para facilitar su selección e inclusión en los distintos programas de políticas activas de empleo, de acuerdo con lo establecido en el artículo 41 del texto refundido de la Ley de Empleo y los objetivos específicos que con tal finalidad se establezcan en los Planes Anuales de Política de Empleo.
+
+2. Para acceder a los programas de políticas activas de empleo ofrecidos por los servicios públicos de empleo, las personas beneficiarias de prestaciones por desempleo deberán estar inscritas como demandantes de empleo y servicios. Los servicios públicos de empleo posibilitarán que la citada inscripción se realice dentro de los plazos establecidos para la solicitud de las prestaciones.
+
+La inscripción implica la suscripción del compromiso de actividad, cuyas exigencias deberán cumplirse y quedarán recogidas en el documento de renovación de la demanda.
+
+3. Corresponde al servicio público de empleo competente para la gestión de los programas el seguimiento de la participación en los mismos de las personas beneficiarias de prestaciones por desempleo y la evaluación de los resultados obtenidos. Estos resultados, junto con las incidencias que se detecten en el citado seguimiento, se comunicarán a través del Sistema de Información de los Servicios públicos de empleo (SISPE). De igual forma, el servicio público de empleo competente trasladará las incidencias que le hayan sido comunicadas por las agencias de colocación u otras entidades que actúen como entidades colaboradoras en la gestión de los programas.
+
+En particular, comunicarán al Servicio Público de Empleo Estatal las sanciones impuestas, en su caso, en el ejercicio de su competencia a las personas beneficiarias a raíz de las infracciones constatadas en el seguimiento. Así mismo, comunicarán, en el momento en que se produzcan, las infracciones detectadas cuya sanción pudiera corresponder al citado organismo.

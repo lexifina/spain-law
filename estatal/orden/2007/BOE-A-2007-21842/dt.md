@@ -1,0 +1,3 @@
+## Disposición transitoria única. Comunicación del cambio de estado civil y petición de etiquetas identificativas por parte de personas físicas que figuren en el Censo de Empresarios, Profesionales y Retenedores.
+
+Las personas físicas que figuren en el Censo de Empresarios, Profesionales y Retenedores podrán utilizar el modelo 030, exclusivamente, para comunicar el cambio de estado civil, la modificación de datos identificativos y para realizar la petición de etiquetas identificativas, en tanto no se apruebe un nuevo modelo de Declaración censal de alta, modificación y baja en el Censo de Empresarios, Profesionales y Retenedores que contemple la posibilidad de comunicar la citada información.

@@ -1,0 +1,31 @@
+## ANEXO III
+
+## Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico Superior en Gestión del agua
+
+| Modulo Profesional | Especialidad del profesorado | Cuerpo |
+| --- | --- | --- |
+| 1580.Técnicas de montaje en instalaciones de agua. | – Instalación y Mantenimiento de Equipos Térmicos y de Fluidos. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| – Mecanizado y mantenimiento de máquinas | – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional. |
+| 1575.Configuración de redes de agua. | – Organización y Proyectos de Sistemas Energéticos. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1574.Gestión eficiente del agua. | – Organización y Proyectos de Sistemas Energéticos. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1573.Calidad y tratamiento de aguas. | – Organización y Proyectos de Sistemas Energéticos. – Análisis y Química Industrial. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1572.Planificación y replanteo. | – Oficina de Proyectos de Construcción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| 1579.Gestión de operaciones, calidad y medioambiente. | – Organización y Proyectos de Sistemas Energéticos. – Organización y Proyectos de Fabricación Mecánica. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1577.Automatismos y telecontrol en instalaciones de agua. | – Sistemas Electrotécnicos y Automáticos. – Sistemas Electrónicos. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1578.Operaciones en redes e instalaciones de agua. | – Instalación y Mantenimiento de Equipos Térmicos y de Fluidos. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| 1576.Sistemas eléctricos en instalaciones de agua. | – Instalación y Mantenimiento de Equipos Térmicos y de Fluidos. – Instalaciones Electrotécnicas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| 0309.Técnicas de comunicación y relaciones. | – Organización y Proyectos de Sistemas Energéticos. – Organización y Procesos de Mantenimiento de Vehículos. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1581. Proyecto intermodular en gestión eficiente del agua. | – Organización y Proyectos de Sistemas Energéticos. – Organización y Proyectos de Fabricación Mecánica. – Organización y Procesos de Mantenimiento de Vehículos. – Sistemas Electrotécnicos y Automáticos. – Sistemas Electrónicos. – Análisis y Química Industrial. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| – Instalación y Mantenimiento de Equipos Térmicos y de Fluidos. – Oficina de Proyectos de Construcción. – Instalaciones Electrotécnicas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| – Mecanizado y mantenimiento de máquinas | – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional. |
+| 1709. Itinerario personal para la empleabilidad I. | – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1710. Itinerario personal para la empleabilidad II. | – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1708. Sostenibilidad aplicada al sistema productivo. | – Organización y Proyectos de Sistemas Energéticos. – Organización y Proyectos de Fabricación Mecánica. – Organización y Procesos de Mantenimiento de Vehículos. – Sistemas Electrotécnicos y Automáticos. – Sistemas Electrónicos. – Análisis y Química Industrial. – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| – Instalación y Mantenimiento de Equipos Térmicos y de Fluidos. – Oficina de Proyectos de Construcción. – Instalaciones Electrotécnicas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| – Mecanizado y mantenimiento de máquinas | – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional. |
+| 1665. Digitalización aplicada a los sectores productivos (GS). | – Organización y Proyectos de Sistemas Energéticos. – Organización y Proyectos de Fabricación Mecánica. – Organización y Procesos de Mantenimiento de Vehículos. – Sistemas Electrotécnicos y Automáticos. – Sistemas Electrónicos. – Análisis y Química Industrial. – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| – Instalación y Mantenimiento de Equipos Térmicos y de Fluidos. – Oficina de Proyectos de Construcción. – Instalaciones Electrotécnicas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| – Mecanizado y mantenimiento de máquinas | – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. – Cuerpo de Profesores Especialistas en Sectores Singulares de la Formación Profesional. |
+| 0179. Inglés Profesional (GS). | – Inglés. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+
+> Se suprimen los anexos III A), III B), III C) y III D), y se añade el anexo III con el contenido que figura como anexo LXVI del Real Decreto 500/2024, de 21 de mayo, según establece su art. 8.65.Ref. BOE-A-2024-10685

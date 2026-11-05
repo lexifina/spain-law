@@ -1,0 +1,5 @@
+## Disposición final cuarta. Normativa subsidiaria y supletoria.
+
+1. La entrada, permanencia y trabajo en España de los familiares de los ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, incluidos en el ámbito de aplicación del presente real decreto, se regirán por la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, en aquellos casos en que no quede acreditada la concurrencia de los requisitos previstos en el presente real decreto.
+
+2. Las normas de carácter general contenidas en la citada Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social, así como las normas reglamentarias vigentes sobre la materia, serán aplicables a los supuestos comprendidos en el ámbito de aplicación del presente real decreto, con carácter supletorio y en la medida en que pudieran ser más favorables y no se opongan a lo dispuesto en los Tratados constitutivos de las Comunidades Europeas, así como en el Derecho derivado de los mismos.

@@ -1,0 +1,3 @@
+## Disposición final decimosexta. Ley de promoción de la inclusión laboral de personas con discapacidad.
+
+El Gobierno, en el plazo de doce meses desde la entrada en vigor de esta Ley, remitirá a las Cortes Generales un Proyecto de Ley de promoción de la inclusión laboral de personas con discapacidad, con el fin de establecer un nuevo sistema de promoción que ayude a la creación y mantenimiento del empleo de calidad de estas personas, previa consulta a las Comunidades Autónomas, a los interlocutores sociales y a las asociaciones más representativas de las personas con discapacidad y sus familias.

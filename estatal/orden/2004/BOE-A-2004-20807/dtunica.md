@@ -1,0 +1,3 @@
+## Disposición transitoria única. Formación y rendición de cuentas de ejercicios anteriores a 2006.
+
+La formación y rendición de cuentas de ejercicios anteriores a 2006 se ajustará a las normas previstas en la Instrucción de contabilidad para la Administración local o en la Instrucción de contabilidad del tratamiento especial simplificado para entidades locales de ámbito territorial con población inferior a 5.000 habitantes, aprobadas por Órdenes del Ministro de Economía y Hacienda, de 17 de julio de 1990, que se hubiera aplicado en el ejercicio correspondiente, o a las normas contenidas en la Instrucción que aprueba esta Orden.

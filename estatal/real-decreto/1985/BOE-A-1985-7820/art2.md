@@ -1,0 +1,3 @@
+## Art. 2.
+
+A los efectos exclusivos del régimen de incompatibilidades, se entenderán entidades colaboradoras y concertadas de la Seguridad Social en la prestación sanitaria, incluidas en el sector público que delimita el artículo primero de la Ley 53/1984, aquellas entidades de carácter hospitalario o que realicen actividades propias de estos centros, que mantengan concierto o colaboración con alguna de las Entidades gestoras de la Seguridad Social, siendo su objeto precisamente la asistencia sanitaria que éstas están obligadas a prestar a los beneficiarios de cualquiera de los regímenes de la Seguridad Social.

@@ -1,0 +1,7 @@
+## Disposición adicional decimocuarta. Colaboración entre el Instituto Nacional de la Seguridad Social y la Jefatura Central de Tráfico.
+
+Cuando con ocasión de la tramitación por el Instituto Nacional de la Seguridad Social de un procedimiento para el reconocimiento de una pensión de incapacidad permanente a un trabajador profesional de la conducción, el órgano competente para la emisión del dictamen-propuesta proponga la declaración de la situación de incapacidad permanente como consecuencia de limitaciones orgánicas o funcionales que disminuyan o anulen la capacidad de conducción de vehículos a motor, lo pondrá en conocimiento de la Dirección Provincial para que dé aviso de la situación del trabajador al Organismo Autónomo Jefatura Central de Tráfico, a efectos de la iniciación del procedimiento de declaración de pérdida de vigencia de alguna o de todas las clases del permiso o licencia de conducción del que sea titular dicho conductor profesional, por desaparición de los requisitos para su otorgamiento. En dicho aviso en ningún caso se harán constar historias clínicas, documentación u otros datos relativos a la salud del trabajador afectado.
+
+> Téngase en cuenta que esta disposición, añadida por el art. único.39 de la Ley 18/2021, de 20 de diciembre, Ref. BOE-A-2021-21006#au, entra en vigor el 21 de marzo de 2022, según determina su disposición final cuarta.
+
+> Se añade, con efectos de 21 de marzo de 2022, por el art. único.39 de la Ley 18/2021, de 20 de diciembre. Ref. BOE-A-2021-21006#au

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+Hasta el 1 de enero de 2005, fecha de entrada en vigor de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, las referencias efectuadas en el texto refundido que aprueba este real decreto legislativo a la Ley 47/2003, de 26 de noviembre, se entenderán realizadas a los correspondientes del texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto Legislativo 1091/1988, de 23 de septiembre, en los términos que disponía la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales.

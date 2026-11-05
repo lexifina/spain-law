@@ -1,0 +1,3 @@
+## Artículo decimocuarto.
+
+La Comisión Mixta procederá al traspaso de los servicios del Estado inherentes a las competencias que atribuyen a la Generalidad el Estatuto de Cataluña con la máxima celeridad posible y sin interrupción, hasta dejarlos completados en el más breve plazo. Sin perjuicio de los calendarios que para el mejor desarrollo de su trabajo pueda establecer en cada momento, en el plazo de dos años, a contar desde su constitución, deberá acordar formalmente el término dentro del cual tendrá que completar la totalidad de los traspasos comprendidos en la función que tiene encomendada, elevando seguidamente dicho acuerdo al Gobierno central y al Consejo Ejecutivo o Gobierno de la Generalidad.

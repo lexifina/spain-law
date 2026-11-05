@@ -1,0 +1,21 @@
+El suelo es un factor de producción esencial en la agricultura. Además de actuar como soporte físico de los cultivos, les proporciona los nutrientes, el aire y el agua que precisan.
+
+La evolución de la agricultura intensiva ha traído consigo el empleo en la actividad agraria de nuevos insumos como son los sustratos de cultivo. Estos medios de producción han resultado básicos para el desarrollo de actividades como semilleros, viveros, horticultura intensiva protegida, etc. Asimismo, existen otros usos para los que son igualmente importantes como la jardinería y el paisajismo.
+
+Los sustratos de cultivo, como sustitutivos del suelo tradicional, permiten el anclaje y adecuado crecimiento del sistema radicular de la planta. Dependiendo del tipo de sustrato, puede también intervenir o no en su alimentación. De todas las funciones que pueden desenvolver, se desprende la importancia de definir las características físicas, químicas y biológicas de los sustratos de cultivo.
+
+El Reglamento (CE) n.º 2003/2003 del Parlamento Europeo y del Consejo, de 13 de octubre de 2003, relativo a los abonos regula los fertilizantes tipificados como «abonos CE», para su libre circulación por la Unión Europea. Sin embargo existen otros productos utilizados en la agricultura que no están contemplados en el citado reglamento comunitario, por lo que fue necesario publicar el Real Decreto 824/2005, de 8 de julio, sobre productos fertilizantes, haciendo un especial énfasis en aquellos que se fabrican utilizando como materia prima materiales de origen orgánico. En el artículo 3 de este real decreto, referido a su ámbito de aplicación, se excluyen los sustratos o soportes de cultivo, indicándose que se regularán por una norma específica que prevea sus características, ingredientes y comercialización, considerando que existen productos fertilizantes que pueden incorporarse como aditivos a los sustratos de cultivo. Para mantener la uniformidad en las definiciones de ambos decretos, se hace necesario modificar la redacción del apartado d) del artículo 3.3 del citado Real Decreto 824/2005, de 8 de julio.
+
+En la actualidad, no existe normativa comunitaria ni nacional específica sobre estos productos, a pesar del esfuerzo por normalizar el sector a través de normas técnicas, tanto UNE como ISO o EN, habida cuenta de que su seguimiento es voluntario.
+
+Como consecuencia de lo expuesto anteriormente, se ha elaborado este real decreto sobre sustratos de cultivo que define y tipifica todos aquellos productos así denominados, con el fin de garantizar que los que se ponen en el mercado sean agronómicamente eficaces y que eviten sus posibles efectos nocivos en el agua, el suelo, la flora, la fauna y el ser humano.
+
+Lo dispuesto en el presente real decreto tiene el carácter de normativa básica al amparo de lo establecido en el artículo 149.1.13.ª, 16.ª y 23.ª de la Constitución, que reserva al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, bases y coordinación general de la sanidad y legislación básica sobre protección del medio ambiente, respectivamente. Estas bases se establecen mediante real decreto debido al carácter marcadamente técnico de la materia a regular.
+
+En el proceso de elaboración de este real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+Este real decreto ha sido sometido al procedimiento de información en materia de normas y reglamentaciones técnicas, previsto en el Real Decreto 1337/1999, de 31 de julio, por el que se regula la remisión de información en materia de normas y reglamentaciones técnicas y reglamentos relativos a los servicios de la sociedad de la información, previsto en la Directiva 98/34/CE del Parlamento Europeo y del Consejo, de 22 de junio de 1998, por la que se establece un procedimiento de información en materia de normas y reglamentaciones técnicas.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino y de la Ministra de Sanidad y Política Social, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de julio de 2010,
+
+DISPONGO:

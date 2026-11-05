@@ -1,0 +1,3 @@
+## Artículo 2. Ámbito de aplicación.
+
+Esta orden será de aplicación a las instalaciones tipo correspondientes a instalaciones de tratamiento y reducción de purines de porcino, definidas en el apartado 2 del anexo I de la Orden IET/1045/2014, de 16 de junio, que tienen códigos de instalación tipo sucesivos comprendidos entre el código IT-01412 y el código IT-01427, ambos incluidos.

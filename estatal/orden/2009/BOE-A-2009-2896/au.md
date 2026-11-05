@@ -1,0 +1,3 @@
+## Artículo único. Requisitos de los planes de estudios conducentes a la obtención de los títulos de Máster que habiliten para el ejercicio de la profesión de Ingeniero Naval y Oceánico.
+
+Los planes de estudios conducentes a la obtención de los títulos de Máster que habiliten para el ejercicio de la profesión de Ingeniero Naval y Oceánico, deberán cumplir, además de lo previsto en el Real Decreto 1393/2007, de 29 de octubre, por el que se establece la ordenación de las enseñanzas universitarias oficiales, los requisitos respecto a los apartados del anexo I del mencionado Real Decreto que se señalan en el Anexo a la presente Orden.

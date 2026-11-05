@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Anuncios y edictos de publicación obligatoria por los Registradores en el «Boletín Oficial del Estado».
+
+Los anuncios y edictos que los Registradores de la Propiedad, Mercantiles y de Bienes Muebles, así como los Notarios, deban publicar en el «Boletín Oficial del Estado» con carácter supletorio cuando, en los procedimientos en los que intervengan por razón de su cargo, los interesados sean desconocidos, se ignore el lugar de la notificación o, tras dos intentos, hubiera resultado infructuosa la notificación personal, tendrán el tratamiento previsto en la disposición adicional vigésimo primera de la Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.

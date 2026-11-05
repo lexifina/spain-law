@@ -1,0 +1,3 @@
+## Disposición adicional octava. Actualización de las ayudas sociales del Real Decreto-ley 9/1993, de 28 de mayo, por el que se conceden ayudas a los afectados por el Virus de Inmunodeficiencia Humana (VIH) como consecuencia de actuaciones realizadas en el sistema sanitario público.
+
+De acuerdo con lo establecido en la disposición adicional cuadragésima quinta de la Ley 11/2020, de 30 de diciembre, las cuantías mensuales de las ayudas sociales, en favor de las personas que resultaron contaminadas por el Virus de Inmunodeficiencia Humana (VIH), reguladas en las letras b), c) y d) del artículo 2.1 del Real Decreto-ley 9/1993, de 28 de mayo, se determinarán mediante la aplicación de las proporciones reguladas en las letras citadas sobre el importe de 645,08 euros.

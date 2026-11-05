@@ -1,0 +1,13 @@
+## Primera. Ámbito de aplicación.
+
+1. La presente resolución tiene por objeto regular, en el ámbito de la Intervención General de la Administración del Estado, la aplicación de la auditoría pública al sector público estatal, así como a aquellas sociedades y fundaciones públicas con participación del Estado que cumplan las condiciones establecidas para ser objeto de esta modalidad de control.
+
+2. Las instrucciones contenidas en esta resolución serán aplicables, en particular a las auditorías que se realicen sobre:
+
+a) Los órganos de la Administración General del Estado, organismos autónomos, entidades, sociedades, mutuas, fundaciones, fondos y consorcios pertenecientes al sector público estatal a que se refiere el artículo 2 de la Ley General Presupuestaria.
+
+b) Las agencias estatales creadas al amparo de la Ley 28/2006, de 18 de julio, de agencias estatales para la mejora de los servicios públicos.
+
+c) Las sociedades mercantiles y fundaciones públicas con participación del sector público estatal previstas en la disposición adicional novena de la Ley General Presupuestaria, cuando sus normas de creación, sus estatutos o cualquier acuerdo o pacto entre las diferentes administraciones partícipes hayan atribuido la actividad de auditoría a la Intervención General de la Administración del Estado, en los términos que se fijen en las citadas normas o acuerdos.
+
+3. Lo dispuesto en esta resolución será también de aplicación a las auditorías públicas realizadas sobre aquellas otras entidades que sean sometidas a esta modalidad de control.

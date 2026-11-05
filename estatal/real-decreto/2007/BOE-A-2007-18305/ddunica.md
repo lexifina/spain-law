@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 377/1991, de 15 de marzo, sobre comunicación de participaciones significativas en sociedades cotizadas y de adquisición por éstas de acciones propias, la Orden Ministerial de 18 de enero de 1991 sobre información pública periódica de las Entidades emisoras de valores admitidos a negociación en Bolsas de Valores, la Orden Ministerial de 23 de abril de 1991, de desarrollo del Real Decreto 377/1991, de 15 de marzo, sobre comunicación de participaciones significativas en sociedades cotizadas y de adquisiciones por éstas de acciones propias y cuantas normas de igual o inferior rango se opongan a lo contenido en este Real Decreto.

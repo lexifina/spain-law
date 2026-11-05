@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Solicitudes de prestaciones por desempleo formuladas al amparo del artículo 2 del Real Decreto-ley 17/2020, de 5 de mayo, por el que se aprueban medidas de apoyo al sector cultural y de carácter tributario para hacer frente al impacto económico y social del COVID-2019, que se encuentren pendientes de resolución o que hubieran sido denegadas.
+
+Las solicitudes de prestaciones por desempleo formuladas al amparo de lo dispuesto en el artículo 2 del Real Decreto-ley 17/2020, de 5 de mayo, por el que se aprueban medidas de apoyo al sector cultural y de carácter tributario para hacer frente al impacto económico y social del COVID-2019, que se encuentren pendientes de resolución a la entrada en vigor del presente real decreto-ley, se resolverán de acuerdo con las normas establecidas en este último.
+
+En el caso de que las solicitudes ya hubieran sido denegadas a la entrada en vigor del presente real decreto-ley, los interesados podrán volver a presentarlas con arreglo a lo dispuesto en este último.

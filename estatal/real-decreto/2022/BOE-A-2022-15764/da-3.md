@@ -1,0 +1,13 @@
+## Disposición adicional tercera. Reconocimiento provisional del importe del ingreso mínimo vital al amparo de información tributaria de carácter provisional.
+
+Cuando la información tributaria relativa a los ingresos anuales correspondientes al año anterior, accesible al Instituto Nacional de la Seguridad Social para el reconocimiento del ingreso mínimo vital o para la actualización anual de su cuantía, de acuerdo con lo previsto en el artículo 21.7 de la Ley 19/2021, de 20 de diciembre, por la que se establece el ingreso mínimo vital, tenga carácter provisional, la citada entidad gestora podrá reconocer el importe de la prestación o modificar su cuantía, con carácter provisional, teniendo en cuenta dicha información.
+
+Si posteriormente se modificase esa información y se comprobase que, en base a los nuevos datos, el importe del derecho reconocido o revalorizado provisionalmente hubiera de ser otro, se emitirá la resolución definitiva que proceda.
+
+Si la información tributaria provisional no fuese modificada, la resolución provisional devendrá definitiva el 31 de diciembre del ejercicio en el que se hubiese llevado a cabo el reconocimiento del derecho o la revisión del importe.
+
+Cuando la modificación de la información tributaria determine que se hayan abonado importes en exceso a los beneficiarios del ingreso mínimo vital, aquellos podrán ser objeto de compensación directa mediante su descuento sobre la cuantía de la prestación del ingreso mínimo vital que, en su caso, hubiere de ser abonada en virtud de la resolución definitiva, garantizando el percibo del 30 por ciento mensual de esta cuantía. Dicha compensación procederá únicamente cuando el importe total percibido en exceso pueda ser descontado, aplicando la citada garantía, en un período máximo de doce mensualidades. En otro caso, se aplicará, según proceda, el procedimiento general o especial de reintegro de prestaciones de la Seguridad Social indebidamente percibidas.
+
+Cuando, aplicada la compensación a que se refiere el párrafo anterior, y sin finalizar el descuento de la totalidad del importe percibido en exceso, se produzca una nueva variación en la cuantía de la prestación del ingreso mínimo vital por las causas indicadas en esta disposición adicional, ello podrá dar lugar a recalcular el importe objeto de compensación, así como el descuento mensual aplicable, computándose un nuevo período de doce meses y aplicando la garantía del 30 por ciento a la nueva cuantía de la prestación.
+
+Los importes percibidos en exceso, el descuento mensual y el plazo de compensación se comunicarán al interesado con la resolución definitiva que se dicte de acuerdo con lo previsto en el párrafo segundo de esta disposición adicional.

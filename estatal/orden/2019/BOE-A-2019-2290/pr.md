@@ -1,0 +1,5 @@
+## Primero.
+
+Eliminar el VIH de las causas de exclusiones médicas exigibles para el acceso al empleo público, de modo que se pueda aplicar esta medida a todas las convocatorias de pruebas selectivas de personal funcionario, estatutario y laboral, que se convoquen con posterioridad a la fecha de adopción del presente Acuerdo y, en todo caso, a partir de las derivadas de la Oferta de Empleo Público del año 2019, adaptándolas a la evidencia científica en el momento de la convocatoria, sujeto al dictamen del órgano facultativo correspondiente y sin perjuicio de la superación de las pruebas selectivas en cada caso.
+
+Limitar de las causas de exclusiones médicas exigibles en todas las convocatorias de pruebas selectivas de Fuerzas Armadas y Fuerzas y Cuerpos de Seguridad del Estado, que se convoquen con posterioridad a la fecha de adopción del presente Acuerdo y, en todo caso, a partir de las derivadas de la Oferta de Empleo Público del año 2020, el VIH, adaptándolo a la evidencia científica en el momento de la convocatoria, sujeto al dictamen del órgano facultativo correspondiente y sin perjuicio de la superación de las pruebas selectivas en cada caso.

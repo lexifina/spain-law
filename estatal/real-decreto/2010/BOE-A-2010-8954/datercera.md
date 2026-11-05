@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Implantación de las enseñanzas artísticas superiores de grado en Arte dramático.
+
+De conformidad con lo establecido en la disposición adicional primera de la Ley Orgánica 2/2006, de 3 de mayo, y en el artículo 23 del Real Decreto 806/2006, de 30 de junio, por el que se establece el calendario de aplicación de la nueva ordenación del sistema educativo regulada en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el curso académico 2010/2011 se iniciará la implantación progresiva de las enseñanzas artísticas superiores de Graduado o Graduada en Arte dramático que se regulan en el presente real decreto.

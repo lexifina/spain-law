@@ -1,0 +1,7 @@
+## Artículo sesenta y uno. Fondo de Compensación Interterritorial.
+
+Uno. El Fondo de Compensación Interterritorial, dotado por un importe 196.000 millones de pesetas para el ejercicio de 1986, a través de los créditos que figuran en la Sección 33 y con los de inversiones que figuran en los presupuestos de gastos de los Departamentos ministeriales y Organismos Autónomos, que se incluyen en el anexo a esa misma Sección, se destinará a financiar los proyectos que se encuentran en dicho anexo.
+
+Dos. Si durante el ejercicio de 1986 se transfieren servicios a las Comunidades Autónomas que lleven aparejada asunción por las mismas de competencias de ejecución de proyectos del Fondo, que inicialmente figurasen como proyectos a ejecutar por los Departamentos ministeriales, por el Ministerio de Economía y Hacienda se procederá a transferir los créditos que no hayan sido comprometidos al concepto que proceda para situarlos a disposición de la Comunidad Autónoma que corresponda.
+
+Tres. De conformidad con lo dispuesto en la disposición adicional segunda de la Ley 7/1984, de 31 de marzo, del Fondo de Compensación interterritorial, todas las Comunidades Autónomas deberán tener aprobado antes del día 1 de junio de 1986 un Programa de Desarrollo Regional para el periodo 1987/1990, elaborado conforme a la metodología aprobada en Consejo de Ministros con fecha 20 de febrero de 1985, y en coordinación con el Programa de Inversiones Públicas elaborado por la Administración Central para el mismo período.

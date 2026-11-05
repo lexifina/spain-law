@@ -1,0 +1,3 @@
+## Disposición adicional primera. Normativa en materia de pesca.
+
+El real decreto se aplica sin perjuicio de la restante normativa relacionada con esta materia, como la Ley 5/2023, de 17 de marzo, de Pesca Sostenible e Investigación Pesquera, el Reglamento (CE) núm. 1967/2006 del Consejo, de 21 de diciembre de 2006, relativo a las medidas de gestión para la explotación sostenible de los recursos pesqueros en el Mar Mediterráneo, la normativa específica de los espacios naturales protegidos y de la Red Natura 2000 y la de las Reservas Marinas de Interés Pesquero y Zonas Protegidas de Interés Pesquero.

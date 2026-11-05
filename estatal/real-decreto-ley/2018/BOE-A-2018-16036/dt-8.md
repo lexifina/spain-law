@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Prohibición de abuso por los proveedores de servicios de pago gestores de cuenta.
+
+Durante el período anterior a la fecha de cumplimiento del Reglamento Delegado (UE) 2018/389 de la Comisión de 27 de noviembre de 2017, por el que se complementa la Directiva (UE) 2015/2366 del Parlamento Europeo y del Consejo en lo relativo a las normas técnicas de regulación para la autenticación reforzada de clientes y unos estándares de comunicación abiertos, comunes y seguros, ningún proveedor de servicios de pago gestor de cuenta podrá abusar de la situación de incumplimiento para impedir o dificultar la utilización de servicios de iniciación de pagos y servicios de información sobre cuentas en relación con las cuentas de cuya gestión se encargue.

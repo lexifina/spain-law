@@ -1,0 +1,5 @@
+## Disposición adicional novena. Centros que imparten Enseñanzas Profesionales de Artes Plásticas y Diseño.
+
+1. Sin perjuicio de lo dispuesto en el artículo 111.3 de la Ley Orgánica 2/2006, de 3 de mayo, cuando las Enseñanzas Profesionales de Artes Plásticas y Diseño se ofrezcan en centros en los que se impartan, simultáneamente, otras enseñanzas, deberá salvaguardarse su identidad propia y, en todo caso, se velará por el cumplimiento de las condiciones establecidas en la normativa reguladora de los títulos correspondientes.
+
+2. De conformidad con lo establecido en la disposición adicional sexta de la Ley 1/2024, de 7 de junio, corresponde a las administraciones educativas competentes regular las condiciones por las que los centros que impartan las Enseñanzas Profesionales de Artes Plásticas y Diseño puedan incorporar a su Consejo Escolar un representante propuesto por las instituciones culturales, empresas u organismos equiparados, presentes en el ámbito de acción del centro, preferentemente aquellas en las que el estudiantado haga su formación práctica.

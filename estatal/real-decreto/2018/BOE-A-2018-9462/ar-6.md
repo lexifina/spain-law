@@ -1,0 +1,3 @@
+## Artículo 6. Peso de la canal.
+
+Para la determinación del peso en frío, tal y como establece el artículo 14 del Reglamento Delegado (UE) 2017/1182 de la Comisión, de 20 de abril de 2017, y en virtud de lo que establece el artículo 7 del mismo reglamento, si en un determinado matadero no puede respetarse el plazo de 45 minutos entre el degüello y el pesaje de la canal, el pesaje podrá efectuarse después de ese periodo, a condición de que la deducción del 2% contemplada en el artículo 14.3 del Reglamento Delegado (UE) 2017/1182 de la Comisión, de 20 de abril de 2017, se reduzca un 0,1 % por cada cuarto de hora adicional, o parte del mismo, cuando el tiempo entre el degüello y el pesaje supere los 45 minutos.

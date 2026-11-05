@@ -1,0 +1,3 @@
+## Disposición adicional decimonovena. Instalaciones de generación a partir de fuentes de energía renovables, cogeneración de alta eficiencia y residuos, ubicadas en los sistemas eléctricos no peninsulares.
+
+Las instalaciones de generación a partir de fuentes de energía renovables, cogeneración de alta eficiencia y residuos, ubicadas en los sistemas eléctricos no peninsulares que a la fecha de entrada en vigor de la Ley 17/2013, de 29 de octubre, para la garantía del suministro e incremento de la competencia en los sistemas eléctricos insulares y extrapeninsulares dispusieran de autorización administrativa, quedarán exceptuadas de la aplicación de lo dispuesto en el artículo 2 de la citada ley.

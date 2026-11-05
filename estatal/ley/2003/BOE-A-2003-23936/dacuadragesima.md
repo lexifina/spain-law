@@ -1,0 +1,7 @@
+## Disposición adicional cuadragésima. Exención del pago de las tasas por reserva del dominio público radioeléctrico para las reservas de uso privativo de dicho dominio que se efectúen con destino a cubrir las necesidades derivadas de la celebración de la XXXII Edición de la Copa América a celebrar en Valencia en el año 2007.
+
+1. El Ministerio de Ciencia y Tecnología, por sí o a través del organismo competente para la gestión del dominio público radioeléctrico, podrán otorgar el derecho de uso privativo del dominio público radioeléctrico, con carácter temporal, a las personas o entidades públicas o privadas que presten servicios relacionados con la organización y celebración de la XXXII Edición de la Copa América 2007 en la ciudad de Valencia.
+
+2. Queda exenta del pago de la tasa prevista en el anexo 1.3 de la Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones, o equivalente que le sea de aplicación, la reserva para uso privativo de cualquier frecuencia del dominio público radioeléctrico a favor de cualesquiera personas o entidades públicas o privadas para la prestación de servicios relacionados con la organización y celebración de la XXXII Edición de la Copa América 2007 en la ciudad de Valencia.
+
+3. A tal efecto, los interesados deberán solicitar fundadamente la exención del órgano competente, fijando en la solicitud el plazo para el que solicitan la exención y las razones que justifican la afectación del uso de dichas frecuencias a los acontecimientos derivados de la celebración de dicha competición deportiva.

@@ -1,0 +1,7 @@
+## Disposición adicional novena. Bienes y derechos incautados en el extranjero.
+
+1. Las disposiciones previstas en la Ley 43/1998, de 15 de diciembre, de Restitución o Compensación a los Partidos Políticos de Bienes y Derechos Incautados en aplicación de la normativa sobre responsabilidades políticas del período 1936-1939, serán de aplicación a los bienes y derechos obtenidos en el extranjero en ejecución del Acuerdo Internacional firmado entre el Estado Español y la República de Francia, el 25 de febrero de 1939 (Acuerdo Bérard-Jordana), la Ley de 30 de enero de 1940 y el Decreto de 6 de mayo de 1940; aun cuando el título de propiedad del Reino de España hubiera venido a ser atribuido por resoluciones administrativas o judiciales de estados extranjeros.
+
+2. Además de los beneficiarios previstos en el artículo 3 de la Ley 43/1998, de 15 de diciembre, lo serán también los partidos políticos respecto a los bienes inmuebles y derechos de contenido patrimonial o económico que hubiesen pertenecido a personas físicas o jurídicas vinculadas a dichos partidos políticos con carácter fiduciario o bajo cualquier forma de cobertura jurídica sustentada en negocios o pactos de interposición personal.
+
+En el caso de estos bienes inmuebles, se abre un plazo de un año para el ejercicio de derechos y acciones de reclamación que comenzará a partir del día siguiente a la entrada en vigor de la presente ley, según el procedimiento de tramitación y resolución previsto por el artículo 6 de la Ley 43/1998, de 15 de diciembre.

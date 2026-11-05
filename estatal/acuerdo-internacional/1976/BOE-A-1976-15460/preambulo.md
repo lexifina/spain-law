@@ -1,0 +1,1 @@
+Norma sustituida, a todos los efectos, por el Convenio entre España e Italia en materia de Seguridad Social, hecho en Madrid el 30 de octubre de 1979, según establece su art. 53. Ref. BOE-A-1983-32829#a53.

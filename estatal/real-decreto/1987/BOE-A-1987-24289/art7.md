@@ -1,0 +1,3 @@
+## Art. 7. Colaboración de empleados públicos.
+
+Para la aplicación de lo dispuesto en este Real Decreto, el Ministro de Economía y Hacienda podrá, previo acuerdo con la autoridad competente de otro Estado miembro en el marco del procedimiento de consulta contemplado en el artículo 9.° de la Directiva 77/799/CEE, de 19 de diciembre, autorizar la presencia en España, incluso en el desarrollo de actuaciones de la Inspección de los Tributos, de personal al servicio de la Administración Tributaria de aquel Estado, así como solicitar la presencia en el territorio de aquel Estado de funcionarios de la Administración Tributaria española. Los términos de esta colaboración se establecerán en el marco del mismo procedimiento de consulta.

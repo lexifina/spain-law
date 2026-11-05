@@ -1,0 +1,7 @@
+## Disposición final primera. Aplicación y desarrollo.
+
+1. Mediante Resolución de la Secretaría General para la Administración Pública del Ministerio de Administraciones Públicas, con la conformidad del Ministerio del Interior y previo informe del Consejo Superior de Administración Electrónica, se establecerán los parámetros de calidad de la prestación del servicio del Sistema de Verificación de Datos de Identidad y de cumplimiento de los requisitos y condiciones establecidas en la presente Orden Ministerial. A estos efectos, el Ministerio de Administraciones Públicas establecerá instrumentos de validación y vigilancia del cumplimiento de lo establecido en el párrafo anterior, sin perjuicio de las competencias de los Órganos de Control Interno.
+
+2. Mediante Resolución de la Secretaría General para la Administración Pública del Ministerio de Administraciones Públicas, con la conformidad del Ministerio del Interior y previo informe del Consejo Superior de Administración Electrónica, se podrá proceder a la actualización o modificación del Reglamento Técnico que se aprueba por la presente Orden Ministerial.
+
+3. Se faculta a los Subsecretarios de los departamentos Ministeriales, a los Presidentes de los Organismos Públicos o a los responsables ministeriales correspondientes, para la adopción de las instrucciones o medidas que resulten adecuadas para garantizar el acceso y la utilización del Sistema de Verificación de Datos de Identidad por los órganos y unidades correspondientes a su ámbito.

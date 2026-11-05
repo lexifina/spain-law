@@ -1,0 +1,3 @@
+## Disposición adicional tercera. No obligatoriedad de registro.
+
+Las empresas que solo se dediquen a la colocación de sistemas móviles de alarma o a la instalación y mantenimiento de sistemas de prevención contra incendios, conectados con centrales de alarmas o con centros de control, no necesitarán estar inscritas en el Registro General de Empresas de Seguridad del Ministerio del Interior, existente en la Unidad Orgánica Central de Seguridad Privada del Cuerpo Nacional de Policía o, en su caso, en el correspondiente de las Comunidades Autónomas con competencia en materia de seguridad privada.

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Impuesto sobre Bienes Inmuebles.
+
+El Impuesto sobre Bienes Inmuebles comenzará a exigirse en todo el territorio nacional, a partir del día 1 de enero de 1990. Respecto de los bienes inmuebles urbanos el impuesto se exigirá aplicando los valores catastrales vigentes en la fecha indicada a efectos de la Contribución Territorial Urbana, hasta tanto no se proceda a su determinación con arreglo a las normas reguladoras del Catastro. Respecto de los bienes inmuebles rústicos, y hasta tanto no se produzca esta última circunstancia, el impuesto se exigirá aplicando como valor catastral el que resulte de lo dispuesto en la disposición transitoria segunda del texto refundido de la Ley del Catastro Inmobiliario y otras normas tributarias.

@@ -1,0 +1,1 @@
+En Madrid, a 15 de octubre de 2018.–Por la Administración General del Estado, el Secretario de Estado de Función Pública, José Antonio Benedicto Iruiñ.–Por las Organizaciones Sindicales, CSIF, CC.OO., UGT, USO, CIG.

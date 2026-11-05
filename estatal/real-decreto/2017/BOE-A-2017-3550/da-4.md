@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Emisión de certificaciones y copias autorizadas en formato electrónico.
+
+Mediante Resolución del Director de la Oficina Española de Patentes y Marcas se podrán establecer las condiciones en las que las certificaciones y copias autorizadas en todas las modalidades de propiedad industrial se emitan en formato electrónico. Igualmente, se establecerán las condiciones para que las copias autorizadas se pongan a disposición en aquellas Bibliotecas digitales aceptadas en las que participe la Oficina Española de Patentes y Marcas.
+
+En todo lo demás, la prueba de cualquier extremo relacionado con los derechos inscritos se regirá por las normas generales, en particular, lo dispuesto en la disposición adicional séptima de la Ley 20/2003, de 7 de julio, de Protección Jurídica del Diseño Industrial y en la Ley de Enjuiciamiento Civil, sin que puedan considerarse pruebas periciales los simples informes emitidos por la Oficina en el curso de los procedimientos de concesión o para cumplir sus servicios de promoción, información y desarrollo tecnológico.

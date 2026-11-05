@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Compromisos derivados del Protocolo de Nagoya.
+
+El seguimiento y las medidas de cumplimiento de la utilización en el Reino de España de los recursos fitogenéticos para la agricultura y la alimentación contemplados en el Tratado Internacional de Recursos Fitogenéticos para la Agricultura y la Alimentación, se hará conforme a lo dispuesto en el Reglamento (UE) n.º 511/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, relativo a las medidas de cumplimiento de los usuarios del Protocolo de Nagoya sobre el acceso a los recursos genéticos y participación justa y equitativa en los beneficios que se deriven de su utilización en la Unión.

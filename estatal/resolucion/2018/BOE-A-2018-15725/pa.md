@@ -1,0 +1,3 @@
+La Conferencia Sectorial de Administración Pública, en su reunión de 22 de octubre de 2018, acordó por unanimidad de sus miembros aprobar el Acuerdo para favorecer la movilidad interadministrativa de las empleadas públicas víctimas de violencia de género.
+
+En cumplimiento de lo dispuesto en el artículo 151 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y en el artículo 16 del Reglamento de Organización y Funcionamiento de la Conferencia Sectorial de Administración Pública y para general conocimiento, se dispone la publicación del Acuerdo para favorecer la movilidad interadministrativa de las empleadas públicas víctimas de violencia de género, que figura como anexo a esta resolución.

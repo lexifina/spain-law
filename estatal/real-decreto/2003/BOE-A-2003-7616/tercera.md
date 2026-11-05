@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Unificación de sistemas de pago.
+
+El procedimiento para el pago de la renta agraria establecido en los apartados 2, 3 y 4 del artículo 11 también será de aplicación, a partir de la cuarta nómina que se haga efectiva tras la publicación de este real decreto, a las prestaciones por desempleo de los trabajadores beneficiarios de ellas, incluidos en el Régimen Especial Agrario de la Seguridad Social, y al subsidio por desempleo previsto en el Real Decreto 5/1997, de 10 de enero, por el que se regula el subsidio por desempleo en favor de los trabajadores eventuales del Régimen Especial Agrario de la Seguridad Social.

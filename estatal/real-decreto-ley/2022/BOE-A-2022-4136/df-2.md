@@ -1,0 +1,5 @@
+## Disposición final segunda. Facultades de desarrollo.
+
+1. El Gobierno y las personas titulares de los Ministerios de Agricultura, Pesca, Alimentación, Hacienda y Función Pública, Trabajo y Economía Social, para la Transición Ecológica y el Reto Demográfico e Inclusión, Seguridad Social y Migraciones, en el ámbito de sus respectivas competencias, dictarán las disposiciones necesarias para el desarrollo y ejecución de lo establecido en el presente real decreto-ley, en particular se faculta al Ministro de Agricultura, Pesca y Alimentación, de acuerdo con la Ministra de Asuntos Económicos y Transformación Digital, en función de las disponibilidades presupuestarias, a flexibilizar las condiciones y los beneficiarios de los préstamos establecidos en el artículo 6.
+
+2. La persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico podrá modificar mediante orden la delimitación territorial incluida en el anexo II, en función del cumplimiento de los requisitos establecidos en el artículo 11.2.a).

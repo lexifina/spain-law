@@ -1,0 +1,27 @@
+## Articulo único.
+
+Los desembarques de más de 100 kilogramos de cualquier mezcla de especies profundas de las relacionadas en el anexo I, capturadas en las subzonas, de la I a la XIV ambas inclusive del CIEM y en las aguas comunitarias situadas dentro de las zonas COPACE 34.1.1, 34.1.2, 34.1.3 y 34.2, sólo podrán realizarse en los muelles pesqueros de los siguientes puertos españoles: A Coruña, Arguineguín, Arrecife; Avilés, Ayamonte, Bermeo, Burela, Bustio, Camariñas, Cangas del Morrazo, Cariño, Castro Urdiales, Cedeira, Cillero, Cudillero, Donostia-San Sebastián, Finisterre, Getaria, Gijón, Gran Tarajal, Hondarribia, Isla Cristina, La Restinga, Laredo, Las Palmas de Gran Canaria, Lastres, Laxe, Lepe, Llanes, Luarca, Marín, Moaña, Mogán, Morro jable, Muros, Muxía, Ondárroa, Pasajes de San Pedro, Playa Blanca, Puerto de Santa María, Puerto de Vega, Puerto del Carmen; Punta Umbría, Ribadesella, San Vicente de la Barquera, Sanlúcar de Barrameda, Santa Cruz de la Palma, Santa Cruz de Tenerife, Santa Eugenia de Ribeira, Santander, Santoña, Taliarte, Tazacorte y Vigo.
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 30 de septiembre de 2025. Ref. BOE-A-2025-19869
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 28 de febrero de 2024. Ref. BOE-A-2024-4473
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 24 de julio de 2018. Ref. BOE-A-2018-11115
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 21 de febrero de 2017. Ref. BOE-A-2017-2403
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 11 de junio de 2015. Ref. BOE-A-2015-6772
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 2 de octubre de 2013. Ref. BOE-A-2013-10942
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 21 de diciembre de 2012. Ref. BOE-A-2013-215
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 10 de marzo de 2011. Ref. BOE-A-2011-5373
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 9 de diciembre de 2010. Ref. BOE-A-2010-19803
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 16 de julio de 2010. Ref. BOE-A-2010-12113
+
+> Redactado conforme a las correcciones de errores publicadas en BOE núm. 184, de 30 de julio de 2010. Ref. BOE-A-2010-12257 y núm. 228, de 20 de septiembre de 2010. Ref. BOE-A-2010-14471
+
+> Se modifica por el apartado 1 y 2 de la Resolución de 4 de noviembre de 2005. Ref. BOE-A-2005-19485

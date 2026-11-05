@@ -1,0 +1,3 @@
+## Disposición adicional única. Presunción de conformidad para los organismos nacionales de acreditación y los organismos de evaluación de la conformidad acreditados por ellos.
+
+Las Administraciones públicas, en el ejercicio de sus competencias, reconocerán la equivalencia de los servicios prestados por los organismos de acreditación de cualquier Estado miembro de la Unión Europea, siempre que dichos organismos se hayan sometido con éxito al sistema de evaluación por pares previsto en el Reglamento (CE) n.º 765/2008, de 9 de julio, del Parlamento Europeo y del Consejo, y aceptarán la validez de los certificados de dichos organismos de acreditación, así como las certificaciones emitidas por los organismos de evaluación de la conformidad acreditados por ellos.

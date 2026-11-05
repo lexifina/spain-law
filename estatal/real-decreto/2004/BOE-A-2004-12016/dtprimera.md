@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Unidades y puestos de trabajo con nivel orgánico inferior a subdirección general.
+
+1. Las unidades y puestos de trabajo con nivel orgánico inferior a subdirección general continuarán subsistentes y serán retribuidos con cargo a los mismos créditos presupuestarios, hasta que se aprueba la relación de puestos de trabajo adaptada a la estructura orgánica de este real decreto. Dicha adaptación no podrá suponer incremento de gasto público.
+
+2. Las unidades y puestos de trabajo encuadrados en los órganos suprimidos en este real decreto se adscribirán provisionalmente, por resolución del Subsecretario, a los órganos regulados en este real decreto, en función de las atribuciones que estos tienen asignadas.
+
+3. En el caso de las unidades y puestos de trabajo de nivel orgánico inferior a subdirección general, adscritos a los órganos de servicios comunes del extinguido Ministerio de Economía, así como los integrados en la Junta Asesora Permanente, actualmente dependiente de la Subsecretaría de Economía y Hacienda, la adscripción provisional se efectuará mediante resolución conjunta de los Subsecretarios de Economía y Hacienda y de Industria, Turismo y Comercio. Hasta entonces, seguirán desempeñando, con carácter provisional, las funciones que tenían asignadas, bajo la dirección de los órganos creados por los reales decretos de estructura orgánica básica de los Ministerios de Economía y Hacienda y de Industria, Turismo y Comercio.

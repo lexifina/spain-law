@@ -1,0 +1,3 @@
+## Disposición adicional primera. Solicitud de plazas o puestos de otras Administraciones educativas.
+
+El profesorado participante en el concurso de traslados de ámbito estatal que dependa de una Administración educativa cuya legislación funcionarial propia establezca como plazo de permanencia en la plaza o puesto obtenido por concurso de traslados uno distinto del contemplando en el artículo 2.1 de este real decreto, para poder solicitar plazas o puestos de ámbitos de gestión de otras Administraciones educativas, deberá cumplir lo establecido con carácter general en el citado artículo en cuanto a la permanencia mínima indicada en el mismo.

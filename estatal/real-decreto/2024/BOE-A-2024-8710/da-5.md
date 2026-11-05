@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Cuentas de aprendizaje individuales.
+
+1. En línea con la Recomendación del Consejo relativa a las cuentas de aprendizaje individuales, la formación en el trabajo, en cuanto que dicha formación se configura como un derecho personal de toda persona trabajadora, la incorporará como un instrumento que identifica y acumula los derechos personales de formación de las personas trabajadoras a lo largo de su vida laboral, de manera que les permita utilizarlos para desarrollar su trayectoria profesional a través de la realización de actividades de formación integradas en las distintas iniciativas de formación en el trabajo. Asimismo, toda persona trabajadora podrá utilizar su cuenta de aprendizaje individual libremente para la realización de actividades de formación en otros sistemas como el de formación profesional y el universitario.
+
+2. La formación realizada a través de la cuenta individual de aprendizaje, así como la que se realice en el marco de otras iniciativas de formación en el trabajo, deberán quedar registradas en el expediente laboral personalizado único previsto en el artículo 42 de este real decreto.

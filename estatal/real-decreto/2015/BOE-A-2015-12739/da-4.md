@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Habilitación a las enseñanzas de grado medio en piragüismo de aguas tranquilas para el gobierno de embarcaciones y el ejercicio de su perfil profesional.
+
+La posesión del título de Técnico Deportivo en Piragüismo de Aguas Tranquilas, habilitará para el gobierno de embarcaciones de recreo de hasta 6 metros de eslora y una potencia máxima de motor adecuada a las mismas y en todo caso, inferior a 40 kW, válidas para la navegación realizada en período diurno en zonas delimitadas por la capitanía marítima correspondiente. De la misma manera habilitará para el ejercicio de las competencias recogidas en el perfil profesional del ciclo final de piragüismo en aguas tranquilas descritas en los artículos 15 y 16 del presente real decreto.

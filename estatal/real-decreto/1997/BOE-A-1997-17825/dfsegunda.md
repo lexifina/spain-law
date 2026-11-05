@@ -1,0 +1,3 @@
+## Disposición final segunda. Facultades de desarrollo.
+
+Se autoriza al Ministro de Trabajo y Asuntos Sociales y al Ministro de Fomento, previo informe favorable de los otros Ministros coproponentes de este Real Decreto, y previo informe de la Comisión Nacional de Seguridad y Salud en el Trabajo, a dictar, en el ámbito de sus respectivas competencias, cuantas disposiciones sean necesarias para la aplicación y desarrollo de este Real Decreto, así como para las adaptaciones de carácter estrictamente técnico de sus anexos en función del progreso técnico y de la evolución de normativas o especificaciones internacionales o de los conocimientos en materia de buques de pesca.

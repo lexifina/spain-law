@@ -1,0 +1,7 @@
+## Disposición transitoria. Suscripción del seguro obligatorio en virtud de la ampliación del concepto de vehículo a motor.
+
+1. Los vehículos que antes de la entrada en vigor de esta ley no tuviesen la consideración de vehículos a motor y que, de acuerdo con lo previsto en su artículo primero, apartado dos, pasen a ser considerados vehículos a motor, dispondrán del plazo de seis meses, contados a partir del día siguiente al de su publicación en el «Boletín Oficial del Estado», para suscribir el seguro obligatorio de responsabilidad civil de la circulación de vehículos a motor en los términos del texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor aprobado por Real Decreto Legislativo 8/2004, de 29 de octubre.
+
+2. Durante el período transitorio no les será de aplicación lo dispuesto en el artículo 3 del texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor.
+
+3. Hasta que se proceda a la suscripción del seguro obligatorio, tales vehículos serán considerados vehículos a motor no asegurados a efectos de lo previsto en el artículo 11 del texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor. El Consorcio de Compensación de Seguros solo podrá repetir contra el causante del daño en caso de que hubiera incurrido en culpa de acuerdo con los artículos 1.902 y siguientes del Código civil o en caso de dolo.

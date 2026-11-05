@@ -1,0 +1,3 @@
+## Undécimo. Responsabilidad.
+
+La CNMV no responderá del uso fraudulento que los usuarios del sistema puedan llevar a cabo de los servicios prestados a través del Registro Electrónico. A estos efectos, dichos usuarios asumen con carácter exclusivo la responsabilidad de la custodia de los elementos necesarios para su autenticación en el acceso a estos servicios de administración electrónica, el establecimiento de la conexión precisa y la utilización de la firma electrónica, así como de las consecuencias que pudieran derivarse del uso indebido, incorrecto o negligente de los mismos. Igualmente será responsabilidad del usuario la adecuada custodia y manejo de los ficheros que le sean devueltos por el Registro Electrónico como acuse de recibo.

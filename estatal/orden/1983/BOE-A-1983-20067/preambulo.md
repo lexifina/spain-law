@@ -1,0 +1,3 @@
+De conformidad con lo dispuesto en el Decreto 1043/1973, de 17 de mayo, por el que se regula la normalización de productos ganaderos en el mercado interior, y teniendo en cuenta los Decretos de Presidencia del Gobierno 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, y el 2519/1279, de 9 de agosto, sobre su aplicación, desarrollo y entrada en vigor, parece oportuno dictar las presentes normas de calidad, visto el informe de la Comisión Interministerial para la Ordenación alimentaria y de conformidad con los acuerdos del FORPPA.
+
+En su virtud, a propuesta de los Ministros de Agricultura, Pesca y Alimentación, de Economía y Hacienda y de Sanidad y Consumo, esta Presidencia del Gobierno dispone:

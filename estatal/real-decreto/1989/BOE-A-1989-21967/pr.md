@@ -1,0 +1,11 @@
+El Real Decreto 989/1986, de 23 de mayo, sobre retribuciones del profesorado universitario, modificado y complementado por el Real Decreto 1084/1988, de 2 de septiembre, vertebra las retribuciones complementarias sobre la base de la uniformidad de los complementos de destino y específico en razón al Cuerpo de pertenencia del profesorado, sin contemplar entre dichas retribuciones el complemento de productividad.
+
+La rígida aplicación de criterio de igualdad retributiva por Cuerpos constituye un límite para la consecución de uno de los objetivos básicos de todo sistema retributivo consistente en ser un mecanismo para reconocer los especiales méritos en la actividad desarrollada e incentivar el ejercicio de la misma.
+
+Las normas contenidas en el presente Real Decreto pretenden, dentro del marco general retributivo de los funcionarios establecido en la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, y haciendo uso de la autorización contenida en su artículo uno.2, adecuar el régimen retributivo previsto en dicha Ley a las peculiaridades del personal docente universitario, refundiendo en un solo texto la normativa retributiva aplicable al mismo y estableciendo, al mismo tiempo, un mecanismo incentivador de la labor docente e investigadora individualizada. A este fin, el sistema que se implanta conjuga el respeto a la autonomía universitaria, reconociendo a cada Universidad la competencia para evaluar los méritos docentes de su profesorado, con las competencias estatales en materia de investigación científica y técnica, en cuanto que dicha actividad afecta y se incardina en el núcleo de intereses generales de toda la comunidad nacional.
+
+En su virtud, previo informe del Consejo de Universidades y de las Comisiones Interministerial de Retribuciones y Superior de Personal, de acuerdo con el Consejo de Estado, a propuesta de los Ministros de Economía y Hacienda y para las Administraciones Públicas y a iniciativa del Ministro de Educación y Ciencia y previa deliberación del Consejo de Ministros en su reunión del día 25 de agosto de 1989,
+
+DISPONGO:
+
+> Redactado el párrafo cuarto conforme a la corrección de erratas publicada en BOE núm. 255, de 24 de octubre de 1989. Ref. BOE-A-1989-24896.

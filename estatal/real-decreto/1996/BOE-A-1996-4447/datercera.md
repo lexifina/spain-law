@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Regulación especial del Seguro Escolar. Obligación de los centros de enseñanza de facilitar relaciones de alumnos.
+
+1. No será de aplicación al colectivo incluido en el campo de aplicación del Seguro Escolar lo dispuesto en el presente Reglamento, salvo lo establecido en el artículo 16, sino que seguirá rigiéndose por la Ley de 17 de julio de 1953, sobre establecimiento del Seguro Escolar en España, la Orden conjunta del Ministerio de Educación Nacional y del de Trabajo de 11 de agosto de 1953, por la que se aprueban los Estatutos de la Mutualidad del Seguro Escolar y demás disposiciones complementarias.
+
+2. Los centros de enseñanza donde se efectúe la matriculación, sea ordinaria o extraordinaria, de alumnos incluidos en el campo de aplicación del Seguro Escolar facilitarán a la Tesorería General de la Seguridad Social la relación de alumnos matriculados en los mismos, dentro del mes siguiente al del cierre del respectivo plazo de matrícula, haciendo constar el número de la Seguridad Social, el número del documento nacional de identidad y el nombre y apellidos de cada alumno.

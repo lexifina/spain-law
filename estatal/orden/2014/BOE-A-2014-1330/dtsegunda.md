@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de los procedimientos.
+
+Los procedimientos iniciados antes de la fecha de entrada en vigor de la Orden EDU/3186/2010, de 7 de diciembre, o que se iniciaron posteriormente a esa fecha, para formaciones que concluyan su bloque común y específico antes de febrero de 2012, se regirán por lo dispuesto en la citada Orden ECD/3310/2002, de 16 de diciembre, excepto en lo referido a la incorporación a las enseñanzas acreditando formaciones anteriores y formaciones federativas, en cuyo caso se aplicará lo establecido en las disposiciones adicionales primera y segunda de la presente orden.

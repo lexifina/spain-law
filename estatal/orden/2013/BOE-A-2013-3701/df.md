@@ -1,0 +1,3 @@
+## Disposición final primera. Solicitudes, escritos y comunicaciones procedentes del Registro Electrónico Común de la Administración General del Estado.
+
+La tramitación, anotación registral y acuse de recibo de las solicitudes, escritos y comunicaciones procedentes del Registro Electrónico Común, previsto en el artículo 31 del Real Decreto 1671/2009, de 6 de noviembre, se regirán por la normativa que regule el mismo, aplicándose en su defecto lo previsto en la presente orden. En todo caso, el Registro Electrónico deberá posibilitar la recepción de la información estadística a que hace referencia el artículo 10.2 de la presente orden para los formularios de propósito general.

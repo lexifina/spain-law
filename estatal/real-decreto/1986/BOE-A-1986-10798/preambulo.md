@@ -1,0 +1,13 @@
+Los artículos 23 y 24 de la Ley 30/1984, de 2 de agosto, de medidas para la reforma de la Función Pública, regulan los conceptos que comprende la estructura del nuevo sistema retributivo de los funcionarios, así como los criterios generales para la determinación de su cuantía.
+
+Los mencionados artículos tienen la consideración de bases del régimen estatutario de los funcionarios públicos, y en consecuencia son aplicables al personal de todas las Administraciones Públicas de conformidad con lo establecido en el artículo 1.3 de la mencionada Ley 30/1984, de 2 de agosto.
+
+Asimismo, el artículo 93 de la Ley 7/1985, de 2 de abril, reguladora de las bases del Régimen Local, siguiendo los criterios de la legislación básica sobre Función Pública, establece que las retribuciones básicas de los funcionarios locales tendrán la misma estructura y cuantía que las establecidas con carácter general para toda la Función Pública, y que las retribuciones complementarias se atendrán a la estructura y criterios de valoración objetiva de las del resto de los funcionarios públicos, si bien su cuantía global será fijada por el Pleno de la Corporación, dentro de los límites máximos y mínimos que se fijen por el Estado.
+
+La aplicación del nuevo sistema de retribuciones previsto en las disposiciones legales mencionadas, respecto de los funcionarios de la Administración Local resulta condicionada, en virtud de lo dispuesto en la disposición final novena de la Ley 50/1984, de 30 de diciembre, y en la disposición transitoria sexta de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, a la publicación y entrada en vigor de una norma reglamentaria que fije los límites máximos y mínimos a que se refiere el artículo 93.2 de la Ley 7/1985, de 2 de abril.
+
+Es, pues, objeto del presente Real Decreto la regulación de las previsiones contenidas en el citado artículo de la Ley reguladora de las bases del régimen local, posibilitando así la aplicación del nuevo sistema retributivo a los funcionarios públicos de las Administraciones Locales, para lo cual se establece un plazo prudencial que se extiende a lo largo de todo el año 1986 con objeto de que las Corporaciones Locales puedan realizar los estudios, adaptaciones y valoraciones de puestos de trabajo que sirvan de base a una adecuada y eficaz implantación del nuevo sistema, sin que su aplicación permita superar los límites de incremento de la masa retributiva establecidos con carácter general.
+
+En su virtud, a propuesta del Ministro de Administración Territorial, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de abril de 1986,
+
+DISPONGO:

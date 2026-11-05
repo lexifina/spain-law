@@ -1,0 +1,3 @@
+## Disposición adicional quinta.
+
+Todas las actuaciones del Registro estatal de cooperativas seguirán siendo gratuitas. Los aranceles que se devengen por las actuaciones de los notarios y por las inscripciones u otras obligaciones de las cooperativas de crédito y, en su caso de otras clases, en los demás registros públicos tendrán una bonificación igual a la que el artículo 157.2 de la Ley 3/1987 establece respecto a los aranceles notariales, siempre que se trate de documentos públicos o de inscripciones obligatorias de actos y contratos previstos en la normativa aplicable o dirigidos al mejor cumplimiento de los fines sociales cooperativos.

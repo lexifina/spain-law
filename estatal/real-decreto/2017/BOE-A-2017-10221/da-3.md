@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Ámbitos territoriales de los actuales Colegios Oficiales supraautonómicos.
+
+Los Colegios Oficiales de ámbito supraautonómico existentes a la fecha de entrada en vigor de este real decreto, mantendrán sus actuales ámbitos territoriales, sin perjuicio de las modificaciones futuras que puedan realizarse conforme a lo establecido en los presentes Estatutos y de la regulación que resulte en caso de que las comunidades autónomas, en virtud de las competencias que tienen atribuidas en materia de colegios profesionales, constituyan colegios o consejos autonómicos en sus respectivos territorios.

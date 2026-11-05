@@ -1,0 +1,3 @@
+## Quinto. Publicación de las traducciones oficiales de la lista de códigos que figuran en el certificado de vida.
+
+A fin de facilitar el cumplimiento de lo previsto en el artículo anterior, se incorporan al anexo II de la presente Instrucción las traducciones oficiales de la lista de los códigos que figuran en el certificado de vida, aprobadas por el Bureau de la Comisión Internacional del Estado Civil el 8 de septiembre de 1998. Las autoridades españolas competentes a quienes se solicite la traducción de tales códigos proporcionarán a los interesados fotocopia de los mismos en el idioma correspondiente obtenida de la publicación en el Boletín Oficial del Estado del mencionado anexo II.

@@ -1,0 +1,7 @@
+La Ley 31/1984, de 2 de agosto, de Protección por Desempleo, por la que se modifica el título II de la Ley 51/1980, de 8 de octubre, Básica de Empleo, viene a suponer una profunda revisión del sistema de protección de la contingencia de desempleo, asegurando una cobertura de la misma más acorde con la realidad social en la que ha de operar el sistema protector correspondiente. Dicha modificación hace necesario que se dicte la norma reglamentaria que venga a sustituir al Real Decreto 920/1981, de 24 de abril, cuya vigencia permite sólo parcialmente que la reforma introducida por la Ley 31/1984 entre plenamente en vigor.
+
+En este sentido, se estima conveniente que el citado desarrollo reglamentario, que se lleva a cabo por la presente disposición, se limite estrictamente a aquellos aspectos cuyo desarrollo la Ley encomendó al Gobierno, evitando la repetición innecesaria de preceptos legales, puesto que si la misma no fuera literal sólo vendría a dificultar la interpretación de la auténtica voluntad del legislador y, en definitiva, a redundar en perjuicio de los principios de legalidad y seguridad jurídica.
+
+En su virtud, habida cuenta de la autorización conferida al Gobierno por la disposición final primera de la Ley 31/1984, de 2 de agosto, a propuesta del Ministro de Trabajo y Seguridad Social, oído el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 2 de abril de 1985,
+
+D I S P O N G O :

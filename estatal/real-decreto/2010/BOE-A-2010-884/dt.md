@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Proceso de acoplamiento.
+
+Hasta tanto no se produzcan los procesos de acoplamiento y nombramiento de los Secretarios Judiciales, para desempeñar puestos de trabajo incluidos en las relaciones de puestos de trabajo aprobadas conforme al nuevo modelo de oficina judicial previsto en la Ley Orgánica 19/2003, de 23 de diciembre, de modificación de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, continuarán vigentes las retribuciones complementarias previstas en el Real Decreto 1130/2003, de 5 de septiembre, por el que se regula el régimen retributivo del Cuerpo de Secretarios Judiciales.

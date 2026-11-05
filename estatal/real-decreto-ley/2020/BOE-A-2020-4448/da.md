@@ -1,0 +1,3 @@
+## Disposición adicional única. Gestión de créditos relacionados con el COVID-19.
+
+No obstante lo dispuesto en el artículo 86.2.Quinta de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, los créditos extraordinarios o suplementarios que tengan por objeto exclusivamente hacer frente a situaciones extraordinarias derivadas del COVID-19, que vayan referidos a la financiación de sectores, servicios, actividades o materias respecto de los cuales las comunidades autónomas tengan asumidas competencias de ejecución, podrán librarse en su totalidad una vez se haya aprobado la distribución definitiva entre aquellas.

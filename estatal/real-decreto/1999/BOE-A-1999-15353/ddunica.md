@@ -1,0 +1,5 @@
+## Disposición derogatoria única. Derogación normativa.
+
+A la entrada en vigor del presente Real Decreto quedarán derogadas todas las disposiciones que se opongan a lo dispuesto en el mismo y, en particular, el Real Decreto 2738/1986, de 12 de diciembre, regulador de las actividades de importación y comercio mayorista y minorista de las labores de tabaco, sin perjuicio de la exigencia de las responsabilidades nacidas bajo su vigencia.
+
+Continuarán en vigor, en tanto no se opongan a la presente disposición el Real Decreto 1394/1993, de 4 de agosto, regulador del procedimiento sancionador, y el Real Decreto 1768/1994, de 5 de agosto, regulador de los procedimientos en materia de autorizaciones, concesiones y permisos en el ámbito del monopolio de tabacos, salvo el apartado 2 del artículo 3, y los artículos 4, 5 y 6 de este último, entendiéndose las referencias en las mismas relativas a la Delegación del Gobierno en el Monopolio de Tabacos como hechas al Organismo autónomo Comisionado para el Mercado de Tabacos.

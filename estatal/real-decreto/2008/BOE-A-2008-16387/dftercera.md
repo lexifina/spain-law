@@ -1,0 +1,5 @@
+## Disposición final tercera. Incorporación del derecho comunitario europeo y referencias a directivas derogadas.
+
+1. Mediante este real decreto se incorpora al derecho español la Directiva 2006/42/CE del Parlamento Europeo y del Consejo, de 17 de mayo de 2006, relativa a las máquinas y por la que se modifica la Directiva 95/16/CE del Parlamento Europeo y del Consejo. En consecuencia, cualquier referencia a este real decreto deberá entenderse en el marco de lo indicado en dicha directiva. Asimismo, deberán considerarse como equivalentes a las disposiciones de este real decreto cualesquiera otras dictadas con el mismo objetivo por los demás Estados miembros, y Estados terceros que mantengan acuerdos en este sentido con la Unión Europea, así como las referencias directas realizadas a la mencionada directiva en documentos de aplicación de la misma.
+
+2. Las referencias a la Directiva 98/37/CE realizadas, inclusive, hasta 28 de diciembre de 2009 en cualquier tipo de documentación de aplicación de la misma, se entenderán hechas a la Directiva 2006/42/CE, con arreglo a la tabla de correspondencias que figura en el anexo XII.

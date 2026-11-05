@@ -1,0 +1,11 @@
+## Tercero. Requisitos técnicos del suministro de información para la comunicación de los cambios de titularidad en cumplimiento del párrafo primero del artículo 14.a) del texto refundido de la Ley del Catastro Inmobiliario.
+
+Los notarios remitirán telemáticamente a la Dirección General del Catastro información relativa a los documentos por ellos autorizados, en el plazo de cinco días desde su otorgamiento, cuyo contenido suponga la adquisición o consolidación del derecho de propiedad o la adquisición o constitución de los derechos de usufructo, superficie o de una concesión administrativa, ya se refieran a la totalidad de un inmueble o a una cuota indivisa del mismo, por una sola persona o por varias, siempre que se den los requisitos establecidos en el primer párrafo del artículo 14.a) del texto refundido de la Ley del Catastro Inmobiliario.
+
+Dicha remisión se efectuará de acuerdo con el sistema informático previsto en el anexo de esta resolución y comprenderá los siguientes datos: identificación del documento notarial y la fecha de su otorgamiento; clasificación de los actos de que se trate y del tipo de alteración; nombre y apellidos o razón social de los adquirentes y transmitentes de los citados bienes inmuebles o derechos, así como su número de identificación fiscal y domicilio; la localización, superficie y referencia catastral del inmueble que se corresponda con la identidad de la finca; valor declarado de transmisión y valor de tasación hipotecaria si la hubiera.
+
+En todo caso, se expresará además si el inmueble consta o no inmatriculado en el Registro de la Propiedad y, en caso afirmativo, el código de finca registral.
+
+Una vez que la Dirección General del Catastro valide técnicamente que se cumplen los requisitos establecidos en el artículo 14.a) del texto refundido de la Ley del Catastro Inmobiliario, se incorporarán las alteraciones catastrales derivadas de la información objeto de suministro.
+
+Cuando los notarios comuniquen al Catastro otras alteraciones de las previstas en el artículo 14 del texto refundido de la Ley del Catastro Inmobiliario conjuntamente con la transmisión de la titularidad de los bienes inmuebles, la información podrá remitirse conjuntamente.

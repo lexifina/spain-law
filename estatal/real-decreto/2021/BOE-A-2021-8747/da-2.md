@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Publicación de lista de sociedades cuyas acciones se someten a gravamen.
+
+La Agencia Estatal de Administración Tributaria publicará en su Sede electrónica en el mes de diciembre de cada año, con efectos meramente informativos para la aplicación del impuesto en el año inmediato siguiente, una lista de sociedades cuyas acciones estarán sujetas a gravamen de acuerdo con lo dispuesto en las letras a) y b) del apartado 1 del artículo 2 de la Ley del Impuesto. Dicha lista tendrá carácter indicativo, sin que la ausencia en la misma de una sociedad que reúna las condiciones a que se refieren dichas letras excluya la aplicación del impuesto.
+
+A los efectos previstos en el párrafo anterior la Sociedad de Bolsas deberá comunicar a la Administración tributaria en los diez primeros días naturales del mes de diciembre de cada año la relación de sociedades de nacionalidad española cotizadas en los mercados secundarios oficiales españoles cuyo valor de capitalización bursátil a 1 de diciembre del mismo año sea superior a 1.000 millones de euros.
+
+Esta comunicación se efectuará a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria y comprenderá la denominación completa o razón social de la sociedad, su número de identificación fiscal, código ISIN de cada clase de acciones y el valor de capitalización bursátil de la sociedad a 1 de diciembre.

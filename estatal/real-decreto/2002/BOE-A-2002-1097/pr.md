@@ -1,0 +1,23 @@
+El Reglamento de Circulación Aérea, aprobado por el Real Decreto 73/1992, de 31 de enero, en desarrollo de la Ley 48/1960, de 21 de junio, de Navegación Aérea, ha sido objeto de diversas modificaciones derivadas de los cambios introducidos por la Organización de Aviación Civil Internacional (OACI) en los anexos al Convenio de Chicago y de la necesidad de adaptar las operaciones de vuelo a las innovaciones técnicas producidas en materia de aeronavegación. En efecto, de conformidad con la habilitación otorgada por la disposición final primera del citado Real Decreto, según la redacción dada por el Real Decreto 1397/1993, el vigente Reglamento de Circulación Aérea ha sido objeto de diversas modificaciones de carácter técnico realizadas por las Órdenes del Ministro de la Presidencia de 20 de diciembre de 1993, de 12 de marzo de 1997 y de 7 de mayo de 1998.
+
+Por otra parte, el Real Decreto 1981/1998, de 18 de septiembre, por el que se establece el Servicio de Información de Vuelo de Aeródromo (AFIS), incorporó al citado Reglamento la Circular 211-AN/128 de la OACI.
+
+En la actualidad, es preciso modificar el Reglamento de Circulación Aérea para su adaptación a las enmiendas que la citada Organización de Aviación Civil Internacional ha introducido en los anexos 2, 10, 11 y 15 OACI relativos, respectivamente, al «Reglamento del Aire», «Telecomunicaciones Aeronáuticas», «Servicios de Transporte Aéreo» y «Servicios de Información Aeronáutica», así como en los Documentos 4444 (Procedimientos para los Servicios de Navegación Aérea) y 7030 (Procedimientos Suplementarios Regionales).
+
+Además, es obligado adecuar el Reglamento de Circulación Aérea a la nueva redacción dada al artículo 145 de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea por el artículo 63 de la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, para hacer posible la dispensa del plan de vuelo, requisito exigible para volar dentro del espacio aéreo español, en algunos supuestos.
+
+De otro lado, es necesario regular en el ámbito nacional la adaptación de las operaciones de vuelo a las innovaciones técnicas que se han producido para lograr un mejor aprovechamiento del espacio aéreo, un mejor uso de los medios de control disponibles y, en definitiva, conseguir, dentro de los márgenes de seguridad establecidos, el aumento de capacidad del sistema de control de tránsito aéreo.
+
+En esa línea, se regula el vuelo VFR entre la puesta y la salida del sol, así como la operación de aviones monomotores de transporte aéreo comercial con motor de turbina durante la noche y en condiciones meteorológicas instrumentales.
+
+También, finalmente, obliga a la adaptación del Reglamento de Circulación Aérea la reciente aprobación del Real Decreto 220/2001, de 2 de marzo, por el que se determinan los requisitos exigibles para la realización de las operaciones de transporte aéreo comercial por aviones civiles.
+
+Las incorporaciones y adaptaciones indicadas, exigen la modificación de los Libros I (Definiciones y abreviaturas), II (Reglamento del Aire), III (Servicios de Tránsito Aéreo), IV (Procedimientos para los Servicios de Navegación Aérea), VII (Requisitos para la Operación de Aeronaves) y VIII (Servicio de Información Aeronáutica) y la mayoría de los apéndices (A, B, C, D, F, J, L, N, Q, S, T, V, X e Y) del Reglamento de Circulación Aérea en vigor, así como la inclusión de un nuevo Libro X sobre «Telecomunicaciones aeronáuticas».
+
+Teniendo en cuenta el volumen y alcance jurídico de la modificación que se pretende realizar ahora y que el Reglamento de Circulación Aérea aprobado por el Real Decreto 73/1992, de 31 de enero, ha sido ya objeto de importantes modificaciones en los nueve años transcurridos desde esa fecha, es preciso aprobar un nuevo Reglamento de Circulación Aérea, cuyo contenido comprende todas las modificaciones introducidas en el pasado y las que se incorporan en este momento.
+
+Por otra parte, de conformidad con lo dispuesto en el Real Decreto-ley 12/1978, de 27 de abril, sobre fijación y delimitación de facultades entre los Ministerios de Defensa y Fomento en materia de aviación, y en la Orden de Presidencia del Gobierno de 8 de noviembre de 1979 por la que se crea la Comisión Interministerial de Defensa y Transportes (CIDETRA), modificada por la Orden de la Presidencia del Gobierno de 11 de febrero de 1985, este Real Decreto debe ser propuesto conjuntamente por los Ministros de Defensa y de Fomento.
+
+En su virtud, a propuesta de los Ministros de Defensa y de Fomento, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de enero de 2002,
+
+DISPONGO:

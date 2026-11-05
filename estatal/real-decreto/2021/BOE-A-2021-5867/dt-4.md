@@ -1,0 +1,9 @@
+## Disposición transitoria cuarta. Normas de explotación de la presa y el embalse.
+
+1. Los titulares de presas que a la entrada en vigor del presente real decreto contasen con unas Normas de Explotación aprobadas, mantendrán dicha aprobación, si bien estarán obligados a considerar su adecuación a lo establecido en la «Norma Técnica de Seguridad para la explotación, revisiones de seguridad y puesta fuera de servicio de las Presas y sus embalses», en un plazo máximo de cinco años.
+
+2. Aquellas Normas de Explotación que se encontrasen en tramitación a la entrada en vigor del real decreto, serán aprobadas por la Administración competente en materia de seguridad de presas y embalses de acuerdo a las disposiciones vigentes en el momento de formular la solicitud, si bien sus titulares estarán obligados a considerar su adecuación a lo establecido en la «Norma Técnica de Seguridad para la explotación, revisiones de seguridad y puesta fuera de servicio de las presas y sus embalses», en un plazo máximo de cinco años.
+
+3. Los titulares de presas que a la entrada en vigor del presente real decreto no hubiesen presentado para su aprobación las Normas de Explotación, estando obligados a hacerlo por aplicación de la normativa anterior, deberán presentarlas ante la Administración competente en materia de seguridad de presas y embalses en el plazo máximo de tres años, sin perjuicio de los procedimientos sancionadores ya iniciados que se encuentren en fase de tramitación.
+
+4. Los titulares de aquellas presas que a la entrada en vigor de este real decreto estén obligados a disponer de Normas de Explotación según se indica en el artículo 6 de la presente Norma, no habiendo estado obligados a realizarla conforme a la normativa anterior, estarán obligados a presentar la primera versión de ellas ante la Administración competente en materia de seguridad de presas y embalses en el plazo máximo de 3 años.

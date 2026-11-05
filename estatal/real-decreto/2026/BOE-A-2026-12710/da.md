@@ -1,0 +1,9 @@
+## Disposición adicional primera. Adscripción de medios económicos y materiales y apoyo en materia de recursos humanos por parte del Ministerio de Educación, Formación Profesional y Deportes a la GIEC.
+
+1. Sin perjuicio de las competencias que se establecen en el Estatuto, el Ministerio de Educación, Formación Profesional y Deportes deberá adscribir los medios necesarios para que la GIEC desempeñe las funciones recogidas en el presente Estatuto relativas a su ámbito competencial. Esto medios serán tanto económicos, como materiales. En lo relativo a los medios económicos y materiales, el Ministerio de Educación, Formación Profesional y Deportes deberá proveer la financiación suficiente y los medios materiales para el desempeño de las actuaciones de la GIEC enmarcadas en su ámbito competencial.
+
+2. El Ministerio de Educación, Formación Profesional y Deportes prestará, cuando sea necesario, apoyo a la GIEC mediante la colaboración de sus recursos humanos, con el fin de garantizar el adecuado desarrollo de las funciones y actividades que esta tenga encomendadas. Este apoyo no supondrá en ningún caso redistribución ni reasignación de efectivos, ni implicará cambio de adscripción de los puestos de trabajo de las personas empleadas públicas que presten dicha colaboración.
+
+No obstante, lo anterior, se podrá atribuir temporalmente el desempeño de funciones en los términos previstos en el artículo 66 del Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado, aprobado por el Real Decreto 364/1995, de 10 de marzo.
+
+3. Por medio del correspondiente instrumento de colaboración entre el Ministerio de Educación, Formación Profesional y Deportes y la GIEC se desarrollarán las previsiones anteriores.

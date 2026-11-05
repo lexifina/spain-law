@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Viviendas de protección oficial de Régimen Especial.
+
+1. A los efectos establecidos en el artículo 91.dos.1.6.º de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, o de los impuestos que se aplican en lugar de aquél, en el caso de la Comunidad Autónoma de Canarias y de las ciudades de Ceuta y Melilla, se incluyen bajo la denominación de viviendas de protección oficial de régimen especial, las viviendas de nueva construcción, o procedentes de la rehabilitación, así calificadas y destinadas exclusivamente a familias o personas cuyos ingresos familiares no excedan de 2,5 veces el IPREM siempre que su precio máximo de venta por metro cuadrado de superficie útil no exceda de 1,50 veces el MBE.
+
+2. Se considerarán asimismo viviendas de protección oficial de Régimen Especial, a los efectos de la Ley mencionada en el apartado anterior, las viviendas calificadas, en el marco de este Real Decreto, como protegidas para venta de régimen especial, y las protegidas para arrendamiento, de régimen especial y general.

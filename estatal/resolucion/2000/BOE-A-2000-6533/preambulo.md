@@ -1,0 +1,1 @@
+De conformidad con el artículo 21.1.f) de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, el Consejo de Gobierno, en sesión del día 28 de marzo de 2000, a propuesta de su Comisión Ejecutiva y de acuerdo con el Consejo de Estado, ha aprobado el Reglamento Interno del Banco de España, que deroga el hasta ahora vigente de 14 de noviembre de 1996.

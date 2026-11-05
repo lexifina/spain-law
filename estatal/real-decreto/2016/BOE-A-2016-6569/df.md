@@ -1,0 +1,3 @@
+## Disposición final primera. Carácter de normativa básica.
+
+Este real decreto constituye legislación básica, en materia de ordenación del sector pesquero al amparo del artículo 149.1.19.ª de la Constitución Española, por lo que respecta a la regulación de las organizaciones de productores de la pesca y sus asociaciones y en materia de bases y coordinación de la planificación general de la actividad económica, al amparo del artículo 149.1.13.ª de la Constitución, por lo que respecta a la regulación de las organizaciones de productores de la acuicultura y sus asociaciones y de las organizaciones interprofesionales representativas.

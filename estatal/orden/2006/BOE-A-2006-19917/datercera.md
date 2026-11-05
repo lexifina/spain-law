@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Normativa aplicable.
+
+Sin perjuicio de las peculiaridades previstas en la presente Orden, la Comisión Ministerial de Administración Electrónica se regirá por lo establecido en materia de órganos colegiados en el Capítulo II del Título II de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.

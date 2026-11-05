@@ -1,0 +1,3 @@
+## Artículo 96.
+
+El plazo de ejecución de las obras fijado en la cédula de calificación provisional será considerado como una de las condiciones que ha de cumplir el promotor para obtener la calificación definitiva. El Director general del Instituto Nacional de la Vivienda podrá prorrogar dicho plazo durante un tiempo que no exceda de la mitad del inicialmente concedido, a solicitud del promotor, siempre que ésta se presente antes de la terminación del plazo señalado para la ejecución de las obras y se acompañe certificado del Arquitecto Director de las mismas acreditando su situación, causas que motivan la solicitud y señalando la fecha en que podrán quedar terminadas.

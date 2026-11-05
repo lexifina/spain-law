@@ -1,0 +1,9 @@
+## Cuarto. Voto por correo de electores temporalmente ausentes.
+
+Las obligaciones de servicio público en relación con el voto por correo de los electores temporalmente ausentes son, de conformidad con lo previsto en los artículos 4 y 5 del Real Decreto 1621/2007, de 7 de diciembre, por el que se regula un procedimiento de votación para los ciudadanos españoles que se encuentran temporalmente en el extranjero, las siguientes:
+
+a) Envío al interesado de la documentación electoral remitida por las Delegaciones Provinciales de la Oficina del Censo Electoral por correo certificado y urgente de acuerdo con lo establecido en artículo 4, apartados 1 y 2, del Real Decreto 1621/2007, de 7 de diciembre.
+
+Cuando se detecten dificultades significativas en el transporte internacional o en la operativa de los operadores designados de los países destinatarios que pongan en riesgo la recepción de dicha documentación electoral, se podrá recurrir, previa autorización de la Junta Electoral Central y del Ministerio competente, a mensajería privada. Todo ello a fin de ofrecer las mayores garantías de éxito en la entrega. Ello habrá de ser oportunamente compensado al amparo de lo previsto en el artículo 22.5 de la Ley 43/2010, de 30 de diciembre.
+
+b) Entrega a las Mesas electorales de la documentación del voto, una vez recibida, de acuerdo con lo establecido en el artículo 5.4 del Real Decreto 1621/2007, de 7 de diciembre. Los sobres recibidos después del día fijado para la votación se remitirán a la junta electoral correspondiente con lo indicado en el artículo 5.4 del citado Real Decreto 1621/2007, de 7 de diciembre.

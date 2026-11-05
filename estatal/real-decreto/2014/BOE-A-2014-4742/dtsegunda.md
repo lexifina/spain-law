@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Comunicación sistemática.
+
+Hasta que se proceda a la designación por Orden del Ministro de Economía y Competitividad, los sujetos obligados aplicarán en el cumplimiento de lo dispuesto en el artículo 27.1.c) de este reglamento el listado de países y territorios contenido en el artículo 1 del Real Decreto 1080/1991, de 5 de julio, por el que se determinan los países o territorios a que se refieren los artículos 2, apartado 3, número 4, de la Ley 17/1991, de 27 de mayo, de medidas fiscales urgentes, y 62 de la Ley 31/1990, de 27 de diciembre, de Presupuestos Generales del Estado para 1991, teniendo en cuenta lo establecido en la disposición adicional primera y en la disposición transitoria segunda de la Ley 36/2006, de 29 de noviembre, de medidas para la prevención del fraude fiscal, complementado por Orden ECO/2652/2002, de 24 de octubre, por la que se desarrollan las obligaciones de comunicación de operaciones en relación con determinados países al Servicio Ejecutivo de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias.
+
+La comunicación sistemática establecida en el artículo 27.1 e) y f) será exigible a partir de la fecha que se determine por el Servicio Ejecutivo de la Comisión, quien determinará asimismo la forma y contenido de dichas comunicaciones.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 186, de 1 de agosto de 2014. Ref. BOE-A-2014-8278.

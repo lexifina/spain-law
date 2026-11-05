@@ -1,0 +1,3 @@
+## Artículo II.
+
+La jurisdicción del Vicario general castrense y de los Capellanes es personal. Se extiende, cualquiera que sea la respectiva situación militar, a todos los militares de Tierra, Mar y Aire, a los alumnos de las Academias y de las Escuelas Militares, a sus esposas, hijos y familiares que viven en su compañía, y a todos los fieles de ambos sexos, ya seglares, ya religiosos, que presten servicios establemente bajo cualquier concepto o residan habitualmente en los cuarteles o lugares dependientes de la jurisdicción militar. Igualmente, se extiende dicha jurisdicción a los huérfanos menores o pensionistas y a las viudas de militares mientras conserven este estado.

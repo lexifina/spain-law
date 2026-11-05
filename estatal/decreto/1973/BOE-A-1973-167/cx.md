@@ -1,0 +1,3 @@
+## CAPÍTULO X
+
+## Normas comunes

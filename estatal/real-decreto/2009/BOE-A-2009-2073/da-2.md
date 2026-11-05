@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Condiciones técnicas generales para el acceso a SIRAJ.
+
+La unidad encargada de la gestión de los registros administrativos de apoyo a la Administración de Justicia establecerá las condiciones técnicas para los accesos establecidos en el artículo 6, para cumplir con las garantías de accesibilidad, seguridad, trazabilidad, confidencialidad y disponibilidad necesarias en el tratamiento de información penal. Se establecerán las condiciones técnicas para el acceso de los usuarios de los distintos organismos al sistema de información de los registros administrativos de apoyo a la actividad de justicia. En particular, cuando el acceso a la información del Sistema de registros administrativos de apoyo a la Administración de Justicia se realice a través de la Plataforma de Intermediación de Datos, su establecimiento deberá realizarse en colaboración con la Agencia Estatal de Administración Digital.
+
+> Se añade por el art. único.23 del Real Decreto 607/2025, de 8 de julio. Ref. BOE-A-2025-14085

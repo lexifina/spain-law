@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Mejora de la protección a los clientes de los servicios financieros.
+
+En el plazo de seis meses, el Gobierno realizará las modificaciones legislativas necesarias para mejorar el actual sistema institucional de protección al cliente y potenciar la eficacia de los actuales servicios públicos de reclamaciones, defensores del cliente y servicios de atención al cliente. En este contexto, evaluará la conveniencia de promover la unificación de los servicios de reclamaciones actualmente dispersos entre el Banco de España, la CNMV y la Dirección General de Seguros y Fondos de Pensiones.

@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Especialidades de uso de infraestructuras aeronáuticas para la realización de operaciones especiales.
+
+1. Para la realización de operaciones especiales, bajo la responsabilidad del operador o piloto, y conforme a los protocolos que al efecto haya establecido, en su caso, el gestor de la infraestructura, podrán utilizarse fuera de los horarios operativos, los aeródromos civiles de uso público o restringido, siendo considerados a tales efectos aeródromos eventuales.
+
+El uso de las bases aéreas abiertas al tráfico civil y de los aeródromos de utilización conjunta, por una base aérea y un aeropuerto, para la realización de tales operaciones fuera de los horarios operativos requerirá, adicionalmente, la autorización previa del Jefe del Estado Mayor del ejército del que dependa la instalación militar, con independencia de que la operación se pretenda realizar en la zona de responsabilidad civil o militar o de uso común, así como de la naturaleza civil o militar del proveedor de servicios de tránsito aéreo.
+
+2. Para el uso del resto de las infraestructuras militares, de conformidad con lo previsto en el artículo 2 del Real Decreto 1167/1995, de 7 de julio, sobre régimen de uso de los aeródromos utilizados conjuntamente por una base aérea y un aeropuerto y de las bases aéreas abiertas al tráfico civil, siempre será necesaria la autorización previa del Jefe del Estado Mayor del ejército del que dependa la instalación militar, con independencia de que el tráfico se produzca dentro o fuera de su horario operativo.

@@ -1,0 +1,5 @@
+## Disposición transitoria segunda.
+
+Siguiendo las instrucciones que al efecto dicten conjuntamente la Dirección General del Tesoro y Política Financiera y la Intervención General de la Administración del Estado, antes del día 1 de enero de 1990 el Banco de España y las Entidades de crédito procederán para cada titular con cuentas abiertas en la agrupación de «Tesoro Público-Anticipos de fondos a justificar», a cancelar dichas cuentas transfiriendo sus saldos a las que el mismo titular tenga abiertas en la agrupación «Tesoro Público-Fondos a justificar», procediendo a continuación a cambiar la denominación de esta última agrupación por la de «Tesoro Público-Provisiones de Fondos». Hasta dicha fecha se podrán seguir utilizando las cuentas que en la actualidad, y debidamente autorizadas por la Dirección General del Tesoro y Política financiera, estén abiertas en el Banco de España o en Entidades de crédito en aquellas agrupaciones.
+
+> Redactado conforme a la corrección de erratas publicada en BOE núm. 222, de 16 de septiembre de 1989. Ref. BOE-A-1989-22332

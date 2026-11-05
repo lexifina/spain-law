@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan expresamente derogados el Real Decreto de 2 de Octubre de 1878, la Real Orden de 1 de Abril de 1896, el Real Decreto 2012/1983, de 28 de Julio, sobre cancelación de antecedentes penales, Real Decreto 231/2002, de 1 de marzo, por el que se regula el Registro Central de Rebeldes Civiles, el Real Decreto 232/2002, de 1 de marzo, por el que se regula el Registro de Sentencias Firmes sobre Responsabilidad Penal de los Menores, el Real Decreto 355/2004, de 5 de marzo, por el que se regula el Registro Central para la protección de las víctimas de la violencia doméstica y cuantas disposiciones contenidas en normas de igual o inferior rango al presente real decreto se opongan a lo previsto en él.

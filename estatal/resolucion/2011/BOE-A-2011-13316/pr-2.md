@@ -1,0 +1,5 @@
+## Primero. Aplicación del Plan General de Contabilidad Pública.
+
+La contabilidad de los entes públicos cuyo presupuesto de gastos tiene carácter estimativo se ajustará al Plan General de Contabilidad Pública (en adelante PGCP), aprobado por Orden EHA/1037/2010, de 13 de abril, en los términos regulados en la regla 3 de la Instrucción de Contabilidad para la Administración Institucional del Estado, aprobada por Orden EHA/ 2045/2011, de 14 de julio de 2011, con las adaptaciones y adecuaciones que se regulan en los puntos siguientes de esta Resolución.
+
+A los efectos de esta Adaptación, tendrán la consideración de entes públicos cuyo presupuesto de gastos tiene carácter estimativo, las entidades a las que se refieren las letras g) y h) del artículo 2.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria que, formando parte del sector público administrativo, según los criterios que se establecen en el apartado 1 del artículo 3 de dicho texto legal, elaboren presupuestos de explotación y capital que figuren integrados en los Presupuestos Generales del Estado.

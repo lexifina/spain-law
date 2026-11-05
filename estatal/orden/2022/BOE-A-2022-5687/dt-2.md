@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Obtención del título de Bachiller con el título de Técnico Superior de Formación Profesional.
+
+Hasta la implantación de las modificaciones introducidas por la Ley Orgánica 3/2020, de 29 de diciembre, en el currículo, la organización y los objetivos de las enseñanzas objeto de esta orden, el alumnado en posesión de un título de Técnico o Técnica Superior de Formación Profesional que en el curso 2020-2021 hubiera cursado y superado al menos dos de las materias de primer curso de Bachillerato que figuran en el artículo 23, podrá obtener el título de Bachiller en la modalidad elegida mediante la superación de las restantes materias que, según el citado artículo, correspondan a la modalidad de que se trate.

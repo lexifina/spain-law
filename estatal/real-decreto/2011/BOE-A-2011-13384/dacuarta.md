@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Régimen de las prestaciones familiares por discapacidad a extinguir y otras.
+
+Las prestaciones familiares por discapacidad diferentes de las mencionadas en la Sección 5.ª del Capítulo V de este Reglamento, se mantendrán con el carácter de a extinguir. Tales prestaciones serán compatibles, en su caso, con las ayudas económicas en los casos de parto o adopción múltiple, definidas también en el Capítulo V, cuando ambas prestaciones pudieran concurrir. También se mantendrán con el carácter de a extinguir los derechos, cualidades y situaciones reconocidas con arreglo a la anterior normativa que se vean afectados por las normas que se establecen en este Reglamento.

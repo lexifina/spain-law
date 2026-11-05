@@ -1,0 +1,3 @@
+## Disposición final primera. Normativa procedimental complementaria.
+
+Los procedimientos a que pudieran dar lugar la aplicación de la Ley 26/1994, de 29 de septiembre, por la que se regula la situación de segunda actividad en el Cuerpo Nacional de Policía, se regirán, salvo lo dispuesto en la presente norma, por lo establecido en el Real Decreto 1764/1994, de 5 de agosto, de adecuación de las normas reguladoras de los procedimientos de gestión de personal de las Fuerzas y Cuerpos de Seguridad del Estado a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.

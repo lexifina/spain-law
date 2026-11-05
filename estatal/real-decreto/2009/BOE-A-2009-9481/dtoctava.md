@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Límite de radio de acción para los permisos de conducción de las clases D1y D.
+
+El límite de radio de acción de 50 kilómetros para los permisos de conducción de las clases D1 y D, establecido en el artículo 7.2 del Reglamento General de Conductores, aprobado por Real Decreto 772/1997, de 30 de mayo, aplicable a los permisos de conducción de esas clases obtenidos hasta el 10 de septiembre de 2008, así como el código nacional 101 a que se refiere la Orden INT/4151/2004, de 9 de diciembre, mediante el cual se consignará aquélla en el permiso de conducción, quedarán sin efecto a partir de la fecha señalada.

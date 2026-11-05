@@ -1,0 +1,23 @@
+La ausencia de una normativa específica que regule el reintegro de prestaciones pagadas indebidamente por el Fondo de Garantía Salarial, OA (en adelante, FOGASA), en el ámbito de sus competencias, y con el fin de dar cumplimiento a lo previsto en el artículo 77.2 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, hace necesario establecer un mecanismo jurídico para el reintegro de estas prestaciones, regulando un procedimiento para la restitución de estas cantidades, así como dotar a los reintegros de pagos indebidos, a los que se refiere el artículo 77.1 de dicha ley, de un procedimiento coherente y en armonía con los recogidos en las disposiciones específicas precitadas.
+
+Para la regulación de este procedimiento, en el artículo 1 se recoge el concepto de pago indebido y el ámbito de aplicación de la norma. En el artículo 2 se establece el ámbito competencial para declarar un pago como indebido y para ordenar su restitución. La competencia se hace recaer sobre la jurisdicción social o sobre el órgano que dictó el acto que contiene el error material, aritmético o de hecho que ha provocado el pago indebido, en virtud de lo establecido en el artículo 146 de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social.
+
+En los artículos 3 a 6 se establece el procedimiento, distinguiendo los supuestos de revisión de los actos declarativos de derechos en perjuicio de los beneficiarios ante la jurisdicción social y de la rectificación de errores materiales o de hecho y los aritméticos, así como las revisiones motivadas por la constatación de omisiones o inexactitudes en las declaraciones del beneficiario. La competencia se hace recaer sobre la jurisdicción social o sobre el órgano que dictó el acto que contiene el error material, aritmético o de hecho que ha provocado el pago indebido.
+
+El artículo 7 regula el supuesto de compensación en el caso de que el deudor fuese a su vez acreedor del FOGASA, por tener derecho a nueva prestación de garantía salarial.
+
+Los artículos siguientes se centran en la regulación específica del aplazamiento o fraccionamiento de las deudas contraídas con el FOGASA por los perceptores de prestaciones, con el fin de facilitar su reintegro a quienes, por sus circunstancias económico-financieras, les impida de forma transitoria efectuar el pago de la misma en el plazo y términos establecidos en este reglamento de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia.
+
+La orden se adecúa a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, y eficiencia, aquellos a los que ha de ajustarse el ejercicio de la potestad reglamentaria, de acuerdo con el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Así, en virtud de los principios de necesidad y eficacia, la norma está justificada en atención a un fin de interés general, y cuyo objetivo claramente definido es la articulación de un procedimiento administrativo cuya resolución tenga como finalidad la restitución de las cantidades percibidas indebidamente, siendo –además- el instrumento más apropiado para lograr su consecución.
+
+En relación con el principio de proporcionalidad, la norma contiene la regulación imprescindible en esta materia, al haberse constatado la inexistencia de cualquier otra medida menos restrictiva de derechos y, en especial, habiéndose descartado otras alternativas no regulatorias.
+
+En cuanto al principio de seguridad jurídica, la norma persigue dotar de certeza a las distintas situaciones, relaciones y formas de actuación administrativa a través de este procedimiento.
+
+En referencia al principio de transparencia, el proyecto de orden define sus objetivos en el preámbulo y se ha posibilitado la participación de los potenciales destinatarios mediante el trámite de audiencia sustanciado.
+
+Finalmente, en virtud del principio de eficiencia, la norma comporta una serie de cargas administrativas, tanto para la ciudadanía como para las empresas, derivadas de la necesaria cumplimentación de ciertos trámites en las solicitudes de aplazamientos y fraccionamientos, realización de trámites a través de intermediarios y presentación de documentos, si bien la aplicación práctica de la norma también conlleva soluciones electrónicas y digitales para facilitar las gestiones a las personas interesadas.
+
+En su virtud, en uso de la facultad concedida en la disposición final del Real Decreto 505/1985, de 6 de marzo, sobre organización y funcionamiento del Fondo de Garantía Salarial, y con la aprobación previa de la Ministra de Hacienda y Función Pública, dispongo:

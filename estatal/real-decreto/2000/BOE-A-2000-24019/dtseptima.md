@@ -1,0 +1,5 @@
+## Disposición transitoria séptima. Actividad de generación e instalaciones de producción.
+
+1. Los generadores que a la entrada en vigor de la Ley 54/1997, del Sector Eléctrico, fueran titulares de instalaciones autorizadas podrán continuar en el ejercicio de sus actividades dentro de los términos de la autorización. A estos efectos, aquellos titulares de instalaciones autorizadas que no tuvieran personalidad propia dispondrán de un plazo de tres meses para adaptarse a lo dispuesto en los párrafos a) y b) del artículo 9 de la citada Ley. Una vez realizada la adaptación, deberán comunicarlo a la Dirección General de Política Energética y Minas en el plazo de quince días.
+
+2. Las instalaciones de producción que hubieran sido inscritas de forma provisional en el Registro Administrativo de Instalaciones de Producción del Ministerio de Economía dispondrán de un plazo de tres meses para proceder a su inscripción definitiva en el mismo, considerándose, a estos efectos, cumplimentados los requisitos exigidos para efectuar la inscripción previa.

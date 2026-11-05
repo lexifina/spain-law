@@ -1,0 +1,5 @@
+## Séptimo. Almacenamiento y seguridad de las armas y municiones.
+
+1. En las sedes y delegaciones de las empresas de seguridad privada, las armas de guerra y sus municiones deberán ser custodiadas en cajas fuertes/armeros independientes, distintos del resto de los que pudiera poseer la empresa para el almacenamiento de otro tipo de armas y municiones; debiendo, además, cumplir los requisitos establecidos en el apartado Séptimo de la Orden de 23 de abril de 1997, por la que se concretan determinados aspectos en materia de empresas de seguridad, en cumplimiento de la Ley y Reglamento de Seguridad Privada.
+
+2. Sin perjuicio de lo dispuesto en la normativa de Seguridad Industrial, en la autorización de prestación del servicio expedida por la Dirección General de la Policía y de la Guardia Civil, se recogerán los requisitos y medidas de seguridad que deberán cumplirse para el almacenamiento y custodia de las armas y municiones en los buques, contenidas en el informe de idoneidad emitido por la Intervención Central de Armas y Explosivos de la Guardia Civil.

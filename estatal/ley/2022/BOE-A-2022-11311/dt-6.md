@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Régimen transitorio de la aportación a la Corporación de Radio y Televisión Española.
+
+En tanto no entren en vigor las nuevas previsiones relativas a la financiación de la Corporación de Radio y Televisión Española contenidas en la disposición final cuarta conforme a lo establecido en la disposición final novena, continuarán vigentes las obligaciones relativas a la financiación de la Corporación de Radio Televisión Española establecidas en la Ley 8/2009, de 28 de agosto, para los operadores de telecomunicaciones de ámbito geográfico estatal o superior al de una Comunidad Autónoma y para los prestadores del servicio de comunicación audiovisual televisivo de ámbito geográfico estatal o superior al de una Comunidad Autónoma.

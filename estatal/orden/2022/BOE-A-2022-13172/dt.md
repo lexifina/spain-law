@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Aplicabilidad de la Orden ECD/1361/2015, de 3 de julio, por la que se establece el currículo de Educación Secundaria Obligatoria y Bachillerato para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte, y se regula su implantación, así como la evaluación continua y determinados aspectos organizativos de las etapas.
+
+1. El currículo regulado de acuerdo con la Orden ECD/1361/2015, de 3 de julio, por la que se establece el currículo de Educación Secundaria Obligatoria y Bachillerato para el ámbito de gestión del Ministerio de Educación, Cultura y Deporte, y se regula su implantación, así como la evaluación continua y determinados aspectos organizativos de las etapas, será de aplicación en los cursos segundo y cuarto de Educación Secundaria Obligatoria durante el año académico 2022-2023.
+
+2. Asimismo, las pruebas que hasta el final del curso 2023-2024 se realicen para la obtención directa del título de Graduado en Educación Secundaria Obligatoria se organizarán basándose en el currículo regulado por la Orden ECD/651/2017, de 5 de julio, por la que se regula la enseñanza básica y su currículo para las personas adultas en modalidad presencial, a distancia y a distancia virtual, en el ámbito de gestión del Ministerio de Educación, Cultura y Deporte.
+
+3. En todo caso, se tendrá en cuenta que los estándares de aprendizaje evaluables que figuran en los anexos de dichas órdenes tienen carácter meramente orientativo.

@@ -1,0 +1,21 @@
+La disposición adicional única del Real Decreto 288/2021, de 20 de abril, por el que se modifica el Real Decreto 1060/2015, de 20 de noviembre, de ordenación, supervisión y solvencia de las entidades aseguradoras y reaseguradoras; se da nueva redacción al artículo 34 del Reglamento de Ordenación y Supervisión de los Seguros Privados, aprobado por el Real Decreto 2486/1998, de 20 de noviembre; y se modifica el Reglamento para la aplicación de la Ley 87/1978, de 28 de diciembre, sobre Seguros Agrarios Combinados, aprobado por el Real Decreto 2329/1979, de 14 de septiembre, prevé la creación, en el plazo de seis meses desde la entrada en vigor de dicho real decreto, de la Comisión técnica de análisis de las hipótesis en las que se basa la elaboración de las tablas biométricas, mediante orden ministerial de la persona titular del Ministerio de Asuntos Económicos y Transformación Digital.
+
+En cumplimiento de dicho mandato legislativo, se dicta la presente orden que tiene por objeto crear la citada Comisión y regular su composición, organización y funciones.
+
+En el seno de las instituciones de la Unión Europea, así como de un gran número de países de la OCDE, se aplica desde hace años una política conocida como «mejora de la regulación» (better regulation), que plantea no sólo incrementar la calidad técnica de las normas y simplificar el ordenamiento jurídico, sino también potenciar su eficacia y eficiencia mediante el uso de distintos métodos de evaluación.
+
+Esta norma busca alcanzar dichos objetivos a través de la creación de una comisión que analizará de manera continuada en el tiempo la adecuación de las tablas biométricas publicadas por la Dirección General de Seguros y Fondos de Pensiones respecto a la evolución real de la mortalidad, supervivencia, invalidez y morbilidad.
+
+De esta manera, se podrá verificar la vigencia de las hipótesis en las que se basa la elaboración de tales tablas. Adicionalmente, su trabajo y experiencia adquirida resultarán muy útiles llegado el momento de proceder a la actualización de las tablas.
+
+La creación de este órgano colegiado se realiza mediante orden ministerial, de conformidad con lo dispuesto en el artículo 22.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+Esta orden responde a los principios de buena regulación establecidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Es acorde con los principios de necesidad y eficacia, en tanto que crea una Comisión para analizar la adecuación de las tablas biométricas publicadas por la Dirección General de Seguros y Fondos de Pensiones respecto al comportamiento real de las tasas de mortalidad, supervivencia, invalidez y morbilidad, con el objetivo final de garantizar la adecuada protección de los tomadores, asegurados y beneficiarios de los contratos de seguros. Además, es conforme con el principio de proporcionalidad, al contener la regulación imprescindible para la consecución de los objetivos mencionados, y, asimismo, se ajusta al principio de seguridad jurídica, puesto que la iniciativa normativa se ha ejercido de manera coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea, para generar un marco normativo estable, predecible, integrado, claro y de certidumbre, que facilite su conocimiento y comprensión.
+
+En cuanto al principio de transparencia, al tratarse de una norma organizativa de la Administración General del Estado, se ha prescindido de los trámites de consulta pública y de audiencia e información pública. No obstante, la orden ha sido sometida a la consideración de la Junta Consultiva de Seguros y Fondos de Pensiones.
+
+Atendiendo además al principio de eficiencia, no genera costes adicionales para las administraciones públicas ni nuevas cargas innecesarias para las entidades.
+
+La orden consta de cinco artículos, una disposición adicional única y una disposición final, dictándose al amparo de lo previsto en el artículo 149.1.11.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva sobre las bases de la ordenación del crédito, banca y seguros.
+
+Por todo ello, a propuesta de la Dirección General de Seguros y Fondos de Pensiones, y con la aprobación previa de la Ministra de Hacienda y Función Pública, dispongo:

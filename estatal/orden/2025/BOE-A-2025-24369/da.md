@@ -1,0 +1,3 @@
+## Disposición adicional primera. Normativa aplicable a la vía de revisión económica-administrativa y a los Tribunales Económico-Administrativos a los efectos de su actuación y funcionamiento por medios electrónicos.
+
+Será de aplicación a la vía de revisión económica-administrativa y a los Tribunales Económico-Administrativos, a los efectos de su actuación y funcionamiento por medios electrónicos, la normativa que en cada momento sea de aplicación a la Agencia Estatal de Administración Tributaria y, en particular, la relativa al sistema de representación, de apoderamientos y su registro, al sistema de notificación electrónica, así como la referente a los sellos electrónicos, código seguro de verificación y firma mediante código seguro de verificación.

@@ -1,0 +1,5 @@
+## Artículo tercero.
+
+Uno. El Real Decreto de convocatoria contendrá el texto íntegro del proyecto de disposición o, en su caso, de la decisión política objeto de la consulta; señalará claramente la pregunta o preguntas a que ha de responder el Cuerpo electoral convocado y determinará la fecha en que haya de celebrarse la votación, que deberá producirse entre los treinta y los ciento veinte días posteriores a la fecha de publicación del propio Real Decreto.
+
+Dos. El Real Decreto de convocatoria del referéndum se publicará en el «Boletín Oficial del Estado» y se insertará íntegramente en los «Boletines Oficiales» de todas las provincias españolas o de las Comunidades Autónomas y de las provincias afectadas por la celebración de aquél; asimismo, habrá de difundirse en todos los diarios que se editen en ellas y en los de mayor circulación de España dentro de los cinco días naturales siguientes a su publicación en el «Boletín Oficial del Estado»; igualmente se fijará en los tablones de edictos de la totalidad de los Ayuntamientos afectados, así como en todas las representaciones diplomáticas y consulares, y será difundido por radio y televisión.

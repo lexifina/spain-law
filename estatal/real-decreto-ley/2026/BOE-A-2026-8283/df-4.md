@@ -1,0 +1,3 @@
+## Disposición final cuarta. Títulos competenciales.
+
+Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.6.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de legislación mercantil, en el artículo 149.1.13.ª que atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, en el artículo 149.1.20.ª, que atribuye al Estado la competencia exclusiva en materia de marina mercante y abanderamiento de buques; puertos de interés general; y en el artículo 149.1.21.ª, que atribuye al Estado la competencia exclusiva en materia de ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma.

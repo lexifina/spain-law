@@ -1,0 +1,3 @@
+## Segundo.
+
+Delegar en las personas que ocupen los puestos de Asesor Jurídico o Asesora Jurídica, en los supuestos y forma previstos en la instrucción sobre la gestión de la tramitación de las solicitudes de vacaciones, permisos, licencias y excedencias aprobada por la Gerencia de MUGEJU en fecha 8 de noviembre de 2023, la resolución de permisos y licencias del personal que presta sus servicios en las Delegaciones Provinciales, previa comprobación de los requisitos legalmente exigibles por parte de la persona responsable de la unidad de personal o quien ejerza sus funciones. En el supuesto de solicitud de vacaciones y permisos por asuntos particulares será requisito previo el informe positivo del Delegado o Delegada Provincial.

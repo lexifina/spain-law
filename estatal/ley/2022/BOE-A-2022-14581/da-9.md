@@ -1,0 +1,3 @@
+## Disposición adicional novena. Informe sobre el cumplimiento de los cupos establecidos en el nuevo artículo 22 bis de la Ley 14/2011, de 1 de junio, sobre el reconocimiento del certificado R3.
+
+La Agencia Estatal de Investigación realizará un informe cada tres años a partir de la entrada en vigor de la presente ley acerca del cumplimiento de los cupos establecidos en el nuevo artículo 22 bis de la Ley 14/2011, de 1 de junio, sobre el reconocimiento del certificado R3 como investigador/a establecido/a y participación en procesos selectivos, así como de la incorporación estable del personal que ha sido contratado con la modalidad del artículo 22 de la misma Ley 14/2011. Dicho informe deberá ser público.

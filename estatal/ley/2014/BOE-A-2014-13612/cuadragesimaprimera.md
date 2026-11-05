@@ -1,0 +1,17 @@
+## Disposición adicional cuadragésima primera. Apoyo financiero a las actuaciones en Parques Científicos y Tecnológicos.
+
+Uno. El Ministerio de Economía y Competitividad, previo informe preceptivo y vinculante de la Secretaría de Estado de Presupuestos y Gastos, a solicitud de las entidades promotoras de parques científicos y tecnológicos cuya titularidad ostenten las Administraciones Públicas o instituciones públicas sin ánimo de lucro que se hubieran acogido a alguno de los aplazamientos previstos en la disposición adicional cuadragésima octava de la Ley 39/2010, de 22 de diciembre, de Presupuestos Generales del Estado para el año 2011, en la disposición adicional trigésima quinta de la Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012, y en la disposición adicional cuadragésima tercera de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013, podrá conceder una moratoria, para las cuotas aplazadas en virtud de las disposiciones adicionales citadas con vencimiento en el año 2015, más sus intereses. A tal efecto se constituirá un nuevo crédito por la totalidad del importe de las cuotas a aplazar, más sus intereses, con vencimiento a 1 de enero de 2017 y plazo de amortización de hasta veinte años, con amortizaciones anuales constantes.
+
+Dos. Lo previsto en el apartado anterior también será de aplicación a aquellas entidades que en su día solicitaron acogerse a los citados aplazamientos pero no obtuvieron una resolución definitiva favorable de concesión a causa de no haber podido aportar, en aquel momento, las garantías adicionales exigidas, o no se llegó a emitir resolución. En este caso, junto a la solicitud de moratoria, se deberán aportar las citadas garantías adicionales exigidas. Si el Ministerio de Economía y Competitividad hubiera llegado a emitir en su día una propuesta de resolución provisional favorable, el importe de las cuotas a aplazar será el que figure como pagos 2015 en dicha propuesta de resolución provisional. Si no se llegó a emitir la propuesta de resolución provisional, el importe de las cuotas a aplazar será el que hubiera correspondido que figurara como pago 2015 en la citada propuesta.
+
+Tres. El Ministerio de Economía y Competitividad concederá la moratoria una vez comprobada la viabilidad económica y financiera de la entidad solicitante o, en su caso, constatada la asunción solidaria de la deuda por la Administración pública de dependencia, con arreglo a las siguientes condiciones:
+
+1. Se respetarán los límites de intensidad de ayuda permitidos por la normativa comunitaria en materia de ayudas de Estado.
+
+2. El nuevo crédito devengará el tipo de interés de la deuda emitida por el Estado en instrumentos con vencimiento similar.
+
+3. Deberán aportarse las garantías adicionales que en cada caso se determinen.
+
+4. En el caso de entidades del sector público, la operación deberá contar con la autorización de la Administración a la que la entidad pertenezca y adicionalmente dicha Administración deberá asumir solidariamente el pago de la deuda cuya moratoria se solicita. Así mismo, las cuotas del nuevo crédito podrán ser objeto de compensación con cualquier pago que debiera realizarse desde el Estado a la citada Administración.
+
+Cuatro. Se habilita a la titular de la Secretaría de Estado de Investigación, Desarrollo e Innovación para dictar las resoluciones e instrucciones que, en su caso, sean precisas para el cumplimiento de esta disposición.

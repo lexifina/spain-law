@@ -1,0 +1,7 @@
+## Disposición adicional sexta. Personal voluntario de entidades benéficas.
+
+1. El personal voluntario que desempeñe las funciones de conductor o de conductor en funciones de ayudante en las ambulancias destinadas a la prestación de los servicios de transporte sanitario de Cruz Roja Española o de otras entidades cuya actividad principal sea la prestación de servicios de asistencia sanitaria con una finalidad humanitaria y social de carácter general, deberá ostentar, como mínimo, el certificado de profesionalidad de transporte sanitario previsto en el Real Decreto 710/2011, de 20 de mayo, por el que se establecen dos certificados de profesionalidad de la familia profesional Sanidad que se incluyen en el Repertorio Nacional de certificados de profesionalidad, sin que le resulten de aplicación los requisitos de formación establecidos en el artículo 4.1 del presente real decreto.
+
+2. Cruz Roja Española y demás entidades benéficas a las que se refiere el apartado anterior deberán, a efectos de lo dispuesto sobre la dotación mínima de personal en el artículo 4.2 de este real decreto, acreditar la condición de voluntarios de quienes desempeñen las funciones de conductor o de conductor en funciones de ayudante en las ambulancias destinadas a la prestación de los servicios de transporte sanitario por carretera de acuerdo a lo previsto en la Ley 6/1996, de 15 de enero, del Voluntariado y demás legislación de desarrollo que resulte de aplicación.
+
+> Se añade por el art. único.2 del Real Decreto 22/2014, de 17 de enero. Ref. BOE-A-2014-749.

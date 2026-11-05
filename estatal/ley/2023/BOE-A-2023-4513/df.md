@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Ley 1/1996, de 10 de enero, de asistencia jurídica gratuita.
+
+Se añade una nueva letra k) al artículo 2 de la Ley 1/996, de 10 de enero, de asistencia jurídica gratuita, con la siguiente redacción:
+
+> «k) Las personas que comuniquen infracciones en los términos de la Ley reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción, a la Autoridad Independiente de Protección del Informante, A.A.I., o a las autoridades autonómicas respectivas, siempre que cumplan las condiciones de protección recogidas en la citada Ley, siempre que cuenten con unos recursos e ingresos económicos brutos, computados anualmente por todos los conceptos y por unidad familiar, inferiores a cuatro veces el indicador público de renta de efectos múltiples vigente en el momento de comunicar la información, y exclusivamente para los procedimientos seguidos en cualquier orden jurisdiccional que sean consecuencia directa de la infracción comunicada.»

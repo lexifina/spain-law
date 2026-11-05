@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Colaboración de los medios de comunicación.
+
+Según lo previsto el artículo 7 bis.8 de la Ley 17/2015, de 9 de julio, los medios de comunicación están obligados a colaborar de manera gratuita con las autoridades en la difusión de las informaciones preventivas y operativas ante los riesgos y emergencias en la forma que aquellas les indiquen, garantizando que toda la información facilitada sea accesible y comprensible utilizando medios y canales adecuados para las personas con discapacidad, y en los términos que se establezcan en los correspondientes planes de emergencia nuclear del nivel de respuesta exterior, y en los planes especiales de protección civil ante el riesgo radiológico.

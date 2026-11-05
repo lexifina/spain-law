@@ -1,0 +1,5 @@
+## Art. 96. Calificación legal.
+
+A los efectos de los artículos 43 y 52 de la Ley, se entiende por Sociedades deportivas de pesca las constituidas de acuerdo con la legislación vigente de Asociaciones e incorporadas a la Delegación Nacional de Deportes de F. E. T. y de las J. O. N. S. a través de la Federación Española de Pesca, por medio de sus respectivas Delegaciones regionales, y que se hallen al corriente en el pago de sus cuotas reglamentarias.
+
+Asimismo a los efectos de los artículos citados y del 44 de la propia Ley, son Organismos sindicales de profesionales de pesca fluvial legalmente constituidos los Organismos sindicales locales de pesca profesional, dedicados a la pesca continental con fines exclusivos de explotación industrial, que estén integrados y encuadrados en el correspondiente Sindicato Nacional para la Pesca continental, u otro que abarque esta rama de la producción, con estatutos aprobados por el Mando del Movimiento y Decreto de reconocimiento oficial de su constitución y personalidad juridica, como Corporación de derecho público.

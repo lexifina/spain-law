@@ -1,0 +1,7 @@
+## Disposición adicional undécima. Instituto de Salud Carlos III.
+
+1. El Instituto de Salud Carlos III, organismo público de investigación con carácter de organismo autónomo, adscrito orgánicamente al Ministerio de Economía y Competitividad, tendrá una doble dependencia funcional de los Ministerios de Sanidad, Servicios Sociales e Igualdad y de Economía y Competitividad, en la esfera de sus respectivas competencias.
+
+En particular, el Instituto de Salud Carlos III dependerá funcionalmente del Ministerio de Sanidad, Servicios Sociales e Igualdad para la realización de aquellas actividades que desarrolle en materia de salud, de planificación y asistencia sanitaria y, en coordinación con el Ministerio de Economía y Competitividad, de aquellas otras de investigación aplicada cuando tengan traslación al Sistema Nacional de Salud.
+
+2. En el plazo de tres meses a contar desde la fecha de entrada en vigor de este real decreto, se modificará el Real Decreto 785/2009, de 30 de abril, por el que se constituye la Comisión Mixta de coordinación entre el Ministerio de Ciencia e Innovación y el Ministerio de Sanidad y Política Social, en relación con el Instituto de Salud Carlos III, con el fin de adecuar el mismo a las nuevas estructuras ministeriales y a las competencias de los Ministerios de Economía y Competitividad y de Sanidad, Servicios Sociales e Igualdad en relación con dicho Instituto.

@@ -1,0 +1,3 @@
+## Art. 2. Complemento en pensiones de invalidez por necesidad de otra persona.
+
+La cuantía de la pensión de invalidez se incrementará con un complemento siempre que, siendo el porcentaje de minusvalía o enfermedad crónica del beneficiario igual o superior al 75 por 100, la aplicación del baremo a que se hace referencia en el artículo 4.º de este Real Decreto haya determinado la necesidad del concurso de otra persona para realizar los actos más esenciales de la vida, tales como vestirse, desplazarse, comer o análogos. El importe de dicho complemento será equivalente al 50 por 100 de la cuantía de la pensión que se fije anualmente en la correspondiente Ley de Presupuestos Generales del Estado.

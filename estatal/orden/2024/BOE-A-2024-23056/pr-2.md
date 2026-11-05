@@ -1,0 +1,5 @@
+## Primero. Objeto y ámbito de aplicación.
+
+1. La presente orden tiene por objeto determinar y actualizar las sedes electrónicas correspondientes a los órganos del Ministerio de Hacienda con la condición de sedes electrónicas asociadas a la Sede Electrónica del Punto de Acceso General electrónico (PAGe) de la Administración General del Estado, con el fin de dar cumplimiento a lo establecido en el artículo 38 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y el artículo 9 al 12 del Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo.
+
+2. El ámbito de aplicación de la presente orden se extiende a los órganos pertenecientes al Ministerio de Hacienda y a los organismos públicos y entidades de derecho público del ámbito del departamento que, conforme a lo establecido en el artículo 58 del Real Decreto 203/2021, de 30 de marzo, se adhieran voluntariamente a una sede asociada del ministerio mediante la formalización del correspondiente instrumento de adhesión.

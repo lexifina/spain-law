@@ -1,0 +1,3 @@
+## Artículo XVII.
+
+El número de miembros de la Comisión de Reclamaciones no aumentará cuando dos o más Estados demandantes o Estados de lanzamiento sean partes conjuntamente en unas mismas actuaciones ante la Comisión Los Estados demandantes que actúen conjuntamente nombrarán colectivamente a un miembro de la Comisión en la misma forma y con sujeción a las mismas condiciones que cuando se trata de un solo Estado demandante. Cuando dos o más Estados de lanzamiento actúen conjuntamente, nombrarán colectivamente y en la misma forma a un miembro de la Comisión. Si los Estados demandantes o los Estados de lanzamiento no hacen el nombramiento dentro del plazo fijado, el Presidente constituirá por sí solo la Comisión.

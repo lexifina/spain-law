@@ -1,0 +1,11 @@
+En la OPS1. Subparte K del anexo del Reglamento (CE) n.º 859/2008, de 20 de agosto, se establecen los instrumentos y equipos mínimos que deben equipar los aviones civiles para poder operar con fines de transporte aéreo comercial. La regulación concreta de los equipos de supervivencia se contiene en la OPS 1.835.
+
+Dado que el procedimiento para la aceptación, instalación, inspección y registro de radiobalizas aeronáuticas de emergencia en el ámbito de la aeronáutica civil está regulado en la Instrucción de la Dirección General de la Aviación Civil 631001, del 3 de marzo de 1998 y que el Reglamento comunitario dispone en su Subparte A, OPS 1.001 que dicho procedimiento no afecta a las Fuerzas Armadas ni a la Guardia Civil, se hace necesario establecer una regulación de los equipos de emergencia en el ámbito militar.
+
+El sistema Cospas/Sarsat es un programa internacional de carácter humanitario para la detección y localización, mediante satélites, de señales de emergencias procedentes de radiobalizas que, actualmente, emiten en la banda de frecuencias de 406 MHz, instaladas en embarcaciones, aeronaves o transportadas por personas. Cada transmisión o mensaje enviado por una radiobaliza de 406 MHz incluye su identificación única, así como el código del país donde debe estar registrada.
+
+Mediante la detección y procesamiento de la señal emitida por estas radiobalizas se puede determinar su posición que será transmitida a los servicios de búsqueda y salvamento, desde el Centro de Control de la Misión Cospas/Sarsat correspondiente. En España este centro se encuentra ubicado en las instalaciones del Instituto Nacional de Técnica Aeroespacial, en el Centro Espacial de Canarias (Estación Espacial de Maspalomas).
+
+El protocolo de actuación, ante la activación de una radiobaliza de emergencia es diferente dependiendo si el ámbito es el de la aeronáutica civil u otro. Para disminuir el tiempo de reacción ante una posible alarma, se hace necesario poder diferenciar la activación de una baliza militar de una civil. Por ello se requiere regular el procedimiento de registro, de manera que en su codificación se reserven unos dígitos cuyo empleo esté limitado a las Fuerzas Armadas y a la Guardia Civil.
+
+En su virtud, con los informes favorables de los Ministerios del Interior y de Fomento, dispongo:

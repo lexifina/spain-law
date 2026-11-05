@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Escalas de Complemento.
+
+Los militares pertenecientes a las Escalas de Complemento que, teniendo concedida la continuación en servicio activo hasta la edad de retiro, no se hayan integrado en una de las Escalas de militares de carrera finalizarán su compromiso al cumplir la edad de pase a reserva que, para las Escalas medias y básicas, dispone el artículo 53.c del Reglamento General de Adquisición y Pérdida de la Condición de Militar y de Situaciones Administrativas del Personal Militar Profesional, aprobado por Real Decreto 1385/1990, de 8 de noviembre, para lo que se aplicará el calendario de adaptación de edades de pase a la situación de reserva, aprobado por Orden 88/1989, de 21 de diciembre.
+
+Los compromisos podrán ser resuellos por las mismas causas que se disponen para la pérdida de la condición de militar de carrera en el Reglamento General de Adquisición y Pérdida de la Condición de Militar Profesional y de Situaciones Administrativas, aprobado por Real Decreto 1385/1990, de 8 de noviembre.

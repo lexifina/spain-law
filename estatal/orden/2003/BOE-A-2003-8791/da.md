@@ -1,0 +1,3 @@
+## Disposición adicional única. Adquisición de animales y material genético por parte del Ministerio de Agricultura, Pesca y Alimentación.
+
+Los ganaderos y propietarios de animales participantes en los esquemas de selección y en las pruebas de caballos jóvenes con destacados resultados y valoraciones genéticas positivas podrán ponerlos a disposición del Ministerio de Agricultura, Pesca y Alimentación y de las Asociaciones de Criadores, para su utilización en los planes de mejora y posible adquisición de dosis seminales para su almacenamiento, distribución y utilización, de acuerdo con los criterios que se establezcan.

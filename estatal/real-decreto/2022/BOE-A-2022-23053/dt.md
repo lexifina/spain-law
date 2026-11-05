@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Resolución de expedientes en tramitación.
+
+Los expedientes correspondientes a la autorización de explotaciones en fase de tramitación sobre los que no haya recaído resolución firme en vía administrativa, pero hubieran satisfecho todos y cada uno de los trámites necesarios para iniciar la construcción de las instalaciones directamente implicadas en el proceso de producción con anterioridad al 6 de abril de 2022, fecha en que la presente norma finalizó el trámite de audiencia pública, se resolverán conforme a la normativa en vigor en el momento en el que se produjo el cumplimiento de dichos trámites.

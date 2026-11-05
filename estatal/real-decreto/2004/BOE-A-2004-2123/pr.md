@@ -1,0 +1,13 @@
+Por Real Decreto 684/1993, de 7 de mayo, se creó el Museo Nacional de Antropología, para unir en una misma institución el Museo del Pueblo Español y el Museo Nacional de Etnología. La nueva institución, sin embargo, conservó la separación, tanto de colecciones como de sedes, de los dos museos de origen, continuando sus líneas independientes de conservación, adquisición, investigación y difusión.
+
+Esta situación ha llevado a realizar un análisis de las colecciones y su origen, líneas de investigación y funcionamiento interno. Este estudio obliga a reorganizar el Museo Nacional de Antropología.
+
+El Museo Nacional de Etnología, heredero del Museo Nacional de Antropología, Etnografía y Prehistoria creado en 1910, albergaba colecciones tanto de Antropología cultural y social como de Antropología física, procedentes de los cinco continentes. Las propiedades funcionales de estas colecciones, unidas a su significado cultural, permiten, en la actualidad, ofrecer, desde una perspectiva contemporánea y con una metodología museológica, una visión global de la cultura de diferentes pueblos, establecer comparaciones y promover la diversidad cultural y la comprensión intercultural. Esta visión, planteada como uno de los objetivos de la institución, obliga a centrar los esfuerzos en el desarrollo de un museo que permita comunicar y difundir conocimientos antropológicos por medio de los objetos que componen las colecciones y que recoja y potencie el estudio de las nuevas formas culturales que están surgiendo, inducidas por el proceso de cambio cultural.
+
+Por otra parte, la colección de textiles e indumentaria que integraban los fondos museográficos del extinguido Museo del Pueblo Español ha evolucionado enriqueciéndose con destacadas adquisiciones y nuevas aportaciones interpretativas, y constituye actualmente un conjunto de suficiente entidad como para servir de eje principal a la exposición permanente de un nuevo museo.
+
+En consecuencia, de acuerdo con los principios señalados, se considera conveniente reorganizar el Museo Nacional de Antropología, manteniendo la colección del antiguo Museo Nacional de Etnología y destinando los fondos museográficos del Museo del Pueblo Español a un museo de nueva creación, al amparo de lo dispuesto en el artículo 61 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, y los artículos 3 y 4 del Reglamento de museos de titularidad estatal y del sistema español de museos, aprobado por el Real Decreto 620/1987, de 10 de abril.
+
+En su virtud, a propuesta de la Ministra de Educación, Cultura y Deporte, con la aprobación previa de la Ministra de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 23 de enero de 2004,
+
+DISPONGO:

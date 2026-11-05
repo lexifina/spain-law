@@ -1,0 +1,11 @@
+La normativa básica reguladora de la Comisión Nacional de Administración Local viene conformada por los artículos 117, 118 y 119 de la Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local, y, en su desarrollo, por los Reales Decretos 1431/1997, de 15 de septiembre, por el que se regula la composición y funciones de la Comisión Nacional de Administración Local, y 907/2001, de 27 de julio, por el que se modifica el anterior, y que da una nueva redacción a los artículos 3, 4, 5 y 10.
+
+La reciente Ley 57/2003, de 16 de diciembre, de medidas para la modernización del gobierno local, con el objeto de flexibilizar su funcionamiento, según el tenor literal de su exposición de motivos, ha modificado la redacción originaria del citado artículo 117 de la Ley 7/1985, de 2 de abril, al tiempo que sustituye la rúbrica original del título IX de dicha norma. Las novedades que introduce la citada Ley 57/2003, de 16 de diciembre, consisten, por una parte, en remitir a una norma reglamentaria el régimen de constitución y adopción de acuerdos de los órganos que integran la Comisión Nacional de Administración Local y, por otra, en consagrar una reserva de las funciones de informe sobre determinadas materias a favor del pleno de dicho órgano.
+
+Estas circunstancias, unidas a la necesidad de acometer determinadas mejoras de naturaleza técnico-jurídica, así como los cambios organizativos introducidos en diversos departamentos ministeriales y la conveniencia de adaptar su composición a las circunstancias actuales de las relaciones entre el Estado y los gobiernos locales, aconsejan la elaboración de un nuevo texto en el que se unifique la normativa reglamentaria reguladora de la Comisión Nacional de Administración Local, con la finalidad tanto de asegurar la seguridad jurídica proclamada en el artículo 9.3 de la Constitución de 1978 como de adecuarla a las innovaciones introducidas en la legislación básica estatal y de introducir cambios en la composición de la representación estatal.
+
+Este real decreto ha sido sometido a informe de la Comisión Nacional de Administración Local.
+
+En su virtud, a propuesta del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 15 de abril de 2005,
+
+## D I S P O N G O :

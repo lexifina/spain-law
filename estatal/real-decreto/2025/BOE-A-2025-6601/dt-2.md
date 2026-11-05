@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Medidas hasta la implantación de la Ley 20/2011, de 21 de julio, del Registro Civil.
+
+Mientras no esté implantada la Ley 6/2021, de 28 de abril, por la que se modifica la Ley 20/2011, de 21 de julio, del Registro Civil, en todo el territorio nacional, las personas que no dispongan de Registro individual deberán aportar certificación literal de nacimiento, en la que conste la anotación de que se ha emitido a los solos efectos de la obtención del Documento Nacional de Identidad y siempre que se hayan expedido con una antelación máxima de seis meses a la fecha de la tramitación del documento.

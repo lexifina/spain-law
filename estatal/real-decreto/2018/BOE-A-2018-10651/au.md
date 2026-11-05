@@ -1,0 +1,5 @@
+## Artículo único. Incremento de la cuantía de la bonificación al transporte regular, marítimo y aéreo, de pasajeros entre los territorios no peninsulares y resto del territorio nacional.
+
+El porcentaje de las bonificaciones al transporte regular, marítimo y aéreo, para residentes en Canarias, Illes Balears, Ceuta y Melilla, establecido en los apartados dos y tres de la disposición adicional décima tercera de la Ley 17/2012, de 27 de diciembre, de Presupuestos Generales del Estado para el año 2013, para los trayectos directos, ya sean de ida o de ida y vuelta, entre el respectivo territorio no peninsular y el resto del territorio nacional queda fijado, con carácter indefinido, en el setenta y cinco por ciento.
+
+Salvo lo dispuesto en el párrafo anterior en relación al porcentaje de la bonificación de la tarifa del servicio regular de los trayectos directos entre el respectivo territorio no peninsular y el resto del territorio nacional, los apartados dos y tres de la disposición adicional décima tercera de la Ley 17/2012, de 27 de diciembre, seguirán siendo aplicables en sus propios términos.

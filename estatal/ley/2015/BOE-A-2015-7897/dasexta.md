@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Entidades con cometido especial.
+
+Las entidades con cometido especial domiciliadas en España que cumplan las condiciones establecidas en la normativa específica que les resulte de aplicación, podrán solicitar en España autorización administrativa para el ejercicio de sus actividades, que se otorgará por el Ministro de Economía y Competitividad conforme al procedimiento que se determine reglamentariamente, teniendo en cuenta la normativa de la Unión Europea de directa aplicación. El plazo máximo para resolver y notificar la resolución es de seis meses. Transcurrido este plazo sin haberse notificado resolución expresa, se entenderá desestimada la solicitud.

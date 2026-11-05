@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+El Ministro de Economía y Hacienda podrá dictar, en relación con las liquidaciones de los presupuestos locales de los ejercicios 1989 y 1990, normas e instrucciones para su práctica, debiendo hacerlo necesariamente respecto a la liquidación del ejercicio 1991, a fin de que todas las Entidades locales, conforme dispone la disposición transitoria novena de la Ley 39/1988, de 28 de diciembre, puedan elaborar y ejecutar sus presupuestos de 1992 con criterios homogéneos que permitan el adecuado cumplimiento de cuanto al respecto se establece en el presente Real Decreto.

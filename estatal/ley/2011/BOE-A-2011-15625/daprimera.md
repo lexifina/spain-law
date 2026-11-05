@@ -1,0 +1,3 @@
+## Disposición adicional primera. Constitución de sociedades de responsabilidad limitada.
+
+Quienes cumpliendo los requisitos previstos en el artículo 3 de la presente Ley decidan no crear una explotación agraria de titularidad compartida, podrán constituir entre sí una sociedad de responsabilidad limitada de las previstas en el artículo 5. Dos del Real Decreto-Ley 13/2010, de 3 de diciembre, de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo. Estas sociedades se ajustarán a los Estatutos-tipo que se aprueben por el Ministerio de Justicia, con las bonificaciones y exenciones fiscales que legalmente se determinen.

@@ -1,0 +1,3 @@
+## Disposición transitoria novena. Proceso de estabilización de las plazas del personal técnico, de gestión y de administración y servicios de las universidades públicas.
+
+Antes del 31 de diciembre de 2024 y conforme a lo establecido por la Ley 20/2021, de 28 de diciembre, las universidades públicas deberán articular procesos de estabilización de las plazas de su personal técnico, de gestión y de administración y servicios. El sistema de selección en estos procesos será el de concurso o concurso-oposición garantizando los principios de igualdad, mérito, capacidad, publicidad y concurrencia. Estas plazas no computarán en la tasa de reposición de efectivos. De la resolución de estos procesos no podrá resultar, en ningún caso, incremento de efectivos.

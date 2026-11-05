@@ -1,0 +1,5 @@
+Por Real Decreto novecientos ochenta y ocho/mil novecientos setenta y ocho, de catorce de abril, se transformaron en Facultades de Bellas Artes las Escuelas Superiores de igual denominación con las previsiones contenidas en la disposición transitoria segunda, cuatro, de la Ley General de Educación. Iniciados los estudios en dichas Facultades, es preciso que el personal docente de las mismas reúna los requisitos necesarios para llevar a cabo la preparación del personal docente e investigador que asegure el normal desenvolvimiento de los referidos Centros. Para ello se establece un procedimiento singular para que el actual profesorado, procedente de los Cuerpos de Catedráticos Numerarios y de Profesores Auxiliares de Bellas Artes, puedan obtener el grado de Doctor.
+
+En su virtud, con el informe favorable de la Junta Nacional de Universidades, a propuesta del Ministro de Universidades e Investigación y previa deliberación del Consejo de Ministros en su reunión del día veintisiete de febrero de mil novecientos ochenta y uno,
+
+DISPONGO:

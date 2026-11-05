@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+Las promociones de viviendas de protección oficial que calificadas definitivamente antes de la entrada en vigor de esta disposición no tengan cedidas las viviendas destinadas a minusválidos, por no existir peticiones al respecto, podrán, previa certificación extendida al efecto por las Direcciones Provinciales del INSERSO, solicitar autorización de la Delegación Provincial del Ministerio de Obras Públicas y Urbanismo para ceder directamente a cualquier otro interesado, el porcentaje de viviendas que supere el establecido en el artículo primero del Real Decreto trescientos cincuenta y cinco/mil novecientos ochenta, viniendo obligados respecto a las demás, a observar el plazo establecido en el artículo cuarto de esta disposición.

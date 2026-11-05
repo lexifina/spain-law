@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única del Real Decreto 1388/2011, de 14 de octubre. Ref. BOE-A-2011-16174#ddunica., sin perjuicio de lo establecido en la disposición adicional 1, de reconocimiento de equivalencia.

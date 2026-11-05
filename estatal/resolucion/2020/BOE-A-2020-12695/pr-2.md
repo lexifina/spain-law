@@ -1,0 +1,3 @@
+## Primero. Objeto.
+
+La presente resolución, en virtud del artículo 71 del Reglamento (UE) 2018/1139, amplía los plazos de exención concedidos en la Resolución de 2 de abril de 2020, de la Dirección de la Agencia Estatal de Seguridad Aérea, publicada en el «Boletín Oficial del Estado» de 8 de abril de 2020, en el ámbito del Reglamento (UE) n.º 1321/2014 (formación de tipo y OJT) necesarios para la inclusión de una habilitación de tipo en una licencia de mantenimiento de aeronaves a los requisitos aplicables referidos en el apartado segundo de esta resolución, siempre que se cumplan las condiciones recogidas en los apartados siguientes.

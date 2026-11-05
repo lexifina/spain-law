@@ -1,0 +1,3 @@
+En testimonio de lo cual, los plenipotenciarios que suscriben, debidamente autorizados, firman el presente Protocolo.
+
+Hecho en Ciudad del Cabo el día dieciséis de noviembre de dos mil uno en un solo original, en español, árabe, chino, francés, inglés y ruso, siendo todos los textos igualmente auténticos. Dicha autenticidad tendrá efecto una vez que la Secretaría conjunta de la Conferencia diplomática para adoptar un Convenio relativo a equipo móvil y un Protocolo aeronáutico, bajo la autoridad del Presidente de la Conferencia, verifique la conformidad de los textos entre sí dentro de un plazo de noventa días a partir de la fecha del presente.

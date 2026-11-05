@@ -1,0 +1,3 @@
+## Disposición adicional décima. Facturación de la energía excedentaria de las instalaciones de cogeneración a las que se refiere la disposición transitoria 8.ª 2.ª de la Ley 54/1997, de 27 de noviembre.
+
+La facturación de la energía excedentaria incorporada al sistema por las instalaciones de cogeneración a que se refiere la refiere la Disposición Transitoria 8.ª 2.ª de la Ley 54/1997, de 27 de noviembre durante la vigencia de dicha disposición transitoria, debe corresponder con la efectuada a la empresa distribuidora, en base a la configuración eléctrica de su interconexión entre el productor-consumidor y la red, de acuerdo con lo establecido en su momento por el órgano competente en las autorizaciones de las instalaciones.

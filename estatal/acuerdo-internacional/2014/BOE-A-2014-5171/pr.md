@@ -1,0 +1,1 @@
+El Reino de España y el Reino Unido de Gran Bretaña e Irlanda del Norte, deseando concluir un Convenio para evitar la doble imposición y prevenir la evasión fiscal en materia de Impuestos sobre la Renta y sobre el Patrimonio, han acordado lo siguiente:

@@ -1,0 +1,3 @@
+## Sección 3.ª Prestaciones públicas por salida de pasajeros, PMRs y seguridad
+
+> Se añade por el art. único.21 de la Ley 1/2011, de 4 de marzo. Ref. BOE-A-2011-4116.

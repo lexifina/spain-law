@@ -1,0 +1,3 @@
+## Disposición final cuarta.
+
+A la entrada en vigor de la presente Ley, y con objeto de financiar las plazas del Cuerpo que se crea en el artículo primero, se amortizarán las plazas no escalafonadas que figuran en los Presupuestos Generales del Estado (Sección dieciséis, Servicio cinco, capítulo I, numeración económica ciento doce) con las denominaciones expresadas en los anexos de: Cinco Inspectores regionales, Farmacéuticos y un Jefe de Sección de Registro Farmacéutico en los Servicios Centrales; cincuenta y dos Inspectores provinciales de Farmacia en las Jefaturas Provinciales de Sanidad; un Jefe de Servicio y cuatro Técnicos de Laboratorio en el Centro Nacional de Farmacobiología, y un Farmacéutico en la Dirección General de Beneficencia y Obras Sociales.

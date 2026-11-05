@@ -1,0 +1,3 @@
+## Tercero.
+
+En el periodo comprendido entre el 1 de enero y el 30 de junio de 2016, aquellos proveedores que dispongan del certificado de los nuevos equipos de medida, control y comunicaciones al que hace referencia el apartado tercero. 3.5 del procedimiento aprobado por la resolución de 29 de octubre de 2014, de la Secretaría de Estado de Energía, por la que se aprueba el procedimiento del sistema de comunicación, ejecución y control del servicio de gestión de la demanda de interrumpibilidad regulado en la Orden IET/2013/2013, de 31 de octubre, podrán optar por la utilización de dichos nuevos equipos, o bien seguir utilizando los equipos que venían utilizando adaptados según lo dispuesto en el apartado quinto.2 de la mencionada resolución de 29 de octubre de 2014.

@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión del día 29 de marzo de 2022, a propuesta de la Ministra de Trabajo y Economía Social, de la Ministra de Asuntos Económicos y Transformación Digital y del Ministro de Inclusión, Seguridad Social y Migraciones, ha aprobado un Acuerdo por el que se declara la activación del Mecanismo RED de Flexibilidad y Estabilización del Empleo, de conformidad con el artículo 47 bis del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre, para el sector de las agencias de viaje.
+
+Para general conocimiento, se dispone su publicación como anexo a la presente Orden.

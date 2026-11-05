@@ -1,0 +1,3 @@
+## Disposición adicional única. Normativa aplicable.
+
+Las ayudas a que se refiere este real decreto se regirán, además de por lo dispuesto en el mismo, por lo establecido en la Ley 1/2005, de 9 de marzo, por la que se regula el régimen del comercio de derechos de emisión de gases de efecto invernadero; la Ley 38/2003, de 17 de noviembre, General de Subvenciones y su Reglamento, aprobado por Real Decreto 887/2006, de 21 de julio; así como en la Ley 47/2003, de 26 de noviembre, General Presupuestaria; Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, y las demás disposiciones que resulten de aplicación.

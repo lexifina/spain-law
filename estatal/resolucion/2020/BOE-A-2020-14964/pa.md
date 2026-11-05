@@ -1,0 +1,3 @@
+El Consejo de Ministros en su reunión del día 24 de noviembre de 2020, ha adoptado un Acuerdo por el que se establecen los términos y condiciones de los nuevos tramos de la línea de avales aprobada por Real Decreto-ley 25/2020, de 3 de julio, para financiación concedida a empresas en convenio y a aquellas que, sin estarlo, estaban en proceso de renovación de su programa de pagarés en el mercado alternativo de renta fija (MARF) a 23 de abril de 2021.
+
+A los efectos de dar publicidad al mencionado Acuerdo del Consejo de Ministros de 24 de noviembre de 2020, esta Secretaría de Estado de Economía y Apoyo a la Empresa ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente Resolución.

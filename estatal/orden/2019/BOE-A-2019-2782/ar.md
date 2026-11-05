@@ -1,0 +1,3 @@
+## Artículo 1. Objeto.
+
+En el curso 2018/2019, las pruebas de evaluación final de la Educación Secundaria Obligatoria, se realizarán de acuerdo con lo previsto en la Orden ECD/65/2018, de 29 de enero, por la que se regulan las pruebas de la evaluación final de Educación Secundaria Obligatoria para el curso 2017/2018, incluidos los anexos correspondientes, de conformidad con lo dispuesto en el Real Decreto-ley 5/2016, de 9 de diciembre, de medidas urgentes para la ampliación del calendario de implantación de la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, con las modificaciones que se establecen en esta orden.

@@ -1,0 +1,3 @@
+## ANEXO II
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1996/54/04945_002.png)

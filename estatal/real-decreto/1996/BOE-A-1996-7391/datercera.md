@@ -1,0 +1,13 @@
+## Disposición adicional tercera. Modificación del Reglamento General sobre cotización y liquidación de otros derechos de Seguridad Social.
+
+1. El apartado 1 del artículo 32 del Reglamento General sobre cotización y liquidación de otros derechos de la Seguridad Social, aprobado por Real Decreto 2064/1995, de 22 de diciembre, queda redactado en los siguientes términos:
+
+«Artículo 32. Artistas en espectáculos públicos.
+
+1. Respecto a los artistas sujetos a la relación laboral especial de los artistas en espectáculos públicos, así como respecto del personal técnico y auxiliar figurado en el apartado 3.II de este mismo artículo, la cotización para todas las contingencias y situaciones amparadas por la acción protectora del Régimen General, incluidas las de accidentes de trabajo y enfermedades profesionales, y las demás aportaciones que se recauden conjuntamente con las cuotas de la Seguridad Social, se regirá por las normas de las subsecciones precedentes de esta misma sección 2.ª, sin otras particularidades que las establecidas en los apartados siguientes.»
+
+2. El artículo 79 del Reglamento General sobre cotización y liquidación de otros derechos de Seguridad Social, aprobado por Real Decreto 2064/1995, de 22 de diciembre, queda redactado en los siguientes términos:
+
+«1. Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social son las responsables de las aportaciones procedentes por el reaseguro obligatorio a que se refiere el artículo 201.2 del texto refundido de la Ley General de la Seguridad Social, en los términos establecidos en el apartado 2 del artículo 63 del Reglamento sobre colaboración de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, aprobado por Real Decreto 1993/1995, de 7 de diciembre.
+
+2. La aportación que, como contraprestación a su cuota de responsabilidad por las prestaciones que procedan al producirse los riesgos objeto de reaseguro obligatorio, ha de recibir la Tesorería General de la Seguridad Social, se determinará aplicando el porcentaje que establezca el Ministerio de Trabajo y Seguridad Social sobre la totalidad de las cuotas de accidentes de trabajo y enfermedades profesionales correspondientes a las contingencias de invalidez y muerte y supervivencia, satisfechas por las empresas asociadas a cada una de las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social, y se recaudará en los términos establecidos en el apartado 2 del artículo 92 del Reglamento General de Recaudación de los Recursos del Sistema de la Seguridad Social, aprobado por Real Decreto 1637/1995, de 6 de octubre.»

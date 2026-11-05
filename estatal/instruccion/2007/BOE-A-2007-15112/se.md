@@ -1,0 +1,5 @@
+## Segunda. Control de autenticidad de los documentos expedidos por funcionarios extranjeros. Traducción.
+
+La legalización exigida con carácter general, y a salvo la excepción prevista en el artículo 89 RRC, a los documentos expedidos por funcionarios extranjeros (art 88 RRC) es en particular exigible en el expediente de adquisición de la nacionalidad por residencia. al certificado de nacimiento del promotor, al de nacimiento de los hijos menores de edad y al certificado de antecedentes penales del país de origen del solicitante.
+
+Ha de examinarse, pues, cuidadosamente el expediente para comprobar tanto las legalizaciones que se hayan efectuado como las que no se hayan hecho, por tratarse en este último caso de documentos expedidos por funcionarios de Estados parte del Convenio de la Haya de 5 de octubre de 1961 o a los que sea aplicable el Convenio de Atenas de 15 de septiembre de 1977 de la Comisión Internacional de Estado Civil, en cuyo caso la legalización se sustituye por el trámite de la apostilla.

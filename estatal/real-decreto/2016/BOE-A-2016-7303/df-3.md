@@ -1,0 +1,3 @@
+## Disposición final tercera. Habilitación para el desarrollo reglamentario.
+
+Se habilita a la Ministra de Empleo y Seguridad Social, previo informe favorable del Ministro de Sanidad, Servicios Sociales e Igualdad, y previo informe de la Comisión Nacional de Seguridad y Salud en el Trabajo, para dictar cuantas disposiciones sean necesarias para la aplicación y desarrollo de este real decreto, así como para llevar a cabo las adaptaciones de carácter estrictamente técnico de sus anexos para adecuar su contenido a las modificaciones que se introduzcan en los anexos de la Directiva 2013/35/UE del Parlamento Europeo y del Consejo, de 26 de junio de 2013.

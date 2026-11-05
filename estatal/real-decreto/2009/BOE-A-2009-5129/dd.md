@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto, y, en particular, el artículo 10.1 y el anexo XI del Real Decreto 3454/2000, de 22 de diciembre, por el que se establece y regula el Programa Integral coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales, cuya última redacción ha sido dada por la Orden PRE/2893/2007, por la que se modifica el anexo XI del Real Decreto 3454/2000, de 22 de diciembre, por el que se establece y regula el Programa Integral coordinado de vigilancia y control de las encefalopatías espongiformes transmisibles de los animales.

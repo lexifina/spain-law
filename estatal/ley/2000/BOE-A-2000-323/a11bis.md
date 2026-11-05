@@ -1,0 +1,9 @@
+## Artículo 11 bis. Legitimación para la defensa del derecho a la igualdad de trato y no discriminación.
+
+1. Para la defensa del derecho a la igualdad de trato y no discriminación, además de las personas afectadas y siempre con su autorización, estarán también legitimados la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, así como, en relación con las personas afiliadas o asociadas a los mismos, los partidos políticos, los sindicatos, las asociaciones profesionales de trabajadores autónomos, las organizaciones de personas consumidoras y usuarias y las asociaciones y organizaciones legalmente constituidas que tengan entre sus fines la defensa y promoción de los derechos humanos, de acuerdo con lo establecido en la Ley integral para la igualdad de trato y la no discriminación.
+
+2. Cuando las personas afectadas sean una pluralidad indeterminada o de difícil determinación, la legitimación para instar acciones judiciales en defensa de derechos o intereses difusos corresponderá a la Autoridad Independiente para la Igualdad de Trato y la No Discriminación, a los partidos políticos, los sindicatos y las asociaciones profesionales de trabajadores autónomos más representativos, así como a las organizaciones de personas consumidoras y usuarias de ámbito estatal, a las organizaciones, de ámbito estatal o del ámbito territorial en el que se produce la situación de discriminación que tengan entre sus fines la defensa y promoción de los derechos humanos, de acuerdo con lo establecido en la Ley integral para la igualdad de trato y la no discriminación, sin perjuicio en todo caso de la legitimación individual de aquellas personas afectadas que estuviesen determinadas.
+
+> Se modifica por la disposición final 2.1 de la Ley 15/2022, de 12 de julio. Ref. BOE-A-2022-11589#df-2
+
+> Se añade por la disposición adicional 5.1 de la Ley Orgánica 3/2007, de 22 de marzo. Ref. BOE-A-2007-6115

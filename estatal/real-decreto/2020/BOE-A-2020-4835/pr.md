@@ -1,0 +1,35 @@
+La ganadería ovina y caprina tiene la consideración de sector estratégico para nuestro país desde todos los ámbitos, tanto económico como social y medioambiental y se caracteriza por una serie de particularidades que la diferencian de otros sectores ganaderos.
+
+Se trata de una producción muy estacional, ligada a un consumo mayoritario durante las fiestas de Pascua y casi en su totalidad a través del canal de la restauración y la hostelería cerrado por la actual crisis sanitaria del COVID-19 y la declaración del estado de alarma en España, mediante el Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19.
+
+Esta disposición, establece el cierre de establecimientos de hostelería y restauración, al mismo tiempo que prohíbe concentraciones de personas y, en consecuencia, las celebraciones. Es en este canal (el de la restauración y la hostelería) al que se destina la gran mayoría de los corderos y cabritos, especialmente los lechales, en nuestro país y especialmente en las fechas relacionadas con la Pascua. Por ello la demanda de estos animales se ha desplomado.
+
+El desencadenamiento súbito de esta situación coincide, además, en el tiempo con la paridera de primavera, periodo de mayor producción en el año, en el que las granjas se encuentran en plena producción de corderos y cabritos. La imposibilidad con la que se encuentran los ganaderos para dar una salida comercial a estos animales durante los meses de marzo y abril, está provocando situaciones que ponen en riesgo el bienestar de los animales.
+
+En las últimas semanas se ha constatado un descenso abrupto en el número de sacrificios de corderos y cabritos que no es habitual en esta época del año. Esta situación refleja el deterioro del mercado de esta carne y el consecuente exceso de animales en las granjas, cuya concentración constituye un elemento crítico que puede suponer un riesgo, en particular, para las condiciones en que estos animales se mantienen en las granjas de nacimiento.
+
+El artículo 4 de la Ley 32/2007, de 7 de noviembre, para el cuidado de los animales, en su explotación, transporte, experimentación y sacrificio, establece que las Administraciones Públicas adoptarán las medidas necesarias para asegurar que, en las explotaciones, los animales no padezcan dolores, sufrimientos o daños inútiles.
+
+Con estos fines, es necesario instrumentar de manera urgente una medida de apoyo directo, que tenga en consideración la reducción que se ha producido de las salidas de corderos y cabritos con destino a su sacrificio, sea directamente o a través de intermediarios, durante los meses de marzo y abril ya que cualquiera que sea el canal de comercialización, las consecuencias de la situación creada se han manifestado en particular en las granjas de nacimiento de los animales.
+
+Habida cuenta de lo expuesto, y de la necesidad de articular un procedimiento de concesión de la ayuda sencillo en su gestión y pago, se ha optado por establecer un pago a tanto alzado por oveja o cabra afectada por la situación sobrevenida por la declaración del estado de alarma. Para establecer el número de animales afectados en las granjas, se ha tenido en cuenta la producción habitual de corderos y cabritos en la paridera de primavera, y tomado en consideración la reducción de los sacrificios de estos animales en los meses de marzo y abril constatada en la base de datos del Sistema Integral de Trazabilidad Animal (SITRAN), respecto del mismo periodo de 2019.
+
+La ayuda se articula como pago complementario a las ayudas asociadas al sector ovino y caprino previstas en el Real Decreto 1075/2014, de 19 de diciembre, sobre la aplicación a partir de 2015 de los pagos directos a la agricultura y a la ganadería y otros regímenes de ayuda, así como sobre la gestión y control de los pagos directos y de los pagos al desarrollo rural, para mejorar las condiciones de producción de las mismas, si bien las presentes ayudas se otorgarán en régimen de concurrencia competitiva, de acuerdo con lo establecido en el capítulo II del título I de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+En consecuencia, mediante el presente real decreto se establecen las bases reguladoras para la concesión de las ayudas estatales destinadas exclusivamente en 2020, a las granjas ovinas y caprinas con dificultades en la comercialización de corderos y cabritos como consecuencia de las limitaciones impuestas por el citado Real Decreto 463/2020, de 14 de marzo.
+
+Con el objetivo de evitar cargas administrativas adicionales a los ganaderos, y facilitar una rápida gestión de la ayuda, se utilizará la información contenida en las solicitudes de ayuda de la Política Agrícola Común, y la obrante en poder de las comunidades autónomas. Dada la urgencia de adoptar medidas que afronten la situación descrita y el principio de simplificación administrativa y reducción de cargas, las ayudas se concederán a todos los ganaderos que, cumpliendo los requisitos, presenten la solicitud única en el año 2020, prevista en el marco del Real Decreto 1075/2014, de 19 de diciembre, y obtengan la puntuación correspondiente en función de los criterios objetivos de concesión que determinen las comunidades autónomas.
+
+La financiación de las presentes ayudas corresponde a la Administración General del Estado.
+
+La distribución territorial de los créditos consignados al efecto en los Presupuestos Generales del Estado, a cargo del Ministerio de Agricultura, Pesca y Alimentación, se realizará de acuerdo con lo previsto en el artículo 86 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+Esta ayuda se concede al amparo de las ayudas de minimis en el sector agrario, de acuerdo con el Reglamento (UE) n.º 1408/2013, de la Comisión, de 18 de diciembre de 2013, relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis en el sector agrícola.
+
+La regulación que se contiene en este proyecto se ajusta a los principios contemplados en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Así, de acuerdo con los principios de necesidad y eficacia, se justifica esta norma en la necesidad de preservar el bienestar animal en las granjas de ganado ovino y caprino. Se cumple el principio de proporcionalidad y la regulación se limita al mínimo imprescindible para establecer la mencionada subvención pública. Finalmente, en aplicación del principio de eficiencia, se limitan las cargas administrativas a las imprescindibles para la consecución de los fines descritos.
+
+Asimismo, han emitido sus preceptivos informes la Abogacía del Estado y la Intervención Delegada ante el Ministerio de Agricultura, Pesca y Alimentación.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, con la aprobación previa de la Ministra de Política Territorial y Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 5 de mayo de 2020,
+
+DISPONGO:

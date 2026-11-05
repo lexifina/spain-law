@@ -1,0 +1,3 @@
+## Disposición adicional nonagésima. Participación de la Comunidad Foral de Navarra en los grupos de trabajo del ECOFIN.
+
+El Gobierno de la Nación se compromete a iniciar los cauces de diálogo y adoptar los acuerdos oportunos con el Gobierno de la Comunidad Foral de Navarra con el objeto de garantizar la participación de ésta en los grupos de trabajo del ECOFIN, integrada en la delegación correspondiente del Estado, cuando en ellos se traten asuntos vinculados a la singularidad financiero-fiscal de Navarra, derivada de su carácter foral amparado en la Constitución Española, la Ley Orgánica de Amejoramiento y Reintegración del Régimen Foral de Navarra y la Ley que regula el Convenio Económico entre el Estado y la Comunidad Foral de Navarra.

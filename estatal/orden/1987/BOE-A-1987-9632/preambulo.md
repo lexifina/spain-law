@@ -1,0 +1,1 @@
+Por Real Decreto 421/1987, de 27 de febrero, fue creada la Orden del Mérito Agrario, Pesquero y Alimentario, haciéndose necesario reglamentar la concesión y uso de las insignias de la misma, por lo que, en virtud de la autorización otorgada en el artículo 4.º del citado Real Decreto, vengo en disponer:

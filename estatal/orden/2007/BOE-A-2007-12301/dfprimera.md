@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+La presente orden, que tiene carácter de norma básica, excepto en los artículos primero, número 3, tercero (números 2, 3, 4, 5, 6 y 7), cuarto (números 2 y 3), quinto, número 5, sexto, número 5, y octavo, número 2, se dicta al amparo del artículo 149.1.30.ª de la Constitución y en virtud de lo dispuesto en el artículo 12.1 del Real Decreto 1513/2006, de 7 de diciembre, por el que se establecen las enseñanzas mínimas de la Educación primaria y en el artículo 16 del Real Decreto 1631/2006, de 29 de diciembre, por el que se establecen las enseñanzas mínimas correspondientes a la Educación secundaria obligatoria.

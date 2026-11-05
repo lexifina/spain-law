@@ -1,0 +1,3 @@
+## Disposición adicional única. Sistema informático.
+
+El Ministerio de Asuntos Exteriores, Unión Europea y Cooperación realizará las adaptaciones necesarias en el sistema informático que da soporte al Registro de Matrícula Consular para adaptarlo al marco normativo recogido en este real decreto y para facilitar o automatizar los procesos de comunicación con el Instituto Nacional de Estadística (INE) en lo relativo al PERE y con la Oficina del Censo Electoral, encuadrada en el propio INE, en lo relativo al CERA, en la medida de lo posible y respetando siempre la confidencialidad debida y la normativa aplicable.

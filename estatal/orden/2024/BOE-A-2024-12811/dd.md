@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas todas aquellas disposiciones de igual o inferior rango en cuanto contradigan o se opongan a lo dispuesto en esta orden y, específicamente, la Orden del Ministro del Interior, de 24 de octubre de 1989, por la que, con carácter provisional, se desarrollan las previsiones contenidas en el Reglamento de Ingreso, Formación, Promoción y Perfeccionamiento de Funcionarios del Cuerpo Nacional de Policía, y la Orden del Ministerio del Interior de 10 de julio de 1989, por la que se Complementan las Normas sobre Acceso a las Plazas de facultativos y técnicos del Cuerpo Nacional de Policía, excepto su anexo.

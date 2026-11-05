@@ -1,0 +1,5 @@
+La Ley Orgánica 8/2012 de 27 de diciembre, de medidas de eficiencia presupuestaria en la Administración de Justicia, por la que se modifica la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, da una nueva redacción al párrafo séptimo del artículo 504.5 de la citada norma, relativo a las situaciones de incapacidad temporal, para adecuarlas a lo establecido en el Real Decreto-ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad.
+
+La disposición transitoria sexta de la Ley Orgánica 8/2012 difiere la entrada en vigor del párrafo séptimo del artículo 504.5 al momento en que se determinen los supuestos en los que con carácter excepcional y debidamente justificados se pueda establecer un complemento hasta alcanzar, como máximo, el cien por cien de las retribuciones que se vinieran disfrutando en cada momento y, en todo caso, en el plazo máximo de seis meses.
+
+En su virtud, y de acuerdo con las competencias que esta Dirección General tiene atribuidas, dispongo:

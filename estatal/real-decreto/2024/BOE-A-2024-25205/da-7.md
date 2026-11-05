@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Inventario de suelos o terrenos contaminados radiológicamente y de suelos o terrenos con restricciones de uso.
+
+1. La Dirección General de Planificación y Coordinación Energética elaborará y mantendrá actualizado un «Inventario de suelos o terrenos contaminados radiológicamente y de suelos o terrenos con restricciones de uso», en el que se incluirán los suelos o terrenos que se declaren como contaminados radiológicamente o como con restricciones de uso, informando de las variaciones que se produzcan en este inventario al Consejo de Seguridad Nuclear, a la comunidad autónoma en cuyo territorio se ubique el suelo o terreno, y al ayuntamiento en cuyo término municipal se sitúe el mismo. Para cada suelo o terreno contaminado radiológicamente o con restricciones de uso que se incluya en este inventario, se reflejarán al menos los datos que se indican en el anexo IX.
+
+2. El Consejo de Seguridad Nuclear tendrá acceso a este inventario para consulta de la información incluida en el mismo.

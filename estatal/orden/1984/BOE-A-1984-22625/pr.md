@@ -1,0 +1,9 @@
+Ilustrísimos señores:
+
+El Festival Internacional de Música y Danza de Granada se regula actualmente por una Orden de 27 de junio de 1970, dictada por el Ministerio de Educación y Ciencia, cuando dicho Departamento tenía asignadas las competencias de Música, a través de la Dirección General de Bellas Artes y de la desaparecida Comisaría de la Música. Con la creación del Ministerio de Cultura pasaron a este Departamento dichas competencias, sin que hasta la fecha se dictase ninguna norma para adecuar el funcionamiento del Festiva a la nueva situación administrativa.
+
+El prestigio conseguido por el Festival Internacional de Música y Danza de Granada a lo largo de treinta y dos ediciones ininterrumpidas, y la voluntad del Ministerio de Cultura de que permanezca como manifestación cultural de primer rango, con carácter internacional, y como acción preferente del Estado, en el marco de la Asociación Europea de Festivales Internacionales de Música, han aconsejado la conveniencia de elaborar una norma jurídica que no sólo regule la adscripción administrativa de esta manifestación, sino que promueva y potencie su funcionamiento recogiendo, al propio tiempo, la realidad constitucional del Estado de las Autonomías.
+
+Por ello, se contempla la existencia de un Patronato que, asumiendo los fines expuestos, de entrada en su organización, estructura y responsabilidades, junto a los representantes de la Administración Central, a las Instituciones de carácter local y autonómico más directamente interesadas en el desarrollo y proyección de esta manifestación, así como a otras Entidades locales vinculadas a la misma.
+
+En su virtud, previa aprobación de la Presidencia del Gobierno, a efectos de lo dispuesto en el artículo 130.2 de la Ley de Procedimiento Administrativo, he tenido a bien disponer:

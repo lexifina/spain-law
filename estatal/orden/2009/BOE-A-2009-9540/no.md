@@ -1,0 +1,1 @@
+"Norma derogada, con efectos de 9 de febrero de 2025, por la disposición derogatoria única de la Orden EFD/116/2025, de 5 de febrero, Ref. BOE-A-2025-2371, con la salvedad de lo dispuesto en la disposición transitoria de la citada Orden."

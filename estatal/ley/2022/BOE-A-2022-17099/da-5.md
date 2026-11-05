@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Extinción de fundaciones.
+
+Al amparo de lo dispuesto en el artículo 31.f) de la Ley 50/2002, de 26 de diciembre, de Fundaciones, concurrirá causa de extinción cuando las fundaciones no persigan fines de interés general o realicen actividades contrarias al mismo. A estos efectos, se considera contraria al interés general la apología del franquismo que ensalce el golpe de Estado y la dictadura o enaltezca a sus dirigentes, con menosprecio y humillación de la dignidad de las víctimas del golpe de Estado, de la guerra o del franquismo, o incitación directa o indirecta al odio o violencia contra las mismas por su condición de tales.
+
+Corresponderá al Protectorado instar judicialmente la extinción de la fundación por concurrencia de esta causa, pudiendo en tal caso el órgano judicial, de oficio o a instancia de parte, con arreglo a los artículos 721 y siguientes de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, acordar la suspensión provisional de las actividades de la fundación hasta que se dicte sentencia, así como adoptar las medidas cautelares que se consideren necesarias para la eficacia de la suspensión de actividades.

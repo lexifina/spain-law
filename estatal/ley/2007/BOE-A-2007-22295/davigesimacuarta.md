@@ -1,0 +1,5 @@
+## Disposición adicional vigésima cuarta. Devolución de cotizaciones a los trabajadores por cuenta propia que, en régimen de pluriactividad, hayan cotizado más que el importe máximo de cuotas.
+
+Los trabajadores por cuenta propia incluidos en el Régimen Especial de Trabajadores Autónomos que, en razón de su trabajo por cuenta ajena desarrollado simultáneamente, coticen, respecto de contingencias comunes, en régimen de pluriactividad y lo hayan hecho en el año 2008, teniendo en cuenta tanto las aportaciones empresariales como las correspondientes al trabajador en el Régimen General, así como las efectuadas en el Régimen Especial, por una cuantía igual o superior a 10.440 euros, tendrán derecho a una devolución del 50 por ciento del exceso en que sus cotizaciones superen la mencionada cuantía, con el tope del 50 por ciento de las cuotas ingresadas en el citado Régimen Especial, en razón de su cotización por las contingencias comunes de cobertura obligatoria.
+
+La devolución se efectuará a instancia del interesado, que habrá de formularla en el primer trimestre del ejercicio siguiente.

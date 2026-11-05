@@ -1,0 +1,5 @@
+## Artículo ciento.
+
+Cuando el Gobierno acuerde la adquisición de inmuebles situados en la zona militar de costas y fronteras, o por otras necesidades urgentes de la defensa y seguridad nacional, las expropiaciones que a tales fines fuere preciso realizar se ajustarán a lo dispuesto en los artículos cincuenta y dos y cincuenta y tres de esta Ley, y el expediente respectivo será tramitado por la Administración militar que corresponda en razón al ejército a cuyos servicios queden afectos los bienes ocupados y con sujeción al reglamento que se dicte en aplicación de esta Ley.
+
+En estas expropiaciones, el funcionario técnico comprendido en el apartado b) del artículo treinta y dos será sustituido en el Jurado Provincial de Expropiación por un técnico militar del Departamento respectivo, que formará parte de aquél como Vocal siempre que al ser remitido el expediente, en cumplimiento del artículo treinta y uno, se comunique al mismo tiempo por el Gobierno Militar de la provincia el nombramiento correspondiente.

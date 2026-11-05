@@ -1,0 +1,3 @@
+## Disposición adicional quincuagésima cuarta. Pensión de viudedad.
+
+El Gobierno presentará ante el Congreso de los Diputados, previa su valoración y análisis con los agentes sociales en el marco del diálogo social, un proyecto de Ley que, dentro de un contexto de reformulación global de la pensión de viudedad, dirigido a que la misma recupere su objetivo de prestación sustitutiva de las rentas perdidas como consecuencia del fallecimiento del causante y posibilite, igualmente, el acceso a la cobertura a las personas que, sin la existencia de vínculo matrimonial, conformen un núcleo familiar en el que se produzca una situación de dependencia económica y/o existan hijos menores comunes, en el momento de fallecimiento del causante.

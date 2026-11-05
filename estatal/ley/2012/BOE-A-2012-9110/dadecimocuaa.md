@@ -1,0 +1,3 @@
+## Disposición adicional decimocuarta. Evaluación de las medidas adoptadas en el mercado de trabajo para hacer frente a la crisis y al desempleo.
+
+El Gobierno presentará al finalizar el primer año de vigencia del Real Decreto-ley 3/2012, de 10 de febrero, de medidas urgentes para la reforma del mercado de trabajo, un informe de evaluación del mismo, que analice el impacto que sobre los principales indicadores del mercado de trabajo, la creación de empleo, la disminución de la tasa de paro y la tasa de temporalidad, ha tenido la citada reforma. Los resultados de dicha evaluación deberán ser publicados y ser accesibles a través del portal web del Ministerio de Empleo y Seguridad Social.

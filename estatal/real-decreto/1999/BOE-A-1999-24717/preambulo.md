@@ -1,0 +1,15 @@
+La Ley 14/1986, de 25 de abril, General de Sanidad, en su artículo 40.7 y en la disposición final cuarta, obliga a establecer los requisitos mínimos para la aprobación y homologación de las instalaciones de centros y servicios y a valorar, por parte de la Administración Sanitaria, según lo dispuesto en el artículo 110, la seguridad, eficacia y eficiencia de las tecnologías relevantes para la salud y asistencia sanitaria.
+
+El Real Decreto 2071/1995, de 22 de diciembre, por el que se establecen los criterios de calidad en radiodiagnóstico, desarrolla el artículo 4 del Real Decreto 1132/1990, de 14 de septiembre, por el que se establecen medidas fundamentales de protección radiológica de las personas sometidas a exámenes y tratamientos médicos y la especificación técnica 4.ª, del anexo I, del Real Decreto 1891/1991, de 30 de diciembre, sobre instalación y utilización de aparatos de rayos X con fines de diagnóstico médico.
+
+Por otra parte, la Directiva 97/43/EURATOM, del Consejo, de 30 de junio, relativa a la protección de la salud frente a los riesgos derivados de las radiaciones ionizantes en exposiciones médicas, por la que se sustituye la Directiva 84/466/EURATOM, que quedará derogada a partir del 13 de mayo de 2000, queda recogida parcialmente mediante el presente Real Decreto y por los Reales Decretos 1841/1997 y 1566/1998. A tal efecto, se ha considerado conveniente proceder a la derogación del citado Real Decreto 2071/1995 y a regular «ex novo» la materia que en éste se contempla, en aras de conseguir una mayor claridad y una más fácil comprensión para los destinatarios de la norma.
+
+Mediante el presente Real Decreto se establecen los criterios de calidad en radiodiagnóstico, incluyendo los procedimientos necesarios para dar cumplimiento a lo previsto en el artículo 4 del Real Decreto 1132/1990 y en la especificación 4.ª del anexo I, del Real Decreto 1891/1991, atendiendo, de modo prioritario, a la protección del paciente y exigiendo, para ello, la implantación de un programa de garantía de calidad en las unidades asistenciales de radiodiagnóstico. Asimismo, en este Real Decreto se deroga el artículo 3 del mencionado Real Decreto 1132/1990, referente a los exámenes radioscópicos directos sin intensificador de imagen.
+
+Igualmente, en esta disposición se tiene en consideración la nueva situación derivada de la aprobación del Real Decreto 220/1997, de 14 de febrero, por el que se crea y regula la obtención del título oficial de especialista en radiofísica hospitalaria, de acuerdo con lo dispuesto en el artículo 5 del Real Decreto 1132/1990, antes citado.
+
+Este Real Decreto, que tiene carácter de norma básica sanitaria, se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª de la Constitución y de acuerdo con lo establecido en el artículo 40.7 de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+En su virtud, a propuesta de los Ministros de Sanidad y Consumo y de Industria y Energía, con el informe favorable del Consejo de Seguridad Nuclear, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 23 de diciembre de 1999.
+
+DISPONGO:

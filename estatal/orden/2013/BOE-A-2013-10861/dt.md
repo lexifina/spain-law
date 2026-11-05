@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Acreditación de centros para la modalidad de teleformación.
+
+Los centros acreditados por las administraciones competentes para la impartición de formación relativa a los certificados de profesionalidad en la modalidad de teleformación con anterioridad a la publicación del Real Decreto 189/2013, de 15 de marzo, mantendrán provisionalmente dicha acreditación hasta concluir el periodo de ejecución de las acciones formativas aprobadas con fecha anterior al 31 de diciembre de 2013. Para las acciones formativas que se aprueben a partir de esta fecha, estos centros deberán ser acreditados por el Servicio Público de Empleo Estatal de acuerdo con lo establecido en el Real Decreto 34/2008, de 18 de enero, y en esta orden.

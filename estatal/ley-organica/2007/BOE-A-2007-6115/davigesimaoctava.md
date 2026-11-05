@@ -1,0 +1,3 @@
+## Disposición adicional vigésima octava. Designación del Instituto de la Mujer.
+
+El Instituto de la Mujer será el organismo competente en el Reino de España a efectos de lo dispuesto en el artículo 8 bis de la Directiva 76/207, de 9 de febrero de 1976, modificada por la Directiva 2002/73, del Parlamento Europeo y del Consejo, de 23 de septiembre de 2002, relativa a la aplicación del principio de igualdad de trato entre hombres y mujeres en lo que se refiere al acceso al empleo, a la formación y a la promoción profesionales, y a las condiciones de trabajo y en el artículo 12 de la Directiva 2004/113, del Consejo, de 13 de diciembre de 2004, sobre aplicación del principio de igualdad de trato entre hombres y mujeres en el acceso a bienes y servicios y su suministro.

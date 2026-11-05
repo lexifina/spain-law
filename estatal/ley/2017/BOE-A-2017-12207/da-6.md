@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Trabajadores autónomos y jubilación parcial.
+
+En el ámbito de la Subcomisión para el estudio de la reforma del Régimen Especial de Trabajadores por Cuenta Propia o Autónomos, constituida en el Congreso de los Diputados, y oídos los representantes de los trabajadores autónomos, se procederá a la determinación de los diferentes elementos que hagan posible el acceso a la jubilación parcial de los trabajadores del citado régimen, incluida la posibilidad de contratar parcialmente o por tiempo completo a un nuevo trabajador para garantizar el relevo generacional en los supuestos de trabajadores autónomos que no cuentan con ningún empleado.

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Funciones de inspección y control de buques realizadas por organizaciones autorizadas.
+
+Las funciones de inspección y control de buques, para las que pueden ser autorizadas las organizaciones de inspección y control de buques reconocidas de acuerdo con el Real Decreto 2662/1998, de 11 de diciembre, sobre reglas y estándares comunes para las organizaciones de inspección y control de buques y para las actividades correspondientes de la Administración marítima, podrán ser ampliadas por Orden del Ministro de Fomento, que determinará, a su vez, los requisitos específicos adicionales que deban cumplir dichas organizaciones para ser autorizadas a su realización.

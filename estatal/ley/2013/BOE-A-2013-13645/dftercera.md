@@ -1,0 +1,17 @@
+## Disposición final tercera. Nuevo régimen jurídico y económico de la actividad de producción a partir de fuentes de energía renovables, cogeneración y residuos con régimen económico primado.
+
+1. De acuerdo con lo establecido en la disposición final segunda del Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico, el Gobierno, a propuesta del Ministro de Industria, Energía y Turismo, aprobará un real decreto de regulación del régimen jurídico y económico para las instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables, cogeneración y residuos que tuvieran reconocida retribución primada a la entrada en vigor del citado real decreto-ley.
+
+2. Tal y como allí se dispone, este nuevo modelo se ajustará a los criterios previstos en el artículo 30 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, en la redacción que le fue dada por el citado real decreto-ley, y será de aplicación desde la entrada en vigor del mismo.
+
+No obstante lo anterior, el régimen retributivo específico que se establezca para las instalaciones de tecnología solar termoeléctrica adjudicatarias del régimen previsto en la disposición adicional tercera del Real Decreto 1565/2010, de 19 de noviembre, por el que se regulan y modifican determinados aspectos relativos a la actividad de producción de energía eléctrica en régimen especial, estará compuesto por un único término a la operación cuyo valor será el resultante de la oferta económica para las que resultaran adjudicatarias.
+
+3. En los términos previstos en el Real Decreto-ley 9/2013, de 12 de julio, por el que se adoptan medidas urgentes para garantizar la estabilidad financiera del sistema eléctrico, para el establecimiento de ese nuevo régimen retributivo la rentabilidad razonable a lo largo de toda la vida regulatoria de la instalación girará, antes de impuestos, sobre el rendimiento medio en el mercado secundario de los diez años anteriores a la entrada en vigor del Real Decreto-ley 9/2013, de 12 de julio, de las Obligaciones del Estado a diez años incrementada en 300 puntos básicos, todo ello, sin perjuicio de su ulterior revisión en los términos legalmente previstos.
+
+4. En ningún caso podrá resultar de dicho nuevo modelo retributivo la reclamación de las retribuciones percibidas por la energía producida con anterioridad al 14 de julio de 2013, incluso si se constatase que en dicha fecha pudiera haberse superado dicha rentabilidad.
+
+5. La revisión de los parámetros de retribución se realizará, en todo caso, con arreglo a lo dispuesto en el artículo 14.4 de esta ley.
+
+6. Se habilita al Gobierno al objeto de que todas aquellas instalaciones de generación cuya titularidad sea de comunidades energéticas, entendiendo estas como organizaciones sin ánimo de lucro, personas físicas, o pequeñas y medianas empresas cuyos accionistas o miembros mayoritarios sean personas físicas, entes locales o provinciales, o igualmente otras pequeñas y medianas empresas, puedan tener un especial tratamiento retributivo como vehículo imprescindible para su necesaria permanencia en el mercado de generación.
+
+> Se añade el apartado 6 por la disposición final 31 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-32

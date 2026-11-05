@@ -1,0 +1,1 @@
+Téngase en cuenta que el 10 de febrero de 2021 entra en vigor la Resolución de 25 de enero de 2021, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación de tráfico durante el año 2021, Ref. BOE-A-2021-1347, fecha a partir de la cual cesa la vigencia de la presente Resolución, según establece su disposición final única.

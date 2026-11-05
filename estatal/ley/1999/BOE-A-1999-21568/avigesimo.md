@@ -1,0 +1,13 @@
+## Artículo vigésimo. Permiso por maternidad y paternidad.
+
+El apartado 3 del artículo 30 queda redactado de la forma siguiente:
+
+«3. En el supuesto de parto, la duración del permiso será de dieciséis semanas ininterrumpidas, ampliables en el caso de parto múltiple en dos semanas más por cada hijo a partir del segundo. El permiso se distribuirá a opción de la funcionaria siempre que seis semanas sean inmediatamente posteriores al parto. En caso de fallecimiento de la madre, el padre podrá hacer uso de la totalidad o, en su caso, de la parte que reste del permiso.
+
+No obstante lo anterior, y sin perjuicio de las seis semanas inmediatas posteriores al parto de descanso obligatorio para la madre, en el caso de que la madre y el padre trabajen, ésta, al iniciarse el período de descanso por maternidad, podrá optar por que el padre disfrute de una parte determinada e ininterrumpida del período de descanso posterior al parto, bien de forma simultánea o sucesiva con el de la madre, salvo que en el momento de su efectividad la incorporación al trabajo de la madre suponga un riesgo para su salud.
+
+En los supuestos de adopción o acogimiento, tanto preadoptivo como permanente, de menores de hasta seis años, el permiso tendrá una duración de dieciséis semanas ininterrumpidas, ampliables en el supuesto de adopción o acogimiento múltiple en dos semanas más por cada hijo a partir del segundo, contadas a la elección del funcionario, bien a partir de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se constituya la adopción. La duración del permiso será, asimismo, de dieciséis semanas en los supuestos de adopción o acogimiento de menores, mayores de seis años de edad, cuando se trate de menores discapacitados o minusválidos o que por sus circunstancias y experiencias personales o que, por provenir del extranjero, tengan especiales dificultades de inserción social y familiar, debidamente acreditadas por los servicios sociales competentes. En caso de que la madre y el padre trabajen, el permiso se distribuirá a opción de los interesados, que podrán disfrutarlo de forma simultánea o sucesiva, siempre con períodos ininterrumpidos.
+
+En los casos de disfrute simultáneo de períodos de descanso, la suma de los mismos no podrá exceder de las dieciséis semanas previstas en los apartados anteriores o de las que correspondan en caso de parto múltiple.
+
+En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los padres al país de origen del adoptado, el permiso previsto para cada caso en el presente artículo, podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituye la adopción.»

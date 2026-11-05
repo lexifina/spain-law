@@ -1,0 +1,3 @@
+## Primero.
+
+De conformidad con el artículo 11.2 de la Ley 30/2014, de 3 de diciembre, de Parques Nacionales, y con el artículo 2.2 de la Ley 16/1995, de 30 de mayo, de declaración del Parque Nacional de los Picos de Europa, se acuerda la ampliación del Parque Nacional de los Picos de Europa, incorporando diferentes terrenos públicos y de particulares, aportados expresamente por sus titulares catastrales para el cumplimiento de los fines del Parque Nacional. Estos terrenos son colindantes con el Parque en una superficie de 2.467 Ha 59 a 36 ca, y disponen de las características naturales idóneas para ello, tal y como se describen en el anexo I de este acuerdo y según los límites y linderos que se definen en el anexo II del mismo.

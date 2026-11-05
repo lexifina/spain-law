@@ -1,0 +1,3 @@
+## Disposición final cuarta. Adaptación del Concierto Económico con la Comunidad Autónoma del País Vasco y del Convenio Económico entre el Estado y la Comunidad Foral de Navarra.
+
+En el plazo de tres meses desde su publicación en el «Boletín Oficial del Estado» se reunirá la Comisión Mixta del Concierto Económico con el País Vasco y la Comisión del Convenio Económico con Navarra para acordar la correspondiente adaptación del Concierto Económico con la Comunidad Autónoma del País Vasco, aprobado por la Ley 12/2002, de 23 de mayo, conforme a lo establecido en su Disposición adicional segunda, y del Convenio Económico entre el Estado y la Comunidad Foral de Navarra, aprobado por la Ley 28/1990, de 26 de diciembre, conforme a lo establecido en su artículo 6.

@@ -1,0 +1,1 @@
+Téngase en cuenta que la ampliación del plazo establecido en la presente Orden expira a los cuatro meses siguientes a la fecha de finalización del estado de alarma, declarado por el Real Decreto 463/2020, de 14 de marzo, que se produjo a las 00:00 horas del día 21 de junio de 2020, por lo que debe entenderse que ha agotado su vigencia.

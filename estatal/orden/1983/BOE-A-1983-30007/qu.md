@@ -1,0 +1,3 @@
+## Quinto.
+
+A la entrada en vigor de la presente Orden quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a los aspectos que la misma regula y de forma específica las Ordenes de 21 de octubre de 1977 y 5 de noviembre de 1981, excepto el apartado VII, «Marcado», de la Orden de 21 de octubre de 1977, y el artículo 2 de la Orden de 5 de noviembre de 1981, que quedarán derogadas en las fechas fijadas para la entrada en vigor del título IV del Real Decreto 2058/1982, de 12 de agosto, por el que se aprueba la norma general de etiquetado, presentación y publicidad de los productos alimenticios envasados.

@@ -1,0 +1,3 @@
+## Disposición final tercera. Habilitación para aprobar un texto refundido de la Ley 22/2003, de 9 de julio, Concursal.
+
+Al objeto de consolidar en un texto único las modificaciones incorporadas desde su entrada en vigor a la Ley 22/2003, de 9 de julio, Concursal, se autoriza al Gobierno para elaborar y aprobar, a propuesta de los Ministros de Justicia y de Economía y Empresa, en un plazo de ocho meses a contar desde la entrada en vigor de la presente ley, un texto refundido de la citada norma. Esta autorización incluye la facultad de regularizar, aclarar y armonizar los textos legales que deban ser refundidos.

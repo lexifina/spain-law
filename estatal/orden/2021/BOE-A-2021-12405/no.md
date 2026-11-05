@@ -1,0 +1,1 @@
+Téngase en cuenta que la prórroga de la presente Orden finalizaba a las 24:00 horas del 23 de agosto de 2021, según establece el apartado primero de la Orden SND/858/2021, de 6 de agosto, por lo que debe entenderse que ha perdido su vigencia.

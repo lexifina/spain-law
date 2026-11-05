@@ -1,0 +1,9 @@
+## Primero. Fijación de plazos para los productos recogidos en la Resolución de 23 de abril de 2020, de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, referente a los equipos de protección individual en el contexto de la crisis sanitaria ocasionada por el COVID-19.
+
+El apartado primero de la Resolución de 23 de abril de 2020 recoge un total de tres supuestos, para cada uno de los cuales se aplicará lo siguiente:
+
+1. La recepción de EPI correspondientes a compras o adquisiciones públicas ya efectuadas con anterioridad al 1 de octubre de 2020, conforme a los requisitos del supuesto 1 del apartado primero de la Resolución de 23 de abril (apartado 8 de la Recomendación (UE) 2020/403), se podrá realizar hasta el 31 de diciembre de 2020.
+
+2. La comercialización de EPI conforme al supuesto 2 del apartado primero de la Resolución de 23 de abril (apartado 7 de la Recomendación (UE) 2020/403), podrá seguir realizándose hasta el 31 de diciembre de 2020, limitándose ésta únicamente a las unidades de producto en stock que puedan demostrar que ya se encontraban en territorio español con anterioridad al 1 de octubre de 2020, y que hubieran obtenido con anterioridad a dicha fecha la correspondiente autorización temporal. Además, se deberá informar fehacientemente de esta situación al destinatario final del producto.
+
+3. En relación a los EPI con marcado CE sobre la base de una especificación técnica distinta de las normas armonizadas, conforme al supuesto 3 del apartado primero de la Resolución de 23 de abril de 2020 (apartados 3 y 4 de la Recomendación (UE) 2020/403), los organismos notificados españoles deberán atender a lo que disponga la Comisión Europea, así como a lo que se acuerde en los grupos europeos de coordinación de organismos notificados, a la hora de emitir certificados de examen UE de tipo, así como para fijar la fecha de validez de dichos certificados.

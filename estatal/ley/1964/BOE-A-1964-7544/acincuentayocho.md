@@ -1,0 +1,3 @@
+## Artículo cincuenta y ocho.
+
+La responsabilidad civil derivada de la utilización de la energía nuclear podrá cubrirse por las entidades aseguradoras inscritas en el Registro Especial de la Dirección General de Seguros para la práctica de seguros sobre la responsabilidad civil que se sujeten a las condiciones, pólizas, tarifas y régimen de reservas que especialmente apruebe el Ministerio de Hacienda a propuesta de la Dirección General de Seguros. Para realizar esta clase de seguros las entidades aseguradoras podrán unirse, constituyendo una asociación, que tendrá las características especiales que asimísmo autorice el Ministerio de Hacienda.

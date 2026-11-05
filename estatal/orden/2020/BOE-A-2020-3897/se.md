@@ -1,0 +1,5 @@
+## Segundo.
+
+A los efectos de llevar a efecto la actividad encomendada, el Ministro de Justicia podrá constituir una Comisión de coordinación de la situación de crisis en orden a poder articular consensuadamente las medidas necesarias para el mantenimiento de los servicios esenciales en lo referente a la actividad profesional desarrollada por los miembros de los cuerpos de funcionarios a los que se refiere la presente orden y dar cumplimiento a las recomendaciones dictadas por el Ministerio de Sanidad. En esta Comisión tendrán representación las comunidades autónomas con competencia en la materia.
+
+Asimismo, sin perjuicio de las consultas que puedan formularse al Consejo General del Poder Judicial y la Fiscalía General del Estado, una y otra institución acudirán a las reuniones de la Comisión a través del representante que estas designen, por considerarse necesario para poder coordinar adecuadamente las decisiones que se tomen en el ámbito de la Administración de Justicia en relación con los distintos colectivos implicados.

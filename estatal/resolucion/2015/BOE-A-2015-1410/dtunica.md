@@ -1,0 +1,3 @@
+## Disposición transitoria única. Normativa aplicable al pago de las tasas liquidadas conforme al Real Decreto 1732/1998, de 31 de julio.
+
+El pago de las tasas liquidadas en aplicación de lo dispuesto en el Real Decreto 1732/1998, de 31 de julio, sobre tasas aplicables por las actividades y servicios prestados por la CNMV, se efectuará conforme a los modelos recogidos en la Resolución de 18 de noviembre de 2003, de la CNMV, por la que se establece el procedimiento y las condiciones para el pago a través de entidad colaboradora en la gestión recaudatoria y por vía telemática de las tasas aplicables por las actividades y servicios prestados por la CNMV.

@@ -1,0 +1,1 @@
+Esta Resolución se deja sin eficacia, desde el 23 de abril de 2020, por el apartado cuarto de la Resolución de 23 de abril de 2020, de la Secretaría General de Industria y de la Pequeña y Mediana Empresa, referente a los equipos de protección individual en el contexto de la crisis sanitaria ocasionada por el COVID-19. Ref. BOE-A-2020-4651#cu

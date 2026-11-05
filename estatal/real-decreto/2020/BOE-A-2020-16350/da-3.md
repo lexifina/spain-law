@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Compensación de costes indirectos por emisiones de gases de efecto invernadero.
+
+1. Siempre que exista disponibilidad presupuestaria, se procederá a la convocatoria de ayudas destinadas a compensar los costes indirectos imputables a las emisiones de gases de efecto invernadero repercutidas en los precios de la electricidad a instalaciones pertenecientes a sectores expuestos a un riesgo significativo de fuga de carbono, de acuerdo con el procedimiento legalmente establecido.
+
+2. Hasta el 31 de diciembre de 2020, el mecanismo de compensación de costes de emisiones indirectas de gases de efecto invernadero se regirá por lo establecido en el Real Decreto 1055/2014, de 12 de diciembre, por el que se crea un mecanismo de compensación de costes de emisiones indirectas de gases de efecto invernadero para empresas de determinados sectores y subsectores industriales a los que se considera expuestos a un riesgo significativo de «fuga de carbono» y se aprueban las bases reguladoras de la concesión de las subvenciones para los ejercicios 2014 y 2015.

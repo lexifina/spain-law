@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Planes interiores marítimos de instalaciones que manejan en el ámbito marítimo y portuario sustancias a granel, nocivas y potencialmente peligrosas, distintas a los hidrocarburos.
+
+Las instalaciones que manejan en el ámbito marítimo y portuario sustancias a granel, nocivas y potencialmente peligrosas, distintas a los hidrocarburos, y que se encuentran por tanto fuera del ámbito de aplicación del Real Decreto 253/2004, de 13 de febrero, por el que se establecen medidas de prevención y lucha contra la contaminación en las operaciones de carga, descarga y manipulación de hidrocarburos en el ámbito marítimo y portuario, deberán aprobar sus planes interiores marítimos según lo dispuesto en este real decreto.

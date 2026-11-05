@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Reconocimiento de medidas laborales de la minería del carbón.
+
+En las resoluciones de autorización de los expedientes de regulación de empleo correspondientes a los planes de modernización, reestructuración y racionalización previstos en el capítulo III del presente Real Decreto, la autoridad laboral procederá al reconocimiento de las prestaciones o ayudas que, como medidas laborales para los trabajadores de la minería del carbón y en aplicación de la disposición adicional decimonovena de la Ley 4/1990, de 29 de junio, puedan proceder. En todo caso, los beneficiarios de estas medidas laborales serán aquellos trabajadores cuyas indemnizaciones por extinción de la relación laboral sean financiadas por las ayudas previstas en este Real Decreto.
+
+A tales efectos, la solicitud de autorización de extinciones de contratos deberá ir acompañada de la resolución de concesión de ayudas a planes de modernización, reestructuración y racionalización prevista en el artículo 12 de este Real Decreto. Esta Resolución contendrá la relación nominal de trabajadores incluidos en los procesos de regulación de empleo.
+
+Sin perjuicio de lo anterior, a los trabajadores de las empresas públicas de la minería del carbón, les podrá ser de aplicación lo previsto en la citada disposición adicional decimonovena de la Ley 4/1990, de 29 de junio, y podrán iniciar los expedientes de regulación de empleo sin que las empresas sean beneficiarias de las ayudas previstas en el presente Real Decreto en su artículo 9.

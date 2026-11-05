@@ -1,0 +1,3 @@
+## A.1 Operaciones corrientes
+
+Comprende los Capítulos 1 al 5 inclusive del presupuesto de ingresos, recogiendo los tres primeros capítulos los ingresos de naturaleza tributaria o análoga, el Capítulo 4 los ingresos por transferencias corrientes y subvenciones destinadas a financiar gastos corrientes o no destinadas a ninguna finalidad específica, y el Capítulo 5 recoge los ingresos patrimoniales, derivados de depósitos, dividendos o rentas de bienes inmuebles, así como, entre otros, el producto correspondiente al canon de concesiones administrativas y las contraprestaciones del derecho de superficie.

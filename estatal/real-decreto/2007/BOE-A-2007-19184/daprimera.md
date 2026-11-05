@@ -1,0 +1,17 @@
+## Disposición adicional primera. Datos del alumnado y documentos oficiales de evaluación y movilidad.
+
+1. Los documentos oficiales de evaluación del bachillerato son el expediente académico, las actas de evaluación, el informe personal por traslado y el historial académico de Bachillerato.
+
+2. El historial académico de Bachillerato y el informe personal por traslado son los documentos básicos. Deberán recoger siempre la norma de la Administración educativa que establece el currículo correspondiente y, cuando hayan de surtir efectos fuera del ámbito de una comunidad autónoma cuya lengua tenga estatutariamente atribuido carácter oficial, se estará a lo dispuesto en el artículo 36.3 de la Ley 30/1992, de 26 de noviembre, de régimen Jurídico de las Administraciones Públicas y del Procedimiento administrativo Común.
+
+3. Los resultados de la evaluación se expresarán mediante calificaciones numéricas de cero a diez sin decimales, considerándose negativas las calificaciones inferiores a cinco. La nota media será la media aritmética de las calificaciones de todas las materias, redondeada a la centésima más próxima y en caso de equidistancia a la superior. En la convocatoria de la prueba extraordinaria, cuando el alumnado no se presente a dicha prueba, se consignará no presentado.
+
+4. Las actas de evaluación se extenderán para cada uno de los cursos y se cerrarán al término del período lectivo ordinario y en la convocatoria de la prueba extraordinaria. Comprenderán la relación nominal del alumnado que compone el grupo junto con los resultados de la evaluación de las materias. En segundo curso figurará el alumnado con materias no superadas del curso anterior y recogerán la propuesta de expedición del título de Bachiller. Serán firmadas por todo el profesorado del grupo y llevarán el visto bueno del director del centro. Los centros privados remitirán un ejemplar de las actas al Instituto de Educación Secundaria al que estén adscritos.
+
+5. El historial académico de Bachillerato será extendido en impreso oficial y llevará el visto bueno del director y tiene valor acreditativo de los estudios realizados. Recogerá, al menos, los datos identificativos del estudiante, las materias cursadas en cada uno de los años de escolarización y los resultados de la evaluación en cada convocatoria (ordinaria o extraordinaria), la nota media del bachillerato, así como la información relativa a los cambios de centro.
+
+6. Las administraciones educativas establecerán los procedimientos oportunos para garantizar la autenticidad de los documentos oficiales de evaluación, la integridad de los datos recogidos en los mismos, en especial en el historial académico de Bachillerato, así como su supervisión y custodia.
+
+7. El informe personal por traslado es el documento en el que se consignará la información que resulte necesaria para la continuidad del proceso de aprendizaje del alumnado cuando se traslade a otro centro sin haber concluido el curso y contendrá los resultados de las evaluaciones parciales que se hubieran realizado.
+
+8. La obtención y tratamiento de los datos personales del alumnado, y en particular los contenidos en los documentos oficiales a los que se refiere la presente disposición, su cesión de unos centros a otros y la adopción de medidas que garanticen la seguridad y confidencialidad de dichos datos, se someten a lo dispuesto en la legislación vigente en materia de protección de datos de carácter personal y en la Disposición adicional vigésimo tercera de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.

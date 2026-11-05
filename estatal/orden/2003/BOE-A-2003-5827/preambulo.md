@@ -1,0 +1,5 @@
+La aplicación de la Orden de 21 de julio de 1986, por la que se aprueba la Norma general de peritación de los daños ocasionados sobre las producciones agrícolas, amparados por el seguro agrario combinado, ha puesto de manifiesto, por la práctica adquirida, la necesidad de modificación, tratándose de esta forma de dar un nuevo impulso para lograr una mayor exactitud en la peritación de los daños y consecuentemente en su tasación.
+
+De conformidad con lo dispuesto en el artículo 26 del Reglamento para la aplicación de la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, aprobado por Real Decreto 2320/1979, de 14 de septiembre; en cumplimiento de la Orden comunicada del Ministerio de Economía y Hacienda de 27 de diciembre de 1985, por la que se constituye una Comisión para la elaboración de las Normas de peritación de siniestros de los Seguros Agrarios; oídas las Organizaciones y Asociaciones de Agricultores, así como las Entidades Aseguradoras y a propuesta del Vicepresidente Segundo del Gobierno para Asuntos Económicos y del Ministro de Economía y del Ministro de Agricultura, Pesca y Alimentación,
+
+DISPONGO:

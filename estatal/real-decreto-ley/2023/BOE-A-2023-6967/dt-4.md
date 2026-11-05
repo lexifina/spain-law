@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Vigencia transitoria de la normativa anterior en materia de incapacidad temporal.
+
+Las modificaciones introducidas por el artículo único de este real decreto-ley, apartados diez, diecisiete, dieciocho, diecinueve y treinta que modifican los artículos 82.4.b), 169, 170, 174 y la disposición adicional primera, así como el apartado treinta y siete, que introduce la nueva disposición transitoria trigésima séptima, todos ellos relativos al texto refundido de la Ley General de la Seguridad Social, serán de aplicación tanto a los procedimientos de incapacidad temporal que se inicien con posterioridad a la fecha de su entrada en vigor, como a los iniciados con anterioridad a dicha fecha.
+
+No obstante, seguirá abonándose directamente por la entidad gestora o la mutua colaboradora con la Seguridad Social el subsidio correspondiente cuando, a la mencionada fecha de entrada en vigor, hubiere sido dictada la resolución prevista en el artículo 170.2 del texto refundido de la Ley General de la Seguridad Social en la redacción anterior a la entrada en vigor del artículo único, apartado dieciocho, que modifica dicho artículo.

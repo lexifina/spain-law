@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Personal que tenga la condición de guardia civil en suspenso o que se encuentre en las situaciones administrativas de suspensión de empleo o de suspensión de funciones.
+
+La residencia habitual del personal de la Guardia Civil que pase a alguna de las situaciones administrativas previstas en la Ley 29/2014, de 28 de noviembre, durante las cuales tenga la condición de guardia civil en suspenso, será la que tuviera fijada con anterioridad, salvo que la correspondiente resolución de pase a la nueva situación fije otra residencia distinta solicitada por el interesado.
+
+El personal de la Guardia Civil que pase a las situaciones de suspensión de empleo o de suspensión de funciones contempladas en la Ley 29/2014, de 28 de noviembre, que no conlleve el cese en el destino, mantendrá su residencia habitual en la que tuviera fijada con anterioridad al pase a dicha situación. Si lleva consigo el cese en el destino, su residencia habitual será la que se fije en la resolución correspondiente de pase a la nueva situación administrativa.
+
+Los guardias civiles que permanezcan en cualquiera de las situaciones administrativas previstas en esta disposición adicional podrán variar su lugar de residencia, debiendo comunicarlo a la unidad en que hayan quedado encuadrados administrativamente, que a su vez lo participará al Mando de Personal y Formación de la Dirección General de la Guardia Civil.

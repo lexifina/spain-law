@@ -1,0 +1,1 @@
+Téngase en cuenta que quedan derogadas las prescripciones establecidas en relación con los procedimientos de solicitud, concesión, revisión y cumplimiento de las autorizaciones de vertidos al dominio público marítimo terrestre desde tierra al mar, según establece la disposición derogatoria única.2 de la Ley 16/2002, de 1 de julio. Ref. BOE-A-2002-12995#ddunica.

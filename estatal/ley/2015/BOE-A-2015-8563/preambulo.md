@@ -1,0 +1,91 @@
+FELIPE VI
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente ley.
+
+PREÁMBULO
+
+I
+
+El sector alimentario, por su trascendencia en términos sociales, económicos y medio ambientales, tiene un carácter estratégico tanto en España como en toda la Unión Europea. Su misión básica es proporcionar al ciudadano unos alimentos sanos, seguros y que además respondan a sus expectativas de calidad. Esta situación demanda un modelo de calidad alimentaria que incluya un conjunto básico de disposiciones legales y vele por el respeto a la competencia leal entre operadores.
+
+En este sentido, resulta necesario revisar tanto los aspectos generales como los particulares de la calidad alimentaria en el ámbito de la competencia de la Administración General del Estado, para tener en cuenta las nuevas tendencias en esta materia que, de modo específico, afectan a la alimentación; recogiendo y respetando, en el ámbito económico, los principios básicos y requisitos de la legislación alimentaria establecidos en el Reglamento (CE) n.º 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, por el que se establecen los principios y los requisitos generales de la legislación alimentaria, se crea la Autoridad Europea de Seguridad Alimentaria y se fijan procedimientos relativos a la seguridad alimentaria, teniendo en cuenta, asimismo, los principios recogidos en la materia sobre trazabilidad, autocontrol, y responsabilidad de los operadores.
+
+Por lo demás, el control del cumplimiento de los requisitos establecidos con carácter obligatorio para la comercialización de los productos alimenticios y la persecución del fraude, regulado en el Reglamento (CE) n.º 882/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, sobre los controles oficiales efectuados para garantizar la verificación del cumplimiento de la legislación en materia de piensos y alimentos y la normativa sobre salud animal y bienestar de los animales, constituye un elemento indispensable para garantizar la lealtad de las transacciones comerciales, la seguridad jurídica de los diferentes operadores y para no defraudar las expectativas de los consumidores. Así mismo, el citado reglamento en su artículo 55 prevé que los Estados miembros establecerán normas sobre las sanciones aplicables a las infracciones de la legislación en materia de alimentos y tomarán todas las medidas necesarias para garantizar su aplicación, indicando que las sanciones establecidas deberán ser eficaces, proporcionadas y disuasorias.
+
+Por otro lado, a este Reglamento (CE) n.º 882/2004 remite, para extender al mismo su régimen de controles, una de las principales normas a la que resultará aplicable la presente ley, el Reglamento (UE) n.º 1169/2011 del Parlamento Europeo y del Consejo, de 25 de octubre de 2011, sobre la información alimentaria facilitada al consumidor y por el que se modifican los Reglamentos (CE) n.º 1924/2006 y (CE) n.º 1925/2006 del Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 87/250/CEE de la Comisión, la Directiva 90/496/CEE del Consejo, la Directiva 1999/10/CE de la Comisión, la Directiva 2000/13/CE del Parlamento Europeo y del Consejo, las Directivas 2002/67/CE, y 2008/5/CE de la Comisión, y el Reglamento (CE) n.º 608/2004 de la Comisión.
+
+La ley centra su objeto en los aspectos técnicos de las reglamentaciones técnico-sanitarias y en la normativa de la Unión Europea y nacional que regula las características de los alimentos o sus procesos de producción y que tienen contenido esencialmente económico por estar dirigidos a intentar prevenir fraudes alimentarios y mejorar la calidad de los bienes puestos en el mercado, superponiendo a todas ellas unos sistemas comunes de autocontrol, autocontrol acreditado, control oficial administrativo y régimen sancionador de su incumplimiento. Asimismo, incluye las normas de etiquetado facultativo que si bien no son obligatorias en el sentido de que sean vinculantes para todos los operadores, actúan como normas de obligado cumplimiento en cuanto a sus condiciones en caso de que éstos decidan libremente acogerse a la posibilidad de etiquetar esos elementos adicionales.
+
+Por otro lado, las Fuerzas y Cuerpos de Seguridad del Estado vienen participando activamente en las labores de inspección y control en las fases de la cadena alimentaria comprendidas en el ámbito de aplicación de esta ley y con idénticos fines. Con el objeto de dar continuidad a esta actividad de colaboración en el control oficial, se hace necesaria su presencia en este texto, siguiendo las recomendaciones de la Unión Europea sobre la estrecha colaboración con las Fuerzas y Cuerpos de Seguridad en la lucha contra el fraude alimentario.
+
+Todo ello sin perjuicio de las competencias que puedan tener los Departamentos ministeriales responsables en el control higiénico sanitario, del consumo o del control del comercio exterior, cuyos ámbitos de actuación no se ven afectados por la presente normativa.
+
+Tampoco resulta afectado por la presente ley el control de la producción primaria, salvo que una norma de calidad así lo prevea.
+
+II
+
+El Real Decreto 1945/1983, de 22 de junio, por el que se regulan las infracciones y sanciones en materia de defensa del consumidor y de la producción agro-alimentaria, fue aprobado para dar cumplimiento al mandato parlamentario de acordar un plan de medidas urgentes de defensa de la salud de los consumidores.
+
+En el citado real decreto se actualizaron y refundieron todas las normas y disposiciones en materia de inspección y vigilancia de las actividades alimentarias y de sanción de las infracciones por aquel entonces vigentes. Por eso en el mencionado real decreto confluyen la defensa de la salud pública, la protección de los intereses de los consumidores y las legítimas exigencias de la industria, el comercio y los servicios.
+
+En la actualidad, la regulación de las infracciones sanitarias, recogida en el artículo 2 del citado real decreto, se encuentra regulada de manera independiente en su propia normativa. En aras de la seguridad jurídica y debido a la necesidad de un nuevo marco sancionador con valor y efectividad actual, así como la necesidad de establecer un marco normativo unitario que sea de aplicación a todo el territorio nacional y asegure un tratamiento uniforme a todos los operadores incluidos en el ámbito de aplicación se ha considerado necesario elaborar la presente ley.
+
+En consecuencia, no procederá la aplicación del mencionado Real Decreto 1945/1983, de 22 de junio, para los productos alimenticios incluidos en el ámbito de aplicación de esta ley, ni a los operadores de dichos productos en las etapas de la cadena alimentaria desde la consideración del producto como alimento de acuerdo con el citado Reglamento (CE) n.º 178/2002 del Parlamento Europeo y del Consejo, de 28 de enero de 2002, hasta la transformación, incluidos los almacenes mayoristas y de distribuidores mayoristas, así como el transporte entre todos ellos, sin olvidar a los intermediarios mercantiles con o sin almacén.
+
+Por otro lado, hay que tener en cuenta que existe una parte del tan mencionado real decreto que ni está recogida en esta ley ni está derogada por otra normativa. Esta parte corresponde a la toma de muestras y a los análisis, para los que se aplicarán las disposiciones contenidas en el Real Decreto 1945/1983, de 22 de junio, en tanto se desarrolle reglamentariamente esta ley. También seguirá aplicándose por entero a los aspectos higiénico-sanitarios y de la seguridad alimentaria, así como a los productos y servicios distintos de los alimentarios.
+
+En tanto no se desarrolle un procedimiento propio, la potestad sancionadora recogida en esta ley se ejercerá mediante el procedimiento establecido en el Real Decreto 1398/1993, de 4 de agosto, por el que se aprueba el Reglamento del procedimiento para el ejercicio de la potestad sancionadora.
+
+III
+
+Por otra parte, en los últimos años se ha producido un incremento substancial de los sistemas privados de certificación de calidad. Estas certificaciones están basadas en normas internacionalmente reconocidas, confiando la garantía de que los productos cumplen los requisitos establecidos a una tercera parte independiente de los intereses de los operadores del mercado y de los consumidores: las entidades de certificación o de inspección. En muchos mercados, este tipo de certificación se está convirtiendo en una condición imprescindible para el acceso a los mismos.
+
+También son utilizados estos sistemas para realizar la verificación del autocontrol del operador y en este contexto se regula en la presente ley la necesidad de que estas entidades de inspección y certificación realicen una declaración responsable ante la autoridad competente donde inicien su actividad según el alcance de su acreditación. Esta declaración responsable es única y válida para todo el territorio nacional independientemente de dónde se realice la mencionada declaración.
+
+Estos sistemas de la evaluación de la conformidad de los alimentos en el ámbito voluntario de la calidad, y la naturaleza, características y principios de funcionamiento de la acreditación en el sector alimentario, se establecen en el Reglamento (CE) n.º 765/2008 del Parlamento Europeo y del Consejo, de 9 de julio de 2008, por el que se establecen los requisitos de acreditación y vigilancia del mercado relativos a la comercialización de los productos y por el que se deroga el Reglamento (CEE) n.º 339/93.
+
+Asimismo, en el ámbito de la calidad y como mecanismo para garantizar la transparencia en las transacciones comerciales y el equilibrio en la cadena comercial, el Reglamento (UE) n.º 1308/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013, por el que se crea la organización común de mercados de los productos agrarios y por el que se derogan los Reglamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 y (CE) n.º 1234/2007, establece la obligatoriedad de la clasificación de canales de ganado vacuno y porcino, así como la voluntariedad para cada Estado miembro de la aplicación de la clasificación de canales en el caso del ganado ovino y caprino.
+
+Para garantizar el correcto cumplimiento de las disposiciones recogidas en la normativa comunitaria y en aras de una mayor transparencia comercial y seguridad jurídica de los operadores se hace necesario establecer un régimen de infracciones y sanciones específico en este ámbito, para el caso del ganado vacuno y porcino, mientras que no resulta necesario para el ganado ovino y caprino, al no ser, por el momento, obligatoria su aplicación en España.
+
+IV
+
+Además, los operadores del sector de la alimentación y bebidas perciben que existe fragmentación de la unidad de mercado, al tener que enfrentar procedimientos de control oficial y sancionador, entre otros, distintos en cada territorio donde se ubican sus empresas, por lo que la regulación contenida en esta ley tiene como referencia los principios de garantía de la libertad de establecimiento y la libertad de circulación, consagrados en la Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado. La Constitución, por un lado, reconoce en su artículo 38 la libertad de empresa en el marco de la economía de mercado, instando a los Poderes públicos a garantizar y proteger su ejercicio y la defensa de la productividad, de acuerdo con las exigencias de la economía general y, en su caso, de la planificación. Por otro, en su artículo 139 establece que ninguna autoridad podrá adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.
+
+Ambos preceptos inspiran los mencionados principios de garantía de la libertad de establecimiento y la libertad de circulación, que constituye un escenario esencial para el funcionamiento competitivo de la economía española, en la que la industria alimentaria desempeña un papel fundamental, siendo uno de los pilares del proyecto Marca España.
+
+Estos principios relativos a la unidad de mercado adquieren plena significación en un ámbito tan importante para la economía nacional como la producción alimentaria. A tal efecto, la presente norma parte de la existencia de múltiples y dispares normas autonómicas, a partir de cuya existencia se articula un sistema armónico que viene a constituir un mínimo denominador común en que quepan los diferentes intereses respectivos en la materia en cada una de las comunidades autónomas. Este contenido común se consigna en una norma con rango legal por las especiales necesidades normativas que la actividad de control y sanción presenta, garantizando con ello la protección de los destinatarios y la correcta distribución competencial.
+
+En esa línea, esta ley transita en la senda de la homogeneización en el trato de las empresas alimentarias en todo el territorio español, independientemente de la comunidad autónoma donde se asienten, desde el punto de vista del control de calidad y de la aplicación del régimen sancionador.
+
+Los sistemas de control que regula la presente ley provienen de la normativa de la Unión Europea aplicable, si bien se procede a sistematizarlos en un único instrumento legal dotado además de carácter básico. La existencia de distintos mecanismos de control no puede suponer para el operador en ningún caso trabas al ejercicio de su actividad, ya que ninguna autoridad puede adoptar medidas que obstaculicen la libre circulación de bienes o servicios.
+
+V
+
+Además, con el fin de mejorar la coordinación del control ejercido por las autoridades competentes en esta materia, se procede a la creación como grupo de trabajo de la Mesa de Coordinación de la Calidad Alimentaria, que se constituye como instrumento básico de cooperación entre las Administraciones.
+
+La Mesa es el único medio de cooperación posible en lo que respecta al campo de aplicación de esta ley, para asegurar la aplicación uniforme en todo el territorio nacional del control de la calidad y la única forma de garantizar la leal competencia de los operadores y consecuentemente la unidad del mercado.
+
+España, como miembro de la Unión Europea, realiza actuaciones de coordinación de las actividades relacionadas con el control oficial, que dimanan del citado Reglamento (CE) n.º 882/2004 del Parlamento Europeo y del Consejo, de 29 de abril de 2004, y que tienen que ver con actividades como la asistencia entre Estados miembros y con terceros países en casos de fraudes cometidos por empresas españolas en aquéllos y viceversa, la exigencia de establecer sanciones disuasorias que tengan en cuenta el lucro obtenido con el fraude cometido, la asistencia por parte del Ministerio de Agricultura, Alimentación y Medio Ambiente a la Comisión Europea en sus recomendaciones para atajar un fraude de ámbito europeo o la actuación de las autoridades de la Administración General del Estado en la implantación de la Red de Intercambio de Información sobre fraudes en el ámbito alimentario que pretende establecer la Comisión Europea, al modo de las Redes Europeas ya existentes.
+
+VI
+
+La ley consta de cuatro títulos.
+
+El título I, sobre disposiciones generales, establece el objeto, el ámbito de aplicación así como los fines y las definiciones básicas necesarias para el desarrollo de la misma.
+
+El título II regula la calidad alimentaria y los sistemas de control que se aplican al respecto, teniendo en cuenta las nuevas tendencias en materia de control que de forma específica afectan a la alimentación.
+
+El título III establece el régimen sancionador básico aplicable en materia de control de la calidad alimentaria, tipificando las infracciones cometidas por los operadores en relación con la legislación alimentaria compuesto por las normas de obligado cumplimiento dictadas por las Administraciones competentes en cada sector y en la normativa horizontal aplicable, así como aquellas recogidas en la presente ley que quedan clasificadas en los grupos de leves, graves y muy graves y fijando los límites de las sanciones aplicables en cada caso.
+
+Por último, el título IV recoge los aspectos relacionados con la colaboración y cooperación entre las distintas Administraciones públicas en el ámbito de esta ley.
+
+La ley se completa con cuatro disposiciones adicionales en las que se incluyen respectivamente, el régimen sancionador en materia de clasificación de canales de vacuno y porcino, la cláusula de reconocimiento mutuo, el compromiso de no incremento de gasto y la previsión de un sistema para facilitar el conocimiento de la normativa de calidad aplicable en el ámbito de la ley, una disposición transitoria que prevé la inaplicación del Real Decreto 1945/1983 al ámbito de los aspectos regulados en esta ley, excepto dos artículos referidos a toma de muestras y análisis que se aplicarán en tanto se desarrolle reglamentariamente la presente ley y la aplicación transitoria del reglamento para el ejercicio de la potestad sancionadora y ocho disposiciones finales que recogen, respectivamente, modificaciones a la Ley 12/2013, de 2 de agosto, de medidas para mejorar el funcionamiento de la cadena alimentaria, y a la Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados, la habilitación al Gobierno para elaborar normas de calidad, el título competencial, la facultad de desarrollo, la actualización de sanciones y la entrada en vigor.
+
+Además cabe señalar que esta ley, en su fase de anteproyecto, se ha consultado a los representantes sectoriales desde la producción hasta la industria alimentaria, incluyéndose asimismo los representantes de la moderna distribución y otros actores de la cadena alimentaria. También se ha consultado a todas las Consejerías de Agricultura de las comunidades autónomas con competencias en control oficial alimentario, además de recabar los informes de las Secretarías Generales Técnicas de los Ministerios relacionados y del Consejo de Estado.
+
+Finalmente, esta ley para la defensa de la calidad alimentaria se constituye como legislación básica en materia de bases y coordinación de la planificación general de la actividad económica, dictada al amparo de lo dispuesto en el artículo 149.1, regla 13.ª, de la Constitución Española.

@@ -1,0 +1,3 @@
+## Artículo 7.
+
+Las reformas a la presente Acta serán aprobadas por la Conferencia Iberoamericana de Ministros Responsables de Juventud, requiriéndose una mayoría de dos tercios de los Estados miembros.

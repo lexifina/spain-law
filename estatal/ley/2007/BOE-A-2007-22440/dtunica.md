@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio relativo a las tarifas aplicables por la asignación, renovación y otras operaciones registrales de los nombres de dominio bajo el «.es».
+
+Hasta que se fijen, de conformidad con lo que se establece en el artículo 8 de esta Ley, los precios públicos aplicables por la asignación, renovación y otras operaciones registrales de los nombres de dominio bajo el «.es» seguirán siendo de aplicación las tasas correspondientes fijadas de acuerdo con las normas legales y disposiciones reglamentarias de desarrollo vigentes con anterioridad a la entrada en vigor de esta Ley.

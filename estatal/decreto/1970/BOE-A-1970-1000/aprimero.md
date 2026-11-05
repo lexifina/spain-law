@@ -1,0 +1,3 @@
+## Artículo primero. Normas reguladoras.
+
+El régimen especial de la Seguridad Social de los trabajadores por cuenta propia o autónomos, previsto en el apartado c) del número dos del artículo diez de la Ley de la Seguridad Social de veintiuno de abril de mil novecientos sesenta y seis («Boletín Oficial del Estado» del veintidós y veintitrés) se regirá, de conformidad con lo establecido en dicha Ley, por el título I de la misma, por el presente Decreto y sus disposiciones de aplicación y desarrollo, así como por las restantes normas generales de obligada observación en el sistema de la Seguridad Social.

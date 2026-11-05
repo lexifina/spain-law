@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 28 de noviembre de 2023, excepto los arts. 1.f); 3.2.d); 10.1, primer inciso; y 10.2.b), que permanecerán vigentes hasta el 31 de marzo de 2024, según establece la disposición derogatoria única del Real Decreto 890/2023, de 27 de noviembre. Ref. BOE-A-2023-24122#dd

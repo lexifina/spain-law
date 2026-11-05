@@ -1,0 +1,5 @@
+## Art. 31.
+
+Es facultad de FEVE el establecimiento de los servicios accesorios que estime convenientes en las instalaciones y en los trenes, tanto para el desarrollo del transporte y las exigencias de su servicio interior como para las necesidades de cooperación con otros servicios públicos. En particular, le corresponde el establecimiento de cuantas dependencias de recepción y entrega del tráfico de viajeros o mercancías conceptúe convenientes para la mejor prestación del servicio de transporte a su cargo, utilizando a tal efecto tanto locales propios como arrendados. Se incluye entre dichas instalaciones los servicios complementarlos de viajeros, los apartaderos comerciales, cargaderos, muelles de servicio público o particular, depósitos comerciales, básculas-puente. etc.
+
+Asimismo, y dentro de los criterios legales vigentes de carácter técnico, gozará FEVE de autonomía para establecer, sin necesidad de previa concesión administrativa, las instalaciones telefónicas, de radiotelefonía o radiotelegrafía que sean necesarias para el desarrollo del servicio que tiene encomendado.

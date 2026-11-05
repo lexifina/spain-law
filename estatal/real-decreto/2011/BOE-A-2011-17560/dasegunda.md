@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Adaptación del sector público estatal a las disposiciones de este real decreto.
+
+Los órganos de la Administración General del Estado y los demás organismos y entidades del sector público estatal a que se hace referencia en el artículo 1.2 deberán adaptarse a las disposiciones de este real decreto en el plazo de un año desde su entrada en vigor.
+
+En el citado plazo de un año, aprobarán un plan propio de medidas de impulso de la reutilización de la información del sector público por medios electrónicos, dentro de su ámbito de competencias, que incluirá el compromiso por parte de los departamentos ministeriales de publicar a través de tales medios, de una manera estructurada y usable para los interesados e interesadas y en bruto, en formatos procesables y accesibles de modo automatizado correspondientes a estándares abiertos, al menos cuatro conjuntos de documentos de alto impacto y valor en un plazo máximo de seis meses desde la finalización del plazo de adaptación previsto en el párrafo anterior.

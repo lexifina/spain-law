@@ -1,0 +1,25 @@
+## Disposición final tercera. Modificación del texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por Real Decreto Legislativo 5/2004, de 5 de marzo.
+
+Uno. Se modifican los apartados 2 y 13 de la disposición adicional primera del texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por Real Decreto Legislativo 5/2004, de 5 de marzo, en los siguientes términos:
+
+> «2. Lo establecido en esta disposición adicional resulta igualmente de aplicación a los mecanismos de resolución de aquellos litigios con otros Estados miembros de la Unión Europea que se deriven de los convenios y tratados internacionales por los que se dispone la eliminación de la doble imposición de la renta y, en su caso, del patrimonio a que se refiere la Directiva (UE) 2017/1852 del Consejo, de 10 de octubre de 2017, relativa a los mecanismos de resolución de litigios fiscales en la Unión Europea. El acuerdo alcanzado se aplicará independientemente de los plazos previstos en el Derecho interno.»
+
+> «13. Los miembros de la comisión consultiva o de la comisión de resolución alternativa constituida en el marco de un procedimiento amistoso estarán obligados al más estricto y completo sigilo respecto de los datos tributarios que conocieran en su condición de tales, de conformidad con lo dispuesto en el artículo 95 de la Ley 58/2003, de 17 de diciembre, General Tributaria. La infracción de dicho deber podrá dar lugar a las responsabilidades legales que pudieran derivarse conforme a la normativa española y, a estos efectos, los miembros de estas comisiones tendrán la consideración de autoridad.
+
+> Lo dispuesto en el párrafo anterior se entenderá sin perjuicio de la aplicación, en su caso, de la normativa interna de los otros Estados afectados en el ámbito propio de su jurisdicción.»
+
+Dos. Se añade una disposición transitoria tercera al texto refundido de la Ley del Impuesto sobre la Renta de no Residentes, aprobado por Real Decreto Legislativo 5/2004, de 5 de marzo, en los siguientes términos:
+
+> «Disposición transitoria tercera. Régimen transitorio en materia de procedimientos amistosos.
+
+> 1. Los procedimientos amistosos de la disposición adicional primera de este texto refundido, iniciados antes del 6 de febrero de 2020, la fecha de entrada en vigor de la redacción otorgada por el Real Decreto-ley 3/2020, de 4 de febrero, se regirán por la normativa anterior a dicha fecha hasta su conclusión salvo lo dispuesto en los apartados siguientes.
+
+> 2. La regulación de los mecanismos de resolución de aquellos litigios con otros Estados miembros de la Unión Europea a que se refiere el apartado 2 de la disposición adicional primera, en su redacción dada por la Ley 13/2023, de 24 de mayo, por la que se modifican la Ley 58/2003, de 17 de diciembre, General Tributaria, en transposición de la Directiva (UE) 2021/514 del Consejo, de 22 de marzo de 2021, por la que se modifica la Directiva 2011/16/UE relativa a la cooperación administrativa en el ámbito de la fiscalidad, y otras normas tributarias, será aplicable a toda solicitud de inicio de dichos mecanismos que se haya presentado a partir del 1 de julio de 2019 respecto de cuestiones objeto de un procedimiento amistoso que se refieran a rentas o patrimonio obtenidos en un ejercicio fiscal que se haya iniciado el 1 de enero de 2018 o con posterioridad a esta fecha.
+
+> Asimismo, y siempre que así se acuerde con las autoridades competentes de los Estados miembros afectados, la regulación de tales mecanismos se aplicará a toda solicitud de inicio que se haya presentado a partir del 1 de julio de 2019 respecto de cuestiones objeto del procedimiento amistoso que incluyan rentas o patrimonio obtenidos antes y después del 1 de enero de 2018. En este último supuesto, se exigirá también que en el convenio o tratado internacional aplicable estuviera prevista la posibilidad de constituir una comisión consultiva.
+
+> 3. Lo dispuesto en la redacción dada por el Real Decreto-ley 3/2020, de 4 de febrero, de medidas urgentes por el que se incorporan al ordenamiento jurídico español diversas directivas de la Unión Europea en el ámbito de la contratación pública en determinados sectores; de seguros privados; de planes y fondos de pensiones; del ámbito tributario y de litigios fiscales, a los apartados 7 y 8 de la citada disposición adicional primera, será de aplicación a los procedimientos amistosos iniciados a partir del 12 de octubre de 2015.
+
+> 4. Lo dispuesto en la redacción dada por el Real Decreto-ley 3/2020, de 4 de febrero, al segundo párrafo del apartado 3 de la disposición adicional primera, será de aplicación a los procedimientos pendientes de terminación el 6 de febrero de 2020.
+
+> 5. Lo dispuesto en la redacción dada por el Real Decreto-ley 3/2020, de 4 de febrero, al tercer párrafo del apartado 2 de la disposición adicional novena de la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, será de aplicación a los procedimientos amistosos iniciados a partir del 12 de octubre de 2015.»

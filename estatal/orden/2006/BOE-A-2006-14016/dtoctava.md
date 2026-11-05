@@ -1,0 +1,5 @@
+## Disposición transitoria octava. Régimen aplicable al personal de las entidades prestadoras de servicios adicionales, complementarios y auxiliares.
+
+1. En tanto el Ministerio de Fomento no apruebe, de conformidad con el artículo 41 de la Ley del Sector Ferroviario y del artículo 56 del Reglamento del Sector Ferroviario, el régimen jurídico que establezca los requisitos exigibles para la obtención del título que habilite a terceros para la prestación de servicios adicionales, complementarios y auxiliares, el Administrador de Infraestructuras Ferroviarias otorgará, en su caso, al personal de las entidades que presten tales servicios, las habilitaciones que correspondan cuando para el ejercicio de sus funciones se requiera de alguna de las habilitaciones reguladas por esta orden.
+
+2. Las habilitaciones otorgadas con arreglo a lo dispuesto en el apartado anterior perderán su validez a los seis meses de la entrada en vigor de la reglamentación aprobada a tal efecto por el Ministerio de Fomento.

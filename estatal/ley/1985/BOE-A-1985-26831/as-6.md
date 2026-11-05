@@ -1,0 +1,11 @@
+## Artículo sesenta y tres. Anticipos a las Comunidades Autónomas.
+
+Uno. Se autoriza al Tesoro para efectuar anticipos a las Comunidades Autónomas a cuenta de los recursos que hayan de percibir de los Presupuestos Generales del Estado correspondientes a la cobertura financiera de los servicios transferidos, como consecuencia de las diferencias de vencimiento de los pagos e ingresos derivados de la ejecución de su presupuesto. Estos anticipos deberán quedar reembolsados antes de finalizar el ejercicio económico de 1986, y no se imputarán al límite previsto en el artículo 65.1 de la Ley General Presupuestaria.
+
+Dos. Asimismo se autoriza al Tesoro para efectuar anticipos a las Comunidades Autónomas, cuya cesión de tributos vaya a tener efecto, total o parcialmente, en 1 de enero de 1986, hasta tanto se publique el Real Decreto que reconozca el cumplimiento de la condición establecida en el artículo dos de las respectivas leyes de cesión de tributos, en los siguientes términos:
+
+a) La recaudación que desde 1 de enero de 1986 se obtenga en las Delegaciones de Hacienda sitas en el territorio de estas Comunidades Autónomas por los tributos susceptibles de cesión, se ingresará en la «Cuenta de Rentas Públicas, Operaciones Extrapresupuestarias, Recursos de las Comunidades Autónomas».
+
+b) Por la Dirección General del Tesoro y Política Financiera, a propuesta de la Dirección General de Coordinación con las Haciendas Territoriales, se les efectuará en la primera quincena del mes de enero de 1986 un anticipo de Tesorería por cuantía igual a un tercio de la recaudación prevista para 1986 por los tributos susceptibles de cesión computada para la fijación de los créditos incluidos en la Sección 32.
+
+c) Publicados los Reales Decretos y asumida por las Comunidades Autónomas la recaudación de los tributos cedidos, por la Intervención General de la Administración del Estado y la Dirección General de Coordinación con las Haciendas Territoriales, conjuntamente, se procederá a trasladar a los Delegados Especiales de Hacienda correspondientes las instrucciones sobre las operaciones a efectuar en relación con la recaudación de tributos cedidos que figure en la «Cuenta de Rentas Públicas, Operaciones Extrapresupuestarias, Recursos de las Comunidades Autónomas».

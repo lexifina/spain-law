@@ -1,0 +1,5 @@
+## Disposición adicional primera. Documento de especificaciones técnicas para garantizar las comunicaciones entre los notarios y la Dirección General del Catastro.
+
+La Dirección General del Catastro y el Consejo General del Notariado de España desarrollarán un nuevo sistema bidireccional de comunicaciones electrónicas para asegurar el flujo recíproco de todos los datos previstos en la presente Resolución conjunta, con la finalidad de dar cumplimiento a las previsiones Resolución de 26 de octubre de 2015, de la Dirección General del Catastro, por la que se regulan los requisitos técnicos para dar cumplimiento a las obligaciones de suministro de información por los notarios establecidas en el texto refundido de la Ley del Catastro Inmobiliario. Las especificaciones técnicas de dicho sistema de intercambio se recogerán en un documento que se elaborará conjuntamente por ambas instituciones.
+
+A tal efecto, en el mes siguiente a la publicación de esta resolución se constituirá un grupo mixto de trabajo, con la finalidad de llevar a efecto los anteriores desarrollos en el plazo máximo de seis meses desde dicha publicación.

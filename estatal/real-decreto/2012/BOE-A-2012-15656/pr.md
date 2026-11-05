@@ -1,0 +1,15 @@
+El Decreto 2484/1967, de 21 de septiembre, por el que se aprueba el texto del Código Alimentario Español, establece la normativa relativa al café en la sección 1.ª «Cafés y derivados», pertenecientes al capítulo XXV «Alimentos estimulantes y derivados». Esa normativa se complementa con lo establecido en el Real Decreto 1231/1988, de 14 de octubre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, almacenamiento, transporte y comercialización del café.
+
+La Directiva 1999/4/CE del Parlamento Europeo y del Consejo, de 22 de febrero de 1999, relativa a los extractos de café y los extractos de achicoria, fijó en su anexo las denominaciones, definiciones y características de esos productos, siendo incorporada al derecho nacional mediante el Real Decreto 943/2001, de 3 de agosto, por el que se modifican el Real Decreto 2323/1985, de 4 de diciembre, por el que se aprueba la reglamentación técnico-sanitaria para la elaboración, almacenamiento, transporte y comercialización de sucedáneos de café, y el Real Decreto 1231/1988, de 14 de octubre, por el que se aprueba la reglamentación técnico-sanitaria para la elaboración, almacenamiento, transporte y comercialización del café. Esta norma vuelve a incluir los aspectos de la Directiva relativos a los extractos de café.
+
+El citado Real Decreto 1231/1988, de 14 de octubre, ha sido modificado en varias ocasiones para actualizar aspectos técnicos. Por otra parte, numerosos aspectos recogidos en ese real decreto ya no están en vigor, al haber sido regulados por diversas disposiciones comunitarias de carácter horizontal, relacionadas con los alimentos en general.
+
+Estas razones aconsejan la elaboración de una nueva disposición actualizada y simplificada en forma de norma de calidad que, al tiempo que deroga la reglamentación técnico-sanitaria aprobada mediante Real Decreto 1231/1988, de 14 de octubre, sustituya las definiciones y el contenido de los apartados 3.25.01, 3.25.02, 3.25.03, 3.25.04, 3.25.05, 3.25.06, 3.25.07 y 3.25.08 de la sección 1.ª «Cafés y derivados», pertenecientes al capítulo XXV del Código Alimentario Español.
+
+En la tramitación de este real decreto han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados, habiendo emitido el preceptivo informe la Comisión Interministerial para la Ordenación Alimentaria.
+
+Esta disposición ha sido sometida al procedimiento de información de normas y reglamentaciones técnicas y de reglamentos relativos a la sociedad de la información, regulado por el Real Decreto 1337/1999, de 31 de julio, a los efectos de dar cumplimiento a lo dispuesto en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, modificada por la Directiva 98/48/CE, del Parlamento Europeo y del Consejo, de 20 de julio.
+
+En su virtud, a propuesta del Ministro de Agricultura, Alimentación y Medio Ambiente, de la Ministra de Sanidad, Servicios Sociales e Igualdad, y del Ministro de Economía y Competitividad, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de diciembre de 2012,
+
+DISPONGO:

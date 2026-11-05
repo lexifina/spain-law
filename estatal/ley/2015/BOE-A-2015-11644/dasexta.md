@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Ampliación del plazo de cancelación de los préstamos otorgados a la Seguridad Social.
+
+Se amplía en diez años, a partir de 2016, el plazo para la cancelación del préstamo por importe de 444.344.000.000 pesetas (2.670.561.225,10 euros) otorgado a la Seguridad Social por el Estado, a que se refiere el artículo 12.Tres de la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995, prorrogado para 1996, crédito consignado por el artículo único.2 del Real Decreto-ley 17/1996, de 22 de noviembre, por el que se deroga el artículo 8 del Real Decreto-ley 1/1996, de 19 de enero, sobre el crédito concedido por el Estado para la financiación de las obligaciones de la Seguridad Social.

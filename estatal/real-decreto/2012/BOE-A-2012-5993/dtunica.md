@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio para las entidades de dinero electrónico autorizadas conforme al artículo 21 de la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero.
+
+1. Las entidades de dinero electrónico que hubieran sido autorizadas para la emisión de dinero electrónico antes del 30 de abril de 2011, conforme a lo establecido en el artículo 21 de la Ley 44/2002, de 22 de noviembre, de medidas de reforma del sistema financiero, estarán obligadas, para conservar dicha autorización, al cumplimiento de todos los requisitos previstos en la Ley 21/2011, de 26 de julio, y en este real decreto, salvo lo previsto en el apartado siguiente.
+
+2. A los únicos efectos de la acreditación prevista en el apartado 2 de la disposición transitoria de la Ley 21/2011, de 26 de julio, las referidas entidades de dinero electrónico no necesitarán aportar, salvo requerimiento expreso de la Secretaría General del Tesoro y Política Financiera, la documentación prevista en las letras a), c), d), f), g), h), i), j), l) y m) del artículo 3.1 de este real decreto.

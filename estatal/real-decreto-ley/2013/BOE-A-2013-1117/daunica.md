@@ -1,0 +1,9 @@
+## Disposición adicional única. Instalaciones de régimen especial acogidas a la opción de venta a mercado.
+
+1. A aquellas instalaciones de régimen especial que entre el 1 de enero de 2013 y la fecha de entrada en vigor del presente real decreto-ley hubieran vendido su energía durante algún periodo de acuerdo con la opción b) del artículo 24.1 del Real Decreto 661/2007, de 25 de mayo, les será liquidada la prima por la Comisión Nacional de Energía, teniendo en cuenta la energía producida en ese periodo como si hubieran estado acogidas a la opción de venta del apartado a) del referido artículo.
+
+2. Aquellas instalaciones de régimen especial que a la fecha de entrada en vigor del presente real decreto-ley estuvieran vendiendo su energía de acuerdo con la opción b) del artículo 24.1 del Real Decreto 661/2007, de 25 de mayo, pasarán a estar acogidas, de manera automática y con efectos desde el 1 de enero de 2013, a la opción de venta del apartado a) del referido artículo, salvo que con anterioridad al 15 de febrero de 2013 comuniquen de forma expresa a la Dirección General de Política Energética y Minas su deseo de permanecer en la referida opción b). De hacerlo así, quedarán en lo sucesivo acogidas a dicha opción bajo las condiciones reguladas en este real decreto-ley y, por lo tanto, no podrán en ningún caso hacer uso ulterior de la facultad prevista en el apartado 4 del artículo 24 del aludido real decreto.
+
+Lo previsto en este apartado no será de aplicación a las instalaciones de tecnología solar termoeléctrica adjudicatarias del régimen previsto en la disposición adicional tercera del Real Decreto 1565/2010, de 19 de noviembre.
+
+3. Las comunicaciones de cambio de opción de venta de energía, desde la opción a) a la opción b) del artículo 24.1 que a la entrada en vigor del presente real decreto-ley no se hubieran producido, quedarán sin efecto.

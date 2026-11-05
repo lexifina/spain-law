@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Incremento de los límites máximos de inversión en la red de distribución para el periodo 2031-2032.
+
+Durante el periodo 2027-2030, en caso de que una empresa distribuidora haya visto incrementado su límite máximo de inversión anual y el volumen aprobado en su respectivo plan de inversión anual sea inferior al límite máximo del volumen de inversión que le corresponda, podrá utilizar la diferencia resultante, que acumule, entre el límite máximo del volumen de inversión y el volumen de inversión aprobado, como incremento adicional del límite máximo del volumen de inversión durante los años 2031 y 2032 prorrateado a partes iguales entre estos dos años.

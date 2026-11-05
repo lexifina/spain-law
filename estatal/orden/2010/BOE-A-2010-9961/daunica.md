@@ -1,0 +1,3 @@
+## Disposición adicional única. Vigencia de las normas dictadas en desarrollo de la Orden de 7 de octubre de 1999.
+
+Las normas dictadas por la CNMV en uso de la habilitación recogida en el apartado 2 de la disposición final de la Orden de 25 de octubre de 1995 de desarrollo parcial del Real Decreto 629/1993, de 3 de mayo, sobre normas de actuación en los mercados de valores y registros obligatorios, y las normas dictadas en uso de la habilitación recogida en el apartado 1 de la disposición final de la Orden de 7 de octubre de 1999, de desarrollo del código general de conducta y normas de actuación en la gestión de carteras de inversión, continúan vigentes, entendiendo que tales normas se han dictado en uso de las habilitaciones contenidas en esta orden ministerial.

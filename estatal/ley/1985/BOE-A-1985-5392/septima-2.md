@@ -1,0 +1,7 @@
+## Disposición transitoria séptima.
+
+1. En tanto no se desarrolle lo dispuesto en esta Ley para los funcionarios públicos que precisen habilitación nacional, será de aplicación a quienes integran los actuales Cuerpos Nacionales de Administración Local el régimen estatutario vigente en todo aquello que sea compatible y no quede derogado por la presente Ley y por la legislación general del Estado en materia de Función Pública. Los actuales miembros de los Cuerpos Nacionales de Secretarios, Interventores y Depositarios tendrán a todos los efectos la habilitación de carácter nacional regulada en esta Ley.
+
+2. Se autoriza al Gobierno para que, a iniciativa del Ministro de Administración Territorial y a propuesta del Ministro de la Presidencia, declare a extinguir determinados Cuerpos cuando lo exija el proceso general de racionalización o el debido cumplimiento de la presente Ley, estableciendo los criterios, requisitos y condiciones para que los funcionarios de estos Cuerpos se integren en otros.
+
+3. Los funcionarios del actual Cuerpo Nacional de Directores de Bandas de Música Civiles, que queda suprimido en virtud de lo dispuesto en esta Ley, pasarán a formar parte de la plantilla de la respectiva Corporación como funcionarios propios de la misma, con respeto íntegro de sus derechos y situación jurídica surgidos al amparo de la legislación anterior, incluido el de traslado a otras Corporaciones locales, para lo cual gozarán de preferencia absoluta en los concursos que éstas convoquen para cubrir plazas de esa naturaleza.

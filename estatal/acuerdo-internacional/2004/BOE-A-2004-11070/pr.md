@@ -1,0 +1,1 @@
+El Reino de España y la República Bolivariana de Venezuela deseosos de concluir un Convenio con el objeto de evitar la doble tributación y prevenir la evasión y el fraude fiscal en materia de impuestos sobre la renta y sobre el patrimonio, han convenido en las siguientes disposiciones:

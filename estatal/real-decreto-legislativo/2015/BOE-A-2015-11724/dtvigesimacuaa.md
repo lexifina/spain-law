@@ -1,0 +1,7 @@
+## Disposición transitoria vigésima cuarta. Incompatibilidad de las prestaciones no contributivas.
+
+1. La condición de beneficiario de las pensiones no contributivas de la Seguridad Social será incompatible con la percepción de las pensiones asistenciales, reguladas en la Ley 45/1960,de 21 de julio, por la que se crean determinados Fondos Nacionales para la aplicación social del Impuesto y del Ahorro, y suprimidas por la Ley 28/1992, de 24 de noviembre, de Medidas Presupuestarias Urgentes, así como de los subsidios de garantía de ingresos mínimos y por ayuda de tercera persona, a que se refieren el artículo 8.3 y la disposición transitoria única del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por Real Decreto Legislativo 1/2013, de 29 de noviembre.
+
+2. La percepción de las asignaciones económicas por hijo con discapacidad a cargo, establecidas en el artículo 353.2. b) y c), será incompatible con la condición, por parte del hijo con discapacidad, de beneficiario de las pensiones asistenciales, reguladas en la Ley 45/1960, de 21 de julio, y suprimidas por la Ley 28/1992, de 24 de noviembre, o de los subsidios de garantía de ingresos mínimos y por ayuda de tercera persona, a que se refieren el artículo 8.3 y la disposición transitoria única del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social.
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 36, de 11 de febrero de 2016. Ref. BOE-A-2016-1320.

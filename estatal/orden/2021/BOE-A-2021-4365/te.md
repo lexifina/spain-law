@@ -1,0 +1,3 @@
+## Tercero. Mantenimiento de existencias mínimas de seguridad de productos petrolíferos por los sujetos obligados desde el 1 de abril de 2021 hasta el 31 de diciembre de 2021.
+
+Desde el 1 de abril hasta el 31 de diciembre de 2021, ambos inclusive, los sujetos obligados al mantenimiento de existencias mínimas de seguridad de hidrocarburos líquidos, definidos en el artículo 7 del Real Decreto 1716/2004, de 23 de julio, en consonancia con lo dispuesto en el apartado anterior, deberán mantener los 42 días restantes como existencias mínimas de seguridad para alcanzar los 92 días requeridos por el artículo 2 del citado real decreto, sobre los grupos de productos petrolíferos señalados en el apartado anterior.

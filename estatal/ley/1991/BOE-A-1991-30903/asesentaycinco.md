@@ -1,0 +1,3 @@
+## Artículo sesenta y cinco. Préstamos del Estado al Instituto de Crédito Oficial.
+
+El Estado aumentará su préstamo especial al Instituto de Crédito Oficial en la cuantía necesaria para atender, en la parte no utilizada, los préstamos del Reino de España al Reino de Marruecos, aprobado por la Ley 13/1984, de 9 de enero, y a la República de Bolivia, aprobado por Ley 11/1987, de 2 de julio.

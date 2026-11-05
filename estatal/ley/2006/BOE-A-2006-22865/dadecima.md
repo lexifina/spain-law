@@ -1,0 +1,5 @@
+## Disposición adicional décima. Actualización de determinadas pensiones de Clases Pasivas del Estado.
+
+Las pensiones de jubilación o retiro y de viudedad del Régimen de Clases Pasivas del Estado, causadas antes de 1 de enero de 2007 al amparo de la legislación vigente a 31 de diciembre de 1984, experimentarán en 2007 un incremento adicional del 1 por ciento y del 2 por ciento, respectivamente, una vez aplicadas las normas generales de revalorización.
+
+Cuando tales pensiones se causen durante el año 2007, la cuantía inicial que corresponda, de acuerdo con las bases reguladoras establecidas para esta clase de pensiones en el presente ejercicio económico, se corregirá mediante la aplicación del incremento establecido en el párrafo anterior, añadiendo así mismo, el porcentaje del 1 por ciento o del 2 por ciento, según proceda, establecido para los años 2004 y 2006 en el apartado cuatro de la disposición adicional quinta y sexta de las Leyes 61/2003, de 30 de diciembre, y 30/2005, de 29 de diciembre, de Presupuestos Generales del Estado para el año 2004 y 2006 respectivamente.

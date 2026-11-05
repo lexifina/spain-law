@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación de la Orden EHA/3435/2007, de 23 de noviembre, por el que se aprueban los modelos de autoliquidación 117, 123, 124, 126, 128 y 300 y se establecen medidas para la promoción y ampliación de la presentación telemática de determinadas autoliquidaciones, resúmenes anuales y declaraciones informativas de carácter tributario.
+
+1. Se suprime el apartado 5 del artículo 2 de la Orden EHA/3435/2007, de 23 de noviembre, por el que se aprueban los modelos de autoliquidación 117, 123, 124, 126, 128 y 300 y se establecen medidas para la promoción y ampliación de la presentación telemática de determinadas autoliquidaciones, resúmenes anuales y declaraciones informativas de carácter tributario.
+
+2. Se da nueva numeración al apartado 6 del artículo 2 de la Orden EHA/3435/2007, de 23 de noviembre, por el que se aprueban los modelos de autoliquidación 117, 123, 124, 126, 128 y 300 y se establecen medidas para la promoción y ampliación de la presentación telemática de determinadas autoliquidaciones, resúmenes anuales y declaraciones informativas de carácter tributario, que pasa a ser el apartado 5 de dicho artículo 2.

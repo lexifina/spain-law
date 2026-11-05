@@ -1,0 +1,7 @@
+## Disposición adicional sexta. Convenios para la prestación de asistencia jurídica.
+
+1. Los convenios para la prestación de asistencia jurídica celebrados entre la Abogacía General del Estado y las entidades pertenecientes al sector público institucional estatal, autonómico o local, tendrán naturaleza administrativa, de suerte que todas las cuestiones que puedan surgir en torno a su interpretación, modificación, resolución y efectos corresponderán a la jurisdicción contencioso-administrativa, sin perjuicio de otros instrumentos extraprocesales de solución.
+
+2. En estos convenios, además del contenido mínimo previsto en el artículo 49 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, deberán incluirse las actuaciones a las que se extenderá la asistencia jurídica que será prestada por la Abogacía General del Estado y la contraprestación económica a satisfacer por la entidad a la Administración General del Estado.
+
+3. Las contraprestaciones económicas percibidas por la Administración General del Estado generarán crédito en las partidas presupuestarias de la Abogacía General del Estado de conformidad con lo dispuesto en la legislación presupuestaria. A tal efecto, y una vez acreditado el ingreso en el Tesoro Público del importe de las referidas contraprestaciones económicas, el Ministerio de Hacienda y Función Pública tramitará el oportuno expediente de modificación presupuestaria por tal concepto.

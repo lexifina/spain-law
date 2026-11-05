@@ -1,0 +1,3 @@
+## Artículo setenta y nueve. Anticipos a las Comunidades Autónomas.
+
+Se autoriza al Tesoro para efectuar anticipos a las Comunidades Autónomas a cuenta de los recursos que hayan de percibir de los Presupuestos Generales del Estado correspondientes a la cobertura financiera de los servicios transferidos, como consecuencia de las diferencias de vencimiento de los pagos e ingresos derivados de la ejecución de su presupuesto. Estos anticipos deberán quedar reembolsadas antes de finalizar el ejercicio económico de 1985, y no se imputarán al límite previsto en el artículo 65.1 de la Ley General Presupuestaria.

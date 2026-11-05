@@ -1,0 +1,9 @@
+## Disposición adicional quinta. Orden ministerial de 2 de marzo de 1994 por la que se establecen las bases para la concesión de subvenciones por el Instituto Nacional de Empleo, en el ámbito de colaboración con las Corporaciones locales.
+
+Queda modificado el artículo 12 de la Orden ministerial de 2 de marzo de 1994 por la que se establecen las bases para la concesión de subvenciones por el Instituto Nacional de Empleo, en el ámbito de colaboración con las Corporaciones locales, con la siguiente redacción:
+
+«De las obras y servicios afectados al programa de fomento del empleo agrario.
+
+1. Las obras y servicios ejecutados, en base a la colaboración que establece la presente Orden por Corporaciones locales, afectados al programa de fomento del empleo agrario, estarán supeditados a la normativa existente sobre el mismo en lo relativo a determinación, localización y selección de obras y servicios, porcentaje de trabajadores desempleados a contratar, selección de los trabajadores, duración de los contratos y cualquier otro aspecto contenido en el Real Decreto 939/1997, de 20 de junio, por el que se regula la afectación al programa de fomento de empleo agrario de créditos para inversiones de las Administraciones públicas en Andalucía, Extremadura y zonas rurales deprimidas, que afecten al desarrollo de la colaboración establecida en esta Orden.
+
+2. En el ámbito territorial de los Consejos Comarcales del Instituto Nacional de Empleo existen las Comisiones Regionales y Provinciales de Seguimiento con la composición y funciones atribuidas en el capítulo IV del Real Decreto 939/1997, de 20 de junio, por el que se regula la afectación al programa de fomento de empleo agrario de créditos para inversiones de las Administraciones públicas en Andalucía, Extremadura y zonas rurales deprimidas.»

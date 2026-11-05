@@ -1,0 +1,29 @@
+La arquitectura es una expresión cultural que refleja la identidad de cada sociedad. Así, las sociedades se componen de la suma del presente y del legado heredado, condicionando de forma determinante el futuro de las personas que las integran.
+
+De acuerdo con el concepto ya acuñado de Baukultur, o cultura de la construcción, no puede haber desarrollo democrático, pacífico y sostenible si la cultura no se sitúa en el centro de las políticas públicas, siendo conscientes de que el modo en que usemos, mantengamos y protejamos nuestro patrimonio cultural será uno de los elementos determinantes de la calidad y del carácter inclusivo del futuro que se construye.
+
+Por ello debe considerarse que la arquitectura es un bien de interés general que demanda el reconocimiento de los poderes públicos, a los que corresponde promover su protección, fomento y difusión.
+
+En cumplimiento de este deber, la Ley 9/2022, de 14 de junio, de Calidad de la Arquitectura, concibe en su artículo 7 la Casa de la Arquitectura como un museo de titularidad y gestión estatal adscrito al Ministerio de Vivienda y Agenda Urbana, y autoriza al Gobierno, mediante su disposición final quinta, para regularlo a través de la aprobación de un real decreto que adapte el Real Decreto 1636/2006, de 29 de diciembre, por el que se crea el Museo Nacional de Arquitectura y Urbanismo.
+
+Mediante el presente real decreto se da cumplimiento al citado mandato y se constituye la Casa de la Arquitectura como una entidad con vocación de servicio público que, reconociendo la arquitectura como bien de interés general, pone en valor su capacidad para hacer frente a los grandes retos colectivos. Se potencia así el cumplimiento de los objetivos de la Agenda Urbana Española en el marco de la Agenda 2030 y se hace de conformidad con los criterios de la Nueva Bauhaus Europea.
+
+La Casa de la Arquitectura tiene como objeto principal difundir el potencial transformador de esta disciplina, entendida ésta como una actividad multidisciplinar resultado de un esfuerzo colectivo y coordinado, así como concienciar sobre sus valores al conjunto de la sociedad a modo de herramienta de diplomacia cultural. También es objeto del museo fomentar e impulsar el principio de la calidad de la arquitectura reconociendo su impacto en los entornos construidos de pueblos y ciudades, y su capacidad para hacerlos más sostenibles y resilientes, reivindicando que una arquitectura de calidad redunda así en el bienestar y la salud de todas las personas sin comprometer las expectativas de las generaciones futuras.
+
+La Casa de la Arquitectura se concibe, asimismo, como herramienta para el fomento de la investigación y la conservación de la arquitectura como hecho cultural que refleja circunstancias propias de cada sociedad, abordando cuestiones de identidad con los valores que representa, que tienen una incidencia directa en el desarrollo individual y colectivo de la sociedad.
+
+Como museo contemporáneo, la Casa de la Arquitectura se establece como una plataforma de encuentro, intercambio, comunicación y aprendizaje dirigida a un público transversal e intergeneracional.
+
+Finalmente, como museo estatal de carácter nacional, entre sus funciones se le reconoce la potestad para adquirir, conservar, investigar, comunicar y exhibir información, documentación y contenidos útiles para fines de estudio, divulgación y contemplación, conjuntos y colecciones de valor histórico, artístico, técnico y de cualquier otra naturaleza cultural. A tal fin se regula su estructura organizativa, como museo adscrito al Ministerio de Vivienda y Agenda Urbana dirigido por un Director, y la figura del Patronato como órgano consultivo y de asesoramiento.
+
+Por otra parte, mediante este proyecto se modifica puntualmente el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, a fin de crear un nuevo Comisionado del PERTE para la Salud de Vanguardia adscrito al Ministerio de Ciencia, Innovación y Universidades, con el fin de dotar de mayor impulso y fortalecer las políticas de investigación básica y aplicada en biomedicina y ciencias de la salud, en línea con el Proyecto Estratégico PERTE para la Salud de vanguardia.
+
+Este real decreto se ha elaborado conforme a los principios de buena regulación que establece el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas. Cumple con los principios de necesidad y eficacia al contribuir al impulso de una política pública que, como interés general, redunda en beneficio de toda la sociedad, tanto en relación con su impacto cultural y patrimonial, como de su contribución a mejorar los entornos construidos en pueblos y ciudades.
+
+En relación con el mandato de proporcionalidad, la presente iniciativa contiene la regulación imprescindible para dotar a la Casa de la Arquitectura de contenido y funcionalidad. De acuerdo con el principio de seguridad jurídica, este real decreto es coherente con el resto del ordenamiento jurídico, nacional y de la Unión Europea. En cuanto al principio de transparencia, identifica claramente su propósito; y la memoria, accesible a la ciudadanía, ofrece una explicación completa de su contenido.
+
+En la elaboración de este real decreto se han cumplido los trámites establecidos tanto en la Ley 50/1997, de 27 de noviembre, del Gobierno, como en la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+
+En su virtud, a iniciativa de las Ministras de Vivienda y Agenda Urbana, y de Ciencia, Innovación y Universidades; a propuesta del Ministro de Cultura y de la Vicepresidenta Cuarta del Gobierno y Ministra de Hacienda y Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 19 de diciembre de 2023,
+
+DISPONGO:

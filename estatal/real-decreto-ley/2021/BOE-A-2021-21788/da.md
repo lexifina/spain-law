@@ -1,0 +1,3 @@
+## Disposición adicional primera. Medidas de transición profesional en el ámbito del Mecanismo RED de Flexibilidad y Estabilización del Empleo.
+
+Transcurrido un año desde la primera activación del Mecanismo RED de Flexibilidad y Estabilización del Empleo al que se refiere el artículo 47 bis, en su modalidad sectorial, el Gobierno y las organizaciones sindicales y empresariales más representativas, estudiadas las circunstancias en que se encuentren el empleo y el tejido productivo de los sectores afectados por el Mecanismo RED, analizarán la necesidad de adoptar medidas en el ámbito laboral o de la Seguridad Social tendentes a favorecer la transición profesional de las personas trabajadoras que se vean afectadas por el Mecanismo RED en el futuro.

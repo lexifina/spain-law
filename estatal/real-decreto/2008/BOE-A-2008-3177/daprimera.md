@@ -1,0 +1,3 @@
+## Disposición adicional primera. Personal temporal.
+
+Las plazas desempeñadas por personal laboral temporal del área funcional de actividades específicas con contrato de interinidad por vacante en los hospitales que, en la fecha de convocatoria del procedimiento de integración, formen parte de la Red Hospitalaria de la Defensa, se transformarán en plazas de carácter estatutario y al personal que las desempeñe, siempre que reúna los requisitos de titulación exigidos, se le expedirá un nombramiento de carácter estatutario de naturaleza temporal de los contemplados en el artículo 9 de la Ley 55/2003, de 16 de diciembre, en la modalidad que corresponda.

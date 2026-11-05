@@ -1,0 +1,5 @@
+## Disposición adicional novena. Posesión, transporte y comercio de aves alóctonas.
+
+En cumplimiento del Reglamento (CE) n.º 318/2007, de 23 de marzo de 2007, de la Comisión Europea por el que se establecen condiciones zoosanitarias para la importación de determinadas aves en la Comunidad y las correspondientes condiciones de cuarentena, se prohíbe la posesión, transporte y comercio, incluyendo el comercio exterior, de ejemplares de todas las especies de aves alóctonas de origen silvestre. De acuerdo con el artículo 7.1 de esta norma, esta prohibición se aplica también a las aves nacidas en cautividad de las especies incluidas en el catálogo. De esta prohibición se exceptúan los ejemplares de origen silvestre adquiridos legalmente con anterioridad al 23 de marzo de 2007.
+
+El Reglamento (CE) n.º 318/2007, de 23 de marzo de 2007, exceptúa de la prohibición la importación, a la aves vivas, siempre que no sea una partida comercial y su numero sea de cinco o inferior a cinco, viajando como equipaje acompañado.

@@ -1,0 +1,1 @@
+El Pleno del Tribunal Constitucional, en ejercicio de la competencia definida en el artículo 2.2, en relación con el artículo 10.1.m), de la Ley Orgánica 2/1979, de 3 de octubre, ha adoptado el siguiente acuerdo:

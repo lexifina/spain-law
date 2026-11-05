@@ -1,0 +1,75 @@
+## Disposición adicional quincuagésima. Deducción por obras de mejora de la eficiencia energética de viviendas.
+
+1. Los contribuyentes podrán deducirse el 20 por ciento de las cantidades satisfechas desde la entrada en vigor del Real Decreto-ley 19/2021, de 5 de octubre, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia, hasta el 31 de diciembre de 2026 por las obras realizadas durante dicho período para la reducción de la demanda de calefacción y refrigeración de su vivienda habitual o de cualquier otra de su titularidad que tuviera arrendada para su uso como vivienda en ese momento o en expectativa de alquiler, siempre que en este último caso, la vivienda se alquile antes de 31 de diciembre de 2027.
+
+A estos efectos, únicamente se entenderá que se ha reducido la demanda de calefacción y refrigeración de la vivienda cuando se reduzca en al menos un 7 por ciento la suma de los indicadores de demanda de calefacción y refrigeración del certificado de eficiencia energética de la vivienda expedido por el técnico competente después de la realización de las obras, respecto del expedido antes del inicio de las mismas.
+
+La deducción se practicará en el período impositivo en el que se expida el certificado de eficiencia energética emitido después de la realización de las obras. Cuando el certificado se expida en un período impositivo posterior a aquél en el que se abonaron cantidades por tales obras, la deducción se practicará en este último tomando en consideración las cantidades satisfechas desde la entrada en vigor del Real Decreto-ley 19/2021, de 5 de octubre, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia, hasta el 31 de diciembre de dicho período impositivo. En todo caso, dicho certificado deberá ser expedido antes de 1 de enero de 2027.
+
+La base máxima anual de esta deducción será de 5.000 euros anuales.
+
+2. Los contribuyentes podrán deducirse el 40 por ciento de las cantidades satisfechas desde la entrada en vigor del Real Decreto-ley 19/2021, de 5 de octubre, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia, hasta el 31 de diciembre de 2026 por las obras realizadas durante dicho período para la mejora en el consumo de energía primaria no renovable de su vivienda habitual o de cualquier otra de su titularidad que tuviera arrendada para su uso como vivienda en ese momento o en expectativa de alquiler, siempre que, en este último caso, la vivienda se alquile antes de 31 de diciembre de 2027.
+
+A estos efectos, únicamente se entenderá que se ha mejorado el consumo de energía primaria no renovable en la vivienda en la que se hubieran realizado tales obras cuando se reduzca en al menos un 30 por ciento el indicador de consumo de energía primaria no renovable, o bien, se consiga una mejora de la calificación energética de la vivienda para obtener una clase energética "A" o "B", en la misma escala de calificación, acreditado mediante certificado de eficiencia energética expedido por el técnico competente después de la realización de aquéllas, respecto del expedido antes del inicio de las mismas.
+
+La deducción se practicará en el período impositivo en el que se expida el certificado de eficiencia energética emitido después de la realización de las obras. Cuando el certificado se expida en un período impositivo posterior a aquél en el que se abonaron cantidades por tales obras, la deducción se practicará en este último tomando en consideración las cantidades satisfechas desde la entrada en vigor del Real Decreto-ley 19/2021, de 5 de octubre, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia, hasta el 31 de diciembre de dicho período impositivo. En todo caso, dicho certificado deberá ser expedido antes de 1 de enero de 2027.
+
+La base máxima anual de esta deducción será de 7.500 euros anuales.
+
+3. Los contribuyentes propietarios de viviendas ubicadas en edificios de uso predominante residencial en el que se hayan llevado a cabo desde la entrada en vigor del Real Decreto-ley 19/2021, de 5 de octubre, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia, hasta el 31 de diciembre de 2027 obras de rehabilitación energética, podrán deducirse el 60 por ciento de las cantidades satisfechas durante dicho período por tales obras. A estos efectos, tendrán la consideración de obras de rehabilitación energética del edificio aquéllas en las que se obtenga una mejora de la eficiencia energética del edificio en el que se ubica la vivienda, debiendo acreditarse con el certificado de eficiencia energética del edificio expedido por el técnico competente después de la realización de aquéllas una reducción del consumo de energía primaria no renovable, referida a la certificación energética, de un treinta por ciento como mínimo, o bien, la mejora de la calificación energética del edificio para obtener una clase energética «A» o «B», en la misma escala de calificación, respecto del expedido antes del inicio de las mismas.
+
+Se asimilarán a viviendas las plazas de garaje y trasteros que se hubieran adquirido con estas.
+
+No darán derecho a practicar esta deducción por las obras realizadas en la parte de la vivienda que se encuentre afecta a una actividad económica.
+
+La deducción se practicará en los períodos impositivos 2021, 2022, 2023, 2024, 2025, 2026 y 2027 en relación con las cantidades satisfechas en cada uno de ellos, siempre que se hubiera expedido, antes de la finalización del período impositivo en el que se vaya a practicar la deducción, el citado certificado de eficiencia energética. Cuando el certificado se expida en un período impositivo posterior a aquél en el que se abonaron cantidades por tales obras, la deducción se practicará en este último tomando en consideración las cantidades satisfechas desde la entrada en vigor del Real Decreto-ley 19/2021, de 5 de octubre, de medidas urgentes para impulsar la actividad de rehabilitación edificatoria en el contexto del Plan de Recuperación, Transformación y Resiliencia, hasta el 31 de diciembre de dicho período impositivo. En todo caso, dicho certificado deberá ser expedido antes de 1 de enero de 2028.
+
+La base máxima anual de esta deducción será de 5.000 euros anuales.
+
+Las cantidades satisfechas no deducidas por exceder de la base máxima anual de deducción podrán deducirse, con el mismo límite, en los cuatro ejercicios siguientes, sin que en ningún caso la base acumulada de la deducción pueda exceder de 15.000 euros.
+
+4. No darán derecho a practicar las deducciones previstas en los apartados 1 y 2 anteriores, cuando la obra se realice en las partes de las viviendas afectas a una actividad económica, plazas de garaje, trasteros, jardines, parques, piscinas e instalaciones deportivas y otros elementos análogos.
+
+En ningún caso, una misma obra realizada en una vivienda dará derecho a las deducciones previstas en los apartados 1 y 2 anteriores. Tampoco tales deducciones resultarán de aplicación en aquellos casos en los que la mejora acreditada y las cuantías satisfechas correspondan a actuaciones realizadas en el conjunto del edificio y proceda la aplicación de la deducción recogida en el apartado 3 de esta disposición.
+
+La base de las deducciones previstas en los apartados 1, 2 y 3 anteriores estará constituida por las cantidades satisfechas, mediante tarjeta de crédito o débito, transferencia bancaria, cheque nominativo o ingreso en cuentas en entidades de crédito, a las personas o entidades que realicen tales obras, así como a las personas o entidades que expidan los citados certificados, debiendo descontar aquellas cuantías que, en su caso, hubieran sido subvencionadas a través de un programa de ayudas públicas o fueran a serlo en virtud de resolución definitiva de la concesión de tales ayudas. En ningún caso, darán derecho a practicar deducción las cantidades satisfechas mediante entregas de dinero de curso legal.
+
+A estos efectos, se considerarán como cantidades satisfechas por las obras realizadas aquellas necesarias para su ejecución, incluyendo los honorarios profesionales, costes de redacción de proyectos técnicos, dirección de obras, coste de ejecución de obras o instalaciones, inversión en equipos y materiales y otros gastos necesarios para su desarrollo, así como la emisión de los correspondientes certificados de eficiencia energética. En todo caso, no se considerarán en dichas cantidades los costes relativos a la instalación o sustitución de equipos que utilicen combustibles de origen fósil.
+
+Tratándose de obras llevadas a cabo por una comunidad de propietarios la cuantía susceptible de formar la base de la deducción de cada contribuyente a que se refiere el apartado 3 anterior vendrá determinada por el resultado de aplicar a las cantidades satisfechas por la comunidad de propietarios, a las que se refiere el párrafo anterior, el coeficiente de participación que tuviese en la misma.
+
+5. Los certificados de eficiencia energética previstos en los apartados anteriores deberán haber sido expedidos y registrados con arreglo a lo dispuesto en el Real Decreto 390/2021, de 1 de junio, por el que se aprueba el procedimiento básico para la certificación de la eficiencia energética de los edificios.
+
+A los efectos de acreditar el cumplimiento de los requisitos exigidos para la práctica de estas deducciones serán válidos los certificados expedidos antes del inicio de las obras siempre que no hubiera transcurrido un plazo de dos años entre la fecha de su expedición y la del inicio de estas.
+
+6. El importe de estas deducciones se restará de la cuota íntegra estatal después de las deducciones previstas en los apartados 1, 2, 3, 4, 5 y 6 del artículo 68 de esta ley.
+
+> Se modifica el apartado 6 por el art. 6.2.8 del Real Decreto-ley 29/2026, de 6 de octubre. Ref. BOE-A-2026-20823#a6
+
+> Se deja sin efecto la modificación del apartado 6 por Resolución de 2 de octubre de 2026 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20526
+
+> Se modifica el apartado 6 por el art. 6.2.8 del Real Decreto-ley 26/2026, de 29 de septiembre. Ref. BOE-A-2026-20266#a6
+
+> Se modifica, con efectos desde el 1 de enero de 2025, por el art. 36.1 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#a3-8
+
+> Se deja sin efecto la modificación por Resolución de 26 de febrero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 2/2026, de 3 de febrero. Ref. BOE-A-2026-4667
+
+> Se modifica, con efectos de 1 de enero de 2025, por el art. 10.1 del Real Decreto-ley 2/2026, de 3 de febrero. Ref. BOE-A-2026-2547#a1-2
+
+> Se deja sin efecto la modificación de esta disposición por Resolución de 27 de enero de 2026, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 16/2025 de 23 de diciembre. Ref. BOE-A-2026-2024
+
+> Se modifica, con efectos de 1 de enero de 2025, por el art. 14.1 del Real Decreto-ley 16/2025, de 23 de diciembre. Ref. BOE-A-2025-26458#a1-6
+
+> Se deja sin efecto la modificación de esta disposición por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2025-1136
+
+> Se modifica, con efectos desde el 1 de enero de 2025, por el art. 6.Primero.2 del Real Decreto-ley 9/2024, de 23 de diciembre. Ref. BOE-A-2024-26915
+
+> Se modifica, con efectos desde 1 de enero de 2024, por el art. 16 del Real Decreto-ley 8/2023, de 27 de diciembre. Ref. BOE-A-2023-26452#a1-8
+
+> Se modifica, con efectos de 1 de enero de 2023, por el art. 21 del Real Decreto-ley 18/2022, de 18 de octubre. Ref. BOE-A-2022-17040#a2-3
+
+> Se añade por el art. 1.2 de la Ley 10/2022, de 14 de junio. Ref. BOE-A-2022-9838#a1
+
+> Téngase en cuenta que ya fue añadida por el Real Decreto-ley 19/2021, de 5 de octubre.
+
+> Se añade por el art. 1.2 del Real Decreto-ley 19/2021, de 5 de octubre. Ref. BOE-A-2021-16230#a1

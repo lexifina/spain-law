@@ -1,0 +1,3 @@
+## Disposición final primera. Carácter básico.
+
+El presente Real Decreto, tiene carácter de norma básica al amparo de las competencias que atribuye al Estado el artículo 149.1.1.º y 30.º de la Constitución española, y se dicta en virtud de la habilitación que confiere al Gobierno el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y en uso de la competencia estatal para la ordenación general del sistema educativo y para la fijación de las enseñanzas mínimas recogida en la disposición adicional primera, 2, a) y c), de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.

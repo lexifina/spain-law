@@ -1,0 +1,13 @@
+El seguro de crédito a la exportación a medio y largo plazo se concibe como un instrumento básico de la política comercial mediante el cual se da cobertura a gran parte de los riesgos asociados a los créditos derivados de operaciones de exportación tanto de carácter político o extraordinario como de carácter comercial.
+
+El seguro de crédito a la exportación en España está regulado en sus términos generales por diversas normas, entre las que destacan la Ley 10/1970, de 4 de julio, por la que se modifica el régimen del seguro de crédito a la exportación, que atribuye, con carácter exclusivo, la gestión del mismo cuando se realiza por cuenta del Estado a la «Compañía Española de Seguros de Crédito a la Exportación, Sociedad Anónima»; y el Decreto 3138/1971, de 22 de diciembre, por el que se regula el seguro de crédito a la exportación. Asimismo, determinados aspectos parciales vienen establecidos en las Leyes de Presupuestos Generales del Estado. Recientemente, mediante la Orden del Ministerio de Economía y Hacienda de 12 de febrero de 1998 se han incorporado a nuestro ordenamiento los principios y reglas liberalizadoras en esta materia de la Unión Europea, adaptando la cobertura por cuenta del Estado a las nuevas realidades del tráfico y de las transacciones internacionales.
+
+La Directiva 98/29/CE, del Consejo, de 7 de mayo, relativa a la armonización de las principales disposiciones sobre el seguro de crédito a la exportación por cuenta del Estado a medio y largo plazo, tiene por objetivo asegurar que la cobertura de operaciones de exportación esté basada en principios uniformes y no se distorsione la competencia entre las empresas de la Unión Europea.
+
+Prácticamente, la totalidad de los preceptos establecidos en la Directiva 98/29/CE están ya incorporados a la legislación española. En el presente Real Decreto se introducen los últimos preceptos necesarios para la plena transposición de la Directiva a la legislación española, que implican la derogación de determinados preceptos del Decreto 3138/1971, de 22 de diciembre, y se establecen algunos otros, ya recogidos con otra redacción en nuestro ordenamiento interno, al objeto de clarificar la práctica seguida en esta materia.
+
+La presente norma se dicta de acuerdo con las competencias del Estado en materia de comercio exterior y de bases y coordinación general de la actividad económica, de acuerdo con el artículo 149.1.10.a y 149.1.13.a de la Constitución Española.
+
+En su virtud, a propuesta del Ministro de Economía y Hacienda, de acuerdo con el dictamen del Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 31 de julio de 1999,
+
+DISPONGO:

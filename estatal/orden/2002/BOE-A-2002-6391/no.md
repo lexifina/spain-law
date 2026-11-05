@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias hechas al "servicio telefónico disponible al público", deberán entenderse realizadas al "servicio de comunicaciones vocales", según establece la disposicion adicional única de la Orden ETD/878/2023, de 22 de julio. Ref. BOE-A-2023-17289

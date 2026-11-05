@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Proceso de retirada de símbolos o elementos considerados contrarios a la memoria democrática.
+
+Tras la resolución favorable relativa a la inclusión del símbolo o elemento en el catálogo y en la que se determine su retirada de acuerdo con el artículo 4.7, el proceso de retirada de símbolos o elementos considerados contrarios a la memoria democrática deberá ser autorizado por los Departamentos o Administraciones Públicas competentes en la materia. La Dirección General responsable de la gestión del Catálogo requerirá la presentación de la documentación e informes relativos al proceso y personal responsable de dicha actuación.

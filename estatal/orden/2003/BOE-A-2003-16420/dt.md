@@ -1,0 +1,3 @@
+## Disposición transitoria.
+
+En tanto no se contemple la transmisión de fondos por el Estado Español a otros Estados miembros de la Unión Europea, en el marco de la asistencia mutua en materia de recaudación, en las normas reguladoras del régimen económico-financiero de la Agencia Estatal de Administración Tributaria, continuará en vigor la Disposición Séptima de la Orden de 9 de octubre de 1989, por la que se desarrolla el Real Decreto 1068/1988, de 16 de septiembre, que incorpora al ordenamiento jurídico español determinadas Directivas comunitarias sobre asistencia mutua en materia de recaudación, en lo relativo a remisión de los fondos.

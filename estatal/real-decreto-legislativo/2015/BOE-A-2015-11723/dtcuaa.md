@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Criterios mínimos de sostenibilidad.
+
+Si, trascurrido un año desde la entrada en vigor de la Ley 8/2007, de 28 de mayo, de Suelo, la legislación sobre ordenación territorial y urbanística no estableciera en qué casos el impacto de una actuación de urbanización obliga a ejercer de forma plena la potestad de ordenación, esta nueva ordenación o revisión será necesaria cuando la actuación conlleve, por sí misma o en unión de las aprobadas en los dos últimos años, un incremento superior al 20 por ciento de la población o de la superficie de suelo urbanizado del municipio o ámbito territorial.

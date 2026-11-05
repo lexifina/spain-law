@@ -1,0 +1,9 @@
+## Disposición adicional novena. De los cambios sobrevenidos en las Universidades privadas y centros de educación superior adscritos a Universidades públicas.
+
+1. El reconocimiento de las Universidades privadas caducará en el caso de que, transcurrido el plazo fijado por la Ley de reconocimiento, no se hubiera solicitado la autorización para el inicio de las actividades académicas o ésta fuera denegada por falta de cumplimiento de los requisitos previstos en el ordenamiento jurídico.
+
+2. A solicitud de una Universidad privada, el órgano competente de la Comunidad Autónoma, y conforme al procedimiento que ésta establezca, podrá dejar sin efecto el reconocimiento de los centros o enseñanzas existentes en dicha Universidad. Ésta garantizará que los estudiantes que cursen las correspondientes enseñanzas puedan finalizarlas conforme a las reglas generales para la extinción de los planes de estudios.
+
+Lo dispuesto en el párrafo anterior será de aplicación, asimismo, en el caso de supresión de centros adscritos a Universidades públicas.
+
+3. Si con posterioridad al inicio de sus actividades la Comunidad Autónoma apreciara que una Universidad privada o un centro universitario adscrito a una Universidad pública incumple los requisitos exigidos por el ordenamiento jurídico o los compromisos adquiridos al solicitarse su reconocimiento, o se separa de las funciones institucionales de la Universidad contemplados en el artículo 1, requerirá de la Universidad la regularización en plazo de la situación. Transcurrido éste sin que tal regularización se hubiera producido, previa audiencia de la Universidad privada o del centro universitario adscrito, la Comunidad Autónoma podrá revocar el reconocimiento de los centros o enseñanzas afectados o lo comunicará a la Asamblea Legislativa, a efectos de la posible revocación del reconocimiento de la Universidad privada.

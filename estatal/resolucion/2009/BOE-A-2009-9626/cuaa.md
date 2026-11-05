@@ -1,0 +1,5 @@
+## Cuarta. Competencias.
+
+Corresponderá a las entidades gestoras el reconocimiento y gestión de las prestaciones económicas periódicas derivadas de enfermedades profesionales, con excepción, en su caso, de las de incapacidad temporal, así como la determinación de la mutua de accidentes de trabajo y enfermedades profesionales de la Seguridad Social que resulte responsable del ingreso del capital coste de las pensiones y del abono de las demás prestaciones económicas, de conformidad con lo previsto en la presente Resolución. A tal fin, la entidad gestora notificará las resoluciones recaídas a los efectos establecidos en el Real Decreto 1300/1995, de 21 de julio, por el que se desarrolla, en materia de incapacidades laborales del sistema de la Seguridad Social, la Ley 42/1994, de 30 de diciembre, de medidas fiscales, administrativas y de orden social.
+
+La determinación del carácter profesional de la enfermedad que origina la situación de incapacidad permanente o muerte del trabajador corresponderá al Instituto Nacional de la Seguridad Social, a tenor de lo previsto en los artículos 1.1.a) y 3.1.f) del Real Decreto 1300/1995, de 21 de julio.

@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del Reglamento de las condiciones de utilización de la lengua de signos española y de los medios de apoyo a la comunicación oral para las personas sordas, con discapacidad auditiva y sordociegas.
+
+En desarrollo de la Ley 27/2007, de 23 de octubre, por la que se reconocen las lenguas de signos españolas y se regulan los medios de apoyo a la comunicación oral de las personas sordas, con discapacidad auditiva y sordociegas, se aprueba el Reglamento de las condiciones de utilización de la lengua de signos española y de los medios de apoyo a la comunicación oral para las personas sordas, con discapacidad auditiva y sordociegas, cuyo texto se incluye a continuación.

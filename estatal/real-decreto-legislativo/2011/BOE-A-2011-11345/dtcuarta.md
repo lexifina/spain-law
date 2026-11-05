@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Situaciones de incompatibilidad.
+
+1. Las situaciones de incompatibilidad previstas en los artículos 13 a 18, ambos inclusive, que modifican el régimen anterior a la Ley 12/2010, de 30 de junio, por la que se modifica la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, y que existieran con anterioridad a la fecha de entrada en vigor de dicha ley, no conllevarán la falta de independencia de los auditores de cuentas y sociedades de auditoría en relación con las auditorías de cuentas iniciadas antes de dicha fecha y que no hayan finalizado con la emisión del preceptivo informe de auditoría.
+
+2. Asimismo y a los efectos de la obligación de observar el principio de independencia, no se tendrán en cuenta, durante los dos años siguientes a la entrada en vigor de la Ley 12/2010, de 30 de junio, por la que se modifica la Ley 19/1988, de 12 de julio, de Auditoría de Cuentas, aquellas situaciones de incompatibilidad que modifiquen el régimen anterior a dicha ley, que se hubiesen originado y concluido con anterioridad a aquella fecha.

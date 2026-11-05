@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Repetición de curso.
+
+Los alumnos que, cursando el plan de estudios aprobado por la Orden PRE/2207/2013, de 22 de noviembre, por la que se aprueba el plan de estudios de la enseñanza de formación para la incorporación a la Escala Superior de Oficiales del Cuerpo de la Guardia Civil y se dictan las normas de evaluación y de progreso y permanencia en el centro docente de formación, no progresen y permanezcan en un curso en el que ya se encuentre implantado el currículo de la enseñanza de formación de acceso directo sin titulación universitaria previa, a que se refiere esta orden, se integrarán en la promoción siguiente, siéndoles de aplicación cuanto se dispone en esta orden.

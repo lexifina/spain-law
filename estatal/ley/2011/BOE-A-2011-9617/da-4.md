@@ -1,0 +1,5 @@
+## Disposición adicional trigésima segunda. Reducción de cargas administrativas en el ámbito científico, tecnológico e investigador.
+
+Por parte de los agentes del Sistema Español de Ciencia, Tecnología e Innovación que formen parte del sector público estatal se promoverá la adopción de medidas para la reducción de cargas administrativas y duplicidades en los procedimientos de acreditación y evaluación contemplados en esta ley, de forma que los interesados en los correspondientes procedimientos administrativos no aporten documentos que ya se encuentren en poder de los citados agentes o hayan sido elaborados por los mismos, ni se les exija a tales interesados datos o documentos que no resulten preceptivos de acuerdo con la normativa legal o reglamentaria aplicable a los procesos de acreditación y evaluación de la actividad investigadora, o que ya hayan sido aportados por estos en cualquier momento anterior.
+
+> Se añade por el art. único.54 de la Ley 17/2022, de 5 de septiembre. Ref. BOE-A-2022-14581#au

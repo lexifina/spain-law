@@ -1,0 +1,3 @@
+## Artículo 8.
+
+No obstante lo dispuesto en el artículo 1.º del presente Real Decreto, el Ministro de Economía y Hacienda podrá excepcionalmente someter a un trámite de previa verificación o declaración las operaciones de cobro, pago o transferencia del o al exterior derivadas de los tipos de transacciones que se determinen, cuando dicho trámite resulte conveniente para el adecuado conocimiento por la Administración de las transacciones realizadas y, en particular, para el mantenimiento de los registros de activos o pasivos exteriores y la comprobación del cumplimiento de las obligaciones tributarias.

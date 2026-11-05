@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Validez del libro de escolaridad de la enseñanza básica.
+
+Los libros de escolaridad de la enseñanza básica tendrán los efectos de acreditación establecidos en la legislación vigente hasta la finalización del curso 2006-07. Se cerrarán mediante diligencia oportuna al finalizar dicho curso y se inutilizarán las páginas restantes. Cuando la apertura del historial académico suponga la continuación del anterior libro de escolaridad de la enseñanza básica, se reflejará la serie y el número de éste en dicho historial académico. Estas circunstancias se reflejarán también en el correspondiente expediente académico.

@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Sujeción a la normativa PRTR.
+
+Esta norma se ajusta a los principios de gestión específicos del PRTR establecidos en la Orden HFP/1030/2021, de 29 de septiembre, por la que se configura el sistema de gestión del Plan de Recuperación, Transformación y Resiliencia, y a lo establecido en la Orden HFP/1031/2021, de 29 de septiembre, por la que se establece el procedimiento y formato de la información a proporcionar por las Entidades del Sector Público Estatal, Autonómico y Local para el seguimiento del cumplimiento de hitos y objetivos y de ejecución presupuestaria y contable de las medidas de los componentes el Plan de Recuperación, Transformación y Resiliencia.

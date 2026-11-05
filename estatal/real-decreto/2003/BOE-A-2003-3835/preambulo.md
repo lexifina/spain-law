@@ -1,0 +1,11 @@
+La Directiva 68/193/CEE del Consejo, de 9 de abril de 1968, referente a la comercialización de los materiales de multiplicación vegetativa de la vid, fue incorporada al ordenamiento jurídico español mediante la Orden de 1 de julio de 1986, que fue modificada por Orden de 24 de junio de 1991.
+
+La citada Directiva ha sido modificada por la Directiva 2002/11/CE del Consejo, de 19 de febrero de 2002. Dicha modificación se produce, tal como se señala en uno de los considerandos de la norma comunitaria, con la finalidad de eliminar todas las barreras comerciales que puedan impedir la libre circulación de los materiales de multiplicación de la vid en la Comunidad. Con tal objeto, se han suprimido todas las posibilidades de inaplicación unilateral por parte de los Estados miembros de la Directiva 68/193/CEE, a cuyo efecto se han derogado o modificado algunas de sus disposiciones.
+
+Las novedades aportadas por la nueva normativa comunitaria en la materia imponen la necesidad de adaptar la normativa española, por lo que se han derogado aquellas disposiciones del Reglamento técnico de control y certificación de plantas de vivero de vid, aprobado por Orden de 1 de julio de 1986, que son objeto de regulación por la Directiva 2002/11/CE, manteniéndose, en cambio, la vigencia de aquellos preceptos del citado Reglamento técnico referentes a aspectos no contemplados por la directiva que mediante el presente Real Decreto se transpone.
+
+Es necesario señalar que al amparo del artículo 4 de la Directiva, que permite a los Estados miembros fijar para su producción propia condiciones suplementarias o más rigurosas, se efectúa una regulación de la producción destinada a la exportación, de la producción por el método de la multiplicación en verde y de los organismos nocivos a controlar en el proceso, si bien esta regulación se aplicará exclusivamente a las plantas de vivero producidas en España. El material de multiplicación proveniente de otro país comunitario y que se comercialice en España no estará sujeto a ninguna restricción distinta de las fijadas en la Directiva comunitaria.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de febrero de 2003,
+
+D I S P O N G O :

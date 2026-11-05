@@ -1,0 +1,13 @@
+## Disposición transitoria tercera.
+
+1. La telefonía móvil automática analógica en la banda de 900 MHz se extinguirá progresivamente al considerarse prioritaria la disposición de frecuencias para el servicio GSM, dadas sus ventajas tecnológicas y de servicio, debiéndose producir, en consecuencia, la liberación progresiva de las frecuencias correspondientes a la telefonía móvil automática analógica en la banda de 900 MHz hasta la extinción de este servicio, conforme a las necesidades que de dichas frecuencias se planteen para el servicio GSM antes del 1 de enero del año 2007, fecha en la que se producirá la extinción del correspondiente título habilitante de «Telefónica de España, Sociedad Anónima».
+
+2. El servicio de telefonía móvil automática analógica en la banda de 450 MHz se extinguirá antes del 1 de enero del año 1998 para la liberación de frecuencias a causa de similares razones de índole tecnológica y de servicio señaladas anteriormente.
+
+3. Considerando el carácter temporal y progresivamente residual de los servicios de telefonía móvil automática analógica en las bandas de 900 y 450 MHz, la escasez de frecuencias disponibles y la amortización de las inversiones ya realizadas, dichos servicios seguirán prestándose por «Telefónica de España, Sociedad Anónima», en las mismas condiciones en que venía prestándolo.
+
+4. La prestación de los servicios de telefonía móvil automática analógica en las bandas de 900 y 450 MHz se someterá a lo establecido en los capítulos II, III, IV, V, VI y VII de este Reglamento en todo lo que le resulte aplicable, excepto a lo dispuesto en los artículos 4.3, 4.4, 5, 10.2, 15 y 22.
+
+5. La Dirección General de Telecomunicaciones fijará una banda de fluctuación de las tarifas de la telefonía móvil automática analógica en las bandas de 900 y 450 MHz que permita una competencia leal con el servicio G.S.M. Asimismo, la entidad explotadora de estos servicios analógicos deberá mantener, en su caso, contabilidades separadas entre éstos y el servicio GSM. En cualquier caso, «Telefónica de España, Sociedad Anónima», deberá cumplir, para la modalidad analógica, lo previsto en el número 4 de la disposición transitoria primera para la modalidad digital.
+
+6. La supresión de los servicios de telefonía móvil automática en las bandas de 900 y 450 MHz, de acuerdo con lo establecido en los apartados 1 y 2 de esta disposición transitoria, se hará garantizando en todo caso los derechos de los usuarios de estos servicios, debiendo autorizar el Delegado del Gobierno en «Telefónica de España, Sociedad Anónima», las condiciones de supresión de los mismos.

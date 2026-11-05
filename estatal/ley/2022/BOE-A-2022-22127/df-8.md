@@ -1,0 +1,39 @@
+## Disposición final octava. Modificación de la Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario.
+
+La Ley 13/2013, de 2 de agosto, de fomento de la integración de cooperativas y de otras entidades asociativas de carácter agroalimentario, queda modificada como sigue:
+
+Uno. El apartado 3 del artículo 1 queda redactado como sigue:
+
+> «3. A los efectos de esta ley, son entidades asociativas las sociedades cooperativas de primer, segundo o ulterior grado, los grupos cooperativos, las sociedades agrarias de transformación, y las entidades civiles o mercantiles, siempre que más del 50 por ciento de su capital social pertenezca a sociedades cooperativas o a sociedades agrarias de transformación. En el caso de que estas entidades económicas tengan la forma de sociedad anónima, sus acciones deberán ser nominativas.»
+
+Dos. El artículo 3 queda redactado como sigue:
+
+> «Artículo 3. Reconocimiento de las entidades asociativas prioritarias.
+
+> 1. Para que una entidad asociativa pueda tener la consideración de prioritaria, habrá de reunir los siguientes requisitos, que serán desarrollados reglamentariamente:
+
+> a) Ser entidad asociativa agroalimentaria de las dispuestas en el artículo 1.3 de esta ley.
+
+> b) Tener implantación o un ámbito de actuación económico que sean de carácter supraautonómico, incluyendo las operaciones generadas al amparo de acuerdos intercooperativos.
+
+> c) Llevar a cabo la comercialización o transformación conjunta de las producciones de las entidades asociativas y de los socios que las componen, para las que se solicita el reconocimiento, en el sentido de lo previsto en la letra e) de este apartado.
+
+> d) Que la facturación de la entidad asociativa solicitante alcance, al menos, la cantidad que se determine reglamentariamente.
+
+> e) Constar expresamente en los estatutos o disposiciones reguladoras correspondientes a las distintas entidades que componen la entidad asociativa prioritaria, así como en los de esta entidad, la obligación de los socios de entregar un volumen determinado de sus producciones para su comercialización o transformación en común, o bien para su abastecimiento, en el caso de aquellas entidades cuya actividad corresponda a suministros y servicios.
+
+> f) Los estatutos o disposiciones reguladoras de la entidad asociativa prioritaria y de las entidades que la integran deberán contemplar las necesarias previsiones para garantizar a sus productores asociados el control democrático de su funcionamiento y de sus decisiones, así como para evitar la posición de dominio de uno o varios de sus miembros.
+
+> g) Asimismo, los estatutos o disposiciones reguladoras de la entidad asociativa prioritaria y de las entidades que la integran, deberán contemplar el consentimiento de los socios a la cesión de los datos referentes a la actividad económica realizada en el seno de la entidad, a efectos del control y cumplimiento de lo dispuesto en esta ley.
+
+> 2. A solicitud de la entidad interesada, y tras haberse comprobado el cumplimiento de los requisitos establecidos en el apartado 1 de este artículo, el Ministerio de Agricultura, Pesca y Alimentación procederá al reconocimiento de la entidad asociativa prioritaria, previa consulta a las comunidades autónomas afectadas por su carácter supraautonómico.
+
+> 3. La solicitud de reconocimiento implica el consentimiento al tratamiento de los datos correspondientes a la entidad asociativa prioritaria, así como de los relativos a las entidades asociativas que la integran y la relación de productores que forman parte de las mismas, con sujeción a lo dispuesto en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+> 4. Las entidades asociativas agroalimentarias reconocidas como prioritarias, las entidades que las integren y los productores que formen parte de las mismas que no cumplan con los requisitos exigidos para mantener su condición, no podrán beneficiarse de las ayudas y beneficios previstos en las normas reguladoras de su concesión. Reglamentariamente se determinará la forma y condiciones en que se deba acreditar el mantenimiento de los requisitos y las consecuencias de su pérdida.
+
+> 5. Las entidades asociativas prioritarias vendrán obligadas a comunicar al Ministerio de Agricultura, Pesca y Alimentación los cambios que pudieran afectar a su condición de prioritarias cuando se produzcan. El Ministerio resolverá los cambios comunicados mediante el procedimiento establecido reglamentariamente, previa solicitud de informe a las comunidades autónomas afectadas por su carácter supraautonómico, cuando tales modificaciones sean esenciales. Adicionalmente, con carácter anual, procederá a actualizar la relación de productores que forman parte de las mismas, así como aquella información relevante a efectos de garantizar que siguen cumpliéndose los requisitos para la obtención del reconocimiento.
+
+> 6. Las entidades reconocidas como prioritarias tendrán la obligación de establecer, mediante procedimiento escrito, los controles necesarios para avalar el cumplimiento de los requisitos por parte de sus entidades de base y sus socios productores, y de someterse a los controles llevados a cabo por el Ministerio de Agricultura, Pesca y Alimentación para tal fin.
+
+> 7. Aquellas entidades que dejen de cumplir el conjunto de condiciones establecidas en este artículo perderán la condición de prioritarias.»

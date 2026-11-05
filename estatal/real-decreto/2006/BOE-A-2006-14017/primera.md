@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Plazo de validez de las aprobaciones de modelo.
+
+No obstante lo dispuesto en el artículo 8, se permitirá, respecto a aquellas tareas de medición para las que se exija la utilización de un instrumento de medida controlado legalmente, la comercialización y puesta en servicio de instrumentos de medida que cumplan las normas aplicables antes del 30 de octubre de 2006, hasta la expiración de la validez de la aprobación de modelo de los instrumentos de medida de que se trate o, en caso de aprobación de modelo de validez indefinida, durante un plazo no superior a diez años contados a partir del 30 de octubre de 2006.

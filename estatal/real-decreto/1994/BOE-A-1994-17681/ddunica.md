@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados: el Real Decreto 3451/1977, de 1 de diciembre, sobre promoción, información y publicidad de los medicamentos y especialidades farmacéuticas; la Orden de 30 de mayo de 1980, por la que se desarrolla el Real Decreto 3451/1977, de 1 de diciembre, sobre promoción, información y publicidad de los medicamentos y especialidades farmacéuticas, la Orden de 7 de enero de 1964, por la que se prohíbe la propaganda dirigida al público, de medicamentos destinados a combatir determinadas enfermedades y cuantas disposiciones, de igual o inferior rango contradigan lo establecido en la presente disposición.

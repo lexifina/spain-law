@@ -1,0 +1,7 @@
+## Artículo noventa y nueve. Destino del patrimonio de los Organismos autónomos suprimidos.
+
+1. Los bienes integrantes del patrimonio de los Organismos autónomos suprimidos y cuyas funciones no se asuman por Organismos Autónomos preexistentes o de nueva creación, así como los del Estado adscritos a tales Organismos, se incorporarán al Patrimonio del Estado, sin perjuicio de la posterior afectación, o, en su caso, a la unidad de la Administración del Estado que asuma sus funciones.
+
+2. Los bienes propios o adscritos de los Organismos autónomos suprimidos, cuyas funciones se integran en un Organismo autónomo preexistente o de nueva creación se adscribirán a éste en la medida que resulte necesario para el cumplimiento de sus funciones. Los respectivos Reales Decretos de creación determinarán necesariamente los bienes que se adscriban al nuevo Organismo.
+
+3. En todos los supuestos de supresión y refundición, la Administración del Estado o el Organismo autónomo correspondiente se subrogará desde la fecha de entrada en vigor del respectivo Real Decreto en la titularidad de los derechos y obligaciones que correspondan al Organismo autónomo suprimido, incluyéndose, en su caso, en dicha subrogación el derecho a exigir y recaudar las correspondientes tasas y tributos parafiscales afectos a la financiación de funciones no transferidas a las Comunidades Autónomas que estuviesen establecidas en los Organismos autónomos suprimidos.

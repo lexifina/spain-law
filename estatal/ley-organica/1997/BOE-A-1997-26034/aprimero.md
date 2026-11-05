@@ -1,0 +1,11 @@
+## Artículo primero.
+
+Se modifica el apartado 2 del artículo 240 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, y se añaden al mismo los apartados 3 y 4 en los siguientes términos:
+
+«2. Sin perjuicio de ello, el Juez o Tribunal podrá, de oficio o a instancia de parte, antes de que hubiere recaído sentencia definitiva o resolución que ponga fin al proceso, y siempre que no proceda la subsanación, declarar, previa audiencia de las partes, la nulidad de todas las actuaciones o de alguna en particular.
+
+3. No se admitirá el incidente de nulidad de actuaciones. Sin embargo, excepcionalmente, quienes sean parte legítima podrán pedir por escrito que se declare la nulidad de actuaciones fundada en defectos de forma, que hubieran causado indefensión o en la incongruencia del fallo, siempre que los primeros no haya sido posible denunciarlos antes de recaer sentencia o resolución que ponga fin al proceso y que éstas no sean susceptibles de recurso en el que quepa reparar la indefensión sufrida.
+
+Será competente para conocer de este incidente el mismo Juzgado o Tribunal que dictó la sentencia o resolución que hubiere adquirido firmeza. El plazo para pedir la nulidad será de veinte días, desde la notificación de la sentencia, la resolución o, en todo caso, desde que se tuvo conocimiento del defecto causante de indefensión, sin que, en este último supuesto, pueda solicitarse la nulidad de actuaciones después de transcurridos cinco años desde la notificación de la sentencia o resolución. El Juzgado o Tribunal inadmitirá a trámite cualquier incidente en el que se pretenda suscitar otras cuestiones.
+
+4. Admitido a trámite el escrito en que se pida la nulidad fundada en los vicios a que se refiere el apartado 3 de este artículo, no quedará en suspenso la ejecución y eficacia de la sentencia o resolución irrecurribles, salvo que se acuerde de forma expresa para evitar que el incidente pudiera perder su finalidad, y se dará traslado de dicho escrito, junto con copia de los documentos que se acompañasen, en su caso, para acreditar el vicio o defecto en que la petición se funde, a las demás partes, que en el plazo común de cinco días podrán formular por escrito sus alegaciones, a las que acompañarán los documentos que estimen pertinentes.»

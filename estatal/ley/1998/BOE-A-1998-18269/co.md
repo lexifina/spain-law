@@ -1,0 +1,1 @@
+Quedan derogadas, con efectos de 24 de febrero de 2019, todas las disposiciones de la presente Ley que se opongan a lo dispuesto en el Real Decreto-ley 4/2019, de 22 de febrero, según establece su disposición derogatoria única. Ref. BOE-A-2019-2550#dd

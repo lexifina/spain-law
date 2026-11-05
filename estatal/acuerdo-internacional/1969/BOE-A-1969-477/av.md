@@ -1,0 +1,7 @@
+## Artículo V.
+
+1. Se establece dentro de la Comisión un Consejo, que estará constituido por el Presidente y los Vicepresidentes de la Comisión, junto con no menos de cuatro ni más de ocho Delegados de las Partes Contratantes. Las Partes Contratantes representadas en el Consejo serán elegidas en cada una de las sesiones ordinarias de la Comisión. Sin embargo, si en algún momento las Partes Contratantes excedieran de cuarenta, la Comisión podrá elegir dos Partes Contratantes más para ser representadas en el Consejo. Las Partes Contratantes a que pertenezcan el Presidente y los Vicepresidentes no podrán ser elegidas para el Consejo. Al elegir los miembros del Consejo, la Comisión tendrá debidamente en cuenta los intereses geográficos y de la pesca y la elaboración del atún de las Partes Contratantes, así como a la igualdad de derechos de las Partes Contratantes para participar en el Consejo.
+
+2. El Consejo desempeñará las funciones que le asigne el presente Convenio o que designe la Comisión, y se reunirá una vez en el plazo que media entre la celebración de reuniones ordinarias de la Comisión. Entre las reuniones de la Comisión, el Consejo adoptará las decisiones necesarias en cuanto al cumplimiento de los deberes del personal y expedirá las instrucciones necesarias al Secretario Ejecutivo. Las decisiones del Consejo se tomarán de acuerdo con las normas que establezca la Comisión.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en BOE núm. 265, de 5 de noviembre de 1983. Ref. BOE-A-1983-28824

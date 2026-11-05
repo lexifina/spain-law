@@ -1,0 +1,7 @@
+## Artículo decimosexto.
+
+En las zonas declaradas de interés marisquero los núcleos de población o las industrias que evacuen o hayan de evacuar al mar, directa o indirectamente, agua o residuos que puedan producir contaminación o enturbamiento de las aguas deberán estar dotadas de los sistemas de depuración adecuados para que aquéllos resulten inofensivos para los peces, crustáceos y moluscos. Estas industrias o servicios precisarán para su autorización por los Ministerios a quienes corresponda otorgarla, el informe favorable de la Subsecretaría de la Marina Mercante y Comisión Nacional para evitar la contaminación de las aguas del mar por los hidrocarburos.
+
+En las restantes zonas productoras de mariscos será preceptivo el informe de la Dirección General de Pesca Marítima en todos los proyectos de evacuación al mar de aguas fecales o residuales de núcleos de población o de industrias. Todos los sistemas existentes actualmente de evacuación al mar de las aguas a que se refiere el inciso anterior, deberán adaptarse en el plazo que técnicamente sea viable a juicio de la Dirección General de Pesca Marítima, de tal forma que la evacuación no perturbe o contamine las aguas en perjuicio de peces, crustáceos o moluscos.
+
+Las condiciones de construcción y funcionamiento de los sistemas de eliminación y depuración de Ios residuos y excretas estarán bajo la vigilancia de los servicios correspondientes de la Dirección General de Sanidad.

@@ -1,0 +1,1 @@
+Téngase en cuenta que esta norma quedará derogada a partir de la total implantación de las modificaciones indicadas en la disposición final primera de la Orden ECD/686/2014, de 23 de abril, según establece su disposición derogatoria única. Ref. BOE-A-2014-4626.

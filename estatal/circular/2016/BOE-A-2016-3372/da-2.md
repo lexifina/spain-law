@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Ventas o consumos en la Comunidad Autónoma de Canarias.
+
+En el caso de las ventas o consumos realizados en la Comunidad Autónoma de Canarias, se podrán concretar en las Instrucciones del Sistema de Certificación de Biocarburantes y otros combustibles renovables reglas específicas para la determinación de los volúmenes y lugar de cómputo de biocarburantes y carburantes fósiles imputables a cada sujeto obligado, en tanto en cuanto persistieran especificidades en la normativa fiscal en dicho ámbito territorial en relación con los carburantes de automoción que justificaran la aplicación de reglas singulares.

@@ -1,0 +1,1 @@
+Las Mesas del Congreso y del Senado, en su reunión conjunta del día 6 de abril de 1983, aprobaron, a propuesta del Defensor del Pueblo, el Reglamento de Organización y Funcionamiento de esta Institución en los términos que a continuación se insertan:

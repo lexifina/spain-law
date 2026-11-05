@@ -1,0 +1,9 @@
+La entrada en vigor del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Administración del Estado, publicado en el «Boletín Oficial del Estado» de 25 de enero de 1996, ha supuesto una modificación de la anterior normativa contenida fundamentalmente en los Reales Decretos de 3 de marzo de 1925, por el que se aprobó el Reglamento del Tribunal Supremo de la Hacienda Pública y en el 1124/1978, de 12 de mayo, por el que, con el carácter de instrucción provisional, se desarrollan las normas relativas a los servicios de intervención y control contenidas en la Ley General Presupuestaria.
+
+Por otra parte, el Real Decreto 405/1996, de 1 de marzo, de reorganización de la Intervención General de la Administración del Estado, modifica la estructura del Centro directivo y atribuye competencias a las Intervenciones delegadas en los diferentes Departamentos, Organismos y Administración periférica.
+
+El Real Decreto 2188/1995 desarrolla detalladamente el Texto Refundido de la Ley General Presupuestaria introduciendo novedades en el ejercicio de la función interventora respecto de la regulación anterior, ello aconseja dejar sin efecto distintas Circulares de este Centro, como la 7/1984 sobre comprobación material de las inversiones, la 5/1987 sobre procedimiento y contenido de los informes por omisión de la preceptiva fiscalización y la 1/1991 sobre procedimiento en el examen de las cuentas justificativas de pagos a justificar y anticipos de caja fija.
+
+Asimismo, la aplicación de algunos de sus preceptos ha suscitado dudas en distintas Intervenciones delegadas por lo que resulta aconsejable que, para garantizar la unidad de criterio, este Centro fije la doctrina en el ámbito de sus competencias.
+
+Por consiguiente, con la finalidad de conseguir este doble objetivo, esta Intervención General ha tenido a bien disponer lo siguiente:

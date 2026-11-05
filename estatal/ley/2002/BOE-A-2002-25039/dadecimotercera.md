@@ -1,0 +1,3 @@
+## Disposición adicional decimotercera. Régimen tributario de las entidades benéficas de construcción.
+
+Las entidades benéficas de construcción constituidas al amparo del artículo 5 de la Ley de 15 de julio de 1954 podrán optar por el régimen previsto en los artículos 5 a 15, ambos inclusive, de esta Ley, siempre que cumplan los requisitos establecidos en la normativa propia reguladora de estas entidades, se encuentren debidamente inscritas en el registro correspondiente de la Administración central o autonómica, y cumplan el requisito establecido en el número 5.º del artículo 3 de esta Ley. No se aplicará a estas entidades lo previsto en los artículos 16 a 25, ambos inclusive, de esta Ley.

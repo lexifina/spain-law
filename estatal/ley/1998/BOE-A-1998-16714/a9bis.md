@@ -1,0 +1,92 @@
+## Artículo 9 bis.
+
+1. Las cuantías para el año 2002 de la tarifa H, serán las siguientes:
+
+H.1 Por asistencia a la aeronave:
+
+H.1.1 Por el uso de infraestructuras para la prestación de los servicios de rampa.
+
+H.1.1.1 Cuantía por el uso de infraestructuras para la prestación de los servicios de asistencia de equipajes (Grupo de servicios número 3).
+
+Por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción 45,98 euros.
+
+H.1.1.2 Cuantía por el uso de infraestructuras para la prestación de los servicios de Asistencia a las operaciones en pista (grupo de servicios número 5).
+
+Por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 14,60 euros.
+
+H.1.2 Por el uso de infraestructuras para la prestación de los servicios de asistencia de limpieza y servicio de la aeronave (Grupo de servicios número 6 excepto la asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave).
+
+Cuantía por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 8,02 euros.
+
+H.1.3 Por el uso de infraestructuras para la prestación de los servicios de asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave (Parte del grupo 6.b.)
+
+Cuantía por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 2,19 euros.
+
+H.1.4 Por el uso de infraestructuras para la prestación de los servicios de asistencia de mantenimiento en línea (Grupo de servicios número 8).
+
+Cuantía por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 2,19 euros.
+
+El peso máximo al despegue será el que figure en el certificado de aeronavegabilidad o en el manual de vuelo de la misma o en cualquier otro documento oficial equivalente.
+
+Cuando el peso máximo al despegue de las aeronaves no se encuentre comprendido entre 56 y 71 toneladas métricas, a las cuantías anteriores se le aplicarán los siguientes coeficientes en función del intervalo de peso en el que se encuentre incluida la aeronave:
+
+| Intevalo de peso máximo al despegue (Tm) | Coeficiente - Porcentaje |
+| --- | --- |
+| Aeronaves entre 0 y menos de 16 Tm . . . . . . . . . . . . . . . . . . . . . . . . | 13,16 |
+| Aeronaves entre 16 y menos de 22 Tm o fracción . . . . . . . . . . . . . . . | 17,51 |
+| Aeronaves entre 22 y menos de 38 Tm o fracción . . . . . . . . . . . . . . . | 28,04 |
+| Aeronaves entre 38 y menos de 56 Tm o fracción . . . . . . . . . . . . . . . | 77,88 |
+| Aeronaves entre 56 y menos de 72 Tm o fracción . . . . . . . . . . . . . . . | 100,00 |
+| Aeronaves entre 72 y menos de 86 Tm o fracción . . . . . . . . . . . . . . . | 120,33 |
+| Aeronaves entre 86 y menos de 121 Tm o fracción . . . . . . . . . . . . . . | 135,30 |
+| Aeronaves entre 121y menos de 164 Tm o fracción . . . . . .. . . . . . . . | 150,28 |
+| Aeronaves entre 164 y menos de 191 Tm o fracción . . . . . . . . . . . . . | 179,37 |
+| Aeronaves entre 191 y menos de 231 Tm o fracción . . . . . . . . . . . . . | 202,50 |
+| Aeronaves entre 231 y menos de 300 Tm o fracción . . . . . . . . . . . . . | 264,81 |
+| Aeronaves de más de 300 Tm o fracción . . . . . . . . . . . . . . . . . . . . . . | 314,64 |
+
+H.2. Por asistencia al pasajero:
+
+Cuantía por el uso de las infraestructuras para la prestación de los servicios de asistencia al pasajero (grupo de servicios número 2): 0,032 euros por cada pasajero de salida.
+
+Todas las referencias a grupos de servicios aeroportuarios de asistencia en tierra son las recogidas en el anexo del Real Decreto 1161/1999, de 2 de julio, por el que se regula la prestación de los servicios aeroportuarios de asistencia en tierra.
+
+2. No obstante lo anterior, las cuantías unitarias de la tarifa H serán bonificadas en el ejercicio 2002 en un 85 por 100 de su importe, en el ejercicio 2003 en un 60 por 100 de su importe, en el ejercicio 2004 en un 30 por 100 de su importe, aplicándose en su integridad a partir del 1 de enero de 2005.
+
+Como consecuencia de dicha bonificación, para el ejercicio 2002 las cuantías unitarias quedan reducidas a las siguientes:
+
+H.1 Por asistencia a la aeronave:
+
+H.1.1 Por el uso de infraestructuras para la prestación de los servicios de rampa.
+
+H.1.1.1 Cuantía por el uso de infraestructuras para la prestación de los servicios de asistencia de equipajes (grupo de servicios número 3).
+
+Por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 6,90 euros.
+
+H.1.1.2 Cuantía por el uso de infraestructuras para la prestación de los servicios de asistencia a las operaciones en pista (grupo de servicios número 5).
+
+Por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 2,19 euros.
+
+H.1.2 Por el uso de infraestructuras para la prestación de los servicios de asistencia de limpieza y servicio de la aeronave (grupo de servicios número 6 excepto la asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave).
+
+Cuantía por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 1,20 euros.
+
+H.1.3 Por el uso de infraestructuras para la prestación de los servicios de asistencia de limpieza de la nieve, el hielo y la escarcha de la aeronave (parte del grupo 6.b.)
+
+Cuantía por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 0,33 euros.
+
+H.1.4 Por el uso de infraestructuras para la prestación de los servicios de asistencia de mantenimiento en línea (Grupo de servicios número 8).
+
+Cuantía por cada aeronave cuyo peso máximo al despegue esté comprendido entre 56 y 71 toneladas métricas o fracción: 0,33 euros.
+
+El peso máximo al despegue será el que figure en el certificado de aeronavegabilidad o en el manual de vuelo de la misma o en cualquier otro documento oficial equivalente.
+
+Cuando el peso máximo al despegue de las aeronaves no se encuentre comprendido entre 56 y 71 toneladas métricas, a las cuantías anteriores se le aplicarán los coeficientes en función del intervalo de peso en el que se encuentre incluida la aeronave.
+
+H.2 Por asistencia al pasajero.
+
+Cuantía por el uso de las infraestructuras para la prestación de los servicios de asistencia al pasajero (grupo de servicios número 2): 0,0048 euros por cada pasajero de salida.
+
+> Se añade por el art. 27.2 de la Ley 24/2001, de 27 de diciembre. Ref. BOE-A-2001-24965.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 124, de 24 de mayo de 2002. Ref. BOE-A-2002-9972.

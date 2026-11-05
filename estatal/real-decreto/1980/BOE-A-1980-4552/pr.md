@@ -1,0 +1,7 @@
+El artículo primero del Decreto mil setecientas sesenta y seis/mil novecientos setenta y cinco, de veinte de junio, dispuso la necesidad de que en los proyectos de viviendas de protección oficial que se presenten para su aprobación a partir del uno de enero de mil novecientos setenta y seis se proyecten tres viviendas por cada cien programadas, situadas obligatoriamente en planta baja y que reúnan las características que en dicto Decreto se detallan.
+
+La experiencia acumulada respecto al destino obligatorio de las viviendas en planta baja, en cuanto que sólo van destinadas a cubrir un tipo de minusvalidez, junto con las dificultades que el cumplimiento de dicho destino presentaban ante la existencia de planes de ordenación que expresamente se oponían a ello, ha puesto de manifiesto la necesidad de acometer la modificación de las directrices emanadas del citado Decreto, el objeto de adecuar las necesidades de la población minusvalida con las exigencias propias del planeamiento, permitiendo por otro lado la posibilidad de que coexistan en planta baja locales comerciales y viviendas de minusválidos, cuestión que expresamente resultaba prohibida por el apartado A) del artículo segundo del Real Decreto tres mil ciento cuarenta y ocho/mil novecientos setenta y ocho de diez de noviembre.
+
+En su virtud y a propuesta del Ministro de Obras Públicas y Urbanismo y previa deliberación del Consejo de Ministros en su sesión del día veinticinco de enero de mil novecientos ochenta,
+
+DISPONGO:

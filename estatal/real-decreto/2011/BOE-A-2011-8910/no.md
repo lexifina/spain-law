@@ -1,0 +1,1 @@
+Norma derogada excepto sus disposiciones adicionales, transitorias y finales, con efectos de 7 de octubre de 2018, por la disposición derogatoria única del Real Decreto-Ley 15/2018, de 5 de octubre. Ref. BOE-A-2018-13593#dd

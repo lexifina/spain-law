@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogaciones.
+
+Quedan derogadas todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en el presente Real Decreto, y en especial la Orden del Ministerio de la Presidencia de 10 de enero de 1981, sobre requisitos formales de las resoluciones administrativas («Boletín Oficial del Estado» de 14 de enero de 1981), y la Orden del Ministerio de la Presidencia de 7 de julio de 1986, por la que se regula la confección de material impreso y se establece la obligación de consignar determinados datos en las comunicaciones y escritos administrativos.

@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Revalidación de tarjetas profesionales de la Marina Mercante existentes.
+
+1. La revalidación de las tarjetas profesionales de Patrón Mayor de Cabotaje, Patrón de Cabotaje, Mecánico Naval Mayor y Mecánico Naval de Primera Clase y de Segunda Clase, requerirá el cumplimiento de las condiciones establecidas en el artículo 61.
+
+2. Los titulados como Patrón Mayor de Cabotaje, Patrón de Cabotaje, Mecánico Naval Mayor y Mecánico Naval de Primera Clase o Segunda Clase que no cumplan las condiciones del artículo 61, apartados 3.b) y 4, para la revalidación de sus tarjetas profesionales podrán, no obstante, revalidarlas, quedando en tal caso sus atribuciones limitadas a los buques civiles que naveguen exclusivamente en aguas interiores marítimas españolas o que naveguen exclusivamente entre puertos españoles, en este último caso con los límites de arqueo bruto inferior a 500 para los titulados del departamento de puente y cubierta y de potencia inferior a 750 kW para los titulados del departamento de máquinas.

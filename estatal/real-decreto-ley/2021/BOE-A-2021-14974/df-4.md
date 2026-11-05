@@ -1,0 +1,3 @@
+## Disposición final cuarta. Títulos competenciales.
+
+Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª, 14.ª, 22.ª, 23.ª y 25.ª de la Constitución Española, que atribuye al Estado la competencia en materia de bases y coordinación de la planificación general de la actividad económica, Hacienda general, legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando discurran por más de una comunidad autónoma, legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección y bases del régimen minero y energético, respectivamente.

@@ -1,0 +1,3 @@
+## Duodécimo. Plazo de presentación de los modelos 180, en pesetas o en euros, en soporte directamente legible por ordenador.
+
+La presentación de los soportes directamente legibles por ordenador conteniendo los resúmenes anuales de retenciones e ingresos a cuenta, modelos 180, en pesetas o en euros, previamente validados conforme a lo dispuesto en el apartado noveno de la presente Orden, así como la documentación que a los mismos haya de acompañarse, se realizará en el periodo comprendido entre el 1 de enero y el 20 de febrero de cada año, en relación con las cantidades retenidas y los ingresos a cuenta efectuados que correspondan al año inmediato anterior.

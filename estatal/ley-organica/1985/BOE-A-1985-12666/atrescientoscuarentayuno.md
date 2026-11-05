@@ -1,0 +1,7 @@
+## Artículo 341.
+
+1. Para la provisión de las plazas de Presidente de los Tribunales Superiores de Justicia y de las Audiencias, en aquellas Comunidades Autónomas que gocen de Derecho Civil Especial o Foral, así como de idioma oficial propio, el Consejo General del Poder Judicial valorará como mérito la especialización de estos Derechos Civil Especial o Foral y el conocimiento del idioma propio de la Comunidad.
+
+2. Reglamentariamente se determinarán los criterios de valoración sobre el conocimiento del idioma y el Derecho Civil Especial o Foral de las referidas Comunidades Autónomas, como mérito preferente en los concursos para órganos jurisdiccionales de su territorio.
+
+> Redactado conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

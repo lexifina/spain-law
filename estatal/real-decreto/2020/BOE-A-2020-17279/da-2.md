@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Desarrollo del Real Decreto-ley 13/2012, de 30 de marzo.
+
+En virtud de la habilitación otorgada al Gobierno en la disposición final séptima del Real Decreto-ley 13/2012, de 30 de marzo, en el caso de que no se haya autorizado finalmente la inyección de todo el volumen de gas colchón previsto en la autorización administrativa de un almacenamiento subterráneo, a los efectos de la solicitud del acta de puesta en servicio definitiva, conforme a lo artículo 14.4 del citado real decreto-ley, los parámetros nominales a utilizar serán los dispuestos en la autorización administrativa multiplicados por el coeficiente que resulte de dividir el volumen de almacenamiento operativo máximo del último ciclo de inyección-extracción disponible entre la capacidad de almacenamiento nominal que figure en la resolución de autorización.
+
+Si por razones justificadas fuese necesario inyectar todo el gas colchón y el almacenamiento no alcanzase los parámetros nominales que figuran en la autorización, se podrá reducir su retribución anual de manera proporcional.

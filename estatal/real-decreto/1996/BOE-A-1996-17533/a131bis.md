@@ -1,0 +1,9 @@
+## Artículo 131 bis. Inscripción de la constitución de una sociedad anónima europea holding.
+
+1. En la constitución de una sociedad anónima europea holding, en que participen sociedades anónimas y sociedades limitadas españolas, conforme al art. 2 del Reglamento (CE) núm. 2157/2001 del Consejo, de 8 de octubre de 2001, el depósito del proyecto de constitución se regirá por lo establecido en el artículo 226 de este Reglamento.
+
+2. El nombramiento del experto o expertos independientes que hayan de elaborar el informe escrito sobre el proyecto de constitución destinado a los socios de cada una de las sociedades que participen en la misma se regulará por lo establecido en los artículos 338 a 349 de este Reglamento y se practicará previa solicitud de cada sociedad española que promueva la constitución. En caso de informe conjunto, si la sociedad va a ser domiciliada en España será competente para el nombramiento el Registrador correspondiente al futuro domicilio.
+
+3. El derecho de separación de los socios que hubieran votado en contra deberá ejercitarse por escrito en el plazo de un mes a contar desde la fecha del acuerdo de constitución. Si la sociedad anónima europea holding fuera a establecer su domicilio en España, además de los requisitos generales para su constitución, en la escritura se hará constar la declaración de los administradores de que ningún socio ha ejercitado su derecho de separación en las sociedades domiciliadas en España o, en caso contrario, la declaración de los administradores de la que resulte el reembolso de las acciones correspondientes y los datos de identidad de los accionistas que ejercitaron tal derecho, previa amortización de aquellas y reducción del capital social.
+
+> Se añade por el art.único.7 del Real Decreto 659/2007, de 25 de mayo. Ref. BOE-A-2007-11320

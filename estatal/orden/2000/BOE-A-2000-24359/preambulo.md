@@ -1,0 +1,5 @@
+El Real Decreto 1638/1999, de 22 de octubre, determina en el segundo párrafo del punto 4 del artículo 6 que, el procedimiento de enajenación, será desarrollado en la Orden correspondiente. El punto 3 del artículo 8 determina, asimismo, que la documentación y tramitación para los casos de entregas de material o productos de defensa con ocasión de operaciones militares o situaciones de emergencia se acordará en la Orden de desarrollo.
+
+Siguiendo los preceptos del citado Real Decreto, y teniendo además en cuenta las situaciones que de hecho se producen, tales como la suscripción a un sistema de compra-venta de material gestionado por un organismo internacional, y la existencia de excedentes de material útil y apto para el servicio susceptible de enajenación, se han elaborado los procedimientos que se establecen en la presente Orden.
+
+Por otra parte, la disposición final primera del repetido Real Decreto faculta al Ministro de Defensa para que dicte las disposiciones necesarias para el desarrollo del mismo, por lo que en su virtud, dispongo:

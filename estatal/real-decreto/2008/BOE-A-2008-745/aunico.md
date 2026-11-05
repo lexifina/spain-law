@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del Reglamento de desarrollo de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, en las materias referentes a los incentivos fiscales en la imposición indirecta, la reserva para inversiones en Canarias y la Zona Especial Canaria.
+
+Se aprueba el Reglamento de desarrollo de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, en las materias referentes a los incentivos fiscales en la imposición indirecta, la reserva para inversiones en Canarias y la Zona Especial Canaria, cuyo texto se inserta a continuación.

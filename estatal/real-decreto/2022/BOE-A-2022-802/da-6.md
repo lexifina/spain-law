@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Compromisos financieros adquiridos por las comunidades autónomas y ciudades de Ceuta y Melilla en ejecución del Plan Estatal de Vivienda 2018-2021.
+
+Los compromisos financieros adquiridos por las comunidades autónomas y las ciudades de Ceuta y Melilla para la ejecución del Plan Estatal de Vivienda 2018-2021 que no hayan sido ejecutados en un programa determinado por defecto de solicitudes o cualquier otra circunstancia podrán ser admitidos en otro programa del mismo Plan Estatal de Vivienda 2018-2021 por exceso de solicitudes o cualquier otra circunstancia, siempre dentro de la misma anualidad y mediante acuerdo motivado suscrito en la Comisión Bilateral de Seguimiento del convenio que para la ejecución del Plan Estatal para el acceso a la vivienda 2022-2025 sea suscrito por el Ministerio de Transportes, Movilidad y Agenda Urbana y la comunidad autónoma o ciudad de Ceuta y Melilla de que se trate.
+
+> Se añade por el art. único.11 del Real Decreto 903/2022, de 25 de octubre. Ref. BOE-A-2022-17474

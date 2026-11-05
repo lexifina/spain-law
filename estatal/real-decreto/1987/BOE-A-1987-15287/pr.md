@@ -1,0 +1,5 @@
+El programa de actuación de las Comunidades Europeas en materia de medio ambiente ha puesto de manifiesto la importancia del problema de las perturbaciones sonoras, en particular la necesidad de actuar sobre el ruido causado por el tráfico aéreo, por lo que se ha considerado necesario limitar el ruido de los aviones teniendo en cuenta la protección del medio ambiente, las posibilidades técnicas y las consecuencias económicas. En este sentido la Comunidad Europea ha tomado como base las normas especificadas sobre el asunto por la Organización de la Aviación Civil Internacional, promoviéndose a tal efecto la Directiva del Consejo de las Comunidades Europeas 80/51, de 20 de diciembre de 1979, modificada por la Directiva 83/206, de 21 de abril de 1983, sobre limitación de emisiones sonoras de aeronaves subsónicas.
+
+En virtud de todo ello, a propuesta del Ministro de Transportes, Turismo y Comunicaciones de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del la 29 de mayo de 1987,
+
+DISPONGO:

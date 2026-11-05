@@ -1,0 +1,5 @@
+## Disposición final tercera.
+
+(Derogada)
+
+> Se deroga por la disposición derogatoria única del Real Decreto 181/1993, de 9 de febrero. Ref. BOE-A-1993-5006.

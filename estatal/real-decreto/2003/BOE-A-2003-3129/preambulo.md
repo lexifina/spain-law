@@ -1,0 +1,9 @@
+El Reglamento (CE) número 1334/2002 de la Comisión, de 23 de julio de 2002, por el que se establecen disposiciones de aplicación del Reglamento (CE) número 1638/98 del Consejo, de 20 de julio de 1998, que modifica el Reglamento número 136/66/CEE por el que se establece la organización común de mercados en el sector de las materias grasas, en lo que respecta a los programas de actividades de las organizaciones de operadores del sector oleícola en las campañas de comercialización 2002/2003 y 2003/2004, concreta determinados aspectos en lo que se refiere a los programas de actividades en el marco de la organización común de mercado en el sector de las materias grasas, que requiere del desarrollo por los Estados miembros y, en particular, en el establecimiento de las condiciones relativas a la autorización de las organizaciones de operadores del sector oleícola, líneas de actividades subvencionables y normas para la concesión de anticipos.
+
+Procede, asimismo, dictar determinadas medidas en desarrollo de la facultad de elección sobre los importes retenidos de la ayuda a la producción del aceite de oliva, que atribuye a los Estados miembros productores el Reglamento (CE) número 1873/2002 del Consejo, de 14 de octubre de 2002, que fija los límites de la financiación comunitaria de los programas de actividades de las organizaciones de operadores del sector oleícola prevista en el Reglamento (CE) número 1638/98 y por el que se establece una excepción al Reglamento número 136/66/CEE.
+
+La elaboración del presente Real Decreto ha sido sometida a consulta de las Comunidades Autónomas y entidades representativas de los sectores afectados.
+
+En su virtud, a propuesta del Ministro de Agricultura, Pesca y Alimentación, previa aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de febrero de 2003,
+
+D I S P O N G O :

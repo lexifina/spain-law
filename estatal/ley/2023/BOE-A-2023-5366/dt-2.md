@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Solicitudes de rectificación registral de la mención relativa al sexo en tramitación.
+
+Las previsiones del Capítulo I del Título II de esta ley serán de aplicación a todos los procedimientos registrales de rectificación de la mención relativa al sexo que se encuentren en tramitación a la entrada en vigor de esta ley si la persona interesada solicita del encargado del Registro Civil la reconducción del procedimiento a esta nueva normativa, que se llevará a cabo según las instrucciones que a tal fin imparta la Dirección General de Seguridad Jurídica y Fe Pública.

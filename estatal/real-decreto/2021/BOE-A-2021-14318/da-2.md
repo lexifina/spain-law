@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Sistema informatizado.
+
+Para facilitar el cumplimiento del deber de notificación establecido en el artículo 4 se desarrollará a más tardar el 1 de octubre de 2021 un soporte informático por el Ministerio de Agricultura, Pesca y Alimentación con los protocolos técnicos necesarios para el correcto funcionamiento, que a su vez se apoyará en el sistema de información de los mercados oleícolas adscrito al Ministerio de Agricultura, Pesca y Alimentación y regulado por el Real Decreto 861/2018, de 13 de julio, por el que se establece la normativa básica en materia de declaraciones obligatorias de los sectores del aceite de oliva y las aceitunas de mesa y por el que se modifica el Real Decreto 772/2017, de 28 de julio, por el que se regula el potencial de producción vitícola.
+
+A este sistema tendrán acceso los operadores responsables de la notificación realizada, las autoridades competentes a efectos del control, así como los Cuerpos y Fuerzas de Seguridad del Estado y el Ministerio de Agricultura, Pesca y Alimentación.

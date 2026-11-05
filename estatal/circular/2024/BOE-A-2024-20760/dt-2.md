@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Solicitudes de permiso de acceso y conexión a la red.
+
+Los criterios para evaluar la existencia o no de capacidad de acceso, la viabilidad del punto de conexión y la influencia en la red de aguas arriba de las solicitudes que se realicen antes de la aplicación de las especificaciones de detalle reguladas en el artículo 18, serán los criterios técnicos de seguridad, regularidad, calidad de suministro y de sostenibilidad y eficiencia económica del sistema eléctrico, según se establece en el artículo 33.2 de la Ley del Sector Eléctrico, utilizados a la entrada en vigor de esta circular.

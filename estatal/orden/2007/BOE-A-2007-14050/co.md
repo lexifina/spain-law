@@ -1,0 +1,1 @@
+Téngase en cuenta que esta norma quedará derogada cuando se lleven a cabo las modificaciones indicadas en la disposición final primera de la Orden ECD/1361/2015, de 3 de julio. Ref. BOE-A-2015-7662#ddunica, según establece la disposición derogatoria única de la citada disposición.

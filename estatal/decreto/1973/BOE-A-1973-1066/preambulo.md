@@ -1,0 +1,11 @@
+Las denominadas Tablas de Daimiel, formadas por los ríos Guadiana y Cigüela, en la zona inmediatamente anterior a su confluencia, constituyen un espléndido joyel natural que compendia las más valiosas características de la Mancha húmeda. La excepcional riqueza de su flora y de su fauna y las singularidades ecológicas de un biotopo que ha conservado su facies primitiva, sin modificaciones sustanciales, han ganado para las Tablas de Daimiel una merecida resonancia internacional y la consideración de haber sido incluidas con rango preferente en la lista confeccionada por la UICN, ratificándose posteriormente tal condición en la Conferencia Internacional de Zonas Húmedas Naturales celebrada en Ramsar en mil novecientos setenta y uno.
+
+Atento el Estado español a la conservación de estos valores, en mayo de mil novecientos sesenta y seis fue creada por Ley la Reserva Natural de Caza de Las Tablas de Daimiel, dándose así un importante paso en favor de la protección de las aves acuáticas que utilizan esta zona como área de descanso, invernada o puesta.
+
+Diversas circunstancias, de las que el Gobierno tuvo oportuno conocimiento, y muy especialmente los programas de desecación iniciados en el entorno de la Reserva, hicieron necesario constituir una Comisión Interministerial para estudiar las medidas que deberían adoptarse con el fin de garantizar la definitiva conservación del biotopo de Las Tablas, sin perjuicio del eventual saneamiento de otras áreas próximas.
+
+Ultimados los trabajos de la Comisión y de acuerdo con su propuesta, se ha estimado que el mejor medio de asegurar la consecución de los fines propuestos es otorgar a estos terrenos un régimen de protección especial, declarándolos Parque Nacional. Esta declaración, complementada con la creación en el interior del Parque de un refugio integral de aves acuáticas y con la construcción del dispositivo adecuado para mantener los niveles hídricos del Parque a las cotas más convenientes, permiten garantizar de cara al futuro y en beneficio de toda la comunidad, la conservación de uno de los ecosistemas más valiosos del territorio nacional.
+
+En su virtud, a propuesta del Ministro de Agricultura y previa deliberación del Consejo de Ministros en su reunión del día veintiocho de junio de mil novecientos setenta y tres,
+
+DISPONGO:

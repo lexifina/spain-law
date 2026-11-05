@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Determinación de las zonas libres, zonas sometidas a programa y zona sin estatus.
+
+Se habilita al Director General de Sanidad de la Producción Agroalimentaria y Bienestar Animal para aprobar, mediante resolución que se publicará en el «Boletín Oficial del Estado», las zonas en que se clasifique el territorio nacional a efectos de esta orden, conforme al artículo 2.3; esto es, Zona Libre, Zona sometida a programa de erradicación frente a los distintos serotipos del virus de la lengua azul, en aplicación de la disposición adicional primera; y Zona sin estatus. Asimismo, se le habilita a modificar dicha resolución con base en las notificaciones e información recibidas de las comunidades autónomas.

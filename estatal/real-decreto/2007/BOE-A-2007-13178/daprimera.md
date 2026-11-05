@@ -1,0 +1,3 @@
+## Disposición adicional primera. Constitución de los órganos de la Comisión de Control y Seguimiento de la Salud y el Dopaje.
+
+En el plazo de un mes, contado a partir de la entrada en vigor del presente real decreto, cada Organismo o Entidad con representación en el Pleno propondrá al Consejo Superior de Deportes o identificará a la persona elegida para proceder al otorgamiento de su acreditación ante el mismo. En el término de quince días desde que se produjera el nombramiento de la totalidad de los miembros de la Comisión, se procederá a la constitución del Pleno en sesión extraordinaria y, seguidamente, se constituirán las Subcomisiones y el resto de órganos previstos en el presente real decreto.

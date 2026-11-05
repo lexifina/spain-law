@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 962/2013, de 5 de diciembre, por el que se regula el Consejo Estatal de la pequeña y la mediana empresa y el Observatorio Estatal de la Morosidad Privada", según establece el art. único.1 del Real Decreto 439/2024, de 30 de abril. Ref. BOE-A-2024-8711

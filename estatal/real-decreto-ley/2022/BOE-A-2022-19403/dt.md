@@ -1,0 +1,3 @@
+## Disposición transitoria única. Aplicación de la incorporación de la letra e) al artículo 63 del Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia.
+
+La letra e) del artículo 63 del Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas urgentes para la modernización de la Administración Pública y para la ejecución del Plan de Recuperación, Transformación y Resiliencia, modificada en virtud de la disposición final primera de la presente norma, será de aplicación a la comprobación de subvenciones relacionadas con el uso de fondos europeos cuyo plazo de justificación aún no haya concluido.

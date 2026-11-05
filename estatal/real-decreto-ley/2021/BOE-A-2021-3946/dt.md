@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Procedimiento transitorio de gestión de expedientes entre el Fondo de apoyo a la solvencia de empresas estratégicas y el Fondo de recapitalización de empresas afectadas por COVID.
+
+SEPI dará traslado a COFIDES de los expedientes correspondientes a empresas que hubieran iniciado el trámite de solicitud de apoyo público temporal con cargo al Fondo de apoyo a la solvencia de empresas estratégicas con anterioridad a la fecha de publicación de este Real Decreto-ley en el «Boletín Oficial del Estado» sin alcanzar los umbrales mínimos de inversión por este Fondo y que soliciten apoyo del Fondo de recapitalización de empresas afectadas por COVID-19.

@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Limitación por cambio de especialidad fundamental.
+
+El personal militar de carrera de la escala de tropa del Ejército de Tierra que hayan cambiado de especialidad fundamental, desde cualquier especialidad de las definidas en la Agrupación de Especialidades Operativas a una de las definidas en la Agrupación de Especialidades Técnicas, a través del curso de cambio de especialidad que periódicamente se convoca, no podrán optar a la realización de una especialidad del segundo tramo de las relacionadas en el presente reglamento, debiendo perfeccionarse dentro del campo de actividad de su especialidad fundamental.

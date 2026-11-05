@@ -1,0 +1,1 @@
+Téngase en cuenta que el 5 de febrero de 2025 entra en vigor la Resolución de 20 de febrero de 2025, de la Dirección de Tráfico, por la que se establecen medidas especiales de regulación de tráfico durante el año 2025, Ref. BOE-A-2025-1329, fecha a partir de la cual cesa la vigencia de la presente Resolución, según establece su disposición final única.

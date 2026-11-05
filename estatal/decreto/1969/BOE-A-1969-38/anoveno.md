@@ -1,0 +1,3 @@
+## Artículo noveno.
+
+Todas las Direcciones Generales y Servicios Centrales y Provinciales de cada Ministerio deberán remitir a las Juntas de Compras respectivas, en el mes de septiembre de cada año, además de las propuestas señaladas en el articulo cinco, relación de las necesidades para el ejercicio siguiente del material mobiliario y de oficina inventariable y no inventariable, cuya adquisición hubiese sido centralizada por dichas Juntas o por el Servicio Central de Suministros, de acuerdo con las asignaciones que tenían señaladas. Por excepción, se podrá formular solicitud de material fuera del plazo indicado por necesidad ineludible, reforma de los Servicios o a consecuencia de las circunstancias que no hubieran podido ser previstas.

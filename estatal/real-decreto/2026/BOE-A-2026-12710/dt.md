@@ -1,0 +1,3 @@
+## Disposición transitoria única. Régimen transitorio aplicable a la gestión económico-administrativa de los arrendamientos e inversiones por parte de las unidades en el exterior.
+
+La GIEC seguirá realizando las gestiones económico-administrativas, por medio del sistema de pagos a justificar, respecto de los arrendamientos e inversiones asociadas a contratos celebrados, formalizados y ejecutados en el exterior por parte de las unidades educativas en el exterior hasta el 31 de diciembre de 2026. A partir del 1 de enero de 2027 se aplicará el régimen establecido en el artículo 4.2.b) del Estatuto de la GIEC.

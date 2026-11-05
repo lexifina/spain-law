@@ -1,0 +1,7 @@
+## Segundo. Obligaciones de los miembros de las Fuerzas y Cuerpos de Seguridad.
+
+1. Conforme al artículo 9.i) de la Ley Orgánica 9/2015, de 28 de julio, de Régimen de Personal de la Policía Nacional, en los casos de declaración del estado de alarma los miembros de la Policía Nacional tienen la obligación de presentarse al servicio cuando sean emplazados para ello, de acuerdo con lo dispuesto por la autoridad competente, cuando sea requerida la colaboración de las Fuerzas y Cuerpos de Seguridad del Estado.
+
+2. Según el artículo 20 de la Ley Orgánica 11/2007, de 22 de octubre, reguladora de los derechos y deberes de los miembros de la Guardia Civil, en los casos de declaración del estado de alarma los Guardias Civiles se presentarán en su dependencia de destino o en la más próxima y se pondrán a disposición inmediata de las autoridades correspondientes.
+
+3. De acuerdo con el artículo 9.1 de la Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y sitio, por la declaración del estado de alarma todas las Autoridades civiles de la Administración Pública del territorio afectado por la declaración, los integrantes de los Cuerpos de Policía de las Comunidades Autónomas y de las Corporaciones Locales, y los demás funcionarios y trabajadores al servicio de las mismas, quedarán bajo las órdenes directas de la Autoridad competente en cuanto sea necesaria para la protección de personas, bienes y lugares, pudiendo imponerles servicios extraordinarios por su duración o por su naturaleza.

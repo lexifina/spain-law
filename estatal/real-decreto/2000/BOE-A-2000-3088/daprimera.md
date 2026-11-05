@@ -1,0 +1,3 @@
+## Disposición adicional primera. La Unidad de Alta Inspección del Estado.
+
+Las funciones de alta inspección del Estado en materia de ejecución de la legislación laboral y de Seguridad Social, reconocidas en los Estatutos de Autonomía, excepto las relativas a la asistencia sanitaria que corresponderán al órgano competente en dicha materia, se desarrollarán a través de la Unidad Especial de Inspectores de Trabajo y Seguridad Social que, a tales efectos, dependerá directamente del Ministro de Trabajo y Asuntos Sociales. Dicha unidad especial contará con los medios necesarios para sus cometidos, adscribiéndosele inspectores de Trabajo y Seguridad Social con acreditada experiencia y preparación.

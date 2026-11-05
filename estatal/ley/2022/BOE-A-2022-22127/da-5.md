@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Adaptación de Planes y Estrategias.
+
+El Gobierno, habida cuenta de que la invasión de Ucrania por parte de Rusia, que además ha sido coincidente con el período de sequía, altera significativamente las condiciones en las que se diseñaron y plantearon ciertas estrategias que están marcando las orientaciones de la Política Agrícola Común, trasladará a las instituciones comunitarias la necesidad ineludible de revisar la hoja de ruta y la cronología de la consecución de objetivos del Mecanismo Europeo de Recuperación y Resiliencia y del Pacto Verde Europeo y sus estrategias, con el fin de que estos no socaven la seguridad alimentaria y la viabilidad de las explotaciones agrícolas de la UE.
+
+Con idéntico fin y en el marco de actuación nacional, el Gobierno revisará el Plan Nacional de Recuperación, Transformación y Resiliencia, para responder a los nuevos desafíos en los que el abastecimiento y la seguridad alimentaria deben ascender en el orden de prioridades, condicionando también su aplicación.

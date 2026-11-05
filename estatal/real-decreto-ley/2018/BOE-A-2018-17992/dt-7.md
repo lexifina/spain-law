@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Solicitudes del subsidio por desempleo o de la renta agraria presentadas con anterioridad a la entrada en vigor de este real decreto-ley.
+
+Lo dispuesto en el artículo 11 de este real decreto-ley será también de aplicación a los trabajadores referidos en él, que hubieran presentado a partir del 1 de octubre de 2018 y antes de la entrada en vigor de este real decreto-ley, la solicitud del subsidio por desempleo regulada en el Real Decreto 5/1997, de 10 de enero, o la solicitud de la renta agraria regulada en el Real Decreto 426/2003, de 11 de abril, siempre que presenten una nueva solicitud a partir de la entrada en vigor de este real decreto-ley.

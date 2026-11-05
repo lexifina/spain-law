@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Trabajadores autónomos y sistemas de previsión social empresarial.
+
+La persona trabajadora autónoma con trabajadores a su cargo podrá practicar la deducción por contribuciones empresarial a sistemas de previsión social empresarial a que se refiere el artículo 38 ter de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, en los términos y condiciones previstos en el artículo 68.2 de la Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio.

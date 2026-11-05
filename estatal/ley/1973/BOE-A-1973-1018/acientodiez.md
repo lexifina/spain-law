@@ -1,0 +1,9 @@
+## Artículo ciento diez.
+
+Uno. El Estado podrá obligar a la formación de cotos a los titulares legales de aprovechamientos de recursos que hayan sido declarados de interés nacional como resultado de los estudios previstos en el párrafo uno del artículo quinto, o cuando la falta de unidad de sistema en aprovechamientos colindantes o próximos de distintos titulares pueda afectar a la seguridad de los trabajos, integridad de la superficie, continuidad del recurso o protección del medio ambiente o cuando resulte así un aprovechamiento más favorable de los recursos.
+
+Dos. La propuesta de formación de cotos obligatorios se formulará ante la Dirección General de Minas, bien por los servicios dependientes de la misma, bien por otros organismos que tengan relación con asuntos mineros, o por titulares de derechos mineros que pretendan formar un coto de aprovechamiento más ventajoso. En los dos primeros casos se acompañará a la propuesta un proyecto justificativo de la conveniencia de formación del coto, con expresión de los auxilios que al mismo puedan otorgarse. Si se trata de titulares, a los documentos señalados deberá acompañarse el que justifique los medios económicos de que dispondrá al efecto la nueva entidad.
+
+Tres. La Dirección General de Minas procederá, en su caso, a la tramitación del expediente, remitiéndolo a la Delegación Provincial correspondiente para notificación a los interesados, quienes podrán hacer las observaciones que estimen procedentes en un plazo de sesenta días. Transcurrido éste, la Delegación Provincial elevará el expediente con su informe a la Dirección General, que propondrá al Ministro la resolución oportuna.
+
+Cuatro. El Ministro de Industria, después de oír al Instituto Geológico y Minero de España, al Consejo Superior del Departamento, a la Organización Sindical y a los organismos interesados, someterá la propuesta de Decreto a la aprobación del Consejo de Ministros.

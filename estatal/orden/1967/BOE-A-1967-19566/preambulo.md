@@ -1,0 +1,1 @@
+Téngase en cuenta que se derogan las previsiones contenidas en esta Orden que hacen referencia a los casos de maternidad, según establece la disposición derogatoria única.b) del Real Decreto 1251/2001, de 16 de noviembre. Ref. BOE-A-2001-21491.

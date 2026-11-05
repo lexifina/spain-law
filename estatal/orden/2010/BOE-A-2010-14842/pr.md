@@ -1,0 +1,5 @@
+El Real Decreto 1027/1993, de 25 de junio, por el que se regula la acción educativa en el exterior, estableció en su artículo 7.1.d) la posibilidad de que dicha acción se desarrollara, entre otras, en «Instituciones con las que pudieran establecerse convenios de colaboración». Al amparo de dicha previsión, la Orden del Ministerio de Educación y Cultura de 23 de septiembre de 1998, estableció las bases para la suscripción de convenios con las instituciones citadas. Esta orden fue modificada por la Orden ECI/1711/2005, de 23 de mayo.
+
+La variedad de los centros docentes, trece en la actualidad, acogidos a los convenios respectivos y la experiencia acumulada en los últimos años aconsejan actualizar los procedimientos para la suscripción de nuevos convenios y concretar la regulación de la obtención de los títulos del sistema educativo español obtenidos en los centros que forman parte de esta modalidad de la acción educativa en el exterior.
+
+En virtud de lo expuesto, y con la aprobación de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, dispongo:

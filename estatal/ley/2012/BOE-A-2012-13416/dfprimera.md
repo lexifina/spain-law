@@ -1,0 +1,35 @@
+## Disposición final primera. Modificación de la Ley 24/1988, de 28 de julio, del Mercado de Valores.
+
+El artículo 108 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, queda redactado de la siguiente forma:
+
+«Artículo 108.
+
+1. La transmisión de valores, admitidos o no a negociación en un mercado secundario oficial, estará exenta del Impuesto sobre el Valor Añadido y del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados.
+
+2. Quedan exceptuadas de lo dispuesto en el apartado anterior las transmisiones de valores no admitidos a negociación en un mercado secundario oficial realizadas en el mercado secundario, que tributarán en el impuesto al que estén sujetas como transmisiones onerosas de bienes inmuebles, cuando mediante tales transmisiones de valores se hubiera pretendido eludir el pago de los tributos que habrían gravado la transmisión de los inmuebles propiedad de las entidades a las que representen dichos valores.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, se entenderá, salvo prueba en contrario, que se actúa con ánimo de elusión del pago del impuesto correspondiente a la transmisión de bienes inmuebles en los siguientes supuestos:
+
+a) Cuando se obtenga el control de una entidad cuyo activo esté formado en al menos el 50 por ciento por inmuebles radicados en España que no estén afectos a actividades empresariales o profesionales, o cuando, una vez obtenido dicho control, aumente la cuota de participación en ella.
+
+b) Cuando se obtenga el control de una entidad en cuyo activo se incluyan valores que le permitan ejercer el control en otra entidad cuyo activo esté integrado al menos en un 50 por ciento por inmuebles radicados en España que no estén afectos a actividades empresariales o profesionales, o cuando, una vez obtenido dicho control, aumente la cuota de participación en ella.
+
+c) Cuando los valores transmitidos hayan sido recibidos por las aportaciones de bienes inmuebles realizadas con ocasión de la constitución de sociedades o de la ampliación de su capital social, siempre que tales bienes no se afecten a actividades empresariales o profesionales y que entre la fecha de aportación y la de transmisión no hubiera transcurrido un plazo de tres años.
+
+3. En los supuestos en que la transmisión de valores quede sujeta a los impuestos citados sin exención, según lo previsto en el apartado 2 anterior, se aplicarán las siguientes reglas:
+
+1.ª Para realizar el cómputo del activo, los valores netos contables de todos los bienes contabilizados se sustituirán por sus respectivos valores reales determinados a la fecha en que tenga lugar la transmisión o adquisición. A estos efectos, el sujeto pasivo estará obligado a formar un inventario del activo en dicha fecha y a facilitarlo a la Administración tributaria a requerimiento de esta.
+
+2.ª Tratándose de sociedades mercantiles, se entenderá obtenido dicho control cuando directa o indirectamente se alcance una participación en el capital social superior al 50 por ciento. A estos efectos se computarán también como participación del adquirente los valores de las demás entidades pertenecientes al mismo grupo de sociedades.
+
+3.ª En los casos de transmisión de valores a la propia sociedad tenedora de los inmuebles para su posterior amortización por ella, se entenderá a efectos fiscales que tiene lugar el supuesto de elusión definido en las letras a) o b) del apartado anterior. En este caso será sujeto pasivo el accionista que, como consecuencia de dichas operaciones, obtenga el control de la sociedad, en los términos antes indicados.
+
+4.ª En las transmisiones de valores que, conforme al apartado 2 anterior, estén sujetas al Impuesto sobre el Valor Añadido y no exentas, la base imponible se determinará en proporción al valor de mercado de los bienes que deban computarse como inmuebles. A este respecto, en los supuestos recogidos en la letra c) del apartado 2, la base imponible del impuesto será la parte proporcional del valor de mercado de los inmuebles que fueron aportados en su día correspondiente a las acciones o participaciones transmitidas.
+
+5.ª En las transmisiones de valores que, de acuerdo a lo expuesto en el apartado 2 anterior, deban tributar por la modalidad de transmisiones patrimoniales onerosas del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, para la práctica de la liquidación, se aplicarán los elementos de dicho impuesto a la parte proporcional del valor real de los inmuebles, calculado de acuerdo con las reglas contenidas en su normativa. A tal fin se tomará como base imponible:
+
+– En los supuestos a los que se refiere la letra a) del apartado 2 anterior, la parte proporcional sobre el valor real de la totalidad de las partidas del activo que, a los efectos de la aplicación de este precepto, deban computarse como inmuebles, que corresponda al porcentaje total de participación que se pase a tener en el momento de la obtención del control o, una vez obtenido, onerosa o lucrativamente, dicho control, al porcentaje en el que aumente la cuota de participación.
+
+– En los supuestos a los que se refiere la letra b) del apartado 2 anterior, para determinar la base imponible solo se tendrán en cuenta los inmuebles de aquellas cuyo activo esté integrado al menos en un 50 por ciento por inmuebles no afectos a actividades empresariales o profesionales.
+
+– En los supuestos a que se refiere la letra c) del apartado 2 anterior, la parte proporcional del valor real de los inmuebles que fueron aportados en su día correspondiente a las acciones o participaciones transmitidas.»

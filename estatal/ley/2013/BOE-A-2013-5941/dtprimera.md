@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Régimen de los contratos de arrendamiento celebrados con anterioridad a la entrada en vigor de esta Ley.
+
+Los contratos de arrendamiento sometidos a la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos, celebrados con anterioridad a la entrada en vigor de esta Ley, continuarán rigiéndose por lo establecido en el régimen jurídico que les era de aplicación.
+
+Sin perjuicio de ello, cuando las partes lo acuerden y no resulte contrario a las previsiones legales, los contratos preexistentes podrán adaptarse al régimen jurídico establecido en esta Ley.

@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación del Real Decreto 849/2017, de 22 de septiembre, por el que se establecen las bases reguladoras para la concesión de subvenciones al fomento del asociacionismo, a entidades asociativas representativas del sector pesquero.
+
+Se añade un nuevo apartado 8 bis al artículo 8 del Real Decreto 849/2017, de 22 de septiembre, por el que se establecen las bases reguladoras para la concesión de subvenciones al fomento del asociacionismo, a entidades asociativas representativas del sector pesquero, con la siguiente redacción:
+
+> «8 bis. En cualesquiera modelos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con el interesado, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN y las representaciones gráficas que se determinen y, en su caso, el de la Unión Europea, conforme al modelo que se establezca.»

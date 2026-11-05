@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Actualización de los datos identificativos de la persona de contacto.
+
+El registro y actualización de los datos identificativos de la persona de contacto de farmacovigilancia contemplado en el apartado 1 del artículo 14 se realizará por vía telemática una vez la Agencia Española de Medicamentos y Productos Sanitarios haga publica la habilitación de una aplicación para tal efecto. Hasta ese momento, los titulares de autorización de comercialización deberán comunicar estos datos a la Agencia Española de Medicamentos y Productos Sanitarios, y a los órganos competentes de las comunidades autónomas correspondientes.

@@ -1,0 +1,3 @@
+## Disposición adicional vigésima quinta. Personal laboral del Consejo Superior de Deportes.
+
+El Consejo Superior de Deportes, en el marco de las correspondientes relaciones de puestos de trabajo, podrá contratar personal con arreglo al derecho laboral para los puestos de dirección técnica relacionados con el deporte federado, deporte de alto rendimiento e investigación científico-deportiva, quedando incluidos estos puestos entre las excepciones contempladas en el artículo 15, c), de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, en la redacción dada por la Ley 23/1988, de 28 de julio.

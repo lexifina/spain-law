@@ -1,0 +1,3 @@
+## Disposición adicional primera. Ámbito de aplicación territorial de las modificaciones introducidas por los artículos tercero y cuarto en relación con el ejercicio de acciones por daños derivados de infracciones del Derecho de la competencia.
+
+Las disposiciones contenidas en los artículos tercero y cuarto este Real Decreto-ley serán de aplicación a los casos en que el ejercicio de las acciones de daños corresponda realizarlo en territorio español, con independencia de que la infracción del Derecho de la competencia hubiera sido declarada por la Comisión Europea o el Tribunal de Justicia de la Unión Europea o por una autoridad de la competencia u órgano jurisdiccional españoles o de otro Estado miembro de la Unión Europea.

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Exclusión del ámbito de la ley de los equipos, sistemas de armas, instalaciones y actividades de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad.
+
+Quedan excluidos del ámbito de aplicación de esta ley los equipos, sistemas de armas, instalaciones y actividades cuyo propósito sea la protección de los intereses esenciales de la Defensa Nacional y de la Seguridad Pública. No obstante, los Ministerios de Defensa y del Interior se esforzarán por garantizar que la actuación de las Fuerzas Armadas y de las Fuerzas y Cuerpos de Seguridad del Estado se lleve a cabo, en la medida de lo posible, de forma compatible con los objetivos de la ley.

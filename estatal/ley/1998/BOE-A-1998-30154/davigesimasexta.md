@@ -1,0 +1,7 @@
+## Disposición adicional vigésima sexta. Participación de las entidades locales en Tributos del Estado.
+
+Con cargo al crédito destinado al pago de la liquidación definitiva de la participación de los Ayuntamientos en los Tributos del Estado del año 1998, se podrá hacer efectivo un importe máximo de 3.000 millones de pesetas a los municipios a los que se les haya aplicado el esfuerzo fiscal mínimo previsto en las respectivas Leyes de Presupuestos Generales del Estado, por no presentar los certificados de datos relativos al esfuerzo fiscal para la realización de las liquidaciones definitivas de la participación en Tributos del Estado correspondientes a los ejercicios de 1994, 1995, 1996 y 1997, con pérdida en la cuantía de la participación sobre la que les hubiera correspondido de aplicarse el esfuerzo fiscal real correspondiente en cada año.
+
+La cuantía total antedicha se repartirá proporcionalmente a las pérdidas de los Ayuntamientos afectados en tales períodos, sin que, en ningún caso, la asignación de cada uno pueda sobrepasar el 80 por 100 de su pérdida. Para determinar el montante de la pérdida no se computarán, en ningún caso, intereses de demora.
+
+Los municipios con derecho a esta asignación deberán presentar los certificados de esfuerzo fiscal correspondientes en un plazo de tres meses a partir de la entrada en vigor de la presente Ley, en las mismas condiciones que figuran en las Leyes de Presupuestos Generales del Estado correspondientes a los años señalados anteriormente.

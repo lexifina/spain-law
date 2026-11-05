@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Gestión de créditos presupuestarios de la Dirección General de Política Comercial y Competitividad.
+
+A excepción de los gastos de personal, que se atendrán a lo previsto en la disposición transitoria primera, la gestión de los créditos de la Dirección General de Política Comercial y Competitividad y de las unidades adscritas a la misma se realizará con cargo a los mismos créditos presupuestarios que correspondían anteriormente a la Dirección General de Comercio Interior y a las unidades adscritas a la nueva dirección general, hasta que por el Ministerio de Hacienda y Función Pública se lleven a cabo las modificaciones presupuestarias precisas para el cumplimiento de lo previsto en este real decreto.

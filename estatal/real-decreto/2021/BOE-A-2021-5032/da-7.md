@@ -1,0 +1,5 @@
+## Disposición adicional séptima. Interoperabilidad de los registros electrónicos de apoderamientos.
+
+1. En aplicación de lo previsto en el artículo 6 de la Ley 39/2015, de 1 de octubre, y el Real Decreto 4/2010, de 8 de enero, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica, la Norma Técnica de Interoperabilidad establecerá el modelo de datos y las condiciones de interoperabilidad de los registros electrónicos de apoderamientos, abordando los aspectos funcionales y técnicos para la plena interoperabilidad de los registros electrónicos de apoderamientos pertenecientes a las Administraciones, así como la interconexión de estos a las sedes electrónicas, a los registros mercantiles, de la propiedad y a los protocolos notariales.
+
+2. En el ámbito de la Administración General del Estado, el cumplimiento de las previsiones del artículo 33.2 del Reglamento sobre el acceso al Registro Electrónico de Apoderamientos de la Administración General del Estado está vinculado a la aprobación y aplicación de la Norma Técnica a que se refiere el apartado 1 anterior.

@@ -1,0 +1,13 @@
+El Real Decreto 625/2014, de 18 de julio, por el que se regulan determinados aspectos de la gestión y control de los procesos por incapacidad temporal en los primeros trescientos sesenta y cinco días de su duración, ha venido a establecer una nueva regulación que incide en varias cuestiones de la gestión de la referida situación de incapacidad temporal. Dicha regulación responde, entre otras razones, a determinadas reformas legales introducidas en los últimos años en materia de incapacidad temporal, y al avance en los medios de coordinación de actuaciones entre las distintas entidades implicadas en su gestión.
+
+Las modificaciones introducidas por el Real Decreto 625/2014 han afectado, principalmente, a la expedición de los partes médicos de baja, de confirmación y de alta, de manera que, manteniendo el rigor en la constatación de la enfermedad o lesiones del trabajador y de su incidencia en su capacidad para realizar el trabajo, se ahorren trámites burocráticos y se adapte la emisión de los partes a la duración estimada de cada proceso. Para ello, se han establecido unos protocolos de temporalidad de los actos médicos de confirmación de la baja en función de la duración estimada del proceso, la cual será fijada por el facultativo correspondiente, a su criterio médico, contando a tal fin con unas tablas de duración óptima basadas en el diagnóstico, la ocupación y la edad del trabajador.
+
+Asimismo, el Real Decreto 625/2014 mejora los mecanismos de comunicación, coordinación y colaboración entre las distintas entidades que intervienen en la gestión de la incapacidad temporal, así como las posibilidades de control de la prestación, al objeto de aligerar los trámites y cargas existentes en la actualidad.
+
+La aplicación del citado real decreto requiere, de una parte, la puesta en práctica de diferentes mecanismos instrumentales, básicamente, de los nuevos modelos de partes médicos de baja/alta y de confirmación en los procesos de incapacidad temporal, siguiendo a tal efecto las previsiones contenidas en dicha norma y, de otra, el necesario desarrollo de determinados preceptos de la norma reglamentaria. A ello responde la presente orden ministerial.
+
+En el proceso de su tramitación, la orden ha sido sometida a consulta de las administraciones públicas implicadas y de los interlocutores sociales y también ha sido informada por el Ministerio de Sanidad, Servicios Sociales e Igualdad.
+
+La orden se dicta de conformidad con lo establecido en el artículo 5.2.b) del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, y en la disposición final séptima del Real Decreto 625/2014, de 18 de julio.
+
+En su virtud, en uso de las facultades conferidas, dispongo:

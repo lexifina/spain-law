@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Escala Superior del Cuerpo General de la Armada.
+
+Las Escalas que, de acuerdo con la disposición adicional sexta de la Ley, se integran en la Escala Superior del Cuerpo General de la Armada y cuyo proceso de integración de funciones se inició conforme a lo establecido en la Ley 7/1982, de 31 de marzo, por la que las funciones del Cuerpo de Máquinas de la Armada son asumidas por el Cuerpo General de la Armada, continuarán rigiéndose por el mismo procedimiento, integrándose por empleo y tiempo de servicios efectivos desde su acceso a la Escala de origen y ante igualdad de los mismos por la antigüedad en el empleo que ostenten.

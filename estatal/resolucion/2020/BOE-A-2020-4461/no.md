@@ -1,0 +1,1 @@
+Téngase en cuenta que las exenciones previstas en la presente Resolución serán de aplicación desde el día 13 de abril del 2020 hasta el día 31 de mayo del 2020, segun establece su apartado tercero, por lo que debe entenderse que ha perdido su vigencia.

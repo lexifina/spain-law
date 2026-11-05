@@ -1,0 +1,3 @@
+## Disposición adicional única. Trabajadores afectados por los planes de apoyo a los sectores afectados por los cambios estructurales en el comercio mundial.
+
+Las ayudas extraordinarias por una cuantía equivalente a la reposición de las prestaciones contributivas por desempleo previstas en los Acuerdos de Consejo de Ministros de 9 de junio de 2006, para el sector textil y de la confección; de 5 de octubre de 2007, para el sector de fabricación y componentes del calzado, curtido y marroquinería; y de 26 de diciembre de 2008, para los sectores textil, calzado, mueble, juguete, curtido, marroquinería y madera, se regirán por lo previsto en el artículo 4.3 de este real decreto a partir de su entrada en vigor.

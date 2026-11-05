@@ -1,0 +1,15 @@
+La Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, configura una nueva dimensión de la Administración periférica del Estado, al posibilitar la integración en las Delegaciones del Gobierno de todos los servicios territoriales de la Administración General del Estado y sus organismos públicos, salvo aquellos casos en que por las singularidades de sus funciones o por el volumen de gestión resulte aconsejable su dependencia directa de los órganos centrales correspondientes, en aras de una mayor eficacia en su actuación.
+
+El presente Real Decreto aborda la integración de los servicios periféricos del organismo autónomo, adscrito a la Subsecretaría del Ministerio de Economía y Hacienda, Parque Móvil del Estado (PME), en las Delegaciones del Gobierno, lo que supone un paso más hacia el cumplimiento del mandato legal contenido en la Ley 6/1997, y permite avanzar en el nuevo modelo de Administración periférica desde un punto de vista de racionalidad en la gestión y eficiencia en la asignación de los recursos públicos.
+
+En este sentido, el artículo 33 de la Ley de Organización y Funcionamiento de la Administración General del Estado dispone la integración de los servicios territoriales de la Administración General del Estado y sus organismos públicos en las Delegaciones y Subdelegaciones del Gobierno. Por ello, es necesario que los reducidos servicios que en la periferia presta el Parque Móvil del Estado, y que en la mayoría de los casos se limitan a los que realiza a los propios Delegados y Subdelegados del Gobierno, hasta ahora dependientes del Ministerio de Economía y Hacienda, pasen a integrarse en el Ministerio de Administraciones Públicas, a través de las Delegaciones del Gobierno.
+
+El Tribunal de Cuentas, en el informe de fiscalización del extinto Parque Móvil Ministerial, referido al ejercicio de 1994, recomienda la realización de una profunda remodelación estructural del organismo, debiendo contemplarse también la supresión de los parques provinciales.
+
+Así, la reciente aprobación del Real Decreto 146/1999, de 29 de enero, por el que se modifica la estructura orgánica básica y funciones, y se transforma el organismo autónomo Parque Móvil Ministerial en Parque Móvil del Estado, ha previsto en su disposición final primera la integración de los servicios periféricos del organismo en las Delegaciones y Subdelegaciones del Gobierno.
+
+Por último, el Real Decreto establece las reglas precisas para la incorporación gradual al Ministerio de Administraciones Públicas de los recursos humanos y medios presupuestarios y materiales, a través de resoluciones conjuntas de los Subsecretarios de Administraciones Públicas y de Economía y Hacienda, a propuesta del Director general del Parque Móvil del Estado.
+
+En su virtud, a propuesta del Ministro de Administraciones Públicas, de acuerdo con el Ministro de Economía y Hacienda y con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de julio de 1999,
+
+DISPONGO:

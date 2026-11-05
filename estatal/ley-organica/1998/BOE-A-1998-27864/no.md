@@ -1,0 +1,1 @@
+Norma derogada, desde el 5 de marzo de 2015, por la disposición derogatoria única de la Ley Orgánica 8/2014, de 4 de diciembre. Ref. BOE-A-2014-12652#ddunica. Ténganse en cuenta las disposiciones transitorias 1 y 2 de la citada ley, en cuanto a las faltas cometidas antes de la entrada en vigor de la misma y a la revisión de sanciones no cumplidas.

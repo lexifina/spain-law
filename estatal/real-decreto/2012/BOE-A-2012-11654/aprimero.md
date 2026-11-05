@@ -1,0 +1,7 @@
+## Primero. Aprobación del Plan Hidrológico de la Demarcación Hidrográfica de las Cuencas Mediterráneas Andaluzas.
+
+1. De acuerdo con lo dispuesto en el artículo 40.6 del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, se aprueba el Plan Hidrológico de la Demarcación Hidrográfica de las Cuencas Mediterráneas Andaluzas, con el contenido aprobado inicialmente el 2 de noviembre de 2011 por el Consejo de Gobierno de la Junta de Andalucía.
+
+2. El ámbito territorial de aplicación del Plan coincide exclusivamente con el de la Demarcación Hidrográfica de las Cuencas Mediterráneas Andaluzas, definida en el artículo 3.1 del Decreto 357/2009, de 20 de octubre, por el que se fija el ámbito territorial de las demarcaciones hidrográficas de las cuencas intracomunitarias situadas en Andalucía.
+
+3. Esta aprobación no modifica el régimen de los acuíferos compartidos con otras demarcaciones, que se atendrán a lo determinado en los artículos 7 y 8 de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional y a lo que se determine en el futuro Plan Hidrológico Nacional; ni tampoco el régimen legal de las transferencias con origen o destino en esta demarcación (Acueducto Tajo-Segura, Ley 21/1971, de 19 de junio, y Ley 52/1980, de 16 de octubre; Transferencia desde el embalse del Negratín al de Cuevas de Almanzora, Ley 55/1999, de 29 de diciembre; y Transferencia del Río Guadiaro al Majaceite, Ley 17/1995, de 1 de junio).

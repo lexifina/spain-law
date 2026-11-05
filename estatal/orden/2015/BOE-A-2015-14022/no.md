@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Orden ECD/2784/2015, de 18 de diciembre, por la que se regula el reconocimiento del coste de una película", según establece el art. 1.1 de la Orden CUD/553/2023, de 31 de mayo. Ref. BOE-A-2023-13188

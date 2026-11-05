@@ -1,0 +1,3 @@
+## Tercero.
+
+La remisión de los ficheros correspondientes, que irán firmados electrónicamente por la Dirección General del Catastro, se realizará mediante la puesta a disposición del fichero del padrón catastral a través de su sede electrónica (https//:www.sedecatastro.gob.es). El sistema garantizará la autenticidad, integridad, confidencialidad y no repudio de los envíos. A tal efecto, los Ayuntamientos o las entidades que ejerzan la gestión tributaria del Impuesto sobre Bienes Inmuebles deberán estar registrados en la citada sede electrónica, disponer de una dirección de correo electrónico destinada a tal fin y acceso a Internet.

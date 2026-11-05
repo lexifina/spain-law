@@ -1,0 +1,5 @@
+## Disposición transitoria única. Ayudas concedidas antes de la entrada en vigor de este real decreto.
+
+1. Las ayudas «de minimis» concedidas en el año fiscal en el que entre en vigor el presente real decreto y en los dos años inmediatamente anteriores, deberán ser dadas de alta en el REAMPesca por la autoridad competente en un plazo máximo de seis meses desde la entrada en vigor de este real decreto.
+
+2. A efectos de garantizar el límite del importe acumulativo establecido en el artículo 3.4 del Reglamento 875/2007 de la Comisión, de 24 de julio de 2007, las Administraciones Públicas y demás organismos del sector público español remitirán a la Secretaria General del Mar, en un plazo máximo de cuatro meses desde la entrada en vigor del presente real decreto, la información resumida de todos los regímenes de ayudas «de minimis» o ayudas individuales otorgados a las empresas del sector pesquero desde el 1 de enero de 2005 hasta la entrada en vigor de este real decreto. La información a facilitar será la contemplada en el artículo 3.4.

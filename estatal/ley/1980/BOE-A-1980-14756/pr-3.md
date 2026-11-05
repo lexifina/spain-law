@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+Las solicitudes de pensión formuladas al amparo del Real Decreto seiscientos setenta/mil novecientos setenta y seis, de cinco de marzo, del Real Decreto-ley cuarenta y tres/mil novecientos setenta y ocho y Real Decreto-ley cuarenta y seis/mil novecientos setenta y ocho, de veintiuno de diciembre, se tramitarán y resolverán con sujeción a lo en ellas establecido teniendo, en consecuencia, los mismos efectos económicos que en dichas disposiciones se regulaban, y las peticiones en que recaiga acuerdo de reconocimiento de pensión se adaptarán a lo dispuesto en esta Ley desde la fecha en que la misma cause efectos económicos, de acuerdo con el artículo diez.

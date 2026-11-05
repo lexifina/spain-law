@@ -1,0 +1,1 @@
+Téngase en cuenta que, por Resolución de 21 de junio de 2021, se publican las actualizaciones de las Directrices operativas para la gestión de pasajeros aéreos y personal de aviación con relación a la pandemia Covid-19, con efectos de 3 de julio de 2021, Ref. BOE-A-2021-10959, por lo que la presente Resolución debe entenderse implícitamente derogada.

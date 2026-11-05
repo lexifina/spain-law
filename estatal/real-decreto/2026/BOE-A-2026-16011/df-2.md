@@ -1,0 +1,7 @@
+## Disposición final segunda. Incorporación de normas del Derecho de la Unión Europea.
+
+1. Mediante este real decreto se incorpora parcialmente al ordenamiento jurídico nacional la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, relativa al fomento del uso de energía procedente de fuentes renovables modificada por la Directiva (UE) 2023/2413 del Parlamento Europeo y del Consejo, de 18 de octubre de 2023, por la que se modifican la Directiva (UE) 2018/2001, el Reglamento (UE) 2018/1999 y la Directiva 98/70/CE en lo que respecta a la promoción de la energía procedente de fuentes renovables y se deroga la Directiva (UE) 2015/652 del Consejo.
+
+2. Asimismo, se transpone la Directiva Delegada (UE) 2024/1405 de la Comisión de 14 de marzo de 2024 por la que se modifica el anexo IX de la Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo en lo que respecta a la adición de materias primas para la producción de biocarburantes y biogás. El anexo I incluye las materias primas para la producción de biocarburantes y biogás.
+
+3. Por último, se transpone el artículo 9 de la Directiva (UE) 2024/1788 del Parlamento Europeo y del Consejo de 13 de junio de 2024 relativa a normas comunes para los mercados interiores del gas renovable, del gas natural y del hidrógeno, por la que se modifica la Directiva (UE) 2023/1791 y se deroga la Directiva 2009/73/CE relativo a la certificación de gas renovable y combustibles hipocarbónicos.

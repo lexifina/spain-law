@@ -1,0 +1,27 @@
+## Artículo 231.
+
+1. En todas las actuaciones judiciales, los Jueces, Magistrados, Fiscales, Secretarios y demás funcionarios de Juzgados y Tribunales usarán el castellano, lengua oficial del Estado.
+
+2. Los Jueces, Magistrados, Fiscales, Secretarios y demás funcionarios de Juzgados y Tribunales podrán usar también la lengua oficial propia de la Comunidad Autónoma, si ninguna de las partes se opusiere, alegando desconocimiento de ella que pudiere producir indefensión.
+
+3. Las partes, sus representantes y quienes les dirijan, así como los testigos y peritos, podrán utilizar la lengua que sea también oficial en la Comunidad Autónoma en cuyo territorio tengan lugar las actuaciones judiciales, tanto en manifestaciones orales como escritas.
+
+4. Las actuaciones judiciales realizadas y los documentos presentados en el idioma oficial de una Comunidad Autónoma tendrán, sin necesidad de traducción al castellano, plena validez y eficacia. De oficio se procederá a su traducción cuando deban surtir efecto fuera de la jurisdicción de los órganos judiciales sitos en la Comunidad Autónoma, salvo si se trata de Comunidades Autónomas con lengua oficial propia coincidente. También se procederá a su traducción cuando así lo dispongan las leyes o a instancia de parte que alegue indefensión.
+
+5. La habilitación como intérprete en las actuaciones orales o en lengua de signos se realizará de conformidad con lo dispuesto en la ley procesal aplicable.
+
+> Téngase en cuenta que esta última actualización del apartado 5 entra en vigor el 28 de octubre de 2015, conforme a la disposición final 4 de la Ley Orgánica 5/2015, de 27 de abril. Ref. BOE-A-2015-4605.
+
+> Redacción anterior:
+
+> 5. En las actuaciones orales se podrá habilitar como intérprete a cualquier persona conocedora de la lengua empleada, previo juramento o promesa de aquélla.
+
+> Se modifica el apartado 5 por el art. 3 de la Ley Orgánica 5/2015, de 27 de abril. Ref. BOE-A-2015-4605.
+
+> Se modifica el apartado 5 por el art. 1.4 de la Ley Orgánica 1/2009, de 3 de noviembre. Ref. BOE-A-2009-17492.
+
+> Se declara que el apartado 4 no es inconstitucional, en la redacción dada por la Ley Orgánica 16/1984, de 8 de noviembre, interpretado en el sentido indicado en el fundamento jurídico 12 de la Sentencia 105/2000, de 13 de abril. Ref. BOE-T-2000-9230.
+
+> Se modifica el apartado 4 por el art. 8.3 de la Ley Orgánica 16/1994, de 8 de noviembre. Ref. BOE-A-1994-24612
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 264, de 4 de noviembre de 1985. Ref. BOE-A-1985-22752

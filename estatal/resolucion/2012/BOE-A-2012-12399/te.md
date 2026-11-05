@@ -1,0 +1,3 @@
+## Tercero. Cuentas justificativas con justificantes electrónicos y en papel.
+
+Cuando la cuenta justificativa comprenda tanto justificantes electrónicos como en papel, se procederá de acuerdo con lo dispuesto en el apartado quinto, subapartado 1, segundo párrafo, de la Resolución de 28 de noviembre de 2005, de la Intervención General de la Administración del Estado, por la que se aprueba la aplicación IRIS. En este caso la enumeración de todos los justificantes con indicación del soporte, electrónico o papel, en el que se remita cada uno de ellos se realizará a través de la propia relación de justificantes generada en soporte electrónico como se indica en el apartado segundo.

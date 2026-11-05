@@ -1,0 +1,3 @@
+## Disposición adicional novena. Destino del superávit de las entidades locales correspondiente a 2014.
+
+En relación con el destino del superávit presupuestario de las entidades locales correspondiente al año 2014 se prorroga para 2015 la aplicación de las reglas contenidas en la disposición adicional sexta de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera, para lo que se deberá tener en cuenta la disposición adicional decimosexta del texto refundido de la Ley reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo.

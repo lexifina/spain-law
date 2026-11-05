@@ -1,0 +1,7 @@
+## Artículo 11 bis. Reconocimiento de la condición de trabajador autónomo económicamente dependiente.
+
+El trabajador autónomo que reúna las condiciones establecidas en el artículo anterior podrá solicitar a su cliente la formalización de un contrato de trabajador autónomo económicamente dependiente a través de una comunicación fehaciente. En el caso de que el cliente se niegue a la formalización del contrato o cuando transcurrido un mes desde la comunicación no se haya formalizado dicho contrato, el trabajador autónomo podrá solicitar el reconocimiento de la condición de trabajador autónomo económicamente dependiente ante los órganos jurisdiccionales del orden social. Todo ello sin perjuicio de lo establecido en el apartado 3 del artículo 12 de la presente Ley.
+
+En el caso de que el órgano jurisdiccional del orden social reconozca la condición de trabajador autónomo económicamente dependiente al entenderse cumplidas las condiciones recogidas en el artículo 11 apartados 1 y 2, el trabajador solo podrá ser considerado como tal desde el momento en que se hubiere recibido por el cliente la comunicación mencionada en el párrafo anterior. El reconocimiento judicial de la condición de trabajador autónomo económicamente dependiente no tendrá ningún efecto sobre la relación contractual entre las partes anterior al momento de dicha comunicación.
+
+> Se añade por la disposición final 2.1 de la Ley 36/2011, de 10 de octubre. Ref. BOE-A-2011-15936.

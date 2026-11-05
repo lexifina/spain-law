@@ -1,0 +1,1 @@
+Madrid, 20 de julio de 2016.–El Ministro de Industria, Energía y Turismo, P.S. (Real Decreto 160/2016, de 15 de abril), el Ministro de Economía y Competitividad, P.S. (Real Decreto 290/2016, de 13 de julio), la Vicepresidenta del Gobierno y Ministra de la Presidencia, Soraya Sáenz de Santamaría Antón.

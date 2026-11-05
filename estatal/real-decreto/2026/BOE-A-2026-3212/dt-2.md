@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Depósitos de garantías.
+
+1. En el plazo máximo de cuatro meses desde la entrada en vigor de este real decreto, los distribuidores procederán a la devolución íntegra de las garantías que hubieran sido depositadas por los consumidores antes de la entrada en vigor del mismo. Para ello, podrán prorratear la cuantía a devolver entre los diferentes ciclos de facturación comprendidos en este plazo máximo, indicando expresamente en cada factura el concepto que corresponde a la devolución de tal garantía.
+
+En aquellos casos en que el distribuidor no disponga de la información necesaria para proceder a la devolución de las garantías a que se hace referencia en el párrafo anterior, dicha devolución se llevará a cabo a través del comercializador vigente de energía eléctrica, quien tendrá la obligación de trasladar dicha devolución a los consumidores finales de energía eléctrica. Dicho traslado deberá realizarse coincidiendo con el siguiente ciclo de facturación posterior a la devolución realizada por el distribuidor, indicando expresamente en cada factura el concepto que corresponde a la devolución de tal garantía.
+
+2. En los términos que se establezcan en la orden ministerial a la que hace referencia el artículo 36 del Reglamento general de suministro, comercialización y agregación de energía eléctrica, el operador del sistema solicitará a los comercializadores y consumidores directos en mercado las garantías que correspondan.

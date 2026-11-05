@@ -1,0 +1,19 @@
+El Reglamento (CE) n.º 504/2008 de la Comisión, de 6 de junio de 2008, por el que se aplican las Directivas 90/426/CEE y 90/427/CEE por lo que se refiere a los métodos de identificación de los équidos, ha sido derogado por el Reglamento de Ejecución (UE) n.º 2015/262 de la Comisión, de 17 de febrero de 2015, que establece normas con arreglo a las Directivas 90/427/CEE y 2009/156/CE del Consejo, por lo que respecta a los métodos de identificación de los équidos (Reglamento del pasaporte equino).
+
+El Reino de España aprobó, para ejecutar el mencionado Reglamento (CE) n.º 504/2008 de la Comisión, de 6 de junio de 2008, el Real Decreto 1515/2009, de 2 de octubre, por el que se establece un sistema de identificación y registro de los animales de la especie equina. Sin perjuicio de la aplicabilidad y eficacia directas del Reglamento de Ejecución (UE) n.º 2015/262 de la Comisión, de 17 de febrero de 2015, con la finalidad de adaptar nuestra normativa a las modificaciones del nuevo Reglamento, y eliminar disposiciones del Real Decreto 1515/2009, de 2 de octubre, que han quedado obsoletas, en aras de una mayor racionalidad y claridad, es preciso proceder a la aprobación de un nuevo real decreto para regular el sistema de identificación y registro de los animales de las especies equina, que substituya al citado Real Decreto 1515/2009, de 2 de octubre.
+
+Por lo demás, debe destacarse a este respecto que cuando en este real decreto se cita al titular, se refiere a la persona titular del équido, que, aunque puede coincidir con el titular de la explotación en que radica el animal, no lo será en todos los casos.
+
+Asimismo, con este real decreto se modifica el Real Decreto 804/2011, de 10 de junio, por el que se regula la ordenación zootécnica, sanitaria y de bienestar animal de las explotaciones equinas y se establece el plan sanitario equino, de manera que se suprime el concepto de propietario del animal, siendo en todos los casos de aplicación el concepto de titular del animal, dado que es una norma de derecho administrativo y no de derecho privado, y se abre una vía fácil para el cambio rápido de titularidad de los animales abandonados, sin perjuicio de lo previsto en las normativas dictadas al respecto por las comunidades autónomas.
+
+Sin interferir con lo anteriormente expuesto, se mantiene el Registro General de identificación individual de los équidos creado por el citado Real Decreto 1515/2009, de 2 de octubre, adscrito a la Dirección General de Sanidad de la Producción Agraria del Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente, que incluye los datos obrantes en los registros de las autoridades competentes, que se establecen para los animales equinos en el anexo IV de este real decreto. Dicho Registro continúa integrado en el Registro general de Identificación Individual Animal (RIIA) contemplado en el Real Decreto 728/2007, de 13 de junio, por el que se establece y regula el Registro general de movimientos de ganado y el Registro general de identificación individual de animales.
+
+Dada la modificación que ha sufrido la gestión de la identificación electrónica debido a los avances que ésta ha experimentado, las competencias del Comité Español de Identificación Electrónica de los animales han quedado obsoletas, por lo que es preciso proceder a su supresión.
+
+En la elaboración de esta disposición se ha consultado a las comunidades autónomas y ciudades de Ceuta y Melilla, y a las entidades representativas del sector.
+
+Este real decreto se dicta en virtud de la habilitación contenida en la disposición final quinta de la Ley 8/2003, de 24 de abril, de Sanidad Animal.
+
+En su virtud, a propuesta de la Ministra de Agricultura y Pesca, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 16 de diciembre de 2016,
+
+DISPONGO:

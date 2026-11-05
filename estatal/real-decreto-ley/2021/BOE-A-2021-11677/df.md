@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149. 2, que dispone que, sin perjuicio de las competencias que podrán asumir las comunidades autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial; y además por los títulos competenciales contemplados en los artículos 149.1.13.ª, 18.ª y 28.ª de la Constitución Española, que atribuyen al Estado la competencia exclusiva sobre las bases y coordinación de la planificación general de la actividad económica; legislación básica sobre contratos; y defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación.

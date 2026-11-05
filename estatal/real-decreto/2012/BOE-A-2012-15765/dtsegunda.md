@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Jubilaciones ordinarias procedentes de jubilaciones parciales.
+
+Será de aplicación la regulación de la pensión de jubilación vigente antes de la entrada en vigor de la Ley 27/2011, de 1 de agosto, a quienes soliciten una jubilación ordinaria, aunque esta sea causada con posterioridad al 1 de enero de 2013, y proceda de una jubilación parcial a la que hayan accedido con anterioridad al 2 de agosto de 2011, así como a las personas incorporadas antes de esta fecha a planes de jubilación parcial, recogidos en convenios colectivos de cualquier ámbito o acuerdos colectivos de empresas, con independencia de que el acceso a la jubilación parcial se haya producido con anterioridad o con posterioridad al 1 de enero de 2013.
+
+En tal caso, cuando el jubilado parcial acceda a la jubilación ordinaria después del cumplimiento de los 65 años, durante el tiempo transcurrido desde ese momento hasta la fecha del hecho causante de la jubilación plena, no existirá obligación por parte del empresario de mantener el contrato de relevo con un tercero.

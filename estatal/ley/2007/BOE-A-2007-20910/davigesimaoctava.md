@@ -1,0 +1,3 @@
+## Disposición adicional vigésima octava. Complemento para vivienda.
+
+El Gobierno establecerá un complemento para vivienda, aplicable a las pensiones no contributivas de pensionistas que vivan solos y que, por carecer de vivienda habitual propia, deban pagar en régimen de alquiler su residencia habitual, en los términos que establezca la Ley de Presupuestos Generales del Estado y sean desarrollados reglamentariamente. Estos complementos alcanzarán, en el plazo de cinco años, la cuantía necesaria para permitir que dichos pensionistas alcancen en renta disponible una situación equivalente a la que resulta por el Indicador Público de Renta de Efectos Múltiples.

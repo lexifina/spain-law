@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 1 de julio de 2025, por la disposición derogatoria única de la Circular 2/2025, de 9 de abril de 2025, excepto los arts. 30 y 32 que tendrán una vigencia transitoria en la forma establecida por su disposición transitoria 7 y su disposición final única. Ref. BOE-A-2025-7661#dd

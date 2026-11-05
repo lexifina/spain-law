@@ -1,0 +1,17 @@
+## Disposición adicional segunda. Designación de la Entidad Responsable del Sistema de garantías de origen para gases renovables e hipocarbónicos.
+
+1. Se designa al Gestor Técnico del Sistema gasista como Entidad Responsable del Sistema de garantías de origen para gases renovables e hipocarbónicos, mientras el Ministerio para la Transición Ecológica y el Reto Demográfico no disponga de los medios humanos y materiales para ejercer sus funciones. Esta designación implicará la asunción de la totalidad de las acciones y funciones que se establecen para dicha entidad en el título VI.
+
+2. El ejercicio, por parte del Gestor Técnico del Sistema gasista, de las funciones de Entidad Responsable del Sistema de garantías de origen para gases renovables e hipocarbónicos se ajustará a los principios de transparencia, objetividad e independencia consignados en el artículo 64.1 de la Ley 34/1998, de 7 de octubre.
+
+3. El Gestor Técnico del Sistema como Entidad Responsable, presentará a la Secretaría de Estado de Energía una propuesta de modificación del Procedimiento de gestión, establecido por Orden TED/1026/2022, de 28 de octubre, por la que se aprueba el procedimiento de gestión del Sistema de garantías de origen del gas procedente de fuentes renovables, incluyendo los elementos de la auditoría simplificada para los agentes que cumplan con las condiciones del artículo 43.
+
+4. Una vez se apruebe la modificación del Procedimiento de gestión adoptada mediante orden ministerial de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico, el Gestor Técnico del Sistema como Entidad Responsable deberá poner en funcionamiento el Sistema de garantías de origen para gases renovables e hipocarbónicos, así como el Registro de instalaciones de producción de gases renovables e hipocarbónicos.
+
+5. El Gestor Técnico del Sistema presentará anualmente ante el Ministerio para la Transición Ecológica y el Reto Demográfico un informe de cumplimiento de la actividad de expedición de garantías de origen para gases renovables e hipocarbónicos. Este informe deberá demostrar el cumplimiento de los principios a los que se hace referencia en el apartado 2.
+
+6. La función atribuida al Gestor Técnico del Sistema como Entidad Responsable del Sistema de garantías de origen para gases renovables e hipocarbónicos será retribuida conforme a la Circular 1/2020, de 9 de enero, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología de retribución del Gestor Técnico del sistema gasista.
+
+7. El Gestor Técnico del Sistema en calidad de Entidad Responsable del Sistema de garantías de origen para gases renovables e hipocarbónicos dará pleno acceso al Ministerio para la Transición Ecológica y el Reto Demográfico, a la Comisión Nacional de los Mercados y la Competencia y a la Corporación de Reservas Estratégicas de Productos Petrolíferos tanto al Registro de instalaciones de producción para gases renovables e hipocarbónicos como al Sistema de garantías de origen para gases renovables e hipocarbónicos.
+
+8. Por orden de la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico se podrá asumir de nuevo la gestión del Sistema de garantías de origen, una vez se disponga de los medios humanos y materiales para ello. En este caso, se podrá solicitar a la entonces Entidad Responsable, la cesión de los recursos informáticos necesarios para llevar a cabo las funciones correspondientes.

@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Escala Superior del Cuerpo General del Ejército del Aire.
+
+El personal del Ejército del Aire que, en virtud de la Ley, deba integrarse en la Escala Superior del Cuerpo General y que en su momento formó parte de una Escala única, volverá a escalafonarse en el orden que tenía en aquélla, excepto cuando dicho orden hubiese sido modificado por adelanto de puestos en el escalafón por ascensos según la normativa anterior, o por concurrir en el interesado alguna limitación personal para el ascenso, o sea consecuencia de haber permanecido en situaciones militares de las que se deriven pérdida de puestos en el escalafón, en cuyo caso se escalafonarán en el puesto que les corresponda, de acuerdo con su posición en la Escala de origen.

@@ -1,0 +1,3 @@
+## Segundo. Supuestos de uso de la nueva configuración de Imagen Institucional «Gobierno de España».
+
+La nueva configuración creada por la presente Resolución será utilizada en las campañas de publicidad, comunicación y difusión de acciones institucionales, así como en aquellas otras actuaciones administrativas de especial relevancia que se estimen oportunas, incluyendo las páginas web correspondientes. Su utilización se realizará de conformidad con las normas que, en lo relativo a soportes, formatos y estructura, se recogen en el «Manual de Imagen Institucional de la Administración General del Estado» y en la «Guía para edición y publicación de páginas web en la Administración General del Estado».

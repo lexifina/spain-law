@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Aplicación gradual de la penalización para procurar la prudencia financiera.
+
+La penalización establecida en el artículo 19 no será aplicable hasta el cuarto año del primer periodo de aplicación de la metodología, a efectos de posibilitar la adaptación de las empresas a los rangos de valores recomendables.

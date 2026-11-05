@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Entidades financieras y otro tipo de sociedades.
+
+Este real decreto será de aplicación a las entidades y sociedades previstas en el artículo 1.2.b), c) y d) de la Ley 11/2015, de 18 de junio, en la medida necesaria para hacer plenamente efectivos los objetivos y principios de resolución previstos en los artículos 3 y 4 de dicha ley, y dar estricto cumplimiento a lo previsto en la Directiva 2014/59/UE, de 15 de mayo de 2014. En particular, les será de aplicación lo dispuesto en los artículos 4 a 10, 11, 13, 15, 26, 27, 28, capítulo V, 44, 45, 46, 47, 54, 55, 62, 63, 68 de este real decreto sin perjuicio de aquellos otros preceptos del real decreto cuya literalidad comprenda o exija su aplicación a estas entidades y sociedades.

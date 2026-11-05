@@ -1,0 +1,9 @@
+## Disposición final séptima. Modificación del Real Decreto 70/2019, de 15 de febrero, por el que se modifican el Reglamento de la Ley de Ordenación de los Transportes Terrestres y otras normas reglamentarias en materia de formación de los conductores de los vehículos de transporte por carretera, de documentos de control en relación con los transportes por carretera, de transporte sanitario por carretera, de transporte de mercancías peligrosas y del Comité Nacional del Transporte por Carretera.
+
+Se modifica la disposición transitoria quinta del Real Decreto 70/2019, de 15 de febrero, por el que se modifican el Reglamento de la Ley de Ordenación de los Transportes Terrestres y otras normas reglamentarias en materia de formación de los conductores de los vehículos de transporte por carretera, de documentos de control en relación con los transportes por carretera, de transporte sanitario por carretera, de transporte de mercancías peligrosas y del Comité Nacional del Transporte por Carretera, con la siguiente redacción:
+
+«Disposición transitoria quinta. Régimen de obtención del certificado de competencia profesional para el transporte por carretera.
+
+Lo dispuesto en los apartados 3, 5, 6, 7, 8, 9 y 10 del anexo II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, no será de aplicación hasta el 1 de enero de 2022.
+
+Hasta entonces, se continuarán aplicando en la realización de los exámenes para la obtención del certificado de competencia profesional para el transporte por carretera las reglas contenidas en los artículos 4, 5, 6, 7, 8, 9, 10, 11, 12 y 13 y en el anexo B) de la Orden ministerial de 28 de mayo de 1999, por la que se desarrolla el capítulo I del título II del Reglamento de la Ley de Ordenación de los Transportes Terrestres, en materia de expedición de certificados de capacitación profesional.»

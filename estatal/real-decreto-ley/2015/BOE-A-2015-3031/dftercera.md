@@ -1,0 +1,37 @@
+## Disposición final tercera. Modificación de la Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo.
+
+La Ley 20/2007, de 11 de julio, del Estatuto del trabajo autónomo, queda modificada en los siguientes términos:
+
+Uno. El artículo 21 queda redactado como sigue:
+
+«Artículo 21. Determinación de la representatividad de las asociaciones de trabajadores autónomos.
+
+1. Sin perjuicio de la representación que ostentan de sus afiliados y a los efectos de lo previsto en este artículo y el siguiente, tendrán la consideración de asociaciones profesionales representativas de los trabajadores autónomos a nivel estatal, aquéllas que, inscritas en el Registro Estatal de Asociaciones Profesionales de Trabajadores Autónomos, demuestren una suficiente implantación en el ámbito nacional.
+
+2. La suficiente implantación a nivel estatal se reconocerá teniendo en cuenta el número de trabajadores autónomos afiliados, así como la dimensión de su estructura, reflejada en los recursos humanos contratados por la asociación y su implantación en el territorio.
+
+Será necesario acreditar un nivel de afiliación de los cotizantes al Régimen Especial de Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos en los términos que reglamentariamente se determinen, y disponer de sedes y recursos humanos en, al menos, tres comunidades autónomas, todo ello en el año natural anterior al de la solicitud de la acreditación.
+
+La documentación acreditativa del cumplimiento de los requisitos exigidos se deberá presentar en el Registro Estatal de Asociaciones Profesionales de Trabajadores Autónomos en los términos que reglamentariamente se determinen.
+
+3. Las asociaciones representativas de los trabajadores autónomos intersectoriales a nivel estatal y, además, las organizaciones empresariales y sindicales más representativas, gozarán de una posición jurídica singular, que les otorga capacidad jurídica para actuar en representación de los trabajadores autónomos a todos los niveles territoriales para:
+
+a) Ostentar representación institucional ante las Administraciones Públicas u otras entidades u organismos de carácter estatal o de comunidad autónoma que la tengan prevista.
+
+b) Ser consultadas cuando las Administraciones Públicas diseñen las políticas públicas que incidan sobre el trabajo autónomo.
+
+c) Colaborar en el diseño de programas públicos dirigidos a los trabajadores autónomos en los términos previstos legalmente.
+
+d) Cualquier otra función que se establezca legal o reglamentariamente.
+
+4. La suficiente implantación a nivel autonómico se reconocerá teniendo en cuenta los mismos criterios que para el reconocimiento de la representatividad a nivel estatal, en los términos establecidos en el apartado 2.
+
+Las Asociaciones profesionales de Trabajadores Autónomos que tengan la consideración de representativas a nivel autonómico gozarán de capacidad para ejercer, en el ámbito específico de la comunidad autónoma, las funciones previstas en el apartado 3.»
+
+Dos. La disposición adicional duodécima queda redactada como sigue:
+
+«Disposición adicional duodécima. Participación de trabajadores autónomos en programas de formación e información de prevención de riesgos laborales.
+
+Con la finalidad de reducir la siniestralidad y evitar la aparición de enfermedades profesionales en los respectivos sectores, las asociaciones representativas de los trabajadores autónomos intersectoriales y las organizaciones sindicales y empresariales más representativas podrán realizar programas permanentes de información y formación correspondientes a dicho colectivo, promovidos por las Administraciones Públicas competentes en materia de prevención de riesgos laborales y de reparación de las consecuencias de los accidentes de trabajo y las enfermedades profesionales.»
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 91, de 16 de abril de 2015. Ref. BOE-A-2015-4092.

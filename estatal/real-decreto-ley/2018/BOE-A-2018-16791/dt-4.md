@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Convocatoria del Programa de Becas ICEX de Internacionalización para el año 2019.
+
+Lo previsto en la disposición adicional vigésima sexta de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, no resultará de aplicación a la convocatoria de las becas de Internacionalización Empresarial de ICEX correspondiente al ejercicio 2019. Durante dicho ejercicio deberá adaptarse la normativa reguladora de las mencionadas becas a lo dispuesto en la Ley 38/2003, de 17 de noviembre, con el fin de que la normativa de subvenciones resulte de aplicación a las becas convocadas en 2020.

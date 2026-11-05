@@ -1,0 +1,3 @@
+## Segundo. Requisitos de seguridad en los procedimientos.
+
+Los procedimientos que se regulan en los siguientes apartados se deberán ajustar a los requisitos que, para la transmisión y recepción de comunicaciones a través de medios y aplicaciones informáticas, telemáticas y electrónicas, se establecen en la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal; en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común; en la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos; en la vigente normativa sobre firma electrónica; así como en cualquier otra disposición que se dicte en desarrollo de dichas normas.

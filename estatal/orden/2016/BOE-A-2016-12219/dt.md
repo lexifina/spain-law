@@ -1,0 +1,5 @@
+## Disposición transitoria única. Acceso a la Universidad para el alumnado que inició los estudios de Bachillerato conforme al sistema educativo anterior.
+
+En el curso 2016-2017, y en función de lo dispuesto por las administraciones educativas, el alumnado que se incorpore a un curso de Bachillerato del sistema educativo definido por la Ley Orgánica 8/2013, de 9 de diciembre, con materias no superadas de Bachillerato del currículo anterior a su implantación y curse dichas materias según el currículo del sistema educativo anterior, no necesitará superar la evaluación de Bachillerato regulada en la presente orden para acceder a los estudios universitarios oficiales de grado. Se aplicará el mismo criterio al alumnado que obtuvo el título de Bachiller en el curso 2015-2016 y no accedió a la Universidad al finalizar dicho curso.
+
+En ambos casos, y cuando este alumnado no se presente a la prueba, la calificación para el acceso a estudios universitarios oficiales de grado será la calificación final obtenida en Bachillerato.

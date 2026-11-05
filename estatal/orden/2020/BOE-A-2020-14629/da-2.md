@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Normativa aplicable.
+
+En todo lo no previsto en esta orden o en las respectivas convocatorias será de aplicación lo establecido en la Ley 38/2003, de 17 de noviembre, y en su Reglamento de desarrollo aprobado por el Real Decreto 887/2006, de 21 de julio, así como en la Ley 39/2015, de 1 de octubre, en la Ley 40/2015, de 1 de octubre, en la Ley 47/2003, de 26 de noviembre, General Presupuestaria y en el Reglamento de desarrollo parcial de la Ley 11/2007, de 22 de junio, aprobado por Real Decreto 1671/2009, de 6 de noviembre y demás disposiciones que resulten de aplicación.

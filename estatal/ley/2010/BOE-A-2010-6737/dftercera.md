@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva.
+
+Se da nueva redacción al párrafo j) del artículo 43.1 de la Ley 35/2003, de 4 de noviembre, de Instituciones de Inversión Colectiva, con el siguiente tenor literal:
+
+«j) Que cuente con procedimientos y mecanismos de control interno adecuados que garanticen la gestión correcta y prudente de la sociedad, incluyendo procedimientos de gestión de riesgos, así como mecanismos de control y de seguridad en el ámbito informático y órganos y procedimientos para la prevención del blanqueo de capitales y de la financiación del terrorismo, un régimen de operaciones vinculadas y un reglamento interno de conducta. La sociedad gestora deberá estar estructurada y organizada de modo que se reduzca al mínimo el riesgo de que los intereses de las IIC o de los clientes se vean perjudicados por conflictos de intereses entre la sociedad y sus clientes, entre clientes, entre uno de sus clientes y una IIC o entre dos IIC.»

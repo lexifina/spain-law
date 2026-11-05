@@ -1,0 +1,3 @@
+## Disposición transitoria única. Unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General.
+
+Las unidades y puestos de trabajo con nivel orgánico inferior a Subdirección General, encuadrados en las unidades afectadas por el presente Real Decreto, continuarán subsistentes hasta que se modifique la correspondiente relación de puestos de trabajo, pasando a depender provisionalmente de las unidades que correspondan, de acuerdo con las funciones que se le atribuyen por el Estatuto. La modificación prevista de la relación de puestos de trabajo en ningún caso podrá suponer incremento de gasto público.

@@ -1,0 +1,3 @@
+## Disposición transitoria única. Incorporación al programa de trabajadores que hubieran agotado las prestaciones por desempleo a partir del 1 de agosto de 2009.
+
+No obstante lo previsto en el artículo 1.2 de este Real Decreto-ley, tendrán derecho a ser beneficiarios de este programa, aquéllos que cumpliendo los requisitos establecidos en el artículo 2, hubieran extinguido por agotamiento la prestación por desempleo contributiva o el subsidio por desempleo desde el 1 de agosto de 2009. Este colectivo deberá presentar la solicitud dentro de los 60 días siguientes al de publicación del presente Real Decreto-ley, en la forma y con los efectos previstos en el artículo 6.

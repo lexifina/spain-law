@@ -1,0 +1,3 @@
+## Disposición adicional primera. Resolución de los documentos electrónicos que se presenten a la inscripción en el Registro de la Propiedad.
+
+Con el fin de evitar errores materiales en la captura y tratamiento de datos a efectos de inscripción, los documentos electrónicos que se presenten telemáticamente en los Registros de la Propiedad conforme a la Ley Hipotecaria deberán permitir, en todo caso, las funciones de selección y copiado de su contenido, y en particular de las referencias catastrales, códigos seguros de verificación y listados de coordenadas que consten en los documentos catastrales, así como tener respecto de las imágenes una resolución mínima de 200 pixeles por pulgada.

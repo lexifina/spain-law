@@ -1,0 +1,3 @@
+## Disposición adicional primera. Guía para la evaluación y calificación.
+
+El Subdirector General de Personal de la Guardia Civil, a propuesta de la Jefatura de Asistencia al Personal, y de acuerdo con el asesoramiento técnico del Servicio de Psicología, aprobará una guía que facilite a los calificadores la adopción de criterios objetivos para la evaluación y calificación de las competencias y otros aspectos contenidos en el IPECGUCI; así como la orientación a dar al calificado para su mejora continua respecto a los comportamientos esperados. Esta guía deberá estar a disposición del personal afectado en el momento de la entrada en vigor de esta orden ministerial.

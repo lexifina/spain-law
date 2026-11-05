@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Provisión de riesgos en curso.
+
+Hasta que transcurra el tiempo suficiente para que los datos contables de los años necesarios para el cálculo de la provisión a que se refiere el artículo 31 de este Reglamento se registren de acuerdo con lo establecido en el Plan de Contabilidad de las Entidades Aseguradoras, en los ejercicios 1998 y anteriores que sean necesarios, las entidades procederán a tomar, como resultado del párrafo a) del apartado 2 del artículo 31, el correspondiente al resultado técnico financiero por ramos de acuerdo con la documentación estadístico contable remitida a la Dirección General de Seguros.

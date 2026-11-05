@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Instrumentos de colaboración.
+
+El Ministerio del Interior, de acuerdo con lo dispuesto en el artículo 11.2 de la Ley 17/2015, de 9 de julio, podrá suscribir instrumentos de colaboración con otros departamentos ministeriales, con otras administraciones públicas, con entidades públicas o privadas y asociaciones representativas de las personas con discapacidad para la realización de las actividades de información previa a la población que probablemente pueda resultar afectada por una emergencia nuclear o radiológica, que podrán ser financiadas total o parcialmente con cargo al Fondo de Prevención de Emergencias.

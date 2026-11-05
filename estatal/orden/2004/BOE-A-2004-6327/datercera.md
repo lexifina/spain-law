@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Tiempo de vuelo aceptable para el cumplimiento de los requisitos de experiencia exigidos para la obtención de la licencia de piloto de transporte de línea aérea.
+
+Para el cumplimiento de los requisitos de experiencia de vuelo exigidos para la obtención de la licencia de piloto de transporte de línea aérea para aviones de matrícula española, será aceptable el tiempo de vuelo efectuado conforme a los requisitos conjuntos de aviación para las licencias de la tripulación de vuelo - avión (JAR-FCL 1), de acuerdo con los procedimientos operacionales determinados por la normativa reguladora de las operaciones de transporte aéreo comercial por aviones civiles y en los tipos de avión multipiloto que figuran en el Anexo 3 de esta Orden.

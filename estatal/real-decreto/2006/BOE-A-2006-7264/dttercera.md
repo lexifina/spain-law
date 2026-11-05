@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Procedimientos de comunicación.
+
+Cuando la ordenanza fiscal a que se refiere el artículo 14.b) del texto refundido de la Ley del Catastro Inmobiliario hubiera sido aprobada con anterioridad a la entrada en vigor de este real decreto, y salvo que en ella se prevea una fecha posterior, el procedimiento de comunicación se iniciará efectivamente a partir del día primero del mes siguiente a la publicación de este real decreto en el Boletín Oficial del Estado. Esta obligación de comunicar no alcanzará a otros hechos, actos o negocios que los realizados o consumados a partir de dicha fecha, con independencia de que la licencia o autorización municipal de la que deriven se hubiera otorgado con anterioridad.

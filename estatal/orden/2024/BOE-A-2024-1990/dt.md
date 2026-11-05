@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Mantenimiento de la validez de determinadas marcas fiscales.
+
+Se mantiene la validez de las marcas fiscales, previstas en la Orden HAC/484/2019, de 9 de abril, por la que se aprueban las normas de desarrollo de lo dispuesto en el artículo 26 sobre marcas fiscales previstas para cigarrillos y picadura para liar, del Reglamento de los Impuestos Especiales, ya adheridas a los envases y/o recipientes con cigarrillos o picadura para liar fabricados o importados en la Unión Europea con anterioridad al 20 de mayo de 2024, en todo caso, con la fecha límite del 20 de mayo de 2026.

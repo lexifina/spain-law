@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Integración en el Sistema Nacional de Salud del personal de los Montepíos de las Administraciones Públicas de Navarra.
+
+Se autoriza al Gobierno, una vez extinguida por la Comunidad Foral de Navarra la cobertura obligatoria en materia de asistencia sanitaria prestada al personal de los Montepíos de las Administraciones Públicas de Navarra, para que proceda a la integración del personal encuadrado en el mismo como asegurado o beneficiario del Sistema Nacional de Salud, mediante el reconocimiento de la condición que proceda por el Instituto Nacional de la Seguridad Social, de acuerdo con lo dispuesto en el artículo 3 de la Ley 16/2003, de 28 de mayo, de Calidad y Cohesión del Sistema Nacional de Salud.

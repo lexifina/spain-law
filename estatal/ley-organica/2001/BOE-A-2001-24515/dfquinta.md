@@ -1,0 +1,3 @@
+## Disposición final quinta. Entrada en vigor.
+
+La presente Ley entrará en vigor a los veinte días de su publicación en el "Boletín Oficial del Estado", salvo los apartados 2 y 3 del artículo 42, que entrarán en vigor en el momento en que la Ley 30/1974, de 24 de julio, sobre pruebas de aptitud para el acceso a las Facultades, Escuelas Técnicas Superiores, Colegios Universitarios y Escuelas Universitarias, con valor reglamentario en virtud del apartado 4 de la disposición final cuarta de la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, sea expresamente derogada. Entre tanto, se mantendrá vigente el actual sistema de acceso a los estudios universitarios.

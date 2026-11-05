@@ -1,0 +1,3 @@
+## Noveno. Otras consideraciones relacionadas con situaciones de violencia de género.
+
+Las Administraciones Públicas procurarán la utilización también de las herramientas de provisión de puestos de trabajo existentes en su respectivo ámbito competencial para atender la posible necesidad de traslado de las empleadas o empleados públicos que tengan a su cargo bajo su patria potestad, tutela, guarda o acogimiento a una menor o a una persona con discapacidad, que tenga la condición de víctima de violencia de género, en aquellos supuestos en los que la situación de la víctima aconseje un cambio de localidad de la residencia familiar.

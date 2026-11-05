@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Colaboración administrativa.
+
+La Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información y las Administraciones competentes en materia de seguridad industrial tienen el deber de colaborar tanto en lo referido a la evaluación de la conformidad como en lo que se refiere a las funciones inspectoras y sancionadoras respecto de los aparatos de cualquier naturaleza que incorporen un equipo de telecomunicación para su funcionamiento o para cualquier actividad auxiliar de los mismos, a efecto de que cada autoridad pueda ejercer lealmente las funciones que normativamente tienen atribuidas.

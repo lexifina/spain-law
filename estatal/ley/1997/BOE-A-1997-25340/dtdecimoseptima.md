@@ -1,0 +1,21 @@
+## Disposición transitoria decimoséptima
+
+Uno. Los productores de energía eléctrica cuya potencia eléctrica instalada en régimen ordinario en todo el territorio peninsular, a la entrada en vigor del presente Real Decreto-ley, exceda del 40 por 100 del total, no podrán incrementar la potencia instalada durante un plazo de cinco años. Si la participación en dicha potencia instalada es inferior al 40 por 100 pero superior al 20 por 100, el plazo será de tres años. Ambos plazos se computarán desde la entrada en vigor del presente Real Decreto-ley.
+
+El Gobierno, mediante Real Decreto, podrá variar los porcentajes y plazos a que se refiere el párrafo anterior en función de la evolución y la estructura empresarial del sector.
+
+A los efectos de computar los anteriores porcentajes, se tendrán en cuenta las siguientes reglas:
+
+a) Se incluirán en dichos porcentajes todas las instalaciones que el productor tenga en régimen de propiedad, tanto en los casos de explotación directa como en el supuesto de cesión a terceros por cualquier título, así como aquellos casos en los que el productor tenga suscritos contratos de explotación en exclusiva con el titular de la instalación.
+
+b) Se entenderá que pertenecen al mismo productor todas aquellas instalaciones de producción de energía eléctrica cuya titularidad, según lo dispuesto en el apartado anterior, corresponda a una entidad que forme parte del mismo grupo, de acuerdo con lo dispuesto en el artículo 4 de la Ley 28/1988, de 28 de julio, del Mercado de Valores.
+
+Dos. Quedarán excluidas de lo estipulado en el apartado anterior aquellas nuevas instalaciones de generación, que a la entrada en vigor del presente Real Decreto-ley hayan finalizado el trámite de información pública a que se refiere el Real Decreto 2617/1966, de 20 de octubre, sobre autorización de instalaciones eléctricas.
+
+Aquellas instalaciones que habiendo iniciado el procedimiento administrativo de autorización con anterioridad a la entrada en vigor del presente Real Decreto-ley, no hayan finalizado el trámite de información pública, podrán ser autorizadas por la Dirección General de Política Energética y Minas, a continuar con dicho procedimiento, previo informe de la Comisión Nacional de la Energía, atendiendo a la estructura del mercado de generación y a las necesidades de potencia instalada del sistema eléctrico.
+
+Tres. En todo caso, los productores de electricidad que pudieran verse afectados por lo previsto en la presente disposición podrán solicitar autorizaciones de nuevas instalaciones, sin incrementar la capacidad instalada, condicionadas al cierre o venta de instalaciones de producción de potencia equivalente.
+
+> Se añade por el art. 16 del Real Decreto-Ley 6/2000, de 23 de junio. Ref. BOE-A-2000-11836
+
+> Redactado el apartado 2 conforme a la corrección de errores publicada en BOE núm. 154, de 28 de junio de 2000. Ref. BOE-A-2000-12137

@@ -1,0 +1,11 @@
+## Norma 2.ª Cálculo del valor liquidativo de una IIC.
+
+1. El valor del patrimonio de una IIC será el resultado de deducir las cuentas acreedoras de la suma de todos sus activos, valorados con sujeción a las normas contenidas en el Reglamento de IIC y normativa de desarrollo.
+
+2. A efectos del cálculo del patrimonio de la IIC definido en el apartado anterior, se computarán las partidas recogidas en los modelos de estados reservados T01 y TI01 (Distribución del patrimonio de IIC financieras e IIC inmobiliarias, respectivamente).
+
+3. Asimismo, el patrimonio también podrá computarse de acuerdo a la cifra de «Patrimonio atribuido a partícipes o accionistas» del balance de la IIC. En el caso de las sociedades de inversión, se descontarán los saldos de la cuenta «Socios por desembolsos exigidos» del epígrafe «Deudores» del Activo y, cuando proceda, el patrimonio será ajustado por los dividendos activos contabilizados hasta la fecha ex-dividendo.
+
+4. El valor liquidativo de un fondo de inversión o de una sociedad de inversión de capital variable será el cociente entre el patrimonio calculado de acuerdo a lo establecido anteriormente y el número de participaciones o acciones, descontando las acciones propias, de la fecha de referencia. A los solos efectos del cálculo del valor liquidativo, no se tendrán en cuenta en el patrimonio las suscripciones y reembolsos, o la recompra y puesta en circulación de acciones, a las que se deba aplicar el valor liquidativo así calculado o siguientes. Los descuentos a favor de la IIC en suscripciones o reembolsos, y gastos de compraventa de las acciones de la Sociedad de Inversión de Capital Variable, se tendrán en cuenta en el siguiente valor liquidativo que corresponda.
+
+5. En caso de existencia de compartimentos, el cálculo del valor liquidativo del compartimento se realizará de acuerdo a lo señalado en los apartados anteriores de esta Norma, referidos cada uno de los conceptos a la parte del patrimonio atribuida al compartimento. A estos efectos se tendrán en cuenta los estados T01 y TI01 referidos al compartimento, según el apartado 2 de esta Norma, o el «Patrimonio atribuido a partícipes o accionistas» del balance del compartimento, de acuerdo al apartado 3.

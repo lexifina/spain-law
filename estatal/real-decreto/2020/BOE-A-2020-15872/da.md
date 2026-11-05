@@ -1,0 +1,5 @@
+## Disposición adicional primera. Definición de distribución local a efectos del cumplimiento del Reglamento (CE) n.º 37/2005, de la Comisión, de 12 de enero de 2005, relativo al control de las temperaturas en los medios de transporte y los locales de depósito y almacenamiento de alimentos ultracongelados destinados al consumo humano.
+
+A efectos del cumplimiento del Reglamento (CE) n.º 37/200 de la Comisión, de 12 de enero de 2005, se entenderá por distribución local la realizada mediante vehículos que retornan sistemáticamente a su base de origen, cuyo radio de distribución desde el punto de carga no sea superior a 100 kilómetros y la capacidad de transporte útil sea igual o inferior a 3.500 kilogramos, efectuando actos de venta y facturación a clientes, o entregando mercancías a través de albaranes preestablecidos.
+
+No obstante lo anterior, en regiones insulares, la autoridad competente de la comunidad autónoma podrá establecer una distancia superior a los 100 kilómetros en su ámbito territorial.

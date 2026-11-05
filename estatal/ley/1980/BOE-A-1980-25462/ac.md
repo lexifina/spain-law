@@ -1,0 +1,3 @@
+## Artículo cuarto.
+
+Declarada una zona de reserva a favor del Estado y acordada la forma de realizar los trabajos, la Administración iniciará los trámites necesarios para que aquéllos comiencen en el plazo máximo de doce meses, contados a partir de la fecha de inscripción de la reserva en el libro registro a que se hace referencia en el artículo noveno de la Ley de Minas. Dicho plazo podrá ser prorrogado por seis meses, en el supuesto de que la adjudicación de la reserva se lleve a cabo por concurso público o consorcio. El incumplimiento de estos plazos llevará consigo, de modo automático, el levantamiento de dicha zona de reserva.

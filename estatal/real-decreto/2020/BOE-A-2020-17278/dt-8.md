@@ -1,0 +1,5 @@
+## Disposición transitoria octava. Inadmisión de solicitudes hasta la publicación de las capacidades de acceso con base en los criterios de evaluación que apruebe la Comisión Nacional de los Mercados y la Competencia.
+
+Hasta la publicación en las plataformas a las que se refiere el artículo 5.4 de la información sobre los valores de capacidad de acceso disponible conforme a los nuevos criterios para la evaluación de dicha capacidad que apruebe la circular a la que se refiere el artículo 33.11 de la Ley 24/2013, de 26 de diciembre, y conforme a las especificaciones de detalle que, en su caso, sean necesarias para desarrollar la metodología y las condiciones del acceso y la conexión que establezca dicha circular, los gestores de las redes no admitirán las nuevas solicitudes de acceso y conexión que se presenten tras la entrada en vigor de este real decreto.
+
+Lo anterior se entenderá sin perjuicio de la eventual celebración de concursos en aquellos nudos en lo que esto sea posible de conformidad con lo previsto en el capítulo V.

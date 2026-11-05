@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Situación de las sedes electrónicas y subsedes electrónicas en el ámbito estatal existentes a la entrada en vigor de este real decreto.
+
+1. En aplicación de lo previsto en el artículo 38 de la Ley 40/2015, de 1 de octubre, las sedes electrónicas existentes en la Administración General del Estado en la fecha de entrada en vigor de este real decreto pasan a tener naturaleza de sedes electrónicas asociadas de la sede electrónica de la Administración General del Estado, que es la sede del Punto de Acceso General electrónico (PAGe) de la Administración General del Estado, sin necesidad de modificar su instrumento de creación. Las subsedes electrónicas existentes en la fecha de entrada en vigor de este real decreto pasarán también a tener naturaleza de sedes electrónicas asociadas.
+
+2. Las sedes electrónicas de los organismos públicos o entidades de derecho público vinculados o dependientes existentes en la fecha de entrada en vigor de este real decreto mantendrán su naturaleza de sede electrónica. Las subsedes electrónicas de estos pasarán a tener naturaleza de sedes electrónicas asociadas.

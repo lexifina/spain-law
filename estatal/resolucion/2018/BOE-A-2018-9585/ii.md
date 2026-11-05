@@ -1,0 +1,3 @@
+## II. Derechos y garantías.
+
+La aplicación de la Instrucción se realizará con sometimiento a la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal; al Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) –disposición de aplicación directa a los Estados miembros–; así como al resto de normas específicas que regulan la propiedad intelectual y el tratamiento electrónico de la información.

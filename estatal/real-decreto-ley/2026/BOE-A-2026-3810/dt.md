@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación de las especialidades de las ayudas previstas en el Real Decreto 307/2005, de 18 de marzo, por el que se regulan las subvenciones en atención a determinadas necesidades derivadas de situaciones de emergencia o de naturaleza catastrófica, y se establece el procedimiento para su concesión.
+
+Las especialidades de las ayudas reguladas en el Real Decreto 307/2005, de 18 de marzo, incluidas en este real decreto-ley, se aplicarán retroactivamente a todas las solicitudes de ayuda presentadas desde el inicio de la emergencia que traigan causa de los acontecimientos que justifican esta norma.

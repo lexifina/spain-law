@@ -1,0 +1,5 @@
+## Disposición final vigésima cuarta. Modificación de la Ley 36/2010, de 22 de octubre, del Fondo para la Promoción del Desarrollo.
+
+Con efectos de 1 de enero de 2014 y vigencia indefinida, se da nueva redacción al primer párrafo del apartado 1 del artículo 12 de la Ley 36/2010, de 22 de octubre, del Fondo para la Promoción del Desarrollo, con la siguiente redacción:
+
+«El Gobierno remitirá a las Cortes Generales, a través de su Oficina Presupuestaria, un informe anual de las operaciones imputadas con cargo a este Fondo, de sus objetivos, país de destino, sectores de intervención e instituciones beneficiarias, así como de las condiciones de contratación y adjudicación, las cuantías comprometidas y desembolsadas, de los criterios de selección de los diferentes instrumentos, adjudicaciones finalmente aprobadas y las evaluaciones realizadas, indicando asimismo el porcentaje de Ayuda Oficial al Desarrollo reembolsable que corresponda a los créditos y préstamos concesionales concedidos en dicho ejercicio. La Oficina pondrá dicha información a disposición de los Diputados, Senadores y las Comisiones parlamentarias.»

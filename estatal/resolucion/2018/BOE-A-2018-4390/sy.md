@@ -1,0 +1,165 @@
+## 6. Servicios y programas de políticas de activación para el empleo.
+
+Las Comunidades Autónomas y el Servicio Público de Empleo Estatal han propuesto para su inclusión en el Plan 2018 un total de 620 servicios y programas distintos para el conjunto de los 6 Ejes, tal y como se muestra en el anexo I.
+
+Los servicios y programas de políticas activas de empleo e intermediación laboral que tanto las Comunidades Autónomas como el Servicio Público de Empleo Estatal, en sus respectivos ámbitos de competencia, desarrollarán en el marco de este Plan 2018, se recogen de manera resumida en el anexo II y de forma detallada en el anexo III, que lo acompañan.
+
+Con el fin de facilitar la identificación y diferenciación de los servicios y programas comunes o de aplicación en todo el Estado, de aquellos que no son comunes, y por ende propios de una Comunidad Autónoma, se ha establecido un sistema de codificación que permite diferenciar entre un tipo y otro de acuerdo con los siguientes códigos:
+
+SC: Servicio Común
+
+PC: Programa Común
+
+SP: Servicio Propio
+
+PP: Programa Propio
+
+De manera resumida, se muestran los servicios y programas según Eje.
+
+Eje 1. Orientación.
+
+Se encuentra integrado por un total de 104 servicios y programas, de los cuales 13 son comunes y 91 propios.
+
+Las Comunidades Autónomas y el Servicio Público de Empleo Estatal han podido seleccionar entre los siguientes servicios y programas comunes:
+
+SC00001 Diagnóstico individualizado y elaboración del perfil.
+
+SC00002 Diseño del itinerario personalizado para el empleo.
+
+SC00003 Acompañamiento personalizado en el desarrollo del itinerario y el cumplimiento del compromiso de actividad.
+
+SC00004 Asesoramiento y ayuda técnica adicional.
+
+SC00005 Información y asesoramiento adicional.
+
+SC00006 Gestión de las ofertas de empleo a través de la casación entre ofertas y demandas.
+
+SC00007 Información y asesoramiento sobre la contratación y las medidas de apoyo a la activación, la contratación e inserción en la empresa.
+
+SC00008 Comunicación de la contratación laboral y de las altas, períodos de actividad y certificados de empresa.
+
+SC00009 Apoyo a los procesos de recolocación en los supuestos previstos legalmente.
+
+PC00001 Programas de orientación profesional para el empleo y autoempleo.
+
+PC00002 Programas de colaboración con agencias de colocación.
+
+PC00031 Programa de Activación para el Empleo.
+
+PC00032 Programa de acción conjunto para la mejora de la atención a las personas paradas de larga duración.
+
+Eje 2. Formación.
+
+Se encuentra integrado por un total de 150 servicios y programas, de los cuales 16 son comunes y 134 propios.
+
+Las Comunidades Autónomas y el Servicio Público de Empleo Estatal han podido seleccionar entre los siguientes servicios y programas comunes:
+
+SC00010 Formación profesional para el empleo acorde a las necesidades de los usuarios.
+
+SC00011 Control, seguimiento y evaluación de la calidad de la formación.
+
+SC00012 Evaluación, reconocimiento y acreditación de las competencias profesionales adquiridas a través de la experiencia laboral.
+
+SC00013 Mantenimiento y actualización de la cuenta de formación.
+
+SC00014 Inscripción y acreditación de centros y entidades de formación profesional para el empleo.
+
+PC00003 Oferta formativa para trabajadores ocupados (Programas de formación sectoriales, transversales y de cualificación y reconocimiento profesional).
+
+PC00004 Oferta formativa para trabajadores desempleados (Programas de formación de los Servicios Públicos de Empleo).
+
+PC00005 Programas específicos de formación dirigidos a personas desempleadas con necesidades formativas especiales o con dificultades para su inserción o recualificación profesional.
+
+PC00006 Programas formativos que incluyan compromisos de contratación.
+
+PC00007 Formación en alternancia con el empleo.
+
+PC00008 Prácticas no laborales en empresas.
+
+PC00009 Procedimiento de evaluación y acreditación de las competencias profesionales adquiridas a través de la experiencia laboral o de vías no formales de formación.
+
+PC00010 Formación no financiada con fondos públicos desarrollada por centros y entidades de iniciativa privada destinada a la obtención de certificados de profesionalidad.
+
+PC00017 Actividad formativa del contrato para la formación y el aprendizaje.
+
+PC00027 Formación impartida con carácter extraordinario a través de la red pública de centros de formación.
+
+PC00034 Oferta formativa para trabajadores desempleados (Cheque formación).
+
+Eje 3. Oportunidades de Empleo.
+
+Se encuentra integrado por un total de 168 servicios y programas, de los cuales 6 son comunes y 162 propios.
+
+Las Comunidades Autónomas y el Servicio Público de Empleo Estatal han podido seleccionar entre los siguientes servicios y programas comunes:
+
+PC00011 Programas de colaboración con corporaciones locales.
+
+PC00012 Programas de colaboración con Órganos de la Administración General del Estado, Organismos Autónomos y entidades sin ánimo de lucro.
+
+PC00013 Programas para la inserción laboral de personas con discapacidad en el mercado protegido (Centros especiales de empleo).
+
+PC00014 Programas para la inserción laboral de personas con discapacidad en el mercado ordinario de trabajo.
+
+PC00015 Programas integrales de empleo.
+
+PC00016 Trabajos temporales de colaboración social.
+
+Eje 4. Igualdad de oportunidades en el acceso al empleo.
+
+Se encuentra integrado por un total de 26 servicios y programas, de los cuales 4 son comunes y 22 propios.
+
+Las Comunidades Autónomas y el Servicio Público de Empleo Estatal han podido seleccionar entre los siguientes servicios y programas comunes:
+
+SC00015 Apoyo a la gestión de la movilidad laboral (Red EURES).
+
+SC00016 Gestión de los instrumentos europeos para favorecer la movilidad en la formación y cualificación profesional.
+
+PC00018 Apoyo a programas de ayuda a la movilidad para inserción laboral, formación y prácticas en Europa.
+
+PC00033 Programa de inserción sociolaboral para mujeres víctimas de violencia de género.
+
+Eje 5. Emprendimiento.
+
+Se encuentra integrado por un total de 108 servicios y programas, de los cuales 8 son comunes y 100 propios.
+
+Las Comunidades Autónomas y el Servicio Público de Empleo Estatal han podido seleccionar entre los siguientes servicios y programas comunes:
+
+SC00017 Asesoramiento para el autoempleo y el emprendimiento.
+
+SC00018 Fomento de la economía social y del emprendimiento.
+
+SC00019 Asesoramiento sobre ayudas a las iniciativas emprendedoras y de autoempleo.
+
+SC00020 Asesoramiento sobre incentivos y medidas disponibles para el fomento de la contratación.
+
+PC00019 Fomento del empleo autónomo.
+
+PC00020 Apoyo a la creación y al empleo en cooperativas y sociedades laborales.
+
+PC00021 Estudios de mercado y campañas para la promoción laboral.
+
+PC00022 Agentes de Empleo y Desarrollo Local.
+
+PC00023 Proyectos y empresas calificadas como I+E.
+
+PC00024 Concesión de subvenciones consistentes en el abono a los trabajadores que hicieren uso del derecho a percibir la prestación por desempleo en su modalidad de pago único.
+
+Eje 6. Mejora del marco institucional del Sistema Nacional de Empleo.
+
+Se encuentra integrado por un total de 64 servicios y programas, de los cuales 7 son comunes y 57 propios.
+
+Las Comunidades Autónomas y el Servicio Público de Empleo Estatal han podido seleccionar entre los siguientes servicios y programas comunes:
+
+SC00021 Mejora del Sistema de Información de los Servicios Públicos de Empleo (SISPE).
+
+PC00025 Portal Único de Empleo.
+
+PC00026 Marco de referencia para la colaboración pública-privada y pública-pública.
+
+PC00028 Programas de intercambio de Buenas Prácticas.
+
+PC00029 Mejora del Sistema de gestión y soporte a la Garantía Juvenil.
+
+PC00030 Programa de reforma, adaptación y mejora de las oficinas de empleo.
+
+PC00035 Programa de evaluación del desempeño de los Servicios Públicos de Empleo, EVADES.

@@ -1,0 +1,3 @@
+## Disposición final primera. Carácter básico y titulo competencial.
+
+El presente Real Decreto tiene carácter básico y se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª y 16.ª de la Constitución, por los que se atribuye al Estado la competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica y bases y coordinación general de la sanidad, respectivamente, excepto en su artículo 6 y en el apartado 2 del artículo 7, que se dictan al amparo del artículo 149.1.10.ª y 16.ª de la Constitución, que atribuyen al Estado competencia exclusiva sobre comercio exterior y sanidad exterior, respectivamente.

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+En el supuesto a que se refiere el número 3 de la disposición transitoria tercera del Real Decreto 2621/1986, de 24 diciembre, el ingreso de la parte de cuota que corre al exclusivo cargo del representante de comercio será realizado por éste en los mismos plazos y condiciones que la correspondiente a la base del grupo al que están asimilados, siendo de aplicación las mismas normas que regulan la recaudación de ésta. A estos efectos en la liquidación trimestral se harán constar separadamente, además de las bases que correspondan a cada Empresa, las que sean a cargo del representante en cada uno de los meses que comporta la liquidación.

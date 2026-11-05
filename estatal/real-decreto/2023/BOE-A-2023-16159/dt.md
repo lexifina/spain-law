@@ -1,0 +1,9 @@
+## Disposición transitoria única. Forma de proceder hasta el primer volcado de datos.
+
+1. En tanto no se complete en el Registro Central de Titularidades Reales el primer envío total de datos o puesta a disposición de la información de los distintos registros con competencia en la inscripción de personas jurídicas o bases de datos, las autoridades citadas en el Reglamento, así como los sujetos obligados y las personas u organizaciones distintas a las anteriores, en este último caso siempre que puedan demostrar un interés legítimo, podrán obtener información de los titulares reales acudiendo a dichos registros y bases de datos conforme a su normativa específica. Aquella circunstancia será publicitada mediante la oportuna resolución de la Dirección General de Seguridad Jurídica y Fe Pública, que se publicará anualmente en el «Boletín Oficial del Estado».
+
+2. En tanto no se apruebe el importe de la tasa del registro, los sujetos obligados y las personas u organizaciones con interés legítimo podrán acceder gratuitamente al mismo.
+
+3. Los fideicomisos tipo trust y entidades o estructuras sin personalidad jurídica análogas a los trust deberán realizar, en el plazo de dos meses desde la entrada en vigor de este real decreto, una primera declaración por medios electrónicos al Registro Central de Titularidades Reales de la información relacionada en el artículo 4 ter de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y de la financiación del terrorismo, así como la establecida en el reglamento.
+
+4. De cara a la puesta en marcha del Registro Central de Titularidades Reales, mediante resolución de la Dirección General de Seguridad Jurídica y Fe Pública se podrá aprobar un nuevo modelo de hoja para la declaración de titularidad real, que se deberá presentar en el Registro Mercantil adicionalmente al que se presente en el momento del depósito de cuentas.

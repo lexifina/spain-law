@@ -1,0 +1,9 @@
+## Disposición adicional tercera. Retribuciones complementarias del personal investigador funcionario procedente de las suprimidas escalas científicas del Consejo Superior de Investigaciones Científicas, e integrado en las escalas científicas de Organismos Públicos de Investigación.
+
+1. El número de tramos de los componentes por méritos investigadores y de excelencia científica del complemento específico y el número de tramos del componente por actividad investigadora del complemento de productividad, que perciba el personal investigador funcionario de carrera procedente de las suprimidas escalas científicas del Consejo Superior de Investigaciones Científicas, e integrado en las escalas científicas de Organismos Públicos de Investigación que preste servicios en este Organismo Público, quedarán consolidados a la entrada en vigor del real decreto.
+
+Los méritos valorados en las diferentes evaluaciones para la obtención de los tramos de los componentes consolidados no podrán ser sometidos nuevamente a evaluación para la obtención de nuevos tramos.
+
+2. El personal investigador funcionario a que se refiere el apartado 1, que a la entrada en vigor del real decreto se encuentre prestando servicios en un Organismo Público de Investigación de la Administración General del Estado distinto de la Agencia Estatal Consejo Superior de Investigaciones Científicas, M.P. y del Instituto de Astrofísica de Canarias tendrá derecho a percibir los componentes por méritos investigadores y de excelencia científica del complemento específico y el componente por actividad investigadora del complemento de productividad que tuviera reconocidos, con efectos económicos desde el 1 de enero de 2018.
+
+Asimismo, tendrá derecho a someter a evaluación la actividad realizada en el Organismo Público de Investigación en el que se encuentre.

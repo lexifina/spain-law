@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Pliegos tipo de cláusulas administrativas.
+
+Para facilitar la tramitación de los correspondientes expedientes, en el plazo de quince días contados desde la entrada en vigor de este real decreto-ley, la Junta Consultiva de Contratación Administrativa del Estado elaborará y hará público un pliego tipo de cláusulas administrativas que los ayuntamientos interesados podrán utilizar para la preparación de la documentación necesaria para licitar y contratar las obras o suministros financiados con cargo al Fondo Estatal para el Empleo y la Sostenibilidad Local. Asimismo, este pliego se hará público a través de la sede electrónica del Ministerio de Política Territorial.

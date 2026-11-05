@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+En el plazo de treinta días a partir de la publicación de esta Orden, las Subsecretarías de los Departamentos ministeriales cuyos servicios periféricos se han integrado en las Delegaciones del Gobierno, conforme a lo dispuesto en el artículo 1 del Real Decreto 1330/1997, de 1 de agosto, comunicarán al Departamento de Recaudación de la Agencia Estatal de Administración Tributaria las tasas que, según establece la disposición transitoria cuarta del mismo Real Decreto, han pasado a ser gestionadas por el Ministerio de Administraciones Públicas, indicando, en su caso, cuáles de ellas seguirán siendo gestionadas además por los servicios centrales del propio Departamento.

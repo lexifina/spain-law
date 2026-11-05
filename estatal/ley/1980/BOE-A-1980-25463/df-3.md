@@ -1,0 +1,13 @@
+## Disposición final tercera.
+
+Los negocios jurídicos realizados sin intervención de la comunidad titular del monte, antes de la entrada en vigor de esta Ley o de la clasificación de aquél, se someterán a las siguientes normas:
+
+a) Las ocupaciones o servidumbres concedidas por la Administración del Estado sobre montes que estuviesen incluidos en el Catálogo de los de Utilidad Pública o por la Administración Local bajo la consideración de bienes comunales o de propios, subsistirán en los términos de la concesión, entrando a percibir la comunidad titular el canon o indemnización que se devengue a partir de la entrada en vigor de esta Ley y pudiendo aquélla exigir la actualización de las mismas o la expropiación de la concesión, en la forma que se determine reglamentariamente cuando la ocupación tenga por objeto la realización de actividades comerciales, industriales o agrarias. La presente regulación no obsta a que la comunidad titular ejercite las acciones de impugnación que se deriven de la legislación reguladora de tales concesiones, así como de caducidad de las mismas por incumplimiento del condicionado establecido.
+
+b) Acerca de los Consorcios o convenios concertados por la Administración Forestal, con intervención o no de las Diputaciones Provinciales, la comunidad titular del monte adoptará cualquiera de las opciones siguientes: Primera. Subrogarse en los derechos y obligaciones derivadas del consorcio. Segunda. Resolver el consorcio o convenio reintegrando al Estado las inversiones que hubiera efectuado y no estuvieran ya amortizadas. Tercera. Convertir el antiguo consorcio en un convenio de los establecidos en la Ley cinco/mil novecientos setenta y siete, de cuatro de enero, de Fomento de Producción Forestal, o cualquier otro de los que permita la legislación vigente en cada momento. En este último supuesto, el convenio se concertará directamente entre la comunidad propietaria y el ICONA.
+
+Las cantidades que, según las opciones de la comunidad, se reintegren al Estado o hayan de constituir las partidas iniciales de las cuentas de anticipo de los nuevos Convenios serán la diferencia entre la totalidad de los gastos realizados en el monte con motivo del anterior consorcio o convenio y la totalidad de los ingresos procedentes de los aprovechamientos realizados con excepción de los percibidos por la parte que haya intervenido en aquél como supuesto propietario del suelo.
+
+El ICONA podrá reducir, total o parcialmente, tales partidas iniciales, siempre que el plan de aprovechamiento del monte o de parte de éste, así lo aconseje por razones de interés agrario.
+
+c) Los demás son inexistentes en Derecho.

@@ -1,0 +1,1 @@
+Téngase en cuenta que el 31 de enero de 2019 entra en vigor la Resolución de 14 de enero de 2019, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación de tráfico durante el año 2019 Ref. BOE-A-2019-649, fecha a partir de la cual cesa la vigencia de la presente Resolución, según establece su disposición final única.

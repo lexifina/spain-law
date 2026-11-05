@@ -1,0 +1,13 @@
+Mediante Real Decreto 2/2020, de 12 de enero, se procedió a establecer la estructura de los órganos superiores de los departamentos ministeriales. Posteriormente, mediante el Real Decreto 139/2020, de 28 de enero, se aprobó la estructura orgánica básica de los departamentos ministeriales.
+
+Por último, mediante el Real Decreto 373/2020, de 18 de febrero, se ha desarrollado la estructura orgánica básica del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática, de acuerdo con las previsiones de las anteriores normas.
+
+Dadas las modificaciones recogidas en dichas normas en relación con la estructura organizativa anterior, resulta imprescindible revisar la actual configuración de la delegación de competencias en el Ministerio.
+
+En la presente Orden se incluyen tanto competencias delegadas por la persona titular del Departamento en diferentes órganos del mismo, como la aprobación de las delegaciones efectuadas por los diferentes órganos superiores y directivos del Departamento en otros órganos. Por otra parte, se delegan también atribuciones en favor de los organismos públicos adscritos al Departamento.
+
+Con la articulación de este nuevo esquema de delegación de competencias entre los diferentes órganos del Ministerio se busca alcanzar un equilibrio en las cargas de trabajo que mejore el ejercicio eficaz y eficiente de las funciones, redundando todo ello en la mejora de la calidad de los servicios dispensados por este Departamento.
+
+Igualmente, mediante la presente Orden se hace efectiva la regulación de las competencias de administración de los créditos para gastos de los presupuestos, ya que el artículo 61.l) y p) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, atribuye al Ministro la fijación de los límites por debajo de los cuales las competencias de concesión de subvenciones y ayudas, así como de ejecución presupuestaria a las que se refiere el artículo 62.2 de dicha ley en sus apartados h) y j), corresponderán a los Secretarios de Estado. A tal efecto, se procede, en primer lugar, a la fijación de las cuantías dentro de las que los Secretarios de Estado pueden ejercer como propias las competencias en estas materias. No obstante, en el caso de las modificaciones presupuestarias y de la mayor parte de la gestión presupuestaria del Capítulo 1 (Gastos de personal), se ha optado por no fijar esas cuantías, de tal modo que la competencia en estos casos se mantiene en el titular del Departamento.
+
+En su virtud, de acuerdo con lo previsto en el artículo 9 de la Ley 40/2015, de 1 de octubre, y en el artículo 20 de la Ley 50/1997, de 27 de noviembre, del Gobierno, dispongo:

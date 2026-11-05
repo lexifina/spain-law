@@ -1,0 +1,5 @@
+## Disposición final tercera. Modificación del Real Decreto 425/2016, de 11 de noviembre, por el que se establecen las bases reguladoras para la concesión de subvenciones de la Administración General del Estado al Seguro Agrario.
+
+Se añade un nuevo párrafo al apartado 2 del artículo 15 del Real Decreto 425/2016, de 11 de noviembre, por el que se establecen las bases reguladoras para la concesión de subvenciones de la Administración General del Estado al Seguro Agrario, con la siguiente redacción:
+
+> «En cualesquiera documentos, tanto en soporte papel como electrónico, en todo instrumento de comunicación con el interesado, en la resolución de concesión y, en su caso, de pago, así como en cualesquiera soportes o medios de difusión deberá indicarse el origen de la financiación, especificando la cantidad procedente de los fondos estatales. En todo caso, se empleará el logo GOBIERNO DE ESPAÑA-MINISTERIO DE AGRICULTURA, PESCA Y ALIMENTACIÓN, y las representaciones gráficas que se determinen, conforme al modelo que se establezca.»

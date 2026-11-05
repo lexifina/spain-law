@@ -1,0 +1,3 @@
+## Artículo séptimo. Modificación de los valores de las primas de las instalaciones tipo a.1 y a.2 que utilicen como combustible fuel-oil y d.1 acogidas a la disposición transitoria segunda del Real Decreto 436/2004, de 12 de marzo.
+
+Se modifican las primas del anexo VI del Real Decreto 436/2004, de 12 de marzo, por el que se establece la metodología para la actualización y sistematización del régimen jurídico y económico de la actividad de producción de energía eléctrica en régimen especial, establecidas para las instalaciones del grupo a, tipos a.1 y a.2 que utilicen como combustible fuel-oil, y las del grupo d y tipo d.1, cuyos valores quedan fijados en 3,2424 céntimos de euro/kWh.

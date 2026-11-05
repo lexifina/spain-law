@@ -1,0 +1,3 @@
+## Disposición final tercera. Modificación de determinados aspectos que se regulan en el Real Decreto 318/2000, de 3 de marzo.
+
+Para las enseñanzas a las que se refiere el Real Decreto 318/2000, de 3 de marzo, por el que se establecen los títulos de Técnico Deportivo y Técnico Deportivo superior en las especialidades de los deportes de Montaña y Escala, se aprueban las correspondientes enseñanzas mínimas y se regulan las pruebas y los requisitos de acceso a estas enseñanzas. La relación numérica profesor/alumnos en el módulo de formación técnica y metodología de la enseñanza del descenso de barrancos, será de 1:4.

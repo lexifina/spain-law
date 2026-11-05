@@ -1,0 +1,3 @@
+## fDisposición adicional segunda. Comisión interministerial.
+
+Se establecerá, con carácter permanente, de acuerdo con lo previsto en el artículo 22.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, una comisión interministerial de trabajo, con representantes de las autoridades sanitarias competentes en el ámbito del Ministerio de Defensa y del Ministerio de Sanidad, como medio de contacto entre ambos para facilitar la colaboración mutua en todos los aspectos considerados de interés. El número de representantes y composición de esta comisión, así como sus funciones, son aspectos que serán desarrollados de forma conjunta por las autoridades sanitarias competentes.

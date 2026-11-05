@@ -1,0 +1,1 @@
+Norma derogada, salvo las disposiciones modificativas de otras normas y las disposiciones adicionales 2, 3, 4, 6 a 12, 15, 17, 18 y 21, por la disposición derogatoria única de la Ley 11/2015, de 18 de junio. Ref. BOE-A-2015-6789#dd. y la disposición derogatoria única.h) del Real Decreto Legislativo 4/2015, de 23 de octubre. Ref. BOE-A-2015-11435#ddunica.

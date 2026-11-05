@@ -1,0 +1,9 @@
+El artículo 1.1 del Real Decreto 2398/1977, de 27 de agosto, por el que se regula la seguridad social del clero, establece que los clérigos de la Iglesia Católica y demás ministros de otras Iglesias y confesiones religiosas debidamente inscritas en el correspondiente registro del Ministerio de Justicia quedarán incluidos en el ámbito de aplicación del Régimen General de la Seguridad Social en las condiciones que reglamentariamente se determinen.
+
+En razón de la actividad desempeñada por los referidos clérigos y ministros de culto, tal inclusión ha de llevarse a efecto mediante su asimilación a trabajadores por cuenta ajena, determinándose el alcance de la acción protectora que se les otorgue, de acuerdo con lo previsto en los artículos 97.2.l) y 114.2 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio.
+
+Ello ya se ha producido respecto a los clérigos diocesanos de la Iglesia Católica, por medio del propio Real Decreto 2398/1977, de 27 de agosto, antes citado, y a los ministros de culto de las Iglesias pertenecientes a la Federación de Entidades Religiosas Evangélicas de España, en virtud del Real Decreto 369/1999, de 5 de marzo, por lo que procede ahora llevar a efecto dicha asimilación y la fijación de las condiciones de inclusión en el Régimen General de la Seguridad Social en relación con los clérigos de la Iglesia Ortodoxa Rusa del Patriarcado de Moscú en España, que se encuentra debidamente inscrita en el Registro de Entidades Religiosas del Ministerio de Justicia, tal como exige el artículo 1.1 del repetido Real Decreto 2398/1977, de 27 de agosto.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 8 de julio de 2005,
+
+D I S P O N G O :

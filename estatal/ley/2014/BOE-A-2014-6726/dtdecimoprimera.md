@@ -1,0 +1,3 @@
+## Disposición transitoria decimoprimera. Régimen transitorio de las restricciones a la distribución de dividendos y del plan de conservación del capital en relación con los colchones de capital.
+
+Las restricciones a las distribuciones y la obligación de establecer un plan de conservación del capital a los que se refieren los artículos 48 y 49 de esta Ley, respectivamente, y el artículo 70 quinquies.6 de la Ley 24/1988, de 28 de julio, del Mercado de Valores serán de aplicación a partir del 1 de enero de 2016, salvo que se exigiera a la entidad cumplir con el colchón contra riesgos sistémicos.

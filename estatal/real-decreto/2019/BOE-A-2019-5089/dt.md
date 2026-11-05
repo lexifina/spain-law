@@ -1,0 +1,17 @@
+## Disposición transitoria primera. Adaptación de los sujetos acogidos a la modalidad de autoconsumo existentes al amparo de lo regulado en el Real Decreto 900/2015, de 9 de octubre.
+
+1. Aquellos consumidores acogidos a las modalidades de autoconsumo tipo 1 y tipo 2 definidas en el artículo 4 del Real Decreto 900/2015, de 9 de octubre, por el que se regulan las condiciones administrativas, técnicas y económicas de las modalidades de suministro de energía eléctrica con autoconsumo y de producción con autoconsumo, serán clasificados de acuerdo a los criterios establecidos en el presente real decreto:
+
+i. Los consumidores que estuvieran acogidos a la modalidad tipo 1 definida en el artículo 4 del Real Decreto 900/2015, de 9 de octubre, que dispongan de mecanismo antivertido, se clasificarán como consumidores acogidos a la modalidad de suministro con autoconsumo sin excedentes.
+
+ii. Los consumidores que estuvieran acogidos a la modalidad tipo 1 definida en el artículo 4 del Real Decreto 900/2015, de 9 de octubre, que no dispongan de mecanismo antivertido se clasificarán como consumidores acogidos a la modalidad de suministro con autoconsumo con excedentes no acogida a compensación.
+
+iii. Los consumidores que estuvieran acogidos a la modalidad tipo 2 definida en el artículo 4 del Real Decreto 900/2015, de 9 de octubre, en los que existan sujeto consumidor y productor y estos sean la misma persona física o jurídica, se clasificarán como consumidores acogidos a la modalidad de suministro con autoconsumo con excedentes no acogida a compensación acogidos al artículo 9.2.
+
+iv. Los consumidores que estuvieran acogidos a la modalidad tipo 2 definida en el artículo 4 del Real Decreto 900/2015, de 9 de octubre, en los que el sujeto consumidor y productor no sean la misma persona física o jurídica, se clasificarán como consumidores acogidos a la modalidad de suministro con autoconsumo con excedentes no acogida a compensación, no acogidos al artículo 9.2.
+
+2. Aquellos sujetos que estuvieran realizando autoconsumo con anterioridad a la entrada en vigor del presente real decreto, podrán acogerse a cualquiera de las nuevas modalidades definidas en artículo el presente real decreto, siempre y cuando cumplan con todos los requisitos establecidos en el presente real decreto, especialmente en cuanto al mecanismo antivertido y a la configuración de medida. A tal efecto, deberán modificar, si fuera necesario, sus contratos de acceso y de suministro.
+
+3. En el plazo de seis meses desde la aprobación del presente real decreto, los consumidores que se encuentren en alguna de dichas modalidades señaladas anteriormente, deberán comunicar al órgano competente en materia de energía de su comunidad o ciudad autónoma, la modalidad de autoconsumo a la que se acogen y la información necesaria a los efectos de inscripción en el registro administrativo de autoconsumo de energía eléctrica. Las comunidades autónomas y ciudades de Ceuta y Melilla remitirán dicha información de acuerdo a lo previsto en el Capítulo VII del presente real decreto.
+
+4. Con carácter excepcional, durante el plazo de un año desde la aprobación de este real decreto a los sujetos que se encontraran acogidos a alguna de las modalidades de autoconsumo, no les será de aplicación la limitación prevista en artículo 8.5 en el primer cambio de modalidad de autoconsumo que realicen desde la aplicación de lo previsto en el apartado primero de esta disposición a cualquier otra modalidad de las reguladas en el artículo 4 del presente real decreto.

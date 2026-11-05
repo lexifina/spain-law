@@ -1,0 +1,19 @@
+Entre las funciones y competencias que la Ley 47/2015, de 21 de octubre, reguladora de la protección social de las personas trabajadoras del sector marítimo-pesquero, atribuye al Instituto Social de la Marina, se encuentra la formación profesional de los trabajadores del mar.
+
+En relación con esta materia, tanto la Organización Internacional del Trabajo como la Unión Europea han mostrado, a través de recomendaciones, convenios y directivas, su preocupación y han resaltado la importancia que la formación profesional de los trabajadores del mar reviste, toda vez que constituye un medio evidente para su perfeccionamiento profesional y humano.
+
+Concretamente, la Recomendación número 137 de la Organización Internacional del Trabajo, de 1970, que regula la formación profesional de la gente del mar, invita a aquellos países en los que haya o se piense crear una industria marítima a que, al planificar la política nacional de enseñanza y formación, cuiden de que se dé un lugar adecuado en el sistema nacional de medios de formación a la capacitación del citado colectivo del mar a fin de alcanzar los objetivos que la propia recomendación contiene.
+
+Señala además el citado texto la conveniencia de que los programas de formación de todas las instituciones públicas y privadas dedicadas a la formación de la gente del mar deberían coordinarse y desarrollarse en cada país con arreglo a normas de rango nacional.
+
+La citada recomendación ha sido desarrollada en el Estado español por el Instituto Social de la Marina, en virtud de las competencias que tiene atribuidas, por el Real Decreto 292/2018, de 18 de mayo, por el que se regula el procedimiento de acceso y el régimen de prestación de la formación profesional marítima y sanitaria del Instituto Social de la Marina.
+
+Esta Orden ministerial tiene por objeto el desarrollo reglamentario del citado real decreto en determinados aspectos, tales como la emisión de diplomas, solicitudes y gastos por desplazamiento, alojamiento y manutención de alumnos.
+
+Esta Orden ministerial se ajusta a los principios de buena regulación exigidos para el ejercicio de la potestad reglamentaria por el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas; al de seguridad jurídica, al establecer ciertos requisitos que deben contemplar los diplomas que expida el Instituto Social de la Marina en relación a su reconocimiento oficial, tanto nacional como internacionalmente; al de transparencia, sometiendo el texto de la norma al trámite de información pública y audiencia directa de las organizaciones representativas del sector y de los agentes sociales; a los principios de necesidad, eficacia y eficiencia, incorporando a dicho texto diversos preceptos encaminados a hacer efectivo el real decreto que desarrolla y, finalmente, al principio de proporcionalidad, ya que equipara los importes de los gastos por desplazamiento, alojamiento y manutención de los alumnos a las cuantías que perciben por dichos conceptos los funcionarios del grupo 3.º
+
+En su proceso de tramitación, de conformidad con lo previsto en el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno, esta orden se ha sometido al trámite de audiencia e información pública, mediante su publicación en el portal web del Ministerio de Trabajo, Migraciones y Seguridad Social y a la consulta directa a los agentes sociales.
+
+Esta orden se dicta en virtud de las facultades atribuidas a la Ministra de Trabajo, Migraciones y Seguridad Social por la disposición final segunda del Real Decreto 292/2018, de 18 de mayo, y de acuerdo con la competencia exclusiva en materia laboral que el artículo 149.1.7.ª de la Constitución Española atribuye al Estado, sin perjuicio de su ejecución por los órganos de las comunidades autónomas.
+
+En su virtud, a propuesta del Instituto Social de la Marina, dispongo:

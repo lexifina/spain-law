@@ -1,0 +1,3 @@
+## Artículo ochenta y seis.
+
+Si la designación se hace en favor de varios beneficiarios, la prestación convenida se distribuirá, salvo estipulación en contrario, por partes iguales. Cuando se haga en favor de los herederos, la distribución tendrá lugar en proporción a la cuota hereditaria, salvo pacto en contrario. La parte no adquirida por un beneficiario acrecerá a los demás.

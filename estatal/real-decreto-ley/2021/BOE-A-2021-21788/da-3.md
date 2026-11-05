@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Expedientes de regulación temporal de empleo por impedimento o por limitaciones a la actividad normalizada vinculadas a la COVID-19.
+
+La tramitación y efectos de los expedientes de regulación temporal de empleo por impedimento o por limitaciones a la actividad normalizada vinculadas a la COVID-19, regulados en el artículo 2 del Real Decreto-ley 18/2021, de 28 de septiembre, de medidas urgentes para la protección del empleo, la recuperación económica y la mejora del mercado de trabajo, seguirán rigiéndose por lo dispuesto en dicho precepto hasta el día 28 de febrero de 2022.

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Tiempos mínimos de servicios efectivos por curso.
+
+Para aquellos que hubieran realizado cursos antes de la entrada en vigor del presente Reglamento y estuvieran sujetos a los tiempos mínimos de servicios efectivos por curso que dispone el Real Decreto 3926/1982, de 15 de diciembre, que establece el tiempo mínimo de permanencia en la situación de actividad por el personal que efectúe cursos de especialización o prácticas, el tiempo mínimo de permanencia en la situación de servicio activo que establece el artículo 4.°, apartado 1, tercera de este Reglamento, sólo les será aplicable cuando les resulte más favorable.

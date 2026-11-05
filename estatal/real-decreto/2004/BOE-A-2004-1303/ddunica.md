@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto, en particular aquellas disposiciones contenidas en el Real Decreto 1497/1987, de 27 de noviembre, por el que se establecen directrices generales comunes de los planes de estudios de los títulos universitarios de carácter oficial y validez en todo el territorio nacional, así como las contenidas en el Real Decreto 1496/1987, de 6 de noviembre, sobre obtención, expedición y homologación de títulos universitarios, que afecten directamente, en ambas normas, al procedimiento de homologación de planes de estudios y títulos.

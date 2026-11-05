@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Cuadro actualizado de las disposiciones reglamentarias vigentes del Consejo General del Poder Judicial.
+
+En cumplimiento de lo dispuesto en el artículo 22 del Acuerdo de 7 de junio de 1995, del Pleno del Consejo General del Poder Judicial, por el que se aprueban los Reglamentos de la Carrera Judicial, de la Escuela Judicial, de los Jueces de Paz, de los Órganos de Gobierno de los Tribunales y de los aspectos accesorios de las actuaciones judiciales, se publica, como anexo II al presente Acuerdo reglamentario, el cuadro actualizado de los Reglamentos vigentes, con las nuevas normas aprobadas o la modificación de las anteriores.

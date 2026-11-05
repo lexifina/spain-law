@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 8 de abril de 2018, por la disposición derogatoria única.c) de la Orden INT/359/2018, de 6 de abril, Ref. BOE-A-2018-4747#dd, y por la disposición derogatoria única.c) de la Orden INT/26/2021, de 15 de enero. Ref. BOE-A-2021-897#dd

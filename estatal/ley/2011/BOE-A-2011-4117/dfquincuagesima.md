@@ -1,0 +1,33 @@
+## Disposición final quincuagésima. Modificación de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.
+
+Con efectos a partir de 3 meses desde la publicación en el «Boletín Oficial del Estado» de esta Ley, se modifica el artículo 38 de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, que queda redactado de la siguiente manera:
+
+«Artículo 38. Tasa por examen de películas cinematográficas y otras obras audiovisuales, para su calificación por grupos de edad.
+
+1. Se crea la tasa por examen de películas cinematográficas y otras obras audiovisuales, para su calificación por grupos de edad. Esta tasa se regirá por la presente Ley y por las demás fuentes normativas que para las tasas se establecen en el artículo 9 de la Ley 8/1989, de 13 de abril, de Tasas y Precios Públicos.
+
+2. Constituye el hecho imponible de la tasa el examen de las películas cinematográficas y otras obras audiovisuales para su calificación por grupos de edad cuando dicho examen venga establecido por disposición legal o reglamentaria.
+
+3. La tasa se devengará cuando se presente la película u otra obra audiovisual para su visionado.
+
+4. Serán sujetos pasivos de la tasa los titulares de los derechos de explotación de las películas cinematográficas y otras obras audiovisuales presentadas a calificación y que pretendan distribuirlas en España para su proyección, comunicación pública o venta, que se encuentren legal o reglamentariamente obligados a solicitar la calificación de las obras por grupos de edad.
+
+5. Cuantía de la tasa.
+
+La cuantía de la tasa se aplicará en función de la duración de las películas cinematográficas y otras obras audiovisuales, de acuerdo con los tramos siguientes:
+
+Películas y obras con duración entre 1’ y 30’: 10 €.
+
+Películas y obras con duración entre 31’ y 60’: 50 €.
+
+Películas y obras con duración entre61’ y 90’: 80 €.
+
+Películas y obras con duración entre91’ y 120’: 110 €.
+
+Películas y obras con duración a partir de 121’: 150 €.
+
+6. La tasa será objeto de autoliquidación por los sujetos pasivos, de acuerdo con los modelos que se aprueben, realizándose su pago en efectivo mediante ingreso en entidad de depósito autorizada por el Ministerio de Economía y Hacienda.
+
+7. La gestión de la tasa corresponde al Instituto de la Cinematografía y de las Artes Audiovisuales.
+
+8. La recaudación de la tasa se aplicará al Presupuesto del Instituto de la Cinematografía y de las Artes Audiovisuales.»

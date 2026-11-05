@@ -1,0 +1,15 @@
+## Artículo 4. Residente.
+
+1. A los efectos del presente Convenio, la expresión «residente de un Estado Contratante» significa toda persona que, en virtud de la legislación de dicho Estado, esté sujeta a imposición en él por razón de su domicilio, residencia, sede de dirección o cualquier otro criterio de naturaleza análoga. Sin embargo, esta expresión no incluye a las personas que estén sujetas a imposición en este Estado exclusivamente por las rentas que obtengan procedentes de fuentes situadas en el citado Estado o por el patrimonio que posean en el mismo.
+
+2. Cuando, en virtud de las disposiciones del párrafo 1, una persona física fuera residente de ambos Estados Contratantes, su situación se resolverá de la siguiente manera:
+
+a) esta persona se considerara como residente del Estado Contratante donde disponga de una vivienda permanente. Si dispusiera de una vivienda permanente en ambos Estados Contratantes, se considerará residente del Estado Contratante en el que se sitúe su centro de intereses vitales.
+
+b) Si no pudiera determinarse el Estado Contratante en el que dicha persona tiene el centro de sus intereses vitales o si no dispusiera de una vivienda permanente en ninguno de los Estados Contratantes, se le considerará residente del Estado Contratante donde viva habitualmente.
+
+c) Si viviera habitualmente en ambos Estados Contratantes o no lo hiciera en ninguno de ellos, se considerará residente del Estado Contratante del que sea nacional.
+
+d) Si fuera nacional de ambos Estados Contratantes o no lo fuera de ninguno de ellos, las autoridades competentes de los Estados Contratantes resolverán el caso de común acuerdo.
+
+3. Cuando en virtud de las disposiciones del párrafo 1 una persona que no sea una persona física sea residente de ambos Estados Contratantes, se considerará residente del Estado en que se encuentre su sede de dirección efectiva.

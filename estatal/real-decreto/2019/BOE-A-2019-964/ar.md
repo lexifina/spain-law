@@ -1,0 +1,3 @@
+## Artículo 1. Objeto.
+
+Constituye el objeto de este real decreto regular determinados aspectos relativos a la aplicación en España del régimen de comercio de derechos de emisión de gases de efecto invernadero en el periodo 2021-2030 de acuerdo con la normativa de la Unión Europea, en relación con la asignación gratuita de derechos de emisión de gases de efecto invernadero de dicho periodo, el régimen de exclusión de instalaciones de pequeño tamaño y hospitales, el régimen de exclusión de instalaciones que emiten menos de 2.500 toneladas para el periodo de asignación 2021-2025, así como las obligaciones de publicación en el ámbito del mecanismo de compensación de los costes indirectos de emisiones de gases de efecto invernadero.

@@ -1,0 +1,5 @@
+## Disposición transitoria novena. Disposiciones relativas a la prestación de las facilidades de identificación de la línea de origen o de la línea conectada.
+
+1. Los operadores que, en el momento de entrada en vigor de este reglamento, se encuentren prestando las facilidades de identificación de la línea de origen y de la línea conectada, deberán cumplir lo previsto en el segundo párrafo del apartado 2 del artículo 71 y en el último párrafo de dicho artículo en el plazo de un mes desde dicha entrada en vigor.
+
+2. Hasta que se apruebe la resolución que atribuya un número corto como código para la supresión en origen por el usuario, llamada a llamada, de la identificación de la línea de origen, continuará vigente el código establecido en la Resolución de la Secretaría General de Comunicaciones, de 2 de diciembre de 1998, por la que se atribuye el código 067 al servicio de supresión en origen llamada a llamada de la identificación de la línea llamante, con las modificaciones que, en su caso, se establezcan por las disposiciones de desarrollo del plan de numeración.

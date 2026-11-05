@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 30 de octubre de 2025, con excepción del apartado 1 de su disposición transitoria primera, según establece la disposición derogatoria única del Real Decreto 899/2025, de 9 de octubre. Ref. BOE-A-2025-20206#dd

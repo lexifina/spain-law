@@ -1,0 +1,5 @@
+## Artículo sesenta
+
+Uno. Los servicios encargados del tratamiento se esforzarán por conocer y tratar todas las peculiaridades de personalidad y ambiente del penado que puedan ser un obstáculo para las finalidades indicadas en el artículo anterior.
+
+Dos. Para ello, deberán utilizarse, en tanto sea posible, todos los métodos de tratamiento y los medios que, respetando siempre los derechos constitucionales no afectados por la condena, puedan facilitar la obtención de dichas finalidades.

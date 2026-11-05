@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Inscripción de parámetros de Información de Servicio a través de las comunidades autónomas.
+
+Sin perjuicio de lo establecido en la disposición adicional tercera, los trámites para la inscripción de parámetros de Información de Servicio en el Registro de parámetros de información de los servicios de televisión digital terrestre que se crea mediante esta orden, se realizarán a través de la comunidad autónoma correspondiente en el caso de que se trate de múltiples digitales de ámbito territorial no superior al autonómico, a cuyo efecto todas las comunidades autónomas deberán trasladar a la Comisión del Mercado de las Telecomunicaciones las solicitudes recibidas.

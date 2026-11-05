@@ -1,0 +1,3 @@
+## Quinto.
+
+Cuando la notificación se envíe a través de Internet sin certificado de firma electrónica reconocido, sólo se considerará recibida la notificación efectuada desde la fecha en la que tenga entrada en la Agencia Española de Protección de Datos la hoja de solicitud firmada de forma manual. En todo caso, carecerán de efecto alguno las notificaciones si la hoja de solicitud, debidamente cumplimentada y firmada, no hubiera sido presentada en la Agencia Española de Protección de Datos o en alguno de los Registros y oficinas a los que se refiere el artículo 38.4 de la Ley 30/1992, en el plazo de los diez días siguientes al envío de la notificación a través de Internet sin certificado de firma electrónica reconocido.

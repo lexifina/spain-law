@@ -1,0 +1,3 @@
+## Disposición final cuarta. Título competencial.
+
+Este real decreto tiene el carácter de norma básica y es de aplicación en todo el territorio nacional, a excepción a excepción de lo establecido en el apartado 2 del artículo 24; del apartado 3 del artículo 35; del apartado 2 del artículo 45; y de la remisión que se hace en los preceptos a las facultades de las Comunidades Autónomas en el ámbito de sus competencias, y se dicta en virtud de las competencias que atribuye al Estado el artículo 149.1.30.ª de la Constitución y la disposición adicional primera, apartado 2 a) y c), de la Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación.

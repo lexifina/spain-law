@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Disposiciones que se derogan.
+
+Quedan derogadas todas las normas de igual o inferior rango en lo que se opongan a lo dispuesto en este Real Decreto y, en particular, el Real Decreto 1912/1999, de 17 de diciembre, por el que se aprueba el Reglamento de ejecución de la Ley 32/1999, de 8 de octubre, de solidaridad con las víctimas del terrorismo, el Real Decreto 1974/1999, de 23 de diciembre, por el que se aprueba el Reglamento de la Real Orden de Reconocimiento Civil a las víctimas del Terrorismo, y el Real Decreto 288/2003, de 7 de marzo, por el que se aprueba el Reglamento de ayudas y resarcimientos a las víctimas de delitos de terrorismo.

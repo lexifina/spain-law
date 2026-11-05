@@ -1,0 +1,9 @@
+## Disposición adicional primera. Otra información a publicar con el Inventario.
+
+1. Adicionalmente a la publicación del Inventario de las entidades del sector público institucional, la Intervención General de la Administración del Estado captará y proporcionará información homogénea, de forma separada e independiente, sobre:
+
+a) La parte del sector público relativa a la Administración General del Estado, las Administraciones de las Comunidades Autónomas y las Entidades que integran la Administración Local.
+
+b) Las entidades que, no incluidas en el Inventario por no tener la consideración de sector público institucional conforme a lo establecido en la Ley 40/2015, de 1 de octubre, estén participadas por el sector público o se clasifiquen como agentes del sector público por las instituciones competentes en materia de contabilidad nacional.
+
+2. Las fuentes de esta información serán, por un lado, las disponibles en la Intervención General de la Administración del Estado, consecuencia del ejercicio de sus funciones, así como la información suministrada por la Secretaría General Técnica del Ministerio de Hacienda derivada de la información económico financiera disponible en cumplimiento de lo previsto en la Orden HAP/2105/2012, de 1 de octubre, por la que se desarrollan las obligaciones de suministro previstas en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera y el resto de normativa de desarrollo de la mencionada ley orgánica, que debe ser remitida tan pronto como se reciba de la Administración autonómica y local a la Intervención General de la Administración del Estado a efectos de la clasificación de las unidades en términos de contabilidad nacional. Adicionalmente, la Secretaría General Técnica del Ministerio de Hacienda cederá a la Intervención General de la Administración del Estado datos relativos a las intervenciones de la Administración autonómica y local.

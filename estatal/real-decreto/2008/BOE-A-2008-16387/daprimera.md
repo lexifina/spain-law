@@ -1,0 +1,3 @@
+## Disposición adicional primera. Recursos.
+
+Toda decisión de las administraciones públicas adoptada en aplicación de este real decreto que suponga una restricción de la comercialización y/o de la puesta en servicio de un producto incluido en el ámbito de aplicación del artículo 1, se motivará de forma precisa y será comunicada en la forma legalmente establecida al interesado, indicándole los recursos procedentes y los plazos para interponerlos, según lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.

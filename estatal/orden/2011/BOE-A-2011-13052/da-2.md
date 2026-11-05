@@ -1,0 +1,7 @@
+## Disposición adicional primera. Delegación de competencias.
+
+Se delega en el Secretario General de Sanidad, la competencia para incluir nuevos procedimientos, trámites y comunicaciones a los que será de aplicación lo dispuesto en la presente orden, así como nuevos modelos normalizados y preimpresos para hacer efectivo el ejercicio de derechos, acciones y comunicaciones. En todo caso, la adopción de nuevos procedimientos dentro del ámbito de competencias de dicho Departamento, y el establecimiento de nuevos modelos normalizados o la modificación de los actuales se entenderán, sin perjuicio de lo previsto en el Real Decreto 1465/1999, de 17 de septiembre, por el que se establecen criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado, publicados en la dirección electrónica del Ministerio de Sanidad, Política Social e Igualdad: http://sede.msps.gob.es/home.do.
+
+> Se numera como disposición adicional primera por el art. único.5 de la Orden SSI/2375/2014, de 11 de diciembre. Ref. BOE-A-2014-13183
+
+> Su anterior denominación era disposición adicional única.

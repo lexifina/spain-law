@@ -1,0 +1,1 @@
+Téngase en cuenta que la reducción de servicios recogida en la presente Orden se aplicó al periodo de vigencia del permiso retribuido recuperable previsto en el Real Decreto-ley 10/2020, que se extendió del 30 de marzo al 9 de abril de 2020, ambos inclusive, por lo que debe entenderse que esta norma ha perdido su vigencia.

@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Adaptación de las leyes y las normas con rango de ley.
+
+1. Las leyes del Parlamento y las normas con rango de ley del Gobierno vigentes en el momento de la entrada en vigor del presente Estatuto que eventualmente puedan resultar incompatibles con los derechos reconocidos por el Título I mantienen su vigencia por un plazo máximo de dos años, en el cual deben ser adaptadas a la regulación establecida por el presente Estatuto.
+
+2. Los Grupos Parlamentarios, los miembros del Parlamento, el Gobierno y el Síndic de Greuges, en el plazo establecido por el apartado 1, pueden solicitar dictamen al Consejo de Garantías Estatutarias, en los términos establecidos por ley, sobre la compatibilidad con el Estatuto de las leyes del Parlamento o de las normas con rango de ley dictadas por el Gobierno antes de su entrada en vigor. El dictamen no tiene valor vinculante y puede hacer recomendaciones al Parlamento o al Gobierno para modificar o derogar las normas que considere incompatibles.

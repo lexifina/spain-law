@@ -1,0 +1,7 @@
+## Disposición adicional novena. Adecuación del Régimen Especial de Autónomos.
+
+Al objeto de hacer converger la intensidad de la acción protectora de los trabajadores por cuenta propia con la de los trabajadores por cuenta ajena, las bases medias de cotización del Régimen Especial de Trabajadores Autónomos experimentarán un crecimiento al menos similar al de las medias del Régimen General.
+
+En todo caso, la subida anual no superará el crecimiento de las medias del Régimen General en más de un punto porcentual. Las subidas de cada año, así como cualquier otra modificación sustancial del sistema, se debatirán con carácter previo en el marco del diálogo social con las organizaciones sindicales y empresariales más representativas, así como con las organizaciones profesionales de trabajadores autónomos más representativas, y se consultará al Consejo Estatal del Trabajo Autónomo según establece el artículo 22 de la Ley 20/2007, y no serán aplicables los años en los que las crisis económicas tengan como efectos la pérdida de rentas o empleo en este colectivo.
+
+Se tendrá en cuenta la posibilidad, prevista en los artículos 25.3 y 27.2c del Estatuto del Trabajo Autónomo, de establecer exenciones, reducciones o bonificaciones en las cotizaciones de la Seguridad Social para determinados colectivos de trabajadores autónomos que, por su naturaleza, tienen especiales dificultades para aumentar su capacidad económica y de generación de rentas, o para aquellos sectores profesionales que de forma temporal puedan sufrir recortes importantes en sus ingresos habituales.

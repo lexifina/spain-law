@@ -1,0 +1,7 @@
+## Disposición transitoria sexta. Publicidad de los planes de inversión aprobados hasta la entrada en vigor de este real decreto.
+
+1. Las empresas distribuidoras publicarán el contenido de los planes de inversión que hayan sido aprobados con anterioridad a la entrada en vigor de este real decreto, así como el de aquellos a los que se refiere la disposición transitoria tercera del mismo. Esta publicación se limitará a los planes de inversión posteriores al ejercicio 2019. La publicación se realizará en el mismo sitio donde se realicen las publicaciones a las que se refiere el artículo 11.2 de este real decreto.
+
+2. Las empresas transportistas publicarán el contenido de los planes de inversión que hayan sido aprobados con anterioridad a la entrada en vigor de este real decreto, así como el de aquellos a los que se refiere la disposición transitoria cuarta del mismo. Esta publicación se limitará a los planes de inversión posteriores al ejercicio 2019. La publicación se realizará en el mismo sitio donde se realicen las publicaciones a las que se refiere el artículo 17.2 de este real decreto.
+
+3. La publicación a la que se refieren los apartados anteriores tendrá lugar en el plazo máximo de tres meses desde la entrada en vigor de este real decreto. Este plazo de publicación aplicará también a los planes de inversión cuya aprobación haya sido notificada dentro de los dos meses posteriores a la entrada en vigor del real decreto.

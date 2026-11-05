@@ -1,0 +1,9 @@
+## Disposición final primera. Acuíferos compartidos.
+
+1. En el plazo de un año desde la entrada en vigor de este real decreto, el Ministerio para la Transición Ecológica y el Reto Demográfico, partiendo de la información recogida en los planes hidrológicos aprobados, elaborará un catálogo de acuíferos compartidos que identifique las masas de agua subterránea incluidas en cada uno de ellos. Este catálogo será aprobado, previo informe del Consejo Nacional del Agua, mediante acuerdo del Consejo de Ministros y servirá de referencia técnica para la futura actualización de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, en relación a los acuíferos compartidos.
+
+2. Cuando un acuífero catalogado como compartido incluya masas de agua que hayan sido declaradas en riesgo de no alcanzar el buen estado cuantitativo o químico por un organismo de cuenca, esta declaración dará lugar a que los demás organismos de cuenca que participan del mismo acuífero compartido adopten en su territorio medidas de gestión equivalentes y coordinadas en el plazo máximo de seis meses contados desde la publicación del acuerdo de Consejo de Ministros al que se refiere el apartado anterior, todo ello sin perjuicio de lo previsto en el artículo 5 del Reglamento de la Administración Pública del Agua, aprobado por el Real Decreto 927/1988, de 29 de julio.
+
+3. Antes del 31 de diciembre de 2024 el Ministerio para la Transición Ecológica y el Reto Demográfico propondrá un anteproyecto de ley con el que actualizar los contenidos de la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, en aquellos aspectos referidos a los acuíferos compartidos.
+
+4. De acuerdo con el artículo 45.3 del texto refundido de la Ley de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio, los siguientes planes hidrológicos se adaptarán a las previsiones, en particular sobre acuíferos compartidos, recogidas en el Plan Hidrológico Nacional.

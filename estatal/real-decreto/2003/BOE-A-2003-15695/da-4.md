@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Instalaciones de lavado interior ubicadas en territorios insulares.
+
+En las operaciones de lavado que se deben realizar en las islas de La Palma, El Hierro, La Gomera, Fuerteventura, Lanzarote, La Graciosa, Menorca, Ibiza, Formentera o Cabrera, cuando no existan instalaciones fijas para el lavado interior de cisternas, las empresas titulares de instalaciones móviles podrán utilizar unos medios técnicos y procedimientos diferentes aunque equivalentes a los indicados en el anexo I del Real Decreto 948/2003, de 18 de julio, por el que se establecen las condiciones mínimas que deben reunir las instalaciones de lavado interior o desgasificación y despresurización, así como las de reparación o modificación, de cisternas de mercancías peligrosas, previa autorización de la autoridad competente, con un informe técnico favorable de un organismo de control que certifique el cumplimiento de las condiciones de seguridad del procedimiento y también su eficacia, así como el cumplimiento del artículo 6.6 del mencionado real decreto.
+
+> Téngase en cuenta que esta disposición, añadida por el art. único.12 del Real Decreto 186/2026, de 11 de marzo, Ref. BOE-A-2026-5717, entra en vigor el 1 de julio de 2026, según determina su disposición final única.
+
+> Se añade, con efectos de 1 de julio de 2026, por el art. único.12 del Real Decreto 186/2026, de 11 de marzo. Ref. BOE-A-2026-5717

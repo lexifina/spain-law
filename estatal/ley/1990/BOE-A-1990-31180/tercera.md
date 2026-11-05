@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Asignación tributaria a fines religiosos y otros.
+
+En ejecución de lo previsto en el artículo 11, apartado 2 del Acuerdo entre el Estado español y la Santa Sede sobre Asuntos Económicos, de 3 de enero de 1979 y en el apartado 6 de la Disposición Adicional Quinta de la Ley 33/1987, de 23 de diciembre, de Presupuestos Generales del Estado para 1988, el porcentaje del rendimiento del Impuesto sobre la Renta de las Personas Físicas aplicable en las declaraciones correspondientes al período impositivo de 1990, será el 0,5239 por 100.
+
+La Iglesia Católica recibirá, mensualmente, durante 1991, en concepto de entrega a cuenta de la asignación tributaria, una dozava parte de la dotación presupuestaria a la Iglesia Católica en 1990. Cuando se disponga de los datos definitivos del Impuesto sobre la Renta de las Personas Físicas correspondiente a 1990, se procederá a la regularización definitiva abonándose la diferencia a la Iglesia Católica o, en caso de que las entregas a cuenta hubieran superado el importe de la asignación tributaria, compensando el exceso con el importe de las entregas a cuenta posteriores.

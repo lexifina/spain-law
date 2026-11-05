@@ -1,0 +1,17 @@
+## Disposición final segunda. Modificación de la Orden FOM/2296/2002, de 4 de septiembre, por la que se regulan los programas de formación de los títulos profesionales de Marineros de Puente y de Máquinas de la Marina Mercante, y de Patrón Portuario, así como los certificados de especialidad acreditativos de la competencia profesional.
+
+Se añade una nueva disposición transitoria décima a la Orden FOM/2296/2002, de 4 de septiembre, por la que se regulan los programas de formación de los títulos profesionales de Marineros de Puente y de Máquinas de la Marina Mercante, y de Patrón Portuario, así como los certificados de especialidad acreditativos de la competencia profesional, redactada del siguiente modo:
+
+> «Disposición transitoria décima. Competencias en operaciones de lucha contra incendios en petroleros, buques tanque quimiqueros y buques gaseros.
+
+> 1. En el plazo de 6 meses desde la entrada en vigor del Real Decreto 269/2022, de 12 de abril, por el que se regulan los títulos profesionales y de competencia de la Marina Mercante, y hasta la entrada en vigor de la orden ministerial de desarrollo prevista en el artículo 63, los centros de formación marítima que impartan el curso para obtener el Certificado Avanzado de Lucha Contra Incendios, previsto en el artículo 6, adaptarán el programa del curso de formación y las condiciones mínimas de los centros y los cursos, con arreglo a la modificación que apruebe, mediante resolución, el Director General de la Marina Mercante sobre operaciones de lucha contra incendios en petroleros, buques tanque quimiqueros y buques gaseros.
+
+> Asimismo, en la resolución se incluirá la modificación del correspondiente curso para el mantenimiento de la competencia profesional en técnicas avanzadas de lucha contra incendios.
+
+> 2. Hasta la entrada en vigor de la orden ministerial de desarrollo prevista en el artículo 63 del Real Decreto 269/2022, de 12 de abril, por el que se regulan los títulos profesionales y de competencia de la Marina Mercante, para revalidar los certificados de formación básica y avanzada para operaciones de carga en petroleros, buques tanque quimiqueros y buques gaseros se aceptará la experiencia a bordo sobre las operaciones de lucha contra incendios con los requisitos siguientes:
+
+> a) Haber realizado un periodo de embarco de 3 meses durante los 5 años anteriores a la solicitud de revalidación en petroleros, buques tanque quimiqueros o buques gaseros.
+
+> b) Aportar una declaración del capitán del buque por la que certifique la experiencia a bordo sobre las operaciones de lucha contra incendios, de acuerdo al modelo de declaración aprobado por el Director General de la Marina Mercante mediante resolución.
+
+> 3. Los requisitos de los apartados 2.a) y 2.b) podrán ser sustituidos por los certificados que acrediten la formación en técnicas avanzadas de lucha contra incendios que incluyan las operaciones de lucha contra incendios en petroleros, buques tanque quimiqueros y buques gaseros.»

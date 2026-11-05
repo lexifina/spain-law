@@ -1,0 +1,3 @@
+## Disposición transitoria décima. Saldos de la provisión para insolvencias amparada en el artículo 82 del Real Decreto 2631/1982, de 15 de octubre.
+
+Los sujetos pasivos que a la entrada en vigor de la Ley 43/1995, de 27 de diciembre, tuvieran constituido un fondo para provisión de insolvencias mediante el sistema regulado en el apartado 6 del artículo 82 del Real Decreto 2631/1982, de 15 de octubre, por el que se aprueba el Reglamento sobre Sociedades, aplicarán su saldo a la cobertura de los créditos de dudoso cobro existentes en dicha fecha y el exceso, en su caso, a los que se vayan produciendo con posterioridad hasta su total extinción. Entretanto no serán deducibles las dotaciones que se efectúen para la cobertura de los citados créditos.

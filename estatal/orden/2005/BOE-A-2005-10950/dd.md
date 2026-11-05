@@ -1,0 +1,3 @@
+## Disposición derogatoria única.
+
+Desde la entrada en vigor de la presente orden quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la misma y, en particular, desde el 1 de enero de 2006, la Orden de 26 de marzo de 2001, por la que se aprueban los modelos 565 y 567 en pesetas y en euros, de declaración-liquidación del Impuesto Especial sobre Determinados Medios de Transporte, el modelo 568 en euros de solicitud de devolución por reventa y envío de medios de transporte fuera del territorio y los diseños físicos y lógicos para la presentación de los modelos 568 en pesetas y en euros mediante soporte directamente legible por ordenador. («Boletín oficial del Estado» del 30), en lo que respecta a los modelos 565 y 567.

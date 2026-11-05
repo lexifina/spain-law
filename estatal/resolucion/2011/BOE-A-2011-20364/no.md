@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria.2, con efectos de 2 de noviembre de 2026, según establece la disposición final.1.a), y teniendo en cuenta lo establecido en la disposición transitoria.1 de la Resolución de 4 de junio de 2026. Ref. BOE-A-2026-13031#dt

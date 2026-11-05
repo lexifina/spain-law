@@ -1,0 +1,3 @@
+## Segundo.
+
+Los Notarios y Registradores de la Propiedad y Mercantiles tendrán a disposición de cualquier interesado todas las normas legales y reglamentarias en materia arancelaria, y en particular, un folleto explicativo que contendrá, con los ejemplos prácticos más habituales, lo dispuesto en la disposición adicional tercera de la Ley 8/1989, de 13 de abril, el Real Decreto por el que se aprobó el respectivo arancel y sus normas de aplicación, los recursos procedentes y, en su caso, las resoluciones de este centro directivo o los acuerdos de los colegios profesionales aprobando los modelos de minuta.

@@ -1,0 +1,9 @@
+El Real Decreto-ley dieciséis/mil novecientos setenta y siete, de veinticinco de febrero, por el que se regulan los aspectos penales, administrativos y fiscales de los juegos de suerte, envite o azar y de las apuestas, ha cumplido el objetivo estricto de obviar los obstáculos de carácter legal que impedían la autorización y práctica de los juegos de azar, mediante la modificación de los artículos correspondientes del Código Penal, y ha instrumentado los mecanismos fiscales que era necesario arbitrar para alcanzar las finalidades de carácter complementario implícitas en el cambio de política que se ha producido en la materia.
+
+Habida cuenta de la finalidad concreta perseguida, así como del contenido mínimo del citado Real Decreto-ley, resulta evidente la necesidad de completarlo mediante una disposición de carácter global que constituya el marco general normativo de los juegos, en el que se sienten las bases orgánicas y procedimentales de la materia y se contemplen tanto los juegos de suerte, envite o azar como las rifas y tómbolas, y tanto las actividades de los Casinos de Juego, como el juego en Círculos de Recreo y en establecimientos turísticos, abriendo así las puertas a la promulgación de las correspondientes reglamentaciones específicas relativas a todos y cada uno de los aspectos señalados.
+
+Al cumplimiento de la expresada finalidad, sirviendo de puente entre el Real Decreto-ley y los distintos Reglamentos especiales, se dirige el presente Real Decreto, que tiene su causa y fundamento jurídico en lo dispuesto en el artículo cuarto, a) de aquél, según el cual se autoriza al Gobierno para dictar las disposiciones complementarias que sean precisas para el logro de las finalidades perseguidas por aquél.
+
+En su virtud, a propuesta del Ministro de la Gobernación y previa deliberación del Consejo de Ministros en su reunión del día once de marzo de mil novecientos setenta y siete,
+
+DISPONGO:

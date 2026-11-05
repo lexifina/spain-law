@@ -1,0 +1,3 @@
+## Disposición final segunda. Cotos Nacionales de Caza.
+
+Por el Gobierno, a propuesta conjunta de los Ministerios de Agricultura e Información y Turismo se dictarán las disposiciones precisas para que los Cotos Nacionales de Gredos, Picos de Europa y Ronda adquieran la condición de Reservas Nacionales de Caza. En estas Reservas la protección, conservación y fomento de la caza quedarán encomendados al Ministerio de Agricultura, reservándose el Ministerio de Información y Turismo la misión de administrar los aprovechamientos cinegéticos de acuerdo con aquellos criterios turístico-deportivos que considere más convenientes a los intereses generales. Las citadas disposiciones deberán ser dictadas con tiempo suficiente para que entren en vigor el día 1 de enero de 1972.

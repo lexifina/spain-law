@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Procedimientos en tramitación.
+
+1. Lo dispuesto en este real decreto será de aplicación a los procedimientos administrativos derivados de solicitudes de autorización o modificación de productos fitosanitarios, o de inclusión de sustancias activas en la lista de la reglamentación comunitaria, o de modificación de las condiciones de dicha inclusión, respecto de los cuales en el momento de la entrada en vigor de la presente disposición no se haya iniciado aún el proceso de evaluación por la autoridad competente en el marco del Reglamento (CE) n.º 1107/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009.
+
+2. Asimismo, no obstante lo previsto en la letra c) de la Disposición derogatoria única, el Real Decreto 2163/1994, de 4 de noviembre, por el que se implanta el sistema armonizado comunitario de autorización para comercializar y utilizar productos fitosanitarios, seguirá siendo de aplicación a los procedimientos administrativos de autorización, revisión o modificación de productos fitosanitarios al amparo de la Directiva 91/414/CEE, y aún no finalizados en el momento de la entrada en vigor de este real decreto.

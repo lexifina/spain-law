@@ -1,0 +1,3 @@
+## Séptimo. Disponibilidad de profesionales sanitarios.
+
+Durante el tiempo de vigencia del actual estado de alarma y sus posibles prórrogas, las comunidades autónomas velarán por garantizar la suficiente disponibilidad de profesionales sanitarios. Si bien no se recomienda un número de profesionales inferior al existente en la fecha de entrada en vigor del Real Decreto 476/2020, de 27 de marzo, por el que se prorroga el estado de alarma declarado por el Real Decreto 463/2020, de 14 de marzo, sí será necesaria la reorganización de los mismos de acuerdo con las prioridades de esta fase de transición, dotando a las estructuras de Salud Pública y Atención Primaria de los recursos necesarios.

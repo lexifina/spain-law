@@ -1,0 +1,5 @@
+## Vigesimocuarta. Información a otros órganos, entidades o administraciones públicas.
+
+1. Cuando el interventor delegado, regional o territorial actuante o el jefe de división entienda que los hechos acreditados en el ejercicio de la auditoría pública pudieran ser relevantes para otras Administraciones Públicas estatales, autonómicas o locales en el ámbito de sus respectivas competencias, o para sus organismos públicos dependientes, con la debida ponderación de los deberes de confidencialidad y secreto previstos en el artículo 145.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, procederá a la puesta en conocimiento de los órganos competentes de los hechos acreditados, mediante la remisión de un escrito en el que indicará, como mínimo, los hechos acreditados, los autores y, en su caso, los posibles incumplimientos de normativa estatal, autonómica o local.
+
+2. De las comunicaciones realizadas en función de lo previsto en el apartado anterior se dará traslado, para su conocimiento, a la Oficina Nacional de Auditoría.

@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Obligación de informar a los consumidores de sus derechos.
+
+1. Los proveedores de servicios de pago pondrán a disposición de los usuarios de servicios de pago, de manera accesible en sus sitios web, cuando dichos sitios existan, y en papel en sus sedes, agencias y en las entidades en las que se hayan externalizado sus actividades el folleto previsto en el artículo 106.1 de la Directiva (UE) 2015/2366 del Parlamento Europeo y del Consejo de 25 de noviembre de 2015, sobre servicios de pago en el mercado interior y por la que se modifican las Directivas 2002/65/CE, 2009/110/CE y 2013/36/UE y el Reglamento (UE) n.º 1093/2010 y se deroga la Directiva 2007/64/CE, de 13 de noviembre.
+
+2. Los proveedores de servicios de pago facilitarán gratuitamente la información prevista en el apartado 1. En relación con las personas discapacitadas, se utilizarán los medios alternativos adecuados, permitiendo que la información se ponga a disposición de los usuarios de servicios de pago de manera clara y legible, en un formato fácilmente accesible y comprensible.

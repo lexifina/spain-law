@@ -1,0 +1,3 @@
+## Disposición final segunda. Desarrollo normativo.
+
+Se faculta a la persona titular del Ministerio de Sanidad para establecer mediante orden ministerial las condiciones y requisitos que eximan de la autorización y registro a la preparación de radiofármacos PET (tomografía de emisión de positrones) en una unidad de radiofarmacia autorizada, de conformidad con lo establecido en el artículo 48 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por texto refundido de la Ley de garantías y uso racional de medicamentos y productos sanitarios, así como para dictar las disposiciones necesarias para la aplicación y el desarrollo de este real decreto.

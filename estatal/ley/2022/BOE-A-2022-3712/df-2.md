@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de Derecho de la Unión Europea.
+
+Mediante esta ley se incorporan al Derecho español las normas sobre asimetrías híbridas de la Directiva (UE) 2016/1164 del Consejo, de 12 de julio de 2016, por la que se establecen normas contra las prácticas de elusión fiscal que inciden directamente en el funcionamiento del mercado interior, en la redacción dada por la Directiva (UE) 2017/952 del Consejo, de 29 de mayo de 2017, por la que se modifica la Directiva (UE) 2016/1164 en lo que se refiere a las asimetrías híbridas con terceros países, excepto la regla sobre asimetrías híbridas invertidas contenida en el artículo 9 bis de la citada Directiva (UE) 2016/1164.

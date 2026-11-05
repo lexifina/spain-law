@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Uso de la Plataforma de Intermediación de Datos de la Administración del Estado por parte de las Administraciones Públicas.
+
+Las Administraciones Públicas, salvo oposición de la persona interesada, deberán obtener la certificación negativa del Registro Central de Penados y del Registro Central de Delincuentes Sexuales y Trata de Seres Humanos a través de la Plataforma de Intermediación de Datos gestionada por la Agencia Estatal de Administración Digital o por los medios electrónicos habilitados al efecto, cuando la certificación de la ausencia de antecedentes penales o por delitos de naturaleza sexual o de trata de seres humanos deba aportarse en un procedimiento administrativo, constituya un requisito para el acceso a un derecho o adquirir una condición determinada, así como para ejercer profesiones, actividades u oficios que conlleven un contacto directo y habitual con personas menores de edad.
+
+> Se añade por el art. único.22 del Real Decreto 607/2025, de 8 de julio. Ref. BOE-A-2025-14085

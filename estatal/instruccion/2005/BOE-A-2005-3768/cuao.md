@@ -1,0 +1,3 @@
+## Cuarto. Autoridades españolas competentes para traducir y descodificar los certificados de vida expedidos.
+
+Conforme a lo previsto en la declaración incorporada al Instrumento de Ratificación por España del Convenio en relación con lo dispuesto por el artículo 10 de este último, las autoridades españolas competentes para traducir los códigos que figuran en el certificado de vida o para proceder a la descodificación mediante traducción del certificado a la lengua oficial del Estado en que será utilizado son los Notarios, los Encargados de los Registros Civiles Municipales y la Dirección General de los Registros y del Notariado del Ministerio de Justicia.

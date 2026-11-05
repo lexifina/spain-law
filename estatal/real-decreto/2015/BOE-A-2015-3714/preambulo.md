@@ -1,0 +1,27 @@
+El artículo 33 de la Ley 23/1998, de 7 de julio, de Cooperación Internacional para el Desarrollo, prevé la creación del Registro de Organizaciones No Gubernamentales de Desarrollo (ONGD) adscrito a la Agencia Española de Cooperación Internacional para el Desarrollo. El Real Decreto 993/1999, de 11 de junio, aprobó el Reglamento del Registro de ONGD en el que se regulaba el contenido de las inscripciones, así como los procedimientos de inscripción, modificación y cancelación.
+
+El acceso al Registro constituye, tal como establece el citado artículo 33 de la Ley 23/1998, de 7 de julio, una condición indispensable para recibir de las Administraciones públicas ayudas y subvenciones computables como ayuda oficial al desarrollo, a la vez que permite acceder a los incentivos fiscales que prevé el artículo 35. Esta circunstancia obliga a verificar la idoneidad de las entidades que se inscriben, así como la veracidad de los datos inscritos, y a tomar las medidas necesarias para que la información recogida se mantenga actualizada, consiguiendo el más alto nivel de fidelidad del Registro a la realidad.
+
+El tiempo transcurrido desde la aprobación del Reglamento ha puesto de manifiesto la importancia del Registro de ONGD como reflejo de la diversidad y características del tejido asociativo comprometido con la solidaridad internacional, como instrumento para la publicidad de las ONGD, como referente para poder acogerse a los beneficios fiscales que la ley determina, así como para la gestión de las convocatorias de subvenciones, tanto de ámbito estatal como autonómico. No obstante, los cambios producidos en el sector y en la propia Administración General del Estado, junto con la creación de registros de la misma naturaleza en algunas comunidades autónomas hacen que la adaptación del Reglamento al nuevo contexto sea ineludible.
+
+El Reglamento aborda, en primer lugar, la definición del tipo de entidad susceptible de inscripción en el Registro. La evolución del sector de las ONGD, impulsada por una creciente implantación social, experiencia y profesionalización en su funcionamiento, ha modificado la estructura y forma de actuar de las mismas, y ha propiciado también un aumento en su número. Resulta por ello conveniente desarrollar la somera definición de ONGD que proporciona el artículo 32 de la Ley 23/1998, de 7 de julio. Se clarifican así conceptos de fuerte indeterminación como el carácter no gubernamental de los solicitantes, excluyendo a aquellos que mantengan vínculos jurídicos de dependencia con las administraciones y entidades del sector público; los fines en materia de cooperación o la estructura suficiente, requisitos todos ellos que han de cumplir aquellas entidades que soliciten la inscripción en el Registro de ONGD.
+
+Se completa la definición del ámbito subjetivo con la descripción del procedimiento de primera inscripción.
+
+El real decreto establece un periodo transitorio de doce meses para que las entidades actualmente inscritas se adecuen a los requisitos y obligaciones establecidas en el nuevo Reglamento.
+
+En segundo lugar, el real decreto trata los aspectos relacionados con el mantenimiento y actualización de los datos registrales.
+
+La sucesiva ampliación del acceso de los ciudadanos a los servicios públicos a través de medios electrónicos posibilita, en primer término, que la documentación pueda remitirse preferentemente en este formato. Por otra parte, facilita que la actualización de algunos de los datos inscritos más relevantes, esto es, aquellos que permiten obtener una radiografía de la estructura y ámbito en el que las entidades inscritas desarrollan sus funciones, sea más rápida y eficaz. Por tanto, se dan las condiciones necesarias para que puedan establecerse procedimientos de actualización casi permanente del Registro.
+
+Con esta finalidad de mantener un Registro de ONGD con una información actualizada, el Reglamento regula las figuras de la actualización y la modificación de los datos inscritos, así como de la suspensión de la inscripción en los casos en los que aquéllas no se produzcan en los plazos establecidos.
+
+Con el mismo objetivo se regulan los procesos de sucesión de entidades inscritas en el Registro, atendiendo así al contexto actual en el que se está produciendo un incremento de fusiones, absorciones o simples cambios de forma jurídica a los que debe dar respuesta el Registro de ONGD.
+
+Por último, algunas comunidades autónomas, haciendo uso de la facultad prevista en el artículo 33.1 de la Ley 23/1998, de 7 de julio, han creado registros de ONGD en sus respectivos territorios. Sin embargo, el Reglamento del Registro de ONGD no preveía la articulación de instrumentos de cooperación entre éste y los registros autonómicos, más allá del mandato genérico introducido por el legislador en el citado artículo. Esta circunstancia trata de ser subsanada en la nueva redacción del Reglamento, que prevé para este caso concreto la posibilidad de suscribir convenios de colaboración para asegurar la comunicación y homologación de datos registrales por medios electrónicos.
+
+El real decreto ha sido informado por el Consejo de Cooperación al Desarrollo.
+
+En su virtud, a propuesta del Ministro de Asuntos Exteriores y de Cooperación, previa aprobación del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 20 de marzo de 2015,
+
+DISPONGO:

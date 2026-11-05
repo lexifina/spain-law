@@ -1,0 +1,3 @@
+## Disposición final segunda.
+
+En el plazo máximo de un año el Gobierno aprobará el Reglamento que desarrolle la presente Ley, continuando entre tanto en vigor el Reglamento de los Servicios de Prisiones aprobado por Decreto de dos de febrero de mil novecientos cincuenta y seis y modificado por Decretos dos mil setecientos cinco/mil novecientos sesenta y cuatro, de veintisiete de julio; ciento sesenta y dos/mil novecientos sesenta y ocho, de veinticinco de enero; mil trescientos setenta y dos/mil novecientos setenta, de treinta de abril; y Real Decreto dos mil doscientos setenta y tres/mil novecientos setenta y siete, de veintinueve de julio, en lo que no se oponga a los precepto de la Ley General Penitenciaria.

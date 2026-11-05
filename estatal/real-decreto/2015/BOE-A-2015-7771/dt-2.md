@@ -1,0 +1,5 @@
+## Disposición transitoria séptima. Deterioro de instrumentos de deuda de los fondos de titulización.
+
+En tanto se mantenga la redacción original de la Circular 2/2016, de 20 de abril, de la Comisión Nacional del Mercado de Valores, sobre normas contables, cuentas anuales, estados financieros públicos y estados reservados de información estadística de los fondos de titulización, en lo referente a las correcciones por deterioro de valor de los instrumentos de deuda valorados por su coste amortizado de los fondos de titulización a que se refiere el título III de la Ley 5/2015, de 27 de abril, de fomento de la financiación empresarial, la deducibilidad de las dotaciones correspondientes a las mismas se determinará aplicando los criterios establecidos en el artículo 9 de este Reglamento en su redacción vigente a 31 de diciembre de 2015.
+
+> Se añade, con efectos para los periodos impositivos que se inicien a partir de 1 de enero de 2016, por el art. único.4 del Real Decreto 683/2017, de 30 de junio. Ref. BOE-A-2017-7582

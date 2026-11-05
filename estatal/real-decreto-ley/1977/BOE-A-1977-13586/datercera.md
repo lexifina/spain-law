@@ -1,0 +1,5 @@
+## Disposición adicional tercera.
+
+Uno. Se autoriza al Gobierno, a propuesta del Ministro de Hacienda y previo informe del Ministerio de Agricultura, para adaptar el régimen fiscal actualmente aplicable a las Entidades y Organismos sindicales agrarios, a las Corporaciones y Entidades de Derecho Público que se creen al amparo de este Real Decreto-ley, así como para atribuir la actual percepción sobre la contribución rústica establecida en el Decreto de veintiocho de abril de mil novecientos treinta y tres a las citadas Corporaciones y Entidades de Derecho Público.
+
+Dos. Estarán exentos de los Impuestos de Transmisiones Patrimoniales y Actos Jurídicos Documentados la creación de las Corporaciones y Entidades de Derecho Público a que se refieren los apartados a), b) y g) de la disposición adicional segunda, así como las transmisiones, cesiones, subrogaciones o adscripciones de bienes y derechos que constituyen el patrimonio privativo de las actuales organización y Entidades de carácter sindical agrario a favor de las Corporaciones y Entidades de Derecho Público de carácter agrario que se creen al amparo de lo prevenido en el presente Real Decreto-ley.

@@ -1,0 +1,3 @@
+## Disposición final primera. Variación anual de las retribuciones.
+
+A las cuantías de las retribuciones fijadas en el presente real decreto les resultarán de aplicación, a partir de 2019, las variaciones retributivas que con carácter general establezcan las leyes de presupuestos generales del Estado u otras normas reguladoras de las retribuciones del personal al servicio del sector público, sin perjuicio del incremento retributivo adicional ligado al incremento del Producto Interior Bruto (PIB) que pudiera resultar, en su caso, de la aplicación de las previsiones del artículo 3.2, segundo párrafo, del Real Decreto-ley 24/2018, de 21 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público.

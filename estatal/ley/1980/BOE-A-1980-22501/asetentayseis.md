@@ -1,0 +1,3 @@
+## Artículo setenta y seis.
+
+El perjudicado o sus herederos tendrán acción directa contra el asegurador para exigirle el cumplimiento de la obligación de indemnizar, sin perjuicio del derecho del asegurador a repetir contra el asegurado, en el caso de que sea debido a conducta dolosa de éste, el daño o perjuicio causado a tercero. La acción directa es inmune a las excepciones que puedan corresponder al asegurador contra el asegurado. El asegurador puede, no obstante, oponer la culpa exclusiva del perjudicado y las excepciones personales que tenga contra éste. A los efectos del ejercicio de la acción directa, el asegurado estará obligado a manifestar al tercero perjudicado o a sus herederos la existencia del contrato de seguro y su contenido.

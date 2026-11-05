@@ -1,0 +1,5 @@
+## Apartado cuarto. Residencias unipersonales para empleados públicos.
+
+Podrán solicitar el uso de habitaciones en residencias para empleados públicos los funcionarios y personal laboral de carácter fijo del Centro que vivan solos y no tengan adjudicada otra vivienda ni dispongan de vivienda en la localidad, o a una distancia de menos de 100 kilómetros del puesto de trabajo. También podrán solicitarlo funcionarios y trabajadores de otras plantillas si quedaran, al menos, un diez por ciento de plazas vacantes y reunieran el resto de requisitos exigidos. Igualmente, si continuaran existiendo plazas vacantes, podrán solicitarlas los funcionarios interinos y en prácticas por el tiempo que estén asignados al Centro.
+
+Para el uso de las residencias unipersonales para empleados públicos será de aplicación lo dispuesto en el apartado anterior, salvo respecto a la adjudicación, que será efectuada directamente por la Junta Económico- Administrativa del Centro, comunicando al Centro Directivo de forma trimestral las variaciones que se produzcan.

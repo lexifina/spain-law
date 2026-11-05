@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Traslado de las inscripciones del Registro Estatal de Prestadores de Servicios de Comunicación Audiovisual.
+
+De conformidad con lo establecido en la disposición transitoria séptima de la Ley 13/2022, de 7 de julio, las inscripciones efectuadas en el Registro Estatal de Prestadores del Servicio de Comunicación Audiovisual serán trasladadas de oficio al nuevo Registro Estatal, dejando de estar en vigor el Registro Estatal de Prestadores de Servicios de Comunicación Audiovisual previsto en el Real Decreto 847/2015, de 28 de septiembre, por el que se regula el Registro Estatal de Prestadores de Servicios de Comunicación Audiovisual y el procedimiento de comunicación previa de inicio de actividad.

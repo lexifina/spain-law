@@ -1,0 +1,3 @@
+## Segundo.
+
+Como consecuencia de esta ampliación y de la corrección de la cuantificación de la superficie total aportada por el municipio de Peñamellera Baja se fija la superficie total del Parque Nacional de los Picos de Europa en 67.127 Ha 59 a 36 ca, pertenecientes a los términos municipales de Amieva, Cabrales, Cangas de Onís, Onís, Peñamellera Alta y Peñamellera Baja en la Comunidad Autónoma del Principado de Asturias; de Camaleño, Cillorigo de Liébana y Tresviso en la Comunidad Autónoma de Cantabria; y de Oseja de Sajambre y Posada de Valdeón en la Comunidad Autónoma de Castilla y León. Los límites geográficos del Parque Nacional de los Picos de Europa, así ampliado, son los que aparecen cartográficamente en el anexo III de este acuerdo.

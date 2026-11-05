@@ -1,0 +1,3 @@
+## Disposición adicional única. Competencia para administración y disposición de los créditos destinados al Bono Cultural Joven.
+
+La competencia para la administración y disposición de los créditos presupuestarios relativos al Bono Cultural Joven, sin límite cuantitativo, consignados en los presupuestos del Ministerio de Cultura y Deporte, corresponderá a la persona titular de la Subsecretaría de Cultura y Deporte, sin perjuicio de lo dispuesto en el artículo 61.l) de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público y en el artículo 74 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.

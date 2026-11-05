@@ -1,0 +1,3 @@
+## Disposición final cuarta. Títulos competenciales.
+
+Esta ley se dicta al amparo de las competencias exclusivas del Estado previstas en el artículo 149.1.7.ª, 17.ª, 18.ª y 23.ª de la Constitución Española, que atribuyen al Estado la competencia en materia de legislación laboral, sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas, legislación básica y régimen económico de la Seguridad Social, bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios, legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección y legislación básica sobre montes y aprovechamientos forestales.

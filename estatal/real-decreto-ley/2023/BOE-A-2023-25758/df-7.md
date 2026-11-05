@@ -1,0 +1,9 @@
+## Disposición final séptima. Títulos competenciales.
+
+1. El libro primero, las disposiciones adicionales primera, segunda, tercera, cuarta, quinta, sexta, séptima, octava y novena, las disposiciones transitorias primera, segunda y tercera, y las disposiciones finales primera y sexta del presente real decreto-ley se dictan al amparo de lo dispuesto en el artículo 149.1.1.ª de la Constitución, que atribuye al Estado la competencia exclusiva para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales; en el artículo 149.1.5.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de Administración de Justicia; y en el artículo 149.1.6.ª de la Constitución, que atribuye al Estado la competencia exclusiva en materia de legislación procesal.
+
+2. El libro segundo, las disposiciones adicionales décima, undécima, duodécima, decimotercera, decimocuarta y decimoquinta, y las disposiciones transitorias cuarta, quinta, sexta, séptima y octava del presente real decreto-ley no tienen carácter básico, aplicándose exclusivamente a la Administración del Estado como norma de desarrollo del texto refundido de la Ley del Estatuto Básico del Empleado Público.
+
+3. El libro tercero y las disposiciones transitorias novena, décima y undécima del presente real decreto-ley se dictan al amparo de lo contemplado en el artículo 149.1.18.ª de la Constitución Española, que atribuye al Estado competencia exclusiva sobre las bases régimen jurídico de las Administraciones Públicas.
+
+4. El libro cuarto y la disposición adicional decimosexta del presente real decreto-ley se dictan al amparo de lo contemplado en el artículo 149.1.14.ª de la Constitución Española, que atribuye al Estado competencia exclusiva sobre Hacienda general y Deuda del Estado.

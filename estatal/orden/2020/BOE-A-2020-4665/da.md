@@ -1,0 +1,3 @@
+## Disposición adicional única. Medidas en relación con los niños y niñas que residan en centros de protección de menores, centros habitacionales sociales de apoyo para personas con discapacidad u otros servicios residenciales análogos.
+
+Las comunidades autónomas, respetando en todo caso lo regulado en esta orden, podrán, en el ejercicio de sus competencias en materia de protección y tutela de personas menores de edad, adoptar las medidas necesarias para adecuar la aplicación de lo dispuesto en la misma, en relación con los niños y niñas que residan en centros de protección de menores, centros habitacionales sociales de apoyo para personas con discapacidad u otros servicios residenciales análogos.

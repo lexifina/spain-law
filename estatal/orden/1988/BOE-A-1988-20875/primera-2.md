@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+En tanto no se complete la infraestructura informática, tanto de la Subdirección General de Título, Convalidaciones y Homologaciones, como de las Direcciones Provinciales de Educación y Ciencia y, en su caso, de los Órganos correspondientes de las Comunidades Autónomas, en términos que pueda hacerse efectivo lo dispuesto en el número sexto de la presente Orden, la remisión a la que el mismo se refiere será realizada al Centro de Proceso de Datos del Ministerio de Educación y Ciencia, que podrá asimismo suplir el proceso de grabación de datos cuando no haya podido ser hecho por los mencionados Servicios.

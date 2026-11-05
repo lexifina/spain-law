@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Centros autonómicos de control lechero previamente designados.
+
+Los centros autonómicos de control lechero que estaban previamente designados de acuerdo con el Real Decreto 368/2005, de 8 de abril, tienen dos meses desde la entrada en vigor del presente real decreto para presentar una solicitud de autorización como entidad de control lechero. La autoridad competente de la comunidad autónoma tendrá un plazo máximo de seis meses para resolver y notificar dicha resolución de autorización, desde el momento de la presentación de la solicitud en el registro del órgano competente para resolver. Hasta entonces, mantendrán su designación.

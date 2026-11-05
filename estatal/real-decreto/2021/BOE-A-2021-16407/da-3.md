@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Equipos a presión usados procedentes de países no pertenecientes a la Unión Europea o asimilados.
+
+Los equipos a presión usados que procedan de países que no sean de aquellos a los que se refiere la disposición adicional segunda deberán disponer, en su caso, del marcado «CE» de acuerdo con lo establecido en el Real Decreto 709/2015, de 24 de julio, o cuando sea de aplicación, de acuerdo con lo establecido en el Real Decreto 108/2016, de 18 de marzo, y para su utilización habrán de cumplir los requisitos del Reglamento de equipos a presión.
+
+No obstante lo anterior, los equipos a presión a que se refiere el artículo 4.3 del Real Decreto 709/2015, de 24 de julio, deberán disponer de una declaración del importador en la que se indique el cumplimiento de lo dispuesto en el citado real decreto y, asimismo, que se han diseñado y fabricado de conformidad con las buenas prácticas de ingeniería de un Estado miembro de la Unión Europea (selección de materiales, procedimientos de soldadura y homologación de soldadoras o soldadores, entre otras) a fin de garantizar la seguridad en su utilización.

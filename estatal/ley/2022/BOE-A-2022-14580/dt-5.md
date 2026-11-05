@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Régimen transitorio hasta la aprobación del Reglamento de la administración concursal.
+
+En tanto no se apruebe por el Gobierno, conforme a la disposición final decimotercera, el Reglamento de la administración concursal en el que se establecerá el acceso a la actividad, el nombramiento de los administradores concursales y su retribución, continuarán resultando de aplicación la disposición transitoria única del Real Decreto Legislativo 1/2020, de 5 de mayo, por el que se aprueba el texto refundido de la Ley Concursal, así como, en materia de arancel, la disposición transitoria tercera de la Ley 25/2015, de 28 de julio, de mecanismo de segunda oportunidad, reducción de la carga financiera y otras medidas de orden social.

@@ -1,0 +1,9 @@
+## Artículo ciento dieciséis. Transparencia y sostenibilidad del gasto sanitario estatal.
+
+1. El Instituto Nacional de Gestión Sanitaria, la Mutualidad General de Funcionarios Civiles del Estado, las Instituciones penitenciarias y la Mutualidad General Judicial deberán calcular y hacer público a través de la Central de Información Económico-Financiera de las Administraciones Públicas, dependiente del Ministerio de Hacienda y Administraciones Públicas, su gasto farmacéutico hospitalario, su gasto en productos farmacéuticos y sanitarios por recetas médicas u orden de dispensación y el gasto en productos sanitarios sin receta médica u orden de dispensación, de acuerdo con la delimitación definida en los artículos 108 a 110 de esta Ley.
+
+2. La variación interanual del gasto farmacéutico, tanto hospitalario como en productos farmacéuticos y sanitarios por recetas médicas u orden de dispensación extrahospitalario, y del gasto en productos sanitarios sin receta médica u orden de dispensación no farmacéuticos del Instituto Nacional de Gestión Sanitaria, la Mutualidad General de Funcionarios Civiles del Estado y la Mutualidad General Judicial, no podrá ser superior a la tasa de referencia de crecimiento del Producto Interior Bruto de medio plazo de la economía española prevista en el artículo 12.3 de la Ley Orgánica 2/2012, de 27 de abril.
+
+3. Cuando alguno de los sujetos citados en el apartado 2 supere el límite del gasto farmacéutico o el gasto en productos sanitarios sin receta médica u orden de dispensación previsto en el citado apartado 2, aplicará las medidas de mejora de la eficiencia y sostenibilidad del sistema sanitario que sean acordadas por la Comisión Delegada del Gobierno para Asuntos Económicos.
+
+> Se añade por la disposición final 1.1 de la Ley Orgánica 6/2015, de 12 de junio. Ref. BOE-A-2015-6517.

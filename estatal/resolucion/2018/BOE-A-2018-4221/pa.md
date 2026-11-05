@@ -1,0 +1,9 @@
+La Comisión General de Formación para el Empleo de las Administraciones Públicas acordó, en su reunión de 9 de marzo de 2018, aprobar la modificación del Acuerdo de Formación para el Empleo de las Administraciones Públicas (IV Acuerdo de Formación Continua en las Administraciones Públicas de 21 de septiembre de 2005), de conformidad con el procedimiento previsto en la disposición adicional sexta de dicho Acuerdo.
+
+Se trata de la tercera modificación de dicho Acuerdo. La primera de ellas, que entre otros cambios incorporó una nueva denominación del texto, se acordó el 22 de marzo de 2010 y fue publicada mediante Resolución de 8 de junio de 2010 de la Secretaría de Estado para la Función Pública. La segunda modificación, acordada el 19 de julio de 2013 y publicada mediante Resolución de la Secretaría de Estado de Administraciones Públicas de 9 de octubre de 2013, adaptó el Acuerdo a lo dispuesto por las sentencias del Tribunal Constitucional relativas a las competencias autonómicas sobre la gestión de la formación de los empleados públicos de la Administración Local.
+
+La modificación que ahora se publica tiene como finalidad principal adaptar el Acuerdo al nuevo marco establecido por la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el Empleo en el ámbito laboral.
+
+El texto consolidado del Acuerdo de Formación para el Empleo de las Administraciones Públicas (IV Acuerdo de Formación Continua en las Administraciones Públicas de 21 de septiembre de 2005) pasa a ser el que de manera íntegra figura como anexo y a continuación de la presente resolución. Dicho Acuerdo ha sido ratificado por la Mesa General de Negociación de las Administraciones Públicas en su reunión de 15 de marzo de 2018.
+
+Por todo ello, y a fin de favorecer su general conocimiento, esta Secretaría de Estado ha resuelto ordenar su publicación en el «Boletín Oficial del Estado».

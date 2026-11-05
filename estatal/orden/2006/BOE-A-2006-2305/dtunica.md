@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio.
+
+1. La presente Orden, dictada para el desarrollo y aplicación del Real Decreto 835/2003, de 27 de junio, por el que se regula la cooperación económica del Estado a las inversiones de las Entidades Locales, se aplicará a los Planes provinciales e insulares de cooperación a las obras y servicios de competencia municipal que obtengan aportación de la Administración General del Estado, a las intervenciones comunitarias aprobadas por la Comisión Europea cofinanciadas por el Programa de cooperación económica local y a los proyectos de modernización administrativa local y de participación de la sociedad civil que obtengan subvención estatal a partir de su entrada en vigor.
+
+2. Los Planes Provinciales, Programas Operativos, Proyectos Singulares de Desarrollo Local y Urbano y Proyectos con participación de la sociedad civil aprobados con anterioridad a la entrada en vigor de la presente Orden se regirán por la normativa vigente en la fecha de su aprobación, hasta su total finalización.

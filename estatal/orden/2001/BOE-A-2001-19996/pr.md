@@ -1,0 +1,5 @@
+La disposición final tercera, apartado a), del Real Decreto 137/1993, de 29 de enero, por el que se aprueba el Reglamento de Armas, establece que, mediante Órdenes del Ministerio del Interior, dictadas a propuesta de la Dirección General de la Guardia Civil, previo informe favorable de la Comisión Interministerial Permanente de Armas y Explosivos, se podrá determinar, entre los regímenes comprendidos en el Reglamento, el aplicable a las armas no comprendidas específicamente en ninguna de las categorías configuradas en el artículo 3.
+
+En el supuesto previsto en la disposición mencionada se encuentran los artefactos denominados lanzadores de objetos para adiestramiento de perros, no comprendidos específicamente en el referido artículo 3 del citado Reglamento, por lo que resulta necesario determinar el régimen aplicable a los mismos, a cuyo efecto se ha seguido el procedimiento administrativo prevenido, de estudio y clasificación.
+
+En su virtud, a propuesta de la Dirección General de la Guardia Civil, previo informe favorable de la Comisión Interministerial Permanente de Armas y Explosivos, y en uso de la facultad conferida por el citado Real Decreto, dispongo:

@@ -1,0 +1,3 @@
+## Disposición adicional séptima. División de Servicios Digitales Departamentales.
+
+La División de Servicios Digitales Departamentales del suprimido Ministerio de Justicia, creada por la Orden JUS/559/2022, de 15 de junio, ejercerá, bajo la dirección funcional de la Subdirección General de Tecnologías de la Información y Comunicaciones de la Dirección General de Servicios para aquellos servicios que no sean competencia exclusiva de la Secretaría de Estado de Justicia, las funciones previstas en el artículo 6.2.c) de este real decreto, manteniendo su dependencia orgánica de la Dirección General de Transformación Digital de la Administración de Justicia.

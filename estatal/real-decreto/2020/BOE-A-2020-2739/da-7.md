@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Desconcentración.
+
+Corresponderá a la persona titular de la Secretaría de Estado de Telecomunicaciones e Infraestructuras Digitales el ejercicio de las competencias y funciones administrativas que, por la normativa vigente de rango reglamentario, se atribuyen a la persona titular del Ministerio de Asuntos Económicos y Transformación Digital en materia de títulos habilitantes de telecomunicaciones y de servicios de comunicación audiovisual, interconexión y numeración, gestión del dominio público radioeléctrico, control del cumplimiento de las obligaciones de servicio público de telecomunicaciones y servicios de comunicación audiovisual, e imposición de sanciones en estas materias.

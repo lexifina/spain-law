@@ -1,0 +1,9 @@
+## Disposición final quinta. Modificación de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
+
+Se adiciona un nuevo artículo 38 ter en la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, con el siguiente texto:
+
+> «Artículo 38 ter. Deducción por contribuciones empresariales a sistemas de previsión social empresarial.
+
+> El sujeto pasivo podrá practicar una deducción en la cuota íntegra del 10 por ciento de las contribuciones empresariales imputadas a favor de los trabajadores con retribuciones brutas anuales inferiores a 27.000 euros, siempre que tales contribuciones se realicen a planes de pensiones de empleo, a planes de previsión social empresarial, a planes de pensiones regulados en la Directiva (UE) 2016/2341 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2016, relativa a las actividades y la supervisión de los fondos de pensiones de empleo y a mutualidades de previsión social que actúen como instrumento de previsión social de los que sea promotor el sujeto pasivo.
+
+> Cuando se trate de trabajadores con retribuciones brutas anuales iguales o superiores a 27.000 euros, la deducción prevista en el párrafo anterior se aplicará sobre la parte proporcional de las contribuciones empresariales que correspondan al importe de la retribución bruta anual reseñado en dicho párrafo.»

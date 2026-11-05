@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Órganos colegiados de contratación.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera acerca de la subsistencia de unidades y puestos de trabajo, y hasta el momento en que se aprueben las correspondientes órdenes ministeriales y se constituyan los órganos colegiados en materia de contratación del Ministerio de Industria y Turismo, quedarán subsistentes la Junta de Contratación y la Mesa Única de Contratación del extinguido Ministerio de Industria, Comercio y Turismo, con la composición y funciones que establece la Orden ICT/307/2022, de 4 de abril.

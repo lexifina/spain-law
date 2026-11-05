@@ -1,0 +1,5 @@
+## Artículo cuarenta y nueve.
+
+Uno. La Administración no podrá otorgar permisos de investigación en el terreno comprendido en la solicitud, cuyo expediente hubiese sido cancelado por no aceptar el peticionario las condiciones impuestas, sin fijar, como mínimo, las mismas condiciones al solicitante o solicitantes posteriores de dicho terreno. Podrá, no obstante, modificarlas cuando la extensión del terreno objeto de una nueva petición sea distinta de la contenida en el expediente cancelado.
+
+Dos. Al peticionario de una solicitud denegada por alguna de las causas indicadas en el artículo cuarenta y ocho se le concederá audiencia de oficio en cualquier expediente posterior en que se pretenda el total o parte del terreno de aquélla. Este derecho prescribirá al año de haberse notificado el acuerdo de cancelación, sin perjuicio de que el peticionario del expediente cancelado pueda pedir vista de todo expediente posterior, en el momento procesal oportuno, después de efectuada la publicación a que se refiere el artículo cincuenta y uno.

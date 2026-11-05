@@ -1,0 +1,3 @@
+## Artículo noveno. Rejillas.
+
+En toda obra de toma de agua, como canales, acequias y cauces de derivación para el abastecimiento de poblados, riegos o usos industriales, así como a la salida de los canales de fábricas y molinos o de las turbinas, los dueños o concesionarios están obligados a colocar y mantener en buen estado de conservación compuertas de rejilla que impidan el acceso de la población ictícola a dichas corrientes de derivación, sean públicas o privadas. Las Jefaturas de los Servicios Piscícolas serán las encargadas de fijar el emplazamiento y características de las referidas instalaciones.

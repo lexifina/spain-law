@@ -1,0 +1,1 @@
+Téngase en cuenta que la presente Orden produce efectos hasta las 24:00 horas del 29 de mayo de 2021, por lo que debe entenderse que ha perdido su vigencia. La Orden SND/413/2021, de 27 de abril, ha sido prorrogada hasta las 24:00 horas del 12 de junio de 2021, por la Orden SND/511/2021, de 27 de mayo. Ref. BOE-A-2021-8879

@@ -1,0 +1,1 @@
+Norma anulada, en cuanto que en su procedimiento de elaboración no se incorporó a la Memoria de Análisis de Impacto Normativo un informe de impacto en materia de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, por Sentencia del TS de 15 de marzo de 2019. Ref. BOE-A-2019-5024

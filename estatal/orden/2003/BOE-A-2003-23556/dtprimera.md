@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Procedimientos de concesión en curso.
+
+De conformidad con lo dispuesto en la disposición transitoria primera del Real Decreto 1040/2003, de 1 de agosto, por el que se aprueba el Reglamento General de Recompensas Militares, los procedimientos para la concesión de las Cruces del Mérito Militar, Naval y Aeronáutica, con distintivo blanco, y de las Menciones honoríficas, iniciados con anterioridad a la presente Orden Ministerial 181/1998, de 16 de julio, por la que se aprueban las normas de tramitación de las propuestas de concesión de las Cruces del Mérito Militar, del Mérito Naval y del Mérito Aeronáutico y directrices sobre la concesión de menciones honoríficas, y de delegan competencias en la materia.

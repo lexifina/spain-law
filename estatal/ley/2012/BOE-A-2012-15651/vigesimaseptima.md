@@ -1,0 +1,3 @@
+## Disposición adicional vigésima séptima. Confederación Hidrográfica del Guadalquivir.
+
+La Relación de Puestos de Trabajo del personal funcionario y laboral al que hace referencia el Real Decreto 1498/2011, de 21 de octubre, por el que, en ejecución de sentencia, se integran en la Administración del Estado los medios personales y materiales traspasados a la Comunidad Autónoma de Andalucía por el Real Decreto 1666/2008, de 17 de octubre, se aprobará por la Comisión Ejecutiva de la Comisión lnterministerial de Retribuciones, con efectos de 1 de enero de 2013, manteniéndose hasta dicha fecha las retribuciones que se vinieran percibiendo.

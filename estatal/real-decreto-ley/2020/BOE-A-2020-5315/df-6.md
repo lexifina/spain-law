@@ -1,0 +1,5 @@
+## Disposición final sexta. Modificación del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+El segundo párrafo del apartado 1 del artículo 324 del texto refundido de la Ley General de la Seguridad Social, aprobado por Real Decreto Legislativo 8/2015, de 30 de octubre, queda redactado como sigue:
+
+«Las limitaciones en la contratación de trabajadores por cuenta ajena a que se refiere el párrafo anterior se entienden aplicables por cada explotación agraria. En el caso de que en la explotación agraria existan dos o más titulares, en alta todos ellos en el Sistema Especial para trabajadores por cuenta propia agrarios del Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos, se añadirá al número de trabajadores o jornales previstos en el párrafo anterior un trabajador más con cotización por bases mensuales, o doscientos setenta y tres jornales al año, en caso de trabajadores con cotización por jornadas reales, por cada titular de la explotación agraria, excluido el primero.»

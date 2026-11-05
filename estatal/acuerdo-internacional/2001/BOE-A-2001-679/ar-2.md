@@ -1,0 +1,35 @@
+## Artículo 2. Impuestos comprendidos.
+
+1. El presente Convenio se aplica a los Impuestos sobre la Renta y sobre el Patrimonio exigibles por cada uno de los Estados contratantes, sus subdivisiones políticas o sus entidades locales, cualquiera que sea el sistema de su exacción.
+
+2. Se consideran impuestos sobre la Renta y sobre el Patrimonio los que gravan la totalidad de la renta o del patrimonio o cualquier parte de los mismos, incluidos los impuestos sobre las ganancias derivadas de la enajenación de bienes muebles o inmuebles, los impuestos sobre el importe de sueldos o salarios pagados por las empresas, así como los impuestos sobre las plusvalías.
+
+3. Los impuestos actuales a los que se aplica este Convenio son, en particular:
+
+a) En España:
+
+i) El Impuesto sobre la Renta de las Personas Físicas;
+
+ii) el Impuesto sobre Sociedades;
+
+iii) el Impuesto sobre la Renta de no Residentes;
+
+iv) el Impuesto sobre el Patrimonio; y
+
+v) los impuestos locales sobre la renta y sobre el patrimonio.
+
+(denominados en lo sucesivo «impuesto español»)
+
+b) En Israel:
+
+i) Impuestos gravados en virtud de la Ordenanza del Impuesto sobre la Renta y de las leyes que de ella dependen (incluyendo el Impuesto sobre Sociedades y el Impuesto sobre Ganancias de Capital;
+
+ii) impuestos gravados sobre las ganancias procedentes de la enajenación de bienes inmuebles en virtud de la Ley del Impuesto sobre las Plusvalías de Terrenos;
+
+iii) impuestos gravados sobre los bienes inmuebles en virtud de la Ley del Impuesto sobre la Propiedad, y
+
+iv) el impuesto establecido por la Ley del Impuesto sobre los Empleadores.
+
+(denominados en lo sucesivo «impuesto israelí»)
+
+4. Este Convenio se aplica igualmente a los impuestos de naturaleza idéntica o análoga que se establezcan con posterioridad a la firma del mismo, y que se añadan a los actuales o les sustituyan. Las autoridades competentes de los Estados contratantes se comunicarán mutuamente las modificaciones que se hayan introducido en sus respectivas legislaciones fiscales.

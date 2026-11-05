@@ -1,0 +1,9 @@
+El artículo sexto de la Ley 15/1992, de 5 de junio, sobre medidas urgentes para la progresiva adaptación del sector petrolero al marco comunitario, establece que «una vez concluido el proceso de escisión de la Compañía Arrendataria del Monopolio de Petróleos, quedarán excluidas del ámbito del Monopolio de Petróleos la importación, distribución y comercialización de los productos comprendidos en las partidas arancelarias NCE 27.11.12.99.0; 27.11.13.90.0; 27.11.29.00.0, y de los fuelóleos comprendidos en la partida arancelaria 27.10.00.79.0». Por su parte, la disposición final segunda de la citada Ley autoriza al Gobierno para «reglamentar el ejercicio de las actividades desmonopolizadas con arreglo al artículo 6, y establecer las normas básicas en las materias a que se refiere el artículo 8 de la Ley 10/1987, de 15 de junio».
+
+En uso de la referida autorización, se dicta el presente Real Decreto, cuya normativa reguladora del ejercicio de las actividades de comercialización al por mayor y al por menor de los gases licuados del petróleo establece un Reglamento único de carácter básico para todos los operadores y empresas suministradoras, ya sean nacionales o comunitarios, y regula asimismo las condiciones de suministro a consumidores o usuarios finales de gases licuados del petróleo a granel y envasado.
+
+La regulación de la actividad de distribución de los gases licuados del petróleo a que se refiere el presente Real Decreto, por afectar con carácter básico al régimen de abastecimiento energético, se dicta en desarrollo de la Ley 15/1992, de 5 de junio, de acuerdo con el artículo 149.1.25.º de la Constitución.
+
+En su virtud, a propuesta del Ministro de Industria, Comercio y Turismo, previa aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de septiembre de 1992,
+
+DISPONGO:

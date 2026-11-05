@@ -1,0 +1,3 @@
+## Tercera.
+
+Cuando no se respeta la norma de competencia antes indicada, al igual que ocurre en general con todo tipo de procedimiento, dicha infracción implica la nulidad de lo actuado, nulidad que puede ser declarada por la Dirección General de los Registros y del Notariado cuando conozca de la misma a través de los recursos entablados. Dicha nulidad se desprende de la aplicación de las normas de la Ley de Enjuiciamiento Civil en materia de competencia territorial y de fuero personal de las personas físicas (cfr. art. 50 L.E.C. 1/2000, de 7 de enero), la cual es aplicable por la remisión que realiza el artículo 16 de la Ley del Registro Civil, que contiene un llamamiento supletorio a las normas de jurisdicción voluntaria.

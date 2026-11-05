@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Los aumentos de plantillas del Cuerpo Especial Femenino de Instituciones Penitenciarias, Cuerpo Auxiliar Masculino de Instituciones Penitenciarias y Cuerpo de Ayudantes Técnicos Sanitarios de Instituciones Penitenciarias, así como la plantilla del Cuerpo Técnico de Instituciones Penitenciarias y plazas no escalafonadas que se establecen, se financiarán con las amortizaciones de los restantes Cuerpos y plazas no escalafonadas que se suprimen, según detalle contenido en los anexos I y II y conforme a los períodos anuales que en los mismos se contienen, sin que en ningún momento pueda producirse aumento de gasto.

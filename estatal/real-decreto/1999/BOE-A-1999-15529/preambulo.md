@@ -1,0 +1,11 @@
+La Directiva 96/67/CE, del Consejo, de 15 de octubre, relativa al acceso al mercado de asistencia en tierra en los aeropuertos de la Comunidad, establece el marco común regulador de la prestación de dichos servicios en los Estados miembros. La norma comunitaria parte del carácter indispensable de la asistencia en tierra para el correcto funcionamiento del transporte aéreo y la utilización eficaz de las infraestructuras aeroportuarias y se orienta a su apertura al mercado en régimen de libre competencia, de forma progresiva y adaptada a las necesidades del sector.
+
+La disposición adicional cuadragésima de la Ley 66/1997, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social, inició la incorporación al ordenamiento español de la Directiva 96/67/CE, determinando los criterios conforme a los cuales pueden establecerse, por vía reglamentaria, limitaciones en la prestación del servicio de asistencia en tierra a aeronaves, pasajeros y mercancías, así como al derecho a la autoasistencia en los aeropuertos españoles y autorizando al Gobierno para establecer los supuestos y condiciones en que procede la declaración de obligación de servicio público en la prestación de dicho servicio.
+
+Este Real Decreto da cumplimiento al citado precepto legal y completa la recepción de la Directiva 96/67/CE.
+
+En el mismo, se establecen los requisitos exigibles para el ejercicio de los servicios de asistencia en los aeropuertos de interés general, se liberaliza, con algunas excepciones, el régimen de prestación de dichos servicios, se regulan los supuestos en los que, en razón del espacio disponible, la capacidad, la seguridad y demás condiciones propias de un aeropuerto, el número de agentes o usuarios que presten servicios de asistencia ha de quedar limitado y se encomienda a la entidad pública empresarial Aeropuertos Españoles y Navegación Aérea (AENA) la gestión de las infraestructuras aeroportuarias que, por su complejidad, coste económico o impacto en el medio ambiente, deban mantenerse bajo la responsabilidad de la autoridad aeroportuaria.
+
+En su virtud, a propuesta del Ministro de Fomento, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de julio de 1999,
+
+## DISPONGO:

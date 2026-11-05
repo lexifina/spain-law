@@ -1,0 +1,3 @@
+## Artículo 2. Unidad Militar de Emergencias.
+
+La UME, unidad integrante de las Fuerzas Armadas (FAS), es una fuerza conjunta que se constituye de forma permanente, bajo la dependencia de la persona titular del Ministerio de Defensa, como Mando de Emergencias para cumplir la misión asignada a las FAS de intervenir en cualquier lugar del territorio nacional y en el exterior, para contribuir a la seguridad y bienestar de los ciudadanos en los supuestos de grave riesgo, catástrofe, calamidad u otras necesidades públicas. Así mismo participa en el cumplimiento de las operaciones militares que se determinen.

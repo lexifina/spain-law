@@ -1,0 +1,3 @@
+## Disposición final cuarta. Título competencial.
+
+Esta ley se dicta al amparo de lo dispuesto en el artículo 149.1.20.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre marina mercante y transporte aéreo; el artículo 149.1.21.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma y, por último, al amparo de lo dispuesto en el artículo 149.1.25.ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre las bases del régimen minero y energético.

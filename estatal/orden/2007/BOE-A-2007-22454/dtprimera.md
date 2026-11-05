@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación a terceros que no utilicen el Sistema RED.
+
+Cuando los profesionales y demás personas a que se refiere el apartado 1 del artículo 1 no se hallen incorporados o no hagan uso efectivo del Sistema RED, los servicios de gestión administrativa que lleven a cabo podrán dar lugar, únicamente hasta el 31 de diciembre de 2008, a la contraprestación prevista en dicho artículo, si bien con el límite máximo, incluidos los impuestos que en su caso procedan, del 1 por 100 de las cuotas de accidentes de trabajo y enfermedades profesionales pagadas por las empresas asociadas a las Mutuas respecto de las que aquéllos realicen gestiones.

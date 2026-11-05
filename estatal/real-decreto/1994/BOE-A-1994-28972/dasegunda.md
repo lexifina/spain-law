@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Justificantes del cumplimiento de las obligaciones tributarias.
+
+Lo dispuesto en el apartado cuatro del artículo 67 del Reglamento del Impuesto sobre la Renta de las Personas Físicas y en el párrafo e) del apartado 2 del artículo 2 del Real Decreto 2402/1985, de 18 de diciembre, por el que se regula el deber de expedir y entregar factura que incumbe a empresarios y profesionales, se entenderá sin perjuicio de la emisión, conservación o llevanza de los justificantes o registros que permitan comprobar el cumplimiento de las obligaciones tributarias de las actividades que tributen en régimen general en el Impuesto General Indirecto Canario.

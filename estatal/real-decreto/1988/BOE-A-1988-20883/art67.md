@@ -1,0 +1,5 @@
+## Artículo 67.
+
+1. La recaudación de los recursos económico-financieros contemplados en los artículos anteriores, se hará mediante ingreso en una cuenta corriente del Organismo de cuenca y financiarán los gastos del Organismo con carácter general, a excepción de lo que en los artículos siguientes se dispone para el canon de ocupación, vertido y demás conceptos a que se refiere el artículo 63, 3.
+
+2. Las obligaciones pecuniarias ingresadas en cuenta especial habilitada al efecto en el Banco de España a que se refiere el artículo 339, 2, del Reglamento del Dominio Público Hidráulico se incorporarán automáticamente al Presupuesto del Organismo de cuenca, cuando se trate de daños a la calidad del agua o de otros daños en los que no sea posible identificar y separar actuaciones aisladas para efectuar las reparaciones o inversiones que requiera la restitución a su estado primitivo de los bienes de dominio público afectados, debido al carácter global o general de las actuaciones adecuadas, que incluyan dicha restitución.

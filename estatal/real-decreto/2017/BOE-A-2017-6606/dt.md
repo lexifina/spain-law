@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Aplicación de este Reglamento a equipos o sistemas sujetos a nuevas exigencias.
+
+Los productos cuya conformidad se determine según lo indicado en el artículo 5, apartados 2 y 3, a los que no fueran de aplicación los requisitos exigidos en el anterior Reglamento de instalaciones de protección contra incendios, aprobado por Real Decreto 1942/1993, de 5 de noviembre, dispondrán de un plazo de dos años, a partir de la fecha de entrada en vigor de este real decreto, para cumplir los requisitos establecidos en el Reglamento que se aprueba por el presente real decreto.

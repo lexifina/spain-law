@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto y, en particular, el Real Decreto 453/2020, de 10 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Justicia, y se modifica el Reglamento del Servicio Jurídico del Estado, aprobado por el Real Decreto 997/2003, de 25 de julio, y el Real Decreto 373/2020, de 18 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democrática.

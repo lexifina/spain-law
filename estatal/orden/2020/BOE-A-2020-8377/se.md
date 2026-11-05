@@ -1,0 +1,5 @@
+## Segundo. Recuperación de las condiciones establecidas en las obligaciones de servicio público.
+
+1. Las condiciones de operación de las rutas, en particular el ritmo de recuperación de la demanda y la adecuación de los servicios, serán analizados periódicamente en la Comisión Mixta prevista en el Acuerdo de Consejo de Ministros, de 23 de febrero de 2018, pudiendo acordarse en su seno proponer la modificación de las condiciones de operación de acuerdo al apartado 2.
+
+2. Atendiendo a la evolución de la demanda, al interés público y a las propuestas que realice la Comisión Mixta, se procederá a revertir los cambios introducidos en esta orden o a fijar nuevas condiciones de operación conforme a lo establecido en el artículo 95 de la Ley 2/2011, del 4 de marzo de 2011, de Economía Sostenible, y, en su caso, en la disposición adicional primera de la Ley 9/2013, de 4 de julio, por la que se modifica la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres y la Ley 21/2003, de 7 de julio, de Seguridad Aérea.

@@ -1,0 +1,15 @@
+De acuerdo con lo establecido en el artículo 8.k) de la Ley 10/1990, de 15 de octubre, del Deporte, corresponde al Consejo Superior de Deportes actualizar, en el ámbito de sus competencias, la normativa técnica existente sobre las instalaciones deportivas para el desarrollo del deporte de alta competición. Asimismo, el artículo 51 de la citada Ley atribuye al Consejo Superior de Deportes el ejercicio de la tutela y control del deporte de alto nivel.
+
+El entrenamiento de los deportistas que participan en las competiciones de alto nivel hace necesario la construcción de Centros que cuenten con las mejores instalaciones, servicios y medios técnicos.
+
+Con el fin de atender esta necesidad, y no solamente para el alto nivel sino también para la preparación y detección de futuras promesas deportivas se han ido construyendo los Centros de Alto Rendimiento Deportivo y los Centros de Tecnificación Deportiva, y como complemento a éstos, los Centros Especializados.
+
+Cada Centro dispone de una denominación de acuerdo con unos criterios de clasificación que se establecen en función del interés, los objetivos, las instalaciones, los medios disponibles y los departamentos o unidades específicas para los que han sido creados.
+
+La actuación que aquí se propone se ubica dentro de los objetivos prioritarios que la Ley 10/1990, del Deporte, atribuye a la Administración General del Estado, esto es el apoyo de todo orden a los deportistas de alto nivel competitivo. A este propósito responden los Centros de Alto Rendimiento Deportivo que se configuran funcionalmente como una estructura de soporte de la máxima calidad, científico técnica, para el deporte de alto nivel y necesarios para que nuestro deporte sea competitivo.
+
+Además de las competencias que la Administración General del Estado tiene atribuidas sobre las instalaciones deportivas financiadas por ella, también es competente en aquellas materias que afectan a los intereses generales del deporte en el ámbito territorial de más de una Comunidad Autónoma. Con el fin de conseguir una mayor eficacia en la coordinación interadministrativa y en la utilización conjunta de los fondos públicos en el deporte se consagra el principio de cooperación entre las Comunidades Autónomas y el Estado. Para atender al deporte autonómico, el perfeccionamiento y la tecnificación de los deportistas que puedan tener un futuro en la alta competición, así como en el desarrollo deportivo de las federaciones territoriales se crean los Centros de Tecnificación Deportiva.
+
+Finalmente, y como complemento a los Centros de Alto Rendimiento Deportivo y Centros de Tecnificación Deportiva se encuentran los Centros Especializados de Alto Rendimiento y de Tecnificación Deportiva. El objetivo de estos Centros es acoger a deportes o modalidades deportivas que por su particularidad, medio en el que se realizan o por circunstancias diversas no pueden ser atendidos en los Centros de Alto Rendimiento Deportivo, ni en los de Tecnificación Deportiva.
+
+En consecuencia, en uso de las atribuciones que tiene conferidas, el Secretario de Estado-Presidente del Consejo Superior de Deportes ha resuelto:

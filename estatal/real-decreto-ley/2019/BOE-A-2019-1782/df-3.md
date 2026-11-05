@@ -1,0 +1,7 @@
+## Disposición final tercera. Título competencial.
+
+El presente real decreto-ley se dicta al amparo de las competencias que corresponden al Estado conforme al artículo 149.1.15.ª y 18.ª de la Constitución sobre fomento y coordinación general de la investigación científica y técnica y las bases del régimen jurídico de las Administraciones públicas, respectivamente.
+
+Se exceptúan de lo anterior la disposición adicional única que se dicta al amparo de los artículos 149.1.13.ª y 14.ª de la Constitución, que atribuyen al Estado competencia exclusiva en las bases y coordinación de la planificación general de la actividad económica y en materia de Hacienda general y deuda del Estado, y la disposición transitoria única que se dicta al amparo del artículo 149.1.30.ª de la Constitución, que atribuye al Estado la competencia para el establecimiento de las normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+
+Por su parte, las disposiciones finales primera y segunda, que modifican, respectivamente, la Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación, y la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, se amparan en los mismos títulos competenciales que las normas modificadas.

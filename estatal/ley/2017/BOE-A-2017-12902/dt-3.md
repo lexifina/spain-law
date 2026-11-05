@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Inscripción en el Registro de Licitadores en el procedimiento abierto simplificado del artículo 159.
+
+Hasta que transcurran seis meses de la entrada en vigor de la presente Ley y resulte exigible, por tanto, la obligación establecida para el procedimiento abierto simplificado en la letra a) del apartado 4 del artículo 159, de estar inscrito en el Registro Oficial de Licitadores y Empresas Clasificadas o registro equivalente, la acreditación de la capacidad, solvencia y ausencia de prohibiciones de contratar se realizará en la forma establecida con carácter general.

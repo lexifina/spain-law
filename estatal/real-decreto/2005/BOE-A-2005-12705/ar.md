@@ -1,0 +1,7 @@
+## Artículo 1. Creación y objeto.
+
+Se crea, con el nombre de Consejo Español de Turismo, un órgano colegiado, asesor y consultivo, adscrito a efectos administrativos al Ministerio de Industria, Turismo y Comercio, a través de la Secretaría General de Turismo, con el objeto de favorecer la participación de las distintas Administraciones públicas con competencias en la materia y de los empresarios, trabajadores y profesionales que inciden en la actividad turística en el seguimiento de las políticas turísticas en España, así como en las actividades propias de la Administración turística del Estado.
+
+El fin del Consejo Español de Turismo es servir de foro de diálogo, participación y colaboración, así como impulsar iniciativas del sector turístico español, en relación con los temas que les afecten, impulsando la cooperación entre la iniciativa pública y privada en materia de turismo.
+
+El ejercicio de las funciones de participación que este real decreto atribuye al Consejo Español de Turismo se llevará a cabo sin perjuicio y con independencia de las funciones de cooperación entre las Administraciones del Estado y las de las comunidades autónomas atribuidas a la Conferencia Sectorial de Turismo, de acuerdo con lo establecido en el artículo 5 de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y en el reglamento interno de la Conferencia.

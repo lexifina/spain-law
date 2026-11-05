@@ -1,0 +1,5 @@
+## Sexto. Contabilización de operaciones y gastos.
+
+El banco agente llevará el desglose individualizado de los importes aportados por cada entidad prestamista y los importes a pagar a cada una de las Entidades Locales en concepto de amortizaciones de principal e intereses. A efectos de registro y contabilidad pública de la Deuda del Estado por parte de la Dirección General del Tesoro y Política Financiera cada opción de préstamo se considerará como una sola operación de préstamo. Así, todos los préstamos que venzan el 31 de marzo de 2030 se registrarán y contabilizarán en una sola operación de préstamo, y todos aquéllos que venzan el 31 de marzo de 2035 en otra operación diferenciada de la anterior.
+
+Las amortizaciones y los gastos por intereses se aplicarán a la Sección 06 «Deuda Pública» de los presupuestos en vigor. Los gastos y demás expensas que se devenguen por el servicio prestado por el banco agente tendrán la consideración de gasto financiero de la Deuda del Estado y se imputarán, asimismo, en la Sección 06.

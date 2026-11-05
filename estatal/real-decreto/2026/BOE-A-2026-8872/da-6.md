@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Sobre la transparencia y coordinación de la información sobre contratos de arrendamiento contenida en los actuales registros autonómicos de fianzas y otras fuentes de información de ámbito autonómico.
+
+Para el cumplimiento de lo dispuesto en la disposición adicional primera de la Ley 12/2023, de 24 de mayo, las comunidades autónomas y ciudades de Ceuta y Melilla deberán remitir semestralmente al Ministerio de Vivienda y Agenda Urbana los datos de contratos de arrendamiento de vivienda, a partir de la información contenida en los actuales registros autonómicos de fianzas y en otras fuentes de información de ámbito autonómico existentes. En concreto, los datos a remitir serán los previstos en el Formato de Intercambio de Contratos de Arrendamiento de vivienda (FICCA), cuyas especificaciones quedan definidas en el anexo V.
+
+Esta remisión se realizará en el mes siguiente a la finalización de cada semestre natural. En caso contrario, el Ministerio de Vivienda y Agenda Urbana podrá suspender total o parcialmente la transferencia de fondos de este Plan a la correspondiente comunidad o ciudad autónoma.

@@ -1,0 +1,5 @@
+## Disposición transitoria decimotercera. Régimen transitorio para las entidades de contrapartida central y los mercados secundarios oficiales de futuros y opciones.
+
+1. Las entidades de contrapartida central reguladas en el artículo 44 ter de la Ley 24/1988, de 28 de julio, del Mercado de Valores deberán cumplir con lo dispuesto en el apartado 4 de dicho precepto en su nueva redacción dada por la Disposición final primera de esta Ley en el plazo de tres meses desde la entrada en vigor de la misma. En el caso de que las entidades de contrapartida central estuviesen en trámite de autorización conforme al Reglamento (UE) n.º 648/2012, de 4 de julio de 2012, a la entrada en vigor de esta Ley, deberán cumplir con la nueva redacción en el plazo de tres meses desde que se concediese tal autorización.
+
+2. Al Mercado de Futuros del Aceite de Oliva, regido por MFAO, Sociedad Rectora del Mercado de Futuros del Aceite de Oliva, S.A., solo le resultará de aplicación lo establecido en el artículo 59 de la Ley 24/1988, de 28 de julio, del Mercado de Valores en su nueva redacción dada por la Disposición final primera de esta Ley, a partir del 1 de enero de 2015.

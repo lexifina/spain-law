@@ -1,0 +1,3 @@
+> Información relacionada
+
+> Téngase en cuenta que las referencias, en relación a las titulaciones equivalentes y vinculación con capacitaciones profesionales, que se hicieran al módulo profesional de Formación y orientación laboral deberán entenderse hechas al módulo de Itinerario personal para la empleabilidad I; las referencias contenidas en el articulado a las «competencias profesionales, personales y sociales» deben entenderse hechas a «competencias profesionales y para la empleabilidad»;y las referencias contenidas en el articulado al módulo de «Proyecto» pasa a denominarse «Proyecto intermodular», según establecen las disposiciones adicionales 3, 6 y 7 del Real Decreto 500/2024, de 21 de mayo. Ref. BOE-A-2024-10685

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Firma mediante claves previamente concertadas en el ámbito del Portal de Subastas dependiente de la Agencia Estatal Boletín Oficial del Estado.
+
+Sin perjuicio del cumplimiento de los estándares de seguridad, el sistema del Portal de Subastas Electrónicas de la Agencia Estatal Boletín Oficial del Estado admitirá la utilización, por parte de los usuarios del mismo, de sistemas de claves previamente concertadas en sus relaciones con el Portal de Subastas y para la realización de pujas. En todo caso, los usuarios deberán haber sido identificados con carácter previo, personalmente o mediante certificado reconocido de firma.

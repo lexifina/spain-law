@@ -1,0 +1,131 @@
+I
+
+En aplicación de la previsión contenida en el artículo 134.4 de la Constitución Española, la falta de aprobación de la Ley de Presupuestos Generales del Estado para el año 2026 determina la prórroga automática de la Ley 31/2022, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2023 hasta la aprobación de la nueva ley.
+
+De acuerdo con la doctrina del Consejo de Estado la revalorización de las pensiones no es, como regla general, objeto de la prórroga presupuestaria prevista en el artículo 134.4 de la Constitución Española, por lo que, en tal situación, el Gobierno, si quiere proceder a la actualización de las pensiones públicas, debe acudir a la aprobación de un real decreto-ley al amparo del artículo 86 de la Constitución Española. Con este objetivo se aprobó el Real Decreto-ley 16/2025, de 23 de diciembre, por el que se prorrogan determinadas medidas para hacer frente a situaciones de vulnerabilidad social, y se adoptan medidas urgentes en materia tributaria y de Seguridad Social, norma que ante su no convalidación por el Congreso de los Diputados ha sido derogada con fecha 28 de enero de 2026.
+
+Ante este escenario, resulta absolutamente urgente y necesaria la aprobación de este nuevo real decreto-ley, que mantenga intactos los derechos de los pensionistas que han visto incrementadas sus pensiones en el mes de enero de 2026.
+
+Por ello, este real decreto-ley aborda, como cuestión urgente y prioritaria, la revalorización de las pensiones y de otras prestaciones públicas para el año 2026 en el porcentaje equivalente al valor medio de las tasas de variación interanual expresadas en tanto por ciento del Índice de Precios al Consumo de los doce meses previos a diciembre del año anterior, expresado con un decimal, resultando un 2,7 por ciento.
+
+Garantizar la revalorización de las pensiones públicas para mantener su poder adquisitivo se considera una medida de extraordinaria y urgente necesidad, tal como exige el artículo 86 de la Constitución Española, que debe abordarse, en cualquier caso, sin esperar a que se pueda aprobar la Ley de Presupuestos Generales del Estado para el año 2026.
+
+II
+
+La norma consta de una parte expositiva y de una parte dispositiva estructurada en tres artículos, tres disposiciones adicionales, una disposición derogatoria, cuatro disposiciones finales y tres anexos.
+
+El artículo 1 fija el límite de la cuantía inicial de las pensiones públicas durante el año 2026, de conformidad con el artículo 57 y la disposición transitoria trigésima novena del texto refundido de la Ley General de la Seguridad Social.
+
+Este mismo tratamiento es aplicable al Régimen de Clases Pasivas del Estado, de acuerdo con lo dispuesto en el artículo 27.5 del texto refundido de Ley de Clases Pasivas del Estado, aprobado por el Real Decreto Legislativo 670/1987, de 30 de abril, y en su disposición transitoria décima quinta.
+
+El artículo 2 se refiere a la revalorización de las pensiones del sistema de la Seguridad Social y de Clases Pasivas del Estado; el importe del complemento aplicable a esas pensiones para la reducción de la brecha de género, la actualización de las pensiones no contributivas y de las pensiones del Seguro Obligatorio de Vejez e Invalidez.
+
+También determina la actualización de las prestaciones de orfandad causadas por violencia contra la mujer previstas en el tercer párrafo del artículo 224.1 del texto refundido de la Ley General de la Seguridad Social; de las prestaciones de gran invalidez del Régimen Especial de la Seguridad Social de las Fuerzas Armadas y del Régimen Especial de la Seguridad Social de Funcionarios Civiles del Estado; de las prestaciones familiares de la Seguridad Social; de los subsidios económicos contemplados en el texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre; y de las ayudas sociales a los afectados por el Virus de Inmunodeficiencia Humana.
+
+Por último, regula la determinación de la cuantía mínima de las pensiones tanto del sistema de la Seguridad Social como de Clases Pasivas del Estado y los requisitos para su reconocimiento.
+
+Por su parte, el artículo 3 prevé la actualización del tope mínimo y máximo de las bases de cotización del sistema. De igual forma, procede a actualizar la cotización correspondiente al Mecanismo de Equidad Intergeneracional, conforme a la disposición transitoria cuadragésima tercera del texto refundido de la Ley General de la Seguridad Social y, además, fija la cuota adicional de solidaridad para el año 2026, de conformidad con la disposición transitoria cuadragésima segunda del mismo texto legal. En lo que se refiere al Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos, se establece que durante el año 2026 la tabla general y la tabla reducida para las citadas personas trabajadoras serán las previstas en la disposición transitoria primera del Real Decreto-ley 13/2022, de 26 de julio, por el que se establece un nuevo sistema de cotización para los trabajadores por cuenta propia o autónomos y se mejora la protección por cese de actividad, para el año 2025, no obstante, se actualiza la base máxima de los tramos 11 y 12 de acuerdo con el tope máximo de cotización previsto para el Régimen General de la Seguridad Social para el año 2026.
+
+Asimismo, se actualiza el límite de ingresos para proceder al reintegro de cuotas de autónomos en pluriactividad.
+
+La norma se completa con una serie de disposiciones adicionales, derogatoria y finales.
+
+La disposición adicional primera mantiene la vigencia en 2026 de los títulos IV y VIII de la Ley 31/2022, de 23 de diciembre, y sus normas de desarrollo, con las modificaciones y excepciones previstas en este real decreto-ley.
+
+Con ello, se garantiza la seguridad jurídica en la aplicación de las disposiciones sobre las pensiones y las cotizaciones sociales en 2026, en la situación actualmente existente de prórroga presupuestaria.
+
+Por su parte, la disposición adicional segunda establece un nuevo plazo de diez años para la cancelación de determinados préstamos a la Seguridad Social cuyo vencimiento se ha producido en los ejercicios 2024 y 2025, y amplía, en diez años también, el plazo para la cancelación de otro préstamo cuyo vencimiento se producirá durante el ejercicio 2026.
+
+La disposición adicional tercera establece el tipo de cotización adicional a aplicar a las y los bomberos forestales y a agentes forestales y medioambientales del 10,60 por ciento, del que el 8,84 por ciento será a cargo de la empresa y el 1,76 por ciento a cargo la persona trabajadora.
+
+La disposición derogatoria única procede a la derogación de cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en este real decreto-ley y, en concreto, la disposición adicional cuarta de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007, que, hasta ahora, regulaba la tarifa de primas, para integrar la nueva tarifa en la Ley General de la Seguridad Social y evitar la dispersión normativa.
+
+La disposición final primera en sus dos primeros apartados, por medio de la supresión de la letra k) de los artículos 271.1 y 299.1 del texto refundido de la Ley General de la Seguridad Social aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, persigue evitar que, a través de una norma propia del ámbito social, como es la Ley General de la Seguridad Social, se produzca una modificación de las obligaciones tributarias de las personas beneficiarias de prestaciones por desempleo. Resulta así necesaria la supresión de esta obligación de presentar declaración por IRPF a los beneficiarios de la prestación por desempleo, pues su alcance actual no supone solo una obligación formal. Ello excede la intención de la norma, que inicialmente fue la de dotar de una fuente adicional de información a la entidad gestora de las prestaciones por desempleo.
+
+En el ámbito de las prestaciones de Seguridad Social, se incorporó una obligación similar a la prevista para la prestación no contributiva del ingreso mínimo vital (IMV), con el objetivo de alinear ambas regulaciones. No obstante, existen diferencias sustanciales tanto en la normativa aplicable como en la finalidad de cada prestación. Las prestaciones por desempleo tienen como propósito sustituir las rentas salariales dejadas de percibir debido a la pérdida del empleo, la suspensión del contrato o la reducción de la jornada. En el caso de los subsidios, su función es complementaria, sin que ello implique dejar de cumplir los requisitos de activación establecidos en el acuerdo de actividad. Por estas razones, se desaconseja incorporar esta obligación formal, que además supondría un incremento innecesario de la carga administrativa para la persona trabajadora.
+
+Por otra parte, los datos necesarios para la comprobación de las declaraciones responsables de las personas solicitantes de subsidios por desempleo deberán ser comprobados por la entidad gestora de la prestación a través de consultas a los datos tributarios de las personas beneficiarias.
+
+A su vez, se introduce una nueva disposición adicional sexagésima primera en el texto refundido de la Ley General de la Seguridad Social, en la que se regula la denominada tarifa de primas para la cotización por contingencias profesionales. La aprobación del Real Decreto 10/2025, de 14 de enero, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2025 (CNAE-2025), hace necesaria la actualización con carácter urgente de la tarifa de primas de cotización por contingencias profesionales a la Seguridad Social, puesto que dicha cotización obtiene su valor en función de la clasificación de la actividad económica del sistema.
+
+Además, como novedad se propone incluir esta tarifa de primas como disposición adicional en el texto refundido de la Ley General de la Seguridad Social, con el objetivo de evitar la dispersión normativa en materia de Seguridad Social, así como para evitar la vigencia indefinida de un precepto de una norma de claro carácter temporal, como es la disposición adicional cuarta de la Ley 42/2006, de 28 de diciembre; derogando expresamente esa previsión legal mediante la disposición derogatoria única.
+
+También introduce una disposición transitoria cuadragésima quinta en el mencionado texto refundido, con el objetivo de regular la transición de la CNAE 2009 a la CNAE 2025.
+
+Finalmente, modifica el apartado 1 de la disposición transitoria trigésima quinta [sic] de dicho texto refundido de la Ley General de la Seguridad Social, para ampliar durante un año más que los facultativos de atención primaria, médicos de familia y pediatras, adscritos al Sistema Nacional de Salud con nombramiento estatutario o funcionario puedan compatibilizar la pensión contributiva de jubilación con el trabajo.
+
+La disposición final segunda recoge los títulos competenciales que amparan al Estado para la aprobación de las distintas medidas de este real decreto-ley.
+
+La disposición final tercera habilita al Gobierno y a las personas titulares de los distintos Departamentos ministeriales, en el ámbito de sus respectivas competencias, a dictar las disposiciones necesarias para el desarrollo y la ejecución de lo dispuesto en esta norma.
+
+Por último, la disposición final cuarta dispone la entrada en vigor el mismo día al de su publicación en el «Boletín Oficial del Estado». No obstante, los artículos 1, 2 y 3 producirán efectos desde el día 1 de enero de 2026 y la disposición adicional segunda y la modificación de la disposición transitoria trigésima quinta [sic].1 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, producirán efectos desde el día 25 de diciembre de 2025 y el 29 de diciembre de 2025, respectivamente.
+
+Como complemento al articulado de este real decreto-ley, se añaden los anexos I y II, en los que se recogen las cuantías mínimas de pensión, límites de ingresos y otras pensiones públicas para el año 2026. Resulta imprescindible detallar las cuantías de 2026 puesto que las cuantías mínimas de pensión no tienen la consideración de pensiones, sino de importes no consolidables a garantizar a los y las pensionistas que cumplen unos determinados requisitos de rentas. Por ello, lo que se revalorizan son las pensiones que tiene reconocidas cada pensionista y posteriormente, si se cumplen los requisitos establecidos, se reconoce un complemento por mínimos hasta alcanzar la cuantía mínima correspondiente. El complemento no es consolidable. Este hecho determina la necesidad de establecer una tabla de cuantías mínimas, cuantías que se incrementan anualmente con arreglo a un porcentaje previamente establecido legalmente.
+
+A su vez, se hace necesario incluir en este real decreto-ley la actualización de la base máxima de cotización al sistema de la Seguridad Social, de conformidad con lo dispuesto en la disposición transitoria trigésima octava del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+Igualmente, se establece la cotización para el año 2026 de las personas trabajadoras autónomas incluidas en el Régimen Especial de la Seguridad Social de los Trabajadores por Cuenta Propia o Autónomos.
+
+También se incluye un anexo III que contiene los haberes reguladores para el cálculo de las pensiones de Clases Pasivas del Estado que han de ser aplicados en el año 2026.
+
+III
+
+Para justificar la aprobación de esta norma concurre el presupuesto habilitante de la extraordinaria y urgente necesidad contemplado en el artículo 86.1 de la Constitución Española, que permite al Gobierno aprobar legislación de urgencia, que se traduce en la figura del real decreto-ley, respecto del cual el Tribunal Constitucional mantiene una doctrina consolidada, que se encuentra resumida, entre otras, en la STC 12/2015, de 5 de febrero, FJ 3.
+
+De acuerdo con esta doctrina, al Tribunal Constitucional le corresponde el control de la constitucionalidad de los decretos-leyes en los siguientes aspectos: en primer lugar, comprobar «que la definición por los órganos políticos de una situación de extraordinaria y urgente necesidad sea explícita y razonada», y, además «que exista una conexión de sentido o relación de adecuación entre la situación definida que constituye el presupuesto y las medidas que en el decreto-ley se adoptan (STC 29/1982, de 31 de mayo, FJ 3), de manera que estas últimas guarden una relación directa o de congruencia con la situación que se trata de afrontar» (STC 182/1997, de 28 de octubre, FJ 3).
+
+La extraordinaria y urgente necesidad queda más que justificada en la aprobación de este real decreto-ley por el retraso en la tramitación de la Ley de Presupuestos Generales del Estado para el año 2026 que determina la prórroga automática de la Ley de Presupuestos Generales del Estado para 2023, conforme prevé el artículo 134.4 de la Constitución Española, y por la no convalidación del Real Decreto-ley 16/2025, de 23 de diciembre, que procedió a la actualización de las pensiones en el mes de enero; motivo que justifica la necesidad de aprobar las previsiones contenidas en este real decreto-ley, ante la necesidad de actualizar las pensiones regulada en el artículo 50 de la Constitución Española.
+
+La revalorización de las pensiones públicas está destinada a garantizar el poder adquisitivo de las y los pensionistas, considerándose de extraordinaria y urgente necesidad, tal como exige el citado artículo 86 de la Constitución Española, ya que dicha revalorización debe abordarse, en cualquier caso, sin esperar a que se pueda aprobar la Ley de Presupuestos Generales del Estado para 2026. Pudiendo encontrarnos, ante la no aprobación de esta norma, con que las pensiones que fueron actualizadas en el mes de enero perdieran dicha actualización.
+
+Igualmente, la doctrina del Consejo de Estado en su dictamen 1119/2016, de 29 de diciembre de 2016, consolida el real decreto-ley como cauce idóneo para la revalorización de las pensiones en situaciones de prórroga presupuestaria.
+
+En atención a la doctrina expuesta, emitida en situaciones similares en las que no se pudo aprobar en el plazo constitucionalmente establecido la correspondiente Ley de Presupuestos Generales del Estado, resulta evidente la idoneidad del real decreto-ley como instrumento para proceder a dicha revalorización, cuya urgente necesidad es evidente.
+
+Asimismo, tanto la actualización de las bases de cotización del sistema de la Seguridad Social como el Mecanismo de Equidad Intergeneracional y la cuota adicional de solidaridad, así como otras cuestiones en materia de cotización, está justificada su extraordinaria y urgente necesidad, para salvaguardar la obligada proporcionalidad entre el esfuerzo contributivo como cotizante y la pensión percibida, de tal manera que se garantice el equilibrio financiero futuro entre la población ocupada y la población pensionista y del nivel de gasto agregado que supone la financiación sostenible de las pensiones resultantes de la reforma operada por el Real Decreto-ley 2/2023, de 16 de marzo, de medidas urgentes para la ampliación de derechos de los pensionistas, la reducción de la brecha de género y el establecimiento de un nuevo marco de sostenibilidad del sistema público de pensiones.
+
+Tanto la disposición adicional primera como la segunda responden a la extraordinaria y urgente necesidad de completar el régimen jurídico de las normas sobre pensiones y cotizaciones sociales para 2026 previstas en este real decreto-ley, lo que determina que su aplicación deba producirse desde el 1 de enero de 2026.
+
+La disposición adicional tercera introduce una cotización adicional para las y los bomberos forestales a quienes, de acuerdo con la Ley 5/2024, de 8 de noviembre, básica de bomberos forestales, les ha sido reconocido un coeficiente reductor de la edad de jubilación, siendo urgente el establecimiento de esta cotización adicional en norma con rango de ley para su correcta aplicación desde el 1 de enero de 2026.
+
+De igual forma, se establece una cotización adicional para agentes forestales y medioambientales, a quienes mediante el Real Decreto 919/2025, de 15 de octubre, por el que se establece el coeficiente reductor de la edad de jubilación en favor de agentes forestales y medioambientales al servicio de las administraciones públicas, se les ha reconocido un coeficiente reductor de la edad de jubilación, si bien se supedita su entrada en vigor y, por tanto, su aplicación práctica a que una norma con rango de ley establezca una cotización adicional para este colectivo; motivo que sin duda justifica la urgencia y necesidad de la aprobación de dicha cotización adicional.
+
+Asimismo, concurre la extraordinaria y urgente necesidad exigida por el artículo 86.1 de la Constitución Española en las distintas modificaciones puntuales que la disposición final primera lleva a cabo en el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+En primer lugar, y en relación con la supresión de la letra k) en los artículos 271.1, y 299,1, debe recordarse que, con el Real Decreto-ley 2/2024, de 21 de mayo, por el que se adoptan medidas urgentes para la simplificación y mejora del nivel asistencial de la protección por desempleo, y para completar la transposición de la Directiva (UE) 2019/1158 del Parlamento Europeo y del Consejo, de 20 de junio de 2019, relativa a la conciliación de la vida familiar y la vida profesional de los progenitores y los cuidadores, y por la que se deroga la Directiva 2010/18/UE del Consejo, se incluyó por primera vez en el ámbito de las prestaciones por desempleo de la Seguridad Social, una obligación similar a la que se había establecido anteriormente en la prestación no contributiva del ingreso mínimo vital con la idea de alinear las obligaciones con las existentes en este último.
+
+No obstante, desde que entró en vigor esta reforma, se ha observado que esta previsión no ha resultado adecuada, y que concurren motivos que justifican su supresión inmediata.
+
+Por un lado, la declaración responsable que se incorporó en la regulación y, por otro, el refuerzo de la interoperabilidad con la Agencia Estatal de la Administración Tributaria, han permitido prescindir de esta obligación legal de presentar la declaración correspondiente.
+
+A su vez, se ha demostrado que mantener esta obligación conlleva aumentar considerablemente las cargas administrativas en contra de aproximadamente dos millones y medio de personas nuevas que acceden al a la prestación por desempleo, a lo que hay que añadir lo que supondría para la Agencia Estatal de la Administración Tributaria tener que gestionar este volumen de declaraciones adicionales.
+
+Asimismo, la obligación perjudica a los progenitores que cobran una deducción por persona con discapacidad a cargo, ya que el artículo 81 bis.1.e) de la Ley 35/2006, de 28 de noviembre, establece, por cada descendiente con discapacidad con derecho a la aplicación del mínimo por descendientes previsto en el artículo 58, una deducción de hasta 1.200 euros anuales. En lo que respecta al mínimo por descendientes, la regla 2.ª del artículo 61 de la misma ley establece que no procederá la aplicación del mínimo por descendientes, ascendientes o discapacidad, cuando los ascendientes o descendientes que generen el derecho a los mismos presenten declaración por este Impuesto con rentas superiores a 1.800 euros. Sentado lo anterior, debe tenerse en cuenta que esta nueva obligación de presentar la declaración incluyó a más de 2.500.000 de contribuyentes como nuevos obligados a declarar el IRPF 2024. El 75 % de estos declarantes obtienen rentas por desempleo inferiores a 5.400 euros.
+
+Por ello, la extensión de la obligación de presentar declaración por IRPF a los beneficiarios de la prestación por desempleo no supone solo una obligación formal, sino que además implica que muchos de estos contribuyentes tengan obligación de autoliquidar e ingresar una cuota tributaria a la que no estarían obligados de acuerdo con la normativa estrictamente tributaria.
+
+Adicionalmente, el establecimiento de esta obligación puede suponer la pérdida del derecho a aplicar el mínimo por descendiente o de las deducciones del artículo 81 bis de la Ley 35/2006, de 28 de noviembre. Todo lo anterior justifica la necesidad de suprimirla sin demora.
+
+Por otro lado, en la incorporación de la nueva disposición adicional sexagésima primera en el texto refundido de la Ley General de la Seguridad Social concurre el presupuesto habilitante de extraordinaria y urgente necesidad, puesto que la aprobación de la Clasificación Nacional de Actividades Económicas 2025 y su comunicación por parte de los empresarios a la Tesorería General de la Seguridad Social hacen necesaria y urgente la actualización de la tarifa de primas para la cotización por contingencias profesionales a esa nueva CNAE.
+
+Se aprecia también este presupuesto de extraordinaria y urgente necesidad en la modificación de la disposición transitoria trigésima quinta [sic].1 del texto refundido de la Ley General de la Seguridad Social, ya que de no prolongar la compatibilidad de la pensión de jubilación y el ejercicio de la actividad de los médicos de atención primaria y pediatras, dicha medida se consideraría ya decaída, con las importantes consecuencias que ello provocaría en los Servicios Públicos de Salud ante la falta de personal sanitario en dichas áreas.
+
+Por último, debe destacarse también que este real decreto-ley no afecta al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades de los ciudadanos regulados en el título I de la Constitución Española, al régimen de las Comunidades Autónomas ni al Derecho electoral general.
+
+IV
+
+El presente real decreto-ley se ajusta a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en particular, a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+
+Así, atendiendo a los principios de necesidad y eficacia, existe un claro y evidente interés general que sustenta las medidas que se aprueban en la norma, siendo así el real decreto-ley el instrumento más inmediato y eficaz para garantizar su consecución.
+
+Se respeta asimismo el principio de proporcionalidad, dado que contiene la regulación meramente imprescindible para la consecución de los objetivos previamente mencionados.
+
+A su vez, la norma resulta coherente con el vigente ordenamiento jurídico, ajustándose, por ello, al principio de seguridad jurídica. En cuanto al principio de transparencia, esta norma, si bien está exenta de los trámites de consulta pública, audiencia e información pública por tratarse de un decreto-ley, tal y como autoriza el artículo 26.11 de la Ley 50/1997, de 27 de noviembre, del Gobierno, define claramente sus objetivos, reflejados tanto en esta parte expositiva como en la memoria del análisis de impacto normativo que la acompaña.
+
+Por último, en relación con el principio de eficiencia, en este real decreto-ley se ha procurado que la norma genere las menores cargas administrativas para la ciudadanía.
+
+Este real decreto-ley se dicta al amparo de lo establecido en las reglas 7.ª, 17.ª y 18.ª del artículo 149.1 de la Constitución Española, que atribuyen al Estado, respectivamente, las competencias exclusivas en materia de legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas; la legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas; y las bases del régimen estatutario de los funcionarios.
+
+En su virtud, haciendo uso de la autorización contenida en el artículo 86 de la Constitución Española, a propuesta de las Ministras de Inclusión, Seguridad Social y Migraciones, y de Trabajo y Economía Social, y previa deliberación del Consejo de Ministros en su reunión del día 3 de febrero de 2026,
+
+DISPONGO:

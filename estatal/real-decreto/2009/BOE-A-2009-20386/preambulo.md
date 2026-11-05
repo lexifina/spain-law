@@ -1,0 +1,15 @@
+La Ley 39/2007, de 19 de noviembre, de la carrera militar, introduce una importante reforma en la enseñanza de las Fuerzas Armadas, profundizando en el proceso de integración en el sistema educativo general.
+
+Dicha ley diseña un nuevo modelo de enseñanza de formación para los oficiales de las Fuerzas Armadas que comprende, por una parte, la formación militar general y específica, que se impartirá en la academias militares y, por otra, la correspondiente a un título de grado universitario del sistema educativo general que se impartirá en un sistema de centros universitarios de la defensa, ubicados en las referidas academias militares. Este mandato legal se ha desarrollado por Real Decreto 1723/2008, de 24 de octubre, por el que se crea el sistema de centros universitarios de la defensa.
+
+En lo que al Cuerpo de la Guardia Civil se refiere, la citada Ley, en su disposición final séptima, ordena la adaptación de lo dispuesto en la Ley 42/1999, de 25 de noviembre, de Régimen de Personal del Cuerpo de la Guardia Civil en lo que a escalas y enseñanza de formación de oficiales se refiere, estableciendo que la formación para el acceso a la nueva escala de oficiales del Cuerpo de la Guardia Civil comprenderá la formación militar, la de Cuerpo de Seguridad del Estado y la correspondiente a un título de grado universitario del sistema educativo general.
+
+La formación militar y la de cuerpo de seguridad del Estado se impartirán en la Academia de Oficiales de la Guardia Civil, con los periodos que se determinen en centros docentes de formación de las Fuerzas Armadas, mientras que la enseñanza para la obtención del grado se impartirá en un centro universitario adscrito a una o varias universidades públicas.
+
+Por tanto, se hace necesaria la creación, en el ámbito de la Guardia Civil, de dicho centro para, posteriormente solicitar su adscripción a una o varias universidades públicas, adquiriendo en ese acto el carácter de centro universitario.
+
+Además, se introducen diversos conceptos en la norma que permiten mantener el sistema actual de la enseñanza de formación para la incorporación a la escala superior de oficiales de la Guardia Civil y, en su momento, a la escala de oficiales, sobre la base de la presencia de los alumnos de la Guardia Civil en la Academia General Militar del Ejército de Tierra y, en consecuencia, en el centro universitario de la defensa allí ubicado. Se pretende continuar con la adquisición de valores y principios esenciales de la profesión militar que contribuyen a la formación integral de los oficiales del Cuerpo, y disponer de personas capacitadas para el cumplimiento del mandato constitucional de garantizar la seguridad ciudadana y proteger el ejercicio de los derechos y libertades de los ciudadanos.
+
+En su virtud, a propuesta de los Ministros de Defensa y del Interior, con la aprobación previa de la Vicepresidenta Primera del Gobierno y Ministra de la Presidencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de de diciembre de 2009,
+
+DISPONGO:

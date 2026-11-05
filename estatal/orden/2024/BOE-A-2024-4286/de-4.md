@@ -1,0 +1,7 @@
+## Decimoquinta. Desarrollo.
+
+1. Para materializar el proceso de evaluación de las competencias profesionales adquiridas descrito en el artículo 30.4 del Reglamento de la calidad de la enseñanza militar y de su evaluación, aprobado por Real Decreto 93/2022, de 1 de febrero, se seguirá una secuencia que contemplará la información proporcionada por el propio egresado, por su jefe inmediato superior y que conducirá a la elaboración del informe de carácter general sobre las competencias profesionales adquiridas.
+
+2. El calendario de la evaluación de las competencias profesionales adquiridas de la enseñanza militar de formación será aprobado por la persona titular de la Subsecretaría de Defensa, a propuesta de los Jefes de Estado Mayor de los respectivos Ejércitos y de la Armada, o del Director de Reclutamiento y Enseñanza Militar, con relación a los cuerpos comunes de las Fuerzas Armadas.
+
+3. La programación de la evaluación de las competencias profesionales adquiridas de la enseñanza militar de perfeccionamiento o de altos estudios de la defensa nacional, se determinará por los respectivos organismos de gestión de la enseñanza dentro del ámbito de sus responsabilidades, y de conformidad con lo que se establece en la norma decimoséptima de la Orden DEF/464/2017, de 19 de mayo, por la que se aprueban las normas que regulan la enseñanza de perfeccionamiento y de Altos Estudios de la Defensa Nacional.

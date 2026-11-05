@@ -1,0 +1,1 @@
+## Sección séptima. Disposiciones comunes

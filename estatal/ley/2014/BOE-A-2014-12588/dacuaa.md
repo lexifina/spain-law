@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Régimen indemnizatorio.
+
+Las administraciones públicas asumirán el pago de las indemnizaciones por las limitaciones en los bienes y derechos patrimoniales legítimos establecidas en los parques nacionales. Corresponderá a la Administración General del Estado el pago de aquellas que se deriven de la legislación básica en la materia y del Plan Director de la Red de Parques Nacionales. Corresponderá a las comunidades autónomas el pago de las indemnizaciones por las limitaciones restantes. En los parques nacionales que se declaren sobre aguas marinas las indemnizaciones que pudieran originarse corresponderán exclusivamente al Estado o a sus organismos vinculados o dependientes.

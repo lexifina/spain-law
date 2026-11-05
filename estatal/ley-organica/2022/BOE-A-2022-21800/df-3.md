@@ -1,0 +1,9 @@
+## Disposición final tercera. Modificación de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social.
+
+Se modifica el apartado 4 del artículo 43 de la Ley 36/2011, de 10 de octubre, reguladora de la jurisdicción social, que queda redactado como sigue:
+
+> «4. Los días del mes de agosto y los días que median entre el 24 de diciembre y el 6 de enero del año siguiente, ambos inclusive, serán inhábiles, salvo en las modalidades procesales de despido, extinción del contrato de trabajo de los artículos 50, 51 y 52 del texto refundido de la Ley del Estatuto de los Trabajadores, movilidad geográfica, modificación sustancial de las condiciones de trabajo, suspensión del contrato y reducción de jornada por causas económicas, técnicas, organizativas o de producción o derivadas de fuerza mayor, derechos de conciliación de la vida personal, familiar y laboral del artículo 139, impugnación de altas médicas, vacaciones, materia electoral, conflictos colectivos, impugnación de convenios colectivos y tutela de derechos fundamentales y libertades públicas, tanto en el proceso declarativo como en trámite de recurso o de ejecución.
+
+> Tampoco serán inhábiles dichos días para la adopción de actos preparatorios, medidas precautorias y medidas cautelares, en particular en materia de prevención de riesgos laborales, accidentes de trabajo y enfermedades profesionales, así como para otras actuaciones que tiendan directamente a asegurar la efectividad de los derechos reclamados o para aquellas que, de no adoptarse, pudieran dar lugar a un perjuicio de difícil reparación.
+
+> Serán hábiles el mes de agosto y los días que median entre el 24 de diciembre y el 6 de enero del año siguiente, ambos inclusive, para el ejercicio de las acciones laborales derivadas de los derechos establecidos en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género.»

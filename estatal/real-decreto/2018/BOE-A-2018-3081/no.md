@@ -1,0 +1,1 @@
+Téngase en cuenta que el presente Real Decreto se considera sustituido por el Real Decreto 667/2023, de 18 de julio, por el que se crea la Comisión Interministerial para el desarrollo y mejora de la inclusión de las cláusulas sociales en la contratación pública. Ref. BOE-A-2023-16647

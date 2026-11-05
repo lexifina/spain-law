@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Órganos de selección en los procesos de estabilización.
+
+En los procesos de estabilización del personal estatutario de los servicios de salud que se lleven a cabo en aplicación de las disposiciones adicionales sexta y octava de la Ley 20/2021, de 28 de diciembre, el órgano de selección designado por la administración convocante podrá ser único, por subgrupos de clasificación, para las distintas categorías estatutarias objeto de convocatoria, sin perjuicio de que pueda estar asesorado, si así se precisase, por especialistas en las correspondientes categorías.

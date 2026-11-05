@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Aplazamiento de entrada en vigor.
+
+Los efectos de la disposición adicional quincuagésima octava de la Ley General de la Seguridad Social, Texto Refundido aprobado por Real Decreto Legislativo 1/1994, de 20 de junio, introducida por el artículo 7 de la Ley 27/2011, de 1 de agosto, sobre actualización, adecuación y modernización del Sistema de Seguridad Social, en cuya virtud se amplía la cobertura por accidentes de trabajo y enfermedades profesionales a todos los Regímenes de la Seguridad Social respecto de los trabajadores que causen alta a partir del 1 de enero de 2013, se aplazan por un año. Hasta entonces seguirá vigente el régimen jurídico existente al 31 de diciembre de 2012.

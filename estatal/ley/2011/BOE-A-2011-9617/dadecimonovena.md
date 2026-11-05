@@ -1,0 +1,5 @@
+## Disposición adicional decimonovena. Compensación económica por obras de carácter intelectual.
+
+1. En los casos en que los derechos de explotación de la obra de carácter intelectual creada correspondan a un centro público de investigación, el personal dedicado a la investigación tendrá derecho a una compensación económica en atención a los resultados en la producción y explotación de la obra, que se fijará en atención a la importancia comercial de aquella y teniendo en cuenta las aportaciones propias del empleado.
+
+2. Las modalidades y cuantía de la participación del personal investigador de los centros públicos de investigación en los beneficios que se obtengan de la explotación o cesión de los derechos regulados en el párrafo anterior, serán establecidas por el Gobierno, las Comunidades Autónomas o las Universidades, atendiendo a las características concretas de cada centro de investigación. Dicha participación en los beneficios no tendrá en ningún caso la consideración de una retribución o salario para el personal investigador.

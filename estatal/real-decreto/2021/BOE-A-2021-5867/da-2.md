@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Determinación de la capacidad técnica suficiente para realizar las funciones previstas en las Normas Técnicas de Seguridad de presas.
+
+El Ministerio para la Transición Ecológica y el Reto Demográfico, con la participación de los ministerios correspondientes, llevará a cabo, en el plazo máximo de dieciocho meses, el estudio necesario para determinar las titulaciones académicas que capacitan para desempeñar las actividades y funciones de carácter técnico establecidas en las Normas Técnicas de Seguridad de presas y sus embalses que figuran en los anexos I, II y III de este real decreto.

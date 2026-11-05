@@ -1,0 +1,7 @@
+## Disposición final octava. Modificación de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
+
+Con efectos de 1 de enero de 2016 y vigencia indefinida, se modifica la regla Tercera del apartado Dos de la disposición adicional cuarta de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007, en la redacción dada por la disposición final décima novena de la Ley 22/2013, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2014, que queda redactada como sigue:
+
+«Tercera. No obstante lo indicado en la regla anterior, cuando la ocupación desempeñada por el trabajador por cuenta ajena se corresponda con alguna de las enumeradas en el Cuadro II, el tipo de cotización aplicable será el previsto en dicho cuadro para la ocupación de que se trate, en tanto que el tipo correspondiente a tal ocupación difiera del que corresponda en razón de la actividad de la empresa.
+
+A los efectos de la determinación del tipo de cotización aplicable a las ocupaciones referidas en la letra «a» del Cuadro II, se considerará «personal en trabajos exclusivos de oficina» a los trabajadores por cuenta ajena que, sin estar sometidos a los riesgos de la actividad económica de la empresa, desarrollen su ocupación exclusivamente en la realización de trabajos propios de oficina aun cuando los mismos se correspondan con la actividad de la empresa, y siempre que tales trabajos se desarrollen únicamente en los lugares destinados a oficinas de la empresa».

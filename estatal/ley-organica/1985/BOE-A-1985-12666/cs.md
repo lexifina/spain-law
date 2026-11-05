@@ -1,0 +1,7 @@
+## Disposición transitoria cuadragésima segunda. Secciones y subsecciones.
+
+Entre tanto no se complete el proceso de implantación de la nueva Oficina judicial, cuando las circunstancias de volumen de trabajo y las necesidades del servicio lo aconsejen, el Ministerio de Justicia, previo informe del Consejo General del Poder Judicial y oídas las Comunidades Autónomas con competencias en materia de Justicia, podrá establecer que un juzgado sea servido por dos o más jueces o magistrados titulares en idénticas condiciones, así como la integración de dos o más juzgados del mismo orden jurisdiccional en una misma sección que recibirá la denominación del orden jurisdiccional, pudiendo en el seno de cada una disponerse la constitución de subsecciones para atender a materias específicas, presidida a efectos organizativos internos de los jueces de la sección, por el más antiguo, quien tendrá las mismas competencias que los Presidentes de sección de órganos colegiados. En estos supuestos, los jueces o magistrados que compongan la sección podrán acordar repartir los asuntos por número o por materias.
+
+Cuando se haga uso de esta facultad, la Sala de Gobierno respectiva resolverá las cuestiones que pueda suscitar el funcionamiento de las secciones, sin perjuicio de la facultad de uniformización que por vía reglamentaria pueda ejercitar el Consejo General del Poder Judicial, así como del control de legalidad que corresponda efectuar a dicho órgano.
+
+> Se añade por el art. único.58 de la Ley Orgánica 4/2018, de 28 de diciembre. Ref. BOE-A-2018-17987

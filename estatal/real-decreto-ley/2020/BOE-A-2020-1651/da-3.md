@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Responsabilidad del personal al servicio de las entidades contratantes pertenecientes al Sector Público.
+
+La infracción o aplicación indebida de los preceptos contenidos en el Libro primero del real decreto-ley por parte del personal al servicio de las entidades contratantes pertenecientes al Sector Público que estén incluidas en el ámbito de aplicación del Texto Refundido de la Ley del Estatuto Básico del Empleado Público, aprobado por Real Decreto Legislativo 5/2015, de 30 de octubre, dará lugar a responsabilidad disciplinaria, que se exigirá conforme a la normativa específica en la materia.

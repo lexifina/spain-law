@@ -1,0 +1,3 @@
+## Disposición derogatoria.
+
+Quedan derogados a la entrada en vigor de este Real Decreto el anejo del Decreto 2181/1975, de 12 de septiembre, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio de Pastas Alimenticias; el artículo 5.° del Real Decreto 1771/1976, de 2 de julio («Boletín Oficial del Estado» del 28), por el que se modifican algunos de los artículos y epígrafes de determinadas Reglamentaciones Técnico-Sanitarias y normas alimentarias específicas, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el mismo.

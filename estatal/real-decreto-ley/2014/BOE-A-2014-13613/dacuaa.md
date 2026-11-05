@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Procedimiento de retención de los recursos del Sistema de Financiación para hacer efectiva la cláusula de garantía prevista en los convenios y normas autonómicas en materia distinta de gasto social.
+
+En tanto que no se apruebe la Orden del Ministro de Hacienda y Administraciones Públicas a la que se refiere el apartado 3 del artículo 57 bis de la Ley 7/1985, de 2 de abril, la regulación recogida en la sección 3.ª del capítulo III del Título II de este Real Decreto-ley será de aplicación a todos los procedimientos de retención que tengan por objeto hacer efectiva la cláusula de garantía contenida en los convenios y normas autonómicas de delegación de competencias, prevista en el citado artículo 57 bis.

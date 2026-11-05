@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto y en particular los apartados d), e) i) y j) del artículo 5 de la Orden TAS/816/2005, de 21 de marzo, por la que se adecúan al régimen jurídico establecido en la Ley 38/2003, de 17 de noviembre. General de Subvenciones, las normas reguladoras de subvenciones que se concedan por el Servicio Público de Empleo Estatal en los ámbitos de empleo y de formación profesional ocupacional, sin perjuicio de lo establecido en la disposición transitoria única.

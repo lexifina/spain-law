@@ -1,0 +1,29 @@
+## ANEXO XII
+
+## ACCESORIOS, REPUESTOS Y HERRAMIENTAS DE LOS VEHÍCULOS
+
+Los vehículos de motor y los conjuntos de vehículos en circulación deben llevar los siguientes accesorios, repuestos y herramientas:
+
+1. Los turismos, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada no superior a 3.500 kg, excepto los vehículos de tres ruedas y cuatriciclos, llevarán la siguiente dotación:
+
+a) El dispositivo luminoso de preseñalización de peligro V-16.
+
+b) Un chaleco reflectante de alta visibilidad, certificado según el Real Decreto 1407/1992, de 20 de noviembre, por el que se regulan las condiciones para la comercialización y libre circulación intracomunitaria de los equipos de protección individual, que exige el marcado CE, y que deberá ser conforme con la norma UNE EN 471, mínimo clase 2 (tanto en superficie mínima de materiales como en nivel de retrorreflexión de las bandas).
+
+En el caso de que se realicen funciones de vehículo piloto de protección y acompañamiento, se deberán llevar chalecos tanto para el conductor como para cada uno de los miembros del personal auxiliar.
+
+c) Una rueda completa de repuesto o una rueda de uso temporal, con las herramientas necesarias para el cambio de ruedas, o un sistema alternativo al cambio de las mismas que ofrezca suficientes garantías para la movilidad del vehículo. En estos casos se circulará respetando las limitaciones propias de cada alternativa.
+
+2. Los autobuses, así como los vehículos mixtos y los automóviles destinados al transporte de mercancías, estos dos últimos de masa máxima autorizada superior a 3.500 kg, y los conjuntos de vehículos no especiales, deberán llevar, además de la dotación que se establece en el apartado 1 a) y b), un equipo homologado de extinción de incendios, adecuado y en condiciones de uso.
+
+3. Las motocicletas deberán llevar un chaleco reflectante de alta visibilidad que reúna los requisitos de los equipos de protección individual.
+
+> Téngase en cuenta que el apartado 3, añadido por la disposición final 2 del Real Decreto 518/2026, de 24 de junio, Ref. BOE-A-2026-13889, entra en vigor el 1 de octubre de 2026, según establece su disposición final 3.
+
+> Se añade el apartado 3, con efectos desde el 1 de octubre de 2026, por la disposición final 2 del Real Decreto 518/2026, de 24 de junio. Ref. BOE-A-2026-13889
+
+> Se modifica la letra a) del apartado 1, con efectos de 1 de julio de 2021, por la disposición final 2.8 del Real Decreto 159/2021, de 16 de marzo. Ref. BOE-A-2021-4194#df-2
+
+> Se modifica por el art. único.2 de la Orden PRE/629/2011, de 22 marzo. Ref. BOE-A-2011-5400.
+
+> Se modifica por el apartado único.4 de la Orden PRE/52/2010, de 21 de enero. Ref. BOE-A-2010-1011.

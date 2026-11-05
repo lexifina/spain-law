@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta.
+
+1. Durante el ejercicio económico de 1989, el complemento de destino de los Jueces, Magistrados y Fiscales se incrementará en las dos terceras partes de la diferencia entre los puntos que corresponden al puesto de trabajo por aplicación de este Real Decreto y los que se devengaban por el mismo puesto, en virtud del Real Decreto 1404/1988, de 25 de noviembre, con excepción de los puntos correspondientes a sustituciones y guardias.
+
+2. Desde el 1 de enero de 1990, se devengará la totalidad de los puntos que resultan de lo establecido en el presente Real Decreto. A partir de dicha fecha no se devengarán ni percibirán premios de cobranza por la recaudación en vía de apremio de los débitos a la Seguridad Social, de conformidad con la disposición transitoria quinta, en relación con el artículo 38 de la Ley 37/1988, de 28 de diciembre, de Presupuestos Generales del Estado para 1989, y con la disposición transitoria de la Ley 7/1989, de 12 de abril, de Bases de Procedimiento Laboral.

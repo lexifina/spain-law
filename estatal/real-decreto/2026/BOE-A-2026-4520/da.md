@@ -1,0 +1,3 @@
+## Disposición adicional única. Tratamiento de la información.
+
+En las actuaciones previstas en este reglamento que tengan relación con la recogida y tratamiento de datos de carácter personal se estará a lo previsto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 96/46/CE (Reglamento General de Protección de Datos), y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y su normativa de desarrollo.

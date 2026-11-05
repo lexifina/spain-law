@@ -1,0 +1,19 @@
+Los servicios postales constituyen un instrumento esencial para el desarrollo de la comunicación y el comercio, coadyuvando activamente a la cohesión económica y social del país.
+
+El sector postal ha sido objeto de un importante proceso de cambio en el ámbito comunitario, cuya culminación ha tenido lugar con la publicación de la Directiva 97/67/CE del Parlamento Europeo y del Consejo, de 15 de diciembre, relativa a las normas comunes para el desarrollo del mercado interior de los servicios postales de la Comunidad y la mejora de la calidad del servicio. La incorporación de dicha Directiva al ordenamiento jurídico español se produjo mediante la Ley 24/1998, de 13 de julio, del Servicio Postal Universal y de Liberalización de los Servicios Postales que, además, dio al sector una seguridad jurídica de la que venía adoleciendo por el evidente efecto que el transcurso del tiempo había tenido sobre la norma a la que ha venido a sustituir, la Ley de 22 de diciembre de 1953, de Reorganización del Correo.
+
+La Ley 24/1998, de 13 de julio, establece una regulación básica y unitaria del sector postal en España, recogiendo el régimen al que ha de sujetarse la prestación del servicio postal universal y garantizando, de esta manera, el derecho a las comunicaciones postales de todos los ciudadanos. Al mismo tiempo, la Ley reconoce el ámbito del sector que se encuentra liberalizado, fijando las reglas básicas que permiten la libre concurrencia, a fin de aportar seguridad jurídica a quienes actúan en un mercado en libre competencia que, hasta el momento, carecía de una regulación sustantiva.
+
+La Ley precisa de un desarrollo reglamentario que delimite el alcance de la prestación de los servicios postales, los derechos y obligaciones de los operadores postales, así como las garantías otorgadas a los usuarios de los servicios, dejando al margen las específicas regulaciones que, con base en la misma, se han realizado en instrumentos reglamentarios diferentes al presente.
+
+A la consecución de dichos objetivos responde el presente Real Decreto, por el que se aprueba el Reglamento de Prestación de los Servicios Postales, en cumplimiento del mandato contenido en la disposición final tercera de la precitada Ley 24/1998, de 13 de julio.
+
+Asimismo, el Reglamento de Prestación de los Servicios Postales, en línea con la tendencia liberalizadora impulsada desde la Unión Europea a través de la Directiva 97/67/CE y de conformidad con la Ley, recoge una serie de innovaciones que coadyuvan a garantizar una competencia leal entre los operadores del mercado postal, sin menoscabo de las garantías establecidas respecto del servicio postal universal por el operador al que se ha encomendado su prestación.
+
+Respecto del operador al que se ha encomendado la prestación del servicio postal universal, se recoge la posibilidad de que otras entidades colaboren con el mismo, mediante los oportunos procedimientos, asumiendo de esta manera la realización de distintas operaciones de su proceso postal. Se prevé, asimismo, el establecimiento de los diferentes sistemas de pago a dicho operador por los servicios postales que presta, entre estos sistemas se encuentran los clásicos o medios de franqueo. También se recoge una detallada definición de los envíos postales que configuran el marco del servicio postal universal, de conformidad con los principios establecidos en la Ley.
+
+Por ello, en cumplimiento de lo dispuesto en la disposición final tercera de la Ley 24/1998, de 13 de julio, se dicta el Reglamento de Prestación de los Servicios Postales, en desarrollo de la citada Ley 24/1998, de 13 de julio.
+
+En su virtud, tras el informe favorable del Consejo Asesor Postal, a propuesta del Ministro de Fomento, con la aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de diciembre de 1999,
+
+## DISPONGO:

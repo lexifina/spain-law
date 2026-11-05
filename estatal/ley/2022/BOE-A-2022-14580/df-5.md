@@ -1,0 +1,5 @@
+## Disposición final quinta. Modificación de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil.
+
+Se modifica la numeración del actual apartado 3 del artículo 589 de la Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil, que pasa a ser apartado 4, y se introduce un nuevo apartado 3, con la siguiente redacción:
+
+> «3. Si el ejecutado no señalare bienes susceptibles de embargo o el valor de los señalados fuera insuficiente para el fin de la ejecución, el letrado de la Administración de Justicia dictará decreto advirtiendo al ejecutado de que, en caso de probabilidad de insolvencia, de insolvencia inminente o de insolvencia actual, puede comunicar al juzgado competente el inicio o la voluntad de iniciar negociaciones con acreedores para alcanzar un plan de reestructuración, con paralización de las ejecuciones durante esa negociación en los términos establecidos por la ley; y que, si encontrándose en estado de insolvencia actual no lo hace, tiene el deber de solicitar la declaración de concurso de acreedores dentro de los dos meses siguientes a la fecha en que hubiera conocido o debido conocer ese estado de insolvencia».

@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 452/2020, de 10 de marzo, por el que se desarrolla la estructura orgánica básica del Ministerio de Derechos Sociales y Agenda 2030, y se modifica el Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los departamentos ministeriales y el Real Decreto 495/2020, de 28 de abril, por el que se desarrolla la estructura orgánica básica del Ministerio de Consumo y se modifica el Real Decreto 139/2020, de 28 de enero, por el que se establece la estructura orgánica básica de los departamentos ministeriales, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este real decreto.

@@ -1,0 +1,31 @@
+# Orden de 28 de junio de 1974 por la que se dispone la aprobación de la norma metrológica nacional referente a «Pesas de clases de precisión E1, E2, F1, F2 y M1, de 50 kilogramos a 1 miligramo».
+
+- Identificador: BOE-A-1974-1513
+- Rango: Orden
+- Fecha de disposición: 1974-06-28
+- Publicación: 1974-09-17
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-1974-1513
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Repeal
+
+BOE records this act as repealed with effect from 2015-12-01. See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
+## Bloques
+
+- [preambulo](preambulo.md)
+- [pr](pr.md)
+- [1](A1.md)
+- [2](A2.md)
+- [3](A3.md)
+- [4](A4.md)
+- [5](A5.md)
+- [6](A6.md)
+- [7](A7.md)
+- [8](A8.md)
+- [9](A9.md)
+- [10](A10.md)
+- [11](A11.md)
+- [12](A12.md)
+- [firma](firma.md)

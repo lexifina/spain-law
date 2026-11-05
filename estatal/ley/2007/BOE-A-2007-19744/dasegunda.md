@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Actividades e instalaciones incluidas en el ámbito de aplicación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación y de la legislación autonómica.
+
+Quedan exceptuadas de lo dispuesto en los artículos 13 y 14 aquellas instalaciones incluidas en el ámbito de aplicación de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación, que estarán sometidas a la autorización ambiental integrada regulada en la misma, así como aquéllas que, por desarrollo legislativo de las comunidades autónomas, queden afectadas por procedimientos de intervención integrada de similar naturaleza.

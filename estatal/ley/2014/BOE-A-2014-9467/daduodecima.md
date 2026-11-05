@@ -1,0 +1,3 @@
+## Disposición adicional duodécima. Límites al permiso por asuntos particulares derivados de los Acuerdos, Pactos y Convenios suscritos por las Administraciones Públicas.
+
+La limitación que el apartado Tres del artículo 8 del Real Decreto-Ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, establece respecto a los convenios, pactos y acuerdos para el personal funcionario y laboral de las Administraciones Públicas y sus Organismos y Entidades, vinculados o dependientes de las mismas, debe entenderse referenciada a la nueva redacción dada al artículo 48, letra k), de la Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público, por la presente Ley.

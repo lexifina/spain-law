@@ -1,0 +1,5 @@
+## Disposición transitoria única. Régimen transitorio de los procedimientos.
+
+1. A los procedimientos de concesión de subvenciones pendientes de resolución a la fecha de entrada en vigor de este real decreto, iniciados a partir de la finalización del plazo de adecuación contemplado en la disposición transitoria primera de la Ley 38/2003, de 17 de noviembre. General de Subvenciones, les será de aplicación lo previsto en la Orden TAS/816/2005, de 21 de marzo, por la que se adecúan al régimen jurídico establecido en la Ley 38/2003, de 17 de noviembre. General de Subvenciones las normas reguladoras de subvenciones que se concedan por el Servicio Público de Empleo Estatal en los ámbitos de empleo y de formación profesional ocupacional.
+
+2. Los procedimientos de concesión de subvenciones ya iniciados a la entrada en vigor de la Ley 38/2003, de 17 de noviembre. General de Subvenciones o durante el plazo de adecuación antes señalado, se regirán por la normativa anterior que les sea de aplicación, según lo dispuesto en los apartados 1 y 2 de la disposición transitoria segunda de la Ley General de Subvenciones citada.

@@ -1,0 +1,3 @@
+## Artículo 2. Marco normativo.
+
+Además de por estas bases reguladoras y por el capítulo III de la Ley 55/2007, de 28 de diciembre, del Cine, las ayudas se regirán por lo dispuesto en el capítulo III del Real Decreto 1084/2015, de 4 de diciembre, por el que se desarrolla la Ley 55/2007, de 28 de diciembre, del Cine, por la Ley 38/2003, de 17 de noviembre, General de Subvenciones, por el Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, por la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y por las restantes disposiciones de general aplicación, así como por la normativa comunitaria aplicable en la materia.

@@ -1,0 +1,3 @@
+## Disposición final primera. Régimen específico de financiación de las compensaciones en la Comunidad Foral de Navarra y en la Comunidad Autónoma del País Vasco.
+
+Las compensaciones que puedan proceder en los ámbitos territoriales de la Comunidad Foral de Navarra y de la Comunidad Autónoma del País Vasco según lo establecido en los artículos 1 y 1 bis del Real Decreto-ley 11/2020, de 31 de marzo, y en las disposiciones adicionales segunda y tercera el Real Decreto-ley 37/2020, de 22 de diciembre, se financiarán o imputarán en el seno del convenio económico navarro y del concierto económico con el País Vasco.

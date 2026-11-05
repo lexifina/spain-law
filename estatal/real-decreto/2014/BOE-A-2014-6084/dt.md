@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Exigibilidad de lo dispuesto en el reglamento y sus instrucciones técnicas complementarias.
+
+1. Lo dispuesto en el Reglamento sobre condiciones técnicas y garantías de seguridad en instalaciones eléctricas de alta tensión, así como en sus instrucciones técnicas complementarias ITC-RAT 01 a ITC-RAT 23, será de obligado cumplimiento para todas las instalaciones incluidas en su ámbito de aplicación, a partir de los dos años de la fecha de su publicación en el «Boletín Oficial del Estado», a excepción del apartado 5 de la ITC-RAT 07, en cuyo caso será a partir de los tres años. Hasta entonces seguirá siendo aplicable el Reglamento sobre condiciones técnicas y garantías de seguridad en centrales eléctricas, subestaciones y centros de transformación, aprobado por Real Decreto 3275/1982, de 12 de noviembre.
+
+2. No obstante, el Reglamento sobre condiciones técnicas y garantías de seguridad que se aprueba por este real decreto, así como sus instrucciones técnicas complementarias ITC-RAT 01 a ITC-RAT 23, se podrán aplicar voluntariamente desde la entrada en vigor de este real decreto.

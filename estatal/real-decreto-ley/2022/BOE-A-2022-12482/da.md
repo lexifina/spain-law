@@ -1,0 +1,3 @@
+## Disposición adicional primera. Cotización de los trabajadores por cuenta propia o autónomos a partir del ejercicio de 2032.
+
+A partir del día 1 de enero de 2032, y sin perjuicio de lo previsto en el apartado 4 de la disposición transitoria primera, las bases de cotización a las que se refiere el artículo 308.1.c) del texto refundido de la Ley General de la Seguridad Social aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre, se fijarán en función de los rendimientos netos obtenidos anualmente por los trabajadores por cuenta propia o autónomos por su actividad económica o profesional, dentro de los límites de las bases de cotización máxima y mínima que se determinen en la correspondiente Ley de Presupuestos Generales del Estado.

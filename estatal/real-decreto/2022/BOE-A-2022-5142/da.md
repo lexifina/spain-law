@@ -1,0 +1,3 @@
+## Disposición adicional única. Subsidiariedad de normas.
+
+Cuando en los reales decretos de desarrollo de la Ley 22/2011, de 28 de julio, mediante los que se regula de forma específica la gestión de determinados flujos de residuos o las operaciones de tratamiento, se incluyan criterios y procedimientos propios sobre el establecimiento de las garantías y la determinación de su cuantía, será de aplicación en todo caso lo dispuesto en dichas normas, teniendo un carácter subsidiario lo indicado en el presente real decreto, todo ello sin perjuicio de lo dispuesto en el Real Decreto 937/2020, de 27 de octubre, por el que se aprueba el Reglamento de la Caja General de Depósitos.

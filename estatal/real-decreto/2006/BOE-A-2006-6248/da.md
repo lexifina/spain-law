@@ -1,0 +1,5 @@
+## Disposición adicional única. Comunidades autónomas.
+
+1. Este real decreto, a excepción de lo dispuesto en los apartados f) e i) del artículo 2, se considera incluido en la relación de normas reguladoras de subvenciones concedidas por el Servicio Público de Empleo Estatal, a los efectos establecidos en los correspondientes reales decretos sobre traspaso a las comunidades autónomas de la gestión realizada por el Servicio Público de Empleo Estatal (INEM) en el ámbito del trabajo, el empleo y la formación.
+
+2. Las comunidades autónomas que hayan asumido el traspaso de la gestión realizada por el Servicio Público de Empleo Estatal en el ámbito del trabajo, el empleo y la formación así como de los programas de apoyo al mismo ejercerán las funciones que el presente real decreto atribuye al mencionado Servicio Publico de Empleo Estatal y que les correspondan según lo dispuesto en los reales decretos de traspaso. Dicha gestión se realizará de acuerdo con lo establecido en este real decreto y en las normas de procedimiento y bases reguladoras para la concesión de subvenciones que dicten las comunidades autónomas para su ejecución en función de su propia organización.

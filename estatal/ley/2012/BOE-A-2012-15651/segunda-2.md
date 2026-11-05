@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Reintegro de beneficios en la cotización no deducidos con anterioridad a la entrada en vigor de la presente Ley.
+
+El plazo de tres meses para solicitar el reintegro del importe de los beneficios en la cotización a la Seguridad Social y por conceptos de recaudación conjunta, en el supuesto a que se refiere el artículo 77.Tres de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, se computará a partir de la fecha de entrada en vigor de esta Ley cuando la falta de deducción de tales beneficios se haya producido con anterioridad a esa fecha.

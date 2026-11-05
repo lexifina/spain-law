@@ -1,0 +1,3 @@
+## Disposición final primera. Fundamento constitucional y carácter básico.
+
+Esta ley se dicta al amparo de las competencias exclusivas que al Estado otorga el artículo 149.1.16.ª y 23.ª de la Constitución, en materia de bases y coordinación general de la sanidad y de legislación básica sobre protección del medio ambiente. Se exceptúan de lo anterior la disposición adicional quinta, que se dicta al amparo del artículo 149.1.8.ª , la disposición adicional sexta, que se fundamenta en el artículo 149.1.14.ª y los apartados 2 y 3 del artículo 4, las disposiciones adicionales segunda y tercera y la disposición transitoria tercera que se dictan de acuerdo con el artículo 149.1.13.ª, 20ª, 21.ª y 24.ª

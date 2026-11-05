@@ -1,0 +1,3 @@
+## Disposición final primera. Títulos competenciales.
+
+Este real decreto se dicta al amparo de lo dispuesto en los artículos 149.1.13.ª, 149.1.23.ª y 149.1.24.ª de la Constitución Española, que atribuyen respectivamente al Estado la competencia exclusiva sobre bases y coordinación de la planificación general de la actividad económica, sobre legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las comunidades autónomas de establecer normas adicionales de protección, y en materia de obras públicas de interés general o cuya realización afecte a más de una comunidad autónoma.

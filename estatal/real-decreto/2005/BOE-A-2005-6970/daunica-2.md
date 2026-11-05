@@ -1,0 +1,3 @@
+## Disposición adicional única. Cálculo del coste neto del servicio universal en caso de recepción de ayudas.
+
+Los operadores designados para la prestación del servicio universal podrán beneficiarse de ayudas procedentes de los regímenes en vigor en los términos establecidos en su normativa específica y, en particular, de las procedentes de los fondos estructurales de la Unión Europea. En estos supuestos, la Comisión del Mercado de las Telecomunicaciones evaluará el coste neto de prestación del servicio universal a los efectos y con las particularidades que se establezcan en la concesión de dichas ayudas.

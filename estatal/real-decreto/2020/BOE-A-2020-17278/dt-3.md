@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Inadmisión de solicitudes de permisos de acceso y de conexión en nudos de transición justa.
+
+Desde la entrada en vigor de este real decreto y hasta que la persona titular del Ministerio para la Transición Ecológica y el Reto Demográfico regule y se resuelvan, conforme a lo previsto en la disposición adicional vigésima segunda de la Ley 24/2013, de 26 de diciembre, los procedimientos para la concesión de capacidad de acceso en cada uno de los nudos de transición justa a los que se refiere el anexo del Real Decreto-Ley 23/2020, de 23 de junio, no se admitirán por el gestor de la red de transporte solicitudes para el otorgamiento de capacidad de acceso en dichos nudos.
+
+Asimismo, no se admitirán por la administración competente para la autorización de las instalaciones, solicitudes para pronunciarse sobre si la garantía está adecuadamente constituida conforme a lo establecido en al artículo 23 de este real decreto, relativas a instalaciones que tengan previsto evacuar en dichos nudos.

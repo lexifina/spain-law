@@ -1,0 +1,3 @@
+## Disposición derogatoria única.
+
+A la entrada en vigor del presente Reglamento quedará derogado el Reglamento de los Impuestos de Derechos Reales y sobre Transmisiones de Bienes, aprobado por Decreto 176/1959, de 15 de enero; el Reglamento del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por Real Decreto 3494/1981, de 29 de diciembre, así como, en su aplicación al Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, las normas del Reglamento para la ejecución de la Ley del Timbre del Estado, aprobado por Decreto de 22 de junio de 1956.

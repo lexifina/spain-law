@@ -1,0 +1,25 @@
+La Ley 16/1984, de 29 de mayo, por la que se regula la producción y el comercio del trigo, en su disposición final segunda, faculta al Gobierno y a los Ministerios correspondientes, para que en el ámbito de sus respectivas competencias, dicten disposiciones de desarrollo de la ley.
+
+Actualmente, existe en nuestro ordenamiento jurídico un vacío jurídico en materia de clasificación comercial de los trigos que nos sitúa en desventaja competitiva con nuestro entorno comunitario. El mercado español está dominado por mezclas de diferente aptitud industrial en las que la comercialización se hace sobre la base de variedades y no de grupos de calidad definidos para los diferentes usos industriales.
+
+La actual realidad agraria pone de manifiesto la necesidad de impulsar la competitividad del sector primario y agroalimentario y de reforzar particularmente los eslabones más débiles de la cadena. Con la adopción del presente real decreto se pretende poner en valor el producto agrario en origen, en este caso el trigo, ofreciendo a los agricultores un instrumento para alcanzar la normalización y homogeneidad demandada por la industria y que repercutirá sin duda en la rentabilidad de sus explotaciones. La utilización de semilla certificada y una mejora en las prácticas realizadas en la fase productiva redundará además positivamente en las industrias de derivados de cereales.
+
+Este real decreto establece una categorización en grupos y grados para el trigo blando y el trigo duro. La categorización en grupos numerados no se refiere a mayor o menor calidad del producto, sino que es indicativa del uso industrial óptimo para cada trigo y la categorización en grados hace referencia a las condiciones de entrega y otras variables de las que dependerá el rendimiento industrial del grano.
+
+Los parámetros a tener en cuenta para la categorización por grupos y grados y los rangos de valor establecidos para los mismos, son los más apreciados, en cada caso, por la industria transformadora de cereales.
+
+Los métodos oficiales de análisis de los parámetros tenidos en cuenta para la clasificación se recogen en la Orden de 31 de enero de 1977 por la que se establecen los métodos oficiales de análisis de aceites y grasas, cereales y derivados, productos lácteos y productos derivados de la uva. Dado que éstos han quedado anticuados, procede modificar la citada orden para adaptar los métodos de análisis a la actual tecnología y a los métodos normalizados de análisis de los parámetros considerados.
+
+La ausencia de legislación al respecto durante décadas no permite una implantación de la clasificación de forma inmediata, siendo conveniente arbitrar un periodo transitorio durante el cual se establezca una relación directa entre las variedades comerciales utilizadas en España y su potencial para pertenecer a cada uno de los grupos establecidos. Esta asignación es teórica puesto que se basa en los resultados obtenidos en los ensayos para su inscripción en el catálogo común de variedades de especies de plantas agrícolas, pudiendo pertenecer el producto obtenido de dichas variedades en condiciones normales de cultivo, a un grupo distinto. Esta asignación teórica permitirá a los agricultores orientar su producción a aquellos grupos que, ya sea por las condiciones edáficas de sus parcelas, climáticas o de demanda en la zona en la que se ubican, o por cualquier otro motivo, tengan una mejor adaptación al mercado.
+
+Puesto que las características del producto obtenido en campo depende de otros muchos factores además del tipo de variedad utilizada en la siembra, la asignación, en dicha clasificación teórica provisional contenida en los anexos I y II del presente real decreto, de una variedad determinada a un grupo concreto no garantiza, en ningún caso, que el producto obtenido de dichas variedades sea clasificado como perteneciente a dicho grupo. Serán los valores obtenidos para los parámetros considerados los que determinen el grupo comercial.
+
+Esta norma se configura como una decisión estatal de política económica dirigida a alcanzar el objetivo constitucional de atender la modernización y el desarrollo de la agricultura.
+
+En este caso, dado el carácter marcadamente técnico de la norma y teniendo en cuenta la doctrina del Tribunal Constitucional, se considera ajustada su adopción mediante real decreto.
+
+En la elaboración de la presente disposición han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados. Asimismo, se ha sometido al procedimiento de información en materia de normas y reglamentaciones técnicas y de reglamentos relativos a los servicios de la sociedad de la información, previstos en la Directiva 98/34/CE, del Parlamento Europeo y del Consejo, de 22 de junio, así como en el Real Decreto 1337/1999, de 31 de julio, que incorpora dicha Directiva al ordenamiento jurídico español.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino y de la Ministra de Sanidad, Política Social e Igualdad, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 3 de diciembre de 2010,
+
+DISPONGO:

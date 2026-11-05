@@ -1,0 +1,1 @@
+El presente Real Decreto-ley se entiende tácitamente sustituido por la Ley 1/2021, de 24 de marzo, de medidas urgentes en materia de protección y asistencia a las víctimas de violencia de género. Ref. BOE-A-2021-4629

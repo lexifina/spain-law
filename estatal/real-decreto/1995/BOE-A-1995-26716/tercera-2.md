@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Acomodación de cánones por uso de inmuebles pertenecientes al patrimonio histórico.
+
+Las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social que vengan imputando a sus cuentas de gestión cánones por la utilización de bienes inmuebles integrantes de su patrimonio histórico, deberán formular en el plazo de tres meses desde la entrada en vigor del Real Decreto aprobatorio del presente Reglamento, la correspondiente solicitud para su acomodación a lo establecido en el artículo 4 y disposición adicional tercera, acompañando la documentación a que se refiere el apartado 4 de dicha disposición adicional.

@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Comunicación de los organismos competentes en la expedición de certificaciones a la Comisión Europea.
+
+Con el objeto de dar cumplimiento a lo dispuesto en los artículos 10.1 y 10.10 del Reglamento (UE) 517/2014 del Parlamento Europeo y del Consejo, de 16 de abril de 2014, sobre los gases fluorados de efecto invernadero y por el que se deroga el Reglamento (CE) n.º 842/2006, y a los efectos de lo previsto en los artículos 4.3 y 7.1 de este real decreto las comunidades autónomas comunicarán al Ministerio de la Agricultura y Pesca, Alimentación y Medio Ambiente los órganos competentes designados, en el plazo máximo de un mes desde su entrada en vigor.

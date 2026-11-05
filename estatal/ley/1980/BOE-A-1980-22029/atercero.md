@@ -1,0 +1,3 @@
+## Artículo tercero.
+
+La participación creada por el artículo ocho del Real Decreto-ley once/mil novecientos setenta y nueve, de veinte de julio, a favor de los Ayuntamientos, sobre el Impuesto Especial sobre el Petróleo, sus Derivados y Similares, en cuanto grava las ventas o entregas de gasolinas para la automoción, incluidas en la tarifa cuarta epígrafe sexto, b), dos, de la Ley treinta/mil novecientos setenta y nueve, de treinta de noviembre, será del cuatro coma cuatrocientos setenta y cuatro por ciento sobre el precio de venta al público, incluidos impuestos, a partir de la fecha de elevación de los precios del petróleo y sus derivados, acordada por Orden ministerial de siete de enero de mil novecientos ochenta.

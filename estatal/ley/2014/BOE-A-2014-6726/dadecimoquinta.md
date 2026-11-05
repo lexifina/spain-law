@@ -1,0 +1,5 @@
+## Disposición adicional decimoquinta. Autorización para los colaboradores de los organismos de supervisión.
+
+Los organismos que ejerzan la supervisión de entidades de crédito y empresas de servicios de inversión y que, conforme a su normativa, recaben la colaboración, para el ejercicio de sus competencias, de auditores de cuentas, sociedades de auditoría de cuentas, sociedades que ofrecen servicios de consultoría o cualesquiera otras de carácter privado deberán exigir, en los contratos correspondientes, su autorización previa para que dichos colaboradores puedan realizar, simultáneamente o en los dos años posteriores, cualquier trabajo de la misma naturaleza en las entidades objeto de supervisión o en sus sociedades vinculadas.
+
+Asimismo, en el caso de auditores de cuentas y sociedades de auditoría, será de aplicación lo dispuesto respecto al régimen de independencia que se encuentran sujetos los auditores de cuentas en el Capítulo III del Texto Refundido de la Ley de Auditoría de Cuentas aprobado por el Real Decreto Legislativo 1/2011, de 1 de julio.

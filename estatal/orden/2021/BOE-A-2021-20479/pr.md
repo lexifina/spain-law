@@ -1,0 +1,13 @@
+El Reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo, regula en su artículo 33 el Registro Electrónico de Apoderamientos de la Administración General de Estado y establece en su apartado 4 que mediante orden conjunta de la persona titular del Ministerio de Hacienda y Función Pública y de la persona titular del Ministerio de Asuntos Económicos y Transformación Digital se regularán los requisitos y condiciones de funcionamiento del mismo.
+
+La creación del Registro Electrónico de Apoderamientos de la Administración General de Estado tiene como finalidad facilitar la acreditación de la representación de las personas interesadas en procedimientos administrativos en los que tengan o puedan tener la condición de persona interesada, previa realización voluntaria de un apoderamiento por comparecencia personal o electrónica apud acta a favor de otra persona para que realice trámites en su nombre, sin coste alguno.
+
+Mediante esta orden se determinan los órganos responsables y el sistema de funcionamiento en el ámbito de la Administración General del Estado, el procedimiento de incorporación de los apoderamientos, así como la revocación, renuncia, vigencia y prórroga de los apoderamientos.
+
+Por otra parte, se aprueban los modelos de poderes inscribibles en el ámbito de la Administración General del Estado y de sus organismos públicos y entidades de derecho público vinculados o dependientes que no cuenten con registro electrónico de apoderamientos propio.
+
+Esta orden se ajusta a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre. En este sentido, la norma da cumplimiento a los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. La misma persigue un interés general al pretender incrementar la eficiencia, y la transparencia en el funcionamiento del sector público estatal. No existe ninguna alternativa regulatoria menos restrictiva, resulta coherente con el ordenamiento jurídico, y permite una gestión más eficiente de los recursos públicos.
+
+Esta orden ha sido informada por la Agencia Española de Protección de Datos, en virtud del artículo 47 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y del artículo 5.3.b) del Estatuto de la Agencia Española de Protección de Datos, aprobado por el Real Decreto 389/2021, de 1 de junio.
+
+En su virtud, a propuesta conjunta de la Vicepresidenta Primera del Gobierno y Ministra de Asuntos Económicos y Transformación Digital y de la Ministra de Hacienda y Función Pública, dispongo:

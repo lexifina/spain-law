@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Condiciones para la realización de actuaciones promovidas por la Administración General del Estado.
+
+Las actuaciones promovidas por la Administración General del Estado y previstas en el Plan de gestión del riesgo de inundación serán sometidas, previamente a su realización, a un análisis sobre su viabilidad técnica, económica y ambiental. En cualquier caso, estas actuaciones se supeditarán a la normativa vigente sobre evaluación de impacto ambiental, a las disponibilidades presupuestarias y a los correspondientes planes sectoriales, cuando su normativa específica así lo prevea. La ejecución de las medidas previstas en el Plan en ningún caso podrá superar las disponibilidades presupuestarias provenientes de fondos nacionales o comunitarios.
+
+Asimismo, en caso de que se previera la ejecución por las Sociedades de Aguas de alguna de las actuaciones recogidas en el Plan de gestión del riesgo de inundación, deberá procederse a su previa encomienda mediante su incorporación al respectivo Convenio de Gestión Directa con la consiguiente dotación de los fondos necesarios.

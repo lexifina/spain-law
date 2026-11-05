@@ -1,0 +1,7 @@
+El viernes 30 de abril de 2021 entró en vigor la Ley 20/2011, de 21 de julio, con la redacción dada por la última reforma operada por la Ley 6/2021, de 28 de abril. Teniendo en cuenta las consecuencias que dicha entrada en vigor puede suponer en los Registros Civiles y las dudas que se han venido suscitando, procede aclarar una serie de aspectos relativos a la misma con el fin de dotar de mayor seguridad jurídica a la tramitación.
+
+En concreto, esta Instrucción se refiere a la intervención del Ministerio Fiscal en el marco del nuevo modelo de Registro Civil, atendido que la disposición transitoria cuarta de la Ley 20/2011, reformada por la Ley 6/2021, no menciona expresamente dicha intervención durante este periodo transitorio.
+
+Esta cuestión ha sido recogida en el Decreto de la Fiscalía General del Estado de fecha 6 de julio de 2021, en el que se dictan instrucciones a los y las Fiscales para regular los casos en que han de intervenir en las actuaciones ante el Registro Civil a partir de la entrada en vigor de las referidas normas legales.
+
+Por tanto, en virtud de lo anterior, y en ejercicio de las competencias que establece el artículo 26 de la Ley 20/2011, de 21 de julio, del Registro Civil y el artículo 9 de la Ley del Registro Civil de 8 de junio de 1957 en relación con la disposición transitoria cuarta de la Ley 20/2011, este Centro Directivo fija las siguientes directrices.

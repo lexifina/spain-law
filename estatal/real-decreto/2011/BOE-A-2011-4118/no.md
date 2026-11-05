@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única del Real Decreto 317/2019, de 26 de abril. Ref. BOE-A-2019-6351#dd. Téngase en cuenta que esta norma continuará siendo de aplicación, manteniendo sus efectos más allá del 31 de diciembre de 2020, en todo lo relativo al periodo 2013-2020, según establece la disposición transitoria única del citado Real Decreto.

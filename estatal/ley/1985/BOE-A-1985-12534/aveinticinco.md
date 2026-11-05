@@ -1,0 +1,3 @@
+## Artículo veinticinco
+
+El Organismo competente podrá ordenar la suspensión de las obras de demolición total o parcial o de cambio de uso de los inmuebles integrantes del Patrimonio Histórico Español no declarados de interés cultural. Dicha suspensión podrá durar un máximo de seis meses, dentro de los cuales la Administración competente en materia de urbanismo deberá resolver sobre la procedencia de la aprobación inicial de un plan especial o de otras medidas de protección de las previstas en la legislación urbanística. Esta resolución, que deberá ser comunicada al Organismo que hubiera ordenado la suspensión, no impedirá el ejercicio de la potestad prevista en el artículo 37.2.

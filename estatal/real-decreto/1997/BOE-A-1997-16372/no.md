@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 1214/1997, de 18 de julio, por el que se aprueba el Estatuto del organismo autónomo Centro de Investigaciones Sociológicas", según establece el art. 4.1 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ac

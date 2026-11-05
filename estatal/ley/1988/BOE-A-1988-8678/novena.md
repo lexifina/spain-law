@@ -1,0 +1,5 @@
+## Disposición adicional novena.
+
+1. Dentro del plazo de dos meses a partir de la entrada en vigor de esta Ley, y sin perjuicio, para lo sucesivo, de cuanto establece el artículo 3.º, g), de la misma, el Tribunal de Cuentas elevará a la Comisión Mixta Congreso-Senado para las Relaciones con el Tribunal de Cuentas, las relaciones de puestos de trabajo a que se refiere el artículo 91 de la presente Ley, con todos los requisitos exigidos en éste y en la legislación general de la función pública, en las que efectuará, también, una clasificación en niveles de los puestos de trabajo.
+
+2. Del propio modo, y dentro del plazo de treinta días, contados a partir del siguiente al de la terminación de los procedimientos de selección y provisión de puestos de trabajo que se hallaren en curso o, en otro caso, de la entrada en vigor de esta Ley, la Comisión de Gobierno procederá a adscribir todo el personal al servicio del Tribunal a los distintos puestos de trabajo, cualesquiera que fueren las adscripciones que con anterioridad pudieran haberse efectuado y con respeto de los grados personales que se hubieren adquirido.

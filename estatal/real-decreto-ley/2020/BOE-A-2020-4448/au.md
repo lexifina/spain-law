@@ -1,0 +1,9 @@
+## Artículo único. Extensión del plazo para la presentación e ingreso de las declaraciones y autoliquidaciones.
+
+1. En el ámbito de las competencias de la Administración tributaria del Estado, los plazos de presentación e ingreso de las declaraciones y autoliquidaciones tributarias de aquellos obligados con volumen de operaciones no superior a 600.000 euros en el año 2019 cuyo vencimiento se produzca a partir de la entrada en vigor de este real decreto-ley y hasta el día 20 de mayo de 2020 se extenderán hasta esta fecha. En este caso, si la forma de pago elegida es la domiciliación, el plazo de presentación de las autoliquidaciones se extenderá hasta el 15 de mayo de 2020.
+
+No obstante lo anterior, en el caso de los obligados que tengan la consideración de Administraciones públicas, incluida la Seguridad Social, será requisito necesario que su último presupuesto anual aprobado no supere la cantidad de 600.000 euros.
+
+Lo dispuesto en este artículo no resultará de aplicación a los grupos fiscales que apliquen el régimen especial de consolidación fiscal regulado en el capítulo VI del título VII de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades, con independencia de su importe neto de la cifra de negocios, ni a los grupos de entidades que tributen en el régimen especial de grupos de entidades del Impuesto sobre el Valor Añadido regulado en el capítulo IX del título IX de la Ley 37/1992, de 28 de diciembre, del Impuesto sobre el Valor Añadido, con independencia de su volumen de operaciones.
+
+2. Lo dispuesto en este artículo no será aplicable en relación con la presentación de declaraciones reguladas por el Reglamento (UE) n.º 952/2013 del Parlamento Europeo y del Consejo, de 9 de octubre de 2013, por el que se aprueba el código aduanero de la Unión y/o por su normativa de desarrollo.

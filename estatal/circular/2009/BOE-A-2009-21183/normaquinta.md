@@ -1,0 +1,5 @@
+## Norma quinta. Relación anual de altos cargos
+
+(Derogada)
+
+> Se deroga por la disposición derogatoria única de la Circular 1/2024, de 26 de enero. Ref. BOE-A-2024-1867#dd

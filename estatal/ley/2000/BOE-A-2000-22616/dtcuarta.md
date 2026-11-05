@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Aplicación de las normas relativas al Impuesto sobre la Renta de las Personas Físicas.
+
+En el supuesto de finalización del período impositivo previsto en el artículo 13 de la Ley 40/1998, de 9 de diciembre, del Impuesto sobre la Renta de las Personas Físicas y otras Normas Tributarias, con anterioridad a la entrada en vigor del Real Decreto-ley 3/2000, de 23 de junio, por el que se aprueban medidas fiscales urgentes de estímulo al ahorro familiar y a la pequeña y mediana empresa, los sucesores del causante podrán optar por aplicar en la declaración del Impuesto sobre la Renta de las Personas Físicas, correspondiente a este último, la normativa vigente en la fecha de devengo del impuesto o la vigente a 31 de diciembre de 2000.

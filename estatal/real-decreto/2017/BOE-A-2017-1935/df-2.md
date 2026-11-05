@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+El presente real decreto se dicta al amparo de lo establecido en el artículo 149.1.21.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva en materia de tráfico y circulación de vehículos a motor. Se exceptúan de lo anterior los artículos 3, 4, 9, 10, 14 y 16, que se dictan al amparo de lo establecido en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia para determinar las bases y coordinación de la planificación general de la actividad económica sin perjuicio de las competencias que, en su caso, correspondan a las comunidades autónomas.

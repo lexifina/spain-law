@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Prórroga de la vigencia del Real Decreto 817/2021, de 28 de septiembre, por el que se fija el salario mínimo interprofesional para 2021.
+
+Hasta tanto se apruebe el real decreto por el que se fija el salario mínimo interprofesional para el año 2022 en el marco del diálogo social, en los términos establecidos en aquel, y de acuerdo con lo previsto en el artículo 27 del texto refundido de la Ley del Estatuto de los Trabajadores, se prorroga la vigencia del Real Decreto 817/2021, de 28 de septiembre, por el que se fija el salario mínimo interprofesional para 2021.

@@ -1,0 +1,7 @@
+## Disposición adicional tercera. Competencias autonómicas en materia de régimen local.
+
+1. Las disposiciones de esta Ley son de aplicación a todas las Comunidades Autónomas, sin perjuicio de sus competencias exclusivas en materia de régimen local asumidas en sus Estatutos de Autonomía, en el marco de la normativa básica estatal y con estricta sujeción a los principios de estabilidad presupuestaria, sostenibilidad financiera y racionalización de las estructuras administrativas.
+
+2. En el caso de las Comunidades Autónomas con un sistema institucional propio, las referencias de esta Ley a las Diputaciones provinciales se entenderán efectuadas a los entes locales supramunicipales previstos en los correspondientes Estatutos de Autonomía a los que se atribuyen competencias en materia de asistencia y cooperación a los municipios y prestación de servicios públicos locales.
+
+3. La aplicación de esta Ley en la Comunidad Autónoma de Aragón se realizará teniendo en cuenta el régimen especial de organización institucional previsto en su Estatuto de Autonomía en materia de régimen local, en virtud del cual, la Comunidad Autónoma aplicará las competencias previstas en esta Ley en los distintos niveles de la administración con sujeción a la Constitución, al contenido básico de esta Ley y a los principios de estabilidad presupuestaria, sostenibilidad financiera y racionalización de las estructuras administrativas.

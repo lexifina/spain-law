@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Asociación a centros de control.
+
+Antes de que transcurra un año desde la entrada en vigor del presente Real Decreto, las instalaciones del régimen especial con potencia superior a 10 MW a las que se refiere el apartado 7 del artículo 28 del Real Decreto 436/2004, de 12 de marzo, por el que se establece la metodología para la actualización y sistematización del régimen jurídico y económico de la actividad de producción de energía eléctrica en régimen especial, deberán estar asociadas a un centro de control. En dicho plazo los citados centros de control deberán actuar como interlocutores del operador del sistema en los términos establecidos en el citado artículo.

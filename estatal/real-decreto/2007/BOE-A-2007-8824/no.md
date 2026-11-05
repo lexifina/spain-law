@@ -1,0 +1,1 @@
+Téngase en cuenta, que con fecha 15 de enero de 2025, se ha publicado el Real Decreto 10/2025, de 14 de enero, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2025 (CNAE-2025). Ref. BOE-A-2025-587

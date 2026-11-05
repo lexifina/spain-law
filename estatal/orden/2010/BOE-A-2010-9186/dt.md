@@ -1,0 +1,3 @@
+## Disposición transitoria única. Inscripciones en los Registros Voluntarios de Licitadores.
+
+A los efectos de lo dispuesto en la disposición transitoria segunda del Real Decreto 817/2009, de 8 de mayo, la remisión al Registro Oficial de Licitadores y Empresas Clasificadas del Estado de los asientos contenidos en los Registros voluntarios de licitadores dependientes de órganos de la Administración del Estado se realizará por los responsables de los citados Registros voluntarios, mediante soporte informático que permita garantizar la integridad e inalterabilidad de los datos y en el formato publicado a tal efecto en la Plataforma de Contratación del Estado.

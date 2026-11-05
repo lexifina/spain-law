@@ -1,0 +1,3 @@
+## Disposición final cuarta. Modificación de los supuestos para el cálculo de la tasa anual equivalente.
+
+Si los supuestos que figuran en el artículo 32 y en la parte II del anexo I de esta Ley no resultan suficientes para calcular la tasa anual equivalente de manera uniforme o no se ajustan ya a la situación comercial del mercado, por el Ministro de Economía y Hacienda podrán determinarse los supuestos adicionales necesarios para el cálculo de la tasa anual equivalente o modificar los ya existentes, de conformidad con lo previsto en el apartado 5 del artículo 19 de la Directiva 2008/48/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2008, relativa a los contratos de crédito al consumo y por la que se deroga la Directiva 87/102/CEE del Consejo.

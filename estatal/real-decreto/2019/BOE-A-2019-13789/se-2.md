@@ -1,0 +1,9 @@
+## Sexto.
+
+Que la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, establece en su artículo 47.1 que son convenios los acuerdos con efectos jurídicos adoptados por las Administraciones Públicas, los organismos públicos y entidades de derecho público vinculados o dependientes o las Universidades Públicas entre sí o con sujetos de derecho privado para un fin común.
+
+De conformidad con los principios generales contemplados en el artículo 3 de la misma Ley las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución, a la Ley y al Derecho y en el desarrollo de su actividad deben aplicar en sus relaciones, entre otros, el principio de cooperación, colaboración y coordinación con otras Administraciones Públicas.
+
+Asimismo, tal y como establece el artículo 48.2 de la citada Ley, en el ámbito de la Administración General del Estado y sus organismos públicos y entidades de derecho público vinculadas o dependientes, podrán celebrar convenios los titulares de los Departamentos Ministeriales y los Presidentes o Directores de dichas entidades y organismos públicos, tal y como igualmente está previsto en el artículo 47 de la misma disposición legal.
+
+Que, en consecuencia, la Administración General del Estado, a través del Ministerio de Educación y Formación Profesional y del Servicio Público de Empleo Estatal del Ministerio de Trabajo, Migraciones y Seguridad Social, y la Comunidad Autónoma de Galicia a través de la Consellería do Mar, están habilitadas para la suscripción del presente convenio, el cual queda sometido al régimen jurídico de convenios previsto en el Capítulo VI Título Preliminar de la citada Ley.

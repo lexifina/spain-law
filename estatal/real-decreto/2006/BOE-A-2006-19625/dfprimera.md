@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto tiene carácter básico y se dicta al amparo de lo dispuesto en el artículo 149.1.16.ª de la Constitución, que atribuye al Estado la competencia sobre bases y coordinación general de la sanidad. Se exceptúan de lo anterior el artículo 23, que se dicta al amparo de la competencia exclusiva del Estado en materia de sanidad exterior y el artículo 29, que se dicta al amparo de lo dispuesto en el artículo 149.1.15.ª, que atribuye al Estado la competencia exclusiva en materia de fomento y coordinación general de la investigación científica y técnica.

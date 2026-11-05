@@ -1,0 +1,1 @@
+Téngase en cuenta que, según establece la cláusula decimosexta, el presente Convenio tiene una duración inicial de tres meses, que puede ser prorrogado expresamente por periodos mensuales sucesivos y se extingue por el transcurso del plazo de vigencia del Convenio sin haberse acordado su prórroga.

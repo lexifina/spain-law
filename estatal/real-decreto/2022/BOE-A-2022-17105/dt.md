@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Exención de nuevo reconocimiento para las personas que tengan reconocido un grado de discapacidad igual o superior al treinta y tres por ciento.
+
+Quienes, con anterioridad a la entrada en vigor de este real decreto, tuvieran reconocido un grado de discapacidad igual o superior al treinta y tres por ciento con arreglo al procedimiento establecido en el Real Decreto 1723/1981, de 24 de julio, o en el Real Decreto 1971/1999, de 23 de diciembre, no precisarán de un nuevo reconocimiento. Cuando se realice la revisión de dichas valoraciones, de oficio o a instancia de parte, se aplicará lo previsto en este real decreto.

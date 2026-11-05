@@ -1,0 +1,3 @@
+## Art. 48. Efectos de las cuotas ingresadas fuera de plazo.
+
+Las cuotas ingresadas fuera de plazo por los trabajadores por cuenta propia, que correspondan a períodos en los que figuraron en alta, se les computarán a los efectos de completar los correspondientes períodos de carencia, así como para determinar el porcentaje en función de los años de cotización de la pensión de vejez; pero computándose tan sólo, en ambos casos, las cuotas correspondientes al período inmediatamente anterior a la fecha de ingreso de las mismas hasta un máximo de seis mensualidades. Todo ello sin perjuicio de las responsabilidades que correspondan a estos trabajadores en orden a la cotización.

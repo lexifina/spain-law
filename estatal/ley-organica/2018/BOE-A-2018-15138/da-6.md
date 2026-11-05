@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Gestión de las telecomunicaciones.
+
+Considerando la condición de región ultraperiférica de Canarias, su insularidad y su lejanía, dentro de la Agenda digital española se contendrá un Plan específico para el Archipiélago que tenga en cuenta la singularidad de su espectro radioeléctrico, el acceso a los servicios en todas las islas y, en su caso, las obligaciones de servicio público que lo garanticen. Dicho Plan será aprobado por el Gobierno de España en Consejo de Ministros. En su elaboración y ejecución participará el Gobierno de Canarias, en los términos que se fijen por la normativa estatal.

@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Sistema de acreditación de formación continuada del ámbito de actuación del Sistema Nacional de Salud.
+
+Desde el momento de la entrada en vigor de la presente orden ministerial, el INGESA formará parte de la Comisión de Formación Continuada de las Profesiones Sanitarias, al quedar constituido su órgano específico acreditador y, en coherencia con lo que se especifica en el artículo 9 de Real Decreto 1142/2007, de 31 de agosto, por el que se determina la composición y funciones de la Comisión de Formación Continuada de las Profesiones Sanitarias y se regula el sistema de acreditación de la formación continuada, quedará integrado en el sistema de acreditación de formación continuada.

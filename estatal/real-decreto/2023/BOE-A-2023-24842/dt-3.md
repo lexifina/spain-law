@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Régimen transitorio de los servicios comunes.
+
+Los servicios comunes de los ministerios en los que se hayan producido transferencias de actividad a otros departamentos ministeriales seguirán prestando dichos servicios a los Ministerios a los que correspondan dichas áreas de actividad hasta tanto se desarrolle la estructura orgánica básica de los ministerios y se establezca la distribución de efectivos mediante acuerdo de los ministerios afectados por la reestructuración y, en su defecto, Resolución de la Secretaría de Estado de Función Pública con arreglo a lo previsto por el Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración General del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración General del Estado.
+
+> Se modifica por la disposición final 3.2 del Real Decreto 210/2024, de 27 de febrero. Ref. BOE-A-2024-3796#df-3

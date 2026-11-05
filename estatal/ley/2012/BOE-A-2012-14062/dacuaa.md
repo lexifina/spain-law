@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Beneficios fiscales en el Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados para operaciones del FROB.
+
+No será de aplicación la excepción a la exención prevista en el artículo 108.2 de la Ley 24/1988, de 28 de julio, del Mercado de Valores a las operaciones consecuencia de la intervención del FROB, reguladas en los artículos 26, 27 y 35 de esta Ley, incluidas aquellas en que los obligados tributarios fueran los bancos puentes, las sociedades de gestión de activos o los terceros que adquieran valores derivados de las intervenciones del Fondo.

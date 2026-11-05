@@ -1,0 +1,9 @@
+## Disposición final segunda. Modificaciones de los Reales Decretos 357/1991, de 15 de marzo y 383/1984, de 1 de febrero.
+
+1. Se modifica el apartado 4 del artículo 12 del Real Decreto 357/1991, de 15 de marzo, por el que se desarrolla en materia de pensiones no contributivas la Ley 26/1990, de 20 de diciembre, por la que se establecen en la Seguridad Social prestaciones no contributivas, que queda redactado en los siguientes términos:
+
+«4. En todo caso se computarán las rentas o ingresos, de cualquier naturaleza, que se tenga derecho a percibir o disfrutar, salvo las asignaciones económicas por hijo a cargo, tenga o no la condición de persona con discapacidad, en sus distintas modalidades, otorgadas por el sistema de la Seguridad Social, el subsidio de movilidad y compensación para gastos de transporte, previsto en la Ley de integración social de los minusválidos, los premios o recompensas otorgados a personas con discapacidad en los centros ocupacionales, así como las prestaciones económicas y en especie otorgadas en aplicación de la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.»
+
+2. Se modifica el apartado 1.c) del artículo 2 del Real Decreto 383/1984, de 1 de febrero, por el que se establece y regula el sistema especial de prestaciones sociales y económicas previsto en la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, que queda redactado en los siguientes términos:
+
+«c) No ser beneficiario o no tener derecho, por edad o por cualquiera otra circunstancia, a prestación o ayuda de análoga naturaleza y finalidad y, en su caso, de igual o superior cuantía otorgada por otro organismo público, excluyéndose a tal efecto las prestaciones económicas y en especie otorgadas en aplicación de la Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia.»

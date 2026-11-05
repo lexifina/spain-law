@@ -1,0 +1,3 @@
+## Primero. Objeto.
+
+La presente Resolución tiene por objeto el desarrollo del principio de independencia que ha de regir el ejercicio de las funciones de control atribuidas a la Intervención General de la Administración del Estado, en los términos previstos en la Ley General Presupuestaria y su normativa de desarrollo, sobre la gestión económico-financiera del sector público estatal, mediante el ejercicio de la función interventora, el control financiero permanente y la auditoría pública y el control financiero sobre las entidades colaboradoras y beneficiarios de subvenciones y ayudas públicas concedidas por los sujetos del sector público estatal, así como en el control de los fondos de la Unión Europea.

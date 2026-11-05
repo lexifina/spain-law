@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias hechas a la "Agencia de Información y Control Alimentarios" se entenderán hechas a la "Agencia de Información y Control Alimentarios, O.A", según establece la disposición adicional única del Real Decreto 368/2023, de 16 de mayo. Ref. BOE-A-2023-11643

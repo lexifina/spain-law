@@ -1,0 +1,5 @@
+## Séptimo. Transferencia.
+
+1. Las transferencias de cualquier garantía de origen podrán ser solicitadas por el tenedor de la garantía, directamente o a través de su representante, a la Comisión Nacional de los Mercados y la Competencia para que proceda a la debida anotación en la cuenta correspondiente.
+
+2. Para ello, se deberá presentar ante la Comisión Nacional de los Mercados y la Competencia una solicitud de transferencia debidamente cumplimentada según el formato del modelo normalizado publicado en la página Web de la CNMC y firmada electrónicamente que comprenderá, al menos, información acerca de la comercializadora a favor de la que realiza la transferencia (indicando el número de orden que le corresponde de acuerdo con el Listado de Comercializadores de Energía Eléctrica publicado por la Comisión Nacional de los Mercados y la Competencia), el tipo de energía, las garantías de origen que desea transferir y el año al que corresponden dichas garantías. No se podrán realizar transferencias de garantías de origen a favor de comercializadores de referencia.

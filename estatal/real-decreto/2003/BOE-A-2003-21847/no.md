@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias a las bonificaciones en materia de Seguridad Social contempladas en esta norma han sido derogadas por la disposición derogatoria única.2.g) del Real Decreto-ley 20/2012, de 13 de julio. Ref. BOE-A-2012-9364#ddunica.

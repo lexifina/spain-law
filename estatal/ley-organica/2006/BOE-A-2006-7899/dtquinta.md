@@ -1,0 +1,5 @@
+## Disposición transitoria quinta. Personal laboral fijo de centros dependientes de Administraciones no autonómicas.
+
+1. Cuando se hayan incorporado, con anterioridad a la entrada en vigor de la presente Ley, o se incorporen durante los tres primeros años de su aplicación, centros previamente dependientes de cualquier Administración Pública a las redes de centros docentes dependientes de las Administraciones educativas, el personal laboral que fuera fijo en el momento de la integración y realice funciones docentes en dichos centros, podrá acceder a los cuerpos docentes regulados en esta Ley, previa superación de las correspondientes pruebas selectivas convocadas a tal efecto por los respectivos Gobiernos de las Comunidades Autónomas. Dichas pruebas deberán garantizar, en todo caso, los principios constitucionales de igualdad, mérito y capacidad, en la forma que determinen los Parlamentos autonómicos, debiendo respetarse, en todo caso, lo establecido en la normativa básica del Estado.
+
+2. Los procedimientos de ingreso a que hace referencia esta disposición sólo serán de aplicación en el plazo de tres años.

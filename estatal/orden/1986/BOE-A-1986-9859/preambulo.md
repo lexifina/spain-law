@@ -1,0 +1,9 @@
+Ilustrísimos señores:
+
+La disposición adicional tercera del Real Decreto 3255/1983 habilitó al Ministerio de Trabajo y Seguridad Social para dictar, en el ámbito de sus competencias cuantas disposiciones fuesen necesarias para el desarrollo y ejecución de lo previsto en dicho Real Decreto.
+
+A lo largo del período transcurrido desde el inicio de vigencia del Estatuto del Minero, el Ministerio de Trabajo y Seguridad Social ha podido tener conocimiento de una serie de cuestiones surgidas en la aplicación de dicha norma respecto del capítulo dedicado a la prevención de riesgos profesionales, cuestiones éstas que en algunos supuestos han podido dificultar la plena aplicación de algunos aspectos de esta norma.
+
+Esta situación, consecuencia en gran manera de una regulación que fijó nuevos criterios y estableció nuevos órganos participativos en una cuestión de tanta importancia en el trabajo minero como es la prevención de riesgos profesionales, determina la necesidad de hacer uso de la habilitación concedida. De esta forma se podrá clarificar el contenido del Estatuto del Minero y aplicarlo adecuadamente a supuestos de hecho no contemplados directamente en el momento de su elaboración, para los que por tanto el contenido estricto del Real Decreto ha podido presentar problemas de aplicación; las presentes normas complementarias buscan solventar las cuestiones de mayor importancia de entre las presentadas, para lograr así la plena eficacia de las medidas de distinto tipo vinculadas a la prevención de riesgos profesionales que aparecieron en el Estatuto del Minero. Junto con ello hay que tener en cuenta que la entrada en vigor en el pasado mes de agosto de la Ley Orgánica de Libertad Sindical, ha venido a atribuir a los delegados sindicales una serie de competencias que deben ser tenidas en cuenta para aplicar coordinadamente tal Ley con las disposiciones del Estatuto del Minero.
+
+En su virtud, he tenido a bien disponer:

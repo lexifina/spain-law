@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Con objeto de mantener la necesaria unidad de acción y coordinación que el sector marítimo-pesquero precisa por las peculiaridades que en él concurren, el Instituto Social de la Marina, en el ámbito de la Seguridad Social de los Trabajadores del Mar, seguirá colaborando con la Tesorería General de la Seguridad Social en la función recaudatoria, con especial referencia al control de las cotizaciones a efectos de despacho de buques, tal como establece el artículo segundo del Real Decreto 1414/1981, de 3 de julio. Asimismo esta colaboración se extenderá a la tramitación de la inscripción de empresas, afiliación, altas y bajas de los trabajadores.

@@ -1,0 +1,7 @@
+La Comisión para la Reforma de las Administraciones Públicas (CORA) contempla diversas reformas estructurales para mejorar la eficiencia así como erradicar la morosidad de las Administraciones Públicas. Fruto de esas reformas estructurales es la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público.
+
+En el Preámbulo de la Ley 25/2013, de 27 de diciembre, se recoge que uno de los elementos clave para mejorar la competitividad de las empresas consiste en reducir la morosidad de las Administraciones públicas, ya que esto permitirá, a su vez, reducir sus necesidades de financiación y evitar los efectos negativos que dicha morosidad genera sobre su empleo y su propia supervivencia.
+
+En el artículo 6.6 de la citada Ley, se establece que la Secretaría de Estado de Administraciones Públicas y la Secretaría de Estado de Presupuestos y Gastos determinarán conjuntamente las condiciones técnicas normalizadas del punto general de entrada de facturas electrónicas.
+
+Por todo ello, la Secretaría de Estado de Administraciones Públicas y la Secretaría de Estado de Presupuestos y Gastos, en el ejercicio de las competencias previstas en los artículos 12 y 7, respectivamente, del Real Decreto 256/2012, de 27 de enero, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda y Administraciones Públicas, han resuelto:

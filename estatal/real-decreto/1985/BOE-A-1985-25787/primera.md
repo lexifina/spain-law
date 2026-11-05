@@ -1,0 +1,3 @@
+## Disposición final primera primera.
+
+Se autoriza al Ministerio de Industria y Energía para que mediante resoluciones del Centro Directivo competente en materia de seguridad industrial, en atención al desarrollo técnico o a situaciones objetivas excepcionales, a petición de parte interesada, previo informe del Consejo Superior del Ministerio y oída, en su caso, la Comisión Asesora de aparatos elevadores, pueda aceptar para casos determinados, prescripciones técnicas diferentes de las previstas en las Instrucciones Técnicas Complementarias, dejando siempre a salvo las competencias que en materia de ejecución pudiera corresponder a las Comunidades Autónomas, y siempre que no exista menoscabo de la seguridad.

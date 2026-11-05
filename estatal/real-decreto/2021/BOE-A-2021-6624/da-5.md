@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Sistema de Formación Profesional para el Empleo.
+
+En ejecución de lo establecido en el apartado D.6 del Acuerdo de Consejo de Ministros de 21 de octubre de 2005, por el que se desarrollan y aplican distintas medidas relativas al sector del transporte por carretera, que se adoptaron en el Acuerdo de Consejo de Ministros de 24 de junio de 2005, para la mejora de las condiciones de transparencia y de competencia en el sector, la formación obligatoria contemplada en este real decreto podrá financiarse a través de los fondos a que se refiere el artículo 6 de la Ley 30/2015, de 9 de septiembre, por la que se regula el Sistema de Formación Profesional para el empleo en el ámbito laboral.

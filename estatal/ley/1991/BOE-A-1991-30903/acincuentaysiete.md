@@ -1,0 +1,3 @@
+## Artículo cincuenta y siete. Reconocimiento por el Estado de deuda con la Sociedad estatal «Caja Postal, Sociedad Anónima.»
+
+Se reconoce como obligación exigible del Estado la derivada de la deuda contraída por el mismo con el Organismo autónomo Caja Postal de Ahorros, por un importe de 29.471.364.624 pesetas, corregido, en su caso, por lo que resulte de las actuaciones de comprobación oportunas, autorizándose al Ministerio de Economía y Hacienda a formalizar la oportuna operación de endeudamiento con la Sociedad Estatal «Caja Postal, Sociedad Anónima», como subrogada en la posición acreedora del citado Organismo autónomo, al objeto de amortizar aquélla en un plazo de diez años.

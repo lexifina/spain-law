@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+La presente Resolución establece un marco normativo estable para la tramitación de las ayudas que regula, señalando como preferente la presentación de solicitudes a través de la Sede Electrónica del ISFAS, si bien en el momento actual no están habilitados todos los procedimientos y desarrollos técnicos que permiten la completa presentación de la solicitud y la documentación complementaria. De esta manera, dichos procedimientos no podrán realizarse a través de la Sede Electrónica hasta que estén plenamente operativos. De esa circunstancia se dará la oportuna difusión. Hasta ese momento, las solicitudes y la documentación se podrán presentar por correo ordinario o presencialmente, sin necesidad de que los documentos sean originales.

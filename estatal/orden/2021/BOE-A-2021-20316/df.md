@@ -1,0 +1,3 @@
+## Disposición final primera. Facultades de ejecución y aplicación.
+
+Se faculta a la persona titular de la Secretaría General de Objetivos y Políticas de Inclusión y Previsión Social para, previo cumplimiento de los trámites oportunos, dictar cuantas medidas sean necesarias en la ejecución y la aplicación de lo previsto en esta orden. En concreto, se aprobará modelo normalizado disponible en la página web del Ministerio para remitir, anualmente, información periódica acreditativa de las actuaciones de certificación que estén llevando a cabo, en virtud de lo establecido en el artículo 19 de la presente orden.

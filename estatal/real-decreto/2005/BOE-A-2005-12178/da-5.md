@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Regulación específica de las Inspecciones de Personal y Servicios de Seguridad de la Secretaría de Estado de Seguridad y de Instituciones Penitenciarias del Ministerio del Interior.
+
+La inspección de Personal y Servicios de Seguridad de la Secretaría de Estado de Seguridad del Ministerio del Interior continuará rigiéndose por su normativa específica, derivada de la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, y por lo dispuesto en el artículo 2.3.b) del Real Decreto 1599/2004, de 2 de julio, por el que se desarrolla la estructura orgánica básica del Ministerio del Interior.
+
+Asimismo, la Inspección Penitenciaria de la Dirección General de Instituciones Penitenciarias continuará rigiéndose por su normativa específica, derivada de la Ley Orgánica 1/1979, de 26 de septiembre, General Penitenciaria, del Reglamento Penitenciario, aprobado por el Real Decreto 190/1996, de 9 de febrero, y por lo dispuesto en el artículo 9 de citado Real Decreto 1599/2004, de 2 de julio.

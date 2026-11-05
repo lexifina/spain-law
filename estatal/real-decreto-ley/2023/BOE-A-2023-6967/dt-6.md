@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Tratamiento de datos personales para determinar la cuantía de la aportación de los beneficiarios en la prestación farmacéutica.
+
+Las modificaciones introducidas por la disposición final octava en el artículo 103 del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, serán de aplicación una vez que el Ministerio de Sanidad implemente las medidas técnicas, normativas y los sistemas de Información necesarios para la recepción, tratamiento y comunicación de la misma. Dicha implementación deberá llevase a cabo en un plazo máximo de 12 meses a partir de la entrada en vigor del presente real decreto-ley.

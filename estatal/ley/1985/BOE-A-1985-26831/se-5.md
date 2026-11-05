@@ -1,0 +1,3 @@
+## Disposición transitoria sexta.
+
+Hasta tanto se apruebe por la Administración del Estado, la norma reglamentaria que fije los límites máximos y mínimos a que se refiere el artículo 93, 2 la Ley 7/1985, de 2 de abril, los funcionarios de la Administración Local percibirán las retribuciones correspondientes a 1985, con la misma estructura retributiva y con sujeción a la normativa vigente en dicho ejercicio, incrementada la cuantía de las diferentes retribuciones básicas y complementarlas en un 7,2 por 100, a igual de puestos de trabajo, teniendo en cuenta que las retribuciones que tuvieran el carácter de absorbibles por mejoras o incrementos se regirán por su normativa específica hasta la aplicación del nuevo régimen retributivo.

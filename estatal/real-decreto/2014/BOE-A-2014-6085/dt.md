@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Autorización de operadores productores de brotes actualmente en funcionamiento.
+
+Los operadores productores de brotes que ya estuvieran desarrollando su actividad antes de la entrada en vigor del presente real decreto, deberán facilitar al órgano o ente competente de la comunidad autónoma o de las ciudades de Ceuta y Melilla la documentación recogida en el anexo I, además del N.º de Registro General Sanitario de Empresas Alimentarias y Alimentos del establecimiento, en su caso, en el plazo máximo de seis meses desde la entrada en vigor de este real decreto, con objeto de que los mismos procedan a su examen para la correspondiente autorización.

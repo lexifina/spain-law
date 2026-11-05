@@ -1,0 +1,19 @@
+## Disposición adicional decimoquinta. Contratos de asistencia técnica.
+
+Uno. En los contratos de asistencia técnica que celebren la Administración del Estado y sus Organismos Autónomos con empresas consultoras para la elaboración de proyectos de obras, el órgano de contratación exigirá la subsanación, por el contratista, de los defectos, insuficiencias técnicas, errores materiales, omisiones e infracciones de preceptos legales o reglamentarios que le sean imputables, otorgándole al efecto el correspondiente plazo, que no podrá exceder de dos meses.
+
+Si transcurrido dicho plazo, las deficiencias no hubieran sido corregidas, la Administración podrá, atendiendo a las circunstancias concurrentes, optar por la resolución del contrato, con incautación de la fianza y abono por el contratista de una indemnización igual al 25 por 100 del precio pactado, o por otorgar, a aquél, un nuevo e improrrogable plazo de un mes para subsanar las deficiencias no corregidas, incurriendo, en este segundo supuesto, el contratista, en una penalidad equivalente, asimismo, al 25 por 100 del precio del contrato.
+
+De producirse un nuevo incumplimiento, procederá la resolución del contrato, con incautación de la fianza, debiendo abonar el contratista una indemnización igual al precio pactado.
+
+El contratista podrá, en cualquier momento, antes de la concesión del último plazo señalado, renunciar a la realización del proyecto, con pérdida de la fianza y abono a la Administración de una indemnización igual a la mitad del precio del contrato.
+
+Dos. Para los casos en que el presupuesto de ejecución de la obra, previsto en el proyecto, se desviara en más de un 20 por 100, tanto por exceso como por defecto, del coste real de la misma, como consecuencia de errores u omisiones imputables al contratista consultor, la Administración podrá establecer un sistema de penalidades consistente en una minoración del precio pactado por el proyecto, en función del porcentaje de desviación, hasta un máximo equivalente a la mitad de aquél.
+
+El citado contratista deberá abonar el importe de dicha penalidad en el plazo de un mes, a partir de. la notificación de la resolución correspondiente, que se adoptará previa tramitación de expediente administrativo con audiencia del interesado.
+
+Tres. El órgano de contratación, con independencia de lo previsto en los apartados anteriores, podrá incluir en el correspondiente pliego de cláusulas administrativas particulares, y en función de la naturaleza y circunstancias que concurran en la obra sobre la que verse el proyecto, la exigencia de la responsabilidad solidaria del contratista consultor y del autor o autores del proyecto, por los daños y perjuicios que se originen durante la ejecución o la explotación de las obras, tanto para la Administración como para terceros, por defectos e insuficiencias técnicas del proyecto, o por los errores materiales, omisiones e infracciones de preceptos legales o reglamentarios en que el mismo haya incurrido, imputables a aquéllos.
+
+Dicha responsabilidad alcanzará al 50 por 100 de la indemnización que corresponda, hasta un límite máximo de cinco veces el precio pactado por el proyecto, y será exigible dentro del término de diez años, contados desde la recepción del mismo por la Administración, pudiéndose imponer al contratista la obligación de concertar el correspondiente seguro para cubrir las eventuales responsabilidades patrimoniales ajustadas a la naturaleza y circunstancias que concurren en la obra proyectada.
+
+Cuatro. La incursión en las responsabilidades o penalidades administrativas previstas en los apartados anteriores podrá constituir causa de suspensión temporal de la clasificación del contratista consultor, o de incapacidad para contratar con la Administración en el supuesto de no estar clasificado, por tiempo no superior a cinco años, previa la tramitación del expediente previsto en el artículo 102 de la vigente Ley de Contratos del Estado.

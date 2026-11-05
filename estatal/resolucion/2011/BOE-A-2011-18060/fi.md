@@ -1,0 +1,3 @@
+De conformidad con lo dispuesto en el artículo 23 de la Ley 13/2011, de 27 de mayo, de regulación del juego, contra la presente resolución, que pone fin a la vía administrativa, podrá interponerse, en el plazo de un mes contado a partir del día siguiente al de su publicación, recurso de reposición de acuerdo con lo establecido en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, o impugnarse directamente ante la jurisdicción contencioso-administrativa de acuerdo con lo dispuesto en la Ley reguladora de dicha Jurisdicción.
+
+Madrid, 16 de noviembre de 2011.–La Directora General de Ordenación del Juego, Inmaculada Vela Sastre.

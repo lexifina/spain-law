@@ -1,0 +1,3 @@
+## Disposición adicional primera. Régimen especial para determinadas empresas de servicios de inversión.
+
+Las empresas de servicios de inversión que exclusivamente pueden prestar los servicios de inversión previstos en el párrafo d) del apartado 1 del artículo 63 y en los párrafos d) y f) del apartado 2 del artículo 63 de la Ley del Mercado de Valores, podrán obtener autorización para realizar las actividades previstas en esta ley para las SGIIC, renunciando en este caso a la autorización obtenida en virtud de la Directiva 93/22/CEE, del Consejo, de 10 de mayo de 1993, relativa a los servicios de inversión en el ámbito de los valores negociables.

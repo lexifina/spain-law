@@ -1,0 +1,11 @@
+## Disposición transitoria segunda. Transformación en anotaciones en cuenta de otros títulos al portador negociados en Bolsa.
+
+1. Los títulos al portador admitidos a negociación en Bolsa no incluidos en el sistema previsto en el Decreto 1128/1974 y pertenecientes a emisiones no comprendidas en el mismo se transformarán en valores representados por medio de anotaciones en cuenta a medida en que vayan siendo presentados ante cualquiera de las Entidades adheridas, ya con tal objeto, ya con la finalidad de cumplir la obligación de entrega derivada de operaciones bursátiles, ya por cualquier otra causa. Tal presentación deberá tener lugar en el plazo de seis meses desde la fecha que se determine por el Servicio de Compensación y Liquidación de Valores, que será comunicada a las Entidades emisoras y publicada en el «Boletín Oficial del Registro Mercantil» con la debida antelación.
+
+2. Presentados los títulos, cada Entidad adherida dirigirá comunicación al Servicio de Compensación y Liquidación de Valores, que expedirá las oportunas referencias de registro y abonará los correspondientes valores en las cuentas de aquélla. Comunicadas por el Servicio a las Entidades adheridas las referencias de registro asignadas, éstas practicarán las pertinentes inscripciones en las cuentas de sus clientes.
+
+3. No obstante lo previsto en los números anteriores, la transformación en anotaciones en cuenta de los títulos que se hallen depositados ante las propias Entidades adheridas tendrá lugar en la fecha señalada por el Servicio de Compensación y Liquidación de Valores de acuerdo con lo previsto en el número 1 de esta disposición transitoria, en la que se dirigirán al Servicio las comunicaciones correspondientes, procediendo éste en la forma establecida en su número 2.
+
+4. Extinguido el plazo a que se refiere el número primero de esta disposición transitoria la Entidad emisora otorgará, en el plazo de un año, la correspondiente escritura pública, en su caso, de modificación de Estatutos, en la que se hagan constar el cambio en la modalidad de representación de los valores y los restantes requisitos que se establecen en el artículo 6.º de este Real Decreto.
+
+5. Transcurrido el plazo de seis meses previsto en el número 1 de esta disposición transitoria será de aplicación lo dispuesto en los párrafos 4 y 5 del artículo 4.º de este Real Decreto.

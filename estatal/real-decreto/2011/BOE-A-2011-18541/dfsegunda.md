@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+Este Real Decreto se dicta al amparo de lo dispuesto en la regla 28.ª del apartado primero del artículo 149 de la Constitución, que atribuye al Estado la competencia exclusiva sobre los archivos de titularidad estatal. Se exceptúan de lo anterior los capítulos I y II, que se dictan al amparo de lo dispuesto en el artículo 149.2 de la Constitución, en virtud del cual, sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.

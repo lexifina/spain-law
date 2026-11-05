@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Protección a la maternidad.
+
+En lo que se refiere a este real decreto y respecto a la igualdad efectiva de mujeres y hombres y conforme a lo establecido por el artículo 6.1 de la Ley 39/2007, de 19 de noviembre, de la carrera militar, al objeto de evitar que una alumna experimente cualquier situación de desventaja originada por efectos derivados de su situación de embarazo, parto o posparto, este real decreto se atiene a lo establecido en el Real Decreto 293/2009, de 6 de marzo, por el que se aprueban las medidas de protección a la maternidad en el ámbito de la enseñanza en las Fuerzas Armadas.

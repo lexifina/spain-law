@@ -1,0 +1,5 @@
+## Disposición adicional primera.
+
+Si en cualquiera de las Mutualidades integradas en el Fondo Especial, existiese una prestación de igual naturaleza y finalidad y coincidiera en la situación o en la contingencia con el Subsidio por Defunción a que se refiere la presente Orden, quedará sin efecto la prestación del Fondo Especial si ésta fuese de igual o inferior cuantía. En el supuesto de que la prestación del Fondo Especial fuera de superior cuantía, la diferencia con el Subsidio por Defunción establecido para la Mutualidad General se abonará con cargo al Fondo Especial.
+
+En las Mutualidades integradas cuyos Reglamentos contemplaran posibles beneficiarios distintos a los establecidos en la presente Orden, será de aplicación lo dispuesto en tales Reglamentos, pudiendo reconocerse el correspondiente subsidio o prestación a favor de tales beneficiarios, con cargo al Fondo Especial, siempre que los mismos reúnan los requisitos establecidos en el Reglamento de la Mutualidad de que se trate, en las cuantías que estén establecidas de acuerdo con las normas reguladoras de dicho Fondo Especial.

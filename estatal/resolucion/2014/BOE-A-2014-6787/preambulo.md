@@ -1,0 +1,7 @@
+La Comisión para la Reforma de las Administraciones Públicas (CORA) contempla diversas reformas estructurales para mejorar la eficiencia así como erradicar la morosidad de las Administraciones Públicas. Fruto de esas reformas estructurales es la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público.
+
+En el Preámbulo de la citada Ley, se recoge que uno de los elementos clave para mejorar la competitividad de las empresas consiste en reducir la morosidad de las Administraciones Públicas, ya que esto permitirá, a su vez, reducir sus necesidades de financiación y evitar los efectos negativos que dicha morosidad genera sobre su empleo y su propia supervivencia.
+
+En el artículo 9 de la Orden HAP/1074/2014, de 24 de junio, por la que se regulan las condiciones técnicas y funcionales que debe reunir el punto general de entrada de facturas electrónicas, se señala que la Secretaría de Estado de Administraciones Públicas establecerá los términos en los que se realizará la adhesión de las Comunidades Autónomas y de las Entidades Locales a la utilización del Punto General de Entrada de Facturas Electrónicas que proporcione la Administración General del Estado.
+
+Por todo ello, la Secretaría de Estado de Administraciones Públicas, en el ejercicio de las competencias previstas en el artículo 12 del Real Decreto 256/2012, de 27 de enero, por el que se desarrolla la estructura orgánica básica del Ministerio de Hacienda y Administraciones Públicas, ha resuelto:

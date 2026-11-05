@@ -1,0 +1,5 @@
+## Artículo quinto.
+
+Se constituye un Patronato del Parque Nacional de Timanfaya compuesto por:
+
+Presidente: El Gobernador civil de la provincia de Las Palmas; Vicepresidente primero: el Presidente del Cabildo Insular de Lanzarote; Vicepresidente segundo: el Delegado provincial del Ministerio de Agricultura, y, como Vocales: el Jefe provincial del ICONA, un representante de la Mancomunidad Interinsular de Cabildos de la provincia de Las Palmas, un representante de cada uno de los Departamentos de Obras Públicas, de Educación y Ciencia, de Información y Turismo, de la Vivienda y Planificación del Desarrollo, los Alcaldes de Yaiza y Tinajo y tres personas de reconocida solvencia en el campo de la Conservación de la Naturaleza, nombradas por el Ministro de Agricultura, a propuesta, respectivamente, del Director del Instituto Nacional para la Conservación de la Naturaleza, del Presidente de la Mancomunidad Interinsular de Cabildos de la provincia de Las Palmas y del Presidente del Cabildo Insular de Lanzarote. El Conservador del Parque tendrá la doble condición de Vocal y Secretario del Patronato.

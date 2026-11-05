@@ -1,0 +1,3 @@
+## Cuarto. Asignación de letra a los Cuarteles Generales.
+
+Del tercer grupo de caracteres mencionado en el apartado tercero, la letra A corresponderá al Cuartel General Conjunto Sudoeste de la OTAN; la letra B corresponderá al Centro de Operaciones Aéreas Combinadas número 8 (CAOC). Las letras siguientes, en orden alfabético, serán asignadas a los sucesivos Cuarteles Generales que posteriormente pudieran establecerse en territorio español, por la Oficina de Aplicación del SOFA, creada por Orden ministerial del Ministerio de Defensa 72/1991, de 1 de octubre, o en los órganos en quien ésta delegue.

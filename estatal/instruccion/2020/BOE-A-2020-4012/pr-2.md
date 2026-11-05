@@ -1,0 +1,3 @@
+## Primero. Objeto.
+
+Esta instrucción tiene por objeto establecer criterios interpretativos respecto del apartado noveno de la Orden SND/232/2020, de 15 de marzo, por la que se adoptan medidas en materia de recursos humanos y medios para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19, en relación con la Orden SND/257/2020, de 19 de marzo, por la que se declara la suspensión de apertura al público de establecimientos de alojamiento turístico, de acuerdo con el artículo 10.6 del Real Decreto 463/2020, de 14 de marzo, por el que se declara el estado de alarma para la gestión de la situación de crisis sanitaria ocasionada por el COVID-19.

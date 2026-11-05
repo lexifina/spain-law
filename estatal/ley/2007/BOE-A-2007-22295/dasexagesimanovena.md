@@ -1,0 +1,3 @@
+## Disposición adicional sexagésima novena. Financiación de los programas de desarrollo rural para el ejercicio 2008.
+
+La Administración General del Estado garantiza, como mínimo, un nivel de inversión pública en los programas de desarrollo rural financiados por el FEADER para el año 2008 igual a la del ejercicio 2006. El nivel de inversión pública de referencia se tomará respecto al del año 2006 incrementado en el IPC de los años 2006 y 2007 del conjunto de los programas y planes de desarrollo rural que contienen medidas financiadas por la Unión Europea, incluida la iniciativa comunitaria LEADER.

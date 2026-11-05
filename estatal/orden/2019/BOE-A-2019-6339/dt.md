@@ -1,0 +1,3 @@
+## Disposición transitoria única. Mantenimiento de la validez de determinadas precintas.
+
+Se mantiene la validez de las precintas, previstas en la Orden EHA/3482/2007, de 20 de noviembre, por la que se aprueban determinados modelos, se refunden y actualizan diversas normas de gestión en relación con los Impuestos Especiales de Fabricación y con el Impuesto sobre las Ventas Minoristas de Determinados Hidrocarburos, ya adheridas a los envases y/o recipientes con cigarrillos fabricados o importados en la Unión Europea con anterioridad al 20 de mayo de 2019, en todo caso, con la fecha límite del 20 de mayo de 2020.

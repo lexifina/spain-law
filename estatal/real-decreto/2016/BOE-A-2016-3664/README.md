@@ -1,0 +1,24 @@
+# Real Decreto 159/2016, de 15 de abril, por el que se aprueba el Plan de gestión del riesgo de inundación de la Demarcación Hidrográfica de las Illes Balears.
+
+- Identificador: BOE-A-2016-3664
+- Rango: Real Decreto
+- Fecha de disposición: 2016-04-15
+- Publicación: 2016-04-16
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2016-3664
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Repeal
+
+BOE records this act as repealed with effect from 2023-03-23. See the publisher notice for qualifications and transitional provisions. Earlier wording remains available in the history.
+
+## Bloques
+
+- [no](no.md)
+- [preambulo](preambulo.md)
+- [Artículo único](aunico.md)
+- [Disposición adicional primera](daprimera.md)
+- [Disposición adicional segunda](dasegunda.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [firma](firma.md)

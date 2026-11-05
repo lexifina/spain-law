@@ -1,0 +1,3 @@
+## Artículo único. Aprobación de las directrices y criterios comunes de los planes anuales para la prevención, vigilancia y extinción de incendios forestales.
+
+Mediante el presente real decreto se aprueban las directrices y criterios comunes de los planes anuales para la prevención, vigilancia y extinción de incendios forestales (en adelante, planes anuales), de conformidad con lo dispuesto en el artículo 48 de la Ley 43/2003, de 21 de noviembre, de Montes, en la redacción dada por el artículo 1 del Real Decreto-ley 15/2022, de 1 de agosto, por el que se adoptan medidas urgentes en materia de incendios forestales.

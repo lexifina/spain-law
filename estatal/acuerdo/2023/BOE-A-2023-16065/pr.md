@@ -1,0 +1,5 @@
+El artículo 80 de la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional, dispone que en materia de «día y hora inhábiles» se aplicarán, con carácter supletorio, los preceptos de la Ley Orgánica del Poder Judicial y de la Ley de Enjuiciamiento Civil.
+
+El acuerdo de 15 de junio de 1982, del Pleno del Tribunal Constitucional, introdujo algunas especialidades en la determinación de los días inhábiles durante los periodos vacacionales que dan lugar a una divergencia con el régimen procesal general, acentuada tras la Ley Orgánica 14/2022, de 22 de diciembre, que extendió la condición de inhábiles a todos los días que median entre el 24 de diciembre y el 6 de enero, con el fin de facilitar la conciliación de la vida personal y familiar de los profesionales que se relacionan o colaboran con la Administración de Justicia, circunstancia igualmente trasladable a la jurisdicción constitucional.
+
+En atención a las anteriores consideraciones, el Pleno del Tribunal Constitucional, en ejercicio de la competencia definida en el artículo 2.2, en relación con los artículos 10.1.m) y 85.2 de la Ley Orgánica 2/1979, de 3 de octubre, ha adoptado el siguiente acuerdo:

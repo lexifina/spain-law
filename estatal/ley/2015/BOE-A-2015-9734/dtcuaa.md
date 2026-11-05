@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Régimen transitorio hasta la suscripción de convenios entre el Servicio Público de Empleo Estatal y las comunidades autónomas.
+
+Hasta tanto no se suscriba entre el Servicio Público de Empleo Estatal y las comunidades autónomas el correspondiente convenio sobre el intercambio de la información necesaria para el seguimiento y control de la iniciativa de formación regulada en el artículo 9 y de los permisos individuales de formación, el Servicio Público de Empleo Estatal realizará el seguimiento y control de las acciones formativas programadas por las empresas con centros de trabajo radicados en el ámbito de una misma comunidad autónoma.

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+En tanto no se promulgue y entre en vigor la Ley Orgánica de competencia y organización de la jurisdicción militar, y a los efectos del artículo 30, tendrán competencia para promover y sostener conflictos jurisdiccionales con la Administración, las Autoridades Judiciales Militares que enumera el artículo 49 del Código de Justicia Militar y el Consejo Supremo de Justicia Militar, en el ámbito de sus respectivas competencias. Los autos que dicte el Consejo Supremo de Justicia Militar, a los efectos del número 5 del artículo 10, no serán susceptibles de recurso.

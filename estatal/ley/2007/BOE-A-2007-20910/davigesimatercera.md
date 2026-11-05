@@ -1,0 +1,3 @@
+## Disposición adicional vigésima tercera. Protección social de los sacerdotes, religiosos y religiosas de la Iglesia Católica secularizados.
+
+El Gobierno presentará en el Congreso de los Diputados, dentro de los tres meses siguientes a la entrada en vigor de esta Ley, un informe sobre medidas a adoptar en relación con los sacerdotes, religiosos y religiosas de la Iglesia Católica secularizados que posibilite la mejora de los mecanismos de financiación del incremento de la pensión de jubilación, reconocido al amparo de la disposición adicional décima de la Ley 13/1996, de 30 de diciembre, de medidas fiscales, administrativas y del orden social.

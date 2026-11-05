@@ -1,0 +1,3 @@
+El Consejo de Ministros en su reunión del día 24 de noviembre de 2020, ha adoptado un Acuerdo por el que se instruye al Instituto de Crédito Oficial (ICO) y se permite a la Compañía Española de Reafianzamiento, S.M.E., Sociedad Anónima (CERSA) ampliar el plazo de solicitud de avales hasta el 1 de junio de 2021 y extender el vencimiento de los avales ya liberados.
+
+A los efectos de dar publicidad al mencionado Acuerdo del Consejo de Ministros de 24 de noviembre de 2020, esta Secretaría de Estado de Economía y Apoyo a la Empresa ha resuelto disponer la publicación del mismo en el «Boletín Oficial del Estado» como anexo a la presente resolución.

@@ -1,0 +1,5 @@
+## Disposición transitoria única. Forma de presentación hasta el 31 de diciembre de 2015 del modelo 113 de «Comunicación de datos relativos a las ganancias patrimoniales por cambio de residencia cuando se produzca a otro Estado miembro de la Unión Europea o del Espacio Económico Europeo con efectivo intercambio de información tributaria».
+
+La forma de presentación a que se refiere el artículo 5 de esta orden será aplicable desde el 1 de enero de 2016.
+
+Hasta dicha fecha las comunicaciones se presentarán utilizando los modelos, que estarán disponibles en la Sede electrónica de la Agencia Estatal de Administración Tributaria en Internet, en la dirección electrónica www.agenciatributaria.gob.es, que se pueden rellenar e imprimir, y una vez impresos, se presentarán en las oficinas de registro de la Agencia Estatal de Administración Tributaria, o por correo certificado, dirigidas a la Delegación o Administración de la Agencia Estatal de Administración Tributaria correspondiente al último domicilio fiscal del contribuyente.

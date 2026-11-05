@@ -1,0 +1,9 @@
+## Artículo 5.
+
+1. Los cobros y pagos entre residentes y no residentes, así como las transferencias al o del exterior, estén cifrados todos ellos en euros o en moneda extranjera, deberán efectuarse a través de un proveedor de servicios de pago inscrito en los Registros oficiales del Banco de España (en adelante, Entidades Registradas), con las excepciones señaladas en los artículos 6 y 7 del presente real decreto.
+
+2. En el caso de los cobros y pagos transfronterizos ordenados o recibidos por residentes en los que intervenga un proveedor de servicios de pago de otro Estado Miembro de la Unión Europea a los que sea de aplicación el Reglamento (CE) 924/2009, de 16 de septiembre, relativo a los Pagos Transfronterizos en la Comunidad o, en los casos de abonos y adeudos en cuentas de clientes no residentes, las Entidades Registradas facilitarán, en la forma y con el alcance que determine el Ministro de Economía y Hacienda, y dentro de los treinta días siguientes a cada mes natural, la información relativa a los cobros, pagos o transferencias exteriores en que intervengan, a los efectos de seguimiento administrativo, fiscal y estadístico de las operaciones. Sólo se solicitará información que pueda recopilarse de manera automática, sin incidir en el tratamiento directo automatizado de los pagos.
+
+3. En los restantes casos de cobros y pagos y transferencias previstos en el apartado 1, las Entidades Registradas facilitarán, en la forma y con el alcance que determine el Ministro de Economía y Hacienda, y dentro de los treinta días siguientes a cada mes natural, información relativa a los cobros, pagos o transferencias exteriores en que intervengan a los efectos de seguimiento administrativo, fiscal y estadístico de las operaciones.
+
+> Se modifica por el art. único.2 del Real Decreto 1360/2011, de 7 de octubre. Ref. BOE-A-2011-15813.

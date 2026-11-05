@@ -1,0 +1,3 @@
+## Disposición adicional única. Tramitación electrónica.
+
+Mediante las correspondientes Resoluciones de las Subsecretarías del Ministerio de Agricultura, Alimentación y Medio Ambiente, en lo que se refiere a los piensos, y del Ministerio de Sanidad, Servicios Sociales e Igualdad, para los alimentos, se podrá establecer que el pago de la tasa pueda realizarse por vía telemática, conforme a lo previsto en la Orden HAC/729/2003, de 28 marzo, que establece los supuestos y las condiciones generales para el pago por vía electrónica de las tasas que constituyen recursos de la Administración General del Estado y sus Organismos Públicos.

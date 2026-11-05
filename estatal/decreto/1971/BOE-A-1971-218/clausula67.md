@@ -1,0 +1,5 @@
+## Cláusula 67. Fallecimiento del contratista individual.
+
+En el caso de fallecimiento del contratista individual, su Delegado o quienes pudieren considerarse herederos de aquél deberán comunicar tal defunción a la Administración inmediatamente después de conocer el hecho. Todo retraso injustificado, negligente o doloso, en realizar tal comunicación, que cause daños y perjuicios a la Administración y al bien público, dará lugar a la correspondiente indemnización, para cuya determinación se estará a los requisitos y trámites establecidos en la cláusula anterior.
+
+Tanto en dicho supuesto como si la Administración conoce el óbito sin mediar aquella comunicación, citará personalmente a quienes hayan acreditado ante ella su condición de herederos, o por edictos en otro caso, a fin de que, en el plazo que señale, no inferior a tres meses desde la citación, puedan ejercitar los herederos su derecho a ofrecer la continuación de la ejecución de la obra sin variar las condiciones estipuladas en el contrato.

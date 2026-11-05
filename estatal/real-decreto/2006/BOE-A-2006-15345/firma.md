@@ -1,0 +1,7 @@
+Dado en Palma de Mallorca, el 28 de julio de 2006.
+
+JUAN CARLOS R.
+
+El Ministro de Industria, Turismo y Comercio,
+
+JOSÉ MONTILLA AGUILERA

@@ -1,0 +1,11 @@
+## Disposición final primera. Modificación del Reglamento del Impuesto sobre Sociedades aprobado por el Real Decreto 1777/2004, de 30 de julio.
+
+La letra t) del artículo 59 del Reglamento del Impuesto sobre Sociedades, aprobado por el Real Decreto 1777/2004, de 30 de julio, queda redactada del siguiente modo:
+
+«t) Las rentas derivadas de la transmisión o reembolso de acciones o participaciones representativas del capital o patrimonio de instituciones de inversión colectiva obtenidas por:
+
+1. Los fondos de inversión de carácter financiero y las sociedades de inversión de capital variable regulados en la Ley 35/2003, de 4 de noviembre, de Instituciones de inversión colectiva, en cuyos reglamentos de gestión o estatutos tengan establecida una inversión mínima superior al 50% de su patrimonio en acciones o participaciones de varias instituciones de inversión colectiva de las previstas en los párrafos c) y d), indistintamente, del artículo 48.1 del Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, aprobado por Real Decreto 1082/2012, de 13 de julio de 2012.
+
+2. Los fondos de inversión de carácter financiero y las sociedades de inversión de capital variable regulados en la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, en cuyos reglamentos de gestión o estatutos tengan establecida la inversión de, al menos, el 85% de su patrimonio en un único fondo de inversión de carácter financiero de los regulados en el primer inciso del artículo 3.3 del Reglamento de desarrollo de la Ley 35/2003, de 4 de noviembre, de instituciones de inversión colectiva, aprobado por Real Decreto 1082/2012, de 13 de julio. Cuando esta política de inversión se refiera a un compartimento del fondo o de la sociedad de inversión, la excepción a la obligación de retener e ingresar a cuenta prevista en esta letra solo será aplicable respecto de las inversiones que integren la parte del patrimonio de la institución atribuida a dicho compartimento.
+
+La aplicación de la exclusión de retención prevista en esta letra t) requerirá que la institución inversora se encuentre incluida en la correspondiente categoría que, para los tipos de inversión señalados en los párrafos 1 y 2, tenga establecida la CNMV, la cual deberá constar en su folleto informativo.»

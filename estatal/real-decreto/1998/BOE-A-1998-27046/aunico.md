@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del Reglamento de la Junta Arbitral de resolución de conflictos en materia de tributos del Estado cedidos a las Comunidades Autónomas.
+
+Se aprueba el Reglamento de la Junta Arbitral de resolución de conflictos en materia de tributos del Estado cedidos a las Comunidades Autónomas regulada en los artículos 23 y 24 de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, añadidos a dicha Ley Orgánica por el apartado ocho del artículo único de la Ley Orgánica 3/1996, de 27 de diciembre, el cual se incluye en el anexo al presente Real Decreto.

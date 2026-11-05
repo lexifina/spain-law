@@ -1,0 +1,5 @@
+El Gobierno de Su Majestad, en su deseo de continuar la política inspirada por la Corona de superar las consecuencias que se derivaron de la pasada contienda y continuando la política desarrollada por las Leyes de doce de julio de mil novecientos cuarenta, trece de diciembre de mil novecientos cuarenta y tres, diecisiete de julio de mil novecientos cuarenta y cinco y disposiciones complementarias, considera obligado dictar una norma que armonice la superación de aquélla con el mantenimiento de la mejor organización y moral militar de las Fuerzas Armadas.
+
+En su virtud, a propuesta del Ministro de Defensa, previa deliberación del Consejo de Ministros en su reunión del día diecisiete de febrero, en uso de la autorización conferida por el artículo trece de la Ley Constitutiva de las Cortes, texto refundido aprobado por Decreto de veinte de abril de mil novecientos sesenta y siete, y oída la Comisión a que se refiere el apartado uno de la disposición transitoria segunda de la Ley uno/mil novecientos setenta y siete, de cuatro de enero, para la Reforma Política,
+
+## DISPONGO:

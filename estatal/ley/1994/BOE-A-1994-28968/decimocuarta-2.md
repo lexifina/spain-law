@@ -1,0 +1,3 @@
+## Disposición transitoria decimocuarta. Transporte público regular de viajeros en cada una de las islas de la Comunidad Canaria.
+
+En consideración a las especificidades que concurren en el transporte colectivo regular de viajeros en el ámbito de la Comunidad Autónoma de Canarias y en desarrollo de lo dispuesto en el artículo 8 de la Ley 19/1994, de Modificación del Régimen Económico y Fiscal de Canarias, durante el ejercicio de 1995, se procederá a elaborar un contrato-programa para cada una de las islas, con fijación de objetivos y modos de establecer un sistema eficaz de transporte público integrado en cada isla.

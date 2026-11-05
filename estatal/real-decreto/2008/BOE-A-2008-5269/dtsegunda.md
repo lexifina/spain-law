@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Instalaciones en fase de tramitación en la fecha de obligado cumplimiento del reglamento.
+
+Para aquellas instalaciones cuyo anteproyecto haya sido realizado de conformidad con el Reglamento de Líneas Eléctricas Aéreas de Alta Tensión, aprobado por Decreto 3151/1968, de 28 de noviembre, y disposiciones que lo desarrollan, y hubiere sido presentado al órgano competente de la Administración antes de la fecha indicada en la disposición transitoria primera.1, se concede un plazo de dos años, que se contará desde dicha fecha, para la consecución del acta de puesta en servicio.

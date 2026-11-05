@@ -1,0 +1,3 @@
+## Disposición adicional decimocuarta. Subcomisión de transportes, puertos y aeropuertos.
+
+En el seno de la Comisión Mixta creada por el artículo 14 de la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, existirá una Subcomisión de transportes, puertos y aeropuertos, a la que corresponderá el análisis, propuesta a la Comisión Mixta y seguimiento de todo lo relativo al transporte aéreo y marítimo de personas y mercancías, al objeto de garantizar el óptimo desarrollo de las medidas que en esta materia se contienen en las normas reguladoras del régimen económico y fiscal de las Islas Canarias.

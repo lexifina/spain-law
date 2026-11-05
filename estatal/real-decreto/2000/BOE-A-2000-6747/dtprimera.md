@@ -1,0 +1,15 @@
+## Disposición transitoria primera. Situaciones anteriores.
+
+1. Podrán solicitar la aplicación del cómputo de los períodos reconocidos como cotizados a la Seguridad Social, en los términos establecidos en el presente Real Decreto, y la consiguiente revisión de sus pensiones, los actuales perceptores de pensiones del Régimen de Clases Pasivas del Estado que acrediten las condiciones exigidas en el artículo 1 de esta norma.
+
+2. Asimismo, podrán solicitar la aplicación del cómputo a que se refiere el apartado anterior aquellas personas que, acreditando las mismas condiciones, antes de la entrada en vigor del presente Real Decreto, tuvieran pendiente de resolver, o hubieran podido instar, el reconocimiento del derecho a una pensión por dicho Régimen.
+
+3. Los efectos económicos que se deriven de las solicitudes que se formulen según las previsiones de los apartados anteriores tendrán una retroactividad máxima de 1 de febrero de 1999, primer día del mes siguiente al de la publicación en el «Boletín Oficial del Estado» del Real Decreto 2665/1998, de 11 de diciembre, o desde la fecha de efectos iniciales de la pensión de que se trate, si ésta es posterior, siendo de aplicación en su caso, las normas que regulan la caducidad de efectos económicos en el Régimen de Clases Pasivas del Estado.
+
+4. La Administración considerará válidas las solicitudes efectuadas antes de la entrada en vigor del presente Real Decreto, que surtirán los efectos económicos que se deriven de lo dispuesto en el apartado anterior.
+
+En estos supuestos, las certificaciones emitidas por el Ordinario respectivo o por la autoridad de la correspondiente Congregación, a que se refiere el artículo 2.4 del Real Decreto 2665/1998, de 11 de diciembre, y que el interesado hubiera aportado con la solicitud, serán cursadas de oficio, junto con una copia de la misma, a la Dirección Provincial de la Tesorería General de la Seguridad Social que resulte territorialmente competente, según lo dispuesto en el artículo 6.1 de este Real Decreto, a efectos de que resuelva y certifique sobre los períodos asimilados a cotizados que puedan computarse en las pensiones del Régimen de Clases Pasivas del Estado y, en su caso, otros períodos de cotización efectiva que se acrediten a la Seguridad Social.
+
+Cuando no se hubieran aportado junto con la solicitud las certificaciones referidas en el párrafo anterior, los interesados deberán realizar las actuaciones precisas en orden al reconocimiento de los períodos reflejados en las mismas como asimilados a cotizados a la Seguridad Social, de conformidad con lo establecido en los artículos 2.1 y 6.1 del presente Real Decreto.
+
+La resolución de las solicitudes de aplicación del cómputo de los períodos asimilados, regulada en los apartados anteriores, en ningún caso supondrá merma o restricción de los derechos económicos que venía percibiendo el interesado o que le hubiera correspondido percibir de tener resuelto su derecho a pensión sin la aplicación del referido cómputo.

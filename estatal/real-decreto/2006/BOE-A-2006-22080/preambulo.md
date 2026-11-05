@@ -1,0 +1,13 @@
+La Ley 51/2003, de 2 de diciembre, de Igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad, tiene por objeto establecer medidas para garantizar y hacer efectivo el derecho a la igualdad de oportunidades de las personas con discapacidad, conforme a los artículos 9.2, 10, 14 y 49 de la Constitución.
+
+A estos efectos, se entiende por igualdad de oportunidades la ausencia de discriminación, directa o indirecta, que tenga su causa en una discapacidad, así como la adopción de medidas de acción positiva orientadas a evitar o compensar las desventajas de una persona con discapacidad para participar plenamente en la vida política, económica, cultural y social.
+
+Por lo que respecta al ámbito subjetivo de aplicación de la ley, su artículo 1.2 dispone que tendrán la consideración de personas con discapacidad aquéllas a quienes se les haya reconocido un grado de minusvalía igual o superior al 33 por ciento y que en todo caso, se considerarán afectados por una minusvalía en grado igual o superior al 33 por ciento los pensionistas de la Seguridad Social que tengan reconocida una pensión de incapacidad permanente en el grado de total, absoluta o gran invalidez y a los pensionistas de clases pasivas que tengan reconocida una pensión de jubilación o de retiro por incapacidad permanente para el servicio o inutilidad.
+
+Sin embargo, desde la entrada en vigor de la ley, se han producido decisiones administrativas heterogéneas y, en algunas ocasiones, contradictorias, emanadas de los distintos órganos de las administraciones públicas, en relación con la forma de acreditar la asimilación al grado de minusvalía prevista en el citado artículo.
+
+Con objeto de precisar el alcance de la equiparación del grado de minusvalía prevista en el artículo 1.2 de la Ley 51/2003, de 2 de diciembre y de fijar unos criterios homogéneos de actuaciones para todo el Estado, y en aplicación de lo dispuesto en el citado artículo, conforme al cual la acreditación del grado de minusvalía se realizará en los términos establecidos reglamentariamente y tendrá validez en todo el territorio nacional, se dicta el presente real decreto, previo informe del Consejo Nacional de la Discapacidad y de la Comisión Estatal de Coordinación y Seguimiento de la Valoración del Grado de Minusvalía.
+
+En su virtud, a propuesta del Ministro de Trabajo y Asuntos Sociales, con aprobación previa del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 1 de diciembre de 2006,
+
+## D I S P O N G O :

@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+En los municipios en los que no exista planeamiento urbanístico aprobado podrán instalarse campamentos de turismo, siempre que, previamente, se redacte y apruebe un plan especial de protección con objeto de preservar los valores naturales o urbanos, paisajísticos, agrícolas y forestales del territorio afectado por la instalación del campamento de turismo y de dotar a éste de los servicios urbanísticos que su instalación requiera. Estos planes especiales deberán contener las determinaciones y documentos exigidos por el artículo setenta y siete del Reglamento de Planeamiento.

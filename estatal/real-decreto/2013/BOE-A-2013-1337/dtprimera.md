@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Criadores, suministradores y usuarios registrados de acuerdo con el Real Decreto 1201/2005, de 10 de octubre, sobre protección de los animales utilizados para experimentación y otros fines científicos.
+
+Los criadores, suministradores y usuarios registrados al amparo de lo dispuesto en el Real Decreto 1201/2005, de 10 de octubre, sobre protección de los animales utilizados para experimentación y otros fines científicos, que se encuentren en funcionamiento, deberán comunicar a los órganos competentes, en un plazo no superior a los seis meses a partir de la publicación del presente real decreto la información complementaria necesaria según lo dispuesto en el mismo.

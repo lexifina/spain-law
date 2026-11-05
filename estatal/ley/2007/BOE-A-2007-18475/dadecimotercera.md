@@ -1,0 +1,7 @@
+## Disposición adicional decimotercera. Responsabilidad medioambiental en el exterior.
+
+1. Los operadores que realicen actividades económicas o profesionales reguladas en esta Ley en Estados que no formen parte de la Unión Europea estarán obligados a prevenir, evitar y reparar los daños medioambientales en aplicación de lo establecido en los acuerdos, principios, objetivos y normas internacionales que, en esta materia, España suscriba, pudiendo resultar de aplicación, en virtud de los mismos, cuantas medidas de prevención, evitación y reparación de daños que se regulan en esta Ley, con el alcance y finalidad en ella prevista.
+
+2. Los operadores que incumplan las obligaciones previstas en el apartado anterior y que sean beneficiarios de instrumentos públicos de apoyo a la inversión española en el exterior estarán obligados a la devolución de todas las ayudas públicas de apoyo a la inversión en el exterior recibidas para el desarrollo de la actividad origen del daño medioambiental y no podrán recibir ayudas similares durante un período de dos años, además de la sanción de que puedan ser objeto en virtud de la aplicación de los acuerdos suscritos por España a los que se hace referencia en el apartado anterior.
+
+3. Lo dispuesto en los apartados anteriores no eximirá del cumplimiento de cualquier otra obligación legal existente en el Estado en el que se realice la actividad causa del daño medioambiental.

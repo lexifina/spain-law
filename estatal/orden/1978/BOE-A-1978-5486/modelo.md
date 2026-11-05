@@ -1,0 +1,3 @@
+## MODELO DE DECLARACIÓN MENSUAL DE BEBIDAS ELABORADAS Y CONSUMO DE EXISTENCIAS DE AZÚCAR
+
+![imagen](https://www.boe.es/datos/imagenes/disp/1978/47/05486_001.png)

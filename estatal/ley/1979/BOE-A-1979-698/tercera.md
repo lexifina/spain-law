@@ -1,0 +1,3 @@
+## Disposición final tercera.
+
+En los Cuerpos de Auxiliares Postales y de Telecomunicación –Escalas de Oficiales Postales y de Telecomunicación y de Clasificación y Reparto–, de Técnicos Superiores, de Técnicos Medios y de Técnicos Especializados, los incrementos resultantes de los aumentos de plazas en sus plantillas con relación a la suma de los anteriores Cuerpos, que respectivamente se integran en los mismos, se financiarán con baja en los créditos de contratación correspondientes y las dotaciones complementarias que sean legalmente necesarias, a cuyo efecto autoriza al Ministerio de Hacienda para habilitar los créditos correspondientes.

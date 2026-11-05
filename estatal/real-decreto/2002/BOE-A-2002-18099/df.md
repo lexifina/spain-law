@@ -1,0 +1,3 @@
+## Disposición final primera. Habilitación normativa.
+
+El presente Real Decreto se dicta al amparo del título competencial establecido en la disposición final única de la Ley 21/1992, de 16 de julio, de Industria, en concreto, de las competencias que corresponden al Estado conforme al artículo 149.1.1.ª y 13.ª de la Constitución, relativas a la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales, así como sobre las bases y condiciones de la planificación general de la actividad económica.

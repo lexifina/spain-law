@@ -1,0 +1,7 @@
+## Disposición final cuarta. Modificación de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+Se modifica el apartado 1 del artículo 23 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, que queda redactado como sigue:
+
+> «1. Será lícito el tratamiento de datos personales que tenga por objeto evitar el envío de comunicaciones comerciales a quienes hubiesen manifestado su negativa u oposición a recibirlas.
+
+> A tal efecto, podrán crearse sistemas de información, generales o sectoriales, por parte de las asociaciones y organismos a los que se refiere el apartado 2 del artículo 40 del Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos) que cuenten con una alta representatividad en los que solo se incluirán los datos imprescindibles para identificar a los afectados. Estos sistemas también podrán incluir servicios de preferencia, mediante los cuales los afectados limiten la recepción de comunicaciones comerciales a las procedentes de determinadas empresas. Para la creación y mantenimiento de estos sistemas se observarán las medidas que se establezcan mediante desarrollo reglamentario.»

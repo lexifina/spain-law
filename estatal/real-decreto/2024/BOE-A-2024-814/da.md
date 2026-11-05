@@ -1,0 +1,3 @@
+## Disposición adicional primera. Puestos de trabajo de los centros docentes.
+
+Los puestos de trabajo de los centros docentes se definen en el Catálogo de Puestos de Trabajo de la Dirección General de la Policía, de conformidad con lo dispuesto en la Ley Orgánica 9/2015, de 28 de julio, de Régimen de Personal de la Policía Nacional, el presente reglamento, la normativa por la que se desarrolla la estructura orgánica básica del Ministerio del Interior y la de los servicios centrales y territoriales de la Dirección General de la Policía, así como por el resto de disposiciones que les sean de aplicación.

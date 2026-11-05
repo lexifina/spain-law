@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Incentivo global a la disponibilidad.
+
+A cada empresa transportista se le aplicará una bonificación o penalización en concepto de incentivo global a la disponibilidad, que será definido por orden del Ministro de Industria, Turismo y Comercio y que afectará al conjunto de instalaciones de transporte del que sea titular. Para el conjunto de instalaciones propiedad de cada empresa transportista, la cuantía a aplicar por el incentivo a la disponibilidad quedará limitada al ± 2 por ciento de los ingresos anuales de la empresa transportista en concepto de retribución por costes de inversión.

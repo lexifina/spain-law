@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 21 de marzo de 2019, por la disposición derogatoria única de la Circular de 13 de marzo de 2019 Ref. BOE-A-2019-3995#dd, sin perjuicio de la previsión establecida en la disposición transitoria primera de la citada Circular, en relación con las certificaciones del ejercicio 2018.

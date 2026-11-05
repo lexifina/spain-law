@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta.
+
+1. Las personas que, antes del día 1 de enero de 1988 vinieran realizando legalmente transporte discrecional urbano de viajeros en autobús o de mercancías en vehículos pesados, sin estar provistas de autorización administrativa, podrán solicitar en el plazo de doce meses a partir de la entrada en vigor de este Reglamento, una autorización habilitante para la realización de transporte urbano en el municipio de que se trate, reconociéndoseles a tal efecto la capacitación profesional para la realización de transporte exclusivamente urbano.
+
+2. La autorización a que se refiere el punto anterior será otorgada por el correspondiente Ayuntamiento cuando se trate de transporte de viajeros, o por la respectiva Comunidad Autónoma o, en su caso, por el Estado, cuando se trate de transporte de mercancías o mixto, especificándose el municipio al que cada autorización corresponda. Para el otorgamiento de dicha autorización no serán exigibles los requisitos de antigüedad máxima del vehículo establecidos con carácter general, si bien deberá justificarse el cumplimiento por el mismo de las condiciones técnicas exigibles.
+
+3. La justificación de la realización efectiva del transporte a que se refiere esta disposición se efectuará por los titulares de los vehículos utilizados para ello a través de la correspondiente documentación de carácter fiscal o de la Seguridad Social, facturas o cualquier otro medio de prueba adecuado.

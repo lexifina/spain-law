@@ -1,0 +1,3 @@
+El Secretario de Estado de Educación y Formación Profesional y la Secretaria de Estado de Universidades, Investigación, Desarrollo e Innovación, han suscrito, con fecha 7 de febrero de 2019, una Resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, los alumnos procedentes de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2018-2019.
+
+Para general conocimiento, dispongo su publicación en el «Boletín Oficial del Estado» como anejo a la presente Resolución.

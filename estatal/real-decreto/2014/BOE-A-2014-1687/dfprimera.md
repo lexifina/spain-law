@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+El presente real decreto tiene carácter de norma básica de ordenación del sector pesquero, y se dicta en virtud de lo establecido en el artículo 149.1.19.ª de la Constitución. Se exceptúan de lo anterior los artículos 6.1.c), 7.1.c), 10.1.c) y 11.1.c), relativos al acceso a las profesiones de patrón de altura, patrón de litoral, mecánico mayor naval y mecánico naval, cuya regulación se ampara en la competencia atribuida al Estado por el artículo 149.1.30.ª de la Constitución para la regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales.

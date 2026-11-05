@@ -1,0 +1,17 @@
+## Artículo veintitrés.
+
+1. El Real Decreto de reconversión establecerá las condiciones en que podrán concederse ayudas, equivalentes a la jubilación anticipada del sistema de la Seguridad Social a aquellos trabajadores con sesenta o más años de edad que, como consecuencia de la reconversión, cesen en sus empresas antes de alcanzar la edad fijada para la jubilación con plenos derechos en el régimen de la Seguridad Social de encuadramiento de acuerdo con los siguientes criterios:
+
+Primero.-Las prestaciones equivalentes a la jubilación se reconocerán por la entidad gestora competente y se calcularán, aplicando a la base reguladora correspondiente a la pensión de jubilación el porcentaje que se determine en el correspondiente Real Decreto de reconversión, según una escala que combine la edad de los interesados con los períodos de ocupación cotizados, en fórmula semejante a la que opera en la determinación de la pensión de jubilación anticipada en el régimen general de la Seguridad Social.
+
+El coste de estas ayudas equivalentes a la jubilación anticipada, se financiará con cargo a los recursos que el propio Real Decreto de reconversión establezca.
+
+Segundo.-El importe de la prestación a que se refiere el número anterior se complementará, mediante una ayuda especial, para garantizar al trabajador el 75 por 100 de su remuneración media durante los seis meses anteriores a su acogimiento a este sistema, sin que la cantidad total a percibir por el beneficiario pueda ser superior a la pensión de jubilación que se le hubiere reconocido de tener cumplida la edad general de jubilación.
+
+Esta ayuda complementaria dejará de abonarse a partir del momento en que el trabajador cumpla sesenta y cinco años de edad.
+
+Tercero.-Durante el período de percepción de esta ayuda el beneficiario será considerado en situación asimilada al alta, en el correspondiente régimen de la Seguridad Social y continuará cotizándose por él según el tipo de contingencias generales del régimen de que se trate. A tal efecto, se tomará como base de cotización la remuneración media que haya servido para la determinación de la cuantía de la ayuda a que se refiere el número anterior con el coeficiente de actualización anual que establezca el Ministerio de Trabajo y Seguridad Social, de modo que, al cumplir la edad general de jubilación, el beneficiario pueda acceder a la pensión con plenos derechos.
+
+2. La financiación de las medidas previstas en los apartados segundo y tercero de número anterior se realizará con cargo a las empresas acogidas al plan o a los Fondos de Promoción de Empleo, según disponga el Real Decreto de reconversión, el cual determinará las correspondientes aportaciones, así como la forma, plazo y condiciones en que habrán de efectuarse las mismas. Estas aportaciones podrán equipararse, a efectos de recaudación, a las cuotas de la Seguridad Social.
+
+3. Las normas establecidas en el presente artículo serán también de aplicación al cumplir los sesenta años, a aquellos trabajadores que tengan cincuenta y cinco años cumplidos en la fecha de su salida, de la empresa. A este efecto, por los Fondos de Promoción del Empleo o, en ausencia de éstos, directamente por aquellas empresas en cuyo Real Decreto de reconversión se autorice excepcionalmente esta posibilidad, se realizarán las correspondientes cotizaciones adicionales por las contingencias a que se refiere el punto tercero, número 1, del presente artículo, desde la fecha en que los trabajadores cesen en la prestación de servicios en sus empresas.

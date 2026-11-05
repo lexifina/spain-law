@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Relación con el sistema educativo general.
+
+Los planes de estudios de las enseñanzas militares que den lugar a la obtención del título de Técnico Militar de una determinada especialidad, serán remitidos por los Jefes de Estado Mayor del Ejército de Tierra, de la Armada y el Ejército del Aire a la Dirección General de Reclutamiento y Enseñanza Militar, quien procederá a efectuar los trámites oportunos con el Ministerio de Educación, Cultura y Deporte para el establecimiento, en su caso, de las equivalencias de estos títulos con los de Técnico del sistema educativo general.

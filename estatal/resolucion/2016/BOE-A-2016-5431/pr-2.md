@@ -1,0 +1,3 @@
+## Primero. Recargo en favor del Consorcio de Compensación de Seguros para el cumplimiento de sus funciones como fondo de garantía del seguro obligatorio de responsabilidad civil en la circulación de vehículos a motor.
+
+El recargo en favor del Consorcio de Compensación de Seguros para el cumplimiento de las funciones que le encomienda el artículo 11 del texto refundido de la Ley sobre responsabilidad civil y seguro en la circulación de vehículos a motor, aprobado por el Real Decreto Legislativo 8/2004, de 29 de octubre, queda fijado en el 1,5 por cien de las primas comerciales del citado seguro obligatorio.

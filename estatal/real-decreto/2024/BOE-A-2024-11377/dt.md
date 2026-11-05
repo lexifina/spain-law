@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Validez de los certificados de radiofonista emitidos conforme al Real Decreto 1036/2017, de 15 de diciembre.
+
+Los certificados de radiofonista emitidos por una organización de formación aprobada (ATO) o escuela de ultraligeros de conformidad con el artículo 33, apartado 1, letra e) del Real Decreto 1036/2017, de 15 de diciembre, seguirán siendo válidos para acreditar el requisito relativo de contar con los conocimientos y aptitudes para la utilización de la banda aérea (servicio móvil aeronáutico) para establecer comunicaciones aeronáuticas a que se refiere el artículo 34, durante dos años desde la entrada en vigor del presente real decreto.

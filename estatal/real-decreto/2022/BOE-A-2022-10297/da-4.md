@@ -1,0 +1,11 @@
+## Disposición adicional cuarta. Referencia a Normas “UNE-EN”.
+
+La referencia a Normas UNE-EN ISO efectuadas a lo largo del articulado y anexos de este real decreto se entenderán hechas a la versión que se encuentre vigente en cada momento, una vez transcurrido el plazo que se indica a continuación, a contar desde el día de la publicación en el “Boletín Oficial del Estado” de su título y código numérico mediante Resolución de la Dirección General de Industria y de la Pequeña y Mediana Empresa:
+
+a) Las modificaciones de las normas UNE-EN ISO 19458:2007 Calidad del agua. Muestreo para el análisis microbiológico, y UNE-ISO 17381:2012 Calidad del agua. Selección y aplicación de métodos que utilizan kits de ensayo listos para usar en el análisis del agua, al año de su publicación en el BOE.
+
+b) Las modificaciones de las normas UNE-EN ISO 16140-2:2016 Protocolo para la validación de métodos alternativos (registrados) frente a los métodos de referencia, UNE-EN ISO/IEC 17025:2017 Evaluación de la conformidad. Requisitos generales para la competencia de los laboratorios de ensayo y de calibración y UNE-EN ISO 11731:2017 Calidad del agua. Recuento de Legionella, al día siguiente de su publicación en el BOE, siendo de aplicación a las solicitudes de certificación y acreditación que se produzcan a partir de dicha fecha.
+
+c) Las modificaciones de las normas UNE-EN 12897:2017+A1:2020 Especificaciones para calentadores de agua de acumulación por calentamiento indirecto sin ventilación (cerrados) y UNE-EN 1717:2001 Protección contra la contaminación del agua potable en las instalaciones de aguas y requisitos generales de los dispositivos para evitar la contaminación por reflujo, que salvo en los casos contemplados en el apartado 2 de la disposición transitoria cuarta, será de aplicación al año de su publicación en el BOE para las nuevas instalaciones de agua caliente sanitaria que lo requieran y a la sustitución de los depósitos de acumulación entre 250 y 750 litros y los interacumuladores de doble tanque (con volúmenes de acumulación de agua inferiores a 750 litros) de instalaciones de agua caliente sanitaria ya existentes.
+
+> Se añade por el art. único.6 del Real Decreto 614/2024, de 2 de julio. Ref. BOE-A-2024-13422

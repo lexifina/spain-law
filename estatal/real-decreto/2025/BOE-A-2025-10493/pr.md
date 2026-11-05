@@ -1,0 +1,61 @@
+I
+
+La Intervención General de la Seguridad Social fue creada por el Real Decreto 3307/1977, de 1 de diciembre, por el que se establecen normas para la intervención de la Seguridad Social, en cumplimiento de las previsiones de la Ley 11/1977, de 4 de enero, General Presupuestaria, y del texto refundido de la Ley General de la Seguridad Social, aprobado por el Decreto 2065/1974, de 30 de mayo, estableciéndose en el citado real decreto su organización, estructura orgánica y funciones.
+
+El Real Decreto 622/1998, de 17 de abril, por el que se determina la naturaleza, estructura y funciones de la Intervención General de la Seguridad Social, procedió a una revisión y actualización de dicha estructura, así como de las funciones y competencias, como consecuencia de los avances producidos en los procedimientos de prestación de servicios a la ciudadanía en el sistema de la Seguridad Social.
+
+Desde entonces, numerosas modificaciones normativas han afectado al desarrollo de las funciones de control interno y contabilidad ejercidas por la Intervención General de la Seguridad Social, resultando conveniente adaptar sus funciones y competencias a la normativa actual.
+
+Entre dichas modificaciones normativas destacan las relativas al desarrollo de la administración electrónica, la Ley 47/2003, de 26 de noviembre, General Presupuestaria, y la normativa específica de la Seguridad Social, fundamentalmente, el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 8/2015, de 30 de octubre.
+
+En concreto, el título VI de la Ley 47/2003, de 26 de noviembre, procedió a regular de manera específica el control de la gestión económico-financiera del sector público estatal a través de tres modalidades diferenciadas: función interventora, control financiero permanente y auditoría pública. Esto supuso una importante novedad con respecto al anterior texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto Legislativo 1091/1988, de 23 de septiembre, donde solo existía un control posterior a la fiscalización limitada previa mediante la aplicación de técnicas de muestreo o auditoría, carente, por tanto, de la sustantividad propia que después alcanzaría el control financiero permanente. Ello determinó que la estructura original de la Intervención General de la Seguridad Social, en lo que respecta al control interno, se dividiera en sendas subdirecciones generales, de fiscalización y de control financiero, asumiendo esta última dicho control posterior.
+
+Sin embargo, en el tiempo transcurrido desde la promulgación de la vigente Ley 47/2003, de 26 de noviembre, el control financiero permanente ha adquirido, en el ámbito concreto de la Seguridad Social, una importancia cada vez mayor, al quedar sometido al mismo la totalidad de las entidades gestoras y servicios comunes de la Seguridad Social, lo que determina la necesidad de crear una subdirección general específica y diferenciada de las otras dos, que asuma la dirección de la actividad correspondiente a dicho control interno.
+
+Por su parte, el artículo 130 del texto refundido de la Ley General de la Seguridad Social regula la tramitación electrónica de procedimientos en materia de prestaciones, admitiendo la adopción y notificación de las resoluciones de reconocimiento de prestaciones de la Seguridad Social de forma automatizada.
+
+Este proceso de modificación normativa y modernización de la Administración pública, tras la entrada en vigor de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, exige la adaptación de la estructura, funciones y procedimientos de la Intervención General de la Seguridad Social a las nuevas obligaciones legales derivadas, entre otras, de la administración electrónica.
+
+En consonancia con las citadas modificaciones, en el ámbito del control financiero, se aprobó la Orden PCM/1337/2021, de 30 de noviembre, por la que se crean determinados órganos administrativos en materia de control financiero en la Intervención General de la Seguridad Social, que ha supuesto una reorganización de los recursos humanos destinados al control financiero, tanto a nivel centralizado, mediante la creación de una División específica de control financiero permanente, como a nivel descentralizado, mediante la creación de once Unidades territoriales de control financiero con un ámbito territorial de actuación superior al provincial.
+
+Asimismo, en el ámbito de la contabilidad, se aprobó el Real Decreto 1077/2021, de 7 de diciembre, por el que se regulan los principios generales y la organización del sistema de información contable de la Seguridad Social, que ha venido a actualizar la anterior normativa reguladora del sistema de información contable como consecuencia de la ampliación tanto de su ámbito subjetivo como objetivo de aplicación, incorporando las modificaciones acaecidas en la organización contable de la Seguridad Social, encargada del registro contable de las operaciones derivadas de la actividad que desarrollan las entidades del sistema de la Seguridad Social, y en el que también se establecen las funciones del Centro de Desarrollo Informático de la Intervención General de la Seguridad Social.
+
+Finalmente, en el ámbito de función interventora, se acometió la reforma del Real Decreto 706/1997, de 16 de mayo, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Seguridad Social, a través del Real Decreto 1121/2021, de 21 de diciembre.
+
+Mediante este real decreto se culmina este proceso de actualización normativa procediendo a integrar y adecuar la estructura central y periférica de este organismo y a revisar el contenido de las funciones de las diferentes subdirecciones generales y unidades administrativas con arreglo a lo dispuesto en la normativa actualmente en vigor.
+
+II
+
+El Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales, creó el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, como Departamento encargado de la propuesta y ejecución de la política del Gobierno en los asuntos de relevancia constitucional, la preparación, desarrollo y seguimiento del programa legislativo, el apoyo inmediato a la Presidencia del Gobierno, la asistencia al Consejo de Ministros, a las Comisiones Delegadas del Gobierno, a la Comisión General de Secretarios de Estado y Subsecretarios y, en particular, al Gobierno en sus relaciones con las Cortes Generales.
+
+Asimismo corresponde al referido Ministerio la propuesta y ejecución de la política del Gobierno para el desarrollo del ordenamiento jurídico, sin perjuicio de las competencias de otros departamentos, y para el ejercicio del derecho a la libertad religiosa; las relaciones del Gobierno con la Administración de Justicia, con el Consejo General del Poder Judicial y con el Ministerio Fiscal, a través del Fiscal General del Estado, y la cooperación jurídica internacional, así como las demás funciones atribuidas por las leyes.
+
+Mediante el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, se fijó la estructura orgánica básica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes.
+
+Por su parte, el Real Decreto 204/2024, de 27 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, y se modifica el Real Decreto 1012/2022, de 5 de diciembre, por el que se establece la estructura orgánica de la Abogacía General del Estado, se regula la inspección de los servicios en su ámbito y se dictan normas sobre su personal, desarrolló su estructura hasta el nivel orgánico de subdirección general, definiendo asimismo las competencias de cada uno de sus órganos.
+
+Mediante la presente modificación del citado Real Decreto 204/2024, de 27 de febrero, se pretende dotar de una nueva Subdirección General a la Dirección General de Servicios de la Subsecretaría de la Presidencia, Justicia y Relaciones con las Cortes, que permitirá un mejor funcionamiento de la misma.
+
+La nueva unidad, denominada Subdirección General de Planificación y Coordinación, tendrá capacidad para gestionar el capital humano y la dotación de medios personales, tanto de las unidades dependientes de la Secretaría de Estado de Justicia, de las Gerencias Territoriales de Justicia, del Centro de Estudios Jurídicos y de la Mutualidad General Judicial, como de los efectivos de personal adscritos a los servicios comunes del Departamento que atienden las necesidades organizativas en el ámbito del extinto Ministerio de Justicia. Con ello, se asegura un mejor cumplimiento de sus propósitos, contribuyendo a una mayor seguridad jurídica tanto en la organización, como en su funcionamiento; permitiendo el desempeño eficaz y proporcionado de los cometidos asignados.
+
+III
+
+Finalmente, se incluye una modificación del Real Decreto 1184/2024, de 28 de noviembre, por el que se desarrolla la estructura orgánica básica del Ministerio de Asuntos Exteriores, Unión Europea y Cooperación.
+
+Desde la entrada en vigor del Real Decreto 1184/2024, de 28 de noviembre, se ha constatado la necesidad de alinear lo dispuesto respecto a determinadas competencias atribuidas a la Secretaría de Estado de Cooperación y a la Dirección General de Políticas de Desarrollo Sostenible, centro directivo dependiente de esta, con lo establecido en el Real Decreto 1246/2024, de 10 de diciembre, por el que se aprueba el Estatuto de la Agencia Estatal «Agencia Española de Cooperación Internacional para el Desarrollo».
+
+Esta norma se ha elaborado teniendo en cuenta los principios que conforman la buena regulación, a que se refiere el artículo 129 de la Ley 39/2015, de 1 de octubre.
+
+En particular, se cumplen los principios de necesidad y eficacia, al considerarse que la aprobación de este real decreto es el instrumento más adecuado para conseguir el objetivo perseguido: adaptar la organización y estructura de la Intervención General de la Seguridad Social a los cambios acaecidos en la normativa vigente.
+
+El principio de proporcionalidad se considera cumplido, toda vez que este real decreto contiene la regulación imprescindible para atender las necesidades a cubrir y no conlleva medidas restrictivas de derechos ni impone obligaciones a los destinatarios.
+
+El principio de seguridad jurídica se garantiza ya que esta normativa es coherente con el resto del ordenamiento jurídico. El de transparencia, porque en su proceso de elaboración se han solicitado todos los dictámenes e informes preceptivos, requiriendo su publicación para su entrada en vigor. En aplicación del principio de eficiencia, esta normativa contribuye a mejorar la eficacia y a racionalizar la gestión de los recursos públicos.
+
+En la tramitación del proyecto se ha recabado, de conformidad con el artículo 26.5, párrafo cuarto, de la Ley 50/1997, de 27 de noviembre, del Gobierno, informe de las Secretarías Generales Técnicas de los Ministerios de Inclusión, Seguridad Social y Migraciones, de Hacienda y para la Transformación Digital y de la Función Pública.
+
+Este real decreto se dicta de conformidad con lo dispuesto en el artículo 4.2 del Real Decreto 501/2024, de 21 de mayo, por el que se desarrolla la estructura orgánica básica del Ministerio de Inclusión, Seguridad Social y Migraciones, y se modifica el Real Decreto 1009/2023, de 5 de diciembre, por el que se establece la estructura orgánica básica de los departamentos ministeriales, según el cual, la Intervención General de la Seguridad Social desarrollará sus funciones con arreglo a lo dispuesto en su normativa específica y con la estructura establecida en ella.
+
+En su virtud, a iniciativa de la Ministra de Inclusión, Seguridad Social y Migraciones, de la Ministra de Hacienda, del Ministro de la Presidencia, Justicia y Relaciones con las Cortes y del Ministro de Asuntos Exteriores, Unión Europea y Cooperación, y a propuesta del Ministro para la Transformación Digital y de la Función Pública, y previa deliberación del Consejo de Ministros en su reunión del día 27 de mayo de 2025,
+
+DISPONGO:

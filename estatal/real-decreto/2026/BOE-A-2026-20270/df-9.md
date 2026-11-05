@@ -1,0 +1,9 @@
+## Disposición final novena. Modificación del Real Decreto 1702/2011, de 18 de noviembre, de inspecciones periódicas de los equipos de aplicación de productos fitosanitarios.
+
+El artículo 10 del Real Decreto 1702/2011, de 18 de noviembre, de inspecciones periódicas de los equipos de aplicación de productos fitosanitarios, queda redactado como sigue:
+
+> «Artículo 10. Laboratorio Nacional de Referencia de Inspecciones de Equipos de Aplicación de Productos Fitosanitarios.
+
+> 1. El Laboratorio Nacional de Referencia de Inspecciones de Equipos de Aplicación de Productos Fitosanitarios es el previsto en la Orden por la que se designan los laboratorios nacionales de referencia en materia agroalimentaria y de sanidad de la producción primaria.
+
+> 2. El Laboratorio Nacional de Referencia de Inspecciones de Equipos de Aplicación de Productos Fitosanitarios ejercerá las funciones de armonización y contraste de los métodos y técnicas de inspección, y efectuará los análisis o ensayos que, a efectos arbitrales o con otros fines, le sean solicitados, según lo establecido en el artículo 47.4 de la Ley 43/2002, de 20 de noviembre. Entre estas funciones estarán comprendidos los trabajos de desarrollar protocolos de procedimiento y métodos de inspección no establecidos mediante normas técnicas, coordinar la actualización del manual de inspecciones de los diferentes equipos de aplicación, realizar análisis y ensayos a efectos arbitrales cuando le sean solicitados por los órganos competentes de las comunidades autónomas a instancia de las ITEAF (Estaciones de Inspección de Equipos de Aplicación de Productos Fitosanitarios) establecidas en su territorio, y para mejorar las técnicas de inspección de las mencionadas estaciones de ensayo. Su designación no conllevará aportación financiera pues las actividades se llevarán a cabo con los medios humanos y materiales de que disponga.»

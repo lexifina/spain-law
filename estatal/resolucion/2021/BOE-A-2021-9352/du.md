@@ -1,0 +1,9 @@
+## Duodécimo. Colaboración de los gestores aeroportuarios y portuarios y obligaciones de compañías aéreas y navieras.
+
+Los gestores portuarios y aeroportuarios y las compañías aéreas y navieras prestarán su colaboración al Ministerio de Sanidad para la implementación de las medidas previstas en la presente resolución, conforme a lo recogido en artículo primero del Real Decreto-ley 8/2021, de 4 de mayo, por el que se adoptan medidas urgentes en el orden sanitario, social y jurisdiccional, a aplicar tras la finalización de la vigencia del estado de alarma declarado por el Real Decreto 926/2020, de 25 de octubre, por el que se declara el estado de alarma para contener la propagación de infecciones causadas por el SARS-CoV-2.
+
+Las agencias de viaje, los operadores turísticos y compañías de transporte, así como cualquier otro agente que comercialice billetes aisladamente o como parte de un viaje combinado deberán informar a los pasajeros, en el inicio del proceso de venta de los billetes con destino a España, de todas las medidas de control sanitario y de las consecuencias de su incumplimiento o falseamiento, según se establece en el apartado decimosexto. Asimismo, facilitarán el apoyo necesario a los pasajeros que lo necesiten para cumplimentar el formulario de control sanitario a través de SpTH.
+
+Las compañías de trasporte deberán garantizar que todos los pasajeros que embarquen con destino a España disponen, en formato digital o en papel, del código QR individualizado generado por SpTH, debiendo impedir el embarque a aquellas que no lo presenten.
+
+También se denegará el embarque a aquellos pasajeros que estando en posesión de un código QR expedido por SpTH con la denominación de DOCUMENTAL CONTROL que no acrediten prueba documental de una certificación de vacunación, de diagnóstico o de recuperación.

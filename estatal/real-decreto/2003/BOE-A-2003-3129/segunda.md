@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Utilización de los fondos retenidos para el programa de mejora de la calidad de la producción oleícola.
+
+No obstante lo previsto en el artículo 6.1.b), y teniendo en cuenta que los fondos retenidos para los programas de mejora de la calidad de la producción oleícola en una campaña determinada se aplican en la segunda campaña siguiente, el Ministerio de Agricultura, Pesca y Alimentación decidirá, previa consulta con las Comunidades Autónomas y el sector, la aplicación definitiva de dichos fondos a partir de la campaña 2004/2005 a la vista del nuevo marco comunitario que, en su caso, sea aplicable al sector oleícola.

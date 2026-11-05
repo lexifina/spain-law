@@ -1,0 +1,3 @@
+## Disposición final segunda. Incorporación de derecho de la Unión Europea.
+
+Mediante este real decreto se incorporan al derecho español la Directiva 2009/32/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, relativa a la aproximación de las legislaciones de los Estados miembros sobre los disolventes de extracción utilizados en la fabricación de productos alimenticios y de sus ingredientes y la Directiva 2010/59/UE de la Comisión, de 26 de agosto de 2010, por la que se modifica la Directiva 2009/32/CE del Parlamento Europeo y del Consejo, relativa a la aproximación de las legislaciones de los Estados miembros sobre los disolventes de extracción utilizados en la fabricación de productos alimenticios y de sus ingredientes.

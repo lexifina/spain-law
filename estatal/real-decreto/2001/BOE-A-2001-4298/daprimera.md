@@ -1,0 +1,5 @@
+## Disposición adicional primera. Aplicabilidad de determinadas disposiciones a determinados tipos de botellas de gas.
+
+A partir del 1 de julio de 2001, o en el caso contemplado en la disposición transitoria primera, a los dos años de dicha fecha, sólo seguirán siendo de aplicación las disposiciones que figuran en las partes 1 a 3 del anexo I de cada una de las directivas 84/525/CEE, 84/526/CEE y 84/527/CEE sobre: Botellas de gas de acero sin soldaduras; botellas de gas, de aluminio sin alear y de aluminio aleado sin soldadura, y botellas de gas soldadas de acero no aleado respectivamente, adaptadas a la reglamentación española mediante la Orden del Ministerio de Industria y Energía de 3 de julio de 1987, por la que se modifica la instrucción técnica complementaria MIE-AP7 del Reglamento de aparatos a presión, referente a botellas y botellones para gases comprimidos, licuados y disueltos a presión.
+
+No obstante las autorizaciones CEE de modelos de botellas, expedidas de acuerdo con las disposiciones indicadas en el párrafo anterior, deberán ser reconocidas como equivalentes a los exámenes CE tipo que establece el presente Real Decreto.

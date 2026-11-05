@@ -1,0 +1,11 @@
+## Disposición transitoria primera. Expedientes de instalaciones eléctricas en tramitación en el momento de la entrada en vigor del real decreto.
+
+1. A los efectos de tramitación administrativa de las autorizaciones previstas en el artículo 53 de la Ley 24/2013, de 26 de diciembre, la definición de potencia instalada a la que se refiere el artículo 5 tendrá efectos para aquellas instalaciones que, habiendo iniciado su tramitación, aún no hayan obtenido la autorización de explotación definitiva.
+
+No obstante lo anterior, con el fin de evitar el perjuicio que pudiera provocar sobre los interesados el reinicio de una nueva tramitación, aquellos expedientes a los que la aplicación del nuevo criterio implicase un cambio en la administración competente para su tramitación, continuarán su tramitación en la administración en la que iniciaron su tramitación hasta la obtención de la autorización de explotación e inscripción en el registro administrativo de instalaciones de producción de energía eléctrica, siempre que no se produzcan cambios en la potencia instalada, de acuerdo con la definición anterior a la entrada en vigor de este real decreto, y siempre que en el plazo de tres meses desde la entrada en vigor de este real decreto no se comunique a dicha administración el desistimiento del procedimiento iniciado.
+
+Si, como consecuencia de este cambio regulatorio, un promotor decidiese desistir de una solicitud ya iniciada para comenzar la tramitación con otra administración, sin perjuicio de la eventual pérdida de los permisos de acceso y conexión, no se procederá a la ejecución de las garantías presentadas.
+
+2. A los efectos de tramitación administrativa de las autorizaciones previstas en el artículo 53 de la Ley 24/2013, de 26 de diciembre, el procedimiento de autorización administrativa previsto para nuevas instalaciones de almacenamiento hibridado será de aplicación para aquellas instalaciones que inicien su tramitación a partir de la entrada en vigor del presente real decreto.
+
+No obstante lo anterior, aquellos proyectos de esta tipología que habiendo iniciado solo el trámite ambiental estuvieran exentos de este al amparo de este real decreto podrán continuar la tramitación o presentar una modificación de la solicitud para acogerse al artículo 6 de este real decreto aportando la documentación que resulte necesaria.

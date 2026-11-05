@@ -1,0 +1,11 @@
+El artículo 222 del Real Decreto 1211/1990, de 28 de septiembre, por el que se aprueba el Reglamento de la Ley de Ordenación de los Transportes Terrestres, fue desarrollado en lo que a documentos de control administrativo se refiere por la Orden FOM/238/2003, de 31 de enero, por la que se establecen normas de control en relación con los transportes públicos de mercancías por carretera.
+
+La aprobación de la Ley 15/2009, de 11 de noviembre, del Contrato de Transporte Terrestre de Mercancías, ha venido, entre otras cosas, a prestar especial atención a la determinación de los sujetos intervinientes en el contrato de transporte y a clarificar la posición de aquéllos que intermedian en la contratación, consagrando en líneas generales la obligación de contratar en nombre propio y a asumir la posición del porteador. Del mismo modo, la Ley aborda la intervención de varios sujetos por vía de la subcontratación en el transporte.
+
+Así, se estima conveniente revisar el contenido de las normas reguladoras de la documentación de control, adecuándolas a la nueva realidad jurídica, de forma que se clarifiquen los sujetos obligados a documentar los envíos en los que se materializan los contratos de transporte público de mercancías, así como su responsabilidad.
+
+Asimismo, también se ha considerado adecuado revisar el contenido de la documentación de control. En este sentido, se han reducido el número de datos que se ha de incluir en el documento de control, con la finalidad de contar con un documento sencillo y de fácil elaboración, pero que, al mismo tiempo, sea eficaz y permita que los órganos administrativos competentes tengan una adecuado conocimiento de las operaciones mercantiles que están obligados a inspeccionar y controlar.
+
+Durante la tramitación del proyecto se ha solicitado el informe del Comité Nacional del Transporte por Carretera y del Consejo Nacional de Transportes Terrestres, así como de los órganos competentes en materia de transporte de las Comunidades Autónomas y de las ciudades de Ceuta y Melilla.
+
+En su virtud, de conformidad con la autorización contenida en la disposición adicional undécima del Reglamento de la Ley de Ordenación de los Transportes Terrestres, dispongo:

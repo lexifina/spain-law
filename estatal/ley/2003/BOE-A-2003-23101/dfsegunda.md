@@ -1,0 +1,5 @@
+## Disposición final segunda. Informes sobre financiación.
+
+El órgano colegiado interministerial previsto en la disposición final segunda de la Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud, informará preceptivamente aquellos asuntos derivados de la aplicación de esta ley.
+
+Sin perjuicio de la responsabilidad financiera de las comunidades autónomas conforme a lo establecido en la Ley 21/2001, de 27 de diciembre, y de acuerdo con el principio de lealtad institucional en los términos del artículo 2.1.e) de la Ley Orgánica 8/1980, de 22 de septiembre, de Financiación de las Comunidades Autónomas, el informe elaborado será presentado por dicho órgano colegiado al Consejo Interterritorial del Sistema Nacional de Salud. Por su parte, el Ministerio de Hacienda trasladará este informe al Consejo de Política Fiscal y Financiera, para proceder a su análisis, en el contexto de dicho principio de lealtad institucional y, en su caso, proponer las medidas necesarias para garantizar el equilibrio financiero.

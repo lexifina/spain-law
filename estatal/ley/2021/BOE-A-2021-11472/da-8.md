@@ -1,0 +1,3 @@
+## Disposición adicional octava. Profesorado de formación profesional.
+
+Se habilita a las administraciones educativas para que, en tanto no se complete el desarrollo reglamentario previsto en el artículo 95, apartados 2, 3 y 4, de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, puedan realizar selección de funcionarios de carrera de las convocatorias en curso derivadas de las ofertas de empleo público anteriores a la entrada en vigor de la Ley Orgánica 3/2020, de 29 de diciembre, por la que se modifica la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en el Cuerpo de Profesores Técnicos de Formación Profesional, así como nombramientos de personal interino en ese Cuerpo, con los requisitos que existían para el mismo.

@@ -1,0 +1,3 @@
+## Artículo decimocuarto. Modificación del Real Decreto 1416/2006, de 1 de diciembre, por el que se aprueba la Instrucción Técnica Complementaria MI-IP 06 «Procedimiento para dejar fuera de servicio los tanques de almacenamiento de productos petrolíferos líquidos».
+
+Se sustituyen en todo el texto de la Instrucción Técnica Complementaria MI-IP 06 «Procedimiento para dejar fuera de servicio los tanques de almacenamiento de productos petrolíferos líquidos», aprobada por Real Decreto 1416/2006, de 1 de diciembre, las expresiones «empresa reparadora autorizada» por «empresa reparadora« y «reparador autorizado» por «reparador».

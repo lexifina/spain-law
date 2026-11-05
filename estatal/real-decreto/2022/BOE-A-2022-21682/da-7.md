@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Colaboración en materia de vigilancia de la exposición al radón en los lugares de trabajo entre el Consejo de Seguridad Nuclear y la Inspección de Trabajo y Seguridad Social, y entre el Consejo de Seguridad Nuclear y otras administraciones públicas competentes en materia laboral.
+
+Para llevar a cabo las actuaciones previstas en el artículo 82.2 y 82.3, el Consejo de Seguridad Nuclear podrá suscribir instrumentos de colaboración con la Inspección de Trabajo y Seguridad Social, así como con otras administraciones públicas competentes en materia laboral a las que se refiere el artículo 7.2 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.

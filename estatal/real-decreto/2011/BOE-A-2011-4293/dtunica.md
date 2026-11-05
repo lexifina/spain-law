@@ -1,0 +1,3 @@
+## Disposición transitoria única. Vigencia de las inscripciones previas.
+
+Las inscripciones de empresas, establecimientos y productos que en la actualidad figuran en el Registro continuarán teniendo plena validez, sin perjuicio de que las autoridades competentes deban realizar de oficio, si fuera necesario, las correcciones oportunas para su adecuación a lo dispuesto en este real decreto y, en su caso, proceder a la cancelación de aquellas que no hayan de constar en el mismo, a partir de su entrada en vigor, particularmente las de empresas y establecimientos que tuvieran como objeto de su actividad, los detergentes, desinfectantes y plaguicidas de uso en la industria alimentaria.

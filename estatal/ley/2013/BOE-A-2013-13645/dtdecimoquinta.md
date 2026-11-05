@@ -1,0 +1,3 @@
+## Disposición transitoria decimoquinta. Aplicación del régimen de incompatibilidades contenido en el artículo 20.8 de esta Ley.
+
+Los contratos a los que se refiere el artículo 20.8 que se hayan adjudicado con anterioridad a la entrada en vigor de esta ley, así como sus ampliaciones, revisiones, modificaciones y cualesquiera otras relaciones contractuales que traigan causa o estén previstas en tales contratos y que se adjudiquen con posterioridad a la entrada en vigor de esta ley, se regirán por la normativa vigente en el momento de la celebración de los primeros, no siéndoles de aplicación el régimen de incompatibilidades previsto en dicho artículo 20.8.

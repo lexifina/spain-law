@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Liquidaciones negativas 2008 y 2009.
+
+El endeudamiento objeto de financiación por el mecanismo regulado en el presente Real Decreto-ley incluirá el endeudamiento contemplado en los Acuerdos del Consejo de Política Fiscal y Financiera para financiar la anualidad que deba satisfacerse en el ejercicio corriente para abonar las liquidaciones negativas en aplicación de lo dispuesto en la disposición adicional cuarta de la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comunidades Autónomas de régimen común y Ciudades con Estatuto de Autonomía y se modifican determinadas normas tributarias.

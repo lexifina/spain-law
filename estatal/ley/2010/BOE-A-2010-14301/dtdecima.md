@@ -1,0 +1,3 @@
+## Disposición transitoria décima. Agencias de colocación sin ánimo de lucro autorizadas.
+
+Las actuales agencias de colocación autorizadas de acuerdo con el Real Decreto 735/1995, de 5 de mayo, por el que se regulan las agencias de colocación sin fines lucrativos y los servicios integrados para el empleo, dispondrán de un plazo de seis meses desde la entrada en vigor de las disposiciones de desarrollo de esta Ley, para adecuarse a la nueva regulación de las agencias de colocación y solicitar la correspondiente autorización, conforme al artículo 21.bis de la Ley 56/2003, de 16 de diciembre, de Empleo. Una vez superado el citado plazo, las empresas o entidades que no cuenten con la citada autorización no podrán continuar desarrollando estas actividades.

@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Medida transitoria para solicitar la aprobación de un modelo interno de grupo aplicable a una parte del grupo.
+
+Una entidad aseguradora o reaseguradora que sea matriz última podrá solicitar a la Dirección General de Seguros y Fondos de Pensiones, hasta el 31 de marzo de 2022, la aprobación de un modelo interno de grupo aplicable a una parte del mismo cuando tanto la entidad a la que le aplique como la matriz última estén situadas en España y dicha parte constituya una fracción diferenciada con un perfil de riesgo sustancialmente distinto al del resto del grupo.

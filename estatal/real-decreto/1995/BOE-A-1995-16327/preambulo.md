@@ -1,0 +1,1 @@
+Norma derogada por la disposición derogatoria única del Real Decreto 304/2014, de 5 de mayo. Ref. BOE-A-2014-4742#ddunica. Téngase en cuenta lo establecido en la disposición transitoria 3 del citado Real Decreto.

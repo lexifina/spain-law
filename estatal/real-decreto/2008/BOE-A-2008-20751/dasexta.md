@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Base de datos de actuaciones protegidas.
+
+El Ministerio de Vivienda, mediante orden, establecerá una Base de Datos de Actuaciones Protegidas acogidas a este Plan, en la que se incluirán, al menos, los promotores de las viviendas protegidas y los beneficiarios de las ayudas financieras desagregados por modalidades de actuaciones protegidas, con el objeto de hacer posible el seguimiento y control del Plan y como fuente de información agregada de las actuaciones que se desarrollan para su ejecución en el conjunto del Estado. El suministro de datos a la base se sujetará a lo que se acuerde con las comunidades autónomas y ciudades de Ceuta y Melilla mediante convenios de colaboración.

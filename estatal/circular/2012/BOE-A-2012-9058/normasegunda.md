@@ -1,0 +1,7 @@
+## Norma segunda. Ámbito de aplicación.
+
+El ámbito de aplicación de las disposiciones de la presente Circular se circunscribe a los servicios bancarios dirigidos o prestados en España por las entidades de crédito españolas y las sucursales en España de entidades de crédito extranjeras (en adelante, las «entidades») a los clientes, o clientes potenciales, personas físicas (en adelante, los «clientes» o la «clientela») a los que se refiere el artículo 2 de la Orden; todo ello sin perjuicio de las particularidades que, para los servicios bancarios de crédito al consumo y para los servicios de pago, se determinan, respectivamente, en sus artículos 33 y 34, y sin perjuicio de lo dispuesto en la norma primera respecto de los proveedores de servicios de pago que ofrezcan los servicios de cambio de divisa.
+
+Se entenderán incluidas dentro de la clientela las comunidades de bienes, como es el caso de las comunidades de propietarios, comunidades de herederos, herencias yacentes y similares, siempre que estén mayoritariamente constituidas por personas físicas. No obstante, cuando las personas físicas que integren la comunidad de bienes actúen en el ámbito de su actividad profesional o empresarial, se aplicará lo previsto en el párrafo siguiente.
+
+Cuando el cliente actúe en el ámbito de su actividad profesional o empresarial, las partes podrán acordar que no se aplique total o parcialmente lo previsto en esta Circular, con la excepción de lo establecido en sus normas decimotercera a decimoquinta.

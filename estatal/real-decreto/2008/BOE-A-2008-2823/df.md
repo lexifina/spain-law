@@ -1,0 +1,27 @@
+## Disposición final primera. Modificación del Real Decreto 2345/1996, de 8 de noviembre, sobre normas de autorización administrativa y requisitos de solvencia de las sociedades de garantía recíproca.
+
+El artículo 6 del Real Decreto 2345/1996, de 8 de noviembre, sobre normas de autorización administrativa y requisitos de solvencia de las sociedades de garantía recíproca, queda redactado de la forma siguiente:
+
+«Artículo 6. Régimen de recursos propios mínimos.
+
+1. Las sociedades de garantía recíproca deberán mantener, en todo momento, unos recursos propios no inferiores a la suma de los siguientes requerimientos:
+
+a) Por el riesgo de crédito, de sus compromisos, el 8 por ciento de las garantías crediticias que concedan y el 4 por ciento de las restantes compromisos aseguramientos o cauciones que concedan.
+
+b) Por riesgo operacional, el 15 por ciento de sus ingresos financieros netos anuales, sean por rendimientos de los activos en que inviertan su patrimonio, sean por comisiones derivadas de las garantías de toda índole que concedan.
+
+c) Los que pueda establecer el Banco de España, siguiendo las disposiciones análogas que puedan resultar de aplicación a las entidades de crédito, para cubrir el riesgo de crédito u operacional derivado de compromisos o inversiones no habituales en su actividad y que no cuenten con reafianzamiento.
+
+No obstante, los compromisos que se beneficien de contratos generales de reaval o reafianzamiento contraídos con sociedades de reafianzamiento, aseguradoras o entidades públicas, que se dirijan a reducir el riesgo de crédito de las sociedades de garantía recíproca por las garantías que concedan gozarán de un factor de reducción a efectos de los requerimientos indicados en los dos primeros guiones del párrafo anterior; el Banco de España determinará dichos factores, que no podrán ser superiores al 0,5. A tal efecto el Banco de España tendrá en cuenta:
+
+a) Las cláusulas específicas de los contratos y la naturaleza de la garantía recibida.
+
+b) La naturaleza de las contrapartes que reavalen o reafiancen, así como el importe del riesgo indirecto asumido con las mismas;
+
+c) A las características de las operaciones que se beneficien de la citada reducción de riesgo.
+
+d) A las exigencias e incentivos que, en el marco de dichos contratos, se hayan incorporado relativas a los procedimientos de gestión y control de riesgos de las sociedades de garantía recíproca.
+
+También se faculta al Banco de España para obligar a las sociedades de garantía recíproca a mantener recursos propios adicionales a los exigidos con carácter mínimo, hasta en un 25 por 100 de su importe, cuando aprecie, y en tanto subsistan, deficiencias en los procedimientos internos de la entidad o cuando la naturaleza particular de las operaciones por ellas concertadas por la entidad o su concentración sectorial o de otro orden, pueda menoscabar la cobertura de sus riesgos.
+
+2. El valor de los riesgos que una sociedad de garantía recíproca contraiga con una sola persona o grupo no podrá exceder del 20 por ciento de sus recursos propios.»

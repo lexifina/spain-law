@@ -1,0 +1,27 @@
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, dispone en el artículo 39.6 que el Gobierno, previa consulta a las Comunidades Autónomas, establecerá las titulaciones correspondientes a los estudios de formación profesional, así como los aspectos básicos del currículo de cada una de ellas.
+
+La Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional, establece en el artículo 10.1 que la Administración General del Estado, de conformidad con lo dispuesto en el artículo 149.1.30.º y 7.º de la Constitución y previa consulta al Consejo General de la Formación Profesional, determinará los títulos y los certificados de profesionalidad, que constituirán las ofertas de formación profesional referidas al Catálogo Nacional de Cualificaciones Profesionales.
+
+La Ley 2/2011, de 4 de marzo, de Economía Sostenible, y la Ley Orgánica 4/2011, de 11 de marzo, complementaria de la Ley de Economía Sostenible, por la que se modifican las Leyes Orgánicas 5/2002, de las Cualificaciones y de la Formación Profesional, y 2/2006, de Educación, han introducido un ambicioso conjunto de cambios legislativos necesarios para incentivar y acelerar el desarrollo de una economía más competitiva, más innovadora, capaz de renovar los sectores productivos tradicionales y abrirse camino hacia las nuevas actividades demandantes de empleo, estables y de calidad.
+
+El Real Decreto 1147/2011, de 29 de julio, establece la ordenación general de la formación profesional del sistema educativo y define en el artículo 9 la estructura de los títulos de formación profesional, tomando como base el Catálogo Nacional de Cualificaciones Profesionales, las directrices fijadas por la Unión Europea y otros aspectos de interés social.
+
+Por otra parte, este real decreto concreta en el artículo 7 el perfil profesional de dichos títulos, que incluirá la competencia general, las competencias profesionales, personales y sociales, las cualificaciones y, en su caso, las unidades de competencia del Catálogo Nacional de Cualificaciones Profesionales incluidas en los títulos, de modo que cada título incorporará, al menos, una cualificación profesional completa, con el fin de lograr que los títulos de formación profesional respondan de forma efectiva a las necesidades demandadas por el sistema productivo y a los valores personales y sociales que permitan ejercer una ciudadanía democrática.
+
+Este marco normativo hace necesario que ahora el Gobierno, previa consulta a las Comunidades Autónomas, establezca cada uno de los títulos que formarán el Catálogo de títulos de la formación profesional del sistema educativo, sus enseñanzas mínimas y aquellos otros aspectos de la ordenación académica que, sin perjuicio de las competencias atribuidas a las Administraciones educativas en esta materia, constituyan los aspectos básicos del currículo que aseguren una formación común y garanticen la validez de los títulos, en cumplimiento con lo dispuesto en el artículo 6.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+A estos efectos, procede determinar para cada título su identificación, su perfil profesional, el entorno profesional, la prospectiva del título en el sector o sectores, las enseñanzas del ciclo formativo, la correspondencia de los módulos profesionales con las unidades de competencia para su acreditación, convalidación o exención, y los parámetros básicos de contexto formativo (espacios y equipamientos mínimos, titulaciones y especialidades del profesorado y sus equivalencias a efectos de docencia), previa consulta a las Comunidades Autónomas, según lo previsto en el artículo 95 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+Asimismo, en cada título se determinarán los accesos a otros estudios, las convalidaciones, exenciones y equivalencias y, cuando proceda, la información sobre los requisitos necesarios para el ejercicio profesional, según la legislación vigente.
+
+Así, el presente real decreto, conforme a lo previsto en el Real Decreto 1147/2011, de 29 de julio, establece y regula, en los aspectos y elementos básicos antes indicados, el título de formación profesional del sistema educativo de Técnico en Navegación y Pesca de Litoral.
+
+Asimismo este real decreto responde a los principios de eficiencia y austeridad que han de presidir el funcionamiento de los servicios públicos establecidos en el Real Decreto-ley 14/2012, de 20 de abril, de medidas urgentes de racionalización del gasto público en el ámbito educativo, en cuanto a las posibilidades de su implantación.
+
+Se ha recurrido a una norma reglamentaria para establecer bases estatales conforme con el Tribunal Constitucional, que admite que «excepcionalmente» las bases puedan establecerse mediante normas reglamentarias en determinados supuestos como ocurre en el presente caso, cuando «resulta complemento indispensable para asegurar el mínimo común denominador establecido en las normas legales básicas» (así, entre otras, en las SSTC 25/1983, 32/1983 y 48/1988).
+
+En el proceso de elaboración de este real decreto han sido consultados el Ministerio de Fomento y el Ministerio de Agricultura, Alimentación y Medio Ambiente, así como las Comunidades Autónomas y han emitido informe el Consejo General de la Formación Profesional, el Consejo Escolar del Estado y el Ministerio de Política Territorial y Administración Pública.
+
+En su virtud, a propuesta del Ministro de Educación, Cultura y Deporte y previa deliberación del Consejo de Ministros en su reunión del día 27 de julio de 2012,
+
+DISPONGO:

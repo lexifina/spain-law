@@ -1,0 +1,37 @@
+## Disposición final novena. Modificación del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito.
+
+El artículo 7 del Real Decreto-ley 16/2011, de 14 de octubre, por el que se crea el Fondo de Garantía de Depósitos de Entidades de Crédito, queda redactado del siguiente modo:
+
+«Artículo 7. Comisión Gestora.
+
+1. El Fondo será regido y administrado por una Comisión Gestora integrada por once miembros, un representante del Ministerio de Economía y Competitividad, uno del Ministerio de Hacienda y Administraciones Públicas, cuatro designados por el Banco de España y cinco por las asociaciones representativas de las entidades de crédito adheridas, en los términos previstos reglamentariamente.
+
+2. El representante del Ministerio de Economía y Competitividad será el Secretario General del Tesoro y Política Financiera, que ostentará la Vicepresidencia de la Comisión Gestora y sustituirá al Presidente en sus funciones en caso de vacante, ausencia o enfermedad.
+
+El representante del Ministerio de Hacienda y Administraciones Públicas será el Interventor General del Estado.
+
+Los representantes del Banco de España serán designados por su Comisión ejecutiva. Uno de ellos será el Subgobernador que ostentará la Presidencia de la Comisión.
+
+Los representantes de las entidades adheridas serán designados tres por las asociaciones representativas de bancos, uno por las de cajas de ahorros y uno por las de Cooperativas de Crédito, en los términos que se prevean reglamentariamente.
+
+Las personas designadas por las entidades adheridas serán personas de reconocida honorabilidad comercial y profesional y poseerán conocimientos y experiencia adecuados para el ejercicio de sus funciones. En la determinación de las citadas condiciones se atenderá a los criterios contemplados en el artículo 2 del Real Decreto 1245/1995, de 14 de julio, sobre Creación de Bancos, Actividad transfronteriza y otras cuestiones relativas al Régimen jurídico de las Entidades de crédito.
+
+Los titulares de los respectivos departamentos ministeriales nombrarán un representante suplente del Ministerio de Economía y Competitividad y uno del Ministerio de Hacienda y Administraciones Públicas. Asimismo, por el mismo procedimiento previsto anteriormente se nombrarán dos suplentes por el Banco de España y uno por cada uno de los designados por las entidades adheridas, que sustituirán a los titulares en caso de vacante, ausencia o enfermedad. En el caso de los representantes de las entidades, también deberán ser sustituidos por indicación del Presidente de la Comisión Gestora del Fondo, cuando la Comisión Gestora vaya a tratar cuestiones que afecten directamente a una entidad o grupo de entidades con los que esté vinculado como administrador, directivo, contrato laboral, civil o mercantil o cualquier otra relación que pudiese menoscabar la objetividad de sus decisiones, determinando su abstención.
+
+3. La duración del mandato de los miembros de la Comisión Gestora será de cuatro años renovables.
+
+4. Los representantes de las entidades de crédito adheridas al Fondo cesarán en su cargo por las causas siguientes:
+
+a) Expiración del término de su mandato.
+
+b) Renuncia.
+
+c) Separación acordada por la Comisión Gestora por incumplimiento grave de sus obligaciones, incapacidad permanente para el ejercicio de su función o falta sobrevenida de honorabilidad.
+
+5. Para la validez de las reuniones de la Comisión Gestora será necesaria la asistencia de la mitad de sus miembros. Sus acuerdos se adoptarán por mayoría de sus miembros.
+
+No obstante, se requerirá mayoría de dos tercios para acordar la realización de aquellas derramas que establezcan la obligación de efectuar pagos adicionales a las aportaciones anuales ordinarias o que adelanten el pago de estas últimas, así como para las medidas contempladas en el marco de los planes de resolución a los que se hace referencia en el artículo 11.
+
+6. La Comisión Gestora establecerá sus propias normas de funcionamiento para el debido ejercicio de sus funciones.
+
+7. La pertenencia a la Comisión Gestora no dará derecho a ningún tipo de compensación económica.»

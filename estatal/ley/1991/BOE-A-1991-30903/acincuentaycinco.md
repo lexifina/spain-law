@@ -1,0 +1,7 @@
+## Artículo cincuenta y cinco. Asunción por el Estado de Deuda del Instituto Nacional de Industria.
+
+El Estado asume, con fecha 1 de enero de 1992, la Deuda correspondiente a la emisión de obligaciones y créditos del Instituto Nacional de Industria, por un importe de 110.000 millones de pesetas, en los términos que se indican en el anexo IV de esta Ley.
+
+La Deuda del Instituto Nacional de Industria correspondiente a las emisiones de obligaciones y créditos cuya carga asume el Estado conservará sus características, sin perjuicio de lo dispuesto en los números 5 y 6 del artículo 104 del texto refundido de la Ley General Presupuestaria.
+
+El importe de la Deuda asumida en virtud de lo dispuesto en el párrafo anterior se convierte en aportación del Estado para incrementar el fondo patrimonial del Instituto Nacional de Industria.

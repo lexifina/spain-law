@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Medidas de eficiencia en el ámbito del Sistema Nacional de Salud.
+
+1. El Consejo Interterritorial del Sistema Nacional de Salud fomentará las actuaciones conjuntas de los servicios de salud de las comunidades autónomas para la adquisición de cualquier producto que por sus características sea susceptible de un mecanismo de compra conjunta y centralizado. Asimismo, los servicios de salud de las comunidades autónomas fomentarán la implantación de modelos de servicios compartidos mediante el establecimiento de un solo proveedor del servicio para una red de centros, en cuestiones tales como radiodiagnóstico, laboratorio de análisis clínicos, farmacia hospitalaria, así como el desempeño de especialidades médicas que precisen una población grande para ser autosuficientes o padezcan dificultades para encontrar profesionales.
+
+2. Las comunidades autónomas adoptarán las medidas oportunas para que los centros de ellas dependientes elaboren a lo largo de 2012, en el caso de que no lo hayan hecho ya, un plan de medidas de ahorro energético que deberá ser aprobado por el órgano competente antes del 31 de diciembre de 2013.
+
+3. En un plazo de seis meses a contar desde la fecha de entrada en vigor de este real decreto-ley, el Ministerio de Sanidad, Servicios Sociales e Igualdad aprobará las medidas legislativas necesarias para garantizar la adecuación de los envases a las pautas y tiempos de tratamiento habituales de acuerdo a los criterios de buena práctica médica.

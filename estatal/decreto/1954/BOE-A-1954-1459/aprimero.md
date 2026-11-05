@@ -1,0 +1,3 @@
+## Artículo primero.
+
+Se crea el Parque Nacional del Teide, que comprenderá una extensión aproximada de once mil hectáreas en terrenos pertenecientes al Ayuntamiento de la villa de La Orotava, delimitados por las líneas que, siguiendo el contorno del cráter, se apoyan en los puntos o vértices eminentes y característicos que, a partir del Norte, y siguiendo por el Oeste, Sur y Este, se conocen con los nombres de Portillo de las Cañadas, Cabezón, la Fortaleza, Pico de las Cabras, Pico del Teide, Pico Viejo o Montaña de Chahorra, el Cedro, Boca de Tauce, Pico de Guajara, Roque de la Grieta, Montaña Colorada y Montaña del Guamazo o del Cerrillo.

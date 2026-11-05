@@ -1,0 +1,3 @@
+## CONVENIO ENTRE EL GOBIERNO DEL REINO DE ESPAÑA Y EL GOBIERNO DE LA REPUBLICA SOCIALISTA DE RUMANIA PARA EVITAR LA DOBLE IMPOSICION EN MATERIA DE IMPUESTOS SOBRE LA RENTA Y EL PATRIMONIO
+
+El Gobierno del Reino de España y el Gobierno de la República Socialista de Rumania, deseosos de promover y reforzar las relaciones económicas entre los dos países, sobre la base del respeto de la soberanía e independencia nacionales, de la igualdad de los derechos, ventajas recíprocas y no injerencia en los asuntos internos, han acordado las disposiciones siguientes relativas a evitar la doble imposición en materia de impuestos sobre la renta y el patrimonio.

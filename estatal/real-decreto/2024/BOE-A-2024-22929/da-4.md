@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Determinación de recursos humanos y presupuestarios de las unidades TIC necesarios para la prestación de los servicios comunes y transversales que sean competencia de la Agencia.
+
+Durante el primer año desde la constitución efectiva de la Agencia se determinarán los recursos humanos y presupuestarios que son necesarios para el aseguramiento de la prestación de los servicios comunes (incluidos los declarados transversales) cuya provisión corresponda a la Agencia, que pasarán a integrarse, en su caso, en la plantilla de esta y que serán provistos de acuerdo con lo contemplado en los artículos 26 y 33 de su Estatuto.

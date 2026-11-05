@@ -1,0 +1,3 @@
+## Disposición adicional vigésima séptima. Generación de crédito para la financiación del Plan de reestructuración del sector lácteo.
+
+Los ingresos en el Tesoro procedentes de la venta de la cuota láctea del Fondo Nacional Coordinado de Agricultura, Pesca y Alimentación, podrán generar crédito en la Sección 21 «Ministerio de Agricultura, Pesca y Alimentación», Servicio 21 «Secretaría General de Agricultura y Alimentación», programa 412B «Competitividad y calidad de la producción ganadera», concepto 775 «Mejora de la organización de la producción y reordenación de los sectores productivos», subconcepto 775.03 «Plan de ordenación del sector lácteo» para atender la financiación del Plan de reestructuración del sector lácteo.

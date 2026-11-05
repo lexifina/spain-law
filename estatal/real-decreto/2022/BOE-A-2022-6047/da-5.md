@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Remolcadores de puerto.
+
+Quienes ostenten las tarjetas profesionales de Oficial de Máquinas de Primera y Segunda Clase de la Marina Mercante, Mecánico Mayor Naval de la Marina Mercante y Mecánico Naval de la Marina Mercante, regulados en este real decreto, y de Mecánico Naval Mayor, Mecánico Naval de Primera Clase y de Segunda Clase regulados en la normativa anterior a este real decreto, podrán ser habilitados por las capitanías marítimas competentes en el puerto de que se trate para ejercer funciones inherentes a su titulación en remolcadores que operen exclusivamente en dicho puerto, hasta duplicar la potencia correspondiente a sus respectivas atribuciones.

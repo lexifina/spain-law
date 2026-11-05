@@ -1,0 +1,3 @@
+## Disposición adicional segunda.
+
+Con la finalidad de adecuar la clasificación profesional y la integración en cinco grupos, se acuerda la asignación de un complemento singular de puesto a los puestos ocupados de los anteriores grupos profesionales 3, 5 y 7: en la modalidad «A2» para los puestos del anterior grupo 3 y «A3» para los otros dos grupos mencionados. A los puestos que ya tuvieran atribuido un complemento singular de puesto de la modalidad «A», se les asignará un complemento transitorio, de la cuantía del complemento A2 o A3 que le pudiera corresponder, mientras el puesto esté ocupado.

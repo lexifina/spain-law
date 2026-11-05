@@ -1,0 +1,3 @@
+## Artículo séptimo
+
+Los Ayuntamientos cooperarán con los Organismos competentes para la ejecución de esta Ley en la conservación y custodia del Patrimonio Histórico Español comprendido en su término municipal, adoptando las medidas oportunas para evitar su deterioro, pérdida o destrucción. Notificarán a la Administración competente cualquier amenaza, daño o perturbación de su función social que tales bienes sufran, así como las dificultades y necesidades que tengan para el cuidado de estos bienes. Ejercerán asimismo las demás funciones que tengan expresamente atribuidas en virtud de esta Ley.

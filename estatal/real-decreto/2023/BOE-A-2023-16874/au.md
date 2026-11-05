@@ -1,0 +1,7 @@
+## Artículo único. Aprobación de la revisión y actualización del Plan de gestión del riesgo de inundación del distrito de cuenca fluvial de Cataluña.
+
+1. Según lo dispuesto en el artículo 13.4 del Real Decreto 903/2010, de 9 de julio, de evaluación y gestión de riesgos de inundación, se aprueba la revisión y actualización del Plan de gestión del riesgo de inundación del distrito de cuenca fluvial de Cataluña.
+
+2. El ámbito territorial de la revisión y actualización del plan de gestión del riesgo de inundación coincide con el del distrito de cuenca fluvial de Cataluña, delimitado por el Decreto del Gobierno de la Generalitat de Cataluña 28/2022, de 15 de febrero, por el que se delimita el ámbito territorial del distrito de cuenca hidrográfica o fluvial de Cataluña.
+
+3. La estructura de la revisión y actualización del plan, de acuerdo con el Real Decreto 903/2010, consiste en una memoria con trece capítulos y seis anejos con los siguientes títulos: Anexo 1: Efecto del cambio climático en las inundaciones. Anexo 2: Estado y objetivos ambientales de los tramos de riesgo fluviales y ARPSI costeras y zonas protegidas asociadas. Anexo 3: Descripción de los programas de medidas del PGRI del DCFC-2.º ciclo. Anexo 4: Justificación de las medidas estructurales del plan. Anexo 5: Programa de seguimiento del PGRI del DCFC-2.º ciclo. Anexo 6: Resumen de los procesos de participación, información pública y consultas y sus resultados.

@@ -1,0 +1,3 @@
+## Tercero. Garantía de abastecimiento.
+
+Se insta a la Agencia Española de Medicamentos y Productos Sanitarios a que, en aplicación de lo dispuesto en el artículo 15 del Real Decreto 1591/2009, de 16 de octubre, por el que se regulan los productos sanitarios, proceda a expedir, tras la valoración de la documentación necesaria en cada caso, cuantas autorizaciones expresas sean posibles para la utilización de aquellos productos precisos para atender a las necesidades generadas por el COVID-19 y que no hayan satisfecho los procedimientos de evaluación de la conformidad indicados en el artículo 13 del citado Real Decreto 1591/2009, de 16 de octubre, todo ello en interés de la protección de la salud pública.

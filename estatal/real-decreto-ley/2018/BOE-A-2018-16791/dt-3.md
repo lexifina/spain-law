@@ -1,0 +1,5 @@
+## Disposición transitoria tercera. Instalaciones de cogeneración que utilicen combustibles renovables o gas natural que han agotado su vida útil regulatoria.
+
+Las instalaciones de cogeneración de alta eficiencia que utilicen combustibles renovables o gas natural, y que superen su vida útil regulatoria con fecha posterior al 1 de enero de 2018, podrán percibir el término de retribución a la operación correspondiente a su instalación tipo por la energía que produzcan desde la entrada en vigor de este real decreto-ley y hasta un periodo máximo de dos años a contar desde la entrada en vigor de este real decreto-ley. Este derecho a la percepción de la retribución a la operación se extinguirá en el caso de que se desarrolle reglamentariamente un régimen regulador de estas tecnologías.
+
+Para la percepción de esta retribución, las instalaciones de producción de energía eléctrica con cogeneración a las que sea de aplicación esta disposición deberán mantenerse en el cumplimiento de las condiciones de eficiencia energética y de los demás requisitos recogidos en la normativa de aplicación.

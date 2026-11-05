@@ -1,0 +1,1 @@
+Se declara su vigencia, con efectos de 30 de junio de 2018, por la disposición final 1.2.a) del Real Decreto 697/2018, de 29 de junio. Ref. BOE-A-2018-9032. Téngase en cuenta que la presente norma había sido derogada, en la forma indicada, por la disposición derogatoria única.2.a) del Real Decreto 229/2018, de 20 de abril. Ref. BOE-A-2018-5455#dd

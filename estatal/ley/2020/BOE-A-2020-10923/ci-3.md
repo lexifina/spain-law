@@ -1,0 +1,5 @@
+## CAPÍTULO III
+
+## Medidas organizativas y tecnológicas
+
+> Téngase en cuenta que se declara la finalización de la situación de crisis sanitaria ocasionada por la COVID-19 por Acuerdo del Consejo de Ministros de 4 de julio de 2023, publicado por Orden SND/726/2023, de 4 de julio, Ref. BOE-A-2023-15552, por lo que cesa la aplicación de las medidas contenidas en este Capítulo, según establece la disposición transitoria segunda de la presente Ley.

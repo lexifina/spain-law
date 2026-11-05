@@ -1,0 +1,5 @@
+## Segundo.
+
+1. La convalidación de estudios y la homologación de certificados, títulos o diplomas extranjeros por los correspondientes españoles de Educación Secundaria Obligatoria y de Bachillerato establecidos por la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo, se acordará a medida que se produzca su implantación con carácter general en España, de acuerdo con el calendario de aplicación de la nueva Ordenación del Sistema Educativo establecido por el Real Decreto 986/1991, de 14 de junio («Boletín Oficial del Estado» del 25), modificado y completado por el Real Decreto 1487/1994, de 1 de julio («Boletín Oficial del Estado» del 28).
+
+2. La convalidación de estudios y la homologación de certificados, títulos o diplomas extranjeros, dejará de concederse con referencia a las enseñanzas en extinción de Educación General Básica, Bachillerato Unificado y Polivalente, Curso de Orientación Universitaria, Formación Profesional y Enseñanzas de Régimen Especial, una vez que el último curso de dichas enseñanzas deje de impartirse en España, de acuerdo con el calendario citado en el número 1 de este apartado.

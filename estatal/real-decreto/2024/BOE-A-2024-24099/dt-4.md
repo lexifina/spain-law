@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Familiares de personas con nacionalidad española de las letras d) y e) del artículo 94.1.
+
+Cuando las personas extranjeras contempladas en las letras d) y e) del artículo 94.1 de este reglamento tuvieran el vínculo familiar y se encontrasen en territorio nacional a la fecha de publicación del Reglamento de la Ley Orgánica 4/2000, de 11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social podrán, excepcionalmente, solicitar la autorización de residencia temporal prevista en el capítulo VII del título IV en el plazo de los seis meses siguientes a la fecha de entrada en vigor.

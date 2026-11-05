@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Servicios, unidades y puestos de trabajo de los centros penitenciarios.
+
+El contenido de los artículos 277 a 324; 328 a 332 y 334 a 343 del Reglamento Penitenciario aprobado por Real Decreto 1201/1981, de 8 de mayo, se mantendrá vigente, con rango de resolución del centro directivo de la Administración penitenciaria correspondiente, en lo que no se oponga a lo establecido en el Reglamento Penitenciario que se aprueba por este Real Decreto, hasta que por el centro directivo correspondiente se dicte la resolución que establezca la nueva regulación de la organización de los servicios y unidades de los centros penitenciarios, así como las funciones de cada uno de los puestos de trabajo de los mismos.

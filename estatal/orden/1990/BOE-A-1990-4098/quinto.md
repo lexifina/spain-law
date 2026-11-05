@@ -1,0 +1,5 @@
+## Quinto.
+
+Si los bienes a los que afecte el instrumento de planeamiento, o su revisión, son patrimoniales o demaniales de este Ministerio o de sus Organismos, y el Servicio del Patrimonio estimase procedente formular alegaciones, lo propondrá así en los términos que estime pertinentes, en escrito razonado que elevará al Delegado de Hacienda de la provincia que corresponda, salvo que por la Dirección General del Patrimonio se fijen las directrices y criterios de actuación a seguir, que serán comunicados al Servicio del Patrimonio con antelación suficiente a la expiración del plazo de alegaciones establecido.
+
+Si los bienes son demaniales, afectados o adscritos a otros Departamentos ministeriales u Organismos, y el Servicio estimase oportuno que se formule oposición, lo manifestará así mediante comunicación del Delegado de Hacienda a los órganos indicados en el punto cuarto, indicando las razones que fundamenten su criterio y las que, en su caso, le hayan sido transmitidas por la mencionada Dirección General.

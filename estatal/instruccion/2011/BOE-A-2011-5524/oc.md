@@ -1,0 +1,7 @@
+## Octavo. El principio de proporcionalidad que debe ser garantizado por las televisiones privadas.
+
+1. La información dedicada específicamente a la campaña electoral que decidan realizar las televisiones privadas deberá responder, además de a los principios de pluralismo, igualdad y neutralidad informativa, al principio de proporcionalidad, entendido éste en el sentido de que su tratamiento deberá atender preferentemente a los resultados obtenidos por cada formación política en las últimas elecciones equivalentes, sin que dicho criterio impida proporcionar otra información sobre aquellas candidaturas que no se presentaron o no obtuvieron representación en las últimas elecciones. En cualquier caso, éstas últimas candidaturas no podrán recibir una cobertura informativa mayor que las formaciones políticas que obtuvieron representación en las últimas elecciones..
+
+2. Corresponde a los órganos de dirección de las televisiones privadas decidir libremente sobre la oportunidad de organizar o difundir entrevistas o debates electorales, pero de hacerlo deberán tener particularmente en cuenta los resultados obtenidos por cada formación política en las últimas elecciones equivalentes.
+
+En el caso de que un medio decida emitir un debate entre los dos candidatos que obtuvieron mayor número de votos en las últimas elecciones equivalentes, deberá emitir otros debates bilaterales o plurilaterales, o proporcionar información compensatoria suficiente sobre los demás candidatos que también hayan conseguido representación en las últimas elecciones equivalentes.

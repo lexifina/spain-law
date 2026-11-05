@@ -1,0 +1,3 @@
+## Artículo trigésimo séptimo. Asistencia social.
+
+Este Régimen Especial de la Seguridad Social, con cargo a los fondos que se determinen al efecto, podrá dispensar a las personas incluidas en su campo de aplicación y a los familiares o asimilados que de ellas dependan, los servicios y auxilios económicos que en atención a estados o situaciones de necesidad se consideren precisos, de acuerdo con las normas que regulan esta materia en el Régimen General de la Seguridad Social. Asimismo, con cargo a este Fondo, se podrán conceder asignaciones de pago único por constancia en la prestación de servicios.

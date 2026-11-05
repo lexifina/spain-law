@@ -1,0 +1,13 @@
+## Artículo octavo. Régimen económico.
+
+a) Los gastos para el funcionamiento y realización de mejoras en las reservas, serán sufragados por el ICONA con cargo a su «Presupuesto de Explotación y Capital», en el que deberá figurar una partida global por conceptos presupuestarios para todas las actividades y obras que correspondan a los planes de conservación y fomento de todas las Reservas.
+
+b) Los ingresos que proporcionen las Reservas serán establecidos en cada uno de sus planes de aprovechamiento cinegético; dichos ingresos debieran ser aprobados por la Dirección del ICONA y estarán reflejados en el correspondiente concepto presupuestario de este Organismo. Tendrán consideración de ingresos, el importe de los permisos de caza, la venta de reses vivas o muertas, así como cualquier producto procedente de las mismas y las indemnizaciones que correspondan por infracción a la vigente Ley de Caza.
+
+c) Los permisos de caza se fraccionarán en una cuota previa de entrada, que se abonará con independencia del resultado de las cacerías, y en una cuota complementaria, que se establecerá, tratándose de caza mayor, según el resultado de la acción cinegética. Para la caza menor, el importe de esta cuota complementaria se fijara en el plan de aprovechamiento cinegético de la Reserva, atendiendo al precio que se establezca por cada pieza cobrada y especie de que se trate, dentro del cupo máximo que se autorice a cobrar a cada cazador o grupo de cazadores.
+
+d) Las cuotas tanto de permisos nacionales como de extranjeros serán ingresadas en el ICONA. A fin de contribuir a las medidas de promoción turística prevista en el apartado segundo del artículo séptimo, será puesto a disposición de la Secretaría de Estado de Turismo, Administración Turística Española, el exceso del importe de las cuotas de entrada de los permisos correspondientes a los cazadores extranjeros respecto a los nacionales.
+
+e) Las cuotas complementarias de los permisos que se asignen a los propietarios de los terrenos, tendrán la consideración de ingresos para los mismos. Los propietarios podrán disponer libremente de estos permisos, esto es, utilizándolos personalmente o cediéndolos a terceros. la valoración de estas cuotas se realizara aplicando el promedio de las cuotas complementarias resultantes el año anterior de los permisos distribuidos por el ICONA. La distribución de estos permisos, atendiendo principalmente a criterios de reparto por superficie, será acordada por la Dirección del ICONA a propuesta de la Junta.
+
+> Se modifica por el art. único del Real Decreto 891/1979, de 26 de enero. Ref. BOE-A-1979-11076.

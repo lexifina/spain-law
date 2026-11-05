@@ -1,0 +1,15 @@
+## Disposición final cuarta. Modificación del Real Decreto-ley 6/2011, de 13 de mayo, por el que se adoptan medidas urgentes para reparar los daños causados por los movimientos sísmicos acaecidos el 11 de mayo de 2011 en Lorca, Murcia.
+
+El artículo 7 del Real Decreto-ley 6/2011, de 13 de mayo, por el que se adoptan medidas urgentes para reparar los daños causados por los movimientos sísmicos acaecidos el 11 de mayo de 2011 en Lorca, Murcia, queda redactado de la siguiente forma:
+
+«Artículo 7. Comisión mixta.
+
+Para la valoración, determinación y cuantía de las ayudas concedidas a particulares, en virtud de las solicitudes presentadas, por arrendamiento, reconstrucción, rehabilitación o reparación de viviendas que constituyan su domicilio habitual, se creará una comisión mixta copresidida por el Delegado del Gobierno en la Comunidad Autónoma de la Región de Murcia y el Consejero de Obras Públicas y Ordenación del Territorio de dicha Comunidad Autónoma, y compuesta por un representante de la Administración General del Estado, un representante de la administración autonómica y un representante del Ayuntamiento de Lorca.
+
+Dicha comisión mixta, atendiendo a criterios de equidad, tras valorar los gastos y los daños acreditados y la situación económica y social de cada solicitante, elevará al órgano competente para resolver una propuesta individualizada motivada en relación con la ayuda que se solicita, así como sobre la cuantía que deba concederse en caso de propuesta favorable, que en ningún caso podrá superar los límites que se establecen para cada supuesto en el artículo 3.
+
+La citada comisión mixta podrá recabar del Consorcio de Compensación de Seguros la información de que disponga dicha entidad pública sobre las valoraciones de daños que hubiera realizado y la cuantía de las indemnizaciones que hubiera abonado. El Consorcio de Compensación de Seguros queda autorizado para cederla, de acuerdo con lo dispuesto en el artículo 8 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+Asimismo, la resolución correspondiente deberá determinar el plazo máximo de ejecución de las obras a las que se destina la ayuda. El plazo máximo para la reconstrucción o rehabilitación de la vivienda será de 24 meses y el plazo máximo para la reparación de daños será de 12 meses.
+
+En cualquier caso, el plazo máximo que se fije para la ejecución de las obras de reconstrucción o rehabilitación de la vivienda o para la reparación de daños, no podrá ser posterior al 31 de octubre de 2023».

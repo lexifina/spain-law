@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Ajustes derivados del abandono de los criterios específicos aplicables por las microentidades.
+
+Al inicio del primer ejercicio en el que una entidad deje de aplicar los criterios específicos de las microentidades, los nuevos criterios se aplicarán de forma retroactiva. La contrapartida de los ajustes que deban realizarse para reconocer los activos y pasivos que procedan será una partida de reservas salvo que, de acuerdo con los criterios incluidos en la segunda parte de las normas de Adaptación incluidas en el Anexo I, deban utilizarse otras partidas del patrimonio neto.
+
+En las primeras cuentas anuales que se formulen abandonando los criterios específicos aplicables por las microentidades, la entidad creará en la memoria un apartado con la denominación «Aspectos derivados del abandono de los criterios específicos aplicables por las microentidades», en el que se mencionarán las diferencias entre los criterios contables específicos de las microentidades aplicados en el ejercicio anterior y los actuales, así como la cuantificación del impacto que produce esta variación de criterios contables en el patrimonio neto de la entidad.

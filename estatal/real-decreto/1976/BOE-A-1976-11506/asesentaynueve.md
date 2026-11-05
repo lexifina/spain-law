@@ -1,0 +1,7 @@
+## Artículo sesenta y nueve.
+
+Uno. Cuando transcurran cinco años, desde la entrada en vigor del Plan o Programa de Actuación Urbanística sin que se llevase a efecto la expropiación de los terrenos, que, con arreglo a su calificación urbanística, no sean edificables por sus propietarios, ni hayan de ser objeto de cesión obligatoria por no resultar posible la justa distribución de los beneficios y cargas en el polígono o unidad de actuación, el titular de los bienes o sus causahabientes advertirán a la Administración competente de su propósito de iniciar el expediente de justiprecio, que podrá llevarse a cabo por ministerio de la Ley, si transcurrieren otros dos años desde el momento de efectuar la advertencia.
+
+A tal efecto, el propietario podrá presentar la correspondiente hoja de aprecio, y si transcurrieren tres meses sin que la Administración la acepte, podrá aquél dirigirse al Jurado provincial de Expropiación, que fijará el justiprecio conforme a los criterios de esta Ley y de acuerdo con el procedimiento establecido en los artículos treinta y uno y siguientes de la Ley de Expropiación Forzosa.
+
+Dos. A los efectos de lo establecido en el párrafo anterior, la valoración se entenderá referida al momento de la iniciación del expediente de justiprecio por ministerio de la Ley y los intereses de demora se devengarán desde la presentación por el propietario de la correspondiente tasación.

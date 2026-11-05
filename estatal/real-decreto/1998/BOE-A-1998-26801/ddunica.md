@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normas anteriores.
+
+Quedan derogados el Real Decreto de 25 de octubre de 1900, el Real Decreto de 16 de marzo de 1903, el Real Decreto de 15 de abril de 1907, el Decreto de 10 de octubre de 1931, el Decreto de 12 de agosto de 1932, el Decreto de 14 de octubre de 1932, el Decreto de 4 de diciembre de 1934, el Decreto de 8 de enero de 1935, el Decreto de 8 de agosto de 1935, el Decreto de 29 de septiembre de 1938, el Decreto de 11 de septiembre de 1953 y el Decreto 1353/1971, de 5 de junio, así como cualesquiera normas de igual o inferior rango que se opongan a lo dispuesto en el presente Real Decreto.

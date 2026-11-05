@@ -1,0 +1,5 @@
+## Artículo quince.
+
+Las Comunidades Autónomas, los Gobernadores civiles, las Autoridades y Servicios Agrarios, los Alcaldes y las Corporaciones Locales, así como las personas e instituciones que conozcan de cualquier acto que atente o ponga en peligro la conservación o la integridad de un monte de los regulados en esta Ley, lo pondrán en conocimiento del Ministerio Fiscal, y éste ejercitará las acciones civiles y penales que sean adecuadas para restablecer la situación jurídica correcta y perseguir los actos que la contradigan.
+
+Las mismas autoridades, organismos y particulares darán cuenta de los actos perturbadores que tengan lugar contra los montes vecinales en mano común a la Jefatura de los Servicios Provinciales del ICONA y ésta ejercitará, respecto a dichos montes, las mismas facultades de preservación, correctivas y sancionadoras previstas, con relación a los montes catalogados en el título VI de la Ley de Montes de ocho de junio de mil novecientos cincuenta y siete y en las disposiciones reglamentarias que lo desarrollan, por los procedimientos previstos en la citada normativa, y siendo preceptiva la oportuna audiencia de la comunidad titular.

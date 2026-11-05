@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Incumplimiento de las disposiciones relativas a la protección de los trabajadores.
+
+El incumplimiento de las disposiciones relativas a la protección de los trabajadores previstas en el Reglamento (CE) n.º 1907/2006, del Parlamento Europeo y del Consejo, de 18 de diciembre de 2006, será sancionado conforme a lo dispuesto en el Real Decreto Legislativo 5/2000, de 4 de agosto, por el que se aprueba el texto refundido de la Ley sobre Infracciones y Sanciones en el Orden Social, en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, en sus normas de desarrollo y en el resto de la legislación laboral que resulte de aplicación.

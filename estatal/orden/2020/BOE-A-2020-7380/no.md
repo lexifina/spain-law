@@ -1,0 +1,1 @@
+Téngase en cuenta que la presente Orden habilita el mes de agosto para los procesos electorales en las federaciones deportivas españolas a celebrar en 2020, por lo que debe entenderse que ha perdido su vigencia.

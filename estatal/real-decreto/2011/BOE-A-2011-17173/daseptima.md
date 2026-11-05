@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Justificación y documentación a remitir por las Comunidades Autónomas sin órgano fiscalizador.
+
+En los casos del artículo 25 del presente real decreto en que la gestión que realice la Comunidad Autónoma se lleve a efecto sin la concurrencia de órgano fiscalizador (Interventor) por no disponer del mismo según su propia organización y competencias en materia de ejecución presupuestaria, contable y financiera, la conformidad será dada por la persona responsable que tenga competencia de control presupuestario o contable, dejando constancia de dicha circunstancia mediante la reseña expresa de la disposición normativa que así lo ampare, con referencia a su publicación en el diario oficial de la Comunidad Autónoma.

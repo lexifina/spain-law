@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Adecuación del registro de instalaciones de producción de energía eléctrica a la nueva definición de potencia instalada de las instalaciones solares fotovoltaicas establecida en la disposición final tercera de este real decreto.
+
+Los órganos competentes para la inscripción de las instalaciones en el registro de instalaciones de producción de energía eléctrica dispondrán de un plazo de doce meses, desde la entrada en vigor de este real decreto, para adecuar el contenido de los mismos a la nueva definición de potencia instalada de las instalaciones solares fotovoltaicas, establecida en virtud de la disposición final tercera de este real decreto.

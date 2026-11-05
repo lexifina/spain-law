@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Cambio de especialidad.
+
+1. Hasta que el Ministro de Defensa establezca las condiciones y requisitos para el cambio de especialidad establecido en el artículo 41.3 de la Ley 39/2007, de 19 de noviembre, y en artículo 14 de la Ley 8/2006, de 24 de abril, continuará vigente con rango de orden ministerial el artículo 7.4 del Reglamento de Cuerpos, Escalas y Especialidades de las Fuerzas Armadas aprobado por el Real Decreto 207/2003, de 21 de febrero.
+
+2. El Ministro de Defensa determinará, en su caso, las especialidades del Reglamento de Cuerpos, Escalas y Especialidades de las Fuerzas Armadas aprobado por el Real Decreto 207/2003, de 21 de febrero, o de la Orden Ministerial 15/2000, de 21 de enero, por la que se determinan las especialidades de los Militares Profesionales de Tropa y Marinería, desde las que, con carácter voluntario, se podrá acceder a las nuevas especialidades contenidas en este reglamento, así como la duración de los correspondientes procesos de formación, en su caso.

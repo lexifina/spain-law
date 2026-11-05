@@ -1,0 +1,5 @@
+## Disposición final primera. Declaraciones tributarias por medios telemáticos.
+
+Se autoriza al Ministro de Economía y Hacienda para que determine, mediante Orden, los supuestos y condiciones en que las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración local y los organismos públicos o entidades de derecho público vinculados o dependientes de dichas Administraciones y de la Administración General del Estado, así como la Seguridad Social, habrán de presentar por medios telemáticos sus declaraciones, declaraciones-liquidaciones, autoliquidaciones o cualquiera otros documentos exigidos por la normativa tributaria.
+
+Asimismo, se autoriza al Ministro de Economía y Hacienda para que determine, mediante Orden, los supuestos y condiciones en que las pequeñas y medianas empresas podrán presentar por medios telemáticos sus declaraciones, declaraciones-liquidaciones, autoliquidaciones o cualesquiera otros documentos exigidos por la normativa tributaria. Se entenderán por pequeñas y medianas empresas las no comprendidas en la definición de grandes empresas a los efectos del Impuesto sobre el Valor Añadido.

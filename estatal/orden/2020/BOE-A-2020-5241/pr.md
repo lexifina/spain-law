@@ -1,0 +1,5 @@
+La Orden JUS/394/2020, de 8 de mayo, por la que se aprueba el Esquema de Seguridad Laboral y el Plan de desescalada para la Administración de Justicia ante el COVID-19, establece que el retorno a la actividad ordinaria de la Administración de Justicia se realizará en cuatro fases sucesivas.
+
+El apartado cuarto de la citada Orden prevé que el Ministro de Justicia pueda modificar, previa comunicación a la Comisión de Coordinación, las fases comprendidas en el Plan de desescalada para adaptarlas a los cambios en los escenarios de lucha contra el COVID-19 y a las indicaciones de la Autoridad Sanitaria.
+
+De acuerdo con las Comunidades Autónomas con competencias transferidas, el Consejo General del Poder Judicial y la Fiscalía General del Estado, y en consultas con los Consejos Generales de la Abogacía, Procuradores y Graduados Sociales, así como con las organizaciones sindicales, y de conformidad con las recomendaciones de la Autoridad Central Sanitaria en virtud de la Orden SND/261/2020, de 19 de marzo, resuelvo:

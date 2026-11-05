@@ -1,0 +1,11 @@
+La Orden HAP/2178/2015, de 9 de octubre, estableció el límite exento de la obligación de aportar garantías en las solicitudes de aplazamiento o fraccionamiento en 30.000 euros.
+
+La presente orden tiene como objeto mantener la finalidad última de la exención prevista, otorgando facilidades al obligado al pago para el cumplimiento de sus obligaciones de derecho público ante sus dificultades económico financieras de carácter transitorio y agilizando el procedimiento de gestión de estas solicitudes mediante el impulso de su gestión automatizada. Y, todo ello, teniendo en consideración el actual contexto económico derivado tanto de la invasión rusa de Ucrania como del choque de oferta que viene sufriendo la economía europea asociado a la escalada de los precios de la energía que han favorecido un incremento de precios que genera enormes dificultades en nuestras economías domésticas y sectores económicos, sin olvidar que todavía perduran los efectos de la crisis pandémica ocasionada por la COVID-19.
+
+Partiendo del contexto anterior, unido a que el tiempo transcurrido desde su aprobación denota cierta obsolescencia del límite actualmente vigente, se considera necesario actualizar tal importe, elevando el límite de la citada exención de la obligación de aportar garantías.
+
+El ámbito de aplicación de la presente orden se refiere a las solicitudes de aplazamiento y fraccionamiento de pago de las deudas derivadas de derechos de naturaleza pública de la Hacienda Pública Estatal gestionados por la Agencia Estatal de Administración Tributaria y demás órganos de la Administración General del Estado y sus organismos autónomos.
+
+Conforme a las razones expuestas se dicta esta orden, haciendo uso de las competencias conferidas en virtud de lo establecido en los artículos 82.2.a) de la Ley 58/2003, de 17 de diciembre, General Tributaria, 13.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria y la disposición adicional segunda del Real Decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos.
+
+En su virtud, dispongo:

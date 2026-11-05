@@ -1,0 +1,1 @@
+Disposición derogada, con efectos de 30 de abril de 2021, una vez quede extinguido el régimen transitorio, por la disposición derogatoria.1 de la Ley 20/2011, de 21 de julio. Ref. BOE-A-2011-12628#dd.

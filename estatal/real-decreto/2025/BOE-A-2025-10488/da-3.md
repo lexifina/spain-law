@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Aplicación de la incompatibilidad establecida en el artículo 5.5 a quienes accedan anticipadamente a la jubilación a causa de la actividad realizada conforme a otras normas.
+
+La incompatibilidad entre la pensión de jubilación y el trabajo, establecida en el artículo 5.5, será también de aplicación a quienes hayan accedido o accedan anticipadamente a dicha pensión por aplicación de coeficientes reductores de la edad de jubilación reconocidos en una norma anterior y, a partir de la entrada en vigor de este real decreto, inicien la misma actividad que dio lugar al acceso anticipado a la pensión de jubilación.

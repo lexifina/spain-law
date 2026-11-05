@@ -1,0 +1,9 @@
+La Convención para la Prohibición de las Armas Químicas, publicada en el «Boletín Oficial del Estado» de 13 de diciembre de 1996, y que entró en vigor el día 29 de abril de 1997, hace imprescindible la creación de una Representación Permanente de España en dicha Organización que contribuya al seguimiento continuado de los temas que se tratarán en la misma, incluyendo el cumplimiento de la Convención, la protección de los intereses españoles de seguridad e industriales, las posibles visitas de inspección y el control presupuestario de la Organización.
+
+De particular relieve es el hecho de que España, cuya industria es la quinta en importancia de Europa, estará representada desde su inicio en el Consejo Ejecutivo de la Organización para la Prohibición de las Armas Químicas (OPAQ), entidad que asegura el cumplimiento de lo acordado por la Conferencia de Estados parte. El Consejo Ejecutivo está formado por 41 países y toma decisiones de la mayor trascendencia dentro de la OPAQ.
+
+Desde el año 1994 hasta la actualidad los trabajos preparatorios para la constitución de la Organización han sido llevados a cabo por un Secretariado técnico provisional que, a partir de la primera Conferencia de Estados parte, será sustituido por la Organización para la Prohibición de las Armas Químicas, entidad ante la que se crea ahora la Representación Permanente de España.
+
+En su virtud, de conformidad con lo establecido en el artículo 67.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, y en el artículo 16 del Real Decreto 632/1987, de 8 de mayo, a iniciativa del Ministro de Asuntos Exteriores, a propuesta del Ministro de Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 24 de julio de 1997,
+
+DISPONGO:

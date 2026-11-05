@@ -1,0 +1,3 @@
+## Disposición transitoria única. Información relativa a los años 2014 y 2015.
+
+Las entidades adscritas al FGD deberán enviar al Banco de España, al Departamento de Información Financiera y CIR, los datos de las partidas del apartado A) Compartimento de garantía de depósitos del estado «Información para determinar las bases de cálculo de las aportaciones al Fondo de Garantía de Depósitos» relativas al cuarto trimestre del año 2014 y a los tres primeros trimestres del año 2015, con el formato y criterios de valoración que establece la presente circular, no más tarde del 20 de enero de 2016. Cuando los datos de estos estados no se puedan obtener sin incurrir en costes desproporcionados, se estimarán de la mejor manera posible.

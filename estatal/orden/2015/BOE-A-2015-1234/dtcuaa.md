@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Continuidad de los procedimientos iniciados de autorización de puesta en servicio de vehículos.
+
+1. Todo vehículo ferroviario que hubiera iniciado ante la autoridad responsable de la seguridad ferroviaria el proceso de validación hasta tres meses después de la entrada de vigor de la presente orden, podrá optar por continuar el mismo de acuerdo con la normativa anterior que le fuera de aplicación o por lo establecido en la presente orden.
+
+2. En el caso particular de vehículos de ancho métrico que hubieran iniciado su validación con anterioridad a esta orden, deberá comunicarse a la autoridad responsable de la seguridad ferroviaria, dentro de los tres meses siguientes a su entrada en vigor, la intención de proseguir con el proceso de validación de conformidad con las normas preexistentes. Una vez superado dicho plazo, será de aplicación el régimen general establecido en esta orden. Concluido el proceso de validación de acuerdo con las normas preexistentes, este material deberá obtener la correspondiente autorización de acuerdo con lo establecido en la disposición adicional cuarta.

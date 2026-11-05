@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Efectos de la exención en la modalidad de operaciones societarias de los fondos de titulización.
+
+La exención de la modalidad de operaciones societarias de todas las operaciones que realicen los fondos de titulización hipotecaria y los fondos de titulización de activos financieros, establecida en el artículo 45.I.B).20 del Texto Refundido de la Ley del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados, aprobado por el Real Decreto Legislativo 1/1993, de 24 de septiembre, resultará aplicable a cualesquiera que hayan realizado desde su constitución, incluida esta.

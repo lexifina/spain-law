@@ -1,0 +1,11 @@
+## Disposición transitoria segunda. Gestión del Régimen de Clases Pasivas.
+
+Hasta que se produzca la total asunción de la gestión del Régimen de Clases Pasivas del Estado por el Instituto Nacional de la Seguridad Social, corresponderá a la Dirección General de Ordenación de la Seguridad Social las funciones de reconocimiento, gestión y propuesta de los pagos de las pensiones del Régimen de Clases Pasivas del Estado, así como la resolución de los recursos interpuestos frente a los acuerdos en materia de Clases Pasivas y las funciones de información y atención al público, de conformidad con lo dispuesto en la disposición transitoria tercera de la Ley 22/2021, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2022.
+
+Para el desempeño de estas funciones, durante este periodo la Subdirección General de Gestión de Clases Pasivas continuará adscrita a la Dirección General de Ordenación de la Seguridad Social.
+
+Con el mismo carácter transitorio y hasta que se produzca la integración de la Subdirección General de Gestión de Clases Pasivas en el Instituto Nacional de la Seguridad Social, las competencias en materia de reconocimiento, gestión y propuesta de pagos de las prestaciones, indemnizaciones, ayudas y anticipos cuya competencia tenga atribuida la Dirección General de Ordenación de la Seguridad Social serán ejercidas por la citada Subdirección General de Gestión de Clases Pasivas.
+
+De acuerdo con lo previsto en la disposición transitoria tercera de la Ley 22/2021, de 28 de diciembre, a los procedimientos iniciados en la Dirección General de Personal del Ministerio de Defensa antes del 6 de octubre de 2020, no les será de aplicación lo previsto en la citada disposición transitoria tercera, rigiéndose por la normativa anterior. En estos supuestos, una vez se haya producido el reconocimiento de la pensión, se remitirán al Ministerio de Inclusión, Seguridad Social y Migraciones para el correspondiente pago.
+
+Las funciones de asistencia jurídica serán ejercidas por el Servicio Jurídico de la Administración de la Seguridad Social mientras la Dirección General de Ordenación de la Seguridad Social mantenga competencias en materia de clases pasivas y otras prestaciones de Seguridad Social.

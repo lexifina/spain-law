@@ -1,0 +1,3 @@
+## Disposición adicional cuadragésima quinta. Gastos por actuaciones extraordinarias de la Unidad Militar de Emergencias.
+
+Para atender los gastos ocasionados por aquellas actuaciones que dentro del ámbito de sus competencias deba llevar a cabo la Unidad Militar de Emergencias y que, por su número, extensión o gravedad de los siniestros que las originen, excedan de las dotaciones que la unidad tiene asignadas para su normal funcionamiento en el presupuesto de la Sección 14, el Gobierno, a propuesta del Ministerio de Economía y Hacienda, habilitará los créditos necesarios en el presupuesto del Ministerio de Defensa, de conformidad con lo previsto en los artículos 50 y 55 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.

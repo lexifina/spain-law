@@ -1,0 +1,9 @@
+## Artículo 4. Cuantía de las ayudas y criterios de distribución.
+
+1. La financiación y el pago se efectuará con cargo al presupuesto del Ministerio de Agricultura, Pesca y Alimentación, que se fijará en las convocatorias, efectuándose con cargo a la aplicación presupuestaria que para cada ejercicio se determine en los Presupuestos Generales del Estado estando condicionada la concesión de las subvenciones a la existencia de crédito adecuado y suficiente en el momento de la concesión. De acuerdo con el artículo 57 del Reglamento de la Ley 38/2001, de 17 de noviembre, General de Subvenciones, se podrán convocar subvenciones plurianuales.
+
+2. Cuando las dotaciones presupuestarias anuales no sean suficientes para que los proyectos reciban las ayudas máximas establecidas, la subvención se otorgará proporcionalmente a la puntuación obtenida por cada una de ellas, según los criterios de valoración del artículo 6. En caso de convocatorias plurianuales se determinará la ayuda correspondiente a cada año, de forma proporcional a la puntuación que haya obtenido el proyecto para ese año.
+
+3. Cada entidad podrá presentar en su solicitud un único proyecto, que tendrá vocación nacional y global, y que incluirá las actuaciones a realizar en el período subvencionable que se establezca en la convocatoria, o en caso de convocatorias plurianuales, en los períodos subvencionables sucesivos, desglosado por anualidades. El importe total solicitado por cada entidad beneficiaria no podrá superar el 18 % de la dotación disponible para la convocatoria correspondiente. En el caso de convocatorias plurianuales, no podrá superar el 18 % de cada anualidad.
+
+> Se modifica el apartado 3 por el art. único.4 del Real Decreto 662/2023, de 18 de julio. Ref. BOE-A-2023-16646

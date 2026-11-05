@@ -1,0 +1,3 @@
+## Disposición final primera. Títulos competenciales.
+
+El presente real decreto se dicta al amparo de lo dispuesto en el artículo 149. 1, reglas 15.ª y 23.ª, de la Constitución Española, que atribuye al Estado competencia exclusiva sobre, respectivamente, fomento y coordinación general de la investigación científica y técnica, y legislación básica sobre protección del medio ambiente, salvo los preceptos relativos al mantenimiento y conservación de los recursos fitogenéticos, que se dictan al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado competencia exclusiva sobre las bases y coordinación de la planificación general de la actividad económica.

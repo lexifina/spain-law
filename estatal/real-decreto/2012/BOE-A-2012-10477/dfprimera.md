@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en las reglas 16.ª y 17.ª del artículo 149.1 de la Constitución Española que atribuyen al Estado la competencia exclusiva en materia de bases y coordinación general de la sanidad y de régimen económico de la Seguridad Social, respectivamente. Se exceptúa de lo anterior la disposición final segunda, por la que se incorpora al derecho español el artículo 14 de la Directiva 2004/38/CE del Parlamento Europeo y del Consejo, de 29 de abril de 2004, relativa al derecho de los ciudadanos de la Unión y de los miembros de sus familias a circular y residir libremente en el territorio de los Estados miembros.

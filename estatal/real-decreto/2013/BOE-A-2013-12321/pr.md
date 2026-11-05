@@ -1,0 +1,11 @@
+El Real Decreto 343/2012, de 10 de febrero, por el que se desarrolla la estructura orgánica básica del Ministerio de Empleo y Seguridad Social, atribuye a este la concesión de las ayudas extraordinarias a los trabajadores en procesos de reestructuración de empresas.
+
+Así mismo, la Ley 38/2003, de 17 de noviembre, General de Subvenciones, viene a regular con carácter general el régimen jurídico de las subvenciones, dando un tratamiento homogéneo de esta relación jurídica subvencional en las diferentes Administraciones Públicas, delimitando el concepto de subvención y estableciendo los distintos procedimientos para su concesión, así como justificación de las subvenciones, causas de reintegro, régimen sancionador, etc. Esta regulación legal hace necesario que la Orden de 5 de abril de 1995, por la que se determinan las ayudas que podrá conceder el Ministerio de Trabajo y Seguridad Social a trabajadores afectados por procesos de reconversión y/o reestructuración de empresas, se acomode a dicha Ley. Por otro lado, la naturaleza de estos procesos de reestructuración en los que la rapidez puede ser esencial para que los mismos culminen con éxito, determina que el procedimiento más adecuado sea el de concesión directa, previsto en el artículo 22.2.c) de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+En base a lo anterior, se considera necesario establecer una norma especial para regular el procedimiento de concesión y régimen de justificación de las subvenciones que se conceden a los trabajadores despedidos por procesos de reestructuración de empresas, que debe ser aprobada por real decreto, de acuerdo con lo previsto en el artículo 28.2 y 3 de la Ley 38/2003, de 17 de noviembre, y por el artículo 67.2 de su Reglamento, aprobado por el Real Decreto 887/2006, de 21 de julio.
+
+En la tramitación de este real decreto han sido consultadas las comunidades autónomas, así como las organizaciones sindicales y empresariales más representativas.
+
+En su virtud, a propuesta de la Ministra de Empleo y Seguridad Social, con el informe del Ministro de Hacienda y Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 22 de noviembre de 2013,
+
+DISPONGO:

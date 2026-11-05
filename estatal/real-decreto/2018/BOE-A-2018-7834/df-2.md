@@ -1,0 +1,5 @@
+## Disposición final segunda. Facultades dispositivas.
+
+1. Se faculta al Ministro de Defensa para que adopte las medidas necesarias que requiera la ejecución de este real decreto y, en particular, para determinar las Normas sobre la medalla de campaña, según lo establecido en este real decreto, incluyendo en todo caso lo siguiente: la tramitación (procedimiento, condiciones de tiempo y exclusiones para la misma, en comisión de servicio o posteriormente, unidad de trámite y unidad responsable de su gestión en el Estado Mayor de la Defensa), la concesión (procedimiento), los efectos (anotación en la hoja de servicios), las limitaciones y el uso de la misma.
+
+2. Se faculta al Jefe de Estado Mayor de la Defensa para determinar, mediante resolución, el nombre identificativo de las correspondientes operaciones militares y campañas en el exterior, en las que se conceda la medalla de campaña, así como el área geográfica que se definirá como zona de operaciones a efectos de su concesión, según lo establecido en este real decreto y en la citada orden ministerial de aplicación.

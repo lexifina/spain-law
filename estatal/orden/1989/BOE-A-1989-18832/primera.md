@@ -1,0 +1,7 @@
+## Disposición transitoria primera.
+
+A efectos de poder efectuar las compensaciones a que se refiere la disposición transitoria primera del Real Decreto 725/1989, las Intervenciones delegadas, al mismo tiempo que efectúen la comunicación de los importes para anticipos de Caja fija que figuren en los acuerdos por ellos informados en la forma prevista en el punto 3.2 de esta Orden, comunicarán a la Dirección General del Tesoro y Política Financiera y a su Interventor delegado o al Delegado de Hacienda y al Interventor territorial respectivo, los importes que deben descontarse a cada Cajero pagador en los mandamientos de pago no presupuestarios, como consecuencia de cantidades no invertidas y no ingresadas correspondientes a anticipos de Caja fija concedidos en el ejercicio de 1988.
+
+El Interventor delegado en la Dirección General del Tesoro y Política Financiera y los Interventores territoriales cuidarán de que en los mandamientos de pago no presupuestarios figuren dichos descuentos y que se apliquen al concepto de Operaciones del Tesoro-Deudores: 310.008. «Remanentes de anticipos de Caja Fija».
+
+En el supuesto de que el importe íntegro del mandamiento de pago no presupuestario para un determinado Cajero pagador sea inferior al descuento que es necesario efectuarle, el exceso de dicho descuento se aplicará en las primeras órdenes de pago para reposición de dicho Cajero pagador. El Interventor delegado en la Dirección General del Tesoro y Política Financiera y los Interventores territoriales de Hacienda cuidarán que dicha aplicación se lleve a efecto.

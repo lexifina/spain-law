@@ -1,0 +1,41 @@
+## Disposición adicional segunda. Organizaciones interprofesionales agroalimentarias.
+
+Modificación de la Ley 38/1994, de 30 de diciembre, reguladora de las Organizaciones interprofesionales agroalimentarias, en sus artículos 3 y 12.
+
+1. Se modifica el artículo 3, añadiendo la letra h) al mismo, con la siguiente redacción:
+
+«h) Elaboración de contratos tipo compatibles con la normativa comunitaria.»
+
+2. Se modifica el artículo 12 (tipificación de infracciones), quedando redactado de la siguiente forma:
+
+«Artículo 12. Tipificación de infracciones.
+
+Las infracciones administrativas a lo dispuesto en la presente Ley se clasificarán en leves, graves y muy graves:
+
+1. Constituirán infracciones leves las siguientes:
+
+a) El retraso injustificado en el envío al Ministerio de Agricultura, Pesca y Alimentación de cualquiera de los documentos mencionados en el artículo 6 de la presente Ley.
+
+b) El incumplimiento en el pago de la aportación económica debida a las organizaciones interprofesionales agroalimentarias, por los productores y operadores implicados, en los supuestos de extensión de normas aprobadas por el Ministerio de Agricultura, Pesca y Alimentación, cuando la cuantía no exceda de 1.000.000 de pesetas.
+
+2. Constituirán infracciones graves las siguientes:
+
+a) La comisión, en el término de un año, de más de dos infracciones leves, cuando así haya sido declarado por resolución firme.
+
+b) La no remisión al Ministerio de Agricultura, Pesca y Alimentación, por parte de las organizaciones interprofesionales agroalimentarias de los acuerdos adoptados en su seno, tal como se establece en el artículo 7 de la presente Ley.
+
+c) El incumplimiento en el pago de la aportación económica debida a las organizaciones interprofesionales agroalimentarias, por los productores y operadores implicados, en los supuestos de extensión de normas aprobadas por el Ministerio de Agricultura, Pesca y Alimentación, cuando la cuantía supere el 1.000.000 de pesetas y no exceda de 4.000.000 de pesetas.
+
+3. Constituirán infracciones muy graves las siguientes:
+
+a) La comisión, en el término de un año, de más de una infracción grave de la misma naturaleza, cuando así haya sido declarado por resolución firme.
+
+b) Desarrollar actuaciones cuya finalidad sea distinta a las establecidas en el artículo 3 de esta Ley.
+
+c) Aplicar el régimen de aportaciones económicas por extensión de normas establecido en el artículo 9 de la presente Ley en términos distintos a los contenidos en la correspondiente Orden ministerial de aprobación.
+
+d) Tomar acuerdos que fragmenten o aíslen mercados o discriminen agentes económicos afectados.
+
+e) Interferir el buen funcionamiento de las organizaciones comunes de mercado.
+
+f) El incumplimiento en el pago de la aportación económica debida a las organizaciones interprofesionales agroalimentarias, por los productores y operadores implicados, en los supuestos de extensión de normas aprobadas por el Ministerio de Agricultura, Pesca y Alimentación, cuando la cuantía exceda de 4.000.000 de pesetas.»

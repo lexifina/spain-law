@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Base de cotización aplicable a los artistas de bajos ingresos incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos en 2023.
+
+La base de cotización mensual a la que se refiere el párrafo primero del artículo 313.bis del texto refundido de la Ley General de la Seguridad Social, para los artistas incluidos en el Régimen Especial de los Trabajadores por Cuenta Propia o Autónomos cuyos ingresos anuales sean iguales o inferiores a 3.000 euros, se fija para 2023 en 526,14 euros mensuales. Dicho importe será objeto de modificación en años sucesivos a través de la correspondiente Ley de Presupuestos Generales del Estado.

@@ -1,0 +1,1 @@
+Téngase en cuenta que la Orden de 6 de marzo de 1991 ha sido derogada, con efectos de 8 de agosto de 2025, por la disposición derogatoria única de la Orden TES/862/2025, de 31 de julio, Ref. BOE-A-2025-16407, por lo que la presente Orden se entiende implícitamente derogada.

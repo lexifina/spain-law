@@ -1,0 +1,7 @@
+## Disposición adicional quinta. Evaluación de los méritos, curriculum vitae y trayectoria investigadora en las convocatorias públicas de I+D+i.
+
+1. La Administración General del Estado y el sector público estatal desarrollarán medidas tendentes a garantizar la igualdad real y efectiva entre mujeres y hombres evitando cualquier discriminación o penalización directa o indirecta por razón de sexo en todos los procesos de evaluación y/o selección del personal investigador.
+
+2. Para las convocatorias públicas de I+D+i donde el criterio de evaluación comprenda la valoración de los méritos alcanzados durante un período concreto y limitado o a lo largo de toda la carrera investigadora, así como aquellas en que el criterio de evaluación esté basado en la consecución de unos méritos mínimos computados durante el total de la carrera investigadora o durante un período limitado y concreto de esta, la Administración General del Estado y el sector público estatal deberán computar como tiempo de inactividad investigadora, como mínimo, el tiempo disfrutado de permiso de maternidad, paternidad, guarda con fines de adopción o acogimiento, riesgo durante el embarazo y/o lactancia e incapacidad temporal asociada al embarazo o por razones de violencia de género o cualquier tipo de acoso.
+
+3. En las bases de las convocatorias de ayudas, se establecerá el factor corrector que en cada caso corresponda y que permita compensar los períodos de inactividad investigadora y garantizar la igualdad de oportunidades.

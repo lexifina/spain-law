@@ -1,0 +1,3 @@
+## Disposición adicional primera. Modelo de parte de enfermedad profesional.
+
+El Ministerio de Trabajo y Asuntos Sociales aprobará el nuevo modelo de parte de enfermedad profesional para que surta efectos a la entrada en vigor de este real decreto. Al propio tiempo, regulará el procedimiento para su tramitación, así como su transmisión por medios electrónicos, de manera que quede garantizada la fluidez de la información entre la entidad gestora o colaboradora, la empresa, la administración laboral, la Inspección de Trabajo y Seguridad Social, los servicios de prevención, en su caso, y demás instituciones afectadas.

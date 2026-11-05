@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Vigencia del Real Decreto 1004/1991, de 14 de junio, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias.
+
+Sin perjuicio de lo establecido en la disposición derogatoria única, lo dispuesto en los artículos 10 y 13 del Real Decreto 1004/1991, de 14 de junio, por el que se establecen los requisitos mínimos de los centros que impartan enseñanzas de régimen general no universitarias, en lo relativo a los requisitos mínimos de instalaciones y ratios de los centros docentes que imparten el primer ciclo de la educación infantil, será de aplicación en tanto que las Administraciones educativas no lo regulen en su ámbito de competencias.

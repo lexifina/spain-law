@@ -1,0 +1,5 @@
+## Art. 4.º
+
+El Jefe de la Agrupación podrá elevar al Director general de Tráfico cuantas propuestas considere convenientes para el cumplimiento de su misión; dictará las órdenes necesarias para ejecutar las instrucciones recibidas de aquél, en relación con la vigilancia y disciplina del tráfico, circulación y transporte por carretera; emitirá cuantos informes sobre servicios y material de su especialidad interese el Director general de Tráfico, y, como Jefe de la Unidad, ejercerá las funciones administrativas, de coordinación e inspección de los servicios y dictará cuantas órdenes e instrucciones sean necesarias para distribución, buen uso, conservación, entretenimiento y reparación del material de tráfico.
+
+Velará especialmente para que el enlace y colaboración de los Sectores y Subsectores con las Jefaturas Provinciales de Tráfico se realice de la forma más eficaz y conveniente para el servicio. Para los mismos fines, mantendrá, a su vez, constante relación con la Dirección General de Tráfico.

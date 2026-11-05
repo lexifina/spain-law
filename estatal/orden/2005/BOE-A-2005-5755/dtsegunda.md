@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Reducción temporal de las cuotas resultantes del canon por utilización de las infraestructuras ferroviarias en determinadas líneas.
+
+Durante el periodo comprendido entre los días 1 de enero y 31 de diciembre de 2005, ambos incluidos, se aplicará una reducción del 10 % sobre las cuotas resultantes para las Modalidades B, C y D del canon por utilización de las líneas ferroviarias integrantes en la Red Ferroviaria de Interés General, así como para las Modalidades B y C del canon por utilización de las estaciones y otras instalaciones ferroviarias para los servicios de transporte ferroviario de viajeros que se desarrollen sobre las líneas altas prestaciones, tipo A1 y A2, referidas en el Anexo II de la presente orden.

@@ -1,0 +1,7 @@
+## Artículo octavo. Invalidez permanente.
+
+Uno. La existencia de la situación de invalidez permanente y su calificación en grados de incapacidad, tanto si se trata de la declaración inicial como de las posteriores revisiones que procedan por la concurrencia de una nueva contingencia que agrave el estado del beneficiario a efectos de su capacidad para el trabajo, se llevarán a cabo mediante la valoración del indicado estado del beneficiario resultante del conjunto de reducciones anatómicas o funcionales determinadas por las distintas contingencias.
+
+Dos. Por lo que se refiere a los pensionistas de invalidez permanente total para la profesión habitual, se tendrá en cuenta su edad incrementada con las bonificaciones que resulten de la aplicación de lo establecido en el artículo siguiente, tanto a efectos de la sustitución excepcional de su pensión vitalicia por una indemnización a tanto alzado, como del posible incremento de dicha pensión por presumirse la dificultad de obtener un empleo en actividad distinta de la habitual anterior; igual norma se aplicará cuando la sustitución o el incremento tenga lugar en otro Régimen de la Seguridad Social y afecte a trabajadores que estén o hubieran estado comprendidos en este Régimen Especial de la Minería del Carbón.
+
+> Redactado el apartado 1 conforme a la corrección de errores publicada en el BOE núm. 78, de 31 de marzo de 1973. Ref. BOE-A-1973-469.

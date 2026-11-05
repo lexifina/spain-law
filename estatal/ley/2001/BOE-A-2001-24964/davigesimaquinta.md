@@ -1,0 +1,3 @@
+## Disposición adicional vigésima quinta. Pago de deudas con la Seguridad Social de instituciones sanitarias cuya titularidad ostenten las Administraciones públicas o instituciones sin fines de lucro.
+
+Las instituciones sanitarias cuya titularidad ostenten las Administraciones Públicas o instituciones públicas o privadas sin ánimo de lucro, acogidas a la moratoria prevista en la disposición adicional trigésima de la Ley de Presupuestos Generales del Estado para 1995, podrán solicitar a la Tesorería General de la Seguridad Social, la ampliación de la carencia concedida, a ocho años; asimismo, podrán solicitar la ampliación de la moratoria concedida hasta un máximo de diez años con amortizaciones anuales.

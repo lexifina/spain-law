@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogada cualquier disposición, de igual o inferior rango, que se oponga a lo dispuesto en este real decreto y, expresamente, el Real Decreto 1910/1984, de 26 de septiembre, de receta médica, la Orden del Ministerio de Sanidad y Consumo de 30 de abril de 1986, por la que se establecen los criterios de normalización de recetas médicas y el modelo de recetas para tratamientos de larga duración con medicamentos que contengan estupefacientes y psicótropos, y la Orden del Ministerio de Sanidad y Consumo de 23 de mayo de 1994, sobre modelos oficiales de receta médica para la prestación farmacéutica del Sistema Nacional de Salud.

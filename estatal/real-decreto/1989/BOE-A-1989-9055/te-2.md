@@ -1,0 +1,5 @@
+## Disposición transitoria tercera.
+
+1. En tanto no se constituyan los Tribunales Superiores de Justicia, los Presidentes de las Audiencias Territoriales de Madrid y Barcelona y los Fiscales Jefes de las Fiscalías de las mismas percibirán el complemento de destino que correponda al grupo segundo, según la clasificación establecida en el artículo 4.º de este Real Decreto. El resto de los Presidentes de Audiencia Territorial y Fiscales Jefes equiparados a ellos, de las mismas capitales, percibirán el complemento de destino que corresponda al grupo de los órganos colegiados de la capital de que se trate, así como 12,5 puntos en concepto de especial responsabilidad en el gobierno interno de los Tribunales y Juzgados. Sin perjuicio de ello, para el cómputo de Fiscales coordinadores, se tendrán en cuenta las capitales donde tengan establecida su sede los Tribunales Superiores de Justicia.
+
+2. Salvo lo dispuesto en el apartado anterior, las referencias a los Tribunales Superiores de Justicia contenidas en este Real Decreto serán aplicables a las Audiencias Territoriales.

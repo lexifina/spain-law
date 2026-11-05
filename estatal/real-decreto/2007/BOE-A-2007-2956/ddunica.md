@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Sin perjuicio de su aplicación transitoria en función del calendario de aplicación de la nueva ordenación del sistema educativo establecido en el Real Decreto 806/2006, de 30 de junio, quedan derogados el Real Decreto 1254/1997, de 24 de julio, por el que se establecen los aspectos básicos del currículo del grado medio de las enseñanzas de danza y la Orden de 17 de noviembre de 1997, por la que se establecen los aspectos básicos de los informes de evaluación del grado medio de las enseñanzas de danza, así como los requisitos formales derivados de dicho proceso que sean precisos para garantizar la movilidad de los alumnos.

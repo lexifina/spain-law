@@ -1,0 +1,35 @@
+Como reconoce el Convenio de Naciones Unidas sobre la Diversidad Biológica, la conservación de la biodiversidad es un interés común de toda la humanidad y tiene una importancia crítica para satisfacer sus necesidades básicas. La biodiversidad está estrechamente ligada al desarrollo, la salud y el bienestar de las personas y constituye una de las bases del desarrollo social y económico. De este modo, se puede afirmar que la biodiversidad es fundamental para la existencia del ser humano en la Tierra y que constituye un componente clave de la sostenibilidad.
+
+El citado Convenio mantiene vigente su Visión a largo plazo de «Vivir en armonía con la naturaleza», es decir, que «Para 2050, la diversidad biológica se valora, conserva, restaura y utiliza en forma racional, manteniendo los servicios de los ecosistemas, sosteniendo un planeta sano y brindando beneficios esenciales para todos».
+
+La Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, que asume los principios fundamentales de este Convenio, crea el Plan estratégico estatal del patrimonio natural y de la biodiversidad como instrumento de planificación de la actividad de la Administración General del Estado en la materia. Su objeto es el establecimiento y la definición de objetivos, acciones y criterios que promuevan la conservación, el uso sostenible y la restauración del patrimonio, los recursos naturales terrestres y marinos, la biodiversidad y la geodiversidad. Su contenido incluirá un diagnóstico, los objetivos a alcanzar durante su periodo de vigencia y las acciones a desarrollar por la Administración General del Estado. En el artículo 13.4 de la ley se establece que el Plan estratégico será aprobado mediante real decreto y que éste deberá especificar el período de vigencia del Plan que, en todo caso, no podrá ser superior a diez años.
+
+De acuerdo con la citada Ley 42/2007, de 13 de diciembre, mediante Real Decreto 1274/2011, de 16 de septiembre, se aprobó el Plan estratégico del patrimonio natural y la biodiversidad 2011-2017, cuya aplicación se ha venido prorrogando, de acuerdo con lo previsto en la Disposición final primera de dicho real decreto, hasta la aprobación del presente Plan estratégico que lo sustituye.
+
+En la elaboración de este Plan estratégico se ha tomado en consideración la experiencia del anterior Plan Estratégico del Patrimonio Natural y Biodiversidad 2011-2017, así como las conclusiones del último informe de evaluación de su implementación.
+
+El objeto de este real decreto es aprobar el Plan estratégico estatal del patrimonio natural y de la biodiversidad a 2030 con la finalidad de desarrollar los mandatos previstos en el artículo 13 de la citada ley y dar cumplimiento al hito número 62 correspondiente al componente 4, reforma 1 (C4.R1), del anexo revisado de la Decisión de Ejecución del Consejo (CID) relativa a la aprobación de la evaluación del plan de recuperación y resiliencia de España, que establece la adopción de dicho Plan estratégico antes del 31 de diciembre de 2022. Su desarrollo conllevará dos paquetes de inversiones de apoyo directo a cargo de este instrumento (que suponen una parte sustancial de las medidas contempladas en la I1: Digitalización y conocimiento del patrimonio natural e I2: Conservación de la biodiversidad terrestre y marina).
+
+Además, adelanta los compromisos de España en la materia en el ámbito internacional y de la Unión Europea, en especial los derivados del futuro Marco global sobre la biodiversidad para el periodo posterior a 2020 del Convenio sobre la Diversidad Biológica, que se adoptará en la décimo quinta reunión de la Conferencia de las Partes del Convenio, y de la estrategia de la Unión Europea sobre biodiversidad 2030 «Reintegrar la naturaleza en nuestras vidas», adoptada por la Comisión Europea en mayo de 2020.
+
+Este real decreto se adecua a los principios de buena regulación previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas.
+
+Se satisfacen los principios de necesidad y eficacia, dado que la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, establece que el Plan estratégico será aprobado mediante real decreto, y se requiere la aprobación de un nuevo Plan estratégico al haberse superado el periodo de vigencia del anterior Plan, dándose cumplimiento a lo que establece la citada ley respecto al objeto, contenido, elaboración y aprobación del Plan estratégico.
+
+La norma es acorde al principio de proporcionalidad, dado que se limita a cumplir con el mandato que establece la Ley 42/2007, de 13 de diciembre.
+
+De acuerdo con el principio de seguridad jurídica, la norma es coherente con el resto del ordenamiento jurídico nacional y de la Unión Europea.
+
+La norma es coherente con el principio de eficiencia, evitando cargas administrativas innecesarias y optimizando la gestión de los recursos públicos.
+
+Se satisface el principio de transparencia, habiéndose realizado, a través de la página web del Ministerio para la Transición Ecológica y el Reto Demográfico, el trámite de consulta pública previa, conforme a lo establecido en el artículo 133 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y en el artículo 26 de la Ley 50/1997, de 27 de noviembre, del Gobierno, y, posteriormente, los trámites información y audiencia pública, conforme a lo previsto en el artículo 13 de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, así como en el artículo 133.2 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, y el artículo 26.6 de la Ley 50/1997, de 27 de noviembre, del Gobierno.
+
+En su elaboración, se ha sometido a consulta de las comunidades autónomas y las ciudades de Ceuta y de Melilla en el ámbito de la Comisión Estatal del Patrimonio Natural y de la Biodiversidad. Posteriormente, se ha aprobado en el seno de la Conferencia Sectorial de Medio Ambiente. Además, se ha impulsado especialmente la participación y consulta de la comunidad científica, los agentes económicos y sociales, y las organizaciones sin fines lucrativos que persiguen los objetivos de la ley y ha sido informado por Consejo Estatal del Patrimonio Natural y de la Biodiversidad.
+
+El Plan estratégico ha sido objeto de evaluación ambiental estratégica, según lo previsto en los artículos 6.2 y 29 de la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental.
+
+Esta norma se dicta al amparo de lo previsto en el artículo 149.1.23.ª de la Constitución Española, que atribuye al Estado la competencia sobre legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las comunidades autónomas de establecer normas adicionales de protección.
+
+En su virtud, a propuesta de la Ministra para la Transición Ecológica y el Reto Demográfico, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 2022,
+
+DISPONGO:

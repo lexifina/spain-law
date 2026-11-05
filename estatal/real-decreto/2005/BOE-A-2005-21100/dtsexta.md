@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Aprobación de reglas de funcionamiento del mercado diario e intradiario de producción y de procedimientos de operación del sistema.
+
+Antes de que transcurran tres meses desde la entrada en vigor del presente Real Decreto, el operador del mercado y el operador del sistema presentarán al Ministerio de Industria, Turismo y Comercio para su aprobación una propuesta de normas de funcionamiento del mercado diario e intradiario de producción y de procedimientos de operación del sistema respectivamente, para adaptarse a las modificaciones del Real Decreto 2019/1997, de 26 de diciembre, por el que se organiza y regula el mercado de producción de energía eléctrica, previstas en el presente Real Decreto.

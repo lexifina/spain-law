@@ -1,0 +1,75 @@
+## Disposición adicional decimotercera. Modificación del artículo 34 del Real Decreto-ley 6/2000, de 23 de junio, de Medidas Urgentes de Intensificación de la Competencia en Mercados de Bienes y Servicios.
+
+El artículo 34 del Real Decreto-ley 6/2000 quedará redactado de la siguiente manera:
+
+«Artículo 34. Limitación a la participación en más de un operador principal.
+
+Uno. Las personas físicas o jurídicas que, directa o indirectamente, participen en el capital o en los derechos de voto de dos o más sociedades que tengan la condición de operador principal en un mismo mercado o sector de entre los que se señalan en el número siguiente en una proporción igual o superior al 3 por 100 del total, no podrán ejercer los derechos de voto correspondientes al exceso respecto de dicho porcentaje en más de una entidad.
+
+Ninguna persona física o jurídica que tenga la condición de operador principal en un mercado o sector de entre los que se señalan en el número siguiente podrá ejercer los derechos de voto correspondientes a una cuota de participación superior al 3 por 100 del total en el capital o en otros valores que confieran derechos políticos de otra sociedad que tenga la misma condición en un mismo mercado o sector.
+
+Ninguna persona física o jurídica podrá designar, directa o indirectamente, miembros de los órganos de administración de más de una sociedad que tenga la condición de operador principal en el mismo mercado o sector de entre los señalados en el número siguiente.
+
+Igualmente ninguna persona física o jurídica que tenga la condición de operador principal en un mercado o sector de entre los señalados en el número siguiente podrá designar directa o indirectamente miembros de los órganos de administración de sociedades que tengan la condición de operador principal en el mismo mercado o sector.
+
+Las prohibiciones establecidas en este número no serán de aplicación cuando se trate de sociedades matrices que tengan la condición de operador principal respecto de sus sociedades dominadas en las que concurra la misma consideración, siempre que dicha estructura venga impuesta por el ordenamiento jurídico o sea consecuencia de una mera redistribución de valores o activos entre sociedades de un mismo grupo.
+
+Dos. Los mercados o sectores a los que se refiere el número anterior son los siguientes:
+
+a) Generación, transporte y distribución de energía eléctrica.
+
+b) Producción, transporte y distribución de hidrocarburos líquidos.
+
+c) Producción, transporte y distribución de hidrocarburos gaseosos.
+
+d) Telefonía portátil.
+
+e) Telefonía fija.
+
+Se entenderá por operador principal cualquiera que, teniendo la condición de operador de dichos mercados o sectores, ostente una de las cinco mayores cuotas del mercado o sector en cuestión.
+
+El Gobierno podrá, mediante Real Decreto, modificar la relación de mercados o sectores contenida en el presente número.
+
+Tres. A los efectos previstos en este artículo, se considerarán poseídas o adquiridas por una misma persona física o jurídica las acciones, participaciones u otros valores poseídos y adquiridos por las entidades pertenecientes a su mismo grupo tal y como éste se define en el artículo 4 de la Ley 24/1988, de 28 de julio, del Mercado de Valores, así como los poseídos o adquiridos por las demás personas que actúen en nombre propio pero por cuenta de aquélla, de forma concertada o formando con ella una unidad de decisión.
+
+Se entenderá, salvo prueba en contrario, que actúan por cuenta de una persona jurídica o de forma concertada con ella los miembros de su órgano de administración. Igualmente se presumirá que existe actuación concertada en los siguientes supuestos:
+
+a) Entre las personas jurídicas entre las que medie cualquier pacto o acuerdo de participación recíproca en el capital o en los derechos de voto;
+
+b) Entre las personas físicas o jurídicas entre las que se haya celebrado cualquier género de acuerdo o pacto con el fin de adoptar o bloquear actuaciones que puedan influir significativamente en la estrategia competitiva de una sociedad en la que participen directa o indirectamente;
+
+c) Entre accionistas o titulares de derechos de voto de una entidad que puedan controlar una sociedad mediante el ejercicio común de sus derechos de voto, por existir entre ambos intereses comunes que favorezcan una acción conjunta para evitar el perjuicio mutuo o para la consecución de un beneficio común al ejercer sus derechos sobre la sociedad participada;
+
+d) Entre sociedades matrices o dominadas de grupos de empresas competidoras entre los que existan intereses cruzados;
+
+e) Entre accionistas o titulares de derechos de voto en los que haya concurrido alguna de las anteriores circunstancias en el pasado de manera que pueda entenderse subsistente algún interés común.
+
+En todo caso se tendrá en cuenta tanto la titularidad dominical de las acciones y demás valores como los derechos de voto que se disfruten en virtud de cualquier título.
+
+Cuatro. Las personas físicas o jurídicas a las que se impute el exceso referido en el número primero o la designación de miembros de órganos de administración en más de un operador principal comunicarán en el plazo de un mes desde que se produzca la referida circunstancia a la Comisión Nacional de Energía o a la Comisión del Mercado de las Telecomunicaciones, según corresponda por razón de la materia, la sociedad respecto de la que se pretenda ejercer los derechos de voto o designar miembros del órgano de administración sin restricción alguna.
+
+Transcurrido el plazo indicado sin que se haya efectuado la citada comunicación quedarán suspendidos en cuanto al exceso del 3 por 100 los derechos de voto de todas las sociedades participadas o, en su caso, la condición de miembros del órgano de administración de todas las sociedades que tengan la condición de operador principal en un mismo mercado o sector y que hayan sido designados por una misma persona.
+
+En ningún caso podrá optarse por ejercer los derechos de voto en una de las sociedades que tengan la condición de operador principal y designar miembros en el órgano de administración de otra u otras que tengan tal condición en el mismo mercado o sector.
+
+Cinco. No obstante lo señalado en el número primero, la Comisión Nacional de Energía y la Comisión del Mercado de las Telecomunicaciones podrán autorizar, cada una en el ámbito de sus respectivas competencias, el ejercicio de los derechos de voto correspondientes al exceso respecto de las participaciones o la designación de miembros de los órganos de administración, siempre que ello no favorezca el intercambio de información estratégica entre operadores ni implique riesgo de coordinación de sus comportamientos estratégicos.
+
+Reglamentariamente se determinará la forma y el procedimiento a través de los cuales se concederán las autorizaciones previstas en este número.
+
+Seis. El incumplimiento de las restricciones impuestas en el número primero respecto del ejercicio de los derechos de voto o la designación de miembros de órganos de administración, siempre que no esté amparada en la excepción prevista en el número anterior, se considerará infracción muy grave y se sancionará con multa de hasta cincuenta millones de pesetas, todo ello sin perjuicio de la suspensión automática a la que se refiere el número cuatro.
+
+Serán responsables de las infracciones las personas físicas o jurídicas que adquieran las participaciones o designen miembros en los órganos de administración en contra de lo dispuesto en el número uno.
+
+La competencia para instruir los expedientes sancionadores corresponderá a la Comisión del Mercado de las Telecomunicaciones o la Comisión Nacional de Energía según se trate de conductas relacionadas con operadores en mercados o sectores sujetos a sus respectivos ámbitos de supervisión.
+
+La competencia para imponer las sanciones corresponderá al Ministro de Economía.
+
+Tanto las infracciones como las sanciones prescribirán a los tres años.
+
+En todo lo demás, en especial en lo relativo a la tramitación de los expedientes sancionadores, se observará lo dispuesto en la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común y demás normas dictadas en su desarrollo.
+
+El Gobierno podrá, mediante Real Decreto, actualizar el importe de la multa prevista en este número.
+
+Siete. La Comisión Nacional de Energía y la Comisión del Mercado de las Telecomunicaciones están legitimadas, dentro de sus respectivas competencias, para el ejercicio de las acciones tendentes a hacer efectivas las limitaciones que se recogen en este artículo.
+
+Ocho. Lo dispuesto en este precepto se entiende sin perjuicio de lo establecido en las normas sectoriales aplicables en cada caso.»

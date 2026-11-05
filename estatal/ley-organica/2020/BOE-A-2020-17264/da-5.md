@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Prioridades en los Programas de cooperación territorial.
+
+A fin de alcanzar las metas del objetivo 4 de la Agenda 2030, el Gobierno, en colaboración con las Administraciones educativas, promoverá durante el periodo de implantación de esta Ley los programas de cooperación territorial como línea estratégica de actuación, con especial atención a mejorar los niveles de escolarización accesible y asequible en el primer ciclo de educación infantil y en formación profesional, así como para promover el desarrollo de las competencias, la educación inclusiva, la prevención y reducción del abandono temprano de la educación y la formación, el plurilingüismo, el fortalecimiento de la escuela rural e insular y el desarrollo profesional docente.

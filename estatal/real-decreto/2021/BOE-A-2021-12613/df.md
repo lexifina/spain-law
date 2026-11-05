@@ -1,0 +1,3 @@
+## Disposición final primera. Carácter básico y títulos competenciales.
+
+Este real decreto tiene el carácter de legislación básica y se dicta al amparo de lo previsto en las reglas 1.ª y 30.ª del artículo 149.1 de la Constitución que atribuyen al Estado las competencias para la regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de sus derechos y en el cumplimiento de sus deberes constitucionales y la aprobación de las normas básicas para el desarrollo del artículo 27 de la Constitución a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.

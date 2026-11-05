@@ -1,0 +1,7 @@
+Con fecha 14 de febrero de 1997, el Interventor general aprobó las Normas de Auditoría del Sector Público. La elaboración de estas normas ha supuesto una adaptación y actualización de las anteriores, aprobadas en 1983, con objeto de constituir un instrumento homogeneizador y de mejora de la calidad de los trabajos de auditoría realizados en el ámbito del sector público estatal.
+
+Por otra parte, el artículo 2 del Real Decreto 339/1998, de 6 de marzo, que añade un nuevo apartado 4 al artículo 35 del Real Decreto 2188/1995, de 28 de diciembre, establece que las Normas de Auditoría e instrucciones dictadas por la Intervención General de la Administración del Estado serán de aplicación a todas las auditorías que se realicen en el ámbito del sector público estatal por los órganos funcionalmente dependientes de dicho centro directivo y los Auditores de cuentas o sociedades de auditoría de cuentas contratados al efecto.
+
+A su vez, es preciso destacar su posible extensión a otros ámbitos, como sería la Administración Local, tal como establece la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, que, en su artículo 201, apartado 3, preceptúa que el control financiero se realizará por procedimientos de auditoría de acuerdo con las Normas de Auditoría del Sector Público.
+
+Por todo lo anterior, con el fin de favorecer su conocimiento y aplicación, se considera necesario ordenar la publicación de la Resolución de 14 de febrero de 1997, que se incluye como anexo a esta Resolución.

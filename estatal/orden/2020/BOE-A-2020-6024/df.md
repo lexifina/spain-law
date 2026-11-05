@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Orden SND/439/2020, de 23 de mayo, por la que se prorrogan los controles en las fronteras interiores terrestres, aéreas y marítimas con motivo de la situación de crisis sanitaria ocasionada por el COVID-19.
+
+Se añade un nuevo párrafo h) al apartado 2 del artículo único de la Orden SND/439/2020, de 23 de mayo, por la que se prorrogan los controles en las fronteras interiores terrestres, aéreas y marítimas con motivo de la situación de crisis sanitaria ocasionada por el COVID-19 que queda redactado como sigue:
+
+> «h) Aquellas personas que accedan al territorio nacional a través de un corredor turístico regulado por la Orden del Ministro de Sanidad por la que se regula la autorización de un programa piloto de apertura de corredores turísticos seguros en la Comunidad Autónoma de Illes Balears mediante el levantamiento parcial de los controles temporales en las fronteras interiores establecidos con motivo de la situación de crisis sanitaria ocasionada por el COVID-19.»

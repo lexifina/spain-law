@@ -1,0 +1,9 @@
+La Ley 63/1997, de 26 de diciembre, de Medidas urgentes para la mejora del mercado de trabajo y el fomento de la contratación indefinida, ha modificado, entre otros, el artículo 15 de la Ley del Estatuto de los Trabajadores, texto refundido aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, donde se determinan legalmente los supuestos en que podrán celebrarse contratos de duración determinada.
+
+La redacción actual del artículo 15 del Estatuto de los Trabajadores, cuyo origen se encuentra en el Real Decreto-ley 8/1997, de 16 de mayo, y aun antes en el Acuerdo Interconfederal para la Estabilidad en el Empleo, firmado por las organizaciones empresariales y sindicales más representativas en el ámbito estatal, tiene como objetivo especificar y delimitar los supuestos de utilización de estas modalidades de contratación, especialmente de los contratos para obra o servicio y eventual por circunstancias de la producción. Objetivo al que, lógicamente, pretende igualmente servir el presente Real Decreto.
+
+Aunque las novedades legales anteriormente apuntadas no han afectado al contrato de interinidad, razones de seguridad jurídica hacen aconsejable la aprobación de un nuevo Real Decreto que ofrezca una regulación unitaria y completa de todas las modalidades de contratación de duración determinada que admite nuestro Derecho, lo que debe facilitar una adecuada y correcta utilización de las mismas.
+
+En su virtud, de conformidad con el artículo 15, apartado 5, del Estatuto de los Trabajadores y con la disposición final primera de la Ley 63/1997, de 26 de diciembre, a propuesta del Ministro de Trabajo y Asuntos Sociales, consultadas las organizaciones empresariales y sindicales más representativas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de diciembre de 1998,
+
+## DISPONGO:

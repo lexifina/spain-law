@@ -1,0 +1,7 @@
+## Disposición adicional primera.
+
+1. Las cuantías fijadas en los anexos de esta ley se actualizarán de acuerdo con los incrementos retributivos anuales que proceda aplicar a los miembros de las carreras judicial y fiscal de acuerdo con lo establecido en los Presupuestos Generales del Estado para el conjunto del sector público estatal a partir del ejercicio económico 2003.
+
+2. Los grupos de población previstos en los anexos de esta ley podrán actualizarse mediante real decreto con las cifras de población resultantes de la revisión del padrón municipal declarados oficiales por el Gobierno.
+
+3. Sin perjuicio de lo anterior, al objeto de facilitar la adecuación periódica de las retribuciones de los miembros de las carreras judicial y fiscal a los fines establecidos en esta ley, se constituirá una comisión formada por tres representantes del Ministerio de Justicia y tres del Ministerio de Hacienda, designados por los titulares de los departamentos respectivos, y tres representantes del Consejo General del Poder Judicial, designados por el Pleno de éste, y un representante de la Fiscalía General del Estado. Asimismo participarán en este órgano tres representantes de las asociaciones profesionales de las carreras judicial y fiscal. La comisión se reunirá quinquenalmente al objeto de elevar al Gobierno, a través del Ministerio de Justicia, propuestas de revisión de las retribuciones adecuadas a los principios contenidos en esta ley.

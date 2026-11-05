@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Adaptación para la acción educativa en el exterior.
+
+1. La Secretaría de Estado de Educación, Formación Profesional y Universidades podrá adaptar lo establecido en esta orden a las especiales necesidades y características de los centros en que se imparten enseñanzas de Educación Primaria en el exterior, al amparo del artículo 107.4 de la Ley Orgánica 2/2006, de 3 de mayo, y del Real Decreto 1027/1993, de 25 de junio, por el que se regula la acción educativa en el exterior.
+
+2. Para los centros españoles en el exterior, las referencias que en la presente orden se hacen a la Inspección educativa se entenderán hechas a la Inspección de educación del Departamento, integrada en la Subdirección General de Inspección.

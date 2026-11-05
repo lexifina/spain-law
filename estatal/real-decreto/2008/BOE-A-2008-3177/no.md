@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 23 de octubre de 2025, por la disposición derogatoria única.2 del Real Decreto 931/2025, de 21 de octubre, sin perjuicio de su aplicación como derecho transitorio. Ref. BOE-A-2025-21210#dd

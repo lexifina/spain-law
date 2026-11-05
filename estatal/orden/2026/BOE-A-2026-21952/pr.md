@@ -1,0 +1,27 @@
+La política de prevención del blanqueo de capitales, la financiación del terrorismo y la financiación de la proliferación de armas de destrucción masiva es esencial para garantizar la integridad del sistema financiero y, por ende, favorecer la estabilidad y el crecimiento económico de las sociedades actuales.
+
+En un entorno caracterizado por la creciente complejidad de los flujos financieros, la digitalización de las economías y el carácter transnacional e híbrido de las amenazas, es imprescindible adoptar un enfoque integral basado en el riesgo que permita detectar y mitigar todos los riesgos que pueden impactar negativamente en el funcionamiento del sistema. Para ello, es fundamental garantizar la actuación coordinada de todas las partes involucradas, desde las autoridades competentes hasta los sujetos obligados, pues solo una acción común y coherente permitirá dar una respuesta eficaz a los desafíos detectados.
+
+Precisamente, el Plan Estratégico Nacional de lucha contra el blanqueo de capitales recientemente aprobado, señala que la colaboración con el sector privado constituye una de las piezas fundamentales para poder garantizar la efectividad del sistema, al mejorar la comprensión de los riesgos, la calidad de las medidas preventivas y la utilidad de la información comunicada por y entre las autoridades competentes y los sujetos obligados. En concreto, su objetivo estratégico 5, dedicado a la mejora de la efectividad del sector privado para la prevención del blanqueo de capitales, recoge una serie de medidas dirigidas a ampliar los ámbitos de cooperación con el sector privado, y cita expresamente entre ellas el estudio de la creación de grupos de trabajo entre las autoridades competentes y el sector privado, con el objetivo de compartir información, tipologías de riesgo, operativas emergentes y buenas prácticas, para reforzar la detección temprana y facilitar el intercambio de inteligencia estratégica y operativa, de conformidad con la normativa vigente.
+
+En este contexto, y en virtud de la gran acogida que ha tenido el Plan Estratégico Nacional por parte del sector privado, resulta procedente constituir un órgano específico que sirva como vía de encuentro y que articule y canalice esta colaboración público-privada de forma estructurada y permanente, con un marco normativo específico que permita el correcto ejercicio de sus funciones.
+
+Este órgano es el Consejo Nacional para la prevención del blanqueo de capitales, la financiación del terrorismo y la financiación de la proliferación de armas de destrucción masiva, en adelante, el Consejo, que se crea por esta orden. Dicho órgano depende de la Comisión de Prevención del Blanqueo de Capitales e Infracciones Monetarias, la cual, en virtud del artículo 44.2.i) de la Ley 10/2010, de 28 de abril, de prevención del blanqueo de capitales y financiación del terrorismo, tiene entre sus funciones «servir de cauce de colaboración entre la Administración Pública y las organizaciones representativas de los sujetos obligados». Así, el Consejo tiene como objetivos servir como espacio de consulta, diálogo estratégico, intercambio de información y coordinación operativa entre los sectores público y privado, y facilitar la identificación de prioridades comunes, el análisis de las nuevas tipologías de riesgos, la difusión de buenas prácticas y el impulso de iniciativas conjuntas.
+
+Esta orden se estructura en cinco artículos, dos disposiciones adicionales y una final.
+
+El artículo 1 regula el objeto de la orden, que crea el Consejo, como órgano asesor y consultivo de la Comisión encargado de articular la participación y colaboración institucional público-privada, de acuerdo con el artículo 22.3 de la Ley 40/2015, de 1 de octubre.
+
+Los artículos 2 y 3 regulan su naturaleza jurídica y sus funciones, respectivamente.
+
+El artículo 4 recoge la composición del Pleno, que, presidido por la persona que ostente la Dirección del Servicio Ejecutivo de la Comisión, contará con vocales permanentes, con representantes de diversos órganos de la Administración General del Estado con competencias en materia de prevención del blanqueo de capitales, la financiación del terrorismo y la financiación de la proliferación de armas de destrucción masiva; y vocales no permanentes, que permitirán canalizar la participación de representantes de los sujetos del artículo 2.1 de la Ley 10/2010, de 28 de abril.
+
+El artículo 5 regula la organización y régimen de funcionamiento. Se regulan así las cuestiones relacionadas con sus reuniones, convocatorias y actas.
+
+Por otro lado, se recoge la posibilidad de constituir un comité ejecutivo y comisiones técnicas. El comité ejecutivo, formado por un máximo de 10 personas, tiene por objeto agilizar la toma de determinadas decisiones, mientras que las comisiones técnicas tendrán por objeto misiones específicas y sectoriales relacionadas con las funciones que tiene asignadas el Consejo, y servirán para garantizar el intercambio de información operativa y estratégica.
+
+Asimismo, la disposición adicional primera establece que el Consejo se constituirá en el plazo máximo de un mes desde que esta orden produzca efectos y la disposición adicional segunda la ausencia de incremento del gasto público.
+
+La disposición final única, por su parte, establece que la orden producirá efectos el día siguiente al de su publicación en el «Boletín Oficial del Estado».
+
+Se ha llevado a cabo el trámite de audiencia del texto de la orden para recabar las observaciones de los sectores afectados por la regulación.

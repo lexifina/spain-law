@@ -1,0 +1,3 @@
+## Disposición adicional primera. Inaplicación de los beneficios fiscales cuando concurran ayudas de Estado ilegales e incompatibles.
+
+No podrán disfrutar de los beneficios fiscales regulados en la Ley 19/1994, de 6 de julio, de modificación del Régimen Económico y Fiscal de Canarias, ni en la Ley 20/1991, de 7 de junio, de modificación de los aspectos fiscales del Régimen Económico Fiscal de Canarias, que constituyan ayudas estatales según el ordenamiento comunitario quienes hubieran percibido ayudas de Estado declaradas ilegales e incompatibles con el mercado común hasta que no se haya producido el reembolso correspondiente de tales ayudas.

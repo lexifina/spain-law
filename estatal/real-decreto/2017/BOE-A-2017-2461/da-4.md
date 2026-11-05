@@ -1,0 +1,7 @@
+## Disposición adicional cuarta. Registros de Operadores de Sustancias Químicas Catalogadas.
+
+1. Conforme a lo dispuesto en el artículo 3 de la Ley 4/2009, de 15 de junio, en los Ministerios del Interior y de Hacienda y Función Pública, existirán, respectivamente, un Registro de Operadores de Sustancias Químicas Catalogadas.
+
+2. La finalidad, usos, datos, estructura, órganos responsables, derechos de acceso, rectificación, cancelación y oposición, así como el nivel de seguridad del Registro General de Operadores de Sustancias Químicas Catalogadas del Ministerio del Interior, serán los que se establecen para el fichero de datos de carácter personal «Registro General de Operadores de Sustancias Químicas Catalogadas (RESUCA)» que se regula con el número 12 del apartado «Secretaría de Estado de Seguridad», del anexo II de la Orden INT/1202/2011, de 4 de mayo, por la que se regulan los ficheros de datos de carácter personal del Ministerio del Interior.
+
+3. La finalidad, usos, datos, estructura, órganos responsables, derechos de acceso, rectificación, cancelación y oposición, así como el nivel de seguridad del Registro de Operadores de Comercio Exterior de Sustancias Químicas Catalogadas, del Ministerio de Hacienda y Función Pública, serán los que se establecen en la Orden de 27 de julio de 1994 que regula los ficheros automatizados de datos de carácter personal de la Agencia Estatal de Administración Tributaria.

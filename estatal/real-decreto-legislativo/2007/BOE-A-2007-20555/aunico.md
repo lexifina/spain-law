@@ -1,0 +1,3 @@
+## Artículo único. Aprobación del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias.
+
+Se aprueba el texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, al que se incorpora lo dispuesto en la Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios, y la regulación sobre contratos con los consumidores o usuarios celebrados fuera de los establecimientos mercantiles y a distancia; las disposiciones sobre garantías en la venta de bienes de consumo; la regulación sobre responsabilidad civil por los daños causados por productos defectuosos y la regulación sobre viajes combinados.

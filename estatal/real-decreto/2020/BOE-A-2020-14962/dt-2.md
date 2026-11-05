@@ -1,0 +1,9 @@
+## Disposición transitoria segunda. Vigencia y conservación de garantías y depósitos constituidos con anterioridad a la entrada en vigor de este real decreto.
+
+1. En el caso de garantías y depósitos constituidos con anterioridad al 1 de enero de 2000, la autoridad a cuya disposición se constituyó la garantía o el depósito, dispondrá de un plazo de tres meses desde la entrada en vigor de este real decreto para comunicar a la Caja la vigencia o no de los mismos. Transcurrido este plazo sin que se haya recibido la comunicación, y realizadas las comprobaciones oportunas para considerar que ya no está vigente, la Caja podrá dar de baja en sus registros dichas garantías y depósitos, con ingreso en el Tesoro de los importes correspondientes a las garantías y depósitos en efectivo constituidos en aquella.
+
+2. No obstante lo dispuesto en el apartado anterior, si con posterioridad se constatara la vigencia de alguna garantía o depósito cuya baja se hubiera acordado, se adoptarán las medidas oportunas para su rehabilitación en los registros de la Caja.
+
+3. Lo previsto en los apartados anteriores de esta disposición será de aplicación a las garantías y depósitos constituidos desde el 1 de enero de 2000 hasta la fecha de entrada en vigor de este real decreto, cuya antigüedad sea superior a veinte años.
+
+4. En relación con las garantías ya canceladas y cuya documentación no haya sido devuelta a la entrada en vigor de este real decreto, los interesados tendrán un plazo de tres meses, a contar desde la entrada en vigor de este real decreto, para recoger los documentos con que, en su caso, fueron constituidas, transcurrido el cual la Caja procederá a su archivo o destrucción de acuerdo con la normativa aplicable. Si transcurrido el plazo de tres meses el interesado requiere los documentos y estos han sido archivados o destruidos la Caja emitirá un certificado en que conste la cancelación de la garantía.

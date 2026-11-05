@@ -1,0 +1,11 @@
+## Décimo. Información sobre agrupaciones e instalaciones relativas al cumplimiento de requisitos de respuesta frente a huecos, telemedida y adscripción a centro de control.
+
+1. El Operador del Sistema comunicará a la Comisión Nacional de los Mercados y la Competencia, un listado con todas las agrupaciones de instalaciones. En dicho listado, para las agrupaciones se incluirá el código y potencia de la agrupación, los CIL de las instalaciones que forman la agrupación y fecha de inicio de la pertenencia a la agrupación por CIL.
+
+Por otro lado, en caso que conforme a lo dispuesto en el artículo 7 del Real Decreto 413/2014, de 6 de junio, las agrupaciones de instalaciones deban cumplir obligaciones relativas al cumplimiento de telemedida o de adscripción a centros de control, se enviará un listado indicando si cada instalación cumple con los requisitos que le sean aplicables.
+
+2. El Operador de Sistema enviará asimismo un listado con las instalaciones individuales que, por su potencia unitaria, estén obligadas a estar adscritas a un centro de control o al envío de telemedida. Dichas instalaciones se identificarán por sus códigos CIL y su potencia y se indicará si se cumplen las obligaciones establecidas en el artículo 7.c del Real Decreto 413/2014, de 6 de junio.
+
+3. En caso de que como consecuencia de un alta, baja o modificación de una instalación se alteren las características de una agrupación, este hecho será comunicado en idénticos términos a los indicados en los puntos anteriores.
+
+4. Los titulares de las instalaciones individuales o pertenecientes a agrupaciones que conforme a la normativa vigente estén obligados al cumplimiento de los requisitos de respuesta frente a huecos de tensión deberán acreditar, a través de su representante, o el titular directamente si este actúa como representante, el cumplimiento de los citados requisitos, mediante un certificado emitido por una entidad autorizada por el Ministerio de Energía, Turismo y Agenda Digital que acredite dicho cumplimiento y conforme a los procedimientos reglamentariamente establecidos. En dicho certificado deberán constar los códigos CIL de las instalaciones acreditadas y, en su caso, el código de agrupación a la que pertenecen.

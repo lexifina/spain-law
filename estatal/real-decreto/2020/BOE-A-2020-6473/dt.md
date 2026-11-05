@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Aplicación a los transportes realizados desde el año 2016.
+
+En virtud de la disposición adicional centésima vigésima novena de la Ley 3/2017, de 27 de junio, de Presupuestos Generales del Estado para el año 2017 y de la disposición adicional centésima cuadragésima octava de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para el año 2018, el porcentaje del 100 por 100 regulado en los artículos 3 y 4 del presente real decreto será de aplicación a los transportes realizados desde el 1 de enero de 2016, únicamente respecto a los costes compensables recogidos en el Real Decreto 170/2009, de 13 de febrero, sobre compensación al transporte marítimo y aéreo de mercancías incluidas en el Anexo I del Tratado Constitutivo de la Comunidad Europea, con origen o destino en las Islas Canarias.
+
+La Delegación del Gobierno en la Comunidad Autónoma de Canarias podrá dictar las instrucciones necesarias relativas a la concesión de las compensaciones adicionales a las ya concedidas para los transportes realizados desde el 1 de enero de 2016.

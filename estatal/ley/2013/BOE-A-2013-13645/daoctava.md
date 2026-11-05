@@ -1,0 +1,5 @@
+## Disposición adicional octava. Informes del mercado de producción energía eléctrica. Mecanismos de mercado que fomenten la contratación a plazo.
+
+1. El Ministerio de Industria, Energía y Turismo, en virtud de lo dispuesto en el artículo 5.2 de la Ley 3/2013, de 4 de junio, podrá solicitar a la Comisión Nacional de los Mercados y la Competencia la realización de análisis relacionados con el mercado de producción y el suministro de energía eléctrica, cuando concurran razones de interés general o bien se aprecien indicios de falta de competencia efectiva.
+
+2. Se habilita a la Comisión Nacional de los Mercados y la Competencia a realizar propuesta al Gobierno para que establezca por vía reglamentaria mecanismos de mercado que fomenten la contratación a plazo de energía eléctrica. Dichos mecanismos tomarán la forma de una emisión primaria de cierta cantidad de energía eléctrica, equivalente a una potencia determinada, en las condiciones y durante el período de tiempo que se especifiquen en la emisión, u otras formas que permitan incrementar la competencia en el sistema eléctrico y liquidez de sus mercados.

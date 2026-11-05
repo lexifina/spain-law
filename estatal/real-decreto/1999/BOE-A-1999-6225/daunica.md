@@ -1,0 +1,3 @@
+## Disposición adicional única. Consorcio de Compensación de Seguros.
+
+La gestión de los bienes patrimoniales propios del Consorcio de Compensación de Seguros se llevará a cabo por sus propios órganos de gobierno y administración conforme a las atribuciones y a las normas establecidas en su Estatuto legal, aprobado por la Ley 21/1990, de 19 de diciembre, siéndole de aplicación, en defecto de aquéllas, el régimen establecido en el artículo 48 de la Ley 6/1997, de 4 de abril, salvo lo referente al informe previsto para las adquisiciones, que será potestativo. En los supuestos de enajenación de bienes patrimoniales propios, la posible incorporación del inmueble al Patrimonio del Estado se realizará previa la oportuna compensación presupuestaria de su valor.

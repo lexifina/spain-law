@@ -1,0 +1,1 @@
+"La Agencia Española de Seguridad Alimentaria" cambia su denominación por la de "Agencia Española de Seguridad Alimentaria y Nutrición", según establece la disposición final 8.1 de la Ley 44/2006, de 29 de diciembre. Ref. BOE-A-2006-22950#dfoctava

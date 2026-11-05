@@ -1,0 +1,5 @@
+## Disposición final novena. Modificación de la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses.
+
+Se modifica el párrafo segundo del apartado 2 del artículo 8 de la Ley 10/2012, de 20 de noviembre, por la que se regulan determinadas tasas en el ámbito de la Administración de Justicia y del Instituto Nacional de Toxicología y Ciencias Forenses, que queda redactado del siguiente modo:
+
+«En caso de que no se acompañase dicho justificante por no haberse realizado el pago mismo o por haberse omitido su aportación, o cuando la liquidación efectuada fuera errónea, el secretario judicial requerirá al sujeto pasivo para que lo aporte o corrija la liquidación en el plazo de diez días, no dando curso al escrito hasta que tal omisión fuese subsanada. La ausencia de subsanación de tal deficiencia o de corrección de la liquidación, tras el requerimiento del secretario judicial a que se refiere el precepto, dará lugar a la preclusión del acto procesal y a la consiguiente continuación o finalización del procedimiento, según proceda.»

@@ -1,0 +1,15 @@
+Transcurridos más de dieciséis años desde la entrada en vigor del Real Decreto 1707/1980, de 29 de agosto, por el que se regulaba la organización y funcionamiento del Centro de Estudios Constitucionales, y teniendo en cuenta la experiencia adquirida desde entonces, se estima oportuno promulgar una nueva norma en la que se redefinan sus funciones y competencias, y, de manera particular, resaltar la especial atención que merecen los temas relacionados con las instituciones propias de los países iberoamericanos, y a las relaciones de éstos con España en sus materias objeto de estudio e investigación.
+
+A tal efecto, se modifica su denominación, que pasaría a ser la de Centro de Estudios Políticos y Constitucionales, como más comprensiva de sus competencias, para lo que resulta oportuno mejorar la eficacia del organismo y potenciar las funciones de sus órganos rectores y de administración.
+
+Por otra parte, debe tenerse en cuenta que la aprobación de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado, ha supuesto un nuevo régimen regulador de los Organismos autónomos, determinándose en su disposición transitoria tercera la necesidad de adaptar los organismos existentes a la regulación de la citada Ley.
+
+El presente Real Decreto da cumplimiento a dicha previsión y procede a la adaptación del Centro de Estudios Constitucionales al tipo de Organismo autónomo, regulado en la Ley 6/1997, la cual ha de llevarse a cabo por Real Decreto, a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda y de acuerdo con el Ministerio del que depende el organismo, ya que, en este caso, la adaptación no exige incorporar peculiaridades respecto del régimen general en materia de personal, contratación y régimen fiscal.
+
+Por lo que respecta a los órganos rectores y de administración, se remodela el Consejo Rector, como consecuencia de la obligada reestructuración de determinados órganos de la Administración General del Estado. Conviene recordar que el citado Real Decreto 1707/1980, de 29 de agosto, atribuía la presidencia de dicho Consejo al Ministro adjunto al Presidente, encargado de la coordinación legislativa, figura inexistente en la actualidad, y que según el Real Decreto 325/1981, de 6 de marzo, la vicepresidencia del mismo correspondía al Secretario general de la Presidencia, dependiente en la actualidad de la Presidencia del Gobierno.
+
+Por lo demás, se ha ampliado considerablemente el número de vocales y entidades que pasan a formar parte del Consejo Rector, para poder dar cabida a instituciones y personalidades del mundo académico, investigador y docente, cuya presencia y participación enriquecerán, sin duda, las actividades encomendadas al Centro de Estudios Políticos y Constitucionales.
+
+En su virtud, a propuesta conjunta de los Ministros de Administraciones Públicas y de Economía y Hacienda, de acuerdo con el Ministerio de la Presidencia y previa deliberación del Consejo de Ministros en su reunión del día 24 de julio de 1997,
+
+DISPONGO:

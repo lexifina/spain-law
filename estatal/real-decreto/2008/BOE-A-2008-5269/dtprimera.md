@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Exigibilidad de lo dispuesto en el reglamento y sus instrucciones técnicas complementarias.
+
+1. Lo dispuesto en el Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión, así como en sus instrucciones técnicas complementarias ITC-LAT 01 a ITC-LAT 09, será de obligado cumplimiento para todas las instalaciones contempladas en su ámbito de aplicación, a partir de los dos años de la fecha de su publicación en el «Boletín Oficial del Estado». Hasta entonces seguirá siendo aplicable el Reglamento de Líneas Eléctricas Aéreas de Alta Tensión, aprobado por Decreto 3151/1968, de 28 de noviembre.
+
+2. No obstante, el Reglamento sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta tensión, así como en sus instrucciones técnicas complementarias ITC-LAT 01 a ITC-LAT 09, se podrán aplicar voluntariamente desde la entrada en vigor de este real decreto, a condición de que administrativamente se disponga de los medios para atender las necesidades de los procedimientos.

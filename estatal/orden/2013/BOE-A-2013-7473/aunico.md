@@ -1,0 +1,5 @@
+## Artículo único. Reglas de determinación de los índices que intervienen en las fórmulas de revisión de precios de los contratos públicos.
+
+1. Se aprueban las reglas de determinación de los índices que intervienen en las fórmulas de revisión de precios contenidas en el anexo a la presente orden, con indicación, para cada uno de los materiales básicos que figuran en dichas fórmulas, de los productos y ponderaciones que determinarán el valor de sus índices mensuales de precios.
+
+2. Las presentes reglas de determinación serán de aplicación general a los contratos cuya revisión de precios viene regulada por las fórmulas aprobadas por el Real Decreto 1359/2011, de 7 de octubre, por el que se aprueba la relación de materiales básicos y las fórmulas-tipo generales de revisión de precios de los contratos de obras y de contratos de suministro de fabricación de armamento y equipamiento de las Administraciones Públicas, así como a la revisión de los precios de todos los contratos sujetos a revisión de precios mediante fórmula en lo relativo a la determinación de los índices de precios de los meses posteriores a la entrada en vigor de la presente orden.

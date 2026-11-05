@@ -1,0 +1,7 @@
+Dado en Madrid, a 5 de septiembre de 2003.
+
+JUAN CARLOS R.
+
+La Ministra de Educación, Cultura y Deporte,
+
+PILAR DEL CASTILLO VERA

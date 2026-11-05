@@ -1,0 +1,9 @@
+La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, determina el cuerpo básico de garantías y responsabilidades preciso para establecer un adecuado nivel de protección de la salud de los trabajadores frente a los riesgos derivados de las condiciones de trabajo, en el marco de una política coherente, coordinada y eficaz. Según el artículo 6 de la misma serán las normas reglamentarias las que irán fijando y concretando los aspectos más técnicos de las medidas preventivas.
+
+Así, son las normas de desarrollo reglamentario las que deben fijar las medidas mínimas que deben adoptarse para la adecuada protección de los trabajadores. Entre ellas se encuentran las destinadas a garantizar que del trabajo a bordo de buques de pesca no se deriven riesgos para la seguridad o salud de los trabajadores.
+
+En el mismo sentido hay que tener en cuenta que en el ámbito de la Unión Europea se han fijado, mediante las correspondientes Directivas, criterios de carácter general sobre las acciones en materia de seguridad y salud en los centros de trabajo, así como criterios específicos referidos a medidas de protección contra accidentes y situaciones de riesgo. Concretamente, la Directiva 93/103/CE, de 23 de noviembre, establece las disposiciones mínimas de seguridad y de salud en el trabajo a bordo de los buques de pesca. Mediante el presente Real Decreto se procede a la transposición al derecho español del contenido de la Directiva mencionada.
+
+En su virtud, de conformidad con el artículo 6 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, a propuesta de los Ministros de Trabajo y Asuntos Sociales, de Fomento y de Agricultura, Pesca y Alimentación, consultadas las organizaciones empresariales y sindicales mas representativas, oída la Comisión Nacional de Seguridad y Salud en el Trabajo, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 18 de julio de 1997,
+
+DISPONGO:

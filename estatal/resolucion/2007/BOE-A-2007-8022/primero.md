@@ -1,0 +1,3 @@
+## Primero. Creación de la nueva configuración de imagen institucional «Gobierno de España».
+
+Se crea una nueva configuración de la imagen institucional de la Administración General del Estado, consistente en la inserción del logotipo «Gobierno de España» junto con los elementos básicos de dicha imagen (escudo de España y colores institucionales) establecidos en el Real Decreto 1465/1999, por el que se establecen criterios de imagen institucional y se regula la producción documental y el material impreso de la Administración General del Estado y en el Manual de Imagen Institucional aprobado por la Orden de 27 de septiembre de 1999. El logotipo mantendrá la tipografía recogida en dicho Manual.

@@ -1,0 +1,3 @@
+## Disposición adicional única. Laudos arbitrales dictados en base a los convenios de colaboración de la Comisión Consultiva Nacional del Convenios Colectivos con las Comunidades Autónomas.
+
+Cuando la solicitud corresponda al pago de un laudo dictado en base a los convenios de colaboración de la Comisión Consultiva Nacional del Convenios Colectivos con las Comunidades Autónomas a que se refiere la disposición adicional segunda del Real Decreto 1362/2012, de 27 de septiembre, la Comisión se limitará a recibir la solicitud, junto con la documentación prevista en la normativa autonómica correspondiente, dando traslado de la misma, junto con una copia del laudo, al órgano autonómico competente sin más trámite.

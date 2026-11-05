@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Tiempo mínimo de servicios efectivos en la categoría de Inspector Jefe o Inspectora Jefa para poder concurrir a las pruebas de ascenso por la modalidad de concurso-oposición a la categoría de Comisario o Comisaria.
+
+El personal funcionario de la Policía Nacional que a la entrada en vigor del reglamento ostente la categoría de Inspector Jefe o Inspectora Jefa, o ascienda a la misma tras los procesos selectivos ya iniciados a la entrada en vigor de este real decreto, podrá concurrir al proceso selectivo de ascenso a la categoría inmediatamente superior, en la modalidad de concurso-oposición, cumpliendo el tiempo mínimo de servicios efectivos de cinco años.

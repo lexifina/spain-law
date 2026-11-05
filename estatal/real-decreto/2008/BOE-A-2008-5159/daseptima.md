@@ -1,0 +1,3 @@
+## Disposición adicional séptima. Mandato a la Comisión Nacional de Energía.
+
+El Ministerio de Industria, Turismo y Comercio aprobará los objetivos y coeficientes de calidad a que hace referencia el Anexo I y los objetivos de pérdidas y el precio de energía de pérdidas a que hace referencia el Anexo II del presente real decreto. A estos efectos, antes de que transcurran nueve meses desde la entrada en vigor del presente real decreto, la Comisión Nacional de Energía presentará al Ministerio de Industria, Turismo y Comercio una propuesta de objetivos de calidad y pérdidas, coeficientes de calidad y precio de energía de pérdidas a los que hacen referencia los anexos anteriormente mencionados.

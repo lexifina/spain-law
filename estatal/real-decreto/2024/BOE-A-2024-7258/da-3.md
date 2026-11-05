@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Obligaciones en materia de información y reclamaciones.
+
+Las empresas conservadoras deben cumplir las obligaciones de información de los prestadores y las obligaciones en materia de reclamaciones establecidas, respectivamente, en los artículos 22 y 23 de la Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio, sin perjuicio de las obligaciones establecidas en la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, cuyo texto refundido se aprobó por Real Decreto Legislativo 1/2007, de 16 de noviembre, cuando sea de aplicación.

@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 14 de julio de 2021, excepto lo dispuesto en su disposición derogatoria única, por la disposición derogatoria única de la Resolución de 2 de marzo de 2021. Ref. BOE-A-2021-3419#dd

@@ -1,0 +1,15 @@
+## Duodécimo. Acceso de las personas con discapacidad.
+
+1. Las convocatorias de las pruebas selectivas correspondientes a la oferta de empleo público, deberán incluir la reserva de un cupo no inferior al siete por ciento de las vacantes para ser cubiertas entre personas con discapacidad, considerando como tales las definidas en el apartado 2 del artículo 4 del texto refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, siempre que superen los procesos selectivos y acrediten su discapacidad y la compatibilidad con el desempeño de las tareas, de modo que progresivamente se alcance el dos por ciento de los efectivos totales en cada Administración Pública.
+
+La reserva del mínimo del siete por ciento se realizará de manera que, al menos, el dos por ciento de las plazas ofertadas lo sea para ser cubiertas por personas que acrediten discapacidad intelectual y el resto de las plazas ofertadas lo sea para personas que acrediten cualquier otro tipo de discapacidad.
+
+El Ministerio de Hacienda y Función Pública realizará la distribución de la reserva de plazas dando preferencia a las vacantes en Cuerpos y Escalas cuyas funciones resulten compatibles con la existencia de una discapacidad. Dicho cupo quedará recogido, cuando corresponda, en las convocatorias específicas.
+
+2. La opción a estas plazas reservadas habrá de formularse en la solicitud de participación en las convocatorias. Quienes soliciten participar por el cupo reserva de personas con discapacidad, sea el general o el intelectual, únicamente podrán presentarse por este cupo. La contravención de esta norma determinará la exclusión del aspirante que no la hubiese observado.
+
+3. Los aspirantes con discapacidad, podrán pedir en el modelo oficial de solicitud, las adaptaciones y los ajustes razonables de tiempo y medios de las pruebas del proceso selectivo, a fin de asegurar su participación en condiciones de igualdad. De solicitar dicha adaptación, deberán adjuntar el Dictamen Técnico Facultativo emitido por el órgano técnico de calificación del grado de discapacidad, acreditando de forma fehaciente las deficiencias permanentes que han dado origen al grado de discapacidad reconocido, a efectos de que el órgano de selección pueda valorar la procedencia o no de la concesión de la adaptación solicitada.
+
+4. En el supuesto de que alguno de los aspirantes con discapacidad que se haya presentado por el cupo de reserva superase los ejercicios correspondientes, pero no obtuviera plaza por dicho cupo de reserva, y su puntuación fuera superior a la obtenida por los aspirantes del sistema general (libre o promoción interna) que pudieran obtener plaza, será incluido por su orden de puntuación en el sistema de acceso general.
+
+5. Las plazas reservadas para personas con discapacidad que queden desiertas, no podrán acumularse a los turnos ordinarios de acceso, salvo en las convocatorias de promoción interna.

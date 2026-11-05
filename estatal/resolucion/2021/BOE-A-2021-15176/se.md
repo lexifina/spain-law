@@ -1,0 +1,7 @@
+## Segundo. Pagos en firme a través del Cajero de Pagos en el exterior y de Pagos en divisas.
+
+1. Para los pagos de obligaciones contraídas en euros a acreedores directos o a través de agente mediador distinto de los «Pagos a justificar» y «Anticipos de caja fija», propuestas de mandamiento de pago por devolución de ingresos o propuestas no presupuestarias contraídas en euros distintas de la constitución o ampliación de «anticipos de caja fija» (en adelante «pagos en firme»), el centro gestor expedirá los correspondientes documentos ADOK, OK o PMP, en los que figurará como interesado el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas» y como tipo de pago el 30 «Pagos en el exterior. Obligaciones contraídas en euros».
+
+2. Para los pagos en firme de obligaciones contraídas en divisas, propuestas de mandamiento de pago por devolución de ingresos o propuestas no presupuestarias contraídas en divisas distintas de la constitución o ampliación de «anticipos de caja fija», los centros gestores expedirán los correspondientes documentos ADOK, OK o PMP, en los que figurará como el mismo interesado el tercero «DGTPF. Cajero de Pagos en el exterior y de Pagos en divisas» y como tipo de pago el 33 «Pagos en el exterior. Obligaciones contraídas en divisas».
+
+La cuantificación en euros de la obligación se realizará aplicando al importe en divisas el último tipo de cambio vendedor del Banco de España publicado en el «Boletín Oficial del Estado», el día en que se formula la propuesta al órgano competente para reconocer la obligación.

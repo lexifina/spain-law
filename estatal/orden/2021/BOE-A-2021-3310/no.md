@@ -1,0 +1,1 @@
+Téngase en cuenta que la última prórroga de esta Orden, establecida por los apartados primero y tercero de la Orden SND/363/2021, de 16 de abril, finalizó a las 24:00 horas del 3 de mayo de 2021, por lo que debe entenderse que esta norma ha perdido su vigencia.

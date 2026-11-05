@@ -1,0 +1,1 @@
+Se dejan sin eficacia las modificaciones temporales establecidas en la presente Orden, con efectos de 22 de marzo de 2022, por el apartado primero de la Orden TMA/211/2022, de 28 de febrero. Ref. BOE-A-2022-4388

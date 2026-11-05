@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Conclusión de los trabajos del Grupo de trabajo constituido para la consecución de lo previsto en la Disposición adicional 154 de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para 2021.
+
+El Grupo de trabajo constituido para la consecución de lo previsto en la Disposición adicional 154 de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para 2021 concluirá sus trabajos en el plazo de tres meses desde la entrada en vigor de la presente ley. Dichos trabajos deberán contener la referencia a las dotaciones económicas para asegurar el buen estado y adecuación de todos los elementos apropiados para la prestación correcta del servicio público de transporte de viajeros por ferrocarril.

@@ -1,0 +1,9 @@
+## Disposición adicional segunda. Valoración de incapacidades permanentes y lesiones en orden al reconocimiento del derecho a prestaciones en el Régimen de Clases Pasivas del Estado.
+
+1. Los dictámenes médicos preceptivos para la determinación de la existencia de la incapacidad permanente y, en su caso, fijación del grado de la misma, así como la verificación de lesiones, a efectos del reconocimiento del derecho a las prestaciones abonadas con cargo a los créditos de Clases Pasivas y cuya competencia esté atribuida a la Dirección General de Costes de Personal y de Pensiones Públicas, del Ministerio de Economía y Hacienda, se emitirán por el Equipo de Valoración de Incapacidades de la Dirección Provincial del Instituto Nacional de la Seguridad Social de la provincia en que tenga su domicilio el interesado.
+
+No obstante lo previsto en el párrafo anterior, la valoración de las incapacidades o la verificación de lesiones, en los supuestos de funcionarios del Cuerpo Nacional de Policía, se ajustará a lo dispuesto en el Real Decreto 1556/1995, de 21 de septiembre.
+
+2. Cuando, de conformidad con lo previsto en el artículo 5.3. del Real Decreto 1300/1995, de 21 de julio, deban realizarse informes, pruebas o exploraciones complementarias, el coste de los mismos será financiado con cargo a los créditos de la Sección correspondiente de Presupuestos de Gastos del Estado, efectuándose por el Ministerio de Economía y Hacienda el ingreso de las cantidades correspondientes en la Tesorería General de la Seguridad Social.
+
+3. Por los Ministerios de Economía y Hacienda, de Trabajo y Seguridad Social y para las Administraciones Públicas, en el ámbito de sus respectivas competencias, se dictarán las disposiciones necesarias para la aplicación y desarrollo de lo previsto en los apartados anteriores.

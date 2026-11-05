@@ -1,0 +1,3 @@
+## Disposición transitoria única. Mantenimiento de la vigencia de las Orden de 28 de febrero de 1995 por la que se desarrolla la estructura orgánica y funciones de los servicios centrales y territoriales de la Dirección General de la Policía.
+
+Hasta tanto se modifiquen los vigentes baremos de méritos aplicables a los funcionarios de la Policía Nacional para promoción interna y provisión de puestos de trabajo, continuará en vigor, a estos solos efectos, la distribución por grupos de comisarías contenida en la Orden de 28 de febrero de 1995 por la que se desarrolla la estructura orgánica y funciones de los servicios centrales y territoriales de la Dirección General de la Policía.

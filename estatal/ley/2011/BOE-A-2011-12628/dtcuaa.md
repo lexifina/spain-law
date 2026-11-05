@@ -1,0 +1,13 @@
+## Disposición transitoria cuarta. Extensión y práctica de asientos.
+
+Hasta que el Ministerio de Justicia apruebe, mediante resolución de la Dirección General de Seguridad Jurídica y Fe Pública, la entrada en servicio efectiva de las aplicaciones informáticas que permitan el funcionamiento del Registro Civil de forma íntegramente electrónica conforme a las previsiones contenidas en esta Ley, los Encargados de las Oficinas del Registro Civil practicarán en los libros y secciones correspondientes regulados por la Ley de 8 de junio de 1957 los asientos relativos a nacimientos, matrimonios, defunciones, tutelas y representaciones legales. No resultará de aplicación, en tales casos, lo previsto en esta Ley respecto del código personal.
+
+A dichos fines, mantendrán sus tareas y funciones de registro civil según lo previsto en el artículo 2.2 de la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial, en relación con los artículos 10 a 22 de la Ley del Registro Civil de 8 de junio de 1957, los que hasta el momento de la completa entrada en vigor de esta Ley hubiesen venido ejerciendo en los Registros Civiles como encargados, encargados por delegación, letrados de la Administración de Justicia y personal funcionario de los Cuerpos Generales de la Administración de Justicia y continuará aplicándose el artículo 27 de la Ley 38/1988, de 28 de diciembre, de Demarcación y de Planta Judicial.
+
+Para la tramitación de procedimientos, expedición de publicidad y práctica de asientos en los términos del párrafo anterior, en tanto no se produzca la referida entrada en servicio de las aplicaciones informáticas, serán competentes las Oficinas del Registro Civil que lo vinieran siendo conforme a las reglas previstas en los artículos 15, 16, 17, 18 y 19 de la Ley del Registro Civil de 8 de junio de 1957, que seguirán aplicándose transitoriamente a estos solos efectos.
+
+A fin de facilitar y agilizar la entrada en servicio efectivo de las aplicaciones informáticas, así como para agilizar la incorporación de datos digitalizados a los registros individuales, conforme a lo dispuesto en la disposición transitoria segunda de esta Ley, el Ministerio de Justicia, en colaboración con las Comunidades Autónomas con competencias en materia de Justicia, desarrollarán y presentarán proyectos adecuados en el marco del Plan de Transformación, Recuperación y Resiliencia.
+
+El Gobierno, a través del Ministerio de Justicia, informará periódicamente a las Cortes Generales sobre el proceso de implantación del nuevo modelo de Registro Civil.
+
+> Se modifica por el art. único.23 de la Ley 6/2021, de 28 de abril. Ref. BOE-A-2021-6945#au

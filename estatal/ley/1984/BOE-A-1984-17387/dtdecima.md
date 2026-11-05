@@ -1,0 +1,3 @@
+## Disposición transitoria decima
+
+Los funcionarios que como consecuencia de la aplicación del régimen retributivo establecido en la presente Ley experimenten una disminución en el total de sus retribuciones anuales, con exclusión del actual concepto retributivo de dedicación exclusiva y de aquellos otros que dependan exclusivamente de las características de los puestos de trabajo o del nivel de rendimiento o de productividad de los funcionarios, tendrán derecho a un complemento personal y transitorio por la diferencia, que será absorbido por cualquier futura mejora retributiva según los criterios que establezcan las sucesivas leyes de presupuestos.

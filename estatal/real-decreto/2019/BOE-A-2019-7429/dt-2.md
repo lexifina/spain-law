@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Adaptación de los programas formativos que fueron aprobados por resolución de 13 de marzo de 2020 para el ejercicio 2020.
+
+Las entidades beneficiarias a las que se les haya concedido una subvención mediante resolución de la Directora General de Desarrollo Rural, Innovación y Política Forestal de 13 de marzo de 2020, para el ejercicio 2020, dictada al amparo de Orden de convocatoria aprobada el 19 de septiembre de 2019, podrán, si lo estimaran necesario, adaptar el programa formativo aprobado mediante dicha resolución al contenido y requisitos establecidos en el presente real decreto. A estos efectos, las entidades dispondrán de un plazo de quince días a partir del día siguiente al de la publicación del Real Decreto 810/2020, de 8 de septiembre, para adaptar sus programas formativos. El documento se dirigirá al titular del Departamento y se presentará en la forma prevista en el artículo 6.
+
+Los programas formativos adaptados no podrán conllevar en ningún caso la percepción de una cuantía mayor a la inicialmente concedida, ni contradecir la normativa básica o la normativa de la Unión Europea que pueda resultar de aplicación. Dichos programas se aprobarán mediante resolución del titular del Departamento u órgano en quien delegue, previa reunión de la comisión de valoración.
+
+> Se añade por el art. 3.13 del Real Decreto 810/2020, de 8 de septiembre. Ref. BOE-A-2020-10367#at

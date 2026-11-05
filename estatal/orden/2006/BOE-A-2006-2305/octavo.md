@@ -1,0 +1,13 @@
+## Octavo. Plan Complementario.
+
+1. Según lo dispuesto en el artículo 8, apartado 2, del Real Decreto 835/2003, de 27 de junio, las Diputaciones Provinciales aprobarán un Plan complementario del Plan provincial de cooperación, para la aplicación de los remanentes de subvención estatal que se pudieran originar según lo establecido en el artículo 15 del Real Decreto 835/2003, de 27 de junio.
+
+2. La aprobación del Plan complementario podrá producirse en unidad de acto con la del Plan provincial de cooperación, como parte integrante del mismo expediente, o separadamente. El Plan complementario aprobado separadamente, en su caso, está sujeto a los mismos requisitos de contenido, procedimiento y plazos que el Plan provincial de cooperación.
+
+3. El Plan complementario deberá incluir obras independientes, por lo que no serán objeto de subvención los incrementos de coste que se produzcan en la ejecución, derivados de la reforma de los proyectos para incluir las obras complementarias que resulte necesario ejecutar como consecuencia de circunstancias imprevistas, con las limitaciones establecidas en la legislación reguladora de la contratación administrativa.
+
+4. Las Diputaciones provinciales podrán posponer la cumplimentación del programa de financiación de las obras relacionadas en el certificado correspondiente (modelo 1C) al momento en que decidan y comuniquen al Ministerio de Administraciones Públicas la aplicación de los remanentes de crédito estatal producidos, si bien consignarán la denominación de la obra, su localización y el importe del presupuesto.
+
+5. Aprobado definitivamente el Plan complementario, deberá permanecer inalterable en cuanto a las obras que lo integran, si bien, la Dirección General de Cooperación Local, excepcionalmente podrá autorizar la alteración del contenido del mismo con posterioridad a su aprobación definitiva, a solicitud motivada de las Diputaciones Provinciales con participación de los municipios afectados cuando sobrevengan circunstancias que, a juicio del citado órgano directivo, constituyan causa justificativa.
+
+6. En concurrencia con las obras del Plan complementario que deben aprobar las Diputaciones Provinciales, según lo dispuesto en el artículo 8.2 del Real Decreto 835/2003, de 27 de junio, podrán obtener subvención de la Administración General del Estado en aplicación de los remanentes que se produzcan en el crédito asignado al Plan de Cooperación, las obras incluidas en éste sin aportación de la Administración General del Estado y aquéllas que teniendo asignada subvención su importe sea inferior a los porcentajes previstos en el artículo 6 del citado Real Decreto.

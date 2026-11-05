@@ -1,0 +1,5 @@
+## Disposición final octava. Forma del contrato.
+
+El apartado 2 del artículo 8 del Texto Refundido de la Ley del Estatuto de los Trabajadores, aprobado por Real Decreto Legislativo 1/1995, de 24 de marzo, queda redactado como sigue:
+
+«2. Deberán constar por escrito los contratos de trabajo cuando así lo exija una disposición legal y, en todo caso, los de prácticas y para la formación y el aprendizaje, los contratos a tiempo parcial, fijos-discontinuos y de relevo, los contratos para la realización de una obra o servicio determinado, los de los trabajadores que trabajen a distancia y los contratados en España al servicio de empresas españolas en el extranjero. Igualmente constarán por escrito los contratos por tiempo determinado cuya duración sea superior a cuatro semanas. De no observarse tal exigencia, el contrato se presumirá celebrado por tiempo indefinido y a jornada completa, salvo prueba en contrario que acredite su naturaleza temporal o el carácter a tiempo parcial de los servicios.»

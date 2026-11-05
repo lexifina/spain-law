@@ -1,0 +1,5 @@
+## Artículo 8. Justificación de las subvenciones.
+
+La justificación de las subvenciones, por parte de los beneficiarios, se hará antes del 31 de marzo del año siguiente a la concesión, mediante la presentación en la Subdirección General de Administración Financiera del Ministerio de Trabajo y Asuntos Sociales, de la cuenta justificativa con aportación de justificantes de gasto con el contenido previsto en el artículo 72 del Reglamento de desarrollo de la Ley General de Subvenciones, aprobado por Real Decreto 887/2006, de 21 de julio. No obstante, para subvenciones concedidas por importe inferior a 60.000 euros, podrá presentarse la cuenta justificativa simplificada regulada en el artículo 75 del citado Reglamento.
+
+Se consideran gastos subvencionables aquellos que de manera indubitada respondan a la naturaleza de la actividad subvencionada y se hayan realizado en el año natural de la correspondiente convocatoria. Los gastos a los que refiere el artículo 31.7 de la Ley 38/2003, de 17 de noviembre, serán subvencionables siempre que sean indispensables para la adecuada preparación o ejecución de la actividad subvencionada.

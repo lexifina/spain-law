@@ -1,0 +1,3 @@
+## Disposición adicional primera. Actuación previa en el ámbito de ordenación de los seguros privados.
+
+En el ámbito de la ordenación de los seguros privados, tendrá el carácter de actuación previa, a los efectos del artículo 12 del Reglamento del procedimiento para el ejercicio de la potestad sancionadora, la tramitación que se efectúe como consecuencia de las comunicaciones formuladas por los asegurados al amparo del artículo 35.2 de la Ley 33/1984, de 2 de agosto, sobre ordenación del seguro privado, sin perjuicio de la publicidad que deba darse a las resoluciones que pongan término a tales procedimientos.

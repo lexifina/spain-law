@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Tramitación electrónica.
+
+1. Las normas reguladoras de la tramitación electrónica del procedimiento no entrarán en vigor con respecto de la presentación de los escritos de interposición de recursos, reclamaciones y cuestiones de nulidad hasta transcurridos tres meses desde la entrada en vigor de este Reglamento. En todo caso, la fecha en que la misma deba producirse se difundirá mediante avisos en la página web del Ministerio de Hacienda y Administraciones Públicas y del Tribunal Administrativo Central de Recursos Contractuales.
+
+2. Transcurrido el plazo a que se refiere el apartado anterior y en tanto no se produzca el desarrollo mediante orden ministerial previsto en el artículo 39 de este reglamento, para la tramitación electrónica de los expedientes, la presentación del recurso, de la reclamación o de las cuestiones de nulidad deberá realizarse a través del formulario electrónico general previsto en el artículo 11 de la Orden HAP/547/2013, de 2 de abril, por la que se crea y se regula el Registro Electrónico del Ministerio de Hacienda y Administraciones Públicas.

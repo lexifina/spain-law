@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Edificio de consumo de energía casi nulo.
+
+Se define como edificio de consumo de energía casi nulo, en el ámbito de la Directiva 2010/31/UE del Parlamento Europeo y del Consejo, de 19 de mayo de 2010, relativa a la eficiencia energética de los edificios, aquel edificio con un nivel de eficiencia energética muy alto, que se determinará de conformidad con el anexo I de la citada Directiva. La cantidad casi nula o muy baja de energía requerida debería estar cubierta, en muy amplia medida, por energía procedente de fuentes renovables, incluida energía procedente de fuentes renovables producida «in situ» o en el entorno.

@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Expedientes de desahucio.
+
+En los expedientes de desahucio que se encuentren en tramitación a la entrada en vigor de este real decreto y en aquellos sobre los que habiendo recaído resolución administrativa no se haya dictado sentencia firme, en los que concurran las condiciones y requisitos que se establecen en los artículos 23 y 29 del estatuto que se aprueba por medio de este real decreto, por acreditarse la residencia habitual o la concurrencia de situaciones de grave necesidad, se dictará de oficio resolución de archivo o, en su caso, se desistirá de la solicitud de autorización judicial de entrada en el domicilio de la vivienda militar, cualquiera que sea la fase en que se encuentre el procedimiento, aunque hubiere recaído el correspondiente auto.
+
+El plazo de seis meses que se contiene en el artículo 22.5 del estatuto que se aprueba por medio de este real decreto será aplicable a todos aquellos expedientes de desahucio que se hallaren en tramitación a la entrada en vigor de este real decreto.

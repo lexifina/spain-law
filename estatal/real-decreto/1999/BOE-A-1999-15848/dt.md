@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Período transitorio de la integración.
+
+1. Los funcionarios integrados, cualquiera que sea su situación administrativa, podrán participar en los concursos de traslado que convoquen el Ministerio de Educación y Cultura y las Comunidades Autónomas en pleno ejercicio de sus competencias en materia de educación, siempre que a la finalización del curso escolar en el que se realicen las convocatorias hayan transcurrido al menos dos años desde la entrada en vigor del presente Real Decreto, a excepción de las plazas que se convoquen para establecimientos penitenciarios.
+
+2. A los profesores de Enseñanza General Básica de Instituciones Penitenciarias en situación distinta a la de servicio activo sin comportar reserva de puesto de trabajo y que soliciten su reingreso durante el período de dos años desde la entrada en vigor del presente Real Decreto, les será concedido un puesto de servicio educativo en los establecimientos penitenciarios mediante los procedimientos establecidos por la Administración educativa competente, conforme a la normativa vigente.

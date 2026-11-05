@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Vigencia de las delegaciones efectuadas.
+
+Hasta que se apruebe una nueva Orden ministerial por la que se deleguen, tanto las competencias desconcentradas como las facultades reservadas por el Ministro y el Secretario de Estado de Defensa en los artículos 2 y 3, los órganos de contratación constituidos por la Orden ministerial DEF/3389/2010, de 28 de diciembre, de delegación de competencias en el ámbito del Ministerio de Defensa, modificada por las Órdenes DEF/477/2011, de 16 de febrero, DEF/3512/2011, de 28 de noviembre, y DEF/2021/2011, de 13 de julio, continuarán ejerciendo las competencias delegadas, ajustándose al ámbito de aplicación, limitaciones y condiciones establecidas en este real decreto.

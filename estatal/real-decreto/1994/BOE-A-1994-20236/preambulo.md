@@ -1,0 +1,11 @@
+La Ley 8/1980, de 10 de marzo, del Estatuto de los Trabajadores, ha sido reformada por la Ley 11/1994, de 19 de mayo, por la que se modifica determinados artículos del Estatuto de los Trabajadores, del Texto Articulado de la Ley de Procedimiento Laboral y de la Ley sobre Infracciones y Sanciones en el Orden Social.
+
+En el título II del Estatuto de los Trabajadores se han introducido importantes novedades. Así, se da nueva redacción a los artículos dedicados a la promoción de elecciones, a la celebración de éstas o a las funciones de la mesa electoral, al mismo tiempo que se crean nuevas figuras e instituciones jurídicas, como la oficina pública de registro de actas o el procedimiento de reclamaciones en materia electoral, en el que se sustituye la actuación de órganos tripartitos por un sistema arbitral.
+
+Por todo ello, y en virtud de la disposición final cuarta de la Ley 11/1994, de 19 de mayo, que habilita al Gobierno para elaborar un Reglamento para la celebración de elecciones a los órganos de representación de los trabajadores en las empresas, se dicta el presente Real Decreto de aprobación de dicho Reglamento.
+
+El Reglamento contiene tres capítulos claramente diferenciados. El capítulo I sustituye al anterior Real Decreto 1311/1986, de 13 de junio, sobre normas para la celebración de elecciones a los órganos de representación de los trabajadores en la empresa, introduciendo los nuevos elementos que configuran el procedimiento electoral. Asimismo, se mantiene la regulación de los sectores con procedimientos electorales específicos. El capítulo II establece el régimen jurídico de la nueva oficina pública de registro, depósito y publicidad, dependiente de la autoridad laboral. Por último, el capítulo III contiene las normas de desarrollo del procedimiento arbitral de impugnación de elecciones sindicales a representantes de los trabajadores en la empresa, creado en el artículo 76 del Estatuto de los Trabajadores.
+
+En su virtud, a propuesta del Ministro de Trabajo y Seguridad Social, con aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión de 9 de septiembre de 1994,
+
+D I S P O N G O :

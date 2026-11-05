@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Colaboración entre los centros de Formación Profesional y los centros universitarios.
+
+Mediante los instrumentos normativos o jurídicos que correspondan, y sin perjuicio de las competencias de las administraciones educativas y de las universidades, los ministerios de Educación y Formación Profesional, y de Universidades, promoverán la colaboración entre los centros de formación profesional y los centros universitarios con el objeto de desarrollar nuevos modelos de relaciones entre el tejido productivo, las universidades y la formación profesional, con el fin de crear innovación científica y empresarial y optimizar recursos.

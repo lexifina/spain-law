@@ -1,0 +1,23 @@
+## Artículo cuarenta y cinco. Pensiones no revalorizables para 1992.
+
+Uno. No experimentarán revalorización en 1992 las pensiones abonadas con cargo a cualesquiera de los regímenes o sistemas de previsión enumerados en el artículo 37 de la Ley 4/1990, de Presupuestos Generales del Estado para 1990, cuyo importe íntegro mensual, sumado, en su caso, al importe íntegro mensual de las otras pensiones públicas percibidas por su titular, exceda de 233.631 pesetas íntegras en computo mensual, entendiéndose esta cantidad en los términos expuestos en el último inciso del primer párrafo del apartado dos del precedente artículo 43.
+
+No obstante, están exceptuadas de la aplicación de esta norma las pensiones extraordinarias del régimen de Clases Pasivas del Estado, de la Seguridad Social y de la Mutualidad Nacional de Previsión de la Administración Local, originadas en actos terroristas, así como las pensiones mejoradas al amparo del Real Decreto-ley 19/1981, de 30 de octubre.
+
+Dos. Tampoco experimentarán revalorización en 1992 las pensiones públicas siguientes:
+
+a) Las pensiones de Clases Pasivas reconocidas a favor de los Camineros del Estado y causadas con anterioridad a 1 de enero de 1985, con excepción de aquéllas cuyo titular sólo percibiera esta pensión como tal Caminero.
+
+b) Las pensiones de orfandad a que se refiere el párrafo segundo, del artículo 4.3, de la Ley 5/1979, de 18 de septiembre, añadido por el artículo 2 de la Ley 42/1981, de 28 de octubre, así como las pensiones a que se refiere el artículo 4.2 de la citada Ley 5/1979.
+
+c) Las pensiones de orfandad a que se refiere el párrafo segundo del artículo 17 de la Ley 35/1980, de 26 de julio, añadido por el artículo 3.º de la Ley 42/1981, de 28 de octubre.
+
+d) Las pensiones del extinguido Seguro Obligatorio de Vejez e Invalidez cuando entren en concurrencia con otras pensiones públicas.
+
+No obstante lo dispuesto en el párrafo anterior, cuando la suma de todas las pensiones concurrentes y las del citado seguro obligatorio de vejez e invalidez, una vez revalorizadas aquéllas, sea inferior a las cuantías fijas señaladas para tal seguro en el artículo 49 de esta Ley, calculadas unas y otras en computo anual, la pensión del Seguro Obligatorio de Vejez e Invalidez se revalorizara en un importe igual a la diferencia resultante. Esta diferencia no tiene carácter consolidable, siendo absorbible con cualquier incremento que puedan experimentar las percepciones del interesado, ya sea en concepto de revalorizaciones o por reconocimiento de nuevas prestaciones de carácter periódico.
+
+e) Las mejoras sobre las prestaciones básicas establecidas en la Mutualidad Nacional de Previsión de la Administración Local y los haberes reguladores para determinar el valor del Capital del Seguro de Vida.
+
+f) Las pensiones de las Mutualidades integradas en el Fondo Especial de la Mutualidad General de Funcionarios Civiles del Estado que, en 31 de diciembre de 1991, hubieran ya alcanzado las cuantías correspondientes al 31 de diciembre de 1973.
+
+Tres. En el caso de que Mutualidades, Montepíos o Entidades de Previsión Social de cualquier tipo que integren a personal perteneciente a Empresas o Sociedades con participación mayoritaria del Estado, de Comunidades Autónomas, de Corporaciones Locales o de Organismos autónomos y se financien con fondos procedentes de dichos órganos o Entidades públicas, o en el caso de que éstos, directamente, estén abonando al personal incluido en la acción protectora de aquéllas, pensiones complementarias por cualquier concepto sobre las que les correspondería abonar a los regímenes generales que sean de aplicación, las revalorizaciones a que se refiere el artículo 44 serán consideradas como límite máximo, pudiendo aplicarse coeficientes menores, e incluso inferiores que la unidad, a dichas pensiones complementarias, de acuerdo con sus regulaciones propias o con los pactos que se produzcan.

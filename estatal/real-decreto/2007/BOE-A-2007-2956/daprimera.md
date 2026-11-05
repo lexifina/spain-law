@@ -1,0 +1,3 @@
+## Disposición adicional primera. Valoración del título profesional en el acceso a las enseñanzas superiores.
+
+Para hacer efectivo lo previsto en el artículo 54.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, en relación con la prueba de acceso a las enseñanzas superiores, la nota media del expediente de los estudios profesionales constituirá como máximo el cincuenta por ciento de la nota de la prueba en el caso de los alumnos y las alumnas que opten a ella y estén en posesión del título profesional de danza. Corresponde a las Administraciones educativas la concreción de ese tanto por ciento.

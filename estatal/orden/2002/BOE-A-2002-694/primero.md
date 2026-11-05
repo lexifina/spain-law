@@ -1,0 +1,3 @@
+## Primero. Objeto.
+
+La presente Orden se dicta en desarrollo y aplicación de lo dispuesto en los puntos 1, 2, 4 y 7 del artículo 8, en el punto 3 del artículo 9 y en el apartado 1 de la disposición transitoria única del Reglamento que establece condiciones de protección del dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y medidas de protección sanitaria frente a emisiones radioeléctricas, aprobado mediante el Real Decreto 1066/2001, de 28 de septiembre, y tiene por objeto regular las condiciones, contenido y formatos de los estudios y certificaciones a los que se hace referencia en los citados artículos, que los operadores de servicios de radiocomunicación deben presentar al Ministerio de Ciencia y Tecnología.

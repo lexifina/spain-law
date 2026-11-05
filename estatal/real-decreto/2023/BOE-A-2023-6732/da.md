@@ -1,0 +1,3 @@
+## Disposición adicional primera. Relación por medios electrónicos.
+
+Todos los operadores y obligados previstos en el capítulo I del presente reglamento, así como los transportistas y titulares de depósitos y almacenes, obligados por la misma normativa, deberán relacionarse exclusivamente por medios electrónicos a través de los formularios y aplicaciones previstas para este fin en la sede electrónica de la Agencia Estatal de Administración Tributaria, en los términos previstos en la Resolución de 28 de diciembre de 2009, de la Presidencia de la Agencia Estatal de Administración Tributaria, por la que se crea la sede electrónica y se regulan los registros electrónicos de la Agencia Estatal de Administración Tributaria.

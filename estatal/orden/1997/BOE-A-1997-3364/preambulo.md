@@ -1,0 +1,9 @@
+Tanto la Normativa Reguladora del Régimen General de Extranjería (Ley Orgánica 7/1985, de 1 de julio, sobre derechos y libertades de los extranjeros en España y su desarrollo por el Real Decreto 155/1996, de 2 de febrero) y del Régimen Comunitario (Real Decreto 776/1992, de 26 de junio, sobre entrada y permanencia en España de nacionales de Estados miembros de las Comunidades Europeas, modificado por el Real Decreto 737/1995, de 5 de mayo), como la relativa al Derecho de Asilo (Ley 5/1984, de 26 de marzo, reguladora del derecho de asilo y de la condición de refugiado, modificada por la Ley 9/1994, de 19 de mayo) prevén la obligación de la Administración de expedir un documento a los extranjeros destinado a acreditar su permanencia legal en España.
+
+Es por ello que tales documentos para extranjeros además del carácter oficial por su origen, tienen por finalidad reflejar y acreditar las diversas circunstancias características de la situación legal de los mismos, así como la identificación de cada interesado, logrando, de este modo, que el mismo pueda justificar oficialmente el hecho de hallarse legalmente en España.
+
+Para lograr estos propósitos es menester, de una parte, unificar todos los documentos de extranjeros que en la actualidad se expiden en un solo modelo de documento, la Tarjeta de Extranjero, propiciando no sólo un mejor conocimiento de los funcionarios encargados del control de extranjeros, sino también su utilización en el desenvolvimiento de actividades públicas o privadas de la más variada índole. Y, de otra parte, es necesario dar cumplimentación a la habilitación que el Reglamento de ejecución de la Ley Orgánica 7/1985, en su artículo 62.1, concede al Ministerio del Interior para dictar las disposiciones necesarias que determinen las características del documento de extranjero previo informe de la Comisión Interministerial de Extranjería.
+
+En su virtud, previo informe favorable de la citada Comisión,
+
+DISPONGO:

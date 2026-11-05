@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Aplicación de la mejora a las pensiones reconocidas con anterioridad a la entrada en vigor de este real decreto.
+
+Las pensiones ordinarias de viudedad reconocidas en el periodo comprendido entre la fecha de entrada en vigor de la Ley 6/2018, de 3 de julio, de Presupuestos Generales del Estado para 2018 y la de este real decreto, se revisarán de oficio por las Direcciones Generales competentes señaladas en el artículo 4 de este real decreto, siempre que las personas beneficiarias cumplan los requisitos previstos en el artículo 2. Los efectos de esta revisión se retrotraerán a la fecha de efectos de la pensión inicialmente reconocida, sin que puedan ser anteriores al día primero del mes siguiente al de la fecha de entrada en vigor de la Ley de Presupuestos Generales del Estado para el año 2018.
+
+A estos efectos, se presumirá que concurre el requisito previsto en el artículo 2.d) cuando los rendimientos obtenidos de acuerdo con la última información facilitada por la Administración Tributaria no superen el límite establecido para ser persona beneficiaria de la pensión mínima de viudedad en el año 2018.

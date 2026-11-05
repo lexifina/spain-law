@@ -1,0 +1,7 @@
+## Disposición final primera. Modificación del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público.
+
+Se modifica la disposición adicional sexta del Real Decreto-ley 8/2010, de 20 de mayo, por el que se adoptan medidas extraordinarias para la reducción del déficit público, que quedará redactada como sigue:
+
+«Disposición adicional sexta. Aplazamiento y periodificación del abono de los efectos retroactivos de las prestaciones económicas previstas en la Ley 39/2006, de 14 de diciembre.
+
+Las cuantías en concepto de efectos retroactivos de las prestaciones económicas previstas en el artículo 18 de la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para los casos en que los mismos se hayan generado desde la fecha de la solicitud, podrán ser aplazadas y su abono periodificado en pagos anuales de igual cuantía, en un plazo máximo de ocho años desde la fecha de la resolución firme de reconocimiento expreso de la prestación, si así se acuerda por las administraciones competentes. El aplazamiento deberá ser notificado a la persona beneficiaria de la prestación y a la Administración General del Estado a los efectos de que por ésta se regularice su pago a la comunidad autónoma en lo que respecta al nivel mínimo.»

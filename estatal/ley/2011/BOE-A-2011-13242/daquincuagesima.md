@@ -1,0 +1,3 @@
+## Disposición adicional quincuagésima. Deudas con la Seguridad Social de instituciones sanitarias cuya titularidad ostenten las Administraciones Públicas o instituciones sin ánimo de lucro.
+
+Con pleno respeto al equilibrio contable y patrimonial del sistema de la Seguridad Social, el Gobierno presentará, en el plazo de un año, un Informe que contenga propuestas concretas para resolver la situación de la deuda sanitaria recogida en la disposición adicional trigésima de la Ley 41/1994, de 30 de diciembre, de Presupuestos Generales del Estado para 1995 y que desde entonces ha sido objeto de reiteradas prórrogas en las sucesivas Leyes de Presupuestos y decretos-leyes de prórroga presupuestaria.

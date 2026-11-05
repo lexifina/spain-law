@@ -1,0 +1,31 @@
+El virus de la hepatitis C (VHC) fue identificado y descrito a mediados de 1989, pero hasta el año 1990 no se dispuso de los medios técnicos adecuados para prevenir su transmisión a través de la sangre y productos hemoderivados, en forma de un test de detección de anticuerpos del VHC que empezó a aplicarse con carácter obligatorio en todas las unidades de sangre o plasma extraídas en los bancos de sangre, a tenor de lo dispuesto en la Orden del Ministerio de Sanidad y Consumo de 3 de octubre de 1990.
+
+Por tanto, en estas circunstancias, las personas afectadas por hemofilia u otras coagulopatías congénitas estuvieron expuestas al riesgo de contraer la hepatitis C, como consecuencia de los tratamientos periódicos que debían recibir con concentrados de factores de coagulación.
+
+Debido a esta situación hay un determinado número de personas, pertenecientes a este colectivo, que resultaron contagiadas y desarrollaron la enfermedad de la hepatitis C, como consecuencia de tratamientos recibidos en el sistema sanitario público, en un momento en el que el estado de la ciencia no permitía disponer de medidas oportunas para prevenir esta transmisión.
+
+El perjuicio de este contagio en las personas afectadas de hemofilia u otras coagulopatías congénitas es especialmente gravoso, no sólo por el elevado número de afectados, más del 60 por ciento, sino también por los efectos añadidos que supone la hepatitis C en unos pacientes que previamente tienen un proceso crónico como el señalado.
+
+En respuesta a esta situación, la Ley 55/1999, de 29 de diciembre, de Medidas fiscales, administrativas y del orden social, en su artículo 80, dispuso que estas personas tendrían derecho a una ayuda social, para lo que encomendó al Gobierno la elaboración del correspondiente censo de afectados, así como la preparación de un proyecto de ley en el que se establecieran las condiciones y la cuantía de la ayuda a la que podrían acceder las personas incluidas en el mencionado censo.
+
+Para la elaboración de este censo se creó una Comisión Gestora, regulada mediante la Orden del Ministerio de Sanidad y Consumo de 21 de marzo de 2000, en la que se integraron representantes de los afectados, de las comunidades autónomas y de la Administración General del Estado, así como especialistas en la materia. Con carácter previo, y en desarrollo de lo dispuesto en el artículo 80.2 de la citada Ley 55/1999, mediante la Orden del Ministerio de Sanidad y Consumo de 18 de enero de 2000, se procedió a la constitución del Comité Técnico que había de determinar los criterios médicos para la inclusión de los posibles afectados en el mencionado censo.
+
+Además, mediante la Orden del Ministerio de Sanidad y Consumo de 25 de mayo de 2000, se crearon y regularon dos ficheros con datos de carácter personal, gestionados por el Ministerio de Sanidad y Consumo, y referidos al censo provisional y al censo definitivo de afectados, con lo que se garantizó la debida confidencialidad de éstos, tal y como preveía el artículo 80.1 de la Ley 55/1999, en consonancia con el artículo 5.1 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal. Igualmente y en cumplimiento de esta última, se comunicó a los interesados la existencia de estos ficheros, facilitándoles la información precisa para que pudieran hacer efectivo el ejercicio de los derechos de acceso, rectificación, cancelación y oposición.
+
+El censo provisional, elaborado a partir de los datos suministrados por los centros sanitarios públicos, tal y como se establece en el artículo 80.2 de la Ley 55/1999, fue aprobado el 19 de julio de 2000 por la Comisión Gestora. Una vez publicado y notificado a los interesados, se estableció un plazo de dos meses a fin de que pudieran incorporarse aquellas personas no incluidas, previa presentación de las aportaciones documentales requeridas.
+
+Finalmente, el censo definitivo de personas con hemofilia y otras coagulopatías congénitas que han desarrollado la hepatitis C como consecuencia de haber recibido tratamiento con concentrados de factores de coagulación en el sistema sanitario público, fue aprobado el 21 de noviembre de 2000 por la Comisión Gestora y publicado con la confidencialidad exigida.
+
+Posteriormente, en cumplimiento de lo dispuesto en el artículo 80.4 de la mencionada Ley 55/1999, se procedió mediante la Ley 14/2002, de 5 de junio, por la que se establecen ayudas sociales a las personas con hemofilia u otras coagulopatías congénitas que hayan desarrollado la hepatitis C como consecuencia de haber recibido tratamiento con concentrados de factores de coagulación en el ámbito del sistema sanitario público, y otras normas tributarias, a regular las condiciones y la cuantía de las ayudas sociales a las que pueden acceder las personas incluidas en el citado censo, que se fijó en 18.030,36 euros.
+
+Por otra parte, en la disposición adicional primera de la Ley 14/2002, de 5 de junio, se prevé que, mediante desarrollo reglamentario, se regule la posibilidad de que puedan percibir las ayudas previstas en ella aquellas personas que no figuren incluidas en el censo definitivo previsto en el artículo 80 de la Ley 55/1999, de 29 de diciembre, pero que reúnan, conforme a circunstancias objetivas y debidamente acreditadas, los requisitos exigidos.
+
+Los objetivos de este real decreto son regular el procedimiento de solicitud de inclusión en el censo y el de concesión de las ayudas sociales en los plazos fijados en la ley.
+
+Se crea una Comisión de Evaluación, que tendrá las funciones de elevar las propuestas de inclusión en el censo de aquellas personas con hemofilia u otra coagulopatía congénita que reúna los requisitos exigidos. Asimismo será la encargada de formular las propuestas de resolución de las solicitudes de ayuda social.
+
+Este real decreto desarrolla lo previsto en el artículo 3.2 y en la disposición adicional primera de la Ley 14/2002, de 5 de junio, y en su elaboración han sido oídos los sectores afectados y consultadas las comunidades autónomas y las ciudades de Ceuta y Melilla.
+
+En su virtud, a propuesta de la Ministra de Sanidad y Consumo, con la aprobación del Ministro de Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de marzo de 2003,
+
+DISPONGO:

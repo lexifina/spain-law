@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Personal funcionario transferido.
+
+Los funcionarios de carrera que accedieron a la función pública docente mediante convocatoria realizada por el Ministerio de Educación antes de completarse el proceso de transferencia de las competencias educativas a las Comunidades Autónomas y que no hayan obtenido su primer destino definitivo, podrán participar en el concurso de traslados de ámbito estatal, a efectos de obtener su primer destino definitivo en alguna de las Comunidades que en el momento de la convocatoria del proceso selectivo formaran parte del ámbito de gestión del Ministerio de Educación.

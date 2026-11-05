@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Orden FOM/2924/2006, de 19 de septiembre, por la que se regula el contenido mínimo del informe anual para el transporte de mercancías peligrosas por ferrocarril o por vía navegable", con efectos de 2 de enero de 2019, según establece el apartado 6.1 de la Orden FOM/606/2018, de 25 de mayo. Ref. BOE-A-2018-7511#se-2

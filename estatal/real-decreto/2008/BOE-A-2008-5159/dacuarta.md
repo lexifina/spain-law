@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Exclusión de la aplicación de los pagos por capacidad para determinadas instalaciones reguladas en el Real Decreto 661/2007, de 25 de mayo.
+
+Con efectos desde el 1 de octubre de 2007, quedan excluidas del cobro de prestación del servicio de capacidad regulado en el anexo III de la Orden ITC/2794/2007, de 27 septiembre, por la que se revisan las tarifas eléctricas a partir del 1 de octubre de 2007, las instalaciones de régimen especial de las categorías a), c) y de los grupos b.6, b.7 y b.8 de la categoría b), así como aquellas a las que les sea de aplicación, el artículo 45, el artículo 46 o la disposición adicional sexta del Real Decreto 661/2007, de 25 de mayo.

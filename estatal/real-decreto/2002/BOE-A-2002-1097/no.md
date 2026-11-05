@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencias del Reglamento de Circulación Aérea al Real Decreto 552/2014, de 27 de junio, deben entenderse realizadas al Real Decreto 1180/2018, de 21 de septiembre, según establece la disposición final primera del Real Decreto 426/2021, de 15 de junio. Ref. BOE-A-2021-10028

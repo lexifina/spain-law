@@ -1,0 +1,17 @@
+## Disposición adicional tercera. Medidas destinadas a asegurar la finalización de los proyectos de producción con derecho de acceso a la red.
+
+1. Se modifican las cuantías a que hacen referencia los artículos 59 bis.1 y 66 bis.1 del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, las cuales se fijan en 40 €/kW instalado.
+
+2. En los puntos de conexión de tensión superior a 36 kV, en los que la totalidad o parte de las actuaciones realizadas en las redes de transporte o distribución deban ser sufragadas por los titulares de los permisos de acceso y conexión y éstas deban ser desarrolladas por el transportista o distribuidor, los titulares de dichos permisos deberán presentar al titular de la red un pago de un diez por ciento del valor de la inversión de las actuaciones en la red, en un plazo no superior a 12 meses desde la obtención de los permisos. El porcentaje y el plazo indicados podrán modificarse por real decreto del Consejo de Ministros.
+
+Transcurridos el plazo anterior sin que se abonen al titular de la red el importe las cuantías económicas señaladas en el párrafo anterior, se producirá la caducidad de los permisos de acceso y conexión.
+
+3. Una vez abonado el importe indicado en el apartado anterior y obtenida la autorización administrativa previa de la instalación de producción, el titular del permiso de acceso y conexión suscribirá con el titular de la red, antes de que transcurran cuatro meses desde el último de los dos hitos anteriores, un contrato de encargo de proyecto por las instalaciones de la red a las que el productor conectará su instalación. En este contrato deberán recogerse los pagos, adicionales a los importes referidos en los apartados 2, para el desarrollo y ejecución de la instalación por parte del titular de la red que deban sufragar los sujetos que desean conectarse a la red. El plazo indicado podrá modificarse por real decreto del Gobierno.
+
+En caso de desistimiento por parte del solicitante, podrá recuperar los costes abonados a excepción de los costes no recuperables incurridos hasta ese momento por el titular de la red, en relación a la tramitación y construcción de la instalación de la red, y se producirá la caducidad de los permisos de acceso y conexión.
+
+4. Los titulares de los permisos de acceso y conexión deberán de acreditar hitos de avance en los proyectos. A tal efecto, reglamentariamente se establecerán los plazos en los que el solicitante deberá acreditar que ha realizado las solicitudes de declaración de impacto ambiental y de autorizaciones administrativas previas, de construcción y de explotación, y los plazos en que deberá haber logrado la obtención de las mismas.
+
+5. Los permisos de acceso y conexión de una instalación de generación, sólo serán válidos para la construcción y funcionamiento de dicha instalación. A tal efecto, reglamentariamente se definirán los criterios para que una instalación sea considerada la misma a los efectos de validez de los permisos de acceso y conexión.
+
+6. El incumplimiento de lo previsto en los apartados 2, 3 y 5 anteriores por causas imputables al interesado supondrá la ejecución de las garantías económicas presentadas para la tramitación de la solicitud de acceso a las redes de transporte y distribución.

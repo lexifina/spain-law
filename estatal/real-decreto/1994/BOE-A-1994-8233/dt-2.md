@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Promoción interna.
+
+1. Los Capitanes y Tenientes de Navío pertenecientes a las Escalas de Complemento que se encuentren en situación de servicio activo que no se integren en militar de empleo de la categoría de oficial podrán participar en las convocatorias para acceso por promoción interna a la Escala Superior o Media del Cuerpo al que complementan, siempre que reúnan las condiciones que se establecen en el presente Real Decreto, en el Real Decreto 562/1990, de 4 de mayo, por el que se aprueba el Reglamento General de ingreso en los centros docentes militares de formación y de acceso a la condición de militar de empleo y las que se establezcan en la convocatoria correspondiente.
+
+2. Hasta el 31 de diciembre de 1997, no se exigirá límite de edad para el acceso por promoción interna de los militares de empleo de la categoría de oficial y de los Capitanes y Tenientes de Navío pertenecientes a las Escalas de Complemento a los centros docentes militares de formación de grado medio o superior.

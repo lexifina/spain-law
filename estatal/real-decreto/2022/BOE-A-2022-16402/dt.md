@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Normas transitorias para la adaptación de las aeronaves a lo dispuesto en este real decreto.
+
+Los certificados de aeronavegabilidad restringidos emitidos con anterioridad a la entrada en vigor de este real decreto, para aeronaves que no cumplan con la limitación establecida en el primer párrafo de la disposición adicional primera, mantendrán su validez hasta la finalización del periodo transitorio que se fije en la normativa por la que se sustituya y derogue la Orden de 14 de noviembre de 1988, por la que se establecen los requisitos de aeronavegabilidad para las Aeronaves Ultraligeras Motorizadas (ULM).

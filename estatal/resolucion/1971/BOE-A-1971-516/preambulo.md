@@ -1,0 +1,1 @@
+En cumplimiento de lo que dispone la Ley de Caza de 4 de abril de 1970 y Reglamento para su aplicación de 25 de marzo de 1971, esta Dirección General be resuelto establecer las siguientes normas para la señalización de terrenos sometidos a régimen cinegético especial y de palomares industriales:

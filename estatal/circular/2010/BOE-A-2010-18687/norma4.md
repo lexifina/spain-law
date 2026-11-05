@@ -1,0 +1,3 @@
+## Norma 4.ª Información a facilitar si el adquirente potencial es una entidad financiera sometida a supervisión en España o en la Unión Europea.
+
+Cuando el adquirente potencial sea una entidad financiera supervisada por el Banco de España o por la Dirección General de Seguros y Fondos de Pensiones o por otra autoridad responsable de la supervisión de entidades de crédito, empresas de servicios de inversión, sociedades gestoras y entidades aseguradoras en otro Estado miembro de la Unión Europea, no será necesario remitir la información necesaria para evaluar la honorabilidad que figura en la Parte I de la lista que se recoge como anejo a la presente Circular.

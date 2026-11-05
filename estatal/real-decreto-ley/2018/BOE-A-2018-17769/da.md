@@ -1,0 +1,3 @@
+## Disposición adicional primera. Medios para el funcionamiento del Punto de Contacto Central.
+
+Para el adecuado desempeño de las nuevas funciones que el Ministerio de Industria, Comercio y Turismo asume como punto de contacto central conforme a lo dispuesto en el artículo 166 del texto refundido de la Ley General para la Defensa de los Consumidores y Usuarios y otras leyes complementarias, aprobado por Real Decreto Legislativo 1/2007, de 16 de noviembre, dicho departamento ministerial dispondrá de los medios personales y materiales necesarios para ello dentro de las disponibilidades presupuestarias existentes.

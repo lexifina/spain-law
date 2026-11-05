@@ -1,0 +1,525 @@
+## ANEXO III
+
+## Aplicaciones exentas de la restricción del artículo 6.1
+
+1. Mercurio en lámparas fluorescentes de casquillo único (compactas) sin sobrepasar (por quemador):
+
+1.a) Para usos generales de alumbrado < 30 W: 2,5 mg. Expira el 24 de febrero de 2023.
+
+1.b) Para usos generales de alumbrado ≥ 30 W y < 50 W: 3,5 mg. Expira el 24 de febrero de 2023.
+
+1.c) Para usos generales de alumbrado ≥ 50 W y < 150 W: 5 mg. Expira el 24 de febrero de 2023.
+
+1.d) Para usos generales de alumbrado ≥ 150 W: 15 mg. Expira el 24 de febrero de 2023.
+
+1.e) Para usos generales de alumbrado con forma de estructura circular o cuadrada y diámetro del tubo ≤ 17 mm: 5 mg. Expira el 24 de febrero de 2023.
+
+1.f).1.º Lámparas diseñadas para emitir luz principalmente en el espectro ultravioleta: 5 mg. Expira el 24 de febrero de 2027.
+
+1.f).2.º Para usos especiales: 5 mg. Expira el 24 de febrero de 2025.
+
+1.g) Para usos generales de alumbrado, < 30W con una vida útil igual o superior a 20.000 h: 3,5 mg. Expira el 24 de agosto de 2023.
+
+2.a) Mercurio en lámparas fluorescentes lineales de casquillo doble para usos generales de alumbrado sin sobrepasar (por lámpara):
+
+2.a).1.º Fósforo de tres bandas con vida útil normal y diámetro del tubo < 9 mm (por ejemplo, T2): 4 mg. Expira el 24 de febrero de 2023.
+
+2.a).2.º Fósforo de tres bandas con vida útil normal y diámetro del tubo ≥ 9 mm y ≤ 17 mm (por ejemplo, T5): 3 mg. Expira el 24 de agosto de 2023.
+
+2.a).3.º Fósforo de tres bandas con vida útil normal y diámetro del tubo > 17 mm y ≤ 28 mm (por ejemplo, T8): 3,5 mg. Expira el 24 de agosto de 2023.
+
+2.a).4.º Fósforo de tres bandas con vida útil normal y diámetro del tubo > 28 mm (por ejemplo, T12): 3,5 mg. Expira el 24 de febrero de 2023.
+
+2.a).5.º Fósforo de tres bandas con vida útil larga (≥ 25000 h): 5 mg. Expira el 24 de febrero de 2023.
+
+2.b) Mercurio en otras lámparas fluorescentes sin sobrepasar (por lámpara):
+
+2.b).1.º Lámparas de halofosfato lineales con diámetro del tubo > 28 mm (por ejemplo, T10 y T12): 10 mg. Expira el 13 de abril de 2012.
+
+2.b).2.º Lámparas de halofosfato no lineales (cualquier diámetro): 15 mg. Expira el 13 de abril de 2016.
+
+2.b).3.º Lámparas de fósforo de tres bandas no lineales con diámetro del tubo > 17 mm (por ejemplo, T9): 15 mg. Expira el 24 de febrero de 2023; podrán utilizarse 10 mg por lámpara a partir del 25 de febrero de 2023 hasta el 24 de febrero de 2025
+
+2.b).4.º I. Lámparas para otros usos generales de alumbrado y usos especiales (por ejemplo, lámparas de inducción): 15 mg. Expira el 24 de febrero de 2025.
+
+2.b).4.º II. Lámparas que emiten luz principalmente en el espectro ultravioleta: 15 mg. Expira el 24 de febrero de 2027.
+
+2.b).4.º III. Lámparas de emergencia: 15 mg. Expira el 24 de febrero de 2027.
+
+3. Mercurio en lámparas fluorescentes de cátodo frío y lámparas fluorescentes de electrodo externo (CCFL y EEFL) para usos especiales utilizadas en AEE introducidos en el mercado antes del 24 de febrero de 2022, sin sobrepasar (por lámpara):
+
+3.a) Longitud pequeña (≤ 500 mm): 3,5 mg. Expira el 24 de febrero de 2025.
+
+3.b) Longitud media (> 500 mm y ≤ 1 500 mm): 5 mg. Expira el 24 de febrero de 2025.
+
+3.c) Longitud grande (> 1 500 mm): 13 mg. Expira el 24 de febrero de 2025.
+
+4.a) Mercurio en otras lámparas de descarga de baja presión (por lámpara): 15 mg. Expira el 24 de febrero de 2023.
+
+4.a).1.º Mercurio en lámparas de descarga de baja presión sin recubrimiento de fósforo, cuando la aplicación requiere que la parte principal del rango espectral de la lámpara se encuentre en el espectro ultravioleta: podrán utilizarse hasta 15 mg de mercurio por lámpara. Expira el 24 de febrero de 2027.
+
+4.b) Mercurio en lámparas de (vapor de) sodio de alta presión para usos generales de alumbrado, en lámparas con índice de rendimiento de color mejorado (Ra > 80), sin sobrepasar (por quemador): P ≤ 105 W: podrán utilizarse 16 mg por quemador. Expira el 24 de febrero de 2027.
+
+65012
+
+4.b).1.º Mercurio en lámparas de (vapor de) sodio de alta presión para usos generales de alumbrado, en lámparas con índice de rendimiento de color mejorado (Ra > 60), sin sobrepasar (por quemador): P ≤ 155 W: podrán utilizarse 30 mg por quemador. Expira el 24 de febrero de 2023.
+
+4.b).2.º Mercurio en lámparas de (vapor de) sodio de alta presión para usos generales de alumbrado, en lámparas con índice de rendimiento de color mejorado (Ra > 60), sin sobrepasar (por quemador): 155 W < P ≤ 405 W: podrán utilizarse 40 mg por quemador. Expira el 24 de febrero de 2023.
+
+4.b).3.º Mercurio en lámparas de (vapor de) sodio de alta presión para usos generales de alumbrado, en lámparas con índice de rendimiento de color mejorado (Ra > 60), sin sobrepasar (por quemador): P > 405 W: podrán utilizarse 40 mg por quemador. Expira el 24 de febrero de 2023.
+
+4.c) Mercurio en otras lámparas de (vapor de) sodio de alta presión para usos generales de alumbrado sin sobrepasar (por quemador):
+
+4.c).1.º P ≤ 155 W: 20 mg. Expira el 24 de febrero de 2027.
+
+4.c).2.º 155 W < P ≤ 405 W: 25 mg. Expira el 24 de febrero de 2027.
+
+4.c).3.º P > 405 W: 25 mg. Expira el 24 de febrero de 2027.
+
+4.d) Mercurio en lámparas de (vapor de) mercurio de alta presión (HPMV). Expira el 13 de abril de 2015.
+
+4.e) Mercurio en lámparas de haluros metálicos (MH). Expira el 24 de febrero de 2027.
+
+4.f).1.º Mercurio en otras lámparas de descarga para usos especiales no mencionadas específicamente en el presente anexo. Expira el 24 de febrero de 2025.
+
+4.f).2.º Mercurio en lámparas de vapor de mercurio de alta presión utilizadas en proyectores cuando se requiera una potencia de luz de salida ≥ 2000 lúmenes ANSI. Expira el 24 de febrero de 2027.
+
+4.f).3.º Mercurio en lámparas de vapor de sodio de alta presión utilizadas para iluminación en horticultura. Expira el 24 de febrero de 2027.
+
+4.f).4.º Mercurio en lámparas que emiten luz en el espectro ultravioleta. Expira el 24 de febrero de 2027.
+
+4.g) Mercurio en tubos luminosos de descarga de fabricación artesanal utilizados en rótulos, dispositivos de iluminación decorativa o arquitectónica y especializada y creaciones de iluminación artística, sin sobrepasar las cantidades siguientes:
+
+4.g).1.º 20 mg por par de electrodos + 0,3 mg por cm de longitud del tubo, pero no más de 80 mg, para aplicaciones de exterior y para aplicaciones de interior expuestas a temperaturas inferiores a 20 ºC.
+
+4.g).2.º 15 mg por par de electrodos + 0,24 mg por cm de longitud del tubo, pero no más de 80 mg, para todas las demás aplicaciones de interior. Expira el 31 de diciembre de 2018.
+
+5.a) Plomo en el vidrio de los tubos de rayos catódicos.
+
+5.b) Plomo en el vidrio de los tubos fluorescentes sin sobrepasar el 0,2 % en peso.
+
+6.a).1.º Plomo como elemento de aleación en acero para fines de mecanizado y acero galvanizado que contengan hasta un 0,35 % de su peso en plomo. Expira el 11 de diciembre de 2026.
+
+6.a).2.º Plomo como elemento de aleación en acero para fines de mecanizado que contenga hasta un 0,35 % de su peso en plomo. Expira el 30 de junio de 2027 para todas las categorías. Esta exención no se aplicará a los AEE destinados a ser suministrados al público en general cuando, en condiciones normales o previsibles de uso, los niños puedan introducirse en la boca los AEE o una parte accesible de estos. No obstante, la exención se aplicará cuando pueda demostrarse el cumplimiento de las dos condiciones siguientes:
+
+– la tasa de liberación de plomo de dichos AEE o de cualquier parte accesible, recubierta o no, no excede los 0,05 μg/cm2 por hora (lo que equivale a 0,05 μg/g/h) y
+
+– en el caso de los artículos revestidos, que el revestimiento sea suficiente para garantizar que no se supere esta tasa de liberación durante al menos dos años de condiciones de uso normales o razonablemente previsibles del AEE.
+
+A estos efectos se considerará que un AEE o una parte accesible de un AEE pueden ser introducidos en la boca por los niños si miden menos de 5 cm en una de sus dimensiones o tienen una pieza desmontable o sobresaliente de ese tamaño.
+
+6.a).3.º Plomo como elemento de aleación en acero galvanizado en caliente por procedimiento discontinuo que contenga hasta un 0,2 % de su peso en plomo. Expira el 30 de junio de 2027 para todas las categorías. Esta exención no se aplicará a los AEE destinados a ser suministrados al público en general cuando, en condiciones normales o previsibles de uso, los niños puedan introducirse en la boca los AEE o una parte accesible de estos. No obstante, la exención se aplicará cuando pueda demostrarse el cumplimiento de las dos condiciones siguientes:
+
+– la tasa de liberación de plomo de dichos AEE o de cualquier parte accesible, recubierta o no, no excede los 0,05 μg/cm2 por hora (lo que equivale a 0,05 μg/g/h) y
+
+– en el caso de los artículos revestidos, que el revestimiento sea suficiente para garantizar que no se supere esta tasa de liberación durante al menos dos años de condiciones de uso normales o razonablemente previsibles del AEE.
+
+A estos efectos se considerará que un AEE o una parte accesible de un AEE pueden ser introducidos en la boca por los niños si miden menos de 5 cm en una de sus dimensiones o tienen una pieza desmontable o sobresaliente de ese tamaño.
+
+6.b).1.º Plomo como elemento de aleación en aluminio que contenga hasta un 0,4% de su peso en plomo. Expira el 11 de junio de 2027.
+
+6.b).2.º Plomo como elemento de aleación en aluminio que contenga hasta un 0,4 % de su peso en plomo, a condición de que proceda de reciclado de chatarra de aluminio con plomo. Expira el 11 de diciembre de 2026 en el caso de las categorías 1 a 7 y 10.
+
+Expira el 30 de junio de 2027 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9 y en el caso de la categoría 11.
+
+Esta exención no se aplicará a los AEE destinados a ser suministrados al público en general cuando, en condiciones normales o previsibles de uso, los niños puedan introducirse en la boca los AEE o una parte accesible de estos. No obstante, la exención se aplicará cuando pueda demostrarse el cumplimiento de las dos condiciones siguientes:
+
+– la tasa de liberación de plomo de dichos AEE o de cualquier parte accesible, recubierta o no, no excede los 0,05 μg/cm2 por hora (lo que equivale a 0,05 μg/g/h) y
+
+– en el caso de los artículos revestidos, que el revestimiento sea suficiente para garantizar que no se supere esta tasa de liberación durante al menos dos años de condiciones de uso normales o razonablemente previsibles del AEE.
+
+A estos efectos, se considerará que un AEE o una parte accesible de un AEE pueden ser introducidos en la boca por los niños si miden menos de 5 cm en una de sus dimensiones o tienen una pieza desmontable o sobresaliente de ese tamaño.
+
+6.b).3.º Plomo como elemento de aleación en aluminio para fines de mecanizado con un contenido de plomo de hasta un 0,4 % en peso. Expira:
+
+– el 11 de junio de 2027 en el caso de las categorías 1 a 7 y 10.
+
+– el 30 de junio de 2027 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9 y en el caso de la categoría 11.
+
+Esta exención no se aplicará a los AEE destinados a ser suministrados al público en general cuando, en condiciones normales o previsibles de uso, los niños puedan introducirse en la boca los AEE o una parte accesible de estos. No obstante, la exención se aplicará cuando pueda demostrarse el cumplimiento de las dos condiciones siguientes:
+
+– la tasa de liberación de plomo de dichos AEE o de cualquier parte accesible, recubierta o no, no excede los 0,05 μg/cm2 por hora (lo que equivale a 0,05 μg/g/h) y
+
+– en el caso de los artículos revestidos, que el revestimiento sea suficiente para garantizar que no se supere esta tasa de liberación durante al menos dos años de condiciones de uso normales o razonablemente previsibles del AEE.
+
+A estos efectos se considerará que un AEE o una parte accesible de un AEE pueden ser introducidos en la boca por los niños si miden menos de 5 cm en una de sus dimensiones o tienen una pieza desmontable o sobresaliente de ese tamaño.
+
+6.b).4.º Plomo como elemento de aleación en aleaciones de fundición de aluminio que contengan hasta un 0,3 % de su peso en plomo, a condición de que proceda del reciclado de chatarra de aluminio con plomo. Expira el 30 de junio de 2027 en el caso de las categorías 1 a 8, 9, excepto los instrumentos industriales de vigilancia y control, y 10. Esta exención no se aplicará a los AEE destinados a ser suministrados al público en general cuando, en condiciones normales o previsibles de uso, los niños puedan introducirse en la boca los AEE o una parte accesible de estos. No obstante, la exención se aplicará cuando pueda demostrarse el cumplimiento de las dos condiciones siguientes:
+
+– la tasa de liberación de plomo de dichos AEE o de cualquier parte accesible, recubierta o no, no excede los 0,05 μg/cm2 por hora (lo que equivale a 0,05 μg/g/h) y
+
+– en el caso de los artículos revestidos, que el revestimiento sea suficiente para garantizar que no se supere esta tasa de liberación durante al menos dos años de condiciones de uso normales o razonablemente previsibles del AEE.
+
+A estos efectos se considerará que un AEE o una parte accesible de un AEE pueden ser introducidos en la boca por los niños si miden menos de 5 cm en una de sus dimensiones o tienen una pieza desmontable o sobresaliente de ese tamaño.
+
+6.c) Aleación de cobre que contenga hasta un 4 % de su peso en plomo. Expira el 30 de junio de 2027. Esta exención no se aplicará a los AEE destinados a ser suministrados al público en general cuando, en condiciones normales o previsibles de uso, los niños puedan introducirse en la boca los AEE o una parte accesible de estos. No obstante, la exención se aplicará cuando pueda demostrarse el cumplimiento de las dos condiciones siguientes:
+
+– la tasa de liberación de plomo de dichos AEE o de cualquier parte accesible, recubierta o no, no excede los 0,05 μg/cm2 por hora (lo que equivale a 0,05 μg/g/h) y
+
+– en el caso de los artículos revestidos, que el revestimiento sea suficiente para garantizar que no se supere esta tasa de liberación durante al menos dos años de condiciones de uso normales o razonablemente previsibles del AEE.
+
+A estos efectos se considerará que un AEE o una parte accesible de un AEE pueden ser introducidos en la boca por los niños si miden menos de 5 cm en una de sus dimensiones o tienen una pieza desmontable o sobresaliente de ese tamaño.
+
+7.a).1.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más). Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 30 de junio de 2027.
+
+7.a).2.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más) para conexiones internas destinadas a unir chips, u otros componentes junto con un chip en un conjunto de semiconductores con corrientes en régimen permanente o corrientes transitorias/de choque de 0,1 A o más o tensiones de bloqueo superiores a 10 V, o dimensiones de borde de chip superiores a 0,3 mm × 0,3 mm. Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 31 de diciembre de 2027.
+
+7.a).3.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más) para conexiones integrales (internas y externas) de unión de chips en componentes eléctricos y electrónicos, si se cumplen todas las condiciones siguientes:
+
+– la conductividad térmica del material de unión de chips solidificado/sinterizado es > 35W/(m × K),
+
+– la conductividad eléctrica del material de unión de chips solidificado/sinterizado es > 4,7MS/m,
+
+– la temperatura de fusión solidus es superior a 260 °C.
+
+Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 31 de diciembre de 2027.
+
+7.a).4.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más) en juntas de soldadura de primer nivel (conexiones internas o integrales, es decir, internas y externas) para la fabricación de componentes, de modo que el montaje posterior de componentes electrónicos en subconjuntos (es decir, módulos, placas de subcircuitos, sustratos o soldaduras de punto a punto) con una soldadura secundaria no refluidifique la soldadura de primer nivel. Esta subentrada excluye las aplicaciones de unión de chips y los sellados herméticos. Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 31 de diciembre de 2027.
+
+7.a).5.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más) en las juntas de soldadura de segundo nivel para la fijación de componentes a placas de circuitos impresos o marcos de plomo;
+
+I) en bolas de soldadura para la fijación de matrices de rejilla de bolas de cerámica (BGA),
+
+II) en los sobremoldeos de plásticos a alta temperatura (> 220 °C).
+
+Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 31 de diciembre de 2027.
+
+7.a).6.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más) como material de sellado hermético entre:
+
+I) un paquete cerámico o un conector de cerámica y una carcasa metálica,
+
+II) terminaciones de componentes y una subparte interna.
+
+Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 31 de diciembre de 2027.
+
+7.a).7.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más) para establecer conexiones eléctricas entre componentes de lámparas en lámparas incandescentes con reflector para calefacción por infrarrojos, lámparas de descarga de alta intensidad o lámparas para horno. Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 31 de diciembre de 2027.
+
+7.a).8.º Plomo en pastas de soldadura de alta temperatura de fusión (es decir, aleaciones de plomo que contengan en peso un 85 % de plomo o más) para transductores de audio en los que la temperatura máxima de funcionamiento sea superior a 200 °C. Se aplica a todas las categorías, salvo las aplicaciones del punto 24 del presente anexo, y expira el 31 de diciembre de 2027.
+
+7.b) Plomo en pastas de soldadura para servidores, sistemas de almacenamiento y matrices de almacenamiento, equipos de infraestructura de redes para conmutación, señalización, transmisión, y gestión de redes en el ámbito de las telecomunicaciones.
+
+7.c).1.º Componentes eléctricos y electrónicos que contengan plomo en un vidrio o cerámica de un tipo distinto de la cerámica dieléctrica de condensadores, por ejemplo, dispositivos piezoelectrónicos, o en un compuesto de matrices de vidrio o cerámica. Se aplica a todas las categorías y expira el 30 de junio de 2027.
+
+7.c).2.º Plomo en cerámica dieléctrica de condensadores para una tensión nominal de 125 V CA o 250 V CC o superior. Se aplica a todas las categorías salvo las aplicaciones contempladas en el punto 7.c).1.º o 7.c).4.º y expira el 31 de diciembre de 2027.
+
+7.c).3.º Plomo en cerámica dieléctrica de condensadores para una tensión nominal inferior a 125 V CA o 250 V CC. Expira el 1 de enero de 2013 y tras esta fecha podrá utilizarse en piezas de repuesto para AEE comercializados antes del 1 de enero de 2013.
+
+7.c).4.º Plomo en materiales cerámicos dieléctricos PZT de condensadores que forman parte de circuitos integrados o semiconductores discretos. Expira el:
+
+– 21 de julio de 2021 en el caso de las categorías 1 a 7 y 10,
+
+– 21 de julio de 2021 en el caso de productos de las categorías 8 y 9 distintos de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control,
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8,
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+7.c).5.º Componentes eléctricos y electrónicos que contengan plomo en un vidrio o en un compuesto de matrices de vidrio que cumplan cualquiera de las funciones siguientes:
+
+I) para la protección y el aislamiento eléctrico en las cuentas de vidrio de diodos de alta tensión y capas de vidrio para obleas;
+
+II) para el sellado hermético entre piezas cerámicas, metálicas o de vidrio;
+
+III) a efectos de unión en una ventana de parámetros de procedimiento para una temperatura < 500 °C combinada con una viscosidad de 1 013,3 dPas («temperatura de transición vítrea»);
+
+IV) destinados a utilizarse como material resistivo, como tinta, con una gama de resistividad comprendida entre 1 ohm/cuadrado y 100 megaohm/cuadrado, excluidos los potenciómetros de ajuste;
+
+V) destinados a utilizarse en superficies de vidrio modificadas químicamente para placas de microcanales (MCP), multiplicadores de electrones de canal (CEM) y productos resistivos de vidrio (RGP).
+
+Se aplica a todas las categorías y expira el 31 de diciembre de 2027.
+
+7.c).6.º Componentes eléctricos y electrónicos que contengan plomo en un material cerámico que cumpla cualquiera de las funciones siguientes:
+
+I) para su uso en cerámicas piezoeléctricas con titanato circonato de plomo (PZT);
+
+II) para dotar a la cerámica de un coeficiente de temperatura positivo (PTC).
+
+Se aplica a todas las categorías salvo las aplicaciones contempladas en los puntos 7.c).2.º, 7.c).3.º y 7.c).4.º del presente anexo y en el punto 14 del anexo IV y expira el 31 de diciembre de 2027.
+
+8.a) Cadmio y sus compuestos en protectores térmicos del tipo de masa de fusión, de un solo uso: Expira el 1 de enero de 2012 y tras esta fecha podrá utilizarse en piezas de repuesto para AEE comercializados antes del 1 de enero de 2012.
+
+8.b) Cadmio y sus compuestos en contactos eléctricos. Se aplica a las categorías 8, 9 y 11 y expira el:
+
+– 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control,
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8,
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+8.b).1.º Cadmio y sus compuestos en contactos eléctricos utilizados en:
+
+– disyuntores,
+
+– sistemas de detección térmica,
+
+– protectores térmicos para motores (excluidos los protectores térmicos herméticos para motores);
+
+– interruptores de CA para intensidades nominales:
+
+● iguales o superiores a 6 A a una tensión igual o superior a 250 V CA, o
+
+● iguales o superiores a 12 A a una tensión igual o superior a 125 V CA,
+
+– interruptores de CC para intensidades nominales iguales o superiores a 20 A a una tensión igual superior a 18 V CC, e
+
+– interruptores empleados con frecuencias de alimentación eléctrica ≥ 200 Hz.
+
+Se aplica a las categorías 1, 7 y 10 y expira el 21 de julio de 2021.
+
+9. Cromo hexavalente como protección anticorrosiva para los sistemas de refrigeración de acero al carbono en frigoríficos de absorción, hasta un máximo del 0,75 % en peso en la solución refrigerante.
+
+Se aplica a las categorías 8, 9 y 11 y expira el:
+
+– 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control;
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8;
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+9.a).1.º Hasta un 0,75 % de cromo hexavalente, en peso, utilizado como protección anticorrosiva en la solución refrigerante de los sistemas de refrigeración de acero al carbono en frigoríficos de absorción (incluidos los minibares) diseñados para funcionar total o parcialmente con calefactores eléctricos, con una potencia de entrada media < 75 W en condiciones de funcionamiento constante.
+
+Se aplica a las categorías 1 a 7 y 10 y expira el 5 de marzo de 2021.
+
+9.a).2.º Hasta un 0,75 % de cromo hexavalente, en peso, utilizado como protección anticorrosiva en la solución refrigerante de los sistemas de refrigeración de acero al carbono en frigoríficos de absorción:
+
+− diseñados para funcionar total o parcialmente con calefactores eléctricos, con una potencia de entrada media ≥ 75 W en condiciones de funcionamiento constante;
+
+− diseñados para funcionar totalmente con calefactores no eléctricos.
+
+Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
+
+9.a).3.º Hasta un 0,7 % de cromo hexavalente en peso, utilizado como protector contra la corrosión en el fluido de trabajo del circuito sellado de acero al carbono de las bombas de calor de absorción impulsadas por gas para calefacción de espacios y producción de agua caliente. Se aplica a la categoría 1 y expira el 31 de diciembre de 2026.
+
+9.b).1.º Plomo en cojinetes y pistones para compresores que contienen refrigerante para aplicaciones de calefacción, ventilación, acondicionamiento de aire y refrigeración (HVACR). Se aplica a las categorías 8, 9 y 11; expira el:
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8.
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+– 21 de julio de 2021 en el caso de otras subcategorías de las categorías 8 y 9.
+
+9.b).2.º Plomo en cojinetes y pistones para compresores desplegables herméticos que contienen refrigerante con una potencia eléctrica de entrada igual o inferior a 9 kW para aplicaciones de calefacción, ventilación, acondicionamiento de aire y refrigeración (HVACR). Se aplica a la categoría 1 y expira el 21 de julio de 2019.
+
+11.a) Plomo utilizado en sistemas de conectores de pines C-press que se ajusten a las normas: Puede utilizarse en las piezas de repuesto para AEE comercializados antes del 24 de septiembre de 2010.
+
+11.b) Plomo utilizado en aplicaciones distintas de los sistemas de conectores de pines del tipo C-press que se ajusten a las normas: Expira el 1 de enero de 2013 y tras esta fecha podrá utilizarse en piezas de repuesto para AEE comercializados antes del 1 de enero de 2013.
+
+12. Plomo como material de recubrimiento del anillo en «c» (c-ring) de los módulos de conducción térmica: Puede utilizarse en las piezas de repuesto para AEE comercializados antes del 24 de septiembre de 2010.
+
+13.a) Plomo en vidrios blancos utilizados para aplicaciones ópticas. Se aplica a todas las categorías y expira el:
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8.
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+– 21 de julio de 2021 en el caso de todas las demás categorías y subcategorías.
+
+13.b).1.º Cadmio y plomo en vidrios filtrantes y vidrios utilizados para patrones de reflectancia. Se aplica a las categorías 8, 9 y 11; expira el:
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8.
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+– 21 de julio de 2021 en el caso de otras subcategorías de las categorías 8 y 9.
+
+13.b).2.º Plomo en vidrios ópticos filtrantes coloreados mediante iones. Se aplica a las categorías 1 a 7 y 10; expira el 21 de julio de 2021.
+
+13.b).3.º Cadmio en vidrios ópticos filtrantes con disoluciones coloidales; excluidas las aplicaciones que entran en el ámbito del punto 39 del presente anexo. Se aplica a las categorías 1 a 7 y 10; expira el 21 de julio de 2021.
+
+13.b).4.º Cadmio y plomo en lentes utilizadas para patrones de reflectancia. Se aplica a las categorías 1 a 7 y 10; expira el 21 de julio de 2021.
+
+14. Plomo en pastas de soldadura dotadas de más de dos elementos para la conexión entre los pines y la cápsula de los microprocesadores y que contengan en peso más de un 80 % de plomo y menos de un 85 %: Expiró el 1 de enero de 2011 y tras esta fecha podrá utilizarse en piezas de repuesto para AEE comercializados antes del 1 de enero de 2011.
+
+15. Plomo en pastas de soldadura diseñadas para crear una conexión eléctrica viable entre el cubo de semiconductor y el portador en cápsulas de circuito integrado flip-chip. Se aplica a las categorías 8, 9 y 11 y expira el:
+
+– 21 de julio de 2021 para las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control,
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8,
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+15.a) Plomo en pastas de soldadura diseñadas para crear una conexión eléctrica viable entre el cubo de semiconductor y el portador en cápsulas de circuito integrado flip-chip, siempre que se aplique al menos uno de los criterios siguientes:
+
+– un nodo tecnológico semiconductor de 90 nm o más,
+
+– un cubo único de 300 mm² o mayor en cualquier nodo tecnológico semiconductor,
+
+– cápsulas de cubos apilados con cubo de 300 mm² o mayor, o interponedores de silicio de 300 mm² o mayores.
+
+Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
+
+16. Plomo en lámparas incandescentes lineales con tubos recubiertos de silicato. Expira el 1 de septiembre de 2013.
+
+17. Haluro de plomo empleado como agente radiante en lámparas de descarga de alta intensidad (HID) utilizadas en aplicaciones de reprografía profesionales.
+
+18.a) Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga utilizadas como lámparas para usos especiales, como la reprografía con impresión diazoica, la litografía, las trampas para insectos y los procesos fotoquímicos y de curado, que contengan fósforos tales como SMS [(Sr,Ba)2MgSi2O7:Pb]: Expiró el 1 de enero de 2011. 18.b) Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga utilizadas como lámparas de bronceado que contengan fósforos tales como BSP (BaSi2O5: Pb). Expira el:
+
+– 21 de julio de 2021 para las categorías 1 a 7 y 10,
+
+– 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control,
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8,
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+18.b).1.º Plomo empleado como activador en el polvo fluorescente (hasta el 1 % de plomo en peso) de las lámparas de descarga que contengan fósforos tales como BSP (BaSi2O5: Pb) cuando se utilicen en equipos médicos de fototerapia. Se aplica a las categorías 5 y 8, salvo las aplicaciones contempladas en la entrada 34 del anexo IV, y expira el 21 de julio de 2021.
+
+19. Plomo con PbBiSn-Hg y PbInSn-Hg en composiciones específicas como amalgama principal y con PbSn-Hg como amalgama auxiliar en lámparas de bajo consumo energético (ESL) muy compactas. Expira el 1 de junio de 2011.
+
+20. Óxido de plomo presente en el vidrio empleado para unir los sustratos anterior y posterior de las lámparas fluorescentes planas utilizadas en las pantallas de cristal líquido (LCD): Expira el 1 de junio de 2011.
+
+21. Plomo y cadmio en tintas de impresión para la aplicación de esmaltes en vidrios, tales como el vidrio borosilicatado y el vidrio sódico-cálcico. Se aplica a las categorías 8, 9 y 11 y expira:
+
+– el 21 de julio de 2021, en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control,
+
+– el 21 de julio de 2023, en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8,
+
+– el 21 de julio de 2024, en el caso de los instrumentos industriales de vigilancia y control de la categoría 9 y en el caso de la categoría 11.
+
+21.a) Cadmio utilizado en vidrios impresos a color para proporcionar funciones de filtrado, utilizado como componente en aplicaciones de alumbrado instaladas en pantallas de visualización y paneles de control de AEE. Se aplica a las categorías 1 a 7 y 10, salvo las aplicaciones contempladas en la entrada 21.b) o la entrada 39, y expira el 21 de julio de 2021.
+
+21.b) Cadmio en tintas de impresión para la aplicación de esmaltes en vidrios, tales como el vidrio borosilicatado y el vidrio sódico-cálcico. Se aplica a las categorías 1 a 7 y 10, salvo las aplicaciones contempladas en la entrada 21.a) o la entrada 39, y expira el 21 de julio de 2021.
+
+21.c) Plomo en tintas de impresión para la aplicación de esmaltes en vidrios distintos de los borosilicatados. Se aplica a las categorías 1 a 7 y 10 y expira el 21 de julio de 2021.
+
+23. Plomo en acabados de componentes de paso fino distintos de los conectores con un paso igual o inferior a 0,65 mm: Puede utilizarse en las piezas de repuesto para AEE comercializados antes del 24 de septiembre de 2010.
+
+24. Plomo en pastas de soldadura para soldar a condensadores cerámicos multicapa dispuestos en planos y discos con taladros mecanizados. Expira el:
+
+– 21 de julio de 2021 para las categorías 1 a 7 y 10.
+
+– 21 de julio de 2021 para las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control.
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8.
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+25. Óxido de plomo en pantallas de emisores de electrones con conducción en superficie (SED), utilizado en elementos estructurales, como la soldadura fritada y el anillo de frita.
+
+26. Óxido de plomo en la cápsula de cristal de las lámparas de luz negra azul: Expira el 1 de junio de 2011.
+
+27. Aleaciones de plomo como pastas de soldadura para transductores utilizados en altavoces de potencia elevada (diseñados para funcionar durante varias horas a niveles de potencia acústica de 125 dB SPL o más): Expiró el 24 de septiembre de 2010.
+
+29. Plomo en vidrio cristal conforme a la definición del Real Decreto 168/1988, de 26 de febrero, por el que se establecen determinadas condiciones técnicas para el vidrio-cristal. Expira el:
+
+– 21 de julio de 2021 para las categorías 1 a 7 y 10;
+
+– 21 de julio de 2021 para las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control;
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8;
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+30. Aleaciones de cadmio como juntas de soldadura eléctrica/mecánica de conductores eléctricos situados directamente en la bobina móvil de los transductores utilizados en altavoces de gran potencia con un nivel de presión acústica de 100 dB (A) y superior.
+
+31. Plomo en materiales de soldadura de lámparas fluorescentes planas sin mercurio (que se utilizan, por ejemplo, en pantallas de cristal líquido y en alumbrado de diseño o industrial).
+
+32. Óxido de plomo en la frita de sellado utilizada para hacer montajes de ventana para tubos láser de argón y criptón. Expira el:
+
+– 21 de julio de 2021 en el caso de las categorías 1 a 7 y 10,
+
+– 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control,
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8,
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+33. Plomo en pastas de soldadura para soldar alambres finos de cobre de un diámetro igual o inferior a 100 μm en transformadores eléctricos.
+
+34. Plomo en elementos de cerametal de los potenciómetros de ajuste. Se aplica a todas las categorías; expira el:
+
+– 21 de julio de 2021 para las categorías 1 a 7 y 10.
+
+– 21 de julio de 2021 para las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control.
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8.
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+36. Mercurio utilizado como inhibidor de pulverización catódica en pantallas de plasma de corriente continua, con un contenido máximo de 30 mg por pantalla: Expira el 1 de julio de 2010.
+
+37. Plomo de la capa de revestimiento de los diodos de alta tensión sobre la base de un bloque de vidrio de borato de zinc. Expira el:
+
+– 21 de julio de 2021 en el caso de las categorías 1 a 7 y 10,
+
+– 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control,
+
+– 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8,
+
+– 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control de la categoría 9, y en el caso de la categoría 11.
+
+38. Cadmio y óxido de cadmio en las pastas de película gruesa utilizadas en el óxido de berilio aleado con aluminio.
+
+39.a) El uso de seleniuro de cadmio en puntos cuánticos de nanocristales semiconductores a base de cadmio para reducir la frecuencia fotónica que se emplean en aplicaciones de iluminación de pantallas (< 0,2 μg de Cd por mm2 de superficie de pantalla de visualización). Expira para todas las categorías el 21 de noviembre de 2025.
+
+39.b) El uso de cadmio en puntos cuánticos de nanocristales semiconductores para reducir la frecuencia fotónica depositados directamente en chips semiconductores de ledes que se emplean en aplicaciones de visualización y proyección (< 5 μg de Cd por mm2 de superficie emisora de luz del chip de led), con una cantidad máxima por dispositivo de 1 mg. Expira para todas las categorías el 31 de diciembre de 2027.
+
+40. Cadmio en fotorresistencias para optoacopladores analógicos utilizados en equipos de audio profesionales. Expira el 31 de diciembre de 2013.
+
+41. Plomo en pastas de soldadura y acabados de terminaciones de componentes eléctricos y electrónicos y acabados de circuitos impresos utilizados en módulos de encendido y otros sistemas eléctricos y electrónicos de control de motores, que, por razones técnicas, deben instalarse directamente sobre el cárter o el cilindro de los motores de combustión portátiles, o en el interior de dichos componentes (clases SH:1, SH:2, SH:3 de la Directiva 97/68/CE del Parlamento Europeo y del Consejo, de 16 de diciembre de 1997, relativa a la aproximación de las legislaciones de los Estados miembros sobre medidas contra la emisión de gases y partículas contaminantes procedentes de los motores de combustión interna que se instalen en las máquinas móviles no de carretera).
+
+Se aplica a todas las categorías; expira el:
+
+− 31 de marzo de 2022 en el caso de las categorías 1 a 7, 10 y 11;
+
+− 21 de julio de 2021 en el caso de las categorías 8 y 9 distintas de los productos sanitarios para diagnóstico in vitro y los instrumentos industriales de vigilancia y control;
+
+− 21 de julio de 2023 en el caso de los productos sanitarios para diagnóstico in vitro de la categoría 8;
+
+− 21 de julio de 2024 en el caso de los instrumentos industriales de vigilancia y control.
+
+42. Plomo en cojinetes y pistones de motores de combustión interna propulsados por diésel o combustible gaseoso, utilizados en equipos no viales de uso profesional:
+
+– cuando el motor presenta una cilindrada total ≥ 15 litros, o
+
+– cuando el motor presenta una cilindrada total < 15 litros y está diseñado para funcionar en aplicaciones en las que el tiempo transcurrido entre la señal de inicio y la plena carga deba ser inferior a 10 segundos, o cuando se realiza un mantenimiento periódico en entornos exteriores sucios y difíciles, por ejemplo, en aplicaciones destinadas a la minería, la construcción y la agricultura.
+
+Se aplica a la categoría 11, y quedan excluidas las aplicaciones recogidas en la exención 6.c) del presente anexo. Expira el 21 de julio de 2024.
+
+43. Ftalato de bis(2-etilhexilo) en componentes de caucho de los sistemas de motor diseñados para su utilización en equipos que no estén destinados exclusivamente para uso de los consumidores y a condición de que ningún material plastificado entre en contacto con las mucosas humanas o en contacto prolongado con la piel humana y de que el valor de concentración del ftalato de bis(2-etilhexilo) no exceda:
+
+a) el 30 % en peso del caucho para i) recubrimientos de juntas, ii) juntas de caucho macizo, o iii) componentes de caucho incluidos en conjuntos formados al menos por tres componentes que utilicen energía eléctrica, mecánica o hidráulica para funcionar, y que estén fijados al motor;
+
+b) el 10 % en peso del caucho de los componentes que contengan caucho no mencionados en la letra a).
+
+A efectos de la presente entrada, se entenderá por «contacto prolongado con la piel humana» el contacto continuo de una duración superior a 10 minutos o el contacto intermitente durante un período de 30 minutos, al día.
+
+Se aplica a la categoría 11 y expira el 21 de julio de 2024.
+
+44. Plomo en pastas de soldadura de sensores, actuadores y unidades de control del motor de combustión en el ámbito de aplicación del Reglamento (UE) 2016/1628 del Parlamento Europeo y del Consejo, de 14 de septiembre de 2016, sobre los requisitos relativos a los límites de emisiones de gases y partículas contaminantes y a la homologación de tipo para los motores de combustión interna que se instalen en las máquinas móviles no de carretera, por el que se modifican los Reglamentos (UE) n.º 1024/2012 y (UE) n.º 167/2013, y por el que se modifica y deroga la Directiva 97/68/CE instalados en equipos utilizados en posiciones fijas durante su funcionamiento que se han diseñado para profesionales, pero que también utilizan usuarios no profesionales.
+
+Se aplica a la categoría 11 y expira el 21 de julio de 2024.
+
+45. Diazida de plomo, trinitrorresorcinato de plomo, dipicramato de plomo, minio anaranjado (tetraóxido de plomo), dióxido de plomo para iniciadores eléctricos y electrónicos de explosivos destinados a uso civil (profesional) y cromato de bario para cargas de retardo pirotécnico de los iniciadores eléctricos y electrónicos destinados a uso civil (profesional).
+
+Se aplica a la categoría 11 y expira el 20 de abril de 2026.
+
+46. Cadmio y plomo en perfiles de plástico que contengan mezclas producidas a partir de residuos de cloruro de polivinilo (en lo sucesivo, «PVC rígido valorizado»), utilizadas para ventanas y puertas eléctricas y electrónicas, cuando la concentración en el material de PVC rígido valorizado no supere el 0,1 % en peso de cadmio y el 1,5 % en peso de plomo. A partir del 28 de mayo de 2026, el PVC rígido valorizado procedente de ventanas y puertas eléctricas y electrónicas solo se utilizará para la producción de artículos nuevos de las categorías especificadas en la entrada 63, punto 18, letras a) a d), del anexo XVII del Reglamento (CE) n.º 1907/2006. Los proveedores de artículos de PVC que contengan PVC rígido valorizado con una concentración de plomo igual o superior al 0,1 % en peso del material de PVC velarán por que, antes de que sean comercializados, estén marcados de manera visible, legible e indeleble con la siguiente indicación: «Contiene ≥ 0,1 % de plomo». Cuando el marcado no pueda figurar en el artículo debido a la naturaleza de este, figurará en el embalaje del artículo.
+
+Los proveedores de artículos de PVC que contengan PVC rígido valorizado presentarán a las autoridades nacionales competentes, cuando así lo soliciten, pruebas documentales que justifiquen las alegaciones sobre el origen valorizado del PVC de dichos artículos. Los certificados expedidos por los sistemas para demostrar la trazabilidad y el contenido reciclado, como los elaborados con arreglo a la norma EN 15343:2007 o normas reconocidas equivalentes, podrán utilizarse para justificar tales alegaciones sobre artículos de PVC fabricados en la Unión. Las alegaciones relativas al origen valorizado del PVC de artículos importados irán acompañadas de un certificado que demuestre de forma equivalente la trazabilidad y el contenido reciclado, expedido por un tercero independiente.
+
+Se aplica a la categoría 11 y expira el 28 de mayo de 2028.
+
+> Se modifican los apartados 6.a), 6.b), 6.c), 7.a) y 7.c) por el art. único de la Orden PJC/904/2026, de 26 de agosto. Ref. BOE-A-2026-18281
+
+> Se modifica el apartado 39 y se renumera como 39.a) y se añade el 39.b) por el artículo único de la Orden PJC/1503/2024, de 30 de diciembre. Ref. BOE-A-2024-27527
+
+> Se añade el apartado 46 por el art. único de la Orden PJC/802/2024, de 29 de julio. Ref. BOE-A-2024-15703
+
+> Se añade el punto 3º al apartado 9.a) por el art. único de la Orden PCM/811/2023, de 18 de julio. Ref. BOE-A-2023-16730
+
+> Se modifican los apartados 1, 2, 3 y 4 por el art. único de la Orden PCM/956/2022, de 6 de octubre. Ref. BOE-A-2022-16403
+
+> Se añade el apartado 45 por el art. único de la Orden PCM/1336/2021, de 30 de noviembre de 2021. Ref. BOE-A-2021-19906
+
+> Se modifica por el art. único.1 de la Orden PCM/810/2020, de 31 de agosto. Ref. BOE-A-2020-10130
+
+> Se modifica por el art. único de la Orden PCM/390/2020, de 5 de mayo. Ref. BOE-A-2020-4836
+
+> Se modifica por el art. único de la Orden PCI/962/2019, de 20 de septiembre. Ref. BOE-A-2019-13515
+
+> Se modifica por el art. único.6 del Real Decreto 1364/2018, de 2 de noviembre. Ref. BOE-A-2018-15733
+
+> Se modifica por el art. único de la Orden PCI/891/2018, de 24 de agosto. Ref. BOE-A-2018-11837
+
+> Se añaden los apartados 1.g), 4.g) y 41 por el art. único.1 de la Orden PRE/1349/2014, de 25 de julio. Ref. BOE-A-2014-7971.

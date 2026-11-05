@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Desembarques y demás obligaciones establecidas en los acuerdos de pesca.
+
+Para el cumplimiento de las obligaciones establecidas en los Acuerdos de Pesca, serán seleccionados aquellos buques que, a criterio de la Dirección General de Recursos Pesqueros, reúnan las condiciones técnicas más idóneas para ello, en orden inverso a los criterios de prioridad que para la elaboración de listados establecen los artículos 6 a 13. En caso de empate la Dirección General de Recursos Pesqueros, oídas las empresas armadoras afectadas, designará el buque o buques que quedan obligados.

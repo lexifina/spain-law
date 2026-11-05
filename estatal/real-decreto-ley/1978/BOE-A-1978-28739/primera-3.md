@@ -1,0 +1,5 @@
+## Disposición transitoria primera.
+
+Uno. Cada una de las Entidades Gestoras, Servicios Comunes y Organismos, actualmente existentes, cuya supresión o integración se establece, continuarán subsistiendo y ejerciendo las funciones que tuvieran atribuidas hasta que sean sustituidos por la correspondiente Entidad Gestora, Servicio u Organismo que resulte competente, de acuerdo con lo previsto en el presente Real Decreto-ley, sin merma de su funcionalidad. El personal de los Organismos continuará rigiéndose por sus respectivos regímenes jurídicos hasta que les sea de aplicación el correspondiente a los nuevos Organismos en los que se integren, de acuerdo con lo establecido en la disposición adicional primera, cuatro.
+
+Dos. Las acciones de todo tipo, pendientes, a favor o en contra de cada uno de los Organismos que se integran en las Entidades creadas por el presente Real Decreto-ley, o en su caso desaparezcan, seguirán su curso sin necesidad de acreditamiento judicial del cambio de personalidad formal, correspondiendo su ejercicio a los nuevos Organismos que asuman las correspondientes responsabilidades y derechos.

@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Instrucciones para la elaboración de informes.
+
+1. Se habilita a la persona titular de la Secretaría de Estado de Energía para dictar las instrucciones necesarias relativas a la elaboración del informe requerido por el artículo 45 del Reglamento (UE) 2024/1252 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, solicitada a otros órganos y administraciones responsables de las materias concretas, de acuerdo con el artículo 5 de este real decreto, entre ellas las referentes a su estructura, formato y periodicidad.
+
+2. Se habilita a la persona titular de la Secretaría de Estado de Industria para dictar las instrucciones necesarias relativas a la elaboración de los informes requeridos por los artículos 21.2 y 42.3 del Reglamento (UE) 2024/1735 Parlamento Europeo y del Consejo, de 13 de junio de 2024, solicitada a otros órganos y administraciones responsables de las materias concretas, de acuerdo con los artículos 24 y 25 de este real decreto, entre ellas las referentes a su estructura, formato y periodicidad.

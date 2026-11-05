@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Análisis de la efectividad de la lucha contra la brecha salarial.
+
+Se celebrarán reuniones con una periodicidad semestral entre las organizaciones sindicales y empresariales más representativas y una representación del Ministerio de Trabajo y Economía Social, así como del Ministerio de Igualdad, a través, en su caso, del Instituto de la Mujer y para la Igualdad de Oportunidades, para analizar la efectividad de la lucha contra la brecha salarial y el modo en que se ha aplicado el presente real decreto a fin de garantizar la correcta implementación del principio de igualdad de retribución entre mujeres y hombres.

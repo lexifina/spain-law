@@ -1,0 +1,15 @@
+Actualmente, en la mayoría de las relaciones de los ciudadanos con la Administración éstos deben presentar una fotocopia de su documento de identidad, ya sea su DNI, si se trata de un ciudadano español o su tarjeta equivalente para el caso de extranjeros residentes en territorio español.
+
+Se estima que el número de fotocopias de documentos acreditativos de la identidad de un ciudadano presentadas anualmente en los trámites administrativos asciende a más de cuatro millones.
+
+El 28 de abril de 2006, el Consejo de Ministros aprobó el Real Decreto 522/2006, de 28 de abril, por el que se suprime la aportación de fotocopias de documentos de identidad en los procedimientos administrativos de la Administración General del Estado y de sus organismos públicos vinculados o dependientes.
+
+Los objetivos de dicha norma son, por un lado, suprimir la obligación de presentar fotocopias de los documentos acreditativos de identidad en todos los trámites administrativos, pudiendo sustituirse dicha fotocopia, en aquellos supuestos donde la constancia de los datos fuese imprescindible, por una consulta telemática a la Dirección General de la Policía y de la Guardia Civil de forma directa o diferida; y por otro dotar de mayor seguridad al método actual de verificación de la identidad de un ciudadano, ya que es más fácil manipular una fotocopia que suplantar la identidad del sistema de verificación de datos de identidad basado en la información preservada por la Dirección General de la Policía y de la Guardia Civil.
+
+A partir de la puesta en funcionamiento de este sistema es el propio Departamento ante el que se solicita el trámite el encargado de comprobar, de oficio, la identidad del interesado. Esta consulta se realizará, en los casos en los que sea estrictamente necesario y tras obtener la autorización del interesado. La consulta se realizará con máximas garantías de seguridad y preservando la privacidad de los datos. En caso de que el interesado no dé su consentimiento a realizar esa consulta, deberá aportar su correspondiente fotocopia del Documento Nacional de Identidad.
+
+El objeto de la presente Orden Ministerial es dar cumplimiento al mandato contenido en la disposición final primera del citado Real Decreto 522/2006, de 28 de abril, en virtud del cual el establecimiento de la configuración, características, requisitos y procedimientos de acceso al Sistema de Verificación de Datos de Identidad, así como la fecha en que dicho sistema estará plenamente operativo, se llevará a cabo mediante orden, a propuesta conjunta de los Ministros del Interior y de Administraciones Públicas.
+
+A tal fin, se han tenido en consideración las experiencias previas, las implicaciones técnicas, la búsqueda de racionalidad y sencillez de uso y el aprovechamiento de las ventajas de las economías de escala.
+
+En su virtud, previo respectivos informes favorables del Consejo Superior de Administración Electrónica y de la Agencia de Protección de Datos, a propuesta de los Ministros del Interior y de Administraciones Públicas, dispongo:

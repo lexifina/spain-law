@@ -1,0 +1,9 @@
+Ilustrísimos señores:
+
+La entrada en vigor del Real Decreto 1027/1989, de 28 de julio, sobre abanderamiento, matriculación de buques y registro marítimo, y del Reglamento (CEE) 163/89, de la Comisión, de 24 de enero de 1989, sobre el fichero de buques pesqueros de la Comunidad, obliga a definir con precisión las condiciones exigibles para la inclusión y permanencia en la Lista Tercera de los buques destinados al ejercicio de la pesca con fines comerciales. La segregación en tres nuevas listas de la primitiva Lista Tercera del Decreto 1494/1968, de 20 de junio, debe propiciar la profesionalización de la pesca, evitando en este sentido el intrusismo, que no sólo supone una clara competencia desleal, sino también un riesgo para la adecuada explotación racional de los recursos.
+
+La presente Orden concreta asimismo la aportación obligatoria de bajas equivalentes en tonelaje y en potencia en la misma línea establecida por el Real Decreto 219/1987, de 13 de febrero, y demás normas concordantes, y regula, finalmente, el control impuesto por la Comisión de la CEE respecto al comienzo y finalización de toda nueva construcción de buques pesqueros que sea objeto de concesión de las subvenciones España-CEE para la renovación de la flota.
+
+En último término, esta disposición tiene rango de Orden, por razones coyunturales, de acuerdo con la Sentencia 69/1988 del Tribunal Constitucional, teniendo en cuenta el proceso actual de modificación del Reglamento (CEE) 4028/86, que obligará en su momento a refundir y modificar los Reales Decretos hoy en vigor reguladores de la aportación obligatoria de bajas,
+
+En su virtud, en uso de la facultad conferida en la disposición final primera del Real Decreto 1027/1989, de 28 de julio, y en la disposición final segunda del Real Decreto 681/1980, de 28 de marzo, dispongo:

@@ -1,0 +1,3 @@
+## Norma primera. Obligación de informar.
+
+Quedan sometidas a lo establecido en la presente Circular las personas físicas y las personas jurídicas (públicas o privadas) residentes en España, distintas de los proveedores de servicios de pago inscritos en los registros oficiales del Banco de España, que realicen transacciones con no residentes (actos, negocios y operaciones que supongan - o de cuyo cumplimiento puedan derivarse - cobros, pagos y/o transferencias exteriores, así como variaciones en cuentas o posiciones financieras deudoras o acreedoras) o mantengan activos o pasivos frente al exterior.

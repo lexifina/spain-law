@@ -1,0 +1,3 @@
+## Segundo.
+
+Respecto a las Comunidades Autónomas en las que no se celebran elecciones a la Asamblea Legislativa, se delega en las Juntas Electorales Provinciales en cuyo ámbito radique un medio de comunicación de la Comunidad Autónoma o un Centro emisor de programación regional de un medio nacional la distribución de los espacios gratuitos en dichos medios y programaciones, con sujeción a lo dispuesto en la Ley Orgánica del Régimen Electoral General, y teniendo en cuenta los resultados de las anteriores elecciones municipales y los criterios establecidos en los números anteriores, adaptados al ámbito de los medios.

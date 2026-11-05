@@ -1,0 +1,1 @@
+Téngase en cuenta que se revisan los importes máximos por Acuerdo de la Comisión Interministerial de Precios de los Medicamentos de 18 de noviembre de 2020, publicado por Resolución de 18 de noviembre de 2020, Ref. BOE-A-2020-14466, por lo que debe entenderse que el presente Acuerdo ha perdido su vigencia.

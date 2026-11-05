@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Aplicación de las Directrices EASA/ECDC al tráfico civil en las bases aéreas abiertas a dicho tráfico.
+
+Al tráfico civil en las bases abiertas a dicho tráfico, conforme a lo previsto en el Real Decreto 1167/1995, de 7 de julio, sobre régimen de uso de los aeródromos utilizados conjuntamente por una base aérea y un aeropuerto y de las bases aéreas abiertas al tráfico civil, les será de aplicación lo dispuesto en el capítulo II y artículo 34, siendo el responsable de su cumplimiento en la infraestructura AENA SME, SA, de conformidad con lo previsto en el artículo 9 de dicho real decreto.

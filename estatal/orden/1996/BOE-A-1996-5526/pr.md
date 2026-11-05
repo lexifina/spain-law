@@ -1,0 +1,3 @@
+La obligación que tienen los armeros de cumplimentar libros-registros y otras exigencias documentales de sus diferentes actividades, según lo dispuesto en el Reglamento de Armas, aprobado por Real Decreto 137/1993, de 29 de enero, viene impuesta por razón de la naturaleza de la actividad que realizan, sin que ello impida la utilización de procedimientos que, de acuerdo con la evolución técnica, permitan a los establecimientos una mayor facilidad operativa, siempre que ello no implique disminución de la seguridad indispensable para garantizar un efectivo control de las armas.
+
+En su virtud, y en uso de la facultad que a este Ministerio concede la disposición final quinta del Real Decreto 137/1993, dispongo:

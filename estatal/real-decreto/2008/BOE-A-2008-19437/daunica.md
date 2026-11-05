@@ -1,0 +1,3 @@
+## Disposición adicional única. Determinación del rendimiento neto en la modalidad simplificada del método de estimación directa en las actividades agrícolas y ganaderas durante los años 2008 y 2009.
+
+Con efectos exclusivos durante los años 2008 y 2009, para la determinación del rendimiento neto de las actividades agrícolas y ganaderas en la modalidad simplificada del método de estimación directa, y a los efectos previstos en la regla 2.ª del artículo 30 del Reglamento del Impuesto sobre la Renta de las Personas Físicas, aprobado por el Real Decreto 439/2007, de 30 de marzo, el conjunto de las provisiones deducibles y los gastos de difícil justificación se cuantificará aplicando el porcentaje del 10 por ciento sobre el rendimiento neto, excluido este concepto.

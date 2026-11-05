@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Régimen fiscal del acontecimiento «Copa del América 2007».
+
+La reducción del 65 por ciento prevista en el artículo 13 del Real Decreto 2146/2004, de 5 de noviembre, por el que se desarrollan las medidas para atender los compromisos derivados de la celebración de la XXXII edición de la Copa del América en la ciudad de Valencia, se aplicará a los contribuyentes del Impuesto sobre la Renta de las Personas Físicas sobre la cuantía del rendimiento neto del trabajo previsto en el artículo 19 o sobre la cuantía del rendimiento neto calculado de acuerdo con lo dispuesto en el artículo 30, ambos de la Ley del Impuesto, y una vez aplicada, en su caso, la reducción prevista en el artículo 32.1 de la Ley del Impuesto.

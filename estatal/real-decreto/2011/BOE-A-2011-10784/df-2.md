@@ -1,0 +1,9 @@
+## Disposición final segunda. Modificación del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
+
+El apartado 1.2.º del artículo 35 del Reglamento general sobre inscripción de empresas y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero, queda redactado en los siguientes términos:
+
+«2.º Las altas practicadas de oficio por las direcciones provinciales de la Tesorería General de la Seguridad Social o las administraciones de la Seguridad Social de ellas dependientes retrotraerán sus efectos a la fecha en que los hechos que las motiven hayan sido conocidos por unas u otras.
+
+Si las altas se efectuasen de oficio por las citadas direcciones provinciales o administraciones como consecuencia de la actuación de la Inspección de Trabajo y Seguridad Social, los efectos de la declaración del alta se retrotraerán a la fecha en que se haya llevado a cabo tal actuación, salvo en el caso de que ésta hubiera sido promovida por orden superior, a instancia de las entidades gestoras o como consecuencia de denuncia, queja o petición expresa, en cuyo caso los efectos se retrotraerán a la fecha en que se haya producido la orden superior o la instancia de la entidad gestora o en que hayan tenido entrada las referidas instancias, denuncia, queja o petición.
+
+No obstante, cuando la actuación de la Inspección de Trabajo y Seguridad Social consista en un requerimiento de pago de cuotas o en un acta de liquidación elevada a definitiva en vía administrativa por la Tesorería General de la Seguridad Social, siempre que se hubiera efectuado el ingreso de su importe, los efectos del alta se retrotraerán, para causar futuras prestaciones, a la fecha de inicio del período de liquidación figurado en el requerimiento o acta.»

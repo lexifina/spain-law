@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Reconocimientos de pensiones.
+
+Los órganos médico periciales regulados por la presente Orden Ministerial continuarán emitiendo los dictámenes necesarios para el reconocimiento de las pensiones de orfandad de Clases Pasivas de huérfanos incapacitados y de las pensiones de retiro por incapacidad para todo trabajo del personal al que le resulte de aplicación la disposición adicional décima del Texto Refundido de la Ley de Clases Pasivas, que son competencia de la Dirección General de Personal, hasta que se suscriban los convenios precisos con el Ministerio de Trabajo que atribuyan la emisión de dichos dictámenes a los Equipos de Valoración de Incapacidades del Instituto Nacional de la Seguridad Social.

@@ -1,0 +1,5 @@
+## Disposición final segunda. Habilitaciones normativas al Ministro de Economía.
+
+1. A la vista de la experiencia habida en el proceso de constitución y desarrollo posterior de los Fondos de Garantía de Inversiones, el Ministro de Economía podrá, previo informe de la CNMV, actualizar los porcentajes consignados en los apartados 1 y 2 del artículo 8 de este Real Decreto, así como los criterios de distribución de las aportaciones anuales entre las entidades adheridas a los Fondos reflejados en el apartado 5 de ese mismo artículo.
+
+2. El Ministro de Economía o, en su caso, con su habilitación expresa, el Banco de España y la CNMV, dictarán las disposiciones necesarias para la ejecución y desarrollo del presente Real Decreto, en particular en lo que concierne al régimen de inversiones y de financiación de los Fondos de Garantía de Inversiones y a la información que se debe proporcionar a los inversores, tanto sobre la cobertura de que disfrutan los inversores como sobre supuestos concretos en que se hayan producido las circunstancias que den lugar a la ejecución de la garantía que prestan dichos fondos.

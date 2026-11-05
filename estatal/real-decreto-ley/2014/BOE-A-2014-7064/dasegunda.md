@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Oferta de plazas en las escalas de oficiales y suboficiales de los cuerpos específicos de los ejércitos y de los cuerpos comunes de las Fuerzas Armadas.
+
+1. En el año 2014 se autoriza, adicionalmente a la tasa ordinaria de reposición prevista en el artículo 21 de la Ley 22/2013, de 23 de diciembre, de Presupuestos Generales del Estado para el año 2014, la convocatoria, por la forma de ingreso directo, de hasta 200 plazas en las escalas de oficiales los cuerpos específicos de los ejércitos y de los cuerpos comunes de las Fuerzas Armadas.
+
+2. Por tanto, para el año 2014 el total de plazas ofertadas será el conjunto de las correspondientes a la tasa ordinaria de reposición del 10% prevista en el artículo 21 de la Ley 22/2013, de 23 de diciembre, y la oferta adicional indicada en el apartado 1, autorizándose la convocatoria de un total de 368 plazas por la forma de ingreso directo en las escalas de oficiales y de 32 plazas en las de suboficiales de los cuerpos específicos de los ejércitos y de los cuerpos comunes de las Fuerzas Armadas, según la distribución que figura en el anexo II.
+
+3. Igualmente, en el año 2014 se autoriza la convocatoria por las formas de promoción y promoción interna de 196 plazas en las escalas de oficiales y de 886 plazas en las de suboficiales de los cuerpos específicos de los ejércitos y de los cuerpos comunes de las Fuerzas Armadas, según la distribución que figura en el anexo III.

@@ -1,0 +1,2963 @@
+## ANEXO I
+
+## Módulos profesionales
+
+Módulo Profesional: Fundamentos agronómicos.
+
+Código: 0404.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Caracteriza el clima y sus efectos sobre los cultivos analizando las informaciones disponibles.
+
+Criterios de evaluación:
+
+a) Se han clasificado los climas de las diferentes zonas.
+
+b) Se ha descrito el microclima de zonas características o conocidas.
+
+c) Se han descrito los meteoros que influyen en la agricultura.
+
+d) Se han recogido los datos meteorológicos y climáticos con equipos y aparatos.
+
+e) Se ha interpretado la información recabada de la serie histórica de las variables climáticas de la zona.
+
+f) Se han interpretado mapas meteorológicos.
+
+g) Se ha valorado la influencia de las actividades agrarias en el clima.
+
+2. Identifica tipos de suelos y sus características interpretando los datos obtenidos mediante análisis.
+
+Criterios de evaluación:
+
+a) Se han descrito las propiedades físicas, químicas y biológicas del suelo.
+
+b) Se han caracterizado los distintos tipos de suelo.
+
+c) Se han descrito las técnicas y métodos de recogida y acondicionamiento de muestras.
+
+d) Se han reconocido las diferentes técnicas analíticas.
+
+e) Se han preparado las muestras que van a ser analizadas.
+
+f) Se han analizado las muestras siguiendo los protocolos analíticos establecidos.
+
+g) Se han registrado e interpretado los resultados de los análisis.
+
+h) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales en los análisis de suelo.
+
+3. Realiza la representación básica de las características topográficas del terreno justificando las técnicas utilizadas.
+
+Criterios de evaluación:
+
+a) Se han reconocido las unidades de medida topográficas.
+
+b) Se han interpretado mapas topográficos y planos.
+
+c) Se han relacionado las curvas de nivel con la implantación de especies vegetales y erosión del suelo.
+
+d) Se han utilizado los diferentes instrumentos y aparatos de medición.
+
+e) Se han registrado los datos de la medición.
+
+f) Se ha realizado el croquis de la parcela con su acotación.
+
+g) Se ha dibujado el plano de la parcela a diferentes escalas.
+
+h) Se ha aplicado la normativa de prevención de riesgos laborales.
+
+4. Determina las necesidades hídricas de las especies analizando la relación agua-suelo-planta.
+
+Criterios de evaluación:
+
+a) Se ha valorado la procedencia y calidad del agua de riego.
+
+b) Se ha determinado la capacidad de retención de agua en el suelo.
+
+c) Se ha calculado la velocidad de infiltración del agua en el suelo.
+
+d) Se ha valorado la capa freática del suelo.
+
+e) Se ha determinado la evapotranspiración de la planta.
+
+f) Se ha calculado la dosis y frecuencia de riego.
+
+g) Se han descrito los sistemas de riego en función de las características del suelo, agua, planta y topografía.
+
+h) Se ha interpretado la normativa ambiental.
+
+5. Reconoce las características de los ecosistemas del entorno más próximo analizando las interrelaciones bióticas.
+
+Criterios de evaluación:
+
+a) Se han analizado las comunidades bióticas de los ecosistemas del entorno.
+
+b) Se han definido las diferentes redes tróficas de la zona.
+
+c) Se ha estudiado el flujo energético del entorno determinando sus características.
+
+d) Se han identificado los recursos naturales existentes.
+
+e) Se ha relacionado la incidencia de la actividad agropecuaria con el ecosistema.
+
+f) Se ha valorado la incidencia de la producción ecológica sobre el ecosistema.
+
+6. Identifica las especies vegetales siguiendo criterios taxonómicos.
+
+Criterios de evaluación:
+
+a) Se han descrito las partes y funciones de la célula vegetal.
+
+b) Se han identificado los diferentes tipos de tejidos vegetales.
+
+c) Se ha identificado la estructura, morfología y anatomía de las plantas.
+
+d) Se han descrito las principales funciones y características de las partes de la planta.
+
+e) Se han descrito los procesos fisiológicos de los vegetales.
+
+f) Se han utilizado claves de clasificación botánica.
+
+7. Caracteriza los fertilizantes que va a utilizar reconociendo su uso.
+
+Criterios de evaluación:
+
+a) Se han identificado los elementos nutritivos para las plantas.
+
+b) Se han descrito los desequilibrios nutricionales en las plantas.
+
+c) Se han descrito las propiedades de los distintos tipos de abonos.
+
+d) Se ha relacionado la importancia de los tipos de fertilizantes con el desarrollo de las plantas.
+
+e) Se ha descrito el comportamiento de los abonos en el suelo y su incorporación a la planta.
+
+f) Se han identificado los fertilizantes utilizados en hidroponía y fertirrigación.
+
+g) Se ha valorado la importancia de las mezclas de fertilizantes en hidroponía y fertirrigación.
+
+Duración: 100 horas.
+
+Contenidos básicos:
+
+Caracterización del clima y microclima:
+
+– Clima y microclima. Tipos.
+
+– Elementos climáticos: Temperatura, presión y humedad atmosférica. Influencia sobre las plantas.
+
+– Meteoros. Tipos. Influencia en las plantas.
+
+– Aparatos de medida de variables climáticas.
+
+– Mapas meteorológicos: predicción del tiempo.
+
+– Influencia de las actividades agropecuarias en el clima. Efecto invernadero.
+
+Identificación de suelos:
+
+– El suelo. El perfil del suelo.
+
+– Propiedades físicas del suelo: textura y estructura.
+
+– Propiedades químicas del suelo.
+
+– Propiedades biológicas del suelo. Microfauna.
+
+– Materia orgánica del suelo.
+
+– Tipos de suelo.
+
+– Análisis de suelos: toma de muestras, preparación, realización e interpretación.
+
+– Normativa ambiental y de prevención de riesgos laborales relativa a los análisis de suelo.
+
+Caracterización de las operaciones topográficas:
+
+– Unidades de medida.
+
+– Parámetros topográficos.
+
+– Interpretación de mapas y planos.
+
+– Escalas.
+
+– Instrumentos de medida.
+
+– Toma de datos.
+
+– Elaboración de croquis y planos.
+
+– Normativa de prevención de riesgos laborales relativa a las operaciones topográficas.
+
+Determinación de las necesidades hídricas de las especies:
+
+– El agua: procedencia y calidad.
+
+– El agua en el suelo. Capa freática.
+
+– Necesidades de agua: evapotranspiración. Balance de agua en el suelo. Necesidades netas y totales.
+
+– Cálculo de la dosis y frecuencia de riego.
+
+– Sistemas de riego.
+
+– Comprobación de la fuerza de retención del agua en el suelo..
+
+– Normativa ambiental relativa al uso del agua.
+
+Identificación de los ecosistemas del entorno más próximo:
+
+– Concepto de Ecología.
+
+– Redes tróficas. Productores primarios.
+
+– Comunidades. Dinámica de poblaciones.
+
+– Flujo energético.
+
+– Agricultura, ganadería y conservación de los ecosistemas.
+
+– Erosión.
+
+– Producción ecológica. Influencia sobre el ecosistema.
+
+Identificación de especies vegetales:
+
+– La célula vegetal.
+
+– Los tejidos vegetales.
+
+– Morfología y estructura de las plantas.
+
+– Procesos fisiológicos. Fenología.
+
+– Taxonomía vegetal.
+
+Caracterización de los fertilizantes:
+
+– Los elementos nutritivos.
+
+– Desequilibrios nutricionales.
+
+– Tipos de abonos.
+
+– Influencia de los fertilizantes en las plantas.
+
+– Los fertilizantes en el suelo.
+
+– Los abonos en hidroponía y fertirrigación.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de producción de plantas y productos agrícola-forestales y de jardinería.
+
+La producción de plantas y productos agrícola-forestales y de jardinería incluye aspectos como:
+
+– Caracterización del clima.
+
+– Identificación de suelos.
+
+– Operaciones topográficas.
+
+– Determinación de las necesidades hídricas de las plantas.
+
+– Identificación del medio.
+
+– Descripción de los fertilizantes.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Producción de plantas y productos agrícola-forestales y de jardinería.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), l), q), r), s) y u) del ciclo formativo, y las competencias a), l), p), q), r) y t) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Recopilación e interpretación de datos climatológicos.
+
+– Realización e interpretación de análisis de suelo.
+
+– Uso de instrumentos topográficos.
+
+– Registro de los datos tomados con los instrumentos topográficos.
+
+– Dibujo de croquis y planos a diferentes escalas.
+
+– Cálculo de dosis y frecuencia de riegos.
+
+– Análisis del medio del entorno más próximo.
+
+– Clasificación botánica de las especies vegetales.
+
+– Identificación de tipos de fertilizantes.
+
+– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
+
+Módulo Profesional: Taller y equipos de tracción.
+
+Código: 0407.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Organiza el taller de la explotación justificando la ubicación de herramientas y equipos.
+
+Criterios de evaluación:
+
+a) Se han descrito y señalizado las diferentes zonas del taller de la explotación.
+
+b) Se han identificado las principales herramientas y equipos del taller.
+
+c) Se han ubicado las herramientas y equipos en el lugar correspondiente.
+
+d) Se ha realizado un inventario de las herramientas y equipos verificando las necesidades de reposición.
+
+e) Se ha realizado un registro de herramientas y equipos del taller.
+
+f) Se han aplicado procedimientos de limpieza y eliminación de residuos del taller.
+
+2. Maneja el tractor y equipos de tracción interpretando la funcionalidad y utilización del mismo.
+
+Criterios de evaluación:
+
+a) Se han identificado las partes y componentes de un tractor y equipos de tracción.
+
+b) Se han descrito los sistemas del tractor y de los equipos de tracción.
+
+c) Se han descrito los tipos de tractores y de equipos de tracción.
+
+d) Se ha calculado el coste horario de utilización del tractor y de los equipos de tracción.
+
+e) Se ha seleccionado el tractor y equipos de tracción según las características de la explotación.
+
+f) Se ha accionado la toma de fuerza y el sistema hidráulico.
+
+g) Se han acoplado los aperos y la maquinaria al tractor.
+
+h) Se han realizado actividades de manejo de tractores sin aperos.
+
+i) Se han realizado actividades de manejo de tractores con los remolques o aperos.
+
+3. Realiza el mantenimiento básico del tractor y equipos de tracción interpretando los protocolos y fichas de mantenimiento.
+
+Criterios de evaluación:
+
+a) Se han descrito y efectuado las principales operaciones de mantenimiento.
+
+b) Se han interpretado las indicaciones e instrucciones técnicas del programa de mantenimiento.
+
+c) Se han analizado las repercusiones técnico-económicas.
+
+d) Se han identificado los materiales y repuestos necesarios para el mantenimiento y la reparación básica.
+
+e) Se ha realizado el montaje /desmontaje de elementos y sistemas simples.
+
+f) Se han realizado sustituciones y reparaciones básicas.
+
+g) Se han cumplimentado los registros de las operaciones.
+
+h) Se han identificado las averías cuya reparación es necesario realizar en un taller especializado.
+
+4. Realiza operaciones de soldadura y de mecanizado básico justificando los materiales y métodos empleados.
+
+Criterios de evaluación:
+
+a) Se han identificado las herramientas y equipos más utilizados para realizar operaciones de mecanizado básico.
+
+b) Se han descrito los procesos de soldadura utilizados en el taller de una explotación agraria.
+
+c) Se han caracterizado los equipos de soldadura según el procedimiento que se va a utilizar.
+
+d) Se han realizado uniones de elementos y recargas de material por distintos procedimientos de soldadura.
+
+e) Se ha controlado que la soldadura obtenida no presente defectos.
+
+f) Se han realizado operaciones de mecanizado básico utilizando herramientas y máquinas sencillas.
+
+5. Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, y las medidas y equipos para prevenirlos.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación de los materiales, herramientas, útiles y máquinas del taller agrario.
+
+b) Se han descrito las medidas de seguridad y de protección personal y colectiva que se deben adoptar en la ejecución de operaciones en el área de electromecánica.
+
+c) Se han identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, máquinas y equipos de trabajo empleados.
+
+d) Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de prevención de riesgos.
+
+e) Se han clasificado los residuos generados para su retirada selectiva.
+
+f) Se ha cumplido la normativa de prevención de riesgos laborales y de protección ambiental en las operaciones realizadas.
+
+Duración: 85 horas.
+
+Contenidos básicos:
+
+Organización del taller de la explotación:
+
+– El taller de la explotación.
+
+– Herramientas y equipos del taller.
+
+– Inventario.
+
+– Organización del taller.
+
+– Registro de operaciones.
+
+– Limpieza y eliminación de residuos.
+
+Manejo del tractor y equipos de tracción:
+
+– El tractor y equipos de tracción. Funciones y tipos. Partes del tractor.
+
+– Prestaciones y aplicaciones.
+
+– Motor. Tipos. Sistema de distribución y admisión. Sistema de refrigeración. Sistema de engrase. Sistema de alimentación.
+
+– Sistema hidráulico. Sistema de transmisión. Sistema eléctrico. Controles electrónicos. Sistemas de seguridad. Sistemas de lastrado.
+
+– Potencia. Rendimientos..
+
+– Toma de fuerza.
+
+– Enganche y accionamiento de equipos y remolques. Otros elementos.
+
+– Coste del tractor y de los equipos de tracción. Cálculo de costes.
+
+– Selección y reemplazo de equipos.
+
+Mantenimiento del tractor y equipos de tracción:
+
+– Operaciones de mantenimiento de primer nivel. Frecuencia de intervención. Control.
+
+– Materiales utilizados para el mantenimiento y la reparación.
+
+– Lubricantes. Eliminación de residuos.
+
+– Combustibles. Almacenaje. Legislación.
+
+– Otros materiales de reparación y mantenimiento.
+
+– Detección y reparación de averías sencillas.
+
+– Montaje y desmontaje de elementos y sistemas.
+
+– Repercusiones técnico-económicas en el rendimiento en el trabajo: averías, consumo de combustible, vida útil de las maquinarias y sus componentes.
+
+Soldadura y mecanizado básico:
+
+– Mecanizado básico y soldadura.
+
+– Partes de la soldadura.
+
+– Equipos de soldadura y mecanizado básico. Aplicaciones.
+
+– Operaciones de soldadura. Tipos de uniones.
+
+– Defectos de las soldaduras. Control del proceso.
+
+– Operaciones de mecanizado básico. Herramientas y máquinas.
+
+Prevención de riesgos laborales y protección ambiental:
+
+– Riesgos inherentes al taller agrario.
+
+– Medios de prevención.
+
+– Prevención y protección colectiva.
+
+– Equipos de protección individual o EPI’s.
+
+– Señalización en el taller.
+
+– Seguridad en el taller.
+
+– Fichas de seguridad.
+
+– Protección ambiental: recogida y selección de residuos.
+
+– Almacenamiento y retirada de residuos.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de manejo y mantenimiento de tractores y equipos de tracción.
+
+El manejo y mantenimiento de tractores y equipos de tracción incluye aspectos como:
+
+– Descripción del taller de la explotación.
+
+– Selección del tractor y equipos de tracción de la explotación.
+
+– Manejo del tractor y equipos de tracción.
+
+– Mantenimiento del tractor y equipos de tracción.
+
+– Soldadura y mecanizado básico.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Taller de la explotación.
+
+– Tractor y equipos de tracción.
+
+– Soldadura y mecanizado básico.
+
+La formación del módulo contribuye a alcanzar los objetivos generales l), q), r), s), u), v) y w) del ciclo formativo, y las competencias k), p), q), r), t) y u) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Caracterización de las herramientas y equipos del taller.
+
+– Registro de las operaciones del taller.
+
+– Limpieza y eliminación de los residuos del taller.
+
+– Aprovechamiento de la potencia del tractor.
+
+– Selección y reemplazo del tractor y equipos de tracción.
+
+– Cálculo del coste horario del tractor y equipos de tracción.
+
+– Caracterización de los elementos del tractor.
+
+– Operaciones de mantenimiento del tractor.
+
+– Proceso de soldadura.
+
+Módulo Profesional: Infraestructuras e instalaciones agrícolas.
+
+Código: 0408.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Instala y mantiene infraestructuras agrícolas describiendo sus características y técnicas de montaje.
+
+Criterios de evaluación:
+
+a) Se han identificado las infraestructuras necesarias para una explotación.
+
+b) Se han descrito las principales características y técnicas de montaje de las infraestructuras.
+
+c) Se ha relacionado la topografía del terreno y las características de la parcela con el tipo de infraestructura que se va a implantar.
+
+d) Se han descrito los sistemas de drenaje.
+
+e) Se han realizado operaciones de mantenimiento de infraestructuras.
+
+f) Se ha manejado la maquinaria y herramienta básica para la instalación y mantenimiento de una infraestructura.
+
+2. Monta instalaciones de riego identificando los elementos de la instalación y las técnicas de montaje.
+
+Criterios de evaluación:
+
+a) Se han descrito los componentes de la instalación de riego y su funcionamiento.
+
+b) Se han seleccionado los materiales necesarios para el montaje de una instalación de riego.
+
+c) Se han interpretado las especificaciones técnicas de un proyecto de riego.
+
+d) Se ha realizado el replanteo de una instalación de riego.
+
+e) Se han montado piezas y accesorios de riego en diferentes tipos de tuberías.
+
+f) Se ha verificado el funcionamiento de una instalación de riego.
+
+g) Se han corregido las deficiencias de funcionamiento detectadas en una instalación de riego.
+
+3. Instala sistemas de protección y forzado relacionándolos con los factores ambientales y de cultivo.
+
+Criterios de evaluación:
+
+a) Se han clasificado las instalaciones de protección y forzado de los cultivos.
+
+b) Se han descrito las características de los sistemas de protección y forzado.
+
+c) Se han descrito las propiedades de los diferentes tipos de cubiertas.
+
+d) Se han seleccionado los materiales y herramientas para el montaje de un sistema de protección o forzado.
+
+e) Se han instalado los elementos de un sistema de protección siguiendo las especificaciones técnicas de montaje.
+
+f) Se han descrito los elementos que permiten el control ambiental en un invernadero.
+
+g) Se han instalado los elementos de control ambiental.
+
+4. Mantiene instalaciones agrícolas interpretando los protocolos establecidos para su conservación e higiene.
+
+Criterios de evaluación:
+
+a) Se han descrito y relacionado las averías más frecuentes con las instalaciones.
+
+b) Se han identificado los elementos averiados o deteriorados en una instalación.
+
+c) Se han aprovisionado los elementos necesarios para el mantenimiento de una instalación.
+
+d) Se han sustituido los elementos averiados o deteriorados de una instalación.
+
+e) Se han realizado las reparaciones básicas.
+
+f) Se han seleccionado los productos de limpieza, desinfección, desinsectación y desratización.
+
+g) Se han aplicado los productos de limpieza, desinfección, desinsectación y desratización en las dosis recomendadas.
+
+5. Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, y las medidas y equipos para prevenirlos.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación de los materiales, herramientas, útiles y máquinas de la instalación agrícola.
+
+b) Se han descrito las medidas de seguridad y de protección personal y colectiva que se deben adoptar en la ejecución de operaciones en el área de electromecánica.
+
+c) Se ha identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, máquinas y equipos de trabajo empleados.
+
+d) Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de prevención de riesgos.
+
+e) Se han clasificado los residuos generados para su retirada selectiva.
+
+f) Se ha cumplido la normativa de prevención de riesgos laborales y de protección ambiental en las operaciones realizadas.
+
+Duración: 60 horas.
+
+Contenidos básicos:
+
+Instalación y mantenimiento de infraestructuras agrícolas:
+
+– Tipos de infraestructuras.
+
+– Características y técnicas de montaje de las infraestructuras.
+
+– Ubicación de infraestructuras: topografía.
+
+– Red de drenaje. Función.
+
+– Maquinaria y herramienta específica.
+
+– Mantenimiento de primer nivel de las infraestructuras.
+
+Montaje de instalaciones de riego:
+
+– Características de las instalaciones de riego. Caudal. Presión.
+
+– Material de riego. Tuberías. Elementos de unión. Emisores. Criterios de elección.
+
+– Automatismos.
+
+– Cabezal de riego. Ubicación. Grupo de bombeo. Filtros. Equipo de fertirrigación.
+
+– Proyectos de riego: interpretación.
+
+– Replanteo de la instalación.
+
+– Materiales y herramientas de montaje.
+
+– Verificación del funcionamiento de una instalación de riego. Medición de presiones y caudales. Uso eficiente de los recursos hídricos.
+
+Instalación de sistemas de protección y forzado de cultivos:
+
+– Tipos de instalaciones de protección y forzado.
+
+– Características de las instalaciones de protección y forzado. Materiales. Dimensiones.
+
+– Cubiertas. Materiales plásticos. Vidrio.
+
+– Interpretación de los planos e indicaciones de montaje.
+
+– Elementos de control ambiental.
+
+Mantenimiento de instalaciones agrícolas:
+
+– Averías más frecuentes.
+
+– Localización de elementos averiados o deteriorados.
+
+– Aprovisionamiento de piezas y elementos de una instalación.
+
+– Mantenimiento preventivo.
+
+– Mantenimiento de la instalación de riego.
+
+– Sustitución de elementos averiados o deteriorados. Procedimiento. Herramientas.
+
+– Elementos básicos de reparación.
+
+– Productos de limpieza, desinfección, desinsectación y desratización.
+
+Prevención de riesgos laborales y protección ambiental:
+
+– Riesgos inherentes a la instalación agrícola.
+
+– Medios de prevención.
+
+– Prevención y protección colectiva.
+
+– Equipos de protección individual o EPI’s.
+
+– Señalización.
+
+– Seguridad.
+
+– Fichas de seguridad.
+
+– Protección ambiental: recogida y selección de residuos.
+
+– Almacenamiento y retirada de residuos.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de montaje y mantenimiento de infraestructuras e instalaciones agrícolas.
+
+El montaje y mantenimiento de infraestructuras e instalaciones agrícolas incluye aspectos como:
+
+– Identificación de las infraestructuras e instalaciones agrícolas.
+
+– Montaje de infraestructuras e instalaciones.
+
+– Revisión del funcionamiento de las instalaciones.
+
+– Acondicionamiento de las instalaciones para su uso.
+
+– Mantenimiento periódico de instalaciones, detección y reparación de averías sencillas.
+
+– Limpieza de instalaciones.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Infraestructuras agrícolas.
+
+– Instalaciones de riego.
+
+– Instalaciones de protección y forzado.
+
+– Instalaciones eléctricas de baja tensión.
+
+– Instalaciones de agua potable.
+
+– Instalaciones de ventilación, calefacción y climatización.
+
+La formación del módulo contribuye a alcanzar los objetivos generales d), l), q), r), s), u), v) y w) del ciclo formativo, y las competencias d), k), p), q), r), t) y u) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Identificación y caracterización de infraestructuras e instalaciones.
+
+– Aplicación de técnicas de montaje de instalaciones.
+
+– Acondicionamiento de infraestructuras e instalaciones.
+
+– Mantenimiento de infraestructuras e instalaciones.
+
+– Procedimientos de detección y reparación de averías sencillas.
+
+– Métodos de limpieza y desinfección de instalaciones.
+
+– Manejo de equipos, herramientas y maquinaria.
+
+– Cumplimiento de normas de seguridad laboral y de protección ambiental.
+
+Módulo Profesional: Principios de sanidad vegetal.
+
+Código: 0409.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Caracteriza la vegetación espontánea no deseada describiendo las especies presentes en la zona.
+
+Criterios de evaluación:
+
+a) Se han reconocido las plántulas de vegetación espontánea no deseada.
+
+b) Se han identificado las plantas parásitas de los vegetales.
+
+c) Se han determinado las especies mediante el empleo de claves.
+
+d) Se han descrito las características biológicas de las especies de vegetación espontánea.
+
+e) Se ha identificado la asociación de la vegetación espontánea no deseada con los cultivos.
+
+f) Se ha elaborado un herbario con las especies de vegetación espontánea no deseada.
+
+g) Se ha valorado la incidencia ejercida por la vegetación espontánea sobre los cultivos.
+
+2. Determina la fauna perjudicial y beneficiosa para los vegetales, relacionando las características biológicas con los efectos sobre las plantas.
+
+Criterios de evaluación:
+
+a) Se han ubicado los seres vivos perjudiciales y beneficiosos en una clasificación general.
+
+b) Se han identificado las características morfológicas de invertebrados, aves y mamíferos más significativos.
+
+c) Se ha descrito la fisiología de la fauna perjudicial y beneficiosa.
+
+d) Se han diferenciado los órdenes de insectos y ácaros perjudiciales y beneficiosos de las plantas.
+
+e) Se ha realizado un insectario con los órdenes más característicos.
+
+f) Se han reconocido los síntomas y daños producidos por la fauna perjudicial en las plantas.
+
+g) Se ha identificado la fauna perjudicial que ha provocado los síntomas o daños en las plantas.
+
+h) Se ha relacionado el ciclo biológico de la fauna que puede provocar plaga con las condiciones ambientales y la fenología de la planta.
+
+3. Determina los agentes beneficiosos y los que provocan enfermedades y daños que afectan a las plantas, describiendo sus características.
+
+Criterios de evaluación:
+
+a) Se han clasificado los agentes beneficiosos y los que provocan enfermedades y daños.
+
+b) Se han descrito los agentes bióticos.
+
+c) Se han descrito las condiciones ambientales que afectan a los agentes beneficiosos y a los que provocan las enfermedades.
+
+d) Se ha valorado la forma de transmisión de las enfermedades.
+
+e) Se han descrito los síntomas y daños de las enfermedades.
+
+f) Se han reconocido las enfermedades propias de cada planta.
+
+g) Se han identificado los agentes causantes de la enfermedad en una muestra.
+
+4. Determina el estado sanitario de las plantas, valorando la información obtenida según el protocolo establecido.
+
+Criterios de evaluación:
+
+a) Se han identificado las unidades de muestreo señaladas en el terreno.
+
+b) Se han efectuado los conteos y tomas de muestras con las técnicas y medios establecidos.
+
+c) Se han tomado muestras de patologías desconocidas para su envío al laboratorio siguiendo el protocolo establecido.
+
+d) Se han interpretado los niveles de presencia de agentes no beneficiosos, comparándolo con los valores de referencia.
+
+e) Se han relacionado las condiciones ambientales con el muestreo que se ha de realizar.
+
+f) Se ha cuantificado la fauna auxiliar existente.
+
+g) Se ha reconocido el umbral de tratamiento de cada agente no beneficioso.
+
+5. Caracteriza los métodos de protección para las plantas valorando sus efectos sobre la sanidad de las mismas.
+
+Criterios de evaluación:
+
+a) Se han clasificado los métodos de protección contra la fauna perjudicial, enfermedades, fisiopatías y vegetación espontánea no deseada.
+
+b) Se han interpretado las características de los métodos de control indirecto.
+
+c) Se han interpretado las características de los métodos de control directo.
+
+d) Se han valorado los métodos químicos empleados en la lucha contra la fauna perjudicial, enfermedades y vegetación espontánea no deseada.
+
+e) Se han descrito los métodos biológicos y biotécnicos.
+
+f) Se ha descrito el método de lucha integrada.
+
+Duración: 60 horas.
+
+Contenidos básicos:
+
+Caracterización de la vegetación espontánea no deseada:
+
+– Vegetación espontánea. Clasificación.
+
+– Claves para la clasificación de especies.
+
+– Descripción biológica. Dispersión.
+
+– Plantas parásitas.
+
+– Hábitat. Asociación de especies.
+
+– Elaboración de herbarios. Materiales. Recogida y acondicionamiento.
+
+– Perjuicios causados.
+
+Determinación de la fauna perjudicial y beneficiosa:
+
+– Clasificación de los seres vivos. Fauna perjudicial y beneficiosa.
+
+– Invertebrados, aves y mamíferos más significativos. Morfología y fisiología.
+
+– Comportamiento de dispersión de la fauna perjudicial y beneficiosa.
+
+– Elaboración de insectarios. Clasificación de órdenes. Equipos. Captura y acondicionamiento.
+
+– Fauna beneficiosa. Biología.
+
+– Plaga. Concepto.
+
+– Plagas polífagas. Clasificación. Biología. Síntomas. Daños.
+
+– Plagas específicas. Clasificación. Biología. Síntomas. Daños.
+
+Determinación de agentes beneficiosos y de los que provocan enfermedades:
+
+– Clasificación de agentes beneficiosos y de los que provocan enfermedades.
+
+– Agentes bióticos beneficiosos y perjudiciales. Biología.
+
+– Agentes abióticos. Daños.
+
+– Enfermedad. Concepto. Transmisión. Condiciones ambientales.
+
+– Enfermedades de origen biótico. Biología. Síntomas y daños.
+
+– Preparación de muestras de laboratorio.
+
+Determinación del estado sanitario de las plantas:
+
+– Muestreo. Técnicas que se deben utilizar.
+
+– Conteos. Localización de los puntos de conteo.
+
+– Toma de muestras.
+
+– Preparación de muestras patológicas y envío al laboratorio.
+
+– Interpretación de los niveles de presencia. Estado sanitario de las plantas.
+
+– Umbrales. Tipos y conceptos.
+
+– Materiales y equipos de conteo y muestreo.
+
+Caracterización de métodos de protección de los vegetales:
+
+– Métodos de protección. Clasificación.
+
+– Métodos indirectos.
+
+– Métodos directos.
+
+– Lucha biológica.
+
+– Lucha biotécnica.
+
+– Control químico.
+
+– Lucha integrada.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para reconocer el estado sanitario de la vegetación y de los métodos de protección.
+
+El reconocimiento del estado sanitario de la vegetación y de los métodos de protección incluye aspectos como:
+
+– Conocimiento de la vegetación espontánea no deseada.
+
+– Caracterización de la fauna auxiliar y perjudicial.
+
+– Descripción de enfermedades y daños.
+
+– Valoración del estado sanitario de las plantas.
+
+– Métodos de protección de la plantas.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– La fauna perjudicial y beneficiosa.
+
+– La vegetación espontánea no deseada.
+
+– La sanidad de los vegetales.
+
+– Los métodos de protección de las plantas.
+
+La formación del módulo contribuye a alcanzar los objetivos generales g), l), q), r) y s) del ciclo formativo, y las competencias g), k), p), q) y r) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Clasificación de los ejemplares de vegetación espontánea no deseada encontrados.
+
+– Realización de un herbario con especies de vegetación espontánea.
+
+– Identificación de la fauna auxiliar y perjudicial presente sobre las plantas.
+
+– Elaboración de un insectario con las especies más representativas.
+
+– Reconocimiento de las enfermedades bióticas y abióticas de las plantas.
+
+– Conteos y tomas de muestras.
+
+– Análisis de los métodos de protección.
+
+Módulo Profesional: Control fitosanitario.
+
+Código: 0479
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Determina los productos químicos fitosanitarios que se deben aplicar analizando sus características técnicas.
+
+Criterios de evaluación:
+
+a) Se han clasificado los distintos tipos de productos químicos fitosanitarios.
+
+b) Se han caracterizado las propiedades generales de los productos químicos fitosanitarios.
+
+c) Se han reconocido las principales características de los formulados.
+
+d) Se han seleccionado los formulados que se desean emplear.
+
+e) Se han valorado las posibles incompatibilidades entre los formulados.
+
+f) Se han analizado las etiquetas y ficha técnica de seguridad de los formulados.
+
+g) Se han valorado las condiciones ambientales y del cultivo en la elección de los productos químicos.
+
+h) Se ha aplicado la legislación fitosanitaria vigente.
+
+2. Almacena y manipula los productos químicos fitosanitarios interpretando las normas y protocolos establecidos.
+
+Criterios de evaluación:
+
+a) Se han descrito las condiciones que debe cumplir el transporte y almacenamiento de productos químicos fitosanitarios.
+
+b) Se han colocado los productos químicos fitosanitarios en el medio de transporte.
+
+c) Se ha cumplimentado la documentación de transporte y el libro oficial de movimientos de productos químicos fitosanitarios.
+
+d) Se han colocado los productos químicos fitosanitarios en el almacén siguiendo la normativa básica.
+
+e) Se han caracterizado los procedimientos a seguir en la retirada de productos fitosanitarios de la explotación.
+
+f) Se han descrito las actuaciones que se deben seguir en el caso de derrame accidental durante el transporte y/o almacenamiento de productos químicos fitosanitarios.
+
+g) Se han manipulado los productos químicos fitosanitarios siguiendo el protocolo establecido.
+
+h) Se ha aplicado la normativa de utilización de productos químicos fitosanitarios.
+
+3. Aplica métodos físicos, biológicos y/o biotécnicos describiendo y manejando las técnicas prescritas.
+
+Criterios de evaluación:
+
+a) Se ha reconocido la conveniencia de aplicar métodos físicos, biológicos y/o biotécnicos.
+
+b) Se ha elegido el método físico, biológico y/o biotécnico que se va a utilizar.
+
+c) Se han valorado las condiciones de aplicación de productos biológicos y/o biotécnicos.
+
+d) Se han utilizado los materiales, herramientas y equipos en la aplicación de métodos físicos, biológicos y/o biotécnicos.
+
+e) Se han calculado los costes de las aplicaciones.
+
+f) Se ha valorado la eficacia de los métodos físicos, biológicos y/o biotécnicos utilizados.
+
+g) Se han anotado las operaciones realizadas en el cuaderno de campo.
+
+4. Prepara productos químicos fitosanitarios siguiendo el protocolo establecido.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los materiales y equipos empleados en la preparación de productos químicos fitosanitarios.
+
+b) Se ha calculado la cantidad de formulado en función de la dosis del tratamiento.
+
+c) Se han utilizado los equipos de protección individual.
+
+d) Se ha realizado la mezcla del formulado que se vaya a emplear.
+
+e) Se han eliminado los envases vacíos según los sistemas de gestión.
+
+f) Se han anotado las operaciones realizadas en el cuaderno de campo.
+
+5. Aplica productos químicos fitosanitarios seleccionando la maquinaria y equipos.
+
+Criterios de evaluación:
+
+a) Se han seleccionado los materiales, equipos y maquinaria empleados en la aplicación de productos químicos fitosanitarios.
+
+b) Se han previsto las condiciones climáticas que pueden afectar a la aplicación.
+
+c) Se ha regulado y calibrado la maquinaria y equipos.
+
+d) Se ha calculado el coste de los tratamientos aplicados.
+
+e) Se han utilizado los equipos de protección individual.
+
+f) Se han utilizado las máquinas y equipos en la aplicación de productos químicos fitosanitarios.
+
+g) Se han realizado las labores de limpieza y mantenimiento en máquinas y equipos según las especificaciones técnicas.
+
+h) Se ha valorado la eficacia de los tratamientos químicos realizados.
+
+i) Se han elaborado fichas y documentación que recogen las fechas, tareas, tiempos y medios empleados en los tratamientos.
+
+j) Se ha seguido la normativa de utilización de productos químicos fitosanitarios y de seguridad alimentaria.
+
+6. Reconoce los riesgos derivados de la utilización de productos químicos fitosanitarios en función de su composición y mecanismos de acción, analizando sus efectos perjudiciales sobre las personas y el medio.
+
+Criterios de evaluación:
+
+a) Se han analizado los factores que influyen en la peligrosidad de un producto químico fitosanitario.
+
+b) Se ha caracterizado la peligrosidad de los diferentes grupos de productos fitosanitarios.
+
+c) Se han descrito los efectos de los productos químicos fitosanitarios sobre la salud de las personas.
+
+d) Se han señalado los efectos de los productos químicos fitosanitarios sobre la agricultura.
+
+e) Se han caracterizado los riesgos de los productos químicos fitosanitarios para el medio ambiente.
+
+f) Se han descrito las medidas para disminuir el riesgo derivado de la aplicación de los tratamientos.
+
+7. Cumple las normas de prevención de riesgos laborales y de protección ambiental, identificando los riesgos asociados, y las medidas y equipos para prevenirlos.
+
+Criterios de evaluación:
+
+a) Se han identificado los riesgos y el nivel de peligrosidad que suponen la manipulación de los materiales, herramientas, útiles y máquinas de la explotación agrícola.
+
+b) Se han descrito las medidas de seguridad y de protección personal y colectiva que se deben adoptar en la ejecución de operaciones en el área de electromecánica.
+
+c) Se ha identificado las causas más frecuentes de accidentes en la manipulación de materiales, herramientas, máquinas y equipos de trabajo empleados.
+
+d) Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de prevención de riesgos.
+
+e) Se han clasificado los residuos generados para su retirada selectiva.
+
+f) Se ha cumplido la normativa de prevención de riesgos laborales y de protección ambiental en las operaciones realizadas.
+
+Duración: 70 horas.
+
+Contenidos básicos:
+
+Selección de productos químicos fitosanitarios:
+
+– Definición de producto químico fitosanitario. Clasificaciones de los productos químicos fitosanitarios.
+
+– Características de los productos químicos fitosanitarios. Composición y formulación. Presentación. Toxicidad.
+
+– Formulados. Elección. Uso del Vademécum. Incompatibilidades.
+
+– La etiqueta de los productos químicos fitosanitarios. Estructura de la etiqueta. Símbolos e indicaciones de peligro. Fichas técnicas y de seguridad.
+
+– Normativa fitosanitaria.
+
+Almacenaje y manipulación de productos químicos fitosanitarios:
+
+– Normas generales para el transporte de productos químicos fitosanitarios. Documentos para el transporte de productos químicos fitosanitarios.
+
+– Características técnicas del almacén. Zonas de almacenamiento.
+
+– Normas para el almacenamiento de productos.
+
+– Normas de retirada de productos fitosanitarios de la explotación.
+
+– Manipulación de productos químicos fitosanitarios. Carné de manipulador de productos fitosanitarios.
+
+– Medidas de emergencia en caso de accidente durante el transporte y/o almacenamiento de productos químicos fitosanitarios.
+
+– Normativa fitosanitaria relativa al transporte, almacenaje y manipulación de productos químicos fitosanitarios.
+
+Aplicación de métodos físicos, biológicos y biotécnicos:
+
+– Valoración y elección del método.
+
+– Métodos físicos. Consideraciones generales.
+
+– Métodos biológicos. Parasitoides y depredadores. Principales especies de parasitoides y depredadores. Lucha autocida; esterilización de machos. Microorganismos entomopatógenos.
+
+– Métodos biotécnicos. Fundamento. Materiales utilizados. Trampas. Tipos. Época de empleo. Interpretación de las capturas.
+
+– Materiales, herramientas y equipos.
+
+– Técnicas de aplicación de los enemigos naturales.
+
+– Cálculo de costes.
+
+– Valoración de los resultados obtenidos.
+
+– Registro de datos.
+
+Preparación de productos químicos fitosanitarios:
+
+– Equipos para la protección de cultivos. Clasificación. Características. Tipos. Componentes esenciales de un pulverizador. Espolvoreadores. Distribuidores de microgránulos y otras técnicas y equipos de defensa fitosanitaria.
+
+– Cálculo de la cantidad de formulado de tratamiento. Mezclas.
+
+– Equipos de protección personal. Selección del equipo de protección.
+
+– Preparación de caldos de tratamiento. Procedimientos de preparación.
+
+– Eliminación de envases vacíos. Sistemas de gestión.
+
+– El cuaderno de explotación.
+
+– Normativa fitosanitaria relativa a la preparación y aplicación de productos químicos fitosanitarios.
+
+Aplicación de productos químicos fitosanitarios:
+
+– Elección de la maquinaria y equipos.
+
+– Condiciones climáticas durante el tratamiento.
+
+– Regulación y calibrado (dosificado) de la maquinaria y del equipo.
+
+– Cálculo de costes de tratamiento.
+
+– Utilización de los equipos de protección individual.
+
+– Prácticas de preparación y aplicación.
+
+– Mantenimiento, limpieza y conservación de los equipos. Limpieza de las máquinas y equipos.
+
+– Valoración de resultados obtenidos.
+
+– Elaboración de fichas y anotación de operaciones realizadas.
+
+– Normativa fitosanitaria relativa a la preparación y aplicación de productos químicos fitosanitarios.
+
+Riesgos derivados de la utilización de los productos químicos fitosanitarios:
+
+– Toxicidad de los productos químicos fitosanitarios.
+
+– Factores que influyen en la peligrosidad de un producto químico fitosanitario. Propiedades físico-químicas de los productos químicos fitosanitarios. Condiciones climáticas en el momento de la exposición al producto. Factores fisiológicos. Vías de absorción.
+
+– Residuos de productos químicos fitosanitarios. Conceptos generales.
+
+– Síntomas y efectos de los productos químicos fitosanitarios sobre la salud. Conducta a seguir en caso de intoxicación: Primeros auxilios.
+
+– Riesgos para la agricultura. Fitotoxicidad. Generación de residuos.
+
+– Riesgos para el medio ambiente. Riesgos para la fauna. Riesgos para el aire, el suelo y el agua.
+
+– Normativa fitosanitaria relativa a la utilización de productos químicos fitosanitarios.
+
+Prevención de riesgos laborales y protección ambiental:
+
+– Riesgos inherentes a la explotación agrícola.
+
+– Medios de prevención.
+
+– Prevención y protección colectiva.
+
+– Equipos de protección individual o EPI’s.
+
+– Señalización.
+
+– Seguridad.
+
+– Fichas de seguridad.
+
+– Protección ambiental: recogida y selección de residuos.
+
+– Almacenamiento y retirada de residuos.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar las funciones de selección y aplicación de métodos físicos, biológicos y biotécnicos, así como de productos químicos fitosanitarios.
+
+La selección y aplicación de métodos físicos, biológicos y biotécnicos, así como de productos químicos fitosanitarios incluye aspectos como:
+
+– La caracterización de los productos químicos fitosanitarios.
+
+– Determinación de las normas que se deben cumplir durante el transporte, almacenaje y manipulación de productos químicos fitosanitarios.
+
+– Identificación de los métodos físicos, biológicos y biotécnicos.
+
+– Operaciones de preparación y aplicación de productos químicos fitosanitarios.
+
+– Identificación de los riesgos derivados de la utilización de productos químicos fitosanitarios.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– La elección de productos químicos fitosanitarios que se deben aplicar.
+
+– Transporte, almacenaje y manipulación de productos fitosanitarios.
+
+– El manejo de los métodos físicos, biológicos y biotécnicos.
+
+– La preparación y aplicación de productos químicos fitosanitarios.
+
+La formación del módulo contribuye a alcanzar los objetivos generales h), l), q), r), s), y u) del ciclo formativo, y las competencias h), k), p), q), r) y t) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Identificación de productos químicos fitosanitarios.
+
+– Interpretación de etiquetas y fichas técnicas.
+
+– Análisis de las condiciones de transporte y almacenaje.
+
+– Uso de materiales, herramientas y equipos.
+
+– Identificación de los métodos físicos, biológicos y biotécnicos.
+
+– Cálculo de la cantidad de formulado.
+
+– Uso de equipos de protección individual.
+
+– Eliminación de envases vacíos.
+
+– Regulación y uso de máquinas y equipos.
+
+– Registro de las operaciones realizadas.
+
+– Análisis de los efectos de los productos químicos fitosanitarios sobre la salud y el medio ambiente.
+
+– Cumplimiento de las normas establecidas sobre utilización de productos químicos fitosanitarios, de seguridad alimentaria, ambiental y de prevención de riesgos laborales.
+
+Módulo Profesional: Implantación de jardines y zonas verdes.
+
+Código: 0576.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Replantea los elementos del jardín interior, exterior o zona verde describiendo los tipos de mediciones y las técnicas de marqueo.
+
+Criterios de evaluación:
+
+a) Se han interpretado e identificado los elementos del plano del jardín o zona verde.
+
+b) Se han analizado las características topográficas y de la superficie del terreno.
+
+c) Se han identificado y aplicado las herramientas y los medios materiales utilizados en el replanteo.
+
+d) Se han realizado las mediciones sobre el terreno.
+
+e) Se han marcado los puntos correspondientes a los elementos del jardín o zona verde.
+
+f) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales.
+
+g) Se ha manifestado una disposición positiva para la innovación en los medios materiales y en la organización de los procesos.
+
+2. Prepara el terreno y los contenedores describiendo los medios y métodos utilizados.
+
+Criterios de evaluación:
+
+a) Se ha limpiado y desbrozado el terreno.
+
+b) Se han realizado los movimientos de tierra.
+
+c) Se han realizado las labores previas al montaje de instalaciones.
+
+d) Se han descrito y ejecutado las labores de preparación del terreno.
+
+e) Se ha realizado el acondicionamiento del suelo.
+
+f) Se han determinado y aplicado los fertilizantes y las enmiendas necesarias.
+
+g) Se han identificado los tipos de contenedores y sustratos empleados en jardinería.
+
+h) Se han rellenado los contenedores con los sustratos o sus mezclas.
+
+i) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+j) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales.
+
+3. Realiza pequeñas construcciones e instalaciones en jardinería distinguiendo los componentes o elementos de la instalación.
+
+Criterios de evaluación:
+
+a) Se ha instalado el drenaje y saneamiento en jardines de interior y exterior.
+
+b) Se han descrito los elementos de iluminación e impulsión de agua del jardín.
+
+c) Se han identificado los materiales de construcción.
+
+d) Se han elaborado los morteros.
+
+e) Se ha realizado el aplomo y nivelación de la pequeña construcción.
+
+f) Se han identificado los elementos no vegetales, equipamientos y mobiliario del jardín.
+
+g) Se ha instalado la malla antihierba.
+
+h) Se ha instalado el sistema hidropónico.
+
+i) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+j) Se ha aplicado la normativa local, ambiental y de prevención de riesgos laborales.
+
+k) Se ha respetado el patrimonio ambiental y cultural de la sociedad.
+
+4. Siembra e implanta material vegetal describiendo las labores que aseguren la nascencia y el arraigo.
+
+Criterios de evaluación:
+
+a) Se han identificado las especies y variedades de céspedes y tapizantes.
+
+b) Se han analizado las exigencias de las especies y variedades de céspedes y tapizantes.
+
+c) Se han descrito las mezclas de semillas de céspedes y tapizantes.
+
+d) Se ha repartido de forma homogénea la dosis de semilla.
+
+e) Se han dividido las matas de las especies estoloníferas.
+
+f) Se han distribuido las matas de forma homogénea.
+
+g) Se ha realizado la colocación de tepes.
+
+h) Se han realizado las labores que aseguren la germinación y el arraigo.
+
+i) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+j) Se ha aplicado la normativa de legislación ambiental y de prevención de riesgos laborales.
+
+5. Planta árboles, arbustos y plantas analizando las técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se han identificado las especies y variedades de árboles, arbustos y plantas.
+
+b) Se han analizado las exigencias de las especies y variedades de árboles, arbustos y plantas.
+
+c) Se ha comprobado que las plantas cumplen las condiciones de calidad e idoneidad.
+
+d) Se han acondicionado las plantas para su almacenaje o plantación.
+
+e) Se han descrito los métodos de plantación.
+
+f) Se han preparado los hoyos con las dimensiones requeridas.
+
+g) Se han aportado los fertilizantes y el agua de implantación.
+
+h) Se ha colocado el tutor en función de la especie.
+
+i) Se ha realizado la reposición de marras.
+
+j) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+k) Se ha aplicado la normativa de legislación ambiental y de prevención de riesgos laborales así como la específica de jardinería.
+
+Duración: 80 horas.
+
+Contenidos básicos:
+
+Replanteo de elementos del jardín interior, exterior o zona verde:
+
+– Tipos de jardines. Características.
+
+– Interpretación de planos del jardín o zona verde.
+
+– Pendientes.
+
+– Escuadras. Jalones. Estacas. Cuerdas. Marcadores. Cintas métricas.
+
+– Mediciones. Cubicaciones.
+
+– Marqueo. Técnicas.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Preparación del terreno y de contenedores:
+
+– Acondicionamiento del suelo.
+
+– Movimientos de tierra.
+
+– Acondicionamiento para instalaciones e infraestructuras.
+
+– Labores del suelo.
+
+– Fertilizantes en jardinería de exterior e interior.
+
+– Contenedores en jardinería de exterior e interior.
+
+– Elección de sustratos.
+
+– Maquinaria y herramientas. Mantenimiento.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Construcciones, instalaciones y equipamientos de jardines de interior y exterior:
+
+– Drenaje de jardines.
+
+– Redes de saneamiento y abastecimiento de agua potable.
+
+– Iluminación del jardín.
+
+– Materiales de construcción.
+
+– Elementos de construcción.
+
+– Técnicas de construcción. Aplomo. Nivelación.
+
+– Elementos no vegetales. Equipamiento y mobiliario. Instalación.
+
+– Mallas antihierba. Instalación.
+
+– Instalación del sistema hidropónico.
+
+– Maquinaria, herramientas y útiles. Mantenimiento.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Siembra e implantación del material vegetal:
+
+– Especies y variedades de céspedes y tapizantes. Exigencias.
+
+– Mezclas de semillas.
+
+– Semillado. Cespitosas. Tapizantes. Homogeneidad.
+
+– División de matas. Estolonado.
+
+– Césped a partir de matas. Plantación. Técnicas.
+
+– Césped a partir de tepes.
+
+– Labores postsiembra o plantación. Rastrillado. Rulado. Riego.
+
+– Maquinaria y herramientas. Mantenimiento.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Plantación de árboles, arbustos y plantas:
+
+– Material vegetal. Índices de calidad. Exigencias.
+
+– Transporte y almacenaje de plantas. Acondicionamiento.
+
+– Acondicionamiento de las plantas para su plantación.
+
+– Plantación. Métodos. Técnicas.
+
+– Fertilizantes y agua de implantación.
+
+– Tutorado. Tipos. Materiales.
+
+– Reposición de marras.
+
+– Maquinaria y herramientas. Mantenimiento.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de implantación de jardines de interior y exterior y zonas verdes.
+
+La implantación de jardines de interior y exterior y zonas verdes incluye aspectos como:
+
+– Replanteo de los elementos del jardín o zona verde.
+
+– Preparación y acondicionamiento del terreno.
+
+– Preparación de sustratos y contenedores.
+
+– Construcciones en jardinería.
+
+– Manejo y mantenimiento de maquinaria y aperos.
+
+– Siembra y plantación de especies ornamentales y cespitosas.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Jardines de exterior.
+
+– Jardines de interior.
+
+– Campos deportivos.
+
+– Zonas verdes de recreo.
+
+La formación del módulo contribuye a alcanzar los objetivos generales a), b), c), d), e), l), q), r), s), t), u), v) y w) del ciclo formativo, y las competencias a), b), c), d), e), k), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Interpretación de planos.
+
+– Mediciones y replanteo.
+
+– Preparación y acondicionamiento del terreno.
+
+– Preparación de mezclas de sustratos.
+
+– Realización de pequeñas obras de construcción.
+
+– Realización de instalaciones en jardinería.
+
+– Siembra y plantación de especies ornamentales.
+
+– Manejo de aperos, herramientas y maquinaria.
+
+– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
+
+Módulo Profesional: Mantenimiento y mejora de jardines y zonas verdes.
+
+Código: 0577.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Mantiene y restaura el jardín o zona verde describiendo los métodos y técnicas de conservación.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las labores de mantenimiento y de limpieza.
+
+b) Se ha elaborado el calendario de tareas en función de las necesidades del jardín o zona verde.
+
+c) Se ha seleccionado y plantado el material vegetal de temporada.
+
+d) Se han aplicado los tipos de poda según especies y funcionalidad.
+
+e) Se han realizado las labores de conservación del césped.
+
+f) Se han eliminado o reciclado los residuos vegetales.
+
+g) Se ha realizado la reposición de elementos vegetales deteriorados.
+
+h) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+i) Se ha valorado el trabajo en equipo.
+
+j) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales así como la específica de jardinería.
+
+2. Riega y abona el jardín o zona verde analizando las necesidades de las plantas y las técnicas de aplicación.
+
+Criterios de evaluación:
+
+a) Se han valorado las necesidades de las plantas.
+
+b) Se han calculado los fertilizantes.
+
+c) Se han descrito las técnicas de abonado.
+
+d) Se han aplicado las enmiendas y el abonado.
+
+e) Se ha utilizado el sistema de riego, fertirriego e hidroponía.
+
+f) Se ha comprobado la eficacia del riego.
+
+g) Se han realizado labores de sustitución de sustratos.
+
+h) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+i) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales.
+
+3. Realiza el mantenimiento de los elementos no vegetales del jardín o zona verde describiendo las herramientas y las técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las diferentes operaciones de mantenimiento y mejora.
+
+b) Se han seleccionado las herramientas según la operación que va a realizarse.
+
+c) Se han reemplazado o reparado los elementos no vegetales y el mobiliario en el jardín y/o zona verde valorando el trabajo en equipo.
+
+d) Se han sustituido o reparado los elementos deteriorados de los sistemas y construcciones del jardín o zona verde, respetando el entorno artístico y cultural.
+
+e) Se han realizado las operaciones de conservación de piscinas y estanques.
+
+f) Se han utilizado y mantenido herramientas y maquinaria en función de la operación que se va a realizar.
+
+g) Se ha aplicado la normativa local, ambiental y de prevención de riesgos laborales.
+
+4. Realiza desplazamientos en altura identificando los sistemas y métodos de trepa.
+
+Criterios de evaluación:
+
+a) Se ha reconocido el equipo de trabajo que se va a utilizar.
+
+b) Se han valorado las situaciones de riesgo.
+
+c) Se han analizado los desplazamientos que se han de realizar en la copa del árbol.
+
+d) Se ha señalizado la zona de trabajo.
+
+e) Se ha instalado el equipo de trepa para subir a la copa.
+
+f) Se ha realizado la trepa y descenso del árbol.
+
+g) Se ha valorado el estado del material una vez recogido.
+
+h) Se ha realizado el mantenimiento del equipo.
+
+i) Se ha aplicado la normativa ambiental, de prevención de riesgos laborales y la normativa específica de las tareas que van a realizarse.
+
+5. Efectúa trabajos en altura describiendo las máquinas, herramientas y métodos.
+
+Criterios de evaluación:
+
+a) Se han valorado y marcado las zonas de actuación.
+
+b) Se han identificado las técnicas de poda.
+
+c) Se han podado las ramas seleccionadas.
+
+d) Se han aplicado las técnicas de tratamiento de las heridas de poda.
+
+e) Se ha realizado el descenso controlado de trozas y ramas.
+
+f) Se ha identificado, seleccionado y mantenido la maquinaria y herramientas.
+
+g) Se ha valorado el plan de actuación para casos de emergencia.
+
+h) Se ha aplicado la normativa ambiental, de prevención de riesgos laborales y la normativa específica de las tareas que se deben realizar.
+
+Duración: 70 horas.
+
+Contenidos básicos:
+
+Mantenimiento y restauración del jardín o zona verde:
+
+– Planos y croquis del jardín.
+
+– Labores de mantenimiento y mejora de un jardín o zona verde. Calendario.
+
+– Necesidades de poda. Técnicas de poda.
+
+– Mantenimiento y conservación de céspedes. Siega. Perfilado de bordes. Escarificado y aireado.
+
+– Eliminación o reciclado de los residuos vegetales.
+
+– Máquinas, herramientas y útiles. Mantenimiento.
+
+– Normativa ambiental y de prevención de riesgos laborales así como la específica de jardinería.
+
+Riego y abonado del jardín o zona verde:
+
+– Determinación de las necesidades de abonado y enmiendas en las etapas de desarrollo. Aplicación.
+
+– Manejo del sistema de riego, fertirrigación e hidroponía.
+
+– Manejo de plantas en contenedores. Sustitución de sustratos.
+
+– Máquinas, herramientas y útiles. Mantenimiento.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Mantenimiento de los elementos no vegetales del jardín o zona verde:
+
+– Mantenimiento de instalaciones. Reparaciones.
+
+– Conservación de piscinas y estanques.
+
+– Herramientas y equipos. Mantenimiento.
+
+– Mantenimiento del equipamiento del jardín. Reparaciones.
+
+– Normativa local, ambiental y de prevención de riesgos laborales.
+
+Desplazamientos en altura:
+
+– Técnicas de trabajo en árboles. Técnicas básicas de trepa.
+
+– Equipos, útiles y materiales de trepa y corte. Características. Conservación y almacenamiento.
+
+– Señalización de las zonas de trabajo.
+
+– Técnicas de desplazamiento: movimientos por la copa.
+
+– Movimientos de descenso: utilización del descensor y otros.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Trabajos en altura:
+
+– Funciones y objetivos de la poda en altura. Zonas de actuación: marcado.
+
+– Técnicas de poda del arbolado. Técnicas de eliminación de ramas completas. Técnica de acortamiento de ramas.
+
+– Descenso guiado de ramas. Características.
+
+– Maquinaria y herramientas de poda. Mantenimiento.
+
+– Seguridad en las labores de los trabajos en altura. Plan de emergencia. Primeros auxilios.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de mantenimiento y mejora de jardines de interior, exterior y zonas verdes.
+
+El mantenimiento y mejora de jardines de interior, exterior y zonas verdes incluyen aspectos como:
+
+– Mantenimiento y restauración del jardín o zona verde.
+
+– Riego y abonado del jardín o zona verde.
+
+– Mantenimiento de los elementos no vegetales del jardín o zona verde.
+
+– Selección, manejo y mantenimiento de herramientas y maquinaria.
+
+– Desplazamientos en altura.
+
+– Trabajos en altura.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Jardines de exterior.
+
+– Jardines de interior.
+
+– Campos deportivos.
+
+– Zonas verdes de recreo.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), c), d), e), f), l), m), q), r), s), t), u), v) y w) del ciclo formativo, y las competencias b), c), d), e), f), k), l), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Elaboración del calendario de tareas.
+
+– Labores de mantenimiento o restauración.
+
+– Reposición de elementos vegetales deteriorados.
+
+– Realización de enmiendas y abonados.
+
+– Utilización del sistema de riego, fertirriego e hidroponía.
+
+– Sustitución o reparación del mobiliario deteriorado del jardín y/o zona verde.
+
+– Realización de desplazamientos por la copa del árbol.
+
+– Podas de árboles en altura.
+
+– Selección, manejo y mantenimiento de herramientas y maquinaria.
+
+– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
+
+Módulo Profesional: Producción de plantas y tepes en vivero.
+
+Código: 0578.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Propaga plantas por multiplicación sexual analizando las características y necesidades de las semillas.
+
+Criterios de evaluación:
+
+a) Se han recogido frutos y semillas.
+
+b) Se ha analizado la viabilidad de las semillas.
+
+c) Se han descrito las técnicas de preparación de lotes de frutos y semillas.
+
+d) Se han acondicionado y almacenado las semillas.
+
+e) Se han realizado los tratamientos pregerminativos.
+
+f) Se han calculado las dosis y la densidad de semilla.
+
+g) Se han descrito los tipos de semillero.
+
+h) Se han sembrado los semilleros.
+
+i) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+j) Se ha aplicado la normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+2. Propaga plantas de forma asexual describiendo las técnicas de multiplicación.
+
+Criterios de evaluación:
+
+a) Se ha elegido la planta madre para obtención de material vegetal de propagación.
+
+b) Se han descrito las técnicas de obtención del material vegetal de la planta madre.
+
+c) Se ha almacenado el material vegetal de propagación.
+
+d) Se ha preparado el material vegetal de propagación.
+
+e) Se ha preparado el medio de enraizamiento.
+
+f) Se han manejado los estimuladores del enraizamiento.
+
+g) Se han colocado los propágulos en el medio de cultivo.
+
+h) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+i) Se ha aplicado la normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+3. Prepara el medio de cultivo de plantas en vivero describiendo los medios y materiales de producción.
+
+Criterios de evaluación:
+
+a) Se han recogido las muestras de suelo.
+
+b) Se han descrito los tipos de sustratos empleados en viverismo.
+
+c) Se han almacenado los materiales para la preparación del medio de cultivo.
+
+d) Se han analizado las técnicas de preparación del medio de cultivo.
+
+e) Se ha realizado la mezcla de sustratos para cultivo de plantas en vivero.
+
+f) Se han llenado los contenedores.
+
+g) Se han realizado las labores del suelo que aseguren el arraigo.
+
+h) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se van a realizar.
+
+i) Se ha aplicado la normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+4. Realiza el cultivo de planta en vivero y el manejo del control ambiental describiendo las exigencias de las especies.
+
+Criterios de evaluación:
+
+a) Se ha comprobado el estado de desarrollo del material vegetal.
+
+b) Se ha realizado la extracción de la planta y su acondicionamiento.
+
+c) Se han caracterizado los diferentes tipos de contenedores de producción de plantas.
+
+d) Se ha transplantado el material vegetal.
+
+e) Se han analizado las necesidades de las plantas en el vivero.
+
+f) Se han acondicionado las plantas según su desarrollo.
+
+g) Se ha calculado y aplicado el riego y la fertilización.
+
+h) Se han controlado los factores ambientales del vivero.
+
+i) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+j) Se ha aplicado la normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+5. Realiza la producción de tepes describiendo las operaciones de cultivo.
+
+Criterios de evaluación:
+
+a) Se han almacenado los materiales para producción de tepes.
+
+b) Se han descrito los soportes de sostén de los tepes.
+
+c) Se han extendido las mantas soporte de cultivo.
+
+d) Se ha aplicado el espesor de la mezcla de sustratos.
+
+e) Se han descrito los tipos de implantación de tepes.
+
+f) Se han realizado las operaciones de mantenimiento de praderas para tepes.
+
+g) Se han analizado los sistemas de arranque o extracción de las placas de tepes.
+
+h) Se han seleccionado, utilizado y mantenido herramientas y maquinaria en función de la labor que se va a realizar.
+
+i) Se ha aplicado la normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+6. Prepara los pedidos de semillas, plantas y tepes para su expedición y transporte describiendo los métodos y técnicas.
+
+Criterios de evaluación:
+
+a) Se han identificado las técnicas de preparación y almacenaje de pedidos de semillas para su comercialización.
+
+b) Se han calibrado las máquinas de envasado de semillas.
+
+c) Se han pesado y acondicionado las semillas.
+
+d) Se han envasado y etiquetado las semillas.
+
+e) Se han identificado las técnicas de preparación y almacenaje de pedidos de plantas y tepes para comercialización.
+
+f) Se han acondicionado y preparado los pedidos de plantas y tepes.
+
+g) Se han optimizado las condiciones de conservación de tepes.
+
+h) Se han embalado y etiquetado los pedidos de plantas y tepes.
+
+i) Se han seleccionado y utilizado herramientas y maquinaria en función de la labor que se va a realizar.
+
+j) Se ha realizado el mantenimiento de herramientas y maquinaria.
+
+k) Se ha aplicado la normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+Duración: 145 horas.
+
+Contenidos básicos:
+
+Propagación de plantas por multiplicación sexual:
+
+– Semillas y frutos. Identificación. Épocas y zonas de recogida.
+
+– Recolección. Técnicas: en suelo y en altura.
+
+– Control de viabilidad de las semillas.
+
+– Lotes de frutos y semillas. Materiales y métodos. Limpieza y acondicionamiento.
+
+– Tratamientos pregerminativos. Letargos y latencias.
+
+– Siembra. Técnicas. Dosis. Densidad. Profundidad.
+
+– Semilleros. Tipos.
+
+– Maquinaria y herramientas. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+Propagación de plantas de forma asexual:
+
+– Órganos de multiplicación asexual.
+
+– Selección de la planta madre. Manejo.
+
+– Material vegetal. Obtención. Almacenaje y conservación.
+
+– Técnicas de multiplicación vegetativa.
+
+– Maquinaria y herramientas. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+Preparación del medio de cultivo:
+
+– Procedimientos de recogida de muestras.
+
+– Sustratos. Componentes. Clasificación. Tipos.
+
+– Mezclas de sustratos. Normas.
+
+– Almacenaje y conservación de componentes y mezclas.
+
+– Técnicas de preparación del medio de cultivo.
+
+– Labores de arraigo.
+
+– Maquinaria y herramientas. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+Cultivo de planta en vivero:
+
+– Desarrollo del material vegetal. Comprobación.
+
+– Extracción de la planta y acondicionamiento.
+
+– Transplante. Técnicas.
+
+– Contenedores en producción de plantas. Tipos y usos.
+
+– Necesidades de las plantas de vivero.
+
+– Labores culturales sobre la parte aérea.
+
+– Aplicación de fertilizantes y riego.
+
+– Factores ambientales en instalaciones de protección. Control.
+
+– Maquinaria y herramientas. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+Producción de tepes:
+
+– Almacenaje de materiales.
+
+– Soportes de sostén. Mantas.
+
+– Implantación de tepes. Técnicas. Tipos.
+
+– Mantenimiento de tepes.
+
+– Extracción de placas de tepes. Técnicas. Tipos.
+
+– Equipos, maquinaria, aperos y herramientas. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+Preparación de pedidos de semillas, plantas y tepes:
+
+– Elementos para embalaje y expedición.
+
+– Maquinaria de envasado de semillas. Características. Calibrado.
+
+– Pesado de semillas. Técnicas.
+
+– Envasado y etiquetado de semillas. Técnicas. Almacenaje.
+
+– Condiciones de conservación de tepes.
+
+– Embalaje y etiquetado de plantas y tepes. Preparación. Técnicas. Almacenaje.
+
+– Maquinaria y herramientas. Selección. Uso. Mantenimiento.
+
+– Normativa ambiental de producción en vivero y de prevención de riesgos laborales.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de producción de plantas para fines ornamentales, agrícolas y forestales.
+
+La producción de plantas incluye aspectos como:
+
+– Multiplicación sexual de las plantas.
+
+– Propagación asexual de las plantas.
+
+– Preparación del medio de cultivo.
+
+– Cultivo de planta en vivero.
+
+– Producción de tepes.
+
+– Preparación de pedidos.
+
+– Manejo de herramientas, equipos y maquinaria.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Viveros agrícolas, forestales y ornamentales.
+
+– Centros de jardinería.
+
+La formación del módulo contribuye a alcanzar los objetivos generales b), c), d), e), f), i), j), k), l), m), q), r), s), t), u), v) y w) del ciclo formativo, y las competencias b), c), d), e), i), j), k), l), m), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Recolección, almacenaje y tratamiento de semillas.
+
+– Siembra de semilleros.
+
+– Obtención y manipulación de material vegetal de propagación.
+
+– Preparación del medio de cultivo.
+
+– Cultivo de plantas en vivero.
+
+– Cultivo de tepes.
+
+– Preparación de pedidos.
+
+– Manejo de herramientas, equipos y maquinaria.
+
+– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
+
+Módulo Profesional: Composiciones florales y con plantas.
+
+Código: 0579.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Realiza bocetos de composiciones florales y con plantas utilizando técnicas artísticas con criterio estético, económico y funcional.
+
+Criterios de evaluación:
+
+a) Se han descrito los fundamentos históricos-artísticos y sociales en floristería.
+
+b) Se han descrito los fundamentos de la teoría del color, la luz y la forma.
+
+c) Se han caracterizado los principales estilos artísticos y de composición.
+
+d) Se han empleado las técnicas y procedimientos básicos de dibujo a mano alzada.
+
+e) Se han utilizado los principales métodos de representación plana y volumétrica.
+
+f) Se han desarrollado la capacidad artístico-creativa, la limpieza y la claridad en la representación.
+
+g) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales.
+
+2. Realiza composiciones con flores describiendo las distintas fases de montaje.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las principales especies vegetales utilizadas para flor cortada.
+
+b) Se han caracterizado los principales métodos de secado, liofilizado y desnaturalización del material vegetal.
+
+c) Se han descrito los principales métodos de construcción floral a partir de materiales inertes.
+
+d) Se han seleccionado los recipientes y elementos de soporte, estructura y sujeción.
+
+e) Se han caracterizado los elementos de ornamentación y relleno que completan la composición.
+
+f) Se ha comprobado que el material vegetal se encuentra en buenas condiciones y atiende a criterios de calidad.
+
+g) Se ha determinado la estructura de la composición y la secuencia de montaje.
+
+h) Se ha realizado la implantación de los elementos de la composición.
+
+i) Se han caracterizado y utilizado los materiales de embalaje y empaquetado.
+
+j) Se ha utilizado la maquinaria y herramientas para el acondicionamiento de los materiales.
+
+k) Se han aplicado las técnicas o productos para la optimización final o conservación de la composición.
+
+l) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales.
+
+3. Realiza composiciones con plantas relacionando las técnicas de estética con el diseño preestablecido.
+
+Criterios de evaluación:
+
+a) Se han descrito la tipología y la morfología de las principales plantas de interior.
+
+b) Se ha comprobado que las plantas atienden a criterios de calidad.
+
+c) Se han seleccionado los sustratos, contenedores y sistemas de drenaje para la implantación.
+
+d) Se han implantado los materiales vegetales que forman la composición basándose en criterios artísticos y técnicos.
+
+e) Se han empleado los elementos ornamentales y de decoración.
+
+f) Se ha descrito el proceso de elaboración de topiarios.
+
+g) Se ha ambientado y presentado la composición.
+
+h) Se han aplicado las técnicas o productos para la optimización final o conservación de la composición.
+
+i) Se han descrito las necesidades de mantenimiento y conservación de la composición.
+
+j) Se han utilizado las herramientas, equipos o máquinas del taller de floristería.
+
+k) Se ha aplicado la normativa de protección ambiental y de prevención de riesgos laborales.
+
+4. Realiza composiciones para eventos, actos, ceremonias o celebraciones específicas describiendo las técnicas artísticas.
+
+Criterios de evaluación:
+
+a) Se han descrito los principales eventos, actos, ceremonias y celebraciones en los que se emplean composiciones con flores y plantas.
+
+b) Se han realizado los principales tipos de ramos para ocasiones especiales.
+
+c) Se han realizado composiciones y motivos florales navideños.
+
+d) Se han realizado las principales composiciones funerarias.
+
+e) Se han creado los arreglos florales destinados a las celebraciones nupciales.
+
+f) Se han realizado los principales tipos de tocados para el cabello, “corsages” y “boutonnieres”.
+
+g) Se han descrito las características de los centros de mesa.
+
+h) Se han realizado composiciones para otras ceremonias, fiestas y tradiciones locales y regionales.
+
+i) Se han identificado los valores y costumbres culturales de otros países.
+
+j) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales.
+
+5. Ornamenta grandes espacios con plantas y flores describiendo las distintas fases de ejecución del proyecto decorativo.
+
+Criterios de evaluación:
+
+a) Se ha interpretado el proyecto decorativo.
+
+b) Se han analizado las características espaciales y ambientales de la sala.
+
+c) Se ha realizado el replanteo.
+
+d) Se han instalado los sistemas de riego y drenaje, eléctrico y de iluminación.
+
+e) Se han distribuido, montado o implantado los elementos vegetales y decorativos según el diseño o proyecto.
+
+f) Se han aplicado las técnicas o productos para la optimización final y conservación del espacio decorado.
+
+g) Se han descrito las necesidades de mantenimiento y conservación del espacio.
+
+h) Se han utilizado las herramientas, equipos y maquinas.
+
+i) Se ha aplicado la normativa de protección ambiental y de prevención de riesgos laborales.
+
+Duración: 55 horas.
+
+Contenidos básicos:
+
+Realización de bocetos de composiciones florales y con plantas:
+
+– Fundamentos históricos y sociales.
+
+– Teoría del color.
+
+– Luz. Claroscuro.
+
+– Estilos artísticos y de composición.
+
+– Fundamentos de dibujo técnico y artístico.
+
+– Forma, espacio, perspectiva, profundidad y simetría.
+
+– Representación plana y volumétrica.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Realización de composiciones con flores:
+
+– Nomenclatura e identificación de las especies para flor cortada.
+
+– Técnicas de secado, liofilizado y desnaturalización.
+
+– Flores y plantas artificiales.
+
+– Elementos de soporte, estructura y sujeción.
+
+– Elementos no vegetales de ornamentación y relleno.
+
+– Calidad del material vegetal.
+
+– Técnicas de montaje de elementos en la composición.
+
+– Materiales de embalaje y empaquetado.
+
+– Manejo de herramientas y maquinaria.
+
+– Contenedores y recipientes.
+
+– Elementos decorativos.
+
+– Técnicas de montaje.
+
+– Empaquetado.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Realización de composiciones con plantas:
+
+– Plantas de interior. Tipología y morfología.
+
+– Criterios de calidad en plantas de interior.
+
+– Sustratos para composiciones con plantas.
+
+– Contenedores y recipientes.
+
+– Utilización de materiales específicos para composiciones con plantas.
+
+– Implantación de elementos vegetales. Trasplantes.
+
+– Arte topiario.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Realización de composiciones para eventos y otros actos:
+
+– Eventos, ceremonias y otros actos en los que se utilizan composiciones y ornamentos con flores y plantas.
+
+– Tipos de ramos y técnicas de composición.
+
+– Ornamentación navideña con plantas y flores.
+
+– Composiciones funerarias.
+
+– Tipos de tocados, “corsages” y “boutonnieres”.
+
+– Centros de mesa.
+
+– Otras composiciones para fiestas y celebraciones locales y regionales.
+
+Ornamentación de grandes espacios con plantas y flores:
+
+– Interpretación de proyectos decorativos.
+
+– Características espaciales y ambientales de la sala.
+
+– Replanteo.
+
+– Sistemas de riego y drenaje en interior.
+
+– Iluminación de espacios. Sistema eléctrico.
+
+– Elementos decorativos.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de realización de composiciones y ornamentaciones con flores y plantas.
+
+La composición floral y con plantas incluye aspectos como:
+
+– Creación de bocetos de composiciones decorativas.
+
+– Elaboración de ramos, coronas, centros, tocados y arreglos florales decorativos.
+
+– Composiciones decorativas con plantas de interior.
+
+– Ornamentación de espacios públicos y privados para eventos y ceremonias.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Floristerías.
+
+– Centros de jardinería.
+
+La formación del módulo contribuye a alcanzar los objetivos generales c), d), f), k), n), ñ), q), r), s), t), u), v) y w) del ciclo formativo, y las competencias c), d), j), m), n), p), q), r), s), t) y u) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Diseño de composiciones florales y con plantas.
+
+– Interpretación de proyectos de decoración con flores y plantas.
+
+– Ambientación de espacios.
+
+– Realización de composiciones con flores.
+
+– Realización de composiciones con plantas.
+
+– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
+
+Módulo Profesional: Establecimientos de floristería.
+
+Código: 0580.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Distribuye las dependencias y los elementos de una floristería, analizando criterios técnicos, prácticos, estéticos y de confortabilidad.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las dependencias de una floristería.
+
+b) Se han descrito los elementos y mobiliario de cada dependencia.
+
+c) Se ha realizado el diseño de la distribución de espacios.
+
+d) Se han optimizando espacios y secciones para favorecer la circulación de trabajadores y clientes.
+
+e) Se han señalizado las distintas zonas del establecimiento.
+
+f) Se ha acondicionado la superficie del local comercial.
+
+g) Se han utilizado herramientas y útiles en el diseño y la distribución de espacios.
+
+h) Se ha aplicado la normativa comercial, de protección ambiental y de prevención de riesgos laborales.
+
+2. Organiza las actividades del taller de floristería, describiendo las tareas e interpretando los métodos de organización.
+
+Criterios de evaluación:
+
+a) Se han caracterizado las actividades del taller de floristería.
+
+b) Se han distribuido y controlado las tareas diarias.
+
+c) Se han seguido los protocolos establecidos para los pedidos.
+
+d) Se ha cumplimentado la documentación asociada a los pedidos.
+
+e) Se han organizado los equipos, herramientas y materiales propios del taller de floristería.
+
+f) Se han seleccionado las técnicas, utensilios y productos necesarios para el trabajo diario.
+
+g) Se han seleccionado herramientas y maquinaria en función de la labor que se va a realizar.
+
+h) Se ha aplicado la normativa de protección ambiental y de prevención de riesgos laborales.
+
+3. Organiza la limpieza y realiza el mantenimiento de las instalaciones, equipos, máquinas y herramientas de una floristería, interpretando los protocolos y manuales de mantenimiento.
+
+Criterios de evaluación:
+
+a) Se ha establecido el plan de limpieza de una floristería.
+
+b) Se han seleccionado las técnicas, utensilios y productos para la limpieza.
+
+c) Se ha controlado la recogida y retirada de los residuos.
+
+d) Se ha aplicado el programa de mantenimiento de las instalaciones, equipos, máquinas y herramientas de una floristería.
+
+e) Se ha manejado la maquinaria y herramienta básica para el mantenimiento.
+
+f) Se han coordinado la limpieza y el mantenimiento con las actividades productivas propias de floristería.
+
+g) Se ha aplicado la normativa de protección ambiental y de prevención de riesgos laborales.
+
+4. Controla y organiza el almacenaje y conservación de materias primas, materiales y productos habituales en floristería, describiendo los sistemas y técnicas asociadas.
+
+Criterios de evaluación:
+
+a) Se han caracterizado los sistemas y equipos de almacenaje.
+
+b) Se han clasificado y colocado las materias primas y materiales.
+
+c) Se han controlado los parámetros de la cámara frigorífica.
+
+d) Se han conservado las materias primas y los productos finales.
+
+e) Se ha realizado el inventario para controlar las existencias.
+
+f) Se han seguido los protocolos establecidos para tramitar un pedido.
+
+g) Se han comprobado los pedidos y la documentación asociada a su recepción.
+
+h) Se han identificado los sistemas y medios de reclamación.
+
+i) Se ha aplicado la normativa de protección ambiental y de prevención de riesgos laborales.
+
+5. Monta escaparates y exposiciones en la sala de ventas de la floristería, identificando criterios funcionales, estéticos y comerciales.
+
+Criterios de evaluación:
+
+a) Se han caracterizado los tipos de escaparates y los elementos que los integran.
+
+b) Se han identificado las distintas campañas comerciales.
+
+c) Se han caracterizado elementos vegetales y los complementos decorativos no florales y de ambientación del escaparate.
+
+d) Se ha medido y acondicionado la zona de escaparate o exposición.
+
+e) Se ha realizado el boceto del escaparate.
+
+f) Se han ubicado los elementos representados en el boceto.
+
+g) Se ha controlado periódicamente el estado y la calidad de los productos exhibidos.
+
+h) Se ha realizado la limpieza, mantenimiento, conservación y reposición de los elementos de escaparates y de la sala de exposición.
+
+i) Se ha aplicado la normativa comercial, de protección ambiental y de prevención de riesgos laborales.
+
+Duración: 35 horas.
+
+Contenidos básicos:
+
+Distribución de dependencias y elementos de una floristería:
+
+– Dependencias de una floristería.
+
+– Elementos y mobiliario. Situación dentro de la floristería.
+
+– Distribución de espacios. Criterios funcionales y comerciales. Esquemas sobre el plano.
+
+– Señalización de espacios. Adecuación a la distribución de espacios.
+
+– Acondicionamiento de la superficie del local.
+
+– Normativa comercial, de protección ambiental y de prevención de riesgos laborales.
+
+Organización de las actividades del taller de floristería:
+
+– Tareas propias del taller de floristería.
+
+– Distribución del trabajo diario: tiempos, espacios y desplazamientos.
+
+– Protocolos para realizar encargos.
+
+– Documentación asociada que se debe generar. Cumplimentación.
+
+– Equipos, herramientas y materiales necesarios para el trabajo diario.
+
+– Normativa de protección ambiental y de prevención de riesgos laborales.
+
+Limpieza y mantenimiento en establecimientos de floristería.
+
+– Plan de limpieza de floristerías. Técnicas aplicadas. Utensilios y productos de limpieza.
+
+– Recogida y retirada de los residuos generados.
+
+– Programa de mantenimiento de instalaciones, equipos, máquinas y herramientas de una floristería.
+
+– Maquinaria y herramienta para las operaciones de mantenimiento. Manejo.
+
+– Normativa de protección ambiental y de prevención de riesgos laborales.
+
+Almacenaje y conservación de materiales, materias primas y productos de floristería.
+
+– Sistemas de almacenaje.
+
+– Técnicas de mantenimiento y conservación de materias primas y productos finales. Cámaras frigoríficas y equipos de climatización. Productos para la conservación de flores y plantas.
+
+– Control de existencias: periodicidad. Inventarios.
+
+– Protocolos para realizar pedidos.
+
+– Documentación asociada a los pedidos.
+
+– Reclamaciones.
+
+– Normativa de protección ambiental y de prevención de riesgos laborales.
+
+Montaje de escaparates y exposiciones en salas de venta de floristerías.
+
+– Escaparates y exposiciones. Tipología. Adecuación a las distintas campañas comerciales.
+
+– Elementos vegetales y complementos de ambientación y decorativos no florales.
+
+– Diseño del escaparate o exposición. Bocetos y otras formas sencillas de representación. Criterios funcionales, estéticos y comerciales.
+
+– Colocación de escaparates y exposiciones. Técnicas. Adecuación al espacio y a la situación. Control de calidad de los productos expuestos.
+
+– Limpieza, conservación, mantenimiento y reposición.
+
+– Normativa comercial, de protección ambiental y de prevención de riesgos laborales.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de distribución de espacios, organización del trabajo diario y control del almacenaje y conservación de materias primas y productos finales, así como el montaje de escaparates y salas de exposición en establecimientos de floristería.
+
+La organización de las tareas y dependencias, el almacenaje y la conservación de materias primas y productos, así como el montaje de escaparates y salas de exposición, incluyen aspectos como:
+
+– Distribución de espacios y dependencias.
+
+– Organización de las tareas.
+
+– Control del almacenaje y conservación de materias primas, materiales y productos.
+
+– Realización del montaje y mantenimiento de escaparates y salas de exposición en floristerías
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Distribución de espacios y dependencias de establecimientos de floristería
+
+– Organización de las actividades de un taller de floristería.
+
+– Control y almacenaje de existencias.
+
+– Organización de la limpieza.
+
+– Mantenimiento de instalaciones, equipos, máquinas y herramientas.
+
+– Diseño y montaje de escaparates y salas de exposición.
+
+La formación del módulo contribuye a alcanzar los objetivos generales d), k), l), n), o), q), r), s), t), u), v), w) y x) del ciclo formativo, y las competencias d), j), k), m), o), p), q), r), s), t), u) y v) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Criterios comerciales y funcionales aplicados en la distribución de espacios y dependencias.
+
+– Señalización y acondicionamiento del local.
+
+– Distribución del trabajo diario.
+
+– Aplicación de los protocolos establecidos para realizar encargos y pedidos.
+
+– Control del plan de limpieza y recogida y retirada de los residuos generados.
+
+– Realización del mantenimiento de las instalaciones, equipos, máquinas y herramientas.
+
+– Organización del almacenaje y conservación de materias primas y productos finales.
+
+– Programación y control de los equipos de conservación.
+
+– Diseño de escaparates y salas de exposición.
+
+– Montaje y mantenimiento de escaparates y salas de exposición.
+
+– Control de calidad de los productos expuestos.
+
+– Cumplimiento de las normas de comercio, de seguridad e higiene y de las establecidas en los planes de prevención de riesgos laborales.
+
+Módulo Profesional: Técnicas de venta en jardinería y floristería.
+
+Código: 0581.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Atiende a clientes describiendo los protocolos de actuación y los productos y servicios ofertados.
+
+Criterios de evaluación:
+
+a) Se han descrito las habilidades sociales que se deben mostrar ante un cliente.
+
+b) Se ha analizado el comportamiento del cliente potencial.
+
+c) Se ha recabado información al posible cliente sobre sus necesidades.
+
+d) Se han caracterizado los productos y servicios ofertados por la empresa.
+
+e) Se han manejado los catálogos y manuales de venta más usuales en floristería y jardinería.
+
+f) Se ha realizado el asesoramiento sobre productos y servicios de floristería y jardinería.
+
+g) Se han identificado los canales de entrada de encargos en una empresa.
+
+h) Se ha valorado el enriquecimiento personal que supone la relación con otras personas pertenecientes a otras culturas.
+
+2. Realiza presupuestos analizando los costes de los productos y servicios así como las herramientas de elaboración.
+
+Criterios de evaluación:
+
+a) Se han realizado las mediciones de jardines, espacios y elementos.
+
+b) Se han descrito los precios unitarios y descompuestos, el estado de mediciones y los detalles precisos para su valoración.
+
+c) Se han extraído los precios de los productos y de los materiales.
+
+d) Se han calculado los precios descompuestos.
+
+e) Se han aplicado las tarifas correspondientes a la mano de obra.
+
+f) Se ha redactado el presupuesto con programas específicos.
+
+g) Se ha reconocido el potencial de las nuevas tecnologías como elemento de consulta y apoyo.
+
+h) Se ha aplicado la normativa ambiental y de prevención de riesgos laborales.
+
+3. Completa el proceso de venta describiendo el procedimiento para el cobro y presentación de productos.
+
+Criterios de evaluación:
+
+a) Se han identificado las distintas formas de cobro al cliente.
+
+b) Se han caracterizado los procesos de facturación y cobro.
+
+c) Se ha cumplimentado la factura indicando todos los datos.
+
+d) Se ha realizado el cobro de la factura utilizando las distintas fórmulas o formas de pago.
+
+e) Se ha relacionado la facturación con los sistemas de gestión integrada.
+
+f) Se han realizado las operaciones de devolución o cambio de dinero.
+
+g) Se ha descrito el proceso de arqueo y cierre de caja.
+
+h) Se ha cumplimentado el parte de caja correspondiente.
+
+i) Se ha aplicado la normativa ambiental, de prevención de riesgos laborales y de protección de datos.
+
+4. Organiza el reparto de productos o servicios describiendo los procedimientos que se deben seguir.
+
+Criterios de evaluación:
+
+a) Se han anotado los pedidos en un formulario donde quedan reflejados los datos de la persona que recibe el encargo.
+
+b) Se han descrito los medios de transporte más eficaces en función del encargo, sus características y el plazo de entrega.
+
+c) Se ha valorado la importancia de que el vehículo esté en perfectas condiciones y que disponga en su interior de todo lo necesario para efectuar la entrega.
+
+d) Se han ubicado los productos que se van a entregar en el vehículo, evitando que se dañen y acondicionándolos de manera óptima para su transporte.
+
+e) Se han manejado planos, mapas y callejeros en cualquier soporte de ayuda para localizar direcciones.
+
+f) Se han verificado los pedidos con los formularios y recibís de entrega.
+
+g) Se ha valorado el control de calidad de la entrega del producto o de los servicios realizados.
+
+h) Se ha aplicado la normativa ambiental, de prevención de riesgos laborales y de protección de datos.
+
+5. Atiende reclamaciones, quejas o sugerencias de los clientes en el servicio postventa demostrando criterios y procedimientos de actuación.
+
+Criterios de evaluación:
+
+a) Se han descrito las técnicas para la resolución de conflictos y reclamaciones.
+
+b) Se han reconocido los aspectos de las reclamaciones en los que incide la legislación vigente.
+
+c) Se ha descrito el procedimiento para la presentación de reclamaciones.
+
+d) Se han identificado las alternativas al procedimiento que se pueden ofrecer al cliente ante reclamaciones fácilmente subsanables.
+
+e) Se ha trasladado la información sobre la reclamación según el orden jerárquico preestablecido.
+
+f) Se ha valorado la importancia que para el control de calidad del servicio tienen los sistemas de información manuales e informáticos que organizan la información.
+
+g) Se ha registrado la información del seguimiento postventa, de incidencias, de peticiones y de reclamaciones de clientes como indicadores para mejorar la calidad del servicio prestado y aumentar la fidelización.
+
+h) Se ha aplicado la normativa ambiental, de prevención de riesgos laborales, de consumo y de protección de datos.
+
+Duración: 35 horas.
+
+Contenidos básicos:
+
+Atención al cliente:
+
+– Elementos de la comunicación. Habilidades personales y sociales que mejoran la comunicación interpersonal.
+
+– Conductas de la clientela.
+
+– Características de los productos y servicios ofertados por la empresa. Utilización de catálogos y manuales.
+
+– Modelo de actuación en el asesoramiento.
+
+– Canales de entrada de encargos.
+
+Realización de presupuestos:
+
+– Mediciones del jardín, espacios y elementos.
+
+– Elementos del presupuesto. Precios unitarios y descompuestos. Cálculo.
+
+– Costes directos e indirectos.
+
+– Cálculo del tiempo previsto para elaborar cada producto o servicio. Tarifas de precios de materiales y de horas de trabajo.
+
+– Medios para la elaboración de presupuestos.
+
+– Normativa ambiental y de prevención de riesgos laborales.
+
+Finalización del proceso de venta:
+
+– Formas de cobro al cliente.
+
+– Procedimientos de facturación y cobro.
+
+– La factura. Datos necesarios.
+
+– Formas de pago.
+
+– Facturación y sistemas de gestión integrada.
+
+– Devolución y cambio de dinero.
+
+– Etapas del proceso de arqueo y cierre de caja. Libros de caja.
+
+– Normativa ambiental, de prevención de riesgos laborales y de protección de datos.
+
+Organización del reparto de productos o servicios:
+
+– Formalización del encargo.
+
+– Formulario de entrega a domicilio. Cumplimentación.
+
+– Medios de transporte: clasificación, características.
+
+– Acondicionamiento del producto para el transporte: importancia para el producto.
+
+– Condiciones de transporte.
+
+– Utilización de mapas, planos y callejeros.
+
+– Verificación de entrega del producto.
+
+– Control de calidad en la entrega del producto o servicio realizado.
+
+– Normativa ambiental, de prevención de riesgos laborales y de protección de datos.
+
+Atención de reclamaciones, quejas o sugerencias en el servicio postventa:
+
+– Técnicas para afrontar conflictos y reclamaciones.
+
+– Procedimiento de reclamaciones. Gestión de reclamaciones.
+
+– Utilización de herramientas informáticas en la gestión de reclamaciones.
+
+– Seguimiento postventa.
+
+– Normativa ambiental, de prevención de riesgos laborales, de consumo y de protección de datos.
+
+Orientaciones pedagógicas.
+
+Este módulo profesional contiene la formación necesaria para desempeñar la función de atención, información y asesoramiento al cliente en establecimientos de venta de jardinería y floristería.
+
+Las funciones de atención al cliente, información y asesoramiento al cliente, incluyen aspectos como:
+
+– Realización de la venta del producto o servicio.
+
+– Realización de presupuestos.
+
+– Realización del reparto del producto o servicio.
+
+– Gestión de reclamaciones, quejas o sugerencias para la obtención de la mejora en el servicio prestado.
+
+Las actividades profesionales asociadas a esta función se aplican en:
+
+– Establecimientos de floristería.
+
+– Centros de jardinería.
+
+La formación del módulo contribuye a alcanzar los objetivos generales o), p), q), r), s), t), u), v), w), x) e y) del ciclo formativo y las competencias ñ), o), p), q), r), s), t), u), v) y w) del título.
+
+Las líneas de actuación en el proceso de enseñanza-aprendizaje que permiten alcanzar los objetivos del módulo versarán sobre:
+
+– Descripción, análisis y aplicación de los procesos de comunicación e imagen personal.
+
+– Aplicación de técnicas de venta en productos y servicios de jardinería y floristería.
+
+– Realización de presupuestos de productos y servicios de jardinería y floristería.
+
+– Identificación, análisis y procedimientos de actuación ante quejas y reclamaciones de los clientes.
+
+– Cumplimiento de las normas establecidas en los planes de prevención de riesgos laborales y de las normas de seguridad e higiene.
+
+0156. Inglés Profesional (GM)
+
+1709. Itinerario personal para la empleabilidad I
+
+1710. Itinerario personal para la empleabilidad II
+
+1664. Digitalización aplicada a los sectores productivos (GM)
+
+1708. Sostenibilidad aplicada al sistema productivo
+
+> Téngase en cuenta que el código, duración del currículo básico, resultados de aprendizaje y criterios de evaluación de los módulos prefesionales 0156, 1709, 1710, 1664 y 1708, figuran como anexos IX, V, VI y VIII del Real Decreto 659/2023, de 18 de julio, según establece el art. 7.1.b) del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684
+
+1713. Proyecto intermodular
+
+Currículo básico módulo de Proyecto intermodular de grado medio
+
+Módulo Profesional: Proyecto intermodular.
+
+Duración: 50 horas.
+
+Código: 1713.
+
+Resultados de aprendizaje y criterios de evaluación.
+
+1. Caracteriza las empresas del sector atendiendo a su organización y al tipo de producto o servicio que ofrecen.
+
+Criterios de evaluación:
+
+a) Se han identificado las empresas tipo más representativas del sector.
+
+b) Se ha descrito la estructura organizativa de las empresas.
+
+c) Se han caracterizado los principales departamentos.
+
+d) Se han determinado las funciones de cada departamento.
+
+e) Se ha evaluado el volumen de negocio de acuerdo a las necesidades de los clientes.
+
+f) Se ha definido la estrategia para dar respuesta a las demandas.
+
+g) Se han valorado los recursos humanos y materiales necesarios.
+
+h) Se ha realizado el seguimiento de los resultados de acuerdo a la estrategia aplicada.
+
+i) Se han relacionado los productos o servicios con su posible contribución a los ODS (Objetivos de Desarrollo Sostenible).
+
+2. Plantea soluciones a las necesidades del sector teniendo en cuenta la viabilidad de las mismas, los costes asociados y elaborando un pequeño proyecto.
+
+Criterios de evaluación:
+
+a) Se han identificado las necesidades.
+
+b) Se han planteado en grupo posibles soluciones.
+
+c) Se ha obtenido la información relativa a las soluciones planteadas.
+
+d) Se han identificado aspectos innovadores que puedan ser de aplicación.
+
+e) Se ha realizado el estudio de viabilidad técnica.
+
+f) Se han identificado las partes que componen el proyecto.
+
+g) Se han previsto los recursos materiales y humanos para realizarlo.
+
+h) Se ha realizado el presupuesto económico correspondiente.
+
+i) Se ha definido y elaborado la documentación para su diseño.
+
+j) Se han identificado los aspectos relacionados con la calidad del proyecto.
+
+k) Se han presentado en público las ideas más relevantes de los proyectos propuestos.
+
+3. Planifica la ejecución de las actividades propuestas a la solución planteada, determinando el plan de intervención y elaborando la documentación correspondiente.
+
+Criterios de evaluación:
+
+a) Se han temporizado las secuencias de las actividades.
+
+b) Se han determinado los recursos y la logística de cada actividad.
+
+c) Se han identificado permisos y autorizaciones en caso de ser necesarios.
+
+d) Se han identificado las actividades que implican riesgos en su ejecución.
+
+e) Se ha tenido en cuenta el plan de prevención de riesgos y los medios y equipos necesarios.
+
+f) Se han asignado recursos materiales y humanos a cada actividad.
+
+g) Se han tenido en cuenta posibles imprevistos.
+
+h) Se han propuesto soluciones a los posibles imprevistos.
+
+i) Se ha elaborado la documentación necesaria.
+
+4. Realiza el seguimiento de la ejecución de las actividades planteadas, verificando que se cumple con la planificación.
+
+Criterios de evaluación:
+
+a) Se ha definido el procedimiento de seguimiento de las actividades.
+
+b) Se ha verificado la calidad de los resultados de las actividades.
+
+c) Se han identificado posibles desviaciones de la planificación y/o los resultados esperados.
+
+d) Se ha informado de las desviaciones en caso de ser necesario.
+
+e) Se han solucionado las desviaciones y se han documentado las intervenciones.
+
+f) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades y del proyecto en su conjunto.
+
+5. Transmite información con claridad, de manera ordenada y estructurada.
+
+Criterios de evaluación:
+
+a) Se ha mantenido una actitud ordenada y metódica en la transmisión de la información.
+
+a) Se ha transmitido información verbal tanto horizontal como verticalmente.
+
+b) Se ha transmitido información entre los miembros del grupo utilizando medios informáticos.
+
+c) Se han conocido los términos técnicos en otras lenguas que sean estándares del sector.
+
+> Se modifica por el art. 7 del Real Decreto 499/2024, de 21 de mayo. Ref. BOE-A-2024-10684

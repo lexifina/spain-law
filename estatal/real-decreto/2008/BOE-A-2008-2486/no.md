@@ -1,0 +1,1 @@
+Téngase en cuenta que la Ley 10/1998, de 21 de abril, de residuos, a la que hace referencia el presente Real Decreto, ha sido derogada con efectos de 30 de julio de 2011 por la disposición derogatoria única.1 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados.Ref. BOE-A-2011-13046

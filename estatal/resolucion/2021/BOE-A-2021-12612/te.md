@@ -1,0 +1,13 @@
+## Tercero.
+
+El tratamiento de los datos tendrá como finalidad principal el análisis a efectos estadísticos y de georreferenciación, previo proceso de pseudonimización de los datos.
+
+Adicionalmente, tendrá como finalidad la acreditación del resultado de la prueba diagnóstica o de la recuperación mediante la emisión del correspondiente certificado por parte de la autoridad sanitaria competente, las Comunidades y Ciudades Autónomas con carácter general, independientemente del servicio de salud al que estuviera adscrito el ciudadano, actuando el Ministerio de Sanidad como proveedor del servicio de forma adicional, y emitiendo, en ese caso, y a petición del interesado certificados únicamente en formato electrónico. El Ministerio de Sanidad actuará también como autoridad sanitaria en la emisión y entrega de certificados digitales en su ámbito de competencia, en particular en los puntos de Sanidad Exterior, así como en otros casos tasados que se determinen mediante Resolución del órgano competente.
+
+No obstante, en este caso, el Ministerio de Sanidad emitirá únicamente certificados que acrediten la recuperación de la enfermedad a través de una prueba diagnóstica de infección activa con resultado positivo realizada en los seis meses anteriores a la solicitud del certificado. Este certificado se emitirá conforme a lo previsto en el Reglamento (UE) 2021/953 del Parlamento Europeo y del Consejo de 14 de junio de 2021. Los datos de identificación de las personas se custodiarán separados del resto, con medidas de seguridad específicas y adecuadas, conforme al Esquema Nacional de Seguridad definido en el artículo 156.2 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+El tratamiento posterior realizado por terceros de los datos a los que se refiere el segundo párrafo del presente punto, deberá cumplir, en todo caso, lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en lo establecido en los artículos ocho.1 y veintitrés de la Ley 14/1986, de 25 de abril, General de Sanidad.
+
+La información sobre el tratamiento de los datos puede consultarse en el portal web del Ministerio de Sanidad, a través del enlace www.mscbs.gob.es/servCiudadanos/proteccionDatos.
+
+El responsable del tratamiento previsto en esta Resolución será el Ministerio de Sanidad.

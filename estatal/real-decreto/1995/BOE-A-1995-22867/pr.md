@@ -1,0 +1,17 @@
+Para dar respuesta adecuada a las necesidades formativas derivadas del acelerado proceso de cambio cultural, tecnológico y productivo en que se halla inmersa nuestra sociedad, la Ley de Ordenación General del Sistema Educativo atribuye especial relevancia al profesorado y, a tal efecto, establece diversas medidas que permiten abordar la reforma y hacer frente al carácter mutable y complejo de la educación del futuro. Una de dichas medidas reside en la creación de la figura del profesor especialista definida en el artículo 33.2 del texto legal.
+
+El presente Real Decreto desarrolla dicho precepto, estableciendo un marco normativo para la contratación de profesores especialistas que, sin descender a un casuismo que cercene o limite la riqueza de posibilidades que son inherentes a esta figura, contiene las bases generales del régimen jurídico aplicable.
+
+Destaca en dicha regulación el especial énfasis en que el profesor especialista provenga de un ámbito de ejercicio profesional ajeno al de la enseñanza, requisito que responde al espíritu y finalidad de la norma y que va a permitir que el especialista, junto con el Profesorado de los distintos cuerpos y especialidades, coadyuve a que la formación de los alumnos se adapte al constante cambio de conocimientos y procesos productivos y artísticos que se producen en el sector profesional, aportando su cualificación y experiencia adquirida en el mundo laboral.
+
+Ello es especialmente inexcusable en las enseñanzas con las que la Ley conecta esta figura, formación profesional específica (artículo 33.2 de la Ley) y enseñanzas artísticas (artículo 47 y disposición adicional decimoquinta.6 y 7), todas las cuales tienen como objetivo último el de formar profesionales cualificados para incorporarse al ejercicio laboral.
+
+A fin de hacer efectivos tales principios, se contemplan dos supuestos básicos: uno, de carácter general, es el de vincular la figura de profesor especialista a determinados módulos o materias que por su carácter innovador o nivel de especialización, se hallan especialmente conectados con el mundo laboral y que no tendrían un tratamiento adecuado mediante especialidades de cuerpos docentes por el carácter más permanente y generalista de éstas. Un segundo supuesto, limitado a los centros que imparten enseñanzas de grado superior, se refiere a la contratación de personalidades de distintos ámbitos, en función de la aportación que, conforme a su reconocida trayectoria profesional, puedan realizar en el desarrollo de estas enseñanzas de nivel superior.
+
+Otro rasgo destacable de la presente regulación reside en tipificar como de interés público, a efectos de compatibilidad, determinados supuestos de doble actividad pública, lo que va a permitir, especialmente en las enseñanzas artísticas, la deseable vinculación entre el ejercicio profesional y la actividad docente como profesor especialista en la misma especialidad.
+
+En el establecimiento de esta norma se ha cumplido con lo previsto en el artículo 32 de la Ley 9/1987, de 12 de junio, modificada por la Ley 7/1990, de 19 de julio, de órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones Públicas, y recabado los informes previos de la Comisión Superior de Personal y del Consejo Escolar del Estado.
+
+A propuesta del Ministro de Educación y Ciencia, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 21 de septiembre de 1995,
+
+DISPONGO:

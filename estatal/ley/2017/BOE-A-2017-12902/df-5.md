@@ -1,0 +1,3 @@
+## Disposición final quinta. Incorporación de derecho comunitario.
+
+Mediante la presente Ley se incorpora al ordenamiento jurídico la Directiva 2014/24/UE, del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, sobre contratación pública y por la que se deroga la Directiva 2004/18/CE; así como la Directiva 2014/23/UE, del Parlamento Europeo y del Consejo, de 26 de febrero de 2014, relativa a la adjudicación de contratos de concesión, sin perjuicio de lo incorporado respecto a esta última Directiva a través de la Ley sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales.

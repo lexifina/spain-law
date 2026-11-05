@@ -1,0 +1,3 @@
+## Disposición final segunda. Título competencial.
+
+Este real decreto se dicta al amparo de lo dispuesto en el artículo 149.1.13.ª de la Constitución Española, que atribuye al Estado la competencia exclusiva para la regulación de las bases y coordinación de la planificación general de la actividad económica, con la excepción de su disposición final primera, que se dicta al amparo de lo dispuesto en el artículo 149.1.14.ª conforme a lo establecido en la disposición final primera del Real Decreto 1619/2012, de 30 de noviembre, por el que se aprueba el Reglamento por el que se regulan las obligaciones de facturación.

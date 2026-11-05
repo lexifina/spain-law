@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Queda derogado el Real Decreto 158/1995, de 3 de febrero, sobre protección física de los materiales nucleares, los artículos 20.k) y 38.2.c) del Reglamento sobre instalaciones nucleares y radiactivas, aprobado por el Real Decreto 1836/1999, de 3 de diciembre y modificado por el Real Decreto 35/2008, de 18 de enero, y el artículo 6 del Real Decreto 229/2006, de 24 de febrero, sobre el control de fuentes radiactivas encapsuladas de alta actividad y fuentes huérfanas, así como todas las normas de igual o inferior rango en lo que contradigan o se opongan a lo dispuesto en el presente real decreto.

@@ -1,0 +1,1 @@
+Téngase en cuenta que todas las referencias efectuadas en esta norma a las Mutuas de Accidentes de Trabajo y Enfermedades Profesionales de la Seguridad Social (MATEPSS) se entenderán hechas a las mutuas colaboradoras con la Seguridad Social, según establece la disposición adicional de la Resolución de 5 de julio de 2016. Ref. BOE-A-2016-6695

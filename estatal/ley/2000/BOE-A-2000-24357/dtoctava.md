@@ -1,0 +1,3 @@
+## Disposición transitoria octava. Ejercicio y comunicación de la opción por el régimen especial de las fusiones, escisiones, aportaciones de activos y canje de valores.
+
+Los nuevos requisitos establecidos por esta Ley en el apartado 1 del artículo 110 de la Ley 43/1995, de 27 de diciembre, del Impuesto sobre Sociedades, para el ejercicio y comunicación de la opción por el régimen especial de las fusiones, escisiones, aportaciones de activos y canje de valores, serán aplicables a aquellas operaciones en las que el correspondiente proyecto, acuerdo o contrato se realice a partir del 1 de enero de 2001.

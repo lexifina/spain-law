@@ -1,0 +1,3 @@
+## Disposición final cuarta. Plazos para el establecimiento de las directrices, del programa de formación de los auditores de seguridad viaria y de su procedimiento de acreditación y certificación.
+
+Antes del 19 de diciembre de 2011, la Dirección General de Carreteras dictará las instrucciones pertinentes que definan las directrices a las que se refieren los artículos 5, 9, 16 y 19. y establecerá el programa de formación de auditores de seguridad viaria a que se refiere el artículo 11. Así mismo, antes de la citada fecha, el Ministro de Fomento dictará la Orden por la que se establezca el procedimiento de acreditación y certificación de aptitud de los auditores.

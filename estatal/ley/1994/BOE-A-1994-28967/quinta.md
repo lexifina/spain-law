@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Complemento de disponibilidad del personal del Cuerpo de la Guardia Civil.
+
+El Complemento de Disponibilidad establecido para el personal no destinado de la Guardia Civil y del Nacional de Policía que hubiera pasado a las situaciones de Reserva Activa o Segunda Actividad antes de la entrada en vigor de las leyes por las que se completa el Régimen del Personal del Cuerpo de la Guardia Civil y por la que se regula la Situación de Segunda Actividad del Cuerpo Nacional de Policía, respectivamente, experimentará un incremento del 3,5 por 100 sobre las cuantías anuales que, como actualización de las fijadas en la disposición transitoria segunda del Real Decreto 311/1988, de 30 de marzo, estén reconocidas en 1994.

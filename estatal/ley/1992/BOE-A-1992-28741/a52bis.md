@@ -1,0 +1,59 @@
+## Artículo 52 bis. Devolución parcial por el gasóleo de uso profesional.
+
+1. Los titulares de los vehículos citados en el apartado 2 que cumplan los requisitos establecidos en el mismo tendrán derecho a una devolución parcial del Impuesto sobre Hidrocarburos satisfecho o soportado respecto del gasóleo de uso general que haya sido utilizado como carburante en el motor de aquéllos.
+
+2. Los vehículos a que se refiere el apartado 1 son los siguientes:
+
+a) Los vehículos de motor o conjuntos de vehículos acoplados destinados exclusivamente al transporte de mercancías por carretera, por cuenta ajena o por cuenta propia, y con un peso máximo autorizado igual o superior a 7,5 toneladas.
+
+b) Los vehículos de motor destinados al transporte de pasajeros, regular u ocasional, incluidos en las categorías M2 o M3 de las establecidas en la Directiva 70/156/CEE del Consejo, de 6 de febrero de 1970, relativa a la aproximación de las legislaciones de los Estados miembros sobre la homologación de los vehículos a motor y de sus remolques.
+
+c) Los taxis. A estos efectos se entiende por taxi el turismo destinado al servicio público de viajeros bajo licencia municipal y provisto de aparato taxímetro.
+
+3. Los titulares de los vehículos mencionados en el apartado anterior deberán hallarse en posesión del correspondiente título administrativo que, en su caso, habilite para el ejercicio de la actividad, de acuerdo con lo previsto en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y en su normativa de desarrollo. Igualmente, los indicados titulares deberán hallarse en posesión de los permisos y autorizaciones precisos para el ejercicio de su actividad que deban expedir las autoridades autonómicas o locales.
+
+Cuando se trate de titulares no residentes en territorio español con residencia o establecimiento permanente en el resto del territorio de la Unión Europea, deberán hallarse en posesión de las autorizaciones administrativas que establezca la normativa del respectivo Estado miembro para el ejercicio de la actividad correspondiente.
+
+4. La base de la devolución estará constituida por el volumen de gasóleo que haya sido adquirido por el interesado y destinado a su utilización como carburante en los vehículos mencionados en el apartado 2 anterior. La base así determinada se expresará en miles de litros.
+
+5. (Suprimida)
+
+6.a) El tipo estatal de la devolución, expresado en euros por 1.000 litros, será el importe positivo resultante de restar la cantidad de 306 euros del tipo general del epígrafe 1.3 y la cantidad de 48 euros del tipo especial, vigentes en el momento de generarse el derecho a la devolución.
+
+b) El tipo estatal de la devolución podrá ser modificado por la Ley de Presupuestos Generales del Estado.
+
+c) La cuantía máxima de la devolución a percibir no excederá de la que correspondería a 50.000 litros por vehículo y año, salvo que se trate de taxis, en cuyo caso la cuantía máxima de la devolución no excederá de la que correspondería a 5.000 litros por taxi y año. Por el Ministro de Hacienda y Función Pública se podrá disponer el fraccionamiento de estos límites para su aplicación en relación con períodos de tiempo inferiores al año.
+
+> Téngase en cuenta que, desde el 1 de octubre de 2026 y hasta el 31 de diciembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 16 del Real Decreto-ley 25/2026, de 29 de septiembre. Ref. BOE-A-2026-20265#a1-8
+
+7. El procedimiento para la práctica de la devolución se establecerá por el Ministro de Economía y Hacienda y podrá comprender, entre otros, los siguientes aspectos:
+
+a) La obligación de que los interesados se inscriban en un registro específico y de que presenten declaraciones tributarias comprensivas de los datos de su actividad que sean relevantes para la gestión y comprobación de la devolución.
+
+b) La obligación de que los interesados utilicen medios de pago específicos para la adquisición del gasóleo respecto del cual soliciten la devolución. En los casos en que se establezca, la utilización obligatoria de medios de pago específicos para la adquisición del gasóleo respecto del cual se solicite la devolución tendrá la consideración de declaración tributaria por medio de la cual se solicita la devolución.
+
+c) La obligación, para las entidades emisoras de los referidos medios de pago específicos y para los vendedores de gasóleo que los acepten, de proporcionar a la Administración Tributaria la información derivada de la utilización de éstos por los solicitantes de la devolución.
+
+8. La utilización de los medios de pago específicos a que se refiere el apartado 7 anterior con objeto de simular una adquisición de gasóleo que indebidamente generase el derecho a la devolución regulada en este artículo constituirá infracción tributaria grave y será sancionada con multa pecuniaria proporcional del triple del importe de la adquisición simulada, con un importe mínimo de 3.000 euros. A los efectos de la imputación de la responsabilidad por la comisión de estas infracciones, tendrán la consideración de autores los titulares de los referidos medios de pago, salvo en el caso de sustracción de los mismos debidamente denunciada.
+
+9. La utilización de gasóleo por el que se solicite la devolución regulada en este artículo en motores distintos de los de los vehículos mencionados en el apartado 2 está prohibida. La inobservancia de esta prohibición constituirá una infracción tributaria grave que será sancionada de acuerdo con lo previsto en el artículo 55.
+
+10. Lo establecido en el apartado anterior se entiende sin perjuicio de las responsabilidades en que incurran quienes suministren gasóleo por el que se solicite la devolución a personas no autorizadas para recibirlo. A efectos de la aplicación de lo previsto en los artículos 8.6 y 15.11, el gasóleo por el que se solicite la devolución tendrá la consideración de gasóleo al que se ha aplicado un tipo reducido en razón de su destino.
+
+> Téngase en cuenta que, desde el 1 de octubre de 2026 y hasta el 31 de diciembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 16 del Real Decreto-ley 25/2026, de 29 de septiembre. Ref. BOE-A-2026-20265#a1-8
+
+> Téngase en cuenta que, desde el 1 de julio de 2026 y hasta el 30 de septiembre de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 8 del Real Decreto-ley 18/2026, de 29 de junio. Ref. BOE-A-2026-14112#a8
+
+> Téngase en cuenta que, con efectos desde el 22 de marzo de 2026 y vigencia hasta el 30 de junio de 2026, el tipo de la devolución regulado en el apartado 6 será de cero euros, según establece el art. 39 del Real Decreto-ley 7/2026, de 20 de marzo. Ref. BOE-A-2026-6544#a3-11
+
+> Se modifican los apartados 4 y 6, con efectos de 1 de enero de 2019, por el art. 82.2.3 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#ar-76
+
+> Se modifica el apartado 4 y se suprime el 5 por el art. 28.5 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2012-15649.
+
+> Se modifican los apartados 4 y 6, con efectos desde el 1 de enero de 2013, por la disposición final 20.5 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.
+
+> Se modifica el apartado 6.a), con efectos de 1 de enero de 2012, por la disposición final 6 del Real Decreto-ley 20/2011, de 30 de diciembre. Ref. BOE-A-2011-20638.
+
+> Se modifica el apartado 6.a), con efectos a partir del 1 de enero de 2010, por la disposición final 14.1 de la Ley 26/2009, de 23 de diciembre. Ref. BOE-A-2009-20765
+
+> Se añade por el art. 4.2 de la Ley 36/2006, de 29 de noviembre. Ref. BOE-A-2006-20843

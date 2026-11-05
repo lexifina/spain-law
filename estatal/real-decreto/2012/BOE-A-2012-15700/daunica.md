@@ -1,0 +1,3 @@
+## Disposición adicional única. Obligación de información sobre bienes y derechos situados en el extranjero correspondiente al año 2012.
+
+Las declaraciones informativas reguladas en los artículos 42.bis, 42.ter y 54.bis del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por el Real Decreto 1065/2007, de 27 de julio, relativas a la información a suministrar correspondiente al año 2012, deberán presentarse entre el 1 de febrero y el 30 de abril de 2013.

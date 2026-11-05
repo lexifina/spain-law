@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Acción directa contra el cargador principal en los supuestos de intermediación.
+
+En los supuestos de intermediación en la contratación de transportes terrestres, el transportista que efectivamente haya realizado el transporte tendrá acción directa por la parte impagada, contra el cargador principal y todos los que, en su caso, le hayan precedido en la cadena de subcontratación, en caso de impago del precio del transporte por quien lo hubiese contratado, salvo en el supuesto previsto en el artículo 227.8 del texto refundido de la Ley de Contratos del Sector Público, aprobado por el Real Decreto Legislativo 3/2011, de 14 de noviembre.

@@ -1,0 +1,5 @@
+## Disposición adicional novena. Teleformación para la impartición de cursos de cualificación inicial.
+
+1. Los objetivos 2.2, 2.3, 3.2, 3.4 y 3.6 del programa del curso de cualificación inicial previstos en el anexo I letra A), podrán ser impartidos mediante teleformación siempre que se garantice una identificación fiable del usuario y unos medios de control adecuados, de conformidad con las especificaciones que se establezcan reglamentariamente por parte del Ministro de Transportes, Movilidad y Agenda Urbana.
+
+2. Además de los objetivos concretos detallados en el párrafo anterior, el Ministro de Transportes, Movilidad y Agenda Urbana podrá, mediante orden ministerial, añadir otros objetivos del programa del curso de cualificación inicial y de formación continua que puedan ser impartidos mediante teleformación siempre que se garanticen las condiciones previstas en el párrafo anterior. Los objetivos impartidos mediante teleformación en los cursos de formación continua no podrán superar las doce horas.

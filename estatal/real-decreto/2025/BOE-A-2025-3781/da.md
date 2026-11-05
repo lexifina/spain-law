@@ -1,0 +1,3 @@
+## Disposición adicional primera. Adaptación y modificación de los certificados de tipo restringidos emitidos con anterioridad al Real Decreto 765/2022, de 20 de septiembre, por el que se regula el uso de aeronaves motorizadas ultraligeras (ULM).
+
+Para las solicitudes de modificación de los certificados de tipo restringido a los que se refiere la disposición adicional primera del Real Decreto 765/2022, de 20 de septiembre, y siempre que se respete la limitación incluida en dicha disposición, se admitirán como bases de certificación las originales con las desviaciones conforme a las nuevas especificaciones de certificación aplicables y que la Agencia Estatal de Seguridad Aérea considere aceptables.

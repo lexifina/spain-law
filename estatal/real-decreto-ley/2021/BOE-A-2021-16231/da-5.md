@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Apertura de nuevo plazo de solicitud de las medidas de suspensión de obligaciones de pago de intereses y principal para préstamos y créditos con y sin garantía hipotecaria concedidos a afectados por los movimientos sísmicos y erupciones volcánicas acaecidos en la isla de La Palma desde el pasado día 19 de septiembre de 2021.
+
+Aquellos deudores que hubieran solicitado la suspensión de sus obligaciones o la prórroga de la misma en virtud de lo dispuesto en la disposición adicional cuarta del del Real Decreto-ley 20/2021, de 5 de octubre, por el que se adoptan medidas urgentes de apoyo para la reparación de los daños ocasionados por las erupciones volcánicas y para la reconstrucción económica y social de la isla de La Palma, podrán solicitar, hasta el 30 de enero de 2023, una suspensión adicional de seis meses de sus obligaciones de pago derivadas de los contratos de préstamo o crédito con o sin garantía hipotecaria. En todo lo demás, serán de aplicación los artículos 15 a 24 de este real decreto-ley.
+
+> Se añade por el art. 86 del Real Decreto-ley 20/2022, de 27 de diciembre. Ref. BOE-A-2022-22685 #a8-8

@@ -1,0 +1,1 @@
+Téngase en cuenta que, si bien el presente Decreto alude a normas derogadas, no obstante, su interpretación debería limitarse a la obligación de identificación y registro de usuarios y a la autorización para el desarrollo de normas complementarias que deberían entenderse a favor de las correspondientes Comunidades Autónomas.

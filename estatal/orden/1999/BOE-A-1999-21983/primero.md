@@ -1,0 +1,5 @@
+## Primero. Creación y objeto.
+
+Uno. Se crea en el Consejo Superior de Deportes la Comisión para la Aplicación Homogénea del Proceso de Homologación, Convalidación y Equivalencia de las Formaciones de Entrenadores Deportivos, de acuerdo con lo establecido en la disposición adicional undécima el Real Decreto 1913/1997, de 19 de diciembre, por el que se configuran como enseñanzas de régimen especial las conducentes a la obtención de titulaciones de técnicos deportivos, se aprueban las directrices generales de los títulos y de las correspondientes enseñanzas mínimas.
+
+Dos. La Comisión para Aplicación Homogénea del Proceso de Homologación, Convalidación y Equivalencia de las Formaciones de Entrenadores Deportivos, es el órgano colegiado de carácter consultivo, adscrito al Consejo Superior de Deportes, que tiene por objeto garantizar que los mencionados procesos, regulados en el capítulo VI y en la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, se apliquen de manera homogénea.

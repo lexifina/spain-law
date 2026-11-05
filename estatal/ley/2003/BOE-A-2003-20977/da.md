@@ -1,0 +1,15 @@
+## Disposición adicional vigésima sexta. Subvenciones y otras ayudas concedidas por las entidades de derecho público del sector público estatal que se rijan por el derecho privado.
+
+1. Las entregas dinerarias sin contraprestación que otorguen las entidades de derecho público del sector público estatal que se rijan por el derecho privado, tendrán siempre la consideración de subvenciones. Su concesión y demás actuaciones contempladas en esta Ley constituirán el ejercicio de potestades administrativas a los efectos previstos en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, quedando sometidas al mismo régimen jurídico establecido para las subvenciones concedidas por las Administraciones Públicas.
+
+2. De acuerdo con lo previsto en la disposición adicional cuarta de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las siguientes ayudas preservarán sus actuales especialidades:
+
+a) Los préstamos concedidos por el Centro para el Desarrollo Tecnológico Industrial (CDTI) con una parte no reembolsable de hasta un tercio del importe del crédito, que seguirán el régimen previsto en la disposición adicional sexta de esta Ley.
+
+b) Las ayudas concedidas por ICEX España Exportación e Inversiones dirigidas a impulsar la participación agrupada de empresas en ferias internacionales, misiones directas, jornadas técnicas, seminarios, congresos, convenciones o actividades análogas, en tanto no se opongan a la normativa comunitaria.
+
+En todo caso, les serán de aplicación los principios generales y de información a que hacen referencia los artículos 8, 18 y 20 de esta Ley.
+
+Los préstamos y ayudas concedidas por el Centro para el Desarrollo Tecnológico Industrial y por ICEX España Exportación e Inversiones no previstos en las letras a) y b) de este apartado, se someterán al régimen general contemplado en esta Ley.
+
+> Se añade por la disposición final 18 de la Ley 6/2018, de 3 de julio. Ref. BOE-A-2018-9268#df-19

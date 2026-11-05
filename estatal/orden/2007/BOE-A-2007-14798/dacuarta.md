@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Condiciones específicas para la aplicación del servicio de interrumpibilidad en el mercado.
+
+Los consumidores a quienes es de aplicación la presente orden, podrán solicitar a la Dirección General de Política Energética y Minas la aplicación de condiciones específicas de aplicación del servicio de interrumpibilidad en el mercado distintas a las establecidas con carácter general en la presente orden cuando dichas condiciones puedan suponer mejoras para la gestión del sistema en función de circunstancias específicas de generación, transporte y distribución.
+
+La Dirección General de Política Energética y Minas, previo informe del Operador del Sistema, podrá autorizar lo solicitado siempre que de dicha aplicación particular se derive un beneficio para el sistema eléctrico y la seguridad de suministro. En cualquier caso la adaptación de la retribución a las condiciones específicas de este servicio no podrá superar los límites establecidos con carácter general en esta orden para el servicio de interrumpibilidad.

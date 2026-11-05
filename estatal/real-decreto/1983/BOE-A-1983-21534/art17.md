@@ -1,0 +1,3 @@
+## Art. 17.
+
+Cuando sean convocadas conjuntamente Autoridades y Colegios de Instituciones o Corporaciones a los actos de carácter general, cada uno de estos últimos se situará a continuación de la autoridad de que dependa, y según el orden establecido en los artículos 10 a 14 y 12 a 16, según tenga lugar el acto en Madrid o en el territorio de una Comunidad Autónoma, salvo que la autoridad organizadora, de acuerdo con la Jefatura de Protocolo del Estado, determinase la precedencia solamente por el orden de las autoridades, en cuyo caso las Instituciones y Corporaciones se situarán a continuación de la última de aquéllas y por el orden establecido en los artículos 10 y 12, respectivamente, según el lugar del acto.

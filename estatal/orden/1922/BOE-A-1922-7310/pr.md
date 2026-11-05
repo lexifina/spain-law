@@ -1,0 +1,3 @@
+Ilmo. Sr.: Publicada en la Gaceta de Madrid la ley Reguladora del impuesto sobre Grandezas y Títulos, Condecoraciones y Honores, texto refundido fecha 2 de septiembre de 1922, y determinándose en el artículo 11, apartado B) de la misma una nueva modalidad de la liquidación fiscal en favor de los agraciados con Títulos extranjeros, como sucesores de personas que anteriormente hubieran ostentado en España las dignidades de referencia, procede especificar la forma en que habrán de cursarse expedientes donde se ventile la cuestión jurídica sucesoria que sirva de antecedente a la liquidación fiscal; en su virtud,
+
+S. M. el Rey (q. D. g.) se ha servido disponer lo siguiente:

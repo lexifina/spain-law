@@ -1,0 +1,37 @@
+La Directiva 2003/59/CE del Parlamento Europeo y del Consejo, de 15 de julio de 2003, relativa a la cualificación inicial y a la formación continua de los conductores de determinados vehículos destinados al transporte de mercancías o de viajeros por carretera, por la que se modifican el Reglamento (CEE) n.º 3820/85 del Consejo y la Directiva 91/439/CEE del Consejo y se deroga la Directiva 76/914/CEE del Consejo, estableció una nueva formación obligatoria para determinados conductores profesionales.
+
+La formación obligatoria de los conductores se establecía como algo diferente de la existente para la obtención de los permisos de conducción y consistía, por un lado, en una cualificación inicial que debe obtenerse con independencia del permiso de conducción y, por otro, una formación continua dirigida a mantener actualizados los conocimientos inicialmente exigidos.
+
+La Directiva 2003/59/CE del Parlamento Europeo y del Consejo, de 15 de julio de 2003, se incorporó al derecho español mediante el Real Decreto 1032/2007, de 20 de julio, por el que se regula la cualificación inicial y la formación continua de los conductores de determinados vehículos destinados al transporte por carretera.
+
+Mediante la Directiva (UE) 2018/645 del Parlamento Europeo y del Consejo, de 18 de abril de 2018, se modificaron tanto la Directiva 2003/59/CE como la Directiva 2006/126/CE del Parlamento Europeo y del Consejo, de 20 de diciembre de 2006, sobre el permiso de conducción, con el fin de corregir las principales deficiencias detectadas en la aplicación de la primera, así como clarificar en la segunda Directiva la edad en la que pueden expedirse determinados permisos de conducción a los titulares de un certificado de aptitud profesional.
+
+Se hace necesario, por tanto, incorporar, mediante esta norma, al ordenamiento jurídico español las novedades introducidas por la citada Directiva (UE) 2018/645, exclusivamente en lo que a la Directiva 2003/59/CE se refiere, además de modificar algunos contenidos del Real Decreto 1032/2007, de 20 de julio. Con el fin de que la regulación de la cualificación inicial y la formación continua de los conductores profesionales sea lo más sistemática posible, se ha procedido a elaborar un nuevo real decreto sobre la materia.
+
+Por ello, se han reformulado las exenciones de aquellos conductores que no tienen la obligación de obtener la formación específica, de conformidad con lo previsto en la normativa comunitaria.
+
+Por otra parte, se han flexibilizado los requisitos para que una empresa autorizada como centro de formación pueda prestar sus servicios en todo el territorio nacional.
+
+Y fundamentalmente, se han incorporado nuevos contenidos formativos relacionados con la conducción eficiente desde el punto de vista del carburante y del avance tecnológico de los vehículos, así como con la seguridad vial y la anticipación a los peligros. Además, se ha reorganizado el planteamiento de cursos de cualificación inicial y continua, de manera que permitan tener en cuenta, como prevé la Directiva, otras formaciones cursadas por el alumno en cumplimiento de otras normas comunitarias, y se ha provisto al programa de la suficiente flexibilidad para que exista una formación variada y lo más adaptada posible a las necesidades de los conductores. Por último, se han incorporado diferentes opciones de formación práctica en los cursos de formación continua dotándolos de mayor atractivo para los conductores.
+
+Además, y como ya recogía el Real Decreto 1032/2007, de 20 de julio, y ahora recoge expresamente la Directiva (UE) 2018/645 del Parlamento Europeo y del Consejo, de 18 de abril de 2018, se mantiene la polivalencia de formaciones en los supuestos de realización de cursos exigidos para la obtención de la cualificación de los conductores de vehículos que transportan mercancías peligrosas, siempre que se cumpla con la normativa específica reguladora de dichos cursos.
+
+También se mantienen las previsiones que dieron cumplimiento a lo señalado en el Acuerdo del Consejo de Ministros de 21 de octubre de 2005, por el que se desarrollaron y aplicaron distintas medidas relativas al sector del transporte por carretera, para la mejora de las condiciones de transparencia y competencia en el sector.
+
+El texto modifica, mediante su disposición final primera, el Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, con la finalidad de corregir determinadas deficiencias formales, fundamentalmente en materia de infracciones, que se habían detectado tras la modificación operada en este ámbito mediante el Real Decreto 70/2019, de 15 de febrero, por el que se modifican el Reglamento de la Ley de Ordenación de los Transportes Terrestres y otras normas reglamentarias en materia de formación de los conductores de los vehículos de transporte por carretera, de documentos de control en relación con los transportes por carretera, de transporte sanitario por carretera, de transporte de mercancías peligrosas y del Comité Nacional del Transporte por Carretera. Además, por indicación de la Comisión Europea, se modifica el contenido del anexo II, apartado 8, de este real decreto sobre los criterios de corrección de los exámenes de competencia profesional.
+
+Este real decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+En aplicación de los principios de necesidad y eficacia, queda suficientemente justificado en los párrafos anteriores que esta norma persigue un interés general, que tiene unos fines claramente identificados y que es el instrumento más adecuado para su consecución.
+
+Asimismo, esta norma proporciona coherencia a nuestro ordenamiento jurídico siendo el instrumento más adecuado para ello y sin que exista ninguna alternativa regulatoria menos restrictiva de derechos. Cumple, por tanto, los principios de proporcionalidad y seguridad jurídica.
+
+De acuerdo con el principio de transparencia, se ha seguido en la tramitación de esta norma lo dispuesto en la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, además de posibilitar la participación activa de los destinatarios mediante el proceso de consultas a que se ha sometido la iniciativa.
+
+En aplicación del principio de eficiencia, esta norma contiene determinadas medidas tendentes a evitar cargas administrativas innecesarias o accesorias y racionalizar la gestión de los centros que imparten la formación exigida por esta norma.
+
+Asimismo, en cumplimiento de lo previsto en la Ley 50/1997, de 27 de noviembre, del Gobierno, el proyecto de real decreto ha sido sometido al preceptivo trámite de consulta y audiencia mediante su puesta a disposición de los sectores afectados en la sede electrónica del Ministerio de Transportes, Movilidad y Agenda Urbana. El texto se ha enviado al Consejo Nacional de Transportes Terrestres, al Comité Nacional del Transporte por Carretera y a los órganos competentes en materia de transporte terrestre de las distintas Comunidades Autónomas.
+
+En su virtud, a propuesta del Ministro de Transportes, Movilidad y Agenda Urbana y del Ministro del Interior, con la aprobación previa del Ministro de Política Territorial y Función Pública, de acuerdo con el Consejo de Estado, y previa deliberación del Consejo de Ministros en su reunión del día 20 de abril de 2021,
+
+DISPONGO:

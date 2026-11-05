@@ -1,0 +1,9 @@
+## Artículo cuarto. Junta de Caza.
+
+A los efectos previstos en su Ley de creación, se constituirá en cada Reserva una Junta Consultiva, cuya Presidencia la ostentará el Delegado Provincial del Ministerio de Agricultura de la provincia en que radique la administración de la Reserva, correspondiendo la Secretaría, con voz y voto, al Director Técnico de la misma; actuaran como Vocales un representante de cada una de las Diputaciones, Cámaras Agrarias y Diputaciones Provinciales del Ministerio de Comercio y Turismo interesadas; un representante de la Federación Española de Caza: un representante del ICONA; dos Alcaldes y dos representantes de Entidades agrarias provinciales afectadas por la Reserva; dos propietarios particulares interesados. El nombramiento de los representantes de Entidades agrarias provinciales y de los propietarios particulares se efectuara por el Gobernador civil que corresponda, a propuesta de la Cámara Agraria; tratándose de Alcaldes, su nombramiento lo efectuará la misma autoridad, a propuesta de la Comisión Provincial de Colaboración del Estado con las Corporaciones Locales. El Director del ICONA podrá nombrar hasta un máximo de cuatro Vocales entre personas de acreditada competencia y conocimiento de temas cinegéticos.
+
+Cuando a juicio de las Juntas así constituidas convenga a los intereses de la Reserva, el número de Alcaldes, representantes de Entidades agrarias provinciales y propietarios interesados, que hayan de actuar como Vocales de la Junta podrá ser incrementado hasta un máximo de cuatro.
+
+Estas juntas se reunirán como mínimo dos veces al año; de cada una de sus reuniones se levantará la correspondiente acta, debiendo enviarse copia de la misma a la dirección del ICONA
+
+> Se modifica por el art. único del Real Decreto 891/1979, de 26 de enero. Ref. BOE-A-1979-11076.

@@ -1,0 +1,3 @@
+## Disposición adicional duodécima. Inclusión en el sistema de gestión de la seguridad.
+
+Toda empresa ferroviaria o administrador de infraestructura ferroviaria, incluirá, con arreglo a la presente orden, como parte de su sistema de gestión de la seguridad en la circulación, los procedimientos de expedición y actualización de los certificados de conducción, así como los procedimientos de recursos o impugnación que permitan al personal solicitar la revisión de una decisión relativa a la expedición, actualización, suspensión o retirada de dicho certificado. Asimismo, se hará referencia a los requisitos de los exámenes y examinadores destinados a comprobar las cualificaciones requeridas para la obtención de los citados certificados.

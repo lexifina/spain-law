@@ -1,0 +1,3 @@
+## Sección C. Disposiciones para la elección de Consejeros en representación de países no recogidos en el anexo A
+
+Caso de que la Junta de Gobernadores decida, de conformidad con lo dispuesto en el apartado 3 del artículo 26 del presente Convenio, incrementar o reducir el tamaño, o revisar la composición del Consejo de Administración a fin de reflejar toda variación registrada en el número de miembros del Banco, la referida Junta habrá de examinar previamente la posible necesidad de modificar el presente anexo, y podrá introducir cualquier modificación que juzgue necesaria en relación con dicha decisión.

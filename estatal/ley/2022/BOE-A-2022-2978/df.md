@@ -1,0 +1,3 @@
+## Disposición final primera. Títulos competenciales.
+
+La presente ley se dicta conforme a lo dispuesto en los artículos 149.1.18.ª y 149.1.30.ª de la Constitución Española que atribuyen al Estado competencia exclusiva sobre, respectivamente, las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas, así como el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; y normas básicas para el desarrollo del artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.

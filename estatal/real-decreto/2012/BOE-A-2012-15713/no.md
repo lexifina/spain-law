@@ -1,0 +1,1 @@
+Téngase en cuenta que quedan derogadas las disposiciones de esta norma, en lo que contradigan o se opongan a lo dispuesto en el Real Decreto 1089/2020, de 9 de diciembre. Ref. BOE-A-2020-15876#dd, con efectos de 11 de diciembre de 2020, según determina su disposición derogatoria, y, sin perjuicio de lo que se establece en la disposición transitoria única.

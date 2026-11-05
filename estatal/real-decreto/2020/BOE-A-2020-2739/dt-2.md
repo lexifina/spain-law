@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Órganos colegiados de contratación.
+
+Sin perjuicio de lo establecido en la disposición transitoria primera acerca de la subsistencia de unidades y puestos de trabajo, y hasta tanto se apruebe la orden ministerial y se constituyan los correspondientes órganos colegiados de contratación adaptados a la estructura establecida en este real decreto, subsistirán, con el carácter de órganos interministeriales, la Junta de Contratación y la Mesa Única de Contratación del extinto Ministerio de Economía y Empresa, con la estructura y facultades establecidas en la Orden ECE/1306/2018, de 5 de diciembre.

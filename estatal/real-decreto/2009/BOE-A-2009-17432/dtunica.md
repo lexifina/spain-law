@@ -1,0 +1,5 @@
+## Disposición transitoria única. «Entidad colaboradora en igualdad de oportunidades entre mujeres y hombres».
+
+Las empresas que hayan sido reconocidas como «Entidad colaboradora en igualdad de oportunidades entre mujeres y hombres» de conformidad con lo previsto en la Orden de 25 de enero de 1996, podrán seguir utilizando en su publicidad y comunicaciones el citado reconocimiento hasta que se resuelva la primera de las convocatorias que realice el Ministerio de Igualdad para la concesión del distintivo regulado en el presente real decreto. A partir de esa fecha ninguna empresa podrá seguir utilizando ese reconocimiento.
+
+A las empresas a que se refiere el párrafo anterior, que concurran a la convocatoria del Ministerio de Igualdad para la concesión del distintivo «Igualdad en la empresa», les resultará de aplicación en su integridad el régimen jurídico previsto en el presente real decreto para la solicitud inicial de este distintivo, si bien les será valorado su reconocimiento como «Entidad colaboradora en igualdad de oportunidades entre mujeres y hombres» junto con los demás criterios de valoración previstos el artículo 10.

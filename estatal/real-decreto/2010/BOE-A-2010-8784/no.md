@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 26 de junio de 2019, por la disposición derogatoria única.1 del Real Decreto 391/2019, de 21 de junio. Ref. BOE-A-2019-9513#dd. Téngase en cuenta que la disposición adicional única del presente Real Decreto mantendrá su vigencia hasta el 26 de marzo de 2020, según establece la disposición transitoria 7 del citado Real Decreto 391/2019.

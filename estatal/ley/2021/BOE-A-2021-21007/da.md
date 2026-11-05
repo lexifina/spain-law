@@ -1,0 +1,5 @@
+## Disposición adicional primera. Colaboración de las empresas al tránsito de los beneficiarios del ingreso mínimo vital a la participación activa en la sociedad.
+
+Reglamentariamente se regulará el Sello de Inclusión Social, con el que se distinguirá a aquellas empresas y entidades que contribuyan al tránsito de los beneficiarios del ingreso mínimo vital desde una situación de riesgo de pobreza y exclusión a la participación activa en la sociedad.
+
+En particular, los empleadores de beneficiarios del ingreso mínimo vital serán reconocidos con la condición de titulares del Sello de Inclusión Social, en los términos que reglamentariamente se establezcan. La condición de figurar como beneficiario del ingreso mínimo vital en el momento de su contratación servirá a los efectos de cómputo del porcentaje a que se refiere el artículo 147.2 a) de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que se trasponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.

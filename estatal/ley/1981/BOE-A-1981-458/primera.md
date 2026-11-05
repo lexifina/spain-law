@@ -1,0 +1,3 @@
+## Disposición transitoria primera.
+
+El Ministerio de Universidades e Investigación, previa audiencia de las Asociaciones de Licenciados en Ciencias Biológicas, y de las secciones profesionales de Biólogos de los Ilustres Colegios Oficiales de Doctores y Licenciados en Filosofía y Letras y en Ciencias aprobará los estatutos provisionales del Colegio, que regularán, conforme a la Ley, los requisitos para la adquisición de la condición de colegiado que permita participar en las elecciones de los órganos de gobierno, el procedimiento y el plazo de convocatoria de las mencionadas elecciones, así como de la constitución de los órganos de gobierno elegidos.

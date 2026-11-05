@@ -1,0 +1,3 @@
+## Artículo veintiuno. Prohibición de ingresos atípicos.
+
+Los empleados públicos comprendidos dentro del ámbito de aplicación de la presente Ley, con excepción de aquellos sometidos al régimen de arancel, no podrán percibir participación alguna en los tributos, comisiones u otros ingresos de cualquier naturaleza, que devengue la Administración o cualquier poder público como contraprestación de cualquier servicio o jurisdicción, debiendo percibir únicamente las remuneraciones del correspondiente régimen retributivo, y sin perjuicio de lo que resulte de la aplicación del sistema de incompatibilidades.

@@ -1,0 +1,3 @@
+## Disposición adicional decimocuarta. Cuantía de las reclamaciones económico-administrativas.
+
+Con efectos para las reclamaciones económico-administrativas que se interpongan a partir de la entrada en vigor de esta ley las cuantías a las que se refieren los párrafos a) y b) del apartado 2 del artículo 10 del Real Decreto 391/1996, de 1 de marzo, por el que se aprueba el Reglamento de Procedimiento de las Reclamaciones Económico-administrativas quedarán fijadas en 150.000 y 1.800.000 euros, respectivamente, hasta que se apruebe un nuevo Reglamento de desarrollo en materia económica-administrativa.

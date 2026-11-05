@@ -1,0 +1,7 @@
+## Disposición transitoria segunda. Unificación de suministro.
+
+Cuando un abonado tuviese varios suministros que anteriormente se facturasen a distintas tarifas, pero a los que les sea ya de aplicación una sola, la unificación del suministro y de los equipos de medida y, en su caso, la modificación de éstos, sólo podrá realizarse con su conocimiento. Las empresas suministradoras deberán poner en conocimiento de los abonados que estén en este caso la posibilidad que tienen de reducir la potencia total contratada, si lo consideran oportuno, y, en su caso, del derecho que le asiste a ella misma de colocar un elemento para controlar la potencia total contratada.
+
+En el caso en que no se hubieran unificado los suministros, la potencia contratada, a efectos de elección de tarifa, será la suma de las potencias de dichos suministros.
+
+Los gastos de modificación de la instalación serán de cuenta del abonado, que podrá encomendarlos a la empresa suministradora o a un instalador autorizado. La retirada del equipo sobrante y la adaptación o cambio del que ha de quedar instalado, será por cuenta del propietario anterior del mismo, de forma que no cambie el régimen de propiedad o alquiler. Se extenderá nueva póliza de abono en la que se consignará la nueva potencia contratada para el suministro conjunto, sin que esto suponga el pago de ningún derecho por el abonado. En ningún caso se podrá exigir la sustitución del equipo de medida si éste mantuviera la precisión suficiente para la nueva potencia.

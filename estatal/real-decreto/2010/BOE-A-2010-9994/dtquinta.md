@@ -1,0 +1,3 @@
+## Disposición transitoria quinta. Registro de fabricantes y firmas autorizadas.
+
+Los fabricantes y representantes del fabricante inscritos en el actual Registro de fabricantes y firmas autorizadas de la autoridad de homologación deberán actualizar su inscripción según los requisitos de este real decreto en un plazo de seis meses después de la fecha de entrada en vigor del presente real decreto. No obstante, si con anterioridad a esta fecha tuvieran que actualizar o modificar alguno de los datos de su expediente, deberán actualizar el mismo según lo dispuesto en el artículo 4 de este real decreto.

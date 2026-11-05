@@ -1,0 +1,3 @@
+## Primero.
+
+Hasta que el normal funcionamiento de los servicios sea restablecido, podrá aplicarse el régimen de control financiero permanente en sustitución de la función interventora, respecto al ámbito previsto en el artículo 149.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en aquellos tipos de expedientes de gasto, actividades, áreas de gestión y, en su caso, en aquellos órganos y organismos, que se determine por el Interventor General de la Administración del Estado, como órgano de control de la gestión económico-financiera del sector público estatal, conforme a lo establecido en el presente Acuerdo.

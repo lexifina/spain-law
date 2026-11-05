@@ -1,0 +1,5 @@
+## Artículo decimosegundo.
+
+Los traspasos de servicios comprenderán la totalidad de las unidades administrativas correspondientes a dichos servicios transferidos de la Administración del Estado. Cuando ello no pueda legalmente conseguirse, se establecerá la necesaria adaptación del servicio traspasado y su coordinación con los que siga prestando la Administración del Estado para conseguir el máximo rendimiento, evitando duplicidad o interferencia de las actuaciones respectivas.
+
+En estos casos se procurará, asimismo, no recurrir a la creación de comisiones paritarias u otros órganos de coordinación más que cuando sean inexcusables o resulten de alguna disposición del Estatuto de Autonomía para Cantabria.

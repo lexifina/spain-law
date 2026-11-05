@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Exigencia de seguro por riesgo de muerte o accidente para las personas ajenas a la tripulación y al pasaje.
+
+Hasta que se lleve a cabo la modificación legal del Texto Refundido de la Ley de Puertos del Estado y de la Marina Mercante, aprobado por el Real Decreto Legislativo 2/2011, de 5 de septiembre, las obligaciones de aseguramiento contenidas en el Reglamento de Ordenación de la Navegación Marítima para las personas ajenas a la tribulación y al pasaje autorizadas a embarcar se exigirán con arreglo a lo dispuesto en el artículo 33.c) de la Orden de 18 de enero de 2000 por la que se aprueba el Reglamento sobre Despacho de Buques.

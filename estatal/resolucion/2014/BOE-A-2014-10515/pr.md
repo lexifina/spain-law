@@ -1,0 +1,3 @@
+En reunión del 22 de julio de 2014, el Ministro de Justicia, la Ministra de Empleo y Seguridad Social, la Ministra de Sanidad, Servicios Sociales e Igualdad, el Fiscal General del Estado, el Secretario de Estado de Seguridad y el Subsecretario del Ministerio de Asuntos Exteriores y de Cooperación, firmaron un Acuerdo para la aprobación del Protocolo Marco sobre determinadas actuaciones en relación con los Menores Extranjeros No Acompañados.
+
+Para general conocimiento, se dispone la publicación de dicho Acuerdo, así como del Protocolo marco aprobado por el mismo y sus correspondientes anexos, como Anejo a la presente Resolución.

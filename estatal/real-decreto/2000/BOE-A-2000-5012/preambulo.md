@@ -1,0 +1,17 @@
+La Ley 54/1997, de 27 de noviembre, del Sector Eléctrico, supone el abandono del modelo de explotación unificada y el establecimiento de los fundamentos del desarrollo normativo de un nuevo modelo basado en los principios de objetividad, transparencia y libre competencia. El nuevo sistema se propone conseguir una mejora de la eficiencia mediante la introducción de mecanismos de mercado en aquellas actividades que se pueden realizar en condiciones de competitividad, garantizando la calidad del suministro.
+
+En este esquema la generación y la comercialización quedan definidas como actividades que se desarrollan en un régimen de libre competencia, por lo que sus retribuciones se derivan de su participación directa en los respectivos mercados. En las actividades de transporte y distribución de energía eléctrica en las que la liberalización se introduce mediante la generalización del acceso de terceros a las redes, se continuará fijando administrativamente su retribución para evitar posibles abusos de posiciones de dominio determinadas por la existencia de una única red.
+
+Con la finalidad de garantizar la transparencia de estas retribuciones y de los costes reconocidos al operador del sistema y al operador del mercado, la Ley 54/1997, de 27 de noviembre, establece la obligación de separar jurídicamente las distintas actividades eléctricas.
+
+El artículo 14 de la citada Ley establece para las sociedades mercantiles que desarrollen alguna o algunas actividades eléctricas reguladas, la obligación de que su objeto social sea en exclusividad el desarrollo de las mismas sin que puedan, por tanto, realizar actividades de producción o de comercialización sin perjuicio de la posible venta a consumidores sometidos a tarifa reconocida a los distribuidores. Se establece, asimismo, el régimen para la realización de actividades incompatibles de acuerdo con lo dispuesto en la Ley del Sector Eléctrico por empresas integradas en un grupo de sociedades, o para la toma de participaciones en sociedades que desarrollen actividades en otros sectores.
+
+La disposición transitoria quinta de la Ley del Sector Eléctrico regula la separación de los negocios para las entidades que, en el momento de su entrada en vigor, realizasen conjuntamente actividades reguladas y no reguladas y se establece la obligación de la Comisión Nacional del Sistema Eléctrico de emitir un informe antes del 31 de diciembre de 1998, sobre los efectos que se puedan producir en las sociedades afectadas, derivados de circunstancias o compromisos existentes en el momento de la entrada en vigor de la Ley, así como sobre la incidencia de la separación jurídica en el tratamiento retributivo de las sociedades. La Comisión Nacional del Sistema Eléctrico emitió su informe que remitió a la Dirección General de la Energía el día 18 de diciembre de 1997.
+
+El presente Real Decreto constituye el desarrollo normativo de las mencionadas disposiciones, estableciendo los criterios a seguir para realizar la separación de actividades.
+
+La norma se fundamenta en los principios de libertad de elección, en cuanto al método a seguir para llevar a cabo la separación, neutralidad del proceso y seguridad jurídica de las entidades participantes.
+
+En su virtud, a propuesta del Ministro de Industria y Energía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 25 de febrero de 2000,
+
+DISPONGO:

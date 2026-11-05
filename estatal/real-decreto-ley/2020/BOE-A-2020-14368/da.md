@@ -1,0 +1,3 @@
+## Disposición adicional única. Acceso del Instituto de Crédito Oficial a la CIRBE.
+
+El Instituto de Crédito Oficial, con el objeto de agilizar los trámites relativos a la comprobación de los impagados en la CIRBE que le sean comunicados por las entidades financieras otorgantes de los préstamos a los que haya aportado un aval, tendrá derecho a obtener la información referida sobre los riesgos de las personas físicas o jurídicas, registrados en la CIRBE cuando así lo solicite, sin que deba cumplir con los requisitos establecidos en el artículo 61 de la Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero, u otras disposiciones que desarrollen o complementen esta materia.

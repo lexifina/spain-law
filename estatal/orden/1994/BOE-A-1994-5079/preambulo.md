@@ -1,0 +1,3 @@
+El Reglamento de Armas, aprobado por Real Decreto 137/1993, de 29 de enero («Boletín Oficial del Estado» número 55, de 5 de marzo), ha reestructurado el sistema de concesión de licencias, tarjetas y autorizaciones de armas, estableciendo nuevos documentos en unos casos y variando los plazos de validez en otros, por lo que se hace necesario adaptar los impresos correspondientes a lo dispuesto en dicho Reglamento.
+
+Por lo expuesto, en cumplimiento de lo establecido en la disposición final segunda del mencionado Real Decreto, a propuesta de la Dirección General de la Guardia Civil, previo informe de la Comisión Interministerial Permanente de Armas y Explosivos, dispongo:

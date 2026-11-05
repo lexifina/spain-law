@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del Real Decreto 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación del espacio afectado por actividades mineras.
+
+Se añade una nueva letra i) al apartado 1 del artículo 18 del Real Decreto 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación del espacio afectado por actividades mineras, con la siguiente redacción:
+
+> «i) un estudio de evaluación económica preliminar sobre la posible valorización de materias primas fundamentales, o justificación de exención de este, conforme a lo establecido en el artículo 27.1 del Reglamento (UE) 2024/1252 del Parlamento Europeo y del Consejo, de 11 de abril de 2024, por el que se establece un marco para garantizar un suministro seguro y sostenible de materias primas fundamentales y por el que se modifican los Reglamentos (UE) n.º 168/2013, (UE) 2018/858, (UE) 2018/1724 y (UE) 2019/1020.»

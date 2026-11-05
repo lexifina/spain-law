@@ -1,0 +1,1 @@
+Téngase en cuenta que la Sentencia del Tribunal Supremo (Sala de lo Contencioso-Administrativo, Sección 4.ª), de 14 de junio de 2006, vino a confirmar la Sentencia de la Sala de lo Contencioso-Administrativo de la Audiencia Nacional de ocho de octubre de 2003, que estimaba el recurso contencioso-administrativo presentado contra la presente Orden, declarándola nula.

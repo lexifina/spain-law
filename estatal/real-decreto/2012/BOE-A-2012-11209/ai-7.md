@@ -1,0 +1,26 @@
+## ANEXO III
+
+## Especialidades del profesorado con atribución docente en los módulos profesionales del ciclo formativo de Técnico en Navegación y Pesca de Litoral
+
+| Módulo profesional | Especialidad del profesorado | Cuerpo |
+| --- | --- | --- |
+| 1027. Técnicas de navegación y comunicaciones. | – Máquinas, Servicios y Producción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| 1028. Procedimientos de guardia. | – Navegación e Instalaciones Marinas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1029. Pesca de litoral. | – Según lo establecido en el capítulo IV del título V del Real Decreto 659/2023, de 18 de julio. |  |
+| 1030. Despacho y administración del buque. | – Navegación e Instalaciones Marinas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 0156. Inglés Profesional (GM). | – Inglés. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1032. Seguridad marítima. | – Navegación e Instalaciones Marinas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1033. Atención sanitaria a bordo. | – Procesos Sanitarios. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1034. Instalaciones y servicios. | – Máquinas, Servicios y Producción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| 1035. Técnicas de maniobra. | – Máquinas, Servicios y Producción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| 1036. Estabilidad, trimado y estiba del buque. | – Máquinas, Servicios y Producción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| 1713. Proyecto intermodular. | – Máquinas, Servicios y Producción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| – Navegación e Instalaciones Marinas. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1709. Itinerario personal para la empleabilidad I. | – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1710. Itinerario personal para la empleabilidad II. | – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1708. Sostenibilidad aplicada al sistema productivo. | – Máquinas, Servicios y Producción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| – Navegación e Instalaciones Marinas. – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+| 1664. Digitalización aplicada a los sectores productivos (GM). | – Máquinas, Servicios y Producción. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. – Cuerpo a extinguir de Profesores Técnicos de Formación Profesional. |
+| – Navegación e Instalaciones Marinas. – Formación y Orientación Laboral. | – Catedráticos de Enseñanza Secundaria. – Profesores de Enseñanza Secundaria. |
+
+> Se suprimen los anexos III A, III B, III C y se añade el anexo III, con el contenido que figura como anexo LVII del Real Decreto 499/2024, de 21 de mayo, según establece su art. 8.55. Ref. BOE-A-2024-10684

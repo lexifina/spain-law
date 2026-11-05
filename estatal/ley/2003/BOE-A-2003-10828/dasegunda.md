@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Legislación supletoria.
+
+En todo lo no previsto en esta ley y en su normativa de desarrollo, serán de aplicación supletoria al régimen de los recursos integrados en el fondo el texto articulado de la Ley del Patrimonio del Estado, aprobado por el Decreto 1022/1964, de 15 de abril, y su normativa de desarrollo, el texto refundido de la Ley General Presupuestaria, aprobado por el Real Decreto Legislativo 1091/1988, de 23 de septiembre, y su normativa de desarrollo, las leyes anuales de Presupuestos Generales del Estado, y la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, y su normativa de desarrollo.

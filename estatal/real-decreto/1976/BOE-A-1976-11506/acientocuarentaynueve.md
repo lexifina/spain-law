@@ -1,0 +1,5 @@
+## Artículo ciento cuarenta y nueve.
+
+Uno. De acuerdo con las previsiones del Plan General y sin detrimento de los programas en él establecidos, las Entidades Locales y, en su caso, las Urbanísticas especiales competentes podrán formular y ejecutar directamente Programas de Actuación Urbanística sin que sea necesario en este supuesto la convocatoria de concurso.
+
+Dos. Asimismo, podrán formularse y ejecutarse Programas de Actuación Urbanística sin previa convocatoria de concurso cuando se trate de la urbanización de terrenos destinados a instalaciones de actividades productivas relevantes o de especial importancia y para la formación de polígonos industriales, y así lo acuerde el Consejo de Ministros mediante Decreto, a propuesta del Ministerio de la Vivienda y del competente por razón de la materia previo informe de las Corporaciones Locales interesadas y de la Comisión Central de Urbanismo, y dictamen del Consejo de Estado. En el Decreto se determinarán las obligaciones que debe cumplir el adjudicatario en relación con lo que se establece en el apartado tres del artículo ciento cuarenta y seis.

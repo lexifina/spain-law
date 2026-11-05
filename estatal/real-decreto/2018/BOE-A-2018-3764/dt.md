@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Cómputo de convocatorias consumidas y renuncias efectuadas.
+
+A los efectos de lo contemplado en los artículos 20 y 52 del Reglamento aprobado por este real decreto, el cómputo de las convocatorias comenzará a contar a partir de los procesos selectivos correspondientes al curso académico 2019-2020, así como en el caso de las renuncias, una vez seleccionados, a los cursos de capacitación para el ascenso cuya fecha de inicio sea posterior al 1 de julio de 2018, y teniendo en cuenta lo dispuesto en el apartado 2 de la disposición transitoria undécima de la Ley 29/2014, de 28 de noviembre.

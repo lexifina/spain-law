@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Renovación miembros del Consejo Asesor de Personal.
+
+No se realizará la renovación que correspondiera hacer en el año 2008 a los miembros del Consejo Asesor de Personal, conforme a lo estipulado en el artículo 9 del Real Decreto 4/2002, de 11 de enero, por el que se determina la composición, funcionamiento y procedimiento de elección de los miembros del Consejo Asesor de Personal del Cuerpo de la Guardia Civil y el régimen aplicable a los mismos, prorrogando su mandato hasta la constitución del Consejo de la Guardia Civil momento a partir del cual el Consejo Asesor de Personal quedará extinguido.

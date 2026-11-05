@@ -1,0 +1,15 @@
+## Artículo 7. Beneficios empresariales.
+
+1. Los beneficios de una empresa de un Estado contratante solamente pueden someterse a imposición en ese Estado, a no ser que la empresa realice su actividad en el otro Estado contratante por medio de un establecimiento permanente situado en ese otro Estado. Si la empresa realiza su actividad de esa forma, los beneficios de la empresa pueden someterse a imposición en el otro Estado, pero sólo en la medida en que puedan atribuirse a ese establecimiento permanente.
+
+2. Sin perjuicio de lo dispuesto en el apartado 3, cuando una empresa de un Estado contratante realice su actividad en el otro Estado contratante por medio de un establecimiento permanente situado en él, en cada Estado contratante se atribuirán a dicho establecimiento los beneficios que éste hubiera podido obtener de ser una empresa distinta y separada que realizase las mismas o similares actividades, en las mismas o similares condiciones, y tratase con total independencia con la empresa de la que es establecimiento permanente.
+
+3. Para la determinación del beneficio del establecimiento permanente se permitirá la deducción de los gastos en que se haya incurrido para la realización de los fines del establecimiento permanente, comprendidos los gastos de dirección y generales de administración para los mismos fines, tanto si se efectúan en el Estado en que se encuentra el establecimiento permanente como en otra parte.
+
+4. A falta de contabilidad suficiente que permita determinar el importe de los beneficios de una empresa de un Estado contratante, que sean imputables a su establecimiento permanente situado en el otro Estado, el impuesto puede ser establecido en este otro Estado conforme a su propia legislación. El método aplicado debe ser tal que el resultado obtenido sea conforme a los principios enunciados en el presente artículo.
+
+5. No se atribuirá ningún beneficio a un establecimiento permanente por el mero hecho de que éste compre bienes o mercancías para la empresa.
+
+6. A efectos de los párrafos anteriores, los beneficios imputables al establecimiento permanente se calcularán cada año por el mismo método, a no ser que existan motivos válidos y suficientes para proceder de otra forma.
+
+7. Cuando los beneficios comprendan rentas reguladas separadamente en otros artículos de este Convenio, las disposiciones de aquéllos no quedarán afectadas por las del presente artículo.

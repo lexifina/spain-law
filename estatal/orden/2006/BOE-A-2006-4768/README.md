@@ -1,0 +1,27 @@
+# Orden INT/724/2006, de 10 de marzo, por la que se regulan los órganos de prevención de riesgos laborales en la Guardia Civil.
+
+- Identificador: BOE-A-2006-4768
+- Rango: Orden
+- Fecha de disposición: 2006-03-10
+- Publicación: 2006-03-16
+- Texto consolidado: https://www.boe.es/buscar/act.php?id=BOE-A-2006-4768
+
+Texto consolidado de carácter meramente informativo. Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Solo tienen carácter oficial y auténtico los textos publicados en el diario oficial «Boletín Oficial del Estado».
+
+## Bloques
+
+- [preambulo](preambulo.md)
+- [Primero](primero.md)
+- [Segundo](segundo.md)
+- [Tercero](tercero.md)
+- [Cuarto](cuao.md)
+- [Quinto](quinto.md)
+- [Sexto](sexto.md)
+- [Séptimo](septimo.md)
+- [Disposición adicional única](daunica.md)
+- [Disposición transitoria única](dtunica.md)
+- [Disposición derogatoria única](ddunica.md)
+- [Disposición final primera](dfprimera.md)
+- [Disposición final segunda](dfsegunda.md)
+- [Disposición final tercera](dftercera.md)
+- [firma](firma.md)

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Régimen aplicable a los funcionarios del artículo 3.
+
+Los funcionarios pertenecientes a Cuerpos de la Administración General del Estado que, de acuerdo con lo dispuesto en el artículo 3.º del presente Estatuto, presten servicio en las Cortes Generales, se regirán por la legislación de funcionarios civiles del Estado. Dependerán jerárquicamente, no obstante, del Presidente, de la Mesa y del Secretario General de cada Cámara en lo relativo el desarrollo de sus funciones. Asimismo, podrán percibir incentivos con cargo a los Presupuestos de las Cámaras a las que se encuentren adscritos.

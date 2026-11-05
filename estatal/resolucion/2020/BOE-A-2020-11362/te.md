@@ -1,0 +1,3 @@
+## Tercero. Información sobre la ejecución del plan de actividades preventivas a desarrollar en 2020.
+
+Durante el primer trimestre del año 2021, las mutuas deberán facilitar a la Dirección General de Ordenación de la Seguridad Social información detallada sobre la ejecución en 2020 de los programas establecidos en la Resolución de 28 de marzo de 2019, de la entonces Secretaría de Estado de la Seguridad Social, prorrogados para el año 2020 en virtud de lo dispuesto en el último párrafo del artículo 4.2 del Real Decreto 860/2018, de 13 de julio, y actualizados de acuerdo con lo previsto en esta resolución.

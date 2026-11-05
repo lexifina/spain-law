@@ -1,0 +1,5 @@
+## Disposición adicional octava. Estudios de urgencia sobre productividad de las rías gallegas.
+
+1. La Agencia Estatal Consejo Superior de Investigaciones Científicas, a través del Centro Nacional Instituto Español de Oceanografía, como centro de investigación y servicios técnicos de referencia del Gobierno, realizará estudios de urgencia sobre la salinidad, calentamiento y pérdida de biomasa en las aguas de las rías gallegas y sus efectos en el descenso de la productividad en los sectores marisquero y pesquero.
+
+2. Para la planificación y realización de dichos estudios, así como para garantizar su coordinación con las entidades públicas gallegas de investigación, se crea un Comité de asesoramiento presidido por la persona titular de la Dirección del Centro Nacional IEO e integrado por representantes de la Secretaría General de Pesca del Ministerio de Agricultura, Pesca y Alimentación, de la Consellería de Pesca de la Xunta de Galicia, de la Agencia Estatal CSIC, de las cofradías de pescadores y de las organizaciones de productores.

@@ -1,0 +1,15 @@
+La utilización para la siembra de granos producidos en la propia explotación ha sido, y sigue siendo, una práctica tradicional en las zonas de cultivo extensivo españolas. Para ello, el producto de la cosecha se somete a operaciones de acondicionamiento, bien por el propio agricultor o por medio de servicios a los que éste recurra, con el fin de utilizarlo en la siembra de su propia explotación.
+
+Teniendo en cuenta estas prácticas tradicionales, el Reglamento (CE) 2100/94, del Consejo, de 27 de julio, relativo a la protección comunitaria de las obtenciones vegetales y el Reglamento (CE) 1768/95, de la Comisión, de 24 de julio, por el que se adoptan normas de desarrollo de la exención agrícola contemplada en el apartado 3 del artículo 14 del Reglamento antes citado, autorizan a los agricultores a emplear, en sus propias explotaciones, con fines de propagación en el campo, el producto de la cosecha de ciertas especies, que hayan obtenido al haber sembrado o plantado en sus propias explotaciones material de propagación de una variedad que, no siendo híbrida ni sintética, esté acogida a un derecho de protección comunitaria de las obtenciones vegetales.
+
+En el artículo 13 del Reglamento (CE) 1768/95, de la Comisión, se expone que los Estados miembros deben establecer los requisitos de calificación necesarios para poder elaborar una relación de establecimientos autorizados para efectuar las operaciones de acondicionamiento del grano para siembra, fuera de la explotación del agricultor.
+
+Requisitos que es obligado establecer también en cualquier otro caso en el que se trate de grano de variedades no protegidas comunitariamente, dado que con el acondicionamiento para siembra por terceros de dicho grano, de forma no regulada y controlada, se propicia una posible vía de comercialización de semillas no ajustada a las normas de la Ley 11/1971, de 30 de marzo, de Semillas y Plantas de Vivero, y, en consecuencia, a que se incurra en las infracciones señaladas en el artículo 19 de la mencionada Ley.
+
+Por todo lo anteriormente expuesto, para garantizar la identidad del producto que se va a acondicionar con destino a la siembra y la del resultante, tras la aplicación de las operaciones pertinentes, así como para evitar que se puedan desviar, a otros fines distintos de la siembra por los agricultores en su propia explotación, los granos por ellos producidos, y destinados a tal fin, es por lo que se ha elaborado este Real Decreto para regular las operaciones de acondicionamiento de dichos granos.
+
+El presente Real Decreto se dicta al amparo de la competencia atribuida al Estado por el artículo 149.1.13.a de la Constitución, en materia de bases y coordinación de la planificación general de la actividad económica y una vez que han sido consultados los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Pesca y Alimentación, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 14 de noviembre de 1997,
+
+DISPONGO:

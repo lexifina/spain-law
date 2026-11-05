@@ -1,0 +1,3 @@
+## Disposición adicional primera. Zona de servicio.
+
+Cuando aún no se haya delimitado la zona de servicio mediante la aprobación de un Plan de Utilización de Espacios Portuarios o de un instrumento de Delimitación de los Espacios y Usos Portuarios, se considerará zona de servicio de los puertos de competencia estatal el conjunto de los espacios de tierra incluidos en la zona de servicio existente a la entrada en vigor de la Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante y las superficies de agua comprendidas en las zonas I y II delimitadas para cada puerto a efectos tarifarios, de acuerdo con la normativa vigente.

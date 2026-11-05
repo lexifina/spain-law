@@ -1,0 +1,45 @@
+## Disposición final segunda. Modificación de la Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social.
+
+La Ley 24/2001, de 27 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, queda modificada como sigue:
+
+Uno. Se modifica el artículo 108, que queda redactado del siguiente modo:
+
+> «Artículo 108. Adecuación a los principios rectores de la firma electrónica.
+
+> 1. La prestación de servicios de certificación se hará de conformidad con lo dispuesto en la normativa vigente en cada momento sobre la prestación de servicios electrónicos de confianza.
+
+> 2. La emisión, transmisión, comunicación y recepción de información que permita su presentación desde las Notarías en los diferentes Registros de la propiedad, mercantiles y de bienes muebles, así como el envío de cuanta notificación, calificación y comunicación que deban dirigirse entre sí, por un lado, notarias y notarios y, por otro, registradoras y registradores, se realizará de forma electrónica con arreglo a las medidas de seguridad establecidas y con arreglo a las condiciones de autenticidad, trazabilidad, confidencialidad e integridad necesarias de acuerdo a la normativa vigente de interoperabilidad y seguridad, mediante los sistemas de información corporativos de cada organización debidamente conectados.
+
+> El Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España y el Consejo General del Notariado, a través de sus medios correspondientes, deberán garantizar a los prestadores de servicio de certificación que lo soliciten, incluidas las respectivas organizaciones corporativas, la condición de registradora o registrador o notaria o notario en activo al tiempo de la firma de la calificación o comunicación notificada o del instrumento público remitido, la vigencia, revocación y suspensión del certificado electrónico, mediante el mantenimiento de un directorio actualizado de certificados debidamente protegido, así como un servicio de consulta permanente, rápido y seguro.
+
+> Asimismo, ambas organizaciones corporativas deberán aplicar el mecanismo de sellado de tiempo en cuanto envío y recepción de información se practique, en los términos que reglamentariamente se disponga. A tal fin, deberán disponer de sistemas horarios homogéneos debiendo sincronizar sus respectivos sistemas de sellado de tiempo con la hora oficial definida en la normativa de interoperabilidad.
+
+> En todo caso, el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España, para el adecuado cumplimiento del principio de prioridad registral, deberá establecer en cada Registro de la propiedad, mercantil y de bienes muebles una sola fuente de sellado de tiempo sincronizada en los términos expuestos en el párrafo precedente para todos los títulos que puedan causar inscripción de conformidad con lo dispuesto en los artículos 3 de la Ley Hipotecaria y 18 del Código de Comercio, éste último, aprobado por Real Decreto de 22 de agosto de 1885. Dicha fuente única de sellado de tiempo deberá garantizar que los títulos presentados telemáticamente, con independencia de su origen, se asientan correlativamente con expresión de la unidad de tiempo precisa a tal fin. El anterior sistema de sellado será igualmente aplicable a cualquier notificación o comunicación que se emita desde los Registros de la propiedad, mercantiles y de bienes muebles, así como a cualquier documento que deba ser firmado por la registradora o registrador y a los asientos electrónicos.
+
+> En el cumplimiento de las obligaciones previstas en este apartado, el Colegio de Registradores de la Propiedad, Mercantiles y de Bienes Muebles de España y el Consejo General del Notariado, actuarán con autonomía y respeto a los diferentes sistemas empleados por cada organización corporativa, no obstante lo cual deberán colaborar para garantizar el adecuado funcionamiento del sistema, siendo obligatorias para sus respectivos miembros las medidas internas de unificación técnica y procedimiento que adopten para la consecución de dicha coordinación en todas las oficinas públicas, Registrales y Notariales.
+
+> Corresponde a la Dirección General de Seguridad Jurídica y Fe Pública la inspección y control del cumplimiento de lo previsto en este apartado y, especialmente, lo relativo al examen y verificación técnica de los requisitos que han de cumplir las diferentes redes telemáticas, sistemas de acreditación y verificación de la vigencia de los certificados electrónicos y sistemas de sellado de tiempo. En el ejercicio de esta competencia podrá requerir la colaboración de los órganos técnicos que entienda oportuno, así como ordenar mediante Instrucciones a las diferentes organizaciones corporativas que adopten las medidas precisas para el funcionamiento del sistema.»
+
+Dos. Se modifica el artículo 109, que queda redactado del siguiente modo:
+
+> «Artículo 109. Régimen especial de la firma electrónica de Notarias y Notarios y de Registradoras y Registradores de la Propiedad, Mercantiles y de Bienes Muebles.
+
+> 1. A los efectos indicados, la firma electrónica para notarias y notarios y registradoras y registradores de la propiedad, mercantiles y de bienes muebles, que deberá tener el carácter de cualificada, habrá de cumplir, además, los siguientes requisitos:
+
+> a) Estar amparada por un certificado electrónico cualificado emitido por un prestador cualificado de servicios de confianza, de conformidad con lo dispuesto en la normativa vigente en cada momento sobre identificación y servicios electrónicos de confianza y firma electrónica.
+
+> b) Vincular unos datos de verificación de firma a la identidad del titular, su condición de notaria o notario o registradora o registrador de la propiedad, mercantil o de bienes muebles en servicio activo y la plaza de destino.
+
+> c) Expresar que el uso de la firma electrónica se encuentra limitado exclusivamente a la suscripción de documentos públicos u oficiales propios del oficio de la persona signataria.
+
+> d) Corresponderse con un dispositivo cualificado de creación de firma ajustado a lo dispuesto en el artículo anterior y generado conforme al mismo.
+
+> 2. Las notarias y notarios y registradoras y registradores de la propiedad, mercantiles y de bienes muebles habrán de obtener, en el momento de la toma de posesión de una plaza, una firma electrónica cualificada, basada en un certificado reconocido, con un dispositivo seguro de creación de firma, de conformidad con lo previsto en este artículo. De igual manera, habrá de procederse cuando se produzca la revocación o expiración del período de validez del certificado precedente.
+
+> 3. A tal fin, deberá procederse en ese momento a la generación de los datos de verificación de firma, con intervención personal de la persona signataria, en presencia de la autoridad corporativa competente y auxiliado por los mecanismos técnicos correspondientes. Los prestadores de servicios de certificación en ningún caso podrán almacenar ni copiar los datos de creación de firma.
+
+> 4. Los prestadores cualificados de servicios de confianza no podrán emitir los certificados que amparan las firmas electrónicas profesionales de notarias y notarios y registradoras y registradores de la propiedad, mercantiles y de bienes muebles hasta tanto no hayan recibido notificación electrónica, firmada por el titular del órgano corporativo competente, expresiva de los datos de verificación de firma de la persona signataria y acreditativa de la condición de notaria o notario o registradora o registrador de la propiedad, mercantil y de bienes muebles, de su situación de servicio activo, de su plaza de destino, y de haberse cumplido los requisitos de asunción de la firma electrónica que reglamentariamente se establezcan.
+
+> 5. Las notarias y notarios y las registradoras y registradores de la propiedad, mercantiles y de bienes muebles estarán obligados a custodiar personalmente, adoptando las medidas de seguridad adecuadas, los datos de creación de firma electrónica que les corresponda, no podrán ceder su uso a ninguna otra persona en ningún supuesto, y deberán denunciar inmediatamente al Colegio respectivo su pérdida, extravío o deterioro, así como cualquier situación o acaecimiento que pueda poner en peligro el secreto o la unicidad del mecanismo, para que lo comunique al prestador de servicios de certificación que hubiera expedido el certificado o a quien le hubiera sido transferido, para que proceda inmediatamente a su suspensión o revocación.
+
+> 6. En todo caso, los prestadores cualificados de servicios de confianza deberán proceder a la inmediata revocación de sus certificados a instancia de la autoridad corporativa competente, que así deberá ordenarlo a solicitud del propio signatario conforme a lo dispuesto en el apartado anterior, y cuando se produzca su cese en la plaza de destino, suspensión, jubilación o fallecimiento. En los supuestos de la interrupción temporal de las funciones del signatario previstos en la legislación notarial o hipotecaria, o a requerimiento de este, se procederá a la suspensión del correspondiente certificado.»

@@ -1,0 +1,9 @@
+## Disposición adicional cuarta. Universidades Concordatarias de la Iglesia Católica.
+
+1. Atendiendo a lo establecido en la Disposición adicional cuarta de la Ley Orgánica 6/2001 de 21 de diciembre, las universidades de la Iglesia Católica establecidas en España con anterioridad al Acuerdo de 3 de enero de 1979, entre el Estado español y la Santa Sede, sobre Enseñanza y Asuntos Culturales, en virtud de lo establecido en el Convenio entre la Santa Sede y el Estado español, de 10 de mayo de 1962, y el mencionado Acuerdo, mantienen sus procedimientos especiales en materia de reconocimiento de efectos civiles de planes de estudios y títulos, mientras no opten por transformarse en universidades privadas.
+
+2. En todo caso, a efectos de hacer efectivos dichos procedimientos estas universidades solicitarán al Consejo de Universidades la verificación de la memoria del plan de estudios conducente a la obtención de un título universitario oficial, que será evaluada por la agencia de calidad correspondiente como el resto de oferta oficial del sistema universitario. Dicha verificación se llevará a cabo una vez se compruebe que dichos planes de estudios se ajustan a las directrices y condiciones establecidas por el Gobierno con carácter general, fijados en este real decreto.
+
+3. El Consejo de Universidades, una vez verificado el título universitario, lo remitirá al Ministerio de Universidades para que su titular proponga al Gobierno que, mediante acuerdo del Consejo de Ministros, se establezca su carácter oficial y ordene su inscripción en RUCT y su publicación en el «Boletín Oficial del Estado».
+
+4. Para el desarrollo de los procedimientos de modificación, seguimiento y de la renovación de la acreditación de estos títulos universitarios oficiales, se procederá de idéntica forma que lo establecido en el presente real decreto dependiendo de si son centros acreditados institucionalmente o no.

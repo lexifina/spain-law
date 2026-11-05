@@ -1,0 +1,3 @@
+## Tercero.
+
+Eliminar la celiaquía de las causas de exclusiones médicas exigibles para el acceso al empleo público, de modo que se pueda aplicar esta medida en todas las convocatorias de pruebas selectivas de personal funcionario, estatutario, laboral y militar que se convoquen con posterioridad a la fecha de adopción del presente Acuerdo y, en todo caso, a partir de las derivadas de la Oferta de Empleo Público del año 2019, adaptándola a la evidencia científica en el momento de la convocatoria, sujeto al dictamen del órgano facultativo correspondiente y sin perjuicio de la superación de las pruebas selectivas en cada caso.

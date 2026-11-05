@@ -1,0 +1,15 @@
+## Disposición final segunda. Modificación del Reglamento de Ordenación y Supervisión de los Seguros Privados, aprobado por Real Decreto 2486/1998, de 20 de noviembre.
+
+El Reglamento de Ordenación y Supervisión de los Seguros Privados, aprobado por Real Decreto 2486/1998, de 20 de noviembre, queda modificado como sigue:
+
+Uno. La letra c) del apartado 5 del artículo 50 queda redactada del siguiente modo:
+
+«c) Los valores y derechos negociados en el Mercado Alternativo Bursátil y en el Mercado Alternativo de Renta Fija.»
+
+Dos. El sexto párrafo del apartado Cuatro del artículo 53 queda redactado del siguiente modo:
+
+«La inversión en valores o derechos mobiliarios que no se hallen admitidos a negociación en mercados regulados en el ámbito de la Organización para la Cooperación y el Desarrollo Económico (OCDE), junto con las acciones y participaciones en instituciones de inversión colectiva de inversión libre o en instituciones de inversión colectiva de instituciones de inversión colectiva de inversión libre contempladas en el apartado 5.a.2.º del artículo 50, las acciones y participaciones en sociedades y fondos de capital riesgo a las que se refiere el apartado 5.a.3.º del artículo 50 y la inversión en valores o derechos negociados en el Mercado Alternativo Bursátil, o en el Mercado Alternativo de Renta Fija, no podrán computarse por un importe superior al 10 por cien del total de las provisiones técnicas a cubrir. Cuando se trate de entidades reaseguradoras y únicamente para la inversión en valores o derechos mobiliarios que no se hallen admitidos a negociación en mercados regulados en el ámbito de la Organización para la Cooperación y el Desarrollo Económico (OCDE), dicho límite será el 30 por cien.»
+
+Tres. El octavo párrafo del apartado Cuatro del artículo 53 queda redactado del siguiente modo:
+
+«El conjunto de las acciones y participaciones en una institución de inversión colectiva de inversión libre o en una institución de inversión colectiva de instituciones de inversión colectiva de inversión libre, a las que se refiere el apartado 5.a.2.º del artículo 50 de este Reglamento, o de acciones y participaciones en una sociedad o fondo de capital riesgo a las que se refiere el apartado 5.a.3.º del artículo 50 del mismo, no podrán computarse por un importe superior al 5 por cien del total de las provisiones técnicas a cubrir. La inversión en acciones y participaciones emitidas por una sola de las entidades de capital riesgo y en valores o derechos negociados en el Mercado Alternativo Bursátil o en el Mercado Alternativo de Renta Fija, emitidos por una misma entidad no podrá superar, conjuntamente, el 3 por ciento de las provisiones técnicas a cubrir. El citado límite del 3 por ciento será de un 6 por ciento cuando la inversión en acciones y participaciones emitidas por las entidades de capital riesgo y en valores y derechos negociados en el Mercado Alternativo Bursátil o en el Mercado Alternativo de Renta Fija estén emitidos o avalados por entidades pertenecientes a un mismo grupo.»

@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Informe del Ministerio de Defensa.
+
+Con carácter previo a la aprobación de los estudios de viabilidad previstos para los contratos de concesión de obras públicas y que incidan sobre zonas declaradas de interés para la defensa nacional o bien sobre terrenos, edificaciones e instalaciones, incluidas sus zonas de seguridad, vinculados a los fines de la defensa nacional, deberán solicitarse informe del Ministerio de Defensa respecto de dicha incidencia. El informe tendrá carácter vinculante y deberá ser evacuado en el plazo de dos meses, entendiéndose desfavorable, si no fuera emitido, en lo que afecta a la defensa nacional.

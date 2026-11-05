@@ -1,0 +1,3 @@
+## Disposición adicional tercera.
+
+Los profesores de las especialidades «Educadores» del Cuerpo de Profesores de Enseñanza Secundaria y «Actividades» del Cuerpo de Profesores Técnicos de Formación Profesional, así como los de aquellas otras especialidades de estos Cuerpos para las que no se haya establecido ninguna correspondencia, continuarán desempeñando las mismas funciones que tuvieran asignadas a la entrada en vigor del presente Real Decreto, sin perjuicio de que por las Administraciones educativas, oídos los interesados, pueda adscribírseles a otros puestos o funciones teniendo en cuenta la formación específica de cada uno de ellos y su adecuación a las necesidades docentes.

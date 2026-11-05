@@ -1,0 +1,5 @@
+## Artículo veintidós
+
+(Derogado)
+
+> Se deroga por la disposición derogatoria única de la Ley 33/2011, de 4 de octubre. Ref. BOE-A-2011-15623.

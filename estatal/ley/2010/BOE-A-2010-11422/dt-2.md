@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de la competencia para la resolución de las reclamaciones económico-administrativas, asumida por la Comunidad.
+
+La asunción efectiva por la Comunidad Autónoma de las Illes Balears de la competencia para la resolución de las reclamaciones económico-administrativas establecida en el segundo párrafo del apartado 1 del artículo 2 de esta ley, se producirá con los traspasos de los servicios y funciones adscritos a dicha competencia, siendo ejercida por los órganos que la tengan encomendada en la actualidad, en tanto no se produzca dicha asunción efectiva.

@@ -1,0 +1,1 @@
+Téngase en cuenta que, por Orden PJC/521/2025, de 23 de mayo, se ha publicado el Acuerdo del Consejo de Seguridad Nacional de 24 de abril de 2025, por el que se aprueba el procedimiento para la elaboración de la nueva Estrategia de Seguridad Nacional. Ref. BOE-A-2025-10370

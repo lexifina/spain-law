@@ -1,0 +1,7 @@
+## Disposición transitoria única. Plazo para la adaptación de los estatutos sociales y concertación de los contratos marco y participación de la representación legal de las personas trabajadoras de los centros portuarios de empleo.
+
+1. En el plazo máximo de dos meses desde la entrada en vigor de la presente disposición, los centros portuarios de empleo deberán adaptar sus estatutos a lo dispuesto en la nueva redacción del artículo 18 y de la disposición adicional séptima de la Ley 14/1994, de 1 de junio, por la que se regulan las empresas de trabajo temporal, así como celebrar con cada socio el contrato marco de prestación de servicios.
+
+2. El socio que no vote a favor del acuerdo de modificación de los estatutos o no celebre el contrato marco de prestación de servicios tendrá derecho a separarse del centro portuario de empleo, en cuyo caso será de aplicación lo dispuesto en el artículo 18.5 de la Ley 14/1994, de 1 de junio.
+
+3. En el supuesto en que lo dispuesto en el apartado 1 pudiera provocar cambios en cuanto a la organización del trabajo, a los contratos de trabajo, o la calidad y estabilidad del empleo en los términos indicados en los apartados 4 y 5 del artículo 18, la representación unitaria de las personas trabajadoras del centro portuario de empleo tendrá derecho a ser informada y consultada conforme a lo establecido en el artículo 64.5 y 6 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre.

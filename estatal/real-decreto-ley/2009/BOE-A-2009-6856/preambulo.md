@@ -1,0 +1,15 @@
+La evolución de la situación económica y su impacto en la economía española están ocasionando retrasos en el pago de las obligaciones contraídas por las Entidades Locales, con el consiguiente efecto negativo sobre la liquidez de las empresas, en especial las pequeñas y medianas y los autónomos. Por otra parte, son conocidas las dificultades actuales de acceso al crédito que están dificultando, cuando no imposibilitando, el descuento bancario de esos créditos, sobre todo por las PYMES y autónomos.
+
+Ello aconseja la adopción de medidas urgentes, de carácter extraordinario, con el fin de que las Entidades Locales y las empresas y autónomos que contratan con aquéllas puedan recuperar el equilibrio financiero y presupuestario.
+
+El presente Real Decreto-ley se compone de dos títulos. El primero de ellos regula la autorización a las Entidades Locales que hubieran liquidado el ejercicio 2008 con remanente de tesorería para gastos generales negativo o las que tengan obligaciones vencidas y exigibles pendientes de aplicar al presupuesto, para concertar una operación extraordinaria de endeudamiento bancario, sujeta a la necesidad de aprobar un plan de saneamiento que asegure la capacidad de pago para cancelar la operación concertada en el plazo comprometido, que no podrá ser superior a seis años y con la condición de aplicar los recursos obtenidos a pagar las obligaciones pendientes con empresas y autónomos en el plazo máximo de un mes.
+
+Paralelamente a este Real Decreto-ley, la Comisión Delegada del Gobierno para Asuntos Económicos ha instruido al Instituto de Crédito Oficial para la inmediata puesta en funcionamiento de una línea de avales que garantice los impagos de facturas endosadas por las empresas y autónomos correspondientes a obras y servicios prestados a Entidades Locales, ante la urgente y extraordinaria necesidad de respaldar el normal funcionamiento de las vías de descuento bancario de dichos derechos de cobro. El título II del presente Real Decreto-ley, introduce la necesaria habilitación legal para que estas operaciones autorizadas al Instituto de Crédito Oficial para instrumentar líneas de crédito o aval que faciliten liquidez a las empresas y a los autónomos puedan contar con la garantía de la participación de las entidades locales en los tributos del Estado.
+
+Estas medidas van en la línea de las iniciativas parlamentarias recientemente adoptadas para resolver las dificultades de liquidez de PYMES y autónomos.
+
+En el conjunto y en cada una de las medidas que se adoptan, concurren, por su naturaleza y finalidad, las circunstancias de extraordinaria y urgente necesidad que exige el artículo 86 de la Constitución como presupuestos para la aprobación de reales decretos-leyes.
+
+En virtud de todo ello, haciendo uso de la autorización contenida en el artículo 86 de la Constitución Española, a propuesta de la Vicepresidenta Segunda del Gobierno y Ministra de Economía y Hacienda, previa deliberación del Consejo de Ministros en su reunión del día 24 de abril de 2009,
+
+DISPONGO:

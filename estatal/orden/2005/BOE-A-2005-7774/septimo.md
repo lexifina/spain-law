@@ -1,0 +1,3 @@
+## Séptimo. Coordinación de los sistemas.
+
+Los sistemas de notificación y registro a los que se refiere la presente orden se coordinarán adecuadamente con los que, en su caso, se creen al amparo de lo dispuesto en el Real Decreto 263/1996, de 16 de febrero, por el que se regula la utilización de técnicas electrónicas, informáticas y telemáticas por la Administración General del Estado y en el Real Decreto 772/1999, de 7 de mayo, por el que se regula la presentación de solicitudes, escritos y comunicaciones ante la Administración General del Estado, la expedición de copias de documentos y devolución de originales y el régimen de las oficinas de registro, modificado por el Real Decreto 209/2003, de 21 de febrero.

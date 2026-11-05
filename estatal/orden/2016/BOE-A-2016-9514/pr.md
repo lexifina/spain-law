@@ -1,0 +1,23 @@
+La Ley Orgánica 6/2001, de 21 de diciembre, de Universidades, exige al Gobierno, en su disposición adicional vigésimo quinta, regular las condiciones básicas para el acceso a la universidad de los mayores de 25 años, y en su artículo 42.4 regular los procedimientos para el acceso a la universidad de quienes, acreditando una determinada experiencia laboral o profesional, no dispongan de la titulación académica legalmente requerida al efecto con carácter general, así como de quienes, no pudiendo acreditar tal experiencia, hayan superado determinada edad.
+
+En aplicación de lo anterior el Gobierno aprobó el Real Decreto 743/2003, de 20 de junio, por el que se regula la prueba de acceso a la universidad de los mayores de 25 años, que, de conformidad con su disposición adicional cuarta, fue desarrollado por la Orden ECD/1719/2004, de 13 de abril, por la que se regula la prueba de acceso a la Universidad de los mayores de 25 años en el ámbito de la Universidad Nacional de Educación a Distancia.
+
+Tras la aprobación de la Ley Orgánica 2/2006, de 3 de diciembre, de Educación, el Real Decreto 743/2003, de 20 de junio fue derogado por el Real Decreto 1892/2008, de 14 de noviembre, por el que se regulan las condiciones para el acceso a las enseñanzas universitarias oficiales de grado y los procedimientos de admisión a las universidades públicas españolas.
+
+Posteriormente, la Ley Orgánica 8/2013, de 9 de diciembre, para la mejora de la calidad educativa, modifica la Ley Orgánica 2/2006, de 3 de diciembre, y regula en su artículo 38 y en las disposiciones adicionales trigésima tercera y trigésima sexta un nuevo sistema de admisión a la universidad española.
+
+En cumplimiento de estas disposiciones el Gobierno derogó el Real Decreto 1892/2008, de 14 de noviembre por medio del Real Decreto 412/2014, de 6 de junio, por el que se establece la normativa básica de los procedimientos de admisión a las enseñanzas universitarias oficiales de Grado, que establece las condiciones básicas específicas y la estructura de las pruebas para el acceso a la universidad de las personas que hubieran cumplido 25 y 45 años de edad, así como de quienes, habiendo cumplido 40 años, acreditaran una determinada experiencia profesional o laboral.
+
+Por lo que se refiere a las pruebas de acceso a la universidad para mayores de 25 y 45 años, los artículos 12.4 y 17.5, respectivamente, del Real Decreto 412/2014, de 6 de junio, encomiendan a las Administraciones educativas, previo informe de las Universidades de su ámbito de gestión, el establecimiento de las líneas generales de la metodología, el desarrollo y los contenidos de los ejercicios que integran las pruebas, así como el establecimiento de los criterios y fórmulas de valoración de éstas.
+
+Por lo que respecta a la Universidad Nacional de Educación a Distancia (en adelante, UNED), de acuerdo con la disposición adicional primera de la Ley Orgánica 6/2001, de 21 de diciembre, corresponde al Gobierno el ejercicio de las competencias atribuidas por la citada ley al Consejo de Gobierno de las Comunidades Autónomas.
+
+Por otro lado, de acuerdo con lo establecido en el artículo 8 del Real Decreto 1823/2011, de 21 de diciembre, por el que se reestructuran los departamentos ministeriales, corresponde al Ministerio de Educación, Cultura y Deporte la propuesta y ejecución de la política del Gobierno en materia educativa, de formación profesional y de universidades.
+
+Por ello, procede ahora derogar la Orden ECD/1719/2004, de 13 de abril, y dictar una nueva orden de acceso y admisión a la universidad de las personas que hubieran cumplido 25 y 45 años de edad y de quienes, habiendo cumplido 40 años, acrediten una determinada experiencia profesional o laboral.
+
+Asimismo, de acuerdo con lo previsto en los artículos 12.4 y 17.5 del Real Decreto 412/2014, de 6 de junio, la presente orden ha sido informada previamente por la UNED.
+
+Por último, y de conformidad con lo dispuesto por el artículo 21.3 de la Ley 50/1997, de 27 de noviembre, del Gobierno, el Gobierno en funciones puede dictar esta orden dado que por un lado existe un interés público motivado en el desarrollo obligado del artículo 42.4 y de la disposición adicional vigésimo quinta de la Ley Orgánica 6/2001, de 21 de diciembre, en relación con la Ley Orgánica 2/2006, de 3 de mayo, tras su modificación operada por la Ley Orgánica 8/2013, de 9 de diciembre, y por otro lado existe urgencia en su publicación dado que debe entrar en vigor para el acceso a la universidad a partir del curso académico 2016-2017.
+
+En su virtud, previa aprobación del Ministro de Hacienda y Administraciones Públicas, dispongo:

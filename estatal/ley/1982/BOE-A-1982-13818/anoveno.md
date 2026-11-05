@@ -1,0 +1,3 @@
+## Artículo noveno. Responsabilidad frente a la Administración Tributaria
+
+Las Empresas miembros de la Unión Temporal quedarán solidariamente obligadas frente a la Administración Tributaria por las retenciones en la fuente a cuenta de los Impuestos sobre la Renta de las Personas Físicas o sobre Sociedades que la Unión venga obligada a realizar, así como por los tributos indirectos que corresponda satisfacer a dicha Unión como consecuencia del ejercicio de la actividad que realice. Idéntica responsabilidad existirá respecto a la Cuota de Licencia del Impuesto Industrial prevista en el artículo once y en general de los tributos que afectan a la Unión como sujeto pasivo.

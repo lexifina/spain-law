@@ -1,0 +1,1 @@
+Téngase en cuenta que la presente Resolución amplía el plazo de presentación de solicitudes hasta el día 31 de marzo de 2021, según establece su apartado primero, por lo que debe entenderse que ha perdido su vigencia.

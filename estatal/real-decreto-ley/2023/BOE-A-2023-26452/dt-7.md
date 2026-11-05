@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Procedimientos de otorgamiento de concesión de aguas para almacenamiento hidráulico de energía iniciados con anterioridad a la entrada en vigor de este real decreto-ley.
+
+En aquellos procedimientos de otorgamiento de concesión de aguas para centrales hidroeléctricas reversibles incoados con anterioridad a la entrada en vigor de este real decreto-ley y en los que pudiera verse afectados aprovechamientos hidroeléctricos con concesiones en vigor, el Organismo de cuenca ordenará y notificará a todos los interesados, la retroacción del procedimiento concesional al momento anterior al trámite de competencia de proyectos, a fin de que su titular pueda participar en el mismo.

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Revisión extraordinaria de planes de producción y comercialización e informes anuales.
+
+1. Sin perjuicio de lo establecido en el artículo 15 del Real Decreto 277/2016, de 24 de junio, de manera excepcional, las Administraciones competentes podrán permitir a aquellas organizaciones que lo soliciten, por una sola vez y con el límite máximo de 3 meses a partir de la entrada en vigor del presente real decreto, una revisión de los planes de producción y comercialización e informes anuales de los años 2014, 2015, 2016,2017 de manera que puedan ajustarse al presente real decreto, en especial, en lo relativo a los gastos subvencionables para los PPYC.

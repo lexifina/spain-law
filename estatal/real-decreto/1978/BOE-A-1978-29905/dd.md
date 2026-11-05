@@ -1,0 +1,3 @@
+## Disposición derogatoria.
+
+Quedan derogados, con excepción de lo que proceda en aplicación de lo establecido en la disposición transitoria octava de la Ley de Minas, el Decreto de 9 de agosto de 1946 por el que se aprobó con carácter provisional el Reglamento para el Régimen de la Minería; el Decreto de 13 de marzo de 1953 que modificó los artículos 172 al 177 del citado Reglamento, sobre cancelación y caducidad; el Decreto de 2 de mayo de 1968 que modificó el capítulo tercero del título IV del repetido Reglamento sobre zonas reservadas; y cuantos preceptos contenidos en disposiciones que no tengan carácter de Ley se opongan a lo dispuesto en este Reglamento.

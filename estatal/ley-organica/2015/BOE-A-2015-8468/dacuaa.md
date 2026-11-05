@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Ingreso en la Policía Nacional por funcionarios de carrera de los cuerpos de policía de las comunidades autónomas.
+
+1. Los funcionarios de carrera de los cuerpos de policía de las comunidades autónomas podrán ingresar en la Policía Nacional, en la escala y categoría equivalente a la que ostenten en su cuerpo de procedencia, en los términos y conforme a las condiciones que reglamentariamente, y con participación de las organizaciones sindicales representativas, se determinen, siempre que cumplan los requisitos generales exigidos en el artículo 26 y posean la titulación requerida para el acceso a cada escala.
+
+2. Para determinar la equivalencia entre las escalas y categorías de los distintos cuerpos policiales, a los efectos de lo establecido en el apartado anterior, habrá de tenerse en cuenta la escala o categoría en la que se encuentra el aspirante en su cuerpo de origen, grado personal consolidado y nivel de complemento de destino del último puesto desempeñado.

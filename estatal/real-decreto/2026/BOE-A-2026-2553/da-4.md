@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Primer mandato y renovación de los expertos independientes del Consejo Rector.
+
+Sin perjuicio de lo establecido en el artículo 14.2.i) del Estatuto el primer mandato de los tres expertos independientes del Consejo Rector será de dos, tres y cuatro años para cada uno de ellos, sin posibilidad de prórroga, procediéndose a su renovación parcial una vez finalice este primer mandato. En la primera sesión del Consejo Rector en el que participen los expertos independientes se determinará, preferentemente de forma voluntaria y supletoriamente por sorteo, a los expertos independientes que finalizarán su mandato transcurrido el plazo de dos, tres o cuatro años desde su nombramiento.

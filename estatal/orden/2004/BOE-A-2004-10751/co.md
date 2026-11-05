@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 18 de octubre de 2016, por la disposición derogatoria única de la Orden ECD/1663/2016, de 11 de octubre, Ref. BOE-A-2016-9514#dd., que será de aplicación para el acceso a la UNED a partir del curso académico 2016-2017.

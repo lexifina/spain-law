@@ -1,0 +1,5 @@
+## Disposición adicional decimosexta. Comunicaciones por vía electrónica relativas a los procedimientos de inscripción de instalaciones en el registro administrativo de instalaciones de producción de energía eléctrica.
+
+Conforme a lo previsto en el artículo 27.6 de la Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos, todas las solicitudes dirigidas a la Dirección General de Política Energética y Minas presentadas por los titulares de instalaciones de producción relativas a la inscripción de instalaciones en el registro administrativo de instalaciones de producción de energía eléctrica se presentarán exclusivamente por vía electrónica, con certificado electrónico, en el registro electrónico del Ministerio de Industria, Energía y Turismo.
+
+Asimismo, todas las comunicaciones en relación con este registro entre el solicitante y la Administración se realizarán exclusivamente a través de medios electrónicos. Si no se utilizasen dichos medios electrónicos, la Administración requerirá la correspondiente subsanación, advirtiendo que, de no ser atendido el requerimiento, la presentación carecerá de validez o eficacia.

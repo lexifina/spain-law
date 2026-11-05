@@ -1,0 +1,7 @@
+La Ley 19/2014, de 15 de octubre, por la que se crea el Consejo General de Colegios Oficiales de Dietistas-Nutricionistas, dispone en su disposición adicional primera, la constitución de una Comisión Gestora, compuesta por un representante de cada uno de los Colegios Oficiales de Dietistas-Nutricionistas existentes en el territorio nacional que elaboraría, en el plazo de seis meses, contado desde la entrada en vigor de esa Ley, unos estatutos provisionales reguladores de los órganos de gobierno del Consejo General de Colegios Oficiales de Dietistas-Nutricionistas, en los que se debería incluir las normas de constitución y funcionamiento de dichos órganos, con determinación expresa de la competencia independiente, aunque coordinada, de cada uno de ellos.
+
+Según la citada disposición, estos estatutos se remitirían al Ministerio de Sanidad, Consumo y Bienestar Social, que verificaría su adecuación a la legalidad y ordenaría, en su caso, su publicación en el «Boletín Oficial del Estado».
+
+La Comisión Gestora ha elaborado los Estatutos provisionales del Consejo General de Colegios Oficiales de Dietistas-Nutricionistas, que servirán como instrumento de funcionamiento del Consejo hasta que se elaboren los Estatutos previstos en los artículos 6.2 y 9.1.b) de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales.
+
+En su virtud, una vez verificada su adecuación a la legalidad, dispongo:

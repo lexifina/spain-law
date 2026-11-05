@@ -1,0 +1,5 @@
+## Primera.
+
+Los funcionarios públicos que presten sus servicios en el Organismo autónomo Caja Postal de Ahorros podrán optar por su integración plena en régimen de derecho laboral, en las plantillas que se establezcan en la sociedad «Caja Postal, Sociedad Anónima», con reconocimiento, en todo caso, de la antigüedad que les corresponda por razón de los servicios prestados en dicho Organismo autónomo, quedando en sus cuerpos de origen en la situación de excedencia voluntaria prevista en el artículo 29.3, a), de la Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública, o por su reincorporación a los puestos de trabajo que les correspondan en el Ministerio o Centro a que sean destinados por la autoridad competente, causando baja a todos los efectos en el servicio al Organismo autónomo.
+
+El personal laboral del Organismo autónomo Caja Postal de Ahorros quedará integrado en la nueva Sociedad como consecuencia de la transformación del mismo, conservando la antigüedad, categoría y retribuciones que les correspondiese en dicho organismo.

@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+En aplicación de lo previsto en la disposición adicional tercera, quedan derogados, con efectos del día primero del mes en que se unifiquen los sistemas de pago: el artículo 13 del Real Decreto 5/1997, de 10 de enero, por el que se regula el subsidio por desempleo en favor de los trabajadores eventuales del Régimen Especial Agrario de la Seguridad Social, y el apartado 5 del artículo 27 de la Orden de 22 de febrero de 1996, para la aplicación y desarrollo del Reglamento General de la Gestión Financiera de la Seguridad Social, aprobado por el Real Decreto 1391/1995, de 4 de agosto.

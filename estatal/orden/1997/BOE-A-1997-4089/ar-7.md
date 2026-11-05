@@ -1,0 +1,3 @@
+## Artículo 7. Carácter confidencial.
+
+Los datos derivados de las actividades de control e inspección y procesamiento de las recetas de fórmulas magistrales a base de las sustancias medicinales reguladas en la presente Orden tendrán carácter confidencial. Su utilización para fines asistenciales o en interés de la salud pública se limitará a dichas finalidades, y obligará a quienes lo utilizaran a respetar la intimidad, conforme al artículo 10 de la Ley 14/1986, de 25 de abril, General de Sanidad, a la Ley 25/1990, de 20 de diciembre, del Medicamento, y disposiciones concordantes, así como a lo que dispone la Ley 5/1992, de 29 de octubre, sobre regulación del tratamiento automatizado de los datos de carácter personal.

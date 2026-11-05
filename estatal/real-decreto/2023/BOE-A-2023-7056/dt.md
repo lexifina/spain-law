@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Procedimientos en fase de tramitación.
+
+Las Administraciones Públicas que, a la fecha de entrada en vigor indicada en la disposición final quinta, estuvieran tramitando procedimientos relativos a la certificación de la conformidad o de reconocimiento mutuo de productos incluidos en las disposiciones modificadas por el presente real decreto, deberán continuar la tramitación de los mismos en base a la normativa aplicable en el momento del inicio del expediente y finalizarlos en el plazo legalmente establecido para ello, sin perjuicio de la aplicación del silencio administrativo correspondiente.

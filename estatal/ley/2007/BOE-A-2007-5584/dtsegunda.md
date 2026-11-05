@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Constitución de los Registros de Sociedades Profesionales y plazo de inscripción en los mismos.
+
+En el plazo de nueve meses contados desde la entrada en vigor de esta Ley, los Colegios Profesionales y demás organizaciones corporativas deberán tener constituidos sus respectivos Registros Profesionales. Las sociedades constituidas con anterioridad a la entrada en vigor de esta Ley y a las que les fuera aplicable a tenor de lo dispuesto en su artículo 1.1, deberán solicitar su inscripción en el correspondiente Registro de Sociedades Profesionales en el plazo máximo de un año contado desde su constitución.

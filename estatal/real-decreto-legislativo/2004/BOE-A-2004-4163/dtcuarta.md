@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta. Normativa preexistente.
+
+Hasta tanto se lleven a efecto las previsiones de desarrollo reglamentario contenidas en esta ley, continuarán en vigor, en cuanto no se opongan a ésta, las normas reglamentarias existentes, así como cualquier otra dictada en desarrollo de la normativa anterior a la Ley 48/2002, de 23 de diciembre, del Catastro Inmobiliario.
+
+Las referencias contenidas en dicha normativa anterior a revisiones catastrales, fijaciones, revisiones y modificaciones de valores y modificaciones de ponencias se entenderán hechas a los procedimientos de valoración colectiva general o parcial, o, en su caso, al procedimiento de determinación del valor catastral de los bienes inmuebles de características especiales, y las realizadas a alteraciones de orden físico, económico o jurídico concerniente a los bienes inmuebles, a los hechos, actos o negocios susceptibles de incorporación en el Catastro Inmobiliario. Igualmente, las referencias anteriores a los cambios de cultivo o aprovechamiento se entenderán realizadas a los cambios de clase de cultivo o aprovechamiento.
+
+De igual forma, las referencias al procedimiento previsto para cambios de naturaleza y aprovechamiento en el artículo 71.3 de la Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales, en su redacción dada por la Ley 50/1998, de 30 de diciembre, de medidas fiscales, administrativas y del orden social, se entenderán hechas al procedimiento simplificado de valoración colectiva.

@@ -1,0 +1,5 @@
+## Disposición final segunda. Consideración de las asociaciones de víctimas como asociaciones de utilidad pública.
+
+Se modifica el artículo 32.1.a) de la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, que queda redactado en los siguientes términos:
+
+«a) Que sus fines estatutarios tiendan a promover el interés general, en los términos definidos por el artículo 31.3 de esta Ley, y sean de carácter cívico, educativo, científico, cultural, deportivo, sanitario, de promoción de los valores constitucionales, de promoción de los derechos humanos, de víctimas del terrorismo, de asistencia social, de cooperación para el desarrollo, de promoción de la mujer, de promoción y protección de la familia, de protección de la infancia, de fomento de la igualdad de oportunidades y de la tolerancia, de defensa del medio ambiente, de fomento de la economía social o de la investigación, de promoción del voluntariado social, de defensa de consumidores y usuarios, de promoción y atención a la personas en riesgo de exclusión por razones físicas, sociales, económicas o culturales, y cualesquiera otros de similar naturaleza.»

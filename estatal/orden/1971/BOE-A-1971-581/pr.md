@@ -1,0 +1,7 @@
+Ilustrísimo señor:
+
+La Orden ministerial de 10 de junio de 1939 por la que se creó el Timbre de la Mutualidad Notarial para ser adherido en las copias y testimonios notariales con arreglo a una escala progresiva, según la cuantía de los documentos, fué parcialmente sustituida por la Orden de 25 de marzo de 1946, en la que además de establecerse el sistema de abono en metálico del Timbre de la Mutualidad y la forma en que habían de satisfacerlo los Notarios, se dió nueva regulación a la materia relativa a los sellos de legitimar y legalizar, fijándose, entre otros extremos, la participación que en el importe de tales sellos había de corresponder a las Mutualidades Notariales y de Empleados y a los Colegios Notariales encargados de su emisión y distribución.
+
+El tiempo transcurrido desde que se dictaron las Ordenes de referencia, así como las necesidades cada vez mayores y más apremiantes de ambas Mutualidades, unido al hecho de que el nuevo Arancel Notarial, aprobado por Decreto de 25 de marzo del presente año ha revisado el importe de los citados sellos, hace necesario no sólo actualizar la escala del timbre de la Mutualidad Notarial que estableciera la Orden de 1939, sino también revisar el criterio distributivo que inspiraba aquella Orden y la de 1946, acomodándolo a las nuevas cifras fijadas arancelariamente y eliminando todo vestigio de confusionismo que pudiera derivar de la supervivencia de tan repetidas disposiciones.
+
+En su virtud, este Ministerio ha tenido a bien disponer:

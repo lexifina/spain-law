@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Designación de Delegados de Prevención en supuestos especiales.
+
+En los centros de trabajo que carezcan de representantes de los trabajadores por no existir trabajadores con la antigüedad suficiente para ser electores o elegibles en las elecciones para representantes del personal, los trabajadores podrán elegir por mayoría a un trabajador que ejerza las competencias del Delegado de Prevención, quién tendrá las facultades, garantías y obligaciones de sigilo profesional de tales Delegados. La actuación de éstos cesará en el momento en que se reúnan los requisitos de antigüedad necesarios para poder celebrar la elección de representantes del personal, prorrogándose por el tiempo indispensable para la efectiva celebración de la elección.

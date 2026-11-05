@@ -1,0 +1,5 @@
+## Disposición adicional quinta. Colaboración del sector farmacéutico y de productos sanitarios en la preparación y respuesta ante emergencias sanitarias.
+
+En cumplimiento de lo dispuesto en el artículo 11.2 de la Ley 36/2015, de 28 de septiembre, de Seguridad Nacional, y en la disposición adicional primera del texto refundido de la Ley de garantías y uso racional de los medicamentos y productos sanitarios, aprobado por el Real Decreto Legislativo 1/2015, de 24 de julio, las empresas del sector farmacéutico y de productos sanitarios colaborarán con la AESAP, la AEMPS, el Instituto Nacional de Gestión Sanitaria y demás Administraciones públicas con competencias en materia de planificación, preparación y respuesta ante emergencias sanitarias.
+
+Dicha colaboración tendrá como objeto contribuir a la identificación de necesidades y actuaciones relacionadas con la innovación, el desarrollo, producción, adquisición, almacenamiento estratégico y distribución de medicamentos y productos sanitarios, con el fin de garantizar la continuidad del suministro y la disponibilidad de estos en situaciones de crisis sanitaria.

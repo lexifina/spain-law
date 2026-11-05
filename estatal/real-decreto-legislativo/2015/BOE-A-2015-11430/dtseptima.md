@@ -1,0 +1,7 @@
+## Disposición transitoria séptima. Duración del permiso de paternidad en los casos de nacimiento, adopción, guarda con fines de adopción o acogimiento hasta la entrada en vigor de la Ley 9/2009, de 6 de octubre.
+
+En tanto no entre en vigor la Ley 9/2009, de 6 de octubre, de ampliación de la duración del permiso de paternidad en los casos de nacimiento, adopción o acogida, la duración del permiso de paternidad a que se refiere el primer párrafo del artículo 48.7 será de trece días ininterrumpidos ampliables en los supuestos de parto, adopción, guarda con fines de adopción o acogimiento múltiples en dos días más por cada hijo a partir del segundo.
+
+De conformidad con la disposición adicional sexta de la Ley 2/2008, de 23 de diciembre, de Presupuestos Generales del Estado para 2009, dicho permiso tendrá una duración de veinte días cuando el nuevo nacimiento, adopción, guarda con fines de adopción o acogimiento se produzca en una familia numerosa, cuando la familia adquiera dicha condición con el nuevo nacimiento, adopción, guarda con fines de adopción o acogimiento o cuando en la familia haya una persona con discapacidad. La duración indicada se ampliará en los supuestos de parto, adopción, guarda con fines de adopción o acogimiento múltiples en dos días más por cada hijo o menor a partir del segundo, o si uno de ellos es una persona con discapacidad.
+
+(*) Téngase en cuenta que la Ley 9/2009, de 6 de octubre, entró en vigor el 1 de enero de 2017. Ref. BOE-A-2009-15958#dfsegunda

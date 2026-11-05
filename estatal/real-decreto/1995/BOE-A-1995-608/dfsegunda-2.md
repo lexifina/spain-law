@@ -1,0 +1,3 @@
+## Disposición final segunda. Uso o consumo de productos provenientes de Estados miembros de la Unión Europea.
+
+Las normas contenidas en el presente Reglamento y en los actos y disposiciones de desarrollo y ejecución del mismo, sobre vehículos y material de seguridad, no impedirán el uso o consumo en España de productos provenientes de otros Estados miembros de la Unión Europea, que respondan, en lo concerniente a la seguridad, a normas equivalentes a las del Estado español, y siempre que ello se haya establecido mediante la realización de ensayos o pruebas de conformidad equivalentes a las exigidas en España.

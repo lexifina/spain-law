@@ -1,0 +1,51 @@
+## Artículo seis. De los Presupuestos de los Entes referidos en las letras f), g) y h) del artículo 1 de esta Ley.
+
+Uno. 1. Se aprueba el presupuesto del Ente Público Radiotelevisión Española en el que se conceden las dotaciones necesarias para atender al desarrollo de sus actividades, por un importe de 40.111.000 miles de pesetas, estimándose sus recursos de igual cuantía.
+
+2. Se aprueban los Presupuestos de las Sociedades estatales para la gestión de los servicios públicos de radiodifusión y televisión a que se refiere la Ley 4/1980, de 10 de enero, con el siguiente detalle:
+
+«Televisión Española, Sociedad Anónima», por un importe total de gastos de 112.291.000 miles de pesetas, ascendiendo los recursos a igual cuantía.
+
+«Radio Nacional de España, Sociedad Anónima», por un importe total de gastos de 31.775.000 miles de pesetas, ascendiendo los recursos a igual cuantía.
+
+Dos. En los presupuestos de las restantes Sociedades estatales de carácter mercantil, con mayoría de capital público, se incluyen las estimaciones de gastos y previsiones de ingresos referidos a los mismos y a sus Estados financieros, presentados de forma individualizada o consolidados con los del grupo de empresas al que pertenecen, relacionándose en este último caso las sociedades objeto de presentación consolidada. Sin perjuicio de lo anterior, se incluyen en cualquier caso de forma separada los de las sociedades estatales de carácter mercantil que reciben subvenciones con cargo a los Presupuestos Generales del Estado.
+
+Tres. Se aprueban los presupuestos de las Entidades de Derecho Público creadas al amparo del artículo 6 del texto refundido de la Ley General Presupuestaria, que a continuación se especifican, en los que se incluyen las estimaciones de gastos y previsiones de ingresos referidos a los mismos y a sus Estados financieros, sin perjuicio de los mecanismos de control que, en su caso, pudieran contener las disposiciones que les resulten de aplicación:
+
+Centro para el Desarrollo Tecnológico e Industrial (CDTI).
+
+Ferrocarriles de Vía Estrecha (FEVE).
+
+Instituto Nacional de Hidrocarburos (INH).
+
+Instituto para la Diversificación y Ahorro de la Energía (IDAE).
+
+Puerto Autónomo de Barcelona.
+
+Puerto Autónomo de Bilbao.
+
+Puerto Autónomo de Huelva.
+
+Puerto Autónomo de Valencia.
+
+Red Nacional de los Ferrocarriles Españoles (RENFE).
+
+Sociedad Estatal de Promoción y Equipamiento del Suelo (SEPES).
+
+Instituto de Crédito Oficial (ICO).
+
+Fabrica Nacional de Moneda y Timbre (FNMT).
+
+Instituto Nacional de Industria (INI).
+
+Ente Público de la Red Técnica Española de Televisión (RETEVISION).
+
+Comisión Nacional del Mercado de Valores (CNMV).
+
+Empresa Nacional de Transportes de Viajeros por Carretera (ENATCAR).
+
+Ente Público Aeropuertos Españoles y Navegación Aérea.
+
+Consorcio de Compensación de Seguros.
+
+Escuela Oficial de Turismo.

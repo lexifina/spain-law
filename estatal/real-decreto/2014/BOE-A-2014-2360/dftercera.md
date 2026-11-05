@@ -1,0 +1,7 @@
+## Disposición final tercera. Implantación de los ciclos de Formación Profesional Básica.
+
+1. Sin perjuicio de lo establecido en el presente real decreto, los ciclos de Formación Profesional Básica sustituirán progresivamente a los Programas de Cualificación Profesional Inicial. El primer curso de los ciclos de Formación Profesional Básica se implantará en el curso escolar 2014-2015, curso en el que se suprimirá la oferta de módulos obligatorios de los Programas de Cualificación Profesional Inicial; durante este curso, los alumnos y alumnas que superen los módulos de carácter voluntario obtendrán el título de Graduado en Educación Secundaria Obligatoria. El segundo curso de los ciclos de Formación Profesional Básica se implantará en el curso escolar 2015-2016.
+
+2. De acuerdo con el artículo 30 del la Ley Orgánica 2/2006, de 3 de mayo, a partir del curso escolar 2013-2014 el equipo docente podrá proponer a los padres, madres o tutores legales, en su caso a través del consejo orientador, la incorporación del alumno o alumna a un ciclo de Formación Profesional Básica cuando el grado de adquisición de las competencias así lo aconseje, siempre que cumpla los requisitos establecidos en el artículo 41.1 de la Ley Orgánica 2/2006, de 3 de mayo.
+
+El consejo orientador regulado en el artículo 28.7 de la Ley Orgánica 2/2006, de 3 de mayo, comenzará a entregarse a los padres, madres o tutores legales de cada alumno o alumna al final del curso escolar 2013-2014.

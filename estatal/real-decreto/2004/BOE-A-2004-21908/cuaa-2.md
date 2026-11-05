@@ -1,0 +1,21 @@
+## Disposición transitoria cuarta. Régimen provisional aplicable a la entidad pública empresarial RENFE-Operadora.
+
+1. Desde la fecha de entrada en vigor de la Ley del Sector Ferroviario, RENFE-Operadora estará habilitada para la prestación de servicios de transporte ferroviario de mercancías teniendo, a tal efecto, asignada la capacidad de infraestructura necesaria para la realización de los que estuviere prestando en dicho momento la entidad pública empresarial RENFE. Asimismo, podrá obtener directamente del administrador de infraestructuras ferroviarias, la capacidad de infraestructura necesaria para la prestación de nuevos servicios hasta el momento en que, debidamente aprobada la declaración sobre la red con arreglo al artículo 29 de la referida Ley, RENFE-Operadora pueda solicitar la capacidad que precise.
+
+2. De conformidad con lo establecido en la disposición transitoria tercera de la Ley del Sector Ferroviario, en tanto no se produzca la aplicación de los Capítulos II y III del Título IV de la referida Ley a los servicios de transporte ferroviario de viajeros, RENFE-Operadora tendrá derecho a explotar los que se presten sobre la Red Ferroviaria de Interés General, en la forma establecida en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, y en su normativa de desarrollo, en cuanto no se oponga al resto del contenido de la Ley del Sector Ferroviario.
+
+Cuando, con arreglo al párrafo anterior, sean de aplicación al transporte ferroviario de viajeros, los Capítulos referidos, RENFE-Operadora conservará el derecho a explotar la capacidad de red que entonces utilice efectivamente y podrá solicitar que se le asigne otra capacidad de red, con arreglo a lo previsto en la Ley del Sector Ferroviario y en el Reglamento del Sector Ferroviario.
+
+3. Sin perjuicio de la habilitación que para la prestación de servicios de transporte ferroviario se le concede a RENFE-Operadora en los apartados anteriores, dicha entidad deberá adecuarse a lo establecido en el Título IV de la Ley del Sector Ferroviario, según los siguientes plazos:
+
+En el plazo de seis meses desde la entrada en vigor de la Ley del Sector Ferroviario, la entidad pública empresarial RENFE-Operadora, como entidad de nueva creación, deberá cumplir las exigencias establecidas en el artículo 45 de la citada Ley, salvo lo establecido en el punto 1.a de dicho artículo en cuanto a revestir la forma de sociedad anónima, y solicitar la correspondiente licencia.
+
+Asimismo, en el plazo de un año desde la entrada en vigor de la Ley del Sector Ferroviario, habrá de presentar la documentación que acredite que dispone de un sistema de gestión de la seguridad y que cumple los requisitos exigidos por la referida Ley, el Reglamento del Sector Ferroviario y las demás normas de desarrollo de aquella, en materia de circulación ferroviaria, personal de conducción y material rodante, y solicitar el correspondiente certificado de seguridad.
+
+4. Con arreglo a lo previsto en la disposición transitoria cuarta de la Ley del Sector Ferroviario, en tanto no sean de aplicación al transporte ferroviario de viajeros los Capítulos II y III del Título IV de la Ley del Sector Ferroviario, RENFE-Operadora percibirá del Estado, por la prestación de servicios de transporte ferroviario de viajeros deficitarios, las correspondientes subvenciones y compensaciones que se concretarán en el contrato-programa a celebrar por la referida entidad y la Administración General del Estado.
+
+Asimismo, RENFE-Operadora podrá percibir transitoriamente del Estado, con arreglo a la vigente legislación, aportaciones para adecuar su estructura económico-financiera al entorno de apertura de mercado en el que habrá de desarrollar su actividad.
+
+5. El contrato-programa determinará las directrices básicas relativas a la prestación de los servicios, los objetivos y fines que se deban alcanzar, las cantidades a invertir y las que aportará el Estado, así como cualesquiera otras circunstancias relevantes.
+
+6. A efectos de lo previsto en esta disposición, RENFE-Operadora podrá suscribir con los órganos competentes de las comunidades autónomas y entidades locales los acuerdos, pactos, convenios o contratos que considere convenientes o necesarios para la realización de los fines de la entidad.

@@ -1,0 +1,7 @@
+## Disposición transitoria duodécima. Desarrollo de los apartados 5 y 6 de la disposición transitoria tercera de la Ley 22/1988, de 28 de julio.
+
+1. Las servidumbres de paso al mar actualmente existentes se mantendrán en los términos en que fueron impuestas.
+
+2. Los accesos públicos al mar actualmente existentes y los construidos en virtud de planeamiento urbanístico aprobado con anterioridad a la entrada en vigor de la Ley 22/1988, de 28 de julio, permanecerán destinados al uso público, abriéndose al mismo cuando no lo estuvieren (disposición transitoria tercera. 5 y 6 de la Ley 22/1988, de 28 de julio).
+
+3. En los tramos de costa en que no estuviesen abiertos al público accesos suficientes para dar cumplimiento a lo establecido en los artículos 28.2 de la Ley 22/1988, de 28 de julio, y 53.2 de este reglamento sobre distancias máximas entre aquellos, los Servicios Periféricos de Costas procederán al señalamiento de los que hayan de servir a dicha finalidad. Cuando se trate de viales que aun no hayan sido recibidos por los Ayuntamientos, el Ministerio de Agricultura, Alimentación y Medio Ambiente podrá asumir la carga de la conservación de aquéllos hasta que se produzca dicha recepción. Cuando no existan viales suficientes para hacer efectivo el acceso en los términos expuestos, se actuará conforme a lo previsto en los artículos 28.3 de la Ley 22/1988, de 28 de julio, y 54.1 de este reglamento.

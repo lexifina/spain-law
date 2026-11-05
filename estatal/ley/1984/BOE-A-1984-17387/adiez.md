@@ -1,0 +1,3 @@
+## Artículo diez. Los Delegados del Gobierno y los Gobernadores civiles.
+
+Corresponde a los Delegados del Gobierno en relación al personal que haya sido destinado a los servicios periféricos de ámbito regional, y a los Gobernadores civiles en relación con el personal destinado a los servicios periféricos provinciales, el ejercicio de las competencias que la legislación vigente atribuye a los Subsecretarios y a los Directores generales en relación al personal de los servicios periféricos de la Administración del Estado, sus Organismos Autónomos y de la Seguridad Social, sin perjuicio de la superior dirección que corresponde a los Departamentos ministeriales.

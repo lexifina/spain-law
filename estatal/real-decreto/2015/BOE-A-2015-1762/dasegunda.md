@@ -1,0 +1,7 @@
+## Disposición adicional segunda. Aplicación de otra normativa.
+
+Este real decreto se aplicará sin perjuicio de los requisitos de la normativa en materia de seguridad y salud, y de productos químicos, en particular el Reglamento (CE) n.º 1907/2006 del Parlamento Europeo y del Consejo, de 18 de diciembre de 2006, relativo al registro, la evaluación, la autorización y la restricción de las sustancias y preparados químicos (REACH), por el que se crea la Agencia Europea de Sustancias y Preparados Químicos.
+
+Asimismo se aplicará sin perjuicio de la normativa específica sobre gestión de residuos, gases fluorados, aceites industriales, pilas y acumuladores o diseño de productos y, en todo caso, del Real Decreto 219/2013, de 22 de marzo, sobre restricciones a la utilización de determinadas sustancias peligrosas en aparatos eléctricos y electrónicos, en los términos previstos en este real decreto.
+
+En materia de protección de la salud y seguridad de los trabajadores se estará a lo dispuesto en la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, y su normativa de desarrollo y, específicamente, en el Real Decreto 374/2001, de 6 de abril, sobre la protección de la salud y seguridad de los trabajadores contra los riesgos relacionados con los agentes químicos durante el trabajo, y en el Real Decreto 665/1997, de 12 de mayo, sobre la protección de los trabajadores contra los riesgos relacionados con la exposición a agentes cancerígenos durante el trabajo.

@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Contratos de suministro de energía adicional.
+
+Hasta el 31 de diciembre de 2005 los consumidores podrán contratar en el mercado diario la totalidad de su suministro o aquella parte del mismo que no tuvieran cubierto por su contrato de suministro a tarifa, para lo cual deberán contratar la tarifa de acceso correspondiente en los términos establecidos en el apartado 5 del artículo 6 del Real Decreto 1164/2001, de 26 de octubre, por el que se establecen tarifas de acceso a las redes de transporte y distribución de energía eléctrica sobre contratos de acceso para suministros de energía adicional.

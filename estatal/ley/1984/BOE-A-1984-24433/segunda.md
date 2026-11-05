@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Con el fin de respetar los derechos económicos adquiridos por las personas a las que se refiere el título II de esta Ley y que hubieran obtenido los derechos derivados de la Ley 46/1977, de 15 de octubre, sobre amnistía, tales haberes pasivos se seguirán percibiendo en la cuantía ya alcanzada en 1984. La diferencia entre esta cantidad y la que resulte de la aplicación de la presente Ley constituirá una percepción personal y transitoria, que se irá absorbiendo y compensando progresivamente en la misma medida en que se incrementen las pensiones reguladas en esta Ley, hasta llegar a la total equiparación entre la cuantía de estas últimas y la de la pensión que en su día fue reconocida.

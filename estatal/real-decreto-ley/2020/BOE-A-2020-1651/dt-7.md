@@ -1,0 +1,3 @@
+## Disposición transitoria séptima. Llevanza del libro registro de determinadas operaciones intracomunitarias a través de la sede electrónica de la Agencia Estatal de Administración Tributaria.
+
+La obligación de la llevanza del libro registro de determinadas operaciones intracomunitarias a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria mediante el suministro electrónico de la información, exclusivamente en relación con las operaciones a que se refiere el número 3.º del apartado 1 del artículo 66 del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, será de aplicación a partir del 1 de enero de 2021.

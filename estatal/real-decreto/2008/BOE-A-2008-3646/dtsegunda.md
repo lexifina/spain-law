@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Vigilancia de acuerdos del Consejo de Ministros adoptados conforme a la Ley 16/1989, de 17 de julio, de Defensa de la Competencia.
+
+Tras la entrada en vigor de la Ley 15/2007, de 3 de julio, de Defensa de la Competencia, la Dirección de Investigación vigilará la ejecución y cumplimiento de los Acuerdos del Consejo de Ministros que hubiesen sido adoptados en aplicación del artículo 17 de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia. En todo caso, la Dirección de Investigación será la competente para resolver declarando finalizada la vigilancia de dichos acuerdos del Consejo de Ministros.
+
+En caso de que se constatara el incumplimiento de lo ordenado en los citados acuerdos del Consejo de Ministros, la Dirección de Investigación será la competente, previa audiencia a los interesados, para recomendar al Gobierno la imposición de las multas previstas en los apartados 3 y 4 del artículo 18 de la Ley 16/1989, de 17 de julio, de Defensa de la Competencia, sin perjuicio de la adopción de otras medidas de ejecución forzosa previstas en el ordenamiento.

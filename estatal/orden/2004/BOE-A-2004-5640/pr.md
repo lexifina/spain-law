@@ -1,0 +1,5 @@
+El artículo 1 de la Ley 2/2002, de 21 de febrero, crea el Consejo General de los Colegios Oficiales de Decoradores, como Corporación de Derecho público, que tendrá personalidad jurídica y plena capacidad para el cumplimiento de sus fines con arreglo a la Ley.
+
+A su vez, en su Disposición Transitoria Primera, punto 2, se indica que la Comisión Gestora, constituida en el plazo y composición señalados en el punto 1 de la citada Disposición, elaborará unos Estatutos provisionales reguladores de los órganos de gobierno del Consejo General de los Colegios Oficiales de Decoradores, que deberán incluir las normas de constitución y funcionamiento de dichos órganos. Dichos Estatutos provisionales se remitirán al Ministerio de Fomento que verificará su adecuación a la legalidad y ordenará, en su caso, su aprobación.
+
+En su virtud, elaborados por la Comisión Gestora los Estatutos provisionales, conforme a la legalidad de las normas vigentes que le son de aplicación, y, de acuerdo con el Consejo de Estado, dispongo:

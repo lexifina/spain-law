@@ -1,0 +1,5 @@
+## Disposición final quinta. Cláusula derogatoria.
+
+1. Se derogan: la Ley Orgánica reguladora de la competencia y el procedimiento de los Juzgados de Menores, texto refundido aprobado por Decreto de 11 de junio de 1948, modificada por la Ley Orgánica 4/1992, de 5 de junio; los preceptos subsistentes del Reglamento para la ejecución de la Ley Orgánica reguladora de la competencia y el procedimiento de los Juzgados de Menores, aprobado por Decreto de 11 de junio de 1948; la disposición transitoria duodécima de la Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal; y los artículos 8.2, 9.3, la regla 1.ª del artículo 20, en lo que se refiere al número 2.º del artículo 8, el segundo párrafo del artículo 22 y el artículo 65 del texto refundido del Código Penal, publicado por el Decreto 3096/1973, de 14 de septiembre, conforme a la Ley 44/1971, de 15 de noviembre.
+
+2. Quedan asimismo derogadas cuantas otras normas, de igual o inferior rango, se opongan a lo establecido en la presente Ley.

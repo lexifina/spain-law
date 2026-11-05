@@ -1,0 +1,3 @@
+## Disposición transitoria cuarta. Proceso de normalización de los grupos y elementos de valoración para Escalas y empleos que no disponen de datos estadísticos para el cálculo de umbrales.
+
+El Director General de la Guardia Civil determinará los valores de los umbrales superiores e inferiores para cada concepto, elemento o grupo afectados de aquellas evaluaciones a las que resulte aplicable el proceso de valoración previsto en el capítulo IV de esta orden, correspondientes a las Escalas y empleos de los que, a la entrada en vigor de la misma, no se disponga de datos estadísticos necesarios para el proceso de normalización previsto en el apartado 2 del anexo, y mientras no consten antecedentes de evaluaciones resultantes de la aplicación de esta orden.

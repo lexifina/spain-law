@@ -1,0 +1,1 @@
+Deben entenderse comprendidos en la exención establecida en la letra a) del número 1 del artículo IV del Acuerdo sobre Asuntos Económicos, suscrito entre el Estado español y la Santa Sede, los huertos, jardines y dependencias de los inmuebles enumerados en dicha norma.

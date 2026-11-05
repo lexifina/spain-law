@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Comunicación de información sobre contraprestación económica en PIC.
+
+Las organizaciones autorizadas para la instalación de un PIC que hubieran establecido una contraprestación económica por la utilización del servicio a la entrada en vigor de esta resolución, deberán comunicar a la Dirección General del Catastro en el plazo de un mes desde dicha entrada en vigor, el importe de la contraprestación y la fecha desde la que se exige, así como, en su caso, la referencia al Diario Oficial en el que se hubiera publicado la Ordenanza Fiscal o el acuerdo de aprobación correspondiente.

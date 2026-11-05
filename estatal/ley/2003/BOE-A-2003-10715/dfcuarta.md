@@ -1,0 +1,3 @@
+## Disposición final cuarta. Adaptación de la estructura orgánica del Ministerio de Sanidad y Consumo.
+
+El Gobierno, en el plazo de un mes a partir de la entrada en vigor de esta ley, modificará la estructura orgánica del Ministerio de Sanidad y Consumo, con objeto de proceder a la creación del Instituto de Información Sanitaria, de la Agencia de Calidad del Sistema Nacional de Salud y del Observatorio del Sistema Nacional de Salud y a la supresión de las subdirecciones generales correspondientes, de conformidad con lo dispuesto en el artículo 67.1.a) de la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la Administración General del Estado.

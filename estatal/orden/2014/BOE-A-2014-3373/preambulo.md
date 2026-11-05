@@ -1,0 +1,37 @@
+El registro contable de facturas previsto en la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el sector público, pretende ser un instrumento clave para la mejora en los procedimientos contables, a través del control contable riguroso de las facturas recibidas por las Administraciones, a efectos de lograr una mayor confianza en las cuentas públicas y de mejorar el control de la morosidad en las Administraciones públicas. Su puesta en funcionamiento no solamente contribuirá a proporcionar un mejor control del gasto público, sino también a facilitar el seguimiento del cumplimiento de los compromisos de pago de las Administraciones Públicas.
+
+La creación del registro contable de facturas constituye una obligación de cada una de las entidades incluidas en el ámbito de aplicación de la ley 25/2013, de 27 de diciembre, a partir de 1 de enero de 2014. A partir de dicha fecha todas las facturas que se expidan por los servicios prestados o bienes entregados a las citadas entidades, cualquiera que sea su soporte, electrónico o papel, deberán ser objeto de anotación en el correspondiente registro contable de facturas, que estará integrado o interrelacionado con el respectivo sistema de información contable de la entidad u organismo público, y gestionado por el órgano o unidad administrativa que tenga atribuida la función de contabilidad.
+
+Para ello, las facturas recibidas en el registro administrativo deben ser anotadas por el órgano competente en el registro contable de facturas en los términos establecidos por la Ley 25/2013, de 27 de diciembre. Cuando se trate de facturas electrónicas, éstas se recibirán por cada entidad a través del correspondiente Punto general de entrada de facturas electrónicas, con anotación en el respectivo registro electrónico administrativo, para inmediatamente, y de forma automática, ser remitidas al registro contable de facturas que corresponda al centro gestor, entidad u organismo destinatario de la factura.
+
+Las facturas anotadas en el registro contable de facturas serán distribuidas o puestas a disposición de los correspondientes órganos competentes para su tramitación, de acuerdo con la identificación de esos órganos o unidades que figure en la propia factura, a efectos de realizar, si procede, el procedimiento de conformidad con la entrega del bien o la prestación del servicio realizada. El trámite preliminar de aceptación o rechazo de cada factura se anotará en el registro contable de facturas, dejando constancia de la fecha en que se haya producido, así como, en caso de aprobación de la conformidad y reconocimiento de la obligación, de la fecha de contabilización de la obligación reconocida correspondiente.
+
+Es precisamente esta anotación continua en el registro contable de facturas de los distintos estados por los que vaya pasando la factura, desde su recepción y registro, pasando por la aceptación o rechazo y devolución de la misma por el órgano gestor, su anulación, en su caso, a instancia del presentador de la factura, y, en el caso de aprobación de la conformidad y reconocimiento de la obligación, la contabilización de la obligación reconocida y de su pago, lo que permitirá que el registro contable de facturas se convierta en un instrumento clave para el seguimiento del cumplimiento de los compromisos de pago de las entidades y organismos públicos, a la vez que sea un medio para informar a quien hubiera presentado la factura sobre el estado de la misma. Además, la Ley 25/2013, de 27 de diciembre, otorga a la Intervención General de la Administración del Estado y a los órganos de control equivalentes en el ámbito autonómico y local la posibilidad de acceso al propio registro contable de facturas lo que les permitirá la elaboración de un informe anual sobre el cumplimiento de la normativa en materia de morosidad.
+
+Esta Orden tiene carácter básico y es aplicable a todas las entidades incluidas en el ámbito de aplicación de la ley 25/2013, de 27 de diciembre, que deberán ajustar sus registros contables de facturas a las condiciones y requisitos funcionales y técnicos establecidos en esta Orden. Adicionalmente, se regulan las especialidades del registro contable de facturas de la Administración General del Estado y de cada una de las entidades públicas estatales de naturaleza administrativa.
+
+La presente Orden regula los requisitos funcionales y técnicos del registro contable de facturas, con el fin de garantizar la integridad, seguridad e interoperabilidad de los distintos sistemas.
+
+La Orden se estructura en tres capítulos, tres disposiciones adicionales y dos disposiciones finales, y va acompañada de un anexo.
+
+El capítulo I «Disposiciones generales» describe el objeto de la norma, su ámbito de aplicación, el órgano competente para la gestión del registro contable de facturas y los objetivos de este registro.
+
+El capítulo II «Requisitos funcionales» regula las anotaciones a practicar en el registro contable de facturas desde la recepción de éstas hasta el fin de su tramitación, así como el suministro de información a los proveedores sobre el estado de sus facturas.
+
+El capítulo III «Requisitos técnicos» regula la interoperabilidad del registro contable de facturas con el Punto general de entrada de facturas electrónicas y la interoperabilidad a efectos de la distribución o puesta a disposición de los órganos competentes para su tramitación, así como la disponibilidad, confidencialidad, integridad y seguridad del propio registro.
+
+La disposición adicional primera «Registro contable de facturas de la Administración General del Estado» incluye las especialidades funcionales y técnicas del registro contable de facturas en el ámbito estatal.
+
+La disposición adicional segunda «No incremento de gasto público» dispone que las medidas contenidas en la Orden se atiendan con los medios personales y materiales existentes.
+
+La disposición adicional tercera «Codificación de órganos administrativos» establece que las facturas que se expidan a partir de la entrada en vigor de esta Orden deberán ajustar su codificación de los órganos administrativos participantes en las mismas a la establecida en el directorio común DIR3 de unidades administrativas gestionado por la Secretaría de Estado de Administraciones Públicas.
+
+La disposición final primera «Título competencial» declara el carácter básico de la Orden y recoge los preceptos constitucionales que le dan amparo.
+
+La disposición final segunda «Entrada en vigor» dispone que la Orden entrará en vigor el día siguiente al de su publicación en el «Boletín Oficial del Estado», si bien las Comunidades Autónomas y Entidades Locales dispondrán de un periodo de tres meses para adecuar sus sistemas a los requisitos funcionales y técnicos establecidos en esta Orden.
+
+El anexo recoge el contenido del fichero de datos personales «Registro contable de facturas de la AGE» creado en cumplimiento de lo dispuesto en el artículo 20 de la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de datos de carácter personal.
+
+Esta Orden se dicta en ejercicio de la habilitación legal otorgada al Ministro de Hacienda y Administraciones Públicas en la disposición final sexta y el artículo 9 de la Ley 25/2013, de 27 de diciembre y al amparo de los artículos 149.1.13ª, 149.1.14ª y 149.1.18ª de la Constitución Española.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:

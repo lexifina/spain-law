@@ -1,0 +1,27 @@
+## Disposición adicional décima. Régimen especial de reintegros de los saldos deudores resultantes a cargo de las Entidades Locales en la liquidación definitiva de la participación en tributos del Estado del año 2013.
+
+1. El reintegro de los saldos que resulten a cargo de las entidades locales en la liquidación definitiva de la participación en tributos del Estado correspondiente al año 2013 podrá fraccionarse en un período de 10 años, excepcionando el régimen de reintegros aplicable con carácter general y contenido en la Ley de Presupuestos Generales del Estado para el año 2015.
+
+2. La aplicación de la excepción recogida en el apartado 1 anterior requerirá la presentación de la solicitud por las Entidades Locales, que deberá ser aprobada por el Pleno de la corporación local y se remitirá por el interventor o el secretario-interventor al Ministerio de Hacienda y Administraciones Públicas por medios telemáticos y con firma electrónica con anterioridad a 1 de noviembre de 2015.
+
+En el caso de que las Entidades Locales no presenten la solicitud en el plazo antes citado se les aplicarán los reintegros de acuerdo con el régimen general establecido en la Ley de Presupuestos Generales del Estado para el año 2015, regularizando con cargo a la entrega a cuenta del mes de noviembre los reintegros que se habrían debido aplicar en la entrega correspondiente al mes de octubre.
+
+3. Dicha excepción se aplicará a las entidades locales que, además de haber presentado la liquidación de los presupuestos de la totalidad de entidades integrantes de la corporación local correspondientes al ejercicio inmediato anterior a aquel en el que se calcule aquélla, prevean cumplir a 31 de diciembre de 2015 con el objetivo de estabilidad presupuestaria y con el límite de deuda pública establecido en los artículos 51 y 53 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por Real Decreto Legislativo 2/2004, de 5 marzo, y cuyo período medio de pago no supere en más de 30 días el plazo máximo establecido en la normativa de medidas de lucha contra la morosidad en las operaciones comerciales, de acuerdo con el periodo medio de pago a proveedores que publiquen en el mes de octubre de 2015, conforme al Real Decreto 635/2014, de 25 de julio, por el que se desarrolla la metodología de cálculo del periodo medio de pago a proveedores de las Administraciones Públicas y las condiciones y el procedimiento de retención de recursos de los regímenes de financiación previstos en la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+A los efectos anteriores, se considerarán entidades integrantes de la corporación local aquellas a las que se refiere el artículo 2.1 de la Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+
+En cuanto a la previsión del cumplimiento del objetivo de estabilidad presupuestaria y del límite de deuda antes citada se tendrá en cuenta la información correspondiente al tercer trimestre de ejecución del presupuesto del ejercicio de 2015.
+
+4. La aplicación efectiva de la excepción citada en el apartado 1 anterior se iniciará en la entrega a cuenta de la participación en tributos del Estado del mes de enero del año 2016, siendo a partir de entonces los reintegros mensuales aplicables los que resulten de dividir el importe pendiente de reintegrar el día primero de aquel mes entre 120 mensualidades.
+
+5. La excepción establecida en el apartado 1 anterior se mantendrá siempre que las Entidades locales afectadas aporten la liquidación de los presupuestos de la totalidad de entidades integrantes de la corporación local y se cumplan los objetivos y límites citados en el apartado 3 y referidos en todos los casos a 31 de diciembre del ejercicio inmediato anterior. En el caso de que el incumplimiento se produzca en dos ejercicios consecutivos se aplicará a partir de la entrega a cuenta del mes de enero del ejercicio siguiente el fraccionamiento de acuerdo con el régimen general que establezcan las Leyes de Presupuestos Generales del Estado de cada año.
+
+En el caso de que se produzcan los incumplimientos antes citados y hayan transcurrido más de tres años completos desde el cálculo de la liquidación definitiva correspondiente, se deberá reintegrar el importe pendiente por doceavas partes en las entregas mensuales a cuenta del siguiente año natural.
+
+6. En el caso de que, como consecuencia de las liquidaciones definitivas de la participación en tributos del Estado correspondientes a ejercicios posteriores a 2013, resulten saldos a ingresar a las Entidades locales a las que se aplique el régimen especial definido en esta norma, aquellos saldos compensarán el importe que quede pendiente de reintegrar por las Entidades locales citadas en el momento de calcular dichas liquidaciones definitivas.
+
+Si, como resultado de esa compensación, el saldo pendiente de reintegrar correspondiente a la liquidación del año 2013 fuere inferior a la décima parte del saldo que se hubiere fraccionado de acuerdo con el apartado 1 anterior, aquél se cancelará mediante reintegros aplicados a las entregas a cuenta de los doce meses siguientes.
+
+7. Si el importe pendiente de reintegro a 31 de diciembre de cada año fuese igual o inferior a 500 euros, se reintegrará por su totalidad en la entrega a cuenta del mes de enero.
+
+8. No podrán acogerse al régimen especial regulado en esta norma los municipios incluidos en el artículo 39.1 de este Real Decreto-ley.

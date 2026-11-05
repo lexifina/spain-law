@@ -1,0 +1,5 @@
+## ANEXO
+
+## Especies necrófagas de interés comunitario
+
+A efectos de este real decreto, y de acuerdo con el punto 1.a) de la sección 2, capítulo II, del anexo VI del Reglamento (CE) n.º 142/2011, de la Comisión, de 25 de febrero de 2011, se consideran especies necrófagas de interés comunitario el buitre leonado (Gyps fulvus), el buitre negro (Aegypius monachus), el alimoche (Neophron percnopterus), el quebrantahuesos (Gypaetus barbatus), el águila imperial ibérica (Aquila adalberti), el águila real (Aquila chrysaetos), el milano real (Milvus milvus) y el milano negro (Milvus migrans), además de cualquier especie del orden Falconiformes y del orden Strigiformes incluidas en el anejo I de la Directiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009, en zonas de especial protección de aves establecidas en el marco de dicha Directiva, y alguna de las especies del orden Carnivora incluidas en la lista del anejo II de la Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, en áreas de especial conservación declaradas en el marco de dicha Directiva.

@@ -1,0 +1,1 @@
+De acuerdo con lo previsto en el artículo segundo, párrafo tercero del Decreto 990/1969, de 9 de mayo, y en virtud de las atribuciones concedidas a este Ministerio por el artículo sexto del mismo Decreto, se aprueban los Estatutos Generales del Colegio Oficial de Ingenieros Técnicos Aeronáuticos que a continuación se insertan:

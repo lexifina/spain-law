@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados los Reales Decretos 1801/1981, de 24 de julio, de Reforma de la Administración Periférica del Estado; 1233/1983, de 4 de mayo, de Medidas de Reorganización de la Administración Periférica del Estado; el artículo 19 del Real Decreto 3117/1980, de 22 de diciembre, regulador del Estatuto de los Gobernadores Civiles; el apartado 4 del artículo 6 del Real Decreto 3464/1983, de 28 de diciembre, por el que se regulan las Delegaciones Insulares, así como cuantas disposiciones de igual o inferior rango se opongan a lo establecido en este Real Decreto.

@@ -1,0 +1,5 @@
+## Disposición transitoria undécima. Valor fiscal de los elementos patrimoniales adjudicados a los socios con ocasión de la disolución de sociedades transparentes y de sociedades patrimoniales.
+
+En el supuesto de sociedades transparentes que hayan sido objeto de disolución y liquidación en los términos establecidos en la Disposición transitoria decimosexta del texto refundido de la Ley del Impuesto sobre Sociedades, aprobado por el Real Decreto Legislativo 4/2004, de 5 de marzo, los elementos adquiridos por los socios tendrán el valor y la fecha de adquisición que se establecieron en la referida Disposición transitoria.
+
+En el supuesto de sociedades patrimoniales que hayan sido objeto de disolución y liquidación en los términos establecidos en la Disposición transitoria vigésimo cuarta del texto refundido de la Ley del Impuesto sobre Sociedades, los elementos adquiridos por los socios tendrán el valor y la fecha de adquisición que se establecieron en la referida disposición transitoria.

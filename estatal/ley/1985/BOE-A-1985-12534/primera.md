@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Los bienes que con anterioridad hayan sido declarados histórico-artísticos o incluidos en el Inventario del Patrimonio Artístico y Arqueológico de España pasan a tener la consideración y a denominarse Bienes de Interés Cultural; los muebles que hayan sido declarados integrantes del Tesoro o incluidos en el Inventario del Patrimonio Histórico-Artístico tienen la condición de bienes inventariados conforme al artículo 26 de esta Ley, sin perjuicio de su posible declaración expresa como Bienes de Interés Cultural. Todos ellos quedan sometidos al régimen jurídico que para esos bienes la presente Ley establece.

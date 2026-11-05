@@ -1,0 +1,3 @@
+## Disposición final segunda. Normativa supletoria.
+
+En lo no previsto en el Reglamento de control del comercio exterior de material de defensa, de otro material y de productos y tecnologías de doble uso, se aplicará supletoriamente la Orden ITC/2880/2005, de 1 de agosto, por la que se regula el procedimiento de tramitación de las autorizaciones administrativas de exportación y de las notificaciones previas de exportación y la Orden del Ministerio de Economía y Hacienda, de 24 de noviembre de 1998, por la que se regula el procedimiento y tramitación de las autorizaciones administrativas de importación y de las notificaciones previas de importación.

@@ -1,0 +1,5 @@
+## Anexo
+
+## Estructura en el exterior de la Agencia Española de Cooperación Internacional para el Desarrollo
+
+La estructura en el exterior de la Agencia Española de Cooperación Internacional para el Desarrollo queda formada por las siguientes unidades: Oficinas Técnicas de Cooperación (en los siguientes países: Angola, Argelia, Argentina, Bosnia-Herzegovina, Bolivia, Brasil, Cabo Verde, Chile, Colombia, Costa Rica, Cuba, Ecuador, Egipto, El Salvador, Etiopía, Filipinas, Guatemala, Guinea Ecuatorial, Haití, Honduras, Irak, Jerusalén, Jordania, Malí, Marruecos, Mauritania, México, Mozambique, Namibia, Nicaragua, Panamá, Paraguay, Perú, República Dominicana, Senegal, Timor Oriental, Túnez, Uruguay, Venezuela y Vietnam); Centros de Formación (en los siguientes países: Bolivia, Colombia, Guatemala y Uruguay); y Centros Culturales (en los siguientes países: Argentina, Brasil, Chile, Colombia, Costa Rica, Cuba, Ecuador, El Salvador, Guinea Ecuatorial -Bata-, Guinea Ecuatorial -Malabo-, Honduras, México, Paraguay, Perú, República Dominicana y Uruguay).

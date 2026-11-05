@@ -1,0 +1,3 @@
+## Artículo tercero.
+
+Una vez concedida la autorización del Ministerio de Hacienda, con aprobación de Ios Estatutos, y cumplidos los requisitos que se señalan en el artículo siguiente, se otorgará la escritura fundacional de la Entidad, que será presentada en el Banco de España, y comprobado por éste que la misma se ajusta a los términos de la autorización, se procederá a la inscripción de la nueva Caja en el Registro Especial de Cajas Generales de Ahorro Popular, creado por Real Decreto-ley de veintiuno de noviembre de mil novecientos veintinueve, a partir de cuyo momento podrá dar comienzo a sus operaciones y disponer del fondo de dotación.

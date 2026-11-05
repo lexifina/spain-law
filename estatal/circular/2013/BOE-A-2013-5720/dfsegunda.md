@@ -1,0 +1,3 @@
+## Disposición final segunda. Entrada en vigor.
+
+La presente circular entrará en vigor el 31 de diciembre de 2013, salvo las modificaciones que se introducen en la Circular n.º 4/2004, de 22 de diciembre, a las entidades de crédito, sobre normas de información financiera pública y reservada, y modelos de estados financieros, relativas a los estados M.1-2, M.12, T.1-3, T.6, T.11, T.12, S.11, C.10, C.19-3 y UEM, que entrarán en vigor el 30 de junio de 2013, y al estado M.13, que entrará en vigor el 31 de mayo de 2013, sin perjuicio de lo señalado en la disposición transitoria primera para la remisión de los datos a la CIR y en la disposición transitoria segunda para el envío de determinados estados de la Circular del Banco de España n.º 4/2004.

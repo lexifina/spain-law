@@ -1,0 +1,15 @@
+Existen una serie de organismos públicos, que realizan la gestión de la acción protectora colaboradora a la que se refiere el artículo 102.1 del Texto Refundido de la Ley General de la Seguridad Social aprobada por Real Decreto Legislativo 8/2015, de 30 de octubre, asumiendo en lo relativo a sus trabajadores la gestión de las prestaciones tanto económicas como sanitarias, correspondientes a la situación de incapacidad temporal derivada de las contingencias de accidentes de trabajo y enfermedades profesionales.
+
+Como consecuencia de dicha acción colaboradora, estas entidades se incluyen en el plan anual de auditorías cuya ejecución deba llevarse a cabo por la Intervención General de la Seguridad Social, en uso de las competencias que le atribuye el artículo 174 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+Como resultado de las auditorías realizadas por la Intervención General de la Seguridad Social, se ha puesto de manifiesto en los informes de auditoría el incumplimiento por parte de los organismos de la obligatoriedad de constituir, en su caso, la correspondiente reserva de estabilización conforme se establece en el artículo 5.c) de la Orden del Ministerio de Trabajo de 25 de noviembre de 1966, por la que se regula la colaboración de las empresas en la gestión del Régimen General de la Seguridad Social, hasta alcanzar la cuantía equivalente al 15 % de las cotizaciones afectadas por la colaboración durante el ejercicio, para atender los posibles resultados negativos futuros derivados de dicha colaboración.
+
+Con motivo de esta colaboración y su normativa reguladora los organismos deben proceder a dotar reserva de estabilización, cuenta no recogida en el Plan General de Contabilidad Pública (PGCP), aprobado por Orden EHA/1037/2010, de 13 de abril, sin embargo, dicha cuenta sí se ha incorporado en la adaptación del PGCP a las entidades que integran el Sistema de Seguridad Social. Resulta por tanto necesario autorizarla para aquellos organismos que estén obligados a dotarla.
+
+La Instrucción de Contabilidad de la Administración Institucional del Estado, aprobada por Orden EHA/2045/2011, de 14 de julio, establece en su regla 3, que los OOAA y resto de entidades contables a las que les es de aplicación ajustarán su contabilidad al PGCP, señalando que las anotaciones contables se realizarán utilizando el desarrollo de cuentas de primer orden (3 dígitos) previsto en el cuadro de cuentas del PGCP. La utilización de cuentas de primer orden no recogidas en el mismo requerirá autorización expresa de la Intervención General de la Administración del Estado.
+
+Las autorizaciones a que se refiere el punto anterior, en relación con la utilización de cuentas primer orden no recogidas en el PGCP, se efectuarán por la Intervención General de la Administración del Estado a petición del Presidente o Director de la entidad, teniendo efectos en la formación de las cuentas anuales a partir del ejercicio que se establezca en la propia autorización.
+
+Por lo anterior, y a solicitud de alguno de los Organismos Autónomos que realizan las actividades referidas, esta Intervención General adopta la siguiente
+
+RESOLUCIÓN

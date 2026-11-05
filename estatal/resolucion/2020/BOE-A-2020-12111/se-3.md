@@ -1,0 +1,19 @@
+## Séptimo. De los giros y/o desplazamientos.
+
+1. Cuando la cartografía catastral presente giros o desplazamientos, en los términos en los que se definen en el anexo II de la presente Resolución, estos se corregirán por el correspondiente procedimiento de rectificación previsto en la normativa catastral, procediéndose al ajuste masivo de todo el área o sector afectado.
+
+La mera existencia de estos giros o desplazamientos no supone, por sí misma, la invasión real de parcelas colindantes ni del dominio público, ya que la geometría y las relaciones topológicas y de colindancia con las parcelas afectadas permanecen invariables.
+
+En la inscripción de representaciones gráficas catastrales, al objeto de comprobar que no invaden fincas colindantes ni recintos de dominio público, se dejará constancia del desplazamiento indiciario apreciado sobre la ortofotografía y podrá metadatarse con la remisión al informe gráfico emitido por el Registro de la Propiedad en el que se documente.
+
+2. En la inscripción de representaciones gráficas alternativas, los recintos desplazados y/o girados serán inscribibles en el Registro de la Propiedad siempre que en el informe técnico se aporten dos ficheros en formato GML, uno referido a las coordenadas derivadas del levantamiento técnico y el otro a las coordenadas catastrales correspondientes, adjuntando, además, los parámetros de transformación utilizados. La inscripción de las fincas reflejara el estado de «pre-coordinada pendiente de ajuste por desplazamiento».
+
+Con el fin de facilitar su aplicación general, la sede electrónica de la Dirección General del Catastro ofrecerá una funcionalidad que permitirá el cálculo de los parámetros de transformación de los desplazamientos y/o giros y los incorporará al informe de validación gráfica alternativo, conforme se establece en el anexo II de esta Resolución.
+
+3. En el caso de inscripción de representaciones gráficas georreferenciadas alternativas que sean consecuencia de actos de segregación, división, agrupación u otros similares, cuando respeten la geometría catastral de la finca matriz, pero esta presente sólo giros o desplazamientos, deberá aportarse el doble archivo en formato GML previsto en el número 2 de este apartado. En este caso la inscripción de las fincas reflejara el estado de «pre-coordinada pendiente de procesamiento» y también el de «ajuste por desplazamiento».
+
+4. No obstante lo anterior, cuando el giro y/o desplazamiento cumpla el criterio de identidad gráfica definido en el anexo II, y en el procedimiento registral conste la aceptación expresa de la delimitación catastral por el propietario de la misma, en el folio real de la finca se inscribirán sólo las coordenadas resultantes de la cartografía catastral, con remisión al informe que lo documente, en el que constarán los metadatos del desplazamiento y parámetros de transformación aplicados. En este caso la finca quedará «coordinada» conforme a lo previsto en la legislación hipotecaria.
+
+5. Los registradores de la propiedad remitirán, mediante los mecanismos telemáticos previstos en esta Resolución, una comunicación al Catastro de que se ha procedido a la inscripción de la representación gráfica georreferenciada alternativa resultante del informe técnico aportado, identificando el informe de validación gráfica alternativo, mediante su código seguro de verificación, o, cuando proceda, que se ha procedido a la inscripción de la representación gráfica catastral por aplicación del criterio de identidad gráfica.
+
+6. El Catastro tramitará el correspondiente procedimiento de comunicación y rectificación previsto en su normativa y devolverá al Registro las nuevas representaciones gráficas, acompañadas en su caso, de las nuevas referencias catastrales, al objeto de que se proceda a la coordinación de las mismas.

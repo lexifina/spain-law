@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Esta orden se dicta al amparo de lo dispuesto en el artículo 149.1. 28.ª de la Constitución, que atribuye al Estado la competencia para la defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las comunidades autónomas. Así como al amparo de lo dispuesto en el artículo 149.2, conforme al cual, sin perjuicio de las competencias que podrán asumir las comunidades autónomas, el Estado considerará la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.

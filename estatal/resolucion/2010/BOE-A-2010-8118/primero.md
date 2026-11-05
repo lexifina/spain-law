@@ -1,0 +1,11 @@
+## Primero. Ámbito de aplicación.
+
+1. Los apartados primero a octavo de esta Resolución son de aplicación al registro y gestión de los apoderamientos otorgados por las personas físicas, personas jurídicas, Administraciones públicas o entidades carentes de personalidad jurídica a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria para la realización de trámites y actuaciones ante los órganos de la Agencia Tributaria por medio de Internet, sin perjuicio de las especificidades propias de esta materia en el ámbito aduanero.
+
+2. Podrán otorgar apoderamiento las personas físicas, personas jurídicas, Administraciones públicas y entidades carentes de personalidad jurídica a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, General Tributaria.
+
+3. El apoderamiento podrá ser otorgado a una o varias personas tanto físicas como jurídicas.
+
+> Se modifica el punto 3 por el apartado 1.1 de la Resolución de 9 de marzo de 2018. Ref. BOE-A-2018-3804
+
+> Se modifica por el apartado 1.1 de la Resolución de 8 de junio de 2016. Ref. BOE-A-2016-5737.

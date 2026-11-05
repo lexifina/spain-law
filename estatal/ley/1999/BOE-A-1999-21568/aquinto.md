@@ -1,0 +1,15 @@
+## Artículo quinto. Suspensión con reserva de puesto de trabajo.
+
+El apartado 4 del artículo 48 queda modificado de la siguiente manera:
+
+«4. En el supuesto de parto, la suspensión tendrá una duración de dieciséis semanas, que se disfrutarán de forma ininterrumpida, ampliables en el supuesto de parto múltiple en dos semanas más por cada hijo a partir del segundo. El período de suspensión se distribuirá a opción de la interesada siempre que seis semanas sean inmediatamente posteriores al parto. En caso de fallecimiento de la madre, el padre podrá hacer uso de la totalidad o, en su caso, de la parte que reste del período de suspensión.
+
+No obstante lo anterior, y sin perjuicio de las seis semanas inmediatas posteriores al parto de descanso obligatorio para la madre, en el caso de que el padre y la madre trabajen, ésta, al iniciarse el período de descanso por maternidad, podrá optar por que el padre disfrute de una parte determinada e ininterrumpida del período de descanso posterior al parto bien de forma simultánea o sucesiva con el de la madre, salvo que en el momento de su efectividad la incorporación al trabajo de la madre suponga un riesgo para su salud.
+
+En los supuestos de adopción y acogimiento, tanto preadoptivo como permanente, de menores de hasta seis años, la suspensión tendrá una duración de dieciséis semanas ininterrumpidas, ampliable en el supuesto de adopción o acogimiento múltiple en dos semanas más por cada hijo a partir del segundo, contadas a la elección del trabajador, bien a partir de la decisión administrativa o judicial de acogimiento, bien a partir de la resolución judicial por la que se constituye la adopción. La duración de la suspensión será, asimismo, de dieciséis semanas en los supuestos de adopción o acogimiento de menores mayores de seis años de edad cuando se trate de menores discapacitados o minusválidos o que por sus circunstancias y experiencias personales o que por provenir del extranjero, tengan especiales dificultades de inserción social y familiar debidamente acreditadas por los servicios sociales competentes. En caso de que la madre y el padre trabajen, el período de suspensión se distribuirá a opción de los interesados, que podrán disfrutarlo de forma simultánea o sucesiva, siempre con períodos ininterrumpidos y con los límites señalados.
+
+En los casos de disfrute simultáneo de períodos de descanso, la suma de los mismos no podrá exceder de las dieciséis semanas previstas en los apartados anteriores o de las que correspondan en caso de parto múltiple.
+
+Los períodos a los que se refiere el presente artículo podrán disfrutarse en régimen de jornada completa o a tiempo parcial, previo acuerdo entre los empresarios y los trabajadores afectados, en los términos que reglamentariamente se determinen.
+
+En los supuestos de adopción internacional, cuando sea necesario el desplazamiento previo de los padres al país de origen del adoptado, el período de suspensión, previsto para cada caso en el presente artículo, podrá iniciarse hasta cuatro semanas antes de la resolución por la que se constituye la adopción.»

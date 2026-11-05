@@ -1,0 +1,1 @@
+Téngase en cuenta que la vigencia de esta norma ha quedado agotada por haberse cumplido su finalidad, según establece su disposición final segunda.2. Véase el art. único del Real Decreto-ley 9/2004, de 3 de diciembre. Ref. BOE-A-2004-20650

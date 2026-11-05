@@ -1,0 +1,3 @@
+## Primera. Instrucción registral del expediente previo.
+
+En este punto no hay modificación alguna (cfr. artículo 56, I, del Código Civil), de modo que las Corporaciones locales carecen de competencia para la instrucción del expediente previo. Este ha de ser tramitado, como hasta ahora, ante el Juez Encargado o de Paz o el Encargado del Registro Civil consular, correspondiente al domicilio de cualquiera de los contrayentes (cfr. art. 238 del Reglamento del Registro Civil). Únicamente hay especialidades en el momento final de la celebración, una vez aprobado el expediente previo con auto firme favorable, si los interesados han manifestado durante la tramitación de aquél su voluntad de que el enlace sea autorizado por órgano distinto del instructor.

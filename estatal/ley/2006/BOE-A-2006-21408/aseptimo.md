@@ -1,0 +1,7 @@
+## Artículo séptimo. La gestión de la deuda externa y la cooperación al desarrollo.
+
+1. El Plan Anual de Cooperación establecerá para cada año los objetivos y las actuaciones previstas para la gestión de la deuda externa, de acuerdo con los principios e instrumentos establecidos en la presente Ley, así como en la Ley 23/1998, de 7 de julio, de Cooperación Internacional para el Desarrollo, especificando países y sectores de intervención en el caso de programas de conversión de deuda, así como los montos previsiblemente afectados a las operaciones en condiciones normales, excluyendo crisis financieras o humanitarias imprevistas.
+
+2. En la determinación del Plan Anual se tendrá en cuenta la producción de catástrofes naturales o graves crisis humanitarias en los países deudores, siempre de acuerdo con los principios e instrumentos establecidos en la presente Ley. Asimismo, deberá priorizar las políticas de tratamiento de deuda en función de la capacidad de pago de los países deudores.
+
+3. La política de gestión de la deuda externa enfocada a los aspectos de cooperación al desarrollo se tratarán en la Comisión Interministerial de Cooperación Internacional, con el objetivo de armonizar las distintas prácticas sectoriales relativas al tratamiento de la deuda externa, dándoles una coherencia de conjunto dentro de los objetivos de cooperación al desarrollo española y posibilitando la coordinación de toda la información disponible.

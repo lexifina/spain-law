@@ -1,0 +1,10 @@
+## ANEXO II
+
+## Materias de formación básica
+
+| Materias | Descriptores/contenidos | ECTS mínimos en el Grado |
+| --- | --- | --- |
+| Producción y gestión. | Conocimientos sobre la legislación de las artes del espectáculo (normativas comerciales, administrativas, laborales y de seguridad). Valoración del trabajo en función del marco socio-laboral. Conocimiento del proceso de elaboración de un proyecto de producción desde los puntos de vista comunicativo y económico. | 4 |
+| Pedagogía. | Conocimiento de las teorías de la educación, del aprendizaje y de la psicología del desarrollo. Conocimiento y práctica de procesos de diseño y desarrollo curricular, planificación didáctica y elaboración de materiales para la práctica educativa y la animación teatral. Conocimiento de los principios teóricos y metodológicos que orientan el diseño, desarrollo y evaluación de procesos de enseñanza y aprendizaje y de programas de animación teatral, en función de diferentes espacios, tiempos y beneficiarios. Conocimiento, análisis y práctica de métodos y estilos de enseñanza, aprendizaje y animación. Conocimiento de los aspectos básicos de la historia de la educación y de la animación teatral. Estudio de casos y análisis de buenas prácticas. La investigación aplicada a la educación y la animación teatral. Políticas de garantía y gestión de calidad. | 4 |
+| Teorías del espectáculo y la comunicación. | Estudio de los principios del lenguaje escénico y audiovisual. Principios teóricos de la comunicación. Análisis y comprensión de la creación dramática y audiovisual como fenómenos comunicativos: aspectos estéticos, semióticos, antropológicos y sociológicos. | 5 |
+| Historia de las artes del espectáculo. | Conocimientos fundamentales de historia comparada y comprensiva de las artes del espectáculo: historia de la representación (incluida la audiovisual), del texto, de la teoría dramática de la interpretación, de la escenografía y de la puesta en escena. Análisis histórico y contextual del espectáculo. Integración de la investigación y la documentación histórica en la creación. | 5 |

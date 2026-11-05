@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Comunicación previa de creación de un Registro Electrónico de Apoderamientos particular.
+
+Los organismos públicos y entidades de derecho público estatales que a la entrada en vigor de esta orden no cuenten con un Registro Electrónico de Apoderamientos particular y decidan crearlo con posterioridad, deberán comunicarlo a la Dirección General de Gobernanza Pública y a la Secretaría General de Administración Digital con una antelación mínima de un mes a la fecha prevista de entrada en funcionamiento para garantizar su interoperabilidad técnica y que se puedan realizar los ajustes necesarios sin merma del servicio.

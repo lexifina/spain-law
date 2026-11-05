@@ -1,0 +1,25 @@
+JUAN CARLOS I,
+
+REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica:
+
+EXPOSICIÓN DE MOTIVOS
+
+Uno de los rasgos definidores de un sistema democrático es la configuración jurídica y el desarrollo real del derecho de los ciudadanos a participar en los asuntos públicos por medio de elecciones periódicas por sufragio universal. Para el ejercicio de este derecho fundamental, reconocido así en el artículo 23 de nuestra Constitución y que es una de las señas de identidad de todo Estado democrático de Derecho, se hace necesario un complejo mecanismo de múltiples elementos técnicos de los cuales depende la propia bondad externa del proceso electoral y, en definitiva, su misma transparencia y credibilidad.
+
+La complejidad y magnitud de los procesos electorales e incluso el propio carácter no profesional de quienes intervienen en determinadas fases de los mismos pueden dar lugar a que en cualquiera de ellos se produzcan determinadas incidencias técnicas, que sin alterar la legitimidad plenamente democrática del proceso electoral en su conjunto, exigen en todo caso su depuración y necesaria corrección, con el fin de mejorar el desarrollo del proceso.
+
+Las modificaciones de la presente Ley Orgánica pretenden, por consiguiente, mejorar técnicamente determinados aspectos aislados del procedimiento electoral español, que es, por lo demás, plenamente homologable con el de todas las democracias representativas, como su propia aplicación práctica ha venido demostrando.
+
+Varios son los objetivos que se persiguen en esta reforma de la Ley Orgánica del Régimen Electoral a fin de acomodar la realidad jurídica a la dinámica política y social, tarea que cuenta con el apoyo decidido de todos los grupos parlamentarios manifestado en las propuestas de resolución aprobadas por el Pleno del Congreso de los Diputados de 27 de noviembre de 1990, así como con las observaciones y sugerencias de la Administración Electoral a través de la Junta Electoral Central, sin olvidar las rectificaciones interpretativas derivadas de la doctrina del Tribunal Constitucional.
+
+De ese modo, la reforma legislativa tiene por objeto, por una parte, incrementar las potestades de la Administración Electoral y singularmente de su cúspide, la Junta Electoral Central, tanto en su vertiente orgánica como funcional, pues se trata de que durante los procesos electorales los Presidentes de las Juntas superiores se dediquen exclusivamente a las funciones electorales, incrementadas y jerarquizadas convenientemente en el seno de la Administración Electoral. La reforma modifica también el régimen de las garantías jurídicas electorales, introduciendo una doble instancia en el seno de la Administración Electoral y permitiendo el acceso posterior a los Tribunales de Justicia a través bien del Tribunal Supremo bien de los Tribunales Superiores de Justicia, con lo cual se logrará la deseable unidad de criterio en la materia. Asimismo, debe destacarse la introducción de un procedimiento singularmente abreviado y sumario del recurso de amparo ante el Tribunal Constitucional, todo ello con el fin último de que las resoluciones en materia tan decisiva para el total sistema democrático puedan obtenerse en un plazo razonablemente corto de tiempo. Las restantes reformas técnicas del procedimiento electoral persiguen facilitar el mejor conocimiento por parte de los ciudadanos de sus deberes y derechos en el seno de un proceso electoral, para lo cual se simplifican los trámites y documentos electorales y se favorece una auténtica campaña de divulgación a través de un manual de instrucciones que permita a los miembros de las Mesas electorales un mejor conocimiento de la legislación electoral. Por último, la reforma persigue una mayor claridad y transparencia en lo relativo a los gastos electorales, modificando el régimen económico-contable de quienes concurren a las elecciones y reduciendo decididamente el volumen total de gastos electorales.
+
+Por otra parte, y en orden a cubrir determinados vacíos que se han revelado con el asentamiento de nuestras instituciones representativas a la luz de una ley con más de cinco años de vigencia, se introducen una serie de modificaciones que dan una mayor precisión de los requisitos generales de la convocatoria de elecciones, racionalizando los períodos electorales, precisando las campañas de carácter institucional y la utilización de los medios de comunicación de titularidad pública para la campaña electoral.
+
+Igualmente se clarifica y da solución legislativa a las mociones de censura en el ámbito local con adecuación a los parámetros de los artículos 23 y 140 de la Constitución y para una mayor eficacia de las instituciones implicadas.
+
+Por último, se modifica parcialmente el régimen de incompatibilidades de diputados, senadores y diputados del Parlamento Europeo para hacer efectiva su dedicación absoluta al ejercicio de la función parlamentaria en los términos y límites previstos en la Constitución y en la propia Ley.

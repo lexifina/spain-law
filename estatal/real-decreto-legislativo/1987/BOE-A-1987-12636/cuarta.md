@@ -1,0 +1,3 @@
+## Disposición adicional cuarta.
+
+No obstante lo dispuesto en el número 2 del artículo 30 de este texto, el haber regulador aplicable a los servicios prestados por el personal comprendido en el número 1 del artículo 3 del mismo en los Cuerpos de Catedráticos y Profesores Titulares de Universidad y Catedráticos de Escuelas Universitarias coincidirá con el fijado en cada Ley de Presupuestos Generales del Estado para Cuerpos, Escalas, empleos o categorías que tuvieran asignados el índice de proporcionalidad 10, el coeficiente 5,5 y el grado de carrera administrativa 3, sea cual fuere la fecha de ingreso en los mismos del personal correspondiente.

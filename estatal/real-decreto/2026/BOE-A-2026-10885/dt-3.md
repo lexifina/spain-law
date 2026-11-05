@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Aplicabilidad de la Orden CLT/1424/2023 de 26 de diciembre, por la que se regula el procedimiento para la adhesión de las entidades al programa Bono Cultural Joven.
+
+Hasta que se produzca la entrada en vigor de una nueva orden ministerial por la que se regule el procedimiento de adhesión de las entidades al programa del Bono Cultural Joven, indicada en el artículo 7.2 del presente real decreto, será de aplicación lo dispuesto en la Orden CLT/1424/2023 de 26 de diciembre, por la que se regula el procedimiento para la adhesión de las entidades al programa Bono Cultural Joven.

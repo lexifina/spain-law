@@ -1,0 +1,1 @@
+Téngase en cuenta que las referencia hechas al "Instituto Nacional de Toxicología" deben entenderse hechas al "Instituto Nacional de Toxicología y Ciencias Forenses", según establece la disposición adicional 1 de la Ley Orgánica 7/2015, de 21 de julio. Ref. BOE-A-2015-8167#daprimera y de conformidad con la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

@@ -1,0 +1,1 @@
+Las referencias al Ministro de Relaciones con las Cortes y de la Secretaría del Gobierno deben entenderse hechas al Ministro de la Presidencia, según establece la disposición adicional única de la Orden PRE/3170/2003, de 11 de noviembre. Ref. BOE-A-2003-20896

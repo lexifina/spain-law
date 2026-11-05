@@ -1,0 +1,5 @@
+## Disposición adicional undécima. Procedimiento informático para el control, seguimiento y gestión de las situaciones de incapacidad temporal y de riesgo durante el embarazo o durante la lactancia natural.
+
+Por la Mutualidad General se establecerá un sistema de control y seguimiento de la situación de incapacidad temporal y de las situaciones de riesgo durante el embarazo o de riesgo durante la lactancia natural basado en el procedimiento informático para la obtención y tratamiento de los datos contenidos en los partes de baja para dichas situaciones, que estará dotado de las medidas de seguridad de nivel alto establecidas en los artículos 101 a 104 del Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal, aprobado por el Real Decreto 1720/2007, de 21 de diciembre. Asimismo, el procedimiento informático facilitará la gestión de los subsidios por incapacidad temporal, riesgo durante el embarazo y durante la lactancia natural.
+
+> Se añade por el art. único.3 del Real Decreto 2/2010, de 8 de enero. Ref. BOE-A-2010-837

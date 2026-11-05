@@ -1,0 +1,25 @@
+## ANEXO
+
+I
+
+Con fecha 2 de febrero de 2021, el Consejo de Ministros aprobó el Acuerdo por el que se establecen medidas excepcionales para limitar la propagación y el contagio por el COVID-19, mediante la limitación de los vuelos entre la República Federativa de Brasil y la República de Sudáfrica y los aeropuertos españoles, que ha sido prorrogado mediante los Acuerdos del Consejo de Ministros de 9 de febrero de 2021, de 23 de febrero de 2021, de 9 de marzo de 2021, de 23 de marzo de 2021, de 6 de abril de 2021, de 20 de abril de 2021, de 4 de mayo de 2021 y 18 de mayo de 2021. El plazo establecido para el mantenimiento de estas medidas finaliza a las 00:00 horas del día 8 de junio de 2021 (hora peninsular).
+
+Según lo previsto en dicho acuerdo, la realización de vuelos desde cualquier aeropuerto situado en la República Federativa de Brasil o en la República de Sudáfrica a cualquier aeropuerto situado en el Reino de España, con o sin escalas intermedias, únicamente podrá llevarse a cabo cuando se trate de aeronaves que transporten exclusivamente nacionales españoles o andorranos, o residentes en España o Andorra o pasajeros en tránsito internacional a un país no Schengen con escala inferior a 24 horas sin abandonar la zona de tránsito del aeropuerto español. El Acuerdo establece, no obstante, algunas excepciones a dichas limitaciones, y habilita al Ministerio de Sanidad para poder levantar la limitación prevista, autorizando puntualmente vuelos de aeronaves por razones justificadas.
+
+Esta medida fue adoptada con motivo de la aparición de nuevas variantes del virus SARS-CoV-2 vinculadas a esos países. En lo que afecta a la variante brasileña, se mantiene la preocupación por la extensión de esta nueva variante, así como sus posibles efectos sobre la transmisibilidad de la enfermedad y la capacidad de neutralización de los anticuerpos. Y en relación a la variante de Sudáfrica su alta prevalencia en ese país, motivada por su alta capacidad de trasmisión, también justifica el mantenimiento de la medida.
+
+II
+
+Hay que tener en cuenta que en cumplimiento de la Orden INT/657/2020, de 17 de julio, por la que se modifican los criterios para la aplicación de una restricción temporal de viajes no imprescindibles desde terceros países a la Unión Europea y países asociados Schengen por razones de orden público y salud pública con motivo de la crisis sanitaria ocasionada por la COVID-19, toda persona nacional de la República Federativa de Brasil y de la República de Sudáfrica, será sometida a denegación de entrada, por motivos de orden público o salud pública, salvo que pertenezca a alguna de las excepciones contempladas en la norma. Por otra parte, la República Federativa de Brasil y la República de Sudáfrica se encuentran incluidas en el listado de países a los que se exige una Prueba Diagnóstica de Infección Activa para SARS-CoV-2 con resultado negativo, realizada en las setenta y dos horas previas a la llegada a España, en base a lo contemplado en la Resolución de 11 de noviembre de 2020, de la Dirección General de Salud Pública, relativa a los controles sanitarios a realizar en los puntos de entrada de España.
+
+Aunque es cierto que el riesgo de importación de casos desde estos países se puede reducir gracias a las medidas de control sanitario aplicables a la llegada a España, ello no obsta para seguir extremando las precauciones ante el potencial de propagación de las variantes brasileña y sudafricana del virus.
+
+La situación epidemiológica y especialmente el impacto de las variantes de especial preocupación vinculadas a la República Federativa de Brasil y a la República de Sudáfrica continua muy elevado, por lo que se considera justificado mantener las restricciones de los vuelos procedentes de la República Federativa de Brasil y de la República de Sudáfrica con destino a España, mediante una nueva prórroga de las previsiones contenidas en el Acuerdo del Consejo de Ministros de 2 de febrero de 2021.
+
+Por los motivos expuestos, se considera oportuno prorrogar las previsiones contenidas en dicho Acuerdo hasta las 00:00 horas del día 22 de junio de 2021 (hora peninsular).
+
+En todo caso, en función de la evolución de la situación y de la pandemia y especialmente de las decisiones que puedan adoptarse de forma coordinada en la Unión Europea, el Ministerio de Sanidad podrá levantar, con carácter general, estas limitaciones antes de la finalización de dicho plazo.
+
+En su virtud, el Consejo de Ministros, a propuesta de los Ministros de Sanidad y de Transportes, Movilidad y Agenda Urbana, en su reunión del día 1 de junio de 2021:
+
+ACUERDA

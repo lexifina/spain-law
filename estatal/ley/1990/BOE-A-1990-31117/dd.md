@@ -1,0 +1,7 @@
+## Disposición derogatoria.
+
+En el momento en que, conforme a lo que se determina en la Disposición Final, comiencen a surtir efectos las normas contenidas en este Convenio Económico quedarán derogadas cuantas disposiciones se opongan a las mismas y, en particular, las establecidas en el Decreto-ley 16/1969, de 24 de julio, por el que se fija la aportación de Navarra al sostenimiento de las cargas generales de la Nación y se armoniza su peculiar régimen fiscal con el general del Estado; el Real Decreto 839/1978, de 30 de marzo, de armonización de los regímenes fiscales común y foral, en materia de medidas urgentes de reforma fiscal; el Real Decreto 2655/1979, de 19 de octubre, por el que se establecen normas de carácter provisional para la adaptación del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sociedades en territorio de régimen común y foral de Navarra, y la Ley 18/1986, de 5 de mayo, de adaptación del Convenio Económico al nuevo régimen de Imposición Indirecta, con excepción de su Capítulo V que quedará derogado a partir de 1 de enero de 1990.
+
+Sin perjuicio de lo establecido en el párrafo anterior serán exigibles, por la Administración del Estado y por la de la Comunidad Foral de Navarra, las respectivas obligaciones tributarias derivadas de la normativa que se deroga, de acuerdo con los criterios de armonización anteriormente vigentes.
+
+> Redactada conforme a la corrección de errores publicada en BOE núm. 23, de 26 de enero de 1991. Ref. BOE-A-1991-2251

@@ -1,0 +1,3 @@
+## Disposición transitoria decimocuarta. Régimen transitorio para la intensificación de la competencia.
+
+Lo dispuesto en la disposición adicional cuarta de esta ley será aplicable a las transmisiones de activos que, habiéndose efectuado al amparo de lo dispuesto por el Real Decreto Ley 6/2000, de 23 de junio, de medidas urgentes de Intensificación de la competencia en mercados de bienes y servicios, acuerdo del Consejo de Ministros en aplicación de las normas de defensa de la competencia o procesos de concentración empresarial o decisiones de la Unión Europea de la misma materia, no hubiesen concluido a la entrada en vigor de la Ley 24/2001, de 27 de diciembre, o que con el mismo amparo se efectúen a partir del 1 de enero de 2002.

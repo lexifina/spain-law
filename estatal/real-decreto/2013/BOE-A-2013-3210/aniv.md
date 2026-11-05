@@ -1,0 +1,209 @@
+## ANEXO IV
+
+## Aplicaciones exentas de la restricción del artículo 6.1, específica para los productos sanitarios y los instrumentos de vigilancia y control
+
+Equipos que utilicen o detecten radiaciones ionizantes:
+
+1. Plomo, cadmio y mercurio en detectores de radiaciones ionizantes.
+
+2. Rodamientos de plomo en tubos de rayos X.
+
+3. Plomo en dispositivos de amplificación de radiaciones electromagnéticas: placa microcanal y placa capilar.
+
+4. Plomo en frita de vidrio de los tubos de rayos X e intensificadores de imagen y plomo en aglutinante de frita de vidrio para el ensamblaje de láseres de gas y tubos de vacío que conviertan las radiaciones electromagnéticas en electrones.
+
+5. Plomo en blindaje para radiaciones ionizantes.
+
+6. Plomo en objetos de prueba de rayos X.
+
+7. Cristales de difracción de rayos X de estearato de plomo.
+
+8. Fuente de isótopo radiactivo de cadmio para espectrómetros portátiles de fluorescencia de rayos X.
+
+Sensores, detectores y electrodos:
+
+1a. Plomo y cadmio en electrodos selectivos de iones incluido el vidrio de electrodos de pH.
+
+1b. Ánodos de plomo en sensores electroquímicos de oxígeno.
+
+1c. Plomo, cadmio y mercurio en detectores de infrarrojos.
+
+1d. Mercurio en electrodos de referencia: cloruro de mercurio de bajo contenido en cloruro, sulfato de mercurio y óxido de mercurio.
+
+Otros:
+
+9. Cadmio en láseres de helio y cadmio.
+
+10. Plomo y cadmio en lámparas de espectroscopia de absorción atómica.
+
+11. Plomo en aleaciones como superconductor y conductor térmico en MRI.
+
+12. Plomo y cadmio en enlaces metálicos que permiten la creación de circuitos magnéticos superconductores en detectores de IRM, SQUID, RMN (resonancia magnética nuclear) o FTMS (espectrometría de masas con transformada de Fourier). Expira el 30 de junio de 2021.
+
+13. Plomo en contrapesos.
+
+14. Plomo en materiales de cristales piezoeléctricos sencillos para transductores ultrasónicos.
+
+15. Plomo en soldaduras para unir a transductores ultrasónicos.
+
+16. Mercurio en condensadores de muy elevada precisión y puentes de medición de pérdidas y en interruptores y repetidores RF de alta frecuencia en instrumentos de vigilancia y control que no superen los 20 mg de mercurio por interruptor o repetidor.
+
+17. Plomo en soldaduras de desfibriladores portátiles de emergencia.
+
+18. Plomo en soldaduras de módulos de imágenes infrarrojas de alto rendimiento para detectar una gama comprendida entre 8 y 14 μm.
+
+19. Plomo en cristal líquido sobre pantallas de silicio (LcoS).
+
+20. Cadmio en filtros de medida de rayos X.
+
+21. Cadmio en los revestimientos de fósforo de los intensificadores de imagen de rayos X hasta el 31 de diciembre de 2019 y en las piezas de repuesto para sistemas de rayos X comercializadas en la UE antes del 1 de enero de 2020.
+
+22. Acetato de plomo utilizado como marcador en marcos estereotácticos de cabeza para TC e IRM y en sistemas de posicionamiento de equipos de gammaterapia y terapia de partículas. Expira el 30 de junio de 2021.
+
+23. Plomo como elemento de aleación en los cojinetes y superficies de contacto de los productos sanitarios expuestos a radiaciones ionizantes. Expira el 30 de junio de 2021.
+
+24. Plomo en conexiones estancas a prueba de vacío entre el aluminio y el acero en intensificadores de imagen de rayos X. Expira el 31 de diciembre de 2019.
+
+25. Plomo en los revestimientos de superficie de los sistemas de conectores de clavijas que requieren conectores no magnéticos y se utilizan durante un período prolongado de tiempo a una temperatura inferior a –20 °C en condiciones normales de funcionamiento y almacenamiento. Expira el 30 de junio de 2021.
+
+26.1.º Plomo en las aplicaciones siguientes, que se emplean durante un período prolongado de tiempo a una temperatura inferior a –20 °C en condiciones normales de funcionamiento y almacenamiento:
+
+a) Soldaduras utilizadas en circuitos impresos;
+
+b) Revestimientos de terminaciones de componentes eléctricos y electrónicos y de circuitos impresos;
+
+c) Soldaduras para la conexión de hilos y cables;
+
+d) Soldaduras para la conexión de transductores y sensores.
+
+26.2.º Plomo en soldaduras de conexiones eléctricas con sensores de temperatura en dispositivos diseñados para utilizarse periódicamente a temperaturas inferiores a –150 °C.
+
+Expiran el 30 de junio de 2021.
+
+27. Plomo en:
+
+a) Soldaduras,
+
+b) Revestimientos de terminaciones de componentes eléctricos y electrónicos y de circuitos impresos,
+
+c) Conexiones de cables eléctricos, pantallas y conectores cerrados utilizados en:
+
+1) Campos magnéticos situados en una esfera de 1 m de radio alrededor del isocentro del imán de los equipos médicos de imagen por resonancia magnética, incluidos los monitores de paciente diseñados para su uso dentro de esa esfera, o
+
+2) Campos magnéticos situados como máximo a 1 m de distancia de las superficies externas de los imanes ciclotrónicos y de los imanes para el transporte de los haces y el control de la dirección de estos, utilizados en terapia de partículas.
+
+Expira el 30 de junio de 2020.
+
+3) Bobinas para IRM no integradas en relación con las cuales la declaración de conformidad de este modelo se expida por primera vez antes del 23 de septiembre de 2022, o
+
+4) Dispositivos de IRM con bobinas integradas, que se utilicen en campos magnéticos situados en una esfera de 1 m de radio alrededor del isocentro del imán de los equipos médicos de imagen por resonancia magnética, en relación con los cuales la declaración de conformidad se expida por primera vez antes del 30 de junio de 2024.
+
+Expira el 30 de junio de 2027.
+
+28. Plomo en soldaduras de montaje de detectores digitales de telururo de cadmio y telururo de cadmio-zinc en circuitos impresos. Expira el 31 de diciembre de 2017.
+
+29. Plomo en aleaciones, como superconductor o conductor térmico, utilizadas en cabezas frías de criorrefrigeradores y/o en sondas frías criorrefrigeradas y/o en sistemas de conexión equipotencial criorrefrigerados, en productos sanitarios (categoría 8) y/o en instrumentos industriales de vigilancia y control. Expira el 30 de junio de 2021.
+
+30. Cromo hexavalente en dispensadores alcalinos utilizados para crear fotocátodos en los intensificadores de imagen de rayos X hasta el 31 de diciembre de 2019 y en piezas de repuesto de sistemas de rayos X comercializados en la UE antes del 1 de enero de 2020.
+
+31. Plomo, cadmio, cromo hexavalente y polibromodifeniléteres (PBDE) en piezas de repuesto recuperadas de productos sanitarios, incluidos los de diagnóstico in vitro o los microscopios electrónicos y sus accesorios, y utilizadas para la reparación o reacondicionamiento de tales productos, siempre que la reutilización se enmarque en sistemas de recuperación interempresas de circuito cerrado y que cada reutilización de dichas piezas se notifique al consumidor.
+
+Expira el:
+
+a) 21 de julio de 2021 para productos sanitarios diferentes de los de diagnóstico in vitro;
+
+b) 21 de julio de 2023 para productos sanitarios de diagnóstico in vitro;
+
+c) 21 de julio de 2024 para los microscópicos electrónicos y sus accesorios.
+
+32. Plomo en soldaduras en los circuitos impresos de detectores y unidades de adquisición de datos para tomógrafos de emisión de positrones integrados en equipos de imagen por resonancia magnética. Expira el 31 de diciembre de 2019.
+
+33. Plomo en soldaduras sobre circuitos impresos, con componentes electrónicos montados, utilizados en productos sanitarios móviles de las clases IIa y IIb de la Directiva 93/42/CEE del Consejo, de 14 de junio de 1993, relativa a los productos sanitarios, distintos de los desfibriladores portátiles de emergencia. Expira el 30 de junio de 2016 para los productos de la clase IIa y el 31 de diciembre de 2020 para los productos de la clase IIb.
+
+34. Plomo empleado como activador en el polvo fluorescente de las lámparas de descarga utilizadas como lámparas de fotoféresis extracorpórea que contengan fósforos del tipo BSP (BaSi2O5: Pb). Expira el 22 de julio de 2021.
+
+35. Mercurio en lámparas fluorescentes de cátodo frío, a razón de 5 mg por lámpara como máximo, para pantallas de cristal líquido utilizadas en los instrumentos industriales de vigilancia y control introducidos en el mercado antes del 22 de julio de 2017. Expira el 21 de julio de 2024.
+
+36. Plomo utilizado en sistemas de conectores de pines distintos de los del tipo C-press que se ajustan a las normas y destinados a instrumentos industriales de vigilancia y control. Expira el 31 de diciembre de 2020. Podrá utilizarse después de esa fecha en piezas de repuesto para instrumentos industriales de vigilancia y control comercializados antes del 1 de enero de 2021.
+
+37. Plomo en electrodos de platino platinizados utilizados para mediciones de la conductividad, siempre que se cumpla al menos una de las condiciones siguientes:
+
+a) Mediciones de amplia gama con una gama de conductividad que cubra más de 1 orden de magnitud (por ejemplo, entre 0,1 mS/m y 5 mS/m) en aplicaciones de laboratorio de concentraciones desconocidas;
+
+b) Mediciones de soluciones que requieran una precisión de ± 1 % de la gama de muestra y una gran resistencia a la corrosión del electrodo, para cualquiera de lo siguiente:
+
+1.º Soluciones con una acidez < pH 1,
+
+2.º Soluciones con una alcalinidad > pH 13,
+
+3.º Soluciones corrosivas que contengan gas halógeno.
+
+c) Mediciones de conductividad por encima de 100 mS/m que deban llevarse a cabo con instrumentos portátiles.
+
+Expira el 31 de diciembre de 2025.
+
+38. Plomo en soldaduras en una interfaz de elementos dieléctricos apilados de área extensa con más de 500 conexiones por interfaz utilizados en detectores de rayos X de sistemas de tomografía computerizada y de radiografía. Expira el 31 de diciembre de 2019. Tras esa fecha, podrá utilizarse en piezas de repuesto para sistemas de tomografía computerizada y de radiografía comercializados antes del 1 de enero de 2020.
+
+39. Plomo en placas de microcanales (MCP) utilizadas en equipos cuando esté presente al menos una de las propiedades siguientes:
+
+a) Un tamaño compacto del detector de electrones o iones, si el espacio del detector se limita a un máximo de 3 mm/MCP (espesor del detector + espacio para la instalación de la MCP), un máximo de 6 mm en total, y es científica y técnicamente imposible un diseño alternativo que ofrezca más espacio para el detector,
+
+b) Una resolución espacial bidimensional para detectar electrones o iones, con aplicación de al menos una de las condiciones siguientes:
+
+1.º Un tiempo de respuesta inferior a 25 ns,
+
+2.º Un área de detección de muestras superior a 149 mm²,
+
+3.º Un factor de multiplicación superior a 1,3 × 103,
+
+c) Un tiempo de respuesta inferior a cinco ns para detectar electrones o iones,
+
+d) Un área de detección de muestras superior a 314 mm² para detectar electrones o iones,
+
+e) Un factor de multiplicación superior a 4,0 × 107.
+
+La exención expira en las fechas siguientes:
+
+1.º 21 de julio de 2021 para productos sanitarios e instrumentos de vigilancia y control,
+
+2.º 21 de julio de 2023 para productos sanitarios de diagnóstico in vitro,
+
+3.º 21 de julio de 2024 para instrumentos industriales de vigilancia y control.
+
+40. Plomo en cerámica dieléctrica de condensadores con una tensión nominal inferior a 125 V CA o 250 V CC para instrumentos industriales de vigilancia y control. Expira el 31 de diciembre de 2020. Podrá utilizarse después de esa fecha en piezas de repuesto para instrumentos industriales de vigilancia y control introducidos en el mercado antes del 1 de enero de 2021.
+
+41. Plomo como estabilizador térmico en el cloruro de polivinilo (PVC) empleado como material de base en los sensores electroquímicos amperimétricos, potenciométricos y conductimétricos que se utilizan en los productos sanitarios de diagnóstico in vitro para el análisis de sangre y otros gases y fluidos corporales. Expira el 31 de marzo de 2022.
+
+41 bis. Plomo como estabilizador térmico en el cloruro de polivinilo (PVC) empleado como material de base en los sensores electroquímicos amperimétricos, potenciométricos y conductimétricos que se utilizan en los productos sanitarios de diagnóstico in vitro para el análisis de la creatinina y el nitrógeno ureico en sangre en sangre entera. Se aplica a la categoría 8 y expira el 31 de diciembre de 2023.
+
+42. Mercurio en conectores eléctricos rotatorios utilizados en sistemas de obtención de imágenes de ultrasonido intravascular capaces de modos de funcionamiento de alta frecuencia (> 50 MHz). Expira el 30 de junio de 2026.
+
+43. Ánodos de cadmio utilizados en células Hersch para sensores de oxígeno empleados en instrumentos industriales de vigilancia y control, cuando se requiera una sensibilidad por debajo de 10 ppm. Expira el 15 de julio de 2023.
+
+44. Cadmio en tubos de cámaras de vídeo resistentes a la radiación diseñados para cámaras con una resolución central superior a 450 líneas, utilizadas en entornos con una exposición por radiación ionizante superior a 100 Gy/hora y una dosis total superior a 100 kGy. Se aplica a la categoría 9. Expira el 31 de marzo de 2027.
+
+45. Ftalato de bis (2-etilhexilo) (DEHP) en electrodos selectivos de iones aplicados en el análisis de diagnóstico inmediato de sustancias iónicas presentes en los líquidos corporales humanos y/o líquidos de diálisis. Expira el 21 de julio de 2028.
+
+46. Ftalato de bis (2-etilhexilo) (DEHP) en componentes de plástico de bobinas detectoras para IRM. Expira el 1 de enero de 2024.
+
+47. Ftalato de bis (2-etilhexilo) (DEHP), ftalato de bencilo y butilo (BBP), ftalato de dibutilo (DBP) y ftalato de diisobutilo (DIBP) en piezas de repuesto recuperadas de productos sanitarios, incluidos los de diagnóstico in vitro y sus accesorios, y utilizadas para la reparación o reacondicionamiento de tales productos, siempre que la reutilización se enmarque en sistemas de recuperación interempresas de circuito cerrado que puedan ser objeto de control y que cada reutilización de dichas piezas se notifique al consumidor. Expira el 21 de julio de 2028.
+
+48. Plomo en cables e hilos superconductores de óxido de bismuto, estroncio, calcio y cobre (BSCCO), y plomo en conexiones eléctricas a dichos hilos. Expira el 30 de junio de 2027.
+
+49. Mercurio en transductores de presión de fusión para reómetros capilares a temperaturas superiores a 300 °C y presiones superiores a 1000 bares. Se aplica a la categoría 9 y expira el 31 de diciembre de 2025.
+
+> Se modifica por el art. único de la Orden PJC/133/2024, de 20 de febrero. Ref. BOE-A-2024-3279
+
+> Se modifica por el art. único de la Orden PCM/285/2023, de 23 de marzo. Ref. BOE-A-2023-7659
+
+> Se modifica por el art. único de la Orden PCM/399/2022, de 5 de mayo. Ref. BOE-A-2022-7420
+
+> Téngase en cuenta que los apartados 45, 46 y 47, añadidos por la citada orden, serán aplicables con carácter retroactivo a partir del 21 de julio de 2021, según establece su disposición transitoria única.
+
+> Se modifica por el art. único.2 de la Orden PCM/810/2020, de 31 de agosto. Ref. BOE-A-2020-10130
+
+> Se modifica por el art. único.2 de la Orden PRA/329/2017, de 7 de abril. Ref. BOE-A-2017-4119
+
+> Se añaden los apartados 41 y 42 por el art. único de la Orden PRE/772/2016, de 19 de mayo. Ref. BOE-A-2016-4860.
+
+> Se modifica por el art. único.2 de la Orden PRE/1349/2014, de 25 de julio. Ref. BOE-A-2014-7971.

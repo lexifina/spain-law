@@ -1,0 +1,13 @@
+## ORDENANZA NOVENA
+
+## Composición, programa y habitaciones de las viviendas
+
+La vivienda familiar tipo constará como mínimo de tres dormitorios, cocina-comedor y cuarto de aseo compuesto de baño o ducha, lavabo y retrete. El cuarto de aseo tendrá entrada independiente.
+
+Se podrán proyectar viviendas de dos dormitorios, de acuerdo con los porcentajes establecidos en los programas anuales de viviendas. La superficie útil de estas viviendas oscilará entre cuarenta y cincuenta metros cuadrados.
+
+Las viviendas cuya superficie útil exceda de noventa metros cuadrados estarán compuestas por un mínimo de seis piezas habitables, incluida la cocina, y dos cuartos de aseo, uno de ellos completo.
+
+Todas las habitaciones y la cocina tendrán primeras luces.
+
+Quedan prohibidas aquellas otras que sin llenar una necesidad funcional, encarezcan innecesariamente la construcción.

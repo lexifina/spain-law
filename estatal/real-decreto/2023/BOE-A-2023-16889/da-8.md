@@ -1,0 +1,5 @@
+## Disposición adicional octava. Habilitación del profesorado de Formación Profesional.
+
+1. El profesorado de los cuerpos de Catedráticos y Profesores de Enseñanza Secundaria, del Cuerpo de Profesores Especialistas en sectores singulares de la Formación Profesional, así como el del cuerpo, a extinguir, de Profesores Técnicos de Formación Profesional, sin perjuicio de lo establecido en el artículo 95 de la Ley Orgánica 2/2006 de 3 de mayo, de Educación, podrán ejercer sus funciones en centros del sistema de Formación Profesional impartiendo todos los Grados de formación profesional de conformidad con su especialidad. Este profesorado podrá completar la jornada y horario establecidos para su puesto de trabajo impartiendo acciones formativas de cualquiera de los Grados del Sistema de Formación Profesional. Asimismo, y a tal efecto, podrán ampliar voluntariamente su dedicación.
+
+2. A los efectos previstos en el artículo 3 de la Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas, la impartición de la formación, en sus distintos ámbitos, tendrá la consideración de interés público.

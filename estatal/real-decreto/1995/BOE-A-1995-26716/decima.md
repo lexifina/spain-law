@@ -1,0 +1,3 @@
+## Disposición adicional décima. Reaseguro obligatorio.
+
+A efectos de lo establecido en el párrafo primero del apartado 2 del artículo 63 del presente Reglamento, y sin perjuicio de las facultades conferidas en el mismo al Ministerio de Trabajo y Seguridad Social para la determinación del porcentaje de las cuotas satisfechas por las empresas asociadas por riesgos de invalidez, muerte y supervivencia que corresponde a la Tesorería General de la Seguridad Social como compensación de las obligaciones que asume en concepto de reaseguro obligatorio, dicha participación se fija inicialmente en el 28 por 100.

@@ -1,0 +1,5 @@
+## Disposición adicional sexta. Autonomía de los centros de enseñanzas artísticas superiores.
+
+1. Los centros de enseñanzas artísticas superiores, dispondrán de autonomía en los ámbitos organizativo, pedagógico y de gestión, y su funcionamiento deberá garantizar el cumplimiento de sus funciones, de acuerdo con el artículo 107.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+
+2. Las Administraciones educativas dotarán a los centros de enseñanzas artísticas superiores de los recursos necesarios para facilitar su funcionamiento, desarrollar sus objetivos en las áreas de la docencia, la investigación y la creación artística, de acuerdo con el artículo 120.3 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación, y la normativa que la desarrolla. Asimismo dichos centros dispondrán de autonomía en su gestión económica de acuerdo con el artículo 123.1 de mencionada ley orgánica. Las Administraciones educativas regularán la participación en los centros que impartan enseñanzas artísticas superiores de acuerdo con la normativa básica que establezca el Gobierno.

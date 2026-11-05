@@ -1,0 +1,1 @@
+Téngase en cuenta que queda derogado el Estatuto de la Gerencia de Infraestructuras de la Seguridad del Estado, con efectos de 21 de octubre de 2021, por la disposición derogatoria única del Real Decreto 904/2021, de 19 de octubre. Ref. BOE-A-2021-17049#dd

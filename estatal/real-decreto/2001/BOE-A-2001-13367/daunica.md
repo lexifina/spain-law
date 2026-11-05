@@ -1,0 +1,3 @@
+## Disposición adicional única. Aprobación de organizaciones no elegibles según las reglas JAR-21 o no previstas en las mismas.
+
+Por causas fundadas de seguridad aérea o cuando así lo exijan las innovaciones técnicas, las mejoras o la modernización de la navegación aérea, la Dirección General de Aviación Civil podrá aprobar organizaciones que no se ajusten por completo a las disposiciones JAR-21 sobre elegibilidad o no hayan sido previstas en las mismas. El acto de aprobación determinará los límites a que queda sujeta su actividad y hará expresa mención de que la aprobación tiene eficacia exclusivamente para el ámbito español.

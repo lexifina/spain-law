@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Tratamiento de datos.
+
+La información almacenada por los diferentes sistemas de información mencionados en la presente ley, así como su intercambio, deberá hacerse de acuerdo con las indicaciones del Esquema Nacional de Seguridad, el Esquema Nacional de Interoperabilidad y las directrices fijadas por la Oficina del Dato. Toda información no sujeta a consideraciones de privacidad o sometida a propiedad intelectual, propiedad industrial o secreto empresarial, deberá publicarse como datos abiertos de acuerdo con la normativa de reutilización de la información del sector público.

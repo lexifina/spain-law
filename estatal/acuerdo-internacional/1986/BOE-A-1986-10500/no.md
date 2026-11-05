@@ -1,0 +1,1 @@
+Ténganse en cuenta los Canjes de Notas constitutivos de los Acuerdos entre el Reino de España y el Reino Unido de Gran Bretaña e Irlanda del Norte, para extender el Tratado de Extradición a territorios cuyas relaciones internacionales asume dicho país, y a Gibraltar, realizados en Madrid el 1 de febrero de 1991. Ref. BOE-A-1991-16482 y Ref. BOE-A-1991-16483.

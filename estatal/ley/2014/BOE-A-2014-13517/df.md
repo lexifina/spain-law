@@ -1,0 +1,3 @@
+## Disposición final primera. Desarrollo del sistema de liquidación directa de cuotas por la Tesorería General de la Seguridad Social.
+
+En el plazo de tres meses a partir de la entrada en vigor de esta ley, el Gobierno procederá al desarrollo reglamentario de la regulación del sistema de liquidación directa de cuotas de la Seguridad Social y por conceptos de recaudación conjunta por parte de la Tesorería General de la Seguridad Social, contenida en el texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto Legislativo 1/1994, de 20 de junio, en virtud de la modificación efectuada en el mismo por esta norma legal.

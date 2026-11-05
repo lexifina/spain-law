@@ -1,0 +1,3 @@
+## Disposición final tercera. Título competencial.
+
+Esta Ley se dicta al amparo de las competencias que el artículo 149.1.6.ª y 8.ª de la Constitución atribuye en exclusiva al Estado en materia de legislación mercantil y civil. No obstante, la disposición final primera de esta Ley se dicta al amparo del artículo 149.1.18.ª y tendrá la consideración de norma básica, con excepción de la modificación del artículo 169.3 del texto refundido de la Ley de Contratos de las Administraciones Públicas, que no tiene este carácter de norma básica de acuerdo con la disposición final primera de este texto legal.

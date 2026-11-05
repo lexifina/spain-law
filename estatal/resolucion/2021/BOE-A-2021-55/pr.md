@@ -1,0 +1,13 @@
+La Orden TMA/692/2020 (en adelante Orden) de 15 de julio, por la que se aprueban normas técnicas aplicables al suministro de combustible a aeronaves de aviación civil, especifica en su disposición adicional única, que por resolución de la Dirección de la Agencia Estatal de Seguridad Aérea, publicada en el «Boletín Oficial del Estado», se podrán establecer medios aceptables de cumplimiento para la acreditación de los requisitos establecidos en esta orden y sus disposiciones de desarrollo, sin perjuicio de que se pueda justificar su cumplimiento por otros medios.
+
+Los medios aceptables de cumplimiento (MAC) son criterios o estándares no obligatorios que sirven como forma de demostrar el cumplimiento de los requisitos normativos de la Orden. Los medios aceptables de cumplimiento establecidos en el anexo de esta resolución están basados en los estándares internacionales mencionados en la Orden. El material guía (MG) es documentación no obligatoria que ayuda a aclarar, explicar o ilustrar el significado de un requisito normativo de la Orden o de los medios aceptables de cumplimiento, así como a facilitar su interpretación.
+
+El objeto de esta resolución es facilitar la aplicación de la norma mediante los medios aceptables de cumplimiento y el material guía del anexo, para los sujetos que realizan actividades de puesta a bordo y almacenamiento de combustible.
+
+Se han diferenciado los medios aceptables de cumplimiento adoptados en función del tipo de operador teniendo en consideración que los operadores de puesta a bordo y de almacenamiento que realizan su actividad principal en los aeropuertos de interés general ya han elaborado sus procedimientos según los estándares internacionales aplicables a su caso, por lo que los medios adoptados no pretenden reemplazar los ya establecidos y estandarizados por estos operadores, sino complementarlos en aquellos aspectos no cubiertos ya por los estándares internacionales.
+
+El resto de los operadores dispone a través del anexo de esta resolución de medios aceptables de cumplimiento basados en esos mismos criterios internacionales pero adecuados y escalados a su tipo de actividad, de manera que cumpliendo con el contenido de la presente resolución quedará acreditado el cumplimiento de la Orden.
+
+Se podrán utilizar medios alternativos de cumplimiento a los medios aceptables de cumplimiento adoptados en esta Resolución. Cuando se utilicen medios alternativos de cumplimiento serán evaluados y documentados por los interesados antes de su implantación y estarán basados en estándares internacionales reconocidos, de entre los previstos en el anexo II, aplicables según el tipo de actividad y de instalación.
+
+En su virtud, acuerdo:

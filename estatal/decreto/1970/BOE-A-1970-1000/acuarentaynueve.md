@@ -1,0 +1,7 @@
+## Artículo cuarenta y nueve. Beneficiarios de la pensión de viudedad.
+
+Tendrán derecho a la pensión de viudedad con carácter vitalicio, salvo que se produzca alguna de las causas de extinción que se establezcan reglamentariamente:
+
+a) La viuda, cuando al fallecimiento de su cónyuge causante hubiese convivido habitualmente con éste o, en caso de separación judicial, que la sentencia firme la reconociese como inocente u obligase al marido a prestarle alimentos.
+
+b) El viudo, únicamente en el caso de que, además de cumplirse el requisito señalado en el apartado anterior, se encuentre al tiempo de fallecer su esposa incapacitado para el trabajo con carácter permanente y absoluto que le inhabilite por completo para toda profesión u oficio, y sostenido económicamente por aquélla.

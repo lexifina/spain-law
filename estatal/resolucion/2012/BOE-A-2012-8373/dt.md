@@ -1,0 +1,3 @@
+## Disposición transitoria. Del Vicepresidente.
+
+De conformidad con lo establecido en el apartado 4 de la Disposición adicional novena de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, hasta que se produzca la expiración del mandato del Vicepresidente, que a la entrada en vigor del presente Reglamento de Régimen Interior ostente el citado cargo, el Vicepresidente continuará ejerciendo las funciones que le otorga el Reglamento de la Comisión del Mercado de las Telecomunicaciones aprobado por Real Decreto 1994/1996, de 6 de septiembre, en lo que no se oponga a lo establecido en La Ley 32/2003, de 3 de noviembre, General de Telecomunicaciones y la citada Ley de Economía Sostenible.

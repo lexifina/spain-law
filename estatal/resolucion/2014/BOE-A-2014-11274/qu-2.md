@@ -1,0 +1,9 @@
+## Quinto. Protocolo de Comunicación.
+
+La comunicación entre el SG-SCECI y los EMCC se realizará mediante un protocolo que utilizará la pila TCP/IP como medio de transporte, y estará basado en la norma EN 60870-5-104:2006, a la que se incorporaran aquellas unidades de intercambio de información (ASDU) necesarias para la prestación del servicio de gestión de la demanda de interrumpibilidad.
+
+El Protocolo de Comunicación así definido será, salvo situaciones excepcionales, el único medio de comunicación entre los proveedores del servicio de gestión de la demanda de interrumpibilidad, en su caso los gestores de la red de distribución, y el Operador del Sistema para todos los intercambios de información necesarios para la prestación del servicio de gestión de la demanda de interrumpibilidad.
+
+Para garantizar la integridad de la información y el no repudio, las comunicaciones entre el SG-SCECI y los equipos EMCC deberán ir firmadas electrónicamente. Para ello, se utilizará un mecanismo de clave pública para el que se habilita al Operador del Sistema para actuar como entidad certificadora. El Operador del Sistema emitirá y entregará a cada proveedor del servicio los certificados digitales con la clave pública correspondiente a su EMCC y su clave privada asociada. El Protocolo de Comunicación describirá el procedimiento de firma, los mecanismos de distribución automática de claves si los hubiera, y los intercambios de información que deberán ir firmados.
+
+La especificación detallada del Protocolo de Comunicación, será publicada en la Web del Operador del Sistema, en el plazo máximo de dos meses después de la publicación de la presente resolución. Asimismo se publicarán en el sitio Web del Operador del Sistema, con la suficiente antelación para permitir la adaptación de los equipos EMCC, las actualizaciones y modificaciones que sea preciso realizar en dicha especificación para la correcta prestación del servicio.

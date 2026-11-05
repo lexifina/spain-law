@@ -1,0 +1,15 @@
+## Artículo setenta y dos. Entregas a cuenta y liquidaciones definitivas de las participaciones.
+
+1. La participación en los ingresos del Estado a que se refiere la letra A) del número 2 del artículo 70 y el artículo 71 será abonada a las Entidades locales mediante entregas trimestrales a cuenta por importe total, cada una de ellas, de la cuarta parte del 90 por 100 de las cantidades señaladas en dichas normas. Excepcionalmente, las entregas a cuenta a los Ayuntamientos, correspondientes a los trimestres primero y segundo del ejercicio, serán iguales, para cada uno de ellos, a las abonadas en el último trimestre del año anterior.
+
+Finalizado el ejercicio económico y conocidas las cifras definitivas de recaudación por tributos del Estado, se practicará la liquidación definitiva de la participación.
+
+A estos efectos, los remanentes que en 31 de diciembre de 1985 figuren en la sección 32, «Transferencias a Corporaciones Locales por participación en los ingresos del Estado», se incorporarán automáticamente al ejercicio de 1986 y tendrán la consideración de ampliables hasta el importe de las obligaciones que se reconozcan como consecuencia de las liquidaciones definitivas mencionadas en el párrafo anterior.
+
+Si de dichas liquidaciones definitivas resultasen saldos deudores, les serán compensados a las Corporaciones afectadas en la primera entrega a cuenta que se les efectúe por su «participación en los ingresos del Estado para 1986», y si no fuese bastante en las siguientes entregas a cuenta hasta su total cancelación.
+
+Para el cálculo del esfuerzo fiscal medio, en 1984, a los efectos previstos en el párrafo b), apartado segundo de la letra A) del número 2 del artículo 70, los Ayuntamientos remitirán a la Administración del Estado, dentro de los tres primeros meses del ejercicio, certificación de la recaudación líquida obtenida en el ejercicio de 1984 por los conceptos tributarios incluidos en los capítulos I y II y por las tasas por prestación de servicios de recogida de basuras y de alcantarillado, de su presupuesto de ingresos, según la liquidación del mismo debidamente aprobada por la Corporación. Se considerará esfuerzo fiscal medio de los Ayuntamientos que incumplan esta obligación el de menor cuantía correspondiente a los Ayuntamientos que hayan remitido dicha información.
+
+2. La dotación compensatoria a que se refiere el apartado C) del número 2 del artículo 70 se abonará a la Corporación Metropolitana de Barcelona y a los Ayuntamientos del Área Metropolitana de Madrid, mediante entregas trimestrales, por importe de la cuarta parte de las cantidades señaladas en dicho apartado.
+
+3. La compensación a los Ayuntamientos mineros y la dotación por déficit de los servicios de transporte colectivo urbano de superficie a que se refieren los apartados B) y D) del número 2 del artículo 70 se abonarán de una sola vez. El pago de la dotación por déficit de transporte exigirá la comprobación previa, de los órganos correspondientes del Ministerio de Economía y Hacienda, de la cuantía de aquel que se deduzca de la información facilitada por cada Corporación.

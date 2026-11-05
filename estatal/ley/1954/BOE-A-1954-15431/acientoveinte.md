@@ -1,0 +1,3 @@
+## Artículo ciento veinte.
+
+Cuando por consecuencias de graves razones de orden o seguridad públicos, epidemias, inundaciones u otras calamidades, hubiesen de adoptarse por las Autoridades civiles medidas que implicasen destrucción, detrimento efectivo o requisas de bienes o derechos de particulares sin las formalidades que para los diversos tipos de expropiación exige esta Ley, el particular dañado tendrá derecho a indemnización de acuerdo con las normas que se señalan en los preceptos relativos a los daños de la ocupación temporal de inmuebles y al justiprecio de los muebles, debiendo iniciarse el expediente a instancia del perjudicado y de acuerdo con tales normas.

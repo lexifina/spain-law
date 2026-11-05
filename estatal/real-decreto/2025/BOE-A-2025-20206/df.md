@@ -1,0 +1,3 @@
+## Disposición final primera. Títulos competenciales.
+
+Esta norma se dicta al amparo de lo establecido en el artículo 149.1.21.ª y 24.ª de la Constitución Española, que atribuye al Estado competencia exclusiva sobre el régimen general de comunicaciones, y sobre las obras públicas de interés general cuya realización afecte a más de una comunidad autónoma, respectivamente y, en el caso del artículo 77, al amparo del artículo 149.1.13.ª y 18.ª de la Constitución, que atribuye al Estado las competencias sobre las bases y coordinación de la planificación general de la actividad económica, y de legislación básica sobre contratos y concesiones administrativas.

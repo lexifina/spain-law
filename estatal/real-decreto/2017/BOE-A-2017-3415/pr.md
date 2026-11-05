@@ -1,0 +1,15 @@
+El artículo 25 de la Ley 50/1997, de 27 de noviembre, del Gobierno, en la redacción dada por la disposición final tercera de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, contempla la aprobación por el Gobierno de un plan normativo de carácter anual, que recogerá las iniciativas reglamentarias o legislativas que habrán de ser elevadas cada año al Consejo de Ministros para su aprobación.
+
+El citado precepto encomienda la coordinación del Plan al Ministerio de la Presidencia y para las Administraciones Territoriales, con objeto de asegurar la congruencia de todas las iniciativas que se tramiten y de evitar sucesivas modificaciones del régimen legal aplicable a un determinado sector o área de actividad en un corto espacio de tiempo. El Plan debe ser aprobado por el Consejo de Ministros antes del 30 de abril del año anterior a su vigencia, a propuesta de la persona titular del Ministerio de la Presidencia y para las Administraciones Territoriales y publicado en el Portal de la Transparencia, de acuerdo con el artículo 132 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+
+El Plan Anual Normativo debe identificar, con arreglo a los criterios que se establezcan reglamentariamente, las normas que habrán de someterse a un análisis sobre los resultados de su aplicación, atendiendo fundamentalmente al coste que suponen para la Administración o los destinatarios y a las cargas administrativas impuestas a estos últimos.
+
+Por otra parte, el artículo 28 de la Ley 50/1997, de 27 de noviembre, encomienda al Consejo de Ministros la aprobación, antes del 30 de abril de cada año, de un informe anual, en el que se analizará la actividad normativa de la Administración General del Estado en relación con las previsiones del Plan Anual, y se reflejarán los resultados de la aplicación de las normas aprobadas en años precedentes.
+
+El presente real decreto desarrolla estas previsiones legales, regulando el proceso de elaboración del Plan Anual Normativo y del Informe Anual de Evaluación Normativa, y estableciendo los criterios para determinar las normas que deben ser objeto de evaluación, una vez aprobadas.
+
+Con objeto de facilitar la necesaria participación de todos los Departamentos ministeriales en el proceso de planificación y evaluación normativa, se constituye una junta interministerial, bajo la coordinación del Ministerio de la Presidencia y para las Administraciones Territoriales, constituida por las personas titulares de las Secretarías Generales Técnicas, unidades que aportarán su experiencia profesional en el ámbito de la producción normativa, además de su respectiva especialización sectorial. Este órgano se denominará Junta de Planificación y Evaluación Normativa.
+
+En su virtud, a propuesta de la Vicepresidenta del Gobierno y Ministra de la Presidencia y para las Administraciones Territoriales, con la aprobación previa del Ministro de Hacienda y Función Pública, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 24 de marzo de 2017,
+
+DISPONGO:

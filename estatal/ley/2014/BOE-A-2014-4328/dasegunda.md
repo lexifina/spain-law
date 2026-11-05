@@ -1,0 +1,11 @@
+## Disposición adicional segunda. Régimen transitorio de prestación de la actividad de cobertura por cuenta del Estado de los riesgos de la internacionalización de la economía por la Compañía Española de Seguros de Crédito a la Exportación Sociedad Anónima, Cía. de Seguros y Reaseguros (CESCE).
+
+1. Se atribuye a la Compañía Española de Seguros de Créditos a la Exportación, S.A. la condición de Agente Gestor a los efectos de esta Ley, y seguirá prestando sus servicios de gestión de los instrumentos de cobertura por cuenta del Estado de los riesgos de la internacionalización de la empresa española, durante un periodo de ocho años a contar desde la pérdida de la mayoría del Estado en el capital social de CESCE. Antes de transcurrir dicho plazo se tramitará el procedimiento señalado en el artículo 4 para la designación del Agente Gestor. CESCE podrá participar en este procedimiento en condiciones de igualdad con el resto de los licitadores.
+
+2. A estos efectos, el Ministro de Economía y Competitividad, suscribirá con CESCE un Convenio de gestión que deberá firmarse en un plazo máximo de tres meses desde la finalización del desarrollo reglamentario de esta Ley.
+
+3. Al expirar los plazos anteriores será de aplicación lo dispuesto en esta Ley a efectos de la designación del Agente Gestor del Estado.
+
+En el caso en el que tramitado el procedimiento para la designación del Agente Gestor éste quedara desierto, el Ministerio de Economía y Competitividad garantizará la cobertura de los riesgos por cuenta del Estado al constituir un servicio de interés económico general. Para ello, por medio de Orden del Ministro de Economía y Competitividad se adoptarán las instrucciones precisas asignando este servicio a la unidad o entidad correspondiente. La asignación del servicio a la unidad o entidad correspondiente no podrá suponer incremento de dotaciones ni de retribuciones ni de otros gastos de personal.
+
+4. En el proceso de enajenación de la mayoría del capital de CESCE de titularidad del Estado el interesado en la adquisición deberá aportar la declaración de la Secretaría de Estado de Comercio de que no se encuentra en situación de conflicto de interés, en los términos previstos en el artículo 4.7 de la Ley, junto con la manifestación de interés en participar en dicho proceso.

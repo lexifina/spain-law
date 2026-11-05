@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Real Decreto 1415/2006, de 1 de diciembre, por el que se aprueban los Estatutos Generales de los Colegios Oficiales de Graduados Sociales y del Consejo General de Colegios Oficiales de Graduados Sociales de España", según establece el art. único.1 del Real Decreto 503/2011, de 8 de abril. Ref. BOE-A-2011-7481.

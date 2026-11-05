@@ -1,0 +1,9 @@
+## Disposición transitoria cuarta.
+
+Uno. En el caso de que exista, en el marco de un concierto, una plaza vinculada que proceda de una asistencial que esté desempeñada en propiedad por un facultativo, y de una docente ocupada por un Catedrático o Profesor titular, se procederá a asignar a éste, por el Instituto Nacional de la Salud u Organismo correspondiente de la Comunidad Autónoma, o Entidad de la que dependa la Institución sanitaria, una plaza dentro de la red asistencial en la localidad donde esté ubicada la Universidad para que pueda desempeñar las funciones docentes y asistenciales correspondientes a su área de conocimiento. El régimen de prestación de servicios, así como sus retribuciones, será el establecido por el presente Real Decreto para las plazas vinculadas a que se refiere el artículo 105.1 de la Ley General de Sanidad.
+
+Cuando la plaza asistencial desempeñada por un facultativo, a la que alude el párrafo anterior, quede definitivamente vacante, se cubrirá por el procedimiento establecido para las plazas del INSALUD u Organismo de la Comunidad Autónoma que hubiera asumido sus funciones o Entidad de la que dependa la Institución sanitaria. En el caso de que el Catedrático o Profesor titular antes mencionado gane dicha plaza, ésta y la docente se convertirán en plazas vinculadas.
+
+En cualquier caso, el concierto deberá establecer un plazo máximo para que al Profesor le sea adjudicada una plaza asistencial en el Hospital o Centro de Atención Primaria concertado con la Universidad correspondiente en función del área de conocimiento a la que esté adscrito.
+
+Dos. Lo establecido en esta disposición transitoria sólo será de aplicación a quienes, a la entrada en vigor de este Real Decreto ocupen una plaza de Catedrático o de Profesor titular en la Universidad que corresponda, o la obtengan en virtud de un concurso convocado con anterioridad a la mencionada entrada en vigor.

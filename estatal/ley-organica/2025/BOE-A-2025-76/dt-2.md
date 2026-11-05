@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Constitución del Tribunal Central de Instancia.
+
+El día 31 de diciembre de 2025, el Tribunal Central de Instancia se constituirá a través de la trasformación de los actuales Juzgados Centrales en las Secciones del Tribunal Central de Instancia que se correspondan con las materias de las que aquellos estén conociendo. Los jueces, juezas, magistrados y magistradas de dichos Juzgados Centrales pasarán a ocupar la plaza en la Sección respectiva con la misma numeración cardinal del Juzgado de procedencia y seguirán conociendo de todos los asuntos que tuvieran atribuidos en el mismo.

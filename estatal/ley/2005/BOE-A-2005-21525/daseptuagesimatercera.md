@@ -1,0 +1,3 @@
+## Disposición adicional septuagésima tercera. Estudio sobre la fiscalidad que grava las actividades de transporte por carretera.
+
+Durante el ejercicio presupuestario de 2006 el Gobierno impulsará la realización de un estudio valorativo sobre el marco fiscal que grava las actividades del sector del transporte por carretera, su repercusión en la competitividad internacional del sector y su incidencia en la competitividad internacional de la economía española. Asímismo, el estudio contemplará propuestas de modificaciones fiscales dirigidas a propiciar mejoras de la competitividad del sector de transporte.

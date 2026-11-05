@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+En tanto no se dicten nuevas normas reguladoras, la retribución correspondiente a la actuación accidental o esporádica en cargo retribuido en las carreras judicial y fiscal en concepto de suplencias, las sustituciones que impliquen el desempeño conjunto de otra función, la realización de funciones ajenas a las propias del puesto de trabajo, la participación en programas concretos de actuación y la realización de servicios de guardia en sus distintas modalidades continuará rigiéndose por lo dispuesto en el Real Decreto 391/1989, de 21 de abril, y en las órdenes ministeriales por las que se regula la cuantía del complemento de destino por servicios de guardia.

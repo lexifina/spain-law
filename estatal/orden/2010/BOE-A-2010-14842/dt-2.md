@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Cambio en la modalidad de impartición de las enseñanzas españolas en los dos últimos años de la etapa de educación secundaria.
+
+Los centros que han suscrito convenio de colaboración con anterioridad a la promulgación de esta orden, así como aquellos que opten por la modalidad señalada en el apartado 2.a) del artículo 10, en cualquier momento podrán solicitar al Ministerio de Educación el cambio a la modalidad establecida en el apartado 2.b) del mismo artículo y, en caso de aprobación, se incorporaría al convenio suscrito una adenda con las modificaciones pertinentes.

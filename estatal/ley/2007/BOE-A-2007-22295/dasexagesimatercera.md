@@ -1,0 +1,3 @@
+## Disposición adicional sexagésima tercera. Impuesto sobre Actividades Económicas.
+
+Se insta al Gobierno, en el marco de la reforma de la financiación local, a realizar los correspondientes estudios económicos para fijar las cuotas del epígrafe 854.2, Alquiler de automóviles sin conductor en régimen de «renting», de la sección primera de las Tarifas del Impuesto sobre Actividades Económicas, con arreglo a lo dispuesto en la base cuarta del apartado 1 del artículo 85 del texto refundido de la Ley Reguladora de las Haciendas Locales, aprobado por el Real Decreto Legislativo 2/2004, de 5 de marzo.

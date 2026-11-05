@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios.
+
+Se añade al apartado 2 de la disposición adicional única de la Orden HAC/1398/2003, de 27 de mayo, por la que se establecen los supuestos y condiciones en que podrá hacerse efectiva la colaboración social en la gestión de los tributos, y se extiende ésta expresamente a la presentación telemática de determinados modelos de declaración y otros documentos tributarios, la siguiente declaración:
+
+Suministro electrónico de asientos contables a través de la Sede electrónica de la Agencia Estatal de Administración Tributaria previsto en el artículo 50 del Reglamento de los Impuestos Especiales, aprobado por Real Decreto 1165/1995, de 7 de julio.

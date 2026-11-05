@@ -1,0 +1,3 @@
+## Disposición adicional primera. Permisos y vacaciones de los funcionarios públicos.
+
+La limitación que establece el apartado Tres del artículo 8 del Real Decreto-Ley 20/2012, de 13 de julio, de medidas para garantizar la estabilidad presupuestaria y de fomento de la competitividad, para los convenios, pactos y acuerdos para el personal funcionario y laboral de las Administraciones Públicas y sus Organismos y Entidades, vinculados o dependientes de las mismas, debe entenderse referida a la nueva redacción dada por el presente Real Decreto-ley a los permisos y las vacaciones de los funcionarios públicos.

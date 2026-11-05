@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Sociedades unipersonales de transporte público.
+
+Podrán ser beneficiarios de las ayudas previstas en esta orden los socios únicos de sociedades mercantiles unipersonales titulares de la autorización de transporte público de mercancías o de viajeros en autobús, siempre que tanto la sociedad unipersonal como el socio único reúnan los requisitos que les afectan conforme a lo dispuesto en esta orden. Se deberá acreditar documentalmente y, siempre que sea posible, mediante certificación del registro mercantil, que la sociedad ha sido unipersonal durante los últimos diez años.

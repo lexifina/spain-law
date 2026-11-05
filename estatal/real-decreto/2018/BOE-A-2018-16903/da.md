@@ -1,0 +1,3 @@
+## Disposición adicional primera. Realización de actividades de asistencia y fomento por parte de las entidades de gestión de derechos de propiedad intelectual.
+
+La obligación regulada en el artículo 15.2 de este real decreto resultará de aplicación a la compensación equitativa que las entidades de gestión hayan recaudado desde la entrada en vigor de la disposición transitoria segunda del Real Decreto-ley 12/2017, de 3 de julio, por el que se modifica el texto refundido de la Ley de Propiedad Intelectual, aprobado por el Real Decreto Legislativo 1/1996, de 12 de abril, en cuanto al sistema de compensación equitativa por copia privada.

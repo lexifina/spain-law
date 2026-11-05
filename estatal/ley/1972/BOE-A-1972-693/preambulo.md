@@ -1,0 +1,21 @@
+Iniciado el Plan de Autopistas, fue preciso arbitrar con carácter urgente una regulación jurídica de las concesiones, mediante la promulgación de Decretos-leyes específicos para cada uno de los concursos que al efecto se convocaron, con la consiguiente dispersión y casuística de las normas sobre concesión de autopistas de peaje, lo que aconseja la elaboración de una legislación que, recogiendo toda la experiencia propia y ajena en este tipo de gestión del servicio público, constituya, por otra parte, un sistema normativo general aplicable a todas las autopistas sin que en cada caso sea necesario acudir a una norma concreta y de carácter excepcional.
+
+La presente Ley contiene el régimen jurídico básico de las concesiones administrativas de autopistas. Como prescribe el artículo ciento noventa y siete del Reglamento General de Contratación del Estado, se establece la atribución de competencias administrativas, se determina el alcance de las prestaciones en favor de los administrados y se declara que el servicio constituye una actividad propia del Estado.
+
+El capítulo I delimita el objeto de la Ley y fija el régimen jurídico básico y supletorio de las concesiones para la construcción, conservación y explotación de autopistas de peaje, determinando las condiciones o requisitos que deben reunir estas modernas vías de comunicación.
+
+El capitulo II, siguiendo la orientación de la Ley de Contratos del Estado, establece y concreta las actuaciones preparatorias que deben preceder a toda concesión, posibilitando la colaboración de la iniciativa privada en la promoción de estas concesiones.
+
+El capítulo III regula el otorgamiento de la concesión con absoluto respeto al principio de publicidad y libre competencia, inclinándose por el sistema de concurso como fórmula más idónea para este tipo de concesiones.
+
+La capacidad para contratar se reconoce a toda persona que la tenga para obligarse, salvo cuando concurran en ella alguna de las circunstancias de incapacidad previstas en la Ley de Contratos del Estado, si bien con posterioridad a la adjudicación se exige la constitución de una Sociedad anónima de nacionalidad española, por ser este tipo de Sociedad la única idónea para hacer frente a las obligaciones que el negocio impone.
+
+El régimen económico y financiero se regula en el capítulo IV, previéndose el abanico de beneficios tributarios y financieros, de entre los cuales la Administración podría elegir aquellos que en cada momento sean necesarios o convenientes para promover la construcción de una autopista concreta.
+
+Las limitaciones a la propiedad privada y el régimen expropiatorio son objeto del capítulo V. Se establecen las zonas de dominio, servidumbre y afección de la autopista y se determinan, siguiendo los principios de la Ley de diecisiete de abril de mil novecientos cincuenta y dos, las limitaciones a los derechos de propiedad en cuanto a la edificación, publicidad, cambio de uso y utilización por la Administración, con objeto de atender a las necesidades que la conservación de estas vías o el tráfico impongan, previéndose como contraprestación la indemnización a los particulares por los daños y perjuicios reales y cifrables que por estas Iimitaciones, salvo la de construir, pudieran experimentar.
+
+En los capítulos VI y VII se regulan las potestades de la Administración y los derechos y obligaciones del concesionario, siguiendo los principios que informan nuestra legislación de contratos del Estado, a la que se remite con carácter general, si bien se ratifica el principio de riesgo y ventura en la fase de construcción y se establece el régimen preciso para garantizar la continuidad y normalidad del servicio en la fase de explotación.
+
+La duración, cesión y extinción de la concesión son objeto del capítulo VIII, en el que se fija en cincuenta años el plazo máximo de duración de estas concesiones, reduciéndose casi a la mitad el previsto en la Ley de Contratos del Estado. Se establecen finalmente las causas de suspensión y extinción de la concesión, sin otras especialidades respecto a la legislación general que las derivadas de las áreas de servicio, en cuanto al respeto de los contratos establecidos en el supuesto de extinción anticipada de la concesión.
+
+En su virtud, y de conformidad con la Ley aprobada por las Cortes Españolas, vengo en sancionar:

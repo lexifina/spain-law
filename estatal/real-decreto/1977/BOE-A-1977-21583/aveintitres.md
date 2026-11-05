@@ -1,0 +1,3 @@
+## Artículo veintitrés.
+
+Las Cajas de Ahorros, individual o colectivamente y sin otras limitaciones que las que se deriven de las necesidades de sostenimiento de las obras benéfico-sociales propias ya acometidas, podrán efectuar obras benéfico-sociales en colaboración con otras Instituciones o personas físicas o jurídicas. En tales casos, si la colaboración de las Cajas consistiese en la financiación de las inversiones reales necesarias para la puesta en marcha de la obra, tales inversiones revertirán a estas Entidades al finalizarse la misma por cualquier motivo, siendo destinados los bienes referidos o el producto íntegro de su enajenación a la financiación de nuevas obras benéfico-sociales.

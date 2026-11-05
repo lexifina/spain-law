@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Sobre los derechos de cobro adjudicados en subasta para la financiación de los déficit ex ante correspondientes al año 2008.
+
+El contenido y características del derecho de cobro correspondiente a la parte adjudicada en subasta para la financiación «ex ante» del desajuste de ingresos de las actividades reguladas reconocido en 2008, se seguirá rigiendo por los actos de adjudicación del mismo y por lo establecido en la Orden ITC/694/2008, de 7 marzo, por la que se regula el derecho de cobro correspondiente a la financiación de déficit ex ante de ingresos de las liquidaciones de las actividades reguladas y su procedimiento de subasta.

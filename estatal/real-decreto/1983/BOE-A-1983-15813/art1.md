@@ -1,0 +1,7 @@
+## Art. 1.
+
+Los trabajadores que hayan sido declarados en situación de incapacidad permanente parcial, tienen derecho a su reincorporación en la Empresa, en las condiciones siguientes:
+
+1. Si la incapacidad permanente parcial no afecta el rendimiento normal del trabajador en el puesto de trabajo que ocupaba antes de incapacitarse deberá el empresario reincorporarlo al mismo puesto o, en caso de imposibilidad, mantenerle el nivel retributivo correspondiente al mismo. En el supuesto de que el empresario acredite la disminución en el rendimiento, deberá ocupar al trabajador en un puesto de trabajo adecuado a su capacidad residual y, si no existiera, podrá reducir proporcionalmente el salario, sin que en ningún caso la disminución pueda ser superior al 25 por 100 ni que los ingresos sean inferiores al salario mínimo interprofesional cuando se realice jornada completa.
+
+2. Los trabajadores que hubiesen sido declarados en situación de incapacidad permanente parcial y después de haber recibido prestaciones de recuperación profesional recobraran su total capacidad para su profesión habitual, tendrán derecho a reincorporarse a su puesto de trabajo originario, si el que viniesen ocupando fuese de categoría inferior, siempre que no hubiesen transcurrido más de tres años en dicha situación. La reincorporación se llevará a efecto previa la comunicación a la Empresa, y a los representantes del personal, en el plazo de un mes, contado a partir de la declaración de aptitud por el organismo correspondiente.

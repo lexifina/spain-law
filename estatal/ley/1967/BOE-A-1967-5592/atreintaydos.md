@@ -1,0 +1,3 @@
+## Artículo treinta y dos.
+
+Tendrán naturaleza de infracciones administrativas y serán sancionadas por el Consejo de Ministros, el Ministerio de la Gobernación o la Dirección General de Sanidad, según la distribución de competencia que se hará reglamentariamente, las acciones u omisiones contrarias a la efectividad de las normas administrativas que se dicten por los órganos correspondientes de dicho Ministerio o a iniciativa del mismo, en aplicación de lo dispuesto en esta Ley, a las Órdenes o instrucciones dadas o a las condiciones fijadas por dichos órganos en el ejercicio de su competencia.

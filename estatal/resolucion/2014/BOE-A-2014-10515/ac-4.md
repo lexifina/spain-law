@@ -1,0 +1,5 @@
+## Apartado cuarto. Tramitación y diligencias a practicar en el expediente. Comprobación por el Fiscal de si el menor ha sido reseñado e inscrito en el RMENA con anterioridad. Actuaciones a seguir cuando el Fiscal tenga conocimiento de diligencias preprocesales abiertas en otra fiscalía respecto del mismo extranjero.
+
+El Fiscal deberá hacer constar como primera diligencia que se ha realizado la previa y preceptiva reseña policial del afectado, incorporando la certificación negativa de no hallarse reseñado e inscrito previamente en el RMENA, expedida por la respectiva Brigada Provincial de Policía Científica del CNP conforme a lo dispuesto en el capítulo II, apartado tercero 1 de este Protocolo.
+
+En caso de que el Fiscal tenga conocimiento de que se han abierto diligencias preprocesales en otra Fiscalía respecto del mismo extranjero, solicitará de la Fiscalía que lo estuviere tramitando la remisión de una copia íntegra del expediente de determinación de la edad y de las diligencias practicadas. Será competente para continuar la tramitación del expediente la Fiscalía del lugar donde estuviera el extranjero.

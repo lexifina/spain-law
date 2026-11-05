@@ -1,0 +1,5 @@
+## Artículo 20.
+
+Si el adjudicatario de solares o parcelas de polígonos propiedad del Instituto Nacional de la Vivienda incumpliere alguna de las obligaciones señaladas en el artículo anterior, que se transcribirán en la escritura de adjudicación, o cualquier otra especial que en ésta se estipule, el Instituto Nacional de la Vivienda acordará en vía administrativa la resolución de la cesión y la reversión de los solares o parcelas adjudicados, fijando la cantidad que haya de ser satisfecha al adjudicatario, que no podrá ser superior a las dos terceras partes del precio percibido por dicho Organismo y, en su sano, del valor de la obra realizada, siempre que ésta pueda ser aprovechada para la construcción de las edificaciones previstas en las solares de que se trate.
+
+El Instituto Nacional de la Vivienda procederá a la ocupación de los solares o parcelas y de las obras realizadas, en su caso, una vez satisfaga al adjudicatario la cantidad a que tenga derecho, o la consigne a su disposición en la Caja General de Depósitos, en el supuesto de que no la quiera o no la pueda recibir.

@@ -1,0 +1,75 @@
+## Disposición final primera. Modificación de la Orden FOM/1882/2012, de 1 de agosto, por la que se aprueban las condiciones generales de contratación de los transportes de mercancías por carretera.
+
+La Orden FOM/1882/2012, de 1 de agosto, por la que se aprueban las condiciones generales de contratación de los transportes de mercancías por carretera, queda modificada en los siguientes términos:
+
+Uno. Se modifica la condición general 3.4 del anexo, quedando redactada en los siguientes términos:
+
+> «3.4 Revisión del precio del transporte por carretera en función de la variación del precio del gasóleo:
+
+> Cuando el precio del gasóleo hubiese aumentado entre el día de celebración del contrato y el momento de realizarse el transporte, el porteador incrementará en su factura el precio inicialmente pactado en la cuantía que resulte de aplicar la fórmula y coeficientes que se indican a continuación:
+
+> ![imagen](https://www.boe.es/datos/imagenes/disp/2026/158/14112_17188920_1.png)
+
+> ∆P = variación del precio de transporte contratado;
+
+> G = índice de variación porcentual del precio medio semanal del gasóleo hecho público por la Administración entre el momento en que se celebró el contrato y aquél en que se realizó efectivamente el transporte; para el cálculo de este índice los precios medios del gasóleo tomarán como referencia:
+
+> – En los vehículos sujetos a la devolución parcial del Impuesto sobre Hidrocarburos prevista en el artículo 52 bis de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, el precio de adquisición del combustible, sin tener en cuenta el Impuesto sobre el Valor Añadido ni la devolución parcial por el gasóleo profesional.
+
+> – En los vehículos no sujetos a la devolución parcial del Impuesto sobre Hidrocarburos prevista en el artículo 52 bis de la Ley 38/1992, de 28 de diciembre, de Impuestos Especiales, el precio de adquisición del combustible, sin tener en cuenta el Impuesto sobre el Valor Añadido.
+
+> P = precio del transporte establecido al contratar.
+
+> C = coeficiente vinculado al precio del gasóleo antes de impuestos. Para la determinación del coeficiente C se tendrá en cuenta el precio medio semanal del gasóleo hecho público por la Administración (Pmed) entendido como el precio de adquisición del combustible, sin tener en cuenta el Impuesto sobre el Valor Añadido ni la devolución parcial por el gasóleo profesional cuando sea de aplicación de conformidad con lo establecido en el artículo 52 bis de la Ley 38/1992, de 28 de diciembre.
+
+> Se atenderá a los siguientes criterios:
+
+> a) Vehículos con una masa máxima autorizada igual o superior a 20.000 kilogramos, con excepción de los de obras:
+
+> | Pmed | Coeficiente C |
+> | --- | --- |
+> | Pmed < 1,18 €/l | 0,3 |
+> | 1,18 €/l ≤ Pmed < 1,73 €/l | 0,4 |
+> | Pmed ≥ 1,73 €/l | 0,5 |
+
+> b) Vehículos con una masa máxima autorizada superior a 3.500 kilogramos e inferior a 20.000 kilogramos, con excepción de los de obras:
+
+> | Pmed | Coeficiente C |
+> | --- | --- |
+> | Pmed < 1,28 €/l | 0,2 |
+> | 1,28 €/l ≤ Pmed < 2,13 €/l | 0,3 |
+> | Pmed ≥ 2,13 €/l | 0,4 |
+
+> c) Vehículos de obras con una masa máxima autorizada superior a 3.500 kilogramos:
+
+> | Pmed | Coeficiente C |
+> | --- | --- |
+> | Pmed < 1,08 €/l | 0,2 |
+> | 1,08 €/l ≤ Pmed < 1,78 €/l | 0,3 |
+> | Pmed ≥ 1,78 €/l | 0,4 |
+
+> d) Vehículos con una masa máxima autorizada igual o inferior a 3.500 kilogramos:
+
+> | Pmed | Coeficiente C |
+> | --- | --- |
+> | Pmed < 1,08 €/l | 0,1 |
+> | 1,08 €/l ≤ Pmed < 2,33 €/l | 0,2 |
+> | Pmed ≥ 2,33 €/l | 0,3 |
+
+> De la misma manera, el obligado al pago del transporte exigirá una reducción equivalente del precio inicialmente pactado cuando el precio del gasóleo se hubiese reducido entre la fecha de celebración del contrato y la de realización efectiva del transporte.
+
+> La fórmula anteriormente señalada será de aplicación automática siempre que el índice de variación porcentual del precio medio semanal del gasóleo hecho público por la Administración entre el momento en que se celebró el contrato y aquél en que se realizó efectivamente el transporte (índice G), hubiera experimentado una variación igual o superior al cinco por ciento, salvo que, expresamente y por escrito, se hubiera pactado un umbral menor previa o simultáneamente a la celebración del contrato.
+
+> La revisión automática establecida en el párrafo anterior se aplicará sin perjuicio de la revisión periódica del precio inicialmente pactado establecida en la condición 8.3.
+
+> El pacto en contrario a lo dispuesto en esta condición se considerará nulo.
+
+> Lo dispuesto en esta condición se dicta en ejecución de los criterios marcados por el artículo 38 de la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías.»
+
+Dos. Se modifica la condición general 8.3 del anexo, quedando redactada en los siguientes términos:
+
+> «8.3 Revisión obligatoria del precio inicialmente pactado por la evolución del precio del combustible:
+
+> En los contratos de transporte continuado, se revisará, en todo caso y de forma automática, coincidiendo con el periodo de facturación acordado, el precio inicialmente pactado aplicando la fórmula prevista en la condición 3.4, independientemente del porcentaje en el que hubiera variado el precio del combustible.
+
+> Lo dispuesto en esta condición se dicta en ejecución de los criterios marcados por el artículo 38.2 de la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías.»

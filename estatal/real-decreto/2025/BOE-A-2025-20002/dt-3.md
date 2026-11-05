@@ -1,0 +1,7 @@
+## Disposición transitoria tercera. Régimen transitorio de los procedimientos de creación o reconocimiento de una universidad ya iniciados al tiempo de entrada en vigor de este real decreto.
+
+1. En los procedimientos de creación o reconocimiento de una universidad iniciados con anterioridad a la entrada en vigor de este real decreto, en los cuales, en dicha fecha, todavía no se haya remitido a la Conferencia General de Política Universitaria la propuesta de informe exigido por el artículo 3.1 del Real Decreto 640/2021, de 27 de julio, la comunidad autónoma competente, o, en su caso, el Ministerio de Ciencia, Innovación y Universidades, solicitará a la agencia de calidad correspondiente el informe al que se refiere su artículo 4.3 en la redacción dada por este real decreto.
+
+2. Previamente, la comunidad autónoma competente, o, en su caso, el Ministerio de Ciencia, Innovación y Universidades, solicitará a la entidad promotora de la universidad la aportación de toda la documentación que la mencionada entidad considere adecuada para acreditar la adaptación de su propuesta a los requisitos de creación o reconocimiento de una universidad establecidos con la entrada en vigor de este real decreto, para ser evaluados por la agencia de calidad correspondiente. Para ello, la entidad promotora dispondrá de un plazo máximo de doce meses.
+
+3. Una vez emitido dicho informe, los trámites sucesivos de los procedimientos se desarrollarán conforme a lo estipulado con la entrada en vigor de este real decreto.

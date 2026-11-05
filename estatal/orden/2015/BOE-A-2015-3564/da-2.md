@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Disposiciones más estrictas.
+
+De acuerdo con lo establecido en la disposición transitoria sexta del Real Decreto 53/2013, de 1 de febrero, el mantenimiento por los órganos competentes de disposiciones más estrictas a las establecidas en esta orden ministerial con objeto de garantizar una mayor protección a los animales dentro de su territorio quedará limitado al de aquellas disposiciones que estuvieran ya vigentes el 9 de noviembre de 2010, sean compatibles con los principios generales del Tratado de Funcionamiento de la Unión Europea y se hubieran comunicado antes del 1 de diciembre de 2012 a la Dirección General competente en materia de bienestar animal de la Administración General del Estado.

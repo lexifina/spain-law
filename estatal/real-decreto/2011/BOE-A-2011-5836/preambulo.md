@@ -1,0 +1,17 @@
+Los Estatutos generales de la Organización Colegial de Secretarios, Interventores y Tesoreros de la Administración Local aprobados mediante Real Decreto 1912/2000, de 24 de noviembre, sustituyeron al Reglamento de los Colegios de Secretarios, Interventores y Depositarios de Administración Local aprobado por Resolución de la Dirección General de Administración Local, de 2 de febrero de 1978.
+
+De este modo se dio cumplimiento al mandato de adecuación a la legislación estatal y autonómica, atendiendo a las peculiaridades exigidas por la función pública que exigían sus miembros, recogido en la disposición adicional segunda de la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, consecuencia de la distribución de competencias establecidas en esta materia en la Constitución Española y en los Estatutos de Autonomía.
+
+Las modificaciones operadas en la Ley 2/1974, de 13 de febrero, de Colegios Profesionales, por la Ley 25/2009, de 22 de diciembre, de modificación de diversas leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio, con el fin de adaptarla a la Directiva 2006/123/CE, del Parlamento Europeo y del Consejo, de 12 de diciembre de 2006, hacen ahora necesaria la elaboración de unos nuevos Estatutos que recojan dichas modificaciones en la medida que resultan aplicables a la Organización Colegial.
+
+Asimismo, los nuevos Estatutos permiten adaptar la estructura y competencias internas de la Organización Colegial al nuevo marco de regulación de la profesión, tras la entrada en vigor de la disposición adicional segunda de la Ley 7/2007, de 12 de abril, del Estatuto básico del empleado público, adecuar los fines de la Organización Colegial a las nuevas exigencias del servicio público, así como definir los principios éticos profesionales que han de regir la conducta profesional de los Secretarios, Interventores y Tesoreros de la Administración Local.
+
+En este sentido, los Estatutos generales se estructuran en cuatro títulos. El Título I consta de dos capítulos, contemplándose en el primero de ellos las disposiciones generales relativas a la definición, personalidad jurídica y naturaleza de los Colegios, incluyéndose los fines esenciales de la Organización Colegial, así como los principios éticos profesionales. Asimismo, se definen el ámbito territorial de los Colegios y los Consejos Autonómicos. Por su parte, en el capítulo segundo se abordan diferentes cuestiones relacionadas con el régimen jurídico de los actos y resoluciones corporativas y la ventanilla única de la Organización Colegial.
+
+El Título II aborda el régimen jurídico de los Colegios Profesionales de Secretarios, Interventores y Tesoreros de Administración Local, sistematizándose en cuatro capítulos. El primero, relativo a las funciones de los Colegios; el segundo, referente a la organización básica interna; el tercero, contempla el régimen de colegiación, ingreso, traslados, derechos y deberes de los colegiados; y, por último, el cuarto regula el régimen económico.
+
+El Título III se dedica, en exclusiva, a regular el Consejo General de los Colegios Profesionales de Secretarios, Interventores y Tesoreros de Administración Local, en cuanto a sus funciones, organización interna y régimen económico. Por último, en el Título IV se contempla el régimen disciplinario de los colegiados.
+
+En su virtud, a propuesta del Ministro de Política Territorial y Administración Pública, oído el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 11 de marzo de 2011,
+
+DISPONGO:

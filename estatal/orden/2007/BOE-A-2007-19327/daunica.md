@@ -1,0 +1,3 @@
+## Disposición adicional única. Nuevos procedimientos de tramitación electrónica.
+
+Por resolución del Director del Instituto de Salud Carlos III se podrán establecer nuevos procedimientos a los que se refieren las solicitudes, escritos y comunicaciones que pueden presentarse electrónicamente y para aprobar los nuevos modelos normalizados e impresos que permitan esta presentación, así como la competencia para concretar los procedimientos, trámites y condiciones en los que será posible la prestación del servicio de notificación electrónica según lo previsto en el capítulo IV del Real Decreto 263/1996, de 16 de febrero.

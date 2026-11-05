@@ -1,0 +1,37 @@
+La Ley 38/1972, de 22 de diciembre, de Protección del Ambiente Atmosférico, establece las líneas generales de actuación del Gobierno y servicios especializados de la Administración Pública para prevenir, vigilar y corregir las situaciones de contaminación atmosférica, cualesquiera que sean las causas que la produzcan.
+
+Es preciso, sin embargo, poner de manifiesto que el espíritu de la mencionada Ley es garantizar la continuidad del proceso de desarrollo sin detrimento de los imperativos sanitarios a que tiene derecho la población.
+
+Dada la complejidad del problema de la contaminación y sus implicaciones técnicas, económicas, sociales y sobre la ordenación del territorio, resulta necesario proceder a un desarrollo gradual de dicha Ley en orden a conseguir la mayor eficacia de su puesta en práctica, mediante disposiciones reglamentarias que, en aras a una deseable economía legislativa, deben ser reducidas al mínimo sin perjuicio de la diversidad o especialidad indispensable.
+
+Como se señala en la exposición de motivos de la Ley de Protección del Ambiente Atmosférico, el problema de la contaminación atmosférica tiene dos vertientes: la de las inmisiones (calidad del aire) y la de las emisiones de contaminantes procedentes del ejercicio de ciertas actividades. En este sentido, el desarrollo de la Ley deberá constar de dos partes bien diferenciadas, atendiendo la primera a los aspectos higiénico-sanitarios y la segunda a los aspectos técnico-económicos.
+
+Dentro de la primera vertiente antes citada, el presente Decreto establece los niveles de inmisión (normas de calidad del aire), en aplicación de lo preceptuado en el artículo 2 de la Ley, y determina las características y funciones de la Red Nacional de Vigilancia y Previsión de la Contaminación Atmosférica prevista en el artículo 10 de la Ley, con suficiente detalle para fijar las esferas de responsabilidad.
+
+También se dedica una especial atención en la primera parte del Decreto a la caracterización de las zonas de atmósfera contaminada, de acuerdo con lo previsto en el artículo 5 de la Ley, y las situaciones de emergencia, así como al procedimiento para llegar a declaraciones de esta naturaleza.
+
+El aspecto de las emisiones es contemplado en la segunda parte de este Decreto. A tal fin, en cumplimiento de lo establecido en el artículo 3.3, se incluye un «Catálogo de actividades potencialmente contaminadoras de la atmósfera». Por otra parte, en aplicación de lo dispuesto en el artículo 3.1, se fijan los niveles de emisión de contaminantes a la atmósfera de las principales actividades industriales potencialmente contaminadoras, que los titulares de focos emisores estarán obligados a respetar.
+
+Los niveles de emisión no pueden ser uniformes para todas las actividades, dado que las características de proceso, materias primas utilizadas, condiciones de la instalación y, en consecuencia, la composición de los efluentes, difieren notablemente, así como los costes de depuración necesarios y soportables.
+
+Los niveles de emisión fijados deben considerarse como provisionales y sujetos a futuras revisiones, toda vez que los mismos –en aplicación del principio que subyace en el espíritu de la Ley de Protección del Ambiente Atmosférico sobre la adopción de los mejores medios prácticos disponibles–, son función de los procesos de fabricación utilizados, de los avances de la tecnología anticontaminación, de la evolución del mercado internacional de productos manufacturados y de las soluciones que se den a la crisis energética y de abastecimiento de materias primas. Por otra parte, en el momento actual no existe un consenso internacional sobre la fijación de dichos niveles, si bien es previsible que, a plazo medio, los Organismos Internacionales competentes puedan aprobar algunas recomendaciones al respecto.
+
+La fijación de los niveles de emisión debe contemplar diversas situaciones como es el distinto trato que es preciso dar a las nuevas industrias y a las ya existentes, pero, al mismo tiempo, deben proyectarse a diversos horizontes al objeto de forzar a la técnica a encontrar soluciones cada vez mejores, sin que necesariamente tengan que ser más costosas.
+
+La política ambiental debe tener por meta la fijación de límites cada vez más exigentes, contando siempre con que la tecnología es un factor sumamente dinámico.
+
+Por último, dentro de la segunda parte de este Decreto, se establecen las normas sobre instalación, ampliación, modificación, localización y funcionamiento de las actividades industriales potencialmente contaminadoras de la atmósfera. Dichas normas abarcan los aspectos de solicitud de autorización administrativa, control de puesta en marcha y vigilancia de funcionamiento.
+
+Finalmente, se hace referencia al régimen sancionador por incumplimiento de las condiciones exigidas, desarrollando, con la ponderación posible, las previsiones establecidas en la mencionada Ley para conjugar la defensa del medio ambiente con la continuación del proceso de desarrollo dentro de unos límites justos.
+
+Esta normativa tiene que ser necesariamente completada con otras disposiciones que, por su complejidad, especialización y régimen particular requieren un tratamiento especial por parte de los Ministerios y Organismos competentes.
+
+Entre estas disposiciones cabe citar el Reglamento sobre instalaciones de combustión desde el punto de vista de emisión de contaminantes, las normas de homologación de quemadores, las normas de calidad y condiciones de utilización de los combustibles y carburantes para reducir la contaminación atmosférica, las normas de cálculo de altura de las chimeneas industriales para conseguir la dispersión adecuada de los contaminantes y las normas sobre métodos unificados para análisis contaminantes.
+
+Las emisiones gaseosas procedentes de los vehículos automóviles han sido ya reguladas por el Decreto 3025/1974, de 9 de agosto, que desarrolla la Ley 38/1972, de 22 de diciembre, de Protección del Ambiente Atmosférico, en lo que se refiere a la contaminación producida por los vehículos de motor. El funcionamiento de las calefacciones, en lo que se refiere a la contaminación atmosférica, se regirá por su normativa específica.
+
+Todo ello, sin embargo, resultaría de difícil aplicación si no se contara con los necesarios medios económicos y humanos así como los instrumentos jurídicos adecuados para la defensa de los intereses sociales. A tal fin, la Ley de Protección del Ambiente Atmosférico prevé la instrumentación del procedimiento de urgencia para aplicar la legislación laboral al personal afectado por la suspensión o clausura de actividades industriales o equivalentes, así como el dictado de las disposiciones necesarias para la efectividad de los beneficios que podrán otorgarse por el Gobierno a las actividades que resulten afectadas por las disposiciones de la Ley de referencia. Asimismo, la Ley se refiere a otros aspectos importantes señalando explícitamente que, en todo caso, se procurará dotar de personal y medios suficientes a los Departamentos y Organismos competentes en materia de contaminación atmosférica.
+
+En su virtud, a iniciativa de la Comisión Interministerial del Medio Ambiente, con el informe de la Organización Sindical, de conformidad con el dictamen del Consejo de Estado, a propuesta del Ministro de Planificación del Desarrollo y previa deliberación del Consejo de Ministros en su reunión del día 24 de enero de 1975,
+
+DISPONGO:

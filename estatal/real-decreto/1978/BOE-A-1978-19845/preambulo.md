@@ -1,0 +1,7 @@
+El Decreto cuatrocientos sesenta y nueve/mil novecientos setenta y dos, de veinticuatro de febrero, reguló el procedimiento de expedición de las cédulas de habitabilidad establecidas por Decreto de veintitrés de noviembre de mil novecientos cuarenta, disponiendo preceptivamente la presentación de determinados documentos cuando se tratare de primeras ocupaciones de edificios destinados a vivienda o alojamientos de carácter residencial, no acogidos al régimen de viviendas de protección oficial, procurando dar cumplimiento a la estadística de edificaciones y viviendas establecidas por Orden de la Presidencia del Gobierno de trece de noviembre de mil novecientos sesenta y ocho.
+
+Por otra parte, implantado el régimen catastral de la Contribución Territorial Urbana, establecido por la Ley cuarenta y uno/mil novecientos sesenta y cuatro, de once de junio, de Reforma Tributaria, se hace preciso establecer la debida coordinación entre los Departamentos interesados, que permita una permanente y eficaz conservación de los obtenidos documentos catastrales y que, junto a la exacción de la Contribución, son instrumentos muy importantes para la gestión económica de los Municipios y para el conocimiento de la propiedad urbana, así como para la ordenación del territorio.
+
+En su virtud, a propuesta de los Ministros de Hacienda, del Interior y de Obras Públicas y Urbanismo, y previa deliberación del Consejo de Ministros en su reunión del día quince de julio de mil novecientos setenta y ocho,
+
+DISPONGO:

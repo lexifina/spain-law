@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Actividades de defensa nacional y seguridad pública.
+
+Se promoverá la colaboración entre los departamentos ministeriales afectados en el seno de la Administración General del Estado con el objeto de garantizar que las actividades cuyo único propósito sea la defensa nacional y seguridad pública, se lleven a cabo, en la medida en que ello sea razonable o factible, de un modo compatible con los objetivos del presente real decreto, de tal modo que las decisiones que puedan eventualmente adoptarse en relación con el desarrollo de actividades de defensa nacional y seguridad pública, no se tomen sin recabar el parecer del Ministerio para la Transición Ecológica, al menos en la elaboración de los protocolos militares.

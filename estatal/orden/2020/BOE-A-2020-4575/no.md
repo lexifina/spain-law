@@ -1,0 +1,1 @@
+Téngase en cuenta que la presente Orden adopta medidas excepcionales durante el curso escolar 2019-2020, por lo que debe entenderse que ha perdido su vigencia, según establece su disposición final tercera.

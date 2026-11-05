@@ -1,0 +1,1 @@
+Téngase en cuenta que se derogan los arts. 1, 2, 3, 4.1, 5 y 8 en aquellos aspectos relativos al ISBN, por la disposición derogatoria única.a) del Real Decreto 2063/2008, de 12 de diciembre. Ref. BOE-A-2009-504#ddunica.

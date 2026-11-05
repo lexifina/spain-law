@@ -1,0 +1,9 @@
+## Sexto. Control de accesos.
+
+Las aplicaciones y programas informáticos de la Dirección General del Catastro dispondrán de los mecanismos de control que permitan conocer en todo momento los accesos telemáticos realizados a la OVC, directamente o a través de un PIC, por todos los usuarios registrados.
+
+La Administración, entidad o corporación pública autorizada al establecimiento de un PIC deberá facilitar en todo momento a la Dirección General del Catastro cuanta información le sea recabada por ésta, a fin de comprobar el correcto funcionamiento del servicio y, en particular, el cumplimiento de las normas aplicables a los datos protegidos y a la propiedad intelectual de la información.
+
+Mediante resolución motivada y previa audiencia a la Administración, entidad o corporación pública, notaría o registro de la propiedad autorizada para el acceso a los servicios de la OVC contenidos en la presente resolución, la Dirección General del Catastro podrá suspender dicho acceso y, en su caso, la prestación de los servicios a través de los PIC, por incumplimiento de las condiciones y requisitos que se establecen en la presente resolución, como consecuencia de una prolongada inactividad, o por otros que resulten aplicables.
+
+Además de lo establecido en la disposición adicional tercera del Real Decreto 263/1996, de 16 de febrero, las Administraciones, entidades y corporaciones públicas solicitantes de las autorizaciones de acceso a la OVC, deberán comunicar el cese de la relación representativa, funcionarial, profesional o laboral que originó el registro de usuario correspondiente, tan pronto como se produzca, a efectos de su baja en la OVC. El incumplimiento de este requisito podrá originar la suspensión del servicio en los términos del párrafo anterior, sin perjuicio de las responsabilidades en las que pudiera haberse incurrido.

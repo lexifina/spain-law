@@ -1,0 +1,3 @@
+## Art. 31.
+
+La justificación de las circunstancias que deben concurrir en la inutilidad a los efectos de la concesión de las pensiones extraordinarias de retiro a que se refiere el artículo anterior, deberá ajustarse a las reglas particulares para la declaración de inutilidad establecidas o que en lo sucesivo se dicten por los Ministerios del Ejército, Marina y Aire, requiriéndose siempre que resulte plenamente acreditado que aquélla es consecuencia directa de las heridas, penalidades o accidentes sufridos en los actos del servicio, o con ocasión o consecuencia del mismo, en las condiciones que determina el artículo 34-uno, de la Ley-texto refundido.

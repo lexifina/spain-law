@@ -1,0 +1,3 @@
+## Disposición transitoria única. Adaptación de órganos de desagüe.
+
+En los casos en que con esta revisión de los planes hidrológicos se hayan producido cambios en los regímenes de caudales ecológicos que llevasen a la situación prevista en el apartado primero de la disposición transitoria quinta del Reglamento del Dominio Público Hidráulico, aprobado por el Real Decreto 849/1996, de 11 de abril, el plazo señalado para presentar ante el organismo de cuenca la documentación técnica descriptiva de la solución que se proponga será de un año como máximo, contado desde la entrada en vigor del plan hidrológico revisado.

@@ -1,0 +1,5 @@
+## Disposición adicional quincuagésima séptima. Modificación de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986.
+
+Con efectos de 1 de enero de 2006 y vigencia indefinida se modifica la disposición adicional decimoctava, apartado uno, de la Ley 46/1985, de 27 de diciembre, de Presupuestos Generales del Estado para 1986, que queda redactada en los siguientes términos:
+
+«Uno. A los efectos de lo previsto en los artículos 1.7 y 2.1.d) de la Ley Orgánica 12/1995, de 12 de diciembre, de Represión del Contrabando, se entiende prohibida la circulación, comercio, tenencia o producción de billetes, boletos, sellos, cartones, resguardos, máquinas o cualquier otro elemento, incluso técnico o informático, que constituya soporte en la práctica de juegos de azar, sorteos, loterías, rifas, tómbolas, quinielas, combinaciones aleatorias y, en general, todas aquellas actividades en las que se arriesguen cantidades de dinero u objetos económicamente evaluables en forma de envites o traviesas sobre resultados.»

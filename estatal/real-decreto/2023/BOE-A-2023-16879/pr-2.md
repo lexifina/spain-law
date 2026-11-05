@@ -1,0 +1,7 @@
+## Primero. Aprobación de los Planes Hidrológicos de las Demarcaciones Hidrográficas de las Cuencas Mediterráneas Andaluzas, Guadalete-Barbate y Tinto, Odiel y Piedras.
+
+1. De acuerdo con lo dispuesto en el artículo 40.6 del texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, se aprueban los Planes Hidrológicos de las Demarcaciones Hidrográficas de las Cuencas Mediterráneas Andaluzas, del Guadalete-Barbate y del Tinto, Odiel y Piedras, aprobados por el Consejo de Gobierno de Andalucía en su reunión del 25 de abril de 2023.
+
+2. El ámbito territorial de aplicación de los Planes Hidrológicos de las Cuencas Mediterráneas Andaluzas, del Guadalete-Barbate y del Tinto, Odiel y Piedras coincide con el de las Demarcaciones Hidrográficas definidas en los artículos 3.1, 3.2 y 3.3, respectivamente, del Decreto 357/2009, de 20 de octubre, por el que se fija el ámbito territorial de las demarcaciones hidrográficas de las cuencas intracomunitarias situadas en Andalucía.
+
+3. Esta aprobación no modifica ni, en ningún caso, podrá afectar el régimen de los acuíferos compartidos con las demarcaciones hidrográficas vecinas de competencia estatal, que se atenderá conforme a lo previsto en la Ley 10/2001, de 5 de julio, del Plan Hidrológico Nacional, ni tampoco se verá afectado el régimen de las transferencias con origen o destino en las demarcaciones hidrográficas de las Cuencas Mediterráneas Andaluzas, del Guadalete y Barbate y del Tinto, Odiel y Piedras.

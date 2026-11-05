@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Régimen transitorio de las Apuestas Mutuas que comercializa la Sociedad Estatal Loterías y Apuestas del Estado.
+
+La Sociedad Estatal Loterías y Apuestas del Estado podrá seguir comercializando las apuestas pertenecientes a las modalidades Apuestas Mutuas Deportivas y Apuestas Mutuas Hípicas que venía realizando hasta la entrada en vigor de la Ley 13/2011, de 27 de mayo, de regulación del juego, sin necesidad de cumplir los requisitos establecidos en el presente real decreto ni aquellos requisitos técnicos que le resultaran de aplicación según la normativa de desarrollo hasta el día 1 de enero de 2012, fecha a partir de la cual le serán plenamente de aplicación los requisitos anteriormente citados.

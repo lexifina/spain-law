@@ -1,0 +1,1 @@
+Esta norma se deja sin efecto, desde el 14 de enero de 2015, por la disposición derogatoria única de la Orden ECC/4/2015, de 13 de enero. Ref. BOE-A-2015-286, salvo su anexo, que se deroga, con efectos de 20 de enero de 2022, por la disposición derogatoria única de la Orden ETD/18/2022, de 18 de enero de 2022. Ref. BOE-A-2022-861#dd

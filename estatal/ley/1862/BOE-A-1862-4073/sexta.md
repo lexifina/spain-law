@@ -1,0 +1,3 @@
+## Disposición transitoria sexta.
+
+Los dueños de oficios enajenados que renuncien en debida forma la indemnización de que tratan las disposiciones anteriores tendrán el derecho de presentar para sí, o de presentar por una sola vez en las Notarías que en los mismos pueblos o distrito reemplacen a los oficios suprimidos, a persona que reúna todos los requisitos prescritos en el artículo 10 de esta Ley. En este caso, los dueños o los así presentados no entrarán por oposición, pero sufrirán un examen riguroso en la forma que el Gobierno determine por regla general. Si el dueño o propuesto no reúne las circunstancias requeridas, o no obtuviese aprobación en el examen, podrá hacerse nueva presentación.

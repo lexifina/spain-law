@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+A partir de la entrada en vigor de este real decreto, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en él y, en particular, el Real Decreto 822/1990, de 22 de junio, por el que se aprueba la Reglamentación Técnico-Sanitaria para la elaboración, circulación y comercio del cacao y chocolate, a excepción del título VI, relativo a métodos de análisis, de la mencionada Reglamentación técnico-sanitaria, los cuales podrán ser complementados con los métodos de análisis validados internacionalmente o aprobados por el Codex, para verificar el cumplimiento de lo establecido en esta disposición.

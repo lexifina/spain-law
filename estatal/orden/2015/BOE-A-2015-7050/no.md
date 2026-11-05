@@ -1,0 +1,1 @@
+Norma derogada, de manera parcial en aquellas materias de ámbito competencial del Ministerio para la Transición Ecológica, por la disposición derogatoria única.1 de la Orden TEC/469/2019, de 15 de abril. Ref. BOE-A-2019-6203#dd

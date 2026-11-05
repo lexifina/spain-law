@@ -1,0 +1,21 @@
+## Disposición final tercera. Modificación del Real Decreto 865/2003, de 4 de julio, por el que se establecen los criterios higiénico-sanitarios para la prevención y control de la legionelosis.
+
+El artículo 13 queda redactado como sigue:
+
+«En las operaciones de mantenimiento higiénico-sanitario se podrá utilizar cualquiera de los desinfectantes que para tal fin haya autorizado la Dirección General de Salud Pública y Sanidad Exterior. Los sistemas físicos y físico-químicos deben ser de probada eficacia frente a Legionella y no deberán suponer riesgos para la instalación ni para la salud y seguridad de los operarios ni otras personas que puedan estar expuestas, debiéndose verificar su correcto funcionamiento periódicamente. Su uso se ajustará, en todo momento, a las especificaciones técnicas y régimen de dosificación establecidos por el fabricante.
+
+Se entiende por sistema físico el procedimiento de desinfección basado en la aplicación de equipos de filtración adecuados para la retención de bacterias, aplicación de radiación ultravioleta, aumento de la temperatura o cualquier otro sistema utilizado con el fin de retener o destruir la carga bacteriológica del agua sin introducir productos químicos ni aplicar procedimientos electroquímicos.
+
+Se entiende por sistema físico-químico el utilizado con el fin de destruir la carga bacteriológica del agua mediante la aplicación de procedimientos electroquímicos. Los sistemas físico-químicos deberán registrarse cuando así se establezca en la normativa reguladora de biocidas.
+
+En el caso de instalaciones interiores de agua de consumo humano fría y agua caliente sanitaria, los productos químicos utilizados para el tratamiento de las instalaciones deberán cumplir lo dispuesto a tal fin en el Real Decreto 140/2003, de 7 de febrero, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano.
+
+Las empresas que realicen tratamientos a terceros con productos biocidas en las instalaciones contempladas en el artículo 2 de este real decreto, deberán estar inscritas en el Registro Oficial de Establecimientos y Servicios Biocidas de la comunidad autónoma respectiva, a tenor de lo dispuesto en el artículo 27 del Real Decreto 1054/2002, de 11 de octubre, por el que se regula el proceso de evaluación para el registro, autorización y comercialización de biocidas.
+
+Todo el personal que trabaje en operaciones de mantenimiento higiénico-sanitario, deberá cumplir las disposiciones de la legislación vigente en materia de capacitación para realizar tratamientos con biocidas.
+
+Los desinfectantes que se utilicen en la desinfección de los equipos de terapia respiratoria reutilizables, deben cumplir lo dispuesto en el Real Decreto 1591/2009, de 16 de octubre, por el que se regulan los productos sanitarios, y deben ser aplicados siguiendo los procedimientos que figuran en sus instrucciones de uso.
+
+Los antiincrustantes, antioxidantes, dispersantes y cualquier otro tipo de sustancias y mezclas químicas utilizados en los procesos de limpieza y tratamiento de las instalaciones cumplirán con los requisitos de clasificación, envasado y etiquetado y provisión de fichas de datos de seguridad a que les obliga el vigente marco legislativo de sustancias y mezclas peligrosas, y su uso no deberá representar un riesgo inaceptable para la salud de los profesionales que los aplican ni para la población en general.
+
+Todo ello, sin perjuicio de lo dispuesto en el Real Decreto 1054/2002, de 11 de octubre, por el que se regula el proceso de evaluación para el registro, autorización y comercialización de biocidas.»

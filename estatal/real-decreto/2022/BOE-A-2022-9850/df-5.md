@@ -1,0 +1,13 @@
+## Disposición final quinta. Modificación de la Orden del Ministerio de Trabajo y Asuntos Sociales, de 18 de julio de 1997, para el desarrollo del Real Decreto 148/1996, de 5 de febrero, por el que se regula el procedimiento especial para el reintegro de las prestaciones de la Seguridad Social indebidamente percibidas.
+
+La Orden del Ministerio de Trabajo y Asuntos Sociales, de 18 de julio de 1997, para el desarrollo del Real Decreto 148/1996, de 5 de febrero, por el que se regula el procedimiento especial para el reintegro de las prestaciones de la Seguridad Social indebidamente percibidas, queda modificada como sigue:
+
+Uno. El apartado 2 del artículo 13 queda redactado en los siguientes términos:
+
+> «2. En los supuestos en que no haya sido posible aplicar el procedimiento de reintegro por descuento o en los que habiéndose aplicado dicho procedimiento, por fallecimiento del deudor, extinción de la prestación que aquel viniere percibiendo o por cualquier otra causa, no fuera posible seguir efectuando los descuentos necesarios para cancelar la deuda en el plazo correspondiente, de acuerdo con lo previsto en el artículo 10, la entidad gestora comunicará a la Tesorería General de la Seguridad Social, por medios telemáticos, informáticos o electrónicos, la cuantía pendiente de pago y los demás datos necesarios para su recaudación, con la finalidad de que esta inicie el procedimiento de gestión recaudatoria previsto en el Reglamento General de Recaudación de la Seguridad Social, aprobado por el Real Decreto 1415/2004, de 11 de junio, garantizando el acceso de dicho Servicio Común, preferentemente por medios electrónicos, informáticos o telemáticos, a la resolución o acuerdo firme que declare la prestación como indebidamente percibida y al resto de información y documentación asociada a la deuda que permita la gestión de la misma y, en especial, en materia de responsabilidad mortis causa e impugnaciones.»
+
+Dos. El apartado 1 de la disposición adicional tercera queda redactado en los siguientes términos:
+
+> «1. La ampliación del plazo de cinco años para cancelar la deuda contemplada en el artículo 10.2 no será de aplicación cuando el importe bruto de la pensión o pensiones percibidas por el deudor sea inferior o igual al importe de la pensión de jubilación e invalidez en la modalidad no contributiva.
+
+> En este caso, la entidad gestora comunicará a la Tesorería General de la Seguridad Social el importe de la deuda pendiente de pago y los demás datos necesarios para su recaudación, a fin de que por esta se inicie el procedimiento de gestión recaudatoria conforme se indica en el artículo 13.2.»

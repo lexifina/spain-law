@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Determinación de la duración del subsidio por desempleo para los trabajadores fijos discontinuos.
+
+A los exclusivos efectos de determinar la duración del subsidio por desempleo de los trabajadores fijos discontinuos a que se refiere el artículo 277.4 del texto refundido de la Ley General de la Seguridad Social, aprobado por el Real Decreto legislativo 8/2015, de 30 de octubre, se entenderán como trabajados los periodos durante los cuales aquellos hayan sido beneficiarios de cualquiera de las medidas previstas en el artículo 25.6 del Real Decreto-ley 8/2020, de 17 de marzo, de medidas urgentes extraordinarias para hacer frente al impacto económico y social del COVID-19.

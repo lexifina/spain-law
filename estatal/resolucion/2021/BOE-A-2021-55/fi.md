@@ -1,0 +1,1 @@
+Madrid, 23 de diciembre de 2020.–La Directora de la Agencia Estatal de Seguridad Aérea, P. D. (Resolución de 17 de diciembre de 2020), el Director de Seguridad de la Aviación Civil y Protección al Usuario, Juan David Nieto Sepúlveda.

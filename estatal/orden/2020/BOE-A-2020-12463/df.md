@@ -1,0 +1,3 @@
+## Disposición final primera. Obligaciones tributarias.
+
+Las ayudas recibidas como consecuencia del Programa Renove 2020 están sujetas a Ley 35/2006, de 28 de noviembre, del Impuesto sobre la Renta de las Personas Físicas y de modificación parcial de las leyes de los Impuestos sobre Sociedades, sobre la Renta de no Residentes y sobre el Patrimonio, por lo que se deberá incluir el importe de la ayuda pública recibida en 2021 en el apartado: «Ganancias Patrimoniales» de la correspondiente declaración. Sólo se deberán incluir los importes de las ayudas recibidas por el Estado, y no se considerarán para su cálculo los descuentos realizados, en su caso, por el concesionario.

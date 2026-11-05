@@ -1,0 +1,7 @@
+## Disposición final tercera. Incorporación de derecho de la Unión Europea.
+
+1. Mediante este real decreto se incorpora parcialmente al derecho español la Directiva 2014/40/UE del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de fabricación, presentación y venta de los productos del tabaco y los productos relacionados y por la que se deroga la Directiva 2001/37/CE.
+
+Asimismo, se incorpora al derecho español la Directiva Delegada 2014/109/UE de la Comisión, de 10 de octubre de 2014, que modifica el anexo II de la Directiva 2014/40/UE del Parlamento Europeo y del Consejo estableciendo la biblioteca de advertencias gráficas que han de utilizarse en los productos del tabaco.
+
+2. Las referencias hechas en la normativa vigente a la Directiva 2001/37/CE del Parlamento Europeo y del Consejo, de 5 de junio de 2001, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de fabricación, presentación y venta de los productos del tabaco, se entenderán hechas a la Directiva 2014/40/UE del Parlamento Europeo y del Consejo, de 3 de abril de 2014, relativa a la aproximación de las disposiciones legales, reglamentarias y administrativas de los Estados miembros en materia de fabricación, presentación y venta de los productos del tabaco y los productos relacionados y por la que se deroga la Directiva 2001/37/CE.

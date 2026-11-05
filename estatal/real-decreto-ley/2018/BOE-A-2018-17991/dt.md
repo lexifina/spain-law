@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Plazos de renuncias y revocaciones al método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas y a los regímenes especiales simplificado y de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido, para el año 2019.
+
+1. El plazo de renuncias al que se refieren los artículos 33.1.a) del Reglamento del Impuesto sobre la Renta de las Personas Físicas aprobado por el Real Decreto 439/2007, de 30 de marzo, y el artículo 33.2, párrafo segundo, del Reglamento del Impuesto sobre el Valor Añadido, aprobado por el Real Decreto 1624/1992, de 29 de diciembre, así como la revocación de las mismas, que deben surtir efectos para el año 2019, será de un mes a partir del día siguiente a la fecha de publicación en el «Boletín Oficial del Estado» del presente real decreto-ley.
+
+2. Las renuncias y revocaciones presentadas, para el año 2019, a los regímenes especiales simplificado y de la agricultura, ganadería y pesca del Impuesto sobre el Valor Añadido o al método de estimación objetiva del Impuesto sobre la Renta de las Personas Físicas, durante el mes de diciembre de 2018, se entenderán presentadas en período hábil.
+
+No obstante, los sujetos pasivos afectados por lo dispuesto en el párrafo anterior, podrán modificar su opción en el plazo previsto en el apartado 1 anterior.

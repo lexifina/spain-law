@@ -1,0 +1,3 @@
+## Disposición adicional primera. Placa de Identificación Personal.
+
+El personal de la Guardia Civil utilizará la Placa de Identificación Personal regulada en la norma 18.ª de la Orden DEF/1756/2016, de 28 de octubre, por la que se aprueban las normas de uniformidad de las Fuerzas Armadas cuando se integre en estructuras militares de las Fuerzas Armadas en el marco de misiones internacionales, así como cuando lleven a cabo misiones de carácter militar en operaciones, maniobras o ejercicios de instrucción en territorio nacional, siempre que así se establezca y en las condiciones que se determinen para el propio personal de las Fuerzas Armadas.

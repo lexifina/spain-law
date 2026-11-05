@@ -1,0 +1,3 @@
+## Disposición final novena. Habilitación para el establecimiento de prescripciones técnicas provisionales.
+
+El Ministro de Industria, Energía y Turismo, en atención al progreso de la técnica y a petición justificada de parte interesada, podrá autorizar, con carácter provisional, previo acuerdo de la Comisión Delegada del Gobierno para Asuntos Económicos, y mediante orden que se publicará en el «Boletín Oficial del Estado», prescripciones técnicas alternativas a las previstas en la Instrucción técnica complementaria BT-52, a condición de que posibiliten un nivel de seguridad al menos equivalente a las anteriores, en tanto se procede a la oportuna modificación de dicha instrucción.

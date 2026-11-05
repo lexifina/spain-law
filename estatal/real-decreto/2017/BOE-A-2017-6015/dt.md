@@ -1,0 +1,3 @@
+## Disposición transitoria única. Adaptación de las organizaciones de productores y asociaciones de organizaciones de productores.
+
+Los cambios introducidos en el presente real decreto que requieran su adopción por la Asamblea General de la entidad, o en su caso, por la Junta General de accionistas si así esté dispuesto en sus estatutos, o en su reglamento de régimen interno, o en la normativa específica que regula su personalidad jurídica, deberán adoptarse por las organizaciones de productores y las asociaciones de organizaciones de productores en la primera Asamblea General, o en su caso Junta General de accionistas, que celebren, no pudiendo sobrepasar el plazo de un año desde la entrada en vigor del mismo.

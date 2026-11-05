@@ -1,0 +1,5 @@
+## Disposición transitoria sexta.
+
+1. La tramitación y efectos de los expedientes sobre declaración de bienes inmuebles de valor histórico-artístico incoados con anterioridad a la entrada en vigor de esta Ley se regirán por la normativa en virtud de la cual han sido iniciados, pero su resolución se efectuará en todo caso mediante Real Decreto, y con arreglo a las categorías previstas en el artículo 14.2 de la presente Ley.
+
+2. En los Conjuntos Históricos ya declarados que dispongan de un Plan Especial de Protección u otro instrumento de planeamiento del área afectada por la declaración, aprobado con anterioridad a la entrada en vigor de esta Ley, la autorización de obras se regirá por lo dispuesto en el artículo 20.3 hasta que no se haya obtenido de la Administración competente el informe favorable sobre el instrumento de planeamiento a aplicar. A estos efectos se entenderá emitido informe favorable transcurrido un año desde la presentación del Plan sin que haya recaído resolución expresa.

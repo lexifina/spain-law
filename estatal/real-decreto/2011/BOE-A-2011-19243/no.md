@@ -1,0 +1,1 @@
+Norma derogada, desde el 13 de diciembre de 2025, si bien la derogación tendrá efectos a partir de la primera convocatoria que se publique para el ejercicio 2027, según establecen las disposiciones derogatoria única y final 3 del Real Decreto 1133/2025, de 10 de diciembre. Ref. BOE-A-2025-25393#dd

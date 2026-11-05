@@ -1,0 +1,3 @@
+## Disposición transitoria única. Centros Nacionales de Formación Profesional Ocupacional.
+
+Los Centros Nacionales de Formación Profesional Ocupacional, regulados en el artículo 17 del Real Decreto 631/1993, de 3 de mayo, por el que se regula el Plan Nacional de Formación e Inserción Profesional, podrán ser calificados como Centros de Referencia Nacional, a efectos de lo dispuesto en el artículo 5.4 del presente real decreto, siempre que, en el plazo de doce meses, a partir de la entrada en vigor del mismo, se adapten a las condiciones y requisitos establecidos en la presente norma. La solicitud para la calificación de un Centro Nacional como Centro de Referencia Nacional corresponderá a la Administración titular del mismo.

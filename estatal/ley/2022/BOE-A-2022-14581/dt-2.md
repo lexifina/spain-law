@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Aplicación de las modificaciones realizadas en los artículos 21 y 22 de la Ley 14/2011, de 1 de junio.
+
+Las modificaciones de los párrafos a), c) y e) del artículo 21 y del artículo 22.1.g) de la Ley 14/2011, de 1 de junio, que dispone el artículo único, serán de aplicación a los contratos predoctorales y de acceso al Sistema Español de Ciencia, Tecnología e Innovación que se encuentren vigentes a la entrada en vigor de esta ley, así como a los contratos predoctorales y de acceso de personal investigador doctor que se suscriban a partir de su entrada en vigor.

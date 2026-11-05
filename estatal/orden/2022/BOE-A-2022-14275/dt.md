@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Obligaciones de llevanza de contabilidad de existencias a la entrada en vigor de la Ley 14/2022, 8 de julio, de modificación de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, con el fin de regular las estadísticas de las microempresas, pequeñas y medianas empresas (PYME) en la contratación pública.
+
+Quienes realicen la fabricación de gases objeto del impuesto y los almacenistas de gases fluorados deberán incluir en su contabilidad de existencias la cantidad de gases fluorados de efecto invernadero objeto del Impuesto sobre los Gases Fluorados de Efecto Invernadero existentes en sus establecimientos a 1 de septiembre de 2022.

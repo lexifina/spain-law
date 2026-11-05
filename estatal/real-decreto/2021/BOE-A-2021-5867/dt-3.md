@@ -1,0 +1,9 @@
+## Disposición transitoria tercera. Revisiones generales de las presas que se encuentran en explotación.
+
+1. Los titulares de presas que a la entrada en vigor del real decreto hubiesen realizado la revisión general de seguridad conforme a la normativa anterior, estarán obligados a analizar su adecuación a lo establecido en la «Norma Técnica de Seguridad para la explotación, revisiones de seguridad y puesta fuera de servicio de las presas y sus embalses», en el plazo máximo de cinco años.
+
+2. Las evaluaciones de revisiones generales de seguridad de las presas que se encuentren en tramitación a la entrada en vigor del real decreto, se realizarán por la Administración competente en materia de seguridad de presas y embalses de acuerdo con las disposiciones vigentes en el momento de la solicitud de la evaluación, no obstante, sus titulares estarán obligados a analizar su adecuación a lo establecido en la «Norma Técnica de Seguridad para la explotación, revisiones de seguridad y puesta fuera de servicio de las presas y sus embalses», en el plazo máximo de cinco años.
+
+3. Aquellos titulares de presas que no hubieran efectuado la primera revisión general de seguridad, estando obligados a realizarla conforme a la normativa anterior, deberán presentarla ante la Administración competente en materia de seguridad de presas y embalses en el plazo máximo de tres años, sin perjuicio de los procedimientos sancionadores ya iniciados y que se encuentren en fase de tramitación.
+
+4. Los titulares de aquellas presas que a la entrada en vigor de este real decreto estén obligados a efectuar revisiones periódicas de su seguridad, no habiendo estado obligados a realizarla conforme a la normativa anterior, llevarán a cabo la primera de ellas y la presentarán ante la Administración competente en materia de seguridad de presas y embalses en el plazo máximo de 5 años para las presas clasificadas en la Categoría A y B y 10 años para las de Categoría C.

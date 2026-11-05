@@ -1,0 +1,3 @@
+## Artículo cuarto.
+
+La situación de excedencia por período no superior a tres años para atender al cuidado de cada hijo tendrá la consideración de situación asimilada al alta para obtener las prestaciones por desempleo. Dicho período no podrá computarse como de ocupación cotizada para obtener las prestaciones por desempleo, pero a efectos de este cómputo se podrá retrotraer el período de los seis años anteriores a la situación legal de desempleo, o al momento en que cesó la obligación de cotizar, establecido en los artículos 207 y 210 del texto refundido de la Ley General de la Seguridad Social, aprobada por Real Decreto legislativo 1/1994, de 20 de junio, por el tiempo equivalente al que el trabajador hubiera permanecido en la situación de excedencia forzosa.

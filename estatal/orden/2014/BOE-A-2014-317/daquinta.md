@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Medidas para promover la participación de las pequeñas y medianas empresas.
+
+Las Administraciones públicas competentes adoptarán las medidas oportunas para promover la participación de las pequeñas y medianas empresas en la formación profesional dual a través del contrato para la formación y el aprendizaje; en particular, impulsarán la modalidad de teleformación en la impartición de la formación ofertada por la red de centros de formación profesional con el objeto de favorecer el acceso a la actividad formativa inherente al contrato para la formación y el aprendizaje de todos los trabajadores, especialmente de las pequeñas y medianas empresas, en cualquier momento y lugar.

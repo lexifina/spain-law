@@ -1,0 +1,3 @@
+## Disposición adicional primera. Funcionarios del Cuerpo de Profesores de Música y Artes Escénicas de especialidades anteriores a la Ley Orgánica 1/1990, de 3 de octubre, de Ordenación General del Sistema Educativo.
+
+Los titulares de las antiguas especialidades existentes a la entrada en vigor del Real Decreto 989/2000, de 2 de junio, que fueron adscritos a especialidades reguladas en dicho real decreto, que se relacionan en el anexo V, impartirán, con carácter obligatorio y preferente, las asignaturas de las enseñanzas profesionales de la ordenación establecida en la Ley Orgánica 2/2006, de 3 de mayo, de Educación, que se especifican en dicho anexo, sin perjuicio de que la asignación de estas mismas asignaturas pueda recaer sobre titulares de otras especialidades.

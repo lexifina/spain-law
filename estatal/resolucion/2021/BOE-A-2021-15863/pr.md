@@ -1,0 +1,5 @@
+El artículo decimocuarto de la Ley 11/2021, de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal, de transposición de la Directiva (UE) 2016/1164, del Consejo, de 12 de julio de 2016, por la que se establecen normas contra las prácticas de elusión fiscal que inciden directamente en el funcionamiento del mercado interior, de modificación de diversas normas tributarias y en materia de regulación del juego, modifica el artículo 14.1 del texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo, e introduce los apartados f) y g) que añaden dos supuestos nuevos en el procedimiento de incorporación mediante comunicaciones, encomendando a la Dirección General del Catastro la determinación de los términos y condiciones que deben cumplirse para que se pueda llevar a cabo la incorporación de los hechos, actos y negocios susceptibles de generar un alta, baja o modificación catastral por medio de este procedimiento.
+
+Así, la presente Resolución viene a determinar cuáles son esas condiciones y términos.
+
+En virtud de lo anterior dispongo:

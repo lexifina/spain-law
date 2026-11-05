@@ -1,0 +1,3 @@
+## Disposición adicional primera.
+
+Los desempleados que se encuentren percibiendo el subsidio especial por desempleo para parados de larga duración mayores de cuarenta y cinco años previsto en el número 3 del artículo 13 de la Ley 31/1984, de 2 de agosto, de Protección por Desempleo, en la redacción dada por el artículo 20 del presente Real Decreto-ley, se considerarán en todo caso incluidos entre los perceptores del subsidio por desempleo, a que se refiere la letra b), artículo 5.°, del Real Decreto 2364/1985, de 18 de diciembre, por el que se regula el complemento de protección familiar por hijo a cargo, en razón de menores ingresos del beneficiario, en el sistema de la Seguridad Social.

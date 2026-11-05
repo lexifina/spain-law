@@ -1,0 +1,1 @@
+Norma derogada, salvo el art. 5 y las disposiciones adicionales 2 y 7, con efectos de 1 de mayo de 2010, por el apartado 15 de la disposición derogatoria de la Ley 7/2010, de 31 de marzo. Ref. BOE-A-2010-5292#dd.

@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Prórroga de la Orden TMS/83/2019, de 31 de enero, por la que se desarrollan las normas legales de cotización a la Seguridad Social, desempleo, protección por cese de actividad, Fondo de Garantía Salarial y formación profesional para el ejercicio 2019.
+
+En tanto no se oponga a lo dispuesto en este real decreto-ley, en materia de cotización a la Seguridad Social se mantendrá la aplicación de la Orden TMS/83/2019, de 31 de enero, por la que se desarrollan las normas legales de cotización a la Seguridad Social, desempleo, protección por cese de actividad, Fondo de Garantía Salarial y formación profesional para el ejercicio 2019.

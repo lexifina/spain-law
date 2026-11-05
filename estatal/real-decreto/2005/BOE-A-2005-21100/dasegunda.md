@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Publicación de precios e índices de precios de los mercados
+
+La Comisión Nacional de Energía calculará y publicará los precios finales e índices de precios medios de la energía eléctrica con carácter horario para lo cual, el Operador del Mercado y el Operador del Sistema le remitirán la información necesaria sobre los mercados y servicios que cada uno gestiona; asimismo podrá solicitar a las sociedades rectoras de los mercados a plazo en el ámbito del MIBEL, donde se negocie energía con entrega física, la información que resulte necesaria a estos efectos.
+
+La Comisión Nacional de Energía publicará por vía telemática la información relevante en los términos previstos en el artículo 28 del Real Decreto-ley de 23 de junio, de medidas urgentes, de intensificación de la competencia en mercados de bienes y servicios, modificado por el artículo vigésimo del Real Decreto-ley 5/2005, de 11 de marzo, de reformas urgentes para el impulso a la productividad y para la mejora de la contratación pública.

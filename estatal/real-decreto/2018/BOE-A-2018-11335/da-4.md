@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Equipamiento.
+
+El Ministerio de Educación y Formación Profesional dotará a la Escuela de Arte de Ceuta con el equipamiento adecuado para garantizar la calidad de las enseñanzas del ciclo formativo de Grado Medio de Artes Plásticas y Diseño en Asistencia al Producto Gráfico Interactivo, conforme al Real Decreto 1435/2012, de 11 de octubre y a la Orden ECD/1564/2013, de 2 de agosto, así como las enseñanzas del Bachillerato en la modalidad de Artes, conforme al Real Decreto 132/2010, de 12 de febrero, y al Real Decreto 1105/2014, de 26 de diciembre, con las dotaciones presupuestarias de las que dispone.

@@ -1,0 +1,3 @@
+## Segundo.
+
+En el caso de que deban convocarse nuevas elecciones en algún municipio de la provincia, bien por no haberse presentado ninguna candidatura, bien por haberse anulado total o parcialmente el proceso como consecuencia de los correspondientes recursos contencioso-electorales, no se pospondrá la constitución de la Diputación Provincial, si bien, en el supuesto de que como consecuencia de la celebración de elecciones locales parciales se altere la atribución de puestos en la Diputación Provincial, las Juntas Electorales de Zona deberán realizar las operaciones necesarias para hacer una nueva asignación.

@@ -1,0 +1,3 @@
+## Primero.
+
+Las minutas de los Notarios y Registradores de la Propiedad y Mercantiles, además de cumplir las normas anteriormente citadas, expresarán separadamente, y con la debida claridad, cada uno de los conceptos por los que se haya devengado derechos arancelarios, con expresión individualizada del número de arancel aplicado, concepto minutable, base aplicada o expresión de que es sin cuantía, honorarios que comporta cada concepto, y total de honorarios, sin que por ninguna razón se puedan agrupar globalmente los números y cantidades correspondientes a distintos conceptos. También expresarán la forma en la que se han obtenido los valores para la aplicación del arancel y los suplidos si los hubiere.

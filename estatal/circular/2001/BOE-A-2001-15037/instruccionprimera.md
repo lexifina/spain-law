@@ -1,0 +1,19 @@
+## Instrucción primera. Definiciones.
+
+1. Residencia: Para determinar la residencia, o no residencia, de las entidades y personas físicas o jurídicas obligadas a informar, de los emisores, o de los tenedores, de los valores negociables, y de las contrapartidas de las operaciones y saldos, objeto de información de acuerdo con las normas de la presente circular, se tendrán en cuenta los conceptos de residencia y no residencia establecidos en la Ley 40/1979, de 10 de diciembre, sobre Régimen Jurídico de Control de Cambios y sus normas de desarrollo.
+
+La clasificación de los valores entre «emitidos por residentes» y «emitidos por no residentes» se realizará teniendo en cuenta la residencia del emisor, y no el mercado en el que se emitan o la moneda en que se denominen. Del mismo modo, la clasificación por país de las contrapartidas se efectuará teniendo en cuenta su país de residencia, con independencia del sistema a través del cual tenga lugar la contratación o liquidación de las operaciones.
+
+Los certificados representativos de valores, cuya emisión se realiza exclusivamente para facilitar la negociación de un valor en un mercado distinto de aquel en el que se emiten (como por ejemplo los «depositary receipts»), se clasificarán atendiendo a la residencia del emisor del valor que representan dichos certificados, y no se tendrá en cuenta la residencia del emisor de los certificados.
+
+2. Valor negociable: La información a que se refiere la presente circular se facilitará con respecto a los valores que se detallan a continuación, cuando cumplan con el requisito de «negociabilidad» a que se refiere la Ley 24/1988, de 28 de julio, del Mercado de Valores en el apartado 2 de su exposición de motivos:
+
+2.1 Valores de renta variable: Aquellos que, entre otros, confieren al titular derechos sobre el valor residual de las sociedades que los emiten, una vez liquidados los derechos de sus acreedores. Entre estos valores se incluyen las acciones, y cualesquiera otros que incorporen carácter de participación en el capital de las empresas, tales como los certificados representativos de acciones («depositary receipts»), y las acciones preferentes, cuando dan derecho a una participación en la distribución del valor residual de la sociedad emisora. Así mismo se incluirán en este concepto las acciones de sociedades de inversión colectiva, y los derechos de suscripción de los valores mencionados.
+
+2.2 Participaciones en fondos de inversión: No se incluirán en este concepto las acciones de sociedades de inversión colectiva.
+
+2.3 Bonos y obligaciones: Valores representativos de empréstitos emitidos con vencimiento inicial a más de un año. Se incluyen los bonos y obligaciones (convertibles en acciones o no convertibles, de cupón cero, indexados, de interés fijo o flotante, de doble moneda, los bonos u obligaciones perpetuos, o de amortización optativa, etc.), las cédulas hipotecarias y otros valores similares con respaldo de activos, las acciones preferentes que no dan derecho a una participación en la distribución del valor residual de la sociedad emisora, los «strips», las aceptaciones bancarias, los pagarés, los certificados de depósito y las notas. En ningún caso se incluirán como bonos y obligaciones las letras del tesoro, aunque su plazo de amortización sea superior a un año.
+
+2.4 Instrumentos del mercado monetario: Valores representativos de empréstitos emitidos generalmente con vencimiento inicial a un año o menos. Se incluyen aquellos valores que se negocian con descuento tales como las letras del tesoro (incluidas las emitidas con plazo superior a un año), las emisiones de papel comercial o financiero, los «strips», las aceptaciones bancarias, los pagarés, los certificados de depósito y las notas.
+
+No se incluirán en la información a facilitar las operaciones y saldos de instrumentos financieros derivados (futuros, opciones, etc.), aunque se negocien en mercados organizados, ni de «warrants».

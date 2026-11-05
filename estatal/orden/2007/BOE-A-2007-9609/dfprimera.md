@@ -1,0 +1,5 @@
+## Disposición final primera. Tasa aplicable a partir de la entrada en vigor de la Orden ministerial por la que se establezca el importe de las tasas por concesión de autorizaciones administrativas y expedición de documentos en materia de inmigración y extranjería.
+
+Según lo previsto en el artículo 48 de la Ley Orgánica 4/2000, sobre derechos y libertades de los extranjeros en España y su integración social, y teniendo en cuenta el coste de la actividad llevada a cabo por la Administración General del Estado, producido por la tramitación de la solicitud del interesado, del certificado o informe que constituye la Carta de invitación objeto de la presente norma, serán aplicables a dicha tramitación las previsiones de la Orden ministerial por la que se establezca el importe de las tasas por concesión de autorizaciones administrativas y expedición de documentos en materia de inmigración y extranjería.
+
+La tasa se devengará, según lo previsto en el apartado Cuarto de la presente Orden, cuando se expida el documento.

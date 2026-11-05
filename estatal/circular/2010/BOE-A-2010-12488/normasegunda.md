@@ -1,0 +1,7 @@
+## Norma segunda. Declaración de acuerdos con entidades extranjeras.
+
+Las entidades de crédito españolas comunicarán al Banco de España (Departamento de Instituciones Financieras), en el plazo de un mes desde la fecha de firma de los correspondientes acuerdos, la información que se indica en el anejo 3 de la presente Circular sobre las entidades de crédito extranjeras con las que hayan celebrado acuerdos para la prestación habitual en España de servicios financieros a la clientela de dichas entidades extranjeras, en nombre y por cuenta de la entidad extranjera. No se incluirán en la referida comunicación los acuerdos de corresponsalía, entendidos estos como los específicos en los que la entidad española realiza exclusivamente ingresos y pagos por cuenta de la entidad extranjera.
+
+En el mismo plazo de un mes, y en igual formato, habrán de comunicarse la cancelación de los indicados acuerdos o cualquier variación en los datos previamente comunicados.
+
+En caso de acuerdos alcanzados con entidades de crédito extranjeras para la prestación recíproca de servicios financieros, los poderes otorgados a la entidad extranjera para que actúe en nombre y por cuenta de la española han de declararse, si procede por el alcance de las funciones que se han de desarrollar, en la relación prevista en el anejo 1 de conformidad con lo establecido en el apartado 1 de la norma primera, mientras que los concedidos a la entidad española para operar en España en nombre y por cuenta de la extranjera deberán ser declarados según lo establecido en el primer párrafo de esta norma.

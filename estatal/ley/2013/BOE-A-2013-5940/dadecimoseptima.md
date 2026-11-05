@@ -1,0 +1,3 @@
+## Disposición adicional decimoséptima. Fomento de la corregulación publicitaria.
+
+La Comisión Nacional de los Mercados y la Competencia podrá firmar acuerdos de corregulación que coadyuven el cumplimiento de los objetivos establecidos en esta Ley, en particular, en relación con el control del cumplimiento de las obligaciones, las prohibiciones y los límites al ejercicio del derecho a realizar comunicaciones comerciales audiovisuales, con aquellos sistemas de autorregulación publicitaria que cumplan lo previsto en el artículo 37.4 de la Ley 3/1991, de 10 de enero, de competencia desleal. En el acuerdo se determinarán los efectos reconocidos a las actuaciones del sistema de autorregulación.

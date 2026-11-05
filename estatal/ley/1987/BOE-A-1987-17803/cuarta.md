@@ -1,0 +1,3 @@
+## Disposición adicional cuarta.
+
+Como medida de armonización de las condiciones de competencia de los distintos modos de transporte y a fin de conseguir una igualación en las condiciones económicas de las mismas, de conformidad con los principios de la presente Ley, el Gobierno, en el plazo de veinticuatro meses a partir de la entrada en vigor de la misma, presentar a las Cortes un proyecto de Ley de creación de una tasa que deberán satisfacer las personas a cuyo favor se hallen expedidos los títulos habilitantes previstos en esta Ley para la realización de transporte por carretera. Para la determinación de la cuantía de dicha tasa se tendrán en cuenta las características de los vehículos que sean utilizados al amparo de los referidos títulos habilitantes.

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Cooperación con Portugal.
+
+La cooperación entre España y Portugal en las Demarcaciones Hidrográficas del Miño-Limia, Duero, Tajo y Guadiana, utilizará las estructuras existentes derivadas del Convenio sobre cooperación para la protección y aprovechamiento sostenible de las aguas de las cuencas hidrográficas hispano-portuguesas, hecho en Albufeira el 30 de noviembre de 1998. En las demarcaciones internacionales del Miño-Limia y del Guadiana la cooperación respecto a las aguas costeras y de transición se articulará de acuerdo con lo que se convenga entre las dos Partes.

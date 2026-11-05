@@ -1,0 +1,5 @@
+## Sexto. Incumplimiento de la obligación de información.
+
+El incumplimiento reiterado de la obligación de facilitar a la Comisión Nacional de Energía la información establecida mediante la presente Circular, previa la instrucción del correspondiente procedimiento sancionador, podrá ser sancionada como infracción muy grave, de conformidad con lo dispuesto en el artículo 109 j) de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y en el artículo 60.9 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.
+
+Asimismo, el incumplimiento no reiterado de la obligación de facilitar a la Comisión Nacional de Energía la información establecida mediante la presente Circular podrá ser considerada, previa la instrucción del correspondiente procedimiento sancionador, como infracción grave de conformidad con lo dispuesto en el artículo 110 f) de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, y en el artículo 61.5 de la Ley 54/1997, de 27 de noviembre, del Sector Eléctrico.

@@ -1,0 +1,7 @@
+## Disposición final primera. Desarrollo.
+
+1. Para la interconexión entre España y Francia, en un plazo máximo de un mes a partir de la publicación de esta Orden, el Operador del Sistema, en cooperación con su homólogo francés, deberá presentar al Ministerio de Industria, Turismo y Comercio una propuesta de revisión de los procedimientos de operación que desarrollen lo establecido para la aplicación de la Fase 1 del mecanismo de gestión de congestiones descrito en el Anexo I de esta Orden. En el mismo plazo, el Operador del Mercado deberá presentar al Ministerio de Industria, Turismo y Comercio una propuesta de adaptación de las reglas de funcionamiento del mercado de energía eléctrica a lo dispuesto en el mismo.
+
+2. El plazo para que el Operador del Sistema y el Operador de Mercado, en cooperación con sus respectivos homólogos franceses, presenten al Ministerio de Industria, Turismo y Comercio la propuesta de revisión de los procedimientos de operación y de reglas de mercado para la aplicación de la Fase 2 del mecanismo de gestión de congestiones descrito en el Anexo I de esta Orden, será de seis meses a contar desde la fecha de entrada en vigor de la Fase 1, de acuerdo con lo dispuesto en el apartado anterior.
+
+3. La fecha de entrada en vigor de la Fase 3 prevista en el Anexo I se fijará por la Secretaría General de la Energía mediante las correspondientes Resoluciones por las que se aprueben el procedimiento de operación del sistema y la adaptación de las reglas de funcionamiento del mercado correspondientes.

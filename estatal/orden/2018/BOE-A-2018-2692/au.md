@@ -1,0 +1,13 @@
+## Artículo único. Requisitos para la consideración como subproductos de los residuos de producción procedentes de la industria agroalimentaria.
+
+1. Los residuos de producción procedentes de la industria agroalimentaria, cuando se destinen a alimentación animal y estén incluidos en uno de los tres listados comunitarios de sustancias autorizadas para la alimentación animal, serán considerados subproductos, conforme a lo establecido en el artículo 4 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, siempre y cuando cumplan todos y cada uno de los requisitos establecidos en la legislación europea, estatal y autonómica relativas a la alimentación animal.
+
+2. Los listados comunitarios a los que se hace referencia en el apartado 1 deberán ser uno de los siguientes:
+
+a) Catálogo comunitario de materias primas, establecido por el Reglamento (UE) n.º 68/2013, de la Comisión, de 16 de enero de 2013.
+
+b) Registro comunitario de materias primas para alimentación animal (www.feedmaterialsregister.eu) al que se hace referencia en el artículo 24.6 del Reglamento (CE) n.º 767/2009, del Parlamento Europeo y del Consejo, de 13 de julio de 2009.
+
+c) Registro comunitario de aditivos, al que se hace referencia en el artículo 17 del Reglamento (CE) n.º 1831/2003, del Parlamento Europeo y del Consejo, de 22 de septiembre.
+
+3. En caso de que los requisitos mencionados en el apartado 1 no se cumplan, los residuos de producción procedentes de la industria agroalimentaria no serán considerados subproductos conforme a la Ley 22/2011, de 28 de julio, y por tanto no podrán ser destinados a alimentación animal, debiendo gestionarse conforme a lo establecido en la Ley 22/2011, de 28 de julio, con el fin de asegurar su correcta gestión y proteger adecuadamente la salud humana y el medio ambiente. En este caso, si los residuos de producción procedentes de la industria agroalimentaria fueran de origen animal, se aplicará la exclusión prevista en el artículo 2.2.b) de la Ley 22/2011, de 28 de julio, de forma que si se destinan a incineración, vertedero o fueran utilizados en una planta de biogás o de compostaje, será de aplicación la Ley 22/2011, de 28 de julio, y el Reglamento (CE) n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) n.º 1774/2002; mientras que si tuvieran otros destinos, será de aplicación el Reglamento (CE) n.º 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009 y solo se aplicaría la Ley 22/2011, de 28 de julio, en los aspectos no regulados por dicho Reglamento.

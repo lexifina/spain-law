@@ -1,0 +1,11 @@
+La disposición final tercera del texto refundido de la Ley sobre Seguridad Social de los Funcionarios Civiles del Estado, aprobado por Real Decreto Legislativo 4/2000, de 23 de junio, faculta al Ministro de Administraciones Públicas, previo informe, en su caso, de los Ministerios de Hacienda y de Trabajo y Asuntos Sociales, en el ámbito de sus respectivas competencias, para dictar o proponer al Gobierno, según proceda, las normas de aplicación y desarrollo de la ley.
+
+Por tanto, desde la publicación del citado texto está pendiente de dictarse un nuevo reglamento ejecutivo general de la norma, habiendo continuado en vigor –en lo que no se oponga al texto refundido–, el Reglamento General del Mutualismo Administrativo, aprobado por Decreto 843/1976, de 18 de marzo.
+
+Si no fuera evidente la necesidad de una nueva norma reglamentaria por la sola circunstancia del tiempo transcurrido desde la entrada en vigor del vigente reglamento, aquélla resultaría plenamente justificada por las propias apelaciones del texto refundido a desarrollos normativos que, lógicamente, no pueden encontrar respuesta adecuada con la aplicación de normas, en unos casos, preexistentes a las disposiciones legales que han sido objeto de refundición en el texto aprobado por el Real Decreto Legislativo 4/2000, de 23 de junio, y en otros, claramente desactualizadas.
+
+Como técnica normativa empleada para la elaboración del reglamento se ha seguido el criterio de ofrecer un desarrollo reglamentario con la misma sistemática y ordenación de materias que el texto refundido y de amplitud semejante al anterior. Y ello porque, a diferencia de la tendencia de los cuerpos legales más recientes, la antigua ley 29/1975, de 27 de junio, sobre Seguridad Social de los Funcionarios Civiles del Estado, núcleo fundamental del texto refundido, presenta una regulación poco extensa y ceñida a los contenidos principales en los ámbitos prestacional y organizativo de este régimen especial, disponiendo finalmente y de forma expresa una remisión de la ley a favor del reglamento.
+
+En su virtud, a propuesta del Ministro de Administraciones Públicas, con el informe preceptivo de los Ministerios de Hacienda y de Trabajo y Asuntos Sociales, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 28 de marzo de 2003,
+
+D I S P O N G O :

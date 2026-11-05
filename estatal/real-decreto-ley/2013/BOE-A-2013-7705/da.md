@@ -1,0 +1,3 @@
+## Disposición adicional primera. Rentabilidad razonable de las instalaciones de producción con derecho a régimen económico primado.
+
+A los efectos de lo previsto en el penúltimo párrafo del artículo 30.4 de la Ley 54/1997, de 27 de noviembre, para las instalaciones que a la fecha de la entrada en vigor del presente real decreto ley tuvieran derecho a un régimen económico primado, la rentabilidad razonable girará, antes de impuestos, sobre el rendimiento medio en el mercado secundario de los diez años anteriores a la entrada en vigor del presente real decreto-ley de las Obligaciones del Estado a diez años incrementada en 300 puntos básicos, todo ello, sin perjuicio de la revisión prevista en el último párrafo del citado artículo.

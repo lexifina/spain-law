@@ -1,0 +1,3 @@
+El Consejo de Ministros, en su reunión del día 19 de agosto de 2011 y a propuesta del Ministro de Industria, Turismo y Comercio, de la Vicepresidenta del Gobierno para Asuntos Económicos y Ministra de Economía y Hacienda y del Vicepresidente del Gobierno para Política Territorial y Ministro de Política Territorial y Administración Pública, ha adoptado un Acuerdo por el que se determina el marco de ejercicio de las competencias estatales en materia de factura electrónica, se crea el Foro Nacional Multilateral sobre facturación electrónica y se impulsa el Servicio Central de Gestión de la Facturación Electrónica en el ámbito de la Administración General del Estado.
+
+Para general conocimiento se dispone su publicación como anexo a la presente orden.

@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Ley 34/2006, de 30 de octubre, sobre el acceso a las profesiones de la Abogacía y la Procura", según establece el art. 1.1 de la Ley 15/2021, de 23 de octubre. Ref. BOE-A-2021-17276#ap

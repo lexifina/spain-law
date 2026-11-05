@@ -1,0 +1,11 @@
+Mediante el Real Decreto 1429/2003, de 21 de noviembre, por el que se regulan las condiciones de aplicación de la normativa comunitaria en materia de subproductos de origen animal no destinados al consumo humano, se han dictado las disposiciones específicas de aplicación en España del Reglamento (CE) n.º 1774/2002, del Parlamento Europeo y del Consejo, de 3 de octubre de 2002, por el que se establecen las normas sanitarias aplicables a los subproductos animales no destinados al consumo humano.
+
+El artículo 24 del Reglamento (CE) n.º 1774/2002, del Parlamento Europeo y del Consejo, de 3 de octubre de 2002, establece excepciones al régimen general de eliminación de los subproductos de origen animal. En aplicación de dicho precepto, el artículo 9.1.b) del Real Decreto 1429/2003, de 21 de noviembre, contempla los supuestos de incineración o enterramiento, realizados in situ en ambos casos, de determinados subproductos procedentes de zonas remotas.
+
+El citado Reglamento (CE) n.º 1774/2002, del Parlamento Europeo y del Consejo, de 3 de octubre de 2002, ha sido sustituido por el Reglamento (CE) n.º 1069/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) n.º 1774/2002, si bien este no es aplicable sino a partir del 4 de marzo de 2011, por lo que es preciso, por tanto, establecer los criterios básicos en base a los cuales las autoridades competentes puedan delimitar las zonas remotas, para posibilitar la aplicación de la antes mencionada excepción que contempla la reglamentación comunitaria aplicable en estos momentos. Por otro lado, idéntica excepción se prevé en el artículo 19.1.b) del Reglamento (CE) n.º 1069/2009, del Parlamento Europeo y del Consejo, de 21 de octubre de 2009.
+
+En la elaboración de la presente disposición han sido consultadas las comunidades autónomas y las entidades representativas de los sectores afectados.
+
+En su virtud, a propuesta de la Ministra de Medio Ambiente, y Medio Rural y Marino, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 10 de septiembre de 2010,
+
+DISPONGO:

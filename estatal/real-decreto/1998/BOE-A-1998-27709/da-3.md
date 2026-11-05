@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Efectos de la creación del título de Psicólogo Especialista en relación con otros profesionales.
+
+La creación del título oficial de Psicólogo Especialista en Psicología Clínica y la realización por estos titulados de diagnósticos, evaluaciones y tratamientos de carácter psicológico, se entenderá, sin perjuicio de las competencias que corresponden al médico o al especialista en psiquiatría, cuando la patología mental atendida exija la prescripción de fármacos o cuando de dicha patología se deriven procesos biológicos que requieran la intervención de los citados profesionales.

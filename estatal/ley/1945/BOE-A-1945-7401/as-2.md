@@ -1,0 +1,3 @@
+## Artículo sexto.
+
+Cuando la expropiación afecte a labrador o persona de condición económica modesta, y la propiedad a enajenar constituya una parte integrante del patrimonio indispensable a la subsistencia de aquél, podrá sustituirse el pago metálico, a voluntad del interesado, por la entrega de otra finca de parcela de análogo rendimiento, o, en su defecto, será apreciada, además del valor objetivo de la finca o parcela, una indemnización por perjuicios subjetivos, a favor del cultivador directo, bien sea propietario, arrendatario o aparcero, equivalente a cinco veces el beneficio líquido de cultivo medio de los cinco últimos años.

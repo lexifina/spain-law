@@ -1,0 +1,7 @@
+El artículo 11 del texto refundido de la Ley General de la Seguridad Social, aprobado por Decreto 2065/1974, de 30 de mayo, prevé la posibilidad de que a las personas comprendidas en el campo de aplicación del régimen general de la Seguridad Social se les pueda aplicar un sistema especial, exclusivamente en materia de encuadramiento, afiliación, forma de cotización y recaudación.
+
+En base a tal fundamento, se constituyeron los sistemas especiales relativos a frutas y hortalizas y conservas vegetales. Circunstancias entonces imperantes propiciaban unos determinados modelos de gestión que, con el transcurso del tiempo y las transformaciones operadas, han hecho inapropiados en la actualidad los tradicionales mecanismos de participación de los agentes sociales. Este hecho, unido a las importantes modificaciones habidas también tanto en los procesos productivos de los respectivos sectores como en el ámbito de la gestión de la Seguridad Social, aconsejan llevar a cabo ciertas modificaciones en la normativa reguladora de los aludidos sistemas especiales, dando acogida además a una mayor flexibilidad en algunos de los aspectos contemplados.
+
+Por otra parte, y como novedad más trascendental, se introducen los criterios que deben seguirse a fin de la consideración de los días festivos y de vacaciones como cotizados a efectos del reconocimiento del derecho a prestaciones.
+
+En su virtud, oídas las representaciones sindicales y empresariales de los sectores afectados y previo informe del Ministerio de Agricultura, Pesca y Alimentación, he dispuesto:

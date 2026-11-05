@@ -1,0 +1,3 @@
+## Undécimo.
+
+El cómputo de los plazos de caducidad de los asientos registrales que hubiesen quedado suspendidos en virtud de lo dispuesto en el artículo 42 del Real Decreto-ley 8/2020, de 17 de marzo, es decir, asientos de presentación, anotaciones preventivas, menciones, notas marginales y de cualesquiera otros asientos registrales susceptibles de cancelación por el transcurso del tiempo, seguirá en suspenso hasta el levantamiento de la suspensión en este ámbito. Lo mismo ocurrirá en relación con los plazos para formular alegaciones en los expedientes del artículo 199 de la Ley Hipotecaria y demás procedimientos registrales.

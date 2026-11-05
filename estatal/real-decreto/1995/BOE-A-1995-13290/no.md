@@ -1,0 +1,3 @@
+Norma derogada, con efectos de 4 de noviembre de 2009, por la disposición derogatoria única del Real Decreto 1635/2009, de 30 de octubre, Ref. BOE-A-2009-17431#ddunica, sin perjuicio de lo establecido en la disposición transitoria única, según la cual se seguirá aplicando hasta la publicación de la normativa que, en desarrollo del citado real decreto, regule la atención al alumnado con necesidad específica de apoyo educativo en el ámbito de gestión del Ministerio de Educación.
+
+Téngase en cuenta que la atención al alumnado con necesidad específica de apoyo educativo se ha regulado mediante la Orden EDU/849/2010, de 18 de marzo, por lo que el presente Real Decreto ha dejado de estar vigente. Ref. BOE-A-2010-5493.

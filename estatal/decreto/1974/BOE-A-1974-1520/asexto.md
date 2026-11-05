@@ -1,0 +1,3 @@
+## Artículo sexto.
+
+El cometido y funciones del Patronato, con independencia de los que reglamentariamente le correspondan, serán los de cooperar a la conservación y fomento del parque, promover la ejecución y mejora de los accesos precisos para visitar las zonas de mayor interés, gestionar la concesión de los medios económicos necesarios para que el parque cumpla sus fines específicos, defender las bellezas y particularidades del mismo con el fin de que estas sean respetadas por todos los visitantes y realizar cuantas gestiones considere convenientes en favor del parque. Igualmente propondrá cuantas medidas puedan ser beneficiosas para la integridad y mejora del Parque Nacional de Timanfaya.

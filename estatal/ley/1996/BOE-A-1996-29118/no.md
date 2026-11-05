@@ -1,0 +1,1 @@
+Se deroga esta norma, para las Comunidades Autónomas que cumplan los requisitos del nuevo sistema de financiación, por la disposición derogatoria única de la Ley 21/2001, de 27 de diciembre. Ref. BOE-A-2001-24962.

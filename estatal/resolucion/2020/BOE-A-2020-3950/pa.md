@@ -1,0 +1,3 @@
+El Secretario de Estado de Educación y el Secretario General de Universidades, han firmado, con fecha 10 de marzo de 2020, una Resolución conjunta por la que se establecen las adaptaciones de la evaluación de Bachillerato para el acceso a la Universidad a las necesidades y situación de los centros españoles situados en el exterior del territorio nacional, los programas educativos en el exterior, los programas internacionales, el alumnado procedente de sistemas educativos extranjeros y las enseñanzas a distancia, en el curso 2019-2020.
+
+Para general conocimiento, dispongo su publicación como anejo a la presente Resolución.

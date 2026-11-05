@@ -1,0 +1,7 @@
+## Disposición final duodécima. Aplicación de las modificaciones del Código de Comercio y del texto refundido de la Ley de Sociedades Anónimas.
+
+1. La modificación introducida por la presente Ley en el artículo 46 del Código de Comercio, se aplicará a las cuentas anuales consolidadas correspondientes a los ejercicios que se inicien a partir del 1 de enero de 2005, siempre que a la fecha de cierre del ejercicio alguna de las sociedades del grupo haya emitido valores admitidos a cotización en un mercado regulado de cualquier Estado miembro de la Unión Europea, en el sentido del punto 13 del artículo 1 de la Directiva 93/22/CEE del Consejo, de 10 de mayo de 1993, relativa a los servicios de inversión en el ámbito de los valores negociables, o que aun no habiendo emitido valores admitidos a cotización en un mercado regulado de cualquier Estado miembro de la Unión Europea, opten por la aplicación de las normas internacionales de contabilidad aprobadas por los Reglamentos de la Comisión Europea.
+
+2. La modificación introducida en los artículos 42, 48 y 49 del Código de Comercio, se aplicará a las cuentas anuales consolidadas correspondientes a los ejercicios que se inicien a partir del 1 de enero de 2005.
+
+3. La modificación introducida en los artículos 200, 201 y 202 del texto refundido de la Ley de Sociedades Anónimas, se aplicará a las cuentas anuales correspondientes a los ejercicios que se inicien a partir del 1 de enero de 2005.

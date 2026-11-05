@@ -1,0 +1,3 @@
+## Disposición adicional primera. Comunidades Autónomas con funciones y servicios traspasados en materia de función púbica inspectora.
+
+Lo dispuesto en estos Estatutos se debe interpretar en todo caso sin perjuicio de las competencias que correspondan a las Comunidades Autónomas que hayan recibido el traspaso de los funcionarios y de los servicios de Inspección de Trabajo. En el caso de estas Comunidades Autónomas, serán de aplicación los acuerdos de transferencia, así como los acuerdos adoptados en el seno del órgano de cooperación multilateral previsto en el apartado 2 de la disposición adicional octava de la Ley 23/2015, de 21 de julio.

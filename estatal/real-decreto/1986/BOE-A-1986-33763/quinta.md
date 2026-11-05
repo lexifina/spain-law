@@ -1,0 +1,3 @@
+## Disposición transitoria quinta
+
+A efectos de lo dispuesto en la disposición transitoria segunda de le Ley 26/1985, de 31 de julio, el período mínimo exigible para causar derecho a la pensión de jubilación a los artistas que estuvieran o hubieran estado, antes de 1 de enero de 1987, en alta en el Régimen Especial de Artistas, será el que resulte de sumar al período mínino establecido en el citado Régimen Especial antes de la entrada en vigor de la Ley 26/1985, de 31 de julio, la mitad del tiempo transcurrido entre dicha fecha y la del hecho causante de la jubilación, hasta que el período así determinado alcance los quince años.

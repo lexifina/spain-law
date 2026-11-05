@@ -1,0 +1,3 @@
+## Disposición adicional trigésima octava. Extracoste de generación de energía eléctrica insular y extrapeninsular.
+
+Durante el ejercicio 2012 queda en suspenso, respecto de los extracostes de generación correspondientes al año 2011, la aplicación del mecanismo de compensación con cargo a los Presupuestos Generales del Estado establecido en la Disposición adicional primera del Real Decreto-Ley 6/2009, de 30 de abril, por el que se adoptan determinadas medidas en el sector energético y se aprueba el bono social, sin que se genere derecho alguno ni proceda realizar compensación con cargo a los Presupuestos del corriente ejercicio 2012.

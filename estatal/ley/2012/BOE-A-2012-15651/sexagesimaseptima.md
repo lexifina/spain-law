@@ -1,0 +1,3 @@
+## Disposición adicional sexagésima séptima. Actualización de los límites máximos de la cuantía de aportación mensual de los usuarios en la cartera común suplementaria del Sistema Nacional de Salud.
+
+La actualización de los límites máximos de la cuantía de aportación mensual de los usuarios en la cartera común suplementaria del Sistema Nacional de Salud a la que se refiere el artículo 8 ter de la Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud, se actualizará, de forma automática, cada mes de enero en función del índice de precios al consumo de los doces meses anteriores. Dicha actualización se hará pública mediante resolución de la unidad competente del Ministerio de Sanidad, Servicios Sociales e Igualdad.

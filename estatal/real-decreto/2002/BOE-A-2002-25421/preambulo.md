@@ -1,0 +1,21 @@
+La Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, en su Título IV, establece las bases para introducir la competencia en el sector gasista, así como un nuevo modelo de mercado. En su disposición final segunda, la citada Ley establece que el Gobierno, en el ámbito de sus competencias, aprobará mediante Real Decreto las normas de desarrollo de la Ley.
+
+Dada la importancia de las reformas introducidas en la citada Ley, es necesario su desarrollo para dar respuesta a las nuevas situaciones que se están produciendo en el mercado del gas. Por una parte, el número de agentes implicados ha aumentado considerablemente y a partir del 1 de enero del año 2003 cualquier consumidor podrá elegir suministrador, lo que hace imprescindible la regulación de diferentes aspectos relativos a la actuación de los diferentes sujetos que actúan en el mercado.
+
+En este contexto, el presente Real Decreto tiene por objeto completar el marco normativo en el que han de desarrollarse las actividades relacionadas con el sector gas natural y comprende tres aspectos básicos. Por un lado, se determinan los requisitos necesarios para ejercer las distintas actividades (transporte, distribución y comercialización); por otro se regulan los aspectos relacionados con el suministro, y, por último, se desarrolla todo lo relativo al procedimiento de autorización administrativa de las instalaciones gasistas.
+
+El Real Decreto regula todos los aspectos relacionados con los requisitos relativos a acreditación de la capacidad legal, técnica y económica que deben cumplir las empresas para ejercer las actividades de transporte, distribución y comercialización de gas natural, así como los derechos y obligaciones de los mismos, lo que sin duda permitirá un marco claro de relaciones entre los distintos sujetos que actúan en el suministro de gas natural y favorecerá una estructura empresarial acorde con la importancia económica del sector considerado de interés económico general.
+
+En lo que respecta al suministro, se desarrollan todas las relaciones entre las empresas gasistas y los consumidores, tanto en el mercado regulado como en el liberalizado. Están incluidos en este Título la regulación de las acometidas y demás actuaciones necesarias para un nuevo suministro, los contratos de suministro en el mercado regulado, las causas de suspensión de suministro, la calidad de servicio y los procedimientos para el cambio de suministrador. Este último aspecto es de especial relevancia de cara al correcto funcionamiento de un mercado totalmente liberalizado, que exige la máxima seguridad, facilidad y rapidez en el cambio de suministrador, elemento clave para el desarrollo de un mercado competitivo.
+
+En relación con los procedimientos de autorización de instalaciones, en un sector en fuerte proceso inversor, se trata de conjugar la seguridad jurídica con la necesaria agilidad de los procedimientos administrativos, planteando procedimientos que eviten duplicidad de actuaciones en relación con temas medioambientales y aseguren en la medida de lo posible la concurrencia en instalaciones sometidas a planificación obligatoria.
+
+Por último, se regulan los procedimientos de inscripción en los registros administrativos, así como la necesaria participación de las Comunidades Autónomas para la actualización y mantenimiento de los mismos.
+
+Tal y como dispone la disposición final primera de la Ley 34/1998, del Sector de Hidrocarburos, la presente norma tiene carácter básico, de acuerdo con el artículo 149.1.13.a y 25.a de la Constitución, que atribuye al Estado competencias exclusivas sobre las bases y coordinación de la planificación general de la actividad económica y sobre las bases del régimen energético.
+
+De acuerdo con la disposición adicional undécima, apartado tercero, de la Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos, el presente Real Decreto ha sido sometido a informe preceptivo de la Comisión Nacional de Energía.
+
+En su virtud, a propuesta del Vicepresidente Segundo del Gobierno para Asuntos Económicos y Ministro de Economía, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 27 de diciembre de 2002,
+
+D I S P O N G O :

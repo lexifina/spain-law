@@ -1,0 +1,3 @@
+## Disposición adicional.
+
+Cuando, en el servicio a prestar por los Vigilantes de Seguridad, concurran circunstancias extraordinarias que impidan o desaconsejen el uso de las armas determinadas en el apartado decimonoveno de la Orden de 7 de julio de 1995, por lo que se da cumplimiento a diversos aspectos del Reglamento de Seguridad Privada, sobre personal, podrá utilizarse el arma larga rayada de repetición, determinada en el apartado primero de esa Orden, previa autorización de la Dirección General de la Guardia Civil, que resolverá teniendo en cuenta el informe de la Comisión Interministerial Permanente de Armas y Explosivos, y valorando las circunstancias concurrentes.

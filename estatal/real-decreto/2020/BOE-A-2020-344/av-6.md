@@ -1,0 +1,9 @@
+## ANEXO V.b
+
+## Módulo común de enseñanza deportiva: Bases del aprendizaje deportivo. Código: MED-C201
+
+El módulo común de enseñanza deportiva: Bases del aprendizaje deportivo. Código: MED-C201 está desarrollado en el anexo IV.b.
+
+> Se numera como Anexo V.b y se modifica por el art. 10.11.c) del Real Decreto 535/2026, de 30 de junio. Ref. BOE-A-2026-14333
+
+> Anteriormente estaba integrado en el Anexo V.

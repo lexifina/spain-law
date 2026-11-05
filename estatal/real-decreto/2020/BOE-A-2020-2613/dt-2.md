@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Sucursales y filiales en el extranjero de establecimientos financieros de crédito existentes a la fecha de entrada en vigor.
+
+Sin perjuicio del régimen aplicable, en su caso, a las entidades híbridas, las sucursales de establecimientos financieros de crédito españolas y las filiales de estos que a la fecha de entrada en vigor de este real decreto se encuentren establecidas en el extranjero no necesitarán solicitar una nueva autorización al Banco de España para continuar en el ejercicio de su actividad. Cualquier modificación de la situación que pudiera producirse a partir de dicha fecha, se regirá por lo dispuesto en los artículos 23 y 24.

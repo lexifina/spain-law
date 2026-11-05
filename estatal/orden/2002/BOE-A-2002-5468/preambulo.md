@@ -1,0 +1,7 @@
+La entrada en vigor de las Leyes 17/1999, de 18 de mayo, de Régimen del Personal de las Fuerzas Armadas, y 42/1999, de 25 de noviembre, de Régimen del Personal de la Guardia Civil, en las que se regula, por una parte, la figura del personal militar profesional y del reservista y, por otra, el reconocimiento de la naturaleza militar de la Guardia Civil y la condición de militar de sus miembros, junto con la dispersión normativa creada por las reiteradas modificaciones realizadas a la Orden 79/1988, de 16 de diciembre, de creación de una nueva tarjeta de identidad militar para las Fuerzas Armadas y Cuerpo de la Guardia Civil y la publicación de la Orden 98/1992, de 14 de diciembre, por la que se crea la tarjeta de identificación para los Sacerdotes católicos integrados en el Servicio de Asistencia Religiosa de las Fuerzas Armadas, hace necesario dictar una nueva disposición que agrupe, actualice e introduzca elementos identificativos y de validación que permitan mejorar las prestaciones de las tarjetas de identidad militar.
+
+Por otra parte, igualmente es preciso un sistema de identificación estandarizado para los militares que no sean de nacionalidad española destinados en los Cuarteles Generales Internacionales con sede en España.
+
+En su virtud y con la conformidad del Vicepresidente Primero del Gobierno y Ministro del Interior, en lo que respecta al personal del Cuerpo de la Guardia Civil,
+
+DISPONGO:

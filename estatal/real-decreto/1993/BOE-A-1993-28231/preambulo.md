@@ -1,0 +1,11 @@
+Las normas legales que hasta el momento han regulado la agricultura ecológica en España han sido el Real Decreto 759/1988, de 15 de julio, por el que se incluyen los productos agroalimentarios obtenidos sin el empleo de productos químicos de síntesis, en el régimen de denominaciones de origen, genéricas y específicas establecido en la Ley 25/1970, de 2 de diciembre, y especialmente la Orden ministerial de 4 de octubre de 1989, por la que se aprueba el Reglamento de la denominación genérica «Agricultura Ecológica» y su Consejo Regulador.
+
+El Reglamento (CEE) 2092/91, del Consejo, de 24 de junio de 1991, sobre producción agrícola ecológica y su indicación en los productos agrarios y alimenticios, supone una nueva regulación en la materia, estableciendo una serie de normas para la presentación, etiquetado, producción, elaboración, control e importación de países terceros de los productos procedentes de la agricultura ecológica.
+
+Este Reglamento prevé que el control se ejerza por autoridades competentes. En su caso, si lo estimaran oportuno, podrán delegar el control en entidades privadas bajo su expresa autorización y supervisión. La aplicación de este sistema favorecerá el desarrollo del sector y la participación de las Comunidades Autónomas, algunas de las cuales ya han mostrado interés en su implantación.
+
+Todo lo anterior aconseja la promulgación del presente Real Decreto, que regula las indicaciones asignadas a los productos ecológicos, crea un órgano superior de asesoramiento, la «Comisión Reguladora de la Agricultura Ecológica», y establece los mecanismos para la aplicación de determinados aspectos de dicho Reglamento. Todo ello teniendo en cuenta que, sin perjuicio de la aplicabilidad directa del Reglamento (CEE) 2092/91, se considera conveniente reproducir total o parcialmente algunos aspectos del mismo para una mayor difusión y mejor conocimiento por parte de los interesados.
+
+En su virtud, con la aprobación del Ministro para las Administraciones Públicas, una vez consultadas las Comunidades Autónomas y los sectores afectados, a propuesta del Ministro de Agricultura, Pesca y Alimentación y previa deliberación del Consejo de Ministros en su reunión del día 22 de octubre de 1993,
+
+## DISPONGO:

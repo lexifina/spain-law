@@ -1,0 +1,3 @@
+## Disposición final primera. Título competencial.
+
+Este real decreto-ley se dicta al amparo de lo dispuesto en el artículo 149.1.8.ª de la Constitución Española, que atribuye al Estado la competencia para dictar legislación civil; en el artículo 149.1.16.ª de la Constitución Española, que atribuye al Estado competencia en materia de bases y coordinación general de la sanidad; en el artículo 149.1.18.ª de la Constitución Española, que atribuye al Estado la competencia para dictar las bases del régimen jurídico de las Administraciones Públicas y competencia en materia de procedimiento administrativo común y legislación sobre expropiación forzosa; y en el artículo 149.1.24.ª, que atribuye al Estado competencia sobre obras públicas de interés general.

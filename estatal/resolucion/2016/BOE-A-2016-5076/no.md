@@ -1,0 +1,1 @@
+Se deja sin efecto este Acuerdo, desde el 1 de enero de 2021, por la disposicion derogatoria única del Acuerdo de 3 de diciembre de 2020, de la Comisión Permanente del Real Patronato del Museo Nacional del Prado, publicado por Resolución de 17 de diciembre de 2020. Ref. BOE-A-2020-16784#dd

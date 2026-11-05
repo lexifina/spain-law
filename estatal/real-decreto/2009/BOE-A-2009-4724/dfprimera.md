@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación del Reglamento general sobre inscripción de empresas, y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero.
+
+El párrafo primero del apartado 2 del artículo 29 del Reglamento general sobre inscripción de empresas, y afiliación, altas, bajas y variaciones de datos de trabajadores en la Seguridad Social, aprobado por el Real Decreto 84/1996, de 26 de enero, queda redactado de la siguiente manera:
+
+«2. No obstante lo establecido en el apartado 1, los trabajadores por cuenta ajena y asimilados incluidos en el campo de aplicación de los regímenes del sistema de la Seguridad Social se considerarán, de pleno derecho, en situación de alta en ellos a efectos de accidentes de trabajo, enfermedades profesionales, desempleo, riesgo durante el embarazo y riesgo durante la lactancia natural, aunque su empresario hubiera incumplido sus obligaciones al respecto. Igual norma se aplicará a los exclusivos efectos de la asistencia sanitaria por enfermedad común, maternidad y accidente no laboral.»

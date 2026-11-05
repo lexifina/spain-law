@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Fomento del empleo.
+
+A los efectos señalados en el artículo 21 de la presente Ley y teniendo en cuenta lo elevado de la tasa de desempleo en el Archipiélago, el Gobierno de la Nación y el Gobierno de Canarias coordinarán sus esfuerzos y recursos, al objeto de promocionar al máximo el empleo. Para dicha promoción tendrán la consideración de recursos básicos los siguientes: las inversiones a desarrollar por el Estado y la Comunidad Autónoma; los convenios entre el INEM, la Comunidad Autónoma y las Corporaciones locales; los fondos que integran los planes en materia de empleo de la Comunidad Autónoma y las aportaciones de los marcos comunitarios de apoyo; sin perjuicio de otros recursos que pudieran destinarse.

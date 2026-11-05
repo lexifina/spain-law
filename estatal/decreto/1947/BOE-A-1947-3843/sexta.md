@@ -1,0 +1,3 @@
+## Disposición transitoria sexta.
+
+Los libros provisionales abiertos desde el 18 de julio de 1936 a consecuencia de no haber sido atendidos, por la anormalidad de las circunstancias, los pedidos de libros a la casa concesionaria, que reúnan análogos requisitos de forma que los suministrados por ésta, podrán convertirse en libros definitivos; pero en todo caso, cada Registrador pondrá en conocimiento del Centro directivo el número de éstos, así como la numeración que les corresponda en el Archivo. Su conversión en definitivos se hará constar por diligencia extendida en la portada y suscrita por el Registrador.

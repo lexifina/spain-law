@@ -1,0 +1,3 @@
+## Disposición adicional octava. Solicitud de habilitación por la Dirección General de Marina Mercante.
+
+Los centros que impartan títulos de formación profesional conducentes a la obtención de titulaciones profesionales de la marina mercante y que deseen acceder a la realización de pruebas de idoneidad, a la admisión de períodos de prácticas y a la expedición de titulaciones profesionales y certificados de especialidad establecidos por la Dirección General de Marina Mercante, habrán de solicitar habilitación a dicha Dirección General y cumplir con lo establecido en los artículos 20, 21 y 22 del Real Decreto 973/2009, de 12 de junio, por el que se regulan las titulaciones profesionales de marina.

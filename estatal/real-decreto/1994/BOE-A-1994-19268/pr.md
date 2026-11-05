@@ -1,0 +1,9 @@
+La Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común, en su disposición adicional tercera, dispone la adecuación a la misma de las normas reguladoras de los distintos procedimientos administrativos.
+
+Los procedimientos vigentes en materia de transportes terrestres, aviación civil y marina mercante reclaman, por la singularidad de la regulación de estos sectores, una adecuación en puntos concretos relativos, fundamentalmente, a los efectos de los actos presuntos y al ejercicio de la potestad sancionadora.
+
+En el marco, por tanto, de la Ley 30/1992, se introducen en ellos determinadas innovaciones para garantizar la mejor ordenación de los distintos servicios de transporte y la seguridad de los diferentes tráficos, así como la correcta utilización del dominio público que a ellos se vincula. Estas medidas de adecuación de los procedimientos se acompañan de algunas normas complementarías para resolver problemas concretos o regular con carácter transitorio los mismos, hasta tanto se produce el desarrollo reglamentario de determinadas leyes sectoriales. Entre estas normas de carácter complementario y transitorio figuran las referentes a carreteras, cuya Ley, de 29 de julio de 1988, se encuentra en este supuesto, que vienen a regular los efectos de los actos presuntos, aspecto éste que, por recibir el mismo tratamiento que el previsto para los distintos sectores del transporte, tiene perfecto encaje en el presente Real Decreto.
+
+En su virtud, a propuesta del Ministro de Obras Públicas, Transportes y Medio Ambiente, con la aprobación del Ministro para las Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 5 de agosto de 1994,
+
+DISPONGO:

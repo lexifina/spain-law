@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Obligación de identificación.
+
+La obligación de identificación de todos los équidos, regulada en este real decreto, en aplicación de la normativa de la Unión Europea, concurrirá en todos los supuestos, incluido en aquéllos en que sea de aplicación el Reglamento para la administración y régimen de las reses mostrencas, aprobado mediante Real Decreto de 24 de abril de 1905. En caso de que el animal no se encuentre identificado, será de aplicación el documento de identificación substitutivo previsto en el artículo 22 y concordantes de este real decreto, y no podrá ser destinado a consumo humano.

@@ -1,0 +1,3 @@
+## Artículo 6.
+
+Serán idiomas oficiales de la Organización el castellano y el portugués.

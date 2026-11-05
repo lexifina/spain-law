@@ -1,0 +1,11 @@
+El Instituto Nacional de las Artes Escénicas y de la Música, creado por el artículo 87 de la Ley 50/1984, de 30 de diciembre, de Presupuestos Generales del Estado para 1985, y regulado por el Real Decreto 2491/1996, de 5 de diciembre, de estructura orgánica y funciones del Instituto Nacional de las Artes Escénicas y de la Música, tiene como fines la promoción, protección y difusión de las artes escénicas y de la música en cualquiera de sus manifestaciones, así como su proyección exterior y la comunicación cultural con las comunidades autónomas en materias propias del organismo, de acuerdo con ellas.
+
+Para el cumplimiento de estos fines, del Instituto Nacional de las Artes Escénicas y de la Música dependen diversos centros de creación artística, entre ellos el Centro Dramático Nacional, regulado por Orden del Ministerio de Cultura, de 20 de septiembre de 1995, norma que es necesario actualizar y adaptar para un mejor desarrollo de sus actividades artísticas.
+
+El cometido del Centro Dramático Nacional consiste en promover, revisar y difundir el teatro español contemporáneo, dar a conocer el repertorio dramático universal y contribuir al impulso y desarrollo de los lenguajes escénicos actuales, en un marco de plena autonomía artística y de creación.
+
+Por otra parte, el Real Decreto 497/2010, de 30 de abril, por el que se regulan los órganos de participación y asesoramiento del Instituto Nacional de las Artes Escénicas y de la Música, entre los que se encuentra el Consejo Artístico del Teatro, atribuye a este órgano la función de participar en el procedimiento de selección de la persona titular de la dirección y evaluar y realizar el seguimiento de la actividad artística del Centro Dramático Nacional.
+
+A lo anterior se suma la decisión de dotar al Centro Dramático Nacional de un marco general que le permita desarrollar plenamente su actividad artística como referente de la creación escénica de los siglos XX y XXI, preferentemente española, y su difusión nacional e internacional, contando para ello con los mejores profesionales.
+
+En su virtud, y previa aprobación del Vicepresidente Tercero del Gobierno y Ministro de Política Territorial y Administración Pública, dispongo:

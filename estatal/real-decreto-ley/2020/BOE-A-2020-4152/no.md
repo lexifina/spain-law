@@ -1,0 +1,1 @@
+El presente Real Decreto-ley se entiende tácitamente sustituido por la Ley 3/2021, de 12 de abril, por la que se adoptan medidas complementarias, en el ámbito laboral, para paliar los efectos derivados del COVID-19. Ref. BOE-A-2021-5771

@@ -1,0 +1,3 @@
+## Disposición transitoria segunda.
+
+Las Empresas que en 30 de junio de 1966 tuvieran constituidas Cajas de Empresa Colaboradoras del Seguro Obligatorio de Enfermedad que deban cesar en tal función, de acuerdo con lo preceptuado en el número 7 de la disposición transitoria quinta de la Ley de Seguridad Social, podrán acogerse, aunque no reúnan las condiciones exigidas en el artículo séptimo de esta Orden, a la forma de colaboración a que se refiere la disposición transitoria primera de la misma, con las modalidades en ella establecidas siempre que obtengan la oportuna autorización de la Dirección General de Previsión, solicitándola de la misma en un plazo de quince dias a partir de la entrada en vigor de la presente Orden.

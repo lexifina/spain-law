@@ -1,0 +1,3 @@
+## Norma decimoséptima. Exenciones temporales a los grandes riesgos.
+
+De acuerdo con lo dispuesto en el artículo 493.3 del Reglamento (UE) n.º 575/2013, las entidades podrán excluir del cumplimiento de los límites a sus grandes exposiciones las exposiciones referidas en dicho artículo, hasta la entrada en vigor de algún acto legislativo subsiguiente a la revisión a la que se refiere el artículo 507 del Reglamento (UE) n.º 575/2013 o hasta el 31 de diciembre de 2028, lo que antes ocurra. La exención será plena salvo para las exposiciones señaladas en las letras (a), (b), (f) y (j) del referido artículo, en las que dicha exención será del 50%.

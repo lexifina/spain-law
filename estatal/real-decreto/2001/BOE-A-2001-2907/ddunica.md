@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación de normativa.
+
+Se derogan el Real Decreto 633/1995, de 21 de abril, por el que se regula el sistema de gestión de las ayudas comunitarias relativas a la mejora de las condiciones de comercialización y transformación de los productos agrícolas y silvícolas contempladas en los Reglamentos (CEE) 866/90 y 867/90 y el Real Decreto 2666/1998, de 11 de diciembre, por el que se establecen los criterios de selección para el fomento de la mejora de las condiciones de transformación y comercialización de productos agrarios, de la pesca, de la acuicultura y de la alimentación, así como cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en el presente Real Decreto.

@@ -1,0 +1,3 @@
+## Cuarto. Ámbito de aplicación objetivo.
+
+Las disposiciones incluidas en la presente Resolución serán de aplicación a las actuaciones de intervención de la comprobación material de la inversión y seguimiento de las mismas que realicen los representantes de esta Intervención General tanto de los contratos administrativos, cualquiera que sea el régimen jurídico al que estén sometidos, como de las obras, fabricación de bienes y prestación de servicios ejecutados por la propia Administración, que sean objeto de designación, de conformidad con lo establecido en el artículo 28 del Real Decreto 2188/1995, de 28 de diciembre, por el que se desarrolla el régimen de control interno ejercido por la Intervención General de la Administración del Estado.

@@ -1,0 +1,1 @@
+Téngase en cuenta que mediante Sentencia del TS de 6 de noviembre de 2017 Ref. BOE-A-2017-15095 se declara la nulidad del Real Decreto 638/2014, de 25 de julio, que había derogado esta norma. Ref. BOE-A-2014-7970#ddunica.

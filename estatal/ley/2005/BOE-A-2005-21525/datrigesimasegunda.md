@@ -1,0 +1,3 @@
+## Disposición adicional trigésima segunda. Generación de crédito para financiar infraestructuras para las Fuerzas y Cuerpos de Seguridad del Estado.
+
+Los recursos obtenidos como consecuencia del proceso de liquidación del Patronato de Viviendas de la Guardia Civil que, de conformidad con lo establecido en el apartado 5 de la disposición final primera del Real Decreto 1885/1996, se ingresen en el Tesoro Público, podrán generar crédito en el Presupuesto del Ministerio del Interior con destino a la Gerencia de Infraestructuras y Equipamiento de la Seguridad del Estado (GIESE), al objeto de financiar infraestructuras para las Fuerzas y Cuerpos de Seguridad del Estado.

@@ -1,0 +1,3 @@
+## Disposición adicional única. Reformas de importancia antes de la matriculación.
+
+A partir de la fecha de entrada en vigor de este real decreto, las reformas de importancia previstas en el Real Decreto 736/1988, de 8 de julio, por el que se regula la tramitación de las reformas de importancia de vehículos de carretera y se modifica el artículo 252 del Código de la Circulación, que se realicen en los vehículos antes de la matriculación no podrán ser realizadas, salvo en los casos que se especifique en la legislación aplicable en las reformas de vehículos. Este tipo de reformas deberán ser realizadas de conformidad con los procedimientos pertinentes de homologación.

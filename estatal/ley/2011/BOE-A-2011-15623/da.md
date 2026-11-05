@@ -1,0 +1,5 @@
+## Disposición adicional octava. Obligación del suministro de datos relevantes para la salud de la población.
+
+Con el fin de asegurar la mejor tutela de la salud de la población, todas las Administraciones públicas, instituciones, entidades y organismos del sector público y privado, en particular los centros, servicios y establecimientos sanitarios y, en general, todas las personas físicas o jurídicas que desarrollen cualquier tipo de actividad y que en el ámbito de sus actuaciones posean información relevante para la salud de la población suministrarán a las autoridades sanitarias competentes los datos necesarios para el desarrollo de las actuaciones en materia de vigilancia en salud pública, prevención de enfermedades y protección de la salud, evaluación de riesgos para la salud, preparación y respuesta ante crisis y amenazas de salud pública, así como para la evaluación de estrategias, planes y programas que reviertan en la salud de la población.
+
+> Se añade por el art. 8.7 de la Ley 7/2025, de 28 de julio. Ref. BOE-A-2025-15652#a8

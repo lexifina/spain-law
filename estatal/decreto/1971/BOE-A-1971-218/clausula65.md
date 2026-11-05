@@ -1,0 +1,3 @@
+## Cláusula 65. Daños y perjuicios al contratista.
+
+Si la Administración, por acordar una suspensión temporal que exceda del período de tiempo que para estos efectos fijan las disposiciones vigentes tuviere que abonar daños y perjuicios al contratista, su determinación atenderá, entre otros factores, a la perturbación que la suspensión hubiera producido en el ritmo de ejecución previsto en el programa de trabajos, con la consiguiente repercusión en la utilización de maquinaria y de personal, y a la relación que represente el importe de las partes de obra a que alcanza la suspensión con el presupuesto total de la obra contratada.

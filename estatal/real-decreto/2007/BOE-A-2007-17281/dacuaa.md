@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Compensación económica por participación en las reuniones del Consejo.
+
+El ejercicio de sus funciones por parte de las personas miembros del Consejo no implicará la percepción de remuneración alguna en tal concepto, con la excepción de las indemnizaciones de los vocales representantes de las organizaciones y asociaciones a las que se refiere el artículo 4.1 g), h) e i) de este real decreto, en el caso de que las reuniones se celebren en localidad distinta a la del lugar de residencia. Dichas indemnizaciones se establecerán conforme a lo dispuesto en el Real Decreto 462/2002, de 24 de mayo, sobre indemnizaciones por razón del servicio.

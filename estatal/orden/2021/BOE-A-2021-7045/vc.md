@@ -1,0 +1,3 @@
+## Vigésimo cuarto. Delegación de competencias en órganos dependientes de la Subsecretaría de Inclusión, Seguridad Social y Migraciones.
+
+Se aprueba la delegación de la persona titular de la Secretaría de Estado de Migraciones en la persona titular de la Subdirección General de Recursos Humanos e Inspección de Servicios, de la competencia para la aprobación, el compromiso de gasto, el reconocimiento de la obligación y la propuesta de ordenación de pagos, no atribuidas ni delegadas en otros órganos, que se tramiten con cargo al capítulo I de los presupuestos del servicio «Secretaría de Estado de Migraciones», hasta la cuantía del importe del crédito que tengan consignado.

@@ -1,0 +1,3 @@
+## Disposición transitoria II.
+
+A las Corporaciones y Entidades afiliadas que en 31 de diciembre tuviesen débitos pendientes de pago con la MUNPAL, y que durante los seis meses siguientes a la entrada en vigor de la presente disposición no los hubiesen hecho efectivos, o no hubiesen solicitado acogerse a un Convenio de los descritos en la disposición transitoria precedente, o habiendo solicitado se les haya denegado su suscripción, le será de aplicación lo dispuesto en el punto 4 de la disposición transitoria primera para los casos de incumplimiento de Convenio, con la expedición por la Mutualidad de la oportuna certificación de descubierto y aplicación de los recargos correspondientes.

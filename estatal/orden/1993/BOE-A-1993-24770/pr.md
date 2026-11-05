@@ -1,0 +1,5 @@
+El Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por el Real Decreto 1211/1990, de 28 de septiembre, determina en el capítulo IV de su título IV el régimen aplicable a la realización de transportes internacionales por carretera. Por Orden del Ministerio de Obras Públicas y Transportes de 7 de octubre de 1992 se han desarrollado dichas normas en materia de otorgamiento de autorizaciones de transporte internacional de mercancías por carretera, sin establecer normas específicas en relación con el transporte combinado.
+
+Por otra parte, la Directiva 92/106/CEE, del Consejo de 7 de diciembre de 1992, ha establecido normas especiales en relación con determinados transportes combinados de mercancías entre Estados miembros, normas que no se oponen a lo dispuesto en el citado Reglamento de la Ley de Ordenación de los Transportes Terrestres y que se hace necesario incorporar al derecho interno.
+
+En su virtud, oídas las asociaciones profesionales de transportistas, y en uso de la autorización contenida en la disposición adicional undécima del Reglamento de la Ley de Ordenación de los Transportes Terrestres, dispongo:

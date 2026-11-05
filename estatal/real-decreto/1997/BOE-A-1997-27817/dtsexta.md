@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Intercambios internacionales.
+
+Los contratos suscritos por «Red Eléctrica de España, Sociedad Anónima», a que se refiere el apartado tercero de la disposición transitoria novena de la Ley 54/1997, de 27 de noviembre, del sector eléctrico, mantendrán su vigencia y operatividad al margen del mercado de producción, si bien habrán de ser tenidos en cuenta en la casación de ofertas, por su coste variable marginal en cada momento, sin perjuicio de las condiciones contractuales aplicables. Las diferencias entre los pagos y cobros al mercado y los pagos y cobros que se deriven de dichos contratos se repercutirán a todos los consumidores finales en los términos que se determinen mediante Orden ministerial.

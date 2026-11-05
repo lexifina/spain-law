@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Primera aplicación del procedimiento de retención regulado en la sección 3.ª del capítulo III del Título II de este real decreto-ley.
+
+El procedimiento de retención de los importes a satisfacer por los recursos de los regímenes de financiación de las Comunidades Autónomas como consecuencia de la cláusula de garantía prevista en los convenios en materia de gasto social y en las normas autonómicas de delegación de competencias en dicha materia, regulado en este Real Decreto-ley, se aplicará por primera vez en febrero de 2016, de acuerdo con el procedimiento previsto en el artículo 37, salvo que en la Orden del Ministro de Hacienda y Administraciones Públicas, conforme a lo regulado en dicho artículo, se establezca otro momento distinto.

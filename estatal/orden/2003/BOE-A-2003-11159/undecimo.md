@@ -1,0 +1,3 @@
+## Undécimo. Servicio especial de guardia de veinticuatro horas de los miembros de la Carrera Fiscal para atender cualquier incidencia derivada de la Ley orgánica reguladora de la responsabilidad penal de los menores.
+
+Para la atención de cualquier incidencia que exija, de acuerdo con lo previsto en la Ley Orgánica reguladora de la Responsabilidad Penal de los Menores, la intervención del Ministerio Fiscal, se establecerá una guardia de veinticuatro horas por un miembro de la Carrera Fiscal en Madrid, Barcelona, Valencia y Sevilla. Por la realización de este servicio, se acreditarán al fiscal que lo preste 196,08 euros por guardia y 49,02 euros diarios adicionales cuando dicho servicio se realice en sábados, domingos y festivos.

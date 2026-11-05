@@ -1,0 +1,5 @@
+## Disposición final primera. Modificación de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria.
+
+Se modifica la letra d) del artículo 2 de la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones y declaraciones informativas de naturaleza tributaria, que queda redactada como sigue:
+
+«d) En lo que se refiere al Impuesto sobre la Renta de las Personas Físicas, la presentación de la declaración también podrá realizarse en papel impreso obtenido a través del programa de ayuda desarrollado por la Agencia Estatal de Administración Tributaria o a través de la confirmación del borrador de declaración de acuerdo con el procedimiento que se establezca en la Orden ministerial anual de aprobación del modelo del Impuesto sobre la Renta de las Personas Físicas.»

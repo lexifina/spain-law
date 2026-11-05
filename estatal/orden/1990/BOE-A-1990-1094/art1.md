@@ -1,0 +1,34 @@
+## Art. 1. Escala de aportaciones.
+
+1. La escala a que se refiere el apartado segundo del artículo 4.o del Estatuto de la Mutualidad Notarial queda fijada en las cantidades que a continuación se indican:
+
+|  | Pesetas |
+| --- | --- |
+| Protestos | 6 |
+| Instrumentos sin cuantía sin asimilados | 50 |
+| Instrumentos de cuantía: |  |
+| Hasta 1.000.000 de pesetas | 100 |
+| De 1.000.001 a 2.000.000 de pesetas | 600 |
+| De 2.000.001 a 5.000.000 de pesetas | 1.050 |
+| De 5.000.001 a 10.000.000 de pesetas | 1.400 |
+| De 10.000.001 a 20.000.000 de pesetas | 1.750 |
+| De 20.000.001 a 30.000.000 de pesetas | 2.100 |
+| De 30.000.001 a 40.000.000 de pesetas | 2.380 |
+| De 40.000.001 a 50.000.000 de pesetas | 2.660 |
+| De 50.000.001 a 75.000.000 de pesetas | 2.870 |
+| De 75.000.001 a 100.000.000 de pesetas | 3.150 |
+| De 100.000.001 en adelante, 100 pesetas por cada 10.000.000 más o fracción, además de la cantidad aplicable al tramo anterior, y sin perjuicio de lo establecido en el artículo 2.° de esta Orden. |
+
+A todos los efectos de la presente Orden, quedan asimilados a documentos sin cuantía aquellos documentos cuya base de cálculo de honorarios sea igual o inferior a 1.000.000 de pesetas, y a los que, además, les sean aplicable reducciones arancelarias, así como aquellos documentos que aun siendo de cuantía tengan honorarios fijos inferiores a 15.000 pesetas.
+
+2. Cuando en el curso del año natural los Notarios autoricen más de 2.500 instrumentos, la aportación correspondientes a cada uno de los instrumentos sucesivos que excedan de dicha cifra será la que resulte de multiplicar la establecida en el apartado primero por el coeficiente 2.
+
+A los efectos del párrafo anterior, se excluirán del cómputo y del coeficiente multiplicador los protestos y los instrumentos cuyos derechos arancelarios se devenguen sin atención a su cuantía.
+
+3. (Derogado)
+
+> Se modifican los apartados 1 y 2 y se deroga el 3 por el apartado 1 y disposición derogatoria de la Orden de 5 de octubre de 1990. Ref. BOE-A-1999-21064.
+
+> Se modifica el apartado 1 por el apartado 1 de la Orden de 13 de marzo de 1997. Ref. BOE-A-1997-6325.
+
+> Redactado el apartado 3 conforme a la corrección de errores publicada en BOE núm. 2, de 26 de enero de 1990. Ref. BOE-A-1990-2095.

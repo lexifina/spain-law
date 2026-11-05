@@ -1,0 +1,5 @@
+## Disposición final octava. Modificación de la Ley 41/2007, de 7 de diciembre, por la que se modifica la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario y otras normas del sistema hipotecario y financiero, de regulación de las hipotecas inversas y el seguro de dependencia y por la que se establece determinada norma tributaria.
+
+El apartado 2 de la disposición adicional primera de la Ley 41/2007, de 7 de diciembre, por la que se modifica la Ley 2/1981, de 25 de marzo, de Regulación del Mercado Hipotecario y otras normas del sistema hipotecario y financiero, de regulación de las hipotecas inversas y el seguro de dependencia y por la que se establece determinada norma tributaria queda redactado del siguiente modo:
+
+«2. Las hipotecas a que se refiere esta disposición sólo podrán ser concedidas por las entidades de crédito, los establecimientos financieros de crédito y por las entidades aseguradoras autorizadas para operar en España, sin perjuicio de los límites, requisitos o condiciones que a las entidades aseguradoras imponga su normativa sectorial.»

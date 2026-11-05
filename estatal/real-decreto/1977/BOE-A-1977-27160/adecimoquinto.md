@@ -1,0 +1,11 @@
+## Artículo decimoquinto.
+
+En cuanto a las sustancias de las Listas II, III o IV del anexo uno por una parte, así como a las especialidades farmacéuticas que las contengan, por otra, las entidades de distribución se regirán por lo determinado, respectivamente, en los apartados A) y B) que siguen:
+
+A) Sustancias psicotrópicas referidas.
+
+Las entidades de distribución las obtendrán sólo de cualquiera de las personas o entidades autorizadas en este Decreto, o a través de importación. La entrega de las mismas las harán exclusivamente a personas o entidades asimismo autorizadas, o con destino a exportación. Todo ello, siempre mediante entrega o recepción de vales, o de permisos de importación o exportación, de acuerdo con lo dispuesto en los artículos octavo y décimo. Los vales o los permisos se archivarán con arreglo a las normas respectivas prescritas en el citado artículo octavo. Deberán llevar, asimismo, las entidades de distribución, el libro de contabilidad implantado en el artículo séptimo, cuyo entretenimiento se efectuará bajo las mismas formalidades en él determinadas, y en relación, igualmente, con el archivo de aquellos documentos.
+
+B) Especialidades farmacéuticas que contengan las aludidas sustancias psicotrópicas.
+
+Las entidades de distribución o almacenes farmacéuticos, autorizados por la Dirección General de Ordenación Farmacéutica, según Orden de siete de abril de mil novecientos sesenta y cuatro, recibirán las especialidades farmacéuticas únicamente de quienes estén autorizados para su producción o tráfico según el presente Decreto, o a través de importación. Las entregas las verificarán sólo a aquellos, o bien por conducto de exportación, mediante entrega o recepción de vales análogos a los mencionados en el artículo octavo, o bien mediante permiso de importación o exportación, de acuerdo con lo prevenido en el artículo décimo. No habrán de llevar obligadamente estas entidades de distribución libro de contabilidad de especialidades, como en el caso de los laboratorios farmacéuticos, pero los referidos documentos serán archivados por grupos, clasificados éstos por especialidades de manera que, en cualquier momento, pueda justificarse cumplidamente ante los Inspectores Farmacéuticos el destino, existencias y saldos de cada una de tales especialidades.

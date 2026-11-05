@@ -1,0 +1,13 @@
+El Registro de Matrícula de Aeronaves es un registro de naturaleza administrativa regulado en el capítulo V de la Ley 48/1960, de 21 de julio, sobre Navegación Aérea, y en el Reglamento del Registro de Matrícula de Aeronaves, aprobado por el Decreto 416/1969, de 13 de marzo.
+
+Este real decreto aborda una nueva regulación del Registro de Matrícula de Aeronaves Civiles y establece un régimen registral único para todas las aeronaves civiles, incluidas las aeronaves de estructura ultraligera y de aeronaves privadas de uso no mercantil que hasta ahora contaban con un régimen específico, determina las aeronaves excluidas de inscripción e incorpora y ordena la regulación sobre matrículas de prueba para aeronaves nuevas de serie, que necesitan realizar vuelos de prueba para verificación, puesta a punto y mantenimiento, y para prototipos de aeronaves empleadas para vuelos de ensayo, desarrollo, verificación, puesta a punto o certificación.
+
+Se introduce un concepto novedoso, la reserva de matrícula, para los casos en que se tenga prevista la matriculación de una aeronave en España, que se concede en tanto se sustancia el procedimiento de matriculación definitiva y se regula la cancelación temporal de una matrícula por un tiempo no superior a 5 años, cuando la misma vaya a ser temporalmente inscrita en el extranjero.
+
+Por otro lado, se instrumenta la relación de este registro administrativo y el Registro de Bienes Muebles previendo la comunicación por medios telemáticos, para agilizar los trámites de inscripción, y precisando que corresponde al Registro de Matrícula de Aeronaves Civiles la función de otorgar la nacionalidad y asignar las marcas de nacionalidad y matrícula. La calificación de los títulos jurídicos aportados para la inscripción se realiza por el Registro de Bienes Muebles. Además, en este real decreto, atendiendo a lo informado por el Ministerio de Justicia, se establecen las previsiones necesarias para permitir la aplicación del Convenio relativo a garantías internacionales sobre elementos de equipo móvil (Ciudad del Cabo, noviembre de 2001), concretando que el Registro de Bienes Muebles es el punto de acceso con el Registro Internacional creado por dicho instrumento.
+
+Este real decreto se dicta al amparo de la habilitación que el artículo 32 y la disposición final cuarta de la Ley 48/1960, de 21 de julio, de Navegación Aérea, otorgan al Gobierno para dictar las disposiciones necesarias para el desarrollo y ejecución de dicha ley.
+
+En su virtud, a propuesta de la Ministra de Fomento, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 22 de mayo de 2015,
+
+DISPONGO:

@@ -1,0 +1,47 @@
+La Ley 7/2024, de 20 de diciembre, por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias, introdujo en el sistema tributario español el Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras.
+
+Con carácter previo, la Ley 38/2022, de 27 de diciembre, para el establecimiento de gravámenes temporales energético y de entidades de crédito y establecimientos financieros de crédito y por la que se crea el impuesto temporal de solidaridad de las grandes fortunas y se modifican determinadas normas tributarias, introdujo en nuestro ordenamiento jurídico un gravamen temporal en el ámbito financiero para las entidades de crédito y los establecimientos financieros de crédito cuya suma de ingresos por intereses y comisiones correspondiente al año 2019 fuese igual o superior a 800 millones de euros, a satisfacer en los años 2023 y 2024.
+
+Por su parte, la disposición adicional quinta del Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía, obliga a la revisión de la configuración del gravamen para su integración en el sistema tributario en el propio ejercicio fiscal 2024.
+
+Cumpliendo con el mandato legal previsto en el citado Real Decreto-ley 8/2023, de 27 de diciembre; la Ley 7/2024, de 20 de diciembre, en su disposición final novena, ha introducido un nuevo impuesto que, si bien se aproxima en unos aspectos al gravamen temporal, se configura realizando todas las revisiones y adaptaciones necesarias, habida cuenta del carácter no excepcional con el que queda establecido y de su naturaleza tributaria.
+
+Por otro lado, la Ley 3/2025, de 29 de abril, por la que se modifica la Ley 12/2002, de 23 de mayo, por la que se aprueba el Concierto Económico con la Comunidad Autónoma del País Vasco, incorpora la concertación del «Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras», que se realiza a través del nuevo artículo 20 ter, que establece la normativa aplicable y la exacción e inspección del impuesto.
+
+El Impuesto sobre el margen de intereses y comisiones se configura como un tributo de naturaleza directa que grava el margen de intereses y comisiones obtenido por entidades de crédito, sucursales de crédito extranjeras y establecimientos financieros de crédito derivado de la actividad que desarrollen en territorio español. De acuerdo con lo previsto en el apartado diecinueve de la disposición final novena de la Ley 7/2024, de 20 de diciembre, este impuesto tendrá vigencia limitada, siendo aplicable únicamente en los tres primeros periodos impositivos consecutivos que se inicien desde el 1 de enero de 2024.
+
+En cuanto a la gestión del impuesto, la disposición final novena de la dicha Ley 7/2024, de 20 de diciembre, dispone que los contribuyentes deberán presentar una autoliquidación e ingresar la deuda tributaria en el plazo previsto en su apartado quince, en la forma y condiciones que se determinen por la persona titular del Ministerio de Hacienda.
+
+Asimismo, los contribuyentes deberán efectuar un pago fraccionado del 40 por ciento de la cuota a satisfacer que se minorará del importe final de la cuota.
+
+Se hace, por tanto, indispensable dictar la presente orden ministerial, con el fin de adoptar los correspondientes modelos de autoliquidación y de pago fraccionado de este nuevo impuesto.
+
+De esta forma, el artículo 1 de la presente orden aprueba el modelo 780, «Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras. Autoliquidación», y los artículos 2 y 3 regulan, respectivamente, los obligados a presentar el modelo y su plazo de presentación.
+
+A continuación, el artículo 4 aprueba el modelo 781, «Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras. Pago fraccionado». Los artículos 5 y 6 regulan, respectivamente, los obligados a presentar este modelo y su plazo de su presentación.
+
+Por último, y de forma común para los modelos 780 y 781, el artículo 7 recoge la habilitación y las condiciones generales para la presentación electrónica por internet, y el artículo 8 el procedimiento de ingreso.
+
+El contenido y diseño de los citados modelos figura en los anexos I y II de la presente orden.
+
+Asimismo, se recoge una disposición transitoria única relativa al plazo de presentación de la primera declaración del modelo 781, «Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras. Pago fraccionado», en 2025.
+
+Finalmente, las disposiciones finales primera, segunda y tercera modifican, respectivamente, la Orden EHA/2027/2007, de 28 de junio, por la que se desarrolla parcialmente el Real Decreto 939/2005, de 29 de julio, por el que se aprueba el Reglamento General de Recaudación, en relación con las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria; la Orden EHA/1658/2009, de 12 de junio, por la que se establecen el procedimiento y las condiciones para la domiciliación del pago de determinadas deudas a través de cuentas abiertas en las entidades de crédito que prestan el servicio de colaboración en la gestión recaudatoria de la Agencia Estatal de Administración Tributaria; y la Orden HAP/2194/2013, de 22 de noviembre, por la que se regulan los procedimientos y las condiciones generales para la presentación de determinadas autoliquidaciones, declaraciones informativas, declaraciones censales, comunicaciones y solicitudes de devolución, de naturaleza tributaria, recogiendo en ellas los nuevos modelos 780 y 781. Se incluye una disposición final cuarta que regula la entrada en vigor de estos dos nuevos modelos.
+
+De acuerdo con lo dispuesto en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la elaboración de esta orden se ha efectuado de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia.
+
+Se cumplen los principios de necesidad y eficacia por ser desarrollo de la norma reglamentaria y el instrumento adecuado para dicho desarrollo.
+
+Se cumple también el principio de proporcionalidad al contener la regulación necesaria para conseguir los objetivos que justifican su aprobación.
+
+Respecto al principio de seguridad jurídica, se ha garantizado la coherencia del texto con el resto del ordenamiento jurídico nacional, generando un marco normativo estable, predecible, integrado, claro y de certidumbre que facilita su conocimiento y comprensión y, en consecuencia, la actuación y toma de decisiones de los diferentes sujetos afectados sin introducción de cargas administrativas innecesarias.
+
+El principio de transparencia, sin perjuicio de su publicación oficial en el «Boletín Oficial del Estado», se ha garantizado mediante la publicación del proyecto de orden en el portal web del Ministerio de Hacienda, a efectos de que pueda ser conocido dicho texto en el trámite de audiencia e información pública por todos los ciudadanos.
+
+Por último, en relación con el principio de eficiencia se ha procurado que la norma genere las menores cargas administrativas para los ciudadanos, así como los menores costes indirectos, fomentando el uso racional de los recursos públicos y el pleno respeto a los principios de estabilidad presupuestaria y sostenibilidad financiera.
+
+Esta orden ministerial se dicta al amparo de las habilitaciones contenidas en la disposición final novena, apartados catorce y quince, de la Ley 7/2024, de 20 de diciembre, así como sobre la base de la habilitación genérica prevista en el artículo 117 del Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, aprobado por Real Decreto 1065/2007, de 27 de julio.
+
+Las habilitaciones anteriores deben entenderse conferidas en la actualidad a la Vicepresidenta Primera del Gobierno y Ministra de Hacienda, de acuerdo con lo dispuesto en el artículo 5 y en la disposición final segunda del Real Decreto 829/2023, de 20 de noviembre, por el que se reestructuran los departamentos ministeriales.
+
+En su virtud, de acuerdo con el Consejo de Estado, dispongo:

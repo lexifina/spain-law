@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Ampliación del plazo para la ejecución de determinadas actuaciones del Plan Estatal de Vivienda 2018-2021.
+
+Los plazos de ejecución de las actuaciones establecidos en los artículos 31, 38, 45 y 72 del Real Decreto 106/2018, de 9 de marzo, por el que se regula el Plan Estatal de Vivienda 2018-2021 se amplían en doce meses, pudiendo acordarse, en su caso, un nuevo plazo extraordinario mediante Acuerdo de la Comisión Bilateral de Seguimiento del convenio suscrito para la ejecución del Plan entre el Ministerio de Transportes, Movilidad y Agenda Urbana y la comunidad autónoma o ciudad de Ceuta y Melilla de que se trate.
+
+El plazo de ejecución de las actuaciones establecido en el artículo 54 del Real Decreto 106/2018, de 9 de marzo, por el que se regula el Plan Estatal de Vivienda 2018-2021 se amplía en dos años, pudiendo acordarse, en su caso, un nuevo plazo extraordinario mediante Acuerdo de la Comisión Bilateral de Seguimiento del convenio suscrito para la ejecución del Plan entre el Ministerio de Transportes, Movilidad y Agenda Urbana y la comunidad autónoma o ciudad de Ceuta y Melilla de que se trate.

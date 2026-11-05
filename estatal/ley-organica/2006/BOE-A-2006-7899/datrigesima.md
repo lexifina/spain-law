@@ -1,0 +1,3 @@
+## Disposición adicional trigésima. Integración de centros en la red de centros de titularidad pública.
+
+Las Comunidades Autónomas podrán integrar en la respectiva red de centros docentes públicos, de acuerdo con la forma y el procedimiento que se establezca mediante Ley de sus Parlamentos, los centros de titularidad de las Administraciones locales que cumplan los requisitos establecidos en la Ley, atiendan poblaciones escolares de condiciones socioeconómicas desfavorables o que desempeñen una reconocida labor en la atención a las necesidades de escolarización, siempre que las Administraciones locales manifiesten su voluntad de integrarlos en dicha red.

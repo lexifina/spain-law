@@ -1,0 +1,3 @@
+## Disposición final primera. Aplicación de las medidas provisionales previstas en el artículo 24 del Reglamento (CE) n.º 183/2005 del Parlamento Europeo y del Consejo, de 12 de enero de 2005.
+
+Mediante el artículo 11 de este real decreto, se establecen las condiciones de aplicación de las medidas provisionales previstas en el artículo 24 del Reglamento (CE) n.º 183/2005, del Parlamento Europeo y del Consejo, de 12 de enero de 2005, por el que se fijan requisitos en materia de higiene de los piensos, que establece la aplicación del artículo 6 de la Directiva 98/51/CEE, de la Comisión, de 9 de julio de 1998.

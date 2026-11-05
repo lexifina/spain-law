@@ -1,0 +1,3 @@
+## Disposición adicional quinta. Inscripciones en el Catastro.
+
+La incorporación de los bienes inmuebles en el Catastro Inmobiliario, así como de las alteraciones de sus características, que deban realizarse como consecuencia de lo dispuesto en esta ley, se efectuarán en los términos previstos en el texto refundido de la Ley del Catastro Inmobiliario, aprobado por Real Decreto Legislativo 1/2004, de 5 de marzo, en particular en lo que se refiere a la utilización de la referencia catastral y la certificación catastral descriptiva y gráfica para la identificación y descripción de las fincas, y las obligaciones de comunicación, colaboración y suministro de información al Catastro a través de medios telemáticos.

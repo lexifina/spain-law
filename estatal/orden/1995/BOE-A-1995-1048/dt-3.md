@@ -1,0 +1,3 @@
+## Disposición transitoria tercera.
+
+Hasta la entrada en vigor del Real Decreto 2366/1994, de 9 de diciembre, sobre producción de energía eléctrica por instalaciones hidráulicas, de cogeneración y otras abastecidas por recursos o fuentes de energía renovables, seguirán en vigor lo dispuesto en el punto 7.4 del título I, sobre las particularidades contempladas para la aplicación a los autogeneradores del complemento por interrumpibilidad en relación con la potencia interrumpible ofertada, rescisión del contrato o sus prórrogas y cálculo de Pf, y la totalidad del título III, ambos del anexo I de la Orden del Ministerio de Industria y Energía de 1 de enero de 1994, por la que se establecen tarifas eléctricas.

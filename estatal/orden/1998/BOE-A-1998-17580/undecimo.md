@@ -1,0 +1,3 @@
+## Undécimo. Régimen transitorio.
+
+No obstante lo establecido en el apartado segundo, la Dirección General de la Energía podrá autorizar con carácter temporal como agentes externos a aquellos solicitantes de origen comunitario, en tanto se lleva a cabo en sus legislaciones internas la transposición de la Directiva 96/92/CE, de 19 de diciembre, sobre normas comunes para el mercado interior de la electricidad y, en todo caso, durante un período máximo de dos años desde la entrada en vigor de la citada Directiva, de aquellos supuestos en que en el momento de presentación de la solicitud no se cumplan los requisitos de reciprocidad que justifican la denegación de dicha autorización.

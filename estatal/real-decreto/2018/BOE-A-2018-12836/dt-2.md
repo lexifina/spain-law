@@ -1,0 +1,3 @@
+## Disposición transitoria segunda. Programas operativos aprobados en virtud del Reglamento Delegado (UE) n.º 2017/891.
+
+A más tardar el 5 de octubre de 2018, las organizaciones de productores con programas operativos aprobados bajo el Reglamento Delegado (UE) 2017/891 de la Comisión, de 13 de marzo de 2017, o modificados o sustituidos con el fin de adaptarse al mencionado reglamento, deberán adaptarse a los requisitos establecidos en el Reglamento (UE) n.º 1308/2013 modificado por el Reglamento (UE) n.º 2017/2393 del Parlamento Europeo y del Consejo, del Reglamento Delegado (UE) n.º 2017/891, modificado por el Reglamento Delegado (UE) n.º 2018/1145 y del Reglamento de Ejecución (UE) n.º 2017/892 modificado por el Reglamento de Ejecución (UE) n.º 2018/1146.

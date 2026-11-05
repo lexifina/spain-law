@@ -1,0 +1,11 @@
+## Disposición transitoria décima. Procedimiento simplificado excepcional de otorgamiento de concesiones para abastecimiento de poblaciones de menos de 20.000 habitantes.
+
+1. Durante el plazo de tres años, contados desde la entrada en vigor del Real Decreto 665/2023, de 18 de julio, los núcleos urbanos de menos de 20.000 habitantes que vienen prestando el servicio de abastecimiento y no dispongan de la necesaria concesión administrativa, podrán acogerse al procedimiento simplificado de carácter excepcional que se regula en esta disposición para la obtención de la concesión presentando una solicitud acompañada de la siguiente documentación:
+
+a) Memoria descriptiva de las infraestructuras e instalaciones de la red de abastecimiento en la que se especifique las dotaciones previstas, el caudal máximo instantáneo, el volumen máximo anual y el volumen máximo mensual derivados y la evolución de la demanda en función de la población permanente y estacional y el número de viviendas primarias y secundarias por tipología, una estimación de las perdidas reales por fugas en la red, la procedencia del recurso hídrico especificando si son aguas superficiales, aguas subterráneas, aguas regeneradas y aguas procedentes de la desalación, las características del punto de captación y las características del uso para abastecimiento, en su caso, y el sistema de control volumétrico conforme al artículo 55.4 del TRLA. La memoria también especificará las industrias de poco consumo de agua situadas en los núcleos de población y conectadas a la red municipal.
+
+b) Informe de la comunidad autónoma correspondiente en materia de sus competencias que se referirá, como mínimo, al cumplimiento de las condiciones de sanidad necesarias.
+
+2. El Organismo competente dictará, previo trámite de audiencia, la correspondiente resolución de otorgamiento de concesión una vez realizado los trámites de información pública del expediente por un plazo que en ningún caso será inferior a veinte días, de comprobación de compatibilidad con el plan hidrológico de la demarcación y recibido el informe de la comunidad autónoma al que se refiere el apartado 1.b).
+
+> Se añade por el art. 1.215 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap

@@ -1,0 +1,7 @@
+## Disposición transitoria primera. Extinción de la formación del período transitorio en vela con aparejo fijo y aparejo libre.
+
+1. De acuerdo con lo establecido en el apartado 1 de la disposición transitoria primera del Real Decreto 1363/2007, de 24 de octubre, por el que establece la ordenación general de las enseñanzas deportivas de régimen especial, se extinguirá el período transitorio en vela con aparejo fijo y aparejo libre, regulado en Orden ECD/3310/2002, de 16 de diciembre, por la que se regulan los aspectos curriculares, los requisitos generales y los efectos de la formación en materia deportiva, a los que se refiere la disposición transitoria primera del Real Decreto 1913/1997, de 19 de diciembre, durante el curso académico establecido en la disposición final tercera del presente Real Decreto.
+
+2. Los órganos competentes en materia de deportes, o en su caso de formación deportiva de las comunidades autónomas establecerán el procedimiento adecuado, en el territorio de su competencia, con el fin de que quienes hubieran iniciado formaciones reguladas en la mencionada Orden ECD/3310/2002, de 16 de diciembre, en la vela con aparejo fijo y aparejo libre puedan completarla hasta su tercer nivel, durante los dos cursos académicos siguientes al de la implantación.
+
+> Redactado el título conforme a la corrección de errores publicada en BOE núm. 245, de 9 de octubre de 2010. Ref. BOE-A-2010-15435

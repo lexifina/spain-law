@@ -1,0 +1,3 @@
+## Disposición final tercera. Títulos competenciales.
+
+Este real decreto se dicta al amparo del artículo 149.1.13.ª, 16.ª, 18.ª, 22.ª y 23.ª de la Constitución Española, que atribuyen al Estado competencia exclusiva en materia de bases y coordinación de la planificación general de la actividad económica, bases y coordinación general de la sanidad, legislación básica sobre contratos y concesiones administrativas, legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurren por más de una comunidad autónoma y legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las comunidades autónomas de establecer normas adicionales de protección.

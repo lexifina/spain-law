@@ -1,0 +1,13 @@
+## REY DE ESPAÑA
+
+A todos los que la presente vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley Orgánica.
+
+## EXPOSICIÓN DE MOTIVOS
+
+Durante la tramitación parlamentaria de la presente Ley Orgánica el Senado, en el ejercicio de las potestades atribuidas por el artículo 90.2 de la Constitución, aprobó diversas enmiendas al texto de la proposición de Ley de ordenación del comercio que le había sido remitida por el Congreso de los Diputados.
+
+El mensaje motivado del Senado que acompañaba a tales enmiendas indicaba que «atribuyendo a la disposición transitoria primera el carácter de Ley Orgánica de transferencia o delegación a las Comunidades Autónomas de facultades correspondientes a materia de titularidad estatal, queda colmado cualquier defecto de títulos competenciales en las Comunidades Autónomas (o en algunas de ellas) para el ejercicio de las facultades, de distinta naturaleza, que se les atribuyen en la citada disposición. El carácter orgánico de la nueva disposición adicional sexta introducida no puede ofrecer duda, de acuerdo con el artículo 150.2 de la Constitución. En cuanto al artículo 16 su mención en este nuevo precepto obedece, principalmente, al propósito de que pueda acabar incluido en el mismo instrumento normativo que la disposición transitoria primera y la disposición adicional sexta, como lo aconsejan razones de conexión temática, sistematicidad y buena política legislativa. Es evidente que si el Congreso de los Diputados decidiera que en la última fase de tramitación de esta proposición de Ley, conforme al artículo 90.2 de la Constitución española, los tres preceptos mencionados (artículo 16, disposición adicional sexta y disposición transitoria primera), se convirtieran en una proposición de Ley Orgánica independiente, esta nueva disposición final introducida quedaría implícitamente aceptada y cumpliría su objeto con la sola aprobación de esa proposición de Ley como tal Ley Orgánica, sin incluir en su texto (por no tener entonces sentido) el de esta disposición final nueva».
+
+El Congreso de los Diputados, en virtud de lo establecido en el artículo 90.2 de la Constitución, y de acuerdo con lo dispuesto en el artículo 81 de la misma, en relación con el artículo 150.2 del texto constitucional, aprobó por mayoría absoluta las enmiendas introducidas por el Senado relativas a la disposición adicional sexta y a la disposición final segunda, en relación con el artículo 16 y la disposición transitoria primera de la proposición de Ley de ordenación del comercio minorista, en una votación final sobre el conjunto, habiendo pasado a integrar la presente Ley Orgánica.

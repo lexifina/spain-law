@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Residencia en España con periodos de ausencia del territorio español.
+
+Sin perjuicio de la necesidad de acreditar, conforme a la legislación vigente, la continuidad de la residencia en España para la adquisición de la residencia de larga duración o la nacionalidad española, la renovación de la residencia podrá efectuarse aún existiendo ausencias superiores a seis meses al año en el caso de visados de residencia y autorizaciones para inversores extranjeros o trabajadores extranjeros de empresas que realizando sus actividades en el extranjero tengan fijada su base de operaciones en España.

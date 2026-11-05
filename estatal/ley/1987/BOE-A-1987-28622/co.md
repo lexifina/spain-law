@@ -1,0 +1,1 @@
+Norma derogada, excepto para las Ciudades de Ceuta y Melilla hasta la aprobación dentro de su ámbito competencial de la normativa correspondiente a esta materia, por la disposición derogatoria 2.11 de la Ley 13/2011, de 27 de mayo. Ref. BOE-A-2011-9280#dd

@@ -1,0 +1,3 @@
+## Disposición adicional primera. Aplicación al Espacio Económico Europeo.
+
+En el supuesto y momento en que se atengan al cumplimiento de la Directiva 2014/60/UE, del Parlamento Europeo y del Consejo, de 15 de mayo de 2014, relativa a la restitución de bienes culturales que hayan salido de forma ilegal del territorio de un Estado miembro de la Unión Europea, y por la que se modifica el Reglamento UE n.º 1024/2012, la presente ley se aplicará a los países miembros del Espacio Económico Europeo no integrados en la Unión Europea, teniendo a todos los efectos la condición de Estados requirentes o requeridos.

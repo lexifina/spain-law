@@ -1,0 +1,5 @@
+## Disposición adicional tercera. Obligación de remitir relaciones de bienes a la Tesorería General de la Seguridad Social por las Entidades Gestoras.
+
+Las Entidades Gestoras y Servicios Comunes de la Seguridad Social que, a la entrada en vigor del presente Real Decreto, ostenten, usen o disfruten bienes inmuebles integrantes del patrimonio de la Seguridad Social, vendrán obligados a facilitar a la Tesorería General relación de tales bienes.
+
+Los bienes inmuebles o muebles que ocupen, usen o disfruten las nuevas Entidades Gestoras de la Seguridad Social, con motivo de la reforma del Sistema establecido por el Real Decreto-Ley 36/1978, de 16 de noviembre, y disposiciones posteriores y complementarias, se considerarán definitivamente adscritos, a todos los efectos, a la Entidad o Servicio que los detenta, usa o disfruta por cualquier título, correspondiendo a dicha Entidad o Servicio la realización de los actos de conservación, defensa o mejora que procedan con cargo a su Presupuesto de Gastos.

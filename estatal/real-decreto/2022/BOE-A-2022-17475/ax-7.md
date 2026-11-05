@@ -1,0 +1,21 @@
+## ANEXO XVI
+
+## Datos para evaluación y seguimiento de la intervención de inversiones
+
+Solicitante/Beneficiario
+
+| TIPO | – PERSONA FÍSICA. – SOCIEDADES CIVILES PARTICULARES. – COMUNIDAD DE BIENES. – PERSONA JURÍDICA: ● COOPERATIVA. ● OTRAS: S.A.T.; S.A.; S.L. – OTRAS. |
+| --- | --- |
+| TAMAÑO DEL BENEFICIARIO | – PYME. – GRANDES “INTERMEDIAS”. – GRANDES “NO INTERMEDIAS”. |
+| IDENTIFICACIÓN | – NIF. – DOMICILIO SOCIAL. – DOMICILIO FISCAL. |
+
+Operación
+
+| CARACTERÍSTICAS DE LA OPERACIÓN | – ANUAL O BIENAL. – PRESUPUESTO POR ANUALIDAD. – AYUDA POR ANUALIDAD. – PRODUCTOS: SEGÚN ANEXO VII PARTE II. – PRESUPUESTO DESTINADO A ACTUACIONES DE CARÁCTER MEDIOAMBIENTAL(1). – CAPACIDAD INSTALADA DE ENERGÍAS RENOVABLES(2), INCLUIDA LA BIOMASA (Megavatios). |
+| --- | --- |
+| TIPO DE INVERSIÓN | – NUEVA INSTALACIÓN. – AMPLIACIÓN. – MEJORA. – TRASLADO. |
+| OBJETIVOS ESTRATÉGICOS | – 1 A 11 SEGÚN ANEXO IX. |
+| OBJETIVOS GENERALES | – SEGÚN ANEXO X U OTROS A ESPECIFICAR. |
+| (1) Aquellas incluidas en los criterios 2.1, 2.2 y 2.3. del anexo XIII. (2) Los datos deben reflejar la capacidad instalada y conectada al final del año. |
+
+> Se modifica por el art. 5.12 del Real Decreto 92/2024, de 23 de enero. Ref. BOE-A-2024-1308

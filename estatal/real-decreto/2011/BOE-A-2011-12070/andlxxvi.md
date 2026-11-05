@@ -1,0 +1,1115 @@
+## ANEXO DLXXVI
+
+## Cualificación profesional: Documentación pesquera
+
+Nivel: 3
+
+Código: MAP576_3
+
+Competencia general
+
+Gestionar y coordinar ante las Administraciones competentes las actividades del buque, tanto en puerto como en la mar, relacionadas con los despachos, certificados, seguridad, tripulación y la actividad pesquera y comercial del producto extraído, respetando la normativa aplicable.
+
+Unidades de competencia
+
+UC0010_1: Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+UC1896_3: Gestionar la documentación del buque y de su actividad pesquera durante el viaje y/o marea.
+
+UC1897_3: Gestionar la documentación vinculada con el buque como elemento estructural y su seguridad en puerto.
+
+UC1898_3: Gestionar la documentación relacionada con la pesca como actividad comercial en puerto.
+
+UC0733_1: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo.
+
+Entorno Profesional
+
+Ámbito Profesional
+
+Desarrolla su actividad profesional en buques dedicados a la pesca extractiva o a las actividades de la acuicultura, en entidades de naturaleza pública o privada, con independencia del tamaño de la empresa, tanto por cuenta propia como ajena, con independencia de su forma jurídica. Desarrolla su actividad dependiendo, en su caso, funcional y/o jerárquicamente de un superior. Puede tener personal a su cargo en ocasiones, por temporadas o de forma estable. Su actividad profesional está sometida a regulación por la Administración competente. En el desarrollo de la actividad profesional se aplican los principios de accesibilidad universal y diseño universal o diseño para todas las personas de acuerdo con la normativa aplicable.
+
+Sectores Productivos
+
+Se ubica en el sector marítimo-pesquero y principalmente en los subsectores de la industria pesquera donde se desarrollan procesos de: pesca extractiva y acuicultura.
+
+Ocupaciones y puestos de trabajo relevantes
+
+Los términos de la siguiente relación de ocupaciones y puestos de trabajo se utilizan con carácter genérico y omnicomprensivo de mujeres y hombres.
+
+Marineros en buques de pesca.
+
+Marineros en buques mercantes.
+
+Administrativos de gestión pesquera.
+
+Despachantes de buques pesqueros.
+
+Responsables técnicos de documentación administrativa de buques pesqueros.
+
+Formación Asociada (450 horas)
+
+Módulos Formativos
+
+MF0010_1: Labores de cubierta en buque de pesca (30 horas)
+
+MF1896_3: Gestión de la actividad pesquera del buque (90 horas)
+
+MF1897_3: Documentación para la gestión del buque (150 horas)
+
+MF1898_3: Documentación para la actividad pesquera (120 horas)
+
+MF0733_1: Seguridad y primeros auxilios a bordo (60 horas)
+
+UNIDAD DE COMPETENCIA 1: CONTRIBUIR A LAS OPERACIONES DE CUBIERTA EN UNA EMBARCACIÓN PESQUERA
+
+Nivel: 1
+
+Código: UC0010_1
+
+Realizaciones profesionales y criterios de realización:
+
+RP1: Intervenir en operaciones relacionadas con el arranchado, labores de carga y descarga del buque de pesca y auxiliar de acuicultura, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con el fin de mantener el buque a «son de mar».
+
+CR1.1 Las provisiones y pertrechos se recepcionan, estiban y almacenan teniendo en cuenta criterios de peso, volumen y localización.
+
+CR1.2 La carga, descarga y traslado de pesos se realiza mediante los dispositivos de movilización evitando accidentes que puedan repercutir tanto en el buque como en la carga o la tripulación.
+
+CR1.3 La estiba en bodega o nevera, embarque o desembarque del pescado, se efectúa atendiendo a la naturaleza y embalaje del producto para su conservación.
+
+RP2: Realizar operaciones vinculadas a las maniobras del buque de pesca o auxiliar de acuicultura en puerto, así como su gobierno y guardia, vigía y mantenimiento, siguiendo las instrucciones de la persona responsable y en condiciones de seguridad, con objeto de garantizar su manejo y operatividad.
+
+CR2.1 Los cabos, cables, cadenas, defensas y demás elementos para las maniobras, y utilizan previa preparación en función de la actividad a realizar, garantizando su solidez, a fin de evitar faltas y roturas.
+
+CR2.2 Las guardias de vigía y timón se realizan observando los posibles blancos y luces en el horizonte y vigilando los compases, para garantizar la navegación del buque pesquero.
+
+CR2.3 Los trabajos de limpieza, engrase y/o lubrificación, rascado y pintado se efectúan aplicando las técnicas y productos específicos, en función de la zona y del material a intervenir, para garantizar la conservación del buque.
+
+CR2.4 El manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros se realiza con destreza para facilitar su operatividad.
+
+RP3: Ejecutar las faenas de pesca, la manipulación y la conservación de los productos pesqueros y acuícolas, observando las normas de seguridad, higiene y protección de los recursos, siguiendo las instrucciones recibidas de la persona responsable, a fin de garantizar la actividad pesquera y la explotación sostenible de los recursos pesqueros.
+
+CR3.1 Las faenas de pesca se realizan con eficacia y seguridad, bajo las indicaciones de un superior, atendiendo al tipo de buque y equipo de pesca a utilizar, con objeto de evitar daños y averías que puedan retrasar la actividad pesquera.
+
+CR3.2 Las capturas se conservan previa manipulación, en función del tipo y tratamiento a dar a la especie, atendiendo a las normas sobre higiene en el parque de pesca y a la normativa sobre manipulación de los productos de la pesca, a fin de obtener la máxima explotación de la actividad.
+
+CR3.3 Las especies capturadas no objetivo, sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros se gestionan (incluye la anotación de dichas capturas en el diario de pesca), aplicando buenas prácticas a fin de reducir los impactos de la pesca sobre la zona protegida.
+
+CR3.4 La contaminación marina que pudiera venir derivada de las actividades de limpieza del casco, aportes de basuras y desechos, entre otros se previene disponiendo y utilizando los recursos relativos a la gestión de residuos (tales como contenedores, reciclado, trituración) contemplados en la normativa de protección del medio marino, para no causar daños medioambientales.
+
+Contexto profesional:
+
+Medios de producción:
+
+Jarcia firme y de labor: cables, cabos, grilletes, útiles y herramientas para la carga, descarga, estiba y almacenamiento. Equipos auxiliares de maniobra: grúas, molinete, cabrestante, maquinillas, chigres, haladores, entre otros. Equipos de gobierno y vigilancia: compás magnético, girocompás, timón, prismáticos, entre otros. Equipo de herramientas para mantenimiento y conservación del buque: rasquetas, brochas, pinturas, grasas, aceites, carpintería, entre otros. Útiles, aparejos y artes. Maquinaria de pesca de cubierta. Equipos para la manipulación y conservación de los productos de la pesca y la acuicultura. Equipos de seguridad y supervivencia: botes, balsas, mangueras, extintores, entre otros.
+
+Productos y resultados:
+
+Estiba y arranche. Faenas de carga, descarga y traslado de pesos. Estiba, embarque y desembarque del pescado, realizadas. Maniobras de atraque, desatraque, fondeo y remolque del buque, llevadas a cabo. Guardias de vigilancia y timón, cumplidas. Buque en estado de conservación. Faenas de pesca ejecutadas. Productos pesqueros y acuícolas manipulados y conservados. Respeto al medio marino. Ropa, iluminación, maquinaría y elementos de trabajo en estado de conservación. Elementos de seguridad y salvamento operativos.
+
+Información utilizada o generada:
+
+Órdenes de la persona responsable. Vocabulario pesquero. Reglamento Internacional de Señales. Normativa aplicable sobre protección del medio marino y sus recursos. Normativa sobre prevención de riesgos laborales. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+UNIDAD DE COMPETENCIA 2: GESTIONAR LA DOCUMENTACIÓN DEL BUQUE Y DE SU ACTIVIDAD PESQUERA DURANTE EL VIAJE Y/O MAREA
+
+Nivel: 3
+
+Código: UC1896_3
+
+Realizaciones profesionales y criterios de realización:
+
+RP1: Formalizar los documentos y los trámites administrativos vinculados con el buque, la tripulación y su actividad pesquera durante el viaje y/o marea, según criterios normativos aplicables y jurídicos, con el fin de efectuar los registros y anotaciones exigidos por la empresa naviera.
+
+CR1.1 El autodespacho del buque se realiza en la sección tercera del Rol, según el modelo de Rol de Despachos y Dotación para Buques de Pesca.
+
+CR1.2 Los enroles y desenroles de los tripulantes en el Rol del buque se efectúan conforme a las exigencias de titulación, certificados y reconocimientos establecidos, según las características del buque.
+
+CR1.3 La lista de tripulantes se confecciona conforme a los datos contenidos en el Rol del buque y en la documentación individual de los tripulantes, sean de la nacionalidad del buque o extranjeros, al objeto de presentarlas a las Autoridades que las requieran a la entrada o salida del buque en puerto.
+
+CR1.4 La documentación relativa a la evacuación de tripulantes en la mar por razones de enfermedad, accidente o de otra índole, se cumplimenta atendiendo a las características y necesidades de la misma a fin de programar y agilizar la recepción en tierra.
+
+RP2: Coordinar la gestión administrativa relacionada con la actividad pesquera del buque durante el viaje y/o marea, formalizando los documentos y cumpliendo tanto la normativa pesquera aplicable a nivel de administración, como la establecida por la empresa naviera, para llevar su control efectivo.
+
+CR2.1 Los mensajes de entradas y salidas de las zonas de pesca se elaboran conforme a los modelos establecidos, cursándolos a las autoridades competentes por los medios disponibles, al objeto de dejar constancia del inicio y finalización de la actividad pesquera del viaje o marea.
+
+CR2.2 La suspensión de las actividades pesqueras durante la marea se informa a las autoridades competentes, justificándola documentalmente para deducir los días de pesca no utilizados de la licencia y poder recuperarlos, en su caso, en viajes sucesivos.
+
+CR2.3 En el diario de pesca se anotan, conforme a las disposiciones de la normativa pesquera aplicable, las capturas obtenidas en especie y cantidad de cada lance, así como las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando, siempre que sea posible, el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y en caso de que los ejemplares tuviesen una etiqueta, anilla, o marca (convencional o satélite) deberá anotarse la referencia y número que aparece en dichas marcas, comunicándolo a las administraciones, al objeto de llevar un control efectivo de la actividad.
+
+CR2.4 La documentación requerida por los inspectores pesqueros que visiten el buque durante las faenas de captura se cumplimenta según los registros del diario de pesca, para que éstos comprueben los datos y extiendan el acta de inspección.
+
+RP3: Coordinar la información administrativa generada durante el viaje y/o marea con la establecida por el armador en puerto, atendiendo a la rapidez en la transmisión de la misma y a los medios de comunicación disponibles, para optimizar ésta y la toma de decisiones por parte de la empresa naviera.
+
+CR3.1 La llegada del buque a los puertos designados se informa, enviando con la antelación mínima establecida la documentación relativa a las operaciones a realizar y consignando en la misma, las especies y peso a desembarcar, a fin de que las autoridades pesqueras puedan ejercer las acciones de control oportunas.
+
+CR3.2 Las operaciones de transbordo de pescado entre buques se gestionan en las administraciones competentes del país donde se realicen, presentando la documentación en la que figuren la declaración de las cantidades y especies transbordadas y su destino posterior, a fin de garantizar el control de las capturas.
+
+CR3.3 La declaración de las capturas se remite a la administración pesquera a la llegada del buque a puerto, especificando las cantidades que han de desembarcarse, a fin de conseguir un control efectivo.
+
+CR3.4 El cumplimiento de las disposiciones sobre vedas, cupos y zonas de captura que afecten a la actividad del buque se coordinan con las administraciones competentes y empresa armadora, para evitar la pérdida de días de pesca y optimizar su rentabilidad.
+
+Contexto profesional:
+
+Medios de producción:
+
+Patente de navegación. Rol de despacho y dotación para buques. Licencia de Navegación para buques. Rol informático. Tarjeta de identificación del buque. Certificado de Navegabilidad. Libreta de Inscripción Marítima. Títulos y Certificados de los tripulantes. Lista de tripulantes. Diario de pesca. Hojas de declaración de capturas. Hojas de manifiesto de carga de pescado. Licencia de pesca. Normativa aplicable sobre vedas, tallas y cuotas de pesca.
+
+Productos y resultados:
+
+Documentos y trámites administrativos vinculados con el buque y su tripulación formalizados. Documentos cumplimentados. Actividad e información administrativa relacionada con la actividad pesquera coordinada.
+
+Información utilizada o generada:
+
+Reglamento sobre el Despacho de Buques. Convenio Internacional sobre Formación, Titulación y Guardia para la Gente de Mar. Ley de Pesca Marítima del Estado. Censo de Buques de Pesca Marítima. Ley española sobre vedas y tallas mínimas. Leyes de Pesca de los estados en los que faena el buque. Lista de tripulantes. Manifiestos de carga de pescado. Declaración de las capturas. Comunicación al departamento correspondiente sobre capturas mensuales, desembarques y transbordos. Documentos escritos y/o en soporte digital para el control y desarrollo de la actividad pesquera. Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+UNIDAD DE COMPETENCIA 3: GESTIONAR LA DOCUMENTACIÓN VINCULADA CON EL BUQUE COMO ELEMENTO ESTRUCTURAL Y SU SEGURIDAD EN PUERTO
+
+Nivel: 3
+
+Código: UC1897_3
+
+Realizaciones profesionales y criterios de realización:
+
+RP1: Formalizar los documentos vinculados con el Registro Marítimo de Buques, teniendo en cuenta las construcciones, obras o modificaciones, tanto estructurales como de los elementos mecánicos e hidráulicos, entre otros, con el fin de adecuarse a la normativa aplicable.
+
+CR1.1 Los expedientes que conforman el total de construcción del buque (permiso de construcción, botadura, reserva de folio, asignación de distintivo, entre otros) se documentan según criterios temporales y formales, con el fin de cumplir con la normativa aplicable.
+
+CR1.2 Las obras y cambios de motor se ejecutan, previa autorización de la Autoridad Marítima, documentando los expedientes con los requisitos legales establecidos (solicitud de taller, conformidad de propietario, proyecto de obras, justificación de potencia de motor, entre otros) con el fin de preservar la seguridad de la navegación y de la vida humana en la mar.
+
+CR1.3 La inscripción de los actos jurídicos que supongan una modificación, tanto en derechos obligacionales como, en especial, en derechos reales incluidos las cargas y los gravámenes que recaigan sobre el buque se tramita en el Registro Marítimo, atendiendo a criterios normativos para conseguir que las anotaciones registrales entre en Registro de Bienes Muebles y el Registro Marítimo de Buques sean coincidentes.
+
+RP2: Despachar los trámites administrativos relacionados con la Inspección/Certificación del buque y con la Seguridad Marítima, teniendo en cuenta la normativa aplicable para mantener el mismo en condiciones de estabilidad y seguridad y los mares limpios, bajo la supervisión del Capitán.
+
+CR2.1 Los certificados se revisan de forma periódica comprobando si limitan al buque para navegar en determinadas zonas, para cargar pesos en posibles espacios, para llevar a un número máximo de tripulantes, entre otros y, en general para comprobar su período de vigencia.
+
+CR2.2 Las revisiones del buque se solicitan a la Autoridad Marítima con antelación suficiente, teniendo en cuenta las fechas de caducidad de los certificados o períodos de prórroga para mantenerlos vigentes.
+
+CR2.3 Los accidentes o cualquier otro acaecimiento que pueda provocar algún riesgo para la seguridad del buque, de su tripulación, o la contaminación del mar se documentan según criterios normativos, para colaborar con el patrón/armador a notificar los hechos a las Autoridades competentes (parte de accidentes, protesta de averías, entre otros), con el fin de preservar la seguridad de la navegación y de la vida humana en el mar.
+
+CR2.4 La documentación recibida en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) se interpreta, con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP3: Solicitar a trámite los expedientes de los títulos profesionales y certificados de especialidad de la tripulación cumplimentados, teniendo en cuenta los requisitos legales y normativos, para su posterior tramitación y expedición por las Autoridades competentes.
+
+CR3.1 La inscripción marítima de los miembros de la tripulación se solicita ante las Autoridades marítimas, una vez documentada según establece la normativa aplicable, para la obtención de la libreta marítima.
+
+CR3.2 Los días de embarco se formalizan, previa justificación, atendiendo a los modelos preestablecidos, las características del buque y la normativa aplicable para su posterior unión a los expedientes de títulos y/o certificados de especialidad.
+
+CR3.3 Los expedientes de títulos profesionales se documentan, según la normativa aplicable para su posterior tramitación y expedición por las Autoridades competentes.
+
+CR3.4 Los cursos de los certificados de especialidad se programan, y sus expedientes se formalizan ante las Autoridades competentes, según los criterios normativos exigidos a los miembros de la tripulación atendiendo a las características de buque o zona de navegación, para su posterior expedición y registro.
+
+CR3.5 Los distintos tipos de informes se cumplimentan utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP4: Gestionar los expedientes vinculados con el despacho del buque, teniendo en cuenta la normativa aplicable para posibilitar su salida a la mar en el tiempo previsto y de forma segura.
+
+CR4.1 Los requisitos previos (titulación, reconocimiento médico, entre otros) se gestionan con antelación suficiente para permitir el enrole de la tripulación, por el patrón o armador con garantías jurídicas suficientes y la formalización del mismo en la libreta marítima por parte de la Autoridad Marítima.
+
+CR4.2 El expediente del despacho del buque se solicita ante la Autoridad Marítima con antelación suficiente, una vez documentado, previa comprobación de que se cumplen todos los requisitos exigidos por la normativa aplicable, con el fin de obtener una resolución estimatoria del mismo.
+
+CR4.3 Las anotaciones que se practican en el Rol de Despacho y Dotación, como consecuencia de un enrole, un despacho o una escala del buque en puerto se planifican y toman en consideración según criterios legales vigentes, con el fin de colaborar con el patrón o armador a que éstos las formalicen atendiendo a criterios temporales y formales y así, mantener el Rol actualizado.
+
+Contexto profesional:
+
+Medios de producción:
+
+Hojas de asiento, libros de registro de buques, certificaciones del Registro Mercantil, modelos de resoluciones administrativas, certificados del buque, proyectos de construcción y de obras, notas simples informativas, escrituras notariales, actas de notoriedad, actos de testamentaría, libretas marítimas, tarjetas y títulos profesionales, certificados de especialidad, manuales de gestión de calidad, roles de despacho y dotación, licencias de pesca.
+
+Productos y resultados:
+
+Documentos vinculados con el Registro Marítimo de Buques, formalizados. Trámites administrativos relacionados con la Inspección/Certificación del Buque y con la Seguridad Marítima, despachados. Expedientes de los títulos profesionales y certificados de especialidad de la tripulación, cumplimentados y solicitados a trámite. Expedientes vinculados con el despacho del buque, gestionados.
+
+Información utilizada o generada:
+
+Libros de registro de buques, tarjetas profesionales y títulos, certificados de especialidad, libreta marítima, rol de despacho y dotación. Normativa aplicable sobre registro de buques, titulaciones, inspección y certificación de buques civiles, resoluciones administrativas. Normativa pesquera, licencias de pesca, resoluciones de cambios de actividad pesquera.
+
+UNIDAD DE COMPETENCIA 4: GESTIONAR LA DOCUMENTACIÓN RELACIONADA CON LA PESCA COMO ACTIVIDAD COMERCIAL EN PUERTO
+
+Nivel: 3
+
+Código: UC1898_3
+
+Realizaciones profesionales y criterios de realización:
+
+RP1: Despachar ante las autoridades pesqueras competentes localizadas en el puerto, los expedientes vinculados con las ayudas y subvenciones a la pesca, para su gestión y explotación, teniendo en cuenta la normativa aplicable y la actividad comercial de la empresa.
+
+CR1.1 Las ayudas para la construcción y modernización de buques pesqueros se solicitan, una vez documentadas, ante las Autoridades Pesqueras Autonómicas, atendiendo a la normativa aplicable para una explotación eficiente de la actividad empresarial.
+
+CR1.2 Los expedientes de ayuda para paralización temporal o definitiva de la actividad se documentan, según los requisitos establecidos por las autoridades pesqueras competentes, ya sean estatales o autonómicas, para conseguir la subvención que se solicita.
+
+CR1.3 Las subvenciones que establezcan las autoridades pesqueras competentes para actualización de equipos, o mejoras de la actividad pesquera de la empresa (instalación de la caja azul, retiradas del mercado de productos pesqueros o constitución de sociedades mixtas, entre otras) se tramitan, según los criterios establecidos en las bases de la convocatoria, con el fin de adecuarse a las exigencias de la actividad del mercado.
+
+CR1.4 La documentación recibida en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) en el sector se interpreta, a fin de facilitar la tramitación de la misma ante las Autoridades pesqueras.
+
+RP2: Tramitar ante las Autoridades pesqueras competentes, localizadas en el puerto, los expedientes de actividad pesquera (censo de flota, reactivación, compromisos de baja, entre otros) vinculados con la construcción, desguaces, obras o modificación de características y/o elementos principales del buque una vez formalizados, atendiendo a la normativa aplicable, para conseguir el obligado sincronismo entre la actividad de la pesca con la identificación y seguridad del buque.
+
+CR2.1 Las altas, reactivaciones, modificaciones o bajas del censo de flota operativa se tramitan ante la Autoridad pesquera competente, atendiendo a los requisitos establecidos en cada caso para conseguir la catalogación del buque como buque pesquero.
+
+CR2.2 Los expedientes de permisos para la construcción del buque, obras o cambios de motor se tramitan ante las autoridades pesqueras competentes, atendiendo a criterios normativos de esfuerzo pesquero para poder iniciar el posterior expediente ante la Autoridad Marítima por criterios de seguridad de la navegación y de la vida humana en el mar.
+
+CR2.3 Los compromisos de baja se formalizan en presencia de la Autoridad Pesquera competente, con el fin de aportar el buque para una nueva construcción o para realizar obras que supongan un aumento de arqueo.
+
+CR2.4 Los distintos tipos de informes se cumplimentan utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI) con precisión y sin dificultad en cualquier contexto, para garantizar la ejecución de las actividades.
+
+RP3: Documentar los expedientes pesqueros relacionados con las licencias de pesca, los cambios de modalidad o autorizaciones especiales para determinadas especies, atendiendo a los requisitos normativos aplicables para la explotación del buque y las pesquerías.
+
+CR3.1 Los reconocimientos de los equipos de pesca se solicitan ante las autoridades pesqueras competentes, en el momento de la construcción del buque o modernización del equipo, para conseguir la expedición del certificado que acredite que el equipo de pesca se ajusta a criterios normativos pesqueros, tanto de esfuerzo como de homologación.
+
+CR3.2 La fijación o cambio del puerto base se solicita, atendiendo tanto a criterios económicos empresariales como normativos y legales, ante las autoridades pesqueras competentes, para conseguir un puerto de base pesquera para el buque.
+
+CR3.3 La expedición de la célula y licencia de pesca se tramita durante la construcción del buque, con antelación suficiente y documentando el expediente con los requisitos exigidos por la normativa pesquera aplicable, para conseguir la licencia pesquera del buque y la posibilidad de que éste sea despachado a la mar para la pesca al finalizar su construcción sin demora.
+
+CR3.4 Los cambios de modalidad de pesca o permisos especiales de pesca para determinadas artes o especies (verdel, anchoa, bonito, entre otros) se solicitan ante las autoridades pesqueras competentes, con antelación suficiente, según criterios normativos aplicables o de oportunidad económica empresarial, con el fin de optimizar la actividad pesquera y permitir el despacho del buque.
+
+Contexto profesional:
+
+Medios de producción:
+
+Licencias de pesca, roles de despacho y dotación, censo de flota pesquera operativa, modelos de resoluciones administrativas de despacho de buques, células de pesca, diario de pesca de las Comunidades Europeas, libretas marítimas, altas y bajas en la Seguridad Social, copias de asiento, notas simples informativas, información sobre pesca obtenida.
+
+Productos y resultados:
+
+Expedientes vinculados con las ayudas y subvenciones a la pesca despachados ante las autoridades pesqueras competentes. Expedientes de actividad pesquera formalizados y tramitados. Expedientes pesqueros relacionados con las licencias de pesca, los cambios de modalidad o autorizaciones especiales para determinadas especies, documentados.
+
+Información utilizada o generada:
+
+Normativa marítima y pesquera, rol de despacho y dotación, censo de flota pesquera operativa, diario de pesca de las Comunidades Europeas, libreta marítima, diario de navegación, información sobre esfuerzo pesquero. Registro de capturas.
+
+UNIDAD DE COMPETENCIA 5: ACTUAR EN EMERGENCIAS MARÍTIMAS Y APLICAR LAS NORMAS DE SEGURIDAD EN EL TRABAJO
+
+Nivel: 1
+
+Código: UC0733_1
+
+Realizaciones profesionales y criterios de realización:
+
+RP1: Actuar en caso de abandono de buque siguiendo técnicas de supervivencia personal y las instrucciones establecidas en el «procedimiento de abandono», para salvaguardar la seguridad personal y colaborar en la seguridad del buque y la tripulación.
+
+CR1.1 La ubicación de los dispositivos salvavidas del buque, dispositivos personales de salvamento y de las embarcaciones de supervivencia se localizan previamente identificados, teniendo en cuenta las señales identificativas de los mismos, con el fin de ser utilizados en casos de abandono del buque.
+
+CR1.2 La secuencia y el momento de uso de las medidas individuales de salvamento para caso de abandono del buque se ajustan al procedimiento establecido de abandono, teniendo en cuenta las condiciones reinantes, con el fin de minimizar los peligros y amenazas para la supervivencia.
+
+CR1.3 El método de subida en la embarcación de supervivencia, las medidas iniciales de abandono y los procedimientos de actuación en el agua se ejecutan siguiendo el protocolo de abandono, para minimizar las amenazas para la supervivencia y el peligro para otros supervivientes.
+
+CR1.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+RP2: Ejecutar las operaciones de prevención y lucha contra-incendios, de acuerdo con el procedimiento de «prevención y lucha contra incendios», para preservar la seguridad del buque y su tripulación.
+
+CR2.1 Las medidas iniciales adoptadas al darse cuenta de una emergencia con fuego se ajustan a las prácticas y procedimientos establecidos, con el fin de evitar que se origine o propague.
+
+CR2.2 Los dispositivos y equipos de lucha contra-incendios y las vías de evacuación en casos de emergencia se localizan, previamente identificados, interpretando las señalizaciones de a bordo y los sistemas automáticos de alarma con el fin de su utilización en este tipo de emergencias.
+
+CR2.3 La secuencia y el momento de uso de las medidas individuales contra incendios y los procedimientos y técnicas de manejo del aparato respiratorio y cable de seguridad se ajustan a las prácticas y al procedimiento establecido, teniendo en cuenta el tipo, la fuente de ignición y el foco del incendio (incendios pequeños del equipo eléctrico, de hidrocarburos y de propano; de gran envergadura utilizando lanzas de aspersión y chorro; incendios, incluidos los de hidrocarburos, con un aparato de neblina y boquillas aspersoras, polvos químicos secos o rociadores de espuma en espacios cerrados llenos de humo y en una camarote o cámara de máquinas simulada), con el fin de extinguir el incendio y preservar la seguridad del buque y la tripulación.
+
+CR2.4 Las medidas para efectuar una operación de rescate en un espacio lleno de humo se llevan a cabo con un aparato respiratorio autónomo siguiendo el procedimiento de rescate establecido, con el fin de preservar la integridad física de la víctima.
+
+RP3: Aplicar medidas de primeros auxilios básicos, según los procedimientos establecidos, colaborando con el personal responsable con el fin de minimizar los daños en casos de accidentes o emergencia médica a bordo.
+
+CR3.1 El examen del paciente y la toma de constantes vitales (pulso carotideo y radial, presencia o ausencia de respiración, toma de temperatura y reflejo pupilar) se llevan a efecto siguiendo protocolos establecidos con el fin de colaborar en la elaboración de una historia clínica básica.
+
+CR3.2 El tratamiento de primeros auxilios a los enfermos o accidentados a bordo en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, esguinces, luxaciones y fracturas se llevan a cabo siguiendo los procedimientos establecidos para cada caso, para paliar y evitar el agravamiento de los daños de los accidentados.
+
+CR3.3 La inmovilización y el transporte de heridos se realizan mediante maniobras, métodos de rescate y transporte protocolizados, con el fin de socorrer y no agravar los daños del paciente o herido.
+
+CR3.4 El botiquín de primeros auxilios integrado por el instrumental, material de curas y medicamentos (diferenciando entre «principio activo» y «nombre comercial») se identifica para su utilización en situaciones de emergencia vinculadas a los accidentados a bordo.
+
+RP4: Adoptar las medidas de seguridad personal y responsabilidades sociales cumpliendo las normas e instrucciones relativas a la seguridad en el trabajo y de prevención de la contaminación, para preservar la seguridad personal, de la tripulación y del buque y evitar daños al medio marino.
+
+CR4.1 La información relativa a los planes de contingencias del buque, señales de emergencia y medidas a adoptar al oír las mismas se interpreta a fin de ejecutar las medidas de seguridad en la utilización de equipos y medios de supervivencia, protección personal, ambiental y de socorro, según la normativa aplicable e instrucciones recibidas durante la familiarización a bordo, para minimizar los riesgos derivados del trabajo.
+
+CR4.2 Los trabajos ejecutados en cualquier lugar del buque se efectúan de acuerdo con la normativa de prevención de riesgos laborales, utilizando los dispositivos y medios de protección personal con el fin de preservarse de los peligros que puedan presentarse a bordo.
+
+CR4.3 Las medidas a tomar para evitar la contaminación marina se llevan a cabo de acuerdo con la normativa aplicable e instrucciones recibidas para no causar daños accidentales u operacionales al medio marino.
+
+CR4.4 Las instrucciones se interpretan con claridad en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+Contexto profesional:
+
+Medios de producción:
+
+Aros salvavidas, chalecos salvavidas, trajes de supervivencia en la mar, ayudas térmicas. Botes salvavidas, balsas salvavidas, botes de rescate. Dispositivos para puesta a flote de balsas salvavidas. Equipo de las embarcaciones de supervivencia, radiobaliza de localización, respondedor de radar, señales pirotécnicas de socorro, cohetes y bengalas, señales fumígenas, heliógrafo, estación portátil de socorro, ancla flotante, entre otros. Red de agua contra-incendios: bombas, aspersores, válvulas, hidrantes, cañones, mangueras, lanzas. Agentes extintores: polvo seco, arena, agua, espuma, vapor, CO2, gas inerte. Equipos de lucha contra-incendios. Extintores móviles. Sistemas fijos (de espuma, de CO2, de polvo). Sistemas de detección: alarmas, detectores de humo, detectores de calor, entre otros. Equipos de respiración: autónomos y manuales, máscaras, botella. Equipos de protección individual: trajes, casco, guantes, botas, botiquín reglamentario. Equipo de protección individual y colectiva: arneses, guindolas, guantes, cascos, gafas, cinturones, ropa, calzado, entre otros, y todo el material de uso en el trabajo de acuerdo con la ley de protección de riesgos laborales. Medios para prevenir la contaminación según normativa aplicable.
+
+Productos y resultados:
+
+Actuaciones en caso de abandono de buque realizadas. Operaciones de prevención y lucha contra-incendios ejecutadas. Medidas de primeros auxilios básicos aplicadas. Medidas de seguridad personal y responsabilidades sociales adoptadas.
+
+Información utilizada o generada:
+
+Plan Nacional de Salvamento Marítimo y de lucha contra la contaminación. Convenio SOLAS (Sevimar). Manual MERSAR de búsqueda y rescate. MOB del GPS en caso de «hombre al agua». Manuales sobre materiales inflamables y combustibles. Manual de primeros auxilios a bordo. Normativa aplicable sobre prevención de riesgos laborales. Vocabulario marítimo de la Organización Marítima Internacional (OMI). Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+MÓDULO FORMATIVO 1: LABORES DE CUBIERTA EN BUQUE DE PESCA
+
+Nivel: 1
+
+Código: MF0010_1
+
+Asociado a la UC: Contribuir a las operaciones de cubierta en una embarcación pesquera
+
+Duración: 30 horas
+
+Capacidades y criterios de evaluación:
+
+C1: Diferenciar y denominar las partes, elementos y equipos del buque de pesca y sus denominaciones en lo que corresponde al casco, cubierta y elementos de carga y descarga.
+
+CE1.1 Distinguir la nomenclatura de las partes de un buque y de sus elementos fijos y móviles, a fin de localizarlos en el plano de un buque pesquero.
+
+CE1.2 En un supuesto práctico de arranche del buque pesquero:
+
+- Recepcionar los pertrechos, provisiones y demás cargas recibidas, detectando si hay deficiencias en los mismos.
+
+- Arranchar y estibar los elementos anteriores en los pañoles, bodegas y otros espacios del buque, atendiendo a la naturaleza de la carga.
+
+CE1.3 Identificar los dispositivos de movilización para realizar las operaciones de carga, descarga y traslado de pesos en el buque pesquero, atendiendo a la carga a manipular.
+
+CE1.4 Describir secuencialmente las actividades que se realizan en una operación de embarque, desembarque y estiba de pescado atendiendo a la naturaleza y embalaje del producto.
+
+CE1.5 En un supuesto práctico de arranche, que contemple en aguas interiores de puertos, el manejo con fines comerciales de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:
+
+- Realizar las operaciones de arranchado y labores de carga y descarga, en condiciones de seguridad y atendiendo a la naturaleza de la carga, que aseguren la estiba y eviten la rotura y deterioro de las mercancías.
+
+C2: Aplicar procesos de realización de maniobras, gobierno, vigía, guardia y operaciones de mantenimiento del buque de pesca o auxiliar de acuicultura que contribuyen a la operatividad del mismo.
+
+CE2.1 Describir las actividades que se realizan en las maniobras de atraque, desatraque, fondeo y remolque, para identificar las faenas de un buque pesquero en puerto.
+
+CE2.2 Describir en el proceso de realización de actividades en un buque de pesca o auxiliar de acuicultura:
+
+- Los peligros debidos a los movimientos y aceleraciones del buque y a las superficies resbaladizas.
+
+- Los peligros que acarrean las operaciones de pesca al calar y halar el arte y al embarcar la captura.
+
+- Las buenas prácticas de a bordo, particularmente para reducir el riesgo de incendios.
+
+- El uso de medios de protección personal a bordo.
+
+- La importancia de la estanqueidad, al agua y a la intemperie, en los buques pesqueros y la función de las portas de desagüe.
+
+- El funcionamiento de los dispositivos de cierre de puertas y otras aperturas que sean importantes para la estanqueidad al agua y a la intemperie.
+
+CE2.3 Interpretar las señales acústicas, luces y otros objetos que puedan divisarse durante la guardia.
+
+CE2.4 En un supuesto práctico de gobierno del buque pesquero:
+
+- Mantener el rumbo con el timón, cualquiera que sea el sistema de lectura del compás, para acreditar su identificación.
+
+- Realizar cambios de rumbo utilizando el timón.
+
+- Manejar los equipos de cubierta, tales como maquinillas, grúas de pórtico, plumas, estopores/cadenas, cables, cabos.
+
+CE2.5 En un supuesto práctico de mantenimiento del buque pesquero:
+
+- Realizar los trabajos de limpieza, rascado y repintado de las partes del buque que lo necesiten, a fin de evitar la oxidación de los materiales.
+
+- Engrasar y/o lubrificar, entre otros, los pescantes, pastecas, chigres, maquinillas del buque de pesca o auxiliar de acuicultura, manteniendo los elementos móviles en estado de funcionamiento.
+
+CE2.6 En un supuesto práctico de maniobras, guardia y mantenimiento, que contemple en aguas interiores de puertos el manejo, con fines comerciales, de embarcaciones de menos de diez metros, dedicadas a la pesca o auxiliar de acuicultura que no transporten pasajeros:
+
+- Ejecutar las maniobras del buque de pesca o auxiliar de acuicultura en puerto, gobierno, vigía y mantenimiento, con seguridad, eficacia y observando la reglamentación vigente sobre luces y señales, que eviten riesgos marítimos y aseguren el estado de la embarcación.
+
+C3: Aplicar procesos de largado y virado, manipulación y conservación de los productos pesqueros y acuícolas según el arte y tipo de buque de que se trate, teniendo en cuenta las condiciones de seguridad, salud laboral, salubridad y normativa vinculada sobre el recurso pesquero.
+
+CE3.1 Explicar las maniobras de largado, virado y estibado del arte de pesca, teniendo en cuenta el buque y tipo de pesca y que las mismas se deben desarrollar con rapidez y seguridad.
+
+CE3.2 En un supuesto práctico de manipulación y conservación del producto pesquero y/o acuícola:
+
+- Realizar las operaciones de manipulación, evitando la alteración de la calidad del pescado capturado.
+
+- Efectuar el proceso que garantice la conservación de dichas capturas, teniendo en cuenta las precauciones que deben considerarse según las prácticas al uso, para el buen estado pesquero y acuícola del producto a la descarga.
+
+CE3.3 Reconocer la normativa aplicable con relación a las actuaciones desarrolladas por buques de pesca o auxiliares de acuicultura relativas a la protección del recurso y el cuidado del medio marino (actividades de limpieza del casco, aportes de basuras y desechos, entre otros).
+
+CE3.4 Especificar procesos de buenas prácticas en cuanto a gestión de especies capturadas no objetivo (incluye anotaciones en el diario de pesca), sobre todo las capturas accidentales referidas a especies protegidas de aves, tortugas marinas, cetáceos o elasmobranquios protegidos, entre otros a fin de reducir el impacto de la pesca sobre la zona protegida.
+
+CE3.5 Identificar los medios y elementos susceptibles de poner en riesgo la seguridad y/o salud del tripulante, durante las faenas de pesca, elaboración y conservación.
+
+CE3.6 En un supuesto práctico de actividades pesqueras:
+
+- Efectuar las operaciones pesqueras y acuícolas, manipulando y conservando los productos conforme las normas higiénicas establecidas, que permiten rentabilizarlas a la vez que se respeta el medio marino.
+
+Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
+
+C1 respecto a CE1.2 y CE1.5; C2 respecto a CE2.4, CE2.5 y CE2.6; C3 respecto a CE3.2 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Contenidos:
+
+1. Operaciones de arranchado, maniobras, gobierno, vigía, pesca y mantenimiento del buque
+
+Elementos y equipos del buque: definición de buque, dimensiones, estructura. Cubiertas y bodegas. Obra viva y obra muerta. Calados, elementos fijos y móviles. Cabuyería: jarcia firme y de labor. Anclas, rezones, cadenas y cables. Operaciones con cabos y alambres: nudos, gazas, ayustes y costuras.
+
+Operaciones de carga y descarga: movimiento de pesos a bordo. Embarque, desembarque y estiba de pescado, pertrechos y provisiones.
+
+Maniobras del buque en puerto: manejo de chigres y maquinillas. Dar y largar amarras. Abozar cabos y estachas. Encapillar y desencapillar cabos y estachas en norays o bitas. Maniobras de atraque, desatraque, fondeo y remolque. Expresiones utilizadas durante las maniobras.
+
+Gobierno del buque, servicios de vigía y guardia: utilización de compases magnéticos y girocompás. Órdenes al timonel. Deberes del vigía. Reglamento Internacional de Señales (señales acústicas, luces y otros objetos).
+
+Operaciones de mantenimiento a bordo: mantenimiento del buque (rascado y pintado de superestructuras y equipos de cubierta).
+
+2. Operaciones de pesca y manipulación de las capturas considerando la aplicación de riesgos laborales y protección del medio marino
+
+Seguridad y salud en las faenas de la pesca. Clases de buques pesqueros.
+
+Manipulación y conservación de los productos de la pesca y la acuicultura.
+
+Protección del medio marino y sus recursos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Parámetros de contexto de la formación:
+
+Espacios e instalaciones:
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Taller de 3 m² por alumno o alumna.
+
+- Instalación de 2 m² por alumno o alumna.
+
+Perfil profesional del formador o formadora:
+
+1. Dominio de los conocimientos y las técnicas relacionados con la contribución a las operaciones de cubierta en una embarcación pesquera, que se acreditará mediante una de las dos formas siguientes:
+
+- Formación académica de nivel 1 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+MÓDULO FORMATIVO 2: GESTIÓN DE LA ACTIVIDAD PESQUERA DEL BUQUE
+
+Nivel: 3
+
+Código: MF1896_3
+
+Asociado a la UC: Gestionar la documentación del buque y de su actividad pesquera durante el viaje y/o marea
+
+Duración: 90 horas
+
+Capacidades y criterios de evaluación:
+
+C1: Especificar los documentos oficiales utilizados para el enrole de los tripulantes y el autodespacho del buque, de acuerdo a la normativa aplicable, a fin de proceder al despacho del mismo.
+
+CE1.1 Describir el proceso para efectuar el autodespacho del buque citando las circunstancias en las que se realiza, de acuerdo a la normativa aplicable.
+
+CE1.2 Especificar la documentación para el enrole de los tripulantes, de acuerdo a las características del buque atendiendo al cargo que ocupen a bordo, a fin de cumplir con la normativa aplicable.
+
+CE1.3 Definir el proceso para la elaboración de la lista de tripulantes, atendiendo a las documentaciones individuales de los mismos, al objeto de informar a las autoridades que las soliciten acerca de la composición de la dotación del buque.
+
+CE1.4 Citar la documentación a cumplimentar y el procedimiento para informar al servicio correspondiente, según la práctica habitual, en los casos de evacuación de tripulantes, a fin de conseguir la coordinación en las operaciones.
+
+C2: Determinar la documentación administrativa relacionada con la actividad pesquera del buque, de acuerdo a la normativa aplicable, para informar y controlar las operaciones del mismo durante el desarrollo de la marea y las operaciones en puerto.
+
+CE2.1 Describir el proceso para informar a las autoridades del inicio y finalización de la actividad pesquera, según el permiso de pesca y la zona o área de que se trate.
+
+CE2.2 Explicar las causas que justifiquen la suspensión de la actividad pesquera en la/s zona/s de pesca asignada/s, conforme a las condiciones de la licencia, a fin de evitar la pérdida de los días no utilizados.
+
+CE2.3 Citar la normativa aplicable y forma de efectuar las anotaciones de las capturas en el diario de pesca, de acuerdo a la modalidad de pesca, para llevar registro de las especies y cantidades extraídas.
+
+CE2.4 En un supuesto práctico de gestión documental de un buque, anotar en el diario de pesca, conforme a las disposiciones de la normativa pesquera aplicable, potenciales capturas obtenidas en especie y cantidad por lance, así como las capturas accidentales de especies no objetivo (aves, tortugas marinas, cetáceos y elasmobranquios protegidos), indicando el número de ejemplares y la especie a la que pertenecen, las coordenadas geográficas del punto de captura, si el individuo se ha capturado vivo o muerto, destino final, y ejemplares con etiqueta, anilla, o marca (convencional o satélite), referencia y número que aparece en dichas marcas y comunicación a las administraciones.
+
+C3: Determinar las acciones de índole administrativo a desarrollar, tanto institucionales como empresariales, con el fin de organizar y gestionar las actividades pesqueras del buque.
+
+CE3.1 Detallar la documentación que ha de enviarse previamente a la entrada del buque en puerto, de acuerdo a la normativa aplicable, para comunicar a las autoridades las operaciones a realizar.
+
+CE3.2 En un supuesto práctico de gestión documental de un buque, describir el proceso para gestionar los transbordos de pescado y la documentación que ha de cumplimentarse ante las autoridades del país donde se realice, a fin de obtener las autorizaciones oportunas.
+
+CE3.3 Citar los trámites que han de realizarse al entrar el buque en puerto, de acuerdo a la normativa aplicable, con el fin de efectuar la descarga del pescado.
+
+CE3.4 En un supuesto práctico de gestión documental de un buque, aplicar la documentación facilitada por los organismos competentes referente a la actividad del buque, según las características del mismo, modalidad, zona y período de pesca.
+
+Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
+
+C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.4.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Contenidos:
+
+1. Gestión de la documentación del buque y de la tripulación
+
+El buque: naturaleza jurídica.
+
+Propiedad del buque: patente de navegación.
+
+Certificado de navegabilidad.
+
+Certificados de los equipos.
+
+Rol de despacho y dotación.
+
+Rol electrónico.
+
+Tarjeta de identificación del buque.
+
+Licencia de navegación.
+
+Explotación del buque: sus formas.
+
+Sociedades mixtas.
+
+La tripulación: titulaciones exigidas; certificados de formación; reconocimiento médico; libreta de inscripción marítima; documentación personal acreditativa; lista de tripulantes.
+
+2. Gestión de documentación ante la Administración Pesquera
+
+Comisariado de Pesca de la Unión Europea.
+
+Ministerio competente con responsabilidades en el área de pesca.
+
+Secretaría General de Pesca Marítima.
+
+Administraciones Autonómicas de Pesca.
+
+Fondo de Regulación y Organización del Mercado de los productos de la pesca y cultivos marinos (FROM).
+
+Instituto Español de Oceanografía.
+
+Instituto de Investigaciones Pesqueras.
+
+Actividad Portuaria: Capitanía Marítima; Autoridad Portuaria; Sanidad Marítima. Aduanas.
+
+Documentos: diario de pesca; anotaciones en el diario de pesca; diario electrónico; licencia de pesca; permisos de pesca; tipos de buques pesqueros; registro de buques pesqueros; censo operativo de buques pesqueros; cambios de modalidad de pesca; plan de pesca; totales admisibles de capturas (TACs); suspensión temporal de la actividad pesquera; declaración de capturas; declaración de transbordo; declaración de descarga; guía de transporte del pescado.
+
+3. Servicios y comercialización, en lo relativo a la gestión de la documentación del buque y de su actividad pesquera durante el viaje y/o marea
+
+Cofradías de pescadores.
+
+Organizaciones de productores.
+
+Lonjas de subasta del pescado.
+
+4. Normativa aplicable a la actividad pesquera durante el viaje y/o marea
+
+La ordenación pesquera.
+
+Ley de pesca de la Unión Europea.
+
+Ley de pesca marítima del estado: artes mayores y menores.
+
+Normativa aplicable de las Administraciones Autonómicas de Pesca.
+
+Regiones pesqueras del litoral español.
+
+Aguas interiores.
+
+Mar litoral.
+
+Zona contigua.
+
+Zona de seguridad y zona de ejercicios.
+
+Zona económica exclusiva.
+
+Áreas de pesca.
+
+Zonas de pesca.
+
+Aguas internacionales (alta mar).
+
+Períodos de vedas de las especies.
+
+Tallas mínimas permitidas.
+
+La inspección pesquera.
+
+Acuerdos de pesca con otros países.
+
+Legislación marítima: auxilios y salvamentos; el contrato de remolque marítimo; abordajes; hallazgos.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Parámetros de contexto de la formación:
+
+Espacios e instalaciones:
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Instalación de 2 m² por alumno o alumna.
+
+Perfil profesional del formador o formadora:
+
+1. Dominio de los conocimientos y las técnicas relacionados con la gestión de la documentación del buque y de su actividad pesquera durante el viaje y/o marea, que se acreditará mediante una de las dos formas siguientes:
+
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+MÓDULO FORMATIVO 3: DOCUMENTACIÓN PARA LA GESTIÓN DEL BUQUE
+
+Nivel: 3
+
+Código: MF1897_3
+
+Asociado a la UC: Gestionar la documentación vinculada con el buque como elemento estructural y su seguridad en puerto
+
+Duración: 150 horas
+
+Capacidades y criterios de evaluación:
+
+C1: Elaborar expedientes administrativos vinculados con el Registro Marítimo de Buques, relacionando los documentos que deben conformar esos expedientes.
+
+CE1.1 Enumerar la normativa aplicable que regula tanto las obras de reforma como los cambios de motor propulsor, teniendo en cuenta el tipo de buque y la obra a realizar.
+
+CE1.2 En un supuesto práctico de gestión documental de un buque, redactar la solicitud de cualesquiera de los permisos que conforman el total de construcción de un buque (permiso de construcción, botadura, reserva de folio, entre otros), teniendo en cuenta la personalidad jurídica, tanto del astillero constructor como del titular contratante.
+
+CE1.3 En un supuesto práctico de gestión documental de un buque, redactar la solicitud de anotaciones registrales por parte del Registro Marítimo de Buques; así como enumerar los documentos que conforman los expedientes de anotación registral teniendo en cuenta la naturaleza de éste (cambio de propiedad, hipoteca naval, actos de testamentaría, entre otros).
+
+CE1.4 En un supuesto práctico de gestión documental de un buque, interpretar la documentación vinculada con la tramitación administrativa recibida en el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+C2: Identificar, tanto los certificados que debe tener el buque como sus períodos de vigencia y/o prórroga, analizando la normativa aplicable relativa a la inspección y certificación de buques civiles.
+
+CE2.1 Explicar los certificados que debe tener un buque en función de su actividad.
+
+CE2.2 En un supuesto práctico, a la vista de una serie de certificados de un buque, señalar si son todos los certificados que debe llevar, o identificar cuál es el que faltaría en su caso, teniendo en cuenta el tipo de buque; así como explicar si alguno limita al barco para navegar en determinadas zonas, cargar pesos en determinados espacios o cual es el límite máximo de tripulantes que puede tener.
+
+CE2.3 En un supuesto práctico, a la vista de una serie de certificados de un buque, determinar cuáles son sus fechas de caducidad y sus períodos de prórroga; así como redactar la solicitud de revisión del buque y equipos para mantenerlos siempre vigentes, teniendo en cuenta los certificados del buque.
+
+CE2.4 En un supuesto práctico de gestión documental de un buque, redactar un parte de accidentes o protesta de mar, teniendo en cuenta la relación de hechos relatados por el patrón y los tripulantes.
+
+C3: Secuenciar el procedimiento de documentación de los expedientes relacionados con los títulos profesionales y certificados de especialidad, analizando la normativa aplicable de títulos profesionales e identificando los exigidos a los miembros de la tripulación, en función del buque y la zona de pesca.
+
+CE3.1 Citar cuales son los documentos y requisitos para tramitar la expedición de la libreta marítima, teniendo en cuenta la normativa aplicable.
+
+CE3.2 En un supuesto práctico de gestión documental de un buque, cumplimentar los modelos preestablecidos de justificación del tiempo de embarco, en función del título a tramitar y de la normativa aplicable.
+
+CE3.3 Enumerar los documentos y requisitos para tramitar la expedición/renovación de un título profesional, en función de la normativa aplicable.
+
+CE3.4 Exponer cuales son los certificados de especialidad que debe tener cada miembro de la tripulación atendiendo al tipo de barco y el cargo a bordo.
+
+C4: Redactar documentos y solicitudes, en función de las necesidades de trámite de los procesos administrativos exigidos, analizando la normativa aplicable relativa al despacho del buque y a la actividad pesquera.
+
+CE4.1 Describir cuales son los requisitos previos exigibles a cada miembro de la tripulación para su enrole y posterior formalización del embarque por la Autoridad Marítima, teniendo en cuenta la normativa aplicable.
+
+CE4.2 En un supuesto práctico de gestión documental de un buque, formalizar y cumplimentar los documentos para la tramitación y posterior autorización por la Autoridad Marítima del despacho del buque a la mar, en función de la normativa aplicable.
+
+CE4.3 Enumerar cuales son las anotaciones que debe practicar el Capitán/Patrón en el Rol de Despacho y Dotación como consecuencia de un enrole, un despacho o una escala en puerto.
+
+CE4.4 En un supuesto práctico de gestión documental de un buque, cumplimentar los distintos tipos de informes utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
+
+C1 respecto a CE1.2, CE1.3 y CE1.4; C2 respecto a CE2.2, CE2.3 y CE2.4; C3 respecto a CE3.2; C4 respecto a CE4.2 y CE4.4.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Contenidos:
+
+1. Administración Marítima y procedimiento de gestión de la documentación del buque
+
+Estructura central y periférica.
+
+Funciones y ámbito competencial de la Administración Marítima.
+
+Concepto y naturaleza del procedimiento administrativo.
+
+La Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común.
+
+2. Registro de buques, en lo relativo a la gestión de la documentación del buque
+
+Legislación y procedimiento.
+
+Régimen jurídico aplicable al registro de buques y empresas navieras.
+
+Expedientes de construcción de buques y obras de reforma, cambios de motor, expedientes de anotaciones registrales de derechos reales, entre otros.
+
+3. Despacho de buques, en lo relativo a la gestión de la documentación
+
+Concepto.
+
+Convenio internacional IMO-FAL de Facilitación del Tráfico Marítimo.
+
+Normativa de aplicación al despacho de buques y enrole y desenrole de la tripulación.
+
+El Rol de Despacho y Dotación: funciones y modo de uso y cumplimentación.
+
+4. Titulaciones Marítimas, en lo relativo a la documentación para la gestión del buque
+
+El Convenio Internacional sobre normas de Formación, Titulación y Guardia para la Gente de Mar (STCW/78/95).
+
+Normativa nacional aplicable a las titulaciones marítimas (mercantes, pesqueros y de recreo).
+
+Atribuciones de las titulaciones marítimas.
+
+El refrendo de las titulaciones marítimas.
+
+El Convenio Internacional sobre normas de Formación, Titulación y Guardia para Pescadores (STCW-F/78/95).
+
+5. Inspección y certificación de buques
+
+Funciones, tipos de inspecciones.
+
+Normativa aplicable a las inspecciones y certificación de los buques.
+
+6. La seguridad y contaminación marina
+
+Convenio Internacional MARPOL 73/78.
+
+Concepto y tipos de averías: la Protesta de Mar.
+
+Parámetros de contexto de la formación:
+
+Espacios e instalaciones:
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Instalación de 2 m² por alumno o alumna.
+
+Perfil profesional del formador o formadora:
+
+1. Dominio de los conocimientos y las técnicas relacionados con la gestión de la documentación vinculada con el buque como elemento estructural y su seguridad en puerto, que se acreditará mediante una de las dos formas siguientes:
+
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+MÓDULO FORMATIVO 4: DOCUMENTACIÓN PARA LA ACTIVIDAD PESQUERA
+
+Nivel: 3
+
+Código: MF1898_3
+
+Asociado a la UC: Gestionar la documentación relacionada con la pesca como actividad comercial en puerto
+
+Duración: 120 horas
+
+Capacidades y criterios de evaluación:
+
+C1: Redactar los documentos y explicar el proceso de documentación de un expediente administrativo, analizando la normativa pesquera relacionada con las ayudas y subvenciones a la pesca para la posterior recepción de las ayudas sin demora.
+
+CE1.1 Describir cuáles son los documentos para formalizar y solicitar ante la Autoridad pesquera competente ayudas por paralización temporal o definitiva de la actividad, teniendo en cuenta la normativa aplicable.
+
+CE1.2 En un supuesto práctico de gestión documental en un buque, documentar un expediente de solicitud de ayudas para la construcción y modernización de un buque pesquero, teniendo en cuenta los requisitos normativos aplicables.
+
+CE1.3 En un supuesto práctico de solicitud de subvenciones para un buque, explicar cuáles son los documentos necesarios para la posterior tramitación de un expediente para la Autoridad pesquera competente, en función del tipo de ayuda solicitada y atendiendo a criterios normativos aplicables.
+
+CE1.4 En un supuesto práctico de gestión documental, cumplimentar los distintos tipos de informes utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+C2: Cumplimentar expedientes vinculados con la construcción, desguaces, obras y modificación de las características del buque, redactando los documentos que los conforman en función de la normativa aplicable sobre actividad pesquera.
+
+CE2.1 Enumerar los trámites y documentos para solicitar ante la Autoridad pesquera competente las altas, reactivaciones o bajas del censo de flota pesquera operativa, en función de la normativa aplicable.
+
+CE2.2 En un supuesto práctico de gestión documental en un buque, formalizar y documentar un expediente de permiso para la construcción, obras o cambios de motor, teniendo en cuenta los requisitos normativos aplicables, para su posterior tramitación por la Autoridad pesquera en el ámbito de su competencia.
+
+CE2.3 Exponer cuál es el procedimiento a seguir para formalizar un compromiso de baja, y especificar ante qué autoridad hay que realizarlo, teniendo en cuenta la normativa aplicable y el tipo de expediente.
+
+C3: Cumplimentar expedientes a partir de la formalización de los documentos que los conforman vinculados con la explotación del buque y las pesquerías, interpretando los requisitos normativos aplicables relativos a los mismos.
+
+CE3.1 Describir el procedimiento a seguir para solicitar y tramitar ante la Autoridad pesquera competente la expedición del certificado del equipo de pesca, teniendo en cuenta los requisitos normativos aplicables y el equipo de pesca montado a bordo.
+
+CE3.2 Exponer el procedimiento para solicitar la fijación o cambio del puerto base, teniendo en cuenta las autoridades competentes para su tramitación y según criterios, tanto económico empresariales como normativos.
+
+CE3.3 En un supuesto práctico de gestión documental en un buque, documentar un expediente de solicitud de la célula y la licencia de pesca del buque teniendo en cuenta la normativa aplicable y el momento temporal de la construcción del barco.
+
+CE3.4 Enumerar cuáles son los documentos y los trámites de carácter administrativo para solicitar un cambio de modalidad de pesca o un permiso especial para determinadas especies o artes, teniendo en cuenta tanto criterios normativos como de oportunidad económica con el fin de optimizar la actividad pesquera del buque.
+
+CE3.5 En un supuesto práctico de gestión documental en un buque, cumplimentar los distintos tipos de informes utilizando el idioma oficial o lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
+
+C1 respecto a CE1.2, CE1.3 y CE1.4; C2 respecto a CE2.2; C3 respecto a CE3.3 y CE3.5.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Contenidos:
+
+1. La Administración pesquera y gestión de documentación relacionada con la pesca como actividad comercial en puerto
+
+La Unión Europea: estructura y normas comunitarias que regulan la actividad del sector pesquero.
+
+La Administración General del Estado: estructura y competencias.
+
+Las Comunidades Autónomas: organización y distribución competencial.
+
+2. La gestión de las actividades pesqueras como actividad comercial en puerto
+
+La pesca marítima: ámbito de aplicación; medidas de conservación, protección y regeneración de los recursos pesqueros.
+
+Requisitos generales: el censo de buques de pesca marítima. Las autorizaciones de pesca.
+
+Requisitos específicos: cambio temporal de actividad. Permiso especial de pesca. Censos específicos.
+
+Documentos y comunicaciones relativas a la gestión de la actividad pesquera.
+
+El diario de pesca y las declaraciones de desembarque y transbordo.
+
+3. Agentes del sector pesquero
+
+Cofradías de pescadores y las organizaciones de productores.
+
+4. Flota pesquera y gestión de la documentación relacionada con la pesca como actividad comercial en puerto
+
+Programas de construcción, modernización y reconversión.
+
+Paralización definitiva y temporal de buques pesqueros.
+
+Requisitos para establecimientos y cambios de puertos base. Concepto de puerto de desembarque y primera venta.
+
+La comercialización y transformación de productos pesqueros.
+
+Gestión de ayudas y subvenciones en el sector pesquero como actividad comercial en puerto: concepto y tipos de ayudas.
+
+Parámetros de contexto de la formación:
+
+Espacios e instalaciones:
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Instalación de 2 m² por alumno o alumna.
+
+Perfil profesional del formador o formadora:
+
+1. Dominio de los conocimientos y las técnicas relacionados con la gestión de la documentación relacionada con la pesca como actividad comercial en puerto, que se acreditará mediante una de las dos formas siguientes:
+
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+MÓDULO FORMATIVO 5: SEGURIDAD Y PRIMEROS AUXILIOS A BORDO
+
+Nivel: 1
+
+Código: MF0733_1
+
+Asociado a la UC: Actuar en emergencias marítimas y aplicar las normas de seguridad en el trabajo
+
+Duración: 60 horas
+
+Capacidades y criterios de evaluación:
+
+C1: Reconocer y aplicar las medidas a tomar en caso de abandono de buque y supervivencia en la mar, según las órdenes recibidas o lo dispuesto en el cuadro orgánico del buque, con el fin de prevenir la seguridad de la vida humana en la mar.
+
+CE1.1 Describir las medidas e identificar los medios y dispositivos salvavidas, dispositivos personales de salvamento y las embarcaciones de supervivencia a utilizar, en caso de abandono de buque, de acuerdo con el plan de emergencia establecido, con el fin de salvaguardar la vida de las tripulaciones.
+
+CE1.2 Enumerar las actuaciones a tomar en caso de abandono de buque, tanto en la mar como en las embarcaciones de supervivencia, siguiendo procedimientos náuticos establecidos, con el fin de proteger la vida humana en la mar.
+
+CE1.3 En un supuesto práctico de abandono de buque y supervivencia en la mar:
+
+- Colocarse un chaleco salvavidas, saltar al agua y nadar para subir a la balsa, siguiendo instrucciones y procedimientos establecidos, con el fin de lograr sobrevivir en la mar.
+
+- Adrizar una balsa salvavidas llevando el chaleco puesto, según procedimientos operacionales establecidos, para poder ser utilizada como medio de supervivencia.
+
+- Utilizar el equipo de supervivencia de las embarcaciones, de acuerdo con las instrucciones y protocolos establecidos, con el fin de preservar la vida de las tripulaciones.
+
+CE1.4 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+C2: Identificar y adoptar las medidas, y utilizar los medios de prevención y lucha contra-incendios, siguiendo las instrucciones del plan de emergencia, para preservar la seguridad del buque y su tripulación.
+
+CE2.1 Enumerar las medidas a tomar para prevenir que se origine un incendio a bordo, siguiendo las instrucciones y recomendaciones establecidas.
+
+CE2.2 Describir el proceso secuencial de simulacro de abandono de buque, teniendo en cuenta un proceso establecido en un manual de gestión de la seguridad, según el Código de Gestión de la Seguridad.
+
+CE2.3 Describir los dispositivos y medios de lucha contra-incendios y las vías de evacuación, con el fin de ser utilizados en este tipo de emergencias, de acuerdo con lo establecido en cuadro orgánico del buque.
+
+CE2.4 En un supuesto práctico de incendio a bordo:
+
+- Proceder a la extinción de un incendio, por medio de agentes extintores, teniendo en cuenta el tipo y fuente de ignición, con el fin de evitar su propagación y lograr su extinción.
+
+- Utilizar el aparato respiratorio autónomo en la extinción de un incendio y en operaciones de rescate, siguiendo los procedimientos y protocolos establecidos, para conseguir su extinción y el rescate de tripulantes en peligro.
+
+CE2.5 Describir los tipos de fuegos, elementos que intervienen en estos y las condiciones propicias para que puedan producirse.
+
+C3: Valorar el estado físico aparente de las víctimas de accidente a bordo, aplicando las medidas urgentes de asistencia sanitaria, siguiendo procedimientos establecidos, con el fin de minimizar los daños.
+
+CE3.1 Describir el proceso de exploración elemental y la toma de constantes vitales del paciente con el fin de recoger síntomas y signos de pulso, respiración, dolor, temperatura y reflejo pupilar, entre otros, para elaborar una historia cínica básica.
+
+CE3.2 En un supuesto práctico de accidente a bordo:
+
+- Aplicar el tratamiento y cuidado con accidentados a bordo, en casos de asfixia, parada cardiaca, hemorragias, shock, heridas y quemaduras, siguiendo procedimientos y protocolos médicos establecidos, para minimizar los daños a los pacientes.
+
+CE3.3 En un supuesto práctico de accidente a bordo:
+
+- Actuar aplicando técnicas de inmovilización y vendajes en casos de traumatismos, rescate y transporte de accidentados, de acuerdo con procedimientos y protocolos médicos establecidos, para evitar daños a los accidentados y facilitar su evacuación.
+
+CE3.4 Identificar y enumerar los útiles, material de curas y medicamentos utilizados a bordo del buque, para situaciones de emergencia con accidentados, disponibles en el botiquín reglamentario de primeros auxilios según el tipo de buque.
+
+C4: Describir las medidas a tomar y los medios a emplear según la normativa aplicable al respecto, para preservar la seguridad personal y responsabilidades sociales; y evitar la contaminación marina.
+
+CE4.1 Explicar la información relativa al contenido de un plan de contingencia de buque, interpretándolo según la normativa aplicable, con el fin de minimizar los riesgos a bordo.
+
+CE4.2 Identificar las señales de emergencia a bordo teniendo en cuenta el plan de contingencia con el fin de preservar la seguridad de la vida humana en la mar.
+
+CE4.3 Relacionar los dispositivos y medios de protección personal, de acuerdo con la normativa sobre prevención de riesgos laborales, para preservar la seguridad al efectuar trabajos en cualquier lugar del buque.
+
+CE4.4 Enumerar las medidas a tener en cuenta para proteger el medio marino y evitar su contaminación, según la normativa aplicable.
+
+CE4.5 Interpretar mensajes orales o escritos en lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+Capacidades cuya adquisición debe ser completada en un entorno real de trabajo:
+
+C1 respecto a CE1.3; C2 respecto a CE2.4; C3 respecto a CE3.2 y CE3.3.
+
+Otras capacidades:
+
+Adaptarse a la organización integrándose en el sistema de relaciones técnico-laborales.
+
+Interpretar y ejecutar las instrucciones que recibe y responsabilizarse de la labor que desarrolla, comunicándose de forma eficaz con la persona adecuada en cada momento.
+
+Organizar y ejecutar la actividad de acuerdo a las instrucciones recibidas, con criterios de calidad y seguridad, aplicando los procedimientos establecidos.
+
+Habituarse al ritmo de trabajo cumpliendo los objetivos de rendimiento diario definidos en la organización.
+
+Mostrar en todo momento una actitud de respeto hacia los compañeros, procedimientos y normas internas.
+
+Interpretar las órdenes recibidas por el marinero de guardia de la cámara de máquinas, en español y lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+Contenidos:
+
+1. Técnicas de supervivencia personal
+
+Preparación para cualquier emergencia: cuadro orgánico.
+
+Procedimientos para abandonar el buque: actuación en el agua y medidas a bordo de las embarcaciones de supervivencia.
+
+Equipos de protección personal: chalecos salvavidas, aros salvavidas, balsas salvavidas, botes de rescate, equipamiento térmico, radiobalizas, equipo de las embarcaciones de supervivencia, peligros para los supervivientes.
+
+2. Prevención y lucha contra incendios
+
+Incendios en un buque.
+
+Clasificación de los incendios.
+
+Elementos del fuego y de la explosión.
+
+Agentes extintores.
+
+Equipos de extinción.
+
+Instalaciones y equipos de detección.
+
+Señales de alarma contra-incendios.
+
+Organización de la lucha contra-incendios a bordo.
+
+Equipos de protección personal. Equipo de respiración autónoma.
+
+Métodos, agentes y procedimientos de lucha contra-incendios.
+
+3. Primeros auxilios básicos
+
+Primeros auxilios en la mar.
+
+Recursos sanitarios para los marinos.
+
+Valoración de la víctima: síntomas y signos.
+
+Estructura y funciones del cuerpo humano.
+
+Tratamiento de heridas, traumatismos, quemaduras, hemorragias y shock.
+
+Asfixia, parada cardiaca. Reanimación.
+
+Técnicas de evacuación y rescate de enfermos y accidentados.
+
+Evaluación de una situación de emergencia.
+
+Botiquín reglamentario de a bordo.
+
+4. Seguridad personal y responsabilidades sociales
+
+Tipos de peligros y emergencias que pueden producirse a bordo.
+
+Planes de contingencia a bordo.
+
+Señales de emergencia y alarma.
+
+Cuadro de obligaciones y consignas en casos de emergencia.
+
+Señalización de seguridad utilizada para los equipos y medios de supervivencia.
+
+Órdenes relacionadas con tareas a bordo.
+
+Condiciones de trabajo y seguridad.
+
+Equipos de protección personal y colectiva.
+
+Normativa sobre prevención de riesgos laborales.
+
+Prevención de la contaminación del medio marino. Efectos de la contaminación accidental u operacional del medio marino.
+
+Información sobre la fauna marina protegida que se ve afectada por posibles capturas accidentales y buenas prácticas para su gestión.
+
+Procedimientos de protección ambiental.
+
+Procedimiento de socorro.
+
+Importancia de la formación y de los ejercicios periódicos.
+
+Vías de evacuación.
+
+Plan nacional de salvamento marítimo.
+
+Trabajos en caliente.
+
+Precauciones que deben adoptarse antes de entrar en espacios cerrados.
+
+Prevención de riesgos laborales. Límites de ruido, iluminación, temperatura, vías de circulación.
+
+Peligro del uso de drogas y abuso del alcohol.
+
+Lenguaje normalizado de la Organización Marítima Internacional (OMI).
+
+Parámetros de contexto de la formación:
+
+Espacios e instalaciones:
+
+Los talleres e instalaciones darán respuesta a las necesidades formativas de acuerdo con el contexto profesional establecido en la unidad de competencia asociada, teniendo en cuenta la normativa aplicable del sector productivo, prevención de riesgos laborales, accesibilidad universal y protección medioambiental. Se considerará con carácter orientativo como espacios de uso:
+
+- Instalación de 2 m² por alumno o alumna.
+
+Perfil profesional del formador o formadora:
+
+1. Dominio de los conocimientos y las técnicas relacionados con la actuación en emergencias marítimas y la aplicación de las normas de seguridad en el trabajo, que se acreditará mediante una de las dos formas siguientes:
+
+- Formación académica de nivel 2 (Marco Español de Cualificaciones para la Educación Superior) o de otras de superior nivel relacionadas con el campo profesional.
+
+- Experiencia profesional de un mínimo de 3 años en el campo de las competencias relacionadas con este módulo formativo.
+
+2. Competencia pedagógica acreditada de acuerdo con lo que establezcan las Administraciones competentes.
+
+> Se modifica por el art. 12 y anexo XXIV de la Orden EFP/63/2021, de 21 de enero. Ref. BOE-A-2021-1266
+
+> Se modifican la unidad de competencia «UC0010_1» y el módulo formativo asociado «MF0010_1», y la unidad de competencia «UC0733_1» y el módulo formativo asociado «MF0733_1» por los que figuran en el anexo I de la Orden EFP/953/2020, de 12 de octubre, según establece el art. 5.5 de la misma. Ref. BOE-A-2020-12259

@@ -1,0 +1,1 @@
+Se deroga por la disposición derogatoria única.2.b) del Real Decreto-ley 9/2013, de 12 de julio. Ref. BOE-A-2013-7705., manteniendo los efectos transitorios establecidos en la disposición transitoria 3 del citado Real Decreto-ley.

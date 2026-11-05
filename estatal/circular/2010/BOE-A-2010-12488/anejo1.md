@@ -1,0 +1,5 @@
+## ANEJO 1
+
+## RELACIÓN DE PERSONAS APODERADAS DE CONFORMIDAD CON EL APARTADO 1 DE LA NORMA PRIMERA
+
+![imagen](https://www.boe.es/datos/imagenes/disp/2010/188/12488_001.png)

@@ -1,0 +1,13 @@
+El Real Decreto 177/1998, de 16 de febrero, creó el Consejo Nacional del Clima y reguló sus funciones, composición y régimen de funcionamiento, asimismo estableció su adscripción orgánica al suprimido Ministerio de Medio Ambiente. Posteriormente, la regulación de dicho Consejo, contenida en el Real Decreto antes citado (el 177/98) se sustituyó por la establecida en el Real Decreto 1188/2001, de 2 de noviembre, que además modificó su composición y funcionamiento ya que el carácter transversal de las medidas a adoptar y la trascendencia de la estrategia española frente al cambio climático en las políticas sectoriales hicieron aconsejable modificar su régimen regulador.
+
+Desde entonces, se han llevado a cabo sucesivas reestructuraciones de los departamentos ministeriales con la consiguiente creación y supresión de distintos órganos superiores y directivos, así como la asignación de nuevas denominaciones y funciones a otros ya existentes. Este hecho determina la necesidad de modificar la adscripción y composición de este órgano colegiado.
+
+Además, la lucha frente al cambio climático se ha convertido en un objetivo preferente en las agendas de los Gobiernos y de la propia Unión Europea, teniendo presente en todo momento el carácter transversal de las medidas que se han de adoptar y la trascendencia para las políticas sectoriales y agentes implicados en ella.
+
+Por todo lo anteriormente expuesto, la composición del Consejo Nacional del Clima y las funciones que tiene atribuidas no satisfacen totalmente los nuevos cometidos que debiera desempeñar. Por ello, se hace necesario acometer una nueva reforma que reordene su estructura, composición y funciones, para convertir este órgano en un verdadero foro institucional de participación de todas las administraciones públicas, así como de las organizaciones y entidades representativas de intereses sociales y ambientales en la elaboración y seguimiento de las políticas sobre cambio climático promovidas por el Estado.
+
+En la tramitación del real decreto se recabaron informes de la Secretaría General Técnica del Ministerio de Agricultura, Alimentación y Medio Ambiente, así como de las de los Ministerios afectados por esta norma, y se dio audiencia a las comunidades autónomas, a las ciudades de Ceuta y Melilla, a las Entidades Locales y a las organizaciones o entidades representativas cuyos fines guardan relación directa con el objeto de esta disposición.
+
+En su virtud, a propuesta de la Ministra de Agricultura, Alimentación y Medio Ambiente, con la aprobación previa del Ministro de Hacienda y Administraciones Públicas y previa deliberación del Consejo de Ministros en su reunión del día 6 de junio de 2014,
+
+DISPONGO:

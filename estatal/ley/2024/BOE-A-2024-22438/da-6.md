@@ -1,0 +1,3 @@
+## Disposición adicional sexta. Garantía de un plazo máximo para la recepción de prestaciones.
+
+El Gobierno propondrá al Consejo Territorial de Servicios Sociales y del Sistema para la Autonomía y Atención a la Dependencia la creación de un grupo de trabajo interinstitucional, en el que estarán representados distintos ministerios además de las comunidades autónomas, con la finalidad de abordar la mejora del funcionamiento de los servicios públicos y, en concreto, el establecimiento de un tiempo máximo de respuesta para la recepción de las prestaciones sociales más importantes como las del Sistema para la Autonomía y Atención a la Dependencia.

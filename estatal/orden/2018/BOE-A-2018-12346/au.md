@@ -1,0 +1,7 @@
+## Artículo único. Delimitación de los ámbitos.
+
+1. El objeto de la presente Orden es delimitar cartográficamente los ámbitos territoriales de las nueve confederaciones hidrográficas a todos los efectos previstos en el texto refundido de la Ley de Aguas, aprobado por Real Decreto Legislativo 1/2001, de 20 de julio, en el Real Decreto 650/1987, de 8 de mayo, por el que se definen los ámbitos territoriales de los organismos de cuenca y de los planes hidrológicos, y en el Real Decreto 125/2007, de 2 de febrero, por el que se fija el ámbito territorial de las demarcaciones hidrográficas.
+
+El ámbito territorial de los organismos de cuenca a que se ha hecho referencia en el párrafo anterior será el que determina la cartografía detallada de sus límites que se concreta en el archivo digital de las líneas divisorias principales que publica el Ministerio para la Transición Ecológica en su nodo de la infraestructura de datos espaciales, bajo la denominación «Límites cartográficos de las Confederaciones Hidrográficas», al que se accede públicamente a través del portal web conjunto de los Ministerios de Agricultura, Pesca y Alimentación y para la Transición Ecológica.
+
+2. Desde el mismo sistema es posible la descarga del archivo comprimido con la citada información espacial. El código criptográfico (hash) que utilizando el algoritmo MD5 identifica dicho fichero, es el siguiente: «73 db 04 3e fb 6c 87 2b 54 ab 12 7e 4b 4c e4 89».

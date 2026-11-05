@@ -1,0 +1,3 @@
+## Disposición adicional segunda. Financiación.
+
+Previo acuerdo de la Conferencia Sectorial de Pesca, las paradas temporales de la actividad pesquera que se efectúen en cumplimiento de las vedas establecidas, podrán recibir financiación del Fondo Europeo Marítimo y de Pesca y, en su caso, del Fondo Europeo Marítimo, de Pesca y de Acuicultura, en las condiciones establecidas, así como las que específicamente se establezcan en el mencionado acuerdo. Asimismo, los cambios en los sistemas de iluminación que pudieran ser necesarios con motivo de la aplicación del artículo 8 también podrán ser financiables, en su caso, por dichos fondos y en las condiciones establecidas.

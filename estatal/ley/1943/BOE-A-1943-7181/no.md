@@ -1,0 +1,1 @@
+Se deroga en sus preceptos relativos en general al Doctorado, con efectos de 1 de octubre de 1985, según establece la disposición derogatoria.1 del Real Decreto 185/1985, de 23 de enero. Ref. BOE-A-1985-2755.

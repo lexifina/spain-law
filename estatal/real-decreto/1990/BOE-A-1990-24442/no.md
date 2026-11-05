@@ -1,0 +1,1 @@
+Se declara vigente el Reglamento en lo que no se oponga a lo dispuesto en la Ley 9/2013, de 4 de julio Ref. BOE-A-2013-7320. ni en las disposiciones aprobadas por la Unión Europea que resulten de aplicación en la materia, según se establece en la disposición final 1 de la citada Ley.

@@ -1,0 +1,3 @@
+## Disposición transitoria única. Especialistas en formación en las especialidades que se suprimen.
+
+Las personas residentes que a la entrada en vigor del presente real decreto se encuentren en formación en la Especialidad de Análisis Clínicos o en la Especialidad de Bioquímica Clínica, seguirán realizando el programa formativo con el que iniciaron la especialidad, hasta la obtención del título correspondiente, de conformidad con el artículo 17 de la Ley 44/2003, de 21 de noviembre. El título obtenido será equivalente al de la Especialidad en Laboratorio Clínico, tal y como prevé la disposición adicional primera.

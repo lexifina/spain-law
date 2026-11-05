@@ -1,0 +1,3 @@
+> Información relacionada
+
+> Téngase en cuenta que, según establece la disposición adicional segunda, apartado 3, de la Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia, Ref. BOE-A-2013-5940#dasegunda, las referencias contenidas en cualquier norma del ordenamiento jurídico a la Comisión Nacional del Juego se entenderán realizadas a la Dirección General de Ordenación del Juego del Ministerio de Consumo, que la sustituye y asume sus competencias, en los términos previstos en la disposición adicional décima de la citada Ley. Ref. BOE-A-2013-5940#dadecima

@@ -1,0 +1,13 @@
+La Ley Orgánica 3/1995, de 23 de marzo, de modificación de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General, ha sustituido el sistema de revisión anual por el de revisión continua del censo electoral, con el fin de asegurar su permanente actualización, evitando las rigideces y limitaciones que aquél presentaba.
+
+Conforme a ello, procede dictar un nuevo Real Decreto que sustituya al 159/1987, de 23 de enero, por el que se disponía la revisión anual del censo electoral con referencia al 1 de enero de cada año, teniendo en cuenta, además, las sucesivas remisiones que los artículos 35 a 38 de la Ley Orgánica del Régimen Electoral General contienen a la concreción por parte de la Oficina del Censo Electoral de plazos y otros extremos para la actualización mensual del censo electoral.
+
+Por otro lado, el artículo 32.3 de la citada Ley Orgánica atribuye a las Oficinas Consulares de Carrera y Secciones Consulares de las Misiones Diplomáticas la competencia para la tramitación de oficio de la inscripción de los españoles ausentes residentes en su demarcación en la forma que se disponga reglamentariamente, desarrollo que procede asimismo mediante este Real Decreto.
+
+Además, es preciso prever la aplicación del artículo 9.4 de la Directiva 93/109/CE, del Consejo, de 6 de diciembre, en el sentido de que los electores comunitarios permanezcan inscritos en el censo electoral en las mismas condiciones que los españoles, y el del artículo 7.3 de la Directiva 94/80/CE, del Consejo, de 19 de diciembre, que contempla la posibilidad de inscripción de oficio de los nacionales de Estados miembros de la Unión Europea residentes en España, y, como consecuencia de la nueva regulación, se deroga parcialmente el contenido del Real Decreto 2118/1993, de 3 de diciembre, por el que se dispone la ampliación del censo electoral a los extranjeros nacionales de Estados miembros de la Unión Europea residentes en España.
+
+Por otra parte, se actualizan los datos personales necesarios para la inscripción en el censo electoral, a que se refiere el artículo 41 de la Ley Orgánica del Régimen Electoral General, regulados en el artículo 2 del Real Decreto 411/1986, de 10 de febrero, por el que se dispone la formación del fichero nacional de electores ajustado a la renovación de los padrones municipales de habitantes de 1986.
+
+En su virtud, a propuesta conjunta de los Ministros de Economía y Hacienda, de Asuntos Exteriores, de Justicia e Interior y para las Administraciones Públicas, con el informe de la Junta Electoral Central, de acuerdo con el Consejo de Estado y previa deliberación del Consejo de Ministros en su reunión del día 2 de febrero de 1996,
+
+## DISPONGO:

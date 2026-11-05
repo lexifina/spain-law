@@ -1,0 +1,3 @@
+## Disposición transitoria séptima.
+
+A la entrada en vigor de la presente Ley podrá autorizarse la constitución de sociedades de inversión mobiliaria, sociedades de inversión mobiliaria de capital variable y fondos de inversión mobiliaria de fondos, así como principales y subordinados, fondos y sociedades inversores en valores no cotizados y aquellos fondos cuyos partícipes sean inversores institucionales o profesionales. A tal fin, se tendrán en cuenta las reglas previstas en la disposición adicional primera y aquellas otras que, recogidas en la legislación vigente, para las SIM, SIMCAV y FIM, pudieran resultar de aplicación.

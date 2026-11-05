@@ -1,0 +1,9 @@
+El Real Decreto mil quinientos cincuenta y ocho/mil novecientos setenta y siete, de cuatro de julio, dispuso la integración de la Subsecretaría de Aviación Civil en el Ministerio de Transportes y Comunicaciones. En el momento presente conviene delimitar las competencias que a este Departamento corresponden en materia de aviación civil de aquellas propias del Ejército del Aire y fijar las cuestiones en las que, por razones de interés de la defensa nacional o de la aviación militar, es preciso su resolución por acuerdo conjunto de ambos Departamentos.
+
+Su necesidad es evidente, porque el espacio aéreo es único y utilizado por aeronaves militares y civiles, las ayudas a la navegación son comunes, las bases aéreas en algunos casos son aeropuertos o están abiertas al tráfico civil y sus servicios utilizados por ambas aviaciones y los aeropuertos dedicados exclusivamente al tráfico civil pueden ser utilizados en tiempo de paz por aeronaves militares, debiendo, en caso de guerra, servir plenamente a los intereses de la defensa nacional.
+
+Asimismo conviene delimitar las facultades que en orden al ejercicio de la jurisdicción gubernativa en materia aeronáutica corresponden a ambos Departamentos, determinar el régimen jurídico a que habrán de quedar sometidos los aeropuertos o aeródromos públicos civiles y crear la figura del Comandante militar aéreo que represente en éstos los intereses de la aviación militar y de la defensa nacional.
+
+En su virtud, y previa deliberación del Consejo de Ministros en su reunión del día treinta de marzo de mil novecientos setenta y ocho, por iniciativa de los Ministros de Defensa y de Transportes y Comunicaciones, en uso de la autorización que confiere el artículo trece de la Ley de Cortes, texto refundido aprobado por Decreto de veinte de abril de mil novecientos sesenta y siete, y oída la Comisión a que se refiere el apartado I del artículo doce de la citada Ley,
+
+DISPONGO:

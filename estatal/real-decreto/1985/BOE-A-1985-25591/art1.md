@@ -1,0 +1,7 @@
+## Artículo 1.
+
+Conforme a lo dispuesto en el artículo 42 de la Ley 13/1982, de 7 de abril, de integración social de los minusválidos, los Centros Especiales de Empleo son aquellos cuyo objetivo principal sea el de realizar un trabajo productivo, participando regularmente en las operaciones del mercado, y teniendo como finalidad el asegurar un empleo remunerado y la prestación de servicios de ajuste personal y social que requieran sus trabajadores minusválidos, a la vez que sea un medio de integración del mayor número de minusválidos al régimen de trabajo normal.
+
+La totalidad de la plantilla de los Centros Especiales de Empleo estará constituida por trabajadores minusválidos, sin perjuicio de las plazas en plantilla del personal no minusválido, imprescindible para el desarrollo de su actividad.
+
+> Téngase en cuenta que el Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, en su art. 43.2 establece que "la plantilla de los centros especiales de empleo estará constituida por el mayor número de personas trabajadoras con discapacidad que permita la naturaleza del proceso productivo y, en todo caso, por el 70 por 100 de aquélla. A estos efectos no se contemplará el personal sin discapacidad dedicado a la prestación de servicios de ajuste personal y social." Ref. BOE-A-2013-12632#a43

@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Solicitudes del subsidio por desempleo o de la renta agraria presentadas con anterioridad a la entrada en vigor de esta Ley.
+
+Lo dispuesto en la disposición adicional octava será también de aplicación a los trabajadores referidos en la misma que hubieran presentado entre el 1 de septiembre de 2017 y la entrada en vigor de esta ley la solicitud del subsidio por desempleo regulada en el Real Decreto 5/1997, de 10 de enero, o de la renta agraria regulada en el Real Decreto 426/2003, de 11 de abril, siempre que presenten una nueva solicitud a partir de dicha entrada en vigor y dentro de los seis meses siguientes a la misma.

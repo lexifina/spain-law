@@ -1,0 +1,3 @@
+## Disposición transitoria única. Adaptación de los sistemas de información sobre listas de espera.
+
+Las comunidades autónomas dispondrán de un período de seis y doce meses, respectivamente, para la adaptación de sus sistemas de información sobre listas de espera quirúrgicas y sobre consultas externas y pruebas diagnósticas/terapéuticas. No obstante, con independencia de este proceso de adaptación, las comunidades autónomas deberán remitir al Ministerio de Sanidad y Consumo datos sobre sus listas de espera con periodicidad semestral, tal y como se recoge en el artículo 4, tras la publicación de este real decreto.

@@ -1,0 +1,33 @@
+## Disposición adicional cuarta. Facturación de determinadas prestaciones de servicios en cuya realización intervienen agencias de viajes que actúen como mediadoras en nombre y por cuenta ajena.
+
+1. Se expedirán de acuerdo a lo establecido en esta disposición las facturas que documenten las prestaciones de servicios en las que concurran los requisitos siguientes:
+
+a) Que consistan en prestaciones de servicios en cuya contratación intervengan como mediadores en nombre y por cuenta ajena empresarios o profesionales que tengan la condición de agencias de viajes de acuerdo con la normativa propia del sector.
+
+b) Que el destinatario de los referidos servicios sea un empresario o profesional, o una persona jurídica que no tenga dicha condición, y solicite a la agencia de viajes la expedición de la factura correspondiente a tales servicios.
+
+c) Que se trate de servicios de transporte de viajeros y de sus equipajes por vía aérea, respecto de los que la intervención de la agencia de viajes se realice a través del sistema electrónico de reservas y liquidación gestionado por la «International Air Transport Association» (sistema «Billing and Settlement Plan», BSP-IATA).
+
+2. Dichas facturas deberán contener los datos o requisitos que se indican a continuación, sin perjuicio de la posibilidad de incluir cualesquiera otras menciones:
+
+a) La indicación expresa de que se trata de una factura expedida por la agencia de viajes al amparo de lo previsto en esta disposición adicional.
+
+b) Los datos y requisitos a que se refiere el artículo 6. No obstante, como datos relativos al obligado a expedir la factura a que se refiere el apartado 1.3.º, 4.º y 5.º de dicho artículo, se harán constar los relativos a la agencia de viajes, y no los correspondientes al empresario o profesional que presta el servicio a que se refiere la mediación.
+
+Adicionalmente, las facturas expedidas deberán contener una referencia inequívoca que identifique todos y cada uno de los billetes que correspondan a los servicios de transporte documentados en ellas. Asimismo, estas facturas deberán expedirse en serie separada del resto.
+
+3. Los servicios de mediación en nombre y por cuenta ajena relativos a los servicios de transporte de viajeros y de sus equipajes, que la agencia de viajes preste al destinatario de dichos servicios de transporte, podrán también ser documentados por la agencia mediante las facturas a que se refiere esta disposición adicional. En tal caso, en la correspondiente factura deberán figurar por separado los datos relativos al mencionado servicio de mediación que deban constar en factura según lo previsto en este reglamento.
+
+4. La agencia de viajes podrá documentar en una misma factura expedida por ella servicios prestados por distintos empresarios o profesionales a un mismo destinatario en el plazo máximo de un mes.
+
+5. Sin perjuicio de lo establecido en los apartados anteriores, resultarán aplicables a las facturas expedidas por las agencias de viajes al amparo de esta disposición adicional las previsiones contenidas en este reglamento.
+
+6. Las agencias de viajes que expidan estas facturas deberán anotarlas en el libro registro de facturas expedidas previsto en el artículo 63 del Reglamento del Impuesto sobre el Valor Añadido. Tales anotaciones deberán realizarse de manera que los importes correspondientes a las operaciones a que se refiere el apartado 1 de esta disposición puedan ser diferenciados de los importes correspondientes a los importes de los servicios a que se refiere el apartado 3 y de los importes correspondientes a operaciones recogidas en otros documentos o facturas distintas.
+
+7. Las agencias de viajes que expidan estas facturas deberán consignar la siguiente información en la declaración a la que se refiere el Real Decreto 2027/1995, de 22 de diciembre, por el que se regula la declaración anual de operaciones con terceras personas:
+
+a) En concepto de ventas, la información relativa a los servicios documentados mediante las referidas facturas, debidamente diferenciada.
+
+b) En concepto de compras, la información relativa a las prestaciones de servicios de transporte de viajeros y de sus equipajes por vía aérea a que se refiere esta disposición, debidamente diferenciada.
+
+8. Las agencias de viajes que expidan las facturas a que se refiere esta disposición adicional deberán prestar su colaboración a la Administración tributaria proporcionando cualquier dato o antecedente de trascendencia tributaria respecto de las prestaciones de servicios documentadas en aquéllas.

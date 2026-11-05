@@ -1,0 +1,1 @@
+## Sección IV. Escrutinio general

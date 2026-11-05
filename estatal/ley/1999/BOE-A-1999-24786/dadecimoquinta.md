@@ -1,0 +1,5 @@
+## Disposición adicional decimoquinta. Cánones de uso de las viviendas militares.
+
+Uno. En cumplimiento de lo dispuesto en el artículo 7, apartado 1, de la Ley 26/1999, de 9 de julio, de Medidas de apoyo a la movilidad geográfica de los miembros de las Fuerzas Armadas, el Ministro de Defensa fijará la cuantía de los cánones de uso de las viviendas militares que se adjudiquen a partir de la entrada en vigor de la citada Ley. Dicha cuantía servirá de referencia para la aplicación progresiva prevista en su disposición transitoria séptima, apartado 2.
+
+Dos. La cuantía de los cánones por el uso de viviendas militares y plazas de aparcamiento administradas por el Instituto para la Vivienda de las Fuerzas Armadas, adjudicadas con anterioridad a la entrada en vigor de la Ley 26/1999, queda fijada para el año 2000 en el importe que venían abonando los usuarios en el año 1999. Dicha cuantía será actualizada en años sucesivos mediante la aplicación del índice de precios al consumo correspondiente al ejercicio económico anterior.

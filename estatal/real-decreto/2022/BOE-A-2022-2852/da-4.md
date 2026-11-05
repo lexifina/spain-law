@@ -1,0 +1,17 @@
+## Disposición adicional cuarta. Compensación a las Universidades por la exención de matrícula.
+
+1. Durante el curso 2022-2023 el Ministerio de Educación y Formación Profesional aportará a las Universidades, en concepto de compensación de los precios públicos por servicios académicos correspondientes al estudiantado becario exento de su pago, una cantidad por estudiante con beca igual a la del precio público fijado para la titulación correspondiente en el curso 2022-2023, con las siguientes precisiones:
+
+a) En el supuesto de que el precio del crédito en los estudios conducentes al título de Grado en el curso 2022-2023 fuese superior al vigente en el curso de referencia 2011-2012 para los mismos estudios, el Ministerio de Educación y Formación Profesional aportará a las universidades una cantidad por estudiante con beca igual a este último importe, con el límite de 18,46 euros por cada crédito.
+
+b) En el supuesto de que el precio del crédito en los estudios conducentes al título de Máster habilitante o vinculado en el curso 2022-2023 fuese superior al vigente en el curso de referencia 2011-2012 para los mismos estudios, el Ministerio de Educación y Formación Profesional aportará a las universidades una cantidad por estudiante igual a este último importe, con el límite de 18,46 euros por cada crédito.
+
+c) En el supuesto de que el precio del crédito en los estudios conducentes al título de Máster no habilitante en el curso 2022-2023 fuese superior al vigente en el curso de referencia 2019-2020 para los mismos estudios, el Ministerio de Educación y Formación Profesional aportará a las universidades una cantidad por estudiante igual a este último importe, con el límite de 28,00 euros por cada crédito.
+
+d) En el supuesto de becarios matriculados en los Másteres que en el curso de referencia 2011-2012 se denominaban «Másteres con precio diferenciado», el Ministerio de Educación, y Formación Profesional compensará a la universidad el importe del precio público fijado para la titulación correspondiente en el curso 2022-2023, hasta un máximo de 2.100 euros por alumno becado matriculado.
+
+2. En el caso de nuevas titulaciones que no existieran en el curso de referencia, el Ministerio de Educación y Formación Profesional compensará a las universidades el importe del precio público fijado para la titulación correspondiente en el curso 2022-2023. En el supuesto de que el precio del crédito en el curso 2022-2023 fuese superior al fijado para el curso de referencia, en los términos previstos en los apartados anteriores, para titulaciones con el mismo grado de contenido experimental en su comunidad autónoma, el Ministerio de Educación y Formación Profesional compensará esta última cantidad.
+
+3. Lo dispuesto en los párrafos anteriores será también de aplicación a la cuantificación de la compensación por el Ministerio de Educación y Formación Profesional de la bonificación del 50 por ciento de las matrículas correspondientes a estudiantes que pertenecen a familias numerosas de tres hijos y asimiladas.
+
+4. Exclusivamente en el caso de las universidades públicas, si la cantidad aportada por el Ministerio de Educación y Formación Profesional resultase inferior al coste de las becas de matrícula, en los términos definidos en el artículo 4.1.e), la comunidad autónoma correspondiente procederá a compensar a las universidades públicas por la diferencia, de modo que el estudiantado beneficiario de la beca que curse sus estudios en un centro propio de la universidad quede efectivamente exento de cualquier obligación económica.

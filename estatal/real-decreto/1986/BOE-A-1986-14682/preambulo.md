@@ -1,0 +1,11 @@
+El Real Decreto 720/1984 y la Orden de 16 de mayo de 1985 vinieron a instituir un marco jurídico administrativo propiciador del armónico desenvolvimiento de los servicios marítimos españoles de linea regular. Sin embargo, dichas disposiciones difícilmente pueden servir por sí solas para lograr los objetivos a que se dirigen; esto es, la existencia de una flota mercante eficiente y competitiva. Para ello, resulta preciso adoptar medidas complementarias y específicas capaces de animar las decisiones de renovación de tonelaje, señaladamente en los segmentos donde la obsolescencia y el alto consumo energético resultan más pronunciados, de modo que, finalmente, se produzca un ajuste general de la oferta a las necesidades de la demanda en los diferentes tráficos.
+
+El desguace de buques, como solución al desajuste de la flota, se viene aplicando en diferentes países que adolecen de problemas similares a los nuestros; constituye una medida aconsejada por diversos Organismos económicos, como la OCDE, y ha sido aprobada en el contexto general del Plan de flota por la Comisión Delegada del Gobierno para Asuntos Económicos en su reunión del 29 de enero de 1986:
+
+Se hace ahora necesaria una disposición que, ajustándose a las previsiones contenidas en el mencionado Plan de Flota, instaure en nuestro ordenamiento las ayudas económicas que, en forma de primas al desguace, sirvan de instrumento coadyuvante para redimensionar y adecuar las características técnicas de nuestra flota mercante a las exigencias que demanda la moderna explotación naviera en el seno del mercado nacional e internacional del transporte marítimo.
+
+Por otra parte, la necesidad de asegurar un alto grado de coordinación y participación entre los distintos intereses públicos implicados en la gestión y aplicación de las primas a su objetivo de mejora de la competitividad y renovación de la flota hace aconsejable la creación y funcionamiento de un órgano colegiado e interdepartamental, con capacidad para informar vinculantemente los distintos planes de desguace, así como para conceder la prima que en cada caso corresponda.
+
+En su virtud, a propuesta del Ministro de Transportes, Turismo y Comunicaciones y previa deliberación del Consejo de Ministros en su reunión del día 30 de mayo de 1986,
+
+DISPONGO:

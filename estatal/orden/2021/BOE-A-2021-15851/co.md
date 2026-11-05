@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse «Orden DSA/1029/2021, de 20 de septiembre, por la que se establecen para el período 2021-2027 las bases reguladoras para la concesión de subvenciones en el marco del Programa europeo "Erasmus+", para los capítulos de educación no formal», según establece el art. 2.1 de la Orden DSA/619/2023, de 6 de junio. Ref. BOE-A-2023-14340

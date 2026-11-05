@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Estudios del funcionamiento.
+
+Los estudios del funcionamiento que se hubieran iniciado de acuerdo con el Real Decreto 1662/2000, de 29 de septiembre, sobre productos sanitarios para diagnóstico «in vitro» antes de la aplicación del Reglamento (UE) 2017/746 del Parlamento Europeo y del Consejo, de 5 de abril de 2017, se regirán hasta su finalización por aquella normativa, excepto en lo referente a la notificación de acontecimientos adversos graves y de deficiencias de los productos, que se llevará a cabo conforme a lo dispuesto en el Reglamento (UE) 2017/746 del Parlamento Europeo y del Consejo, de 5 de abril de 2017 y en el presente real decreto.

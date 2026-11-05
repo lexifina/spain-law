@@ -1,0 +1,3 @@
+## Disposición transitoria primera. Vigencia temporal de las disposiciones normativas de desarrollo de la Ley 40/1979, de 10 de diciembre, sobre Régimen Jurídico de Control de Cambios.
+
+Hasta tanto no se publiquen las normas de desarrollo de esta ley y siempre que no se opongan a lo dispuesto en ella, se mantendrán vigentes las disposiciones normativas dictadas en desarrollo de la Ley 40/1979, de 10 de diciembre, sobre Régimen Jurídico de Control de Cambios. En particular, permanecerán vigentes durante este período transitorio el artículo 10.4 del Reglamento de Armas, así como el artículo 5 del Reglamento de Explosivos.

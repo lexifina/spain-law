@@ -1,0 +1,41 @@
+JUAN CARLOS I
+
+REY DE ESPAÑA
+
+A todos los que la presenten vieren y entendieren.
+
+Sabed: Que las Cortes Generales han aprobado y Yo vengo en sancionar la siguiente Ley:
+
+EXPOSICIÓN DE MOTIVOS
+
+La Ley 50/1977, de 14 de noviembre, sobre Medidas Urgentes de Reforma Fiscal, estableció con carácter excepcional y transitorio un Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas pendiente de configuración definitiva, como señalaba su Exposición de Motivos.
+
+La regulación del nuevo Impuesto sobre el Patrimonio, pone fin al carácter excepcional y transitorio que se predicaba del hasta ahora actualmente vigente, dando cumplimiento a lo que deben ser sus objetivos primordiales de equidad, gravando la capacidad de pago adicional que la posesión del patrimonio supone; de utilización más productiva de los recursos; de una mejor distribución de la renta y la riqueza y de actuación complementaria del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre Sucesiones y Donaciones.
+
+Hasta ahora, el Impuesto sobre el Patrimonio ha cumplido principalmente una función de carácter censal y de control del Impuesto sobre la Renta de las Personas Físicas, limitando en consecuencia su operatividad como tributo independiente y, por tanto, su capacidad distributiva.
+
+El nuevo Impuesto, sin olvidar estos objetivos tradicionales asume, además, otros objetivos fundamentales como la consecución de una mayor eficacia en la utilización de los patrimonios y la obtención de una mayor justicia redistributiva complementaria de la aportada por el Impuesto sobre la Renta de las Personas Físicas.
+
+En el plano de la técnica fiscal, el Impuesto sobre el Patrimonio se plantea como un impuesto estrictamente individual sobre las personas físicas, en el que se excluye cualquier alternativa de imposición familiar conjunta consolidando la solución establecida en la Ley 20/1989, de 28 de julio, de adaptación del Impuesto sobre la Renta de las Personas Físicas y del Impuesto Extraordinario sobre el Patrimonio de las Personas Físicas. Se trata de un tributo cuyo hecho imponible recae sobre la titularidad de bienes y derechos, objeto impositivo perfectamente separable del hecho familiar, tanto desde el punto de vista de su delimitación como desde el de la determinación de la capacidad contributiva.
+
+La reforma de los elementos estructurales del Impuesto sobre el Patrimonio plantea como problema central el de la valoración de los distintos elementos patrimoniales de los que es titular el sujeto pasivo. La regla más acorde con una justa determinación de la capacidad contributiva, como es la que remite esta cuestión al valor de mercado, debe ceder en muchos casos su lugar a reglas específicas de valoración en beneficio de la seguridad jurídica del contribuyente que no puede discutir anualmente con la Administración dicho valor con respecto a sus bienes. La consecuencia es la aparición en el sistema tributario de nuevas reglas de valoración respecto de bienes que ya son objeto de valoración o de comprobación de valores a efectos de otros tributos, singularmente los transmisorios, lo que determina, a su vez, la demanda de que la legislación configure un valor fiscal unitario aplicable a los bienes en todo el sistema tributario.
+
+No obstante, la posibilidad de configurar un valor único de los bienes y derechos, que sea válido para todo el sistema tributario y que asegure al mismo tiempo la consecución de los objetivos de suficiencia, equidad y eficiencia asignados al mismo, resulta impracticable en nuestro sistema tanto teórica como prácticamente ya que es distinto el objeto de cada impuesto y es distinta la participación esperada de cada uno en el logro de los objetivos citados. Las tesis favorables a la valoración única para su consecución no aportan una solución técnica o cuando concretan sus planteamientos, ponen de relieve su aspiración a la consolidación del menor valor de los conocidos, lo que perturbaría gravemente los fines generales a conseguir por el sistema tributario. Al respecto es muy importante tener en cuenta que los pocos países que han experimentado soluciones de valoración unitaria están revisando las mismas, después de haber sufrido fracasos totales o parciales en la obtención de resultados similares a aquéllos con que en nuestro país se pretende justificar la búsqueda de la misma solución.
+
+A pesar de estos inconvenientes, la reforma del Impuesto sobre el Patrimonio no renuncia a avanzar en la búsqueda de una mejor coordinación del funcionamiento de las figuras tributarias que hoy constituyen el grupo de la imposición patrimonial y de la máxima simplificación del propio impuesto, sin perder de vista, además, que la progresiva mejora de la gestión de, los valores catastrales, puede permitir en un futuro próximo la utilización de los mismos como punto de referencia valorativa unitaria, tal como hoy se demanda.
+
+En esta línea, se ha procurado diseñar reglas de valoración eficaces y sencillas excluyéndose definitivamente el ajuar doméstico del ámbito de aplicación del impuesto, y se ha centrado la valoración inmobiliaria en el valor catastral, propio de la imposición local.
+
+Los elementos cuantitativos del Impuesto sobre el Patrimonio han merecido especial atención en esta reforma. Han contribuido a ello diversos factores, no siempre del mismo signo, pero todos ellos determinantes de la necesidad de introducir profundos cambios estructurales en la definición de la carga tributaria.
+
+Así, la mejora de las reglas de valoración y la aspiración a una determinación correcta de la capacidad económica individual han llevado, en materia de mínimo exento, a elevar su cuantía por cada sujeto pasivo, lo cual supone, como consecuencia de la individualización del nuevo Impuesto, triplicar el mínimo exento por matrimonio que estuvo vigente en 1987.
+
+En la configuración de la tarifa del Impuesto ha sido elemento determinante, la consideración de que la imposición patrimonial debe pasar a desempeñar en el futuro un papel compensatorio de los efectos de la libre circulación de capitales sobre la progresividad de la imposición sobre las rentas de capital, abandonando su tradicional y exclusivo papel de control. Asimismo, se ha entendido que la tendencia a la dispersión de las fuentes de renta entre los miembros de la familia con fines de elusión fiscal que puede producir la individualización del Impuesto sobre la Renta de las Personas Físicas hacía necesaria una reconsideración en consecuencia de la estructura de la tarifa del Impuesto sobre el Patrimonio para adaptarla a esta situación.
+
+En consecuencia, se eleva el marginal de la tarifa, que opera para niveles de base liquidable más bajos, mientras que el mínimo se sigue manteniendo, reforzando la progresividad del Impuesto y su función redistributiva.
+
+Por razones de coherencia y de simplicidad se ha alterado también la estructura de la tarifa del Impuesto sobre el Patrimonio, igualándola con las del Impuesto sobre la Renta de las Personas Físicas y el Impuesto sobre Sucesiones y Donaciones, lo que permitirá determinar directamente la cuota íntegra del Impuesto, con indudables ventajas desde el punto de vista de la simplificación del cálculo.
+
+Otro aspecto importante a destacar es el que afecta al límite conjunto de las cuotas del Impuesto sobre el Patrimonio y el Impuesto sobre la Renta, cuyo funcionamiento ha tenido, en la práctica, efectos contraproducentes para la equidad tributaria, ya que ha posibilitado que la tributación de importantes patrimonios se diluya a través de la configuración estable o transitoria de una base imponible nula o insignificante en el Impuesto sobre la Renta. Por ello, su formulación tradicional se completa con el establecimiento de un impuesto mínimo tendente a asegurar una tributación efectiva de los sujetos pasivos que se encuentran en esta situación.
+
+Por último, en cuanto a la gestión del Impuesto, se mantiene el sistema actual, por lo que la titularidad de la competencia para la gestión y liquidación corresponderá a las Delegaciones o Administraciones de Hacienda o, en su caso, a las oficinas con análogas funciones de las Comunidades Autónomas que tengan cedida la gestión del Impuesto.

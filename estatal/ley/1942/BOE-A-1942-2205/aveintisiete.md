@@ -1,0 +1,3 @@
+## Artículo veintisiete. Autorizaciones especiales.
+
+Para fines exclusivamente científicos la Dirección General de Montes, Caza y Pesca Fluvial podrá autorizar la pesca de las especies acuícolas en toda época del año y haciendo uso de cualquier medio de captura, legal o prohibido, reglamentando dicho organismo las condiciones de estos permisos especiales. Igualmente tendrán facultades para autorizar en las mismas condiciones la pesca y transporte de peces adultos de cualquier especie para fines de repoblación y permitir la captura y circulación en todo tiempo de las crías y huevos destinados al mismo objeto.

@@ -1,0 +1,5 @@
+## Disposición adicional primera. Transferencias existentes a la entrada en vigor de la Ley 29/1985, de 2 de agosto, de Aguas.
+
+1. Los aprovechamientos de aguas existentes en el momento de la entrada en vigor de esta Ley, que constituyan una transferencia de recursos entre ámbitos territoriales de distintos Planes Hidrológicos de cuenca, y estén amparados en títulos concesionales otorgados con anterioridad al 1 de enero de 1986, se regirán por lo dispuesto en el título concesional vigente. Cuando en aplicación de los títulos concesionales reviertan a la Administración General del Estado las obras e instalaciones, se dispondrá de ellas de acuerdo con la legislación de contratos de las Administraciones públicas.
+
+2. Los aprovechamientos de aguas existentes en el momento de la entrada en vigor de esta Ley, que constituyan una transferencia de recursos entre ámbitos territoriales de distintos Planes Hidrológicos de cuenca, y estén amparados en títulos legales aprobados con anterioridad al 1 de enero de 1986, se regirán por lo dispuesto en el título legal actual vigente.

@@ -1,0 +1,13 @@
+La Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías ha afectado notablemente al contenido de las Condiciones Generales de Contratación del transporte de mercancías por carretera actualmente vigentes, aprobadas por Orden del Ministerio de Fomento de 25 de abril de 1997.
+
+La disposición derogatoria única de la citada ley, aunque declara vigentes dichas condiciones en cuanto no resulten contrarias a sus propios preceptos, señala que deberán, no obstante, adaptarse, al objeto de alcanzar una coherencia plena entre los contenidos de ambas normas.
+
+A tal efecto, la disposición final tercera de la ley faculta al Ministro de Fomento para aprobar unas nuevas condiciones generales. En idéntico sentido, ya el Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre, habilitaba, en su artículo 13, al Ministro para aprobar tales condiciones generales, oídos el Consejo Nacional de Transportes Terrestres, el Comité Nacional del Transporte por Carretera y las asociaciones representativas de los usuarios del transporte de mercancías por carretera.
+
+De acuerdo con estos preceptos, estas condiciones serán aplicables de forma subsidiaria a lo que libremente pacten las partes en los correspondientes contratos, contribuyendo así a la clarificación de las relaciones mercantiles entre cargadores y transportistas.
+
+Para facilitar una comprensión armonizada del conjunto de reglas que definen los derechos y obligaciones de los contratantes de transportes por carretera, se ha optado por reproducir una buena parte de los preceptos de la Ley del Contrato, desarrollando aquellas cuestiones que así lo requerían, entre las que cabe destacar la inclusión de la fórmula de revisión de precios por variaciones del precio del gasóleo o la fijación de determinados plazos y horarios para el cumplimiento de las obligaciones recíprocas. De esta manera se pretende incluir en un solo documento todas las normas que afectan a los derechos, las obligaciones y las responsabilidades de las partes en los contratos de transporte de mercancías por carretera.
+
+Durante la tramitación se han tenido en cuenta los informes emitidos por el Comité Nacional del Transporte por Carretera, el Consejo Nacional de Transportes Terrestres y las asociaciones más representativas de los cargadores y usuarios del transporte de mercancías por carretera.
+
+En su virtud, de conformidad con la disposición final tercera de la Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías y el artículo 13 del Reglamento de la Ley de Ordenación de los Transportes Terrestres, aprobado por Real Decreto 1211/1990, de 28 de septiembre, y de acuerdo con el Consejo de Estado dispongo:

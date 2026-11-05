@@ -1,0 +1,1 @@
+Norma derogada por el apartado 4 de la Resolución de 15 de febrero de 2019. Ref. BOE-A-2019-3245#cu. Téngase en cuenta que la citada Resolución será de aplicación a las situaciones de incapacidad temporal que se hayan producido a partir del 31 de julio de 2018, según establece su apartado 5.

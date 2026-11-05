@@ -1,0 +1,3 @@
+## Disposición transitoria sexta. Cobertura excepcional de puestos de libre designación.
+
+De manera excepcional, cuando el número de funcionarios o funcionarias pertenecientes al Cuerpo a que se refiere el apartado 3 del artículo 8 del presente Estatuto sea tal que imposibilite o dificulte en exceso la cobertura por el sistema de libre designación de los puestos directivos reservados al mismo, podrá asignarse transitoriamente el desempeño de sus funciones a aquellos miembros del personal laboral que viniesen prestando sus servicios en las Cámaras, siempre que reúnan la titulación exigida para acceder a dicho puesto, en tanto no se incremente de modo suficiente el número de aquellos y siempre que esté previsto en las plantillas orgánicas.

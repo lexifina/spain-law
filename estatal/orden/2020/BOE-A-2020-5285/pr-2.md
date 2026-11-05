@@ -1,0 +1,3 @@
+## Primero. Ampliación de los puertos designados como puntos de entrada con capacidad de atención a la emergencia de salud pública ocasionada por la enfermedad COVID-19.
+
+A los efectos previstos en la Orden SND/441/2020, de 23 de mayo, por la que se prorroga la Orden TMA/410/2020, de 14 de mayo, por la que se limita la entrada en España a las aeronaves y buques de pasaje a través de los puntos de entrada designados con capacidad de atención a emergencias de salud pública de importancia internacional, se amplían los puertos designados como puntos de entrada, en su artículo 3.1, epígrafe b), a los puertos de «Santander» y «Alicante».
