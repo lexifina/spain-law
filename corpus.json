@@ -28,5 +28,10 @@
       "decided_here": false
     }
   },
-  "tool": "tools/eslaw.py"
+  "tool": "tools/eslaw.py",
+  "correction_trailer": "Corrects",
+  "append_base": "ee54e80899c6312724f34f48caab1a90d3a7985d",
+  "acts_index": "data/acts.json",
+  "repeal_corrections": 1159,
+  "unresolved_exhausted_validity": 832
 }

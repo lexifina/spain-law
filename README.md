@@ -94,3 +94,9 @@ See REPRODUCE.md. The builder is in `build/`; no AI wrote any legal text and no 
 ## Licence
 
 Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). See LICENSE.
+
+## Repeals and unresolved validity
+
+`data/acts.json` records source identifiers, dates, status, and the BOE exhausted-validity flag. 1,159 unambiguous whole-act repeals are recorded as dated correction commits; their BOE notices remain, and their earlier normative text remains in the original history. 832 exhausted-validity records require a separate analysis of cessation dates, conditional effects, retained provisions or source corrections. They are labelled “as captured”, not asserted to be in force. Missing text is explicitly marked in the index.
+
+The reader applies corrections per act within the verified record, which ends 2026-10-28. Queries beyond that date are rejected. Author dates and In-force give the source effective date; appended committer timestamps preserve commit order. Earlier commits and tags are unchanged.
