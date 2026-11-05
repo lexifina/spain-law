@@ -19,22 +19,48 @@ def git(*args,allow_missing=False):
 def facts():
     raw=git('show','main:data/acts.json',allow_missing=True)
     return json.loads(raw)['acts'] if raw else []
+"""File-specific correction selection for Spain's existing reader."""
+from functools import lru_cache
+
+@lru_cache(maxsize=None)
+def correction_rows():
+    fmt='%H%x1e%(trailers:key=Kind,valueonly,separator=)%x1e%(trailers:key=Act-path,valueonly,separator=)%x1e%(trailers:key=Corrects,valueonly,separator=)%x1e%(trailers:key=Files,valueonly,separator=%x1f)%x1d'
+    rows=[]
+    for raw in git('log','--first-parent','--no-merges','--format='+fmt,'main').split('\x1d'):
+        parts=raw.strip('\n').split('\x1e')
+        if len(parts)!=5:continue
+        sha,kind,act,corrects,files=[x.strip() for x in parts]
+        if kind!='correction':continue
+        match=re.search(r' (\d{4}-\d{2}-\d{2})\.\.(\d{4}-\d{2}-\d{2})?$',corrects)
+        if match:rows.append((sha,act,match[1],match[2],frozenset(x.strip() for x in files.split('\x1f') if x.strip())))
+    return rows
+
+@lru_cache(maxsize=None)
+def ordinary_rows(path):
+    fmt='%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,separator=)'
+    rows=[]
+    for line in git('log','--first-parent','--no-merges','--format='+fmt,'main','--',path).splitlines():
+        parts=line.split('\t')
+        if len(parts)!=3:continue
+        sha,day,kind=[x.strip() for x in parts]
+        if day and kind!='correction':rows.append((sha,day))
+    return rows
+
 def commit_on(day,path):
-    lines=git('log','--first-parent','--no-merges','--format=%H%x09%(trailers:key=In-force,valueonly,separator=)%x09%(trailers:key=Kind,valueonly,separator=)%x09%(trailers:key=Act-path,valueonly,separator=)%x09%(trailers:key=Corrects,valueonly,separator=)','main','--',path).splitlines()
-    ordinary=[];corrections=[]
-    for line in lines:
-        sha,inf,kind,act,corrects=[s.strip() for s in line.split('\t')]
-        if not inf or inf>day:continue
-        if kind=='correction':
-            if path!=act and not path.startswith(act+'/'):continue
-            match=re.search(r' (\d{4}-\d{2}-\d{2})\.\.(\d{4}-\d{2}-\d{2})?$',corrects)
-            if not match or day<match[1] or match[2] and day>match[2]:continue
-            corrections.append((sha,inf))
-        else:ordinary.append((sha,inf))
-    if corrections:return corrections[0][0]
-    # Published same-day/backfill restatements are ordered explicitly in main.
-    # Preserve the published reader's first eligible commit for ordinary text.
-    return ordinary[0][0] if ordinary else ''
+    # Corrections replace their listed files, not every sibling in their tree.
+    for sha,act,start,end,files in correction_rows():
+        if path not in files or day<start or end and day>end:continue
+        if not end:
+            next_days=[d for _,d in ordinary_rows(act) if d>start]
+            if next_days and day>=min(next_days):continue
+        return sha
+    # Keep the published ordering of ordinary source restatements.
+    return next((sha for sha,inf in ordinary_rows(path) if inf<=day),'')
+
+def text_on(day,path):
+    sha=commit_on(day,path)
+    return git('show',f'{sha}:{path}',allow_missing=True) if sha else None
+
 def is_publisher_record(row,path):
     """Recognize retained BOE notices from metadata or published README links."""
     act=row['path']
@@ -48,6 +74,49 @@ def is_publisher_record(row,path):
         entries=git('ls-tree','--name-only','main',act+'/').splitlines()
         return bool(entries) and set(entries)<={act+'/README.md'}|notices
     return False
+
+def render_tree(day,path,sha):
+    """Read the ordinary act tree and overlay only listed correction files."""
+    raw=git('ls-tree','-z',sha+':'+path)
+    refs={};entries=[]
+    for record in raw.split('\0'):
+        meta,sep,name=record.partition('\t')
+        if sep:entries.append((meta,path+'/'+name))
+        if sep and meta.split()[1]=='blob' and name.endswith('.md'):
+            refs[path+'/'+name]=meta.split()[2]
+    if not refs:
+        ended={row['path'] for row in facts() if any(row.get(key) and row[key]<=day for key in ('repealed','annulled'))}
+        sys.stdout.write('\n'.join(meta+'\t'+name for meta,name in entries if name not in ended)+'\n')
+        return 0
+    corrected=set()
+    for commit,act,start,end,files in correction_rows():
+        if act!=path or day<start or end and day>end:continue
+        if not end:
+            future=[d for _,d in ordinary_rows(act) if d>start]
+            if future and day>=min(future):continue
+        for name in files:
+            if name in corrected or not name.startswith(path+'/') or not name.endswith('.md'):continue
+            refs[name]=commit+':'+name;corrected.add(name)
+    names=list(refs)
+    result=subprocess.run(['git','cat-file','--batch'],input=''.join(refs[n]+'\n' for n in names).encode(),capture_output=True)
+    if result.returncode:raise RuntimeError(result.stderr.decode('utf-8','replace').strip())
+    bodies={};offset=0
+    for name in names:
+        stop=result.stdout.index(b'\n',offset);header=result.stdout[offset:stop].split();offset=stop+1
+        if len(header)<3:
+            if re.fullmatch(r'[0-9a-f]{40}',refs[name]):raise RuntimeError('recorded law blob is unavailable: '+name)
+            bodies[name]=None;continue
+        size=int(header[2]);bodies[name]=result.stdout[offset:offset+size].decode('utf-8');offset+=size+1
+    readme=bodies.get(path+'/README.md')
+    if readme is not None:
+        sys.stdout.write(readme.split('## Bloques')[0].rstrip()+'\n')
+        for name in re.findall(r'\]\(([^)]+\.md)\)$',readme,re.M):
+            body=bodies.get(path+'/'+name)
+            if body is not None:sys.stdout.write('\n<!-- '+name+' -->\n'+body)
+    else:
+        sys.stdout.write('\n'.join(name for name in names if bodies.get(name) is not None)+'\n')
+    return 0
+
 
 def show_current(day,path):
     path=path.rstrip('/')
@@ -82,19 +151,12 @@ def show_current(day,path):
         row=next((r for r in facts() if path==r['path'] or path.startswith(r['path']+'/')),None)
         label=f'repealed from {row["repealed"]} by {row["repealed_by"]}' if row and row.get('repealed') else 'absent in the selected version'
         print(f'{path}: {label}',file=sys.stderr);return 1
-    if kind.strip()=='blob':sys.stdout.write(git('show',f'{sha}:{path}'));return 0
-    entries=git('ls-tree',sha,path+'/').splitlines()
-    names=[line.split('\t',1)[1] for line in entries]
-    if path+'/README.md' in names:
-        readme=git('show',f'{sha}:{path}/README.md')
-        sys.stdout.write(readme.split('## Bloques')[0].rstrip()+'\n')
-        for fname in re.findall(r'\]\(([^)]+\.md)\)$',readme,re.M):
-            text=git('show',f'{sha}:{path}/{fname}',allow_missing=True)
-            if text is not None:sys.stdout.write(f'\n<!-- {fname} -->\n'+text)
-        return 0
-    repealed={r['path'] for r in rows if any(r.get(key) and r[key]<=day for key in ('repealed','annulled'))}
-    sys.stdout.write('\n'.join(line for line in entries if line.split('\t',1)[1] not in repealed)+'\n')
-    return 0
+    if kind.strip()=='blob':
+        text=text_on(day,path)
+        if text is None:return 1
+        sys.stdout.write(text);return 0
+    return render_tree(day,path,sha)
+
 def show(day,path):
     path=path.rstrip('/')
     manifest=json.loads(git('show','main:corpus.json'))
@@ -109,19 +171,12 @@ def show(day,path):
         row=next((r for r in facts() if path==r['path'] or path.startswith(r['path']+'/')),None)
         label=f'repealed from {row["repealed"]} by {row["repealed_by"]}' if row and row.get('repealed') else 'absent in the selected version'
         print(f'{path}: {label}',file=sys.stderr);return 1
-    if kind.strip()=='blob':sys.stdout.write(git('show',f'{sha}:{path}'));return 0
-    entries=git('ls-tree',sha,path+'/').splitlines()
-    names=[line.split('\t',1)[1] for line in entries]
-    if path+'/README.md' in names:
-        readme=git('show',f'{sha}:{path}/README.md')
-        sys.stdout.write(readme.split('## Bloques')[0].rstrip()+'\n')
-        for fname in re.findall(r'\]\(([^)]+\.md)\)$',readme,re.M):
-            text=git('show',f'{sha}:{path}/{fname}',allow_missing=True)
-            if text is not None:sys.stdout.write(f'\n<!-- {fname} -->\n'+text)
-        return 0
-    repealed={r['path'] for r in facts() if r.get('repealed') and r['repealed']<=day}
-    sys.stdout.write('\n'.join(line for line in entries if line.split('\t',1)[1] not in repealed)+'\n')
-    return 0
+    if kind.strip()=='blob':
+        text=text_on(day,path)
+        if text is None:return 1
+        sys.stdout.write(text);return 0
+    return render_tree(day,path,sha)
+
 def status(day,path):
     row=next((r for r in facts() if path==r['path'] or path.startswith(r['path']+'/')),None)
     if row is None:

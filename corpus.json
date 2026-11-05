@@ -35,5 +35,8 @@
   "repeal_corrections": 1558,
   "unresolved_exhausted_validity": 418,
   "annulment_corrections": 16,
-  "lifecycle_checked_on": "2026-11-05"
+  "lifecycle_checked_on": "2026-11-05",
+  "same_day_versions_index": "data/same-day-versions.json",
+  "same_day_versions_restored": 213,
+  "same_day_versions_held": 87
 }
