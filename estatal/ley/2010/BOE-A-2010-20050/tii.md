@@ -1,3 +1,0 @@
-## TÍTULO II
-
-## Estrategias marinas

@@ -1,3 +1,0 @@
-## Artículo 6. Presupuesto del Banco de España.
-
-De acuerdo con lo previsto en el artículo 4.2 de la Ley 13/1994, de 1 de junio, de Autonomía del Banco de España, se aprueba el presupuesto de gastos de funcionamiento e inversiones de Banco de España, que se une a esta Ley.

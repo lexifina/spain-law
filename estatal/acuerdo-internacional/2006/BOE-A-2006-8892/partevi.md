@@ -1,3 +1,0 @@
-## PARTE VI
-
-## Disposiciones finales

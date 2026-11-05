@@ -1,1 +1,0 @@
-## De carácter común

@@ -1,1 +1,0 @@
-Publicar en las diferentes lenguas oficiales del Estado, distintas del castellano, los modelos homologados de papeletas de votación, sobres e impresos electorales que se publicaron en castellano por Orden de 16 de julio de 1998. Los indicados modelos figuran como anexo a la presente Resolución.

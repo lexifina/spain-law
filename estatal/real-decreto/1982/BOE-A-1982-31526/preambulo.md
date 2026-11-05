@@ -1,1 +1,0 @@
-Norma derogada por la disposición derogatoria única.1 del Real Decreto 337/2014, de 9 de mayo Ref. BOE-A-2014-6084#dd, sin perjuicio de su aplicación en los términos establecidos en la disposición transitoria 1.1 del citado Real Decreto.

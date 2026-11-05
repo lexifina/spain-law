@@ -1,3 +1,0 @@
-## PRIMERA PARTE
-
-## Principios generales

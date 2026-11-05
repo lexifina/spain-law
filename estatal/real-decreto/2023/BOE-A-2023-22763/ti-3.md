@@ -1,3 +1,0 @@
-## TÍTULO III
-
-## Participaciones significativas

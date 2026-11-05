@@ -1,1 +1,0 @@
-## Sección séptima. Pensiones especiales

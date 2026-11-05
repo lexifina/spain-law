@@ -1,3 +1,0 @@
-## CAPÍTULO XVII
-
-## Buen gobierno

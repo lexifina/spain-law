@@ -1,3 +1,0 @@
-## CAPÍTULO VII
-
-## Aspectos económicos

@@ -1,3 +1,0 @@
-## TITULO IV
-
-## Antecedentes penales

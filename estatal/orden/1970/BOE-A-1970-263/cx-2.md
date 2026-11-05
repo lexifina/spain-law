@@ -1,3 +1,0 @@
-## CAPITULO XI
-
-## Disposiciones transitorias

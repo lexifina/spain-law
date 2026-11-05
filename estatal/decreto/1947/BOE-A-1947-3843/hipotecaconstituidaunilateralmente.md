@@ -1,1 +1,0 @@
-## Hipoteca constituida unilateralmente

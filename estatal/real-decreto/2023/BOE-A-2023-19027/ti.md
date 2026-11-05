@@ -1,3 +1,0 @@
-## TÍTULO I
-
-## Acreditación estatal

@@ -1,3 +1,0 @@
-## CAPÍTULO XXI
-
-## Memorias

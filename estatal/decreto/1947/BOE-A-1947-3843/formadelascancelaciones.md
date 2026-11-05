@@ -1,1 +1,0 @@
-## Forma de las cancelaciones

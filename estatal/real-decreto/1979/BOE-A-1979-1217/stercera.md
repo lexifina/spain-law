@@ -1,1 +1,0 @@
-## Sección tercera. Financiación

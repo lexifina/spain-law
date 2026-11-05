@@ -1,1 +1,0 @@
-## A. Ámbito y definiciones

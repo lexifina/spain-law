@@ -1,3 +1,0 @@
-## TÍTULO VI
-
-## Fomento forestal

@@ -1,3 +1,0 @@
-## Artículo quinto.
-
-Las Altas Partes contratantes se obligan a comunicarse, a través de las Embajadas, en el plazo de sesenta días, las adquisiciones y pérdidas de nacionalidad y los cambios de domicilio que hayan tenido, lugar en aplicación del presente Convenio, así como los actos relativos al estado civil de las personas beneficiadas por él.

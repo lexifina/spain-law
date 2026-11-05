@@ -1,3 +1,0 @@
-## CAPITULO CUARTO
-
-## Disposiciones comunes

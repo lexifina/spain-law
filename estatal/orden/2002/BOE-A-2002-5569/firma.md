@@ -1,3 +1,0 @@
-Madrid, 8 de marzo de 2002.
-
-TRILLO-FIGUEROA Y MARTÍNEZ-CONDE

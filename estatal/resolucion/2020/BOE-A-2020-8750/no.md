@@ -1,1 +1,0 @@
-Se deja sin efectos la presente Resolución, desde el 23 de noviembre de 2020, por el apartado undécimo de la Resolución de 11 de noviembre de 2020, de la Dirección General de Salud Pública. Ref. BOE-A-2020-14049#un

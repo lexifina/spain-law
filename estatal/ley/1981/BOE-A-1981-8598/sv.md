@@ -1,3 +1,0 @@
-## SECCIÓN V
-
-## Mercado secundario

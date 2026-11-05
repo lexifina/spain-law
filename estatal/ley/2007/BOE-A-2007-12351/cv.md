@@ -1,3 +1,0 @@
-## Capítulo V
-
-## Las bibliotecas

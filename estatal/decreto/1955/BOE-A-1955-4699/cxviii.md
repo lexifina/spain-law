@@ -1,3 +1,0 @@
-## CAPÍTULO XVIII
-
-## Partes periódicos

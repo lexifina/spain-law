@@ -1,3 +1,0 @@
-Madrid, 9 de mayo de 2003.
-
-TRILLO-FIGUEROA Y MARTÍNEZ-CONDE

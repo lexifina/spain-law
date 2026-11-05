@@ -1,1 +1,0 @@
-## Caducidad de anotaciones

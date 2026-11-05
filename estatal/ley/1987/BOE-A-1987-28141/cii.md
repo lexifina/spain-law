@@ -1,3 +1,0 @@
-## CAPITULO II
-
-## Hecho imponible

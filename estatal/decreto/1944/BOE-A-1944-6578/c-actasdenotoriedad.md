@@ -1,1 +1,0 @@
-c) Actas de notoriedad

@@ -1,3 +1,0 @@
-## TITULO I
-
-## Régimen Disciplinario

@@ -1,3 +1,0 @@
-## TÍTULO XV
-
-## Régimen disciplinario

@@ -1,1 +1,0 @@
-Esta norma pasa a denominarse "Resolución de 16 de julio de 2004, de la Tesorería General de la Seguridad Social, sobre determinación de funciones en materia de gestión recaudatoria de la Seguridad Social", según establece el apartado 1.1 de la Resolución de 8 de mayo de 2013. Ref. BOE-A-2013-5316

@@ -1,1 +1,0 @@
-## Determinación de la profesionalidad

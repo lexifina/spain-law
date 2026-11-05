@@ -1,1 +1,0 @@
-## Oposición directa

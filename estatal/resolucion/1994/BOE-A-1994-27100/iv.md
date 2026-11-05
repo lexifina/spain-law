@@ -1,1 +1,0 @@
-## IV. Criterios de evaluación

@@ -1,3 +1,0 @@
-## Artículo 19. Cuota tributaria.
-
-La cuota de este Arbitrio es el resultado de aplicar a la base imponible el tipo de gravamen que corresponda.

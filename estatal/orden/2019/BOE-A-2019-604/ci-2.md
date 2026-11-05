@@ -1,3 +1,0 @@
-## CAPÍTULO II
-
-## Junta Directiva

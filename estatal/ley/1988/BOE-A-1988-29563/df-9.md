@@ -1,5 +1,0 @@
-## Disposición final novena. Seguro Obligatorio de Viajeros.
-
-(Derogada)
-
-> Se deroga por la disposición derogatoria única de la Ley 30/1995, de 8 de noviembre. Ref. BOE-A-1995-24262#ddunica

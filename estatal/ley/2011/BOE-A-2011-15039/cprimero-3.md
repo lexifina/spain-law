@@ -1,3 +1,0 @@
-## CAPÍTULO PRIMERO
-
-## Tutela institucional

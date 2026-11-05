@@ -1,1 +1,0 @@
-Téngase en cuenta que la presente Orden conserva su vigencia, en lo que no se oponga al Real Decreto 1330/2000, de 7 de julio. Ref. BOE-A-2000-12970, según establece su disposición derogatoria única.2.

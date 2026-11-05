@@ -1,3 +1,0 @@
-## SECCIÓN PRIMERA
-
-## Disposiciones comunes

@@ -1,1 +1,0 @@
-Grupo VI. Otras máquinas

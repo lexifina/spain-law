@@ -1,1 +1,0 @@
-## Secretaría General Técnica

@@ -1,3 +1,0 @@
-## Artículo 405.
-
-La responsabilidad penal de los Jueces y Magistrados por delitos o faltas cometidos en el ejercicio de las funciones de su cargo se exigirá conforme a lo dispuesto en esta ley.

@@ -1,3 +1,0 @@
-Madrid, 22 de julio de 1999.
-
-ARIAS-SALGADO MONTALVO

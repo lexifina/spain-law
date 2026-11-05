@@ -1,1 +1,0 @@
-## Armerías y otros establecimientos

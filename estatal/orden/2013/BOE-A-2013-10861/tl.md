@@ -1,3 +1,0 @@
-## TÍTULO l
-
-## Disposiciones generales

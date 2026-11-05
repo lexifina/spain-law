@@ -1,3 +1,0 @@
-## Artículo 9. Consulta y participación de los trabajadores.
-
-La consulta y la participación de los trabajadores y de sus representantes sobre las cuestiones a que se refiere este real decreto se realizarán de conformidad con lo dispuesto en el artículo 18.2 de la Ley 31/1995, de 8 de noviembre.

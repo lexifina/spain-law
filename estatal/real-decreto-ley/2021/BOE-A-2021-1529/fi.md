@@ -1,7 +1,0 @@
-Dado en Madrid, el 2 de febrero de 2021.
-
-FELIPE R.
-
-El Presidente del Gobierno,
-
-PEDRO SÁNCHEZ PÉREZ-CASTEJÓN

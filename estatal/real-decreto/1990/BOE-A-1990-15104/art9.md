@@ -1,5 +1,0 @@
-## Artículo 9. Envasado.
-
-(Derogado)
-
-> Se deroga por el art. 48 del Real Decreto 176/2013, de 8 de marzo. Ref. BOE-A-2013-3402#a4-10.

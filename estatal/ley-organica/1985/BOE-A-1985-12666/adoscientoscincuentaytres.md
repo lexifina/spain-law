@@ -1,3 +1,0 @@
-## Artículo 253.
-
-Los autos y sentencias se deliberarán y votarán inmediatamente después de las vistas y, cuando así no pudiera hacerse, señalará el Presidente el día en que deban votarse, dentro del plazo señalado para dictar la resolución.

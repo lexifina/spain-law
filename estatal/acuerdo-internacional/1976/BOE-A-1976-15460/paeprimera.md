@@ -1,3 +1,0 @@
-## PARTE PRIMERA
-
-## Disposiciones generales

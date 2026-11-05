@@ -1,3 +1,0 @@
-## CAPÍTULO VIII
-
-## Competencias administrativas

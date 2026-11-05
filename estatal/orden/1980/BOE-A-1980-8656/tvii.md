@@ -1,5 +1,0 @@
-## TÍTULO VII
-
-## Almacenamiento, circulación y recepción de carburantes y combustibles
-
-> Redactado conforme a la corrección de errores publicada en BOE núm. 128, de 28 de mayo de 1980. Ref. BOE-A-1980-10859

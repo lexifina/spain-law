@@ -1,3 +1,0 @@
-## TÍTULO IV
-
-## Residencia temporal

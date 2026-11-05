@@ -1,1 +1,0 @@
-Madrid, 27 de mayo de 2020.–La Vicepresidenta Cuarta del Gobierno y Ministra para la Transición Ecológica y el Reto Demográfico, P. D. (Orden TEC/1425/2018, de 17 de diciembre), la Secretaria de Estado de Energía, Sara Aagesen Muñoz.

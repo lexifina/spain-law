@@ -1,3 +1,0 @@
-## TÍTULO VII
-
-## Régimen sancionador

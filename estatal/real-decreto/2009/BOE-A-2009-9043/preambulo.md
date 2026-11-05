@@ -1,1 +1,0 @@
-Este Real Decreto pasa a denominarse "Real Decreto 862/2009, de 14 de mayo, por el que se aprueban las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos y otros aeródromos de uso público", según establece la disposición final 1.1 del Real Decreto 1189/2011, de 19 de agosto. Ref. BOE-A-2011-14118.

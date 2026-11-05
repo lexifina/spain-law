@@ -1,3 +1,0 @@
-## TITULO IV
-
-## Carrera profesional

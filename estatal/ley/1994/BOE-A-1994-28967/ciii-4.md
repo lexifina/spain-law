@@ -1,3 +1,0 @@
-## CAPÍTULO III
-
-## Revalorización y modificación de los valores de pensiones públicas para 1995

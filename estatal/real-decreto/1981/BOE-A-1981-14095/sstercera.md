@@ -1,1 +1,0 @@
-## Subsección tercera. Regulación complementaria

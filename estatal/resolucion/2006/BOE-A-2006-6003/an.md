@@ -1,3 +1,0 @@
-## ANEJO
-
-## Protocolos de detalle

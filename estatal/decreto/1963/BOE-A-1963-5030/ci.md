@@ -1,3 +1,0 @@
-## Capítulo primero
-
-## Preliminar

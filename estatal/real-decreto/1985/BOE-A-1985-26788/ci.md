@@ -1,3 +1,0 @@
-## CAPITULO I
-
-## Centros autorizados

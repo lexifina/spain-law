@@ -1,3 +1,0 @@
-## Artículo cuarenta y cuatro.
-
-La selección, el ingreso, la promoción y formación de los miembros de los Cuerpos de Policía de las Comunidades Autónomas se regulará y organizará por las respectivas Comunidades Autónomas, sin perjuicio de lo establecido en los respectivos Estatutos.

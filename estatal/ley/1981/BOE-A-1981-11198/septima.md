@@ -1,3 +1,0 @@
-## Disposición transitoria séptima.
-
-Las acciones de filiación se regirán exclusivamente por la legislación anterior cuando el progenitor cuestionado o el hijo hubiere fallecido al entrar en vigor la presente Ley.

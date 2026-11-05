@@ -1,1 +1,0 @@
-## A) Modalidad de Artes

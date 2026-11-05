@@ -1,3 +1,0 @@
-## Comunidades Autónomas
-
-(En general)

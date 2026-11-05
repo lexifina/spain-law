@@ -1,1 +1,0 @@
-Téngase en cuenta que el 5 de marzo de 2018 entra en vigor la Resolución de 8 de febrero de 2018, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación del tráfico durante el año 2018 Ref. BOE-A-2018-2400, fecha a partir de la cual cesa la vigencia de la presente Resolución, según establece su disposición final única.

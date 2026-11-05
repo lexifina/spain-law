@@ -1,3 +1,0 @@
-## CAPÍTULO VIII
-
-## Disposición general

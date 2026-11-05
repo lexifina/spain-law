@@ -1,3 +1,0 @@
-## Título preliminar
-
-## Disposiciones generales

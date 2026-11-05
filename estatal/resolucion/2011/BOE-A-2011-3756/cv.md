@@ -1,3 +1,0 @@
-## CAPÍTULO V
-
-## Estructura Orgánica

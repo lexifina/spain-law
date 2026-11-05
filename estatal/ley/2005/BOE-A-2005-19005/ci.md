@@ -1,3 +1,0 @@
-## CAPÍTULO I
-
-## Mercados energéticos

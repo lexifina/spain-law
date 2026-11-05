@@ -1,1 +1,0 @@
-Aprobar y publicar el texto del «Acuerdo de Asignación de Recursos y Racionalización de las Estructuras de Negociación y Participación» alcanzado por la Mesa General de Negociación de la Administración General del Estado, que se adjunta como Anexo a esta Resolución.

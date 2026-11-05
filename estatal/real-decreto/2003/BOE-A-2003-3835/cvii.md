@@ -1,3 +1,0 @@
-## CAPITULO VII
-
-## Comercio exterior

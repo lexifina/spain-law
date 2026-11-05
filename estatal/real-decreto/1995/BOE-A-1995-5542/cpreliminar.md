@@ -1,3 +1,0 @@
-## CAPÍTULO PRELIMINAR
-
-## Disposiciones generales

@@ -1,3 +1,0 @@
-## CAPÍTULO IX
-
-## Catastro Inmobiliario

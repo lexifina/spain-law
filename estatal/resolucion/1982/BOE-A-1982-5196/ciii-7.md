@@ -1,3 +1,0 @@
-## CAPÍTULO TERCERO
-
-## Normas comunes

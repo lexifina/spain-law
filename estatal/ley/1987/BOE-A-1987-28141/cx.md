@@ -1,3 +1,0 @@
-## CAPITULO X
-
-## Obligaciones formales

@@ -1,3 +1,0 @@
-## CAPÍTULO XXXVIII
-
-## Viruela

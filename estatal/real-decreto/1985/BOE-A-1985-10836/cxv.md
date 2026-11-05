@@ -1,3 +1,0 @@
-## CAPITULO XV
-
-## Sanciones

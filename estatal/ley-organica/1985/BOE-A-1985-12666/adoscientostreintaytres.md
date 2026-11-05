@@ -1,3 +1,0 @@
-## Artículo 233.
-
-Las deliberaciones de los Tribunales son secretas. También lo será el resultado de las votaciones, sin perjuicio de lo dispuesto en esta Ley sobre la publicación de los votos particulares.

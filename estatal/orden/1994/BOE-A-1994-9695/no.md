@@ -1,1 +1,0 @@
-Téngase en cuenta que esta norma queda derogada en cuanto se oponga a lo dispuesto en la Orden TAS/816/2005, de 21 de marzo. Ref. BOE-A-2005-5240, según establece su disposición derogatoria única, en relación con el art. 2 de la misma.

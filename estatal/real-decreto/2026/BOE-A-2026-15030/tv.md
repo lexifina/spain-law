@@ -1,3 +1,0 @@
-## TÍTULO V
-
-## Régimen electoral

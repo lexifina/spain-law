@@ -1,3 +1,0 @@
-## CAPITULO I
-
-## Corporaciones Locales

@@ -1,1 +1,0 @@
-## Disposiciones de carácter general

@@ -1,3 +1,0 @@
-## Capítulo II
-
-## Calidad industrial

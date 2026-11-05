@@ -1,3 +1,0 @@
-## ANEXO
-
-## Instrucciones técnicas complementarias

@@ -1,3 +1,0 @@
-## CAPÍTULO IV
-
-## Disposiciones en materia de Inspección, Gestión y Recaudación Tributaria

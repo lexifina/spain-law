@@ -1,3 +1,0 @@
-## CAPÍTULO OCTAVO
-
-## Mercados intradiarios

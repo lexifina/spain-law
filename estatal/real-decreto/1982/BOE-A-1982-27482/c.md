@@ -1,1 +1,0 @@
-## Composición, funcionamiento y atribuciones

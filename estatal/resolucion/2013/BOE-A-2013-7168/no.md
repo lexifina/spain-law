@@ -1,1 +1,0 @@
-Norma derogada, con efectos para las situaciones de incapacidad temporal que se hayan producido a partir del 31 de julio de 2018, por el apartado tercero de la Resolución de 6 de noviembre de 2018. Ref. BOE-A-2018-15512#te

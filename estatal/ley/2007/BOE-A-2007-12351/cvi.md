@@ -1,3 +1,0 @@
-## Capítulo VI
-
-## Régimen sancionador

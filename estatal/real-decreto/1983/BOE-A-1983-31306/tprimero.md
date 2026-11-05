@@ -1,3 +1,0 @@
-## TÍTULO PRIMERO
-
-## Conceptos generales

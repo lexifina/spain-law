@@ -1,1 +1,0 @@
-Téngase en cuenta que quedan derogados todos aquellos aspectos de esta Orden que contradigan o queden regulados por el Real Decreto 659/2023, de 18 de julio. Ref. BOE-A-2023-16889#dd-2, según se establece en la disposición derogatoria única.5 del citado Real Decreto.

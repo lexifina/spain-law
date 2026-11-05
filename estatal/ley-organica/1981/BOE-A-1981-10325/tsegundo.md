@@ -1,3 +1,0 @@
-## TÍTULO SEGUNDO
-
-## Del procedimiento

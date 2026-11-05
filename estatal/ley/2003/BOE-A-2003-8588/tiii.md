@@ -1,3 +1,0 @@
-## TÍTULO III
-
-## Obligaciones tributarias

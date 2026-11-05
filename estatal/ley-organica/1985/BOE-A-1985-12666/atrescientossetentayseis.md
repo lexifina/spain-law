@@ -1,3 +1,0 @@
-## Artículo 376.
-
-Cuando circunstancias excepcionales lo impongan, podrá suspenderse o revocarse el disfrute de las licencias o de los permisos, ordenándose a los Jueces y Magistrados la incorporación al Juzgado o Tribunal.

@@ -1,1 +1,0 @@
-## Sección Tercera. Disposiciones complementarias

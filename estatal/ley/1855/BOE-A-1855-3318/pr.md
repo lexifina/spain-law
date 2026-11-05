@@ -1,1 +1,0 @@
-Doña Isabel II por la gracia de Dios y la Constitución de la Monarquía española Reina de las Españas: a todos los que las presentes vieren y entendieren sabed, que las Córtes Constituyentes han decretado y Nos sancionado lo siguiente:

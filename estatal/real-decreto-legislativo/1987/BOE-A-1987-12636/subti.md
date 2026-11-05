@@ -1,3 +1,0 @@
-## SUBTÍTULO I
-
-## Disposiciones generales

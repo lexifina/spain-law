@@ -1,3 +1,0 @@
-## Artículo 259.
-
-Las sentencias se firmarán por el Juez o por todos los Magistrados no impedidos dentro del plazo establecido para dictarlas.

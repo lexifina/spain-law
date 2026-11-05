@@ -1,7 +1,0 @@
-Dado en Madrid, el 16 de junio de 2020.
-
-FELIPE R.
-
-El Ministro de Agricultura, Pesca y Alimentación,
-
-LUIS PLANAS PUCHADES

@@ -1,3 +1,0 @@
-## Disposición adicional sexta.
-
-Mediante la correspondiente normativa del Estado, se adecuará la Planta Judicial a las necesidades de Ceuta.

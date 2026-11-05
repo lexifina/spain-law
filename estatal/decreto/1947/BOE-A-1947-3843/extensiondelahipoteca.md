@@ -1,1 +1,0 @@
-## Extensión de la hipoteca

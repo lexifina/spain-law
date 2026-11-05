@@ -1,1 +1,0 @@
-## Control antes del tiro

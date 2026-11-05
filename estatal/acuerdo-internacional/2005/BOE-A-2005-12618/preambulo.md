@@ -1,1 +1,0 @@
-El Reino de España y la República Argelina Democrática y Popular, deseosos de concluir un Convenio para Evitar la Doble Imposición y Prevenir la Evasión Fiscal en materia de Impuestos sobre la Renta y sobre el Patrimonio, han convenido en lo siguiente:

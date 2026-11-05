@@ -1,1 +1,0 @@
-## Sección segunda. Patatas fritas

@@ -1,1 +1,0 @@
-## Posposición de hipoteca

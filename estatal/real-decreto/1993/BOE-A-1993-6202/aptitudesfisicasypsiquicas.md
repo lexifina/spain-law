@@ -1,1 +1,0 @@
-## Aptitudes físicas y psíquicas

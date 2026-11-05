@@ -1,3 +1,0 @@
-## TÍTULO IV
-
-## Potestad sancionadora

@@ -1,1 +1,0 @@
-Téngase en cuenta que las medidas adoptadas en la presente Orden son aplicables a las acciones formativas de certificados de profesionalidad aprobadas o autorizadas para ser impartidas en 2020, según establece su art. 1, por lo que debe entenderse que esta norma ha perdido su vigencia.

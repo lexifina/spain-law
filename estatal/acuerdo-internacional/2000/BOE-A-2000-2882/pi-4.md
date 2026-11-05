@@ -1,3 +1,0 @@
-## PARTE IV
-
-## Situaciones excepcionales

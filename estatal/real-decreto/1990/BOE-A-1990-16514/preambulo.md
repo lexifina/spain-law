@@ -1,1 +1,0 @@
-Norma derogada por la disposición derogatoria única del Real Decreto 1205/2011, de 26 de agosto Ref. BOE-A-2011-14252#ddunica. a excepción del artículo 2.1, y el anexo II, parte II, punto 3, que quedan derogados a partir del 20 de julio de 2013.

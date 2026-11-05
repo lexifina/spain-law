@@ -1,1 +1,0 @@
-## Sujeta a condición

@@ -1,3 +1,0 @@
-## CAPITULO V
-
-## Asistencia sanitaria

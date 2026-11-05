@@ -1,3 +1,0 @@
-## CAPÍTULO VII
-
-## Contrapartida Central

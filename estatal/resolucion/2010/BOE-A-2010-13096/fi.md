@@ -1,1 +1,0 @@
-Barcelona, 21 de junio de 2010.–El Presidente de la Comisión del Mercado de las Telecomunicaciones, P.D. (Acuerdo del Consejo de la Comisión de 8 de mayo de 2008), el Secretario de la Comisión del Mercado de las Telecomunicaciones, Ignacio Redondo Andreu.

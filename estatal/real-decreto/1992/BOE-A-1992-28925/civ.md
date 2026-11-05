@@ -1,3 +1,0 @@
-## Capítulo IV
-
-## Operaciones intracomunitarias

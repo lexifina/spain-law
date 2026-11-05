@@ -1,1 +1,0 @@
-## Sección VIII. Encuestas electorales

@@ -1,3 +1,0 @@
-## CAPÍTULO DUODÉCIMO
-
-## Reglas finales

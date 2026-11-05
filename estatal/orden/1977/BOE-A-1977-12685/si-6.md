@@ -1,1 +1,0 @@
-## Sección I. Salario base

@@ -1,1 +1,0 @@
-## Subsección segunda. Pensiones mínimas

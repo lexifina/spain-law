@@ -1,3 +1,0 @@
-## Título I
-
-## Disposiciones generales

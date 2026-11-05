@@ -1,3 +1,0 @@
-## CUARTA PARTE
-
-## Disposiciones técnicas

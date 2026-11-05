@@ -1,3 +1,0 @@
-## CAPÍTULO III
-
-## Procedimiento abreviado

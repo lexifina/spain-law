@@ -1,5 +1,0 @@
-## Artículo 426.
-
-1. Las sanciones disciplinarias serán anotadas en el expediente personal del interesado, con expresión de los hechos imputados.
-
-2. La autoridad que las impusiere cuidará de que se cumpla lo anterior.

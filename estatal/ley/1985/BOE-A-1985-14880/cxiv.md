@@ -1,3 +1,0 @@
-## CAPÍTULO XIV
-
-## Del pagaré

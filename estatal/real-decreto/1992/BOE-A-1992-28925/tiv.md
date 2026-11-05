@@ -1,3 +1,0 @@
-## Título IV
-
-## Base imponible

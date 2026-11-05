@@ -1,1 +1,0 @@
-Téngase en cuenta que las referencias a los niveles educativos se entienden sustituidas por las denominaciones que, para los distintos niveles y etapas educativas y para los respectivos centros, se contienen en la Ley Orgánica 2/2006, de 3 de mayo, según establece su disposición adicional 16. Ref. BOE-A-2006-7899#dadecimosexta.

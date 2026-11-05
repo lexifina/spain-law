@@ -1,3 +1,0 @@
-## LIBRO I
-
-## Disposiciones generales

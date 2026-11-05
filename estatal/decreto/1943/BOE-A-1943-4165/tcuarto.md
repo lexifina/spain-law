@@ -1,3 +1,0 @@
-## TÍTULO CUARTO
-
-## Jurisdicción

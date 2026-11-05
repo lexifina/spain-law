@@ -1,1 +1,0 @@
-Téngase en cuenta que la modificación que realiza el presente Acuerdo, por razones de urgencia y de forma temporal, establece una vigencia por un plazo inicial de tres meses a partir de su publicación, por lo que debe entenderse que esta norma ha perdido su vigencia.

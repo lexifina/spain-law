@@ -1,3 +1,0 @@
-## CAPÍTULO X
-
-## Reservas singulares

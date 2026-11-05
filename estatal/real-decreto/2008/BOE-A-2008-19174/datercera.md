@@ -1,7 +1,0 @@
-## Disposición adicional tercera. Atribución docente para la materia de Cultura audiovisual.
-
-(Derogada).
-
-> Se deroga por la disposición derogatoria única.1.b) del Real Decreto 286/2023, de 18 de abril. Ref. BOE-A-2023-9553#dd
-
-> Téngase en cuenta para su aplicación, las disposiciones transitoria única.1 y final 9 del citado decreto.

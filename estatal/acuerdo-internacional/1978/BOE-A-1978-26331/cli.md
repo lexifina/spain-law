@@ -1,3 +1,0 @@
-## CAPÍTULO lI
-
-## Condición jurídica

@@ -1,1 +1,0 @@
-Téngase en cuenta que las referencias efectuadas en el presente Real Decreto a la Junta Consultiva de Contratación Administrativa se entenderán hechas a la Junta Consultiva de Contratación Pública del Estado, según establece la disposición final 1 del Real Decreto 256/2018, de 4 de mayo. Ref. BOE-A-2018-6044

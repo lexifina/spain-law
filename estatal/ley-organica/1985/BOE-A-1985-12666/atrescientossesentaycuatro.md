@@ -1,5 +1,0 @@
-## Artículo 364.
-
-Cuando la suspensión no sea declarada definitiva ni se acuerde la separación, el tiempo de duración de aquélla se computará como de servicio activo y se acordará la inmediata incorporación del suspenso a su plaza, con reconocimiento de todos los derechos económicos y demás que procedan desde la fecha en que la suspensión produjo efectos.
-
-> Se modifica por el art. único.101 de la Ley Orgánica 19/2003, de 23 de diciembre. Ref. BOE-A-2003-23644

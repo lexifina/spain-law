@@ -1,3 +1,0 @@
-## Sección primera
-
-Disposiciones generales

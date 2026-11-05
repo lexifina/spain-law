@@ -1,9 +1,0 @@
-## ANEXO IV
-
-## Convalidaciones entre módulos profesionales de títulos establecidos al amparo de la Ley Orgánica 1/1990 (LOGSE) y los establecidos en el título de Técnico Superior en Diseño y Producción de Calzado y Complementos al amparo de la Ley Orgánica 2/2006
-
-(Derogado).
-
-> Se deroga por la disposición derogatoria única.2 del Real Decreto 1085/2020, de 9 de diciembre. Ref. BOE-A-2020-17274#dd
-
-> Redactado conforme a la corrección de erratas publicada en BOE núm. 152, de 23 de junio de 2010. Ref. BOE-A-2010-9962

@@ -1,1 +1,0 @@
-b) Concurso de clase

@@ -1,1 +1,0 @@
-> Esta norma pasa a denominarse "Orden AAA/2536/2015, de 30 de noviembre, por la que se regulan las artes y modalidades de pesca marítima y se establece un plan de gestión para los buques de los censos del Subcaladero Canario", según establece el art. único.1 de la Orden APA/422/2023, de 19 de abril. Ref. BOE-A-2023-10287

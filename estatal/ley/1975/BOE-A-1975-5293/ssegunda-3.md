@@ -1,1 +1,0 @@
-## Sección segunda. Otros beneficios

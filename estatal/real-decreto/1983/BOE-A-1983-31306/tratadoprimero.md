@@ -1,3 +1,0 @@
-## TRATADO PRIMERO
-
-## Del mando

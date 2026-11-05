@@ -1,3 +1,0 @@
-## CÁMARA OFICIAL DE COMERCIO, INDUSTRIA, SERVICIOS Y NAVEGACIÓN DE ESPAÑA
-
-## Reglamento de Régimen Interior

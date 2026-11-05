@@ -1,1 +1,0 @@
-## A) Operaciones no financieras

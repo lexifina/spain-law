@@ -1,3 +1,0 @@
-## Artículo 377.
-
-Reglamentariamente se desarrollará el régimen jurídico de las licencias y permisos, determinando la autoridad a quien corresponde otorgarlos y su duración, y cuanto no se halle establecido en la presente ley.

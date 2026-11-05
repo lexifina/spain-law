@@ -1,1 +1,0 @@
-## Sección primera. Régimen legal

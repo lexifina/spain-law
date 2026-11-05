@@ -1,3 +1,0 @@
-## TITULO XII
-
-## Patentes secretas

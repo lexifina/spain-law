@@ -1,1 +1,0 @@
-Téngase en cuenta que las medidas establecidas en la presente Resolución eran aplicables hasta el 31 de diciembre de 2020, según establece su apartado tercero, por lo que debe entenderse que ha agotado su vigencia.

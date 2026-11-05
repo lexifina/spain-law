@@ -1,3 +1,0 @@
-## TÍTULO XIII
-
-## Conceptos generales

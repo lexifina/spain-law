@@ -1,3 +1,0 @@
-## CAPITULO IV
-
-## Del Presidente

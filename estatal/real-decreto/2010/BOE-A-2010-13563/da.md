@@ -1,3 +1,0 @@
-## Disposición adicional primera. Referencia del título en el marco europeo.
-
-Una vez establecido el Marco Nacional de Cualificaciones, de acuerdo con las recomendaciones europeas, se determinará el nivel correspondiente de estas titulaciones en el marco nacional y su equivalente europeo.

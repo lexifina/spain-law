@@ -1,3 +1,0 @@
-## TERCERA PARTE
-
-## Cuentas anuales

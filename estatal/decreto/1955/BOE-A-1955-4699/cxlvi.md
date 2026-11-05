@@ -1,3 +1,0 @@
-## CAPÍTULO XLVI
-
-## Influenza porcina

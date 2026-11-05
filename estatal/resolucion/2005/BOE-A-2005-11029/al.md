@@ -1,3 +1,0 @@
-## Administración Local
-
-(En general)

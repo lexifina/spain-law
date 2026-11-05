@@ -1,1 +1,0 @@
-## Sección Segunda. Registros administrativos

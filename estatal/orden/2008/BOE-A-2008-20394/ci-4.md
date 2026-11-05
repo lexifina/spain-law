@@ -1,3 +1,0 @@
-## CAPÍTULO IV
-
-## Secretaría General

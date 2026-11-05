@@ -1,3 +1,0 @@
-## CAPÍTULO II
-
-## Procedimiento abreviado

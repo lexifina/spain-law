@@ -1,3 +1,0 @@
-## CAPITULO XII
-
-## Disposiciones complementarias

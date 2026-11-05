@@ -1,1 +1,0 @@
-Véanse las Órdenes por las que se dictan las normas para la elaboración de los presupuestos generales del Estado de cada año, en cuanto a posibles actualizaciones tácitas de la clasificación económica de los gastos e ingresos.

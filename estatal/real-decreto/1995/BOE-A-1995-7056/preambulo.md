@@ -1,1 +1,0 @@
-Téngase en cuenta que, con fecha 12 de julio de 2006, ha entrado en vigor el Decreto 58/2006, de 1 de julio, por el que se aprueba el plan rector de uso y gestión del Parque Nacional Marítimoterrestre del Archipiélago de Cabrera, para el período 2006-2012 (publicado en el BOIB núm. 97, de 11 de julio de 2006), determinando la pérdida de vigencia del Plan anterior.

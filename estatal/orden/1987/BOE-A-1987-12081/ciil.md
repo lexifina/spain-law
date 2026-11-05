@@ -1,3 +1,0 @@
-## CAPÍTULO IIl
-
-## Entidades gestoras

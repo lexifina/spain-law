@@ -1,3 +1,0 @@
-## CAPÍTULO ÚNICO
-
-## Elementos fundamentales

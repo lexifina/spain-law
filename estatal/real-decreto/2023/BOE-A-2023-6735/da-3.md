@@ -1,3 +1,0 @@
-## Disposición adicional tercera. Estudios sobre juego seguro.
-
-El operador podrá comunicar a la autoridad encargada de la regulación del juego la decisión de abordar estudios sobre juego seguro, por sí mismo o en conjunción con otros operadores o entidades, así como su resultado final, a los efectos de que sean difundidos públicamente a través de sus medios web.

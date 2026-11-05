@@ -1,1 +1,0 @@
-Al objeto de reglamentar el derecho á obtener certificaciones y devoluciones de documentos presentados por los particulares en los expedientes relativos á Títulos nobiliarios y Grandezas de España, he dispuesto lo siguiente:

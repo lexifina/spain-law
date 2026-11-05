@@ -1,1 +1,0 @@
-Esta ley pasa a denominarse "Ley 19/1976, de 29 de mayo, sobre creación de la Orden del Mérito de la Guardia Civil", según establece la disposición final 19.1 de la Ley 2/2012, de 29 de junio. Ref. BOE-A-2012-8745.

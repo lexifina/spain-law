@@ -1,3 +1,0 @@
-## Disposición final séptima. Entrada en vigor.
-
-Este real decreto entrará en vigor el 1 de octubre de 2024.

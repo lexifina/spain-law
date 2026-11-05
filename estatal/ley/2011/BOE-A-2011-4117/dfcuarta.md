@@ -1,5 +1,0 @@
-## Disposición final cuarta. Organismo regulador del sector transporte.
-
-(Derogada)
-
-> Se deroga por la letra h) de la disposición derogatoria de la Ley 3/2013, de 4 de junio. Ref. BOE-A-2013-5940.

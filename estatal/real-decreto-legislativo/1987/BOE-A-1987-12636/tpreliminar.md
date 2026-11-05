@@ -1,3 +1,0 @@
-## TÍTULO PRELIMINAR
-
-## Normas generales

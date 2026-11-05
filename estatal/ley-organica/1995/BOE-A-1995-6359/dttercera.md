@@ -1,3 +1,0 @@
-## Disposición transitoria tercera.
-
-Los acuerdos de la ciudad de Melilla en materia de tributos y presupuestos serán impugnables en la vía contencioso-administrativa.

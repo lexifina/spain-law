@@ -1,3 +1,0 @@
-## SECCIÓN II
-
-## Operaciones activas

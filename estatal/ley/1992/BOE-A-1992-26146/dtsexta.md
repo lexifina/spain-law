@@ -1,5 +1,0 @@
-## Disposición transitoria sexta. Procedimientos aplicables.
-
-(Derogada)
-
-> Se deroga por la disposición derogatoria única.1 de la Ley 48/2003, de 26 de noviembre. Ref. BOE-A-2003-21615

@@ -1,5 +1,0 @@
-## CAPÍTULO II
-
-## Planes de inversión
-
-> Se deroga por el art. único. 8 del Real Decreto 1022/2015, de 13 de noviembre. Ref. BOE-A-2015-12400.

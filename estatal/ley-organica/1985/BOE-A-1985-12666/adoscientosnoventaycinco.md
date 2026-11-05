@@ -1,3 +1,0 @@
-## Artículo 295.
-
-En ningún caso habrá lugar a la indemnización cuando el error judicial o el anormal funcionamiento de los servicios tuviera por causa la conducta dolosa o culposa del perjudicado.

@@ -1,3 +1,0 @@
-Madrid, 18 de enero de 2000.
-
-ARIAS-SALGADO MONTALVO

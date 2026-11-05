@@ -1,3 +1,0 @@
-## SEXTA PARTE
-
-## Otras disposiciones

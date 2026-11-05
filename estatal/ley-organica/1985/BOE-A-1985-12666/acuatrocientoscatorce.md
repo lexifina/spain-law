@@ -1,3 +1,0 @@
-## Artículo 414.
-
-Los Jueces y Magistrados están sujetos a responsabilidad disciplinaria en los casos y con las garantías establecidas en esta ley.

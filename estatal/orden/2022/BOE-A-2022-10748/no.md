@@ -1,1 +1,0 @@
-Norma derogada por la disposición derogatoria única.d) de la Orden APA/852/2023, de 13 de julio, Ref. BOE-A-2023-17046#dd, en la redacción dada por el art. único.3 de la Orden APA/1127/2023, de 16 de octubre. Ref. BOE-A-2023-21461.

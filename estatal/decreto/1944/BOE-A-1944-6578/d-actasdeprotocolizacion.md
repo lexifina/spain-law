@@ -1,1 +1,0 @@
-d) Actas de protocolización

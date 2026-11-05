@@ -1,3 +1,0 @@
-## TíTULO III
-
-## Verificación

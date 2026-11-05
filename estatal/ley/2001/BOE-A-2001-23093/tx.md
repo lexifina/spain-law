@@ -1,3 +1,0 @@
-## TÍTULO X
-
-## Nombres comerciales

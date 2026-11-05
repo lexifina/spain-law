@@ -1,3 +1,0 @@
-## LIBRO PRIMERO
-
-## Disposiciones penales

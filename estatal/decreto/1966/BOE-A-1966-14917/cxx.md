@@ -1,3 +1,0 @@
-## CAPÍTULO XX
-
-## Pagas extraordinarias

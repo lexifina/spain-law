@@ -1,3 +1,0 @@
-## LIBRO TERCERO
-
-## CIRCULACIÓN

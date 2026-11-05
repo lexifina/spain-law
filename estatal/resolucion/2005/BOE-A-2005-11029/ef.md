@@ -1,1 +1,0 @@
-## Expropiación forzosa

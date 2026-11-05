@@ -1,3 +1,0 @@
-## TITULO V
-
-## Régimen sancionador

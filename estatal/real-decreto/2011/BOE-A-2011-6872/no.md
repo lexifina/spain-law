@@ -1,1 +1,0 @@
-Esta norma pasa a denominarse «Real Decreto 464/2011, de 1 de abril, por el que se aprueba el Estatuto del organismo autónomo Instituto Nacional de Administración Pública», según establece el art. 8.1 del Real Decreto 466/2026, de 10 de junio. Ref. BOE-A-2026-12711#ao

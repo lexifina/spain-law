@@ -1,1 +1,0 @@
-Destitución, postergación y traslación

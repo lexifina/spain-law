@@ -1,1 +1,0 @@
-## Fines y naturaleza

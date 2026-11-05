@@ -1,1 +1,0 @@
-Norma derogada en todo lo referente al queso "Ibérico", con efectos de 11 de marzo de 2011, por la disposición derogatoria única del Real Decreto 262/2011, de 28 de febrero. Ref. BOE-A-2011-4396#ddunica

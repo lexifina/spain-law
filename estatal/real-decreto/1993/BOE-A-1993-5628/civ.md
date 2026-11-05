@@ -1,3 +1,0 @@
-## Capítulo IV
-
-## Disposiciones comunes

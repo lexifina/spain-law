@@ -1,1 +1,0 @@
-## Infracciones al acuerdo

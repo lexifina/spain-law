@@ -1,3 +1,0 @@
-## LIBRO SEGUNDO
-
-## Marina Mercante

@@ -1,1 +1,0 @@
-## Sección sexta. Procedimiento

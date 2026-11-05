@@ -1,1 +1,0 @@
-A) Obligaciones municipales. Planificación.

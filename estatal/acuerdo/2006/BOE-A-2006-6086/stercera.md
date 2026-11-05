@@ -1,3 +1,0 @@
-## Sección tercera
-
-## Retribuciones

@@ -1,1 +1,0 @@
-## Sección XIII. Votación

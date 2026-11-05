@@ -1,3 +1,0 @@
-## CAPÍTULO X
-
-## Órganos colegiados

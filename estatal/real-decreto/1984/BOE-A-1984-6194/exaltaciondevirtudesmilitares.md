@@ -1,1 +1,0 @@
-## Exaltación de virtudes militares

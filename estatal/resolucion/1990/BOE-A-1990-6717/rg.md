@@ -1,1 +1,0 @@
-## Régimen general de autorización

@@ -1,3 +1,0 @@
-## Artículo 195.
-
-Cuando los hechos de que tratan los artículos anteriores llegaren a constituir delito, sus autores serán detenidos en el acto y puestos a disposición del Juez competente.

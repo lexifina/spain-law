@@ -1,3 +1,0 @@
-## PARTE II
-
-## Mecanismos híbridos

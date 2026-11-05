@@ -1,1 +1,0 @@
-> Téngase en cuenta que, según establece la disposición transitoria 4.b) del Real Decreto 269/2022, de 12 de abril, por el que se regulan los titulos profesionales y de competencia de la Marina Mercante, hasta su regulación por el el Ministerio de Transportes, Movilidad y Agenda Urbana, seguirá en vigor la presente disposición. Ref. BOE-A-2022-6047#dt-4

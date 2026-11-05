@@ -1,3 +1,0 @@
-## TÍTULO V
-
-## Base imponible

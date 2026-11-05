@@ -1,5 +1,0 @@
-## CAPÍTULO II
-
-## Indemnización por otros daños
-
-> Se deroga por la disposición derogatoria única.1 del Real Decreto 429/1993, de 26 de marzo. Ref. BOE-A-1993-11253.

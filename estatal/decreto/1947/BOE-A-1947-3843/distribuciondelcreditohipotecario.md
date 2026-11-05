@@ -1,1 +1,0 @@
-## Distribución del crédito hipotecario

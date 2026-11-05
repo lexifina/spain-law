@@ -1,3 +1,0 @@
-## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA ITC EP–7
-
-## Terminales de GNL

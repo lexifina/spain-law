@@ -1,3 +1,0 @@
-## Artículo 204.
-
-En la designación de ponente turnarán todos los Magistrados de Sala o Sección, incluidos los Presidentes.

@@ -1,3 +1,0 @@
-## TÍTULO VIII
-
-## Cuota diferencial

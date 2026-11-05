@@ -1,3 +1,0 @@
-## Capítulo I
-
-## Seguridad industrial

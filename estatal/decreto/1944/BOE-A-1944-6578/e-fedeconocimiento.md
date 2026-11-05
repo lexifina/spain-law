@@ -1,1 +1,0 @@
-e) Fe de conocimiento

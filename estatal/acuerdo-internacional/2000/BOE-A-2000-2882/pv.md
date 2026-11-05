@@ -1,3 +1,0 @@
-## PARTE V
-
-## Disposiciones Institucionales

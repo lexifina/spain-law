@@ -1,3 +1,0 @@
-## TITULO PRIMERO
-
-## Disposiciones generales

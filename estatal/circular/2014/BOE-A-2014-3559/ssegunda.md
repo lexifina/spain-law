@@ -1,1 +1,0 @@
-## Sección segunda. Estructura organizativa

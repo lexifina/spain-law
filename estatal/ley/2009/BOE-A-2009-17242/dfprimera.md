@@ -1,3 +1,0 @@
-## Disposición Final Primera. Título competencial.
-
-Esta Ley se dicta al amparo de lo dispuesto en el artículo 149.1.2ª de la Constitución, que atribuye al Estado la competencia exclusiva sobre el derecho de asilo.

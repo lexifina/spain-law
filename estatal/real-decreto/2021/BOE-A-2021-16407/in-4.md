@@ -1,3 +1,0 @@
-## INSTRUCCIÓN TÉCNICA COMPLEMENTARIA ITC EP-4
-
-## Depósitos criogénicos

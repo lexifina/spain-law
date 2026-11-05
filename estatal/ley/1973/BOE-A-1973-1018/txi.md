@@ -1,3 +1,0 @@
-## TÍTULO XI
-
-## Cotos mineros

@@ -1,3 +1,0 @@
-## CAPITULO III
-
-## Base imponible

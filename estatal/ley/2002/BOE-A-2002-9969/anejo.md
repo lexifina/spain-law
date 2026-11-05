@@ -1,3 +1,0 @@
-## ANEJO
-
-## Concierto Económico

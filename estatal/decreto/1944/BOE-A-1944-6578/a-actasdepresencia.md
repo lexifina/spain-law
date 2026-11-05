@@ -1,1 +1,0 @@
-a) Actas de presencia

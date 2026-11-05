@@ -1,3 +1,0 @@
-## Artículo 8.
-
-La presente Acta será ratificada por los Estados signatarios en el más breve plazo posible.

@@ -1,1 +1,0 @@
-## Sección VI. Escrutinio general

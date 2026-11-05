@@ -1,1 +1,0 @@
-a) Concurso de antigüedad

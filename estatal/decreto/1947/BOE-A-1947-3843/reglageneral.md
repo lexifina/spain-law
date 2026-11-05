@@ -1,1 +1,0 @@
-## Regla general

@@ -1,3 +1,0 @@
-## Artículo 388.
-
-Los procedimientos de separación, traslado, jubilación por incapacidad permanente y rehabilitación se formarán con audiencia del interesado e informe del Ministerio Fiscal y de la Sala de Gobierno respectiva, sin perjuicio de las demás justificaciones que procedan, y se resolverán por el Consejo General del Poder Judicial.

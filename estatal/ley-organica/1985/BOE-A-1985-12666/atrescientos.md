@@ -1,3 +1,0 @@
-## Artículo 300.
-
-El Consejo General del Poder Judicial aprobará cada tres años, como máximo, y por períodos menores cuando fuere necesario, el escalafón de la Carrera Judicial, que será publicado en el «Boletín Oficial del Estado», y comprenderá los datos personales y profesionales que se establezcan reglamentariamente.

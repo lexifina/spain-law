@@ -1,3 +1,0 @@
-Madrid, 20 de noviembre de 2001.
-
-TRILLO-FIGUEROA Y MARTÍNEZ-CONDE

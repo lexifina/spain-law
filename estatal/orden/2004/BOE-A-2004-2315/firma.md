@@ -1,3 +1,0 @@
-Madrid, 29 de enero de 2004.
-
-GARCÍA-VALDECASAS SALGADO

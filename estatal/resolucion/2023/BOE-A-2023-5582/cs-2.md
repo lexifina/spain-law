@@ -1,3 +1,0 @@
-## CAPÍTULO SEXTO
-
-## Mercado diario

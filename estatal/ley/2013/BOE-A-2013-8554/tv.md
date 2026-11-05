@@ -1,3 +1,0 @@
-## TÍTULO V
-
-## Potestad sancionadora

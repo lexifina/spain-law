@@ -1,1 +1,0 @@
-## Devengo y prescripción

@@ -1,1 +1,0 @@
-## Subsección primera. Elemento personal

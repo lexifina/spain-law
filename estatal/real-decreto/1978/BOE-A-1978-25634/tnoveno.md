@@ -1,3 +1,0 @@
-## TÍTULO NOVENO
-
-## Métodos analíticos

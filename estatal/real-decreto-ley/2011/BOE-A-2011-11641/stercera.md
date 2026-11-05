@@ -1,1 +1,0 @@
-## Sección Tercera. Modificación de diversas leyes para su adaptación a la Disposición adicional octava de la Ley 2/2011, de 4 de marzo, de Economía Sostenible, en materia de licencias locales de actividad

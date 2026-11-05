@@ -1,3 +1,0 @@
-## CAPÍTULO IV
-
-## Grupos mutuales

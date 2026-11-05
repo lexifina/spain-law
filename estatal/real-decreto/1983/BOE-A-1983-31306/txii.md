@@ -1,3 +1,0 @@
-## TÍTULO XII
-
-## Conceptos generales

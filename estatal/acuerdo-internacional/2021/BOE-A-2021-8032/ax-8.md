@@ -1,3 +1,0 @@
-## Artículo XI. Entrada en vigor.
-
-El presente Memorando de Entendimiento entrará en vigor en el momento de su firma por las Partes y seguirá surtiendo efecto hasta su extinción o terminación.

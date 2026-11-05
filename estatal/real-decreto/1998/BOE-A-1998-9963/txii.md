@@ -1,3 +1,0 @@
-## TÍTULO XII
-
-## Régimen sancionador

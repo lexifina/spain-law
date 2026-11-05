@@ -1,3 +1,0 @@
-## Artículo 382.
-
-El Juez o Magistrado que hubiere sido rehabilitado será destinado con arreglo a lo dispuesto en esta ley.

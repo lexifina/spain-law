@@ -1,1 +1,0 @@
-Téngase en cuenta que quedan derogadas cuantas disposiciones de la presente Ley se opongan a lo establecido en la Ley Orgánica 3/2022, de 31 de marzo, según establece su disposición derogatoria única.2. Ref. BOE-A-2022-5139#dd

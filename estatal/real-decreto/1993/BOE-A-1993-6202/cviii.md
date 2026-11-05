@@ -1,3 +1,0 @@
-## Capítulo VIII
-
-## Régimen sancionador

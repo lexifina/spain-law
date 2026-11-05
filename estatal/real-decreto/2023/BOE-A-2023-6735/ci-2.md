@@ -1,3 +1,0 @@
-## CAPÍTULO II
-
-## Políticas activas de información y protección de las personas consumidoras

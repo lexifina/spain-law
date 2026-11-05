@@ -1,3 +1,0 @@
-## Artículo 173.
-
-Se encomendará la inspección a Juez o Magistrado de igual o superior categoría a la del titular del órgano inspeccionado.

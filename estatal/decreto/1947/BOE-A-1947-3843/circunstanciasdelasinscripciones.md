@@ -1,1 +1,0 @@
-## Circunstancias de las inscripciones

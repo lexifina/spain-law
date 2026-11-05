@@ -1,5 +1,0 @@
-## Art. 67.
-
-Las comunicaciones a que hacen referencia los artículos 65 y 66 podrán integrarse, respectivamente, en el mismo envío.
-
-> Se modifica por el artículo único.1 del Real Decreto 2612/1996, de 20 de diciembre. Ref. BOE-A-1997-810

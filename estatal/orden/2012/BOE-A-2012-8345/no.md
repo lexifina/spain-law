@@ -1,1 +1,0 @@
-Norma derogada, con efectos de 23 de mayo de 2018, por la disposición derogatoria única de la Orden HFP/506/2018, de 21 de mayo. Ref. BOE-A-2018-6768, a excepción de los arts. 7 y 8, que se derogan, con efectos de 24 de enero de 2019, por la disposición derogatoria única.2.a) de la Orden TFP/31/2019, de 21 de enero. Ref. BOE-A-2019-746

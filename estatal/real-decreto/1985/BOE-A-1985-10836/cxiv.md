@@ -1,3 +1,0 @@
-## CAPITULO XIV
-
-## Competencia administrativa

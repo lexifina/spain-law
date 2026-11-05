@@ -1,3 +1,0 @@
-## CAPÍTULO XXXVI
-
-## Agalaxia contagiosa

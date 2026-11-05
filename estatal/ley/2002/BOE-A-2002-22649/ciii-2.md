@@ -1,3 +1,0 @@
-## CAPÍTULO III
-
-## Productos fitosanitarios

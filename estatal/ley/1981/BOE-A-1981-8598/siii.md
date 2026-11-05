@@ -1,3 +1,0 @@
-## SECCIÓN III
-
-## Operaciones pasivas

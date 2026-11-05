@@ -1,3 +1,0 @@
-## CAPÍTULO IV
-
-## Obligaciones contables

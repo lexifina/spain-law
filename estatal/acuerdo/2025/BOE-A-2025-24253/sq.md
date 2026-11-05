@@ -1,3 +1,0 @@
-## Sección quinta
-
-## Carrera horizontal

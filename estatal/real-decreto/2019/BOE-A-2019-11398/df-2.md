@@ -1,3 +1,0 @@
-## Disposición final segunda. Facultad de desarrollo normativo.
-
-Se autoriza al Ministro del Interior para dictar cuantas disposiciones sean necesarias para el desarrollo de este real decreto.

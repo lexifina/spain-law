@@ -1,3 +1,0 @@
-## Artículo 3.
-
-Se establecen como órganos de la OIJ la Conferencia Iberoamericana de Ministros Responsables de Juventud y el Consejo Directivo. La Conferencia podrá establecer los órganos que estime necesarios.

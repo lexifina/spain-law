@@ -1,3 +1,0 @@
-## ANEXO XI
-
-## SEÑALES EN LOS VEHÍCULOS

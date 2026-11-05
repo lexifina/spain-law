@@ -1,3 +1,0 @@
-## Capítulo Primero
-
-## Disposiciones generales

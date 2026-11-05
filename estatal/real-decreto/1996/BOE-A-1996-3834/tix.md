@@ -1,3 +1,0 @@
-## TÍTULO IX
-
-## Otras disposiciones

@@ -1,3 +1,0 @@
-## CAPÍTULO XIV
-
-## Régimen disciplinario

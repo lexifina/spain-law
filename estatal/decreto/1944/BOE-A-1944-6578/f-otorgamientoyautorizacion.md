@@ -1,1 +1,0 @@
-f) Otorgamiento y autorización

@@ -1,5 +1,0 @@
-## Disposición adicional cuarta.
-
-(Derogada)
-
-> Se deroga por la disposición derogatoria 1.d) del Real Decreto 2112/1998, de 2 de octubre. Ref. BOE-A-1998-23139#ddprimera.

@@ -1,1 +1,0 @@
-Norma derogada, con efectos de 12 de julio de 2015, por la disposición derogatoria única del Real Decreto 634/2015, de 10 de julio, excepto lo establecido en la disposición final 3 del mismo, con efectos para los periodos impositivos iniciados a partir de 1 de enero de 2016. Ref. BOE-A-2015-7771#ddunica.

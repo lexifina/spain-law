@@ -1,1 +1,0 @@
-Madrid, 4 de febrero de 2015.–La Presidenta del Organismo Autónomo Parques Nacionales, P. D. (Orden AAA/888/2012, de 24 de abril), el Director del Organismo Autónomo Parques Nacionales, Basilio Rada Martínez.

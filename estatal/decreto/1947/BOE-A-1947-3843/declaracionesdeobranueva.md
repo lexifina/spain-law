@@ -1,1 +1,0 @@
-## Declaraciones de obra nueva

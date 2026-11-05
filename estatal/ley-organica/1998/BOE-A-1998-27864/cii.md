@@ -1,3 +1,0 @@
-## CAPÍTULO II
-
-## Sanciones disciplinarias

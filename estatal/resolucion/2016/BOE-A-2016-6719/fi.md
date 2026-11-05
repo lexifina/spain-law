@@ -1,1 +1,0 @@
-Madrid, 7 de julio de 2016.–El Interventor General de la Administración del Estado, José Carlos Alcalde Hernández.–La Secretaria General del Tesoro y Política Financiera, Rosa María Sánchez-Yebra Alonso.

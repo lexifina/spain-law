@@ -1,3 +1,0 @@
-## TÍTULO II
-
-## Instrucciones ferroviarias

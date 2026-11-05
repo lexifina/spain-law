@@ -1,1 +1,0 @@
-## Gastos de la rectificación

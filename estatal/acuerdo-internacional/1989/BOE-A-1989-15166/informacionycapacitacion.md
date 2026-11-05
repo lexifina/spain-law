@@ -1,1 +1,0 @@
-## Información y capacitación

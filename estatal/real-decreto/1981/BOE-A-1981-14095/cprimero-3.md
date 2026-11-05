@@ -1,3 +1,0 @@
-## CAPÍTULO PRIMERO
-
-## Órganos colegiados

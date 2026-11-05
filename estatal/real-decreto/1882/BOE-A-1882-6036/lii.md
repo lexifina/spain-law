@@ -1,3 +1,0 @@
-## LIBRO II
-
-## Del sumario

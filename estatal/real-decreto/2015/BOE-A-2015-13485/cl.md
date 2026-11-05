@@ -1,3 +1,0 @@
-## CAPÍTULO l
-
-## Disposiciones comunes

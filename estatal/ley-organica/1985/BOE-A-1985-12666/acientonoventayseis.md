@@ -1,3 +1,0 @@
-## Artículo 196.
-
-En los casos en que la ley no disponga otra cosa bastarán tres Magistrados para formar la Sala.

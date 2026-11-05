@@ -1,3 +1,0 @@
-## CAPITULO XIII
-
-## Nuevas tecnologías

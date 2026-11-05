@@ -1,1 +1,0 @@
-Minas de cuarta categoría

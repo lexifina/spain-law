@@ -1,3 +1,0 @@
-## ANEXO A
-
-## Legislación veterinaria

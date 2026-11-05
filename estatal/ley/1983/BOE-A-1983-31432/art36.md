@@ -1,7 +1,0 @@
-## Art. 36. El Presidente: Nombramiento.
-
-1. La Junta de Gobernadores elegirá al Presidente del Banco por mayoría del poder de voto total de sus miembros, incluida una mayoría del poder de voto total de los miembros africanos. El Presidente será una persona del más alto nivel de competencia en las materias relacionadas con la actividad, dirección y administración del Banco, y deberá tener la nacionalidad de un Estado miembro africano. Durante su mandato, el Presidente no podrá ejercer las funciones de Gobernador, Administrador o suplente de éstos. El mandato del Presidente será de cinco años. Podrá ser reelegido, teniendo en cuenta sin embargo que nadie podrá ser elegido o asumir las funciones de Presidente durante más de dos mandatos consecutivos de cinco años cada uno. La Junta de Gobernadores podrá suspender o revocar al Presidente mediante una decisión tomada por la mayoría del poder de voto total de sus miembros, incluida la mayoría del poder de voto de los miembros africanos. Después de una suspensión o revocación del Presidente, la Junta de Gobernadores nombrará un Presidente interino o, en su caso, elegirá Presidente.
-
-2. El Presidente de la Junta de Gobernadores, después de consultar a la Mesa, convocará una reunión de la Junta de Gobernadores para debatir la suspensión del Presidente previa solicitud por escrito de, al menos, cinco Gobernadores que representen al menos a cinco circunscripciones.
-
-> Se modifica por las Enmiendas al Acuerdo constitutivo adoptadas por Resolución B/BG/97/05. Ref. BOE-A-2003-2715.

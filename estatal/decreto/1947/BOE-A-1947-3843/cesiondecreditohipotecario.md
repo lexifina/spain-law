@@ -1,1 +1,0 @@
-## Cesión de crédito hipotecario

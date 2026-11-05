@@ -1,3 +1,0 @@
-## Artículo 273.
-
-Los Jueces y Tribunales cooperarán y se auxiliarán entre sí en el ejercicio de la función jurisdiccional.

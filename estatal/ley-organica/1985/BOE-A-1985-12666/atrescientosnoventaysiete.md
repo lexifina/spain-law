@@ -1,3 +1,0 @@
-## Artículo 397.
-
-La competencia para la autorización, reconocimiento o denegación de compatibilidades, con arreglo a lo dispuesto en este capítulo, corresponde al Consejo General del Poder Judicial, previo informe del Presidente del Tribunal o Audiencia respectiva.

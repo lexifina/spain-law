@@ -1,1 +1,0 @@
-Norma derogada, con la excepción de los artículos 6 y 7 que mantendrán su vigencia en tanto no se adopte la correspondiente normativa de desarrollo, por la disposición derogatoria única.2.c) de la Ley 10/2007, de 22 de junio. Ref. BOE-A-2007-12351#ddunica.

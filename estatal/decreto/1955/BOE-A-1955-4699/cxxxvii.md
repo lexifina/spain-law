@@ -1,3 +1,0 @@
-## CAPÍTULO XXXVII
-
-## Fiebre aftosa

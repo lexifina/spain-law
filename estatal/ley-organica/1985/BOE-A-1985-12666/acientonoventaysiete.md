@@ -1,3 +1,0 @@
-## Artículo 197.
-
-Ello no obstante, podrán ser llamados, para formar Sala, todos los Magistrados que la componen, aunque la ley no lo exija, cuando el Presidente, o la mayoría de aquéllos, lo estime necesario para la administración de Justicia.

@@ -1,1 +1,0 @@
-## Por bienes reservables

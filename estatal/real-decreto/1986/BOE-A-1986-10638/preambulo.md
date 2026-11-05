@@ -1,1 +1,0 @@
-Téngase en cuenta que el Reglamento aprobado por el presente Real Decreto pasa a denominarse "Reglamento del Dominio Público Hidráulico", según establece el art. 1.1 del Real Decreto 665/2023, de 18 de julio de 2023. Ref. BOE-A-2023-18806#ap

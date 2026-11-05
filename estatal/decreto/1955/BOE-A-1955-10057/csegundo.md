@@ -1,3 +1,0 @@
-## CAPÍTULO SEGUNDO
-
-## Disposiciones especiales

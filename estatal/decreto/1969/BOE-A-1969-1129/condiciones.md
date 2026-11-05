@@ -1,1 +1,0 @@
-## Condiciones técnicas y físicas

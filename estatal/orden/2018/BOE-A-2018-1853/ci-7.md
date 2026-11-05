@@ -1,3 +1,0 @@
-## CAPÍTULO III
-
-## Censo electoral

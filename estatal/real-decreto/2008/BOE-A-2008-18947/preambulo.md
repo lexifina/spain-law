@@ -1,1 +1,0 @@
-Norma derogada por la disposición derogatoria única del Real Decreto 412/2014, de 6 de junio. Ref. BOE-A-2014-6008., sin perjuicio de lo establecido en la disposición adicional 4 por la que se fija el calendario de implantación.

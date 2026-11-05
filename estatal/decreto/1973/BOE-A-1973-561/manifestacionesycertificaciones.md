@@ -1,1 +1,0 @@
-## Manifestaciones y certificaciones

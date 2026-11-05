@@ -1,1 +1,0 @@
-Esta norma pasa a denominarse "Real Decreto 1566/1999, de 8 de octubre, sobre los consejeros de seguridad para el transporte de mercancías peligrosas por ferrocarril o por vía navegable.", según establece la disposición final 3.a) del Real Decreto 97/2014, de 14 de febrero. Ref. BOE-A-2014-2110#ddunica.

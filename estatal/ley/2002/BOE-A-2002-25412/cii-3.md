@@ -1,3 +1,0 @@
-## CAPÍTULO II
-
-## Otro personal

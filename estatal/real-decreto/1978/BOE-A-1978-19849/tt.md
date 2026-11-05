@@ -1,3 +1,0 @@
-## TÍTULO TERCERO
-
-## Organización

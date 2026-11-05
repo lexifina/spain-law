@@ -1,3 +1,0 @@
-## PARTE SEGUNDA
-
-## Disposiciones especiales

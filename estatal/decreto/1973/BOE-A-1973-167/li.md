@@ -1,3 +1,0 @@
-## LIBRO I
-
-## Normas orgánicas

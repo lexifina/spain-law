@@ -1,1 +1,0 @@
-Téngase en cuenta que la presente Resolución ha perdido su eficacia por la publicación de las Resoluciones posteriores que actualizan el Manual de Imagen Institucional adaptándolo a las nuevas estructuras de vicepresidencias del Gobierno y departamentos ministeriales de la Administración General del Estado.

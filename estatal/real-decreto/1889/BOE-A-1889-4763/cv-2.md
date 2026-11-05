@@ -1,5 +1,0 @@
-## CAPÍTULO V
-
-## De los derechos y deberes de los cónyuges
-
-> Se añade por el art. 1 de la Ley 30/1981, de 7 de julio. Ref. BOE-A-1981-16216.

@@ -1,3 +1,0 @@
-## SEGUNDA PARTE
-
-## Disposiciones financieras

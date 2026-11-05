@@ -1,3 +1,0 @@
-## CAPITULO PRIMERO
-
-## Régimen orgánico

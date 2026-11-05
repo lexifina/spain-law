@@ -1,3 +1,0 @@
-## Título VI
-
-## Tipos impositivos

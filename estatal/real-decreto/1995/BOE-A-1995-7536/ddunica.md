@@ -1,3 +1,0 @@
-## Disposición derogatoria única. Derogación normativa.
-
-Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en el presente Real Decreto, en todo aquello que lo contradigan.

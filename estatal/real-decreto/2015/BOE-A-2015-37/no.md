@@ -1,3 +1,0 @@
-Norma derogada, con efectos de 7 de abril de 2022, por la disposición derogatoria única.1 del Real Decreto 243/2022, de 5 de abril. Ref. BOE-A-2022-5521#dd.
-
-Téngase en cuenta la disposición transitoria 1 del Real Decreto 243/2022, de 5 de abril, para la aplicación del presente Real Decreto durante el curso académico 2022-2023 para el 2º curso de Bachillerato y las pruebas para la obtención del título de Bachiller, Ref. BOE-A-2022-5521#dt, así como la disposición transitoria 1 del Real Decreto 217/2022, de 29 de marzo, para su aplicación durante el curso escolar 2022-2023 en los cursos 2º y 4º de la ESO y las pruebas para la obtención el título de Graduado en ESO. Ref. BOE-A-2022-4975#dt

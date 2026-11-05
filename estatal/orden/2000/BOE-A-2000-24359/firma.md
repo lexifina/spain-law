@@ -1,3 +1,0 @@
-Madrid, 20 de diciembre de 2000.
-
-TRILLO-FIGUEROA Y MARTÍNEZ-CONDE

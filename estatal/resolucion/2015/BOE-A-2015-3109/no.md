@@ -1,1 +1,0 @@
-Norma derogada por la disposición derogatoria de la Resolución de 17 de febrero de 2020, de la Presidencia del Instituto Nacional de Estadística y de la Dirección General de Cooperación Autonómica y Local, publicada por Resolución de 29 de abril de 2020, de la Subsecretaría, en el «BOE» de 2 de mayo de 2020. Ref. BOE-A-2020-4784#A15
