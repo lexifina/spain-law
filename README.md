@@ -47,7 +47,7 @@ In PowerShell, quote arguments containing `%`, `(` or `,` with single quotes.
 - A version can come into force before an earlier-listed one (deferred entry into force): the text on a day is the
   version with the latest in-force date on or before it, as the BOE's own point-in-time view.
 
-## How it is checked
+## Original build validation (2026-10-28)
 
 - `build/check_repo.py`: every block version (including those that changed nothing and so have no commit of their
   own) equals, byte for byte, the file at the last commit in force on its date; and the words of every version's XML
@@ -97,6 +97,16 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.b
 
 ## Repeals and unresolved validity
 
-`data/acts.json` records source identifiers, dates, status, and the BOE exhausted-validity flag. 1,159 unambiguous whole-act repeals are recorded as dated correction commits; their BOE notices remain, and their earlier normative text remains in the original history. 832 exhausted-validity records require a separate analysis of cessation dates, conditional effects, retained provisions or source corrections. They are labelled “as captured”, not asserted to be in force. Missing text is explicitly marked in the index.
+`data/acts.json` records BOE identifiers, lifecycle dates, causes and exhausted-validity flags. It records 1,559 dated repeals and 16 annulments. The original 1,159 repeal corrections remain unchanged. This append adds 415 dated lifecycle corrections: 0 remove unambiguously repealed files while retaining the unchanged BOE notice; 415 mark the act README and retain its wording and notices. Earlier wording remains available in the original history.
 
-The reader applies corrections per act within the verified record, which ends 2026-10-28. Queries beyond that date are rejected. Author dates and In-force give the source effective date; appended committer timestamps preserve commit order. Earlier commits and tags are unchanged.
+418 exhausted-validity records still have no resolved cessation date or cause. They remain labelled "as captured" without an in-force assertion. Missing text is explicitly marked in the index. Existing BOE repeal and annulment dates are preserved, and all existing causes (including unknown causes) are retained except BOE-A-2013-699: its cause is corrected to BOE-A-2023-12914 from the latest source notice at the recorded repeal date.
+
+7 retained publisher notices differ from the latest publication state in the source evidence used for this record. They are preserved as historical notices, explicitly labelled in the act README and index, and linked to BOE for the current notice. Their wording has not been changed.
+
+The text record ends on 2026-10-28. The reader reports a known BOE repeal or annulment on or after its date, including when a later query lies beyond the text cutoff; it provides no text for other dates beyond that cutoff. For retained wording with unresolved savings or transitional application, it reports that applicability requires separate analysis. The publisher-notice path in the index permits inspection within the text record; the unchanged source files remain directly inspectable in Git. A lifecycle status alone does not decide whether a saved provision applies to a particular case.
+
+Source effective dates are recorded in In-force and author dates, with the existing pre-1970 convention. Appended committer timestamps preserve commit order. Earlier commits and tags are unchanged.
+
+Retained BOE publisher notices remain readable through their published README links, including older notice-only acts without a lifecycle_notice field. Notice-only act directories and their documentation remain inspectable; the lifecycle guard applies to normative text.
+
+The `on` command preserves the published reader's historical-record answers, including source versions retained after cessation; access does not establish revival or saved applicability. Use `current YYYY-MM-DD <act-or-block-path>` to apply recorded lifecycle boundaries and `status YYYY-MM-DD <act-or-block-path>` (or data/acts.json) for dated BOE repeal/annulment metadata. Source-dated later provisions are reported separately.

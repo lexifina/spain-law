@@ -32,6 +32,8 @@
   "correction_trailer": "Corrects",
   "append_base": "ee54e80899c6312724f34f48caab1a90d3a7985d",
   "acts_index": "data/acts.json",
-  "repeal_corrections": 1159,
-  "unresolved_exhausted_validity": 832
+  "repeal_corrections": 1558,
+  "unresolved_exhausted_validity": 418,
+  "annulment_corrections": 16,
+  "lifecycle_checked_on": "2026-11-05"
 }
