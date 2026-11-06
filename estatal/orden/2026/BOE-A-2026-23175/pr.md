@@ -1,0 +1,27 @@
+Tras la entrada en vigor de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se busca sistematizar toda la regulación relativa al procedimiento administrativo y profundizar en la agilización de los procedimientos con un pleno funcionamiento electrónico.
+
+En dicha norma se incide en que, en el entorno actual la tramitación electrónica no puede ser todavía una forma especial de gestión de los procedimientos, sino que debe constituir la actuación habitual de las Administraciones. De esta manera, no sólo sirve mejor a los principios de eficacia y eficiencia, al ahorrar costes a ciudadanos y empresas, sino que contribuye a reforzar las garantías de los interesados. En efecto, la constancia de documentos y actuaciones en archivos electrónicos facilita el cumplimiento de la obligación de transparencia, pues permite ofrecer información puntual, ágil y actualizada a los interesados.
+
+Asimismo, el desarrollo de las tecnologías de la información y comunicación también ha venido afectando profundamente a la forma y al contenido de las relaciones de la Administración con los ciudadanos y las empresas, relaciones en las cuales cobra una creciente importancia el uso de los medios y sistemas electrónicos.
+
+De este modo, y de acuerdo con el artículo 14.1 de la Ley 39/2015, de 1 de octubre, las personas físicas pueden elegir en todo momento si se comunican en el ejercicio de sus derechos y obligaciones con las Administraciones públicas por medios electrónicos o no, salvo que estén obligadas a relacionarse por estos medios.
+
+Por otro lado, el artículo 14.3 de la citada ley, habilita para que reglamentariamente las Administraciones establezcan la obligación de relacionarse con ellas a través de medios electrónicos para determinados procedimientos y para ciertos colectivos de personas físicas cuando por razón de su capacidad económica, técnica, dedicación profesional u otros motivos quede acreditado que tienen acceso y disponibilidad de los medios electrónicos necesarios.
+
+El reglamento de actuación y funcionamiento del sector público por medios electrónicos, aprobado por el Real Decreto 203/2021, de 30 de marzo, establece en su artículo 3, el derecho y obligación de relacionarse electrónicamente con las Administraciones públicas en los términos previstos por la Ley 39/2015, de 1 de octubre.
+
+El Ministerio de Cultura, a través de la Dirección General de Artes Escénicas y Música, convoca cada año diversas líneas de ayudas y subvenciones a proyectos de artes escénicas y musicales para garantizar su adecuada protección y promoción, fomentando, a su vez, su visibilidad y accesibilidad. Actualmente, dichos procedimientos corresponden a las ayudas a la música y la lírica, a la danza y la creación interdisciplinar, las ayudas para la exhibición, investigación, formación e infraestructuras teatrales y circenses y a giras nacionales e internacionales de teatro y circo, así como a las subvenciones nominativas de la Dirección General de Artes Escénicas y Música.
+
+Pueden ser beneficiarios de estas ayudas, las personas físicas o jurídicas, públicas o privadas, con establecimiento permanente en cualquier Estado de la Unión Europea y demás Estados asociados al Espacio Económico Europeo. De entre las personas físicas, se reconocen como posibles beneficiarias a las personas físicas inscritas en el Régimen Especial de Trabajadores Autónomos (RETA).
+
+En este sentido y teniendo en cuenta la naturaleza y el objeto de las ayudas y subvenciones de la Dirección General de Artes Escénicas y Música, puede afirmarse que las personas físicas potencialmente beneficiarias disponen de los medios electrónicos adecuados para comunicarse con la Administración por medios electrónicos a efectos de este procedimiento, demandando el procedimiento la total adaptación de las comunicaciones de todas las actuaciones y trámites del procedimiento de concesión de las ayudas a los medios electrónicos.
+
+En la elaboración de la orden se han cumplido los principios de buena regulación recogidos en el artículo 129 de la Ley 39/2015, de 1 de octubre, y, en particular, el principio de necesidad, pues la reciente creación de la Dirección General de Artes Escénicas y Música ha puesto de manifiesto la inexistencia de una orden específica que regule de manera clara las formas de comunicación con la Administración dentro de sus procedimientos, tratándose así de recuperar el procedimiento dado en el Instituto Nacional de Artes Escénicas y Música.
+
+Asimismo, de acuerdo con el principio de eficiencia, se trata del instrumento óptimo para reforzar el uso de los medios electrónicos y garantizar las relaciones entre las Administraciones públicas y la ciudadanía, tal y como se observa de su reiterado uso en los procedimientos relativos a la solicitud subvenciones públicas, en especial dentro del ámbito del Ministerio de Cultura.
+
+Por otra parte, la orden se adecúa al principio de proporcionalidad, pues no existe otra alternativa menos restrictiva de derechos o de obligaciones que asegure la eficacia y eficiencia del procedimiento administrativo en la tramitación de una concurrencia competitiva o de subvenciones nominativas.
+
+Respecto a los principios de seguridad jurídica y transparencia, la norma es coherente con el resto del ordenamiento jurídico y se ha procurado la participación de las partes interesadas a través del trámite de audiencia y consulta pública.
+
+En su virtud, con la aprobación previa del Ministro para la Transformación Digital y de la Función Pública, dispongo:
