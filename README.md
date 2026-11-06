@@ -1,5 +1,7 @@
 # Spanish state law as git history
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Spain's national law, which global-law reads at `spain/national/acts/`.
+
 Every consolidated state-level (ámbito Estatal) norm in the BOE's consolidated legislation (legislación consolidada),
 as a git history: **one commit per amending norm per in-force date**, authored by that norm, so `git blame` names the
 norm that wrote each paragraph and `git log` lists a provision's amendments in the order they took effect.
