@@ -1,0 +1,7 @@
+## Disposición adicional undécima. Movilidad por motivos de protección de la salud del personal residente.
+
+Cuando el servicio de prevención de riesgos laborales o de salud laboral, teniendo en cuenta la evaluación de riesgos laborales del puesto y las conclusiones de la vigilancia de la salud, determine que las condiciones de trabajo en una unidad docente, centro o dispositivo acreditado comportan un riesgo para la salud física o mental de la persona residente y que no es posible garantizar su protección eficaz mediante la adopción de medidas preventivas y de adaptación, por no resultar estas técnicamente posibles o por no permitir controlar adecuadamente dicho riesgo, podrá acordarse su traslado temporal o definitivo a otra unidad docente acreditada de la misma especialidad en la que puedan garantizarse condiciones de trabajo compatibles con su estado de salud, siendo informados los delegados de prevención y, en su caso, el comité de seguridad y salud.
+
+La movilidad se realizará con garantía de la continuidad de la relación laboral especial de residencia, del mantenimiento de las condiciones retributivas y del reconocimiento de los períodos formativos superados, sin que pueda ocasionar perjuicio económico o profesional ni determinar, por sí misma, la prolongación del periodo formativo.
+
+> Se añade por el art. único.10 del Real Decreto 951/2026, de 4 de noviembre. Ref. BOE-A-2026-23266

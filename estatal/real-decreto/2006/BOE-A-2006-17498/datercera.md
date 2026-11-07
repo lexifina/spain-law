@@ -9,3 +9,7 @@ b) Por razones de guarda legal, el residente que tenga a su cuidado directo alg�
 c) Cuando le sea necesario encargarse del cuidado directo de un familiar, hasta el segundo grado de consaguinidad o afinidad que, por razones de edad, accidente, enfermedad o discapacidad, no pueda valerse por sí mismo, y que no desempeñe actividad retribuida.
 
 d) Cuando el residente tenga la guardia y custodia no compartida de un hijo menor de edad.
+
+e) Por motivos de salud, cuando se trate de una medida preventiva para la adaptación del puesto de trabajo, debidamente acreditada mediante informe de los servicios de prevención.
+
+> Se añade la letra e) por el art. único.7 del Real Decreto 951/2026, de 4 de noviembre. Ref. BOE-A-2026-23266
