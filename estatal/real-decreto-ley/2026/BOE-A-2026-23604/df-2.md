@@ -1,0 +1,5 @@
+## Disposición final segunda. Modificación de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007.
+
+Se modifica el primer párrafo de la disposición adicional quincuagésima tercera de la Ley 42/2006, de 28 de diciembre, de Presupuestos Generales del Estado para el año 2007, que queda redactada como sigue:
+
+> «Se crea un Fondo, que se dotará inicialmente con 10 millones de euros, destinado a garantizar, mediante un sistema de anticipos a cuenta, el pago de pensiones de alimentos reconocido a favor de los hijos e hijas menores de edad o mayores con un grado de discapacidad de, al menos, el sesenta y cinco por ciento o en situación de dependencia reconocida según lo dispuesto en la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, en convenios judicialmente aprobados o resolución judicial, en los supuestos de separación legal, divorcio, declaración de nulidad del matrimonio, disolución de pareja de hecho, procesos de filiación o de alimentos.»
