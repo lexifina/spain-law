@@ -1,0 +1,3 @@
+## Disposición derogatoria única. Derogación normativa.
+
+Quedan derogados el Real Decreto 789/2015, de 4 de septiembre, por el que se regula la estructura y funcionamiento del Centro para la Innovación y el Desarrollo de la Educación a Distancia; la Orden de 24 de febrero de 1993, por la que se establece la estructura orgánica y funcional del Centro para la Innovación y Desarrollo de la Educación a Distancia; y la Orden de 9 de marzo de 1993, por la que se establece la composición, atribuciones y funcionamiento del Consejo de Dirección del Centro para la Innovación y Desarrollo de la Educación a Distancia.
