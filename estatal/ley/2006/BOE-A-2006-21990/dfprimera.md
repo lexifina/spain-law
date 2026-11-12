@@ -14,13 +14,15 @@ A partir del 1 de julio de 2015 al resto de quienes fueron valorados en el Grado
 
 A partir del 1 de julio de 2015 a quienes hayan sido valorados en el Grado I, nivel 1, o sean valorados en el Grado I de Dependencia Moderada
 
-2. En el marco de lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo, entre la fecha de entrada de la solicitud y la de resolución de reconocimiento de la prestación de dependencia será de seis meses, independientemente de que la Administración Competente haya establecido un procedimiento diferenciado para el reconocimiento de la situación de dependencia y el de prestaciones.
+2. En el marco de lo establecido en la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, el plazo máximo, entre la fecha de entrada de la solicitud y la de resolución de reconocimiento de la prestación de dependencia será de tres meses, independientemente de que la Administración Competente haya establecido un procedimiento diferenciado para el reconocimiento de la situación de dependencia y el de prestaciones.
 
-3. El derecho de acceso a las prestaciones derivadas del reconocimiento de la situación de dependencia se generará desde la fecha de la resolución de reconocimiento de las prestaciones o, en su caso, cuando haya transcurrido el plazo de seis meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación.
+3. El derecho de acceso a las prestaciones derivadas del reconocimiento de la situación de dependencia se generará desde la fecha de la resolución de reconocimiento de las prestaciones o, en su caso, cuando haya transcurrido el plazo de tres meses desde la presentación de la solicitud sin haberse dictado y notificado resolución expresa de reconocimiento de la prestación.
 
 4. Transcurridos los primeros tres años de aplicación progresiva de la Ley, el Consejo Territorial del Sistema para la Autonomía y Atención a la Dependencia realizará una evaluación de los resultados de la misma, proponiendo las modificaciones en la implantación del Sistema que, en su caso, estime procedentes.
 
 5. En la evaluación de los resultados a que se refiere el apartado anterior se efectuará informe de impacto de género sobre el desarrollo de la Ley.
+
+> Se modifican los apartados 2 y 3 por la disposición final 1 del Real Decreto-ley 36/2026, de 10 de noviembre. Ref. BOE-A-2026-23605
 
 > Se modifica el apartado 3 y se sustituye la referencia «Ley 30/1992, de 26 de noviembre» por «Ley 39/2015, de 1 de octubre» por el art. 2.48 y la disposición adicional 3.c) de la Ley 4/2026, de 1 de octubre. Ref. BOE-A-2026-20528#as
 
