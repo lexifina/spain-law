@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#0d1117" stroke="#3d444d"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#f0f6fc">El derecho español como historial git</text>
-<rect x="560.0" y="24.5" width="163" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="641.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">situación a 28 oct 2026</text>
-<rect x="731.2" y="24.5" width="125" height="20" rx="10" fill="none" stroke="#3d444d"/>
-<text x="793.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">estado: desfasado</text>
+<rect x="590.2" y="24.5" width="147" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="663.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">situación a 28 oct 2026</text>
+<rect x="744.9" y="24.5" width="111" height="20" rx="10" fill="none" stroke="#3d444d"/>
+<text x="800.5" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#9198a1">estado: desfasado</text>
 <rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#0d1117" stroke="#3d444d"/>
 <text x="40.0" y="87" font-size="20" font-weight="600" fill="#f0f6fc">8.774</text>
 <text x="40.0" y="106" font-size="12" fill="#9198a1">normas</text>
