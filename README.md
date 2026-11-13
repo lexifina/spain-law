@@ -1,130 +1,151 @@
-# Spanish state law as git history
+# El derecho estatal español como historial de git
+
+**Español** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Spanish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/es/effort-dark.svg">
+<img alt="El derecho español en este repositorio: qué contiene, los cambios por año de entrada en vigor, la completitud frente a las fuentes oficiales y la exactitud de lo que contiene" src="data/es/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Spain's national law, which global-law reads at `spain/national/acts/`.
+Forma parte de [lexifina/global-law](https://github.com/lexifina/global-law), un único historial de git para el derecho de todos los países: este es el derecho nacional de España, que global-law lee en `spain/national/acts/`.
 
-Every consolidated state-level (ámbito Estatal) norm in the BOE's consolidated legislation (legislación consolidada),
-as a git history: **one commit per amending norm per in-force date**, authored by that norm, so `git blame` names the
-norm that wrote each paragraph and `git log` lists a provision's amendments in the order they took effect.
+Todas las normas consolidadas de ámbito Estatal de la legislación consolidada del BOE, como historial de git:
+**un commit por norma modificadora y fecha de entrada en vigor**, con esa norma como autora, de modo que `git blame`
+nombra la norma que redactó cada párrafo y `git log` enumera las modificaciones de un precepto en el orden en que
+entraron en vigor.
 
 Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Textos consolidados de carácter
-meramente informativo; only the texts published in the «Boletín Oficial del Estado» are official. See LICENSE.
+meramente informativo; solo son oficiales los textos publicados en el «Boletín Oficial del Estado». Véase LICENSE.
 
-8,774 norms, 16,736 commits, 397,165 block versions, in force from
-1835-11-27 to 2026-10-28. Data retrieved 2026-10-28.
+8.774 normas, 16.736 commits, 397.165 versiones de bloques, en vigor desde el
+1835-11-27 hasta el 2026-10-28. Datos obtenidos el 2026-10-28.
 
-## The questions
+## Las preguntas
 
-| Question | Command |
+| Pregunta | Comando |
 | --- | --- |
-| What did art. 135 of the Constitution say on 26 Sept 2011? | `python tools/eslaw.py on 2011-09-26 estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
-| And the day after the reform took effect? | `python tools/eslaw.py on 2011-09-27 estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
-| The whole Constitution on a day, in order | `python tools/eslaw.py on 1992-08-28 estatal/constitucion/1978/BOE-A-1978-31229` |
-| Which norm wrote each paragraph? | `git blame main -- estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
-| When did art. 49 change, and by which norm? | `python tools/eslaw.py log estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
-| The same in raw git | `git log --format=%(trailers:key=In-force,valueonly,separator=)%x09%an main -- estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
-| What exactly changed, word by word? | `git log -p --word-diff --format=%an main -- estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
-| Everything one norm changed | `git log --format=%H%x09%s --grep=^Norma:.BOE-A-2011-15210$ main` |
-| Article 1 of the Código Civil over time | `python tools/eslaw.py log estatal/real-decreto/1889/BOE-A-1889-4763/a1.md` |
-| Which kinds of norm are there? | `git ls-tree --name-only main estatal/` |
-| How many commits did the publisher make with no norm? | `git rev-list --count --author=publisher@boe.invalid main` |
+| ¿Qué decía el art. 135 de la Constitución el 26 de septiembre de 2011? | `python tools/eslaw.py on 2011-09-26 estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
+| ¿Y el día después de que entrara en vigor la reforma? | `python tools/eslaw.py on 2011-09-27 estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
+| La Constitución entera en un día, en orden | `python tools/eslaw.py on 1992-08-28 estatal/constitucion/1978/BOE-A-1978-31229` |
+| ¿Qué norma redactó cada párrafo? | `git blame main -- estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
+| ¿Cuándo cambió el art. 49 y por qué norma? | `python tools/eslaw.py log estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
+| Lo mismo en git puro | `git log --format=%(trailers:key=In-force,valueonly,separator=)%x09%an main -- estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
+| ¿Qué cambió exactamente, palabra por palabra? | `git log -p --word-diff --format=%an main -- estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
+| Todo lo que cambió una norma | `git log --format=%H%x09%s --grep=^Norma:.BOE-A-2011-15210$ main` |
+| El artículo 1 del Código Civil a lo largo del tiempo | `python tools/eslaw.py log estatal/real-decreto/1889/BOE-A-1889-4763/a1.md` |
+| ¿Qué tipos de norma hay? | `git ls-tree --name-only main estatal/` |
+| ¿Cuántos commits hizo el editor sin norma? | `git rev-list --count --author=publisher@boe.invalid main` |
 
-In PowerShell, quote arguments containing `%`, `(` or `,` with single quotes.
+En PowerShell, ponga entre comillas simples los argumentos que contengan `%`, `(` o `,`.
 
-## The dates
+## Las fechas
 
-- **Commit date = in-force date** (fecha_vigencia of the block version), at 12:00 Europe/Madrid: CET (+0100), and
-  CEST (+0200) from the last Sunday of March up to the last Sunday of October (the EU rule, applied to every year
-  from 1970). The day reads the same everywhere.
-- Every law commit carries `In-force: YYYY-MM-DD`; `Published:` is the BOE publication date of the version
-  (fecha_publicacion), `Enacted:` the date of the amending norm when it is itself consolidated, and `Norma:` its BOE id.
-- **Git cannot store dates before 1970.** The 332 commits in force before 1970 are dated
-  1970-01-01T00:00:01Z onwards, one second apart, in order; `In-force:` holds the real date. So never use
-  `git log --before` for dates: use `tools/eslaw.py`, which reads `In-force:`.
-- A norm's first commit is its first text in the BOE's record, dated the day it entered into force, with the date of
-  the norm and its publication date in the message.
-- Versions the BOE gives with an in-force date after 2026-10-28 are left out (295); there is no
-  future branch. Versions the BOE gives without any in-force date cannot be placed in time and are left out
-  (1156, listed by build/check_repo.py). Where a block has two versions on the same day, the last in
-  the BOE's order is the one in force that day (300 earlier same-day versions).
-- A version can come into force before an earlier-listed one (deferred entry into force): the text on a day is the
-  version with the latest in-force date on or before it, as the BOE's own point-in-time view.
+- **Fecha del commit = fecha de entrada en vigor** (fecha_vigencia de la versión del bloque), a las 12:00 en
+  Europe/Madrid: CET (+0100), y CEST (+0200) desde el último domingo de marzo hasta el último domingo de octubre (la
+  regla de la UE, aplicada a todos los años desde 1970). El día se lee igual en todas partes.
+- Cada commit de derecho lleva `In-force: YYYY-MM-DD`; `Published:` es la fecha de publicación de la versión en el BOE
+  (fecha_publicacion), `Enacted:` la fecha de la norma modificadora cuando ella misma está consolidada, y `Norma:` su
+  identificador del BOE.
+- **Git no puede almacenar fechas anteriores a 1970.** Los 332 commits en vigor antes de 1970 llevan fechas a partir
+  de 1970-01-01T00:00:01Z, con un segundo de diferencia entre ellos, en orden; `In-force:` contiene la fecha real. Por
+  tanto, no use nunca `git log --before` para fechas: use `tools/eslaw.py`, que lee `In-force:`.
+- El primer commit de una norma es su primer texto en el registro del BOE, con la fecha del día en que entró en vigor
+  y con la fecha de la norma y su fecha de publicación en el mensaje.
+- Las versiones a las que el BOE asigna una fecha de entrada en vigor posterior al 2026-10-28 quedan fuera (295); no
+  hay rama de futuro. Las versiones que el BOE da sin ninguna fecha de entrada en vigor no pueden situarse en el tiempo
+  y quedan fuera (1.156, enumeradas por build/check_repo.py). Cuando un bloque tiene dos versiones el mismo día, la
+  última en el orden del BOE es la vigente ese día (300 versiones anteriores del mismo día).
+- Una versión puede entrar en vigor antes que otra que figura antes en la lista (entrada en vigor diferida): el texto
+  de un día es la versión con la fecha de entrada en vigor más reciente igual o anterior a ese día, como en la propia
+  vista a una fecha del BOE.
 
-## Original build validation (2026-10-28)
+## Validación de la construcción original (2026-10-28)
 
-- `build/check_repo.py`: every block version (including those that changed nothing and so have no commit of their
-  own) equals, byte for byte, the file at the last commit in force on its date; and the words of every version's XML
-  equal the words of its file. Last result: 397,165 block versions checked on their dates, 0 differ; 0 differ word for word from the XML; head files 326,037, missing 0, extra 0.
-- A second build from the same data gives the same `main` hash: a second build from the same data gave the identical law history (law-head 56dbb7491cbd, same hash for all law commits).
-- `tools/test_repo.py` runs the commands above and checks blame, the on-date tool, trailers and authors:
-  6/6 passed.
+- `build/check_repo.py`: cada versión de bloque (incluidas las que no cambiaron nada y, por tanto, no tienen commit
+  propio) es idéntica, byte a byte, al archivo del último commit vigente en su fecha; y las palabras del XML de cada
+  versión coinciden con las palabras de su archivo. Último resultado: 397.165 versiones de bloques comprobadas en sus fechas, 0 difieren; 0 difieren palabra por palabra del XML; archivos en la cabeza 326.037, faltan 0, sobran 0.
+- Una segunda construcción a partir de los mismos datos da el mismo hash de `main`: una segunda construcción a partir de los mismos datos dio un historial de derecho idéntico (law-head 56dbb7491cbd, mismo hash para todos los commits de derecho).
+- `tools/test_repo.py` ejecuta los comandos anteriores y comprueba blame, la herramienta por fecha, los trailers y los
+  autores: 6/6 superadas.
 
-## What "author" means
+## Qué significa «autor»
 
-The author of a commit is the norm (id_norma) that the BOE names for the block versions in it: `BOE-A-2011-15210
-(Reforma del artículo 135 de la Constitución Española, de 27 de septiembre de 2011)` at `boe-a-2011-15210@boe.invalid`, an
-address that cannot exist. Rulings of the Tribunal Constitucional that annul text appear as `BOE-T-...`. The committer is
-always `Lexifina`. Versions with no id_norma, or with one that is not a BOE identifier (the data has `BOE-A-0-0` for 48
-versions and typos such as `BOE-A-201-9739`), are committed by `Agencia Estatal Boletin Oficial del Estado (BOE)`
-<publisher@boe.invalid>, labelled `Explained-by: none (...)`; the identifier is quoted, never corrected
-(14 such commits).
+El autor de un commit es la norma (id_norma) que el BOE indica para las versiones de bloque que contiene: `BOE-A-2011-15210
+(Reforma del artículo 135 de la Constitución Española, de 27 de septiembre de 2011)` en `boe-a-2011-15210@boe.invalid`, una
+dirección que no puede existir. Las sentencias del Tribunal Constitucional que anulan texto aparecen como `BOE-T-...`. El
+committer es siempre `Lexifina`. Las versiones sin id_norma, o con uno que no es un identificador del BOE (los datos
+tienen `BOE-A-0-0` en 48 versiones y erratas como `BOE-A-201-9739`), se atribuyen a `Agencia Estatal Boletin Oficial del Estado (BOE)`
+<publisher@boe.invalid>, con la etiqueta `Explained-by: none (...)`; el identificador se cita tal cual, nunca se
+corrige (14 commits de este tipo).
 
-## What it does not show
+## Lo que no muestra
 
-- Only the BOE's consolidated texts: norms the BOE has not consolidated are not here, and the history of each norm
-  starts with its first consolidated text. Regional (Autonómico) law is not included yet.
-- Blame credits whole paragraphs; use `git log -p --word-diff` for the words.
-- Notes in the text (`> Se modifica por ...`) are the BOE's own footnotes, kept as they are.
-- The same words can mean different law: transitional provisions, rulings that interpret without annulling, and
-  norms that suspend without amending change the law without changing these files.
-- Spain's default rule on retroactivity (Código Civil art. 2.3; Constitución art. 9.3) is described in corpus.json;
-  this repository does not decide whether a change reaches a given case.
+- Solo los textos consolidados del BOE: las normas que el BOE no ha consolidado no están aquí, y el historial de cada
+  norma empieza con su primer texto consolidado. El derecho autonómico (Autonómico) todavía no está incluido.
+- Blame atribuye párrafos enteros; use `git log -p --word-diff` para las palabras.
+- Las notas del texto (`> Se modifica por ...`) son las propias notas al pie del BOE, conservadas tal cual.
+- Las mismas palabras pueden significar un derecho distinto: las disposiciones transitorias, las sentencias que
+  interpretan sin anular y las normas que suspenden sin modificar cambian el derecho sin cambiar estos archivos.
+- La regla general de España sobre la retroactividad (Código Civil art. 2.3; Constitución art. 9.3) se describe en
+  corpus.json; este repositorio no decide si un cambio alcanza a un caso concreto.
 
-## Layout
+## Estructura
 
-`estatal/<rango>/<year>/<BOE id>/<block>.md`: one folder per norm, grouped by rank (ley, ley-organica, real-decreto,
-orden, ...) and by the year in its BOE id (so no folder lists more than 1,000 entries on GitHub), one file per block (article, heading, preamble, provision, annex) named by the BOE's block id. Each file
-holds the block's paragraphs, one per line with a blank line between; markup only, never words, is added: `## `
-before headings, `> ` before the BOE's notes and quoted text, table rows as `| a | b |`, images as links. Each norm's
-`README.md` lists its blocks in the BOE's order. `normas.tsv` lists every norm with its last update date.
+`estatal/<rango>/<year>/<BOE id>/<block>.md`: una carpeta por norma, agrupadas por rango (ley, ley-organica,
+real-decreto, orden, ...) y por el año de su identificador del BOE (así ninguna carpeta muestra más de 1.000 entradas en GitHub), un archivo por bloque (artículo, encabezado, preámbulo, disposición, anexo) con el nombre del identificador de bloque del BOE. Cada
+archivo contiene los párrafos del bloque, uno por línea con una línea en blanco entre ellos; solo se añade marcado, nunca palabras: `## `
+antes de los encabezados, `> ` antes de las notas del BOE y del texto citado, filas de tablas como `| a | b |`, imágenes
+como enlaces. El `README.md` de cada norma enumera sus bloques en el orden del BOE. `normas.tsv` enumera todas las
+normas con su fecha de última actualización.
 
-The `law-head` branch marks the last law commit. After each update new commits are added on top (append only).
+La rama `law-head` marca el último commit de derecho. Tras cada actualización se añaden commits nuevos encima (solo
+adición).
 
-## How it is built
+## Cómo se construye
 
-See REPRODUCE.md. The builder is in `build/`; no AI wrote any legal text and no model runs at build time.
+Véase REPRODUCE.md. El constructor está en `build/`; ninguna IA ha redactado texto jurídico alguno y no se ejecuta
+ningún modelo durante la construcción.
 
-## Licence
+## Licencia
 
-Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). See LICENSE.
+Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Véase LICENSE.
 
-## Repeals and unresolved validity
+Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); si difieren, prevalece la versión inglesa.
 
-`data/acts.json` records BOE identifiers, lifecycle dates, causes and exhausted-validity flags. It records 1,559 dated repeals and 16 annulments. The original 1,159 repeal corrections remain unchanged. This append adds 415 dated lifecycle corrections: 0 remove unambiguously repealed files while retaining the unchanged BOE notice; 415 mark the act README and retain its wording and notices. Earlier wording remains available in the original history.
+## Derogaciones y vigencia no resuelta
 
-418 exhausted-validity records still have no resolved cessation date or cause. They remain labelled "as captured" without an in-force assertion. Missing text is explicitly marked in the index. Existing BOE repeal and annulment dates are preserved, and all existing causes (including unknown causes) are retained except BOE-A-2013-699: its cause is corrected to BOE-A-2023-12914 from the latest source notice at the recorded repeal date.
+`data/acts.json` registra los identificadores del BOE, las fechas del ciclo de vida, las causas y los indicadores de vigencia agotada. Registra 1.559 derogaciones con fecha y 16 anulaciones. Las 1.159 correcciones de derogación originales se mantienen sin cambios. Esta adición incorpora 415 correcciones del ciclo de vida con fecha: 0 eliminan archivos inequívocamente derogados conservando sin cambios el aviso del BOE; 415 marcan el README de la norma y conservan su redacción y sus avisos. La redacción anterior sigue disponible en el historial original.
 
-7 retained publisher notices differ from the latest publication state in the source evidence used for this record. They are preserved as historical notices, explicitly labelled in the act README and index, and linked to BOE for the current notice. Their wording has not been changed.
+418 registros de vigencia agotada siguen sin fecha ni causa de cese resueltas. Siguen etiquetados como "as captured" (tal como se obtuvieron) sin afirmar que estén en vigor. El texto que falta se marca expresamente en el índice. Se conservan las fechas de derogación y anulación del BOE existentes, y se mantienen todas las causas existentes (incluidas las desconocidas) salvo la de BOE-A-2013-699: su causa se corrige a BOE-A-2023-12914 conforme al aviso más reciente de la fuente en la fecha de derogación registrada.
 
-The text record ends on 2026-10-28. The reader reports a known BOE repeal or annulment on or after its date, including when a later query lies beyond the text cutoff; it provides no text for other dates beyond that cutoff. For retained wording with unresolved savings or transitional application, it reports that applicability requires separate analysis. The publisher-notice path in the index permits inspection within the text record; the unchanged source files remain directly inspectable in Git. A lifecycle status alone does not decide whether a saved provision applies to a particular case.
+7 avisos del editor conservados difieren del estado de publicación más reciente en las pruebas de la fuente utilizadas para este registro. Se conservan como avisos históricos, etiquetados expresamente en el README de la norma y en el índice, y enlazados al BOE para el aviso vigente. Su redacción no se ha modificado.
 
-Source effective dates are recorded in In-force and author dates, with the existing pre-1970 convention. Appended committer timestamps preserve commit order. Earlier commits and tags are unchanged.
+El registro de textos termina el 2026-10-28. El lector informa de una derogación o anulación conocida del BOE en su fecha o después de ella, también cuando una consulta posterior queda más allá del límite de los textos; no proporciona texto para otras fechas posteriores a ese límite. Para la redacción conservada cuya aplicación ultraactiva o transitoria no está resuelta, indica que su aplicabilidad requiere un análisis aparte. La ruta de avisos del editor en el índice permite la consulta dentro del registro de textos; los archivos de origen sin cambios siguen pudiendo consultarse directamente en Git. Un estado del ciclo de vida, por sí solo, no decide si una disposición con ultraactividad se aplica a un caso concreto.
 
-Retained BOE publisher notices remain readable through their published README links, including older notice-only acts without a lifecycle_notice field. Notice-only act directories and their documentation remain inspectable; the lifecycle guard applies to normative text.
+Las fechas de efecto de la fuente se registran en In-force y en las fechas de autor, con la convención existente para las anteriores a 1970. Las marcas de tiempo de committer añadidas preservan el orden de los commits. Los commits y etiquetas anteriores no cambian.
 
-The `on` command preserves the published reader's historical-record answers, including source versions retained after cessation; access does not establish revival or saved applicability. Use `current YYYY-MM-DD <act-or-block-path>` to apply recorded lifecycle boundaries and `status YYYY-MM-DD <act-or-block-path>` (or data/acts.json) for dated BOE repeal/annulment metadata. Source-dated later provisions are reported separately.
+Los avisos del editor del BOE conservados siguen pudiendo leerse a través de los enlaces de README publicados, incluidas las normas antiguas que solo tienen aviso y carecen del campo lifecycle_notice. Los directorios de normas que solo tienen aviso y su documentación siguen pudiendo consultarse; la protección del ciclo de vida se aplica al texto normativo.
 
-## Ordered same-day source versions
+El comando `on` conserva las respuestas del registro histórico del lector publicado, incluidas las versiones de origen conservadas tras el cese; el acceso no implica reviviscencia ni aplicabilidad ultraactiva. Utilice `current YYYY-MM-DD <act-or-block-path>` para aplicar los límites del ciclo de vida registrados y `status YYYY-MM-DD <act-or-block-path>` (o data/acts.json) para los metadatos fechados de derogación o anulación del BOE. Las disposiciones posteriores fechadas por la fuente se indican por separado.
 
-213 earlier BOE block versions on the same effective day are preserved as individually labelled correction commits, followed by the last source version of each affected block that day. The original commits and tags retain their published identities. The source index is `data/same-day-versions.json`; `Norma`, `Published`, and `Source-version-index` record the BOE provenance, including source states with identical wording. The end-of-day reader applies only the files named by each correction. These ordered records do not establish an intra-day period of applicability. 87 earlier versions are held for normative images, source/published-tip differences, future applicability, or whole-act reader compatibility; the text record still ends on 2026-10-28.
+## Versiones de origen del mismo día, en orden
+
+213 versiones anteriores de bloques del BOE del mismo día de efecto se conservan como commits de corrección etiquetados individualmente, seguidos de la última versión de origen de cada bloque afectado ese día. Los commits y etiquetas originales mantienen sus identidades publicadas. El índice de origen es `data/same-day-versions.json`; `Norma`, `Published` y `Source-version-index` registran la procedencia en el BOE, incluidos los estados de origen con redacción idéntica. El lector de fin de día aplica solo los archivos indicados en cada corrección. Estos registros ordenados no establecen un periodo de aplicabilidad dentro del día. 87 versiones anteriores quedan retenidas por imágenes normativas, diferencias entre la fuente y la punta publicada, aplicabilidad futura o compatibilidad del lector con normas completas; el registro de textos sigue terminando el 2026-10-28.
 
 
-## Date corrections
+## Correcciones de fechas
 
-Nine published block dates have source-backed correction records in [data/date-corrections.tsv](data/date-corrections.tsv). Seven dates are corrected; two retain earlier dates expressly stated by BOE. Later publisher notices of earlier events carry a `Retroactive` explanation. `Redates` identifies each original version. These records preserve the published normative files and the BOE repeal and annulment metadata.
+Nueve fechas de bloques publicadas tienen registros de corrección respaldados por la fuente en [data/date-corrections.tsv](data/date-corrections.tsv). Se corrigen siete fechas; dos conservan fechas anteriores que el BOE indica expresamente. Los avisos posteriores del editor sobre hechos anteriores llevan una explicación `Retroactive`. `Redates` identifica cada versión original. Estos registros conservan los archivos normativos publicados y los metadatos de derogación y anulación del BOE.
 
-The smoke checks validate dated normative records, labelled documentation and sourced corrections. An unchanged restored file retains its norm-authored historical provenance.
+Las comprobaciones rápidas (smoke checks) validan los registros normativos fechados, la documentación etiquetada y las correcciones respaldadas por la fuente. Un archivo restaurado sin cambios conserva su procedencia histórica atribuida a la norma.
+
+## Más información
+
+Del repositorio [lexifina/global-law](https://github.com/lexifina/global-law) (páginas en inglés):
+
+- [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): todas las funciones y lo que cada corpus debe admitir (`git blame`, `law.py`, herramientas MCP)
+- [FAQ.md](https://github.com/lexifina/global-law/blob/main/FAQ.md): preguntas y respuestas · [CONTRIBUTING.md](https://github.com/lexifina/global-law/blob/main/CONTRIBUTING.md): proponer cambios · [MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md): servidor MCP · [REPRODUCE.md](https://github.com/lexifina/global-law/blob/main/REPRODUCE.md): cómo se ha construido · [CHANGELOG.md](https://github.com/lexifina/global-law/blob/main/CHANGELOG.md)
+- [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md): lo actualizado que está cada corpus · [Supervisión](https://github.com/lexifina/global-law/tree/main/monitoring): si las actualizaciones funcionan · [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md): cómo se vigila cada fuente oficial para detectar cambios
+- [performance/](https://github.com/lexifina/global-law/tree/main/performance): la rapidez de las herramientas, medida
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): gráficos y conexiones a través del derecho de todo el mundo
+- [Vulnerabilidades](https://github.com/lexifina/global-law/tree/main/vulnerabilities): errores en las normas tal como se publicaron
