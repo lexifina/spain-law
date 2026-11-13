@@ -4,4 +4,6 @@
 
 2. Lo dispuesto en el apartado anterior no será de aplicación cuando arrendador y arrendatario acuerden la renovación del contrato de arrendamiento, o la celebración de uno nuevo, con una renta inferior en al menos un cinco por ciento a la prevista en el contrato vigente.
 
+> Téngase en cuenta que se deroga el Real Decreto-ley 28/2026, de 6 de octubre, por Acuerdo del Congreso de los Diputados publicado por Resolución de 12 de noviembre de 2026. Ref. BOE-A-2026-23754
+
 > Véase la disposición adicional primera del Real Decreto-ley 28/2026, de 6 de octubre, sobre coordinación de la prórroga extraordinaria prevista en esta disposición con la prórroga prevista en el art. 10 de la Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos. Ref. BOE-A-2026-20822#da
