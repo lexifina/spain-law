@@ -1,3 +1,5 @@
-## Disposición final segunda.
+## Disposición final segunda. Facultades de desarrollo.
 
-Por Orden del Ministro de la Presidencia, dictada a propuesta de los Ministros de Asuntos Exteriores y de Industria y Energía, podrá encomendarse la llevanza del Registro Español a un órgano de estos Ministerios distinto del previsto en el artículo 2 del presente Real Decreto.
+Se faculta a las personas titulares de los Ministerios de Asuntos Exteriores, Unión Europea y Cooperación, de Industria y Turismo y de Ciencia, Innovación y Universidades a poder dictar las disposiciones necesarias para la ejecución y desarrollo de lo dispuesto en este real decreto.
+
+> Se modifica por el art. único.9 del Real Decreto 979/2026, de 11 de noviembre. Ref. BOE-A-2026-23758
