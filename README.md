@@ -21,8 +21,8 @@ El texto está en castellano, tal como lo imprimen los textos consolidados del B
 
 | Pregunta | Comando |
 | --- | --- |
-| Cada cambio del artículo 48 del Estatuto de los Trabajadores | `git log -p --word-diff law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
-| ¿Qué norma redactó cada párrafo del artículo 48? | `git blame law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
+| Cada cambio del artículo 48 del Estatuto de los Trabajadores | `git log -p --word-diff origin/law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
+| ¿Qué norma redactó cada párrafo del artículo 48? | `git blame origin/law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
 | Cada versión del artículo 48, con el día en que entró en vigor | `python tools/eslaw.py log estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
 | El artículo 48 vigente el 1 de enero de 2020 | `python tools/eslaw.py on 2020-01-01 estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
 

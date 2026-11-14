@@ -21,8 +21,8 @@ The text is in Spanish, as the BOE's consolidated texts print it, with the BOE's
 
 | Question | Command |
 | --- | --- |
-| Every change to Article 48 of the Estatuto de los Trabajadores | `git log -p --word-diff law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
-| Which norm wrote each paragraph of Article 48? | `git blame law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
+| Every change to Article 48 of the Estatuto de los Trabajadores | `git log -p --word-diff origin/law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
+| Which norm wrote each paragraph of Article 48? | `git blame origin/law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
 | Every version of Article 48, with the day each took effect | `python tools/eslaw.py log estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
 | Article 48 as in force on 1 January 2020 | `python tools/eslaw.py on 2020-01-01 estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
 
