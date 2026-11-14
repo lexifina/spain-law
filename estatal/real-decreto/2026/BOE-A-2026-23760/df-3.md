@@ -1,0 +1,3 @@
+## Disposición final tercera. Modificación del marco normativo relativo a la atención de las víctimas de accidentes colectivos.
+
+En el plazo de 3 meses desde su nombramiento, el Defensor/a de Víctimas de Accidentes de Transporte Colectivo analizará el marco normativo relativo a la atención de las víctimas de accidentes colectivos, con la participación activa de las asociaciones de víctimas y, en su caso, propondrá una mejora del mismo. El proyecto, deberá proponer la modificación, entre otras cuestiones, de la estructura institucional de atención a las víctimas, y de las formas de colaboración entre Administraciones públicas y demás servicios y entidades que participan en la atención de víctimas.
