@@ -1,0 +1,3 @@
+## Disposición final segunda. Habilitación para la aplicación y ejecución de lo dispuesto en este real decreto.
+
+De conformidad con lo previsto en el artículo 30.1 de la Ley 3/2013, de 4 de junio, la Comisión Nacional de los Mercados y la Competencia podrá dictar las circulares necesarias para la correcta supervisión del cumplimiento de la obligación regulada en este real decreto, previo informe preceptivo del titular de la Secretaría de Estado de Digitalización e Inteligencia Artificial. En concreto, podrá dictar circulares para el ejercicio de las funciones que se le atribuyen en los artículos 7, 8, 13, 19, 22, 24, 25, 26, 27, 28, 29, 33, 34, 35, 36, 37, 38, 39 y en las disposiciones adicionales primera, tercera y cuarta.

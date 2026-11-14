@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Formularios para comunicar el cumplimiento de la obligación de promoción de obra audiovisual europea y de la diversidad lingüística.
+
+La Comisión Nacional de los Mercados y la Competencia en el plazo máximo de tres meses desde la entrada en vigor del presente real decreto pondrá a disposición de los sujetos obligados en su sede electrónica los formularios para comunicar el cumplimiento de las obligaciones previstas en el presente real decreto, previo informe preceptivo y no vinculante del titular de la Secretaría de Estado de Digitalización e Inteligencia Artificial del Ministerio para la Transformación Digital y de la Función Pública.
