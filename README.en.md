@@ -1,135 +1,87 @@
-# Spanish state law as git history
+# Spain: law history in git
 
-[Español](README.md) · **English**
+**English** · **[O léalo en español](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
 <img alt="Spanish law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
 </picture>
 
+The state law of Spain as a git history: one file per block (article, provision, preamble, annex), one commit per amending norm on the day its changes took effect, and that norm as the commit's author. `git blame` names the norm behind every paragraph; `git log` lists every change to an article; picking a date gives the text in force that day.
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Spain's national law, which global-law reads at `spain/national/acts/`.
 
-Every consolidated state-level (ámbito Estatal) norm in the BOE's consolidated legislation (legislación consolidada),
-as a git history: **one commit per amending norm per in-force date**, authored by that norm, so `git blame` names the
-norm that wrote each paragraph and `git log` lists a provision's amendments in the order they took effect.
+**What is in it now:** the Constitution and 8,773 state norms (ámbito Estatal) from the BOE's consolidated legislation, in force from 1835 to 2026: 859 leyes, 184 leyes orgánicas, 315 reales decretos-leyes, 44 reales decretos legislativos, 3,508 reales decretos, 2,406 órdenes, 253 international agreements and 1,204 resolutions, circulars, decrees, instructions and other norms, in 16,736 commits; and 2,209 later corrections, labelled as such (1,574 repeals and annulments, 626 same-day versions of a block, 9 dates). [`normas.tsv`](normas.tsv) lists every norm with the day the BOE last updated its text; [`data/acts.json`](data/acts.json) gives each norm's status (in force, repealed, annulled, expired) and dates.
 
-Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). Textos consolidados de carácter
-meramente informativo; only the texts published in the «Boletín Oficial del Estado» are official. See LICENSE.
+Each norm is a folder `estatal/<rank>/<year>/<BOE id>/` with one file per block, named by the BOE's block id (`estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` is Article 48 of the Estatuto de los Trabajadores, Real Decreto Legislativo 2/2015); each norm's `README.md` lists its blocks in the BOE's order.
 
-8,774 norms, 16,736 commits, 397,165 block versions, in force from
-1835-11-27 to 2026-10-28. Data retrieved 2026-10-28.
+The text is in Spanish, as the BOE's consolidated texts print it, with the BOE's own notes (`> Se modifica por ...`). Translations are not part of this record.
 
-## The questions
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did art. 135 of the Constitution say on 26 Sept 2011? | `python tools/eslaw.py on 2011-09-26 estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
-| And the day after the reform took effect? | `python tools/eslaw.py on 2011-09-27 estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
-| The whole Constitution on a day, in order | `python tools/eslaw.py on 1992-08-28 estatal/constitucion/1978/BOE-A-1978-31229` |
-| Which norm wrote each paragraph? | `git blame main -- estatal/constitucion/1978/BOE-A-1978-31229/a135.md` |
-| When did art. 49 change, and by which norm? | `python tools/eslaw.py log estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
-| The same in raw git | `git log --format=%(trailers:key=In-force,valueonly,separator=)%x09%an main -- estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
-| What exactly changed, word by word? | `git log -p --word-diff --format=%an main -- estatal/constitucion/1978/BOE-A-1978-31229/a49.md` |
-| Everything one norm changed | `git log --format=%H%x09%s --grep=^Norma:.BOE-A-2011-15210$ main` |
-| Article 1 of the Código Civil over time | `python tools/eslaw.py log estatal/real-decreto/1889/BOE-A-1889-4763/a1.md` |
-| Which kinds of norm are there? | `git ls-tree --name-only main estatal/` |
-| How many commits did the publisher make with no norm? | `git rev-list --count --author=publisher@boe.invalid main` |
+| Every change to Article 48 of the Estatuto de los Trabajadores | `git log -p --word-diff law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
+| Which norm wrote each paragraph of Article 48? | `git blame law-head -- estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
+| Every version of Article 48, with the day each took effect | `python tools/eslaw.py log estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
+| Article 48 as in force on 1 January 2020 | `python tools/eslaw.py on 2020-01-01 estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md` |
 
-In PowerShell, quote arguments containing `%`, `(` or `,` with single quotes.
+On `main`, `git blame` and `git log -p` name commit 57854db for every line: on 2026-11-05 it restored every file in one commit, after the commit before it had dropped them by mistake. So run them on `law-head`, the last commit of the original build (2026-10-28); `tools/eslaw.py` reads `main`, with every later correction.
 
-## The dates
+**Outside git**, we also host this record publicly, for free:
 
-- **Commit date = in-force date** (fecha_vigencia of the block version), at 12:00 Europe/Madrid: CET (+0100), and
-  CEST (+0200) from the last Sunday of March up to the last Sunday of October (the EU rule, applied to every year
-  from 1970). The day reads the same everywhere.
-- Every law commit carries `In-force: YYYY-MM-DD`; `Published:` is the BOE publication date of the version
-  (fecha_publicacion), `Enacted:` the date of the amending norm when it is itself consolidated, and `Norma:` its BOE id.
-- **Git cannot store dates before 1970.** The 332 commits in force before 1970 are dated
-  1970-01-01T00:00:01Z onwards, one second apart, in order; `In-force:` holds the real date. So never use
-  `git log --before` for dates: use `tools/eslaw.py`, which reads `In-force:`.
-- A norm's first commit is its first text in the BOE's record, dated the day it entered into force, with the date of
-  the norm and its publication date in the message.
-- Versions the BOE gives with an in-force date after 2026-10-28 are left out (295); there is no
-  future branch. Versions the BOE gives without any in-force date cannot be placed in time and are left out
-  (1156, listed by build/check_repo.py). Where a block has two versions on the same day, the last in
-  the BOE's order is the one in force that day (300 earlier same-day versions).
-- A version can come into force before an earlier-listed one (deferred entry into force): the text on a day is the
-  version with the latest in-force date on or before it, as the BOE's own point-in-time view.
+- **[Ask Claude about Spanish law](https://global-law.lexifina.com/v1/try_claude?country=spain)**: opens Claude with a first question ready.
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=spain)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=vacaciones+anuales&jurisdictions=spain)**: a search of Spanish law for "vacaciones anuales" (annual leave), returned as JSON. See the [documentation here](https://lexifina.com/api/global-law).
 
-## Original build validation (2026-10-28)
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Spanish or in English.
 
-- `build/check_repo.py`: every block version (including those that changed nothing and so have no commit of their
-  own) equals, byte for byte, the file at the last commit in force on its date; and the words of every version's XML
-  equal the words of its file. Last result: 397,165 block versions checked on their dates, 0 differ; 0 differ word for word from the XML; head files 326,037, missing 0, extra 0.
-- A second build from the same data gives the same `main` hash: a second build from the same data gave the identical law history (law-head 56dbb7491cbd, same hash for all law commits).
-- `tools/test_repo.py` runs the commands above and checks blame, the on-date tool, trailers and authors:
-  6/6 passed.
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
 
-## What "author" means
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add spain/national/acts
+python3 tools/law.py show 2026-01-01 spain/national/acts/estatal/real-decreto-legislativo/2015/BOE-A-2015-11430/a48.md
+```
 
-The author of a commit is the norm (id_norma) that the BOE names for the block versions in it: `BOE-A-2011-15210
-(Reforma del artículo 135 de la Constitución Española, de 27 de septiembre de 2011)` at `boe-a-2011-15210@boe.invalid`, an
-address that cannot exist. Rulings of the Tribunal Constitucional that annul text appear as `BOE-T-...`. The committer is
-always `Lexifina`. Versions with no id_norma, or with one that is not a BOE identifier (the data has `BOE-A-0-0` for 48
-versions and typos such as `BOE-A-201-9739`), are committed by `Agencia Estatal Boletin Oficial del Estado (BOE)`
-<publisher@boe.invalid>, labelled `Explained-by: none (...)`; the identifier is quoted, never corrected
-(14 such commits).
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
+
+## Dates
+
+Each commit is dated at noon, Europe/Madrid, on the day the version took effect (the BOE's `fecha_vigencia` for it), and carries it in its `In-force:` trailer, beside `Published:`, `Enacted:` and `Norma:`:
+
+- a norm's first commit is its first consolidated text in the BOE, on the day it came into force;
+- versions the BOE dates after 2026-10-28 (295) or gives no in-force day (1,156) are left out; where a block has two versions on one day, the last in the BOE's order is the text that day, and the earlier ones are kept as labelled corrections ([`data/same-day-versions.json`](data/same-day-versions.json));
+- git cannot store dates before 1970, so the 332 earlier commits are dated from 1970-01-01, one second apart, with the real day in `In-force:`. Ask for a date with `tools/eslaw.py`, not `git log --before`.
+
+Each change is credited to the norm the BOE names for it, as `BOE-A-2025-15741 (Real Decreto-ley 9/2025, de 29 de julio)`; rulings of the Tribunal Constitucional that change a text are credited the same way (`BOE-A-2024-25523 (Sentencia 140/2024, de 6 de noviembre)`). The 14 versions with no valid BOE identifier are credited to the publisher, `Agencia Estatal Boletin Oficial del Estado (BOE)`, and the corrections to `Lexifina`, with `Kind: correction`.
+
+## How it is checked
+
+- `build/check_repo.py` compares every block version, byte for byte, with the file at the last commit in force on its day, and the words of each version's XML with its file: 397,165 versions, 0 differ (2026-10-28).
+- A second build from the same data gave the same law history (`law-head` 56dbb7491cbd); the original build's facts are in `REPRODUCE.md` at commit `ee54e80`.
+- Each later correction is checked against the BOE: kept notices word for word with its XML, unchanged files with the published base, and 30 repeals against the BOE independently (see [`REPRODUCE.md`](REPRODUCE.md)).
+- History is append-only: no merge commits, and no published commit is rewritten.
 
 ## What it does not show
 
-- Only the BOE's consolidated texts: norms the BOE has not consolidated are not here, and the history of each norm
-  starts with its first consolidated text. Regional (Autonómico) law is not included yet.
-- Blame credits whole paragraphs; use `git log -p --word-diff` for the words.
-- Notes in the text (`> Se modifica por ...`) are the BOE's own footnotes, kept as they are.
-- The same words can mean different law: transitional provisions, rulings that interpret without annulling, and
-  norms that suspend without amending change the law without changing these files.
-- Spain's default rule on retroactivity (Código Civil art. 2.3; Constitución art. 9.3) is described in corpus.json;
-  this repository does not decide whether a change reaches a given case.
+- **Regional law.** The law of the 17 autonomous communities and of Ceuta and Melilla is in its own repositories (such as [spain-catalonia-law](https://github.com/lexifina/spain-catalonia-law)), which global-law reads under `spain/<community>/acts/`.
+- **Norms the BOE does not consolidate**, and any norm's text before its first consolidated version; 47 norms in `data/acts.json` have no text here.
+- **Case law**, apart from rulings the BOE records as changing a norm's text.
+- **Changes that leave the words alone**: transitional provisions, rulings that interpret without annulling and suspensions change the law without changing these files; whether a change reaches a given case (Código Civil art. 2.3, Constitución art. 9.3) is not decided here.
+- **When 418 norms ceased to apply**: the BOE marks them as expired (vigencia agotada) without a day, so their text stays, marked as expired.
 
-## Layout
+## Sources
 
-`estatal/<rango>/<year>/<BOE id>/<block>.md`: one folder per norm, grouped by rank (ley, ley-organica, real-decreto,
-orden, ...) and by the year in its BOE id (so no folder lists more than 1,000 entries on GitHub), one file per block (article, heading, preamble, provision, annex) named by the BOE's block id. Each file
-holds the block's paragraphs, one per line with a blank line between; markup only, never words, is added: `## `
-before headings, `> ` before the BOE's notes and quoted text, table rows as `| a | b |`, images as links. Each norm's
-`README.md` lists its blocks in the BOE's order. `normas.tsv` lists every norm with its last update date.
-
-The `law-head` branch marks the last law commit. After each update new commits are added on top (append only).
-
-## How it is built
-
-See REPRODUCE.md. The builder is in `build/`; no AI wrote any legal text and no model runs at build time.
+| Source | Kind | Past versions | Notes |
+| --- | --- | --- | --- |
+| [Agencia Estatal Boletín Oficial del Estado](https://www.boe.es) | Official gazette: consolidated legislation (legislación consolidada), ámbito Estatal | yes, every version of each block, with its in-force day | Read through its [open-data API](https://www.boe.es/datosabiertos/api/api.php) on 2026-10-28; repeal and lifecycle data checked 2026-11-05 |
 
 ## Licence
 
-Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es). See LICENSE.
+See [`LICENSE`](LICENSE). Basado en datos de la Agencia Estatal Boletín Oficial del Estado (https://www.boe.es): the texts are the BOE's consolidated texts, reused under its reuse conditions (Resolution of 27 June 2024). They are informative only; only the texts published in the «Boletín Oficial del Estado» are official and authentic. The code and documentation are CC0 1.0.
 
-## Repeals and unresolved validity
-
-`data/acts.json` records BOE identifiers, lifecycle dates, causes and exhausted-validity flags. It records 1,559 dated repeals and 16 annulments. The original 1,159 repeal corrections remain unchanged. This append adds 415 dated lifecycle corrections: 0 remove unambiguously repealed files while retaining the unchanged BOE notice; 415 mark the act README and retain its wording and notices. Earlier wording remains available in the original history.
-
-418 exhausted-validity records still have no resolved cessation date or cause. They remain labelled "as captured" without an in-force assertion. Missing text is explicitly marked in the index. Existing BOE repeal and annulment dates are preserved, and all existing causes (including unknown causes) are retained except BOE-A-2013-699: its cause is corrected to BOE-A-2023-12914 from the latest source notice at the recorded repeal date.
-
-7 retained publisher notices differ from the latest publication state in the source evidence used for this record. They are preserved as historical notices, explicitly labelled in the act README and index, and linked to BOE for the current notice. Their wording has not been changed.
-
-The text record ends on 2026-10-28. The reader reports a known BOE repeal or annulment on or after its date, including when a later query lies beyond the text cutoff; it provides no text for other dates beyond that cutoff. For retained wording with unresolved savings or transitional application, it reports that applicability requires separate analysis. The publisher-notice path in the index permits inspection within the text record; the unchanged source files remain directly inspectable in Git. A lifecycle status alone does not decide whether a saved provision applies to a particular case.
-
-Source effective dates are recorded in In-force and author dates, with the existing pre-1970 convention. Appended committer timestamps preserve commit order. Earlier commits and tags are unchanged.
-
-Retained BOE publisher notices remain readable through their published README links, including older notice-only acts without a lifecycle_notice field. Notice-only act directories and their documentation remain inspectable; the lifecycle guard applies to normative text.
-
-The `on` command preserves the published reader's historical-record answers, including source versions retained after cessation; access does not establish revival or saved applicability. Use `current YYYY-MM-DD <act-or-block-path>` to apply recorded lifecycle boundaries and `status YYYY-MM-DD <act-or-block-path>` (or data/acts.json) for dated BOE repeal/annulment metadata. Source-dated later provisions are reported separately.
-
-## Ordered same-day source versions
-
-213 earlier BOE block versions on the same effective day are preserved as individually labelled correction commits, followed by the last source version of each affected block that day. The original commits and tags retain their published identities. The source index is `data/same-day-versions.json`; `Norma`, `Published`, and `Source-version-index` record the BOE provenance, including source states with identical wording. The end-of-day reader applies only the files named by each correction. These ordered records do not establish an intra-day period of applicability. 87 earlier versions are held for normative images, source/published-tip differences, future applicability, or whole-act reader compatibility; the text record still ends on 2026-10-28.
-
-
-## Date corrections
-
-Nine published block dates have source-backed correction records in [data/date-corrections.tsv](data/date-corrections.tsv). Seven dates are corrected; two retain earlier dates expressly stated by BOE. Later publisher notices of earlier events carry a `Retroactive` explanation. `Redates` identifies each original version. These records preserve the published normative files and the BOE repeal and annulment metadata.
-
-The smoke checks validate dated normative records, labelled documentation and sourced corrections. An unchanged restored file retains its norm-authored historical provenance.
+No AI model wrote or changed legal text, and none runs when the history is built; the builder was written by Claude Code with Claude Opus 5.5, and the code for the later corrections by GPT-6, reviewed by GPT-6 Astra (see [`REPRODUCE.md`](REPRODUCE.md)).
 
 ## More
 
