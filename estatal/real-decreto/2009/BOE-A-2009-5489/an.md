@@ -42,11 +42,11 @@ Sección A-5 o B-5 (descripción del envío/lista de bultos): Será cumplimentad
 
 Sección A-6 o B-6 (acuse de recibo del traslado): Será cumplimentada por el destinatario (en caso de traslados de tipo MM e IM), por el poseedor (en caso de traslados ME) o por la persona responsable del traslado (en caso de traslados TT).
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_001.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/284/23825_17678972_1.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_002.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/284/23825_17678972_2.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_003.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/284/23825_17678972_3.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_004.png)
 
@@ -62,11 +62,11 @@ Sección A-6 o B-6 (acuse de recibo del traslado): Será cumplimentada por el de
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_010.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_011.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/284/23825_17678972_4.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_012.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/284/23825_17678972_5.png)
 
-![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_013.png)
+![imagen](https://www.boe.es/datos/imagenes/disp/2026/284/23825_17678972_6.png)
 
 ![imagen](https://www.boe.es/datos/imagenes/disp/2009/80/05489_014.png)
 
@@ -237,5 +237,7 @@ b) La declaración eventualmente redactada por un destinatario situado fuera de 
 El destinatario deberá remitir la sección 6 (acuse de recibo) junto con la sección 5 dependiendo del tipo de traslado a la autoridad competente del Estado miembro de destino en el caso de los traslados de tipo MM o IM, o al solicitante mencionado en el punto 5 de la sección 1 en el caso de los traslados de tipo ME o TT. Como recapitulación, se adjuntarán al acuse de recibo final las secciones 6 correspondientes a cada uno de los traslados cubiertos por la autorización.
 
 36. El destinatario deberá marcar «no aplicable» o cumplimentar el punto 36 para los traslados de tipo ME o TT o adjuntar una declaración como anexo, indicando la referencia a la misma. El solicitante deberá trasmitir las secciones 5 y 6 a la autoridad que concedió la autorización. Como recapitulación, se adjuntarán al acuse de recibo final las secciones 6 correspondientes a cada uno de los traslados cubiertos por la autorización.
+
+> Se sustituyen las secciones A-1 y B-1 por las que figuran en el anexo de la Resolución de 27 de octubre de 2026, según establece su apartado primero. Ref. BOE-A-2026-23825
 
 > Se modifica la letra c) del apartado 33 de las Notas explicativas por la disposición final 2.5 del Real Decreto 102/2014, de 21 de febrero. Ref. BOE-A-2014-2489#dfsegunda.
