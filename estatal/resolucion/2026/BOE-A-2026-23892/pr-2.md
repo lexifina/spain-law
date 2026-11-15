@@ -1,0 +1,3 @@
+## Primero. Aprobación de las Condiciones sobre el contenido mínimo de las plataformas web para facilitar la gestión del acceso a la red de distribución eléctrica para las infraestructuras de recarga de vehículo eléctrico y para las instalaciones de autoconsumo.
+
+Se aprueban las Condiciones sobre el contenido mínimo de las plataformas web previstas en el artículo 5.3 del Real Decreto 1183/2020, de 29 de diciembre, que los gestores de la red de distribución eléctrica deberán implementar para facilitar la gestión íntegra de los expedientes de acceso a la red para las infraestructuras de recarga de vehículo eléctrico y para las instalaciones de autoconsumo, las cuales se recogen como anexo.
