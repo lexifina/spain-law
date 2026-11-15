@@ -32,7 +32,8 @@ En `main`, `git blame` y `git log -p` indican el commit 57854db para cada línea
 
 - **[Pregunte a Claude sobre el derecho español](https://global-law.lexifina.com/v1/try_claude?country=spain)**: abre Claude con una primera pregunta preparada.
 - **[Pregunte a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=spain)**: la misma pregunta en ChatGPT.
-- **[Llame a la API en su navegador](https://global-law.lexifina.com/v1/search_law?query=vacaciones+anuales&jurisdictions=spain)**: una búsqueda de «vacaciones anuales» en el derecho español, con la respuesta en JSON. La documentación está [aquí](https://lexifina.com/api/global-law).
+- **[Busque en el derecho español en nuestro sitio](https://lexifina.com/law?country=spain&q=vacaciones+anuales)**: una búsqueda de «vacaciones anuales», con el texto de cada precepto y sus versiones, sin cuenta.
+- **[API REST para desarrolladores](https://global-law.lexifina.com/v1/search_law?query=vacaciones+anuales&jurisdiction=spain)**: la misma búsqueda en JSON, sin clave. La documentación está [aquí](https://lexifina.com/api/global-law).
 
 Ambos asistentes leen el registro a través del conector gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la primera vez, el chat le da el enlace para añadirlo. Pregunte en español o en inglés.
 
