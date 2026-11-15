@@ -27,6 +27,42 @@ CE = 'estatal/constitucion/1978/BOE-A-1978-31229'
 CC = 'estatal/real-decreto/1889/BOE-A-1889-4763'
 
 
+DOC_TOP = ('REPRODUCE.md', 'LICENSE', 'PLAN.md', 'SOURCES.md', '.gitattributes', '.gitignore')
+DOC_DIRS = ('data/', 'tools/', 'visualisations/', 'vulnerabilities/', 'registry/', 'monitoring/', 'build/')
+
+
+def is_doc_file(path):
+    """A file a documentation commit may touch, never law text: README*, REPRODUCE.md, LICENSE, PLAN.md, SOURCES.md,
+    *.csv and *.json at the top; anything under data/, tools/, visualisations/, vulnerabilities/, registry/, monitoring/, build/;
+    an act folder's README.md (no law text file is named README.md)."""
+    if '/' not in path:
+        return path.startswith('README') or path in DOC_TOP or path.endswith(('.csv', '.json'))
+    return path.startswith(DOC_DIRS) or path.endswith('/README.md')
+
+
+def doc_commit_problems(repo, rows):
+    """rows: (sha, In-force value) of each commit authored by Lexifina. Every one is a documentation commit (README,
+    charts, tools): no In-force trailer and no law text file (one git log --no-walk --name-only for all of them)."""
+    if not rows:
+        return []
+    out = subprocess.run(['git', '-c', 'core.quotePath=false', 'log', '--no-walk=unsorted', '--stdin', '--name-only',
+                          '--format=%x00%H'], cwd=repo, input=''.join(h + '\n' for h, _ in rows), capture_output=True,
+                         text=True, encoding='utf-8')
+    if out.returncode:
+        raise AssertionError(f'git log --no-walk: {out.stderr.strip()}')
+    files = {}
+    for block in out.stdout.split('\x00')[1:]:
+        lines = [l for l in block.splitlines() if l]
+        files[lines[0]] = lines[1:]
+    bad = []
+    for h, day in rows:
+        law = [f for f in files.get(h, []) if not is_doc_file(f)]
+        if day.strip() or law:
+            bad.append(h[:10] + (f' In-force {day.strip()}' if day.strip() else '')
+                       + (f' touches {len(law)} law text file(s), e.g. {law[0]}' if law else ''))
+    return bad
+
+
 def default_repo() -> Path:
     if (HERE.parent / '.git').exists():
         return HERE.parent
@@ -75,9 +111,12 @@ class Smoke:
         value = lambda key: t.get(key, [''])[0]
         kind, day = value('Kind').lower(), value('In-force')
         if author == 'Lexifina' and not kind and not day:
-            self.legacy_published(sha)
             # Historical documentation predates Kind. Recognize it only when its actual delta contains no act file.
+            # Documentation pushes (README, charts, tools) carry no Kind either: one whose delta is documentation files
+            # only needs no published pin; any other unlabelled maintainer commit must be in the pin.
             changed = self.git('diff-tree', '--root', '--no-commit-id', '--name-only', '-r', sha).splitlines()
+            if not all(is_doc_file(p) for p in changed):
+                self.legacy_published(sha)
             assert not any(p.startswith('estatal/') for p in changed), f'{sha}: unlabelled maintainer changed an act'
             return 'documentation'
         if author == 'Lexifina' and not kind and day:
@@ -144,6 +183,9 @@ class Smoke:
         except AssertionError as exc:
             self.results.append((name, False, str(exc)))
             print(f'FAIL {name}: {exc}')
+        except Exception as exc:  # any other error fails this check only; the run goes on
+            self.results.append((name, False, f'{type(exc).__name__}: {exc}'))
+            print(f'FAIL {name}: {type(exc).__name__}: {exc}')
 
     def blame(self):
         path = f'{CE}/a135.md'
@@ -211,7 +253,7 @@ class Smoke:
             assert committer == 'Lexifina' and committer_email == 'spain-law@lexifina.com', f'{sha}: invalid committer identity'
             if author == 'Lexifina':
                 maintainers += 1
-                assert email == 'spain-law@lexifina.com' and kind in ('documentation', 'correction', 'legacy sourced record'), f'{sha}: invalid maintainer author'
+                assert (email == 'spain-law@lexifina.com' or kind == 'documentation' and re.fullmatch(r'[a-z0-9-]+@lexifina\.com', email)) and kind in ('documentation', 'correction', 'legacy sourced record'), f'{sha}: invalid maintainer author'
             else:
                 assert email.endswith('@boe.invalid'), f'{sha}: normative author email not at boe.invalid'
         return f'{maintainers} maintainer commits classified and validated; all normative author and committer identities valid'
