@@ -85,6 +85,10 @@ See [`LICENSE`](LICENSE). Basado en datos de la Agencia Estatal Boletín Oficial
 
 No AI model wrote or changed legal text, and none runs when the history is built; the builder was written by Claude Code with Claude Opus 5.5, and the code for the later corrections by GPT-6, reviewed by GPT-6 Astra (see [`REPRODUCE.md`](REPRODUCE.md)).
 
+## Visualisations
+
+- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
