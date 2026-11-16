@@ -89,7 +89,13 @@ Esta es una traducción de la versión inglesa ([README.en.md](README.en.md)); s
 
 ## Visualizaciones
 
-- [visualisations/](visualisations/): gráficos hechos a partir de este repositorio. Aún no se han hecho.
+[visualisations/](visualisations/): el derecho español en 20 gráficos, a partir de los datos de este repositorio.
+
+Entre ellos:
+
+- Las normas en vigor y su edad, los acuerdos internacionales y las normas más modificadas
+- Los reales decretos-leyes y su convalidación, las leyes ómnibus y las leyes de presupuestos
+- El calendario del BOE, la Constitución, los códigos Civil y Penal y los tribunales
 
 ## Más información
 

@@ -87,7 +87,13 @@ No AI model wrote or changed legal text, and none runs when the history is built
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): Spanish law in 20 charts, drawn from this repository.
+
+Including:
+
+- The norms in force and their age, international agreements and the most changed norms
+- Royal decree-laws and their convalidation, omnibus laws and budget laws
+- The BOE's calendar, the Constitution, the Civil and Criminal Codes, and the courts
 
 ## More
 
