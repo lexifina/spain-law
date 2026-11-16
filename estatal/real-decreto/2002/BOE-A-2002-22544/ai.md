@@ -24,14 +24,6 @@ El titular debe disponer de registros de control mensual que constaten que no se
 
 En aquellas explotaciones en que se disponga de plan de bienestar animal, los rangos mencionados, estarán establecidos en su plan de bienestar animal.
 
-> Téngase en cuenta que esta actualización del punto 2 bis, establecida por la disposición final 3 del Real Decreto 346/2025, de 22 de abril, Ref. BOE-A-2025-8160#df-3, entra en vigor el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "2 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM los recintos de los edificios en los que se alojen los animales deben disponer de los sistemas adecuados como ventiladores, calefacción, aire acondicionado, ventilación natural o forzada u otros que permitan mantener los mismos los rangos de temperatura establecidos en su plan de bienestar animal para prevenir el estrés térmico para los cerdos.
-
-> Se aplicarán medidas correctoras en el caso de que los valores de temperatura en el interior de los recintos excedan de los rangos de temperatura establecidos en su plan de bienestar animal."
-
 3. Los locales de estabulación para los cerdos se construirán de forma que se minimice el contacto de los cerdos con la orina o el estiércol y que los animales puedan:
 
 a) Tener acceso a un área de reposo, confortable, desde el punto de vista físico y térmico, adecuadamente drenada y limpia, que permita que todos los animales se tumben al mismo tiempo.
@@ -40,9 +32,9 @@ b) Descansar y levantarse normalmente,
 
 c) Ver otros cerdos; sin embargo, en la semana anterior al momento previsto del parto y durante el mismo, las cerdas y las cerdas jóvenes podrán mantenerse fuera de la vista de los animales de su misma especie.
 
-3 bis. En explotaciones con una capacidad autorizada superior a 5,1 UGM, al menos el 2,5 % de las plazas destinadas al alojamiento en grupo de los animales de la explotación, en función de la incidencia de patologías u otras circunstancias de la misma, debe destinarse a zonas o espacios específicos y exclusivos para la observación y aislamiento de los animales que, por razones sanitarias o de bienestar animal, deban ser apartados del resto.
+3 bis. (Primer párrafo anulado)
 
-> Téngase en cuenta que esta última actualización del párrafo primero del punto 3 bis, establecida por el art. único.5.1 del Real Decreto 809/2025, de 16 de septiembre, Ref. BOE-A-2025-20205, entra en vigor el 9 de marzo de 2026, según determina su disposición final única.
+> Téngase en cuenta que se declara la nulidad del Real Decreto 809/2025, de 16 de septiembre, que modificaba el primer párrafo del punto 3 bis, por Sentencia del TS de 15 de octubre de 2026. Ref. BOE-A-2026-23897
 
 > Redacción anterior:
 
@@ -66,13 +58,9 @@ Deberá disponerse de materiales que permitan dichas actividades de investigaci�
 
 5. Los suelos serán lisos, pero no resbaladizos, para evitar daños a los cerdos y se diseñarán, construirán y cuidarán de forma que no causen daño o sufrimiento a los cerdos. Serán adecuados al tamaño y al peso de los cerdos y, si no se equipan con lechos de paja, formarán una superficie rígida, plana y estable.
 
-6. Se alimentará a todos los cerdos, al menos, una vez al día. En explotaciones con una capacidad autorizada superior a 5,1 UGM:
+6. (Anulado)
 
-a) Cuando los cerdos se alimenten a voluntad dispondrán de al menos un punto de alimentación por cada veinte animales, o por cada cinco animales si son lechones destetados de hasta 25 kg de peso vivo.
-
-b) Cuando los cerdos se alimenten en grupos y no a voluntad, o mediante un sistema automático de alimentación individual, cada cerdo tendrá acceso al alimento al mismo tiempo que los demás animales del grupo. En particular, cuando se alimenten en comederos lineales debe disponerse de 18 cm por cerdo destetado de hasta 25 kg de peso vivo, de 25 cm por cerdo de hasta 50 kg de peso vivo, y de 30 cm por cerdo de más de 50 kg de peso vivo.
-
-> Téngase en cuenta que esta última actualización del punto 6, establecida por el art. único.5.2 del Real Decreto 809/2025, de 16 de septiembre, Ref. BOE-A-2025-20205, entra en vigor el 9 de marzo de 2026, según determina su disposición final única.
+> Téngase en cuenta que se declara la nulidad del Real Decreto 809/2025, de 16 de septiembre, que modificaba el punto 6, por Sentencia del TS de 15 de octubre de 2026. Ref. BOE-A-2026-23897
 
 > Redacción anterior:
 
@@ -103,24 +91,6 @@ d) El anillado del hocico únicamente cuando los animales se mantengan en sistem
 El raboteo y la reducción de las puntas de los dientes no deberán ejecutarse por rutina sino únicamente cuando se disponga de una comunicación del resultado de los controles realizados en matadero según lo dispuesto en el artículo 4.4, o existan pruebas documentales con el contenido mínimo que se indica en el anexo II de que se han producido lesiones de las tetillas de las cerdas o las orejas o rabos de otros cerdos en el año anterior a la propuesta de raboteo realizada por el profesional veterinario de explotación o si no se dispone del mismo, de un profesional veterinario. Antes de su ejecución, se adoptarán medidas para prevenir la caudofagia y otros vicios teniendo en cuenta las condiciones ambientales y la carga ganadera. Por esta razón, las condiciones ambientales o los sistemas de gestión deberán modificarse si resultan inadecuados. Dicha modificación debe reflejarse documentalmente, con el contenido mínimo que se indica en el anexo III. En caso de demostrarse necesario realizar dichos procedimientos, se debe dejar constancia de la fecha, número de animales, edad de estos e identificación de la persona que lo realiza.
 
 Solamente un profesional veterinario o una persona formada, tal como se contempla en el artículo 5 de este real decreto, con experiencia en la ejecución de las técnicas aplicadas, podrá realizar con los medios adecuados y en condiciones higiénicas cualquiera de los procedimientos descritos anteriormente. En caso de que la castración o el raboteo se realicen a partir del séptimo día de vida se llevarán a cabo únicamente mediante una anestesia y una analgesia prolongada practicada por un profesional veterinario.
-
-> Téngase en cuenta que esta actualización del punto 8, establecida por la disposición final 3 del Real Decreto 346/2025, de 22 de abril, Ref. BOE-A-2025-8160#df-3, entra en vigor el 1 de junio de 2025, según determina su disposición final 10.
-
-> Redacción anterior:
-
-> "8. Se prohibirán todos los procedimientos no debidos a motivos terapéuticos o de diagnóstico, o destinados a la identificación de los cerdos de conformidad con la normativa pertinente y que provoquen lesiones o la pérdida de una parte sensible del cuerpo o la alteración de la estructura ósea, con las excepciones siguientes, a propuesta motivada del veterinario de explotación y previa comunicación a la autoridad competente:
-
-> a) Una reducción uniforme de las puntas de los dientes de los lechones mediante el pulido o sección parcial, antes de que superen los siete días de vida, dejando una superficie lisa intacta; en caso necesario puede reducirse la longitud de los colmillos de los verracos para evitar lesiones a otros animales o por razones de seguridad.
-
-> b) El raboteo parcial. La longitud de cola residual debe, como mínimo, cubrir la vulva en las hembras y el esfínter anal en los machos.
-
-> c) La castración de los cerdos macho por medios que no sean el desgarre de tejidos.
-
-> d) El anillado del hocico únicamente cuando los animales se mantengan en sistemas de cría al aire libre y de acuerdo con la normativa nacional.
-
-> El raboteo y la reducción de las puntas de los dientes no deberán ejecutarse por rutina sino únicamente cuando se disponga de una comunicación del resultado de los controles realizados en matadero según lo dispuesto en el artículo 4.4, o existan pruebas documentales con el contenido mínimo que se indica en el anexo II de que se han producido lesiones de las tetillas de las cerdas o las orejas o rabos de otros cerdos en el año anterior a la propuesta de raboteo realizada por el del veterinario de explotación. Antes de su ejecución, se adoptarán medidas para prevenir la caudofagia y otros vicios teniendo en cuenta las condiciones ambientales y la carga ganadera. Por esta razón, las condiciones ambientales o los sistemas de gestión deberán modificarse si resultan inadecuados. Dicha modificación debe reflejarse documentalmente, con el contenido mínimo que se indica en el anexo III. En caso de demostrarse necesario realizar dichos procedimientos, se debe dejar constancia de la fecha, número de animales, edad de los mismos e identificación de la persona que lo realiza.
-
-> Solamente un veterinario o una persona formada, tal como se contempla en el artículo 5 de este real decreto, con experiencia en la ejecución de las técnicas aplicadas, podrá realizar con los medios adecuados y en condiciones higiénicas cualquiera de los procedimientos descritos anteriormente. En caso de que la castración o el raboteo se realicen a partir del séptimo día de vida se llevarán a cabo únicamente mediante una anestesia y una analgesia prolongada practicada por personal veterinario."
 
 9. No deberán introducirse en las explotaciones animales raboteados a menos que:
 
@@ -169,6 +139,8 @@ D) Lechones destetados y cerdos de producción.
 3. Cuando aparezcan signos de pelea violenta, se investigarán inmediatamente las causas y se adoptarán las medidas adecuadas, como, por ejemplo, ofrecer paja abundante a los animales, si fuese posible, u otros materiales para investigación. Los animales en peligro o los agresores específicos se mantendrán separados del grupo.
 
 4. El uso de tranquilizantes para facilitar la mezcla se limitará a condiciones excepcionales y únicamente previa consulta con personal veterinario.
+
+> Se declara la nulidad del Real Decreto 809/2025, de 16 de septiembre, que modificaba los puntos 3 bis, párrafo primero, y 6 del capítulo I de este anexo, por Sentencia del TS de 15 de octubre de 2026. Ref. BOE-A-2026-23897
 
 > Se modifican los puntos 3 bis, párrafo primero, y 6 del capítulo I, con efectos de 9 de marzo de 2026, por el art. único.4 del Real Decreto 809/2025, de 16 de septiembre. Ref. BOE-A-2025-20205
 
