@@ -63,6 +63,7 @@ Each change is credited to the norm the BOE names for it, as `BOE-A-2025-15741 (
 - A second build from the same data gave the same law history (`law-head` 56dbb7491cbd); the original build's facts are in `REPRODUCE.md` at commit `ee54e80`.
 - Each later correction is checked against the BOE: kept notices word for word with its XML, unchanged files with the published base, and 30 repeals against the BOE independently (see [`REPRODUCE.md`](REPRODUCE.md)).
 - History is append-only: no merge commits, and no published commit is rewritten.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Spanish law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 

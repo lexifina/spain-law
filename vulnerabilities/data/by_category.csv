@@ -1,0 +1,13 @@
+category,category_es,flags,in_law_texts,model_reviewed,candidate_defects,survive_rebuttal
+Lapsed time limits,Plazos vencidos,4266,4266,41,3,3
+Same-day conflicts,Modificaciones del mismo día,197,197,40,4,4
+Retroactive or pre-publication dates,Vigencia anterior a la publicación,474,474,40,5,4
+Empty periods,Periodos de vacío normativo,113,113,51,40,33
+Stale amounts,Importes no actualizados,449,449,42,20,20
+References to deleted provisions,Remisiones a preceptos inexistentes,1,1,1,0,0
+References to repealed placeholders,Remisiones a preceptos sin contenido,5470,2229,0,0,0
+Dead fines,Sanciones sin tipo infractor,52,52,0,0,0
+Duplicate numbering,Numeración duplicada,36,36,0,0,0
+Dead currencies,Monedas sin curso legal,4965,4965,0,0,0
+Publisher notes,Notas del editor,74,64,0,0,0
+Citations of acts no longer in force,Remisiones a normas no vigentes,3860,3860,34,7,7

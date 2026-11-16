@@ -63,6 +63,7 @@ Cada cambio se atribuye a la norma que el BOE indica para él, como `BOE-A-2025-
 - Una segunda construcción a partir de los mismos datos dio el mismo historial de derecho (`law-head` 56dbb7491cbd); los datos de la construcción original están en `REPRODUCE.md` en el commit `ee54e80`.
 - Cada corrección posterior se comprueba frente al BOE: los avisos conservados, palabra por palabra con su XML; los archivos sin cambios, con la base publicada; y 30 derogaciones, frente al BOE de forma independiente (véase [`REPRODUCE.md`](REPRODUCE.md)).
 - El historial solo se amplía: no hay commits de fusión y ningún commit publicado se reescribe.
+- [vulnerabilities/](vulnerabilities/): posibles errores de técnica normativa en el derecho español, hallados por los detectores de global-law y comprobados a mano.
 
 ## Lo que no muestra
 
