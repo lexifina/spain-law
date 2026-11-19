@@ -22,7 +22,9 @@ Para aplicar lo previsto en el párrafo anterior, además será necesario que el
 
 5. En relación con ejercicios posteriores a 2014, mediante Ley de Presupuestos Generales del Estado se podrá habilitar, atendiendo a la coyuntura económica, la prórroga del plazo de aplicación previsto en este artículo.
 
-> Téngase en cuenta que se prorroga para 2025, 2026 y 2027 la aplicación de las reglas contenidas en esta disposición, según establece el art. 1 del Real Decreto-ley 15/2025, de 2 de diciembre. Ref. BOE-A-2025-24446
+> Téngase en cuenta que se prorroga para 2027 la aplicación de las reglas contenidas en la presente disposición, en relación con el destino del superávit presupuestario de las Entidades Locales correspondiente al año 2026, en la forma establecida por el art. 4 del Real Decreto-ley 38/2026, de 17 de noviembre. Ref. BOE-A-2026-24120
+
+> Se prorroga para 2027 la aplicación de las reglas contenidas en la presente disposición, en relación con el destino del superávit presupuestario de las Entidades Locales correspondiente al año 2026, en la forma establecida por el art. 4 del Real Decreto-ley 38/2026, de 17 de noviembre. Ref. BOE-A-2026-24120
 
 > Se prorroga su aplicación para 2025, 2026 y 2027 por el art. 1 del Real Decreto-ley 15/2025, de 2 de diciembre. Ref. BOE-A-2025-24446
 
