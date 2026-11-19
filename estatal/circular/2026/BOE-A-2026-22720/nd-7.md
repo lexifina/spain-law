@@ -1,0 +1,3 @@
+## Norma decimoséptima. Cesión de datos al Ministerio de Hacienda.
+
+El Banco de España facilitará al Ministerio de Hacienda la siguiente información declarada a nombre de titulares de riesgos, directos e indirectos, que pertenezcan a los sectores institucionales Administraciones públicas españolas o sean entidades dependientes de dichas Administraciones: datos que identifican a las personas, datos básicos de las operaciones y de las relaciones con las personas, datos dinámicos de las operaciones en las que intervengan, datos sobre tipos de interés y datos que vinculan códigos. Adicionalmente, también enviará los datos que relacionan a los titulares con las entidades que integran el sector público español.
