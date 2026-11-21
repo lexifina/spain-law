@@ -1,0 +1,3 @@
+## Disposición adicional tercera. Adecuación de la especialidad de conocimiento como perfil de una plaza a los requisitos de las titulaciones habilitantes sanitarias.
+
+Cuando una plaza de profesorado incluya de forma principal la docencia de materias o asignaturas orientadas a la adquisición de competencias profesionales propias de una profesión sanitaria titulada y regulada por una orden ministerial específica, en las bases de la convocatoria se deberán prever los requisitos de la titulación habilitante o de la cualificación profesional concreta, que resulten necesarios y proporcionados para garantizar la idoneidad de las especialidades que delimitan el perfil o los perfiles de la plaza.

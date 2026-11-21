@@ -1,0 +1,3 @@
+## Disposición adicional cuarta. Validez de las acreditaciones previas emitidas por las agencias de calidad.
+
+Las disposiciones previstas en este real decreto relativas al perfil o perfiles de las plazas mediante una especialidad de conocimiento se aplicarán a los concursos de acceso del personal docente e investigador, así como a la adscripción de los puestos de trabajo a los ámbitos de conocimiento. En consecuencia, las acreditaciones previas emitidas por el Organismo Autónomo Agencia Nacional de Evaluación de la Calidad y Acreditación o las otras agencias de evaluación de las comunidades autónomas, en el ejercicio de sus respectivas competencias, mantendrán su plena validez para el acceso a los referidos concursos.
