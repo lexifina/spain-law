@@ -12,11 +12,13 @@ c) El plazo máximo para la resolución y notificación de la resolución del pr
 
 d) El plazo para presentación de solicitud de modificaciones mayores a que se refiere el artículo 28.4 se amplía al 31 de marzo de cada anualidad.
 
-e) El plazo para la justificación y solicitud del pago por parte de los beneficiarios a que se refiere el artículo 29.3 se amplía hasta el 30 de junio de cada anualidad. Todos los pagos correspondientes a esta convocatoria se efectuarán a más tardar, el 31 de diciembre de 2029, salvo que se den los supuestos recogidos en el artículo 22 de la Ley 39/2015, de 1 de octubre.
+e) El plazo para la justificación y solicitud del pago por parte de los beneficiarios a que se refiere el artículo 29.2 se amplía hasta el 30 de junio de cada anualidad. Todos los pagos correspondientes a esta convocatoria se efectuarán a más tardar, el 31 de diciembre de 2029, salvo que se den los supuestos recogidos en el artículo 22 de la Ley 39/2015, de 1 de octubre.
 
 f) El plazo de remisión por las comunidades autónomas del informe anual del resultado de las operaciones de inversión establecido en el artículo 32.2 se amplía hasta el 31 de enero del año siguiente a la anualidad correspondiente.
 
 3. La concesión de las ayudas previstas en esta disposición queda condicionada a la existencia de crédito adecuado y suficiente en el correspondiente fondo europeo del periodo de programación 2028-2034 y en las correspondientes aplicaciones presupuestarias del FEGA o de las comunidades autónomas; a su inclusión en el plan regional y nacional relativo a la Política Agrícola Común; y a su sujeción a la correspondiente normativa europea del siguiente periodo de programación.
+
+> Se modifica la letra e) del apartado 2 por la disposición final 1 del Real Decreto 1019/2026, de 18 de noviembre. Ref. BOE-A-2026-24309
 
 > Se deroga el inciso final del apartado 3 por la disposición derogatoria única del Real Decreto 810/2026, de 7 de octubre. Ref. BOE-A-2026-20912
 
