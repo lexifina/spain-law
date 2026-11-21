@@ -8,13 +8,13 @@ A. Redes de enmalle de un solo paño
 
 1. Cada uno de los paños de red que componen el arte tendrá una longitud máxima de 50 metros. La altura máxima de cada paño de red se determinará mediante la distancia entre las relingas superior e inferior y será de 3 metros en el caladero del Cantábrico y Noroeste. No obstante, de manera local para los buques que faenen en aguas exteriores cuyo puerto base esté en la Comunidad Autónoma de Galicia para el uso de la volantilla se permitirá una altura de hasta 70 mallas en sentido vertical independientemente del tamaño de la malla.
 
-En el caladero del Golfo de Cádiz la altura máxima de cada paño será de 4 metros y de 5 metros en el caladero del Mediterráneo.
+En el caladero del Golfo de Cádiz la altura máxima de cada paño será de 10 metros, siempre que la longitud máxima no supere los 3.000 metros. En el caladero del Mediterráneo la altura máxima de cada paño será de 5 metros.
 
 En el caso del caladero del Golfo de Cádiz, entre la relinga superior del arte, una vez calado el mismo y la superficie del mar deberá quedar un espacio libre de, al menos, 1,5 metros.
 
 Asimismo, en el caso del caladero Mediterráneo se permitirá una altura máxima de caída del paño de la red de 10 metros, si la longitud total del arte no excede de 2.500 metros; o bien una altura máxima de caída del paño de la red de 20 metros si la longitud total del arte no excede de 1.250 metros.
 
-2. La longitud máxima total del arte, medido de puño a puño, no podrá exceder de 4.500 metros.
+2. La longitud máxima total del arte, medido de puño a puño, no podrá exceder de 4.500 metros en el caso de un solo tripulante enrolado y presente a bordo, de 6.750 metros en el caso de dos tripulantes enrolados y presentes a bordo y de 9.000 metros en el caso de tres o más tripulantes enrolados y presentes a bordo.
 
 No obstante lo anterior, en el caladero Mediterráneo la longitud máxima total del arte, medido de puño a puño, no podrá ser superior a la que corresponde a 2.000 metros por cada tripulante enrolado y presente a bordo, sin que se pueda sobrepasar, en ningún caso, la cifra global de 6.000 metros de longitud total.
 
@@ -40,11 +40,11 @@ No obstante, en esa área y durante el periodo mencionados en el párrafo anteri
 
 B. Redes de enmalle de varios paños
 
-1. Cada una de las piezas de red que componen el arte tendrá una longitud máxima de 50 metros. La altura máxima de cada paño de red se determinará mediante la distancia entre las relingas superior e inferior y será de 2 metros en el caladero del Cantábrico y Noroeste y de 4 metros en los caladeros del Golfo de Cádiz y del Mediterráneo.
+1. Cada una de las piezas de red que componen el arte tendrá una longitud máxima de 50 metros. La altura máxima de cada paño de red se determinará mediante la distancia entre las relingas superior e inferior y será de 2 metros en el caladero del Cantábrico y Noroeste, de 4 metros en el caladero del Mediterráneo y de 10 metros en el del Golfo de Cádiz, siempre que la longitud máxima no supere los 3.000 metros.
 
 Para la pesca de la langosta en las Illes Balears acorde a la Orden APA/201/2023, de 26 de febrero, por la que se establece un plan de gestión para la pesca de la langosta (Palinurus spp.) en las aguas exteriores adyacentes a las Illes Balears, la altura de la red no podrá superar los 2 metros.
 
-2. La longitud máxima total del arte, medido de puño a puño, no podrá exceder de 4.500 metros.
+2. La longitud máxima total del arte, medido de puño a puño, no podrá exceder de 4.500 metros en el caso de un solo tripulante enrolado y presente a bordo, de 6.750 metros en el caso de dos tripulantes enrolados y presentes a bordo y de 9.000 metros en el caso de tres o más tripulantes enrolados y presentes a bordo.
 
 No obstante lo anterior, para el caladero Mediterráneo dicha longitud no podrá ser superior a la que corresponde a 2.000 metros por cada tripulante enrolado y presente a bordo, sin que se pueda sobrepasar, en ningún caso, la cifra global de 6.000 metros de longitud total.
 
@@ -111,6 +111,8 @@ E. Solta
 2. El arte tendrá una longitud máxima de 300 metros.
 
 3. La altura del arte no sobrepasará los 30 metros.
+
+> Se modifica por la disposición final 6.4 a 7 del Real Decreto 1017/2026, de 18 de noviembre. Ref. BOE-A-2026-24307#df-6
 
 > Se modifican los apartados I.A.3.iii) y I.B.3 por el art. único.2 de la Orden APA/1513/2024, de 30 de diciembre. Ref. BOE-A-2025-179
 

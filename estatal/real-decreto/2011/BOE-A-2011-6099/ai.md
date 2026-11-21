@@ -125,7 +125,7 @@
 | Scyliorhinus spp. | Pintarroja, alital. | SCL |
 | Scymnodon ringens. | Bruja. | SYR |
 | Seriola dumerili. | Pez de limón. | AMB |
-| Seriola fascista. | Medegral listado. | RLF |
+| Seriola fasciata. | Medegral listado. | RLF |
 | Serranus cabrilla. | Cabrilla. | CBR |
 | Serranus scriba. | Serrano. | SRK |
 | Solea solea. | Lenguado europeo. | SOL |
@@ -177,5 +177,7 @@
 | Todaropsis eblanae. | Pota costera. | TDQ |
 
 * Especies sometidas a medidas de protección diferenciada sujetos a las prescripciones técnicas y limitaciones reguladas en su normativa específica.
+
+> Se modifica por la disposición final 4 del Real Decreto 1017/2026, de 18 de noviembre. Ref. BOE-A-2026-24307#df-4
 
 > Se modifica por el art. 5 de la Orden APA/21/2021, de 19 de enero. Ref. BOE-A-2021-838
