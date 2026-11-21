@@ -1,5 +1,1 @@
-Esta norma se encuentra totalmente derogada, con efectos de 21 de noviembre de 2026, al derogarse el Anexo I, último apartado que quedaba vigente, por la disposición derogatoria única del Real Decreto 1025/2026, de 18 de noviembre. Ref. BOE-A-2026-24316#dd
-
-Norma derogada, con efectos de 7 de septiembre de 2023, salvo el anexo I, que mantiene su vigencia hasta la entrada en vigor del listado de especialidades de conocimiento al que hace referencia la disposición transitoria 2 del Real Decreto 678/2023, de 18 de julio, según establece su disposición derogatoria única.1.a). Ref. BOE-A-2023-19027#dd
-
-Con fecha 1 de enero de 2024 se constituyen las comisiones de acreditación, con las especialidades de conocimiento que se asignan a cada comisión, que sustituyen a las comisiones recogidas en el Anexo I del presente Real Decreto, que queda suprimido, según establece el apartado tercero de la Resolución de 14 de noviembre de 2023. Ref. BOE-A-2023-23709
+Esta norma fue derogada, salvo su anexo I, con efectos de 7 de septiembre de 2023, por la disposición derogatoria única.1.a) del Real Decreto 678/2023, de 18 de julio, Ref. BOE-A-2023-19027#dd, anexo que ha sido derogado, con efectos de 21 de noviembre de 2026, por la disposición derogatoria única del Real Decreto 1025/2026, de 18 de noviembre. Ref. BOE-A-2026-24316#dd
