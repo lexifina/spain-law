@@ -1,4 +1,4 @@
-## Disposición adicional trigésima primera. Bancos de pruebas regulatorios del Sistema Español de Ciencia, Tecnología e Innovación.
+## Disposición adicional trigésima primera. Bancos de pruebas del Sistema Español de Ciencia, Tecnología e Innovación.
 
 1. Con el fin de fomentar la investigación y la innovación de vanguardia, el Gobierno y las Comunidades Autónomas en sus ámbitos de competencia podrán establecer bancos de pruebas regulatorios que permitan la ejecución de proyectos piloto de I+D+I con arreglo a un marco normativo y administrativo adecuados, para garantizar el respeto a la legalidad y la competitividad internacional del Sistema Español de Ciencia, Tecnología e Innovación.
 
@@ -15,5 +15,19 @@ Los proyectos que se repitan de manera recurrente en este tipo de bancos de prue
 4. Las autoridades con competencias en la materia cooperarán entre sí para garantizar que los bancos de pruebas regulatorios sirvan a los objetivos y principios rectores previstos en esta ley, facilitando, dentro de su ámbito competencial y con las garantías adecuadas, la ejecución de los correspondientes proyectos y actividades.
 
 5. Para la elección de la ubicación de estos bancos de pruebas regulatorios se tendrá en cuenta como criterio de selección su implantación en áreas despobladas, así como otros criterios de cohesión territorial.
+
+6. Las Entidades que integran la Administración Local podrán establecer bancos de pruebas para el desarrollo, impulso y ejecución de proyectos innovadores o tecnológicos.
+
+Los bancos de pruebas permitirán, con carácter temporal, la realización de actuaciones y proyectos piloto en entornos relevantes o reales.
+
+Dichos bancos de pruebas serán objeto de aprobación por los respectivos órganos de gobierno, administración o representación de la correspondiente Entidad Local, mediante la adopción de cuantos instrumentos jurídicos, reglamentarios o de carácter ejecutivo, resulten precisos.
+
+Mediante la suscripción de los correspondientes acuerdos o convenios, los bancos de pruebas podrán implicar la colaboración de varias Entidades Locales para el mejor desarrollo y cumplimiento de sus fines.
+
+Las Entidades Locales deberán adoptar un protocolo de pruebas, resultando de aplicación al mismo lo previsto en el apartado 2.
+
+Corresponderá a las entidades locales respectivas la supervisión y control de los bancos de pruebas que establezcan.
+
+> Se modifica el título y se añade el apartado 6 por el art. 30.2 del Real Decreto-ley 40/2026, de 20 de noviembre. Ref. BOE-A-2026-24437#a3-2
 
 > Se añade por el art. único.53 de la Ley 17/2022, de 5 de septiembre. Ref. BOE-A-2022-14581#au
