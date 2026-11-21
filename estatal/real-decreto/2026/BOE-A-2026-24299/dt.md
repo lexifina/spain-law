@@ -1,0 +1,5 @@
+## Disposición transitoria primera. Régimen transitorio de la Dirección de la Agencia y de los órganos y unidades suprimidos.
+
+1. Hasta tanto se proceda al nombramiento de la persona titular de la Dirección de la AESAP, conforme a las previsiones del artículo 13 del Estatuto de la Agencia Estatal de Salud Pública, esta se ejercerá de forma transitoria por la persona titular de la Dirección General de Salud Pública y Equidad en Salud.
+
+2. El Centro de Coordinación de Alertas y Emergencias Sanitarias continuará transitoriamente en el ejercicio de sus funciones hasta la fecha de nombramiento de las personas titulares de los órganos directivos de la AESAP que asuman sus funciones. Hasta la aprobación de la relación de puestos de trabajo de la AESAP, las unidades y puestos de trabajo del Ministerio de Sanidad y del Instituto de Salud Carlos III, O.A., con nivel orgánico inferior al de subdirección que se incorporen a la AESAP, subsistirán transitoriamente y serán retribuidos con cargo a los mismos créditos presupuestarios.

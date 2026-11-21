@@ -1,0 +1,7 @@
+## Disposición transitoria cuarta. Régimen presupuestario y de rendición de cuentas transitorio.
+
+1. Hasta que la AESAP no disponga de presupuesto propio, sus gastos se imputarán con cargo a créditos del Ministerio de Sanidad y del Instituto de Salud Carlos III, O.A., según corresponda, con arreglo al acuerdo que previamente se establezca, debiendo las eventuales modificaciones que la aplicación de este real decreto pudiera requerir, financiarse según proceda, con cargo a las disponibilidades presupuestarias de los citados Ministerio y Organismo.
+
+2. Mientras la AESAP no disponga de presupuesto propio, no se alterará la estructura presupuestaria vigente, desarrollando la AESAP su actuación de acuerdo con el régimen presupuestario, de contabilidad y control y de rendición de cuentas aplicable a los servicios correspondientes, en los términos previstos en las leyes de Presupuestos Generales del Estado anuales y en la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+
+3. Resultará de aplicación a lo previsto, la Orden HAP/801/2014, de 9 de mayo, por la que se regula el procedimiento de rendición de cuentas anuales en los casos de modificaciones estructurales entre entidades del sector público que supongan la extinción de entidades públicas sin que exista un procedimiento de liquidación conforme al artículo 138.6 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.
