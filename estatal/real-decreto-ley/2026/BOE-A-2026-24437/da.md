@@ -1,0 +1,5 @@
+## Disposición adicional primera. Concesión de un crédito extraordinario en el ejercicio 2027 en el Presupuesto de la sección 28 «Ministerio de Ciencia, Innovación y Universidades» para atender gastos de investigación, desarrollo e innovación.
+
+Desde 1 de enero de 2027 hasta la aprobación de la Ley de Presupuestos Generales del Estado para el año 2027 al objeto de reforzar el Sistema Español de Ciencia Tecnología e Innovación, se concede un crédito extraordinario en el presupuesto de 2027 de la sección 28 «Ministerio de Ciencia, Innovación y Universidades», Servicio 06 «Secretaría General de Investigación», Programa 463B «Fomento y coordinación de la investigación científica y técnica», capítulo 6 «inversiones reales», concepto 640 «Gastos en inversiones de carácter inmaterial», que se financiará de conformidad con lo establecido en el artículo 59 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria por importe de 1.200 millones de euros.
+
+Al crédito extraordinario anterior no le resultaran de aplicación las restricciones recogidas en el artículo 52.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria.

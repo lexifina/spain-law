@@ -73,6 +73,7 @@ Texto consolidado de carácter meramente informativo. Basado en datos de la Agen
 - [Artículo 36 quater](a3-6.md)
 - [Artículo 36 quinquies](a3-7.md)
 - [Artículo 36 sexies](a3-8.md)
+- [Artículo 36 septies](a3-9.md)
 - [Artículo 37](a37.md)
 - [Artículo 38](a38.md)
 - [CAPÍTULO III](ciii-2.md)
