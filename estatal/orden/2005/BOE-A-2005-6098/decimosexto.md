@@ -78,6 +78,8 @@ Los Jefes que se mencionan a continuación, dependientes de la Dirección Genera
 
 En el ámbito de la Agrupación de Tráfico de la Guardia Civil se estará a lo dispuesto en la Orden de 10 de mayo de 1980, sobre relaciones de dicha Agrupación con la Dirección General de Tráfico, modificada por las Órdenes de 29 de diciembre de 1994 y de 5 de abril de 2001, y demás normativa aplicable.
 
+2.bis. Por delegación de la persona titular de la Subsecretaría del Interior, en el Mando de Personal, la resolución de las solicitudes de los guardias civiles de reconocimiento de compatibilidad para actividades privadas en los términos y condiciones previstos en el Real Decreto 517/1986, de 21 de febrero, de incompatibilidades del personal militar.
+
 3. Por delegación del Director General de la Guardia Civil:
 
 3.1 El Mando de Operaciones las atribuciones que se confieren en los Reglamentos de Armas, Explosivos y Artículos Pirotécnicos y Cartuchería con las excepciones contempladas en los puntos 3.3, 3.4, 3.5 y 3.6 de este apartado.
@@ -115,6 +117,8 @@ Asimismo, la atribución del artículo 3.b) del Real Decreto 740/1983, de 30 de 
 3.7.1 El nombramiento de instructor y la resolución de los expedientes incoados por responsabilidad administrativa.
 
 3.7.2 El nombramiento de instructor y la resolución de los expedientes de resarcimiento, siempre que la cuantía de la indemnización solicitada no exceda de cinco veces el sueldo mensual del empleo de Guardia Civil.
+
+> Se añade el apartado 2.bis por el art. único.2 de la Orden INT/1243/2026, de 18 de noviembre. Ref. BOE-A-2026-24409
 
 > Se modifica el apartado 1 por el art. único de la Orden INT/1373/2024, de 30 de noviembre. Ref. BOE-A-2024-25437
 
