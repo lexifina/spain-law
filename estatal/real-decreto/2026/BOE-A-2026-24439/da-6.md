@@ -1,0 +1,11 @@
+## Disposición adicional sexta. Condiciones relativas a la cuota de generación renovable del sistema eléctrico nacional.
+
+1. Los requisitos de adicionalidad y correlación horaria previstos en los artículos 7 y 8 se considerarán cumplidos cuando la cuota de generación renovable en la generación de energía eléctrica del sistema eléctrico nacional haya superado el 90 por ciento en el año natural n-2, siendo n el año natural en que se presente la solicitud del permiso de acceso y conexión ante el gestor de red. En tal caso, el permiso de acceso se otorgará condicionado a que el número de horas en las que el centro de datos tome electricidad de la red en un año natural no supere el número máximo de horas establecido conforme al apartado 3.
+
+2. Una vez que la cuota de generación renovable supere el 90 por ciento en un año natural, seguirá considerándose superior a dicho porcentaje durante los cinco años naturales siguientes.
+
+3. Para cada año natural n, el número máximo de horas se calculará multiplicando el número total de horas de dicho año por la cuota de generación renovable del año n-2. La cuota de generación renovable se determinará de acuerdo con la metodología establecida en el artículo 7 de la Directiva (UE) 2023/2413 del Parlamento Europeo y del Consejo, de 18 de octubre de 2023, por la que se modifican la Directiva (UE) 2018/2001, el Reglamento (UE) 2018/1999 y la Directiva 98/70/CE en lo que respecta a la promoción de la energía procedente de fuentes renovables y por la que se deroga la Directiva (UE) 2015/652 del Consejo.
+
+4. La persona titular del órgano superior de la Administración General del Estado que tenga atribuidas las competencias en materia de formulación de la política energética publicará mediante resolución en el «Boletín Oficial del Estado», al menos dos meses antes del inicio del año n, el número máximo de horas y la cuota de generación renovable a que se refiere el apartado anterior. A los efectos del otorgamiento de los permisos de acceso y conexión, en tanto no se haya publicado dicha resolución se entenderá que dicha cuota es inferior al 90 por ciento.
+
+5. Suscrito el contrato ATR, el gestor de red verificará el cumplimiento del límite de horas de consumo establecido en este artículo.

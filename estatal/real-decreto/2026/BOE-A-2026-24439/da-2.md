@@ -1,0 +1,5 @@
+## Disposición adicional segunda. Renuncia de las solicitudes de acceso por parte de los centros de datos.
+
+Los promotores, entidades operadoras o titulares de centros de datos que contasen con solicitudes de otorgamiento de los permisos de acceso y conexión que no se hubieran resuelto a la entrada en vigor de este real decreto, o que contasen con permisos de acceso y conexión ya otorgados cuyas instalaciones no se hubiesen conectado a la red eléctrica, podrán renunciar a dicha solicitud o permiso en el plazo de seis meses desde la entrada en vigor de este real decreto.
+
+Dicha renuncia no supondrá la ejecución de las garantías depositadas en virtud de lo previsto en el artículo 23 bis del Real Decreto 1183/2020, de 29 de diciembre, ni en virtud de la disposición transitoria tercera del Real Decreto-ley 8/2023, de 27 de diciembre, por el que se adoptan medidas para afrontar las consecuencias económicas y sociales derivadas de los conflictos en Ucrania y Oriente Próximo, así como para paliar los efectos de la sequía.

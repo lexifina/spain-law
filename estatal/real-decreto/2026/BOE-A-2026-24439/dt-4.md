@@ -1,0 +1,5 @@
+## Disposición transitoria cuarta. Solicitudes suspendidas por activación de un concurso de capacidad de demanda.
+
+No obstante lo previsto en la disposición transitoria tercera, en relación con las solicitudes de otorgamiento de la capacidad de acceso y conexión a las redes de transporte y distribución de energía eléctrica presentadas por promotores, entidades operadoras o titulares de centros de datos que se encuentren suspendidas por activación de un concurso de capacidad de demanda conforme al artículo 20 quater.1.c) del Real Decreto 1183/2020, de 29 de diciembre, si, transcurridos tres meses desde la entrada en vigor de este real decreto, los titulares no hubieran acreditado los requisitos y condiciones establecidos en esta norma, previo requerimiento de subsanación y trámite de audiencia, se denegarán dichas solicitudes.
+
+El operador del sistema analizará si, a la vista de dichas denegaciones, procede otorgar la capacidad de acceso a las restantes solicitudes de acceso al nudo que permaneciesen suspendidas o si, por el contrario, procede liberar el nudo y desactivar su concurso por no existir otras solicitudes a las que conceder el acceso.

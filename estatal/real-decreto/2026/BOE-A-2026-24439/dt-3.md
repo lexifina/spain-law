@@ -1,0 +1,3 @@
+## Disposición transitoria tercera. Solicitudes en tramitación.
+
+Las solicitudes de otorgamiento de la capacidad de acceso y conexión a las redes de transporte y distribución de energía eléctrica presentadas por promotores, entidades operadoras o titulares de centros de datos que no se hayan resuelto favorablemente a la entrada en vigor de este real decreto quedarán sometidas a las exigencias previstas en esta norma. Por ello, si transcurridos tres meses desde la entrada en vigor de este real decreto, los solicitantes no hubieran acreditado los requisitos y condiciones establecidos en esta norma, previo requerimiento de subsanación y trámite de audiencia, se denegarán dichas solicitudes.
