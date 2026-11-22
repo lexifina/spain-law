@@ -14,6 +14,8 @@
 
 5.º Incumplir la obligación de presentar el plan de seguimiento de emisiones.
 
+6.º Incumplir la obligación de la compensación con unidades exigida por el artículo 41.2.
+
 3. Son infracciones administrativas graves:
 
 1.º Ocultar o alterar intencionadamente la información exigida en el artículo 36.
@@ -29,6 +31,8 @@
 2.º Incumplir las normas reguladoras de los informes anuales verificados, siempre que no implique alteración de los datos de emisiones.
 
 3.º Incumplir cualesquiera otras obligaciones establecidas en esta ley, cuando tal cosa no haya sido tipificada como infracción administrativa muy grave o grave en los apartados precedentes.
+
+> Se añade el punto 6 al apartado 2 por el art. único.21 del Real Decreto-ley 41/2026, de 20 de noviembre. Ref. BOE-A-2026-24438
 
 > Se modifica por el art. único.26 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
 

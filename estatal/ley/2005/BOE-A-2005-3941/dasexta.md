@@ -1,6 +1,6 @@
 ## Disposición adicional sexta. Compensación de costes indirectos.
 
-1. El Gobierno, a propuesta conjunta de los Ministerios de Industria, Comercio y Turismo; Asuntos Económicos y Transformación Digital; y para la Transición Ecológica y el Reto Demográfico, establecerá la creación de un mecanismo de compensación de los costes indirectos significativos imputables a las emisiones de gases de efecto invernadero repercutidas en los precios de la electricidad del que podrán beneficiarse las instalaciones pertenecientes a sectores y subsectores expuestos a un riesgo real de fugas de carbono.
+1. El Gobierno, a propuesta conjunta de las personas titulares de los Ministerios de Industria y Turismo; Economía, Comercio y Empresa; y para la Transición Ecológica y el Reto Demográfico, establecerá la creación de un mecanismo de compensación de los costes indirectos significativos imputables a las emisiones de gases de efecto invernadero repercutidas en los precios de la electricidad del que podrán beneficiarse las instalaciones pertenecientes a sectores y subsectores expuestos a un riesgo real de fugas de carbono. El mecanismo de compensación de costes no debe compensar los costes indirectos incluidos en la asignación gratuita, de conformidad con los parámetros de referencia establecidos de acuerdo con la normativa de la Unión Europea.
 
 2. La cuantía de las compensaciones no será superior, para cada instalación, a los costes por las emisiones de CO2 que han trasladado los generadores de electricidad y mantendrá el incentivo para que se reduzca el consumo de electricidad en la instalación, garantizando la compensación por los consumos eficientes. La compensación de los costes quedará condicionada al cumplimiento de las normas de la Unión Europea sobre ayudas de Estado aplicables y, en concreto, no provocarán distorsiones indebidas de la competencia en el mercado interior.
 
@@ -17,6 +17,8 @@ b) Información sobre si se han tenido debidamente en cuenta otras medidas para 
 5. En el primer trimestre de cada año, el Ministerio de Industria, Comercio y Turismo pondrá a disposición del público, en una forma fácilmente accesible, el importe total de las ayudas que en su caso se concedan conforme a la presente disposición, desglosado por sectores y subsectores beneficiarios.
 
 Esta información quedará recogida, además, en la Base de Datos Nacional de Subvenciones, de conformidad con los artículos 18 y 20 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones.
+
+> Se modifica el apartado 1 por el art. único.44 del Real Decreto-ley 41/2026, de 20 de noviembre. Ref. BOE-A-2026-24438
 
 > Se modifica por el art. único.37 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
 

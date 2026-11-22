@@ -2,7 +2,9 @@
 
 1. El Gobierno, en el ámbito de sus competencias, dictará las disposiciones necesarias para el desarrollo de esta ley.
 
-2. El Gobierno, mediante real decreto, podrá modificar el anexo I de esta ley para establecer la exclusión de determinados vuelos de las actividades de aviación en caso de que la Comisión Europea adopte modificaciones de las actividades de aviación enumeradas en el anexo I de la Directiva 2003/87/CE para excluir los vuelos procedentes de un tercer país que haya adoptado medidas para reducir el impacto en el cambio climático de los vuelos procedentes de dicho país que aterricen en la Unión Europea.
+2. El Gobierno podrá modificar los anexos de esta ley para adecuarla a los cambios que introduzca la normativa de la Unión Europea en materia de comercio de derechos de emisión.
+
+> Se modifica el apartado 2 por el art. único.58 del Real Decreto-ley 41/2026, de 20 de noviembre. Ref. BOE-A-2026-24438
 
 > Se modifica por el art. único.45 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
 

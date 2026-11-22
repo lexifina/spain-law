@@ -32,7 +32,9 @@ Las instalaciones que se reintroduzcan en el régimen de comercio de derechos de
 
 6. El Gobierno podrá excluir del régimen de comercio de derechos de emisión las instalaciones que emitan menos de 2.500 toneladas equivalentes de dióxido de carbono, sin contabilizar las emisiones de la biomasa, para cada uno de los tres años precedentes a la solicitud de asignación a que se refiere el artículo 19, de acuerdo con lo que se establezca en desarrollo de la misma.
 
-7. En el año 2023, el Ministerio para la Transición Ecológica y el Reto Demográfico realizará un informe sobre la aplicación hasta la fecha del régimen de exclusión de las instalaciones de bajas emisiones. A la vista de los resultados de este informe, el Gobierno, reglamentariamente, podrá extender la aplicación del régimen de exclusión a partir de 2026.
+7. En el año intermedio de cada periodo de asignación, el Ministerio para la Transición Ecológica y el Reto Demográfico realizará un informe sobre la aplicación hasta la fecha del régimen de exclusión de las instalaciones de bajas emisiones. A la vista de los resultados de este informe, el Gobierno, reglamentariamente, podrá extender la aplicación del régimen de exclusión durante el periodo de asignación siguiente, y establecer su alcance y reglas de aplicación para dicho periodo.
+
+> Se modifica el apartado 7 por el art. único.43 del Real Decreto-ley 41/2026, de 20 de noviembre. Ref. BOE-A-2026-24438
 
 > Se modifica por el art. único.35 de la Ley 9/2020, de 16 de diciembre. Ref. BOE-A-2020-16347#au
 

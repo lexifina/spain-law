@@ -1,0 +1,5 @@
+## Disposición adicional décima. Reducción de potencia térmica nominal total por cambio de titularidad de dispositivos de combustión.
+
+Cuando una instalación que está incluida en el ámbito de aplicación del Régimen de Comercio de Derechos de Emisión de la Unión Europea debido al funcionamiento de unidades de combustión con una potencia térmica nominal total superior a 20 MW, modifique la titularidad de sus dispositivos de combustión y deje de alcanzar dicho umbral, sin reducir sus emisiones de gases de efecto invernadero en conjunto, el órgano autonómico competente de acuerdo con la localización de la instalación la mantendrá con todos los dispositivos originales en el ámbito de aplicación de esta ley hasta el final del período de asignación en marcha y hasta el final del siguiente periodo. El titular de la instalación original deberá cumplir con todas las obligaciones de seguimiento, notificación y entrega de derechos de emisión en el ámbito de aplicación de esta ley hasta el final del período de cinco años en curso, así como también del siguiente período.
+
+> Se añade por el art. único.47 del Real Decreto-ley 41/2026, de 20 de noviembre. Ref. BOE-A-2026-24438
