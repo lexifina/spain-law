@@ -20,7 +20,11 @@
    "corpora": [
     "spain/national/acts"
    ],
-   "interval": 1.0
+   "interval": 1.0,
+   "allow": [
+    "estatal/",
+    "normas.tsv"
+   ]
   }
  ]
 }
