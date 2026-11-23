@@ -1,0 +1,55 @@
+{
+ "generated": "2026-11-23T01:09:46Z",
+ "latest": {
+  "boe-estatal|spain/national/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {
+    "awaiting_text": 7,
+    "current": 8518,
+    "gone": 0,
+    "held": 8774,
+    "listed_without_text": 47,
+    "newest_at_source": "BOE-A-2026-24316",
+    "newest_in_repo": "BOE-A-2026-22515",
+    "out_of_scope": 0,
+    "pending": 256,
+    "repo": 8774,
+    "source_in_scope": 8854
+   },
+   "check_id": "es-boe-estatal-20261123T010631Z",
+   "commits": null,
+   "corpus": "spain/national/acts",
+   "error": null,
+   "finished": "2026-11-23T01:07:55Z",
+   "flags": [
+    {
+     "detail": "152 norms new or updated at the BOE over 7 days ago are not here in that form",
+     "flag": "publish-lag"
+    }
+   ],
+   "gap": 343,
+   "note": "the BOE's list of 12477 consolidated norms (8854 Estatal, 3623 Autonómico) was read once at 01:06 UTC for the 20 Spanish corpora (check es-boe-estatal-20261123T010631Z); this repository's data run to 2026-10-28; 47 norms are listed in data/acts.json without text (gaps below); first check: the BOE's entries were recorded as the baseline for the next check",
+   "outcome": "no-change",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 10,
+   "runner": "lawwatch spain (f95b387938)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-20T13:08:24Z",
+   "source": "boe-estatal",
+   "started": "2026-11-23T01:06:31Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}
