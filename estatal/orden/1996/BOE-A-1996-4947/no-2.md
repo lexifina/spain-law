@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 24 de noviembre de 2026, por la disposición derogatoria única de la Orden EFD/1158/2026, de 28 de octubre, si bien las disposiciones de esta Orden comenzarán a aplicarse el 1 de septiembre del curso escolar siguiente a su entrada en vigor, según establece su disposición final 2.2. Ref. BOE-A-2026-23105#dd
