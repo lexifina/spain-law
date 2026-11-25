@@ -1,15 +1,17 @@
 {
- "generated": "2026-11-24T07:30:15Z",
+ "generated": "2026-11-25T06:29:55Z",
  "latest": {
   "boe-estatal|spain/national/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-2014-10517: 10 of 226 blocks of the page not found here; 16425 of 489965 letters here not on the page as such",
-     "BOE-A-1993-6202: 54 of 253 blocks of the page not found here; 44771 of 340555 letters here not on the page as such"
+     "BOE-A-2011-16467: 13 of 491 blocks of the page not found here; 6205 of 759819 letters here not on the page as such",
+     "BOE-A-2002-4920: 4 of 16 blocks of the page not found here; 3267 of 15113 letters here not on the page as such",
+     "BOE-A-2003-21845: 1 of 12 blocks of the page not found here; 58573 of 108802 letters here not on the page as such",
+     "BOE-A-2006-18375: 1 of 25 blocks of the page not found here; 206 of 142814 letters here not on the page as such"
     ],
-    "match_neither": 2,
-    "match_new": 6,
+    "match_neither": 4,
+    "match_new": 4,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 8,
@@ -17,97 +19,108 @@
    },
    "census": {
     "awaiting_text": 6,
-    "checked": 1103,
-    "current": 8783,
+    "checked": 1114,
+    "current": 8787,
     "gone": 0,
-    "held": 8797,
+    "held": 8799,
     "listed_without_text": 45,
     "newest_at_source": "BOE-A-2026-24573",
-    "newest_in_repo": "BOE-A-2026-24437",
+    "newest_in_repo": "BOE-A-2026-24439",
     "out_of_scope": 0,
-    "pending": 14,
-    "repo": 8797,
+    "pending": 12,
+    "repo": 8799,
     "source_in_scope": 8857
    },
-   "check_id": "es-boe-estatal-20261124T062451Z",
+   "check_id": "es-boe-estatal-20261125T052409Z",
    "commits": {
-    "count": 15,
-    "from": "0b24cacff005b74b162fb47f9e21fd14709add24",
-    "to": "c9acb879b7ef0e4c88e63e4931cf0f9e74adc4ca"
+    "count": 16,
+    "from": "5cc5c45518d304e9bc9fdbe63a4f19a0bbe59def",
+    "to": "7e0583ee86b5b48605b8da8d711f0478f40ea2a6"
    },
    "corpus": "spain/national/acts",
    "error": null,
-   "finished": "2026-11-24T07:14:02Z",
+   "finished": "2026-11-25T06:14:01Z",
    "flags": [
     {
-     "detail": "2 norms new or updated at the BOE over 7 days ago are not here in that form after this check's update",
+     "detail": "6 norms new or updated at the BOE over 7 days ago are not here in that form after this check's update",
      "flag": "publish-lag"
     },
     {
-     "detail": "2 of 8 read again by a second route disagree",
+     "detail": "4 of 8 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
-   "gap": 71,
-   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 06:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261124T062451Z); this repository's data run to 2026-10-28; 45 norms are listed in data/acts.json without text (gaps below)",
+   "gap": 74,
+   "note": "the BOE's list of 12481 consolidated norms (8857 Estatal, 3624 Autonómico) was read once at 05:24 UTC for the 20 Spanish corpora (check es-boe-estatal-20261125T052409Z); this repository's data run to 2026-10-28; 45 norms are listed in data/acts.json without text (gaps below)",
    "outcome": "changed",
    "published": {
-    "added": [
-     "BOE-A-1996-4947",
-     "BOE-A-2020-17278",
-     "BOE-A-2026-23105",
-     "BOE-A-2026-24439"
-    ],
+    "added": [],
     "changed": [
-     "BOE-A-1992-28740",
-     "BOE-A-1992-28741",
-     "BOE-A-1993-25359",
-     "BOE-A-1995-24262",
-     "BOE-A-2000-641",
-     "BOE-A-2007-17492",
-     "BOE-A-2014-10517",
-     "BOE-A-2020-4697",
-     "BOE-A-2021-885",
-     "BOE-A-2026-6544"
+     "BOE-A-1976-11506",
+     "BOE-A-2003-11044",
+     "BOE-A-2003-13813",
+     "BOE-A-2003-19281",
+     "BOE-A-2006-14189",
+     "BOE-A-2006-16212",
+     "BOE-A-2007-10556",
+     "BOE-A-2007-13409",
+     "BOE-A-2011-16467"
     ],
     "removed": []
    },
-   "requests": 1123,
-   "runner": "lawwatch spain (3a3ae06cd1)",
+   "requests": 1135,
+   "runner": "lawwatch spain (e9c9e7e229)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "BOE-A-2026-24439",
-     "BOE-A-2026-24573"
-    ],
+    "added": [],
     "changed": [
-     "BOE-A-2000-24019",
-     "BOE-A-2003-23186",
+     "BOE-A-1976-11506",
+     "BOE-A-1988-18764",
+     "BOE-A-2003-13616",
+     "BOE-A-2005-19251",
      "BOE-A-2005-3941",
-     "BOE-A-2007-17492",
-     "BOE-A-2013-13645",
-     "BOE-A-2014-10517",
-     "BOE-A-2020-17278",
-     "BOE-A-2020-4697",
-     "BOE-A-2021-885",
-     "BOE-A-2022-19911",
-     "BOE-A-2026-6544"
+     "BOE-A-2006-7899",
+     "BOE-A-2009-17493",
+     "BOE-A-2011-10830",
+     "BOE-A-2011-16467",
+     "BOE-A-2012-9058",
+     "BOE-A-2013-5720",
+     "BOE-A-2013-6804",
+     "BOE-A-2013-6805",
+     "BOE-A-2014-1183",
+     "BOE-A-2014-1792",
+     "BOE-A-2015-8800",
+     "BOE-A-2016-3372",
+     "BOE-A-2017-13835",
+     "BOE-A-2017-1881",
+     "BOE-A-2017-1894",
+     "BOE-A-2017-5084",
+     "BOE-A-2018-4247",
+     "BOE-A-2019-3995",
+     "BOE-A-2019-4955",
+     "BOE-A-2022-23044",
+     "BOE-A-2022-5139",
+     "BOE-A-2023-16889",
+     "BOE-A-2026-12038",
+     "BOE-A-2026-20528"
     ],
-    "removed": []
+    "removed": [
+     "BOE-A-1996-4947"
+    ]
    },
-   "snapshot": "2026-11-23T14:01:19Z",
+   "snapshot": "2026-11-24T12:36:43Z",
    "source": "boe-estatal",
-   "started": "2026-11-24T06:24:51Z",
+   "started": "2026-11-25T05:24:09Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 7,
     "examples": [],
-    "held": 7636,
-    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 1104 reads, 2.5 s apart), rendered by the repository's own builder (build/boe.py), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 7 days (1089 of 7636 swept this check)",
+    "held": 7638,
+    "method": "each norm's consolidated XML read again from the BOE (api/legislacion-consolidada/id/<id>, 1115 reads, 2.5 s apart), rendered by the repository's own builder (build/boe.py), and the text in force today compared with the files at the tip of main, git blob by git blob (byte for byte); a rotating sweep reads every held norm within 7 days (1089 of 7638 swept this check)",
     "ok": true,
     "swept": 1089,
     "unread": 0,
-    "versions_checked": 1103,
+    "versions_checked": 1114,
     "versions_differ": 0
    }
   }
