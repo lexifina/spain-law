@@ -152,6 +152,8 @@ Diecinueve. Vigencia.
 
 Este impuesto será aplicable en los tres primeros periodos impositivos consecutivos que se inicien desde el 1 de enero de 2024.
 
+Asimismo, este impuesto será aplicable en los periodos impositivos que se inicien durante el año 2027.
+
 Veinte. Primer pago fraccionado.
 
 El pago fraccionado que deba efectuarse en el año 2025 conforme a lo dispuesto en el apartado catorce, se efectuará en los primeros 20 días naturales del sexto mes posterior al de finalización del periodo impositivo.
@@ -161,6 +163,10 @@ Veintiuno.
 Sin perjuicio de lo dispuesto en el número 2 del apartado dos de esta disposición, la recaudación obtenida se distribuirá a las comunidades autónomas de régimen común en el año natural siguiente a aquel en el que deba autoliquidarse el impuesto, en función de su Producto Interior Bruto regional, a fecha de 1 de enero del año natural en el que deba autoliquidarse el impuesto.
 
 El importe de la recaudación se pondrá anualmente a disposición de las comunidades autónomas de régimen común mediante operaciones de tesorería, cuyo procedimiento se determinará reglamentariamente, y se efectuará en el ejercicio siguiente al de la recaudación del impuesto.
+
+No obstante lo dispuesto en los párrafos anteriores, la recaudación obtenida por el impuesto aplicable en los periodos impositivos que se inicien durante el año 2027 se destinará a políticas de vivienda, y se distribuirá entre las comunidades autónomas de régimen común de acuerdo con las condiciones que se fijen reglamentariamente, siendo objeto de reparto en la Conferencia Sectorial competente, mediante el procedimiento previsto en el artículo 86 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, regulador de los créditos gestionados por las Comunidades Autónomas, en el ejercicio siguiente al de la recaudación del impuesto. A estos efectos, se otorga carácter ampliable a los créditos que se doten en las Leyes de Presupuestos Generales del Estado hasta un importe igual a la recaudación que se deba librar a las Comunidades Autónomas.
+
+> Se modifican los apartados 19 y 21 por el art. 1 de la Real Decreto-ley 43/2026, de 24 de noviembre. Ref. BOE-A-2026-24701
 
 > Se dejan sin efecto las modificaciones establecidas por el Real Decreto-ley 9/2024, de 23 de diciembre, por Resolución de 22 de enero de 2025, que publica el Acuerdo del Congreso de los Diputados por el que se deroga. Ref. BOE-A-2025-1136
 
