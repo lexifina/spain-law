@@ -6,19 +6,21 @@
 
 1. Aspecto principal: Cambio climático (mitigación del cambio climático y adaptación a este)
 
-BCAM 1. Mantenimiento de los pastos permanentes basado en una proporción de pastos permanentes con respecto a la superficie agrícola a escala regional en comparación con el año de referencia 2018. Reducción máxima del 5 % en comparación con el año de referencia.
+BCAM 1. Mantenimiento de los pastos permanentes basado en una proporción de pastos permanentes con respecto a la superficie agrícola a escala regional en comparación con el año de referencia 2018. Reducción máxima del 10 % en comparación con el año de referencia.
 
-La proporción anual de pastos permanentes en cada comunidad autónoma no deberá disminuir en más de un 5 % en relación con la proporción de referencia para 2018. No obstante, cuando la superficie dedicada a pastos permanentes en un año dado, en términos absolutos, no descienda en más del 0,5 % con respecto a la superficie de pastos permanentes de referencia, se considerará cumplida la obligación de mantener la proporción de pastos permanentes.
+La proporción anual de pastos permanentes en cada comunidad autónoma no deberá disminuir en más de un 10 % en relación con la proporción de referencia para 2018. No obstante, cuando la superficie dedicada a pastos permanentes en un año dado, en términos absolutos, no descienda en más del 0,5 % con respecto a la superficie de pastos permanentes de referencia, se considerará cumplida la obligación de mantener la proporción de pastos permanentes.
 
-Cuando la proporción anual de pastos permanentes en cada comunidad autónoma sufra una disminución igual o superior del 5 % respecto a la proporción de referencia y la variación en términos absolutos de la superficie dedicada a pastos permanentes supere el límite establecido en el apartado anterior se deberá reconvertir la superficie necesaria a pastos permanentes.
+Cuando la proporción anual de pastos permanentes en cada comunidad autónoma sufra una disminución igual o superior del 10 % respecto a la proporción de referencia y la variación en términos absolutos de la superficie dedicada a pastos permanentes supere el límite establecido en el apartado anterior se deberá reconvertir la superficie necesaria a pastos permanentes.
 
 Las personas beneficiarias de las ayudas obligadas a dicha reconversión serán aquellas que, sobre la base de las solicitudes presentadas durante los dos últimos años naturales, hayan convertido superficies de pastos permanentes a otros usos.
 
 Las autoridades competentes comunicarán a las personas beneficiarias de las ayudas indicadas en el apartado anterior la obligación individual de reconversión y las normas para evitar nuevas conversiones de pastos permanentes a otros usos.
 
-La superficie a reconvertir en pastos se calculará sobre la base de la superficie de pastos eliminada en el año anterior, con el fin de restaurar la proporción de pastos permanentes dentro del margen del 5 % en el ámbito de cada comunidad autónoma. No se contabilizarán en la superficie reconvertida por las personas beneficiarias de ayudas para el cálculo del porcentaje, las superficies de pastos permanentes creadas por las personas beneficiarias de ayudas en virtud de compromisos adquiridos de conformidad con el Reglamento (CE) n.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y el Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
+La superficie a reconvertir en pastos se calculará sobre la base de la superficie de pastos eliminada en el año anterior, con el fin de restaurar la proporción de pastos permanentes dentro del margen del 10 % en el ámbito de cada comunidad autónoma. No se contabilizarán en la superficie reconvertida por las personas beneficiarias de ayudas para el cálculo del porcentaje, las superficies de pastos permanentes creadas por las personas beneficiarias de ayudas en virtud de compromisos adquiridos de conformidad con el Reglamento (CE) n.º 1698/2005 del Consejo, de 20 de septiembre de 2005, y el Reglamento (UE) n.º 1305/2013 del Parlamento Europeo y del Consejo, de 17 de diciembre de 2013.
 
 La reconversión de superficies a pastos permanentes deberá llevarse a cabo antes de la fecha de presentación de la solicitud de ayudas del año siguiente.
+
+Las superficies certificadas o en proceso de conversión de acuerdo con el Reglamento (UE) 2018/848 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018, sobre producción ecológica y etiquetado de los productos ecológicos y por el que se deroga el Reglamento (CE) n.º 834/2007 del Consejo, se considerarán que cumplen con la BCAM 1.
 
 BCAM 2. Protección de humedales y turberas.
 
@@ -46,6 +48,8 @@ Se deberán cumplir las siguientes obligaciones:
 
 – Cumplir con lo establecido en el artículo 27.3 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
 
+Las superficies certificadas o en proceso de conversión de acuerdo con el Reglamento (UE) 2018/848 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018, se considerarán que cumplen con las obligaciones de la BCAM 3.
+
 2. Aspecto principal: Agua
 
 BCAM 4. Creación de franjas de protección en los márgenes de los ríos.
@@ -70,6 +74,8 @@ Asimismo, se entenderá por cauce el álveo o cauce natural de una corriente con
 
 – En zonas con canales de riego importantes en los que se pueda producir percolación de materias nocivas, este ancho se podrá ajustar por las comunidades autónomas si está debidamente justificado y de acuerdo con las circunstancias locales específicas; en este caso deberán comunicarse estas informaciones al FEGA O.A. una vez establecida la anchura mínima de la franja de protección, no pudiendo ser inferior a 1 metro. Las obligaciones de esta BCAM no afectarán a las pequeñas acequias de riego u otras infraestructuras similares.
 
+Las superficies certificadas o en proceso de conversión de acuerdo con el Reglamento (UE) 2018/848 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018, se considerarán que cumplen con las obligaciones de la BCAM 4.
+
 ![imagen](https://www.boe.es/datos/imagenes/disp/2022/312/23049_12592258_1.png)
 
 3. Aspecto principal: Suelo (protección y calidad)
@@ -80,7 +86,9 @@ Se establece la siguiente obligación:
 
 Que en las superficies que se destinen a cultivos herbáceos o cultivos leñosos, no se labre la tierra en la dirección a la máxima pendiente cuando, en los recintos cultivados, la pendiente media sea mayor o igual al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales. En caso de existencia de bancales, será obligatorio evitar cualquier tipo de labores que afecten a la estructura de los taludes existentes.
 
-Quedan exentas del cumplimiento de esta BCAM 5, las parcelas de cultivos herbáceos y leñosos con una superficie igual o inferior a una hectárea, así como las parcelas de cultivos leñosos irregulares o alargadas cuya dimensión mínima en el sentido transversal a la pendiente sea inferior a 100 metros en cualquier punto de la parcela.
+Quedan exentas del cumplimiento de esta BCAM 5, las parcelas de superficie igual o inferior a una hectárea, así como las parcelas irregulares o alargadas cuya dimensión mínima en el sentido transversal a la pendiente sea inferior a 100 metros en cualquier punto de la parcela.
+
+Las superficies certificadas o en proceso de conversión de acuerdo con el Reglamento (UE) 2018/848 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018 se considerarán que cumplen con las obligaciones de la BCAM 5.
 
 En el caso de plantaciones de cultivos leñosos que estuvieran implantadas antes del 1 de enero de 2023, se tendrá en cuenta lo indicado en el artículo 17 bis. Las autoridades competentes llevarán a cabo un seguimiento de todas las excepciones que autoricen, y en el caso de las autorizaciones colectivas para superficies de viñedo se tendrá en cuenta lo indicado en el artículo 17 bis.
 
@@ -89,26 +97,6 @@ Asimismo, como excepción a la BCAM se permite la práctica del aserpiado y el i
 Además, las comunidades autónomas podrán autorizar labrar en la dirección de máxima pendiente cuando el labrar transversalmente pueda suponer un riesgo de vuelco de la maquinaria y por ende de la vida de los operarios.
 
 Se entiende por pendiente media de un recinto SIGPAC la inclinación media del terreno comprendido en los límites de un recinto, expresada en tanto por ciento y calculada con base en el Modelo Digital de Elevaciones perteneciente a la Información Geoespacial de Referencia del Instituto Geográfico Nacional siguiendo el método de análisis de celdas vecinas.
-
-> Téngase en cuenta que esta última actualización del epígrafe BCAM 5, establecida por el art. único.8 del Real Decreto 567/2024, de 18 de junio, Ref. BOE-A-2024-12378, entra en vigor el 1 de enero de 2025, según determina su disposicion final 3.2.
-
-> Redacción anterior:
-
-> "BCAM 5. Gestión de la labranza, reduciendo el riesgo de degradación y erosión del suelo, lo que incluye tener en cuenta la inclinación de la pendiente.
-
-> Se establece la siguiente obligación:
-
-> – Que en las superficies que se destinen a cultivos herbáceos o cultivos leñosos, no se labre la tierra en la dirección a la máxima pendiente cuando, en los recintos cultivados, la pendiente media sea mayor o igual al 10 %, salvo que la pendiente real del recinto esté compensada mediante terrazas o bancales.
-
-> En caso de existencia de bancales, será obligatorio evitar cualquier tipo de labores que afecten a la estructura de los taludes existentes.
-
-> En el caso de plantaciones de cultivos leñosos que estuvieran implantadas antes del 1 de enero de 2023, se tendrá en cuenta lo indicado en el artículo 17 bis. Las autoridades competentes llevarán a cabo un seguimiento de todas las excepciones que autoricen, y en el caso de las autorizaciones colectivas para superficies de viñedo se tendrá en cuenta lo indicado en el artículo 17 bis.
-
-> Asimismo, como excepción a la BCAM se permite la práctica del aserpiado y el intercepas en las superficies de viñedo, al ser prácticas tradicionales acordes con el objetivo de esta BCAM.
-
-> No obstante, las comunidades autónomas podrán autorizar labrar en la dirección de máxima pendiente cuando el labrar transversalmente pueda suponer un riesgo de vuelco de la maquinaria y por ende de la vida de los operarios.
-
-> Se entiende por pendiente media de un recinto SIGPAC la inclinación media del terreno comprendido en los límites de un recinto, expresada en tanto por ciento y calculada con base en el Modelo Digital de Elevaciones perteneciente a la Información Geoespacial de Referencia del Instituto Geográfico Nacional siguiendo el método de análisis de celdas vecinas."
 
 BCAM 6. Cobertura mínima del suelo para evitar suelos desnudos en los períodos más sensibles.
 
@@ -136,6 +124,8 @@ No obstante, en las superficies de viñedo se podrá llevar a cabo la práctica 
 
 – En las parcelas agrícolas que se encuentren incluidas en las zonas de influencia forestal se podrá establecer la obligación de labrar una franja perimetral de la anchura necesaria para que sirva de cortafuego.
 
+Las superficies certificadas o en proceso de conversión de acuerdo con el Reglamento (UE) 2018/848 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018, se considerarán que cumplen con las obligaciones BCAM 6.
+
 BCAM 7. Rotación en tierras de cultivo, excepto en cultivos bajo agua.
 
 Los beneficiarios podrán elegir aplicar en sus tierras de cultivo una de las dos siguientes prácticas para poder cumplir con la BCAM:
@@ -149,8 +139,6 @@ Anualmente, al menos el 33 % de la superficie de las tierras de cultivo de la ex
 Todas las parcelas de la explotación agrícola tendrán que cambiar de cultivo al menos una vez cada tres años, debiendo quienes se acojan a esta práctica de rotación cumplir con la misma durante tres años consecutivos.
 
 Cuando exista un cultivo secundario en el mismo año que el cultivo principal, éste se considerará parte de la rotación, sin que se puedan utilizar las tierras en barbecho en estos casos. El cultivo secundario es el que se realiza entre dos cultivos principales, dando lugar a una pausa significativa entre los principales. En el caso de que se utilice el cultivo secundario como justificación a la rotación de cultivos, será necesario llevarlo a cabo durante tres años consecutivos. Se considerará cultivo principal aquél que se encuentre en la parcela entre los meses de mayo a julio, periodo que puede ser ajustado por las comunidades autónomas en función de las condiciones agroclimáticas de la región.
-
-> Téngase en cuenta que esta última actualización de la práctica 1 del epígrafe BCAM 7, establecida por el art. único.10 del Real Decreto 567/2024, de 18 de junio, Ref. BOE-A-2024-12378, entra en vigor el 1 de enero de 2025, según determina su disposicion final 3.2.
 
 Práctica 2: Diversificación de cultivos.
 
@@ -166,7 +154,7 @@ A efectos del cumplimiento de esta BCAM, se entenderá por cultivo cualquiera de
 
 – el cultivo de cualquiera de los diferentes géneros definidos en la clasificación botánica de cultivos;
 
-– el cultivo de cualquiera de las especies, en el caso de las familias botánicas Brassicaceae, Solanaceae y Cucurbitacea y en el caso del género Vicia;
+– el cultivo de cualquiera de las especies, en el caso de las familias botánicas Brassicaceae, Solanaceae y Cucurbitaceae y en el caso del género Vicia;
 
 – la tierra en barbecho;
 
@@ -174,7 +162,7 @@ A efectos del cumplimiento de esta BCAM, se entenderá por cultivo cualquiera de
 
 En el caso de superficies con cultivos mixtos en hileras, cada cultivo se contabilizará como un cultivo distinto si representa, al menos, el 25 % de dicha superficie. En tal caso, la superficie cubierta por cada cultivo se calculará dividiendo la superficie total dedicada al cultivo mixto por el número de cultivos presentes que cubran, como mínimo, el 25 % de dicha superficie, con independencia de la proporción real de cada cultivo.
 
-Las superficies que se siembren con una mezcla de semillas se consideran cubiertas por un solo cultivo denominado cultivo mixto. No obstante, cuando la composición de la mezcla se pueda determinar y diferenciar de otras mezclas, el cultivo mixto se podrá considerar como un cultivo distinto de los demás cultivos mixtos.
+El cálculo de los porcentajes de los diferentes cultivos y la verificación del número de cultivos se llevará teniendo en cuenta los cultivos principales.
 
 No obstante, quedan exentas del cumplimiento de la BCAM las explotaciones:
 
@@ -182,11 +170,15 @@ a) En las que más del 75 % de las tierras de cultivo se utilice para producir h
 
 b) En las que más del 75 % de la superficie agrícola admisible sean pastos permanentes, se utilice para producir hierbas u otros forrajes herbáceos o para cultivos bajo agua durante una parte significativa del año o del ciclo de cultivo, o esté sujeto a una combinación de estos usos.
 
-c) En las que la superficie de tierra cultivable es inferior o igual a 10 hectáreas.
+c) En las que la superficie de tierra de cultivo es inferior o igual a 10 hectáreas.
 
-d) Las certificadas de acuerdo con el Reglamento (UE) núm. 2018/848, sobre producción ecológica y etiquetado de los productos ecológicos.
+Asimismo, quedan exentas del cumplimiento de la BCAM, las siguientes superficies:
 
-e) Las tierras de cultivo destinadas al cultivo de hortícolas y al cultivo de la patata de las explotaciones situadas en la Comunidad Autónoma de Canarias desde el 1 de enero de 2025.
+a) Las certificadas o en proceso de conversión de acuerdo con el Reglamento (UE) 2018/848 del Parlamento Europeo y del Consejo, de 30 de mayo de 2018.
+
+b) Las tierras de cultivo destinadas al cultivo de hortícolas y al cultivo de la patata de las explotaciones situadas en la Comunidad Autónoma de Canarias.
+
+Por otra parte, las explotaciones en las que la superficie máxima no supere las 30 hectáreas de superficie agrícola declarada, estarán exentas de controles y penalizaciones.
 
 4. Aspecto principal: Biodiversidad y paisaje (protección y calidad)
 
@@ -251,6 +243,10 @@ Se deberá cumplir con las siguientes obligaciones de acuerdo con el calendario 
 – La explotación, cuando proceda, debe contar con un plan de abonado para cada unidad de producción de la misma.
 
 – Aplicación localizada de purines y enterrado de estiércoles sólidos en las superficies agrícolas.
+
+> Se modifican los apartados 1 a 3 por el art. único.7 a 12 del Real Decreto 1060/2026, de 25 de noviembre. Ref. BOE-A-2026-24806
+
+> Estas modificaciones son aplicable desde el 1 de enero de 2026, según establece la disposición final única del citado Real Decreto.
 
 > Se modifica el apartado 3 por el art. 4 del Real Decreto 1028/2024, de 8 de octubre. Ref. BOE-A-2024-20404
 
