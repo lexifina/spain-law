@@ -8,9 +8,9 @@ Cómo mide global-law lo actualizado que está cada país: [global-law FRESHNESS
 
 ### Legislación consolidada del BOE, normas estatales (datos abiertos) · `spain/national/acts`
 
-- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-26 06:18 UTC**.
-- Normas en este repositorio: 8 799; al día con la fuente: 8 769; modificadas en la fuente después de la versión de aquí: 30; ya no están en la fuente: 0.
-- Compared with the source in this read: 1 139 of the 8 799 acts held here; the others were not compared in this read (see the check's note).
+- Última lectura de la fuente oficial con cada norma de este repositorio comprobada frente a ella: **2026-11-27 06:17 UTC**.
+- Normas en este repositorio: 8 799; al día con la fuente: 8 782; modificadas en la fuente después de la versión de aquí: 17; ya no están en la fuente: 0.
+- Compared with the source in this read: 1 120 of the 8 799 acts held here; the others were not compared in this read (see the check's note).
 - Sin publicar: 79 (modificada en la fuente después de la versión de aquí: 14, la fuente aún no ha publicado su texto: 45, entra en vigor más tarde: 20); sin motivo: 0.
 
 En detalle: [monitoring/](monitoring/README.md). Para programas: [data/checks/latest.json](data/checks/latest.json).
