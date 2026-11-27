@@ -1,0 +1,5 @@
+## Disposición adicional cuarta. Tratamiento de datos personales.
+
+Los tratamientos de datos personales regulados en este real decreto se llevarán a cabo conforme a lo dispuesto en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE, y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales.
+
+En todo caso, cuando en cumplimiento de este real decreto se lleven a cabo tratamientos de datos personales en los casos previstos en la Ley 7/2025, de 28 de julio, por la que se crea la Agencia Estatal de Salud Pública, en la Ley 33/2011, de 4 de octubre, General de Salud Pública, o en el Real Decreto 568/2024, de 18 de junio, por el que se crea la Red Estatal de Vigilancia en Salud Pública, dichos tratamientos de datos personales deberán cumplir asimismo con lo dispuesto al respecto en dichas normas.

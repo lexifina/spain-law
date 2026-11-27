@@ -1,0 +1,5 @@
+## Disposición adicional primera. Afectación de la Defensa Nacional.
+
+La Comisión Estatal de Coordinación, prevista en el Plan Estatal, deberá establecer los mecanismos de coordinación e interoperabilidad de este Plan Estatal con los planes que existan o puedan desarrollarse de preparación y respuesta de conflicto armado y con cuantos planes de preparación y respuesta de las diferentes administraciones que incluyan un componente sanitario y en particular con aquellos propuestos en el ámbito internacional en el marco de la Unión Europea, las agencias, programas y fondos de las Naciones Unidas y la Organización del Tratado del Atlántico Norte.
+
+En los Planes definidos para el desarrollo de esta disposición adicional, y sin perjuicio de lo previsto en este real decreto, la representación del Ministerio de Defensa se verá incrementada mediante la incorporación, como Vocal, de un representante del Ministerio de Defensa, adicional a los ya incluidos como representantes de este Ministerio, en las Comisiones y Comités referidos en este real decreto, implicados en el planeamiento, preparación, coordinación o respuesta.
