@@ -1,0 +1,5 @@
+## Disposición transitoria segunda. Régimen transitorio en el acceso a los estudios de grado en enseñanzas artísticas superiores.
+
+1. Hasta la entrada en vigor de los reales decretos que regularán los títulos oficiales de Grado en Enseñanzas Artísticas Superiores previstos en el artículo 8 de la Ley 1/2024, no será de aplicación las exenciones previstas en los artículos 24.4 y 24.5, ni la vía de acceso prevista en el artículo 26 del presente real decreto.
+
+2. En tanto no se produzca dicho desarrollo normativo, continuará aplicándose, en su caso, el régimen vigente anterior a la entrada en vigor de este real decreto, en aplicación de la disposición transitoria quinta de la Ley 1/2024, de 7 de junio, que establece que en las materias para cuya regulación esa ley remite a ulteriores disposiciones reglamentarias, y en tanto estas no sean dictadas, serán de aplicación, en cada caso, las normas de este rango que lo venían siendo a la fecha de entrada en vigor de dicha ley, siempre que no se opongan a lo dispuesto en ella.
