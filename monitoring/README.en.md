@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Spain only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 06:17 UTC, BOE consolidated legislation, state norms (open data): 1140 addresses read; 2 added, 31 changed, 0 removed; changes found; 79 not published, 0 of them with no reason. Flags: `publish-lag`, `audit-disagrees`.
+**Last check:** 2026-11-28 06:20 UTC, BOE consolidated legislation, state norms (open data): 1179 addresses read; 13 added, 63 changed, 7 removed; changes found; 85 not published, 0 of them with no reason. Flags: `publish-lag`, `audit-disagrees`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [BOE consolidated legislation, state norms (open data)](https://www.boe.es/datosabiertos/api/api.php) | `estatal/` | daily | 2026-11-27 06:17 UTC | changes found | watched |
+| [BOE consolidated legislation, state norms (open data)](https://www.boe.es/datosabiertos/api/api.php) | `estatal/` | daily | 2026-11-28 06:20 UTC | changes found | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 05:28](checks/2026-11.md#es-boe-estatal-20261128t052859z) | boe-estatal | 1179 | 13 | 63 | 7 | 85 (0) | changes found `publish-lag` `audit-disagrees` | [22](https://github.com/lexifina/spain-law/compare/9da13e4ac389...114e9399ff39) |
 | [2026-11-27 05:27](checks/2026-11.md#es-boe-estatal-20261127t052756z) | boe-estatal | 1140 | 2 | 31 | 0 | 79 (0) | changes found `publish-lag` `audit-disagrees` | [6](https://github.com/lexifina/spain-law/compare/be7dfa71924b...75d82c70ac6b) |
 | [2026-11-26 05:27](checks/2026-11.md#es-boe-estatal-20261126t052734z) | boe-estatal | 1159 | 1 | 57 | 0 | 79 (0) | changes found `publish-lag` `audit-disagrees` | [23](https://github.com/lexifina/spain-law/compare/78a9ddb36211...738f519892b2) |
 | [2026-11-25 05:24](checks/2026-11.md#es-boe-estatal-20261125t052409z) | boe-estatal | 1135 | 0 | 29 | 1 | 74 (0) | changes found `publish-lag` `audit-disagrees` | [16](https://github.com/lexifina/spain-law/compare/5cc5c45518d3...7e0583ee86b5) |
