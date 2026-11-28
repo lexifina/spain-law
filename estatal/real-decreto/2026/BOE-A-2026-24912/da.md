@@ -1,0 +1,3 @@
+## Disposición adicional única. Obligaciones derivadas del Mecanismo de Recuperación y Resiliencia.
+
+Los recursos de la Cartera de Financiación Promocional procedentes de la aportación patrimonial efectuada en ejecución de la Inversión 14 y la Inversión 15 del Componente 13 del Plan de Recuperación, Transformación y Resiliencia quedarán sujetos, mientras subsistan las obligaciones derivadas del Reglamento (UE) 2021/241 del Parlamento Europeo y del Consejo, de 12 de febrero de 2021, por el que se establece el Mecanismo de Recuperación y Resiliencia, al principio de «no causar un perjuicio significativo», a la prohibición de doble financiación y a los sistemas de auditoría y control de la Comisión Europea y de las autoridades nacionales del Plan.
